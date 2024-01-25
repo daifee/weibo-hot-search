@@ -1,10 +1,10 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706168046886,
+  "endTime": 1706170986517,
   "band_list": [
     {
-      "raw_hot": 6117554,
-      "num": 6117554,
+      "raw_hot": 7797604,
+      "num": 8254922,
       "word": "新加坡免签",
       "onboard_time": 1706166154,
       "rank": 0,
@@ -97,6 +97,14 @@
       "onboard_time": 1706108254,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1136317,
+      "num": 1136317,
+      "word": "朴信惠产后复出",
+      "onboard_time": 1706169751,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1030362,
@@ -243,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 634751,
+      "num": 634751,
+      "word": "王安宇问姐夫有看花少吗",
+      "onboard_time": 1706166630,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592009,
       "num": 592009,
       "word": "张檬备孕失败",
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575127,
+      "num": 575127,
+      "word": "男人花期真的很短",
+      "onboard_time": 1706168311,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 573582,
       "num": 573582,
       "word": "世卫警告X疾病比新冠致命20倍",
@@ -288,6 +312,14 @@
       "word": "宁艺卓自曝因ADHD压力很大",
       "onboard_time": 1706165370,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 522618,
+      "num": 522618,
+      "word": "虞书欣司机倒车警方成立工作专班调查",
+      "onboard_time": 1706169152,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -369,6 +401,14 @@
       "onboard_time": 1706107775,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 457380,
+      "num": 417888,
+      "word": "喝多了的迪丽热巴",
+      "onboard_time": 1706169031,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 456191,
@@ -459,14 +499,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 404239,
-      "num": 404239,
-      "word": "王安宇问姐夫有看花少吗",
-      "onboard_time": 1706166630,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394022,
       "num": 394022,
       "word": "姆巴佩决定离开巴黎",
@@ -489,6 +521,14 @@
       "onboard_time": 1706154932,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 392248,
+      "num": 251862,
+      "word": "走亲戚花了一千五买年货",
+      "onboard_time": 1706169990,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 388180,
@@ -609,6 +649,14 @@
       "onboard_time": 1706159492,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 324337,
+      "num": 324337,
+      "word": "于正说要好看得瘦到85斤",
+      "onboard_time": 1706169810,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 322553,
@@ -811,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248338,
+      "num": 248338,
+      "word": "仙剑甄嬛传",
+      "onboard_time": 1706170351,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246079,
       "num": 246079,
       "word": "暴雪中100多警力出动找的孩子被交警捡到",
@@ -859,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238189,
+      "num": 238189,
+      "word": "俞敏洪同意去蔡磊直播间卖货",
+      "onboard_time": 1706170653,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 238026,
       "num": 238026,
       "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
@@ -881,6 +945,14 @@
       "onboard_time": 1706165912,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229779,
+      "num": 229779,
+      "word": "MAC像个大疯子",
+      "onboard_time": 1706168433,
+      "rank": 25,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 228596,
@@ -964,7 +1036,7 @@
     },
     {
       "raw_hot": 216171,
-      "num": 216726,
+      "num": 331228,
       "word": "喝一滴酒都致癌吗",
       "onboard_time": 1706150610,
       "rank": 47,
@@ -1000,6 +1072,14 @@
       "word": "刘亦菲洛杉矶偶遇",
       "onboard_time": 1706161110,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207098,
+      "num": 207098,
+      "word": "张兰 义播",
+      "onboard_time": 1706170532,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1123,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195580,
+      "num": 195580,
+      "word": "新余火灾幸存学生讲述事发瞬间",
+      "onboard_time": 1706169931,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194907,
       "num": 194907,
       "word": "原来冬天的生蚝吃起来是脆的",
@@ -1171,12 +1259,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190814,
+      "num": 190814,
+      "word": "50克金条打金或能省1万元",
+      "onboard_time": 1706170112,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 189378,
       "num": 189378,
       "word": "刘雨昕连任山东春晚地屏质检员",
       "onboard_time": 1706147851,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "陈泽 我截屏了",
+      "onboard_time": 1706169571,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 187195,
@@ -1187,12 +1291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "宝可梦回应",
+      "onboard_time": 1706168311,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185675,
       "num": 185675,
       "word": "线上加班应支付劳动者加班费",
       "onboard_time": 1706155411,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185131,
+      "num": 185131,
+      "word": "小米跌出Q4中国智能手机市场前五",
+      "onboard_time": 1706168853,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 184843,
@@ -1299,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169649,
+      "num": 169649,
+      "word": "华中农大被查教授论文中18亿买猪饲料",
+      "onboard_time": 1706170831,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169178,
       "num": 169178,
       "word": "东方甄选开盘跌超6%",
@@ -1347,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157713,
+      "num": 157713,
+      "word": "gidle蓝发全明星阵容",
+      "onboard_time": 1706168971,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156375,
       "num": 156375,
       "word": "病毒感染后警惕暴发性心肌炎",
@@ -1387,6 +1523,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 153776,
+      "num": 153776,
+      "word": "没弟的人不知道这句话的恐怖",
+      "onboard_time": 1706167891,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "东部战区回应美舰过航台湾海峡",
@@ -1409,6 +1553,14 @@
       "onboard_time": 1706142809,
       "rank": 41,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 145940,
+      "num": 145940,
+      "word": "京阿尼纵火案全程回顾",
+      "onboard_time": 1706169990,
+      "rank": 44,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 144451,
@@ -1443,12 +1595,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 141987,
+      "num": 141987,
+      "word": "祖国统一台湾当归解放军始终以行动说话",
+      "onboard_time": 1706170892,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "知情人称江西火灾楼栋二楼没消防通道",
       "onboard_time": 1706104836,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140249,
+      "num": 140249,
+      "word": "杨超越看中医",
+      "onboard_time": 1706169571,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 139677,
@@ -1552,14 +1720,6 @@
       "word": "如果妈妈问以后谁给你养老",
       "onboard_time": 1706167468,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 121018,
-      "num": 121018,
-      "word": "没弟的人不知道这句话的恐怖",
-      "onboard_time": 1706167891,
-      "rank": 46,
       "category": "幽默"
     },
     {
@@ -1899,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28852,
+      "num": 136671,
+      "word": "2024宝石老舅又不服了",
+      "onboard_time": 1706169631,
+      "rank": 47,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 24808,
       "num": 964532,
       "word": "舰载直升机氛围感大片",
@@ -1937,6 +2105,14 @@
       "onboard_time": 1706121858,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19087,
+      "num": 253012,
+      "word": "商用车新能源化有多难",
+      "onboard_time": 1706169092,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 17457,

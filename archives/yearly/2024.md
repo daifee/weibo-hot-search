@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/25 15:34:06
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/25 16:23:06
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%23" target="weibo">
+新加坡免签（热度：7797604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BD%A0%E5%A5%BD%E9%97%AA%23" target="weibo">
 肖战你好闪（热度：7773194）
 </a>
@@ -131,12 +137,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E8%A1%8C%E8%B4%BF300%E4%B8%87%E5%BD%93%E4%B8%8A%E5%9B%BD%E8%B6%B3%E4%B8%BB%E6%95%99%E7%BB%83%23" target="weibo">
 李铁行贿300万当上国足主教练（热度：6441845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%23" target="weibo">
-新加坡免签（热度：6117554）
 </a>
 </li>
 

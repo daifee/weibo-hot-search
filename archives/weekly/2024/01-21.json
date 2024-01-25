@@ -1,20 +1,20 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706168046886,
+  "endTime": 1706170986517,
   "band_list": [
+    {
+      "raw_hot": 7797604,
+      "num": 8254922,
+      "word": "新加坡免签",
+      "onboard_time": 1706166154,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 7473338,
       "num": 8261812,
       "word": "江西新余火灾39人遇难",
       "onboard_time": 1706098652,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6117554,
-      "num": 6117554,
-      "word": "新加坡免签",
-      "onboard_time": 1706166154,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -657,6 +657,14 @@
       "onboard_time": 1705819466,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1136317,
+      "num": 1136317,
+      "word": "朴信惠产后复出",
+      "onboard_time": 1706169751,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128099,
@@ -1851,6 +1859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 634751,
+      "num": 634751,
+      "word": "王安宇问姐夫有看花少吗",
+      "onboard_time": 1706166630,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 634308,
       "num": 445554,
       "word": "爸爸把我买的车厘子送人了",
@@ -2147,6 +2163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 575127,
+      "num": 575127,
+      "word": "男人花期真的很短",
+      "onboard_time": 1706168311,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 573719,
       "num": 573719,
       "word": "吴彦祖 亚裔芭比刻板印象",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1705837646,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 522618,
+      "num": 522618,
+      "word": "虞书欣司机倒车警方成立工作专班调查",
+      "onboard_time": 1706169152,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 521680,
@@ -2873,6 +2905,14 @@
       "onboard_time": 1705917746,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 457380,
+      "num": 417888,
+      "word": "喝多了的迪丽热巴",
+      "onboard_time": 1706169031,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 456191,
@@ -3355,14 +3395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404239,
-      "num": 404239,
-      "word": "王安宇问姐夫有看花少吗",
-      "onboard_time": 1706166630,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403631,
       "num": 403631,
       "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
@@ -3537,6 +3569,14 @@
       "onboard_time": 1705887865,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392248,
+      "num": 251862,
+      "word": "走亲戚花了一千五买年货",
+      "onboard_time": 1706169990,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 391427,
@@ -4305,6 +4345,14 @@
       "onboard_time": 1706083829,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 324337,
+      "num": 324337,
+      "word": "于正说要好看得瘦到85斤",
+      "onboard_time": 1706169810,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 324250,
@@ -5619,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248338,
+      "num": 248338,
+      "word": "仙剑甄嬛传",
+      "onboard_time": 1706170351,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248257,
       "num": 248257,
       "word": "白鹿下雪给粉丝送豆浆",
@@ -5891,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238189,
+      "num": 238189,
+      "word": "俞敏洪同意去蔡磊直播间卖货",
+      "onboard_time": 1706170653,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 238120,
       "num": 238120,
       "word": "光夜 萧逸战损",
@@ -6017,6 +6081,14 @@
       "onboard_time": 1705920750,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229779,
+      "num": 229779,
+      "word": "MAC像个大疯子",
+      "onboard_time": 1706168433,
+      "rank": 25,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 229336,
@@ -6436,7 +6508,7 @@
     },
     {
       "raw_hot": 216171,
-      "num": 216726,
+      "num": 331228,
       "word": "喝一滴酒都致癌吗",
       "onboard_time": 1706150610,
       "rank": 47,
@@ -6761,6 +6833,14 @@
       "onboard_time": 1705908387,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207098,
+      "num": 207098,
+      "word": "张兰 义播",
+      "onboard_time": 1706170532,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 206922,
@@ -7411,6 +7491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195580,
+      "num": 195580,
+      "word": "新余火灾幸存学生讲述事发瞬间",
+      "onboard_time": 1706169931,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195417,
       "num": 195417,
       "word": "LPL",
@@ -7627,6 +7715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190814,
+      "num": 190814,
+      "word": "50克金条打金或能省1万元",
+      "onboard_time": 1706170112,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "打雪仗",
@@ -7713,6 +7809,14 @@
       "onboard_time": 1705900165,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "陈泽 我截屏了",
+      "onboard_time": 1706169571,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 188756,
@@ -7819,6 +7923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "宝可梦回应",
+      "onboard_time": 1706168311,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185675,
       "num": 185675,
       "word": "线上加班应支付劳动者加班费",
@@ -7873,6 +7985,14 @@
       "onboard_time": 1706000730,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185131,
+      "num": 185131,
+      "word": "小米跌出Q4中国智能手机市场前五",
+      "onboard_time": 1706168853,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 185106,
@@ -8627,6 +8747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169649,
+      "num": 169649,
+      "word": "华中农大被查教授论文中18亿买猪饲料",
+      "onboard_time": 1706170831,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169567,
       "num": 169567,
       "word": "第一次知道可以用水熬猪油",
@@ -9219,6 +9347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157713,
+      "num": 157713,
+      "word": "gidle蓝发全明星阵容",
+      "onboard_time": 1706168971,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157608,
       "num": 157608,
       "word": "曾经骂过的国足竟已是巅峰",
@@ -9433,6 +9569,14 @@
       "onboard_time": 1706153550,
       "rank": 37,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 153776,
+      "num": 153776,
+      "word": "没弟的人不知道这句话的恐怖",
+      "onboard_time": 1706167891,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 153650,
@@ -9867,6 +10011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145940,
+      "num": 145940,
+      "word": "京阿尼纵火案全程回顾",
+      "onboard_time": 1706169990,
+      "rank": 44,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 145838,
       "num": 145838,
       "word": "赵昭仪平价穿搭",
@@ -10139,6 +10291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141987,
+      "num": 141987,
+      "word": "祖国统一台湾当归解放军始终以行动说话",
+      "onboard_time": 1706170892,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141611,
       "num": 141611,
       "word": "大家早恋是怎么被父母发现的",
@@ -10225,6 +10385,14 @@
       "onboard_time": 1705884089,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140249,
+      "num": 140249,
+      "word": "杨超越看中医",
+      "onboard_time": 1706169571,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 140003,
@@ -11409,14 +11577,6 @@
       "onboard_time": 1706074469,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121018,
-      "num": 121018,
-      "word": "没弟的人不知道这句话的恐怖",
-      "onboard_time": 1706167891,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 120660,
@@ -13275,6 +13435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28852,
+      "num": 136671,
+      "word": "2024宝石老舅又不服了",
+      "onboard_time": 1706169631,
+      "rank": 47,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 27692,
       "num": 27692,
       "word": "腰椎最喜欢的两个动作",
@@ -13361,6 +13529,14 @@
       "onboard_time": 1705996169,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19087,
+      "num": 253012,
+      "word": "商用车新能源化有多难",
+      "onboard_time": 1706169092,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 18225,
