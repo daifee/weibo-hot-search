@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706152753679,
+  "endTime": 1706153681573,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495733,
+      "num": 495733,
+      "word": "日本今年将排放5万余吨核污染水",
+      "onboard_time": 1706151029,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 495582,
       "num": 495582,
       "word": "菏泽一臭水沟惊现8箱飞天茅台",
@@ -153,6 +161,14 @@
       "onboard_time": 1706098711,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 470408,
+      "num": 470408,
+      "word": "世卫警告X疾病比新冠致命20倍",
+      "onboard_time": 1706151752,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 460473,
@@ -219,12 +235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394022,
+      "num": 394022,
+      "word": "姆巴佩决定离开巴黎",
+      "onboard_time": 1706152530,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393133,
       "num": 393133,
       "word": "胡塞武装发射导弹击中一艘美国军舰",
       "onboard_time": 1706147370,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 371789,
+      "num": 371789,
+      "word": "内马尔第三个孩子",
+      "onboard_time": 1706152950,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 358690,
@@ -243,12 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334142,
-      "num": 334142,
-      "word": "日本今年将排放5万余吨核污染水",
-      "onboard_time": 1706151029,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 340367,
+      "num": 340367,
+      "word": "煮苹果水",
+      "onboard_time": 1706152771,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 340365,
+      "num": 292190,
+      "word": "女子返乡火车上炫鸭脖啃出一座山",
+      "onboard_time": 1706153133,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333480,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 331568,
-      "num": 268202,
+      "num": 293650,
       "word": "狐妖小红娘竹业篇预约破百万",
       "onboard_time": 1706151570,
       "rank": 20,
@@ -291,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310163,
+      "num": 310163,
+      "word": "秦海璐拍的北斗七行",
+      "onboard_time": 1706151870,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307948,
       "num": 307948,
       "word": "女销售1人贡献保时捷中国0.2%销量",
@@ -313,14 +361,6 @@
       "onboard_time": 1706099190,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291708,
-      "num": 291708,
-      "word": "秦海璐拍的北斗七行",
-      "onboard_time": 1706151870,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 287295,
@@ -363,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269673,
-      "num": 269673,
-      "word": "世卫警告X疾病比新冠致命20倍",
-      "onboard_time": 1706151752,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 259514,
       "num": 259514,
       "word": "80后小哥送快递3年收入超140万",
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258078,
+      "num": 258078,
+      "word": "吴磊第一部现偶剧",
+      "onboard_time": 1706153550,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254122,
       "num": 254122,
       "word": "父亲安慰剖腹产女儿心疼落泪",
@@ -401,6 +441,14 @@
       "onboard_time": 1706142750,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248904,
+      "num": 248904,
+      "word": "世界之外 AI图",
+      "onboard_time": 1706151686,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 246079,
@@ -443,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227344,
+      "num": 227344,
+      "word": "这碗牛肉面强行免费",
+      "onboard_time": 1706146590,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 220905,
       "num": 220905,
       "word": "鸡蛋面又火了",
@@ -467,20 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214558,
-      "num": 214558,
-      "word": "这碗牛肉面强行免费",
-      "onboard_time": 1706146590,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 213722,
-      "num": 213722,
-      "word": "世界之外 AI图",
-      "onboard_time": 1706151686,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 216171,
+      "num": 216726,
+      "word": "喝一滴酒都致癌吗",
+      "onboard_time": 1706150610,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212617,
@@ -489,6 +537,14 @@
       "onboard_time": 1706137943,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 209311,
+      "num": 209311,
+      "word": "吴磊赵今麦车窗吻",
+      "onboard_time": 1706153488,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 206731,
@@ -507,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202001,
+      "num": 202001,
+      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
+      "onboard_time": 1706152710,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201564,
       "num": 201564,
       "word": "这是宝宝存在过的痕迹",
@@ -523,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199391,
+      "num": 199391,
+      "word": "仅退款渐成电商标配",
+      "onboard_time": 1706152049,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198619,
       "num": 198619,
       "word": "韩素希收到Jennie的小卡",
       "onboard_time": 1706112809,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197199,
+      "num": 197199,
+      "word": "卷发姐背头哥",
+      "onboard_time": 1706153310,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194907,
@@ -579,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179699,
-      "num": 179699,
-      "word": "仅退款渐成电商标配",
-      "onboard_time": 1706152049,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 178674,
       "num": 178674,
       "word": "偶遇白鹿敖瑞鹏常华森聚餐",
@@ -611,14 +683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172606,
-      "num": 216726,
-      "word": "喝一滴酒都致癌吗",
-      "onboard_time": 1706150610,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 170420,
       "num": 170420,
       "word": "假装有百万粉丝去探店",
@@ -635,20 +699,20 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 168762,
-      "num": 168762,
-      "word": "姆巴佩决定离开巴黎",
-      "onboard_time": 1706152530,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165892,
       "num": 165892,
       "word": "阚清子绿色清凉吊带裙",
       "onboard_time": 1706108555,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160757,
+      "num": 160757,
+      "word": "李泰容solo2",
+      "onboard_time": 1706153488,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 156375,
@@ -673,6 +737,14 @@
       "onboard_time": 1706145929,
       "rank": 36,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 153828,
+      "num": 153828,
+      "word": "京东养车回应途虎索赔",
+      "onboard_time": 1706153550,
+      "rank": 37,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 153650,
@@ -755,6 +827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135116,
+      "num": 135116,
+      "word": "逆转裁判456发售",
+      "onboard_time": 1706152950,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134915,
       "num": 134915,
       "word": "王者荣耀",
@@ -785,14 +865,6 @@
       "onboard_time": 1706108133,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 124324,
-      "num": 124324,
-      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
-      "onboard_time": 1706152710,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 120390,

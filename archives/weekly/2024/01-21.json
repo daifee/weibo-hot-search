@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706152753679,
+  "endTime": 1706153681573,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -2387,6 +2387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495733,
+      "num": 495733,
+      "word": "日本今年将排放5万余吨核污染水",
+      "onboard_time": 1706151029,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 493279,
       "num": 493279,
       "word": "花少5大收官连播3天",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1705848333,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 470408,
+      "num": 470408,
+      "word": "世卫警告X疾病比新冠致命20倍",
+      "onboard_time": 1706151752,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 469678,
@@ -3235,6 +3251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 394022,
+      "num": 394022,
+      "word": "姆巴佩决定离开巴黎",
+      "onboard_time": 1706152530,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393624,
       "num": 200166,
       "word": "冠磊",
@@ -3465,6 +3489,14 @@
       "onboard_time": 1705886307,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 371789,
+      "num": 371789,
+      "word": "内马尔第三个孩子",
+      "onboard_time": 1706152950,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 369749,
@@ -3795,6 +3827,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340367,
+      "num": 340367,
+      "word": "煮苹果水",
+      "onboard_time": 1706152771,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 340365,
+      "num": 292190,
+      "word": "女子返乡火车上炫鸭脖啃出一座山",
+      "onboard_time": 1706153133,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339636,
       "num": 339636,
       "word": "BLG对战TES",
@@ -3843,14 +3891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334142,
-      "num": 334142,
-      "word": "日本今年将排放5万余吨核污染水",
-      "onboard_time": 1706151029,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 333312,
       "num": 333312,
       "word": "枭起青壤 陈哲远",
@@ -3884,7 +3924,7 @@
     },
     {
       "raw_hot": 331568,
-      "num": 268202,
+      "num": 293650,
       "word": "狐妖小红娘竹业篇预约破百万",
       "onboard_time": 1706151570,
       "rank": 20,
@@ -4187,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310163,
+      "num": 310163,
+      "word": "秦海璐拍的北斗七行",
+      "onboard_time": 1706151870,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310107,
       "num": 310107,
       "word": "江西新余火灾伤者比较年轻",
@@ -4401,14 +4449,6 @@
       "onboard_time": 1705965320,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 291708,
-      "num": 291708,
-      "word": "秦海璐拍的北斗七行",
-      "onboard_time": 1706151870,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 288863,
@@ -4803,14 +4843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269673,
-      "num": 269673,
-      "word": "世卫警告X疾病比新冠致命20倍",
-      "onboard_time": 1706151752,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 267975,
       "num": 267975,
       "word": "阴阳师",
@@ -4984,6 +5016,14 @@
       "word": "吴磊赵今麦脸颊吻",
       "onboard_time": 1706077229,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258078,
+      "num": 258078,
+      "word": "吴磊第一部现偶剧",
+      "onboard_time": 1706153550,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -5177,6 +5217,14 @@
       "onboard_time": 1705889726,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248904,
+      "num": 248904,
+      "word": "世界之外 AI图",
+      "onboard_time": 1706151686,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 248668,
@@ -5635,6 +5683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227344,
+      "num": 227344,
+      "word": "这碗牛肉面强行免费",
+      "onboard_time": 1706146590,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227338,
       "num": 227338,
       "word": "突然意识到妈妈需要我照顾了",
@@ -5939,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216171,
+      "num": 216726,
+      "word": "喝一滴酒都致癌吗",
+      "onboard_time": 1706150610,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216126,
       "num": 216126,
       "word": "七千五的工作和考研怎么选",
@@ -5979,14 +6043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 214558,
-      "num": 214558,
-      "word": "这碗牛肉面强行免费",
-      "onboard_time": 1706146590,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 214093,
       "num": 214093,
       "word": "甜馨跳舞直拍",
@@ -6017,14 +6073,6 @@
       "onboard_time": 1705984110,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213722,
-      "num": 213722,
-      "word": "世界之外 AI图",
-      "onboard_time": 1706151686,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 213360,
@@ -6209,6 +6257,14 @@
       "onboard_time": 1705980687,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209311,
+      "num": 209311,
+      "word": "吴磊赵今麦车窗吻",
+      "onboard_time": 1706153488,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 209308,
@@ -6483,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202001,
+      "num": 202001,
+      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
+      "onboard_time": 1706152710,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201962,
       "num": 201962,
       "word": "陶喆厦门抢票",
@@ -6619,6 +6683,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 199391,
+      "num": 199391,
+      "word": "仅退款渐成电商标配",
+      "onboard_time": 1706152049,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199272,
       "num": 232991,
       "word": "促进资本市场平稳健康发展",
@@ -6753,6 +6825,14 @@
       "onboard_time": 1705929867,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197199,
+      "num": 197199,
+      "word": "卷发姐背头哥",
+      "onboard_time": 1706153310,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196808,
@@ -7483,14 +7563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179699,
-      "num": 179699,
-      "word": "仅退款渐成电商标配",
-      "onboard_time": 1706152049,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 179321,
       "num": 179321,
       "word": "让皮肤变超好的10个小知识",
@@ -7787,14 +7859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172606,
-      "num": 216726,
-      "word": "喝一滴酒都致癌吗",
-      "onboard_time": 1706150610,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 172579,
       "num": 172579,
       "word": "安心结局",
@@ -7993,14 +8057,6 @@
       "onboard_time": 1705993406,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168762,
-      "num": 168762,
-      "word": "姆巴佩决定离开巴黎",
-      "onboard_time": 1706152530,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 168534,
@@ -8403,6 +8459,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 160757,
+      "num": 160757,
+      "word": "李泰容solo2",
+      "onboard_time": 1706153488,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160754,
       "num": 160754,
       "word": "湖南21日迎暴雪大暴雪",
@@ -8721,6 +8785,14 @@
       "onboard_time": 1706145929,
       "rank": 36,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 153828,
+      "num": 153828,
+      "word": "京东养车回应途虎索赔",
+      "onboard_time": 1706153550,
+      "rank": 37,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 153650,
@@ -9819,6 +9891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135116,
+      "num": 135116,
+      "word": "逆转裁判456发售",
+      "onboard_time": 1706152950,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135058,
       "num": 135058,
       "word": "昆明迎来新年第一场雪",
@@ -10473,14 +10553,6 @@
       "onboard_time": 1706108133,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 124324,
-      "num": 124324,
-      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
-      "onboard_time": 1706152710,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 123989,
