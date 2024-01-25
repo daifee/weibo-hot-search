@@ -1,0 +1,410 @@
+{
+  "runTime": 1706224698530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 587002,
+        "num": 587002,
+        "word": "不要再把肉泡水里解冻了",
+        "onboard_time": 1706196572,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 549093,
+        "num": 549093,
+        "word": "你支持取消离婚冷静期吗",
+        "onboard_time": 1706200587,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21991,
+        "num": 517020,
+        "word": "2024春运出行指南",
+        "onboard_time": 1706191655,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506091,
+        "num": 506091,
+        "word": "你愿意工资减少换退休金吗",
+        "onboard_time": 1706216775,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471406,
+        "num": 471406,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465846,
+        "num": 465846,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443734,
+        "num": 443734,
+        "word": "科学家警告小心北极僵尸病毒",
+        "onboard_time": 1706193813,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411606,
+        "num": 411606,
+        "word": "女子列车吧唧嘴3小时大爷崩溃",
+        "onboard_time": 1706212396,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405204,
+        "num": 405204,
+        "word": "李娜",
+        "onboard_time": 1706188473,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358410,
+        "num": 358410,
+        "word": "祖国统一台湾当归",
+        "onboard_time": 1706194594,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290268,
+        "num": 290268,
+        "word": "徐娇 让人瘦到85是有多歹毒",
+        "onboard_time": 1706184993,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187221,
+        "num": 187221,
+        "word": "逃犯加入日本国籍后回国就被抓",
+        "onboard_time": 1706216475,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153425,
+        "num": 153425,
+        "word": "俞敏洪回应董宇辉新号分流",
+        "onboard_time": 1706199151,
+        "rank": 12,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 151919,
+        "num": 151919,
+        "word": "免疫力低下的5个表现",
+        "onboard_time": 1706194892,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142254,
+        "num": 142254,
+        "word": "女子强行试衣服扯破后拒赔",
+        "onboard_time": 1706217796,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139495,
+        "num": 139495,
+        "word": "于正 谢谢妹妹给热度",
+        "onboard_time": 1706190273,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139089,
+        "num": 139089,
+        "word": "肖战路透",
+        "onboard_time": 1706195374,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136349,
+        "num": 136349,
+        "word": "辛芷蕾选的照片是靠在胡先煦肩上",
+        "onboard_time": 1706183070,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124985,
+        "num": 124985,
+        "word": "谢楠回应被劝离婚",
+        "onboard_time": 1706176892,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121108,
+        "num": 121108,
+        "word": "女子发现丈夫犯罪起诉离婚被驳",
+        "onboard_time": 1706216956,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156301,
+        "num": 120470,
+        "word": "泡温泉会感染HPV和妇科病吗",
+        "onboard_time": 1706202084,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119144,
+        "num": 119144,
+        "word": "周星驰黑长直",
+        "onboard_time": 1706194534,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93644,
+        "num": 93644,
+        "word": "中石油涨停意味着什么",
+        "onboard_time": 1706189492,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90664,
+        "num": 90664,
+        "word": "部分应用借iPhone推送通知窃取用户数据",
+        "onboard_time": 1706219417,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80892,
+        "num": 80892,
+        "word": "杨紫演技",
+        "onboard_time": 1706184628,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79820,
+        "num": 79820,
+        "word": "华中农大回应举报导师的学生原学制不变",
+        "onboard_time": 1706196393,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75187,
+        "num": 75187,
+        "word": "韩国人防猝死套餐靠谱吗",
+        "onboard_time": 1706201424,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74957,
+        "num": 74957,
+        "word": "汪峰女儿 那英公司",
+        "onboard_time": 1706177912,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73529,
+        "num": 73529,
+        "word": "萌兰揉鼻子也太像个人了吧",
+        "onboard_time": 1706223743,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33255,
+        "num": 69014,
+        "word": "云南山体滑坡44人遇难",
+        "onboard_time": 1706187275,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68601,
+        "num": 68601,
+        "word": "国产剧第一个活明白的女孩",
+        "onboard_time": 1706193213,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66638,
+        "num": 66638,
+        "word": "练练 韦春红离婚堪比医美",
+        "onboard_time": 1706218215,
+        "rank": 31,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 63537,
+        "num": 63537,
+        "word": "徐娇赵晴合照",
+        "onboard_time": 1706188173,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62990,
+        "num": 62990,
+        "word": "医生从听力减退小伙耳道拽出蘑菇",
+        "onboard_time": 1706173414,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62614,
+        "num": 62614,
+        "word": "秦海璐回复王新军",
+        "onboard_time": 1706183790,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62336,
+        "num": 62336,
+        "word": "为什么结婚后都容易变胖",
+        "onboard_time": 1706183613,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55124,
+        "num": 55124,
+        "word": "宝爸辞职做自媒体有多心酸",
+        "onboard_time": 1706186556,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52688,
+        "num": 52688,
+        "word": "中国冰淇淋在韩国爆火",
+        "onboard_time": 1706178994,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52329,
+        "num": 52329,
+        "word": "张婧仪路透",
+        "onboard_time": 1706194773,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51401,
+        "num": 51401,
+        "word": "爱情公寓3的发布会",
+        "onboard_time": 1706175991,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48105,
+        "num": 48105,
+        "word": "迪丽热巴成都",
+        "onboard_time": 1706191412,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44198,
+        "num": 44198,
+        "word": "山东在蒸馒头这块没输过",
+        "onboard_time": 1706220317,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42232,
+        "num": 42232,
+        "word": "于正审美",
+        "onboard_time": 1706184452,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41369,
+        "num": 41369,
+        "word": "花少5一场盛大的be美学",
+        "onboard_time": 1706180729,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39169,
+        "num": 39169,
+        "word": "巴黎街头中国簪花女孩惊艳外国人",
+        "onboard_time": 1706206521,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38944,
+        "num": 38944,
+        "word": "朴信惠产后复出",
+        "onboard_time": 1706169751,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38530,
+        "num": 38530,
+        "word": "轰动了整个阅卷组",
+        "onboard_time": 1706180193,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35020,
+        "num": 35020,
+        "word": "内娱女子组合TFGirls",
+        "onboard_time": 1706186073,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33840,
+        "num": 33840,
+        "word": "郑钦文首进大满贯决赛",
+        "onboard_time": 1706187217,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30854,
+        "num": 30854,
+        "word": "新加坡免签受益人王俊凯",
+        "onboard_time": 1706173829,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决遏制各类安全事故多发连发势头#"
+    }
+  }
+}

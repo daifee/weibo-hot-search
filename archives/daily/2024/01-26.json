@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706222043090,
+  "endTime": 1706224698530,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506091,
+      "num": 506091,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495117,
       "num": 495117,
       "word": "谢楠回应被劝离婚",
@@ -97,6 +105,14 @@
       "onboard_time": 1706194534,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411606,
+      "num": 411606,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385378,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 266177,
-      "num": 143223,
+      "num": 151919,
       "word": "免疫力低下的5个表现",
       "onboard_time": 1706194892,
       "rank": 20,
@@ -179,11 +195,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195173,
-      "num": 195173,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
+      "raw_hot": 187221,
+      "num": 187221,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156301,
+      "num": 120470,
+      "word": "泡温泉会感染HPV和妇科病吗",
+      "onboard_time": 1706202084,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155882,
       "num": 116618,
       "word": "徐娇女王行为",
@@ -227,20 +251,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146284,
-      "num": 146284,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144223,
       "num": 144223,
       "word": "中石油涨停意味着什么",
       "onboard_time": 1706189492,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142254,
+      "num": 142254,
+      "word": "女子强行试衣服扯破后拒赔",
+      "onboard_time": 1706217796,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141134,
@@ -291,14 +315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126887,
-      "num": 90705,
-      "word": "泡温泉会感染HPV和妇科病吗",
-      "onboard_time": 1706202084,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 124530,
       "num": 112051,
       "word": "为什么结婚后都容易变胖",
@@ -313,6 +329,14 @@
       "onboard_time": 1706169751,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121108,
+      "num": 121108,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119851,
@@ -347,14 +371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 110292,
-      "num": 110292,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107265,
       "num": 107265,
       "word": "世界之外 我为什么成不了单推",
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90664,
+      "num": 90664,
+      "word": "部分应用借iPhone推送通知窃取用户数据",
+      "onboard_time": 1706219417,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90220,
       "num": 90220,
       "word": "秦海璐穿了吊带红裙",
@@ -409,6 +433,22 @@
       "onboard_time": 1706187695,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74957,
+      "num": 74957,
+      "word": "汪峰女儿 那英公司",
+      "onboard_time": 1706177912,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73529,
+      "num": 73529,
+      "word": "萌兰揉鼻子也太像个人了吧",
+      "onboard_time": 1706223743,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72134,
@@ -435,28 +475,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66638,
+      "num": 66638,
+      "word": "练练 韦春红离婚堪比医美",
+      "onboard_time": 1706218215,
+      "rank": 47,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 64278,
       "num": 67859,
       "word": "被黄执中这段辩论震撼到了",
       "onboard_time": 1706194832,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64063,
-      "num": 64063,
-      "word": "女子强行试衣服扯破后拒赔",
-      "onboard_time": 1706217796,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63417,
-      "num": 63417,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57750,
@@ -467,12 +499,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 38685,
-      "num": 38685,
-      "word": "练练 韦春红离婚堪比医美",
-      "onboard_time": 1706218215,
+      "raw_hot": 44198,
+      "num": 44198,
+      "word": "山东在蒸馒头这块没输过",
+      "onboard_time": 1706220317,
       "rank": 47,
-      "category": "剧集,艺人"
+      "category": "美食"
+    },
+    {
+      "raw_hot": 42232,
+      "num": 42232,
+      "word": "于正审美",
+      "onboard_time": 1706184452,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39169,
+      "num": 39169,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36655,
@@ -489,30 +537,6 @@
       "onboard_time": 1706206700,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 35477,
-      "num": 35477,
-      "word": "巴黎街头中国簪花女孩惊艳外国人",
-      "onboard_time": 1706206521,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34026,
-      "num": 34026,
-      "word": "部分应用借iPhone推送通知窃取用户数据",
-      "onboard_time": 1706219417,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 32576,
-      "num": 32576,
-      "word": "汪峰女儿 那英公司",
-      "onboard_time": 1706177912,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 29337,
@@ -539,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20494,
-      "num": 20494,
-      "word": "山东在蒸馒头这块没输过",
-      "onboard_time": 1706220317,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 21991,
+      "num": 517020,
+      "word": "2024春运出行指南",
+      "onboard_time": 1706191655,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18264,
@@ -561,14 +585,6 @@
       "onboard_time": 1706213236,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10615,
-      "num": 258246,
-      "word": "2024春运出行指南",
-      "onboard_time": 1706191655,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
