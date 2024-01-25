@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706224698530,
+  "endTime": 1706225690700,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -32,6 +32,14 @@
       "word": "科学家警告小心北极僵尸病毒",
       "onboard_time": 1706193813,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847945,
+      "num": 847945,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -83,11 +91,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506091,
-      "num": 506091,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
+      "raw_hot": 529043,
+      "num": 529043,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1706194534,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411606,
-      "num": 411606,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385378,
@@ -147,8 +147,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277675,
+      "num": 277675,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266177,
-      "num": 151919,
+      "num": 185290,
       "word": "免疫力低下的5个表现",
       "onboard_time": 1706194892,
       "rank": 20,
@@ -179,6 +187,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 213528,
+      "num": 213528,
+      "word": "春运第1天",
+      "onboard_time": 1706224945,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209923,
       "num": 137929,
       "word": "花儿与少年5",
@@ -187,20 +203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207883,
+      "num": 154312,
+      "word": "泡温泉会感染HPV和妇科病吗",
+      "onboard_time": 1706202084,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 206599,
       "num": 206599,
       "word": "轰动了整个阅卷组",
       "onboard_time": 1706180193,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187221,
-      "num": 187221,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173219,
@@ -227,19 +243,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167706,
+      "num": 167706,
+      "word": "女子强行试衣服扯破后拒赔",
+      "onboard_time": 1706217796,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160695,
       "num": 115805,
       "word": "韩国人防猝死套餐靠谱吗",
       "onboard_time": 1706201424,
       "rank": 20,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 156301,
-      "num": 120470,
-      "word": "泡温泉会感染HPV和妇科病吗",
-      "onboard_time": 1706202084,
-      "rank": 33,
       "category": "健康医疗"
     },
     {
@@ -251,20 +267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154475,
+      "num": 154475,
+      "word": "萌兰揉鼻子也太像个人了吧",
+      "onboard_time": 1706223743,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147855,
+      "num": 147855,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144223,
       "num": 144223,
       "word": "中石油涨停意味着什么",
       "onboard_time": 1706189492,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 142254,
-      "num": 142254,
-      "word": "女子强行试衣服扯破后拒赔",
-      "onboard_time": 1706217796,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141134,
@@ -329,14 +353,6 @@
       "onboard_time": 1706169751,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121108,
-      "num": 121108,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119851,
@@ -419,6 +435,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87761,
+      "num": 87761,
+      "word": "普通人没必要掏耳屎",
+      "onboard_time": 1706225665,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82893,
+      "num": 82893,
+      "word": "汪峰女儿 那英公司",
+      "onboard_time": 1706177912,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75962,
       "num": 118453,
       "word": "云南山体滑坡44人遇难",
@@ -433,22 +465,6 @@
       "onboard_time": 1706187695,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74957,
-      "num": 74957,
-      "word": "汪峰女儿 那英公司",
-      "onboard_time": 1706177912,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 73529,
-      "num": 73529,
-      "word": "萌兰揉鼻子也太像个人了吧",
-      "onboard_time": 1706223743,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72134,
@@ -491,6 +507,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60886,
+      "num": 60886,
+      "word": "雪后西安国家版本馆恢宏大气",
+      "onboard_time": 1706224703,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 60637,
+      "num": 60637,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57750,
       "num": 67334,
       "word": "蟹场里吃青蟹",
@@ -499,28 +531,52 @@
       "category": "美食"
     },
     {
-      "raw_hot": 44198,
-      "num": 44198,
-      "word": "山东在蒸馒头这块没输过",
-      "onboard_time": 1706220317,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 55364,
+      "num": 55364,
+      "word": "2024第一批游戏版号",
+      "onboard_time": 1706225665,
+      "rank": 42,
+      "category": "游戏"
     },
     {
-      "raw_hot": 42232,
-      "num": 42232,
+      "raw_hot": 55085,
+      "num": 55085,
       "word": "于正审美",
       "onboard_time": 1706184452,
       "rank": 42,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39169,
-      "num": 39169,
-      "word": "巴黎街头中国簪花女孩惊艳外国人",
-      "onboard_time": 1706206521,
-      "rank": 28,
+      "raw_hot": 53804,
+      "num": 53804,
+      "word": "特斯拉股价大跌超12%",
+      "onboard_time": 1706225484,
+      "rank": 44,
+      "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 50769,
+      "num": 50769,
+      "word": "再有两周就是除夕了",
+      "onboard_time": 1706225665,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48911,
+      "num": 47977,
+      "word": "金铲铲维护",
+      "onboard_time": 1706225426,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 44198,
+      "num": 44198,
+      "word": "山东在蒸馒头这块没输过",
+      "onboard_time": 1706220317,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 36655,
@@ -537,6 +593,14 @@
       "onboard_time": 1706206700,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 32048,
+      "num": 628237,
+      "word": "2024春运出行指南",
+      "onboard_time": 1706191655,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29337,
@@ -561,14 +625,6 @@
       "onboard_time": 1706208857,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21991,
-      "num": 517020,
-      "word": "2024春运出行指南",
-      "onboard_time": 1706191655,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18264,
