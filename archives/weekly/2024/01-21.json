@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706218446096,
+  "endTime": 1706220904522,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -13171,6 +13171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110169,
+      "num": 110169,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "上海申花赛前发布会取消",
@@ -13184,6 +13192,14 @@
       "word": "地震灾区在校学生已全部疏散完毕",
       "onboard_time": 1705970067,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110057,
+      "num": 110057,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -13563,6 +13579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 99953,
+      "num": 99953,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99625,
       "num": 99625,
       "word": "广东存在感最低的城市",
@@ -13833,14 +13857,6 @@
       "onboard_time": 1706001449,
       "rank": 48,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 91396,
-      "num": 91396,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91378,
@@ -14411,19 +14427,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48927,
+      "num": 34537,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48854,
       "num": 1556772,
       "word": "4分半回顾改革开放大事记",
       "onboard_time": 1706084793,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48218,
-      "num": 48218,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -14449,6 +14465,14 @@
       "onboard_time": 1705948576,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45122,
+      "num": 22765,
+      "word": "女子强行试衣服扯破后拒赔",
+      "onboard_time": 1706217796,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43958,
@@ -14619,14 +14643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28623,
-      "num": 28623,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27692,
       "num": 27692,
       "word": "腰椎最喜欢的两个动作",
@@ -14635,12 +14651,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 27491,
-      "num": 27491,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 27435,
+      "num": 27435,
+      "word": "练练 韦春红离婚堪比医美",
+      "onboard_time": 1706218215,
+      "rank": 47,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 27266,
@@ -14681,6 +14697,14 @@
       "onboard_time": 1706119942,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23330,
+      "num": 23330,
+      "word": "部分应用借iPhone推送通知窃取用户数据",
+      "onboard_time": 1706219417,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 22869,
@@ -14755,14 +14779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17285,
-      "num": 17285,
-      "word": "女子强行试衣服扯破后拒赔",
-      "onboard_time": 1706217796,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16003,
       "num": 16003,
       "word": "陈星旭章若楠重现求婚名场面",
@@ -14785,6 +14801,14 @@
       "onboard_time": 1706044575,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 15199,
+      "num": 15199,
+      "word": "山东在蒸馒头这块没输过",
+      "onboard_time": 1706220317,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 15074,
@@ -14833,14 +14857,6 @@
       "onboard_time": 1705893386,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11609,
-      "num": 11609,
-      "word": "练练 韦春红离婚堪比医美",
-      "onboard_time": 1706218215,
-      "rank": 47,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 11235,

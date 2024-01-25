@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706218446096,
+  "endTime": 1706220904522,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -331,6 +331,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110169,
+      "num": 110169,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110057,
+      "num": 110057,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107265,
       "num": 107265,
       "word": "世界之外 我为什么成不了单推",
@@ -347,6 +363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99953,
+      "num": 99953,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99815,
       "num": 92363,
       "word": "蓝亦菲两次被父母抛弃",
@@ -361,14 +385,6 @@
       "onboard_time": 1706187217,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91396,
-      "num": 91396,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90220,
@@ -435,11 +451,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 48218,
-      "num": 48218,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
+      "raw_hot": 48927,
+      "num": 34537,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45122,
+      "num": 22765,
+      "word": "女子强行试衣服扯破后拒赔",
+      "onboard_time": 1706217796,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28623,
-      "num": 28623,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28436,
       "num": 1080418,
       "word": "何以中国的文明密码",
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27491,
-      "num": 27491,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 27435,
+      "num": 27435,
+      "word": "练练 韦春红离婚堪比医美",
+      "onboard_time": 1706218215,
+      "rank": 47,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 27256,
@@ -515,20 +531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23330,
+      "num": 23330,
+      "word": "部分应用借iPhone推送通知窃取用户数据",
+      "onboard_time": 1706219417,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 18264,
       "num": 18264,
       "word": "世界之外 卡关",
       "onboard_time": 1706208738,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17285,
-      "num": 17285,
-      "word": "女子强行试衣服扯破后拒赔",
-      "onboard_time": 1706217796,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15995,
@@ -539,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11609,
-      "num": 11609,
-      "word": "练练 韦春红离婚堪比医美",
-      "onboard_time": 1706218215,
+      "raw_hot": 15199,
+      "num": 15199,
+      "word": "山东在蒸馒头这块没输过",
+      "onboard_time": 1706220317,
       "rank": 47,
-      "category": "剧集,艺人"
+      "category": "美食"
     },
     {
       "raw_hot": 9848,
