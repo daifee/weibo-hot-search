@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706211226133,
+  "endTime": 1706213829777,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -68289,6 +68289,14 @@
       "onboard_time": 1705337183,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36799,
+      "num": 36799,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36477,

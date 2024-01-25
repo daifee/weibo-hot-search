@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706211226133,
+  "endTime": 1706213829777,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -14499,6 +14499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36799,
+      "num": 36799,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35592,
       "num": 35592,
       "word": "恋与深空 祁煜cos",
@@ -14728,6 +14736,14 @@
       "word": "陈星旭章若楠重现求婚名场面",
       "onboard_time": 1705785911,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15995,
+      "num": 15995,
+      "word": "仙剑四",
+      "onboard_time": 1706213236,
+      "rank": 38,
       "category": "剧集"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706211226133,
+  "endTime": 1706213829777,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -427,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 36799,
+      "num": 36799,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36655,
       "num": 36655,
       "word": "弭金 吓到大家不好意思",
@@ -489,6 +497,14 @@
       "onboard_time": 1706208738,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15995,
+      "num": 15995,
+      "word": "仙剑四",
+      "onboard_time": 1706213236,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 9848,
