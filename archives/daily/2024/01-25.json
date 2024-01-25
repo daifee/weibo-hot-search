@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706146851654,
+  "endTime": 1706150019778,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -25,6 +25,14 @@
       "onboard_time": 1706144850,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1306366,
+      "num": 1306366,
+      "word": "网课入侵猝死老师女儿再发声",
+      "onboard_time": 1706147729,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1248136,
@@ -97,6 +105,14 @@
       "onboard_time": 1706143290,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574987,
+      "num": 574987,
+      "word": "美嘉被山根挡住的眼泪",
+      "onboard_time": 1706147129,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 495582,
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361889,
+      "num": 361889,
+      "word": "在暴雪时分定档",
+      "onboard_time": 1706149289,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358690,
       "num": 248619,
       "word": "边牧 我可能摸一下这位阿姨嘛",
@@ -243,6 +267,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287295,
+      "num": 287295,
+      "word": "马斯克称中国车企世界上最有竞争力",
+      "onboard_time": 1706146529,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 286867,
+      "num": 286867,
+      "word": "胡塞武装发射导弹击中一艘美国军舰",
+      "onboard_time": 1706147370,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 283515,
+      "num": 283515,
+      "word": "大龄二孩家庭",
+      "onboard_time": 1706148030,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275873,
       "num": 247463,
       "word": "先婚后爱现实中存在吗",
@@ -264,6 +312,22 @@
       "word": "银行通报柜员喊客户滚处理结果",
       "onboard_time": 1706139626,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260036,
+      "num": 260036,
+      "word": "在哈尔滨没搓上的澡在海南整上了",
+      "onboard_time": 1706148268,
+      "rank": 18,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 259514,
+      "num": 259514,
+      "word": "80后小哥送快递3年收入超140万",
+      "onboard_time": 1706146950,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -355,12 +419,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 207806,
+      "num": 184416,
+      "word": "妈妈不小心把我送她的耳环弄掉了",
+      "onboard_time": 1706149227,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 205874,
+      "num": 205874,
+      "word": "在暴雪时分",
+      "onboard_time": 1706140528,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201564,
       "num": 201564,
       "word": "这是宝宝存在过的痕迹",
       "onboard_time": 1706140165,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199698,
+      "num": 199698,
+      "word": "李娜澳网夺冠十周年",
+      "onboard_time": 1706149468,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 198619,
@@ -371,6 +459,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194907,
+      "num": 194907,
+      "word": "原来冬天的生蚝吃起来是脆的",
+      "onboard_time": 1706146590,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 194251,
+      "num": 194251,
+      "word": "大熊猫野外种群总量增至近1900只",
+      "onboard_time": 1706149289,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193102,
       "num": 115614,
       "word": "辛巴怒斥快手",
@@ -379,11 +483,27 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 189378,
+      "num": 189378,
+      "word": "刘雨昕连任山东春晚地屏质检员",
+      "onboard_time": 1706147851,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184843,
       "num": 184843,
       "word": "花儿与少年",
       "onboard_time": 1706138242,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184484,
+      "num": 184484,
+      "word": "一生辛胡",
+      "onboard_time": 1706147729,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -395,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180996,
-      "num": 180996,
-      "word": "原来冬天的生蚝吃起来是脆的",
+      "raw_hot": 179090,
+      "num": 179090,
+      "word": "这碗牛肉面强行免费",
       "onboard_time": 1706146590,
-      "rank": 28,
+      "rank": 42,
       "category": "美食"
     },
     {
-      "raw_hot": 178508,
-      "num": 178508,
-      "word": "在暴雪时分",
-      "onboard_time": 1706140528,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 178674,
+      "num": 178674,
+      "word": "偶遇白鹿敖瑞鹏常华森聚餐",
+      "onboard_time": 1706149348,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 177636,
@@ -435,20 +555,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166436,
-      "num": 166436,
-      "word": "马斯克称中国车企世界上最有竞争力",
-      "onboard_time": 1706146529,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 165892,
       "num": 165892,
       "word": "阚清子绿色清凉吊带裙",
       "onboard_time": 1706108555,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163466,
+      "num": 163466,
+      "word": "东方甄选开盘跌超6%",
+      "onboard_time": 1706149049,
+      "rank": 35,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 156375,
@@ -531,14 +651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 130250,
-      "num": 130250,
-      "word": "这碗牛肉面强行免费",
-      "onboard_time": 1706146590,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129886,
       "num": 129886,
       "word": "人夫感是一种什么感觉",
@@ -563,6 +675,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 120390,
+      "num": 120390,
+      "word": "郑钦文张之臻冲击澳网决赛",
+      "onboard_time": 1706148268,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119646,
       "num": 119646,
       "word": "莫小贝都31岁了",
@@ -579,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118634,
+      "num": 118634,
+      "word": "特斯拉发布2023年财报",
+      "onboard_time": 1706149768,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118354,
       "num": 118354,
       "word": "港媒曝黎淑贤凶宅被低价放售",
@@ -592,6 +720,14 @@
       "word": "很多重要的事都挤在二十岁到三十岁",
       "onboard_time": 1706139925,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117642,
+      "num": 117642,
+      "word": "接在外打工的妈妈回家过年",
+      "onboard_time": 1706148808,
+      "rank": 47,
       "category": "情感"
     },
     {

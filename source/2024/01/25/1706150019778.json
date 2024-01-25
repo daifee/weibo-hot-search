@@ -1,0 +1,410 @@
+{
+  "runTime": 1706150019778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2316089,
+        "num": 2316089,
+        "word": "江西新余火灾事故新闻发布会",
+        "onboard_time": 1706142329,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348884,
+        "num": 1348884,
+        "word": "虞书欣司机在高速上倒车",
+        "onboard_time": 1706144850,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16203,
+        "num": 1310560,
+        "word": "我国高光谱综合观测卫星投入使用",
+        "onboard_time": 1706100514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306366,
+        "num": 1306366,
+        "word": "网课入侵猝死老师女儿再发声",
+        "onboard_time": 1706147729,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863075,
+        "num": 863075,
+        "word": "你单位宣布除夕放假了吗",
+        "onboard_time": 1706141851,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574987,
+        "num": 574987,
+        "word": "美嘉被山根挡住的眼泪",
+        "onboard_time": 1706147129,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553829,
+        "num": 553829,
+        "word": "民政部回复龙年不宜结婚",
+        "onboard_time": 1706107055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422311,
+        "num": 422311,
+        "word": "苹果在华放下身段",
+        "onboard_time": 1706145151,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392526,
+        "num": 392526,
+        "word": "女生腹泻后未在意5天后心脏停跳",
+        "onboard_time": 1706108254,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390460,
+        "num": 390460,
+        "word": "宁艺卓 多动症",
+        "onboard_time": 1706139266,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361889,
+        "num": 361889,
+        "word": "在暴雪时分定档",
+        "onboard_time": 1706149289,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349161,
+        "num": 349161,
+        "word": "江西新余市长鞠躬致歉",
+        "onboard_time": 1706145509,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344491,
+        "num": 344491,
+        "word": "王菊回应被漂亮礼服尺码PUA言论",
+        "onboard_time": 1706143290,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300478,
+        "num": 300478,
+        "word": "江西新余致39死火灾原因",
+        "onboard_time": 1706137823,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297078,
+        "num": 297078,
+        "word": "美甲 丑甲",
+        "onboard_time": 1706107534,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 287295,
+        "num": 287295,
+        "word": "马斯克称中国车企世界上最有竞争力",
+        "onboard_time": 1706146529,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286867,
+        "num": 286867,
+        "word": "胡塞武装发射导弹击中一艘美国军舰",
+        "onboard_time": 1706147370,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 283515,
+        "num": 283515,
+        "word": "大龄二孩家庭",
+        "onboard_time": 1706148030,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260036,
+        "num": 260036,
+        "word": "在哈尔滨没搓上的澡在海南整上了",
+        "onboard_time": 1706148268,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 259514,
+        "num": 259514,
+        "word": "80后小哥送快递3年收入超140万",
+        "onboard_time": 1706146950,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253568,
+        "num": 253568,
+        "word": "江西新余火灾12名责任人被控制",
+        "onboard_time": 1706139566,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241455,
+        "num": 241455,
+        "word": "蓝亦菲悲剧",
+        "onboard_time": 1706144609,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225267,
+        "num": 225267,
+        "word": "边牧 我可能摸一下这位阿姨嘛",
+        "onboard_time": 1706141551,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215036,
+        "num": 215036,
+        "word": "年轻人在家不能待超过3天的原因",
+        "onboard_time": 1706143651,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205874,
+        "num": 205874,
+        "word": "在暴雪时分",
+        "onboard_time": 1706140528,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199698,
+        "num": 199698,
+        "word": "李娜澳网夺冠十周年",
+        "onboard_time": 1706149468,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194907,
+        "num": 194907,
+        "word": "原来冬天的生蚝吃起来是脆的",
+        "onboard_time": 1706146590,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194251,
+        "num": 194251,
+        "word": "大熊猫野外种群总量增至近1900只",
+        "onboard_time": 1706149289,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189378,
+        "num": 189378,
+        "word": "刘雨昕连任山东春晚地屏质检员",
+        "onboard_time": 1706147851,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184484,
+        "num": 184484,
+        "word": "一生辛胡",
+        "onboard_time": 1706147729,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207806,
+        "num": 184416,
+        "word": "妈妈不小心把我送她的耳环弄掉了",
+        "onboard_time": 1706149227,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179090,
+        "num": 179090,
+        "word": "这碗牛肉面强行免费",
+        "onboard_time": 1706146590,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178674,
+        "num": 178674,
+        "word": "偶遇白鹿敖瑞鹏常华森聚餐",
+        "onboard_time": 1706149348,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178364,
+        "num": 178364,
+        "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+        "onboard_time": 1706100275,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172954,
+        "num": 172954,
+        "word": "新余所有校外培训机构暂停培训活动",
+        "onboard_time": 1706144250,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163466,
+        "num": 163466,
+        "word": "东方甄选开盘跌超6%",
+        "onboard_time": 1706149049,
+        "rank": 35,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 162490,
+        "num": 162490,
+        "word": "车厘子价格降不动了",
+        "onboard_time": 1706107775,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155278,
+        "num": 155278,
+        "word": "张檬备孕失败",
+        "onboard_time": 1706095589,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155212,
+        "num": 155212,
+        "word": "鸡蛋面又火了",
+        "onboard_time": 1706144129,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154971,
+        "num": 154971,
+        "word": "江西新余火灾39人遇难",
+        "onboard_time": 1706098652,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148345,
+        "num": 148345,
+        "word": "辛芷蕾胡先煦 好嗑",
+        "onboard_time": 1706140347,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148243,
+        "num": 148243,
+        "word": "BABYMONSTER 复活",
+        "onboard_time": 1706145031,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125936,
+        "num": 125936,
+        "word": "我国的朋友圈越来越大",
+        "onboard_time": 1706140828,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124848,
+        "num": 124848,
+        "word": "世界之外",
+        "onboard_time": 1706146769,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121160,
+        "num": 121160,
+        "word": "先婚后爱现实中存在吗",
+        "onboard_time": 1706140706,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120390,
+        "num": 120390,
+        "word": "郑钦文张之臻冲击澳网决赛",
+        "onboard_time": 1706148268,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118634,
+        "num": 118634,
+        "word": "特斯拉发布2023年财报",
+        "onboard_time": 1706149768,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117642,
+        "num": 117642,
+        "word": "接在外打工的妈妈回家过年",
+        "onboard_time": 1706148808,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110937,
+        "num": 110937,
+        "word": "B站开屏 烟雾镜",
+        "onboard_time": 1706139324,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103412,
+        "num": 103412,
+        "word": "病毒感染后警惕暴发性心肌炎",
+        "onboard_time": 1706143111,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对江西新余市火灾事故作出重要指示#"
+    }
+  }
+}
