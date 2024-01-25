@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706204053305,
+  "endTime": 1706206995004,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -14617,6 +14617,14 @@
       "onboard_time": 1706119942,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23020,
+      "num": 26666,
+      "word": "辛芷蕾把花少团说哭了",
+      "onboard_time": 1706206579,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 22869,
