@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706210093381,
+  "endTime": 1706211226133,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -68331,20 +68331,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35547,
+      "num": 27028,
+      "word": "长脸改短",
+      "onboard_time": 1706206700,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 35477,
+      "num": 35477,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35287,
       "num": 35287,
       "word": "微博之夜问答",
       "onboard_time": 1705098375,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 35155,
-      "num": 27028,
-      "word": "长脸改短",
-      "onboard_time": 1706206700,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 35140,
@@ -68752,14 +68760,6 @@
       "word": "一句话送给2024年的自己",
       "onboard_time": 1703992651,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27275,
-      "num": 27275,
-      "word": "巴黎街头中国簪花女孩惊艳外国人",
-      "onboard_time": 1706206521,
-      "rank": 28,
       "category": "社会新闻"
     },
     {

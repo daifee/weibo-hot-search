@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706210093381,
+  "endTime": 1706211226133,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -435,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35155,
+      "raw_hot": 35547,
       "num": 27028,
       "word": "长脸改短",
       "onboard_time": 1706206700,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 35477,
+      "num": 35477,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29337,
@@ -456,14 +464,6 @@
       "word": "何以中国的文明密码",
       "onboard_time": 1706192194,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27275,
-      "num": 27275,
-      "word": "巴黎街头中国簪花女孩惊艳外国人",
-      "onboard_time": 1706206521,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
