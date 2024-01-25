@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706153681573,
+  "endTime": 1706156550803,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1280360,
+      "num": 1280360,
+      "word": "煮苹果水",
+      "onboard_time": 1706152771,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1248136,
       "num": 1248136,
       "word": "民政部回复龙年不宜结婚",
@@ -51,11 +59,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938111,
+      "num": 354822,
+      "word": "鸡蛋上最脏的东西可能被你吃了",
+      "onboard_time": 1706154332,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 919277,
+      "num": 919277,
+      "word": "韩国13岁出道女孩",
+      "onboard_time": 1706154632,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 881560,
       "num": 881560,
       "word": "江西新余致39死火灾原因",
       "onboard_time": 1706137823,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842111,
+      "num": 842111,
+      "word": "吴磊赵今麦车窗吻",
+      "onboard_time": 1706153488,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 823532,
+      "num": 823532,
+      "word": "99年女孩购买入住毛坯房父亲特意来看望",
+      "onboard_time": 1706154150,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -107,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603920,
+      "num": 354624,
+      "word": "有夜尿与没有夜尿的人谁更健康",
+      "onboard_time": 1706156253,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 592009,
       "num": 592009,
       "word": "张檬备孕失败",
@@ -115,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585167,
+      "num": 585167,
+      "word": "内马尔第三个孩子",
+      "onboard_time": 1706152950,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580407,
       "num": 580407,
       "word": "王菊回应被漂亮礼服尺码PUA言论",
       "onboard_time": 1706143290,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573582,
+      "num": 573582,
+      "word": "世卫警告X疾病比新冠致命20倍",
+      "onboard_time": 1706151752,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 565278,
@@ -161,14 +225,6 @@
       "onboard_time": 1706098711,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 470408,
-      "num": 470408,
-      "word": "世卫警告X疾病比新冠致命20倍",
-      "onboard_time": 1706151752,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 460473,
@@ -251,12 +307,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 371789,
-      "num": 371789,
-      "word": "内马尔第三个孩子",
-      "onboard_time": 1706152950,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 371011,
+      "num": 371011,
+      "word": "檀健次 给爸妈带好",
+      "onboard_time": 1706154632,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365386,
+      "num": 365386,
+      "word": "吴磊第一部现偶剧",
+      "onboard_time": 1706153550,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 358690,
@@ -267,6 +331,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358528,
+      "num": 358528,
+      "word": "龚俊公司被起诉",
+      "onboard_time": 1706153851,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 353007,
+      "num": 353007,
+      "word": "IU新歌 挂窗帘",
+      "onboard_time": 1706154932,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352191,
       "num": 151586,
       "word": "江西 火灾",
@@ -275,16 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340367,
-      "num": 340367,
-      "word": "煮苹果水",
-      "onboard_time": 1706152771,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 340365,
-      "num": 292190,
+      "num": 295019,
       "word": "女子返乡火车上炫鸭脖啃出一座山",
       "onboard_time": 1706153133,
       "rank": 20,
@@ -347,6 +419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 305301,
+      "num": 305301,
+      "word": "蔡磊说生病才知道有多少骗子",
+      "onboard_time": 1706155111,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301186,
       "num": 301186,
       "word": "我国的朋友圈越来越大",
@@ -361,6 +441,14 @@
       "onboard_time": 1706099190,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288180,
+      "num": 288180,
+      "word": "胡锡进增持股票",
+      "onboard_time": 1706155712,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 287295,
@@ -403,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272778,
+      "num": 272778,
+      "word": "新年美甲",
+      "onboard_time": 1706153791,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 259514,
       "num": 259514,
       "word": "80后小哥送快递3年收入超140万",
@@ -417,14 +513,6 @@
       "onboard_time": 1706089831,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258078,
-      "num": 258078,
-      "word": "吴磊第一部现偶剧",
-      "onboard_time": 1706153550,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 254122,
@@ -483,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238026,
+      "num": 238026,
+      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
+      "onboard_time": 1706152710,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227639,
       "num": 227639,
       "word": "BABYMONSTER 复活",
@@ -539,14 +635,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 209311,
-      "num": 209311,
-      "word": "吴磊赵今麦车窗吻",
-      "onboard_time": 1706153488,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206731,
       "num": 206731,
       "word": "范丞丞制服照",
@@ -563,12 +651,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202001,
-      "num": 202001,
-      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
-      "onboard_time": 1706152710,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 204641,
+      "num": 204641,
+      "word": "中字头10余股涨停",
+      "onboard_time": 1706155774,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "第五人格",
+      "onboard_time": 1706154813,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202036,
+      "num": 202036,
+      "word": "奥本海默内地重映",
+      "onboard_time": 1706155291,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 201564,
@@ -587,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199541,
+      "num": 199541,
+      "word": "暴雪时分 打火机许愿",
+      "onboard_time": 1706155534,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199391,
       "num": 199391,
       "word": "仅退款渐成电商标配",
@@ -601,6 +713,14 @@
       "onboard_time": 1706112809,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197661,
+      "num": 197661,
+      "word": "黄觉 冒昧的东西",
+      "onboard_time": 1706154691,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197199,
@@ -627,12 +747,28 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 191431,
+      "num": 196348,
+      "word": "王星越小孩哥变大舅哥",
+      "onboard_time": 1706155774,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189378,
       "num": 189378,
       "word": "刘雨昕连任山东春晚地屏质检员",
       "onboard_time": 1706147851,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185675,
+      "num": 185675,
+      "word": "线上加班应支付劳动者加班费",
+      "onboard_time": 1706155411,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184843,
@@ -675,12 +811,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174880,
+      "num": 174880,
+      "word": "王鹤棣 NBA全明星",
+      "onboard_time": 1706154211,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 173107,
       "num": 173107,
       "word": "山西朋友给我邮寄的特产是大闸蟹",
       "onboard_time": 1706143111,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172731,
+      "num": 172731,
+      "word": "猫猫洗完脸一抬头发现被围观了",
+      "onboard_time": 1706155654,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 170420,
@@ -699,12 +851,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 168897,
+      "num": 168897,
+      "word": "韩国仁川新地标撞脸广州塔",
+      "onboard_time": 1706156193,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 165892,
       "num": 165892,
       "word": "阚清子绿色清凉吊带裙",
       "onboard_time": 1706108555,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162270,
+      "num": 162270,
+      "word": "马未都初见苏童因为他太漂亮而惊讶",
+      "onboard_time": 1706156431,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160757,
@@ -729,6 +897,14 @@
       "onboard_time": 1706101355,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154606,
+      "num": 154606,
+      "word": "来自星尘",
+      "onboard_time": 1706156492,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 154157,
