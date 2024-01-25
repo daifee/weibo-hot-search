@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706164645982,
+  "endTime": 1706167049268,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2548449,
+      "num": 2548449,
+      "word": "新加坡免签",
+      "onboard_time": 1706166154,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2342836,
       "num": 2342836,
       "word": "江西新余火灾有学生不幸遇难",
       "onboard_time": 1706160031,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1814184,
+      "num": 1814184,
+      "word": "男生火场中给母亲发消息说出不去了",
+      "onboard_time": 1706160991,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1169395,
-      "num": 1169395,
-      "word": "男生火场中给母亲发消息说出不去了",
-      "onboard_time": 1706160991,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1146880,
       "num": 1146880,
       "word": "女生腹泻后未在意5天后心脏停跳",
@@ -97,6 +105,14 @@
       "onboard_time": 1706156253,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1015091,
+      "num": 1015091,
+      "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
+      "onboard_time": 1706162912,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948808,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 879742,
+      "num": 879742,
+      "word": "迪丽热巴曾发私信鼓励辛芷蕾",
+      "onboard_time": 1706164472,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 856187,
       "num": 856187,
       "word": "培训班有学生逃课买衣服避过火灾",
@@ -153,6 +177,14 @@
       "onboard_time": 1706098652,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802854,
+      "num": 802854,
+      "word": "外资1小时买入A股30亿",
+      "onboard_time": 1706163151,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 791599,
@@ -251,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 554783,
+      "num": 554783,
+      "word": "宁艺卓自曝因ADHD压力很大",
+      "onboard_time": 1706165370,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506935,
       "num": 506935,
       "word": "霍启刚天津政协委员",
       "onboard_time": 1706159135,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500262,
+      "num": 500262,
+      "word": "高校拟聘教师公示备注亲属师生关系",
+      "onboard_time": 1706161951,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 495733,
@@ -307,28 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 470179,
-      "num": 470179,
-      "word": "外资1小时买入A股30亿",
-      "onboard_time": 1706163151,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 460473,
       "num": 460473,
       "word": "车厘子价格降不动了",
       "onboard_time": 1706107775,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 457550,
-      "num": 457550,
-      "word": "高校拟聘教师公示备注亲属师生关系",
-      "onboard_time": 1706161951,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 456191,
@@ -347,11 +379,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452588,
+      "num": 452588,
+      "word": "江西火灾中的培训教室门仅容一人通过",
+      "onboard_time": 1706164530,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449503,
       "num": 449503,
       "word": "新余所有校外培训机构暂停培训活动",
       "onboard_time": 1706144250,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446391,
+      "num": 446391,
+      "word": "昆明动物园",
+      "onboard_time": 1706163330,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -427,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 390548,
-      "num": 390548,
-      "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
-      "onboard_time": 1706162912,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388180,
       "num": 388180,
       "word": "他不急她不急我很急",
@@ -467,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 368713,
-      "num": 368713,
-      "word": "昆明动物园",
-      "onboard_time": 1706163330,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367337,
       "num": 367337,
       "word": "金莎男友给每个人做了一道家乡菜",
@@ -489,14 +521,6 @@
       "onboard_time": 1706153550,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 361548,
-      "num": 361548,
-      "word": "迪丽热巴曾发私信鼓励辛芷蕾",
-      "onboard_time": 1706164472,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 358690,
@@ -587,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317272,
+      "num": 317272,
+      "word": "胡先煦最嗑一璐平安",
+      "onboard_time": 1706165430,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310163,
       "num": 310163,
       "word": "秦海璐拍的北斗七行",
@@ -603,12 +635,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 302771,
+      "num": 302771,
+      "word": "东北冻梨原来是道年夜菜",
+      "onboard_time": 1706166028,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 301186,
       "num": 301186,
       "word": "我国的朋友圈越来越大",
       "onboard_time": 1706140828,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 300838,
+      "num": 300838,
+      "word": "中石油股价涨停",
+      "onboard_time": 1706164951,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 298760,
@@ -641,6 +689,14 @@
       "onboard_time": 1706146529,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 283537,
+      "num": 283537,
+      "word": "花少播完了我该判给谁",
+      "onboard_time": 1706166211,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 276429,
@@ -683,6 +739,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 262943,
+      "num": 262943,
+      "word": "母亲回应儿子火场发消息后失联",
+      "onboard_time": 1706166571,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259514,
       "num": 259514,
       "word": "80后小哥送快递3年收入超140万",
@@ -721,6 +785,14 @@
       "onboard_time": 1706151686,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247237,
+      "num": 247237,
+      "word": "两00后为面子租iPhone后变成零元购",
+      "onboard_time": 1706164832,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246079,
@@ -787,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 228596,
+      "num": 228596,
+      "word": "为什么富人不爱遮挡窗户",
+      "onboard_time": 1706163450,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227681,
       "num": 227681,
       "word": "两市上涨个股超4600只",
@@ -811,20 +891,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 224735,
+      "num": 219267,
+      "word": "王安宇问姐夫有看花少吗",
+      "onboard_time": 1706166630,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223614,
+      "num": 223614,
+      "word": "你咋考上大学的",
+      "onboard_time": 1706165252,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220905,
       "num": 220905,
       "word": "鸡蛋面又火了",
       "onboard_time": 1706144129,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 219945,
-      "num": 198553,
-      "word": "为什么富人不爱遮挡窗户",
-      "onboard_time": 1706163450,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 218687,
@@ -883,6 +971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 209226,
+      "num": 209226,
+      "word": "学术站姐",
+      "onboard_time": 1706165912,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208333,
       "num": 208333,
       "word": "刘亦菲洛杉矶偶遇",
@@ -937,6 +1033,14 @@
       "onboard_time": 1706140165,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200652,
+      "num": 200652,
+      "word": "KAKAO调查SM管理层",
+      "onboard_time": 1706165731,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 199698,
@@ -1032,6 +1136,14 @@
       "word": "王星越小孩哥变大舅哥",
       "onboard_time": 1706155774,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192031,
+      "num": 192031,
+      "word": "中国电视剧年度盛典演员入戏时刻",
+      "onboard_time": 1706166452,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1219,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155356,
-      "num": 155356,
-      "word": "江西火灾中的培训教室门仅容一人通过",
-      "onboard_time": 1706164530,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154157,
       "num": 154157,
       "word": "APP订酒店黄金会员为何贵211元",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1706164412,
       "rank": 42,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 151868,
+      "num": 151868,
+      "word": "魏大勋魏晨张宥浩立麦",
+      "onboard_time": 1706164710,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 150881,
@@ -1379,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129128,
+      "num": 129128,
+      "word": "沪指收复2900点关口",
+      "onboard_time": 1706165191,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 128926,
       "num": 128926,
       "word": "魏大勋新手机壳",
@@ -1441,6 +1561,14 @@
       "onboard_time": 1706148808,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117587,
+      "num": 117587,
+      "word": "央视龙年春晚预告",
+      "onboard_time": 1706166932,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 117446,
@@ -1524,7 +1652,7 @@
     },
     {
       "raw_hot": 89642,
-      "num": 1399114,
+      "num": 1607874,
       "word": "农历龙年知识帖",
       "onboard_time": 1706157151,
       "rank": 2,
