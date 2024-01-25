@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706213829777,
+  "endTime": 1706214866831,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -419,20 +419,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62890,
+      "num": 62890,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57750,
       "num": 67334,
       "word": "蟹场里吃青蟹",
       "onboard_time": 1706196212,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 36799,
-      "num": 36799,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36655,
