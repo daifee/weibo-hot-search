@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706145528907,
+  "endTime": 1706146851654,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1486611,
-      "num": 1486611,
+      "raw_hot": 1767184,
+      "num": 1767184,
       "word": "你单位宣布除夕放假了吗",
       "onboard_time": 1706141851,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1533872,
+      "num": 1533872,
+      "word": "虞书欣司机在高速上倒车",
+      "onboard_time": 1706144850,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1248136,
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 524419,
-      "num": 524419,
-      "word": "虞书欣司机在高速上倒车",
-      "onboard_time": 1706144850,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 495582,
       "num": 495582,
       "word": "菏泽一臭水沟惊现8箱飞天茅台",
@@ -131,6 +131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 456191,
+      "num": 456191,
+      "word": "江西新余市长鞠躬致歉",
+      "onboard_time": 1706145509,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455446,
       "num": 455446,
       "word": "C罗不满中国行主办方",
@@ -145,6 +153,14 @@
       "onboard_time": 1706144250,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431839,
+      "num": 431839,
+      "word": "苹果在华放下身段",
+      "onboard_time": 1706145151,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 430000,
@@ -163,7 +179,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358579,
+      "raw_hot": 358690,
       "num": 248619,
       "word": "边牧 我可能摸一下这位阿姨嘛",
       "onboard_time": 1706141551,
@@ -185,6 +201,14 @@
       "onboard_time": 1706100275,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322553,
+      "num": 322553,
+      "word": "蓝亦菲悲剧",
+      "onboard_time": 1706144609,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 320453,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271996,
-      "num": 271996,
-      "word": "蓝亦菲悲剧",
-      "onboard_time": 1706144609,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258345,
       "num": 152569,
       "word": "情侣住店赤身裸体房门突然被打开",
@@ -307,20 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227639,
+      "num": 227639,
+      "word": "BABYMONSTER 复活",
+      "onboard_time": 1706145031,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220905,
+      "num": 220905,
+      "word": "鸡蛋面又火了",
+      "onboard_time": 1706144129,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217611,
       "num": 217611,
       "word": "暧昧期容易上头的星座",
       "onboard_time": 1706099793,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214724,
-      "num": 189695,
-      "word": "苹果在华放下身段",
-      "onboard_time": 1706145151,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 212617,
@@ -355,14 +379,6 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 192860,
-      "num": 192860,
-      "word": "BABYMONSTER 复活",
-      "onboard_time": 1706145031,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184843,
       "num": 184843,
       "word": "花儿与少年",
@@ -371,20 +387,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184241,
-      "num": 184241,
-      "word": "鸡蛋面又火了",
-      "onboard_time": 1706144129,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 181842,
       "num": 181842,
       "word": "江西新余火灾伤者比较年轻",
       "onboard_time": 1706108732,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180996,
+      "num": 180996,
+      "word": "原来冬天的生蚝吃起来是脆的",
+      "onboard_time": 1706146590,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 178508,
+      "num": 178508,
+      "word": "在暴雪时分",
+      "onboard_time": 1706140528,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 177636,
@@ -411,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166436,
+      "num": 166436,
+      "word": "马斯克称中国车企世界上最有竞争力",
+      "onboard_time": 1706146529,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 165892,
       "num": 165892,
       "word": "阚清子绿色清凉吊带裙",
@@ -419,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162073,
-      "num": 162073,
-      "word": "在暴雪时分",
-      "onboard_time": 1706140528,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 156375,
+      "num": 156375,
+      "word": "病毒感染后警惕暴发性心肌炎",
+      "onboard_time": 1706143111,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156121,
@@ -433,6 +465,14 @@
       "onboard_time": 1706101355,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154157,
+      "num": 154157,
+      "word": "APP订酒店黄金会员为何贵211元",
+      "onboard_time": 1706145929,
+      "rank": 36,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 153650,
@@ -451,12 +491,12 @@
       "category": "汽车,财经"
     },
     {
-      "raw_hot": 146797,
-      "num": 146797,
-      "word": "病毒感染后警惕暴发性心肌炎",
-      "onboard_time": 1706143111,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 144373,
+      "num": 144373,
+      "word": "世界之外",
+      "onboard_time": 1706146769,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 142438,
@@ -491,6 +531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130250,
+      "num": 130250,
+      "word": "这碗牛肉面强行免费",
+      "onboard_time": 1706146590,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129886,
       "num": 129886,
       "word": "人夫感是一种什么感觉",
@@ -505,14 +553,6 @@
       "onboard_time": 1706105196,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127635,
-      "num": 127635,
-      "word": "江西新余市长鞠躬致歉",
-      "onboard_time": 1706145509,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124364,
@@ -553,6 +593,14 @@
       "onboard_time": 1706139925,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115794,
+      "num": 115794,
+      "word": "澳门旅游局申请出战",
+      "onboard_time": 1706146411,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 114505,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 22869,
-      "num": 908992,
+      "num": 1557387,
       "word": "我国高光谱综合观测卫星投入使用",
       "onboard_time": 1706100514,
       "rank": 2,

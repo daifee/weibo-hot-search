@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706145528907,
+  "endTime": 1706146851654,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -171,6 +171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1767184,
+      "num": 1767184,
+      "word": "你单位宣布除夕放假了吗",
+      "onboard_time": 1706141851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1722180,
       "num": 1718960,
       "word": "男生表白失败坠楼家属向多方索赔127万",
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1533872,
+      "num": 1533872,
+      "word": "虞书欣司机在高速上倒车",
+      "onboard_time": 1706144850,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1527480,
       "num": 1527480,
       "word": "李湘宣布退休后又复工",
@@ -305,14 +321,6 @@
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1486611,
-      "num": 1486611,
-      "word": "你单位宣布除夕放假了吗",
-      "onboard_time": 1706141851,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1464904,
@@ -2227,14 +2235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 524419,
-      "num": 524419,
-      "word": "虞书欣司机在高速上倒车",
-      "onboard_time": 1706144850,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 521680,
       "num": 521680,
       "word": "张黎称已成立新导师组",
@@ -2635,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 456191,
+      "num": 456191,
+      "word": "江西新余市长鞠躬致歉",
+      "onboard_time": 1706145509,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456110,
       "num": 456110,
       "word": "王鹤棣火焰粉发",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1705846710,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431839,
+      "num": 431839,
+      "word": "苹果在华放下身段",
+      "onboard_time": 1706145151,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 429671,
@@ -3475,7 +3491,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358579,
+      "raw_hot": 358690,
       "num": 248619,
       "word": "边牧 我可能摸一下这位阿姨嘛",
       "onboard_time": 1706141551,
@@ -3913,6 +3929,14 @@
       "onboard_time": 1705985189,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322553,
+      "num": 322553,
+      "word": "蓝亦菲悲剧",
+      "onboard_time": 1706144609,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 322033,
@@ -4657,14 +4681,6 @@
       "onboard_time": 1705929808,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 271996,
-      "num": 271996,
-      "word": "蓝亦菲悲剧",
-      "onboard_time": 1706144609,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 270410,
@@ -5499,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227639,
+      "num": 227639,
+      "word": "BABYMONSTER 复活",
+      "onboard_time": 1706145031,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227338,
       "num": 227338,
       "word": "突然意识到妈妈需要我照顾了",
@@ -5675,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220905,
+      "num": 220905,
+      "word": "鸡蛋面又火了",
+      "onboard_time": 1706144129,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 220261,
       "num": 220261,
       "word": "飞驰人生2剧组被e人统治了",
@@ -5817,14 +5849,6 @@
       "onboard_time": 1705840108,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214724,
-      "num": 189695,
-      "word": "苹果在华放下身段",
-      "onboard_time": 1706145151,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 214612,
@@ -6763,14 +6787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 192860,
-      "num": 192860,
-      "word": "BABYMONSTER 复活",
-      "onboard_time": 1706145031,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192566,
       "num": 192566,
       "word": "中国中长期资金入市潜力大",
@@ -7091,14 +7107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184241,
-      "num": 184241,
-      "word": "鸡蛋面又火了",
-      "onboard_time": 1706144129,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 184061,
       "num": 184061,
       "word": "花少 姐狗文学",
@@ -7233,6 +7241,14 @@
       "onboard_time": 1706066849,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180996,
+      "num": 180996,
+      "word": "原来冬天的生蚝吃起来是脆的",
+      "onboard_time": 1706146590,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 180949,
@@ -7907,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166436,
+      "num": 166436,
+      "word": "马斯克称中国车企世界上最有竞争力",
+      "onboard_time": 1706146529,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166292,
       "num": 166292,
       "word": "下雪文案",
@@ -8371,6 +8395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156375,
+      "num": 156375,
+      "word": "病毒感染后警惕暴发性心肌炎",
+      "onboard_time": 1706143111,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156135,
       "num": 156135,
       "word": "大江大河是巨大的菀菀类卿",
@@ -8481,6 +8513,14 @@
       "onboard_time": 1705762770,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154157,
+      "num": 154157,
+      "word": "APP订酒店黄金会员为何贵211元",
+      "onboard_time": 1706145929,
+      "rank": 36,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 153650,
@@ -8865,14 +8905,6 @@
       "onboard_time": 1705912346,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146797,
-      "num": 146797,
-      "word": "病毒感染后警惕暴发性心肌炎",
-      "onboard_time": 1706143111,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146586,
@@ -9883,6 +9915,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 130250,
+      "num": 130250,
+      "word": "这碗牛肉面强行免费",
+      "onboard_time": 1706146590,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129885,
       "num": 129885,
       "word": "新疆乌什县地震已致6人受伤",
@@ -10049,14 +10089,6 @@
       "onboard_time": 1706083710,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127635,
-      "num": 127635,
-      "word": "江西新余市长鞠躬致歉",
-      "onboard_time": 1706145509,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127610,
@@ -10625,6 +10657,14 @@
       "onboard_time": 1705887805,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115794,
+      "num": 115794,
+      "word": "澳门旅游局申请出战",
+      "onboard_time": 1706146411,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 115788,
@@ -12244,7 +12284,7 @@
     },
     {
       "raw_hot": 22869,
-      "num": 908992,
+      "num": 1557387,
       "word": "我国高光谱综合观测卫星投入使用",
       "onboard_time": 1706100514,
       "rank": 2,
