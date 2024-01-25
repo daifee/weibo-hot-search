@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706206995004,
+  "endTime": 1706207844227,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -14579,6 +14579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29295,
+      "num": 26666,
+      "word": "辛芷蕾把花少团说哭了",
+      "onboard_time": 1706206579,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27692,
       "num": 27692,
       "word": "腰椎最喜欢的两个动作",
@@ -14611,20 +14619,20 @@
       "category": "音乐,电竞"
     },
     {
+      "raw_hot": 25041,
+      "num": 25041,
+      "word": "长脸改短",
+      "onboard_time": 1706206700,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 24685,
       "num": 24685,
       "word": "飞天奖报名启动",
       "onboard_time": 1706119942,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23020,
-      "num": 26666,
-      "word": "辛芷蕾把花少团说哭了",
-      "onboard_time": 1706206579,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 22869,

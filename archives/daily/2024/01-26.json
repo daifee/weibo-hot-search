@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706206995004,
+  "endTime": 1706207844227,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29295,
+      "num": 26666,
+      "word": "辛芷蕾把花少团说哭了",
+      "onboard_time": 1706206579,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28436,
       "num": 1080418,
       "word": "何以中国的文明密码",
@@ -451,16 +459,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23020,
-      "num": 26666,
-      "word": "辛芷蕾把花少团说哭了",
-      "onboard_time": 1706206579,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 25041,
+      "num": 25041,
+      "word": "长脸改短",
+      "onboard_time": 1706206700,
+      "rank": 39,
+      "category": "美妆"
     },
     {
-      "raw_hot": 8648,
-      "num": 227293,
+      "raw_hot": 9848,
+      "num": 258246,
       "word": "2024春运出行指南",
       "onboard_time": 1706191655,
       "rank": 2,
