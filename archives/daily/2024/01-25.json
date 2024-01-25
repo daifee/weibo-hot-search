@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706187038786,
+  "endTime": 1706188928614,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -99,12 +99,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1590985,
+      "num": 1590985,
+      "word": "郑钦文首进大满贯决赛",
+      "onboard_time": 1706187217,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1533872,
       "num": 1533872,
       "word": "虞书欣司机在高速上倒车",
       "onboard_time": 1706144850,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1516435,
+      "num": 1516435,
+      "word": "赵晴身高",
+      "onboard_time": 1706185318,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1474568,
@@ -161,14 +177,6 @@
       "onboard_time": 1706108254,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1078859,
-      "num": 1078859,
-      "word": "赵晴身高",
-      "onboard_time": 1706185318,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1071730,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736598,
+      "num": 736598,
+      "word": "云南山体滑坡44人遇难",
+      "onboard_time": 1706187275,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711264,
       "num": 711264,
       "word": "美甲 丑甲",
@@ -521,6 +537,14 @@
       "onboard_time": 1706159135,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502151,
+      "num": 407417,
+      "word": "徐娇赵晴合照",
+      "onboard_time": 1706188173,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500262,
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 352793,
-      "num": 219160,
+      "num": 255013,
       "word": "秦海璐穿了吊带红裙",
       "onboard_time": 1706185831,
       "rank": 32,
@@ -995,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311313,
+      "num": 253747,
+      "word": "于正怼脸生图",
+      "onboard_time": 1706188413,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310163,
       "num": 310163,
       "word": "秦海璐拍的北斗七行",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1706166028,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 301893,
+      "num": 301893,
+      "word": "李娜",
+      "onboard_time": 1706188473,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 301186,
@@ -1283,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232108,
+      "num": 261271,
+      "word": "宝爸辞职做自媒体有多心酸",
+      "onboard_time": 1706186556,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231813,
       "num": 188666,
       "word": "陶喆演唱会",
@@ -1300,7 +1348,7 @@
     },
     {
       "raw_hot": 229948,
-      "num": 190279,
+      "num": 203705,
       "word": "内娱女子组合TFGirls",
       "onboard_time": 1706186073,
       "rank": 37,
@@ -1361,6 +1409,14 @@
       "onboard_time": 1706165252,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223344,
+      "num": 203707,
+      "word": "花儿与少年5",
+      "onboard_time": 1706184089,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 220980,
@@ -1515,20 +1571,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 204407,
-      "num": 188501,
-      "word": "花儿与少年5",
-      "onboard_time": 1706184089,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203619,
-      "num": 188852,
-      "word": "宝爸辞职做自媒体有多心酸",
-      "onboard_time": 1706186556,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 203708,
+      "num": 203708,
+      "word": "农大丁同学收到春晚邀约后",
+      "onboard_time": 1706186974,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202861,
@@ -1675,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191272,
+      "num": 191272,
+      "word": "澳网2024",
+      "onboard_time": 1706187995,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191226,
       "num": 191226,
       "word": "世界之外天地无束",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1706170112,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 190450,
+      "num": 190450,
+      "word": "网球",
+      "onboard_time": 1706188653,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 189378,
@@ -1843,6 +1907,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 174049,
+      "num": 174049,
+      "word": "檀健次最漫长的1分钟",
+      "onboard_time": 1706187695,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173543,
       "num": 173543,
       "word": "邱小冬长大后是哈佛博士",
@@ -1961,6 +2033,22 @@
       "onboard_time": 1706171491,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161366,
+      "num": 161366,
+      "word": "王鹤棣 帅得很高清",
+      "onboard_time": 1706188473,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161277,
+      "num": 161277,
+      "word": "狮子座是一个爱憎分明的人",
+      "onboard_time": 1706187695,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 160870,
@@ -2187,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138797,
+      "num": 138797,
+      "word": "世界上最勇敢的视频出现了",
+      "onboard_time": 1706188715,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138221,
       "num": 138221,
       "word": "明天春运开启",
@@ -2201,6 +2297,14 @@
       "onboard_time": 1706149768,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135395,
+      "num": 135395,
+      "word": "没艺术细胞就不要挑战陶艺了",
+      "onboard_time": 1706188715,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 135125,
@@ -2260,7 +2364,7 @@
     },
     {
       "raw_hot": 130526,
-      "num": 130526,
+      "num": 286631,
       "word": "新5系价格发布",
       "onboard_time": 1706186917,
       "rank": 48,
@@ -2307,14 +2411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 123765,
-      "num": 123765,
-      "word": "农大丁同学收到春晚邀约后",
-      "onboard_time": 1706186974,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123645,
       "num": 123645,
       "word": "新余",
@@ -2353,6 +2449,14 @@
       "onboard_time": 1706175692,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "我们的翻译官",
+      "onboard_time": 1706187457,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119303,
@@ -2651,6 +2755,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 56647,
+      "num": 257977,
+      "word": "三星AI拍照卷起来了",
+      "onboard_time": 1706186316,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54013,
       "num": 54013,
       "word": "恋与深空 永远有哥哥罩着",
@@ -2691,14 +2803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41206,
-      "num": 191036,
-      "word": "三星AI拍照卷起来了",
-      "onboard_time": 1706186316,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 40840,
       "num": 40840,
       "word": "嗑女一男二是我的宿命",
@@ -2732,7 +2836,7 @@
     },
     {
       "raw_hot": 30292,
-      "num": 1484873,
+      "num": 1521723,
       "word": "中山站建站35周年",
       "onboard_time": 1706157030,
       "rank": 28,
