@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706150658019,
+  "endTime": 1706152753679,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1669010,
+      "num": 1669010,
+      "word": "网课入侵猝死老师女儿再发声",
+      "onboard_time": 1706147729,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1533872,
       "num": 1533872,
       "word": "虞书欣司机在高速上倒车",
       "onboard_time": 1706144850,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1383006,
-      "num": 1383006,
-      "word": "网课入侵猝死老师女儿再发声",
-      "onboard_time": 1706147729,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1248136,
@@ -67,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791599,
+      "num": 791599,
+      "word": "12306候补",
+      "onboard_time": 1706150729,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 787524,
+      "num": 787524,
+      "word": "美嘉被山根挡住的眼泪",
+      "onboard_time": 1706147129,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 740926,
       "num": 740926,
       "word": "江西新余火灾12名责任人被控制",
@@ -89,14 +105,6 @@
       "onboard_time": 1706139266,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 618972,
-      "num": 618972,
-      "word": "美嘉被山根挡住的眼泪",
-      "onboard_time": 1706147129,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 592009,
@@ -195,12 +203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422103,
+      "num": 422103,
+      "word": "大龄二孩家庭",
+      "onboard_time": 1706148030,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418917,
       "num": 418917,
       "word": "男主脱衣服受刑的原因",
       "onboard_time": 1706096908,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393133,
+      "num": 393133,
+      "word": "胡塞武装发射导弹击中一艘美国军舰",
+      "onboard_time": 1706147370,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 358690,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334142,
+      "num": 334142,
+      "word": "日本今年将排放5万余吨核污染水",
+      "onboard_time": 1706151029,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 333480,
       "num": 247888,
       "word": "男子带9月孕妻爬山被亲妈语音轰炸",
@@ -227,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324668,
-      "num": 324668,
-      "word": "胡塞武装发射导弹击中一艘美国军舰",
-      "onboard_time": 1706147370,
-      "rank": 16,
-      "category": "国外时政"
+      "raw_hot": 331568,
+      "num": 268202,
+      "word": "狐妖小红娘竹业篇预约破百万",
+      "onboard_time": 1706151570,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 322553,
@@ -243,20 +275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321595,
+      "num": 321595,
+      "word": "在哈尔滨没搓上的澡在海南整上了",
+      "onboard_time": 1706148268,
+      "rank": 18,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 320453,
       "num": 320453,
       "word": "辛芷蕾胡先煦 好嗑",
       "onboard_time": 1706140347,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309132,
-      "num": 309132,
-      "word": "在哈尔滨没搓上的澡在海南整上了",
-      "onboard_time": 1706148268,
-      "rank": 18,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 307948,
@@ -275,20 +307,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 299126,
-      "num": 299126,
-      "word": "大龄二孩家庭",
-      "onboard_time": 1706148030,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298760,
       "num": 298760,
       "word": "游本昌回应一夜之间又红了",
       "onboard_time": 1706099190,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291708,
+      "num": 291708,
+      "word": "秦海璐拍的北斗七行",
+      "onboard_time": 1706151870,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 287295,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 276429,
-      "num": 184416,
+      "num": 245308,
       "word": "妈妈不小心把我送她的耳环弄掉了",
       "onboard_time": 1706149227,
       "rank": 30,
@@ -329,6 +361,14 @@
       "onboard_time": 1706139626,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269673,
+      "num": 269673,
+      "word": "世卫警告X疾病比新冠致命20倍",
+      "onboard_time": 1706151752,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259514,
@@ -427,12 +467,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214558,
+      "num": 214558,
+      "word": "这碗牛肉面强行免费",
+      "onboard_time": 1706146590,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 213722,
+      "num": 213722,
+      "word": "世界之外 AI图",
+      "onboard_time": 1706151686,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212617,
       "num": 212617,
       "word": "药店老板的一个警觉拯救了一个家庭",
       "onboard_time": 1706137943,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 206731,
+      "num": 206731,
+      "word": "范丞丞制服照",
+      "onboard_time": 1706151933,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 205874,
@@ -515,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179090,
-      "num": 179090,
-      "word": "这碗牛肉面强行免费",
-      "onboard_time": 1706146590,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 179699,
+      "num": 179699,
+      "word": "仅退款渐成电商标配",
+      "onboard_time": 1706152049,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 178674,
@@ -547,6 +611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172606,
+      "num": 216726,
+      "word": "喝一滴酒都致癌吗",
+      "onboard_time": 1706150610,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170420,
       "num": 170420,
       "word": "假装有百万粉丝去探店",
@@ -561,6 +633,14 @@
       "onboard_time": 1706149049,
       "rank": 35,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 168762,
+      "num": 168762,
+      "word": "姆巴佩决定离开巴黎",
+      "onboard_time": 1706152530,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 165892,
@@ -611,6 +691,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 144451,
+      "num": 144451,
+      "word": "重庆小伙负重50斤潜水50米建大桥",
+      "onboard_time": 1706150369,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144373,
       "num": 144373,
       "word": "世界之外",
@@ -651,12 +739,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139113,
+      "num": 139113,
+      "word": "杜兰特格威冲突",
+      "onboard_time": 1706152410,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136128,
       "num": 136128,
       "word": "特斯拉发布2023年财报",
       "onboard_time": 1706149768,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134915,
+      "num": 134915,
+      "word": "王者荣耀",
+      "onboard_time": 1706151630,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 129886,
@@ -681,6 +785,14 @@
       "onboard_time": 1706108133,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 124324,
+      "num": 124324,
+      "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
+      "onboard_time": 1706152710,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 120390,
@@ -768,22 +880,6 @@
       "word": "商场公厕男女标志像猜谜",
       "onboard_time": 1706103754,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112936,
-      "num": 112936,
-      "word": "喝一滴酒都致癌吗",
-      "onboard_time": 1706150610,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 109045,
-      "num": 109045,
-      "word": "重庆小伙负重50斤潜水50米建大桥",
-      "onboard_time": 1706150369,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
