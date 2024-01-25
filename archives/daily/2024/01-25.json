@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706163831253,
+  "endTime": 1706164645982,
   "band_list": [
     {
       "raw_hot": 3120435,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1794344,
+      "num": 1794344,
+      "word": "鸡蛋上最脏的东西可能被你吃了",
+      "onboard_time": 1706154332,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1767184,
       "num": 1767184,
       "word": "你单位宣布除夕放假了吗",
@@ -33,14 +41,6 @@
       "onboard_time": 1706147729,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1635510,
-      "num": 1635510,
-      "word": "鸡蛋上最脏的东西可能被你吃了",
-      "onboard_time": 1706154332,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1600722,
@@ -72,6 +72,14 @@
       "word": "男子性侵少女被判无罪后检察机关抗诉",
       "onboard_time": 1706157335,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1169395,
+      "num": 1169395,
+      "word": "男生火场中给母亲发消息说出不去了",
+      "onboard_time": 1706160991,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 907971,
-      "num": 907971,
-      "word": "男生火场中给母亲发消息说出不去了",
-      "onboard_time": 1706160991,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 881560,
       "num": 881560,
       "word": "江西新余致39死火灾原因",
       "onboard_time": 1706137823,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880159,
+      "num": 880159,
+      "word": "辛芷蕾说了迪丽热巴什么",
+      "onboard_time": 1706161470,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 856187,
@@ -161,14 +169,6 @@
       "onboard_time": 1706147129,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 742704,
-      "num": 742704,
-      "word": "辛芷蕾说了迪丽热巴什么",
-      "onboard_time": 1706161470,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 740926,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490669,
+      "num": 490669,
+      "word": "花少版燃冬",
+      "onboard_time": 1706162428,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483911,
       "num": 483911,
       "word": "江西新余火灾现场已无被困人员",
@@ -299,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470179,
+      "num": 470179,
+      "word": "外资1小时买入A股30亿",
+      "onboard_time": 1706163151,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 460473,
       "num": 460473,
       "word": "车厘子价格降不动了",
       "onboard_time": 1706107775,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 457550,
+      "num": 457550,
+      "word": "高校拟聘教师公示备注亲属师生关系",
+      "onboard_time": 1706161951,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 456191,
@@ -355,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422455,
-      "num": 422455,
-      "word": "花少版燃冬",
-      "onboard_time": 1706162428,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422103,
       "num": 422103,
       "word": "大龄二孩家庭",
@@ -411,12 +427,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 390548,
+      "num": 390548,
+      "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
+      "onboard_time": 1706162912,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388180,
+      "num": 388180,
+      "word": "他不急她不急我很急",
+      "onboard_time": 1706159970,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387222,
       "num": 387222,
       "word": "蔡磊希望妻子为自己复仇",
       "onboard_time": 1706159314,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371322,
+      "num": 371322,
+      "word": "东方甄选带货57亿营收28亿",
+      "onboard_time": 1706159612,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 371011,
@@ -427,6 +467,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368713,
+      "num": 368713,
+      "word": "昆明动物园",
+      "onboard_time": 1706163330,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367337,
+      "num": 367337,
+      "word": "金莎男友给每个人做了一道家乡菜",
+      "onboard_time": 1706162010,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365386,
       "num": 365386,
       "word": "吴磊第一部现偶剧",
@@ -435,20 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359527,
-      "num": 359527,
-      "word": "东方甄选带货57亿营收28亿",
-      "onboard_time": 1706159612,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 358984,
-      "num": 358984,
-      "word": "他不急她不急我很急",
-      "onboard_time": 1706159970,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 361548,
+      "num": 361548,
+      "word": "迪丽热巴曾发私信鼓励辛芷蕾",
+      "onboard_time": 1706164472,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 358690,
@@ -483,28 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349791,
-      "num": 280590,
-      "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
-      "onboard_time": 1706162912,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340365,
       "num": 295019,
       "word": "女子返乡火车上炫鸭脖啃出一座山",
       "onboard_time": 1706153133,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335516,
-      "num": 335516,
-      "word": "高校拟聘教师公示备注亲属师生关系",
-      "onboard_time": 1706161951,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 333480,
@@ -577,14 +609,6 @@
       "onboard_time": 1706140828,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 299211,
-      "num": 299211,
-      "word": "金莎男友给每个人做了一道家乡菜",
-      "onboard_time": 1706162010,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 298760,
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252853,
-      "num": 252853,
-      "word": "外资1小时买入A股30亿",
-      "onboard_time": 1706163151,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 250873,
       "num": 250873,
       "word": "新余火灾培训学生和住宿旅客受困",
@@ -771,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "两市上涨个股超4600只",
+      "onboard_time": 1706160870,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227639,
       "num": 227639,
       "word": "BABYMONSTER 复活",
@@ -793,6 +817,14 @@
       "onboard_time": 1706144129,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219945,
+      "num": 198553,
+      "word": "为什么富人不爱遮挡窗户",
+      "onboard_time": 1706163450,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 218687,
@@ -827,14 +859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 214038,
-      "num": 214038,
-      "word": "两市上涨个股超4600只",
-      "onboard_time": 1706160870,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 212617,
       "num": 212617,
       "word": "药店老板的一个警觉拯救了一个家庭",
@@ -857,14 +881,6 @@
       "onboard_time": 1706156193,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 208417,
-      "num": 208417,
-      "word": "昆明动物园",
-      "onboard_time": 1706163330,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208333,
@@ -953,6 +969,14 @@
       "onboard_time": 1706112809,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198562,
+      "num": 198562,
+      "word": "胡先煦告别花少plog",
+      "onboard_time": 1706163692,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 197661,
@@ -1099,6 +1123,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 173543,
+      "num": 173543,
+      "word": "邱小冬长大后是哈佛博士",
+      "onboard_time": 1706163749,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173107,
       "num": 173107,
       "word": "山西朋友给我邮寄的特产是大闸蟹",
@@ -1139,14 +1171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165294,
-      "num": 165294,
-      "word": "胡先煦告别花少plog",
-      "onboard_time": 1706163692,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160870,
       "num": 160870,
       "word": "来自星尘",
@@ -1171,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157905,
+      "num": 157905,
+      "word": "道枝骏佑客串了许光汉电影",
+      "onboard_time": 1706163692,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156375,
       "num": 156375,
       "word": "病毒感染后警惕暴发性心肌炎",
@@ -1184,6 +1216,14 @@
       "word": "巴宝莉门店回应热水袋不能装沸水",
       "onboard_time": 1706101355,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155356,
+      "num": 155356,
+      "word": "江西火灾中的培训教室门仅容一人通过",
+      "onboard_time": 1706164530,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1211,20 +1251,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152930,
+      "num": 152930,
+      "word": "赵昭仪漫画",
+      "onboard_time": 1706164412,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 150881,
       "num": 150881,
       "word": "特斯拉四季度利润大跌40%",
       "onboard_time": 1706142809,
       "rank": 41,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 144958,
-      "num": 144958,
-      "word": "为什么富人不爱遮挡窗户",
-      "onboard_time": 1706163450,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 144451,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1706146769,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143822,
+      "num": 143822,
+      "word": "库明加11中11",
+      "onboard_time": 1706163392,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 142438,
@@ -1315,14 +1363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132409,
-      "num": 132409,
-      "word": "库明加11中11",
-      "onboard_time": 1706163392,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131122,
       "num": 131122,
       "word": "赵露思喊你来四川耍",
@@ -1347,28 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126606,
-      "num": 126606,
-      "word": "邱小冬长大后是哈佛博士",
-      "onboard_time": 1706163749,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124364,
       "num": 124364,
       "word": "为什么衣服上的火锅味一直散不掉",
       "onboard_time": 1706108133,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 124087,
-      "num": 124087,
-      "word": "道枝骏佑客串了许光汉电影",
-      "onboard_time": 1706163692,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 120390,
@@ -1500,7 +1524,7 @@
     },
     {
       "raw_hot": 89642,
-      "num": 1259776,
+      "num": 1399114,
       "word": "农历龙年知识帖",
       "onboard_time": 1706157151,
       "rank": 2,
