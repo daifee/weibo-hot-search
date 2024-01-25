@@ -1,0 +1,410 @@
+{
+  "runTime": 1706157432375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600722,
+        "num": 1600722,
+        "word": "煮苹果水",
+        "onboard_time": 1706152771,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1299560,
+        "num": 1299560,
+        "word": "网课入侵猝死老师女儿再发声",
+        "onboard_time": 1706147729,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31351,
+        "num": 1259776,
+        "word": "农历龙年知识帖",
+        "onboard_time": 1706157151,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246399,
+        "num": 1246399,
+        "word": "虞书欣司机在高速上倒车",
+        "onboard_time": 1706144850,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948808,
+        "num": 948808,
+        "word": "99年女孩购买入住毛坯房父亲特意来看望",
+        "onboard_time": 1706154150,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830880,
+        "num": 830880,
+        "word": "韩国13岁出道女孩",
+        "onboard_time": 1706154632,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737070,
+        "num": 737070,
+        "word": "吴磊赵今麦车窗吻",
+        "onboard_time": 1706153488,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 674695,
+        "num": 674695,
+        "word": "民政部回复龙年不宜结婚",
+        "onboard_time": 1706107055,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564647,
+        "num": 564647,
+        "word": "世卫警告X疾病比新冠致命20倍",
+        "onboard_time": 1706151752,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 548218,
+        "num": 548218,
+        "word": "内马尔第三个孩子",
+        "onboard_time": 1706152950,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541834,
+        "num": 541834,
+        "word": "美嘉被山根挡住的眼泪",
+        "onboard_time": 1706147129,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484992,
+        "num": 484992,
+        "word": "江西新余火灾事故新闻发布会",
+        "onboard_time": 1706142329,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436189,
+        "num": 436189,
+        "word": "江西新余致39死火灾原因",
+        "onboard_time": 1706137823,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392893,
+        "num": 392893,
+        "word": "IU新歌 挂窗帘",
+        "onboard_time": 1706154932,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384363,
+        "num": 384363,
+        "word": "宁艺卓 多动症",
+        "onboard_time": 1706139266,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369197,
+        "num": 369197,
+        "word": "12306候补",
+        "onboard_time": 1706150729,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362871,
+        "num": 362871,
+        "word": "檀健次 给爸妈带好",
+        "onboard_time": 1706154632,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357451,
+        "num": 357451,
+        "word": "吴磊第一部现偶剧",
+        "onboard_time": 1706153550,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333396,
+        "num": 333396,
+        "word": "蔡磊说生病才知道有多少骗子",
+        "onboard_time": 1706155111,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319944,
+        "num": 319944,
+        "word": "姆巴佩决定离开巴黎",
+        "onboard_time": 1706152530,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1030362,
+        "num": 308010,
+        "word": "有夜尿与没有夜尿的人谁更健康",
+        "onboard_time": 1706156253,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 879502,
+        "num": 306723,
+        "word": "鸡蛋上最脏的东西可能被你吃了",
+        "onboard_time": 1706154332,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281002,
+        "num": 281002,
+        "word": "女子返乡火车上炫鸭脖啃出一座山",
+        "onboard_time": 1706153133,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279113,
+        "num": 279113,
+        "word": "胡锡进增持股票",
+        "onboard_time": 1706155712,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264614,
+        "num": 264614,
+        "word": "龚俊公司被起诉",
+        "onboard_time": 1706153851,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253900,
+        "num": 253900,
+        "word": "日本今年将排放5万余吨核污染水",
+        "onboard_time": 1706151029,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238377,
+        "num": 238377,
+        "word": "新年美甲",
+        "onboard_time": 1706153791,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 237601,
+        "num": 237601,
+        "word": "江西新余火灾12名责任人被控制",
+        "onboard_time": 1706139566,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20689,
+        "num": 234648,
+        "word": "中山站建站35周年",
+        "onboard_time": 1706157030,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232353,
+        "num": 232353,
+        "word": "赌上厨师生涯炒饭外卖店根本没有厨师",
+        "onboard_time": 1706152710,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216844,
+        "num": 216844,
+        "word": "各大博物馆的结束语",
+        "onboard_time": 1706157030,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 209553,
+        "num": 209553,
+        "word": "韩国仁川新地标撞脸广州塔",
+        "onboard_time": 1706156193,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202794,
+        "num": 202794,
+        "word": "世界之外 AI图",
+        "onboard_time": 1706151686,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193601,
+        "num": 193601,
+        "word": "中字头10余股涨停",
+        "onboard_time": 1706155774,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192971,
+        "num": 192971,
+        "word": "王星越小孩哥变大舅哥",
+        "onboard_time": 1706155774,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191102,
+        "num": 191102,
+        "word": "2024KPL春季赛大名单",
+        "onboard_time": 1706156733,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189479,
+        "num": 189479,
+        "word": "虞书欣司机在高速倒车交警已介入",
+        "onboard_time": 1706157271,
+        "rank": 36,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 187195,
+        "num": 187195,
+        "word": "马未都初见苏童因为他太漂亮而惊讶",
+        "onboard_time": 1706156431,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 182363,
+        "num": 182363,
+        "word": "美甲 丑甲",
+        "onboard_time": 1706107534,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 4863,
+        "num": 182085,
+        "word": "我国高光谱综合观测卫星投入使用",
+        "onboard_time": 1706100514,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182078,
+        "num": 182078,
+        "word": "猫猫洗完脸一抬头发现被围观了",
+        "onboard_time": 1706155654,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170741,
+        "num": 170741,
+        "word": "女生腹泻后未在意5天后心脏停跳",
+        "onboard_time": 1706108254,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167769,
+        "num": 167769,
+        "word": "培训班有学生逃课买衣服避过火灾",
+        "onboard_time": 1706157335,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166376,
+        "num": 166376,
+        "word": "秦海璐拍的北斗七行",
+        "onboard_time": 1706151870,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166268,
+        "num": 166268,
+        "word": "男子性侵少女被判无罪后检察机关抗诉",
+        "onboard_time": 1706157335,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162676,
+        "num": 162676,
+        "word": "线上加班应支付劳动者加班费",
+        "onboard_time": 1706155411,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160870,
+        "num": 160870,
+        "word": "来自星尘",
+        "onboard_time": 1706156492,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159967,
+        "num": 159967,
+        "word": "胡塞武装发射导弹击中一艘美国军舰",
+        "onboard_time": 1706147370,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157375,
+        "num": 157375,
+        "word": "狐妖小红娘竹业篇预约破百万",
+        "onboard_time": 1706151570,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154379,
+        "num": 154379,
+        "word": "在暴雪时分定档",
+        "onboard_time": 1706149289,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决遏制各类安全事故多发连发势头#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706156550803,
+  "endTime": 1706157432375,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -267,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1600722,
+      "num": 1600722,
+      "word": "煮苹果水",
+      "onboard_time": 1706152771,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1583697,
       "num": 1583697,
       "word": "papi酱产后四个月去面试繁花",
@@ -465,14 +473,6 @@
       "onboard_time": 1705907365,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1280360,
-      "num": 1280360,
-      "word": "煮苹果水",
-      "onboard_time": 1706152771,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1278281,
@@ -755,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1030362,
+      "num": 354624,
+      "word": "有夜尿与没有夜尿的人谁更健康",
+      "onboard_time": 1706156253,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1029979,
       "num": 1013238,
       "word": "俞敏洪让董宇辉改认证",
@@ -873,6 +881,14 @@
       "onboard_time": 1705915165,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 948808,
+      "num": 948808,
+      "word": "99年女孩购买入住毛坯房父亲特意来看望",
+      "onboard_time": 1706154150,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948264,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1705914024,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 823532,
-      "num": 823532,
-      "word": "99年女孩购买入住毛坯房父亲特意来看望",
-      "onboard_time": 1706154150,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822805,
@@ -1881,14 +1889,6 @@
       "onboard_time": 1706070032,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 603920,
-      "num": 354624,
-      "word": "有夜尿与没有夜尿的人谁更健康",
-      "onboard_time": 1706156253,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 603511,
@@ -3347,6 +3347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 392893,
+      "num": 392893,
+      "word": "IU新歌 挂窗帘",
+      "onboard_time": 1706154932,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 392756,
       "num": 392756,
       "word": "上海下雪",
@@ -3715,14 +3723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353007,
-      "num": 353007,
-      "word": "IU新歌 挂窗帘",
-      "onboard_time": 1706154932,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 352672,
       "num": 352672,
       "word": "沈马",
@@ -3961,6 +3961,14 @@
       "onboard_time": 1705841369,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333396,
+      "num": 333396,
+      "word": "蔡磊说生病才知道有多少骗子",
+      "onboard_time": 1706155111,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333312,
@@ -4345,14 +4353,6 @@
       "onboard_time": 1706004629,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305301,
-      "num": 305301,
-      "word": "蔡磊说生病才知道有多少骗子",
-      "onboard_time": 1706155111,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303804,
@@ -6075,6 +6075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216844,
+      "num": 216844,
+      "word": "各大博物馆的结束语",
+      "onboard_time": 1706157030,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 216833,
       "num": 216833,
       "word": "回村后的萨摩耶 出淤泥而局部染",
@@ -6345,6 +6353,14 @@
       "onboard_time": 1706070932,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209553,
+      "num": 209553,
+      "word": "韩国仁川新地标撞脸广州塔",
+      "onboard_time": 1706156193,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 209536,
@@ -7147,6 +7163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192971,
+      "num": 196348,
+      "word": "王星越小孩哥变大舅哥",
+      "onboard_time": 1706155774,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192566,
       "num": 192566,
       "word": "中国中长期资金入市潜力大",
@@ -7179,20 +7203,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191431,
-      "num": 196348,
-      "word": "王星越小孩哥变大舅哥",
-      "onboard_time": 1706155774,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191129,
       "num": 191129,
       "word": "SEVENTEEN中文单曲",
       "onboard_time": 1706005408,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191102,
+      "num": 191102,
+      "word": "2024KPL春季赛大名单",
+      "onboard_time": 1706156733,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 190885,
@@ -7283,6 +7307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189479,
+      "num": 189479,
+      "word": "虞书欣司机在高速倒车交警已介入",
+      "onboard_time": 1706157271,
+      "rank": 36,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 189378,
       "num": 189378,
       "word": "刘雨昕连任山东春晚地屏质检员",
@@ -7345,6 +7377,14 @@
       "onboard_time": 1705899688,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187195,
+      "num": 187195,
+      "word": "马未都初见苏童因为他太漂亮而惊讶",
+      "onboard_time": 1706156431,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187066,
@@ -7593,6 +7633,14 @@
       "onboard_time": 1706016214,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182078,
+      "num": 182078,
+      "word": "猫猫洗完脸一抬头发现被围观了",
+      "onboard_time": 1706155654,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 182027,
@@ -8003,14 +8051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172731,
-      "num": 172731,
-      "word": "猫猫洗完脸一抬头发现被围观了",
-      "onboard_time": 1706155654,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172579,
       "num": 172579,
       "word": "安心结局",
@@ -8195,14 +8235,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 168897,
-      "num": 168897,
-      "word": "韩国仁川新地标撞脸广州塔",
-      "onboard_time": 1706156193,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 168895,
       "num": 168895,
       "word": "阴阳师龙年新春版本",
@@ -8283,6 +8315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167769,
+      "num": 167769,
+      "word": "培训班有学生逃课买衣服避过火灾",
+      "onboard_time": 1706157335,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167669,
       "num": 167669,
       "word": "祈今朝 双生禁忌骨科",
@@ -8353,6 +8393,14 @@
       "onboard_time": 1705894226,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166268,
+      "num": 166268,
+      "word": "男子性侵少女被判无罪后检察机关抗诉",
+      "onboard_time": 1706157335,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166082,
@@ -8563,14 +8611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162270,
-      "num": 162270,
-      "word": "马未都初见苏童因为他太漂亮而惊讶",
-      "onboard_time": 1706156431,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162087,
       "num": 162087,
       "word": "平顶山煤矿事故16人遇难",
@@ -8617,6 +8657,14 @@
       "onboard_time": 1705826785,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160870,
+      "num": 160870,
+      "word": "来自星尘",
+      "onboard_time": 1706156492,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 160835,
@@ -8921,14 +8969,6 @@
       "onboard_time": 1706082571,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154606,
-      "num": 154606,
-      "word": "来自星尘",
-      "onboard_time": 1706156492,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 154314,
@@ -12715,6 +12755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31351,
+      "num": 1259776,
+      "word": "农历龙年知识帖",
+      "onboard_time": 1706157151,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31165,
       "num": 31165,
       "word": "乌迪内斯2比3AC米兰",
@@ -12800,6 +12848,14 @@
       "word": "一场在地震中完成的紧急开颅手术",
       "onboard_time": 1706042535,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20689,
+      "num": 234648,
+      "word": "中山站建站35周年",
+      "onboard_time": 1706157030,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -12981,6 +13037,9 @@
     },
     {
       "word": "#习近平会见安提瓜和巴布达总理布朗#"
+    },
+    {
+      "word": "#坚决遏制各类安全事故多发连发势头#"
     }
   ]
 }
