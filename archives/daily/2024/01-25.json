@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706195979419,
+  "endTime": 1706196872697,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1247375,
+      "num": 1247375,
+      "word": "科学家警告小心北极僵尸病毒",
+      "onboard_time": 1706193813,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1220836,
       "num": 1220836,
       "word": "男子性侵少女被判无罪后检察机关抗诉",
@@ -243,14 +251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 989501,
-      "num": 989501,
-      "word": "科学家警告小心北极僵尸病毒",
-      "onboard_time": 1706193813,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 974970,
       "num": 974970,
       "word": "汪峰女儿 那英公司",
@@ -305,6 +305,14 @@
       "onboard_time": 1706154632,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902903,
+      "num": 902903,
+      "word": "祖国统一台湾当归",
+      "onboard_time": 1706194594,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 881560,
@@ -395,8 +403,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 760025,
-      "num": 338087,
+      "raw_hot": 775326,
+      "num": 775326,
       "word": "周星驰黑长直",
       "onboard_time": 1706194534,
       "rank": 11,
@@ -457,14 +465,6 @@
       "onboard_time": 1706174552,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659420,
-      "num": 659420,
-      "word": "祖国统一台湾当归",
-      "onboard_time": 1706194594,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 650842,
@@ -579,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556509,
+      "num": 330404,
+      "word": "肖战路透",
+      "onboard_time": 1706195374,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 554783,
       "num": 554783,
       "word": "宁艺卓自曝因ADHD压力很大",
@@ -593,6 +601,14 @@
       "onboard_time": 1706169152,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512585,
+      "num": 306014,
+      "word": "张婧仪路透",
+      "onboard_time": 1706194773,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 511687,
@@ -697,14 +713,6 @@
       "onboard_time": 1706107775,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 457500,
-      "num": 306014,
-      "word": "张婧仪路透",
-      "onboard_time": 1706194773,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 457380,
@@ -1019,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347176,
-      "num": 186626,
-      "word": "肖战路透",
-      "onboard_time": 1706195374,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 340365,
       "num": 295019,
       "word": "女子返乡火车上炫鸭脖啃出一座山",
@@ -1227,6 +1227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 286967,
+      "num": 186137,
+      "word": "免疫力低下的5个表现",
+      "onboard_time": 1706194892,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282088,
       "num": 267428,
       "word": "中石油涨停意味着什么",
@@ -1419,6 +1427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 236634,
+      "num": 236634,
+      "word": "华中农大回应举报导师的学生原学制不变",
+      "onboard_time": 1706196393,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236025,
       "num": 236025,
       "word": "宫颈癌知晓月",
@@ -1523,14 +1539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 224416,
-      "num": 186137,
-      "word": "免疫力低下的5个表现",
-      "onboard_time": 1706194892,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 223614,
       "num": 223614,
       "word": "你咋考上大学的",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1706159072,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 211151,
+      "num": 158325,
+      "word": "不要再把肉泡水里解冻了",
+      "onboard_time": 1706196572,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210844,
@@ -2099,12 +2115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173849,
+      "num": 150840,
+      "word": "蓝亦菲两次被父母抛弃",
+      "onboard_time": 1706196153,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173543,
       "num": 173543,
       "word": "邱小冬长大后是哈佛博士",
       "onboard_time": 1706163749,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173211,
+      "num": 153194,
+      "word": "多干一秒都是对我工资的不尊重",
+      "onboard_time": 1706196094,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 173107,
@@ -2387,6 +2419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148941,
+      "num": 148941,
+      "word": "蟹场里吃青蟹",
+      "onboard_time": 1706196212,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146753,
       "num": 146753,
       "word": "企鹅是如何上下楼梯的",
@@ -2531,6 +2571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135544,
+      "num": 135544,
+      "word": "梁思申好清醒一女的",
+      "onboard_time": 1706196633,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135125,
       "num": 135125,
       "word": "渐冻症",
@@ -2585,6 +2633,14 @@
       "onboard_time": 1706160387,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130867,
+      "num": 130867,
+      "word": "微软游戏部门裁员1900人",
+      "onboard_time": 1706196393,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 130541,
@@ -2747,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115852,
+      "num": 121891,
+      "word": "搞笑女其实是天生的",
+      "onboard_time": 1706195913,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115794,
       "num": 115794,
       "word": "澳门旅游局申请出战",
@@ -2801,14 +2865,6 @@
       "onboard_time": 1706177792,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109400,
-      "num": 121891,
-      "word": "搞笑女其实是天生的",
-      "onboard_time": 1706195913,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 106536,
