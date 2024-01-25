@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706174301923,
+  "endTime": 1706175285079,
   "band_list": [
     {
       "raw_hot": 7797604,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1940151,
+      "num": 1940151,
+      "word": "祖国统一台湾当归解放军始终以行动说话",
+      "onboard_time": 1706170892,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1923835,
       "num": 568983,
       "word": "火灾遇难学生遗体呈躺睡状态",
@@ -169,14 +177,6 @@
       "onboard_time": 1706020054,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1845867,
-      "num": 1845867,
-      "word": "祖国统一台湾当归解放军始终以行动说话",
-      "onboard_time": 1706170892,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1814184,
@@ -379,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1474568,
+      "num": 1474568,
+      "word": "奚梦瑶卖奢侈品包包10块一件",
+      "onboard_time": 1706172150,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1464904,
       "num": 1464904,
       "word": "C罗不满中国行主办方",
@@ -523,19 +531,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1279712,
-      "num": 1279712,
-      "word": "奚梦瑶卖奢侈品包包10块一件",
-      "onboard_time": 1706172150,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1278281,
       "num": 1278281,
       "word": "张黎 举报前已做好最坏打算",
       "onboard_time": 1706052745,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1268870,
+      "num": 1268870,
+      "word": "华中农大被查教授论文中18亿买猪饲料",
+      "onboard_time": 1706170831,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -585,14 +593,6 @@
       "onboard_time": 1705907186,
       "rank": 13,
       "category": "社会新闻,电影"
-    },
-    {
-      "raw_hot": 1225374,
-      "num": 1225374,
-      "word": "华中农大被查教授论文中18亿买猪饲料",
-      "onboard_time": 1706170831,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1220836,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1706161470,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 877461,
+      "num": 877461,
+      "word": "新加坡免签受益人王俊凯",
+      "onboard_time": 1706173829,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 872134,
@@ -2459,6 +2467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 527132,
+      "num": 527132,
+      "word": "新余火灾离世学生准备专升本2年半",
+      "onboard_time": 1706172092,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525774,
       "num": 525774,
       "word": "董宇辉称不会拉黑任何人",
@@ -2979,6 +2995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 454766,
+      "num": 454766,
+      "word": "于正说要好看得瘦到85斤",
+      "onboard_time": 1706169810,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454478,
       "num": 454478,
       "word": "G社拍的辛芷蕾",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1705928484,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452589,
-      "num": 452589,
-      "word": "于正说要好看得瘦到85斤",
-      "onboard_time": 1706169810,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 452588,
@@ -3129,6 +3145,14 @@
       "onboard_time": 1705932270,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 441999,
+      "num": 306977,
+      "word": "医生从听力减退小伙耳道拽出蘑菇",
+      "onboard_time": 1706173414,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440031,
@@ -3313,14 +3337,6 @@
       "onboard_time": 1705995629,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 418975,
-      "num": 306977,
-      "word": "医生从听力减退小伙耳道拽出蘑菇",
-      "onboard_time": 1706173414,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417709,
@@ -3651,14 +3667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389977,
-      "num": 389977,
-      "word": "新余火灾离世学生准备专升本2年半",
-      "onboard_time": 1706172092,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389418,
       "num": 389418,
       "word": "吃辣时流鼻涕 味觉性鼻炎",
@@ -3785,6 +3793,14 @@
       "onboard_time": 1706170653,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 379711,
+      "num": 379711,
+      "word": "男明星簪花造型",
+      "onboard_time": 1706172572,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379455,
@@ -4563,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319251,
+      "num": 319251,
+      "word": "新加坡偶遇了宋轶",
+      "onboard_time": 1706174493,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318166,
       "num": 318166,
       "word": "藏海传取景地",
@@ -4705,14 +4729,6 @@
       "onboard_time": 1705972829,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 307108,
-      "num": 307108,
-      "word": "男明星簪花造型",
-      "onboard_time": 1706172572,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306790,
@@ -4889,6 +4905,14 @@
       "onboard_time": 1705992686,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297197,
+      "num": 297197,
+      "word": "合肥火灾",
+      "onboard_time": 1706174552,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296466,
@@ -5097,14 +5121,6 @@
       "onboard_time": 1706018854,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 282539,
-      "num": 282539,
-      "word": "新加坡免签受益人王俊凯",
-      "onboard_time": 1706173829,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 282485,
@@ -5489,6 +5505,14 @@
       "onboard_time": 1706013271,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260277,
+      "num": 260277,
+      "word": "泡面 占卜",
+      "onboard_time": 1706174192,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 260225,
@@ -6172,7 +6196,7 @@
     },
     {
       "raw_hot": 229744,
-      "num": 170349,
+      "num": 207307,
       "word": "日本歌手Shiho感谢中国女孩",
       "onboard_time": 1706173294,
       "rank": 30,
@@ -6459,6 +6483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 220500,
+      "num": 220500,
+      "word": "曾之乔回应补办婚礼",
+      "onboard_time": 1706174433,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220261,
       "num": 220261,
       "word": "飞驰人生2剧组被e人统治了",
@@ -6675,6 +6707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213694,
+      "num": 213694,
+      "word": "薛之谦巡演官宣重庆站",
+      "onboard_time": 1706174854,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213360,
       "num": 213360,
       "word": "证监会副主席王建军采访",
@@ -6761,6 +6801,14 @@
       "onboard_time": 1705917806,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210945,
+      "num": 210945,
+      "word": "秦岚抱歉忽略了辛芷蕾",
+      "onboard_time": 1706174731,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 210909,
@@ -11091,6 +11139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131355,
+      "num": 131355,
+      "word": "雪落敦煌鸣沙山美如诗画",
+      "onboard_time": 1706174255,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131144,
       "num": 131144,
       "word": "蘑菇头表情包创始人称未收到钱",
@@ -11531,14 +11587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124599,
-      "num": 124599,
-      "word": "泡面 占卜",
-      "onboard_time": 1706174192,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 124364,
       "num": 124364,
       "word": "为什么衣服上的火锅味一直散不掉",
@@ -11785,14 +11833,6 @@
       "onboard_time": 1706022332,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119624,
-      "num": 119624,
-      "word": "雪落敦煌鸣沙山美如诗画",
-      "onboard_time": 1706174255,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 119523,
@@ -13571,20 +13611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30292,
+      "num": 1484873,
+      "word": "中山站建站35周年",
+      "onboard_time": 1706157030,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30255,
       "num": 332723,
       "word": "健康新年有新意",
       "onboard_time": 1706065229,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29990,
-      "num": 1484873,
-      "word": "中山站建站35周年",
-      "onboard_time": 1706157030,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29580,

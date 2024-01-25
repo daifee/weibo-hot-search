@@ -1,0 +1,410 @@
+{
+  "runTime": 1706175285079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940151,
+        "num": 1940151,
+        "word": "祖国统一台湾当归解放军始终以行动说话",
+        "onboard_time": 1706170892,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1474568,
+        "num": 1474568,
+        "word": "奚梦瑶卖奢侈品包包10块一件",
+        "onboard_time": 1706172150,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30292,
+        "num": 1361210,
+        "word": "中山站建站35周年",
+        "onboard_time": 1706157030,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340987,
+        "num": 1340987,
+        "word": "新加坡免签",
+        "onboard_time": 1706166154,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268870,
+        "num": 1268870,
+        "word": "华中农大被查教授论文中18亿买猪饲料",
+        "onboard_time": 1706170831,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877461,
+        "num": 877461,
+        "word": "新加坡免签受益人王俊凯",
+        "onboard_time": 1706173829,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 846989,
+        "num": 846989,
+        "word": "朴信惠产后复出",
+        "onboard_time": 1706169751,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734701,
+        "num": 734701,
+        "word": "男人花期真的很短",
+        "onboard_time": 1706168311,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 693566,
+        "num": 693566,
+        "word": "男生火场中给母亲发消息说出不去了",
+        "onboard_time": 1706160991,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531450,
+        "num": 531450,
+        "word": "张馨予低温烫伤",
+        "onboard_time": 1706171010,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531073,
+        "num": 531073,
+        "word": "鸡蛋上最脏的东西可能被你吃了",
+        "onboard_time": 1706154332,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 527132,
+        "num": 527132,
+        "word": "新余火灾离世学生准备专升本2年半",
+        "onboard_time": 1706172092,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468587,
+        "num": 468587,
+        "word": "迪丽热巴曾发私信鼓励辛芷蕾",
+        "onboard_time": 1706164472,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454766,
+        "num": 454766,
+        "word": "于正说要好看得瘦到85斤",
+        "onboard_time": 1706169810,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390568,
+        "num": 390568,
+        "word": "虞书欣司机倒车警方成立工作专班调查",
+        "onboard_time": 1706169152,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379711,
+        "num": 379711,
+        "word": "男明星簪花造型",
+        "onboard_time": 1706172572,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364663,
+        "num": 364663,
+        "word": "俞敏洪同意去蔡磊直播间卖货",
+        "onboard_time": 1706170653,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336569,
+        "num": 336569,
+        "word": "江西新余火灾有学生不幸遇难",
+        "onboard_time": 1706160031,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319251,
+        "num": 319251,
+        "word": "新加坡偶遇了宋轶",
+        "onboard_time": 1706174493,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297197,
+        "num": 297197,
+        "word": "合肥火灾",
+        "onboard_time": 1706174552,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441999,
+        "num": 296665,
+        "word": "医生从听力减退小伙耳道拽出蘑菇",
+        "onboard_time": 1706173414,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333886,
+        "num": 294393,
+        "word": "男子偷70斤香肠被抓时已全吃完",
+        "onboard_time": 1706171372,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289357,
+        "num": 289357,
+        "word": "走亲戚花了一千五买年货",
+        "onboard_time": 1706169990,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278965,
+        "num": 278965,
+        "word": "喝多了的迪丽热巴",
+        "onboard_time": 1706169031,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280365,
+        "num": 278296,
+        "word": "王安宇问姐夫有看花少吗",
+        "onboard_time": 1706166630,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260277,
+        "num": 260277,
+        "word": "泡面 占卜",
+        "onboard_time": 1706174192,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238369,
+        "num": 238369,
+        "word": "朴信惠啥时候结的婚",
+        "onboard_time": 1706172631,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224105,
+        "num": 224105,
+        "word": "有夜尿与没有夜尿的人谁更健康",
+        "onboard_time": 1706156253,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220500,
+        "num": 220500,
+        "word": "曾之乔回应补办婚礼",
+        "onboard_time": 1706174433,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213694,
+        "num": 213694,
+        "word": "薛之谦巡演官宣重庆站",
+        "onboard_time": 1706174854,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210945,
+        "num": 210945,
+        "word": "秦岚抱歉忽略了辛芷蕾",
+        "onboard_time": 1706174731,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 207307,
+        "word": "日本歌手Shiho感谢中国女孩",
+        "onboard_time": 1706173294,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182545,
+        "num": 182545,
+        "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
+        "onboard_time": 1706162912,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171861,
+        "num": 171861,
+        "word": "江西新余火灾",
+        "onboard_time": 1706160151,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171586,
+        "num": 171586,
+        "word": "仙剑甄嬛传",
+        "onboard_time": 1706170351,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162315,
+        "num": 162315,
+        "word": "哈尔滨回应打造羽绒服品牌建议",
+        "onboard_time": 1706173230,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147869,
+        "num": 147869,
+        "word": "为什么富人不爱遮挡窗户",
+        "onboard_time": 1706163450,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144927,
+        "num": 144927,
+        "word": "新余火灾救人者称浓烟吃不消",
+        "onboard_time": 1706173655,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144338,
+        "num": 144338,
+        "word": "小米跌出Q4中国智能手机市场前五",
+        "onboard_time": 1706168853,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142058,
+        "num": 142058,
+        "word": "50克金条打金或能省1万元",
+        "onboard_time": 1706170112,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 139549,
+        "word": "男子性侵少女被判无罪后检察机关抗诉",
+        "onboard_time": 1706157335,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "母亲回应儿子火场发消息后失联",
+        "onboard_time": 1706166571,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131355,
+        "num": 131355,
+        "word": "雪落敦煌鸣沙山美如诗画",
+        "onboard_time": 1706174255,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131130,
+        "num": 131130,
+        "word": "宁艺卓自曝因ADHD压力很大",
+        "onboard_time": 1706165370,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125846,
+        "num": 125846,
+        "word": "哈尔滨 NorthEast羽绒服",
+        "onboard_time": 1706172513,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123783,
+        "num": 123783,
+        "word": "虞书欣司机在高速上倒车",
+        "onboard_time": 1706144850,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122862,
+        "num": 122862,
+        "word": "培训班有学生逃课买衣服避过火灾",
+        "onboard_time": 1706157335,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119942,
+        "num": 119942,
+        "word": "gidle蓝发全明星阵容",
+        "onboard_time": 1706168971,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118137,
+        "num": 118137,
+        "word": "鹦鹉爱说脏话被罚和不会说的关一起",
+        "onboard_time": 1706172752,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112936,
+        "num": 112936,
+        "word": "花少播完了我该判给谁",
+        "onboard_time": 1706166211,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决遏制各类安全事故多发连发势头#"
+    }
+  }
+}
