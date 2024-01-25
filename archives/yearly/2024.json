@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706189636361,
+  "endTime": 1706192257887,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -505,6 +505,14 @@
       "onboard_time": 1704160655,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2755236,
+      "num": 588565,
+      "word": "于正 谢谢妹妹给热度",
+      "onboard_time": 1706190273,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 2719809,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704635614,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1498987,
-      "num": 1079735,
-      "word": "女子在公园被陌生男子连刺30多刀",
-      "onboard_time": 1704282334,
-      "rank": 3,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
