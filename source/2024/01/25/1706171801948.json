@@ -1,0 +1,410 @@
+{
+  "runTime": 1706171801948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5949015,
+        "num": 5949015,
+        "word": "新加坡免签",
+        "onboard_time": 1706166154,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1352588,
+        "num": 1352588,
+        "word": "朴信惠产后复出",
+        "onboard_time": 1706169751,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8842,
+        "num": 1153735,
+        "word": "中山站建站35周年",
+        "onboard_time": 1706157030,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081531,
+        "num": 1081531,
+        "word": "祖国统一台湾当归解放军始终以行动说话",
+        "onboard_time": 1706170892,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1050104,
+        "num": 1050104,
+        "word": "男生火场中给母亲发消息说出不去了",
+        "onboard_time": 1706160991,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797092,
+        "num": 797092,
+        "word": "迪丽热巴曾发私信鼓励辛芷蕾",
+        "onboard_time": 1706164472,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 795216,
+        "num": 795216,
+        "word": "男人花期真的很短",
+        "onboard_time": 1706168311,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596488,
+        "num": 596488,
+        "word": "鸡蛋上最脏的东西可能被你吃了",
+        "onboard_time": 1706154332,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 576681,
+        "num": 576681,
+        "word": "华中农大被查教授论文中18亿买猪饲料",
+        "onboard_time": 1706170831,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541184,
+        "num": 541184,
+        "word": "王安宇问姐夫有看花少吗",
+        "onboard_time": 1706166630,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472927,
+        "num": 472927,
+        "word": "张馨予低温烫伤",
+        "onboard_time": 1706171010,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463868,
+        "num": 463868,
+        "word": "虞书欣司机倒车警方成立工作专班调查",
+        "onboard_time": 1706169152,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401345,
+        "num": 401345,
+        "word": "江西新余火灾有学生不幸遇难",
+        "onboard_time": 1706160031,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382915,
+        "num": 382915,
+        "word": "喝多了的迪丽热巴",
+        "onboard_time": 1706169031,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691,
+        "num": 359372,
+        "word": "喝一滴酒都致癌吗",
+        "onboard_time": 1706150610,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344475,
+        "num": 344475,
+        "word": "于正说要好看得瘦到85斤",
+        "onboard_time": 1706169810,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312004,
+        "num": 312004,
+        "word": "仙剑甄嬛传",
+        "onboard_time": 1706170351,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296703,
+        "num": 296703,
+        "word": "俞敏洪同意去蔡磊直播间卖货",
+        "onboard_time": 1706170653,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280834,
+        "num": 280834,
+        "word": "母亲回应儿子火场发消息后失联",
+        "onboard_time": 1706166571,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16396,
+        "num": 278415,
+        "word": "商用车新能源化有多难",
+        "onboard_time": 1706169092,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 336394,
+        "num": 278414,
+        "word": "走亲戚花了一千五买年货",
+        "onboard_time": 1706169990,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278368,
+        "num": 278368,
+        "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
+        "onboard_time": 1706162912,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249797,
+        "num": 249797,
+        "word": "男子性侵少女被判无罪后检察机关抗诉",
+        "onboard_time": 1706157335,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230081,
+        "num": 230081,
+        "word": "有夜尿与没有夜尿的人谁更健康",
+        "onboard_time": 1706156253,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224231,
+        "num": 224231,
+        "word": "花少播完了我该判给谁",
+        "onboard_time": 1706166211,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218905,
+        "num": 218905,
+        "word": "男子偷70斤香肠被抓时已全吃完",
+        "onboard_time": 1706171372,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217597,
+        "num": 217597,
+        "word": "虞书欣司机在高速上倒车",
+        "onboard_time": 1706144850,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56138,
+        "num": 214827,
+        "word": "农历龙年知识帖",
+        "onboard_time": 1706157151,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213757,
+        "num": 213757,
+        "word": "外资1小时买入A股30亿",
+        "onboard_time": 1706163151,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203815,
+        "num": 203815,
+        "word": "MAC像个大疯子",
+        "onboard_time": 1706168433,
+        "rank": 29,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 189307,
+        "num": 189307,
+        "word": "江西火灾中的培训教室门仅容一人通过",
+        "onboard_time": 1706164530,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188795,
+        "num": 188795,
+        "word": "张兰 义播",
+        "onboard_time": 1706170532,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186478,
+        "num": 186478,
+        "word": "宁艺卓自曝因ADHD压力很大",
+        "onboard_time": 1706165370,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181192,
+        "num": 181192,
+        "word": "小米跌出Q4中国智能手机市场前五",
+        "onboard_time": 1706168853,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180440,
+        "num": 180440,
+        "word": "50克金条打金或能省1万元",
+        "onboard_time": 1706170112,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 180010,
+        "num": 180010,
+        "word": "江西新余火灾",
+        "onboard_time": 1706160151,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175190,
+        "num": 175190,
+        "word": "新余火灾幸存学生讲述事发瞬间",
+        "onboard_time": 1706169931,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174679,
+        "num": 174679,
+        "word": "陈泽 我截屏了",
+        "onboard_time": 1706169571,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170388,
+        "num": 170388,
+        "word": "才发现年味是爸妈给的",
+        "onboard_time": 1706171372,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161941,
+        "num": 161941,
+        "word": "新加坡旅游攻略",
+        "onboard_time": 1706171491,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161188,
+        "num": 161188,
+        "word": "宝可梦回应",
+        "onboard_time": 1706168311,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158483,
+        "num": 158483,
+        "word": "千里寻椰产女",
+        "onboard_time": 1706167590,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151569,
+        "num": 151569,
+        "word": "培训班有学生逃课买衣服避过火灾",
+        "onboard_time": 1706157335,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149348,
+        "num": 149348,
+        "word": "学术站姐",
+        "onboard_time": 1706165912,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141851,
+        "num": 141851,
+        "word": "两00后为面子租iPhone后变成零元购",
+        "onboard_time": 1706164832,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141540,
+        "num": 141540,
+        "word": "他不急她不急我很急",
+        "onboard_time": 1706159970,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16916,
+        "num": 139730,
+        "word": "2024宝石老舅又不服了",
+        "onboard_time": 1706169631,
+        "rank": 46,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 139206,
+        "num": 139206,
+        "word": "为什么富人不爱遮挡窗户",
+        "onboard_time": 1706163450,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138925,
+        "num": 138925,
+        "word": "gidle蓝发全明星阵容",
+        "onboard_time": 1706168971,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 131009,
+        "word": "没弟的人不知道这句话的恐怖",
+        "onboard_time": 1706167891,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对江西新余市火灾事故作出重要指示#"
+    }
+  }
+}
