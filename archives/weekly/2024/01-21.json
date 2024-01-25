@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706179070747,
+  "endTime": 1706181342283,
   "band_list": [
     {
       "raw_hot": 7797604,
@@ -499,6 +499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1326545,
+      "num": 717830,
+      "word": "谢楠吴京 我们足够相爱",
+      "onboard_time": 1706176832,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1311597,
       "num": 1311597,
       "word": "苹果龙年手机壳被吐槽指蟒为龙",
@@ -601,14 +609,6 @@
       "onboard_time": 1705907186,
       "rank": 13,
       "category": "社会新闻,电影"
-    },
-    {
-      "raw_hot": 1221119,
-      "num": 696790,
-      "word": "谢楠吴京 我们足够相爱",
-      "onboard_time": 1706176832,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1220836,
@@ -955,12 +955,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 974970,
+      "num": 974970,
+      "word": "汪峰女儿 那英公司",
+      "onboard_time": 1706177912,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974259,
       "num": 974259,
       "word": "韩剧 中国白瓷",
       "onboard_time": 1706006011,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 972228,
+      "num": 972228,
+      "word": "爱情公寓3的发布会",
+      "onboard_time": 1706175991,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 969713,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1705837526,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926491,
+      "num": 926491,
+      "word": "中国冰淇淋在韩国爆火",
+      "onboard_time": 1706178994,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 924804,
@@ -1171,14 +1195,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 864098,
-      "num": 864098,
-      "word": "爱情公寓3的发布会",
-      "onboard_time": 1706175991,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 862172,
       "num": 862172,
       "word": "宁艺卓签售态度再惹争议",
@@ -1200,6 +1216,14 @@
       "word": "多地明确婚姻登记处除夕正常办公",
       "onboard_time": 1705800865,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856640,
+      "num": 856640,
+      "word": "新余火灾中培训班为临时加课",
+      "onboard_time": 1706178153,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1667,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 700543,
-      "num": 700543,
-      "word": "汪峰女儿 那英公司",
-      "onboard_time": 1706177912,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 700202,
       "num": 700202,
       "word": "麦当劳 我等吃不素之霸呢",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1706013691,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 689534,
-      "num": 689534,
-      "word": "新余火灾中培训班为临时加课",
-      "onboard_time": 1706178153,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687564,
@@ -2089,6 +2097,14 @@
       "onboard_time": 1705887683,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 599331,
+      "num": 599331,
+      "word": "女子称7万元做磨骨后火箭式衰老",
+      "onboard_time": 1706178331,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597202,
@@ -3075,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453805,
+      "num": 1956982,
+      "word": "这杯泼天的富贵我先干了",
+      "onboard_time": 1706176294,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 452588,
       "num": 452588,
       "word": "江西火灾中的培训教室门仅容一人通过",
@@ -3915,14 +3939,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 375242,
-      "num": 1956982,
-      "word": "这杯泼天的富贵我先干了",
-      "onboard_time": 1706176294,
-      "rank": 1,
-      "category": "美食"
-    },
-    {
       "raw_hot": 375116,
       "num": 375116,
       "word": "新疆余震1104次",
@@ -4033,6 +4049,14 @@
       "onboard_time": 1706106456,
       "rank": 30,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 362840,
+      "num": 362840,
+      "word": "轰动了整个阅卷组",
+      "onboard_time": 1706180193,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 360468,
@@ -5939,6 +5963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245665,
+      "num": 245665,
+      "word": "花少5一场盛大的be美学",
+      "onboard_time": 1706180729,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245503,
       "num": 245503,
       "word": "年轻人在家不能待超过3天的原因",
@@ -6395,6 +6427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 226936,
+      "num": 226936,
+      "word": "离世培训机构学生出租屋备着切好的菜",
+      "onboard_time": 1706180132,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226848,
       "num": 226848,
       "word": "曝中国足协或将很快重启选帅事宜",
@@ -6609,14 +6649,6 @@
       "onboard_time": 1705910248,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219210,
-      "num": 219210,
-      "word": "女子称7万元做磨骨后火箭式衰老",
-      "onboard_time": 1706178331,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219115,
@@ -7139,6 +7171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205443,
+      "num": 205443,
+      "word": "广东茶位费被北方人制裁了",
+      "onboard_time": 1706179350,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205097,
       "num": 205097,
       "word": "王者荣耀",
@@ -7281,14 +7321,6 @@
       "onboard_time": 1706154813,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202789,
-      "num": 202789,
-      "word": "中国冰淇淋在韩国爆火",
-      "onboard_time": 1706178994,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 202632,
@@ -8083,6 +8115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188224,
+      "num": 188224,
+      "word": "当亲戚问工资",
+      "onboard_time": 1706180370,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188065,
       "num": 188065,
       "word": "已经不习惯秦岚正常的声音了",
@@ -8433,6 +8473,14 @@
       "onboard_time": 1705821025,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181470,
+      "num": 973538,
+      "word": "小学生把期末奖状端上了饭桌",
+      "onboard_time": 1706180314,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181432,
@@ -8819,6 +8867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172812,
+      "num": 172812,
+      "word": "胡锡进入市以来第一次勇猛追涨实现满仓",
+      "onboard_time": 1706179171,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172787,
       "num": 172787,
       "word": "奶狗不叫姐心思肯定野",
@@ -8913,6 +8969,14 @@
       "onboard_time": 1705831649,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171040,
+      "num": 171040,
+      "word": "入职外企后真的很闲",
+      "onboard_time": 1706180793,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 171014,
@@ -11347,6 +11411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130541,
+      "num": 130541,
+      "word": "无期迷途死恋电台",
+      "onboard_time": 1706181032,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130506,
       "num": 130506,
       "word": "CBA全明星阵容公布",
@@ -11505,6 +11577,14 @@
       "onboard_time": 1705840769,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127997,
+      "num": 127997,
+      "word": "中国人结婚有多贵",
+      "onboard_time": 1706181331,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127825,
@@ -13547,6 +13627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54412,
+      "num": 932582,
+      "word": "厦门爷爷奶奶在湖边组乐队唱歌",
+      "onboard_time": 1706180550,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54013,
       "num": 54013,
       "word": "恋与深空 永远有哥哥罩着",
@@ -13745,6 +13833,14 @@
       "onboard_time": 1706128455,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33326,
+      "num": 342924,
+      "word": "元梦之星首个赛季更新",
+      "onboard_time": 1706180193,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 32771,
