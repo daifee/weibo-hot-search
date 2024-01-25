@@ -1,0 +1,410 @@
+{
+  "runTime": 1706168046886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6117554,
+        "num": 6117554,
+        "word": "新加坡免签",
+        "onboard_time": 1706166154,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480961,
+        "num": 1480961,
+        "word": "男生火场中给母亲发消息说出不去了",
+        "onboard_time": 1706160991,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53608,
+        "num": 1236534,
+        "word": "农历龙年知识帖",
+        "onboard_time": 1706157151,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060919,
+        "num": 1060919,
+        "word": "鸡蛋上最脏的东西可能被你吃了",
+        "onboard_time": 1706154332,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 942153,
+        "num": 942153,
+        "word": "迪丽热巴曾发私信鼓励辛芷蕾",
+        "onboard_time": 1706164472,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926635,
+        "num": 926635,
+        "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
+        "onboard_time": 1706162912,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621694,
+        "num": 621694,
+        "word": "外资1小时买入A股30亿",
+        "onboard_time": 1706163151,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 617380,
+        "num": 617380,
+        "word": "江西新余火灾有学生不幸遇难",
+        "onboard_time": 1706160031,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503628,
+        "num": 503628,
+        "word": "男子性侵少女被判无罪后检察机关抗诉",
+        "onboard_time": 1706157335,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491841,
+        "num": 491841,
+        "word": "母亲回应儿子火场发消息后失联",
+        "onboard_time": 1706166571,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556462,
+        "num": 490026,
+        "word": "辛芷蕾说了迪丽热巴什么",
+        "onboard_time": 1706161470,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465563,
+        "num": 465563,
+        "word": "宁艺卓自曝因ADHD压力很大",
+        "onboard_time": 1706165370,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415703,
+        "num": 415703,
+        "word": "虞书欣司机在高速上倒车",
+        "onboard_time": 1706144850,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404239,
+        "num": 404239,
+        "word": "王安宇问姐夫有看花少吗",
+        "onboard_time": 1706166630,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383652,
+        "num": 383652,
+        "word": "江西火灾中的培训教室门仅容一人通过",
+        "onboard_time": 1706164530,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353272,
+        "num": 353272,
+        "word": "高校拟聘教师公示备注亲属师生关系",
+        "onboard_time": 1706161951,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 348331,
+        "num": 348331,
+        "word": "花少播完了我该判给谁",
+        "onboard_time": 1706166211,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344559,
+        "num": 344559,
+        "word": "昆明动物园",
+        "onboard_time": 1706163330,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292203,
+        "num": 292203,
+        "word": "东北冻梨原来是道年夜菜",
+        "onboard_time": 1706166028,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275856,
+        "num": 275856,
+        "word": "胡先煦最嗑一璐平安",
+        "onboard_time": 1706165430,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316440,
+        "num": 268756,
+        "word": "央视龙年春晚预告",
+        "onboard_time": 1706166932,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368501,
+        "num": 266561,
+        "word": "有夜尿与没有夜尿的人谁更健康",
+        "onboard_time": 1706156253,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256114,
+        "num": 256114,
+        "word": "他不急她不急我很急",
+        "onboard_time": 1706159970,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250903,
+        "num": 250903,
+        "word": "两00后为面子租iPhone后变成零元购",
+        "onboard_time": 1706164832,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239389,
+        "num": 239389,
+        "word": "煮苹果水",
+        "onboard_time": 1706152771,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239351,
+        "num": 239351,
+        "word": "金莎男友给每个人做了一道家乡菜",
+        "onboard_time": 1706162010,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232228,
+        "num": 232228,
+        "word": "学术站姐",
+        "onboard_time": 1706165912,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225086,
+        "num": 225086,
+        "word": "为什么富人不爱遮挡窗户",
+        "onboard_time": 1706163450,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219445,
+        "num": 219445,
+        "word": "千里寻椰产女",
+        "onboard_time": 1706167590,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208092,
+        "num": 208092,
+        "word": "中石油股价涨停",
+        "onboard_time": 1706164951,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204325,
+        "num": 204325,
+        "word": "你咋考上大学的",
+        "onboard_time": 1706165252,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198849,
+        "num": 198849,
+        "word": "花少版燃冬",
+        "onboard_time": 1706162428,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193096,
+        "num": 193096,
+        "word": "韩国13岁出道女孩",
+        "onboard_time": 1706154632,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191574,
+        "num": 191574,
+        "word": "江西新余火灾",
+        "onboard_time": 1706160151,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184963,
+        "num": 184963,
+        "word": "KAKAO调查SM管理层",
+        "onboard_time": 1706165731,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184749,
+        "num": 184749,
+        "word": "宝可梦公司调查幻兽帕鲁",
+        "onboard_time": 1706158832,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183685,
+        "num": 183685,
+        "word": "A股超百股涨停",
+        "onboard_time": 1706167289,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175680,
+        "num": 175680,
+        "word": "沪指尾盘涨超3%",
+        "onboard_time": 1706167650,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173899,
+        "num": 173899,
+        "word": "蔡磊希望妻子为自己复仇",
+        "onboard_time": 1706159314,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156687,
+        "num": 156687,
+        "word": "培训班有学生逃课买衣服避过火灾",
+        "onboard_time": 1706157335,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154675,
+        "num": 154675,
+        "word": "吴磊赵今麦车窗吻",
+        "onboard_time": 1706153488,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154067,
+        "num": 154067,
+        "word": "赵昭仪漫画",
+        "onboard_time": 1706164412,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 146273,
+        "num": 146273,
+        "word": "东方甄选带货57亿营收28亿",
+        "onboard_time": 1706159612,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138137,
+        "num": 138137,
+        "word": "99年女孩购买入住毛坯房父亲特意来看望",
+        "onboard_time": 1706154150,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136437,
+        "num": 136437,
+        "word": "魏大勋魏晨张宥浩立麦",
+        "onboard_time": 1706164710,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121737,
+        "num": 121737,
+        "word": "如果妈妈问以后谁给你养老",
+        "onboard_time": 1706167468,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121018,
+        "num": 121018,
+        "word": "没弟的人不知道这句话的恐怖",
+        "onboard_time": 1706167891,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117999,
+        "num": 117999,
+        "word": "她上班的时候眼里有光",
+        "onboard_time": 1706160151,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114180,
+        "num": 114180,
+        "word": "中国电视剧年度盛典演员入戏时刻",
+        "onboard_time": 1706166452,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112918,
+        "num": 112918,
+        "word": "妈妈在棉花糖里",
+        "onboard_time": 1706167351,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决遏制各类安全事故多发连发势头#"
+    }
+  }
+}

@@ -1,20 +1,20 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706167049268,
+  "endTime": 1706168046886,
   "band_list": [
+    {
+      "raw_hot": 6117554,
+      "num": 6117554,
+      "word": "新加坡免签",
+      "onboard_time": 1706166154,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3120435,
       "num": 3120435,
       "word": "江西新余火灾事故新闻发布会",
       "onboard_time": 1706142329,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2548449,
-      "num": 2548449,
-      "word": "新加坡免签",
-      "onboard_time": 1706166154,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 942153,
+      "num": 942153,
+      "word": "迪丽热巴曾发私信鼓励辛芷蕾",
+      "onboard_time": 1706164472,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 919277,
       "num": 919277,
       "word": "韩国13岁出道女孩",
@@ -144,14 +152,6 @@
       "word": "辛芷蕾说了迪丽热巴什么",
       "onboard_time": 1706161470,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 879742,
-      "num": 879742,
-      "word": "迪丽热巴曾发私信鼓励辛芷蕾",
-      "onboard_time": 1706164472,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491841,
+      "num": 491841,
+      "word": "母亲回应儿子火场发消息后失联",
+      "onboard_time": 1706166571,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490669,
       "num": 490669,
       "word": "花少版燃冬",
@@ -451,6 +459,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 404239,
+      "num": 404239,
+      "word": "王安宇问姐夫有看花少吗",
+      "onboard_time": 1706166630,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394022,
       "num": 394022,
       "word": "姆巴佩决定离开巴黎",
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348331,
+      "num": 348331,
+      "word": "花少播完了我该判给谁",
+      "onboard_time": 1706166211,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340365,
       "num": 295019,
       "word": "女子返乡火车上炫鸭脖啃出一座山",
@@ -616,6 +640,14 @@
       "word": "胡先煦最嗑一璐平安",
       "onboard_time": 1706165430,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316440,
+      "num": 268756,
+      "word": "央视龙年春晚预告",
+      "onboard_time": 1706166932,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -691,14 +723,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 283537,
-      "num": 283537,
-      "word": "花少播完了我该判给谁",
-      "onboard_time": 1706166211,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276429,
       "num": 245308,
       "word": "妈妈不小心把我送她的耳环弄掉了",
@@ -739,14 +763,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 262943,
-      "num": 262943,
-      "word": "母亲回应儿子火场发消息后失联",
-      "onboard_time": 1706166571,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259514,
       "num": 259514,
       "word": "80后小哥送快递3年收入超140万",
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250903,
+      "num": 250903,
+      "word": "两00后为面子租iPhone后变成零元购",
+      "onboard_time": 1706164832,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250873,
       "num": 250873,
       "word": "新余火灾培训学生和住宿旅客受困",
@@ -785,14 +809,6 @@
       "onboard_time": 1706151686,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 247237,
-      "num": 247237,
-      "word": "两00后为面子租iPhone后变成零元购",
-      "onboard_time": 1706164832,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246079,
@@ -859,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232228,
+      "num": 232228,
+      "word": "学术站姐",
+      "onboard_time": 1706165912,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228596,
       "num": 228596,
       "word": "为什么富人不爱遮挡窗户",
@@ -891,14 +915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 224735,
-      "num": 219267,
-      "word": "王安宇问姐夫有看花少吗",
-      "onboard_time": 1706166630,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223614,
       "num": 223614,
       "word": "你咋考上大学的",
@@ -913,6 +929,14 @@
       "onboard_time": 1706144129,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219445,
+      "num": 219445,
+      "word": "千里寻椰产女",
+      "onboard_time": 1706167590,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 218687,
@@ -969,14 +993,6 @@
       "onboard_time": 1706156193,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 209226,
-      "num": 209226,
-      "word": "学术站姐",
-      "onboard_time": 1706165912,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 208333,
@@ -1195,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183685,
+      "num": 183685,
+      "word": "A股超百股涨停",
+      "onboard_time": 1706167289,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182078,
       "num": 182078,
       "word": "猫猫洗完脸一抬头发现被围观了",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1706139324,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175680,
+      "num": 175680,
+      "word": "沪指尾盘涨超3%",
+      "onboard_time": 1706167650,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 174880,
@@ -1339,6 +1371,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 154067,
+      "num": 154067,
+      "word": "赵昭仪漫画",
+      "onboard_time": 1706164412,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 153828,
       "num": 153828,
       "word": "京东养车回应途虎索赔",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1706139806,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 152930,
-      "num": 152930,
-      "word": "赵昭仪漫画",
-      "onboard_time": 1706164412,
-      "rank": 42,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 151868,
@@ -1515,6 +1547,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 121737,
+      "num": 121737,
+      "word": "如果妈妈问以后谁给你养老",
+      "onboard_time": 1706167468,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121018,
+      "num": 121018,
+      "word": "没弟的人不知道这句话的恐怖",
+      "onboard_time": 1706167891,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120390,
       "num": 120390,
       "word": "郑钦文张之臻冲击澳网决赛",
@@ -1563,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117587,
-      "num": 117587,
-      "word": "央视龙年春晚预告",
-      "onboard_time": 1706166932,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117446,
       "num": 117446,
       "word": "新国辩 真爱是不是谎言",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1706103754,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112918,
+      "num": 112918,
+      "word": "妈妈在棉花糖里",
+      "onboard_time": 1706167351,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 106536,

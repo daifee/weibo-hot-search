@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/25 15:17:29
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/25 15:34:06
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E8%A1%8C%E8%B4%BF300%E4%B8%87%E5%BD%93%E4%B8%8A%E5%9B%BD%E8%B6%B3%E4%B8%BB%E6%95%99%E7%BB%83%23" target="weibo">
 李铁行贿300万当上国足主教练（热度：6441845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%23" target="weibo">
+新加坡免签（热度：6117554）
 </a>
 </li>
 
@@ -437,12 +443,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%A2%9E%E6%B7%BB%E8%A2%AB%E6%9F%A5%23" target="weibo">
 苏增添被查（热度：2569909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%23" target="weibo">
-新加坡免签（热度：2548449）
 </a>
 </li>
 
