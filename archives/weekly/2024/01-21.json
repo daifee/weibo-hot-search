@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706139269440,
+  "endTime": 1706145528907,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -23,6 +23,14 @@
       "num": 3131026,
       "word": "新疆乌什县7.1级地震",
       "onboard_time": 1705948695,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3120435,
+      "num": 3120435,
+      "word": "江西新余火灾事故新闻发布会",
+      "onboard_time": 1706142329,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -297,6 +305,14 @@
       "onboard_time": 1706061211,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1486611,
+      "num": 1486611,
+      "word": "你单位宣布除夕放假了吗",
+      "onboard_time": 1706141851,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1464904,
@@ -1251,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 740926,
+      "num": 740926,
+      "word": "江西新余火灾12名责任人被控制",
+      "onboard_time": 1706139566,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738949,
       "num": 738949,
       "word": "龙年专属烫发",
@@ -1603,6 +1627,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 650842,
+      "num": 650842,
+      "word": "宁艺卓 多动症",
+      "onboard_time": 1706139266,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645369,
       "num": 645369,
       "word": "吴京的腿怎么了",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1706101116,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580407,
+      "num": 580407,
+      "word": "王菊回应被漂亮礼服尺码PUA言论",
+      "onboard_time": 1706143290,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 580381,
@@ -2185,6 +2225,14 @@
       "onboard_time": 1705837646,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524419,
+      "num": 524419,
+      "word": "虞书欣司机在高速上倒车",
+      "onboard_time": 1706144850,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 521680,
@@ -2649,6 +2697,14 @@
       "onboard_time": 1705800266,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 449503,
+      "num": 449503,
+      "word": "新余所有校外培训机构暂停培训活动",
+      "onboard_time": 1706144250,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449414,
@@ -3419,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358579,
+      "num": 248619,
+      "word": "边牧 我可能摸一下这位阿姨嘛",
+      "onboard_time": 1706141551,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358293,
       "num": 358293,
       "word": "与恶魔有约 鬼怪剧情",
@@ -3907,6 +3971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320453,
+      "num": 320453,
+      "word": "辛芷蕾胡先煦 好嗑",
+      "onboard_time": 1706140347,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319708,
       "num": 319708,
       "word": "假如遗传了父母双方的缺点",
@@ -4097,6 +4169,14 @@
       "onboard_time": 1706095411,
       "rank": 17,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 301186,
+      "num": 301186,
+      "word": "我国的朋友圈越来越大",
+      "onboard_time": 1706140828,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300951,
@@ -4499,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275873,
+      "num": 247463,
+      "word": "先婚后爱现实中存在吗",
+      "onboard_time": 1706140706,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275723,
       "num": 275723,
       "word": "杨超越演疯批小白花",
@@ -4521,6 +4609,14 @@
       "onboard_time": 1705928848,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 274061,
+      "num": 274061,
+      "word": "银行通报柜员喊客户滚处理结果",
+      "onboard_time": 1706139626,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273501,
@@ -4561,6 +4657,14 @@
       "onboard_time": 1705929808,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 271996,
+      "num": 271996,
+      "word": "蓝亦菲悲剧",
+      "onboard_time": 1706144609,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 270410,
@@ -4899,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250873,
+      "num": 250873,
+      "word": "新余火灾培训学生和住宿旅客受困",
+      "onboard_time": 1706142750,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250477,
       "num": 250477,
       "word": "焦虑症 口罩和塑料袋",
@@ -5041,6 +5153,14 @@
       "onboard_time": 1705989926,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245503,
+      "num": 245503,
+      "word": "年轻人在家不能待超过3天的原因",
+      "onboard_time": 1706143651,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 245386,
@@ -5699,6 +5819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214724,
+      "num": 189695,
+      "word": "苹果在华放下身段",
+      "onboard_time": 1706145151,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 214612,
       "num": 214612,
       "word": "国务院国资委强化A股投资者回报",
@@ -5761,6 +5889,14 @@
       "onboard_time": 1705835669,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212617,
+      "num": 212617,
+      "word": "药店老板的一个警觉拯救了一个家庭",
+      "onboard_time": 1706137943,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 212316,
@@ -6211,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201564,
+      "num": 201564,
+      "word": "这是宝宝存在过的痕迹",
+      "onboard_time": 1706140165,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201112,
       "num": 201112,
       "word": "哥斯拉大战金刚2内地定档",
@@ -6619,6 +6763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192860,
+      "num": 192860,
+      "word": "BABYMONSTER 复活",
+      "onboard_time": 1706145031,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192566,
       "num": 192566,
       "word": "中国中长期资金入市潜力大",
@@ -6915,6 +7067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184843,
+      "num": 184843,
+      "word": "花儿与少年",
+      "onboard_time": 1705988545,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184482,
       "num": 193395,
       "word": "资金增持高股息概念股",
@@ -6929,6 +7089,14 @@
       "onboard_time": 1705981468,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184241,
+      "num": 184241,
+      "word": "鸡蛋面又火了",
+      "onboard_time": 1706144129,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 184061,
@@ -7203,6 +7371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177636,
+      "num": 177636,
+      "word": "B站开屏 烟雾镜",
+      "onboard_time": 1706139324,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177550,
       "num": 177550,
       "word": "伽罗马超铠琥珀纪元皮肤",
@@ -7371,6 +7547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173107,
+      "num": 173107,
+      "word": "山西朋友给我邮寄的特产是大闸蟹",
+      "onboard_time": 1706143111,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 172899,
       "num": 172899,
       "word": "数码宝贝 把眼泪还回来",
@@ -7505,6 +7689,14 @@
       "onboard_time": 1705847189,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170420,
+      "num": 170420,
+      "word": "假装有百万粉丝去探店",
+      "onboard_time": 1706141192,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 170341,
@@ -8075,14 +8267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158318,
-      "num": 158318,
-      "word": "花儿与少年",
-      "onboard_time": 1705988545,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158216,
       "num": 158216,
       "word": "小天鹅藏在妈妈背上太萌了",
@@ -8299,6 +8483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153650,
+      "num": 153650,
+      "word": "东部战区回应美舰过航台湾海峡",
+      "onboard_time": 1706139806,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153567,
       "num": 153567,
       "word": "我国再次成功发射一箭五星",
@@ -8433,6 +8625,14 @@
       "onboard_time": 1706067390,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150881,
+      "num": 150881,
+      "word": "特斯拉四季度利润大跌40%",
+      "onboard_time": 1706142809,
+      "rank": 41,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 150838,
@@ -8665,6 +8865,14 @@
       "onboard_time": 1705912346,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146797,
+      "num": 146797,
+      "word": "病毒感染后警惕暴发性心肌炎",
+      "onboard_time": 1706143111,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146586,
@@ -8907,6 +9115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142438,
+      "num": 142438,
+      "word": "苹果将成为台积电2nm工艺首家客户",
+      "onboard_time": 1706138605,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142375,
       "num": 142375,
       "word": "持续推动社会综合融资成本稳中有降",
@@ -9059,6 +9275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139677,
+      "num": 139677,
+      "word": "江西全力投入新余特大火灾事故救援工作",
+      "onboard_time": 1706144969,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139671,
       "num": 139671,
       "word": "三款发簪盘发",
@@ -9105,6 +9329,14 @@
       "onboard_time": 1705895787,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139302,
+      "num": 139302,
+      "word": "现在做个蛋糕都这么高端了",
+      "onboard_time": 1706142449,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 138943,
@@ -9819,6 +10051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127635,
+      "num": 127635,
+      "word": "江西新余市长鞠躬致歉",
+      "onboard_time": 1706145509,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127610,
       "num": 127610,
       "word": "RNG战胜EDG",
@@ -10307,6 +10547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117964,
+      "num": 117964,
+      "word": "很多重要的事都挤在二十岁到三十岁",
+      "onboard_time": 1706139925,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117851,
       "num": 117851,
       "word": "iG开门红",
@@ -10457,6 +10705,14 @@
       "onboard_time": 1705880542,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114505,
+      "num": 114505,
+      "word": "为什么你那么容易生气",
+      "onboard_time": 1706138184,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 114427,
@@ -11107,14 +11363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96987,
-      "num": 84673,
-      "word": "苹果将成为台积电2nm工艺首家客户",
-      "onboard_time": 1706138605,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 96933,
       "num": 96933,
       "word": "小猫也爱盘点串",
@@ -11595,14 +11843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67235,
-      "num": 67235,
-      "word": "为什么你那么容易生气",
-      "onboard_time": 1706138184,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 66604,
       "num": 66604,
       "word": "秦岚说胡先煦是大油饼",
@@ -11819,14 +12059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48765,
-      "num": 48765,
-      "word": "药店老板的一个警觉拯救了一个家庭",
-      "onboard_time": 1706137943,
-      "rank": 43,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 48068,
       "num": 204885,
       "word": "祁煜人鱼脆弱期",
@@ -12011,6 +12243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22869,
+      "num": 908992,
+      "word": "我国高光谱综合观测卫星投入使用",
+      "onboard_time": 1706100514,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22544,
       "num": 140538,
       "word": "藏在中国探月海报里的彩蛋",
@@ -12057,14 +12297,6 @@
       "onboard_time": 1706131816,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 787223,
-      "word": "我国高光谱综合观测卫星投入使用",
-      "onboard_time": 1706100514,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16003,

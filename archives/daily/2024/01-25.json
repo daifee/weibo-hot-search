@@ -1,7 +1,23 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706139269440,
+  "endTime": 1706145528907,
   "band_list": [
+    {
+      "raw_hot": 3120435,
+      "num": 3120435,
+      "word": "江西新余火灾事故新闻发布会",
+      "onboard_time": 1706142329,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1486611,
+      "num": 1486611,
+      "word": "你单位宣布除夕放假了吗",
+      "onboard_time": 1706141851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1248136,
       "num": 1248136,
@@ -35,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740926,
+      "num": 740926,
+      "word": "江西新余火灾12名责任人被控制",
+      "onboard_time": 1706139566,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711264,
       "num": 711264,
       "word": "美甲 丑甲",
@@ -43,11 +67,35 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 650842,
+      "num": 650842,
+      "word": "宁艺卓 多动症",
+      "onboard_time": 1706139266,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592009,
       "num": 592009,
       "word": "张檬备孕失败",
       "onboard_time": 1706095589,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 580407,
+      "num": 580407,
+      "word": "王菊回应被漂亮礼服尺码PUA言论",
+      "onboard_time": 1706143290,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524419,
+      "num": 524419,
+      "word": "虞书欣司机在高速上倒车",
+      "onboard_time": 1706144850,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -91,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449503,
+      "num": 449503,
+      "word": "新余所有校外培训机构暂停培训活动",
+      "onboard_time": 1706144250,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430000,
       "num": 430000,
       "word": "C罗对直播带货网红蹭流量很生气",
@@ -107,12 +163,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358579,
+      "num": 248619,
+      "word": "边牧 我可能摸一下这位阿姨嘛",
+      "onboard_time": 1706141551,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352191,
       "num": 151586,
       "word": "江西 火灾",
       "onboard_time": 1706138184,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333480,
+      "num": 247888,
+      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
+      "onboard_time": 1706100275,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320453,
+      "num": 320453,
+      "word": "辛芷蕾胡先煦 好嗑",
+      "onboard_time": 1706140347,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 307948,
@@ -123,6 +203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 301186,
+      "num": 301186,
+      "word": "我国的朋友圈越来越大",
+      "onboard_time": 1706140828,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 298760,
       "num": 298760,
       "word": "游本昌回应一夜之间又红了",
@@ -131,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284520,
-      "num": 152592,
-      "word": "男子带9月孕妻爬山被亲妈语音轰炸",
-      "onboard_time": 1706100275,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 275873,
+      "num": 247463,
+      "word": "先婚后爱现实中存在吗",
+      "onboard_time": 1706140706,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 275074,
@@ -145,6 +233,22 @@
       "onboard_time": 1706092170,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274061,
+      "num": 274061,
+      "word": "银行通报柜员喊客户滚处理结果",
+      "onboard_time": 1706139626,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271996,
+      "num": 271996,
+      "word": "蓝亦菲悲剧",
+      "onboard_time": 1706144609,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 258345,
@@ -160,6 +264,14 @@
       "word": "父亲安慰剖腹产女儿心疼落泪",
       "onboard_time": 1706104596,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250873,
+      "num": 250873,
+      "word": "新余火灾培训学生和住宿旅客受困",
+      "onboard_time": 1706142750,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -179,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245503,
+      "num": 245503,
+      "word": "年轻人在家不能待超过3天的原因",
+      "onboard_time": 1706143651,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238375,
       "num": 238375,
       "word": "小伙景区买7颗珠子编手链被收1650",
@@ -193,6 +313,30 @@
       "onboard_time": 1706099793,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214724,
+      "num": 189695,
+      "word": "苹果在华放下身段",
+      "onboard_time": 1706145151,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 212617,
+      "num": 212617,
+      "word": "药店老板的一个警觉拯救了一个家庭",
+      "onboard_time": 1706137943,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 201564,
+      "num": 201564,
+      "word": "这是宝宝存在过的痕迹",
+      "onboard_time": 1706140165,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 198619,
@@ -211,12 +355,60 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 192860,
+      "num": 192860,
+      "word": "BABYMONSTER 复活",
+      "onboard_time": 1706145031,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184843,
+      "num": 184843,
+      "word": "花儿与少年",
+      "onboard_time": 1706138242,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184241,
+      "num": 184241,
+      "word": "鸡蛋面又火了",
+      "onboard_time": 1706144129,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181842,
       "num": 181842,
       "word": "江西新余火灾伤者比较年轻",
       "onboard_time": 1706108732,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177636,
+      "num": 177636,
+      "word": "B站开屏 烟雾镜",
+      "onboard_time": 1706139324,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 173107,
+      "num": 173107,
+      "word": "山西朋友给我邮寄的特产是大闸蟹",
+      "onboard_time": 1706143111,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 170420,
+      "num": 170420,
+      "word": "假装有百万粉丝去探店",
+      "onboard_time": 1706141192,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 165892,
@@ -227,12 +419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158318,
-      "num": 158318,
-      "word": "花儿与少年",
-      "onboard_time": 1706138242,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 162073,
+      "num": 162073,
+      "word": "在暴雪时分",
+      "onboard_time": 1706140528,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 156121,
@@ -243,12 +435,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153650,
+      "num": 153650,
+      "word": "东部战区回应美舰过航台湾海峡",
+      "onboard_time": 1706139806,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 150881,
+      "num": 150881,
+      "word": "特斯拉四季度利润大跌40%",
+      "onboard_time": 1706142809,
+      "rank": 41,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 146797,
+      "num": 146797,
+      "word": "病毒感染后警惕暴发性心肌炎",
+      "onboard_time": 1706143111,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142438,
+      "num": 142438,
+      "word": "苹果将成为台积电2nm工艺首家客户",
+      "onboard_time": 1706138605,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "知情人称江西火灾楼栋二楼没消防通道",
       "onboard_time": 1706104836,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139677,
+      "num": 139677,
+      "word": "江西全力投入新余特大火灾事故救援工作",
+      "onboard_time": 1706144969,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139302,
+      "num": 139302,
+      "word": "现在做个蛋糕都这么高端了",
+      "onboard_time": 1706142449,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 129886,
@@ -265,6 +505,14 @@
       "onboard_time": 1706105196,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127635,
+      "num": 127635,
+      "word": "江西新余市长鞠躬致歉",
+      "onboard_time": 1706145509,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124364,
@@ -299,6 +547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117964,
+      "num": 117964,
+      "word": "很多重要的事都挤在二十岁到三十岁",
+      "onboard_time": 1706139925,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114505,
+      "num": 114505,
+      "word": "为什么你那么容易生气",
+      "onboard_time": 1706138184,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114286,
       "num": 114286,
       "word": "女子被筷子毛刺扎伤治疗花费1万7",
@@ -329,14 +593,6 @@
       "onboard_time": 1706138003,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96987,
-      "num": 84673,
-      "word": "苹果将成为台积电2nm工艺首家客户",
-      "onboard_time": 1706138605,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 96759,
@@ -467,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67235,
-      "num": 67235,
-      "word": "为什么你那么容易生气",
-      "onboard_time": 1706138184,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 60993,
       "num": 71564,
       "word": "国家卫健委向江西派出国家级医疗专家",
@@ -521,14 +769,6 @@
       "onboard_time": 1706133074,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48765,
-      "num": 48765,
-      "word": "药店老板的一个警觉拯救了一个家庭",
-      "onboard_time": 1706137943,
-      "rank": 43,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 43516,
@@ -587,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22869,
+      "num": 908992,
+      "word": "我国高光谱综合观测卫星投入使用",
+      "onboard_time": 1706100514,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19598,
       "num": 19598,
       "word": "王祖蓝谈广西科目三火爆全球",
@@ -601,14 +849,6 @@
       "onboard_time": 1706131816,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 787223,
-      "word": "我国高光谱综合观测卫星投入使用",
-      "onboard_time": 1706100514,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15074,
