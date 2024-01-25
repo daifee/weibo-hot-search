@@ -1,6 +1,6 @@
 {
   "startTime": 1706113407637,
-  "endTime": 1706175285079,
+  "endTime": 1706177977240,
   "band_list": [
     {
       "raw_hot": 7797604,
@@ -9,6 +9,14 @@
       "onboard_time": 1706166154,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3479106,
+      "num": 3479106,
+      "word": "谢楠回应被劝离婚",
+      "onboard_time": 1706176892,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3120435,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1071730,
+      "num": 1071730,
+      "word": "新加坡免签受益人王俊凯",
+      "onboard_time": 1706173829,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1030362,
       "num": 355572,
       "word": "有夜尿与没有夜尿的人谁更健康",
@@ -195,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 877461,
-      "num": 877461,
-      "word": "新加坡免签受益人王俊凯",
-      "onboard_time": 1706173829,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 856187,
       "num": 856187,
       "word": "培训班有学生逃课买衣服避过火灾",
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 759237,
+      "num": 759237,
+      "word": "爱情公寓3的发布会",
+      "onboard_time": 1706175991,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 740926,
       "num": 740926,
       "word": "江西新余火灾12名责任人被控制",
@@ -272,6 +288,14 @@
       "word": "江西新余火灾",
       "onboard_time": 1706160151,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667625,
+      "num": 667625,
+      "word": "合肥火灾",
+      "onboard_time": 1706174552,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1706166630,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 632330,
+      "num": 632330,
+      "word": "谢楠吴京 我们足够相爱",
+      "onboard_time": 1706176832,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 592009,
@@ -339,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 572798,
+      "num": 572798,
+      "word": "新余火灾离世学生准备专升本2年半",
+      "onboard_time": 1706172092,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565278,
       "num": 565278,
       "word": "在暴雪时分定档",
@@ -353,14 +393,6 @@
       "onboard_time": 1706165370,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527132,
-      "num": 527132,
-      "word": "新余火灾离世学生准备专升本2年半",
-      "onboard_time": 1706172092,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522618,
@@ -443,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473786,
+      "num": 473786,
+      "word": "云南搜寻到9名失联人员均无生命体征",
+      "onboard_time": 1706176774,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460473,
       "num": 460473,
       "word": "车厘子价格降不动了",
@@ -508,7 +548,7 @@
     },
     {
       "raw_hot": 441999,
-      "num": 306977,
+      "num": 329014,
       "word": "医生从听力减退小伙耳道拽出蘑菇",
       "onboard_time": 1706173414,
       "rank": 20,
@@ -563,12 +603,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 415603,
+      "num": 415603,
+      "word": "男明星簪花造型",
+      "onboard_time": 1706172572,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404043,
       "num": 306865,
       "word": "男子偷70斤香肠被抓时已全吃完",
       "onboard_time": 1706171372,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395447,
+      "num": 395447,
+      "word": "新加坡偶遇了宋轶",
+      "onboard_time": 1706174493,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 394022,
@@ -625,14 +681,6 @@
       "onboard_time": 1706170653,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 379711,
-      "num": 379711,
-      "word": "男明星簪花造型",
-      "onboard_time": 1706172572,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371322,
@@ -771,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319251,
-      "num": 319251,
-      "word": "新加坡偶遇了宋轶",
-      "onboard_time": 1706174493,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 317272,
       "num": 317272,
       "word": "胡先煦最嗑一璐平安",
@@ -792,6 +832,14 @@
       "word": "央视龙年春晚预告",
       "onboard_time": 1706166932,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316284,
+      "num": 277733,
+      "word": "秦岚抱歉忽略了辛芷蕾",
+      "onboard_time": 1706174731,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -843,20 +891,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 300454,
+      "num": 300454,
+      "word": "解放军位台岛周边海空联合战备警巡",
+      "onboard_time": 1706175511,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 299430,
+      "num": 1409424,
+      "word": "这杯泼天的富贵我先干了",
+      "onboard_time": 1706176294,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 298760,
       "num": 298760,
       "word": "游本昌回应一夜之间又红了",
       "onboard_time": 1706099190,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297197,
-      "num": 297197,
-      "word": "合肥火灾",
-      "onboard_time": 1706174552,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296383,
@@ -1139,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217915,
+      "num": 217915,
+      "word": "39岁日本妈妈准备生第10胎",
+      "onboard_time": 1706177431,
+      "rank": 33,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 217611,
       "num": 217611,
       "word": "暧昧期容易上头的星座",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1706159072,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 210945,
-      "num": 210945,
-      "word": "秦岚抱歉忽略了辛芷蕾",
-      "onboard_time": 1706174731,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 209553,
@@ -1499,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178339,
+      "num": 1188287,
+      "word": "睿宝再现老爸乐宝经典动作",
+      "onboard_time": 1706176232,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 177636,
       "num": 177636,
       "word": "B站开屏 烟雾镜",
@@ -1593,6 +1657,14 @@
       "onboard_time": 1706108555,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165491,
+      "num": 165491,
+      "word": "LWX谈加入RNG的原因",
+      "onboard_time": 1706177492,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 163534,
@@ -1851,8 +1923,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133483,
+      "num": 133483,
+      "word": "WBG对战RA",
+      "onboard_time": 1706177072,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131355,
-      "num": 131355,
+      "num": 950896,
       "word": "雪落敦煌鸣沙山美如诗画",
       "onboard_time": 1706174255,
       "rank": 47,
@@ -1931,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119624,
+      "num": 119624,
+      "word": "为什么各科专家都劝你吃点苹果",
+      "onboard_time": 1706175692,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119303,
       "num": 119303,
       "word": "花少 飓风之后迎来金色朝霞",
@@ -1995,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114094,
+      "num": 114094,
+      "word": "汪峰女儿 那英公司",
+      "onboard_time": 1706177912,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113780,
       "num": 113780,
       "word": "商场公厕男女标志像猜谜",
@@ -2009,6 +2105,14 @@
       "onboard_time": 1706167351,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112315,
+      "num": 112315,
+      "word": "恋与深空",
+      "onboard_time": 1706177792,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106536,
@@ -2243,6 +2347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35747,
+      "num": 595629,
+      "word": "2024宝石老舅又不服了",
+      "onboard_time": 1706169631,
+      "rank": 47,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 33565,
       "num": 33565,
       "word": "江西新余火灾亲历者讲述逃生经历",
@@ -2257,14 +2369,6 @@
       "onboard_time": 1706157030,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28852,
-      "num": 139730,
-      "word": "2024宝石老舅又不服了",
-      "onboard_time": 1706169631,
-      "rank": 47,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 24808,

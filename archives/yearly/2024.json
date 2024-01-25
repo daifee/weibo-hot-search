@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706175285079,
+  "endTime": 1706177977240,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -345,6 +345,14 @@
       "onboard_time": 1704527733,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 3479106,
+      "num": 3479106,
+      "word": "谢楠回应被劝离婚",
+      "onboard_time": 1706176892,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3426448,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705582588,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1485559,
-      "num": 1485559,
-      "word": "王健林再卖一线城市万达广场",
-      "onboard_time": 1704244469,
-      "rank": 47,
-      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
