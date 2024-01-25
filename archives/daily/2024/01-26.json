@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706220904522,
+  "endTime": 1706222043090,
   "band_list": [
     {
       "raw_hot": 1622115,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195173,
+      "num": 195173,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173219,
       "num": 173219,
       "word": "微软游戏部门裁员1900人",
@@ -217,6 +225,14 @@
       "onboard_time": 1706196872,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146284,
+      "num": 146284,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144223,
@@ -331,19 +347,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 110169,
-      "num": 110169,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110057,
-      "num": 110057,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
+      "raw_hot": 110292,
+      "num": 110292,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1706178994,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 99953,
-      "num": 99953,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99815,
@@ -443,6 +443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64063,
+      "num": 64063,
+      "word": "女子强行试衣服扯破后拒赔",
+      "onboard_time": 1706217796,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63417,
+      "num": 63417,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57750,
       "num": 67334,
       "word": "蟹场里吃青蟹",
@@ -451,20 +467,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 48927,
-      "num": 34537,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45122,
-      "num": 22765,
-      "word": "女子强行试衣服扯破后拒赔",
-      "onboard_time": 1706217796,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 38685,
+      "num": 38685,
+      "word": "练练 韦春红离婚堪比医美",
+      "onboard_time": 1706218215,
+      "rank": 47,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 36655,
@@ -491,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34026,
+      "num": 34026,
+      "word": "部分应用借iPhone推送通知窃取用户数据",
+      "onboard_time": 1706219417,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 32576,
+      "num": 32576,
+      "word": "汪峰女儿 那英公司",
+      "onboard_time": 1706177912,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29337,
       "num": 28229,
       "word": "辛芷蕾把花少团说哭了",
@@ -507,22 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27435,
-      "num": 27435,
-      "word": "练练 韦春红离婚堪比医美",
-      "onboard_time": 1706218215,
-      "rank": 47,
-      "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 27256,
-      "num": 27256,
-      "word": "汪峰女儿 那英公司",
-      "onboard_time": 1706177912,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26179,
       "num": 26179,
       "word": "辛芷蕾笑着笑着就哭了",
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23330,
-      "num": 23330,
-      "word": "部分应用借iPhone推送通知窃取用户数据",
-      "onboard_time": 1706219417,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 20494,
+      "num": 20494,
+      "word": "山东在蒸馒头这块没输过",
+      "onboard_time": 1706220317,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 18264,
@@ -555,15 +563,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15199,
-      "num": 15199,
-      "word": "山东在蒸馒头这块没输过",
-      "onboard_time": 1706220317,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 9848,
+      "raw_hot": 10615,
       "num": 258246,
       "word": "2024春运出行指南",
       "onboard_time": 1706191655,
