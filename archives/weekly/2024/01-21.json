@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706160885427,
+  "endTime": 1706163831253,
   "band_list": [
     {
       "raw_hot": 7473338,
@@ -73,6 +73,14 @@
       "onboard_time": 1706016272,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2342836,
+      "num": 2342836,
+      "word": "江西新余火灾有学生不幸遇难",
+      "onboard_time": 1706160031,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2231974,
@@ -241,6 +249,14 @@
       "onboard_time": 1705909587,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1635510,
+      "num": 1635510,
+      "word": "鸡蛋上最脏的东西可能被你吃了",
+      "onboard_time": 1706154332,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1631346,
@@ -915,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 938111,
-      "num": 583432,
-      "word": "鸡蛋上最脏的东西可能被你吃了",
-      "onboard_time": 1706154332,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 937194,
       "num": 937194,
       "word": "官方通报大学生夜游网红火车站严重烧伤",
@@ -955,20 +963,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 915112,
-      "num": 915112,
-      "word": "江西新余火灾有学生不幸遇难",
-      "onboard_time": 1706160031,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 908558,
       "num": 908558,
       "word": "方媛综艺首秀",
       "onboard_time": 1705894886,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 907971,
+      "num": 907971,
+      "word": "男生火场中给母亲发消息说出不去了",
+      "onboard_time": 1706160991,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 906861,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1705921947,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 742704,
+      "num": 742704,
+      "word": "辛芷蕾说了迪丽热巴什么",
+      "onboard_time": 1706161470,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 741302,
@@ -3091,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422455,
+      "num": 422455,
+      "word": "花少版燃冬",
+      "onboard_time": 1706162428,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422103,
       "num": 422103,
       "word": "大龄二孩家庭",
@@ -3715,12 +3739,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359527,
+      "num": 359527,
+      "word": "东方甄选带货57亿营收28亿",
+      "onboard_time": 1706159612,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 359269,
       "num": 359269,
       "word": "桂林下雪",
       "onboard_time": 1705898253,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358984,
+      "num": 358984,
+      "word": "他不急她不急我很急",
+      "onboard_time": 1706159970,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 358690,
@@ -3857,6 +3897,14 @@
       "onboard_time": 1705802967,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349791,
+      "num": 280590,
+      "word": "顾客称少一只牛蛙老板拼碎骨自证清白",
+      "onboard_time": 1706162912,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349469,
@@ -4041,6 +4089,14 @@
       "onboard_time": 1705913246,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335516,
+      "num": 335516,
+      "word": "高校拟聘教师公示备注亲属师生关系",
+      "onboard_time": 1706161951,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 335009,
@@ -4315,14 +4371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318146,
-      "num": 318146,
-      "word": "东方甄选带货57亿营收28亿",
-      "onboard_time": 1706159612,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 317055,
       "num": 317055,
       "word": "书瑶 徕芬",
@@ -4545,6 +4593,14 @@
       "onboard_time": 1705973189,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299211,
+      "num": 299211,
+      "word": "金莎男友给每个人做了一道家乡菜",
+      "onboard_time": 1706162010,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 298851,
@@ -5315,6 +5371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252853,
+      "num": 252853,
+      "word": "外资1小时买入A股30亿",
+      "onboard_time": 1706163151,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 252804,
       "num": 252804,
       "word": "以老友记主演为灵感的穿搭",
@@ -5593,6 +5657,14 @@
       "onboard_time": 1705752025,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 243184,
+      "num": 243184,
+      "word": "京阿尼纵火案判处被告死刑",
+      "onboard_time": 1706160752,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242761,
@@ -6115,14 +6187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 219255,
-      "num": 219255,
-      "word": "他不急她不急我很急",
-      "onboard_time": 1706159970,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219115,
       "num": 193508,
       "word": "光夜 齐司礼神衹转世",
@@ -6289,6 +6353,14 @@
       "onboard_time": 1705851028,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214038,
+      "num": 214038,
+      "word": "两市上涨个股超4600只",
+      "onboard_time": 1706160870,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 213819,
@@ -6520,6 +6592,22 @@
       "word": "邓为直播带粉丝看雪",
       "onboard_time": 1705902927,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208417,
+      "num": 208417,
+      "word": "昆明动物园",
+      "onboard_time": 1706163330,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208333,
+      "num": 208333,
+      "word": "刘亦菲洛杉矶偶遇",
+      "onboard_time": 1706161110,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6881,14 +6969,6 @@
       "onboard_time": 1705846950,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200608,
-      "num": 200608,
-      "word": "京阿尼纵火案判处被告死刑",
-      "onboard_time": 1706160752,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200401,
@@ -8611,6 +8691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165294,
+      "num": 165294,
+      "word": "胡先煦告别花少plog",
+      "onboard_time": 1706163692,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165257,
       "num": 165257,
       "word": "接下来三周的工作计划安排",
@@ -8833,6 +8921,14 @@
       "onboard_time": 1705802484,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160419,
+      "num": 160419,
+      "word": "星穹铁道加拉赫",
+      "onboard_time": 1706163030,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 160044,
@@ -9635,6 +9731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144958,
+      "num": 144958,
+      "word": "为什么富人不爱遮挡窗户",
+      "onboard_time": 1706163450,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144908,
       "num": 144908,
       "word": "年糕是浙江省省饭吧",
@@ -10163,14 +10267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136713,
-      "num": 136713,
-      "word": "两市上涨个股超4600只",
-      "onboard_time": 1706160870,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 136640,
       "num": 136640,
       "word": "2014年已经是10年前了",
@@ -10433,6 +10529,14 @@
       "onboard_time": 1706105553,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132409,
+      "num": 132409,
+      "word": "库明加11中11",
+      "onboard_time": 1706163392,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132302,
@@ -10843,6 +10947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126606,
+      "num": 126606,
+      "word": "邱小冬长大后是哈佛博士",
+      "onboard_time": 1706163749,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126586,
       "num": 126586,
       "word": "MBC向Minji道歉",
@@ -10937,6 +11049,14 @@
       "onboard_time": 1706108133,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 124087,
+      "num": 124087,
+      "word": "道枝骏佑客串了许光汉电影",
+      "onboard_time": 1706163692,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 123989,
