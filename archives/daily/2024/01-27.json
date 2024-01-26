@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706303736813,
+  "endTime": 1706304838247,
   "band_list": [
     {
       "raw_hot": 1298306,
@@ -443,7 +443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45960,
+      "raw_hot": 50483,
       "num": 34968,
       "word": "科普作家称猴群大概率会和猫群起冲突",
       "onboard_time": 1706298674,
@@ -457,6 +457,14 @@
       "onboard_time": 1706289023,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39666,
+      "num": 29370,
+      "word": "黄帝内经提到的瘦身方法",
+      "onboard_time": 1706300057,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38535,
@@ -475,14 +483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33159,
-      "num": 29370,
-      "word": "黄帝内经提到的瘦身方法",
-      "onboard_time": 1706300057,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 30740,
       "num": 17469,
       "word": "女子患双相障碍盲目定下百万豪车",
@@ -497,6 +497,14 @@
       "onboard_time": 1706293576,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19786,
+      "num": 19786,
+      "word": "南非诉以色列种族灭绝案作出裁决",
+      "onboard_time": 1706302634,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 18392,
@@ -515,14 +523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14790,
-      "num": 14790,
-      "word": "南非诉以色列种族灭绝案作出裁决",
-      "onboard_time": 1706302634,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 14707,
       "num": 327454,
       "word": "何以中国向海泉州",
@@ -536,6 +536,14 @@
       "word": "祝狗剩快跑一璐平安",
       "onboard_time": 1706297838,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12383,
+      "num": 12383,
+      "word": "这辈子不要再说四川话是杨紫让加的",
+      "onboard_time": 1706304076,
+      "rank": 40,
       "category": "剧集"
     }
   ],
