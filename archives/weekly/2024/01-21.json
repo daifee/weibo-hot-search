@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706273143879,
+  "endTime": 1706275124362,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1443051,
-      "num": 988258,
+      "num": 1020495,
       "word": "专家建议别花几十万回乡盖房子",
       "onboard_time": 1706270790,
       "rank": 4,
@@ -1315,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947302,
+      "num": 947302,
+      "word": "大理地震",
+      "onboard_time": 1706273672,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942153,
       "num": 942153,
       "word": "迪丽热巴曾发私信鼓励辛芷蕾",
@@ -1643,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824644,
+      "num": 446192,
+      "word": "11岁男生多次遭班主任羞辱跳楼自杀",
+      "onboard_time": 1706273372,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822805,
       "num": 822805,
       "word": "沈腾马丽现身央视春晚第二次联排",
@@ -1867,6 +1883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 759826,
+      "num": 759826,
+      "word": "曝檀健次红前红后一个样",
+      "onboard_time": 1706271270,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758143,
       "num": 758143,
       "word": "papi酱 无法工作的理由",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1706188173,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 748097,
+      "num": 748097,
+      "word": "曝95后待爆男艺人要求删cp互动画面",
+      "onboard_time": 1706272410,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 747445,
@@ -2265,14 +2297,6 @@
       "onboard_time": 1706094032,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 664127,
-      "num": 664127,
-      "word": "曝檀健次红前红后一个样",
-      "onboard_time": 1706271270,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 661991,
@@ -2915,6 +2939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 561205,
+      "num": 519017,
+      "word": "王一博修改豆瓣简介",
+      "onboard_time": 1706270489,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559974,
       "num": 559974,
       "word": "金莎原以为观众会对孙丞潇很宽容",
@@ -3248,14 +3280,6 @@
       "word": "李念三胎产后复工状态",
       "onboard_time": 1706073271,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 519017,
-      "num": 519017,
-      "word": "王一博修改豆瓣简介",
-      "onboard_time": 1706270489,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -3761,6 +3785,14 @@
       "onboard_time": 1706265208,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458861,
+      "num": 458861,
+      "word": "杀害4岁女童的男孩正接受矫治教育",
+      "onboard_time": 1706273070,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457847,
@@ -4387,6 +4419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404304,
+      "num": 404304,
+      "word": "宋佳 老公是一种态度",
+      "onboard_time": 1706272169,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404043,
       "num": 306865,
       "word": "男子偷70斤香肠被抓时已全吃完",
@@ -4833,6 +4873,14 @@
       "onboard_time": 1706259813,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375478,
+      "num": 375478,
+      "word": "成毅直播",
+      "onboard_time": 1706273014,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 375438,
@@ -5483,14 +5531,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 328908,
-      "num": 328908,
-      "word": "曝95后待爆男艺人要求删cp互动画面",
-      "onboard_time": 1706272410,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328546,
       "num": 248309,
       "word": "专家建议冬季每周洗澡1到2次",
@@ -5528,6 +5568,14 @@
       "word": "美国房主新买二手房冰柜里有颗人头",
       "onboard_time": 1705851507,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326082,
+      "num": 326082,
+      "word": "新疆乌什县4.3级地震",
+      "onboard_time": 1706272651,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5931,14 +5979,6 @@
       "category": "游戏,音乐"
     },
     {
-      "raw_hot": 301435,
-      "num": 301435,
-      "word": "新疆乌什县4.3级地震",
-      "onboard_time": 1706272651,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301186,
       "num": 301186,
       "word": "我国的朋友圈越来越大",
@@ -6321,6 +6361,14 @@
       "onboard_time": 1705919426,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285395,
+      "num": 285395,
+      "word": "RNG阵容",
+      "onboard_time": 1706272949,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 285075,
@@ -6881,14 +6929,6 @@
       "onboard_time": 1706146950,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259320,
-      "num": 259320,
-      "word": "宋佳 老公是一种态度",
-      "onboard_time": 1706272169,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258164,
@@ -7673,6 +7713,14 @@
       "onboard_time": 1705893865,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231144,
+      "num": 231144,
+      "word": "澳网",
+      "onboard_time": 1705921109,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 230845,
@@ -8817,14 +8865,6 @@
       "onboard_time": 1706061810,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204848,
-      "num": 204848,
-      "word": "杀害4岁女童的男孩正接受矫治教育",
-      "onboard_time": 1706273070,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204807,
@@ -10179,6 +10219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184926,
+      "num": 184926,
+      "word": "女子烫头烫了个炸裂生肖龙头",
+      "onboard_time": 1706273128,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184843,
       "num": 184843,
       "word": "花儿与少年",
@@ -10481,14 +10529,6 @@
       "onboard_time": 1706272531,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180134,
-      "num": 180134,
-      "word": "RNG阵容",
-      "onboard_time": 1706272949,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 180121,
@@ -12051,6 +12091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156236,
+      "num": 156236,
+      "word": "张卫健 我没事精神得很",
+      "onboard_time": 1706274870,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156135,
       "num": 156135,
       "word": "大江大河是巨大的菀菀类卿",
@@ -12353,6 +12401,14 @@
       "onboard_time": 1706104235,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152299,
+      "num": 152299,
+      "word": "决战紫金丞之巅",
+      "onboard_time": 1706273491,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 152127,
@@ -12873,14 +12929,6 @@
       "onboard_time": 1705988904,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144823,
-      "num": 144823,
-      "word": "澳网",
-      "onboard_time": 1705921109,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 144808,
@@ -13505,14 +13553,6 @@
       "onboard_time": 1705980328,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136886,
-      "num": 136886,
-      "word": "成毅直播",
-      "onboard_time": 1706273014,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 136640,
@@ -14241,6 +14281,14 @@
       "onboard_time": 1705972228,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127475,
+      "num": 127475,
+      "word": "时代有冬西先导片",
+      "onboard_time": 1706274151,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127442,
@@ -15043,14 +15091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 115552,
-      "num": 115552,
-      "word": "女子烫头烫了个炸裂生肖龙头",
-      "onboard_time": 1706273128,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115501,
       "num": 115501,
       "word": "孩子有这4种情况应警惕并尽快就诊",
@@ -15531,6 +15571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "蒋翼归国白月光",
+      "onboard_time": 1706274870,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105748,
       "num": 105748,
       "word": "李金恣冬青奥夺金",
@@ -15651,6 +15699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102367,
+      "num": 102367,
+      "word": "每天一筐砂糖橘身体会发生这种变化",
+      "onboard_time": 1706275052,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102270,
       "num": 102270,
       "word": "用鸡蛋托做个龙年小手工",
@@ -15707,6 +15763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100732,
+      "num": 100732,
+      "word": "BLG对战RNG",
+      "onboard_time": 1706274992,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100643,
       "num": 100643,
       "word": "丫丫无敌炸裂米奇朵朵",
@@ -15761,6 +15825,14 @@
       "onboard_time": 1705754548,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99153,
+      "num": 99153,
+      "word": "王鹤棣新加坡到达路透",
+      "onboard_time": 1706275114,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 98824,
@@ -17059,20 +17131,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 15397,
+      "num": 1240265,
+      "word": "上百列复兴号震撼集结画面",
+      "onboard_time": 1706234010,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15074,
       "num": 16505,
       "word": "3种肠息肉易癌变",
       "onboard_time": 1706130794,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 14803,
-      "num": 1105040,
-      "word": "上百列复兴号震撼集结画面",
-      "onboard_time": 1706234010,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13800,
