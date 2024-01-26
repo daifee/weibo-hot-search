@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706283298909,
+  "endTime": 1706286085016,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -683,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1298306,
+      "num": 1298306,
+      "word": "警方回应黄圣依杨子表哥直播间带货风波",
+      "onboard_time": 1706280871,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1295061,
       "num": 1295061,
       "word": "银川烧烤店爆炸受害者本该有逃生机会",
@@ -995,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1091678,
-      "num": 1091678,
-      "word": "警方回应黄圣依杨子表哥直播间带货风波",
-      "onboard_time": 1706280871,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1090559,
       "num": 532512,
       "word": "英国的性教育",
@@ -1025,6 +1025,14 @@
       "onboard_time": 1706060610,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1083355,
+      "num": 1083355,
+      "word": "女子欲跳入猴山救猫被游客救下",
+      "onboard_time": 1706281173,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1078046,
@@ -1809,14 +1817,6 @@
       "onboard_time": 1705844848,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 799350,
-      "num": 799350,
-      "word": "女子欲跳入猴山救猫被游客救下",
-      "onboard_time": 1706281173,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796120,
@@ -4187,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432436,
+      "num": 432436,
+      "word": "美国佛州拟禁止16岁以下使用社交媒体",
+      "onboard_time": 1706282729,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 431839,
       "num": 431839,
       "word": "苹果在华放下身段",
@@ -5504,6 +5512,14 @@
       "word": "上海1号线",
       "onboard_time": 1706181690,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335986,
+      "num": 131324,
+      "word": "唐山捅人副所长被刑拘",
+      "onboard_time": 1706285129,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -6937,6 +6953,14 @@
       "onboard_time": 1705892786,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263224,
+      "num": 263224,
+      "word": "欧阳娜娜虞书欣为欧阳娣娣打call",
+      "onboard_time": 1706284951,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 263132,
@@ -8891,6 +8915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207177,
+      "num": 189158,
+      "word": "爸妈听说我除夕不放假时",
+      "onboard_time": 1706283271,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207098,
       "num": 207098,
       "word": "张兰 义播",
@@ -9209,6 +9241,14 @@
       "onboard_time": 1705900047,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202216,
+      "num": 202216,
+      "word": "唐山警方通报一男子当街捅人",
+      "onboard_time": 1706285129,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202100,
@@ -9849,6 +9889,14 @@
       "onboard_time": 1706100815,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193530,
+      "num": 188329,
+      "word": "张杰又发AI照了",
+      "onboard_time": 1706285069,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 193471,
@@ -13491,6 +13539,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 140610,
+      "num": 131318,
+      "word": "巴黎时装周 瓷娃娃秀场",
+      "onboard_time": 1706283451,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 140508,
       "num": 140508,
       "word": "TES 执着沙皇",
@@ -14425,14 +14481,6 @@
       "onboard_time": 1706005947,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128986,
-      "num": 128986,
-      "word": "美国佛州拟禁止16岁以下使用社交媒体",
-      "onboard_time": 1706282729,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 128912,
@@ -16020,7 +16068,7 @@
     },
     {
       "raw_hot": 101336,
-      "num": 934857,
+      "num": 1084161,
       "word": "第三批国家级夜间文旅消费集聚区",
       "onboard_time": 1706276311,
       "rank": 2,
@@ -16443,6 +16491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 87855,
+      "num": 87855,
+      "word": "洗澡对于广东人来说是解冻",
+      "onboard_time": 1706284650,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87265,
       "num": 87265,
       "word": "世界之外七日任务",
@@ -16507,6 +16563,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 83942,
+      "num": 83942,
+      "word": "善待动物组织关注幻兽帕鲁",
+      "onboard_time": 1706285550,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82280,
       "num": 82280,
       "word": "阿K零分",
@@ -16553,14 +16617,6 @@
       "onboard_time": 1705751369,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79195,
-      "num": 79195,
-      "word": "爸妈听说我除夕不放假时",
-      "onboard_time": 1706283271,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 78630,
@@ -16905,6 +16961,14 @@
       "onboard_time": 1705928249,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55545,
+      "num": 77934,
+      "word": "涉事公司回应黄圣依杨子带货风波",
+      "onboard_time": 1706283390,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 55364,
