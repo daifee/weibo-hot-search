@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706293252639,
+  "endTime": 1706294069387,
   "band_list": [
     {
       "raw_hot": 1298306,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67333,
+      "num": 67333,
+      "word": "有没有人在乎秦海璐的死活",
+      "onboard_time": 1706291901,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58278,
       "num": 58278,
       "word": "辛芷蕾 心有猛虎细嗅蔷薇",
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50368,
-      "num": 50368,
-      "word": "有没有人在乎秦海璐的死活",
-      "onboard_time": 1706291901,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42539,
       "num": 43774,
       "word": "古巨基周深帮宋亚轩追星",
       "onboard_time": 1706289023,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38535,
+      "num": 38535,
+      "word": "丽江市地震局回应当地居民称有震感",
+      "onboard_time": 1706292446,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36702,
@@ -459,15 +467,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33525,
-      "num": 33525,
-      "word": "丽江市地震局回应当地居民称有震感",
-      "onboard_time": 1706292446,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 27818,
+      "num": 27818,
+      "word": "我想和你唱5开播",
+      "onboard_time": 1706293576,
+      "rank": 39,
+      "category": "综艺"
     },
     {
-      "raw_hot": 14396,
+      "raw_hot": 14707,
       "num": 327454,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
