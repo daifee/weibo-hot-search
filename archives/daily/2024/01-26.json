@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706257238393,
+  "endTime": 1706258116099,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1819870,
+      "num": 1819870,
+      "word": "昆明动物园曾被曝猴子杀死2只猫",
+      "onboard_time": 1706255132,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1724614,
       "num": 1724614,
       "word": "徐娇喝到真茶了",
@@ -83,20 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1448793,
-      "num": 1448793,
-      "word": "昆明动物园曾被曝猴子杀死2只猫",
-      "onboard_time": 1706255132,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1391207,
       "num": 1391207,
       "word": "未定事件簿 古婚",
       "onboard_time": 1706238331,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1346572,
+      "num": 1346572,
+      "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+      "onboard_time": 1706256510,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1330010,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 841390,
+      "num": 517621,
+      "word": "人在冻死前为什么会脱衣服",
+      "onboard_time": 1706256871,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 810293,
       "num": 810293,
       "word": "丽江地震",
@@ -273,6 +289,14 @@
       "onboard_time": 1706188473,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688746,
+      "num": 688746,
+      "word": "张凌赫把中道崩殂打成中道崩阻",
+      "onboard_time": 1706255911,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 683895,
@@ -403,14 +427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 522611,
-      "num": 522611,
-      "word": "张凌赫把中道崩殂打成中道崩阻",
-      "onboard_time": 1706255911,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520798,
       "num": 520798,
       "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
@@ -425,14 +441,6 @@
       "onboard_time": 1706246192,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 496925,
-      "num": 496925,
-      "word": "湖北未满12岁男孩杀害4岁女童案撤案",
-      "onboard_time": 1706256510,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495117,
@@ -603,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375537,
-      "num": 191890,
-      "word": "人在冻死前为什么会脱衣服",
-      "onboard_time": 1706256871,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 371678,
       "num": 365291,
       "word": "你认为嫁妆属于女方个人财产吗",
@@ -739,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271410,
+      "num": 271410,
+      "word": "昆明动物园",
+      "onboard_time": 1706257471,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268283,
       "num": 268283,
       "word": "张卫健 天天跺脚",
@@ -753,6 +761,14 @@
       "onboard_time": 1706194892,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 260419,
+      "num": 260419,
+      "word": "千万不要生着气入睡",
+      "onboard_time": 1706255249,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 259818,
@@ -771,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253798,
-      "num": 253798,
-      "word": "千万不要生着气入睡",
-      "onboard_time": 1706255249,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253280,
       "num": 253280,
       "word": "于正说一次话得罪一个人",
@@ -793,6 +801,22 @@
       "onboard_time": 1706247753,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247283,
+      "num": 247283,
+      "word": "裸睡有3个好处",
+      "onboard_time": 1706256330,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247264,
+      "num": 247264,
+      "word": "阴阳师",
+      "onboard_time": 1706257351,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 244829,
@@ -915,12 +939,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220937,
-      "num": 220937,
+      "raw_hot": 222861,
+      "num": 222861,
       "word": "朱梓骁cos代号鸢左慈",
       "onboard_time": 1706255370,
       "rank": 23,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 220268,
+      "num": 192707,
+      "word": "未定事件簿 火树银花明月夜",
+      "onboard_time": 1706256510,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 219650,
@@ -1075,20 +1107,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192420,
-      "num": 192420,
-      "word": "裸睡有3个好处",
-      "onboard_time": 1706256330,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192349,
       "num": 192349,
       "word": "逆水寒",
       "onboard_time": 1706235988,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191148,
+      "num": 191148,
+      "word": "杨紫9岁至31岁荧幕变化",
+      "onboard_time": 1706256807,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190512,
@@ -1155,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184593,
+      "num": 184593,
+      "word": "王安宇每一顿揍都不是白挨的",
+      "onboard_time": 1706257289,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183995,
       "num": 183995,
       "word": "杜兆才被提起公诉",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1706250631,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175380,
+      "num": 175380,
+      "word": "刘彰与清华人大学生谈留学压力",
+      "onboard_time": 1706257771,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 174626,
@@ -1283,14 +1331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166838,
-      "num": 166838,
-      "word": "杨紫9岁至31岁荧幕变化",
-      "onboard_time": 1706256807,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 165985,
       "num": 165985,
       "word": "澳网男单半决赛中断",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1706239651,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165025,
-      "num": 165025,
-      "word": "未定事件簿 火树银花明月夜",
-      "onboard_time": 1706256510,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 163658,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1706201424,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160031,
+      "num": 160031,
+      "word": "幻兽帕鲁5天捞金15亿",
+      "onboard_time": 1706255070,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 160026,
@@ -1395,12 +1435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152569,
+      "num": 152569,
+      "word": "阴阳师龙年新春版本",
+      "onboard_time": 1706257951,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151766,
       "num": 151766,
       "word": "春运",
       "onboard_time": 1706239889,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151738,
+      "num": 151738,
+      "word": "怎么一直抽奶牛猫左脸",
+      "onboard_time": 1706257050,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 151678,
@@ -1427,6 +1483,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146685,
+      "num": 146685,
+      "word": "刘耀文新电影打戏",
+      "onboard_time": 1706257951,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144683,
       "num": 144683,
       "word": "头一回见年终要给老板发红包",
@@ -1441,14 +1505,6 @@
       "onboard_time": 1706189492,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144194,
-      "num": 144194,
-      "word": "幻兽帕鲁5天捞金15亿",
-      "onboard_time": 1706255070,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 143191,
@@ -1507,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136488,
+      "num": 136488,
+      "word": "迪丽热巴拍秦岚屁股",
+      "onboard_time": 1706254771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135711,
       "num": 135711,
       "word": "宝爸辞职做自媒体有多心酸",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1706226506,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133298,
-      "num": 133298,
-      "word": "迪丽热巴拍秦岚屁股",
-      "onboard_time": 1706254771,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 130841,
@@ -1571,6 +1627,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126217,
+      "num": 126217,
+      "word": "辣目洋子没惹任何人",
+      "onboard_time": 1706258070,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126174,
+      "num": 126174,
+      "word": "不能露腰不能拍腿古偶男主",
+      "onboard_time": 1706258070,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126145,
       "num": 126145,
       "word": "碰瓷爱国骗流量不是爱国是害国",
@@ -1587,12 +1659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125963,
-      "num": 125963,
-      "word": "怎么一直抽奶牛猫左脸",
-      "onboard_time": 1706257050,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 124577,
+      "num": 130518,
+      "word": "辛纳晋级澳网男单决赛",
+      "onboard_time": 1706254410,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 124530,
@@ -1649,14 +1721,6 @@
       "onboard_time": 1706173414,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118898,
-      "num": 118898,
-      "word": "辛纳晋级澳网男单决赛",
-      "onboard_time": 1706254410,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 118300,
@@ -1771,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94520,
+      "num": 1366185,
+      "word": "2024春运出站口泪目瞬间",
+      "onboard_time": 1706237969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90664,
       "num": 90664,
       "word": "部分应用借iPhone推送通知窃取用户数据",
@@ -1791,14 +1863,6 @@
       "num": 1876738,
       "word": "运20首飞成功11年",
       "onboard_time": 1706238209,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89091,
-      "num": 1321028,
-      "word": "2024春运出站口泪目瞬间",
-      "onboard_time": 1706237969,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1987,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28732,
+      "num": 428016,
+      "word": "被源二代安利过的特色年货",
+      "onboard_time": 1706256030,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28436,
       "num": 1080418,
       "word": "何以中国的文明密码",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1706213236,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12373,
-      "num": 428016,
-      "word": "被源二代安利过的特色年货",
-      "onboard_time": 1706256030,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706258116099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1819870,
+        "num": 1819870,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1613772,
+        "num": 1613772,
+        "word": "徐娇喝到真茶了",
+        "onboard_time": 1706250690,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94520,
+        "num": 1366185,
+        "word": "2024春运出站口泪目瞬间",
+        "onboard_time": 1706237969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346572,
+        "num": 1346572,
+        "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+        "onboard_time": 1706256510,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155042,
+        "num": 1155042,
+        "word": "重庆12秒不雅视频案雷政富出狱",
+        "onboard_time": 1706246314,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981739,
+        "num": 981739,
+        "word": "交警通报虞书欣司机高速倒车",
+        "onboard_time": 1706245294,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960549,
+        "num": 960549,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 688746,
+        "num": 688746,
+        "word": "张凌赫把中道崩殂打成中道崩阻",
+        "onboard_time": 1706255911,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567631,
+        "num": 567631,
+        "word": "专家称中国退休年龄全球偏低",
+        "onboard_time": 1706250031,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528743,
+        "num": 528743,
+        "word": "伊藤美诚无缘奥运单打",
+        "onboard_time": 1706255190,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841390,
+        "num": 517621,
+        "word": "人在冻死前为什么会脱衣服",
+        "onboard_time": 1706256871,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 482518,
+        "num": 482518,
+        "word": "猴子虐猫",
+        "onboard_time": 1706241390,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444562,
+        "num": 444562,
+        "word": "丽江地震",
+        "onboard_time": 1706252313,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397624,
+        "num": 397624,
+        "word": "洗剪吹为什么越来越贵",
+        "onboard_time": 1706248831,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 28732,
+        "num": 379910,
+        "word": "被源二代安利过的特色年货",
+        "onboard_time": 1706256030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368318,
+        "num": 368318,
+        "word": "汪峰工作室辟谣结婚",
+        "onboard_time": 1706254054,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343702,
+        "num": 343702,
+        "word": "曝95生当着媒体在室内抽烟",
+        "onboard_time": 1706243313,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339646,
+        "num": 339646,
+        "word": "2023媒体反感艺人TOP3",
+        "onboard_time": 1706242894,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330987,
+        "num": 330987,
+        "word": "微信优化存储空间",
+        "onboard_time": 1706251590,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 318214,
+        "num": 318214,
+        "word": "虞书欣工作室致歉",
+        "onboard_time": 1706249192,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307776,
+        "num": 307776,
+        "word": "迪丽热巴海南工作室申请注销",
+        "onboard_time": 1706253029,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271410,
+        "num": 271410,
+        "word": "昆明动物园",
+        "onboard_time": 1706257471,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263519,
+        "num": 263519,
+        "word": "大学生兼职两小时连吃五只鸡",
+        "onboard_time": 1706247930,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260419,
+        "num": 260419,
+        "word": "千万不要生着气入睡",
+        "onboard_time": 1706255249,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247283,
+        "num": 247283,
+        "word": "裸睡有3个好处",
+        "onboard_time": 1706256330,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247264,
+        "num": 247264,
+        "word": "阴阳师",
+        "onboard_time": 1706257351,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222861,
+        "num": 222861,
+        "word": "朱梓骁cos代号鸢左慈",
+        "onboard_time": 1706255370,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 222109,
+        "num": 222109,
+        "word": "新式神鲸汐千姬",
+        "onboard_time": 1706256510,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198714,
+        "num": 198714,
+        "word": "结婚为什么需要这么多被子",
+        "onboard_time": 1706243133,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193576,
+        "num": 193576,
+        "word": "陈楚生 请和我一起续写我们的故事",
+        "onboard_time": 1706255791,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220268,
+        "num": 192707,
+        "word": "未定事件簿 火树银花明月夜",
+        "onboard_time": 1706256510,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191148,
+        "num": 191148,
+        "word": "杨紫9岁至31岁荧幕变化",
+        "onboard_time": 1706256807,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190471,
+        "num": 190471,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184593,
+        "num": 184593,
+        "word": "王安宇每一顿揍都不是白挨的",
+        "onboard_time": 1706257289,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179034,
+        "num": 179034,
+        "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+        "onboard_time": 1706245592,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175380,
+        "num": 175380,
+        "word": "刘彰与清华人大学生谈留学压力",
+        "onboard_time": 1706257771,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167968,
+        "num": 167968,
+        "word": "专家称农村大量房子只造不住",
+        "onboard_time": 1706245893,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160031,
+        "num": 160031,
+        "word": "幻兽帕鲁5天捞金15亿",
+        "onboard_time": 1706255070,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154914,
+        "num": 154914,
+        "word": "德约科维奇淘汰",
+        "onboard_time": 1706253749,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152569,
+        "num": 152569,
+        "word": "阴阳师龙年新春版本",
+        "onboard_time": 1706257951,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151738,
+        "num": 151738,
+        "word": "怎么一直抽奶牛猫左脸",
+        "onboard_time": 1706257050,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146685,
+        "num": 146685,
+        "word": "刘耀文新电影打戏",
+        "onboard_time": 1706257951,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136488,
+        "num": 136488,
+        "word": "迪丽热巴拍秦岚屁股",
+        "onboard_time": 1706254771,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135932,
+        "num": 135932,
+        "word": "许闯晒肖战封面",
+        "onboard_time": 1706252610,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133959,
+        "num": 133959,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132041,
+        "num": 132041,
+        "word": "于正回应",
+        "onboard_time": 1706242954,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124577,
+        "num": 130518,
+        "word": "辛纳晋级澳网男单决赛",
+        "onboard_time": 1706254410,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130480,
+        "num": 130480,
+        "word": "陈建斌回应网友二创甄嬛传",
+        "onboard_time": 1706243075,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126217,
+        "num": 126217,
+        "word": "辣目洋子没惹任何人",
+        "onboard_time": 1706258070,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126174,
+        "num": 126174,
+        "word": "不能露腰不能拍腿古偶男主",
+        "onboard_time": 1706258070,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神是什么#"
+    }
+  }
+}

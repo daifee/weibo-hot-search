@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706257238393,
+  "endTime": 1706258116099,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1523,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1819870,
+      "num": 1819870,
+      "word": "昆明动物园曾被曝猴子杀死2只猫",
+      "onboard_time": 1706255132,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1818197,
       "num": 1279754,
       "word": "于正再回应",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704078273,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1513830,
-      "num": 659582,
-      "word": "陈泽 一个亿",
-      "onboard_time": 1705016965,
-      "rank": 10,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
