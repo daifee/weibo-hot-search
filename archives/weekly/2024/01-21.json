@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706240083985,
+  "endTime": 1706242920226,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -345,6 +345,14 @@
       "onboard_time": 1705794679,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1630457,
+      "num": 1630457,
+      "word": "昆明动物园通报猴猫共处",
+      "onboard_time": 1706238331,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1617445,
@@ -897,6 +905,14 @@
       "onboard_time": 1705836807,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1075069,
+      "num": 1075069,
+      "word": "猴子虐猫",
+      "onboard_time": 1706241390,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075000,
@@ -1563,6 +1579,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 796120,
+      "num": 796120,
+      "word": "落马女局长跑步机里藏价值666万黄金",
+      "onboard_time": 1706237189,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794414,
+      "num": 794414,
+      "word": "谁家大学生房间里有三室一厅啊",
+      "onboard_time": 1706240490,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 793785,
       "num": 793785,
       "word": "新疆拜城县发生4.8级地震",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1705819644,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 768525,
-      "num": 768525,
-      "word": "落马女局长跑步机里藏价值666万黄金",
-      "onboard_time": 1706237189,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 766339,
@@ -2755,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538112,
+      "num": 538112,
+      "word": "王安宇发文告别花少",
+      "onboard_time": 1706240132,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537417,
       "num": 211660,
       "word": "南京一商场被指贴旭日旗遭网友怒斥后撤下",
@@ -3353,14 +3385,6 @@
       "onboard_time": 1705897769,
       "rank": 33,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 463042,
-      "num": 463042,
-      "word": "昆明动物园通报猴猫共处",
-      "onboard_time": 1706238331,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462833,
@@ -4083,6 +4107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398972,
+      "num": 398972,
+      "word": "媒体评迪丽热巴可爱直率鲜活",
+      "onboard_time": 1706240614,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398797,
       "num": 352300,
       "word": "真正摧毁肾的4个行为",
@@ -4315,6 +4347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 381210,
+      "num": 381210,
+      "word": "小动物保护协会已联系昆明动物园",
+      "onboard_time": 1706239713,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380700,
       "num": 380700,
       "word": "C罗中国行主办方全套退款",
@@ -4417,6 +4457,14 @@
       "onboard_time": 1705886307,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 371678,
+      "num": 310993,
+      "word": "你认为嫁妆属于女方个人财产吗",
+      "onboard_time": 1706239412,
+      "rank": 32,
+      "category": "社会议题"
     },
     {
       "raw_hot": 371322,
@@ -5067,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323522,
+      "num": 323522,
+      "word": "大张伟 贾仙女让我做首健身时打气的歌",
+      "onboard_time": 1706240614,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323395,
       "num": 323395,
       "word": "男子徒手接住6楼坠落男孩",
@@ -5473,6 +5529,14 @@
       "onboard_time": 1706076689,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299475,
+      "num": 299475,
+      "word": "英雄联盟手游",
+      "onboard_time": 1706242170,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 299323,
@@ -5963,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273926,
+      "num": 273926,
+      "word": "2023媒体反感艺人TOP3",
+      "onboard_time": 1706242894,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273501,
       "num": 238391,
       "word": "光夜 亚父陆沉",
@@ -6033,6 +6105,14 @@
       "onboard_time": 1706000550,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268283,
+      "num": 268283,
+      "word": "张卫健 天天跺脚",
+      "onboard_time": 1706240670,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 267975,
@@ -6763,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238191,
+      "num": 238191,
+      "word": "金莎原以为观众会对孙丞潇很宽容",
+      "onboard_time": 1706242594,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238120,
       "num": 238120,
       "word": "光夜 萧逸战损",
@@ -6800,6 +6888,14 @@
       "word": "方城起火宿舍疑为教室改建",
       "onboard_time": 1705892962,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235753,
+      "num": 235753,
+      "word": "江西新余大火遇难者亲友发声",
+      "onboard_time": 1706242289,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -7153,6 +7249,14 @@
       "onboard_time": 1705850427,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224578,
+      "num": 224578,
+      "word": "澳网决赛",
+      "onboard_time": 1706241332,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 223997,
@@ -7553,14 +7657,6 @@
       "onboard_time": 1706137943,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 212422,
-      "num": 212422,
-      "word": "小动物保护协会已联系昆明动物园",
-      "onboard_time": 1706239713,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212348,
@@ -8747,6 +8843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191965,
+      "num": 191965,
+      "word": "肖战GQ门牌号是生日",
+      "onboard_time": 1706241992,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191272,
       "num": 191272,
       "word": "澳网2024",
@@ -9555,14 +9659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175939,
-      "num": 175939,
-      "word": "你认为嫁妆属于女方个人财产吗",
-      "onboard_time": 1706239412,
-      "rank": 32,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 175794,
       "num": 175794,
       "word": "别再用冰箱自己冷冻水果了",
@@ -9777,6 +9873,14 @@
       "onboard_time": 1705893807,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 172870,
+      "num": 172870,
+      "word": "朱开谈Light与Gala区别",
+      "onboard_time": 1706241032,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 172838,
@@ -10169,6 +10273,14 @@
       "onboard_time": 1706059228,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167335,
+      "num": 167335,
+      "word": "杨紫热辣滚烫跳舞片段",
+      "onboard_time": 1706241931,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 167024,
@@ -10659,6 +10771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158665,
+      "num": 158665,
+      "word": "王安宇记录的北斗七行视频",
+      "onboard_time": 1706240310,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158553,
       "num": 158553,
       "word": "温州下雪",
@@ -10785,6 +10905,14 @@
       "onboard_time": 1706038936,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156936,
+      "num": 156936,
+      "word": "猫说当初也没告诉我是合租啊",
+      "onboard_time": 1706242232,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 156413,
@@ -12531,6 +12659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130841,
+      "num": 130841,
+      "word": "好有责任心的猫咪",
+      "onboard_time": 1706241752,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130812,
       "num": 129476,
       "word": "秦海璐秦岚辛芷蕾讨论纸尿裤",
@@ -12625,6 +12761,14 @@
       "onboard_time": 1705970008,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129617,
+      "num": 129617,
+      "word": "传音年终奖多发30%",
+      "onboard_time": 1706242832,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 129319,
@@ -14460,7 +14604,7 @@
     },
     {
       "raw_hot": 89950,
-      "num": 920607,
+      "num": 1099480,
       "word": "运20首飞成功11年",
       "onboard_time": 1706238209,
       "rank": 2,
@@ -15171,6 +15315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38126,
+      "num": 314965,
+      "word": "国宝顶峰相见",
+      "onboard_time": 1706241390,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35592,
       "num": 35592,
       "word": "恋与深空 祁煜cos",
@@ -15377,6 +15529,14 @@
       "onboard_time": 1705874413,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17837,
+      "num": 406013,
+      "word": "上蛋仔岛开启新赛季",
+      "onboard_time": 1706241634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 17457,

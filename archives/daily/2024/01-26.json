@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706240083985,
+  "endTime": 1706242920226,
   "band_list": [
     {
       "raw_hot": 2006838,
@@ -16,6 +16,14 @@
       "word": "女子遭研究生同学无视追讨礼金",
       "onboard_time": 1706231428,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1630457,
+      "num": 1630457,
+      "word": "昆明动物园通报猴猫共处",
+      "onboard_time": 1706238331,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075069,
+      "num": 1075069,
+      "word": "猴子虐猫",
+      "onboard_time": 1706241390,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025253,
       "num": 1025253,
       "word": "根管治疗或被一种化合物替代",
@@ -91,12 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 768525,
-      "num": 768525,
+      "raw_hot": 796120,
+      "num": 796120,
       "word": "落马女局长跑步机里藏价值666万黄金",
       "onboard_time": 1706237189,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794414,
+      "num": 794414,
+      "word": "谁家大学生房间里有三室一厅啊",
+      "onboard_time": 1706240490,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 750898,
@@ -203,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538112,
+      "num": 538112,
+      "word": "王安宇发文告别花少",
+      "onboard_time": 1706240132,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533297,
       "num": 533297,
       "word": "曹德旺一个月内投资90亿",
@@ -248,14 +280,6 @@
       "word": "丫丫脸蛋子嘟噜了",
       "onboard_time": 1706233588,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463042,
-      "num": 463042,
-      "word": "昆明动物园通报猴猫共处",
-      "onboard_time": 1706238331,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -323,12 +347,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 398972,
+      "num": 398972,
+      "word": "媒体评迪丽热巴可爱直率鲜活",
+      "onboard_time": 1706240614,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
       "onboard_time": 1706195374,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 381210,
+      "num": 381210,
+      "word": "小动物保护协会已联系昆明动物园",
+      "onboard_time": 1706239713,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371678,
+      "num": 310993,
+      "word": "你认为嫁妆属于女方个人财产吗",
+      "onboard_time": 1706239412,
+      "rank": 32,
+      "category": "社会议题"
     },
     {
       "raw_hot": 360635,
@@ -371,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323522,
+      "num": 323522,
+      "word": "大张伟 贾仙女让我做首健身时打气的歌",
+      "onboard_time": 1706240614,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309319,
       "num": 309319,
       "word": "汪峰方否认女儿将出道",
@@ -385,6 +441,14 @@
       "onboard_time": 1706175991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299475,
+      "num": 299475,
+      "word": "英雄联盟手游",
+      "onboard_time": 1706242170,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 291614,
@@ -409,6 +473,22 @@
       "onboard_time": 1706194773,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273926,
+      "num": 273926,
+      "word": "2023媒体反感艺人TOP3",
+      "onboard_time": 1706242894,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268283,
+      "num": 268283,
+      "word": "张卫健 天天跺脚",
+      "onboard_time": 1706240670,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 266177,
@@ -441,6 +521,22 @@
       "onboard_time": 1706199151,
       "rank": 17,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 238191,
+      "num": 238191,
+      "word": "金莎原以为观众会对孙丞潇很宽容",
+      "onboard_time": 1706242594,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235753,
+      "num": 235753,
+      "word": "江西新余大火遇难者亲友发声",
+      "onboard_time": 1706242289,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234721,
@@ -483,20 +579,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 224578,
+      "num": 224578,
+      "word": "澳网决赛",
+      "onboard_time": 1706241332,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219262,
       "num": 219262,
       "word": "泡温泉会感染HPV和妇科病吗",
       "onboard_time": 1706202084,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212422,
-      "num": 212422,
-      "word": "小动物保护协会已联系昆明动物园",
-      "onboard_time": 1706239713,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212348,
@@ -579,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191965,
+      "num": 191965,
+      "word": "肖战GQ门牌号是生日",
+      "onboard_time": 1706241992,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189285,
       "num": 189285,
       "word": "空间站视角看朝霞",
@@ -627,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175939,
-      "num": 175939,
-      "word": "你认为嫁妆属于女方个人财产吗",
-      "onboard_time": 1706239412,
-      "rank": 32,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 174626,
       "num": 174626,
       "word": "马斯克身价一夜减少180亿美元",
@@ -649,6 +745,14 @@
       "onboard_time": 1706196393,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172870,
+      "num": 172870,
+      "word": "朱开谈Light与Gala区别",
+      "onboard_time": 1706241032,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 172053,
@@ -681,6 +785,14 @@
       "onboard_time": 1706217796,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167335,
+      "num": 167335,
+      "word": "杨紫热辣滚烫跳舞片段",
+      "onboard_time": 1706241931,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 165465,
@@ -721,6 +833,22 @@
       "onboard_time": 1706234548,
       "rank": 30,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 158665,
+      "num": 158665,
+      "word": "王安宇记录的北斗七行视频",
+      "onboard_time": 1706240310,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156936,
+      "num": 156936,
+      "word": "猫说当初也没告诉我是合租啊",
+      "onboard_time": 1706242232,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 155882,
@@ -825,6 +953,22 @@
       "onboard_time": 1706226506,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130841,
+      "num": 130841,
+      "word": "好有责任心的猫咪",
+      "onboard_time": 1706241752,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129617,
+      "num": 129617,
+      "word": "传音年终奖多发30%",
+      "onboard_time": 1706242832,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 128419,
@@ -988,7 +1132,7 @@
     },
     {
       "raw_hot": 89950,
-      "num": 920607,
+      "num": 1099480,
       "word": "运20首飞成功11年",
       "onboard_time": 1706238209,
       "rank": 2,
@@ -1131,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 38126,
+      "num": 314965,
+      "word": "国宝顶峰相见",
+      "onboard_time": 1706241390,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36655,
       "num": 36655,
       "word": "弭金 吓到大家不好意思",
@@ -1176,6 +1328,14 @@
       "word": "世界之外 卡关",
       "onboard_time": 1706208738,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 17837,
+      "num": 406013,
+      "word": "上蛋仔岛开启新赛季",
+      "onboard_time": 1706241634,
+      "rank": 14,
       "category": "游戏"
     },
     {

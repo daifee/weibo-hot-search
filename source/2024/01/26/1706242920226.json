@@ -1,0 +1,410 @@
+{
+  "runTime": 1706242920226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1630457,
+        "num": 1630457,
+        "word": "昆明动物园通报猴猫共处",
+        "onboard_time": 1706238331,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364343,
+        "num": 1364343,
+        "word": "未定事件簿 古婚",
+        "onboard_time": 1706238331,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60632,
+        "num": 1099480,
+        "word": "运20首飞成功11年",
+        "onboard_time": 1706238209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075069,
+        "num": 1075069,
+        "word": "猴子虐猫",
+        "onboard_time": 1706241390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796120,
+        "num": 796120,
+        "word": "落马女局长跑步机里藏价值666万黄金",
+        "onboard_time": 1706237189,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794414,
+        "num": 794414,
+        "word": "谁家大学生房间里有三室一厅啊",
+        "onboard_time": 1706240490,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 724281,
+        "num": 724281,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 644151,
+        "num": 644151,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563986,
+        "num": 563986,
+        "word": "女子遭研究生同学无视追讨礼金",
+        "onboard_time": 1706231428,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559888,
+        "num": 559888,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 556160,
+        "num": 556160,
+        "word": "3元以下饮料仅剩10%",
+        "onboard_time": 1706231670,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538112,
+        "num": 538112,
+        "word": "王安宇发文告别花少",
+        "onboard_time": 1706240132,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442869,
+        "num": 442869,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468120,
+        "num": 439462,
+        "word": "辛芷蕾发了和花少团每个人的合照",
+        "onboard_time": 1706236050,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17837,
+        "num": 406013,
+        "word": "上蛋仔岛开启新赛季",
+        "onboard_time": 1706241634,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398972,
+        "num": 398972,
+        "word": "媒体评迪丽热巴可爱直率鲜活",
+        "onboard_time": 1706240614,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381210,
+        "num": 381210,
+        "word": "小动物保护协会已联系昆明动物园",
+        "onboard_time": 1706239713,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326870,
+        "num": 326870,
+        "word": "不要再把肉泡水里解冻了",
+        "onboard_time": 1706196572,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323522,
+        "num": 323522,
+        "word": "大张伟 贾仙女让我做首健身时打气的歌",
+        "onboard_time": 1706240614,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323424,
+        "num": 323424,
+        "word": "根管治疗或被一种化合物替代",
+        "onboard_time": 1706233287,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38126,
+        "num": 314965,
+        "word": "国宝顶峰相见",
+        "onboard_time": 1706241390,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399093,
+        "num": 311376,
+        "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
+        "onboard_time": 1706236349,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371678,
+        "num": 310993,
+        "word": "你认为嫁妆属于女方个人财产吗",
+        "onboard_time": 1706239412,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 307029,
+        "num": 307029,
+        "word": "眠狼",
+        "onboard_time": 1706236947,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 299475,
+        "num": 299475,
+        "word": "英雄联盟手游",
+        "onboard_time": 1706242170,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285438,
+        "num": 285438,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273926,
+        "num": 273926,
+        "word": "2023媒体反感艺人TOP3",
+        "onboard_time": 1706242894,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268283,
+        "num": 268283,
+        "word": "张卫健 天天跺脚",
+        "onboard_time": 1706240670,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258660,
+        "num": 258660,
+        "word": "热辣滚烫全员热辣舞",
+        "onboard_time": 1706237010,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254944,
+        "num": 254944,
+        "word": "世界之外没有数值策划",
+        "onboard_time": 1706238331,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250207,
+        "num": 250207,
+        "word": "村支书满脸通红被质疑上班醉酒",
+        "onboard_time": 1706235450,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250030,
+        "num": 250030,
+        "word": "肖战GQ封面预告",
+        "onboard_time": 1706235689,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239988,
+        "num": 239988,
+        "word": "俞敏洪回应为何留用孙东旭",
+        "onboard_time": 1706238929,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238191,
+        "num": 238191,
+        "word": "金莎原以为观众会对孙丞潇很宽容",
+        "onboard_time": 1706242594,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235753,
+        "num": 235753,
+        "word": "江西新余大火遇难者亲友发声",
+        "onboard_time": 1706242289,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229555,
+        "num": 229555,
+        "word": "祖国统一台湾当归",
+        "onboard_time": 1706194594,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224578,
+        "num": 224578,
+        "word": "澳网决赛",
+        "onboard_time": 1706241332,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220967,
+        "num": 220967,
+        "word": "蜘蛛夫人内地定档",
+        "onboard_time": 1706235927,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191965,
+        "num": 191965,
+        "word": "肖战GQ门牌号是生日",
+        "onboard_time": 1706241992,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181020,
+        "num": 181020,
+        "word": "徐娇 让人瘦到85是有多歹毒",
+        "onboard_time": 1706184993,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173594,
+        "num": 173594,
+        "word": "丫丫脸蛋子嘟噜了",
+        "onboard_time": 1706233588,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172870,
+        "num": 172870,
+        "word": "朱开谈Light与Gala区别",
+        "onboard_time": 1706241032,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172018,
+        "num": 172018,
+        "word": "迪丽热巴告别花少",
+        "onboard_time": 1706226867,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167335,
+        "num": 167335,
+        "word": "杨紫热辣滚烫跳舞片段",
+        "onboard_time": 1706241931,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158665,
+        "num": 158665,
+        "word": "王安宇记录的北斗七行视频",
+        "onboard_time": 1706240310,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156936,
+        "num": 156936,
+        "word": "猫说当初也没告诉我是合租啊",
+        "onboard_time": 1706242232,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144197,
+        "num": 144197,
+        "word": "苹果新增118个emoji",
+        "onboard_time": 1706227770,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130841,
+        "num": 130841,
+        "word": "好有责任心的猫咪",
+        "onboard_time": 1706241752,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "传音年终奖多发30%",
+        "onboard_time": 1706242832,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 129276,
+        "num": 129276,
+        "word": "普通人没必要掏耳屎",
+        "onboard_time": 1706225665,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神是什么#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706240083985,
+  "endTime": 1706242920226,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1987,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1630457,
+      "num": 1630457,
+      "word": "昆明动物园通报猴猫共处",
+      "onboard_time": 1706238331,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1626312,
       "num": 1626312,
       "word": "江苏发现1例罕见小P血型",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704851129,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1500914,
-      "num": 1500914,
-      "word": "田曦薇公主切",
-      "onboard_time": 1705131096,
-      "rank": 20,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
