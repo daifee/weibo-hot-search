@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706253318740,
+  "endTime": 1706254449874,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1720398,
-      "num": 938483,
+      "num": 1595721,
       "word": "徐娇喝到真茶了",
       "onboard_time": 1706250690,
       "rank": 23,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1000888,
+      "num": 1000888,
+      "word": "专家称中国退休年龄全球偏低",
+      "onboard_time": 1706250031,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 982189,
       "num": 982189,
       "word": "于正回应",
@@ -171,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898499,
-      "num": 898499,
+      "raw_hot": 913520,
+      "num": 913520,
       "word": "洗剪吹为什么越来越贵",
       "onboard_time": 1706248831,
       "rank": 14,
@@ -195,11 +203,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 807361,
-      "num": 807361,
-      "word": "专家称中国退休年龄全球偏低",
-      "onboard_time": 1706250031,
-      "rank": 44,
+      "raw_hot": 810293,
+      "num": 810293,
+      "word": "丽江地震",
+      "onboard_time": 1706252313,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484603,
-      "num": 484603,
-      "word": "丽江地震",
-      "onboard_time": 1706252313,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478624,
       "num": 478624,
       "word": "周星驰黑长直",
@@ -443,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475470,
+      "num": 475470,
+      "word": "微信优化存储空间",
+      "onboard_time": 1706251590,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 465980,
       "num": 465980,
       "word": "丫丫脸蛋子嘟噜了",
       "onboard_time": 1706233588,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463099,
-      "num": 463099,
-      "word": "微信优化存储空间",
-      "onboard_time": 1706251590,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 453577,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388280,
+      "num": 388280,
+      "word": "迪丽热巴海南工作室申请注销",
+      "onboard_time": 1706253029,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332171,
+      "num": 332171,
+      "word": "汪峰工作室辟谣结婚",
+      "onboard_time": 1706254054,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330969,
       "num": 330969,
       "word": "辛芷蕾选的照片是靠在胡先煦肩上",
@@ -625,6 +641,14 @@
       "onboard_time": 1706175991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297202,
+      "num": 297202,
+      "word": "德约科维奇淘汰",
+      "onboard_time": 1706253749,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 291614,
@@ -731,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241569,
-      "num": 241569,
-      "word": "迪丽热巴海南工作室申请注销",
-      "onboard_time": 1706253029,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238941,
       "num": 238941,
       "word": "俞敏洪回应董宇辉新号分流",
@@ -753,6 +769,14 @@
       "onboard_time": 1706238749,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234058,
+      "num": 234058,
+      "word": "窄门内的专升本学生与年少的打工者",
+      "onboard_time": 1706252851,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233003,
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183995,
+      "num": 183995,
+      "word": "杜兆才被提起公诉",
+      "onboard_time": 1706253870,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "丫丫的熊大衣又厚实了",
@@ -1067,8 +1099,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181558,
-      "num": 181558,
+      "raw_hot": 181671,
+      "num": 181671,
       "word": "原来我的性格是这样形成的",
       "onboard_time": 1706251531,
       "rank": 28,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1706230711,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 174332,
-      "num": 174332,
-      "word": "窄门内的专升本学生与年少的打工者",
-      "onboard_time": 1706252851,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173219,
@@ -1403,12 +1427,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127650,
+      "num": 127650,
+      "word": "明天的少年开播",
+      "onboard_time": 1706253812,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126902,
       "num": 108024,
       "word": "新加坡免签受益人王俊凯",
       "onboard_time": 1706173829,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126145,
+      "num": 126145,
+      "word": "碰瓷爱国骗流量不是爱国是害国",
+      "onboard_time": 1706253508,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126007,
+      "num": 126007,
+      "word": "新国辩 人最终会不会孤独",
+      "onboard_time": 1706253870,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 124530,
@@ -1457,6 +1505,14 @@
       "onboard_time": 1706173414,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118898,
+      "num": 118898,
+      "word": "辛纳晋级澳网男单决赛",
+      "onboard_time": 1706254410,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118300,
@@ -1603,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81185,
+      "num": 1089474,
+      "word": "2024春运出站口泪目瞬间",
+      "onboard_time": 1706237969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75962,
       "num": 118453,
       "word": "云南山体滑坡44人遇难",
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 70560,
-      "num": 291813,
+      "num": 303540,
       "word": "龙年开运买点啥",
       "onboard_time": 1706251951,
       "rank": 18,
@@ -1737,14 +1801,6 @@
       "onboard_time": 1706225426,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 47203,
-      "num": 1010764,
-      "word": "2024春运出站口泪目瞬间",
-      "onboard_time": 1706237969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44198,
