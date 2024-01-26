@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706278563202,
+  "endTime": 1706279629108,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -7956,7 +7956,7 @@
     },
     {
       "raw_hot": 820978,
-      "num": 338504,
+      "num": 341534,
       "word": "妈妈去世五年了发信息发现号没了",
       "onboard_time": 1706265450,
       "rank": 20,
@@ -11195,6 +11195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 670974,
+      "num": 670974,
+      "word": "被害女童父亲称未成年凶手年后正常上学",
+      "onboard_time": 1706276193,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670863,
       "num": 670863,
       "word": "刘宇宁回应阴阳剧本",
@@ -11385,6 +11393,14 @@
       "onboard_time": 1705131818,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662333,
+      "num": 519655,
+      "word": "黄圣依杨子表哥直播间带货引风波",
+      "onboard_time": 1706277993,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 662304,
@@ -11816,14 +11832,6 @@
       "word": "南阳学校火灾一对双胞胎中一人离世",
       "onboard_time": 1705735226,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648684,
-      "num": 648684,
-      "word": "被害女童父亲称未成年凶手年后正常上学",
-      "onboard_time": 1706276193,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -15995,6 +16003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520164,
+      "num": 520164,
+      "word": "ENHYPEN跳科目三",
+      "onboard_time": 1706277993,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 519897,
       "num": 519897,
       "word": "泰国女星夸赞王鹤棣很帅",
@@ -19915,14 +19931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428246,
-      "num": 428246,
-      "word": "ENHYPEN跳科目三",
-      "onboard_time": 1706277993,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 428049,
       "num": 246311,
       "word": "迪丽热巴成都",
@@ -22483,14 +22491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378929,
-      "num": 378929,
-      "word": "黄圣依杨子表哥直播间带货引风波",
-      "onboard_time": 1706277993,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378911,
       "num": 378911,
       "word": "一天喝几杯咖啡不会超量",
@@ -23153,6 +23153,14 @@
       "onboard_time": 1705664607,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 367200,
+      "num": 367200,
+      "word": "张卫健 我没事精神得很",
+      "onboard_time": 1706274870,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 367091,
@@ -26209,14 +26217,6 @@
       "onboard_time": 1706079329,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314757,
-      "num": 314757,
-      "word": "张卫健 我没事精神得很",
-      "onboard_time": 1706274870,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 314472,
@@ -29465,6 +29465,14 @@
       "onboard_time": 1705317571,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274242,
+      "num": 274242,
+      "word": "原来高铁也会堵车",
+      "onboard_time": 1706276193,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274178,
@@ -34099,14 +34107,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 231993,
-      "num": 231993,
-      "word": "原来高铁也会堵车",
-      "onboard_time": 1706276193,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231992,
       "num": 231992,
       "word": "练腿真的能瘦",
@@ -36307,6 +36307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218440,
+      "num": 218440,
+      "word": "祁煜变人鱼了",
+      "onboard_time": 1706278531,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218382,
       "num": 218382,
       "word": "史铁生的一生是震撼我的",
@@ -37577,6 +37585,14 @@
       "onboard_time": 1704547596,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210466,
+      "num": 210466,
+      "word": "宋亚轩一下岛就发微博了",
+      "onboard_time": 1706279313,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 210406,
@@ -39859,6 +39875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200982,
+      "num": 200982,
+      "word": "朴综星唱粤语歌",
+      "onboard_time": 1706278412,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200918,
       "num": 200918,
       "word": "拜登全年37%时间在度假胜地",
@@ -40161,6 +40185,14 @@
       "onboard_time": 1704688535,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199789,
+      "num": 199789,
+      "word": "Mac客服回应口红广告疑擦边",
+      "onboard_time": 1706278230,
+      "rank": 37,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 199698,
@@ -45553,6 +45585,14 @@
       "onboard_time": 1705728567,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180060,
+      "num": 180060,
+      "word": "周琦累了",
+      "onboard_time": 1706278595,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 180043,
@@ -53059,14 +53099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151985,
-      "num": 151985,
-      "word": "Mac客服回应口红广告疑擦边",
-      "onboard_time": 1706278230,
-      "rank": 37,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 151911,
       "num": 151911,
       "word": "周笔畅路过不小心带出了冠军",
@@ -55643,14 +55675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143066,
-      "num": 143066,
-      "word": "朴综星唱粤语歌",
-      "onboard_time": 1706278412,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143046,
       "num": 143046,
       "word": "普通话不好容易引起的误会",
@@ -55777,14 +55801,6 @@
       "onboard_time": 1705894646,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142555,
-      "num": 142555,
-      "word": "祁煜变人鱼了",
-      "onboard_time": 1706278531,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 142537,
@@ -58411,6 +58427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "BLG战胜RNG",
+      "onboard_time": 1706276072,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133659,
       "num": 133659,
       "word": "TTG公布新赛季教练组",
@@ -60611,6 +60635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126540,
+      "num": 126540,
+      "word": "胡先煦王安宇真冤种兄弟",
+      "onboard_time": 1706275710,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126531,
       "num": 121804,
       "word": "第一批滑雪的人已经滑不起雪了",
@@ -61505,14 +61537,6 @@
       "onboard_time": 1705567888,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123519,
-      "num": 123519,
-      "word": "胡先煦王安宇真冤种兄弟",
-      "onboard_time": 1706275710,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 123506,
@@ -65771,6 +65795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103260,
+      "num": 103260,
+      "word": "名侦探柯南 露营系列",
+      "onboard_time": 1706279612,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 103170,
       "num": 103170,
       "word": "老君山新年期间对属龙名龙游客免票",
@@ -66057,6 +66089,14 @@
       "onboard_time": 1704102642,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101336,
+      "num": 934857,
+      "word": "第三批国家级夜间文旅消费集聚区",
+      "onboard_time": 1706276311,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101230,
@@ -67729,14 +67769,6 @@
       "onboard_time": 1704835993,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 82645,
-      "num": 934857,
-      "word": "第三批国家级夜间文旅消费集聚区",
-      "onboard_time": 1706276311,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82503,

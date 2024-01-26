@@ -1,0 +1,410 @@
+{
+  "runTime": 1706279629108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1700532,
+        "num": 1700532,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066103,
+        "num": 1066103,
+        "word": "曝95后待爆男艺人要求删cp互动画面",
+        "onboard_time": 1706272410,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101336,
+        "num": 772605,
+        "word": "第三批国家级夜间文旅消费集聚区",
+        "onboard_time": 1706276311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766185,
+        "num": 766185,
+        "word": "MAC口红广告疑擦边惹争议",
+        "onboard_time": 1706275353,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724597,
+        "num": 724597,
+        "word": "大理地震",
+        "onboard_time": 1706273672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670974,
+        "num": 670974,
+        "word": "被害女童父亲称未成年凶手年后正常上学",
+        "onboard_time": 1706276193,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669727,
+        "num": 669727,
+        "word": "许诺退役",
+        "onboard_time": 1706276672,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 648899,
+        "num": 648899,
+        "word": "gidle健康堪忧回归困难",
+        "onboard_time": 1706276253,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592760,
+        "num": 592760,
+        "word": "迪丽热巴走蓝毯",
+        "onboard_time": 1706269110,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520164,
+        "num": 520164,
+        "word": "ENHYPEN跳科目三",
+        "onboard_time": 1706277993,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1203239,
+        "num": 519683,
+        "word": "11岁男生多次遭班主任羞辱跳楼自杀",
+        "onboard_time": 1706273372,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662333,
+        "num": 519655,
+        "word": "黄圣依杨子表哥直播间带货引风波",
+        "onboard_time": 1706277993,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519153,
+        "num": 519153,
+        "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+        "onboard_time": 1706256510,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465212,
+        "num": 465212,
+        "word": "专家建议别花几十万回乡盖房子",
+        "onboard_time": 1706270790,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411676,
+        "num": 411676,
+        "word": "曝檀健次红前红后一个样",
+        "onboard_time": 1706271270,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525020,
+        "num": 410101,
+        "word": "重庆12秒不雅视频案雷政富出狱",
+        "onboard_time": 1706246314,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406953,
+        "num": 406953,
+        "word": "迪丽热巴造型师换成了金鹤龙",
+        "onboard_time": 1706267249,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404656,
+        "num": 404656,
+        "word": "徐娇喝到真茶了",
+        "onboard_time": 1706250690,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367200,
+        "num": 367200,
+        "word": "张卫健 我没事精神得很",
+        "onboard_time": 1706274870,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357624,
+        "num": 357624,
+        "word": "王一博修改豆瓣简介",
+        "onboard_time": 1706270489,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486308,
+        "num": 341534,
+        "word": "妈妈去世五年了发信息发现号没了",
+        "onboard_time": 1706265450,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323061,
+        "num": 323061,
+        "word": "人在冻死前为什么会脱衣服",
+        "onboard_time": 1706256871,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 274242,
+        "num": 274242,
+        "word": "原来高铁也会堵车",
+        "onboard_time": 1706276193,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218440,
+        "num": 218440,
+        "word": "祁煜变人鱼了",
+        "onboard_time": 1706278531,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210466,
+        "num": 210466,
+        "word": "宋亚轩一下岛就发微博了",
+        "onboard_time": 1706279313,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203972,
+        "num": 203972,
+        "word": "昆明动物园再通报猴猫共处",
+        "onboard_time": 1706259813,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200982,
+        "num": 200982,
+        "word": "朴综星唱粤语歌",
+        "onboard_time": 1706278412,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199789,
+        "num": 199789,
+        "word": "Mac客服回应口红广告疑擦边",
+        "onboard_time": 1706278230,
+        "rank": 27,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 194790,
+        "num": 194790,
+        "word": "爱国不是生意不是流量",
+        "onboard_time": 1706275773,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183931,
+        "num": 183931,
+        "word": "梅德韦杰夫晋级澳网男单决赛",
+        "onboard_time": 1706276130,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182114,
+        "num": 182114,
+        "word": "年终奖发了悬着的心终于死了",
+        "onboard_time": 1706269291,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182012,
+        "num": 182012,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180060,
+        "num": 180060,
+        "word": "周琦累了",
+        "onboard_time": 1706278595,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164088,
+        "num": 164088,
+        "word": "狗剩快跑",
+        "onboard_time": 1706276850,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161113,
+        "num": 161113,
+        "word": "喜欢夜爬泰山的人有福了",
+        "onboard_time": 1706277632,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157702,
+        "num": 157702,
+        "word": "女子烫头烫了个炸裂生肖龙头",
+        "onboard_time": 1706273128,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155810,
+        "num": 155810,
+        "word": "宋佳 老公是一种态度",
+        "onboard_time": 1706272169,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154840,
+        "num": 154840,
+        "word": "杀害4岁女童的男孩正接受矫治教育",
+        "onboard_time": 1706273070,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147162,
+        "num": 147162,
+        "word": "不能露腰不能拍腿古偶男主",
+        "onboard_time": 1706258070,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144364,
+        "num": 144364,
+        "word": "昆明动物园计划将猫移出猴山",
+        "onboard_time": 1706260112,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135016,
+        "num": 135016,
+        "word": "直击15岁女孩肝衰竭换肝",
+        "onboard_time": 1706271628,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134296,
+        "num": 134296,
+        "word": "ENHYPEN澳门演唱会",
+        "onboard_time": 1706272291,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133678,
+        "num": 133678,
+        "word": "BLG战胜RNG",
+        "onboard_time": 1706276072,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130242,
+        "num": 130242,
+        "word": "世界之外 半成品",
+        "onboard_time": 1706262327,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127821,
+        "num": 127821,
+        "word": "昆明动物园",
+        "onboard_time": 1706257471,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126540,
+        "num": 126540,
+        "word": "胡先煦王安宇真冤种兄弟",
+        "onboard_time": 1706275710,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114615,
+        "num": 114615,
+        "word": "女子颅内出血医生果断帮缴检查费",
+        "onboard_time": 1706263050,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107796,
+        "num": 107796,
+        "word": "蒋翼归国白月光",
+        "onboard_time": 1706274870,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105785,
+        "num": 105785,
+        "word": "王鹤棣新加坡到达路透",
+        "onboard_time": 1706275114,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103260,
+        "num": 103260,
+        "word": "名侦探柯南 露营系列",
+        "onboard_time": 1706279612,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法合作既有高精尖也能接地气#"
+    }
+  }
+}
