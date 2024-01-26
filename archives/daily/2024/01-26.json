@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706272226261,
+  "endTime": 1706273143879,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -97,6 +97,14 @@
       "onboard_time": 1706243313,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1443051,
+      "num": 988258,
+      "word": "专家建议别花几十万回乡盖房子",
+      "onboard_time": 1706270790,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1391207,
@@ -291,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 767197,
-      "num": 767197,
-      "word": "专家建议别花几十万回乡盖房子",
-      "onboard_time": 1706270790,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 750898,
       "num": 750898,
       "word": "辛芷蕾发了和花少团每个人的合照",
@@ -369,6 +369,14 @@
       "onboard_time": 1706184993,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 664127,
+      "num": 664127,
+      "word": "曝檀健次红前红后一个样",
+      "onboard_time": 1706271270,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 659258,
@@ -627,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459039,
-      "num": 332835,
-      "word": "曝檀健次红前红后一个样",
-      "onboard_time": 1706271270,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 453824,
       "num": 453824,
       "word": "汪峰工作室辟谣结婚",
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328908,
+      "num": 328908,
+      "word": "曝95后待爆男艺人要求删cp互动画面",
+      "onboard_time": 1706272410,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328075,
       "num": 328075,
       "word": "英雄联盟手游",
@@ -889,6 +897,14 @@
       "onboard_time": 1706175991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301435,
+      "num": 301435,
+      "word": "新疆乌什县4.3级地震",
+      "onboard_time": 1706272651,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299949,
@@ -979,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286535,
+      "num": 286535,
+      "word": "星穹铁道2.0版本前瞻",
+      "onboard_time": 1706271750,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286118,
       "num": 286118,
       "word": "俞敏洪回应为何留用孙东旭",
@@ -1019,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276031,
+      "num": 270639,
+      "word": "年终奖发了悬着的心终于死了",
+      "onboard_time": 1706269291,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275138,
       "num": 275138,
       "word": "眠狼 三万的画",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1706257471,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270639,
-      "num": 270639,
-      "word": "年终奖发了悬着的心终于死了",
-      "onboard_time": 1706269291,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 268283,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1706252010,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259320,
+      "num": 259320,
+      "word": "宋佳 老公是一种态度",
+      "onboard_time": 1706272169,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256813,
@@ -1243,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227291,
-      "num": 227291,
-      "word": "星穹铁道2.0版本前瞻",
-      "onboard_time": 1706271750,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 226053,
       "num": 226053,
       "word": "一天睡多少小时最好",
@@ -1339,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211484,
+      "num": 211484,
+      "word": "ENHYPEN澳门演唱会",
+      "onboard_time": 1706272291,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211178,
       "num": 211178,
       "word": "新加坡 全球最美机场",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1706242832,
       "rank": 48,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 204848,
+      "num": 204848,
+      "word": "杀害4岁女童的男孩正接受矫治教育",
+      "onboard_time": 1706273070,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204521,
@@ -1480,6 +1520,14 @@
       "word": "中国公民在美国被泼化学液体严重受伤",
       "onboard_time": 1706247573,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195598,
+      "num": 195598,
+      "word": "直击15岁女孩肝衰竭换肝",
+      "onboard_time": 1706271628,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1657,6 +1705,22 @@
       "onboard_time": 1706251531,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180196,
+      "num": 180196,
+      "word": "OP不眠之夜",
+      "onboard_time": 1706272531,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180134,
+      "num": 180134,
+      "word": "RNG阵容",
+      "onboard_time": 1706272949,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 179725,
@@ -2011,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150891,
+      "num": 150891,
+      "word": "春节前多家影视公司获提前回款",
+      "onboard_time": 1706272350,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150416,
       "num": 150416,
       "word": "德云社抢票",
@@ -2123,6 +2195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140727,
+      "num": 140727,
+      "word": "返乡小金豆爆改东北铁锅炖",
+      "onboard_time": 1706272050,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139149,
       "num": 113913,
       "word": "花少5一场盛大的be美学",
@@ -2153,6 +2233,14 @@
       "onboard_time": 1706196094,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136886,
+      "num": 136886,
+      "word": "成毅直播",
+      "onboard_time": 1706273014,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 136488,
@@ -2331,28 +2419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122213,
-      "num": 122213,
-      "word": "直击15岁女孩肝衰竭换肝",
-      "onboard_time": 1706271628,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121191,
       "num": 121191,
       "word": "王新军被网友贴脸开大",
       "onboard_time": 1706255309,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120789,
-      "num": 120789,
-      "word": "返乡小金豆爆改东北铁锅炖",
-      "onboard_time": 1706272050,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119851,
@@ -2387,6 +2459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115552,
+      "num": 115552,
+      "word": "女子烫头烫了个炸裂生肖龙头",
+      "onboard_time": 1706273128,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113745,
       "num": 113745,
       "word": "员工抢不到票老板租车让其返乡过年",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1706195014,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111331,
-      "num": 111331,
-      "word": "宋佳 老公是一种态度",
-      "onboard_time": 1706272169,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 111062,
