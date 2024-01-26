@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706246168235,
+  "endTime": 1706247285013,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -625,6 +625,14 @@
       "onboard_time": 1704195332,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2455665,
+      "num": 2455665,
+      "word": "交警通报虞书欣司机高速倒车",
+      "onboard_time": 1706245294,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2453920,
@@ -2145,14 +2153,6 @@
       "onboard_time": 1706187217,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1590853,
-      "num": 1590853,
-      "word": "交警通报虞书欣司机高速倒车",
-      "onboard_time": 1706245294,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1588901,
@@ -5795,6 +5795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 982189,
+      "num": 982189,
+      "word": "于正回应",
+      "onboard_time": 1706242954,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 980670,
       "num": 980670,
       "word": "哈尔滨冰玫瑰",
@@ -6761,6 +6769,14 @@
       "onboard_time": 1704431018,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 895303,
+      "num": 895303,
+      "word": "重庆12秒不雅视频案雷政富出狱",
+      "onboard_time": 1706246314,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 894977,
@@ -11427,14 +11443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 655471,
-      "num": 655471,
-      "word": "于正回应",
-      "onboard_time": 1706242954,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 655384,
       "num": 655384,
       "word": "央视曝李铁案关系网",
@@ -15179,6 +15187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534505,
+      "num": 534505,
+      "word": "虞书欣司机还存在其他交通违法行为",
+      "onboard_time": 1706246133,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534396,
       "num": 534396,
       "word": "白敬亭微博之夜出发图",
@@ -15944,6 +15960,14 @@
       "word": "谢娜听到陈乔恩参加婚恋节目的反应",
       "onboard_time": 1704463054,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 514428,
+      "num": 514428,
+      "word": "迪丽热巴王安宇互相吓唬",
+      "onboard_time": 1706246192,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -23731,6 +23755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346727,
+      "num": 346727,
+      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+      "onboard_time": 1706245592,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346640,
       "num": 346640,
       "word": "为什么制冷和制热的26度不一样",
@@ -25769,6 +25801,14 @@
       "onboard_time": 1704862714,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314150,
+      "num": 314150,
+      "word": "徐娇赵晴微信都没有",
+      "onboard_time": 1706247152,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 314091,
@@ -27851,6 +27891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286797,
+      "num": 286797,
+      "word": "恋与深空首周流水超1.5亿",
+      "onboard_time": 1706245234,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286753,
       "num": 286753,
       "word": "蛋仔派对 匹配不了",
@@ -28177,6 +28225,14 @@
       "onboard_time": 1705812748,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282900,
+      "num": 282900,
+      "word": "专家称农村大量房子只造不住",
+      "onboard_time": 1706245893,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282862,
@@ -28697,14 +28753,6 @@
       "onboard_time": 1704160655,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276533,
-      "num": 276533,
-      "word": "恋与深空首周流水超1.5亿",
-      "onboard_time": 1706245234,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 276429,
@@ -30817,6 +30865,14 @@
       "onboard_time": 1704600990,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253280,
+      "num": 253280,
+      "word": "于正说一次话得罪一个人",
+      "onboard_time": 1706246793,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 253227,
@@ -34017,6 +34073,14 @@
       "onboard_time": 1705549588,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 227444,
+      "num": 227444,
+      "word": "C罗中国行延期至8月",
+      "onboard_time": 1706246973,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 227414,
@@ -44507,14 +44571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180185,
-      "num": 180185,
-      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
-      "onboard_time": 1706245592,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180136,
       "num": 180136,
       "word": "维生素补剂 智商税",
@@ -47569,14 +47625,6 @@
       "onboard_time": 1705374208,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168457,
-      "num": 168457,
-      "word": "虞书欣司机还存在其他交通违法行为",
-      "onboard_time": 1706246133,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 168433,
@@ -51699,6 +51747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152579,
+      "num": 127927,
+      "word": "辛芷蕾把自己锁厕所了",
+      "onboard_time": 1706247092,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152569,
       "num": 152569,
       "word": "宝总爱谁",
@@ -52465,14 +52521,6 @@
       "onboard_time": 1705314812,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149754,
-      "num": 149754,
-      "word": "专家称农村大量房子只造不住",
-      "onboard_time": 1706245893,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149741,
@@ -60163,6 +60211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123319,
+      "num": 127989,
+      "word": "郑钦文的郑在进行时",
+      "onboard_time": 1706247152,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123316,
       "num": 123316,
       "word": "南方人自制冻梨翻车",
@@ -64811,6 +64867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99431,
+      "num": 497151,
+      "word": "元梦龙年星动代言人宋雨琦",
+      "onboard_time": 1706245234,
+      "rank": 14,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 99393,
       "num": 99393,
       "word": "多指症患者",
@@ -65985,14 +66049,6 @@
       "onboard_time": 1704324082,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 87952,
-      "num": 497151,
-      "word": "元梦龙年星动代言人宋雨琦",
-      "onboard_time": 1706245234,
-      "rank": 14,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 87899,
@@ -68177,6 +68233,14 @@
       "onboard_time": 1705266254,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52864,
+      "num": 161704,
+      "word": "恋与深空茶叶蛋派对",
+      "onboard_time": 1706247152,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 52587,

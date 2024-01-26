@@ -1,0 +1,410 @@
+{
+  "runTime": 1706247285013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2455665,
+        "num": 2455665,
+        "word": "交警通报虞书欣司机高速倒车",
+        "onboard_time": 1706245294,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1641262,
+        "num": 1641262,
+        "word": "猴子虐猫",
+        "onboard_time": 1706241390,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47496,
+        "num": 1196264,
+        "word": "运20首飞成功11年",
+        "onboard_time": 1706238209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982189,
+        "num": 982189,
+        "word": "于正回应",
+        "onboard_time": 1706242954,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895303,
+        "num": 895303,
+        "word": "重庆12秒不雅视频案雷政富出狱",
+        "onboard_time": 1706246314,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877931,
+        "num": 877931,
+        "word": "2023媒体反感艺人TOP3",
+        "onboard_time": 1706242894,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646206,
+        "num": 646206,
+        "word": "未定事件簿 古婚",
+        "onboard_time": 1706238331,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 614246,
+        "num": 614246,
+        "word": "陈建斌回应网友二创甄嬛传",
+        "onboard_time": 1706243075,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 545991,
+        "num": 545991,
+        "word": "昆明动物园通报猴猫共处",
+        "onboard_time": 1706238331,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534505,
+        "num": 534505,
+        "word": "虞书欣司机还存在其他交通违法行为",
+        "onboard_time": 1706246133,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1442235,
+        "num": 524577,
+        "word": "曝95生当着媒体在室内抽烟",
+        "onboard_time": 1706243313,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514428,
+        "num": 514428,
+        "word": "迪丽热巴王安宇互相吓唬",
+        "onboard_time": 1706246192,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493806,
+        "num": 493806,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485242,
+        "num": 485242,
+        "word": "谁家大学生房间里有三室一厅啊",
+        "onboard_time": 1706240490,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99431,
+        "num": 456141,
+        "word": "元梦龙年星动代言人宋雨琦",
+        "onboard_time": 1706245234,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 450261,
+        "num": 450261,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 444120,
+        "num": 444120,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441042,
+        "num": 441042,
+        "word": "金莎原以为观众会对孙丞潇很宽容",
+        "onboard_time": 1706242594,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347243,
+        "num": 347243,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346727,
+        "num": 346727,
+        "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+        "onboard_time": 1706245592,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933992,
+        "num": 338055,
+        "word": "结婚为什么需要这么多被子",
+        "onboard_time": 1706243133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417777,
+        "num": 328169,
+        "word": "大张伟 贾仙女让我做首健身时打气的歌",
+        "onboard_time": 1706240614,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314150,
+        "num": 314150,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 307185,
+        "num": 307185,
+        "word": "江西新余大火遇难者亲友发声",
+        "onboard_time": 1706242289,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286797,
+        "num": 286797,
+        "word": "恋与深空首周流水超1.5亿",
+        "onboard_time": 1706245234,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282900,
+        "num": 282900,
+        "word": "专家称农村大量房子只造不住",
+        "onboard_time": 1706245893,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270171,
+        "num": 270171,
+        "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
+        "onboard_time": 1706236349,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253280,
+        "num": 253280,
+        "word": "于正说一次话得罪一个人",
+        "onboard_time": 1706246793,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238225,
+        "num": 238225,
+        "word": "你认为嫁妆属于女方个人财产吗",
+        "onboard_time": 1706239412,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 227444,
+        "num": 227444,
+        "word": "C罗中国行延期至8月",
+        "onboard_time": 1706246973,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221210,
+        "num": 221210,
+        "word": "装扮了男朋友买的新车",
+        "onboard_time": 1706244577,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213479,
+        "num": 213479,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209255,
+        "num": 209255,
+        "word": "眠狼",
+        "onboard_time": 1706236947,
+        "rank": 32,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 189064,
+        "num": 189064,
+        "word": "媒体评迪丽热巴可爱直率鲜活",
+        "onboard_time": 1706240614,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184357,
+        "num": 184357,
+        "word": "德约科维奇被破发",
+        "onboard_time": 1706244271,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186371,
+        "num": 184222,
+        "word": "王安宇发文告别花少",
+        "onboard_time": 1706240132,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183988,
+        "num": 183988,
+        "word": "英雄联盟手游",
+        "onboard_time": 1706242170,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182148,
+        "num": 182148,
+        "word": "女子遭研究生同学无视追讨礼金",
+        "onboard_time": 1706231428,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172362,
+        "num": 172362,
+        "word": "3元以下饮料仅剩10%",
+        "onboard_time": 1706231670,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167017,
+        "num": 167017,
+        "word": "市民热线回应动物园猴群与猫共处",
+        "onboard_time": 1706245412,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "世界之外没有数值策划",
+        "onboard_time": 1706238331,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "落马女局长跑步机里藏价值666万黄金",
+        "onboard_time": 1706237189,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52864,
+        "num": 161704,
+        "word": "恋与深空茶叶蛋派对",
+        "onboard_time": 1706247152,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160168,
+        "num": 160168,
+        "word": "辛芷蕾发了和花少团每个人的合照",
+        "onboard_time": 1706236050,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155260,
+        "num": 155260,
+        "word": "俞敏洪称只依赖董宇辉不是正常公司",
+        "onboard_time": 1706243492,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151912,
+        "num": 151912,
+        "word": "肖战GQ门牌号是生日",
+        "onboard_time": 1706241992,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139386,
+        "num": 139386,
+        "word": "澳网决赛",
+        "onboard_time": 1706241332,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133705,
+        "num": 133705,
+        "word": "猫妈妈给喜爱的人类介绍它的小孩",
+        "onboard_time": 1706244813,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123319,
+        "num": 127989,
+        "word": "郑钦文的郑在进行时",
+        "onboard_time": 1706247152,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152579,
+        "num": 127927,
+        "word": "辛芷蕾把自己锁厕所了",
+        "onboard_time": 1706247092,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法合作既有高精尖也能接地气#"
+    }
+  }
+}

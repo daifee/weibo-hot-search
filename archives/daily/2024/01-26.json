@@ -1,7 +1,15 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706246168235,
+  "endTime": 1706247285013,
   "band_list": [
+    {
+      "raw_hot": 2455665,
+      "num": 2455665,
+      "word": "交警通报虞书欣司机高速倒车",
+      "onboard_time": 1706245294,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2038997,
       "num": 2038997,
@@ -41,14 +49,6 @@
       "onboard_time": 1706183971,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1590853,
-      "num": 1590853,
-      "word": "交警通报虞书欣司机高速倒车",
-      "onboard_time": 1706245294,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1464985,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982189,
+      "num": 982189,
+      "word": "于正回应",
+      "onboard_time": 1706242954,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974061,
       "num": 974061,
       "word": "科学家警告小心北极僵尸病毒",
@@ -128,6 +136,14 @@
       "word": "女子列车吧唧嘴3小时大爷崩溃",
       "onboard_time": 1706212396,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895303,
+      "num": 895303,
+      "word": "重庆12秒不雅视频案雷政富出狱",
+      "onboard_time": 1706246314,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655471,
-      "num": 655471,
-      "word": "于正回应",
-      "onboard_time": 1706242954,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 626027,
       "num": 626027,
       "word": "减重100斤的贾玲惊呆潘斌龙",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534505,
+      "num": 534505,
+      "word": "虞书欣司机还存在其他交通违法行为",
+      "onboard_time": 1706246133,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533297,
       "num": 533297,
       "word": "曹德旺一个月内投资90亿",
@@ -305,6 +321,14 @@
       "onboard_time": 1706229930,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514428,
+      "num": 514428,
+      "word": "迪丽热巴王安宇互相吓唬",
+      "onboard_time": 1706246192,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 495117,
@@ -459,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346727,
+      "num": 346727,
+      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+      "onboard_time": 1706245592,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336418,
       "num": 251940,
       "word": "普通人没必要掏耳屎",
@@ -499,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314150,
+      "num": 314150,
+      "word": "徐娇赵晴微信都没有",
+      "onboard_time": 1706247152,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 309319,
       "num": 309319,
       "word": "汪峰方否认女儿将出道",
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286797,
+      "num": 286797,
+      "word": "恋与深空首周流水超1.5亿",
+      "onboard_time": 1706245234,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286118,
       "num": 286118,
       "word": "俞敏洪回应为何留用孙东旭",
@@ -539,20 +587,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282900,
+      "num": 282900,
+      "word": "专家称农村大量房子只造不住",
+      "onboard_time": 1706245893,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278753,
       "num": 224866,
       "word": "张婧仪路透",
       "onboard_time": 1706194773,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 276533,
-      "num": 276533,
-      "word": "恋与深空首周流水超1.5亿",
-      "onboard_time": 1706245234,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 268283,
@@ -577,6 +625,14 @@
       "onboard_time": 1706192133,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253280,
+      "num": 253280,
+      "word": "于正说一次话得罪一个人",
+      "onboard_time": 1706246793,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 244829,
@@ -625,6 +681,14 @@
       "onboard_time": 1706243492,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 227444,
+      "num": 227444,
+      "word": "C罗中国行延期至8月",
+      "onboard_time": 1706246973,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 226053,
@@ -835,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180185,
-      "num": 180185,
-      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
-      "onboard_time": 1706245592,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178779,
       "num": 178779,
       "word": "猫说当初也没告诉我是合租啊",
@@ -897,14 +953,6 @@
       "onboard_time": 1706184628,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168457,
-      "num": 168457,
-      "word": "虞书欣司机还存在其他交通违法行为",
-      "onboard_time": 1706246133,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 167706,
@@ -987,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152579,
+      "num": 127927,
+      "word": "辛芷蕾把自己锁厕所了",
+      "onboard_time": 1706247092,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151766,
       "num": 151766,
       "word": "春运",
@@ -1009,14 +1065,6 @@
       "onboard_time": 1706235749,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149754,
-      "num": 149754,
-      "word": "专家称农村大量房子只造不住",
-      "onboard_time": 1706245893,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149130,
@@ -1131,6 +1179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123319,
+      "num": 127989,
+      "word": "郑钦文的郑在进行时",
+      "onboard_time": 1706247152,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123207,
       "num": 105567,
       "word": "朴信惠产后复出",
@@ -1243,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99431,
+      "num": 497151,
+      "word": "元梦龙年星动代言人宋雨琦",
+      "onboard_time": 1706245234,
+      "rank": 14,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 96045,
       "num": 96045,
       "word": "郑钦文首进大满贯决赛",
@@ -1273,14 +1337,6 @@
       "onboard_time": 1706238209,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87952,
-      "num": 497151,
-      "word": "元梦龙年星动代言人宋雨琦",
-      "onboard_time": 1706245234,
-      "rank": 14,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 82893,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1706225484,
       "rank": 44,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 52864,
+      "num": 161704,
+      "word": "恋与深空茶叶蛋派对",
+      "onboard_time": 1706247152,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 50769,
