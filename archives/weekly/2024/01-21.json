@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706264317356,
+  "endTime": 1706265356435,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -2683,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580646,
+      "num": 1224419,
+      "word": "女子颅内出血医生果断帮缴检查费",
+      "onboard_time": 1706263050,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580407,
       "num": 580407,
       "word": "王菊回应被漂亮礼服尺码PUA言论",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1706064088,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 569070,
+      "num": 569070,
+      "word": "王凯谈6年拍了3部大江大河",
+      "onboard_time": 1706262690,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 567794,
@@ -4195,14 +4211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415111,
-      "num": 415111,
-      "word": "王凯谈6年拍了3部大江大河",
-      "onboard_time": 1706262690,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 413402,
       "num": 413402,
       "word": "吃完葡萄不要马上喝水",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1706154632,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 369989,
-      "num": 1224419,
-      "word": "女子颅内出血医生果断帮缴检查费",
-      "onboard_time": 1706263050,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369749,
@@ -6411,6 +6411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275138,
+      "num": 275138,
+      "word": "眠狼 三万的画",
+      "onboard_time": 1706263170,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 275108,
       "num": 275108,
       "word": "RNG 会不会bp",
@@ -6993,14 +7001,6 @@
       "onboard_time": 1706011355,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 247260,
-      "num": 247260,
-      "word": "眠狼 三万的画",
-      "onboard_time": 1706263170,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 247125,
@@ -7915,6 +7915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 219418,
+      "num": 1058609,
+      "word": "这就是爷爷眼中的三好学生",
+      "onboard_time": 1706262631,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219323,
       "num": 219323,
       "word": "过年前最离不开的软件",
@@ -8139,6 +8147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 213317,
+      "num": 190143,
+      "word": "世界之外 命运相遇纪念",
+      "onboard_time": 1706264730,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213274,
       "num": 213274,
       "word": "潘粤明 看国足只有更伤心",
@@ -8209,6 +8225,14 @@
       "onboard_time": 1706159072,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 211936,
+      "num": 211936,
+      "word": "江西特别重大火灾事故调查组成立",
+      "onboard_time": 1706264969,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211429,
@@ -8601,14 +8625,6 @@
       "onboard_time": 1705978583,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204479,
-      "num": 1058609,
-      "word": "这就是爷爷眼中的三好学生",
-      "onboard_time": 1706262631,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204342,
@@ -9451,6 +9467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191257,
+      "num": 191257,
+      "word": "杨洋男大风",
+      "onboard_time": 1706265208,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191226,
       "num": 191226,
       "word": "世界之外天地无束",
@@ -9547,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190209,
+      "num": 190209,
+      "word": "只有中国人才能懂的谐音梗",
+      "onboard_time": 1706264788,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190107,
       "num": 190107,
       "word": "中欧基金葛兰十大重仓股",
@@ -9577,6 +9609,14 @@
       "onboard_time": 1705805906,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189980,
+      "num": 189980,
+      "word": "恋与深空终于疯了",
+      "onboard_time": 1706264730,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 189712,
@@ -10203,6 +10243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179725,
+      "num": 179725,
+      "word": "未定事件簿 pv",
+      "onboard_time": 1706265092,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179349,
       "num": 194461,
       "word": "郑钦文说国旗非常好看",
@@ -10305,6 +10353,14 @@
       "onboard_time": 1706260232,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177691,
+      "num": 177691,
+      "word": "迪丽热巴困了像醉了",
+      "onboard_time": 1706259509,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 177636,
@@ -10705,14 +10761,6 @@
       "onboard_time": 1706014892,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 171141,
-      "num": 171141,
-      "word": "迪丽热巴困了像醉了",
-      "onboard_time": 1706259509,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 171093,
@@ -11233,6 +11281,14 @@
       "onboard_time": 1705990527,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163659,
+      "num": 163659,
+      "word": "福原爱将直播带货",
+      "onboard_time": 1706263829,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 163658,
@@ -12275,6 +12331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147687,
+      "num": 147687,
+      "word": "口服司美格鲁肽国内获批上市",
+      "onboard_time": 1706264610,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147559,
       "num": 147559,
       "word": "卧铺票可在线自主选铺",
@@ -12763,14 +12827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141321,
-      "num": 141321,
-      "word": "福原爱将直播带货",
-      "onboard_time": 1706263829,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141179,
       "num": 141179,
       "word": "安心决定不要孩子",
@@ -13073,6 +13129,14 @@
       "onboard_time": 1706023290,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137235,
+      "num": 915772,
+      "word": "雪夜教科书式救人的女司机找到了",
+      "onboard_time": 1706262631,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 137138,
@@ -15075,14 +15139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105862,
-      "num": 915772,
-      "word": "雪夜教科书式救人的女司机找到了",
-      "onboard_time": 1706262631,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 105748,
       "num": 105748,
       "word": "李金恣冬青奥夺金",
@@ -16195,6 +16251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49805,
+      "num": 485709,
+      "word": "温太医眉姐姐反向随份子",
+      "onboard_time": 1706263230,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49649,
       "num": 49649,
       "word": "负面情绪为何总是在晚上出现",
@@ -16475,14 +16539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25855,
-      "num": 462500,
-      "word": "温太医眉姐姐反向随份子",
-      "onboard_time": 1706263230,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24685,
       "num": 24685,
       "word": "飞天奖报名启动",
@@ -16521,6 +16577,14 @@
       "onboard_time": 1706042535,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19961,
+      "num": 178100,
+      "word": "在元梦开启第二人生",
+      "onboard_time": 1706264850,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 19598,
