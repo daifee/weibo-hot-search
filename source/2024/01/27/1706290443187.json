@@ -1,0 +1,410 @@
+{
+  "runTime": 1706290443187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 728383,
+        "num": 728383,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604020,
+        "num": 604020,
+        "word": "女子欲跳入猴山救猫被游客救下",
+        "onboard_time": 1706281173,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25097,
+        "num": 570464,
+        "word": "第三批国家级夜间文旅消费集聚区",
+        "onboard_time": 1706276311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556859,
+        "num": 556859,
+        "word": "警方回应黄圣依杨子表哥直播间带货风波",
+        "onboard_time": 1706280871,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261377,
+        "num": 261377,
+        "word": "专家建议别花几十万回乡盖房子",
+        "onboard_time": 1706270790,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218218,
+        "num": 218218,
+        "word": "张卫健 我没事精神得很",
+        "onboard_time": 1706274870,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214195,
+        "num": 214195,
+        "word": "人在冻死前为什么会脱衣服",
+        "onboard_time": 1706256871,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202909,
+        "num": 202909,
+        "word": "曝95后待爆男艺人要求删cp互动画面",
+        "onboard_time": 1706272410,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181382,
+        "num": 181382,
+        "word": "美国佛州拟禁止16岁以下使用社交媒体",
+        "onboard_time": 1706282729,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180264,
+        "num": 180264,
+        "word": "善待动物组织关注幻兽帕鲁",
+        "onboard_time": 1706285550,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159060,
+        "num": 159060,
+        "word": "看起来前凸后翘其实是骨盆前倾",
+        "onboard_time": 1706286329,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155749,
+        "num": 155749,
+        "word": "欧阳娜娜虞书欣为欧阳娣娣打call",
+        "onboard_time": 1706284951,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148819,
+        "num": 148819,
+        "word": "徐娇喝到真茶了",
+        "onboard_time": 1706250690,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135009,
+        "num": 135009,
+        "word": "被害女童父亲称未成年凶手年后正常上学",
+        "onboard_time": 1706276193,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133747,
+        "num": 133747,
+        "word": "迪丽热巴造型师换成了金鹤龙",
+        "onboard_time": 1706267249,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116696,
+        "num": 116696,
+        "word": "gidle健康堪忧回归困难",
+        "onboard_time": 1706276253,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108948,
+        "num": 108948,
+        "word": "曝檀健次红前红后一个样",
+        "onboard_time": 1706271270,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108577,
+        "num": 108577,
+        "word": "昆明动物园再通报猴猫共处",
+        "onboard_time": 1706259813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108442,
+        "num": 108442,
+        "word": "昆明动物园最新实拍画面",
+        "onboard_time": 1706288483,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75895,
+        "num": 75895,
+        "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+        "onboard_time": 1706256510,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180406,
+        "num": 75849,
+        "word": "妈妈去世五年了发信息发现号没了",
+        "onboard_time": 1706265450,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87529,
+        "num": 75832,
+        "word": "张杰又发AI照了",
+        "onboard_time": 1706285069,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79639,
+        "num": 75590,
+        "word": "爸妈听说我除夕不放假时",
+        "onboard_time": 1706283271,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74412,
+        "num": 74412,
+        "word": "迪丽热巴走蓝毯",
+        "onboard_time": 1706269110,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74261,
+        "num": 74261,
+        "word": "王一博修改豆瓣简介",
+        "onboard_time": 1706270489,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73463,
+        "num": 73463,
+        "word": "许诺退役",
+        "onboard_time": 1706276672,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73188,
+        "num": 73188,
+        "word": "直击15岁女孩肝衰竭换肝",
+        "onboard_time": 1706271628,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72627,
+        "num": 72627,
+        "word": "野野",
+        "onboard_time": 1706280214,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71845,
+        "num": 71845,
+        "word": "ENHYPEN跳科目三",
+        "onboard_time": 1706277993,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48262,
+        "num": 68940,
+        "word": "原来高铁也会堵车",
+        "onboard_time": 1706276193,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68486,
+        "num": 68486,
+        "word": "吴昕朵拉头",
+        "onboard_time": 1706280154,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66707,
+        "num": 66707,
+        "word": "巴黎时装周 瓷娃娃秀场",
+        "onboard_time": 1706283451,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 66029,
+        "num": 66029,
+        "word": "MAC口红广告疑擦边惹争议",
+        "onboard_time": 1706275353,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58278,
+        "num": 58278,
+        "word": "辛芷蕾 心有猛虎细嗅蔷薇",
+        "onboard_time": 1706288665,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56141,
+        "num": 56141,
+        "word": "年终奖发了悬着的心终于死了",
+        "onboard_time": 1706269291,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54564,
+        "num": 54564,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54140,
+        "num": 54140,
+        "word": "洗澡对于广东人来说是解冻",
+        "onboard_time": 1706284650,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49594,
+        "num": 49594,
+        "word": "昆明动物园计划将猫移出猴山",
+        "onboard_time": 1706260112,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48437,
+        "num": 48437,
+        "word": "昆明动物园",
+        "onboard_time": 1706257471,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46338,
+        "num": 46338,
+        "word": "瓶子得子",
+        "onboard_time": 1706279851,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45922,
+        "num": 45922,
+        "word": "张卫健回应空中彩排意外坠地",
+        "onboard_time": 1706286387,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42688,
+        "num": 42688,
+        "word": "入职第一天就知道这个公司来对了",
+        "onboard_time": 1706280510,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42539,
+        "num": 42539,
+        "word": "古巨基周深帮宋亚轩追星",
+        "onboard_time": 1706289023,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38733,
+        "num": 38733,
+        "word": "大理地震",
+        "onboard_time": 1706273672,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36869,
+        "num": 36869,
+        "word": "ENHYPEN澳门演唱会",
+        "onboard_time": 1706272291,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36735,
+        "num": 36735,
+        "word": "祁煜变人鱼了",
+        "onboard_time": 1706278531,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36156,
+        "num": 36156,
+        "word": "世界之外 半成品",
+        "onboard_time": 1706262327,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34983,
+        "num": 34983,
+        "word": "年糕才不是浙江小孩的童年噩梦",
+        "onboard_time": 1706282073,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34229,
+        "num": 34976,
+        "word": "宋亚轩一下岛就发微博了",
+        "onboard_time": 1706279313,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27101,
+        "num": 34955,
+        "word": "名侦探柯南 露营系列",
+        "onboard_time": 1706279612,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动城市治理体系和治理能力现代化#"
+    }
+  }
+}
