@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706268838117,
+  "endTime": 1706272226261,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154314,
+      "num": 1154314,
+      "word": "迪丽热巴造型师换成了金鹤龙",
+      "onboard_time": 1706267249,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1138910,
       "num": 1138910,
       "word": "人在冻死前为什么会脱衣服",
       "onboard_time": 1706256871,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1090743,
-      "num": 1090743,
-      "word": "迪丽热巴造型师换成了金鹤龙",
-      "onboard_time": 1706267249,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1025253,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810107,
+      "num": 680738,
+      "word": "迪丽热巴走蓝毯",
+      "onboard_time": 1706269110,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796120,
       "num": 796120,
       "word": "落马女局长跑步机里藏价值666万黄金",
@@ -281,6 +289,14 @@
       "onboard_time": 1706255911,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767197,
+      "num": 767197,
+      "word": "专家建议别花几十万回乡盖房子",
+      "onboard_time": 1706270790,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 750898,
@@ -507,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 519017,
+      "num": 519017,
+      "word": "王一博修改豆瓣简介",
+      "onboard_time": 1706270489,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514428,
       "num": 514428,
       "word": "迪丽热巴王安宇互相吓唬",
@@ -600,6 +624,14 @@
       "word": "杨洋男大风",
       "onboard_time": 1706265208,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 459039,
+      "num": 332835,
+      "word": "曝檀健次红前红后一个样",
+      "onboard_time": 1706271270,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -721,6 +753,22 @@
       "onboard_time": 1706239713,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377393,
+      "num": 309451,
+      "word": "花少5结局 彼此袒露的真挚",
+      "onboard_time": 1706268268,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 376809,
+      "num": 293904,
+      "word": "媒体评杨紫真正的内娱活人",
+      "onboard_time": 1706269472,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 375804,
@@ -859,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296877,
+      "num": 296877,
+      "word": "无期迷途",
+      "onboard_time": 1706269889,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296087,
       "num": 291796,
       "word": "裸睡有3个好处",
@@ -905,6 +961,14 @@
       "onboard_time": 1706262327,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287971,
+      "num": 287971,
+      "word": "无期迷途JOJO联动",
+      "onboard_time": 1706271750,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 286797,
@@ -969,6 +1033,14 @@
       "onboard_time": 1706257471,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270639,
+      "num": 270639,
+      "word": "年终奖发了悬着的心终于死了",
+      "onboard_time": 1706269291,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 268283,
@@ -1049,14 +1121,6 @@
       "onboard_time": 1706257351,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 247044,
-      "num": 247044,
-      "word": "花少5结局 彼此袒露的真挚",
-      "onboard_time": 1706268268,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 245284,
@@ -1155,6 +1219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228387,
+      "num": 274267,
+      "word": "心疼小孩哥 因为心疼小时候的自己",
+      "onboard_time": 1706270910,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227929,
       "num": 213708,
       "word": "T1新人",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1706246973,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227291,
+      "num": 227291,
+      "word": "星穹铁道2.0版本前瞻",
+      "onboard_time": 1706271750,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 226053,
@@ -1424,6 +1504,14 @@
       "word": "逆水寒",
       "onboard_time": 1706235988,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191464,
+      "num": 191464,
+      "word": "崩坏星穹铁道直播",
+      "onboard_time": 1706269889,
+      "rank": 28,
       "category": "游戏"
     },
     {
@@ -1723,6 +1811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166138,
+      "num": 166138,
+      "word": "职场让人疲劳的主要原因",
+      "onboard_time": 1706270971,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165985,
       "num": 165985,
       "word": "澳网男单半决赛中断",
@@ -1865,6 +1961,14 @@
       "onboard_time": 1706232629,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152927,
+      "num": 152927,
+      "word": "帮世界上最大的狗洗澡",
+      "onboard_time": 1706270910,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 152569,
@@ -2059,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136079,
+      "num": 136079,
+      "word": "苏轼开垦的地如今成了数字农场",
+      "onboard_time": 1706271750,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135711,
       "num": 135711,
       "word": "宝爸辞职做自媒体有多心酸",
@@ -2155,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "两狗一鼠跳舞",
+      "onboard_time": 1706271572,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124577,
       "num": 130518,
       "word": "辛纳晋级澳网男单决赛",
@@ -2211,12 +2331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122213,
+      "num": 122213,
+      "word": "直击15岁女孩肝衰竭换肝",
+      "onboard_time": 1706271628,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121191,
       "num": 121191,
       "word": "王新军被网友贴脸开大",
       "onboard_time": 1706255309,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120789,
+      "num": 120789,
+      "word": "返乡小金豆爆改东北铁锅炖",
+      "onboard_time": 1706272050,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119851,
@@ -2275,6 +2411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111331,
+      "num": 111331,
+      "word": "宋佳 老公是一种态度",
+      "onboard_time": 1706272169,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111062,
       "num": 93280,
       "word": "徐娇赵晴合照",
@@ -2289,6 +2433,14 @@
       "onboard_time": 1706236410,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107783,
+      "num": 107783,
+      "word": "生气又经不住诱惑的小金毛",
+      "onboard_time": 1706270910,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107265,
@@ -2507,6 +2659,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 52383,
+      "num": 134976,
+      "word": "蛋仔外卖好香",
+      "onboard_time": 1706268812,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50769,
       "num": 50769,
       "word": "再有两周就是除夕了",
@@ -2627,20 +2787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10343,
+      "raw_hot": 14803,
       "num": 1105040,
       "word": "上百列复兴号震撼集结画面",
       "onboard_time": 1706234010,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7813,
-      "num": 121907,
-      "word": "蛋仔外卖好香",
-      "onboard_time": 1706268812,
-      "rank": 49,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
@@ -2652,6 +2804,9 @@
     },
     {
       "word": "#中法合作既有高精尖也能接地气#"
+    },
+    {
+      "word": "#加快推动城市治理体系和治理能力现代化#"
     }
   ]
 }
