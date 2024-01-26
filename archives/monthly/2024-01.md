@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/26 10:35:37
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/26 11:18:56
 </p>
 </blockquote>
 <p>
@@ -4005,6 +4005,12 @@ A先生李李恋情（热度：1095743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B9%E7%AE%A1%E6%B2%BB%E7%96%97%E6%88%96%E8%A2%AB%E4%B8%80%E7%A7%8D%E5%8C%96%E5%90%88%E7%89%A9%E6%9B%BF%E4%BB%A3%23" target="weibo">
+根管治疗或被一种化合物替代（热度：1025253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%8F%91%E5%85%89%E7%9A%84%E7%A5%9E%E5%A5%B3%23" target="weibo">
 张小斐 发光的神女（热度：1023825）
 </a>
@@ -5885,12 +5891,6 @@ iPhone成了去年中国最畅销的手机（热度：818858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23" target="weibo">
 娜扎身材管理（热度：815304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B9%E7%AE%A1%E6%B2%BB%E7%96%97%E6%88%96%E8%A2%AB%E4%B8%80%E7%A7%8D%E5%8C%96%E5%90%88%E7%89%A9%E6%9B%BF%E4%BB%A3%23" target="weibo">
-根管治疗或被一种化合物替代（热度：815248）
 </a>
 </li>
 

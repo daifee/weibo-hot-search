@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706236537302,
+  "endTime": 1706239136709,
   "band_list": [
     {
       "raw_hot": 2006838,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025253,
+      "num": 1025253,
+      "word": "根管治疗或被一种化合物替代",
+      "onboard_time": 1706233287,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1001715,
       "num": 1001715,
       "word": "3元以下饮料仅剩10%",
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 815248,
-      "num": 815248,
-      "word": "根管治疗或被一种化合物替代",
-      "onboard_time": 1706233287,
-      "rank": 5,
-      "category": "健康医疗"
+      "raw_hot": 720173,
+      "num": 720173,
+      "word": "辛芷蕾发了和花少团每个人的合照",
+      "onboard_time": 1706236050,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 712934,
+      "num": 712934,
+      "word": "落马女局长跑步机里藏价值666万黄金",
+      "onboard_time": 1706237189,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709595,
@@ -89,6 +105,14 @@
       "onboard_time": 1706231190,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 709335,
+      "num": 709335,
+      "word": "村支书满脸通红被质疑上班醉酒",
+      "onboard_time": 1706235450,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703545,
@@ -113,6 +137,14 @@
       "onboard_time": 1706184993,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662203,
+      "num": 662203,
+      "word": "未定事件簿 古婚",
+      "onboard_time": 1706238331,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 659258,
@@ -144,6 +176,14 @@
       "word": "世界之外正式公测",
       "onboard_time": 1706231190,
       "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 588880,
+      "num": 588880,
+      "word": "世界之外 101变11",
+      "onboard_time": 1706238331,
+      "rank": 10,
       "category": "游戏"
     },
     {
@@ -187,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486609,
+      "num": 349821,
+      "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
+      "onboard_time": 1706236349,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478624,
       "num": 478624,
       "word": "周星驰黑长直",
@@ -203,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453577,
+      "num": 453577,
+      "word": "肖战GQ封面预告",
+      "onboard_time": 1706235689,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 439777,
       "num": 439777,
       "word": "库里落选全明星首发",
       "onboard_time": 1706231070,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 431732,
-      "num": 431732,
-      "word": "肖战GQ封面预告",
-      "onboard_time": 1706235689,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 431266,
@@ -235,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426409,
+      "num": 426409,
+      "word": "眠狼",
+      "onboard_time": 1706236947,
+      "rank": 13,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 412336,
+      "num": 412336,
+      "word": "蜘蛛夫人内地定档",
+      "onboard_time": 1706235927,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402662,
       "num": 402662,
       "word": "马斯克称愿向中国车企授权技术",
@@ -243,12 +307,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 386367,
+      "num": 386367,
+      "word": "热辣滚烫全员热辣舞",
+      "onboard_time": 1706237010,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
       "onboard_time": 1706195374,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360635,
+      "num": 360635,
+      "word": "世界之外没有数值策划",
+      "onboard_time": 1706238331,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 336418,
@@ -315,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267251,
-      "num": 267251,
-      "word": "蜘蛛夫人内地定档",
-      "onboard_time": 1706235927,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 266177,
       "num": 195377,
       "word": "免疫力低下的5个表现",
@@ -339,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251793,
+      "num": 251793,
+      "word": "昆明动物园通报猴猫共处",
+      "onboard_time": 1706238331,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244829,
       "num": 147132,
       "word": "迪丽热巴成都",
@@ -353,6 +433,14 @@
       "onboard_time": 1706199151,
       "rank": 17,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 234721,
+      "num": 234721,
+      "word": "未定事件簿仙侠PV",
+      "onboard_time": 1706238749,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 233003,
@@ -393,14 +481,6 @@
       "onboard_time": 1706202084,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 218435,
-      "num": 218435,
-      "word": "村支书满脸通红被质疑上班醉酒",
-      "onboard_time": 1706235450,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212348,
@@ -507,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186451,
-      "num": 186451,
-      "word": "辛芷蕾发了和花少团每个人的合照",
-      "onboard_time": 1706236050,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "丫丫的熊大衣又厚实了",
@@ -555,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171024,
+      "num": 171024,
+      "word": "大数据杀熟不能再是一笔糊涂账",
+      "onboard_time": 1706238027,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170222,
       "num": 136629,
       "word": "杨紫演技",
@@ -585,6 +665,14 @@
       "onboard_time": 1706206521,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "狗狗是87岁外婆最好的朋友",
+      "onboard_time": 1706238749,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 160695,
@@ -699,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129074,
+      "num": 129074,
+      "word": "俞敏洪回应为何留用孙东旭",
+      "onboard_time": 1706238929,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128419,
       "num": 128419,
       "word": "亚历山大绝杀库里",
@@ -803,14 +899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105188,
-      "num": 105188,
-      "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
-      "onboard_time": 1706236349,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102529,
       "num": 102529,
       "word": "中国冰淇淋在韩国爆火",
@@ -849,6 +937,14 @@
       "onboard_time": 1706185831,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89950,
+      "num": 920607,
+      "word": "运20首飞成功11年",
+      "onboard_time": 1706238209,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82893,
