@@ -1,0 +1,410 @@
+{
+  "runTime": 1706236537302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1678842,
+        "num": 1678842,
+        "word": "女子遭研究生同学无视追讨礼金",
+        "onboard_time": 1706231428,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089032,
+        "num": 1089032,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43985,
+        "num": 1041637,
+        "word": "2024春运出行指南",
+        "onboard_time": 1706191655,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001715,
+        "num": 1001715,
+        "word": "3元以下饮料仅剩10%",
+        "onboard_time": 1706231670,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815248,
+        "num": 815248,
+        "word": "根管治疗或被一种化合物替代",
+        "onboard_time": 1706233287,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 799192,
+        "num": 799192,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620554,
+        "num": 620554,
+        "word": "不要再把肉泡水里解冻了",
+        "onboard_time": 1706196572,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 513748,
+        "num": 513748,
+        "word": "曹德旺一个月内投资90亿",
+        "onboard_time": 1706233287,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 474407,
+        "num": 474407,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470582,
+        "num": 470582,
+        "word": "祖国统一台湾当归",
+        "onboard_time": 1706194594,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448188,
+        "num": 448188,
+        "word": "丫丫脸蛋子嘟噜了",
+        "onboard_time": 1706233588,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431732,
+        "num": 431732,
+        "word": "肖战GQ封面预告",
+        "onboard_time": 1706235689,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 400227,
+        "num": 400227,
+        "word": "徐娇 让人瘦到85是有多歹毒",
+        "onboard_time": 1706184993,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390690,
+        "num": 390690,
+        "word": "马斯克称愿向中国车企授权技术",
+        "onboard_time": 1706233470,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 320930,
+        "num": 320930,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303450,
+        "num": 303450,
+        "word": "迪丽热巴告别花少",
+        "onboard_time": 1706226867,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285855,
+        "num": 285855,
+        "word": "苹果新增118个emoji",
+        "onboard_time": 1706227770,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 284021,
+        "num": 284021,
+        "word": "汪峰方否认女儿将出道",
+        "onboard_time": 1706234791,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270081,
+        "num": 270081,
+        "word": "女子列车吧唧嘴3小时大爷崩溃",
+        "onboard_time": 1706212396,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269545,
+        "num": 269545,
+        "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
+        "onboard_time": 1706229930,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534615,
+        "num": 269314,
+        "word": "台湾省的省会是哪个城市",
+        "onboard_time": 1706231190,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 267251,
+        "num": 267251,
+        "word": "蜘蛛夫人内地定档",
+        "onboard_time": 1706235927,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244513,
+        "num": 244513,
+        "word": "亚洲天王林俊杰",
+        "onboard_time": 1706230951,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241690,
+        "num": 241690,
+        "word": "普通人没必要掏耳屎",
+        "onboard_time": 1706225665,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223773,
+        "num": 223773,
+        "word": "国足离淘汰赛就差了1分",
+        "onboard_time": 1706234310,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218435,
+        "num": 218435,
+        "word": "村支书满脸通红被质疑上班醉酒",
+        "onboard_time": 1706235450,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192349,
+        "num": 192349,
+        "word": "逆水寒",
+        "onboard_time": 1706235988,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188884,
+        "num": 188884,
+        "word": "村里的猫 这城里也太惨了",
+        "onboard_time": 1706230951,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186451,
+        "num": 186451,
+        "word": "辛芷蕾发了和花少团每个人的合照",
+        "onboard_time": 1706236050,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158900,
+        "num": 176091,
+        "word": "丫丫的熊大衣又厚实了",
+        "onboard_time": 1706233828,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173627,
+        "num": 173627,
+        "word": "为什么很多年轻人都抗拒相亲",
+        "onboard_time": 1706231190,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168574,
+        "num": 168574,
+        "word": "于正 谢谢妹妹给热度",
+        "onboard_time": 1706190273,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165239,
+        "num": 165239,
+        "word": "科学家警告小心北极僵尸病毒",
+        "onboard_time": 1706193813,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150416,
+        "num": 150416,
+        "word": "德云社抢票",
+        "onboard_time": 1706235749,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145696,
+        "num": 145696,
+        "word": "泡温泉会感染HPV和妇科病吗",
+        "onboard_time": 1706202084,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137692,
+        "num": 137692,
+        "word": "A股",
+        "onboard_time": 1706234909,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134161,
+        "num": 134161,
+        "word": "免签和落地签国家盘点",
+        "onboard_time": 1706233287,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133694,
+        "num": 133694,
+        "word": "头一回见年终要给老板发红包",
+        "onboard_time": 1706234791,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130848,
+        "num": 130848,
+        "word": "库里落选全明星首发",
+        "onboard_time": 1706231070,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129067,
+        "num": 129067,
+        "word": "苹果ID贷以库克回租为名非法放贷",
+        "onboard_time": 1706234548,
+        "rank": 39,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 128773,
+        "num": 128773,
+        "word": "车银优给文彬的生日祝福",
+        "onboard_time": 1706232629,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122538,
+        "num": 122538,
+        "word": "全国多地直击春运首日",
+        "onboard_time": 1706235631,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122152,
+        "num": 122152,
+        "word": "肖战路透",
+        "onboard_time": 1706195374,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 119724,
+        "word": "亚历山大绝杀库里",
+        "onboard_time": 1706233287,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116328,
+        "num": 116328,
+        "word": "迪丽热巴模仿赵昭仪东北口音",
+        "onboard_time": 1706227108,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110345,
+        "num": 110345,
+        "word": "当哥哥第一次见到妹妹",
+        "onboard_time": 1706229689,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 108748,
+        "num": 108748,
+        "word": "国产剧第一个活明白的女孩",
+        "onboard_time": 1706193213,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108267,
+        "num": 108267,
+        "word": "一诺获年度电竞运动员",
+        "onboard_time": 1706236410,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106323,
+        "num": 106323,
+        "word": "一天睡多少小时最好",
+        "onboard_time": 1706228429,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105188,
+        "num": 105188,
+        "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
+        "onboard_time": 1706236349,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神是什么#"
+    }
+  }
+}
