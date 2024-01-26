@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706254449874,
+  "endTime": 1706257238393,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1724614,
+      "num": 1724614,
+      "word": "徐娇喝到真茶了",
+      "onboard_time": 1706250690,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1722180,
       "num": 1718960,
       "word": "男生表白失败坠楼家属向多方索赔127万",
@@ -321,14 +329,6 @@
       "onboard_time": 1705975587,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1720398,
-      "num": 1595721,
-      "word": "徐娇喝到真茶了",
-      "onboard_time": 1706250690,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1700996,
@@ -545,6 +545,14 @@
       "onboard_time": 1706098711,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1448793,
+      "num": 1448793,
+      "word": "昆明动物园曾被曝猴子杀死2只猫",
+      "onboard_time": 1706255132,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1443339,
@@ -2755,6 +2763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 567794,
+      "num": 567794,
+      "word": "伊藤美诚无缘奥运单打",
+      "onboard_time": 1706255190,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567616,
       "num": 360256,
       "word": "弭金 吓到大家不好意思",
@@ -3067,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522611,
+      "num": 522611,
+      "word": "张凌赫把中道崩殂打成中道崩阻",
+      "onboard_time": 1706255911,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521680,
       "num": 521680,
       "word": "张黎称已成立新导师组",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1705847608,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496925,
+      "num": 496925,
+      "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+      "onboard_time": 1706256510,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495733,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1705928484,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453824,
+      "num": 453824,
+      "word": "汪峰工作室辟谣结婚",
+      "onboard_time": 1706254054,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 453805,
@@ -4619,6 +4659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375537,
+      "num": 191890,
+      "word": "人在冻死前为什么会脱衣服",
+      "onboard_time": 1706256871,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 375438,
       "num": 375438,
       "word": "尔滨冻梨之后又火了冻柿咖啡",
@@ -5177,14 +5225,6 @@
       "onboard_time": 1705931127,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 332171,
-      "num": 332171,
-      "word": "汪峰工作室辟谣结婚",
-      "onboard_time": 1706254054,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 331598,
@@ -6603,6 +6643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253798,
+      "num": 253798,
+      "word": "千万不要生着气入睡",
+      "onboard_time": 1706255249,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253559,
       "num": 187370,
       "word": "国产剧第一个活明白的女孩",
@@ -7195,6 +7243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 232384,
+      "num": 232384,
+      "word": "新式神鲸汐千姬",
+      "onboard_time": 1706256510,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232309,
       "num": 232309,
       "word": "小黄豆 顾茜茜",
@@ -7641,6 +7697,14 @@
       "onboard_time": 1706180314,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220937,
+      "num": 220937,
+      "word": "朱梓骁cos代号鸢左慈",
+      "onboard_time": 1706255370,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 220905,
@@ -8971,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195494,
+      "num": 195494,
+      "word": "陈楚生 请和我一起续写我们的故事",
+      "onboard_time": 1706255791,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195417,
       "num": 195417,
       "word": "LPL",
@@ -9137,6 +9209,14 @@
       "onboard_time": 1706065530,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192420,
+      "num": 192420,
+      "word": "裸睡有3个好处",
+      "onboard_time": 1706256330,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192349,
@@ -10707,6 +10787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166838,
+      "num": 166838,
+      "word": "杨紫9岁至31岁荧幕变化",
+      "onboard_time": 1706256807,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166793,
       "num": 140255,
       "word": "杨鸣和辽宁益胜解约",
@@ -10833,6 +10921,14 @@
       "onboard_time": 1705902145,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165025,
+      "num": 165025,
+      "word": "未定事件簿 火树银花明月夜",
+      "onboard_time": 1706256510,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 164921,
@@ -11499,6 +11595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154075,
+      "num": 154075,
+      "word": "平野美宇锁定奥运单打席位",
+      "onboard_time": 1706256390,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154067,
       "num": 154067,
       "word": "赵昭仪漫画",
@@ -12137,6 +12241,14 @@
       "onboard_time": 1706072193,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144194,
+      "num": 144194,
+      "word": "幻兽帕鲁5天捞金15亿",
+      "onboard_time": 1706255070,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 144190,
@@ -12963,6 +13075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133298,
+      "num": 133298,
+      "word": "迪丽热巴拍秦岚屁股",
+      "onboard_time": 1706254771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133232,
       "num": 133232,
       "word": "济南RW侠转会公告",
@@ -13145,6 +13265,14 @@
       "onboard_time": 1706009671,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130599,
+      "num": 130599,
+      "word": "夏以昼 你妹找你",
+      "onboard_time": 1706254889,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 130567,
@@ -13499,6 +13627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125963,
+      "num": 125963,
+      "word": "怎么一直抽奶牛猫左脸",
+      "onboard_time": 1706257050,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125953,
       "num": 125953,
       "word": "国脚说国足没输球没掉队",
@@ -13753,6 +13889,14 @@
       "onboard_time": 1705936829,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121191,
+      "num": 121191,
+      "word": "王新军被网友贴脸开大",
+      "onboard_time": 1706255309,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121087,
@@ -15139,6 +15283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89091,
+      "num": 1321028,
+      "word": "2024春运出站口泪目瞬间",
+      "onboard_time": 1706237969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88948,
       "num": 88948,
       "word": "你们公司还开年会吗",
@@ -15233,14 +15385,6 @@
       "onboard_time": 1705759890,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81185,
-      "num": 1089474,
-      "word": "2024春运出站口泪目瞬间",
-      "onboard_time": 1706237969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81081,
@@ -16136,6 +16280,14 @@
       "word": "萌二人教版掰竹子",
       "onboard_time": 1705953313,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12373,
+      "num": 428016,
+      "word": "被源二代安利过的特色年货",
+      "onboard_time": 1706256030,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

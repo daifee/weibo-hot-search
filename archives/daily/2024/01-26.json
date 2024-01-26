@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706254449874,
+  "endTime": 1706257238393,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1720398,
-      "num": 1595721,
+      "raw_hot": 1724614,
+      "num": 1724614,
       "word": "徐娇喝到真茶了",
       "onboard_time": 1706250690,
       "rank": 23,
@@ -81,6 +81,14 @@
       "onboard_time": 1706243313,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1448793,
+      "num": 1448793,
+      "word": "昆明动物园曾被曝猴子杀死2只猫",
+      "onboard_time": 1706255132,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1391207,
@@ -339,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 567794,
+      "num": 567794,
+      "word": "伊藤美诚无缘奥运单打",
+      "onboard_time": 1706255190,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559974,
       "num": 559974,
       "word": "金莎原以为观众会对孙丞潇很宽容",
@@ -387,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 522611,
+      "num": 522611,
+      "word": "张凌赫把中道崩殂打成中道崩阻",
+      "onboard_time": 1706255911,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520798,
       "num": 520798,
       "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
@@ -401,6 +425,14 @@
       "onboard_time": 1706246192,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496925,
+      "num": 496925,
+      "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+      "onboard_time": 1706256510,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495117,
@@ -457,6 +489,14 @@
       "onboard_time": 1706233588,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453824,
+      "num": 453824,
+      "word": "汪峰工作室辟谣结婚",
+      "onboard_time": 1706254054,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 453577,
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375537,
+      "num": 191890,
+      "word": "人在冻死前为什么会脱衣服",
+      "onboard_time": 1706256871,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 371678,
       "num": 365291,
       "word": "你认为嫁妆属于女方个人财产吗",
@@ -593,14 +641,6 @@
       "onboard_time": 1706216475,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332171,
-      "num": 332171,
-      "word": "汪峰工作室辟谣结婚",
-      "onboard_time": 1706254054,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 330969,
@@ -731,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253798,
+      "num": 253798,
+      "word": "千万不要生着气入睡",
+      "onboard_time": 1706255249,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253280,
       "num": 253280,
       "word": "于正说一次话得罪一个人",
@@ -785,6 +833,14 @@
       "onboard_time": 1706234310,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232384,
+      "num": 232384,
+      "word": "新式神鲸汐千姬",
+      "onboard_time": 1706256510,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 231589,
@@ -857,6 +913,14 @@
       "onboard_time": 1706241332,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220937,
+      "num": 220937,
+      "word": "朱梓骁cos代号鸢左慈",
+      "onboard_time": 1706255370,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 219650,
@@ -995,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195494,
+      "num": 195494,
+      "word": "陈楚生 请和我一起续写我们的故事",
+      "onboard_time": 1706255791,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192784,
       "num": 192784,
       "word": "为什么很多年轻人都抗拒相亲",
       "onboard_time": 1706231190,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192420,
+      "num": 192420,
+      "word": "裸睡有3个好处",
+      "onboard_time": 1706256330,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192349,
@@ -1203,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166838,
+      "num": 166838,
+      "word": "杨紫9岁至31岁荧幕变化",
+      "onboard_time": 1706256807,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165985,
       "num": 165985,
       "word": "澳网男单半决赛中断",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1706239651,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165025,
+      "num": 165025,
+      "word": "未定事件簿 火树银花明月夜",
+      "onboard_time": 1706256510,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 163658,
@@ -1283,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154075,
+      "num": 154075,
+      "word": "平野美宇锁定奥运单打席位",
+      "onboard_time": 1706256390,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153162,
       "num": 153162,
       "word": "车银优给文彬的生日祝福",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1706189492,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144194,
+      "num": 144194,
+      "word": "幻兽帕鲁5天捞金15亿",
+      "onboard_time": 1706255070,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 143191,
@@ -1411,12 +1523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133298,
+      "num": 133298,
+      "word": "迪丽热巴拍秦岚屁股",
+      "onboard_time": 1706254771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130841,
       "num": 130841,
       "word": "好有责任心的猫咪",
       "onboard_time": 1706241752,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130599,
+      "num": 130599,
+      "word": "夏以昼 你妹找你",
+      "onboard_time": 1706254889,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 128419,
@@ -1459,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125963,
+      "num": 125963,
+      "word": "怎么一直抽奶牛猫左脸",
+      "onboard_time": 1706257050,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124530,
       "num": 112051,
       "word": "为什么结婚后都容易变胖",
@@ -1497,6 +1633,14 @@
       "onboard_time": 1706235631,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121191,
+      "num": 121191,
+      "word": "王新军被网友贴脸开大",
+      "onboard_time": 1706255309,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 119851,
@@ -1651,20 +1795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89091,
+      "num": 1321028,
+      "word": "2024春运出站口泪目瞬间",
+      "onboard_time": 1706237969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82893,
       "num": 82893,
       "word": "汪峰女儿 那英公司",
       "onboard_time": 1706177912,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81185,
-      "num": 1089474,
-      "word": "2024春运出站口泪目瞬间",
-      "onboard_time": 1706237969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75962,
@@ -1881,6 +2025,14 @@
       "onboard_time": 1706213236,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12373,
+      "num": 428016,
+      "word": "被源二代安利过的特色年货",
+      "onboard_time": 1706256030,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
