@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706279629108,
+  "endTime": 1706282247028,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808357,
+      "num": 808357,
+      "word": "黄圣依杨子表哥直播间带货引风波",
+      "onboard_time": 1706277993,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806118,
       "num": 806118,
       "word": "许诺退役",
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710512,
+      "num": 410655,
+      "word": "警方回应黄圣依杨子表哥直播间带货风波",
+      "onboard_time": 1706280871,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709595,
       "num": 269314,
       "word": "台湾省的省会是哪个城市",
@@ -433,14 +449,6 @@
       "onboard_time": 1706276193,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662333,
-      "num": 519655,
-      "word": "黄圣依杨子表哥直播间带货引风波",
-      "onboard_time": 1706277993,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 659258,
@@ -585,6 +593,14 @@
       "onboard_time": 1706233287,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 520940,
+      "num": 520940,
+      "word": "吴昕朵拉头",
+      "onboard_time": 1706280154,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 520798,
@@ -747,6 +763,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 427350,
+      "num": 427350,
+      "word": "张卫健 我没事精神得很",
+      "onboard_time": 1706274870,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426868,
       "num": 426868,
       "word": "春运第1天",
@@ -761,6 +785,14 @@
       "onboard_time": 1706236947,
       "rank": 13,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 417284,
+      "num": 417284,
+      "word": "瓶子得子",
+      "onboard_time": 1706279851,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 412528,
@@ -899,20 +931,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367200,
-      "num": 367200,
-      "word": "张卫健 我没事精神得很",
-      "onboard_time": 1706274870,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360635,
       "num": 360635,
       "word": "世界之外没有数值策划",
       "onboard_time": 1706238331,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340913,
+      "num": 340913,
+      "word": "女子欲跳入猴山救猫被游客救下",
+      "onboard_time": 1706281173,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336418,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1706276193,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273335,
+      "num": 273335,
+      "word": "野野",
+      "onboard_time": 1706280214,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 271410,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1706262028,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197014,
+      "num": 197014,
+      "word": "入职第一天就知道这个公司来对了",
+      "onboard_time": 1706280510,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 196967,
@@ -2419,12 +2467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140642,
+      "num": 140642,
+      "word": "名侦探柯南 露营系列",
+      "onboard_time": 1706279612,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 139149,
       "num": 113913,
       "word": "花少5一场盛大的be美学",
       "onboard_time": 1706180729,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137660,
+      "num": 137660,
+      "word": "年糕才不是浙江小孩的童年噩梦",
+      "onboard_time": 1706282073,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 137235,
@@ -2561,6 +2625,14 @@
       "onboard_time": 1706258430,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127286,
+      "num": 127286,
+      "word": "LGD荣耀杯夺冠",
+      "onboard_time": 1706281951,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 126902,
@@ -2763,14 +2835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103260,
-      "num": 103260,
-      "word": "名侦探柯南 露营系列",
-      "onboard_time": 1706279612,
-      "rank": 49,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 102529,
       "num": 102529,
       "word": "中国冰淇淋在韩国爆火",
@@ -2803,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101259,
+      "num": 101259,
+      "word": "最强大脑",
+      "onboard_time": 1706282132,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100732,
       "num": 100732,
       "word": "BLG对战RNG",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1706245234,
       "rank": 14,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 97123,
+      "num": 97123,
+      "word": "钱恒成瑶 有情人修得正果",
+      "onboard_time": 1706282192,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96045,
