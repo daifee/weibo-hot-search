@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706294069387,
+  "endTime": 1706296382418,
   "band_list": [
     {
       "raw_hot": 1298306,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98615,
+      "num": 98615,
+      "word": "有没有人在乎秦海璐的死活",
+      "onboard_time": 1706291901,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96865,
       "num": 96865,
       "word": "祁煜变人鱼了",
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67333,
-      "num": 67333,
-      "word": "有没有人在乎秦海璐的死活",
-      "onboard_time": 1706291901,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58278,
       "num": 58278,
       "word": "辛芷蕾 心有猛虎细嗅蔷薇",
@@ -473,6 +473,14 @@
       "onboard_time": 1706293576,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16113,
+      "num": 16113,
+      "word": "荣耀杯S7",
+      "onboard_time": 1706284650,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 14707,

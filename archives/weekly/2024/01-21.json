@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706294069387,
+  "endTime": 1706296382418,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -16203,6 +16203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98615,
+      "num": 98615,
+      "word": "有没有人在乎秦海璐的死活",
+      "onboard_time": 1706291901,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98585,
       "num": 709799,
       "word": "特警寒冬英勇跳江救人",
@@ -16817,14 +16825,6 @@
       "onboard_time": 1705758630,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67333,
-      "num": 67333,
-      "word": "有没有人在乎秦海璐的死活",
-      "onboard_time": 1706291901,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 66638,
@@ -17529,6 +17529,14 @@
       "onboard_time": 1706234010,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16113,
+      "num": 16113,
+      "word": "荣耀杯S7",
+      "onboard_time": 1706284650,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 16003,
