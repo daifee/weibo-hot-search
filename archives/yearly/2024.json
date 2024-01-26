@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706225690700,
+  "endTime": 1706231581101,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1112,6 +1112,14 @@
       "word": "美警方称杀妻中国工程师高度残忍",
       "onboard_time": 1705743325,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2006838,
+      "num": 847945,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705542506,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1500079,
-      "num": 1434924,
-      "word": "已读乱回",
-      "onboard_time": 1704546575,
-      "rank": 19,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706225690700,
+  "endTime": 1706231581101,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -168,6 +168,14 @@
       "word": "下雪",
       "onboard_time": 1705883245,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2006838,
+      "num": 847945,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1191802,
+      "num": 1191802,
+      "word": "不要再把肉泡水里解冻了",
+      "onboard_time": 1706196572,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1188555,
       "num": 1188555,
       "word": "祖国统一台湾当归",
@@ -897,14 +913,6 @@
       "onboard_time": 1706070633,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1049006,
-      "num": 1049006,
-      "word": "不要再把肉泡水里解冻了",
-      "onboard_time": 1706196572,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1044847,
@@ -1155,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927553,
+      "num": 927553,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924804,
       "num": 453402,
       "word": "A股",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1706086769,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 847945,
-      "num": 847945,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 846094,
@@ -2251,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 608788,
+      "num": 608788,
+      "word": "苹果新增118个emoji",
+      "onboard_time": 1706227770,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 606628,
       "num": 606628,
       "word": "华西医生说九成大肠癌是它引起的",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1705887683,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 597394,
+      "num": 597394,
+      "word": "世界之外正式公测",
+      "onboard_time": 1706231190,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 597202,
@@ -2515,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565323,
+      "num": 243022,
+      "word": "台湾省的省会是哪个城市",
+      "onboard_time": 1706231190,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 565278,
       "num": 565278,
       "word": "在暴雪时分定档",
@@ -2643,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541006,
+      "num": 541006,
+      "word": "迪丽热巴告别花少",
+      "onboard_time": 1706226867,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537417,
       "num": 211660,
       "word": "南京一商场被指贴旭日旗遭网友怒斥后撤下",
@@ -2704,14 +2744,6 @@
       "word": "4名女警生无可恋式推走故障叉车",
       "onboard_time": 1705811125,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529043,
-      "num": 529043,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2841,6 +2873,14 @@
       "onboard_time": 1706180729,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510522,
+      "num": 510522,
+      "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
+      "onboard_time": 1706229930,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509800,
@@ -3547,6 +3587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 431266,
+      "num": 431266,
+      "word": "暴雪总裁今日离职",
+      "onboard_time": 1706227473,
+      "rank": 12,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 429671,
       "num": 429671,
       "word": "过年美甲",
@@ -3585,6 +3633,14 @@
       "onboard_time": 1706018614,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426868,
+      "num": 426868,
+      "word": "春运第1天",
+      "onboard_time": 1706224945,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424073,
@@ -3793,6 +3849,14 @@
       "onboard_time": 1705799726,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404712,
+      "num": 404712,
+      "word": "库里落选全明星首发",
+      "onboard_time": 1706231070,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 404043,
@@ -4667,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336418,
+      "num": 227254,
+      "word": "普通人没必要掏耳屎",
+      "onboard_time": 1706225665,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 336382,
       "num": 336382,
       "word": "上海1号线",
@@ -4681,6 +4753,14 @@
       "onboard_time": 1705841369,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334475,
+      "num": 334475,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333312,
@@ -4881,6 +4961,14 @@
       "onboard_time": 1706148268,
       "rank": 18,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 321345,
+      "num": 321345,
+      "word": "亚洲天王林俊杰",
+      "onboard_time": 1706230951,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 321056,
@@ -5347,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291614,
+      "num": 291614,
+      "word": "萌兰揉鼻子也太像个人了吧",
+      "onboard_time": 1706223743,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288863,
       "num": 288863,
       "word": "杨紫谈30岁",
@@ -5404,7 +5500,7 @@
     },
     {
       "raw_hot": 286967,
-      "num": 186137,
+      "num": 195377,
       "word": "免疫力低下的5个表现",
       "onboard_time": 1706194892,
       "rank": 22,
@@ -5592,14 +5688,6 @@
       "word": "男子公然侮辱火灾遇难学生被拘",
       "onboard_time": 1706097449,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277675,
-      "num": 277675,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -6427,6 +6515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 240647,
+      "num": 205322,
+      "word": "11月大男婴哭湿口罩后闷死",
+      "onboard_time": 1706231428,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240480,
       "num": 240480,
       "word": "文俊辉军大衣",
@@ -6803,6 +6899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226053,
+      "num": 226053,
+      "word": "一天睡多少小时最好",
+      "onboard_time": 1706228429,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225970,
       "num": 225970,
       "word": "林忆莲将复出",
@@ -6825,6 +6929,14 @@
       "onboard_time": 1705839449,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225298,
+      "num": 204661,
+      "word": "当哥哥第一次见到妹妹",
+      "onboard_time": 1706229689,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 225084,
@@ -7019,6 +7131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219262,
+      "num": 219262,
+      "word": "泡温泉会感染HPV和妇科病吗",
+      "onboard_time": 1706202084,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219115,
       "num": 193508,
       "word": "光夜 齐司礼神衹转世",
@@ -7211,14 +7331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213528,
-      "num": 213528,
-      "word": "春运第1天",
-      "onboard_time": 1706224945,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213360,
       "num": 213360,
       "word": "证监会副主席王建军采访",
@@ -7305,6 +7417,14 @@
       "onboard_time": 1705834466,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211178,
+      "num": 211178,
+      "word": "新加坡 全球最美机场",
+      "onboard_time": 1706227409,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 210964,
@@ -7475,20 +7595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207883,
-      "num": 154312,
-      "word": "泡温泉会感染HPV和妇科病吗",
-      "onboard_time": 1706202084,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207768,
       "num": 2132273,
       "word": "货车侧翻众人9小时帮忙搬运货物",
       "onboard_time": 1705917027,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207752,
+      "num": 207752,
+      "word": "詹姆斯20次入选全明星",
+      "onboard_time": 1706231070,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 207480,
@@ -7585,6 +7705,14 @@
       "onboard_time": 1705827025,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205598,
+      "num": 205598,
+      "word": "女子遭研究生同学无视追讨礼金",
+      "onboard_time": 1706231428,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205443,
@@ -7729,6 +7857,14 @@
       "onboard_time": 1705840108,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202880,
+      "num": 202880,
+      "word": "吃感冒药的5个禁忌",
+      "onboard_time": 1706231190,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202861,
@@ -8171,6 +8307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196015,
+      "num": 196015,
+      "word": "NBA全明星首发阵容",
+      "onboard_time": 1706231010,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "证监会回应近期股市波动",
@@ -8467,6 +8611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190464,
+      "num": 190464,
+      "word": "村里的猫 这城里也太惨了",
+      "onboard_time": 1706230951,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190411,
       "num": 190411,
       "word": "TWS正式出道",
@@ -8523,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189285,
+      "num": 189285,
+      "word": "空间站视角看朝霞",
+      "onboard_time": 1706231190,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189284,
       "num": 189284,
       "word": "我和妈妈买年货的区别",
@@ -8553,6 +8713,14 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188431,
+      "num": 188431,
+      "word": "云南产出了全球一半以上的夏威夷果",
+      "onboard_time": 1706228728,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 188065,
@@ -8729,6 +8897,14 @@
       "onboard_time": 1706000730,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185193,
+      "num": 185193,
+      "word": "为什么很多年轻人都抗拒相亲",
+      "onboard_time": 1706231190,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 185131,
@@ -8937,6 +9113,14 @@
       "onboard_time": 1705982791,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181820,
+      "num": 181820,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181683,
@@ -9483,6 +9667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171047,
+      "num": 171047,
+      "word": "迪丽热巴模仿赵昭仪东北口音",
+      "onboard_time": 1706227108,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171014,
       "num": 171014,
       "word": "Twins演唱会",
@@ -9939,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163658,
+      "num": 163658,
+      "word": "亚洲杯16强出炉",
+      "onboard_time": 1706229331,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163592,
       "num": 163592,
       "word": "放假后就成了德华",
@@ -9961,6 +10161,14 @@
       "onboard_time": 1705846828,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163218,
+      "num": 163218,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163150,
@@ -10451,14 +10659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154475,
-      "num": 154475,
-      "word": "萌兰揉鼻子也太像个人了吧",
-      "onboard_time": 1706223743,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154314,
       "num": 154314,
       "word": "县城高中是否再难出清北生",
@@ -10859,14 +11059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147855,
-      "num": 147855,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147708,
       "num": 147708,
       "word": "朴灿烈右腿受伤",
@@ -11057,6 +11249,14 @@
       "onboard_time": 1706069192,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145055,
+      "num": 145055,
+      "word": "马斯克身价一夜减少180亿美元",
+      "onboard_time": 1706230711,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 144908,
@@ -11785,6 +11985,14 @@
       "onboard_time": 1705930046,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134184,
+      "num": 134184,
+      "word": "科比去世四周年",
+      "onboard_time": 1706226506,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134115,
@@ -12528,6 +12736,14 @@
       "word": "南方人自制冻梨翻车",
       "onboard_time": 1706055449,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123094,
+      "num": 123094,
+      "word": "非遗簪花有多美",
+      "onboard_time": 1706228670,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13955,14 +14171,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 87761,
-      "num": 87761,
-      "word": "普通人没必要掏耳屎",
-      "onboard_time": 1706225665,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87265,
       "num": 87265,
       "word": "世界之外七日任务",
@@ -14267,6 +14475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66264,
+      "num": 961608,
+      "word": "2024春运出行指南",
+      "onboard_time": 1706191655,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65869,
       "num": 926617,
       "word": "100秒致敬珠峰边境派出所戍边人",
@@ -14321,14 +14537,6 @@
       "onboard_time": 1706224703,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 60637,
-      "num": 60637,
-      "word": "巴黎街头中国簪花女孩惊艳外国人",
-      "onboard_time": 1706206521,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59707,
@@ -14593,14 +14801,6 @@
       "onboard_time": 1706030122,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41519,
-      "num": 628237,
-      "word": "2024春运出行指南",
-      "onboard_time": 1706191655,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40840,

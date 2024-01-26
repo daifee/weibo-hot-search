@@ -1,7 +1,15 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706225690700,
+  "endTime": 1706231581101,
   "band_list": [
+    {
+      "raw_hot": 2006838,
+      "num": 847945,
+      "word": "你愿意工资减少换退休金吗",
+      "onboard_time": 1706216775,
+      "rank": 39,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1622115,
       "num": 1622115,
@@ -9,6 +17,14 @@
       "onboard_time": 1706183971,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1191802,
+      "num": 1191802,
+      "word": "不要再把肉泡水里解冻了",
+      "onboard_time": 1706196572,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1188555,
@@ -19,14 +35,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1049006,
-      "num": 1049006,
-      "word": "不要再把肉泡水里解冻了",
-      "onboard_time": 1706196572,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 974061,
       "num": 974061,
       "word": "科学家警告小心北极僵尸病毒",
@@ -35,11 +43,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 847945,
-      "num": 847945,
-      "word": "你愿意工资减少换退休金吗",
-      "onboard_time": 1706216775,
-      "rank": 39,
+      "raw_hot": 927553,
+      "num": 927553,
+      "word": "女子列车吧唧嘴3小时大爷崩溃",
+      "onboard_time": 1706212396,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,12 +83,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600453,
-      "num": 600453,
+      "raw_hot": 626027,
+      "num": 626027,
       "word": "减重100斤的贾玲惊呆潘斌龙",
       "onboard_time": 1706191595,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 608788,
+      "num": 608788,
+      "word": "苹果新增118个emoji",
+      "onboard_time": 1706227770,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 597394,
+      "num": 597394,
+      "word": "世界之外正式公测",
+      "onboard_time": 1706231190,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 565323,
+      "num": 243022,
+      "word": "台湾省的省会是哪个城市",
+      "onboard_time": 1706231190,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 546318,
@@ -91,11 +123,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529043,
-      "num": 529043,
-      "word": "女子列车吧唧嘴3小时大爷崩溃",
-      "onboard_time": 1706212396,
-      "rank": 12,
+      "raw_hot": 541006,
+      "num": 541006,
+      "word": "迪丽热巴告别花少",
+      "onboard_time": 1706226867,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 510522,
+      "num": 510522,
+      "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
+      "onboard_time": 1706229930,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -115,12 +155,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431266,
+      "num": 431266,
+      "word": "暴雪总裁今日离职",
+      "onboard_time": 1706227473,
+      "rank": 12,
+      "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 426868,
+      "num": 426868,
+      "word": "春运第1天",
+      "onboard_time": 1706224945,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404712,
+      "num": 404712,
+      "word": "库里落选全明星首发",
+      "onboard_time": 1706231070,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
       "onboard_time": 1706195374,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336418,
+      "num": 227254,
+      "word": "普通人没必要掏耳屎",
+      "onboard_time": 1706225665,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 334475,
+      "num": 334475,
+      "word": "逃犯加入日本国籍后回国就被抓",
+      "onboard_time": 1706216475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330969,
@@ -131,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321345,
+      "num": 321345,
+      "word": "亚洲天王林俊杰",
+      "onboard_time": 1706230951,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303904,
       "num": 303904,
       "word": "爱情公寓3的发布会",
       "onboard_time": 1706175991,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291614,
+      "num": 291614,
+      "word": "萌兰揉鼻子也太像个人了吧",
+      "onboard_time": 1706223743,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278753,
@@ -147,16 +243,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277675,
-      "num": 277675,
-      "word": "逃犯加入日本国籍后回国就被抓",
-      "onboard_time": 1706216475,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266177,
-      "num": 185290,
+      "num": 195377,
       "word": "免疫力低下的5个表现",
       "onboard_time": 1706194892,
       "rank": 20,
@@ -179,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240647,
+      "num": 205322,
+      "word": "11月大男婴哭湿口罩后闷死",
+      "onboard_time": 1706231428,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238941,
       "num": 238941,
       "word": "俞敏洪回应董宇辉新号分流",
@@ -187,12 +283,36 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 213528,
-      "num": 213528,
-      "word": "春运第1天",
-      "onboard_time": 1706224945,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 226053,
+      "num": 226053,
+      "word": "一天睡多少小时最好",
+      "onboard_time": 1706228429,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 225298,
+      "num": 204661,
+      "word": "当哥哥第一次见到妹妹",
+      "onboard_time": 1706229689,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 219262,
+      "num": 219262,
+      "word": "泡温泉会感染HPV和妇科病吗",
+      "onboard_time": 1706202084,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211178,
+      "num": 211178,
+      "word": "新加坡 全球最美机场",
+      "onboard_time": 1706227409,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 209923,
@@ -203,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207883,
-      "num": 154312,
-      "word": "泡温泉会感染HPV和妇科病吗",
-      "onboard_time": 1706202084,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 207752,
+      "num": 207752,
+      "word": "詹姆斯20次入选全明星",
+      "onboard_time": 1706231070,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 206599,
@@ -217,6 +337,70 @@
       "onboard_time": 1706180193,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205598,
+      "num": 205598,
+      "word": "女子遭研究生同学无视追讨礼金",
+      "onboard_time": 1706231428,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202880,
+      "num": 202880,
+      "word": "吃感冒药的5个禁忌",
+      "onboard_time": 1706231190,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196015,
+      "num": 196015,
+      "word": "NBA全明星首发阵容",
+      "onboard_time": 1706231010,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190464,
+      "num": 190464,
+      "word": "村里的猫 这城里也太惨了",
+      "onboard_time": 1706230951,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 189285,
+      "num": 189285,
+      "word": "空间站视角看朝霞",
+      "onboard_time": 1706231190,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188431,
+      "num": 188431,
+      "word": "云南产出了全球一半以上的夏威夷果",
+      "onboard_time": 1706228728,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 185193,
+      "num": 185193,
+      "word": "为什么很多年轻人都抗拒相亲",
+      "onboard_time": 1706231190,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181820,
+      "num": 181820,
+      "word": "女子发现丈夫犯罪起诉离婚被驳",
+      "onboard_time": 1706216956,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173219,
@@ -235,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171047,
+      "num": 171047,
+      "word": "迪丽热巴模仿赵昭仪东北口音",
+      "onboard_time": 1706227108,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170222,
       "num": 136629,
       "word": "杨紫演技",
@@ -248,6 +440,22 @@
       "word": "女子强行试衣服扯破后拒赔",
       "onboard_time": 1706217796,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163658,
+      "num": 163658,
+      "word": "亚洲杯16强出炉",
+      "onboard_time": 1706229331,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163218,
+      "num": 163218,
+      "word": "巴黎街头中国簪花女孩惊艳外国人",
+      "onboard_time": 1706206521,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -267,20 +475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154475,
-      "num": 154475,
-      "word": "萌兰揉鼻子也太像个人了吧",
-      "onboard_time": 1706223743,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147855,
-      "num": 147855,
-      "word": "女子发现丈夫犯罪起诉离婚被驳",
-      "onboard_time": 1706216956,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 145055,
+      "num": 145055,
+      "word": "马斯克身价一夜减少180亿美元",
+      "onboard_time": 1706230711,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 144223,
@@ -296,6 +496,14 @@
       "word": "秦海璐回复王新军",
       "onboard_time": 1706183790,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140193,
+      "num": 140193,
+      "word": "国产剧第一个活明白的女孩",
+      "onboard_time": 1706193213,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -315,20 +523,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135824,
-      "num": 110287,
-      "word": "国产剧第一个活明白的女孩",
-      "onboard_time": 1706193213,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135711,
       "num": 135711,
       "word": "宝爸辞职做自媒体有多心酸",
       "onboard_time": 1706186556,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134184,
+      "num": 134184,
+      "word": "科比去世四周年",
+      "onboard_time": 1706226506,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 126902,
@@ -353,6 +561,14 @@
       "onboard_time": 1706169751,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123094,
+      "num": 123094,
+      "word": "非遗簪花有多美",
+      "onboard_time": 1706228670,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119851,
@@ -435,14 +651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 87761,
-      "num": 87761,
-      "word": "普通人没必要掏耳屎",
-      "onboard_time": 1706225665,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 82893,
       "num": 82893,
       "word": "汪峰女儿 那英公司",
@@ -499,6 +707,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 66264,
+      "num": 961608,
+      "word": "2024春运出行指南",
+      "onboard_time": 1706191655,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64278,
       "num": 67859,
       "word": "被黄执中这段辩论震撼到了",
@@ -513,14 +729,6 @@
       "onboard_time": 1706224703,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 60637,
-      "num": 60637,
-      "word": "巴黎街头中国簪花女孩惊艳外国人",
-      "onboard_time": 1706206521,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57750,
@@ -593,14 +801,6 @@
       "onboard_time": 1706206700,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 32048,
-      "num": 628237,
-      "word": "2024春运出行指南",
-      "onboard_time": 1706191655,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29337,
