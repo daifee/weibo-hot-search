@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706247285013,
+  "endTime": 1706250136153,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -24,6 +24,22 @@
       "word": "你愿意工资减少换退休金吗",
       "onboard_time": 1706216775,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1920409,
+      "num": 1920409,
+      "word": "徐娇赵晴微信都没有",
+      "onboard_time": 1706247152,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1872428,
+      "num": 1872428,
+      "word": "重庆12秒不雅视频案雷政富出狱",
+      "onboard_time": 1706246314,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039351,
+      "num": 1039351,
+      "word": "虞书欣工作室致歉",
+      "onboard_time": 1706249192,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025253,
       "num": 1025253,
       "word": "根管治疗或被一种化合物替代",
@@ -136,14 +160,6 @@
       "word": "女子列车吧唧嘴3小时大爷崩溃",
       "onboard_time": 1706212396,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 895303,
-      "num": 895303,
-      "word": "重庆12秒不雅视频案雷政富出狱",
-      "onboard_time": 1706246314,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -211,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683285,
+      "num": 683285,
+      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+      "onboard_time": 1706245592,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674178,
       "num": 674178,
       "word": "徐娇 让人瘦到85是有多歹毒",
       "onboard_time": 1706184993,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 667254,
+      "num": 667254,
+      "word": "大学生兼职两小时连吃五只鸡",
+      "onboard_time": 1706247930,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659258,
@@ -273,6 +305,14 @@
       "onboard_time": 1706242594,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558376,
+      "num": 558376,
+      "word": "专家称农村大量房子只造不住",
+      "onboard_time": 1706245893,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546318,
@@ -443,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396095,
+      "num": 396095,
+      "word": "洗剪吹为什么越来越贵",
+      "onboard_time": 1706248831,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 390484,
       "num": 390484,
       "word": "江西新余大火遇难者亲友发声",
@@ -483,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 346727,
-      "num": 346727,
-      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
-      "onboard_time": 1706245592,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336418,
       "num": 251940,
       "word": "普通人没必要掏耳屎",
@@ -529,14 +569,6 @@
       "onboard_time": 1706230951,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 314150,
-      "num": 314150,
-      "word": "徐娇赵晴微信都没有",
-      "onboard_time": 1706247152,
-      "rank": 22,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 309319,
@@ -587,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282900,
-      "num": 282900,
-      "word": "专家称农村大量房子只造不住",
-      "onboard_time": 1706245893,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278753,
       "num": 224866,
       "word": "张婧仪路透",
@@ -633,6 +657,22 @@
       "onboard_time": 1706246793,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250952,
+      "num": 250952,
+      "word": "辛芷蕾让迪丽热巴别哒哒了",
+      "onboard_time": 1706247753,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248309,
+      "num": 248309,
+      "word": "中成药 陷阱",
+      "onboard_time": 1706248472,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244829,
@@ -721,6 +761,14 @@
       "onboard_time": 1706241332,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219650,
+      "num": 219650,
+      "word": "杨紫道明寺这个梗过不去了",
+      "onboard_time": 1706248712,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 219262,
@@ -819,12 +867,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196967,
+      "num": 196967,
+      "word": "章昊个人首封",
+      "onboard_time": 1706249611,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196015,
       "num": 196015,
       "word": "NBA全明星首发阵容",
       "onboard_time": 1706231010,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195617,
+      "num": 195617,
+      "word": "中国公民在美国被泼化学液体严重受伤",
+      "onboard_time": 1706247573,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192784,
@@ -849,6 +913,14 @@
       "onboard_time": 1706231190,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189034,
+      "num": 189034,
+      "word": "国王vs勇士",
+      "onboard_time": 1706248890,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 188668,
@@ -881,6 +953,14 @@
       "onboard_time": 1706193213,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185420,
+      "num": 185420,
+      "word": "女生上岗首日只顾炫鸡急坏主播",
+      "onboard_time": 1706247930,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182108,
@@ -995,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162848,
+      "num": 162848,
+      "word": "澳网男单半决赛中断",
+      "onboard_time": 1706249611,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160695,
       "num": 115805,
       "word": "韩国人防猝死套餐靠谱吗",
@@ -1009,6 +1097,14 @@
       "onboard_time": 1706234548,
       "rank": 30,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 159310,
+      "num": 159310,
+      "word": "肖顺尧你是天生不爱笑吗",
+      "onboard_time": 1706249491,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 158665,
@@ -1027,20 +1123,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155284,
+      "num": 155284,
+      "word": "辛芷蕾把自己锁厕所了",
+      "onboard_time": 1706247092,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153162,
       "num": 153162,
       "word": "车银优给文彬的生日祝福",
       "onboard_time": 1706232629,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152579,
-      "num": 127927,
-      "word": "辛芷蕾把自己锁厕所了",
-      "onboard_time": 1706247092,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 151766,
@@ -1065,6 +1161,14 @@
       "onboard_time": 1706235749,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149543,
+      "num": 149543,
+      "word": "专家称中国退休年龄全球偏低",
+      "onboard_time": 1706250031,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149130,
@@ -1123,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137110,
+      "num": 137110,
+      "word": "酷洛米稀缺装扮",
+      "onboard_time": 1706248593,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137069,
       "num": 137069,
       "word": "多干一秒都是对我工资的不尊重",
@@ -1137,6 +1249,14 @@
       "onboard_time": 1706186556,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134983,
+      "num": 134983,
+      "word": "绘旅人送SSR",
+      "onboard_time": 1706249312,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 134184,
@@ -1180,7 +1300,7 @@
     },
     {
       "raw_hot": 123319,
-      "num": 127989,
+      "num": 186664,
       "word": "郑钦文的郑在进行时",
       "onboard_time": 1706247152,
       "rank": 48,
@@ -1332,7 +1452,7 @@
     },
     {
       "raw_hot": 89950,
-      "num": 1268800,
+      "num": 1876738,
       "word": "运20首飞成功11年",
       "onboard_time": 1706238209,
       "rank": 2,
@@ -1403,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65587,
+      "num": 253636,
+      "word": "恋与深空茶叶蛋派对",
+      "onboard_time": 1706247152,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64278,
       "num": 67859,
       "word": "被黄执中这段辩论震撼到了",
@@ -1449,14 +1577,6 @@
       "onboard_time": 1706225484,
       "rank": 44,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 52864,
-      "num": 161704,
-      "word": "恋与深空茶叶蛋派对",
-      "onboard_time": 1706247152,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 50769,

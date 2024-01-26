@@ -1,0 +1,410 @@
+{
+  "runTime": 1706250136153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2102961,
+        "num": 2102961,
+        "word": "交警通报虞书欣司机高速倒车",
+        "onboard_time": 1706245294,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1920409,
+        "num": 1920409,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36962,
+        "num": 1876738,
+        "word": "运20首飞成功11年",
+        "onboard_time": 1706238209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1872428,
+        "num": 1872428,
+        "word": "重庆12秒不雅视频案雷政富出狱",
+        "onboard_time": 1706246314,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306575,
+        "num": 1306575,
+        "word": "猴子虐猫",
+        "onboard_time": 1706241390,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039351,
+        "num": 1039351,
+        "word": "虞书欣工作室致歉",
+        "onboard_time": 1706249192,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683285,
+        "num": 683285,
+        "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+        "onboard_time": 1706245592,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667254,
+        "num": 667254,
+        "word": "大学生兼职两小时连吃五只鸡",
+        "onboard_time": 1706247930,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558376,
+        "num": 558376,
+        "word": "专家称农村大量房子只造不住",
+        "onboard_time": 1706245893,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516004,
+        "num": 516004,
+        "word": "2023媒体反感艺人TOP3",
+        "onboard_time": 1706242894,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737235,
+        "num": 513120,
+        "word": "曝95生当着媒体在室内抽烟",
+        "onboard_time": 1706243313,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451479,
+        "num": 451479,
+        "word": "虞书欣司机还存在其他交通违法行为",
+        "onboard_time": 1706246133,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435342,
+        "num": 435342,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424479,
+        "num": 424479,
+        "word": "未定事件簿 古婚",
+        "onboard_time": 1706238331,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396095,
+        "num": 396095,
+        "word": "洗剪吹为什么越来越贵",
+        "onboard_time": 1706248831,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 339785,
+        "num": 339785,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333553,
+        "num": 333553,
+        "word": "于正回应",
+        "onboard_time": 1706242954,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331741,
+        "num": 331741,
+        "word": "陈建斌回应网友二创甄嬛传",
+        "onboard_time": 1706243075,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328872,
+        "num": 328872,
+        "word": "迪丽热巴王安宇互相吓唬",
+        "onboard_time": 1706246192,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259900,
+        "num": 259900,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350810,
+        "num": 256146,
+        "word": "结婚为什么需要这么多被子",
+        "onboard_time": 1706243133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65587,
+        "num": 253636,
+        "word": "恋与深空茶叶蛋派对",
+        "onboard_time": 1706247152,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251821,
+        "num": 251821,
+        "word": "谁家大学生房间里有三室一厅啊",
+        "onboard_time": 1706240490,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250952,
+        "num": 250952,
+        "word": "辛芷蕾让迪丽热巴别哒哒了",
+        "onboard_time": 1706247753,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248309,
+        "num": 248309,
+        "word": "中成药 陷阱",
+        "onboard_time": 1706248472,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230930,
+        "num": 230930,
+        "word": "大张伟 贾仙女让我做首健身时打气的歌",
+        "onboard_time": 1706240614,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229445,
+        "num": 229445,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219650,
+        "num": 219650,
+        "word": "杨紫道明寺这个梗过不去了",
+        "onboard_time": 1706248712,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199827,
+        "num": 199827,
+        "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
+        "onboard_time": 1706236349,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196967,
+        "num": 196967,
+        "word": "章昊个人首封",
+        "onboard_time": 1706249611,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195617,
+        "num": 195617,
+        "word": "中国公民在美国被泼化学液体严重受伤",
+        "onboard_time": 1706247573,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191023,
+        "num": 191023,
+        "word": "于正说一次话得罪一个人",
+        "onboard_time": 1706246793,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189034,
+        "num": 189034,
+        "word": "国王vs勇士",
+        "onboard_time": 1706248890,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88374,
+        "num": 186664,
+        "word": "郑钦文的郑在进行时",
+        "onboard_time": 1706247152,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185420,
+        "num": 185420,
+        "word": "女生上岗首日只顾炫鸡急坏主播",
+        "onboard_time": 1706247930,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177920,
+        "num": 177920,
+        "word": "C罗中国行延期至8月",
+        "onboard_time": 1706246973,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174965,
+        "num": 174965,
+        "word": "昆明动物园通报猴猫共处",
+        "onboard_time": 1706238331,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174627,
+        "num": 174627,
+        "word": "金莎原以为观众会对孙丞潇很宽容",
+        "onboard_time": 1706242594,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166366,
+        "num": 166366,
+        "word": "眠狼",
+        "onboard_time": 1706236947,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 164854,
+        "num": 164854,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162848,
+        "num": 162848,
+        "word": "澳网男单半决赛中断",
+        "onboard_time": 1706249611,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159310,
+        "num": 159310,
+        "word": "肖顺尧你是天生不爱笑吗",
+        "onboard_time": 1706249491,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158502,
+        "num": 158502,
+        "word": "装扮了男朋友买的新车",
+        "onboard_time": 1706244577,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155284,
+        "num": 155284,
+        "word": "辛芷蕾把自己锁厕所了",
+        "onboard_time": 1706247092,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "专家称中国退休年龄全球偏低",
+        "onboard_time": 1706250031,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141122,
+        "num": 141122,
+        "word": "德约科维奇被破发",
+        "onboard_time": 1706244271,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137110,
+        "num": 137110,
+        "word": "酷洛米稀缺装扮",
+        "onboard_time": 1706248593,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134983,
+        "num": 134983,
+        "word": "绘旅人送SSR",
+        "onboard_time": 1706249312,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134781,
+        "num": 134781,
+        "word": "英雄联盟手游",
+        "onboard_time": 1706242170,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132765,
+        "num": 132765,
+        "word": "你认为嫁妆属于女方个人财产吗",
+        "onboard_time": 1706239412,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法合作既有高精尖也能接地气#"
+    }
+  }
+}
