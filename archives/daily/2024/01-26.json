@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706275124362,
+  "endTime": 1706276042751,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1184441,
+      "num": 449667,
+      "word": "11岁男生多次遭班主任羞辱跳楼自杀",
+      "onboard_time": 1706273372,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1154772,
       "num": 1154772,
       "word": "11月大男婴哭湿口罩后闷死",
@@ -161,6 +169,14 @@
       "onboard_time": 1706256871,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1111713,
+      "num": 1111713,
+      "word": "大理地震",
+      "onboard_time": 1706273672,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1025253,
@@ -211,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 947302,
-      "num": 947302,
-      "word": "大理地震",
-      "onboard_time": 1706273672,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 930365,
+      "num": 930365,
+      "word": "曝95后待爆男艺人要求删cp互动画面",
+      "onboard_time": 1706272410,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 927553,
@@ -265,14 +281,6 @@
       "onboard_time": 1706240490,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 824644,
-      "num": 446192,
-      "word": "11岁男生多次遭班主任羞辱跳楼自杀",
-      "onboard_time": 1706273372,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 820978,
@@ -329,14 +337,6 @@
       "onboard_time": 1706236050,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 748097,
-      "num": 748097,
-      "word": "曝95后待爆男艺人要求删cp互动画面",
-      "onboard_time": 1706272410,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 727544,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 561205,
-      "num": 519017,
+      "num": 533968,
       "word": "王一博修改豆瓣简介",
       "onboard_time": 1706270489,
       "rank": 7,
@@ -627,6 +627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 474666,
+      "num": 474666,
+      "word": "杀害4岁女童的男孩正接受矫治教育",
+      "onboard_time": 1706273070,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465980,
       "num": 465980,
       "word": "丫丫脸蛋子嘟噜了",
@@ -657,14 +665,6 @@
       "onboard_time": 1706265208,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458861,
-      "num": 458861,
-      "word": "杀害4岁女童的男孩正接受矫治教育",
-      "onboard_time": 1706273070,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453824,
@@ -715,6 +715,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 412528,
+      "num": 412528,
+      "word": "宋佳 老公是一种态度",
+      "onboard_time": 1706272169,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 412336,
       "num": 412336,
       "word": "蜘蛛夫人内地定档",
@@ -737,14 +745,6 @@
       "onboard_time": 1706264969,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404304,
-      "num": 404304,
-      "word": "宋佳 老公是一种态度",
-      "onboard_time": 1706272169,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 402662,
@@ -1027,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287101,
+      "num": 287101,
+      "word": "MAC口红广告疑擦边惹争议",
+      "onboard_time": 1706275353,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286797,
       "num": 286797,
       "word": "恋与深空首周流水超1.5亿",
@@ -1219,6 +1227,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 238837,
+      "num": 238837,
+      "word": "京城大师赛",
+      "onboard_time": 1706275413,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234721,
       "num": 234721,
       "word": "未定事件簿仙侠PV",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1706267249,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233395,
+      "num": 170034,
+      "word": "张卫健 我没事精神得很",
+      "onboard_time": 1706274870,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 233003,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1706267791,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206950,
+      "num": 206950,
+      "word": "女子烫头烫了个炸裂生肖龙头",
+      "onboard_time": 1706273128,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206599,
@@ -1707,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184926,
-      "num": 184926,
-      "word": "女子烫头烫了个炸裂生肖龙头",
-      "onboard_time": 1706273128,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184593,
       "num": 184593,
       "word": "王安宇每一顿揍都不是白挨的",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1706230711,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 173236,
+      "num": 173236,
+      "word": "王鹤棣新加坡到达路透",
+      "onboard_time": 1706275114,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 173219,
@@ -2003,6 +2035,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 160026,
+      "num": 160026,
+      "word": "蒋翼归国白月光",
+      "onboard_time": 1706274870,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159310,
       "num": 159310,
       "word": "肖顺尧你是天生不爱笑吗",
@@ -2025,14 +2065,6 @@
       "onboard_time": 1706240310,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156236,
-      "num": 156236,
-      "word": "张卫健 我没事精神得很",
-      "onboard_time": 1706274870,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 155882,
@@ -2267,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138051,
+      "num": 138051,
+      "word": "爱国不是生意不是流量",
+      "onboard_time": 1706275773,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137235,
       "num": 917395,
       "word": "雪夜教科书式救人的女司机找到了",
@@ -2329,6 +2369,14 @@
       "onboard_time": 1706226506,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133930,
+      "num": 133930,
+      "word": "每天一筐砂糖橘身体会发生这种变化",
+      "onboard_time": 1706275052,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130841,
@@ -2547,6 +2595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108755,
+      "num": 108755,
+      "word": "胡先煦王安宇真冤种兄弟",
+      "onboard_time": 1706275710,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108267,
       "num": 108267,
       "word": "一诺获年度电竞运动员",
@@ -2571,14 +2627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105809,
-      "num": 105809,
-      "word": "蒋翼归国白月光",
-      "onboard_time": 1706274870,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102529,
       "num": 102529,
       "word": "中国冰淇淋在韩国爆火",
@@ -2587,20 +2635,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 102367,
-      "num": 102367,
-      "word": "每天一筐砂糖橘身体会发生这种变化",
-      "onboard_time": 1706275052,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102151,
       "num": 102151,
       "word": "当演员看到镜子里的自己",
       "onboard_time": 1706240072,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101598,
+      "num": 101598,
+      "word": "星穹铁道兑换码",
+      "onboard_time": 1706275889,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 100732,
@@ -2633,14 +2681,6 @@
       "onboard_time": 1706245234,
       "rank": 14,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 99153,
-      "num": 99153,
-      "word": "王鹤棣新加坡到达路透",
-      "onboard_time": 1706275114,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 96045,
@@ -2931,20 +2971,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16265,
+      "num": 1291561,
+      "word": "上百列复兴号震撼集结画面",
+      "onboard_time": 1706234010,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15995,
       "num": 15995,
       "word": "仙剑四",
       "onboard_time": 1706213236,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15397,
-      "num": 1240265,
-      "word": "上百列复兴号震撼集结画面",
-      "onboard_time": 1706234010,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
