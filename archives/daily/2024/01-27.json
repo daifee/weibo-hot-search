@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706286085016,
+  "endTime": 1706286959960,
   "band_list": [
     {
       "raw_hot": 1298306,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 565641,
-      "num": 307493,
+      "num": 340327,
       "word": "11岁男生多次遭班主任羞辱跳楼自杀",
       "onboard_time": 1706273372,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456402,
+      "num": 456402,
+      "word": "唐山警方通报一男子当街捅人",
+      "onboard_time": 1706285129,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390195,
+      "num": 390195,
+      "word": "张卫健 我没事精神得很",
+      "onboard_time": 1706274870,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 372654,
       "num": 372654,
       "word": "人在冻死前为什么会脱衣服",
@@ -83,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327877,
-      "num": 327877,
-      "word": "张卫健 我没事精神得很",
-      "onboard_time": 1706274870,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 308643,
       "num": 308643,
       "word": "迪丽热巴造型师换成了金鹤龙",
@@ -105,6 +113,14 @@
       "onboard_time": 1706250690,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280736,
+      "num": 280736,
+      "word": "欧阳娜娜虞书欣为欧阳娣娣打call",
+      "onboard_time": 1706284951,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 278890,
@@ -123,20 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263224,
-      "num": 263224,
-      "word": "欧阳娜娜虞书欣为欧阳娣娣打call",
-      "onboard_time": 1706284951,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242948,
       "num": 242948,
       "word": "曝檀健次红前红后一个样",
       "onboard_time": 1706271270,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224812,
+      "num": 189158,
+      "word": "爸妈听说我除夕不放假时",
+      "onboard_time": 1706283271,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 221266,
@@ -147,28 +163,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207177,
-      "num": 189158,
-      "word": "爸妈听说我除夕不放假时",
-      "onboard_time": 1706283271,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203987,
       "num": 203987,
       "word": "ENHYPEN跳科目三",
       "onboard_time": 1706277993,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202216,
-      "num": 202216,
-      "word": "唐山警方通报一男子当街捅人",
-      "onboard_time": 1706285129,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193530,
@@ -227,7 +227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140610,
+      "raw_hot": 142342,
       "num": 131318,
       "word": "巴黎时装周 瓷娃娃秀场",
       "onboard_time": 1706283451,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103980,
+      "num": 103980,
+      "word": "看起来前凸后翘其实是骨盆前倾",
+      "onboard_time": 1706286329,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102291,
       "num": 102291,
       "word": "宋亚轩一下岛就发微博了",
@@ -305,6 +313,14 @@
       "onboard_time": 1706271628,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101997,
+      "num": 101997,
+      "word": "善待动物组织关注幻兽帕鲁",
+      "onboard_time": 1706285550,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 96865,
@@ -331,6 +347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92758,
+      "num": 92758,
+      "word": "张卫健回应空中彩排意外坠地",
+      "onboard_time": 1706286387,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92138,
       "num": 92138,
       "word": "昆明动物园计划将猫移出猴山",
@@ -355,16 +379,8 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 83942,
-      "num": 83942,
-      "word": "善待动物组织关注幻兽帕鲁",
-      "onboard_time": 1706285550,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 80229,
-      "num": 80229,
+      "raw_hot": 83825,
+      "num": 83825,
       "word": "昆明动物园",
       "onboard_time": 1706257471,
       "rank": 46,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#加快推动城市治理体系和治理能力现代化#"
+    },
+    {
+      "word": "#总书记心系文旅发展#"
     }
   ]
 }
