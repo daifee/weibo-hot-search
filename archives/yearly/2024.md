@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/26 19:14:12
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/26 19:33:58
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ C罗向中国球迷道歉（热度：2416354）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E6%9C%AA%E6%BB%A112%E5%B2%81%E7%94%B7%E5%AD%A9%E6%9D%80%E5%AE%B34%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%A1%88%E6%92%A4%E6%A1%88%23" target="weibo">
+湖北未满12岁男孩杀害4岁女童案撤案（热度：2002346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E5%BA%97%20%E6%9D%80%E7%86%9F%23" target="weibo">
 美甲店 杀熟（热度：1990762）
 </a>
@@ -1229,12 +1235,6 @@ iPhone15价格跌至史上最低（热度：1922878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%20%E6%8A%84%E8%A2%AD%23" target="weibo">
 哈佛大学校长 抄袭（热度：1777446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E6%9C%AA%E6%BB%A112%E5%B2%81%E7%94%B7%E5%AD%A9%E6%9D%80%E5%AE%B34%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%A1%88%E6%92%A4%E6%A1%88%23" target="weibo">
-湖北未满12岁男孩杀害4岁女童案撤案（热度：1770696）
 </a>
 </li>
 
