@@ -1,0 +1,410 @@
+{
+  "runTime": 1706240083985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391207,
+        "num": 1391207,
+        "word": "未定事件簿 古婚",
+        "onboard_time": 1706238331,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 970125,
+        "num": 970125,
+        "word": "女子遭研究生同学无视追讨礼金",
+        "onboard_time": 1706231428,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57117,
+        "num": 857953,
+        "word": "运20首飞成功11年",
+        "onboard_time": 1706238209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811619,
+        "num": 811619,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768525,
+        "num": 768525,
+        "word": "落马女局长跑步机里藏价值666万黄金",
+        "onboard_time": 1706237189,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751270,
+        "num": 751270,
+        "word": "根管治疗或被一种化合物替代",
+        "onboard_time": 1706233287,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 750898,
+        "num": 750898,
+        "word": "辛芷蕾发了和花少团每个人的合照",
+        "onboard_time": 1706236050,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714589,
+        "num": 714589,
+        "word": "3元以下饮料仅剩10%",
+        "onboard_time": 1706231670,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687902,
+        "num": 687902,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 623319,
+        "num": 623319,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 609080,
+        "num": 609080,
+        "word": "村支书满脸通红被质疑上班醉酒",
+        "onboard_time": 1706235450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485432,
+        "num": 485432,
+        "word": "不要再把肉泡水里解冻了",
+        "onboard_time": 1706196572,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 463042,
+        "num": 463042,
+        "word": "昆明动物园通报猴猫共处",
+        "onboard_time": 1706238331,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411925,
+        "num": 411925,
+        "word": "热辣滚烫全员热辣舞",
+        "onboard_time": 1706237010,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385922,
+        "num": 385922,
+        "word": "肖战GQ封面预告",
+        "onboard_time": 1706235689,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376080,
+        "num": 376080,
+        "word": "蜘蛛夫人内地定档",
+        "onboard_time": 1706235927,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368114,
+        "num": 368114,
+        "word": "眠狼",
+        "onboard_time": 1706236947,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 347837,
+        "num": 347837,
+        "word": "祖国统一台湾当归",
+        "onboard_time": 1706194594,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327227,
+        "num": 327227,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297784,
+        "num": 297784,
+        "word": "徐娇 让人瘦到85是有多歹毒",
+        "onboard_time": 1706184993,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486619,
+        "num": 296582,
+        "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
+        "onboard_time": 1706236349,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294508,
+        "num": 294508,
+        "word": "世界之外没有数值策划",
+        "onboard_time": 1706238331,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288248,
+        "num": 288248,
+        "word": "丫丫脸蛋子嘟噜了",
+        "onboard_time": 1706233588,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286118,
+        "num": 286118,
+        "word": "俞敏洪回应为何留用孙东旭",
+        "onboard_time": 1706238929,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270825,
+        "num": 270825,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227750,
+        "num": 227750,
+        "word": "马斯克称愿向中国车企授权技术",
+        "onboard_time": 1706233470,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223151,
+        "num": 223151,
+        "word": "迪丽热巴告别花少",
+        "onboard_time": 1706226867,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212422,
+        "num": 212422,
+        "word": "小动物保护协会已联系昆明动物园",
+        "onboard_time": 1706239713,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212271,
+        "num": 212271,
+        "word": "普通人没必要掏耳屎",
+        "onboard_time": 1706225665,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188668,
+        "num": 188668,
+        "word": "狗狗是87岁外婆最好的朋友",
+        "onboard_time": 1706238749,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180589,
+        "num": 180589,
+        "word": "曹德旺一个月内投资90亿",
+        "onboard_time": 1706233287,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176628,
+        "num": 176628,
+        "word": "苹果新增118个emoji",
+        "onboard_time": 1706227770,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175939,
+        "num": 175939,
+        "word": "你认为嫁妆属于女方个人财产吗",
+        "onboard_time": 1706239412,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 173894,
+        "num": 173894,
+        "word": "汪峰方否认女儿将出道",
+        "onboard_time": 1706234791,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165465,
+        "num": 165465,
+        "word": "电影第二十条聚焦现实困境",
+        "onboard_time": 1706239651,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164625,
+        "num": 164625,
+        "word": "国足离淘汰赛就差了1分",
+        "onboard_time": 1706234310,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156571,
+        "num": 156571,
+        "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
+        "onboard_time": 1706229930,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151766,
+        "num": 151766,
+        "word": "春运",
+        "onboard_time": 1706239889,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150467,
+        "num": 150467,
+        "word": "大数据杀熟不能再是一笔糊涂账",
+        "onboard_time": 1706238027,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146968,
+        "num": 146968,
+        "word": "未定事件簿仙侠PV",
+        "onboard_time": 1706238749,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127002,
+        "num": 127002,
+        "word": "女子列车吧唧嘴3小时大爷崩溃",
+        "onboard_time": 1706212396,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124715,
+        "num": 124715,
+        "word": "于正 谢谢妹妹给热度",
+        "onboard_time": 1706190273,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119181,
+        "num": 119181,
+        "word": "泡温泉会感染HPV和妇科病吗",
+        "onboard_time": 1706202084,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116357,
+        "num": 116357,
+        "word": "头一回见年终要给老板发红包",
+        "onboard_time": 1706234791,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "科学家警告小心北极僵尸病毒",
+        "onboard_time": 1706193813,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105095,
+        "num": 105095,
+        "word": "国产剧第一个活明白的女孩",
+        "onboard_time": 1706193213,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104000,
+        "num": 104000,
+        "word": "亚洲天王林俊杰",
+        "onboard_time": 1706230951,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102151,
+        "num": 102151,
+        "word": "当演员看到镜子里的自己",
+        "onboard_time": 1706240072,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100643,
+        "num": 100643,
+        "word": "丫丫无敌炸裂米奇朵朵",
+        "onboard_time": 1706240010,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91383,
+        "num": 100638,
+        "word": "为什么很多年轻人都抗拒相亲",
+        "onboard_time": 1706231190,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法合作既有高精尖也能接地气#"
+    }
+  }
+}
