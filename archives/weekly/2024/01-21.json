@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706301324274,
+  "endTime": 1706303736813,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -17187,6 +17187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45960,
+      "num": 34968,
+      "word": "科普作家称猴群大概率会和猫群起冲突",
+      "onboard_time": 1706298674,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44198,
       "num": 44198,
       "word": "山东在蒸馒头这块没输过",
@@ -17291,14 +17299,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 34968,
-      "num": 34968,
-      "word": "科普作家称猴群大概率会和猫群起冲突",
-      "onboard_time": 1706298674,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34301,
       "num": 34301,
       "word": "石宇奇连续两周进决赛",
@@ -17323,6 +17323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33159,
+      "num": 29370,
+      "word": "黄帝内经提到的瘦身方法",
+      "onboard_time": 1706300057,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32771,
       "num": 32771,
       "word": "周也雪景图是丞磊拍的",
@@ -17345,6 +17353,14 @@
       "onboard_time": 1705793478,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30740,
+      "num": 17469,
+      "word": "女子患双相障碍盲目定下百万豪车",
+      "onboard_time": 1706300416,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30292,
@@ -17499,20 +17515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19547,
-      "num": 17469,
-      "word": "女子患双相障碍盲目定下百万豪车",
-      "onboard_time": 1706300416,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19087,
       "num": 278415,
       "word": "商用车新能源化有多难",
       "onboard_time": 1706169092,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 18392,
+      "num": 18392,
+      "word": "我的大叔中国版",
+      "onboard_time": 1706298436,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 18264,
@@ -17531,28 +17547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18187,
-      "num": 18187,
-      "word": "我的大叔中国版",
-      "onboard_time": 1706298436,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17457,
       "num": 17457,
       "word": "上海火锅店帅哥图鉴",
       "onboard_time": 1706131816,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17440,
-      "num": 17440,
-      "word": "黄帝内经提到的瘦身方法",
-      "onboard_time": 1706300057,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16305,
@@ -17601,6 +17601,14 @@
       "onboard_time": 1706130794,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14790,
+      "num": 14790,
+      "word": "南非诉以色列种族灭绝案作出裁决",
+      "onboard_time": 1706302634,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 14707,
