@@ -1,7 +1,15 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706243727894,
+  "endTime": 1706246168235,
   "band_list": [
+    {
+      "raw_hot": 2038997,
+      "num": 2038997,
+      "word": "猴子虐猫",
+      "onboard_time": 1706241390,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2006838,
       "num": 847945,
@@ -35,12 +43,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1485432,
-      "num": 1485432,
-      "word": "猴子虐猫",
-      "onboard_time": 1706241390,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1590853,
+      "num": 1590853,
+      "word": "交警通报虞书欣司机高速倒车",
+      "onboard_time": 1706245294,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1464985,
+      "num": 606633,
+      "word": "曝95生当着媒体在室内抽烟",
+      "onboard_time": 1706243313,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1391207,
@@ -83,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1010065,
+      "num": 1010065,
+      "word": "结婚为什么需要这么多被子",
+      "onboard_time": 1706243133,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1001715,
       "num": 1001715,
       "word": "3元以下饮料仅剩10%",
@@ -105,6 +129,14 @@
       "onboard_time": 1706212396,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887725,
+      "num": 887725,
+      "word": "2023媒体反感艺人TOP3",
+      "onboard_time": 1706242894,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 877616,
@@ -179,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655471,
+      "num": 655471,
+      "word": "于正回应",
+      "onboard_time": 1706242954,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626027,
       "num": 626027,
       "word": "减重100斤的贾玲惊呆潘斌龙",
@@ -193,6 +233,14 @@
       "onboard_time": 1706238331,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 615007,
+      "num": 615007,
+      "word": "陈建斌回应网友二创甄嬛传",
+      "onboard_time": 1706243075,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 608788,
@@ -243,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536649,
-      "num": 536649,
-      "word": "2023媒体反感艺人TOP3",
-      "onboard_time": 1706242894,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 533297,
       "num": 533297,
       "word": "曹德旺一个月内投资90亿",
@@ -273,6 +313,14 @@
       "onboard_time": 1706176892,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493349,
+      "num": 493349,
+      "word": "大张伟 贾仙女让我做首健身时打气的歌",
+      "onboard_time": 1706240614,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 486619,
@@ -339,14 +387,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 420888,
-      "num": 420888,
-      "word": "大张伟 贾仙女让我做首健身时打气的歌",
-      "onboard_time": 1706240614,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 412336,
       "num": 412336,
       "word": "蜘蛛夫人内地定档",
@@ -379,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390484,
+      "num": 390484,
+      "word": "江西新余大火遇难者亲友发声",
+      "onboard_time": 1706242289,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
@@ -395,36 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376680,
-      "num": 376680,
-      "word": "江西新余大火遇难者亲友发声",
-      "onboard_time": 1706242289,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371678,
       "num": 365291,
       "word": "你认为嫁妆属于女方个人财产吗",
       "onboard_time": 1706239412,
       "rank": 32,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 369858,
-      "num": 369858,
-      "word": "结婚为什么需要这么多被子",
-      "onboard_time": 1706243133,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 361097,
-      "num": 361097,
-      "word": "于正回应",
-      "onboard_time": 1706242954,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 360635,
@@ -475,22 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 321774,
-      "num": 321774,
-      "word": "陈建斌回应网友二创甄嬛传",
-      "onboard_time": 1706243075,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 319005,
-      "num": 319005,
-      "word": "曝95生当着媒体在室内抽烟",
-      "onboard_time": 1706243313,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309319,
       "num": 309319,
       "word": "汪峰方否认女儿将出道",
@@ -523,12 +531,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 283296,
+      "num": 227025,
+      "word": "装扮了男朋友买的新车",
+      "onboard_time": 1706244577,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278753,
       "num": 224866,
       "word": "张婧仪路透",
       "onboard_time": 1706194773,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276533,
+      "num": 276533,
+      "word": "恋与深空首周流水超1.5亿",
+      "onboard_time": 1706245234,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 268283,
@@ -595,12 +619,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 230100,
+      "num": 230100,
+      "word": "俞敏洪称只依赖董宇辉不是正常公司",
+      "onboard_time": 1706243492,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 226053,
       "num": 226053,
       "word": "一天睡多少小时最好",
       "onboard_time": 1706228429,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 225938,
+      "num": 225938,
+      "word": "德约科维奇被破发",
+      "onboard_time": 1706244271,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 225298,
@@ -683,6 +723,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 202933,
+      "num": 202933,
+      "word": "市民热线回应动物园猴群与猫共处",
+      "onboard_time": 1706245412,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202880,
       "num": 202880,
       "word": "吃感冒药的5个禁忌",
@@ -697,6 +745,14 @@
       "onboard_time": 1706241992,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198801,
+      "num": 198801,
+      "word": "王一博大秀彩排花絮",
+      "onboard_time": 1706245772,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196015,
@@ -747,6 +803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188410,
+      "num": 188410,
+      "word": "猫妈妈给喜爱的人类介绍它的小孩",
+      "onboard_time": 1706244813,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187370,
       "num": 187370,
       "word": "国产剧第一个活明白的女孩",
@@ -771,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179914,
-      "num": 179914,
-      "word": "俞敏洪称只依赖董宇辉不是正常公司",
-      "onboard_time": 1706243492,
-      "rank": 44,
-      "category": "互联网"
+      "raw_hot": 180185,
+      "num": 180185,
+      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+      "onboard_time": 1706245592,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178779,
@@ -833,6 +897,14 @@
       "onboard_time": 1706184628,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168457,
+      "num": 168457,
+      "word": "虞书欣司机还存在其他交通违法行为",
+      "onboard_time": 1706246133,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 167706,
@@ -939,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149754,
+      "num": 149754,
+      "word": "专家称农村大量房子只造不住",
+      "onboard_time": 1706245893,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149130,
       "num": 149130,
       "word": "免签和落地签国家盘点",
@@ -961,6 +1041,22 @@
       "onboard_time": 1706189492,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143191,
+      "num": 143191,
+      "word": "黄瀛子为杨紫新电影打call",
+      "onboard_time": 1706245113,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142769,
+      "num": 142769,
+      "word": "少爷和我首支预告片",
+      "onboard_time": 1706244271,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 141134,
@@ -1172,11 +1268,19 @@
     },
     {
       "raw_hot": 89950,
-      "num": 1099480,
+      "num": 1268800,
       "word": "运20首飞成功11年",
       "onboard_time": 1706238209,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87952,
+      "num": 497151,
+      "word": "元梦龙年星动代言人宋雨琦",
+      "onboard_time": 1706245234,
+      "rank": 14,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 82893,
