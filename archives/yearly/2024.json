@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706250136153,
+  "endTime": 1706250909335,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1203,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1962027,
+      "num": 1962027,
+      "word": "徐娇赵晴微信都没有",
+      "onboard_time": 1706247152,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 1960296,
       "num": 1669893,
       "word": "人口",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1705476931,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1920409,
-      "num": 1920409,
-      "word": "徐娇赵晴微信都没有",
-      "onboard_time": 1706247152,
-      "rank": 22,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1916476,

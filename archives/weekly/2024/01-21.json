@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706250136153,
+  "endTime": 1706250909335,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1962027,
+      "num": 1962027,
+      "word": "徐娇赵晴微信都没有",
+      "onboard_time": 1706247152,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 1940151,
       "num": 1940151,
       "word": "祖国统一台湾当归解放军始终以行动说话",
@@ -209,14 +217,6 @@
       "onboard_time": 1705891225,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1920409,
-      "num": 1920409,
-      "word": "徐娇赵晴微信都没有",
-      "onboard_time": 1706247152,
-      "rank": 22,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1904224,
@@ -601,6 +601,14 @@
       "onboard_time": 1705933050,
       "rank": 49,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 1330010,
+      "num": 1039351,
+      "word": "虞书欣工作室致歉",
+      "onboard_time": 1706249192,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1328553,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1706090130,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1039351,
-      "num": 1039351,
-      "word": "虞书欣工作室致歉",
-      "onboard_time": 1706249192,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1037973,
@@ -1891,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 723931,
+      "num": 723931,
+      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
+      "onboard_time": 1706245592,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723437,
       "num": 723437,
       "word": "申万回应江疏影雪球爆仓来到公司",
@@ -1928,6 +1936,14 @@
       "word": "张雪峰向郑州大学捐款300万",
       "onboard_time": 1705822106,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710316,
+      "num": 710316,
+      "word": "大学生兼职两小时连吃五只鸡",
+      "onboard_time": 1706247930,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2067,14 +2083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 683285,
-      "num": 683285,
-      "word": "秦始皇帝陵1号陪葬墓取得重大考古收获",
-      "onboard_time": 1706245592,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 678004,
       "num": 678004,
       "word": "男主脱衣服受刑的原因",
@@ -2120,14 +2128,6 @@
       "word": "合肥火灾",
       "onboard_time": 1706174552,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 667254,
-      "num": 667254,
-      "word": "大学生兼职两小时连吃五只鸡",
-      "onboard_time": 1706247930,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2315,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 635042,
+      "num": 635042,
+      "word": "专家称农村大量房子只造不住",
+      "onboard_time": 1706245893,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634751,
       "num": 634751,
       "word": "王安宇问姐夫有看花少吗",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1705887683,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598052,
+      "num": 598052,
+      "word": "洗剪吹为什么越来越贵",
+      "onboard_time": 1706248831,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 597394,
@@ -2777,14 +2793,6 @@
       "onboard_time": 1705982549,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558376,
-      "num": 558376,
-      "word": "专家称农村大量房子只造不住",
-      "onboard_time": 1706245893,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557685,
@@ -3281,6 +3289,14 @@
       "onboard_time": 1705905983,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488651,
+      "num": 488651,
+      "word": "药明康德闪崩跌停",
+      "onboard_time": 1706250389,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 488206,
@@ -4289,14 +4305,6 @@
       "onboard_time": 1706083951,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 396095,
-      "num": 396095,
-      "word": "洗剪吹为什么越来越贵",
-      "onboard_time": 1706248831,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 395447,
@@ -6491,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254308,
+      "num": 254308,
+      "word": "中成药 陷阱",
+      "onboard_time": 1706248472,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 254243,
       "num": 249386,
       "word": "竟然被一条狗帅到了",
@@ -6683,6 +6699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248676,
+      "num": 248676,
+      "word": "专家称中国退休年龄全球偏低",
+      "onboard_time": 1706250031,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248668,
       "num": 248668,
       "word": "新疆乌什县又发生5.2级地震",
@@ -6713,14 +6737,6 @@
       "onboard_time": 1706062289,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248309,
-      "num": 248309,
-      "word": "中成药 陷阱",
-      "onboard_time": 1706248472,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 248257,
@@ -6761,6 +6777,14 @@
       "onboard_time": 1706087189,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246376,
+      "num": 246376,
+      "word": "徐娇喝到真茶了",
+      "onboard_time": 1706250690,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 246276,
@@ -7153,6 +7177,14 @@
       "onboard_time": 1706233949,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 231363,
+      "num": 190436,
+      "word": "光与夜之恋 晴日为期",
+      "onboard_time": 1706250631,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 231284,
@@ -9147,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190512,
+      "num": 190512,
+      "word": "澳网男单半决赛",
+      "onboard_time": 1706250151,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190497,
       "num": 190497,
       "word": "苏州KSG转会公告",
@@ -9907,6 +9947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176422,
+      "num": 176422,
+      "word": "库里致命失误",
+      "onboard_time": 1706250631,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176113,
       "num": 176113,
       "word": "国产三蹦子魅力传到外国",
@@ -10451,6 +10499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168239,
+      "num": 168239,
+      "word": "绘旅人送SSR",
+      "onboard_time": 1706249312,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168169,
       "num": 168169,
       "word": "倪萍每晚都去蔡磊直播间买东西",
@@ -10600,6 +10656,14 @@
       "word": "樊振东给自己的生日祝福",
       "onboard_time": 1705900948,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165985,
+      "num": 165985,
+      "word": "澳网男单半决赛中断",
+      "onboard_time": 1706249611,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -10793,14 +10857,6 @@
       "onboard_time": 1705808545,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162848,
-      "num": 162848,
-      "word": "澳网男单半决赛中断",
-      "onboard_time": 1706249611,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 162704,
@@ -11625,14 +11681,6 @@
       "onboard_time": 1705908686,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149543,
-      "num": 149543,
-      "word": "专家称中国退休年龄全球偏低",
-      "onboard_time": 1706250031,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149481,
@@ -12673,14 +12721,6 @@
       "onboard_time": 1705899329,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134983,
-      "num": 134983,
-      "word": "绘旅人送SSR",
-      "onboard_time": 1706249312,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 134751,
