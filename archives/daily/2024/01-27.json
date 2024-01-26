@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706300246581,
+  "endTime": 1706301324274,
   "band_list": [
     {
       "raw_hot": 1298306,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34968,
+      "num": 34968,
+      "word": "科普作家称猴群大概率会和猫群起冲突",
+      "onboard_time": 1706298674,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27818,
       "num": 27818,
       "word": "我想和你唱5开播",
@@ -475,12 +483,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24324,
-      "num": 24324,
-      "word": "科普作家称猴群大概率会和猫群起冲突",
-      "onboard_time": 1706298674,
-      "rank": 18,
+      "raw_hot": 19547,
+      "num": 17469,
+      "word": "女子患双相障碍盲目定下百万豪车",
+      "onboard_time": 1706300416,
+      "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18187,
+      "num": 18187,
+      "word": "我的大叔中国版",
+      "onboard_time": 1706298436,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17440,
+      "num": 17440,
+      "word": "黄帝内经提到的瘦身方法",
+      "onboard_time": 1706300057,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16305,
@@ -489,14 +513,6 @@
       "onboard_time": 1706284650,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16110,
-      "num": 16110,
-      "word": "我的大叔中国版",
-      "onboard_time": 1706298436,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 14707,
@@ -513,14 +529,6 @@
       "onboard_time": 1706297838,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12057,
-      "num": 12368,
-      "word": "黄帝内经提到的瘦身方法",
-      "onboard_time": 1706300057,
-      "rank": 45,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
@@ -529,6 +537,9 @@
     },
     {
       "word": "#总书记心系文旅发展#"
+    },
+    {
+      "word": "#中法合作既有高精尖也能接地气#"
     }
   ]
 }
