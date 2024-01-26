@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706276042751,
+  "endTime": 1706278563202,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1285772,
+      "num": 567966,
+      "word": "11岁男生多次遭班主任羞辱跳楼自杀",
+      "onboard_time": 1706273372,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1191802,
       "num": 1191802,
       "word": "不要再把肉泡水里解冻了",
@@ -137,14 +145,6 @@
       "onboard_time": 1706194594,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1184441,
-      "num": 449667,
-      "word": "11岁男生多次遭班主任羞辱跳楼自杀",
-      "onboard_time": 1706273372,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1154772,
@@ -177,6 +177,14 @@
       "onboard_time": 1706273672,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110628,
+      "num": 1110628,
+      "word": "曝95后待爆男艺人要求删cp互动画面",
+      "onboard_time": 1706272410,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025253,
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 930365,
-      "num": 930365,
-      "word": "曝95后待爆男艺人要求删cp互动画面",
-      "onboard_time": 1706272410,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 927553,
       "num": 927553,
       "word": "女子列车吧唧嘴3小时大爷崩溃",
@@ -283,8 +283,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 846321,
+      "num": 846321,
+      "word": "MAC口红广告疑擦边惹争议",
+      "onboard_time": 1706275353,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820978,
-      "num": 298466,
+      "num": 338504,
       "word": "妈妈去世五年了发信息发现号没了",
       "onboard_time": 1706265450,
       "rank": 20,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806118,
+      "num": 806118,
+      "word": "许诺退役",
+      "onboard_time": 1706276672,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 796120,
       "num": 796120,
       "word": "落马女局长跑步机里藏价值666万黄金",
@@ -320,6 +336,14 @@
       "word": "张凌赫把中道崩殂打成中道崩阻",
       "onboard_time": 1706255911,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 783629,
+      "num": 783629,
+      "word": "gidle健康堪忧回归困难",
+      "onboard_time": 1706276253,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -408,6 +432,14 @@
       "word": "你支持取消离婚冷静期吗",
       "onboard_time": 1706200587,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648684,
+      "num": 648684,
+      "word": "被害女童父亲称未成年凶手年后正常上学",
+      "onboard_time": 1706276193,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -699,6 +731,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 428246,
+      "num": 428246,
+      "word": "ENHYPEN跳科目三",
+      "onboard_time": 1706277993,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 426868,
       "num": 426868,
       "word": "春运第1天",
@@ -793,6 +833,14 @@
       "onboard_time": 1706239713,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378929,
+      "num": 378929,
+      "word": "黄圣依杨子表哥直播间带货引风波",
+      "onboard_time": 1706277993,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 377393,
@@ -923,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314757,
+      "num": 314757,
+      "word": "张卫健 我没事精神得很",
+      "onboard_time": 1706274870,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313473,
       "num": 313473,
       "word": "昆明动物园计划将猫移出猴山",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1706271750,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287101,
-      "num": 287101,
-      "word": "MAC口红广告疑擦边惹争议",
-      "onboard_time": 1706275353,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286797,
@@ -1259,19 +1307,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 233395,
-      "num": 170034,
-      "word": "张卫健 我没事精神得很",
-      "onboard_time": 1706274870,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233003,
       "num": 233003,
       "word": "国足离淘汰赛就差了1分",
       "onboard_time": 1706234310,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232470,
+      "num": 232470,
+      "word": "梅德韦杰夫晋级澳网男单决赛",
+      "onboard_time": 1706276130,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1281,6 +1329,14 @@
       "onboard_time": 1706256510,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231993,
+      "num": 231993,
+      "word": "原来高铁也会堵车",
+      "onboard_time": 1706276193,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231589,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1706246973,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226884,
+      "num": 226884,
+      "word": "爱国不是生意不是流量",
+      "onboard_time": 1706275773,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226053,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1706241992,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200249,
+      "num": 200249,
+      "word": "狗剩快跑",
+      "onboard_time": 1706276850,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198801,
@@ -1963,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165758,
+      "num": 165758,
+      "word": "喜欢夜爬泰山的人有福了",
+      "onboard_time": 1706277632,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 165465,
       "num": 165465,
       "word": "电影第二十条聚焦现实困境",
@@ -2131,6 +2211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152256,
+      "num": 152256,
+      "word": "许诺回顾职业生涯",
+      "onboard_time": 1706278291,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 151985,
+      "num": 151985,
+      "word": "Mac客服回应口红广告疑擦边",
+      "onboard_time": 1706278230,
+      "rank": 37,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 151766,
       "num": 151766,
       "word": "春运",
@@ -2251,12 +2347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "朴综星唱粤语歌",
+      "onboard_time": 1706278412,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142769,
       "num": 142769,
       "word": "少爷和我首支预告片",
       "onboard_time": 1706244271,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142555,
+      "num": 142555,
+      "word": "祁煜变人鱼了",
+      "onboard_time": 1706278531,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 141612,
@@ -2297,14 +2409,6 @@
       "onboard_time": 1706180729,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138051,
-      "num": 138051,
-      "word": "爱国不是生意不是流量",
-      "onboard_time": 1706275773,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137235,
@@ -2377,6 +2481,14 @@
       "onboard_time": 1706275052,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131183,
+      "num": 131183,
+      "word": "感谢寿星送来的蛋糕",
+      "onboard_time": 1706278291,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 130841,
@@ -2481,6 +2593,14 @@
       "onboard_time": 1706183613,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123519,
+      "num": 123519,
+      "word": "胡先煦王安宇真冤种兄弟",
+      "onboard_time": 1706275710,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 123336,
@@ -2593,14 +2713,6 @@
       "onboard_time": 1706188173,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 108755,
-      "num": 108755,
-      "word": "胡先煦王安宇真冤种兄弟",
-      "onboard_time": 1706275710,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 108267,
@@ -2729,6 +2841,14 @@
       "onboard_time": 1706177912,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82645,
+      "num": 934857,
+      "word": "第三批国家级夜间文旅消费集聚区",
+      "onboard_time": 1706276311,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75962,
