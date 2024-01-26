@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706258116099,
+  "endTime": 1706260679632,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -9,6 +9,14 @@
       "onboard_time": 1706245294,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2104641,
+      "num": 2104641,
+      "word": "昆明动物园曾被曝猴子杀死2只猫",
+      "onboard_time": 1706255132,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2038997,
@@ -51,11 +59,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1819870,
-      "num": 1819870,
-      "word": "昆明动物园曾被曝猴子杀死2只猫",
-      "onboard_time": 1706255132,
-      "rank": 1,
+      "raw_hot": 1770696,
+      "num": 1770696,
+      "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+      "onboard_time": 1706256510,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1346572,
-      "num": 1346572,
-      "word": "湖北未满12岁男孩杀害4岁女童案撤案",
-      "onboard_time": 1706256510,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1330010,
       "num": 1039351,
       "word": "虞书欣工作室致歉",
@@ -137,6 +137,14 @@
       "onboard_time": 1706231428,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138910,
+      "num": 1138910,
+      "word": "人在冻死前为什么会脱衣服",
+      "onboard_time": 1706256871,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1025253,
@@ -219,14 +227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 841390,
-      "num": 517621,
-      "word": "人在冻死前为什么会脱衣服",
-      "onboard_time": 1706256871,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 810293,
       "num": 810293,
       "word": "丽江地震",
@@ -241,6 +241,14 @@
       "onboard_time": 1706237189,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788069,
+      "num": 788069,
+      "word": "张凌赫把中道崩殂打成中道崩阻",
+      "onboard_time": 1706255911,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 750898,
@@ -291,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 688746,
-      "num": 688746,
-      "word": "张凌赫把中道崩殂打成中道崩阻",
-      "onboard_time": 1706255911,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 683895,
       "num": 683895,
       "word": "于正 谢谢妹妹给热度",
@@ -321,6 +321,14 @@
       "onboard_time": 1706200587,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642796,
+      "num": 642796,
+      "word": "不能露腰不能拍腿古偶男主",
+      "onboard_time": 1706258070,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 635042,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496794,
+      "num": 496794,
+      "word": "辣目洋子没惹任何人",
+      "onboard_time": 1706258070,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 495117,
       "num": 495117,
       "word": "谢楠回应被劝离婚",
@@ -513,6 +529,14 @@
       "onboard_time": 1706235689,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 441909,
+      "num": 441909,
+      "word": "向日葵崩了",
+      "onboard_time": 1706259090,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 439777,
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376818,
+      "num": 348597,
+      "word": "虞书欣司机是第三方车辆公司的",
+      "onboard_time": 1706258252,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371678,
       "num": 365291,
       "word": "你认为嫁妆属于女方个人财产吗",
@@ -627,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 344181,
+      "num": 344181,
+      "word": "刘诗雯 巴黎奥运的脚步近了",
+      "onboard_time": 1706259151,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336418,
       "num": 251940,
       "word": "普通人没必要掏耳屎",
@@ -635,11 +675,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 336327,
+      "num": 336327,
+      "word": "微信新增听一听入口",
+      "onboard_time": 1706259212,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 334475,
       "num": 334475,
       "word": "逃犯加入日本国籍后回国就被抓",
       "onboard_time": 1706216475,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332339,
+      "num": 332339,
+      "word": "昆明动物园再通报猴猫共处",
+      "onboard_time": 1706259813,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -689,6 +745,22 @@
       "onboard_time": 1706253749,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296087,
+      "num": 291796,
+      "word": "裸睡有3个好处",
+      "onboard_time": 1706256330,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 295687,
+      "num": 295687,
+      "word": "昆明动物园计划将猫移出猴山",
+      "onboard_time": 1706260112,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291614,
@@ -803,20 +875,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247283,
-      "num": 247283,
-      "word": "裸睡有3个好处",
-      "onboard_time": 1706256330,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 247264,
       "num": 247264,
       "word": "阴阳师",
       "onboard_time": 1706257351,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245284,
+      "num": 245284,
+      "word": "微博之夜新图",
+      "onboard_time": 1706259813,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244829,
@@ -969,6 +1041,14 @@
       "onboard_time": 1706202084,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218102,
+      "num": 218102,
+      "word": "昆明动物园官号关评论区",
+      "onboard_time": 1706258369,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212348,
@@ -1171,6 +1251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188002,
+      "num": 188002,
+      "word": "Prince女枪五杀",
+      "onboard_time": 1706259571,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187370,
       "num": 187370,
       "word": "国产剧第一个活明白的女孩",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1706242232,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177708,
+      "num": 177708,
+      "word": "你认为猴子与猫共处合理吗",
+      "onboard_time": 1706260232,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176422,
@@ -1299,6 +1395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 170773,
+      "num": 170773,
+      "word": "葛兰已减持药明康德",
+      "onboard_time": 1706258490,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 170222,
       "num": 136629,
       "word": "杨紫演技",
@@ -1345,6 +1449,14 @@
       "onboard_time": 1706239651,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164853,
+      "num": 164853,
+      "word": "迪丽热巴困了像醉了",
+      "onboard_time": 1706259509,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 163658,
@@ -1483,6 +1595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147299,
+      "num": 147299,
+      "word": "有翡上星贵州卫视",
+      "onboard_time": 1706259752,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146685,
       "num": 146685,
       "word": "刘耀文新电影打戏",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1706244271,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141612,
+      "num": 141612,
+      "word": "贪吃蛇跨国联动崔杋圭",
+      "onboard_time": 1706260048,
+      "rank": 43,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 141134,
@@ -1619,27 +1747,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127403,
+      "num": 127403,
+      "word": "当代儿女是懂应对父母催婚的",
+      "onboard_time": 1706258430,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126902,
       "num": 108024,
       "word": "新加坡免签受益人王俊凯",
       "onboard_time": 1706173829,
       "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126217,
-      "num": 126217,
-      "word": "辣目洋子没惹任何人",
-      "onboard_time": 1706258070,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126174,
-      "num": 126174,
-      "word": "不能露腰不能拍腿古偶男主",
-      "onboard_time": 1706258070,
-      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -1705,6 +1825,14 @@
       "onboard_time": 1706235631,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122117,
+      "num": 122117,
+      "word": "KT对战T1",
+      "onboard_time": 1706260592,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 121191,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706260679632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2104641,
+        "num": 2104641,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1770696,
+        "num": 1770696,
+        "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+        "onboard_time": 1706256510,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84436,
+        "num": 1313690,
+        "word": "2024春运出站口泪目瞬间",
+        "onboard_time": 1706237969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261276,
+        "num": 1261276,
+        "word": "徐娇喝到真茶了",
+        "onboard_time": 1706250690,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1138910,
+        "num": 1138910,
+        "word": "人在冻死前为什么会脱衣服",
+        "onboard_time": 1706256871,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 946853,
+        "num": 946853,
+        "word": "重庆12秒不雅视频案雷政富出狱",
+        "onboard_time": 1706246314,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788069,
+        "num": 788069,
+        "word": "张凌赫把中道崩殂打成中道崩阻",
+        "onboard_time": 1706255911,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642796,
+        "num": 642796,
+        "word": "不能露腰不能拍腿古偶男主",
+        "onboard_time": 1706258070,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 747691,
+        "num": 603638,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 538432,
+        "num": 538432,
+        "word": "交警通报虞书欣司机高速倒车",
+        "onboard_time": 1706245294,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496794,
+        "num": 496794,
+        "word": "辣目洋子没惹任何人",
+        "onboard_time": 1706258070,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441909,
+        "num": 441909,
+        "word": "向日葵崩了",
+        "onboard_time": 1706259090,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 392793,
+        "num": 392793,
+        "word": "专家称中国退休年龄全球偏低",
+        "onboard_time": 1706250031,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348853,
+        "num": 348853,
+        "word": "伊藤美诚无缘奥运单打",
+        "onboard_time": 1706255190,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376818,
+        "num": 348597,
+        "word": "虞书欣司机是第三方车辆公司的",
+        "onboard_time": 1706258252,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344181,
+        "num": 344181,
+        "word": "刘诗雯 巴黎奥运的脚步近了",
+        "onboard_time": 1706259151,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336327,
+        "num": 336327,
+        "word": "微信新增听一听入口",
+        "onboard_time": 1706259212,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332339,
+        "num": 332339,
+        "word": "昆明动物园再通报猴猫共处",
+        "onboard_time": 1706259813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308318,
+        "num": 308318,
+        "word": "洗剪吹为什么越来越贵",
+        "onboard_time": 1706248831,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 295687,
+        "num": 295687,
+        "word": "昆明动物园计划将猫移出猴山",
+        "onboard_time": 1706260112,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296087,
+        "num": 291796,
+        "word": "裸睡有3个好处",
+        "onboard_time": 1706256330,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268582,
+        "num": 268582,
+        "word": "曝95生当着媒体在室内抽烟",
+        "onboard_time": 1706243313,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265786,
+        "num": 265786,
+        "word": "昆明动物园",
+        "onboard_time": 1706257471,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258441,
+        "num": 258441,
+        "word": "丽江地震",
+        "onboard_time": 1706252313,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245284,
+        "num": 245284,
+        "word": "微博之夜新图",
+        "onboard_time": 1706259813,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241429,
+        "num": 241429,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238067,
+        "num": 238067,
+        "word": "2023媒体反感艺人TOP3",
+        "onboard_time": 1706242894,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229760,
+        "num": 229760,
+        "word": "虞书欣工作室致歉",
+        "onboard_time": 1706249192,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219851,
+        "num": 219851,
+        "word": "猴子虐猫",
+        "onboard_time": 1706241390,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218102,
+        "num": 218102,
+        "word": "昆明动物园官号关评论区",
+        "onboard_time": 1706258369,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189338,
+        "num": 189338,
+        "word": "千万不要生着气入睡",
+        "onboard_time": 1706255249,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188002,
+        "num": 188002,
+        "word": "Prince女枪五杀",
+        "onboard_time": 1706259571,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177708,
+        "num": 177708,
+        "word": "你认为猴子与猫共处合理吗",
+        "onboard_time": 1706260232,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170773,
+        "num": 170773,
+        "word": "葛兰已减持药明康德",
+        "onboard_time": 1706258490,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164853,
+        "num": 164853,
+        "word": "迪丽热巴困了像醉了",
+        "onboard_time": 1706259509,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162625,
+        "num": 162625,
+        "word": "朱梓骁cos代号鸢左慈",
+        "onboard_time": 1706255370,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 154664,
+        "word": "杨紫9岁至31岁荧幕变化",
+        "onboard_time": 1706256807,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152760,
+        "num": 152760,
+        "word": "大学生兼职两小时连吃五只鸡",
+        "onboard_time": 1706247930,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151939,
+        "num": 151939,
+        "word": "刘彰与清华人大学生谈留学压力",
+        "onboard_time": 1706257771,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147299,
+        "num": 147299,
+        "word": "有翡上星贵州卫视",
+        "onboard_time": 1706259752,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147091,
+        "num": 147091,
+        "word": "微信优化存储空间",
+        "onboard_time": 1706251590,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146193,
+        "num": 146193,
+        "word": "结婚为什么需要这么多被子",
+        "onboard_time": 1706243133,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142712,
+        "num": 142712,
+        "word": "汪峰工作室辟谣结婚",
+        "onboard_time": 1706254054,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141612,
+        "num": 141612,
+        "word": "贪吃蛇跨国联动崔杋圭",
+        "onboard_time": 1706260048,
+        "rank": 43,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 134680,
+        "num": 134680,
+        "word": "陈楚生 请和我一起续写我们的故事",
+        "onboard_time": 1706255791,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132296,
+        "num": 132296,
+        "word": "迪丽热巴海南工作室申请注销",
+        "onboard_time": 1706253029,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127403,
+        "num": 127403,
+        "word": "当代儿女是懂应对父母催婚的",
+        "onboard_time": 1706258430,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122395,
+        "num": 122395,
+        "word": "幻兽帕鲁5天捞金15亿",
+        "onboard_time": 1706255070,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122117,
+        "num": 122117,
+        "word": "KT对战T1",
+        "onboard_time": 1706260592,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121774,
+        "num": 121774,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法合作既有高精尖也能接地气#"
+    }
+  }
+}
