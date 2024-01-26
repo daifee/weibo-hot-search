@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706250909335,
+  "endTime": 1706253318740,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1704632012,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1720398,
+      "num": 938483,
+      "word": "徐娇喝到真茶了",
+      "onboard_time": 1706250690,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1717598,
@@ -6771,6 +6779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 898499,
+      "num": 898499,
+      "word": "洗剪吹为什么越来越贵",
+      "onboard_time": 1706248831,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 897873,
       "num": 829656,
       "word": "母女旅游顺道买了辆保时捷",
@@ -8025,6 +8041,14 @@
       "onboard_time": 1704791311,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 807361,
+      "num": 807361,
+      "word": "专家称中国退休年龄全球偏低",
+      "onboard_time": 1706250031,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807274,
@@ -9667,6 +9691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727544,
+      "num": 727544,
+      "word": "大学生兼职两小时连吃五只鸡",
+      "onboard_time": 1706247930,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726969,
       "num": 726969,
       "word": "为啥网上的药比实体药店更便宜",
@@ -10073,14 +10105,6 @@
       "onboard_time": 1704034335,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 710316,
-      "num": 710316,
-      "word": "大学生兼职两小时连吃五只鸡",
-      "onboard_time": 1706247930,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709743,
@@ -12985,14 +13009,6 @@
       "onboard_time": 1705314088,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598052,
-      "num": 598052,
-      "word": "洗剪吹为什么越来越贵",
-      "onboard_time": 1706248831,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 597892,
@@ -17211,6 +17227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 484603,
+      "num": 484603,
+      "word": "丽江地震",
+      "onboard_time": 1706252313,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484373,
       "num": 484373,
       "word": "HYBS解散",
@@ -18145,6 +18169,14 @@
       "onboard_time": 1705483831,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463099,
+      "num": 463099,
+      "word": "微信优化存储空间",
+      "onboard_time": 1706251590,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 462833,
@@ -28283,6 +28315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282825,
+      "num": 282825,
+      "word": "中成药 陷阱",
+      "onboard_time": 1706248472,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282824,
       "num": 234736,
       "word": "祈今朝妆造",
@@ -30307,6 +30347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259818,
+      "num": 259818,
+      "word": "贾玲辣评杨紫wave",
+      "onboard_time": 1706252010,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259561,
       "num": 259561,
       "word": "国家卫健委新闻发布会",
@@ -30793,14 +30841,6 @@
       "onboard_time": 1705048468,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254308,
-      "num": 254308,
-      "word": "中成药 陷阱",
-      "onboard_time": 1706248472,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254243,
@@ -31459,14 +31499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 248676,
-      "num": 248676,
-      "word": "专家称中国退休年龄全球偏低",
-      "onboard_time": 1706250031,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248668,
       "num": 248668,
       "word": "新疆乌什县又发生5.2级地震",
@@ -31785,14 +31817,6 @@
       "onboard_time": 1704803190,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 246376,
-      "num": 246376,
-      "word": "徐娇喝到真茶了",
-      "onboard_time": 1706250690,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 246311,
@@ -32329,6 +32353,14 @@
       "onboard_time": 1704602552,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241569,
+      "num": 241569,
+      "word": "迪丽热巴海南工作室申请注销",
+      "onboard_time": 1706253029,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 241450,
@@ -34017,6 +34049,14 @@
       "onboard_time": 1705374929,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228514,
+      "num": 228514,
+      "word": "许闯晒肖战封面",
+      "onboard_time": 1706252610,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228469,
@@ -40371,6 +40411,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 196415,
+      "num": 196415,
+      "word": "虞书欣工作室恳请不要跟车尾随",
+      "onboard_time": 1706252190,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196358,
       "num": 196358,
       "word": "考古的风终于吹到了胡歌陈龙",
@@ -44355,6 +44403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181558,
+      "num": 181558,
+      "word": "原来我的性格是这样形成的",
+      "onboard_time": 1706251531,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "裁委会认定戴伟浚遭飞踹漏判红牌",
@@ -46131,6 +46187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 174332,
+      "num": 174332,
+      "word": "窄门内的专升本学生与年少的打工者",
+      "onboard_time": 1706252851,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "雷东宝吃前妻韦春红的醋",
@@ -46457,6 +46521,14 @@
       "onboard_time": 1706196094,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173178,
+      "num": 173178,
+      "word": "于正说自己最轻的时候127斤",
+      "onboard_time": 1706252670,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 173172,
@@ -55251,6 +55323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140942,
+      "num": 140942,
+      "word": "选择食材后能生成菜谱的网站",
+      "onboard_time": 1706251230,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140922,
       "num": 140922,
       "word": "起火学校附近商户发声",
@@ -61651,6 +61731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 118300,
+      "num": 118300,
+      "word": "大学生的雪地状态",
+      "onboard_time": 1706252911,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118275,
       "num": 118275,
       "word": "陈星旭怀疑自己被宋茜屏蔽",
@@ -61705,6 +61793,14 @@
       "onboard_time": 1705644207,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 118046,
+      "num": 118046,
+      "word": "排球少年 中字预告",
+      "onboard_time": 1706252969,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 118003,
@@ -67131,6 +67227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70560,
+      "num": 291813,
+      "word": "龙年开运买点啥",
+      "onboard_time": 1706251951,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70525,
       "num": 70525,
       "word": "国足小组第三",
@@ -68785,6 +68889,14 @@
       "onboard_time": 1704031026,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 47203,
+      "num": 1010764,
+      "word": "2024春运出站口泪目瞬间",
+      "onboard_time": 1706237969,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46811,
