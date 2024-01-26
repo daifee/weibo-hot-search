@@ -1,0 +1,410 @@
+{
+  "runTime": 1706232755104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164565,
+        "num": 1164565,
+        "word": "不要再把肉泡水里解冻了",
+        "onboard_time": 1706196572,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1007076,
+        "num": 1007076,
+        "word": "徐娇怼于正",
+        "onboard_time": 1706183971,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57114,
+        "num": 905390,
+        "word": "2024春运出行指南",
+        "onboard_time": 1706191655,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842987,
+        "num": 842987,
+        "word": "女子列车吧唧嘴3小时大爷崩溃",
+        "onboard_time": 1706212396,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786382,
+        "num": 786382,
+        "word": "女子遭研究生同学无视追讨礼金",
+        "onboard_time": 1706231428,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709814,
+        "num": 709814,
+        "word": "祖国统一台湾当归",
+        "onboard_time": 1706194594,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595056,
+        "num": 595056,
+        "word": "减重100斤的贾玲惊呆潘斌龙",
+        "onboard_time": 1706191595,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 573034,
+        "num": 573034,
+        "word": "苹果新增118个emoji",
+        "onboard_time": 1706227770,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 520798,
+        "num": 520798,
+        "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
+        "onboard_time": 1706229930,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520487,
+        "num": 520487,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 712597,
+        "num": 510891,
+        "word": "11月大男婴哭湿口罩后闷死",
+        "onboard_time": 1706231428,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486522,
+        "num": 486522,
+        "word": "徐娇 让人瘦到85是有多歹毒",
+        "onboard_time": 1706184993,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463928,
+        "num": 463928,
+        "word": "迪丽热巴告别花少",
+        "onboard_time": 1706226867,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439777,
+        "num": 439777,
+        "word": "库里落选全明星首发",
+        "onboard_time": 1706231070,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416782,
+        "num": 416782,
+        "word": "科学家警告小心北极僵尸病毒",
+        "onboard_time": 1706193813,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345704,
+        "num": 345704,
+        "word": "暴雪总裁今日离职",
+        "onboard_time": 1706227473,
+        "rank": 15,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 331273,
+        "num": 331273,
+        "word": "3元以下饮料仅剩10%",
+        "onboard_time": 1706231670,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325145,
+        "num": 325145,
+        "word": "亚洲天王林俊杰",
+        "onboard_time": 1706230951,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264695,
+        "num": 264695,
+        "word": "于正 谢谢妹妹给热度",
+        "onboard_time": 1706190273,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256255,
+        "num": 256255,
+        "word": "春运第1天",
+        "onboard_time": 1706224945,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590049,
+        "num": 254469,
+        "word": "你愿意工资减少换退休金吗",
+        "onboard_time": 1706216775,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709595,
+        "num": 253333,
+        "word": "台湾省的省会是哪个城市",
+        "onboard_time": 1706231190,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 389395,
+        "num": 250220,
+        "word": "你支持取消离婚冷静期吗",
+        "onboard_time": 1706200587,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267729,
+        "num": 247290,
+        "word": "普通人没必要掏耳屎",
+        "onboard_time": 1706225665,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246993,
+        "num": 246993,
+        "word": "逃犯加入日本国籍后回国就被抓",
+        "onboard_time": 1706216475,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214209,
+        "num": 214209,
+        "word": "萌兰揉鼻子也太像个人了吧",
+        "onboard_time": 1706223743,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213499,
+        "num": 213499,
+        "word": "泡温泉会感染HPV和妇科病吗",
+        "onboard_time": 1706202084,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213146,
+        "num": 213146,
+        "word": "周星驰黑长直",
+        "onboard_time": 1706194534,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212348,
+        "num": 212348,
+        "word": "迪丽热巴模仿赵昭仪东北口音",
+        "onboard_time": 1706227108,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209679,
+        "num": 209679,
+        "word": "村里的猫 这城里也太惨了",
+        "onboard_time": 1706230951,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204309,
+        "num": 204309,
+        "word": "一天睡多少小时最好",
+        "onboard_time": 1706228429,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187370,
+        "num": 187370,
+        "word": "国产剧第一个活明白的女孩",
+        "onboard_time": 1706193213,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187022,
+        "num": 187022,
+        "word": "新加坡 全球最美机场",
+        "onboard_time": 1706227409,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184441,
+        "num": 184441,
+        "word": "肖战路透",
+        "onboard_time": 1706195374,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181805,
+        "num": 181805,
+        "word": "免疫力低下的5个表现",
+        "onboard_time": 1706194892,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180728,
+        "num": 180728,
+        "word": "为什么很多年轻人都抗拒相亲",
+        "onboard_time": 1706231190,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178359,
+        "num": 178359,
+        "word": "吃感冒药的5个禁忌",
+        "onboard_time": 1706231190,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177146,
+        "num": 177146,
+        "word": "当哥哥第一次见到妹妹",
+        "onboard_time": 1706229689,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 174626,
+        "num": 174626,
+        "word": "马斯克身价一夜减少180亿美元",
+        "onboard_time": 1706230711,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173147,
+        "num": 173147,
+        "word": "云南产出了全球一半以上的夏威夷果",
+        "onboard_time": 1706228728,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148574,
+        "num": 148574,
+        "word": "詹姆斯20次入选全明星",
+        "onboard_time": 1706231070,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146108,
+        "num": 146108,
+        "word": "女子发现丈夫犯罪起诉离婚被驳",
+        "onboard_time": 1706216956,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145192,
+        "num": 145192,
+        "word": "谢楠回应被劝离婚",
+        "onboard_time": 1706176892,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138568,
+        "num": 138568,
+        "word": "巴黎街头中国簪花女孩惊艳外国人",
+        "onboard_time": 1706206521,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134748,
+        "num": 134748,
+        "word": "辛芷蕾选的照片是靠在胡先煦肩上",
+        "onboard_time": 1706183070,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119856,
+        "num": 119856,
+        "word": "亚洲杯16强出炉",
+        "onboard_time": 1706229331,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113022,
+        "num": 113022,
+        "word": "员工抢不到票老板租车让其返乡过年",
+        "onboard_time": 1706232569,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111756,
+        "num": 111756,
+        "word": "NBA全明星首发阵容",
+        "onboard_time": 1706231010,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105648,
+        "num": 105648,
+        "word": "女子强行试衣服扯破后拒赔",
+        "onboard_time": 1706217796,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101241,
+        "num": 101241,
+        "word": "车银优给文彬的生日祝福",
+        "onboard_time": 1706232629,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神是什么#"
+    }
+  }
+}
