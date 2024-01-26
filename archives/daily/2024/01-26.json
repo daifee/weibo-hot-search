@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706261720507,
+  "endTime": 1706264317356,
   "band_list": [
     {
       "raw_hot": 2455665,
@@ -211,6 +211,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 908658,
+      "num": 908658,
+      "word": "不能露腰不能拍腿古偶男主",
+      "onboard_time": 1706258070,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 896496,
+      "num": 896496,
+      "word": "微信新增听一听入口",
+      "onboard_time": 1706259212,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 887725,
       "num": 887725,
       "word": "2023媒体反感艺人TOP3",
@@ -273,14 +289,6 @@
       "onboard_time": 1706245592,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713218,
-      "num": 713218,
-      "word": "不能露腰不能拍腿古偶男主",
-      "onboard_time": 1706258070,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 709595,
@@ -363,14 +371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 611515,
-      "num": 611515,
-      "word": "微信新增听一听入口",
-      "onboard_time": 1706259212,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 608788,
       "num": 608788,
       "word": "苹果新增118个emoji",
@@ -401,6 +401,14 @@
       "onboard_time": 1706242594,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556148,
+      "num": 556148,
+      "word": "虞书欣司机是第三方车辆公司的",
+      "onboard_time": 1706258252,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 546318,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486519,
+      "num": 486519,
+      "word": "撒贝宁 明天你就来上今日说法",
+      "onboard_time": 1706262089,
+      "rank": 12,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 478624,
       "num": 478624,
       "word": "周星驰黑长直",
@@ -521,6 +537,14 @@
       "onboard_time": 1706233588,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462014,
+      "num": 462014,
+      "word": "陆虎黄雅莉一个怕火一个南红",
+      "onboard_time": 1706261310,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 460764,
@@ -579,6 +603,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 415111,
+      "num": 415111,
+      "word": "王凯谈6年拍了3部大江大河",
+      "onboard_time": 1706262690,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412336,
       "num": 412336,
       "word": "蜘蛛夫人内地定档",
@@ -609,14 +641,6 @@
       "onboard_time": 1706240614,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396246,
-      "num": 348597,
-      "word": "虞书欣司机是第三方车辆公司的",
-      "onboard_time": 1706258252,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 390484,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375804,
+      "num": 375804,
+      "word": "昆明动物园再通报猴猫共处",
+      "onboard_time": 1706259813,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371678,
       "num": 365291,
       "word": "你认为嫁妆属于女方个人财产吗",
@@ -659,20 +691,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 369989,
+      "num": 1224419,
+      "word": "女子颅内出血医生果断帮缴检查费",
+      "onboard_time": 1706263050,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369217,
       "num": 369217,
       "word": "刘诗雯 巴黎奥运的脚步近了",
       "onboard_time": 1706259151,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366341,
-      "num": 366341,
-      "word": "昆明动物园再通报猴猫共处",
-      "onboard_time": 1706259813,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360635,
@@ -697,6 +729,14 @@
       "onboard_time": 1706216475,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331059,
+      "num": 331059,
+      "word": "王安宇长发旧照",
+      "onboard_time": 1706261549,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 330969,
@@ -763,12 +803,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 293788,
-      "num": 293788,
-      "word": "陆虎黄雅莉一个怕火一个南红",
-      "onboard_time": 1706261310,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 293943,
+      "num": 293943,
+      "word": "世界之外 半成品",
+      "onboard_time": 1706262327,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 291614,
@@ -785,6 +825,14 @@
       "onboard_time": 1706260712,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289305,
+      "num": 289305,
+      "word": "谷爱凌代言保时捷",
+      "onboard_time": 1706262327,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 286797,
@@ -897,6 +945,14 @@
       "onboard_time": 1706257351,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247260,
+      "num": 247260,
+      "word": "眠狼 三万的画",
+      "onboard_time": 1706263170,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 245284,
@@ -1091,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209727,
+      "num": 209727,
+      "word": "胡锡进期待A股春节前收复3000点",
+      "onboard_time": 1706263472,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209679,
       "num": 209679,
       "word": "村里的猫 这城里也太惨了",
@@ -1123,6 +1187,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 204479,
+      "num": 1058609,
+      "word": "这就是爷爷眼中的三好学生",
+      "onboard_time": 1706262631,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202933,
       "num": 202933,
       "word": "市民热线回应动物园猴群与猫共处",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1706245772,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198517,
+      "num": 198517,
+      "word": "为什么有些人从来不发朋友圈",
+      "onboard_time": 1706262028,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 196967,
@@ -1699,6 +1779,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 141321,
+      "num": 141321,
+      "word": "福原爱将直播带货",
+      "onboard_time": 1706263829,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141134,
       "num": 115702,
       "word": "秦海璐回复王新军",
@@ -1721,14 +1809,6 @@
       "onboard_time": 1706180729,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137990,
-      "num": 137990,
-      "word": "王安宇长发旧照",
-      "onboard_time": 1706261549,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 137110,
@@ -1859,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123336,
+      "num": 123336,
+      "word": "哈尔滨2023接待游客1.35亿人次",
+      "onboard_time": 1706261669,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123319,
       "num": 186664,
       "word": "郑钦文的郑在进行时",
@@ -1891,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122103,
-      "num": 122103,
-      "word": "哈尔滨2023接待游客1.35亿人次",
-      "onboard_time": 1706261669,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 121191,
       "num": 121191,
       "word": "王新军被网友贴脸开大",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1706173414,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118699,
+      "num": 118699,
+      "word": "小孩 这生意我今天非做不可",
+      "onboard_time": 1706261971,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 118300,
@@ -1977,6 +2065,14 @@
       "onboard_time": 1706198311,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105862,
+      "num": 915772,
+      "word": "雪夜教科书式救人的女司机找到了",
+      "onboard_time": 1706262631,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 102529,
@@ -2265,6 +2361,14 @@
       "onboard_time": 1706208857,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25855,
+      "num": 462500,
+      "word": "温太医眉姐姐反向随份子",
+      "onboard_time": 1706263230,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 23804,

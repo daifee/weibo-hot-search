@@ -1,0 +1,410 @@
+{
+  "runTime": 1706264317356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344593,
+        "num": 1344593,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369989,
+        "num": 1224419,
+        "word": "女子颅内出血医生果断帮缴检查费",
+        "onboard_time": 1706263050,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49348,
+        "num": 1150056,
+        "word": "2024春运出站口泪目瞬间",
+        "onboard_time": 1706237969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116301,
+        "num": 1116301,
+        "word": "湖北未满12岁男孩杀害4岁女童案撤案",
+        "onboard_time": 1706256510,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204479,
+        "num": 1058609,
+        "word": "这就是爷爷眼中的三好学生",
+        "onboard_time": 1706262631,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057187,
+        "num": 1057187,
+        "word": "徐娇喝到真茶了",
+        "onboard_time": 1706250690,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105862,
+        "num": 915772,
+        "word": "雪夜教科书式救人的女司机找到了",
+        "onboard_time": 1706262631,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 908658,
+        "num": 908658,
+        "word": "不能露腰不能拍腿古偶男主",
+        "onboard_time": 1706258070,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 896496,
+        "num": 896496,
+        "word": "微信新增听一听入口",
+        "onboard_time": 1706259212,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 757917,
+        "num": 757917,
+        "word": "重庆12秒不雅视频案雷政富出狱",
+        "onboard_time": 1706246314,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629928,
+        "num": 629928,
+        "word": "人在冻死前为什么会脱衣服",
+        "onboard_time": 1706256871,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 556148,
+        "num": 556148,
+        "word": "虞书欣司机是第三方车辆公司的",
+        "onboard_time": 1706258252,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486519,
+        "num": 486519,
+        "word": "撒贝宁 明天你就来上今日说法",
+        "onboard_time": 1706262089,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 479800,
+        "num": 479800,
+        "word": "徐娇赵晴微信都没有",
+        "onboard_time": 1706247152,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25855,
+        "num": 462500,
+        "word": "温太医眉姐姐反向随份子",
+        "onboard_time": 1706263230,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462014,
+        "num": 462014,
+        "word": "陆虎黄雅莉一个怕火一个南红",
+        "onboard_time": 1706261310,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415111,
+        "num": 415111,
+        "word": "王凯谈6年拍了3部大江大河",
+        "onboard_time": 1706262690,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375804,
+        "num": 375804,
+        "word": "昆明动物园再通报猴猫共处",
+        "onboard_time": 1706259813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331685,
+        "num": 331685,
+        "word": "张凌赫把中道崩殂打成中道崩阻",
+        "onboard_time": 1706255911,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331059,
+        "num": 331059,
+        "word": "王安宇长发旧照",
+        "onboard_time": 1706261549,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308632,
+        "num": 308632,
+        "word": "世界之外 101变11",
+        "onboard_time": 1706238331,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293943,
+        "num": 293943,
+        "word": "世界之外 半成品",
+        "onboard_time": 1706262327,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293273,
+        "num": 293273,
+        "word": "辣目洋子没惹任何人",
+        "onboard_time": 1706258070,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289305,
+        "num": 289305,
+        "word": "谷爱凌代言保时捷",
+        "onboard_time": 1706262327,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260850,
+        "num": 260850,
+        "word": "向日葵崩了",
+        "onboard_time": 1706259090,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247260,
+        "num": 247260,
+        "word": "眠狼 三万的画",
+        "onboard_time": 1706263170,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 209727,
+        "num": 209727,
+        "word": "胡锡进期待A股春节前收复3000点",
+        "onboard_time": 1706263472,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206169,
+        "num": 206169,
+        "word": "刘诗雯 巴黎奥运的脚步近了",
+        "onboard_time": 1706259151,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203752,
+        "num": 203752,
+        "word": "专家称中国退休年龄全球偏低",
+        "onboard_time": 1706250031,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198517,
+        "num": 198517,
+        "word": "为什么有些人从来不发朋友圈",
+        "onboard_time": 1706262028,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189874,
+        "num": 189874,
+        "word": "昆明动物园计划将猫移出猴山",
+        "onboard_time": 1706260112,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187001,
+        "num": 187001,
+        "word": "交警通报虞书欣司机高速倒车",
+        "onboard_time": 1706245294,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185202,
+        "num": 185202,
+        "word": "恋与深空送茶叶蛋",
+        "onboard_time": 1706261489,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183819,
+        "num": 183819,
+        "word": "大唐狄公案32集9个案件",
+        "onboard_time": 1706260712,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181424,
+        "num": 181424,
+        "word": "洗剪吹为什么越来越贵",
+        "onboard_time": 1706248831,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 167753,
+        "num": 167753,
+        "word": "丽江地震",
+        "onboard_time": 1706252313,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162259,
+        "num": 162259,
+        "word": "迪丽热巴困了像醉了",
+        "onboard_time": 1706259509,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156327,
+        "num": 156327,
+        "word": "虞书欣工作室致歉",
+        "onboard_time": 1706249192,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 155164,
+        "word": "曝95生当着媒体在室内抽烟",
+        "onboard_time": 1706243313,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152314,
+        "num": 152314,
+        "word": "国家开发银行原副行长一审被判20年",
+        "onboard_time": 1706261250,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143263,
+        "num": 143263,
+        "word": "裸睡有3个好处",
+        "onboard_time": 1706256330,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141321,
+        "num": 141321,
+        "word": "福原爱将直播带货",
+        "onboard_time": 1706263829,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136300,
+        "num": 136300,
+        "word": "猴子虐猫",
+        "onboard_time": 1706241390,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129506,
+        "num": 129506,
+        "word": "微博之夜新图",
+        "onboard_time": 1706259813,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128461,
+        "num": 128461,
+        "word": "大学生兼职两小时连吃五只鸡",
+        "onboard_time": 1706247930,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125561,
+        "num": 125561,
+        "word": "世界之外正式公测",
+        "onboard_time": 1706231190,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123336,
+        "num": 123336,
+        "word": "哈尔滨2023接待游客1.35亿人次",
+        "onboard_time": 1706261669,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118699,
+        "num": 118699,
+        "word": "小孩 这生意我今天非做不可",
+        "onboard_time": 1706261971,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114729,
+        "num": 114729,
+        "word": "昆明动物园",
+        "onboard_time": 1706257471,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110228,
+        "num": 110228,
+        "word": "当地将介入动物园猴子疑似虐猫",
+        "onboard_time": 1706261130,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神是什么#"
+    }
+  }
+}
