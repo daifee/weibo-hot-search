@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706242920226,
+  "endTime": 1706243727894,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -459,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1485432,
+      "num": 1485432,
+      "word": "猴子虐猫",
+      "onboard_time": 1706241390,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474568,
       "num": 1474568,
       "word": "奚梦瑶卖奢侈品包包10块一件",
@@ -907,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1075069,
-      "num": 1075069,
-      "word": "猴子虐猫",
-      "onboard_time": 1706241390,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1075000,
       "num": 552211,
       "word": "腾讯64.2亿海淀拿地",
@@ -1323,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 877616,
+      "num": 877616,
+      "word": "谁家大学生房间里有三室一厅啊",
+      "onboard_time": 1706240490,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 874923,
       "num": 874923,
       "word": "弭金秒删",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1706237189,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794414,
-      "num": 794414,
-      "word": "谁家大学生房间里有三室一厅啊",
-      "onboard_time": 1706240490,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 793785,
@@ -2675,6 +2675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 559974,
+      "num": 559974,
+      "word": "金莎原以为观众会对孙丞潇很宽容",
+      "onboard_time": 1706242594,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558609,
       "num": 558609,
       "word": "肖宇梁 纯元瓶",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1705908508,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 536649,
+      "num": 536649,
+      "word": "2023媒体反感艺人TOP3",
+      "onboard_time": 1706242894,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 533297,
@@ -3172,7 +3188,7 @@
     },
     {
       "raw_hot": 486619,
-      "num": 349821,
+      "num": 364276,
       "word": "爸爸20年储存60斤陈皮给女儿作嫁妆",
       "onboard_time": 1706236349,
       "rank": 49,
@@ -3875,6 +3891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420888,
+      "num": 420888,
+      "word": "大张伟 贾仙女让我做首健身时打气的歌",
+      "onboard_time": 1706240614,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417709,
       "num": 417709,
       "word": "虞书欣司机在高速倒车交警已介入",
@@ -4419,6 +4443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376680,
+      "num": 376680,
+      "word": "江西新余大火遇难者亲友发声",
+      "onboard_time": 1706242289,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376121,
       "num": 376121,
       "word": "C罗在机场用中文打招呼",
@@ -4460,7 +4492,7 @@
     },
     {
       "raw_hot": 371678,
-      "num": 310993,
+      "num": 365291,
       "word": "你认为嫁妆属于女方个人财产吗",
       "onboard_time": 1706239412,
       "rank": 32,
@@ -4481,6 +4513,14 @@
       "onboard_time": 1706154632,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369858,
+      "num": 369858,
+      "word": "结婚为什么需要这么多被子",
+      "onboard_time": 1706243133,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 369749,
@@ -4561,6 +4601,14 @@
       "onboard_time": 1706190873,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 361097,
+      "num": 361097,
+      "word": "于正回应",
+      "onboard_time": 1706242954,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 360635,
@@ -5051,6 +5099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 328075,
+      "num": 328075,
+      "word": "英雄联盟手游",
+      "onboard_time": 1706242170,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327099,
       "num": 327099,
       "word": "京极真 园子",
@@ -5115,14 +5171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323522,
-      "num": 323522,
-      "word": "大张伟 贾仙女让我做首健身时打气的歌",
-      "onboard_time": 1706240614,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 323395,
       "num": 323395,
       "word": "男子徒手接住6楼坠落男孩",
@@ -5169,6 +5217,14 @@
       "onboard_time": 1705989685,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321774,
+      "num": 321774,
+      "word": "陈建斌回应网友二创甄嬛传",
+      "onboard_time": 1706243075,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321595,
@@ -5241,6 +5297,14 @@
       "onboard_time": 1705930349,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319005,
+      "num": 319005,
+      "word": "曝95生当着媒体在室内抽烟",
+      "onboard_time": 1706243313,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 318166,
@@ -5529,14 +5593,6 @@
       "onboard_time": 1706076689,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299475,
-      "num": 299475,
-      "word": "英雄联盟手游",
-      "onboard_time": 1706242170,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 299323,
@@ -6025,14 +6081,6 @@
       "onboard_time": 1706139626,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273926,
-      "num": 273926,
-      "word": "2023媒体反感艺人TOP3",
-      "onboard_time": 1706242894,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 273501,
@@ -6843,14 +6891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238191,
-      "num": 238191,
-      "word": "金莎原以为观众会对孙丞潇很宽容",
-      "onboard_time": 1706242594,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238120,
       "num": 238120,
       "word": "光夜 萧逸战损",
@@ -6888,14 +6928,6 @@
       "word": "方城起火宿舍疑为教室改建",
       "onboard_time": 1705892962,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235753,
-      "num": 235753,
-      "word": "江西新余大火遇难者亲友发声",
-      "onboard_time": 1706242289,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -7979,6 +8011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206402,
+      "num": 206402,
+      "word": "传音年终奖多发30%",
+      "onboard_time": 1706242832,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 206390,
       "num": 186086,
       "word": "被黄执中这段辩论震撼到了",
@@ -8209,6 +8249,14 @@
       "onboard_time": 1705900047,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202100,
+      "num": 202100,
+      "word": "肖战GQ门牌号是生日",
+      "onboard_time": 1706241992,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202036,
@@ -8841,14 +8889,6 @@
       "onboard_time": 1705990107,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191965,
-      "num": 191965,
-      "word": "肖战GQ门牌号是生日",
-      "onboard_time": 1706241992,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191272,
@@ -9523,6 +9563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179914,
+      "num": 179914,
+      "word": "俞敏洪称只依赖董宇辉不是正常公司",
+      "onboard_time": 1706243492,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179775,
       "num": 179775,
       "word": "仙剑六男扮女装女扮男装",
@@ -9545,6 +9593,14 @@
       "onboard_time": 1705993592,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 178779,
+      "num": 178779,
+      "word": "猫说当初也没告诉我是合租啊",
+      "onboard_time": 1706242232,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 178674,
@@ -10905,14 +10961,6 @@
       "onboard_time": 1706038936,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156936,
-      "num": 156936,
-      "word": "猫说当初也没告诉我是合租啊",
-      "onboard_time": 1706242232,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 156413,
@@ -12761,14 +12809,6 @@
       "onboard_time": 1705970008,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129617,
-      "num": 129617,
-      "word": "传音年终奖多发30%",
-      "onboard_time": 1706242832,
-      "rank": 48,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 129319,
@@ -15275,6 +15315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42215,
+      "num": 391298,
+      "word": "国宝顶峰相见",
+      "onboard_time": 1706241390,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41522,
       "num": 41522,
       "word": "庞博不愧是有三行代码在太空的",
@@ -15313,14 +15361,6 @@
       "onboard_time": 1706117241,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38126,
-      "num": 314965,
-      "word": "国宝顶峰相见",
-      "onboard_time": 1706241390,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35592,
@@ -15467,6 +15507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23804,
+      "num": 481830,
+      "word": "上蛋仔岛开启新赛季",
+      "onboard_time": 1706241634,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22869,
       "num": 1557387,
       "word": "我国高光谱综合观测卫星投入使用",
@@ -15529,14 +15577,6 @@
       "onboard_time": 1705874413,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17837,
-      "num": 406013,
-      "word": "上蛋仔岛开启新赛季",
-      "onboard_time": 1706241634,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 17457,
