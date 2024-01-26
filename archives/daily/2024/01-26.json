@@ -1,6 +1,6 @@
 {
   "startTime": 1706199873248,
-  "endTime": 1706232755104,
+  "endTime": 1706235874033,
   "band_list": [
     {
       "raw_hot": 2006838,
@@ -8,6 +8,14 @@
       "word": "你愿意工资减少换退休金吗",
       "onboard_time": 1706216775,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1821141,
+      "num": 1821141,
+      "word": "女子遭研究生同学无视追讨礼金",
+      "onboard_time": 1706231428,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -35,11 +43,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1154772,
+      "num": 1154772,
+      "word": "11月大男婴哭湿口罩后闷死",
+      "onboard_time": 1706231428,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974061,
       "num": 974061,
       "word": "科学家警告小心北极僵尸病毒",
       "onboard_time": 1706193813,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943872,
+      "num": 943872,
+      "word": "3元以下饮料仅剩10%",
+      "onboard_time": 1706231670,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -51,24 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 786382,
-      "num": 786382,
-      "word": "女子遭研究生同学无视追讨礼金",
-      "onboard_time": 1706231428,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712597,
-      "num": 510891,
-      "word": "11月大男婴哭湿口罩后闷死",
-      "onboard_time": 1706231428,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 709595,
-      "num": 253333,
+      "num": 266523,
       "word": "台湾省的省会是哪个城市",
       "onboard_time": 1706231190,
       "rank": 22,
@@ -81,6 +89,14 @@
       "onboard_time": 1706188473,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688620,
+      "num": 688620,
+      "word": "根管治疗或被一种化合物替代",
+      "onboard_time": 1706233287,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 683895,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533297,
+      "num": 533297,
+      "word": "曹德旺一个月内投资90亿",
+      "onboard_time": 1706233287,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 520798,
       "num": 520798,
       "word": "广州夫妻捡垃圾在城中村造了一个博物馆",
@@ -169,6 +193,14 @@
       "onboard_time": 1706194534,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465980,
+      "num": 465980,
+      "word": "丫丫脸蛋子嘟噜了",
+      "onboard_time": 1706233588,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439777,
@@ -195,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402662,
+      "num": 402662,
+      "word": "马斯克称愿向中国车企授权技术",
+      "onboard_time": 1706233470,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 385378,
       "num": 385378,
       "word": "肖战路透",
@@ -204,7 +244,7 @@
     },
     {
       "raw_hot": 336418,
-      "num": 247290,
+      "num": 251940,
       "word": "普通人没必要掏耳屎",
       "onboard_time": 1706225665,
       "rank": 28,
@@ -216,14 +256,6 @@
       "word": "逃犯加入日本国籍后回国就被抓",
       "onboard_time": 1706216475,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331273,
-      "num": 331273,
-      "word": "3元以下饮料仅剩10%",
-      "onboard_time": 1706231670,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -241,6 +273,14 @@
       "onboard_time": 1706230951,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309319,
+      "num": 309319,
+      "word": "汪峰方否认女儿将出道",
+      "onboard_time": 1706234791,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 303904,
@@ -297,6 +337,22 @@
       "onboard_time": 1706199151,
       "rank": 17,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 233003,
+      "num": 233003,
+      "word": "国足离淘汰赛就差了1分",
+      "onboard_time": 1706234310,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231589,
+      "num": 231589,
+      "word": "董宇辉直播间或带货化妆品",
+      "onboard_time": 1706233949,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 226053,
@@ -387,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192784,
+      "num": 192784,
+      "word": "为什么很多年轻人都抗拒相亲",
+      "onboard_time": 1706231190,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189285,
       "num": 189285,
       "word": "空间站视角看朝霞",
@@ -411,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185193,
-      "num": 185193,
-      "word": "为什么很多年轻人都抗拒相亲",
-      "onboard_time": 1706231190,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 182108,
+      "num": 182108,
+      "word": "丫丫的熊大衣又厚实了",
+      "onboard_time": 1706233828,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181820,
@@ -491,12 +555,60 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160026,
+      "num": 160026,
+      "word": "苹果ID贷以库克回租为名非法放贷",
+      "onboard_time": 1706234548,
+      "rank": 30,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 155882,
       "num": 116618,
       "word": "徐娇女王行为",
       "onboard_time": 1706196872,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153162,
+      "num": 153162,
+      "word": "车银优给文彬的生日祝福",
+      "onboard_time": 1706232629,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151678,
+      "num": 151678,
+      "word": "A股",
+      "onboard_time": 1706234909,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 149663,
+      "num": 149663,
+      "word": "肖战GQ封面预告",
+      "onboard_time": 1706235689,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 149130,
+      "num": 149130,
+      "word": "免签和落地签国家盘点",
+      "onboard_time": 1706233287,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 144683,
+      "num": 144683,
+      "word": "头一回见年终要给老板发红包",
+      "onboard_time": 1706234791,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 144223,
@@ -531,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135872,
+      "num": 135872,
+      "word": "村支书满脸通红被质疑上班醉酒",
+      "onboard_time": 1706235450,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135711,
       "num": 135711,
       "word": "宝爸辞职做自媒体有多心酸",
@@ -544,6 +664,14 @@
       "word": "科比去世四周年",
       "onboard_time": 1706226506,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128419,
+      "num": 128419,
+      "word": "亚历山大绝杀库里",
+      "onboard_time": 1706233287,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -579,11 +707,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120475,
+      "num": 120475,
+      "word": "全国多地直击春运首日",
+      "onboard_time": 1706235631,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119851,
       "num": 119851,
       "word": "医生从听力减退小伙耳道拽出蘑菇",
       "onboard_time": 1706173414,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116736,
+      "num": 116736,
+      "word": "德云社抢票",
+      "onboard_time": 1706235749,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113745,
+      "num": 113745,
+      "word": "员工抢不到票老板租车让其返乡过年",
+      "onboard_time": 1706232569,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -593,14 +745,6 @@
       "onboard_time": 1706197591,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113022,
-      "num": 113022,
-      "word": "员工抢不到票老板租车让其返乡过年",
-      "onboard_time": 1706232569,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111738,
@@ -633,14 +777,6 @@
       "onboard_time": 1706178994,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 101241,
-      "num": 101241,
-      "word": "车银优给文彬的生日祝福",
-      "onboard_time": 1706232629,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 99815,
@@ -732,7 +868,7 @@
     },
     {
       "raw_hot": 66264,
-      "num": 961608,
+      "num": 1023064,
       "word": "2024春运出行指南",
       "onboard_time": 1706191655,
       "rank": 2,
