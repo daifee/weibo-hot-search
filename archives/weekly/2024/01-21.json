@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706348044861,
+  "endTime": 1706350614367,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -129,6 +129,14 @@
       "onboard_time": 1706092771,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2181710,
+      "num": 2181710,
+      "word": "郑钦文获澳网亚军",
+      "onboard_time": 1706349931,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2178207,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1535538,
+      "num": 1535538,
+      "word": "银川烧烤店31死爆炸事故调查报告",
+      "onboard_time": 1706347770,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1533872,
       "num": 1533872,
       "word": "虞书欣司机在高速上倒车",
@@ -569,6 +585,14 @@
       "onboard_time": 1706091150,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1461618,
+      "num": 1461618,
+      "word": "初中妹妹8科成绩总分66",
+      "onboard_time": 1706346329,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1456723,
@@ -1315,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988887,
+      "num": 988887,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1706340808,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 986062,
       "num": 986062,
       "word": "武磊承认中国足球令人失望",
@@ -2003,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788046,
+      "num": 788046,
+      "word": "虞书欣抠手",
+      "onboard_time": 1706346510,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787524,
       "num": 787524,
       "word": "美嘉被山根挡住的眼泪",
@@ -2123,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 754446,
-      "num": 754446,
-      "word": "虞书欣抠手",
-      "onboard_time": 1706346510,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 752951,
       "num": 713189,
       "word": "张馨予为昆明动物园事件发声",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1705921947,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 743077,
-      "num": 743077,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1706340808,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 741302,
@@ -2387,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702019,
+      "num": 702019,
+      "word": "结婚买房真是沉重的话题",
+      "onboard_time": 1706346028,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 701989,
       "num": 701989,
       "word": "三亚沙滩现多起剧毒僧帽水母伤人事件",
@@ -2433,14 +2465,6 @@
       "onboard_time": 1706098291,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 689997,
-      "num": 689997,
-      "word": "初中妹妹8科成绩总分66",
-      "onboard_time": 1706346329,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 689668,
@@ -3355,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552435,
+      "num": 552435,
+      "word": "小动物保护协会称两只猫暂未被找到",
+      "onboard_time": 1706347230,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549529,
       "num": 549529,
       "word": "邱莹莹爸爸变成黄瀛子爸爸",
@@ -3817,14 +3849,6 @@
       "onboard_time": 1705896868,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492305,
-      "num": 492305,
-      "word": "小动物保护协会称两只猫暂未被找到",
-      "onboard_time": 1706347230,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491841,
@@ -4723,6 +4747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 418419,
+      "num": 418419,
+      "word": "澳网",
+      "onboard_time": 1705921109,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417709,
       "num": 417709,
       "word": "虞书欣司机在高速倒车交警已介入",
@@ -4793,6 +4825,14 @@
       "onboard_time": 1706272169,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412475,
+      "num": 412475,
+      "word": "圆明园有安陵容冰嬉了",
+      "onboard_time": 1706340329,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 412336,
@@ -4921,14 +4961,6 @@
       "onboard_time": 1705957992,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403217,
-      "num": 304109,
-      "word": "结婚买房真是沉重的话题",
-      "onboard_time": 1706346028,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 402662,
@@ -5299,14 +5331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 379504,
-      "num": 379504,
-      "word": "圆明园有安陵容冰嬉了",
-      "onboard_time": 1706340329,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379455,
       "num": 379455,
       "word": "杭州下雪",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1705928669,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 374963,
+      "num": 374963,
+      "word": "2名中管干部因富洋烧烤店燃气爆炸被问责",
+      "onboard_time": 1706348669,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374357,
@@ -5564,7 +5596,7 @@
     },
     {
       "raw_hot": 363492,
-      "num": 363492,
+      "num": 1713095,
       "word": "一元一串的钵钵鸡有多洗脑",
       "onboard_time": 1706342250,
       "rank": 17,
@@ -5929,6 +5961,14 @@
       "onboard_time": 1705894947,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340734,
+      "num": 340734,
+      "word": "红山动物园",
+      "onboard_time": 1706347770,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340365,
@@ -6467,14 +6507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312689,
-      "num": 312689,
-      "word": "澳网",
-      "onboard_time": 1705921109,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312004,
       "num": 312004,
       "word": "仙剑甄嬛传",
@@ -6681,6 +6713,14 @@
       "onboard_time": 1706164951,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300748,
+      "num": 300748,
+      "word": "你早上刷牙还是晚上刷牙",
+      "onboard_time": 1706348971,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300696,
@@ -7395,6 +7435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 273137,
+      "num": 273137,
+      "word": "刘宇魏无羡造型",
+      "onboard_time": 1706350532,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272856,
       "num": 272856,
       "word": "水哥真的在试图教会我魔方",
@@ -7697,6 +7745,14 @@
       "onboard_time": 1706146950,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259489,
+      "num": 259489,
+      "word": "郑钦文ACE榜断层领先",
+      "onboard_time": 1706335408,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 258164,
@@ -8155,14 +8211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243795,
-      "num": 304115,
-      "word": "银川烧烤店31死爆炸事故调查报告",
-      "onboard_time": 1706347770,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243771,
       "num": 243771,
       "word": "才工作两年父母就找我借钱",
@@ -8179,6 +8227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243591,
+      "num": 235022,
+      "word": "人间失联 崩铁星期日",
+      "onboard_time": 1706350288,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243184,
       "num": 243184,
       "word": "京阿尼纵火案判处被告死刑",
@@ -8193,6 +8249,22 @@
       "onboard_time": 1706001813,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242641,
+      "num": 242641,
+      "word": "银川烧烤店爆炸原因之一是送错气瓶",
+      "onboard_time": 1706348489,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242576,
+      "num": 242576,
+      "word": "李娜现场助阵郑钦文",
+      "onboard_time": 1706349151,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 242527,
@@ -8217,6 +8289,14 @@
       "onboard_time": 1706160151,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242118,
+      "num": 242118,
+      "word": "虞书欣倒车风波后现身",
+      "onboard_time": 1706349450,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 242109,
@@ -9163,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217441,
+      "num": 1497208,
+      "word": "河南多家公司宣布除夕放假",
+      "onboard_time": 1706349030,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217190,
       "num": 217190,
       "word": "南方人去尔滨一定要提前准备",
@@ -9497,6 +9585,14 @@
       "onboard_time": 1706184513,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210797,
+      "num": 210797,
+      "word": "俞飞鸿53了",
+      "onboard_time": 1706347351,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 210706,
@@ -10483,6 +10579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196739,
+      "num": 196739,
+      "word": "银川烧烤店爆炸66名公职人员被问责",
+      "onboard_time": 1706349873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196526,
       "num": 196526,
       "word": "没见过这么社死的女主角",
@@ -10609,14 +10713,6 @@
       "onboard_time": 1705915645,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195379,
-      "num": 195379,
-      "word": "俞飞鸿53了",
-      "onboard_time": 1706347351,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 195309,
@@ -10897,14 +10993,6 @@
       "onboard_time": 1706156733,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191095,
-      "num": 182938,
-      "word": "郑钦文ACE榜断层领先",
-      "onboard_time": 1706335408,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 190943,
@@ -11249,6 +11337,14 @@
       "onboard_time": 1705923028,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186202,
+      "num": 186202,
+      "word": "蔡国庆时代少年团",
+      "onboard_time": 1706349211,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 186201,
@@ -11729,6 +11825,14 @@
       "onboard_time": 1706265092,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179652,
+      "num": 1243967,
+      "word": "山东人有属于自己的汉堡",
+      "onboard_time": 1706348793,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 179349,
@@ -12251,6 +12355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172120,
+      "num": 172120,
+      "word": "范丞丞直播",
+      "onboard_time": 1706348850,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172059,
       "num": 172059,
       "word": "谢可寅为虞书欣包场祈今朝",
@@ -12545,6 +12657,14 @@
       "onboard_time": 1705834286,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167972,
+      "num": 167972,
+      "word": "鞠婧祎让茅子俊展示身材",
+      "onboard_time": 1706350050,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 167954,
@@ -13635,14 +13755,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 153938,
-      "num": 153938,
-      "word": "红山动物园",
-      "onboard_time": 1706347770,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153828,
       "num": 153828,
       "word": "京东养车回应途虎索赔",
@@ -14625,6 +14737,14 @@
       "onboard_time": 1705828706,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141758,
+      "num": 141758,
+      "word": "发球大战",
+      "onboard_time": 1706348431,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 141612,
@@ -19387,6 +19507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 10306,
+      "num": 1571893,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1706267791,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10258,
       "num": 10258,
       "word": "男子掉入冰窟消防员以身破冰相救",
@@ -19401,14 +19529,6 @@
       "onboard_time": 1705986689,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8156,
-      "num": 979379,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1706267791,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5769,
