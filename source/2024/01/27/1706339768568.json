@@ -1,0 +1,410 @@
+{
+  "runTime": 1706339768568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1145208,
+        "num": 1145208,
+        "word": "日本小姐冠军在日引巨大争议",
+        "onboard_time": 1706333909,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933481,
+        "num": 933481,
+        "word": "花少各种美女睡在一起",
+        "onboard_time": 1706333968,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40811,
+        "num": 823131,
+        "word": "在春运中看到经济活力和亲情乡愁",
+        "onboard_time": 1706324969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729221,
+        "num": 729221,
+        "word": "南方小土豆已经有哈尔滨后遗症了",
+        "onboard_time": 1706329409,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546670,
+        "num": 546670,
+        "word": "拜登演讲时突然胡言乱语",
+        "onboard_time": 1706327427,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416456,
+        "num": 416456,
+        "word": "女子回应欲跳入猴山救猫",
+        "onboard_time": 1706336968,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394307,
+        "num": 394307,
+        "word": "陈楚生王心凌男女对唱版大眠",
+        "onboard_time": 1706335886,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380406,
+        "num": 380406,
+        "word": "陈赫嘱咐郑恺保护好阑尾",
+        "onboard_time": 1706337569,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343976,
+        "num": 343976,
+        "word": "周也雪地红玫瑰",
+        "onboard_time": 1706336187,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336668,
+        "num": 336668,
+        "word": "宋亚轩主动提出跟韩红磨棚",
+        "onboard_time": 1706337927,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510534,
+        "num": 335060,
+        "word": "失血性月经",
+        "onboard_time": 1706325990,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400067,
+        "num": 334488,
+        "word": "红山动物园为昆明动物园的猫发声",
+        "onboard_time": 1706327126,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329210,
+        "num": 329210,
+        "word": "在人间 赵丽颖孙千",
+        "onboard_time": 1706331866,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325881,
+        "num": 325881,
+        "word": "昆明猫猴共处事件谁在装睡",
+        "onboard_time": 1706329227,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287875,
+        "num": 287875,
+        "word": "娃娃为什么不能扎两个辫子",
+        "onboard_time": 1706336489,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263822,
+        "num": 263822,
+        "word": "任嘉伦彭小苒两个be专业户",
+        "onboard_time": 1706333728,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251299,
+        "num": 251299,
+        "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+        "onboard_time": 1706316507,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245699,
+        "num": 245699,
+        "word": "男子开车嬉闹撞死三轮车驾驶员",
+        "onboard_time": 1706321249,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239622,
+        "num": 239622,
+        "word": "侯雯元上岛后眼睛里都没光了",
+        "onboard_time": 1706338470,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228425,
+        "num": 228425,
+        "word": "猴山的猫将由小动物保护协会带走安置",
+        "onboard_time": 1706321065,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197914,
+        "num": 197914,
+        "word": "迪丽热巴晒花少vlog",
+        "onboard_time": 1706333189,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196951,
+        "num": 196951,
+        "word": "招财美甲",
+        "onboard_time": 1706326410,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 191085,
+        "word": "赵露思修身连衣裙",
+        "onboard_time": 1706329109,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160287,
+        "num": 160287,
+        "word": "不刷牙会增加全身疾病风险",
+        "onboard_time": 1706329890,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157082,
+        "num": 157082,
+        "word": "雷佳音评价赵丽颖",
+        "onboard_time": 1706339070,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155420,
+        "num": 155420,
+        "word": "优酷把要久久爱放悬疑剧场了",
+        "onboard_time": 1706328627,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152579,
+        "num": 152579,
+        "word": "南昌动物园回应猴馆内有多只猫咪",
+        "onboard_time": 1706331689,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147115,
+        "num": 147115,
+        "word": "昆明动物园承诺对猫妥善安置",
+        "onboard_time": 1706319086,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143747,
+        "num": 143747,
+        "word": "2024年浙江首考成绩今日可查",
+        "onboard_time": 1706336909,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143456,
+        "num": 143456,
+        "word": "徐冬冬的名字已经成为了一个梗",
+        "onboard_time": 1706330130,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240515,
+        "num": 142967,
+        "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+        "onboard_time": 1706323349,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138088,
+        "num": 138088,
+        "word": "郑钦文ACE榜断层领先",
+        "onboard_time": 1706335408,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132197,
+        "num": 132197,
+        "word": "2位蛋糕师3天复刻云顶天宫蛋糕",
+        "onboard_time": 1706319327,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131694,
+        "num": 131694,
+        "word": "瘦是因为爸妈做的饭太难吃了",
+        "onboard_time": 1706323227,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118700,
+        "num": 118700,
+        "word": "马伊琍高中自己赚钱付学费",
+        "onboard_time": 1706339550,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112266,
+        "num": 112266,
+        "word": "蛋挞就没有错吗",
+        "onboard_time": 1706337507,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111643,
+        "num": 111643,
+        "word": "三变正妻 前妻变三",
+        "onboard_time": 1706316268,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103689,
+        "num": 103689,
+        "word": "黄瀛子蒋翼转角爱",
+        "onboard_time": 1706339727,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100305,
+        "num": 100305,
+        "word": "在德国生活的日常 水质太硬",
+        "onboard_time": 1706338470,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100159,
+        "num": 100159,
+        "word": "离婚搭子同居养娃",
+        "onboard_time": 1706321131,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98122,
+        "num": 98122,
+        "word": "快乐老友记 加更呢",
+        "onboard_time": 1706334988,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98042,
+        "num": 98042,
+        "word": "亚美森咖啡宣布退出中国市场",
+        "onboard_time": 1706337208,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92131,
+        "num": 92131,
+        "word": "白人饭天花板",
+        "onboard_time": 1706338709,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91094,
+        "num": 91094,
+        "word": "中国人用5种线织出4500种颜色",
+        "onboard_time": 1706334027,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90654,
+        "num": 90654,
+        "word": "微塑料侵入大脑或诱发帕金森",
+        "onboard_time": 1706337389,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88893,
+        "num": 88893,
+        "word": "Letme直播哭了",
+        "onboard_time": 1706326050,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88247,
+        "num": 88247,
+        "word": "董宇辉回应曾被网友指沉默不承担责任",
+        "onboard_time": 1706329646,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86090,
+        "num": 86090,
+        "word": "19岁小伙为女友租房陷入罗生门",
+        "onboard_time": 1706322928,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82915,
+        "num": 82915,
+        "word": "祖孙三代的第一张奖状含金量有多高",
+        "onboard_time": 1706336669,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82183,
+        "num": 82183,
+        "word": "快乐老友记",
+        "onboard_time": 1706334988,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系文旅发展#"
+    }
+  }
+}

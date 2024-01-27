@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706337255786,
+  "endTime": 1706339768568,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1145208,
+      "num": 1145208,
+      "word": "日本小姐冠军在日引巨大争议",
+      "onboard_time": 1706333909,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117441,
       "num": 1117441,
       "word": "男子开车嬉闹撞死三轮车驾驶员",
@@ -97,14 +105,6 @@
       "onboard_time": 1706325990,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 956053,
-      "num": 956053,
-      "word": "日本小姐冠军在日引巨大争议",
-      "onboard_time": 1706333909,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904508,
@@ -315,12 +315,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 416456,
+      "num": 416456,
+      "word": "女子回应欲跳入猴山救猫",
+      "onboard_time": 1706336968,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401589,
       "num": 401589,
       "word": "曝95后待爆男艺人要求删cp互动画面",
       "onboard_time": 1706272410,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394307,
+      "num": 394307,
+      "word": "陈楚生王心凌男女对唱版大眠",
+      "onboard_time": 1706335886,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 390195,
@@ -331,11 +347,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 390011,
-      "num": 390011,
-      "word": "陈楚生王心凌男女对唱版大眠",
-      "onboard_time": 1706335886,
-      "rank": 15,
+      "raw_hot": 380406,
+      "num": 380406,
+      "word": "陈赫嘱咐郑恺保护好阑尾",
+      "onboard_time": 1706337569,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343976,
+      "num": 343976,
+      "word": "周也雪地红玫瑰",
+      "onboard_time": 1706336187,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343453,
       "num": 343453,
       "word": "Letme直播哭了",
@@ -409,6 +433,14 @@
       "onboard_time": 1706265450,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336668,
+      "num": 336668,
+      "word": "宋亚轩主动提出跟韩红磨棚",
+      "onboard_time": 1706337927,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 335986,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287875,
+      "num": 287875,
+      "word": "娃娃为什么不能扎两个辫子",
+      "onboard_time": 1706336489,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280736,
       "num": 280736,
       "word": "欧阳娜娜虞书欣为欧阳娣娣打call",
@@ -547,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260155,
-      "num": 260155,
-      "word": "周也雪地红玫瑰",
-      "onboard_time": 1706336187,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254373,
       "num": 254373,
       "word": "19岁小伙为女友租房陷入罗生门",
@@ -569,6 +601,14 @@
       "onboard_time": 1706271270,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239622,
+      "num": 239622,
+      "word": "侯雯元上岛后眼睛里都没光了",
+      "onboard_time": 1706338470,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 235406,
@@ -601,14 +641,6 @@
       "onboard_time": 1706310200,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221960,
-      "num": 140699,
-      "word": "娃娃为什么不能扎两个辫子",
-      "onboard_time": 1706336489,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 221266,
@@ -955,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157082,
+      "num": 157082,
+      "word": "雷佳音评价赵丽颖",
+      "onboard_time": 1706339070,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156658,
       "num": 156658,
       "word": "孙子返乡用玉米皮给奶奶做古风头冠",
@@ -1155,14 +1195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124043,
-      "num": 124043,
-      "word": "女子回应欲跳入猴山救猫",
-      "onboard_time": 1706336968,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121645,
       "num": 121645,
       "word": "要久久爱回国文学",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1706323888,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118700,
+      "num": 118700,
+      "word": "马伊琍高中自己赚钱付学费",
+      "onboard_time": 1706339550,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 118567,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1706320348,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112266,
+      "num": 112266,
+      "word": "蛋挞就没有错吗",
+      "onboard_time": 1706337507,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 111248,
@@ -1307,6 +1355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 103689,
+      "num": 103689,
+      "word": "黄瀛子蒋翼转角爱",
+      "onboard_time": 1706339727,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103025,
       "num": 103025,
       "word": "奶牛猫原来是这样诞生的",
@@ -1347,12 +1403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100305,
+      "num": 100305,
+      "word": "在德国生活的日常 水质太硬",
+      "onboard_time": 1706338470,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99137,
       "num": 99137,
       "word": "SpotifyCEO痛批苹果欧洲新规",
       "onboard_time": 1706320588,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98042,
+      "num": 98042,
+      "word": "亚美森咖啡宣布退出中国市场",
+      "onboard_time": 1706337208,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 97947,
@@ -1451,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92131,
+      "num": 92131,
+      "word": "白人饭天花板",
+      "onboard_time": 1706338709,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92050,
       "num": 92050,
       "word": "自己掏耳朵的风险",
@@ -1467,20 +1547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90654,
+      "num": 90654,
+      "word": "微塑料侵入大脑或诱发帕金森",
+      "onboard_time": 1706337389,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90618,
       "num": 90618,
       "word": "五千年女子妆容变迁",
       "onboard_time": 1706318970,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 89251,
-      "num": 89251,
-      "word": "亚美森咖啡宣布退出中国市场",
-      "onboard_time": 1706337208,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 87855,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/27 14:34:15
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/27 15:16:08
 </p>
 </blockquote>
 <p>
@@ -3375,6 +3375,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E4%BA%89%E8%AE%AE%23" target="weibo">
+日本小姐冠军在日引巨大争议（热度：1145208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%95%E7%A4%BA%E6%B3%B3%E8%A1%A3%23" target="weibo">
 迪丽热巴展示泳衣（热度：1145192）
 </a>
@@ -4727,12 +4733,6 @@ iPhone从4000多米高空坠落仍可使用（热度：987136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E8%8A%B140%E5%A4%9A%E4%B8%87%E5%85%83%E5%BB%BA%E4%BA%86%E6%9D%A1500%E7%B1%B3%E6%96%AD%E5%A4%B4%E8%B7%AF%23" target="weibo">
 贪官花40多万元建了条500米断头路（热度：956831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E4%BA%89%E8%AE%AE%23" target="weibo">
-日本小姐冠军在日引巨大争议（热度：956053）
 </a>
 </li>
 
