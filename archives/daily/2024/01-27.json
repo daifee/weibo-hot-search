@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706364892622,
+  "endTime": 1706366117274,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1148286,
+      "num": 1148286,
+      "word": "包上恩",
+      "onboard_time": 1706362831,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145970,
       "num": 626417,
       "word": "泰勒斯威夫特AI不雅照疯传",
@@ -201,14 +209,6 @@
       "onboard_time": 1706325990,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1033874,
-      "num": 1033874,
-      "word": "包上恩",
-      "onboard_time": 1706362831,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 988887,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 642191,
+      "num": 642191,
+      "word": "主播称董宇辉被叫老板恨不得翻脸",
+      "onboard_time": 1706364333,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 622968,
       "num": 622968,
       "word": "上海市中心的24平小豪宅",
@@ -497,6 +505,14 @@
       "onboard_time": 1706357308,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 515641,
+      "num": 515641,
+      "word": "阿拉斯加自己走丢在大街上大哭",
+      "onboard_time": 1706363492,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 513094,
@@ -635,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412089,
+      "num": 412089,
+      "word": "文韬齐思钧去看了唐九洲巡演",
+      "onboard_time": 1706362173,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 401589,
       "num": 401589,
       "word": "曝95后待爆男艺人要求删cp互动画面",
@@ -681,6 +705,14 @@
       "onboard_time": 1706340450,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378615,
+      "num": 378615,
+      "word": "昆明动物园",
+      "onboard_time": 1706257471,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377187,
@@ -731,12 +763,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362610,
-      "num": 362610,
-      "word": "阿拉斯加自己走丢在大街上大哭",
-      "onboard_time": 1706363492,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 365870,
+      "num": 365870,
+      "word": "人要一寸一寸的拯救自己",
+      "onboard_time": 1706361691,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 352075,
@@ -883,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311282,
-      "num": 311282,
-      "word": "昆明动物园",
-      "onboard_time": 1706257471,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308859,
       "num": 308859,
       "word": "任嘉伦彭小苒同框路透",
@@ -947,14 +971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290769,
-      "num": 290769,
-      "word": "文韬齐思钧去看了唐九洲巡演",
-      "onboard_time": 1706362173,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 288617,
       "num": 288617,
       "word": "徐娇喝到真茶了",
@@ -977,6 +993,14 @@
       "onboard_time": 1706336489,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282409,
+      "num": 282409,
+      "word": "金晨舞蹈致敬200年前清代女科学家",
+      "onboard_time": 1706361750,
+      "rank": 27,
+      "category": "科学科普,艺人"
     },
     {
       "raw_hot": 281804,
@@ -1009,22 +1033,6 @@
       "onboard_time": 1706280154,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 275858,
-      "num": 275858,
-      "word": "人要一寸一寸的拯救自己",
-      "onboard_time": 1706361691,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 273750,
-      "num": 273750,
-      "word": "金晨舞蹈致敬200年前清代女科学家",
-      "onboard_time": 1706361750,
-      "rank": 27,
-      "category": "科学科普,艺人"
     },
     {
       "raw_hot": 273729,
@@ -1235,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226069,
-      "num": 226069,
-      "word": "主播称董宇辉被叫老板恨不得翻脸",
-      "onboard_time": 1706364333,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 224812,
       "num": 189158,
       "word": "爸妈听说我除夕不放假时",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1706340928,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 214385,
+      "num": 214385,
+      "word": "青山说灰原喜欢柯南",
+      "onboard_time": 1706363373,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 212918,
@@ -1449,6 +1457,14 @@
       "onboard_time": 1706333606,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200038,
+      "num": 200038,
+      "word": "武汉女生备考3个月被剑桥录取",
+      "onboard_time": 1706364634,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 199884,
@@ -1619,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183216,
-      "num": 183216,
-      "word": "青山说灰原喜欢柯南",
-      "onboard_time": 1706363373,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 181740,
       "num": 180524,
       "word": "赵露思蜜桃少女妆",
@@ -1739,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168162,
+      "num": 168162,
+      "word": "TES战胜EDG",
+      "onboard_time": 1706365652,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167972,
       "num": 167972,
       "word": "鞠婧祎让茅子俊展示身材",
@@ -1787,6 +1803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164447,
+      "num": 195404,
+      "word": "央视曝回流医保药洗白过程",
+      "onboard_time": 1706365712,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164436,
       "num": 164436,
       "word": "吴磊赵今麦牵手玩游戏",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1706360491,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161337,
+      "num": 161337,
+      "word": "金晨全套新中式",
+      "onboard_time": 1706365112,
+      "rank": 35,
+      "category": "科学科普,作品衍生"
     },
     {
       "raw_hot": 159101,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1706346150,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153801,
+      "num": 153801,
+      "word": "原来这就是困成狗",
+      "onboard_time": 1706365533,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 153733,
@@ -2003,14 +2043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143413,
-      "num": 157524,
-      "word": "武汉女生备考3个月被剑桥录取",
-      "onboard_time": 1706364634,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 142732,
       "num": 142732,
       "word": "人去世后的身体变化",
@@ -2075,6 +2107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133075,
+      "num": 133075,
+      "word": "北京男篮绝杀龙狮男篮",
+      "onboard_time": 1706365294,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132673,
       "num": 132673,
       "word": "多个品牌成功押宝郑钦文",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1706354431,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129971,
+      "num": 129971,
+      "word": "陶喆演唱会",
+      "onboard_time": 1706364874,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 128799,
@@ -2283,14 +2331,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 118226,
-      "num": 118226,
-      "word": "陶喆演唱会",
-      "onboard_time": 1706364874,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 117420,
       "num": 117420,
       "word": "赵继伟三分",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1706277993,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113916,
+      "num": 113916,
+      "word": "还好这次只让画虾",
+      "onboard_time": 1706365893,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113841,
@@ -2409,6 +2457,14 @@
       "onboard_time": 1706336669,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106972,
+      "num": 106972,
+      "word": "CBA",
+      "onboard_time": 1706365233,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106109,
@@ -2884,7 +2940,7 @@
     },
     {
       "raw_hot": 48772,
-      "num": 1116496,
+      "num": 1149438,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
       "rank": 2,
