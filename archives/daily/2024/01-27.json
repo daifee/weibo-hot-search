@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706344457316,
+  "endTime": 1706346912784,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -25,6 +25,14 @@
       "onboard_time": 1706327427,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1474617,
+      "num": 1474617,
+      "word": "沈梦辰腰椎骨头断裂",
+      "onboard_time": 1706342907,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1396955,
@@ -65,14 +73,6 @@
       "onboard_time": 1706327126,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1165024,
-      "num": 1165024,
-      "word": "沈梦辰腰椎骨头断裂",
-      "onboard_time": 1706342907,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1145970,
@@ -163,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 798801,
+      "num": 798801,
+      "word": "最减肥的水果还得是车厘子",
+      "onboard_time": 1706343330,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 759786,
       "num": 759786,
       "word": "昆明动物园将对移出猴山的猫全面体检",
@@ -187,11 +195,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743077,
+      "num": 743077,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1706340808,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689149,
       "num": 689149,
       "word": "我只是没读好书我不是坏孩子",
       "onboard_time": 1706318008,
       "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 622968,
+      "num": 622968,
+      "word": "上海市中心的24平小豪宅",
+      "onboard_time": 1706341947,
+      "rank": 10,
       "category": "情感"
     },
     {
@@ -219,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590271,
-      "num": 590271,
-      "word": "上海市中心的24平小豪宅",
-      "onboard_time": 1706341947,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 576538,
+      "num": 576538,
+      "word": "易烊千玺无法逃跑",
+      "onboard_time": 1706343151,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 571601,
@@ -347,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 447886,
-      "num": 384901,
-      "word": "易烊千玺无法逃跑",
-      "onboard_time": 1706343151,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439903,
       "num": 439903,
       "word": "2位蛋糕师3天复刻云顶天宫蛋糕",
@@ -411,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 385567,
-      "num": 385567,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1706340808,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 383542,
       "num": 383542,
       "word": "郑钦文决赛",
@@ -427,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380214,
-      "num": 380214,
-      "word": "最减肥的水果还得是车厘子",
-      "onboard_time": 1706343330,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 379504,
+      "num": 379504,
+      "word": "圆明园有安陵容冰嬉了",
+      "onboard_time": 1706340329,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 377187,
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331725,
+      "num": 264152,
+      "word": "今年1月份工资啥时候发",
+      "onboard_time": 1706342070,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329297,
       "num": 329297,
       "word": "迪丽热巴晒花少vlog",
@@ -563,20 +579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319649,
-      "num": 253004,
-      "word": "今年1月份工资啥时候发",
-      "onboard_time": 1706342070,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313488,
       "num": 313488,
       "word": "任嘉伦彭小苒两个be专业户",
       "onboard_time": 1706333728,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312689,
+      "num": 312689,
+      "word": "澳网",
+      "onboard_time": 1706345732,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 308859,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287888,
+      "num": 287888,
+      "word": "陈楚生唯一遗憾是双人舞没跳成",
+      "onboard_time": 1706344770,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287875,
       "num": 287875,
       "word": "娃娃为什么不能扎两个辫子",
@@ -659,20 +683,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278996,
-      "num": 278996,
-      "word": "圆明园有安陵容冰嬉了",
-      "onboard_time": 1706340329,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278890,
       "num": 278890,
       "word": "吴昕朵拉头",
       "onboard_time": 1706280154,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 276719,
+      "num": 276719,
+      "word": "虞书欣抠手",
+      "onboard_time": 1706346510,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 272856,
@@ -689,6 +713,14 @@
       "onboard_time": 1706322267,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265334,
+      "num": 265334,
+      "word": "李娜",
+      "onboard_time": 1706345791,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 263591,
@@ -731,11 +763,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241254,
+      "num": 241254,
+      "word": "结婚买房真是沉重的话题",
+      "onboard_time": 1706346028,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235406,
       "num": 235406,
       "word": "全国开展消防除患攻坚大整治",
       "onboard_time": 1706330851,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234392,
+      "num": 234392,
+      "word": "小土豆早市被宰管理员出面怒怼商家",
+      "onboard_time": 1706344349,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -745,6 +793,14 @@
       "onboard_time": 1706312603,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229790,
+      "num": 229790,
+      "word": "萨巴伦卡好猛",
+      "onboard_time": 1706346390,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 224812,
@@ -777,6 +833,14 @@
       "onboard_time": 1706288483,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217133,
+      "num": 217133,
+      "word": "花少弹幕",
+      "onboard_time": 1706344648,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 216392,
@@ -843,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212047,
+      "num": 212047,
+      "word": "王鹤棣新加坡",
+      "onboard_time": 1706346390,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209791,
       "num": 171568,
       "word": "女朋友做的一周年纪念立体书",
       "onboard_time": 1706321670,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207000,
+      "num": 207000,
+      "word": "动保协会称猫被救出后会带回北京猫屋",
+      "onboard_time": 1706345850,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205899,
@@ -964,7 +1044,7 @@
     },
     {
       "raw_hot": 191095,
-      "num": 153304,
+      "num": 171013,
       "word": "郑钦文ACE榜断层领先",
       "onboard_time": 1706335408,
       "rank": 31,
@@ -977,6 +1057,14 @@
       "onboard_time": 1706291901,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189518,
+      "num": 189518,
+      "word": "初中妹妹8科成绩总分66",
+      "onboard_time": 1706346329,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 188226,
@@ -1073,6 +1161,14 @@
       "onboard_time": 1706313865,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170953,
+      "num": 170953,
+      "word": "郑钦文微笑入场",
+      "onboard_time": 1706345971,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 168192,
@@ -1195,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154529,
+      "num": 154529,
+      "word": "熟了的鱼 崩铁知更鸟",
+      "onboard_time": 1706346150,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153146,
       "num": 153146,
       "word": "逛超市的年轻人",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1706335886,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140607,
+      "num": 140607,
+      "word": "网球",
+      "onboard_time": 1706346751,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 139448,
@@ -1531,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109253,
+      "num": 109253,
+      "word": "澳网直播",
+      "onboard_time": 1706346150,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107582,
       "num": 107582,
       "word": "大理地震",
@@ -1595,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102070,
+      "num": 102070,
+      "word": "吟耳汤 崩铁花火",
+      "onboard_time": 1706346869,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102015,
       "num": 102015,
       "word": "直击15岁女孩肝衰竭换肝",
@@ -1641,14 +1769,6 @@
       "onboard_time": 1706320588,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 98316,
-      "num": 98316,
-      "word": "小土豆早市被宰管理员出面怒怼商家",
-      "onboard_time": 1706344349,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98042,
@@ -2105,6 +2225,14 @@
       "onboard_time": 1706297838,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4199,
+      "num": 868711,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1706267791,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
