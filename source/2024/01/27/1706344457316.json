@@ -1,0 +1,410 @@
+{
+  "runTime": 1706344457316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1757990,
+        "num": 1757990,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1165024,
+        "num": 1165024,
+        "word": "沈梦辰腰椎骨头断裂",
+        "onboard_time": 1706342907,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20945,
+        "num": 1009662,
+        "word": "流动的中国有温度有活力",
+        "onboard_time": 1706324731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925740,
+        "num": 925740,
+        "word": "极挑男人帮新综开拍没告诉孙红雷",
+        "onboard_time": 1706342429,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590271,
+        "num": 590271,
+        "word": "上海市中心的24平小豪宅",
+        "onboard_time": 1706341947,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547330,
+        "num": 547330,
+        "word": "日本小姐冠军在日引巨大争议",
+        "onboard_time": 1706333909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508270,
+        "num": 508270,
+        "word": "花少各种美女睡在一起",
+        "onboard_time": 1706333968,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498251,
+        "num": 498251,
+        "word": "杨紫厚刘海",
+        "onboard_time": 1706340867,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 723319,
+        "num": 458388,
+        "word": "张馨予为昆明动物园事件发声",
+        "onboard_time": 1706340687,
+        "rank": 8,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 385567,
+        "num": 385567,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1706340808,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447886,
+        "num": 384901,
+        "word": "易烊千玺无法逃跑",
+        "onboard_time": 1706343151,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383968,
+        "num": 383968,
+        "word": "昆明猫猴共处事件谁在装睡",
+        "onboard_time": 1706329227,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383542,
+        "num": 383542,
+        "word": "郑钦文决赛",
+        "onboard_time": 1706340450,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380214,
+        "num": 380214,
+        "word": "最减肥的水果还得是车厘子",
+        "onboard_time": 1706343330,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118880,
+        "num": 364366,
+        "word": "张杰不眠之夜",
+        "onboard_time": 1706342429,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 363492,
+        "num": 363492,
+        "word": "一元一串的钵钵鸡有多洗脑",
+        "onboard_time": 1706342250,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344850,
+        "num": 344850,
+        "word": "失血性月经",
+        "onboard_time": 1706325990,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278996,
+        "num": 278996,
+        "word": "圆明园有安陵容冰嬉了",
+        "onboard_time": 1706340329,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256331,
+        "num": 256331,
+        "word": "王亚飞晒赵露思自拍",
+        "onboard_time": 1706341048,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71311,
+        "num": 227400,
+        "word": "十年陪郑钦文创造历史",
+        "onboard_time": 1706340687,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319649,
+        "num": 226821,
+        "word": "今年1月份工资啥时候发",
+        "onboard_time": 1706342070,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226149,
+        "num": 226149,
+        "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+        "onboard_time": 1706316507,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222980,
+        "num": 222980,
+        "word": "南方小土豆已经有哈尔滨后遗症了",
+        "onboard_time": 1706329409,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222001,
+        "num": 222001,
+        "word": "拜登演讲时突然胡言乱语",
+        "onboard_time": 1706327427,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216111,
+        "num": 216111,
+        "word": "红山动物园回应为昆明动物园猫发声",
+        "onboard_time": 1706342611,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214934,
+        "num": 214934,
+        "word": "盒子里的猫",
+        "onboard_time": 1706340687,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205606,
+        "num": 205606,
+        "word": "马伊琍高中自己赚钱付学费",
+        "onboard_time": 1706339550,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278904,
+        "num": 203809,
+        "word": "女子回应欲跳入猴山救猫",
+        "onboard_time": 1706336968,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201363,
+        "num": 201363,
+        "word": "iG对战NIP",
+        "onboard_time": 1706343269,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199195,
+        "num": 199195,
+        "word": "在人间 赵丽颖孙千",
+        "onboard_time": 1706331866,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199023,
+        "num": 199023,
+        "word": "猴山的猫将由小动物保护协会带走安置",
+        "onboard_time": 1706321065,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174647,
+        "num": 174647,
+        "word": "首考",
+        "onboard_time": 1706340928,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 170234,
+        "word": "红山动物园为昆明动物园的猫发声",
+        "onboard_time": 1706327126,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166787,
+        "num": 166787,
+        "word": "幻兽帕鲁5天收入超10亿",
+        "onboard_time": 1706343390,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159892,
+        "num": 159892,
+        "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+        "onboard_time": 1706323349,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157166,
+        "num": 157166,
+        "word": "陈赫嘱咐郑恺保护好阑尾",
+        "onboard_time": 1706337569,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156725,
+        "num": 156725,
+        "word": "白宫回应泰勒斯威夫特AI照疯传",
+        "onboard_time": 1706343690,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155028,
+        "num": 155028,
+        "word": "娃娃为什么不能扎两个辫子",
+        "onboard_time": 1706336489,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145030,
+        "num": 145030,
+        "word": "招财美甲",
+        "onboard_time": 1706326410,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 143773,
+        "num": 143773,
+        "word": "宋亚轩主动提出跟韩红磨棚",
+        "onboard_time": 1706337927,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142073,
+        "num": 142073,
+        "word": "昆明动物园承诺对猫妥善安置",
+        "onboard_time": 1706319086,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125155,
+        "num": 125155,
+        "word": "李昀锐vlog一直在吃面包",
+        "onboard_time": 1706342368,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123927,
+        "num": 123927,
+        "word": "一定要在一个座位上吗",
+        "onboard_time": 1706341707,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123334,
+        "num": 123334,
+        "word": "周也雪地红玫瑰",
+        "onboard_time": 1706336187,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120501,
+        "num": 120501,
+        "word": "迪丽热巴晒花少vlog",
+        "onboard_time": 1706333189,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117395,
+        "num": 117395,
+        "word": "侯雯元上岛后眼睛里都没光了",
+        "onboard_time": 1706338470,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106264,
+        "num": 106264,
+        "word": "浙江高考成绩",
+        "onboard_time": 1706340028,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105909,
+        "num": 105909,
+        "word": "赵露思修身连衣裙",
+        "onboard_time": 1706329109,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98316,
+        "num": 98316,
+        "word": "小土豆早市被宰管理员出面怒怼商家",
+        "onboard_time": 1706344349,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94373,
+        "num": 94373,
+        "word": "雷佳音评价赵丽颖",
+        "onboard_time": 1706339070,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动城市治理体系和治理能力现代化#"
+    }
+  }
+}

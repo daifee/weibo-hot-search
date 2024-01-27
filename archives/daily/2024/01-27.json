@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706343565782,
+  "endTime": 1706344457316,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1165024,
+      "num": 1165024,
+      "word": "沈梦辰腰椎骨头断裂",
+      "onboard_time": 1706342907,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1145970,
       "num": 626417,
       "word": "泰勒斯威夫特AI不雅照疯传",
@@ -113,6 +121,14 @@
       "onboard_time": 1706325990,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 925740,
+      "num": 925740,
+      "word": "极挑男人帮新综开拍没告诉孙红雷",
+      "onboard_time": 1706342429,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 904508,
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 741017,
-      "num": 741017,
-      "word": "极挑男人帮新综开拍没告诉孙红雷",
-      "onboard_time": 1706342429,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 689149,
       "num": 689149,
       "word": "我只是没读好书我不是坏孩子",
@@ -209,6 +217,14 @@
       "onboard_time": 1706330130,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590271,
+      "num": 590271,
+      "word": "上海市中心的24平小豪宅",
+      "onboard_time": 1706341947,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 571601,
@@ -291,14 +307,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 497814,
-      "num": 305395,
-      "word": "上海市中心的24平小豪宅",
-      "onboard_time": 1706341947,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 496133,
       "num": 496133,
       "word": "金大川雎晓雯婚后首同框",
@@ -313,14 +321,6 @@
       "onboard_time": 1706329646,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 472946,
-      "num": 302619,
-      "word": "沈梦辰腰椎骨头断裂",
-      "onboard_time": 1706342907,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 460500,
@@ -345,6 +345,14 @@
       "onboard_time": 1706270790,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447886,
+      "num": 384901,
+      "word": "易烊千玺无法逃跑",
+      "onboard_time": 1706343151,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 439903,
@@ -403,20 +411,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 385567,
+      "num": 385567,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1706340808,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 383542,
+      "num": 383542,
+      "word": "郑钦文决赛",
+      "onboard_time": 1706340450,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 380214,
+      "num": 380214,
+      "word": "最减肥的水果还得是车厘子",
+      "onboard_time": 1706343330,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 377187,
       "num": 377187,
       "word": "秦岚好多帽子",
       "onboard_time": 1706327187,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375357,
-      "num": 375357,
-      "word": "郑钦文决赛",
-      "onboard_time": 1706340450,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 373282,
@@ -449,6 +473,14 @@
       "onboard_time": 1706323227,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 363492,
+      "num": 363492,
+      "word": "一元一串的钵钵鸡有多洗脑",
+      "onboard_time": 1706342250,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 352075,
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319649,
+      "num": 253004,
+      "word": "今年1月份工资啥时候发",
+      "onboard_time": 1706342070,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313488,
       "num": 313488,
       "word": "任嘉伦彭小苒两个be专业户",
@@ -579,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298370,
-      "num": 298370,
-      "word": "一元一串的钵钵鸡有多洗脑",
-      "onboard_time": 1706342250,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 288617,
       "num": 288617,
       "word": "徐娇喝到真茶了",
@@ -627,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278996,
+      "num": 278996,
+      "word": "圆明园有安陵容冰嬉了",
+      "onboard_time": 1706340329,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278890,
       "num": 278890,
       "word": "吴昕朵拉头",
@@ -641,14 +681,6 @@
       "onboard_time": 1706322687,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270173,
-      "num": 253004,
-      "word": "今年1月份工资啥时候发",
-      "onboard_time": 1706342070,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267202,
@@ -697,14 +729,6 @@
       "onboard_time": 1706271270,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236365,
-      "num": 236365,
-      "word": "圆明园有安陵容冰嬉了",
-      "onboard_time": 1706340329,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 235406,
@@ -771,6 +795,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216111,
+      "num": 216111,
+      "word": "红山动物园回应为昆明动物园猫发声",
+      "onboard_time": 1706342611,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214934,
+      "num": 214934,
+      "word": "盒子里的猫",
+      "onboard_time": 1706340687,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214721,
       "num": 214721,
       "word": "首考",
@@ -809,22 +849,6 @@
       "onboard_time": 1706321670,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209611,
-      "num": 209611,
-      "word": "易烊千玺无法逃跑",
-      "onboard_time": 1706343151,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207364,
-      "num": 207364,
-      "word": "盒子里的猫",
-      "onboard_time": 1706340687,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 205899,
@@ -867,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201363,
+      "num": 201363,
+      "word": "iG对战NIP",
+      "onboard_time": 1706343269,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200803,
       "num": 200803,
       "word": "河南饮品全员胡辣汤化",
@@ -897,14 +929,6 @@
       "onboard_time": 1706332049,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194622,
-      "num": 194622,
-      "word": "最减肥的水果还得是车厘子",
-      "onboard_time": 1706343330,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 193945,
@@ -1035,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176226,
-      "num": 176226,
-      "word": "红山动物园回应为昆明动物园猫发声",
-      "onboard_time": 1706342611,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174799,
       "num": 406183,
       "word": "绘旅人中式怪谈",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1706280510,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166787,
+      "num": 166787,
+      "word": "幻兽帕鲁5天收入超10亿",
+      "onboard_time": 1706343390,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 166518,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1706339070,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156725,
+      "num": 156725,
+      "word": "白宫回应泰勒斯威夫特AI照疯传",
+      "onboard_time": 1706343690,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 156658,
@@ -1283,22 +1315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138401,
-      "num": 138401,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1706340808,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134798,
-      "num": 134798,
-      "word": "iG对战NIP",
-      "onboard_time": 1706343269,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133628,
       "num": 128725,
       "word": "以发霉的草莓为灵感能画出什么",
@@ -1419,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118880,
+      "num": 364366,
+      "word": "张杰不眠之夜",
+      "onboard_time": 1706342429,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118567,
       "num": 118567,
       "word": "先运动再学习",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1706315427,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110669,
-      "num": 110669,
-      "word": "幻兽帕鲁5天收入超10亿",
-      "onboard_time": 1706343390,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 110281,
@@ -1627,6 +1643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98316,
+      "num": 98316,
+      "word": "小土豆早市被宰管理员出面怒怼商家",
+      "onboard_time": 1706344349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98042,
       "num": 98042,
       "word": "亚美森咖啡宣布退出中国市场",
@@ -1681,14 +1705,6 @@
       "onboard_time": 1706323048,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94925,
-      "num": 301027,
-      "word": "张杰不眠之夜",
-      "onboard_time": 1706342429,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 94903,
@@ -2052,7 +2068,7 @@
     },
     {
       "raw_hot": 28282,
-      "num": 716832,
+      "num": 1009662,
       "word": "流动的中国有温度有活力",
       "onboard_time": 1706324731,
       "rank": 41,
