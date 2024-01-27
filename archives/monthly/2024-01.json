@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706376842761,
+  "endTime": 1706379539661,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -70995,6 +70995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73354,
+      "num": 73354,
+      "word": "师范专业报考热还会持续吗",
+      "onboard_time": 1706376561,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73288,
       "num": 382088,
       "word": "李国庆宣布离婚成功",
@@ -71065,6 +71073,14 @@
       "onboard_time": 1704235699,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72216,
+      "num": 43877,
+      "word": "买701号房交房变704业主怒嫌晦气",
+      "onboard_time": 1706378360,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72159,
@@ -71481,6 +71497,14 @@
       "onboard_time": 1705942819,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66510,
+      "num": 66510,
+      "word": "白举纲陈立农离开地球表面舞台",
+      "onboard_time": 1706377759,
+      "rank": 18,
+      "category": "科学科普,作品衍生"
     },
     {
       "raw_hot": 66389,
@@ -73705,14 +73729,6 @@
       "onboard_time": 1704892472,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 35980,
-      "num": 42633,
-      "word": "师范专业报考热还会持续吗",
-      "onboard_time": 1706376561,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 35816,

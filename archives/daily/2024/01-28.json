@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706376842761,
+  "endTime": 1706379539661,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175262,
+      "num": 175262,
+      "word": "00后四帅",
+      "onboard_time": 1706358388,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175032,
       "num": 175032,
       "word": "人要一寸一寸的拯救自己",
@@ -193,14 +201,6 @@
       "onboard_time": 1706340387,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163278,
-      "num": 163278,
-      "word": "00后四帅",
-      "onboard_time": 1706358388,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 157628,
@@ -403,12 +403,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73354,
+      "num": 73354,
+      "word": "师范专业报考热还会持续吗",
+      "onboard_time": 1706376561,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 72216,
+      "num": 43877,
+      "word": "买701号房交房变704业主怒嫌晦气",
+      "onboard_time": 1706378360,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70903,
       "num": 70903,
       "word": "王星越快放出和吴磊赵今麦自拍",
       "onboard_time": 1706368232,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66510,
+      "num": 66510,
+      "word": "白举纲陈立农离开地球表面舞台",
+      "onboard_time": 1706377759,
+      "rank": 18,
+      "category": "科学科普,作品衍生"
     },
     {
       "raw_hot": 65368,
@@ -427,14 +451,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 35980,
-      "num": 42633,
-      "word": "师范专业报考热还会持续吗",
-      "onboard_time": 1706376561,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 32713,
       "num": 42622,
       "word": "赵昭仪妈妈画过哪吒传奇",
@@ -443,7 +459,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19531,
+      "raw_hot": 27231,
+      "num": 29424,
+      "word": "吴尊 10年前的娜姐10年后的你",
+      "onboard_time": 1706359231,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 21257,
       "num": 329577,
       "word": "中国航天器名字里有中国人才懂的含义",
       "onboard_time": 1706360849,
