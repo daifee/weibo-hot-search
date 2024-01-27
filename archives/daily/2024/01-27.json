@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706362443216,
+  "endTime": 1706364892622,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098539,
+      "num": 1098539,
+      "word": "人均37元的早餐为何没人买单了",
+      "onboard_time": 1706357730,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1091051,
+      "num": 1091051,
+      "word": "北京野生动物园就昆明动物园事件发声",
+      "onboard_time": 1706361513,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085480,
       "num": 1085480,
       "word": "昆明动物园曾被曝猴子杀死2只猫",
@@ -187,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1033874,
+      "num": 1033874,
+      "word": "包上恩",
+      "onboard_time": 1706362831,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988887,
       "num": 988887,
       "word": "郑钦文vs萨巴伦卡",
@@ -209,14 +233,6 @@
       "onboard_time": 1706359231,
       "rank": 30,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 960147,
-      "num": 960147,
-      "word": "人均37元的早餐为何没人买单了",
-      "onboard_time": 1706357730,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 925740,
@@ -331,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 714447,
-      "num": 714447,
-      "word": "北京野生动物园就昆明动物园事件发声",
-      "onboard_time": 1706361513,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 694183,
       "num": 1919541,
       "word": "一元一串的钵钵鸡有多洗脑",
@@ -361,6 +369,14 @@
       "onboard_time": 1706341947,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 616322,
+      "num": 616322,
+      "word": "宋慧乔红丝袜",
+      "onboard_time": 1706361332,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 614527,
@@ -483,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 513094,
+      "num": 513094,
+      "word": "范丞丞不想跳科目三",
+      "onboard_time": 1706358929,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501966,
       "num": 501966,
       "word": "优酷把要久久爱放悬疑剧场了",
@@ -553,14 +577,6 @@
       "onboard_time": 1706270790,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440453,
-      "num": 440453,
-      "word": "范丞丞不想跳科目三",
-      "onboard_time": 1706358929,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 439903,
@@ -651,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 386094,
+      "num": 386094,
+      "word": "迪丽热巴新妆",
+      "onboard_time": 1706362230,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 383542,
       "num": 383542,
       "word": "郑钦文决赛",
@@ -705,6 +729,14 @@
       "onboard_time": 1706323227,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362610,
+      "num": 362610,
+      "word": "阿拉斯加自己走丢在大街上大哭",
+      "onboard_time": 1706363492,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 352075,
@@ -769,14 +801,6 @@
       "onboard_time": 1706347770,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338445,
-      "num": 324813,
-      "word": "宋慧乔红丝袜",
-      "onboard_time": 1706361332,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 338035,
@@ -859,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311282,
+      "num": 311282,
+      "word": "昆明动物园",
+      "onboard_time": 1706257471,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308859,
       "num": 308859,
       "word": "任嘉伦彭小苒同框路透",
@@ -915,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290769,
+      "num": 290769,
+      "word": "文韬齐思钧去看了唐九洲巡演",
+      "onboard_time": 1706362173,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288617,
       "num": 288617,
       "word": "徐娇喝到真茶了",
@@ -969,6 +1009,22 @@
       "onboard_time": 1706280154,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 275858,
+      "num": 275858,
+      "word": "人要一寸一寸的拯救自己",
+      "onboard_time": 1706361691,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 273750,
+      "num": 273750,
+      "word": "金晨舞蹈致敬200年前清代女科学家",
+      "onboard_time": 1706361750,
+      "rank": 27,
+      "category": "科学科普,艺人"
     },
     {
       "raw_hot": 273729,
@@ -1123,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238086,
+      "num": 225433,
+      "word": "赵昭仪妈妈画过哪吒传奇",
+      "onboard_time": 1706364152,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235406,
       "num": 235406,
       "word": "全国开展消防除患攻坚大整治",
@@ -1163,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230940,
-      "num": 230940,
-      "word": "金晨舞蹈致敬200年前清代女科学家",
-      "onboard_time": 1706361750,
-      "rank": 27,
-      "category": "科学科普,艺人"
-    },
-    {
       "raw_hot": 226182,
       "num": 226182,
       "word": "赵露思陈泽英雄联盟",
       "onboard_time": 1706351068,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226069,
+      "num": 226069,
+      "word": "主播称董宇辉被叫老板恨不得翻脸",
+      "onboard_time": 1706364333,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 224812,
@@ -1411,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196718,
+      "num": 196718,
+      "word": "梁祯元cover日不落",
+      "onboard_time": 1706364392,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196510,
       "num": 196510,
       "word": "黄帝内经提到的瘦身方法",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1706279851,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192746,
-      "num": 192746,
-      "word": "迪丽热巴新妆",
-      "onboard_time": 1706362230,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191891,
@@ -1555,20 +1619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183216,
+      "num": 183216,
+      "word": "青山说灰原喜欢柯南",
+      "onboard_time": 1706363373,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 181740,
       "num": 180524,
       "word": "赵露思蜜桃少女妆",
       "onboard_time": 1706327370,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181665,
-      "num": 181665,
-      "word": "人要一寸一寸的拯救自己",
-      "onboard_time": 1706361691,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 181621,
@@ -1683,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167386,
+      "num": 167386,
+      "word": "为什么一下雪室外就安静了",
+      "onboard_time": 1706363309,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 166787,
       "num": 166787,
       "word": "幻兽帕鲁5天收入超10亿",
@@ -1745,14 +1817,6 @@
       "onboard_time": 1706360491,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162841,
-      "num": 162841,
-      "word": "文韬齐思钧去看了唐九洲巡演",
-      "onboard_time": 1706362173,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 159101,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1706341707,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143413,
+      "num": 157524,
+      "word": "武汉女生备考3个月被剑桥录取",
+      "onboard_time": 1706364634,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 142732,
@@ -2209,6 +2281,22 @@
       "onboard_time": 1706328572,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 118226,
+      "num": 118226,
+      "word": "陶喆演唱会",
+      "onboard_time": 1706364874,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117420,
+      "num": 117420,
+      "word": "赵继伟三分",
+      "onboard_time": 1706363191,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 117320,
@@ -2659,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83825,
-      "num": 83825,
-      "word": "昆明动物园",
-      "onboard_time": 1706257471,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82268,
       "num": 502272,
       "word": "中国国家网球队再添新成员",
@@ -2804,7 +2884,7 @@
     },
     {
       "raw_hot": 48772,
-      "num": 1031137,
+      "num": 1116496,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
       "rank": 2,
