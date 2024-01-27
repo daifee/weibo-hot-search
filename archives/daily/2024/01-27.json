@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706359335149,
+  "endTime": 1706361416625,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -24,6 +24,14 @@
       "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
       "onboard_time": 1706316507,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1870424,
+      "num": 1870424,
+      "word": "好消息1月工资年前发",
+      "onboard_time": 1706355869,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -65,14 +73,6 @@
       "onboard_time": 1706346329,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1458933,
-      "num": 1458933,
-      "word": "好消息1月工资年前发",
-      "onboard_time": 1706355869,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1398765,
@@ -201,6 +201,14 @@
       "onboard_time": 1706352810,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964401,
+      "num": 964401,
+      "word": "吴尊 10年前的娜姐10年后的你",
+      "onboard_time": 1706359231,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 925740,
@@ -345,6 +353,14 @@
       "onboard_time": 1706329227,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614282,
+      "num": 614282,
+      "word": "人均37元的早餐为何没人买单了",
+      "onboard_time": 1706357730,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 608554,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459726,
+      "num": 459726,
+      "word": "00后四帅",
+      "onboard_time": 1706358388,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456402,
       "num": 456402,
       "word": "唐山警方通报一男子当街捅人",
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438743,
+      "num": 375222,
+      "word": "刘烨首演 胡军送花",
+      "onboard_time": 1706358811,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432436,
       "num": 432436,
       "word": "美国佛州拟禁止16岁以下使用社交媒体",
@@ -545,14 +577,6 @@
       "onboard_time": 1706337569,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430366,
-      "num": 262647,
-      "word": "人均37元的早餐为何没人买单了",
-      "onboard_time": 1706357730,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 418419,
@@ -771,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324993,
-      "num": 324993,
-      "word": "00后四帅",
-      "onboard_time": 1706358388,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 327462,
+      "num": 327462,
+      "word": "范丞丞不想跳科目三",
+      "onboard_time": 1706358929,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 322518,
@@ -891,12 +915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 283363,
-      "num": 198976,
-      "word": "吴尊 10年前的娜姐10年后的你",
-      "onboard_time": 1706359231,
-      "rank": 30,
-      "category": "体育,艺人"
+      "raw_hot": 281804,
+      "num": 272335,
+      "word": "明日方舟",
+      "onboard_time": 1706359890,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 280736,
@@ -921,6 +945,14 @@
       "onboard_time": 1706280154,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 273729,
+      "num": 273729,
+      "word": "郑钦文泛着泪花回应获澳网亚军",
+      "onboard_time": 1706358571,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 272856,
@@ -979,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254942,
+      "num": 254942,
+      "word": "吴磊赵今麦好配",
+      "onboard_time": 1706360913,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254453,
       "num": 254453,
       "word": "你好星期六",
@@ -993,6 +1033,14 @@
       "onboard_time": 1706322928,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246259,
+      "num": 246259,
+      "word": "大学生回家发现卧室改超市",
+      "onboard_time": 1706358811,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 245651,
@@ -1041,14 +1089,6 @@
       "onboard_time": 1706349450,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239039,
-      "num": 192985,
-      "word": "郑钦文泛着泪花回应获澳网亚军",
-      "onboard_time": 1706358571,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 235406,
@@ -1459,14 +1499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 181161,
-      "num": 181161,
-      "word": "刘烨首演 胡军送花",
-      "onboard_time": 1706358811,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180264,
       "num": 180264,
       "word": "善待动物组织关注幻兽帕鲁",
@@ -1531,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171152,
+      "num": 171152,
+      "word": "酸菜中藏有食管癌祸根",
+      "onboard_time": 1706356409,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170953,
       "num": 170953,
       "word": "郑钦文微笑入场",
@@ -1560,14 +1600,6 @@
       "word": "鞠婧祎让茅子俊展示身材",
       "onboard_time": 1706350050,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167814,
-      "num": 167814,
-      "word": "范丞丞不想跳科目三",
-      "onboard_time": 1706358929,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1603,6 +1635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164443,
+      "num": 164443,
+      "word": "Meiko首次对战EDG",
+      "onboard_time": 1706361090,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164436,
       "num": 164436,
       "word": "吴磊赵今麦牵手玩游戏",
@@ -1627,6 +1667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 163551,
+      "num": 163551,
+      "word": "小狗打针",
+      "onboard_time": 1706360491,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159101,
       "num": 159101,
       "word": "江西火灾黑色有毒浓烟致人员被困",
@@ -1643,12 +1691,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 158677,
-      "num": 158677,
-      "word": "酸菜中藏有食管癌祸根",
-      "onboard_time": 1706356409,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 158466,
+      "num": 158466,
+      "word": "宋慧乔红丝袜",
+      "onboard_time": 1706361332,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157624,
@@ -1819,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142732,
+      "num": 142732,
+      "word": "人去世后的身体变化",
+      "onboard_time": 1706359231,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 142342,
       "num": 131318,
       "word": "巴黎时装周 瓷娃娃秀场",
@@ -1851,20 +1907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138648,
+      "num": 138648,
+      "word": "留住金鹤龙",
+      "onboard_time": 1706361090,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 138475,
       "num": 138475,
       "word": "刘雅瑟 关于新歌的诞生",
       "onboard_time": 1706319989,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 137215,
-      "num": 137215,
-      "word": "大学生回家发现卧室改超市",
-      "onboard_time": 1706358811,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 134270,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1706316029,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132673,
+      "num": 132673,
+      "word": "多个品牌成功押宝郑钦文",
+      "onboard_time": 1706360792,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 132344,
@@ -2003,6 +2067,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123624,
+      "num": 123624,
+      "word": "来家里玩的小孩打扫了所有的卫生",
+      "onboard_time": 1706361030,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123448,
+      "num": 123448,
+      "word": "中学春晚抽奖免做寒假作业",
+      "onboard_time": 1706360430,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123240,
       "num": 123240,
       "word": "6名女高中生获得牛剑预录取",
@@ -2033,14 +2113,6 @@
       "onboard_time": 1706335108,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119417,
-      "num": 119417,
-      "word": "人去世后的身体变化",
-      "onboard_time": 1706359231,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 119315,
@@ -2739,6 +2811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35816,
+      "num": 1167870,
+      "word": "中国航天器名字里有中国人才懂的含义",
+      "onboard_time": 1706360849,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35278,
       "num": 35278,
       "word": "我的大叔中国版",
@@ -2807,6 +2887,9 @@
     },
     {
       "word": "#只有创新才能自强才能争先#"
+    },
+    {
+      "word": "#习近平同法国总统马克龙互致贺电#"
     }
   ]
 }

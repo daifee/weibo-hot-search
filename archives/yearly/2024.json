@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706359335149,
+  "endTime": 1706361416625,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1411,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1870424,
+      "num": 1870424,
+      "word": "好消息1月工资年前发",
+      "onboard_time": 1706355869,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1868676,
       "num": 1868676,
       "word": "老人突然离世三十九万元存款难取出",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704548736,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1535538,
-      "num": 1535538,
-      "word": "银川烧烤店31死爆炸事故调查报告",
-      "onboard_time": 1706347770,
-      "rank": 19,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
