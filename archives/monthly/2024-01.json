@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706355235199,
+  "endTime": 1706358443467,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -945,6 +945,14 @@
       "onboard_time": 1704632793,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2154019,
+      "num": 2154019,
+      "word": "迪丽热巴高定首穿",
+      "onboard_time": 1706354490,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2153559,
@@ -3027,6 +3035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1398765,
+      "num": 1398765,
+      "word": "昆明动物园猫咪现身了",
+      "onboard_time": 1706354789,
+      "rank": 13,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 1398718,
       "num": 1398718,
       "word": "飞猪被曝3人买同趟航班价格不同",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1705968625,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1306410,
+      "num": 1306410,
+      "word": "00后四美",
+      "onboard_time": 1706356109,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1301854,
@@ -4296,6 +4320,14 @@
       "word": "河南学校火灾致13死4伤7人被抓",
       "onboard_time": 1706019871,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172518,
+      "num": 1172518,
+      "word": "好消息1月工资年前发",
+      "onboard_time": 1706355869,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -5817,14 +5849,6 @@
       "onboard_time": 1706231670,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1001360,
-      "num": 807488,
-      "word": "迪丽热巴高定首穿",
-      "onboard_time": 1706354490,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1000888,
@@ -9163,6 +9187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 772329,
+      "num": 772329,
+      "word": "情绪压抑的人更易长结节",
+      "onboard_time": 1706352869,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 771888,
       "num": 771888,
       "word": "小男孩腿脚太快弄丢姥姥被妈妈灵魂拷问",
@@ -10169,6 +10201,14 @@
       "onboard_time": 1704976111,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 725404,
+      "num": 725404,
+      "word": "闫妮女儿 张小斐",
+      "onboard_time": 1706356891,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 725390,
@@ -17795,14 +17835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487469,
-      "num": 487469,
-      "word": "昆明动物园猫咪现身了",
-      "onboard_time": 1706354789,
-      "rank": 13,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 487430,
       "num": 487430,
       "word": "第一批90后现状如何",
@@ -20657,6 +20689,14 @@
       "onboard_time": 1706155111,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422943,
+      "num": 262647,
+      "word": "人均37元的早餐为何没人买单了",
+      "onboard_time": 1706357730,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 422752,
@@ -24633,6 +24673,14 @@
       "onboard_time": 1706329890,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 349794,
+      "num": 349794,
+      "word": "张进",
+      "onboard_time": 1706357308,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 349674,
@@ -29553,14 +29601,6 @@
       "onboard_time": 1705464569,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 282727,
-      "num": 282727,
-      "word": "情绪压抑的人更易长结节",
-      "onboard_time": 1706352869,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 282688,
@@ -36379,6 +36419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223842,
+      "num": 223842,
+      "word": "红月亮",
+      "onboard_time": 1706357969,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223840,
       "num": 223840,
       "word": "Faker和enhypen联动",
@@ -36849,6 +36897,14 @@
       "onboard_time": 1704362255,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220624,
+      "num": 220624,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1706356831,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 220563,
@@ -39969,6 +40025,14 @@
       "onboard_time": 1705978583,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204459,
+      "num": 183640,
+      "word": "樊振东预祝中国选手更上一层楼",
+      "onboard_time": 1706357610,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204436,
@@ -45587,6 +45651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184346,
+      "num": 184346,
+      "word": "找对象应该努力还是要随缘",
+      "onboard_time": 1706352989,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184340,
       "num": 184340,
       "word": "幻兽帕鲁宝可梦MOD",
@@ -46312,14 +46384,6 @@
       "word": "给尚未工作的朋友们的建议 多拍照",
       "onboard_time": 1704870212,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 181977,
-      "num": 181977,
-      "word": "找对象应该努力还是要随缘",
-      "onboard_time": 1706352989,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -54827,6 +54891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151231,
+      "num": 151231,
+      "word": "酸菜中藏有食管癌祸根",
+      "onboard_time": 1706356409,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151168,
       "num": 151168,
       "word": "LOL新英雄斯莫德",
@@ -59792,6 +59864,14 @@
       "word": "陈星旭费启鸣竟然是同岁的",
       "onboard_time": 1704759331,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134270,
+      "num": 134270,
+      "word": "茅子俊吃蛋糕三勺吃两口",
+      "onboard_time": 1706355389,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -65619,6 +65699,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 113841,
+      "num": 113841,
+      "word": "元梦之星",
+      "onboard_time": 1706357373,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113804,
       "num": 113804,
       "word": "RNG 会不会BP",
@@ -66603,6 +66691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108520,
+      "num": 108520,
+      "word": "让不懂韩圈的老板猜市值",
+      "onboard_time": 1706358150,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108448,
       "num": 108448,
       "word": "寒潮大风暴雪三预警齐发",
@@ -66753,6 +66849,14 @@
       "onboard_time": 1706075187,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107467,
+      "num": 107467,
+      "word": "花少5 极其治愈的女性视角综艺",
+      "onboard_time": 1706358271,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107412,
@@ -68235,6 +68339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99226,
+      "num": 99226,
+      "word": "没想到考试也能玩梗",
+      "onboard_time": 1706357853,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99137,
       "num": 99137,
       "word": "SpotifyCEO痛批苹果欧洲新规",
@@ -68697,6 +68809,14 @@
       "onboard_time": 1706323048,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95640,
+      "num": 95640,
+      "word": "00后四帅",
+      "onboard_time": 1706358388,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95539,
@@ -69323,6 +69443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90139,
+      "num": 90139,
+      "word": "做好4件事让血管老得慢一点",
+      "onboard_time": 1706356351,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90114,
       "num": 108176,
       "word": "婺剧演员展示虎跳前扑身轻如燕",
@@ -69824,6 +69952,14 @@
       "word": "2024斯诺克大师赛",
       "onboard_time": 1704728071,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82268,
+      "num": 502272,
+      "word": "中国国家网球队再添新成员",
+      "onboard_time": 1706356109,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -73480,6 +73616,14 @@
       "word": "流动的中国有温度有活力",
       "onboard_time": 1706324731,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 342166,
+      "word": "寒假用眼奇葩行为大赏",
+      "onboard_time": 1706356831,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

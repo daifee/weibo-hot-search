@@ -1,0 +1,410 @@
+{
+  "runTime": 1706358443467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2154019,
+        "num": 2154019,
+        "word": "迪丽热巴高定首穿",
+        "onboard_time": 1706354490,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1398765,
+        "num": 1398765,
+        "word": "昆明动物园猫咪现身了",
+        "onboard_time": 1706354789,
+        "rank": 1,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 9465,
+        "num": 1345488,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1706267791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306410,
+        "num": 1306410,
+        "word": "00后四美",
+        "onboard_time": 1706356109,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1172518,
+        "num": 1172518,
+        "word": "好消息1月工资年前发",
+        "onboard_time": 1706355869,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772329,
+        "num": 772329,
+        "word": "情绪压抑的人更易长结节",
+        "onboard_time": 1706352869,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 725404,
+        "num": 725404,
+        "word": "闫妮女儿 张小斐",
+        "onboard_time": 1706356891,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670115,
+        "num": 670115,
+        "word": "迪丽热巴爱琴海",
+        "onboard_time": 1706353108,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626163,
+        "num": 626163,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 572154,
+        "num": 572154,
+        "word": "沈梦辰腰椎骨头断裂",
+        "onboard_time": 1706342907,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82268,
+        "num": 502272,
+        "word": "中国国家网球队再添新成员",
+        "onboard_time": 1706356109,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500922,
+        "num": 500922,
+        "word": "刘宇魏无羡造型",
+        "onboard_time": 1706350532,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413289,
+        "num": 413289,
+        "word": "结婚买房真是沉重的话题",
+        "onboard_time": 1706346028,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349794,
+        "num": 349794,
+        "word": "张进",
+        "onboard_time": 1706357308,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27978,
+        "num": 342166,
+        "word": "寒假用眼奇葩行为大赏",
+        "onboard_time": 1706356831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338001,
+        "num": 338001,
+        "word": "一元一串的钵钵鸡有多洗脑",
+        "onboard_time": 1706342250,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329708,
+        "num": 329708,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285822,
+        "num": 285822,
+        "word": "郑钦文收获超800万奖金",
+        "onboard_time": 1706351789,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281492,
+        "num": 281492,
+        "word": "银川烧烤店31死爆炸事故调查报告",
+        "onboard_time": 1706347770,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263162,
+        "num": 263162,
+        "word": "小动物保护协会称两只猫暂未被找到",
+        "onboard_time": 1706347230,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422943,
+        "num": 262647,
+        "word": "人均37元的早餐为何没人买单了",
+        "onboard_time": 1706357730,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260314,
+        "num": 260314,
+        "word": "最减肥的水果还得是车厘子",
+        "onboard_time": 1706343330,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254453,
+        "num": 254453,
+        "word": "你好星期六",
+        "onboard_time": 1706357429,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230746,
+        "num": 230746,
+        "word": "虞书欣抠手",
+        "onboard_time": 1706346510,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224581,
+        "num": 224581,
+        "word": "原来杨紫晒非主流照片是因为输了",
+        "onboard_time": 1706351491,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223842,
+        "num": 223842,
+        "word": "红月亮",
+        "onboard_time": 1706357969,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220624,
+        "num": 220624,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1706356831,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216365,
+        "num": 216365,
+        "word": "郑钦文获澳网亚军",
+        "onboard_time": 1706349931,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195063,
+        "num": 195063,
+        "word": "你早上刷牙还是晚上刷牙",
+        "onboard_time": 1706348971,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184346,
+        "num": 184346,
+        "word": "找对象应该努力还是要随缘",
+        "onboard_time": 1706352989,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204459,
+        "num": 183640,
+        "word": "樊振东预祝中国选手更上一层楼",
+        "onboard_time": 1706357610,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178137,
+        "num": 178137,
+        "word": "河南多家公司宣布除夕放假",
+        "onboard_time": 1706349030,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167141,
+        "num": 167141,
+        "word": "易烊千玺无法逃跑",
+        "onboard_time": 1706343151,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151231,
+        "num": 151231,
+        "word": "酸菜中藏有食管癌祸根",
+        "onboard_time": 1706356409,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150420,
+        "num": 150420,
+        "word": "昆明猫猴共处事件谁在装睡",
+        "onboard_time": 1706329227,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137405,
+        "num": 137405,
+        "word": "极挑男人帮新综开拍没告诉孙红雷",
+        "onboard_time": 1706342429,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135604,
+        "num": 135604,
+        "word": "久诚 MTG",
+        "onboard_time": 1706353470,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134270,
+        "num": 134270,
+        "word": "茅子俊吃蛋糕三勺吃两口",
+        "onboard_time": 1706355389,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118476,
+        "num": 118476,
+        "word": "银川烧烤店爆炸原因之一是送错气瓶",
+        "onboard_time": 1706348489,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113841,
+        "num": 113841,
+        "word": "元梦之星",
+        "onboard_time": 1706357373,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109760,
+        "num": 109760,
+        "word": "圆明园有安陵容冰嬉了",
+        "onboard_time": 1706340329,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108520,
+        "num": 108520,
+        "word": "让不懂韩圈的老板猜市值",
+        "onboard_time": 1706358150,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107467,
+        "num": 107467,
+        "word": "花少5 极其治愈的女性视角综艺",
+        "onboard_time": 1706358271,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100191,
+        "num": 100191,
+        "word": "张馨予为昆明动物园事件发声",
+        "onboard_time": 1706340687,
+        "rank": 43,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 99226,
+        "num": 99226,
+        "word": "没想到考试也能玩梗",
+        "onboard_time": 1706357853,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99012,
+        "num": 99012,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1706340808,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95640,
+        "num": 95640,
+        "word": "00后四帅",
+        "onboard_time": 1706358388,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94236,
+        "num": 94236,
+        "word": "赵露思陈泽英雄联盟",
+        "onboard_time": 1706351068,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94142,
+        "num": 94142,
+        "word": "山东人有属于自己的汉堡",
+        "onboard_time": 1706348793,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90139,
+        "num": 90139,
+        "word": "做好4件事让血管老得慢一点",
+        "onboard_time": 1706356351,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系文旅发展#"
+    }
+  }
+}

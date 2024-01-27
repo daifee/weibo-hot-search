@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706355235199,
+  "endTime": 1706358443467,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -9,6 +9,14 @@
       "onboard_time": 1706349931,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2154019,
+      "num": 2154019,
+      "word": "迪丽热巴高定首穿",
+      "onboard_time": 1706354490,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1924428,
@@ -59,6 +67,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1398765,
+      "num": 1398765,
+      "word": "昆明动物园猫咪现身了",
+      "onboard_time": 1706354789,
+      "rank": 13,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 1396955,
       "num": 1396955,
       "word": "花少各种美女睡在一起",
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306410,
+      "num": 1306410,
+      "word": "00后四美",
+      "onboard_time": 1706356109,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1298306,
       "num": 1298306,
       "word": "警方回应黄圣依杨子表哥直播间带货风波",
@@ -105,6 +129,14 @@
       "onboard_time": 1706353108,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1172518,
+      "num": 1172518,
+      "word": "好消息1月工资年前发",
+      "onboard_time": 1706355869,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1145970,
@@ -153,14 +185,6 @@
       "onboard_time": 1706325990,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1001360,
-      "num": 807488,
-      "word": "迪丽热巴高定首穿",
-      "onboard_time": 1706354490,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 988887,
@@ -251,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772329,
+      "num": 772329,
+      "word": "情绪压抑的人更易长结节",
+      "onboard_time": 1706352869,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 759786,
       "num": 759786,
       "word": "昆明动物园将对移出猴山的猫全面体检",
@@ -272,6 +304,14 @@
       "word": "英国女演员吃饼干花生过敏身亡",
       "onboard_time": 1706312363,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 725404,
+      "num": 725404,
+      "word": "闫妮女儿 张小斐",
+      "onboard_time": 1706356891,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -435,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487469,
-      "num": 487469,
-      "word": "昆明动物园猫咪现身了",
-      "onboard_time": 1706354789,
-      "rank": 13,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 473701,
       "num": 473701,
       "word": "董宇辉回应曾被网友指沉默不承担责任",
@@ -505,6 +537,14 @@
       "onboard_time": 1706337569,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422943,
+      "num": 262647,
+      "word": "人均37元的早餐为何没人买单了",
+      "onboard_time": 1706357730,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 418419,
@@ -617,6 +657,14 @@
       "onboard_time": 1706329890,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 349794,
+      "num": 349794,
+      "word": "张进",
+      "onboard_time": 1706357308,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 348976,
@@ -819,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282727,
-      "num": 282727,
-      "word": "情绪压抑的人更易长结节",
-      "onboard_time": 1706352869,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 280736,
       "num": 280736,
       "word": "欧阳娜娜虞书欣为欧阳娣娣打call",
@@ -905,6 +945,14 @@
       "onboard_time": 1706346390,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254453,
+      "num": 254453,
+      "word": "你好星期六",
+      "onboard_time": 1706357429,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 254373,
@@ -1011,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223842,
+      "num": 223842,
+      "word": "红月亮",
+      "onboard_time": 1706357969,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221266,
       "num": 221266,
       "word": "gidle健康堪忧回归困难",
       "onboard_time": 1706276253,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220624,
+      "num": 220624,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1706356831,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 218103,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1706326589,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204459,
+      "num": 183640,
+      "word": "樊振东预祝中国选手更上一层楼",
+      "onboard_time": 1706357610,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203987,
@@ -1315,20 +1387,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184346,
+      "num": 184346,
+      "word": "找对象应该努力还是要随缘",
+      "onboard_time": 1706352989,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183570,
       "num": 183570,
       "word": "陈楚生回复王心凌",
       "onboard_time": 1706351011,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181977,
-      "num": 181977,
-      "word": "找对象应该努力还是要随缘",
-      "onboard_time": 1706352989,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 181740,
@@ -1603,6 +1675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 151231,
+      "num": 151231,
+      "word": "酸菜中藏有食管癌祸根",
+      "onboard_time": 1706356409,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150306,
       "num": 150306,
       "word": "快乐老友记",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1706319989,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134270,
+      "num": 134270,
+      "word": "茅子俊吃蛋糕三勺吃两口",
+      "onboard_time": 1706355389,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 133628,
@@ -1931,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113841,
+      "num": 113841,
+      "word": "元梦之星",
+      "onboard_time": 1706357373,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113037,
       "num": 113037,
       "word": "姐姐第一次抱弟弟",
@@ -1995,12 +2091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108520,
+      "num": 108520,
+      "word": "让不懂韩圈的老板猜市值",
+      "onboard_time": 1706358150,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107582,
       "num": 107582,
       "word": "大理地震",
       "onboard_time": 1706273672,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107467,
+      "num": 107467,
+      "word": "花少5 极其治愈的女性视角综艺",
+      "onboard_time": 1706358271,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107271,
@@ -2107,6 +2219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99226,
+      "num": 99226,
+      "word": "没想到考试也能玩梗",
+      "onboard_time": 1706357853,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99137,
       "num": 99137,
       "word": "SpotifyCEO痛批苹果欧洲新规",
@@ -2169,6 +2289,14 @@
       "onboard_time": 1706323048,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95640,
+      "num": 95640,
+      "word": "00后四帅",
+      "onboard_time": 1706358388,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94903,
@@ -2267,6 +2395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 90139,
+      "num": 90139,
+      "word": "做好4件事让血管老得慢一点",
+      "onboard_time": 1706356351,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87855,
       "num": 87855,
       "word": "洗澡对于广东人来说是解冻",
@@ -2337,6 +2473,14 @@
       "onboard_time": 1706257471,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82268,
+      "num": 502272,
+      "word": "中国国家网球队再添新成员",
+      "onboard_time": 1706356109,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 81976,
@@ -2544,6 +2688,14 @@
       "word": "流动的中国有温度有活力",
       "onboard_time": 1706324731,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 342166,
+      "word": "寒假用眼奇葩行为大赏",
+      "onboard_time": 1706356831,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
