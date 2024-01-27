@@ -1,0 +1,410 @@
+{
+  "runTime": 1706320882356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426727,
+        "num": 1426727,
+        "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+        "onboard_time": 1706316507,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904508,
+        "num": 904508,
+        "word": "国家邮政局约谈极兔速递",
+        "onboard_time": 1706315188,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34598,
+        "num": 820517,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379458,
+        "num": 819032,
+        "word": "三变正妻 前妻变三",
+        "onboard_time": 1706316268,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 797097,
+        "num": 797097,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720371,
+        "num": 720371,
+        "word": "昆明动物园将对移出猴山的猫全面体检",
+        "onboard_time": 1706319151,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618225,
+        "num": 618225,
+        "word": "警方回应黄圣依杨子表哥直播间带货风波",
+        "onboard_time": 1706280871,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586894,
+        "num": 586894,
+        "word": "英国女演员吃饼干花生过敏身亡",
+        "onboard_time": 1706312363,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489055,
+        "num": 489055,
+        "word": "我只是没读好书我不是坏孩子",
+        "onboard_time": 1706318008,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460500,
+        "num": 460500,
+        "word": "特朗普赔偿8330万美元",
+        "onboard_time": 1706317650,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459642,
+        "num": 459642,
+        "word": "蔡磊夫妇捐助1亿元攻克渐冻症",
+        "onboard_time": 1706315188,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396874,
+        "num": 396874,
+        "word": "2位蛋糕师3天复刻云顶天宫蛋糕",
+        "onboard_time": 1706319327,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277341,
+        "num": 277341,
+        "word": "女子欲跳入猴山救猫被游客救下",
+        "onboard_time": 1706281173,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253999,
+        "num": 253999,
+        "word": "吴磊林亦扬 经常请吃饭的哥哥",
+        "onboard_time": 1706316870,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245761,
+        "num": 245761,
+        "word": "iPhone钱包可以访问NFC",
+        "onboard_time": 1706314885,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231224,
+        "num": 231224,
+        "word": "张卫健 我没事精神得很",
+        "onboard_time": 1706274870,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211494,
+        "num": 211494,
+        "word": "专家建议别花几十万回乡盖房子",
+        "onboard_time": 1706270790,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211411,
+        "num": 211411,
+        "word": "女童遭父亲虐待死亡案最新进展",
+        "onboard_time": 1706314465,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205899,
+        "num": 205899,
+        "word": "昆明动物园承诺对猫妥善安置",
+        "onboard_time": 1706319086,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193945,
+        "num": 193945,
+        "word": "返乡前老板请30名农民工炫海鲜",
+        "onboard_time": 1706319747,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 548041,
+        "num": 193485,
+        "word": "外孙女做新美甲回家过年被姥爷一把剪断",
+        "onboard_time": 1706311341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178551,
+        "num": 178551,
+        "word": "谭爷爷知道和叶是妹妹的前后对比",
+        "onboard_time": 1706316688,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171945,
+        "num": 171945,
+        "word": "黑龙江回应建议向南方游客提供小份菜",
+        "onboard_time": 1706311341,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166031,
+        "num": 166031,
+        "word": "恋与深空",
+        "onboard_time": 1706318727,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162621,
+        "num": 162621,
+        "word": "中国小动物保护协会称已出发前往昆明",
+        "onboard_time": 1706312603,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158888,
+        "num": 158888,
+        "word": "俄公布乌战俘登机视频",
+        "onboard_time": 1706319327,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158365,
+        "num": 158365,
+        "word": "美国三分之一年轻人成年不离家",
+        "onboard_time": 1706317289,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151001,
+        "num": 151001,
+        "word": "70岁儿媳来串门91岁婆婆激动落泪",
+        "onboard_time": 1706315789,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143626,
+        "num": 143626,
+        "word": "这哪是悬疑明明是悬溺",
+        "onboard_time": 1706313746,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138475,
+        "num": 138475,
+        "word": "刘雅瑟 关于新歌的诞生",
+        "onboard_time": 1706319989,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174203,
+        "num": 138211,
+        "word": "广州放开120平方米以上户型限购",
+        "onboard_time": 1706320406,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137673,
+        "num": 137673,
+        "word": "女子欲跳入猴山救猫被现场游客救下",
+        "onboard_time": 1706317710,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131606,
+        "num": 131606,
+        "word": "专家说生肖属相是由立春决定",
+        "onboard_time": 1706314646,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 128328,
+        "word": "85后瓷二代借钱创业月销破百万",
+        "onboard_time": 1706319207,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119849,
+        "num": 119849,
+        "word": "瑞士国家旅游局与尔滨文旅局隔空喊话",
+        "onboard_time": 1706318789,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115435,
+        "num": 115435,
+        "word": "人在冻死前为什么会脱衣服",
+        "onboard_time": 1706256871,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114103,
+        "num": 114103,
+        "word": "江西火灾黑色有毒浓烟致人员被困",
+        "onboard_time": 1706316029,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113143,
+        "num": 113143,
+        "word": "王楚然条纹连衣裙",
+        "onboard_time": 1706314406,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112753,
+        "num": 112753,
+        "word": "被害女童父亲称未成年凶手年后正常上学",
+        "onboard_time": 1706276193,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112546,
+        "num": 112546,
+        "word": "东契奇半场41分",
+        "onboard_time": 1706320348,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112134,
+        "num": 112134,
+        "word": "一只小熊猫拒绝了你的搭讪",
+        "onboard_time": 1706310200,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110432,
+        "num": 110432,
+        "word": "有没有人在乎秦海璐的死活",
+        "onboard_time": 1706291901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99008,
+        "num": 99008,
+        "word": "SpotifyCEO痛批苹果欧洲新规",
+        "onboard_time": 1706320588,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98076,
+        "num": 98076,
+        "word": "爸妈听说我除夕不放假时",
+        "onboard_time": 1706283271,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96593,
+        "num": 96593,
+        "word": "徐冬冬仿妆",
+        "onboard_time": 1706315909,
+        "rank": 44,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 94903,
+        "num": 94903,
+        "word": "极兔回应重金属超标",
+        "onboard_time": 1706319510,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90618,
+        "num": 90618,
+        "word": "五千年女子妆容变迁",
+        "onboard_time": 1706318970,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 88414,
+        "num": 88414,
+        "word": "反向催婚",
+        "onboard_time": 1706315427,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86279,
+        "num": 86279,
+        "word": "去新加坡的注意事项",
+        "onboard_time": 1706320770,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85723,
+        "num": 85723,
+        "word": "梅花飞瀑同框美如国画",
+        "onboard_time": 1706320047,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系文旅发展#"
+    }
+  }
+}
