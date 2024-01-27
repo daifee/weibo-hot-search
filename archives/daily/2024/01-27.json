@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706330033833,
+  "endTime": 1706332515191,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -9,6 +9,14 @@
       "onboard_time": 1706316507,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1572901,
+      "num": 1572901,
+      "word": "拜登演讲时突然胡言乱语",
+      "onboard_time": 1706327427,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1381269,
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1249461,
-      "num": 1249461,
-      "word": "拜登演讲时突然胡言乱语",
-      "onboard_time": 1706327427,
-      "rank": 1,
-      "category": "国外时政"
+      "raw_hot": 1260987,
+      "num": 1260987,
+      "word": "红山动物园为昆明动物园的猫发声",
+      "onboard_time": 1706327126,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1145970,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1052089,
-      "num": 367309,
+      "num": 487651,
       "word": "失血性月经",
       "onboard_time": 1706325990,
       "rank": 10,
@@ -131,11 +139,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 648301,
-      "num": 648301,
-      "word": "红山动物园为昆明动物园的猫发声",
-      "onboard_time": 1706327126,
-      "rank": 8,
+      "raw_hot": 608554,
+      "num": 608554,
+      "word": "赵露思修身连衣裙",
+      "onboard_time": 1706329109,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 572673,
+      "num": 572673,
+      "word": "昆明猫猴共处事件谁在装睡",
+      "onboard_time": 1706329227,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -179,12 +195,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524562,
+      "num": 524562,
+      "word": "徐冬冬的名字已经成为了一个梗",
+      "onboard_time": 1706330130,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 501966,
+      "num": 501966,
+      "word": "优酷把要久久爱放悬疑剧场了",
+      "onboard_time": 1706328627,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498173,
       "num": 498173,
       "word": "招财美甲",
       "onboard_time": 1706326410,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 496133,
+      "num": 496133,
+      "word": "金大川雎晓雯婚后首同框",
+      "onboard_time": 1706330969,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 473701,
+      "num": 473701,
+      "word": "董宇辉回应曾被网友指沉默不承担责任",
+      "onboard_time": 1706329646,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 460500,
@@ -235,14 +283,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 427948,
-      "num": 427948,
-      "word": "赵露思修身连衣裙",
-      "onboard_time": 1706329109,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 401589,
       "num": 401589,
       "word": "曝95后待爆男艺人要求删cp互动画面",
@@ -251,20 +291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393770,
+      "num": 393770,
+      "word": "南方小土豆已经有哈尔滨后遗症了",
+      "onboard_time": 1706329409,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390195,
       "num": 390195,
       "word": "张卫健 我没事精神得很",
       "onboard_time": 1706274870,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 382651,
-      "num": 326372,
-      "word": "昆明猫猴共处事件谁在装睡",
-      "onboard_time": 1706329227,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377187,
@@ -304,6 +344,14 @@
       "word": "伦敦留学公寓",
       "onboard_time": 1706322749,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346186,
+      "num": 346186,
+      "word": "在人间 赵丽颖孙千",
+      "onboard_time": 1706331866,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -347,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329952,
+      "num": 238979,
+      "word": "不刷牙会增加全身疾病风险",
+      "onboard_time": 1706329890,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 308859,
       "num": 308859,
       "word": "任嘉伦彭小苒同框路透",
@@ -363,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303741,
-      "num": 303741,
-      "word": "优酷把要久久爱放悬疑剧场了",
-      "onboard_time": 1706328627,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303328,
       "num": 303328,
       "word": "广州放开120平方米以上户型限购",
@@ -385,14 +433,6 @@
       "onboard_time": 1706324908,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297054,
-      "num": 275609,
-      "word": "南方小土豆已经有哈尔滨后遗症了",
-      "onboard_time": 1706329409,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288617,
@@ -475,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235406,
+      "num": 235406,
+      "word": "全国开展消防除患攻坚大整治",
+      "onboard_time": 1706330851,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233033,
+      "num": 233033,
+      "word": "南昌动物园回应猴馆内有多只猫咪",
+      "onboard_time": 1706331689,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232896,
       "num": 232896,
       "word": "中国小动物保护协会称已出发前往昆明",
@@ -499,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222694,
-      "num": 180088,
-      "word": "董宇辉回应曾被网友指沉默不承担责任",
-      "onboard_time": 1706329646,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 221266,
       "num": 221266,
       "word": "gidle健康堪忧回归困难",
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216228,
+      "num": 181864,
+      "word": "星穹铁道 紫阳花",
+      "onboard_time": 1706330430,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212918,
       "num": 212918,
       "word": "本硕就读哈工大男生6年获23项国奖",
@@ -537,6 +593,14 @@
       "onboard_time": 1706327911,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210729,
+      "num": 210729,
+      "word": "声生不息",
+      "onboard_time": 1706331389,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 209791,
@@ -587,6 +651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195309,
+      "num": 195309,
+      "word": "动保协会专家称猴猫很难和平共处",
+      "onboard_time": 1706332049,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193945,
       "num": 193945,
       "word": "返乡前老板请30名农民工炫海鲜",
@@ -627,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188249,
+      "num": 188249,
+      "word": "飞机餐为什么那么难吃",
+      "onboard_time": 1706330728,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188226,
       "num": 188226,
       "word": "这哪是悬疑明明是悬溺",
       "onboard_time": 1706313746,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186186,
+      "num": 186186,
+      "word": "谭维维周深为听障一家三口创作新歌",
+      "onboard_time": 1706332049,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 185338,
@@ -683,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172632,
+      "num": 172632,
+      "word": "托育机构回应男婴哭湿口罩后闷死",
+      "onboard_time": 1706331569,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172003,
       "num": 172003,
       "word": "JN.1变异株本土病例基本为无症状",
@@ -713,6 +809,14 @@
       "onboard_time": 1706318727,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164436,
+      "num": 164436,
+      "word": "吴磊赵今麦牵手玩游戏",
+      "onboard_time": 1706331932,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 163692,
@@ -851,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137532,
+      "num": 146795,
+      "word": "绘旅人中式怪谈",
+      "onboard_time": 1706332049,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133628,
       "num": 128725,
       "word": "以发霉的草莓为灵感能画出什么",
@@ -859,20 +971,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132344,
+      "num": 132344,
+      "word": "日常分享接龙",
+      "onboard_time": 1706331689,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131274,
       "num": 131274,
       "word": "许诺退役",
       "onboard_time": 1706276672,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128790,
-      "num": 128790,
-      "word": "不刷牙会增加全身疾病风险",
-      "onboard_time": 1706329890,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128328,
@@ -905,6 +1017,14 @@
       "onboard_time": 1706256510,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124871,
+      "num": 124871,
+      "word": "Tabe回应加入TES",
+      "onboard_time": 1706330549,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 121645,
@@ -1337,6 +1457,14 @@
       "onboard_time": 1706327911,
       "rank": 25,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 50976,
+      "num": 366928,
+      "word": "匹诺康尼星际电影节",
+      "onboard_time": 1706331630,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 50874,

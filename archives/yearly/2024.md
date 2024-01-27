@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/27 12:33:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/27 13:15:15
 </p>
 </blockquote>
 <p>
@@ -1713,6 +1713,12 @@ papi酱产后四个月去面试繁花（热度：1583697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%BC%94%E8%AE%B2%E6%97%B6%E7%AA%81%E7%84%B6%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD%23" target="weibo">
+拜登演讲时突然胡言乱语（热度：1572901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B0%E5%AE%9D%E9%A9%AC%E5%A5%B3%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%23" target="weibo">
 非诚勿扰宝马女起诉离婚（热度：1571291）
 </a>
@@ -1805,12 +1811,6 @@ papi酱产后四个月去面试繁花（热度：1583697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9C%B1%E4%B8%80%E9%BE%99%20%E5%94%87%E8%AF%AD%23" target="weibo">
 杨幂朱一龙 唇语（热度：1528835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91%E5%90%8E%E5%8F%88%E5%A4%8D%E5%B7%A5%23" target="weibo">
-李湘宣布退休后又复工（热度：1527480）
 </a>
 </li>
 
