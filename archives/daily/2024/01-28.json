@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706379539661,
+  "endTime": 1706380441206,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194784,
+      "num": 194784,
+      "word": "00后四帅",
+      "onboard_time": 1706358388,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185991,
       "num": 185991,
       "word": "文韬齐思钧去看了唐九洲巡演",
@@ -169,14 +177,6 @@
       "onboard_time": 1706342907,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175262,
-      "num": 175262,
-      "word": "00后四帅",
-      "onboard_time": 1706358388,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175032,
@@ -264,6 +264,14 @@
       "word": "昆明动物园",
       "onboard_time": 1706364152,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120519,
+      "num": 43877,
+      "word": "买701号房交房变704业主怒嫌晦气",
+      "onboard_time": 1706378360,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79584,
+      "num": 79584,
+      "word": "师范专业报考热还会持续吗",
+      "onboard_time": 1706376561,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 79389,
       "num": 79389,
       "word": "宋慧乔红丝袜",
@@ -401,22 +417,6 @@
       "onboard_time": 1706369251,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73354,
-      "num": 73354,
-      "word": "师范专业报考热还会持续吗",
-      "onboard_time": 1706376561,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 72216,
-      "num": 43877,
-      "word": "买701号房交房变704业主怒嫌晦气",
-      "onboard_time": 1706378360,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70903,
@@ -451,6 +451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 38863,
+      "num": 37772,
+      "word": "吴尊 10年前的娜姐10年后的你",
+      "onboard_time": 1706359231,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 32713,
       "num": 42622,
       "word": "赵昭仪妈妈画过哪吒传奇",
@@ -459,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27231,
-      "num": 29424,
-      "word": "吴尊 10年前的娜姐10年后的你",
-      "onboard_time": 1706359231,
+      "raw_hot": 23688,
+      "num": 23688,
+      "word": "明日方舟",
+      "onboard_time": 1706359890,
       "rank": 46,
-      "category": "艺人,体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 21257,
