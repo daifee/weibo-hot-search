@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706322844630,
+  "endTime": 1706325404899,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1381269,
-      "num": 837508,
+      "num": 1071721,
       "word": "三变正妻 前妻变三",
       "onboard_time": 1706316268,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1706280871,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1158434,
+      "num": 1158434,
+      "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+      "onboard_time": 1706323349,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085480,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916332,
+      "num": 916332,
+      "word": "男子开车嬉闹撞死三轮车驾驶员",
+      "onboard_time": 1706321249,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904508,
       "num": 904508,
       "word": "国家邮政局约谈极兔速递",
@@ -57,6 +73,14 @@
       "onboard_time": 1706315188,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819520,
+      "num": 819520,
+      "word": "离婚搭子同居养娃",
+      "onboard_time": 1706321131,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 759786,
@@ -83,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 571601,
+      "num": 571601,
+      "word": "东契奇73分",
+      "onboard_time": 1706324247,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565641,
       "num": 340327,
       "word": "11岁男生多次遭班主任羞辱跳楼自杀",
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 552884,
-      "num": 195140,
+      "num": 241596,
       "word": "外孙女做新美甲回家过年被姥爷一把剪断",
       "onboard_time": 1706311341,
       "rank": 30,
@@ -113,14 +145,6 @@
       "onboard_time": 1706314465,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538235,
-      "num": 418690,
-      "word": "离婚搭子同居养娃",
-      "onboard_time": 1706321131,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 460500,
@@ -203,6 +227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 339362,
+      "num": 241811,
+      "word": "瘦是因为爸妈做的饭太难吃了",
+      "onboard_time": 1706323227,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338035,
       "num": 192569,
       "word": "妈妈去世五年了发信息发现号没了",
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289459,
-      "num": 289459,
-      "word": "男子开车嬉闹撞死三轮车驾驶员",
-      "onboard_time": 1706321249,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288617,
       "num": 288617,
       "word": "徐娇喝到真茶了",
@@ -283,11 +307,43 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 272856,
+      "num": 272856,
+      "word": "水哥真的在试图教会我魔方",
+      "onboard_time": 1706322687,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267202,
+      "num": 267202,
+      "word": "关晓彤范丞丞王安宇同框路透",
+      "onboard_time": 1706322267,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263476,
       "num": 263476,
       "word": "吴磊林亦扬 经常请吃饭的哥哥",
       "onboard_time": 1706316870,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261588,
+      "num": 261588,
+      "word": "刘亦菲回京机场",
+      "onboard_time": 1706324908,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260140,
+      "num": 260140,
+      "word": "伦敦留学公寓",
+      "onboard_time": 1706322749,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -297,6 +353,22 @@
       "onboard_time": 1706271270,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241183,
+      "num": 241183,
+      "word": "你好星期六全员守护冬日心动",
+      "onboard_time": 1706323709,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239749,
+      "num": 239749,
+      "word": "19岁小伙为女友租房陷入罗生门",
+      "onboard_time": 1706322928,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232896,
@@ -339,12 +411,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215880,
+      "num": 215880,
+      "word": "任嘉伦彭小苒同框路透",
+      "onboard_time": 1706325089,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212918,
       "num": 212918,
       "word": "本硕就读哈工大男生6年获23项国奖",
       "onboard_time": 1706310140,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211751,
+      "num": 211751,
+      "word": "罗云熙自己补妆",
+      "onboard_time": 1706324609,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209791,
+      "num": 167232,
+      "word": "女朋友做的一周年纪念立体书",
+      "onboard_time": 1706321670,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 205899,
@@ -395,14 +491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192855,
-      "num": 133850,
-      "word": "女朋友做的一周年纪念立体书",
-      "onboard_time": 1706321670,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191891,
       "num": 191891,
       "word": "女子欲跳入猴山救猫被现场游客救下",
@@ -441,14 +529,6 @@
       "onboard_time": 1706286329,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180897,
-      "num": 180897,
-      "word": "关晓彤范丞丞王安宇同框路透",
-      "onboard_time": 1706322267,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 180264,
@@ -529,6 +609,22 @@
       "onboard_time": 1706315789,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156275,
+      "num": 156275,
+      "word": "东契奇超神",
+      "onboard_time": 1706323227,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153920,
+      "num": 153920,
+      "word": "水瓶座对自己的要求很高",
+      "onboard_time": 1706324307,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 151586,
@@ -659,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119276,
+      "num": 119276,
+      "word": "布克62分",
+      "onboard_time": 1706323888,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117320,
       "num": 117320,
       "word": "徐冬冬仿妆",
@@ -771,12 +875,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96700,
+      "num": 96700,
+      "word": "独行侠战胜老鹰",
+      "onboard_time": 1706325209,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95916,
       "num": 131342,
       "word": "原来高铁也会堵车",
       "onboard_time": 1706276193,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95774,
+      "num": 95774,
+      "word": "山东人对编制的执着",
+      "onboard_time": 1706323048,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 94903,
@@ -835,14 +955,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 89302,
-      "num": 89302,
-      "word": "水哥真的在试图教会我魔方",
-      "onboard_time": 1706322687,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87855,
       "num": 87855,
       "word": "洗澡对于广东人来说是解冻",
@@ -875,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85535,
-      "num": 85535,
-      "word": "伦敦留学公寓",
-      "onboard_time": 1706322749,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 84630,
+      "num": 84630,
+      "word": "全迪士尼最会卡点的玲娜贝儿",
+      "onboard_time": 1706322867,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 84243,
@@ -913,6 +1025,14 @@
       "onboard_time": 1706316449,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80879,
+      "num": 80879,
+      "word": "这本书见证东西方文明的相遇",
+      "onboard_time": 1706324668,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 77950,
@@ -1067,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28282,
+      "num": 97481,
+      "word": "流动的中国有温度有活力",
+      "onboard_time": 1706324731,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27818,
       "num": 27818,
       "word": "我想和你唱5开播",
@@ -1081,6 +1209,14 @@
       "onboard_time": 1706284650,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15510,
+      "num": 1081323,
+      "word": "在春运中看到经济活力和亲情乡愁",
+      "onboard_time": 1706324969,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14717,

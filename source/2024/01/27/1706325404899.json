@@ -1,0 +1,410 @@
+{
+  "runTime": 1706325404899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212668,
+        "num": 1212668,
+        "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+        "onboard_time": 1706316507,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158434,
+        "num": 1158434,
+        "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+        "onboard_time": 1706323349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15510,
+        "num": 1081323,
+        "word": "在春运中看到经济活力和亲情乡愁",
+        "onboard_time": 1706324969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071721,
+        "num": 1071721,
+        "word": "三变正妻 前妻变三",
+        "onboard_time": 1706316268,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 916332,
+        "num": 916332,
+        "word": "男子开车嬉闹撞死三轮车驾驶员",
+        "onboard_time": 1706321249,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819520,
+        "num": 819520,
+        "word": "离婚搭子同居养娃",
+        "onboard_time": 1706321131,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 684361,
+        "num": 684361,
+        "word": "国家邮政局约谈极兔速递",
+        "onboard_time": 1706315188,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571601,
+        "num": 571601,
+        "word": "东契奇73分",
+        "onboard_time": 1706324247,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434518,
+        "num": 434518,
+        "word": "我只是没读好书我不是坏孩子",
+        "onboard_time": 1706318008,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426281,
+        "num": 426281,
+        "word": "英国女演员吃饼干花生过敏身亡",
+        "onboard_time": 1706312363,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340251,
+        "num": 340251,
+        "word": "2位蛋糕师3天复刻云顶天宫蛋糕",
+        "onboard_time": 1706319327,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323817,
+        "num": 323817,
+        "word": "猴山的猫将由小动物保护协会带走安置",
+        "onboard_time": 1706321065,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308591,
+        "num": 308591,
+        "word": "警方回应黄圣依杨子表哥直播间带货风波",
+        "onboard_time": 1706280871,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273032,
+        "num": 273032,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272856,
+        "num": 272856,
+        "word": "水哥真的在试图教会我魔方",
+        "onboard_time": 1706322687,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267202,
+        "num": 267202,
+        "word": "关晓彤范丞丞王安宇同框路透",
+        "onboard_time": 1706322267,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261588,
+        "num": 261588,
+        "word": "刘亦菲回京机场",
+        "onboard_time": 1706324908,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260140,
+        "num": 260140,
+        "word": "伦敦留学公寓",
+        "onboard_time": 1706322749,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246073,
+        "num": 246073,
+        "word": "特朗普赔偿8330万美元",
+        "onboard_time": 1706317650,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242285,
+        "num": 242285,
+        "word": "凤凰台上开机",
+        "onboard_time": 1706321249,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339362,
+        "num": 241811,
+        "word": "瘦是因为爸妈做的饭太难吃了",
+        "onboard_time": 1706323227,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334607,
+        "num": 241596,
+        "word": "外孙女做新美甲回家过年被姥爷一把剪断",
+        "onboard_time": 1706311341,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241183,
+        "num": 241183,
+        "word": "你好星期六全员守护冬日心动",
+        "onboard_time": 1706323709,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239749,
+        "num": 239749,
+        "word": "19岁小伙为女友租房陷入罗生门",
+        "onboard_time": 1706322928,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215880,
+        "num": 215880,
+        "word": "任嘉伦彭小苒同框路透",
+        "onboard_time": 1706325089,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211751,
+        "num": 211751,
+        "word": "罗云熙自己补妆",
+        "onboard_time": 1706324609,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199710,
+        "num": 199710,
+        "word": "蔡磊夫妇捐助1亿元攻克渐冻症",
+        "onboard_time": 1706315188,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175813,
+        "num": 175813,
+        "word": "广州放开120平方米以上户型限购",
+        "onboard_time": 1706320406,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172768,
+        "num": 172768,
+        "word": "吴磊林亦扬 经常请吃饭的哥哥",
+        "onboard_time": 1706316870,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167283,
+        "num": 167283,
+        "word": "张卫健 我没事精神得很",
+        "onboard_time": 1706274870,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209791,
+        "num": 167232,
+        "word": "女朋友做的一周年纪念立体书",
+        "onboard_time": 1706321670,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166495,
+        "num": 166495,
+        "word": "谭爷爷知道和叶是妹妹的前后对比",
+        "onboard_time": 1706316688,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156275,
+        "num": 156275,
+        "word": "东契奇超神",
+        "onboard_time": 1706323227,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153920,
+        "num": 153920,
+        "word": "水瓶座对自己的要求很高",
+        "onboard_time": 1706324307,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134258,
+        "num": 134258,
+        "word": "女子欲跳入猴山救猫被游客救下",
+        "onboard_time": 1706281173,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126027,
+        "num": 126027,
+        "word": "中国小动物保护协会称已出发前往昆明",
+        "onboard_time": 1706312603,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119979,
+        "num": 119979,
+        "word": "昆明动物园承诺对猫妥善安置",
+        "onboard_time": 1706319086,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "布克62分",
+        "onboard_time": 1706323888,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109036,
+        "num": 109036,
+        "word": "iPhone钱包可以访问NFC",
+        "onboard_time": 1706314885,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104983,
+        "num": 104983,
+        "word": "2024年确诊上学脑",
+        "onboard_time": 1706321487,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98626,
+        "num": 98626,
+        "word": "专家建议别花几十万回乡盖房子",
+        "onboard_time": 1706270790,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28282,
+        "num": 97481,
+        "word": "流动的中国有温度有活力",
+        "onboard_time": 1706324731,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96700,
+        "num": 96700,
+        "word": "独行侠战胜老鹰",
+        "onboard_time": 1706325209,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95774,
+        "num": 95774,
+        "word": "山东人对编制的执着",
+        "onboard_time": 1706323048,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95545,
+        "num": 95545,
+        "word": "俄公布乌战俘登机视频",
+        "onboard_time": 1706319327,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 94703,
+        "num": 94703,
+        "word": "70岁儿媳来串门91岁婆婆激动落泪",
+        "onboard_time": 1706315789,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87311,
+        "num": 87311,
+        "word": "昆明动物园将对移出猴山的猫全面体检",
+        "onboard_time": 1706319151,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86233,
+        "num": 86233,
+        "word": "黑龙江回应建议向南方游客提供小份菜",
+        "onboard_time": 1706311341,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84630,
+        "num": 84630,
+        "word": "全迪士尼最会卡点的玲娜贝儿",
+        "onboard_time": 1706322867,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 80879,
+        "num": 80879,
+        "word": "这本书见证东西方文明的相遇",
+        "onboard_time": 1706324668,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系文旅发展#"
+    }
+  }
+}

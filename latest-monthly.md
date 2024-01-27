@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/27 10:34:04
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/27 11:16:44
 </p>
 </blockquote>
 <p>
@@ -3273,6 +3273,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9C%AA%E6%BB%A112%E5%B2%81%E7%94%B7%E5%AD%A9%E6%9D%80%E5%AE%B34%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+被未满12岁男孩杀害4岁女孩父亲发声（热度：1158434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E8%80%BD%E8%AF%AF%E8%80%83%E8%AF%95%23" target="weibo">
 研究生为救人耽误考试（热度：1155411）
 </a>
@@ -5031,6 +5037,12 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E5%AC%89%E9%97%B9%E6%92%9E%E6%AD%BB%E4%B8%89%E8%BD%AE%E8%BD%A6%E9%A9%BE%E9%A9%B6%E5%91%98%23" target="weibo">
+男子开车嬉闹撞死三轮车驾驶员（热度：916332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E4%BB%85%E4%BB%BB%E8%81%8C1%E5%B9%B4%23" target="weibo">
 黑龙江文旅厅厅长仅任职1年（热度：915982）
 </a>
@@ -5999,18 +6011,6 @@ joker不是小丑 是制胜的王牌（热度：824347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%20%E5%AF%B9%E8%A7%86%23" target="weibo">
 棣欣引力 对视（热度：823930）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%81%94%E6%8E%92%23" target="weibo">
-沈腾马丽现身央视春晚第二次联排（热度：822805）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%A2%AB%E6%8E%A7%E8%B0%8B%E6%9D%80%E9%87%8D%E7%BD%AA%23" target="weibo">
-谷歌殴打妻子致死工程师被控谋杀重罪（热度：821675）
 </a>
 </li>
 
