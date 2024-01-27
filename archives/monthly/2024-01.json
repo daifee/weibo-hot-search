@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706372409793,
+  "endTime": 1706373317640,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -6611,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 941175,
+      "num": 941175,
+      "word": "这跟易烊千玺谈了有什么区别",
+      "onboard_time": 1706370629,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 940311,
       "num": 940311,
       "word": "卡琳娜复更",
@@ -9441,14 +9449,6 @@
       "onboard_time": 1705056930,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 760805,
-      "num": 760805,
-      "word": "这跟易烊千玺谈了有什么区别",
-      "onboard_time": 1706370629,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 759826,
@@ -68305,6 +68305,14 @@
       "onboard_time": 1705824506,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 102251,
+      "num": 102251,
+      "word": "网友吐槽23岁就被迫加入催婚的队伍",
+      "onboard_time": 1706372909,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 102218,

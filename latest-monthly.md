@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/28 00:20:09
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/28 00:35:17
 </p>
 </blockquote>
 <p>
@@ -4971,6 +4971,12 @@ SKII大中华区销量受日本排污影响暴跌（热度：948264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%B7%9F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%88%E4%BA%86%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23" target="weibo">
+这跟易烊千玺谈了有什么区别（热度：941175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9C%E5%A4%8D%E6%9B%B4%23" target="weibo">
 卡琳娜复更（热度：940311）
 </a>
@@ -6005,12 +6011,6 @@ Minji为没吃过刀削面道歉（热度：844358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2346%E5%B2%81%E7%9F%A5%E5%90%8D%E9%BA%BB%E9%86%89%E7%A7%91%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
 46岁知名麻醉科医生去世（热度：835576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%8C%E8%AF%81%E7%A0%81%20%E9%AA%8C%E8%A0%A2%23" target="weibo">
-验证码 验蠢（热度：835479）
 </a>
 </li>
 
