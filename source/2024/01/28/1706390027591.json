@@ -1,0 +1,410 @@
+{
+  "runTime": 1706390027591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124099,
+        "num": 124099,
+        "word": "德克萨斯",
+        "onboard_time": 1706373505,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 82794,
+        "num": 82794,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 9727,
+        "num": 66063,
+        "word": "中国航天器名字里有中国人才懂的含义",
+        "onboard_time": 1706360849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58108,
+        "num": 58108,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55553,
+        "num": 55553,
+        "word": "这跟易烊千玺谈了有什么区别",
+        "onboard_time": 1706370629,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45833,
+        "num": 45833,
+        "word": "阿拉斯加自己走丢在大街上大哭",
+        "onboard_time": 1706363492,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45407,
+        "num": 45407,
+        "word": "00后四帅",
+        "onboard_time": 1706358388,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40518,
+        "num": 40518,
+        "word": "吴尊 10年前的娜姐10年后的你",
+        "onboard_time": 1706359231,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 39200,
+        "num": 39200,
+        "word": "好消息1月工资年前发",
+        "onboard_time": 1706355869,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38293,
+        "num": 38293,
+        "word": "宋慧乔红丝袜",
+        "onboard_time": 1706361332,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81937,
+        "num": 38129,
+        "word": "买701号房交房变704业主怒嫌晦气",
+        "onboard_time": 1706378360,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36126,
+        "num": 36126,
+        "word": "昆明动物园为什么三发通报才救猫",
+        "onboard_time": 1706366791,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33940,
+        "num": 33940,
+        "word": "迪丽热巴高定首穿",
+        "onboard_time": 1706354490,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32245,
+        "num": 32245,
+        "word": "闫妮女儿 张小斐",
+        "onboard_time": 1706356891,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32210,
+        "num": 32210,
+        "word": "主播称董宇辉被叫老板恨不得翻脸",
+        "onboard_time": 1706364333,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31486,
+        "num": 31486,
+        "word": "沈梦辰腰椎骨头断裂",
+        "onboard_time": 1706342907,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28736,
+        "num": 28736,
+        "word": "包上恩",
+        "onboard_time": 1706362831,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28304,
+        "num": 28304,
+        "word": "00后四美",
+        "onboard_time": 1706356109,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22258,
+        "num": 22258,
+        "word": "金鹤龙晒迪丽热巴",
+        "onboard_time": 1706368771,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21686,
+        "num": 21686,
+        "word": "昆明动物园",
+        "onboard_time": 1706364152,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24003,
+        "num": 21640,
+        "word": "没结婚用不用给外甥女压岁钱",
+        "onboard_time": 1706367692,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21193,
+        "num": 21193,
+        "word": "文韬齐思钧去看了唐九洲巡演",
+        "onboard_time": 1706362173,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21014,
+        "num": 21014,
+        "word": "网友吐槽23岁就被迫加入催婚的队伍",
+        "onboard_time": 1706372909,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19871,
+        "num": 19871,
+        "word": "央视曝回流医保药洗白过程",
+        "onboard_time": 1706365712,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19420,
+        "num": 19420,
+        "word": "苦了陈楚生不能苦了我",
+        "onboard_time": 1706367692,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17281,
+        "num": 17281,
+        "word": "吴磊赵今麦好配",
+        "onboard_time": 1706360913,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16019,
+        "num": 16019,
+        "word": "明日方舟",
+        "onboard_time": 1706359890,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15646,
+        "num": 15646,
+        "word": "杨迪问秦霄贤对谁心动过",
+        "onboard_time": 1706385675,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15573,
+        "num": 15573,
+        "word": "迪丽热巴一个月四套高定",
+        "onboard_time": 1706366432,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15409,
+        "num": 15409,
+        "word": "宝妈用小馒头吸收药物喂宝宝吃",
+        "onboard_time": 1706367692,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 15389,
+        "num": 15389,
+        "word": "青山说灰原喜欢柯南",
+        "onboard_time": 1706363373,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15211,
+        "num": 15211,
+        "word": "金晨全套新中式",
+        "onboard_time": 1706365112,
+        "rank": 31,
+        "category": "科学科普,作品衍生"
+      },
+      {
+        "raw_hot": 15078,
+        "num": 15078,
+        "word": "红丝袜",
+        "onboard_time": 1706388496,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14489,
+        "num": 14489,
+        "word": "你早上刷牙还是晚上刷牙",
+        "onboard_time": 1706348971,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14136,
+        "num": 14136,
+        "word": "瘦全身练这一个就够了",
+        "onboard_time": 1706382736,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 14074,
+        "num": 14074,
+        "word": "人要一寸一寸的拯救自己",
+        "onboard_time": 1706361691,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13644,
+        "num": 13644,
+        "word": "郑钦文2023年收入720万美元",
+        "onboard_time": 1706388196,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 13420,
+        "num": 13420,
+        "word": "武汉女生备考3个月被剑桥录取",
+        "onboard_time": 1706364634,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13053,
+        "num": 13053,
+        "word": "赵继伟戴面具",
+        "onboard_time": 1706387177,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12894,
+        "num": 12894,
+        "word": "第一次见猫猫泡脚",
+        "onboard_time": 1706370270,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12573,
+        "num": 12573,
+        "word": "金晨舞蹈致敬200年前清代女科学家",
+        "onboard_time": 1706361750,
+        "rank": 40,
+        "category": "科学科普,艺人"
+      },
+      {
+        "raw_hot": 12563,
+        "num": 12563,
+        "word": "师范专业报考热还会持续吗",
+        "onboard_time": 1706376561,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12387,
+        "num": 12387,
+        "word": "湖北省政府向中国网协和郑钦文致贺电",
+        "onboard_time": 1706367272,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12180,
+        "num": 12180,
+        "word": "刘宇魏无羡造型",
+        "onboard_time": 1706350532,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 12160,
+        "word": "迪丽热巴爱琴海",
+        "onboard_time": 1706353108,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11850,
+        "num": 11850,
+        "word": "赵昭仪妈妈画过哪吒传奇",
+        "onboard_time": 1706364152,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10833,
+        "num": 10833,
+        "word": "我过年回家的作用",
+        "onboard_time": 1706387955,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10113,
+        "num": 10113,
+        "word": "留住金鹤龙",
+        "onboard_time": 1706361090,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10006,
+        "num": 10006,
+        "word": "林俊杰多少有点见外了",
+        "onboard_time": 1706366909,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11437,
+        "num": 9951,
+        "word": "迪丽热巴新妆",
+        "onboard_time": 1706362230,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙互致贺电#"
+    }
+  }
+}
