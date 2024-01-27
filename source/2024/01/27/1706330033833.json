@@ -1,0 +1,410 @@
+{
+  "runTime": 1706330033833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249461,
+        "num": 1249461,
+        "word": "拜登演讲时突然胡言乱语",
+        "onboard_time": 1706327427,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1013549,
+        "num": 1013549,
+        "word": "男子开车嬉闹撞死三轮车驾驶员",
+        "onboard_time": 1706321249,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62454,
+        "num": 920909,
+        "word": "在春运中看到经济活力和亲情乡愁",
+        "onboard_time": 1706324969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851736,
+        "num": 851736,
+        "word": "三变正妻 前妻变三",
+        "onboard_time": 1706316268,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648301,
+        "num": 648301,
+        "word": "红山动物园为昆明动物园的猫发声",
+        "onboard_time": 1706327126,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467229,
+        "num": 467229,
+        "word": "招财美甲",
+        "onboard_time": 1706326410,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 460834,
+        "num": 460834,
+        "word": "离婚搭子同居养娃",
+        "onboard_time": 1706321131,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440158,
+        "num": 440158,
+        "word": "国家邮政局约谈极兔速递",
+        "onboard_time": 1706315188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427948,
+        "num": 427948,
+        "word": "赵露思修身连衣裙",
+        "onboard_time": 1706329109,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343156,
+        "num": 343156,
+        "word": "秦岚好多帽子",
+        "onboard_time": 1706327187,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1087000,
+        "num": 340243,
+        "word": "泰勒斯威夫特AI不雅照疯传",
+        "onboard_time": 1706327427,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1052089,
+        "num": 337408,
+        "word": "失血性月经",
+        "onboard_time": 1706325990,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 495287,
+        "num": 334971,
+        "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+        "onboard_time": 1706316507,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29229,
+        "num": 333458,
+        "word": "元梦龙年星光代言人范丞丞",
+        "onboard_time": 1706327911,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 79722,
+        "num": 330779,
+        "word": "绘旅人新春国潮版本",
+        "onboard_time": 1706328028,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 382651,
+        "num": 326372,
+        "word": "昆明猫猴共处事件谁在装睡",
+        "onboard_time": 1706329227,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325616,
+        "num": 325616,
+        "word": "猴山的猫将由小动物保护协会带走安置",
+        "onboard_time": 1706321065,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304062,
+        "num": 304062,
+        "word": "Letme直播哭了",
+        "onboard_time": 1706326050,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303741,
+        "num": 303741,
+        "word": "优酷把要久久爱放悬疑剧场了",
+        "onboard_time": 1706328627,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276369,
+        "num": 276369,
+        "word": "英国女演员吃饼干花生过敏身亡",
+        "onboard_time": 1706312363,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297054,
+        "num": 275609,
+        "word": "南方小土豆已经有哈尔滨后遗症了",
+        "onboard_time": 1706329409,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271188,
+        "num": 271188,
+        "word": "伦敦留学公寓",
+        "onboard_time": 1706322749,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254721,
+        "num": 254721,
+        "word": "瘦是因为爸妈做的饭太难吃了",
+        "onboard_time": 1706323227,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243116,
+        "num": 243116,
+        "word": "警方回应黄圣依杨子表哥直播间带货风波",
+        "onboard_time": 1706280871,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224170,
+        "num": 224170,
+        "word": "东契奇73分",
+        "onboard_time": 1706324247,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197389,
+        "num": 197389,
+        "word": "我只是没读好书我不是坏孩子",
+        "onboard_time": 1706318008,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197238,
+        "num": 197238,
+        "word": "任嘉伦彭小苒同框路透",
+        "onboard_time": 1706325089,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194091,
+        "num": 194091,
+        "word": "19岁小伙为女友租房陷入罗生门",
+        "onboard_time": 1706322928,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189341,
+        "num": 189341,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1706327911,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183998,
+        "num": 183998,
+        "word": "水哥真的在试图教会我魔方",
+        "onboard_time": 1706322687,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684910,
+        "num": 181303,
+        "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+        "onboard_time": 1706323349,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222694,
+        "num": 180088,
+        "word": "董宇辉回应曾被网友指沉默不承担责任",
+        "onboard_time": 1706329646,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177844,
+        "num": 177844,
+        "word": "昆明动物园承诺对猫妥善安置",
+        "onboard_time": 1706319086,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175347,
+        "num": 175347,
+        "word": "伤影向张艺兴致歉",
+        "onboard_time": 1706326589,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164012,
+        "num": 164012,
+        "word": "2位蛋糕师3天复刻云顶天宫蛋糕",
+        "onboard_time": 1706319327,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157193,
+        "num": 157193,
+        "word": "你好星期六全员守护冬日心动",
+        "onboard_time": 1706323709,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153750,
+        "num": 153750,
+        "word": "中国小动物保护协会称已出发前往昆明",
+        "onboard_time": 1706312603,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153146,
+        "num": 153146,
+        "word": "逛超市的年轻人",
+        "onboard_time": 1706328986,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152677,
+        "num": 152677,
+        "word": "孙子返乡用玉米皮给奶奶做古风头冠",
+        "onboard_time": 1706326649,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149868,
+        "num": 149868,
+        "word": "罗云熙自己补妆",
+        "onboard_time": 1706324609,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "刘亦菲回京机场",
+        "onboard_time": 1706324908,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140840,
+        "num": 140840,
+        "word": "水瓶座对自己的要求很高",
+        "onboard_time": 1706324307,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137840,
+        "num": 137840,
+        "word": "南京人有多喜欢吃川菜",
+        "onboard_time": 1706327849,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135852,
+        "num": 135852,
+        "word": "吴磊林亦扬 经常请吃饭的哥哥",
+        "onboard_time": 1706316870,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133765,
+        "num": 133765,
+        "word": "谭爷爷知道和叶是妹妹的前后对比",
+        "onboard_time": 1706316688,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132817,
+        "num": 132817,
+        "word": "赵露思蜜桃少女妆",
+        "onboard_time": 1706327370,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128790,
+        "num": 128790,
+        "word": "不刷牙会增加全身疾病风险",
+        "onboard_time": 1706329890,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127960,
+        "num": 127960,
+        "word": "特朗普赔偿8330万美元",
+        "onboard_time": 1706317650,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121645,
+        "num": 121645,
+        "word": "要久久爱回国文学",
+        "onboard_time": 1706329588,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107757,
+        "num": 107757,
+        "word": "先运动再学习",
+        "onboard_time": 1706328572,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动城市治理体系和治理能力现代化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706329137656,
+  "endTime": 1706330033833,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1249461,
+      "num": 1249461,
+      "word": "拜登演讲时突然胡言乱语",
+      "onboard_time": 1706327427,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1145970,
       "num": 626417,
       "word": "泰勒斯威夫特AI不雅照疯传",
@@ -67,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 993490,
+      "raw_hot": 1052089,
       "num": 367309,
       "word": "失血性月经",
       "onboard_time": 1706325990,
@@ -89,14 +97,6 @@
       "onboard_time": 1706315188,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846634,
-      "num": 846634,
-      "word": "拜登演讲时突然胡言乱语",
-      "onboard_time": 1706327427,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 819520,
@@ -129,6 +129,14 @@
       "onboard_time": 1706318008,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 648301,
+      "num": 648301,
+      "word": "红山动物园为昆明动物园的猫发声",
+      "onboard_time": 1706327126,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571601,
@@ -227,6 +235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 427948,
+      "num": 427948,
+      "word": "赵露思修身连衣裙",
+      "onboard_time": 1706329109,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401589,
       "num": 401589,
       "word": "曝95后待爆男艺人要求删cp互动画面",
@@ -235,20 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392309,
-      "num": 392309,
-      "word": "红山动物园为昆明动物园的猫发声",
-      "onboard_time": 1706327126,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390195,
       "num": 390195,
       "word": "张卫健 我没事精神得很",
       "onboard_time": 1706274870,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 382651,
+      "num": 326372,
+      "word": "昆明猫猴共处事件谁在装睡",
+      "onboard_time": 1706329227,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377187,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303741,
+      "num": 303741,
+      "word": "优酷把要久久爱放悬疑剧场了",
+      "onboard_time": 1706328627,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303328,
       "num": 303328,
       "word": "广州放开120平方米以上户型限购",
@@ -361,6 +385,14 @@
       "onboard_time": 1706324908,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297054,
+      "num": 275609,
+      "word": "南方小土豆已经有哈尔滨后遗症了",
+      "onboard_time": 1706329409,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288617,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222694,
+      "num": 180088,
+      "word": "董宇辉回应曾被网友指沉默不承担责任",
+      "onboard_time": 1706329646,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 221266,
       "num": 221266,
       "word": "gidle健康堪忧回归困难",
@@ -571,14 +611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192370,
-      "num": 192370,
-      "word": "赵露思修身连衣裙",
-      "onboard_time": 1706329109,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191891,
       "num": 191891,
       "word": "女子欲跳入猴山救猫被现场游客救下",
@@ -609,14 +641,6 @@
       "onboard_time": 1706269110,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181791,
-      "num": 181791,
-      "word": "优酷把要久久爱放悬疑剧场了",
-      "onboard_time": 1706328627,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 181740,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153146,
+      "num": 153146,
+      "word": "逛超市的年轻人",
+      "onboard_time": 1706328986,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151586,
       "num": 151586,
       "word": "野野",
@@ -835,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128790,
+      "num": 128790,
+      "word": "不刷牙会增加全身疾病风险",
+      "onboard_time": 1706329890,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128328,
       "num": 128328,
       "word": "85后瓷二代借钱创业月销破百万",
@@ -865,6 +905,14 @@
       "onboard_time": 1706256510,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121645,
+      "num": 121645,
+      "word": "要久久爱回国文学",
+      "onboard_time": 1706329588,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 119849,
@@ -905,14 +953,6 @@
       "onboard_time": 1706315909,
       "rank": 35,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 114595,
-      "num": 114595,
-      "word": "逛超市的年轻人",
-      "onboard_time": 1706328986,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 114111,
@@ -1219,6 +1259,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 79722,
+      "num": 336787,
+      "word": "绘旅人新春国潮版本",
+      "onboard_time": 1706328028,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77950,
       "num": 77950,
       "word": "最强大脑",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1706324969,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64901,
-      "num": 336787,
-      "word": "绘旅人新春国潮版本",
-      "onboard_time": 1706328028,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 58278,
@@ -1292,7 +1332,7 @@
     },
     {
       "raw_hot": 51520,
-      "num": 206331,
+      "num": 333458,
       "word": "元梦龙年星光代言人范丞丞",
       "onboard_time": 1706327911,
       "rank": 25,
