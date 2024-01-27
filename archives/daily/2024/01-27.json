@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706353974559,
+  "endTime": 1706355235199,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1203447,
+      "num": 1203447,
+      "word": "迪丽热巴爱琴海",
+      "onboard_time": 1706353108,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145970,
       "num": 626417,
       "word": "泰勒斯威夫特AI不雅照疯传",
@@ -147,12 +155,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1001360,
+      "num": 807488,
+      "word": "迪丽热巴高定首穿",
+      "onboard_time": 1706354490,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 988887,
       "num": 988887,
       "word": "郑钦文vs萨巴伦卡",
       "onboard_time": 1706340808,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 984508,
+      "num": 705204,
+      "word": "昆明动物园猫不见了",
+      "onboard_time": 1706352810,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925740,
@@ -251,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 705204,
-      "num": 705204,
-      "word": "昆明动物园猫不见了",
-      "onboard_time": 1706352810,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 694183,
+      "num": 1919541,
+      "word": "一元一串的钵钵鸡有多洗脑",
+      "onboard_time": 1706342250,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 689149,
@@ -265,14 +289,6 @@
       "onboard_time": 1706318008,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 642988,
-      "num": 1919541,
-      "word": "一元一串的钵钵鸡有多洗脑",
-      "onboard_time": 1706342250,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 622968,
@@ -307,8 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582213,
-      "num": 582213,
+      "raw_hot": 596333,
+      "num": 596333,
       "word": "郑钦文收获超800万奖金",
       "onboard_time": 1706351789,
       "rank": 11,
@@ -395,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 506765,
-      "num": 506765,
-      "word": "迪丽热巴爱琴海",
-      "onboard_time": 1706353108,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 501966,
       "num": 501966,
       "word": "优酷把要久久爱放悬疑剧场了",
@@ -425,6 +433,14 @@
       "onboard_time": 1706330969,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487469,
+      "num": 487469,
+      "word": "昆明动物园猫咪现身了",
+      "onboard_time": 1706354789,
+      "rank": 13,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 473701,
@@ -801,6 +817,14 @@
       "onboard_time": 1706336489,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282727,
+      "num": 282727,
+      "word": "情绪压抑的人更易长结节",
+      "onboard_time": 1706352869,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280736,
@@ -1211,14 +1235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192168,
-      "num": 192168,
-      "word": "情绪压抑的人更易长结节",
-      "onboard_time": 1706352869,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 191891,
       "num": 191891,
       "word": "女子欲跳入猴山救猫被现场游客救下",
@@ -1291,12 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184353,
+      "num": 184353,
+      "word": "久诚 MTG",
+      "onboard_time": 1706353470,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183570,
       "num": 183570,
       "word": "陈楚生回复王心凌",
       "onboard_time": 1706351011,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181977,
+      "num": 181977,
+      "word": "找对象应该努力还是要随缘",
+      "onboard_time": 1706352989,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 181740,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1706350050,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167404,
-      "num": 167404,
-      "word": "久诚 MTG",
-      "onboard_time": 1706353470,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 166787,
@@ -1563,20 +1587,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152288,
+      "num": 279627,
+      "word": "郑钦文未来可期",
+      "onboard_time": 1706353589,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151586,
       "num": 151586,
       "word": "野野",
       "onboard_time": 1706280214,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 150425,
-      "num": 150425,
-      "word": "找对象应该努力还是要随缘",
-      "onboard_time": 1706352989,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 150306,
@@ -1731,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130998,
+      "num": 130998,
+      "word": "绘旅人psd",
+      "onboard_time": 1706354431,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128799,
       "num": 128799,
       "word": "李昀锐vlog一直在吃面包",
@@ -1795,12 +1827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125101,
+      "num": 125101,
+      "word": "返乡小金豆将螺蛳粉放入铁锅炖",
+      "onboard_time": 1706354610,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124871,
       "num": 124871,
       "word": "Tabe回应加入TES",
       "onboard_time": 1706330549,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123240,
+      "num": 123240,
+      "word": "6名女高中生获得牛剑预录取",
+      "onboard_time": 1706353767,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 121645,
@@ -1923,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111353,
-      "num": 130830,
-      "word": "郑钦文未来可期",
-      "onboard_time": 1706353589,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111248,
       "num": 111248,
       "word": "反向催婚",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1706336669,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106497,
-      "num": 106497,
-      "word": "6名女高中生获得牛剑预录取",
-      "onboard_time": 1706353767,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 106109,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1706282073,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94168,
+      "num": 94168,
+      "word": "萨巴伦卡卫冕澳网冠军",
+      "onboard_time": 1706351851,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 93901,

@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706353974559,
+  "endTime": 1706355235199,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1203447,
+      "num": 1203447,
+      "word": "迪丽热巴爱琴海",
+      "onboard_time": 1706353108,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1191802,
       "num": 1191802,
       "word": "不要再把肉泡水里解冻了",
@@ -1307,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1001360,
+      "num": 807488,
+      "word": "迪丽热巴高定首穿",
+      "onboard_time": 1706354490,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1000888,
       "num": 1000888,
       "word": "专家称中国退休年龄全球偏低",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1705970730,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 984508,
+      "num": 705204,
+      "word": "昆明动物园猫不见了",
+      "onboard_time": 1706352810,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 983952,
@@ -2411,14 +2435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 705204,
-      "num": 705204,
-      "word": "昆明动物园猫不见了",
-      "onboard_time": 1706352810,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 703954,
       "num": 703954,
       "word": "林一晒与刘浩存合照",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1706098291,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 694183,
+      "num": 1919541,
+      "word": "一元一串的钵钵鸡有多洗脑",
+      "onboard_time": 1706342250,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 689668,
@@ -2721,14 +2745,6 @@
       "onboard_time": 1706158832,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 642988,
-      "num": 1919541,
-      "word": "一元一串的钵钵鸡有多洗脑",
-      "onboard_time": 1706342250,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 642663,
@@ -3011,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596333,
+      "num": 596333,
+      "word": "郑钦文收获超800万奖金",
+      "onboard_time": 1706351789,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 593514,
       "num": 593514,
       "word": "赵丽颖演出了苦难无声却震耳欲聋",
@@ -3081,14 +3105,6 @@
       "onboard_time": 1705831888,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582213,
-      "num": 582213,
-      "word": "郑钦文收获超800万奖金",
-      "onboard_time": 1706351789,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 582209,
@@ -3771,14 +3787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506765,
-      "num": 506765,
-      "word": "迪丽热巴爱琴海",
-      "onboard_time": 1706353108,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 505059,
       "num": 277878,
       "word": "警方调查网传唐山一副所长当街捅人",
@@ -3961,6 +3969,14 @@
       "onboard_time": 1705912589,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487469,
+      "num": 487469,
+      "word": "昆明动物园猫咪现身了",
+      "onboard_time": 1706354789,
+      "rank": 13,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 487430,
@@ -7240,6 +7256,14 @@
       "word": "中成药 陷阱",
       "onboard_time": 1706248472,
       "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282727,
+      "num": 282727,
+      "word": "情绪压抑的人更易长结节",
+      "onboard_time": 1706352869,
+      "rank": 26,
       "category": "健康医疗"
     },
     {
@@ -10971,14 +10995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 192168,
-      "num": 192168,
-      "word": "情绪压抑的人更易长结节",
-      "onboard_time": 1706352869,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192031,
       "num": 192031,
       "word": "中国电视剧年度盛典演员入戏时刻",
@@ -11563,6 +11579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184353,
+      "num": 184353,
+      "word": "久诚 MTG",
+      "onboard_time": 1706353470,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184340,
       "num": 184340,
       "word": "幻兽帕鲁宝可梦MOD",
@@ -11729,6 +11753,14 @@
       "onboard_time": 1705900884,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181977,
+      "num": 181977,
+      "word": "找对象应该努力还是要随缘",
+      "onboard_time": 1706352989,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 181845,
@@ -12792,14 +12824,6 @@
       "word": "王者或参与沙特电竞世界杯",
       "onboard_time": 1706015132,
       "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 167404,
-      "num": 167404,
-      "word": "久诚 MTG",
-      "onboard_time": 1706353470,
-      "rank": 32,
       "category": "电竞"
     },
     {
@@ -13995,6 +14019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152288,
+      "num": 279627,
+      "word": "郑钦文未来可期",
+      "onboard_time": 1706353589,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152256,
       "num": 152256,
       "word": "许诺回顾职业生涯",
@@ -14112,14 +14144,6 @@
       "word": "爸爸来北京后开始试着跑网约车",
       "onboard_time": 1706009192,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 150425,
-      "num": 150425,
-      "word": "找对象应该努力还是要随缘",
-      "onboard_time": 1706352989,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -15755,6 +15779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130998,
+      "num": 130998,
+      "word": "绘旅人psd",
+      "onboard_time": 1706354431,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130887,
       "num": 130887,
       "word": "这才是滑雪的出场方式",
@@ -16307,6 +16339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125101,
+      "num": 125101,
+      "word": "返乡小金豆将螺蛳粉放入铁锅炖",
+      "onboard_time": 1706354610,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125035,
       "num": 125035,
       "word": "两狗一鼠跳舞",
@@ -16433,6 +16473,14 @@
       "onboard_time": 1706055449,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123240,
+      "num": 123240,
+      "word": "6名女高中生获得牛剑预录取",
+      "onboard_time": 1706353767,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 123094,
@@ -17211,14 +17259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111353,
-      "num": 130830,
-      "word": "郑钦文未来可期",
-      "onboard_time": 1706353589,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111322,
       "num": 111322,
       "word": "喜欢小猫和喜欢小狗背后的心理差异",
@@ -17521,14 +17561,6 @@
       "onboard_time": 1705796961,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106497,
-      "num": 106497,
-      "word": "6名女高中生获得牛剑预录取",
-      "onboard_time": 1706353767,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 106063,
@@ -18136,6 +18168,14 @@
       "word": "爱德华兹三罚不中",
       "onboard_time": 1705810526,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94168,
+      "num": 94168,
+      "word": "萨巴伦卡卫冕澳网冠军",
+      "onboard_time": 1706351851,
+      "rank": 47,
       "category": "体育"
     },
     {
