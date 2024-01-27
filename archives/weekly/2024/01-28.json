@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706375789364,
+  "endTime": 1706376842761,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -59,6 +59,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 482094,
+      "num": 482094,
+      "word": "德克萨斯",
+      "onboard_time": 1706373505,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 471747,
       "num": 471747,
       "word": "00后四美",
@@ -91,12 +99,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 327113,
-      "num": 327113,
-      "word": "德克萨斯",
-      "onboard_time": 1706373505,
-      "rank": 4,
-      "category": "国外时政"
+      "raw_hot": 319468,
+      "num": 319468,
+      "word": "初中妹妹8科成绩总分66",
+      "onboard_time": 1706346329,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 314453,
@@ -113,14 +121,6 @@
       "onboard_time": 1706363492,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299276,
-      "num": 299276,
-      "word": "初中妹妹8科成绩总分66",
-      "onboard_time": 1706346329,
-      "rank": 15,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 297935,
@@ -187,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164581,
+      "num": 164581,
+      "word": "新加坡免签一不小心就变穷光蛋",
+      "onboard_time": 1706340387,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163278,
       "num": 163278,
       "word": "00后四帅",
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158665,
-      "num": 158665,
-      "word": "新加坡免签一不小心就变穷光蛋",
-      "onboard_time": 1706340387,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 157628,
@@ -417,6 +417,38 @@
       "onboard_time": 1706356891,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39604,
+      "num": 42658,
+      "word": "怎么选珍珠",
+      "onboard_time": 1706375783,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 35980,
+      "num": 42633,
+      "word": "师范专业报考热还会持续吗",
+      "onboard_time": 1706376561,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 32713,
+      "num": 42622,
+      "word": "赵昭仪妈妈画过哪吒传奇",
+      "onboard_time": 1706364152,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19531,
+      "num": 329577,
+      "word": "中国航天器名字里有中国人才懂的含义",
+      "onboard_time": 1706360849,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8120,

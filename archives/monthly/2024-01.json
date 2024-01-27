@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706375789364,
+  "endTime": 1706376842761,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -18139,6 +18139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 482094,
+      "num": 482094,
+      "word": "德克萨斯",
+      "onboard_time": 1706373505,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 481648,
       "num": 421195,
       "word": "肖战是J人",
@@ -26105,14 +26113,6 @@
       "onboard_time": 1705370429,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327113,
-      "num": 327113,
-      "word": "德克萨斯",
-      "onboard_time": 1706373505,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 327099,
@@ -73475,6 +73475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39604,
+      "num": 42658,
+      "word": "怎么选珍珠",
+      "onboard_time": 1706375783,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 39493,
       "num": 986480,
       "word": "中国航天员26年出征太空12次",
@@ -73697,6 +73705,14 @@
       "onboard_time": 1704892472,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 35980,
+      "num": 42633,
+      "word": "师范专业报考热还会持续吗",
+      "onboard_time": 1706376561,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 35816,
