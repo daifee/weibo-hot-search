@@ -1,0 +1,410 @@
+{
+  "runTime": 1706375789364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666771,
+        "num": 666771,
+        "word": "这跟易烊千玺谈了有什么区别",
+        "onboard_time": 1706370629,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368580,
+        "num": 368580,
+        "word": "00后四美",
+        "onboard_time": 1706356109,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5708,
+        "num": 362451,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359333,
+        "num": 359333,
+        "word": "好消息1月工资年前发",
+        "onboard_time": 1706355869,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327113,
+        "num": 327113,
+        "word": "德克萨斯",
+        "onboard_time": 1706373505,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 299276,
+        "num": 299276,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 276281,
+        "num": 276281,
+        "word": "包上恩",
+        "onboard_time": 1706362831,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271975,
+        "num": 271975,
+        "word": "迪丽热巴一个月四套高定",
+        "onboard_time": 1706366432,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271809,
+        "num": 271809,
+        "word": "阿拉斯加自己走丢在大街上大哭",
+        "onboard_time": 1706363492,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245661,
+        "num": 245661,
+        "word": "主播称董宇辉被叫老板恨不得翻脸",
+        "onboard_time": 1706364333,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 499025,
+        "num": 227767,
+        "word": "北京野生动物园就昆明动物园事件发声",
+        "onboard_time": 1706361513,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327521,
+        "num": 223042,
+        "word": "昆明动物园为什么三发通报才救猫",
+        "onboard_time": 1706366791,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204236,
+        "num": 204236,
+        "word": "迪丽热巴高定首穿",
+        "onboard_time": 1706354490,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162564,
+        "num": 162564,
+        "word": "苦了陈楚生不能苦了我",
+        "onboard_time": 1706367692,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158665,
+        "num": 158665,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152316,
+        "num": 152316,
+        "word": "沈梦辰腰椎骨头断裂",
+        "onboard_time": 1706342907,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146913,
+        "num": 146913,
+        "word": "林俊杰多少有点见外了",
+        "onboard_time": 1706366909,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203115,
+        "num": 146913,
+        "word": "金鹤龙晒迪丽热巴",
+        "onboard_time": 1706368771,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145465,
+        "num": 145465,
+        "word": "00后四帅",
+        "onboard_time": 1706358388,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123429,
+        "num": 123429,
+        "word": "人要一寸一寸的拯救自己",
+        "onboard_time": 1706361691,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237170,
+        "num": 115247,
+        "word": "网友吐槽23岁就被迫加入催婚的队伍",
+        "onboard_time": 1706372909,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105466,
+        "num": 105466,
+        "word": "文韬齐思钧去看了唐九洲巡演",
+        "onboard_time": 1706362173,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116429,
+        "num": 105285,
+        "word": "迪丽热巴爱琴海",
+        "onboard_time": 1706353108,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104579,
+        "num": 104579,
+        "word": "没结婚用不用给外甥女压岁钱",
+        "onboard_time": 1706367692,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91892,
+        "num": 91892,
+        "word": "小动物保护协会称两只猫暂未被找到",
+        "onboard_time": 1706347230,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92632,
+        "num": 89693,
+        "word": "吴磊赵今麦好配",
+        "onboard_time": 1706360913,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84598,
+        "num": 84598,
+        "word": "昆明动物园",
+        "onboard_time": 1706364152,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83255,
+        "num": 83255,
+        "word": "央视曝回流医保药洗白过程",
+        "onboard_time": 1706365712,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82519,
+        "num": 82519,
+        "word": "青山说灰原喜欢柯南",
+        "onboard_time": 1706363373,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 62451,
+        "num": 80729,
+        "word": "武汉女生备考3个月被剑桥录取",
+        "onboard_time": 1706364634,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80719,
+        "num": 80719,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1706367632,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74900,
+        "num": 74900,
+        "word": "你早上刷牙还是晚上刷牙",
+        "onboard_time": 1706348971,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72715,
+        "num": 72715,
+        "word": "范丞丞不想跳科目三",
+        "onboard_time": 1706358929,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68519,
+        "num": 68519,
+        "word": "迪丽热巴新妆",
+        "onboard_time": 1706362230,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67440,
+        "num": 67440,
+        "word": "第一次见猫猫泡脚",
+        "onboard_time": 1706370270,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63923,
+        "num": 63923,
+        "word": "白敬亭裤子上挂玩偶",
+        "onboard_time": 1706367152,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63483,
+        "num": 63483,
+        "word": "刘宇魏无羡造型",
+        "onboard_time": 1706350532,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63217,
+        "num": 63217,
+        "word": "金晨全套新中式",
+        "onboard_time": 1706365112,
+        "rank": 37,
+        "category": "科学科普,作品衍生"
+      },
+      {
+        "raw_hot": 60848,
+        "num": 60848,
+        "word": "留住金鹤龙",
+        "onboard_time": 1706361090,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50897,
+        "num": 57636,
+        "word": "湖北省政府向中国网协和郑钦文致贺电",
+        "onboard_time": 1706367272,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56327,
+        "num": 56327,
+        "word": "闫妮女儿 张小斐",
+        "onboard_time": 1706356891,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55771,
+        "num": 55771,
+        "word": "梦天拍热巴",
+        "onboard_time": 1706366313,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55587,
+        "num": 55587,
+        "word": "电竞小子蒲熠星",
+        "onboard_time": 1706368412,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 55424,
+        "num": 55424,
+        "word": "金晨舞蹈致敬200年前清代女科学家",
+        "onboard_time": 1706361750,
+        "rank": 43,
+        "category": "科学科普,艺人"
+      },
+      {
+        "raw_hot": 44992,
+        "num": 54819,
+        "word": "宋慧乔红丝袜",
+        "onboard_time": 1706361332,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43822,
+        "num": 54443,
+        "word": "大鹏拥抱戴王一博面具新浪员工",
+        "onboard_time": 1706370332,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39524,
+        "num": 53327,
+        "word": "情绪压抑的人更易长结节",
+        "onboard_time": 1706352869,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39222,
+        "num": 52544,
+        "word": "在暴雪时分",
+        "onboard_time": 1706369311,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37642,
+        "num": 51738,
+        "word": "郑钦文赛后发布会落泪",
+        "onboard_time": 1706369251,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35188,
+        "num": 50799,
+        "word": "郑钦文父亲说澳网亚军只是新起点",
+        "onboard_time": 1706368953,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有创新才能自强才能争先#"
+    }
+  }
+}
