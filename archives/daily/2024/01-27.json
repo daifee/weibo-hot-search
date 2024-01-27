@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706333680789,
+  "endTime": 1706336384304,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -17,6 +17,14 @@
       "onboard_time": 1706327427,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1396955,
+      "num": 1396955,
+      "word": "花少各种美女睡在一起",
+      "onboard_time": 1706333968,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1381269,
@@ -107,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872160,
+      "num": 872160,
+      "word": "日本小姐冠军在日引巨大争议",
+      "onboard_time": 1706333909,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820664,
+      "num": 820664,
+      "word": "南方小土豆已经有哈尔滨后遗症了",
+      "onboard_time": 1706329409,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819520,
       "num": 819520,
       "word": "离婚搭子同居养娃",
@@ -176,14 +200,6 @@
       "word": "11岁男生多次遭班主任羞辱跳楼自杀",
       "onboard_time": 1706273372,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561474,
-      "num": 561474,
-      "word": "南方小土豆已经有哈尔滨后遗症了",
-      "onboard_time": 1706329409,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -411,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329297,
+      "num": 329297,
+      "word": "迪丽热巴晒花少vlog",
+      "onboard_time": 1706333189,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311443,
+      "num": 306982,
+      "word": "任嘉伦彭小苒两个be专业户",
+      "onboard_time": 1706333728,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308859,
       "num": 308859,
       "word": "任嘉伦彭小苒同框路透",
@@ -441,6 +473,14 @@
       "onboard_time": 1706324908,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290341,
+      "num": 290341,
+      "word": "陈楚生王心凌男女对唱版大眠",
+      "onboard_time": 1706335886,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 288617,
@@ -523,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241699,
-      "num": 241699,
-      "word": "迪丽热巴晒花少vlog",
-      "onboard_time": 1706333189,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235406,
       "num": 235406,
       "word": "全国开展消防除患攻坚大整治",
@@ -609,6 +641,14 @@
       "onboard_time": 1706327911,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212234,
+      "num": 212234,
+      "word": "宋亚轩蓝色耳返",
+      "onboard_time": 1706335408,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 209791,
@@ -715,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191095,
+      "num": 153304,
+      "word": "郑钦文ACE榜断层领先",
+      "onboard_time": 1706335408,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190943,
       "num": 190943,
       "word": "有没有人在乎秦海璐的死活",
@@ -744,6 +792,14 @@
       "word": "谭维维周深为听障一家三口创作新歌",
       "onboard_time": 1706332049,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "快乐老友记 加更呢",
+      "onboard_time": 1706334988,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -795,12 +851,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174799,
+      "num": 406183,
+      "word": "绘旅人中式怪谈",
+      "onboard_time": 1706332049,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172003,
       "num": 172003,
       "word": "JN.1变异株本土病例基本为无症状",
       "onboard_time": 1706313865,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168428,
+      "num": 168428,
+      "word": "周也雪地红玫瑰",
+      "onboard_time": 1706336187,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168192,
@@ -899,6 +971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 150306,
+      "num": 150306,
+      "word": "快乐老友记",
+      "onboard_time": 1706334988,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150238,
       "num": 150238,
       "word": "加沙民众吃动物饲料充饥",
@@ -979,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137532,
-      "num": 406183,
-      "word": "绘旅人中式怪谈",
-      "onboard_time": 1706332049,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 133628,
       "num": 128725,
       "word": "以发霉的草莓为灵感能画出什么",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1706331689,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131933,
+      "num": 131933,
+      "word": "中国人用5种线织出4500种颜色",
+      "onboard_time": 1706334027,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131274,
@@ -1025,6 +1105,14 @@
       "onboard_time": 1706314105,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127766,
+      "num": 127766,
+      "word": "为什么有时一进门就忘了要干什么",
+      "onboard_time": 1706335886,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 125307,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1706318789,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119617,
+      "num": 119617,
+      "word": "星穹铁道 筹码与猎人",
+      "onboard_time": 1706335108,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 119315,
@@ -1203,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101013,
+      "num": 101013,
+      "word": "羽生结弦幕后花絮",
+      "onboard_time": 1706336307,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99137,
       "num": 99137,
       "word": "SpotifyCEO痛批苹果欧洲新规",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1706282073,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 93901,
+      "num": 93901,
+      "word": "第一视角体验日本最豪华的观光列车",
+      "onboard_time": 1706335347,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 92939,
