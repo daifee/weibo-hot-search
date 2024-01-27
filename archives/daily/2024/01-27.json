@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706346912784,
+  "endTime": 1706348044861,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1474617,
-      "num": 1474617,
+      "raw_hot": 1515532,
+      "num": 1515532,
       "word": "沈梦辰腰椎骨头断裂",
       "onboard_time": 1706342907,
       "rank": 12,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879080,
+      "num": 879080,
+      "word": "最减肥的水果还得是车厘子",
+      "onboard_time": 1706343330,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 820664,
       "num": 820664,
       "word": "南方小土豆已经有哈尔滨后遗症了",
@@ -163,20 +171,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 798801,
-      "num": 798801,
-      "word": "最减肥的水果还得是车厘子",
-      "onboard_time": 1706343330,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 759786,
       "num": 759786,
       "word": "昆明动物园将对移出猴山的猫全面体检",
       "onboard_time": 1706319151,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754446,
+      "num": 754446,
+      "word": "虞书欣抠手",
+      "onboard_time": 1706346510,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 752951,
@@ -201,6 +209,14 @@
       "onboard_time": 1706340808,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 689997,
+      "num": 689997,
+      "word": "初中妹妹8科成绩总分66",
+      "onboard_time": 1706346329,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 689149,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492305,
+      "num": 492305,
+      "word": "小动物保护协会称两只猫暂未被找到",
+      "onboard_time": 1706347230,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473701,
       "num": 473701,
       "word": "董宇辉回应曾被网友指沉默不承担责任",
@@ -401,6 +425,14 @@
       "onboard_time": 1706337569,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403217,
+      "num": 304109,
+      "word": "结婚买房真是沉重的话题",
+      "onboard_time": 1706346028,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 401589,
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 331725,
-      "num": 264152,
+      "num": 265601,
       "word": "今年1月份工资啥时候发",
       "onboard_time": 1706342070,
       "rank": 20,
@@ -577,6 +609,22 @@
       "onboard_time": 1706333189,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322518,
+      "num": 322518,
+      "word": "王鹤棣新加坡",
+      "onboard_time": 1706346390,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321037,
+      "num": 321037,
+      "word": "李娜",
+      "onboard_time": 1706345791,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 313488,
@@ -619,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304341,
+      "num": 304341,
+      "word": "陈楚生唯一遗憾是双人舞没跳成",
+      "onboard_time": 1706344770,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303328,
       "num": 303328,
       "word": "广州放开120平方米以上户型限购",
@@ -649,14 +705,6 @@
       "onboard_time": 1706341048,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287888,
-      "num": 287888,
-      "word": "陈楚生唯一遗憾是双人舞没跳成",
-      "onboard_time": 1706344770,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 287875,
@@ -691,14 +739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 276719,
-      "num": 276719,
-      "word": "虞书欣抠手",
-      "onboard_time": 1706346510,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272856,
       "num": 272856,
       "word": "水哥真的在试图教会我魔方",
@@ -713,14 +753,6 @@
       "onboard_time": 1706322267,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265334,
-      "num": 265334,
-      "word": "李娜",
-      "onboard_time": 1706345791,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 263591,
@@ -747,11 +779,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256083,
+      "num": 256083,
+      "word": "萨巴伦卡好猛",
+      "onboard_time": 1706346390,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254373,
       "num": 254373,
       "word": "19岁小伙为女友租房陷入罗生门",
       "onboard_time": 1706322928,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243950,
+      "num": 243950,
+      "word": "动保协会称猫被救出后会带回北京猫屋",
+      "onboard_time": 1706345850,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243795,
+      "num": 304115,
+      "word": "银川烧烤店31死爆炸事故调查报告",
+      "onboard_time": 1706347770,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -761,14 +817,6 @@
       "onboard_time": 1706271270,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241254,
-      "num": 241254,
-      "word": "结婚买房真是沉重的话题",
-      "onboard_time": 1706346028,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 235406,
@@ -795,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229790,
-      "num": 229790,
-      "word": "萨巴伦卡好猛",
-      "onboard_time": 1706346390,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224812,
       "num": 189158,
       "word": "爸妈听说我除夕不放假时",
@@ -827,20 +867,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218103,
+      "num": 218103,
+      "word": "花少弹幕",
+      "onboard_time": 1706344648,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218077,
       "num": 218077,
       "word": "昆明动物园最新实拍画面",
       "onboard_time": 1706288483,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217133,
-      "num": 217133,
-      "word": "花少弹幕",
-      "onboard_time": 1706344648,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 216392,
@@ -907,28 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212047,
-      "num": 212047,
-      "word": "王鹤棣新加坡",
-      "onboard_time": 1706346390,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209791,
       "num": 171568,
       "word": "女朋友做的一周年纪念立体书",
       "onboard_time": 1706321670,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207000,
-      "num": 207000,
-      "word": "动保协会称猫被救出后会带回北京猫屋",
-      "onboard_time": 1706345850,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205899,
@@ -1003,6 +1027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195379,
+      "num": 195379,
+      "word": "俞飞鸿53了",
+      "onboard_time": 1706347351,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195309,
       "num": 195309,
       "word": "动保协会专家称猴猫很难和平共处",
@@ -1043,8 +1075,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191807,
+      "num": 191807,
+      "word": "网球",
+      "onboard_time": 1706346751,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191095,
-      "num": 171013,
+      "num": 182938,
       "word": "郑钦文ACE榜断层领先",
       "onboard_time": 1706335408,
       "rank": 31,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1706291901,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189518,
-      "num": 189518,
-      "word": "初中妹妹8科成绩总分66",
-      "onboard_time": 1706346329,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 188226,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1706316688,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178515,
+      "num": 178515,
+      "word": "Creme使用bug被处罚",
+      "onboard_time": 1706347110,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 176423,
@@ -1299,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153938,
+      "num": 153938,
+      "word": "红山动物园",
+      "onboard_time": 1706347770,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153146,
       "num": 153146,
       "word": "逛超市的年轻人",
@@ -1403,14 +1451,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 140607,
-      "num": 140607,
-      "word": "网球",
-      "onboard_time": 1706346751,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139448,
       "num": 139448,
       "word": "昆明动物园再通报猴猫共处",
@@ -1451,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131905,
+      "num": 131905,
+      "word": "要久久爱直播",
+      "onboard_time": 1706347711,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131274,
       "num": 131274,
       "word": "许诺退役",
@@ -1467,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128644,
+      "num": 128644,
+      "word": "胡歌为上海申花成立30周年送祝福",
+      "onboard_time": 1706347650,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128328,
       "num": 128328,
       "word": "85后瓷二代借钱创业月销破百万",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1706314105,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127732,
+      "num": 127732,
+      "word": "仙剑四",
+      "onboard_time": 1706347950,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 125307,
@@ -2227,8 +2291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 4199,
-      "num": 868711,
+      "raw_hot": 8156,
+      "num": 979379,
       "word": "盛世中华何以中国",
       "onboard_time": 1706267791,
       "rank": 2,
@@ -2244,6 +2308,9 @@
     },
     {
       "word": "#中法合作既有高精尖也能接地气#"
+    },
+    {
+      "word": "#只有创新才能自强才能争先#"
     }
   ]
 }
