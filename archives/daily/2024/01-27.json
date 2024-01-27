@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706325404899,
+  "endTime": 1706326447068,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -19,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1334570,
+      "num": 1334570,
+      "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+      "onboard_time": 1706323349,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1298306,
       "num": 1298306,
       "word": "警方回应黄圣依杨子表哥直播间带货风波",
       "onboard_time": 1706280871,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1158434,
-      "num": 1158434,
-      "word": "被未满12岁男孩杀害4岁女孩父亲发声",
-      "onboard_time": 1706323349,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1085480,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 916332,
-      "num": 916332,
+      "raw_hot": 1034587,
+      "num": 1034587,
       "word": "男子开车嬉闹撞死三轮车驾驶员",
       "onboard_time": 1706321249,
       "rank": 31,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 420101,
+      "num": 366215,
+      "word": "失血性月经",
+      "onboard_time": 1706325990,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 401589,
       "num": 401589,
       "word": "曝95后待爆男艺人要求删cp互动画面",
@@ -227,8 +235,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 339362,
-      "num": 241811,
+      "raw_hot": 368043,
+      "num": 258544,
       "word": "瘦是因为爸妈做的饭太难吃了",
       "onboard_time": 1706323227,
       "rank": 20,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308859,
+      "num": 308859,
+      "word": "任嘉伦彭小苒同框路透",
+      "onboard_time": 1706325089,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308643,
       "num": 308643,
       "word": "迪丽热巴造型师换成了金鹤龙",
@@ -275,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303939,
+      "num": 303939,
+      "word": "伦敦留学公寓",
+      "onboard_time": 1706322749,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303328,
       "num": 303328,
       "word": "广州放开120平方米以上户型限购",
       "onboard_time": 1706320406,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301225,
+      "num": 301225,
+      "word": "刘亦菲回京机场",
+      "onboard_time": 1706324908,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 288617,
@@ -297,6 +329,14 @@
       "onboard_time": 1706284951,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279893,
+      "num": 279893,
+      "word": "罗云熙自己补妆",
+      "onboard_time": 1706324609,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278890,
@@ -323,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263591,
+      "num": 263591,
+      "word": "你好星期六全员守护冬日心动",
+      "onboard_time": 1706323709,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263476,
       "num": 263476,
       "word": "吴磊林亦扬 经常请吃饭的哥哥",
@@ -331,20 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261588,
-      "num": 261588,
-      "word": "刘亦菲回京机场",
-      "onboard_time": 1706324908,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 260140,
-      "num": 260140,
-      "word": "伦敦留学公寓",
-      "onboard_time": 1706322749,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 254373,
+      "num": 254373,
+      "word": "19岁小伙为女友租房陷入罗生门",
+      "onboard_time": 1706322928,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242948,
@@ -353,22 +393,6 @@
       "onboard_time": 1706271270,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241183,
-      "num": 241183,
-      "word": "你好星期六全员守护冬日心动",
-      "onboard_time": 1706323709,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 239749,
-      "num": 239749,
-      "word": "19岁小伙为女友租房陷入罗生门",
-      "onboard_time": 1706322928,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232896,
@@ -411,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215880,
-      "num": 215880,
-      "word": "任嘉伦彭小苒同框路透",
-      "onboard_time": 1706325089,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212918,
       "num": 212918,
       "word": "本硕就读哈工大男生6年获23项国奖",
@@ -427,16 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211751,
-      "num": 211751,
-      "word": "罗云熙自己补妆",
-      "onboard_time": 1706324609,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209791,
-      "num": 167232,
+      "num": 171568,
       "word": "女朋友做的一周年纪念立体书",
       "onboard_time": 1706321670,
       "rank": 34,
@@ -457,6 +465,14 @@
       "onboard_time": 1706277993,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203754,
+      "num": 203754,
+      "word": "凤凰台上官宣定妆照",
+      "onboard_time": 1706326050,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 196510,
@@ -505,6 +521,14 @@
       "onboard_time": 1706291901,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188496,
+      "num": 164712,
+      "word": "Letme直播哭了",
+      "onboard_time": 1706326050,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 188226,
@@ -571,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166518,
+      "num": 166518,
+      "word": "水瓶座对自己的要求很高",
+      "onboard_time": 1706324307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166031,
       "num": 166031,
       "word": "恋与深空",
@@ -617,14 +649,6 @@
       "onboard_time": 1706323227,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153920,
-      "num": 153920,
-      "word": "水瓶座对自己的要求很高",
-      "onboard_time": 1706324307,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 151586,
@@ -827,6 +851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 104508,
+      "num": 104508,
+      "word": "试驾1200亿航天飞机",
+      "onboard_time": 1706325691,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 103025,
       "num": 103025,
       "word": "奶牛猫原来是这样诞生的",
@@ -849,6 +881,14 @@
       "onboard_time": 1706271628,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101742,
+      "num": 101742,
+      "word": "郑钦文出战澳网女单决赛",
+      "onboard_time": 1706325927,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 99137,
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96598,
+      "num": 96598,
+      "word": "25年前的吴彦祖尹子维",
+      "onboard_time": 1706325990,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95916,
       "num": 131342,
       "word": "原来高铁也会堵车",
@@ -913,6 +961,14 @@
       "onboard_time": 1706282073,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 92939,
+      "num": 92939,
+      "word": "金鹤龙给女明星化的妆",
+      "onboard_time": 1706326349,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 92758,
@@ -961,6 +1017,14 @@
       "onboard_time": 1706284650,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87096,
+      "num": 87096,
+      "word": "招财美甲",
+      "onboard_time": 1706326410,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 86677,
@@ -1179,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36643,
+      "num": 1081323,
+      "word": "在春运中看到经济活力和亲情乡愁",
+      "onboard_time": 1706324969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35278,
       "num": 35278,
       "word": "我的大叔中国版",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1706284650,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15510,
-      "num": 1081323,
-      "word": "在春运中看到经济活力和亲情乡愁",
-      "onboard_time": 1706324969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14717,

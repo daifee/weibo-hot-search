@@ -1,0 +1,410 @@
+{
+  "runTime": 1706326447068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334570,
+        "num": 1334570,
+        "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+        "onboard_time": 1706323349,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034587,
+        "num": 1034587,
+        "word": "男子开车嬉闹撞死三轮车驾驶员",
+        "onboard_time": 1706321249,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36643,
+        "num": 957081,
+        "word": "在春运中看到经济活力和亲情乡愁",
+        "onboard_time": 1706324969,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074720,
+        "num": 955798,
+        "word": "三变正妻 前妻变三",
+        "onboard_time": 1706316268,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 954334,
+        "num": 954334,
+        "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+        "onboard_time": 1706316507,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739144,
+        "num": 739144,
+        "word": "离婚搭子同居养娃",
+        "onboard_time": 1706321131,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 665774,
+        "num": 665774,
+        "word": "国家邮政局约谈极兔速递",
+        "onboard_time": 1706315188,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517378,
+        "num": 517378,
+        "word": "东契奇73分",
+        "onboard_time": 1706324247,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452809,
+        "num": 452809,
+        "word": "英国女演员吃饼干花生过敏身亡",
+        "onboard_time": 1706312363,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373275,
+        "num": 373275,
+        "word": "猴山的猫将由小动物保护协会带走安置",
+        "onboard_time": 1706321065,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420101,
+        "num": 366215,
+        "word": "失血性月经",
+        "onboard_time": 1706325990,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358677,
+        "num": 358677,
+        "word": "我只是没读好书我不是坏孩子",
+        "onboard_time": 1706318008,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322964,
+        "num": 322964,
+        "word": "警方回应黄圣依杨子表哥直播间带货风波",
+        "onboard_time": 1706280871,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316133,
+        "num": 316133,
+        "word": "2位蛋糕师3天复刻云顶天宫蛋糕",
+        "onboard_time": 1706319327,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308859,
+        "num": 308859,
+        "word": "任嘉伦彭小苒同框路透",
+        "onboard_time": 1706325089,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303939,
+        "num": 303939,
+        "word": "伦敦留学公寓",
+        "onboard_time": 1706322749,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301225,
+        "num": 301225,
+        "word": "刘亦菲回京机场",
+        "onboard_time": 1706324908,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279893,
+        "num": 279893,
+        "word": "罗云熙自己补妆",
+        "onboard_time": 1706324609,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263591,
+        "num": 263591,
+        "word": "你好星期六全员守护冬日心动",
+        "onboard_time": 1706323709,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258845,
+        "num": 258845,
+        "word": "关晓彤范丞丞王安宇同框路透",
+        "onboard_time": 1706322267,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368043,
+        "num": 258544,
+        "word": "瘦是因为爸妈做的饭太难吃了",
+        "onboard_time": 1706323227,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254373,
+        "num": 254373,
+        "word": "19岁小伙为女友租房陷入罗生门",
+        "onboard_time": 1706322928,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243310,
+        "num": 243310,
+        "word": "水哥真的在试图教会我魔方",
+        "onboard_time": 1706322687,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252268,
+        "num": 229505,
+        "word": "外孙女做新美甲回家过年被姥爷一把剪断",
+        "onboard_time": 1706311341,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203754,
+        "num": 203754,
+        "word": "凤凰台上官宣定妆照",
+        "onboard_time": 1706326050,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201207,
+        "num": 201207,
+        "word": "特朗普赔偿8330万美元",
+        "onboard_time": 1706317650,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191213,
+        "num": 191213,
+        "word": "凤凰台上开机",
+        "onboard_time": 1706321249,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171568,
+        "num": 171568,
+        "word": "女朋友做的一周年纪念立体书",
+        "onboard_time": 1706321670,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 166518,
+        "word": "水瓶座对自己的要求很高",
+        "onboard_time": 1706324307,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165901,
+        "num": 165901,
+        "word": "谭爷爷知道和叶是妹妹的前后对比",
+        "onboard_time": 1706316688,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188496,
+        "num": 164712,
+        "word": "Letme直播哭了",
+        "onboard_time": 1706326050,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160425,
+        "num": 160425,
+        "word": "蔡磊夫妇捐助1亿元攻克渐冻症",
+        "onboard_time": 1706315188,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154886,
+        "num": 154886,
+        "word": "吴磊林亦扬 经常请吃饭的哥哥",
+        "onboard_time": 1706316870,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131838,
+        "num": 131838,
+        "word": "中国小动物保护协会称已出发前往昆明",
+        "onboard_time": 1706312603,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130889,
+        "num": 130889,
+        "word": "昆明动物园承诺对猫妥善安置",
+        "onboard_time": 1706319086,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123441,
+        "num": 123441,
+        "word": "广州放开120平方米以上户型限购",
+        "onboard_time": 1706320406,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119022,
+        "num": 119022,
+        "word": "女子欲跳入猴山救猫被游客救下",
+        "onboard_time": 1706281173,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111775,
+        "num": 111775,
+        "word": "iPhone钱包可以访问NFC",
+        "onboard_time": 1706314885,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108495,
+        "num": 108495,
+        "word": "昆明动物园曾被曝猴子杀死2只猫",
+        "onboard_time": 1706255132,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104543,
+        "num": 104543,
+        "word": "布克62分",
+        "onboard_time": 1706323888,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104508,
+        "num": 104508,
+        "word": "试驾1200亿航天飞机",
+        "onboard_time": 1706325691,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101742,
+        "num": 101742,
+        "word": "郑钦文出战澳网女单决赛",
+        "onboard_time": 1706325927,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99361,
+        "num": 99361,
+        "word": "2024年确诊上学脑",
+        "onboard_time": 1706321487,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97784,
+        "num": 97784,
+        "word": "张卫健 我没事精神得很",
+        "onboard_time": 1706274870,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96598,
+        "num": 96598,
+        "word": "25年前的吴彦祖尹子维",
+        "onboard_time": 1706325990,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95263,
+        "num": 95263,
+        "word": "山东人对编制的执着",
+        "onboard_time": 1706323048,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92939,
+        "num": 92939,
+        "word": "金鹤龙给女明星化的妆",
+        "onboard_time": 1706326349,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89378,
+        "num": 89378,
+        "word": "70岁儿媳来串门91岁婆婆激动落泪",
+        "onboard_time": 1706315789,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87710,
+        "num": 87710,
+        "word": "东契奇超神",
+        "onboard_time": 1706323227,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87096,
+        "num": 87096,
+        "word": "招财美甲",
+        "onboard_time": 1706326410,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系文旅发展#"
+    }
+  }
+}

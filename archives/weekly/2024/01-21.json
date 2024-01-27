@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706325404899,
+  "endTime": 1706326447068,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -651,6 +651,14 @@
       "category": "网红,美食"
     },
     {
+      "raw_hot": 1334570,
+      "num": 1334570,
+      "word": "被未满12岁男孩杀害4岁女孩父亲发声",
+      "onboard_time": 1706323349,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1330010,
       "num": 1039351,
       "word": "虞书欣工作室致歉",
@@ -899,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1158434,
-      "num": 1158434,
-      "word": "被未满12岁男孩杀害4岁女孩父亲发声",
-      "onboard_time": 1706323349,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1154772,
       "num": 1154772,
       "word": "11月大男婴哭湿口罩后闷死",
@@ -1129,6 +1129,14 @@
       "onboard_time": 1705762411,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1034587,
+      "num": 1034587,
+      "word": "男子开车嬉闹撞死三轮车驾驶员",
+      "onboard_time": 1706321249,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030362,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1706154632,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 916332,
-      "num": 916332,
-      "word": "男子开车嬉闹撞死三轮车驾驶员",
-      "onboard_time": 1706321249,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 913520,
@@ -4491,6 +4491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420101,
+      "num": 366215,
+      "word": "失血性月经",
+      "onboard_time": 1706325990,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417709,
       "num": 417709,
       "word": "虞书欣司机在高速倒车交警已介入",
@@ -5211,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368043,
+      "num": 258544,
+      "word": "瘦是因为爸妈做的饭太难吃了",
+      "onboard_time": 1706323227,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 367364,
       "num": 367364,
       "word": "兔子战术",
@@ -5609,14 +5625,6 @@
       "onboard_time": 1705916905,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 339362,
-      "num": 241811,
-      "word": "瘦是因为爸妈做的饭太难吃了",
-      "onboard_time": 1706323227,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 337622,
@@ -6163,6 +6171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308859,
+      "num": 308859,
+      "word": "任嘉伦彭小苒同框路透",
+      "onboard_time": 1706325089,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307948,
       "num": 307948,
       "word": "女销售1人贡献保时捷中国0.2%销量",
@@ -6201,6 +6217,14 @@
       "onboard_time": 1706183613,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303939,
+      "num": 303939,
+      "word": "伦敦留学公寓",
+      "onboard_time": 1706322749,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 303804,
@@ -6257,6 +6281,14 @@
       "onboard_time": 1706095411,
       "rank": 17,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 301225,
+      "num": 301225,
+      "word": "刘亦菲回京机场",
+      "onboard_time": 1706324908,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 301186,
@@ -6795,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279893,
+      "num": 279893,
+      "word": "罗云熙自己补妆",
+      "onboard_time": 1706324609,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279838,
       "num": 279838,
       "word": "9只小麻雀整整齐齐挤在车轮上取暖",
@@ -7155,6 +7195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263591,
+      "num": 263591,
+      "word": "你好星期六全员守护冬日心动",
+      "onboard_time": 1706323709,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263476,
       "num": 263476,
       "word": "吴磊林亦扬 经常请吃饭的哥哥",
@@ -7193,14 +7241,6 @@
       "onboard_time": 1705802306,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261588,
-      "num": 261588,
-      "word": "刘亦菲回京机场",
-      "onboard_time": 1706324908,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 261554,
@@ -7249,14 +7289,6 @@
       "onboard_time": 1705976365,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 260140,
-      "num": 260140,
-      "word": "伦敦留学公寓",
-      "onboard_time": 1706322749,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 259818,
@@ -7335,6 +7367,14 @@
       "num": 255087,
       "word": "云南镇雄山体滑坡已致12人遇难",
       "onboard_time": 1705987167,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254373,
+      "num": 254373,
+      "word": "19岁小伙为女友租房陷入罗生门",
+      "onboard_time": 1706322928,
       "rank": 23,
       "category": "社会新闻"
     },
@@ -7779,14 +7819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241183,
-      "num": 241183,
-      "word": "你好星期六全员守护冬日心动",
-      "onboard_time": 1706323709,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240917,
       "num": 240917,
       "word": "李家超称香港证券市场未见异常",
@@ -7825,14 +7857,6 @@
       "onboard_time": 1706184089,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239749,
-      "num": 239749,
-      "word": "19岁小伙为女友租房陷入罗生门",
-      "onboard_time": 1706322928,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239739,
@@ -8763,14 +8787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215880,
-      "num": 215880,
-      "word": "任嘉伦彭小苒同框路透",
-      "onboard_time": 1706325089,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215833,
       "num": 215833,
       "word": "印度股市总市值首超港股",
@@ -8939,14 +8955,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 211751,
-      "num": 211751,
-      "word": "罗云熙自己补妆",
-      "onboard_time": 1706324609,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211484,
       "num": 211484,
       "word": "ENHYPEN澳门演唱会",
@@ -9084,7 +9092,7 @@
     },
     {
       "raw_hot": 209791,
-      "num": 167232,
+      "num": 171568,
       "word": "女朋友做的一周年纪念立体书",
       "onboard_time": 1706321670,
       "rank": 34,
@@ -9441,6 +9449,14 @@
       "onboard_time": 1705977564,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203754,
+      "num": 203754,
+      "word": "凤凰台上官宣定妆照",
+      "onboard_time": 1706326050,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 203708,
@@ -10537,6 +10553,14 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188496,
+      "num": 164712,
+      "word": "Letme直播哭了",
+      "onboard_time": 1706326050,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 188431,
@@ -12027,6 +12051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166518,
+      "num": 166518,
+      "word": "水瓶座对自己的要求很高",
+      "onboard_time": 1706324307,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166292,
       "num": 166292,
       "word": "下雪文案",
@@ -12937,14 +12969,6 @@
       "onboard_time": 1706164412,
       "rank": 42,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 153920,
-      "num": 153920,
-      "word": "水瓶座对自己的要求很高",
-      "onboard_time": 1706324307,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 153828,
@@ -16467,6 +16491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104508,
+      "num": 104508,
+      "word": "试驾1200亿航天飞机",
+      "onboard_time": 1706325691,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 104413,
       "num": 104413,
       "word": "勇士想交易维金斯",
@@ -16584,6 +16616,14 @@
       "word": "雷霆战胜森林狼",
       "onboard_time": 1705811067,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101742,
+      "num": 101742,
+      "word": "郑钦文出战澳网女单决赛",
+      "onboard_time": 1706325927,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -16835,6 +16875,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 96598,
+      "num": 96598,
+      "word": "25年前的吴彦祖尹子维",
+      "onboard_time": 1706325990,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96270,
       "num": 96270,
       "word": "孙艺洲 皮特没皮起来",
@@ -16969,6 +17017,14 @@
       "onboard_time": 1705830626,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92939,
+      "num": 92939,
+      "word": "金鹤龙给女明星化的妆",
+      "onboard_time": 1706326349,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 92808,
@@ -17121,6 +17177,14 @@
       "onboard_time": 1706068830,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87096,
+      "num": 87096,
+      "word": "招财美甲",
+      "onboard_time": 1706326410,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 86677,
@@ -17979,6 +18043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36643,
+      "num": 1081323,
+      "word": "在春运中看到经济活力和亲情乡愁",
+      "onboard_time": 1706324969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35592,
       "num": 35592,
       "word": "恋与深空 祁煜cos",
@@ -18281,14 +18353,6 @@
       "onboard_time": 1706044575,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 15510,
-      "num": 1081323,
-      "word": "在春运中看到经济活力和亲情乡愁",
-      "onboard_time": 1706324969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15074,
