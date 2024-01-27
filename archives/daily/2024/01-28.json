@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706391241944,
+  "endTime": 1706393730917,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -443,8 +443,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48432,
-      "num": 48432,
+      "raw_hot": 49677,
+      "num": 49677,
       "word": "吴尊 10年前的娜姐10年后的你",
       "onboard_time": 1706359231,
       "rank": 46,
@@ -459,12 +459,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 33149,
+      "num": 33149,
+      "word": "红丝袜",
+      "onboard_time": 1706388496,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32713,
       "num": 42622,
       "word": "赵昭仪妈妈画过哪吒传奇",
       "onboard_time": 1706364152,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29323,
+      "num": 17999,
+      "word": "延吉一早市早上6点挤满了游客",
+      "onboard_time": 1706390476,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 23688,
@@ -475,20 +491,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23587,
+      "num": 23587,
+      "word": "董宇辉称不管怎么做都有人不认同",
+      "onboard_time": 1706391556,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21257,
       "num": 329577,
       "word": "中国航天器名字里有中国人才懂的含义",
       "onboard_time": 1706360849,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18942,
-      "num": 18942,
-      "word": "红丝袜",
-      "onboard_time": 1706388496,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18808,
@@ -515,16 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15457,
-      "num": 15457,
-      "word": "延吉一早市早上6点挤满了游客",
-      "onboard_time": 1706390476,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 14243,
-      "num": 14243,
+      "raw_hot": 15983,
+      "num": 15983,
       "word": "郑钦文2023年收入720万美元",
       "onboard_time": 1706388196,
       "rank": 36,
@@ -539,8 +547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10833,
-      "num": 12445,
+      "raw_hot": 10922,
+      "num": 12856,
       "word": "我过年回家的作用",
       "onboard_time": 1706387955,
       "rank": 46,
