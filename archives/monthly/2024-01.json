@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706361416625,
+  "endTime": 1706362443216,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -6331,6 +6331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 960147,
+      "num": 960147,
+      "word": "人均37元的早餐为何没人买单了",
+      "onboard_time": 1706357730,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 959961,
       "num": 959961,
       "word": "中国冰淇淋在韩国爆火",
@@ -10507,6 +10515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714447,
+      "num": 714447,
+      "word": "北京野生动物园就昆明动物园事件发声",
+      "onboard_time": 1706361513,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713998,
       "num": 713998,
       "word": "家长半夜给班主任打电话学生遭怒怼",
@@ -13057,14 +13073,6 @@
       "onboard_time": 1705737329,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614282,
-      "num": 614282,
-      "word": "人均37元的早餐为何没人买单了",
-      "onboard_time": 1706357730,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 614015,
@@ -18371,6 +18379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474462,
+      "num": 474462,
+      "word": "吴磊赵今麦好配",
+      "onboard_time": 1706360913,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474329,
       "num": 474329,
       "word": "胡先煦认证赵昭仪最佳导游",
@@ -19947,6 +19963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440453,
+      "num": 440453,
+      "word": "范丞丞不想跳科目三",
+      "onboard_time": 1706358929,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440031,
       "num": 440031,
       "word": "华中农大黄飞若曾叫嚣有专业律师团",
@@ -20020,7 +20044,7 @@
     },
     {
       "raw_hot": 438743,
-      "num": 375222,
+      "num": 426117,
       "word": "刘烨首演 胡军送花",
       "onboard_time": 1706358811,
       "rank": 33,
@@ -25307,6 +25331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338445,
+      "num": 324813,
+      "word": "宋慧乔红丝袜",
+      "onboard_time": 1706361332,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 338440,
       "num": 338440,
       "word": "微博之夜的妆造",
@@ -25961,14 +25993,6 @@
       "onboard_time": 1704942811,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 327462,
-      "num": 327462,
-      "word": "范丞丞不想跳科目三",
-      "onboard_time": 1706358929,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 327291,
@@ -30659,6 +30683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270810,
+      "num": 270810,
+      "word": "Meiko首次对战EDG",
+      "onboard_time": 1706361090,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270732,
       "num": 270732,
       "word": "河南一被弃养男婴遭姥姥拒收",
@@ -31129,6 +31161,14 @@
       "onboard_time": 1706102195,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 265974,
+      "num": 239918,
+      "word": "留住金鹤龙",
+      "onboard_time": 1706361090,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265967,
@@ -32249,14 +32289,6 @@
       "onboard_time": 1705987167,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254942,
-      "num": 254942,
-      "word": "吴磊赵今麦好配",
-      "onboard_time": 1706360913,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 254932,
@@ -34931,6 +34963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 233167,
+      "num": 232309,
+      "word": "唐嫣辛芷蕾微博之夜出图",
+      "onboard_time": 1706361691,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 233117,
       "num": 274637,
       "word": "约旦vs韩国",
@@ -34953,6 +34993,14 @@
       "onboard_time": 1705901066,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233050,
+      "num": 233050,
+      "word": "TES对战EDG",
+      "onboard_time": 1706362110,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 233030,
@@ -35297,6 +35345,14 @@
       "onboard_time": 1705558826,
       "rank": 43,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 230940,
+      "num": 230940,
+      "word": "金晨舞蹈致敬200年前清代女科学家",
+      "onboard_time": 1706361750,
+      "rank": 27,
+      "category": "科学科普,艺人"
     },
     {
       "raw_hot": 230845,
@@ -41739,6 +41795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198628,
+      "num": 198628,
+      "word": "宋威龙电竞男主",
+      "onboard_time": 1706361513,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198619,
       "num": 198619,
       "word": "韩素希收到Jennie的小卡",
@@ -43393,6 +43457,14 @@
       "onboard_time": 1706231190,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192746,
+      "num": 192746,
+      "word": "迪丽热巴新妆",
+      "onboard_time": 1706362230,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192718,
@@ -46552,6 +46624,14 @@
       "word": "原来我的性格是这样形成的",
       "onboard_time": 1706251531,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181665,
+      "num": 181665,
+      "word": "人要一寸一寸的拯救自己",
+      "onboard_time": 1706361691,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -51259,14 +51339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164443,
-      "num": 164443,
-      "word": "Meiko首次对战EDG",
-      "onboard_time": 1706361090,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164436,
       "num": 164436,
       "word": "吴磊赵今麦牵手玩游戏",
@@ -51673,6 +51745,14 @@
       "onboard_time": 1704773611,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162841,
+      "num": 162841,
+      "word": "文韬齐思钧去看了唐九洲巡演",
+      "onboard_time": 1706362173,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 162840,
@@ -52825,14 +52905,6 @@
       "onboard_time": 1704975812,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 158466,
-      "num": 158466,
-      "word": "宋慧乔红丝袜",
-      "onboard_time": 1706361332,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158461,
@@ -58689,14 +58761,6 @@
       "onboard_time": 1704935789,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 138648,
-      "num": 138648,
-      "word": "留住金鹤龙",
-      "onboard_time": 1706361090,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138619,
@@ -72484,7 +72548,7 @@
     },
     {
       "raw_hot": 48772,
-      "num": 908132,
+      "num": 1031137,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
       "rank": 2,
