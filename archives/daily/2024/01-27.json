@@ -1,14 +1,22 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706317838673,
+  "endTime": 1706318971348,
   "band_list": [
     {
-      "raw_hot": 1883402,
-      "num": 1883402,
+      "raw_hot": 1924428,
+      "num": 1924428,
       "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
       "onboard_time": 1706316507,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381269,
+      "num": 837508,
+      "word": "三变正妻 前妻变三",
+      "onboard_time": 1706316268,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1298306,
@@ -17,14 +25,6 @@
       "onboard_time": 1706280871,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1244298,
-      "num": 344448,
-      "word": "三变正妻 前妻变三",
-      "onboard_time": 1706316268,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1085480,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 759244,
-      "num": 759244,
+      "raw_hot": 807936,
+      "num": 807936,
       "word": "国家邮政局约谈极兔速递",
       "onboard_time": 1706315188,
       "rank": 4,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 552884,
-      "num": 172849,
+      "num": 180447,
       "word": "外孙女做新美甲回家过年被姥爷一把剪断",
       "onboard_time": 1706311341,
       "rank": 30,
@@ -179,6 +179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 333048,
+      "num": 333048,
+      "word": "特朗普赔偿8330万美元",
+      "onboard_time": 1706317650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308643,
       "num": 308643,
       "word": "迪丽热巴造型师换成了金鹤龙",
@@ -209,6 +217,14 @@
       "onboard_time": 1706280154,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 249408,
+      "num": 249408,
+      "word": "吴磊林亦扬 经常请吃饭的哥哥",
+      "onboard_time": 1706316870,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 242948,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210172,
+      "num": 210172,
+      "word": "我只是没读好书我不是坏孩子",
+      "onboard_time": 1706318008,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203987,
       "num": 203987,
       "word": "ENHYPEN跳科目三",
@@ -297,6 +321,14 @@
       "onboard_time": 1706279851,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191891,
+      "num": 191891,
+      "word": "女子欲跳入猴山救猫被现场游客救下",
+      "onboard_time": 1706317710,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190943,
@@ -339,12 +371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173690,
-      "num": 173690,
-      "word": "吴磊林亦扬 经常请吃饭的哥哥",
-      "onboard_time": 1706316870,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 176423,
+      "num": 176423,
+      "word": "美国三分之一年轻人成年不离家",
+      "onboard_time": 1706317289,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172003,
@@ -379,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153661,
-      "num": 153661,
+      "raw_hot": 157501,
+      "num": 157501,
       "word": "70岁儿媳来串门91岁婆婆激动落泪",
       "onboard_time": 1706315789,
       "rank": 25,
@@ -419,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145829,
+      "num": 145829,
+      "word": "谭爷爷知道和叶是妹妹的前后对比",
+      "onboard_time": 1706316688,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144922,
       "num": 144922,
       "word": "专家说生肖属相是由立春决定",
@@ -443,16 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139392,
-      "num": 128199,
-      "word": "美国三分之一年轻人成年不离家",
-      "onboard_time": 1706317289,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133628,
-      "num": 128083,
+      "num": 128725,
       "word": "以发霉的草莓为灵感能画出什么",
       "onboard_time": 1706316029,
       "rank": 31,
@@ -473,6 +505,14 @@
       "onboard_time": 1706314105,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127873,
+      "num": 127873,
+      "word": "恋与深空",
+      "onboard_time": 1706318727,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 125204,
@@ -571,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98557,
-      "num": 98557,
-      "word": "谭爷爷知道和叶是妹妹的前后对比",
-      "onboard_time": 1706316688,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97947,
       "num": 97947,
       "word": "女子患双相障碍盲目定下百万豪车",
@@ -611,14 +643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 93429,
-      "num": 93429,
-      "word": "女子欲跳入猴山救猫被现场游客救下",
-      "onboard_time": 1706317710,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92758,
       "num": 92758,
       "word": "张卫健回应空中彩排意外坠地",
@@ -635,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88832,
-      "num": 88832,
-      "word": "特朗普赔偿8330万美元",
-      "onboard_time": 1706317650,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 92050,
+      "num": 92050,
+      "word": "自己掏耳朵的风险",
+      "onboard_time": 1706318368,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87855,
@@ -659,12 +683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85277,
+      "num": 85277,
+      "word": "瑞士国家旅游局与尔滨文旅局隔空喊话",
+      "onboard_time": 1706318789,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84243,
       "num": 84243,
       "word": "名侦探柯南 露营系列",
       "onboard_time": 1706279612,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 83839,
+      "num": 83839,
+      "word": "布克单节29分",
+      "onboard_time": 1706318907,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 83825,
