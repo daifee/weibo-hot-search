@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706358443467,
+  "endTime": 1706359335149,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -67,6 +67,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1458933,
+      "num": 1458933,
+      "word": "好消息1月工资年前发",
+      "onboard_time": 1706355869,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1398765,
       "num": 1398765,
       "word": "昆明动物园猫咪现身了",
@@ -129,14 +137,6 @@
       "onboard_time": 1706353108,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1172518,
-      "num": 1172518,
-      "word": "好消息1月工资年前发",
-      "onboard_time": 1706355869,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1145970,
@@ -451,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 521021,
+      "num": 497611,
+      "word": "张进",
+      "onboard_time": 1706357308,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 501966,
       "num": 501966,
       "word": "优酷把要久久爱放悬疑剧场了",
@@ -539,7 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422943,
+      "raw_hot": 430366,
       "num": 262647,
       "word": "人均37元的早餐为何没人买单了",
       "onboard_time": 1706357730,
@@ -569,6 +577,14 @@
       "onboard_time": 1706272410,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398793,
+      "num": 398793,
+      "word": "红月亮",
+      "onboard_time": 1706357969,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394307,
@@ -657,14 +673,6 @@
       "onboard_time": 1706329890,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 349794,
-      "num": 349794,
-      "word": "张进",
-      "onboard_time": 1706357308,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 348976,
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324993,
+      "num": 324993,
+      "word": "00后四帅",
+      "onboard_time": 1706358388,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322518,
       "num": 322518,
       "word": "王鹤棣新加坡",
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292868,
+      "num": 234639,
+      "word": "以闪亮之名",
+      "onboard_time": 1706358451,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288617,
       "num": 288617,
       "word": "徐娇喝到真茶了",
@@ -865,6 +889,14 @@
       "onboard_time": 1706336489,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283363,
+      "num": 198976,
+      "word": "吴尊 10年前的娜姐10年后的你",
+      "onboard_time": 1706359231,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 280736,
@@ -1011,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239039,
+      "num": 192985,
+      "word": "郑钦文泛着泪花回应获澳网亚军",
+      "onboard_time": 1706358571,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235406,
       "num": 235406,
       "word": "全国开展消防除患攻坚大整治",
@@ -1056,14 +1096,6 @@
       "word": "一只小熊猫拒绝了你的搭讪",
       "onboard_time": 1706310200,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223842,
-      "num": 223842,
-      "word": "红月亮",
-      "onboard_time": 1706357969,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1121,6 +1153,14 @@
       "onboard_time": 1706342611,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214941,
+      "num": 214941,
+      "word": "花少5 极其治愈的女性视角综艺",
+      "onboard_time": 1706358271,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 214934,
@@ -1187,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205122,
+      "num": 205122,
+      "word": "樊振东预祝中国选手更上一层楼",
+      "onboard_time": 1706357610,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204538,
       "num": 204538,
       "word": "伤影向张艺兴致歉",
       "onboard_time": 1706326589,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204459,
-      "num": 183640,
-      "word": "樊振东预祝中国选手更上一层楼",
-      "onboard_time": 1706357610,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 203987,
@@ -1419,6 +1459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181161,
+      "num": 181161,
+      "word": "刘烨首演 胡军送花",
+      "onboard_time": 1706358811,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180264,
       "num": 180264,
       "word": "善待动物组织关注幻兽帕鲁",
@@ -1515,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167814,
+      "num": 167814,
+      "word": "范丞丞不想跳科目三",
+      "onboard_time": 1706358929,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166787,
       "num": 166787,
       "word": "幻兽帕鲁5天收入超10亿",
@@ -1585,6 +1641,14 @@
       "onboard_time": 1706319327,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 158677,
+      "num": 158677,
+      "word": "酸菜中藏有食管癌祸根",
+      "onboard_time": 1706356409,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157624,
@@ -1675,12 +1739,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 151231,
-      "num": 151231,
-      "word": "酸菜中藏有食管癌祸根",
-      "onboard_time": 1706356409,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 150850,
+      "num": 150850,
+      "word": "让不懂韩圈的老板猜市值",
+      "onboard_time": 1706358150,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150306,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1706319989,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137215,
+      "num": 137215,
+      "word": "大学生回家发现卧室改超市",
+      "onboard_time": 1706358811,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 134270,
@@ -1963,6 +2035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119417,
+      "num": 119417,
+      "word": "人去世后的身体变化",
+      "onboard_time": 1706359231,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 119315,
       "num": 119315,
       "word": "年终奖发了悬着的心终于死了",
@@ -2091,28 +2171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108520,
-      "num": 108520,
-      "word": "让不懂韩圈的老板猜市值",
-      "onboard_time": 1706358150,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107582,
       "num": 107582,
       "word": "大理地震",
       "onboard_time": 1706273672,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107467,
-      "num": 107467,
-      "word": "花少5 极其治愈的女性视角综艺",
-      "onboard_time": 1706358271,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 107271,
@@ -2289,14 +2353,6 @@
       "onboard_time": 1706323048,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95640,
-      "num": 95640,
-      "word": "00后四帅",
-      "onboard_time": 1706358388,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 94903,
@@ -2651,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38442,
+      "num": 349260,
+      "word": "寒假用眼奇葩行为大赏",
+      "onboard_time": 1706356831,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37778,
       "num": 37778,
       "word": "一个桂花黄米馒头就分裂了山东",
@@ -2688,14 +2752,6 @@
       "word": "流动的中国有温度有活力",
       "onboard_time": 1706324731,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27978,
-      "num": 342166,
-      "word": "寒假用眼奇葩行为大赏",
-      "onboard_time": 1706356831,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
