@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706393730917,
+  "endTime": 1706394839951,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150247,
+      "num": 55943,
+      "word": "买701号房交房变704业主怒嫌晦气",
+      "onboard_time": 1706378360,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149552,
       "num": 123085,
       "word": "梦天拍热巴",
@@ -264,14 +272,6 @@
       "word": "昆明动物园",
       "onboard_time": 1706364152,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120519,
-      "num": 55943,
-      "word": "买701号房交房变704业主怒嫌晦气",
-      "onboard_time": 1706378360,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -451,20 +451,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 44739,
+      "num": 44739,
+      "word": "红丝袜",
+      "onboard_time": 1706388496,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39604,
       "num": 42658,
       "word": "怎么选珍珠",
       "onboard_time": 1706375783,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 33149,
-      "num": 33149,
-      "word": "红丝袜",
-      "onboard_time": 1706388496,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32713,
@@ -475,12 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29323,
-      "num": 17999,
+      "raw_hot": 32331,
+      "num": 29931,
       "word": "延吉一早市早上6点挤满了游客",
       "onboard_time": 1706390476,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 26675,
+      "num": 26675,
+      "word": "董宇辉称不管怎么做都有人不认同",
+      "onboard_time": 1706391556,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 23688,
@@ -489,14 +497,6 @@
       "onboard_time": 1706359890,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23587,
-      "num": 23587,
-      "word": "董宇辉称不管怎么做都有人不认同",
-      "onboard_time": 1706391556,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 21257,
@@ -515,6 +515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 18601,
+      "num": 18601,
+      "word": "郑钦文2023年收入720万美元",
+      "onboard_time": 1706388196,
+      "rank": 36,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 16941,
       "num": 20310,
       "word": "汪铎夸鞠婧祎演得好",
@@ -523,24 +531,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15991,
-      "num": 15991,
+      "raw_hot": 16613,
+      "num": 16613,
       "word": "杨迪问秦霄贤对谁心动过",
       "onboard_time": 1706385675,
       "rank": 38,
       "category": "综艺"
     },
     {
-      "raw_hot": 15983,
-      "num": 15983,
-      "word": "郑钦文2023年收入720万美元",
-      "onboard_time": 1706388196,
-      "rank": 36,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 13922,
-      "num": 13922,
+      "num": 15002,
       "word": "赵继伟戴面具",
       "onboard_time": 1706387177,
       "rank": 47,
