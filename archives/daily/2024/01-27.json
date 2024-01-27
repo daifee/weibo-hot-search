@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706351624719,
+  "endTime": 1706353974559,
   "band_list": [
     {
       "raw_hot": 3232200,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892580,
+      "num": 892580,
+      "word": "刘宇魏无羡造型",
+      "onboard_time": 1706350532,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 879080,
       "num": 879080,
       "word": "最减肥的水果还得是车厘子",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705204,
+      "num": 705204,
+      "word": "昆明动物园猫不见了",
+      "onboard_time": 1706352810,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689149,
       "num": 689149,
       "word": "我只是没读好书我不是坏孩子",
@@ -251,12 +267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 637805,
-      "num": 637805,
-      "word": "刘宇魏无羡造型",
-      "onboard_time": 1706350532,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 642988,
+      "num": 1919541,
+      "word": "一元一串的钵钵鸡有多洗脑",
+      "onboard_time": 1706342250,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 622968,
@@ -289,6 +305,14 @@
       "onboard_time": 1706330130,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582213,
+      "num": 582213,
+      "word": "郑钦文收获超800万奖金",
+      "onboard_time": 1706351789,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 576538,
@@ -371,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 506765,
+      "num": 506765,
+      "word": "迪丽热巴爱琴海",
+      "onboard_time": 1706353108,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501966,
       "num": 501966,
       "word": "优酷把要久久爱放悬疑剧场了",
@@ -433,14 +465,6 @@
       "onboard_time": 1706319327,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439335,
-      "num": 1919541,
-      "word": "一元一串的钵钵鸡有多洗脑",
-      "onboard_time": 1706342250,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 438748,
@@ -587,6 +611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347540,
+      "num": 300748,
+      "word": "你早上刷牙还是晚上刷牙",
+      "onboard_time": 1706348971,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 345870,
+      "num": 345870,
+      "word": "原来杨紫晒非主流照片是因为输了",
+      "onboard_time": 1706351491,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343976,
       "num": 343976,
       "word": "周也雪地红玫瑰",
@@ -659,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325834,
-      "num": 300748,
-      "word": "你早上刷牙还是晚上刷牙",
-      "onboard_time": 1706348971,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 322518,
       "num": 322518,
       "word": "王鹤棣新加坡",
@@ -681,6 +713,14 @@
       "onboard_time": 1706345791,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320299,
+      "num": 1497208,
+      "word": "河南多家公司宣布除夕放假",
+      "onboard_time": 1706349030,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313488,
@@ -803,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263817,
-      "num": 1497208,
-      "word": "河南多家公司宣布除夕放假",
-      "onboard_time": 1706349030,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263591,
       "num": 263591,
       "word": "你好星期六全员守护冬日心动",
@@ -929,6 +961,14 @@
       "onboard_time": 1706312603,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226182,
+      "num": 226182,
+      "word": "赵露思陈泽英雄联盟",
+      "onboard_time": 1706351068,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 224812,
@@ -1171,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192168,
+      "num": 192168,
+      "word": "情绪压抑的人更易长结节",
+      "onboard_time": 1706352869,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191891,
       "num": 191891,
       "word": "女子欲跳入猴山救猫被现场游客救下",
@@ -1185,6 +1233,14 @@
       "onboard_time": 1706346751,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190982,
+      "num": 1243967,
+      "word": "山东人有属于自己的汉堡",
+      "onboard_time": 1706348793,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 190943,
@@ -1235,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181846,
-      "num": 1243967,
-      "word": "山东人有属于自己的汉堡",
-      "onboard_time": 1706348793,
-      "rank": 6,
-      "category": "美食"
+      "raw_hot": 183570,
+      "num": 183570,
+      "word": "陈楚生回复王心凌",
+      "onboard_time": 1706351011,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 181740,
@@ -1283,14 +1339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177930,
-      "num": 177930,
-      "word": "赵露思陈泽英雄联盟",
-      "onboard_time": 1706351068,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176423,
       "num": 176423,
       "word": "美国三分之一年轻人成年不离家",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1706332049,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173776,
+      "num": 173776,
+      "word": "澳网奖金",
+      "onboard_time": 1706351851,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 172120,
@@ -1331,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169079,
+      "num": 169079,
+      "word": "郑钦文世界排名升至第7",
+      "onboard_time": 1706351912,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168192,
       "num": 168192,
       "word": "入职第一天就知道这个公司来对了",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1706350050,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167404,
+      "num": 167404,
+      "word": "久诚 MTG",
+      "onboard_time": 1706353470,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 166787,
@@ -1475,12 +1547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154193,
-      "num": 154193,
-      "word": "原来杨紫晒非主流照片是因为输了",
-      "onboard_time": 1706351491,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 153733,
+      "num": 153733,
+      "word": "尸骸赛斯 崩铁流萤",
+      "onboard_time": 1706353470,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 153146,
@@ -1497,6 +1569,14 @@
       "onboard_time": 1706280214,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 150425,
+      "num": 150425,
+      "word": "找对象应该努力还是要随缘",
+      "onboard_time": 1706352989,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 150306,
@@ -1553,14 +1633,6 @@
       "onboard_time": 1706327849,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145237,
-      "num": 123866,
-      "word": "陈楚生回复王心凌",
-      "onboard_time": 1706351011,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 144922,
@@ -1851,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111353,
+      "num": 130830,
+      "word": "郑钦文未来可期",
+      "onboard_time": 1706353589,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111248,
       "num": 111248,
       "word": "反向催婚",
@@ -1889,6 +1969,14 @@
       "onboard_time": 1706336669,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106497,
+      "num": 106497,
+      "word": "6名女高中生获得牛剑预录取",
+      "onboard_time": 1706353767,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 106109,

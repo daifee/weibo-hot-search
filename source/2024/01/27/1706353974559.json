@@ -1,0 +1,410 @@
+{
+  "runTime": 1706353974559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1114225,
+        "num": 1114225,
+        "word": "郑钦文获澳网亚军",
+        "onboard_time": 1706349931,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642988,
+        "num": 1081766,
+        "word": "一元一串的钵钵鸡有多洗脑",
+        "onboard_time": 1706342250,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 9002,
+        "num": 1063020,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1706267791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062779,
+        "num": 1062779,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 320299,
+        "num": 954521,
+        "word": "河南多家公司宣布除夕放假",
+        "onboard_time": 1706349030,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892580,
+        "num": 892580,
+        "word": "刘宇魏无羡造型",
+        "onboard_time": 1706350532,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190982,
+        "num": 874513,
+        "word": "山东人有属于自己的汉堡",
+        "onboard_time": 1706348793,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 856942,
+        "num": 856942,
+        "word": "结婚买房真是沉重的话题",
+        "onboard_time": 1706346028,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 789460,
+        "num": 789460,
+        "word": "沈梦辰腰椎骨头断裂",
+        "onboard_time": 1706342907,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734908,
+        "num": 734908,
+        "word": "银川烧烤店31死爆炸事故调查报告",
+        "onboard_time": 1706347770,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705204,
+        "num": 705204,
+        "word": "昆明动物园猫不见了",
+        "onboard_time": 1706352810,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582213,
+        "num": 582213,
+        "word": "郑钦文收获超800万奖金",
+        "onboard_time": 1706351789,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506765,
+        "num": 506765,
+        "word": "迪丽热巴爱琴海",
+        "onboard_time": 1706353108,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474098,
+        "num": 474098,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401592,
+        "num": 401592,
+        "word": "虞书欣抠手",
+        "onboard_time": 1706346510,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350718,
+        "num": 350718,
+        "word": "小动物保护协会称两只猫暂未被找到",
+        "onboard_time": 1706347230,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345870,
+        "num": 345870,
+        "word": "原来杨紫晒非主流照片是因为输了",
+        "onboard_time": 1706351491,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333947,
+        "num": 333947,
+        "word": "最减肥的水果还得是车厘子",
+        "onboard_time": 1706343330,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 289188,
+        "num": 289188,
+        "word": "2名中管干部因富洋烧烤店燃气爆炸被问责",
+        "onboard_time": 1706348669,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265036,
+        "num": 265036,
+        "word": "易烊千玺无法逃跑",
+        "onboard_time": 1706343151,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347540,
+        "num": 264495,
+        "word": "你早上刷牙还是晚上刷牙",
+        "onboard_time": 1706348971,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252901,
+        "num": 252901,
+        "word": "张馨予为昆明动物园事件发声",
+        "onboard_time": 1706340687,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 242876,
+        "num": 242876,
+        "word": "红山动物园",
+        "onboard_time": 1706347770,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226182,
+        "num": 226182,
+        "word": "赵露思陈泽英雄联盟",
+        "onboard_time": 1706351068,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219264,
+        "num": 219264,
+        "word": "极挑男人帮新综开拍没告诉孙红雷",
+        "onboard_time": 1706342429,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198623,
+        "num": 198623,
+        "word": "昆明猫猴共处事件谁在装睡",
+        "onboard_time": 1706329227,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192168,
+        "num": 192168,
+        "word": "情绪压抑的人更易长结节",
+        "onboard_time": 1706352869,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187971,
+        "num": 187971,
+        "word": "圆明园有安陵容冰嬉了",
+        "onboard_time": 1706340329,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183570,
+        "num": 183570,
+        "word": "陈楚生回复王心凌",
+        "onboard_time": 1706351011,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182507,
+        "num": 182507,
+        "word": "银川烧烤店爆炸原因之一是送错气瓶",
+        "onboard_time": 1706348489,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173776,
+        "num": 173776,
+        "word": "澳网奖金",
+        "onboard_time": 1706351851,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169079,
+        "num": 169079,
+        "word": "郑钦文世界排名升至第7",
+        "onboard_time": 1706351912,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167404,
+        "num": 167404,
+        "word": "久诚 MTG",
+        "onboard_time": 1706353470,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153733,
+        "num": 153733,
+        "word": "尸骸赛斯 崩铁流萤",
+        "onboard_time": 1706353470,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150425,
+        "num": 150425,
+        "word": "找对象应该努力还是要随缘",
+        "onboard_time": 1706352989,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 150240,
+        "word": "日本小姐冠军在日引巨大争议",
+        "onboard_time": 1706333909,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141880,
+        "num": 141880,
+        "word": "俞飞鸿53了",
+        "onboard_time": 1706347351,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141493,
+        "num": 141493,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1706340808,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140576,
+        "num": 140576,
+        "word": "王鹤棣新加坡",
+        "onboard_time": 1706346390,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111353,
+        "num": 130830,
+        "word": "郑钦文未来可期",
+        "onboard_time": 1706353589,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130150,
+        "num": 130150,
+        "word": "蔡国庆时代少年团",
+        "onboard_time": 1706349211,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128284,
+        "num": 128284,
+        "word": "上海市中心的24平小豪宅",
+        "onboard_time": 1706341947,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124261,
+        "num": 124261,
+        "word": "范丞丞直播",
+        "onboard_time": 1706348850,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123544,
+        "num": 123544,
+        "word": "鞠婧祎让茅子俊展示身材",
+        "onboard_time": 1706350050,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119460,
+        "num": 119460,
+        "word": "李娜",
+        "onboard_time": 1706345791,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117704,
+        "num": 117704,
+        "word": "银川烧烤店爆炸66名公职人员被问责",
+        "onboard_time": 1706349873,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117363,
+        "num": 117363,
+        "word": "虞书欣倒车风波后现身",
+        "onboard_time": 1706349450,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106497,
+        "num": 106497,
+        "word": "6名女高中生获得牛剑预录取",
+        "onboard_time": 1706353767,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103400,
+        "num": 103400,
+        "word": "花少各种美女睡在一起",
+        "onboard_time": 1706333968,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94115,
+        "num": 94115,
+        "word": "在人间 赵丽颖孙千",
+        "onboard_time": 1706331866,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动城市治理体系和治理能力现代化#"
+    }
+  }
+}
