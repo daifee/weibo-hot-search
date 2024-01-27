@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706394839951,
+  "endTime": 1706397403782,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -22601,6 +22601,14 @@
       "onboard_time": 1704377192,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390047,
+      "num": 390047,
+      "word": "买701号房交房变704业主怒嫌晦气",
+      "onboard_time": 1706378360,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389965,
@@ -55515,14 +55523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150247,
-      "num": 55943,
-      "word": "买701号房交房变704业主怒嫌晦气",
-      "onboard_time": 1706378360,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150238,
       "num": 150238,
       "word": "加沙民众吃动物饲料充饥",
@@ -70435,6 +70435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82389,
+      "num": 82389,
+      "word": "北京地震",
+      "onboard_time": 1706397380,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82268,
       "num": 502272,
       "word": "中国国家网球队再添新成员",
@@ -71121,6 +71129,14 @@
       "onboard_time": 1705533982,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71366,
+      "num": 71366,
+      "word": "红丝袜",
+      "onboard_time": 1706388496,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 71150,
@@ -72595,6 +72611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51854,
+      "num": 51854,
+      "word": "延吉一早市早上6点挤满了游客",
+      "onboard_time": 1706390476,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 51770,
       "num": 51770,
       "word": "你希望春晚出现科目三吗",
@@ -72947,6 +72971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47307,
+      "num": 47307,
+      "word": "三蹦子厂家称倒车请注意将推出英文版",
+      "onboard_time": 1706396839,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46811,
       "num": 38243,
       "word": "塔吉克斯坦2比1黎巴嫩",
@@ -73097,14 +73129,6 @@
       "onboard_time": 1705355295,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44739,
-      "num": 44739,
-      "word": "红丝袜",
-      "onboard_time": 1706388496,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44720,
@@ -73635,6 +73659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38440,
+      "num": 38440,
+      "word": "董宇辉称不管怎么做都有人不认同",
+      "onboard_time": 1706391556,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38393,
       "num": 38393,
       "word": "它是不是还不太知道自己是老虎",
@@ -73995,12 +74027,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 32331,
-      "num": 29931,
-      "word": "延吉一早市早上6点挤满了游客",
-      "onboard_time": 1706390476,
-      "rank": 30,
-      "category": "旅游"
+      "raw_hot": 32152,
+      "num": 32152,
+      "word": "巴塞罗那3比5比利亚雷亚尔",
+      "onboard_time": 1706397020,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 31866,
@@ -74035,6 +74067,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 31515,
+      "num": 31515,
+      "word": "瘦全身练这一个就够了",
+      "onboard_time": 1706382736,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 31165,
       "num": 31165,
       "word": "乌迪内斯2比3AC米兰",
@@ -74049,6 +74089,14 @@
       "onboard_time": 1704648079,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 30446,
+      "num": 30446,
+      "word": "郑钦文2023年收入720万美元",
+      "onboard_time": 1706388196,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 30375,
@@ -74105,6 +74153,14 @@
       "onboard_time": 1705875493,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29342,
+      "num": 29342,
+      "word": "杨迪问秦霄贤对谁心动过",
+      "onboard_time": 1706385675,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 29337,
@@ -74241,14 +74297,6 @@
       "onboard_time": 1704642390,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26675,
-      "num": 26675,
-      "word": "董宇辉称不管怎么做都有人不认同",
-      "onboard_time": 1706391556,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 26584,
@@ -74667,28 +74715,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18808,
-      "num": 20297,
-      "word": "瘦全身练这一个就够了",
-      "onboard_time": 1706382736,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 18619,
       "num": 18152,
       "word": "瑙鲁",
       "onboard_time": 1705348033,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18601,
-      "num": 18601,
-      "word": "郑钦文2023年收入720万美元",
-      "onboard_time": 1706388196,
-      "rank": 36,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 18397,
@@ -74825,14 +74857,6 @@
       "onboard_time": 1704825256,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16613,
-      "num": 16613,
-      "word": "杨迪问秦霄贤对谁心动过",
-      "onboard_time": 1706385675,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 16537,
