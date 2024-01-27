@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706382834856,
+  "endTime": 1706384037580,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 120519,
-      "num": 43877,
+      "num": 55943,
       "word": "买701号房交房变704业主怒嫌晦气",
       "onboard_time": 1706378360,
       "rank": 30,
@@ -443,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48432,
+      "num": 48432,
+      "word": "吴尊 10年前的娜姐10年后的你",
+      "onboard_time": 1706359231,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 39604,
       "num": 42658,
       "word": "怎么选珍珠",
       "onboard_time": 1706375783,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 38863,
-      "num": 37772,
-      "word": "吴尊 10年前的娜姐10年后的你",
-      "onboard_time": 1706359231,
-      "rank": 46,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 32713,
@@ -483,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18808,
+      "num": 20297,
+      "word": "瘦全身练这一个就够了",
+      "onboard_time": 1706382736,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 16941,
       "num": 20310,
       "word": "汪铎夸鞠婧祎演得好",
       "onboard_time": 1706381897,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15567,
-      "num": 20297,
-      "word": "瘦全身练这一个就够了",
-      "onboard_time": 1706382736,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 8120,
