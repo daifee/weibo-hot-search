@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706322032445,
+  "endTime": 1706322844630,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579324,
-      "num": 579324,
+      "raw_hot": 689149,
+      "num": 689149,
       "word": "我只是没读好书我不是坏孩子",
       "onboard_time": 1706318008,
       "rank": 17,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 552884,
-      "num": 193485,
+      "num": 195140,
       "word": "外孙女做新美甲回家过年被姥爷一把剪断",
       "onboard_time": 1706311341,
       "rank": 30,
@@ -113,6 +113,14 @@
       "onboard_time": 1706314465,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538235,
+      "num": 418690,
+      "word": "离婚搭子同居养娃",
+      "onboard_time": 1706321131,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 460500,
@@ -219,6 +227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 333809,
+      "num": 333809,
+      "word": "凤凰台上开机",
+      "onboard_time": 1706321249,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308643,
       "num": 308643,
       "word": "迪丽热巴造型师换成了金鹤龙",
@@ -227,20 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303328,
+      "num": 303328,
+      "word": "广州放开120平方米以上户型限购",
+      "onboard_time": 1706320406,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289459,
+      "num": 289459,
+      "word": "男子开车嬉闹撞死三轮车驾驶员",
+      "onboard_time": 1706321249,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288617,
       "num": 288617,
       "word": "徐娇喝到真茶了",
       "onboard_time": 1706250690,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281259,
-      "num": 129177,
-      "word": "离婚搭子同居养娃",
-      "onboard_time": 1706321131,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 280736,
@@ -257,14 +281,6 @@
       "onboard_time": 1706280154,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 268004,
-      "num": 268004,
-      "word": "广州放开120平方米以上户型限购",
-      "onboard_time": 1706320406,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263476,
@@ -347,14 +363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198500,
-      "num": 198500,
-      "word": "凤凰台上开机",
-      "onboard_time": 1706321249,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196510,
       "num": 196510,
       "word": "黄帝内经提到的瘦身方法",
@@ -385,6 +393,14 @@
       "onboard_time": 1706279851,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192855,
+      "num": 133850,
+      "word": "女朋友做的一周年纪念立体书",
+      "onboard_time": 1706321670,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 191891,
@@ -425,6 +441,14 @@
       "onboard_time": 1706286329,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180897,
+      "num": 180897,
+      "word": "关晓彤范丞丞王安宇同框路透",
+      "onboard_time": 1706322267,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 180264,
@@ -523,6 +547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150008,
+      "num": 150008,
+      "word": "2024年确诊上学脑",
+      "onboard_time": 1706321487,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147944,
       "num": 147944,
       "word": "MAC口红广告疑擦边惹争议",
@@ -553,14 +585,6 @@
       "onboard_time": 1706283451,
       "rank": 31,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 141781,
-      "num": 128723,
-      "word": "男子开车嬉闹撞死三轮车驾驶员",
-      "onboard_time": 1706321249,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139448,
@@ -649,22 +673,6 @@
       "onboard_time": 1706277993,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113482,
-      "num": 113482,
-      "word": "女朋友做的一周年纪念立体书",
-      "onboard_time": 1706321670,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 113258,
-      "num": 113258,
-      "word": "2024年确诊上学脑",
-      "onboard_time": 1706321487,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 113037,
@@ -811,12 +819,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91655,
+      "num": 91655,
+      "word": "列车调度员吃饭时眼睛都离不开屏幕",
+      "onboard_time": 1706322210,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90618,
       "num": 90618,
       "word": "五千年女子妆容变迁",
       "onboard_time": 1706318970,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 89302,
+      "num": 89302,
+      "word": "水哥真的在试图教会我魔方",
+      "onboard_time": 1706322687,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 87855,
@@ -849,6 +873,14 @@
       "onboard_time": 1706320047,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85535,
+      "num": 85535,
+      "word": "伦敦留学公寓",
+      "onboard_time": 1706322749,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 84243,
