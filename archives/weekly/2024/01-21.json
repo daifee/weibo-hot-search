@@ -1,6 +1,6 @@
 {
   "startTime": 1705767720581,
-  "endTime": 1706326447068,
+  "endTime": 1706329137656,
   "band_list": [
     {
       "raw_hot": 8309889,
@@ -939,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1145970,
+      "num": 626417,
+      "word": "泰勒斯威夫特AI不雅照疯传",
+      "onboard_time": 1706327427,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1143948,
       "num": 1143948,
       "word": "婚礼回礼竟是一人一件四川省服",
@@ -984,6 +992,14 @@
       "word": "男子无自杀勇气砸死路人求死刑",
       "onboard_time": 1706091871,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1117441,
+      "num": 1117441,
+      "word": "男子开车嬉闹撞死三轮车驾驶员",
+      "onboard_time": 1706321249,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1131,14 +1147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1034587,
-      "num": 1034587,
-      "word": "男子开车嬉闹撞死三轮车驾驶员",
-      "onboard_time": 1706321249,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1030362,
       "num": 355572,
       "word": "有夜尿与没有夜尿的人谁更健康",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1706168311,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 993490,
+      "num": 367309,
+      "word": "失血性月经",
+      "onboard_time": 1706325990,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 993041,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1706086769,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 846634,
+      "num": 846634,
+      "word": "拜登演讲时突然胡言乱语",
+      "onboard_time": 1706327427,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 846321,
@@ -3587,6 +3611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498173,
+      "num": 498173,
+      "word": "招财美甲",
+      "onboard_time": 1706326410,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 495733,
       "num": 495733,
       "word": "日本今年将排放5万余吨核污染水",
@@ -4491,14 +4523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 420101,
-      "num": 366215,
-      "word": "失血性月经",
-      "onboard_time": 1706325990,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 417709,
       "num": 417709,
       "word": "虞书欣司机在高速倒车交警已介入",
@@ -4875,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392309,
+      "num": 392309,
+      "word": "红山动物园为昆明动物园的猫发声",
+      "onboard_time": 1706327126,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392248,
       "num": 306063,
       "word": "走亲戚花了一千五买年货",
@@ -5083,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377187,
+      "num": 377187,
+      "word": "秦岚好多帽子",
+      "onboard_time": 1706327187,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377105,
       "num": 288997,
       "word": "光遇",
@@ -5220,7 +5260,7 @@
     },
     {
       "raw_hot": 368043,
-      "num": 258544,
+      "num": 267731,
       "word": "瘦是因为爸妈做的饭太难吃了",
       "onboard_time": 1706323227,
       "rank": 20,
@@ -5467,6 +5507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348976,
+      "num": 348976,
+      "word": "伦敦留学公寓",
+      "onboard_time": 1706322749,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348430,
       "num": 348430,
       "word": "朴信惠啥时候结的婚",
@@ -5585,6 +5633,14 @@
       "onboard_time": 1706075969,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 343453,
+      "num": 343453,
+      "word": "Letme直播哭了",
+      "onboard_time": 1706326050,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 342823,
@@ -6217,14 +6273,6 @@
       "onboard_time": 1706183613,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 303939,
-      "num": 303939,
-      "word": "伦敦留学公寓",
-      "onboard_time": 1706322749,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 303804,
@@ -8931,6 +8979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212288,
+      "num": 212288,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1706327911,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212230,
       "num": 212230,
       "word": "杭州偶遇杜海涛沈梦辰逛街",
@@ -9385,6 +9441,14 @@
       "onboard_time": 1706072431,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204538,
+      "num": 204538,
+      "word": "伤影向张艺兴致歉",
+      "onboard_time": 1706326589,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 204521,
@@ -10259,6 +10323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192370,
+      "num": 192370,
+      "word": "赵露思修身连衣裙",
+      "onboard_time": 1706329109,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192349,
       "num": 192349,
       "word": "逆水寒",
@@ -10553,14 +10625,6 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188496,
-      "num": 164712,
-      "word": "Letme直播哭了",
-      "onboard_time": 1706326050,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 188431,
@@ -11017,6 +11081,22 @@
       "onboard_time": 1706216956,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181791,
+      "num": 181791,
+      "word": "优酷把要久久爱放悬疑剧场了",
+      "onboard_time": 1706328627,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181740,
+      "num": 180524,
+      "word": "赵露思蜜桃少女妆",
+      "onboard_time": 1706327370,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181683,
@@ -12771,6 +12851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156658,
+      "num": 156658,
+      "word": "孙子返乡用玉米皮给奶奶做古风头冠",
+      "onboard_time": 1706326649,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156413,
       "num": 156413,
       "word": "北京今年将新增中小学学位2万个",
@@ -13529,6 +13617,14 @@
       "onboard_time": 1706257951,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146630,
+      "num": 146630,
+      "word": "南京人有多喜欢吃川菜",
+      "onboard_time": 1706327849,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 146586,
@@ -15291,6 +15387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125307,
+      "num": 125307,
+      "word": "逐梦大都绘",
+      "onboard_time": 1706328389,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125165,
       "num": 125165,
       "word": "人最怕的就是进入心理上的死胡同",
@@ -15739,6 +15843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118567,
+      "num": 118567,
+      "word": "先运动再学习",
+      "onboard_time": 1706328572,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118393,
       "num": 118393,
       "word": "李炎哲新疆男篮首秀",
@@ -15987,6 +16099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114595,
+      "num": 114595,
+      "word": "逛超市的年轻人",
+      "onboard_time": 1706328986,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114559,
       "num": 114559,
       "word": "祈今朝",
@@ -16097,6 +16217,14 @@
       "onboard_time": 1706167351,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112644,
+      "num": 112644,
+      "word": "要久久爱谐音梗",
+      "onboard_time": 1706326468,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112546,
@@ -17179,14 +17307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87096,
-      "num": 87096,
-      "word": "招财美甲",
-      "onboard_time": 1706326410,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 86677,
       "num": 86677,
       "word": "这辈子不要再说四川话是杨紫让加的",
@@ -17571,6 +17691,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64908,
+      "num": 1081323,
+      "word": "在春运中看到经济活力和亲情乡愁",
+      "onboard_time": 1706324969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64901,
+      "num": 336787,
+      "word": "绘旅人新春国潮版本",
+      "onboard_time": 1706328028,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64841,
       "num": 228069,
       "word": "鸭鸭怎么可以吃鸭鸭",
@@ -17793,6 +17929,14 @@
       "onboard_time": 1706114185,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51520,
+      "num": 206331,
+      "word": "元梦龙年星光代言人范丞丞",
+      "onboard_time": 1706327911,
+      "rank": 25,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 50876,
@@ -18041,14 +18185,6 @@
       "onboard_time": 1706307557,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36643,
-      "num": 1081323,
-      "word": "在春运中看到经济活力和亲情乡愁",
-      "onboard_time": 1706324969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35592,

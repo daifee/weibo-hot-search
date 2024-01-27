@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706326447068,
+  "endTime": 1706329137656,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4451,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1145970,
+      "num": 626417,
+      "word": "泰勒斯威夫特AI不雅照疯传",
+      "onboard_time": 1706327427,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145192,
       "num": 1101908,
       "word": "迪丽热巴展示泳衣",
@@ -4728,6 +4736,14 @@
       "word": "目击者讲述河南南阳学校火灾",
       "onboard_time": 1705754548,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1117441,
+      "num": 1117441,
+      "word": "男子开车嬉闹撞死三轮车驾驶员",
+      "onboard_time": 1706321249,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -5419,14 +5435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1034587,
-      "num": 1034587,
-      "word": "男子开车嬉闹撞死三轮车驾驶员",
-      "onboard_time": 1706321249,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031466,
       "num": 971736,
       "word": "霉霉 世一",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1706168311,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 993490,
+      "num": 367309,
+      "word": "失血性月经",
+      "onboard_time": 1706325990,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 993471,
@@ -7569,6 +7585,14 @@
       "onboard_time": 1705620982,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846634,
+      "num": 846634,
+      "word": "拜登演讲时突然胡言乱语",
+      "onboard_time": 1706327427,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 846321,
@@ -17083,6 +17107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498173,
+      "num": 498173,
+      "word": "招财美甲",
+      "onboard_time": 1706326410,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 497696,
       "num": 350614,
       "word": "白敬亭工作室 整活连续剧",
@@ -20483,14 +20515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 420101,
-      "num": 366215,
-      "word": "失血性月经",
-      "onboard_time": 1706325990,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 419915,
       "num": 419915,
       "word": "人民网评鸣龙少年",
@@ -21931,6 +21955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392309,
+      "num": 392309,
+      "word": "红山动物园为昆明动物园的猫发声",
+      "onboard_time": 1706327126,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392248,
       "num": 306063,
       "word": "走亲戚花了一千五买年货",
@@ -22803,6 +22835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377187,
+      "num": 377187,
+      "word": "秦岚好多帽子",
+      "onboard_time": 1706327187,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377105,
       "num": 288997,
       "word": "光遇",
@@ -23300,7 +23340,7 @@
     },
     {
       "raw_hot": 368043,
-      "num": 258544,
+      "num": 267731,
       "word": "瘦是因为爸妈做的饭太难吃了",
       "onboard_time": 1706323227,
       "rank": 20,
@@ -24299,6 +24339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348976,
+      "num": 348976,
+      "word": "伦敦留学公寓",
+      "onboard_time": 1706322749,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348652,
       "num": 348652,
       "word": "重庆狼队公告",
@@ -24537,6 +24585,14 @@
       "onboard_time": 1706075969,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 343453,
+      "num": 343453,
+      "word": "Letme直播哭了",
+      "onboard_time": 1706326050,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 343451,
@@ -27121,14 +27177,6 @@
       "onboard_time": 1705713867,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303939,
-      "num": 303939,
-      "word": "伦敦留学公寓",
-      "onboard_time": 1706322749,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 303804,
@@ -37651,6 +37699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212288,
+      "num": 212288,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1705556729,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212258,
       "num": 212258,
       "word": "封神三部曲 走进第十年",
@@ -39265,6 +39321,14 @@
       "onboard_time": 1704421048,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204538,
+      "num": 204538,
+      "word": "伤影向张艺兴致歉",
+      "onboard_time": 1706326589,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 204537,
@@ -42651,6 +42715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192370,
+      "num": 192370,
+      "word": "赵露思修身连衣裙",
+      "onboard_time": 1706329109,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192349,
       "num": 192349,
       "word": "逆水寒",
@@ -43793,14 +43865,6 @@
       "onboard_time": 1705028427,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188496,
-      "num": 164712,
-      "word": "Letme直播哭了",
-      "onboard_time": 1706326050,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 188487,
@@ -45611,6 +45675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181791,
+      "num": 181791,
+      "word": "优酷把要久久爱放悬疑剧场了",
+      "onboard_time": 1706328627,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181752,
       "num": 181752,
       "word": "警方回应2人骑车朝路人射烟花",
@@ -45625,6 +45697,14 @@
       "onboard_time": 1705218752,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181740,
+      "num": 180524,
+      "word": "赵露思蜜桃少女妆",
+      "onboard_time": 1706327370,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181724,
@@ -52259,6 +52339,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 156658,
+      "num": 156658,
+      "word": "孙子返乡用玉米皮给奶奶做古风头冠",
+      "onboard_time": 1706326649,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156615,
       "num": 156615,
       "word": "男子做木雕故意缺胳膊少腿却惊艳众人",
@@ -55097,6 +55185,14 @@
       "onboard_time": 1705570347,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146630,
+      "num": 146630,
+      "word": "南京人有多喜欢吃川菜",
+      "onboard_time": 1706327849,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 146596,
@@ -61667,6 +61763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125307,
+      "num": 125307,
+      "word": "逐梦大都绘",
+      "onboard_time": 1706328389,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125306,
       "num": 125306,
       "word": "晕碳",
@@ -63475,6 +63579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118567,
+      "num": 118567,
+      "word": "先运动再学习",
+      "onboard_time": 1706328572,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118544,
       "num": 118544,
       "word": "你那不叫舒适区",
@@ -63907,14 +64019,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 116836,
-      "num": 116836,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1705556729,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116807,
       "num": 116807,
       "word": "千与千寻AI版",
@@ -64313,6 +64417,14 @@
       "onboard_time": 1705999709,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114595,
+      "num": 114595,
+      "word": "逛超市的年轻人",
+      "onboard_time": 1706328986,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 114581,
@@ -64736,6 +64848,14 @@
       "word": "高叶陈妍希万鹏演闺蜜",
       "onboard_time": 1704518310,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112644,
+      "num": 112644,
+      "word": "要久久爱谐音梗",
+      "onboard_time": 1706326468,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -68395,14 +68515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87096,
-      "num": 87096,
-      "word": "招财美甲",
-      "onboard_time": 1706326410,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 86793,
       "num": 86793,
       "word": "于敏回答我们为什么一定要搞出氢弹",
@@ -69803,6 +69915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64908,
+      "num": 1081323,
+      "word": "在春运中看到经济活力和亲情乡愁",
+      "onboard_time": 1706324969,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64901,
+      "num": 336787,
+      "word": "绘旅人新春国潮版本",
+      "onboard_time": 1706328028,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64870,
       "num": 1481332,
       "word": "全国各省份力拼经济开门红",
@@ -70761,6 +70889,14 @@
       "onboard_time": 1705205369,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51520,
+      "num": 206331,
+      "word": "元梦龙年星光代言人范丞丞",
+      "onboard_time": 1706327911,
+      "rank": 25,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 51436,
@@ -71809,14 +71945,6 @@
       "onboard_time": 1705337183,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 36643,
-      "num": 1081323,
-      "word": "在春运中看到经济活力和亲情乡愁",
-      "onboard_time": 1706324969,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36477,
