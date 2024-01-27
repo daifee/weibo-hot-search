@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706312044763,
+  "endTime": 1706317838673,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1883402,
+      "num": 1883402,
+      "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
+      "onboard_time": 1706316507,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1880895,
       "num": 1880895,
       "word": "愿逆风如解意 税后十个亿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706009851,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1516435,
-      "num": 1516435,
-      "word": "赵晴身高",
-      "onboard_time": 1706185318,
-      "rank": 20,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
