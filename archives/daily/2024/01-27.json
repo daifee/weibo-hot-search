@@ -1,6 +1,6 @@
 {
   "startTime": 1706286085016,
-  "endTime": 1706336384304,
+  "endTime": 1706337255786,
   "band_list": [
     {
       "raw_hot": 1924428,
@@ -99,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 956053,
+      "num": 956053,
+      "word": "日本小姐冠军在日引巨大争议",
+      "onboard_time": 1706333909,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904508,
       "num": 904508,
       "word": "国家邮政局约谈极兔速递",
@@ -111,14 +119,6 @@
       "num": 900334,
       "word": "蔡磊夫妇捐助1亿元攻克渐冻症",
       "onboard_time": 1706315188,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872160,
-      "num": 872160,
-      "word": "日本小姐冠军在日引巨大争议",
-      "onboard_time": 1706333909,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 390011,
+      "num": 390011,
+      "word": "陈楚生王心凌男女对唱版大眠",
+      "onboard_time": 1706335886,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377187,
       "num": 377187,
       "word": "秦岚好多帽子",
@@ -435,8 +443,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311443,
-      "num": 306982,
+      "raw_hot": 313488,
+      "num": 313488,
       "word": "任嘉伦彭小苒两个be专业户",
       "onboard_time": 1706333728,
       "rank": 13,
@@ -473,14 +481,6 @@
       "onboard_time": 1706324908,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290341,
-      "num": 290341,
-      "word": "陈楚生王心凌男女对唱版大眠",
-      "onboard_time": 1706335886,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 288617,
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260155,
+      "num": 260155,
+      "word": "周也雪地红玫瑰",
+      "onboard_time": 1706336187,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254373,
       "num": 254373,
       "word": "19岁小伙为女友租房陷入罗生门",
@@ -593,6 +601,14 @@
       "onboard_time": 1706310200,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221960,
+      "num": 140699,
+      "word": "娃娃为什么不能扎两个辫子",
+      "onboard_time": 1706336489,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 221266,
@@ -689,6 +705,14 @@
       "onboard_time": 1706326050,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203563,
+      "num": 203563,
+      "word": "2024年浙江首考成绩今日可查",
+      "onboard_time": 1706336909,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 200803,
@@ -867,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168428,
-      "num": 168428,
-      "word": "周也雪地红玫瑰",
-      "onboard_time": 1706336187,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168192,
       "num": 168192,
       "word": "入职第一天就知道这个公司来对了",
@@ -1043,6 +1059,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 141410,
+      "num": 141410,
+      "word": "为什么有时一进门就忘了要干什么",
+      "onboard_time": 1706335886,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139448,
       "num": 139448,
       "word": "昆明动物园再通报猴猫共处",
@@ -1107,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127766,
-      "num": 127766,
-      "word": "为什么有时一进门就忘了要干什么",
-      "onboard_time": 1706335886,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 125307,
       "num": 125307,
       "word": "逐梦大都绘",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1706330549,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124043,
+      "num": 124043,
+      "word": "女子回应欲跳入猴山救猫",
+      "onboard_time": 1706336968,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121645,
@@ -1235,11 +1259,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110281,
+      "num": 110281,
+      "word": "央视之前的街头采访",
+      "onboard_time": 1706336009,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107582,
       "num": 107582,
       "word": "大理地震",
       "onboard_time": 1706273672,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107271,
+      "num": 107271,
+      "word": "祖孙三代的第一张奖状含金量有多高",
+      "onboard_time": 1706336669,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1433,6 +1473,14 @@
       "onboard_time": 1706318970,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 89251,
+      "num": 89251,
+      "word": "亚美森咖啡宣布退出中国市场",
+      "onboard_time": 1706337208,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 87855,
