@@ -1,0 +1,410 @@
+{
+  "runTime": 1706368506246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332268,
+        "num": 1332268,
+        "word": "包上恩",
+        "onboard_time": 1706362831,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057702,
+        "num": 1057702,
+        "word": "好消息1月工资年前发",
+        "onboard_time": 1706355869,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9209,
+        "num": 929095,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926746,
+        "num": 926746,
+        "word": "迪丽热巴高定首穿",
+        "onboard_time": 1706354490,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 770014,
+        "num": 770014,
+        "word": "主播称董宇辉被叫老板恨不得翻脸",
+        "onboard_time": 1706364333,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 595807,
+        "num": 595807,
+        "word": "00后四美",
+        "onboard_time": 1706356109,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 531130,
+        "num": 531130,
+        "word": "央视曝回流医保药洗白过程",
+        "onboard_time": 1706365712,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458385,
+        "num": 458385,
+        "word": "阿拉斯加自己走丢在大街上大哭",
+        "onboard_time": 1706363492,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436840,
+        "num": 436840,
+        "word": "迪丽热巴一个月四套高定",
+        "onboard_time": 1706366432,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 404985,
+        "num": 404985,
+        "word": "梦天拍热巴",
+        "onboard_time": 1706366313,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 855904,
+        "num": 395479,
+        "word": "北京野生动物园就昆明动物园事件发声",
+        "onboard_time": 1706361513,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793290,
+        "num": 387246,
+        "word": "人均37元的早餐为何没人买单了",
+        "onboard_time": 1706357730,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375814,
+        "num": 375814,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 357719,
+        "num": 357719,
+        "word": "昆明动物园为什么三发通报才救猫",
+        "onboard_time": 1706366791,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349593,
+        "num": 349593,
+        "word": "林俊杰多少有点见外了",
+        "onboard_time": 1706366909,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330715,
+        "num": 330715,
+        "word": "人要一寸一寸的拯救自己",
+        "onboard_time": 1706361691,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305006,
+        "num": 305006,
+        "word": "范丞丞不想跳科目三",
+        "onboard_time": 1706358929,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282032,
+        "num": 282032,
+        "word": "文韬齐思钧去看了唐九洲巡演",
+        "onboard_time": 1706362173,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276164,
+        "num": 276164,
+        "word": "昆明动物园",
+        "onboard_time": 1706364152,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275575,
+        "num": 275575,
+        "word": "吴磊赵今麦好配",
+        "onboard_time": 1706360913,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251512,
+        "num": 251512,
+        "word": "苦了陈楚生不能苦了我",
+        "onboard_time": 1706367692,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241329,
+        "num": 241329,
+        "word": "沈梦辰腰椎骨头断裂",
+        "onboard_time": 1706342907,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238319,
+        "num": 238319,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229057,
+        "num": 229057,
+        "word": "迪丽热巴爱琴海",
+        "onboard_time": 1706353108,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228431,
+        "num": 228431,
+        "word": "白敬亭裤子上挂玩偶",
+        "onboard_time": 1706367152,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212160,
+        "num": 212160,
+        "word": "青山说灰原喜欢柯南",
+        "onboard_time": 1706363373,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205682,
+        "num": 205682,
+        "word": "没结婚用不用给外甥女压岁钱",
+        "onboard_time": 1706367692,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201120,
+        "num": 201120,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1706367632,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219007,
+        "num": 199775,
+        "word": "迪丽热巴新妆",
+        "onboard_time": 1706362230,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189518,
+        "num": 189518,
+        "word": "武汉女生备考3个月被剑桥录取",
+        "onboard_time": 1706364634,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196396,
+        "num": 185852,
+        "word": "湖北省政府向中国网协和郑钦文致贺电",
+        "onboard_time": 1706367272,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182177,
+        "num": 182177,
+        "word": "00后四帅",
+        "onboard_time": 1706358388,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168462,
+        "num": 168462,
+        "word": "金晨舞蹈致敬200年前清代女科学家",
+        "onboard_time": 1706361750,
+        "rank": 32,
+        "category": "科学科普,艺人"
+      },
+      {
+        "raw_hot": 163131,
+        "num": 163131,
+        "word": "亚洲超星团",
+        "onboard_time": 1706368171,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162843,
+        "num": 162843,
+        "word": "赵昭仪妈妈画过哪吒传奇",
+        "onboard_time": 1706364152,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159126,
+        "num": 159126,
+        "word": "宝妈用小馒头吸收药物喂宝宝吃",
+        "onboard_time": 1706367692,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 155358,
+        "num": 155358,
+        "word": "情绪压抑的人更易长结节",
+        "onboard_time": 1706352869,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155222,
+        "num": 155222,
+        "word": "吴尊 10年前的娜姐10年后的你",
+        "onboard_time": 1706359231,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 151105,
+        "num": 151105,
+        "word": "金晨全套新中式",
+        "onboard_time": 1706365112,
+        "rank": 38,
+        "category": "科学科普,作品衍生"
+      },
+      {
+        "raw_hot": 148057,
+        "num": 148057,
+        "word": "刘宇魏无羡造型",
+        "onboard_time": 1706350532,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145590,
+        "num": 145590,
+        "word": "留住金鹤龙",
+        "onboard_time": 1706361090,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145181,
+        "num": 145181,
+        "word": "你早上刷牙还是晚上刷牙",
+        "onboard_time": 1706348971,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143760,
+        "num": 143760,
+        "word": "小动物保护协会称两只猫暂未被找到",
+        "onboard_time": 1706347230,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141690,
+        "num": 141690,
+        "word": "但凡对视一次就得哭",
+        "onboard_time": 1706367935,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133337,
+        "num": 133337,
+        "word": "王星越快放出和吴磊赵今麦自拍",
+        "onboard_time": 1706368232,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132610,
+        "num": 132610,
+        "word": "宋慧乔红丝袜",
+        "onboard_time": 1706361332,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127239,
+        "num": 127239,
+        "word": "电竞小子蒲熠星",
+        "onboard_time": 1706368412,
+        "rank": 46,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 124748,
+        "num": 124748,
+        "word": "TES战胜EDG",
+        "onboard_time": 1706365652,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122618,
+        "num": 122618,
+        "word": "原来这就是困成狗",
+        "onboard_time": 1706365533,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117972,
+        "num": 117972,
+        "word": "银川烧烤店31死爆炸事故调查报告",
+        "onboard_time": 1706347770,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有创新才能自强才能争先#"
+    }
+  }
+}
