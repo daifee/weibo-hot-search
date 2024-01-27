@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706390027591,
+  "endTime": 1706391241944,
   "band_list": [
     {
       "raw_hot": 941175,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18942,
+      "num": 18942,
+      "word": "红丝袜",
+      "onboard_time": 1706388496,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18808,
       "num": 20297,
       "word": "瘦全身练这一个就够了",
@@ -507,24 +515,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15078,
-      "num": 15078,
-      "word": "红丝袜",
-      "onboard_time": 1706388496,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 15457,
+      "num": 15457,
+      "word": "延吉一早市早上6点挤满了游客",
+      "onboard_time": 1706390476,
+      "rank": 30,
+      "category": "旅游"
     },
     {
-      "raw_hot": 13644,
-      "num": 13644,
+      "raw_hot": 14243,
+      "num": 14243,
       "word": "郑钦文2023年收入720万美元",
       "onboard_time": 1706388196,
       "rank": 36,
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 13053,
-      "num": 13053,
+      "raw_hot": 13922,
+      "num": 13922,
       "word": "赵继伟戴面具",
       "onboard_time": 1706387177,
       "rank": 47,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 10833,
-      "num": 10833,
+      "num": 12445,
       "word": "我过年回家的作用",
       "onboard_time": 1706387955,
       "rank": 46,

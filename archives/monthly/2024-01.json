@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706390027591,
+  "endTime": 1706391241944,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -74627,6 +74627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18942,
+      "num": 18942,
+      "word": "红丝袜",
+      "onboard_time": 1706388496,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18927,
       "num": 668255,
       "word": "文物古籍展喊你来打卡",
@@ -74907,6 +74915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 15457,
+      "num": 15457,
+      "word": "延吉一早市早上6点挤满了游客",
+      "onboard_time": 1706390476,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 15390,
       "num": 22062,
       "word": "寒夜大学生不想打扰同学图书馆外背书",
@@ -74929,14 +74945,6 @@
       "onboard_time": 1704231672,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15078,
-      "num": 15078,
-      "word": "红丝袜",
-      "onboard_time": 1706388496,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15074,
@@ -75035,12 +75043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14243,
+      "num": 14243,
+      "word": "郑钦文2023年收入720万美元",
+      "onboard_time": 1706388196,
+      "rank": 36,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 14035,
       "num": 14843,
       "word": "烘手手的小猫太可爱了",
       "onboard_time": 1704740534,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13922,
+      "num": 13922,
+      "word": "赵继伟戴面具",
+      "onboard_time": 1706387177,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 13800,
@@ -75057,14 +75081,6 @@
       "onboard_time": 1704742334,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 13644,
-      "num": 13644,
-      "word": "郑钦文2023年收入720万美元",
-      "onboard_time": 1706388196,
-      "rank": 36,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 13535,
@@ -75145,14 +75161,6 @@
       "onboard_time": 1705697772,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 13053,
-      "num": 13053,
-      "word": "赵继伟戴面具",
-      "onboard_time": 1706387177,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 12978,
@@ -75324,7 +75332,7 @@
     },
     {
       "raw_hot": 10833,
-      "num": 10833,
+      "num": 12445,
       "word": "我过年回家的作用",
       "onboard_time": 1706387955,
       "rank": 46,
