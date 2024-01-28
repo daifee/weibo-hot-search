@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706437065608,
+  "endTime": 1706438035300,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1587,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1819565,
+      "num": 1819565,
+      "word": "机票价格",
+      "onboard_time": 1706433089,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1818197,
       "num": 1279754,
       "word": "于正再回应",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1704715531,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1739470,
-      "num": 1739470,
-      "word": "机票价格",
-      "onboard_time": 1706433089,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 1734440,
