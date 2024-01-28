@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706481297869,
+  "endTime": 1706483884036,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419490,
+      "num": 419490,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417362,
       "num": 417362,
       "word": "鼻子决定了颜值的上限",
@@ -65,6 +73,14 @@
       "onboard_time": 1706450490,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350844,
+      "num": 212913,
+      "word": "日本连环爆炸案凶手患癌自首",
+      "onboard_time": 1706475795,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349787,
@@ -105,6 +121,22 @@
       "onboard_time": 1706453013,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231422,
+      "num": 231422,
+      "word": "男子租宝马后抵押套现21万挥霍",
+      "onboard_time": 1706471596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226445,
+      "num": 226445,
+      "word": "银川地震",
+      "onboard_time": 1706483120,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223708,
@@ -163,6 +195,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 177343,
+      "num": 177343,
+      "word": "胡歌回应为何常在西藏青海被偶遇",
+      "onboard_time": 1706441189,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174364,
+      "num": 174364,
+      "word": "支付宝五福",
+      "onboard_time": 1706483301,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173190,
       "num": 74280,
       "word": "新款iPadPro或3月底发布",
@@ -171,27 +219,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 172252,
-      "num": 172252,
-      "word": "小学生收获1600斤年终奖",
-      "onboard_time": 1706461223,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164335,
-      "num": 72131,
-      "word": "日本连环爆炸案凶手患癌自首",
-      "onboard_time": 1706475795,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142245,
       "num": 142245,
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128688,
+      "num": 128688,
+      "word": "胖东来退休员工收到6箱春节福利",
+      "onboard_time": 1706441788,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -225,14 +265,6 @@
       "onboard_time": 1706455951,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 115004,
-      "num": 115004,
-      "word": "胖东来退休员工收到6箱春节福利",
-      "onboard_time": 1706441788,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112704,
@@ -297,14 +329,6 @@
       "onboard_time": 1706458110,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98242,
-      "num": 98242,
-      "word": "胡歌回应为何常在西藏青海被偶遇",
-      "onboard_time": 1706441189,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 96132,
@@ -379,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80682,
-      "num": 80682,
-      "word": "男子租宝马后抵押套现21万挥霍",
-      "onboard_time": 1706471596,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75560,
       "num": 75560,
       "word": "收到了童年的最后一个彩蛋",
@@ -419,6 +435,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67066,
+      "num": 67066,
+      "word": "妹妹8科成绩66分当事人否认炒作",
+      "onboard_time": 1706468596,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65827,
+      "num": 65827,
+      "word": "男子植入国产人工心脏后第一天就下床锻炼",
+      "onboard_time": 1706446891,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59590,
+      "num": 59590,
+      "word": "马思纯三天瘦了六斤",
+      "onboard_time": 1706434469,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52242,
+      "num": 52242,
+      "word": "纽波特2比4曼联",
+      "onboard_time": 1706483482,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51353,
       "num": 51353,
       "word": "刘诗诗首次参加春晚联排",
@@ -427,20 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50888,
-      "num": 23900,
-      "word": "妹妹8科成绩66分当事人否认炒作",
-      "onboard_time": 1706468596,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38765,
-      "num": 38765,
-      "word": "马思纯三天瘦了六斤",
-      "onboard_time": 1706434469,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 40071,
+      "num": 40071,
+      "word": "8种负面情绪加速衰老",
+      "onboard_time": 1706474714,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38717,
@@ -451,12 +491,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37603,
+      "num": 37603,
+      "word": "常远比岳云鹏早26年上春晚",
+      "onboard_time": 1706468717,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36649,
+      "num": 36649,
+      "word": "关晓彤是来春晚找沈腾的吗",
+      "onboard_time": 1706437769,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35486,
       "num": 35486,
       "word": "赵露思新年礼盒",
       "onboard_time": 1706448749,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34153,
+      "num": 34153,
+      "word": "颐和园龙凤光影突然出现太惊艳",
+      "onboard_time": 1706477116,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 32554,
+      "num": 32554,
+      "word": "大小杨哥版马弓手关羽请战华雄",
+      "onboard_time": 1706479396,
+      "rank": 42,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 32009,
@@ -467,12 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27936,
-      "num": 32414,
-      "word": "男子植入国产人工心脏后第一天就下床锻炼",
-      "onboard_time": 1706446891,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 28968,
+      "num": 28968,
+      "word": "红月亮",
+      "onboard_time": 1706447910,
+      "rank": 44,
+      "category": "自然"
     },
     {
       "raw_hot": 25451,
@@ -483,52 +555,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 23906,
-      "num": 23906,
-      "word": "8种负面情绪加速衰老",
-      "onboard_time": 1706474714,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22035,
-      "num": 22035,
-      "word": "大小杨哥版马弓手关羽请战华雄",
-      "onboard_time": 1706479396,
-      "rank": 42,
-      "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 20539,
-      "num": 20539,
-      "word": "红月亮",
-      "onboard_time": 1706447910,
-      "rank": 44,
-      "category": "自然"
-    },
-    {
-      "raw_hot": 19060,
-      "num": 19060,
-      "word": "颐和园龙凤光影突然出现太惊艳",
-      "onboard_time": 1706477116,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 18028,
       "num": 24116,
       "word": "融合嘻哈盛典",
       "onboard_time": 1706465661,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17694,
-      "num": 17694,
-      "word": "常远比岳云鹏早26年上春晚",
-      "onboard_time": 1706468717,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 16902,
@@ -547,7 +579,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 4771,
+      "raw_hot": 4896,
       "num": 615960,
       "word": "铁花雨下舞龙年味这就来了",
       "onboard_time": 1706404948,

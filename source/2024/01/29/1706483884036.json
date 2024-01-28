@@ -1,0 +1,410 @@
+{
+  "runTime": 1706483884036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 419490,
+        "num": 419490,
+        "word": "小学生收获1600斤年终奖",
+        "onboard_time": 1706461223,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390177,
+        "num": 390177,
+        "word": "火车上的床单被罩干净吗",
+        "onboard_time": 1706442687,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4896,
+        "num": 376257,
+        "word": "铁花雨下舞龙年味这就来了",
+        "onboard_time": 1706404948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363974,
+        "num": 363974,
+        "word": "福原爱首场直播带货额不足2.5万元",
+        "onboard_time": 1706450793,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337151,
+        "num": 337151,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335450,
+        "num": 335450,
+        "word": "10省将出现暴雪或大暴雪",
+        "onboard_time": 1706438371,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231422,
+        "num": 231422,
+        "word": "男子租宝马后抵押套现21万挥霍",
+        "onboard_time": 1706471596,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226445,
+        "num": 226445,
+        "word": "银川地震",
+        "onboard_time": 1706483120,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220809,
+        "num": 220809,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218963,
+        "num": 218963,
+        "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
+        "onboard_time": 1706452113,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350844,
+        "num": 212913,
+        "word": "日本连环爆炸案凶手患癌自首",
+        "onboard_time": 1706475795,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191642,
+        "num": 191642,
+        "word": "宋轶新加坡探亲",
+        "onboard_time": 1706450793,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177343,
+        "num": 177343,
+        "word": "胡歌回应为何常在西藏青海被偶遇",
+        "onboard_time": 1706441189,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174364,
+        "num": 174364,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128688,
+        "num": 128688,
+        "word": "胖东来退休员工收到6箱春节福利",
+        "onboard_time": 1706441788,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108077,
+        "num": 108077,
+        "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+        "onboard_time": 1706446352,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102634,
+        "num": 102634,
+        "word": "安吉都长这么高了",
+        "onboard_time": 1706453013,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95448,
+        "num": 95448,
+        "word": "古巨基回应小舅子欠债数百万",
+        "onboard_time": 1706442751,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87045,
+        "num": 87045,
+        "word": "蒙娜丽莎又遭泼墨了",
+        "onboard_time": 1706445150,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80557,
+        "num": 80557,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93862,
+        "num": 80330,
+        "word": "女子称使用10年微信无故被封",
+        "onboard_time": 1706441847,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78907,
+        "num": 78907,
+        "word": "用回现金的年轻人终于攒下钱了",
+        "onboard_time": 1706441132,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73334,
+        "num": 73334,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67066,
+        "num": 67066,
+        "word": "妹妹8科成绩66分当事人否认炒作",
+        "onboard_time": 1706468596,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65827,
+        "num": 65827,
+        "word": "男子植入国产人工心脏后第一天就下床锻炼",
+        "onboard_time": 1706446891,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64316,
+        "num": 64316,
+        "word": "新款iPadPro或3月底发布",
+        "onboard_time": 1706459547,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63741,
+        "num": 63741,
+        "word": "这6类食物必须焯水",
+        "onboard_time": 1706441430,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62087,
+        "num": 62087,
+        "word": "林心如晒十年前后对比照",
+        "onboard_time": 1706444011,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59590,
+        "num": 59590,
+        "word": "马思纯三天瘦了六斤",
+        "onboard_time": 1706434469,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55251,
+        "num": 55251,
+        "word": "月嫂偷带安眠药上户被抓包",
+        "onboard_time": 1706429909,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54425,
+        "num": 54425,
+        "word": "得州兵营美军士兵开枪互射",
+        "onboard_time": 1706434351,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52856,
+        "num": 52856,
+        "word": "肖战邀您相聚2024中国网络视听年度盛典",
+        "onboard_time": 1706453013,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52242,
+        "num": 52242,
+        "word": "纽波特2比4曼联",
+        "onboard_time": 1706483482,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51947,
+        "num": 51947,
+        "word": "一念关山收视率飞升",
+        "onboard_time": 1706447490,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51181,
+        "num": 51181,
+        "word": "3个意想不到的伤胃习惯",
+        "onboard_time": 1706456550,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49354,
+        "num": 49354,
+        "word": "过年美甲",
+        "onboard_time": 1706445091,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 43256,
+        "num": 43256,
+        "word": "丁泽仁古装",
+        "onboard_time": 1706452591,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40071,
+        "num": 40071,
+        "word": "8种负面情绪加速衰老",
+        "onboard_time": 1706474714,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39534,
+        "num": 39534,
+        "word": "每个省都有自己的噩梦",
+        "onboard_time": 1706454750,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37603,
+        "num": 37603,
+        "word": "常远比岳云鹏早26年上春晚",
+        "onboard_time": 1706468717,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37127,
+        "num": 37127,
+        "word": "内娱杂志销量排行",
+        "onboard_time": 1706456731,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36649,
+        "num": 36649,
+        "word": "关晓彤是来春晚找沈腾的吗",
+        "onboard_time": 1706437769,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34153,
+        "num": 34153,
+        "word": "颐和园龙凤光影突然出现太惊艳",
+        "onboard_time": 1706477116,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34068,
+        "num": 34068,
+        "word": "彩礼防谈崩技巧",
+        "onboard_time": 1706454993,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32965,
+        "num": 32965,
+        "word": "周也通行证照片是粉丝P的",
+        "onboard_time": 1706449953,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32554,
+        "num": 32554,
+        "word": "大小杨哥版马弓手关羽请战华雄",
+        "onboard_time": 1706479396,
+        "rank": 45,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 31050,
+        "num": 31050,
+        "word": "迪丽热巴首位超like破3万女星",
+        "onboard_time": 1706451029,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30041,
+        "num": 30041,
+        "word": "白桃星座",
+        "onboard_time": 1706452113,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28968,
+        "num": 28968,
+        "word": "红月亮",
+        "onboard_time": 1706447910,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 28131,
+        "num": 28131,
+        "word": "秋瓷炫近期状态",
+        "onboard_time": 1706444549,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要坚持以推动高质量发展为主题#"
+    }
+  }
+}
