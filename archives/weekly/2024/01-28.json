@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706448827997,
+  "endTime": 1706451232344,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -59,20 +59,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1374721,
+      "num": 1374721,
+      "word": "火车上的床单被罩干净吗",
+      "onboard_time": 1706442687,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1362080,
       "num": 1362080,
       "word": "中泰签证互免",
       "onboard_time": 1706417969,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1345616,
-      "num": 1345616,
-      "word": "火车上的床单被罩干净吗",
-      "onboard_time": 1706442687,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1247834,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829126,
+      "num": 829126,
+      "word": "一念关山收视率飞升",
+      "onboard_time": 1706447490,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 825127,
       "num": 825127,
       "word": "龙年央视春晚第三次联排",
@@ -227,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745308,
-      "num": 745308,
-      "word": "一念关山收视率飞升",
-      "onboard_time": 1706447490,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 820184,
+      "num": 820184,
+      "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+      "onboard_time": 1706446352,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739223,
@@ -321,14 +329,6 @@
       "onboard_time": 1706430506,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 631178,
-      "num": 631178,
-      "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
-      "onboard_time": 1706446352,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 622158,
@@ -659,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 396131,
+      "num": 396131,
+      "word": "周也通行证照片是粉丝P的",
+      "onboard_time": 1706449953,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395662,
       "num": 395662,
       "word": "林心如晒十年前后对比照",
@@ -721,6 +729,14 @@
       "onboard_time": 1706446411,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368135,
+      "num": 368135,
+      "word": "董明珠称格力不关心股价",
+      "onboard_time": 1706448392,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 356037,
@@ -835,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311639,
+      "num": 311639,
+      "word": "宋轶新加坡探亲",
+      "onboard_time": 1706450793,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308802,
       "num": 209152,
       "word": "妈妈藏婚鞋的水平",
@@ -849,6 +873,14 @@
       "onboard_time": 1706416887,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 306584,
+      "num": 306584,
+      "word": "第一次觉得手机外放声音不刺耳了",
+      "onboard_time": 1706450490,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 304753,
@@ -923,7 +955,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279735,
+      "raw_hot": 281544,
       "num": 244573,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
       "onboard_time": 1706446891,
@@ -1099,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231656,
+      "num": 231656,
+      "word": "迪丽热巴首位超like破3万女星",
+      "onboard_time": 1706451029,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231169,
       "num": 231169,
       "word": "花花有了新玩具",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1706414248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220718,
+      "num": 220718,
+      "word": "福原爱首场直播带货额不足2.5万元",
+      "onboard_time": 1706450793,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 220592,
@@ -1233,14 +1281,6 @@
       "onboard_time": 1706399543,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210418,
-      "num": 210418,
-      "word": "董明珠称格力不关心股价",
-      "onboard_time": 1706448392,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 208650,
@@ -1555,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165513,
+      "num": 165513,
+      "word": "赵露思新年礼盒",
+      "onboard_time": 1706448749,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164769,
       "num": 164769,
       "word": "昆明动物园表示将反思并改进不足",
@@ -1739,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147737,
+      "num": 147737,
+      "word": "LNG战胜OMG",
+      "onboard_time": 1706450011,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147555,
       "num": 147555,
       "word": "喝酒不暖身越喝会越冷",
@@ -1768,6 +1824,14 @@
       "word": "还是公公情商高",
       "onboard_time": 1706407410,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143252,
+      "num": 143252,
+      "word": "两只猫出门的方式",
+      "onboard_time": 1706451153,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -1851,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135698,
+      "num": 135698,
+      "word": "陈泽直播",
+      "onboard_time": 1706436870,
+      "rank": 39,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 135211,
       "num": 135211,
       "word": "东北人骨子里的幽默属性",
@@ -1915,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130924,
-      "num": 130924,
-      "word": "赵露思新年礼盒",
-      "onboard_time": 1706448749,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130089,
       "num": 130089,
       "word": "毛不易龙年春晚第三次联排",
@@ -1963,6 +2027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 129311,
+      "num": 129311,
+      "word": "吴磊赵今麦 好嗑",
+      "onboard_time": 1706448330,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128909,
       "num": 128909,
       "word": "李维斯拟裁员约15%",
@@ -1995,12 +2067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126808,
+      "num": 126808,
+      "word": "低谷医生",
+      "onboard_time": 1706449714,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126544,
       "num": 126544,
       "word": "感觉上学的时候随便穿都好看",
       "onboard_time": 1706448392,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126217,
+      "num": 126217,
+      "word": "7岁脑瘫女孩不怕摔原因泪目",
+      "onboard_time": 1706447910,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126210,
@@ -2025,14 +2113,6 @@
       "onboard_time": 1706419287,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123139,
-      "num": 123139,
-      "word": "7岁脑瘫女孩不怕摔原因泪目",
-      "onboard_time": 1706447910,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123020,
@@ -2139,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "杨紫范丞丞醉酒戏",
+      "onboard_time": 1706449050,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114713,
       "num": 114713,
       "word": "张雨绮邀请王鹤棣合作",
@@ -2185,22 +2273,6 @@
       "onboard_time": 1706432670,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113574,
-      "num": 113574,
-      "word": "吴磊赵今麦 好嗑",
-      "onboard_time": 1706448330,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 112961,
-      "num": 112961,
-      "word": "陈泽直播",
-      "onboard_time": 1706436870,
-      "rank": 39,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 112869,
@@ -2899,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15174,
+      "num": 1217349,
+      "word": "铁花雨下舞龙年味这就来了",
+      "onboard_time": 1706404948,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13922,
       "num": 15002,
       "word": "赵继伟戴面具",
@@ -2927,14 +3007,6 @@
       "num": 1327063,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5897,
-      "num": 1217349,
-      "word": "铁花雨下舞龙年味这就来了",
-      "onboard_time": 1706404948,
       "rank": 2,
       "category": "社会新闻"
     }

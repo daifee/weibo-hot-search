@@ -1,0 +1,410 @@
+{
+  "runTime": 1706451232344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1374721,
+        "num": 1374721,
+        "word": "火车上的床单被罩干净吗",
+        "onboard_time": 1706442687,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215471,
+        "num": 1215471,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1131898,
+        "num": 1131898,
+        "word": "蒙娜丽莎又遭泼墨了",
+        "onboard_time": 1706445150,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829126,
+        "num": 829126,
+        "word": "一念关山收视率飞升",
+        "onboard_time": 1706447490,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 820184,
+        "num": 820184,
+        "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+        "onboard_time": 1706446352,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696449,
+        "num": 696449,
+        "word": "古巨基回应小舅子欠债数百万",
+        "onboard_time": 1706442751,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15174,
+        "num": 687784,
+        "word": "铁花雨下舞龙年味这就来了",
+        "onboard_time": 1706404948,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683744,
+        "num": 683744,
+        "word": "10省将出现暴雪或大暴雪",
+        "onboard_time": 1706438371,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612953,
+        "num": 612953,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396131,
+        "num": 396131,
+        "word": "周也通行证照片是粉丝P的",
+        "onboard_time": 1706449953,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394340,
+        "num": 394340,
+        "word": "过年美甲",
+        "onboard_time": 1706445091,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 368135,
+        "num": 368135,
+        "word": "董明珠称格力不关心股价",
+        "onboard_time": 1706448392,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359978,
+        "num": 359978,
+        "word": "胖东来退休员工收到6箱春节福利",
+        "onboard_time": 1706441788,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340131,
+        "num": 340131,
+        "word": "秋瓷炫近期状态",
+        "onboard_time": 1706444549,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328130,
+        "num": 328130,
+        "word": "机票价格",
+        "onboard_time": 1706433089,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311639,
+        "num": 311639,
+        "word": "宋轶新加坡探亲",
+        "onboard_time": 1706450793,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306584,
+        "num": 306584,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294675,
+        "num": 294675,
+        "word": "梅德韦杰夫跑不动了",
+        "onboard_time": 1706446411,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283948,
+        "num": 283948,
+        "word": "月嫂偷带安眠药上户被抓包",
+        "onboard_time": 1706429909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246392,
+        "num": 246392,
+        "word": "胡歌回应为何常在西藏青海被偶遇",
+        "onboard_time": 1706441189,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281544,
+        "num": 243428,
+        "word": "男子植入国产人工心脏后第一天就下床锻炼",
+        "onboard_time": 1706446891,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233250,
+        "num": 233250,
+        "word": "春晚 CP大聚会",
+        "onboard_time": 1706444309,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231656,
+        "num": 231656,
+        "word": "迪丽热巴首位超like破3万女星",
+        "onboard_time": 1706451029,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227506,
+        "num": 227506,
+        "word": "林心如晒十年前后对比照",
+        "onboard_time": 1706444011,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220718,
+        "num": 220718,
+        "word": "福原爱首场直播带货额不足2.5万元",
+        "onboard_time": 1706450793,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211144,
+        "num": 211144,
+        "word": "这6类食物必须焯水",
+        "onboard_time": 1706441430,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269760,
+        "num": 208016,
+        "word": "211毕业男子被裁瞒着妻子送外卖",
+        "onboard_time": 1706438250,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192129,
+        "num": 192129,
+        "word": "苏有朋 你们是组团来让我难堪的吗",
+        "onboard_time": 1706436448,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191729,
+        "num": 191729,
+        "word": "红月亮",
+        "onboard_time": 1706447910,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 189970,
+        "num": 189970,
+        "word": "得州兵营美军士兵开枪互射",
+        "onboard_time": 1706434351,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 178277,
+        "num": 178277,
+        "word": "女子称使用10年微信无故被封",
+        "onboard_time": 1706441847,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165513,
+        "num": 165513,
+        "word": "赵露思新年礼盒",
+        "onboard_time": 1706448749,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159675,
+        "num": 159675,
+        "word": "马思纯三天瘦了六斤",
+        "onboard_time": 1706434469,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147737,
+        "num": 147737,
+        "word": "LNG战胜OMG",
+        "onboard_time": 1706450011,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146404,
+        "num": 146404,
+        "word": "用回现金的年轻人终于攒下钱了",
+        "onboard_time": 1706441132,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143252,
+        "num": 143252,
+        "word": "两只猫出门的方式",
+        "onboard_time": 1706451153,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135698,
+        "num": 135698,
+        "word": "陈泽直播",
+        "onboard_time": 1706436870,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 132803,
+        "num": 132803,
+        "word": "张婧仪生图",
+        "onboard_time": 1706429189,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129964,
+        "num": 129964,
+        "word": "刘诗诗首次参加春晚联排",
+        "onboard_time": 1706436448,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129311,
+        "num": 129311,
+        "word": "吴磊赵今麦 好嗑",
+        "onboard_time": 1706448330,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 126808,
+        "word": "低谷医生",
+        "onboard_time": 1706449714,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126217,
+        "num": 126217,
+        "word": "7岁脑瘫女孩不怕摔原因泪目",
+        "onboard_time": 1706447910,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123209,
+        "num": 123209,
+        "word": "大胖媳妇学汉语太难了",
+        "onboard_time": 1706445871,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119405,
+        "num": 119405,
+        "word": "张元英的肌肉",
+        "onboard_time": 1706433329,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116846,
+        "num": 116846,
+        "word": "广东人最怕的天气要来了",
+        "onboard_time": 1706435130,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114727,
+        "num": 114727,
+        "word": "杨紫范丞丞醉酒戏",
+        "onboard_time": 1706449050,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109236,
+        "num": 109236,
+        "word": "关晓彤是来春晚找沈腾的吗",
+        "onboard_time": 1706437769,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108787,
+        "num": 108787,
+        "word": "韩国吃炸牙签视频爆红",
+        "onboard_time": 1706426609,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106670,
+        "num": 106670,
+        "word": "身家400亿富豪任上海掼蛋协会会长",
+        "onboard_time": 1706437588,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101837,
+        "num": 101837,
+        "word": "水晶血婚纱",
+        "onboard_time": 1706439032,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要坚持以推动高质量发展为主题#"
+    }
+  }
+}
