@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706430839675,
+  "endTime": 1706433399464,
   "band_list": [
     {
       "raw_hot": 2068559,
@@ -9,6 +9,14 @@
       "onboard_time": 1706423191,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1865460,
+      "num": 1865460,
+      "word": "月嫂偷带安眠药上户被抓包",
+      "onboard_time": 1706429909,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1652183,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738418,
+      "num": 738418,
+      "word": "张婧仪生图",
+      "onboard_time": 1706429189,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 735819,
       "num": 735819,
       "word": "德州",
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670877,
-      "num": 670877,
-      "word": "张婧仪生图",
-      "onboard_time": 1706429189,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 657398,
       "num": 657398,
       "word": "库里绝平湖人",
@@ -217,6 +225,14 @@
       "onboard_time": 1706424269,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622533,
+      "num": 622533,
+      "word": "金世佳 CP感",
+      "onboard_time": 1706430506,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 620771,
@@ -289,14 +305,6 @@
       "onboard_time": 1706416287,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 507056,
-      "num": 340024,
-      "word": "月嫂偷带安眠药上户被抓包",
-      "onboard_time": 1706429909,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504255,
@@ -395,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 461685,
+      "num": 461685,
+      "word": "人群中的迪丽热巴",
+      "onboard_time": 1706430447,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459085,
       "num": 459085,
       "word": "中国地质大学回应公示拟聘任处长之子",
@@ -459,6 +475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 395921,
+      "num": 395921,
+      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+      "onboard_time": 1706423129,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393502,
       "num": 181153,
       "word": "金鹤龙晒迪丽热巴",
@@ -481,14 +505,6 @@
       "onboard_time": 1706410647,
       "rank": 14,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 363252,
-      "num": 363252,
-      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
-      "onboard_time": 1706423129,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353664,
@@ -521,6 +537,14 @@
       "onboard_time": 1706425288,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339951,
+      "num": 339951,
+      "word": "幻兽帕鲁 抄袭",
+      "onboard_time": 1706432251,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 326327,
@@ -579,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308802,
+      "num": 207288,
+      "word": "妈妈藏婚鞋的水平",
+      "onboard_time": 1706431530,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308474,
       "num": 308474,
       "word": "螃蟹酱留存了中国酱最初的模样",
@@ -624,6 +656,14 @@
       "word": "香港飞马来西亚航班疑因机舱冒烟折返",
       "onboard_time": 1706414189,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297186,
+      "num": 297186,
+      "word": "河南一仓库起火黑烟冲天",
+      "onboard_time": 1706430989,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -771,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233958,
-      "num": 233958,
-      "word": "人群中的迪丽热巴",
-      "onboard_time": 1706430447,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 233236,
       "num": 233236,
       "word": "巩汉林发视频缅怀赵丽蓉",
@@ -809,6 +841,14 @@
       "onboard_time": 1706418808,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224145,
+      "num": 206025,
+      "word": "黄渤张艺兴面馆路透",
+      "onboard_time": 1706432009,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 222031,
@@ -873,6 +913,14 @@
       "onboard_time": 1706417428,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208618,
+      "num": 208618,
+      "word": "新年烫发",
+      "onboard_time": 1706431948,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 206342,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200213,
+      "num": 200213,
+      "word": "冰箱可能养着致命细菌",
+      "onboard_time": 1706431407,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197830,
       "num": 197830,
       "word": "仙剑四猫眼登顶",
@@ -985,14 +1041,6 @@
       "onboard_time": 1706425589,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190494,
-      "num": 190494,
-      "word": "金世佳 CP感",
-      "onboard_time": 1706430506,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187480,
@@ -1179,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154196,
+      "num": 154196,
+      "word": "白敬亭龙年春晚第三次联排",
+      "onboard_time": 1706430869,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153634,
       "num": 153634,
       "word": "勇士新死亡五小",
@@ -1227,12 +1283,28 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 148260,
+      "num": 142813,
+      "word": "林俊杰天津",
+      "onboard_time": 1706432907,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147555,
       "num": 147555,
       "word": "喝酒不暖身越喝会越冷",
       "onboard_time": 1706429548,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145928,
+      "num": 145928,
+      "word": "周末真的适合补觉",
+      "onboard_time": 1706429607,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 145030,
@@ -1419,14 +1491,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 125369,
-      "num": 125369,
-      "word": "周末真的适合补觉",
-      "onboard_time": 1706429607,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125363,
       "num": 125363,
       "word": "去年的梗多到今年还能接着用",
@@ -1523,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115926,
+      "num": 115926,
+      "word": "机票价格",
+      "onboard_time": 1706433089,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 115753,
       "num": 115753,
       "word": "泰国搜索热度激增",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1706401945,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113586,
+      "num": 113586,
+      "word": "狼队定妆照人多得像球队",
+      "onboard_time": 1706432670,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 112869,
@@ -1683,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103903,
+      "num": 103903,
+      "word": "张元英的肌肉",
+      "onboard_time": 1706433329,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103738,
       "num": 103738,
       "word": "储备多少财富才能满足养老需求",
@@ -1771,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97156,
+      "num": 97156,
+      "word": "湖南一小区物业费全免还分红每户400",
+      "onboard_time": 1706432608,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95544,
       "num": 95544,
       "word": "宋慧乔红丝袜",
@@ -1849,6 +1945,14 @@
       "onboard_time": 1706410227,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88455,
+      "num": 88455,
+      "word": "张雨绮逗王鹤棣",
+      "onboard_time": 1706433329,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88143,
@@ -2035,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48408,
+      "num": 952759,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1706428768,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47168,
       "num": 455134,
       "word": "古茗天官赐福春节限定",
@@ -2065,14 +2177,6 @@
       "onboard_time": 1706391556,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 36972,
-      "num": 952759,
-      "word": "大美中国 冰雪之约",
-      "onboard_time": 1706428768,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36143,
@@ -2129,6 +2233,14 @@
       "onboard_time": 1706381897,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15386,
+      "num": 247045,
+      "word": "蛋仔岛除夕悬念曝光",
+      "onboard_time": 1706432430,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 13922,
