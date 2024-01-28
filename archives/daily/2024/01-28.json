@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706433399464,
+  "endTime": 1706434428091,
   "band_list": [
     {
       "raw_hot": 2068559,
@@ -11,8 +11,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1865460,
-      "num": 1865460,
+      "raw_hot": 1959820,
+      "num": 1959820,
       "word": "月嫂偷带安眠药上户被抓包",
       "onboard_time": 1706429909,
       "rank": 46,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753268,
+      "num": 753268,
+      "word": "机票价格",
+      "onboard_time": 1706433089,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 738418,
       "num": 738418,
       "word": "张婧仪生图",
@@ -227,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 622533,
-      "num": 622533,
+      "raw_hot": 636411,
+      "num": 636411,
       "word": "金世佳 CP感",
       "onboard_time": 1706430506,
       "rank": 25,
@@ -403,8 +411,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 461685,
-      "num": 461685,
+      "raw_hot": 468865,
+      "num": 468865,
       "word": "人群中的迪丽热巴",
       "onboard_time": 1706430447,
       "rank": 20,
@@ -475,6 +483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 422135,
+      "num": 422135,
+      "word": "张元英的肌肉",
+      "onboard_time": 1706433329,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 395921,
       "num": 395921,
       "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
@@ -489,6 +505,14 @@
       "onboard_time": 1706368771,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 387227,
+      "num": 387227,
+      "word": "幻兽帕鲁 抄袭",
+      "onboard_time": 1706432251,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 383941,
@@ -537,14 +561,6 @@
       "onboard_time": 1706425288,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339951,
-      "num": 339951,
-      "word": "幻兽帕鲁 抄袭",
-      "onboard_time": 1706432251,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 326327,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 308802,
-      "num": 207288,
+      "num": 209152,
       "word": "妈妈藏婚鞋的水平",
       "onboard_time": 1706431530,
       "rank": 20,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229941,
+      "num": 229941,
+      "word": "新年烫发",
+      "onboard_time": 1706431948,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 224145,
       "num": 206025,
       "word": "黄渤张艺兴面馆路透",
@@ -913,14 +937,6 @@
       "onboard_time": 1706417428,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208618,
-      "num": 208618,
-      "word": "新年烫发",
-      "onboard_time": 1706431948,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 206342,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193104,
+      "num": 193104,
+      "word": "张杰春晚",
+      "onboard_time": 1706433867,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 192162,
@@ -1347,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138381,
+      "num": 138381,
+      "word": "张雨绮逗王鹤棣",
+      "onboard_time": 1706433329,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137702,
       "num": 137702,
       "word": "猫咪是如何拒绝人类的",
@@ -1571,6 +1603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117667,
+      "num": 117667,
+      "word": "得州兵营美军士兵开枪互射",
+      "onboard_time": 1706434351,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 117093,
+      "num": 117093,
+      "word": "湖南一小区物业费全免还分红每户400",
+      "onboard_time": 1706432608,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117054,
       "num": 117054,
       "word": "宝妈用小馒头吸收药物喂宝宝吃",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115926,
-      "num": 115926,
-      "word": "机票价格",
-      "onboard_time": 1706433089,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 115753,
@@ -1755,20 +1795,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104457,
+      "num": 104457,
+      "word": "WBG战胜TT",
+      "onboard_time": 1706434229,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104027,
       "num": 104027,
       "word": "爸爸给儿子带的玩具驾驶室都放不下",
       "onboard_time": 1706408549,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103903,
-      "num": 103903,
-      "word": "张元英的肌肉",
-      "onboard_time": 1706433329,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103738,
@@ -1859,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97156,
-      "num": 97156,
-      "word": "湖南一小区物业费全免还分红每户400",
-      "onboard_time": 1706432608,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95544,
       "num": 95544,
       "word": "宋慧乔红丝袜",
@@ -1945,14 +1977,6 @@
       "onboard_time": 1706410227,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88455,
-      "num": 88455,
-      "word": "张雨绮逗王鹤棣",
-      "onboard_time": 1706433329,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 88143,
@@ -2139,7 +2163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48408,
+      "raw_hot": 49611,
       "num": 952759,
       "word": "大美中国 冰雪之约",
       "onboard_time": 1706428768,
@@ -2219,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26730,
+      "num": 267620,
+      "word": "蛋仔岛除夕悬念曝光",
+      "onboard_time": 1706432430,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23688,
       "num": 23688,
       "word": "明日方舟",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1706381897,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15386,
-      "num": 247045,
-      "word": "蛋仔岛除夕悬念曝光",
-      "onboard_time": 1706432430,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 13922,

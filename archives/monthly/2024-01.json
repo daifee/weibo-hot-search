@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706433399464,
+  "endTime": 1706434428091,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1259,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1959820,
+      "num": 1959820,
+      "word": "月嫂偷带安眠药上户被抓包",
+      "onboard_time": 1706429909,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1955941,
       "num": 1955941,
       "word": "王嘉尔王一博坐一起",
@@ -1432,14 +1440,6 @@
       "word": "老人突然离世三十九万元存款难取出",
       "onboard_time": 1705391970,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1865460,
-      "num": 1865460,
-      "word": "月嫂偷带安眠药上户被抓包",
-      "onboard_time": 1706429909,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -9787,6 +9787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753268,
+      "num": 753268,
+      "word": "机票价格",
+      "onboard_time": 1706433089,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 753065,
       "num": 753065,
       "word": "张琳",
@@ -12699,6 +12707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 636411,
+      "num": 636411,
+      "word": "金世佳 CP感",
+      "onboard_time": 1706430506,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 635627,
       "num": 635627,
       "word": "陈小春被Jasper问得汗流浃背了",
@@ -13025,14 +13041,6 @@
       "onboard_time": 1705671030,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 622533,
-      "num": 622533,
-      "word": "金世佳 CP感",
-      "onboard_time": 1706430506,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 622174,
@@ -19059,6 +19067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468865,
+      "num": 468865,
+      "word": "人群中的迪丽热巴",
+      "onboard_time": 1706430447,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468752,
       "num": 468752,
       "word": "苹果手表被曝将移除血氧传感器技术",
@@ -19385,14 +19401,6 @@
       "onboard_time": 1706076150,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461685,
-      "num": 461685,
-      "word": "人群中的迪丽热巴",
-      "onboard_time": 1706430447,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 461654,
@@ -21249,6 +21257,14 @@
       "onboard_time": 1704962249,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 422135,
+      "num": 422135,
+      "word": "张元英的肌肉",
+      "onboard_time": 1706433329,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422103,
@@ -23169,6 +23185,14 @@
       "onboard_time": 1704947738,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387227,
+      "num": 387227,
+      "word": "幻兽帕鲁 抄袭",
+      "onboard_time": 1706432251,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 387222,
@@ -25803,14 +25827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 339951,
-      "num": 339951,
-      "word": "幻兽帕鲁 抄袭",
-      "onboard_time": 1706432251,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 339929,
       "num": 733234,
       "word": "为什么有些女生会长胡子",
@@ -28044,7 +28060,7 @@
     },
     {
       "raw_hot": 308802,
-      "num": 207288,
+      "num": 209152,
       "word": "妈妈藏婚鞋的水平",
       "onboard_time": 1706431530,
       "rank": 20,
@@ -36323,6 +36339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229941,
+      "num": 229941,
+      "word": "新年烫发",
+      "onboard_time": 1706431948,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 229793,
       "num": 229793,
       "word": "荣耀保时捷",
@@ -40121,14 +40145,6 @@
       "onboard_time": 1705242872,
       "rank": 32,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 208618,
-      "num": 208618,
-      "word": "新年烫发",
-      "onboard_time": 1706431948,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 208501,
@@ -44449,6 +44465,14 @@
       "onboard_time": 1704193473,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193104,
+      "num": 193104,
+      "word": "张杰春晚",
+      "onboard_time": 1706433867,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 193028,
@@ -60203,6 +60227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138381,
+      "num": 138381,
+      "word": "张雨绮逗王鹤棣",
+      "onboard_time": 1706433329,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138369,
       "num": 138369,
       "word": "CBA全明星首发公布",
@@ -66675,6 +66707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117667,
+      "num": 117667,
+      "word": "得州兵营美军士兵开枪互射",
+      "onboard_time": 1706434351,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 117642,
       "num": 117642,
       "word": "接在外打工的妈妈回家过年",
@@ -66793,6 +66833,14 @@
       "onboard_time": 1704640953,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 117093,
+      "num": 117093,
+      "word": "湖南一小区物业费全免还分红每户400",
+      "onboard_time": 1706432608,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117071,
@@ -66985,14 +67033,6 @@
       "onboard_time": 1705887805,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115926,
-      "num": 115926,
-      "word": "机票价格",
-      "onboard_time": 1706433089,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 115891,
@@ -69355,6 +69395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104457,
+      "num": 104457,
+      "word": "WBG战胜TT",
+      "onboard_time": 1706434229,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104427,
       "num": 104427,
       "word": "与李泽言的第七年",
@@ -69497,14 +69545,6 @@
       "onboard_time": 1704794670,
       "rank": 20,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 103903,
-      "num": 103903,
-      "word": "张元英的肌肉",
-      "onboard_time": 1706433329,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103871,
@@ -70603,14 +70643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97156,
-      "num": 97156,
-      "word": "湖南一小区物业费全免还分红每户400",
-      "onboard_time": 1706432608,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97123,
       "num": 97123,
       "word": "钱恒成瑶 有情人修得正果",
@@ -71641,14 +71673,6 @@
       "onboard_time": 1704611729,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88455,
-      "num": 88455,
-      "word": "张雨绮逗王鹤棣",
-      "onboard_time": 1706433329,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 88229,
@@ -74475,6 +74499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49611,
+      "num": 1384599,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1705553551,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49458,
       "num": 49458,
       "word": "还好蒋翼长嘴了",
@@ -74561,14 +74593,6 @@
       "onboard_time": 1704119320,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 48408,
-      "num": 1384599,
-      "word": "大美中国 冰雪之约",
-      "onboard_time": 1705553551,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48166,
@@ -75939,6 +75963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26730,
+      "num": 267620,
+      "word": "蛋仔岛除夕悬念曝光",
+      "onboard_time": 1706432430,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26706,
       "num": 23853,
       "word": "郑恺说繁花是全行业的强心针",
@@ -76617,14 +76649,6 @@
       "onboard_time": 1705430115,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 15386,
-      "num": 247045,
-      "word": "蛋仔岛除夕悬念曝光",
-      "onboard_time": 1706432430,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 15250,
