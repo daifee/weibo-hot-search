@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706430034256,
+  "endTime": 1706430839675,
   "band_list": [
     {
       "raw_hot": 2068559,
@@ -83,8 +83,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050202,
+      "num": 1050202,
+      "word": "韩国吃炸牙签视频爆红",
+      "onboard_time": 1706426609,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020856,
-      "num": 699690,
+      "num": 936011,
       "word": "煮饺子时中途要不要加凉水",
       "onboard_time": 1706424868,
       "rank": 21,
@@ -113,14 +121,6 @@
       "onboard_time": 1706402008,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 951896,
-      "num": 951896,
-      "word": "韩国吃炸牙签视频爆红",
-      "onboard_time": 1706426609,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 941175,
@@ -193,6 +193,14 @@
       "onboard_time": 1706355869,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670877,
+      "num": 670877,
+      "word": "张婧仪生图",
+      "onboard_time": 1706429189,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 657398,
@@ -281,6 +289,14 @@
       "onboard_time": 1706416287,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507056,
+      "num": 340024,
+      "word": "月嫂偷带安眠药上户被抓包",
+      "onboard_time": 1706429909,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504255,
@@ -441,14 +457,6 @@
       "onboard_time": 1706364333,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 431692,
-      "num": 431692,
-      "word": "张婧仪生图",
-      "onboard_time": 1706429189,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 393502,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233958,
+      "num": 233958,
+      "word": "人群中的迪丽热巴",
+      "onboard_time": 1706430447,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233236,
       "num": 233236,
       "word": "巩汉林发视频缅怀赵丽蓉",
@@ -825,6 +841,14 @@
       "onboard_time": 1706340387,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212147,
+      "num": 193692,
+      "word": "檀健次ins粉丝超100万",
+      "onboard_time": 1706430087,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 211591,
@@ -931,6 +955,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 200428,
+      "num": 200428,
+      "word": "原来这才是真榨汁肌",
+      "onboard_time": 1706429729,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197830,
       "num": 197830,
       "word": "仙剑四猫眼登顶",
@@ -953,6 +985,14 @@
       "onboard_time": 1706425589,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190494,
+      "num": 190494,
+      "word": "金世佳 CP感",
+      "onboard_time": 1706430506,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187480,
@@ -1163,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150418,
+      "num": 150418,
+      "word": "全球只存在9束的永恒之火",
+      "onboard_time": 1706427989,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149552,
       "num": 123085,
       "word": "梦天拍热巴",
@@ -1179,20 +1227,20 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 147555,
+      "num": 147555,
+      "word": "喝酒不暖身越喝会越冷",
+      "onboard_time": 1706429548,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "NBA春晚真好看",
       "onboard_time": 1706419648,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144900,
-      "num": 144900,
-      "word": "喝酒不暖身越喝会越冷",
-      "onboard_time": 1706429548,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 144725,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1706413229,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140237,
-      "num": 126535,
-      "word": "全球只存在9束的永恒之火",
-      "onboard_time": 1706427989,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 138399,
@@ -1355,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128447,
+      "num": 153922,
+      "word": "周深演绎世界无声但爱震耳欲聋",
+      "onboard_time": 1706429672,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127250,
       "num": 127250,
       "word": "赶春运的农民工背包比人都高",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1706403806,
       "rank": 36,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 125369,
+      "num": 125369,
+      "word": "周末真的适合补觉",
+      "onboard_time": 1706429607,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 125363,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116382,
-      "num": 116382,
-      "word": "原来这才是真榨汁肌",
-      "onboard_time": 1706429729,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115753,
@@ -1611,14 +1659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 106198,
-      "num": 106198,
-      "word": "周末真的适合补觉",
-      "onboard_time": 1706429607,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105824,
       "num": 105824,
       "word": "男生戴簪花也很好看",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1706425227,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 102299,
+      "num": 102299,
+      "word": "中山文旅邀请苏炳添回家乡看村BA",
+      "onboard_time": 1706429427,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102065,
@@ -1721,22 +1769,6 @@
       "onboard_time": 1706409268,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98348,
-      "num": 98348,
-      "word": "周深演绎世界无声但爱震耳欲聋",
-      "onboard_time": 1706429672,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 97716,
-      "num": 97716,
-      "word": "月嫂偷带安眠药上户被抓包",
-      "onboard_time": 1706429909,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95544,
@@ -1825,6 +1857,14 @@
       "onboard_time": 1706361750,
       "rank": 43,
       "category": "科学科普,艺人"
+    },
+    {
+      "raw_hot": 86980,
+      "num": 86980,
+      "word": "张远和粉丝鞠躬",
+      "onboard_time": 1706430750,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86977,
@@ -2027,6 +2067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36972,
+      "num": 952759,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1706428768,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36143,
       "num": 251122,
       "word": "蛋仔岛来了外卖侠",
@@ -2057,14 +2105,6 @@
       "onboard_time": 1706388196,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 30919,
-      "num": 727201,
-      "word": "大美中国 冰雪之约",
-      "onboard_time": 1706428768,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29342,
@@ -2132,6 +2172,9 @@
     },
     {
       "word": "#将中法关系打造得更加牢固和富有活力#"
+    },
+    {
+      "word": "#我们要坚持以推动高质量发展为主题#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706430839675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2002658,
+        "num": 2002658,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1050202,
+        "num": 1050202,
+        "word": "韩国吃炸牙签视频爆红",
+        "onboard_time": 1706426609,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36972,
+        "num": 952759,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1706428768,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936011,
+        "num": 936011,
+        "word": "煮饺子时中途要不要加凉水",
+        "onboard_time": 1706424868,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 670877,
+        "num": 670877,
+        "word": "张婧仪生图",
+        "onboard_time": 1706429189,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465798,
+        "num": 465798,
+        "word": "成龙自己开车录河南春晚",
+        "onboard_time": 1706424269,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416402,
+        "num": 416402,
+        "word": "证监会全面暂停限售股出借",
+        "onboard_time": 1706426850,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 381345,
+        "num": 381345,
+        "word": "杨幂皮衣半扎发",
+        "onboard_time": 1706423909,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355926,
+        "num": 355926,
+        "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+        "onboard_time": 1706423129,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230503,
+        "num": 344527,
+        "word": "事业编招聘公示领导子女引争议",
+        "onboard_time": 1706413107,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507056,
+        "num": 340024,
+        "word": "月嫂偷带安眠药上户被抓包",
+        "onboard_time": 1706429909,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333630,
+        "num": 333630,
+        "word": "谷爱凌退出XGames坡障比赛",
+        "onboard_time": 1706423791,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322650,
+        "num": 322650,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297272,
+        "num": 297272,
+        "word": "德州",
+        "onboard_time": 1706421630,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269324,
+        "num": 269324,
+        "word": "古茗 天官赐福",
+        "onboard_time": 1706422829,
+        "rank": 14,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 268087,
+        "num": 268087,
+        "word": "张本智和日锦赛夺冠",
+        "onboard_time": 1706427870,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259038,
+        "num": 259038,
+        "word": "谷爱凌将代表中国征战2026冬奥会",
+        "onboard_time": 1706418089,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252544,
+        "num": 252544,
+        "word": "再就业男团龙年春晚第三次联排",
+        "onboard_time": 1706428049,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249371,
+        "num": 249371,
+        "word": "王者新英雄敖隐",
+        "onboard_time": 1706424808,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223342,
+        "num": 240772,
+        "word": "曝檀健次最近在看别墅",
+        "onboard_time": 1706422708,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233958,
+        "num": 233958,
+        "word": "人群中的迪丽热巴",
+        "onboard_time": 1706430447,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223965,
+        "num": 223965,
+        "word": "在朋友圈发亲密照的们你们想干嘛",
+        "onboard_time": 1706424808,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200428,
+        "num": 200428,
+        "word": "原来这才是真榨汁肌",
+        "onboard_time": 1706429729,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194465,
+        "num": 194465,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212147,
+        "num": 193692,
+        "word": "檀健次ins粉丝超100万",
+        "onboard_time": 1706430087,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190494,
+        "num": 190494,
+        "word": "金世佳 CP感",
+        "onboard_time": 1706430506,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188806,
+        "num": 188806,
+        "word": "河南发现原油资源量达1.07亿吨大油田",
+        "onboard_time": 1706429068,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168122,
+        "num": 168122,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159851,
+        "num": 159851,
+        "word": "两个i人在乱用礼貌用语",
+        "onboard_time": 1706425589,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128447,
+        "num": 153922,
+        "word": "周深演绎世界无声但爱震耳欲聋",
+        "onboard_time": 1706429672,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150418,
+        "num": 150418,
+        "word": "全球只存在9束的永恒之火",
+        "onboard_time": 1706427989,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 147555,
+        "word": "喝酒不暖身越喝会越冷",
+        "onboard_time": 1706429548,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139292,
+        "num": 139292,
+        "word": "LV老板超马斯克重夺全球首富",
+        "onboard_time": 1706421150,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132140,
+        "num": 132140,
+        "word": "詹姆斯绝杀勇士",
+        "onboard_time": 1706418688,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125369,
+        "num": 125369,
+        "word": "周末真的适合补觉",
+        "onboard_time": 1706429607,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121677,
+        "num": 121677,
+        "word": "孙悦谈为何隐退8年",
+        "onboard_time": 1706416287,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119897,
+        "num": 119897,
+        "word": "中泰签证互免",
+        "onboard_time": 1706417969,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117909,
+        "num": 117909,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109372,
+        "num": 109372,
+        "word": "繁花套拍同名电影将上映",
+        "onboard_time": 1706428827,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107405,
+        "num": 107405,
+        "word": "十个勤天现身龙年春晚彩排",
+        "onboard_time": 1706420010,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 102299,
+        "word": "中山文旅邀请苏炳添回家乡看村BA",
+        "onboard_time": 1706429427,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 102226,
+        "word": "龙年央视春晚第三次联排",
+        "onboard_time": 1706415030,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100802,
+        "num": 100802,
+        "word": "icon官宣退役",
+        "onboard_time": 1706417308,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96849,
+        "num": 96849,
+        "word": "男子1元抢拍花瓶付款秒变9999元",
+        "onboard_time": 1706418808,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94355,
+        "num": 94355,
+        "word": "蔡徐坤新歌倒计时",
+        "onboard_time": 1706425110,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92574,
+        "num": 92574,
+        "word": "麻将机越来越先进了",
+        "onboard_time": 1706417668,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91987,
+        "num": 91987,
+        "word": "北方人包饺子皮现擀",
+        "onboard_time": 1706424868,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91546,
+        "num": 91546,
+        "word": "毛不易龙年春晚第三次联排",
+        "onboard_time": 1706426429,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86980,
+        "num": 86980,
+        "word": "张远和粉丝鞠躬",
+        "onboard_time": 1706430750,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83590,
+        "num": 83590,
+        "word": "碍国流量不能纵容",
+        "onboard_time": 1706425288,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要坚持以推动高质量发展为主题#"
+    }
+  }
+}
