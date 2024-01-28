@@ -1,0 +1,410 @@
+{
+  "runTime": 1706447936894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418863,
+        "num": 1418863,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1345616,
+        "num": 1345616,
+        "word": "火车上的床单被罩干净吗",
+        "onboard_time": 1706442687,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385,
+        "num": 1142434,
+        "word": "铁花雨下舞龙年味这就来了",
+        "onboard_time": 1706404948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018037,
+        "num": 1018037,
+        "word": "蒙娜丽莎又遭泼墨了",
+        "onboard_time": 1706445150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981434,
+        "num": 981434,
+        "word": "古巨基回应小舅子欠债数百万",
+        "onboard_time": 1706442751,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976488,
+        "num": 976488,
+        "word": "10省将出现暴雪或大暴雪",
+        "onboard_time": 1706438371,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667023,
+        "num": 667023,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 538804,
+        "num": 538804,
+        "word": "过年美甲",
+        "onboard_time": 1706445091,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 532756,
+        "num": 532756,
+        "word": "秋瓷炫近期状态",
+        "onboard_time": 1706444549,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505527,
+        "num": 505527,
+        "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+        "onboard_time": 1706446352,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448614,
+        "num": 448614,
+        "word": "胖东来退休员工收到6箱春节福利",
+        "onboard_time": 1706441788,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447158,
+        "num": 447158,
+        "word": "辛纳首夺大满贯冠军",
+        "onboard_time": 1706445450,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400489,
+        "num": 400489,
+        "word": "胡歌回应为何常在西藏青海被偶遇",
+        "onboard_time": 1706441189,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382653,
+        "num": 382653,
+        "word": "春晚 CP大聚会",
+        "onboard_time": 1706444309,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372172,
+        "num": 372172,
+        "word": "梅德韦杰夫跑不动了",
+        "onboard_time": 1706446411,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357971,
+        "num": 357971,
+        "word": "月嫂偷带安眠药上户被抓包",
+        "onboard_time": 1706429909,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350296,
+        "num": 350296,
+        "word": "林心如晒十年前后对比照",
+        "onboard_time": 1706444011,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329480,
+        "num": 329480,
+        "word": "一念关山收视率飞升",
+        "onboard_time": 1706447490,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326179,
+        "num": 326179,
+        "word": "水晶血婚纱",
+        "onboard_time": 1706439032,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 318611,
+        "num": 318611,
+        "word": "机票价格",
+        "onboard_time": 1706433089,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310850,
+        "num": 310850,
+        "word": "211毕业男子被裁瞒着妻子送外卖",
+        "onboard_time": 1706438250,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244573,
+        "num": 244573,
+        "word": "男子植入国产人工心脏后第一天就下床锻炼",
+        "onboard_time": 1706446891,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239783,
+        "num": 239783,
+        "word": "马思纯三天瘦了六斤",
+        "onboard_time": 1706434469,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227645,
+        "num": 227645,
+        "word": "得州兵营美军士兵开枪互射",
+        "onboard_time": 1706434351,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204614,
+        "num": 204614,
+        "word": "苏有朋 你们是组团来让我难堪的吗",
+        "onboard_time": 1706436448,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 8768,
+        "num": 189374,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180562,
+        "num": 180562,
+        "word": "这6类食物必须焯水",
+        "onboard_time": 1706441430,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175891,
+        "num": 175891,
+        "word": "女子称使用10年微信无故被封",
+        "onboard_time": 1706441847,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173928,
+        "num": 173928,
+        "word": "张元英的肌肉",
+        "onboard_time": 1706433329,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166477,
+        "num": 166477,
+        "word": "总台龙年春晚第三次彩排",
+        "onboard_time": 1706445029,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159549,
+        "num": 159549,
+        "word": "大胖媳妇学汉语太难了",
+        "onboard_time": 1706445871,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158608,
+        "num": 158608,
+        "word": "小孩哥一次外向换来一生内向",
+        "onboard_time": 1706445511,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158385,
+        "num": 158385,
+        "word": "刘诗诗首次参加春晚联排",
+        "onboard_time": 1706436448,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156906,
+        "num": 156906,
+        "word": "韩国吃炸牙签视频爆红",
+        "onboard_time": 1706426609,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150227,
+        "num": 150227,
+        "word": "新加坡偶遇王鹤棣逛街",
+        "onboard_time": 1706444011,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141054,
+        "num": 141054,
+        "word": "张婧仪生图",
+        "onboard_time": 1706429189,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135672,
+        "num": 135672,
+        "word": "用回现金的年轻人终于攒下钱了",
+        "onboard_time": 1706441132,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129214,
+        "num": 129214,
+        "word": "关晓彤是来春晚找沈腾的吗",
+        "onboard_time": 1706437769,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121816,
+        "num": 121816,
+        "word": "身家400亿富豪任上海掼蛋协会会长",
+        "onboard_time": 1706437588,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119996,
+        "num": 119996,
+        "word": "广东人最怕的天气要来了",
+        "onboard_time": 1706435130,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119987,
+        "num": 119987,
+        "word": "B太二刷哈尔滨",
+        "onboard_time": 1706444252,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118739,
+        "num": 118739,
+        "word": "人群中的迪丽热巴",
+        "onboard_time": 1706430447,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111419,
+        "num": 111419,
+        "word": "炎亚纶希望能做贡献社会的事",
+        "onboard_time": 1706446111,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108962,
+        "num": 108962,
+        "word": "澳网男单决赛",
+        "onboard_time": 1706435909,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107446,
+        "num": 107446,
+        "word": "狗狗 考上编也不能断情绝欲",
+        "onboard_time": 1706438489,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105112,
+        "num": 105112,
+        "word": "辛纳连扳两盘",
+        "onboard_time": 1706445749,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101015,
+        "num": 101015,
+        "word": "柯南 全犯人大赏",
+        "onboard_time": 1706447794,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100776,
+        "num": 100776,
+        "word": "红月亮",
+        "onboard_time": 1706447910,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 97851,
+        "num": 97851,
+        "word": "7岁脑瘫女孩不怕摔原因泪目",
+        "onboard_time": 1706447910,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96113,
+        "num": 96113,
+        "word": "整活还得是东北人",
+        "onboard_time": 1706446712,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要坚持以推动高质量发展为主题#"
+    }
+  }
+}

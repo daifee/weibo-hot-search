@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706445777154,
+  "endTime": 1706447936894,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1345616,
+      "num": 1345616,
+      "word": "火车上的床单被罩干净吗",
+      "onboard_time": 1706442687,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1247834,
       "num": 294015,
       "word": "北京地震",
@@ -129,6 +137,14 @@
       "onboard_time": 1706424868,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1018037,
+      "num": 1018037,
+      "word": "蒙娜丽莎又遭泼墨了",
+      "onboard_time": 1706445150,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1002238,
@@ -208,14 +224,6 @@
       "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
       "onboard_time": 1706410167,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785327,
-      "num": 785327,
-      "word": "火车上的床单被罩干净吗",
-      "onboard_time": 1706442687,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538804,
+      "num": 538804,
+      "word": "过年美甲",
+      "onboard_time": 1706445091,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 534103,
       "num": 534103,
       "word": "得州兵营美军士兵开枪互射",
@@ -427,12 +443,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 532756,
+      "num": 532756,
+      "word": "秋瓷炫近期状态",
+      "onboard_time": 1706444549,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521934,
       "num": 521934,
       "word": "孙悦谈为何隐退8年",
       "onboard_time": 1706416287,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 505527,
+      "num": 505527,
+      "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+      "onboard_time": 1706446352,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504255,
@@ -457,14 +489,6 @@
       "onboard_time": 1706423791,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 496648,
-      "num": 496648,
-      "word": "秋瓷炫近期状态",
-      "onboard_time": 1706444549,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 496422,
@@ -683,6 +707,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 372172,
+      "num": 372172,
+      "word": "梅德韦杰夫跑不动了",
+      "onboard_time": 1706446411,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356037,
       "num": 356037,
       "word": "关晓彤是来春晚找沈腾的吗",
@@ -729,6 +761,14 @@
       "onboard_time": 1706425288,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329480,
+      "num": 329480,
+      "word": "一念关山收视率飞升",
+      "onboard_time": 1706447490,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 326327,
@@ -883,22 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290129,
-      "num": 290129,
-      "word": "过年美甲",
-      "onboard_time": 1706445091,
-      "rank": 17,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 288155,
-      "num": 288155,
-      "word": "蒙娜丽莎又遭泼墨了",
-      "onboard_time": 1706445150,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279414,
       "num": 279414,
       "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
@@ -1032,6 +1056,14 @@
       "word": "婚庆公司订单已排到2025年",
       "onboard_time": 1706398341,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244573,
+      "num": 244573,
+      "word": "男子植入国产人工心脏后第一天就下床锻炼",
+      "onboard_time": 1706446891,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1547,6 +1579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159549,
+      "num": 159549,
+      "word": "大胖媳妇学汉语太难了",
+      "onboard_time": 1706445871,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158608,
+      "num": 158608,
+      "word": "小孩哥一次外向换来一生内向",
+      "onboard_time": 1706445511,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157628,
       "num": 141436,
       "word": "吴磊赵今麦好配",
@@ -1971,14 +2019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120786,
-      "num": 120786,
-      "word": "小孩哥一次外向换来一生内向",
-      "onboard_time": 1706445511,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120782,
       "num": 120782,
       "word": "狸花 姐可以不在家",
@@ -2129,6 +2169,14 @@
       "onboard_time": 1706426249,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111419,
+      "num": 111419,
+      "word": "炎亚纶希望能做贡献社会的事",
+      "onboard_time": 1706446111,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 110255,
@@ -2347,6 +2395,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101015,
+      "num": 101015,
+      "word": "柯南 全犯人大赏",
+      "onboard_time": 1706447794,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 100776,
+      "num": 100776,
+      "word": "红月亮",
+      "onboard_time": 1706447910,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 100575,
       "num": 100575,
       "word": "上班后第一份工资",
@@ -2371,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97851,
+      "num": 97851,
+      "word": "7岁脑瘫女孩不怕摔原因泪目",
+      "onboard_time": 1706447910,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "JDG战胜RA",
@@ -2385,6 +2457,14 @@
       "onboard_time": 1706436748,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96113,
+      "num": 96113,
+      "word": "整活还得是东北人",
+      "onboard_time": 1706446712,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 95544,
@@ -2807,6 +2887,14 @@
       "num": 1327063,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1385,
+      "num": 1142434,
+      "word": "铁花雨下舞龙年味这就来了",
+      "onboard_time": 1706404948,
       "rank": 2,
       "category": "社会新闻"
     }
