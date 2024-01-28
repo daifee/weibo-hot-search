@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706451232344,
+  "endTime": 1706452426032,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 930924,
+      "num": 930924,
+      "word": "宋轶新加坡探亲",
+      "onboard_time": 1706450793,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930478,
       "num": 930478,
       "word": "发布女性隐私视频被认定侮辱罪",
@@ -297,6 +305,14 @@
       "onboard_time": 1706355869,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690267,
+      "num": 690267,
+      "word": "福原爱首场直播带货额不足2.5万元",
+      "onboard_time": 1706450793,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 671113,
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518737,
+      "num": 518737,
+      "word": "第一次觉得手机外放声音不刺耳了",
+      "onboard_time": 1706450490,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 504255,
       "num": 382148,
       "word": "男子追求已婚孕女子被拒发恐吓短信",
@@ -593,6 +617,14 @@
       "onboard_time": 1706403087,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 452734,
+      "num": 452734,
+      "word": "迪丽热巴首位超like破3万女星",
+      "onboard_time": 1706451029,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 450120,
@@ -723,20 +755,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 373774,
+      "num": 373774,
+      "word": "董明珠称格力不关心股价",
+      "onboard_time": 1706448392,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 372172,
       "num": 372172,
       "word": "梅德韦杰夫跑不动了",
       "onboard_time": 1706446411,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368135,
-      "num": 368135,
-      "word": "董明珠称格力不关心股价",
-      "onboard_time": 1706448392,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 356037,
@@ -851,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311639,
-      "num": 311639,
-      "word": "宋轶新加坡探亲",
-      "onboard_time": 1706450793,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308802,
       "num": 209152,
       "word": "妈妈藏婚鞋的水平",
@@ -873,14 +897,6 @@
       "onboard_time": 1706416887,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 306584,
-      "num": 306584,
-      "word": "第一次觉得手机外放声音不刺耳了",
-      "onboard_time": 1706450490,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 304753,
@@ -956,7 +972,7 @@
     },
     {
       "raw_hot": 281544,
-      "num": 244573,
+      "num": 252367,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
       "onboard_time": 1706446891,
       "rank": 21,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1706405008,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260555,
+      "num": 260555,
+      "word": "白桃星座",
+      "onboard_time": 1706452113,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 259242,
@@ -1131,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231656,
-      "num": 231656,
-      "word": "迪丽热巴首位超like破3万女星",
-      "onboard_time": 1706451029,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231169,
       "num": 231169,
       "word": "花花有了新玩具",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1706414248,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220718,
-      "num": 220718,
-      "word": "福原爱首场直播带货额不足2.5万元",
-      "onboard_time": 1706450793,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 220592,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1706414487,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206261,
+      "num": 206261,
+      "word": "苹果春节短片小蒜头",
+      "onboard_time": 1706451451,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 205790,
@@ -1547,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174491,
+      "num": 174491,
+      "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
+      "onboard_time": 1706452113,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174007,
       "num": 174007,
       "word": "B太二刷哈尔滨",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1706353108,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165685,
+      "num": 165685,
+      "word": "两只猫出门的方式",
+      "onboard_time": 1706451153,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 165513,
@@ -1827,14 +1859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143252,
-      "num": 143252,
-      "word": "两只猫出门的方式",
-      "onboard_time": 1706451153,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142358,
       "num": 120887,
       "word": "白敬亭裤子上挂玩偶",
@@ -1923,6 +1947,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 135256,
+      "num": 135256,
+      "word": "请查收7岁豆豆的新年祝福",
+      "onboard_time": 1706451755,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135211,
       "num": 135211,
       "word": "东北人骨子里的幽默属性",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1706356891,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133458,
+      "num": 133458,
+      "word": "郑怡静WTT女单夺冠",
+      "onboard_time": 1706451513,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 133151,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1706421688,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124588,
+      "num": 124588,
+      "word": "熟悉的徐杰回来了",
+      "onboard_time": 1706451394,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 123888,
@@ -2817,6 +2865,14 @@
       "onboard_time": 1706398401,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59011,
+      "num": 971858,
+      "word": "爱拼才会赢",
+      "onboard_time": 1706447673,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57052,
