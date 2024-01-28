@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706416441294,
+  "endTime": 1706418985495,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -6403,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 960342,
+      "num": 960342,
+      "word": "事业编招聘公示领导子女引争议",
+      "onboard_time": 1706413107,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959961,
       "num": 959961,
       "word": "中国冰淇淋在韩国爆火",
@@ -6771,6 +6779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932420,
+      "num": 932420,
+      "word": "中泰签证互免",
+      "onboard_time": 1706417969,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 931292,
       "num": 931292,
       "word": "华中农大举报学生发声",
@@ -6961,14 +6977,6 @@
       "onboard_time": 1704880230,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 917510,
-      "num": 917510,
-      "word": "事业编招聘公示领导子女引争议",
-      "onboard_time": 1706413107,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 915982,
@@ -8300,7 +8308,7 @@
     },
     {
       "raw_hot": 822178,
-      "num": 422953,
+      "num": 436800,
       "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
       "onboard_time": 1706410167,
       "rank": 10,
@@ -9265,6 +9273,14 @@
       "onboard_time": 1706194534,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775034,
+      "num": 775034,
+      "word": "龙年央视春晚第三次联排",
+      "onboard_time": 1706415030,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 774086,
@@ -10481,6 +10497,14 @@
       "onboard_time": 1704617790,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 719905,
+      "num": 719905,
+      "word": "昆明动物园曾有女童与老虎合影被咬死",
+      "onboard_time": 1706415990,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719844,
@@ -12017,6 +12041,14 @@
       "onboard_time": 1704718651,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657398,
+      "num": 657398,
+      "word": "库里绝平湖人",
+      "onboard_time": 1706416887,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 657344,
@@ -14667,6 +14699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570121,
+      "num": 570121,
+      "word": "詹姆斯绝杀勇士",
+      "onboard_time": 1706418688,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569709,
       "num": 569709,
       "word": "江苏警方通报2死凶杀案",
@@ -15769,6 +15809,14 @@
       "onboard_time": 1704988288,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541249,
+      "num": 541249,
+      "word": "湖人 哨子",
+      "onboard_time": 1706414908,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 541198,
@@ -17049,14 +17097,6 @@
       "onboard_time": 1705826365,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 509680,
-      "num": 509680,
-      "word": "龙年央视春晚第三次联排",
-      "onboard_time": 1706415030,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 509525,
@@ -19787,6 +19827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450120,
+      "num": 450120,
+      "word": "董宇辉 一张表吃透英语16时态",
+      "onboard_time": 1706412390,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 449940,
       "num": 449940,
       "word": "炎亚纶正式复出",
@@ -22059,14 +22107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403710,
-      "num": 403710,
-      "word": "董宇辉 一张表吃透英语16时态",
-      "onboard_time": 1706412390,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 403631,
       "num": 403631,
       "word": "女子半夜遇女孩哭喊妈妈吓得狂跑",
@@ -23345,6 +23385,14 @@
       "onboard_time": 1705039890,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 380463,
+      "num": 380463,
+      "word": "孙悦谈为何隐退8年",
+      "onboard_time": 1706416287,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 380200,
@@ -24819,6 +24867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353664,
+      "num": 203461,
+      "word": "詹姆斯常规赛出场历史第七",
+      "onboard_time": 1706418509,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353180,
       "num": 353180,
       "word": "巴宝莉门店回应热水袋不能装沸水",
@@ -25201,6 +25257,14 @@
       "onboard_time": 1705933530,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347080,
+      "num": 347080,
+      "word": "湖勇大战",
+      "onboard_time": 1706405968,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 346640,
@@ -27465,6 +27529,14 @@
       "onboard_time": 1705987407,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313403,
+      "num": 313403,
+      "word": "icon官宣退役",
+      "onboard_time": 1706417308,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 313314,
@@ -33227,6 +33299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250317,
+      "num": 250317,
+      "word": "谷爱凌将代表中国征战2026冬奥会",
+      "onboard_time": 1706418089,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250164,
       "num": 250164,
       "word": "顾客带猫进星巴克吐槽被赶走",
@@ -33283,6 +33363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249510,
+      "num": 250388,
+      "word": "NBA",
+      "onboard_time": 1704435869,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249485,
       "num": 249485,
       "word": "狗狗在烧烤架下烫个了发型",
@@ -33313,6 +33401,14 @@
       "onboard_time": 1704275615,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249366,
+      "num": 249366,
+      "word": "螃蟹酱留存了中国酱最初的模样",
+      "onboard_time": 1706416887,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 249358,
@@ -33729,14 +33825,6 @@
       "onboard_time": 1704427775,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 246528,
-      "num": 246528,
-      "word": "湖人 哨子",
-      "onboard_time": 1706414908,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 246457,
@@ -36163,6 +36251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228579,
+      "num": 228579,
+      "word": "麻将机越来越先进了",
+      "onboard_time": 1706417668,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228524,
       "num": 228524,
       "word": "赖床30分钟有助改善身体疲惫",
@@ -36697,6 +36793,14 @@
       "onboard_time": 1705289790,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225742,
+      "num": 225742,
+      "word": "王楚然新加坡生图",
+      "onboard_time": 1706416709,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225724,
@@ -39747,6 +39851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208650,
+      "num": 208650,
+      "word": "刘谦龙年央视春晚第三次联排",
+      "onboard_time": 1706417428,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208639,
       "num": 208639,
       "word": "米兰Prada秀场",
@@ -40985,6 +41097,14 @@
       "onboard_time": 1704680309,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203304,
+      "num": 203304,
+      "word": "中国铁路从未授权第三方平台卖票",
+      "onboard_time": 1706415569,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203247,
@@ -51587,14 +51707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165867,
-      "num": 165867,
-      "word": "中国铁路从未授权第三方平台卖票",
-      "onboard_time": 1706415569,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165830,
       "num": 165830,
       "word": "2023内娱飞升榜",
@@ -52657,6 +52769,14 @@
       "onboard_time": 1704937349,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161755,
+      "num": 161755,
+      "word": "武术队",
+      "onboard_time": 1706416111,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 161705,
@@ -54819,6 +54939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154250,
+      "num": 154250,
+      "word": "湖人勇士双加时",
+      "onboard_time": 1706418928,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154183,
       "num": 154183,
       "word": "哈马斯",
@@ -56561,14 +56689,6 @@
       "onboard_time": 1705568428,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148478,
-      "num": 148478,
-      "word": "昆明动物园曾有女童与老虎合影被咬死",
-      "onboard_time": 1706415990,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148450,
@@ -59801,6 +59921,14 @@
       "onboard_time": 1705280730,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 138034,
+      "num": 138034,
+      "word": "喜欢一个人的真实反应",
+      "onboard_time": 1706418630,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 137974,
@@ -63843,14 +63971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125250,
-      "num": 125250,
-      "word": "湖勇大战",
-      "onboard_time": 1706405968,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125231,
       "num": 125231,
       "word": "老板 这么聪明的人竟然有两个",
@@ -64105,14 +64225,6 @@
       "onboard_time": 1705330649,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 124452,
-      "num": 124452,
-      "word": "孙悦谈为何隐退8年",
-      "onboard_time": 1706416287,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 124401,
@@ -64771,6 +64883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122291,
+      "num": 122291,
+      "word": "男子1元抢拍花瓶付款秒变9999元",
+      "onboard_time": 1706418808,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122285,
       "num": 122285,
       "word": "杨紫的刘海不听话",
@@ -64872,6 +64992,14 @@
       "word": "杨紫黄瀛子蓝发自拍",
       "onboard_time": 1705828050,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121742,
+      "num": 121742,
+      "word": "一念关山上星浙江卫视",
+      "onboard_time": 1706416229,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -65025,14 +65153,6 @@
       "onboard_time": 1704788552,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121219,
-      "num": 121219,
-      "word": "一念关山上星浙江卫视",
-      "onboard_time": 1706416229,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 121205,
@@ -67107,14 +67227,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 112583,
-      "num": 112583,
-      "word": "NBA",
-      "onboard_time": 1704435869,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112568,
       "num": 112568,
       "word": "中长发秋冬编发",
@@ -67217,6 +67329,14 @@
       "onboard_time": 1705645766,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112276,
+      "num": 112276,
+      "word": "猫咪是如何拒绝人类的",
+      "onboard_time": 1706418867,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112266,
@@ -68033,14 +68153,6 @@
       "onboard_time": 1706075187,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107467,
-      "num": 107467,
-      "word": "武术队",
-      "onboard_time": 1706416111,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 107412,
@@ -70321,6 +70433,14 @@
       "onboard_time": 1704584482,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94038,
+      "num": 250536,
+      "word": "元梦龙年星梦代言人魏大勋",
+      "onboard_time": 1706417546,
+      "rank": 20,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 94011,
@@ -74587,6 +74707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37791,
+      "num": 938161,
+      "word": "春节回家路上有他们保驾护航",
+      "onboard_time": 1706418387,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37778,
       "num": 37778,
       "word": "一个桂花黄米馒头就分裂了山东",
@@ -74633,6 +74761,14 @@
       "onboard_time": 1704170801,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 36143,
+      "num": 251122,
+      "word": "蛋仔岛来了外卖侠",
+      "onboard_time": 1706417188,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 36085,
@@ -76543,6 +76679,9 @@
     },
     {
       "word": "#习近平同法国总统马克龙互致贺电#"
+    },
+    {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
     }
   ]
 }

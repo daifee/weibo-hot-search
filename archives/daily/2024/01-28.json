@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706416441294,
+  "endTime": 1706418985495,
   "band_list": [
     {
       "raw_hot": 1652183,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960342,
+      "num": 960342,
+      "word": "事业编招聘公示领导子女引争议",
+      "onboard_time": 1706413107,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958771,
       "num": 958771,
       "word": "美国正在阻止中国获得算力",
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932420,
+      "num": 932420,
+      "word": "中泰签证互免",
+      "onboard_time": 1706417969,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 930478,
       "num": 930478,
       "word": "发布女性隐私视频被认定侮辱罪",
@@ -75,19 +91,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917510,
-      "num": 917510,
-      "word": "事业编招聘公示领导子女引争议",
-      "onboard_time": 1706413107,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 822178,
-      "num": 422953,
+      "num": 436800,
       "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
       "onboard_time": 1706410167,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775034,
+      "num": 775034,
+      "word": "龙年央视春晚第三次联排",
+      "onboard_time": 1706415030,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 719905,
+      "num": 719905,
+      "word": "昆明动物园曾有女童与老虎合影被咬死",
+      "onboard_time": 1706415990,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -115,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657398,
+      "num": 657398,
+      "word": "库里绝平湖人",
+      "onboard_time": 1706416887,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620771,
       "num": 620771,
       "word": "董宇辉带货化妆品要砍掉贵的",
@@ -131,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570121,
+      "num": 570121,
+      "word": "詹姆斯绝杀勇士",
+      "onboard_time": 1706418688,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558126,
       "num": 241103,
       "word": "北京野生动物园就昆明动物园事件发声",
@@ -139,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541249,
+      "num": 541249,
+      "word": "湖人 哨子",
+      "onboard_time": 1706414908,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538992,
       "num": 538992,
       "word": "昆明动物园为什么三发通报才救猫",
       "onboard_time": 1706366791,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509680,
-      "num": 509680,
-      "word": "龙年央视春晚第三次联排",
-      "onboard_time": 1706415030,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 504255,
@@ -235,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 450120,
+      "num": 450120,
+      "word": "董宇辉 一张表吃透英语16时态",
+      "onboard_time": 1706412390,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 449448,
       "num": 449448,
       "word": "46岁远嫁女子十年写了3本书",
@@ -267,14 +315,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 403710,
-      "num": 403710,
-      "word": "董宇辉 一张表吃透英语16时态",
-      "onboard_time": 1706412390,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 393502,
       "num": 181153,
       "word": "金鹤龙晒迪丽热巴",
@@ -291,12 +331,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380463,
+      "num": 380463,
+      "word": "孙悦谈为何隐退8年",
+      "onboard_time": 1706416287,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379563,
       "num": 379563,
       "word": "闵塔鲨晒迪丽热巴",
       "onboard_time": 1706410647,
       "rank": 14,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 353664,
+      "num": 203461,
+      "word": "詹姆斯常规赛出场历史第七",
+      "onboard_time": 1706418509,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 347080,
+      "num": 347080,
+      "word": "湖勇大战",
+      "onboard_time": 1706405968,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 342752,
@@ -337,6 +401,14 @@
       "onboard_time": 1706367692,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313403,
+      "num": 313403,
+      "word": "icon官宣退役",
+      "onboard_time": 1706417308,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 304753,
@@ -443,19 +515,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250317,
+      "num": 250317,
+      "word": "谷爱凌将代表中国征战2026冬奥会",
+      "onboard_time": 1706418089,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 249510,
+      "num": 250388,
+      "word": "NBA",
+      "onboard_time": 1706418089,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 249366,
+      "num": 249366,
+      "word": "螃蟹酱留存了中国酱最初的模样",
+      "onboard_time": 1706416887,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246699,
       "num": 246699,
       "word": "浓眉受伤",
       "onboard_time": 1706414189,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 246528,
-      "num": 246528,
-      "word": "湖人 哨子",
-      "onboard_time": 1706414908,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -507,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228579,
+      "num": 228579,
+      "word": "麻将机越来越先进了",
+      "onboard_time": 1706417668,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225742,
+      "num": 225742,
+      "word": "王楚然新加坡生图",
+      "onboard_time": 1706416709,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222031,
       "num": 222031,
       "word": "上海图书馆回应馆内一把躺椅数万元",
@@ -547,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208650,
+      "num": 208650,
+      "word": "刘谦龙年央视春晚第三次联排",
+      "onboard_time": 1706417428,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206342,
       "num": 206342,
       "word": "黄伟晋为对LESSERAFIM不当言论道歉",
@@ -561,6 +673,14 @@
       "onboard_time": 1706412512,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203304,
+      "num": 203304,
+      "word": "中国铁路从未授权第三方平台卖票",
+      "onboard_time": 1706415569,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203132,
@@ -651,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165867,
-      "num": 165867,
-      "word": "中国铁路从未授权第三方平台卖票",
-      "onboard_time": 1706415569,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164769,
       "num": 164769,
       "word": "昆明动物园表示将反思并改进不足",
@@ -673,6 +785,14 @@
       "onboard_time": 1706407648,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 161755,
+      "num": 161755,
+      "word": "武术队",
+      "onboard_time": 1706416111,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 160771,
@@ -715,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154250,
+      "num": 154250,
+      "word": "湖人勇士双加时",
+      "onboard_time": 1706418928,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153634,
       "num": 153634,
       "word": "勇士新死亡五小",
@@ -747,14 +875,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 148478,
-      "num": 148478,
-      "word": "昆明动物园曾有女童与老虎合影被咬死",
-      "onboard_time": 1706415990,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144725,
       "num": 132464,
       "word": "还是公公情商高",
@@ -785,6 +905,14 @@
       "onboard_time": 1706407349,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138034,
+      "num": 138034,
+      "word": "喜欢一个人的真实反应",
+      "onboard_time": 1706418630,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 136893,
@@ -875,22 +1003,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 125250,
-      "num": 125250,
-      "word": "湖勇大战",
-      "onboard_time": 1706405968,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124452,
-      "num": 124452,
-      "word": "孙悦谈为何隐退8年",
-      "onboard_time": 1706416287,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123020,
       "num": 123020,
       "word": "我国古代设计师的小创意太哇噻了",
@@ -907,8 +1019,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121219,
-      "num": 121219,
+      "raw_hot": 122291,
+      "num": 122291,
+      "word": "男子1元抢拍花瓶付款秒变9999元",
+      "onboard_time": 1706418808,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121742,
+      "num": 121742,
       "word": "一念关山上星浙江卫视",
       "onboard_time": 1706416229,
       "rank": 37,
@@ -987,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112276,
+      "num": 112276,
+      "word": "猫咪是如何拒绝人类的",
+      "onboard_time": 1706418867,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110129,
       "num": 110129,
       "word": "你早上刷牙还是晚上刷牙",
@@ -1017,14 +1145,6 @@
       "onboard_time": 1706405430,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107467,
-      "num": 107467,
-      "word": "武术队",
-      "onboard_time": 1706416111,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 107082,
@@ -1153,6 +1273,14 @@
       "onboard_time": 1706350532,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94038,
+      "num": 250536,
+      "word": "元梦龙年星梦代言人魏大勋",
+      "onboard_time": 1706417546,
+      "rank": 20,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 94004,
@@ -1387,6 +1515,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 37791,
+      "num": 938161,
+      "word": "春节回家路上有他们保驾护航",
+      "onboard_time": 1706418387,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36143,
+      "num": 251122,
+      "word": "蛋仔岛来了外卖侠",
+      "onboard_time": 1706417188,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34313,
       "num": 42622,
       "word": "赵昭仪妈妈画过哪吒传奇",
@@ -1473,6 +1617,9 @@
     },
     {
       "word": "#只有创新才能自强才能争先#"
+    },
+    {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
     }
   ]
 }

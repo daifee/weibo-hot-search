@@ -1,0 +1,410 @@
+{
+  "runTime": 1706418985495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523356,
+        "num": 1523356,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960342,
+        "num": 960342,
+        "word": "事业编招聘公示领导子女引争议",
+        "onboard_time": 1706413107,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37791,
+        "num": 938161,
+        "word": "春节回家路上有他们保驾护航",
+        "onboard_time": 1706418387,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932420,
+        "num": 932420,
+        "word": "中泰签证互免",
+        "onboard_time": 1706417969,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 775034,
+        "num": 775034,
+        "word": "龙年央视春晚第三次联排",
+        "onboard_time": 1706415030,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719905,
+        "num": 719905,
+        "word": "昆明动物园曾有女童与老虎合影被咬死",
+        "onboard_time": 1706415990,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710871,
+        "num": 710871,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657398,
+        "num": 657398,
+        "word": "库里绝平湖人",
+        "onboard_time": 1706416887,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570121,
+        "num": 570121,
+        "word": "詹姆斯绝杀勇士",
+        "onboard_time": 1706418688,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541249,
+        "num": 541249,
+        "word": "湖人 哨子",
+        "onboard_time": 1706414908,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450120,
+        "num": 450120,
+        "word": "董宇辉 一张表吃透英语16时态",
+        "onboard_time": 1706412390,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 448090,
+        "num": 448090,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441052,
+        "num": 441052,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 436800,
+        "num": 436800,
+        "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
+        "onboard_time": 1706410167,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380463,
+        "num": 380463,
+        "word": "孙悦谈为何隐退8年",
+        "onboard_time": 1706416287,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347080,
+        "num": 347080,
+        "word": "湖勇大战",
+        "onboard_time": 1706405968,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313403,
+        "num": 313403,
+        "word": "icon官宣退役",
+        "onboard_time": 1706417308,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255952,
+        "num": 255952,
+        "word": "爱国不是生意举报应有依据",
+        "onboard_time": 1706412990,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255478,
+        "num": 255478,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36143,
+        "num": 251122,
+        "word": "蛋仔岛来了外卖侠",
+        "onboard_time": 1706417188,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94038,
+        "num": 250536,
+        "word": "元梦龙年星梦代言人魏大勋",
+        "onboard_time": 1706417546,
+        "rank": 20,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 249510,
+        "num": 250388,
+        "word": "NBA",
+        "onboard_time": 1706418089,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250317,
+        "num": 250317,
+        "word": "谷爱凌将代表中国征战2026冬奥会",
+        "onboard_time": 1706418089,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249366,
+        "num": 249366,
+        "word": "螃蟹酱留存了中国酱最初的模样",
+        "onboard_time": 1706416887,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228579,
+        "num": 228579,
+        "word": "麻将机越来越先进了",
+        "onboard_time": 1706417668,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225742,
+        "num": 225742,
+        "word": "王楚然新加坡生图",
+        "onboard_time": 1706416709,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222087,
+        "num": 222087,
+        "word": "闵塔鲨晒迪丽热巴",
+        "onboard_time": 1706410647,
+        "rank": 26,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 208650,
+        "num": 208650,
+        "word": "刘谦龙年央视春晚第三次联排",
+        "onboard_time": 1706417428,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205391,
+        "num": 205391,
+        "word": "花花有了新玩具",
+        "onboard_time": 1706414248,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203610,
+        "num": 203610,
+        "word": "香港飞马来西亚航班疑因机舱冒烟折返",
+        "onboard_time": 1706414189,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353664,
+        "num": 203461,
+        "word": "詹姆斯常规赛出场历史第七",
+        "onboard_time": 1706418509,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203304,
+        "num": 203304,
+        "word": "中国铁路从未授权第三方平台卖票",
+        "onboard_time": 1706415569,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196140,
+        "num": 196140,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196081,
+        "num": 196081,
+        "word": "上海图书馆回应馆内一把躺椅数万元",
+        "onboard_time": 1706414248,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188371,
+        "num": 188371,
+        "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
+        "onboard_time": 1706410409,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186230,
+        "num": 186230,
+        "word": "以色列代表痛骂联合国",
+        "onboard_time": 1706412930,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180131,
+        "num": 180131,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172155,
+        "num": 172155,
+        "word": "董宇辉带货化妆品要砍掉贵的",
+        "onboard_time": 1706410227,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161755,
+        "num": 161755,
+        "word": "武术队",
+        "onboard_time": 1706416111,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155905,
+        "num": 155905,
+        "word": "黄伟晋为对LESSERAFIM不当言论道歉",
+        "onboard_time": 1706414487,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154250,
+        "num": 154250,
+        "word": "湖人勇士双加时",
+        "onboard_time": 1706418928,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148584,
+        "num": 148584,
+        "word": "薛之谦是喝多了吗",
+        "onboard_time": 1706407108,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146636,
+        "num": 146636,
+        "word": "中国地质大学回应公示拟聘任处长之子",
+        "onboard_time": 1706410707,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "哥哥回应妹妹8科考66",
+        "onboard_time": 1706409989,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138034,
+        "num": 138034,
+        "word": "喜欢一个人的真实反应",
+        "onboard_time": 1706418630,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137566,
+        "num": 137566,
+        "word": "仙剑四猫眼登顶",
+        "onboard_time": 1706413528,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129294,
+        "num": 129294,
+        "word": "掐脖舞",
+        "onboard_time": 1706412208,
+        "rank": 46,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 122291,
+        "num": 122291,
+        "word": "男子1元抢拍花瓶付款秒变9999元",
+        "onboard_time": 1706418808,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121742,
+        "num": 121742,
+        "word": "一念关山上星浙江卫视",
+        "onboard_time": 1706416229,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112276,
+        "num": 112276,
+        "word": "猫咪是如何拒绝人类的",
+        "onboard_time": 1706418867,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}
