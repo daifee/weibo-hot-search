@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706483884036,
+  "endTime": 1706484828315,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719972,
+      "num": 719972,
+      "word": "支付宝五福",
+      "onboard_time": 1706483301,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 611119,
       "num": 611119,
       "word": "专家称猫打不过猴只能服从",
@@ -27,11 +35,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579832,
+      "num": 579832,
+      "word": "银川地震",
+      "onboard_time": 1706483120,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549979,
       "num": 549979,
       "word": "火车上的床单被罩干净吗",
       "onboard_time": 1706442687,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465614,
+      "num": 465614,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -51,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419490,
-      "num": 419490,
-      "word": "小学生收获1600斤年终奖",
-      "onboard_time": 1706461223,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417362,
       "num": 417362,
       "word": "鼻子决定了颜值的上限",
@@ -75,8 +91,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 350844,
-      "num": 212913,
+      "raw_hot": 394658,
+      "num": 394658,
       "word": "日本连环爆炸案凶手患癌自首",
       "onboard_time": 1706475795,
       "rank": 31,
@@ -123,24 +139,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231422,
-      "num": 231422,
+      "raw_hot": 272253,
+      "num": 272253,
       "word": "男子租宝马后抵押套现21万挥霍",
       "onboard_time": 1706471596,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226445,
-      "num": 226445,
-      "word": "银川地震",
-      "onboard_time": 1706483120,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223708,
-      "num": 223708,
+      "raw_hot": 232191,
+      "num": 232191,
       "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
       "onboard_time": 1706452113,
       "rank": 14,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197167,
+      "num": 197167,
+      "word": "胡歌回应为何常在西藏青海被偶遇",
+      "onboard_time": 1706441189,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181948,
       "num": 181948,
       "word": "迪丽热巴首位超like破3万女星",
@@ -195,22 +211,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 177343,
-      "num": 177343,
-      "word": "胡歌回应为何常在西藏青海被偶遇",
-      "onboard_time": 1706441189,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174364,
-      "num": 174364,
-      "word": "支付宝五福",
-      "onboard_time": 1706483301,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 173190,
       "num": 74280,
       "word": "新款iPadPro或3月底发布",
@@ -219,19 +219,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 143662,
+      "num": 143662,
+      "word": "胖东来退休员工收到6箱春节福利",
+      "onboard_time": 1706441788,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142245,
       "num": 142245,
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128688,
-      "num": 128688,
-      "word": "胖东来退休员工收到6箱春节福利",
-      "onboard_time": 1706441788,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -395,12 +395,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82590,
+      "num": 82590,
+      "word": "男子植入国产人工心脏后第一天就下床锻炼",
+      "onboard_time": 1706446891,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81652,
       "num": 81652,
       "word": "秋瓷炫近期状态",
       "onboard_time": 1706444549,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80990,
+      "num": 80990,
+      "word": "妹妹8科成绩66分当事人否认炒作",
+      "onboard_time": 1706468596,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75560,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70194,
+      "num": 70194,
+      "word": "马思纯三天瘦了六斤",
+      "onboard_time": 1706434469,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68805,
       "num": 68805,
       "word": "单依纯春晚跑操式下班",
@@ -435,28 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67066,
-      "num": 67066,
-      "word": "妹妹8科成绩66分当事人否认炒作",
-      "onboard_time": 1706468596,
-      "rank": 39,
+      "raw_hot": 66362,
+      "num": 66362,
+      "word": "昆明动物园2只猫咪住进新家啦",
+      "onboard_time": 1706484443,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65827,
-      "num": 65827,
-      "word": "男子植入国产人工心脏后第一天就下床锻炼",
-      "onboard_time": 1706446891,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59590,
-      "num": 59590,
-      "word": "马思纯三天瘦了六斤",
-      "onboard_time": 1706434469,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 54907,
+      "num": 54907,
+      "word": "谷爱凌晒夺金照",
+      "onboard_time": 1706484024,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 52242,
@@ -464,6 +480,14 @@
       "word": "纽波特2比4曼联",
       "onboard_time": 1706483482,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51935,
+      "num": 51935,
+      "word": "王霜热刺首秀",
+      "onboard_time": 1706484263,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -475,12 +499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40071,
-      "num": 40071,
+      "raw_hot": 51025,
+      "num": 51025,
+      "word": "大小杨哥版马弓手关羽请战华雄",
+      "onboard_time": 1706479396,
+      "rank": 42,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 50177,
+      "num": 50177,
       "word": "8种负面情绪加速衰老",
       "onboard_time": 1706474714,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43200,
+      "num": 43200,
+      "word": "常远比岳云鹏早26年上春晚",
+      "onboard_time": 1706468717,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 38717,
@@ -489,14 +529,6 @@
       "onboard_time": 1706461103,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37603,
-      "num": 37603,
-      "word": "常远比岳云鹏早26年上春晚",
-      "onboard_time": 1706468717,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 36649,
@@ -521,14 +553,6 @@
       "onboard_time": 1706477116,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32554,
-      "num": 32554,
-      "word": "大小杨哥版马弓手关羽请战华雄",
-      "onboard_time": 1706479396,
-      "rank": 42,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 32009,
@@ -579,7 +603,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 4896,
+      "raw_hot": 6309,
       "num": 615960,
       "word": "铁花雨下舞龙年味这就来了",
       "onboard_time": 1706404948,
