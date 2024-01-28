@@ -1,0 +1,410 @@
+{
+  "runTime": 1706472976872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 78637,
+        "num": 78637,
+        "word": "福原爱首场直播带货额不足2.5万元",
+        "onboard_time": 1706450793,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74393,
+        "num": 74393,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1956,
+        "num": 73771,
+        "word": "铁花雨下舞龙年味这就来了",
+        "onboard_time": 1706404948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73485,
+        "num": 73485,
+        "word": "火车上的床单被罩干净吗",
+        "onboard_time": 1706442687,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62227,
+        "num": 62227,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54338,
+        "num": 54338,
+        "word": "小学生收获1600斤年终奖",
+        "onboard_time": 1706461223,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46502,
+        "num": 46502,
+        "word": "10省将出现暴雪或大暴雪",
+        "onboard_time": 1706438371,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37719,
+        "num": 37719,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35974,
+        "num": 35974,
+        "word": "古巨基回应小舅子欠债数百万",
+        "onboard_time": 1706442751,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35183,
+        "num": 35183,
+        "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
+        "onboard_time": 1706452113,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34732,
+        "num": 34732,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34113,
+        "num": 34113,
+        "word": "宋轶新加坡探亲",
+        "onboard_time": 1706450793,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28431,
+        "num": 28431,
+        "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+        "onboard_time": 1706446352,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27460,
+        "num": 27460,
+        "word": "蒙娜丽莎又遭泼墨了",
+        "onboard_time": 1706445150,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26684,
+        "num": 26684,
+        "word": "过年美甲",
+        "onboard_time": 1706445091,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 24717,
+        "num": 24717,
+        "word": "丁泽仁古装",
+        "onboard_time": 1706452591,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23743,
+        "num": 23743,
+        "word": "安吉都长这么高了",
+        "onboard_time": 1706453013,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21972,
+        "num": 21972,
+        "word": "月嫂偷带安眠药上户被抓包",
+        "onboard_time": 1706429909,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20477,
+        "num": 20477,
+        "word": "马思纯三天瘦了六斤",
+        "onboard_time": 1706434469,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19846,
+        "num": 19846,
+        "word": "男子租宝马后抵押套现21万挥霍",
+        "onboard_time": 1706471596,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25033,
+        "num": 19345,
+        "word": "女子称使用10年微信无故被封",
+        "onboard_time": 1706441847,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21451,
+        "num": 19283,
+        "word": "新款iPadPro或3月底发布",
+        "onboard_time": 1706459547,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18656,
+        "num": 18656,
+        "word": "迪丽热巴首位超like破3万女星",
+        "onboard_time": 1706451029,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18331,
+        "num": 18331,
+        "word": "用回现金的年轻人终于攒下钱了",
+        "onboard_time": 1706441132,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18126,
+        "num": 18126,
+        "word": "得州兵营美军士兵开枪互射",
+        "onboard_time": 1706434351,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17981,
+        "num": 17981,
+        "word": "胡歌回应为何常在西藏青海被偶遇",
+        "onboard_time": 1706441189,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17444,
+        "num": 17444,
+        "word": "3个意想不到的伤胃习惯",
+        "onboard_time": 1706456550,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17267,
+        "num": 17267,
+        "word": "红月亮",
+        "onboard_time": 1706447910,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 16486,
+        "num": 16486,
+        "word": "胖东来退休员工收到6箱春节福利",
+        "onboard_time": 1706441788,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 16308,
+        "word": "一念关山收视率飞升",
+        "onboard_time": 1706447490,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50888,
+        "num": 16286,
+        "word": "妹妹8科成绩66分当事人否认炒作",
+        "onboard_time": 1706468596,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16253,
+        "num": 16253,
+        "word": "这6类食物必须焯水",
+        "onboard_time": 1706441430,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15344,
+        "num": 15344,
+        "word": "赵露思新年礼盒",
+        "onboard_time": 1706448749,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14901,
+        "num": 14901,
+        "word": "林心如晒十年前后对比照",
+        "onboard_time": 1706444011,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14774,
+        "num": 14774,
+        "word": "男子植入国产人工心脏后第一天就下床锻炼",
+        "onboard_time": 1706446891,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14290,
+        "num": 14290,
+        "word": "偶像梦幻祭",
+        "onboard_time": 1706454392,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13965,
+        "num": 13965,
+        "word": "白桃星座",
+        "onboard_time": 1706452113,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13866,
+        "num": 13866,
+        "word": "秋瓷炫近期状态",
+        "onboard_time": 1706444549,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13418,
+        "num": 13418,
+        "word": "内娱杂志销量排行",
+        "onboard_time": 1706456731,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13051,
+        "num": 13051,
+        "word": "假装咬东西的猫咪",
+        "onboard_time": 1706456731,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12954,
+        "num": 12954,
+        "word": "广东人最怕的天气要来了",
+        "onboard_time": 1706435130,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12772,
+        "num": 12772,
+        "word": "常远比岳云鹏早26年上春晚",
+        "onboard_time": 1706468717,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12753,
+        "num": 12753,
+        "word": "肖战邀您相聚2024中国网络视听年度盛典",
+        "onboard_time": 1706453013,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12362,
+        "num": 12362,
+        "word": "机票价格",
+        "onboard_time": 1706433089,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12193,
+        "num": 12193,
+        "word": "世界之外攻略",
+        "onboard_time": 1706465960,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12045,
+        "num": 12045,
+        "word": "每个省都有自己的噩梦",
+        "onboard_time": 1706454750,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12008,
+        "num": 12008,
+        "word": "彩礼防谈崩技巧",
+        "onboard_time": 1706454993,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11818,
+        "num": 11818,
+        "word": "GPT4为何会颠覆现有工作流",
+        "onboard_time": 1706455951,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11163,
+        "num": 11163,
+        "word": "我甚至没有狗狗穿的精致",
+        "onboard_time": 1706463740,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11087,
+        "num": 11087,
+        "word": "周也通行证照片是粉丝P的",
+        "onboard_time": 1706449953,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}

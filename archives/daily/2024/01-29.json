@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706470430827,
+  "endTime": 1706472976872,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50888,
+      "num": 18609,
+      "word": "妹妹8科成绩66分当事人否认炒作",
+      "onboard_time": 1706468596,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38765,
       "num": 38765,
       "word": "马思纯三天瘦了六斤",
@@ -433,14 +441,6 @@
       "onboard_time": 1706448749,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32892,
-      "num": 18609,
-      "word": "妹妹8科成绩66分当事人否认炒作",
-      "onboard_time": 1706468596,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32009,
@@ -467,6 +467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19846,
+      "num": 19846,
+      "word": "男子租宝马后抵押套现21万挥霍",
+      "onboard_time": 1706471596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18028,
       "num": 24116,
       "word": "融合嘻哈盛典",
@@ -475,20 +483,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17267,
+      "num": 17267,
+      "word": "红月亮",
+      "onboard_time": 1706447910,
+      "rank": 44,
+      "category": "自然"
+    },
+    {
       "raw_hot": 16902,
       "num": 21196,
       "word": "世界之外攻略",
       "onboard_time": 1706465960,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16880,
-      "num": 16880,
-      "word": "红月亮",
-      "onboard_time": 1706447910,
-      "rank": 44,
-      "category": "自然"
     },
     {
       "raw_hot": 15547,

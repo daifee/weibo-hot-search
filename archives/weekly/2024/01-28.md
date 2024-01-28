@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/28 00:20:09 ~ 2024/01/29 03:33:50
+本榜单时间：2024/01/28 00:20:09 ~ 2024/01/29 04:16:16
 </p>
 </blockquote>
 <p>
@@ -2355,6 +2355,12 @@ F勒布伦WTT男单夺冠（热度：84349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B98%E7%A7%91%E6%88%90%E7%BB%A966%E5%88%86%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%23" target="weibo">
+妹妹8科成绩66分当事人否认炒作（热度：50888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%E6%83%8A%E5%91%86%E8%81%8C%E4%B8%9A%E9%80%89%E6%89%8B%23" target="weibo">
 宋威龙游戏操作惊呆职业选手（热度：49987）
 </a>
@@ -2415,12 +2421,6 @@ F勒布伦WTT男单夺冠（热度：84349）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B98%E7%A7%91%E6%88%90%E7%BB%A966%E5%88%86%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%23" target="weibo">
-妹妹8科成绩66分当事人否认炒作（热度：32892）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%872023%E5%B9%B4%E6%94%B6%E5%85%A5720%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
 郑钦文2023年收入720万美元（热度：32611）
 </a>
@@ -2447,6 +2447,12 @@ F勒布伦WTT男单夺冠（热度：84349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23" target="weibo">
 明日方舟（热度：23688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%9F%E5%AE%9D%E9%A9%AC%E5%90%8E%E6%8A%B5%E6%8A%BC%E5%A5%97%E7%8E%B021%E4%B8%87%E6%8C%A5%E9%9C%8D%23" target="weibo">
+男子租宝马后抵押套现21万挥霍（热度：19846）
 </a>
 </li>
 
