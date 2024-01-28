@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706444896692,
+  "endTime": 1706445777154,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -131,6 +131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1002238,
+      "num": 1002238,
+      "word": "古巨基回应小舅子欠债数百万",
+      "onboard_time": 1706442751,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988391,
       "num": 719905,
       "word": "昆明动物园曾有女童与老虎合影被咬死",
@@ -160,14 +168,6 @@
       "word": "这跟易烊千玺谈了有什么区别",
       "onboard_time": 1706370629,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 931752,
-      "num": 931752,
-      "word": "古巨基回应小舅子欠债数百万",
-      "onboard_time": 1706442751,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -208,6 +208,14 @@
       "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
       "onboard_time": 1706410167,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785327,
+      "num": 785327,
+      "word": "火车上的床单被罩干净吗",
+      "onboard_time": 1706442687,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 622158,
+      "num": 622158,
+      "word": "胖东来退休员工收到6箱春节福利",
+      "onboard_time": 1706441788,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620771,
       "num": 620771,
       "word": "董宇辉带货化妆品要砍掉贵的",
@@ -307,28 +323,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 614887,
-      "num": 614887,
-      "word": "胖东来退休员工收到6箱春节福利",
-      "onboard_time": 1706441788,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 604218,
       "num": 604218,
       "word": "基因彩票",
       "onboard_time": 1706407049,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 598015,
-      "num": 598015,
-      "word": "火车上的床单被罩干净吗",
-      "onboard_time": 1706442687,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592520,
@@ -355,6 +355,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 563989,
+      "num": 563989,
+      "word": "水晶血婚纱",
+      "onboard_time": 1706439032,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 563022,
       "num": 563022,
       "word": "苏有朋 你们是组团来让我难堪的吗",
@@ -371,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545447,
-      "num": 545447,
-      "word": "水晶血婚纱",
-      "onboard_time": 1706439032,
-      "rank": 29,
-      "category": "时尚"
+      "raw_hot": 555921,
+      "num": 555921,
+      "word": "辛纳首夺大满贯冠军",
+      "onboard_time": 1706445450,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 545380,
@@ -449,6 +457,14 @@
       "onboard_time": 1706423791,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496648,
+      "num": 496648,
+      "word": "秋瓷炫近期状态",
+      "onboard_time": 1706444549,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 496422,
@@ -611,12 +627,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395662,
+      "num": 395662,
+      "word": "林心如晒十年前后对比照",
+      "onboard_time": 1706444011,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393502,
       "num": 181153,
       "word": "金鹤龙晒迪丽热巴",
       "onboard_time": 1706368771,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 389630,
+      "num": 389630,
+      "word": "春晚 CP大聚会",
+      "onboard_time": 1706444309,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 387227,
@@ -803,20 +835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298107,
-      "num": 298107,
-      "word": "林心如晒十年前后对比照",
-      "onboard_time": 1706444011,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297935,
       "num": 198898,
       "word": "林俊杰多少有点见外了",
       "onboard_time": 1706366909,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297809,
+      "num": 297809,
+      "word": "澳网男单决赛",
+      "onboard_time": 1706435909,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 297683,
@@ -849,6 +881,22 @@
       "onboard_time": 1706433867,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290129,
+      "num": 290129,
+      "word": "过年美甲",
+      "onboard_time": 1706445091,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 288155,
+      "num": 288155,
+      "word": "蒙娜丽莎又遭泼墨了",
+      "onboard_time": 1706445150,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279414,
@@ -947,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251741,
+      "num": 251741,
+      "word": "新加坡偶遇王鹤棣逛街",
+      "onboard_time": 1706444011,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249510,
       "num": 250388,
       "word": "NBA",
@@ -1019,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230761,
-      "num": 230761,
-      "word": "新加坡偶遇王鹤棣逛街",
-      "onboard_time": 1706444011,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230470,
       "num": 230470,
       "word": "日本东京湾4.8级地震",
@@ -1059,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224395,
-      "num": 224395,
-      "word": "澳网男单决赛",
-      "onboard_time": 1706435909,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224145,
       "num": 206025,
       "word": "黄渤张艺兴面馆路透",
       "onboard_time": 1706432009,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223066,
+      "num": 223066,
+      "word": "这6类食物必须焯水",
+      "onboard_time": 1706441430,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222031,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1706411428,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214317,
-      "num": 214317,
-      "word": "春晚 CP大聚会",
-      "onboard_time": 1706444309,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 213099,
@@ -1291,20 +1331,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 198280,
-      "num": 198280,
-      "word": "这6类食物必须焯水",
-      "onboard_time": 1706441430,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 197830,
       "num": 197830,
       "word": "仙剑四猫眼登顶",
       "onboard_time": 1706413528,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197347,
+      "num": 179646,
+      "word": "辛纳连扳两盘",
+      "onboard_time": 1706445749,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195892,
+      "num": 195892,
+      "word": "总台龙年春晚第三次彩排",
+      "onboard_time": 1706445029,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 194784,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1706342907,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175216,
-      "num": 175216,
-      "word": "秋瓷炫近期状态",
-      "onboard_time": 1706444549,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 175032,
@@ -1763,6 +1803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133844,
+      "num": 133844,
+      "word": "甄子丹称女儿暂时不会拍电影",
+      "onboard_time": 1706444791,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133711,
       "num": 133711,
       "word": "闫妮女儿 张小斐",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1706421568,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120786,
+      "num": 120786,
+      "word": "小孩哥一次外向换来一生内向",
+      "onboard_time": 1706445511,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120782,
@@ -2193,14 +2249,6 @@
       "onboard_time": 1706408549,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103937,
-      "num": 103937,
-      "word": "甄子丹称女儿暂时不会拍电影",
-      "onboard_time": 1706444791,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 103738,
