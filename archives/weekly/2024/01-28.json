@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706456048869,
+  "endTime": 1706458755971,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 811476,
+      "num": 811476,
+      "word": "李湘辟谣1560元出售二手毛巾",
+      "onboard_time": 1706454993,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739223,
       "num": 1531709,
       "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
@@ -296,14 +304,6 @@
       "word": "包上恩",
       "onboard_time": 1706362831,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 702132,
-      "num": 702132,
-      "word": "李湘辟谣1560元出售二手毛巾",
-      "onboard_time": 1706454993,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -377,6 +377,14 @@
       "onboard_time": 1706410227,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 611119,
+      "num": 611119,
+      "word": "专家称猫打不过猴只能服从",
+      "onboard_time": 1706454810,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604218,
@@ -827,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349787,
+      "num": 349787,
+      "word": "内娱杂志销量排行",
+      "onboard_time": 1706456731,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347777,
       "num": 347777,
       "word": "香港20平住5个人的房子",
@@ -897,14 +913,6 @@
       "onboard_time": 1706436030,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315634,
-      "num": 315634,
-      "word": "专家称猫打不过猴只能服从",
-      "onboard_time": 1706454810,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314453,
@@ -2331,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118192,
+      "num": 118192,
+      "word": "GPT4为何会颠覆现有工作流",
+      "onboard_time": 1706455951,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117841,
       "num": 117841,
       "word": "杭漂的年轻人熬不住了",
@@ -2440,6 +2456,14 @@
       "word": "爱情和友情都是中性词",
       "onboard_time": 1706419648,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112704,
+      "num": 112704,
+      "word": "女生之间的善意",
+      "onboard_time": 1706456191,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -2593,6 +2617,14 @@
       "onboard_time": 1706434229,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104346,
+      "num": 104346,
+      "word": "3个意想不到的伤胃习惯",
+      "onboard_time": 1706456550,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104027,
@@ -2851,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90862,
+      "num": 90862,
+      "word": "杨巡结婚了",
+      "onboard_time": 1706458110,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89162,
       "num": 89162,
       "word": "从狮王变失望只需要一个发型",
@@ -2899,14 +2939,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86710,
-      "num": 86710,
-      "word": "GPT4为何会颠覆现有工作流",
-      "onboard_time": 1706455951,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 85636,
       "num": 85636,
       "word": "红丝袜",
@@ -2936,6 +2968,14 @@
       "word": "堆雪人界也进化到考研了",
       "onboard_time": 1706405549,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83336,
+      "num": 83336,
+      "word": "假装咬东西的猫咪",
+      "onboard_time": 1706456731,
+      "rank": 43,
       "category": "幽默"
     },
     {
