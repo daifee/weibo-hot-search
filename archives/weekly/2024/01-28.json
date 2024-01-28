@@ -1,10 +1,10 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706415613137,
+  "endTime": 1706416441294,
   "band_list": [
     {
-      "raw_hot": 1556019,
-      "num": 1556019,
+      "raw_hot": 1652183,
+      "num": 1652183,
       "word": "相差13岁姐弟恋妻子发声",
       "onboard_time": 1706412447,
       "rank": 22,
@@ -35,7 +35,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1096213,
+      "raw_hot": 1122769,
       "num": 230895,
       "word": "母猴 干儿子",
       "onboard_time": 1706412447,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 917510,
+      "num": 917510,
+      "word": "事业编招聘公示领导子女引争议",
+      "onboard_time": 1706413107,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822178,
       "num": 422953,
       "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
@@ -104,14 +112,6 @@
       "word": "好消息1月工资年前发",
       "onboard_time": 1706355869,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 626630,
-      "num": 626630,
-      "word": "事业编招聘公示领导子女引争议",
-      "onboard_time": 1706413107,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1706366791,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509680,
+      "num": 509680,
+      "word": "龙年央视春晚第三次联排",
+      "onboard_time": 1706415030,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 504255,
@@ -259,8 +267,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 400638,
-      "num": 396388,
+      "raw_hot": 403710,
+      "num": 403710,
       "word": "董宇辉 一张表吃透英语16时态",
       "onboard_time": 1706412390,
       "rank": 13,
@@ -347,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297683,
+      "num": 297683,
+      "word": "香港飞马来西亚航班疑因机舱冒烟折返",
+      "onboard_time": 1706414189,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293953,
       "num": 293953,
       "word": "东北菜浓度最高的地方竟是海南岛",
       "onboard_time": 1706405968,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 287671,
-      "num": 287671,
-      "word": "香港飞马来西亚航班疑因机舱冒烟折返",
-      "onboard_time": 1706414189,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279414,
@@ -371,8 +379,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275117,
-      "num": 275117,
+      "raw_hot": 276474,
+      "num": 276474,
       "word": "以色列代表痛骂联合国",
       "onboard_time": 1706412930,
       "rank": 16,
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246528,
+      "num": 246528,
+      "word": "湖人 哨子",
+      "onboard_time": 1706414908,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246080,
       "num": 199863,
       "word": "婚庆公司订单已排到2025年",
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229868,
-      "num": 229868,
-      "word": "龙年央视春晚第三次联排",
-      "onboard_time": 1706415030,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 222031,
+      "num": 222031,
+      "word": "上海图书馆回应馆内一把躺椅数万元",
+      "onboard_time": 1706414248,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220592,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206342,
+      "num": 206342,
+      "word": "黄伟晋为对LESSERAFIM不当言论道歉",
+      "onboard_time": 1706414487,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204166,
       "num": 204166,
       "word": "霉霉演唱会大电影票房破9000万",
@@ -547,14 +571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203002,
-      "num": 203002,
-      "word": "湖人 哨子",
-      "onboard_time": 1706414908,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202619,
       "num": 202619,
       "word": "薛之谦是喝多了吗",
@@ -563,12 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202052,
-      "num": 202052,
-      "word": "黄伟晋为对LESSERAFIM不当言论道歉",
-      "onboard_time": 1706414487,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 197830,
+      "num": 197830,
+      "word": "仙剑四猫眼登顶",
+      "onboard_time": 1706413528,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 194784,
@@ -577,14 +593,6 @@
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192819,
-      "num": 192819,
-      "word": "仙剑四猫眼登顶",
-      "onboard_time": 1706413528,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 187480,
@@ -601,14 +609,6 @@
       "onboard_time": 1706362173,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183870,
-      "num": 183870,
-      "word": "上海图书馆回应馆内一把躺椅数万元",
-      "onboard_time": 1706414248,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177213,
@@ -649,6 +649,14 @@
       "onboard_time": 1706353108,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165867,
+      "num": 165867,
+      "word": "中国铁路从未授权第三方平台卖票",
+      "onboard_time": 1706415569,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164769,
@@ -739,6 +747,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 148478,
+      "num": 148478,
+      "word": "昆明动物园曾有女童与老虎合影被咬死",
+      "onboard_time": 1706415990,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144725,
       "num": 132464,
       "word": "还是公公情商高",
@@ -819,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131461,
+      "num": 131461,
+      "word": "上海图书馆一把躺椅数万元",
+      "onboard_time": 1706415748,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130015,
       "num": 130015,
       "word": "湖北省政府向中国网协和郑钦文致贺电",
@@ -859,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124452,
+      "num": 124452,
+      "word": "孙悦谈为何隐退8年",
+      "onboard_time": 1706416287,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123020,
       "num": 123020,
       "word": "我国古代设计师的小创意太哇噻了",
@@ -873,6 +905,14 @@
       "onboard_time": 1706364152,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121219,
+      "num": 121219,
+      "word": "一念关山上星浙江卫视",
+      "onboard_time": 1706416229,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 120782,
@@ -891,20 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119193,
+      "num": 119193,
+      "word": "罗晋发文告别梁辰",
+      "onboard_time": 1706415927,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117841,
+      "num": 117841,
+      "word": "杭漂的年轻人熬不住了",
+      "onboard_time": 1706412208,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117054,
       "num": 117054,
       "word": "宝妈用小馒头吸收药物喂宝宝吃",
       "onboard_time": 1706367692,
       "rank": 32,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 116298,
-      "num": 116298,
-      "word": "杭漂的年轻人熬不住了",
-      "onboard_time": 1706412208,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114713,
@@ -971,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107467,
+      "num": 107467,
+      "word": "武术队",
+      "onboard_time": 1706416111,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107082,
       "num": 107082,
       "word": "让头发狂长的8个穴位",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1706408549,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103403,
+      "num": 103403,
+      "word": "刚立耳还有点不适应的小德牧",
+      "onboard_time": 1706415629,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 102065,
@@ -1107,20 +1171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "体制内拜年祝福语",
+      "onboard_time": 1706415629,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92499,
       "num": 101899,
       "word": "武汉女生备考3个月被剑桥录取",
       "onboard_time": 1706364634,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90268,
-      "num": 90268,
-      "word": "中国铁路从未授权第三方平台卖票",
-      "onboard_time": 1706415569,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89162,
@@ -1291,8 +1355,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 49956,
-      "num": 692690,
+      "raw_hot": 51307,
+      "num": 859574,
       "word": "大美中国冰雪之约走进内蒙古",
       "onboard_time": 1706412990,
       "rank": 2,
