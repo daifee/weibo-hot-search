@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706422813199,
+  "endTime": 1706423651173,
   "band_list": [
     {
       "raw_hot": 1652183,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063540,
+      "num": 1063540,
+      "word": "谷爱凌将代表中国征战2026冬奥会",
+      "onboard_time": 1706418089,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1055944,
       "num": 931977,
       "word": "昆明动物园猴山2只猫已移出",
       "onboard_time": 1706399244,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1028920,
-      "num": 1028920,
-      "word": "谷爱凌将代表中国征战2026冬奥会",
-      "onboard_time": 1706418089,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 988391,
@@ -283,6 +283,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467210,
+      "num": 467210,
+      "word": "LV老板超马斯克重夺全球首富",
+      "onboard_time": 1706421150,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 466391,
+      "num": 466391,
+      "word": "古茗 天官赐福",
+      "onboard_time": 1706422829,
+      "rank": 8,
+      "category": "美食,动漫"
+    },
+    {
       "raw_hot": 459085,
       "num": 459085,
       "word": "中国地质大学回应公示拟聘任处长之子",
@@ -363,12 +379,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 375673,
-      "num": 375673,
-      "word": "LV老板超马斯克重夺全球首富",
-      "onboard_time": 1706421150,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 376464,
+      "num": 376464,
+      "word": "研究表明大学生平均智商逐年下降",
+      "onboard_time": 1706422227,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353664,
@@ -385,6 +401,14 @@
       "onboard_time": 1706405968,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345805,
+      "num": 345805,
+      "word": "曝檀健次最近在看别墅",
+      "onboard_time": 1706422708,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 342752,
@@ -417,6 +441,14 @@
       "onboard_time": 1706407887,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 315670,
+      "num": 315670,
+      "word": "德州",
+      "onboard_time": 1706421630,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 314453,
@@ -587,6 +619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 247137,
+      "num": 247137,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1706423191,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 246699,
       "num": 246699,
       "word": "浓眉受伤",
@@ -683,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211591,
+      "num": 211591,
+      "word": "辛芷蕾代言雅诗兰黛彩妆",
+      "onboard_time": 1706423607,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 210911,
       "num": 210911,
       "word": "中国游客国外发病获过路中国医生急救",
@@ -763,28 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197523,
-      "num": 197523,
-      "word": "曝檀健次最近在看别墅",
-      "onboard_time": 1706422708,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194784,
       "num": 194784,
       "word": "00后四帅",
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189023,
-      "num": 189023,
-      "word": "德州",
-      "onboard_time": 1706421630,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 187480,
@@ -835,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175213,
-      "num": 175213,
-      "word": "研究表明大学生平均智商逐年下降",
-      "onboard_time": 1706422227,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175032,
       "num": 175032,
       "word": "人要一寸一寸的拯救自己",
@@ -859,20 +883,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173018,
+      "num": 173018,
+      "word": "驾校教练本科竟然是学法学的",
+      "onboard_time": 1706422227,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172210,
       "num": 172210,
       "word": "醉酒女孩爬27楼屋顶被民警飞扑抱住",
       "onboard_time": 1706402427,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167840,
-      "num": 158819,
-      "word": "驾校教练本科竟然是学法学的",
-      "onboard_time": 1706422227,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 165883,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155042,
+      "num": 155042,
+      "word": "在韩中国学生展示韩国大学美食",
+      "onboard_time": 1706422050,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155001,
       "num": 127356,
       "word": "范丞丞不想跳科目三",
@@ -1019,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141287,
+      "num": 141287,
+      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+      "onboard_time": 1706423129,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140981,
       "num": 140981,
       "word": "深空约会日程",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1706419710,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135211,
+      "num": 135211,
+      "word": "东北人骨子里的幽默属性",
+      "onboard_time": 1706423248,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 134969,
@@ -1123,14 +1171,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 127981,
-      "num": 127981,
-      "word": "在韩中国学生展示韩国大学美食",
-      "onboard_time": 1706422050,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 127250,
       "num": 127250,
       "word": "赶春运的农民工背包比人都高",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1706403806,
       "rank": 36,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 125363,
+      "num": 125363,
+      "word": "去年的梗多到今年还能接着用",
+      "onboard_time": 1706421688,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 123888,
@@ -1211,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117925,
-      "num": 117925,
-      "word": "去年的梗多到今年还能接着用",
-      "onboard_time": 1706421688,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117841,
       "num": 117841,
       "word": "杭漂的年轻人熬不住了",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115753,
+      "num": 115753,
+      "word": "泰国搜索热度激增",
+      "onboard_time": 1706423248,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114713,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1706363373,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108434,
+      "num": 108434,
+      "word": "原来猫也有敏感肌",
+      "onboard_time": 1706423310,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 108300,
