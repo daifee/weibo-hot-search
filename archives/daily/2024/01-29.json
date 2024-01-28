@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706472976872,
+  "endTime": 1706474043471,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36595,
+      "num": 32890,
+      "word": "男子租宝马后抵押套现21万挥霍",
+      "onboard_time": 1706471596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35486,
       "num": 35486,
       "word": "赵露思新年礼盒",
@@ -467,14 +475,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19846,
-      "num": 19846,
-      "word": "男子租宝马后抵押套现21万挥霍",
-      "onboard_time": 1706471596,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18028,
       "num": 24116,
       "word": "融合嘻哈盛典",
@@ -505,6 +505,14 @@
       "onboard_time": 1706468717,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10258,
+      "num": 10258,
+      "word": "七旬阿婆用毛线编出消防员和装备",
+      "onboard_time": 1706473996,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 4771,
