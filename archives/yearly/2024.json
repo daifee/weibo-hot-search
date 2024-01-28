@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706434428091,
+  "endTime": 1706437065608,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1771,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1739470,
+      "num": 1739470,
+      "word": "机票价格",
+      "onboard_time": 1706433089,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1734440,
       "num": 1734440,
       "word": "我国电视开机率跌至30%",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705931608,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1543055,
-      "num": 639771,
-      "word": "吐槽美甲太丑忘记屏蔽美甲店",
-      "onboard_time": 1704085412,
-      "rank": 10,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
