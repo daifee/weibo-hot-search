@@ -1,0 +1,410 @@
+{
+  "runTime": 1706422813199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028920,
+        "num": 1028920,
+        "word": "谷爱凌将代表中国征战2026冬奥会",
+        "onboard_time": 1706418089,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774476,
+        "num": 774476,
+        "word": "中泰签证互免",
+        "onboard_time": 1706417969,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63190,
+        "num": 624799,
+        "word": "春节回家路上有他们保驾护航",
+        "onboard_time": 1706418387,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584762,
+        "num": 584762,
+        "word": "龙年央视春晚第三次联排",
+        "onboard_time": 1706415030,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584259,
+        "num": 584259,
+        "word": "事业编招聘公示领导子女引争议",
+        "onboard_time": 1706413107,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579382,
+        "num": 579382,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539167,
+        "num": 539167,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521934,
+        "num": 521934,
+        "word": "孙悦谈为何隐退8年",
+        "onboard_time": 1706416287,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473493,
+        "num": 473493,
+        "word": "十个勤天现身龙年春晚彩排",
+        "onboard_time": 1706420010,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452526,
+        "num": 452526,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 396684,
+        "num": 396684,
+        "word": "詹姆斯绝杀勇士",
+        "onboard_time": 1706418688,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382412,
+        "num": 382412,
+        "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
+        "onboard_time": 1706410167,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375673,
+        "num": 375673,
+        "word": "LV老板超马斯克重夺全球首富",
+        "onboard_time": 1706421150,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312771,
+        "num": 312771,
+        "word": "少爷和我阵容",
+        "onboard_time": 1706419947,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308474,
+        "num": 308474,
+        "word": "螃蟹酱留存了中国酱最初的模样",
+        "onboard_time": 1706416887,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301025,
+        "num": 301025,
+        "word": "库里把球衣撕了",
+        "onboard_time": 1706420370,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271441,
+        "num": 271441,
+        "word": "麻将机越来越先进了",
+        "onboard_time": 1706417668,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251047,
+        "num": 251047,
+        "word": "icon官宣退役",
+        "onboard_time": 1706417308,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247698,
+        "num": 247698,
+        "word": "王楚然新加坡生图",
+        "onboard_time": 1706416709,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238459,
+        "num": 238459,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230015,
+        "num": 230015,
+        "word": "男子1元抢拍花瓶付款秒变9999元",
+        "onboard_time": 1706418808,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225386,
+        "num": 225386,
+        "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
+        "onboard_time": 1706410409,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204829,
+        "num": 204829,
+        "word": "网购三辆叉车收到一颗螺丝",
+        "onboard_time": 1706422168,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204115,
+        "num": 204115,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197552,
+        "num": 197552,
+        "word": "喜欢一个人的真实反应",
+        "onboard_time": 1706418630,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197523,
+        "num": 197523,
+        "word": "曝檀健次最近在看别墅",
+        "onboard_time": 1706422708,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189023,
+        "num": 189023,
+        "word": "德州",
+        "onboard_time": 1706421630,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175213,
+        "num": 175213,
+        "word": "研究表明大学生平均智商逐年下降",
+        "onboard_time": 1706422227,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170787,
+        "num": 170787,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163332,
+        "num": 163332,
+        "word": "张婧仪出水芙蓉",
+        "onboard_time": 1706421087,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185444,
+        "num": 162479,
+        "word": "妈妈眼里躺在床上吃东西的你",
+        "onboard_time": 1706420789,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167840,
+        "num": 158819,
+        "word": "驾校教练本科竟然是学法学的",
+        "onboard_time": 1706422227,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151928,
+        "num": 151928,
+        "word": "马嘉祺打卡了时代少年团应援",
+        "onboard_time": 1706422288,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144546,
+        "num": 144546,
+        "word": "刘谦龙年央视春晚第三次联排",
+        "onboard_time": 1706417428,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137794,
+        "num": 137794,
+        "word": "闵塔鲨晒迪丽热巴",
+        "onboard_time": 1706410647,
+        "rank": 34,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 133630,
+        "num": 133630,
+        "word": "中国铁路从未授权第三方平台卖票",
+        "onboard_time": 1706415569,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133112,
+        "num": 133112,
+        "word": "董宇辉 一张表吃透英语16时态",
+        "onboard_time": 1706412390,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 127981,
+        "word": "在韩中国学生展示韩国大学美食",
+        "onboard_time": 1706422050,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127311,
+        "num": 127311,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121219,
+        "num": 121219,
+        "word": "男生见女友家人的正确打开方式",
+        "onboard_time": 1706421568,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117925,
+        "num": 117925,
+        "word": "去年的梗多到今年还能接着用",
+        "onboard_time": 1706421688,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 117440,
+        "word": "花花有了新玩具",
+        "onboard_time": 1706414248,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116630,
+        "num": 116630,
+        "word": "沈腾为了它封闭训练了两个月",
+        "onboard_time": 1706421027,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112869,
+        "num": 112869,
+        "word": "爱情和友情都是中性词",
+        "onboard_time": 1706419648,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111284,
+        "num": 111284,
+        "word": "爱国不是生意举报应有依据",
+        "onboard_time": 1706412990,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110255,
+        "num": 110255,
+        "word": "莲花楼在日本将播出",
+        "onboard_time": 1706422648,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103738,
+        "num": 103738,
+        "word": "储备多少财富才能满足养老需求",
+        "onboard_time": 1706421328,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101502,
+        "num": 101502,
+        "word": "詹姆斯常规赛出场历史第七",
+        "onboard_time": 1706418509,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100333,
+        "num": 100333,
+        "word": "董宇辉带货化妆品要砍掉贵的",
+        "onboard_time": 1706410227,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91751,
+        "num": 91751,
+        "word": "詹姆斯36分20篮板三双",
+        "onboard_time": 1706421446,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有创新才能自强才能争先#"
+    }
+  }
+}
