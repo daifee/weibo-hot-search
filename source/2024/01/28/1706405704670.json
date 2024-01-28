@@ -1,0 +1,410 @@
+{
+  "runTime": 1706405704670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208737,
+        "num": 1208737,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958771,
+        "num": 958771,
+        "word": "美国正在阻止中国获得算力",
+        "onboard_time": 1706402008,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54305,
+        "num": 932048,
+        "word": "中国航天器名字里有中国人才懂的含义",
+        "onboard_time": 1706360849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998741,
+        "num": 931977,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930478,
+        "num": 930478,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458658,
+        "num": 458658,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447512,
+        "num": 447512,
+        "word": "杨紫说破两万跳女团舞",
+        "onboard_time": 1706402066,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425378,
+        "num": 425378,
+        "word": "被游客投诉烤鱼片摊主已进黑名单",
+        "onboard_time": 1706397800,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342062,
+        "num": 342062,
+        "word": "买701号房交房变704业主怒嫌晦气",
+        "onboard_time": 1706378360,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287824,
+        "num": 287824,
+        "word": "军队文职成绩",
+        "onboard_time": 1706401166,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1212749,
+        "num": 260660,
+        "word": "北京地震",
+        "onboard_time": 1706397380,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288607,
+        "num": 254577,
+        "word": "在火车上发疯之后全车厢都安静了",
+        "onboard_time": 1706399543,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230652,
+        "num": 230652,
+        "word": "这跟易烊千玺谈了有什么区别",
+        "onboard_time": 1706370629,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226199,
+        "num": 226199,
+        "word": "巩汉林发视频缅怀赵丽蓉",
+        "onboard_time": 1706401887,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224439,
+        "num": 224439,
+        "word": "三蹦子厂家称倒车请注意将推出英文版",
+        "onboard_time": 1706396839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210911,
+        "num": 210911,
+        "word": "中国游客国外发病获过路中国医生急救",
+        "onboard_time": 1706399543,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207764,
+        "num": 207764,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206883,
+        "num": 206883,
+        "word": "谷爱凌腿受伤",
+        "onboard_time": 1706398640,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199019,
+        "num": 199019,
+        "word": "我得省钱 人就活一次",
+        "onboard_time": 1706405068,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184471,
+        "num": 184471,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 232358,
+        "num": 184191,
+        "word": "婚庆公司订单已排到2025年",
+        "onboard_time": 1706398341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183250,
+        "num": 183250,
+        "word": "为什么情侣可以有隐私但不能有秘密",
+        "onboard_time": 1706397440,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175631,
+        "num": 175631,
+        "word": "日本东京湾4.8级地震",
+        "onboard_time": 1706400924,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172210,
+        "num": 172210,
+        "word": "醉酒女孩爬27楼屋顶被民警飞扑抱住",
+        "onboard_time": 1706402427,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155372,
+        "num": 155372,
+        "word": "那一晚 闫妮和张小斐都醉了",
+        "onboard_time": 1706404828,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152301,
+        "num": 152301,
+        "word": "没结婚用不用给外甥女压岁钱",
+        "onboard_time": 1706367692,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139754,
+        "num": 139754,
+        "word": "阿拉斯加自己走丢在大街上大哭",
+        "onboard_time": 1706363492,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134437,
+        "num": 134437,
+        "word": "曹恩齐 应援了一个绝美舞台",
+        "onboard_time": 1706403987,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 134106,
+        "word": "七三一部队罪证陈列馆有批小讲解员",
+        "onboard_time": 1706405008,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128909,
+        "num": 128909,
+        "word": "李维斯拟裁员约15%",
+        "onboard_time": 1706405008,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 126210,
+        "word": "网络圣手治疗小孩子不爱吃菜",
+        "onboard_time": 1706403806,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 123020,
+        "num": 123020,
+        "word": "我国古代设计师的小创意太哇噻了",
+        "onboard_time": 1706405248,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122207,
+        "num": 122207,
+        "word": "迪丽热巴高定首穿",
+        "onboard_time": 1706354490,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122045,
+        "num": 122045,
+        "word": "赶春运的农民工背包比人都高",
+        "onboard_time": 1706403146,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121585,
+        "num": 121585,
+        "word": "德克萨斯",
+        "onboard_time": 1706373505,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119093,
+        "num": 119093,
+        "word": "苦了陈楚生不能苦了我",
+        "onboard_time": 1706367692,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113088,
+        "num": 113088,
+        "word": "不是所有人都有智齿",
+        "onboard_time": 1706401945,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110730,
+        "num": 110730,
+        "word": "谷爱凌带伤参赛XGames",
+        "onboard_time": 1706404047,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107642,
+        "num": 107642,
+        "word": "什么样的智齿不需要拔",
+        "onboard_time": 1706405430,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105824,
+        "num": 105824,
+        "word": "男生戴簪花也很好看",
+        "onboard_time": 1706398462,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 103800,
+        "num": 103800,
+        "word": "金鹤龙晒迪丽热巴",
+        "onboard_time": 1706368771,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102430,
+        "num": 102430,
+        "word": "王星越对吴磊说太拥挤了",
+        "onboard_time": 1706400924,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101093,
+        "num": 101093,
+        "word": "主播称董宇辉被叫老板恨不得翻脸",
+        "onboard_time": 1706364333,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100575,
+        "num": 100575,
+        "word": "上班后第一份工资",
+        "onboard_time": 1706400024,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94612,
+        "num": 94612,
+        "word": "快船vs凯尔特人",
+        "onboard_time": 1706404228,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 94004,
+        "word": "91岁院士戚发轫希望看到中国人登上月球",
+        "onboard_time": 1706404828,
+        "rank": 45,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 93763,
+        "num": 93763,
+        "word": "吴磊何老师随地大小演",
+        "onboard_time": 1706403987,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86599,
+        "num": 86599,
+        "word": "张雨绮邀请王鹤棣合作",
+        "onboard_time": 1706399124,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84199,
+        "num": 84199,
+        "word": "幸运体质",
+        "onboard_time": 1706405667,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83611,
+        "num": 83611,
+        "word": "堆雪人界也进化到考研了",
+        "onboard_time": 1706405549,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙互致贺电#"
+    }
+  }
+}

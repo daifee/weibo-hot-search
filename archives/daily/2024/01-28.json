@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706404579916,
+  "endTime": 1706405704670,
   "band_list": [
     {
       "raw_hot": 1247834,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1146017,
-      "num": 1146017,
+      "raw_hot": 1208737,
+      "num": 1208737,
       "word": "吴磊问赵今麦有男朋友了吗",
       "onboard_time": 1706398941,
       "rank": 0,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1055944,
-      "num": 634038,
+      "num": 931977,
       "word": "昆明动物园猴山2只猫已移出",
       "onboard_time": 1706399244,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958771,
+      "num": 958771,
+      "word": "美国正在阻止中国获得算力",
+      "onboard_time": 1706402008,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 941175,
@@ -35,16 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 804443,
-      "num": 283058,
-      "word": "美国正在阻止中国获得算力",
-      "onboard_time": 1706402008,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 794647,
-      "num": 794647,
+      "raw_hot": 930478,
+      "num": 930478,
       "word": "发布女性隐私视频被认定侮辱罪",
       "onboard_time": 1706402187,
       "rank": 1,
@@ -131,6 +131,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458658,
+      "num": 458658,
+      "word": "秦岚露背了",
+      "onboard_time": 1706403087,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447512,
+      "num": 447512,
+      "word": "杨紫说破两万跳女团舞",
+      "onboard_time": 1706402066,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437832,
       "num": 227956,
       "word": "迪丽热巴高定首穿",
@@ -147,28 +163,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 425194,
-      "num": 425194,
-      "word": "秦岚露背了",
-      "onboard_time": 1706403087,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 393502,
       "num": 181153,
       "word": "金鹤龙晒迪丽热巴",
       "onboard_time": 1706368771,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 377341,
-      "num": 377341,
-      "word": "杨紫说破两万跳女团舞",
-      "onboard_time": 1706402066,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 342752,
@@ -291,12 +291,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209532,
-      "num": 209532,
+      "raw_hot": 210911,
+      "num": 210911,
       "word": "中国游客国外发病获过路中国医生急救",
       "onboard_time": 1706399543,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199019,
+      "num": 199019,
+      "word": "我得省钱 人就活一次",
+      "onboard_time": 1706405068,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 194784,
@@ -339,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172210,
+      "num": 172210,
+      "word": "醉酒女孩爬27楼屋顶被民警飞扑抱住",
+      "onboard_time": 1706402427,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165883,
       "num": 161430,
       "word": "迪丽热巴爱琴海",
@@ -363,20 +379,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155372,
+      "num": 155372,
+      "word": "那一晚 闫妮和张小斐都醉了",
+      "onboard_time": 1706404828,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155001,
       "num": 127356,
       "word": "范丞丞不想跳科目三",
       "onboard_time": 1706358929,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154932,
-      "num": 154932,
-      "word": "醉酒女孩爬27楼屋顶被民警飞扑抱住",
-      "onboard_time": 1706402427,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149552,
@@ -393,6 +409,22 @@
       "onboard_time": 1706367152,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134437,
+      "num": 134437,
+      "word": "曹恩齐 应援了一个绝美舞台",
+      "onboard_time": 1706403987,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 134106,
+      "num": 134106,
+      "word": "七三一部队罪证陈列馆有批小讲解员",
+      "onboard_time": 1706405008,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133711,
@@ -427,11 +459,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128909,
+      "num": 128909,
+      "word": "李维斯拟裁员约15%",
+      "onboard_time": 1706405008,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 127250,
       "num": 127250,
       "word": "赶春运的农民工背包比人都高",
       "onboard_time": 1706403146,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "网络圣手治疗小孩子不爱吃菜",
+      "onboard_time": 1706403806,
+      "rank": 36,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 123020,
+      "num": 123020,
+      "word": "我国古代设计师的小创意太哇噻了",
+      "onboard_time": 1706405248,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -491,14 +547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 111771,
-      "num": 111771,
-      "word": "网络圣手治疗小孩子不爱吃菜",
-      "onboard_time": 1706403806,
-      "rank": 36,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 110129,
       "num": 110129,
       "word": "你早上刷牙还是晚上刷牙",
@@ -523,12 +571,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 105563,
-      "num": 105563,
-      "word": "曹恩齐 应援了一个绝美舞台",
-      "onboard_time": 1706403987,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 107642,
+      "num": 107642,
+      "word": "什么样的智齿不需要拔",
+      "onboard_time": 1706405430,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105824,
+      "num": 105824,
+      "word": "男生戴簪花也很好看",
+      "onboard_time": 1706398462,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 102054,
@@ -555,12 +611,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 100575,
+      "num": 100575,
+      "word": "上班后第一份工资",
+      "onboard_time": 1706400024,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95544,
       "num": 95544,
       "word": "宋慧乔红丝袜",
       "onboard_time": 1706361332,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 94612,
+      "num": 94612,
+      "word": "快船vs凯尔特人",
+      "onboard_time": 1706404228,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 94064,
@@ -571,12 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92583,
-      "num": 92583,
-      "word": "上班后第一份工资",
-      "onboard_time": 1706400024,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 94004,
+      "num": 94004,
+      "word": "91岁院士戚发轫希望看到中国人登上月球",
+      "onboard_time": 1706404828,
+      "rank": 45,
+      "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 93763,
+      "num": 93763,
+      "word": "吴磊何老师随地大小演",
+      "onboard_time": 1706403987,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 92499,
@@ -585,22 +665,6 @@
       "onboard_time": 1706364634,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 91905,
-      "num": 91905,
-      "word": "快船vs凯尔特人",
-      "onboard_time": 1706404228,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 89063,
-      "num": 89063,
-      "word": "男生戴簪花也很好看",
-      "onboard_time": 1706398462,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 88143,
@@ -627,20 +691,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86141,
-      "num": 86141,
-      "word": "吴磊何老师随地大小演",
-      "onboard_time": 1706403987,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85636,
       "num": 85636,
       "word": "红丝袜",
       "onboard_time": 1706388496,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84199,
+      "num": 84199,
+      "word": "幸运体质",
+      "onboard_time": 1706405667,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83611,
+      "num": 83611,
+      "word": "堆雪人界也进化到考研了",
+      "onboard_time": 1706405549,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83054,
@@ -731,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54305,
+      "num": 932048,
+      "word": "中国航天器名字里有中国人才懂的含义",
+      "onboard_time": 1706360849,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52231,
       "num": 52231,
       "word": "延吉一早市早上6点挤满了游客",
@@ -745,14 +825,6 @@
       "onboard_time": 1706397499,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50574,
-      "num": 636244,
-      "word": "中国航天器名字里有中国人才懂的含义",
-      "onboard_time": 1706360849,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42299,
