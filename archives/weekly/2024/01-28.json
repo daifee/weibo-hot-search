@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706462194084,
+  "endTime": 1706463238423,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -1644,7 +1644,7 @@
     },
     {
       "raw_hot": 173190,
-      "num": 73446,
+      "num": 74280,
       "word": "新款iPadPro或3月底发布",
       "onboard_time": 1706459547,
       "rank": 49,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1706424208,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128664,
+      "num": 128664,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128590,
@@ -3073,14 +3081,6 @@
       "onboard_time": 1706398401,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64033,
-      "num": 64033,
-      "word": "小学生收获1600斤年终奖",
-      "onboard_time": 1706461223,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57052,

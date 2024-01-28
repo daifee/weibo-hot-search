@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706462194084,
+  "endTime": 1706463238423,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 173190,
-      "num": 73446,
+      "num": 74280,
       "word": "新款iPadPro或3月底发布",
       "onboard_time": 1706459547,
       "rank": 49,
@@ -176,6 +176,14 @@
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128664,
+      "num": 128664,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -395,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64033,
-      "num": 64033,
-      "word": "小学生收获1600斤年终奖",
-      "onboard_time": 1706461223,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51353,
       "num": 51353,
       "word": "刘诗诗首次参加春晚联排",
@@ -433,6 +433,22 @@
       "onboard_time": 1706448749,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26553,
+      "num": 32414,
+      "word": "男子植入国产人工心脏后第一天就下床锻炼",
+      "onboard_time": 1706446891,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25451,
+      "num": 32265,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1706454392,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 4771,
