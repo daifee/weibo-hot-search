@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706454910456,
+  "endTime": 1706456048869,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702132,
+      "num": 702132,
+      "word": "李湘辟谣1560元出售二手毛巾",
+      "onboard_time": 1706454993,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697749,
       "num": 697749,
       "word": "胡歌回应为何常在西藏青海被偶遇",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674216,
+      "num": 674216,
+      "word": "第一次觉得手机外放声音不刺耳了",
+      "onboard_time": 1706450490,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 671113,
       "num": 671113,
       "word": "刘诗诗首次参加春晚联排",
@@ -329,14 +345,6 @@
       "onboard_time": 1706416887,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 641559,
-      "num": 641559,
-      "word": "第一次觉得手机外放声音不刺耳了",
-      "onboard_time": 1706450490,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 640307,
@@ -889,6 +897,14 @@
       "onboard_time": 1706436030,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315634,
+      "num": 315634,
+      "word": "专家称猫打不过猴只能服从",
+      "onboard_time": 1706454810,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314453,
@@ -1843,6 +1859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 149185,
+      "num": 149185,
+      "word": "赵昭仪以辛芷蕾为榜样",
+      "onboard_time": 1706454872,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149178,
       "num": 149178,
       "word": "掐脖舞",
@@ -1883,20 +1907,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147237,
+      "num": 147237,
+      "word": "回锅7次的油致癌物增加30倍",
+      "onboard_time": 1706454029,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145928,
       "num": 145928,
       "word": "周末真的适合补觉",
       "onboard_time": 1706429607,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145522,
-      "num": 145522,
-      "word": "回锅7次的油致癌物增加30倍",
-      "onboard_time": 1706454029,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145030,
@@ -2123,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129642,
+      "num": 129642,
+      "word": "每个省都有自己的噩梦",
+      "onboard_time": 1706454750,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129467,
       "num": 129467,
       "word": "长白山云顶天宫雪雕",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1706424208,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128590,
+      "num": 128590,
+      "word": "杨子回应带货风波",
+      "onboard_time": 1706454993,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 128447,
@@ -2275,14 +2315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120069,
-      "num": 120069,
-      "word": "赵昭仪以辛芷蕾为榜样",
-      "onboard_time": 1706454872,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119290,
       "num": 119290,
       "word": "王星越对吴磊说太拥挤了",
@@ -2395,6 +2427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113422,
+      "num": 113422,
+      "word": "彩礼防谈崩技巧",
+      "onboard_time": 1706454993,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112869,
       "num": 112869,
       "word": "爱情和友情都是中性词",
@@ -2459,6 +2499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109475,
+      "num": 109475,
+      "word": "收到了童年的最后一个彩蛋",
+      "onboard_time": 1706455531,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108988,
+      "num": 108988,
+      "word": "单依纯春晚跑操式下班",
+      "onboard_time": 1706455052,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108819,
       "num": 108819,
       "word": "青山说灰原喜欢柯南",
@@ -2497,14 +2553,6 @@
       "onboard_time": 1706405430,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107554,
-      "num": 107554,
-      "word": "每个省都有自己的噩梦",
-      "onboard_time": 1706454750,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 107082,
@@ -2683,14 +2731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97728,
-      "num": 97728,
-      "word": "专家称猫打不过猴只能服从",
-      "onboard_time": 1706454810,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "JDG战胜RA",
@@ -2859,12 +2899,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 86710,
+      "num": 86710,
+      "word": "GPT4为何会颠覆现有工作流",
+      "onboard_time": 1706455951,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 85636,
       "num": 85636,
       "word": "红丝袜",
       "onboard_time": 1706388496,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84349,
+      "num": 84349,
+      "word": "F勒布伦WTT男单夺冠",
+      "onboard_time": 1706455229,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84199,
