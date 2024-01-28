@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706438035300,
+  "endTime": 1706440371730,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -601,6 +601,14 @@
       "onboard_time": 1706083530,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2578058,
+      "num": 2578058,
+      "word": "张佳宁 切错号",
+      "onboard_time": 1706437288,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2569909,
@@ -6019,14 +6027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 998659,
-      "num": 998659,
-      "word": "张佳宁 切错号",
-      "onboard_time": 1706437288,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 997014,
       "num": 414440,
       "word": "女子称与男网友住酒店遭强奸",
@@ -10124,7 +10124,7 @@
     },
     {
       "raw_hot": 739223,
-      "num": 1316714,
+      "num": 1358203,
       "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
       "onboard_time": 1706423129,
       "rank": 37,
@@ -10817,6 +10817,14 @@
       "onboard_time": 1704034335,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 710103,
+      "num": 710103,
+      "word": "10省将出现暴雪或大暴雪",
+      "onboard_time": 1706438371,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709743,
@@ -15075,6 +15083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 563022,
+      "num": 563022,
+      "word": "苏有朋 你们是组团来让我难堪的吗",
+      "onboard_time": 1706436448,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 562397,
       "num": 562397,
       "word": "曝袁惟仁意识不清",
@@ -16249,6 +16265,14 @@
       "onboard_time": 1705121190,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 534103,
+      "num": 534103,
+      "word": "得州兵营美军士兵开枪互射",
+      "onboard_time": 1706434351,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 533918,
@@ -18209,6 +18233,14 @@
       "onboard_time": 1704094296,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 489618,
+      "num": 489618,
+      "word": "211毕业男子被裁瞒着妻子送外卖",
+      "onboard_time": 1706438250,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489405,
@@ -21019,14 +21051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427990,
-      "num": 427990,
-      "word": "得州兵营美军士兵开枪互射",
-      "onboard_time": 1706434351,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 427933,
       "num": 427933,
       "word": "C罗发布会玩手机",
@@ -23467,14 +23491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382648,
-      "num": 382648,
-      "word": "苏有朋 你们是组团来让我难堪的吗",
-      "onboard_time": 1706436448,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 382535,
       "num": 382535,
       "word": "EXO今后活动方向",
@@ -25019,6 +25035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 356037,
+      "num": 356037,
+      "word": "关晓彤是来春晚找沈腾的吗",
+      "onboard_time": 1706437769,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355667,
       "num": 355667,
       "word": "孙楠问时代少年团现在还在吗",
@@ -25137,6 +25161,14 @@
       "onboard_time": 1704811536,
       "rank": 21,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 352948,
+      "num": 352948,
+      "word": "身家400亿富豪任上海掼蛋协会会长",
+      "onboard_time": 1706437588,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352942,
@@ -27561,6 +27593,14 @@
       "onboard_time": 1706166932,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316379,
+      "num": 316379,
+      "word": "大冰梗",
+      "onboard_time": 1706436030,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 316293,
@@ -30659,14 +30699,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 279463,
-      "num": 279463,
-      "word": "大冰梗",
-      "onboard_time": 1706436030,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279414,
       "num": 279414,
       "word": "权顺荣 下辈子作为灵魂相见吧",
@@ -32379,6 +32411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262406,
+      "num": 177563,
+      "word": "香港20平住5个人的房子",
+      "onboard_time": 1706439391,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262405,
       "num": 243538,
       "word": "女贼担心判太重偷走8000元留下1万4",
@@ -33041,6 +33081,14 @@
       "onboard_time": 1704954928,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255887,
+      "num": 255887,
+      "word": "老板晒和王源合照",
+      "onboard_time": 1706439211,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 255849,
@@ -35107,14 +35155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238740,
-      "num": 238740,
-      "word": "关晓彤是来春晚找沈腾的吗",
-      "onboard_time": 1706437769,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238717,
       "num": 238717,
       "word": "边伯贤将3月举行演唱会",
@@ -36428,7 +36468,7 @@
     },
     {
       "raw_hot": 229931,
-      "num": 691220,
+      "num": 727256,
       "word": "湖南一小区物业费全免还分红每户400",
       "onboard_time": 1706432608,
       "rank": 45,
@@ -37537,6 +37577,14 @@
       "onboard_time": 1705014259,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223704,
+      "num": 223704,
+      "word": "狗狗 考上编也不能断情绝欲",
+      "onboard_time": 1706438489,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 223688,
@@ -38881,6 +38929,14 @@
       "onboard_time": 1705989746,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 215751,
+      "num": 215751,
+      "word": "IU金泰亨MV售后",
+      "onboard_time": 1706438131,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 215750,
@@ -45555,6 +45611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189729,
+      "num": 189729,
+      "word": "许凯虞书欣八个机位的吻",
+      "onboard_time": 1706438610,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189712,
       "num": 189712,
       "word": "恋与深空送茶叶蛋",
@@ -47881,6 +47945,14 @@
       "onboard_time": 1706286329,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181609,
+      "num": 181609,
+      "word": "水晶血婚纱",
+      "onboard_time": 1706439032,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 181456,
@@ -66483,14 +66555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118875,
-      "num": 118875,
-      "word": "身家400亿富豪任上海掼蛋协会会长",
-      "onboard_time": 1706437588,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118825,
       "num": 118825,
       "word": "中医瘦身知识",
@@ -68427,6 +68491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109930,
+      "num": 109930,
+      "word": "小巷人家",
+      "onboard_time": 1706438131,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109925,
       "num": 109925,
       "word": "金唱片",
@@ -69385,6 +69457,14 @@
       "onboard_time": 1706311161,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 105075,
+      "num": 105075,
+      "word": "HLE对战T1",
+      "onboard_time": 1706438730,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 105062,
@@ -71043,6 +71123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95396,
+      "num": 95396,
+      "word": "海洋世界的伪装大师",
+      "onboard_time": 1706440051,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95314,
       "num": 95314,
       "word": "巴黎高定时装周",
@@ -71425,6 +71513,14 @@
       "onboard_time": 1705625791,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 92512,
+      "num": 92512,
+      "word": "RA对战JDG",
+      "onboard_time": 1706437109,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 92318,
@@ -71827,14 +71923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88340,
-      "num": 88340,
-      "word": "RA对战JDG",
-      "onboard_time": 1706437109,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88229,
       "num": 88229,
       "word": "全嘻嘻对话区县公务员",
@@ -71929,6 +72017,14 @@
       "onboard_time": 1704837554,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87463,
+      "num": 87463,
+      "word": "驻马店消防通报一仓库发生火灾",
+      "onboard_time": 1706440170,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87387,

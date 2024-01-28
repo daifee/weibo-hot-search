@@ -1,0 +1,410 @@
+{
+  "runTime": 1706440371730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2578058,
+        "num": 2578058,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531809,
+        "num": 1358203,
+        "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+        "onboard_time": 1706423129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8979,
+        "num": 1137786,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 998037,
+        "num": 998037,
+        "word": "机票价格",
+        "onboard_time": 1706433089,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 333768,
+        "num": 813949,
+        "word": "哈工大给尔滨建火锅冰屋",
+        "onboard_time": 1706435432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762014,
+        "num": 762014,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205261,
+        "num": 727256,
+        "word": "湖南一小区物业费全免还分红每户400",
+        "onboard_time": 1706432608,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710103,
+        "num": 710103,
+        "word": "10省将出现暴雪或大暴雪",
+        "onboard_time": 1706438371,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563022,
+        "num": 563022,
+        "word": "苏有朋 你们是组团来让我难堪的吗",
+        "onboard_time": 1706436448,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 551026,
+        "num": 551026,
+        "word": "刘诗诗首次参加春晚联排",
+        "onboard_time": 1706436448,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770000,
+        "num": 544082,
+        "word": "月嫂偷带安眠药上户被抓包",
+        "onboard_time": 1706429909,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534103,
+        "num": 534103,
+        "word": "得州兵营美军士兵开枪互射",
+        "onboard_time": 1706434351,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 489618,
+        "num": 489618,
+        "word": "211毕业男子被裁瞒着妻子送外卖",
+        "onboard_time": 1706438250,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487105,
+        "num": 487105,
+        "word": "马思纯三天瘦了六斤",
+        "onboard_time": 1706434469,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372350,
+        "num": 372350,
+        "word": "韩国吃炸牙签视频爆红",
+        "onboard_time": 1706426609,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356037,
+        "num": 356037,
+        "word": "关晓彤是来春晚找沈腾的吗",
+        "onboard_time": 1706437769,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352948,
+        "num": 352948,
+        "word": "身家400亿富豪任上海掼蛋协会会长",
+        "onboard_time": 1706437588,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345628,
+        "num": 345628,
+        "word": "张元英的肌肉",
+        "onboard_time": 1706433329,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316379,
+        "num": 316379,
+        "word": "大冰梗",
+        "onboard_time": 1706436030,
+        "rank": 18,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 255887,
+        "num": 255887,
+        "word": "老板晒和王源合照",
+        "onboard_time": 1706439211,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247711,
+        "num": 247711,
+        "word": "张婧仪生图",
+        "onboard_time": 1706429189,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233528,
+        "num": 233528,
+        "word": "邓为调档保暖内衣",
+        "onboard_time": 1706434949,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223704,
+        "num": 223704,
+        "word": "狗狗 考上编也不能断情绝欲",
+        "onboard_time": 1706438489,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215751,
+        "num": 215751,
+        "word": "IU金泰亨MV售后",
+        "onboard_time": 1706438131,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211828,
+        "num": 211828,
+        "word": "煮饺子时中途要不要加凉水",
+        "onboard_time": 1706424868,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206584,
+        "num": 206584,
+        "word": "金世佳 CP感",
+        "onboard_time": 1706430506,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191342,
+        "num": 191342,
+        "word": "人群中的迪丽热巴",
+        "onboard_time": 1706430447,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189729,
+        "num": 189729,
+        "word": "许凯虞书欣八个机位的吻",
+        "onboard_time": 1706438610,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181785,
+        "num": 181785,
+        "word": "澳网男单决赛",
+        "onboard_time": 1706435909,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181609,
+        "num": 181609,
+        "word": "水晶血婚纱",
+        "onboard_time": 1706439032,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 262406,
+        "num": 177563,
+        "word": "香港20平住5个人的房子",
+        "onboard_time": 1706439391,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167904,
+        "num": 167904,
+        "word": "周杰伦现场观战澳网男单决赛",
+        "onboard_time": 1706435909,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 167290,
+        "num": 167290,
+        "word": "广东人最怕的天气要来了",
+        "onboard_time": 1706435130,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163456,
+        "num": 163456,
+        "word": "张杰春晚",
+        "onboard_time": 1706433867,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127557,
+        "num": 127557,
+        "word": "古茗 天官赐福",
+        "onboard_time": 1706422829,
+        "rank": 34,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 126845,
+        "num": 126845,
+        "word": "幻兽帕鲁 抄袭",
+        "onboard_time": 1706432251,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 118384,
+        "word": "谷爱凌退出XGames坡障比赛",
+        "onboard_time": 1706423791,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113115,
+        "num": 113115,
+        "word": "老板日售60只羊直呼剁肉到手疼",
+        "onboard_time": 1706436870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109930,
+        "num": 109930,
+        "word": "小巷人家",
+        "onboard_time": 1706438131,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107846,
+        "num": 107846,
+        "word": "妈妈藏婚鞋的水平",
+        "onboard_time": 1706431530,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106214,
+        "num": 106214,
+        "word": "杨幂皮衣半扎发",
+        "onboard_time": 1706423909,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105075,
+        "num": 105075,
+        "word": "HLE对战T1",
+        "onboard_time": 1706438730,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101844,
+        "num": 101844,
+        "word": "范丞丞小巷人家杀青",
+        "onboard_time": 1706435669,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95396,
+        "num": 95396,
+        "word": "海洋世界的伪装大师",
+        "onboard_time": 1706440051,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92512,
+        "num": 92512,
+        "word": "RA对战JDG",
+        "onboard_time": 1706437109,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87463,
+        "num": 87463,
+        "word": "驻马店消防通报一仓库发生火灾",
+        "onboard_time": 1706440170,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86670,
+        "num": 86670,
+        "word": "在朋友圈发亲密照的们你们想干嘛",
+        "onboard_time": 1706424808,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85188,
+        "num": 85188,
+        "word": "黄渤张艺兴面馆路透",
+        "onboard_time": 1706432009,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84172,
+        "num": 84172,
+        "word": "做饭史上难得一遇的奇才",
+        "onboard_time": 1706437830,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82820,
+        "num": 82820,
+        "word": "陈泽直播",
+        "onboard_time": 1706436870,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}

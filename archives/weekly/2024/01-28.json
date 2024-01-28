@@ -1,7 +1,15 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706438035300,
+  "endTime": 1706440371730,
   "band_list": [
+    {
+      "raw_hot": 2578058,
+      "num": 2578058,
+      "word": "张佳宁 切错号",
+      "onboard_time": 1706437288,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2068559,
       "num": 2068559,
@@ -115,14 +123,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 998659,
-      "num": 998659,
-      "word": "张佳宁 切错号",
-      "onboard_time": 1706437288,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 988391,
       "num": 719905,
       "word": "昆明动物园曾有女童与老虎合影被咬死",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 739223,
-      "num": 1316714,
+      "num": 1358203,
       "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
       "onboard_time": 1706423129,
       "rank": 37,
@@ -217,6 +217,14 @@
       "onboard_time": 1706357730,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 710103,
+      "num": 710103,
+      "word": "10省将出现暴雪或大暴雪",
+      "onboard_time": 1706438371,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709313,
@@ -307,6 +315,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 563022,
+      "num": 563022,
+      "word": "苏有朋 你们是组团来让我难堪的吗",
+      "onboard_time": 1706436448,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 558126,
       "num": 241103,
       "word": "北京野生动物园就昆明动物园事件发声",
@@ -345,6 +361,14 @@
       "onboard_time": 1706366791,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534103,
+      "num": 534103,
+      "word": "得州兵营美军士兵开枪互射",
+      "onboard_time": 1706434351,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 521934,
@@ -400,6 +424,14 @@
       "word": "被游客投诉烤鱼片摊主已进黑名单",
       "onboard_time": 1706397800,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489618,
+      "num": 489618,
+      "word": "211毕业男子被裁瞒着妻子送外卖",
+      "onboard_time": 1706438250,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -523,14 +555,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 427990,
-      "num": 427990,
-      "word": "得州兵营美军士兵开枪互射",
-      "onboard_time": 1706434351,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 419077,
       "num": 922912,
       "word": "哈工大给尔滨建火锅冰屋",
@@ -571,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 382648,
-      "num": 382648,
-      "word": "苏有朋 你们是组团来让我难堪的吗",
-      "onboard_time": 1706436448,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 379563,
       "num": 379563,
       "word": "闵塔鲨晒迪丽热巴",
@@ -587,12 +603,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 356037,
+      "num": 356037,
+      "word": "关晓彤是来春晚找沈腾的吗",
+      "onboard_time": 1706437769,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353664,
       "num": 203461,
       "word": "詹姆斯常规赛出场历史第七",
       "onboard_time": 1706418509,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352948,
+      "num": 352948,
+      "word": "身家400亿富豪任上海掼蛋协会会长",
+      "onboard_time": 1706437588,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347080,
@@ -649,6 +681,14 @@
       "onboard_time": 1706427870,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316379,
+      "num": 316379,
+      "word": "大冰梗",
+      "onboard_time": 1706436030,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 314453,
@@ -755,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279463,
-      "num": 279463,
-      "word": "大冰梗",
-      "onboard_time": 1706436030,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279414,
       "num": 279414,
       "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
@@ -835,12 +867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262406,
+      "num": 177563,
+      "word": "香港20平住5个人的房子",
+      "onboard_time": 1706439391,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259242,
       "num": 259242,
       "word": "我得省钱 人就活一次",
       "onboard_time": 1706405068,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255887,
+      "num": 255887,
+      "word": "老板晒和王源合照",
+      "onboard_time": 1706439211,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 253843,
@@ -881,14 +929,6 @@
       "onboard_time": 1706398341,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238740,
-      "num": 238740,
-      "word": "关晓彤是来春晚找沈腾的吗",
-      "onboard_time": 1706437769,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 237170,
@@ -948,7 +988,7 @@
     },
     {
       "raw_hot": 229931,
-      "num": 691220,
+      "num": 727256,
       "word": "湖南一小区物业费全免还分红每户400",
       "onboard_time": 1706432608,
       "rank": 45,
@@ -971,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223704,
+      "num": 223704,
+      "word": "狗狗 考上编也不能断情绝欲",
+      "onboard_time": 1706438489,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222031,
       "num": 222031,
       "word": "上海图书馆回应馆内一把躺椅数万元",
@@ -985,6 +1033,14 @@
       "onboard_time": 1706408788,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215751,
+      "num": 215751,
+      "word": "IU金泰亨MV售后",
+      "onboard_time": 1706438131,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 215750,
@@ -1171,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189729,
+      "num": 189729,
+      "word": "许凯虞书欣八个机位的吻",
+      "onboard_time": 1706438610,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187480,
       "num": 187480,
       "word": "为什么情侣可以有隐私但不能有秘密",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1706435849,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181609,
+      "num": 181609,
+      "word": "水晶血婚纱",
+      "onboard_time": 1706439032,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 177213,
@@ -1739,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118875,
-      "num": 118875,
-      "word": "身家400亿富豪任上海掼蛋协会会长",
-      "onboard_time": 1706437588,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117841,
       "num": 117841,
       "word": "杭漂的年轻人熬不住了",
@@ -1875,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109930,
+      "num": 109930,
+      "word": "小巷人家",
+      "onboard_time": 1706438131,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108819,
       "num": 108819,
       "word": "青山说灰原喜欢柯南",
@@ -1937,6 +2009,14 @@
       "onboard_time": 1706408190,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105075,
+      "num": 105075,
+      "word": "HLE对战T1",
+      "onboard_time": 1706438730,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 104457,
@@ -2067,6 +2147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95396,
+      "num": 95396,
+      "word": "海洋世界的伪装大师",
+      "onboard_time": 1706440051,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95283,
       "num": 95283,
       "word": "kid 本来心情挺好的",
@@ -2115,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92512,
+      "num": 92512,
+      "word": "RA对战JDG",
+      "onboard_time": 1706437109,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92499,
       "num": 101899,
       "word": "武汉女生备考3个月被剑桥录取",
@@ -2139,20 +2235,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 88340,
-      "num": 88340,
-      "word": "RA对战JDG",
-      "onboard_time": 1706437109,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88143,
       "num": 86974,
       "word": "金晨舞蹈致敬200年前清代女科学家",
       "onboard_time": 1706361750,
       "rank": 43,
       "category": "科学科普,艺人"
+    },
+    {
+      "raw_hot": 87463,
+      "num": 87463,
+      "word": "驻马店消防通报一仓库发生火灾",
+      "onboard_time": 1706440170,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86980,
@@ -2467,8 +2563,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 8120,
-      "num": 1123807,
+      "raw_hot": 8979,
+      "num": 1137786,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
       "rank": 2,
