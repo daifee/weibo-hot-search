@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706463238423,
+  "endTime": 1706465929605,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -171,19 +171,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172252,
+      "num": 172252,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142245,
       "num": 142245,
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128664,
-      "num": 128664,
-      "word": "小学生收获1600斤年终奖",
-      "onboard_time": 1706461223,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -435,7 +435,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26553,
+      "raw_hot": 32009,
+      "num": 32009,
+      "word": "我甚至没有狗狗穿的精致",
+      "onboard_time": 1706463740,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27936,
       "num": 32414,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
       "onboard_time": 1706446891,
@@ -449,6 +457,14 @@
       "onboard_time": 1706454392,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18028,
+      "num": 24116,
+      "word": "融合嘻哈盛典",
+      "onboard_time": 1706465661,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 4771,
