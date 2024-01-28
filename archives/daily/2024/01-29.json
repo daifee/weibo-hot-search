@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706480132902,
+  "endTime": 1706481297869,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -179,19 +179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164335,
+      "num": 72131,
+      "word": "日本连环爆炸案凶手患癌自首",
+      "onboard_time": 1706475795,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142245,
       "num": 142245,
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129792,
-      "num": 52414,
-      "word": "日本连环爆炸案凶手患癌自首",
-      "onboard_time": 1706475795,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80682,
+      "num": 80682,
+      "word": "男子租宝马后抵押套现21万挥霍",
+      "onboard_time": 1706471596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75560,
       "num": 75560,
       "word": "收到了童年的最后一个彩蛋",
@@ -411,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60257,
-      "num": 60257,
-      "word": "男子租宝马后抵押套现21万挥霍",
-      "onboard_time": 1706471596,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51353,
       "num": 51353,
       "word": "刘诗诗首次参加春晚联排",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 50888,
-      "num": 19508,
+      "num": 23900,
       "word": "妹妹8科成绩66分当事人否认炒作",
       "onboard_time": 1706468596,
       "rank": 39,
@@ -483,20 +483,36 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 21032,
-      "num": 21032,
+      "raw_hot": 23906,
+      "num": 23906,
       "word": "8种负面情绪加速衰老",
       "onboard_time": 1706474714,
       "rank": 35,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19046,
-      "num": 19046,
+      "raw_hot": 22035,
+      "num": 22035,
+      "word": "大小杨哥版马弓手关羽请战华雄",
+      "onboard_time": 1706479396,
+      "rank": 42,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 20539,
+      "num": 20539,
       "word": "红月亮",
       "onboard_time": 1706447910,
       "rank": 44,
       "category": "自然"
+    },
+    {
+      "raw_hot": 19060,
+      "num": 19060,
+      "word": "颐和园龙凤光影突然出现太惊艳",
+      "onboard_time": 1706477116,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 18028,
@@ -507,36 +523,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16902,
-      "num": 21196,
-      "word": "世界之外攻略",
-      "onboard_time": 1706465960,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 16445,
-      "num": 16445,
-      "word": "颐和园龙凤光影突然出现太惊艳",
-      "onboard_time": 1706477116,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 15547,
-      "num": 15547,
+      "raw_hot": 17694,
+      "num": 17694,
       "word": "常远比岳云鹏早26年上春晚",
       "onboard_time": 1706468717,
       "rank": 46,
       "category": "综艺"
     },
     {
-      "raw_hot": 14480,
-      "num": 14480,
-      "word": "大小杨哥版马弓手关羽请战华雄",
-      "onboard_time": 1706479396,
-      "rank": 42,
-      "category": "互联网,网红"
+      "raw_hot": 16902,
+      "num": 21196,
+      "word": "世界之外攻略",
+      "onboard_time": 1706465960,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 10258,
