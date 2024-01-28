@@ -1,10 +1,10 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706408622903,
+  "endTime": 1706409227019,
   "band_list": [
     {
-      "raw_hot": 1313386,
-      "num": 1313386,
+      "raw_hot": 1385766,
+      "num": 1385766,
       "word": "你买的苹果耳机可能是假的",
       "onboard_time": 1706405727,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449448,
+      "num": 449448,
+      "word": "46岁远嫁女子十年写了3本书",
+      "onboard_time": 1706407108,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447512,
       "num": 447512,
       "word": "杨紫说破两万跳女团舞",
@@ -171,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 425248,
+      "num": 367374,
+      "word": "基因彩票",
+      "onboard_time": 1706407049,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393502,
       "num": 181153,
       "word": "金鹤龙晒迪丽热巴",
@@ -179,12 +195,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 356490,
-      "num": 356490,
-      "word": "46岁远嫁女子十年写了3本书",
-      "onboard_time": 1706407108,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 383941,
+      "num": 383941,
+      "word": "谷爱凌带伤夺金",
+      "onboard_time": 1706407827,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 342752,
@@ -235,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293233,
-      "num": 293233,
+      "raw_hot": 293953,
+      "num": 293953,
       "word": "东北菜浓度最高的地方竟是海南岛",
       "onboard_time": 1706405968,
       "rank": 10,
@@ -251,12 +267,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270292,
+      "num": 270292,
+      "word": "快船打爆凯尔特人",
+      "onboard_time": 1706407587,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269422,
       "num": 269422,
       "word": "谷爱凌腿受伤",
       "onboard_time": 1706398640,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268204,
+      "num": 268204,
+      "word": "那一晚 闫妮和张小斐都醉了",
+      "onboard_time": 1706404828,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263422,
+      "num": 263422,
+      "word": "七三一部队罪证陈列馆有批小讲解员",
+      "onboard_time": 1706405008,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259242,
@@ -267,27 +307,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255221,
-      "num": 255221,
-      "word": "谷爱凌带伤夺金",
-      "onboard_time": 1706407827,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253843,
       "num": 253843,
       "word": "央视曝回流医保药洗白过程",
       "onboard_time": 1706365712,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248381,
-      "num": 248381,
-      "word": "七三一部队罪证陈列馆有批小讲解员",
-      "onboard_time": 1706405008,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -299,28 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241171,
-      "num": 241171,
-      "word": "基因彩票",
-      "onboard_time": 1706407049,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237170,
       "num": 115247,
       "word": "网友吐槽23岁就被迫加入催婚的队伍",
       "onboard_time": 1706372909,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236660,
-      "num": 236660,
-      "word": "快船打爆凯尔特人",
-      "onboard_time": 1706407587,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 234121,
@@ -345,14 +353,6 @@
       "onboard_time": 1706400924,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229922,
-      "num": 229922,
-      "word": "那一晚 闫妮和张小斐都醉了",
-      "onboard_time": 1706404828,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 213099,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177213,
+      "num": 177213,
+      "word": "成毅拍打戏时vs休息时",
+      "onboard_time": 1706406988,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175446,
       "num": 175446,
       "word": "沈梦辰腰椎骨头断裂",
@@ -427,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167097,
-      "num": 167097,
-      "word": "成毅拍打戏时vs休息时",
-      "onboard_time": 1706406988,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165883,
       "num": 161430,
       "word": "迪丽热巴爱琴海",
       "onboard_time": 1706353108,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165782,
+      "num": 165782,
+      "word": "7岁小豆豆收到了特别邀约",
+      "onboard_time": 1706408788,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160771,
@@ -475,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153634,
+      "num": 153634,
+      "word": "勇士新死亡五小",
+      "onboard_time": 1706408609,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149552,
       "num": 123085,
       "word": "梦天拍热巴",
       "onboard_time": 1706366313,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148671,
+      "num": 148671,
+      "word": "智齿不疼还用拔吗",
+      "onboard_time": 1706407349,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144725,
@@ -499,8 +523,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138646,
+      "num": 138646,
+      "word": "中式证件照",
+      "onboard_time": 1706407887,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 138399,
-      "num": 131965,
+      "num": 136579,
       "word": "被小狗的果冻耳朵弹飞",
       "onboard_time": 1706407349,
       "rank": 31,
@@ -545,14 +577,6 @@
       "onboard_time": 1706367272,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129764,
-      "num": 129764,
-      "word": "智齿不疼还用拔吗",
-      "onboard_time": 1706407349,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128909,
@@ -699,6 +723,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 105646,
+      "num": 105646,
+      "word": "明日方舟南越王博物院联动",
+      "onboard_time": 1706408190,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 104027,
+      "num": 104027,
+      "word": "爸爸给儿子带的玩具驾驶室都放不下",
+      "onboard_time": 1706408549,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102054,
       "num": 102054,
       "word": "金晨全套新中式",
@@ -731,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100012,
-      "num": 100012,
-      "word": "明日方舟南越王博物院联动",
-      "onboard_time": 1706408190,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95544,
       "num": 95544,
       "word": "宋慧乔红丝袜",
@@ -763,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94010,
-      "num": 94010,
-      "word": "勇士新死亡五小",
-      "onboard_time": 1706408609,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94004,
       "num": 94004,
       "word": "91岁院士戚发轫希望看到中国人登上月球",
@@ -785,14 +809,6 @@
       "onboard_time": 1706403987,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92833,
-      "num": 92833,
-      "word": "爸爸给儿子带的玩具驾驶室都放不下",
-      "onboard_time": 1706408549,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92499,
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 54305,
-      "num": 932048,
+      "num": 953383,
       "word": "中国航天器名字里有中国人才懂的含义",
       "onboard_time": 1706360849,
       "rank": 2,

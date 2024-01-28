@@ -1,0 +1,410 @@
+{
+  "runTime": 1706409227019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1385766,
+        "num": 1385766,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1111659,
+        "num": 1111659,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38804,
+        "num": 953383,
+        "word": "中国航天器名字里有中国人才懂的含义",
+        "onboard_time": 1706360849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842417,
+        "num": 842417,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605613,
+        "num": 605613,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593373,
+        "num": 593373,
+        "word": "美国正在阻止中国获得算力",
+        "onboard_time": 1706402008,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 449448,
+        "num": 449448,
+        "word": "46岁远嫁女子十年写了3本书",
+        "onboard_time": 1706407108,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416077,
+        "num": 416077,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406588,
+        "num": 406588,
+        "word": "杨紫说破两万跳女团舞",
+        "onboard_time": 1706402066,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383941,
+        "num": 383941,
+        "word": "谷爱凌带伤夺金",
+        "onboard_time": 1706407827,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425248,
+        "num": 367374,
+        "word": "基因彩票",
+        "onboard_time": 1706407049,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316763,
+        "num": 316763,
+        "word": "被游客投诉烤鱼片摊主已进黑名单",
+        "onboard_time": 1706397800,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293953,
+        "num": 293953,
+        "word": "东北菜浓度最高的地方竟是海南岛",
+        "onboard_time": 1706405968,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270292,
+        "num": 270292,
+        "word": "快船打爆凯尔特人",
+        "onboard_time": 1706407587,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268204,
+        "num": 268204,
+        "word": "那一晚 闫妮和张小斐都醉了",
+        "onboard_time": 1706404828,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263422,
+        "num": 263422,
+        "word": "七三一部队罪证陈列馆有批小讲解员",
+        "onboard_time": 1706405008,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232709,
+        "num": 232709,
+        "word": "买701号房交房变704业主怒嫌晦气",
+        "onboard_time": 1706378360,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232240,
+        "num": 232240,
+        "word": "我得省钱 人就活一次",
+        "onboard_time": 1706405068,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198754,
+        "num": 198754,
+        "word": "薛之谦是喝多了吗",
+        "onboard_time": 1706407108,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196531,
+        "num": 196531,
+        "word": "这跟易烊千玺谈了有什么区别",
+        "onboard_time": 1706370629,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188058,
+        "num": 188058,
+        "word": "婚庆公司订单已排到2025年",
+        "onboard_time": 1706398341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177213,
+        "num": 177213,
+        "word": "成毅拍打戏时vs休息时",
+        "onboard_time": 1706406988,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165782,
+        "num": 165782,
+        "word": "7岁小豆豆收到了特别邀约",
+        "onboard_time": 1706408788,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160641,
+        "num": 160641,
+        "word": "为什么情侣可以有隐私但不能有秘密",
+        "onboard_time": 1706397440,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "勇士新死亡五小",
+        "onboard_time": 1706408609,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148671,
+        "num": 148671,
+        "word": "智齿不疼还用拔吗",
+        "onboard_time": 1706407349,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145960,
+        "num": 145960,
+        "word": "在火车上发疯之后全车厢都安静了",
+        "onboard_time": 1706399543,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144203,
+        "num": 144203,
+        "word": "李权哲亚超二公排名第一",
+        "onboard_time": 1706406327,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138646,
+        "num": 138646,
+        "word": "中式证件照",
+        "onboard_time": 1706407887,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 138129,
+        "num": 138129,
+        "word": "军队文职成绩",
+        "onboard_time": 1706401166,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136579,
+        "num": 136579,
+        "word": "被小狗的果冻耳朵弹飞",
+        "onboard_time": 1706407349,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128180,
+        "num": 128180,
+        "word": "中国游客国外发病获过路中国医生急救",
+        "onboard_time": 1706399543,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127430,
+        "num": 127430,
+        "word": "醉酒女孩爬27楼屋顶被民警飞扑抱住",
+        "onboard_time": 1706402427,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125061,
+        "num": 125061,
+        "word": "三蹦子厂家称倒车请注意将推出英文版",
+        "onboard_time": 1706396839,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124517,
+        "num": 124517,
+        "word": "还是公公情商高",
+        "onboard_time": 1706407410,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117377,
+        "num": 117377,
+        "word": "没结婚用不用给外甥女压岁钱",
+        "onboard_time": 1706367692,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112108,
+        "num": 112108,
+        "word": "我国古代设计师的小创意太哇噻了",
+        "onboard_time": 1706405248,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105646,
+        "num": 105646,
+        "word": "明日方舟南越王博物院联动",
+        "onboard_time": 1706408190,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104027,
+        "num": 104027,
+        "word": "爸爸给儿子带的玩具驾驶室都放不下",
+        "onboard_time": 1706408549,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102406,
+        "num": 102406,
+        "word": "苦了陈楚生不能苦了我",
+        "onboard_time": 1706367692,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102006,
+        "num": 102006,
+        "word": "湖勇大战",
+        "onboard_time": 1706405968,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98820,
+        "num": 98820,
+        "word": "初中妹妹8科成绩总分66",
+        "onboard_time": 1706346329,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 98670,
+        "num": 98670,
+        "word": "大学生回村穿搭",
+        "onboard_time": 1706407648,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 96804,
+        "num": 96804,
+        "word": "巩汉林发视频缅怀赵丽蓉",
+        "onboard_time": 1706401887,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94952,
+        "num": 94952,
+        "word": "曹恩齐 应援了一个绝美舞台",
+        "onboard_time": 1706403987,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94542,
+        "num": 94542,
+        "word": "新加坡免签一不小心就变穷光蛋",
+        "onboard_time": 1706340387,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92802,
+        "num": 92802,
+        "word": "迪丽热巴高定首穿",
+        "onboard_time": 1706354490,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91232,
+        "num": 91232,
+        "word": "李维斯拟裁员约15%",
+        "onboard_time": 1706405008,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 91003,
+        "num": 91003,
+        "word": "谷爱凌腿受伤",
+        "onboard_time": 1706398640,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89403,
+        "num": 89403,
+        "word": "什么样的智齿不需要拔",
+        "onboard_time": 1706405430,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙互致贺电#"
+    }
+  }
+}
