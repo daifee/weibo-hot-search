@@ -1,0 +1,410 @@
+{
+  "runTime": 1706420048002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362080,
+        "num": 1362080,
+        "word": "中泰签证互免",
+        "onboard_time": 1706417969,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 853333,
+        "num": 853333,
+        "word": "詹姆斯绝杀勇士",
+        "onboard_time": 1706418688,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67216,
+        "num": 833469,
+        "word": "春节回家路上有他们保驾护航",
+        "onboard_time": 1706418387,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230047,
+        "num": 832938,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825127,
+        "num": 825127,
+        "word": "龙年央视春晚第三次联排",
+        "onboard_time": 1706415030,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734335,
+        "num": 734335,
+        "word": "事业编招聘公示领导子女引争议",
+        "onboard_time": 1706413107,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694040,
+        "num": 694040,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545985,
+        "num": 545985,
+        "word": "谷爱凌将代表中国征战2026冬奥会",
+        "onboard_time": 1706418089,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519312,
+        "num": 519312,
+        "word": "孙悦谈为何隐退8年",
+        "onboard_time": 1706416287,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435040,
+        "num": 435040,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 408057,
+        "num": 408057,
+        "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
+        "onboard_time": 1706410167,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382067,
+        "num": 382067,
+        "word": "董宇辉 一张表吃透英语16时态",
+        "onboard_time": 1706412390,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 368400,
+        "num": 368400,
+        "word": "库里绝平湖人",
+        "onboard_time": 1706416887,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354900,
+        "num": 354900,
+        "word": "湖人 哨子",
+        "onboard_time": 1706414908,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302749,
+        "num": 302749,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283311,
+        "num": 283311,
+        "word": "icon官宣退役",
+        "onboard_time": 1706417308,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270230,
+        "num": 270230,
+        "word": "麻将机越来越先进了",
+        "onboard_time": 1706417668,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263494,
+        "num": 263494,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230077,
+        "num": 230077,
+        "word": "王楚然新加坡生图",
+        "onboard_time": 1706416709,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33531,
+        "num": 229373,
+        "word": "蛋仔岛来了外卖侠",
+        "onboard_time": 1706417188,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108300,
+        "num": 229358,
+        "word": "元梦龙年星梦代言人魏大勋",
+        "onboard_time": 1706417546,
+        "rank": 20,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 229350,
+        "num": 229350,
+        "word": "螃蟹酱留存了中国酱最初的模样",
+        "onboard_time": 1706416887,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 988391,
+        "num": 226094,
+        "word": "昆明动物园曾有女童与老虎合影被咬死",
+        "onboard_time": 1706415990,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218566,
+        "num": 218566,
+        "word": "男子1元抢拍花瓶付款秒变9999元",
+        "onboard_time": 1706418808,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203268,
+        "num": 203268,
+        "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
+        "onboard_time": 1706410409,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202650,
+        "num": 202650,
+        "word": "闵塔鲨晒迪丽热巴",
+        "onboard_time": 1706410647,
+        "rank": 25,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 202153,
+        "num": 202153,
+        "word": "喜欢一个人的真实反应",
+        "onboard_time": 1706418630,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195674,
+        "num": 195674,
+        "word": "十个勤天现身龙年春晚彩排",
+        "onboard_time": 1706420010,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192827,
+        "num": 192827,
+        "word": "湖勇大战",
+        "onboard_time": 1706405968,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188136,
+        "num": 188136,
+        "word": "刘谦龙年央视春晚第三次联排",
+        "onboard_time": 1706417428,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235419,
+        "num": 188075,
+        "word": "詹姆斯常规赛出场历史第七",
+        "onboard_time": 1706418509,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183732,
+        "num": 183732,
+        "word": "少爷和我阵容",
+        "onboard_time": 1706419947,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183072,
+        "num": 183072,
+        "word": "湖人勇士双加时",
+        "onboard_time": 1706418928,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174612,
+        "num": 174612,
+        "word": "库里46分",
+        "onboard_time": 1706419830,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174266,
+        "num": 174266,
+        "word": "中国铁路从未授权第三方平台卖票",
+        "onboard_time": 1706415569,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166484,
+        "num": 166484,
+        "word": "上海图书馆回应馆内一把躺椅数万元",
+        "onboard_time": 1706414248,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166073,
+        "num": 166073,
+        "word": "爱国不是生意举报应有依据",
+        "onboard_time": 1706412990,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164978,
+        "num": 164978,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164370,
+        "num": 164370,
+        "word": "花花有了新玩具",
+        "onboard_time": 1706414248,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162929,
+        "num": 162929,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149302,
+        "num": 149302,
+        "word": "薛之谦是喝多了吗",
+        "onboard_time": 1706407108,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145683,
+        "num": 145683,
+        "word": "董宇辉带货化妆品要砍掉贵的",
+        "onboard_time": 1706410227,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145030,
+        "num": 145030,
+        "word": "NBA春晚真好看",
+        "onboard_time": 1706419648,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137702,
+        "num": 137702,
+        "word": "猫咪是如何拒绝人类的",
+        "onboard_time": 1706418867,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136239,
+        "num": 136239,
+        "word": "黄伟晋为对LESSERAFIM不当言论道歉",
+        "onboard_time": 1706414487,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135909,
+        "num": 135909,
+        "word": "李娜和郑钦文均被卡洛斯教练带过",
+        "onboard_time": 1706419710,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129905,
+        "num": 129905,
+        "word": "香港飞马来西亚航班疑因机舱冒烟折返",
+        "onboard_time": 1706414189,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129716,
+        "num": 129716,
+        "word": "武术队",
+        "onboard_time": 1706416111,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123888,
+        "num": 123888,
+        "word": "湖人勇士裁判抢戏",
+        "onboard_time": 1706419287,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123593,
+        "num": 123593,
+        "word": "以色列代表痛骂联合国",
+        "onboard_time": 1706412930,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}
