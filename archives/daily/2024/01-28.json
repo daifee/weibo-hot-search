@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706426122407,
+  "endTime": 1706427225067,
   "band_list": [
     {
       "raw_hot": 1652183,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182575,
+      "num": 1182575,
+      "word": "研究表明大学生平均智商逐年下降",
+      "onboard_time": 1706422227,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1122769,
       "num": 230895,
       "word": "母猴 干儿子",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1103800,
-      "num": 1103800,
-      "word": "研究表明大学生平均智商逐年下降",
-      "onboard_time": 1706422227,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 1094598,
+      "num": 1094598,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1706423191,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 1063540,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735819,
+      "num": 735819,
+      "word": "德州",
+      "onboard_time": 1706421630,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 719422,
       "num": 252369,
       "word": "人均37元的早餐为何没人买单了",
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694189,
-      "num": 694189,
-      "word": "德州",
-      "onboard_time": 1706421630,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 657398,
       "num": 657398,
       "word": "库里绝平湖人",
       "onboard_time": 1706416887,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 640307,
+      "num": 640307,
+      "word": "成龙自己开车录河南春晚",
+      "onboard_time": 1706424269,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 620771,
@@ -243,28 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536087,
-      "num": 536087,
-      "word": "鼻子决定了颜值的上限",
-      "onboard_time": 1706423191,
-      "rank": 20,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 521934,
       "num": 521934,
       "word": "孙悦谈为何隐退8年",
       "onboard_time": 1706416287,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 521258,
-      "num": 521258,
-      "word": "成龙自己开车录河南春晚",
-      "onboard_time": 1706424269,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 504255,
@@ -281,6 +281,14 @@
       "onboard_time": 1706366432,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 497883,
+      "num": 497883,
+      "word": "谷爱凌退出XGames坡障比赛",
+      "onboard_time": 1706423791,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 496422,
@@ -395,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446945,
-      "num": 446945,
-      "word": "谷爱凌退出XGames坡障比赛",
-      "onboard_time": 1706423791,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 437832,
       "num": 227956,
       "word": "迪丽热巴高定首穿",
@@ -427,6 +427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 391895,
+      "num": 391895,
+      "word": "煮饺子时中途要不要加凉水",
+      "onboard_time": 1706424868,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 383941,
       "num": 383941,
       "word": "谷爱凌带伤夺金",
@@ -441,6 +449,14 @@
       "onboard_time": 1706410647,
       "rank": 14,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 363252,
+      "num": 363252,
+      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+      "onboard_time": 1706423129,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353664,
@@ -465,6 +481,14 @@
       "onboard_time": 1706399543,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340622,
+      "num": 340622,
+      "word": "碍国流量不能纵容",
+      "onboard_time": 1706425288,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326327,
@@ -513,14 +537,6 @@
       "onboard_time": 1706419947,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 309656,
-      "num": 309656,
-      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
-      "onboard_time": 1706423129,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308474,
@@ -593,14 +609,6 @@
       "onboard_time": 1706412930,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 273542,
-      "num": 273542,
-      "word": "煮饺子时中途要不要加凉水",
-      "onboard_time": 1706424868,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 271466,
@@ -803,6 +811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206856,
+      "num": 206856,
+      "word": "证监会全面暂停限售股出借",
+      "onboard_time": 1706426850,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 206619,
+      "num": 206619,
+      "word": "韩国吃炸牙签视频爆红",
+      "onboard_time": 1706426609,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206342,
       "num": 206342,
       "word": "黄伟晋为对LESSERAFIM不当言论道歉",
@@ -867,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201230,
+      "num": 201230,
+      "word": "鞠婧祎轻甜糖果妆",
+      "onboard_time": 1706426850,
+      "rank": 24,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 197830,
       "num": 197830,
       "word": "仙剑四猫眼登顶",
@@ -875,20 +907,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196826,
-      "num": 196826,
-      "word": "碍国流量不能纵容",
-      "onboard_time": 1706425288,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194784,
       "num": 194784,
       "word": "00后四帅",
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192162,
+      "num": 192162,
+      "word": "两个i人在乱用礼貌用语",
+      "onboard_time": 1706425589,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 187480,
@@ -977,6 +1009,14 @@
       "onboard_time": 1706402427,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166142,
+      "num": 166142,
+      "word": "2024KPL春季赛定妆照",
+      "onboard_time": 1706426968,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 165883,
@@ -1107,14 +1147,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 145034,
-      "num": 145034,
-      "word": "两个i人在乱用礼貌用语",
-      "onboard_time": 1706425589,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "NBA春晚真好看",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1706415748,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130089,
+      "num": 130089,
+      "word": "毛不易龙年春晚第三次联排",
+      "onboard_time": 1706426429,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 130074,
@@ -1432,6 +1472,14 @@
       "word": "爱情和友情都是中性词",
       "onboard_time": 1706419648,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112483,
+      "num": 112483,
+      "word": "简单实用的老一辈攒钱方法",
+      "onboard_time": 1706426249,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -1859,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47168,
+      "num": 455134,
+      "word": "古茗天官赐福春节限定",
+      "onboard_time": 1706424089,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 42299,
       "num": 42299,
       "word": "原来杨紫晒非主流照片是因为输了",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1706417188,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35427,
-      "num": 455134,
-      "word": "古茗天官赐福春节限定",
-      "onboard_time": 1706424089,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 34313,

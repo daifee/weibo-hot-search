@@ -1,0 +1,410 @@
+{
+  "runTime": 1706427225067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182575,
+        "num": 1182575,
+        "word": "研究表明大学生平均智商逐年下降",
+        "onboard_time": 1706422227,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094598,
+        "num": 1094598,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 54563,
+        "num": 777750,
+        "word": "春节回家路上有他们保驾护航",
+        "onboard_time": 1706418387,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735819,
+        "num": 735819,
+        "word": "德州",
+        "onboard_time": 1706421630,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 715389,
+        "num": 715389,
+        "word": "谷爱凌将代表中国征战2026冬奥会",
+        "onboard_time": 1706418089,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640307,
+        "num": 640307,
+        "word": "成龙自己开车录河南春晚",
+        "onboard_time": 1706424269,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545907,
+        "num": 545907,
+        "word": "曝檀健次最近在看别墅",
+        "onboard_time": 1706422708,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497883,
+        "num": 497883,
+        "word": "谷爱凌退出XGames坡障比赛",
+        "onboard_time": 1706423791,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470189,
+        "num": 470189,
+        "word": "杨幂皮衣半扎发",
+        "onboard_time": 1706423909,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460710,
+        "num": 460710,
+        "word": "古茗 天官赐福",
+        "onboard_time": 1706422829,
+        "rank": 9,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 412631,
+        "num": 412631,
+        "word": "LV老板超马斯克重夺全球首富",
+        "onboard_time": 1706421150,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391895,
+        "num": 391895,
+        "word": "煮饺子时中途要不要加凉水",
+        "onboard_time": 1706424868,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390635,
+        "num": 390635,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381313,
+        "num": 381313,
+        "word": "王者新英雄敖隐",
+        "onboard_time": 1706424808,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363252,
+        "num": 363252,
+        "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+        "onboard_time": 1706423129,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340622,
+        "num": 340622,
+        "word": "碍国流量不能纵容",
+        "onboard_time": 1706425288,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294028,
+        "num": 294028,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286950,
+        "num": 286950,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47168,
+        "num": 267052,
+        "word": "古茗天官赐福春节限定",
+        "onboard_time": 1706424089,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250995,
+        "num": 250995,
+        "word": "龙年央视春晚第三次联排",
+        "onboard_time": 1706415030,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281391,
+        "num": 243852,
+        "word": "在朋友圈发亲密照的们你们想干嘛",
+        "onboard_time": 1706424808,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229680,
+        "num": 229680,
+        "word": "事业编招聘公示领导子女引争议",
+        "onboard_time": 1706413107,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206856,
+        "num": 206856,
+        "word": "证监会全面暂停限售股出借",
+        "onboard_time": 1706426850,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206619,
+        "num": 206619,
+        "word": "韩国吃炸牙签视频爆红",
+        "onboard_time": 1706426609,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201230,
+        "num": 201230,
+        "word": "鞠婧祎轻甜糖果妆",
+        "onboard_time": 1706426850,
+        "rank": 24,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 195284,
+        "num": 195284,
+        "word": "孙悦谈为何隐退8年",
+        "onboard_time": 1706416287,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192162,
+        "num": 192162,
+        "word": "两个i人在乱用礼貌用语",
+        "onboard_time": 1706425589,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187079,
+        "num": 187079,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175493,
+        "num": 175493,
+        "word": "十个勤天现身龙年春晚彩排",
+        "onboard_time": 1706420010,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 166786,
+        "word": "蔡徐坤新歌倒计时",
+        "onboard_time": 1706425110,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166142,
+        "num": 166142,
+        "word": "2024KPL春季赛定妆照",
+        "onboard_time": 1706426968,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158150,
+        "num": 158150,
+        "word": "北方人包饺子皮现擀",
+        "onboard_time": 1706424868,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147571,
+        "num": 147571,
+        "word": "詹姆斯绝杀勇士",
+        "onboard_time": 1706418688,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144115,
+        "num": 144115,
+        "word": "在韩中国学生展示韩国大学美食",
+        "onboard_time": 1706422050,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140147,
+        "num": 140147,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136911,
+        "num": 136911,
+        "word": "网购三辆叉车收到一颗螺丝",
+        "onboard_time": 1706422168,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130089,
+        "num": 130089,
+        "word": "毛不易龙年春晚第三次联排",
+        "onboard_time": 1706426429,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129156,
+        "num": 129156,
+        "word": "库里把球衣撕了",
+        "onboard_time": 1706420370,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127093,
+        "num": 127093,
+        "word": "中泰签证互免",
+        "onboard_time": 1706417969,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124277,
+        "num": 124277,
+        "word": "icon官宣退役",
+        "onboard_time": 1706417308,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123201,
+        "num": 123201,
+        "word": "男子1元抢拍花瓶付款秒变9999元",
+        "onboard_time": 1706418808,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120635,
+        "num": 120635,
+        "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
+        "onboard_time": 1706410409,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112483,
+        "num": 112483,
+        "word": "简单实用的老一辈攒钱方法",
+        "onboard_time": 1706426249,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111313,
+        "num": 111313,
+        "word": "麻将机越来越先进了",
+        "onboard_time": 1706417668,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99538,
+        "num": 99538,
+        "word": "驾校教练本科竟然是学法学的",
+        "onboard_time": 1706422227,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98466,
+        "num": 98466,
+        "word": "MTG官宣久诚自由人",
+        "onboard_time": 1706424208,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98076,
+        "num": 98076,
+        "word": "当猫咪不想被摸时",
+        "onboard_time": 1706424808,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95534,
+        "num": 95534,
+        "word": "少爷和我阵容",
+        "onboard_time": 1706419947,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92901,
+        "num": 92901,
+        "word": "喜欢一个人的真实反应",
+        "onboard_time": 1706418630,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90336,
+        "num": 90336,
+        "word": "新鲜感三个月定律",
+        "onboard_time": 1706424750,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}

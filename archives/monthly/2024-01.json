@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706426122407,
+  "endTime": 1706427225067,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4339,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182575,
+      "num": 1182575,
+      "word": "研究表明大学生平均智商逐年下降",
+      "onboard_time": 1706422227,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1180968,
       "num": 1180968,
       "word": "女生腹泻后未在意5天后心脏停跳",
@@ -5011,14 +5019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1103800,
-      "num": 1103800,
-      "word": "研究表明大学生平均智商逐年下降",
-      "onboard_time": 1706422227,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1103406,
       "num": 1103406,
       "word": "南阳一公职人员兼职日薪税后3000",
@@ -5089,6 +5089,14 @@
       "onboard_time": 1705200090,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1094598,
+      "num": 1094598,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1706423191,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 1094592,
@@ -10171,6 +10179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 735819,
+      "num": 735819,
+      "word": "德州",
+      "onboard_time": 1706421630,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 735317,
       "num": 424223,
       "word": "抗震小英雄林浩宣布结婚",
@@ -11137,14 +11153,6 @@
       "onboard_time": 1706098291,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 694189,
-      "num": 694189,
-      "word": "德州",
-      "onboard_time": 1706421630,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 694183,
@@ -12537,6 +12545,14 @@
       "onboard_time": 1704680789,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 640307,
+      "num": 640307,
+      "word": "成龙自己开车录河南春晚",
+      "onboard_time": 1706424269,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 640151,
@@ -16083,14 +16099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536087,
-      "num": 536087,
-      "word": "鼻子决定了颜值的上限",
-      "onboard_time": 1706423191,
-      "rank": 20,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 536050,
       "num": 536050,
       "word": "奚梦瑶何猷君感情好的原因",
@@ -16681,14 +16689,6 @@
       "onboard_time": 1704969331,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521258,
-      "num": 521258,
-      "word": "成龙自己开车录河南春晚",
-      "onboard_time": 1706424269,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 521021,
@@ -17729,6 +17729,14 @@
       "onboard_time": 1706326410,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 497883,
+      "num": 497883,
+      "word": "谷爱凌退出XGames坡障比赛",
+      "onboard_time": 1706423791,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 497696,
@@ -20040,14 +20048,6 @@
       "word": "C罗将在中国挑战吉尼斯纪录",
       "onboard_time": 1705983265,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 446945,
-      "num": 446945,
-      "word": "谷爱凌退出XGames坡障比赛",
-      "onboard_time": 1706423791,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -22819,6 +22819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391895,
+      "num": 391895,
+      "word": "煮饺子时中途要不要加凉水",
+      "onboard_time": 1706424868,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 391687,
       "num": 391687,
       "word": "小义 时间线",
@@ -24507,6 +24515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363252,
+      "num": 363252,
+      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+      "onboard_time": 1706423129,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363066,
       "num": 363066,
       "word": "这可是实打实的100斤",
@@ -25697,6 +25713,14 @@
       "onboard_time": 1705019309,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 340622,
+      "num": 340622,
+      "word": "碍国流量不能纵容",
+      "onboard_time": 1706425288,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340610,
@@ -27904,14 +27928,6 @@
       "word": "律师称张雪峰说文考生靠舔不侵犯名誉权",
       "onboard_time": 1704799230,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309656,
-      "num": 309656,
-      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
-      "onboard_time": 1706423129,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -31009,14 +31025,6 @@
       "onboard_time": 1706358571,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273542,
-      "num": 273542,
-      "word": "煮饺子时中途要不要加凉水",
-      "onboard_time": 1706424868,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 273526,
@@ -40355,6 +40363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206856,
+      "num": 206856,
+      "word": "证监会全面暂停限售股出借",
+      "onboard_time": 1706426850,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206855,
       "num": 206855,
       "word": "TTG 老盖",
@@ -40425,6 +40441,14 @@
       "onboard_time": 1704283532,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206619,
+      "num": 206619,
+      "word": "韩国吃炸牙签视频爆红",
+      "onboard_time": 1706426609,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206615,
@@ -41931,6 +41955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201230,
+      "num": 201230,
+      "word": "鞠婧祎轻甜糖果妆",
+      "onboard_time": 1706426850,
+      "rank": 24,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 201221,
       "num": 201221,
       "word": "中丸雄一结婚",
@@ -43161,14 +43193,6 @@
       "onboard_time": 1705551992,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 196826,
-      "num": 196826,
-      "word": "碍国流量不能纵容",
-      "onboard_time": 1706425288,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196808,
@@ -44505,6 +44529,14 @@
       "onboard_time": 1704807094,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192162,
+      "num": 192162,
+      "word": "两个i人在乱用礼貌用语",
+      "onboard_time": 1706425589,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 192154,
@@ -51787,6 +51819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166142,
+      "num": 166142,
+      "word": "2024KPL春季赛定妆照",
+      "onboard_time": 1706426968,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166141,
       "num": 166141,
       "word": "索非亚教堂蛋糕",
@@ -57915,14 +57955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145034,
-      "num": 145034,
-      "word": "两个i人在乱用礼貌用语",
-      "onboard_time": 1706425589,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "NBA春晚真好看",
@@ -62647,6 +62679,14 @@
       "num": 130140,
       "word": "陈楚生声生不息Vlog",
       "onboard_time": 1704607289,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130089,
+      "num": 130089,
+      "word": "毛不易龙年春晚第三次联排",
+      "onboard_time": 1706426429,
       "rank": 36,
       "category": "综艺"
     },
@@ -67593,6 +67633,14 @@
       "onboard_time": 1704724413,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112483,
+      "num": 112483,
+      "word": "简单实用的老一辈攒钱方法",
+      "onboard_time": 1706426249,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 112476,
@@ -74347,6 +74395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47168,
+      "num": 455134,
+      "word": "古茗天官赐福春节限定",
+      "onboard_time": 1706424089,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 46811,
       "num": 38243,
       "word": "塔吉克斯坦2比1黎巴嫩",
@@ -75161,14 +75217,6 @@
       "onboard_time": 1706206700,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 35427,
-      "num": 455134,
-      "word": "古茗天官赐福春节限定",
-      "onboard_time": 1706424089,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 35287,
