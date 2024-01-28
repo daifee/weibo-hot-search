@@ -1,0 +1,410 @@
+{
+  "runTime": 1706412873873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1112081,
+        "num": 1112081,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 960072,
+        "num": 960072,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20882,
+        "num": 750914,
+        "word": "中国航天器名字里有中国人才懂的含义",
+        "onboard_time": 1706360849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620771,
+        "num": 620771,
+        "word": "董宇辉带货化妆品要砍掉贵的",
+        "onboard_time": 1706410227,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 557941,
+        "num": 557941,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550283,
+        "num": 550283,
+        "word": "基因彩票",
+        "onboard_time": 1706407049,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 547356,
+        "num": 547356,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494446,
+        "num": 494446,
+        "word": "哥哥回应妹妹8科考66",
+        "onboard_time": 1706409989,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417106,
+        "num": 417106,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379563,
+        "num": 379563,
+        "word": "闵塔鲨晒迪丽热巴",
+        "onboard_time": 1706410647,
+        "rank": 9,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 822178,
+        "num": 364345,
+        "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
+        "onboard_time": 1706410167,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504255,
+        "num": 354038,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411949,
+        "num": 343924,
+        "word": "中国地质大学回应公示拟聘任处长之子",
+        "onboard_time": 1706410707,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400638,
+        "num": 319453,
+        "word": "董宇辉 一张表吃透英语16时态",
+        "onboard_time": 1706412390,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 317113,
+        "num": 317113,
+        "word": "中式证件照",
+        "onboard_time": 1706407887,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 312991,
+        "num": 312991,
+        "word": "46岁远嫁女子十年写了3本书",
+        "onboard_time": 1706407108,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301291,
+        "num": 301291,
+        "word": "谷爱凌带伤夺金",
+        "onboard_time": 1706407827,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279414,
+        "num": 279414,
+        "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
+        "onboard_time": 1706410409,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232905,
+        "num": 232905,
+        "word": "杨紫说破两万跳女团舞",
+        "onboard_time": 1706402066,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322630,
+        "num": 225332,
+        "word": "美国正在阻止中国获得算力",
+        "onboard_time": 1706402008,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215750,
+        "num": 215750,
+        "word": "在美被泼化学液体中国女教师已恢复意识",
+        "onboard_time": 1706411428,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "霉霉演唱会大电影票房破9000万",
+        "onboard_time": 1706412512,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197182,
+        "num": 197182,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188290,
+        "num": 188290,
+        "word": "那一晚 闫妮和张小斐都醉了",
+        "onboard_time": 1706404828,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187791,
+        "num": 187791,
+        "word": "薛之谦是喝多了吗",
+        "onboard_time": 1706407108,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178484,
+        "num": 178484,
+        "word": "智齿不疼还用拔吗",
+        "onboard_time": 1706407349,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176237,
+        "num": 176237,
+        "word": "7岁小豆豆收到了特别邀约",
+        "onboard_time": 1706408788,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156477,
+        "num": 156477,
+        "word": "鞠婧祎好灵动",
+        "onboard_time": 1706411068,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156140,
+        "num": 156140,
+        "word": "昆明动物园表示将反思并改进不足",
+        "onboard_time": 1706409927,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153018,
+        "num": 153018,
+        "word": "粉笔模考",
+        "onboard_time": 1706412512,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305267,
+        "num": 151928,
+        "word": "母猴 干儿子",
+        "onboard_time": 1706412447,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148764,
+        "num": 148764,
+        "word": "被游客投诉烤鱼片摊主已进黑名单",
+        "onboard_time": 1706397800,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 146481,
+        "word": "这跟易烊千玺谈了有什么区别",
+        "onboard_time": 1706370629,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136893,
+        "num": 136893,
+        "word": "春晚等着你",
+        "onboard_time": 1706411728,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134270,
+        "num": 134270,
+        "word": "七三一部队罪证陈列馆有批小讲解员",
+        "onboard_time": 1706405008,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132475,
+        "num": 132475,
+        "word": "成毅拍打戏时vs休息时",
+        "onboard_time": 1706406988,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131022,
+        "num": 131022,
+        "word": "大学生回村穿搭",
+        "onboard_time": 1706407648,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 126536,
+        "num": 126536,
+        "word": "我得省钱 人就活一次",
+        "onboard_time": 1706405068,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120235,
+        "num": 120235,
+        "word": "快船打爆凯尔特人",
+        "onboard_time": 1706407587,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119513,
+        "num": 119513,
+        "word": "东北菜浓度最高的地方竟是海南岛",
+        "onboard_time": 1706405968,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 117147,
+        "word": "湖勇大战",
+        "onboard_time": 1706405968,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116198,
+        "num": 116198,
+        "word": "婚庆公司订单已排到2025年",
+        "onboard_time": 1706398341,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115583,
+        "num": 115583,
+        "word": "杭漂的年轻人熬不住了",
+        "onboard_time": 1706412208,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111726,
+        "num": 111726,
+        "word": "被喜欢的人偏爱",
+        "onboard_time": 1706409989,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110133,
+        "num": 110133,
+        "word": "李权哲亚超二公排名第一",
+        "onboard_time": 1706406327,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107620,
+        "num": 107620,
+        "word": "买701号房交房变704业主怒嫌晦气",
+        "onboard_time": 1706378360,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107082,
+        "num": 107082,
+        "word": "让头发狂长的8个穴位",
+        "onboard_time": 1706412447,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99324,
+        "num": 99324,
+        "word": "勇士新死亡五小",
+        "onboard_time": 1706408609,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94535,
+        "num": 94535,
+        "word": "为什么情侣可以有隐私但不能有秘密",
+        "onboard_time": 1706397440,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91818,
+        "num": 91818,
+        "word": "掐脖舞",
+        "onboard_time": 1706412208,
+        "rank": 49,
+        "category": "幽默,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙互致贺电#"
+    }
+  }
+}
