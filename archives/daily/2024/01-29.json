@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706458755971,
+  "endTime": 1706459638294,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107441,
+      "num": 107441,
+      "word": "3个意想不到的伤胃习惯",
+      "onboard_time": 1706456550,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105592,
       "num": 105592,
       "word": "原来尔滨有的贝尔也都有",
@@ -251,20 +259,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104346,
-      "num": 104346,
-      "word": "3个意想不到的伤胃习惯",
-      "onboard_time": 1706456550,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103843,
-      "num": 103843,
+      "raw_hot": 104809,
+      "num": 104809,
       "word": "得州兵营美军士兵开枪互射",
       "onboard_time": 1706434351,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 100168,
+      "num": 100168,
+      "word": "杨巡结婚了",
+      "onboard_time": 1706458110,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 98242,
@@ -289,14 +297,6 @@
       "onboard_time": 1706454872,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 90862,
-      "num": 90862,
-      "word": "杨巡结婚了",
-      "onboard_time": 1706458110,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 86756,
@@ -395,7 +395,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4232,
+      "raw_hot": 50447,
+      "num": 59433,
+      "word": "新款iPadPro或3月底发布",
+      "onboard_time": 1706459547,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 4771,
       "num": 615960,
       "word": "铁花雨下舞龙年味这就来了",
       "onboard_time": 1706404948,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#将中法关系打造得更加牢固和富有活力#"
+    },
+    {
+      "word": "#中法精神弥足珍贵#"
     }
   ]
 }
