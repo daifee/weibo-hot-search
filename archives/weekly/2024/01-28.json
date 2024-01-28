@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706423651173,
+  "endTime": 1706426122407,
   "band_list": [
     {
       "raw_hot": 1652183,
@@ -48,6 +48,14 @@
       "word": "母猴 干儿子",
       "onboard_time": 1706412447,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103800,
+      "num": 1103800,
+      "word": "研究表明大学生平均智商逐年下降",
+      "onboard_time": 1706422227,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694189,
+      "num": 694189,
+      "word": "德州",
+      "onboard_time": 1706421630,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 657398,
       "num": 657398,
       "word": "库里绝平湖人",
@@ -179,6 +195,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 590000,
+      "num": 590000,
+      "word": "曝檀健次最近在看别墅",
+      "onboard_time": 1706422708,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 576755,
+      "num": 576755,
+      "word": "古茗 天官赐福",
+      "onboard_time": 1706422829,
+      "rank": 8,
+      "category": "美食,动漫"
+    },
+    {
       "raw_hot": 558126,
       "num": 241103,
       "word": "北京野生动物园就昆明动物园事件发声",
@@ -195,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540818,
+      "num": 540818,
+      "word": "LV老板超马斯克重夺全球首富",
+      "onboard_time": 1706421150,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 538992,
       "num": 538992,
       "word": "昆明动物园为什么三发通报才救猫",
@@ -203,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536087,
+      "num": 536087,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1706423191,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 521934,
       "num": 521934,
       "word": "孙悦谈为何隐退8年",
       "onboard_time": 1706416287,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521258,
+      "num": 521258,
+      "word": "成龙自己开车录河南春晚",
+      "onboard_time": 1706424269,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 504255,
@@ -251,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489147,
+      "num": 489147,
+      "word": "杨幂皮衣半扎发",
+      "onboard_time": 1706423909,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 482127,
+      "num": 482127,
+      "word": "王者新英雄敖隐",
+      "onboard_time": 1706424808,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482094,
       "num": 482094,
       "word": "德克萨斯",
@@ -281,22 +353,6 @@
       "onboard_time": 1706356109,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 467210,
-      "num": 467210,
-      "word": "LV老板超马斯克重夺全球首富",
-      "onboard_time": 1706421150,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 466391,
-      "num": 466391,
-      "word": "古茗 天官赐福",
-      "onboard_time": 1706422829,
-      "rank": 8,
-      "category": "美食,动漫"
     },
     {
       "raw_hot": 459085,
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446945,
+      "num": 446945,
+      "word": "谷爱凌退出XGames坡障比赛",
+      "onboard_time": 1706423791,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437832,
       "num": 227956,
       "word": "迪丽热巴高定首穿",
@@ -379,14 +443,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 376464,
-      "num": 376464,
-      "word": "研究表明大学生平均智商逐年下降",
-      "onboard_time": 1706422227,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353664,
       "num": 203461,
       "word": "詹姆斯常规赛出场历史第七",
@@ -401,14 +457,6 @@
       "onboard_time": 1706405968,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345805,
-      "num": 345805,
-      "word": "曝檀健次最近在看别墅",
-      "onboard_time": 1706422708,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 342752,
@@ -443,14 +491,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 315670,
-      "num": 315670,
-      "word": "德州",
-      "onboard_time": 1706421630,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 314453,
       "num": 210220,
       "word": "苦了陈楚生不能苦了我",
@@ -475,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309656,
+      "num": 309656,
+      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
+      "onboard_time": 1706423129,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308474,
       "num": 308474,
       "word": "螃蟹酱留存了中国酱最初的模样",
@@ -489,6 +537,14 @@
       "onboard_time": 1706363492,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301818,
+      "num": 301818,
+      "word": "在朋友圈发亲密照的们你们想干嘛",
+      "onboard_time": 1706424808,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 301025,
@@ -537,6 +593,14 @@
       "onboard_time": 1706412930,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 273542,
+      "num": 273542,
+      "word": "煮饺子时中途要不要加凉水",
+      "onboard_time": 1706424868,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 271466,
@@ -617,14 +681,6 @@
       "onboard_time": 1706416709,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 247137,
-      "num": 247137,
-      "word": "鼻子决定了颜值的上限",
-      "onboard_time": 1706423191,
-      "rank": 20,
-      "category": "美妆"
     },
     {
       "raw_hot": 246699,
@@ -779,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203260,
+      "num": 203260,
+      "word": "蔡徐坤新歌倒计时",
+      "onboard_time": 1706425110,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203132,
       "num": 203132,
       "word": "智齿不疼还用拔吗",
@@ -809,6 +873,14 @@
       "onboard_time": 1706413528,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196826,
+      "num": 196826,
+      "word": "碍国流量不能纵容",
+      "onboard_time": 1706425288,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194784,
@@ -889,6 +961,14 @@
       "onboard_time": 1706422227,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172632,
+      "num": 172632,
+      "word": "北方人包饺子皮现擀",
+      "onboard_time": 1706424868,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 172210,
@@ -1027,6 +1107,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 145034,
+      "num": 145034,
+      "word": "两个i人在乱用礼貌用语",
+      "onboard_time": 1706425589,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "NBA春晚真好看",
@@ -1049,14 +1137,6 @@
       "onboard_time": 1706367152,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141287,
-      "num": 141287,
-      "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
-      "onboard_time": 1706423129,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140981,
@@ -1155,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130074,
+      "num": 130074,
+      "word": "当猫咪不想被摸时",
+      "onboard_time": 1706424808,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130015,
       "num": 130015,
       "word": "湖北省政府向中国网协和郑钦文致贺电",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1706405008,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128784,
+      "num": 128784,
+      "word": "MTG官宣久诚自由人",
+      "onboard_time": 1706424208,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 127250,
@@ -1307,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114301,
+      "num": 114301,
+      "word": "新鲜感三个月定律",
+      "onboard_time": 1706424750,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114034,
       "num": 114034,
       "word": "小动物保护协会称两只猫暂未被找到",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1706415629,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102442,
+      "num": 102442,
+      "word": "原汁云喵 崩铁主角团",
+      "onboard_time": 1706425227,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 102065,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1706417188,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35427,
+      "num": 455134,
+      "word": "古茗天官赐福春节限定",
+      "onboard_time": 1706424089,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 34313,

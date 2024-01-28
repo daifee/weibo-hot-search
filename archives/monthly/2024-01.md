@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/28 14:34:11
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/28 15:15:22
 </p>
 </blockquote>
 <p>
@@ -3771,6 +3771,12 @@ Jennie离开YG的原因（热度：1109068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B9%B3%E5%9D%87%E6%99%BA%E5%95%86%E9%80%90%E5%B9%B4%E4%B8%8B%E9%99%8D%23" target="weibo">
+研究表明大学生平均智商逐年下降（热度：1103800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%85%BC%E8%81%8C%E6%97%A5%E8%96%AA%E7%A8%8E%E5%90%8E3000%23" target="weibo">
 南阳一公职人员兼职日薪税后3000（热度：1103406）
 </a>
@@ -6005,12 +6011,6 @@ Minji为没吃过刀削面道歉（热度：844358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%8F%E5%AD%90%E7%A5%AD%E9%85%92%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23" target="weibo">
 戏子祭酒实名举报（热度：841453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E6%A4%85%E5%AD%90%E8%87%B4%E5%90%8C%E5%AD%A6%E9%87%8D%E4%BC%A4%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%88%A4%E8%B5%9410%E4%B8%87%23" target="weibo">
-拉椅子致同学重伤父母被判赔10万（热度：840694）
 </a>
 </li>
 
