@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706459638294,
+  "endTime": 1706462194084,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -1643,6 +1643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 173190,
+      "num": 73446,
+      "word": "新款iPadPro或3月底发布",
+      "onboard_time": 1706459547,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173018,
       "num": 173018,
       "word": "驾校教练本科竟然是学法学的",
@@ -3067,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64033,
+      "num": 64033,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57052,
       "num": 57052,
       "word": "巴塞罗那3比5比利亚雷亚尔",
@@ -3107,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50447,
-      "num": 59433,
-      "word": "新款iPadPro或3月底发布",
-      "onboard_time": 1706459547,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 49987,
       "num": 527973,
       "word": "宋威龙游戏操作惊呆职业选手",
@@ -3153,6 +3161,14 @@
       "onboard_time": 1706375783,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 38717,
+      "num": 38717,
+      "word": "虞书欣片场钓鱼",
+      "onboard_time": 1706461103,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 38440,

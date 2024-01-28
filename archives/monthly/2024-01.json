@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706459638294,
+  "endTime": 1706462194084,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -50467,6 +50467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173190,
+      "num": 73446,
+      "word": "新款iPadPro或3月底发布",
+      "onboard_time": 1706459547,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173178,
       "num": 173178,
       "word": "于正说自己最轻的时候127斤",
@@ -74315,6 +74323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64033,
+      "num": 64033,
+      "word": "小学生收获1600斤年终奖",
+      "onboard_time": 1706461223,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63881,
       "num": 150964,
       "word": "荣耀发布首款保时捷设计折叠屏",
@@ -75363,14 +75379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50447,
-      "num": 59433,
-      "word": "新款iPadPro或3月底发布",
-      "onboard_time": 1706459547,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 50290,
       "num": 50290,
       "word": "小孩姐 人家要摸你你不要不识好歹",
@@ -76225,6 +76233,14 @@
       "onboard_time": 1704200555,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38717,
+      "num": 38717,
+      "word": "虞书欣片场钓鱼",
+      "onboard_time": 1706461103,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 38535,
