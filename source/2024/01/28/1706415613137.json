@@ -1,0 +1,410 @@
+{
+  "runTime": 1706415613137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1556019,
+        "num": 1556019,
+        "word": "相差13岁姐弟恋妻子发声",
+        "onboard_time": 1706412447,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890571,
+        "num": 890571,
+        "word": "吴磊问赵今麦有男朋友了吗",
+        "onboard_time": 1706398941,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49956,
+        "num": 692690,
+        "word": "大美中国冰雪之约走进内蒙古",
+        "onboard_time": 1706412990,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686344,
+        "num": 686344,
+        "word": "你买的苹果耳机可能是假的",
+        "onboard_time": 1706405727,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 626630,
+        "num": 626630,
+        "word": "事业编招聘公示领导子女引争议",
+        "onboard_time": 1706413107,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496422,
+        "num": 496422,
+        "word": "爱国不是生意举报应有依据",
+        "onboard_time": 1706412990,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492627,
+        "num": 492627,
+        "word": "发布女性隐私视频被认定侮辱罪",
+        "onboard_time": 1706402187,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459085,
+        "num": 459085,
+        "word": "中国地质大学回应公示拟聘任处长之子",
+        "onboard_time": 1706410707,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450492,
+        "num": 450492,
+        "word": "董宇辉带货化妆品要砍掉贵的",
+        "onboard_time": 1706410227,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 429277,
+        "num": 429277,
+        "word": "哥哥回应妹妹8科考66",
+        "onboard_time": 1706409989,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652168,
+        "num": 422953,
+        "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
+        "onboard_time": 1706410167,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396388,
+        "num": 396388,
+        "word": "董宇辉 一张表吃透英语16时态",
+        "onboard_time": 1706412390,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382148,
+        "num": 382148,
+        "word": "男子追求已婚孕女子被拒发恐吓短信",
+        "onboard_time": 1706410768,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333619,
+        "num": 333619,
+        "word": "秦岚露背了",
+        "onboard_time": 1706403087,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326978,
+        "num": 326978,
+        "word": "闵塔鲨晒迪丽热巴",
+        "onboard_time": 1706410647,
+        "rank": 14,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 287671,
+        "num": 287671,
+        "word": "香港飞马来西亚航班疑因机舱冒烟折返",
+        "onboard_time": 1706414189,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275117,
+        "num": 275117,
+        "word": "以色列代表痛骂联合国",
+        "onboard_time": 1706412930,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 246699,
+        "num": 246699,
+        "word": "浓眉受伤",
+        "onboard_time": 1706414189,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233799,
+        "num": 233799,
+        "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
+        "onboard_time": 1706410409,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231169,
+        "num": 231169,
+        "word": "花花有了新玩具",
+        "onboard_time": 1706414248,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096213,
+        "num": 230895,
+        "word": "母猴 干儿子",
+        "onboard_time": 1706412447,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323240,
+        "num": 230604,
+        "word": "昆明动物园猴山2只猫已移出",
+        "onboard_time": 1706399244,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229868,
+        "num": 229868,
+        "word": "龙年央视春晚第三次联排",
+        "onboard_time": 1706415030,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203002,
+        "num": 203002,
+        "word": "湖人 哨子",
+        "onboard_time": 1706414908,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202052,
+        "num": 202052,
+        "word": "黄伟晋为对LESSERAFIM不当言论道歉",
+        "onboard_time": 1706414487,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193832,
+        "num": 193832,
+        "word": "基因彩票",
+        "onboard_time": 1706407049,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192819,
+        "num": 192819,
+        "word": "仙剑四猫眼登顶",
+        "onboard_time": 1706413528,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185828,
+        "num": 185828,
+        "word": "霉霉演唱会大电影票房破9000万",
+        "onboard_time": 1706412512,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183870,
+        "num": 183870,
+        "word": "上海图书馆回应馆内一把躺椅数万元",
+        "onboard_time": 1706414248,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175944,
+        "num": 175944,
+        "word": "薛之谦是喝多了吗",
+        "onboard_time": 1706407108,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "美国正在阻止中国获得算力",
+        "onboard_time": 1706402008,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "掐脖舞",
+        "onboard_time": 1706412208,
+        "rank": 31,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 143100,
+        "num": 143100,
+        "word": "46岁远嫁女子十年写了3本书",
+        "onboard_time": 1706407108,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140981,
+        "num": 140981,
+        "word": "深空约会日程",
+        "onboard_time": 1706413229,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134290,
+        "num": 134290,
+        "word": "谷爱凌带伤夺金",
+        "onboard_time": 1706407827,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128862,
+        "num": 128862,
+        "word": "这跟易烊千玺谈了有什么区别",
+        "onboard_time": 1706370629,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128427,
+        "num": 128427,
+        "word": "杨紫说破两万跳女团舞",
+        "onboard_time": 1706402066,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125250,
+        "num": 125250,
+        "word": "湖勇大战",
+        "onboard_time": 1706405968,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116298,
+        "num": 116298,
+        "word": "杭漂的年轻人熬不住了",
+        "onboard_time": 1706412208,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113150,
+        "num": 113150,
+        "word": "在美被泼化学液体中国女教师已恢复意识",
+        "onboard_time": 1706411428,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106730,
+        "num": 106730,
+        "word": "鞠婧祎好灵动",
+        "onboard_time": 1706411068,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102065,
+        "num": 102065,
+        "word": "改变运气的顶级好用方法",
+        "onboard_time": 1706414670,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100694,
+        "num": 100694,
+        "word": "智齿不疼还用拔吗",
+        "onboard_time": 1706407349,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97816,
+        "num": 97816,
+        "word": "昆明动物园表示将反思并改进不足",
+        "onboard_time": 1706409927,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95283,
+        "num": 95283,
+        "word": "kid 本来心情挺好的",
+        "onboard_time": 1706413829,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94223,
+        "num": 94223,
+        "word": "让头发狂长的8个穴位",
+        "onboard_time": 1706412447,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92710,
+        "num": 92710,
+        "word": "粉笔模考",
+        "onboard_time": 1706412512,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90886,
+        "num": 90886,
+        "word": "成毅拍打戏时vs休息时",
+        "onboard_time": 1706406988,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90268,
+        "num": 90268,
+        "word": "中国铁路从未授权第三方平台卖票",
+        "onboard_time": 1706415569,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85966,
+        "num": 85966,
+        "word": "那一晚 闫妮和张小斐都醉了",
+        "onboard_time": 1706404828,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有创新才能自强才能争先#"
+    }
+  }
+}

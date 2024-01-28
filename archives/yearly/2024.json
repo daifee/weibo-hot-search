@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706412873873,
+  "endTime": 1706415613137,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2331,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1556019,
+      "num": 1556019,
+      "word": "相差13岁姐弟恋妻子发声",
+      "onboard_time": 1706412447,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1554414,
       "num": 827484,
       "word": "杨紫好瘦",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705032389,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1537077,
-      "num": 1537077,
-      "word": "王家卫希望胡歌找回演李逍遥的感觉",
-      "onboard_time": 1704548736,
-      "rank": 1,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
