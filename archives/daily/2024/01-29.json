@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706477640427,
+  "endTime": 1706480132902,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -184,6 +184,14 @@
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129792,
+      "num": 52414,
+      "word": "日本连环爆炸案凶手患癌自首",
+      "onboard_time": 1706475795,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -403,8 +411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54857,
-      "num": 32890,
+      "raw_hot": 60257,
+      "num": 60257,
       "word": "男子租宝马后抵押套现21万挥霍",
       "onboard_time": 1706471596,
       "rank": 19,
@@ -420,18 +428,10 @@
     },
     {
       "raw_hot": 50888,
-      "num": 18609,
+      "num": 19508,
       "word": "妹妹8科成绩66分当事人否认炒作",
       "onboard_time": 1706468596,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47108,
-      "num": 30415,
-      "word": "日本连环爆炸案凶手患癌自首",
-      "onboard_time": 1706475795,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -483,20 +483,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 21032,
+      "num": 21032,
+      "word": "8种负面情绪加速衰老",
+      "onboard_time": 1706474714,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19046,
+      "num": 19046,
+      "word": "红月亮",
+      "onboard_time": 1706447910,
+      "rank": 44,
+      "category": "自然"
+    },
+    {
       "raw_hot": 18028,
       "num": 24116,
       "word": "融合嘻哈盛典",
       "onboard_time": 1706465661,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17289,
-      "num": 17289,
-      "word": "红月亮",
-      "onboard_time": 1706447910,
-      "rank": 44,
-      "category": "自然"
     },
     {
       "raw_hot": 16902,
@@ -507,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16445,
+      "num": 16445,
+      "word": "颐和园龙凤光影突然出现太惊艳",
+      "onboard_time": 1706477116,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 15547,
       "num": 15547,
       "word": "常远比岳云鹏早26年上春晚",
@@ -515,20 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15231,
-      "num": 15231,
-      "word": "8种负面情绪加速衰老",
-      "onboard_time": 1706474714,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 10398,
-      "num": 10398,
-      "word": "颐和园龙凤光影突然出现太惊艳",
-      "onboard_time": 1706477116,
-      "rank": 46,
-      "category": "旅游"
+      "raw_hot": 14480,
+      "num": 14480,
+      "word": "大小杨哥版马弓手关羽请战华雄",
+      "onboard_time": 1706479396,
+      "rank": 42,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 10258,
