@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706474043471,
+  "endTime": 1706476590568,
   "band_list": [
     {
       "raw_hot": 811476,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54857,
+      "num": 32890,
+      "word": "男子租宝马后抵押套现21万挥霍",
+      "onboard_time": 1706471596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51353,
       "num": 51353,
       "word": "刘诗诗首次参加春晚联排",
@@ -433,14 +441,6 @@
       "onboard_time": 1706461103,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36595,
-      "num": 32890,
-      "word": "男子租宝马后抵押套现21万挥霍",
-      "onboard_time": 1706471596,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35486,
@@ -475,6 +475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 21006,
+      "num": 14990,
+      "word": "日本连环爆炸案凶手患癌自首",
+      "onboard_time": 1706475795,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18028,
       "num": 24116,
       "word": "融合嘻哈盛典",
@@ -483,8 +491,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17267,
-      "num": 17267,
+      "raw_hot": 17289,
+      "num": 17289,
       "word": "红月亮",
       "onboard_time": 1706447910,
       "rank": 44,
@@ -505,6 +513,14 @@
       "onboard_time": 1706468717,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13502,
+      "num": 13502,
+      "word": "8种负面情绪加速衰老",
+      "onboard_time": 1706474714,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 10258,
