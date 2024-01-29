@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/29 22:15:44
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/29 22:34:12
 </p>
 </blockquote>
 <p>
@@ -3051,6 +3051,12 @@ A股三大指数均跌超3%（热度：1288927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%99%90%E5%88%B6%E6%95%99%E5%B8%88%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%B5%81%E5%8A%A8%23" target="weibo">
+多地限制教师非正常流动（热度：1249473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%BC%94%E8%81%8B%E5%93%91%E4%BA%BA%23" target="weibo">
 赵丽颖演聋哑人（热度：1249423）
 </a>
@@ -3665,12 +3671,6 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E7%88%B8%E7%88%B8%E5%BC%BA%E8%BF%AB%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%90%AC%E4%BA%AC%E5%89%A7%23" target="weibo">
 高圆圆爸爸强迫赵又廷听京剧（热度：1144184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%99%90%E5%88%B6%E6%95%99%E5%B8%88%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%B5%81%E5%8A%A8%23" target="weibo">
-多地限制教师非正常流动（热度：1143989）
 </a>
 </li>
 
