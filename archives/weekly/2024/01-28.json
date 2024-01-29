@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706506428120,
+  "endTime": 1706509316890,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 909912,
+      "num": 909912,
+      "word": "肖战迪丽热巴入选中国十大新青年",
+      "onboard_time": 1706507071,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882924,
       "num": 882924,
       "word": "恋与制作人 求婚",
@@ -383,6 +391,14 @@
       "num": 811476,
       "word": "李湘辟谣1560元出售二手毛巾",
       "onboard_time": 1706454993,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 798126,
+      "num": 798126,
+      "word": "吴昕41岁状态",
+      "onboard_time": 1706507670,
       "rank": 4,
       "category": "艺人"
     },
@@ -1195,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347714,
+      "num": 347714,
+      "word": "90后宝妈克服恐惧当寿衣模特带货",
+      "onboard_time": 1706505928,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347080,
       "num": 347080,
       "word": "湖勇大战",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1706399543,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342213,
+      "num": 342213,
+      "word": "远嫁女子过年想回娘家遭公公扇耳光",
+      "onboard_time": 1706506889,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340622,
@@ -1227,12 +1259,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 336293,
+      "num": 336293,
+      "word": "A股创业板指跌超3%",
+      "onboard_time": 1706508747,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 330306,
       "num": 330306,
       "word": "KPOP纯元",
       "onboard_time": 1706502333,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326782,
+      "num": 326782,
+      "word": "准女婿上门送年礼带了几十箱礼物",
+      "onboard_time": 1706504733,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326327,
@@ -1321,14 +1369,6 @@
       "onboard_time": 1706488168,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310126,
-      "num": 310126,
-      "word": "准女婿上门送年礼带了几十箱礼物",
-      "onboard_time": 1706504733,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308802,
@@ -1795,6 +1835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223018,
+      "num": 223018,
+      "word": "正式被确诊为柿子",
+      "onboard_time": 1706508328,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222031,
       "num": 222031,
       "word": "上海图书馆回应馆内一把躺椅数万元",
@@ -1843,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215978,
+      "num": 215978,
+      "word": "gidle新歌上线",
+      "onboard_time": 1706506111,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215751,
       "num": 215751,
       "word": "IU金泰亨MV售后",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1706411428,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214085,
+      "num": 214085,
+      "word": "上证指数",
+      "onboard_time": 1706507849,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 213099,
@@ -2059,6 +2123,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 201067,
+      "num": 201067,
+      "word": "白鹿引导粉丝好真诚",
+      "onboard_time": 1706508991,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200428,
       "num": 200428,
       "word": "原来这才是真榨汁肌",
@@ -2233,6 +2305,14 @@
       "onboard_time": 1706435849,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181508,
+      "num": 181508,
+      "word": "创业板",
+      "onboard_time": 1706509050,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 180987,
@@ -2547,14 +2627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155517,
-      "num": 155517,
-      "word": "90后宝妈克服恐惧当寿衣模特带货",
-      "onboard_time": 1706505928,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155042,
       "num": 155042,
       "word": "在韩中国学生展示韩国大学美食",
@@ -2611,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150914,
+      "num": 150914,
+      "word": "陈漫拍的李冰冰",
+      "onboard_time": 1706508927,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 150836,
       "num": 150836,
       "word": "老板日售60只羊直呼剁肉到手疼",
@@ -2625,6 +2705,14 @@
       "onboard_time": 1706427989,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 149956,
+      "num": 149956,
+      "word": "唐嫣一开口梦回汪小姐",
+      "onboard_time": 1706507071,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 149552,
@@ -2651,14 +2739,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 149038,
-      "num": 149038,
-      "word": "gidle新歌上线",
-      "onboard_time": 1706506111,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148581,
       "num": 148581,
       "word": "用回现金的年轻人终于攒下钱了",
@@ -2673,6 +2753,14 @@
       "onboard_time": 1706432907,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148161,
+      "num": 148161,
+      "word": "辛芷蕾复古爆炸头",
+      "onboard_time": 1706509168,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147737,
@@ -2801,6 +2889,14 @@
       "onboard_time": 1706418867,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137407,
+      "num": 137407,
+      "word": "陕西文旅你是真开窍了啊",
+      "onboard_time": 1706506949,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 136893,
@@ -3011,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128591,
+      "num": 128591,
+      "word": "乘风2024全民举荐",
+      "onboard_time": 1706507250,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128590,
       "num": 128590,
       "word": "杨子回应带货风波",
@@ -3099,6 +3203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124940,
+      "num": 124940,
+      "word": "在暴雪时分之我是真有一个朋友",
+      "onboard_time": 1706508810,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
@@ -3137,6 +3249,14 @@
       "onboard_time": 1706419287,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123287,
+      "num": 123287,
+      "word": "暖暖唱评弹",
+      "onboard_time": 1706508991,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 123020,
@@ -3721,6 +3841,14 @@
       "onboard_time": 1706447794,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 100677,
+      "num": 100677,
+      "word": "郑思维摔坏奖杯黄雅琼忙拍照",
+      "onboard_time": 1706507611,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 100575,
