@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706495667031,
+  "endTime": 1706498295186,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -24,6 +24,14 @@
       "word": "月嫂偷带安眠药上户被抓包",
       "onboard_time": 1706429909,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1952033,
+      "num": 1952033,
+      "word": "6天班",
+      "onboard_time": 1706494467,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1591989,
+      "num": 1591989,
+      "word": "我国女性HPV感染率呈双峰分布",
+      "onboard_time": 1706492367,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1513224,
       "num": 1513224,
       "word": "支付宝五福",
@@ -65,14 +81,6 @@
       "onboard_time": 1706438371,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1494916,
-      "num": 1494916,
-      "word": "我国女性HPV感染率呈双峰分布",
-      "onboard_time": 1706492367,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1478337,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899302,
+      "num": 899302,
+      "word": "两个14岁的上海女学生的采访",
+      "onboard_time": 1706496027,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 864134,
       "num": 864134,
       "word": "211毕业男子被裁瞒着妻子送外卖",
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 672331,
+      "num": 672331,
+      "word": "侮辱罪与传播淫秽物品罪",
+      "onboard_time": 1706494526,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671113,
       "num": 671113,
       "word": "刘诗诗首次参加春晚联排",
@@ -475,20 +499,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 599590,
+      "num": 599590,
+      "word": "9部电影官宣2024春节档",
+      "onboard_time": 1706495066,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 592520,
       "num": 592520,
       "word": "马思纯三天瘦了六斤",
       "onboard_time": 1706434469,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 591203,
-      "num": 591203,
-      "word": "6天班",
-      "onboard_time": 1706494467,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590000,
@@ -561,6 +585,14 @@
       "onboard_time": 1706433329,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 545060,
+      "num": 545060,
+      "word": "江西新余火灾19岁学生何志权",
+      "onboard_time": 1706496089,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541249,
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464932,
+      "num": 464932,
+      "word": "夫妻分居型春节",
+      "onboard_time": 1706496270,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459085,
       "num": 459085,
       "word": "中国地质大学回应公示拟聘任处长之子",
@@ -827,6 +867,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 435719,
+      "num": 435719,
+      "word": "长大了看小孩结婚",
+      "onboard_time": 1706495188,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 434435,
+      "num": 434435,
+      "word": "血染新娘高定礼服",
+      "onboard_time": 1706496389,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 422067,
       "num": 422067,
       "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
@@ -849,6 +905,14 @@
       "onboard_time": 1706435432,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410370,
+      "num": 410370,
+      "word": "香港法院对中国恒大发出清盘令",
+      "onboard_time": 1706495849,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 405440,
@@ -969,6 +1033,14 @@
       "onboard_time": 1706452113,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365090,
+      "num": 365090,
+      "word": "多名中国留学生入境美国遭盘查遣返",
+      "onboard_time": 1706495970,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356037,
@@ -1203,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291496,
-      "num": 291496,
-      "word": "9部电影官宣2024春节档",
-      "onboard_time": 1706495066,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 291311,
       "num": 291311,
       "word": "蒙面倪妮",
@@ -1219,12 +1283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289210,
+      "num": 289210,
+      "word": "吴秀波公司被强执2.9亿",
+      "onboard_time": 1706497109,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288532,
       "num": 288532,
       "word": "外卖中的微塑料两小时就可进入大脑",
       "onboard_time": 1706487988,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 287828,
+      "num": 287828,
+      "word": "王源重庆工作室申请注销",
+      "onboard_time": 1706497288,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 281544,
@@ -1403,12 +1483,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 238822,
-      "num": 135066,
-      "word": "侮辱罪与传播淫秽物品罪",
-      "onboard_time": 1706494526,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 238631,
+      "num": 238631,
+      "word": "库迪咖啡卖酒",
+      "onboard_time": 1706496569,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 237497,
@@ -1449,6 +1529,14 @@
       "onboard_time": 1706396839,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233702,
+      "num": 233702,
+      "word": "网友称陈牧驰扔了粉丝送的礼物",
+      "onboard_time": 1706498130,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 233236,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1706453013,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224663,
+      "num": 224663,
+      "word": "关晓彤王安宇双人剧照",
+      "onboard_time": 1706497707,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 224241,
@@ -1947,14 +2043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 173167,
-      "num": 134853,
-      "word": "长大了看小孩结婚",
-      "onboard_time": 1706495188,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173018,
       "num": 173018,
       "word": "驾校教练本科竟然是学法学的",
@@ -2307,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144609,
+      "num": 144609,
+      "word": "养到笨蛋小狗了怎么办",
+      "onboard_time": 1706496147,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142358,
       "num": 120887,
       "word": "白敬亭裤子上挂玩偶",
@@ -2467,6 +2563,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 132737,
+      "num": 132737,
+      "word": "布克又空砍了",
+      "onboard_time": 1706497048,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131886,
       "num": 131886,
       "word": "谷爱凌带伤参赛XGames",
@@ -2577,6 +2681,14 @@
       "onboard_time": 1706488892,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127594,
+      "num": 127594,
+      "word": "小巷人家两对cp",
+      "onboard_time": 1706497529,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 127250,
@@ -2779,6 +2891,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 117017,
+      "num": 117017,
+      "word": "这座县城走出了十几位两院院士",
+      "onboard_time": 1706497889,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116630,
       "num": 116630,
       "word": "沈腾为了它封闭训练了两个月",
@@ -2865,6 +2985,14 @@
       "onboard_time": 1706401945,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113587,
+      "num": 113587,
+      "word": "鬼灭之刃 特别剧场版",
+      "onboard_time": 1706496808,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 113586,
@@ -3051,12 +3179,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105156,
+      "num": 105156,
+      "word": "外卖小哥 有时真的想报警",
+      "onboard_time": 1706497529,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105075,
       "num": 105075,
       "word": "HLE对战T1",
       "onboard_time": 1706438730,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104671,
+      "num": 104671,
+      "word": "俄驻韩大使馆保安亭遭汽车撞击",
+      "onboard_time": 1706496688,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 104457,
@@ -3227,6 +3371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96374,
+      "num": 96374,
+      "word": "年货就是酣畅淋漓的自助",
+      "onboard_time": 1706498130,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96113,
       "num": 96113,
       "word": "整活还得是东北人",
@@ -3329,6 +3481,14 @@
       "onboard_time": 1706486007,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 92655,
+      "num": 92655,
+      "word": "张艺谋新剧",
+      "onboard_time": 1706498251,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 92512,

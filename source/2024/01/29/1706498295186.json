@@ -1,0 +1,410 @@
+{
+  "runTime": 1706498295186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952033,
+        "num": 1952033,
+        "word": "6天班",
+        "onboard_time": 1706494467,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591989,
+        "num": 1591989,
+        "word": "我国女性HPV感染率呈双峰分布",
+        "onboard_time": 1706492367,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12804,
+        "num": 1203781,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982346,
+        "num": 982346,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 899302,
+        "num": 899302,
+        "word": "两个14岁的上海女学生的采访",
+        "onboard_time": 1706496027,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 672331,
+        "num": 672331,
+        "word": "侮辱罪与传播淫秽物品罪",
+        "onboard_time": 1706494526,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612815,
+        "num": 612815,
+        "word": "唯一的姐丁泽仁",
+        "onboard_time": 1706485344,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599590,
+        "num": 599590,
+        "word": "9部电影官宣2024春节档",
+        "onboard_time": 1706495066,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 594465,
+        "num": 594465,
+        "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+        "onboard_time": 1706487508,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545060,
+        "num": 545060,
+        "word": "江西新余火灾19岁学生何志权",
+        "onboard_time": 1706496089,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527307,
+        "num": 527307,
+        "word": "得州与美政府武装对峙",
+        "onboard_time": 1706492247,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 464932,
+        "num": 464932,
+        "word": "夫妻分居型春节",
+        "onboard_time": 1706496270,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435719,
+        "num": 435719,
+        "word": "长大了看小孩结婚",
+        "onboard_time": 1706495188,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434435,
+        "num": 434435,
+        "word": "血染新娘高定礼服",
+        "onboard_time": 1706496389,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 413908,
+        "num": 413908,
+        "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
+        "onboard_time": 1706485766,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410370,
+        "num": 410370,
+        "word": "香港法院对中国恒大发出清盘令",
+        "onboard_time": 1706495849,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365090,
+        "num": 365090,
+        "word": "多名中国留学生入境美国遭盘查遣返",
+        "onboard_time": 1706495970,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306302,
+        "num": 306302,
+        "word": "范丞丞背后抱卢昱晓路透",
+        "onboard_time": 1706491587,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289210,
+        "num": 289210,
+        "word": "吴秀波公司被强执2.9亿",
+        "onboard_time": 1706497109,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287828,
+        "num": 287828,
+        "word": "王源重庆工作室申请注销",
+        "onboard_time": 1706497288,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238631,
+        "num": 238631,
+        "word": "库迪咖啡卖酒",
+        "onboard_time": 1706496569,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233702,
+        "num": 233702,
+        "word": "网友称陈牧驰扔了粉丝送的礼物",
+        "onboard_time": 1706498130,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226280,
+        "num": 226280,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224663,
+        "num": 224663,
+        "word": "关晓彤王安宇双人剧照",
+        "onboard_time": 1706497707,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221294,
+        "num": 221294,
+        "word": "本周日调休上班",
+        "onboard_time": 1706492069,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220828,
+        "num": 220828,
+        "word": "蒙面倪妮",
+        "onboard_time": 1706492847,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210676,
+        "num": 210676,
+        "word": "时代少年团KFC联名",
+        "onboard_time": 1706494946,
+        "rank": 26,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 194862,
+        "num": 194862,
+        "word": "长辈不在 过年的传统也慢慢消失了",
+        "onboard_time": 1706486487,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175194,
+        "num": 175194,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165318,
+        "num": 165318,
+        "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+        "onboard_time": 1706490508,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164609,
+        "num": 164609,
+        "word": "小学生收获1600斤年终奖",
+        "onboard_time": 1706461223,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144609,
+        "num": 144609,
+        "word": "养到笨蛋小狗了怎么办",
+        "onboard_time": 1706496147,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134208,
+        "num": 134208,
+        "word": "自称桐岛聪男子在医院死亡",
+        "onboard_time": 1706491647,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132737,
+        "num": 132737,
+        "word": "布克又空砍了",
+        "onboard_time": 1706497048,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130776,
+        "num": 130776,
+        "word": "外卖中的微塑料两小时就可进入大脑",
+        "onboard_time": 1706487988,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127594,
+        "num": 127594,
+        "word": "小巷人家两对cp",
+        "onboard_time": 1706497529,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118603,
+        "num": 118603,
+        "word": "拜登回应美军基地遭袭",
+        "onboard_time": 1706493927,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117017,
+        "num": 117017,
+        "word": "这座县城走出了十几位两院院士",
+        "onboard_time": 1706497889,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115137,
+        "num": 115137,
+        "word": "玉米几",
+        "onboard_time": 1706489070,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113587,
+        "num": 113587,
+        "word": "鬼灭之刃 特别剧场版",
+        "onboard_time": 1706496808,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111845,
+        "num": 111845,
+        "word": "消除emo的电话4008000088",
+        "onboard_time": 1706490809,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111497,
+        "num": 111497,
+        "word": "花花和它一米八的长腿妹妹",
+        "onboard_time": 1706484863,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109245,
+        "num": 109245,
+        "word": "胡锡进强烈期待本周市场再涨一波",
+        "onboard_time": 1706495368,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108800,
+        "num": 108800,
+        "word": "坚持十几年却做了一件没用的事",
+        "onboard_time": 1706490987,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107901,
+        "num": 107901,
+        "word": "董明珠宣布将多发2亿年终奖",
+        "onboard_time": 1706485465,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105156,
+        "num": 105156,
+        "word": "外卖小哥 有时真的想报警",
+        "onboard_time": 1706497529,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104671,
+        "num": 104671,
+        "word": "俄驻韩大使馆保安亭遭汽车撞击",
+        "onboard_time": 1706496688,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103658,
+        "num": 103658,
+        "word": "昆明动物园2只猫咪住进新家啦",
+        "onboard_time": 1706484443,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96374,
+        "num": 96374,
+        "word": "年货就是酣畅淋漓的自助",
+        "onboard_time": 1706498130,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92655,
+        "num": 92655,
+        "word": "张艺谋新剧",
+        "onboard_time": 1706498251,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神弥足珍贵#"
+    }
+  }
+}
