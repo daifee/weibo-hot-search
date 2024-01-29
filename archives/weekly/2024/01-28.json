@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706517255523,
+  "endTime": 1706519845023,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -104,6 +104,14 @@
       "word": "10省将出现暴雪或大暴雪",
       "onboard_time": 1706438371,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493107,
+      "num": 1493107,
+      "word": "订婚强奸案",
+      "onboard_time": 1706517931,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -433,6 +441,14 @@
       "onboard_time": 1706514029,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 785076,
+      "num": 785076,
+      "word": "小伙欠债40万女友陪还4年",
+      "onboard_time": 1706517087,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751741,
@@ -787,6 +803,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 534663,
+      "num": 534663,
+      "word": "素人浪姐",
+      "onboard_time": 1706516731,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534103,
       "num": 534103,
       "word": "得州兵营美军士兵开枪互射",
@@ -833,6 +857,22 @@
       "onboard_time": 1706366432,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 501175,
+      "num": 501175,
+      "word": "免签不是免费",
+      "onboard_time": 1706519069,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 497996,
+      "num": 497996,
+      "word": "2024湖南卫视春晚官宣",
+      "onboard_time": 1706517087,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 497883,
@@ -1060,7 +1100,7 @@
     },
     {
       "raw_hot": 435147,
-      "num": 236001,
+      "num": 268513,
       "word": "因为朋友圈新工作的offer没了",
       "onboard_time": 1706510851,
       "rank": 20,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1706496389,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 433935,
+      "num": 433935,
+      "word": "玉米几是什么新梗",
+      "onboard_time": 1706516910,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 422067,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1706368771,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 393387,
+      "num": 393387,
+      "word": "你的快递可能是两岁小孩哥打包的",
+      "onboard_time": 1706516611,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389630,
@@ -1347,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344998,
+      "num": 344998,
+      "word": "九天玄女时装",
+      "onboard_time": 1706517990,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342752,
       "num": 280381,
       "word": "在火车上发疯之后全车厢都安静了",
@@ -1369,6 +1433,14 @@
       "onboard_time": 1706486849,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 331440,
+      "num": 331440,
+      "word": "gidle新歌上线",
+      "onboard_time": 1706506111,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 330306,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1706419947,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310290,
+      "num": 310290,
+      "word": "张雪峰为公司员工发放11斤年货",
+      "onboard_time": 1706513971,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310168,
@@ -1843,6 +1923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237748,
+      "num": 237748,
+      "word": "猴子和猫",
+      "onboard_time": 1706518827,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "2.6万余条新生儿信息被贩卖",
@@ -1931,12 +2019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228375,
-      "num": 228375,
-      "word": "素人浪姐",
-      "onboard_time": 1706516731,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 229663,
+      "num": 229663,
+      "word": "恒大",
+      "onboard_time": 1706519250,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 227255,
@@ -2011,19 +2099,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220346,
+      "num": 220346,
+      "word": "CCTV6春节首播长空之王",
+      "onboard_time": 1706518652,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219983,
       "num": 219983,
       "word": "自称桐岛聪男子在医院死亡",
       "onboard_time": 1706491647,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218870,
-      "num": 218870,
-      "word": "张雪峰为公司员工发放11斤年货",
-      "onboard_time": 1706513971,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2041,14 +2129,6 @@
       "onboard_time": 1706441189,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215978,
-      "num": 215978,
-      "word": "gidle新歌上线",
-      "onboard_time": 1706506111,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 215751,
@@ -2147,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208330,
-      "num": 208330,
-      "word": "玉米几是什么新梗",
-      "onboard_time": 1706516910,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207607,
       "num": 207607,
       "word": "世界之外流水超原神",
@@ -2233,6 +2305,14 @@
       "onboard_time": 1706412512,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203609,
+      "num": 203609,
+      "word": "女孩打碎爸爸杯子吓得带弟弟出走",
+      "onboard_time": 1706516009,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203304,
@@ -2467,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184420,
+      "num": 184420,
+      "word": "阴阳师生肖系列新皮肤",
+      "onboard_time": 1706518893,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183969,
       "num": 168153,
       "word": "当普通人穿上尝试网红穿搭",
@@ -2537,6 +2625,14 @@
       "onboard_time": 1706502575,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175511,
+      "num": 175511,
+      "word": "陈戌源受贿案将择期宣判",
+      "onboard_time": 1706519673,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175446,
@@ -2611,6 +2707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 171248,
+      "num": 171248,
+      "word": "陈戌源被控受贿8103万余元",
+      "onboard_time": 1706519673,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170378,
       "num": 170378,
       "word": "玻璃纤维",
@@ -2635,14 +2739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168749,
-      "num": 168749,
-      "word": "2024湖南卫视春晚官宣",
-      "onboard_time": 1706517087,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167607,
       "num": 167607,
       "word": "24年间鸿星尔克经历过四次生死存亡",
@@ -2664,14 +2760,6 @@
       "word": "董明珠称希望2024年给国家税收超200亿",
       "onboard_time": 1706453312,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166296,
-      "num": 166296,
-      "word": "女孩打碎爸爸杯子吓得带弟弟出走",
-      "onboard_time": 1706516009,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2931,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151438,
+      "num": 151438,
+      "word": "广州30岁诗人因抑郁症离世",
+      "onboard_time": 1706516009,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150836,
       "num": 150836,
       "word": "老板日售60只羊直呼剁肉到手疼",
@@ -3059,14 +3155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144214,
-      "num": 144214,
-      "word": "广州30岁诗人因抑郁症离世",
-      "onboard_time": 1706516009,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142358,
       "num": 120887,
       "word": "白敬亭裤子上挂玩偶",
@@ -3097,6 +3185,14 @@
       "onboard_time": 1706453731,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139078,
+      "num": 139078,
+      "word": "胡先煦说秦岚嗓子在做恢复训练",
+      "onboard_time": 1706519427,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 138485,
@@ -3296,14 +3392,6 @@
       "word": "上海图书馆一把躺椅数万元",
       "onboard_time": 1706415748,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131074,
-      "num": 131074,
-      "word": "你的快递可能是两岁小孩哥打包的",
-      "onboard_time": 1706516611,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3811,6 +3899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113551,
+      "num": 113551,
+      "word": "误把乡村爱情当终极笔记看",
+      "onboard_time": 1706519490,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113422,
       "num": 113422,
       "word": "彩礼防谈崩技巧",
@@ -3929,14 +4025,6 @@
       "onboard_time": 1706455531,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109215,
-      "num": 109215,
-      "word": "小伙欠债40万女友陪还4年",
-      "onboard_time": 1706517087,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108988,
@@ -4193,6 +4281,14 @@
       "onboard_time": 1706409268,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99942,
+      "num": 99942,
+      "word": "胡先煦说秦岚是精神偶像",
+      "onboard_time": 1706517570,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 99427,
