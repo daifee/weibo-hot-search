@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706556846063,
+  "endTime": 1706559483898,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -6113,6 +6113,14 @@
       "onboard_time": 1706554398,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18592,
+      "num": 18592,
+      "word": "毛不易不知道秦岚是东北人",
+      "onboard_time": 1706558236,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 18028,
