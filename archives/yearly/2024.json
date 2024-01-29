@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706498295186,
+  "endTime": 1706499335164,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2371,6 +2371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1571917,
+      "num": 1571917,
+      "word": "韩庚韩国 抑郁",
+      "onboard_time": 1706498488,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1571291,
       "num": 1571291,
       "word": "非诚勿扰宝马女起诉离婚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704266850,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1554414,
-      "num": 827484,
-      "word": "杨紫好瘦",
-      "onboard_time": 1704031872,
-      "rank": 20,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

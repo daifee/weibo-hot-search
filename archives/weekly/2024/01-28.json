@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706498295186,
+  "endTime": 1706499335164,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -65,6 +65,14 @@
       "onboard_time": 1706492367,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1571917,
+      "num": 1571917,
+      "word": "韩庚韩国 抑郁",
+      "onboard_time": 1706498488,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1513224,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111085,
+      "num": 1111085,
+      "word": "两个14岁的上海女学生的采访",
+      "onboard_time": 1706496027,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1063540,
       "num": 1063540,
       "word": "谷爱凌将代表中国征战2026冬奥会",
@@ -257,14 +273,6 @@
       "onboard_time": 1706402187,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 899302,
-      "num": 899302,
-      "word": "两个14岁的上海女学生的采访",
-      "onboard_time": 1706496027,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 864134,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678171,
+      "num": 443454,
+      "word": "网友称陈牧驰扔了粉丝送的礼物",
+      "onboard_time": 1706498130,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674461,
       "num": 674461,
       "word": "玉米几",
@@ -491,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610530,
+      "num": 610530,
+      "word": "9部电影官宣2024春节档",
+      "onboard_time": 1706495066,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 604218,
       "num": 604218,
       "word": "基因彩票",
       "onboard_time": 1706407049,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 599590,
-      "num": 599590,
-      "word": "9部电影官宣2024春节档",
-      "onboard_time": 1706495066,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 592520,
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375804,
+      "num": 375804,
+      "word": "关晓彤王安宇双人剧照",
+      "onboard_time": 1706497707,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373774,
       "num": 373774,
       "word": "董明珠称格力不关心股价",
@@ -1163,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314027,
+      "num": 314027,
+      "word": "王源重庆工作室申请注销",
+      "onboard_time": 1706497288,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313403,
       "num": 313403,
       "word": "icon官宣退役",
@@ -1299,14 +1331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 287828,
-      "num": 287828,
-      "word": "王源重庆工作室申请注销",
-      "onboard_time": 1706497288,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281544,
       "num": 252367,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1706412930,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 276385,
+      "num": 276385,
+      "word": "孙红雷回应黄渤张艺兴不带自己玩",
+      "onboard_time": 1706498429,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 276146,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1706405008,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262758,
+      "num": 262758,
+      "word": "闪耀暖暖 复苏色",
+      "onboard_time": 1706498671,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 259242,
@@ -1531,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233702,
-      "num": 233702,
-      "word": "网友称陈牧驰扔了粉丝送的礼物",
-      "onboard_time": 1706498130,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233236,
       "num": 233236,
       "word": "巩汉林发视频缅怀赵丽蓉",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1706453013,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224663,
-      "num": 224663,
-      "word": "关晓彤王安宇双人剧照",
-      "onboard_time": 1706497707,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 224241,
@@ -1771,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204819,
+      "num": 204819,
+      "word": "蔡徐坤新歌RIDEORDIE",
+      "onboard_time": 1706498488,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204185,
       "num": 204185,
       "word": "河南发现原油资源量达1.07亿吨大油田",
@@ -1867,6 +1899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199264,
+      "num": 199264,
+      "word": "张艺谋新剧",
+      "onboard_time": 1706498251,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197830,
       "num": 197830,
       "word": "仙剑四猫眼登顶",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193664,
+      "num": 193664,
+      "word": "得州副州长回应内战传言",
+      "onboard_time": 1706498607,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 192162,
@@ -2187,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159272,
+      "num": 159272,
+      "word": "韩庚回忆出道时被迫停演",
+      "onboard_time": 1706498910,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158893,
       "num": 158893,
       "word": "小孩哥一次外向换来一生内向",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1706453731,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138703,
+      "num": 138703,
+      "word": "男子举报纪委干部40分钟后就被抓",
+      "onboard_time": 1706499148,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138485,
@@ -2843,6 +2907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120307,
+      "num": 120307,
+      "word": "这座县城走出了十几位两院院士",
+      "onboard_time": 1706497889,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119290,
       "num": 119290,
       "word": "王星越对吴磊说太拥挤了",
@@ -2889,14 +2961,6 @@
       "onboard_time": 1706367692,
       "rank": 32,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 117017,
-      "num": 117017,
-      "word": "这座县城走出了十几位两院院士",
-      "onboard_time": 1706497889,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116630,
@@ -2963,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114612,
+      "num": 114612,
+      "word": "在暴雪时分吴磊角色特辑",
+      "onboard_time": 1706499211,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114301,
       "num": 114301,
       "word": "新鲜感三个月定律",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1706454993,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113242,
+      "num": 113242,
+      "word": "外卖小哥 有时真的想报警",
+      "onboard_time": 1706497529,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 112869,
@@ -3179,14 +3259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105156,
-      "num": 105156,
-      "word": "外卖小哥 有时真的想报警",
-      "onboard_time": 1706497529,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105075,
       "num": 105075,
       "word": "HLE对战T1",
@@ -3347,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98904,
+      "num": 98904,
+      "word": "太阳不敌魔术",
+      "onboard_time": 1706498968,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98067,
       "num": 98067,
       "word": "驻马店消防通报一仓库发生火灾",
@@ -3481,14 +3561,6 @@
       "onboard_time": 1706486007,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 92655,
-      "num": 92655,
-      "word": "张艺谋新剧",
-      "onboard_time": 1706498251,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 92512,
@@ -3980,7 +4052,7 @@
     },
     {
       "raw_hot": 14432,
-      "num": 1379608,
+      "num": 1483446,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706499335164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1938540,
+        "num": 1938540,
+        "word": "6天班",
+        "onboard_time": 1706494467,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1571917,
+        "num": 1571917,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14327,
+        "num": 1483446,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1397102,
+        "num": 1397102,
+        "word": "我国女性HPV感染率呈双峰分布",
+        "onboard_time": 1706492367,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1111085,
+        "num": 1111085,
+        "word": "两个14岁的上海女学生的采访",
+        "onboard_time": 1706496027,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 829472,
+        "num": 829472,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 610530,
+        "num": 610530,
+        "word": "9部电影官宣2024春节档",
+        "onboard_time": 1706495066,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 573229,
+        "num": 573229,
+        "word": "侮辱罪与传播淫秽物品罪",
+        "onboard_time": 1706494526,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559366,
+        "num": 559366,
+        "word": "唯一的姐丁泽仁",
+        "onboard_time": 1706485344,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453534,
+        "num": 453534,
+        "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+        "onboard_time": 1706487508,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678171,
+        "num": 443454,
+        "word": "网友称陈牧驰扔了粉丝送的礼物",
+        "onboard_time": 1706498130,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425859,
+        "num": 425859,
+        "word": "夫妻分居型春节",
+        "onboard_time": 1706496270,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422516,
+        "num": 422516,
+        "word": "血染新娘高定礼服",
+        "onboard_time": 1706496389,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 401985,
+        "num": 401985,
+        "word": "长大了看小孩结婚",
+        "onboard_time": 1706495188,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375804,
+        "num": 375804,
+        "word": "关晓彤王安宇双人剧照",
+        "onboard_time": 1706497707,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351399,
+        "num": 351399,
+        "word": "得州与美政府武装对峙",
+        "onboard_time": 1706492247,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 322282,
+        "num": 322282,
+        "word": "香港法院对中国恒大发出清盘令",
+        "onboard_time": 1706495849,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314027,
+        "num": 314027,
+        "word": "王源重庆工作室申请注销",
+        "onboard_time": 1706497288,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307897,
+        "num": 307897,
+        "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
+        "onboard_time": 1706485766,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301908,
+        "num": 301908,
+        "word": "多名中国留学生入境美国遭盘查遣返",
+        "onboard_time": 1706495970,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277386,
+        "num": 277386,
+        "word": "吴秀波公司被强执2.9亿",
+        "onboard_time": 1706497109,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276385,
+        "num": 276385,
+        "word": "孙红雷回应黄渤张艺兴不带自己玩",
+        "onboard_time": 1706498429,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262758,
+        "num": 262758,
+        "word": "闪耀暖暖 复苏色",
+        "onboard_time": 1706498671,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244294,
+        "num": 244294,
+        "word": "范丞丞背后抱卢昱晓路透",
+        "onboard_time": 1706491587,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216774,
+        "num": 216774,
+        "word": "库迪咖啡卖酒",
+        "onboard_time": 1706496569,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204819,
+        "num": 204819,
+        "word": "蔡徐坤新歌RIDEORDIE",
+        "onboard_time": 1706498488,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199264,
+        "num": 199264,
+        "word": "张艺谋新剧",
+        "onboard_time": 1706498251,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193664,
+        "num": 193664,
+        "word": "得州副州长回应内战传言",
+        "onboard_time": 1706498607,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 460892,
+        "num": 192102,
+        "word": "江西新余火灾19岁学生何志权",
+        "onboard_time": 1706496089,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184939,
+        "num": 184939,
+        "word": "蒙面倪妮",
+        "onboard_time": 1706492847,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183231,
+        "num": 183231,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159272,
+        "num": 159272,
+        "word": "韩庚回忆出道时被迫停演",
+        "onboard_time": 1706498910,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149921,
+        "num": 149921,
+        "word": "时代少年团KFC联名",
+        "onboard_time": 1706494946,
+        "rank": 32,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 144166,
+        "num": 144166,
+        "word": "养到笨蛋小狗了怎么办",
+        "onboard_time": 1706496147,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143835,
+        "num": 143835,
+        "word": "长辈不在 过年的传统也慢慢消失了",
+        "onboard_time": 1706486487,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139758,
+        "num": 139758,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138703,
+        "num": 138703,
+        "word": "男子举报纪委干部40分钟后就被抓",
+        "onboard_time": 1706499148,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132669,
+        "num": 132669,
+        "word": "小学生收获1600斤年终奖",
+        "onboard_time": 1706461223,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "本周日调休上班",
+        "onboard_time": 1706492069,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126906,
+        "num": 126906,
+        "word": "小巷人家两对cp",
+        "onboard_time": 1706497529,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121851,
+        "num": 121851,
+        "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+        "onboard_time": 1706490508,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120307,
+        "num": 120307,
+        "word": "这座县城走出了十几位两院院士",
+        "onboard_time": 1706497889,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114612,
+        "num": 114612,
+        "word": "在暴雪时分吴磊角色特辑",
+        "onboard_time": 1706499211,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113242,
+        "num": 113242,
+        "word": "外卖小哥 有时真的想报警",
+        "onboard_time": 1706497529,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111985,
+        "num": 111985,
+        "word": "布克又空砍了",
+        "onboard_time": 1706497048,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110043,
+        "num": 110043,
+        "word": "外卖中的微塑料两小时就可进入大脑",
+        "onboard_time": 1706487988,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97794,
+        "num": 106128,
+        "word": "胡锡进强烈期待本周市场再涨一波",
+        "onboard_time": 1706495368,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103707,
+        "num": 103707,
+        "word": "董明珠宣布将多发2亿年终奖",
+        "onboard_time": 1706485465,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103312,
+        "num": 103312,
+        "word": "昆明动物园2只猫咪住进新家啦",
+        "onboard_time": 1706484443,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98904,
+        "num": 98904,
+        "word": "太阳不敌魔术",
+        "onboard_time": 1706498968,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}
