@@ -1,0 +1,410 @@
+{
+  "runTime": 1706490724566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1513224,
+        "num": 1513224,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1478337,
+        "num": 1478337,
+        "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
+        "onboard_time": 1706485766,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 1379608,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318101,
+        "num": 1318101,
+        "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+        "onboard_time": 1706487508,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 729887,
+        "num": 729887,
+        "word": "董明珠宣布将多发2亿年终奖",
+        "onboard_time": 1706485465,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 695361,
+        "num": 695361,
+        "word": "长辈不在 过年的传统也慢慢消失了",
+        "onboard_time": 1706486487,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656533,
+        "num": 656533,
+        "word": "唯一的姐丁泽仁",
+        "onboard_time": 1706485344,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554236,
+        "num": 554236,
+        "word": "五个美军基地遭袭",
+        "onboard_time": 1706485586,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 487759,
+        "num": 487759,
+        "word": "花花和它一米八的长腿妹妹",
+        "onboard_time": 1706484863,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428266,
+        "num": 428266,
+        "word": "玉米几",
+        "onboard_time": 1706489070,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422201,
+        "num": 422201,
+        "word": "小学生收获1600斤年终奖",
+        "onboard_time": 1706461223,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385130,
+        "num": 385130,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336890,
+        "num": 336890,
+        "word": "我驻瑙鲁使馆复馆小组举行升国旗仪式",
+        "onboard_time": 1706486849,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329709,
+        "num": 329709,
+        "word": "日本连环爆炸案凶手患癌自首",
+        "onboard_time": 1706475795,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328107,
+        "num": 328107,
+        "word": "银川地震",
+        "onboard_time": 1706483120,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318252,
+        "num": 318252,
+        "word": "美议员呼吁红蓝州进行国家离婚",
+        "onboard_time": 1706489189,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310168,
+        "num": 310168,
+        "word": "一璐平安连续剧",
+        "onboard_time": 1706488168,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291645,
+        "num": 291645,
+        "word": "火车上的床单被罩干净吗",
+        "onboard_time": 1706442687,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254450,
+        "num": 254450,
+        "word": "宋轶新加坡探亲",
+        "onboard_time": 1706450793,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252467,
+        "num": 252467,
+        "word": "10省将出现暴雪或大暴雪",
+        "onboard_time": 1706438371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242930,
+        "num": 242930,
+        "word": "曝高迪跳平台将赔款4亿",
+        "onboard_time": 1706485526,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237497,
+        "num": 237497,
+        "word": "2.6万余条新生儿信息被贩卖",
+        "onboard_time": 1706488590,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231859,
+        "num": 231859,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227412,
+        "num": 227412,
+        "word": "上了几年班终于不年轻了",
+        "onboard_time": 1706487929,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226587,
+        "num": 226587,
+        "word": "外卖中的微塑料两小时就可进入大脑",
+        "onboard_time": 1706487988,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214814,
+        "num": 214814,
+        "word": "福原爱首场直播带货额不足2.5万元",
+        "onboard_time": 1706450793,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192133,
+        "num": 192133,
+        "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
+        "onboard_time": 1706452113,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179916,
+        "num": 179916,
+        "word": "5省份将出现冻雨",
+        "onboard_time": 1706487988,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169918,
+        "num": 169918,
+        "word": "昆明动物园2只猫咪住进新家啦",
+        "onboard_time": 1706484443,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163563,
+        "num": 163563,
+        "word": "男子租宝马后抵押套现21万挥霍",
+        "onboard_time": 1706471596,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161762,
+        "num": 161762,
+        "word": "安吉都长这么高了",
+        "onboard_time": 1706453013,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160811,
+        "num": 160811,
+        "word": "今明两天5名涉足坛反腐案被告人受审",
+        "onboard_time": 1706487328,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155034,
+        "num": 155034,
+        "word": "秦彻正脸",
+        "onboard_time": 1706487689,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146675,
+        "num": 146675,
+        "word": "小猫咪真的是把犟写在脸上的生物",
+        "onboard_time": 1706490029,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 138065,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1706423191,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128098,
+        "num": 128098,
+        "word": "格林两次犯规漏判",
+        "onboard_time": 1706488892,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127228,
+        "num": 127228,
+        "word": "西安一肉铺门口树上挂千斤腊肠",
+        "onboard_time": 1706490209,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126016,
+        "num": 126016,
+        "word": "1岁娃做开颅术陌生大叔心疼硬塞500",
+        "onboard_time": 1706446352,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122161,
+        "num": 122161,
+        "word": "年前的大唐不夜城已经挤不动了",
+        "onboard_time": 1706485586,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121558,
+        "num": 121558,
+        "word": "seventeen 日产体育场",
+        "onboard_time": 1706487508,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119476,
+        "num": 119476,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 116120,
+        "word": "听许嵩的歌长大的老爷爷",
+        "onboard_time": 1706485044,
+        "rank": 41,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 114977,
+        "word": "劳力士二手市场跳水",
+        "onboard_time": 1706489970,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111979,
+        "num": 111979,
+        "word": "过年美甲",
+        "onboard_time": 1706445091,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108676,
+        "num": 108676,
+        "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+        "onboard_time": 1706490508,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101067,
+        "num": 101067,
+        "word": "胡歌回应为何常在西藏青海被偶遇",
+        "onboard_time": 1706441189,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100577,
+        "num": 100577,
+        "word": "3个意想不到的伤胃习惯",
+        "onboard_time": 1706456550,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95605,
+        "num": 95605,
+        "word": "苹果安卓或实现WiFi消息传递",
+        "onboard_time": 1706485825,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92664,
+        "num": 92664,
+        "word": "陈戌源涉嫌受贿案今天一审开庭",
+        "onboard_time": 1706486007,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 90965,
+        "num": 90965,
+        "word": "塔吉克斯坦首进亚洲杯8强",
+        "onboard_time": 1706490451,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#将中法关系打造得更加牢固和富有活力#"
+    }
+  }
+}

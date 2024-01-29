@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706484828315,
+  "endTime": 1706490724566,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -43,11 +43,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513224,
+      "num": 1513224,
+      "word": "支付宝五福",
+      "onboard_time": 1706483301,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1507076,
       "num": 1507076,
       "word": "10省将出现暴雪或大暴雪",
       "onboard_time": 1706438371,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1478337,
+      "num": 1478337,
+      "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
+      "onboard_time": 1706485766,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -73,6 +89,14 @@
       "onboard_time": 1706417969,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1318101,
+      "num": 1318101,
+      "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+      "onboard_time": 1706487508,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1247834,
@@ -291,11 +315,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 719972,
-      "num": 719972,
-      "word": "支付宝五福",
-      "onboard_time": 1706483301,
-      "rank": 13,
+      "raw_hot": 729887,
+      "num": 729887,
+      "word": "董明珠宣布将多发2亿年终奖",
+      "onboard_time": 1706485465,
+      "rank": 4,
       "category": "互联网"
     },
     {
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695361,
+      "num": 695361,
+      "word": "长辈不在 过年的传统也慢慢消失了",
+      "onboard_time": 1706486487,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674216,
       "num": 674216,
       "word": "第一次觉得手机外放声音不刺耳了",
@@ -353,6 +385,14 @@
       "onboard_time": 1706416887,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 656533,
+      "num": 656533,
+      "word": "唯一的姐丁泽仁",
+      "onboard_time": 1706485344,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 640307,
@@ -465,6 +505,14 @@
       "onboard_time": 1706445450,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554236,
+      "num": 554236,
+      "word": "五个美军基地遭袭",
+      "onboard_time": 1706485586,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 545380,
@@ -593,6 +641,14 @@
       "onboard_time": 1706423909,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487759,
+      "num": 487759,
+      "word": "花花和它一米八的长腿妹妹",
+      "onboard_time": 1706484863,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482127,
@@ -729,6 +785,14 @@
       "onboard_time": 1706364333,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 428266,
+      "num": 428266,
+      "word": "玉米几",
+      "onboard_time": 1706489070,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 422067,
@@ -907,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336890,
+      "num": 336890,
+      "word": "我驻瑙鲁使馆复馆小组举行升国旗仪式",
+      "onboard_time": 1706486849,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326327,
       "num": 326327,
       "word": "军队文职成绩",
@@ -921,6 +993,14 @@
       "onboard_time": 1706346329,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 318252,
+      "num": 318252,
+      "word": "美议员呼吁红蓝州进行国家离婚",
+      "onboard_time": 1706489189,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 317113,
@@ -969,6 +1049,14 @@
       "onboard_time": 1706419947,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310168,
+      "num": 310168,
+      "word": "一璐平安连续剧",
+      "onboard_time": 1706488168,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 308802,
@@ -1211,6 +1299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242930,
+      "num": 242930,
+      "word": "曝高迪跳平台将赔款4亿",
+      "onboard_time": 1706485526,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 237497,
+      "num": 237497,
+      "word": "2.6万余条新生儿信息被贩卖",
+      "onboard_time": 1706488590,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237170,
       "num": 115247,
       "word": "网友吐槽23岁就被迫加入催婚的队伍",
@@ -1281,6 +1385,22 @@
       "onboard_time": 1706432608,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227412,
+      "num": 227412,
+      "word": "上了几年班终于不年轻了",
+      "onboard_time": 1706487929,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226587,
+      "num": 226587,
+      "word": "外卖中的微塑料两小时就可进入大脑",
+      "onboard_time": 1706487988,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224713,
@@ -1643,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179916,
+      "num": 179916,
+      "word": "5省份将出现冻雨",
+      "onboard_time": 1706487988,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177213,
       "num": 177213,
       "word": "成毅拍打戏时vs休息时",
@@ -1712,6 +1840,14 @@
       "word": "醉酒女孩爬27楼屋顶被民警飞扑抱住",
       "onboard_time": 1706402427,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169918,
+      "num": 169918,
+      "word": "昆明动物园2只猫咪住进新家啦",
+      "onboard_time": 1706484443,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1787,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160811,
+      "num": 160811,
+      "word": "今明两天5名涉足坛反腐案被告人受审",
+      "onboard_time": 1706487328,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160771,
       "num": 160771,
       "word": "李权哲亚超二公排名第一",
@@ -1849,6 +1993,14 @@
       "onboard_time": 1706422050,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155034,
+      "num": 155034,
+      "word": "秦彻正脸",
+      "onboard_time": 1706487689,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 155001,
@@ -1969,6 +2121,14 @@
       "onboard_time": 1706454029,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146675,
+      "num": 146675,
+      "word": "小猫咪真的是把犟写在脸上的生物",
+      "onboard_time": 1706490029,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 145928,
@@ -2259,11 +2419,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128098,
+      "num": 128098,
+      "word": "格林两次犯规漏判",
+      "onboard_time": 1706488892,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127250,
       "num": 127250,
       "word": "赶春运的农民工背包比人都高",
       "onboard_time": 1706403146,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127228,
+      "num": 127228,
+      "word": "西安一肉铺门口树上挂千斤腊肠",
+      "onboard_time": 1706490209,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2339,12 +2515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122161,
+      "num": 122161,
+      "word": "年前的大唐不夜城已经挤不动了",
+      "onboard_time": 1706485586,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 121742,
       "num": 121742,
       "word": "一念关山上星浙江卫视",
       "onboard_time": 1706416229,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121558,
+      "num": 121558,
+      "word": "seventeen 日产体育场",
+      "onboard_time": 1706487508,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 121219,
@@ -2419,6 +2611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116120,
+      "num": 116120,
+      "word": "听许嵩的歌长大的老爷爷",
+      "onboard_time": 1706485044,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 115753,
       "num": 115753,
       "word": "泰国搜索热度激增",
@@ -2433,6 +2633,14 @@
       "onboard_time": 1706428827,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114977,
+      "num": 114977,
+      "word": "劳力士二手市场跳水",
+      "onboard_time": 1706489970,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 114727,
@@ -2593,6 +2801,14 @@
       "onboard_time": 1706363373,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108676,
+      "num": 108676,
+      "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+      "onboard_time": 1706490508,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108434,
@@ -2843,6 +3059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95605,
+      "num": 95605,
+      "word": "苹果安卓或实现WiFi消息传递",
+      "onboard_time": 1706485825,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95544,
       "num": 95544,
       "word": "宋慧乔红丝袜",
@@ -2915,6 +3139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92664,
+      "num": 92664,
+      "word": "陈戌源涉嫌受贿案今天一审开庭",
+      "onboard_time": 1706486007,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 92512,
       "num": 92512,
       "word": "RA对战JDG",
@@ -2935,6 +3167,14 @@
       "num": 91751,
       "word": "詹姆斯36分20篮板三双",
       "onboard_time": 1706421446,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90965,
+      "num": 90965,
+      "word": "塔吉克斯坦首进亚洲杯8强",
+      "onboard_time": 1706490451,
       "rank": 49,
       "category": "体育"
     },
@@ -3113,14 +3353,6 @@
       "onboard_time": 1706377759,
       "rank": 18,
       "category": "科学科普,作品衍生"
-    },
-    {
-      "raw_hot": 66362,
-      "num": 66362,
-      "word": "昆明动物园2只猫咪住进新家啦",
-      "onboard_time": 1706484443,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64614,
@@ -3387,6 +3619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11700,
+      "num": 1379608,
+      "word": "何以中国向海泉州",
+      "onboard_time": 1706276130,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10922,
       "num": 12856,
       "word": "我过年回家的作用",
@@ -3409,14 +3649,6 @@
       "onboard_time": 1706473996,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 8979,
-      "num": 1327063,
-      "word": "何以中国向海泉州",
-      "onboard_time": 1706276130,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
