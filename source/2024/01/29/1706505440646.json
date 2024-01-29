@@ -1,0 +1,410 @@
+{
+  "runTime": 1706505440646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1918470,
+        "num": 1918470,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1845757,
+        "num": 1845757,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16840,
+        "num": 1299814,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155065,
+        "num": 1155065,
+        "word": "男子举报纪委干部40分钟后就被抓",
+        "onboard_time": 1706499148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882924,
+        "num": 882924,
+        "word": "恋与制作人 求婚",
+        "onboard_time": 1706500893,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 855314,
+        "num": 855314,
+        "word": "嬛嬛 朕出专辑啦",
+        "onboard_time": 1706499571,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840086,
+        "num": 840086,
+        "word": "两个14岁的上海女学生的采访",
+        "onboard_time": 1706496027,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 746138,
+        "num": 746138,
+        "word": "我国女性HPV感染率呈双峰分布",
+        "onboard_time": 1706492367,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 720238,
+        "num": 720238,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 711786,
+        "num": 711786,
+        "word": "肉马尔",
+        "onboard_time": 1706499873,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527267,
+        "num": 527267,
+        "word": "6天班",
+        "onboard_time": 1706494467,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452427,
+        "num": 452427,
+        "word": "网友称陈牧驰扔了粉丝送的礼物",
+        "onboard_time": 1706498130,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416016,
+        "num": 416016,
+        "word": "霉霉与男友球场接吻",
+        "onboard_time": 1706503414,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391344,
+        "num": 391344,
+        "word": "流感发病的48小时是自救黄金时间",
+        "onboard_time": 1706503293,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368213,
+        "num": 368213,
+        "word": "NewJeans宿舍条件",
+        "onboard_time": 1706502391,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352042,
+        "num": 352042,
+        "word": "花少5豆瓣评分上涨至8.9",
+        "onboard_time": 1706504789,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330306,
+        "num": 330306,
+        "word": "KPOP纯元",
+        "onboard_time": 1706502333,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326540,
+        "num": 326540,
+        "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+        "onboard_time": 1706487508,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322068,
+        "num": 322068,
+        "word": "孙红雷回应黄渤张艺兴不带自己玩",
+        "onboard_time": 1706498429,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263959,
+        "num": 309028,
+        "word": "求解农村大龄青年婚配难题",
+        "onboard_time": 1706503830,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307902,
+        "num": 307902,
+        "word": "原神舞狮少年",
+        "onboard_time": 1706503055,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259646,
+        "num": 259646,
+        "word": "关晓彤王安宇双人剧照",
+        "onboard_time": 1706497707,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294098,
+        "num": 257957,
+        "word": "赵丽颖红妆写真",
+        "onboard_time": 1706503592,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245789,
+        "num": 245789,
+        "word": "内蒙古一动物园通报猴群与猫共处",
+        "onboard_time": 1706504072,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228403,
+        "num": 228403,
+        "word": "9部电影官宣2024春节档",
+        "onboard_time": 1706495066,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222063,
+        "num": 222063,
+        "word": "唯一的姐丁泽仁",
+        "onboard_time": 1706485344,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212085,
+        "num": 212085,
+        "word": "王一博随地打网球",
+        "onboard_time": 1706501970,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208638,
+        "num": 208638,
+        "word": "优酷赠送荷兰大唐狄公案播出权",
+        "onboard_time": 1706505152,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199748,
+        "num": 199748,
+        "word": "夫妻分居型春节",
+        "onboard_time": 1706496270,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182824,
+        "num": 182824,
+        "word": "准女婿上门送年礼带了几十箱礼物",
+        "onboard_time": 1706504733,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182396,
+        "num": 182396,
+        "word": "得州与美政府武装对峙",
+        "onboard_time": 1706492247,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169491,
+        "num": 169491,
+        "word": "长大了看小孩结婚",
+        "onboard_time": 1706495188,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164971,
+        "num": 164971,
+        "word": "当城里的狗狗回了村",
+        "onboard_time": 1706499808,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157558,
+        "num": 157558,
+        "word": "陈戌源",
+        "onboard_time": 1706502753,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149002,
+        "num": 149002,
+        "word": "如果一个人能协调好全家旅游且都满意",
+        "onboard_time": 1706501431,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144928,
+        "num": 144928,
+        "word": "恋与深空辟谣秦彻",
+        "onboard_time": 1706502091,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138314,
+        "num": 138314,
+        "word": "独生子女婚后该如何过年",
+        "onboard_time": 1706505033,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154091,
+        "num": 136526,
+        "word": "24年间鸿星尔克经历过四次生死存亡",
+        "onboard_time": 1706501793,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132782,
+        "num": 132782,
+        "word": "范丞丞背后抱卢昱晓路透",
+        "onboard_time": 1706491587,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132685,
+        "num": 132685,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128936,
+        "num": 128936,
+        "word": "恋与深空预告呢",
+        "onboard_time": 1706502575,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128174,
+        "num": 128174,
+        "word": "得州副州长回应内战传言",
+        "onboard_time": 1706498607,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127419,
+        "num": 127419,
+        "word": "蒋翼被偷亲都是庄远的错",
+        "onboard_time": 1706503772,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121027,
+        "num": 121027,
+        "word": "王源重庆工作室申请注销",
+        "onboard_time": 1706497288,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117244,
+        "num": 117244,
+        "word": "多名中国留学生入境美国遭盘查遣返",
+        "onboard_time": 1706495970,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114338,
+        "num": 114338,
+        "word": "大生意人 陈晓朱亚文",
+        "onboard_time": 1706501250,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113389,
+        "num": 113389,
+        "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
+        "onboard_time": 1706485766,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112598,
+        "num": 112598,
+        "word": "世界之外流水超原神",
+        "onboard_time": 1706500172,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111731,
+        "num": 111731,
+        "word": "会说话的肘子 下本书主角按照王鹤棣写",
+        "onboard_time": 1706500531,
+        "rank": 48,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 111545,
+        "num": 111545,
+        "word": "IU金泰亨CP感",
+        "onboard_time": 1706501553,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建优势互补高质量发展的区域经济布局#"
+    }
+  }
+}
