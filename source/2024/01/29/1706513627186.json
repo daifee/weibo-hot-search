@@ -1,0 +1,410 @@
+{
+  "runTime": 1706513627186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215735,
+        "num": 1215735,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983589,
+        "num": 983589,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9531,
+        "num": 848435,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788903,
+        "num": 788903,
+        "word": "订婚强奸案男子起诉女方要求结婚",
+        "onboard_time": 1706512588,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557725,
+        "num": 557725,
+        "word": "胡锡进称国家动真格想把A股搞起来",
+        "onboard_time": 1706511087,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 546847,
+        "num": 546847,
+        "word": "吴昕41岁状态",
+        "onboard_time": 1706507670,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510329,
+        "num": 510329,
+        "word": "嬛嬛 朕出专辑啦",
+        "onboard_time": 1706499571,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502905,
+        "num": 502905,
+        "word": "股市",
+        "onboard_time": 1706510668,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 476104,
+        "num": 476104,
+        "word": "肖战迪丽热巴入选中国十大新青年",
+        "onboard_time": 1706507071,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438753,
+        "num": 438753,
+        "word": "我国女性HPV感染率呈双峰分布",
+        "onboard_time": 1706492367,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 802809,
+        "num": 438427,
+        "word": "杨威一家为双胞胎女儿庆生",
+        "onboard_time": 1706511751,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437961,
+        "num": 437961,
+        "word": "男子举报纪委干部40分钟后就被抓",
+        "onboard_time": 1706499148,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423701,
+        "num": 423701,
+        "word": "恋与制作人 求婚",
+        "onboard_time": 1706500893,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 384162,
+        "num": 384162,
+        "word": "刘烨签名 有点多了",
+        "onboard_time": 1706511087,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371528,
+        "num": 371528,
+        "word": "胡先煦说自己没对象",
+        "onboard_time": 1706511688,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288696,
+        "num": 288696,
+        "word": "远嫁女子过年想回娘家遭公公扇耳光",
+        "onboard_time": 1706506889,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284804,
+        "num": 284804,
+        "word": "昆明动物园7斤公猫体检全程无反抗",
+        "onboard_time": 1706512888,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267812,
+        "num": 267812,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232182,
+        "num": 232182,
+        "word": "准女婿上门送年礼带了几十箱礼物",
+        "onboard_time": 1706504733,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221014,
+        "num": 221014,
+        "word": "陈漫拍的李冰冰",
+        "onboard_time": 1706508927,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 435147,
+        "num": 219840,
+        "word": "因为朋友圈新工作的offer没了",
+        "onboard_time": 1706510851,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214970,
+        "num": 214970,
+        "word": "产房里的男人百态",
+        "onboard_time": 1706510068,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212007,
+        "num": 212007,
+        "word": "清华大学教授称人口政策应该回归自由",
+        "onboard_time": 1706512767,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197195,
+        "num": 197195,
+        "word": "正式被确诊为柿子",
+        "onboard_time": 1706508328,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174566,
+        "num": 174566,
+        "word": "周星驰要拍短剧了",
+        "onboard_time": 1706509349,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170378,
+        "num": 170378,
+        "word": "玻璃纤维",
+        "onboard_time": 1706510007,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169358,
+        "num": 169358,
+        "word": "90后宝妈克服恐惧当寿衣模特带货",
+        "onboard_time": 1706505928,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169312,
+        "num": 169312,
+        "word": "杨晓培至暗时刻 且试天下千古玦尘",
+        "onboard_time": 1706509769,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157315,
+        "num": 157315,
+        "word": "呼和浩特一餐馆发生火灾致4人遇难",
+        "onboard_time": 1706513490,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143244,
+        "num": 143244,
+        "word": "网友称陈牧驰扔了粉丝送的礼物",
+        "onboard_time": 1706498130,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183969,
+        "num": 143048,
+        "word": "当普通人穿上尝试网红穿搭",
+        "onboard_time": 1706511868,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142330,
+        "num": 142330,
+        "word": "肉马尔",
+        "onboard_time": 1706499873,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132236,
+        "num": 132236,
+        "word": "gidle新歌上线",
+        "onboard_time": 1706506111,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131732,
+        "num": 131732,
+        "word": "杨晓培 梦海好事成双是爆剧",
+        "onboard_time": 1706511150,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128857,
+        "num": 128857,
+        "word": "鼠鼠头像",
+        "onboard_time": 1706512588,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117293,
+        "num": 117293,
+        "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+        "onboard_time": 1706487508,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117244,
+        "num": 117244,
+        "word": "关晓彤王安宇双人剧照",
+        "onboard_time": 1706497707,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116361,
+        "num": 116361,
+        "word": "创业板指创四年新低",
+        "onboard_time": 1706513071,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114876,
+        "num": 114876,
+        "word": "两个14岁的上海女学生的采访",
+        "onboard_time": 1706496027,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113822,
+        "num": 113822,
+        "word": "NewJeans宿舍条件",
+        "onboard_time": 1706502391,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92169,
+        "num": 110311,
+        "word": "这支女子电力检修队好飒",
+        "onboard_time": 1706512409,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110079,
+        "num": 110079,
+        "word": "我的东西为什么要你喜欢",
+        "onboard_time": 1706510368,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104312,
+        "num": 104312,
+        "word": "猫总能以令人瞩目的方式离开",
+        "onboard_time": 1706510068,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101390,
+        "num": 101390,
+        "word": "卡塔尔亚洲杯",
+        "onboard_time": 1706513312,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101292,
+        "num": 101292,
+        "word": "普通青年vs超级巨星的一天",
+        "onboard_time": 1706511629,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100795,
+        "num": 100795,
+        "word": "霉霉与男友球场接吻",
+        "onboard_time": 1706503414,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99596,
+        "num": 99596,
+        "word": "花少5豆瓣评分上涨至8.9",
+        "onboard_time": 1706504789,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99503,
+        "num": 99503,
+        "word": "流感发病的48小时是自救黄金时间",
+        "onboard_time": 1706503293,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95824,
+        "num": 95824,
+        "word": "KPOP纯元",
+        "onboard_time": 1706502333,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94462,
+        "num": 94462,
+        "word": "白鹿引导粉丝好真诚",
+        "onboard_time": 1706508991,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神弥足珍贵#"
+    }
+  }
+}

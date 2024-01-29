@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706512554175,
+  "endTime": 1706513627186,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -395,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 802809,
+      "num": 438427,
+      "word": "杨威一家为双胞胎女儿庆生",
+      "onboard_time": 1706511751,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 798126,
       "num": 798126,
       "word": "吴昕41岁状态",
       "onboard_time": 1706507670,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788903,
+      "num": 788903,
+      "word": "订婚强奸案男子起诉女方要求结婚",
+      "onboard_time": 1706512588,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739223,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557725,
+      "num": 557725,
+      "word": "胡锡进称国家动真格想把A股搞起来",
+      "onboard_time": 1706511087,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 555921,
       "num": 555921,
       "word": "辛纳首夺大满贯冠军",
@@ -729,14 +753,6 @@
       "onboard_time": 1706444549,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530053,
-      "num": 530053,
-      "word": "胡锡进称国家动真格想把A股搞起来",
-      "onboard_time": 1706511087,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 521934,
@@ -995,20 +1011,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 435147,
+      "num": 236001,
+      "word": "因为朋友圈新工作的offer没了",
+      "onboard_time": 1706510851,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434435,
       "num": 434435,
       "word": "血染新娘高定礼服",
       "onboard_time": 1706496389,
       "rank": 13,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 433099,
-      "num": 236001,
-      "word": "因为朋友圈新工作的offer没了",
-      "onboard_time": 1706510851,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 422067,
@@ -1107,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388371,
-      "num": 388371,
-      "word": "杨威一家为双胞胎女儿庆生",
-      "onboard_time": 1706511751,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 387227,
       "num": 387227,
       "word": "幻兽帕鲁 抄袭",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1706505928,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384162,
+      "num": 384162,
+      "word": "刘烨签名 有点多了",
+      "onboard_time": 1706511087,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 383941,
@@ -1211,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371528,
+      "num": 371528,
+      "word": "胡先煦说自己没对象",
+      "onboard_time": 1706511688,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368213,
       "num": 368213,
       "word": "NewJeans宿舍条件",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1706405968,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345998,
-      "num": 345998,
-      "word": "刘烨签名 有点多了",
-      "onboard_time": 1706511087,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 342752,
@@ -1555,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284804,
+      "num": 284804,
+      "word": "昆明动物园7斤公猫体检全程无反抗",
+      "onboard_time": 1706512888,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284613,
       "num": 284613,
       "word": "陈漫拍的李冰冰",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1706407587,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269984,
-      "num": 269984,
-      "word": "胡先煦说自己没对象",
-      "onboard_time": 1706511688,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 269422,
@@ -2035,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212007,
+      "num": 212007,
+      "word": "清华大学教授称人口政策应该回归自由",
+      "onboard_time": 1706512767,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211591,
       "num": 211591,
       "word": "辛芷蕾代言雅诗兰黛彩妆",
@@ -2371,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183969,
+      "num": 143048,
+      "word": "当普通人穿上尝试网红穿搭",
+      "onboard_time": 1706511868,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183072,
       "num": 183072,
       "word": "湖人勇士双加时",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1706493927,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 170378,
+      "num": 170378,
+      "word": "玻璃纤维",
+      "onboard_time": 1706510007,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 170294,
@@ -2651,14 +2691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160485,
-      "num": 160485,
-      "word": "玻璃纤维",
-      "onboard_time": 1706510007,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 160200,
       "num": 160200,
       "word": "暖暖唱评弹",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1706502753,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157315,
+      "num": 157315,
+      "word": "呼和浩特一餐馆发生火灾致4人遇难",
+      "onboard_time": 1706513490,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157188,
@@ -2825,14 +2865,6 @@
       "onboard_time": 1706366313,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 149396,
-      "num": 140999,
-      "word": "当普通人穿上尝试网红穿搭",
-      "onboard_time": 1706511868,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 149185,
@@ -3211,6 +3243,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 128857,
+      "num": 128857,
+      "word": "鼠鼠头像",
+      "onboard_time": 1706512588,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128784,
       "num": 128784,
       "word": "MTG官宣久诚自由人",
@@ -3513,6 +3553,14 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116361,
+      "num": 116361,
+      "word": "创业板指创四年新低",
+      "onboard_time": 1706513071,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 116120,
@@ -3939,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101390,
+      "num": 101390,
+      "word": "卡塔尔亚洲杯",
+      "onboard_time": 1706513312,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101366,
       "num": 101366,
       "word": "吴尊 10年前的娜姐10年后的你",
@@ -4163,6 +4219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92169,
+      "num": 127352,
+      "word": "这支女子电力检修队好飒",
+      "onboard_time": 1706512409,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92096,
       "num": 92096,
       "word": "春节宠物寄养价格大涨50%",
@@ -4177,14 +4241,6 @@
       "onboard_time": 1706421446,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91403,
-      "num": 127352,
-      "word": "这支女子电力检修队好飒",
-      "onboard_time": 1706512409,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90965,
