@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706541417014,
+  "endTime": 1706542451002,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1195261,
+      "num": 1195261,
+      "word": "为什么睡得越多反而越累",
+      "onboard_time": 1706538573,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1182575,
       "num": 1182575,
       "word": "研究表明大学生平均智商逐年下降",
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 853213,
+      "num": 853213,
+      "word": "卡米拉禁赛四年",
+      "onboard_time": 1706540194,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 851870,
       "num": 446168,
       "word": "京东被曝多次开会讨论与董宇辉合作",
@@ -537,14 +553,6 @@
       "onboard_time": 1706454993,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 806182,
-      "num": 806182,
-      "word": "为什么睡得越多反而越累",
-      "onboard_time": 1706538573,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 802809,
@@ -867,14 +875,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 596778,
-      "num": 596778,
-      "word": "卡米拉禁赛四年",
-      "onboard_time": 1706540194,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 592520,
       "num": 592520,
       "word": "马思纯三天瘦了六斤",
@@ -1184,6 +1184,14 @@
       "word": "买701号房交房变704业主怒嫌晦气",
       "onboard_time": 1706378360,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475477,
+      "num": 475477,
+      "word": "官方辟谣上海松江发生爆炸",
+      "onboard_time": 1706541392,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1595,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372768,
+      "num": 372768,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1706539831,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372172,
       "num": 372172,
       "word": "梅德韦杰夫跑不动了",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1706502333,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330077,
-      "num": 330077,
-      "word": "请和我的老公结婚",
-      "onboard_time": 1706539831,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 328881,
@@ -2251,20 +2259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258702,
+      "num": 258702,
+      "word": "女子遭男友骗光6套房还被小三",
+      "onboard_time": 1706539532,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255239,
       "num": 255239,
       "word": "产房里的男人百态",
       "onboard_time": 1706510068,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255090,
-      "num": 255090,
-      "word": "女子遭男友骗光6套房还被小三",
-      "onboard_time": 1706539532,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253843,
@@ -2393,6 +2401,22 @@
       "onboard_time": 1706530534,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236507,
+      "num": 236507,
+      "word": "00后女大学生保研后开珠宝店月入过万",
+      "onboard_time": 1706540854,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235686,
+      "num": 235686,
+      "word": "肖战红西装大背头",
+      "onboard_time": 1706541392,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235166,
@@ -2659,14 +2683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212616,
-      "num": 212616,
-      "word": "肖战红西装大背头",
-      "onboard_time": 1706541392,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 212547,
       "num": 212547,
       "word": "优酷赠送荷兰大唐狄公案播出权",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1706530233,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204877,
+      "num": 204877,
+      "word": "K宝冬奥会金牌被裁无效",
+      "onboard_time": 1706542052,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 204829,
@@ -3177,6 +3201,14 @@
       "onboard_time": 1706418928,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182586,
+      "num": 182586,
+      "word": "美邦创始人回应衣服丑价格贵",
+      "onboard_time": 1706541153,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181770,
@@ -3787,14 +3819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147650,
-      "num": 147650,
-      "word": "00后女大学生保研后开珠宝店月入过万",
-      "onboard_time": 1706540854,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147555,
       "num": 147555,
       "word": "喝酒不暖身越喝会越冷",
@@ -3889,6 +3913,14 @@
       "onboard_time": 1706523150,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142708,
+      "num": 142708,
+      "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
+      "onboard_time": 1706542052,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142380,
@@ -4097,6 +4129,14 @@
       "onboard_time": 1706403987,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134289,
+      "num": 177786,
+      "word": "小动协讲述2只猫身体状况细节",
+      "onboard_time": 1706541632,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133844,
@@ -4323,14 +4363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127612,
-      "num": 127612,
-      "word": "美邦创始人回应衣服丑价格贵",
-      "onboard_time": 1706541153,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127594,
       "num": 127594,
       "word": "小巷人家两对cp",
@@ -4419,14 +4451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124778,
-      "num": 124778,
-      "word": "官方辟谣上海松江发生爆炸",
-      "onboard_time": 1706541392,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
@@ -4451,6 +4475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124397,
+      "num": 124397,
+      "word": "创造营亚洲首支预告",
+      "onboard_time": 1706541815,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124187,
       "num": 608568,
       "word": "天官赐福红包",
@@ -4473,6 +4505,14 @@
       "onboard_time": 1706419287,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123135,
+      "num": 123135,
+      "word": "董宇辉新号准备校招",
+      "onboard_time": 1706541514,
+      "rank": 43,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 123020,
@@ -5033,6 +5073,14 @@
       "onboard_time": 1706363373,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108513,
+      "num": 108513,
+      "word": "广东人过年最怕的环节来了",
+      "onboard_time": 1706542409,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 108434,
