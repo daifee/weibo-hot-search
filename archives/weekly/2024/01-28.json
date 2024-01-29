@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706490724566,
+  "endTime": 1706491884625,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -315,6 +315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 730785,
+      "num": 730785,
+      "word": "长辈不在 过年的传统也慢慢消失了",
+      "onboard_time": 1706486487,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 729887,
       "num": 729887,
       "word": "董明珠宣布将多发2亿年终奖",
@@ -353,14 +361,6 @@
       "onboard_time": 1706355869,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 695361,
-      "num": 695361,
-      "word": "长辈不在 过年的传统也慢慢消失了",
-      "onboard_time": 1706486487,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 674216,
@@ -409,6 +409,14 @@
       "onboard_time": 1706430506,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 632528,
+      "num": 632528,
+      "word": "玉米几",
+      "onboard_time": 1706489070,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 622158,
@@ -787,20 +795,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 428266,
-      "num": 428266,
-      "word": "玉米几",
-      "onboard_time": 1706489070,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 422067,
       "num": 422067,
       "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
       "onboard_time": 1706452113,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421494,
+      "num": 421494,
+      "word": "美议员呼吁红蓝州进行国家离婚",
+      "onboard_time": 1706489189,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 419077,
@@ -995,14 +1003,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 318252,
-      "num": 318252,
-      "word": "美议员呼吁红蓝州进行国家离婚",
-      "onboard_time": 1706489189,
-      "rank": 15,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 317113,
       "num": 317113,
       "word": "中式证件照",
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281405,
+      "num": 281405,
+      "word": "外卖中的微塑料两小时就可进入大脑",
+      "onboard_time": 1706487988,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 279414,
       "num": 279414,
       "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259210,
+      "num": 259210,
+      "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+      "onboard_time": 1706490508,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253843,
       "num": 253843,
       "word": "央视曝回流医保药洗白过程",
@@ -1323,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235166,
+      "num": 227412,
+      "word": "上了几年班终于不年轻了",
+      "onboard_time": 1706487929,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234419,
       "num": 234419,
       "word": "狗狗 考上编也不能断情绝欲",
@@ -1387,20 +1411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227412,
-      "num": 227412,
-      "word": "上了几年班终于不年轻了",
-      "onboard_time": 1706487929,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226587,
-      "num": 226587,
-      "word": "外卖中的微塑料两小时就可进入大脑",
-      "onboard_time": 1706487988,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 227255,
+      "num": 162394,
+      "word": "坚持十几年却做了一件没用的事",
+      "onboard_time": 1706490987,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 224713,
@@ -1819,6 +1835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173170,
+      "num": 173170,
+      "word": "消除emo的电话4008000088",
+      "onboard_time": 1706490809,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173018,
       "num": 173018,
       "word": "驾校教练本科竟然是学法学的",
@@ -1913,6 +1937,22 @@
       "onboard_time": 1706421087,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162478,
+      "num": 162478,
+      "word": "范丞丞背后抱卢昱晓路透",
+      "onboard_time": 1706491587,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162270,
+      "num": 162270,
+      "word": "西安一肉铺门口树上挂千斤腊肠",
+      "onboard_time": 1706490209,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161755,
@@ -2435,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127228,
-      "num": 127228,
-      "word": "西安一肉铺门口树上挂千斤腊肠",
-      "onboard_time": 1706490209,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126808,
       "num": 126808,
       "word": "低谷医生",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1706421688,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124751,
+      "num": 124751,
+      "word": "seventeen 日产体育场",
+      "onboard_time": 1706487508,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 124588,
@@ -2523,20 +2563,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 121761,
+      "num": 121761,
+      "word": "周一 使命感",
+      "onboard_time": 1706491350,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121742,
       "num": 121742,
       "word": "一念关山上星浙江卫视",
       "onboard_time": 1706416229,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121558,
-      "num": 121558,
-      "word": "seventeen 日产体育场",
-      "onboard_time": 1706487508,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 121219,
@@ -2779,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109710,
+      "num": 109710,
+      "word": "自称桐岛聪男子在医院死亡",
+      "onboard_time": 1706491647,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109475,
       "num": 109475,
       "word": "收到了童年的最后一个彩蛋",
@@ -2801,14 +2849,6 @@
       "onboard_time": 1706363373,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 108676,
-      "num": 108676,
-      "word": "86岁丈夫77岁妻子跑了100多场马拉松",
-      "onboard_time": 1706490508,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108434,
@@ -3619,7 +3659,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11700,
+      "raw_hot": 12961,
       "num": 1379608,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
