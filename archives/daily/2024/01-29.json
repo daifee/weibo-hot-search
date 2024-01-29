@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706534379063,
+  "endTime": 1706535239917,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -75,8 +75,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1550749,
-      "num": 1550749,
+      "raw_hot": 1554405,
+      "num": 1554405,
       "word": "易烊千玺新闻联播镜头",
       "onboard_time": 1706531914,
       "rank": 12,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716790,
+      "num": 716790,
+      "word": "香港偶遇宋轶文咏珊逛街",
+      "onboard_time": 1706531432,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 698251,
       "num": 698251,
       "word": "韩庚曾曝被SM公司区别对待",
@@ -353,14 +361,6 @@
       "onboard_time": 1706520510,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 686038,
-      "num": 686038,
-      "word": "香港偶遇宋轶文咏珊逛街",
-      "onboard_time": 1706531432,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 674461,
@@ -547,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489570,
+      "num": 363082,
+      "word": "虞书欣痛失真名",
+      "onboard_time": 1706530654,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487759,
       "num": 487759,
       "word": "花花和它一米八的长腿妹妹",
@@ -723,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396438,
-      "num": 351682,
-      "word": "虞书欣痛失真名",
-      "onboard_time": 1706530654,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 394658,
       "num": 394658,
       "word": "日本连环爆炸案凶手患癌自首",
@@ -841,6 +841,14 @@
       "onboard_time": 1706527412,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359019,
+      "num": 359019,
+      "word": "美国流浪猫每年杀死几十亿哺乳动物",
+      "onboard_time": 1706533171,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358580,
@@ -961,6 +969,14 @@
       "onboard_time": 1706452591,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311989,
+      "num": 311989,
+      "word": "多地限制教师非正常流动",
+      "onboard_time": 1706533530,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310168,
@@ -1139,6 +1155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238744,
+      "num": 232112,
+      "word": "妈妈说我不结婚让她没有面子",
+      "onboard_time": 1706533894,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238631,
       "num": 238631,
       "word": "库迪咖啡卖酒",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1706490987,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226874,
-      "num": 226874,
-      "word": "美国流浪猫每年杀死几十亿哺乳动物",
-      "onboard_time": 1706533171,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221850,
@@ -1417,6 +1433,14 @@
       "onboard_time": 1706509050,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 201579,
+      "num": 201579,
+      "word": "赵露思毛绒手机壳",
+      "onboard_time": 1706534674,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 199850,
@@ -1859,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145392,
+      "num": 145392,
+      "word": "相亲笑话",
+      "onboard_time": 1706533651,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145025,
       "num": 145025,
       "word": "五条悟 玉桂狗",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1706523150,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142542,
-      "num": 142542,
-      "word": "多地限制教师非正常流动",
-      "onboard_time": 1706533530,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142245,
@@ -1931,6 +1955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 136681,
+      "num": 136681,
+      "word": "浙江父亲想用AI复活儿子",
+      "onboard_time": 1706534432,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136328,
       "num": 136328,
       "word": "在暴雪时分之我是真有一个朋友",
@@ -1961,14 +1993,6 @@
       "onboard_time": 1706526093,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133208,
-      "num": 133208,
-      "word": "相亲笑话",
-      "onboard_time": 1706533651,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 132987,
@@ -2035,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128359,
-      "num": 128359,
-      "word": "妈妈说我不结婚让她没有面子",
-      "onboard_time": 1706533894,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128098,
       "num": 128098,
       "word": "格林两次犯规漏判",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1706503772,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127262,
+      "num": 127262,
+      "word": "毛雪汪也在邀请秦岚上节目",
+      "onboard_time": 1706534432,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 127026,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1706516668,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120686,
+      "num": 120686,
+      "word": "耀乐回应炎亚纶二次出庭",
+      "onboard_time": 1706534134,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 120581,
@@ -2299,12 +2331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 114666,
-      "num": 114666,
-      "word": "耀乐回应炎亚纶二次出庭",
-      "onboard_time": 1706534134,
+      "raw_hot": 113794,
+      "num": 113794,
+      "word": "伊拉克vs约旦",
+      "onboard_time": 1706535152,
       "rank": 43,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 113587,
@@ -2521,6 +2553,14 @@
       "onboard_time": 1706498968,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97251,
+      "num": 97251,
+      "word": "万达电影新任董事长陈祉希",
+      "onboard_time": 1706535212,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 96374,

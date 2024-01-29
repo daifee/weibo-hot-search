@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706534379063,
+  "endTime": 1706535239917,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -115,8 +115,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1550749,
-      "num": 1550749,
+      "raw_hot": 1554405,
+      "num": 1554405,
       "word": "易烊千玺新闻联播镜头",
       "onboard_time": 1706531914,
       "rank": 12,
@@ -611,6 +611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 716790,
+      "num": 716790,
+      "word": "香港偶遇宋轶文咏珊逛街",
+      "onboard_time": 1706531432,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709313,
       "num": 539197,
       "word": "包上恩",
@@ -657,14 +665,6 @@
       "onboard_time": 1706520510,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 686038,
-      "num": 686038,
-      "word": "香港偶遇宋轶文咏珊逛街",
-      "onboard_time": 1706531432,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 674461,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489570,
+      "num": 363082,
+      "word": "虞书欣痛失真名",
+      "onboard_time": 1706530654,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489147,
       "num": 489147,
       "word": "杨幂皮衣半扎发",
@@ -1387,14 +1395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 396438,
-      "num": 351682,
-      "word": "虞书欣痛失真名",
-      "onboard_time": 1706530654,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 396131,
       "num": 396131,
       "word": "周也通行证照片是粉丝P的",
@@ -1593,6 +1593,14 @@
       "onboard_time": 1706527412,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359019,
+      "num": 359019,
+      "word": "美国流浪猫每年杀死几十亿哺乳动物",
+      "onboard_time": 1706533171,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358580,
@@ -1809,6 +1817,14 @@
       "onboard_time": 1706419947,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311989,
+      "num": 311989,
+      "word": "多地限制教师非正常流动",
+      "onboard_time": 1706533530,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310168,
@@ -2203,6 +2219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238744,
+      "num": 232112,
+      "word": "妈妈说我不结婚让她没有面子",
+      "onboard_time": 1706533894,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238631,
       "num": 238631,
       "word": "库迪咖啡卖酒",
@@ -2329,14 +2353,6 @@
       "onboard_time": 1706490987,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226874,
-      "num": 226874,
-      "word": "美国流浪猫每年杀死几十亿哺乳动物",
-      "onboard_time": 1706533171,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224713,
@@ -2745,6 +2761,14 @@
       "onboard_time": 1706418630,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201579,
+      "num": 201579,
+      "word": "赵露思毛绒手机壳",
+      "onboard_time": 1706534674,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 201230,
@@ -3619,6 +3643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145392,
+      "num": 145392,
+      "word": "相亲笑话",
+      "onboard_time": 1706533651,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "NBA春晚真好看",
@@ -3649,14 +3681,6 @@
       "onboard_time": 1706523150,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142542,
-      "num": 142542,
-      "word": "多地限制教师非正常流动",
-      "onboard_time": 1706533530,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142358,
@@ -3761,6 +3785,14 @@
       "onboard_time": 1706411728,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136681,
+      "num": 136681,
+      "word": "浙江父亲想用AI复活儿子",
+      "onboard_time": 1706534432,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136375,
@@ -3873,14 +3905,6 @@
       "onboard_time": 1706451513,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133208,
-      "num": 133208,
-      "word": "相亲笑话",
-      "onboard_time": 1706533651,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 133151,
@@ -4059,14 +4083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128359,
-      "num": 128359,
-      "word": "妈妈说我不结婚让她没有面子",
-      "onboard_time": 1706533894,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128098,
       "num": 128098,
       "word": "格林两次犯规漏判",
@@ -4089,6 +4105,14 @@
       "onboard_time": 1706503772,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127262,
+      "num": 127262,
+      "word": "毛雪汪也在邀请秦岚上节目",
+      "onboard_time": 1706534432,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 127250,
@@ -4273,6 +4297,14 @@
       "onboard_time": 1706410227,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120686,
+      "num": 120686,
+      "word": "耀乐回应炎亚纶二次出庭",
+      "onboard_time": 1706534134,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 120581,
@@ -4491,14 +4523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114666,
-      "num": 114666,
-      "word": "耀乐回应炎亚纶二次出庭",
-      "onboard_time": 1706534134,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114301,
       "num": 114301,
       "word": "新鲜感三个月定律",
@@ -4521,6 +4545,14 @@
       "onboard_time": 1706401945,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113794,
+      "num": 113794,
+      "word": "伊拉克vs约旦",
+      "onboard_time": 1706535152,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 113587,
@@ -5017,6 +5049,14 @@
       "onboard_time": 1706441611,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97251,
+      "num": 97251,
+      "word": "万达电影新任董事长陈祉希",
+      "onboard_time": 1706535212,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 96643,

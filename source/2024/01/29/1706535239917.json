@@ -1,0 +1,410 @@
+{
+  "runTime": 1706535239917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797852,
+        "num": 1797852,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1554405,
+        "num": 1554405,
+        "word": "易烊千玺新闻联播镜头",
+        "onboard_time": 1706531914,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7970,
+        "num": 1307570,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195084,
+        "num": 1195084,
+        "word": "恶心穿搭",
+        "onboard_time": 1706530050,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 930775,
+        "num": 930775,
+        "word": "花少节目组超重费花了20多万",
+        "onboard_time": 1706529930,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716790,
+        "num": 716790,
+        "word": "香港偶遇宋轶文咏珊逛街",
+        "onboard_time": 1706531432,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681668,
+        "num": 681668,
+        "word": "韩庚曾曝被SM公司区别对待",
+        "onboard_time": 1706530291,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551556,
+        "num": 551556,
+        "word": "网红宝妈因感冒五天未就医去世",
+        "onboard_time": 1706521528,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385148,
+        "num": 385148,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371914,
+        "num": 371914,
+        "word": "普京正式登记为下届总统候选人",
+        "onboard_time": 1706526270,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1870416,
+        "num": 371369,
+        "word": "上海松江",
+        "onboard_time": 1706529090,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612872,
+        "num": 367551,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489570,
+        "num": 363082,
+        "word": "虞书欣痛失真名",
+        "onboard_time": 1706530654,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424729,
+        "num": 360313,
+        "word": "于正发卢昱晓原始帧",
+        "onboard_time": 1706529569,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359019,
+        "num": 359019,
+        "word": "美国流浪猫每年杀死几十亿哺乳动物",
+        "onboard_time": 1706533171,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311989,
+        "num": 311989,
+        "word": "多地限制教师非正常流动",
+        "onboard_time": 1706533530,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275990,
+        "num": 275990,
+        "word": "蓝二你偷偷藏不住了",
+        "onboard_time": 1706529270,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272324,
+        "num": 272324,
+        "word": "古装的周深",
+        "onboard_time": 1706532455,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262930,
+        "num": 262930,
+        "word": "吴京梦女",
+        "onboard_time": 1706522969,
+        "rank": 18,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 234222,
+        "num": 234222,
+        "word": "恋与制作人你疯啦",
+        "onboard_time": 1706522790,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238744,
+        "num": 232112,
+        "word": "妈妈说我不结婚让她没有面子",
+        "onboard_time": 1706533894,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222540,
+        "num": 222540,
+        "word": "宋祖儿张新成新剧过审",
+        "onboard_time": 1706526870,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "秋瓷炫晒近照",
+        "onboard_time": 1706533113,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201579,
+        "num": 201579,
+        "word": "赵露思毛绒手机壳",
+        "onboard_time": 1706534674,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196540,
+        "num": 196540,
+        "word": "马化腾回应64亿元买地",
+        "onboard_time": 1706527891,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197417,
+        "num": 192384,
+        "word": "金莎cos18岁的蓝菲琳",
+        "onboard_time": 1706530233,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175900,
+        "num": 175900,
+        "word": "昆明动物园2只猫最大的问题是心理",
+        "onboard_time": 1706525852,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169299,
+        "num": 169299,
+        "word": "她把小手伸出来就是让你摸的",
+        "onboard_time": 1706529090,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156043,
+        "num": 156043,
+        "word": "芦原妃名子去世",
+        "onboard_time": 1706522912,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152817,
+        "num": 152817,
+        "word": "周星驰赠送周杰伦签名卡",
+        "onboard_time": 1706532693,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152311,
+        "num": 152311,
+        "word": "免签不是免费",
+        "onboard_time": 1706519069,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150335,
+        "num": 150335,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145648,
+        "num": 145648,
+        "word": "六公主春节首播封神第一部",
+        "onboard_time": 1706528370,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145392,
+        "num": 145392,
+        "word": "相亲笑话",
+        "onboard_time": 1706533651,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145132,
+        "num": 145132,
+        "word": "要久久爱开虐",
+        "onboard_time": 1706531252,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138293,
+        "num": 138293,
+        "word": "恋与制作人",
+        "onboard_time": 1706527412,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137136,
+        "num": 137136,
+        "word": "花少冰岛帽子店口碑翻车",
+        "onboard_time": 1706530534,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136681,
+        "num": 136681,
+        "word": "浙江父亲想用AI复活儿子",
+        "onboard_time": 1706534432,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "papi酱 身兼数职的伴娘",
+        "onboard_time": 1706524111,
+        "rank": 38,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 128147,
+        "num": 128147,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127262,
+        "num": 127262,
+        "word": "毛雪汪也在邀请秦岚上节目",
+        "onboard_time": 1706534432,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125980,
+        "num": 125980,
+        "word": "用1整只羊包1000个蒙古肉包子",
+        "onboard_time": 1706532211,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120686,
+        "num": 120686,
+        "word": "耀乐回应炎亚纶二次出庭",
+        "onboard_time": 1706534134,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113794,
+        "num": 113794,
+        "word": "伊拉克vs约旦",
+        "onboard_time": 1706535152,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112763,
+        "num": 112763,
+        "word": "gidle空降",
+        "onboard_time": 1706523691,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109417,
+        "num": 109417,
+        "word": "麦当劳门店回应麦辣鸡翅裹粉",
+        "onboard_time": 1706525429,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108839,
+        "num": 108839,
+        "word": "年轻人真的不愿意去爱了吗",
+        "onboard_time": 1706526093,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103975,
+        "num": 103975,
+        "word": "宋雨琦 库伊拉魔女",
+        "onboard_time": 1706522309,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99608,
+        "num": 99608,
+        "word": "年前烫发真是一场豪赌",
+        "onboard_time": 1706526572,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 97251,
+        "num": 97251,
+        "word": "万达电影新任董事长陈祉希",
+        "onboard_time": 1706535212,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#突出问题导向深入调查研究#"
+    }
+  }
+}
