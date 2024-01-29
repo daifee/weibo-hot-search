@@ -1,0 +1,410 @@
+{
+  "runTime": 1706567639183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 205631,
+        "num": 205631,
+        "word": "为什么睡得越多反而越累",
+        "onboard_time": 1706538573,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125503,
+        "num": 125503,
+        "word": "花少节目组超重费花了20多万",
+        "onboard_time": 1706529930,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2019,
+        "num": 124435,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123498,
+        "num": 123498,
+        "word": "官方调查大学生扮锦衣卫迎客",
+        "onboard_time": 1706563818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111984,
+        "num": 111984,
+        "word": "浙江父亲想用AI复活儿子",
+        "onboard_time": 1706534432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104873,
+        "num": 104873,
+        "word": "美邦创始人回应衣服丑价格贵",
+        "onboard_time": 1706541153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103703,
+        "num": 103703,
+        "word": "多地限制教师非正常流动",
+        "onboard_time": 1706533530,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103402,
+        "num": 103402,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82513,
+        "num": 82513,
+        "word": "网红宝妈因感冒五天未就医去世",
+        "onboard_time": 1706521528,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71741,
+        "num": 71741,
+        "word": "韩庚曾曝被SM公司区别对待",
+        "onboard_time": 1706530291,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87329,
+        "num": 70324,
+        "word": "知情人回应网红宝妈因感冒去世",
+        "onboard_time": 1706562797,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82423,
+        "num": 70204,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67870,
+        "num": 67870,
+        "word": "00后女大学生保研后开珠宝店月入过万",
+        "onboard_time": 1706540854,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64278,
+        "num": 64278,
+        "word": "英国男子爬29楼跳伞伞没打开当场身亡",
+        "onboard_time": 1706537133,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63761,
+        "num": 63761,
+        "word": "香港偶遇宋轶文咏珊逛街",
+        "onboard_time": 1706531432,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60731,
+        "num": 60731,
+        "word": "张庭名下多家公司拟注销",
+        "onboard_time": 1706561355,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45858,
+        "num": 45858,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706539831,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45525,
+        "num": 45525,
+        "word": "美国流浪猫每年杀死几十亿哺乳动物",
+        "onboard_time": 1706533171,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42833,
+        "num": 42833,
+        "word": "恶心穿搭",
+        "onboard_time": 1706530050,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 40725,
+        "num": 42831,
+        "word": "易烊千玺新闻联播镜头",
+        "onboard_time": 1706531914,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65237,
+        "num": 42830,
+        "word": "6种症状提醒你该查血脂了",
+        "onboard_time": 1706539893,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42829,
+        "num": 42829,
+        "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
+        "onboard_time": 1706542052,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42289,
+        "num": 42289,
+        "word": "女子遭男友骗光6套房还被小三",
+        "onboard_time": 1706539532,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38923,
+        "num": 38923,
+        "word": "婆婆用儿媳盖头给将出世宝宝做包被",
+        "onboard_time": 1706535813,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38548,
+        "num": 38548,
+        "word": "女子机场手袋破洞获赠26寸行李箱",
+        "onboard_time": 1706542890,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37282,
+        "num": 37282,
+        "word": "她把小手伸出来就是让你摸的",
+        "onboard_time": 1706529090,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35382,
+        "num": 35382,
+        "word": "肖战红西装大背头",
+        "onboard_time": 1706541392,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34969,
+        "num": 34969,
+        "word": "K宝冬奥会金牌被裁无效",
+        "onboard_time": 1706542052,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30214,
+        "num": 30214,
+        "word": "卡米拉禁赛四年",
+        "onboard_time": 1706540194,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29771,
+        "num": 29771,
+        "word": "金莎cos18岁的蓝菲琳",
+        "onboard_time": 1706530233,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29155,
+        "num": 29155,
+        "word": "12306回应自助售票机成功率更高",
+        "onboard_time": 1706565976,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28622,
+        "num": 28622,
+        "word": "美国队递补获得一枚北京冬奥金牌",
+        "onboard_time": 1706542529,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28492,
+        "num": 28492,
+        "word": "官方辟谣上海松江发生爆炸",
+        "onboard_time": 1706541392,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27057,
+        "num": 27057,
+        "word": "2024最走狗屎运的星座",
+        "onboard_time": 1706538994,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26545,
+        "num": 26545,
+        "word": "秦岚辛芷蕾内娱张爱玲文学",
+        "onboard_time": 1706547383,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25788,
+        "num": 25788,
+        "word": "虞书欣痛失真名",
+        "onboard_time": 1706530654,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24657,
+        "num": 24657,
+        "word": "利雅得新月vs迈阿密国际",
+        "onboard_time": 1706551762,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24334,
+        "num": 24334,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23782,
+        "num": 23782,
+        "word": "恋与制作人你疯啦",
+        "onboard_time": 1706522790,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23373,
+        "num": 23373,
+        "word": "中国恒大市值仅剩22亿港元",
+        "onboard_time": 1706540494,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22046,
+        "num": 22046,
+        "word": "年轻人开始买手串当年货",
+        "onboard_time": 1706567176,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21373,
+        "num": 21373,
+        "word": "毛不易不知道秦岚是东北人",
+        "onboard_time": 1706558236,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21350,
+        "num": 21350,
+        "word": "一次性蛋糕盘可以折起来用",
+        "onboard_time": 1706540734,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19423,
+        "num": 21340,
+        "word": "于正发卢昱晓原始帧",
+        "onboard_time": 1706529569,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18049,
+        "num": 21321,
+        "word": "6招让内分泌重回正轨",
+        "onboard_time": 1706562136,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18012,
+        "num": 21306,
+        "word": "广东人洁癖不洗澡不上床",
+        "onboard_time": 1706535452,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17420,
+        "num": 21297,
+        "word": "宋祖儿张新成新剧过审",
+        "onboard_time": 1706526870,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16746,
+        "num": 21281,
+        "word": "多位明星参加中国影协第十一次全国代表大会",
+        "onboard_time": 1706539114,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15651,
+        "num": 21267,
+        "word": "广东人过年最怕的环节来了",
+        "onboard_time": 1706542409,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15197,
+        "num": 21234,
+        "word": "昆明动物园2只猫最大的问题是心理",
+        "onboard_time": 1706525852,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建优势互补高质量发展的区域经济布局#"
+    }
+  }
+}

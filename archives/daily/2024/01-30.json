@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706566625318,
+  "endTime": 1706567639183,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123498,
+      "num": 123498,
+      "word": "官方调查大学生扮锦衣卫迎客",
+      "onboard_time": 1706563818,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113813,
       "num": 113813,
       "word": "婆婆用儿媳盖头给将出世宝宝做包被",
@@ -337,6 +345,14 @@
       "onboard_time": 1706540734,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87329,
+      "num": 70324,
+      "word": "知情人回应网红宝妈因感冒去世",
+      "onboard_time": 1706562797,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83793,
@@ -411,12 +427,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 67236,
-      "num": 54229,
-      "word": "官方调查大学生扮锦衣卫迎客",
-      "onboard_time": 1706563818,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 60731,
+      "num": 60731,
+      "word": "张庭名下多家公司拟注销",
+      "onboard_time": 1706561355,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 60526,
@@ -425,22 +441,6 @@
       "onboard_time": 1706526870,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54574,
-      "num": 23685,
-      "word": "知情人回应网红宝妈因感冒去世",
-      "onboard_time": 1706562797,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50411,
-      "num": 50411,
-      "word": "张庭名下多家公司拟注销",
-      "onboard_time": 1706561355,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 41132,
@@ -483,8 +483,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20537,
-      "num": 18660,
+      "raw_hot": 29155,
+      "num": 29155,
+      "word": "12306回应自助售票机成功率更高",
+      "onboard_time": 1706565976,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22046,
+      "num": 22046,
+      "word": "年轻人开始买手串当年货",
+      "onboard_time": 1706567176,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21373,
+      "num": 21373,
       "word": "毛不易不知道秦岚是东北人",
       "onboard_time": 1706558236,
       "rank": 31,
@@ -499,16 +515,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 17216,
-      "num": 17216,
-      "word": "12306回应自助售票机成功率更高",
-      "onboard_time": 1706565976,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15566,
-      "num": 15566,
+      "raw_hot": 18049,
+      "num": 21321,
       "word": "6招让内分泌重回正轨",
       "onboard_time": 1706562136,
       "rank": 49,

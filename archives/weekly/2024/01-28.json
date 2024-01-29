@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706566625318,
+  "endTime": 1706567639183,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -4531,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123498,
+      "num": 123498,
+      "word": "官方调查大学生扮锦衣卫迎客",
+      "onboard_time": 1706563818,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123135,
       "num": 123135,
       "word": "董宇辉新号准备校招",
@@ -5643,6 +5651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87329,
+      "num": 70324,
+      "word": "知情人回应网红宝妈因感冒去世",
+      "onboard_time": 1706562797,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86980,
       "num": 86980,
       "word": "张远和粉丝鞠躬",
@@ -5827,14 +5843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67236,
-      "num": 54229,
-      "word": "官方调查大学生扮锦衣卫迎客",
-      "onboard_time": 1706563818,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67216,
       "num": 938161,
       "word": "春节回家路上有他们保驾护航",
@@ -5859,6 +5867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60731,
+      "num": 60731,
+      "word": "张庭名下多家公司拟注销",
+      "onboard_time": 1706561355,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57052,
       "num": 57052,
       "word": "巴塞罗那3比5比利亚雷亚尔",
@@ -5873,14 +5889,6 @@
       "onboard_time": 1706484024,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54574,
-      "num": 23685,
-      "word": "知情人回应网红宝妈因感冒去世",
-      "onboard_time": 1706562797,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54305,
@@ -5937,14 +5945,6 @@
       "onboard_time": 1706479396,
       "rank": 42,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 50411,
-      "num": 50411,
-      "word": "张庭名下多家公司拟注销",
-      "onboard_time": 1706561355,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 50177,
@@ -6115,6 +6115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29155,
+      "num": 29155,
+      "word": "12306回应自助售票机成功率更高",
+      "onboard_time": 1706565976,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26730,
       "num": 267620,
       "word": "蛋仔岛除夕悬念曝光",
@@ -6131,8 +6139,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20537,
-      "num": 18660,
+      "raw_hot": 22046,
+      "num": 22046,
+      "word": "年轻人开始买手串当年货",
+      "onboard_time": 1706567176,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21373,
+      "num": 21373,
       "word": "毛不易不知道秦岚是东北人",
       "onboard_time": 1706558236,
       "rank": 31,
@@ -6147,20 +6163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18049,
+      "num": 21321,
+      "word": "6招让内分泌重回正轨",
+      "onboard_time": 1706562136,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18028,
       "num": 24116,
       "word": "融合嘻哈盛典",
       "onboard_time": 1706465661,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17216,
-      "num": 17216,
-      "word": "12306回应自助售票机成功率更高",
-      "onboard_time": 1706565976,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16941,
@@ -6185,14 +6201,6 @@
       "onboard_time": 1706276130,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15566,
-      "num": 15566,
-      "word": "6招让内分泌重回正轨",
-      "onboard_time": 1706562136,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15174,
