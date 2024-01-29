@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706535239917,
+  "endTime": 1706537744567,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -4873,6 +4873,14 @@
       "onboard_time": 1704340475,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1143989,
+      "num": 1143989,
+      "word": "多地限制教师非正常流动",
+      "onboard_time": 1706533530,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1143948,
@@ -10113,6 +10121,14 @@
       "onboard_time": 1705236631,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 755805,
+      "num": 755805,
+      "word": "美国流浪猫每年杀死几十亿哺乳动物",
+      "onboard_time": 1706533171,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755542,
@@ -21635,6 +21651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 432045,
+      "num": 432045,
+      "word": "浙江父亲想用AI复活儿子",
+      "onboard_time": 1706534432,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432043,
       "num": 337347,
       "word": "长期喝奶茶会加重焦虑感",
@@ -25843,14 +25867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359019,
-      "num": 359019,
-      "word": "美国流浪猫每年杀死几十亿哺乳动物",
-      "onboard_time": 1706533171,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358804,
       "num": 265702,
       "word": "真正的穷鬼套餐",
@@ -26409,6 +26425,14 @@
       "onboard_time": 1705644749,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 348479,
+      "num": 232112,
+      "word": "妈妈说我不结婚让她没有面子",
+      "onboard_time": 1706533894,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 348430,
@@ -29016,14 +29040,6 @@
       "word": "新疆乌什地震新闻发布会",
       "onboard_time": 1706011890,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311989,
-      "num": 311989,
-      "word": "多地限制教师非正常流动",
-      "onboard_time": 1706533530,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -33611,6 +33627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262628,
+      "num": 262628,
+      "word": "万达电影新任董事长陈祉希",
+      "onboard_time": 1706535212,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262405,
       "num": 243538,
       "word": "女贼担心判太重偷走8000元留下1万4",
@@ -34747,6 +34771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251358,
+      "num": 251358,
+      "word": "伊拉克球员因庆祝动作被罚",
+      "onboard_time": 1706536654,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251320,
       "num": 317362,
       "word": "平平无奇女主 懒傻馋呆男主",
@@ -34897,6 +34929,14 @@
       "onboard_time": 1704169780,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250107,
+      "num": 199076,
+      "word": "广东人洁癖不洗澡不上床",
+      "onboard_time": 1706535452,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 250039,
@@ -35771,6 +35811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243969,
+      "num": 195005,
+      "word": "婆婆用儿媳盖头给将出世宝宝做包被",
+      "onboard_time": 1706535813,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243950,
       "num": 243950,
       "word": "动保协会称猫被救出后会带回北京猫屋",
@@ -36387,20 +36435,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238785,
+      "num": 201579,
+      "word": "赵露思毛绒手机壳",
+      "onboard_time": 1706534674,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238758,
       "num": 238758,
       "word": "关晓彤又健身了",
       "onboard_time": 1705474769,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238744,
-      "num": 232112,
-      "word": "妈妈说我不结婚让她没有面子",
-      "onboard_time": 1706533894,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 238717,
@@ -37561,6 +37609,14 @@
       "onboard_time": 1705896990,
       "rank": 27,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 231255,
+      "num": 162611,
+      "word": "普通人的高效抗老思路",
+      "onboard_time": 1706537194,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 231231,
@@ -43641,14 +43697,6 @@
       "onboard_time": 1704122319,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201579,
-      "num": 201579,
-      "word": "赵露思毛绒手机壳",
-      "onboard_time": 1706534674,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 201564,
@@ -49899,6 +49947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180572,
+      "num": 162520,
+      "word": "英国男子爬29楼跳伞伞没打开当场身亡",
+      "onboard_time": 1706537133,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180566,
       "num": 204379,
       "word": "一年一度美甲高峰期要来了",
@@ -55137,6 +55193,14 @@
       "onboard_time": 1705546643,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162252,
+      "num": 162252,
+      "word": "林西肖一成 打工人cp",
+      "onboard_time": 1706537373,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 162245,
@@ -62323,6 +62387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139051,
+      "num": 139051,
+      "word": "影视飓风用iPhone拍贺岁短片",
+      "onboard_time": 1706536895,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139050,
       "num": 139050,
       "word": "眼型必须美",
@@ -63129,14 +63201,6 @@
       "onboard_time": 1704350848,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136681,
-      "num": 136681,
-      "word": "浙江父亲想用AI复活儿子",
-      "onboard_time": 1706534432,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136640,
@@ -64025,6 +64089,14 @@
       "onboard_time": 1705808426,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133771,
+      "num": 133771,
+      "word": "约旦晋级亚洲杯8强",
+      "onboard_time": 1706536293,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 133757,
@@ -67003,6 +67075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125455,
+      "num": 125455,
+      "word": "约旦绝杀",
+      "onboard_time": 1706537373,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125437,
       "num": 125437,
       "word": "纳达尔退出澳网",
@@ -67873,6 +67953,14 @@
       "onboard_time": 1704154474,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 122960,
+      "num": 122960,
+      "word": "中国恒大被清盘不等于恒大集团境内主体破产",
+      "onboard_time": 1706537373,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 122956,
@@ -73697,14 +73785,6 @@
       "onboard_time": 1704713553,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 97251,
-      "num": 97251,
-      "word": "万达电影新任董事长陈祉希",
-      "onboard_time": 1706535212,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 97222,
