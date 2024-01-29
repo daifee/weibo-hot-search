@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706524451700,
+  "endTime": 1706526894496,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1299,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1952325,
+      "num": 1952325,
+      "word": "网红宝妈因感冒五天未就医去世",
+      "onboard_time": 1706521528,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1952033,
       "num": 1952033,
       "word": "6天班",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706327427,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1571291,
-      "num": 1571291,
-      "word": "非诚勿扰宝马女起诉离婚",
-      "onboard_time": 1705998211,
-      "rank": 10,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
