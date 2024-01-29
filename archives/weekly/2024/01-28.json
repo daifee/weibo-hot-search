@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706528043107,
+  "endTime": 1706531453814,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -33,6 +33,14 @@
       "onboard_time": 1706423191,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 2018491,
+      "num": 563696,
+      "word": "上海松江",
+      "onboard_time": 1706529090,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1959820,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1138794,
+      "num": 1138794,
+      "word": "花少节目组超重费花了20多万",
+      "onboard_time": 1706529930,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1122769,
       "num": 230895,
       "word": "母猴 干儿子",
@@ -257,6 +273,14 @@
       "onboard_time": 1706522969,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1064851,
+      "num": 1064851,
+      "word": "宋祖儿张新成新剧过审",
+      "onboard_time": 1706526870,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 1063540,
@@ -387,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 881578,
+      "num": 881578,
+      "word": "恶心穿搭",
+      "onboard_time": 1706530050,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 879532,
       "num": 621094,
       "word": "网友称陈牧驰扔了粉丝送的礼物",
@@ -475,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 803800,
+      "num": 635011,
+      "word": "宋祖儿",
+      "onboard_time": 1706530772,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 802809,
       "num": 592849,
       "word": "杨威一家为双胞胎女儿庆生",
@@ -553,14 +593,6 @@
       "onboard_time": 1706519673,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721904,
-      "num": 721904,
-      "word": "宋祖儿张新成新剧过审",
-      "onboard_time": 1706526870,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 719422,
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577777,
+      "num": 577777,
+      "word": "韩庚曾曝被SM公司区别对待",
+      "onboard_time": 1706530291,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576755,
       "num": 576755,
       "word": "古茗 天官赐福",
@@ -833,6 +873,14 @@
       "onboard_time": 1706511087,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 556221,
+      "num": 556221,
+      "word": "于正发卢昱晓原始帧",
+      "onboard_time": 1706529569,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 555921,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1706435432,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418574,
+      "num": 418574,
+      "word": "马化腾回应64亿元买地",
+      "onboard_time": 1706527891,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 416016,
@@ -1763,6 +1819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305400,
+      "num": 305400,
+      "word": "蓝二你偷偷藏不住了",
+      "onboard_time": 1706529270,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 304753,
       "num": 304753,
       "word": "阿拉斯加自己走丢在大街上大哭",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1706518827,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294679,
+      "num": 294679,
+      "word": "虞书欣痛失真名",
+      "onboard_time": 1706530654,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 294098,
@@ -2363,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214204,
+      "num": 214204,
+      "word": "她把小手伸出来就是让你摸的",
+      "onboard_time": 1706529090,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214085,
       "num": 214085,
       "word": "上证指数",
@@ -2643,6 +2723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199618,
+      "num": 199618,
+      "word": "花少冰岛帽子店口碑翻车",
+      "onboard_time": 1706530534,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199264,
       "num": 199264,
       "word": "张艺谋新剧",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1706358388,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "年轻人真的不愿意去爱了吗",
+      "onboard_time": 1706526093,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 193664,
@@ -2875,6 +2971,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176910,
+      "num": 176910,
+      "word": "金莎cos18岁的蓝菲琳",
+      "onboard_time": 1706530233,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176302,
+      "num": 176302,
+      "word": "六公主春节首播封神第一部",
+      "onboard_time": 1706528370,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175717,
       "num": 175717,
       "word": "恋与深空预告呢",
@@ -2985,14 +3097,6 @@
       "onboard_time": 1706484443,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167945,
-      "num": 167945,
-      "word": "年轻人真的不愿意去爱了吗",
-      "onboard_time": 1706526093,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 167607,
@@ -3963,6 +4067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125222,
+      "num": 125222,
+      "word": "要久久爱开虐",
+      "onboard_time": 1706531252,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
@@ -4009,14 +4121,6 @@
       "onboard_time": 1706419287,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123353,
-      "num": 123353,
-      "word": "马化腾回应64亿元买地",
-      "onboard_time": 1706527891,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 123020,
@@ -4091,6 +4195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120581,
+      "num": 120581,
+      "word": "蒋翼偷看黄瀛子",
+      "onboard_time": 1706530893,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120442,
       "num": 120442,
       "word": "一套舞蹈动作下来拦下10辆出租车",
@@ -4121,6 +4233,14 @@
       "onboard_time": 1706499511,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119985,
+      "num": 119985,
+      "word": "亚克力枪枪购物开箱",
+      "onboard_time": 1706531133,
+      "rank": 41,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 119290,
@@ -4177,6 +4297,14 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116443,
+      "num": 116443,
+      "word": "德华带娃",
+      "onboard_time": 1706527650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116361,
@@ -4411,12 +4539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111204,
+      "num": 111204,
+      "word": "火车推销员遇到了属于他的中控",
+      "onboard_time": 1706529626,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110506,
       "num": 110506,
       "word": "预制菜抢占年夜饭餐桌",
       "onboard_time": 1706494827,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110406,
+      "num": 110406,
+      "word": "香港偶遇宋轶文咏珊逛街",
+      "onboard_time": 1706531432,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 110255,
@@ -4491,14 +4635,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 108179,
-      "num": 108179,
-      "word": "德华带娃",
-      "onboard_time": 1706527650,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107717,
       "num": 107717,
       "word": "迪丽热巴新妆",
@@ -4561,6 +4697,14 @@
       "onboard_time": 1706496688,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 104602,
+      "num": 104602,
+      "word": "陆沉 出差结束",
+      "onboard_time": 1706531310,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 104457,
