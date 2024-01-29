@@ -1,0 +1,410 @@
+{
+  "runTime": 1706534379063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1911805,
+        "num": 1911805,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1550749,
+        "num": 1550749,
+        "word": "易烊千玺新闻联播镜头",
+        "onboard_time": 1706531914,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8281,
+        "num": 1385442,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256583,
+        "num": 1256583,
+        "word": "恶心穿搭",
+        "onboard_time": 1706530050,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1126794,
+        "num": 1126794,
+        "word": "花少节目组超重费花了20多万",
+        "onboard_time": 1706529930,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698251,
+        "num": 698251,
+        "word": "韩庚曾曝被SM公司区别对待",
+        "onboard_time": 1706530291,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686038,
+        "num": 686038,
+        "word": "香港偶遇宋轶文咏珊逛街",
+        "onboard_time": 1706531432,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555786,
+        "num": 555786,
+        "word": "网红宝妈因感冒五天未就医去世",
+        "onboard_time": 1706521528,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384567,
+        "num": 384567,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362419,
+        "num": 362419,
+        "word": "普京正式登记为下届总统候选人",
+        "onboard_time": 1706526270,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1968034,
+        "num": 358016,
+        "word": "上海松江",
+        "onboard_time": 1706529090,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617811,
+        "num": 348696,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451271,
+        "num": 341182,
+        "word": "于正发卢昱晓原始帧",
+        "onboard_time": 1706529569,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396438,
+        "num": 330352,
+        "word": "虞书欣痛失真名",
+        "onboard_time": 1706530654,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324871,
+        "num": 324871,
+        "word": "宋祖儿张新成新剧过审",
+        "onboard_time": 1706526870,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314387,
+        "num": 314387,
+        "word": "古装的周深",
+        "onboard_time": 1706532455,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303268,
+        "num": 303268,
+        "word": "吴京梦女",
+        "onboard_time": 1706522969,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 262790,
+        "num": 262790,
+        "word": "蓝二你偷偷藏不住了",
+        "onboard_time": 1706529270,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 253981,
+        "num": 253981,
+        "word": "马化腾回应64亿元买地",
+        "onboard_time": 1706527891,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232029,
+        "num": 232029,
+        "word": "恋与制作人你疯啦",
+        "onboard_time": 1706522790,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226874,
+        "num": 226874,
+        "word": "美国流浪猫每年杀死几十亿哺乳动物",
+        "onboard_time": 1706533171,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221850,
+        "num": 221850,
+        "word": "秋瓷炫晒近照",
+        "onboard_time": 1706533113,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198084,
+        "num": 198084,
+        "word": "周星驰赠送周杰伦签名卡",
+        "onboard_time": 1706532693,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186425,
+        "num": 186425,
+        "word": "昆明动物园2只猫最大的问题是心理",
+        "onboard_time": 1706525852,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159165,
+        "num": 159165,
+        "word": "papi酱 身兼数职的伴娘",
+        "onboard_time": 1706524111,
+        "rank": 24,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 196913,
+        "num": 158839,
+        "word": "金莎cos18岁的蓝菲琳",
+        "onboard_time": 1706530233,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188264,
+        "num": 158323,
+        "word": "花少冰岛帽子店口碑翻车",
+        "onboard_time": 1706530534,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167108,
+        "num": 157719,
+        "word": "六公主春节首播封神第一部",
+        "onboard_time": 1706528370,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161986,
+        "num": 156849,
+        "word": "要久久爱开虐",
+        "onboard_time": 1706531252,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156291,
+        "num": 156291,
+        "word": "恋与制作人",
+        "onboard_time": 1706527412,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157206,
+        "num": 156148,
+        "word": "芦原妃名子去世",
+        "onboard_time": 1706522912,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155404,
+        "num": 155404,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149955,
+        "num": 149955,
+        "word": "用1整只羊包1000个蒙古肉包子",
+        "onboard_time": 1706532211,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149752,
+        "num": 149752,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142542,
+        "num": 142542,
+        "word": "多地限制教师非正常流动",
+        "onboard_time": 1706533530,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141991,
+        "num": 141991,
+        "word": "免签不是免费",
+        "onboard_time": 1706519069,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139772,
+        "num": 139772,
+        "word": "麦当劳门店回应麦辣鸡翅裹粉",
+        "onboard_time": 1706525429,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133338,
+        "num": 133338,
+        "word": "她把小手伸出来就是让你摸的",
+        "onboard_time": 1706529090,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133208,
+        "num": 133208,
+        "word": "相亲笑话",
+        "onboard_time": 1706533651,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128359,
+        "num": 128359,
+        "word": "妈妈说我不结婚让她没有面子",
+        "onboard_time": 1706533894,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124715,
+        "num": 124715,
+        "word": "年轻人真的不愿意去爱了吗",
+        "onboard_time": 1706526093,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123849,
+        "num": 123849,
+        "word": "gidle空降",
+        "onboard_time": 1706523691,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115667,
+        "num": 115667,
+        "word": "年前烫发真是一场豪赌",
+        "onboard_time": 1706526572,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114666,
+        "num": 114666,
+        "word": "耀乐回应炎亚纶二次出庭",
+        "onboard_time": 1706534134,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112737,
+        "num": 112737,
+        "word": "BLG对战AL",
+        "onboard_time": 1706533113,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112247,
+        "num": 112247,
+        "word": "宋雨琦 库伊拉魔女",
+        "onboard_time": 1706522309,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111969,
+        "num": 111969,
+        "word": "元梦之星魔道祖师地图",
+        "onboard_time": 1706533292,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105620,
+        "num": 105620,
+        "word": "张颂文 不要为我花任何钱",
+        "onboard_time": 1706524829,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104473,
+        "num": 104473,
+        "word": "不是感染了HPV就得了性病",
+        "onboard_time": 1706526689,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76038,
+        "num": 103589,
+        "word": "中央网信办专项整治春节网络6方面问题",
+        "onboard_time": 1706525312,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#突出问题导向深入调查研究#"
+    }
+  }
+}

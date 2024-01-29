@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706532327799,
+  "endTime": 1706534379063,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911805,
+      "num": 1911805,
+      "word": "宋祖儿",
+      "onboard_time": 1706530772,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1819565,
       "num": 1819565,
       "word": "机票价格",
@@ -107,12 +115,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1540354,
-      "num": 1540354,
-      "word": "宋祖儿",
-      "onboard_time": 1706530772,
-      "rank": 6,
-      "category": "作品衍生"
+      "raw_hot": 1550749,
+      "num": 1550749,
+      "word": "易烊千玺新闻联播镜头",
+      "onboard_time": 1706531914,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1534452,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698251,
+      "num": 698251,
+      "word": "韩庚曾曝被SM公司区别对待",
+      "onboard_time": 1706530291,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697749,
       "num": 697749,
       "word": "胡歌回应为何常在西藏青海被偶遇",
@@ -643,11 +659,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 680317,
-      "num": 680317,
-      "word": "韩庚曾曝被SM公司区别对待",
-      "onboard_time": 1706530291,
-      "rank": 8,
+      "raw_hot": 686038,
+      "num": 686038,
+      "word": "香港偶遇宋轶文咏珊逛街",
+      "onboard_time": 1706531432,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1171,14 +1187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 458394,
-      "num": 458394,
-      "word": "易烊千玺新闻联播镜头",
-      "onboard_time": 1706531914,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 453950,
       "num": 453950,
       "word": "孙红雷回应黄渤张艺兴不带自己玩",
@@ -1339,14 +1347,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 418435,
-      "num": 418435,
-      "word": "香港偶遇宋轶文咏珊逛街",
-      "onboard_time": 1706531432,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 416016,
       "num": 416016,
       "word": "霉霉与男友球场接吻",
@@ -1385,6 +1385,14 @@
       "onboard_time": 1706434949,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 396438,
+      "num": 351682,
+      "word": "虞书欣痛失真名",
+      "onboard_time": 1706530654,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 396131,
@@ -1611,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351682,
-      "num": 351682,
-      "word": "虞书欣痛失真名",
-      "onboard_time": 1706530654,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349787,
       "num": 349787,
       "word": "内娱杂志销量排行",
@@ -1777,6 +1777,14 @@
       "onboard_time": 1706367692,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314387,
+      "num": 314387,
+      "word": "古装的周深",
+      "onboard_time": 1706532455,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314027,
@@ -2323,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226874,
+      "num": 226874,
+      "word": "美国流浪猫每年杀死几十亿哺乳动物",
+      "onboard_time": 1706533171,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224713,
       "num": 224713,
       "word": "肖战邀您相聚2024中国网络视听年度盛典",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1706414248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221850,
+      "num": 221850,
+      "word": "秋瓷炫晒近照",
+      "onboard_time": 1706533113,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 221714,
@@ -2769,6 +2793,14 @@
       "onboard_time": 1706498251,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198084,
+      "num": 198084,
+      "word": "周星驰赠送周杰伦签名卡",
+      "onboard_time": 1706532693,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 197830,
@@ -3483,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149955,
+      "num": 149955,
+      "word": "用1整只羊包1000个蒙古肉包子",
+      "onboard_time": 1706532211,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149552,
       "num": 123085,
       "word": "梦天拍热巴",
@@ -3609,6 +3649,14 @@
       "onboard_time": 1706523150,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142542,
+      "num": 142542,
+      "word": "多地限制教师非正常流动",
+      "onboard_time": 1706533530,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142358,
@@ -3827,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133208,
+      "num": 133208,
+      "word": "相亲笑话",
+      "onboard_time": 1706533651,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133151,
       "num": 119411,
       "word": "电竞小子蒲熠星",
@@ -4001,6 +4057,14 @@
       "onboard_time": 1706429672,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128359,
+      "num": 128359,
+      "word": "妈妈说我不结婚让她没有面子",
+      "onboard_time": 1706533894,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 128098,
@@ -4427,6 +4491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "耀乐回应炎亚纶二次出庭",
+      "onboard_time": 1706534134,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114301,
       "num": 114301,
       "word": "新鲜感三个月定律",
@@ -4515,6 +4587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112737,
+      "num": 112737,
+      "word": "BLG对战AL",
+      "onboard_time": 1706533113,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112704,
       "num": 112704,
       "word": "女生之间的善意",
@@ -4537,6 +4617,14 @@
       "onboard_time": 1706426249,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111969,
+      "num": 111969,
+      "word": "元梦之星魔道祖师地图",
+      "onboard_time": 1706533292,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 111924,
@@ -4993,14 +5081,6 @@
       "onboard_time": 1706413829,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95269,
-      "num": 95269,
-      "word": "用1整只羊包1000个蒙古肉包子",
-      "onboard_time": 1706532211,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 95138,
@@ -5661,6 +5741,9 @@
     },
     {
       "word": "#构建优势互补高质量发展的区域经济布局#"
+    },
+    {
+      "word": "#突出问题导向深入调查研究#"
     }
   ]
 }

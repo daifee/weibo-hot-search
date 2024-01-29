@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706532327799,
+  "endTime": 1706534379063,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1395,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1911805,
+      "num": 1911805,
+      "word": "宋祖儿",
+      "onboard_time": 1706530772,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1904224,
       "num": 1904224,
       "word": "方媛回应坐经济舱",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704441272,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1575695,
-      "num": 1575695,
-      "word": "李在明暂无生命危险",
-      "onboard_time": 1704164561,
-      "rank": 5,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
