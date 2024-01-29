@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706538852188,
+  "endTime": 1706541417014,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 851870,
+      "num": 446168,
+      "word": "京东被曝多次开会讨论与董宇辉合作",
+      "onboard_time": 1706538932,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 847951,
       "num": 847951,
       "word": "papi酱 身兼数职的伴娘",
@@ -529,6 +537,14 @@
       "onboard_time": 1706454993,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806182,
+      "num": 806182,
+      "word": "为什么睡得越多反而越累",
+      "onboard_time": 1706538573,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 802809,
@@ -633,6 +649,14 @@
       "onboard_time": 1706531432,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 711987,
+      "num": 711987,
+      "word": "英国男子爬29楼跳伞伞没打开当场身亡",
+      "onboard_time": 1706537133,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709313,
@@ -841,6 +865,14 @@
       "onboard_time": 1706500172,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 596778,
+      "num": 596778,
+      "word": "卡米拉禁赛四年",
+      "onboard_time": 1706540194,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 592520,
@@ -1315,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436040,
-      "num": 411929,
-      "word": "英国男子爬29楼跳伞伞没打开当场身亡",
-      "onboard_time": 1706537133,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435719,
       "num": 435719,
       "word": "长大了看小孩结婚",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1706496389,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 434038,
+      "num": 434038,
+      "word": "多位明星参加中国影协第十一次全国代表大会",
+      "onboard_time": 1706539114,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 433935,
@@ -1651,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354007,
+      "num": 354007,
+      "word": "万达电影新任董事长陈祉希",
+      "onboard_time": 1706535212,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353664,
       "num": 203461,
       "word": "詹姆斯常规赛出场历史第七",
@@ -1745,6 +1785,22 @@
       "onboard_time": 1706502333,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330077,
+      "num": 330077,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1706539831,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 328881,
+      "num": 280303,
+      "word": "6种症状提醒你该查血脂了",
+      "onboard_time": 1706539893,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327258,
@@ -2051,20 +2107,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283608,
+      "num": 279728,
+      "word": "2024最走狗屎运的星座",
+      "onboard_time": 1706538994,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281544,
       "num": 252367,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
       "onboard_time": 1706446891,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280841,
-      "num": 280841,
-      "word": "万达电影新任董事长陈祉希",
-      "onboard_time": 1706535212,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 279414,
@@ -2201,6 +2257,14 @@
       "onboard_time": 1706510068,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255090,
+      "num": 255090,
+      "word": "女子遭男友骗光6套房还被小三",
+      "onboard_time": 1706539532,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253843,
@@ -2403,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227888,
+      "num": 227888,
+      "word": "王小军被撤销全国政协委员资格",
+      "onboard_time": 1706539174,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227298,
       "num": 227298,
       "word": "王者终究开始癫了",
@@ -2585,6 +2657,14 @@
       "onboard_time": 1706340387,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212616,
+      "num": 212616,
+      "word": "肖战红西装大背头",
+      "onboard_time": 1706541392,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212547,
@@ -2995,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188634,
+      "num": 188634,
+      "word": "中国恒大市值仅剩22亿港元",
+      "onboard_time": 1706540494,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187480,
       "num": 187480,
       "word": "为什么情侣可以有隐私但不能有秘密",
@@ -3129,6 +3217,14 @@
       "onboard_time": 1706406988,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176542,
+      "num": 176542,
+      "word": "张镇麟脱球衣离场",
+      "onboard_time": 1706540372,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 175717,
@@ -3361,14 +3457,6 @@
       "onboard_time": 1706537373,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162095,
-      "num": 156707,
-      "word": "为什么睡得越多反而越累",
-      "onboard_time": 1706538573,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 161951,
@@ -3699,6 +3787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147650,
+      "num": 147650,
+      "word": "00后女大学生保研后开珠宝店月入过万",
+      "onboard_time": 1706540854,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147555,
       "num": 147555,
       "word": "喝酒不暖身越喝会越冷",
@@ -3795,6 +3891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142380,
+      "num": 142380,
+      "word": "一次性蛋糕盘可以折起来用",
+      "onboard_time": 1706540734,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142358,
       "num": 120887,
       "word": "白敬亭裤子上挂玩偶",
@@ -3833,6 +3937,14 @@
       "onboard_time": 1706453731,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140018,
+      "num": 194032,
+      "word": "乘务员开箱每掏一下都让人猜不到",
+      "onboard_time": 1706540072,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139078,
@@ -4019,6 +4131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133260,
+      "num": 133260,
+      "word": "张予曦红衣龙女",
+      "onboard_time": 1706538693,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133151,
       "num": 119411,
       "word": "电竞小子蒲熠星",
@@ -4203,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127612,
+      "num": 127612,
+      "word": "美邦创始人回应衣服丑价格贵",
+      "onboard_time": 1706541153,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127594,
       "num": 127594,
       "word": "小巷人家两对cp",
@@ -4289,6 +4417,14 @@
       "onboard_time": 1706421688,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124778,
+      "num": 124778,
+      "word": "官方辟谣上海松江发生爆炸",
+      "onboard_time": 1706541392,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124751,
@@ -4465,6 +4601,14 @@
       "onboard_time": 1706531133,
       "rank": 41,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 119453,
+      "num": 119453,
+      "word": "黄油小熊",
+      "onboard_time": 1706540672,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 119442,
@@ -4867,6 +5011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109066,
+      "num": 109066,
+      "word": "Sexy田中小姐",
+      "onboard_time": 1706539831,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108988,
       "num": 108988,
       "word": "单依纯春晚跑操式下班",
@@ -4881,14 +5033,6 @@
       "onboard_time": 1706363373,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 108454,
-      "num": 108454,
-      "word": "张予曦红衣龙女",
-      "onboard_time": 1706538693,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 108434,
