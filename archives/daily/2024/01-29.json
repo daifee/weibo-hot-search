@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706519845023,
+  "endTime": 1706520886831,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -24,6 +24,14 @@
       "word": "6天班",
       "onboard_time": 1706494467,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1742484,
+      "num": 1742484,
+      "word": "订婚强奸案",
+      "onboard_time": 1706517931,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1706483301,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1493107,
-      "num": 1493107,
-      "word": "订婚强奸案",
-      "onboard_time": 1706517931,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1478337,
@@ -113,6 +113,22 @@
       "onboard_time": 1706499873,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 957844,
+      "num": 957844,
+      "word": "小伙欠债40万女友陪还4年",
+      "onboard_time": 1706517087,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952405,
+      "num": 952405,
+      "word": "免签不是免费",
+      "onboard_time": 1706519069,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 909912,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 785076,
-      "num": 785076,
-      "word": "小伙欠债40万女友陪还4年",
-      "onboard_time": 1706517087,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 751741,
       "num": 751741,
       "word": "诺一救救你爹吧",
@@ -225,6 +233,14 @@
       "onboard_time": 1706485465,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 727701,
+      "num": 727701,
+      "word": "陈戌源被控受贿8103万余元",
+      "onboard_time": 1706519673,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674461,
@@ -355,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 501175,
-      "num": 501175,
-      "word": "免签不是免费",
-      "onboard_time": 1706519069,
-      "rank": 8,
-      "category": "旅游"
+      "raw_hot": 534003,
+      "num": 534003,
+      "word": "你的快递可能是两岁小孩哥打包的",
+      "onboard_time": 1706516611,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497996,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449002,
+      "num": 449002,
+      "word": "陈戌源受贿案将择期宣判",
+      "onboard_time": 1706519673,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440929,
       "num": 440929,
       "word": "A股创业板指跌超3%",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 435147,
-      "num": 268513,
+      "num": 273314,
       "word": "因为朋友圈新工作的offer没了",
       "onboard_time": 1706510851,
       "rank": 20,
@@ -473,6 +497,14 @@
       "onboard_time": 1706489189,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 420503,
+      "num": 420503,
+      "word": "恒大",
+      "onboard_time": 1706519250,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 417362,
@@ -520,14 +552,6 @@
       "word": "日本连环爆炸案凶手患癌自首",
       "onboard_time": 1706475795,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393387,
-      "num": 393387,
-      "word": "你的快递可能是两岁小孩哥打包的",
-      "onboard_time": 1706516611,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -627,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341991,
+      "num": 341991,
+      "word": "演员张栋梁回来了",
+      "onboard_time": 1706520510,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341731,
       "num": 341731,
       "word": "宋轶新加坡探亲",
@@ -643,8 +675,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 331440,
-      "num": 331440,
+      "raw_hot": 336810,
+      "num": 336810,
       "word": "gidle新歌上线",
       "onboard_time": 1706506111,
       "rank": 35,
@@ -721,6 +753,14 @@
       "onboard_time": 1706508328,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296828,
+      "num": 296828,
+      "word": "猴子和猫",
+      "onboard_time": 1706518827,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294098,
@@ -859,14 +899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 237748,
-      "num": 237748,
-      "word": "猴子和猫",
-      "onboard_time": 1706518827,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "2.6万余条新生儿信息被贩卖",
@@ -889,14 +921,6 @@
       "onboard_time": 1706452113,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229663,
-      "num": 229663,
-      "word": "恒大",
-      "onboard_time": 1706519250,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 227255,
@@ -961,6 +985,14 @@
       "onboard_time": 1706500531,
       "rank": 23,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 216355,
+      "num": 216355,
+      "word": "闪耀暖暖",
+      "onboard_time": 1706520448,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 214085,
@@ -1187,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175511,
-      "num": 175511,
-      "word": "陈戌源受贿案将择期宣判",
-      "onboard_time": 1706519673,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173190,
       "num": 74280,
       "word": "新款iPadPro或3月底发布",
@@ -1203,20 +1227,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171614,
+      "num": 171614,
+      "word": "Super Lady",
+      "onboard_time": 1706520812,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171433,
       "num": 168059,
       "word": "拜登回应美军基地遭袭",
       "onboard_time": 1706493927,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 171248,
-      "num": 171248,
-      "word": "陈戌源被控受贿8103万余元",
-      "onboard_time": 1706519673,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170378,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1706501250,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162808,
+      "num": 162808,
+      "word": "沈腾认证范丞丞最爱撒娇",
+      "onboard_time": 1706520151,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 162270,
@@ -1707,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111924,
+      "num": 111924,
+      "word": "小蒜头",
+      "onboard_time": 1706520211,
+      "rank": 44,
+      "category": "数码,数码"
+    },
+    {
       "raw_hot": 111597,
       "num": 111597,
       "word": "猫总能以令人瞩目的方式离开",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1706496688,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 102733,
+      "num": 102733,
+      "word": "霉霉 我啥也没干",
+      "onboard_time": 1706520750,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 101390,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1706513730,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85270,
+      "num": 85270,
+      "word": "虞书欣晒和豆泥合照",
+      "onboard_time": 1706518412,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 85014,
