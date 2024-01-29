@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706555603977,
+  "endTime": 1706556846063,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30805,
+      "num": 30805,
+      "word": "偶像梦幻祭2",
+      "onboard_time": 1706554517,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30231,
       "num": 30231,
       "word": "章若楠说成瑶被钱恒亲晕了",
@@ -451,20 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29331,
-      "num": 29331,
-      "word": "偶像梦幻祭2",
-      "onboard_time": 1706554517,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 18841,
       "num": 18841,
       "word": "林允耳环好大",
       "onboard_time": 1706554398,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13482,
+      "num": 14970,
+      "word": "我妈让我自己一个锅",
+      "onboard_time": 1706556257,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 5051,
