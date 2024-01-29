@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706552450223,
+  "endTime": 1706553233455,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37440,
+      "num": 37440,
+      "word": "利雅得新月vs迈阿密国际",
+      "onboard_time": 1706551762,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37046,
       "num": 37046,
       "word": "张予曦斗罗大陆2片花",
       "onboard_time": 1706549361,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31322,
-      "num": 31322,
-      "word": "利雅得新月vs迈阿密国际",
-      "onboard_time": 1706551762,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 30231,

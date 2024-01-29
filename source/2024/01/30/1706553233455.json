@@ -1,0 +1,410 @@
+{
+  "runTime": 1706553233455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 178009,
+        "num": 178009,
+        "word": "为什么睡得越多反而越累",
+        "onboard_time": 1706538573,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143456,
+        "num": 143456,
+        "word": "浙江父亲想用AI复活儿子",
+        "onboard_time": 1706534432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1827,
+        "num": 117558,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115951,
+        "num": 115951,
+        "word": "花少节目组超重费花了20多万",
+        "onboard_time": 1706529930,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110710,
+        "num": 110710,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109976,
+        "num": 109976,
+        "word": "00后女大学生保研后开珠宝店月入过万",
+        "onboard_time": 1706540854,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104331,
+        "num": 104331,
+        "word": "韩庚曾曝被SM公司区别对待",
+        "onboard_time": 1706530291,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100128,
+        "num": 100128,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706539831,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86056,
+        "num": 86056,
+        "word": "多地限制教师非正常流动",
+        "onboard_time": 1706533530,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77756,
+        "num": 77756,
+        "word": "英国男子爬29楼跳伞伞没打开当场身亡",
+        "onboard_time": 1706537133,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140085,
+        "num": 77585,
+        "word": "恶心穿搭",
+        "onboard_time": 1706530050,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 76184,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83597,
+        "num": 75111,
+        "word": "恋与制作人你疯啦",
+        "onboard_time": 1706522790,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72735,
+        "num": 72735,
+        "word": "卡米拉禁赛四年",
+        "onboard_time": 1706540194,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71331,
+        "num": 71331,
+        "word": "易烊千玺新闻联播镜头",
+        "onboard_time": 1706531914,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69929,
+        "num": 69929,
+        "word": "秦岚辛芷蕾内娱张爱玲文学",
+        "onboard_time": 1706547383,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65882,
+        "num": 65882,
+        "word": "美国流浪猫每年杀死几十亿哺乳动物",
+        "onboard_time": 1706533171,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63429,
+        "num": 63429,
+        "word": "香港偶遇宋轶文咏珊逛街",
+        "onboard_time": 1706531432,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61210,
+        "num": 61210,
+        "word": "恋与制作人",
+        "onboard_time": 1706527412,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58052,
+        "num": 58052,
+        "word": "网红宝妈因感冒五天未就医去世",
+        "onboard_time": 1706521528,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57818,
+        "num": 57818,
+        "word": "6种症状提醒你该查血脂了",
+        "onboard_time": 1706539893,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52791,
+        "num": 52791,
+        "word": "于正发卢昱晓原始帧",
+        "onboard_time": 1706529569,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45301,
+        "num": 45301,
+        "word": "K宝冬奥会金牌被裁无效",
+        "onboard_time": 1706542052,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45236,
+        "num": 45236,
+        "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
+        "onboard_time": 1706542052,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42117,
+        "num": 42117,
+        "word": "女子遭男友骗光6套房还被小三",
+        "onboard_time": 1706539532,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41641,
+        "num": 41641,
+        "word": "美邦创始人回应衣服丑价格贵",
+        "onboard_time": 1706541153,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40868,
+        "num": 40868,
+        "word": "虞书欣痛失真名",
+        "onboard_time": 1706530654,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40290,
+        "num": 40290,
+        "word": "2024最走狗屎运的星座",
+        "onboard_time": 1706538994,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39187,
+        "num": 39187,
+        "word": "恩静消失术",
+        "onboard_time": 1706543311,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15354,
+        "num": 37450,
+        "word": "小动协讲述2只猫身体状况细节",
+        "onboard_time": 1706541632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37440,
+        "num": 37440,
+        "word": "利雅得新月vs迈阿密国际",
+        "onboard_time": 1706551762,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34259,
+        "num": 34259,
+        "word": "昆明动物园2只猫最大的问题是心理",
+        "onboard_time": 1706525852,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33976,
+        "num": 33976,
+        "word": "她把小手伸出来就是让你摸的",
+        "onboard_time": 1706529090,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32886,
+        "num": 32886,
+        "word": "女子机场手袋破洞获赠26寸行李箱",
+        "onboard_time": 1706542890,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30471,
+        "num": 30471,
+        "word": "婆婆用儿媳盖头给将出世宝宝做包被",
+        "onboard_time": 1706535813,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30335,
+        "num": 30335,
+        "word": "金莎cos18岁的蓝菲琳",
+        "onboard_time": 1706530233,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28585,
+        "num": 28585,
+        "word": "广东人洁癖不洗澡不上床",
+        "onboard_time": 1706535452,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28236,
+        "num": 28236,
+        "word": "多位明星参加中国影协第十一次全国代表大会",
+        "onboard_time": 1706539114,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26955,
+        "num": 26955,
+        "word": "中国恒大市值仅剩22亿港元",
+        "onboard_time": 1706540494,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25954,
+        "num": 25954,
+        "word": "章若楠说成瑶被钱恒亲晕了",
+        "onboard_time": 1706550500,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25881,
+        "num": 25881,
+        "word": "肖战红西装大背头",
+        "onboard_time": 1706541392,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25463,
+        "num": 25463,
+        "word": "张予曦斗罗大陆2片花",
+        "onboard_time": 1706549361,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25041,
+        "num": 25041,
+        "word": "宋祖儿张新成新剧过审",
+        "onboard_time": 1706526870,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24848,
+        "num": 24848,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24618,
+        "num": 24618,
+        "word": "官方辟谣上海松江发生爆炸",
+        "onboard_time": 1706541392,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23622,
+        "num": 23622,
+        "word": "美国队递补获得一枚北京冬奥金牌",
+        "onboard_time": 1706542529,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22426,
+        "num": 22426,
+        "word": "胡先煦李雪琴白天接话晚上复盘",
+        "onboard_time": 1706545945,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 22218,
+        "word": "赵露思毛绒手机壳",
+        "onboard_time": 1706534674,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21686,
+        "num": 21686,
+        "word": "广东人过年最怕的环节来了",
+        "onboard_time": 1706542409,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19794,
+        "num": 21469,
+        "word": "一次性蛋糕盘可以折起来用",
+        "onboard_time": 1706540734,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建优势互补高质量发展的区域经济布局#"
+    }
+  }
+}
