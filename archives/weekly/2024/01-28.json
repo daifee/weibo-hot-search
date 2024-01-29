@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706516459474,
+  "endTime": 1706517255523,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -427,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 787869,
-      "num": 787869,
+      "raw_hot": 797295,
+      "num": 797295,
       "word": "胡先煦不愿意上综艺的原因",
       "onboard_time": 1706514029,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 751741,
+      "num": 751741,
+      "word": "诺一救救你爹吧",
+      "onboard_time": 1706514329,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 739223,
@@ -481,14 +489,6 @@
       "onboard_time": 1706357730,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 712299,
-      "num": 712299,
-      "word": "诺一救救你爹吧",
-      "onboard_time": 1706514329,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 709313,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661222,
+      "num": 661222,
+      "word": "清华大学教授称人口政策应该回归自由",
+      "onboard_time": 1706512767,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657398,
       "num": 657398,
       "word": "库里绝平湖人",
@@ -577,6 +585,14 @@
       "onboard_time": 1706430506,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 628087,
+      "num": 628087,
+      "word": "男子被裁瞒着妻子送外卖疑似摆拍",
+      "onboard_time": 1706515049,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622158,
@@ -617,14 +633,6 @@
       "onboard_time": 1706407049,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 601266,
-      "num": 601266,
-      "word": "清华大学教授称人口政策应该回归自由",
-      "onboard_time": 1706512767,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597934,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1706449953,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395894,
-      "num": 395894,
-      "word": "男子被裁瞒着妻子送外卖疑似摆拍",
-      "onboard_time": 1706515049,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395662,
@@ -1931,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228375,
+      "num": 228375,
+      "word": "素人浪姐",
+      "onboard_time": 1706516731,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227255,
       "num": 174499,
       "word": "坚持十几年却做了一件没用的事",
@@ -2008,6 +2016,14 @@
       "word": "自称桐岛聪男子在医院死亡",
       "onboard_time": 1706491647,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218870,
+      "num": 218870,
+      "word": "张雪峰为公司员工发放11斤年货",
+      "onboard_time": 1706513971,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2129,6 +2145,14 @@
       "onboard_time": 1706417428,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208330,
+      "num": 208330,
+      "word": "玉米几是什么新梗",
+      "onboard_time": 1706516910,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 207607,
@@ -2371,12 +2395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189885,
-      "num": 189885,
-      "word": "张雪峰为公司员工发放11斤年货",
-      "onboard_time": 1706513971,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 190467,
+      "num": 190467,
+      "word": "中国石油4天涨幅近25%",
+      "onboard_time": 1706515949,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 189729,
@@ -2611,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168749,
+      "num": 168749,
+      "word": "2024湖南卫视春晚官宣",
+      "onboard_time": 1706517087,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167607,
       "num": 167607,
       "word": "24年间鸿星尔克经历过四次生死存亡",
@@ -2632,6 +2664,14 @@
       "word": "董明珠称希望2024年给国家税收超200亿",
       "onboard_time": 1706453312,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166296,
+      "num": 166296,
+      "word": "女孩打碎爸爸杯子吓得带弟弟出走",
+      "onboard_time": 1706516009,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -3019,20 +3059,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144214,
+      "num": 144214,
+      "word": "广州30岁诗人因抑郁症离世",
+      "onboard_time": 1706516009,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142358,
       "num": 120887,
       "word": "白敬亭裤子上挂玩偶",
       "onboard_time": 1706367152,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142204,
-      "num": 142204,
-      "word": "中国石油4天涨幅近25%",
-      "onboard_time": 1706515949,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 140981,
@@ -3219,6 +3259,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 132987,
+      "num": 132987,
+      "word": "打工人真的很爱奖励自己",
+      "onboard_time": 1706515530,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "布克又空砍了",
@@ -3248,6 +3296,14 @@
       "word": "上海图书馆一把躺椅数万元",
       "onboard_time": 1706415748,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131074,
+      "num": 131074,
+      "word": "你的快递可能是两岁小孩哥打包的",
+      "onboard_time": 1706516611,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3435,14 +3491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125306,
-      "num": 125306,
-      "word": "打工人真的很爱奖励自己",
-      "onboard_time": 1706515530,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
@@ -3547,6 +3595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120845,
+      "num": 120845,
+      "word": "恒大美元债已基本跌至地板价",
+      "onboard_time": 1706516668,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120782,
       "num": 120782,
       "word": "狸花 姐可以不在家",
@@ -3633,14 +3689,6 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116554,
-      "num": 116554,
-      "word": "广州30岁诗人因抑郁症离世",
-      "onboard_time": 1706516009,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116361,
@@ -3883,6 +3931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109215,
+      "num": 109215,
+      "word": "小伙欠债40万女友陪还4年",
+      "onboard_time": 1706517087,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108988,
       "num": 108988,
       "word": "单依纯春晚跑操式下班",
@@ -4072,14 +4128,6 @@
       "word": "这是莽村来的大熊猫吧",
       "onboard_time": 1706437410,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101455,
-      "num": 101455,
-      "word": "女孩打碎爸爸杯子吓得带弟弟出走",
-      "onboard_time": 1706516009,
-      "rank": 43,
       "category": "社会新闻"
     },
     {

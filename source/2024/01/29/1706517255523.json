@@ -1,0 +1,410 @@
+{
+  "runTime": 1706517255523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 883100,
+        "num": 883100,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854241,
+        "num": 854241,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9640,
+        "num": 803376,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797295,
+        "num": 797295,
+        "word": "胡先煦不愿意上综艺的原因",
+        "onboard_time": 1706514029,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751741,
+        "num": 751741,
+        "word": "诺一救救你爹吧",
+        "onboard_time": 1706514329,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661222,
+        "num": 661222,
+        "word": "清华大学教授称人口政策应该回归自由",
+        "onboard_time": 1706512767,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628087,
+        "num": 628087,
+        "word": "男子被裁瞒着妻子送外卖疑似摆拍",
+        "onboard_time": 1706515049,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490940,
+        "num": 490940,
+        "word": "杨威一家为双胞胎女儿庆生",
+        "onboard_time": 1706511751,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469453,
+        "num": 469453,
+        "word": "呼和浩特一餐馆发生火灾致4人遇难",
+        "onboard_time": 1706513490,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395453,
+        "num": 395453,
+        "word": "嬛嬛 朕出专辑啦",
+        "onboard_time": 1706499571,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1329911,
+        "num": 390315,
+        "word": "订婚强奸案男子起诉女方要求结婚",
+        "onboard_time": 1706512588,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346943,
+        "num": 346943,
+        "word": "肖战迪丽热巴入选中国十大新青年",
+        "onboard_time": 1706507071,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308910,
+        "num": 308910,
+        "word": "恋与制作人 求婚",
+        "onboard_time": 1706500893,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290277,
+        "num": 290277,
+        "word": "吴昕41岁状态",
+        "onboard_time": 1706507670,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275302,
+        "num": 275302,
+        "word": "我国女性HPV感染率呈双峰分布",
+        "onboard_time": 1706492367,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230059,
+        "num": 230059,
+        "word": "刘烨签名 有点多了",
+        "onboard_time": 1706511087,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 228375,
+        "word": "素人浪姐",
+        "onboard_time": 1706516731,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218870,
+        "num": 218870,
+        "word": "张雪峰为公司员工发放11斤年货",
+        "onboard_time": 1706513971,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214867,
+        "num": 214867,
+        "word": "远嫁女子过年想回娘家遭公公扇耳光",
+        "onboard_time": 1706506889,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208330,
+        "num": 208330,
+        "word": "玉米几是什么新梗",
+        "onboard_time": 1706516910,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341578,
+        "num": 207832,
+        "word": "因为朋友圈新工作的offer没了",
+        "onboard_time": 1706510851,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218709,
+        "num": 205117,
+        "word": "胡锡进称国家动真格想把A股搞起来",
+        "onboard_time": 1706511087,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201044,
+        "num": 201044,
+        "word": "男子举报纪委干部40分钟后就被抓",
+        "onboard_time": 1706499148,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190467,
+        "num": 190467,
+        "word": "中国石油4天涨幅近25%",
+        "onboard_time": 1706515949,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172105,
+        "num": 172105,
+        "word": "股市",
+        "onboard_time": 1706510668,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168749,
+        "num": 168749,
+        "word": "2024湖南卫视春晚官宣",
+        "onboard_time": 1706517087,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166619,
+        "num": 166619,
+        "word": "当普通人穿上尝试网红穿搭",
+        "onboard_time": 1706511868,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166296,
+        "num": 166296,
+        "word": "女孩打碎爸爸杯子吓得带弟弟出走",
+        "onboard_time": 1706516009,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163790,
+        "num": 163790,
+        "word": "2女孩拾金不昧获赠一人一只警熊",
+        "onboard_time": 1706514692,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294549,
+        "num": 163725,
+        "word": "昆明动物园7斤公猫体检全程无反抗",
+        "onboard_time": 1706512888,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163525,
+        "num": 163525,
+        "word": "准女婿上门送年礼带了几十箱礼物",
+        "onboard_time": 1706504733,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163368,
+        "num": 163368,
+        "word": "高德打车致歉",
+        "onboard_time": 1706514271,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160702,
+        "num": 160702,
+        "word": "胡先煦说自己没对象",
+        "onboard_time": 1706511688,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156942,
+        "num": 156942,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155824,
+        "num": 155824,
+        "word": "陈漫拍的李冰冰",
+        "onboard_time": 1706508927,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144214,
+        "num": 144214,
+        "word": "广州30岁诗人因抑郁症离世",
+        "onboard_time": 1706516009,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136992,
+        "num": 136992,
+        "word": "gidle新歌上线",
+        "onboard_time": 1706506111,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135690,
+        "num": 135690,
+        "word": "中国驻瑙鲁大使馆举行复馆仪式",
+        "onboard_time": 1706514932,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132987,
+        "num": 132987,
+        "word": "打工人真的很爱奖励自己",
+        "onboard_time": 1706515530,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131074,
+        "num": 131074,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130772,
+        "num": 130772,
+        "word": "赵丽颖红妆写真",
+        "onboard_time": 1706503592,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127513,
+        "num": 127513,
+        "word": "飞驰人生2有于适",
+        "onboard_time": 1706514391,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 120845,
+        "word": "恒大美元债已基本跌至地板价",
+        "onboard_time": 1706516668,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109215,
+        "num": 109215,
+        "word": "小伙欠债40万女友陪还4年",
+        "onboard_time": 1706517087,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106092,
+        "num": 106092,
+        "word": "鼠鼠头像",
+        "onboard_time": 1706512588,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105320,
+        "num": 105320,
+        "word": "KPOP纯元",
+        "onboard_time": 1706502333,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99866,
+        "num": 99866,
+        "word": "正式被确诊为柿子",
+        "onboard_time": 1706508328,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94317,
+        "num": 94317,
+        "word": "花少5豆瓣评分上涨至8.9",
+        "onboard_time": 1706504789,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88812,
+        "num": 88812,
+        "word": "产房里的男人百态",
+        "onboard_time": 1706510068,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88553,
+        "num": 88553,
+        "word": "90后宝妈克服恐惧当寿衣模特带货",
+        "onboard_time": 1706505928,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建优势互补高质量发展的区域经济布局#"
+    }
+  }
+}
