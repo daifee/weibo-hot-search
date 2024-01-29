@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706564071789,
+  "endTime": 1706566625318,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -411,12 +411,36 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 67236,
+      "num": 54229,
+      "word": "官方调查大学生扮锦衣卫迎客",
+      "onboard_time": 1706563818,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60526,
       "num": 60526,
       "word": "宋祖儿张新成新剧过审",
       "onboard_time": 1706526870,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54574,
+      "num": 23685,
+      "word": "知情人回应网红宝妈因感冒去世",
+      "onboard_time": 1706562797,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50411,
+      "num": 50411,
+      "word": "张庭名下多家公司拟注销",
+      "onboard_time": 1706561355,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 41132,
@@ -443,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32359,
-      "num": 32359,
-      "word": "张庭名下多家公司拟注销",
-      "onboard_time": 1706561355,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30805,
       "num": 30805,
       "word": "偶像梦幻祭2",
@@ -465,14 +481,6 @@
       "onboard_time": 1706550500,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20870,
-      "num": 17900,
-      "word": "知情人回应网红宝妈因感冒去世",
-      "onboard_time": 1706562797,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20537,
@@ -491,28 +499,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17216,
+      "num": 17216,
+      "word": "12306回应自助售票机成功率更高",
+      "onboard_time": 1706565976,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15566,
+      "num": 15566,
+      "word": "6招让内分泌重回正轨",
+      "onboard_time": 1706562136,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13482,
       "num": 14970,
       "word": "我妈让我自己一个锅",
       "onboard_time": 1706556257,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11904,
-      "num": 11904,
-      "word": "官方调查大学生扮锦衣卫迎客",
-      "onboard_time": 1706563818,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11226,
-      "num": 12999,
-      "word": "6招让内分泌重回正轨",
-      "onboard_time": 1706562136,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 5051,
