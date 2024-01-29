@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706494940305,
+  "endTime": 1706495667031,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1494916,
+      "num": 1494916,
+      "word": "我国女性HPV感染率呈双峰分布",
+      "onboard_time": 1706492367,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1478337,
       "num": 1478337,
       "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
@@ -121,14 +129,6 @@
       "onboard_time": 1706398941,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1182799,
-      "num": 1182799,
-      "word": "我国女性HPV感染率呈双峰分布",
-      "onboard_time": 1706492367,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1182575,
@@ -481,6 +481,14 @@
       "onboard_time": 1706434469,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591203,
+      "num": 591203,
+      "word": "6天班",
+      "onboard_time": 1706494467,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590000,
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372034,
+      "num": 372034,
+      "word": "A股",
+      "onboard_time": 1706492726,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 371587,
       "num": 371587,
       "word": "白桃星座",
@@ -1187,8 +1203,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289488,
-      "num": 289488,
+      "raw_hot": 291496,
+      "num": 291496,
+      "word": "9部电影官宣2024春节档",
+      "onboard_time": 1706495066,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 291311,
+      "num": 291311,
       "word": "蒙面倪妮",
       "onboard_time": 1706492847,
       "rank": 16,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1706487988,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 281704,
-      "num": 281704,
-      "word": "A股",
-      "onboard_time": 1706492726,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 281544,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1706410409,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278559,
+      "num": 278559,
+      "word": "时代少年团KFC联名",
+      "onboard_time": 1706494946,
+      "rank": 16,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 276474,
@@ -1371,6 +1395,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 240114,
+      "num": 240114,
+      "word": "古茗携手天官赐福",
+      "onboard_time": 1706494406,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 238822,
+      "num": 135066,
+      "word": "侮辱罪与传播淫秽物品罪",
+      "onboard_time": 1706494526,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "2.6万余条新生儿信息被贩卖",
@@ -1515,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219983,
+      "num": 219983,
+      "word": "自称桐岛聪男子在医院死亡",
+      "onboard_time": 1706491647,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "黄渤说怎么能少孙红雷",
@@ -1579,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208830,
-      "num": 208830,
-      "word": "古茗携手天官赐福",
-      "onboard_time": 1706494406,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 208650,
       "num": 208650,
       "word": "刘谦龙年央视春晚第三次联排",
@@ -1632,14 +1672,6 @@
       "word": "网购三辆叉车收到一颗螺丝",
       "onboard_time": 1706422168,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204264,
-      "num": 204264,
-      "word": "自称桐岛聪男子在医院死亡",
-      "onboard_time": 1706491647,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1779,14 +1811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194144,
-      "num": 194144,
-      "word": "6天班",
-      "onboard_time": 1706494467,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192162,
       "num": 192162,
       "word": "两个i人在乱用礼貌用语",
@@ -1923,6 +1947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173167,
+      "num": 134853,
+      "word": "长大了看小孩结婚",
+      "onboard_time": 1706495188,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173018,
       "num": 173018,
       "word": "驾校教练本科竟然是学法学的",
@@ -1948,7 +1980,7 @@
     },
     {
       "raw_hot": 171433,
-      "num": 139649,
+      "num": 168059,
       "word": "拜登回应美军基地遭袭",
       "onboard_time": 1706493927,
       "rank": 30,
@@ -2443,14 +2475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131525,
-      "num": 131525,
-      "word": "侮辱罪与传播淫秽物品罪",
-      "onboard_time": 1706494526,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131461,
       "num": 131461,
       "word": "上海图书馆一把躺椅数万元",
@@ -2657,6 +2681,14 @@
       "onboard_time": 1706485586,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121801,
+      "num": 121801,
+      "word": "胡锡进强烈期待本周市场再涨一波",
+      "onboard_time": 1706495368,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 121761,
@@ -2889,6 +2921,14 @@
       "onboard_time": 1706446111,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110506,
+      "num": 110506,
+      "word": "预制菜抢占年夜饭餐桌",
+      "onboard_time": 1706494827,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 110255,
@@ -3355,12 +3395,12 @@
       "category": "科学科普,艺人"
     },
     {
-      "raw_hot": 87884,
-      "num": 87884,
-      "word": "预制菜抢占年夜饭餐桌",
-      "onboard_time": 1706494827,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 87787,
+      "num": 87787,
+      "word": "他走了二十公里来看病",
+      "onboard_time": 1706494707,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 86980,
@@ -3387,14 +3427,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86290,
-      "num": 86290,
-      "word": "他走了二十公里来看病",
-      "onboard_time": 1706494707,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85636,
       "num": 85636,
       "word": "红丝袜",
@@ -3416,6 +3448,14 @@
       "word": "幸运体质",
       "onboard_time": 1706405667,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83831,
+      "num": 83831,
+      "word": "只要你愿意吃亏就有吃不完的亏",
+      "onboard_time": 1706495308,
+      "rank": 49,
       "category": "情感"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706495667031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1494916,
+        "num": 1494916,
+        "word": "我国女性HPV感染率呈双峰分布",
+        "onboard_time": 1706492367,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1387789,
+        "num": 1387789,
+        "word": "得州与美政府武装对峙",
+        "onboard_time": 1706492247,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11803,
+        "num": 1328847,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308098,
+        "num": 1308098,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 847461,
+        "num": 847461,
+        "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
+        "onboard_time": 1706487508,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 773291,
+        "num": 773291,
+        "word": "本周日调休上班",
+        "onboard_time": 1706492069,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595268,
+        "num": 595268,
+        "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
+        "onboard_time": 1706485766,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591203,
+        "num": 591203,
+        "word": "6天班",
+        "onboard_time": 1706494467,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535251,
+        "num": 535251,
+        "word": "唯一的姐丁泽仁",
+        "onboard_time": 1706485344,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389751,
+        "num": 389751,
+        "word": "长辈不在 过年的传统也慢慢消失了",
+        "onboard_time": 1706486487,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372034,
+        "num": 372034,
+        "word": "A股",
+        "onboard_time": 1706492726,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363853,
+        "num": 363853,
+        "word": "范丞丞背后抱卢昱晓路透",
+        "onboard_time": 1706491587,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340671,
+        "num": 340671,
+        "word": "玉米几",
+        "onboard_time": 1706489070,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292016,
+        "num": 292016,
+        "word": "小学生收获1600斤年终奖",
+        "onboard_time": 1706461223,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291496,
+        "num": 291496,
+        "word": "9部电影官宣2024春节档",
+        "onboard_time": 1706495066,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291311,
+        "num": 291311,
+        "word": "蒙面倪妮",
+        "onboard_time": 1706492847,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278559,
+        "num": 278559,
+        "word": "时代少年团KFC联名",
+        "onboard_time": 1706494946,
+        "rank": 16,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 265267,
+        "num": 265267,
+        "word": "李湘辟谣1560元出售二手毛巾",
+        "onboard_time": 1706454993,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264036,
+        "num": 264036,
+        "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+        "onboard_time": 1706490508,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240114,
+        "num": 240114,
+        "word": "古茗携手天官赐福",
+        "onboard_time": 1706494406,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232905,
+        "num": 232905,
+        "word": "外卖中的微塑料两小时就可进入大脑",
+        "onboard_time": 1706487988,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219983,
+        "num": 219983,
+        "word": "自称桐岛聪男子在医院死亡",
+        "onboard_time": 1706491647,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187475,
+        "num": 187475,
+        "word": "董明珠宣布将多发2亿年终奖",
+        "onboard_time": 1706485465,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169904,
+        "num": 169904,
+        "word": "消除emo的电话4008000088",
+        "onboard_time": 1706490809,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 168339,
+        "word": "花花和它一米八的长腿妹妹",
+        "onboard_time": 1706484863,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168059,
+        "num": 168059,
+        "word": "拜登回应美军基地遭袭",
+        "onboard_time": 1706493927,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162438,
+        "num": 162438,
+        "word": "第一次觉得手机外放声音不刺耳了",
+        "onboard_time": 1706450490,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155657,
+        "num": 155657,
+        "word": "坚持十几年却做了一件没用的事",
+        "onboard_time": 1706490987,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151195,
+        "num": 151195,
+        "word": "五个美军基地遭袭",
+        "onboard_time": 1706485586,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136050,
+        "num": 136050,
+        "word": "尔滨雪人被南方小土豆暖化了",
+        "onboard_time": 1706492128,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 238822,
+        "num": 135066,
+        "word": "侮辱罪与传播淫秽物品罪",
+        "onboard_time": 1706494526,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173167,
+        "num": 134853,
+        "word": "长大了看小孩结婚",
+        "onboard_time": 1706495188,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137805,
+        "num": 134326,
+        "word": "昆明动物园2只猫咪住进新家啦",
+        "onboard_time": 1706484443,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130869,
+        "num": 130869,
+        "word": "美议员呼吁红蓝州进行国家离婚",
+        "onboard_time": 1706489189,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125899,
+        "num": 125899,
+        "word": "一璐平安连续剧",
+        "onboard_time": 1706488168,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121801,
+        "num": 121801,
+        "word": "胡锡进强烈期待本周市场再涨一波",
+        "onboard_time": 1706495368,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119871,
+        "num": 119871,
+        "word": "上了几年班终于不年轻了",
+        "onboard_time": 1706487929,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117822,
+        "num": 117822,
+        "word": "银川地震",
+        "onboard_time": 1706483120,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115359,
+        "num": 115359,
+        "word": "安吉都长这么高了",
+        "onboard_time": 1706453013,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113749,
+        "num": 113749,
+        "word": "西安一肉铺门口树上挂千斤腊肠",
+        "onboard_time": 1706490209,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110506,
+        "num": 110506,
+        "word": "预制菜抢占年夜饭餐桌",
+        "onboard_time": 1706494827,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103838,
+        "num": 103838,
+        "word": "红腹锦鸡优雅人设崩了",
+        "onboard_time": 1706492306,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102892,
+        "num": 102892,
+        "word": "张佳宁 切错号",
+        "onboard_time": 1706437288,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96699,
+        "num": 96699,
+        "word": "小猫咪真的是把犟写在脸上的生物",
+        "onboard_time": 1706490029,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96023,
+        "num": 96023,
+        "word": "沈腾为了给岳云鹏道歉干了一瓶白酒",
+        "onboard_time": 1706452113,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94733,
+        "num": 94733,
+        "word": "宋轶新加坡探亲",
+        "onboard_time": 1706450793,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91849,
+        "num": 91849,
+        "word": "男子租宝马后抵押套现21万挥霍",
+        "onboard_time": 1706471596,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88963,
+        "num": 88963,
+        "word": "秦彻正脸",
+        "onboard_time": 1706487689,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87787,
+        "num": 87787,
+        "word": "他走了二十公里来看病",
+        "onboard_time": 1706494707,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83831,
+        "num": 83831,
+        "word": "只要你愿意吃亏就有吃不完的亏",
+        "onboard_time": 1706495308,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神弥足珍贵#"
+    }
+  }
+}
