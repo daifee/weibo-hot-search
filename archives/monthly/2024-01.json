@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706559483898,
+  "endTime": 1706560443015,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -80035,6 +80035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20537,
+      "num": 18660,
+      "word": "毛不易不知道秦岚是东北人",
+      "onboard_time": 1706558236,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20332,
       "num": 20332,
       "word": "ITZY新歌MV公开",
@@ -80161,14 +80169,6 @@
       "onboard_time": 1705348033,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18592,
-      "num": 18592,
-      "word": "毛不易不知道秦岚是东北人",
-      "onboard_time": 1706558236,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 18397,

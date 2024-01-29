@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706559483898,
+  "endTime": 1706560443015,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -459,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20537,
+      "num": 18660,
+      "word": "毛不易不知道秦岚是东北人",
+      "onboard_time": 1706558236,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18841,
       "num": 18841,
       "word": "林允耳环好大",
       "onboard_time": 1706554398,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18592,
-      "num": 18592,
-      "word": "毛不易不知道秦岚是东北人",
-      "onboard_time": 1706558236,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 13482,
