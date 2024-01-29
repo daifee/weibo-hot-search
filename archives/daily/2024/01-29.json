@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706509316890,
+  "endTime": 1706510031698,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440929,
+      "num": 440929,
+      "word": "A股创业板指跌超3%",
+      "onboard_time": 1706508747,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 436094,
       "num": 436094,
       "word": "花少5豆瓣评分上涨至8.9",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385144,
+      "num": 385144,
+      "word": "90后宝妈克服恐惧当寿衣模特带货",
+      "onboard_time": 1706505928,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379281,
       "num": 379281,
       "word": "范丞丞背后抱卢昱晓路透",
@@ -427,28 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355676,
+      "num": 355676,
+      "word": "远嫁女子过年想回娘家遭公公扇耳光",
+      "onboard_time": 1706506889,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349787,
       "num": 349787,
       "word": "内娱杂志销量排行",
       "onboard_time": 1706456731,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347714,
-      "num": 347714,
-      "word": "90后宝妈克服恐惧当寿衣模特带货",
-      "onboard_time": 1706505928,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342213,
-      "num": 342213,
-      "word": "远嫁女子过年想回娘家遭公公扇耳光",
-      "onboard_time": 1706506889,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341731,
@@ -467,14 +475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 336293,
-      "num": 336293,
-      "word": "A股创业板指跌超3%",
-      "onboard_time": 1706508747,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 330306,
       "num": 330306,
       "word": "KPOP纯元",
@@ -483,8 +483,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326782,
-      "num": 326782,
+      "raw_hot": 327258,
+      "num": 327258,
       "word": "准女婿上门送年礼带了几十箱礼物",
       "onboard_time": 1706504733,
       "rank": 29,
@@ -529,6 +529,14 @@
       "onboard_time": 1706503055,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299071,
+      "num": 261397,
+      "word": "正式被确诊为柿子",
+      "onboard_time": 1706508328,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 294098,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284613,
+      "num": 284613,
+      "word": "陈漫拍的李冰冰",
+      "onboard_time": 1706508927,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278559,
       "num": 278559,
       "word": "时代少年团KFC联名",
@@ -617,6 +633,14 @@
       "onboard_time": 1706504072,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245448,
+      "num": 245448,
+      "word": "周星驰要拍短剧了",
+      "onboard_time": 1706509349,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 242930,
@@ -673,14 +697,6 @@
       "onboard_time": 1706490987,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223018,
-      "num": 223018,
-      "word": "正式被确诊为柿子",
-      "onboard_time": 1706508328,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 221811,
@@ -779,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206372,
+      "num": 206372,
+      "word": "白鹿引导粉丝好真诚",
+      "onboard_time": 1706508991,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204819,
       "num": 204819,
       "word": "蔡徐坤新歌RIDEORDIE",
@@ -787,12 +811,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201067,
-      "num": 201067,
-      "word": "白鹿引导粉丝好真诚",
-      "onboard_time": 1706508991,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 202942,
+      "num": 202942,
+      "word": "创业板",
+      "onboard_time": 1706509050,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 199264,
@@ -865,14 +889,6 @@
       "onboard_time": 1706452113,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181508,
-      "num": 181508,
-      "word": "创业板",
-      "onboard_time": 1706509050,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 180987,
@@ -987,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160200,
+      "num": 160200,
+      "word": "暖暖唱评弹",
+      "onboard_time": 1706508991,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159272,
       "num": 159272,
       "word": "韩庚回忆出道时被迫停演",
@@ -1011,12 +1035,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150914,
-      "num": 150914,
-      "word": "陈漫拍的李冰冰",
-      "onboard_time": 1706508927,
-      "rank": 34,
+      "raw_hot": 154111,
+      "num": 154111,
+      "word": "辛芷蕾复古爆炸头",
+      "onboard_time": 1706509168,
+      "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150562,
+      "num": 150562,
+      "word": "杨晓培至暗时刻 且试天下千古玦尘",
+      "onboard_time": 1706509769,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 149956,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1706507071,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148161,
-      "num": 148161,
-      "word": "辛芷蕾复古爆炸头",
-      "onboard_time": 1706509168,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146675,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1706506949,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136328,
+      "num": 136328,
+      "word": "在暴雪时分之我是真有一个朋友",
+      "onboard_time": 1706508810,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 135971,
@@ -1131,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124940,
-      "num": 124940,
-      "word": "在暴雪时分之我是真有一个朋友",
-      "onboard_time": 1706508810,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1706492609,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 123287,
-      "num": 123287,
-      "word": "暖暖唱评弹",
-      "onboard_time": 1706508991,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 122286,
@@ -1379,6 +1395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 102253,
+      "num": 102253,
+      "word": "玻璃纤维",
+      "onboard_time": 1706510007,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "郑思维摔坏奖杯黄雅琼忙拍照",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1706454993,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84551,
+      "num": 181322,
+      "word": "中国蓝天仪仗队再出国门",
+      "onboard_time": 1706509649,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83831,
