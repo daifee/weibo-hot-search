@@ -1,7 +1,15 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706493882520,
+  "endTime": 1706494940305,
   "band_list": [
+    {
+      "raw_hot": 1592706,
+      "num": 1592706,
+      "word": "得州与美政府武装对峙",
+      "onboard_time": 1706492247,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1513224,
       "num": 1513224,
@@ -19,14 +27,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1427743,
-      "num": 1427743,
-      "word": "得州与美政府武装对峙",
-      "onboard_time": 1706492247,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1318101,
       "num": 1318101,
       "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
@@ -35,12 +35,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 850623,
-      "num": 850623,
+      "raw_hot": 1182799,
+      "num": 1182799,
       "word": "我国女性HPV感染率呈双峰分布",
       "onboard_time": 1706492367,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 816091,
+      "num": 816091,
+      "word": "本周日调休上班",
+      "onboard_time": 1706492069,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811476,
@@ -49,14 +57,6 @@
       "onboard_time": 1706454993,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787198,
-      "num": 787198,
-      "word": "本周日调休上班",
-      "onboard_time": 1706492069,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751429,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289488,
+      "num": 289488,
+      "word": "蒙面倪妮",
+      "onboard_time": 1706492847,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288532,
       "num": 288532,
       "word": "外卖中的微塑料两小时就可进入大脑",
@@ -265,6 +273,14 @@
       "onboard_time": 1706446352,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281704,
+      "num": 281704,
+      "word": "A股",
+      "onboard_time": 1706492726,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 278530,
@@ -283,28 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255167,
-      "num": 255167,
-      "word": "蒙面倪妮",
-      "onboard_time": 1706492847,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242930,
       "num": 242930,
       "word": "曝高迪跳平台将赔款4亿",
       "onboard_time": 1706485526,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 241321,
-      "num": 241321,
-      "word": "A股",
-      "onboard_time": 1706492726,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 237497,
@@ -363,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208830,
+      "num": 208830,
+      "word": "古茗携手天官赐福",
+      "onboard_time": 1706494406,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 204264,
+      "num": 204264,
+      "word": "自称桐岛聪男子在医院死亡",
+      "onboard_time": 1706491647,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197167,
       "num": 197167,
       "word": "胡歌回应为何常在西藏青海被偶遇",
@@ -371,12 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193609,
-      "num": 193609,
-      "word": "自称桐岛聪男子在医院死亡",
-      "onboard_time": 1706491647,
-      "rank": 44,
+      "raw_hot": 194144,
+      "num": 194144,
+      "word": "6天班",
+      "onboard_time": 1706494467,
+      "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "消除emo的电话4008000088",
+      "onboard_time": 1706490809,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 181948,
@@ -427,12 +451,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 173170,
-      "num": 173170,
-      "word": "消除emo的电话4008000088",
-      "onboard_time": 1706490809,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 171433,
+      "num": 139649,
+      "word": "拜登回应美军基地遭袭",
+      "onboard_time": 1706493927,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 169918,
@@ -488,6 +512,14 @@
       "word": "女子称使用10年微信无故被封",
       "onboard_time": 1706441847,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "侮辱罪与传播淫秽物品罪",
+      "onboard_time": 1706494526,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -561,6 +593,14 @@
       "onboard_time": 1706455951,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117677,
+      "num": 117677,
+      "word": "红腹锦鸡优雅人设崩了",
+      "onboard_time": 1706492306,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116120,
@@ -643,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97776,
-      "num": 97776,
-      "word": "红腹锦鸡优雅人设崩了",
-      "onboard_time": 1706492306,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96132,
       "num": 96132,
       "word": "用回现金的年轻人终于攒下钱了",
@@ -707,12 +739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87884,
+      "num": 87884,
+      "word": "预制菜抢占年夜饭餐桌",
+      "onboard_time": 1706494827,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 86756,
       "num": 86756,
       "word": "春晚 CP大聚会",
       "onboard_time": 1706444309,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86290,
+      "num": 86290,
+      "word": "他走了二十公里来看病",
+      "onboard_time": 1706494707,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 85800,

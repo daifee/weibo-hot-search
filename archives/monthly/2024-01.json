@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706493882520,
+  "endTime": 1706494940305,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2251,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592706,
+      "num": 1592706,
+      "word": "得州与美政府武装对峙",
+      "onboard_time": 1706492247,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1591708,
       "num": 1591708,
       "word": "0713央视春晚彩排",
@@ -2952,14 +2960,6 @@
       "word": "朝鲜废除祖国和平统一委员会",
       "onboard_time": 1705361723,
       "rank": 8,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 1427743,
-      "num": 1427743,
-      "word": "得州与美政府武装对峙",
-      "onboard_time": 1706492247,
-      "rank": 1,
       "category": "国外时政"
     },
     {
@@ -4417,6 +4417,14 @@
       "onboard_time": 1704299007,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1182799,
+      "num": 1182799,
+      "word": "我国女性HPV感染率呈双峰分布",
+      "onboard_time": 1706492367,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1182575,
@@ -7979,14 +7987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 850623,
-      "num": 850623,
-      "word": "我国女性HPV感染率呈双峰分布",
-      "onboard_time": 1706492367,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 850281,
       "num": 850281,
       "word": "有多囊卵巢综合征女性会出现爆痘",
@@ -8616,6 +8616,14 @@
       "word": "女儿接农村妈妈进城3个月后变化惊人",
       "onboard_time": 1705826785,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 816091,
+      "num": 816091,
+      "word": "本周日调休上班",
+      "onboard_time": 1706492069,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -9257,14 +9265,6 @@
       "onboard_time": 1706147129,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 787198,
-      "num": 787198,
-      "word": "本周日调休上班",
-      "onboard_time": 1706492069,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787142,
@@ -30067,6 +30067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289488,
+      "num": 289488,
+      "word": "蒙面倪妮",
+      "onboard_time": 1706492847,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289397,
       "num": 289397,
       "word": "赵丽颖诗意为河北打call",
@@ -33561,14 +33569,6 @@
       "onboard_time": 1705795040,
       "rank": 14,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 255167,
-      "num": 255167,
-      "word": "蒙面倪妮",
-      "onboard_time": 1706492847,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 255087,
@@ -40747,6 +40747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208830,
+      "num": 208830,
+      "word": "古茗携手天官赐福",
+      "onboard_time": 1706494406,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208677,
       "num": 208677,
       "word": "山西省考公告",
@@ -41833,6 +41841,14 @@
       "onboard_time": 1705847492,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204264,
+      "num": 204264,
+      "word": "自称桐岛聪男子在医院死亡",
+      "onboard_time": 1706491647,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204248,
@@ -44891,6 +44907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194144,
+      "num": 194144,
+      "word": "6天班",
+      "onboard_time": 1706494467,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194036,
       "num": 316166,
       "word": "支付宝公布五福新玩法",
@@ -45009,14 +45033,6 @@
       "onboard_time": 1705494331,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193609,
-      "num": 193609,
-      "word": "自称桐岛聪男子在医院死亡",
-      "onboard_time": 1706491647,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193558,
@@ -47129,6 +47145,14 @@
       "onboard_time": 1706168311,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "消除emo的电话4008000088",
+      "onboard_time": 1706490809,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 186148,
@@ -50731,14 +50755,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 173170,
-      "num": 173170,
-      "word": "消除emo的电话4008000088",
-      "onboard_time": 1706490809,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173112,
       "num": 173112,
       "word": "玩具螃蟹 当初就该烂在厂里",
@@ -51257,6 +51273,14 @@
       "onboard_time": 1704098678,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171433,
+      "num": 139649,
+      "word": "拜登回应美军基地遭袭",
+      "onboard_time": 1706493927,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 171412,
@@ -63275,6 +63299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "侮辱罪与传播淫秽物品罪",
+      "onboard_time": 1706494526,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131517,
       "num": 131517,
       "word": "恩比德三节59分",
@@ -67747,6 +67779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117677,
+      "num": 117677,
+      "word": "红腹锦鸡优雅人设崩了",
+      "onboard_time": 1706492306,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117668,
       "num": 117668,
       "word": "明天三九第1天",
@@ -71731,14 +71771,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 97776,
-      "num": 97776,
-      "word": "红腹锦鸡优雅人设崩了",
-      "onboard_time": 1706492306,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97731,
       "num": 97731,
       "word": "哪项运动更减龄",
@@ -73027,6 +73059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 87884,
+      "num": 87884,
+      "word": "预制菜抢占年夜饭餐桌",
+      "onboard_time": 1706494827,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 87855,
       "num": 87855,
       "word": "洗澡对于广东人来说是解冻",
@@ -73129,6 +73169,14 @@
       "onboard_time": 1706078848,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86290,
+      "num": 86290,
+      "word": "他走了二十公里来看病",
+      "onboard_time": 1706494707,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 86279,

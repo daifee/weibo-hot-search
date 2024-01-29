@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706493882520,
+  "endTime": 1706494940305,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592706,
+      "num": 1592706,
+      "word": "得州与美政府武装对峙",
+      "onboard_time": 1706492247,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1513224,
       "num": 1513224,
       "word": "支付宝五福",
@@ -65,14 +73,6 @@
       "onboard_time": 1706485766,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1427743,
-      "num": 1427743,
-      "word": "得州与美政府武装对峙",
-      "onboard_time": 1706492247,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1385766,
@@ -121,6 +121,14 @@
       "onboard_time": 1706398941,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1182799,
+      "num": 1182799,
+      "word": "我国女性HPV感染率呈双峰分布",
+      "onboard_time": 1706492367,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1182575,
@@ -259,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 850623,
-      "num": 850623,
-      "word": "我国女性HPV感染率呈双峰分布",
-      "onboard_time": 1706492367,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 829126,
       "num": 829126,
       "word": "一念关山收视率飞升",
@@ -299,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816091,
+      "num": 816091,
+      "word": "本周日调休上班",
+      "onboard_time": 1706492069,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811476,
       "num": 811476,
       "word": "李湘辟谣1560元出售二手毛巾",
       "onboard_time": 1706454993,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787198,
-      "num": 787198,
-      "word": "本周日调休上班",
-      "onboard_time": 1706492069,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 739223,
@@ -1187,12 +1187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289488,
+      "num": 289488,
+      "word": "蒙面倪妮",
+      "onboard_time": 1706492847,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288532,
       "num": 288532,
       "word": "外卖中的微塑料两小时就可进入大脑",
       "onboard_time": 1706487988,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 281704,
+      "num": 281704,
+      "word": "A股",
+      "onboard_time": 1706492726,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 281544,
@@ -1299,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255167,
-      "num": 255167,
-      "word": "蒙面倪妮",
-      "onboard_time": 1706492847,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253843,
       "num": 253843,
       "word": "央视曝回流医保药洗白过程",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1706485526,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 241321,
-      "num": 241321,
-      "word": "A股",
-      "onboard_time": 1706492726,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 237497,
@@ -1579,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208830,
+      "num": 208830,
+      "word": "古茗携手天官赐福",
+      "onboard_time": 1706494406,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208650,
       "num": 208650,
       "word": "刘谦龙年央视春晚第三次联排",
@@ -1624,6 +1632,14 @@
       "word": "网购三辆叉车收到一颗螺丝",
       "onboard_time": 1706422168,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204264,
+      "num": 204264,
+      "word": "自称桐岛聪男子在医院死亡",
+      "onboard_time": 1706491647,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1763,11 +1779,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193609,
-      "num": 193609,
-      "word": "自称桐岛聪男子在医院死亡",
-      "onboard_time": 1706491647,
-      "rank": 44,
+      "raw_hot": 194144,
+      "num": 194144,
+      "word": "6天班",
+      "onboard_time": 1706494467,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1792,6 +1808,14 @@
       "word": "为什么情侣可以有隐私但不能有秘密",
       "onboard_time": 1706397440,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "消除emo的电话4008000088",
+      "onboard_time": 1706490809,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -1899,14 +1923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 173170,
-      "num": 173170,
-      "word": "消除emo的电话4008000088",
-      "onboard_time": 1706490809,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173018,
       "num": 173018,
       "word": "驾校教练本科竟然是学法学的",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1706402427,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171433,
+      "num": 139649,
+      "word": "拜登回应美军基地遭袭",
+      "onboard_time": 1706493927,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 169918,
@@ -2419,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "侮辱罪与传播淫秽物品罪",
+      "onboard_time": 1706494526,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131461,
       "num": 131461,
       "word": "上海图书馆一把躺椅数万元",
@@ -2696,6 +2728,14 @@
       "word": "杭漂的年轻人熬不住了",
       "onboard_time": 1706412208,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117677,
+      "num": 117677,
+      "word": "红腹锦鸡优雅人设崩了",
+      "onboard_time": 1706492306,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3131,14 +3171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97776,
-      "num": 97776,
-      "word": "红腹锦鸡优雅人设崩了",
-      "onboard_time": 1706492306,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "JDG战胜RA",
@@ -3323,6 +3355,14 @@
       "category": "科学科普,艺人"
     },
     {
+      "raw_hot": 87884,
+      "num": 87884,
+      "word": "预制菜抢占年夜饭餐桌",
+      "onboard_time": 1706494827,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 86980,
       "num": 86980,
       "word": "张远和粉丝鞠躬",
@@ -3345,6 +3385,14 @@
       "onboard_time": 1706361090,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86290,
+      "num": 86290,
+      "word": "他走了二十公里来看病",
+      "onboard_time": 1706494707,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 85636,

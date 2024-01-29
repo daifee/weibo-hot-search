@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/29 10:04:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/29 10:22:20
 </p>
 </blockquote>
 <p>
@@ -1701,6 +1701,12 @@ A股大跌（热度：1655577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%B7%9E%E4%B8%8E%E7%BE%8E%E6%94%BF%E5%BA%9C%E6%AD%A6%E8%A3%85%E5%AF%B9%E5%B3%99%23" target="weibo">
+得州与美政府武装对峙（热度：1592706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23" target="weibo">
 0713央视春晚彩排（热度：1591708）
 </a>
@@ -1805,12 +1811,6 @@ papi酱产后四个月去面试繁花（热度：1583697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
 江疏影（热度：1548336）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E7%8A%B6%E6%80%81%23" target="weibo">
-孙俪状态（热度：1547091）
 </a>
 </li>
 

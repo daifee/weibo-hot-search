@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/29 10:04:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/29 10:22:20
 </p>
 </blockquote>
 <p>
@@ -1701,6 +1701,12 @@ A股大跌（热度：1655577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%B7%9E%E4%B8%8E%E7%BE%8E%E6%94%BF%E5%BA%9C%E6%AD%A6%E8%A3%85%E5%AF%B9%E5%B3%99%23" target="weibo">
+得州与美政府武装对峙（热度：1592706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230713%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23" target="weibo">
 0713央视春晚彩排（热度：1591708）
 </a>
@@ -2225,12 +2231,6 @@ C罗不满中国行主办方（热度：1464904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%BA%9F%E9%99%A4%E7%A5%96%E5%9B%BD%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E5%A7%94%E5%91%98%E4%BC%9A%23" target="weibo">
 朝鲜废除祖国和平统一委员会（热度：1427973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%B7%9E%E4%B8%8E%E7%BE%8E%E6%94%BF%E5%BA%9C%E6%AD%A6%E8%A3%85%E5%AF%B9%E5%B3%99%23" target="weibo">
-得州与美政府武装对峙（热度：1427743）
 </a>
 </li>
 
@@ -3323,6 +3323,12 @@ A先生说辛芷蕾本人很漂亮（热度：1194844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23" target="weibo">
 哈尔滨为小土豆连夜撤下破旧公交牌（热度：1184813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%A5%B3%E6%80%A7HPV%E6%84%9F%E6%9F%93%E7%8E%87%E5%91%88%E5%8F%8C%E5%B3%B0%E5%88%86%E5%B8%83%23" target="weibo">
+我国女性HPV感染率呈双峰分布（热度：1182799）
 </a>
 </li>
 
@@ -5993,12 +5999,6 @@ TVB前主播柳俊江因屋内烧炭身亡（热度：852019）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E8%83%A1%E6%AD%8C%E6%B4%BB%E5%88%B0%E7%8E%B0%E5%9C%A8%E7%9C%9F%E6%98%AF%E5%A5%87%E8%BF%B9%23" target="weibo">
 刘涛 胡歌活到现在真是奇迹（热度：850688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%A5%B3%E6%80%A7HPV%E6%84%9F%E6%9F%93%E7%8E%87%E5%91%88%E5%8F%8C%E5%B3%B0%E5%88%86%E5%B8%83%23" target="weibo">
-我国女性HPV感染率呈双峰分布（热度：850623）
 </a>
 </li>
 
