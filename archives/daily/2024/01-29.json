@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706502015690,
+  "endTime": 1706502835389,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -59,24 +59,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1157788,
-      "num": 1157788,
+      "raw_hot": 1309832,
+      "num": 1309832,
       "word": "两个14岁的上海女学生的采访",
       "onboard_time": 1706496027,
       "rank": 4,
       "category": "情感"
     },
     {
-      "raw_hot": 1007028,
-      "num": 1007028,
+      "raw_hot": 1256196,
+      "num": 1256196,
       "word": "男子举报纪委干部40分钟后就被抓",
       "onboard_time": 1706499148,
       "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 950824,
-      "num": 950824,
+      "raw_hot": 984296,
+      "num": 984296,
       "word": "肉马尔",
       "onboard_time": 1706499873,
       "rank": 6,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 879532,
-      "num": 502567,
+      "num": 621094,
       "word": "网友称陈牧驰扔了粉丝送的礼物",
       "onboard_time": 1706498130,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 816176,
+      "num": 816176,
+      "word": "恋与制作人 求婚",
+      "onboard_time": 1706500893,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 816091,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635665,
+      "num": 635665,
+      "word": "嬛嬛 朕出专辑啦",
+      "onboard_time": 1706499571,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611119,
       "num": 611119,
       "word": "专家称猫打不过猴只能服从",
@@ -171,20 +187,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 597905,
+      "num": 597905,
+      "word": "格力年会现我妈就是董明珠",
+      "onboard_time": 1706500172,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 579832,
       "num": 579832,
       "word": "银川地震",
       "onboard_time": 1706483120,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565880,
-      "num": 565880,
-      "word": "嬛嬛 朕出专辑啦",
-      "onboard_time": 1706499571,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 554236,
@@ -211,28 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511701,
-      "num": 511701,
-      "word": "恋与制作人 求婚",
-      "onboard_time": 1706500893,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 487759,
       "num": 487759,
       "word": "花花和它一米八的长腿妹妹",
       "onboard_time": 1706484863,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478295,
-      "num": 478295,
-      "word": "格力年会现我妈就是董明珠",
-      "onboard_time": 1706500172,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 465614,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293153,
+      "num": 293153,
+      "word": "恋与深空辟谣秦彻",
+      "onboard_time": 1706502091,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291311,
       "num": 291311,
       "word": "蒙面倪妮",
@@ -483,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242974,
+      "num": 242974,
+      "word": "NewJeans宿舍条件",
+      "onboard_time": 1706502391,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242930,
       "num": 242930,
       "word": "曝高迪跳平台将赔款4亿",
@@ -529,6 +545,14 @@
       "onboard_time": 1706452113,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228645,
+      "num": 228645,
+      "word": "KPOP纯元",
+      "onboard_time": 1706502333,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 227255,
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209711,
+      "num": 209711,
+      "word": "王一博随地打网球",
+      "onboard_time": 1706501970,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207607,
       "num": 207607,
       "word": "世界之外流水超原神",
@@ -633,6 +665,14 @@
       "onboard_time": 1706490809,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185556,
+      "num": 185556,
+      "word": "IU金泰亨CP感",
+      "onboard_time": 1706501553,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 184433,
@@ -683,12 +723,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 175866,
-      "num": 175866,
-      "word": "IU金泰亨CP感",
-      "onboard_time": 1706501553,
+      "raw_hot": 175717,
+      "num": 175717,
+      "word": "恋与深空预告呢",
+      "onboard_time": 1706502575,
       "rank": 31,
-      "category": "艺人"
+      "category": "游戏"
     },
     {
       "raw_hot": 173190,
@@ -707,11 +747,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 170294,
+      "num": 170294,
+      "word": "如果一个人能协调好全家旅游且都满意",
+      "onboard_time": 1706501431,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169918,
       "num": 169918,
       "word": "昆明动物园2只猫咪住进新家啦",
       "onboard_time": 1706484443,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167607,
+      "num": 167607,
+      "word": "24年间鸿星尔克经历过四次生死存亡",
+      "onboard_time": 1706501793,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -721,6 +777,14 @@
       "onboard_time": 1706496147,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164387,
+      "num": 164387,
+      "word": "大生意人 陈晓朱亚文",
+      "onboard_time": 1706501250,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 162270,
@@ -779,8 +843,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139807,
-      "num": 139807,
+      "raw_hot": 140311,
+      "num": 140311,
       "word": "杜兰特不希望被篮网致敬",
       "onboard_time": 1706499991,
       "rank": 38,
@@ -795,27 +859,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135474,
-      "num": 135474,
-      "word": "如果一个人能协调好全家旅游且都满意",
-      "onboard_time": 1706501431,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 135107,
-      "num": 135107,
-      "word": "大生意人 陈晓朱亚文",
-      "onboard_time": 1706501250,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "布克又空砍了",
       "onboard_time": 1706497048,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "高德打车崩了",
+      "onboard_time": 1706502211,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 129169,
+      "num": 129169,
+      "word": "陈戌源",
+      "onboard_time": 1706502753,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -844,7 +908,7 @@
     },
     {
       "raw_hot": 124187,
-      "num": 455913,
+      "num": 608568,
       "word": "天官赐福红包",
       "onboard_time": 1706499391,
       "rank": 12,
@@ -955,28 +1019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115335,
-      "num": 115335,
-      "word": "24年间鸿星尔克经历过四次生死存亡",
-      "onboard_time": 1706501793,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114977,
       "num": 114977,
       "word": "劳力士二手市场跳水",
       "onboard_time": 1706489970,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 114092,
-      "num": 114092,
-      "word": "王一博随地打网球",
-      "onboard_time": 1706501970,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 113587,
@@ -1403,7 +1451,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14432,
+      "raw_hot": 15280,
       "num": 1483446,
       "word": "何以中国向海泉州",
       "onboard_time": 1706276130,
