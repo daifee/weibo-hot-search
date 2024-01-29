@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706531453814,
+  "endTime": 1706532327799,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -803,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2269160,
+      "num": 563696,
+      "word": "上海松江",
+      "onboard_time": 1706529090,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2261525,
       "num": 511451,
       "word": "迪丽热巴吴磊同台 歌隼批圆满",
@@ -1184,14 +1192,6 @@
       "word": "美警方称杀妻中国工程师高度残忍",
       "onboard_time": 1705743325,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2018491,
-      "num": 563696,
-      "word": "上海松江",
-      "onboard_time": 1706529090,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2499,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1540354,
+      "num": 1540354,
+      "word": "宋祖儿",
+      "onboard_time": 1706530772,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1537077,
       "num": 1537077,
       "word": "王家卫希望胡歌找回演李逍遥的感觉",
@@ -3395,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1361215,
+      "num": 1361215,
+      "word": "花少节目组超重费花了20多万",
+      "onboard_time": 1706529930,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1360274,
       "num": 1360274,
       "word": "尹锡悦回应李在明遇袭",
@@ -3905,6 +3921,14 @@
       "onboard_time": 1706188473,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1269616,
+      "num": 1269616,
+      "word": "恶心穿搭",
+      "onboard_time": 1706530050,
+      "rank": 3,
+      "category": "时尚"
     },
     {
       "raw_hot": 1268870,
@@ -4937,14 +4961,6 @@
       "onboard_time": 1706256871,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1138794,
-      "num": 1138794,
-      "word": "花少节目组超重费花了20多万",
-      "onboard_time": 1706529930,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1134720,
@@ -7699,14 +7715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 881578,
-      "num": 881578,
-      "word": "恶心穿搭",
-      "onboard_time": 1706530050,
-      "rank": 3,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 881560,
       "num": 881560,
       "word": "江西新余致39死火灾原因",
@@ -9049,14 +9057,6 @@
       "onboard_time": 1704635614,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 803800,
-      "num": 635011,
-      "word": "宋祖儿",
-      "onboard_time": 1706530772,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 803497,
@@ -11953,6 +11953,14 @@
       "onboard_time": 1704627333,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680317,
+      "num": 680317,
+      "word": "韩庚曾曝被SM公司区别对待",
+      "onboard_time": 1706530291,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 680131,
@@ -15105,14 +15113,6 @@
       "onboard_time": 1705046427,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577777,
-      "num": 577777,
-      "word": "韩庚曾曝被SM公司区别对待",
-      "onboard_time": 1706530291,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 577684,
@@ -20307,6 +20307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458394,
+      "num": 458394,
+      "word": "易烊千玺新闻联播镜头",
+      "onboard_time": 1706531914,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458243,
       "num": 458243,
       "word": "男子做出会下雨的伞救活一个厂",
@@ -22241,6 +22249,14 @@
       "onboard_time": 1706527891,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 418435,
+      "num": 418435,
+      "word": "香港偶遇宋轶文咏珊逛街",
+      "onboard_time": 1706531432,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 418419,
@@ -26209,6 +26225,14 @@
       "onboard_time": 1704076895,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351682,
+      "num": 351682,
+      "word": "虞书欣痛失真名",
+      "onboard_time": 1706530654,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 351603,
@@ -30313,14 +30337,6 @@
       "onboard_time": 1705137767,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 294679,
-      "num": 294679,
-      "word": "虞书欣痛失真名",
-      "onboard_time": 1706530654,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 294559,
@@ -36603,6 +36619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236916,
+      "num": 236916,
+      "word": "花少冰岛帽子店口碑翻车",
+      "onboard_time": 1706530534,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236902,
       "num": 236902,
       "word": "广州地铁",
@@ -42347,6 +42371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205548,
+      "num": 205548,
+      "word": "金莎cos18岁的蓝菲琳",
+      "onboard_time": 1706530233,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205451,
       "num": 196610,
       "word": "给鼠鼠当了10分钟坐骑",
@@ -44139,6 +44171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199850,
+      "num": 199850,
+      "word": "六公主春节首播封神第一部",
+      "onboard_time": 1706528370,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199789,
       "num": 199789,
       "word": "Mac客服回应口红广告疑擦边",
@@ -44193,14 +44233,6 @@
       "onboard_time": 1704509728,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199618,
-      "num": 199618,
-      "word": "花少冰岛帽子店口碑翻车",
-      "onboard_time": 1706530534,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 199606,
@@ -47377,6 +47409,14 @@
       "onboard_time": 1706169571,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189093,
+      "num": 183399,
+      "word": "要久久爱开虐",
+      "onboard_time": 1706531252,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 189089,
@@ -50739,14 +50779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176910,
-      "num": 176910,
-      "word": "金莎cos18岁的蓝菲琳",
-      "onboard_time": 1706530233,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 176905,
       "num": 176905,
       "word": "胡歌繁花同款西装定制电话打爆了",
@@ -50857,14 +50889,6 @@
       "onboard_time": 1705742368,
       "rank": 39,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 176302,
-      "num": 176302,
-      "word": "六公主春节首播封神第一部",
-      "onboard_time": 1706528370,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 176207,
@@ -66971,14 +66995,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 125222,
-      "num": 125222,
-      "word": "要久久爱开虐",
-      "onboard_time": 1706531252,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125221,
       "num": 125221,
       "word": "郑钦文vs王雅繁",
@@ -68729,6 +68745,14 @@
       "onboard_time": 1705310729,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119442,
+      "num": 119442,
+      "word": "护理学久了何尝不是个好演员",
+      "onboard_time": 1706532092,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 119405,
@@ -70931,6 +70955,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "陆沉 出差结束",
+      "onboard_time": 1706531310,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110506,
       "num": 110506,
       "word": "预制菜抢占年夜饭餐桌",
@@ -70953,14 +70985,6 @@
       "onboard_time": 1704624874,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110406,
-      "num": 110406,
-      "word": "香港偶遇宋轶文咏珊逛街",
-      "onboard_time": 1706531432,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 110384,
@@ -72043,6 +72067,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 105275,
+      "num": 1313926,
+      "word": "中央网信办专项整治春节网络6方面问题",
+      "onboard_time": 1706525312,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105169,
       "num": 105169,
       "word": "日经225指数突破34000点",
@@ -72169,14 +72201,6 @@
       "onboard_time": 1704882753,
       "rank": 45,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 104602,
-      "num": 104602,
-      "word": "陆沉 出差结束",
-      "onboard_time": 1706531310,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 104561,
@@ -73779,14 +73803,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 95833,
-      "num": 1108939,
-      "word": "中央网信办专项整治春节网络6方面问题",
-      "onboard_time": 1706525312,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 95795,
       "num": 95795,
       "word": "詹姆斯库里商业互吹",
@@ -73897,6 +73913,14 @@
       "onboard_time": 1706413829,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95269,
+      "num": 95269,
+      "word": "用1整只羊包1000个蒙古肉包子",
+      "onboard_time": 1706532211,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 95232,
@@ -75689,6 +75713,14 @@
       "onboard_time": 1706400687,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 75201,
+      "num": 95250,
+      "word": "新疆托克逊县3.1级地震",
+      "onboard_time": 1706531914,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75097,

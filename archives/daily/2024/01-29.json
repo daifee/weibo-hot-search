@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706531453814,
+  "endTime": 1706532327799,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2269160,
+      "num": 563696,
+      "word": "上海松江",
+      "onboard_time": 1706529090,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2152520,
       "num": 2152520,
       "word": "下个月工资里或将增加这笔收入",
       "onboard_time": 1706503172,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2018491,
-      "num": 563696,
-      "word": "上海松江",
-      "onboard_time": 1706529090,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -67,6 +67,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1540354,
+      "num": 1540354,
+      "word": "宋祖儿",
+      "onboard_time": 1706530772,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1534452,
       "num": 788903,
       "word": "订婚强奸案男子起诉女方要求结婚",
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1361215,
+      "num": 1361215,
+      "word": "花少节目组超重费花了20多万",
+      "onboard_time": 1706529930,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1318101,
       "num": 1318101,
       "word": "曝周迅赵丽颖杨紫争演张艺谋新剧",
@@ -123,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1269616,
+      "num": 1269616,
+      "word": "恶心穿搭",
+      "onboard_time": 1706530050,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1256196,
       "num": 1256196,
       "word": "男子举报纪委干部40分钟后就被抓",
@@ -137,14 +161,6 @@
       "onboard_time": 1706516611,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1138794,
-      "num": 1138794,
-      "word": "花少节目组超重费花了20多万",
-      "onboard_time": 1706529930,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1096063,
@@ -203,14 +219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 881578,
-      "num": 881578,
-      "word": "恶心穿搭",
-      "onboard_time": 1706530050,
-      "rank": 3,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 879532,
       "num": 621094,
       "word": "网友称陈牧驰扔了粉丝送的礼物",
@@ -249,14 +257,6 @@
       "onboard_time": 1706454993,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803800,
-      "num": 635011,
-      "word": "宋祖儿",
-      "onboard_time": 1706530772,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 802809,
@@ -337,6 +337,14 @@
       "onboard_time": 1706520510,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 680317,
+      "num": 680317,
+      "word": "韩庚曾曝被SM公司区别对待",
+      "onboard_time": 1706530291,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 674461,
@@ -433,14 +441,6 @@
       "onboard_time": 1706483120,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577777,
-      "num": 577777,
-      "word": "韩庚曾曝被SM公司区别对待",
-      "onboard_time": 1706530291,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 560451,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458394,
+      "num": 458394,
+      "word": "易烊千玺新闻联播镜头",
+      "onboard_time": 1706531914,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453950,
       "num": 453950,
       "word": "孙红雷回应黄渤张艺兴不带自己玩",
@@ -657,6 +665,14 @@
       "onboard_time": 1706527891,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 418435,
+      "num": 418435,
+      "word": "香港偶遇宋轶文咏珊逛街",
+      "onboard_time": 1706531432,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 417362,
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351682,
+      "num": 351682,
+      "word": "虞书欣痛失真名",
+      "onboard_time": 1706530654,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349787,
       "num": 349787,
       "word": "内娱杂志销量排行",
@@ -979,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294679,
-      "num": 294679,
-      "word": "虞书欣痛失真名",
-      "onboard_time": 1706530654,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294098,
       "num": 257957,
       "word": "赵丽颖红妆写真",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1706488590,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236916,
+      "num": 236916,
+      "word": "花少冰岛帽子店口碑翻车",
+      "onboard_time": 1706530534,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 235166,
@@ -1331,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205548,
+      "num": 205548,
+      "word": "金莎cos18岁的蓝菲琳",
+      "onboard_time": 1706530233,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204819,
       "num": 204819,
       "word": "蔡徐坤新歌RIDEORDIE",
@@ -1363,12 +1395,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 199618,
-      "num": 199618,
-      "word": "花少冰岛帽子店口碑翻车",
-      "onboard_time": 1706530534,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 199850,
+      "num": 199850,
+      "word": "六公主春节首播封神第一部",
+      "onboard_time": 1706528370,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 199264,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1706515949,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 189093,
+      "num": 183399,
+      "word": "要久久爱开虐",
+      "onboard_time": 1706531252,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 186171,
@@ -1529,22 +1569,6 @@
       "onboard_time": 1706445091,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 176910,
-      "num": 176910,
-      "word": "金莎cos18岁的蓝菲琳",
-      "onboard_time": 1706530233,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176302,
-      "num": 176302,
-      "word": "六公主春节首播封神第一部",
-      "onboard_time": 1706528370,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 175717,
@@ -1995,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125222,
-      "num": 125222,
-      "word": "要久久爱开虐",
-      "onboard_time": 1706531252,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1706433089,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119442,
+      "num": 119442,
+      "word": "护理学久了何尝不是个好演员",
+      "onboard_time": 1706532092,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 118192,
@@ -2291,20 +2315,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "陆沉 出差结束",
+      "onboard_time": 1706531310,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110506,
       "num": 110506,
       "word": "预制菜抢占年夜饭餐桌",
       "onboard_time": 1706494827,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 110406,
-      "num": 110406,
-      "word": "香港偶遇宋轶文咏珊逛街",
-      "onboard_time": 1706531432,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 109321,
@@ -2339,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105275,
+      "num": 1313926,
+      "word": "中央网信办专项整治春节网络6方面问题",
+      "onboard_time": 1706525312,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104809,
       "num": 104809,
       "word": "得州兵营美军士兵开枪互射",
@@ -2353,14 +2385,6 @@
       "onboard_time": 1706496688,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 104602,
-      "num": 104602,
-      "word": "陆沉 出差结束",
-      "onboard_time": 1706531310,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 101390,
@@ -2427,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95833,
-      "num": 1108939,
-      "word": "中央网信办专项整治春节网络6方面问题",
-      "onboard_time": 1706525312,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 95795,
       "num": 95795,
       "word": "詹姆斯库里商业互吹",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1706485825,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95269,
+      "num": 95269,
+      "word": "用1整只羊包1000个蒙古肉包子",
+      "onboard_time": 1706532211,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 94276,
@@ -2625,6 +2649,14 @@
       "onboard_time": 1706455531,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75201,
+      "num": 95250,
+      "word": "新疆托克逊县3.1级地震",
+      "onboard_time": 1706531914,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74582,
