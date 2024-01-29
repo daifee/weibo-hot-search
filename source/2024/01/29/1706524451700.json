@@ -1,0 +1,410 @@
+{
+  "runTime": 1706524451700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508550,
+        "num": 1508550,
+        "word": "网红宝妈因感冒五天未就医去世",
+        "onboard_time": 1706521528,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166597,
+        "num": 1166597,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8037,
+        "num": 1117009,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080121,
+        "num": 1080121,
+        "word": "难听",
+        "onboard_time": 1706520930,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334204,
+        "num": 975336,
+        "word": "张雪峰为公司员工发放11斤年货",
+        "onboard_time": 1706513971,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963421,
+        "num": 963421,
+        "word": "吴京梦女",
+        "onboard_time": 1706522969,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 282381,
+        "num": 816675,
+        "word": "摊主被打女生帮作证获赠40串关东煮",
+        "onboard_time": 1706521831,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808511,
+        "num": 808511,
+        "word": "免签不是免费",
+        "onboard_time": 1706519069,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 663811,
+        "num": 663811,
+        "word": "昆明2只猫被猴子长期欺负变得很乖",
+        "onboard_time": 1706521110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663520,
+        "num": 663520,
+        "word": "演员张栋梁回来了",
+        "onboard_time": 1706520510,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156889,
+        "num": 657937,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627054,
+        "num": 627054,
+        "word": "恋与制作人你疯啦",
+        "onboard_time": 1706522790,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 540460,
+        "num": 540460,
+        "word": "芦原妃名子去世",
+        "onboard_time": 1706522912,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495071,
+        "num": 495071,
+        "word": "宋雨琦 库伊拉魔女",
+        "onboard_time": 1706522309,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479669,
+        "num": 479669,
+        "word": "恒大",
+        "onboard_time": 1706519250,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469586,
+        "num": 469586,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402885,
+        "num": 402885,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315246,
+        "num": 315246,
+        "word": "Super Lady",
+        "onboard_time": 1706520812,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314646,
+        "num": 314646,
+        "word": "霉霉 我啥也没干",
+        "onboard_time": 1706520750,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310089,
+        "num": 310089,
+        "word": "陈戌源被控受贿8103万余元",
+        "onboard_time": 1706519673,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299359,
+        "num": 299359,
+        "word": "玉米几是什么新梗",
+        "onboard_time": 1706516910,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289231,
+        "num": 289231,
+        "word": "gidle空降",
+        "onboard_time": 1706523691,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285354,
+        "num": 285354,
+        "word": "诺一救救你爹吧",
+        "onboard_time": 1706514329,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279282,
+        "num": 279282,
+        "word": "小伙欠债40万女友陪还4年",
+        "onboard_time": 1706517087,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260538,
+        "num": 260538,
+        "word": "因为朋友圈新工作的offer没了",
+        "onboard_time": 1706510851,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258148,
+        "num": 258148,
+        "word": "papi酱 身兼数职的伴娘",
+        "onboard_time": 1706524111,
+        "rank": 25,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 222718,
+        "num": 222718,
+        "word": "恋与制作人 求婚",
+        "onboard_time": 1706500893,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221715,
+        "num": 221715,
+        "word": "王者终究开始癫了",
+        "onboard_time": 1706521352,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207367,
+        "num": 207367,
+        "word": "胡先煦不愿意上综艺的原因",
+        "onboard_time": 1706514029,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188176,
+        "num": 188176,
+        "word": "肖战迪丽热巴入选中国十大新青年",
+        "onboard_time": 1706507071,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187937,
+        "num": 187937,
+        "word": "gidle回归",
+        "onboard_time": 1706521290,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180074,
+        "num": 180074,
+        "word": "嬛嬛 朕出专辑啦",
+        "onboard_time": 1706499571,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171295,
+        "num": 171295,
+        "word": "订婚强奸案男子起诉女方要求结婚",
+        "onboard_time": 1706512588,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158336,
+        "num": 158336,
+        "word": "素人浪姐",
+        "onboard_time": 1706516731,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155357,
+        "num": 155357,
+        "word": "2024湖南卫视春晚官宣",
+        "onboard_time": 1706517087,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154935,
+        "num": 154935,
+        "word": "张颂文 我努力记住你们的样子",
+        "onboard_time": 1706521471,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147862,
+        "num": 147862,
+        "word": "华晨宇一人把演员导演后期的活都干了",
+        "onboard_time": 1706522428,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144497,
+        "num": 144497,
+        "word": "陈戌源受贿案将择期宣判",
+        "onboard_time": 1706519673,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142944,
+        "num": 142944,
+        "word": "雷佳音腹肌",
+        "onboard_time": 1706523150,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141327,
+        "num": 141327,
+        "word": "釜山世乒赛团体赛国乒赛程",
+        "onboard_time": 1706523991,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139350,
+        "num": 139350,
+        "word": "九天玄女时装",
+        "onboard_time": 1706517990,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136745,
+        "num": 136745,
+        "word": "当亲戚问考研成绩",
+        "onboard_time": 1706523991,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135010,
+        "num": 135010,
+        "word": "吴昕起诉白熊求职侵权",
+        "onboard_time": 1706522912,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131672,
+        "num": 131672,
+        "word": "暴雪再申请魔兽世界商标",
+        "onboard_time": 1706521052,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126161,
+        "num": 126161,
+        "word": "gidle新歌上线",
+        "onboard_time": 1706506111,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121689,
+        "num": 121689,
+        "word": "王鹤棣穿拖鞋逛街",
+        "onboard_time": 1706520990,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117612,
+        "num": 117612,
+        "word": "支付宝五福",
+        "onboard_time": 1706483301,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114727,
+        "num": 114727,
+        "word": "欧洲人第一次喝中国茶是什么反应",
+        "onboard_time": 1706524294,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114693,
+        "num": 114693,
+        "word": "曹县汉服年销70亿元带动10万人就业",
+        "onboard_time": 1706522249,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112997,
+        "num": 112997,
+        "word": "龙图",
+        "onboard_time": 1706523811,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神弥足珍贵#"
+    }
+  }
+}

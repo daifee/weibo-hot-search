@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706523509087,
+  "endTime": 1706524451700,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -107,6 +107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1508550,
+      "num": 1508550,
+      "word": "网红宝妈因感冒五天未就医去世",
+      "onboard_time": 1706521528,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1507076,
       "num": 1507076,
       "word": "10省将出现暴雪或大暴雪",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1290273,
-      "num": 859343,
+      "num": 1080121,
       "word": "难听",
       "onboard_time": 1706520930,
       "rank": 3,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166597,
+      "num": 1166597,
+      "word": "你的快递可能是两岁小孩哥打包的",
+      "onboard_time": 1706516611,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143036,
       "num": 1143036,
       "word": "蒙娜丽莎又遭泼墨了",
@@ -233,14 +249,6 @@
       "onboard_time": 1706519069,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1092966,
-      "num": 1092966,
-      "word": "你的快递可能是两岁小孩哥打包的",
-      "onboard_time": 1706516611,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1063540,
@@ -297,6 +305,14 @@
       "onboard_time": 1706499873,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 963421,
+      "num": 963421,
+      "word": "吴京梦女",
+      "onboard_time": 1706522969,
+      "rank": 16,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 960342,
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 724428,
-      "num": 724428,
-      "word": "网红宝妈因感冒五天未就医去世",
-      "onboard_time": 1706521528,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 719422,
       "num": 252369,
       "word": "人均37元的早餐为何没人买单了",
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663811,
+      "num": 663811,
+      "word": "昆明2只猫被猴子长期欺负变得很乖",
+      "onboard_time": 1706521110,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661222,
       "num": 661222,
       "word": "清华大学教授称人口政策应该回归自由",
@@ -657,6 +673,14 @@
       "onboard_time": 1706515049,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627054,
+      "num": 627054,
+      "word": "恋与制作人你疯啦",
+      "onboard_time": 1706522790,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 622158,
@@ -713,14 +737,6 @@
       "onboard_time": 1706500172,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 595264,
-      "num": 595264,
-      "word": "昆明2只猫被猴子长期欺负变得很乖",
-      "onboard_time": 1706521110,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592520,
@@ -851,6 +867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 540460,
+      "num": 540460,
+      "word": "芦原妃名子去世",
+      "onboard_time": 1706522912,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538992,
       "num": 538992,
       "word": "昆明动物园为什么三发通报才救猫",
@@ -945,6 +969,14 @@
       "onboard_time": 1706412990,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495071,
+      "num": 495071,
+      "word": "宋雨琦 库伊拉魔女",
+      "onboard_time": 1706522309,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 494446,
@@ -1291,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389215,
-      "num": 389215,
-      "word": "吴京梦女",
-      "onboard_time": 1706522969,
-      "rank": 16,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 387227,
       "num": 387227,
       "word": "幻兽帕鲁 抄袭",
@@ -1515,6 +1539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334204,
+      "num": 975336,
+      "word": "张雪峰为公司员工发放11斤年货",
+      "onboard_time": 1706513971,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330306,
       "num": 330306,
       "word": "KPOP纯元",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1706401166,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 324727,
-      "num": 324727,
-      "word": "芦原妃名子去世",
-      "onboard_time": 1706522912,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 319468,
@@ -1587,6 +1611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314646,
+      "num": 314646,
+      "word": "霉霉 我啥也没干",
+      "onboard_time": 1706520750,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314453,
       "num": 210220,
       "word": "苦了陈楚生不能苦了我",
@@ -1611,28 +1643,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 313195,
-      "num": 313195,
-      "word": "宋雨琦 库伊拉魔女",
-      "onboard_time": 1706522309,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 312771,
       "num": 312771,
       "word": "少爷和我阵容",
       "onboard_time": 1706419947,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310290,
-      "num": 789314,
-      "word": "张雪峰为公司员工发放11斤年货",
-      "onboard_time": 1706513971,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310168,
@@ -1689,14 +1705,6 @@
       "onboard_time": 1706420370,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300887,
-      "num": 300887,
-      "word": "霉霉 我啥也没干",
-      "onboard_time": 1706520750,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 299071,
@@ -1779,20 +1787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291999,
-      "num": 291999,
-      "word": "恋与制作人你疯啦",
-      "onboard_time": 1706522790,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 291311,
       "num": 291311,
       "word": "蒙面倪妮",
       "onboard_time": 1706492847,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289231,
+      "num": 289231,
+      "word": "gidle空降",
+      "onboard_time": 1706523691,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 289210,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1706508927,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 282381,
+      "num": 816675,
+      "word": "摊主被打女生帮作证获赠40串关东煮",
+      "onboard_time": 1706521831,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281544,
@@ -1923,14 +1939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 261409,
-      "num": 689336,
-      "word": "摊主被打女生帮作证获赠40串关东煮",
-      "onboard_time": 1706521831,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259242,
       "num": 259242,
       "word": "我得省钱 人就活一次",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1706439211,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258148,
+      "num": 258148,
+      "word": "papi酱 身兼数职的伴娘",
+      "onboard_time": 1706524111,
+      "rank": 25,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 255239,
@@ -3307,12 +3323,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142944,
+      "num": 142944,
+      "word": "雷佳音腹肌",
+      "onboard_time": 1706523150,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142358,
       "num": 120887,
       "word": "白敬亭裤子上挂玩偶",
       "onboard_time": 1706367152,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141327,
+      "num": 141327,
+      "word": "釜山世乒赛团体赛国乒赛程",
+      "onboard_time": 1706523991,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140981,
@@ -3403,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136745,
+      "num": 136745,
+      "word": "当亲戚问考研成绩",
+      "onboard_time": 1706523991,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136375,
       "num": 136375,
       "word": "白鲸腹肌",
@@ -3457,6 +3497,14 @@
       "onboard_time": 1706423248,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135010,
+      "num": 135010,
+      "word": "吴昕起诉白熊求职侵权",
+      "onboard_time": 1706522912,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 134969,
@@ -3523,14 +3571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131923,
-      "num": 131923,
-      "word": "雷佳音腹肌",
-      "onboard_time": 1706523150,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131886,
       "num": 131886,
       "word": "谷爱凌带伤参赛XGames",
@@ -3593,14 +3633,6 @@
       "onboard_time": 1706454750,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129564,
-      "num": 129564,
-      "word": "吴昕起诉白熊求职侵权",
-      "onboard_time": 1706522912,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 129467,
@@ -4019,6 +4051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "欧洲人第一次喝中国茶是什么反应",
+      "onboard_time": 1706524294,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114713,
       "num": 114713,
       "word": "张雨绮邀请王鹤棣合作",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1706505508,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112997,
+      "num": 112997,
+      "word": "龙图",
+      "onboard_time": 1706523811,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112869,
