@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706513627186,
+  "endTime": 1706516459474,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1534452,
+      "num": 788903,
+      "word": "订婚强奸案男子起诉女方要求结婚",
+      "onboard_time": 1706512588,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1513224,
       "num": 1513224,
       "word": "支付宝五福",
@@ -56,6 +64,14 @@
       "word": "77g黄金仅称出62g博主打假鬼秤遭辱骂",
       "onboard_time": 1706485766,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1403215,
+      "num": 582139,
+      "word": "昆明动物园7斤公猫体检全程无反抗",
+      "onboard_time": 1706512888,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 802809,
-      "num": 438427,
+      "num": 592849,
       "word": "杨威一家为双胞胎女儿庆生",
       "onboard_time": 1706511751,
       "rank": 11,
@@ -155,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 788903,
-      "num": 788903,
-      "word": "订婚强奸案男子起诉女方要求结婚",
-      "onboard_time": 1706512588,
+      "raw_hot": 787869,
+      "num": 787869,
+      "word": "胡先煦不愿意上综艺的原因",
+      "onboard_time": 1706514029,
       "rank": 3,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 751429,
@@ -185,6 +201,14 @@
       "onboard_time": 1706485465,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 712299,
+      "num": 712299,
+      "word": "诺一救救你爹吧",
+      "onboard_time": 1706514329,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 674461,
@@ -225,6 +249,22 @@
       "onboard_time": 1706495066,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 601266,
+      "num": 601266,
+      "word": "清华大学教授称人口政策应该回归自由",
+      "onboard_time": 1706512767,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597934,
+      "num": 597934,
+      "word": "呼和浩特一餐馆发生火灾致4人遇难",
+      "onboard_time": 1706513490,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597905,
@@ -417,6 +457,14 @@
       "onboard_time": 1706450490,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 395894,
+      "num": 395894,
+      "word": "男子被裁瞒着妻子送外卖疑似摆拍",
+      "onboard_time": 1706515049,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394658,
@@ -643,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284804,
-      "num": 284804,
-      "word": "昆明动物园7斤公猫体检全程无反抗",
-      "onboard_time": 1706512888,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284613,
       "num": 284613,
       "word": "陈漫拍的李冰冰",
@@ -859,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212007,
-      "num": 212007,
-      "word": "清华大学教授称人口政策应该回归自由",
-      "onboard_time": 1706512767,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209017,
       "num": 167730,
       "word": "暗恋对象以为我是学人精",
@@ -939,12 +971,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 189885,
+      "num": 189885,
+      "word": "张雪峰为公司员工发放11斤年货",
+      "onboard_time": 1706513971,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186171,
       "num": 186171,
       "word": "消除emo的电话4008000088",
       "onboard_time": 1706490809,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185743,
+      "num": 185743,
+      "word": "高德打车致歉",
+      "onboard_time": 1706514271,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 185556,
@@ -964,11 +1012,19 @@
     },
     {
       "raw_hot": 183969,
-      "num": 143048,
+      "num": 168153,
       "word": "当普通人穿上尝试网红穿搭",
       "onboard_time": 1706511868,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183424,
+      "num": 183424,
+      "word": "2女孩拾金不昧获赠一人一只警熊",
+      "onboard_time": 1706514692,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181948,
@@ -1139,12 +1195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157315,
-      "num": 157315,
-      "word": "呼和浩特一餐馆发生火灾致4人遇难",
-      "onboard_time": 1706513490,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 156005,
+      "num": 156005,
+      "word": "中国驻瑙鲁大使馆举行复馆仪式",
+      "onboard_time": 1706514932,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155034,
@@ -1171,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147523,
+      "num": 147523,
+      "word": "飞驰人生2有于适",
+      "onboard_time": 1706514391,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146675,
       "num": 146675,
       "word": "小猫咪真的是把犟写在脸上的生物",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1706441847,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142204,
+      "num": 142204,
+      "word": "中国石油4天涨幅近25%",
+      "onboard_time": 1706515949,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 140311,
@@ -1289,6 +1361,14 @@
       "onboard_time": 1706510368,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125306,
+      "num": 125306,
+      "word": "打工人真的很爱奖励自己",
+      "onboard_time": 1706515530,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 124751,
@@ -1400,6 +1480,14 @@
       "word": "红腹锦鸡优雅人设崩了",
       "onboard_time": 1706492306,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116554,
+      "num": 116554,
+      "word": "广州30岁诗人因抑郁症离世",
+      "onboard_time": 1706516009,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1547,6 +1635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101455,
+      "num": 101455,
+      "word": "女孩打碎爸爸杯子吓得带弟弟出走",
+      "onboard_time": 1706516009,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101390,
       "num": 101390,
       "word": "卡塔尔亚洲杯",
@@ -1619,6 +1715,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94276,
+      "num": 94276,
+      "word": "广东包容性真的好强",
+      "onboard_time": 1706515590,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93755,
+      "num": 93755,
+      "word": "程序员春联",
+      "onboard_time": 1706516191,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92664,
       "num": 92664,
       "word": "陈戌源涉嫌受贿案今天一审开庭",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1706453312,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85640,
+      "num": 85640,
+      "word": "C罗出战迈阿密国际存疑",
+      "onboard_time": 1706513730,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85014,
