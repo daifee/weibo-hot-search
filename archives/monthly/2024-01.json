@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706553233455,
+  "endTime": 1706555603977,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -79587,6 +79587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29331,
+      "num": 29331,
+      "word": "偶像梦幻祭2",
+      "onboard_time": 1706554517,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28778,
       "num": 28778,
       "word": "尔滨你火到国外啦",
@@ -80137,6 +80145,14 @@
       "onboard_time": 1704947136,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18841,
+      "num": 18841,
+      "word": "林允耳环好大",
+      "onboard_time": 1706554398,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18619,

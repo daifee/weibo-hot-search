@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/28 00:20:09 ~ 2024/01/30 02:33:53
+本榜单时间：2024/01/28 00:20:09 ~ 2024/01/30 03:13:23
 </p>
 </blockquote>
 <p>
@@ -4575,6 +4575,12 @@ F勒布伦WTT男单夺冠（热度：84349）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD2%23" target="weibo">
+偶像梦幻祭2（热度：29331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E5%B2%9B%E9%99%A4%E5%A4%95%E6%82%AC%E5%BF%B5%E6%9B%9D%E5%85%89%23" target="weibo">
 蛋仔岛除夕悬念曝光（热度：26730）
 </a>
@@ -4583,6 +4589,12 @@ F勒布伦WTT男单夺冠（热度：84349）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23" target="weibo">
 明日方舟（热度：23688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E8%80%B3%E7%8E%AF%E5%A5%BD%E5%A4%A7%23" target="weibo">
+林允耳环好大（热度：18841）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706553233455,
+  "endTime": 1706555603977,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -6083,6 +6083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29331,
+      "num": 29331,
+      "word": "偶像梦幻祭2",
+      "onboard_time": 1706554517,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26730,
       "num": 267620,
       "word": "蛋仔岛除夕悬念曝光",
@@ -6097,6 +6105,14 @@
       "onboard_time": 1706359890,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18841,
+      "num": 18841,
+      "word": "林允耳环好大",
+      "onboard_time": 1706554398,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18028,
