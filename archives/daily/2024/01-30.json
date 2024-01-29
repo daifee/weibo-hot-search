@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706548600943,
+  "endTime": 1706549641006,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -425,6 +425,14 @@
       "onboard_time": 1706542890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37046,
+      "num": 37046,
+      "word": "张予曦斗罗大陆2片花",
+      "onboard_time": 1706549361,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 5051,
