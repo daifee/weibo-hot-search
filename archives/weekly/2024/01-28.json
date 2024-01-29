@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706491884625,
+  "endTime": 1706493882520,
   "band_list": [
     {
       "raw_hot": 2578058,
@@ -65,6 +65,14 @@
       "onboard_time": 1706485766,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427743,
+      "num": 1427743,
+      "word": "得州与美政府武装对峙",
+      "onboard_time": 1706492247,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1385766,
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850623,
+      "num": 850623,
+      "word": "我国女性HPV感染率呈双峰分布",
+      "onboard_time": 1706492367,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 829126,
       "num": 829126,
       "word": "一念关山收视率飞升",
@@ -289,6 +305,14 @@
       "onboard_time": 1706454993,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787198,
+      "num": 787198,
+      "word": "本周日调休上班",
+      "onboard_time": 1706492069,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739223,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674461,
+      "num": 674461,
+      "word": "玉米几",
+      "onboard_time": 1706489070,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 674216,
       "num": 674216,
       "word": "第一次觉得手机外放声音不刺耳了",
@@ -409,14 +441,6 @@
       "onboard_time": 1706430506,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 632528,
-      "num": 632528,
-      "word": "玉米几",
-      "onboard_time": 1706489070,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 622158,
@@ -899,6 +923,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 379281,
+      "num": 379281,
+      "word": "范丞丞背后抱卢昱晓路透",
+      "onboard_time": 1706491587,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373774,
       "num": 373774,
       "word": "董明珠称格力不关心股价",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1706427870,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316857,
+      "num": 316857,
+      "word": "86岁丈夫77岁妻子跑了100多场马拉松",
+      "onboard_time": 1706490508,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316379,
@@ -1147,20 +1187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288532,
+      "num": 288532,
+      "word": "外卖中的微塑料两小时就可进入大脑",
+      "onboard_time": 1706487988,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 281544,
       "num": 252367,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
       "onboard_time": 1706446891,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281405,
-      "num": 281405,
-      "word": "外卖中的微塑料两小时就可进入大脑",
-      "onboard_time": 1706487988,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 279414,
@@ -1259,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259210,
-      "num": 259210,
-      "word": "86岁丈夫77岁妻子跑了100多场马拉松",
-      "onboard_time": 1706490508,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 255167,
+      "num": 255167,
+      "word": "蒙面倪妮",
+      "onboard_time": 1706492847,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 253843,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1706485526,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 241321,
+      "num": 241321,
+      "word": "A股",
+      "onboard_time": 1706492726,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 237497,
@@ -1412,7 +1460,7 @@
     },
     {
       "raw_hot": 227255,
-      "num": 162394,
+      "num": 174499,
       "word": "坚持十几年却做了一件没用的事",
       "onboard_time": 1706490987,
       "rank": 30,
@@ -1715,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193609,
+      "num": 193609,
+      "word": "自称桐岛聪男子在医院死亡",
+      "onboard_time": 1706491647,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192162,
       "num": 192162,
       "word": "两个i人在乱用礼貌用语",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1706435849,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180987,
+      "num": 180987,
+      "word": "尔滨雪人被南方小土豆暖化了",
+      "onboard_time": 1706492128,
+      "rank": 23,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 179916,
@@ -1935,14 +1999,6 @@
       "num": 163332,
       "word": "张婧仪出水芙蓉",
       "onboard_time": 1706421087,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162478,
-      "num": 162478,
-      "word": "范丞丞背后抱卢昱晓路透",
-      "onboard_time": 1706491587,
       "rank": 29,
       "category": "剧集"
     },
@@ -2531,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123953,
+      "num": 123953,
+      "word": "化妆师雪燕给素人做的国风妆造",
+      "onboard_time": 1706492609,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 123888,
       "num": 123888,
       "word": "湖人勇士裁判抢戏",
@@ -2819,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109710,
-      "num": 109710,
-      "word": "自称桐岛聪男子在医院死亡",
-      "onboard_time": 1706491647,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109475,
       "num": 109475,
       "word": "收到了童年的最后一个彩蛋",
@@ -3075,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97776,
+      "num": 97776,
+      "word": "红腹锦鸡优雅人设崩了",
+      "onboard_time": 1706492306,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "JDG战胜RA",
@@ -3097,6 +3161,14 @@
       "onboard_time": 1706446712,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95795,
+      "num": 95795,
+      "word": "詹姆斯库里商业互吹",
+      "onboard_time": 1706492128,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95605,
@@ -3201,6 +3273,14 @@
       "onboard_time": 1706364634,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 92096,
+      "num": 92096,
+      "word": "春节宠物寄养价格大涨50%",
+      "onboard_time": 1706493746,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91751,
@@ -3651,20 +3731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14432,
+      "num": 1379608,
+      "word": "何以中国向海泉州",
+      "onboard_time": 1706276130,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13922,
       "num": 15002,
       "word": "赵继伟戴面具",
       "onboard_time": 1706387177,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12961,
-      "num": 1379608,
-      "word": "何以中国向海泉州",
-      "onboard_time": 1706276130,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10922,
