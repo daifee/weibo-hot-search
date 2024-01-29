@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706570293998,
+  "endTime": 1706571263863,
   "band_list": [
     {
       "raw_hot": 1094164,
@@ -25,6 +25,14 @@
       "onboard_time": 1706530050,
       "rank": 10,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 554317,
+      "num": 554317,
+      "word": "官方调查大学生扮锦衣卫迎客",
+      "onboard_time": 1706563818,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522992,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446852,
-      "num": 446852,
-      "word": "官方调查大学生扮锦衣卫迎客",
-      "onboard_time": 1706563818,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422328,
       "num": 422328,
       "word": "00后女大学生保研后开珠宝店月入过万",
@@ -81,6 +81,14 @@
       "onboard_time": 1706542052,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 397727,
+      "num": 397727,
+      "word": "美邦创始人回应衣服丑价格贵",
+      "onboard_time": 1706541153,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368200,
@@ -107,11 +115,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311210,
-      "num": 311210,
-      "word": "美邦创始人回应衣服丑价格贵",
-      "onboard_time": 1706541153,
-      "rank": 26,
+      "raw_hot": 354509,
+      "num": 248479,
+      "word": "知情人回应网红宝妈因感冒去世",
+      "onboard_time": 1706562797,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324341,
+      "num": 123102,
+      "word": "我国将遭遇2008年以来最复杂春运天气",
+      "onboard_time": 1706569701,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -131,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272969,
-      "num": 272969,
+      "raw_hot": 295687,
+      "num": 295687,
       "word": "多地限制教师非正常流动",
       "onboard_time": 1706533530,
       "rank": 15,
@@ -147,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265911,
-      "num": 168528,
-      "word": "知情人回应网红宝妈因感冒去世",
-      "onboard_time": 1706562797,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262451,
       "num": 262451,
       "word": "订婚强奸案",
       "onboard_time": 1706517931,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254104,
+      "num": 254104,
+      "word": "敬业福",
+      "onboard_time": 1706570361,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 241092,
@@ -227,11 +243,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186156,
+      "num": 186156,
+      "word": "新疆阿合奇5.7级地震",
+      "onboard_time": 1706569521,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181954,
       "num": 181954,
       "word": "秦岚辛芷蕾内娱张爱玲文学",
       "onboard_time": 1706547383,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174414,
+      "num": 174414,
+      "word": "网友把黄渤看成张艺兴妈妈",
+      "onboard_time": 1706568380,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -275,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140934,
+      "num": 140934,
+      "word": "女子机场手袋破洞获赠26寸行李箱",
+      "onboard_time": 1706542890,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "虞书欣痛失真名",
@@ -283,36 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125431,
-      "num": 125431,
-      "word": "新疆阿合奇5.7级地震",
-      "onboard_time": 1706569521,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120305,
-      "num": 96459,
-      "word": "我国将遭遇2008年以来最复杂春运天气",
-      "onboard_time": 1706569701,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113813,
-      "num": 113813,
+      "raw_hot": 115057,
+      "num": 115057,
       "word": "婆婆用儿媳盖头给将出世宝宝做包被",
       "onboard_time": 1706535813,
       "rank": 34,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112707,
-      "num": 112707,
-      "word": "网友把黄渤看成张艺兴妈妈",
-      "onboard_time": 1706568380,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 111734,
+      "num": 111734,
+      "word": "突然发现东北审美从不推崇白幼瘦",
+      "onboard_time": 1706570063,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 111388,
@@ -321,6 +345,14 @@
       "onboard_time": 1706530233,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109616,
+      "num": 109616,
+      "word": "12306回应自助售票机成功率更高",
+      "onboard_time": 1706565976,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105061,
@@ -339,12 +371,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 101892,
-      "num": 101892,
-      "word": "女子机场手袋破洞获赠26寸行李箱",
-      "onboard_time": 1706542890,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 103323,
+      "num": 103323,
+      "word": "现在削甘蔗已经先进到这种地步了",
+      "onboard_time": 1706570121,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 102342,
+      "num": 102342,
+      "word": "她把小手伸出来就是让你摸的",
+      "onboard_time": 1706529090,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97426,
@@ -363,28 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97146,
+      "num": 97146,
+      "word": "年轻人开始买手串当年货",
+      "onboard_time": 1706567176,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92146,
       "num": 92146,
       "word": "广东人洁癖不洗澡不上床",
       "onboard_time": 1706535452,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91835,
-      "num": 91835,
-      "word": "她把小手伸出来就是让你摸的",
-      "onboard_time": 1706529090,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 89856,
-      "num": 89856,
-      "word": "年轻人开始买手串当年货",
-      "onboard_time": 1706567176,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89830,
@@ -400,6 +432,14 @@
       "word": "一次性蛋糕盘可以折起来用",
       "onboard_time": 1706540734,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 84827,
+      "num": 84827,
+      "word": "第一批回村的狗已经开始撵鸡了",
+      "onboard_time": 1706568798,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -419,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83260,
-      "num": 83260,
-      "word": "12306回应自助售票机成功率更高",
-      "onboard_time": 1706565976,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80473,
       "num": 80473,
       "word": "创造营亚洲首支预告",
@@ -441,6 +473,14 @@
       "onboard_time": 1706569341,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 77378,
+      "num": 77378,
+      "word": "青岛栈桥回应女子不坐游艇被骂穷光蛋",
+      "onboard_time": 1706569701,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75130,
@@ -475,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71115,
-      "num": 71115,
-      "word": "第一批回村的狗已经开始撵鸡了",
-      "onboard_time": 1706568798,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 71096,
+      "num": 71096,
+      "word": "梅西2024年首球",
+      "onboard_time": 1706570361,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 70295,
@@ -507,36 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57364,
-      "num": 57364,
-      "word": "现在削甘蔗已经先进到这种地步了",
-      "onboard_time": 1706570121,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 48492,
-      "num": 48492,
+      "raw_hot": 51291,
+      "num": 51291,
       "word": "毛不易不知道秦岚是东北人",
       "onboard_time": 1706558236,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46505,
-      "num": 46505,
-      "word": "青岛栈桥回应女子不坐游艇被骂穷光蛋",
-      "onboard_time": 1706569701,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45310,
-      "num": 45310,
-      "word": "突然发现东北审美从不推崇白幼瘦",
-      "onboard_time": 1706570063,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 37605,
