@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706520886831,
+  "endTime": 1706523509087,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -99,11 +99,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1290273,
+      "num": 859343,
+      "word": "难听",
+      "onboard_time": 1706520930,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1256196,
       "num": 1256196,
       "word": "男子举报纪委干部40分钟后就被抓",
       "onboard_time": 1706499148,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096063,
+      "num": 1096063,
+      "word": "免签不是免费",
+      "onboard_time": 1706519069,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 1092966,
+      "num": 1092966,
+      "word": "你的快递可能是两岁小孩哥打包的",
+      "onboard_time": 1706516611,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -121,14 +145,6 @@
       "onboard_time": 1706517087,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 952405,
-      "num": 952405,
-      "word": "免签不是免费",
-      "onboard_time": 1706519069,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 909912,
@@ -243,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724428,
+      "num": 724428,
+      "word": "网红宝妈因感冒五天未就医去世",
+      "onboard_time": 1706521528,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688583,
+      "num": 688583,
+      "word": "演员张栋梁回来了",
+      "onboard_time": 1706520510,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674461,
       "num": 674461,
       "word": "玉米几",
@@ -315,12 +347,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 595264,
+      "num": 595264,
+      "word": "昆明2只猫被猴子长期欺负变得很乖",
+      "onboard_time": 1706521110,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579832,
       "num": 579832,
       "word": "银川地震",
       "onboard_time": 1706483120,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560451,
+      "num": 560451,
+      "word": "恒大",
+      "onboard_time": 1706519250,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 557725,
@@ -369,14 +417,6 @@
       "onboard_time": 1706516731,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 534003,
-      "num": 534003,
-      "word": "你的快递可能是两岁小孩哥打包的",
-      "onboard_time": 1706516611,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497996,
@@ -499,14 +539,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 420503,
-      "num": 420503,
-      "word": "恒大",
-      "onboard_time": 1706519250,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 417362,
       "num": 417362,
       "word": "鼻子决定了颜值的上限",
@@ -553,6 +585,22 @@
       "onboard_time": 1706475795,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391179,
+      "num": 391179,
+      "word": "Super Lady",
+      "onboard_time": 1706520812,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 389215,
+      "num": 389215,
+      "word": "吴京梦女",
+      "onboard_time": 1706522969,
+      "rank": 16,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 385144,
@@ -651,14 +699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341991,
-      "num": 341991,
-      "word": "演员张栋梁回来了",
-      "onboard_time": 1706520510,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341731,
       "num": 341731,
       "word": "宋轶新加坡探亲",
@@ -699,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324727,
+      "num": 324727,
+      "word": "芦原妃名子去世",
+      "onboard_time": 1706522912,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316857,
       "num": 316857,
       "word": "86岁丈夫77岁妻子跑了100多场马拉松",
@@ -723,8 +771,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313195,
+      "num": 313195,
+      "word": "宋雨琦 库伊拉魔女",
+      "onboard_time": 1706522309,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310290,
-      "num": 310290,
+      "num": 789314,
       "word": "张雪峰为公司员工发放11斤年货",
       "onboard_time": 1706513971,
       "rank": 23,
@@ -745,6 +801,14 @@
       "onboard_time": 1706503055,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300887,
+      "num": 300887,
+      "word": "霉霉 我啥也没干",
+      "onboard_time": 1706520750,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 299071,
@@ -776,6 +840,14 @@
       "word": "恋与深空辟谣秦彻",
       "onboard_time": 1706502091,
       "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 291999,
+      "num": 291999,
+      "word": "恋与制作人你疯啦",
+      "onboard_time": 1706522790,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -851,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261409,
+      "num": 689336,
+      "word": "摊主被打女生帮作证获赠40串关东煮",
+      "onboard_time": 1706521831,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255239,
       "num": 255239,
       "word": "产房里的男人百态",
@@ -899,6 +979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238613,
+      "num": 238613,
+      "word": "暴雪再申请魔兽世界商标",
+      "onboard_time": 1706521052,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237497,
       "num": 237497,
       "word": "2.6万余条新生儿信息被贩卖",
@@ -921,6 +1009,14 @@
       "onboard_time": 1706452113,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227298,
+      "num": 227298,
+      "word": "王者终究开始癫了",
+      "onboard_time": 1706521352,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 227255,
@@ -1019,12 +1115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212355,
+      "num": 212355,
+      "word": "张颂文 我努力记住你们的样子",
+      "onboard_time": 1706521471,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212085,
       "num": 212085,
       "word": "王一博随地打网球",
       "onboard_time": 1706501970,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211793,
+      "num": 211793,
+      "word": "gidle回归",
+      "onboard_time": 1706521290,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 209017,
@@ -1057,6 +1169,14 @@
       "onboard_time": 1706498488,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204406,
+      "num": 198716,
+      "word": "华晨宇一人把演员导演后期的活都干了",
+      "onboard_time": 1706522428,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 203609,
@@ -1227,14 +1347,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 171614,
-      "num": 171614,
-      "word": "Super Lady",
-      "onboard_time": 1706520812,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 171433,
       "num": 168059,
       "word": "拜登回应美军基地遭袭",
@@ -1363,6 +1475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155749,
+      "num": 155749,
+      "word": "王鹤棣穿拖鞋逛街",
+      "onboard_time": 1706520990,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155034,
       "num": 155034,
       "word": "秦彻正脸",
@@ -1483,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131923,
+      "num": 131923,
+      "word": "雷佳音腹肌",
+      "onboard_time": 1706523150,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131504,
       "num": 131504,
       "word": "高德打车崩了",
       "onboard_time": 1706502211,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129564,
+      "num": 129564,
+      "word": "吴昕起诉白熊求职侵权",
+      "onboard_time": 1706522912,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 128857,
@@ -1537,6 +1673,14 @@
       "onboard_time": 1706510368,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125460,
+      "num": 125460,
+      "word": "曹县汉服年销70亿元带动10万人就业",
+      "onboard_time": 1706522249,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124751,
@@ -1817,14 +1961,6 @@
       "onboard_time": 1706496688,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 102733,
-      "num": 102733,
-      "word": "霉霉 我啥也没干",
-      "onboard_time": 1706520750,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 101390,
