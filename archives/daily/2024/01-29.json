@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706526894496,
+  "endTime": 1706528043107,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721904,
+      "num": 721904,
+      "word": "宋祖儿张新成新剧过审",
+      "onboard_time": 1706526870,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 689122,
       "num": 663811,
       "word": "昆明2只猫被猴子长期欺负变得很乖",
@@ -361,6 +369,14 @@
       "onboard_time": 1706495066,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 599600,
+      "num": 599600,
+      "word": "普京正式登记为下届总统候选人",
+      "onboard_time": 1706526270,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 597934,
@@ -473,6 +489,14 @@
       "onboard_time": 1706484863,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465670,
+      "num": 465670,
+      "word": "麦当劳门店回应麦辣鸡翅裹粉",
+      "onboard_time": 1706525429,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 465614,
@@ -619,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406769,
+      "num": 406769,
+      "word": "张颂文 不要为我花任何钱",
+      "onboard_time": 1706524829,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394658,
       "num": 394658,
       "word": "日本连环爆炸案凶手患癌自首",
@@ -723,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364412,
+      "num": 364412,
+      "word": "恋与制作人",
+      "onboard_time": 1706527412,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 358580,
       "num": 358580,
       "word": "远嫁女子过年想回娘家遭公公扇耳光",
@@ -795,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319877,
-      "num": 319877,
-      "word": "张颂文 不要为我花任何钱",
-      "onboard_time": 1706524829,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 320482,
+      "num": 320482,
+      "word": "昆明动物园2只猫最大的问题是心理",
+      "onboard_time": 1706525852,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316857,
@@ -851,8 +891,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303186,
-      "num": 303186,
+      "raw_hot": 306198,
+      "num": 306198,
       "word": "原神千织",
       "onboard_time": 1706525852,
       "rank": 17,
@@ -947,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275051,
-      "num": 275051,
-      "word": "麦当劳门店回应麦辣鸡翅裹粉",
-      "onboard_time": 1706525429,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 272253,
       "num": 272253,
       "word": "男子租宝马后抵押套现21万挥霍",
@@ -969,14 +1001,6 @@
       "onboard_time": 1706498671,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 261705,
-      "num": 261705,
-      "word": "昆明动物园2只猫最大的问题是心理",
-      "onboard_time": 1706525852,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255239,
@@ -1115,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218794,
-      "num": 218794,
-      "word": "普京正式登记为下届总统候选人",
-      "onboard_time": 1706526270,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218403,
       "num": 218403,
       "word": "一念关山收视率飞升",
@@ -1137,6 +1153,22 @@
       "onboard_time": 1706500531,
       "rank": 23,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 217934,
+      "num": 217934,
+      "word": "不是感染了HPV就得了性病",
+      "onboard_time": 1706526689,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217573,
+      "num": 217573,
+      "word": "爱情公寓中谁的衣服最多",
+      "onboard_time": 1706525612,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 216355,
@@ -1299,14 +1331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 187439,
-      "num": 187439,
-      "word": "爱情公寓中谁的衣服最多",
-      "onboard_time": 1706525612,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186171,
       "num": 186171,
       "word": "消除emo的电话4008000088",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1706514692,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183374,
+      "num": 183374,
+      "word": "年前烫发真是一场豪赌",
+      "onboard_time": 1706526572,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 181948,
@@ -1459,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167945,
+      "num": 167945,
+      "word": "年轻人真的不愿意去爱了吗",
+      "onboard_time": 1706526093,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167607,
       "num": 167607,
       "word": "24年间鸿星尔克经历过四次生死存亡",
@@ -1539,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158548,
+      "num": 158548,
+      "word": "抑郁症是受打击才发病吗",
+      "onboard_time": 1706527051,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157641,
       "num": 157641,
       "word": "炎亚纶偷拍案第二次开庭",
@@ -1587,12 +1635,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153315,
+      "num": 153315,
+      "word": "订婚强奸案卷宗细节曝光",
+      "onboard_time": 1706527171,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151438,
       "num": 151438,
       "word": "广州30岁诗人因抑郁症离世",
       "onboard_time": 1706516009,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150503,
+      "num": 150503,
+      "word": "于晓光陪秋瓷炫开工",
+      "onboard_time": 1706527349,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 149956,
@@ -1707,22 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135211,
-      "num": 135211,
-      "word": "年轻人真的不愿意去爱了吗",
-      "onboard_time": 1706526093,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 135125,
-      "num": 135125,
-      "word": "年前烫发真是一场豪赌",
-      "onboard_time": 1706526572,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 135010,
       "num": 135010,
       "word": "吴昕起诉白熊求职侵权",
@@ -1771,20 +1819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131108,
+      "num": 131108,
+      "word": "广州队通过准入",
+      "onboard_time": 1706527469,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130407,
       "num": 130407,
       "word": "丞爱战神沈腾",
       "onboard_time": 1706525790,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128948,
-      "num": 128948,
-      "word": "不是感染了HPV就得了性病",
-      "onboard_time": 1706526689,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128857,
@@ -1875,6 +1923,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123353,
+      "num": 123353,
+      "word": "马化腾回应64亿元买地",
+      "onboard_time": 1706527891,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122286,
       "num": 122286,
       "word": "林心如晒十年前后对比照",
@@ -1915,20 +1971,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121454,
-      "num": 121454,
-      "word": "宋祖儿张新成新剧过审",
-      "onboard_time": 1706526870,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120845,
       "num": 120845,
       "word": "恒大美元债已基本跌至地板价",
       "onboard_time": 1706516668,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120330,
+      "num": 120330,
+      "word": "当00后开始写对联",
+      "onboard_time": 1706527706,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 120307,
@@ -2121,6 +2177,14 @@
       "onboard_time": 1706441430,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108179,
+      "num": 108179,
+      "word": "德华带娃",
+      "onboard_time": 1706527650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107441,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706528043107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664468,
+        "num": 1664468,
+        "word": "网红宝妈因感冒五天未就医去世",
+        "onboard_time": 1706521528,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694844,
+        "num": 965714,
+        "word": "你的快递可能是两岁小孩哥打包的",
+        "onboard_time": 1706516611,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93943,
+        "num": 961822,
+        "word": "中央网信办专项整治春节网络6方面问题",
+        "onboard_time": 1706525312,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 961077,
+        "num": 961077,
+        "word": "吴京梦女",
+        "onboard_time": 1706522969,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 324385,
+        "num": 860644,
+        "word": "摊主被打女生帮作证获赠40串关东煮",
+        "onboard_time": 1706521831,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825886,
+        "num": 825886,
+        "word": "papi酱 身兼数职的伴娘",
+        "onboard_time": 1706524111,
+        "rank": 5,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 216450,
+        "num": 724714,
+        "word": "张雪峰为公司员工发放11斤年货",
+        "onboard_time": 1706513971,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721904,
+        "num": 721904,
+        "word": "宋祖儿张新成新剧过审",
+        "onboard_time": 1706526870,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599600,
+        "num": 599600,
+        "word": "普京正式登记为下届总统候选人",
+        "onboard_time": 1706526270,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 498721,
+        "num": 498721,
+        "word": "芦原妃名子去世",
+        "onboard_time": 1706522912,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834726,
+        "num": 482297,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465670,
+        "num": 465670,
+        "word": "麦当劳门店回应麦辣鸡翅裹粉",
+        "onboard_time": 1706525429,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 446892,
+        "num": 446892,
+        "word": "难听",
+        "onboard_time": 1706520930,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406769,
+        "num": 406769,
+        "word": "张颂文 不要为我花任何钱",
+        "onboard_time": 1706524829,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364412,
+        "num": 364412,
+        "word": "恋与制作人",
+        "onboard_time": 1706527412,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348583,
+        "num": 348583,
+        "word": "韩庚韩国 抑郁",
+        "onboard_time": 1706498488,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320482,
+        "num": 320482,
+        "word": "昆明动物园2只猫最大的问题是心理",
+        "onboard_time": 1706525852,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318487,
+        "num": 318487,
+        "word": "下个月工资里或将增加这笔收入",
+        "onboard_time": 1706503172,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317205,
+        "num": 317205,
+        "word": "gidle空降",
+        "onboard_time": 1706523691,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306198,
+        "num": 306198,
+        "word": "原神千织",
+        "onboard_time": 1706525852,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289560,
+        "num": 289560,
+        "word": "宋雨琦 库伊拉魔女",
+        "onboard_time": 1706522309,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257429,
+        "num": 257429,
+        "word": "演员张栋梁回来了",
+        "onboard_time": 1706520510,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251815,
+        "num": 251815,
+        "word": "免签不是免费",
+        "onboard_time": 1706519069,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 217934,
+        "num": 217934,
+        "word": "不是感染了HPV就得了性病",
+        "onboard_time": 1706526689,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217573,
+        "num": 217573,
+        "word": "爱情公寓中谁的衣服最多",
+        "onboard_time": 1706525612,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184758,
+        "num": 184758,
+        "word": "玉米几是什么新梗",
+        "onboard_time": 1706516910,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183374,
+        "num": 183374,
+        "word": "年前烫发真是一场豪赌",
+        "onboard_time": 1706526572,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183001,
+        "num": 183001,
+        "word": "王者终究开始癫了",
+        "onboard_time": 1706521352,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167945,
+        "num": 167945,
+        "word": "年轻人真的不愿意去爱了吗",
+        "onboard_time": 1706526093,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163990,
+        "num": 163990,
+        "word": "霉霉 我啥也没干",
+        "onboard_time": 1706520750,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158548,
+        "num": 158548,
+        "word": "抑郁症是受打击才发病吗",
+        "onboard_time": 1706527051,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154625,
+        "num": 154625,
+        "word": "肖战迪丽热巴入选中国十大新青年",
+        "onboard_time": 1706507071,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153315,
+        "num": 153315,
+        "word": "订婚强奸案卷宗细节曝光",
+        "onboard_time": 1706527171,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150787,
+        "num": 150787,
+        "word": "叶舒华泪钻妆",
+        "onboard_time": 1706525910,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150503,
+        "num": 150503,
+        "word": "于晓光陪秋瓷炫开工",
+        "onboard_time": 1706527349,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149420,
+        "num": 149420,
+        "word": "因为朋友圈新工作的offer没了",
+        "onboard_time": 1706510851,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148005,
+        "num": 148005,
+        "word": "炎亚纶偷拍案第二次开庭",
+        "onboard_time": 1706526510,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147100,
+        "num": 147100,
+        "word": "当亲戚问考研成绩",
+        "onboard_time": 1706523991,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143132,
+        "num": 143132,
+        "word": "恒大",
+        "onboard_time": 1706519250,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138281,
+        "num": 138281,
+        "word": "诺一救救你爹吧",
+        "onboard_time": 1706514329,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131108,
+        "num": 131108,
+        "word": "广州队通过准入",
+        "onboard_time": 1706527469,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129672,
+        "num": 129672,
+        "word": "五条悟 玉桂狗",
+        "onboard_time": 1706523991,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123353,
+        "num": 123353,
+        "word": "马化腾回应64亿元买地",
+        "onboard_time": 1706527891,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123007,
+        "num": 123007,
+        "word": "Super Lady",
+        "onboard_time": 1706520812,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120330,
+        "num": 120330,
+        "word": "当00后开始写对联",
+        "onboard_time": 1706527706,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120065,
+        "num": 120065,
+        "word": "恋与制作人 求婚",
+        "onboard_time": 1706500893,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113897,
+        "num": 113897,
+        "word": "宋运辉机场求婚梁思申",
+        "onboard_time": 1706526093,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113073,
+        "num": 113073,
+        "word": "向佐3天恢复腹肌",
+        "onboard_time": 1706525191,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112996,
+        "num": 112996,
+        "word": "胡先煦不愿意上综艺的原因",
+        "onboard_time": 1706514029,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108179,
+        "num": 108179,
+        "word": "德华带娃",
+        "onboard_time": 1706527650,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法精神弥足珍贵#"
+    }
+  }
+}
