@@ -1,6 +1,6 @@
 {
   "startTime": 1706458755971,
-  "endTime": 1706510031698,
+  "endTime": 1706512554175,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -251,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544235,
+      "num": 544235,
+      "word": "股市",
+      "onboard_time": 1706510668,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 530053,
+      "num": 530053,
+      "word": "胡锡进称国家动真格想把A股搞起来",
+      "onboard_time": 1706511087,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 487759,
       "num": 487759,
       "word": "花花和它一米八的长腿妹妹",
@@ -323,6 +339,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 433099,
+      "num": 236001,
+      "word": "因为朋友圈新工作的offer没了",
+      "onboard_time": 1706510851,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 432332,
       "num": 432332,
       "word": "福原爱首场直播带货额不足2.5万元",
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388371,
+      "num": 388371,
+      "word": "杨威一家为双胞胎女儿庆生",
+      "onboard_time": 1706511751,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385144,
       "num": 385144,
       "word": "90后宝妈克服恐惧当寿衣模特带货",
@@ -443,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355676,
-      "num": 355676,
+      "raw_hot": 358580,
+      "num": 358580,
       "word": "远嫁女子过年想回娘家遭公公扇耳光",
       "onboard_time": 1706506889,
       "rank": 13,
@@ -457,6 +489,14 @@
       "onboard_time": 1706456731,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345998,
+      "num": 345998,
+      "word": "刘烨签名 有点多了",
+      "onboard_time": 1706511087,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 341731,
@@ -619,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269984,
+      "num": 269984,
+      "word": "胡先煦说自己没对象",
+      "onboard_time": 1706511688,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262758,
       "num": 262758,
       "word": "闪耀暖暖 复苏色",
       "onboard_time": 1706498671,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255239,
+      "num": 255239,
+      "word": "产房里的男人百态",
+      "onboard_time": 1706510068,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 245789,
@@ -705,6 +761,14 @@
       "onboard_time": 1706442751,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221714,
+      "num": 221714,
+      "word": "杨晓培至暗时刻 且试天下千古玦尘",
+      "onboard_time": 1706509769,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 221062,
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167198,
+      "num": 144163,
+      "word": "杨晓培 梦海好事成双是爆剧",
+      "onboard_time": 1706511150,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164423,
       "num": 164423,
       "word": "养到笨蛋小狗了怎么办",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1706487328,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160485,
+      "num": 160485,
+      "word": "玻璃纤维",
+      "onboard_time": 1706510007,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160200,
@@ -1043,20 +1123,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 150562,
-      "num": 150562,
-      "word": "杨晓培至暗时刻 且试天下千古玦尘",
-      "onboard_time": 1706509769,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149956,
       "num": 149956,
       "word": "唐嫣一开口梦回汪小姐",
       "onboard_time": 1706507071,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149396,
+      "num": 140999,
+      "word": "当普通人穿上尝试网红穿搭",
+      "onboard_time": 1706511868,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 146675,
@@ -1163,12 +1243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127026,
+      "num": 127026,
+      "word": "我的东西为什么要你喜欢",
+      "onboard_time": 1706510368,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124751,
       "num": 124751,
       "word": "seventeen 日产体育场",
       "onboard_time": 1706487508,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124468,
+      "num": 124468,
+      "word": "普通青年vs超级巨星的一天",
+      "onboard_time": 1706511629,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 124187,
@@ -1331,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111597,
+      "num": 111597,
+      "word": "猫总能以令人瞩目的方式离开",
+      "onboard_time": 1706510068,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111355,
       "num": 111355,
       "word": "肖战邀您相聚2024中国网络视听年度盛典",
@@ -1395,14 +1499,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 102253,
-      "num": 102253,
-      "word": "玻璃纤维",
-      "onboard_time": 1706510007,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "郑思维摔坏奖杯黄雅琼忙拍照",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1706458110,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99427,
+      "num": 99427,
+      "word": "毛不易叫胡先煦胡哥",
+      "onboard_time": 1706510309,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98904,
@@ -1480,6 +1584,14 @@
       "word": "春节宠物寄养价格大涨50%",
       "onboard_time": 1706493746,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91403,
+      "num": 127352,
+      "word": "这支女子电力检修队好飒",
+      "onboard_time": 1706512409,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
