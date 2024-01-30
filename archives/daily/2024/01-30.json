@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706595734122,
+  "endTime": 1706596452858,
   "band_list": [
     {
       "raw_hot": 2525672,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693339,
+      "num": 693339,
+      "word": "隆多被捕",
+      "onboard_time": 1706594552,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689923,
       "num": 689923,
       "word": "车银优传闻中的弟弟",
@@ -209,6 +217,14 @@
       "onboard_time": 1706588854,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574493,
+      "num": 574493,
+      "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
+      "onboard_time": 1706591852,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 571931,
@@ -299,14 +315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 482275,
-      "num": 482275,
-      "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
-      "onboard_time": 1706591852,
-      "rank": 17,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 477054,
       "num": 477054,
       "word": "得州",
@@ -339,12 +347,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 444466,
-      "num": 444466,
-      "word": "隆多被捕",
-      "onboard_time": 1706594552,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 443498,
+      "num": 443498,
+      "word": "李英爱再演大长今",
+      "onboard_time": 1706595273,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 430303,
@@ -384,6 +392,14 @@
       "word": "12岁女孩买民法典专门对付妈妈",
       "onboard_time": 1706582789,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408873,
+      "num": 408873,
+      "word": "20吨洋垃圾入境伴有强烈腐臭味",
+      "onboard_time": 1706593769,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -433,6 +449,14 @@
       "onboard_time": 1706541392,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367398,
+      "num": 367398,
+      "word": "孙丞潇父母支持他和金莎在一起",
+      "onboard_time": 1706594133,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 365667,
@@ -523,12 +547,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 310236,
-      "num": 310236,
-      "word": "孙丞潇父母支持他和金莎在一起",
-      "onboard_time": 1706594133,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 316740,
+      "num": 316740,
+      "word": "真正理解到了男左女右",
+      "onboard_time": 1706594311,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 310428,
+      "num": 310428,
+      "word": "脏手指",
+      "onboard_time": 1706594969,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303052,
@@ -545,14 +577,6 @@
       "onboard_time": 1706578470,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 298823,
-      "num": 298823,
-      "word": "20吨洋垃圾入境伴有强烈腐臭味",
-      "onboard_time": 1706593769,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296056,
@@ -593,22 +617,6 @@
       "onboard_time": 1706575591,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272546,
-      "num": 272546,
-      "word": "李英爱再演大长今",
-      "onboard_time": 1706595273,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 268610,
-      "num": 268610,
-      "word": "真正理解到了男左女右",
-      "onboard_time": 1706594311,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 268435,
@@ -715,12 +723,12 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 221405,
-      "num": 221405,
-      "word": "脏手指",
-      "onboard_time": 1706594969,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 220995,
+      "num": 220995,
+      "word": "小时候以为在写字楼办公很高级",
+      "onboard_time": 1706594248,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 218789,
@@ -753,6 +761,14 @@
       "onboard_time": 1706589272,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208568,
+      "num": 208568,
+      "word": "大长今续集",
+      "onboard_time": 1706595511,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 208051,
@@ -811,14 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199999,
-      "num": 199999,
-      "word": "小时候以为在写字楼办公很高级",
-      "onboard_time": 1706594248,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197769,
       "num": 197769,
       "word": "河南连续5天下雪",
@@ -835,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193535,
+      "num": 193535,
+      "word": "证监会禁止大股东帮市场做空自己",
+      "onboard_time": 1706594490,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193465,
       "num": 193465,
       "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
@@ -849,6 +865,14 @@
       "onboard_time": 1706589031,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189395,
+      "num": 189395,
+      "word": "巴勒斯坦球员围堵马宁",
+      "onboard_time": 1706595754,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188469,
@@ -891,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177572,
-      "num": 177572,
-      "word": "证监会禁止大股东帮市场做空自己",
-      "onboard_time": 1706594490,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 177310,
       "num": 177310,
       "word": "小猫闻螺狮粉后在餐桌上呕吐",
@@ -931,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172631,
+      "num": 172631,
+      "word": "一想到自己工作了就想笑",
+      "onboard_time": 1706595154,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "范丞丞不会用滑盖手机",
@@ -947,20 +971,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169497,
-      "num": 169497,
-      "word": "大长今续集",
-      "onboard_time": 1706595511,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168029,
       "num": 168029,
       "word": "最贵的菜为什么放在菜单最前面",
       "onboard_time": 1706588612,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167224,
+      "num": 167224,
+      "word": "9岁男孩肾里取出56个结石",
+      "onboard_time": 1706595994,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165400,
@@ -977,14 +1001,6 @@
       "onboard_time": 1706587291,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160541,
-      "num": 160541,
-      "word": "一想到自己工作了就想笑",
-      "onboard_time": 1706595154,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 159612,
@@ -1331,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116257,
+      "num": 116257,
+      "word": "五福",
+      "onboard_time": 1706593472,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114935,
       "num": 114935,
       "word": "第一批回村的狗已经开始撵鸡了",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1706586031,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109939,
+      "num": 109939,
+      "word": "法院判决玖月晞与读者互相道歉",
+      "onboard_time": 1706596351,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109616,
@@ -1684,6 +1716,9 @@
     },
     {
       "word": "#牢记嘱托加油干#"
+    },
+    {
+      "word": "#冰雪春天#"
     }
   ]
 }

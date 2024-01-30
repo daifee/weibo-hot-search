@@ -1,0 +1,410 @@
+{
+  "runTime": 1706596452858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2116729,
+        "num": 2116729,
+        "word": "冀F8656Z",
+        "onboard_time": 1706590473,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211910,
+        "num": 1211910,
+        "word": "结了六次婚得出的经验教训",
+        "onboard_time": 1706589153,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23807,
+        "num": 864289,
+        "word": "当千里江山图遇见清新福建",
+        "onboard_time": 1706574691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808465,
+        "num": 808465,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 775299,
+        "num": 775299,
+        "word": "杨幂回应三亿对赌传闻",
+        "onboard_time": 1706584827,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 693339,
+        "num": 693339,
+        "word": "隆多被捕",
+        "onboard_time": 1706594552,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581271,
+        "num": 581271,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 574493,
+        "num": 574493,
+        "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
+        "onboard_time": 1706591852,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 457383,
+        "num": 457383,
+        "word": "赵传质疑繁花侵权",
+        "onboard_time": 1706588733,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443498,
+        "num": 443498,
+        "word": "李英爱再演大长今",
+        "onboard_time": 1706595273,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426266,
+        "num": 426266,
+        "word": "弟弟7门不及格教师姐姐怒了一下",
+        "onboard_time": 1706586810,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408873,
+        "num": 408873,
+        "word": "20吨洋垃圾入境伴有强烈腐臭味",
+        "onboard_time": 1706593769,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367398,
+        "num": 367398,
+        "word": "孙丞潇父母支持他和金莎在一起",
+        "onboard_time": 1706594133,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364433,
+        "num": 364433,
+        "word": "玖月晞胜诉",
+        "onboard_time": 1706584647,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316740,
+        "num": 316740,
+        "word": "真正理解到了男左女右",
+        "onboard_time": 1706594311,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311744,
+        "num": 311744,
+        "word": "保定交警回应奔驰车主插队并拳砸引擎盖",
+        "onboard_time": 1706592394,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310428,
+        "num": 310428,
+        "word": "脏手指",
+        "onboard_time": 1706594969,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309714,
+        "num": 309714,
+        "word": "王俊凯张子枫电影",
+        "onboard_time": 1706591431,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305342,
+        "num": 305342,
+        "word": "苏州全面取消住房限购",
+        "onboard_time": 1706589450,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284717,
+        "num": 284717,
+        "word": "易烊千玺眼睛肿了",
+        "onboard_time": 1706588854,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674554,
+        "num": 280050,
+        "word": "女子拒绝行房被打捣压丈夫颈部致死",
+        "onboard_time": 1706590594,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262891,
+        "num": 262891,
+        "word": "杨幂离开嘉行可以接到自己想拍的戏",
+        "onboard_time": 1706585791,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247068,
+        "num": 247068,
+        "word": "特朗普演讲 911",
+        "onboard_time": 1706589693,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223626,
+        "num": 223626,
+        "word": "快递员为了1000个孩子拒绝升职",
+        "onboard_time": 1706584167,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220995,
+        "num": 220995,
+        "word": "小时候以为在写字楼办公很高级",
+        "onboard_time": 1706594248,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213678,
+        "num": 213678,
+        "word": "反光丝袜",
+        "onboard_time": 1706588554,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236643,
+        "num": 213448,
+        "word": "杨幂去年找了表演老师改表演习惯",
+        "onboard_time": 1706586091,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208568,
+        "num": 208568,
+        "word": "大长今续集",
+        "onboard_time": 1706595511,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193628,
+        "num": 193628,
+        "word": "原来吃得好是这个意思",
+        "onboard_time": 1706593171,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148029,
+        "num": 193558,
+        "word": "杭州一黄金店使用鬼秤被罚22000元",
+        "onboard_time": 1706591252,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193535,
+        "num": 193535,
+        "word": "证监会禁止大股东帮市场做空自己",
+        "onboard_time": 1706594490,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 189395,
+        "word": "巴勒斯坦球员围堵马宁",
+        "onboard_time": 1706595754,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172631,
+        "num": 172631,
+        "word": "一想到自己工作了就想笑",
+        "onboard_time": 1706595154,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171649,
+        "num": 171649,
+        "word": "科目三创始人的完整版",
+        "onboard_time": 1706586573,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 167227,
+        "num": 167227,
+        "word": "华为Mate60全球销量破3000万台",
+        "onboard_time": 1706589334,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167224,
+        "num": 167224,
+        "word": "9岁男孩肾里取出56个结石",
+        "onboard_time": 1706595994,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161814,
+        "num": 161814,
+        "word": "张杰演唱会大电影正式立项",
+        "onboard_time": 1706592212,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155663,
+        "num": 155663,
+        "word": "迪丽热巴起诉内衣公司侵权",
+        "onboard_time": 1706584288,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155418,
+        "num": 155418,
+        "word": "狗子早市虾筐撒尿主人赔了1800",
+        "onboard_time": 1706588554,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152204,
+        "num": 152204,
+        "word": "我国将遭遇2008年以来最复杂春运天气",
+        "onboard_time": 1706569701,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139826,
+        "num": 139826,
+        "word": "拖着不洗头 堵塞毛囊",
+        "onboard_time": 1706576968,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137178,
+        "num": 137178,
+        "word": "小米汽车保单价格曝光",
+        "onboard_time": 1706588192,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133833,
+        "num": 133833,
+        "word": "周也禾晏凤冠造型",
+        "onboard_time": 1706593592,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125161,
+        "num": 125161,
+        "word": "爱你的人会把你拍得很好看",
+        "onboard_time": 1706594190,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122183,
+        "num": 122183,
+        "word": "藏海传更新简介",
+        "onboard_time": 1706589513,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121779,
+        "num": 121779,
+        "word": "车银优传闻中的弟弟",
+        "onboard_time": 1706580269,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116257,
+        "num": 116257,
+        "word": "五福",
+        "onboard_time": 1706593472,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115160,
+        "num": 115160,
+        "word": "杨幂 2023确实对我好一些了",
+        "onboard_time": 1706582668,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113116,
+        "num": 113116,
+        "word": "张婧仪镂空抹胸吊带裙",
+        "onboard_time": 1706594133,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109939,
+        "num": 109939,
+        "word": "法院判决玖月晞与读者互相道歉",
+        "onboard_time": 1706596351,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
