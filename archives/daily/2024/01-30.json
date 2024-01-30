@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706585714586,
+  "endTime": 1706588368213,
   "band_list": [
     {
       "raw_hot": 2060984,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1837990,
+      "num": 1837990,
+      "word": "玖月晞胜诉",
+      "onboard_time": 1706584647,
+      "rank": 3,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1621349,
       "num": 1621349,
       "word": "敬业福",
       "onboard_time": 1706570361,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1613368,
+      "num": 1613368,
+      "word": "杨幂回应三亿对赌传闻",
+      "onboard_time": 1706584827,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1521644,
@@ -35,12 +51,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1204906,
-      "num": 1204906,
-      "word": "玖月晞胜诉",
-      "onboard_time": 1706584647,
-      "rank": 3,
-      "category": "读书作家,作品衍生"
+      "raw_hot": 1136312,
+      "num": 1136312,
+      "word": "为什么微信红包上限只有200元",
+      "onboard_time": 1706574027,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 1094164,
@@ -83,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 815370,
+      "num": 779835,
+      "word": "杨幂离开嘉行可以接到自己想拍的戏",
+      "onboard_time": 1706585791,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 797969,
       "num": 797969,
       "word": "男演员从校草变吃货称更快乐了",
@@ -91,20 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 784708,
-      "num": 784708,
-      "word": "杨幂回应三亿对赌传闻",
-      "onboard_time": 1706584827,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 775576,
-      "num": 443975,
-      "word": "为什么微信红包上限只有200元",
-      "onboard_time": 1706574027,
-      "rank": 20,
-      "category": "互联网"
+      "raw_hot": 780274,
+      "num": 780274,
+      "word": "快递员为了1000个孩子拒绝升职",
+      "onboard_time": 1706584167,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689923,
@@ -113,6 +129,14 @@
       "onboard_time": 1706580269,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674207,
+      "num": 674207,
+      "word": "弟弟7门不及格教师姐姐怒了一下",
+      "onboard_time": 1706586810,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662639,
@@ -153,6 +177,14 @@
       "onboard_time": 1706563818,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544251,
+      "num": 347951,
+      "word": "杨幂去年找了表演老师改表演习惯",
+      "onboard_time": 1706586091,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 535121,
@@ -227,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 473631,
+      "num": 473631,
+      "word": "科目三创始人的完整版",
+      "onboard_time": 1706586573,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 447332,
       "num": 447332,
       "word": "易烊千玺新闻联播镜头",
@@ -291,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380939,
+      "num": 312119,
+      "word": "高铁站好多情侣在分别",
+      "onboard_time": 1706584827,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368200,
       "num": 368200,
       "word": "官方辟谣上海松江发生爆炸",
@@ -313,6 +361,14 @@
       "onboard_time": 1706576851,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357920,
+      "num": 357920,
+      "word": "北京嘉行经营异常",
+      "onboard_time": 1706585487,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 356355,
@@ -353,14 +409,6 @@
       "onboard_time": 1706580568,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327600,
-      "num": 327600,
-      "word": "快递员为了1000个孩子拒绝升职",
-      "onboard_time": 1706584167,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303052,
@@ -475,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207536,
-      "num": 207536,
-      "word": "高铁站好多情侣在分别",
-      "onboard_time": 1706584827,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207274,
       "num": 207274,
       "word": "偶遇徐明浩买泡面",
@@ -512,6 +552,22 @@
       "word": "于正发卢昱晓原始帧",
       "onboard_time": 1706529569,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199743,
+      "num": 199743,
+      "word": "男子4次创业失败欠债1300万后终逆袭",
+      "onboard_time": 1706588129,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198041,
+      "num": 198041,
+      "word": "马天宇首部古装喜剧",
+      "onboard_time": 1706587890,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -571,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180345,
+      "num": 180345,
+      "word": "杨紫对接辟谣网传项目",
+      "onboard_time": 1706585971,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176607,
       "num": 176607,
       "word": "7岁脑瘫女孩努力当小老师",
@@ -595,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171921,
+      "num": 171921,
+      "word": "范丞丞不会用滑盖手机",
+      "onboard_time": 1706586693,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171335,
       "num": 171335,
       "word": "繁花每一段回放都是一个MV",
@@ -603,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162823,
+      "num": 151726,
+      "word": "杨紫高智感红唇妆",
+      "onboard_time": 1706587291,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159612,
       "num": 159612,
       "word": "2024最走狗屎运的星座",
       "onboard_time": 1706538994,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157434,
+      "num": 157434,
+      "word": "NBA将审查恩比德",
+      "onboard_time": 1706586031,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 157026,
@@ -651,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153105,
+      "num": 153105,
+      "word": "与辉同行主播疑回应抄袭文案",
+      "onboard_time": 1706587952,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150637,
       "num": 150637,
       "word": "你会给孩子尝试成年人的东西吗",
@@ -665,6 +761,14 @@
       "onboard_time": 1706575889,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147101,
+      "num": 147101,
+      "word": "当代年轻人求财现状",
+      "onboard_time": 1706585910,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 147028,
@@ -707,12 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142276,
-      "num": 142276,
-      "word": "北京嘉行经营异常",
-      "onboard_time": 1706585487,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 141595,
+      "num": 141595,
+      "word": "蔡依林演唱会深圳站预售",
+      "onboard_time": 1706587472,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 141422,
@@ -737,6 +841,14 @@
       "onboard_time": 1706542890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131990,
+      "num": 131990,
+      "word": "易烊千玺西装弹贝斯",
+      "onboard_time": 1706588312,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131330,
@@ -787,6 +899,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126609,
+      "num": 119158,
+      "word": "要久久爱是杨紫相聚最多的剧组",
+      "onboard_time": 1706586451,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126550,
+      "num": 126550,
+      "word": "不用预制菜成餐厅新卖点",
+      "onboard_time": 1706587173,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123679,
       "num": 123679,
       "word": "婆婆用儿媳盖头给将出世宝宝做包被",
@@ -819,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118148,
+      "num": 118148,
+      "word": "小米汽车保单价格曝光",
+      "onboard_time": 1706588192,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118074,
       "num": 118074,
       "word": "EDG更换首发上单",
@@ -843,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116139,
+      "num": 116139,
+      "word": "正确洗头的8个步骤",
+      "onboard_time": 1706587653,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 114935,
       "num": 114935,
       "word": "第一批回村的狗已经开始撵鸡了",
@@ -865,6 +1009,14 @@
       "onboard_time": 1706530233,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110438,
+      "num": 110438,
+      "word": "实在不行给猫咪换件宽松毛衣吧",
+      "onboard_time": 1706586031,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 109616,
@@ -1091,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48008,
+      "num": 484569,
+      "word": "如何打造龙年氛围感客厅",
+      "onboard_time": 1706586511,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37605,
       "num": 37605,
       "word": "利雅得新月vs迈阿密国际",
@@ -1121,6 +1281,14 @@
       "onboard_time": 1706550500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23555,
+      "num": 472516,
+      "word": "蛋仔超燃竞技赛",
+      "onboard_time": 1706587229,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 18841,
