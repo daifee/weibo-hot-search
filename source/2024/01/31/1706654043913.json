@@ -1,0 +1,410 @@
+{
+  "runTime": 1706654043913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 235538,
+        "num": 235538,
+        "word": "暴雪预警",
+        "onboard_time": 1706616511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213896,
+        "num": 213896,
+        "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
+        "onboard_time": 1706629168,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11942,
+        "num": 173258,
+        "word": "年货大集里的浓浓年味",
+        "onboard_time": 1706618732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162023,
+        "num": 162023,
+        "word": "董宇辉新账号直播间被指大规模抄袭",
+        "onboard_time": 1706625693,
+        "rank": 3,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 151952,
+        "num": 151952,
+        "word": "研究发现心跳快慢与寿命长短相关",
+        "onboard_time": 1706612789,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107660,
+        "num": 107660,
+        "word": "新疆7.1级地震是典型逆断层型地震",
+        "onboard_time": 1706626890,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105586,
+        "num": 105586,
+        "word": "缅甸白所成父子被移交我公安机关",
+        "onboard_time": 1706624974,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92522,
+        "num": 92522,
+        "word": "史航",
+        "onboard_time": 1706628092,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79238,
+        "num": 79238,
+        "word": "你们五个人能不能一起拍部戏",
+        "onboard_time": 1706622573,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67354,
+        "num": 67354,
+        "word": "62岁利智近照",
+        "onboard_time": 1706614351,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167354,
+        "num": 66746,
+        "word": "谷歌工程师杀妻悲剧发生之前",
+        "onboard_time": 1706626474,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61078,
+        "num": 61078,
+        "word": "小猫误入派出所骗吃骗喝一个月",
+        "onboard_time": 1706636240,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60687,
+        "num": 60687,
+        "word": "坚持一年以上的护肤习惯",
+        "onboard_time": 1706624251,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 55964,
+        "num": 55964,
+        "word": "玉皇大帝和王母娘娘并不是夫妻",
+        "onboard_time": 1706626953,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 51593,
+        "num": 51593,
+        "word": "姨 刚下飞机就健身呢",
+        "onboard_time": 1706620412,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41802,
+        "num": 41802,
+        "word": "周杰伦昆凌看球没坐一起",
+        "onboard_time": 1706618070,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40588,
+        "num": 40588,
+        "word": "长期穿一次性内裤会引发阴道炎吗",
+        "onboard_time": 1706601872,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38330,
+        "num": 38330,
+        "word": "一部涉刑iPhone6S拍出22万天价",
+        "onboard_time": 1706617650,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35232,
+        "num": 35232,
+        "word": "10省将遭遇暴雪大暴雪",
+        "onboard_time": 1706616869,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34880,
+        "num": 34880,
+        "word": "宋威龙微博认证删除欢娱",
+        "onboard_time": 1706611110,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39633,
+        "num": 34262,
+        "word": "3个不良习惯容易得食管癌",
+        "onboard_time": 1706650937,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36276,
+        "num": 34087,
+        "word": "坚持每天走一万步后",
+        "onboard_time": 1706652314,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32925,
+        "num": 32925,
+        "word": "杨雪爆改",
+        "onboard_time": 1706612612,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 29532,
+        "num": 29532,
+        "word": "牛肉价格一跌再跌",
+        "onboard_time": 1706626354,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 29245,
+        "num": 29245,
+        "word": "歌手黄安科普赵传歌曲版权问题",
+        "onboard_time": 1706632946,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29019,
+        "num": 29019,
+        "word": "童瑶早就预判了雷东宝的结局",
+        "onboard_time": 1706627013,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 28093,
+        "word": "秦海璐迪丽热巴最早的交集在2018年",
+        "onboard_time": 1706630427,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27462,
+        "num": 27462,
+        "word": "山竹醇",
+        "onboard_time": 1706628989,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25600,
+        "num": 25600,
+        "word": "美甲刺客",
+        "onboard_time": 1706625333,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23817,
+        "num": 23817,
+        "word": "10名缅北重大电诈嫌犯被押解回国",
+        "onboard_time": 1706624790,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38525,
+        "num": 23631,
+        "word": "姐弟来医院探望刚出生的妹妹",
+        "onboard_time": 1706647395,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22965,
+        "num": 22965,
+        "word": "CEO称字节该有的大公司病全有了",
+        "onboard_time": 1706624314,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22722,
+        "num": 22722,
+        "word": "郑裕玲打卡肖战上海大屏",
+        "onboard_time": 1706619690,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22580,
+        "num": 22580,
+        "word": "好友称杨幂曾一年打12次吊瓶",
+        "onboard_time": 1706611050,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22508,
+        "num": 22508,
+        "word": "A股从保卫3000点到了渴望3000点",
+        "onboard_time": 1706621430,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21793,
+        "num": 21793,
+        "word": "温柔是一种太高级的力量了",
+        "onboard_time": 1706633365,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21438,
+        "num": 21438,
+        "word": "在暴雪时分预约破300万",
+        "onboard_time": 1706629589,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20969,
+        "num": 20969,
+        "word": "宋威龙工作室发声明回应解约",
+        "onboard_time": 1706624193,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20762,
+        "num": 20762,
+        "word": "K宝遭禁赛后首发声",
+        "onboard_time": 1706627732,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20702,
+        "num": 20702,
+        "word": "正确洗头方式",
+        "onboard_time": 1706637440,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19581,
+        "num": 19581,
+        "word": "再亲密的关系也有保质期",
+        "onboard_time": 1706635161,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19415,
+        "num": 19415,
+        "word": "张颂文报复性上网",
+        "onboard_time": 1706616270,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19342,
+        "num": 19342,
+        "word": "要久久爱破万",
+        "onboard_time": 1706625993,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19223,
+        "num": 19223,
+        "word": "田朴珺曝光住五星级酒店床单有血",
+        "onboard_time": 1706611110,
+        "rank": 43,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 18969,
+        "word": "杨幂珠光白旗袍",
+        "onboard_time": 1706620412,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17178,
+        "num": 17178,
+        "word": "官方回应宋祖儿新剧过审",
+        "onboard_time": 1706597673,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17040,
+        "num": 17040,
+        "word": "年味儿真的开始上来了",
+        "onboard_time": 1706648235,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16897,
+        "num": 16897,
+        "word": "美甲过年费",
+        "onboard_time": 1706622088,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13362,
+        "num": 16893,
+        "word": "人鱼姬光美甲",
+        "onboard_time": 1706624733,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12560,
+        "num": 16885,
+        "word": "陈泽直播",
+        "onboard_time": 1706628332,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
