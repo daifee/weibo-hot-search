@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706635018975,
+  "endTime": 1706636043214,
   "band_list": [
     {
       "raw_hot": 1324211,
@@ -417,6 +417,14 @@
       "onboard_time": 1706632645,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62511,
+      "num": 62511,
+      "word": "再亲密的关系也有保质期",
+      "onboard_time": 1706635161,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 41778,

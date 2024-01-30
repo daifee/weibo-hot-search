@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706635018975,
+  "endTime": 1706636043214,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -79681,6 +79681,14 @@
       "onboard_time": 1705980687,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 62511,
+      "num": 62511,
+      "word": "再亲密的关系也有保质期",
+      "onboard_time": 1706635161,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 62348,
