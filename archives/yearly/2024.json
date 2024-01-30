@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706607241754,
+  "endTime": 1706609958365,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1851,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1744185,
+      "num": 1744185,
+      "word": "上海限购",
+      "onboard_time": 1706605891,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1742484,
       "num": 1742484,
       "word": "订婚强奸案",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704136395,
       "rank": 49,
       "category": "自然"
-    },
-    {
-      "raw_hot": 1586454,
-      "num": 1586454,
-      "word": "库迪 王一博",
-      "onboard_time": 1704344435,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
