@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706625261301,
+  "endTime": 1706627906947,
   "band_list": [
     {
       "raw_hot": 2653997,
@@ -9,6 +9,14 @@
       "onboard_time": 1706616511,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2601209,
+      "num": 2601209,
+      "word": "缅甸白所成父子被移交我公安机关",
+      "onboard_time": 1706624974,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2583114,
@@ -185,6 +193,14 @@
       "onboard_time": 1706600552,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 953900,
+      "num": 953900,
+      "word": "10名缅北重大电诈嫌犯被押解回国",
+      "onboard_time": 1706624790,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 952537,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649829,
+      "num": 649829,
+      "word": "你们五个人能不能一起拍部戏",
+      "onboard_time": 1706622573,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 640328,
       "num": 640328,
       "word": "20吨洋垃圾入境伴有强烈腐臭味",
@@ -443,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630138,
-      "num": 630138,
-      "word": "你们五个人能不能一起拍部戏",
-      "onboard_time": 1706622573,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 632316,
+      "num": 632316,
+      "word": "董宇辉新账号直播间被指大规模抄袭",
+      "onboard_time": 1706625693,
+      "rank": 6,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 628737,
@@ -472,14 +496,6 @@
       "word": "被奔驰加塞车主称已对车辆做完定损",
       "onboard_time": 1706615732,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 626570,
-      "num": 626570,
-      "word": "10名缅北重大电诈嫌犯被押解回国",
-      "onboard_time": 1706624790,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -705,6 +721,14 @@
       "onboard_time": 1706604690,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 450120,
+      "num": 350521,
+      "word": "谷歌工程师杀妻悲剧发生之前",
+      "onboard_time": 1706626474,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447332,
@@ -1011,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 335632,
+      "num": 335632,
+      "word": "要久久爱破万",
+      "onboard_time": 1706625993,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333451,
       "num": 333451,
       "word": "杨幂今年三台春晚",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1706591794,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325424,
+      "num": 325424,
+      "word": "坚持一年以上的护肤习惯",
+      "onboard_time": 1706624251,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 320535,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1706605953,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308953,
+      "num": 308953,
+      "word": "谢娜求助何炅怎么当卧底",
+      "onboard_time": 1706627072,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 308919,
@@ -1123,12 +1171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293285,
+      "num": 293285,
+      "word": "新疆7.1级地震是典型逆断层型地震",
+      "onboard_time": 1706626890,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291201,
       "num": 273926,
       "word": "男子4次创业失败欠债1300万后终逆袭",
       "onboard_time": 1706588129,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289274,
+      "num": 289274,
+      "word": "玉皇大帝和王母娘娘并不是夫妻",
+      "onboard_time": 1706626953,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 287643,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1706575591,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273751,
+      "num": 273751,
+      "word": "美甲刺客",
+      "onboard_time": 1706625333,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 268435,
@@ -1243,14 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244873,
-      "num": 244873,
-      "word": "缅甸白所成父子被移交我公安机关",
-      "onboard_time": 1706624974,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 241250,
       "num": 241250,
       "word": "丰田汽车会长道歉",
@@ -1313,14 +1377,6 @@
       "onboard_time": 1706615372,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230865,
-      "num": 230865,
-      "word": "坚持一年以上的护肤习惯",
-      "onboard_time": 1706624251,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 230397,
@@ -1523,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202100,
+      "num": 202100,
+      "word": "牛肉价格一跌再跌",
+      "onboard_time": 1706626354,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 201954,
       "num": 201954,
       "word": "于正发卢昱晓原始帧",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1706617891,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191241,
+      "num": 191241,
+      "word": "童瑶早就预判了雷东宝的结局",
+      "onboard_time": 1706627013,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 189539,
@@ -1955,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152686,
+      "num": 152686,
+      "word": "韩菱纱哭戏",
+      "onboard_time": 1706627372,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150637,
       "num": 150637,
       "word": "你会给孩子尝试成年人的东西吗",
@@ -2065,6 +2145,14 @@
       "onboard_time": 1706597487,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 143927,
+      "num": 143927,
+      "word": "末将直播间刷了N个嘉年华",
+      "onboard_time": 1706627552,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 143543,
@@ -2323,6 +2411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125152,
+      "num": 114711,
+      "word": "杨幂采访 流量演员直面事实",
+      "onboard_time": 1706627611,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "小狗只在乎香肠好不好吃",
@@ -2387,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122072,
+      "num": 122072,
+      "word": "大卫詹姆斯63分21篮板",
+      "onboard_time": 1706624974,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121919,
       "num": 121919,
       "word": "马斯克首个脑机接口产品叫心灵感应",
@@ -2409,14 +2513,6 @@
       "onboard_time": 1706573188,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120164,
-      "num": 120164,
-      "word": "大卫詹姆斯63分21篮板",
-      "onboard_time": 1706624974,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 118702,
@@ -2531,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112260,
+      "num": 112260,
+      "word": "K宝遭禁赛后首发声",
+      "onboard_time": 1706627732,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111388,
       "num": 111388,
       "word": "金莎cos18岁的蓝菲琳",
@@ -2561,6 +2665,14 @@
       "onboard_time": 1706565976,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106296,
+      "num": 106296,
+      "word": "于适为邓放写的人物小传",
+      "onboard_time": 1706625452,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105061,
@@ -2668,7 +2780,7 @@
     },
     {
       "raw_hot": 91161,
-      "num": 1068785,
+      "num": 1230434,
       "word": "年货大集里的浓浓年味",
       "onboard_time": 1706618732,
       "rank": 2,
@@ -2876,7 +2988,7 @@
     },
     {
       "raw_hot": 30746,
-      "num": 118385,
+      "num": 293765,
       "word": "小鹏开启智驾春运元年",
       "onboard_time": 1706624974,
       "rank": 45,
