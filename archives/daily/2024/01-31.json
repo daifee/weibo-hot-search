@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706643241506,
+  "endTime": 1706645815279,
   "band_list": [
     {
       "raw_hot": 1324211,
@@ -457,6 +457,22 @@
       "onboard_time": 1706639058,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11244,
+      "num": 11244,
+      "word": "守护甜心 歌呗酷洛米海报",
+      "onboard_time": 1706645117,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 10822,
+      "num": 10822,
+      "word": "es 绘旅人",
+      "onboard_time": 1706644516,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
