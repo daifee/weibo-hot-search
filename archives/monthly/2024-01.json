@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706636043214,
+  "endTime": 1706638871354,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -79587,6 +79587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63987,
+      "num": 62511,
+      "word": "再亲密的关系也有保质期",
+      "onboard_time": 1706635161,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63881,
       "num": 150964,
       "word": "荣耀发布首款保时捷设计折叠屏",
@@ -79681,14 +79689,6 @@
       "onboard_time": 1705980687,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 62511,
-      "num": 62511,
-      "word": "再亲密的关系也有保质期",
-      "onboard_time": 1706635161,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 62348,
@@ -80387,6 +80387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52658,
+      "num": 52658,
+      "word": "小猫误入派出所骗吃骗喝一个月",
+      "onboard_time": 1706636240,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52587,
       "num": 380417,
       "word": "极氪X如何拿捏高颜值装备控",
@@ -80881,6 +80889,14 @@
       "onboard_time": 1705815207,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 48008,
+      "num": 48008,
+      "word": "正确洗头方式",
+      "onboard_time": 1706637440,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47983,
