@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706624150568,
+  "endTime": 1706625261301,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -9955,6 +9955,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 780352,
+      "num": 780352,
+      "word": "美甲过年费",
+      "onboard_time": 1706622088,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 780274,
       "num": 1069608,
       "word": "快递员为了1000个孩子拒绝升职",
@@ -10121,14 +10129,6 @@
       "onboard_time": 1705709363,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771427,
-      "num": 771427,
-      "word": "美甲过年费",
-      "onboard_time": 1706622088,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 771114,
@@ -13291,6 +13291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 651072,
+      "num": 651072,
+      "word": "宋威龙工作室发声明回应解约",
+      "onboard_time": 1706624193,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650857,
       "num": 650857,
       "word": "鹿晗女粉丝为偶像赴深圳见C罗",
@@ -13771,6 +13779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630138,
+      "num": 630138,
+      "word": "你们五个人能不能一起拍部戏",
+      "onboard_time": 1706622573,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 629878,
       "num": 629878,
       "word": "2024国考笔试放榜",
@@ -13889,6 +13905,14 @@
       "onboard_time": 1704954809,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 626570,
+      "num": 626570,
+      "word": "10名缅北重大电诈嫌犯被押解回国",
+      "onboard_time": 1706624790,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626466,
@@ -19699,6 +19723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 484615,
+      "num": 484615,
+      "word": "杨幂珠光白旗袍",
+      "onboard_time": 1706620412,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 484373,
       "num": 484373,
       "word": "HYBS解散",
@@ -19929,14 +19961,6 @@
       "onboard_time": 1705722388,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479346,
-      "num": 479346,
-      "word": "杨幂珠光白旗袍",
-      "onboard_time": 1706620412,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 479085,
@@ -27219,6 +27243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350906,
+      "num": 350906,
+      "word": "南京大屠杀幸存者程福保离世",
+      "onboard_time": 1706623834,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 350694,
       "num": 231155,
       "word": "周震南一年瘦了30斤",
@@ -30244,7 +30276,7 @@
     },
     {
       "raw_hot": 308919,
-      "num": 236354,
+      "num": 260710,
       "word": "赵露思草莓元气妆",
       "onboard_time": 1706622989,
       "rank": 20,
@@ -32025,14 +32057,6 @@
       "onboard_time": 1704204215,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288553,
-      "num": 288553,
-      "word": "你们五个人能不能一起拍部戏",
-      "onboard_time": 1706622573,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288542,
@@ -36899,6 +36923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244873,
+      "num": 244873,
+      "word": "缅甸白所成父子被移交我公安机关",
+      "onboard_time": 1706624974,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 244848,
       "num": 244848,
       "word": "武汉一家3口的雕塑变成一家5口",
@@ -38865,6 +38897,14 @@
       "onboard_time": 1705558826,
       "rank": 43,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 230865,
+      "num": 230865,
+      "word": "坚持一年以上的护肤习惯",
+      "onboard_time": 1706624251,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 230845,
@@ -46739,6 +46779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196351,
+      "num": 196351,
+      "word": "谁家猫咪喝水这么端正",
+      "onboard_time": 1706623591,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196346,
       "num": 196346,
       "word": "腊八",
@@ -47049,6 +47097,14 @@
       "onboard_time": 1704711210,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195455,
+      "num": 195455,
+      "word": "CEO称字节该有的大公司病全有了",
+      "onboard_time": 1706624314,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 195417,
@@ -56003,14 +56059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165412,
-      "num": 165412,
-      "word": "谁家猫咪喝水这么端正",
-      "onboard_time": 1706623591,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165400,
       "num": 165400,
       "word": "SuperLady歌词",
@@ -56065,6 +56113,14 @@
       "onboard_time": 1704517830,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165217,
+      "num": 165217,
+      "word": "人鱼姬光美甲",
+      "onboard_time": 1706624733,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 165153,
@@ -57297,14 +57353,6 @@
       "onboard_time": 1706201424,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160633,
-      "num": 160633,
-      "word": "南京大屠杀幸存者程福保离世",
-      "onboard_time": 1706623834,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160588,
@@ -64347,6 +64395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139220,
+      "num": 139220,
+      "word": "东北人社交能力有多强",
+      "onboard_time": 1706624552,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139166,
       "num": 139166,
       "word": "侯明昊有效摘面具",
@@ -64433,6 +64489,14 @@
       "onboard_time": 1705905264,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138901,
+      "num": 138901,
+      "word": "周琦违体犯规",
+      "onboard_time": 1706624433,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 138879,
@@ -70995,6 +71059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120164,
+      "num": 120164,
+      "word": "大卫詹姆斯63分21篮板",
+      "onboard_time": 1706624974,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120108,
       "num": 120108,
       "word": "曾黎到底有多少京剧单品",
@@ -71593,6 +71665,14 @@
       "onboard_time": 1705200392,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118222,
+      "num": 118222,
+      "word": "杨紫范丞丞告别哭戏",
+      "onboard_time": 1706621732,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 118199,
@@ -75673,14 +75753,6 @@
       "onboard_time": 1705731746,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100931,
-      "num": 100931,
-      "word": "杨紫范丞丞告别哭戏",
-      "onboard_time": 1706621732,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 100852,
@@ -81809,6 +81881,14 @@
       "onboard_time": 1706554517,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30746,
+      "num": 118385,
+      "word": "小鹏开启智驾春运元年",
+      "onboard_time": 1706624974,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 30553,

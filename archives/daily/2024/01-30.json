@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706624150568,
+  "endTime": 1706625261301,
   "band_list": [
     {
       "raw_hot": 2653997,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780352,
+      "num": 780352,
+      "word": "美甲过年费",
+      "onboard_time": 1706622088,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 780274,
       "num": 1069608,
       "word": "快递员为了1000个孩子拒绝升职",
@@ -337,14 +345,6 @@
       "onboard_time": 1706600128,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 771427,
-      "num": 771427,
-      "word": "美甲过年费",
-      "onboard_time": 1706622088,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 771114,
@@ -427,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651072,
+      "num": 651072,
+      "word": "宋威龙工作室发声明回应解约",
+      "onboard_time": 1706624193,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640328,
       "num": 640328,
       "word": "20吨洋垃圾入境伴有强烈腐臭味",
       "onboard_time": 1706593769,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630138,
+      "num": 630138,
+      "word": "你们五个人能不能一起拍部戏",
+      "onboard_time": 1706622573,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 628737,
@@ -456,6 +472,14 @@
       "word": "被奔驰加塞车主称已对车辆做完定损",
       "onboard_time": 1706615732,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626570,
+      "num": 626570,
+      "word": "10名缅北重大电诈嫌犯被押解回国",
+      "onboard_time": 1706624790,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -643,20 +667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484615,
+      "num": 484615,
+      "word": "杨幂珠光白旗袍",
+      "onboard_time": 1706620412,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 481967,
       "num": 481967,
       "word": "真正理解到了男左女右",
       "onboard_time": 1706594311,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 479346,
-      "num": 479346,
-      "word": "杨幂珠光白旗袍",
-      "onboard_time": 1706620412,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 477054,
@@ -963,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350906,
+      "num": 350906,
+      "word": "南京大屠杀幸存者程福保离世",
+      "onboard_time": 1706623834,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 349666,
       "num": 349666,
       "word": "马化腾年会红毛衣某宝79元",
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 308919,
-      "num": 236354,
+      "num": 260710,
       "word": "赵露思草莓元气妆",
       "onboard_time": 1706622989,
       "rank": 20,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1706588129,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288553,
-      "num": 288553,
-      "word": "你们五个人能不能一起拍部戏",
-      "onboard_time": 1706622573,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 287643,
@@ -1219,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244873,
+      "num": 244873,
+      "word": "缅甸白所成父子被移交我公安机关",
+      "onboard_time": 1706624974,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 241250,
       "num": 241250,
       "word": "丰田汽车会长道歉",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1706615372,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230865,
+      "num": 230865,
+      "word": "坚持一年以上的护肤习惯",
+      "onboard_time": 1706624251,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 230397,
@@ -1539,6 +1579,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 196351,
+      "num": 196351,
+      "word": "谁家猫咪喝水这么端正",
+      "onboard_time": 1706623591,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196331,
       "num": 196331,
       "word": "金道勋韩振合照",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1706583508,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195455,
+      "num": 195455,
+      "word": "CEO称字节该有的大公司病全有了",
+      "onboard_time": 1706624314,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 195190,
@@ -1771,14 +1827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165412,
-      "num": 165412,
-      "word": "谁家猫咪喝水这么端正",
-      "onboard_time": 1706623591,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165400,
       "num": 165400,
       "word": "SuperLady歌词",
@@ -1787,20 +1835,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165217,
+      "num": 165217,
+      "word": "人鱼姬光美甲",
+      "onboard_time": 1706624733,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 162823,
       "num": 151726,
       "word": "杨紫高智感红唇妆",
       "onboard_time": 1706587291,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160633,
-      "num": 160633,
-      "word": "南京大屠杀幸存者程福保离世",
-      "onboard_time": 1706623834,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160500,
@@ -2091,6 +2139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139220,
+      "num": 139220,
+      "word": "东北人社交能力有多强",
+      "onboard_time": 1706624552,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139147,
       "num": 139147,
       "word": "魏大勋又穿皮衣了",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1706612312,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138901,
+      "num": 138901,
+      "word": "周琦违体犯规",
+      "onboard_time": 1706624433,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 138841,
@@ -2347,12 +2411,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120164,
+      "num": 120164,
+      "word": "大卫詹姆斯63分21篮板",
+      "onboard_time": 1706624974,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118702,
       "num": 118702,
       "word": "李明德来了王锵也来了",
       "onboard_time": 1706574268,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118222,
+      "num": 118222,
+      "word": "杨紫范丞丞告别哭戏",
+      "onboard_time": 1706621732,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 118074,
@@ -2521,14 +2601,6 @@
       "onboard_time": 1706582906,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100931,
-      "num": 100931,
-      "word": "杨紫范丞丞告别哭戏",
-      "onboard_time": 1706621732,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 99928,
@@ -2801,6 +2873,14 @@
       "onboard_time": 1706554517,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30746,
+      "num": 118385,
+      "word": "小鹏开启智驾春运元年",
+      "onboard_time": 1706624974,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 30231,
