@@ -1,0 +1,410 @@
+{
+  "runTime": 1706603653478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786031,
+        "num": 1786031,
+        "word": "冀F8656Z",
+        "onboard_time": 1706590473,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198778,
+        "num": 1198778,
+        "word": "官方回应宋祖儿新剧过审",
+        "onboard_time": 1706597673,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97135,
+        "num": 1025721,
+        "word": "五福临门指哪五福",
+        "onboard_time": 1706583629,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952537,
+        "num": 952537,
+        "word": "史航已就性骚扰风波提起诉讼",
+        "onboard_time": 1706601751,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 895825,
+        "num": 895825,
+        "word": "汕头发现一具鲸鱼尸体",
+        "onboard_time": 1706596952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757040,
+        "num": 757040,
+        "word": "史航再回应性骚扰传闻",
+        "onboard_time": 1706600128,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 714270,
+        "num": 714270,
+        "word": "郑州降雪预报图全黑",
+        "onboard_time": 1706601512,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710273,
+        "num": 710273,
+        "word": "韩国爆火的淀粉牙签最初是用来喂猪的",
+        "onboard_time": 1706601272,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633061,
+        "num": 633061,
+        "word": "中央气象台",
+        "onboard_time": 1706600729,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614517,
+        "num": 614517,
+        "word": "夏克立称黄嘉千家暴伤势是自己抓的",
+        "onboard_time": 1706598210,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545875,
+        "num": 545875,
+        "word": "A股节前会站上3000点吗",
+        "onboard_time": 1706600970,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 522212,
+        "num": 522212,
+        "word": "杨幂回应三亿对赌传闻",
+        "onboard_time": 1706584827,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487222,
+        "num": 487222,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 482093,
+        "num": 482093,
+        "word": "外卖员买下退单餐品意外中3.8万元金条",
+        "onboard_time": 1706601992,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457632,
+        "num": 457632,
+        "word": "全球一半食管癌在中国",
+        "onboard_time": 1706600552,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347094,
+        "num": 347094,
+        "word": "迪丽热巴嗑到了一生辛胡",
+        "onboard_time": 1706598932,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318715,
+        "num": 318715,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309556,
+        "num": 309556,
+        "word": "全智贤旧照",
+        "onboard_time": 1706600430,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278408,
+        "num": 278408,
+        "word": "这么离谱的天气预报图头一次见",
+        "onboard_time": 1706600608,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276494,
+        "num": 276494,
+        "word": "快递员为了1000个孩子拒绝升职",
+        "onboard_time": 1706584167,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109010,
+        "num": 256057,
+        "word": "刘强东给老家发年货了",
+        "onboard_time": 1706600788,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352032,
+        "num": 253587,
+        "word": "女子拒绝行房被打捣压丈夫颈部致死",
+        "onboard_time": 1706590594,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250083,
+        "num": 250083,
+        "word": "9岁男孩肾里取出56个结石",
+        "onboard_time": 1706595994,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248123,
+        "num": 248123,
+        "word": "家中唯一男孩被拐父亲抱憾离世",
+        "onboard_time": 1706602471,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235764,
+        "num": 235764,
+        "word": "脏手指",
+        "onboard_time": 1706594969,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217118,
+        "num": 217118,
+        "word": "基金",
+        "onboard_time": 1706601210,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214545,
+        "num": 214545,
+        "word": "李英爱再演大长今",
+        "onboard_time": 1706595273,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198905,
+        "num": 198905,
+        "word": "小默回应史航",
+        "onboard_time": 1706602709,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 195408,
+        "num": 195408,
+        "word": "隆多被捕",
+        "onboard_time": 1706594552,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180863,
+        "num": 180863,
+        "word": "美方突击搜查在美中资企业",
+        "onboard_time": 1706603192,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 568189,
+        "num": 175086,
+        "word": "长期穿一次性内裤会引发阴道炎吗",
+        "onboard_time": 1706601872,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225759,
+        "num": 170381,
+        "word": "嫌疑人李小龙落网",
+        "onboard_time": 1706602411,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192118,
+        "num": 170197,
+        "word": "马天宇卜冠今演情侣",
+        "onboard_time": 1706602891,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 165446,
+        "word": "北极狐换毛尴尬期",
+        "onboard_time": 1706602952,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164759,
+        "num": 164759,
+        "word": "玖月晞胜诉",
+        "onboard_time": 1706584647,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162303,
+        "num": 162303,
+        "word": "好多的头发 好牛的创意",
+        "onboard_time": 1706601030,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 151886,
+        "num": 151886,
+        "word": "20吨洋垃圾入境伴有强烈腐臭味",
+        "onboard_time": 1706593769,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151020,
+        "num": 151020,
+        "word": "真正理解到了男左女右",
+        "onboard_time": 1706594311,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149890,
+        "num": 149890,
+        "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
+        "onboard_time": 1706591852,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 148960,
+        "num": 148960,
+        "word": "易烊千玺眼睛肿了",
+        "onboard_time": 1706588854,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138603,
+        "num": 138603,
+        "word": "AG全员美式证件照",
+        "onboard_time": 1706601872,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 137203,
+        "word": "华为龙年手机壳上架官网",
+        "onboard_time": 1706602172,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136955,
+        "num": 136955,
+        "word": "A股",
+        "onboard_time": 1706596535,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126959,
+        "num": 126959,
+        "word": "非法足球 李铁",
+        "onboard_time": 1706597252,
+        "rank": 43,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 125503,
+        "num": 125503,
+        "word": "结了六次婚得出的经验教训",
+        "onboard_time": 1706589153,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125061,
+        "num": 125061,
+        "word": "小狗只在乎香肠好不好吃",
+        "onboard_time": 1706603072,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124540,
+        "num": 124540,
+        "word": "王俊凯张子枫电影",
+        "onboard_time": 1706591431,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124445,
+        "num": 124445,
+        "word": "洋垃圾的危害",
+        "onboard_time": 1706603009,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113688,
+        "num": 113688,
+        "word": "尔滨1小时找到小金豆失散30年亲人",
+        "onboard_time": 1706602891,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 113250,
+        "num": 113250,
+        "word": "慕容紫英 仙侠文师尊",
+        "onboard_time": 1706602652,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记嘱托加油干#"
+    }
+  }
+}
