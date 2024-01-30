@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706639637568,
+  "endTime": 1706642018629,
   "band_list": [
     {
       "raw_hot": 1324211,
@@ -315,8 +315,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 95130,
-      "num": 95130,
+      "raw_hot": 95584,
+      "num": 95584,
       "word": "陈泽直播",
       "onboard_time": 1706628332,
       "rank": 39,
@@ -451,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20624,
-      "num": 21692,
+      "raw_hot": 22994,
+      "num": 22994,
       "word": "王者对局环境新机制获奖方案",
       "onboard_time": 1706639058,
       "rank": 47,
