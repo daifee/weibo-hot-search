@@ -1,0 +1,410 @@
+{
+  "runTime": 1706577086891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2051767,
+        "num": 2051767,
+        "word": "我国将遭遇2008年以来最复杂春运天气",
+        "onboard_time": 1706569701,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441763,
+        "num": 1441763,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63318,
+        "num": 1113902,
+        "word": "当千里江山图遇见清新福建",
+        "onboard_time": 1706574691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914949,
+        "num": 914949,
+        "word": "女子被未戴嘴笼狗吓到与主人扭打",
+        "onboard_time": 1706574088,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662639,
+        "num": 662639,
+        "word": "祝绪丹 镜花缘",
+        "onboard_time": 1706574570,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652022,
+        "num": 652022,
+        "word": "车厘子吃多了是种什么体验",
+        "onboard_time": 1706576012,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 618380,
+        "num": 618380,
+        "word": "马斯克官宣首次脑机接口人体实验",
+        "onboard_time": 1706572348,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 571931,
+        "num": 571931,
+        "word": "何猷君晒湖北省政协会议现场照",
+        "onboard_time": 1706573307,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535121,
+        "num": 535121,
+        "word": "48岁的蒋勤勤",
+        "onboard_time": 1706571924,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471149,
+        "num": 471149,
+        "word": "杨紫刘宇宁 风月不相关",
+        "onboard_time": 1706575889,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462204,
+        "num": 462204,
+        "word": "为什么睡得越多反而越累",
+        "onboard_time": 1706538573,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 430303,
+        "num": 430303,
+        "word": "突然发现东北审美从不推崇白幼瘦",
+        "onboard_time": 1706570063,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392214,
+        "num": 392214,
+        "word": "德州",
+        "onboard_time": 1706575290,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 388521,
+        "num": 388521,
+        "word": "官方调查大学生扮锦衣卫迎客",
+        "onboard_time": 1706563818,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356190,
+        "num": 356190,
+        "word": "gidle新歌MV撞车多位欧美歌手",
+        "onboard_time": 1706571805,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342069,
+        "num": 342069,
+        "word": "花少节目组超重费花了20多万",
+        "onboard_time": 1706529930,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305005,
+        "num": 305005,
+        "word": "知情人回应网红宝妈因感冒去世",
+        "onboard_time": 1706562797,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304492,
+        "num": 304492,
+        "word": "00后女大学生保研后开珠宝店月入过万",
+        "onboard_time": 1706540854,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291357,
+        "num": 291357,
+        "word": "美邦创始人回应衣服丑价格贵",
+        "onboard_time": 1706541153,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255477,
+        "num": 255477,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706539831,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 775576,
+        "num": 243286,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275781,
+        "num": 236695,
+        "word": "春运最冷清的是长途汽车站",
+        "onboard_time": 1706575591,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224932,
+        "num": 224932,
+        "word": "马斯克重夺世界首富位置",
+        "onboard_time": 1706576370,
+        "rank": 22,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 208051,
+        "num": 208051,
+        "word": "女子遭男友骗光6套房还被小三",
+        "onboard_time": 1706539532,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200931,
+        "num": 200931,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194494,
+        "num": 194494,
+        "word": "香港偶遇宋轶文咏珊逛街",
+        "onboard_time": 1706531432,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188469,
+        "num": 188469,
+        "word": "现在削甘蔗已经先进到这种地步了",
+        "onboard_time": 1706570121,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176607,
+        "num": 176607,
+        "word": "7岁脑瘫女孩努力当小老师",
+        "onboard_time": 1706575591,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171078,
+        "num": 171078,
+        "word": "英国男子爬29楼跳伞伞没打开当场身亡",
+        "onboard_time": 1706537133,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169915,
+        "num": 169915,
+        "word": "多地限制教师非正常流动",
+        "onboard_time": 1706533530,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163292,
+        "num": 163292,
+        "word": "韩庚曾曝被SM公司区别对待",
+        "onboard_time": 1706530291,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155669,
+        "num": 155669,
+        "word": "拖着不洗头 堵塞毛囊",
+        "onboard_time": 1706576968,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154039,
+        "num": 154039,
+        "word": "浙江父亲想用AI复活儿子",
+        "onboard_time": 1706534432,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153400,
+        "num": 153400,
+        "word": "我妈又在家庭群里催婚被我怼了",
+        "onboard_time": 1706571325,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 151473,
+        "word": "金高银李到晛 破墓",
+        "onboard_time": 1706576851,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150809,
+        "num": 150809,
+        "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
+        "onboard_time": 1706542052,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150051,
+        "num": 150051,
+        "word": "豆豆收到康辉的新年礼物笑了",
+        "onboard_time": 1706575889,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144322,
+        "num": 144322,
+        "word": "6种症状提醒你该查血脂了",
+        "onboard_time": 1706539893,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140863,
+        "num": 140863,
+        "word": "订婚强奸案",
+        "onboard_time": 1706517931,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133923,
+        "num": 133923,
+        "word": "女子机场手袋破洞获赠26寸行李箱",
+        "onboard_time": 1706542890,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128553,
+        "num": 128553,
+        "word": "白起你在干嘛",
+        "onboard_time": 1706573970,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125730,
+        "num": 125730,
+        "word": "易烊千玺新闻联播镜头",
+        "onboard_time": 1706531914,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123679,
+        "num": 123679,
+        "word": "婆婆用儿媳盖头给将出世宝宝做包被",
+        "onboard_time": 1706535813,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120778,
+        "num": 120778,
+        "word": "现在的猪肉为何越来越难吃",
+        "onboard_time": 1706573188,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119097,
+        "num": 119097,
+        "word": "肖战红西装大背头",
+        "onboard_time": 1706541392,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118702,
+        "num": 118702,
+        "word": "李明德来了王锵也来了",
+        "onboard_time": 1706574268,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118074,
+        "num": 118074,
+        "word": "EDG更换首发上单",
+        "onboard_time": 1706572465,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117393,
+        "num": 117393,
+        "word": "扫福",
+        "onboard_time": 1706574991,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114935,
+        "num": 114935,
+        "word": "第一批回村的狗已经开始撵鸡了",
+        "onboard_time": 1706568798,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114765,
+        "num": 114765,
+        "word": "网友把黄渤看成张艺兴妈妈",
+        "onboard_time": 1706568380,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建优势互补高质量发展的区域经济布局#"
+    }
+  }
+}

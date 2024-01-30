@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706571263863,
+  "endTime": 1706577086891,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1704283411,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2051767,
+      "num": 2051767,
+      "word": "我国将遭遇2008年以来最复杂春运天气",
+      "onboard_time": 1706569701,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2045495,
@@ -2969,6 +2977,14 @@
       "onboard_time": 1705475909,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1441763,
+      "num": 1441763,
+      "word": "敬业福",
+      "onboard_time": 1706570361,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 1438103,
@@ -7347,6 +7363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 914949,
+      "num": 914949,
+      "word": "女子被未戴嘴笼狗吓到与主人扭打",
+      "onboard_time": 1706574088,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913621,
       "num": 913621,
       "word": "辛芷蕾的面部折叠度",
@@ -9737,6 +9761,14 @@
       "onboard_time": 1705691114,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775576,
+      "num": 243286,
+      "word": "为什么微信红包上限只有200元",
+      "onboard_time": 1706574027,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 775326,
@@ -12475,6 +12507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 662639,
+      "num": 662639,
+      "word": "祝绪丹 镜花缘",
+      "onboard_time": 1706574570,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662304,
       "num": 662304,
       "word": "双林3比0小胖头",
@@ -12865,6 +12905,14 @@
       "onboard_time": 1704260310,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652022,
+      "num": 652022,
+      "word": "车厘子吃多了是种什么体验",
+      "onboard_time": 1706576012,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 651265,
@@ -13721,6 +13769,14 @@
       "onboard_time": 1705491810,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 618380,
+      "num": 618380,
+      "word": "马斯克官宣首次脑机接口人体实验",
+      "onboard_time": 1706572348,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 618223,
@@ -15411,6 +15467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571931,
+      "num": 571931,
+      "word": "何猷君晒湖北省政协会议现场照",
+      "onboard_time": 1706573307,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571601,
       "num": 571601,
       "word": "东契奇73分",
@@ -16897,6 +16961,14 @@
       "onboard_time": 1705027349,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 535121,
+      "num": 535121,
+      "word": "48岁的蒋勤勤",
+      "onboard_time": 1706571924,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 534964,
@@ -19787,6 +19859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 471149,
+      "num": 471149,
+      "word": "杨紫刘宇宁 风月不相关",
+      "onboard_time": 1706575889,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471137,
       "num": 471137,
       "word": "瞧给虞书欣都吓出烟嗓了",
@@ -21809,6 +21889,14 @@
       "onboard_time": 1704767010,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 430303,
+      "num": 430303,
+      "word": "突然发现东北审美从不推崇白幼瘦",
+      "onboard_time": 1706570063,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 429915,
@@ -26091,6 +26179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356190,
+      "num": 356190,
+      "word": "gidle新歌MV撞车多位欧美歌手",
+      "onboard_time": 1706571805,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356180,
       "num": 1350328,
       "word": "以前的和叶vs现在的和叶",
@@ -26164,7 +26260,7 @@
     },
     {
       "raw_hot": 354509,
-      "num": 248479,
+      "num": 305005,
       "word": "知情人回应网红宝妈因感冒去世",
       "onboard_time": 1706562797,
       "rank": 30,
@@ -28017,14 +28113,6 @@
       "onboard_time": 1704108761,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324341,
-      "num": 123102,
-      "word": "我国将遭遇2008年以来最复杂春运天气",
-      "onboard_time": 1706569701,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324250,
@@ -32427,6 +32515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275781,
+      "num": 236695,
+      "word": "春运最冷清的是长途汽车站",
+      "onboard_time": 1706575591,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275723,
       "num": 275723,
       "word": "杨超越演疯批小白花",
@@ -34625,14 +34721,6 @@
       "onboard_time": 1706104596,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254104,
-      "num": 254104,
-      "word": "敬业福",
-      "onboard_time": 1706570361,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 254054,
@@ -38841,6 +38929,14 @@
       "onboard_time": 1704451891,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224932,
+      "num": 224932,
+      "word": "马斯克重夺世界首富位置",
+      "onboard_time": 1706576370,
+      "rank": 22,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 224914,
@@ -47851,6 +47947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188469,
+      "num": 188469,
+      "word": "现在削甘蔗已经先进到这种地步了",
+      "onboard_time": 1706570121,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188449,
       "num": 182290,
       "word": "街边80一斤的凉拌土鸡",
@@ -51113,6 +51217,14 @@
       "onboard_time": 1706088988,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176607,
+      "num": 176607,
+      "word": "7岁脑瘫女孩努力当小老师",
+      "onboard_time": 1706575591,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176605,
@@ -57387,6 +57499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155669,
+      "num": 155669,
+      "word": "拖着不洗头 堵塞毛囊",
+      "onboard_time": 1706576968,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155663,
       "num": 155663,
       "word": "荣耀MagicOS",
@@ -58017,6 +58137,14 @@
       "onboard_time": 1705401449,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153400,
+      "num": 153400,
+      "word": "我妈又在家庭群里催婚被我怼了",
+      "onboard_time": 1706571325,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 153395,
@@ -58723,6 +58851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151473,
+      "num": 151473,
+      "word": "金高银李到晛 破墓",
+      "onboard_time": 1706576851,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151438,
       "num": 151438,
       "word": "广州30岁诗人因抑郁症离世",
@@ -59089,6 +59225,14 @@
       "onboard_time": 1704398293,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 150051,
+      "num": 150051,
+      "word": "豆豆收到康辉的新年礼物笑了",
+      "onboard_time": 1706575889,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150008,
@@ -66187,6 +66331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128553,
+      "num": 128553,
+      "word": "白起你在干嘛",
+      "onboard_time": 1706573970,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128518,
       "num": 128518,
       "word": "三哥你就宠她吧",
@@ -68795,6 +68947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120778,
+      "num": 120778,
+      "word": "现在的猪肉为何越来越难吃",
+      "onboard_time": 1706573188,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120775,
       "num": 120775,
       "word": "屈臣氏擅自分装洗护用品被罚15万",
@@ -69427,6 +69587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118702,
+      "num": 118702,
+      "word": "李明德来了王锵也来了",
+      "onboard_time": 1706574268,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118699,
       "num": 118699,
       "word": "小孩 这生意我今天非做不可",
@@ -69641,6 +69809,14 @@
       "onboard_time": 1704286775,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118074,
+      "num": 118074,
+      "word": "EDG更换首发上单",
+      "onboard_time": 1706572465,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 118070,
@@ -69865,6 +70041,14 @@
       "onboard_time": 1705997730,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117393,
+      "num": 117393,
+      "word": "扫福",
+      "onboard_time": 1706574991,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 117371,
@@ -70409,6 +70593,14 @@
       "onboard_time": 1706489970,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114935,
+      "num": 114935,
+      "word": "第一批回村的狗已经开始撵鸡了",
+      "onboard_time": 1706568798,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 114916,
@@ -71265,14 +71457,6 @@
       "onboard_time": 1705508308,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111734,
-      "num": 111734,
-      "word": "突然发现东北审美从不推崇白幼瘦",
-      "onboard_time": 1706570063,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 111675,
@@ -73049,14 +73233,6 @@
       "onboard_time": 1704460773,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103323,
-      "num": 103323,
-      "word": "现在削甘蔗已经先进到这种地步了",
-      "onboard_time": 1706570121,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 103320,
@@ -75587,14 +75763,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 84827,
-      "num": 84827,
-      "word": "第一批回村的狗已经开始撵鸡了",
-      "onboard_time": 1706568798,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84708,
       "num": 84708,
       "word": "小说女主就不配有正经工作吗",
@@ -77185,6 +77353,14 @@
       "onboard_time": 1704085113,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63318,
+      "num": 1113902,
+      "word": "当千里江山图遇见清新福建",
+      "onboard_time": 1706574691,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63243,

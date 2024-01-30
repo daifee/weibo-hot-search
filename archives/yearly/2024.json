@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706571263863,
+  "endTime": 1706577086891,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1704283411,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2051767,
+      "num": 2051767,
+      "word": "我国将遭遇2008年以来最复杂春运天气",
+      "onboard_time": 1706569701,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2045495,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706106034,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1578668,
-      "num": 1578668,
-      "word": "苹果终于不用手动设置节假日日历了",
-      "onboard_time": 1704441272,
-      "rank": 11,
-      "category": "数码"
     }
   ],
   "hotgov_list": [
