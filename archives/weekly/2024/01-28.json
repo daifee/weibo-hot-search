@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706577086891,
+  "endTime": 1706578240349,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -43,8 +43,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 2051767,
-      "num": 2051767,
+      "raw_hot": 2060984,
+      "num": 2060984,
       "word": "我国将遭遇2008年以来最复杂春运天气",
       "onboard_time": 1706569701,
       "rank": 21,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1533063,
+      "num": 1533063,
+      "word": "敬业福",
+      "onboard_time": 1706570361,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1513224,
       "num": 1513224,
       "word": "支付宝五福",
@@ -161,14 +169,6 @@
       "onboard_time": 1706485766,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1441763,
-      "num": 1441763,
-      "word": "敬业福",
-      "onboard_time": 1706570361,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 1403215,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 941522,
+      "num": 941522,
+      "word": "女子被未戴嘴笼狗吓到与主人扭打",
+      "onboard_time": 1706574088,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941175,
       "num": 941175,
       "word": "这跟易烊千玺谈了有什么区别",
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 914949,
-      "num": 914949,
-      "word": "女子被未戴嘴笼狗吓到与主人扭打",
-      "onboard_time": 1706574088,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 914755,
+      "num": 914755,
+      "word": "车厘子吃多了是种什么体验",
+      "onboard_time": 1706576012,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 909912,
@@ -609,6 +617,14 @@
       "onboard_time": 1706574027,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 773936,
+      "num": 773936,
+      "word": "拖着不洗头 堵塞毛囊",
+      "onboard_time": 1706576968,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 762272,
@@ -809,14 +825,6 @@
       "onboard_time": 1706485344,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 652022,
-      "num": 652022,
-      "word": "车厘子吃多了是种什么体验",
-      "onboard_time": 1706576012,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 640307,
@@ -1171,6 +1179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 503547,
+      "num": 503547,
+      "word": "杨紫刘宇宁 风月不相关",
+      "onboard_time": 1706575889,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 499972,
       "num": 499972,
       "word": "多位明星参加中国影协第十一次全国代表大会",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1706356109,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 471149,
-      "num": 471149,
-      "word": "杨紫刘宇宁 风月不相关",
-      "onboard_time": 1706575889,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 468865,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1706502391,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365414,
+      "num": 365414,
+      "word": "金高银李到晛 破墓",
+      "onboard_time": 1706576851,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 365090,
@@ -3387,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181165,
+      "num": 181165,
+      "word": "糙汉文男主",
+      "onboard_time": 1706577570,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180987,
       "num": 180987,
       "word": "尔滨雪人被南方小土豆暖化了",
@@ -3819,14 +3843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155669,
-      "num": 155669,
-      "word": "拖着不洗头 堵塞毛囊",
-      "onboard_time": 1706576968,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155042,
       "num": 155042,
       "word": "在韩中国学生展示韩国大学美食",
@@ -3913,14 +3929,6 @@
       "onboard_time": 1706422288,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151473,
-      "num": 151473,
-      "word": "金高银李到晛 破墓",
-      "onboard_time": 1706576851,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 151438,
@@ -4075,6 +4083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146338,
+      "num": 146338,
+      "word": "2023年中国考古新发现",
+      "onboard_time": 1706577748,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145928,
       "num": 145928,
       "word": "周末真的适合补觉",
@@ -4153,6 +4169,14 @@
       "onboard_time": 1706367152,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141422,
+      "num": 141422,
+      "word": "咳嗽持续多少天会变白肺",
+      "onboard_time": 1706577810,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141327,
@@ -4451,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131330,
+      "num": 131330,
+      "word": "白起你在干嘛",
+      "onboard_time": 1706573970,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131192,
       "num": 131192,
       "word": "向佐3天恢复腹肌",
@@ -4569,14 +4601,6 @@
       "onboard_time": 1706454993,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128553,
-      "num": 128553,
-      "word": "白起你在干嘛",
-      "onboard_time": 1706573970,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 128447,
@@ -4771,6 +4795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 121919,
+      "num": 121919,
+      "word": "马斯克首个脑机接口产品叫心灵感应",
+      "onboard_time": 1706577209,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121801,
       "num": 121801,
       "word": "胡锡进强烈期待本周市场再涨一波",
@@ -4947,20 +4979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117722,
+      "num": 117722,
+      "word": "扫福",
+      "onboard_time": 1706574991,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117677,
       "num": 117677,
       "word": "红腹锦鸡优雅人设崩了",
       "onboard_time": 1706492306,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117393,
-      "num": 117393,
-      "word": "扫福",
-      "onboard_time": 1706574991,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 117054,
@@ -5313,6 +5345,14 @@
       "onboard_time": 1706438131,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109817,
+      "num": 109817,
+      "word": "前面换成张小斐",
+      "onboard_time": 1706578229,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 109616,
@@ -6099,6 +6139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71215,
+      "num": 1113902,
+      "word": "当千里江山图遇见清新福建",
+      "onboard_time": 1706574691,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71096,
       "num": 71096,
       "word": "梅西2024年首球",
@@ -6137,14 +6185,6 @@
       "onboard_time": 1706398401,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63318,
-      "num": 1113902,
-      "word": "当千里江山图遇见清新福建",
-      "onboard_time": 1706574691,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61398,
