@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706628857000,
+  "endTime": 1706631673911,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651227,
+      "num": 395516,
+      "word": "谷歌工程师杀妻悲剧发生之前",
+      "onboard_time": 1706626474,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651072,
       "num": 651072,
       "word": "宋威龙工作室发声明回应解约",
@@ -1387,6 +1395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 597099,
+      "num": 597099,
+      "word": "新疆7.1级地震是典型逆断层型地震",
+      "onboard_time": 1706626890,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593791,
       "num": 593791,
       "word": "祝绪丹 书卷一梦女二",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1706434469,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592229,
+      "num": 329645,
+      "word": "山竹醇",
+      "onboard_time": 1706628989,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590054,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1706485586,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 550892,
-      "num": 395516,
-      "word": "谷歌工程师杀妻悲剧发生之前",
-      "onboard_time": 1706626474,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545380,
@@ -1673,14 +1689,6 @@
       "onboard_time": 1706452591,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 505851,
-      "num": 505851,
-      "word": "新疆7.1级地震是典型逆断层型地震",
-      "onboard_time": 1706626890,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505541,
@@ -2041,6 +2049,14 @@
       "onboard_time": 1706354490,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 437069,
+      "num": 437069,
+      "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
+      "onboard_time": 1706629168,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436483,
@@ -2721,6 +2737,14 @@
       "onboard_time": 1706624251,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 338026,
+      "num": 338026,
+      "word": "史航",
+      "onboard_time": 1706628092,
+      "rank": 23,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 336890,
@@ -3595,6 +3619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237066,
+      "num": 237066,
+      "word": "秦海璐迪丽热巴最早的交集在2018年",
+      "onboard_time": 1706630427,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236916,
       "num": 236916,
       "word": "花少冰岛帽子店口碑翻车",
@@ -4057,14 +4089,6 @@
       "onboard_time": 1706608411,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211024,
-      "num": 211024,
-      "word": "史航",
-      "onboard_time": 1706628092,
-      "rank": 23,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 210911,
@@ -4859,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178007,
+      "num": 154417,
+      "word": "K宝遭禁赛后首发声",
+      "onboard_time": 1706627732,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177310,
       "num": 177310,
       "word": "小猫闻螺狮粉后在餐桌上呕吐",
@@ -5171,6 +5203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 163788,
+      "num": 163788,
+      "word": "万妮达报名浪姐5",
+      "onboard_time": 1706628511,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163332,
       "num": 163332,
       "word": "张婧仪出水芙蓉",
@@ -5457,14 +5497,6 @@
       "onboard_time": 1706610690,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154417,
-      "num": 154417,
-      "word": "K宝遭禁赛后首发声",
-      "onboard_time": 1706627732,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 154196,
@@ -5777,14 +5809,6 @@
       "onboard_time": 1706533651,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145281,
-      "num": 145281,
-      "word": "万妮达报名浪姐5",
-      "onboard_time": 1706628511,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 145236,
@@ -7529,6 +7553,14 @@
       "onboard_time": 1706456550,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107325,
+      "num": 107325,
+      "word": "在暴雪时分预约破300万",
+      "onboard_time": 1706629589,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 107103,
