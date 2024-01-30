@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706617798751,
+  "endTime": 1706618694536,
   "band_list": [
     {
       "raw_hot": 2583114,
@@ -16,6 +16,14 @@
       "word": "我国将遭遇2008年以来最复杂春运天气",
       "onboard_time": 1706569701,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1931575,
+      "num": 1931575,
+      "word": "暴雪预警",
+      "onboard_time": 1706616511,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 841306,
-      "num": 841306,
-      "word": "暴雪预警",
-      "onboard_time": 1706616511,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 836076,
       "num": 836076,
       "word": "迪丽热巴起诉内衣公司侵权",
@@ -451,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 617808,
+      "num": 617808,
+      "word": "张颂文报复性上网",
+      "onboard_time": 1706616270,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611100,
       "num": 611100,
       "word": "花少节目组帮王安宇腋下管理",
@@ -587,14 +595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493944,
-      "num": 384290,
-      "word": "张颂文报复性上网",
-      "onboard_time": 1706616270,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491926,
       "num": 491926,
       "word": "为啥实体药店比网店贵不少",
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412374,
+      "num": 374612,
+      "word": "林俊杰杭州抢票",
+      "onboard_time": 1706614411,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 401648,
       "num": 401648,
       "word": "白敬亭 从菜场到秀场",
@@ -761,14 +769,6 @@
       "onboard_time": 1706584827,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 374612,
-      "num": 374612,
-      "word": "林俊杰杭州抢票",
-      "onboard_time": 1706614411,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 368784,
@@ -1243,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218394,
+      "num": 218394,
+      "word": "一部涉刑iPhone6S拍出22万天价",
+      "onboard_time": 1706617650,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217163,
       "num": 217163,
       "word": "马天宇首部古装喜剧",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1706589272,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208692,
+      "num": 208692,
+      "word": "LGD对战EDG",
+      "onboard_time": 1706618249,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 208568,
@@ -1339,12 +1355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203992,
+      "num": 203992,
+      "word": "周杰伦昆凌看球没坐一起",
+      "onboard_time": 1706618070,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203285,
       "num": 203285,
       "word": "糙汉文男主",
       "onboard_time": 1706577570,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203017,
+      "num": 203017,
+      "word": "林俊杰杭州演唱会开票",
+      "onboard_time": 1706616450,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 202461,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1706529569,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201453,
+      "num": 204529,
+      "word": "10省将遭遇暴雪大暴雪",
+      "onboard_time": 1706616869,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201316,
@@ -1467,12 +1507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189945,
-      "num": 189945,
-      "word": "10省将遭遇暴雪大暴雪",
-      "onboard_time": 1706616869,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 191366,
+      "num": 191366,
+      "word": "京东主播称邀请董宇辉方案已在评估",
+      "onboard_time": 1706617891,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 189539,
@@ -1521,6 +1561,14 @@
       "onboard_time": 1706569521,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185258,
+      "num": 185258,
+      "word": "舒淇素颜健身照",
+      "onboard_time": 1706618070,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181954,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1706589334,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163366,
+      "num": 163366,
+      "word": "范丞丞哭到不能出戏",
+      "onboard_time": 1706617770,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 162823,
@@ -1731,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150939,
+      "num": 150939,
+      "word": "男子发表涉731受难者不当言论被拘留",
+      "onboard_time": 1706617829,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150637,
       "num": 150637,
       "word": "你会给孩子尝试成年人的东西吗",
@@ -1811,14 +1875,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 144948,
-      "num": 144948,
-      "word": "林俊杰杭州演唱会开票",
-      "onboard_time": 1706616450,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144467,
       "num": 144467,
       "word": "美国队递补获得一枚北京冬奥金牌",
@@ -1865,14 +1921,6 @@
       "onboard_time": 1706614171,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141821,
-      "num": 141821,
-      "word": "一部涉刑iPhone6S拍出22万天价",
-      "onboard_time": 1706617650,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141595,
@@ -2323,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99928,
+      "num": 99928,
+      "word": "2024KPL春季赛出征片",
+      "onboard_time": 1706618673,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97426,
       "num": 97426,
       "word": "你的快递可能是两岁小孩哥打包的",
@@ -2345,14 +2401,6 @@
       "onboard_time": 1706567176,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96019,
-      "num": 96019,
-      "word": "范丞丞哭到不能出戏",
-      "onboard_time": 1706617770,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 93528,
@@ -2601,6 +2649,14 @@
       "onboard_time": 1706276130,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6734,
+      "num": 772525,
+      "word": "文化拾遗魅力泉州",
+      "onboard_time": 1706618549,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2618,6 +2674,9 @@
     },
     {
       "word": "#这份新春牵挂暖至人心#"
+    },
+    {
+      "word": "#习近平向全军老同志祝贺新春#"
     }
   ]
 }

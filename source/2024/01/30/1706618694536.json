@@ -1,0 +1,410 @@
+{
+  "runTime": 1706618694536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1931575,
+        "num": 1931575,
+        "word": "暴雪预警",
+        "onboard_time": 1706616511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809036,
+        "num": 809036,
+        "word": "田朴珺曝光住五星级酒店床单有血",
+        "onboard_time": 1706611110,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 6734,
+        "num": 772525,
+        "word": "文化拾遗魅力泉州",
+        "onboard_time": 1706618549,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759314,
+        "num": 759314,
+        "word": "杨雪爆改",
+        "onboard_time": 1706612612,
+        "rank": 3,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 735260,
+        "num": 735260,
+        "word": "62岁利智近照",
+        "onboard_time": 1706614351,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704783,
+        "num": 704783,
+        "word": "宋威龙微博认证删除欢娱",
+        "onboard_time": 1706611110,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617808,
+        "num": 617808,
+        "word": "张颂文报复性上网",
+        "onboard_time": 1706616270,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611393,
+        "num": 611393,
+        "word": "被奔驰加塞车主称已对车辆做完定损",
+        "onboard_time": 1706615732,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377371,
+        "num": 377371,
+        "word": "候鸟式买房的人后悔了",
+        "onboard_time": 1706609192,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266188,
+        "num": 266188,
+        "word": "尔滨1小时找到小金豆失散30年亲人",
+        "onboard_time": 1706602891,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 699326,
+        "num": 265982,
+        "word": "宋威龙 解约",
+        "onboard_time": 1706613513,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474892,
+        "num": 265810,
+        "word": "长期穿一次性内裤会引发阴道炎吗",
+        "onboard_time": 1706601872,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471934,
+        "num": 265462,
+        "word": "好友称杨幂曾一年打12次吊瓶",
+        "onboard_time": 1706611050,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412374,
+        "num": 265314,
+        "word": "林俊杰杭州抢票",
+        "onboard_time": 1706614411,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278197,
+        "num": 264988,
+        "word": "祝绪丹 我已经很幸运啦",
+        "onboard_time": 1706604871,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264753,
+        "num": 264753,
+        "word": "何洁又报名浪姐",
+        "onboard_time": 1706613751,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239954,
+        "num": 239954,
+        "word": "男子想暴富刮掉2.6万彩票无力支付",
+        "onboard_time": 1706607211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234512,
+        "num": 234512,
+        "word": "一中国游客在日本滑雪场身亡",
+        "onboard_time": 1706607572,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7686,
+        "num": 221226,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218394,
+        "num": 218394,
+        "word": "一部涉刑iPhone6S拍出22万天价",
+        "onboard_time": 1706617650,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288081,
+        "num": 218140,
+        "word": "研究发现心跳快慢与寿命长短相关",
+        "onboard_time": 1706612789,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1003278,
+        "num": 217893,
+        "word": "冀F8656Z",
+        "onboard_time": 1706590473,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216977,
+        "num": 216977,
+        "word": "官方回应宋祖儿新剧过审",
+        "onboard_time": 1706597673,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208692,
+        "num": 208692,
+        "word": "LGD对战EDG",
+        "onboard_time": 1706618249,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201453,
+        "num": 204529,
+        "word": "10省将遭遇暴雪大暴雪",
+        "onboard_time": 1706616869,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203992,
+        "num": 203992,
+        "word": "周杰伦昆凌看球没坐一起",
+        "onboard_time": 1706618070,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203017,
+        "num": 203017,
+        "word": "林俊杰杭州演唱会开票",
+        "onboard_time": 1706616450,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191366,
+        "num": 191366,
+        "word": "京东主播称邀请董宇辉方案已在评估",
+        "onboard_time": 1706617891,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185258,
+        "num": 185258,
+        "word": "舒淇素颜健身照",
+        "onboard_time": 1706618070,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181419,
+        "num": 184473,
+        "word": "遭奔驰男加塞辱骂女车主发声",
+        "onboard_time": 1706606310,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184273,
+        "num": 184273,
+        "word": "反复背痛后阿姨一家三口确诊肿瘤",
+        "onboard_time": 1706615792,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180794,
+        "num": 180794,
+        "word": "郑州降雪预报图全黑",
+        "onboard_time": 1706601512,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169135,
+        "num": 169135,
+        "word": "王者荣耀龙年珍藏英雄",
+        "onboard_time": 1706604690,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167994,
+        "num": 167994,
+        "word": "欢娱否认宋威龙解约",
+        "onboard_time": 1706615372,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163366,
+        "num": 163366,
+        "word": "范丞丞哭到不能出戏",
+        "onboard_time": 1706617770,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150939,
+        "num": 150939,
+        "word": "男子发表涉731受难者不当言论被拘留",
+        "onboard_time": 1706617829,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141342,
+        "num": 141342,
+        "word": "上海限购",
+        "onboard_time": 1706605891,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 136388,
+        "num": 136388,
+        "word": "祝绪丹 书卷一梦女二",
+        "onboard_time": 1706604993,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135276,
+        "num": 135276,
+        "word": "短甲美甲",
+        "onboard_time": 1706605351,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126751,
+        "num": 126751,
+        "word": "刘德华黄渤当选中国影协副主席",
+        "onboard_time": 1706614411,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126689,
+        "num": 126689,
+        "word": "集五福",
+        "onboard_time": 1706616089,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119975,
+        "num": 119975,
+        "word": "魏大勋又穿皮衣了",
+        "onboard_time": 1706615491,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116202,
+        "num": 116202,
+        "word": "9岁男孩肾里取出56个结石",
+        "onboard_time": 1706595994,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114943,
+        "num": 114943,
+        "word": "回南天",
+        "onboard_time": 1706613210,
+        "rank": 43,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 111768,
+        "num": 111768,
+        "word": "花少节目组帮王安宇腋下管理",
+        "onboard_time": 1706605172,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111744,
+        "num": 111744,
+        "word": "全球一半食管癌在中国",
+        "onboard_time": 1706600552,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109771,
+        "num": 109771,
+        "word": "迪丽热巴黑粉拒不道歉被公告",
+        "onboard_time": 1706611828,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105649,
+        "num": 105649,
+        "word": "外卖员买下退单餐品意外中3.8万元金条",
+        "onboard_time": 1706601992,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104319,
+        "num": 104319,
+        "word": "这花甲也太不正经了",
+        "onboard_time": 1706610690,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99928,
+        "num": 99928,
+        "word": "2024KPL春季赛出征片",
+        "onboard_time": 1706618673,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
