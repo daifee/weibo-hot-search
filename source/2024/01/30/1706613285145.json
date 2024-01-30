@@ -1,0 +1,410 @@
+{
+  "runTime": 1706613285145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1087060,
+        "num": 1087060,
+        "word": "上海限购",
+        "onboard_time": 1706605891,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 791834,
+        "num": 1039823,
+        "word": "尔滨1小时找到小金豆失散30年亲人",
+        "onboard_time": 1706602891,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 7203,
+        "num": 1001477,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999863,
+        "num": 999863,
+        "word": "田朴珺曝光住五星级酒店床单有血",
+        "onboard_time": 1706611110,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 134769,
+        "num": 882575,
+        "word": "民警送机智人类幼崽回家全程对话爆笑",
+        "onboard_time": 1706608229,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831406,
+        "num": 831406,
+        "word": "宋威龙微博认证删除欢娱",
+        "onboard_time": 1706611110,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131825,
+        "num": 826346,
+        "word": "快递员为了1000个孩子拒绝升职",
+        "onboard_time": 1706584167,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826204,
+        "num": 826204,
+        "word": "一中国游客在日本滑雪场身亡",
+        "onboard_time": 1706607572,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668465,
+        "num": 668465,
+        "word": "祝绪丹 我已经很幸运啦",
+        "onboard_time": 1706604871,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642742,
+        "num": 642742,
+        "word": "好友称杨幂曾一年打12次吊瓶",
+        "onboard_time": 1706611050,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1262795,
+        "num": 642078,
+        "word": "冀F8656Z",
+        "onboard_time": 1706590473,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671097,
+        "num": 636309,
+        "word": "长期穿一次性内裤会引发阴道炎吗",
+        "onboard_time": 1706601872,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 628737,
+        "num": 628737,
+        "word": "男子想暴富刮掉2.6万彩票无力支付",
+        "onboard_time": 1706607211,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516157,
+        "num": 516157,
+        "word": "遭奔驰男加塞辱骂女车主发声",
+        "onboard_time": 1706606310,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405934,
+        "num": 405934,
+        "word": "官方回应宋祖儿新剧过审",
+        "onboard_time": 1706597673,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399070,
+        "num": 399070,
+        "word": "祝绪丹 书卷一梦女二",
+        "onboard_time": 1706604993,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381571,
+        "num": 381571,
+        "word": "杨雪爆改",
+        "onboard_time": 1706612612,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 353232,
+        "num": 353232,
+        "word": "宋雨琦Minnie参与打歌",
+        "onboard_time": 1706610992,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340038,
+        "num": 340038,
+        "word": "候鸟式买房的人后悔了",
+        "onboard_time": 1706609192,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316413,
+        "num": 316413,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 307084,
+        "num": 307084,
+        "word": "蔡卓宜报名浪姐2024",
+        "onboard_time": 1706607872,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288761,
+        "num": 288761,
+        "word": "郑州降雪预报图全黑",
+        "onboard_time": 1706601512,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265522,
+        "num": 265522,
+        "word": "花少节目组帮王安宇腋下管理",
+        "onboard_time": 1706605172,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238212,
+        "num": 238212,
+        "word": "有人曾劝高叶整容",
+        "onboard_time": 1706610992,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229930,
+        "num": 229930,
+        "word": "王者荣耀龙年珍藏英雄",
+        "onboard_time": 1706604690,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219565,
+        "num": 219565,
+        "word": "短甲美甲",
+        "onboard_time": 1706605351,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 212578,
+        "num": 212578,
+        "word": "杨幂谈成为顶级流量的代价",
+        "onboard_time": 1706605473,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211052,
+        "num": 211052,
+        "word": "还有5分钟退休交警手不停颤抖",
+        "onboard_time": 1706608411,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193337,
+        "num": 193337,
+        "word": "迪丽热巴黑粉拒不道歉被公告",
+        "onboard_time": 1706611828,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124477,
+        "num": 187999,
+        "word": "美应立即停止对中国企业和商务人员滋扰",
+        "onboard_time": 1706609309,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187981,
+        "num": 187981,
+        "word": "j人和P人行李箱区别",
+        "onboard_time": 1706608352,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191391,
+        "num": 187246,
+        "word": "杨幂拍哈尔滨1944没带剧本到现场",
+        "onboard_time": 1706609070,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185133,
+        "num": 185133,
+        "word": "李连杰与妻女现身寺庙",
+        "onboard_time": 1706609491,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173502,
+        "num": 173502,
+        "word": "研究发现心跳快慢与寿命长短相关",
+        "onboard_time": 1706612789,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173301,
+        "num": 173301,
+        "word": "陈道明当选中国影协第十一届主席",
+        "onboard_time": 1706612971,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166908,
+        "num": 166908,
+        "word": "小S许雅钧一家度假",
+        "onboard_time": 1706608533,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156147,
+        "num": 156147,
+        "word": "全球一半食管癌在中国",
+        "onboard_time": 1706600552,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154737,
+        "num": 154737,
+        "word": "这花甲也太不正经了",
+        "onboard_time": 1706610690,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153373,
+        "num": 153373,
+        "word": "杨幂回应三亿对赌传闻",
+        "onboard_time": 1706584827,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145783,
+        "num": 145783,
+        "word": "外卖员买下退单餐品意外中3.8万元金条",
+        "onboard_time": 1706601992,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144852,
+        "num": 144852,
+        "word": "女子拒绝行房被打捣压丈夫颈部致死",
+        "onboard_time": 1706590594,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143851,
+        "num": 143851,
+        "word": "9岁男孩肾里取出56个结石",
+        "onboard_time": 1706595994,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143450,
+        "num": 143450,
+        "word": "家中唯一男孩被拐父亲抱憾离世",
+        "onboard_time": 1706602471,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142537,
+        "num": 142537,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138984,
+        "num": 138984,
+        "word": "龙年的龙已经走进家门了",
+        "onboard_time": 1706612312,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135983,
+        "num": 135983,
+        "word": "姬小满新皮肤珍宝阁兑换",
+        "onboard_time": 1706610090,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131262,
+        "num": 131262,
+        "word": "A股节前会站上3000点吗",
+        "onboard_time": 1706600970,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128707,
+        "num": 128707,
+        "word": "回南天",
+        "onboard_time": 1706613210,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 126863,
+        "num": 126863,
+        "word": "韩国爆火的淀粉牙签最初是用来喂猪的",
+        "onboard_time": 1706601272,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111912,
+        "num": 111912,
+        "word": "王者荣耀",
+        "onboard_time": 1706605473,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份新春牵挂暖至人心#"
+    }
+  }
+}

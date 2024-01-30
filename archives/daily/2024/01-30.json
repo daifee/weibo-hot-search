@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706610895539,
+  "endTime": 1706613285145,
   "band_list": [
     {
       "raw_hot": 2583114,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1386392,
-      "num": 602941,
+      "num": 636309,
       "word": "长期穿一次性内裤会引发阴道炎吗",
       "onboard_time": 1706601872,
       "rank": 30,
@@ -145,6 +145,14 @@
       "onboard_time": 1706606310,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999863,
+      "num": 999863,
+      "word": "田朴珺曝光住五星级酒店床单有血",
+      "onboard_time": 1706611110,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 966880,
@@ -219,6 +227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 831406,
+      "num": 831406,
+      "word": "宋威龙微博认证删除欢娱",
+      "onboard_time": 1706611110,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826204,
+      "num": 826204,
+      "word": "一中国游客在日本滑雪场身亡",
+      "onboard_time": 1706607572,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815370,
       "num": 811085,
       "word": "杨幂离开嘉行可以接到自己想拍的戏",
@@ -232,14 +256,6 @@
       "word": "女子拒绝行房被打捣压丈夫颈部致死",
       "onboard_time": 1706590594,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806298,
-      "num": 806298,
-      "word": "一中国游客在日本滑雪场身亡",
-      "onboard_time": 1706607572,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -347,11 +363,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642742,
+      "num": 642742,
+      "word": "好友称杨幂曾一年打12次吊瓶",
+      "onboard_time": 1706611050,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640328,
       "num": 640328,
       "word": "20吨洋垃圾入境伴有强烈腐臭味",
       "onboard_time": 1706593769,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628737,
+      "num": 628737,
+      "word": "男子想暴富刮掉2.6万彩票无力支付",
+      "onboard_time": 1706607211,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -531,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 481530,
-      "num": 481530,
-      "word": "男子想暴富刮掉2.6万彩票无力支付",
-      "onboard_time": 1706607211,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477054,
       "num": 477054,
       "word": "得州",
@@ -675,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381571,
+      "num": 381571,
+      "word": "杨雪爆改",
+      "onboard_time": 1706612612,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 380939,
       "num": 312119,
       "word": "高铁站好多情侣在分别",
@@ -779,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353232,
+      "num": 353232,
+      "word": "宋雨琦Minnie参与打歌",
+      "onboard_time": 1706610992,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349666,
       "num": 349666,
       "word": "马化腾年会红毛衣某宝79元",
       "onboard_time": 1706605953,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 340038,
+      "num": 340038,
+      "word": "候鸟式买房的人后悔了",
+      "onboard_time": 1706609192,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333451,
@@ -915,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277958,
-      "num": 277958,
-      "word": "候鸟式买房的人后悔了",
-      "onboard_time": 1706609192,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275781,
       "num": 236695,
       "word": "春运最冷清的是长途汽车站",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1706601210,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "有人曾劝高叶整容",
+      "onboard_time": 1706610992,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 235130,
@@ -1147,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211052,
+      "num": 211052,
+      "word": "还有5分钟退休交警手不停颤抖",
+      "onboard_time": 1706608411,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209950,
       "num": 209950,
       "word": "张小斐娶我",
@@ -1243,14 +1299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199533,
-      "num": 199533,
-      "word": "还有5分钟退休交警手不停颤抖",
-      "onboard_time": 1706608411,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198905,
       "num": 198905,
       "word": "小默回应史航",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1706542052,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193337,
+      "num": 193337,
+      "word": "迪丽热巴黑粉拒不道歉被公告",
+      "onboard_time": 1706611828,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192820,
@@ -1411,6 +1467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173502,
+      "num": 173502,
+      "word": "研究发现心跳快慢与寿命长短相关",
+      "onboard_time": 1706612789,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173301,
+      "num": 173301,
+      "word": "陈道明当选中国影协第十一届主席",
+      "onboard_time": 1706612971,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "范丞丞不会用滑盖手机",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1706593592,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154737,
+      "num": 154737,
+      "word": "这花甲也太不正经了",
+      "onboard_time": 1706610690,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 153400,
@@ -1715,6 +1795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138984,
+      "num": 138984,
+      "word": "龙年的龙已经走进家门了",
+      "onboard_time": 1706612312,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138234,
       "num": 138234,
       "word": "杨幂ENFP变ENTJ",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1706608950,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134769,
+      "num": 882575,
+      "word": "民警送机智人类幼崽回家全程对话爆笑",
+      "onboard_time": 1706608229,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132912,
@@ -1787,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129477,
-      "num": 129477,
-      "word": "这花甲也太不正经了",
-      "onboard_time": 1706610690,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129417,
       "num": 129417,
       "word": "原来钱还有这么多冷知识",
@@ -1809,6 +1897,14 @@
       "onboard_time": 1706579370,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128707,
+      "num": 128707,
+      "word": "回南天",
+      "onboard_time": 1706613210,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 128694,
@@ -2041,14 +2137,6 @@
       "onboard_time": 1706586031,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109952,
-      "num": 830029,
-      "word": "民警送机智人类幼崽回家全程对话爆笑",
-      "onboard_time": 1706608229,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109939,
