@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706580228498,
+  "endTime": 1706581325326,
   "band_list": [
     {
       "raw_hot": 2060984,
@@ -19,8 +19,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1274613,
-      "num": 1274613,
+      "raw_hot": 1353509,
+      "num": 1353509,
       "word": "拖着不洗头 堵塞毛囊",
       "onboard_time": 1706576968,
       "rank": 31,
@@ -73,6 +73,14 @@
       "onboard_time": 1706574570,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 648202,
+      "num": 648202,
+      "word": "男演员从校草变吃货称更快乐了",
+      "onboard_time": 1706579608,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 619987,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477054,
+      "num": 477054,
+      "word": "得州",
+      "onboard_time": 1706575290,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 447332,
       "num": 447332,
       "word": "易烊千玺新闻联播镜头",
@@ -163,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 446489,
+      "num": 446489,
+      "word": "车银优传闻中的弟弟",
+      "onboard_time": 1706580269,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430303,
       "num": 430303,
       "word": "突然发现东北审美从不推崇白幼瘦",
@@ -177,6 +201,14 @@
       "onboard_time": 1706540854,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421603,
+      "num": 421603,
+      "word": "为啥实体药店比网店贵不少",
+      "onboard_time": 1706578528,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 417779,
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353975,
-      "num": 353975,
-      "word": "男演员从校草变吃货称更快乐了",
-      "onboard_time": 1706579608,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303052,
       "num": 303052,
       "word": "浙江父亲想用AI复活儿子",
@@ -283,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290197,
+      "num": 290197,
+      "word": "杨幂今年三台春晚",
+      "onboard_time": 1706580568,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286157,
-      "num": 207618,
+      "num": 218067,
       "word": "郭晶晶罕见华服亮相维港",
       "onboard_time": 1706578528,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285045,
-      "num": 285045,
-      "word": "为啥实体药店比网店贵不少",
-      "onboard_time": 1706578528,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 275781,
@@ -329,6 +353,14 @@
       "onboard_time": 1706539893,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238114,
+      "num": 238114,
+      "word": "得州副州长称将继续在美墨边境修建屏障",
+      "onboard_time": 1706580391,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 235130,
@@ -395,8 +427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200946,
-      "num": 200946,
+      "raw_hot": 201194,
+      "num": 201194,
       "word": "6个肝脏求救的信号要知道",
       "onboard_time": 1706578470,
       "rank": 23,
@@ -529,6 +561,14 @@
       "onboard_time": 1706542529,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143058,
+      "num": 143058,
+      "word": "清明上河图密码杀青",
+      "onboard_time": 1706580868,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 141422,
@@ -675,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101506,
+      "num": 101506,
+      "word": "原来钱还有这么多冷知识",
+      "onboard_time": 1706580391,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 97426,
       "num": 97426,
       "word": "你的快递可能是两岁小孩哥打包的",
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 71215,
-      "num": 1315036,
+      "num": 1345880,
       "word": "当千里江山图遇见清新福建",
       "onboard_time": 1706574691,
       "rank": 2,

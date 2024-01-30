@@ -1,0 +1,410 @@
+{
+  "runTime": 1706581325326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564471,
+        "num": 1564471,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1353509,
+        "num": 1353509,
+        "word": "拖着不洗头 堵塞毛囊",
+        "onboard_time": 1706576968,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53502,
+        "num": 1345880,
+        "word": "当千里江山图遇见清新福建",
+        "onboard_time": 1706574691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345284,
+        "num": 1345284,
+        "word": "我国将遭遇2008年以来最复杂春运天气",
+        "onboard_time": 1706569701,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006600,
+        "num": 1006600,
+        "word": "车厘子吃多了是种什么体验",
+        "onboard_time": 1706576012,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 648202,
+        "num": 648202,
+        "word": "男演员从校草变吃货称更快乐了",
+        "onboard_time": 1706579608,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479352,
+        "num": 479352,
+        "word": "女子被未戴嘴笼狗吓到与主人扭打",
+        "onboard_time": 1706574088,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477054,
+        "num": 477054,
+        "word": "得州",
+        "onboard_time": 1706575290,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 459497,
+        "num": 459497,
+        "word": "祝绪丹 镜花缘",
+        "onboard_time": 1706574570,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446489,
+        "num": 446489,
+        "word": "车银优传闻中的弟弟",
+        "onboard_time": 1706580269,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445547,
+        "num": 445547,
+        "word": "杨紫刘宇宁 风月不相关",
+        "onboard_time": 1706575889,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421603,
+        "num": 421603,
+        "word": "为啥实体药店比网店贵不少",
+        "onboard_time": 1706578528,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344498,
+        "num": 344498,
+        "word": "白敬亭 从菜场到秀场",
+        "onboard_time": 1706578347,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331942,
+        "num": 331942,
+        "word": "金高银李到晛 破墓",
+        "onboard_time": 1706576851,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290197,
+        "num": 290197,
+        "word": "杨幂今年三台春晚",
+        "onboard_time": 1706580568,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279657,
+        "num": 279657,
+        "word": "gidle新歌MV撞车多位欧美歌手",
+        "onboard_time": 1706571805,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238114,
+        "num": 238114,
+        "word": "得州副州长称将继续在美墨边境修建屏障",
+        "onboard_time": 1706580391,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229828,
+        "num": 229828,
+        "word": "00后女大学生保研后开珠宝店月入过万",
+        "onboard_time": 1706540854,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227926,
+        "num": 227926,
+        "word": "48岁的蒋勤勤",
+        "onboard_time": 1706571924,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225856,
+        "num": 225856,
+        "word": "马斯克官宣首次脑机接口人体实验",
+        "onboard_time": 1706572348,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 471304,
+        "num": 225416,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247718,
+        "num": 218067,
+        "word": "郭晶晶罕见华服亮相维港",
+        "onboard_time": 1706578528,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202723,
+        "num": 202723,
+        "word": "前面换成张小斐",
+        "onboard_time": 1706578229,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201194,
+        "num": 201194,
+        "word": "6个肝脏求救的信号要知道",
+        "onboard_time": 1706578470,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187454,
+        "num": 187454,
+        "word": "为什么睡得越多反而越累",
+        "onboard_time": 1706538573,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184820,
+        "num": 184820,
+        "word": "糙汉文男主",
+        "onboard_time": 1706577570,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164310,
+        "num": 164310,
+        "word": "何猷君晒湖北省政协会议现场照",
+        "onboard_time": 1706573307,
+        "rank": 26,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 160239,
+        "num": 160239,
+        "word": "河南连续5天下雪",
+        "onboard_time": 1706579068,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152098,
+        "num": 152098,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706539831,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144569,
+        "num": 144569,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143058,
+        "num": 143058,
+        "word": "清明上河图密码杀青",
+        "onboard_time": 1706580868,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140281,
+        "num": 140281,
+        "word": "女子遭男友骗光6套房还被小三",
+        "onboard_time": 1706539532,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135555,
+        "num": 135555,
+        "word": "突然发现东北审美从不推崇白幼瘦",
+        "onboard_time": 1706570063,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134002,
+        "num": 134002,
+        "word": "冰迅",
+        "onboard_time": 1706579370,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123237,
+        "num": 123237,
+        "word": "春运最冷清的是长途汽车站",
+        "onboard_time": 1706575591,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120763,
+        "num": 120763,
+        "word": "7岁脑瘫女孩努力当小老师",
+        "onboard_time": 1706575591,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120379,
+        "num": 120379,
+        "word": "官方调查大学生扮锦衣卫迎客",
+        "onboard_time": 1706563818,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119988,
+        "num": 119988,
+        "word": "咳嗽持续多少天会变白肺",
+        "onboard_time": 1706577810,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117200,
+        "num": 117200,
+        "word": "花少节目组超重费花了20多万",
+        "onboard_time": 1706529930,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111932,
+        "num": 111932,
+        "word": "扫福",
+        "onboard_time": 1706574991,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110299,
+        "num": 110299,
+        "word": "拉塞尔被罚款15000美元",
+        "onboard_time": 1706579370,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109018,
+        "num": 109018,
+        "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
+        "onboard_time": 1706542052,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106267,
+        "num": 106267,
+        "word": "马斯克重夺世界首富位置",
+        "onboard_time": 1706576370,
+        "rank": 42,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 101506,
+        "num": 101506,
+        "word": "原来钱还有这么多冷知识",
+        "onboard_time": 1706580391,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96798,
+        "num": 96798,
+        "word": "6种症状提醒你该查血脂了",
+        "onboard_time": 1706539893,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94796,
+        "num": 94796,
+        "word": "白起你在干嘛",
+        "onboard_time": 1706573970,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91893,
+        "num": 91893,
+        "word": "肖战红西装大背头",
+        "onboard_time": 1706541392,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88578,
+        "num": 88578,
+        "word": "英国男子爬29楼跳伞伞没打开当场身亡",
+        "onboard_time": 1706537133,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86870,
+        "num": 86870,
+        "word": "浙江父亲想用AI复活儿子",
+        "onboard_time": 1706534432,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85585,
+        "num": 85585,
+        "word": "女子机场手袋破洞获赠26寸行李箱",
+        "onboard_time": 1706542890,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#突出问题导向深入调查研究#"
+    }
+  }
+}

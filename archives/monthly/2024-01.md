@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/30 10:03:48
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/30 10:22:05
 </p>
 </blockquote>
 <p>
@@ -2613,6 +2613,12 @@ A股（热度：1375528）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%96%E7%9D%80%E4%B8%8D%E6%B4%97%E5%A4%B4%20%E5%A0%B5%E5%A1%9E%E6%AF%9B%E5%9B%8A%23" target="weibo">
+拖着不洗头 堵塞毛囊（热度：1353509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0%E4%BA%A7%E5%90%8E%E5%A4%8D%E5%87%BA%23" target="weibo">
 朴信惠产后复出（热度：1352588）
 </a>
@@ -2957,12 +2963,6 @@ A股三大指数均跌超3%（热度：1288927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E6%9C%BA%E7%A5%A8%E8%B7%8C%E5%88%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%23" target="weibo">
 日韩机票跌到史上最低（热度：1274861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%96%E7%9D%80%E4%B8%8D%E6%B4%97%E5%A4%B4%20%E5%A0%B5%E5%A1%9E%E6%AF%9B%E5%9B%8A%23" target="weibo">
-拖着不洗头 堵塞毛囊（热度：1274613）
 </a>
 </li>
 
