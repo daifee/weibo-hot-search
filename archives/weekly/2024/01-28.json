@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706638871354,
+  "endTime": 1706639637568,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -8451,6 +8451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56036,
+      "num": 48935,
+      "word": "正确洗头方式",
+      "onboard_time": 1706637440,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54907,
       "num": 54907,
       "word": "谷爱凌晒夺金照",
@@ -8475,8 +8483,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 52658,
-      "num": 52658,
+      "raw_hot": 53432,
+      "num": 53432,
       "word": "小猫误入派出所骗吃骗喝一个月",
       "onboard_time": 1706636240,
       "rank": 23,
@@ -8569,14 +8577,6 @@
       "onboard_time": 1706586511,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48008,
-      "num": 48008,
-      "word": "正确洗头方式",
-      "onboard_time": 1706637440,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 47168,
@@ -8745,6 +8745,14 @@
       "onboard_time": 1706359890,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20624,
+      "num": 21692,
+      "word": "王者对局环境新机制获奖方案",
+      "onboard_time": 1706639058,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 18841,
