@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706645815279,
+  "endTime": 1706646838822,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -8827,12 +8827,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11244,
-      "num": 11244,
+      "raw_hot": 11855,
+      "num": 11855,
       "word": "守护甜心 歌呗酷洛米海报",
       "onboard_time": 1706645117,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11468,
+      "num": 11468,
+      "word": "es 绘旅人",
+      "onboard_time": 1706644516,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 10922,
@@ -8841,14 +8849,6 @@
       "onboard_time": 1706387955,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10822,
-      "num": 10822,
-      "word": "es 绘旅人",
-      "onboard_time": 1706644516,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 10524,
