@@ -1,10 +1,10 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706596452858,
+  "endTime": 1706599039380,
   "band_list": [
     {
-      "raw_hot": 2525672,
-      "num": 2525672,
+      "raw_hot": 2583114,
+      "num": 2583114,
       "word": "冀F8656Z",
       "onboard_time": 1706590473,
       "rank": 1,
@@ -49,6 +49,14 @@
       "onboard_time": 1706576968,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1444889,
+      "num": 1444889,
+      "word": "官方回应宋祖儿新剧过审",
+      "onboard_time": 1706597673,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1403704,
@@ -97,6 +105,14 @@
       "onboard_time": 1706576012,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 947183,
+      "num": 947183,
+      "word": "隆多被捕",
+      "onboard_time": 1706594552,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 941522,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791002,
+      "num": 262224,
+      "word": "9岁男孩肾里取出56个结石",
+      "onboard_time": 1706595994,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780274,
       "num": 780274,
       "word": "快递员为了1000个孩子拒绝升职",
@@ -171,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 693339,
-      "num": 693339,
-      "word": "隆多被捕",
-      "onboard_time": 1706594552,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 689923,
       "num": 689923,
       "word": "车银优传闻中的弟弟",
@@ -193,6 +209,14 @@
       "onboard_time": 1706574570,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 640328,
+      "num": 640328,
+      "word": "20吨洋垃圾入境伴有强烈腐臭味",
+      "onboard_time": 1706593769,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619987,
@@ -315,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 481967,
+      "num": 481967,
+      "word": "真正理解到了男左女右",
+      "onboard_time": 1706594311,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 477054,
       "num": 477054,
       "word": "得州",
@@ -363,12 +395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428023,
+      "num": 428023,
+      "word": "脏手指",
+      "onboard_time": 1706594969,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422328,
       "num": 422328,
       "word": "00后女大学生保研后开珠宝店月入过万",
       "onboard_time": 1706540854,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421435,
+      "num": 421435,
+      "word": "夏克立称黄嘉千家暴伤势是自己抓的",
+      "onboard_time": 1706598210,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 417779,
@@ -392,14 +440,6 @@
       "word": "12岁女孩买民法典专门对付妈妈",
       "onboard_time": 1706582789,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408873,
-      "num": 408873,
-      "word": "20吨洋垃圾入境伴有强烈腐臭味",
-      "onboard_time": 1706593769,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -539,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320665,
+      "num": 257068,
+      "word": "汕头发现一具鲸鱼尸体",
+      "onboard_time": 1706596952,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "特朗普演讲 911",
@@ -547,20 +595,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 316740,
-      "num": 316740,
-      "word": "真正理解到了男左女右",
-      "onboard_time": 1706594311,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 310428,
-      "num": 310428,
-      "word": "脏手指",
-      "onboard_time": 1706594969,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 306772,
+      "num": 306772,
+      "word": "非法足球 李铁",
+      "onboard_time": 1706597252,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 303052,
@@ -643,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255242,
+      "num": 255242,
+      "word": "小时候以为在写字楼办公很高级",
+      "onboard_time": 1706594248,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253370,
       "num": 253370,
       "word": "小米汽车保单价格曝光",
@@ -657,6 +705,14 @@
       "onboard_time": 1706588554,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241250,
+      "num": 241250,
+      "word": "丰田汽车会长道歉",
+      "onboard_time": 1706597552,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 241092,
@@ -715,20 +771,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225522,
+      "num": 225522,
+      "word": "迪丽热巴嗑到了一生辛胡",
+      "onboard_time": 1706598932,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "马斯克重夺世界首富位置",
       "onboard_time": 1706576370,
       "rank": 22,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 220995,
-      "num": 220995,
-      "word": "小时候以为在写字楼办公很高级",
-      "onboard_time": 1706594248,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 218789,
@@ -835,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197572,
+      "num": 197572,
+      "word": "敬业福已被抢注商标",
+      "onboard_time": 1706597189,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 196047,
       "num": 196047,
       "word": "2024江苏卫视春晚首波阵容",
@@ -873,6 +937,14 @@
       "onboard_time": 1706595754,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188560,
+      "num": 188560,
+      "word": "一想到自己工作了就想笑",
+      "onboard_time": 1706595154,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 188469,
@@ -947,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172631,
-      "num": 172631,
-      "word": "一想到自己工作了就想笑",
-      "onboard_time": 1706595154,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "范丞丞不会用滑盖手机",
@@ -979,14 +1043,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 167224,
-      "num": 167224,
-      "word": "9岁男孩肾里取出56个结石",
-      "onboard_time": 1706595994,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165400,
       "num": 165400,
       "word": "SuperLady歌词",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1706538994,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158808,
+      "num": 158808,
+      "word": "龚琳娜回应记错Ella和徐怀钰的歌",
+      "onboard_time": 1706598570,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 157434,
@@ -1092,7 +1156,7 @@
     },
     {
       "raw_hot": 147028,
-      "num": 198387,
+      "num": 1011541,
       "word": "五福临门指哪五福",
       "onboard_time": 1706583629,
       "rank": 23,
@@ -1137,6 +1201,22 @@
       "onboard_time": 1706591133,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 144251,
+      "num": 144251,
+      "word": "银杏果放入水中会变成银色",
+      "onboard_time": 1706597487,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 142132,
+      "num": 142132,
+      "word": "一只又聪明又傻乎乎的小狗",
+      "onboard_time": 1706597552,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 141595,
@@ -1185,6 +1265,14 @@
       "onboard_time": 1706591553,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132202,
+      "num": 132202,
+      "word": "高圆圆小香外套",
+      "onboard_time": 1706596830,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131330,
@@ -1297,6 +1385,14 @@
       "onboard_time": 1706587653,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 122185,
+      "num": 122185,
+      "word": "当00后策划上班后",
+      "onboard_time": 1706598032,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 121919,

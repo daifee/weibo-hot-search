@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706596452858,
+  "endTime": 1706599039380,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -611,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2583114,
+      "num": 2583114,
+      "word": "冀F8656Z",
+      "onboard_time": 1706590473,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2578058,
       "num": 2578058,
       "word": "张佳宁 切错号",
@@ -624,14 +632,6 @@
       "word": "苏增添被查",
       "onboard_time": 1705830867,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2525672,
-      "num": 2525672,
-      "word": "冀F8656Z",
-      "onboard_time": 1706590473,
-      "rank": 1,
       "category": "社会新闻"
     },
     {

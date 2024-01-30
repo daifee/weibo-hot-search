@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706596452858,
+  "endTime": 1706599039380,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -611,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2583114,
+      "num": 2583114,
+      "word": "冀F8656Z",
+      "onboard_time": 1706590473,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2578058,
       "num": 2578058,
       "word": "张佳宁 切错号",
@@ -624,14 +632,6 @@
       "word": "苏增添被查",
       "onboard_time": 1705830867,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2525672,
-      "num": 2525672,
-      "word": "冀F8656Z",
-      "onboard_time": 1706590473,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2985,6 +2985,14 @@
       "onboard_time": 1705671086,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1444889,
+      "num": 1444889,
+      "word": "官方回应宋祖儿新剧过审",
+      "onboard_time": 1706597673,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1443339,
@@ -7067,6 +7075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 947183,
+      "num": 947183,
+      "word": "隆多被捕",
+      "onboard_time": 1706594552,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 946213,
       "num": 821063,
       "word": "鞠婧祎好稳",
@@ -9555,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791002,
+      "num": 262224,
+      "word": "9岁男孩肾里取出56个结石",
+      "onboard_time": 1706595994,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790162,
       "num": 790162,
       "word": "枭起青壤 迪丽热巴陈哲远",
@@ -11843,14 +11867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 693339,
-      "num": 693339,
-      "word": "隆多被捕",
-      "onboard_time": 1706594552,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 693083,
       "num": 575497,
       "word": "哈尔滨给中央大街铺地毯了",
@@ -13297,6 +13313,14 @@
       "onboard_time": 1704680789,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 640328,
+      "num": 640328,
+      "word": "20吨洋垃圾入境伴有强烈腐臭味",
+      "onboard_time": 1706593769,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640307,
@@ -19507,6 +19531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 481967,
+      "num": 481967,
+      "word": "真正理解到了男左女右",
+      "onboard_time": 1706594311,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481648,
       "num": 421195,
       "word": "肖战是J人",
@@ -22155,6 +22187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428023,
+      "num": 428023,
+      "word": "脏手指",
+      "onboard_time": 1706594969,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 427933,
       "num": 427933,
       "word": "C罗发布会玩手机",
@@ -22496,6 +22536,14 @@
       "word": "想去王艳家打卡故宫",
       "onboard_time": 1706017174,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 421435,
+      "num": 421435,
+      "word": "夏克立称黄嘉千家暴伤势是自己抓的",
+      "onboard_time": 1706598210,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -23289,14 +23337,6 @@
       "onboard_time": 1704159996,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 408873,
-      "num": 408873,
-      "word": "20吨洋垃圾入境伴有强烈腐臭味",
-      "onboard_time": 1706593769,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408834,
@@ -28755,6 +28795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320665,
+      "num": 257068,
+      "word": "汕头发现一具鲸鱼尸体",
+      "onboard_time": 1706596952,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320573,
       "num": 283327,
       "word": "入职第二天公司年会喜提大奖",
@@ -29153,14 +29201,6 @@
       "onboard_time": 1706006791,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316740,
-      "num": 316740,
-      "word": "真正理解到了男左女右",
-      "onboard_time": 1706594311,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 316679,
@@ -29643,14 +29683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 310428,
-      "num": 310428,
-      "word": "脏手指",
-      "onboard_time": 1706594969,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 310331,
       "num": 310331,
       "word": "光与夜之恋生日卡",
@@ -29945,6 +29977,14 @@
       "onboard_time": 1705934190,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306772,
+      "num": 306772,
+      "word": "非法足球 李铁",
+      "onboard_time": 1706597252,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 306545,
@@ -34995,6 +35035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 255242,
+      "num": 255242,
+      "word": "小时候以为在写字楼办公很高级",
+      "onboard_time": 1706594248,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255239,
       "num": 255239,
       "word": "产房里的男人百态",
@@ -36721,6 +36769,14 @@
       "onboard_time": 1704888573,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241250,
+      "num": 241250,
+      "word": "丰田汽车会长道歉",
+      "onboard_time": 1706597552,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 241155,
@@ -39219,6 +39275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225522,
+      "num": 225522,
+      "word": "迪丽热巴嗑到了一生辛胡",
+      "onboard_time": 1706598932,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225502,
       "num": 225502,
       "word": "原来白人真不会亚洲蹲",
@@ -40033,14 +40097,6 @@
       "onboard_time": 1704420627,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 220995,
-      "num": 220995,
-      "word": "小时候以为在写字楼办公很高级",
-      "onboard_time": 1706594248,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 220980,
@@ -45699,6 +45755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197572,
+      "num": 197572,
+      "word": "敬业福已被抢注商标",
+      "onboard_time": 1706597189,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 197547,
       "num": 197547,
       "word": "DRG官宣阿豆加入",
@@ -48441,6 +48505,14 @@
       "onboard_time": 1705803146,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188560,
+      "num": 188560,
+      "word": "一想到自己工作了就想笑",
+      "onboard_time": 1706595154,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 188534,
@@ -53011,14 +53083,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172631,
-      "num": 172631,
-      "word": "一想到自己工作了就想笑",
-      "onboard_time": 1706595154,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172579,
       "num": 172579,
       "word": "安心结局",
@@ -54609,14 +54673,6 @@
       "onboard_time": 1704639574,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167224,
-      "num": 167224,
-      "word": "9岁男孩肾里取出56个结石",
-      "onboard_time": 1706595994,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167220,
@@ -57065,6 +57121,14 @@
       "onboard_time": 1706172513,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 158808,
+      "num": 158808,
+      "word": "龚琳娜回应记错Ella和徐怀钰的歌",
+      "onboard_time": 1706598570,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 158795,
@@ -60764,7 +60828,7 @@
     },
     {
       "raw_hot": 147028,
-      "num": 198387,
+      "num": 1011541,
       "word": "五福临门指哪五福",
       "onboard_time": 1706583629,
       "rank": 23,
@@ -61803,6 +61867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144251,
+      "num": 144251,
+      "word": "银杏果放入水中会变成银色",
+      "onboard_time": 1706597487,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 144242,
       "num": 144242,
       "word": "湖人四连败",
@@ -62489,6 +62561,14 @@
       "onboard_time": 1705027227,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142132,
+      "num": 142132,
+      "word": "一只又聪明又傻乎乎的小狗",
+      "onboard_time": 1706597552,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 142129,
@@ -65697,6 +65777,14 @@
       "onboard_time": 1706109153,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132202,
+      "num": 132202,
+      "word": "高圆圆小香外套",
+      "onboard_time": 1706596830,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132180,
@@ -69337,6 +69425,14 @@
       "onboard_time": 1706088390,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122185,
+      "num": 122185,
+      "word": "当00后策划上班后",
+      "onboard_time": 1706598032,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122164,
