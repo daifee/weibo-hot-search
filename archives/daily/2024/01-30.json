@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706588368213,
+  "endTime": 1706589242699,
   "band_list": [
     {
       "raw_hot": 2060984,
@@ -19,20 +19,20 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 1642748,
+      "num": 1642748,
+      "word": "杨幂回应三亿对赌传闻",
+      "onboard_time": 1706584827,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1621349,
       "num": 1621349,
       "word": "敬业福",
       "onboard_time": 1706570361,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1613368,
-      "num": 1613368,
-      "word": "杨幂回应三亿对赌传闻",
-      "onboard_time": 1706584827,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1521644,
@@ -51,12 +51,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1136312,
-      "num": 1136312,
+      "raw_hot": 1232556,
+      "num": 1232556,
       "word": "为什么微信红包上限只有200元",
       "onboard_time": 1706574027,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1204352,
+      "num": 1204352,
+      "word": "弟弟7门不及格教师姐姐怒了一下",
+      "onboard_time": 1706586810,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1094164,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 815370,
-      "num": 779835,
+      "num": 811085,
       "word": "杨幂离开嘉行可以接到自己想拍的戏",
       "onboard_time": 1706585791,
       "rank": 6,
@@ -131,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 674207,
-      "num": 674207,
-      "word": "弟弟7门不及格教师姐姐怒了一下",
-      "onboard_time": 1706586810,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 674240,
+      "num": 674240,
+      "word": "科目三创始人的完整版",
+      "onboard_time": 1706586573,
+      "rank": 13,
+      "category": "运动健身"
     },
     {
       "raw_hot": 662639,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 544251,
-      "num": 347951,
+      "num": 521496,
       "word": "杨幂去年找了表演老师改表演习惯",
       "onboard_time": 1706586091,
       "rank": 17,
@@ -257,14 +265,6 @@
       "onboard_time": 1706575290,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 473631,
-      "num": 473631,
-      "word": "科目三创始人的完整版",
-      "onboard_time": 1706586573,
-      "rank": 13,
-      "category": "运动健身"
     },
     {
       "raw_hot": 447332,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306374,
+      "num": 208084,
+      "word": "我搜的明明是考公资料",
+      "onboard_time": 1706588612,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303052,
       "num": 303052,
       "word": "浙江父亲想用AI复活儿子",
@@ -443,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291201,
+      "num": 273926,
+      "word": "男子4次创业失败欠债1300万后终逆袭",
+      "onboard_time": 1706588129,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290324,
+      "num": 206668,
+      "word": "反光丝袜",
+      "onboard_time": 1706588554,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286157,
       "num": 218067,
       "word": "郭晶晶罕见华服亮相维港",
@@ -457,6 +481,14 @@
       "onboard_time": 1706575591,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270993,
+      "num": 270993,
+      "word": "易烊千玺眼睛肿了",
+      "onboard_time": 1706588854,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 268435,
@@ -491,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234755,
+      "num": 234755,
+      "word": "与辉同行主播疑回应抄袭文案",
+      "onboard_time": 1706587952,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 228871,
       "num": 228871,
       "word": "网红宝妈因感冒五天未就医去世",
@@ -513,6 +553,30 @@
       "onboard_time": 1706576370,
       "rank": 22,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 218789,
+      "num": 216901,
+      "word": "易烊千玺西装弹贝斯",
+      "onboard_time": 1706588312,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217163,
+      "num": 217163,
+      "word": "马天宇首部古装喜剧",
+      "onboard_time": 1706587890,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216322,
+      "num": 216322,
+      "word": "赵传质疑繁花侵权",
+      "onboard_time": 1706588733,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 208051,
@@ -539,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204051,
+      "num": 204051,
+      "word": "小米汽车保单价格曝光",
+      "onboard_time": 1706588192,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203285,
       "num": 203285,
       "word": "糙汉文男主",
@@ -552,22 +624,6 @@
       "word": "于正发卢昱晓原始帧",
       "onboard_time": 1706529569,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199743,
-      "num": 199743,
-      "word": "男子4次创业失败欠债1300万后终逆袭",
-      "onboard_time": 1706588129,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198041,
-      "num": 198041,
-      "word": "马天宇首部古装喜剧",
-      "onboard_time": 1706587890,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -593,6 +649,14 @@
       "onboard_time": 1706542052,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192820,
+      "num": 192820,
+      "word": "龙宝",
+      "onboard_time": 1706589031,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 188469,
@@ -675,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169101,
+      "num": 169101,
+      "word": "狗子早市虾筐撒尿主人赔了1800",
+      "onboard_time": 1706588554,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168029,
+      "num": 168029,
+      "word": "最贵的菜为什么放在菜单最前面",
+      "onboard_time": 1706588612,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162823,
       "num": 151726,
       "word": "杨紫高智感红唇妆",
@@ -737,14 +817,6 @@
       "onboard_time": 1706543311,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153105,
-      "num": 153105,
-      "word": "与辉同行主播疑回应抄袭文案",
-      "onboard_time": 1706587952,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 150637,
@@ -811,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142420,
+      "num": 142420,
+      "word": "结了六次婚得出的经验教训",
+      "onboard_time": 1706589153,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141595,
       "num": 141595,
       "word": "蔡依林演唱会深圳站预售",
@@ -841,14 +921,6 @@
       "onboard_time": 1706542890,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131990,
-      "num": 131990,
-      "word": "易烊千玺西装弹贝斯",
-      "onboard_time": 1706588312,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 131330,
@@ -923,6 +995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122818,
+      "num": 122818,
+      "word": "尿不湿竟然是popping高手",
+      "onboard_time": 1706589153,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122689,
+      "num": 122689,
+      "word": "正确洗头的8个步骤",
+      "onboard_time": 1706587653,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121919,
       "num": 121919,
       "word": "马斯克首个脑机接口产品叫心灵感应",
@@ -947,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118148,
-      "num": 118148,
-      "word": "小米汽车保单价格曝光",
-      "onboard_time": 1706588192,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 118074,
       "num": 118074,
       "word": "EDG更换首发上单",
@@ -977,14 +1057,6 @@
       "onboard_time": 1706583089,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116139,
-      "num": 116139,
-      "word": "正确洗头的8个步骤",
-      "onboard_time": 1706587653,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 114935,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1706567176,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93528,
+      "num": 114942,
+      "word": "火箭战胜湖人",
+      "onboard_time": 1706588733,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92146,
@@ -1196,7 +1276,7 @@
     },
     {
       "raw_hot": 71215,
-      "num": 1345880,
+      "num": 1396851,
       "word": "当千里江山图遇见清新福建",
       "onboard_time": 1706574691,
       "rank": 2,
@@ -1243,8 +1323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48008,
-      "num": 484569,
+      "raw_hot": 48853,
+      "num": 545419,
       "word": "如何打造龙年氛围感客厅",
       "onboard_time": 1706586511,
       "rank": 11,
@@ -1283,7 +1363,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23555,
+      "raw_hot": 29711,
       "num": 472516,
       "word": "蛋仔超燃竞技赛",
       "onboard_time": 1706587229,
