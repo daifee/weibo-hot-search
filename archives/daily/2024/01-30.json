@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706620731802,
+  "endTime": 1706621651266,
   "band_list": [
     {
       "raw_hot": 2653997,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045213,
+      "num": 1045213,
+      "word": "一部涉刑iPhone6S拍出22万天价",
+      "onboard_time": 1706617650,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999863,
       "num": 999863,
       "word": "田朴珺曝光住五星级酒店床单有血",
       "onboard_time": 1706611110,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 981346,
-      "num": 981346,
-      "word": "一部涉刑iPhone6S拍出22万天价",
-      "onboard_time": 1706617650,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 966880,
@@ -337,6 +337,14 @@
       "onboard_time": 1706611050,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 762045,
+      "num": 762045,
+      "word": "姨 刚下飞机就健身呢",
+      "onboard_time": 1706620412,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 757766,
@@ -515,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558361,
+      "num": 558361,
+      "word": "周杰伦昆凌看球没坐一起",
+      "onboard_time": 1706618070,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554317,
       "num": 554317,
       "word": "官方调查大学生扮锦衣卫迎客",
       "onboard_time": 1706563818,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553859,
-      "num": 553859,
-      "word": "周杰伦昆凌看球没坐一起",
-      "onboard_time": 1706618070,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 544251,
@@ -643,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 462278,
+      "num": 462278,
+      "word": "男子发表涉731受难者不当言论被拘留",
+      "onboard_time": 1706617829,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453034,
       "num": 453034,
       "word": "王者荣耀龙年珍藏英雄",
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395654,
+      "num": 395654,
+      "word": "杨幂珠光白旗袍",
+      "onboard_time": 1706620412,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393496,
       "num": 393496,
       "word": "候鸟式买房的人后悔了",
@@ -787,6 +811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386147,
+      "num": 386147,
+      "word": "10省将遭遇暴雪大暴雪",
+      "onboard_time": 1706616869,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382103,
+      "num": 382103,
+      "word": "LGD战胜EDG",
+      "onboard_time": 1706621012,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 380939,
       "num": 312119,
       "word": "高铁站好多情侣在分别",
@@ -801,6 +841,14 @@
       "onboard_time": 1706612789,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 368357,
+      "num": 368357,
+      "word": "郑裕玲打卡肖战上海大屏",
+      "onboard_time": 1706619690,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 368200,
@@ -875,14 +923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356114,
-      "num": 356114,
-      "word": "郑裕玲打卡肖战上海大屏",
-      "onboard_time": 1706619690,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355163,
       "num": 355163,
       "word": "非法足球 李铁",
@@ -923,14 +963,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 340520,
-      "num": 340520,
-      "word": "男子发表涉731受难者不当言论被拘留",
-      "onboard_time": 1706617829,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333451,
       "num": 333451,
       "word": "杨幂今年三台春晚",
@@ -969,14 +1001,6 @@
       "onboard_time": 1706600430,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309249,
-      "num": 158477,
-      "word": "姨 刚下飞机就健身呢",
-      "onboard_time": 1706620412,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 309006,
@@ -1083,27 +1107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270523,
-      "num": 185717,
-      "word": "杨幂珠光白旗袍",
-      "onboard_time": 1706620412,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 268435,
       "num": 268435,
       "word": "美国流浪猫每年杀死几十亿哺乳动物",
       "onboard_time": 1706533171,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266430,
-      "num": 266430,
-      "word": "10省将遭遇暴雪大暴雪",
-      "onboard_time": 1706616869,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173893,
+      "num": 173893,
+      "word": "leave失误",
+      "onboard_time": 1706621191,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "范丞丞不会用滑盖手机",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1706584230,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171169,
+      "num": 171169,
+      "word": "许凯发不出yi声",
+      "onboard_time": 1706621131,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168392,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1706538994,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159340,
+      "num": 151862,
+      "word": "A股从保卫3000点到了渴望3000点",
+      "onboard_time": 1706621430,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 158808,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1706583629,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146548,
+      "num": 146548,
+      "word": "美国加州餐厅偶遇周杰",
+      "onboard_time": 1706620951,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 146338,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1706612312,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138841,
+      "num": 138841,
+      "word": "狗狗生气了怎么哄都不听",
+      "onboard_time": 1706620710,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 138234,
@@ -2323,6 +2371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112554,
+      "num": 112554,
+      "word": "天津女排vs上海女排",
+      "onboard_time": 1706621312,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111388,
       "num": 111388,
       "word": "金莎cos18岁的蓝菲琳",
@@ -2427,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97086,
+      "num": 97086,
+      "word": "田朴珺 希望重视酒店卫生问题",
+      "onboard_time": 1706620650,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 94178,
       "num": 94178,
       "word": "2009年以来冬季最强雨雪冰冻来袭",
@@ -2449,14 +2513,6 @@
       "onboard_time": 1706535452,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90179,
-      "num": 90179,
-      "word": "田朴珺 希望重视酒店卫生问题",
-      "onboard_time": 1706620650,
-      "rank": 45,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 89830,
@@ -2491,14 +2547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85348,
-      "num": 85348,
-      "word": "狗狗生气了怎么哄都不听",
-      "onboard_time": 1706620710,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84116,
       "num": 84116,
       "word": "白云山为全国学生免门票至3月31日",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1706541815,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79785,
+      "num": 79785,
+      "word": "东部战区海军进行全要素导弹对海攻击训练",
+      "onboard_time": 1706621609,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78921,
@@ -2603,8 +2659,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 64015,
-      "num": 672820,
+      "raw_hot": 66973,
+      "num": 796217,
       "word": "年货大集里的浓浓年味",
       "onboard_time": 1706618732,
       "rank": 2,
