@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706581325326,
+  "endTime": 1706582043195,
   "band_list": [
     {
       "raw_hot": 2060984,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1620300,
-      "num": 1620300,
+      "raw_hot": 1621349,
+      "num": 1621349,
       "word": "敬业福",
       "onboard_time": 1706570361,
       "rank": 8,
       "category": "互联网"
     },
     {
-      "raw_hot": 1353509,
-      "num": 1353509,
+      "raw_hot": 1521644,
+      "num": 1521644,
       "word": "拖着不洗头 堵塞毛囊",
       "onboard_time": 1706576968,
       "rank": 31,
@@ -67,20 +67,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 768157,
+      "num": 768157,
+      "word": "男演员从校草变吃货称更快乐了",
+      "onboard_time": 1706579608,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662639,
       "num": 662639,
       "word": "祝绪丹 镜花缘",
       "onboard_time": 1706574570,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 648202,
-      "num": 648202,
-      "word": "男演员从校草变吃货称更快乐了",
-      "onboard_time": 1706579608,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 619987,
@@ -113,6 +113,14 @@
       "onboard_time": 1706563818,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537896,
+      "num": 537896,
+      "word": "车银优传闻中的弟弟",
+      "onboard_time": 1706580269,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 535121,
@@ -163,6 +171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 453594,
+      "num": 453594,
+      "word": "为啥实体药店比网店贵不少",
+      "onboard_time": 1706578528,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 447332,
       "num": 447332,
       "word": "易烊千玺新闻联播镜头",
@@ -179,14 +195,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 446489,
-      "num": 446489,
-      "word": "车银优传闻中的弟弟",
-      "onboard_time": 1706580269,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430303,
       "num": 430303,
       "word": "突然发现东北审美从不推崇白幼瘦",
@@ -201,14 +209,6 @@
       "onboard_time": 1706540854,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421603,
-      "num": 421603,
-      "word": "为啥实体药店比网店贵不少",
-      "onboard_time": 1706578528,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 417779,
@@ -275,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 354674,
+      "num": 412816,
+      "word": "得州副州长称将继续在美墨边境修建屏障",
+      "onboard_time": 1706580391,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 354509,
       "num": 305005,
       "word": "知情人回应网红宝妈因感冒去世",
@@ -283,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333451,
+      "num": 333451,
+      "word": "杨幂今年三台春晚",
+      "onboard_time": 1706580568,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303052,
       "num": 303052,
       "word": "浙江父亲想用AI复活儿子",
       "onboard_time": 1706534432,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299636,
+      "num": 201194,
+      "word": "6个肝脏求救的信号要知道",
+      "onboard_time": 1706578470,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296056,
@@ -305,14 +329,6 @@
       "onboard_time": 1706533530,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290197,
-      "num": 290197,
-      "word": "杨幂今年三台春晚",
-      "onboard_time": 1706580568,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 286157,
@@ -353,14 +369,6 @@
       "onboard_time": 1706539893,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 238114,
-      "num": 238114,
-      "word": "得州副州长称将继续在美墨边境修建屏障",
-      "onboard_time": 1706580391,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 235130,
@@ -427,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201194,
-      "num": 201194,
-      "word": "6个肝脏求救的信号要知道",
-      "onboard_time": 1706578470,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 193465,
       "num": 193465,
       "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175629,
+      "num": 175629,
+      "word": "清明上河图密码杀青",
+      "onboard_time": 1706580868,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174414,
       "num": 174414,
       "word": "网友把黄渤看成张艺兴妈妈",
@@ -515,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155911,
+      "num": 155911,
+      "word": "偶遇徐明浩买泡面",
+      "onboard_time": 1706581947,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153400,
       "num": 153400,
       "word": "我妈又在家庭群里催婚被我怼了",
@@ -529,6 +545,14 @@
       "onboard_time": 1706543311,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152171,
+      "num": 152171,
+      "word": "暴雪新总裁任命官宣",
+      "onboard_time": 1706581466,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 150051,
@@ -555,20 +579,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145125,
+      "num": 145125,
+      "word": "苹果头显在美预售额已超50亿",
+      "onboard_time": 1706581408,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144467,
       "num": 144467,
       "word": "美国队递补获得一枚北京冬奥金牌",
       "onboard_time": 1706542529,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143058,
-      "num": 143058,
-      "word": "清明上河图密码杀青",
-      "onboard_time": 1706580868,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 141422,
@@ -683,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111341,
+      "num": 111341,
+      "word": "原来钱还有这么多冷知识",
+      "onboard_time": 1706580391,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 109616,
       "num": 109616,
       "word": "12306回应自助售票机成功率更高",
@@ -713,14 +745,6 @@
       "onboard_time": 1706529090,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101506,
-      "num": 101506,
-      "word": "原来钱还有这么多冷知识",
-      "onboard_time": 1706580391,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 97426,

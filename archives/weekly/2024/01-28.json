@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706581325326,
+  "endTime": 1706582043195,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1620300,
-      "num": 1620300,
+      "raw_hot": 1621349,
+      "num": 1621349,
       "word": "敬业福",
       "onboard_time": 1706570361,
       "rank": 8,
@@ -145,6 +145,14 @@
       "onboard_time": 1706512588,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1521644,
+      "num": 1521644,
+      "word": "拖着不洗头 堵塞毛囊",
+      "onboard_time": 1706576968,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1513224,
@@ -209,14 +217,6 @@
       "onboard_time": 1706529930,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1353509,
-      "num": 1353509,
-      "word": "拖着不洗头 堵塞毛囊",
-      "onboard_time": 1706576968,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1318101,
@@ -627,6 +627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 768157,
+      "num": 768157,
+      "word": "男演员从校草变吃货称更快乐了",
+      "onboard_time": 1706579608,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 762272,
       "num": 762272,
       "word": "美国流浪猫每年杀死几十亿哺乳动物",
@@ -825,14 +833,6 @@
       "onboard_time": 1706485344,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 648202,
-      "num": 648202,
-      "word": "男演员从校草变吃货称更快乐了",
-      "onboard_time": 1706579608,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 640307,
@@ -1123,6 +1123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 537896,
+      "num": 537896,
+      "word": "车银优传闻中的弟弟",
+      "onboard_time": 1706580269,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535121,
       "num": 535121,
       "word": "48岁的蒋勤勤",
@@ -1387,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453594,
+      "num": 453594,
+      "word": "为啥实体药店比网店贵不少",
+      "onboard_time": 1706578528,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 452734,
       "num": 452734,
       "word": "迪丽热巴首位超like破3万女星",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1706402066,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 446489,
-      "num": 446489,
-      "word": "车银优传闻中的弟弟",
-      "onboard_time": 1706580269,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 440929,
@@ -1537,14 +1545,6 @@
       "onboard_time": 1706452113,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421603,
-      "num": 421603,
-      "word": "为啥实体药店比网店贵不少",
-      "onboard_time": 1706578528,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 421494,
@@ -1883,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354674,
+      "num": 412816,
+      "word": "得州副州长称将继续在美墨边境修建屏障",
+      "onboard_time": 1706580391,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 354509,
       "num": 305005,
       "word": "知情人回应网红宝妈因感冒去世",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1706513971,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333451,
+      "num": 333451,
+      "word": "杨幂今年三台春晚",
+      "onboard_time": 1706580568,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 330306,
@@ -2187,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299636,
+      "num": 201194,
+      "word": "6个肝脏求救的信号要知道",
+      "onboard_time": 1706578470,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 299071,
       "num": 261397,
       "word": "正式被确诊为柿子",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1706535452,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 290197,
-      "num": 290197,
-      "word": "杨幂今年三台春晚",
-      "onboard_time": 1706580568,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 289210,
@@ -2593,14 +2609,6 @@
       "onboard_time": 1706521052,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238114,
-      "num": 238114,
-      "word": "得州副州长称将继续在美墨边境修建屏障",
-      "onboard_time": 1706580391,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 237497,
@@ -3179,14 +3187,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 201194,
-      "num": 201194,
-      "word": "6个肝脏求救的信号要知道",
-      "onboard_time": 1706578470,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 200428,
       "num": 200428,
       "word": "原来这才是真榨汁肌",
@@ -3537,6 +3537,14 @@
       "onboard_time": 1706502575,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175629,
+      "num": 175629,
+      "word": "清明上河图密码杀青",
+      "onboard_time": 1706580868,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 175446,
@@ -3915,6 +3923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155911,
+      "num": 155911,
+      "word": "偶遇徐明浩买泡面",
+      "onboard_time": 1706581947,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155749,
       "num": 155749,
       "word": "王鹤棣穿拖鞋逛街",
@@ -4009,6 +4025,14 @@
       "onboard_time": 1706412512,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152171,
+      "num": 152171,
+      "word": "暴雪新总裁任命官宣",
+      "onboard_time": 1706581466,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 151928,
@@ -4203,6 +4227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145125,
+      "num": 145125,
+      "word": "苹果头显在美预售额已超50亿",
+      "onboard_time": 1706581408,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145030,
       "num": 145030,
       "word": "NBA春晚真好看",
@@ -4233,14 +4265,6 @@
       "onboard_time": 1706542529,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143058,
-      "num": 143058,
-      "word": "清明上河图密码杀青",
-      "onboard_time": 1706580868,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 142944,
@@ -5403,6 +5427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111341,
+      "num": 111341,
+      "word": "原来钱还有这么多冷知识",
+      "onboard_time": 1706580391,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 111204,
       "num": 111204,
       "word": "火车推销员遇到了属于他的中控",
@@ -5713,14 +5745,6 @@
       "onboard_time": 1706437410,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101506,
-      "num": 101506,
-      "word": "原来钱还有这么多冷知识",
-      "onboard_time": 1706580391,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 101390,
