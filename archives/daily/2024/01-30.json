@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706592875908,
+  "endTime": 1706595734122,
   "band_list": [
     {
       "raw_hot": 2525672,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1291029,
+      "num": 1291029,
+      "word": "结了六次婚得出的经验教训",
+      "onboard_time": 1706589153,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1232556,
       "num": 1232556,
       "word": "为什么微信红包上限只有200元",
@@ -89,14 +97,6 @@
       "onboard_time": 1706576012,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1074837,
-      "num": 1074837,
-      "word": "结了六次婚得出的经验教训",
-      "onboard_time": 1706589153,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 941522,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 813710,
-      "num": 286615,
+      "num": 287672,
       "word": "女子拒绝行房被打捣压丈夫颈部致死",
       "onboard_time": 1706590594,
       "rank": 20,
@@ -299,12 +299,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 482275,
+      "num": 482275,
+      "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
+      "onboard_time": 1706591852,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 477054,
       "num": 477054,
       "word": "得州",
       "onboard_time": 1706575290,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 473863,
+      "num": 473863,
+      "word": "赵传质疑繁花侵权",
+      "onboard_time": 1706588733,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 447332,
@@ -321,6 +337,14 @@
       "onboard_time": 1706575290,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 444466,
+      "num": 444466,
+      "word": "隆多被捕",
+      "onboard_time": 1706594552,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 430303,
@@ -387,8 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385370,
-      "num": 385370,
+      "raw_hot": 388332,
+      "num": 388332,
       "word": "我搜的明明是考公资料",
       "onboard_time": 1706588612,
       "rank": 30,
@@ -401,14 +425,6 @@
       "onboard_time": 1706584827,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 378600,
-      "num": 378600,
-      "word": "赵传质疑繁花侵权",
-      "onboard_time": 1706588733,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 368200,
@@ -433,6 +449,14 @@
       "onboard_time": 1706576851,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361589,
+      "num": 361589,
+      "word": "保定交警回应奔驰车主插队并拳砸引擎盖",
+      "onboard_time": 1706592394,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357920,
@@ -483,12 +507,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314885,
-      "num": 314885,
-      "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
-      "onboard_time": 1706591852,
-      "rank": 17,
-      "category": "艺人,时尚"
+      "raw_hot": 327311,
+      "num": 196279,
+      "word": "北京网友火锅店偶遇外国神秘大佬",
+      "onboard_time": 1706591794,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320535,
+      "num": 320535,
+      "word": "特朗普演讲 911",
+      "onboard_time": 1706589693,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 310236,
+      "num": 310236,
+      "word": "孙丞潇父母支持他和金莎在一起",
+      "onboard_time": 1706594133,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 303052,
@@ -505,6 +545,14 @@
       "onboard_time": 1706578470,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 298823,
+      "num": 298823,
+      "word": "20吨洋垃圾入境伴有强烈腐臭味",
+      "onboard_time": 1706593769,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296056,
@@ -531,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286778,
-      "num": 286778,
-      "word": "特朗普演讲 911",
-      "onboard_time": 1706589693,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 286157,
       "num": 218067,
       "word": "郭晶晶罕见华服亮相维港",
@@ -553,6 +593,22 @@
       "onboard_time": 1706575591,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272546,
+      "num": 272546,
+      "word": "李英爱再演大长今",
+      "onboard_time": 1706595273,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268610,
+      "num": 268610,
+      "word": "真正理解到了男左女右",
+      "onboard_time": 1706594311,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 268435,
@@ -651,20 +707,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228358,
-      "num": 228358,
-      "word": "保定交警回应奔驰车主插队并拳砸引擎盖",
-      "onboard_time": 1706592394,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "马斯克重夺世界首富位置",
       "onboard_time": 1706576370,
       "rank": 22,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 221405,
+      "num": 221405,
+      "word": "脏手指",
+      "onboard_time": 1706594969,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218789,
@@ -747,19 +803,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200715,
+      "num": 200715,
+      "word": "原来吃得好是这个意思",
+      "onboard_time": 1706593171,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 199999,
+      "num": 199999,
+      "word": "小时候以为在写字楼办公很高级",
+      "onboard_time": 1706594248,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197769,
       "num": 197769,
       "word": "河南连续5天下雪",
       "onboard_time": 1706579068,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196279,
-      "num": 196279,
-      "word": "北京网友火锅店偶遇外国神秘大佬",
-      "onboard_time": 1706591794,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -827,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177572,
+      "num": 177572,
+      "word": "证监会禁止大股东帮市场做空自己",
+      "onboard_time": 1706594490,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177310,
       "num": 177310,
       "word": "小猫闻螺狮粉后在餐桌上呕吐",
@@ -875,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169497,
+      "num": 169497,
+      "word": "大长今续集",
+      "onboard_time": 1706595511,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168029,
       "num": 168029,
       "word": "最贵的菜为什么放在菜单最前面",
@@ -897,6 +977,14 @@
       "onboard_time": 1706587291,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160541,
+      "num": 160541,
+      "word": "一想到自己工作了就想笑",
+      "onboard_time": 1706595154,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 159612,
@@ -929,6 +1017,14 @@
       "onboard_time": 1706581466,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155012,
+      "num": 155012,
+      "word": "周也禾晏凤冠造型",
+      "onboard_time": 1706593592,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 153400,
@@ -1035,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141513,
+      "num": 141513,
+      "word": "爱你的人会把你拍得很好看",
+      "onboard_time": 1706594190,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141422,
       "num": 141422,
       "word": "咳嗽持续多少天会变白肺",
@@ -1113,6 +1217,14 @@
       "onboard_time": 1706590952,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127283,
+      "num": 127283,
+      "word": "张婧仪镂空抹胸吊带裙",
+      "onboard_time": 1706594133,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126661,
