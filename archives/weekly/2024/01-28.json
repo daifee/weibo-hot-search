@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706631673911,
+  "endTime": 1706632690021,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -1195,7 +1195,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651227,
+      "raw_hot": 653420,
       "num": 395516,
       "word": "谷歌工程师杀妻悲剧发生之前",
       "onboard_time": 1706626474,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610547,
+      "num": 329645,
+      "word": "山竹醇",
+      "onboard_time": 1706628989,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610530,
       "num": 610530,
       "word": "9部电影官宣2024春节档",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1706434469,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592229,
-      "num": 329645,
-      "word": "山竹醇",
-      "onboard_time": 1706628989,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590054,
@@ -1763,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496335,
+      "num": 496335,
+      "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
+      "onboard_time": 1706629168,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495071,
       "num": 495071,
       "word": "宋雨琦 库伊拉魔女",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1706354490,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 437069,
-      "num": 437069,
-      "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
-      "onboard_time": 1706629168,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436483,
@@ -2643,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 353811,
+      "num": 353811,
+      "word": "史航",
+      "onboard_time": 1706628092,
+      "rank": 23,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 353664,
       "num": 203461,
       "word": "詹姆斯常规赛出场历史第七",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1706624251,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 338026,
-      "num": 338026,
-      "word": "史航",
-      "onboard_time": 1706628092,
-      "rank": 23,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 336890,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1706405968,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 293950,
+      "num": 293950,
+      "word": "秦海璐迪丽热巴最早的交集在2018年",
+      "onboard_time": 1706630427,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293153,
@@ -3617,14 +3625,6 @@
       "onboard_time": 1706372909,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237066,
-      "num": 237066,
-      "word": "秦海璐迪丽热巴最早的交集在2018年",
-      "onboard_time": 1706630427,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236916,
@@ -8409,6 +8409,14 @@
       "onboard_time": 1706561355,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57599,
+      "num": 57599,
+      "word": "梁洁七组荧幕cp",
+      "onboard_time": 1706632645,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 57052,

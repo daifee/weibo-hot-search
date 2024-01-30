@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706631673911,
+  "endTime": 1706632690021,
   "band_list": [
     {
       "raw_hot": 1324211,
@@ -19,11 +19,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651227,
+      "raw_hot": 653420,
       "num": 334166,
       "word": "谷歌工程师杀妻悲剧发生之前",
       "onboard_time": 1706626474,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610547,
+      "num": 329645,
+      "word": "山竹醇",
+      "onboard_time": 1706628989,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 592229,
-      "num": 329645,
-      "word": "山竹醇",
-      "onboard_time": 1706628989,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 563663,
       "num": 563663,
       "word": "董宇辉新账号直播间被指大规模抄袭",
       "onboard_time": 1706625693,
       "rank": 4,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 496335,
+      "num": 496335,
+      "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
+      "onboard_time": 1706629168,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483684,
@@ -67,20 +75,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 437069,
-      "num": 437069,
-      "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
-      "onboard_time": 1706629168,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368356,
       "num": 368356,
       "word": "你们五个人能不能一起拍部戏",
       "onboard_time": 1706622573,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353811,
+      "num": 353811,
+      "word": "史航",
+      "onboard_time": 1706628092,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 348180,
@@ -91,14 +99,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 338026,
-      "num": 338026,
-      "word": "史航",
-      "onboard_time": 1706628092,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307967,
       "num": 307967,
       "word": "坚持一年以上的护肤习惯",
@@ -107,20 +107,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 293950,
+      "num": 293950,
+      "word": "秦海璐迪丽热巴最早的交集在2018年",
+      "onboard_time": 1706630427,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256671,
       "num": 256671,
       "word": "宋威龙微博认证删除欢娱",
       "onboard_time": 1706611110,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237066,
-      "num": 237066,
-      "word": "秦海璐迪丽热巴最早的交集在2018年",
-      "onboard_time": 1706630427,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219274,
@@ -393,6 +393,14 @@
       "onboard_time": 1706623834,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57599,
+      "num": 57599,
+      "word": "梁洁七组荧幕cp",
+      "onboard_time": 1706632645,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41778,
