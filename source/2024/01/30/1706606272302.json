@@ -1,0 +1,410 @@
+{
+  "runTime": 1706606272302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1104549,
+        "num": 1104549,
+        "word": "韩国爆火的淀粉牙签最初是用来喂猪的",
+        "onboard_time": 1706601272,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997391,
+        "num": 997391,
+        "word": "祝绪丹 我已经很幸运啦",
+        "onboard_time": 1706604871,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17576,
+        "num": 968597,
+        "word": "2023年中国考古新发现",
+        "onboard_time": 1706577748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966880,
+        "num": 966880,
+        "word": "全球一半食管癌在中国",
+        "onboard_time": 1706600552,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 797054,
+        "num": 797054,
+        "word": "官方回应宋祖儿新剧过审",
+        "onboard_time": 1706597673,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700332,
+        "num": 700332,
+        "word": "外卖员买下退单餐品意外中3.8万元金条",
+        "onboard_time": 1706601992,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653979,
+        "num": 653979,
+        "word": "嫌疑人李小龙落网",
+        "onboard_time": 1706602411,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578731,
+        "num": 578731,
+        "word": "郑州降雪预报图全黑",
+        "onboard_time": 1706601512,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559144,
+        "num": 559144,
+        "word": "家中唯一男孩被拐父亲抱憾离世",
+        "onboard_time": 1706602471,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549973,
+        "num": 549973,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1386392,
+        "num": 547199,
+        "word": "长期穿一次性内裤会引发阴道炎吗",
+        "onboard_time": 1706601872,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1358583,
+        "num": 529545,
+        "word": "冀F8656Z",
+        "onboard_time": 1706590473,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462018,
+        "num": 462018,
+        "word": "祝绪丹 书卷一梦女二",
+        "onboard_time": 1706604993,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455741,
+        "num": 455741,
+        "word": "汕头发现一具鲸鱼尸体",
+        "onboard_time": 1706596952,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453034,
+        "num": 453034,
+        "word": "王者荣耀龙年珍藏英雄",
+        "onboard_time": 1706604690,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 436088,
+        "num": 436088,
+        "word": "史航已就性骚扰风波提起诉讼",
+        "onboard_time": 1706601751,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429053,
+        "num": 429053,
+        "word": "花少节目组帮王安宇腋下管理",
+        "onboard_time": 1706605172,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405117,
+        "num": 405117,
+        "word": "杨幂回应三亿对赌传闻",
+        "onboard_time": 1706584827,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360614,
+        "num": 360614,
+        "word": "A股节前会站上3000点吗",
+        "onboard_time": 1706600970,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307546,
+        "num": 307546,
+        "word": "中央气象台",
+        "onboard_time": 1706600729,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318873,
+        "num": 299394,
+        "word": "女子拒绝行房被打捣压丈夫颈部致死",
+        "onboard_time": 1706590594,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288765,
+        "num": 288765,
+        "word": "上海限购",
+        "onboard_time": 1706605891,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 313726,
+        "num": 288362,
+        "word": "杨幂谈成为顶级流量的代价",
+        "onboard_time": 1706605473,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287643,
+        "num": 287643,
+        "word": "淀粉牙签",
+        "onboard_time": 1706605294,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 279543,
+        "num": 279543,
+        "word": "夏克立称黄嘉千家暴伤势是自己抓的",
+        "onboard_time": 1706598210,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264673,
+        "num": 264673,
+        "word": "短甲美甲",
+        "onboard_time": 1706605351,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 260598,
+        "num": 260598,
+        "word": "上海优化住房限购政策",
+        "onboard_time": 1706605052,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254621,
+        "num": 254621,
+        "word": "马化腾年会红毛衣某宝79元",
+        "onboard_time": 1706605953,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228456,
+        "num": 228456,
+        "word": "全智贤旧照",
+        "onboard_time": 1706600430,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206773,
+        "num": 219800,
+        "word": "美方突击搜查在美中资企业",
+        "onboard_time": 1706603192,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219570,
+        "num": 219570,
+        "word": "王者荣耀",
+        "onboard_time": 1706605473,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215788,
+        "num": 215788,
+        "word": "尔滨1小时找到小金豆失散30年亲人",
+        "onboard_time": 1706602891,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 214757,
+        "num": 214757,
+        "word": "世界之外新副本",
+        "onboard_time": 1706604213,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202059,
+        "num": 202059,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197909,
+        "num": 197909,
+        "word": "神堕八岐大蛇臻藏皮肤",
+        "onboard_time": 1706605953,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193852,
+        "num": 193852,
+        "word": "9岁男孩肾里取出56个结石",
+        "onboard_time": 1706595994,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189913,
+        "num": 189913,
+        "word": "脏手指",
+        "onboard_time": 1706594969,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172521,
+        "num": 172521,
+        "word": "迪丽热巴嗑到了一生辛胡",
+        "onboard_time": 1706598932,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157986,
+        "num": 157986,
+        "word": "这么离谱的天气预报图头一次见",
+        "onboard_time": 1706600608,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149849,
+        "num": 149849,
+        "word": "证监会通报左江科技财务造假案",
+        "onboard_time": 1706605533,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144876,
+        "num": 144876,
+        "word": "李英爱再演大长今",
+        "onboard_time": 1706595273,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6401,
+        "num": 144140,
+        "word": "何以中国向海泉州",
+        "onboard_time": 1706276130,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143543,
+        "num": 143543,
+        "word": "从小山城到大城市需要多大勇气",
+        "onboard_time": 1706605828,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141555,
+        "num": 141555,
+        "word": "基金",
+        "onboard_time": 1706601210,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140455,
+        "num": 140455,
+        "word": "马天宇卜冠今演情侣",
+        "onboard_time": 1706602891,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132857,
+        "num": 132857,
+        "word": "张大仙许愿上厕所不掉粉",
+        "onboard_time": 1706606132,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 127591,
+        "word": "快递员为了1000个孩子拒绝升职",
+        "onboard_time": 1706584167,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120870,
+        "num": 120870,
+        "word": "易烊千玺眼睛肿了",
+        "onboard_time": 1706588854,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120169,
+        "num": 120169,
+        "word": "原来吃得好是这个意思",
+        "onboard_time": 1706593171,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119049,
+        "num": 119049,
+        "word": "好多的头发 好牛的创意",
+        "onboard_time": 1706601030,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
