@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706627906947,
+  "endTime": 1706628857000,
   "band_list": [
     {
       "raw_hot": 2653997,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2601209,
-      "num": 2601209,
+      "raw_hot": 2609133,
+      "num": 2609133,
       "word": "缅甸白所成父子被移交我公安机关",
       "onboard_time": 1706624974,
       "rank": 23,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550892,
+      "num": 395516,
+      "word": "谷歌工程师杀妻悲剧发生之前",
+      "onboard_time": 1706626474,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544251,
       "num": 521496,
       "word": "杨幂去年找了表演老师改表演习惯",
@@ -633,6 +641,14 @@
       "onboard_time": 1706584407,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 505851,
+      "num": 505851,
+      "word": "新疆7.1级地震是典型逆断层型地震",
+      "onboard_time": 1706626890,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505541,
@@ -721,14 +737,6 @@
       "onboard_time": 1706604690,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 450120,
-      "num": 350521,
-      "word": "谷歌工程师杀妻悲剧发生之前",
-      "onboard_time": 1706626474,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447332,
@@ -833,6 +841,14 @@
       "onboard_time": 1706541153,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395572,
+      "num": 395572,
+      "word": "玉皇大帝和王母娘娘并不是夫妻",
+      "onboard_time": 1706626953,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 393496,
@@ -1027,6 +1043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 340480,
+      "num": 340480,
+      "word": "坚持一年以上的护肤习惯",
+      "onboard_time": 1706624251,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 336254,
       "num": 336254,
       "word": "A股从保卫3000点到了渴望3000点",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1706591794,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325424,
-      "num": 325424,
-      "word": "坚持一年以上的护肤习惯",
-      "onboard_time": 1706624251,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 320535,
@@ -1171,28 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293285,
-      "num": 293285,
-      "word": "新疆7.1级地震是典型逆断层型地震",
-      "onboard_time": 1706626890,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291201,
       "num": 273926,
       "word": "男子4次创业失败欠债1300万后终逆袭",
       "onboard_time": 1706588129,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289274,
-      "num": 289274,
-      "word": "玉皇大帝和王母娘娘并不是夫妻",
-      "onboard_time": 1706626953,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 287643,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211024,
+      "num": 211024,
+      "word": "史航",
+      "onboard_time": 1706628092,
+      "rank": 23,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 209950,
       "num": 209950,
       "word": "张小斐娶我",
@@ -1635,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197171,
+      "num": 197171,
+      "word": "童瑶早就预判了雷东宝的结局",
+      "onboard_time": 1706627013,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196772,
       "num": 196772,
       "word": "回南天",
@@ -1739,14 +1755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 191241,
-      "num": 191241,
-      "word": "童瑶早就预判了雷东宝的结局",
-      "onboard_time": 1706627013,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189539,
       "num": 189539,
       "word": "姬小满新皮肤珍宝阁兑换",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1706541392,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187821,
+      "num": 187821,
+      "word": "末将直播间刷了N个嘉年华",
+      "onboard_time": 1706627552,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 186156,
@@ -1955,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158552,
+      "num": 158552,
+      "word": "陈泽直播",
+      "onboard_time": 1706628332,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157693,
       "num": 157693,
       "word": "刘德华黄渤当选中国影协副主席",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1706610690,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154417,
+      "num": 154417,
+      "word": "K宝遭禁赛后首发声",
+      "onboard_time": 1706627732,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 153400,
@@ -2107,6 +2139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145825,
+      "num": 145825,
+      "word": "杨幂采访 流量演员直面事实",
+      "onboard_time": 1706627611,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145281,
+      "num": 145281,
+      "word": "万妮达报名浪姐5",
+      "onboard_time": 1706628511,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145236,
       "num": 145236,
       "word": "辛芷蕾想打秦岚误伤胡先煦",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1706597487,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143927,
-      "num": 143927,
-      "word": "末将直播间刷了N个嘉年华",
-      "onboard_time": 1706627552,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 143543,
@@ -2411,14 +2451,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 125152,
-      "num": 114711,
-      "word": "杨幂采访 流量演员直面事实",
-      "onboard_time": 1706627611,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "小狗只在乎香肠好不好吃",
@@ -2627,14 +2659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112260,
-      "num": 112260,
-      "word": "K宝遭禁赛后首发声",
-      "onboard_time": 1706627732,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111388,
       "num": 111388,
       "word": "金莎cos18岁的蓝菲琳",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1706582906,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102038,
+      "num": 102038,
+      "word": "任天堂打击山寨宝可梦",
+      "onboard_time": 1706628030,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99928,

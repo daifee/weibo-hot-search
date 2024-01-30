@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706627906947,
+  "endTime": 1706628857000,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2601209,
-      "num": 2601209,
+      "raw_hot": 2609133,
+      "num": 2609133,
       "word": "缅甸白所成父子被移交我公安机关",
       "onboard_time": 1706624974,
       "rank": 23,
@@ -1531,6 +1531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 550892,
+      "num": 395516,
+      "word": "谷歌工程师杀妻悲剧发生之前",
+      "onboard_time": 1706626474,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545380,
       "num": 545380,
       "word": "张元英的肌肉",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1706452591,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505851,
+      "num": 505851,
+      "word": "新疆7.1级地震是典型逆断层型地震",
+      "onboard_time": 1706626890,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505541,
@@ -1963,14 +1979,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 450120,
-      "num": 350521,
-      "word": "谷歌工程师杀妻悲剧发生之前",
-      "onboard_time": 1706626474,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449448,
       "num": 449448,
       "word": "46岁远嫁女子十年写了3本书",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1706444011,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395572,
+      "num": 395572,
+      "word": "玉皇大帝和王母娘娘并不是夫妻",
+      "onboard_time": 1706626953,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 394658,
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340480,
+      "num": 340480,
+      "word": "坚持一年以上的护肤习惯",
+      "onboard_time": 1706624251,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 336890,
       "num": 336890,
       "word": "我驻瑙鲁使馆复馆小组举行升国旗仪式",
@@ -2785,14 +2809,6 @@
       "onboard_time": 1706401166,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 325424,
-      "num": 325424,
-      "word": "坚持一年以上的护肤习惯",
-      "onboard_time": 1706624251,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 320535,
@@ -3107,14 +3123,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 293285,
-      "num": 293285,
-      "word": "新疆7.1级地震是典型逆断层型地震",
-      "onboard_time": 1706626890,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293153,
       "num": 293153,
       "word": "恋与深空辟谣秦彻",
@@ -3153,14 +3161,6 @@
       "onboard_time": 1706588129,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289274,
-      "num": 289274,
-      "word": "玉皇大帝和王母娘娘并不是夫妻",
-      "onboard_time": 1706626953,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 289210,
@@ -4059,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211024,
+      "num": 211024,
+      "word": "史航",
+      "onboard_time": 1706628092,
+      "rank": 23,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 210911,
       "num": 210911,
       "word": "中国游客国外发病获过路中国医生急救",
@@ -4443,6 +4451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197171,
+      "num": 197171,
+      "word": "童瑶早就预判了雷东宝的结局",
+      "onboard_time": 1706627013,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196772,
       "num": 196772,
       "word": "回南天",
@@ -4611,14 +4627,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 191241,
-      "num": 191241,
-      "word": "童瑶早就预判了雷东宝的结局",
-      "onboard_time": 1706627013,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190467,
       "num": 190467,
       "word": "中国石油4天涨幅近25%",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1706570121,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 187821,
+      "num": 187821,
+      "word": "末将直播间刷了N个嘉年华",
+      "onboard_time": 1706627552,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 187480,
@@ -5283,6 +5299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158552,
+      "num": 158552,
+      "word": "陈泽直播",
+      "onboard_time": 1706436870,
+      "rank": 39,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 158548,
       "num": 158548,
       "word": "抑郁症是受打击才发病吗",
@@ -5433,6 +5457,14 @@
       "onboard_time": 1706610690,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154417,
+      "num": 154417,
+      "word": "K宝遭禁赛后首发声",
+      "onboard_time": 1706627732,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 154196,
@@ -5731,12 +5763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145825,
+      "num": 145825,
+      "word": "杨幂采访 流量演员直面事实",
+      "onboard_time": 1706627611,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145392,
       "num": 145392,
       "word": "相亲笑话",
       "onboard_time": 1706533651,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145281,
+      "num": 145281,
+      "word": "万妮达报名浪姐5",
+      "onboard_time": 1706628511,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 145236,
@@ -5809,14 +5857,6 @@
       "onboard_time": 1706597487,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143927,
-      "num": 143927,
-      "word": "末将直播间刷了N个嘉年华",
-      "onboard_time": 1706627552,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 143543,
@@ -6113,14 +6153,6 @@
       "onboard_time": 1706419710,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135698,
-      "num": 135698,
-      "word": "陈泽直播",
-      "onboard_time": 1706436870,
-      "rank": 39,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 135256,
@@ -6601,14 +6633,6 @@
       "onboard_time": 1706421688,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125152,
-      "num": 114711,
-      "word": "杨幂采访 流量演员直面事实",
-      "onboard_time": 1706627611,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 125061,
@@ -7315,14 +7339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112260,
-      "num": 112260,
-      "word": "K宝遭禁赛后首发声",
-      "onboard_time": 1706627732,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111969,
       "num": 111969,
       "word": "元梦之星魔道祖师地图",
@@ -7681,6 +7697,14 @@
       "onboard_time": 1706365112,
       "rank": 38,
       "category": "科学科普,作品衍生"
+    },
+    {
+      "raw_hot": 102038,
+      "num": 102038,
+      "word": "任天堂打击山寨宝可梦",
+      "onboard_time": 1706628030,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 102035,
