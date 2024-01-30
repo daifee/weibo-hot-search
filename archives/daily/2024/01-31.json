@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706649408412,
+  "endTime": 1706650431016,
   "band_list": [
     {
       "raw_hot": 1324211,
@@ -459,8 +459,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17991,
-      "num": 14757,
+      "raw_hot": 19991,
+      "num": 15351,
       "word": "姐弟来医院探望刚出生的妹妹",
       "onboard_time": 1706647395,
       "rank": 30,
@@ -475,20 +475,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11505,
+      "num": 11505,
+      "word": "年味儿真的开始上来了",
+      "onboard_time": 1706648235,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 11468,
       "num": 11468,
       "word": "es 绘旅人",
       "onboard_time": 1706644516,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10891,
-      "num": 10891,
-      "word": "年味儿真的开始上来了",
-      "onboard_time": 1706648235,
-      "rank": 47,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

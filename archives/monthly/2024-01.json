@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706649408412,
+  "endTime": 1706650431016,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -82667,6 +82667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19991,
+      "num": 15351,
+      "word": "姐弟来医院探望刚出生的妹妹",
+      "onboard_time": 1706647395,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19961,
       "num": 298473,
       "word": "在元梦开启第二人生",
@@ -82841,14 +82849,6 @@
       "onboard_time": 1706465661,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17991,
-      "num": 14757,
-      "word": "姐弟来医院探望刚出生的妹妹",
-      "onboard_time": 1706647395,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 17958,
@@ -83411,6 +83411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11505,
+      "num": 11505,
+      "word": "年味儿真的开始上来了",
+      "onboard_time": 1706648235,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 11468,
       "num": 11468,
       "word": "es 绘旅人",
@@ -83489,14 +83497,6 @@
       "onboard_time": 1706387955,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10891,
-      "num": 10891,
-      "word": "年味儿真的开始上来了",
-      "onboard_time": 1706648235,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 10794,

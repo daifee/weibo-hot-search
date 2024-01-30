@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706649408412,
+  "endTime": 1706650431016,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -8755,6 +8755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 19991,
+      "num": 15351,
+      "word": "姐弟来医院探望刚出生的妹妹",
+      "onboard_time": 1706647395,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18841,
       "num": 18841,
       "word": "林允耳环好大",
@@ -8777,14 +8785,6 @@
       "onboard_time": 1706465661,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17991,
-      "num": 14757,
-      "word": "姐弟来医院探望刚出生的妹妹",
-      "onboard_time": 1706647395,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 16941,
@@ -8843,6 +8843,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11505,
+      "num": 11505,
+      "word": "年味儿真的开始上来了",
+      "onboard_time": 1706648235,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 11468,
       "num": 11468,
       "word": "es 绘旅人",
@@ -8857,14 +8865,6 @@
       "onboard_time": 1706387955,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10891,
-      "num": 10891,
-      "word": "年味儿真的开始上来了",
-      "onboard_time": 1706648235,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 10524,
