@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706589242699,
+  "endTime": 1706591802471,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -3787,6 +3787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1309539,
+      "num": 1309539,
+      "word": "冀F8656Z",
+      "onboard_time": 1706590473,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1306410,
       "num": 1306410,
       "word": "00后四美",
@@ -7403,6 +7411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916874,
+      "num": 916874,
+      "word": "结了六次婚得出的经验教训",
+      "onboard_time": 1706589153,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 915982,
       "num": 915982,
       "word": "黑龙江文旅厅厅长仅任职1年",
@@ -8211,6 +8227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854925,
+      "num": 854925,
+      "word": "科目三创始人的完整版",
+      "onboard_time": 1706586573,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 854321,
       "num": 854321,
       "word": "联合国一飞机被劫持",
@@ -8992,6 +9016,14 @@
       "word": "街道办回应要求返乡过年人员要报备",
       "onboard_time": 1704841821,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813710,
+      "num": 275320,
+      "word": "女子拒绝行房被打捣压丈夫颈部致死",
+      "onboard_time": 1706590594,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -10209,6 +10241,14 @@
       "onboard_time": 1706008409,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 757766,
+      "num": 757766,
+      "word": "苏州全面取消住房限购",
+      "onboard_time": 1706589450,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757350,
@@ -12273,14 +12313,6 @@
       "onboard_time": 1706489070,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 674240,
-      "num": 674240,
-      "word": "科目三创始人的完整版",
-      "onboard_time": 1706586573,
-      "rank": 13,
-      "category": "运动健身"
     },
     {
       "raw_hot": 674216,
@@ -14841,6 +14873,14 @@
       "onboard_time": 1705651886,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 590054,
+      "num": 590054,
+      "word": "易烊千玺眼睛肿了",
+      "onboard_time": 1706588854,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 590000,
@@ -24035,6 +24075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 393444,
+      "num": 393444,
+      "word": "反光丝袜",
+      "onboard_time": 1706588554,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393391,
       "num": 393391,
       "word": "原来萌兰这么大只啊",
@@ -24537,6 +24585,14 @@
       "onboard_time": 1704938967,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385370,
+      "num": 385370,
+      "word": "我搜的明明是考公资料",
+      "onboard_time": 1706588612,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 385252,
@@ -25305,6 +25361,14 @@
       "onboard_time": 1705886307,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 374316,
+      "num": 374316,
+      "word": "赵传质疑繁花侵权",
+      "onboard_time": 1706588733,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 374192,
@@ -29811,14 +29875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306374,
-      "num": 208084,
-      "word": "我搜的明明是考公资料",
-      "onboard_time": 1706588612,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306352,
       "num": 252972,
       "word": "一块钱怎么度过一周",
@@ -31201,14 +31257,6 @@
       "onboard_time": 1704617552,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 290324,
-      "num": 206668,
-      "word": "反光丝袜",
-      "onboard_time": 1706588554,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 290272,
@@ -33171,14 +33219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270993,
-      "num": 270993,
-      "word": "易烊千玺眼睛肿了",
-      "onboard_time": 1706588854,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270970,
       "num": 270970,
       "word": "TES不然",
@@ -34163,6 +34203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261653,
+      "num": 261653,
+      "word": "特朗普演讲 911",
+      "onboard_time": 1706589693,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 261554,
       "num": 261554,
       "word": "郑钦文vs卡林斯卡娅",
@@ -35017,6 +35065,14 @@
       "onboard_time": 1706058027,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253370,
+      "num": 253370,
+      "word": "小米汽车保单价格曝光",
+      "onboard_time": 1706588192,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 253359,
@@ -36771,6 +36827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239562,
+      "num": 239562,
+      "word": "狗子早市虾筐撒尿主人赔了1800",
+      "onboard_time": 1706588554,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239453,
       "num": 239453,
       "word": "分析师预计iPhone16销售疲软",
@@ -38209,6 +38273,14 @@
       "onboard_time": 1705210951,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230397,
+      "num": 230397,
+      "word": "华为Mate60全球销量破3000万台",
+      "onboard_time": 1706589334,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 230352,
@@ -40795,14 +40867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216322,
-      "num": 216322,
-      "word": "赵传质疑繁花侵权",
-      "onboard_time": 1706588733,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216239,
       "num": 216239,
       "word": "宋茜的柔韧度",
@@ -41491,6 +41555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212308,
+      "num": 212308,
+      "word": "张颂文白百何古装",
+      "onboard_time": 1706589814,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212299,
       "num": 212299,
       "word": "徐明浩澳门演唱会舞台",
@@ -41993,6 +42065,14 @@
       "onboard_time": 1705892004,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "张小斐娶我",
+      "onboard_time": 1706589272,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209948,
@@ -43507,14 +43587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204051,
-      "num": 204051,
-      "word": "小米汽车保单价格曝光",
-      "onboard_time": 1706588192,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 203987,
       "num": 203987,
       "word": "IU将回归",
@@ -43577,6 +43649,14 @@
       "onboard_time": 1704341916,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203611,
+      "num": 203611,
+      "word": "王俊凯张子枫电影",
+      "onboard_time": 1706591431,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203609,
@@ -44321,6 +44401,14 @@
       "onboard_time": 1705745849,
       "rank": 49,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 201316,
+      "num": 201316,
+      "word": "藏海传更新简介",
+      "onboard_time": 1706589513,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 201314,
@@ -51379,6 +51467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 177310,
+      "num": 177310,
+      "word": "小猫闻螺狮粉后在餐桌上呕吐",
+      "onboard_time": 1706590411,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177308,
       "num": 177308,
       "word": "美国国防部长奥斯汀出院",
@@ -53371,6 +53467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170563,
+      "num": 205726,
+      "word": "杭州一黄金店使用鬼秤被罚22000元",
+      "onboard_time": 1706591252,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170554,
       "num": 170554,
       "word": "哈尔滨回应打造羽绒服品牌建议",
@@ -53793,14 +53897,6 @@
       "onboard_time": 1705661305,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169101,
-      "num": 169101,
-      "word": "狗子早市虾筐撒尿主人赔了1800",
-      "onboard_time": 1706588554,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169079,
@@ -55001,6 +55097,14 @@
       "onboard_time": 1706239651,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165400,
+      "num": 165400,
+      "word": "SuperLady歌词",
+      "onboard_time": 1706589334,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 165394,
@@ -62115,14 +62219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 142420,
-      "num": 142420,
-      "word": "结了六次婚得出的经验教训",
-      "onboard_time": 1706589153,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142411,
       "num": 142411,
       "word": "她不是脚滑而是狡猾",
@@ -62641,6 +62737,14 @@
       "onboard_time": 1705148934,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141125,
+      "num": 141125,
+      "word": "五条悟终于帅回来了",
+      "onboard_time": 1706591133,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 141122,
@@ -63601,6 +63705,14 @@
       "onboard_time": 1704724293,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138056,
+      "num": 138056,
+      "word": "杨紫你可真能藏",
+      "onboard_time": 1706591553,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 138049,
@@ -66761,6 +66873,14 @@
       "onboard_time": 1705125873,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128694,
+      "num": 128694,
+      "word": "IU概念预告",
+      "onboard_time": 1706590952,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 128669,
@@ -71345,6 +71465,14 @@
       "onboard_time": 1704717510,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114150,
+      "num": 114150,
+      "word": "北京网友火锅店偶遇外国神秘大佬",
+      "onboard_time": 1706591794,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114138,
