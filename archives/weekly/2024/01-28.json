@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706632690021,
+  "endTime": 1706635018975,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -7691,6 +7691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102392,
+      "num": 63328,
+      "word": "歌手黄安科普赵传歌曲版权问题",
+      "onboard_time": 1706632946,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102299,
       "num": 102299,
       "word": "中山文旅邀请苏炳添回家乡看村BA",
@@ -8243,6 +8251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83680,
+      "num": 83680,
+      "word": "温柔是一种太高级的力量了",
+      "onboard_time": 1706633365,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83611,
       "num": 83611,
       "word": "堆雪人界也进化到考研了",
@@ -8379,6 +8395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68116,
+      "num": 68116,
+      "word": "梁洁七组荧幕cp",
+      "onboard_time": 1706632645,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67216,
       "num": 938161,
       "word": "春节回家路上有他们保驾护航",
@@ -8409,14 +8433,6 @@
       "onboard_time": 1706561355,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57599,
-      "num": 57599,
-      "word": "梁洁七组荧幕cp",
-      "onboard_time": 1706632645,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 57052,
