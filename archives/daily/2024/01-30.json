@@ -1,7 +1,15 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706591802471,
+  "endTime": 1706592875908,
   "band_list": [
+    {
+      "raw_hot": 2525672,
+      "num": 2525672,
+      "word": "冀F8656Z",
+      "onboard_time": 1706590473,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2060984,
       "num": 2060984,
@@ -51,14 +59,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1309539,
-      "num": 1309539,
-      "word": "冀F8656Z",
-      "onboard_time": 1706590473,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1232556,
       "num": 1232556,
       "word": "为什么微信红包上限只有200元",
@@ -91,20 +91,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1074837,
+      "num": 1074837,
+      "word": "结了六次婚得出的经验教训",
+      "onboard_time": 1706589153,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 941522,
       "num": 941522,
       "word": "女子被未戴嘴笼狗吓到与主人扭打",
       "onboard_time": 1706574088,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 916874,
-      "num": 916874,
-      "word": "结了六次婚得出的经验教训",
-      "onboard_time": 1706589153,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 854925,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 813710,
-      "num": 275320,
+      "num": 286615,
       "word": "女子拒绝行房被打捣压丈夫颈部致死",
       "onboard_time": 1706590594,
       "rank": 20,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415017,
+      "num": 415017,
+      "word": "王俊凯张子枫电影",
+      "onboard_time": 1706591431,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413278,
       "num": 413278,
       "word": "12岁女孩买民法典专门对付妈妈",
@@ -395,8 +403,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 374316,
-      "num": 374316,
+      "raw_hot": 378600,
+      "num": 378600,
       "word": "赵传质疑繁花侵权",
       "onboard_time": 1706588733,
       "rank": 28,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314885,
+      "num": 314885,
+      "word": "白敬亭个人品牌蓬蓬鞋获专利授权",
+      "onboard_time": 1706591852,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 303052,
       "num": 303052,
       "word": "浙江父亲想用AI复活儿子",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286778,
+      "num": 286778,
+      "word": "特朗普演讲 911",
+      "onboard_time": 1706589693,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 286157,
       "num": 218067,
       "word": "郭晶晶罕见华服亮相维港",
@@ -539,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262539,
+      "num": 262539,
+      "word": "张杰演唱会大电影正式立项",
+      "onboard_time": 1706592212,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 262451,
       "num": 262451,
       "word": "订婚强奸案",
       "onboard_time": 1706517931,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261653,
-      "num": 261653,
-      "word": "特朗普演讲 911",
-      "onboard_time": 1706589693,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 253370,
@@ -563,20 +587,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 251945,
+      "num": 251945,
+      "word": "狗子早市虾筐撒尿主人赔了1800",
+      "onboard_time": 1706588554,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241092,
       "num": 219474,
       "word": "6种症状提醒你该查血脂了",
       "onboard_time": 1706539893,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239562,
-      "num": 239562,
-      "word": "狗子早市虾筐撒尿主人赔了1800",
-      "onboard_time": 1706588554,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235130,
@@ -593,6 +617,14 @@
       "onboard_time": 1706587952,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 233611,
+      "num": 233611,
+      "word": "杭州一黄金店使用鬼秤被罚22000元",
+      "onboard_time": 1706591252,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230397,
@@ -617,6 +649,14 @@
       "onboard_time": 1706522790,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228358,
+      "num": 228358,
+      "word": "保定交警回应奔驰车主插队并拳砸引擎盖",
+      "onboard_time": 1706592394,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224932,
@@ -683,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203611,
-      "num": 203611,
-      "word": "王俊凯张子枫电影",
-      "onboard_time": 1706591431,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203285,
       "num": 203285,
       "word": "糙汉文男主",
@@ -720,6 +752,14 @@
       "word": "河南连续5天下雪",
       "onboard_time": 1706579068,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196279,
+      "num": 196279,
+      "word": "北京网友火锅店偶遇外国神秘大佬",
+      "onboard_time": 1706591794,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -833,14 +873,6 @@
       "onboard_time": 1706584230,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170563,
-      "num": 205726,
-      "word": "杭州一黄金店使用鬼秤被罚22000元",
-      "onboard_time": 1706591252,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168029,
@@ -987,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144446,
+      "num": 144446,
+      "word": "五条悟终于帅回来了",
+      "onboard_time": 1706591133,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141595,
       "num": 141595,
       "word": "蔡依林演唱会深圳站预售",
@@ -1001,14 +1041,6 @@
       "onboard_time": 1706577810,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 141125,
-      "num": 141125,
-      "word": "五条悟终于帅回来了",
-      "onboard_time": 1706591133,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 141008,
@@ -1107,6 +1139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124797,
+      "num": 124797,
+      "word": "秘宝星盘上新",
+      "onboard_time": 1706592151,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123679,
       "num": 123679,
       "word": "婆婆用儿媳盖头给将出世宝宝做包被",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1706582127,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114150,
-      "num": 114150,
-      "word": "北京网友火锅店偶遇外国神秘大佬",
-      "onboard_time": 1706591794,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111388,
