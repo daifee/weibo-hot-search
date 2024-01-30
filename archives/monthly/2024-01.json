@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706621651266,
+  "endTime": 1706624150568,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1681,6 +1681,14 @@
       "onboard_time": 1706433089,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1819483,
+      "num": 1819483,
+      "word": "姨 刚下飞机就健身呢",
+      "onboard_time": 1706620412,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1818197,
@@ -10115,6 +10123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771427,
+      "num": 771427,
+      "word": "美甲过年费",
+      "onboard_time": 1706622088,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 771114,
       "num": 771114,
       "word": "好友称杨幂曾一年打12次吊瓶",
@@ -10321,14 +10337,6 @@
       "onboard_time": 1706533171,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762045,
-      "num": 762045,
-      "word": "姨 刚下飞机就健身呢",
-      "onboard_time": 1706620412,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 761273,
@@ -19579,6 +19587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 488473,
+      "num": 488473,
+      "word": "男子发表涉731受难者不当言论被拘留",
+      "onboard_time": 1706617829,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488209,
       "num": 478759,
       "word": "王晶评价繁花",
@@ -19913,6 +19929,14 @@
       "onboard_time": 1705722388,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479346,
+      "num": 479346,
+      "word": "杨幂珠光白旗袍",
+      "onboard_time": 1706620412,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 479085,
@@ -20784,14 +20808,6 @@
       "word": "尔滨送女生1000克拉冰钻戒",
       "onboard_time": 1704591751,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462278,
-      "num": 462278,
-      "word": "男子发表涉731受难者不当言论被拘留",
-      "onboard_time": 1706617829,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -24313,14 +24329,6 @@
       "onboard_time": 1706444011,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395654,
-      "num": 395654,
-      "word": "杨幂珠光白旗袍",
-      "onboard_time": 1706620412,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 395447,
@@ -28083,6 +28091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336254,
+      "num": 336254,
+      "word": "A股从保卫3000点到了渴望3000点",
+      "onboard_time": 1706621430,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 336100,
       "num": 336100,
       "word": "王楚钦孙颖莎3比0何钧杰李皓晴",
@@ -30227,6 +30243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308919,
+      "num": 236354,
+      "word": "赵露思草莓元气妆",
+      "onboard_time": 1706622989,
+      "rank": 20,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 308859,
       "num": 308859,
       "word": "任嘉伦彭小苒同框路透",
@@ -32001,6 +32025,14 @@
       "onboard_time": 1704204215,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288553,
+      "num": 288553,
+      "word": "你们五个人能不能一起拍部戏",
+      "onboard_time": 1706622573,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288542,
@@ -41707,6 +41739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215033,
+      "num": 215033,
+      "word": "东部战区海军进行全要素导弹对海攻击训练",
+      "onboard_time": 1706621609,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214994,
       "num": 214994,
       "word": "牙膏用没了先别着急扔",
@@ -47115,6 +47155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 195190,
+      "num": 195190,
+      "word": "leave失误",
+      "onboard_time": 1706621191,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195121,
       "num": 195121,
       "word": "继尔滨后南方小土豆盯上查干湖鱼",
@@ -48041,6 +48089,14 @@
       "onboard_time": 1705411411,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191823,
+      "num": 191823,
+      "word": "宁德时代预计2023年净利润425亿至455亿元",
+      "onboard_time": 1706621851,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 191822,
@@ -50033,6 +50089,14 @@
       "onboard_time": 1704545793,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185265,
+      "num": 185265,
+      "word": "许凯发不出yi声",
+      "onboard_time": 1706621131,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185231,
@@ -53219,14 +53283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173893,
-      "num": 173893,
-      "word": "leave失误",
-      "onboard_time": 1706621191,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 173864,
       "num": 173864,
       "word": "河南省考公告",
@@ -54137,14 +54193,6 @@
       "onboard_time": 1704346290,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171169,
-      "num": 171169,
-      "word": "许凯发不出yi声",
-      "onboard_time": 1706621131,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171152,
@@ -55955,6 +56003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165412,
+      "num": 165412,
+      "word": "谁家猫咪喝水这么端正",
+      "onboard_time": 1706623591,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165400,
       "num": 165400,
       "word": "SuperLady歌词",
@@ -57243,6 +57299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160633,
+      "num": 160633,
+      "word": "南京大屠杀幸存者程福保离世",
+      "onboard_time": 1706623834,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160588,
       "num": 160588,
       "word": "KPL",
@@ -57569,14 +57633,6 @@
       "onboard_time": 1704101798,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159340,
-      "num": 151862,
-      "word": "A股从保卫3000点到了渴望3000点",
-      "onboard_time": 1706621430,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 159336,
@@ -72051,6 +72107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116190,
+      "num": 116190,
+      "word": "EDG春季赛三连败",
+      "onboard_time": 1706621910,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116127,
       "num": 120536,
       "word": "成都新都区一厂房突发大火",
@@ -72249,6 +72313,14 @@
       "onboard_time": 1704525270,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 115439,
+      "num": 115439,
+      "word": "犯了错的萨摩耶",
+      "onboard_time": 1706623054,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 115406,
@@ -75603,6 +75675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100931,
+      "num": 100931,
+      "word": "杨紫范丞丞告别哭戏",
+      "onboard_time": 1706621732,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100852,
       "num": 100852,
       "word": "李九 无畏需要自己思考的空间",
@@ -77115,6 +77195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 91161,
+      "num": 1068785,
+      "word": "年货大集里的浓浓年味",
+      "onboard_time": 1706618732,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90965,
       "num": 90965,
       "word": "塔吉克斯坦首进亚洲杯8强",
@@ -78043,14 +78131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79785,
-      "num": 79785,
-      "word": "东部战区海军进行全要素导弹对海攻击训练",
-      "onboard_time": 1706621609,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 79768,
       "num": 123651,
       "word": "小砂糖橘在漠河边境唱国歌",
@@ -78921,14 +79001,6 @@
       "onboard_time": 1705706717,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66973,
-      "num": 796217,
-      "word": "年货大集里的浓浓年味",
-      "onboard_time": 1706618732,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66937,
@@ -79969,6 +80041,14 @@
       "onboard_time": 1705533982,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 53825,
+      "num": 192714,
+      "word": "何小鹏称智驾比人驾安全10倍",
+      "onboard_time": 1706621972,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 53819,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706624150568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2094163,
+        "num": 2094163,
+        "word": "暴雪预警",
+        "onboard_time": 1706616511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1819483,
+        "num": 1819483,
+        "word": "姨 刚下飞机就健身呢",
+        "onboard_time": 1706620412,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91161,
+        "num": 1068785,
+        "word": "年货大集里的浓浓年味",
+        "onboard_time": 1706618732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771427,
+        "num": 771427,
+        "word": "美甲过年费",
+        "onboard_time": 1706622088,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 613191,
+        "num": 613191,
+        "word": "宋威龙微博认证删除欢娱",
+        "onboard_time": 1706611110,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608857,
+        "num": 608857,
+        "word": "一部涉刑iPhone6S拍出22万天价",
+        "onboard_time": 1706617650,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488473,
+        "num": 488473,
+        "word": "男子发表涉731受难者不当言论被拘留",
+        "onboard_time": 1706617829,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479346,
+        "num": 479346,
+        "word": "杨幂珠光白旗袍",
+        "onboard_time": 1706620412,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443309,
+        "num": 443309,
+        "word": "田朴珺曝光住五星级酒店床单有血",
+        "onboard_time": 1706611110,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 390815,
+        "num": 390815,
+        "word": "宋威龙 解约",
+        "onboard_time": 1706613513,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514698,
+        "num": 390084,
+        "word": "长期穿一次性内裤会引发阴道炎吗",
+        "onboard_time": 1706601872,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 383306,
+        "num": 383306,
+        "word": "周杰伦昆凌看球没坐一起",
+        "onboard_time": 1706618070,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336254,
+        "num": 336254,
+        "word": "A股从保卫3000点到了渴望3000点",
+        "onboard_time": 1706621430,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328998,
+        "num": 328998,
+        "word": "10省将遭遇暴雪大暴雪",
+        "onboard_time": 1706616869,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312748,
+        "num": 312748,
+        "word": "郑裕玲打卡肖战上海大屏",
+        "onboard_time": 1706619690,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303345,
+        "num": 303345,
+        "word": "被奔驰加塞车主称已对车辆做完定损",
+        "onboard_time": 1706615732,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297800,
+        "num": 297800,
+        "word": "杨雪爆改",
+        "onboard_time": 1706612612,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 288553,
+        "num": 288553,
+        "word": "你们五个人能不能一起拍部戏",
+        "onboard_time": 1706622573,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281909,
+        "num": 281909,
+        "word": "62岁利智近照",
+        "onboard_time": 1706614351,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239299,
+        "num": 239299,
+        "word": "候鸟式买房的人后悔了",
+        "onboard_time": 1706609192,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308919,
+        "num": 236354,
+        "word": "赵露思草莓元气妆",
+        "onboard_time": 1706622989,
+        "rank": 20,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 231673,
+        "num": 231673,
+        "word": "张颂文报复性上网",
+        "onboard_time": 1706616270,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215033,
+        "num": 215033,
+        "word": "东部战区海军进行全要素导弹对海攻击训练",
+        "onboard_time": 1706621609,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207327,
+        "num": 207327,
+        "word": "好友称杨幂曾一年打12次吊瓶",
+        "onboard_time": 1706611050,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195190,
+        "num": 195190,
+        "word": "leave失误",
+        "onboard_time": 1706621191,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53825,
+        "num": 192714,
+        "word": "何小鹏称智驾比人驾安全10倍",
+        "onboard_time": 1706621972,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191823,
+        "num": 191823,
+        "word": "宁德时代预计2023年净利润425亿至455亿元",
+        "onboard_time": 1706621851,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185265,
+        "num": 185265,
+        "word": "许凯发不出yi声",
+        "onboard_time": 1706621131,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184777,
+        "num": 184777,
+        "word": "官方回应宋祖儿新剧过审",
+        "onboard_time": 1706597673,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182400,
+        "num": 182400,
+        "word": "研究发现心跳快慢与寿命长短相关",
+        "onboard_time": 1706612789,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177324,
+        "num": 177324,
+        "word": "祝绪丹 我已经很幸运啦",
+        "onboard_time": 1706604871,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176220,
+        "num": 176220,
+        "word": "一中国游客在日本滑雪场身亡",
+        "onboard_time": 1706607572,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165412,
+        "num": 165412,
+        "word": "谁家猫咪喝水这么端正",
+        "onboard_time": 1706623591,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161970,
+        "num": 161970,
+        "word": "LGD战胜EDG",
+        "onboard_time": 1706621012,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160633,
+        "num": 160633,
+        "word": "南京大屠杀幸存者程福保离世",
+        "onboard_time": 1706623834,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155207,
+        "num": 155207,
+        "word": "郑州降雪预报图全黑",
+        "onboard_time": 1706601512,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128731,
+        "num": 128731,
+        "word": "反复背痛后阿姨一家三口确诊肿瘤",
+        "onboard_time": 1706615792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127027,
+        "num": 127027,
+        "word": "美国加州餐厅偶遇周杰",
+        "onboard_time": 1706620951,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124413,
+        "num": 124413,
+        "word": "范丞丞哭到不能出戏",
+        "onboard_time": 1706617770,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119054,
+        "num": 119054,
+        "word": "男子想暴富刮掉2.6万彩票无力支付",
+        "onboard_time": 1706607211,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118321,
+        "num": 118321,
+        "word": "狗狗生气了怎么哄都不听",
+        "onboard_time": 1706620710,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116190,
+        "num": 116190,
+        "word": "EDG春季赛三连败",
+        "onboard_time": 1706621910,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115439,
+        "num": 115439,
+        "word": "犯了错的萨摩耶",
+        "onboard_time": 1706623054,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115196,
+        "num": 115196,
+        "word": "集五福",
+        "onboard_time": 1706616089,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107508,
+        "num": 107508,
+        "word": "王者荣耀龙年珍藏英雄",
+        "onboard_time": 1706604690,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104457,
+        "num": 104457,
+        "word": "短甲美甲",
+        "onboard_time": 1706605351,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 104051,
+        "num": 104051,
+        "word": "林俊杰杭州抢票",
+        "onboard_time": 1706614411,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101167,
+        "num": 101167,
+        "word": "尔滨1小时找到小金豆失散30年亲人",
+        "onboard_time": 1706602891,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 100931,
+        "num": 100931,
+        "word": "杨紫范丞丞告别哭戏",
+        "onboard_time": 1706621732,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94688,
+        "num": 94688,
+        "word": "舒淇素颜健身照",
+        "onboard_time": 1706618070,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
