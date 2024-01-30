@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706582043195,
+  "endTime": 1706584640010,
   "band_list": [
     {
       "raw_hot": 2060984,
@@ -25,6 +25,14 @@
       "onboard_time": 1706576968,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1349382,
+      "num": 1349382,
+      "word": "杨幂 2023确实对我好一些了",
+      "onboard_time": 1706582668,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1094164,
@@ -59,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 797969,
+      "num": 797969,
+      "word": "男演员从校草变吃货称更快乐了",
+      "onboard_time": 1706579608,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775576,
       "num": 243286,
       "word": "为什么微信红包上限只有200元",
@@ -67,11 +83,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 768157,
-      "num": 768157,
-      "word": "男演员从校草变吃货称更快乐了",
-      "onboard_time": 1706579608,
-      "rank": 11,
+      "raw_hot": 689923,
+      "num": 689923,
+      "word": "车银优传闻中的弟弟",
+      "onboard_time": 1706580269,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -115,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537896,
-      "num": 537896,
-      "word": "车银优传闻中的弟弟",
-      "onboard_time": 1706580269,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 535121,
       "num": 535121,
       "word": "48岁的蒋勤勤",
@@ -163,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491926,
+      "num": 491926,
+      "word": "为啥实体药店比网店贵不少",
+      "onboard_time": 1706578528,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 477054,
       "num": 477054,
       "word": "得州",
       "onboard_time": 1706575290,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 453594,
-      "num": 453594,
-      "word": "为啥实体药店比网店贵不少",
-      "onboard_time": 1706578528,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 447332,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312156,
+      "num": 312156,
+      "word": "向佐回应网友说长开了",
+      "onboard_time": 1706583988,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303052,
       "num": 303052,
       "word": "浙江父亲想用AI复活儿子",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 299636,
-      "num": 201194,
+      "num": 206156,
       "word": "6个肝脏求救的信号要知道",
       "onboard_time": 1706578470,
       "rank": 23,
@@ -352,6 +368,22 @@
       "word": "美国流浪猫每年杀死几十亿哺乳动物",
       "onboard_time": 1706533171,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266633,
+      "num": 266633,
+      "word": "迪丽热巴起诉内衣公司侵权",
+      "onboard_time": 1706584288,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266611,
+      "num": 266611,
+      "word": "12岁女孩买民法典专门对付妈妈",
+      "onboard_time": 1706582789,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207274,
+      "num": 207274,
+      "word": "偶遇徐明浩买泡面",
+      "onboard_time": 1706581947,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204586,
       "num": 204586,
       "word": "香港偶遇宋轶文咏珊逛街",
@@ -433,6 +473,30 @@
       "onboard_time": 1706529569,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200086,
+      "num": 200086,
+      "word": "A股",
+      "onboard_time": 1706584407,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 197769,
+      "num": 197769,
+      "word": "河南连续5天下雪",
+      "onboard_time": 1706579068,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196047,
+      "num": 196047,
+      "word": "2024江苏卫视春晚首波阵容",
+      "onboard_time": 1706583508,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 193465,
@@ -499,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168661,
-      "num": 168661,
-      "word": "河南连续5天下雪",
-      "onboard_time": 1706579068,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 171335,
+      "num": 171335,
+      "word": "繁花每一段回放都是一个MV",
+      "onboard_time": 1706584230,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 159612,
@@ -515,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158809,
+      "num": 158809,
+      "word": "快递员为了1000个孩子拒绝升职",
+      "onboard_time": 1706584167,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157026,
       "num": 157026,
       "word": "恋与制作人",
@@ -523,12 +595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155911,
-      "num": 155911,
-      "word": "偶遇徐明浩买泡面",
-      "onboard_time": 1706581947,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "暴雪新总裁任命官宣",
+      "onboard_time": 1706581466,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 153400,
@@ -547,12 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152171,
-      "num": 152171,
-      "word": "暴雪新总裁任命官宣",
-      "onboard_time": 1706581466,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 150637,
+      "num": 150637,
+      "word": "你会给孩子尝试成年人的东西吗",
+      "onboard_time": 1706583750,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 150051,
@@ -560,6 +632,14 @@
       "word": "豆豆收到康辉的新年礼物笑了",
       "onboard_time": 1706575889,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147028,
+      "num": 198387,
+      "word": "五福临门指哪五福",
+      "onboard_time": 1706583629,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -627,12 +707,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129771,
+      "num": 129771,
+      "word": "抱刚出生的小牛回家",
+      "onboard_time": 1706582369,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128902,
       "num": 128902,
       "word": "拉塞尔被罚款15000美元",
       "onboard_time": 1706579370,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128886,
+      "num": 128886,
+      "word": "原来钱还有这么多冷知识",
+      "onboard_time": 1706580391,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 126661,
@@ -691,6 +787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117421,
+      "num": 117421,
+      "word": "原神",
+      "onboard_time": 1706583089,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114935,
       "num": 114935,
       "word": "第一批回村的狗已经开始撵鸡了",
@@ -699,20 +803,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114877,
+      "num": 114877,
+      "word": "热辣滚烫热辣迎春版人物海报",
+      "onboard_time": 1706582127,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111388,
       "num": 111388,
       "word": "金莎cos18岁的蓝菲琳",
       "onboard_time": 1706530233,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111341,
-      "num": 111341,
-      "word": "原来钱还有这么多冷知识",
-      "onboard_time": 1706580391,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 109616,
@@ -745,6 +849,14 @@
       "onboard_time": 1706529090,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102152,
+      "num": 102152,
+      "word": "利雅得新月4比3迈阿密国际",
+      "onboard_time": 1706582906,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 97426,
