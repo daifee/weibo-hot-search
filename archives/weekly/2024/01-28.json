@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706599039380,
+  "endTime": 1706600114069,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1544175,
+      "num": 1544175,
+      "word": "官方回应宋祖儿新剧过审",
+      "onboard_time": 1706597673,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1534452,
       "num": 788903,
       "word": "订婚强奸案男子起诉女方要求结婚",
@@ -201,14 +209,6 @@
       "onboard_time": 1706485766,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1444889,
-      "num": 1444889,
-      "word": "官方回应宋祖儿新剧过审",
-      "onboard_time": 1706597673,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1403704,
@@ -1019,6 +1019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 618462,
+      "num": 618462,
+      "word": "夏克立称黄嘉千家暴伤势是自己抓的",
+      "onboard_time": 1706598210,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618380,
       "num": 618380,
       "word": "马斯克官宣首次脑机接口人体实验",
@@ -1755,14 +1763,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 421435,
-      "num": 421435,
-      "word": "夏克立称黄嘉千家暴伤势是自己抓的",
-      "onboard_time": 1706598210,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419077,
       "num": 922912,
       "word": "哈工大给尔滨建火锅冰屋",
@@ -2083,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365123,
+      "num": 365123,
+      "word": "迪丽热巴嗑到了一生辛胡",
+      "onboard_time": 1706598932,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365090,
       "num": 365090,
       "word": "多名中国留学生入境美国遭盘查遣返",
@@ -2145,6 +2153,14 @@
       "onboard_time": 1706437769,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355163,
+      "num": 355163,
+      "word": "非法足球 李铁",
+      "onboard_time": 1706597252,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 354674,
@@ -2307,7 +2323,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 320665,
+      "raw_hot": 322267,
       "num": 257068,
       "word": "汕头发现一具鲸鱼尸体",
       "onboard_time": 1706596952,
@@ -2435,6 +2451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308591,
+      "num": 308591,
+      "word": "创业板失守1600点",
+      "onboard_time": 1706599052,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 308474,
       "num": 308474,
       "word": "螃蟹酱留存了中国酱最初的模样",
@@ -2449,14 +2473,6 @@
       "onboard_time": 1706503055,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306772,
-      "num": 306772,
-      "word": "非法足球 李铁",
-      "onboard_time": 1706597252,
-      "rank": 16,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 306198,
@@ -3115,14 +3131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225522,
-      "num": 225522,
-      "word": "迪丽热巴嗑到了一生辛胡",
-      "onboard_time": 1706598932,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "马斯克重夺世界首富位置",
@@ -3491,6 +3499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205440,
+      "num": 205440,
+      "word": "敬业福已被抢注商标",
+      "onboard_time": 1706597189,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 204829,
       "num": 204829,
       "word": "网购三辆叉车收到一颗螺丝",
@@ -3689,14 +3705,6 @@
       "onboard_time": 1706579068,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197572,
-      "num": 197572,
-      "word": "敬业福已被抢注商标",
-      "onboard_time": 1706597189,
-      "rank": 32,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 197347,
@@ -4811,6 +4819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145236,
+      "num": 145236,
+      "word": "辛芷蕾想打秦岚误伤胡先煦",
+      "onboard_time": 1706599829,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145141,
       "num": 145141,
       "word": "影视飓风用iPhone拍贺岁短片",
@@ -5025,6 +5041,14 @@
       "onboard_time": 1706448511,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 138234,
+      "num": 138234,
+      "word": "杨幂ENFP变ENTJ",
+      "onboard_time": 1706599409,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138056,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1706492609,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 123904,
+      "num": 123904,
+      "word": "詹姆斯眼神",
+      "onboard_time": 1706598692,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123888,

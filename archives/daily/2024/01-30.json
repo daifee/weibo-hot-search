@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706599039380,
+  "endTime": 1706600114069,
   "band_list": [
     {
       "raw_hot": 2583114,
@@ -43,20 +43,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1544175,
+      "num": 1544175,
+      "word": "官方回应宋祖儿新剧过审",
+      "onboard_time": 1706597673,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1521644,
       "num": 1521644,
       "word": "拖着不洗头 堵塞毛囊",
       "onboard_time": 1706576968,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1444889,
-      "num": 1444889,
-      "word": "官方回应宋祖儿新剧过审",
-      "onboard_time": 1706597673,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1403704,
@@ -225,6 +225,14 @@
       "onboard_time": 1706530050,
       "rank": 10,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 618462,
+      "num": 618462,
+      "word": "夏克立称黄嘉千家暴伤势是自己抓的",
+      "onboard_time": 1706598210,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 618380,
@@ -411,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421435,
-      "num": 421435,
-      "word": "夏克立称黄嘉千家暴伤势是自己抓的",
-      "onboard_time": 1706598210,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 417779,
       "num": 417779,
       "word": "K宝冬奥会金牌被裁无效",
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365123,
+      "num": 365123,
+      "word": "迪丽热巴嗑到了一生辛胡",
+      "onboard_time": 1706598932,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361589,
       "num": 361589,
       "word": "保定交警回应奔驰车主插队并拳砸引擎盖",
@@ -545,6 +553,14 @@
       "onboard_time": 1706571805,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355163,
+      "num": 355163,
+      "word": "非法足球 李铁",
+      "onboard_time": 1706597252,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 354674,
@@ -579,7 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320665,
+      "raw_hot": 322267,
       "num": 257068,
       "word": "汕头发现一具鲸鱼尸体",
       "onboard_time": 1706596952,
@@ -595,12 +611,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 306772,
-      "num": 306772,
-      "word": "非法足球 李铁",
-      "onboard_time": 1706597252,
-      "rank": 16,
-      "category": "游戏,体育"
+      "raw_hot": 308591,
+      "num": 308591,
+      "word": "创业板失守1600点",
+      "onboard_time": 1706599052,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 303052,
@@ -771,14 +787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225522,
-      "num": 225522,
-      "word": "迪丽热巴嗑到了一生辛胡",
-      "onboard_time": 1706598932,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "马斯克重夺世界首富位置",
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205440,
+      "num": 205440,
+      "word": "敬业福已被抢注商标",
+      "onboard_time": 1706597189,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 204586,
       "num": 204586,
       "word": "香港偶遇宋轶文咏珊逛街",
@@ -889,14 +905,6 @@
       "onboard_time": 1706579068,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197572,
-      "num": 197572,
-      "word": "敬业福已被抢注商标",
-      "onboard_time": 1706597189,
-      "rank": 32,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 196047,
@@ -1179,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145236,
+      "num": 145236,
+      "word": "辛芷蕾想打秦岚误伤胡先煦",
+      "onboard_time": 1706599829,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145125,
       "num": 145125,
       "word": "苹果头显在美预售额已超50亿",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1706542890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138234,
+      "num": 138234,
+      "word": "杨幂ENFP变ENTJ",
+      "onboard_time": 1706599409,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138056,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1706592151,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123904,
+      "num": 123904,
+      "word": "詹姆斯眼神",
+      "onboard_time": 1706598692,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123679,
