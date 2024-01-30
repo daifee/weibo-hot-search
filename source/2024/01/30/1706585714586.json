@@ -1,0 +1,410 @@
+{
+  "runTime": 1706585714586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403704,
+        "num": 1403704,
+        "word": "杨幂 2023确实对我好一些了",
+        "onboard_time": 1706582668,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1400895,
+        "num": 1400895,
+        "word": "敬业福",
+        "onboard_time": 1706570361,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34524,
+        "num": 1298904,
+        "word": "当千里江山图遇见清新福建",
+        "onboard_time": 1706574691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204906,
+        "num": 1204906,
+        "word": "玖月晞胜诉",
+        "onboard_time": 1706584647,
+        "rank": 3,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 935410,
+        "num": 935410,
+        "word": "拖着不洗头 堵塞毛囊",
+        "onboard_time": 1706576968,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 926925,
+        "num": 926925,
+        "word": "我国将遭遇2008年以来最复杂春运天气",
+        "onboard_time": 1706569701,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836076,
+        "num": 836076,
+        "word": "迪丽热巴起诉内衣公司侵权",
+        "onboard_time": 1706584288,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 784708,
+        "num": 784708,
+        "word": "杨幂回应三亿对赌传闻",
+        "onboard_time": 1706584827,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 650413,
+        "num": 650413,
+        "word": "男演员从校草变吃货称更快乐了",
+        "onboard_time": 1706579608,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517435,
+        "num": 646806,
+        "word": "A股",
+        "onboard_time": 1706584407,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 645231,
+        "num": 645231,
+        "word": "车厘子吃多了是种什么体验",
+        "onboard_time": 1706576012,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 595512,
+        "num": 595512,
+        "word": "车银优传闻中的弟弟",
+        "onboard_time": 1706580269,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519593,
+        "num": 519593,
+        "word": "向佐回应网友说长开了",
+        "onboard_time": 1706583988,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443975,
+        "num": 443975,
+        "word": "为什么微信红包上限只有200元",
+        "onboard_time": 1706574027,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413278,
+        "num": 413278,
+        "word": "12岁女孩买民法典专门对付妈妈",
+        "onboard_time": 1706582789,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344796,
+        "num": 344796,
+        "word": "为啥实体药店比网店贵不少",
+        "onboard_time": 1706578528,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327600,
+        "num": 327600,
+        "word": "快递员为了1000个孩子拒绝升职",
+        "onboard_time": 1706584167,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317095,
+        "num": 317095,
+        "word": "祝绪丹 镜花缘",
+        "onboard_time": 1706574570,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273840,
+        "num": 273840,
+        "word": "女子被未戴嘴笼狗吓到与主人扭打",
+        "onboard_time": 1706574088,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271445,
+        "num": 271445,
+        "word": "杨紫刘宇宁 风月不相关",
+        "onboard_time": 1706575889,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228287,
+        "num": 228287,
+        "word": "得州副州长称将继续在美墨边境修建屏障",
+        "onboard_time": 1706580391,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207536,
+        "num": 207536,
+        "word": "高铁站好多情侣在分别",
+        "onboard_time": 1706584827,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206357,
+        "num": 206357,
+        "word": "gidle新歌MV撞车多位欧美歌手",
+        "onboard_time": 1706571805,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184067,
+        "num": 184067,
+        "word": "杨幂今年三台春晚",
+        "onboard_time": 1706580568,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178686,
+        "num": 178686,
+        "word": "00后女大学生保研后开珠宝店月入过万",
+        "onboard_time": 1706540854,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171548,
+        "num": 171548,
+        "word": "金高银李到晛 破墓",
+        "onboard_time": 1706576851,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "白敬亭 从菜场到秀场",
+        "onboard_time": 1706578347,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162026,
+        "num": 162026,
+        "word": "偶遇徐明浩买泡面",
+        "onboard_time": 1706581947,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161038,
+        "num": 161038,
+        "word": "6个肝脏求救的信号要知道",
+        "onboard_time": 1706578470,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153196,
+        "num": 153196,
+        "word": "玫瑰草莓冰糖葫芦",
+        "onboard_time": 1706585071,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145362,
+        "num": 145362,
+        "word": "河南连续5天下雪",
+        "onboard_time": 1706579068,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142276,
+        "num": 142276,
+        "word": "北京嘉行经营异常",
+        "onboard_time": 1706585487,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140746,
+        "num": 140746,
+        "word": "你会给孩子尝试成年人的东西吗",
+        "onboard_time": 1706583750,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 131258,
+        "num": 131258,
+        "word": "虞书欣起诉黑粉侵权",
+        "onboard_time": 1706585008,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129417,
+        "num": 129417,
+        "word": "原来钱还有这么多冷知识",
+        "onboard_time": 1706580391,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117438,
+        "num": 117438,
+        "word": "五福临门指哪五福",
+        "onboard_time": 1706583629,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 115874,
+        "word": "繁花每一段回放都是一个MV",
+        "onboard_time": 1706584230,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113852,
+        "num": 113852,
+        "word": "48岁的蒋勤勤",
+        "onboard_time": 1706571924,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109762,
+        "num": 109762,
+        "word": "暴雪新总裁任命官宣",
+        "onboard_time": 1706581466,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102868,
+        "num": 102868,
+        "word": "原神",
+        "onboard_time": 1706583089,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100428,
+        "num": 100428,
+        "word": "郭晶晶罕见华服亮相维港",
+        "onboard_time": 1706578528,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97542,
+        "num": 97542,
+        "word": "抱刚出生的小牛回家",
+        "onboard_time": 1706582369,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96743,
+        "num": 96743,
+        "word": "扫福",
+        "onboard_time": 1706574991,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95824,
+        "num": 95824,
+        "word": "春运最冷清的是长途汽车站",
+        "onboard_time": 1706575591,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94040,
+        "num": 94040,
+        "word": "为什么睡得越多反而越累",
+        "onboard_time": 1706538573,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91657,
+        "num": 91657,
+        "word": "女子遭男友骗光6套房还被小三",
+        "onboard_time": 1706539532,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90968,
+        "num": 90968,
+        "word": "宋祖儿",
+        "onboard_time": 1706530772,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90632,
+        "num": 90632,
+        "word": "糙汉文男主",
+        "onboard_time": 1706577570,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89405,
+        "num": 89405,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1706539831,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85417,
+        "num": 85417,
+        "word": "湖人vs火箭",
+        "onboard_time": 1706583208,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记嘱托加油干#"
+    }
+  }
+}

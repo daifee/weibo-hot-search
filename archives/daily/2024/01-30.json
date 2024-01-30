@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706584640010,
+  "endTime": 1706585714586,
   "band_list": [
     {
       "raw_hot": 2060984,
@@ -27,12 +27,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1349382,
-      "num": 1349382,
+      "raw_hot": 1403704,
+      "num": 1403704,
       "word": "杨幂 2023确实对我好一些了",
       "onboard_time": 1706582668,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1204906,
+      "num": 1204906,
+      "word": "玖月晞胜诉",
+      "onboard_time": 1706584647,
+      "rank": 3,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 1094164,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836076,
+      "num": 836076,
+      "word": "迪丽热巴起诉内衣公司侵权",
+      "onboard_time": 1706584288,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 832149,
       "num": 832149,
       "word": "卡米拉禁赛四年",
@@ -75,8 +91,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784708,
+      "num": 784708,
+      "word": "杨幂回应三亿对赌传闻",
+      "onboard_time": 1706584827,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 775576,
-      "num": 243286,
+      "num": 443975,
       "word": "为什么微信红包上限只有200元",
       "onboard_time": 1706574027,
       "rank": 20,
@@ -155,6 +179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519593,
+      "num": 519593,
+      "word": "向佐回应网友说长开了",
+      "onboard_time": 1706583988,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 517435,
+      "num": 646806,
+      "word": "A股",
+      "onboard_time": 1706584407,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 503547,
       "num": 503547,
       "word": "杨紫刘宇宁 风月不相关",
@@ -225,6 +265,14 @@
       "onboard_time": 1706542052,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413278,
+      "num": 413278,
+      "word": "12岁女孩买民法典专门对付妈妈",
+      "onboard_time": 1706582789,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401648,
@@ -307,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312156,
-      "num": 312156,
-      "word": "向佐回应网友说长开了",
-      "onboard_time": 1706583988,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 327600,
+      "num": 327600,
+      "word": "快递员为了1000个孩子拒绝升职",
+      "onboard_time": 1706584167,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303052,
@@ -368,22 +416,6 @@
       "word": "美国流浪猫每年杀死几十亿哺乳动物",
       "onboard_time": 1706533171,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266633,
-      "num": 266633,
-      "word": "迪丽热巴起诉内衣公司侵权",
-      "onboard_time": 1706584288,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 266611,
-      "num": 266611,
-      "word": "12岁女孩买民法典专门对付妈妈",
-      "onboard_time": 1706582789,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -443,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207536,
+      "num": 207536,
+      "word": "高铁站好多情侣在分别",
+      "onboard_time": 1706584827,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207274,
       "num": 207274,
       "word": "偶遇徐明浩买泡面",
@@ -473,14 +513,6 @@
       "onboard_time": 1706529569,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200086,
-      "num": 200086,
-      "word": "A股",
-      "onboard_time": 1706584407,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 197769,
@@ -579,14 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158809,
-      "num": 158809,
-      "word": "快递员为了1000个孩子拒绝升职",
-      "onboard_time": 1706584167,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157026,
       "num": 157026,
       "word": "恋与制作人",
@@ -609,6 +633,14 @@
       "onboard_time": 1706571325,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153196,
+      "num": 153196,
+      "word": "玫瑰草莓冰糖葫芦",
+      "onboard_time": 1706585071,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 153171,
@@ -675,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142276,
+      "num": 142276,
+      "word": "北京嘉行经营异常",
+      "onboard_time": 1706585487,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141422,
       "num": 141422,
       "word": "咳嗽持续多少天会变白肺",
@@ -707,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131258,
+      "num": 131258,
+      "word": "虞书欣起诉黑粉侵权",
+      "onboard_time": 1706585008,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129771,
       "num": 129771,
       "word": "抱刚出生的小牛回家",
@@ -715,20 +763,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129417,
+      "num": 129417,
+      "word": "原来钱还有这么多冷知识",
+      "onboard_time": 1706580391,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 128902,
       "num": 128902,
       "word": "拉塞尔被罚款15000美元",
       "onboard_time": 1706579370,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128886,
-      "num": 128886,
-      "word": "原来钱还有这么多冷知识",
-      "onboard_time": 1706580391,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 126661,
@@ -905,6 +953,14 @@
       "onboard_time": 1706540734,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85417,
+      "num": 85417,
+      "word": "湖人vs火箭",
+      "onboard_time": 1706583208,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84116,
@@ -1105,6 +1161,9 @@
     },
     {
       "word": "#构建优势互补高质量发展的区域经济布局#"
+    },
+    {
+      "word": "#牢记嘱托加油干#"
     }
   ]
 }
