@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706654043913,
+  "endTime": 1706656734714,
   "band_list": [
     {
       "raw_hot": 2755846,
@@ -2339,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 387717,
+      "num": 387717,
+      "word": "研究发现心跳快慢与寿命长短相关",
+      "onboard_time": 1706612789,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 387227,
       "num": 387227,
       "word": "幻兽帕鲁 抄袭",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1706521831,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368784,
-      "num": 261066,
-      "word": "研究发现心跳快慢与寿命长短相关",
-      "onboard_time": 1706612789,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 368357,
@@ -6011,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139763,
+      "num": 139763,
+      "word": "缅北",
+      "onboard_time": 1706656401,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139391,
       "num": 139391,
       "word": "华为龙年手机壳上架官网",
@@ -7635,6 +7643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 104552,
+      "num": 75039,
+      "word": "坚持每天走一万步后",
+      "onboard_time": 1706652314,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104457,
       "num": 104457,
       "word": "WBG战胜TT",
@@ -7681,6 +7697,14 @@
       "onboard_time": 1706608828,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102874,
+      "num": 102874,
+      "word": "小猫误入派出所骗吃骗喝一个月",
+      "onboard_time": 1706636240,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102442,
@@ -7816,6 +7840,14 @@
       "word": "上班后第一份工资",
       "onboard_time": 1706400024,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100528,
+      "num": 100528,
+      "word": "一条plog告别一月",
+      "onboard_time": 1706656281,
+      "rank": 16,
       "category": "情感"
     },
     {
@@ -8315,6 +8347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79790,
+      "num": 75027,
+      "word": "3个不良习惯容易得食管癌",
+      "onboard_time": 1706650937,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 79584,
       "num": 79584,
       "word": "师范专业报考热还会持续吗",
@@ -8353,6 +8393,14 @@
       "onboard_time": 1706531914,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75080,
+      "num": 75080,
+      "word": "周一围用手接朱丹吐的樱桃核",
+      "onboard_time": 1706656581,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 74334,
@@ -8419,6 +8467,14 @@
       "category": "科学科普,作品衍生"
     },
     {
+      "raw_hot": 66136,
+      "num": 66136,
+      "word": "我爸从来不惯着亲戚",
+      "onboard_time": 1706656281,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64614,
       "num": 55207,
       "word": "再哼哼唧唧的把电池给你扣了",
@@ -8443,11 +8499,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61078,
-      "num": 61078,
-      "word": "小猫误入派出所骗吃骗喝一个月",
-      "onboard_time": 1706636240,
-      "rank": 23,
+      "raw_hot": 59082,
+      "num": 53196,
+      "word": "国家一级钢琴驾驶员",
+      "onboard_time": 1706656281,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 57802,
+      "num": 57802,
+      "word": "87岁老人在美三次遇袭决定搬回中国",
+      "onboard_time": 1706656281,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -8489,6 +8553,14 @@
       "onboard_time": 1706621972,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 52271,
+      "num": 52271,
+      "word": "姐弟来医院探望刚出生的妹妹",
+      "onboard_time": 1706647395,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 52242,
@@ -8547,6 +8619,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 50522,
+      "num": 50522,
+      "word": "你会买2万多的苹果头显吗",
+      "onboard_time": 1706656281,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50177,
       "num": 50177,
       "word": "8种负面情绪加速衰老",
@@ -8603,14 +8683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39633,
-      "num": 34262,
-      "word": "3个不良习惯容易得食管癌",
-      "onboard_time": 1706650937,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 39604,
       "num": 42658,
       "word": "怎么选珍珠",
@@ -8625,14 +8697,6 @@
       "onboard_time": 1706461103,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38525,
-      "num": 23631,
-      "word": "姐弟来医院探望刚出生的妹妹",
-      "onboard_time": 1706647395,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 38440,
@@ -8657,14 +8721,6 @@
       "onboard_time": 1706549361,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36276,
-      "num": 34087,
-      "word": "坚持每天走一万步后",
-      "onboard_time": 1706652314,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 36143,
