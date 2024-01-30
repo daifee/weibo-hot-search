@@ -1,6 +1,6 @@
 {
   "startTime": 1706545225877,
-  "endTime": 1706609958365,
+  "endTime": 1706610895539,
   "band_list": [
     {
       "raw_hot": 2583114,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879231,
+      "num": 1249177,
+      "word": "尔滨1小时找到小金豆失散30年亲人",
+      "onboard_time": 1706602891,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 854925,
       "num": 854925,
       "word": "科目三创始人的完整版",
@@ -224,6 +232,14 @@
       "word": "女子拒绝行房被打捣压丈夫颈部致死",
       "onboard_time": 1706590594,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806298,
+      "num": 806298,
+      "word": "一中国游客在日本滑雪场身亡",
+      "onboard_time": 1706607572,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -281,14 +297,6 @@
       "onboard_time": 1706601512,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703274,
-      "num": 1249177,
-      "word": "尔滨1小时找到小金豆失散30年亲人",
-      "onboard_time": 1706602891,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 700332,
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 519500,
-      "num": 519500,
-      "word": "一中国游客在日本滑雪场身亡",
-      "onboard_time": 1706607572,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 517435,
       "num": 646806,
       "word": "A股",
@@ -529,6 +529,14 @@
       "onboard_time": 1706594311,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481530,
+      "num": 481530,
+      "word": "男子想暴富刮掉2.6万彩票无力支付",
+      "onboard_time": 1706607211,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477054,
@@ -707,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364411,
-      "num": 364411,
-      "word": "男子想暴富刮掉2.6万彩票无力支付",
-      "onboard_time": 1706607211,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361589,
       "num": 361589,
       "word": "保定交警回应奔驰车主插队并拳砸引擎盖",
@@ -811,6 +811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 318999,
+      "num": 318999,
+      "word": "李连杰与妻女现身寺庙",
+      "onboard_time": 1706609491,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309556,
       "num": 309556,
       "word": "全智贤旧照",
@@ -849,6 +857,14 @@
       "onboard_time": 1706534432,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302370,
+      "num": 302370,
+      "word": "杨幂拍哈尔滨1944没带剧本到现场",
+      "onboard_time": 1706609070,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299636,
@@ -899,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277958,
+      "num": 277958,
+      "word": "候鸟式买房的人后悔了",
+      "onboard_time": 1706609192,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275781,
       "num": 236695,
       "word": "春运最冷清的是长途汽车站",
@@ -907,20 +931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274225,
-      "num": 274225,
-      "word": "杨幂拍哈尔滨1944没带剧本到现场",
-      "onboard_time": 1706609070,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 268435,
       "num": 268435,
       "word": "美国流浪猫每年杀死几十亿哺乳动物",
       "onboard_time": 1706533171,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262619,
+      "num": 262619,
+      "word": "j人和P人行李箱区别",
+      "onboard_time": 1706608352,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 262539,
@@ -952,14 +976,6 @@
       "word": "小时候以为在写字楼办公很高级",
       "onboard_time": 1706594248,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 253575,
-      "num": 253575,
-      "word": "j人和P人行李箱区别",
-      "onboard_time": 1706608352,
-      "rank": 26,
       "category": "幽默"
     },
     {
@@ -1067,6 +1083,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 220473,
+      "num": 230938,
+      "word": "美应立即停止对中国企业和商务人员滋扰",
+      "onboard_time": 1706609309,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 219789,
       "num": 219789,
       "word": "繁花出品方称已联系赵传",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1706595511,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208295,
-      "num": 208295,
-      "word": "李连杰与妻女现身寺庙",
-      "onboard_time": 1706609491,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 208051,
@@ -1227,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199533,
+      "num": 199533,
+      "word": "还有5分钟退休交警手不停颤抖",
+      "onboard_time": 1706608411,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198905,
       "num": 198905,
       "word": "小默回应史航",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1706579068,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196331,
+      "num": 196331,
+      "word": "金道勋韩振合照",
+      "onboard_time": 1706610333,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196047,
@@ -1283,20 +1315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189539,
+      "num": 189539,
+      "word": "姬小满新皮肤珍宝阁兑换",
+      "onboard_time": 1706610090,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189395,
       "num": 189395,
       "word": "巴勒斯坦球员围堵马宁",
       "onboard_time": 1706595754,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189350,
-      "num": 189350,
-      "word": "候鸟式买房的人后悔了",
-      "onboard_time": 1706609192,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188560,
@@ -1331,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182143,
-      "num": 182143,
-      "word": "还有5分钟退休交警手不停颤抖",
-      "onboard_time": 1706608411,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181954,
       "num": 181954,
       "word": "秦岚辛芷蕾内娱张爱玲文学",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1706575591,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176217,
-      "num": 214215,
-      "word": "美应立即停止对中国企业和商务人员滋扰",
-      "onboard_time": 1706609309,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175629,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1706598570,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158566,
+      "num": 158566,
+      "word": "幻兽帕鲁现身AppStore",
+      "onboard_time": 1706609792,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 157434,
@@ -1763,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129477,
+      "num": 129477,
+      "word": "这花甲也太不正经了",
+      "onboard_time": 1706610690,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129417,
       "num": 129417,
       "word": "原来钱还有这么多冷知识",
@@ -1849,14 +1881,6 @@
       "onboard_time": 1706603009,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124226,
-      "num": 124226,
-      "word": "幻兽帕鲁现身AppStore",
-      "onboard_time": 1706609792,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 123904,
@@ -2019,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109952,
+      "num": 830029,
+      "word": "民警送机智人类幼崽回家全程对话爆笑",
+      "onboard_time": 1706608229,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109939,
       "num": 109939,
       "word": "法院判决玖月晞与读者互相道歉",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1706540494,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103005,
+      "num": 510615,
+      "word": "杨迪评论区戏精",
+      "onboard_time": 1706608828,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102342,
@@ -2163,14 +2203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79586,
-      "num": 640383,
-      "word": "民警送机智人类幼崽回家全程对话爆笑",
-      "onboard_time": 1706608229,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78921,
       "num": 78921,
       "word": "让发量暴增的7个小技巧",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1706526870,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56477,
-      "num": 510615,
-      "word": "杨迪评论区戏精",
-      "onboard_time": 1706608828,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 51291,
