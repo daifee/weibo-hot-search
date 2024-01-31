@@ -1,0 +1,410 @@
+{
+  "runTime": 1706718891163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254072,
+        "num": 1254072,
+        "word": "尿毒症是吃出来的",
+        "onboard_time": 1706712333,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 730807,
+        "num": 730807,
+        "word": "没有血缘关系也能长得像",
+        "onboard_time": 1706713774,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55078,
+        "num": 656213,
+        "word": "春运安全出行天气地图",
+        "onboard_time": 1706709632,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599107,
+        "num": 599107,
+        "word": "谢娜求婚好抓马",
+        "onboard_time": 1706714792,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569341,
+        "num": 569341,
+        "word": "王安宇好多白头发",
+        "onboard_time": 1706708912,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483680,
+        "num": 483680,
+        "word": "中国排名第五的大学",
+        "onboard_time": 1706709333,
+        "rank": 5,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 449829,
+        "num": 449829,
+        "word": "在人间 辛芷蕾",
+        "onboard_time": 1706713294,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378507,
+        "num": 378507,
+        "word": "张波叶诚尘一审互咬二审互助",
+        "onboard_time": 1706711072,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352514,
+        "num": 352514,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259187,
+        "num": 350467,
+        "word": "男子开飞机带女儿回家过年",
+        "onboard_time": 1706713354,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359999,
+        "num": 349929,
+        "word": "男子爬乐山大佛头顶小便",
+        "onboard_time": 1706710537,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348777,
+        "num": 348777,
+        "word": "李一桐白鹿撞造型",
+        "onboard_time": 1706710354,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318806,
+        "num": 318806,
+        "word": "迪丽热巴红衣旧照",
+        "onboard_time": 1706712570,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311134,
+        "num": 311134,
+        "word": "胡先煦 我人都嗑傻了",
+        "onboard_time": 1706711614,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258132,
+        "num": 258132,
+        "word": "车厘子只看几个J谁买谁是大冤种",
+        "onboard_time": 1706709694,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247431,
+        "num": 247431,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208323,
+        "num": 208323,
+        "word": "周传雄 生病的经历改变了我的心态",
+        "onboard_time": 1706712514,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204039,
+        "num": 204039,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200050,
+        "num": 200050,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158796,
+        "num": 158796,
+        "word": "网红帮女生找到失散22年妈妈",
+        "onboard_time": 1706716950,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 283789,
+        "num": 158327,
+        "word": "要结婚了才发现自己是小学学历",
+        "onboard_time": 1706710235,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234525,
+        "num": 157152,
+        "word": "二月狗屎运最旺的星座",
+        "onboard_time": 1706712993,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196550,
+        "num": 156726,
+        "word": "小杨哥额头受伤",
+        "onboard_time": 1706715870,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177047,
+        "num": 155428,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166186,
+        "num": 154575,
+        "word": "突然期待情人节了",
+        "onboard_time": 1706715151,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153977,
+        "num": 153977,
+        "word": "田馥甄否认遭暗捅",
+        "onboard_time": 1706714072,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149787,
+        "num": 149787,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133583,
+        "num": 133583,
+        "word": "米哈游等遭工信部点名",
+        "onboard_time": 1706703151,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126505,
+        "num": 126505,
+        "word": "张译 这多少有点冒昧了",
+        "onboard_time": 1706715513,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106890,
+        "num": 122818,
+        "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+        "onboard_time": 1706704112,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 120533,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119651,
+        "num": 119651,
+        "word": "虞书欣叫自己鲸鱼辣妹",
+        "onboard_time": 1706713831,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117925,
+        "num": 117925,
+        "word": "Jessi与朴宰范公司解约",
+        "onboard_time": 1706708975,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117437,
+        "num": 117437,
+        "word": "肖战张婧仪藏海传路透",
+        "onboard_time": 1706712333,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115913,
+        "num": 115913,
+        "word": "王新军喊王安宇来家里吃饭",
+        "onboard_time": 1706695353,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115457,
+        "num": 115457,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102362,
+        "num": 102362,
+        "word": "2月十二星座注意事项",
+        "onboard_time": 1706712394,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99851,
+        "num": 99851,
+        "word": "演唱会玩手机的爱豆",
+        "onboard_time": 1706703993,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94243,
+        "num": 94243,
+        "word": "鹿emoji",
+        "onboard_time": 1706696730,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90449,
+        "num": 90449,
+        "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+        "onboard_time": 1706703272,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93693,
+        "num": 90071,
+        "word": "刘诗诗直播妆造",
+        "onboard_time": 1706706514,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 85149,
+        "num": 85149,
+        "word": "EDG官宣Thesnake上调",
+        "onboard_time": 1706712694,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83932,
+        "num": 83932,
+        "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+        "onboard_time": 1706706993,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83487,
+        "num": 83487,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79762,
+        "num": 79762,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74204,
+        "num": 74204,
+        "word": "想你了融",
+        "onboard_time": 1706711614,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68805,
+        "num": 68805,
+        "word": "狗剩快跑 安宇快跑",
+        "onboard_time": 1706696974,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68255,
+        "num": 68255,
+        "word": "邓为向涵之吻戏路透",
+        "onboard_time": 1706705371,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61622,
+        "num": 61622,
+        "word": "EDG人员变动公告",
+        "onboard_time": 1706710470,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60902,
+        "num": 60902,
+        "word": "人民网评吴谢宇案",
+        "onboard_time": 1706714732,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#42位驻华大使递交国书#"
+    }
+  }
+}
