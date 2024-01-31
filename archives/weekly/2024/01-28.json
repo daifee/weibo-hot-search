@@ -1,7 +1,15 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706657714407,
+  "endTime": 1706663509485,
   "band_list": [
+    {
+      "raw_hot": 3485180,
+      "num": 3485180,
+      "word": "缅北电诈四大家族覆灭",
+      "onboard_time": 1706661628,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2755846,
       "num": 2755846,
@@ -249,6 +257,14 @@
       "onboard_time": 1706604871,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1443702,
+      "num": 1443702,
+      "word": "韩安冉发火",
+      "onboard_time": 1706658384,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 1403704,
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805410,
+      "num": 805410,
+      "word": "遭奔驰加塞砸车女子称对方还未道歉",
+      "onboard_time": 1706658085,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802809,
       "num": 592849,
       "word": "杨威一家为双胞胎女儿庆生",
@@ -977,6 +1001,14 @@
       "onboard_time": 1706421630,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 734862,
+      "num": 437427,
+      "word": "萨沙结婚",
+      "onboard_time": 1706662589,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 731618,
@@ -1523,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 557499,
+      "num": 557499,
+      "word": "周一围用手接朱丹吐的樱桃核",
+      "onboard_time": 1706656581,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556221,
       "num": 556221,
       "word": "于正发卢昱晓原始帧",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1706452591,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508633,
+      "num": 508633,
+      "word": "今冬最强雨雪要来了",
+      "onboard_time": 1706660249,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505541,
@@ -2035,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441767,
+      "num": 441767,
+      "word": "87岁老人在美三次遇袭决定搬回中国",
+      "onboard_time": 1706656281,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440929,
       "num": 440929,
       "word": "A股创业板指跌超3%",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1706594969,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423895,
+      "num": 423895,
+      "word": "为什么上班只是坐着还感觉这么累",
+      "onboard_time": 1706659710,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 422328,
@@ -2411,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383255,
+      "num": 383255,
+      "word": "小猫误入派出所骗吃骗喝一个月",
+      "onboard_time": 1706636240,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382103,
       "num": 382103,
       "word": "LGD战胜EDG",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1706584827,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380119,
+      "num": 380119,
+      "word": "童瑶早就预判了雷东宝的结局",
+      "onboard_time": 1706627013,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 379563,
@@ -2843,6 +2923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 324342,
+      "num": 324342,
+      "word": "江西抚州高彩礼会被写上黑榜",
+      "onboard_time": 1706661029,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "特朗普演讲 911",
@@ -3035,6 +3123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306067,
+      "num": 282459,
+      "word": "女儿考第1爸爸走出6亲不认的步伐",
+      "onboard_time": 1706657364,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305400,
       "num": 305400,
       "word": "蓝二你偷偷藏不住了",
@@ -3073,6 +3169,14 @@
       "onboard_time": 1706424808,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 301460,
+      "num": 301460,
+      "word": "曹璐报名乘风2024",
+      "onboard_time": 1706660368,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 301025,
@@ -3235,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284782,
+      "num": 284782,
+      "word": "关茈文刘芬",
+      "onboard_time": 1706661211,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 284613,
       "num": 284613,
       "word": "陈漫拍的李冰冰",
@@ -3267,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279669,
+      "num": 279669,
+      "word": "古偶致命四连击",
+      "onboard_time": 1706657785,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279414,
       "num": 279414,
       "word": "妈妈把5岁女儿画的漂亮裙子做出来了",
@@ -3281,6 +3401,14 @@
       "onboard_time": 1706494946,
       "rank": 16,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 277929,
+      "num": 277929,
+      "word": "我妈居然敢把我和年货放一个屋里",
+      "onboard_time": 1706662051,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 276474,
@@ -3483,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251909,
+      "num": 251909,
+      "word": "马斯克550亿美元薪酬奖励方案被判无效",
+      "onboard_time": 1706659046,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 251741,
       "num": 251741,
       "word": "新加坡偶遇王鹤棣逛街",
@@ -3553,14 +3689,6 @@
       "onboard_time": 1706509349,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244810,
-      "num": 233845,
-      "word": "周一围用手接朱丹吐的樱桃核",
-      "onboard_time": 1706656581,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 242930,
@@ -3827,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223709,
+      "num": 223709,
+      "word": "河北省人民医院回应现丁义珍式窗口",
+      "onboard_time": 1706661269,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223066,
       "num": 223066,
       "word": "这6类食物必须焯水",
@@ -4035,6 +4171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212962,
+      "num": 212962,
+      "word": "和我老公结婚吧",
+      "onboard_time": 1706658384,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212547,
       "num": 212547,
       "word": "优酷赠送荷兰大唐狄公案播出权",
@@ -4137,6 +4281,14 @@
       "onboard_time": 1706505454,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208919,
+      "num": 208919,
+      "word": "缅北白所成刘正祥打脸语录",
+      "onboard_time": 1706662051,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208650,
@@ -4451,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199073,
+      "num": 199073,
+      "word": "宋佳周迅我有点嗑你俩了",
+      "onboard_time": 1706662831,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198905,
       "num": 198905,
       "word": "小默回应史航",
@@ -4489,14 +4649,6 @@
       "onboard_time": 1706445749,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197171,
-      "num": 197171,
-      "word": "童瑶早就预判了雷东宝的结局",
-      "onboard_time": 1706627013,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 196772,
@@ -4675,6 +4827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190447,
+      "num": 190447,
+      "word": "杨幂回应被称人间清醒",
+      "onboard_time": 1706660789,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189729,
       "num": 189729,
       "word": "许凯虞书欣八个机位的吻",
@@ -4851,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182172,
+      "num": 182172,
+      "word": "年轻人为什么恐惧接电话",
+      "onboard_time": 1706659887,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181954,
       "num": 181954,
       "word": "秦岚辛芷蕾内娱张爱玲文学",
@@ -4873,6 +5041,14 @@
       "onboard_time": 1706435849,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181290,
+      "num": 181290,
+      "word": "江苏降雪量预报图黑了一块",
+      "onboard_time": 1706657484,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180987,
@@ -5099,6 +5275,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167667,
+      "num": 167667,
+      "word": "柳智敏自曝有舞台恐惧症",
+      "onboard_time": 1706662649,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167638,
+      "num": 167638,
+      "word": "宋佳太A了",
+      "onboard_time": 1706661928,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167607,
       "num": 167607,
       "word": "24年间鸿星尔克经历过四次生死存亡",
@@ -5145,6 +5337,14 @@
       "onboard_time": 1706353108,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165822,
+      "num": 165822,
+      "word": "五险一金整明白了",
+      "onboard_time": 1706659828,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 165685,
@@ -5323,14 +5523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159505,
-      "num": 159505,
-      "word": "小猫误入派出所骗吃骗喝一个月",
-      "onboard_time": 1706636240,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159272,
       "num": 159272,
       "word": "韩庚回忆出道时被迫停演",
@@ -5369,14 +5561,6 @@
       "onboard_time": 1706436870,
       "rank": 39,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 158552,
-      "num": 158552,
-      "word": "87岁老人在美三次遇袭决定搬回中国",
-      "onboard_time": 1706656281,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158548,
@@ -5441,6 +5625,14 @@
       "onboard_time": 1706367632,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156970,
+      "num": 156970,
+      "word": "库里全明星对决女库里",
+      "onboard_time": 1706662351,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 156903,
@@ -5819,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146162,
+      "num": 146162,
+      "word": "我爸从来不惯着亲戚",
+      "onboard_time": 1706656281,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145928,
       "num": 145928,
       "word": "周末真的适合补觉",
@@ -5923,6 +6123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143040,
+      "num": 143040,
+      "word": "你会买2万多的苹果头显吗",
+      "onboard_time": 1706656281,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142944,
       "num": 142944,
       "word": "雷佳音腹肌",
@@ -5995,6 +6203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141197,
+      "num": 141197,
+      "word": "第五人格2024龙年版",
+      "onboard_time": 1706662228,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141008,
       "num": 141008,
       "word": "冰迅",
@@ -6019,6 +6235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140693,
+      "num": 140693,
+      "word": "缅北重大嫌犯移交现场高清大图",
+      "onboard_time": 1706662951,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140311,
       "num": 140311,
       "word": "杜兰特不希望被篮网致敬",
@@ -6040,6 +6264,14 @@
       "word": "乘务员开箱每掏一下都让人猜不到",
       "onboard_time": 1706540072,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139908,
+      "num": 139908,
+      "word": "7岁豆豆第一次大步向前走",
+      "onboard_time": 1706660068,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6627,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126710,
+      "num": 126710,
+      "word": "EDG怎么输的",
+      "onboard_time": 1706658443,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126609,
       "num": 119158,
       "word": "要久久爱是杨紫相聚最多的剧组",
@@ -6803,6 +7043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122958,
+      "num": 122958,
+      "word": "iPhone出货面临显著衰退",
+      "onboard_time": 1706656943,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122818,
       "num": 122818,
       "word": "尿不湿竟然是popping高手",
@@ -6825,6 +7073,14 @@
       "onboard_time": 1706364152,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122239,
+      "num": 122239,
+      "word": "年轻人为什么会有过年回家焦虑",
+      "onboard_time": 1706663253,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 122185,
@@ -6883,12 +7139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121499,
-      "num": 121499,
-      "word": "我爸从来不惯着亲戚",
-      "onboard_time": 1706656281,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 121467,
+      "num": 121467,
+      "word": "苹果手表与头显手势冲突",
+      "onboard_time": 1706660849,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 121219,
@@ -7273,6 +7529,14 @@
       "onboard_time": 1706401945,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113874,
+      "num": 113874,
+      "word": "2024已经过去一个月了",
+      "onboard_time": 1706660188,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 113794,
@@ -8195,14 +8459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89706,
-      "num": 89706,
-      "word": "你会买2万多的苹果头显吗",
-      "onboard_time": 1706656281,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 89162,
       "num": 89162,
       "word": "从狮王变失望只需要一个发型",
@@ -8379,14 +8635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83034,
-      "num": 83034,
-      "word": "iPhone出货面临显著衰退",
-      "onboard_time": 1706656943,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 82390,
       "num": 82390,
       "word": "在暴雪时分",
@@ -8547,14 +8795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63047,
-      "num": 63047,
-      "word": "江苏降雪量预报图黑了一块",
-      "onboard_time": 1706657484,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61398,
       "num": 61398,
       "word": "张庭名下多家公司拟注销",
@@ -8641,14 +8881,6 @@
       "onboard_time": 1706484263,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51820,
-      "num": 51820,
-      "word": "女儿考第1爸爸走出6亲不认的步伐",
-      "onboard_time": 1706657364,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51752,

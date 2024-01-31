@@ -1,0 +1,410 @@
+{
+  "runTime": 1706663509485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3485180,
+        "num": 3485180,
+        "word": "缅北电诈四大家族覆灭",
+        "onboard_time": 1706661628,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443702,
+        "num": 1443702,
+        "word": "韩安冉发火",
+        "onboard_time": 1706658384,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56466,
+        "num": 1081736,
+        "word": "年货大集里的浓浓年味",
+        "onboard_time": 1706618732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061770,
+        "num": 1061770,
+        "word": "缅甸白所成父子被移交我公安机关",
+        "onboard_time": 1706624974,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 805410,
+        "num": 805410,
+        "word": "遭奔驰加塞砸车女子称对方还未道歉",
+        "onboard_time": 1706658085,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557499,
+        "num": 557499,
+        "word": "周一围用手接朱丹吐的樱桃核",
+        "onboard_time": 1706656581,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508633,
+        "num": 508633,
+        "word": "今冬最强雨雪要来了",
+        "onboard_time": 1706660249,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494891,
+        "num": 494891,
+        "word": "暴雪预警",
+        "onboard_time": 1706616511,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444472,
+        "num": 444472,
+        "word": "董宇辉新账号直播间被指大规模抄袭",
+        "onboard_time": 1706625693,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 441767,
+        "num": 441767,
+        "word": "87岁老人在美三次遇袭决定搬回中国",
+        "onboard_time": 1706656281,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734862,
+        "num": 437427,
+        "word": "萨沙结婚",
+        "onboard_time": 1706662589,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 423895,
+        "num": 423895,
+        "word": "为什么上班只是坐着还感觉这么累",
+        "onboard_time": 1706659710,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 383255,
+        "num": 383255,
+        "word": "小猫误入派出所骗吃骗喝一个月",
+        "onboard_time": 1706636240,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380119,
+        "num": 380119,
+        "word": "童瑶早就预判了雷东宝的结局",
+        "onboard_time": 1706627013,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372146,
+        "num": 372146,
+        "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
+        "onboard_time": 1706629168,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324342,
+        "num": 324342,
+        "word": "江西抚州高彩礼会被写上黑榜",
+        "onboard_time": 1706661029,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306036,
+        "num": 306036,
+        "word": "坚持一年以上的护肤习惯",
+        "onboard_time": 1706624251,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 301460,
+        "num": 301460,
+        "word": "曹璐报名乘风2024",
+        "onboard_time": 1706660368,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293013,
+        "num": 293013,
+        "word": "谷歌工程师杀妻悲剧发生之前",
+        "onboard_time": 1706626474,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284782,
+        "num": 284782,
+        "word": "关茈文刘芬",
+        "onboard_time": 1706661211,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 306067,
+        "num": 282459,
+        "word": "女儿考第1爸爸走出6亲不认的步伐",
+        "onboard_time": 1706657364,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279669,
+        "num": 279669,
+        "word": "古偶致命四连击",
+        "onboard_time": 1706657785,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277929,
+        "num": 277929,
+        "word": "我妈居然敢把我和年货放一个屋里",
+        "onboard_time": 1706662051,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251909,
+        "num": 251909,
+        "word": "马斯克550亿美元薪酬奖励方案被判无效",
+        "onboard_time": 1706659046,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 223709,
+        "num": 223709,
+        "word": "河北省人民医院回应现丁义珍式窗口",
+        "onboard_time": 1706661269,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212962,
+        "num": 212962,
+        "word": "和我老公结婚吧",
+        "onboard_time": 1706658384,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208919,
+        "num": 208919,
+        "word": "缅北白所成刘正祥打脸语录",
+        "onboard_time": 1706662051,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199073,
+        "num": 199073,
+        "word": "宋佳周迅我有点嗑你俩了",
+        "onboard_time": 1706662831,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196683,
+        "num": 196683,
+        "word": "研究发现心跳快慢与寿命长短相关",
+        "onboard_time": 1706612789,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195974,
+        "num": 195974,
+        "word": "缅北",
+        "onboard_time": 1706656401,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190447,
+        "num": 190447,
+        "word": "杨幂回应被称人间清醒",
+        "onboard_time": 1706660789,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182172,
+        "num": 182172,
+        "word": "年轻人为什么恐惧接电话",
+        "onboard_time": 1706659887,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182077,
+        "num": 182077,
+        "word": "姨 刚下飞机就健身呢",
+        "onboard_time": 1706620412,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181290,
+        "num": 181290,
+        "word": "江苏降雪量预报图黑了一块",
+        "onboard_time": 1706657484,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167667,
+        "num": 167667,
+        "word": "柳智敏自曝有舞台恐惧症",
+        "onboard_time": 1706662649,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167638,
+        "num": 167638,
+        "word": "宋佳太A了",
+        "onboard_time": 1706661928,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165822,
+        "num": 165822,
+        "word": "五险一金整明白了",
+        "onboard_time": 1706659828,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156970,
+        "num": 156970,
+        "word": "库里全明星对决女库里",
+        "onboard_time": 1706662351,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154951,
+        "num": 154951,
+        "word": "秦海璐迪丽热巴最早的交集在2018年",
+        "onboard_time": 1706630427,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146162,
+        "num": 146162,
+        "word": "我爸从来不惯着亲戚",
+        "onboard_time": 1706656281,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143040,
+        "num": 143040,
+        "word": "你会买2万多的苹果头显吗",
+        "onboard_time": 1706656281,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141197,
+        "num": 141197,
+        "word": "第五人格2024龙年版",
+        "onboard_time": 1706662228,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140693,
+        "num": 140693,
+        "word": "缅北重大嫌犯移交现场高清大图",
+        "onboard_time": 1706662951,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139908,
+        "num": 139908,
+        "word": "7岁豆豆第一次大步向前走",
+        "onboard_time": 1706660068,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126710,
+        "num": 126710,
+        "word": "EDG怎么输的",
+        "onboard_time": 1706658443,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122958,
+        "num": 122958,
+        "word": "iPhone出货面临显著衰退",
+        "onboard_time": 1706656943,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "新疆7.1级地震是典型逆断层型地震",
+        "onboard_time": 1706626890,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122239,
+        "num": 122239,
+        "word": "年轻人为什么会有过年回家焦虑",
+        "onboard_time": 1706663253,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121467,
+        "num": 121467,
+        "word": "苹果手表与头显手势冲突",
+        "onboard_time": 1706660849,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113874,
+        "num": 113874,
+        "word": "2024已经过去一个月了",
+        "onboard_time": 1706660188,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
