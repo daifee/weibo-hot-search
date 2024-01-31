@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706689236660,
+  "endTime": 1706690043183,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -7923,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896509,
+      "num": 896509,
+      "word": "奔驰车主加塞砸车被拘10日",
+      "onboard_time": 1706689413,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896496,
       "num": 896496,
       "word": "微信新增听一听入口",
@@ -8209,6 +8217,14 @@
       "onboard_time": 1706240490,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 877511,
+      "num": 877511,
+      "word": "河北农大回应加塞骂人车主身份",
+      "onboard_time": 1706686111,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874923,
@@ -10987,14 +11003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 743788,
-      "num": 743788,
-      "word": "河北农大回应加塞骂人车主身份",
-      "onboard_time": 1706686111,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 743103,
       "num": 743103,
       "word": "张黎",
@@ -13036,7 +13044,7 @@
     },
     {
       "raw_hot": 665186,
-      "num": 541707,
+      "num": 553465,
       "word": "河北农大",
       "onboard_time": 1706684727,
       "rank": 40,
@@ -16337,6 +16345,14 @@
       "onboard_time": 1705991906,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566845,
+      "num": 566845,
+      "word": "湄公河行动演员确诊肿瘤",
+      "onboard_time": 1706688933,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 566794,
@@ -23675,6 +23691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 414984,
+      "num": 414984,
+      "word": "丹东小草莓下苏杭冻出高原红",
+      "onboard_time": 1706686053,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 414946,
       "num": 414946,
       "word": "血型瘦身法",
@@ -25169,14 +25193,6 @@
       "onboard_time": 1706676997,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390898,
-      "num": 390898,
-      "word": "丹东小草莓下苏杭冻出高原红",
-      "onboard_time": 1706686053,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 390887,
@@ -27897,6 +27913,14 @@
       "onboard_time": 1706605953,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 349653,
+      "num": 349653,
+      "word": "关晓彤学不完根本学不完",
+      "onboard_time": 1706687789,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 349633,
@@ -31107,6 +31131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306256,
+      "num": 306256,
+      "word": "湛江警方通报奔驰车主徐闻港插队事件",
+      "onboard_time": 1706688571,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306222,
       "num": 1346739,
       "word": "私家车坠入水塘热心群众接力救援",
@@ -31329,6 +31361,14 @@
       "onboard_time": 1705487847,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302614,
+      "num": 302614,
+      "word": "张庭方否认在迪拜买房",
+      "onboard_time": 1706688151,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 302495,
@@ -32219,6 +32259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293639,
+      "num": 293639,
+      "word": "LOL爆改陈泽",
+      "onboard_time": 1706688991,
+      "rank": 25,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 293542,
       "num": 293542,
       "word": "原神 璃月食集",
@@ -32233,14 +32281,6 @@
       "onboard_time": 1706186556,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 293243,
-      "num": 293243,
-      "word": "张庭方否认在迪拜买房",
-      "onboard_time": 1706688151,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 293200,
@@ -33523,14 +33563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282298,
-      "num": 282298,
-      "word": "湄公河行动演员确诊肿瘤",
-      "onboard_time": 1706688933,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 282111,
       "num": 282111,
       "word": "TWS出道先行曲",
@@ -33993,6 +34025,14 @@
       "onboard_time": 1705395512,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 276962,
+      "num": 276962,
+      "word": "知情人称吴谢宇家属正准备处理后事",
+      "onboard_time": 1706688450,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276939,
@@ -40683,14 +40723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225780,
-      "num": 225780,
-      "word": "LOL爆改陈泽",
-      "onboard_time": 1706688991,
-      "rank": 25,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 225724,
       "num": 225724,
       "word": "警方接6字报警挨户敲门救回人命",
@@ -41425,14 +41457,6 @@
       "onboard_time": 1704276092,
       "rank": 25,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 221899,
-      "num": 221899,
-      "word": "关晓彤学不完根本学不完",
-      "onboard_time": 1706687789,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 221850,
@@ -42353,14 +42377,6 @@
       "onboard_time": 1705384051,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217057,
-      "num": 217057,
-      "word": "知情人称吴谢宇家属正准备处理后事",
-      "onboard_time": 1706688450,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216901,
@@ -43729,6 +43745,14 @@
       "onboard_time": 1706669730,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210260,
+      "num": 210260,
+      "word": "京东紧急制定主播招聘计划",
+      "onboard_time": 1706689293,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 210243,
@@ -49107,6 +49131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 192131,
+      "num": 192131,
+      "word": "大大方方结束任何不健康的关系",
+      "onboard_time": 1706688392,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192118,
       "num": 170197,
       "word": "马天宇卜冠今演情侣",
@@ -50217,6 +50249,14 @@
       "onboard_time": 1704847711,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188961,
+      "num": 188961,
+      "word": "AG对战TTG",
+      "onboard_time": 1706683051,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 188901,
@@ -54419,14 +54459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 174279,
-      "num": 174279,
-      "word": "湛江警方通报奔驰车主徐闻港插队事件",
-      "onboard_time": 1706688571,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "雷东宝吃前妻韦春红的醋",
@@ -56633,14 +56665,6 @@
       "onboard_time": 1705580608,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167067,
-      "num": 167067,
-      "word": "AG对战TTG",
-      "onboard_time": 1706683051,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 167024,
@@ -60899,6 +60923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153518,
+      "num": 153518,
+      "word": "新东方年会员工吐槽",
+      "onboard_time": 1706689293,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 153486,
       "num": 215843,
       "word": "天舟七号发射直播",
@@ -61697,6 +61729,14 @@
       "onboard_time": 1704203856,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151187,
+      "num": 151187,
+      "word": "A股沪指失守2800点",
+      "onboard_time": 1706689588,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 151168,
@@ -68659,6 +68699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131005,
+      "num": 131005,
+      "word": "成毅1月plog",
+      "onboard_time": 1706689952,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130998,
       "num": 130998,
       "word": "绘旅人psd",
@@ -73081,6 +73129,14 @@
       "onboard_time": 1704637596,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 118514,
+      "num": 118514,
+      "word": "普京收入公开",
+      "onboard_time": 1706689952,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 118474,
@@ -82057,6 +82113,14 @@
       "onboard_time": 1705355533,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51673,
+      "num": 1400979,
+      "word": "中国文旅大联欢",
+      "onboard_time": 1706689413,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51553,

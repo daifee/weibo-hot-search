@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/31 16:20:36
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/31 16:34:03
 </p>
 </blockquote>
 <p>
@@ -5955,6 +5955,12 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E8%BD%A6%E4%B8%BB%E5%8A%A0%E5%A1%9E%E7%A0%B8%E8%BD%A6%E8%A2%AB%E6%8B%9810%E6%97%A5%23" target="weibo">
+奔驰车主加塞砸车被拘10日（热度：896509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E5%90%AC%E4%B8%80%E5%90%AC%E5%85%A5%E5%8F%A3%23" target="weibo">
 微信新增听一听入口（热度：896496）
 </a>
@@ -6005,12 +6011,6 @@ IU染粉发（热度：920521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%96%B0%E5%9B%A2%E9%98%9F%23" target="weibo">
 董宇辉新团队（热度：889047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%83%E6%97%A63%E5%A4%A9%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A559.14%E4%BA%BF%23" target="weibo">
-哈尔滨元旦3天旅游总收入59.14亿（热度：889026）
 </a>
 </li>
 
