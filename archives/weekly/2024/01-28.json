@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706711642678,
+  "endTime": 1706714227104,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 802499,
+      "num": 539520,
+      "word": "男子爬乐山大佛头顶小便",
+      "onboard_time": 1706710537,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801815,
       "num": 801815,
       "word": "女子捐赠甘肃一中学400件羽绒服失踪",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1706595994,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787959,
+      "num": 787959,
+      "word": "尿毒症是吃出来的",
+      "onboard_time": 1706712333,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 787423,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1706514329,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 751381,
+      "num": 751381,
+      "word": "李一桐白鹿撞造型",
+      "onboard_time": 1706710354,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 745185,
@@ -1459,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 687727,
+      "num": 687727,
+      "word": "张波叶诚尘一审互咬二审互助",
+      "onboard_time": 1706711072,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684273,
       "num": 684273,
       "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
@@ -1531,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 662594,
-      "num": 662594,
-      "word": "李一桐白鹿撞造型",
-      "onboard_time": 1706710354,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 661579,
       "num": 661579,
       "word": "刘雨欣与女儿合照",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1706512767,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658878,
+      "num": 658878,
+      "word": "胡先煦 我人都嗑傻了",
+      "onboard_time": 1706711614,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 657398,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1706616270,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617807,
+      "num": 617807,
+      "word": "迪丽热巴红衣旧照",
+      "onboard_time": 1706712570,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 611119,
@@ -2155,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524982,
+      "num": 319582,
+      "word": "要结婚了才发现自己是小学学历",
+      "onboard_time": 1706710235,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 521934,
       "num": 521934,
       "word": "孙悦谈为何隐退8年",
@@ -2179,12 +2227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517798,
+      "num": 517798,
+      "word": "车厘子只看几个J谁买谁是大冤种",
+      "onboard_time": 1706709694,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 517435,
       "num": 646806,
       "word": "A股",
       "onboard_time": 1706492726,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 517099,
+      "num": 517099,
+      "word": "在人间 辛芷蕾",
+      "onboard_time": 1706713294,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 514829,
@@ -2329,14 +2393,6 @@
       "onboard_time": 1706409989,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493050,
-      "num": 493050,
-      "word": "车厘子只看几个J谁买谁是大冤种",
-      "onboard_time": 1706709694,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 491926,
@@ -2513,14 +2569,6 @@
       "onboard_time": 1706430447,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 467744,
-      "num": 319582,
-      "word": "要结婚了才发现自己是小学学历",
-      "onboard_time": 1706710235,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 466006,
@@ -2899,6 +2947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 413491,
+      "num": 251351,
+      "word": "二月狗屎运最旺的星座",
+      "onboard_time": 1706712993,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413278,
       "num": 413278,
       "word": "12岁女孩买民法典专门对付妈妈",
@@ -3153,6 +3209,14 @@
       "onboard_time": 1706536654,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385234,
+      "num": 385234,
+      "word": "肖战张婧仪藏海传路透",
+      "onboard_time": 1706712333,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 385144,
@@ -3489,6 +3553,14 @@
       "onboard_time": 1706418509,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353289,
+      "num": 250209,
+      "word": "周传雄 生病的经历改变了我的心态",
+      "onboard_time": 1706712514,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 353232,
@@ -3968,14 +4040,6 @@
       "word": "这么离谱的天气预报图头一次见",
       "onboard_time": 1706600608,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303971,
-      "num": 303971,
-      "word": "男子爬乐山大佛头顶小便",
-      "onboard_time": 1706710537,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -4563,14 +4627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259578,
-      "num": 259578,
-      "word": "胡先煦 我人都嗑傻了",
-      "onboard_time": 1706711614,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259242,
       "num": 259242,
       "word": "我得省钱 人就活一次",
@@ -4795,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244624,
+      "num": 244624,
+      "word": "虞书欣叫自己鲸鱼辣妹",
+      "onboard_time": 1706713831,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242930,
       "num": 242930,
       "word": "曝高迪跳平台将赔款4亿",
@@ -4857,14 +4921,6 @@
       "onboard_time": 1706610992,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238195,
-      "num": 238195,
-      "word": "张波叶诚尘一审互咬二审互助",
-      "onboard_time": 1706711072,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237497,
@@ -5563,6 +5619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209263,
+      "num": 209263,
+      "word": "2月十二星座注意事项",
+      "onboard_time": 1706712394,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209017,
       "num": 167730,
       "word": "暗恋对象以为我是学人精",
@@ -5667,6 +5731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206235,
+      "num": 206235,
+      "word": "田馥甄否认遭暗捅",
+      "onboard_time": 1706714072,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206075,
       "num": 206075,
       "word": "蔡徐坤RIDEORDIE歌词",
@@ -5689,6 +5761,14 @@
       "onboard_time": 1706447910,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 205617,
+      "num": 205617,
+      "word": "没有血缘关系也能长得像",
+      "onboard_time": 1706713774,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 205548,
@@ -6729,6 +6809,14 @@
       "onboard_time": 1706502575,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175714,
+      "num": 175714,
+      "word": "想你了融",
+      "onboard_time": 1706711614,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 175629,
@@ -7971,6 +8059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143938,
+      "num": 143938,
+      "word": "男子开飞机带女儿回家过年",
+      "onboard_time": 1706713354,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143801,
       "num": 143801,
       "word": "赵昭仪送胡先煦自己织的手套",
@@ -8281,6 +8377,14 @@
       "onboard_time": 1706668889,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138752,
+      "num": 138752,
+      "word": "EDG官宣Thesnake上调",
+      "onboard_time": 1706712694,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 138485,
@@ -8625,6 +8729,14 @@
       "onboard_time": 1706415748,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131429,
+      "num": 131429,
+      "word": "好喜欢这种本尊亲自玩梗的感觉",
+      "onboard_time": 1706712032,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 131336,
@@ -9075,14 +9187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124642,
-      "num": 124642,
-      "word": "想你了融",
-      "onboard_time": 1706711614,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124588,
       "num": 124588,
       "word": "熟悉的徐杰回来了",
@@ -9193,6 +9297,14 @@
       "onboard_time": 1706364152,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122370,
+      "num": 122370,
+      "word": "水果加热吃还能有营养吗",
+      "onboard_time": 1706714072,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122185,
@@ -10443,6 +10555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98106,
+      "num": 899184,
+      "word": "春运安全出行天气地图",
+      "onboard_time": 1706709632,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98067,
       "num": 98067,
       "word": "驻马店消防通报一仓库发生火灾",
@@ -10521,14 +10641,6 @@
       "onboard_time": 1706361332,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 95448,
-      "num": 899184,
-      "word": "春运安全出行天气地图",
-      "onboard_time": 1706709632,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95396,
