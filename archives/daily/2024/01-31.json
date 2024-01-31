@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706671072304,
+  "endTime": 1706672058412,
   "band_list": [
     {
       "raw_hot": 5022775,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1337166,
-      "num": 437427,
+      "num": 453479,
       "word": "萨沙结婚",
       "onboard_time": 1706662589,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1233338,
-      "num": 1233338,
+      "raw_hot": 1302210,
+      "num": 1302210,
       "word": "吴谢宇主观恶性深且毫无悔罪诚意",
       "onboard_time": 1706669074,
       "rank": 3,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040639,
-      "num": 1040639,
+      "raw_hot": 1105705,
+      "num": 1105705,
       "word": "自热米饭的米不是真大米",
       "onboard_time": 1706667749,
       "rank": 48,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678694,
-      "num": 678694,
+      "raw_hot": 745185,
+      "num": 745185,
       "word": "死刑前吴谢宇未提出会见亲属",
       "onboard_time": 1706669789,
       "rank": 8,
@@ -139,8 +139,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 578165,
-      "num": 406302,
+      "raw_hot": 589603,
+      "num": 446044,
       "word": "杨紫琼与前夫离婚原因",
       "onboard_time": 1706669192,
       "rank": 11,
@@ -217,6 +217,14 @@
       "onboard_time": 1706620412,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463040,
+      "num": 463040,
+      "word": "烫发完瞬间辈分都涨了",
+      "onboard_time": 1706669972,
+      "rank": 13,
+      "category": "美妆"
     },
     {
       "raw_hot": 441767,
@@ -315,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311749,
-      "num": 311749,
-      "word": "烫发完瞬间辈分都涨了",
-      "onboard_time": 1706669972,
+      "raw_hot": 332572,
+      "num": 332572,
+      "word": "马思纯 生日快乐小孩",
+      "onboard_time": 1706671289,
       "rank": 13,
-      "category": "美妆"
+      "category": "艺人"
     },
     {
       "raw_hot": 310112,
@@ -387,12 +395,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276859,
+      "num": 216849,
+      "word": "为什么车厘子听起来就比樱桃贵",
+      "onboard_time": 1706670570,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275210,
       "num": 275210,
       "word": "原神 开门",
       "onboard_time": 1706668290,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272381,
+      "num": 272381,
+      "word": "吴谢宇犯罪手段残忍严重违背人伦道德",
+      "onboard_time": 1706670511,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261242,
@@ -419,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252968,
+      "num": 216469,
+      "word": "大部分情侣看似亲密",
+      "onboard_time": 1706669912,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251909,
       "num": 251909,
       "word": "马斯克550亿美元薪酬奖励方案被判无效",
       "onboard_time": 1706659046,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 227271,
+      "num": 227271,
+      "word": "2024天秤座财富大爆炸",
+      "onboard_time": 1706670751,
+      "rank": 37,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 223816,
@@ -451,12 +491,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 218043,
-      "num": 214517,
-      "word": "大部分情侣看似亲密",
-      "onboard_time": 1706669912,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 216998,
+      "num": 216998,
+      "word": "股市",
+      "onboard_time": 1706671591,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 216247,
@@ -499,8 +539,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209607,
-      "num": 209607,
+      "raw_hot": 210303,
+      "num": 210303,
       "word": "热辣滚烫 想赢一次",
       "onboard_time": 1706669730,
       "rank": 23,
@@ -521,6 +561,14 @@
       "onboard_time": 1706612612,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 206075,
+      "num": 206075,
+      "word": "蔡徐坤RIDEORDIE歌词",
+      "onboard_time": 1706671649,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 205377,
@@ -555,12 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201177,
-      "num": 201177,
-      "word": "吴谢宇犯罪手段残忍严重违背人伦道德",
-      "onboard_time": 1706670511,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 201232,
+      "num": 201232,
+      "word": "摩羯座的强大需要温柔来灌溉",
+      "onboard_time": 1706671110,
+      "rank": 25,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 193807,
@@ -577,6 +625,14 @@
       "onboard_time": 1706660789,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190184,
+      "num": 190184,
+      "word": "沪指跌破2800点",
+      "onboard_time": 1706671050,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 182262,
@@ -651,14 +707,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 157080,
-      "num": 157080,
-      "word": "为什么车厘子听起来就比樱桃贵",
-      "onboard_time": 1706670570,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156970,
       "num": 156970,
       "word": "库里全明星对决女库里",
@@ -681,6 +729,14 @@
       "onboard_time": 1706669549,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152474,
+      "num": 152474,
+      "word": "外国人眼中的艾莎在中国叫尔滨",
+      "onboard_time": 1706671591,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 149207,
@@ -713,14 +769,6 @@
       "onboard_time": 1706620412,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144722,
-      "num": 144722,
-      "word": "2024天秤座财富大爆炸",
-      "onboard_time": 1706670751,
-      "rank": 37,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 144166,
@@ -881,14 +929,6 @@
       "onboard_time": 1706669671,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117083,
-      "num": 117083,
-      "word": "沪指跌破2800点",
-      "onboard_time": 1706671050,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 113994,
@@ -1107,6 +1147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79225,
+      "num": 1181232,
+      "word": "年味儿真的开始上来了",
+      "onboard_time": 1706648235,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76960,
       "num": 76960,
       "word": "郑裕玲打卡肖战上海大屏",
@@ -1203,14 +1251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17040,
-      "num": 17040,
-      "word": "年味儿真的开始上来了",
-      "onboard_time": 1706648235,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 11855,
       "num": 11855,
       "word": "守护甜心 歌呗酷洛米海报",
@@ -1230,6 +1270,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向全军老同志祝贺新春#"
+    },
+    {
+      "word": "#习近平接受外国新任驻华大使递交国书#"
     }
   ]
 }
