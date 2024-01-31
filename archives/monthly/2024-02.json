@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706725032399,
+  "endTime": 1706726036672,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60914,
+      "num": 60914,
+      "word": "男星粉丝多次发图被指滥用警徽",
+      "onboard_time": 1706725339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42274,
       "num": 42274,
       "word": "赵丽颖粉丝包场第二十条",
@@ -427,15 +435,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 32178,
-      "num": 32178,
+      "raw_hot": 33570,
+      "num": 33570,
       "word": "冬天最适合减肉",
       "onboard_time": 1706722581,
       "rank": 38,
       "category": "运动健身"
     },
     {
-      "raw_hot": 11677,
+      "raw_hot": 13416,
       "num": 194882,
       "word": "2月这些新规将要施行",
       "onboard_time": 1706709153,
