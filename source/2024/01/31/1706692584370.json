@@ -1,0 +1,410 @@
+{
+  "runTime": 1706692584370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2054749,
+        "num": 2054749,
+        "word": "奔驰车主加塞砸车被拘10日",
+        "onboard_time": 1706689413,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1812045,
+        "num": 1812045,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109782,
+        "num": 1492088,
+        "word": "中国文旅大联欢",
+        "onboard_time": 1706689413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388749,
+        "num": 1388749,
+        "word": "普京收入公开",
+        "onboard_time": 1706689952,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1097984,
+        "num": 1097984,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876425,
+        "num": 876425,
+        "word": "重庆姐弟坠亡案被告人被执行死刑",
+        "onboard_time": 1706673030,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841408,
+        "num": 841408,
+        "word": "躲过新冠没躲过这次咽喉炎",
+        "onboard_time": 1706681612,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 785012,
+        "num": 785012,
+        "word": "咽喉炎",
+        "onboard_time": 1706690732,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 695187,
+        "num": 695187,
+        "word": "湄公河行动演员确诊肿瘤",
+        "onboard_time": 1706688933,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 587405,
+        "num": 587405,
+        "word": "车银优弟弟读的复旦大学",
+        "onboard_time": 1706691392,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624607,
+        "num": 568370,
+        "word": "杜江霍思燕冲浪拥吻",
+        "onboard_time": 1706690191,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614754,
+        "num": 556821,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1706676097,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538390,
+        "num": 538390,
+        "word": "黄磊做菜VS贾冰做菜",
+        "onboard_time": 1706691512,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485158,
+        "num": 485158,
+        "word": "河北农大回应加塞骂人车主身份",
+        "onboard_time": 1706686111,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438294,
+        "num": 438294,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393912,
+        "num": 393912,
+        "word": "花儿与少年 超哥说了啥",
+        "onboard_time": 1706678497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351522,
+        "num": 351522,
+        "word": "吴尊称呼女儿二老婆",
+        "onboard_time": 1706673512,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548169,
+        "num": 345957,
+        "word": "吴谢宇被执行死刑",
+        "onboard_time": 1706668532,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333746,
+        "num": 333746,
+        "word": "美方对中国留学生渗透拉拢毫无底线",
+        "onboard_time": 1706690792,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303896,
+        "num": 303896,
+        "word": "要久久爱见面会",
+        "onboard_time": 1706690191,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249663,
+        "num": 249663,
+        "word": "LOL爆改陈泽",
+        "onboard_time": 1706688991,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 246893,
+        "num": 246893,
+        "word": "知情人称吴谢宇家属正准备处理后事",
+        "onboard_time": 1706688450,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246803,
+        "num": 246803,
+        "word": "湛江警方通报奔驰车主徐闻港插队事件",
+        "onboard_time": 1706688571,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230087,
+        "num": 230087,
+        "word": "A股沪指失守2800点",
+        "onboard_time": 1706689588,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213457,
+        "num": 213457,
+        "word": "坠亡姐弟案女孩出发前还说想爸爸",
+        "onboard_time": 1706684191,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207112,
+        "num": 207112,
+        "word": "大大方方结束任何不健康的关系",
+        "onboard_time": 1706688392,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204933,
+        "num": 204933,
+        "word": "杨紫范丞丞见面会生图",
+        "onboard_time": 1706690550,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203036,
+        "num": 203036,
+        "word": "河北农大",
+        "onboard_time": 1706684727,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202500,
+        "num": 202500,
+        "word": "关晓彤学不完根本学不完",
+        "onboard_time": 1706687789,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186017,
+        "num": 186017,
+        "word": "世界之外 开发组的一封信",
+        "onboard_time": 1706691032,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180513,
+        "num": 180513,
+        "word": "易烊千玺工作室包场赵丽颖新电影",
+        "onboard_time": 1706683231,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173706,
+        "num": 173706,
+        "word": "美甲 排队",
+        "onboard_time": 1706675378,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173455,
+        "num": 173455,
+        "word": "丹东小草莓下苏杭冻出高原红",
+        "onboard_time": 1706686053,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 170130,
+        "num": 170130,
+        "word": "明日方舟 同人漫画",
+        "onboard_time": 1706692531,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155287,
+        "num": 155287,
+        "word": "美甲店开始收春节费了",
+        "onboard_time": 1706683412,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140156,
+        "num": 140156,
+        "word": "秦海璐怎么还戴着耳机",
+        "onboard_time": 1706681788,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139252,
+        "num": 139252,
+        "word": "过年三件套",
+        "onboard_time": 1706687191,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137097,
+        "num": 137097,
+        "word": "57岁王祖贤素颜自拍",
+        "onboard_time": 1706684672,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131967,
+        "num": 131967,
+        "word": "易烊千玺当选中国影协理事",
+        "onboard_time": 1706672730,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131730,
+        "num": 131730,
+        "word": "张庭方否认在迪拜买房",
+        "onboard_time": 1706688151,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131364,
+        "num": 131364,
+        "word": "文俊辉向成员们安利四川火锅",
+        "onboard_time": 1706687551,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128508,
+        "num": 128508,
+        "word": "AG战胜TTG",
+        "onboard_time": 1706692170,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126255,
+        "num": 126255,
+        "word": "叶诚尘检举揭发他人犯罪不属实",
+        "onboard_time": 1706678554,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121684,
+        "num": 121684,
+        "word": "座头鲸出现在加拿大旅馆前",
+        "onboard_time": 1706692170,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117982,
+        "num": 117982,
+        "word": "张波叶诚尘谋划半年下手2次才得逞",
+        "onboard_time": 1706688272,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112207,
+        "num": 112207,
+        "word": "民警双手接住9旬坠楼老人",
+        "onboard_time": 1706692413,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109823,
+        "num": 109823,
+        "word": "河南的雪你别胡来",
+        "onboard_time": 1706692170,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109300,
+        "num": 109300,
+        "word": "刘耀文重庆话推荐第二十条",
+        "onboard_time": 1706691932,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108627,
+        "num": 108627,
+        "word": "钟意露娜月下无限连",
+        "onboard_time": 1706690612,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103742,
+        "num": 103742,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1706692472,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}

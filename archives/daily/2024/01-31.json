@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706690043183,
+  "endTime": 1706692584370,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2054749,
+      "num": 2054749,
+      "word": "奔驰车主加塞砸车被拘10日",
+      "onboard_time": 1706689413,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1914398,
       "num": 1914398,
       "word": "张波叶诚尘微信聊天记录",
@@ -81,6 +89,14 @@
       "onboard_time": 1706658384,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1388749,
+      "num": 1388749,
+      "word": "普京收入公开",
+      "onboard_time": 1706689952,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1337166,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 896509,
-      "num": 896509,
-      "word": "奔驰车主加塞砸车被拘10日",
-      "onboard_time": 1706689413,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 877511,
       "num": 877511,
       "word": "河北农大回应加塞骂人车主身份",
@@ -185,6 +193,14 @@
       "onboard_time": 1706658085,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785012,
+      "num": 785012,
+      "word": "咽喉炎",
+      "onboard_time": 1706690732,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 759359,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695187,
+      "num": 695187,
+      "word": "湄公河行动演员确诊肿瘤",
+      "onboard_time": 1706688933,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 665186,
       "num": 553465,
       "word": "河北农大",
@@ -241,6 +265,14 @@
       "onboard_time": 1706626474,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624607,
+      "num": 568370,
+      "word": "杜江霍思燕冲浪拥吻",
+      "onboard_time": 1706690191,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 621762,
@@ -283,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587405,
+      "num": 587405,
+      "word": "车银优弟弟读的复旦大学",
+      "onboard_time": 1706691392,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583705,
       "num": 583705,
       "word": "易烊千玺工作室包场赵丽颖新电影",
@@ -297,14 +337,6 @@
       "onboard_time": 1706683112,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 566845,
-      "num": 566845,
-      "word": "湄公河行动演员确诊肿瘤",
-      "onboard_time": 1706688933,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 563663,
@@ -329,6 +361,14 @@
       "onboard_time": 1706673693,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 538390,
+      "num": 538390,
+      "word": "黄磊做菜VS贾冰做菜",
+      "onboard_time": 1706691512,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519250,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333746,
+      "num": 333746,
+      "word": "美方对中国留学生渗透拉拢毫无底线",
+      "onboard_time": 1706690792,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "恋与深空黎深 不如失序",
@@ -689,6 +737,14 @@
       "onboard_time": 1706657364,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303896,
+      "num": 303896,
+      "word": "要久久爱见面会",
+      "onboard_time": 1706690191,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 302614,
@@ -939,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230087,
+      "num": 230087,
+      "word": "A股沪指失守2800点",
+      "onboard_time": 1706689588,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228926,
       "num": 228926,
       "word": "对方及时撤回了一双鞋",
@@ -1099,6 +1163,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 207112,
+      "num": 207112,
+      "word": "大大方方结束任何不健康的关系",
+      "onboard_time": 1706688392,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206075,
       "num": 206075,
       "word": "蔡徐坤RIDEORDIE歌词",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1706670393,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "杨紫范丞丞见面会生图",
+      "onboard_time": 1706690550,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 204595,
@@ -1179,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192131,
-      "num": 192131,
-      "word": "大大方方结束任何不健康的关系",
-      "onboard_time": 1706688392,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190447,
       "num": 190447,
       "word": "杨幂回应被称人间清醒",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1706683051,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186017,
+      "num": 186017,
+      "word": "世界之外 开发组的一封信",
+      "onboard_time": 1706691032,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 185482,
@@ -1305,6 +1385,14 @@
       "onboard_time": 1706681612,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 170130,
+      "num": 170130,
+      "word": "明日方舟 同人漫画",
+      "onboard_time": 1706692531,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 167638,
@@ -1433,14 +1521,6 @@
       "onboard_time": 1706671591,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 151187,
-      "num": 151187,
-      "word": "A股沪指失守2800点",
-      "onboard_time": 1706689588,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 149207,
@@ -1635,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128508,
+      "num": 128508,
+      "word": "AG战胜TTG",
+      "onboard_time": 1706692170,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "流动青年结婚难问题",
@@ -1683,6 +1771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121684,
+      "num": 121684,
+      "word": "座头鲸出现在加拿大旅馆前",
+      "onboard_time": 1706692170,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121467,
       "num": 121467,
       "word": "苹果手表与头显手势冲突",
@@ -1705,14 +1801,6 @@
       "onboard_time": 1706668589,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118514,
-      "num": 118514,
-      "word": "普京收入公开",
-      "onboard_time": 1706689952,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 118394,
@@ -1755,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112207,
+      "num": 112207,
+      "word": "民警双手接住9旬坠楼老人",
+      "onboard_time": 1706692413,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 111824,
       "num": 111824,
       "word": "赵露思草莓元气妆",
@@ -1787,12 +1883,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109823,
+      "num": 109823,
+      "word": "河南的雪你别胡来",
+      "onboard_time": 1706692170,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109782,
+      "num": 1492088,
+      "word": "中国文旅大联欢",
+      "onboard_time": 1706689413,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109300,
+      "num": 109300,
+      "word": "刘耀文重庆话推荐第二十条",
+      "onboard_time": 1706691932,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108714,
       "num": 108714,
       "word": "1月最后一天",
       "onboard_time": 1706656822,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108627,
+      "num": 108627,
+      "word": "钟意露娜月下无限连",
+      "onboard_time": 1706690612,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 107544,
@@ -1817,6 +1945,14 @@
       "onboard_time": 1706657302,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103742,
+      "num": 103742,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1706692472,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102392,
@@ -2059,14 +2195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 51673,
-      "num": 1400979,
-      "word": "中国文旅大联欢",
-      "onboard_time": 1706689413,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46783,
       "num": 46783,
       "word": "本轮油价预计上调",
@@ -2132,6 +2260,9 @@
     },
     {
       "word": "#42位驻华大使递交国书#"
+    },
+    {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
     }
   ]
 }
