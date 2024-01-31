@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706743053826,
+  "endTime": 1706744040430,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490385,
+      "num": 490385,
+      "word": "张波叶诚尘一审互咬二审互助",
+      "onboard_time": 1706711072,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468448,
       "num": 468448,
       "word": "网红帮女生找到失散22年妈妈",
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437938,
-      "num": 437938,
-      "word": "张波叶诚尘一审互咬二审互助",
-      "onboard_time": 1706711072,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432182,
       "num": 432182,
       "word": "迪丽热巴红衣旧照",
       "onboard_time": 1706712570,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387473,
+      "num": 387473,
+      "word": "河南暴雪",
+      "onboard_time": 1706694271,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380667,
@@ -115,12 +123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 330412,
-      "num": 387210,
-      "word": "河南暴雪",
-      "onboard_time": 1706694271,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 319569,
+      "num": 319569,
+      "word": "男星粉丝多次发图被指滥用警徽",
+      "onboard_time": 1706725339,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 312566,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308207,
+      "num": 308207,
+      "word": "男子当小三破坏军婚获刑10个月",
+      "onboard_time": 1706681554,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294634,
       "num": 294634,
       "word": "车厘子只看几个J谁买谁是大冤种",
@@ -139,11 +155,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 282667,
-      "num": 282667,
-      "word": "男星粉丝多次发图被指滥用警徽",
-      "onboard_time": 1706725339,
-      "rank": 18,
+      "raw_hot": 282023,
+      "num": 282023,
+      "word": "潘玮柏宣云芬兰看极光",
+      "onboard_time": 1706739198,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254616,
-      "num": 254616,
-      "word": "男子当小三破坏军婚获刑10个月",
-      "onboard_time": 1706681554,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245106,
       "num": 245106,
       "word": "刘德华已经在超市上了19年班了",
       "onboard_time": 1706699490,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236596,
+      "num": 236596,
+      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+      "onboard_time": 1706733017,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228509,
@@ -187,14 +203,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 213423,
-      "num": 213423,
-      "word": "潘玮柏宣云芬兰看极光",
-      "onboard_time": 1706739198,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201707,
       "num": 201707,
       "word": "成毅裤子透光",
@@ -203,11 +211,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186080,
-      "num": 186080,
-      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
-      "onboard_time": 1706733017,
-      "rank": 44,
+      "raw_hot": 181350,
+      "num": 181350,
+      "word": "71岁阿婆成榜一大妈后拿不出看病钱",
+      "onboard_time": 1706736736,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -219,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176280,
+      "num": 176280,
+      "word": "坠亡姐弟外婆称心里会痛一辈子",
+      "onboard_time": 1706720065,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175553,
       "num": 215129,
       "word": "难怪有故人之姿 原来是故人之子",
@@ -227,12 +243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170514,
-      "num": 170514,
-      "word": "71岁阿婆成榜一大妈后拿不出看病钱",
-      "onboard_time": 1706736736,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 167022,
+      "num": 167022,
+      "word": "美联储按兵不动",
+      "onboard_time": 1706742740,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 164460,
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161218,
-      "num": 161218,
-      "word": "坠亡姐弟外婆称心里会痛一辈子",
-      "onboard_time": 1706720065,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 164406,
+      "num": 164406,
+      "word": "二月第一天",
+      "onboard_time": 1706742740,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 160760,
@@ -307,20 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138768,
-      "num": 138768,
-      "word": "二月第一天",
-      "onboard_time": 1706742740,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133583,
       "num": 157158,
       "word": "米哈游等遭工信部点名",
       "onboard_time": 1706703151,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131663,
+      "num": 131663,
+      "word": "打雷",
+      "onboard_time": 1706743042,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130000,
@@ -395,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96098,
-      "num": 96098,
-      "word": "美联储按兵不动",
-      "onboard_time": 1706742740,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 95643,
       "num": 95643,
       "word": "想你了融",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 92725,
-      "num": 79149,
+      "num": 92487,
       "word": "这是龙王结婚吗",
       "onboard_time": 1706719108,
       "rank": 30,
@@ -425,6 +433,14 @@
       "onboard_time": 1706697569,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91588,
+      "num": 91588,
+      "word": "俄高官称千岛群岛属俄日本不满意可以切腹",
+      "onboard_time": 1706743344,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 83820,
@@ -451,20 +467,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74413,
+      "num": 74413,
+      "word": "刘德华扫楼听到恭喜发财的反应",
+      "onboard_time": 1706741840,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72120,
       "num": 72120,
       "word": "人民网评吴谢宇案",
       "onboard_time": 1706714732,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64021,
-      "num": 64021,
-      "word": "刘德华扫楼听到恭喜发财的反应",
-      "onboard_time": 1706741840,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 63450,
@@ -475,20 +491,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54043,
-      "num": 54043,
-      "word": "打雷",
-      "onboard_time": 1706743042,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 58554,
+      "num": 58554,
+      "word": "当过年家里有一个没结婚的长辈",
+      "onboard_time": 1706743824,
+      "rank": 38,
+      "category": "幽默"
     },
     {
-      "raw_hot": 43832,
-      "num": 43832,
+      "raw_hot": 50204,
+      "num": 50204,
       "word": "冬天最适合减肉",
       "onboard_time": 1706722581,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 49876,
+      "num": 49876,
+      "word": "新人结婚婆家铺2公里气球路连到娘家",
+      "onboard_time": 1706743524,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42282,
+      "num": 426777,
+      "word": "2月这些新规将要施行",
+      "onboard_time": 1706709153,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42274,
@@ -499,12 +531,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33907,
-      "num": 378895,
-      "word": "2月这些新规将要施行",
-      "onboard_time": 1706709153,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 40788,
+      "num": 45532,
+      "word": "惠英红穿了陈伟霆送的衣服",
+      "onboard_time": 1706729295,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 30602,
@@ -513,14 +545,6 @@
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29503,
-      "num": 29503,
-      "word": "惠英红穿了陈伟霆送的衣服",
-      "onboard_time": 1706729295,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 22861,
