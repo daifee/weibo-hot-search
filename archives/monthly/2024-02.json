@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706729639608,
+  "endTime": 1706732235918,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -443,6 +443,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 23007,
+      "num": 23007,
+      "word": "惠英红穿了陈伟霆送的衣服",
+      "onboard_time": 1706729295,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22861,
       "num": 22861,
       "word": "亚洲杯",
@@ -459,15 +467,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15727,
-      "num": 15727,
-      "word": "惠英红穿了陈伟霆送的衣服",
-      "onboard_time": 1706729295,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 13689,
+      "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
       "onboard_time": 1706728936,
@@ -481,6 +481,14 @@
       "onboard_time": 1706709153,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11687,
+      "num": 12967,
+      "word": "东北大哥的伴手礼都是硬通货",
+      "onboard_time": 1706731816,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
