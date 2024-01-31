@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706704243717,
+  "endTime": 1706705129588,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1218247,
-      "num": 536022,
+      "num": 549722,
       "word": "成毅裤子透光",
       "onboard_time": 1706700629,
       "rank": 21,
@@ -177,6 +177,14 @@
       "onboard_time": 1706667749,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1034600,
+      "num": 1034600,
+      "word": "刘德华已经在超市上了19年班了",
+      "onboard_time": 1706699490,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 1025648,
@@ -225,14 +233,6 @@
       "onboard_time": 1706677359,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 892847,
-      "num": 892847,
-      "word": "刘德华已经在超市上了19年班了",
-      "onboard_time": 1706699490,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 877511,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658657,
+      "num": 658657,
+      "word": "敬业福",
+      "onboard_time": 1706700629,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 653420,
       "num": 334166,
       "word": "谷歌工程师杀妻悲剧发生之前",
@@ -435,20 +443,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 570573,
-      "num": 570573,
-      "word": "敬业福",
-      "onboard_time": 1706700629,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 563663,
       "num": 563663,
       "word": "董宇辉新账号直播间被指大规模抄袭",
       "onboard_time": 1706625693,
       "rank": 4,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 563375,
+      "num": 563375,
+      "word": "米哈游等遭工信部点名",
+      "onboard_time": 1706703151,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 557499,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381553,
+      "num": 381553,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1706700692,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380119,
       "num": 380119,
       "word": "童瑶早就预判了雷东宝的结局",
@@ -817,14 +833,6 @@
       "onboard_time": 1706674597,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358561,
-      "num": 358561,
-      "word": "难怪有故人之姿 原来是故人之子",
-      "onboard_time": 1706700692,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 353811,
@@ -907,20 +915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315958,
-      "num": 315958,
-      "word": "米哈游等遭工信部点名",
-      "onboard_time": 1706703151,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 310112,
       "num": 310112,
       "word": "坚持一年以上的护肤习惯",
       "onboard_time": 1706624251,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 306576,
+      "num": 306576,
+      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+      "onboard_time": 1706703272,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306256,
@@ -1001,6 +1009,22 @@
       "onboard_time": 1706673274,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297097,
+      "num": 297097,
+      "word": "演唱会玩手机的爱豆",
+      "onboard_time": 1706703993,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 295572,
+      "num": 295572,
+      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+      "onboard_time": 1706704112,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293950,
@@ -1563,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194585,
-      "num": 194585,
-      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
-      "onboard_time": 1706703272,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194480,
       "num": 194480,
       "word": "你也有今天番外",
@@ -1715,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178766,
+      "num": 178766,
+      "word": "目黑莲吃草",
+      "onboard_time": 1706703512,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178007,
       "num": 113934,
       "word": "K宝遭禁赛后首发声",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1706673693,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176615,
+      "num": 176615,
+      "word": "杨紫晒破万自拍",
+      "onboard_time": 1706703811,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175757,
@@ -1776,14 +1808,6 @@
       "word": "宋佳太A了",
       "onboard_time": 1706661928,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167613,
-      "num": 167613,
-      "word": "目黑莲吃草",
-      "onboard_time": 1706703512,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1835,28 +1859,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160010,
-      "num": 160010,
-      "word": "杨紫晒破万自拍",
-      "onboard_time": 1706703811,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158867,
       "num": 158867,
       "word": "电竞选手在线送开心龙宝",
       "onboard_time": 1706677117,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158242,
-      "num": 158242,
-      "word": "演唱会玩手机的爱豆",
-      "onboard_time": 1706703993,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 157627,
@@ -1931,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154159,
+      "num": 154159,
+      "word": "章若楠 为成瑶永葆的生命力而开心",
+      "onboard_time": 1706704590,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153518,
       "num": 153518,
       "word": "新东方年会员工吐槽",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1706697751,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152665,
+      "num": 152665,
+      "word": "花儿与少年",
+      "onboard_time": 1706704829,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152508,
@@ -2155,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135824,
-      "num": 135824,
-      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
-      "onboard_time": 1706704112,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135486,
       "num": 135486,
       "word": "河南省考缴费",
@@ -2363,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118440,
+      "num": 118440,
+      "word": "A股出现回购潮",
+      "onboard_time": 1706704769,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118394,
       "num": 118394,
       "word": "女大学生回村的真实生活",
@@ -2497,6 +2521,14 @@
       "onboard_time": 1706657302,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104854,
+      "num": 104854,
+      "word": "新东方及俞敏洪承诺购买东方甄选股份",
+      "onboard_time": 1706705069,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 104274,
@@ -2777,6 +2809,14 @@
       "onboard_time": 1706657664,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44239,
+      "num": 143205,
+      "word": "鸿蒙和MPV能整什么活",
+      "onboard_time": 1706704651,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 40063,

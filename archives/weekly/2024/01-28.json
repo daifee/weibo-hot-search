@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706704243717,
+  "endTime": 1706705129588,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1218247,
-      "num": 536022,
+      "num": 549722,
       "word": "成毅裤子透光",
       "onboard_time": 1706700629,
       "rank": 21,
@@ -681,6 +681,14 @@
       "onboard_time": 1706617650,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1034600,
+      "num": 1034600,
+      "word": "刘德华已经在超市上了19年班了",
+      "onboard_time": 1706699490,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 1025648,
@@ -873,14 +881,6 @@
       "onboard_time": 1706596952,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 892847,
-      "num": 892847,
-      "word": "刘德华已经在超市上了19年班了",
-      "onboard_time": 1706699490,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 882924,
@@ -1873,6 +1873,14 @@
       "onboard_time": 1706439032,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 563375,
+      "num": 563375,
+      "word": "米哈游等遭工信部点名",
+      "onboard_time": 1706703151,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 563022,
@@ -3099,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381553,
+      "num": 381553,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1706700692,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380939,
       "num": 312119,
       "word": "高铁站好多情侣在分别",
@@ -3289,14 +3305,6 @@
       "onboard_time": 1706506889,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358561,
-      "num": 358561,
-      "word": "难怪有故人之姿 原来是故人之子",
-      "onboard_time": 1706700692,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 357920,
@@ -3683,14 +3691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 315958,
-      "num": 315958,
-      "word": "米哈游等遭工信部点名",
-      "onboard_time": 1706703151,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314646,
       "num": 314646,
       "word": "霉霉 我啥也没干",
@@ -3809,6 +3809,14 @@
       "onboard_time": 1706503055,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306576,
+      "num": 306576,
+      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+      "onboard_time": 1706703272,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306256,
@@ -3995,11 +4003,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297097,
+      "num": 297097,
+      "word": "演唱会玩手机的爱豆",
+      "onboard_time": 1706703993,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296828,
       "num": 296828,
       "word": "猴子和猫",
       "onboard_time": 1706518827,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295572,
+      "num": 295572,
+      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+      "onboard_time": 1706704112,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -5939,14 +5963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194585,
-      "num": 194585,
-      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
-      "onboard_time": 1706703272,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194480,
       "num": 194480,
       "word": "你也有今天番外",
@@ -6387,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178766,
+      "num": 178766,
+      "word": "目黑莲吃草",
+      "onboard_time": 1706703512,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178007,
       "num": 154417,
       "word": "K宝遭禁赛后首发声",
@@ -6417,6 +6441,14 @@
       "onboard_time": 1706406988,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176615,
+      "num": 176615,
+      "word": "杨紫晒破万自拍",
+      "onboard_time": 1706703811,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176607,
@@ -6640,14 +6672,6 @@
       "word": "宋佳太A了",
       "onboard_time": 1706661928,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167613,
-      "num": 167613,
-      "word": "目黑莲吃草",
-      "onboard_time": 1706703512,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6899,14 +6923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160010,
-      "num": 160010,
-      "word": "杨紫晒破万自拍",
-      "onboard_time": 1706703811,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 159549,
       "num": 159549,
       "word": "大胖媳妇学汉语太难了",
@@ -6969,14 +6985,6 @@
       "onboard_time": 1706527051,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158242,
-      "num": 158242,
-      "word": "演唱会玩手机的爱豆",
-      "onboard_time": 1706703993,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 157693,
@@ -7203,6 +7211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154159,
+      "num": 154159,
+      "word": "章若楠 为成瑶永葆的生命力而开心",
+      "onboard_time": 1706704590,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154111,
       "num": 154111,
       "word": "辛芷蕾复古爆炸头",
@@ -7281,6 +7297,14 @@
       "onboard_time": 1706627372,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152665,
+      "num": 152665,
+      "word": "花儿与少年",
+      "onboard_time": 1706704829,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152508,
@@ -8073,14 +8097,6 @@
       "onboard_time": 1706419710,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135824,
-      "num": 135824,
-      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
-      "onboard_time": 1706704112,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135486,
@@ -9067,6 +9083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118440,
+      "num": 118440,
+      "word": "A股出现回购潮",
+      "onboard_time": 1706704769,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118394,
       "num": 118394,
       "word": "女大学生回村的真实生活",
@@ -9817,6 +9841,14 @@
       "onboard_time": 1706438730,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104854,
+      "num": 104854,
+      "word": "新东方及俞敏洪承诺购买东方甄选股份",
+      "onboard_time": 1706705069,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 104671,
@@ -10881,6 +10913,14 @@
       "onboard_time": 1706657664,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44239,
+      "num": 143205,
+      "word": "鸿蒙和MPV能整什么活",
+      "onboard_time": 1706704651,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 43200,
