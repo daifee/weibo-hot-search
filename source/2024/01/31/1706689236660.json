@@ -1,0 +1,410 @@
+{
+  "runTime": 1706689236660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2516911,
+        "num": 2516911,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1596357,
+        "num": 1596357,
+        "word": "躲过新冠没躲过这次咽喉炎",
+        "onboard_time": 1706681612,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14979,
+        "num": 1458774,
+        "word": "龙年你想遇到怎样的自己",
+        "onboard_time": 1706688991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429043,
+        "num": 1429043,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940024,
+        "num": 940024,
+        "word": "重庆姐弟坠亡案被告人被执行死刑",
+        "onboard_time": 1706673030,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860816,
+        "num": 860816,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1706676097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823127,
+        "num": 823127,
+        "word": "吴谢宇被执行死刑",
+        "onboard_time": 1706668532,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798200,
+        "num": 798200,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743788,
+        "num": 743788,
+        "word": "河北农大回应加塞骂人车主身份",
+        "onboard_time": 1706686111,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554629,
+        "num": 554629,
+        "word": "花儿与少年 超哥说了啥",
+        "onboard_time": 1706678497,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665186,
+        "num": 541707,
+        "word": "河北农大",
+        "onboard_time": 1706684727,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581348,
+        "num": 516104,
+        "word": "吴尊称呼女儿二老婆",
+        "onboard_time": 1706673512,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468959,
+        "num": 468959,
+        "word": "坠亡姐弟案女孩出发前还说想爸爸",
+        "onboard_time": 1706684191,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403587,
+        "num": 403587,
+        "word": "美甲店开始收春节费了",
+        "onboard_time": 1706683412,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 390898,
+        "num": 390898,
+        "word": "丹东小草莓下苏杭冻出高原红",
+        "onboard_time": 1706686053,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 327545,
+        "num": 327545,
+        "word": "易烊千玺工作室包场赵丽颖新电影",
+        "onboard_time": 1706683231,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311451,
+        "num": 311451,
+        "word": "秦海璐怎么还戴着耳机",
+        "onboard_time": 1706681788,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302495,
+        "num": 302495,
+        "word": "57岁王祖贤素颜自拍",
+        "onboard_time": 1706684672,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301230,
+        "num": 301230,
+        "word": "文俊辉向成员们安利四川火锅",
+        "onboard_time": 1706687551,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294918,
+        "num": 294918,
+        "word": "胡锡进建议等股市缓过元气再推动公司上市",
+        "onboard_time": 1706683112,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293243,
+        "num": 293243,
+        "word": "张庭方否认在迪拜买房",
+        "onboard_time": 1706688151,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282298,
+        "num": 282298,
+        "word": "湄公河行动演员确诊肿瘤",
+        "onboard_time": 1706688933,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62063,
+        "num": 253114,
+        "word": "烟火气里的家乡",
+        "onboard_time": 1706668532,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234946,
+        "num": 234946,
+        "word": "叶诚尘检举揭发他人犯罪不属实",
+        "onboard_time": 1706678554,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231498,
+        "num": 231498,
+        "word": "美甲 排队",
+        "onboard_time": 1706675378,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225780,
+        "num": 225780,
+        "word": "LOL爆改陈泽",
+        "onboard_time": 1706688991,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 222685,
+        "num": 222685,
+        "word": "张波叶诚尘谋划半年下手2次才得逞",
+        "onboard_time": 1706688272,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221899,
+        "num": 221899,
+        "word": "关晓彤学不完根本学不完",
+        "onboard_time": 1706687789,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217057,
+        "num": 217057,
+        "word": "知情人称吴谢宇家属正准备处理后事",
+        "onboard_time": 1706688450,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216771,
+        "num": 216771,
+        "word": "董宇辉回应东方甄选年会痛哭",
+        "onboard_time": 1706685211,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 211306,
+        "num": 211306,
+        "word": "过年三件套",
+        "onboard_time": 1706687191,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197687,
+        "num": 197687,
+        "word": "TTG好牛的团战",
+        "onboard_time": 1706685872,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175716,
+        "num": 175716,
+        "word": "周冬雨爱爱马思纯",
+        "onboard_time": 1706680112,
+        "rank": 32,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 175273,
+        "num": 175273,
+        "word": "张庭夫妇 6套别墅",
+        "onboard_time": 1706677359,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174279,
+        "num": 174279,
+        "word": "湛江警方通报奔驰车主徐闻港插队事件",
+        "onboard_time": 1706688571,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172593,
+        "num": 172593,
+        "word": "我妈是NPC 一靠近她就有任务",
+        "onboard_time": 1706684251,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163918,
+        "num": 163918,
+        "word": "易烊千玺当选中国影协理事",
+        "onboard_time": 1706672730,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159764,
+        "num": 159764,
+        "word": "AG对战TTG",
+        "onboard_time": 1706683051,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157627,
+        "num": 157627,
+        "word": "怎么连猫猫都骗啊",
+        "onboard_time": 1706688333,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144697,
+        "num": 144697,
+        "word": "A股",
+        "onboard_time": 1706682751,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142893,
+        "num": 142893,
+        "word": "秦岚迪丽热巴当面嗑一生辛胡",
+        "onboard_time": 1706686351,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142494,
+        "num": 142494,
+        "word": "喜茶联名繁花",
+        "onboard_time": 1706677835,
+        "rank": 41,
+        "category": "美食,剧集"
+      },
+      {
+        "raw_hot": 141666,
+        "num": 141666,
+        "word": "原来练背才是瘦脸捷径",
+        "onboard_time": 1706677475,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138912,
+        "num": 138912,
+        "word": "窦靖童马思纯同框旧照",
+        "onboard_time": 1706688333,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138087,
+        "num": 138087,
+        "word": "自热米饭的米不是真大米",
+        "onboard_time": 1706667749,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131336,
+        "num": 131336,
+        "word": "下班自由",
+        "onboard_time": 1706687312,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128909,
+        "num": 128909,
+        "word": "过年月嫂要求给三倍工资",
+        "onboard_time": 1706676937,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117875,
+        "num": 117875,
+        "word": "科学家发现鼻后有个大脑污水系统",
+        "onboard_time": 1706676937,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16384,
+        "num": 114501,
+        "word": "我的超能力是事事超出我能力",
+        "onboard_time": 1706687373,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113436,
+        "num": 113436,
+        "word": "2024央视网络春晚首波阵容",
+        "onboard_time": 1706686771,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#42位驻华大使递交国书#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706686432212,
+  "endTime": 1706689236660,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -27,8 +27,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2516911,
+      "num": 2516911,
+      "word": "曲婉婷发文",
+      "onboard_time": 1706686053,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2316396,
-      "num": 1330610,
+      "num": 1429043,
       "word": "男子当小三破坏军婚获刑10个月",
       "onboard_time": 1706681554,
       "rank": 13,
@@ -51,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1596357,
+      "num": 1596357,
+      "word": "躲过新冠没躲过这次咽喉炎",
+      "onboard_time": 1706681612,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1588171,
       "num": 1588171,
       "word": "城管局副局长与女教师车内中毒死亡",
       "onboard_time": 1706673693,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1521387,
-      "num": 1521387,
-      "word": "躲过新冠没躲过这次咽喉炎",
-      "onboard_time": 1706681612,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1443702,
@@ -195,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743788,
+      "num": 743788,
+      "word": "河北农大回应加塞骂人车主身份",
+      "onboard_time": 1706686111,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665186,
+      "num": 541707,
+      "word": "河北农大",
+      "onboard_time": 1706684727,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661579,
       "num": 661579,
       "word": "刘雨欣与女儿合照",
@@ -265,14 +289,6 @@
       "onboard_time": 1706683112,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 567773,
-      "num": 567773,
-      "word": "曲婉婷发文",
-      "onboard_time": 1706686053,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 563663,
@@ -377,6 +393,14 @@
       "onboard_time": 1706620412,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468959,
+      "num": 468959,
+      "word": "坠亡姐弟案女孩出发前还说想爸爸",
+      "onboard_time": 1706684191,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456090,
@@ -489,6 +513,14 @@
       "onboard_time": 1706676997,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390898,
+      "num": 390898,
+      "word": "丹东小草莓下苏杭冻出高原红",
+      "onboard_time": 1706686053,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 387717,
@@ -627,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305918,
-      "num": 305918,
-      "word": "坠亡姐弟案女孩出发前还说想爸爸",
-      "onboard_time": 1706684191,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 302495,
+      "num": 302495,
+      "word": "57岁王祖贤素颜自拍",
+      "onboard_time": 1706684672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 301460,
@@ -640,6 +672,14 @@
       "word": "曹璐报名乘风2024",
       "onboard_time": 1706660368,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301230,
+      "num": 301230,
+      "word": "文俊辉向成员们安利四川火锅",
+      "onboard_time": 1706687551,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -659,20 +699,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 296510,
-      "num": 296510,
-      "word": "57岁王祖贤素颜自拍",
-      "onboard_time": 1706684672,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293950,
       "num": 293950,
       "word": "秦海璐迪丽热巴最早的交集在2018年",
       "onboard_time": 1706630427,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293243,
+      "num": 293243,
+      "word": "张庭方否认在迪拜买房",
+      "onboard_time": 1706688151,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 293200,
@@ -691,6 +731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 282298,
+      "num": 282298,
+      "word": "湄公河行动演员确诊肿瘤",
+      "onboard_time": 1706688933,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279669,
       "num": 279669,
       "word": "古偶致命四连击",
@@ -705,14 +753,6 @@
       "onboard_time": 1706662051,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 277046,
-      "num": 277046,
-      "word": "河北农大",
-      "onboard_time": 1706684727,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276859,
@@ -859,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231815,
-      "num": 231815,
-      "word": "河北农大回应加塞骂人车主身份",
-      "onboard_time": 1706686111,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228926,
       "num": 228926,
       "word": "对方及时撤回了一双鞋",
@@ -891,6 +923,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 225780,
+      "num": 225780,
+      "word": "LOL爆改陈泽",
+      "onboard_time": 1706688991,
+      "rank": 25,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 223816,
       "num": 223816,
       "word": "河北省人民医院回应现丁义珍式窗口",
@@ -907,6 +947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222685,
+      "num": 222685,
+      "word": "张波叶诚尘谋划半年下手2次才得逞",
+      "onboard_time": 1706688272,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221899,
+      "num": 221899,
+      "word": "关晓彤学不完根本学不完",
+      "onboard_time": 1706687789,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221037,
       "num": 221037,
       "word": "小豆豆一步一步走到了春晚",
@@ -921,6 +977,14 @@
       "onboard_time": 1706625333,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217057,
+      "num": 217057,
+      "word": "知情人称吴谢宇家属正准备处理后事",
+      "onboard_time": 1706688450,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216270,
@@ -967,6 +1031,14 @@
       "num": 167298,
       "word": "好同情她小孩",
       "onboard_time": 1706667088,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "过年三件套",
+      "onboard_time": 1706687191,
       "rank": 30,
       "category": "情感"
     },
@@ -1059,20 +1131,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 197687,
+      "num": 197687,
+      "word": "TTG好牛的团战",
+      "onboard_time": 1706685872,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196871,
       "num": 196871,
       "word": "花少团正主带头嗑cp",
       "onboard_time": 1706678972,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194640,
-      "num": 194640,
-      "word": "TTG好牛的团战",
-      "onboard_time": 1706685872,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 193807,
@@ -1129,14 +1201,6 @@
       "onboard_time": 1706625993,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182191,
-      "num": 182191,
-      "word": "丹东小草莓下苏杭冻出高原红",
-      "onboard_time": 1706686053,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 182172,
@@ -1203,6 +1267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174279,
+      "num": 174279,
+      "word": "湛江警方通报奔驰车主徐闻港插队事件",
+      "onboard_time": 1706688571,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167638,
       "num": 167638,
       "word": "宋佳太A了",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1706677117,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157627,
+      "num": 157627,
+      "word": "怎么连猫猫都骗啊",
+      "onboard_time": 1706688333,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 157585,
@@ -1387,6 +1467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142893,
+      "num": 142893,
+      "word": "秦岚迪丽热巴当面嗑一生辛胡",
+      "onboard_time": 1706686351,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141630,
       "num": 141630,
       "word": "当财神遇上月老",
@@ -1427,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138912,
+      "num": 138912,
+      "word": "窦靖童马思纯同框旧照",
+      "onboard_time": 1706688333,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138814,
       "num": 138814,
       "word": "老师我们家霸总怎么了",
@@ -1459,14 +1555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 135203,
-      "num": 135203,
-      "word": "秦岚迪丽热巴当面嗑一生辛胡",
-      "onboard_time": 1706686351,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "勇士战胜76人",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1706669493,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131336,
+      "num": 131336,
+      "word": "下班自由",
+      "onboard_time": 1706687312,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 129030,
@@ -1593,6 +1689,14 @@
       "onboard_time": 1706660188,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113436,
+      "num": 113436,
+      "word": "2024央视网络春晚首波阵容",
+      "onboard_time": 1706686771,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111824,
@@ -1921,6 +2025,22 @@
       "onboard_time": 1706639058,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16384,
+      "num": 114501,
+      "word": "我的超能力是事事超出我能力",
+      "onboard_time": 1706687373,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14979,
+      "num": 1458774,
+      "word": "龙年你想遇到怎样的自己",
+      "onboard_time": 1706688991,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11855,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706686432212,
+  "endTime": 1706689236660,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -67,8 +67,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2516911,
+      "num": 2516911,
+      "word": "曲婉婷发文",
+      "onboard_time": 1706686053,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2316396,
-      "num": 1330610,
+      "num": 1429043,
       "word": "男子当小三破坏军婚获刑10个月",
       "onboard_time": 1706681554,
       "rank": 13,
@@ -219,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1596357,
+      "num": 1596357,
+      "word": "躲过新冠没躲过这次咽喉炎",
+      "onboard_time": 1706681612,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1592706,
       "num": 1592706,
       "word": "得州与美政府武装对峙",
@@ -272,14 +288,6 @@
       "word": "拖着不洗头 堵塞毛囊",
       "onboard_time": 1706576968,
       "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1521387,
-      "num": 1521387,
-      "word": "躲过新冠没躲过这次咽喉炎",
-      "onboard_time": 1706681612,
-      "rank": 28,
       "category": "健康医疗"
     },
     {
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743788,
+      "num": 743788,
+      "word": "河北农大回应加塞骂人车主身份",
+      "onboard_time": 1706686111,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739223,
       "num": 1531709,
       "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1706436448,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 665186,
+      "num": 541707,
+      "word": "河北农大",
+      "onboard_time": 1706684727,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662931,
@@ -1697,14 +1721,6 @@
       "onboard_time": 1706683112,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 567773,
-      "num": 567773,
-      "word": "曲婉婷发文",
-      "onboard_time": 1706686053,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 563989,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1706356109,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 468959,
+      "num": 468959,
+      "word": "坠亡姐弟案女孩出发前还说想爸爸",
+      "onboard_time": 1706684191,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468865,
@@ -2729,6 +2753,14 @@
       "onboard_time": 1706676997,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390898,
+      "num": 390898,
+      "word": "丹东小草莓下苏杭冻出高原红",
+      "onboard_time": 1706686053,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 389630,
@@ -3531,14 +3563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305918,
-      "num": 305918,
-      "word": "坠亡姐弟案女孩出发前还说想爸爸",
-      "onboard_time": 1706684191,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305400,
       "num": 305400,
       "word": "蓝二你偷偷藏不住了",
@@ -3563,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302495,
+      "num": 302495,
+      "word": "57岁王祖贤素颜自拍",
+      "onboard_time": 1706684672,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302370,
       "num": 302370,
       "word": "杨幂拍哈尔滨1944没带剧本到现场",
@@ -3584,6 +3616,14 @@
       "word": "曹璐报名乘风2024",
       "onboard_time": 1706660368,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301230,
+      "num": 301230,
+      "word": "文俊辉向成员们安利四川火锅",
+      "onboard_time": 1706687551,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -3667,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296510,
-      "num": 296510,
-      "word": "57岁王祖贤素颜自拍",
-      "onboard_time": 1706684672,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294098,
       "num": 257957,
       "word": "赵丽颖红妆写真",
@@ -3697,6 +3729,14 @@
       "onboard_time": 1706630427,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293243,
+      "num": 293243,
+      "word": "张庭方否认在迪拜买房",
+      "onboard_time": 1706688151,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 293200,
@@ -3803,6 +3843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282298,
+      "num": 282298,
+      "word": "湄公河行动演员确诊肿瘤",
+      "onboard_time": 1706688933,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281544,
       "num": 252367,
       "word": "男子植入国产人工心脏后第一天就下床锻炼",
@@ -3849,14 +3897,6 @@
       "onboard_time": 1706662051,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 277046,
-      "num": 277046,
-      "word": "河北农大",
-      "onboard_time": 1706684727,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276859,
@@ -4411,14 +4451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231815,
-      "num": 231815,
-      "word": "河北农大回应加塞骂人车主身份",
-      "onboard_time": 1706686111,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231169,
       "num": 231169,
       "word": "花花有了新玩具",
@@ -4523,6 +4555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225780,
+      "num": 225780,
+      "word": "LOL爆改陈泽",
+      "onboard_time": 1706688991,
+      "rank": 25,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "马斯克重夺世界首富位置",
@@ -4571,12 +4611,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222685,
+      "num": 222685,
+      "word": "张波叶诚尘谋划半年下手2次才得逞",
+      "onboard_time": 1706688272,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222031,
       "num": 222031,
       "word": "上海图书馆回应馆内一把躺椅数万元",
       "onboard_time": 1706414248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221899,
+      "num": 221899,
+      "word": "关晓彤学不完根本学不完",
+      "onboard_time": 1706687789,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 221850,
@@ -4705,6 +4761,14 @@
       "onboard_time": 1706587890,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217057,
+      "num": 217057,
+      "word": "知情人称吴谢宇家属正准备处理后事",
+      "onboard_time": 1706688450,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216355,
@@ -4889,6 +4953,14 @@
       "onboard_time": 1706434590,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "过年三件套",
+      "onboard_time": 1706687191,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 211052,
@@ -5339,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197687,
+      "num": 197687,
+      "word": "TTG好牛的团战",
+      "onboard_time": 1706685872,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197347,
       "num": 179646,
       "word": "辛纳连扳两盘",
@@ -5449,14 +5529,6 @@
       "onboard_time": 1706526093,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194640,
-      "num": 194640,
-      "word": "TTG好牛的团战",
-      "onboard_time": 1706685872,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 193807,
@@ -5763,14 +5835,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 182191,
-      "num": 182191,
-      "word": "丹东小草莓下苏杭冻出高原红",
-      "onboard_time": 1706686053,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 182172,
       "num": 182172,
       "word": "年轻人为什么恐惧接电话",
@@ -5961,6 +6025,14 @@
       "onboard_time": 1706568380,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174279,
+      "num": 174279,
+      "word": "湛江警方通报奔驰车主徐闻港插队事件",
+      "onboard_time": 1706688571,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174007,
@@ -6417,6 +6489,14 @@
       "onboard_time": 1706360913,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157627,
+      "num": 157627,
+      "word": "怎么连猫猫都骗啊",
+      "onboard_time": 1706688333,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 157590,
@@ -7043,6 +7123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142893,
+      "num": 142893,
+      "word": "秦岚迪丽热巴当面嗑一生辛胡",
+      "onboard_time": 1706686351,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142380,
       "num": 142380,
       "word": "一次性蛋糕盘可以折起来用",
@@ -7235,6 +7323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138912,
+      "num": 138912,
+      "word": "窦靖童马思纯同框旧照",
+      "onboard_time": 1706688333,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138901,
       "num": 138901,
       "word": "周琦违体犯规",
@@ -7403,14 +7499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135203,
-      "num": 135203,
-      "word": "秦岚迪丽热巴当面嗑一生辛胡",
-      "onboard_time": 1706686351,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "勇士战胜76人",
@@ -7577,6 +7665,14 @@
       "onboard_time": 1706415748,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131336,
+      "num": 131336,
+      "word": "下班自由",
+      "onboard_time": 1706687312,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 131330,
@@ -8577,6 +8673,14 @@
       "onboard_time": 1706519490,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113436,
+      "num": 113436,
+      "word": "2024央视网络春晚首波阵容",
+      "onboard_time": 1706686771,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113422,
@@ -10243,10 +10347,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16384,
+      "num": 114501,
+      "word": "我的超能力是事事超出我能力",
+      "onboard_time": 1706687373,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15174,
       "num": 1217349,
       "word": "铁花雨下舞龙年味这就来了",
       "onboard_time": 1706404948,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14979,
+      "num": 1458774,
+      "word": "龙年你想遇到怎样的自己",
+      "onboard_time": 1706688991,
       "rank": 2,
       "category": "社会新闻"
     },
