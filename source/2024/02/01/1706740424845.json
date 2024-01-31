@@ -1,0 +1,410 @@
+{
+  "runTime": 1706740424845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 237408,
+        "num": 237408,
+        "word": "尿毒症是吃出来的",
+        "onboard_time": 1706712333,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179179,
+        "num": 179179,
+        "word": "网红帮女生找到失散22年妈妈",
+        "onboard_time": 1706716950,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 16429,
+        "num": 147271,
+        "word": "2月这些新规将要施行",
+        "onboard_time": 1706709153,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144425,
+        "num": 144425,
+        "word": "张波叶诚尘一审互咬二审互助",
+        "onboard_time": 1706711072,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123133,
+        "num": 123133,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121498,
+        "num": 121498,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120679,
+        "num": 120679,
+        "word": "男星粉丝多次发图被指滥用警徽",
+        "onboard_time": 1706725339,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97058,
+        "num": 97058,
+        "word": "在人间 辛芷蕾",
+        "onboard_time": 1706713294,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83251,
+        "num": 83251,
+        "word": "中国排名第五的大学",
+        "onboard_time": 1706709333,
+        "rank": 8,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 72015,
+        "num": 72015,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83745,
+        "num": 70508,
+        "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+        "onboard_time": 1706733017,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83712,
+        "num": 67739,
+        "word": "71岁阿婆成榜一大妈后拿不出看病钱",
+        "onboard_time": 1706736736,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64830,
+        "num": 64830,
+        "word": "没有血缘关系也能长得像",
+        "onboard_time": 1706713774,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61506,
+        "num": 61506,
+        "word": "车厘子只看几个J谁买谁是大冤种",
+        "onboard_time": 1706709694,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57774,
+        "num": 57774,
+        "word": "王安宇好多白头发",
+        "onboard_time": 1706708912,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56187,
+        "num": 56187,
+        "word": "胡先煦 我人都嗑傻了",
+        "onboard_time": 1706711614,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54722,
+        "num": 54722,
+        "word": "李一桐白鹿撞造型",
+        "onboard_time": 1706710354,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54600,
+        "num": 54600,
+        "word": "谢娜求婚好抓马",
+        "onboard_time": 1706714792,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51576,
+        "num": 51576,
+        "word": "坠亡姐弟外婆称心里会痛一辈子",
+        "onboard_time": 1706720065,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46801,
+        "num": 46801,
+        "word": "潘玮柏宣云芬兰看极光",
+        "onboard_time": 1706739198,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68407,
+        "num": 44341,
+        "word": "要结婚了才发现自己是小学学历",
+        "onboard_time": 1706710235,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39662,
+        "num": 39662,
+        "word": "二月狗屎运最旺的星座",
+        "onboard_time": 1706712993,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37446,
+        "num": 37446,
+        "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+        "onboard_time": 1706706993,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35886,
+        "num": 35886,
+        "word": "小杨哥额头受伤",
+        "onboard_time": 1706715870,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35464,
+        "num": 35464,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33631,
+        "num": 33631,
+        "word": "这是龙王结婚吗",
+        "onboard_time": 1706719108,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32282,
+        "num": 32282,
+        "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+        "onboard_time": 1706703272,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31767,
+        "num": 31767,
+        "word": "男子爬乐山大佛头顶小便",
+        "onboard_time": 1706710537,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30268,
+        "num": 30268,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22424,
+        "num": 29523,
+        "word": "米哈游等遭工信部点名",
+        "onboard_time": 1706703151,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29472,
+        "num": 29472,
+        "word": "突然期待情人节了",
+        "onboard_time": 1706715151,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28909,
+        "num": 28909,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28701,
+        "num": 28701,
+        "word": "肖战张婧仪藏海传路透",
+        "onboard_time": 1706712333,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27768,
+        "num": 27768,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27595,
+        "num": 27595,
+        "word": "田馥甄否认遭暗捅",
+        "onboard_time": 1706714072,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26518,
+        "num": 26518,
+        "word": "迪丽热巴红衣旧照",
+        "onboard_time": 1706712570,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25861,
+        "num": 25861,
+        "word": "惠英红穿了陈伟霆送的衣服",
+        "onboard_time": 1706729295,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25740,
+        "num": 25740,
+        "word": "男子开飞机带女儿回家过年",
+        "onboard_time": 1706713354,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24682,
+        "num": 24682,
+        "word": "冬天最适合减肉",
+        "onboard_time": 1706722581,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24139,
+        "num": 24139,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22952,
+        "num": 22952,
+        "word": "张译 这多少有点冒昧了",
+        "onboard_time": 1706715513,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22771,
+        "num": 22771,
+        "word": "2月十二星座注意事项",
+        "onboard_time": 1706712394,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20126,
+        "num": 20126,
+        "word": "日本门将离谱失误",
+        "onboard_time": 1706734755,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18006,
+        "num": 18006,
+        "word": "Jessi与朴宰范公司解约",
+        "onboard_time": 1706708975,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17421,
+        "num": 17421,
+        "word": "EDG官宣Thesnake上调",
+        "onboard_time": 1706712694,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16519,
+        "num": 16519,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16338,
+        "num": 16338,
+        "word": "演唱会玩手机的爱豆",
+        "onboard_time": 1706703993,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15973,
+        "num": 15973,
+        "word": "刘诗诗直播妆造",
+        "onboard_time": 1706706514,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 15783,
+        "num": 15783,
+        "word": "东北大哥的伴手礼都是硬通货",
+        "onboard_time": 1706731816,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15735,
+        "num": 15735,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706739413587,
+  "endTime": 1706740424845,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -395,6 +395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83745,
+      "num": 70508,
+      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+      "onboard_time": 1706733017,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83712,
+      "num": 67739,
+      "word": "71岁阿婆成榜一大妈后拿不出看病钱",
+      "onboard_time": 1706736736,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82232,
       "num": 82232,
       "word": "邓为向涵之吻戏路透",
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66019,
-      "num": 62284,
-      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
-      "onboard_time": 1706733017,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63450,
       "num": 687985,
       "word": "春运安全出行天气地图",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55573,
-      "num": 55573,
-      "word": "71岁阿婆成榜一大妈后拿不出看病钱",
-      "onboard_time": 1706736736,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 46801,
+      "num": 46801,
+      "word": "潘玮柏宣云芬兰看极光",
+      "onboard_time": 1706739198,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 42274,
@@ -459,20 +467,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 24082,
-      "num": 24082,
+      "raw_hot": 25861,
+      "num": 25861,
       "word": "惠英红穿了陈伟霆送的衣服",
       "onboard_time": 1706729295,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23002,
-      "num": 23002,
-      "word": "潘玮柏宣云芬兰看极光",
-      "onboard_time": 1706739198,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 22861,
@@ -483,12 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18385,
-      "num": 18385,
+      "raw_hot": 20126,
+      "num": 20126,
       "word": "日本门将离谱失误",
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16429,
+      "num": 194882,
+      "word": "2月这些新规将要施行",
+      "onboard_time": 1706709153,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16163,
@@ -499,28 +507,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15209,
-      "num": 15689,
-      "word": "说一个你最近才知道的冷知识",
-      "onboard_time": 1706728936,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 13723,
-      "num": 14052,
+      "raw_hot": 15783,
+      "num": 15783,
       "word": "东北大哥的伴手礼都是硬通货",
       "onboard_time": 1706731816,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 13416,
-      "num": 194882,
-      "word": "2月这些新规将要施行",
-      "onboard_time": 1706709153,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 15209,
+      "num": 15689,
+      "word": "说一个你最近才知道的冷知识",
+      "onboard_time": 1706728936,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10573,
