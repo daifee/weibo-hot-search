@@ -1,0 +1,410 @@
+{
+  "runTime": 1706667756668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2239234,
+        "num": 2239234,
+        "word": "缅北电诈四大家族覆灭",
+        "onboard_time": 1706661628,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006805,
+        "num": 1006805,
+        "word": "韩安冉发火",
+        "onboard_time": 1706658384,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34616,
+        "num": 1003455,
+        "word": "年货大集里的浓浓年味",
+        "onboard_time": 1706618732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003067,
+        "num": 1003067,
+        "word": "女子得知老公从8米坠落崩溃不敢开车",
+        "onboard_time": 1706663911,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629313,
+        "num": 629313,
+        "word": "刘雨欣与女儿合照",
+        "onboard_time": 1706665408,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589123,
+        "num": 589123,
+        "word": "孤注一掷",
+        "onboard_time": 1706665108,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514829,
+        "num": 514829,
+        "word": "热巴 盲目夸自家孩子的家长",
+        "onboard_time": 1706664270,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432683,
+        "num": 432683,
+        "word": "A股",
+        "onboard_time": 1706666551,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393497,
+        "num": 393497,
+        "word": "河南省考 转圈中",
+        "onboard_time": 1706665049,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 373500,
+        "num": 373500,
+        "word": "小猫误入派出所骗吃骗喝一个月",
+        "onboard_time": 1706636240,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151253,
+        "num": 373202,
+        "word": "萨沙结婚",
+        "onboard_time": 1706662589,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 450040,
+        "num": 372932,
+        "word": "英国考虑正式承认巴勒斯坦国",
+        "onboard_time": 1706666667,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 368744,
+        "num": 368744,
+        "word": "蔡徐坤新歌RIDEORDIE",
+        "onboard_time": 1706666790,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345437,
+        "num": 345437,
+        "word": "驻韩美军战斗机在韩国坠落",
+        "onboard_time": 1706663969,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343077,
+        "num": 343077,
+        "word": "遭奔驰加塞砸车女子称对方还未道歉",
+        "onboard_time": 1706658085,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333675,
+        "num": 333675,
+        "word": "今冬最强雨雪要来了",
+        "onboard_time": 1706660249,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307481,
+        "num": 307481,
+        "word": "周一围用手接朱丹吐的樱桃核",
+        "onboard_time": 1706656581,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302471,
+        "num": 302471,
+        "word": "童瑶早就预判了雷东宝的结局",
+        "onboard_time": 1706627013,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298405,
+        "num": 298405,
+        "word": "长沙地铁",
+        "onboard_time": 1706664509,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247228,
+        "num": 247228,
+        "word": "为什么上班只是坐着还感觉这么累",
+        "onboard_time": 1706659710,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217308,
+        "num": 217308,
+        "word": "我妈居然敢把我和年货放一个屋里",
+        "onboard_time": 1706662051,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208617,
+        "num": 208617,
+        "word": "小学生寒假作业要求填写家庭收入",
+        "onboard_time": 1706664869,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203437,
+        "num": 203437,
+        "word": "古偶致命四连击",
+        "onboard_time": 1706657785,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "缅甸白所成父子被移交我公安机关",
+        "onboard_time": 1706624974,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191408,
+        "num": 191408,
+        "word": "柳智敏自曝有舞台恐惧症",
+        "onboard_time": 1706662649,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181912,
+        "num": 181912,
+        "word": "董宇辉新账号直播间被指大规模抄袭",
+        "onboard_time": 1706625693,
+        "rank": 25,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 176842,
+        "num": 176842,
+        "word": "关茈文刘芬",
+        "onboard_time": 1706661211,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176233,
+        "num": 176233,
+        "word": "女儿考第1爸爸走出6亲不认的步伐",
+        "onboard_time": 1706657364,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172697,
+        "num": 172697,
+        "word": "江西抚州高彩礼会被写上黑榜",
+        "onboard_time": 1706661029,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169790,
+        "num": 169790,
+        "word": "宋佳周迅我有点嗑你俩了",
+        "onboard_time": 1706662831,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167298,
+        "num": 167298,
+        "word": "好同情她小孩",
+        "onboard_time": 1706667088,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165511,
+        "num": 165511,
+        "word": "河北省人民医院回应现丁义珍式窗口",
+        "onboard_time": 1706661269,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164735,
+        "num": 164735,
+        "word": "视频梳理打击缅北涉我电诈重大战果",
+        "onboard_time": 1706667088,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156132,
+        "num": 156132,
+        "word": "广西妈妈东北旅游后连做5天锅包肉",
+        "onboard_time": 1706666191,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147492,
+        "num": 147492,
+        "word": "支付宝福气店",
+        "onboard_time": 1706667510,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142421,
+        "num": 142421,
+        "word": "年轻人为什么会有过年回家焦虑",
+        "onboard_time": 1706663253,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140581,
+        "num": 140581,
+        "word": "五险一金整明白了",
+        "onboard_time": 1706659828,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135486,
+        "num": 135486,
+        "word": "河南省考缴费",
+        "onboard_time": 1706665289,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131400,
+        "num": 131400,
+        "word": "曹璐报名乘风2024",
+        "onboard_time": 1706660368,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129314,
+        "num": 129314,
+        "word": "鹤岗未经许可派丹顶鹤到哈尔滨被罚",
+        "onboard_time": 1706629168,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122923,
+        "num": 122923,
+        "word": "和我老公结婚吧",
+        "onboard_time": 1706658384,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121694,
+        "num": 121694,
+        "word": "坚持一年以上的护肤习惯",
+        "onboard_time": 1706624251,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120800,
+        "num": 120800,
+        "word": "缅北白所成刘正祥打脸语录",
+        "onboard_time": 1706662051,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119734,
+        "num": 119734,
+        "word": "87岁老人在美三次遇袭决定搬回中国",
+        "onboard_time": 1706656281,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116560,
+        "num": 116560,
+        "word": "暴雪预警",
+        "onboard_time": 1706616511,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114834,
+        "num": 114834,
+        "word": "秦海璐迪丽热巴最早的交集在2018年",
+        "onboard_time": 1706630427,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110190,
+        "num": 110190,
+        "word": "浙里的爱意明目张胆",
+        "onboard_time": 1706667268,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109788,
+        "num": 109788,
+        "word": "你会买2万多的苹果头显吗",
+        "onboard_time": 1706656281,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107929,
+        "num": 107929,
+        "word": "自热米饭的米不是真大米",
+        "onboard_time": 1706667749,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107544,
+        "num": 107544,
+        "word": "马斯克询问网友是否更改特斯拉注册地",
+        "onboard_time": 1706667389,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}

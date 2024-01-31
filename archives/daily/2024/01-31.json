@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706664685786,
+  "endTime": 1706667756668,
   "band_list": [
     {
       "raw_hot": 3485180,
@@ -35,6 +35,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1003067,
+      "num": 1003067,
+      "word": "女子得知老公从8米坠落崩溃不敢开车",
+      "onboard_time": 1706663911,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 989742,
       "num": 989742,
       "word": "暴雪预警",
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629313,
+      "num": 629313,
+      "word": "刘雨欣与女儿合照",
+      "onboard_time": 1706665408,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610547,
       "num": 329645,
       "word": "山竹醇",
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589123,
+      "num": 589123,
+      "word": "孤注一掷",
+      "onboard_time": 1706665108,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 563663,
       "num": 563663,
       "word": "董宇辉新账号直播间被指大规模抄袭",
@@ -88,6 +112,14 @@
       "word": "周一围用手接朱丹吐的樱桃核",
       "onboard_time": 1706656581,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 514829,
+      "num": 514829,
+      "word": "热巴 盲目夸自家孩子的家长",
+      "onboard_time": 1706664270,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -131,12 +163,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 450040,
+      "num": 372932,
+      "word": "英国考虑正式承认巴勒斯坦国",
+      "onboard_time": 1706666667,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 441767,
       "num": 441767,
       "word": "87岁老人在美三次遇袭决定搬回中国",
       "onboard_time": 1706656281,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432683,
+      "num": 432683,
+      "word": "A股",
+      "onboard_time": 1706666551,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 393497,
+      "num": 393497,
+      "word": "河南省考 转圈中",
+      "onboard_time": 1706665049,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 387717,
@@ -171,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368744,
+      "num": 368744,
+      "word": "蔡徐坤新歌RIDEORDIE",
+      "onboard_time": 1706666790,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368356,
       "num": 368356,
       "word": "你们五个人能不能一起拍部戏",
@@ -193,6 +257,14 @@
       "onboard_time": 1706626953,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 345437,
+      "num": 345437,
+      "word": "驻韩美军战斗机在韩国坠落",
+      "onboard_time": 1706663969,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334646,
@@ -227,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298405,
+      "num": 298405,
+      "word": "长沙地铁",
+      "onboard_time": 1706664509,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293950,
       "num": 293950,
       "word": "秦海璐迪丽热巴最早的交集在2018年",
@@ -241,14 +321,6 @@
       "onboard_time": 1706661211,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 279992,
-      "num": 279992,
-      "word": "驻韩美军战斗机在韩国坠落",
-      "onboard_time": 1706663969,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279669,
@@ -307,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222034,
-      "num": 176393,
-      "word": "女子得知老公从8米坠落崩溃不敢开车",
-      "onboard_time": 1706663911,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219274,
       "num": 219274,
       "word": "美甲刺客",
@@ -336,6 +400,14 @@
       "word": "缅北白所成刘正祥打脸语录",
       "onboard_time": 1706662051,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208617,
+      "num": 208617,
+      "word": "小学生寒假作业要求填写家庭收入",
+      "onboard_time": 1706664869,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -411,20 +483,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168136,
-      "num": 168136,
-      "word": "热巴 盲目夸自家孩子的家长",
-      "onboard_time": 1706664270,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167638,
       "num": 167638,
       "word": "宋佳太A了",
       "onboard_time": 1706661928,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167298,
+      "num": 167298,
+      "word": "好同情她小孩",
+      "onboard_time": 1706667088,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164735,
+      "num": 164735,
+      "word": "视频梳理打击缅北涉我电诈重大战果",
+      "onboard_time": 1706667088,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163788,
@@ -451,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156132,
+      "num": 156132,
+      "word": "广西妈妈东北旅游后连做5天锅包肉",
+      "onboard_time": 1706666191,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149207,
       "num": 135492,
       "word": "宋威龙 解约",
       "onboard_time": 1706613513,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147492,
+      "num": 147492,
+      "word": "支付宝福气店",
+      "onboard_time": 1706667510,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 146162,
@@ -491,6 +587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142421,
+      "num": 142421,
+      "word": "年轻人为什么会有过年回家焦虑",
+      "onboard_time": 1706663253,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141197,
       "num": 141197,
       "word": "第五人格2024龙年版",
@@ -515,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137124,
-      "num": 137124,
-      "word": "年轻人为什么会有过年回家焦虑",
-      "onboard_time": 1706663253,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135894,
       "num": 135894,
       "word": "一部涉刑iPhone6S拍出22万天价",
@@ -531,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129429,
-      "num": 129429,
-      "word": "长沙地铁",
-      "onboard_time": 1706664509,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 135486,
+      "num": 135486,
+      "word": "河南省考缴费",
+      "onboard_time": 1706665289,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 126710,
@@ -627,12 +723,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110190,
+      "num": 110190,
+      "word": "浙里的爱意明目张胆",
+      "onboard_time": 1706667268,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108714,
       "num": 108714,
       "word": "1月最后一天",
       "onboard_time": 1706656822,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107929,
+      "num": 107929,
+      "word": "自热米饭的米不是真大米",
+      "onboard_time": 1706667749,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 107544,
+      "num": 107544,
+      "word": "马斯克询问网友是否更改特斯拉注册地",
+      "onboard_time": 1706667389,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 107325,

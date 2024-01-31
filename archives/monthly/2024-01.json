@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706664685786,
+  "endTime": 1706667756668,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -6401,6 +6401,14 @@
       "onboard_time": 1705310791,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1003067,
+      "num": 1003067,
+      "word": "女子得知老公从8米坠落崩溃不敢开车",
+      "onboard_time": 1706663911,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1002238,
@@ -13875,6 +13883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629313,
+      "num": 629313,
+      "word": "刘雨欣与女儿合照",
+      "onboard_time": 1706665408,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628805,
       "num": 590888,
       "word": "王凯是张佳宁老板",
@@ -15297,6 +15313,14 @@
       "onboard_time": 1705538908,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589123,
+      "num": 589123,
+      "word": "孤注一掷",
+      "onboard_time": 1706665108,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 589086,
@@ -18377,6 +18401,14 @@
       "onboard_time": 1704885452,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 514829,
+      "num": 514829,
+      "word": "热巴 盲目夸自家孩子的家长",
+      "onboard_time": 1706664270,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 514760,
@@ -21579,6 +21611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 450040,
+      "num": 372932,
+      "word": "英国考虑正式承认巴勒斯坦国",
+      "onboard_time": 1706666667,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 449940,
       "num": 449940,
       "word": "炎亚纶正式复出",
@@ -24635,6 +24675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 393497,
+      "num": 393497,
+      "word": "河南省考 转圈中",
+      "onboard_time": 1706665049,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 393496,
       "num": 393496,
       "word": "候鸟式买房的人后悔了",
@@ -26283,6 +26331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368744,
+      "num": 368744,
+      "word": "蔡徐坤新歌RIDEORDIE",
+      "onboard_time": 1706498488,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368464,
       "num": 270709,
       "word": "女老总KTV楼下被男友用砖砸死",
@@ -27729,6 +27785,14 @@
       "onboard_time": 1705848990,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345437,
+      "num": 345437,
+      "word": "驻韩美军战斗机在韩国坠落",
+      "onboard_time": 1706663969,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345275,
@@ -31339,6 +31403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298405,
+      "num": 298405,
+      "word": "长沙地铁",
+      "onboard_time": 1706664509,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298392,
       "num": 298392,
       "word": "长期横向刷牙或会致牙齿缺损",
@@ -33169,14 +33241,6 @@
       "onboard_time": 1705564766,
       "rank": 22,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 279992,
-      "num": 279992,
-      "word": "驻韩美军战斗机在韩国坠落",
-      "onboard_time": 1706663969,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279976,
@@ -40771,14 +40835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222034,
-      "num": 176393,
-      "word": "女子得知老公从8米坠落崩溃不敢开车",
-      "onboard_time": 1706663911,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222031,
       "num": 222031,
       "word": "上海图书馆回应馆内一把躺椅数万元",
@@ -43451,6 +43507,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 208617,
+      "num": 208617,
+      "word": "小学生寒假作业要求填写家庭收入",
+      "onboard_time": 1706664869,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208568,
       "num": 208568,
       "word": "大长今续集",
@@ -44369,14 +44433,6 @@
       "onboard_time": 1705225051,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204819,
-      "num": 204819,
-      "word": "蔡徐坤新歌RIDEORDIE",
-      "onboard_time": 1706498488,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 204808,
@@ -55507,14 +55563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168136,
-      "num": 168136,
-      "word": "热巴 盲目夸自家孩子的家长",
-      "onboard_time": 1706664270,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168029,
       "num": 168029,
       "word": "最贵的菜为什么放在菜单最前面",
@@ -55753,6 +55801,14 @@
       "onboard_time": 1706241931,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167298,
+      "num": 167298,
+      "word": "好同情她小孩",
+      "onboard_time": 1706667088,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 167280,
@@ -56593,6 +56649,14 @@
       "onboard_time": 1704534271,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164735,
+      "num": 164735,
+      "word": "视频梳理打击缅北涉我电诈重大战果",
+      "onboard_time": 1706667088,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164691,
@@ -59177,6 +59241,14 @@
       "onboard_time": 1705925366,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156132,
+      "num": 156132,
+      "word": "广西妈妈东北旅游后连做5天锅包肉",
+      "onboard_time": 1706666191,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156092,
@@ -61875,6 +61947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147492,
+      "num": 147492,
+      "word": "支付宝福气店",
+      "onboard_time": 1706667510,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147450,
       "num": 147450,
       "word": "单位发的显眼包年货",
@@ -63705,6 +63785,14 @@
       "onboard_time": 1706138605,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142421,
+      "num": 142421,
+      "word": "年轻人为什么会有过年回家焦虑",
+      "onboard_time": 1706663253,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 142411,
@@ -65619,14 +65707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137124,
-      "num": 137124,
-      "word": "年轻人为什么会有过年回家焦虑",
-      "onboard_time": 1706663253,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137110,
       "num": 137110,
       "word": "酷洛米稀缺装扮",
@@ -66113,6 +66193,14 @@
       "onboard_time": 1704151345,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135486,
+      "num": 135486,
+      "word": "河南省考缴费",
+      "onboard_time": 1706665289,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 135432,
@@ -68201,14 +68289,6 @@
       "onboard_time": 1704590009,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129429,
-      "num": 129429,
-      "word": "长沙地铁",
-      "onboard_time": 1706664509,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129417,
@@ -74211,6 +74291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110190,
+      "num": 110190,
+      "word": "浙里的爱意明目张胆",
+      "onboard_time": 1706667268,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "上海申花赛前发布会取消",
@@ -74723,6 +74811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107929,
+      "num": 107929,
+      "word": "自热米饭的米不是真大米",
+      "onboard_time": 1706667749,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107834,
       "num": 1116369,
       "word": "当江浙沪遇上了古诗词",
@@ -74793,6 +74889,14 @@
       "onboard_time": 1705113029,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107544,
+      "num": 107544,
+      "word": "马斯克询问网友是否更改特斯拉注册地",
+      "onboard_time": 1706667389,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 107468,
