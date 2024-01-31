@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706682844419,
+  "endTime": 1706685364555,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -65,6 +65,14 @@
       "onboard_time": 1706437288,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2316396,
+      "num": 1330610,
+      "word": "男子当小三破坏军婚获刑10个月",
+      "onboard_time": 1706681554,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2269160,
@@ -369,14 +377,6 @@
       "onboard_time": 1706662589,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1330610,
-      "num": 1330610,
-      "word": "男子当小三破坏军婚获刑10个月",
-      "onboard_time": 1706681554,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1318101,
@@ -1019,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797493,
+      "num": 797493,
+      "word": "躲过新冠没躲过这次咽喉炎",
+      "onboard_time": 1706681612,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 797295,
       "num": 797295,
       "word": "胡先煦不愿意上综艺的原因",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1706429189,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 737940,
+      "num": 737940,
+      "word": "秦海璐怎么还戴着耳机",
+      "onboard_time": 1706681788,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 735819,
@@ -1635,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583705,
+      "num": 583705,
+      "word": "易烊千玺工作室包场赵丽颖新电影",
+      "onboard_time": 1706683231,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 579832,
       "num": 579832,
       "word": "银川地震",
@@ -2107,20 +2131,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481494,
+      "num": 481494,
+      "word": "胡锡进建议等股市缓过元气再推动公司上市",
+      "onboard_time": 1706683112,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 481326,
       "num": 481326,
       "word": "买701号房交房变704业主怒嫌晦气",
       "onboard_time": 1706378360,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480004,
-      "num": 480004,
-      "word": "秦海璐怎么还戴着耳机",
-      "onboard_time": 1706681788,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 477913,
@@ -3619,12 +3643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295884,
-      "num": 295884,
-      "word": "躲过新冠没躲过这次咽喉炎",
-      "onboard_time": 1706681612,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 295093,
+      "num": 295093,
+      "word": "美甲店开始收春节费了",
+      "onboard_time": 1706683412,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 294098,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1706494406,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 239163,
+      "num": 239163,
+      "word": "57岁王祖贤素颜自拍",
+      "onboard_time": 1706684672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 239057,
@@ -4907,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207175,
+      "num": 207175,
+      "word": "坠亡姐弟案女孩出发前还说想爸爸",
+      "onboard_time": 1706684191,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206773,
       "num": 219800,
       "word": "美方突击搜查在美中资企业",
@@ -5531,6 +5571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187522,
+      "num": 187522,
+      "word": "董宇辉回应东方甄选年会痛哭",
+      "onboard_time": 1706685211,
+      "rank": 31,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 187480,
       "num": 187480,
       "word": "为什么情侣可以有隐私但不能有秘密",
@@ -5753,6 +5801,14 @@
       "onboard_time": 1706627732,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177557,
+      "num": 177557,
+      "word": "我妈是NPC 一靠近她就有任务",
+      "onboard_time": 1706684251,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 177310,
@@ -5993,6 +6049,14 @@
       "onboard_time": 1706511150,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "AG对战TTG",
+      "onboard_time": 1706683051,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 166459,
@@ -6307,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157585,
+      "num": 157585,
+      "word": "恋与深空领带",
+      "onboard_time": 1706683412,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157558,
       "num": 157558,
       "word": "陈戌源",
@@ -6353,6 +6425,14 @@
       "onboard_time": 1706411068,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156223,
+      "num": 156223,
+      "word": "茅台营收利润首度达成双千亿",
+      "onboard_time": 1706684852,
+      "rank": 39,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 156132,
@@ -6577,6 +6657,14 @@
       "onboard_time": 1706427989,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 150112,
+      "num": 150112,
+      "word": "河北农大",
+      "onboard_time": 1706684727,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150051,
@@ -7731,6 +7819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125879,
+      "num": 125879,
+      "word": "私募大佬但斌被投资者起诉了",
+      "onboard_time": 1706682932,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 125594,
       "num": 125594,
       "word": "中美禁毒合作工作组正式启动",
@@ -8273,6 +8369,14 @@
       "onboard_time": 1706623054,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115125,
+      "num": 115125,
+      "word": "AG阵容",
+      "onboard_time": 1706683527,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 114977,
