@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/31 11:34:18
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/31 12:19:54
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+吴谢宇被执行死刑（热度：8203225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23" target="weibo">
 杨紫三获微博Queen（热度：7952941）
 </a>
@@ -125,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE39%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 江西新余火灾39人遇难（热度：7473338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+重庆姐弟坠亡案被告人被执行死刑（热度：6883612）
 </a>
 </li>
 
@@ -185,12 +197,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E8%A6%81%E5%81%9A%E7%9A%84%E9%80%89%E6%8B%A9%E9%A2%98%23" target="weibo">
 杨幂 微博之夜要做的选择题（热度：5230662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-吴谢宇被执行死刑（热度：5022775）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ A股大跌（热度：1655577）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B0%8F%E5%8C%BA%E8%A2%AB%E6%9B%9D%E5%8F%91%E7%94%9F%E5%87%B6%E6%9D%80%E6%A1%88%23" target="weibo">
 江苏一小区被曝发生凶杀案（热度：1593200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%B7%9E%E4%B8%8E%E7%BE%8E%E6%94%BF%E5%BA%9C%E6%AD%A6%E8%A3%85%E5%AF%B9%E5%B3%99%23" target="weibo">
-得州与美政府武装对峙（热度：1592706）
 </a>
 </li>
 

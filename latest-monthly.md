@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/01/31 11:34:18
+本榜单时间：2024/01/01 00:21:05 ~ 2024/01/31 12:19:54
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+吴谢宇被执行死刑（热度：8203225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23" target="weibo">
 杨紫三获微博Queen（热度：7952941）
 </a>
@@ -125,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE39%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 江西新余火灾39人遇难（热度：7473338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+重庆姐弟坠亡案被告人被执行死刑（热度：6883612）
 </a>
 </li>
 
@@ -185,12 +197,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E8%A6%81%E5%81%9A%E7%9A%84%E9%80%89%E6%8B%A9%E9%A2%98%23" target="weibo">
 杨幂 微博之夜要做的选择题（热度：5230662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-吴谢宇被执行死刑（热度：5022775）
 </a>
 </li>
 
@@ -2699,6 +2705,12 @@ A股（热度：1375528）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%9148%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 日本地震已致至少48人死亡（热度：1355059）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E7%A7%B0%E5%91%BC%E5%A5%B3%E5%84%BF%E4%BA%8C%E8%80%81%E5%A9%86%23" target="weibo">
+吴尊称呼女儿二老婆（热度：1352796）
 </a>
 </li>
 
@@ -5793,6 +5805,12 @@ IU染粉发（热度：920521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%8E%E7%AE%A1%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E8%BD%A6%E5%86%85%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1%23" target="weibo">
+城管局副局长与女教师车内中毒死亡（热度：908405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E7%BE%8E%E5%9B%BD%E4%BC%9A%E7%A6%81%E6%AD%A2%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E4%BB%8E6%E5%AE%B6%E4%B8%AD%E4%BC%81%E9%87%87%E8%B4%AD%E7%94%B5%E6%B1%A0%23" target="weibo">
 美媒曝美国会禁止五角大楼从6家中企采购电池（热度：906861）
 </a>
@@ -5993,24 +6011,6 @@ IU染粉发（热度：920521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%8B%8D%E7%B9%81%E8%8A%B1%E4%B8%89%E5%B9%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E6%B8%B8%E6%9C%AC%E6%98%8C%23" target="weibo">
 马伊琍拍繁花三年没见过游本昌（热度：886776）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%AC%9B%E8%BD%AC%E8%A1%8C%E5%81%9A%E5%AF%BC%E6%BC%94%23" target="weibo">
-姚笛转行做导演（热度：886015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D99%E5%90%8E%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E8%A1%8C%E5%87%B6%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-两名99后男子当街行凶被执行死刑（热度：885836）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%A8%A1%E6%A0%B7%E7%88%86%E6%94%B9%23" target="weibo">
-丫丫回国后模样爆改（热度：885108）
 </a>
 </li>
 

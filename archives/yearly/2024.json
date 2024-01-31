@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706672058412,
+  "endTime": 1706674794944,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 8203225,
+      "num": 9453225,
+      "word": "吴谢宇被执行死刑",
+      "onboard_time": 1706668532,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7952941,
       "num": 7952941,
       "word": "杨紫三获微博Queen",
@@ -152,6 +160,14 @@
       "word": "江西新余火灾39人遇难",
       "onboard_time": 1706098652,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6883612,
+      "num": 8133612,
+      "word": "重庆姐弟坠亡案被告人被执行死刑",
+      "onboard_time": 1706673030,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -233,14 +249,6 @@
       "onboard_time": 1705134342,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5022775,
-      "num": 5022775,
-      "word": "吴谢宇被执行死刑",
-      "onboard_time": 1706668532,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4566409,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704872129,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1592706,
-      "num": 1592706,
-      "word": "得州与美政府武装对峙",
-      "onboard_time": 1706492247,
-      "rank": 1,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
