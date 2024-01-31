@@ -1,0 +1,410 @@
+{
+  "runTime": 1706693641463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1844042,
+        "num": 1844042,
+        "word": "奔驰车主加塞砸车被拘10日",
+        "onboard_time": 1706689413,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653316,
+        "num": 1653316,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95702,
+        "num": 1538982,
+        "word": "中国文旅大联欢",
+        "onboard_time": 1706689413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1523562,
+        "num": 1523562,
+        "word": "普京收入公开",
+        "onboard_time": 1706689952,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 980284,
+        "num": 980284,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935857,
+        "num": 935857,
+        "word": "黄磊做菜VS贾冰做菜",
+        "onboard_time": 1706691512,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 787423,
+        "num": 787423,
+        "word": "车银优弟弟读的复旦大学",
+        "onboard_time": 1706691392,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702938,
+        "num": 702938,
+        "word": "躲过新冠没躲过这次咽喉炎",
+        "onboard_time": 1706681612,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 585868,
+        "num": 585868,
+        "word": "湄公河行动演员确诊肿瘤",
+        "onboard_time": 1706688933,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427617,
+        "num": 578112,
+        "word": "美方对中国留学生渗透拉拢毫无底线",
+        "onboard_time": 1706690792,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 574165,
+        "num": 574165,
+        "word": "咽喉炎",
+        "onboard_time": 1706690732,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 533845,
+        "num": 533845,
+        "word": "杜江霍思燕冲浪拥吻",
+        "onboard_time": 1706690191,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417619,
+        "num": 417619,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375578,
+        "num": 375578,
+        "word": "知情人称吴谢宇家属正准备处理后事",
+        "onboard_time": 1706688450,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368581,
+        "num": 368581,
+        "word": "河北农大回应加塞骂人车主身份",
+        "onboard_time": 1706686111,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348204,
+        "num": 348204,
+        "word": "花儿与少年 超哥说了啥",
+        "onboard_time": 1706678497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320234,
+        "num": 320234,
+        "word": "吴尊称呼女儿二老婆",
+        "onboard_time": 1706673512,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298941,
+        "num": 298941,
+        "word": "原神超话",
+        "onboard_time": 1706692952,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284145,
+        "num": 284145,
+        "word": "要久久爱见面会",
+        "onboard_time": 1706690191,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270592,
+        "num": 270592,
+        "word": "王安宇相机落水了",
+        "onboard_time": 1706693131,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249543,
+        "num": 249543,
+        "word": "A股沪指失守2800点",
+        "onboard_time": 1706689588,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242861,
+        "num": 242861,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1706692472,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214239,
+        "num": 214239,
+        "word": "大大方方结束任何不健康的关系",
+        "onboard_time": 1706688392,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212542,
+        "num": 212542,
+        "word": "坠亡姐弟案女孩出发前还说想爸爸",
+        "onboard_time": 1706684191,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210701,
+        "num": 210701,
+        "word": "李相烨将结婚",
+        "onboard_time": 1706693553,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199148,
+        "num": 199148,
+        "word": "LOL爆改陈泽",
+        "onboard_time": 1706688991,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 162643,
+        "num": 162643,
+        "word": "美甲 排队",
+        "onboard_time": 1706675378,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "河北农大",
+        "onboard_time": 1706684727,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159699,
+        "num": 159699,
+        "word": "网约车被禁止在浦东机场运营",
+        "onboard_time": 1706692772,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55320,
+        "num": 158966,
+        "word": "雪天开车防滑8条",
+        "onboard_time": 1706692952,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633838,
+        "num": 158747,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1706676097,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158491,
+        "num": 158491,
+        "word": "杨紫范丞丞见面会生图",
+        "onboard_time": 1706690550,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154847,
+        "num": 154847,
+        "word": "祝绪丹热评",
+        "onboard_time": 1706693433,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152508,
+        "num": 152508,
+        "word": "河南的雪你别胡来",
+        "onboard_time": 1706692170,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151624,
+        "num": 151624,
+        "word": "湛江警方通报奔驰车主徐闻港插队事件",
+        "onboard_time": 1706688571,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150267,
+        "num": 150267,
+        "word": "猫 不是说是黄金吗",
+        "onboard_time": 1706692772,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149944,
+        "num": 149944,
+        "word": "易烊千玺工作室包场赵丽颖新电影",
+        "onboard_time": 1706683231,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144826,
+        "num": 144826,
+        "word": "关晓彤学不完根本学不完",
+        "onboard_time": 1706687789,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136700,
+        "num": 136700,
+        "word": "秦海璐怎么还戴着耳机",
+        "onboard_time": 1706681788,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136171,
+        "num": 136171,
+        "word": "高叶说朱一龙早该火了",
+        "onboard_time": 1706693314,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135443,
+        "num": 135443,
+        "word": "钟意露娜月下无限连",
+        "onboard_time": 1706690612,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128917,
+        "num": 128917,
+        "word": "叶诚尘检举揭发他人犯罪不属实",
+        "onboard_time": 1706678554,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123028,
+        "num": 123028,
+        "word": "美甲店开始收春节费了",
+        "onboard_time": 1706683412,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118173,
+        "num": 120220,
+        "word": "世界之外 开发组的一封信",
+        "onboard_time": 1706691032,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 118782,
+        "word": "民警双手接住9旬坠楼老人",
+        "onboard_time": 1706692413,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 115831,
+        "num": 115831,
+        "word": "明日方舟 同人漫画",
+        "onboard_time": 1706692531,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114629,
+        "num": 114629,
+        "word": "易烊千玺当选中国影协理事",
+        "onboard_time": 1706672730,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113198,
+        "num": 113198,
+        "word": "张波叶诚尘谋划半年下手2次才得逞",
+        "onboard_time": 1706688272,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113153,
+        "num": 113153,
+        "word": "丹东小草莓下苏杭冻出高原红",
+        "onboard_time": 1706686053,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 106044,
+        "num": 112685,
+        "word": "AG战胜TTG",
+        "onboard_time": 1706692170,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#42位驻华大使递交国书#"
+    }
+  }
+}

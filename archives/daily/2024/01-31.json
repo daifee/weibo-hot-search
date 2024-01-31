@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706692584370,
+  "endTime": 1706693641463,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1523562,
+      "num": 1523562,
+      "word": "普京收入公开",
+      "onboard_time": 1706689952,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1443702,
       "num": 1443702,
       "word": "韩安冉发火",
       "onboard_time": 1706658384,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1388749,
-      "num": 1388749,
-      "word": "普京收入公开",
-      "onboard_time": 1706689952,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1337166,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 935857,
+      "num": 935857,
+      "word": "黄磊做菜VS贾冰做菜",
+      "onboard_time": 1706691512,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 912539,
       "num": 912539,
       "word": "张庭夫妇 6套别墅",
@@ -193,6 +201,14 @@
       "onboard_time": 1706658085,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787423,
+      "num": 787423,
+      "word": "车银优弟弟读的复旦大学",
+      "onboard_time": 1706691392,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 785012,
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 587405,
-      "num": 587405,
-      "word": "车银优弟弟读的复旦大学",
-      "onboard_time": 1706691392,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 583705,
       "num": 583705,
       "word": "易烊千玺工作室包场赵丽颖新电影",
@@ -361,14 +369,6 @@
       "onboard_time": 1706673693,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 538390,
-      "num": 538390,
-      "word": "黄磊做菜VS贾冰做菜",
-      "onboard_time": 1706691512,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 519250,
@@ -489,6 +489,14 @@
       "onboard_time": 1706666790,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 427617,
+      "num": 578112,
+      "word": "美方对中国留学生渗透拉拢毫无底线",
+      "onboard_time": 1706690792,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 426472,
@@ -627,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 375578,
+      "num": 375578,
+      "word": "知情人称吴谢宇家属正准备处理后事",
+      "onboard_time": 1706688450,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368356,
       "num": 368356,
       "word": "你们五个人能不能一起拍部戏",
@@ -689,14 +705,6 @@
       "onboard_time": 1706661029,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333746,
-      "num": 333746,
-      "word": "美方对中国留学生渗透拉拢毫无底线",
-      "onboard_time": 1706690792,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 322860,
@@ -779,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298941,
+      "num": 298941,
+      "word": "原神超话",
+      "onboard_time": 1706692952,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298405,
       "num": 298405,
       "word": "长沙地铁",
@@ -843,14 +859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276962,
-      "num": 276962,
-      "word": "知情人称吴谢宇家属正准备处理后事",
-      "onboard_time": 1706688450,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276859,
       "num": 276436,
       "word": "为什么车厘子听起来就比樱桃贵",
@@ -889,6 +897,14 @@
       "onboard_time": 1706675979,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270592,
+      "num": 270592,
+      "word": "王安宇相机落水了",
+      "onboard_time": 1706693131,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 268650,
@@ -979,6 +995,22 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 249543,
+      "num": 249543,
+      "word": "A股沪指失守2800点",
+      "onboard_time": 1706689588,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 242861,
+      "num": 242861,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1706692472,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235633,
       "num": 235633,
       "word": "邓为抱娃路透",
@@ -993,14 +1025,6 @@
       "onboard_time": 1706681369,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230087,
-      "num": 230087,
-      "word": "A股沪指失守2800点",
-      "onboard_time": 1706689588,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 228926,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "大大方方结束任何不健康的关系",
+      "onboard_time": 1706688392,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213873,
       "num": 213873,
       "word": "支付宝福气店",
@@ -1123,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210701,
+      "num": 210701,
+      "word": "李相烨将结婚",
+      "onboard_time": 1706693553,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210303,
       "num": 210303,
       "word": "热辣滚烫 想赢一次",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1706612612,
       "rank": 17,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 207112,
-      "num": 207112,
-      "word": "大大方方结束任何不健康的关系",
-      "onboard_time": 1706688392,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 206075,
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159699,
+      "num": 159699,
+      "word": "网约车被禁止在浦东机场运营",
+      "onboard_time": 1706692772,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158867,
       "num": 158867,
       "word": "电竞选手在线送开心龙宝",
@@ -1499,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154847,
+      "num": 154847,
+      "word": "祝绪丹热评",
+      "onboard_time": 1706693433,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154736,
       "num": 154736,
       "word": "花少5大收官连线陪看",
@@ -1515,12 +1563,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152508,
+      "num": 152508,
+      "word": "河南的雪你别胡来",
+      "onboard_time": 1706692170,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152474,
       "num": 152474,
       "word": "外国人眼中的艾莎在中国叫尔滨",
       "onboard_time": 1706671591,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 150267,
+      "num": 150267,
+      "word": "猫 不是说是黄金吗",
+      "onboard_time": 1706692772,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 149207,
@@ -1659,6 +1723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136171,
+      "num": 136171,
+      "word": "高叶说朱一龙早该火了",
+      "onboard_time": 1706693314,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135894,
       "num": 135894,
       "word": "一部涉刑iPhone6S拍出22万天价",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1706665289,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135443,
+      "num": 135443,
+      "word": "钟意露娜月下无限连",
+      "onboard_time": 1706690612,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 135039,
@@ -1803,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118782,
+      "num": 118782,
+      "word": "民警双手接住9旬坠楼老人",
+      "onboard_time": 1706692413,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 118394,
       "num": 118394,
       "word": "女大学生回村的真实生活",
@@ -1843,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112207,
-      "num": 112207,
-      "word": "民警双手接住9旬坠楼老人",
-      "onboard_time": 1706692413,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 111824,
       "num": 111824,
       "word": "赵露思草莓元气妆",
@@ -1883,16 +1963,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109823,
-      "num": 109823,
-      "word": "河南的雪你别胡来",
-      "onboard_time": 1706692170,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109782,
-      "num": 1492088,
+      "num": 1538982,
       "word": "中国文旅大联欢",
       "onboard_time": 1706689413,
       "rank": 2,
@@ -1913,14 +1985,6 @@
       "onboard_time": 1706656822,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108627,
-      "num": 108627,
-      "word": "钟意露娜月下无限连",
-      "onboard_time": 1706690612,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 107544,
@@ -1945,14 +2009,6 @@
       "onboard_time": 1706657302,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103742,
-      "num": 103742,
-      "word": "i人喜欢的东西",
-      "onboard_time": 1706692472,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 102392,
@@ -2177,6 +2233,14 @@
       "onboard_time": 1706637440,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55320,
+      "num": 158966,
+      "word": "雪天开车防滑8条",
+      "onboard_time": 1706692952,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53856,
