@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706696288352,
+  "endTime": 1706697247615,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -99,6 +99,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1363061,
+      "num": 1363061,
+      "word": "王新军喊王安宇来家里吃饭",
+      "onboard_time": 1706695353,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1337166,
       "num": 453479,
       "word": "萨沙结婚",
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1186774,
+      "num": 1186774,
+      "word": "河南暴雪",
+      "onboard_time": 1706694271,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105705,
       "num": 1105705,
       "word": "自热米饭的米不是真大米",
       "onboard_time": 1706667749,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1095087,
-      "num": 1095087,
-      "word": "河南暴雪",
-      "onboard_time": 1706694271,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1022830,
@@ -161,14 +169,6 @@
       "onboard_time": 1706616511,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974168,
-      "num": 974168,
-      "word": "王新军喊王安宇来家里吃饭",
-      "onboard_time": 1706695353,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 966424,
@@ -363,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 570488,
+      "num": 570488,
+      "word": "茅台董事长曾称酒库里存了几十万吨基酒",
+      "onboard_time": 1706695650,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563663,
       "num": 563663,
       "word": "董宇辉新账号直播间被指大规模抄袭",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484419,
+      "num": 484419,
+      "word": "祝绪丹热评",
+      "onboard_time": 1706693433,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483684,
       "num": 327488,
       "word": "长期穿一次性内裤会引发阴道炎吗",
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466790,
+      "num": 466790,
+      "word": "强迫性皮肤剥离症",
+      "onboard_time": 1706694152,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 466006,
       "num": 466006,
       "word": "李相烨将结婚",
@@ -505,14 +529,6 @@
       "onboard_time": 1706672551,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445451,
-      "num": 445451,
-      "word": "祝绪丹热评",
-      "onboard_time": 1706693433,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 441767,
@@ -683,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367337,
+      "num": 1266951,
+      "word": "小姐姐悄悄给警车挂上平安符",
+      "onboard_time": 1706694629,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363395,
       "num": 363395,
       "word": "沈星回 斯哈斯哈",
@@ -731,20 +755,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 335301,
-      "num": 335301,
-      "word": "强迫性皮肤剥离症",
-      "onboard_time": 1706694152,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 334646,
       "num": 334646,
       "word": "江西抚州高彩礼会被写上黑榜",
       "onboard_time": 1706661029,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334309,
+      "num": 334309,
+      "word": "张一山赶上春运了",
+      "onboard_time": 1706695051,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 325016,
@@ -915,6 +939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276352,
+      "num": 276352,
+      "word": "杨紫抽绳吊带裙",
+      "onboard_time": 1706696852,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275210,
       "num": 275210,
       "word": "原神 开门",
@@ -971,6 +1003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 262984,
+      "num": 1325967,
+      "word": "民警双手接住9旬坠楼老人",
+      "onboard_time": 1706692413,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 261799,
       "num": 261799,
       "word": "股市",
@@ -984,30 +1024,6 @@
       "word": "2024年2月新规来了",
       "onboard_time": 1706668709,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261165,
-      "num": 1325967,
-      "word": "民警双手接住9旬坠楼老人",
-      "onboard_time": 1706692413,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 258178,
-      "num": 1108947,
-      "word": "小姐姐悄悄给警车挂上平安符",
-      "onboard_time": 1706694629,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257777,
-      "num": 257777,
-      "word": "茅台董事长曾称酒库里存了几十万吨基酒",
-      "onboard_time": 1706695650,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1091,14 +1107,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 238045,
-      "num": 238045,
-      "word": "张一山赶上春运了",
-      "onboard_time": 1706695051,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235633,
       "num": 235633,
       "word": "邓为抱娃路透",
@@ -1139,6 +1147,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 224417,
+      "num": 224417,
+      "word": "NANA联名婚纱",
+      "onboard_time": 1706695711,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 223816,
       "num": 223816,
       "word": "河北省人民医院回应现丁义珍式窗口",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1706625333,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 218702,
+      "num": 218702,
+      "word": "鹿emoji",
+      "onboard_time": 1706696730,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216270,
@@ -1275,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208460,
+      "num": 208460,
+      "word": "外媒曝扬科维奇已下课",
+      "onboard_time": 1706695711,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207508,
       "num": 207508,
       "word": "杨雪爆改",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1706662649,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192085,
-      "num": 192085,
-      "word": "NANA联名婚纱",
-      "onboard_time": 1706695711,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 191998,
@@ -1579,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159948,
-      "num": 159948,
-      "word": "外媒曝扬科维奇已下课",
-      "onboard_time": 1706695711,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158867,
       "num": 158867,
       "word": "电竞选手在线送开心龙宝",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1706666191,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155906,
+      "num": 155906,
+      "word": "高叶说朱一龙早该火了",
+      "onboard_time": 1706693314,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155334,
@@ -1705,14 +1729,6 @@
       "onboard_time": 1706685752,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149039,
-      "num": 149039,
-      "word": "高叶说朱一龙早该火了",
-      "onboard_time": 1706693314,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148054,
@@ -1915,6 +1931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127815,
+      "num": 127815,
+      "word": "狗剩快跑 安宇快跑",
+      "onboard_time": 1706696974,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126719,
       "num": 126719,
       "word": "流动青年结婚难问题",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1706658443,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125880,
+      "num": 125880,
+      "word": "这一世范闲是小狼狗",
+      "onboard_time": 1706696491,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 125879,
@@ -2131,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104274,
+      "num": 104274,
+      "word": "潘以达给许凯做的红发挑染",
+      "onboard_time": 1706696669,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 102392,
       "num": 63328,
       "word": "歌手黄安科普赵传歌曲版权问题",
@@ -2196,7 +2236,7 @@
     },
     {
       "raw_hot": 92337,
-      "num": 1097082,
+      "num": 1138283,
       "word": "小车往河道溜车关键时刻他出手了",
       "onboard_time": 1706694629,
       "rank": 6,
@@ -2404,7 +2444,7 @@
     },
     {
       "raw_hot": 25784,
-      "num": 192033,
+      "num": 253477,
       "word": "一种很新的祈福方式",
       "onboard_time": 1706695472,
       "rank": 33,
