@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706718891163,
+  "endTime": 1706721259736,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -49,6 +49,14 @@
       "onboard_time": 1706713294,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453212,
+      "num": 453212,
+      "word": "网红帮女生找到失散22年妈妈",
+      "onboard_time": 1706716950,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 440350,
@@ -211,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158796,
-      "num": 158796,
-      "word": "网红帮女生找到失散22年妈妈",
-      "onboard_time": 1706716950,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 155644,
       "num": 155644,
       "word": "敬业福",
@@ -307,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115968,
+      "num": 115968,
+      "word": "坠亡姐弟外婆称心里会痛一辈子",
+      "onboard_time": 1706720065,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112433,
       "num": 155668,
       "word": "女子捐赠甘肃一中学400件羽绒服失踪",
@@ -353,6 +361,14 @@
       "onboard_time": 1706711614,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92725,
+      "num": 79149,
+      "word": "这是龙王结婚吗",
+      "onboard_time": 1706719108,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 92026,
