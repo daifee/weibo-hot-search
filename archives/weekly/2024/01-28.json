@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706707116321,
+  "endTime": 1706708058196,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1218247,
-      "num": 562752,
+      "num": 571812,
       "word": "成毅裤子透光",
       "onboard_time": 1706700629,
       "rank": 21,
@@ -1115,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801815,
+      "num": 801815,
+      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+      "onboard_time": 1706703272,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798126,
       "num": 798126,
       "word": "吴昕41岁状态",
@@ -1411,14 +1419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 694601,
-      "num": 694601,
-      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
-      "onboard_time": 1706703272,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 689923,
       "num": 689923,
       "word": "车银优传闻中的弟弟",
@@ -1601,6 +1601,14 @@
       "onboard_time": 1706625693,
       "rank": 6,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 628872,
+      "num": 628872,
+      "word": "刘诗诗直播妆造",
+      "onboard_time": 1706706514,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 628737,
@@ -1851,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578070,
+      "num": 578070,
+      "word": "演唱会玩手机的爱豆",
+      "onboard_time": 1706703993,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 576755,
       "num": 576755,
       "word": "古茗 天官赐福",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1706683112,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 564121,
-      "num": 564121,
-      "word": "演唱会玩手机的爱豆",
-      "onboard_time": 1706703993,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 563989,
@@ -1995,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544836,
+      "num": 544836,
+      "word": "邓为向涵之吻戏路透",
+      "onboard_time": 1706705371,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544251,
       "num": 521496,
       "word": "杨幂去年找了表演老师改表演习惯",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1706699971,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528711,
-      "num": 528711,
-      "word": "邓为向涵之吻戏路透",
-      "onboard_time": 1706705371,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 521934,
@@ -2715,6 +2723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427056,
+      "num": 427056,
+      "word": "papi酱 聊爱豆像在说另一半",
+      "onboard_time": 1706705852,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 426472,
       "num": 314154,
       "word": "喜茶联名繁花",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1706434949,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403943,
+      "num": 403943,
+      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+      "onboard_time": 1706704112,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401648,
@@ -3113,14 +3137,6 @@
       "onboard_time": 1706636240,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382502,
-      "num": 382502,
-      "word": "刘诗诗直播妆造",
-      "onboard_time": 1706706514,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 382103,
@@ -3395,14 +3411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354375,
-      "num": 354375,
-      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
-      "onboard_time": 1706704112,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354007,
       "num": 354007,
       "word": "万达电影新任董事长陈祉希",
@@ -3641,14 +3649,6 @@
       "onboard_time": 1706401166,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 325551,
-      "num": 325551,
-      "word": "papi酱 聊爱豆像在说另一半",
-      "onboard_time": 1706705852,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 325016,
@@ -4643,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248115,
+      "num": 248115,
+      "word": "高铁有遛娃车厢了",
+      "onboard_time": 1706705191,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247698,
       "num": 247698,
       "word": "王楚然新加坡生图",
@@ -4777,14 +4785,6 @@
       "onboard_time": 1706530534,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235883,
-      "num": 235883,
-      "word": "高铁有遛娃车厢了",
-      "onboard_time": 1706705191,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235686,
@@ -4987,6 +4987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224539,
+      "num": 224539,
+      "word": "祈今朝",
+      "onboard_time": 1706706870,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224417,
       "num": 224417,
       "word": "NANA联名婚纱",
@@ -5072,6 +5080,14 @@
       "word": "小豆豆一步一步走到了春晚",
       "onboard_time": 1706674178,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220731,
+      "num": 220731,
+      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+      "onboard_time": 1706706993,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5225,6 +5241,14 @@
       "onboard_time": 1706604213,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214549,
+      "num": 214549,
+      "word": "偶遇王鹤棣在新加坡吃面",
+      "onboard_time": 1706707050,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 214453,
@@ -5851,6 +5875,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 198736,
+      "num": 198736,
+      "word": "大学生德华出现女传男现象",
+      "onboard_time": 1706706455,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198705,
       "num": 198705,
       "word": "eStar对战狼队",
@@ -6131,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190290,
+      "num": 190290,
+      "word": "刘耀文新浪扫楼预告",
+      "onboard_time": 1706707230,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190184,
       "num": 190184,
       "word": "沪指跌破2800点",
@@ -6299,6 +6339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185039,
+      "num": 185039,
+      "word": "死刑是彰显正义的必要手段",
+      "onboard_time": 1706707353,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184433,
       "num": 184433,
       "word": "当城里的狗狗回了村",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1706518893,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184341,
+      "num": 184341,
+      "word": "春节前牛羊肉价格或降至三年新低",
+      "onboard_time": 1706706393,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184073,
@@ -6729,14 +6785,6 @@
       "onboard_time": 1706588612,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 167790,
-      "num": 167790,
-      "word": "春节前牛羊肉价格或降至三年新低",
-      "onboard_time": 1706706393,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167638,
@@ -7667,14 +7715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145641,
-      "num": 145641,
-      "word": "大学生德华出现女传男现象",
-      "onboard_time": 1706706455,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145392,
       "num": 145392,
       "word": "相亲笑话",
@@ -7945,6 +7985,14 @@
       "onboard_time": 1706703631,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140112,
+      "num": 140112,
+      "word": "上指要在2800点再拉升两成才算牛市",
+      "onboard_time": 1706707653,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 140018,
@@ -8385,14 +8433,6 @@
       "onboard_time": 1706415748,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131413,
-      "num": 131413,
-      "word": "祈今朝",
-      "onboard_time": 1706706870,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 131336,
@@ -9051,6 +9091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121042,
+      "num": 121042,
+      "word": "没点才艺真不敢结婚了",
+      "onboard_time": 1706707714,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120845,
       "num": 120845,
       "word": "恒大美元债已基本跌至地板价",
@@ -9179,14 +9227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118627,
-      "num": 118627,
-      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
-      "onboard_time": 1706706993,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118394,
       "num": 118394,
       "word": "女大学生回村的真实生活",
@@ -9265,14 +9305,6 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116562,
-      "num": 116562,
-      "word": "偶遇王鹤棣在新加坡吃面",
-      "onboard_time": 1706707050,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116443,

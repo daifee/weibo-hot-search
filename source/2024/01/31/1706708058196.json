@@ -1,0 +1,410 @@
+{
+  "runTime": 1706708058196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1023515,
+        "num": 1023515,
+        "word": "专家建议3000点以下越低越买",
+        "onboard_time": 1706698471,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 997962,
+        "num": 997962,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25502,
+        "num": 850726,
+        "word": "2024网络视听盛典本周六播出",
+        "onboard_time": 1706681014,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801815,
+        "num": 801815,
+        "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+        "onboard_time": 1706703272,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761251,
+        "num": 761251,
+        "word": "米哈游等遭工信部点名",
+        "onboard_time": 1706703151,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 721388,
+        "num": 721388,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676634,
+        "num": 676634,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634245,
+        "num": 634245,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628872,
+        "num": 628872,
+        "word": "刘诗诗直播妆造",
+        "onboard_time": 1706706514,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578070,
+        "num": 578070,
+        "word": "演唱会玩手机的爱豆",
+        "onboard_time": 1706703993,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 873834,
+        "num": 571812,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544836,
+        "num": 544836,
+        "word": "邓为向涵之吻戏路透",
+        "onboard_time": 1706705371,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470217,
+        "num": 470217,
+        "word": "王新军喊王安宇来家里吃饭",
+        "onboard_time": 1706695353,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459589,
+        "num": 459589,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451868,
+        "num": 451868,
+        "word": "19层官微 于正",
+        "onboard_time": 1706702492,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427056,
+        "num": 427056,
+        "word": "papi酱 聊爱豆像在说另一半",
+        "onboard_time": 1706705852,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 403943,
+        "num": 403943,
+        "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+        "onboard_time": 1706704112,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391764,
+        "num": 391764,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 329274,
+        "num": 329274,
+        "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+        "onboard_time": 1706699971,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304662,
+        "num": 304662,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279816,
+        "num": 279816,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273538,
+        "num": 273538,
+        "word": "狗剩快跑 安宇快跑",
+        "onboard_time": 1706696974,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254382,
+        "num": 254382,
+        "word": "他那么普通 你还是走不出来",
+        "onboard_time": 1706702311,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248115,
+        "num": 248115,
+        "word": "高铁有遛娃车厢了",
+        "onboard_time": 1706705191,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224539,
+        "num": 224539,
+        "word": "祈今朝",
+        "onboard_time": 1706706870,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220731,
+        "num": 220731,
+        "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+        "onboard_time": 1706706993,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217066,
+        "num": 217066,
+        "word": "鹿emoji",
+        "onboard_time": 1706696730,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214549,
+        "num": 214549,
+        "word": "偶遇王鹤棣在新加坡吃面",
+        "onboard_time": 1706707050,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199189,
+        "num": 199189,
+        "word": "车银优弟弟读的复旦大学",
+        "onboard_time": 1706691392,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198736,
+        "num": 198736,
+        "word": "大学生德华出现女传男现象",
+        "onboard_time": 1706706455,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190290,
+        "num": 190290,
+        "word": "刘耀文新浪扫楼预告",
+        "onboard_time": 1706707230,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185039,
+        "num": 185039,
+        "word": "死刑是彰显正义的必要手段",
+        "onboard_time": 1706707353,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184341,
+        "num": 184341,
+        "word": "春节前牛羊肉价格或降至三年新低",
+        "onboard_time": 1706706393,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46221,
+        "num": 180852,
+        "word": "鸿蒙和MPV能整什么活",
+        "onboard_time": 1706704651,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179329,
+        "num": 179329,
+        "word": "花儿与少年",
+        "onboard_time": 1706704829,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174744,
+        "num": 174744,
+        "word": "KPOP还能cha吗",
+        "onboard_time": 1706700450,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167091,
+        "num": 167091,
+        "word": "黄磊做菜VS贾冰做菜",
+        "onboard_time": 1706691512,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166360,
+        "num": 166360,
+        "word": "创造营亚洲主题曲",
+        "onboard_time": 1706705250,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166259,
+        "num": 166259,
+        "word": "新东方及俞敏洪承诺购买东方甄选股份",
+        "onboard_time": 1706705069,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153476,
+        "num": 153476,
+        "word": "奔驰车主加塞砸车被拘10日",
+        "onboard_time": 1706689413,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148938,
+        "num": 148938,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145237,
+        "num": 145237,
+        "word": "僵尸新娘 意难平",
+        "onboard_time": 1706699250,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140112,
+        "num": 140112,
+        "word": "上指要在2800点再拉升两成才算牛市",
+        "onboard_time": 1706707653,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133976,
+        "num": 133976,
+        "word": "杨紫晒破万自拍",
+        "onboard_time": 1706703811,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124620,
+        "num": 124620,
+        "word": "A股出现回购潮",
+        "onboard_time": 1706704769,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121871,
+        "num": 121871,
+        "word": "目黑莲吃草",
+        "onboard_time": 1706703512,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121042,
+        "num": 121042,
+        "word": "没点才艺真不敢结婚了",
+        "onboard_time": 1706707714,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120334,
+        "num": 120334,
+        "word": "eStar对战狼队",
+        "onboard_time": 1706706031,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115995,
+        "num": 115995,
+        "word": "强迫性皮肤剥离症",
+        "onboard_time": 1706694152,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115252,
+        "num": 115252,
+        "word": "茅台董事长曾称酒库里存了几十万吨基酒",
+        "onboard_time": 1706695650,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#42位驻华大使递交国书#"
+    }
+  }
+}
