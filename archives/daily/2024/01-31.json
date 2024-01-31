@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706714227104,
+  "endTime": 1706715255776,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -89,6 +89,14 @@
       "onboard_time": 1706673693,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1578414,
+      "num": 1578414,
+      "word": "尿毒症是吃出来的",
+      "onboard_time": 1706712333,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1523562,
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 787959,
-      "num": 787959,
-      "word": "尿毒症是吃出来的",
-      "onboard_time": 1706712333,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 787423,
       "num": 787423,
       "word": "车银优弟弟读的复旦大学",
@@ -337,6 +337,14 @@
       "onboard_time": 1706702492,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 763957,
+      "num": 763957,
+      "word": "在人间 辛芷蕾",
+      "onboard_time": 1706713294,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 759359,
@@ -619,14 +627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 517099,
-      "num": 517099,
-      "word": "在人间 辛芷蕾",
-      "onboard_time": 1706713294,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 514829,
       "num": 514829,
       "word": "热巴 盲目夸自家孩子的家长",
@@ -811,6 +811,14 @@
       "category": "美食,剧集"
     },
     {
+      "raw_hot": 423166,
+      "num": 251351,
+      "word": "二月狗屎运最旺的星座",
+      "onboard_time": 1706712993,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 420512,
       "num": 420512,
       "word": "张波叶诚尘共同犯罪均系主犯",
@@ -827,20 +835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415114,
+      "num": 415114,
+      "word": "没有血缘关系也能长得像",
+      "onboard_time": 1706713774,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 414984,
       "num": 414984,
       "word": "丹东小草莓下苏杭冻出高原红",
       "onboard_time": 1706686053,
       "rank": 36,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 413491,
-      "num": 251351,
-      "word": "二月狗屎运最旺的星座",
-      "onboard_time": 1706712993,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 408709,
@@ -873,6 +881,14 @@
       "onboard_time": 1706680112,
       "rank": 14,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 404201,
+      "num": 404201,
+      "word": "谢娜求婚好抓马",
+      "onboard_time": 1706714792,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 403943,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 353289,
-      "num": 250209,
+      "num": 336064,
       "word": "周传雄 生病的经历改变了我的心态",
       "onboard_time": 1706712514,
       "rank": 22,
@@ -1331,6 +1347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 263755,
+      "num": 244624,
+      "word": "虞书欣叫自己鲸鱼辣妹",
+      "onboard_time": 1706713831,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263690,
       "num": 263690,
       "word": "他那么普通 你还是走不出来",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1706705191,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244624,
-      "num": 244624,
-      "word": "虞书欣叫自己鲸鱼辣妹",
-      "onboard_time": 1706713831,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 235633,
@@ -1603,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214043,
+      "num": 214043,
+      "word": "田馥甄否认遭暗捅",
+      "onboard_time": 1706714072,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213873,
       "num": 213873,
       "word": "支付宝福气店",
@@ -1715,28 +1739,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 206235,
-      "num": 206235,
-      "word": "田馥甄否认遭暗捅",
-      "onboard_time": 1706714072,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206075,
       "num": 206075,
       "word": "蔡徐坤RIDEORDIE歌词",
       "onboard_time": 1706671649,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205617,
-      "num": 205617,
-      "word": "没有血缘关系也能长得像",
-      "onboard_time": 1706713774,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 205377,
@@ -2219,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159473,
+      "num": 217219,
+      "word": "男子开飞机带女儿回家过年",
+      "onboard_time": 1706713354,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158867,
       "num": 158867,
       "word": "电竞选手在线送开心龙宝",
@@ -2427,20 +2443,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143938,
-      "num": 143938,
-      "word": "男子开飞机带女儿回家过年",
-      "onboard_time": 1706713354,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143801,
       "num": 143801,
       "word": "赵昭仪送胡先煦自己织的手套",
       "onboard_time": 1706685690,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143627,
+      "num": 143627,
+      "word": "突然期待情人节了",
+      "onboard_time": 1706715151,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 143066,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1706687312,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131178,
+      "num": 131178,
+      "word": "人民网评吴谢宇案",
+      "onboard_time": 1706714732,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131062,
@@ -3028,7 +3052,7 @@
     },
     {
       "raw_hot": 98106,
-      "num": 899184,
+      "num": 1034178,
       "word": "春运安全出行天气地图",
       "onboard_time": 1706709632,
       "rank": 2,
