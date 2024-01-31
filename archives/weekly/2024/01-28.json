@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706722441483,
+  "endTime": 1706725032399,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -11451,6 +11451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42274,
+      "num": 42274,
+      "word": "赵丽颖粉丝包场第二十条",
+      "onboard_time": 1706723060,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40063,
       "num": 149335,
       "word": "京东除夕批发式送礼每种十万份起",
@@ -11537,6 +11545,14 @@
       "onboard_time": 1706388196,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 32178,
+      "num": 32178,
+      "word": "冬天最适合减肉",
+      "onboard_time": 1706722581,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 32009,
@@ -11713,6 +11729,14 @@
       "onboard_time": 1706645117,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11677,
+      "num": 194882,
+      "word": "2月这些新规将要施行",
+      "onboard_time": 1706709153,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11468,
