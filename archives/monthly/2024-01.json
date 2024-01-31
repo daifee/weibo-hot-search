@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706697247615,
+  "endTime": 1706699637913,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2995,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461647,
+      "num": 1461647,
+      "word": "王新军喊王安宇来家里吃饭",
+      "onboard_time": 1706695353,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1461618,
       "num": 1461618,
       "word": "初中妹妹8科成绩总分66",
@@ -3593,14 +3601,6 @@
       "onboard_time": 1704783810,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1363061,
-      "num": 1363061,
-      "word": "王新军喊王安宇来家里吃饭",
-      "onboard_time": 1706695353,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1362080,
@@ -5475,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110849,
+      "num": 1110849,
+      "word": "茅台董事长曾称酒库里存了几十万吨基酒",
+      "onboard_time": 1706695650,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110628,
       "num": 1110628,
       "word": "曝95后待爆男艺人要求删cp互动画面",
@@ -6305,6 +6313,14 @@
       "onboard_time": 1704637175,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1025648,
+      "num": 730435,
+      "word": "鹿emoji",
+      "onboard_time": 1706696730,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1025623,
@@ -11883,6 +11899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 710083,
+      "num": 710083,
+      "word": "强迫性皮肤剥离症",
+      "onboard_time": 1706694152,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 709743,
       "num": 709743,
       "word": "江西火灾多人从二楼跳下被民警接住",
@@ -16323,14 +16347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570488,
-      "num": 570488,
-      "word": "茅台董事长曾称酒库里存了几十万吨基酒",
-      "onboard_time": 1706695650,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569709,
       "num": 569709,
       "word": "江苏警方通报2死凶杀案",
@@ -17953,6 +17969,14 @@
       "onboard_time": 1704868951,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 532272,
+      "num": 532272,
+      "word": "狗剩快跑 安宇快跑",
+      "onboard_time": 1706696974,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 531651,
@@ -21051,14 +21075,6 @@
       "category": "剧集,美妆"
     },
     {
-      "raw_hot": 466790,
-      "num": 466790,
-      "word": "强迫性皮肤剥离症",
-      "onboard_time": 1706694152,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 466549,
       "num": 466549,
       "word": "日本以业务过失致人伤亡嫌疑调查飞机事故",
@@ -23083,6 +23099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427465,
+      "num": 427465,
+      "word": "王安宇 应该的姐夫",
+      "onboard_time": 1706697569,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427402,
       "num": 427402,
       "word": "迪丽热巴今年或将无缝进组",
@@ -23633,6 +23657,14 @@
       "onboard_time": 1706279851,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 417253,
+      "num": 1276124,
+      "word": "小姐姐悄悄给警车挂上平安符",
+      "onboard_time": 1706694629,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417199,
@@ -26913,14 +26945,6 @@
       "onboard_time": 1706162010,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367337,
-      "num": 1266951,
-      "word": "小姐姐悄悄给警车挂上平安符",
-      "onboard_time": 1706694629,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367325,
@@ -32987,6 +33011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288367,
+      "num": 288367,
+      "word": "原来离职也能很体面",
+      "onboard_time": 1706698412,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288309,
       "num": 278516,
       "word": "恋与深空洗澡卡",
@@ -33851,6 +33883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279914,
+      "num": 279914,
+      "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
+      "onboard_time": 1706698229,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279893,
       "num": 279893,
       "word": "罗云熙自己补妆",
@@ -33897,6 +33937,14 @@
       "onboard_time": 1704612090,
       "rank": 14,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 279450,
+      "num": 279450,
+      "word": "专家建议3000点以下越低越买",
+      "onboard_time": 1706698471,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 279414,
@@ -42187,6 +42235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218840,
+      "num": 218840,
+      "word": "刘德华已经在超市上了19年班了",
+      "onboard_time": 1706699490,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218800,
       "num": 218800,
       "word": "SEVENTEEN中文歌",
@@ -42217,14 +42273,6 @@
       "onboard_time": 1704259593,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218702,
-      "num": 218702,
-      "word": "鹿emoji",
-      "onboard_time": 1706696730,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 218687,
@@ -46771,6 +46819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200481,
+      "num": 200481,
+      "word": "厂家回应刘强东掏腰包送家乡羽绒服",
+      "onboard_time": 1706697330,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200428,
       "num": 200428,
       "word": "原来这才是真榨汁肌",
@@ -47169,6 +47225,14 @@
       "onboard_time": 1706498251,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199259,
+      "num": 199259,
+      "word": "贵州毕节整治滥办酒席现象 撒盐",
+      "onboard_time": 1706698049,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199237,
@@ -48129,6 +48193,14 @@
       "onboard_time": 1704927801,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196133,
+      "num": 196133,
+      "word": "僵尸新娘 意难平",
+      "onboard_time": 1706699250,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 196130,
@@ -49737,6 +49809,14 @@
       "onboard_time": 1704263433,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190967,
+      "num": 190967,
+      "word": "环球音乐将停止向TikTok授权音乐",
+      "onboard_time": 1706697270,
+      "rank": 33,
+      "category": "音乐,互联网"
     },
     {
       "raw_hot": 190943,
@@ -53419,6 +53499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 178866,
+      "num": 178866,
+      "word": "王楚钦说冠军意味着我还能更好",
+      "onboard_time": 1706698950,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178844,
       "num": 178844,
       "word": "要久久爱不只有爱情",
@@ -55416,6 +55504,14 @@
       "word": "JN.1变异株本土病例基本为无症状",
       "onboard_time": 1706313865,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171960,
+      "num": 171960,
+      "word": "顾客买胖东来牛肉干被强制退全款",
+      "onboard_time": 1706699311,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -61379,6 +61475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "A股主要指数连续6个月阴跌",
+      "onboard_time": 1706697751,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152868,
       "num": 152868,
       "word": "哈尔滨蔓越莓",
@@ -62449,6 +62553,14 @@
       "onboard_time": 1705281569,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149717,
+      "num": 149717,
+      "word": "你也有今天番外",
+      "onboard_time": 1706699250,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149675,
@@ -64713,6 +64825,14 @@
       "onboard_time": 1704123696,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "EVNNE初一位",
+      "onboard_time": 1706697811,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143046,
@@ -70137,14 +70257,6 @@
       "onboard_time": 1705935509,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127815,
-      "num": 127815,
-      "word": "狗剩快跑 安宇快跑",
-      "onboard_time": 1706696974,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 127814,
