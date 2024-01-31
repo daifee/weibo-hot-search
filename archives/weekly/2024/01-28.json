@@ -1,21 +1,21 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706674794944,
+  "endTime": 1706675634022,
   "band_list": [
     {
-      "raw_hot": 8203225,
-      "num": 9453225,
-      "word": "吴谢宇被执行死刑",
-      "onboard_time": 1706668532,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6883612,
-      "num": 8133612,
+      "raw_hot": 8795205,
+      "num": 10044054,
       "word": "重庆姐弟坠亡案被告人被执行死刑",
       "onboard_time": 1706673030,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8646668,
+      "num": 9558923,
+      "word": "吴谢宇被执行死刑",
+      "onboard_time": 1706668532,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1626775,
+      "num": 1626775,
+      "word": "吴尊称呼女儿二老婆",
+      "onboard_time": 1706673512,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1621349,
       "num": 1621349,
       "word": "敬业福",
@@ -241,6 +249,14 @@
       "onboard_time": 1706576968,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1519279,
+      "num": 1519279,
+      "word": "城管局副局长与女教师车内中毒死亡",
+      "onboard_time": 1706673693,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1513224,
@@ -337,14 +353,6 @@
       "onboard_time": 1706529930,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1352796,
-      "num": 1352796,
-      "word": "吴尊称呼女儿二老婆",
-      "onboard_time": 1706673512,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1337166,
@@ -737,14 +745,6 @@
       "onboard_time": 1706507071,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 908405,
-      "num": 533017,
-      "word": "城管局副局长与女教师车内中毒死亡",
-      "onboard_time": 1706673693,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 895825,
@@ -2147,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456090,
+      "num": 456090,
+      "word": "蔡徐坤新歌已被注册商标",
+      "onboard_time": 1706673512,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453950,
       "num": 453950,
       "word": "孙红雷回应黄渤张艺兴不带自己玩",
@@ -2355,6 +2363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 420512,
+      "num": 420512,
+      "word": "张波叶诚尘共同犯罪均系主犯",
+      "onboard_time": 1706674832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419077,
       "num": 922912,
       "word": "哈工大给尔滨建火锅冰屋",
@@ -2419,14 +2435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413243,
-      "num": 413243,
-      "word": "蔡徐坤新歌已被注册商标",
-      "onboard_time": 1706673512,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 412374,
       "num": 374612,
       "word": "林俊杰杭州抢票",
@@ -2441,6 +2449,14 @@
       "onboard_time": 1706495849,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 408276,
+      "num": 408276,
+      "word": "亲属回应吴谢宇被执行死刑",
+      "onboard_time": 1706672131,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406769,
@@ -2472,14 +2488,6 @@
       "word": "美邦创始人回应衣服丑价格贵",
       "onboard_time": 1706541153,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397347,
-      "num": 397347,
-      "word": "亲属回应吴谢宇被执行死刑",
-      "onboard_time": 1706672131,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2699,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378867,
+      "num": 378867,
+      "word": "以军装妇女扮医生潜入医院射杀3人",
+      "onboard_time": 1706673998,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 376261,
       "num": 376261,
       "word": "求解农村大龄青年婚配难题",
@@ -2737,6 +2753,14 @@
       "onboard_time": 1706446411,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371855,
+      "num": 371855,
+      "word": "年轻人不肯为李维斯买单了",
+      "onboard_time": 1706673693,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 371587,
@@ -2816,6 +2840,14 @@
       "word": "恋与制作人",
       "onboard_time": 1706527412,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 363395,
+      "num": 363395,
+      "word": "沈星回 斯哈斯哈",
+      "onboard_time": 1706674597,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -3115,6 +3147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321323,
+      "num": 321323,
+      "word": "浙江发现H3N2与H10N5混合感染病例",
+      "onboard_time": 1706674357,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "特朗普演讲 911",
@@ -3179,6 +3219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316160,
+      "num": 316160,
+      "word": "美甲 排队",
+      "onboard_time": 1706675378,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 314646,
       "num": 314646,
       "word": "霉霉 我啥也没干",
@@ -3233,14 +3281,6 @@
       "onboard_time": 1706488168,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309675,
-      "num": 309675,
-      "word": "以军装妇女扮医生潜入医院射杀3人",
-      "onboard_time": 1706673998,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 309556,
@@ -3667,14 +3707,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 273107,
-      "num": 273107,
-      "word": "年轻人不肯为李维斯买单了",
-      "onboard_time": 1706673693,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 272381,
       "num": 272381,
       "word": "吴谢宇犯罪手段残忍严重违背人伦道德",
@@ -3745,6 +3777,14 @@
       "onboard_time": 1706672252,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266288,
+      "num": 266288,
+      "word": "韩安冉长文回应发火",
+      "onboard_time": 1706674357,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 263422,
@@ -3843,6 +3883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255001,
+      "num": 255001,
+      "word": "重庆姐弟坠亡案始末",
+      "onboard_time": 1706674777,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253843,
       "num": 253843,
       "word": "央视曝回流医保药洗白过程",
@@ -3897,6 +3945,14 @@
       "onboard_time": 1706444011,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250156,
+      "num": 250156,
+      "word": "国台办回应台湾民众热议电视剧繁花",
+      "onboard_time": 1706674476,
+      "rank": 33,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 250049,
@@ -4283,6 +4339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221037,
+      "num": 221037,
+      "word": "小豆豆一步一步走到了春晚",
+      "onboard_time": 1706674178,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220592,
       "num": 220592,
       "word": "7岁小豆豆收到了特别邀约",
@@ -4595,6 +4659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209852,
+      "num": 209852,
+      "word": "你好星期六",
+      "onboard_time": 1706674476,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209017,
       "num": 167730,
       "word": "暗恋对象以为我是学人精",
@@ -4697,14 +4769,6 @@
       "onboard_time": 1706618070,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205921,
-      "num": 205921,
-      "word": "你好星期六",
-      "onboard_time": 1706674476,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 205790,
@@ -4963,14 +5027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199212,
-      "num": 199212,
-      "word": "国台办回应台湾民众热议电视剧繁花",
-      "onboard_time": 1706674476,
-      "rank": 33,
-      "category": "社会新闻,剧集"
-    },
-    {
       "raw_hot": 198905,
       "num": 198905,
       "word": "小默回应史航",
@@ -5145,14 +5201,6 @@
       "onboard_time": 1706611828,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193002,
-      "num": 193002,
-      "word": "小豆豆一步一步走到了春晚",
-      "onboard_time": 1706674178,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192820,
@@ -5347,14 +5395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185210,
-      "num": 185210,
-      "word": "韩安冉长文回应发火",
-      "onboard_time": 1706674357,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 184433,
       "num": 184433,
       "word": "当城里的狗狗回了村",
@@ -5385,14 +5425,6 @@
       "onboard_time": 1706511868,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183673,
-      "num": 183673,
-      "word": "沈星回 斯哈斯哈",
-      "onboard_time": 1706674597,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 183424,
@@ -5563,14 +5595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175477,
-      "num": 175477,
-      "word": "浙江发现H3N2与H10N5混合感染病例",
-      "onboard_time": 1706674357,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175446,
       "num": 175446,
       "word": "沈梦辰腰椎骨头断裂",
@@ -5689,6 +5713,14 @@
       "onboard_time": 1706501431,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170093,
+      "num": 170093,
+      "word": "波比跳 公认的燃脂运动",
+      "onboard_time": 1706672730,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 169918,
@@ -6161,14 +6193,6 @@
       "onboard_time": 1706358929,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154980,
-      "num": 154980,
-      "word": "波比跳 公认的燃脂运动",
-      "onboard_time": 1706672730,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 154737,
@@ -6907,14 +6931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136782,
-      "num": 136782,
-      "word": "重庆姐弟坠亡案始末",
-      "onboard_time": 1706674777,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136424,
       "num": 136424,
       "word": "流浪的小狗遇到了心软的神",
@@ -7337,6 +7353,14 @@
       "onboard_time": 1706497529,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127467,
+      "num": 127467,
+      "word": "晚晚带货",
+      "onboard_time": 1706675617,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 127419,
@@ -8875,6 +8899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95230,
+      "num": 404723,
+      "word": "多地跑者跑出龙图",
+      "onboard_time": 1706673212,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 95138,
       "num": 95138,
       "word": "徐杰35分",
@@ -9201,14 +9233,6 @@
       "onboard_time": 1706456731,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83105,
-      "num": 404723,
-      "word": "多地跑者跑出龙图",
-      "onboard_time": 1706673212,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 83054,

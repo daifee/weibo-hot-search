@@ -1,21 +1,21 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706674794944,
+  "endTime": 1706675634022,
   "band_list": [
     {
-      "raw_hot": 8203225,
-      "num": 9453225,
-      "word": "吴谢宇被执行死刑",
-      "onboard_time": 1706668532,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6883612,
-      "num": 8133612,
+      "raw_hot": 8795205,
+      "num": 10044054,
       "word": "重庆姐弟坠亡案被告人被执行死刑",
       "onboard_time": 1706673030,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8646668,
+      "num": 9558923,
+      "word": "吴谢宇被执行死刑",
+      "onboard_time": 1706668532,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -27,20 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1626775,
+      "num": 1626775,
+      "word": "吴尊称呼女儿二老婆",
+      "onboard_time": 1706673512,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1519279,
+      "num": 1519279,
+      "word": "城管局副局长与女教师车内中毒死亡",
+      "onboard_time": 1706673693,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1443702,
       "num": 1443702,
       "word": "韩安冉发火",
       "onboard_time": 1706658384,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1352796,
-      "num": 1352796,
-      "word": "吴尊称呼女儿二老婆",
-      "onboard_time": 1706673512,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1337166,
@@ -96,14 +104,6 @@
       "word": "暴雪预警",
       "onboard_time": 1706616511,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 908405,
-      "num": 533017,
-      "word": "城管局副局长与女教师车内中毒死亡",
-      "onboard_time": 1706673693,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456090,
+      "num": 456090,
+      "word": "蔡徐坤新歌已被注册商标",
+      "onboard_time": 1706673512,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 447354,
       "num": 447354,
       "word": "北大保安辞职开网店年销破3000万",
@@ -291,16 +299,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 413243,
-      "num": 413243,
-      "word": "蔡徐坤新歌已被注册商标",
-      "onboard_time": 1706673512,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 420512,
+      "num": 420512,
+      "word": "张波叶诚尘共同犯罪均系主犯",
+      "onboard_time": 1706674832,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 397347,
-      "num": 397347,
+      "raw_hot": 408276,
+      "num": 408276,
       "word": "亲属回应吴谢宇被执行死刑",
       "onboard_time": 1706672131,
       "rank": 18,
@@ -347,12 +355,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378867,
+      "num": 378867,
+      "word": "以军装妇女扮医生潜入医院射杀3人",
+      "onboard_time": 1706673998,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 371855,
+      "num": 371855,
+      "word": "年轻人不肯为李维斯买单了",
+      "onboard_time": 1706673693,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 368356,
       "num": 368356,
       "word": "你们五个人能不能一起拍部戏",
       "onboard_time": 1706622573,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363395,
+      "num": 363395,
+      "word": "沈星回 斯哈斯哈",
+      "onboard_time": 1706674597,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 353811,
@@ -395,20 +427,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321323,
+      "num": 321323,
+      "word": "浙江发现H3N2与H10N5混合感染病例",
+      "onboard_time": 1706674357,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316160,
+      "num": 316160,
+      "word": "美甲 排队",
+      "onboard_time": 1706675378,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 310112,
       "num": 310112,
       "word": "坚持一年以上的护肤习惯",
       "onboard_time": 1706624251,
       "rank": 13,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 309675,
-      "num": 309675,
-      "word": "以军装妇女扮医生潜入医院射杀3人",
-      "onboard_time": 1706673998,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 306067,
@@ -491,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273107,
-      "num": 273107,
-      "word": "年轻人不肯为李维斯买单了",
-      "onboard_time": 1706673693,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 272381,
       "num": 272381,
       "word": "吴谢宇犯罪手段残忍严重违背人伦道德",
@@ -513,6 +545,14 @@
       "onboard_time": 1706672252,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266288,
+      "num": 266288,
+      "word": "韩安冉长文回应发火",
+      "onboard_time": 1706674357,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 261799,
@@ -539,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255001,
+      "num": 255001,
+      "word": "重庆姐弟坠亡案始末",
+      "onboard_time": 1706674777,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253544,
       "num": 253544,
       "word": "宋佳周迅我有点嗑你俩了",
@@ -563,6 +611,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 250156,
+      "num": 250156,
+      "word": "国台办回应台湾民众热议电视剧繁花",
+      "onboard_time": 1706674476,
+      "rank": 33,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 227271,
       "num": 227271,
       "word": "2024天秤座财富大爆炸",
@@ -585,6 +641,14 @@
       "onboard_time": 1706614351,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221037,
+      "num": 221037,
+      "word": "小豆豆一步一步走到了春晚",
+      "onboard_time": 1706674178,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219274,
@@ -643,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209852,
+      "num": 209852,
+      "word": "你好星期六",
+      "onboard_time": 1706674476,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208919,
       "num": 208919,
       "word": "缅北白所成刘正祥打脸语录",
@@ -665,14 +737,6 @@
       "onboard_time": 1706671649,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205921,
-      "num": 205921,
-      "word": "你好星期六",
-      "onboard_time": 1706674476,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 205377,
@@ -715,28 +779,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 199212,
-      "num": 199212,
-      "word": "国台办回应台湾民众热议电视剧繁花",
-      "onboard_time": 1706674476,
-      "rank": 33,
-      "category": "社会新闻,剧集"
-    },
-    {
       "raw_hot": 193807,
       "num": 193807,
       "word": "柳智敏自曝有舞台恐惧症",
       "onboard_time": 1706662649,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193002,
-      "num": 193002,
-      "word": "小豆豆一步一步走到了春晚",
-      "onboard_time": 1706674178,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190447,
@@ -755,28 +803,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 185210,
-      "num": 185210,
-      "word": "韩安冉长文回应发火",
-      "onboard_time": 1706674357,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 184073,
       "num": 184073,
       "word": "你好星期六全员接力新年flag",
       "onboard_time": 1706672791,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183673,
-      "num": 183673,
-      "word": "沈星回 斯哈斯哈",
-      "onboard_time": 1706674597,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 182987,
@@ -835,12 +867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175477,
-      "num": 175477,
-      "word": "浙江发现H3N2与H10N5混合感染病例",
-      "onboard_time": 1706674357,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 170093,
+      "num": 170093,
+      "word": "波比跳 公认的燃脂运动",
+      "onboard_time": 1706672730,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 167638,
@@ -897,14 +929,6 @@
       "onboard_time": 1706669549,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154980,
-      "num": 154980,
-      "word": "波比跳 公认的燃脂运动",
-      "onboard_time": 1706672730,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 152474,
@@ -1011,14 +1035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136782,
-      "num": 136782,
-      "word": "重庆姐弟坠亡案始末",
-      "onboard_time": 1706674777,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135894,
       "num": 135894,
       "word": "一部涉刑iPhone6S拍出22万天价",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1706669493,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127467,
+      "num": 127467,
+      "word": "晚晚带货",
+      "onboard_time": 1706675617,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 126719,
@@ -1251,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95230,
+      "num": 404723,
+      "word": "多地跑者跑出龙图",
+      "onboard_time": 1706673212,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 92287,
       "num": 92287,
       "word": "10省将遭遇暴雪大暴雪",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1706633365,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83105,
-      "num": 404723,
-      "word": "多地跑者跑出龙图",
-      "onboard_time": 1706673212,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 82289,
