@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706693641463,
+  "endTime": 1706696288352,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -579,6 +579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1095087,
+      "num": 1095087,
+      "word": "河南暴雪",
+      "onboard_time": 1706694271,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076611,
       "num": 1076611,
       "word": "吴京梦女",
@@ -689,6 +697,14 @@
       "onboard_time": 1706499873,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 974168,
+      "num": 974168,
+      "word": "王新军喊王安宇来家里吃饭",
+      "onboard_time": 1706695353,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 966880,
@@ -2243,6 +2259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 476713,
+      "num": 476713,
+      "word": "知情人称吴谢宇家属正准备处理后事",
+      "onboard_time": 1706688450,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475477,
       "num": 475477,
       "word": "官方辟谣上海松江发生爆炸",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1706430447,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 466006,
+      "num": 466006,
+      "word": "李相烨将结婚",
+      "onboard_time": 1706693553,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 465670,
@@ -2419,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445451,
+      "num": 445451,
+      "word": "祝绪丹热评",
+      "onboard_time": 1706693433,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443498,
       "num": 443498,
       "word": "李英爱再演大长今",
@@ -2507,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 430722,
+      "num": 1003141,
+      "word": "美方对中国留学生渗透拉拢毫无底线",
+      "onboard_time": 1706690792,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430454,
       "num": 430454,
       "word": "蔡徐坤新歌RIDEORDIE",
@@ -2529,14 +2577,6 @@
       "onboard_time": 1706594969,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427617,
-      "num": 578112,
-      "word": "美方对中国留学生渗透拉拢毫无底线",
-      "onboard_time": 1706690792,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 426472,
@@ -3003,14 +3043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 375578,
-      "num": 375578,
-      "word": "知情人称吴谢宇家属正准备处理后事",
-      "onboard_time": 1706688450,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373774,
       "num": 373774,
       "word": "董明珠称格力不关心股价",
@@ -3363,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335301,
+      "num": 335301,
+      "word": "强迫性皮肤剥离症",
+      "onboard_time": 1706694152,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 334646,
       "num": 334646,
       "word": "江西抚州高彩礼会被写上黑榜",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1706401166,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 325016,
+      "num": 325016,
+      "word": "王安宇相机落水了",
+      "onboard_time": 1706693131,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 322860,
@@ -4107,14 +4155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270592,
-      "num": 270592,
-      "word": "王安宇相机落水了",
-      "onboard_time": 1706693131,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270292,
       "num": 270292,
       "word": "快船打爆凯尔特人",
@@ -4145,6 +4185,14 @@
       "onboard_time": 1706672252,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266403,
+      "num": 266403,
+      "word": "网约车被禁止在浦东机场运营",
+      "onboard_time": 1706692772,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266288,
@@ -4203,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261165,
+      "num": 1325967,
+      "word": "民警双手接住9旬坠楼老人",
+      "onboard_time": 1706692413,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 260598,
       "num": 260598,
       "word": "上海优化住房限购政策",
@@ -4232,6 +4288,22 @@
       "word": "女子遭男友骗光6套房还被小三",
       "onboard_time": 1706539532,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258178,
+      "num": 1108947,
+      "word": "小姐姐悄悄给警车挂上平安符",
+      "onboard_time": 1706694629,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257777,
+      "num": 257777,
+      "word": "茅台董事长曾称酒库里存了几十万吨基酒",
+      "onboard_time": 1706695650,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -4265,6 +4337,14 @@
       "onboard_time": 1706365712,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253753,
+      "num": 253753,
+      "word": "恋与深空",
+      "onboard_time": 1706694152,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 253544,
@@ -4321,6 +4401,14 @@
       "onboard_time": 1706685211,
       "rank": 31,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 250817,
+      "num": 250817,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1706692472,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 250156,
@@ -4411,14 +4499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 242861,
-      "num": 242861,
-      "word": "i人喜欢的东西",
-      "onboard_time": 1706692472,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241250,
       "num": 241250,
       "word": "丰田汽车会长道歉",
@@ -4473,6 +4553,14 @@
       "onboard_time": 1706610992,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238045,
+      "num": 238045,
+      "word": "张一山赶上春运了",
+      "onboard_time": 1706695051,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 237497,
@@ -5089,14 +5177,6 @@
       "onboard_time": 1706399543,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210701,
-      "num": 210701,
-      "word": "李相烨将结婚",
-      "onboard_time": 1706693553,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 210371,
@@ -5731,6 +5811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192085,
+      "num": 192085,
+      "word": "NANA联名婚纱",
+      "onboard_time": 1706695711,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 191998,
+      "num": 191998,
+      "word": "刘德华 我可以当你们爸爸",
+      "onboard_time": 1706693731,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191823,
       "num": 191823,
       "word": "宁德时代预计2023年净利润425亿至455亿元",
@@ -6113,6 +6209,14 @@
       "onboard_time": 1706540372,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175757,
+      "num": 149141,
+      "word": "刘德华 我一定等到你发财",
+      "onboard_time": 1706693851,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 175717,
@@ -6547,12 +6651,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159699,
-      "num": 159699,
-      "word": "网约车被禁止在浦东机场运营",
-      "onboard_time": 1706692772,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 159948,
+      "num": 159948,
+      "word": "外媒曝扬科维奇已下课",
+      "onboard_time": 1706695711,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 159549,
@@ -6803,14 +6907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154847,
-      "num": 154847,
-      "word": "祝绪丹热评",
-      "onboard_time": 1706693433,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154737,
       "num": 154737,
       "word": "这花甲也太不正经了",
@@ -6939,6 +7035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151100,
+      "num": 236733,
+      "word": "春节前油价上调",
+      "onboard_time": 1706694152,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150935,
+      "num": 150935,
+      "word": "猫 不是说是黄金吗",
+      "onboard_time": 1706692772,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150836,
       "num": 150836,
       "word": "老板日售60只羊直呼剁肉到手疼",
@@ -6969,14 +7081,6 @@
       "onboard_time": 1706427989,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150267,
-      "num": 150267,
-      "word": "猫 不是说是黄金吗",
-      "onboard_time": 1706692772,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 150051,
@@ -7041,6 +7145,14 @@
       "onboard_time": 1706685752,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149039,
+      "num": 149039,
+      "word": "高叶说朱一龙早该火了",
+      "onboard_time": 1706693314,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148581,
@@ -7635,20 +7747,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 136359,
+      "num": 136359,
+      "word": "DRG对战XYG",
+      "onboard_time": 1706694332,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136328,
       "num": 136328,
       "word": "在暴雪时分之我是真有一个朋友",
       "onboard_time": 1706508810,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136171,
-      "num": 136171,
-      "word": "高叶说朱一龙早该火了",
-      "onboard_time": 1706693314,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 135971,
@@ -8587,14 +8699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118782,
-      "num": 118782,
-      "word": "民警双手接住9旬坠楼老人",
-      "onboard_time": 1706692413,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 118702,
       "num": 118702,
       "word": "李明德来了王锵也来了",
@@ -9107,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110153,
+      "num": 110153,
+      "word": "仰头玩手机对颈椎好吗",
+      "onboard_time": 1706694211,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110131,
       "num": 110131,
       "word": "咒术回战 好伟大的脸",
@@ -9169,6 +9281,14 @@
       "onboard_time": 1706691932,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109109,
+      "num": 109109,
+      "word": "KPL",
+      "onboard_time": 1706693972,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109066,
@@ -9803,6 +9923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92337,
+      "num": 1097082,
+      "word": "小车往河道溜车关键时刻他出手了",
+      "onboard_time": 1706694629,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 92169,
       "num": 127352,
       "word": "这支女子电力检修队好飒",
@@ -10396,7 +10524,7 @@
     },
     {
       "raw_hot": 40063,
-      "num": 130467,
+      "num": 149335,
       "word": "京东除夕批发式送礼每种十万份起",
       "onboard_time": 1706685934,
       "rank": 49,
@@ -10537,6 +10665,14 @@
       "onboard_time": 1706432430,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25784,
+      "num": 192033,
+      "word": "一种很新的祈福方式",
+      "onboard_time": 1706695472,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23688,
