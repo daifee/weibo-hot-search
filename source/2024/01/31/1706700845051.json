@@ -1,0 +1,410 @@
+{
+  "runTime": 1706700845051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1298872,
+        "num": 1298872,
+        "word": "王新军喊王安宇来家里吃饭",
+        "onboard_time": 1706695353,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379042,
+        "num": 1155522,
+        "word": "小姐姐悄悄给警车挂上平安符",
+        "onboard_time": 1706694629,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59065,
+        "num": 1066098,
+        "word": "中国文旅大联欢",
+        "onboard_time": 1706689413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064511,
+        "num": 1064511,
+        "word": "茅台董事长曾称酒库里存了几十万吨基酒",
+        "onboard_time": 1706695650,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195849,
+        "num": 982952,
+        "word": "民警双手接住9旬坠楼老人",
+        "onboard_time": 1706692413,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 976632,
+        "num": 976632,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213056,
+        "num": 921885,
+        "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+        "onboard_time": 1706699971,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913443,
+        "num": 913443,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877193,
+        "num": 877193,
+        "word": "顾客买胖东来牛肉干被强制退全款",
+        "onboard_time": 1706699311,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309854,
+        "num": 875635,
+        "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
+        "onboard_time": 1706698229,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922135,
+        "num": 875611,
+        "word": "鹿emoji",
+        "onboard_time": 1706696730,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 875580,
+        "num": 875580,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588171,
+        "num": 588171,
+        "word": "狗剩快跑 安宇快跑",
+        "onboard_time": 1706696974,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526519,
+        "num": 526519,
+        "word": "强迫性皮肤剥离症",
+        "onboard_time": 1706694152,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109269,
+        "num": 470815,
+        "word": "2024网络视听盛典本周六播出",
+        "onboard_time": 1706681014,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438319,
+        "num": 438319,
+        "word": "专家建议3000点以下越低越买",
+        "onboard_time": 1706698471,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 436015,
+        "num": 436015,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428141,
+        "num": 428141,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424992,
+        "num": 424992,
+        "word": "车银优弟弟读的复旦大学",
+        "onboard_time": 1706691392,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407857,
+        "num": 407857,
+        "word": "奔驰车主加塞砸车被拘10日",
+        "onboard_time": 1706689413,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365955,
+        "num": 365955,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344341,
+        "num": 344341,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338179,
+        "num": 338179,
+        "word": "黄磊做菜VS贾冰做菜",
+        "onboard_time": 1706691512,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293233,
+        "num": 293233,
+        "word": "僵尸新娘 意难平",
+        "onboard_time": 1706699250,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281776,
+        "num": 281776,
+        "word": "原来离职也能很体面",
+        "onboard_time": 1706698412,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270199,
+        "num": 270199,
+        "word": "坠亡姐弟案女孩出发前还说想爸爸",
+        "onboard_time": 1706684191,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270029,
+        "num": 270029,
+        "word": "祝绪丹热评",
+        "onboard_time": 1706693433,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254604,
+        "num": 254604,
+        "word": "美方对中国留学生渗透拉拢毫无底线",
+        "onboard_time": 1706690792,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234459,
+        "num": 234459,
+        "word": "张一山赶上春运了",
+        "onboard_time": 1706695051,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208985,
+        "num": 208985,
+        "word": "杨紫抽绳吊带裙",
+        "onboard_time": 1706696852,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208572,
+        "num": 208572,
+        "word": "躲过新冠没躲过这次咽喉炎",
+        "onboard_time": 1706681612,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206608,
+        "num": 206608,
+        "word": "KPOP还能cha吗",
+        "onboard_time": 1706700450,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198689,
+        "num": 198689,
+        "word": "无限暖暖实机",
+        "onboard_time": 1706700271,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194480,
+        "num": 194480,
+        "word": "你也有今天番外",
+        "onboard_time": 1706699250,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185942,
+        "num": 185942,
+        "word": "李相烨将结婚",
+        "onboard_time": 1706693553,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176554,
+        "num": 176554,
+        "word": "狗剩快跑",
+        "onboard_time": 1706699490,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176311,
+        "num": 176311,
+        "word": "王楚钦说冠军意味着我还能更好",
+        "onboard_time": 1706698950,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176175,
+        "num": 176175,
+        "word": "环球音乐将停止向TikTok授权音乐",
+        "onboard_time": 1706697270,
+        "rank": 37,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 174780,
+        "num": 174780,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160313,
+        "num": 160313,
+        "word": "A股处于历史大底附近位置",
+        "onboard_time": 1706700511,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "贵州毕节整治滥办酒席现象 撒盐",
+        "onboard_time": 1706698049,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156567,
+        "num": 156567,
+        "word": "知情人称吴谢宇家属正准备处理后事",
+        "onboard_time": 1706688450,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149673,
+        "num": 149673,
+        "word": "吴尊称呼女儿二老婆",
+        "onboard_time": 1706673512,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146817,
+        "num": 146817,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145647,
+        "num": 145647,
+        "word": "厂家回应刘强东掏腰包送家乡羽绒服",
+        "onboard_time": 1706697330,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137533,
+        "num": 137533,
+        "word": "A股主要指数连续6个月阴跌",
+        "onboard_time": 1706697751,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137181,
+        "num": 137181,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130392,
+        "num": 130392,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1706692472,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 129533,
+        "word": "要久久爱见面会",
+        "onboard_time": 1706690191,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124946,
+        "num": 124946,
+        "word": "刘德华不认识loopy",
+        "onboard_time": 1706700811,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}

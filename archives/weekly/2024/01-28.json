@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706699637913,
+  "endTime": 1706700845051,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1025648,
-      "num": 730435,
+      "num": 875611,
       "word": "鹿emoji",
       "onboard_time": 1706696730,
       "rank": 28,
@@ -896,6 +896,14 @@
       "word": "河北农大回应加塞骂人车主身份",
       "onboard_time": 1706686111,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877193,
+      "num": 877193,
+      "word": "顾客买胖东来牛肉干被强制退全款",
+      "onboard_time": 1706699311,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1771,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588171,
+      "num": 588171,
+      "word": "狗剩快跑 安宇快跑",
+      "onboard_time": 1706696974,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583705,
       "num": 583705,
       "word": "易烊千玺工作室包场赵丽颖新电影",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1706444549,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532272,
-      "num": 532272,
-      "word": "狗剩快跑 安宇快跑",
-      "onboard_time": 1706696974,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 521934,
@@ -2523,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438319,
+      "num": 438319,
+      "word": "专家建议3000点以下越低越买",
+      "onboard_time": 1706698471,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 437832,
       "num": 227956,
       "word": "迪丽热巴高定首穿",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1706504789,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436015,
+      "num": 436015,
+      "word": "王安宇 应该的姐夫",
+      "onboard_time": 1706697569,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 435719,
@@ -2609,14 +2633,6 @@
       "onboard_time": 1706594969,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427465,
-      "num": 427465,
-      "word": "王安宇 应该的姐夫",
-      "onboard_time": 1706697569,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 426472,
@@ -3163,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365955,
+      "num": 365955,
+      "word": "刘德华已经在超市上了19年班了",
+      "onboard_time": 1706699490,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365462,
       "num": 365462,
       "word": "金高银李到晛 破墓",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1706517990,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 344341,
+      "num": 344341,
+      "word": "成毅裤子透光",
+      "onboard_time": 1706700629,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342752,
@@ -3657,6 +3689,14 @@
       "onboard_time": 1706488168,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309854,
+      "num": 875635,
+      "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
+      "onboard_time": 1706698229,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309556,
@@ -3947,6 +3987,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 293233,
+      "num": 293233,
+      "word": "僵尸新娘 意难平",
+      "onboard_time": 1706699250,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 293200,
       "num": 293200,
       "word": "英雄联盟抖音全面开播",
@@ -4075,28 +4123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279914,
-      "num": 279914,
-      "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
-      "onboard_time": 1706698229,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279669,
       "num": 279669,
       "word": "古偶致命四连击",
       "onboard_time": 1706657785,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279450,
-      "num": 279450,
-      "word": "专家建议3000点以下越低越买",
-      "onboard_time": 1706698471,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 279414,
@@ -4979,14 +5011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 218840,
-      "num": 218840,
-      "word": "刘德华已经在超市上了19年班了",
-      "onboard_time": 1706699490,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 218789,
       "num": 216901,
       "word": "易烊千玺西装弹贝斯",
@@ -5145,6 +5169,14 @@
       "onboard_time": 1706340387,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213056,
+      "num": 921885,
+      "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+      "onboard_time": 1706699971,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212962,
@@ -5353,6 +5385,14 @@
       "onboard_time": 1706603192,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 206608,
+      "num": 206608,
+      "word": "KPOP还能cha吗",
+      "onboard_time": 1706700450,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 206595,
@@ -5699,6 +5739,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 198689,
+      "num": 198689,
+      "word": "无限暖暖实机",
+      "onboard_time": 1706700271,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198084,
       "num": 198084,
       "word": "周星驰赠送周杰伦签名卡",
@@ -5771,14 +5819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196133,
-      "num": 196133,
-      "word": "僵尸新娘 意难平",
-      "onboard_time": 1706699250,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 196047,
       "num": 196047,
       "word": "2024江苏卫视春晚首波阵容",
@@ -5849,6 +5889,14 @@
       "onboard_time": 1706526093,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194480,
+      "num": 194480,
+      "word": "你也有今天番外",
+      "onboard_time": 1706699250,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 193807,
@@ -6443,14 +6491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171960,
-      "num": 171960,
-      "word": "顾客买胖东来牛肉干被强制退全款",
-      "onboard_time": 1706699311,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "范丞丞不会用滑盖手机",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1706616089,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160313,
+      "num": 160313,
+      "word": "A股处于历史大底附近位置",
+      "onboard_time": 1706700511,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 160200,
@@ -7259,14 +7307,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 149717,
-      "num": 149717,
-      "word": "你也有今天番外",
-      "onboard_time": 1706699250,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149552,
       "num": 123085,
       "word": "梦天拍热巴",
@@ -7393,6 +7433,14 @@
       "onboard_time": 1706583629,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146817,
+      "num": 146817,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1706700692,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 146675,
@@ -7873,6 +7921,14 @@
       "onboard_time": 1706670811,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137181,
+      "num": 137181,
+      "word": "黄瀛子蒋翼床上吻",
+      "onboard_time": 1706700752,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136893,
@@ -8521,6 +8577,14 @@
       "onboard_time": 1706603072,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124946,
+      "num": 124946,
+      "word": "刘德华不认识loopy",
+      "onboard_time": 1706700811,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 124797,
