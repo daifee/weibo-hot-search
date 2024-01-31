@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706726036672,
+  "endTime": 1706728381950,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142382,
+      "num": 142382,
+      "word": "男星粉丝多次发图被指滥用警徽",
+      "onboard_time": 1706725339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139499,
       "num": 139499,
       "word": "黄瀛子蒋翼床上吻",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60914,
-      "num": 60914,
-      "word": "男星粉丝多次发图被指滥用警徽",
-      "onboard_time": 1706725339,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42274,
       "num": 42274,
       "word": "赵丽颖粉丝包场第二十条",
@@ -441,6 +441,22 @@
       "onboard_time": 1706722581,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 18830,
+      "num": 18830,
+      "word": "亚洲杯",
+      "onboard_time": 1706728097,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16163,
+      "num": 17713,
+      "word": "热辣滚烫预售开启",
+      "onboard_time": 1706727676,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 13416,
