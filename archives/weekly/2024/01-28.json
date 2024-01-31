@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706708058196,
+  "endTime": 1706710540795,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -819,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 944630,
+      "num": 944630,
+      "word": "王安宇好多白头发",
+      "onboard_time": 1706708912,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 941522,
       "num": 941522,
       "word": "女子被未戴嘴笼狗吓到与主人扭打",
@@ -1395,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698057,
+      "num": 698057,
+      "word": "中国排名第五的大学",
+      "onboard_time": 1706709333,
+      "rank": 4,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 697749,
       "num": 697749,
       "word": "胡歌回应为何常在西藏青海被偶遇",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1706436448,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668436,
+      "num": 668436,
+      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+      "onboard_time": 1706706993,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665186,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1706430506,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 634775,
+      "num": 634775,
+      "word": "papi酱 聊爱豆像在说另一半",
+      "onboard_time": 1706705852,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 632316,
@@ -2227,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498960,
+      "num": 470488,
+      "word": "Jessi与朴宰范公司解约",
+      "onboard_time": 1706708975,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498870,
       "num": 498870,
       "word": "杨幂谈成为顶级流量的代价",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1706594969,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427056,
-      "num": 427056,
-      "word": "papi酱 聊爱豆像在说另一半",
-      "onboard_time": 1706705852,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 426472,
@@ -3611,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330848,
+      "num": 204550,
+      "word": "车厘子只看几个J谁买谁是大冤种",
+      "onboard_time": 1706709694,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 330306,
       "num": 330306,
       "word": "KPOP纯元",
@@ -4179,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285038,
+      "num": 285038,
+      "word": "李一桐白鹿撞造型",
+      "onboard_time": 1706710354,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284782,
       "num": 284782,
       "word": "关茈文刘芬",
@@ -4507,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258647,
+      "num": 258647,
+      "word": "打工人的统一过年姿势",
+      "onboard_time": 1706708435,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255242,
       "num": 255242,
       "word": "小时候以为在写字楼办公很高级",
@@ -4785,6 +4841,14 @@
       "onboard_time": 1706530534,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236700,
+      "num": 236700,
+      "word": "我妈终于认可了我的新衣柜",
+      "onboard_time": 1706708975,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 235686,
@@ -5083,14 +5147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220731,
-      "num": 220731,
-      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
-      "onboard_time": 1706706993,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220592,
       "num": 220592,
       "word": "7岁小豆豆收到了特别邀约",
@@ -5153,6 +5209,14 @@
       "onboard_time": 1706500531,
       "rank": 23,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 218118,
+      "num": 218118,
+      "word": "金秀贤金智媛围读剧本",
+      "onboard_time": 1706710055,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 217934,
@@ -5329,6 +5393,14 @@
       "onboard_time": 1706521471,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212348,
+      "num": 212348,
+      "word": "JDG战胜NIP",
+      "onboard_time": 1706709571,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 212308,
@@ -5617,6 +5689,14 @@
       "onboard_time": 1706690550,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "日本晋级亚洲杯8强",
+      "onboard_time": 1706710113,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 204829,
@@ -6051,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194443,
+      "num": 194443,
+      "word": "花少收官倒放是不说再见",
+      "onboard_time": 1706708194,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193807,
       "num": 193807,
       "word": "柳智敏自曝有舞台恐惧症",
@@ -6401,6 +6489,14 @@
       "onboard_time": 1706526572,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 183329,
+      "num": 183329,
+      "word": "要结婚了才发现自己是小学学历",
+      "onboard_time": 1706710235,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 183072,
@@ -6947,6 +7043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162928,
+      "num": 162928,
+      "word": "A股已经足够便宜",
+      "onboard_time": 1706709514,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162823,
       "num": 151726,
       "word": "杨紫高智感红唇妆",
@@ -6995,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162059,
+      "num": 162059,
+      "word": "日本乌龙球",
+      "onboard_time": 1706710055,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161951,
       "num": 161951,
       "word": "互联网大厂人彩礼逐年下降",
@@ -7009,6 +7121,14 @@
       "onboard_time": 1706416111,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160910,
+      "num": 160910,
+      "word": "猫德学院手拿把掐狮子猫",
+      "onboard_time": 1706709094,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 160811,
@@ -7275,6 +7395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155239,
+      "num": 155239,
+      "word": "祈今朝微博直播",
+      "onboard_time": 1706709094,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155042,
       "num": 155042,
       "word": "在韩中国学生展示韩国大学美食",
@@ -7537,6 +7665,14 @@
       "onboard_time": 1706605533,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149722,
+      "num": 149722,
+      "word": "EDG人员变动公告",
+      "onboard_time": 1706710470,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 149552,
@@ -7963,6 +8099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140670,
+      "num": 140670,
+      "word": "妖刀没首发",
+      "onboard_time": 1706708311,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140311,
       "num": 140311,
       "word": "杜兰特不希望被篮网致敬",
@@ -8000,6 +8144,14 @@
       "word": "乘务员开箱每掏一下都让人猜不到",
       "onboard_time": 1706540072,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140000,
+      "num": 140000,
+      "word": "烟花爆竹火星引发火情致1人身亡",
+      "onboard_time": 1706708854,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8169,6 +8321,14 @@
       "onboard_time": 1706411728,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136469,
+      "num": 136469,
+      "word": "杨藩回应董宇辉直播间涉嫌抄袭",
+      "onboard_time": 1706710416,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 136424,
@@ -10745,6 +10905,14 @@
       "onboard_time": 1706569341,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 77910,
+      "num": 768468,
+      "word": "春运安全出行天气地图",
+      "onboard_time": 1706709632,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77378,

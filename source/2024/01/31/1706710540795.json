@@ -1,0 +1,410 @@
+{
+  "runTime": 1706710540795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944630,
+        "num": 944630,
+        "word": "王安宇好多白头发",
+        "onboard_time": 1706708912,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875513,
+        "num": 875513,
+        "word": "专家建议3000点以下越低越买",
+        "onboard_time": 1706698471,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77910,
+        "num": 768468,
+        "word": "春运安全出行天气地图",
+        "onboard_time": 1706709632,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754863,
+        "num": 754863,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 698057,
+        "num": 698057,
+        "word": "中国排名第五的大学",
+        "onboard_time": 1706709333,
+        "rank": 4,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 668436,
+        "num": 668436,
+        "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+        "onboard_time": 1706706993,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659802,
+        "num": 659802,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634775,
+        "num": 634775,
+        "word": "papi酱 聊爱豆像在说另一半",
+        "onboard_time": 1706705852,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 593362,
+        "num": 593362,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474903,
+        "num": 474903,
+        "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+        "onboard_time": 1706703272,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564414,
+        "num": 471623,
+        "word": "刘诗诗直播妆造",
+        "onboard_time": 1706706514,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 498960,
+        "num": 470488,
+        "word": "Jessi与朴宰范公司解约",
+        "onboard_time": 1706708975,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496610,
+        "num": 469549,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467180,
+        "num": 467180,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449453,
+        "num": 449453,
+        "word": "米哈游等遭工信部点名",
+        "onboard_time": 1706703151,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417175,
+        "num": 417175,
+        "word": "王新军喊王安宇来家里吃饭",
+        "onboard_time": 1706695353,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381907,
+        "num": 381907,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376037,
+        "num": 376037,
+        "word": "邓为向涵之吻戏路透",
+        "onboard_time": 1706705371,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308676,
+        "num": 308676,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 303609,
+        "num": 303609,
+        "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+        "onboard_time": 1706704112,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343854,
+        "num": 300859,
+        "word": "演唱会玩手机的爱豆",
+        "onboard_time": 1706703993,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285038,
+        "num": 285038,
+        "word": "李一桐白鹿撞造型",
+        "onboard_time": 1706710354,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268244,
+        "num": 268244,
+        "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+        "onboard_time": 1706699971,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262865,
+        "num": 262865,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258647,
+        "num": 258647,
+        "word": "打工人的统一过年姿势",
+        "onboard_time": 1706708435,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236700,
+        "num": 236700,
+        "word": "我妈终于认可了我的新衣柜",
+        "onboard_time": 1706708975,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232962,
+        "num": 232962,
+        "word": "高铁有遛娃车厢了",
+        "onboard_time": 1706705191,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218118,
+        "num": 218118,
+        "word": "金秀贤金智媛围读剧本",
+        "onboard_time": 1706710055,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212348,
+        "num": 212348,
+        "word": "JDG战胜NIP",
+        "onboard_time": 1706709571,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204924,
+        "num": 204924,
+        "word": "日本晋级亚洲杯8强",
+        "onboard_time": 1706710113,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330848,
+        "num": 204550,
+        "word": "车厘子只看几个J谁买谁是大冤种",
+        "onboard_time": 1706709694,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204095,
+        "num": 204095,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194588,
+        "num": 194588,
+        "word": "19层官微 于正",
+        "onboard_time": 1706702492,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194443,
+        "num": 194443,
+        "word": "花少收官倒放是不说再见",
+        "onboard_time": 1706708194,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183329,
+        "num": 183329,
+        "word": "要结婚了才发现自己是小学学历",
+        "onboard_time": 1706710235,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182993,
+        "num": 182993,
+        "word": "狗剩快跑 安宇快跑",
+        "onboard_time": 1706696974,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180936,
+        "num": 180936,
+        "word": "偶遇王鹤棣在新加坡吃面",
+        "onboard_time": 1706707050,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165317,
+        "num": 165317,
+        "word": "强迫性皮肤剥离症",
+        "onboard_time": 1706694152,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 162928,
+        "num": 162928,
+        "word": "A股已经足够便宜",
+        "onboard_time": 1706709514,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162059,
+        "num": 162059,
+        "word": "日本乌龙球",
+        "onboard_time": 1706710055,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160910,
+        "num": 160910,
+        "word": "猫德学院手拿把掐狮子猫",
+        "onboard_time": 1706709094,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160019,
+        "num": 160019,
+        "word": "他那么普通 你还是走不出来",
+        "onboard_time": 1706702311,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157531,
+        "num": 157531,
+        "word": "鹿emoji",
+        "onboard_time": 1706696730,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155239,
+        "num": 155239,
+        "word": "祈今朝微博直播",
+        "onboard_time": 1706709094,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149722,
+        "num": 149722,
+        "word": "EDG人员变动公告",
+        "onboard_time": 1706710470,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142460,
+        "num": 142460,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140670,
+        "num": 140670,
+        "word": "妖刀没首发",
+        "onboard_time": 1706708311,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140000,
+        "num": 140000,
+        "word": "烟花爆竹火星引发火情致1人身亡",
+        "onboard_time": 1706708854,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136469,
+        "num": 136469,
+        "word": "杨藩回应董宇辉直播间涉嫌抄袭",
+        "onboard_time": 1706710416,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135917,
+        "num": 135917,
+        "word": "黄磊做菜VS贾冰做菜",
+        "onboard_time": 1706691512,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}
