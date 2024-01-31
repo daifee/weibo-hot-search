@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706685364555,
+  "endTime": 1706686432212,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -57,6 +57,14 @@
       "onboard_time": 1706673693,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1521387,
+      "num": 1521387,
+      "word": "躲过新冠没躲过这次咽喉炎",
+      "onboard_time": 1706681612,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1443702,
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 797493,
-      "num": 797493,
-      "word": "躲过新冠没躲过这次咽喉炎",
-      "onboard_time": 1706681612,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 759359,
       "num": 759359,
       "word": "美甲 排队",
       "onboard_time": 1706675378,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 757169,
+      "num": 757169,
+      "word": "秦海璐怎么还戴着耳机",
+      "onboard_time": 1706681788,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 753071,
@@ -185,14 +193,6 @@
       "onboard_time": 1706669789,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737940,
-      "num": 737940,
-      "word": "秦海璐怎么还戴着耳机",
-      "onboard_time": 1706681788,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 661579,
@@ -257,6 +257,22 @@
       "onboard_time": 1706683231,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 571396,
+      "num": 571396,
+      "word": "胡锡进建议等股市缓过元气再推动公司上市",
+      "onboard_time": 1706683112,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 567773,
+      "num": 567773,
+      "word": "曲婉婷发文",
+      "onboard_time": 1706686053,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 563663,
@@ -337,14 +353,6 @@
       "onboard_time": 1706601872,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 481494,
-      "num": 481494,
-      "word": "胡锡进建议等股市缓过元气再推动公司上市",
-      "onboard_time": 1706683112,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 477913,
@@ -433,6 +441,14 @@
       "onboard_time": 1706672131,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408238,
+      "num": 408238,
+      "word": "美甲店开始收春节费了",
+      "onboard_time": 1706683412,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 407743,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305918,
+      "num": 305918,
+      "word": "坠亡姐弟案女孩出发前还说想爸爸",
+      "onboard_time": 1706684191,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301460,
       "num": 301460,
       "word": "曹璐报名乘风2024",
@@ -635,12 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 295093,
-      "num": 295093,
-      "word": "美甲店开始收春节费了",
-      "onboard_time": 1706683412,
-      "rank": 19,
-      "category": "美妆"
+      "raw_hot": 296510,
+      "num": 296510,
+      "word": "57岁王祖贤素颜自拍",
+      "onboard_time": 1706684672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 293950,
@@ -681,6 +705,14 @@
       "onboard_time": 1706662051,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277046,
+      "num": 277046,
+      "word": "河北农大",
+      "onboard_time": 1706684727,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276859,
@@ -795,20 +827,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 251011,
+      "num": 251011,
+      "word": "董宇辉回应东方甄选年会痛哭",
+      "onboard_time": 1706685211,
+      "rank": 31,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 250156,
       "num": 250156,
       "word": "国台办回应台湾民众热议电视剧繁花",
       "onboard_time": 1706674476,
       "rank": 33,
       "category": "社会新闻,剧集"
-    },
-    {
-      "raw_hot": 239163,
-      "num": 239163,
-      "word": "57岁王祖贤素颜自拍",
-      "onboard_time": 1706684672,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 235633,
@@ -825,6 +857,14 @@
       "onboard_time": 1706681369,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231815,
+      "num": 231815,
+      "word": "河北农大回应加塞骂人车主身份",
+      "onboard_time": 1706686111,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228926,
@@ -881,6 +921,14 @@
       "onboard_time": 1706625333,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 216270,
+      "num": 216270,
+      "word": "我妈是NPC 一靠近她就有任务",
+      "onboard_time": 1706684251,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 216247,
@@ -955,14 +1003,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 207175,
-      "num": 207175,
-      "word": "坠亡姐弟案女孩出发前还说想爸爸",
-      "onboard_time": 1706684191,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206075,
       "num": 206075,
       "word": "蔡徐坤RIDEORDIE歌词",
@@ -985,6 +1025,14 @@
       "onboard_time": 1706624193,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203219,
+      "num": 203219,
+      "word": "胡锡进",
+      "onboard_time": 1706685451,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202922,
@@ -1019,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194640,
+      "num": 194640,
+      "word": "TTG好牛的团战",
+      "onboard_time": 1706685872,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193807,
       "num": 193807,
       "word": "柳智敏自曝有舞台恐惧症",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1706671050,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 187522,
-      "num": 187522,
-      "word": "董宇辉回应东方甄选年会痛哭",
-      "onboard_time": 1706685211,
-      "rank": 31,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 185482,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1706625993,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182191,
+      "num": 182191,
+      "word": "丹东小草莓下苏杭冻出高原红",
+      "onboard_time": 1706686053,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 182172,
@@ -1123,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177557,
-      "num": 177557,
-      "word": "我妈是NPC 一靠近她就有任务",
-      "onboard_time": 1706684251,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177287,
       "num": 177287,
       "word": "恋与深空无人知晓时",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1706683051,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166745,
+      "num": 166745,
+      "word": "胡锡进将减少针对股市发言",
+      "onboard_time": 1706685511,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 164735,
@@ -1267,20 +1323,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 150112,
-      "num": 150112,
-      "word": "河北农大",
-      "onboard_time": 1706684727,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149207,
       "num": 135492,
       "word": "宋威龙 解约",
       "onboard_time": 1706613513,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149148,
+      "num": 149148,
+      "word": "东北爸妈带千斤特产到重庆看女儿",
+      "onboard_time": 1706685752,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148054,
@@ -1315,12 +1371,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143801,
+      "num": 143801,
+      "word": "赵昭仪送胡先煦自己织的手套",
+      "onboard_time": 1706685690,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143040,
       "num": 143040,
       "word": "你会买2万多的苹果头显吗",
       "onboard_time": 1706656281,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 141630,
+      "num": 141630,
+      "word": "当财神遇上月老",
+      "onboard_time": 1706685569,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 141197,
@@ -1385,6 +1457,14 @@
       "onboard_time": 1706665289,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135203,
+      "num": 135203,
+      "word": "秦岚迪丽热巴当面嗑一生辛胡",
+      "onboard_time": 1706686351,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 135039,
@@ -1780,7 +1860,7 @@
     },
     {
       "raw_hot": 61424,
-      "num": 312115,
+      "num": 425138,
       "word": "去哈尔滨玩儿都穿什么",
       "onboard_time": 1706677359,
       "rank": 33,
@@ -1825,6 +1905,14 @@
       "onboard_time": 1706657664,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 40063,
+      "num": 130467,
+      "word": "京东除夕批发式送礼每种十万份起",
+      "onboard_time": 1706685934,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 22994,
