@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706732235918,
+  "endTime": 1706733244389,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -480,6 +480,14 @@
       "word": "2月这些新规将要施行",
       "onboard_time": 1706709153,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12558,
+      "num": 12558,
+      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+      "onboard_time": 1706733017,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
