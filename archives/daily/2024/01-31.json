@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706678226209,
+  "endTime": 1706679264342,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1800820,
+      "num": 1800820,
+      "word": "张波叶诚尘微信聊天记录",
+      "onboard_time": 1706676097,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1626775,
       "num": 1626775,
       "word": "吴尊称呼女儿二老婆",
@@ -49,14 +57,6 @@
       "onboard_time": 1706658384,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1422675,
-      "num": 1422675,
-      "word": "张波叶诚尘微信聊天记录",
-      "onboard_time": 1706676097,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1337166,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912539,
+      "num": 912539,
+      "word": "张庭夫妇 6套别墅",
+      "onboard_time": 1706677359,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 805410,
       "num": 805410,
       "word": "遭奔驰加塞砸车女子称对方还未道歉",
@@ -161,6 +169,14 @@
       "onboard_time": 1706626474,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621762,
+      "num": 621762,
+      "word": "拜登被曝在寻求泰勒斯威夫特支持",
+      "onboard_time": 1706676758,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 610547,
@@ -211,28 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554023,
-      "num": 554023,
-      "word": "拜登被曝在寻求泰勒斯威夫特支持",
-      "onboard_time": 1706676758,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 540546,
       "num": 540546,
       "word": "年轻人不肯为李维斯买单了",
       "onboard_time": 1706673693,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 534673,
-      "num": 534673,
-      "word": "张庭夫妇 6套别墅",
-      "onboard_time": 1706677359,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 519250,
@@ -248,6 +248,14 @@
       "word": "热巴 盲目夸自家孩子的家长",
       "onboard_time": 1706664270,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 511336,
+      "num": 511336,
+      "word": "花儿与少年 超哥说了啥",
+      "onboard_time": 1706678497,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -347,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426472,
+      "num": 307294,
+      "word": "喜茶联名繁花",
+      "onboard_time": 1706677835,
+      "rank": 20,
+      "category": "美食,剧集"
+    },
+    {
       "raw_hot": 420512,
       "num": 420512,
       "word": "张波叶诚尘共同犯罪均系主犯",
@@ -427,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 355589,
+      "num": 355589,
+      "word": "科学家发现鼻后有个大脑污水系统",
+      "onboard_time": 1706676937,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353811,
       "num": 353811,
       "word": "史航",
@@ -441,14 +465,6 @@
       "onboard_time": 1706626953,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 346432,
-      "num": 306082,
-      "word": "喜茶联名繁花",
-      "onboard_time": 1706677835,
-      "rank": 20,
-      "category": "美食,剧集"
     },
     {
       "raw_hot": 345437,
@@ -491,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320541,
+      "num": 320541,
+      "word": "裴珠泫模仿韩素希咬笔盖",
+      "onboard_time": 1706676997,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319474,
+      "num": 319474,
+      "word": "生母回应姐弟坠亡案凶手被执行死刑",
+      "onboard_time": 1706678613,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310112,
       "num": 310112,
       "word": "坚持一年以上的护肤习惯",
@@ -513,14 +545,6 @@
       "onboard_time": 1706660368,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299586,
-      "num": 299586,
-      "word": "科学家发现鼻后有个大脑污水系统",
-      "onboard_time": 1706676937,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 298405,
@@ -553,14 +577,6 @@
       "onboard_time": 1706676574,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 288702,
-      "num": 288702,
-      "word": "裴珠泫模仿韩素希咬笔盖",
-      "onboard_time": 1706676997,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 284782,
@@ -625,6 +641,14 @@
       "onboard_time": 1706675979,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269680,
+      "num": 226681,
+      "word": "叶诚尘检举揭发他人犯罪不属实",
+      "onboard_time": 1706678554,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268650,
@@ -715,8 +739,8 @@
       "category": "社会新闻,剧集"
     },
     {
-      "raw_hot": 231355,
-      "num": 231355,
+      "raw_hot": 244698,
+      "num": 244698,
       "word": "原来练背才是瘦脸捷径",
       "onboard_time": 1706677475,
       "rank": 35,
@@ -729,6 +753,14 @@
       "onboard_time": 1706676937,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228638,
+      "num": 228638,
+      "word": "张婧仪檀健次模仿朱迪尼克",
+      "onboard_time": 1706677957,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 227271,
@@ -891,20 +923,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 196871,
+      "num": 196871,
+      "word": "花少团正主带头嗑cp",
+      "onboard_time": 1706678972,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193807,
       "num": 193807,
       "word": "柳智敏自曝有舞台恐惧症",
       "onboard_time": 1706662649,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193004,
-      "num": 193004,
-      "word": "张婧仪檀健次模仿朱迪尼克",
-      "onboard_time": 1706677957,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 190447,
@@ -1540,7 +1572,7 @@
     },
     {
       "raw_hot": 61424,
-      "num": 241102,
+      "num": 312115,
       "word": "去哈尔滨玩儿都穿什么",
       "onboard_time": 1706677359,
       "rank": 33,

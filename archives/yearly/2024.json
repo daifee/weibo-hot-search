@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706678226209,
+  "endTime": 1706679264342,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1763,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1800820,
+      "num": 1800820,
+      "word": "张波叶诚尘微信聊天记录",
+      "onboard_time": 1706676097,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796928,
       "num": 1796928,
       "word": "关于六寸蛋糕放5斤车厘子这件事",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705200090,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1594101,
-      "num": 1594101,
-      "word": "我国破获一起英国秘密情报局间谍案",
-      "onboard_time": 1704669624,
-      "rank": 12,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
