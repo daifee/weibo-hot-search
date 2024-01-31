@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706667756668,
+  "endTime": 1706668445516,
   "band_list": [
     {
       "raw_hot": 3485180,
@@ -403,6 +403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1221834,
+      "num": 1221834,
+      "word": "女子得知老公从8米坠落崩溃不敢开车",
+      "onboard_time": 1706663911,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208737,
       "num": 1208737,
       "word": "吴磊问赵今麦有男朋友了吗",
@@ -545,14 +553,6 @@
       "onboard_time": 1706424868,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1003067,
-      "num": 1003067,
-      "word": "女子得知老公从8米坠落崩溃不敢开车",
-      "onboard_time": 1706663911,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1002238,
@@ -801,6 +801,14 @@
       "onboard_time": 1706524111,
       "rank": 25,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 842647,
+      "num": 372932,
+      "word": "英国考虑正式承认巴勒斯坦国",
+      "onboard_time": 1706666667,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 836076,
@@ -1203,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661579,
+      "num": 661579,
+      "word": "刘雨欣与女儿合照",
+      "onboard_time": 1706665408,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661222,
       "num": 661222,
       "word": "清华大学教授称人口政策应该回归自由",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1706625693,
       "rank": 6,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 629313,
-      "num": 629313,
-      "word": "刘雨欣与女儿合照",
-      "onboard_time": 1706665408,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 628737,
@@ -1467,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 592978,
+      "num": 592978,
+      "word": "孤注一掷",
+      "onboard_time": 1706665108,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 592520,
       "num": 592520,
       "word": "马思纯三天瘦了六斤",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1706422708,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589123,
-      "num": 589123,
-      "word": "孤注一掷",
-      "onboard_time": 1706665108,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 579832,
@@ -2083,14 +2091,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 450040,
-      "num": 372932,
-      "word": "英国考虑正式承认巴勒斯坦国",
-      "onboard_time": 1706666667,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 449448,
       "num": 449448,
       "word": "46岁远嫁女子十年写了3本书",
@@ -2209,6 +2209,14 @@
       "onboard_time": 1706516910,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 430454,
+      "num": 430454,
+      "word": "蔡徐坤新歌RIDEORDIE",
+      "onboard_time": 1706498488,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 430303,
@@ -2641,14 +2649,6 @@
       "onboard_time": 1706521831,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368744,
-      "num": 368744,
-      "word": "蔡徐坤新歌RIDEORDIE",
-      "onboard_time": 1706498488,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 368357,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1706588129,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290737,
+      "num": 290737,
+      "word": "自热米饭的米不是真大米",
+      "onboard_time": 1706667749,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 289210,
@@ -4187,6 +4195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216247,
+      "num": 216247,
+      "word": "小学生寒假作业要求填写家庭收入",
+      "onboard_time": 1706664869,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215751,
       "num": 215751,
       "word": "IU金泰亨MV售后",
@@ -4241,6 +4257,14 @@
       "onboard_time": 1706507849,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 213873,
+      "num": 213873,
+      "word": "支付宝福气店",
+      "onboard_time": 1706667510,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 213099,
@@ -4305,6 +4329,14 @@
       "onboard_time": 1706521290,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211674,
+      "num": 167298,
+      "word": "好同情她小孩",
+      "onboard_time": 1706667088,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 211591,
@@ -4377,14 +4409,6 @@
       "onboard_time": 1706417428,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208617,
-      "num": 208617,
-      "word": "小学生寒假作业要求填写家庭收入",
-      "onboard_time": 1706664869,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208568,
@@ -5163,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179705,
+      "num": 179705,
+      "word": "原神 开门",
+      "onboard_time": 1706668290,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178007,
       "num": 154417,
       "word": "K宝遭禁赛后首发声",
@@ -5377,14 +5409,6 @@
       "onboard_time": 1706501793,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167298,
-      "num": 167298,
-      "word": "好同情她小孩",
-      "onboard_time": 1706667088,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 167198,
@@ -6011,6 +6035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148054,
+      "num": 148054,
+      "word": "年轻人为什么会有过年回家焦虑",
+      "onboard_time": 1706663253,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148029,
       "num": 148029,
       "word": "当亲戚问考研成绩",
@@ -6041,14 +6073,6 @@
       "onboard_time": 1706514391,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147492,
-      "num": 147492,
-      "word": "支付宝福气店",
-      "onboard_time": 1706667510,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 147237,
@@ -6249,14 +6273,6 @@
       "onboard_time": 1706523150,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142421,
-      "num": 142421,
-      "word": "年轻人为什么会有过年回家焦虑",
-      "onboard_time": 1706663253,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 142380,
@@ -6985,6 +7001,14 @@
       "onboard_time": 1706449714,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126719,
+      "num": 126719,
+      "word": "流动青年结婚难问题",
+      "onboard_time": 1706668170,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 126710,
@@ -7985,14 +8009,6 @@
       "onboard_time": 1706417546,
       "rank": 20,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 107929,
-      "num": 107929,
-      "word": "自热米饭的米不是真大米",
-      "onboard_time": 1706667749,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 107717,

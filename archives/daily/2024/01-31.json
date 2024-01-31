@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706667756668,
+  "endTime": 1706668445516,
   "band_list": [
     {
       "raw_hot": 3485180,
@@ -35,8 +35,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1003067,
-      "num": 1003067,
+      "raw_hot": 1221834,
+      "num": 1221834,
       "word": "女子得知老公从8米坠落崩溃不敢开车",
       "onboard_time": 1706663911,
       "rank": 30,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842647,
+      "num": 372932,
+      "word": "英国考虑正式承认巴勒斯坦国",
+      "onboard_time": 1706666667,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 805410,
       "num": 805410,
       "word": "遭奔驰加塞砸车女子称对方还未道歉",
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661579,
+      "num": 661579,
+      "word": "刘雨欣与女儿合照",
+      "onboard_time": 1706665408,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653420,
       "num": 334166,
       "word": "谷歌工程师杀妻悲剧发生之前",
       "onboard_time": 1706626474,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629313,
-      "num": 629313,
-      "word": "刘雨欣与女儿合照",
-      "onboard_time": 1706665408,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 610547,
@@ -91,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589123,
-      "num": 589123,
+      "raw_hot": 592978,
+      "num": 592978,
       "word": "孤注一掷",
       "onboard_time": 1706665108,
       "rank": 5,
@@ -121,6 +129,14 @@
       "onboard_time": 1706664270,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511080,
+      "num": 511080,
+      "word": "A股",
+      "onboard_time": 1706666551,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 508633,
@@ -163,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 450040,
-      "num": 372932,
-      "word": "英国考虑正式承认巴勒斯坦国",
-      "onboard_time": 1706666667,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 441767,
       "num": 441767,
       "word": "87岁老人在美三次遇袭决定搬回中国",
@@ -179,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432683,
-      "num": 432683,
-      "word": "A股",
-      "onboard_time": 1706666551,
-      "rank": 7,
-      "category": "财经"
+      "raw_hot": 430454,
+      "num": 430454,
+      "word": "蔡徐坤新歌RIDEORDIE",
+      "onboard_time": 1706666790,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 393497,
@@ -225,14 +233,6 @@
       "onboard_time": 1706627013,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 368744,
-      "num": 368744,
-      "word": "蔡徐坤新歌RIDEORDIE",
-      "onboard_time": 1706666790,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 368356,
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290737,
+      "num": 290737,
+      "word": "自热米饭的米不是真大米",
+      "onboard_time": 1706667749,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 284782,
       "num": 284782,
       "word": "关茈文刘芬",
@@ -387,6 +395,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 216247,
+      "num": 216247,
+      "word": "小学生寒假作业要求填写家庭收入",
+      "onboard_time": 1706664869,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213873,
+      "num": 213873,
+      "word": "支付宝福气店",
+      "onboard_time": 1706667510,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 212962,
       "num": 212962,
       "word": "和我老公结婚吧",
@@ -395,19 +419,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211674,
+      "num": 167298,
+      "word": "好同情她小孩",
+      "onboard_time": 1706667088,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208919,
       "num": 208919,
       "word": "缅北白所成刘正祥打脸语录",
       "onboard_time": 1706662051,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208617,
-      "num": 208617,
-      "word": "小学生寒假作业要求填写家庭收入",
-      "onboard_time": 1706664869,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179705,
+      "num": 179705,
+      "word": "原神 开门",
+      "onboard_time": 1706668290,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178007,
       "num": 113934,
       "word": "K宝遭禁赛后首发声",
@@ -489,14 +521,6 @@
       "onboard_time": 1706661928,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167298,
-      "num": 167298,
-      "word": "好同情她小孩",
-      "onboard_time": 1706667088,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 164735,
@@ -547,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147492,
-      "num": 147492,
-      "word": "支付宝福气店",
-      "onboard_time": 1706667510,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 148054,
+      "num": 148054,
+      "word": "年轻人为什么会有过年回家焦虑",
+      "onboard_time": 1706663253,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 146162,
@@ -585,14 +609,6 @@
       "onboard_time": 1706656281,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142421,
-      "num": 142421,
-      "word": "年轻人为什么会有过年回家焦虑",
-      "onboard_time": 1706663253,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 141197,
@@ -633,6 +649,14 @@
       "onboard_time": 1706665289,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126719,
+      "num": 126719,
+      "word": "流动青年结婚难问题",
+      "onboard_time": 1706668170,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 126710,
@@ -737,14 +761,6 @@
       "onboard_time": 1706656822,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107929,
-      "num": 107929,
-      "word": "自热米饭的米不是真大米",
-      "onboard_time": 1706667749,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 107544,
