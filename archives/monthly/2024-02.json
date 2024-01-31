@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706735794449,
+  "endTime": 1706736829783,
   "band_list": [
     {
       "raw_hot": 1557066,
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46263,
-      "num": 42164,
+      "raw_hot": 52754,
+      "num": 43647,
       "word": "6大人8孩子吃火锅一起一氧化碳中毒",
       "onboard_time": 1706733017,
       "rank": 44,
@@ -475,20 +475,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15744,
+      "num": 15744,
+      "word": "日本门将离谱失误",
+      "onboard_time": 1706734755,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
       "onboard_time": 1706728936,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13912,
-      "num": 13912,
-      "word": "日本门将离谱失误",
-      "onboard_time": 1706734755,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 13416,
@@ -513,6 +513,14 @@
       "onboard_time": 1706734096,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10562,
+      "num": 11591,
+      "word": "71岁阿婆成榜一大妈后拿不出看病钱",
+      "onboard_time": 1706736736,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
