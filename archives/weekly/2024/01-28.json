@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706700845051,
+  "endTime": 1706704243717,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -507,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218247,
+      "num": 536022,
+      "word": "成毅裤子透光",
+      "onboard_time": 1706700629,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1208737,
       "num": 1208737,
       "word": "吴磊问赵今麦有男朋友了吗",
       "onboard_time": 1706398941,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1207881,
+      "num": 1207881,
+      "word": "专家建议3000点以下越低越买",
+      "onboard_time": 1706698471,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 1204352,
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892847,
+      "num": 892847,
+      "word": "刘德华已经在超市上了19年班了",
+      "onboard_time": 1706699490,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 882924,
       "num": 882924,
       "word": "恋与制作人 求婚",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1706611050,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769981,
+      "num": 769981,
+      "word": "19层官微 于正",
+      "onboard_time": 1706702492,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 762272,
@@ -2035,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529544,
+      "num": 921885,
+      "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+      "onboard_time": 1706699971,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521934,
       "num": 521934,
       "word": "孙悦谈为何隐退8年",
@@ -2129,6 +2169,14 @@
       "onboard_time": 1706676937,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 500581,
+      "num": 500581,
+      "word": "黄瀛子蒋翼床上吻",
+      "onboard_time": 1706700752,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 499972,
@@ -2507,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442714,
+      "num": 875635,
+      "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
+      "onboard_time": 1706698229,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441767,
       "num": 441767,
       "word": "87岁老人在美三次遇袭决定搬回中国",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1706453013,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 438319,
-      "num": 438319,
-      "word": "专家建议3000点以下越低越买",
-      "onboard_time": 1706698471,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 437832,
@@ -2867,6 +2915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 395219,
+      "num": 395219,
+      "word": "KPOP还能cha吗",
+      "onboard_time": 1706700450,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394658,
       "num": 394658,
       "word": "日本连环爆炸案凶手患癌自首",
@@ -3179,14 +3235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365955,
-      "num": 365955,
-      "word": "刘德华已经在超市上了19年班了",
-      "onboard_time": 1706699490,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 365462,
       "num": 365462,
       "word": "金高银李到晛 破墓",
@@ -3241,6 +3289,14 @@
       "onboard_time": 1706506889,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358561,
+      "num": 358561,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1706700692,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 357920,
@@ -3401,14 +3457,6 @@
       "onboard_time": 1706517990,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 344341,
-      "num": 344341,
-      "word": "成毅裤子透光",
-      "onboard_time": 1706700629,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 342752,
@@ -3635,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315958,
+      "num": 315958,
+      "word": "米哈游等遭工信部点名",
+      "onboard_time": 1706703151,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314646,
       "num": 314646,
       "word": "霉霉 我啥也没干",
@@ -3689,14 +3745,6 @@
       "onboard_time": 1706488168,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309854,
-      "num": 875635,
-      "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
-      "onboard_time": 1706698229,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309556,
@@ -4321,6 +4369,14 @@
       "onboard_time": 1706405008,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263278,
+      "num": 263278,
+      "word": "他那么普通 你还是走不出来",
+      "onboard_time": 1706702311,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 262984,
@@ -5171,14 +5227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213056,
-      "num": 921885,
-      "word": "小两口吵架婆婆看到直接让儿子闭嘴",
-      "onboard_time": 1706699971,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212962,
       "num": 212962,
       "word": "和我老公结婚吧",
@@ -5363,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208291,
+      "num": 208291,
+      "word": "范丞丞跳呱呱舞",
+      "onboard_time": 1706703872,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207607,
       "num": 207607,
       "word": "世界之外流水超原神",
@@ -5385,14 +5441,6 @@
       "onboard_time": 1706603192,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 206608,
-      "num": 206608,
-      "word": "KPOP还能cha吗",
-      "onboard_time": 1706700450,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 206595,
@@ -5889,6 +5937,14 @@
       "onboard_time": 1706526093,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+      "onboard_time": 1706703272,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194480,
@@ -6523,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170849,
+      "num": 170849,
+      "word": "A股处于历史大底附近位置",
+      "onboard_time": 1706700511,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 170378,
       "num": 170378,
       "word": "玻璃纤维",
@@ -6576,6 +6640,14 @@
       "word": "宋佳太A了",
       "onboard_time": 1706661928,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167613,
+      "num": 167613,
+      "word": "目黑莲吃草",
+      "onboard_time": 1706703512,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6763,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162261,
+      "num": 162261,
+      "word": "JBL直播",
+      "onboard_time": 1706703331,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162252,
       "num": 162252,
       "word": "林西肖一成 打工人cp",
@@ -6811,20 +6891,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 160313,
-      "num": 160313,
-      "word": "A股处于历史大底附近位置",
-      "onboard_time": 1706700511,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 160200,
       "num": 160200,
       "word": "暖暖唱评弹",
       "onboard_time": 1706508991,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160010,
+      "num": 160010,
+      "word": "杨紫晒破万自拍",
+      "onboard_time": 1706703811,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159549,
@@ -6889,6 +6969,14 @@
       "onboard_time": 1706527051,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158242,
+      "num": 158242,
+      "word": "演唱会玩手机的爱豆",
+      "onboard_time": 1706703993,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 157693,
@@ -6977,6 +7065,14 @@
       "onboard_time": 1706440769,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156893,
+      "num": 156893,
+      "word": "小动物回窝是需要工作人员收走的",
+      "onboard_time": 1706702794,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 156477,
@@ -7435,14 +7531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146817,
-      "num": 146817,
-      "word": "难怪有故人之姿 原来是故人之子",
-      "onboard_time": 1706700692,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146675,
       "num": 146675,
       "word": "小猫咪真的是把犟写在脸上的生物",
@@ -7755,6 +7843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140121,
+      "num": 140121,
+      "word": "回家收拾行李主打一个万一",
+      "onboard_time": 1706703631,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140018,
       "num": 194032,
       "word": "乘务员开箱每掏一下都让人猜不到",
@@ -7923,14 +8019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137181,
-      "num": 137181,
-      "word": "黄瀛子蒋翼床上吻",
-      "onboard_time": 1706700752,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136893,
       "num": 136893,
       "word": "春晚等着你",
@@ -7985,6 +8073,14 @@
       "onboard_time": 1706419710,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135824,
+      "num": 135824,
+      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+      "onboard_time": 1706704112,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135486,
@@ -8171,6 +8267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131596,
+      "num": 131596,
+      "word": "NIP对战JDG",
+      "onboard_time": 1706703213,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131504,
       "num": 131504,
       "word": "高德打车崩了",
@@ -8225,6 +8329,14 @@
       "onboard_time": 1706527469,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131062,
+      "num": 131062,
+      "word": "林小宅 每个角色都是鲜活且富有生命力的",
+      "onboard_time": 1706701833,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131005,
@@ -8401,6 +8513,14 @@
       "onboard_time": 1706429672,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128121,
+      "num": 128121,
+      "word": "不是你不努力 是我不够诚恳",
+      "onboard_time": 1706702311,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 128098,
@@ -8587,6 +8707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124897,
+      "num": 124897,
+      "word": "2024年资本市场有条件发动一轮牛市",
+      "onboard_time": 1706703331,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124797,
       "num": 124797,
       "word": "秘宝星盘上新",
@@ -8729,6 +8857,14 @@
       "onboard_time": 1706485586,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 122113,
+      "num": 122113,
+      "word": "飞驰人生已经过去5年了",
+      "onboard_time": 1706702971,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 122072,
@@ -10521,6 +10657,14 @@
       "onboard_time": 1706632645,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67971,
+      "num": 344968,
+      "word": "本命年果然要穿红",
+      "onboard_time": 1706701350,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 67216,
