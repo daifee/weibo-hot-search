@@ -1,7 +1,15 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706668445516,
+  "endTime": 1706671072304,
   "band_list": [
+    {
+      "raw_hot": 5022775,
+      "num": 5022775,
+      "word": "吴谢宇被执行死刑",
+      "onboard_time": 1706668532,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3485180,
       "num": 3485180,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1233338,
+      "num": 1233338,
+      "word": "吴谢宇主观恶性深且毫无悔罪诚意",
+      "onboard_time": 1706669074,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1232556,
       "num": 1232556,
       "word": "为什么微信红包上限只有200元",
@@ -545,6 +561,22 @@
       "onboard_time": 1706617650,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040639,
+      "num": 1040639,
+      "word": "自热米饭的米不是真大米",
+      "onboard_time": 1706667749,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1022830,
+      "num": 1022830,
+      "word": "英国考虑正式承认巴勒斯坦国",
+      "onboard_time": 1706666667,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1020856,
@@ -801,14 +833,6 @@
       "onboard_time": 1706524111,
       "rank": 25,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 842647,
-      "num": 372932,
-      "word": "英国考虑正式承认巴勒斯坦国",
-      "onboard_time": 1706666667,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 836076,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1706520510,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 678694,
+      "num": 678694,
+      "word": "死刑前吴谢宇未提出会见亲属",
+      "onboard_time": 1706669789,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674461,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1706483120,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578165,
+      "num": 406302,
+      "word": "杨紫琼与前夫离婚原因",
+      "onboard_time": 1706669192,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 576755,
@@ -3107,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311749,
+      "num": 311749,
+      "word": "烫发完瞬间辈分都涨了",
+      "onboard_time": 1706669972,
+      "rank": 13,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 310168,
       "num": 310168,
       "word": "一璐平安连续剧",
@@ -3379,14 +3427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290737,
-      "num": 290737,
-      "word": "自热米饭的米不是真大米",
-      "onboard_time": 1706667749,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "吴秀波公司被强执2.9亿",
@@ -3515,6 +3555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275210,
+      "num": 275210,
+      "word": "原神 开门",
+      "onboard_time": 1706668290,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273751,
       "num": 273751,
       "word": "美甲刺客",
@@ -3617,6 +3665,14 @@
       "onboard_time": 1706537194,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 261242,
+      "num": 261242,
+      "word": "2024年2月新规来了",
+      "onboard_time": 1706668709,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260598,
@@ -4155,6 +4211,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 218043,
+      "num": 214517,
+      "word": "大部分情侣看似亲密",
+      "onboard_time": 1706669912,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217934,
       "num": 217934,
       "word": "不是感染了HPV就得了性病",
@@ -4265,6 +4329,14 @@
       "onboard_time": 1706667510,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 213185,
+      "num": 213185,
+      "word": "赵丽颖晒电影海报",
+      "onboard_time": 1706669972,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 213099,
@@ -4387,6 +4459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209607,
+      "num": 209607,
+      "word": "热辣滚烫 想赢一次",
+      "onboard_time": 1706669730,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209017,
       "num": 167730,
       "word": "暗恋对象以为我是学人精",
@@ -4505,6 +4585,14 @@
       "onboard_time": 1706597189,
       "rank": 32,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 205377,
+      "num": 205377,
+      "word": "时代少年团去东方春晚",
+      "onboard_time": 1706670393,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 204829,
@@ -4643,6 +4731,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 201969,
+      "num": 201969,
+      "word": "原神4.4",
+      "onboard_time": 1706670272,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201316,
       "num": 201316,
       "word": "藏海传更新简介",
@@ -4657,6 +4753,14 @@
       "onboard_time": 1706426850,
       "rank": 24,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 201177,
+      "num": 201177,
+      "word": "吴谢宇犯罪手段残忍严重违背人伦道德",
+      "onboard_time": 1706670511,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200715,
@@ -5139,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181857,
+      "num": 181857,
+      "word": "今年初五发财爱情双丰收",
+      "onboard_time": 1706670393,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181770,
       "num": 176868,
       "word": "范丞丞小巷人家杀青",
@@ -5185,14 +5297,6 @@
       "onboard_time": 1706487988,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179705,
-      "num": 179705,
-      "word": "原神 开门",
-      "onboard_time": 1706668290,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 178007,
@@ -5739,6 +5843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157080,
+      "num": 157080,
+      "word": "为什么车厘子听起来就比樱桃贵",
+      "onboard_time": 1706670570,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156970,
       "num": 156970,
       "word": "库里全明星对决女库里",
@@ -5801,6 +5913,14 @@
       "onboard_time": 1706581466,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155334,
+      "num": 155334,
+      "word": "北京台春晚首波阵容",
+      "onboard_time": 1706669549,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 155042,
@@ -6219,6 +6339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144722,
+      "num": 144722,
+      "word": "2024天秤座财富大爆炸",
+      "onboard_time": 1706670751,
+      "rank": 37,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 144467,
       "num": 144467,
       "word": "美国队递补获得一枚北京冬奥金牌",
@@ -6411,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139654,
+      "num": 139654,
+      "word": "宁德时代涨近7%",
+      "onboard_time": 1706668469,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139391,
       "num": 139391,
       "word": "华为龙年手机壳上架官网",
@@ -6464,6 +6600,14 @@
       "word": "狗狗生气了怎么哄都不听",
       "onboard_time": 1706620710,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138814,
+      "num": 138814,
+      "word": "老师我们家霸总怎么了",
+      "onboard_time": 1706668889,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -6529,6 +6673,14 @@
       "onboard_time": 1706506949,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 137279,
+      "num": 137279,
+      "word": "马超琥珀纪元新皮肤",
+      "onboard_time": 1706670811,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 136893,
@@ -6705,6 +6857,14 @@
       "onboard_time": 1706515530,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132964,
+      "num": 132964,
+      "word": "东方春晚第三轮阵容官宣",
+      "onboard_time": 1706669493,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132912,
@@ -7339,6 +7499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120657,
+      "num": 120657,
+      "word": "大唐狄公案定档预告",
+      "onboard_time": 1706668589,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120581,
       "num": 120581,
       "word": "蒋翼偷看黄瀛子",
@@ -7427,6 +7595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118394,
+      "num": 118394,
+      "word": "女大学生回村的真实生活",
+      "onboard_time": 1706669671,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118222,
       "num": 118222,
       "word": "杨紫范丞丞告别哭戏",
@@ -7481,6 +7657,14 @@
       "onboard_time": 1706583089,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117083,
+      "num": 117083,
+      "word": "沪指跌破2800点",
+      "onboard_time": 1706671050,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117054,
@@ -8689,6 +8873,14 @@
       "onboard_time": 1706361090,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86728,
+      "num": 1243021,
+      "word": "烟火气里的家乡",
+      "onboard_time": 1706668532,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85640,

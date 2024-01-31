@@ -1,0 +1,410 @@
+{
+  "runTime": 1706671072304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5022775,
+        "num": 5022775,
+        "word": "吴谢宇被执行死刑",
+        "onboard_time": 1706668532,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415780,
+        "num": 1415780,
+        "word": "缅北电诈四大家族覆灭",
+        "onboard_time": 1706661628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86728,
+        "num": 1243021,
+        "word": "烟火气里的家乡",
+        "onboard_time": 1706668532,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233338,
+        "num": 1233338,
+        "word": "吴谢宇主观恶性深且毫无悔罪诚意",
+        "onboard_time": 1706669074,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040639,
+        "num": 1040639,
+        "word": "自热米饭的米不是真大米",
+        "onboard_time": 1706667749,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1022830,
+        "num": 1022830,
+        "word": "英国考虑正式承认巴勒斯坦国",
+        "onboard_time": 1706666667,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 717170,
+        "num": 717170,
+        "word": "女子得知老公从8米坠落崩溃不敢开车",
+        "onboard_time": 1706663911,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702129,
+        "num": 702129,
+        "word": "韩安冉发火",
+        "onboard_time": 1706658384,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 678694,
+        "num": 678694,
+        "word": "死刑前吴谢宇未提出会见亲属",
+        "onboard_time": 1706669789,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438981,
+        "num": 438981,
+        "word": "孤注一掷",
+        "onboard_time": 1706665108,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 648076,
+        "num": 424451,
+        "word": "萨沙结婚",
+        "onboard_time": 1706662589,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 578165,
+        "num": 406302,
+        "word": "杨紫琼与前夫离婚原因",
+        "onboard_time": 1706669192,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348388,
+        "num": 348388,
+        "word": "刘雨欣与女儿合照",
+        "onboard_time": 1706665408,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311749,
+        "num": 311749,
+        "word": "烫发完瞬间辈分都涨了",
+        "onboard_time": 1706669972,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 275210,
+        "num": 275210,
+        "word": "原神 开门",
+        "onboard_time": 1706668290,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265673,
+        "num": 265673,
+        "word": "热巴 盲目夸自家孩子的家长",
+        "onboard_time": 1706664270,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261242,
+        "num": 261242,
+        "word": "2024年2月新规来了",
+        "onboard_time": 1706668709,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232100,
+        "num": 232100,
+        "word": "蔡徐坤新歌RIDEORDIE",
+        "onboard_time": 1706666790,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225602,
+        "num": 225602,
+        "word": "A股",
+        "onboard_time": 1706666551,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215675,
+        "num": 215675,
+        "word": "周一围用手接朱丹吐的樱桃核",
+        "onboard_time": 1706656581,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218043,
+        "num": 214517,
+        "word": "大部分情侣看似亲密",
+        "onboard_time": 1706669912,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213185,
+        "num": 213185,
+        "word": "赵丽颖晒电影海报",
+        "onboard_time": 1706669972,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209705,
+        "num": 209705,
+        "word": "小猫误入派出所骗吃骗喝一个月",
+        "onboard_time": 1706636240,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209607,
+        "num": 209607,
+        "word": "热辣滚烫 想赢一次",
+        "onboard_time": 1706669730,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205377,
+        "num": 205377,
+        "word": "时代少年团去东方春晚",
+        "onboard_time": 1706670393,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201969,
+        "num": 201969,
+        "word": "原神4.4",
+        "onboard_time": 1706670272,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201853,
+        "num": 201853,
+        "word": "遭奔驰加塞砸车女子称对方还未道歉",
+        "onboard_time": 1706658085,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201177,
+        "num": 201177,
+        "word": "吴谢宇犯罪手段残忍严重违背人伦道德",
+        "onboard_time": 1706670511,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181857,
+        "num": 181857,
+        "word": "今年初五发财爱情双丰收",
+        "onboard_time": 1706670393,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173155,
+        "num": 173155,
+        "word": "关茈文刘芬",
+        "onboard_time": 1706661211,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170184,
+        "num": 170184,
+        "word": "今冬最强雨雪要来了",
+        "onboard_time": 1706660249,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168956,
+        "num": 168956,
+        "word": "女儿考第1爸爸走出6亲不认的步伐",
+        "onboard_time": 1706657364,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165148,
+        "num": 165148,
+        "word": "好同情她小孩",
+        "onboard_time": 1706667088,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157080,
+        "num": 157080,
+        "word": "为什么车厘子听起来就比樱桃贵",
+        "onboard_time": 1706670570,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155334,
+        "num": 155334,
+        "word": "北京台春晚首波阵容",
+        "onboard_time": 1706669549,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "小学生寒假作业要求填写家庭收入",
+        "onboard_time": 1706664869,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 144879,
+        "word": "河南省考 转圈中",
+        "onboard_time": 1706665049,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144722,
+        "num": 144722,
+        "word": "2024天秤座财富大爆炸",
+        "onboard_time": 1706670751,
+        "rank": 37,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 139654,
+        "num": 139654,
+        "word": "宁德时代涨近7%",
+        "onboard_time": 1706668469,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138814,
+        "num": 138814,
+        "word": "老师我们家霸总怎么了",
+        "onboard_time": 1706668889,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137279,
+        "num": 137279,
+        "word": "马超琥珀纪元新皮肤",
+        "onboard_time": 1706670811,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134502,
+        "num": 134502,
+        "word": "童瑶早就预判了雷东宝的结局",
+        "onboard_time": 1706627013,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132964,
+        "num": 132964,
+        "word": "东方春晚第三轮阵容官宣",
+        "onboard_time": 1706669493,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129411,
+        "num": 129411,
+        "word": "为什么上班只是坐着还感觉这么累",
+        "onboard_time": 1706659710,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121291,
+        "num": 121291,
+        "word": "长沙地铁",
+        "onboard_time": 1706664509,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120657,
+        "num": 120657,
+        "word": "大唐狄公案定档预告",
+        "onboard_time": 1706668589,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "柳智敏自曝有舞台恐惧症",
+        "onboard_time": 1706662649,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118394,
+        "num": 118394,
+        "word": "女大学生回村的真实生活",
+        "onboard_time": 1706669671,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118102,
+        "num": 118102,
+        "word": "支付宝福气店",
+        "onboard_time": 1706667510,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117083,
+        "num": 117083,
+        "word": "沪指跌破2800点",
+        "onboard_time": 1706671050,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
