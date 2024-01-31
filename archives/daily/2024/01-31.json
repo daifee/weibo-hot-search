@@ -1,6 +1,6 @@
 {
   "startTime": 1706631673911,
-  "endTime": 1706679264342,
+  "endTime": 1706682108483,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1800820,
-      "num": 1800820,
+      "raw_hot": 1914398,
+      "num": 1914398,
       "word": "张波叶诚尘微信聊天记录",
       "onboard_time": 1706676097,
       "rank": 4,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952657,
+      "num": 952657,
+      "word": "花儿与少年 超哥说了啥",
+      "onboard_time": 1706678497,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 912539,
       "num": 912539,
       "word": "张庭夫妇 6套别墅",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607708,
+      "num": 390369,
+      "word": "叶诚尘检举揭发他人犯罪不属实",
+      "onboard_time": 1706678554,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597099,
       "num": 597099,
       "word": "新疆7.1级地震是典型逆断层型地震",
@@ -248,14 +264,6 @@
       "word": "热巴 盲目夸自家孩子的家长",
       "onboard_time": 1706664270,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 511336,
-      "num": 511336,
-      "word": "花儿与少年 超哥说了啥",
-      "onboard_time": 1706678497,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404697,
+      "num": 387480,
+      "word": "男子当小三破坏军婚获刑10个月",
+      "onboard_time": 1706681554,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393497,
       "num": 393497,
       "word": "河南省考 转圈中",
@@ -387,12 +403,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 391697,
+      "num": 391697,
+      "word": "科学家发现鼻后有个大脑污水系统",
+      "onboard_time": 1706676937,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 387717,
       "num": 387717,
       "word": "研究发现心跳快慢与寿命长短相关",
       "onboard_time": 1706612789,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387479,
+      "num": 387479,
+      "word": "周冬雨爱爱马思纯",
+      "onboard_time": 1706680112,
+      "rank": 14,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 383255,
@@ -435,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 365704,
+      "num": 365704,
+      "word": "生母回应姐弟坠亡案凶手被执行死刑",
+      "onboard_time": 1706678613,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363395,
       "num": 363395,
       "word": "沈星回 斯哈斯哈",
@@ -443,12 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 355589,
-      "num": 355589,
-      "word": "科学家发现鼻后有个大脑污水系统",
-      "onboard_time": 1706676937,
-      "rank": 22,
+      "raw_hot": 358222,
+      "num": 358222,
+      "word": "攻击嗓子的新病毒来了吗",
+      "onboard_time": 1706676574,
+      "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 356047,
+      "num": 356047,
+      "word": "裴珠泫模仿韩素希咬笔盖",
+      "onboard_time": 1706676997,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 353811,
@@ -491,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329378,
+      "num": 329378,
+      "word": "原来练背才是瘦脸捷径",
+      "onboard_time": 1706677475,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "恋与深空黎深 不如失序",
@@ -504,22 +560,6 @@
       "word": "浙江发现H3N2与H10N5混合感染病例",
       "onboard_time": 1706674357,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320541,
-      "num": 320541,
-      "word": "裴珠泫模仿韩素希咬笔盖",
-      "onboard_time": 1706676997,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 319474,
-      "num": 319474,
-      "word": "生母回应姐弟坠亡案凶手被执行死刑",
-      "onboard_time": 1706678613,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -643,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269680,
-      "num": 226681,
-      "word": "叶诚尘检举揭发他人犯罪不属实",
-      "onboard_time": 1706678554,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268650,
       "num": 268650,
       "word": "内马尔视频回应变肉马尔",
@@ -681,14 +713,6 @@
       "onboard_time": 1706668709,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258850,
-      "num": 258850,
-      "word": "攻击嗓子的新病毒来了吗",
-      "onboard_time": 1706676574,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 256671,
@@ -723,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252724,
+      "num": 252724,
+      "word": "秦海璐怎么还戴着耳机",
+      "onboard_time": 1706681788,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251909,
       "num": 251909,
       "word": "马斯克550亿美元薪酬奖励方案被判无效",
@@ -739,12 +771,12 @@
       "category": "社会新闻,剧集"
     },
     {
-      "raw_hot": 244698,
-      "num": 244698,
-      "word": "原来练背才是瘦脸捷径",
-      "onboard_time": 1706677475,
-      "rank": 35,
-      "category": "运动健身"
+      "raw_hot": 235633,
+      "num": 235633,
+      "word": "邓为抱娃路透",
+      "onboard_time": 1706680170,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 228926,
@@ -923,6 +955,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 198840,
+      "num": 198840,
+      "word": "躲过新冠没躲过这次咽喉炎",
+      "onboard_time": 1706681612,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198715,
+      "num": 198715,
+      "word": "王安宇看收官看哭了",
+      "onboard_time": 1706681369,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196871,
       "num": 196871,
       "word": "花少团正主带头嗑cp",
@@ -953,6 +1001,14 @@
       "onboard_time": 1706671050,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185482,
+      "num": 185482,
+      "word": "恩比德二次受伤",
+      "onboard_time": 1706680472,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 184073,
@@ -1027,6 +1083,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174997,
+      "num": 174997,
+      "word": "王鹤棣祝福丁程鑫",
+      "onboard_time": 1706680712,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171139,
+      "num": 171139,
+      "word": "最接近狼的狗狗品种是柴犬",
+      "onboard_time": 1706681612,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 167638,
       "num": 167638,
       "word": "宋佳太A了",
@@ -1088,6 +1160,14 @@
       "word": "北京台春晚首波阵容",
       "onboard_time": 1706669549,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154736,
+      "num": 154736,
+      "word": "花少5大收官连线陪看",
+      "onboard_time": 1706680651,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1211,12 +1291,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135039,
+      "num": 135039,
+      "word": "勇士战胜76人",
+      "onboard_time": 1706681316,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132964,
       "num": 132964,
       "word": "东方春晚第三轮阵容官宣",
       "onboard_time": 1706669493,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129030,
+      "num": 1378388,
+      "word": "2024网络视听盛典本周六播出",
+      "onboard_time": 1706681014,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126719,
