@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706705129588,
+  "endTime": 1706707116321,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1218247,
-      "num": 549722,
+      "num": 562752,
       "word": "成毅裤子透光",
       "onboard_time": 1706700629,
       "rank": 21,
@@ -683,8 +683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034600,
-      "num": 1034600,
+      "raw_hot": 1036046,
+      "num": 1036046,
       "word": "刘德华已经在超市上了19年班了",
       "onboard_time": 1706699490,
       "rank": 28,
@@ -1195,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770865,
+      "num": 770865,
+      "word": "米哈游等遭工信部点名",
+      "onboard_time": 1706703151,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 769981,
       "num": 769981,
       "word": "19层官微 于正",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1706688933,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 694601,
+      "num": 694601,
+      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+      "onboard_time": 1706703272,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689923,
@@ -1867,20 +1883,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 564121,
+      "num": 564121,
+      "word": "演唱会玩手机的爱豆",
+      "onboard_time": 1706703993,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 563989,
       "num": 563989,
       "word": "水晶血婚纱",
       "onboard_time": 1706439032,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 563375,
-      "num": 563375,
-      "word": "米哈游等遭工信部点名",
-      "onboard_time": 1706703151,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 563022,
@@ -2081,6 +2097,14 @@
       "onboard_time": 1706699971,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528711,
+      "num": 528711,
+      "word": "邓为向涵之吻戏路透",
+      "onboard_time": 1706705371,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 521934,
@@ -3091,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382502,
+      "num": 382502,
+      "word": "刘诗诗直播妆造",
+      "onboard_time": 1706706514,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382103,
       "num": 382103,
       "word": "LGD战胜EDG",
@@ -3363,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354375,
+      "num": 354375,
+      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+      "onboard_time": 1706704112,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354007,
       "num": 354007,
       "word": "万达电影新任董事长陈祉希",
@@ -3603,6 +3643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 325551,
+      "num": 325551,
+      "word": "papi酱 聊爱豆像在说另一半",
+      "onboard_time": 1706705852,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 325016,
       "num": 325016,
       "word": "王安宇相机落水了",
@@ -3811,14 +3859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 306576,
-      "num": 306576,
-      "word": "女子捐赠甘肃一中学400件羽绒服失踪",
-      "onboard_time": 1706703272,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306256,
       "num": 306256,
       "word": "湛江警方通报奔驰车主徐闻港插队事件",
@@ -4003,27 +4043,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297097,
-      "num": 297097,
-      "word": "演唱会玩手机的爱豆",
-      "onboard_time": 1706703993,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 296828,
       "num": 296828,
       "word": "猴子和猫",
       "onboard_time": 1706518827,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295572,
-      "num": 295572,
-      "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
-      "onboard_time": 1706704112,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4387,20 +4411,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 263690,
+      "num": 263690,
+      "word": "他那么普通 你还是走不出来",
+      "onboard_time": 1706702311,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263422,
       "num": 263422,
       "word": "七三一部队罪证陈列馆有批小讲解员",
       "onboard_time": 1706405008,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263278,
-      "num": 263278,
-      "word": "他那么普通 你还是走不出来",
-      "onboard_time": 1706702311,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 262984,
@@ -4753,6 +4777,14 @@
       "onboard_time": 1706530534,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235883,
+      "num": 235883,
+      "word": "高铁有遛娃车厢了",
+      "onboard_time": 1706705191,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235686,
@@ -5547,6 +5579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204963,
+      "num": 204963,
+      "word": "新东方及俞敏洪承诺购买东方甄选股份",
+      "onboard_time": 1706705069,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204933,
       "num": 204933,
       "word": "杨紫范丞丞见面会生图",
@@ -5809,6 +5849,14 @@
       "onboard_time": 1706602709,
       "rank": 48,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 198705,
+      "num": 198705,
+      "word": "eStar对战狼队",
+      "onboard_time": 1706706031,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 198689,
@@ -6153,6 +6201,14 @@
       "onboard_time": 1706570121,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 187976,
+      "num": 187976,
+      "word": "花儿与少年",
+      "onboard_time": 1706704829,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 187821,
@@ -6547,6 +6603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 173778,
+      "num": 173778,
+      "word": "创造营亚洲主题曲",
+      "onboard_time": 1706705250,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173190,
       "num": 74280,
       "word": "新款iPadPro或3月底发布",
@@ -6665,6 +6729,14 @@
       "onboard_time": 1706588612,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167790,
+      "num": 167790,
+      "word": "春节前牛羊肉价格或降至三年新低",
+      "onboard_time": 1706706393,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167638,
@@ -7299,14 +7371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152665,
-      "num": 152665,
-      "word": "花儿与少年",
-      "onboard_time": 1706704829,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152508,
       "num": 152508,
       "word": "河南的雪你别胡来",
@@ -7601,6 +7665,14 @@
       "onboard_time": 1706627611,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145641,
+      "num": 145641,
+      "word": "大学生德华出现女传男现象",
+      "onboard_time": 1706706455,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145392,
@@ -8083,6 +8155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136076,
+      "num": 136076,
+      "word": "A股出现回购潮",
+      "onboard_time": 1706704769,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135971,
       "num": 135971,
       "word": "在暴雪时分吴磊角色特辑",
@@ -8305,6 +8385,14 @@
       "onboard_time": 1706415748,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131413,
+      "num": 131413,
+      "word": "祈今朝",
+      "onboard_time": 1706706870,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131336,
@@ -8545,6 +8633,14 @@
       "onboard_time": 1706488892,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127906,
+      "num": 127906,
+      "word": "阿麦从军",
+      "onboard_time": 1706705731,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 127594,
@@ -9083,12 +9179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118440,
-      "num": 118440,
-      "word": "A股出现回购潮",
-      "onboard_time": 1706704769,
-      "rank": 44,
-      "category": "财经"
+      "raw_hot": 118627,
+      "num": 118627,
+      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+      "onboard_time": 1706706993,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118394,
@@ -9169,6 +9265,14 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116562,
+      "num": 116562,
+      "word": "偶遇王鹤棣在新加坡吃面",
+      "onboard_time": 1706707050,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116443,
@@ -9841,14 +9945,6 @@
       "onboard_time": 1706438730,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104854,
-      "num": 104854,
-      "word": "新东方及俞敏洪承诺购买东方甄选股份",
-      "onboard_time": 1706705069,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 104671,
@@ -10867,6 +10963,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 50562,
+      "num": 333385,
+      "word": "鸿蒙和MPV能整什么活",
+      "onboard_time": 1706704651,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50177,
       "num": 50177,
       "word": "8种负面情绪加速衰老",
@@ -10913,14 +11017,6 @@
       "onboard_time": 1706657664,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 44239,
-      "num": 143205,
-      "word": "鸿蒙和MPV能整什么活",
-      "onboard_time": 1706704651,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 43200,

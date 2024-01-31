@@ -1,0 +1,410 @@
+{
+  "runTime": 1706707116321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1037006,
+        "num": 1037006,
+        "word": "专家建议3000点以下越低越买",
+        "onboard_time": 1706698471,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1036046,
+        "num": 1036046,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28365,
+        "num": 855521,
+        "word": "2024网络视听盛典本周六播出",
+        "onboard_time": 1706681014,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770865,
+        "num": 770865,
+        "word": "米哈游等遭工信部点名",
+        "onboard_time": 1706703151,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 737037,
+        "num": 737037,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735667,
+        "num": 735667,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694601,
+        "num": 694601,
+        "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+        "onboard_time": 1706703272,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655221,
+        "num": 655221,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597119,
+        "num": 597119,
+        "word": "19层官微 于正",
+        "onboard_time": 1706702492,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564121,
+        "num": 564121,
+        "word": "演唱会玩手机的爱豆",
+        "onboard_time": 1706703993,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 916910,
+        "num": 562752,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558694,
+        "num": 558694,
+        "word": "王新军喊王安宇来家里吃饭",
+        "onboard_time": 1706695353,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528711,
+        "num": 528711,
+        "word": "邓为向涵之吻戏路透",
+        "onboard_time": 1706705371,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524803,
+        "num": 524803,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 434378,
+        "num": 434378,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382502,
+        "num": 382502,
+        "word": "刘诗诗直播妆造",
+        "onboard_time": 1706706514,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361247,
+        "num": 361247,
+        "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+        "onboard_time": 1706699971,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354375,
+        "num": 354375,
+        "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+        "onboard_time": 1706704112,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50562,
+        "num": 333385,
+        "word": "鸿蒙和MPV能整什么活",
+        "onboard_time": 1706704651,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 331424,
+        "num": 331424,
+        "word": "狗剩快跑 安宇快跑",
+        "onboard_time": 1706696974,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325551,
+        "num": 325551,
+        "word": "papi酱 聊爱豆像在说另一半",
+        "onboard_time": 1706705852,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323239,
+        "num": 323239,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316436,
+        "num": 316436,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276831,
+        "num": 276831,
+        "word": "鹿emoji",
+        "onboard_time": 1706696730,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263690,
+        "num": 263690,
+        "word": "他那么普通 你还是走不出来",
+        "onboard_time": 1706702311,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235883,
+        "num": 235883,
+        "word": "高铁有遛娃车厢了",
+        "onboard_time": 1706705191,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207754,
+        "num": 207754,
+        "word": "KPOP还能cha吗",
+        "onboard_time": 1706700450,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204963,
+        "num": 204963,
+        "word": "新东方及俞敏洪承诺购买东方甄选股份",
+        "onboard_time": 1706705069,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198705,
+        "num": 198705,
+        "word": "eStar对战狼队",
+        "onboard_time": 1706706031,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193383,
+        "num": 193383,
+        "word": "车银优弟弟读的复旦大学",
+        "onboard_time": 1706691392,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187976,
+        "num": 187976,
+        "word": "花儿与少年",
+        "onboard_time": 1706704829,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173778,
+        "num": 173778,
+        "word": "创造营亚洲主题曲",
+        "onboard_time": 1706705250,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172697,
+        "num": 172697,
+        "word": "僵尸新娘 意难平",
+        "onboard_time": 1706699250,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167790,
+        "num": 167790,
+        "word": "春节前牛羊肉价格或降至三年新低",
+        "onboard_time": 1706706393,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162392,
+        "num": 162392,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161115,
+        "num": 161115,
+        "word": "杨紫晒破万自拍",
+        "onboard_time": 1706703811,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158068,
+        "num": 158068,
+        "word": "黄磊做菜VS贾冰做菜",
+        "onboard_time": 1706691512,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156197,
+        "num": 156197,
+        "word": "茅台董事长曾称酒库里存了几十万吨基酒",
+        "onboard_time": 1706695650,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151995,
+        "num": 151995,
+        "word": "奔驰车主加塞砸车被拘10日",
+        "onboard_time": 1706689413,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145641,
+        "num": 145641,
+        "word": "大学生德华出现女传男现象",
+        "onboard_time": 1706706455,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136076,
+        "num": 136076,
+        "word": "A股出现回购潮",
+        "onboard_time": 1706704769,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135502,
+        "num": 135502,
+        "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
+        "onboard_time": 1706698229,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134447,
+        "num": 134447,
+        "word": "强迫性皮肤剥离症",
+        "onboard_time": 1706694152,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132718,
+        "num": 132718,
+        "word": "目黑莲吃草",
+        "onboard_time": 1706703512,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131413,
+        "num": 131413,
+        "word": "祈今朝",
+        "onboard_time": 1706706870,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127906,
+        "num": 127906,
+        "word": "阿麦从军",
+        "onboard_time": 1706705731,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122368,
+        "num": 122368,
+        "word": "小动物回窝是需要工作人员收走的",
+        "onboard_time": 1706702794,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121376,
+        "num": 121376,
+        "word": "范丞丞跳呱呱舞",
+        "onboard_time": 1706703872,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118627,
+        "num": 118627,
+        "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+        "onboard_time": 1706706993,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116562,
+        "num": 116562,
+        "word": "偶遇王鹤棣在新加坡吃面",
+        "onboard_time": 1706707050,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#42位驻华大使递交国书#"
+    }
+  }
+}
