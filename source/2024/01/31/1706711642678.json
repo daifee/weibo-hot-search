@@ -1,0 +1,410 @@
+{
+  "runTime": 1706711642678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1631181,
+        "num": 1631181,
+        "word": "王安宇好多白头发",
+        "onboard_time": 1706708912,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1355913,
+        "num": 1355913,
+        "word": "中国排名第五的大学",
+        "onboard_time": 1706709333,
+        "rank": 1,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 95448,
+        "num": 899184,
+        "word": "春运安全出行天气地图",
+        "onboard_time": 1706709632,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701578,
+        "num": 701578,
+        "word": "专家建议3000点以下越低越买",
+        "onboard_time": 1706698471,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 684273,
+        "num": 684273,
+        "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+        "onboard_time": 1706706993,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662594,
+        "num": 662594,
+        "word": "李一桐白鹿撞造型",
+        "onboard_time": 1706710354,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655257,
+        "num": 655257,
+        "word": "曲婉婷发文",
+        "onboard_time": 1706686053,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565485,
+        "num": 565485,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563089,
+        "num": 563089,
+        "word": "刘德华已经在超市上了19年班了",
+        "onboard_time": 1706699490,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552086,
+        "num": 552086,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534757,
+        "num": 534757,
+        "word": "papi酱 聊爱豆像在说另一半",
+        "onboard_time": 1706705852,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 493050,
+        "num": 493050,
+        "word": "车厘子只看几个J谁买谁是大冤种",
+        "onboard_time": 1706709694,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 452088,
+        "num": 452088,
+        "word": "刘诗诗直播妆造",
+        "onboard_time": 1706706514,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 442252,
+        "num": 442252,
+        "word": "Jessi与朴宰范公司解约",
+        "onboard_time": 1706708975,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358949,
+        "num": 358949,
+        "word": "女子捐赠甘肃一中学400件羽绒服失踪",
+        "onboard_time": 1706703272,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439220,
+        "num": 357641,
+        "word": "成毅裤子透光",
+        "onboard_time": 1706700629,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360962,
+        "num": 356229,
+        "word": "王新军喊王安宇来家里吃饭",
+        "onboard_time": 1706695353,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348395,
+        "num": 348395,
+        "word": "EDG人员变动公告",
+        "onboard_time": 1706710470,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341552,
+        "num": 341552,
+        "word": "米哈游等遭工信部点名",
+        "onboard_time": 1706703151,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320939,
+        "num": 320939,
+        "word": "城管局副局长与女教师车内中毒死亡",
+        "onboard_time": 1706673693,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467744,
+        "num": 319582,
+        "word": "要结婚了才发现自己是小学学历",
+        "onboard_time": 1706710235,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307717,
+        "num": 307717,
+        "word": "敬业福",
+        "onboard_time": 1706700629,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 303971,
+        "num": 303971,
+        "word": "男子爬乐山大佛头顶小便",
+        "onboard_time": 1706710537,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293583,
+        "num": 293583,
+        "word": "我妈终于认可了我的新衣柜",
+        "onboard_time": 1706708975,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285344,
+        "num": 285344,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1706700692,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276027,
+        "num": 276027,
+        "word": "邓为向涵之吻戏路透",
+        "onboard_time": 1706705371,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265731,
+        "num": 265731,
+        "word": "演唱会玩手机的爱豆",
+        "onboard_time": 1706703993,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259578,
+        "num": 259578,
+        "word": "胡先煦 我人都嗑傻了",
+        "onboard_time": 1706711614,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258527,
+        "num": 258527,
+        "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
+        "onboard_time": 1706704112,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238195,
+        "num": 238195,
+        "word": "张波叶诚尘一审互咬二审互助",
+        "onboard_time": 1706711072,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217379,
+        "num": 217379,
+        "word": "黄瀛子蒋翼床上吻",
+        "onboard_time": 1706700752,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199680,
+        "num": 199680,
+        "word": "金秀贤金智媛围读剧本",
+        "onboard_time": 1706710055,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198478,
+        "num": 198478,
+        "word": "打工人的统一过年姿势",
+        "onboard_time": 1706708435,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191413,
+        "num": 191413,
+        "word": "小两口吵架婆婆看到直接让儿子闭嘴",
+        "onboard_time": 1706699971,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185557,
+        "num": 185557,
+        "word": "高铁有遛娃车厢了",
+        "onboard_time": 1706705191,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181277,
+        "num": 181277,
+        "word": "日本乌龙球",
+        "onboard_time": 1706710055,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177372,
+        "num": 177372,
+        "word": "狗剩快跑 安宇快跑",
+        "onboard_time": 1706696974,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167724,
+        "num": 167724,
+        "word": "偶遇王鹤棣在新加坡吃面",
+        "onboard_time": 1706707050,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167612,
+        "num": 167612,
+        "word": "花少收官倒放是不说再见",
+        "onboard_time": 1706708194,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 158833,
+        "word": "19层官微 于正",
+        "onboard_time": 1706702492,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152181,
+        "num": 152181,
+        "word": "鹿emoji",
+        "onboard_time": 1706696730,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150939,
+        "num": 150939,
+        "word": "王安宇 应该的姐夫",
+        "onboard_time": 1706697569,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149683,
+        "num": 149683,
+        "word": "巴林1比3日本",
+        "onboard_time": 1706710833,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141724,
+        "num": 141724,
+        "word": "杨藩回应董宇辉直播间涉嫌抄袭",
+        "onboard_time": 1706710416,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139200,
+        "num": 139200,
+        "word": "祈今朝微博直播",
+        "onboard_time": 1706709094,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138999,
+        "num": 138999,
+        "word": "A股已经足够便宜",
+        "onboard_time": 1706709514,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132822,
+        "num": 132822,
+        "word": "他那么普通 你还是走不出来",
+        "onboard_time": 1706702311,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130102,
+        "num": 130102,
+        "word": "强迫性皮肤剥离症",
+        "onboard_time": 1706694152,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128492,
+        "num": 128492,
+        "word": "猫德学院手拿把掐狮子猫",
+        "onboard_time": 1706709094,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124642,
+        "num": 124642,
+        "word": "想你了融",
+        "onboard_time": 1706711614,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}

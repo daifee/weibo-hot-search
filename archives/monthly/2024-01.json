@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706710540795,
+  "endTime": 1706711642678,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2291,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1631181,
+      "num": 1631181,
+      "word": "王安宇好多白头发",
+      "onboard_time": 1706708912,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1631117,
       "num": 1631117,
       "word": "刘亦菲 唐嫣是最好的汪小姐",
@@ -3657,6 +3665,14 @@
       "onboard_time": 1704882093,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1355913,
+      "num": 1355913,
+      "word": "中国排名第五的大学",
+      "onboard_time": 1706709333,
+      "rank": 4,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 1355059,
@@ -7400,14 +7416,6 @@
       "word": "三喜的肠肠",
       "onboard_time": 1704596190,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 944630,
-      "num": 944630,
-      "word": "王安宇好多白头发",
-      "onboard_time": 1706708912,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -12315,14 +12323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 698057,
-      "num": 698057,
-      "word": "中国排名第五的大学",
-      "onboard_time": 1706709333,
-      "rank": 4,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 698053,
       "num": 698053,
       "word": "10种嘌呤大户 高尿酸者少碰",
@@ -12688,6 +12688,14 @@
       "word": "连云港18岁坠河男孩遗体被找到",
       "onboard_time": 1705222353,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684273,
+      "num": 684273,
+      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
+      "onboard_time": 1706706993,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -13123,14 +13131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 668436,
-      "num": 668436,
-      "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
-      "onboard_time": 1706706993,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 668228,
       "num": 668228,
       "word": "杨紫国色芳华造型",
@@ -13257,6 +13257,14 @@
       "onboard_time": 1706574570,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 662594,
+      "num": 662594,
+      "word": "李一桐白鹿撞造型",
+      "onboard_time": 1706710354,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 662304,
@@ -19891,6 +19899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493050,
+      "num": 493050,
+      "word": "车厘子只看几个J谁买谁是大冤种",
+      "onboard_time": 1706709694,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 492900,
       "num": 492900,
       "word": "女高管违法开除事件当事人发声",
@@ -21153,6 +21169,14 @@
       "onboard_time": 1704709171,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467744,
+      "num": 319582,
+      "word": "要结婚了才发现自己是小学学历",
+      "onboard_time": 1706710235,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 467711,
@@ -28291,6 +28315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348395,
+      "num": 348395,
+      "word": "EDG人员变动公告",
+      "onboard_time": 1706710470,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 348331,
       "num": 348331,
       "word": "花少播完了我该判给谁",
@@ -29441,14 +29473,6 @@
       "onboard_time": 1706183070,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330848,
-      "num": 204550,
-      "word": "车厘子只看几个J谁买谁是大冤种",
-      "onboard_time": 1706709694,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 330306,
@@ -31611,6 +31635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303971,
+      "num": 303971,
+      "word": "男子爬乐山大佛头顶小便",
+      "onboard_time": 1706710537,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303896,
       "num": 303896,
       "word": "要久久爱见面会",
@@ -32609,6 +32641,14 @@
       "onboard_time": 1706688991,
       "rank": 25,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 293583,
+      "num": 293583,
+      "word": "我妈终于认可了我的新衣柜",
+      "onboard_time": 1706708975,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 293542,
@@ -33625,14 +33665,6 @@
       "onboard_time": 1705924527,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285038,
-      "num": 285038,
-      "word": "李一桐白鹿撞造型",
-      "onboard_time": 1706710354,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 284979,
@@ -36297,6 +36329,14 @@
       "onboard_time": 1706252010,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259578,
+      "num": 259578,
+      "word": "胡先煦 我人都嗑傻了",
+      "onboard_time": 1706711614,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 259561,
@@ -39027,6 +39067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238195,
+      "num": 238195,
+      "word": "张波叶诚尘一审互咬二审互助",
+      "onboard_time": 1706711072,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238120,
       "num": 238120,
       "word": "光夜 萧逸战损",
@@ -39241,14 +39289,6 @@
       "onboard_time": 1705486529,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236700,
-      "num": 236700,
-      "word": "我妈终于认可了我的新衣柜",
-      "onboard_time": 1706708975,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 236608,
@@ -52547,14 +52587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183329,
-      "num": 183329,
-      "word": "要结婚了才发现自己是小学学历",
-      "onboard_time": 1706710235,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183292,
       "num": 183292,
       "word": "CCMA红毯",
@@ -53161,6 +53193,14 @@
       "onboard_time": 1705557688,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181277,
+      "num": 181277,
+      "word": "日本乌龙球",
+      "onboard_time": 1706710055,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 181273,
@@ -58891,14 +58931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162059,
-      "num": 162059,
-      "word": "日本乌龙球",
-      "onboard_time": 1706710055,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161951,
       "num": 161951,
       "word": "互联网大厂人彩礼逐年下降",
@@ -62947,12 +62979,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149722,
-      "num": 149722,
-      "word": "EDG人员变动公告",
-      "onboard_time": 1706710470,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 149683,
+      "num": 149683,
+      "word": "巴林1比3日本",
+      "onboard_time": 1706710833,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 149675,
@@ -65723,6 +65755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141724,
+      "num": 141724,
+      "word": "杨藩回应董宇辉直播间涉嫌抄袭",
+      "onboard_time": 1706710416,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141710,
       "num": 141710,
       "word": "广州是一个不为面子而活的城市",
@@ -67625,14 +67665,6 @@
       "onboard_time": 1704333448,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136469,
-      "num": 136469,
-      "word": "杨藩回应董宇辉直播间涉嫌抄袭",
-      "onboard_time": 1706710416,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 136424,
@@ -72041,6 +72073,14 @@
       "onboard_time": 1705460368,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 124642,
+      "num": 124642,
+      "word": "想你了融",
+      "onboard_time": 1706711614,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124615,
@@ -79235,6 +79275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95448,
+      "num": 899184,
+      "word": "春运安全出行天气地图",
+      "onboard_time": 1706709632,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95442,
       "num": 95442,
       "word": "勇士vs公牛",
@@ -81017,14 +81065,6 @@
       "onboard_time": 1704231852,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77910,
-      "num": 768468,
-      "word": "春运安全出行天气地图",
-      "onboard_time": 1706709632,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77806,
