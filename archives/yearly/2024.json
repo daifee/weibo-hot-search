@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706783678935,
+  "endTime": 1706786074219,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2139,6 +2139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1709036,
+      "num": 1709036,
+      "word": "男婴出生第2天脑梗死父亲一夜白头",
+      "onboard_time": 1706782532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1700996,
       "num": 459782,
       "word": "台州车祸",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705757609,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1623600,
-      "num": 466361,
-      "word": "台湾选举",
-      "onboard_time": 1705116390,
-      "rank": 10,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

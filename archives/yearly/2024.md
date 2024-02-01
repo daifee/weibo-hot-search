@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/01 18:34:38
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/01 19:14:34
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ A先生跳海（热度：1721660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A9%B4%E5%87%BA%E7%94%9F%E7%AC%AC2%E5%A4%A9%E8%84%91%E6%A2%97%E6%AD%BB%E7%88%B6%E4%BA%B2%E4%B8%80%E5%A4%9C%E7%99%BD%E5%A4%B4%23" target="weibo">
+男婴出生第2天脑梗死父亲一夜白头（热度：1709036）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%B7%9E%E8%BD%A6%E7%A5%B8%23" target="weibo">
 台州车祸（热度：1700996）
 </a>
@@ -1805,12 +1811,6 @@ A股大跌（热度：1655577）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%AD%A6%E5%AF%9F%E5%8E%85%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%BF%87%E5%A4%B1%E6%9D%80%E4%BA%BA%23" target="weibo">
 梨泰院踩踏事件警察厅长被控过失杀人（热度：1623885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE%23" target="weibo">
-台湾选举（热度：1623600）
 </a>
 </li>
 

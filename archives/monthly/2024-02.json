@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706783678935,
+  "endTime": 1706786074219,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -49,6 +49,14 @@
       "onboard_time": 1706759855,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1709036,
+      "num": 1709036,
+      "word": "男婴出生第2天脑梗死父亲一夜白头",
+      "onboard_time": 1706782532,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1635924,
@@ -131,6 +139,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1133879,
+      "num": 1828842,
+      "word": "夫妻各开一架飞机回家过年",
+      "onboard_time": 1706781514,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127309,
       "num": 1127309,
       "word": "王鸥复工",
@@ -161,22 +177,6 @@
       "onboard_time": 1706744783,
       "rank": 4,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 862284,
-      "num": 862284,
-      "word": "男婴出生第2天脑梗死父亲一夜白头",
-      "onboard_time": 1706782532,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854385,
-      "num": 1828842,
-      "word": "夫妻各开一架飞机回家过年",
-      "onboard_time": 1706781514,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 853226,
@@ -315,6 +315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 643902,
+      "num": 643902,
+      "word": "韩菱纱身亡",
+      "onboard_time": 1706785593,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643260,
       "num": 643260,
       "word": "范丞丞吐槽吻戏不换地方拍",
@@ -379,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 581600,
+      "num": 581600,
+      "word": "李莎旻子写给芒果的一封信",
+      "onboard_time": 1706783191,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 581063,
       "num": 581063,
       "word": "中国排名第五的大学",
@@ -393,6 +409,14 @@
       "onboard_time": 1706751571,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573492,
+      "num": 573492,
+      "word": "关晓彤最近才入坑甄嬛传",
+      "onboard_time": 1706780972,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 568256,
@@ -433,6 +457,14 @@
       "onboard_time": 1706776227,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529598,
+      "num": 529598,
+      "word": "美甲问价后不敢回复了",
+      "onboard_time": 1706782051,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 523064,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476552,
+      "num": 476552,
+      "word": "湛江加塞奔驰车内监控曝光",
+      "onboard_time": 1706783851,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468448,
       "num": 468448,
       "word": "网红帮女生找到失散22年妈妈",
@@ -555,14 +595,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 425702,
-      "num": 425702,
-      "word": "关晓彤最近才入坑甄嬛传",
-      "onboard_time": 1706780972,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 423411,
       "num": 423411,
       "word": "kpop历代级美貌",
@@ -587,14 +619,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 412223,
-      "num": 412223,
-      "word": "美甲问价后不敢回复了",
-      "onboard_time": 1706782051,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405918,
       "num": 405918,
       "word": "美作家称韩国只学到儒家思想和资本主义糟粕",
@@ -617,6 +641,14 @@
       "onboard_time": 1706760392,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 390359,
+      "num": 390359,
+      "word": "白鹿曾舜晞 衡门有狐",
+      "onboard_time": 1706783371,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 387473,
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281718,
+      "num": 157638,
+      "word": "回村烤火把美甲烤弯了",
+      "onboard_time": 1706784872,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280845,
       "num": 207268,
       "word": "二月狗屎运最旺的星座",
@@ -1067,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237625,
+      "num": 237625,
+      "word": "被自己穷笑啦",
+      "onboard_time": 1706784450,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237236,
       "num": 237236,
       "word": "杨紫6部作品回看率高",
@@ -1079,6 +1127,14 @@
       "num": 235831,
       "word": "95后为升职加薪开始社牛式比拼",
       "onboard_time": 1706780370,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234477,
+      "num": 234477,
+      "word": "奔驰车主逆行被处罚款200元记3分",
+      "onboard_time": 1706784510,
       "rank": 22,
       "category": "社会新闻"
     },
@@ -1187,14 +1243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212824,
-      "num": 212824,
-      "word": "李莎旻子写给芒果的一封信",
-      "onboard_time": 1706783191,
-      "rank": 23,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 205831,
       "num": 205831,
       "word": "什么样的情侣关系最长久",
@@ -1275,7 +1323,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196061,
+      "raw_hot": 196501,
       "num": 844127,
       "word": "司机坚持礼让行人没想到有意外收获",
       "onboard_time": 1706781031,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1706781391,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189066,
+      "num": 189066,
+      "word": "仙剑四",
+      "onboard_time": 1706785170,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 188917,
@@ -1643,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159980,
-      "num": 159980,
-      "word": "白鹿曾舜晞 衡门有狐",
-      "onboard_time": 1706783371,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158813,
       "num": 158813,
       "word": "钎九",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1706745566,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158008,
+      "num": 158008,
+      "word": "有人想教谷爱凌滑雪",
+      "onboard_time": 1706785051,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 157779,
@@ -1723,12 +1779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154659,
+      "num": 154659,
+      "word": "在暴雪时分上星",
+      "onboard_time": 1706783612,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154549,
       "num": 154549,
       "word": "深圳房产中介集体转行",
       "onboard_time": 1706777433,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153375,
+      "num": 153375,
+      "word": "董宇辉以不过如此总结自己",
+      "onboard_time": 1706785291,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 153154,
@@ -1763,12 +1835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150643,
+      "num": 150643,
+      "word": "工会回应副主席被曝不雅聊天",
+      "onboard_time": 1706785350,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150164,
       "num": 150164,
       "word": "陈哲远鞠婧祎搂腰吻",
       "onboard_time": 1706760216,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148687,
+      "num": 148687,
+      "word": "魏大勋 首评你在哪",
+      "onboard_time": 1706785890,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148642,
@@ -2067,6 +2155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126559,
+      "num": 126559,
+      "word": "灰太狼没有妈妈记忆的原因",
+      "onboard_time": 1706785771,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126511,
       "num": 126511,
       "word": "BABYMONSTER新歌MV",
@@ -2097,6 +2193,14 @@
       "onboard_time": 1706768071,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124372,
+      "num": 124372,
+      "word": "打野吃上单点兵线怎么了",
+      "onboard_time": 1706785350,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 122892,
@@ -2203,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112590,
+      "num": 112590,
+      "word": "流星首秀好惊艳",
+      "onboard_time": 1706785472,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112433,
       "num": 155668,
       "word": "女子捐赠甘肃一中学400件羽绒服失踪",
@@ -2235,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110330,
+      "num": 110330,
+      "word": "虞书欣许凯hi6路透",
+      "onboard_time": 1706784030,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109976,
       "num": 109976,
       "word": "刘耀文给雷佳音呼呼",
@@ -2257,6 +2377,14 @@
       "onboard_time": 1706782352,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 104468,
+      "num": 104468,
+      "word": "分手语录",
+      "onboard_time": 1706785954,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102258,
@@ -2321,14 +2449,6 @@
       "onboard_time": 1706769989,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 94238,
-      "num": 94238,
-      "word": "在暴雪时分上星",
-      "onboard_time": 1706783612,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 92725,
