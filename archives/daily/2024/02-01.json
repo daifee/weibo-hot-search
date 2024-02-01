@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706769314891,
+  "endTime": 1706771813786,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -59,6 +59,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1548781,
+      "num": 846103,
+      "word": "杨威",
+      "onboard_time": 1706767773,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1367335,
       "num": 1073272,
       "word": "胡歌与老婆出门购物",
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1046679,
+      "num": 410599,
+      "word": "汤兰兰",
+      "onboard_time": 1706768731,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862870,
       "num": 862870,
       "word": "女性要为生育付出多少代价",
@@ -113,14 +129,6 @@
       "onboard_time": 1706751812,
       "rank": 3,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 846103,
-      "num": 846103,
-      "word": "杨威",
-      "onboard_time": 1706767773,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 817049,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534034,
+      "num": 534034,
+      "word": "离婚了彩礼还不还",
+      "onboard_time": 1706767349,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 523064,
       "num": 523064,
       "word": "iPhone15Pro满意度下降",
@@ -329,6 +345,14 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 466652,
+      "num": 466652,
+      "word": "美甲店称过年费是加班费",
+      "onboard_time": 1706767949,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 440350,
@@ -491,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353526,
-      "num": 353526,
-      "word": "离婚了彩礼还不还",
-      "onboard_time": 1706767349,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 349704,
       "num": 349704,
       "word": "IU登顶2024韩国最富有女爱豆",
@@ -587,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306203,
-      "num": 306203,
+      "raw_hot": 307003,
+      "num": 307003,
       "word": "马丽 我看着都挺像原配",
       "onboard_time": 1706767413,
       "rank": 19,
@@ -609,6 +625,14 @@
       "onboard_time": 1706758412,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303324,
+      "num": 303324,
+      "word": "赵丽颖公司取得演出经纪许可",
+      "onboard_time": 1706771310,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 302798,
@@ -667,20 +691,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270354,
-      "num": 270354,
-      "word": "美甲店称过年费是加班费",
-      "onboard_time": 1706767949,
-      "rank": 28,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 269283,
       "num": 269283,
       "word": "周星驰 金猪玉叶",
       "onboard_time": 1706745386,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267153,
+      "num": 267153,
+      "word": "多面吴谢宇",
+      "onboard_time": 1706769452,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259187,
@@ -721,14 +745,6 @@
       "onboard_time": 1706762372,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 252794,
-      "num": 252794,
-      "word": "汤兰兰",
-      "onboard_time": 1706768731,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252313,
@@ -787,11 +803,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235963,
+      "num": 235963,
+      "word": "格力年会 我妈就是董明珠",
+      "onboard_time": 1706770953,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 231128,
       "num": 231128,
       "word": "菏泽干部",
       "onboard_time": 1706766088,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229247,
+      "num": 229247,
+      "word": "日本2架客机发生碰撞",
+      "onboard_time": 1706771074,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166335,
+      "num": 156101,
+      "word": "真实胎动",
+      "onboard_time": 1706771249,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164460,
       "num": 164460,
       "word": "田馥甄否认遭暗捅",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1706745207,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163267,
+      "num": 163267,
+      "word": "TheShy赛博考研",
+      "onboard_time": 1706769092,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 161501,
@@ -1203,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153953,
+      "num": 153953,
+      "word": "李梦 尊重电影人就是尊重电影",
+      "onboard_time": 1706771429,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153154,
       "num": 153154,
       "word": "堵车时第一辆车在干嘛",
       "onboard_time": 1706764773,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151793,
+      "num": 151793,
+      "word": "神秘人10年捐赠1000万元善款",
+      "onboard_time": 1706770587,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151644,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1706755290,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146356,
+      "num": 146356,
+      "word": "六公主镜头下的刘耀文",
+      "onboard_time": 1706770112,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 145163,
@@ -1379,14 +1451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134198,
-      "num": 134198,
-      "word": "TheShy赛博考研",
-      "onboard_time": 1706769092,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133583,
       "num": 157158,
       "word": "米哈游等遭工信部点名",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1706757812,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132971,
+      "num": 132971,
+      "word": "31省份2023年GDP出炉",
+      "onboard_time": 1706769871,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 132810,
@@ -1531,12 +1603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117959,
+      "num": 117959,
+      "word": "广东GDP连续35年居首",
+      "onboard_time": 1706771610,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117272,
       "num": 117272,
       "word": "刘诗诗直播妆造",
       "onboard_time": 1706706514,
       "rank": 37,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 116540,
+      "num": 116540,
+      "word": "警方通报多人拿棍棒皮带抽打一男孩",
+      "onboard_time": 1706771610,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116242,
@@ -1611,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98772,
+      "num": 98772,
+      "word": "顺拐快两千年的青铜马",
+      "onboard_time": 1706771729,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 97736,
       "num": 97736,
       "word": "鹿emoji",
@@ -1624,6 +1720,14 @@
       "word": "城管局副局长与女教师车内中毒死亡",
       "onboard_time": 1706673693,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96818,
+      "num": 556123,
+      "word": "重温经典频道开播",
+      "onboard_time": 1706771191,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1641,6 +1745,22 @@
       "onboard_time": 1706756369,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94854,
+      "num": 94854,
+      "word": "金奎彬韩维辰 MakeMeWater",
+      "onboard_time": 1706769989,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94123,
+      "num": 94123,
+      "word": "C罗腿部肌肉撕裂",
+      "onboard_time": 1706771791,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 92725,

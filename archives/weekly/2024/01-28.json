@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706769314891,
+  "endTime": 1706771813786,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -337,6 +337,14 @@
       "onboard_time": 1706531914,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1548781,
+      "num": 846103,
+      "word": "杨威",
+      "onboard_time": 1706767773,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1544175,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046679,
+      "num": 410599,
+      "word": "汤兰兰",
+      "onboard_time": 1706768731,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1045213,
       "num": 1045213,
       "word": "一部涉刑iPhone6S拍出22万天价",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1706751812,
       "rank": 3,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 846103,
-      "num": 846103,
-      "word": "杨威",
-      "onboard_time": 1706767773,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 836076,
@@ -2427,6 +2435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 534034,
+      "num": 534034,
+      "word": "离婚了彩礼还不还",
+      "onboard_time": 1706767349,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 532756,
       "num": 532756,
       "word": "秋瓷炫近期状态",
@@ -2857,6 +2873,14 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 466652,
+      "num": 466652,
+      "word": "美甲店称过年费是加班费",
+      "onboard_time": 1706767949,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 466006,
@@ -3947,14 +3971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353526,
-      "num": 353526,
-      "word": "离婚了彩礼还不还",
-      "onboard_time": 1706767349,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 353289,
       "num": 336064,
       "word": "周传雄 生病的经历改变了我的心态",
@@ -4459,20 +4475,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307003,
+      "num": 307003,
+      "word": "马丽 我看着都挺像原配",
+      "onboard_time": 1706767413,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306256,
       "num": 306256,
       "word": "湛江警方通报奔驰车主徐闻港插队事件",
       "onboard_time": 1706688571,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306203,
-      "num": 306203,
-      "word": "马丽 我看着都挺像原配",
-      "onboard_time": 1706767413,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 306198,
@@ -4537,6 +4553,14 @@
       "onboard_time": 1706758412,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303324,
+      "num": 303324,
+      "word": "赵丽颖公司取得演出经纪许可",
+      "onboard_time": 1706771310,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 302798,
@@ -5035,14 +5059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270354,
-      "num": 270354,
-      "word": "美甲店称过年费是加班费",
-      "onboard_time": 1706767949,
-      "rank": 28,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 270292,
       "num": 270292,
       "word": "快船打爆凯尔特人",
@@ -5081,6 +5097,14 @@
       "onboard_time": 1706672252,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267153,
+      "num": 267153,
+      "word": "多面吴谢宇",
+      "onboard_time": 1706769452,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266403,
@@ -5313,14 +5337,6 @@
       "onboard_time": 1706669912,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252794,
-      "num": 252794,
-      "word": "汤兰兰",
-      "onboard_time": 1706768731,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252313,
@@ -5587,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235963,
+      "num": 235963,
+      "word": "格力年会 我妈就是董明珠",
+      "onboard_time": 1706770953,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235686,
       "num": 235686,
       "word": "肖战红西装大背头",
@@ -5728,6 +5752,14 @@
       "word": "湖南一小区物业费全免还分红每户400",
       "onboard_time": 1706432608,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229247,
+      "num": 229247,
+      "word": "日本2架客机发生碰撞",
+      "onboard_time": 1706771074,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -7979,6 +8011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166335,
+      "num": 156101,
+      "word": "真实胎动",
+      "onboard_time": 1706771249,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166142,
       "num": 166142,
       "word": "2024KPL春季赛定妆照",
@@ -8121,6 +8161,14 @@
       "onboard_time": 1706745207,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163267,
+      "num": 163267,
+      "word": "TheShy赛博考研",
+      "onboard_time": 1706769092,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 162928,
@@ -8595,6 +8643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153953,
+      "num": 153953,
+      "word": "李梦 尊重电影人就是尊重电影",
+      "onboard_time": 1706771429,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153634,
       "num": 153634,
       "word": "勇士新死亡五小",
@@ -8705,6 +8761,14 @@
       "onboard_time": 1706422288,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151793,
+      "num": 151793,
+      "word": "神秘人10年捐赠1000万元善款",
+      "onboard_time": 1706770587,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151438,
@@ -8985,6 +9049,14 @@
       "onboard_time": 1706620951,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146356,
+      "num": 146356,
+      "word": "六公主镜头下的刘耀文",
+      "onboard_time": 1706770112,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 146338,
@@ -9739,14 +9811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134198,
-      "num": 134198,
-      "word": "TheShy赛博考研",
-      "onboard_time": 1706769092,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133844,
       "num": 133844,
       "word": "甄子丹称女儿暂时不会拍电影",
@@ -9809,6 +9873,14 @@
       "onboard_time": 1706515530,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132971,
+      "num": 132971,
+      "word": "31省份2023年GDP出炉",
+      "onboard_time": 1706769871,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 132964,
@@ -10835,6 +10907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117959,
+      "num": 117959,
+      "word": "广东GDP连续35年居首",
+      "onboard_time": 1706771610,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117841,
       "num": 117841,
       "word": "杭漂的年轻人熬不住了",
@@ -10881,6 +10961,14 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116540,
+      "num": 116540,
+      "word": "警方通报多人拿棍棒皮带抽打一男孩",
+      "onboard_time": 1706771610,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116443,
@@ -11859,6 +11947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98772,
+      "num": 98772,
+      "word": "顺拐快两千年的青铜马",
+      "onboard_time": 1706771729,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 98106,
       "num": 1034178,
       "word": "春运安全出行天气地图",
@@ -11897,6 +11993,14 @@
       "onboard_time": 1706620650,
       "rank": 45,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 96818,
+      "num": 556123,
+      "word": "重温经典频道开播",
+      "onboard_time": 1706771191,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96643,
@@ -11987,6 +12091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94854,
+      "num": 94854,
+      "word": "金奎彬韩维辰 MakeMeWater",
+      "onboard_time": 1706769989,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94612,
       "num": 94612,
       "word": "快船vs凯尔特人",
@@ -12009,6 +12121,14 @@
       "onboard_time": 1706619328,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94123,
+      "num": 94123,
+      "word": "C罗腿部肌肉撕裂",
+      "onboard_time": 1706771791,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 94064,

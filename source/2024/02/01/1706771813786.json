@@ -1,0 +1,410 @@
+{
+  "runTime": 1706771813786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134249,
+        "num": 1134249,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 588319,
+        "num": 588319,
+        "word": "金智秀BLACKPINK最富有成员",
+        "onboard_time": 1706766693,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96818,
+        "num": 556123,
+        "word": "重温经典频道开播",
+        "onboard_time": 1706771191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905411,
+        "num": 549237,
+        "word": "干部被曝妻子怀孕时出轨多名女性",
+        "onboard_time": 1706761173,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598324,
+        "num": 544922,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538486,
+        "num": 538486,
+        "word": "为什么高铁座椅没有E号",
+        "onboard_time": 1706765191,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 534034,
+        "num": 534034,
+        "word": "离婚了彩礼还不还",
+        "onboard_time": 1706767349,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466652,
+        "num": 466652,
+        "word": "美甲店称过年费是加班费",
+        "onboard_time": 1706767949,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 460764,
+        "num": 460764,
+        "word": "劝人多睡的医生自己在熬夜",
+        "onboard_time": 1706761773,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272310,
+        "num": 418473,
+        "word": "韩国瑜当选台立法机构负责人",
+        "onboard_time": 1706767048,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1548781,
+        "num": 412774,
+        "word": "杨威",
+        "onboard_time": 1706767773,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046679,
+        "num": 410599,
+        "word": "汤兰兰",
+        "onboard_time": 1706768731,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394058,
+        "num": 394058,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341568,
+        "num": 341568,
+        "word": "IU登顶2024韩国最富有女爱豆",
+        "onboard_time": 1706767472,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307003,
+        "num": 307003,
+        "word": "马丽 我看着都挺像原配",
+        "onboard_time": 1706767413,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304529,
+        "num": 304529,
+        "word": "CCTV6大年初一首播长空之王",
+        "onboard_time": 1706764829,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303324,
+        "num": 303324,
+        "word": "赵丽颖公司取得演出经纪许可",
+        "onboard_time": 1706771310,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267588,
+        "num": 267588,
+        "word": "花130万帮女儿当网红2年没成功",
+        "onboard_time": 1706751331,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 267153,
+        "num": 267153,
+        "word": "多面吴谢宇",
+        "onboard_time": 1706769452,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255353,
+        "num": 255353,
+        "word": "韩国瑜",
+        "onboard_time": 1706763872,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235963,
+        "num": 235963,
+        "word": "格力年会 我妈就是董明珠",
+        "onboard_time": 1706770953,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231551,
+        "num": 231551,
+        "word": "大侦探 播不播",
+        "onboard_time": 1706763395,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229247,
+        "num": 229247,
+        "word": "日本2架客机发生碰撞",
+        "onboard_time": 1706771074,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212982,
+        "num": 212982,
+        "word": "王安宇参加过明日之子2",
+        "onboard_time": 1706768669,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197043,
+        "num": 197043,
+        "word": "坐飞机偶遇鹿晗",
+        "onboard_time": 1706757751,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189223,
+        "num": 189223,
+        "word": "丁克家庭要给亲戚小孩红包吗",
+        "onboard_time": 1706765912,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163267,
+        "num": 163267,
+        "word": "TheShy赛博考研",
+        "onboard_time": 1706769092,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 710167,
+        "num": 162052,
+        "word": "死刑注射前为啥还要消毒",
+        "onboard_time": 1706759855,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200700,
+        "num": 162022,
+        "word": "秦海璐向王新军介绍王安宇",
+        "onboard_time": 1706755588,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157770,
+        "num": 157770,
+        "word": "张震倪妮时尚先生双人封",
+        "onboard_time": 1706768850,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166335,
+        "num": 156101,
+        "word": "真实胎动",
+        "onboard_time": 1706771249,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154138,
+        "num": 154138,
+        "word": "LOL开播送全英雄全皮肤",
+        "onboard_time": 1706767591,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153953,
+        "num": 153953,
+        "word": "李梦 尊重电影人就是尊重电影",
+        "onboard_time": 1706771429,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151793,
+        "num": 151793,
+        "word": "神秘人10年捐赠1000万元善款",
+        "onboard_time": 1706770587,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146356,
+        "num": 146356,
+        "word": "六公主镜头下的刘耀文",
+        "onboard_time": 1706770112,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132971,
+        "num": 132971,
+        "word": "31省份2023年GDP出炉",
+        "onboard_time": 1706769871,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128571,
+        "num": 128571,
+        "word": "王源易烊千玺 酣畅淋漓的采访",
+        "onboard_time": 1706758232,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118932,
+        "num": 118932,
+        "word": "过年做美甲要注意4点",
+        "onboard_time": 1706761656,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117959,
+        "num": 117959,
+        "word": "广东GDP连续35年居首",
+        "onboard_time": 1706771610,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122948,
+        "num": 117318,
+        "word": "刘耀文 这边哈喽一下那边哈喽一下",
+        "onboard_time": 1706767706,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116540,
+        "num": 116540,
+        "word": "警方通报多人拿棍棒皮带抽打一男孩",
+        "onboard_time": 1706771610,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108082,
+        "num": 108082,
+        "word": "乳腺癌女性离婚率高达百分之四十",
+        "onboard_time": 1706758771,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108022,
+        "num": 108022,
+        "word": "灵岩甩臀致直播间被封",
+        "onboard_time": 1706751090,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107337,
+        "num": 107337,
+        "word": "仙剑四大结局",
+        "onboard_time": 1706762673,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105840,
+        "num": 105840,
+        "word": "菏泽干部",
+        "onboard_time": 1706766088,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98772,
+        "num": 98772,
+        "word": "顺拐快两千年的青铜马",
+        "onboard_time": 1706771729,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94854,
+        "num": 94854,
+        "word": "金奎彬韩维辰 MakeMeWater",
+        "onboard_time": 1706769989,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94123,
+        "num": 94123,
+        "word": "C罗腿部肌肉撕裂",
+        "onboard_time": 1706771791,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93184,
+        "num": 93184,
+        "word": "湖南卫视春晚阵容",
+        "onboard_time": 1706763935,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91975,
+        "num": 91975,
+        "word": "朱丹官宣加盟最强大脑",
+        "onboard_time": 1706763454,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}
