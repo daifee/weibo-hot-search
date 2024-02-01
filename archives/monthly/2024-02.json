@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706808823706,
+  "endTime": 1706811637750,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -1963,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180213,
+      "num": 94009,
+      "word": "张庭 我都没去过这个楼盘",
+      "onboard_time": 1706809821,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180071,
       "num": 180071,
       "word": "在暴雪时分",
@@ -3283,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55504,
+      "num": 55504,
+      "word": "车厘子的正确吃法",
+      "onboard_time": 1706808742,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50413,
       "num": 1809333,
       "word": "穿越机视角看世界最大跨度拱桥",
@@ -3323,6 +3339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39541,
+      "num": 39541,
+      "word": "绩黍",
+      "onboard_time": 1706810059,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35815,
       "num": 38997,
       "word": "韩菱纱结局",
@@ -3347,20 +3371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31242,
-      "num": 38974,
-      "word": "车厘子的正确吃法",
-      "onboard_time": 1706808742,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 30602,
       "num": 30602,
       "word": "日本门将离谱失误",
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27814,
+      "num": 27814,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25104,

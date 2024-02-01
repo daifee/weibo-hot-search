@@ -1,0 +1,410 @@
+{
+  "runTime": 1706811637750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 268230,
+        "num": 268230,
+        "word": "艾滋病为何老龄化",
+        "onboard_time": 1706803408,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149424,
+        "num": 149424,
+        "word": "张佳宁演累了吧让我去演",
+        "onboard_time": 1706805147,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12429,
+        "num": 147488,
+        "word": "在中国这样玩",
+        "onboard_time": 1706791832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146686,
+        "num": 146686,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131609,
+        "num": 131609,
+        "word": "河南大雪胖东来在门口给顾客身上扫雪",
+        "onboard_time": 1706805984,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111202,
+        "num": 111202,
+        "word": "大S具俊晔23年前后合照对比",
+        "onboard_time": 1706791055,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109173,
+        "num": 109173,
+        "word": "K4186全车一起救了个人",
+        "onboard_time": 1706786671,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 108930,
+        "num": 108930,
+        "word": "百里屠苏好久不见",
+        "onboard_time": 1706779412,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98115,
+        "num": 98115,
+        "word": "帕梅拉 在高铁上健身",
+        "onboard_time": 1706798915,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95109,
+        "num": 95109,
+        "word": "成毅 张居正",
+        "onboard_time": 1706791294,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180213,
+        "num": 94009,
+        "word": "张庭 我都没去过这个楼盘",
+        "onboard_time": 1706809821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160103,
+        "num": 92611,
+        "word": "男婴出生第2天脑梗死父亲一夜白头",
+        "onboard_time": 1706782532,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151255,
+        "num": 91341,
+        "word": "韩菱纱身亡",
+        "onboard_time": 1706785593,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89357,
+        "num": 89357,
+        "word": "李诞卖穿戴甲",
+        "onboard_time": 1706788412,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84067,
+        "num": 84067,
+        "word": "孙千露腰了",
+        "onboard_time": 1706799215,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82502,
+        "num": 82502,
+        "word": "周鸿祎建议刘德华转行当网红",
+        "onboard_time": 1706807364,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67091,
+        "num": 67091,
+        "word": "赵今麦 真甜妹来了",
+        "onboard_time": 1706796873,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60768,
+        "num": 60768,
+        "word": "哇唧唧哇年会",
+        "onboard_time": 1706792793,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55504,
+        "num": 55504,
+        "word": "车厘子的正确吃法",
+        "onboard_time": 1706808742,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47884,
+        "num": 47884,
+        "word": "夫妻各开一架飞机回家过年",
+        "onboard_time": 1706781514,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139843,
+        "num": 47653,
+        "word": "现在预制菜都这么齐全了吗",
+        "onboard_time": 1706792313,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69185,
+        "num": 46968,
+        "word": "男子嫌老婆花钱多看到购物袋后破防",
+        "onboard_time": 1706793154,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59003,
+        "num": 46367,
+        "word": "卜冠今回应造型争议",
+        "onboard_time": 1706796813,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45591,
+        "num": 45591,
+        "word": "河南暴雪有人在高速堵车超10公里",
+        "onboard_time": 1706795611,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44460,
+        "num": 44460,
+        "word": "易烊千玺阎青妤合照",
+        "onboard_time": 1706801613,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42715,
+        "num": 42715,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40463,
+        "num": 40463,
+        "word": "鞠婧祎琼瑶式落泪",
+        "onboard_time": 1706805445,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39541,
+        "num": 39541,
+        "word": "绩黍",
+        "onboard_time": 1706810059,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37568,
+        "num": 37568,
+        "word": "汉密尔顿 法拉利",
+        "onboard_time": 1706789191,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36829,
+        "num": 36829,
+        "word": "时代少年团 王者荣耀表演赛",
+        "onboard_time": 1706798431,
+        "rank": 29,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 36096,
+        "num": 36096,
+        "word": "Selina产后代言收入达百万",
+        "onboard_time": 1706792373,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35583,
+        "num": 35583,
+        "word": "小S二女儿Lily晒旅游照",
+        "onboard_time": 1706790090,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35504,
+        "num": 35504,
+        "word": "陈都灵等车",
+        "onboard_time": 1706793512,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33967,
+        "num": 33967,
+        "word": "第一次带女朋友回家有多夸张",
+        "onboard_time": 1706799512,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33295,
+        "num": 33295,
+        "word": "我妈说过年回去随便穿穿",
+        "onboard_time": 1706799393,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33132,
+        "num": 33132,
+        "word": "美甲问价后不敢回复了",
+        "onboard_time": 1706782051,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31304,
+        "num": 31304,
+        "word": "模仿高至霆做饭图",
+        "onboard_time": 1706804070,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30626,
+        "num": 30626,
+        "word": "齐思钧赵昭仪芒果年会主持人",
+        "onboard_time": 1706790751,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30165,
+        "num": 30165,
+        "word": "虞书欣许凯聊天 受伤的却是娜扎",
+        "onboard_time": 1706792853,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29106,
+        "num": 29106,
+        "word": "杭州一女子高空杂技表演时坠落身亡",
+        "onboard_time": 1706786910,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28693,
+        "num": 28693,
+        "word": "女生真的有自己的洗头规划",
+        "onboard_time": 1706794954,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27814,
+        "num": 27814,
+        "word": "高铁算是把用户需求整明白了",
+        "onboard_time": 1706808622,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27794,
+        "num": 27794,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1706779710,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26907,
+        "num": 26907,
+        "word": "Scout 阿卡丽",
+        "onboard_time": 1706797231,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26893,
+        "num": 26893,
+        "word": "Fly 不要气馁兄弟们下场赢回来",
+        "onboard_time": 1706799512,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25302,
+        "num": 26890,
+        "word": "故宫你是懂壁纸的",
+        "onboard_time": 1706794231,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23782,
+        "num": 26887,
+        "word": "宋伊人圈内人缘",
+        "onboard_time": 1706792313,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23100,
+        "num": 26879,
+        "word": "健康减肥后身体发生的变化",
+        "onboard_time": 1706793932,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21305,
+        "num": 26876,
+        "word": "檀健次剧组日常",
+        "onboard_time": 1706802091,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20068,
+        "num": 26874,
+        "word": "她又多了个用处",
+        "onboard_time": 1706798915,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}
