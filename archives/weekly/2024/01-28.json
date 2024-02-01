@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706744040430,
+  "endTime": 1706750138666,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -23,6 +23,14 @@
       "num": 3485180,
       "word": "缅北电诈四大家族覆灭",
       "onboard_time": 1706661628,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3153639,
+      "num": 3153639,
+      "word": "执行死刑 三针注射",
+      "onboard_time": 1706744846,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -603,11 +611,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1127309,
+      "num": 1127309,
+      "word": "王鸥复工",
+      "onboard_time": 1706744607,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1122769,
       "num": 230895,
       "word": "母猴 干儿子",
       "onboard_time": 1706412447,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116428,
+      "num": 1116428,
+      "word": "用氮气执行死刑",
+      "onboard_time": 1706746228,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862870,
+      "num": 862870,
+      "word": "女性要为生育付出多少代价",
+      "onboard_time": 1706744783,
+      "rank": 4,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 855314,
       "num": 855314,
       "word": "嬛嬛 朕出专辑啦",
@@ -1323,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743870,
+      "num": 743870,
+      "word": "车厘子打败砂糖橘成年货顶流",
+      "onboard_time": 1706748572,
+      "rank": 5,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 739223,
       "num": 1531709,
       "word": "奶奶被孙女安排锡纸烫瞬间变年轻",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1706622573,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 643260,
+      "num": 643260,
+      "word": "范丞丞吐槽吻戏不换地方拍",
+      "onboard_time": 1706745146,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 640328,
@@ -2859,12 +2907,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426857,
+      "num": 426857,
+      "word": "俄高官称千岛群岛属俄日本不满意可以切腹",
+      "onboard_time": 1706743344,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 426472,
       "num": 314154,
       "word": "喜茶联名繁花",
       "onboard_time": 1706677835,
       "rank": 20,
       "category": "美食,剧集"
+    },
+    {
+      "raw_hot": 424646,
+      "num": 402334,
+      "word": "张煜东 你们恭喜错人了",
+      "onboard_time": 1706747068,
+      "rank": 10,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 423166,
@@ -3411,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371030,
+      "num": 371030,
+      "word": "印度外长说不应害怕中国",
+      "onboard_time": 1706748212,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 370238,
       "num": 954257,
       "word": "摊主被打女生帮作证获赠40串关东煮",
@@ -3779,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329798,
+      "num": 329798,
+      "word": "回南天",
+      "onboard_time": 1706613210,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
       "raw_hot": 328881,
       "num": 280303,
       "word": "6种症状提醒你该查血脂了",
@@ -4083,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302798,
+      "num": 302798,
+      "word": "杭州巨响",
+      "onboard_time": 1706745928,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302614,
       "num": 302614,
       "word": "张庭方否认在迪拜买房",
@@ -4289,6 +4377,14 @@
       "onboard_time": 1706433867,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292105,
+      "num": 292105,
+      "word": "吴谢宇弑母案",
+      "onboard_time": 1706747613,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291311,
@@ -4569,6 +4665,14 @@
       "onboard_time": 1706398640,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269283,
+      "num": 269283,
+      "word": "周星驰 金猪玉叶",
+      "onboard_time": 1706745386,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 268650,
@@ -4915,6 +5019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 242166,
+      "num": 242166,
+      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+      "onboard_time": 1706733017,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241250,
       "num": 241250,
       "word": "丰田汽车会长道歉",
@@ -4993,14 +5105,6 @@
       "onboard_time": 1706530534,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236596,
-      "num": 236596,
-      "word": "6大人8孩子吃火锅一起一氧化碳中毒",
-      "onboard_time": 1706733017,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235686,
@@ -5195,6 +5299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224972,
+      "num": 224972,
+      "word": "段奕宏张译参加活动像离异夫妻",
+      "onboard_time": 1706747251,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "马斯克重夺世界首富位置",
@@ -5263,6 +5375,14 @@
       "num": 222685,
       "word": "张波叶诚尘谋划半年下手2次才得逞",
       "onboard_time": 1706688272,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222566,
+      "num": 222566,
+      "word": "重庆姐弟坠亡案",
+      "onboard_time": 1706749469,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -6203,14 +6323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196772,
-      "num": 196772,
-      "word": "回南天",
-      "onboard_time": 1706613210,
-      "rank": 47,
-      "category": "自然"
-    },
-    {
       "raw_hot": 196351,
       "num": 196351,
       "word": "谁家猫咪喝水这么端正",
@@ -6521,6 +6633,14 @@
       "onboard_time": 1706627552,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187542,
+      "num": 187542,
+      "word": "繁花火到台湾再正常不过了",
+      "onboard_time": 1706746048,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187480,
@@ -7123,6 +7243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166845,
+      "num": 166845,
+      "word": "IU概念照",
+      "onboard_time": 1706746173,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166745,
       "num": 166745,
       "word": "胡锡进将减少针对股市发言",
@@ -7267,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163314,
+      "num": 163314,
+      "word": "i人变e真的很有自由感",
+      "onboard_time": 1706745207,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162928,
       "num": 162928,
       "word": "A股已经足够便宜",
@@ -7379,6 +7515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160001,
+      "num": 160001,
+      "word": "视力恢复手法",
+      "onboard_time": 1706748572,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159549,
       "num": 159549,
       "word": "大胖媳妇学汉语太难了",
@@ -7441,6 +7585,14 @@
       "onboard_time": 1706527051,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158414,
+      "num": 158414,
+      "word": "景区回应男子爬乐山大佛头顶小便",
+      "onboard_time": 1706745566,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157693,
@@ -7595,6 +7747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155727,
+      "num": 155727,
+      "word": "新人结婚婆家铺2公里气球路连到娘家",
+      "onboard_time": 1706743524,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155416,
       "num": 155416,
       "word": "暴雪新总裁任命官宣",
@@ -7649,6 +7809,14 @@
       "onboard_time": 1706358929,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154921,
+      "num": 154921,
+      "word": "河南强降雪最新情况",
+      "onboard_time": 1706749231,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154737,
@@ -8539,6 +8707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137489,
+      "num": 137489,
+      "word": "在车内为什么会一氧化碳中毒",
+      "onboard_time": 1706746466,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137407,
       "num": 137407,
       "word": "陕西文旅你是真开窍了啊",
@@ -8699,6 +8875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134297,
+      "num": 134297,
+      "word": "大侦探",
+      "onboard_time": 1706750012,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134289,
       "num": 177786,
       "word": "小动协讲述2只猫身体状况细节",
@@ -8739,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133278,
+      "num": 133278,
+      "word": "暴雪大雾大风三预警齐发",
+      "onboard_time": 1706749891,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133260,
       "num": 133260,
       "word": "张予曦红衣龙女",
@@ -8777,6 +8969,14 @@
       "onboard_time": 1706607392,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 132810,
+      "num": 132810,
+      "word": "宝宝扶着水池乖乖让爸爸洗头",
+      "onboard_time": 1706747791,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 132737,
@@ -8905,6 +9105,14 @@
       "onboard_time": 1706689952,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130857,
+      "num": 130857,
+      "word": "于正回应19层官微手滑",
+      "onboard_time": 1706748091,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 130407,
@@ -9193,6 +9401,14 @@
       "onboard_time": 1706448392,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126511,
+      "num": 126511,
+      "word": "BABYMONSTER新歌MV",
+      "onboard_time": 1706747014,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 126217,
@@ -9795,6 +10011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115654,
+      "num": 115654,
+      "word": "嗓子疼",
+      "onboard_time": 1706750130,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "2024躺还是卷",
@@ -9888,6 +10112,14 @@
       "word": "第一次见猫猫泡脚",
       "onboard_time": 1706370270,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 114504,
+      "num": 114504,
+      "word": "当过年家里有一个没结婚的长辈",
+      "onboard_time": 1706743824,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -10107,6 +10339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111068,
+      "num": 1117134,
+      "word": "2月这些新规将要施行",
+      "onboard_time": 1706709153,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110512,
       "num": 110512,
       "word": "陆沉 出差结束",
@@ -10137,6 +10377,14 @@
       "onboard_time": 1706652314,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110346,
+      "num": 110346,
+      "word": "你算是踢到棉花啦",
+      "onboard_time": 1706749289,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110255,
@@ -10923,14 +11171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91588,
-      "num": 91588,
-      "word": "俄高官称千岛群岛属俄日本不满意可以切腹",
-      "onboard_time": 1706743344,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 91161,
       "num": 1230434,
       "word": "年货大集里的浓浓年味",
@@ -11331,14 +11571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58554,
-      "num": 58554,
-      "word": "当过年家里有一个没结婚的长辈",
-      "onboard_time": 1706743824,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 57052,
       "num": 57052,
       "word": "巴塞罗那3比5比利亚雷亚尔",
@@ -11491,14 +11723,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 49876,
-      "num": 49876,
-      "word": "新人结婚婆家铺2公里气球路连到娘家",
-      "onboard_time": 1706743524,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49611,
       "num": 952759,
       "word": "大美中国 冰雪之约",
@@ -11545,14 +11769,6 @@
       "onboard_time": 1706351491,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42282,
-      "num": 426777,
-      "word": "2月这些新规将要施行",
-      "onboard_time": 1706709153,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42274,

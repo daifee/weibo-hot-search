@@ -1,0 +1,410 @@
+{
+  "runTime": 1706750138666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3153639,
+        "num": 3153639,
+        "word": "执行死刑 三针注射",
+        "onboard_time": 1706744846,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127309,
+        "num": 1127309,
+        "word": "王鸥复工",
+        "onboard_time": 1706744607,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111068,
+        "num": 1117134,
+        "word": "2月这些新规将要施行",
+        "onboard_time": 1706709153,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116428,
+        "num": 1116428,
+        "word": "用氮气执行死刑",
+        "onboard_time": 1706746228,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862870,
+        "num": 862870,
+        "word": "女性要为生育付出多少代价",
+        "onboard_time": 1706744783,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 743870,
+        "num": 743870,
+        "word": "车厘子打败砂糖橘成年货顶流",
+        "onboard_time": 1706748572,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 646296,
+        "num": 646296,
+        "word": "尿毒症是吃出来的",
+        "onboard_time": 1706712333,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 643260,
+        "num": 643260,
+        "word": "范丞丞吐槽吻戏不换地方拍",
+        "onboard_time": 1706745146,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426857,
+        "num": 426857,
+        "word": "俄高官称千岛群岛属俄日本不满意可以切腹",
+        "onboard_time": 1706743344,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 409995,
+        "num": 409995,
+        "word": "张波叶诚尘一审互咬二审互助",
+        "onboard_time": 1706711072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424646,
+        "num": 402334,
+        "word": "张煜东 你们恭喜错人了",
+        "onboard_time": 1706747068,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 371030,
+        "num": 371030,
+        "word": "印度外长说不应害怕中国",
+        "onboard_time": 1706748212,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348176,
+        "num": 348176,
+        "word": "河南暴雪",
+        "onboard_time": 1706694271,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329798,
+        "num": 329798,
+        "word": "回南天",
+        "onboard_time": 1706745087,
+        "rank": 13,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 328222,
+        "num": 328222,
+        "word": "中国排名第五的大学",
+        "onboard_time": 1706709333,
+        "rank": 14,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 302798,
+        "num": 302798,
+        "word": "杭州巨响",
+        "onboard_time": 1706745928,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292105,
+        "num": 292105,
+        "word": "吴谢宇弑母案",
+        "onboard_time": 1706747613,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290634,
+        "num": 290634,
+        "word": "男星粉丝多次发图被指滥用警徽",
+        "onboard_time": 1706725339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269283,
+        "num": 269283,
+        "word": "周星驰 金猪玉叶",
+        "onboard_time": 1706745386,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260240,
+        "num": 260240,
+        "word": "车厘子只看几个J谁买谁是大冤种",
+        "onboard_time": 1706709694,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267181,
+        "num": 259146,
+        "word": "要结婚了才发现自己是小学学历",
+        "onboard_time": 1706710235,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249802,
+        "num": 249802,
+        "word": "网红帮女生找到失散22年妈妈",
+        "onboard_time": 1706716950,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 242166,
+        "num": 242166,
+        "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+        "onboard_time": 1706733017,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238672,
+        "num": 238672,
+        "word": "王安宇好多白头发",
+        "onboard_time": 1706708912,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228668,
+        "num": 228668,
+        "word": "在人间 辛芷蕾",
+        "onboard_time": 1706713294,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224972,
+        "num": 224972,
+        "word": "段奕宏张译参加活动像离异夫妻",
+        "onboard_time": 1706747251,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222566,
+        "num": 222566,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1706749469,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204680,
+        "num": 204680,
+        "word": "没有血缘关系也能长得像",
+        "onboard_time": 1706713774,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187542,
+        "num": 187542,
+        "word": "繁花火到台湾再正常不过了",
+        "onboard_time": 1706746048,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166845,
+        "num": 166845,
+        "word": "IU概念照",
+        "onboard_time": 1706746173,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163314,
+        "num": 163314,
+        "word": "i人变e真的很有自由感",
+        "onboard_time": 1706745207,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160001,
+        "num": 160001,
+        "word": "视力恢复手法",
+        "onboard_time": 1706748572,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158414,
+        "num": 158414,
+        "word": "景区回应男子爬乐山大佛头顶小便",
+        "onboard_time": 1706745566,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155727,
+        "num": 155727,
+        "word": "新人结婚婆家铺2公里气球路连到娘家",
+        "onboard_time": 1706743524,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155726,
+        "num": 155726,
+        "word": "二月狗屎运最旺的星座",
+        "onboard_time": 1706712993,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154921,
+        "num": 154921,
+        "word": "河南强降雪最新情况",
+        "onboard_time": 1706749231,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150427,
+        "num": 150427,
+        "word": "李一桐白鹿撞造型",
+        "onboard_time": 1706710354,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140687,
+        "num": 140687,
+        "word": "胡先煦 我人都嗑傻了",
+        "onboard_time": 1706711614,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137489,
+        "num": 137489,
+        "word": "在车内为什么会一氧化碳中毒",
+        "onboard_time": 1706746466,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134297,
+        "num": 134297,
+        "word": "大侦探",
+        "onboard_time": 1706750012,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133278,
+        "num": 133278,
+        "word": "暴雪大雾大风三预警齐发",
+        "onboard_time": 1706749891,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132897,
+        "num": 132897,
+        "word": "谢娜求婚好抓马",
+        "onboard_time": 1706714792,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130056,
+        "num": 132832,
+        "word": "迪丽热巴红衣旧照",
+        "onboard_time": 1706712570,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132810,
+        "num": 132810,
+        "word": "宝宝扶着水池乖乖让爸爸洗头",
+        "onboard_time": 1706747791,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130857,
+        "num": 130857,
+        "word": "于正回应19层官微手滑",
+        "onboard_time": 1706748091,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126511,
+        "num": 126511,
+        "word": "BABYMONSTER新歌MV",
+        "onboard_time": 1706747014,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116164,
+        "num": 116164,
+        "word": "男子当小三破坏军婚获刑10个月",
+        "onboard_time": 1706681554,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115654,
+        "num": 115654,
+        "word": "嗓子疼",
+        "onboard_time": 1706750130,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114504,
+        "num": 114504,
+        "word": "当过年家里有一个没结婚的长辈",
+        "onboard_time": 1706743824,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110346,
+        "num": 110346,
+        "word": "你算是踢到棉花啦",
+        "onboard_time": 1706749289,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}

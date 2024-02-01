@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706744040430,
+  "endTime": 1706750138666,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -417,6 +417,14 @@
       "onboard_time": 1705135968,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3153639,
+      "num": 3153639,
+      "word": "执行死刑 三针注射",
+      "onboard_time": 1706744846,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3135611,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705020450,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1607872,
-      "num": 1607872,
-      "word": "早上宋慧乔 晚上宋小宝",
-      "onboard_time": 1704803190,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
