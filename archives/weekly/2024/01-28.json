@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706768570013,
+  "endTime": 1706769314891,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1131,6 +1131,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 846103,
+      "num": 846103,
+      "word": "杨威",
+      "onboard_time": 1706767773,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836076,
       "num": 836076,
       "word": "迪丽热巴起诉内衣公司侵权",
@@ -1779,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 657295,
+      "num": 657295,
+      "word": "为什么高铁座椅没有E号",
+      "onboard_time": 1706765191,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 656533,
       "num": 656533,
       "word": "唯一的姐丁泽仁",
@@ -2299,14 +2315,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 549095,
-      "num": 549095,
-      "word": "为什么高铁座椅没有E号",
-      "onboard_time": 1706765191,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 545380,
       "num": 545380,
       "word": "张元英的肌肉",
@@ -2691,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487357,
+      "num": 487357,
+      "word": "CCTV6大年初一首播长空之王",
+      "onboard_time": 1706764829,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 486219,
       "num": 486219,
       "word": "大侦探 播不播",
@@ -2873,14 +2889,6 @@
       "onboard_time": 1706496270,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460746,
-      "num": 460746,
-      "word": "CCTV6大年初一首播长空之王",
-      "onboard_time": 1706764829,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 459085,
@@ -3939,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353526,
+      "num": 353526,
+      "word": "离婚了彩礼还不还",
+      "onboard_time": 1706767349,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353289,
       "num": 336064,
       "word": "周传雄 生病的经历改变了我的心态",
@@ -3969,6 +3985,14 @@
       "onboard_time": 1706456731,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349704,
+      "num": 349704,
+      "word": "IU登顶2024韩国最富有女爱豆",
+      "onboard_time": 1706767472,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 349666,
@@ -4041,14 +4065,6 @@
       "onboard_time": 1706757331,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343600,
-      "num": 343600,
-      "word": "杨威",
-      "onboard_time": 1706767773,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342752,
@@ -4251,14 +4267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320077,
-      "num": 320077,
-      "word": "IU登顶2024韩国最富有女爱豆",
-      "onboard_time": 1706767472,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319851,
       "num": 319851,
       "word": "A股破净股比例超10%",
@@ -4457,6 +4465,14 @@
       "onboard_time": 1706688571,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306203,
+      "num": 306203,
+      "word": "马丽 我看着都挺像原配",
+      "onboard_time": 1706767413,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 306198,
@@ -5019,6 +5035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270354,
+      "num": 270354,
+      "word": "美甲店称过年费是加班费",
+      "onboard_time": 1706767949,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 270292,
       "num": 270292,
       "word": "快船打爆凯尔特人",
@@ -5073,14 +5097,6 @@
       "onboard_time": 1706674357,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 264298,
-      "num": 264298,
-      "word": "马丽 我看着都挺像原配",
-      "onboard_time": 1706767413,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 263755,
@@ -5185,14 +5201,6 @@
       "onboard_time": 1706713354,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258912,
-      "num": 258912,
-      "word": "离婚了彩礼还不还",
-      "onboard_time": 1706767349,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 258702,
@@ -5305,6 +5313,14 @@
       "onboard_time": 1706669912,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252794,
+      "num": 252794,
+      "word": "汤兰兰",
+      "onboard_time": 1706768731,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252313,
@@ -5441,6 +5457,14 @@
       "onboard_time": 1706398341,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245979,
+      "num": 245979,
+      "word": "王安宇参加过明日之子2",
+      "onboard_time": 1706768669,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 245789,
@@ -5859,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221955,
+      "num": 221955,
+      "word": "无期迷途杜若",
+      "onboard_time": 1706768428,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221850,
       "num": 221850,
       "word": "秋瓷炫晒近照",
@@ -6001,6 +6033,14 @@
       "onboard_time": 1706587890,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216615,
+      "num": 216615,
+      "word": "LOL开播送全英雄全皮肤",
+      "onboard_time": 1706767591,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 216445,
@@ -7059,14 +7099,6 @@
       "category": "音乐,互联网"
     },
     {
-      "raw_hot": 190527,
-      "num": 190527,
-      "word": "美甲店称过年费是加班费",
-      "onboard_time": 1706767949,
-      "rank": 28,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 190467,
       "num": 190467,
       "word": "中国石油4天涨幅近25%",
@@ -7211,6 +7243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186819,
+      "num": 186819,
+      "word": "张震倪妮时尚先生双人封",
+      "onboard_time": 1706768850,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186588,
       "num": 186588,
       "word": "扎克伯格美国会现场道歉",
@@ -7233,14 +7273,6 @@
       "onboard_time": 1706569521,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186037,
-      "num": 186037,
-      "word": "LOL开播送全英雄全皮肤",
-      "onboard_time": 1706767591,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 186017,
@@ -8811,14 +8843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148715,
-      "num": 148715,
-      "word": "无期迷途杜若",
-      "onboard_time": 1706768428,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148642,
       "num": 148642,
       "word": "张译 这多少有点冒昧了",
@@ -9387,6 +9411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139058,
+      "num": 139058,
+      "word": "周鸿祎称掼蛋对社交很重要",
+      "onboard_time": 1706768131,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138984,
       "num": 138984,
       "word": "龙年的龙已经走进家门了",
@@ -9707,6 +9739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134198,
+      "num": 134198,
+      "word": "TheShy赛博考研",
+      "onboard_time": 1706769092,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133844,
       "num": 133844,
       "word": "甄子丹称女儿暂时不会拍电影",
@@ -9921,6 +9961,14 @@
       "onboard_time": 1706714732,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131174,
+      "num": 131174,
+      "word": "NCT127 澳门",
+      "onboard_time": 1706768548,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 131108,
@@ -10713,14 +10761,6 @@
       "onboard_time": 1706531133,
       "rank": 41,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 119973,
-      "num": 119973,
-      "word": "周鸿祎称掼蛋对社交很重要",
-      "onboard_time": 1706768131,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 119453,
@@ -11697,14 +11737,6 @@
       "onboard_time": 1706352869,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 101584,
-      "num": 101584,
-      "word": "NCT127 澳门",
-      "onboard_time": 1706768548,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 101509,
@@ -12803,6 +12835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 33377,
+      "num": 913758,
+      "word": "直播探访多地春运现场",
+      "onboard_time": 1706756012,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33096,
       "num": 33096,
       "word": "瘦全身练这一个就够了",
@@ -12895,14 +12935,6 @@
       "num": 1160940,
       "word": "2024网络视听盛典阵容官宣",
       "onboard_time": 1706679395,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25004,
-      "num": 913758,
-      "word": "直播探访多地春运现场",
-      "onboard_time": 1706756012,
       "rank": 2,
       "category": "社会新闻"
     },
