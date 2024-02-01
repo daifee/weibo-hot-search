@@ -1,0 +1,410 @@
+{
+  "runTime": 1706782727232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2415304,
+        "num": 2415304,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568256,
+        "num": 1939594,
+        "word": "1300户村民免费领了2吨羽绒服",
+        "onboard_time": 1706778568,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46908,
+        "num": 1802981,
+        "word": "穿越机视角看世界最大跨度拱桥",
+        "onboard_time": 1706772453,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1691125,
+        "num": 1691125,
+        "word": "百里屠苏好久不见",
+        "onboard_time": 1706779412,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433401,
+        "num": 1243798,
+        "word": "夫妻各开一架飞机回家过年",
+        "onboard_time": 1706781514,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962187,
+        "num": 962187,
+        "word": "济南奔驰车主逆行堵路放话不怕报警",
+        "onboard_time": 1706779529,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167229,
+        "num": 844127,
+        "word": "司机坚持礼让行人没想到有意外收获",
+        "onboard_time": 1706781031,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 735613,
+        "num": 735613,
+        "word": "我妈是董明珠节目由王自如策划",
+        "onboard_time": 1706780013,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 728121,
+        "num": 728121,
+        "word": "男子见义勇为被砍4刀被救女孩拒作证",
+        "onboard_time": 1706773169,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580965,
+        "num": 580965,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1706779710,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795278,
+        "num": 575626,
+        "word": "微博崩了",
+        "onboard_time": 1706779829,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 563033,
+        "num": 563033,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559767,
+        "num": 559767,
+        "word": "大侦探9定档",
+        "onboard_time": 1706780070,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488784,
+        "num": 488784,
+        "word": "台湾女星温翠苹遭当街家暴",
+        "onboard_time": 1706775570,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470301,
+        "num": 470301,
+        "word": "张婧仪头像",
+        "onboard_time": 1706778687,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415890,
+        "num": 415890,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 387227,
+        "num": 387227,
+        "word": "美甲问价后不敢回复了",
+        "onboard_time": 1706782051,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382140,
+        "num": 382140,
+        "word": "关晓彤最近才入坑甄嬛传",
+        "onboard_time": 1706780972,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335743,
+        "num": 335743,
+        "word": "男婴出生第2天脑梗死父亲一夜白头",
+        "onboard_time": 1706782532,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329338,
+        "num": 329338,
+        "word": "九尾火舞",
+        "onboard_time": 1706779888,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268722,
+        "num": 268722,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265173,
+        "num": 265173,
+        "word": "12306回应遛娃车厢",
+        "onboard_time": 1706776227,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235831,
+        "num": 235831,
+        "word": "95后为升职加薪开始社牛式比拼",
+        "onboard_time": 1706780370,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220587,
+        "num": 220587,
+        "word": "蒋龙当王新军面喊一璐平安",
+        "onboard_time": 1706775628,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210951,
+        "num": 210951,
+        "word": "哈尔滨白狐宝宝罢工了",
+        "onboard_time": 1706778149,
+        "rank": 24,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 205831,
+        "num": 205831,
+        "word": "什么样的情侣关系最长久",
+        "onboard_time": 1706782110,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204799,
+        "num": 204799,
+        "word": "张艺兴去湖南春晚",
+        "onboard_time": 1706782171,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204206,
+        "num": 204206,
+        "word": "赵丽颖一年进五个组",
+        "onboard_time": 1706782651,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182183,
+        "num": 182183,
+        "word": "劝人多睡的医生自己在熬夜",
+        "onboard_time": 1706761773,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179620,
+        "num": 179620,
+        "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
+        "onboard_time": 1706776949,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189514,
+        "num": 175271,
+        "word": "蒋龙你怎么敢的",
+        "onboard_time": 1706781391,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169401,
+        "num": 169401,
+        "word": "互删前的最后一句话",
+        "onboard_time": 1706777369,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166471,
+        "num": 166471,
+        "word": "仙剑四豆瓣开分4.2",
+        "onboard_time": 1706774310,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158813,
+        "num": 158813,
+        "word": "钎九",
+        "onboard_time": 1706780251,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152625,
+        "num": 152625,
+        "word": "杨紫6部作品回看率高",
+        "onboard_time": 1706778271,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149885,
+        "num": 149885,
+        "word": "金智秀BLACKPINK最富有成员",
+        "onboard_time": 1706766693,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148033,
+        "num": 148033,
+        "word": "马丽 我看着都挺像原配",
+        "onboard_time": 1706767413,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147712,
+        "num": 147712,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145753,
+        "num": 145753,
+        "word": "深圳房产中介集体转行",
+        "onboard_time": 1706777433,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143920,
+        "num": 143920,
+        "word": "回南天起床看到克系现象",
+        "onboard_time": 1706780490,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138109,
+        "num": 138109,
+        "word": "哈尔滨运了三车雪到广州",
+        "onboard_time": 1706780013,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129194,
+        "num": 129194,
+        "word": "小落的姬小满",
+        "onboard_time": 1706781934,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128668,
+        "num": 128668,
+        "word": "韩国瑜当选台立法机构负责人",
+        "onboard_time": 1706767048,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123981,
+        "num": 123981,
+        "word": "张庭发文澄清",
+        "onboard_time": 1706776112,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122892,
+        "num": 122892,
+        "word": "洗萨摩耶就是在弹棉花吧",
+        "onboard_time": 1706782472,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116646,
+        "num": 116646,
+        "word": "明日方舟",
+        "onboard_time": 1706782712,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116161,
+        "num": 116161,
+        "word": "再也不主动了家人们",
+        "onboard_time": 1706782472,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110407,
+        "num": 110407,
+        "word": "kpop历代级美貌",
+        "onboard_time": 1706773531,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 107557,
+        "word": "为什么高铁座椅没有E号",
+        "onboard_time": 1706765191,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 105416,
+        "num": 105416,
+        "word": "浙江香炉峰雨后日照云海生紫烟",
+        "onboard_time": 1706782352,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}

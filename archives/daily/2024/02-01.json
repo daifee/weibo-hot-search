@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706780062821,
+  "endTime": 1706782727232,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -8,6 +8,14 @@
       "word": "执行死刑 三针注射",
       "onboard_time": 1706744846,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2415304,
+      "num": 2415304,
+      "word": "鲁AK66M7",
+      "onboard_time": 1706778871,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1706759855,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1691125,
+      "num": 1691125,
+      "word": "百里屠苏好久不见",
+      "onboard_time": 1706779412,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 1635924,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 962187,
+      "num": 962187,
+      "word": "济南奔驰车主逆行堵路放话不怕报警",
+      "onboard_time": 1706779529,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862870,
       "num": 862870,
       "word": "女性要为生育付出多少代价",
@@ -155,14 +179,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 836437,
-      "num": 836437,
-      "word": "鲁AK66M7",
-      "onboard_time": 1706778871,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 817049,
       "num": 817049,
       "word": "劝人多睡的医生自己在熬夜",
@@ -177,6 +193,14 @@
       "onboard_time": 1706766693,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 795278,
+      "num": 575626,
+      "word": "微博崩了",
+      "onboard_time": 1706779829,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 780187,
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735613,
+      "num": 735613,
+      "word": "我妈是董明珠节目由王自如策划",
+      "onboard_time": 1706780013,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 730807,
       "num": 730807,
       "word": "没有血缘关系也能长得像",
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 722995,
-      "num": 366415,
+      "num": 488784,
       "word": "台湾女星温翠苹遭当街家暴",
       "onboard_time": 1706775570,
       "rank": 46,
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623321,
-      "num": 365437,
-      "word": "微博崩了",
-      "onboard_time": 1706779829,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 620968,
       "num": 620968,
       "word": "江歌妈妈谈重庆姐弟坠亡案",
@@ -339,12 +363,36 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 580965,
+      "num": 580965,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1706779710,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575455,
       "num": 575455,
       "word": "河南降雪致多趟火车停运",
       "onboard_time": 1706751571,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568256,
+      "num": 1939594,
+      "word": "1300户村民免费领了2吨羽绒服",
+      "onboard_time": 1706778568,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559767,
+      "num": 559767,
+      "word": "大侦探9定档",
+      "onboard_time": 1706780070,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 544322,
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433401,
+      "num": 1243798,
+      "word": "夫妻各开一架飞机回家过年",
+      "onboard_time": 1706781514,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432182,
       "num": 432182,
       "word": "迪丽热巴红衣旧照",
@@ -545,6 +601,22 @@
       "onboard_time": 1706694271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387227,
+      "num": 387227,
+      "word": "美甲问价后不敢回复了",
+      "onboard_time": 1706782051,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 382140,
+      "num": 382140,
+      "word": "关晓彤最近才入坑甄嬛传",
+      "onboard_time": 1706780972,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381627,
@@ -675,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335743,
+      "num": 335743,
+      "word": "男婴出生第2天脑梗死父亲一夜白头",
+      "onboard_time": 1706782532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -705,6 +785,14 @@
       "onboard_time": 1706745087,
       "rank": 13,
       "category": "自然"
+    },
+    {
+      "raw_hot": 329338,
+      "num": 329338,
+      "word": "九尾火舞",
+      "onboard_time": 1706779888,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 323996,
@@ -923,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248855,
-      "num": 248855,
-      "word": "1300户村民免费领了2吨羽绒服",
-      "onboard_time": 1706778568,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248286,
       "num": 248286,
       "word": "恋与深空红包封面",
@@ -987,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235831,
+      "num": 235831,
+      "word": "95后为升职加薪开始社牛式比拼",
+      "onboard_time": 1706780370,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234131,
       "num": 234131,
       "word": "互删前的最后一句话",
@@ -1009,14 +1097,6 @@
       "onboard_time": 1706715870,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 226185,
-      "num": 226185,
-      "word": "百里屠苏好久不见",
-      "onboard_time": 1706779412,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 225829,
@@ -1091,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205831,
+      "num": 205831,
+      "word": "什么样的情侣关系最长久",
+      "onboard_time": 1706782110,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205761,
       "num": 205761,
       "word": "西宁动物园 缺经费不缺爱",
@@ -1103,6 +1191,22 @@
       "num": 205221,
       "word": "Weverse中文版",
       "onboard_time": 1706774909,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204799,
+      "num": 204799,
+      "word": "张艺兴去湖南春晚",
+      "onboard_time": 1706782171,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204206,
+      "num": 204206,
+      "word": "赵丽颖一年进五个组",
+      "onboard_time": 1706782651,
       "rank": 27,
       "category": "作品衍生"
     },
@@ -1187,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189514,
+      "num": 175271,
+      "word": "蒋龙你怎么敢的",
+      "onboard_time": 1706781391,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "祈今朝豆瓣开分5.1",
@@ -1241,14 +1353,6 @@
       "onboard_time": 1706754811,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182697,
-      "num": 182697,
-      "word": "济南奔驰车主逆行堵路放话不怕报警",
-      "onboard_time": 1706779529,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182483,
@@ -1379,14 +1483,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 172375,
-      "num": 172375,
-      "word": "刘浩存双马尾",
-      "onboard_time": 1706779710,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171951,
       "num": 171951,
       "word": "C罗腿部肌肉撕裂",
@@ -1419,6 +1515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167229,
+      "num": 844127,
+      "word": "司机坚持礼让行人没想到有意外收获",
+      "onboard_time": 1706781031,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 167143,
       "num": 167143,
       "word": "柯南剧场版终于有快青了",
@@ -1449,14 +1553,6 @@
       "onboard_time": 1706772870,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165042,
-      "num": 165042,
-      "word": "九尾火舞",
-      "onboard_time": 1706779888,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 164460,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1706712333,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158813,
+      "num": 158813,
+      "word": "钎九",
+      "onboard_time": 1706780251,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 158414,
@@ -1683,6 +1787,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 143920,
+      "num": 143920,
+      "word": "回南天起床看到克系现象",
+      "onboard_time": 1706780490,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143334,
       "num": 143334,
       "word": "王新军喊王安宇来家里吃饭",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1706750188,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138109,
+      "num": 138109,
+      "word": "哈尔滨运了三车雪到广州",
+      "onboard_time": 1706780013,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 137312,
@@ -1899,6 +2019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129194,
+      "num": 129194,
+      "word": "小落的姬小满",
+      "onboard_time": 1706781934,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128472,
       "num": 128472,
       "word": "证券交易印花税1801亿元",
@@ -1937,6 +2065,14 @@
       "onboard_time": 1706768071,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122892,
+      "num": 122892,
+      "word": "洗萨摩耶就是在弹棉花吧",
+      "onboard_time": 1706782472,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 121043,
@@ -1995,12 +2131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116646,
+      "num": 116646,
+      "word": "明日方舟",
+      "onboard_time": 1706782712,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116242,
       "num": 100701,
       "word": "演唱会玩手机的爱豆",
       "onboard_time": 1706703993,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116161,
+      "num": 116161,
+      "word": "再也不主动了家人们",
+      "onboard_time": 1706782472,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 115609,
@@ -2051,14 +2203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110371,
-      "num": 110371,
-      "word": "我妈是董明珠节目由王自如策划",
-      "onboard_time": 1706780013,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110346,
       "num": 110346,
       "word": "你算是踢到棉花啦",
@@ -2075,20 +2219,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108874,
-      "num": 108874,
-      "word": "哈尔滨运了三车雪到广州",
-      "onboard_time": 1706780013,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 107853,
       "num": 107853,
       "word": "EDG官宣Thesnake上调",
       "onboard_time": 1706712694,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105416,
+      "num": 105416,
+      "word": "浙江香炉峰雨后日照云海生紫烟",
+      "onboard_time": 1706782352,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 102258,
@@ -2236,7 +2380,7 @@
     },
     {
       "raw_hot": 50413,
-      "num": 960503,
+      "num": 1802981,
       "word": "穿越机视角看世界最大跨度拱桥",
       "onboard_time": 1706772453,
       "rank": 24,
