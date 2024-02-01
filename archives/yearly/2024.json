@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706791545209,
+  "endTime": 1706793532676,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1579,6 +1579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1873276,
+      "num": 1873276,
+      "word": "成毅 张居正",
+      "onboard_time": 1706791294,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1872428,
       "num": 1872428,
       "word": "重庆12秒不雅视频案雷政富出狱",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706673512,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1626312,
-      "num": 1626312,
-      "word": "江苏发现1例罕见小P血型",
-      "onboard_time": 1704539190,
-      "rank": 41,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

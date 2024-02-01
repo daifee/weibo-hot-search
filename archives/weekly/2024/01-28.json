@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706791545209,
+  "endTime": 1706793532676,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -193,6 +193,14 @@
       "onboard_time": 1706530772,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1873276,
+      "num": 1873276,
+      "word": "成毅 张居正",
+      "onboard_time": 1706791294,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 1837990,
@@ -795,20 +803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096211,
+      "num": 1096211,
+      "word": "李诞卖穿戴甲",
+      "onboard_time": 1706788412,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096063,
       "num": 1096063,
       "word": "免签不是免费",
       "onboard_time": 1706519069,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1088529,
-      "num": 1088529,
-      "word": "李诞卖穿戴甲",
-      "onboard_time": 1706788412,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1076611,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1706744783,
       "rank": 4,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 861961,
+      "num": 861961,
+      "word": "大S具俊晔23年前后合照对比",
+      "onboard_time": 1706791055,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 855314,
@@ -2731,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513130,
+      "num": 513130,
+      "word": "宋伊人圈内人缘",
+      "onboard_time": 1706792313,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512603,
       "num": 512603,
       "word": "丁泽仁古装",
@@ -2889,6 +2913,14 @@
       "onboard_time": 1706397800,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491345,
+      "num": 425153,
+      "word": "齐思钧赵昭仪芒果年会主持人",
+      "onboard_time": 1706790751,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 489570,
@@ -3267,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443006,
+      "num": 418565,
+      "word": "女干部涉不雅聊天被免职",
+      "onboard_time": 1706789370,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442714,
       "num": 875635,
       "word": "吴谢宇弑母案告诉我们为什么要家庭普法",
@@ -3419,14 +3459,6 @@
       "category": "美食,剧集"
     },
     {
-      "raw_hot": 424520,
-      "num": 424520,
-      "word": "大S具俊晔23年前后合照对比",
-      "onboard_time": 1706791055,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 423411,
       "num": 423411,
       "word": "kpop历代级美貌",
@@ -3577,6 +3609,14 @@
       "onboard_time": 1706614411,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 411505,
+      "num": 411505,
+      "word": "Selina产后代言收入达百万",
+      "onboard_time": 1706792373,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 410370,
@@ -4507,14 +4547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332927,
-      "num": 332927,
-      "word": "齐思钧赵昭仪芒果年会主持人",
-      "onboard_time": 1706790751,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331832,
       "num": 293477,
       "word": "不建议在江浙沪地区蹭席",
@@ -4680,6 +4712,14 @@
       "word": "李连杰与妻女现身寺庙",
       "onboard_time": 1706609491,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318809,
+      "num": 299987,
+      "word": "哇唧唧哇年会",
+      "onboard_time": 1706792793,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -4937,6 +4977,14 @@
       "onboard_time": 1706745928,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302741,
+      "num": 302741,
+      "word": "美甲走起",
+      "onboard_time": 1706792133,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 302666,
@@ -5257,14 +5305,6 @@
       "onboard_time": 1706538994,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 283025,
-      "num": 283025,
-      "word": "女干部涉不雅聊天被免职",
-      "onboard_time": 1706789370,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282023,
@@ -5923,6 +5963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 242579,
+      "num": 242579,
+      "word": "虞书欣许凯聊天 受伤的却是娜扎",
+      "onboard_time": 1706792853,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242166,
       "num": 242166,
       "word": "6大人8孩子吃火锅一起一氧化碳中毒",
@@ -6048,6 +6096,14 @@
       "word": "邓为抱娃路透",
       "onboard_time": 1706680170,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235182,
+      "num": 181506,
+      "word": "关晓彤2024年想拍古装戏",
+      "onboard_time": 1706792674,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -6275,6 +6331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225432,
+      "num": 178093,
+      "word": "张艺谋夸刘耀文是电影脸",
+      "onboard_time": 1706791413,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224972,
       "num": 224972,
       "word": "段奕宏张译参加活动像离异夫妻",
@@ -6465,6 +6529,14 @@
       "onboard_time": 1706607211,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219621,
+      "num": 177166,
+      "word": "陈都灵等车",
+      "onboard_time": 1706793512,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219570,
@@ -6851,14 +6923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209150,
-      "num": 209150,
-      "word": "成毅 张居正",
-      "onboard_time": 1706791294,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209017,
       "num": 167730,
       "word": "暗恋对象以为我是学人精",
@@ -7003,6 +7067,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205665,
+      "num": 172751,
+      "word": "芒果年会",
+      "onboard_time": 1706792553,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205548,
       "num": 205548,
       "word": "金莎cos18岁的蓝菲琳",
@@ -7089,6 +7161,14 @@
       "onboard_time": 1706522428,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204320,
+      "num": 171704,
+      "word": "张艺谋说听障人士角色是赵丽颖的提议",
+      "onboard_time": 1706793333,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 204185,
@@ -7321,6 +7401,14 @@
       "onboard_time": 1706528370,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199660,
+      "num": 199660,
+      "word": "现在预制菜都这么齐全了吗",
+      "onboard_time": 1706792313,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 199624,
@@ -8075,6 +8163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182165,
+      "num": 163307,
+      "word": "陈哲远和云天河说再见",
+      "onboard_time": 1706793272,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182105,
       "num": 182105,
       "word": "狗剩快跑",
@@ -8209,6 +8305,14 @@
       "onboard_time": 1706703512,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178745,
+      "num": 496358,
+      "word": "K4186全车一起救了个人",
+      "onboard_time": 1706786671,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 178610,
@@ -8507,6 +8611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171482,
+      "num": 171482,
+      "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
+      "onboard_time": 1706793092,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171433,
       "num": 168059,
       "word": "拜登回应美军基地遭袭",
@@ -8689,14 +8801,6 @@
       "onboard_time": 1706426968,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166117,
-      "num": 166117,
-      "word": "张艺谋夸刘耀文是电影脸",
-      "onboard_time": 1706791413,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 165951,
@@ -8985,6 +9089,14 @@
       "onboard_time": 1706508991,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160084,
+      "num": 160084,
+      "word": "金博洋收获抛物礼",
+      "onboard_time": 1706792313,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 159549,
@@ -9297,14 +9409,6 @@
       "onboard_time": 1706422050,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 155038,
-      "num": 496358,
-      "word": "K4186全车一起救了个人",
-      "onboard_time": 1706786671,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 155034,
@@ -10611,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134720,
+      "num": 134720,
+      "word": "这些寒假安全知识超有用",
+      "onboard_time": 1706792972,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134437,
       "num": 134437,
       "word": "曹恩齐 应援了一个绝美舞台",
@@ -10923,6 +11035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130292,
+      "num": 130292,
+      "word": "官方通报宁夏一化工厂燃爆事故",
+      "onboard_time": 1706791532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130089,
       "num": 130089,
       "word": "毛不易龙年春晚第三次联排",
@@ -10969,6 +11089,14 @@
       "onboard_time": 1706437830,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129797,
+      "num": 129797,
+      "word": "男子嫌老婆花钱多看到购物袋后破防",
+      "onboard_time": 1706793154,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129771,
@@ -11337,14 +11465,6 @@
       "onboard_time": 1706603072,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125054,
-      "num": 125054,
-      "word": "官方通报宁夏一化工厂燃爆事故",
-      "onboard_time": 1706791532,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124946,
@@ -13400,6 +13520,14 @@
       "word": "14年前感动全网的春运母亲现状曝光",
       "onboard_time": 1706398341,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81939,
+      "num": 912729,
+      "word": "在中国这样玩",
+      "onboard_time": 1706791832,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
