@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706818650768,
+  "endTime": 1706819679033,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -3387,20 +3387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31688,
+      "num": 31688,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30602,
       "num": 30602,
       "word": "日本门将离谱失误",
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28993,
-      "num": 28993,
-      "word": "高铁算是把用户需求整明白了",
-      "onboard_time": 1706808622,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25104,
@@ -3459,6 +3459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16080,
+      "num": 16080,
+      "word": "日本裁判替代马宁担任第四官员",
+      "onboard_time": 1706818817,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15783,
       "num": 15783,
       "word": "东北大哥的伴手礼都是硬通货",
@@ -3489,6 +3497,14 @@
       "onboard_time": 1706734096,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10229,
+      "num": 13332,
+      "word": "许凯说胡歌是颜霸",
+      "onboard_time": 1706819537,
+      "rank": 48,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

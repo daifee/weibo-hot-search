@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706818650768,
+  "endTime": 1706819679033,
   "band_list": [
     {
       "raw_hot": 924513,
@@ -483,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28993,
-      "num": 28993,
+      "raw_hot": 31688,
+      "num": 31688,
       "word": "高铁算是把用户需求整明白了",
       "onboard_time": 1706808622,
       "rank": 41,
@@ -507,12 +507,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16080,
+      "num": 16080,
+      "word": "日本裁判替代马宁担任第四官员",
+      "onboard_time": 1706818817,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11193,
       "num": 13734,
       "word": "南方的回南天有多离谱",
       "onboard_time": 1706816716,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10229,
+      "num": 13332,
+      "word": "许凯说胡歌是颜霸",
+      "onboard_time": 1706819537,
+      "rank": 48,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
