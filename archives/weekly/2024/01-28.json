@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706801657416,
+  "endTime": 1706804481248,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1706402187,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924513,
+      "num": 924513,
+      "word": "帕梅拉 在高铁上健身",
+      "onboard_time": 1706798915,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 912539,
@@ -2769,14 +2777,6 @@
       "onboard_time": 1706710235,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 523597,
-      "num": 523597,
-      "word": "帕梅拉 在高铁上健身",
-      "onboard_time": 1706798915,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 523064,
@@ -5779,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259785,
+      "num": 128291,
+      "word": "艾滋病为何老龄化",
+      "onboard_time": 1706803408,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259242,
       "num": 259242,
       "word": "我得省钱 人就活一次",
@@ -5857,6 +5865,14 @@
       "onboard_time": 1706674777,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254195,
+      "num": 254195,
+      "word": "易烊千玺阎青妤合照",
+      "onboard_time": 1706801613,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 253843,
@@ -8505,14 +8521,6 @@
       "onboard_time": 1706756191,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179170,
-      "num": 179170,
-      "word": "易烊千玺阎青妤合照",
-      "onboard_time": 1706801613,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 178866,
@@ -13339,6 +13347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97276,
+      "num": 97276,
+      "word": "檀健次剧组日常",
+      "onboard_time": 1706802091,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97146,
       "num": 97146,
       "word": "年轻人开始买手串当年货",
@@ -13979,6 +13995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67205,
+      "num": 76164,
+      "word": "模仿高至霆做饭图",
+      "onboard_time": 1706804070,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66510,
       "num": 66510,
       "word": "白举纲陈立农离开地球表面舞台",
@@ -14048,6 +14072,14 @@
       "word": "谷爱凌晒夺金照",
       "onboard_time": 1706484024,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54471,
+      "num": 76132,
+      "word": "马宁执法伊朗vs日本",
+      "onboard_time": 1706803050,
+      "rank": 49,
       "category": "体育"
     },
     {
