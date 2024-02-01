@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706798026796,
+  "endTime": 1706800596865,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277654,
+      "num": 1277654,
+      "word": "福建长乐2.1亿婚礼",
+      "onboard_time": 1706797952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269616,
       "num": 1269616,
       "word": "恶心穿搭",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1706507071,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902129,
+      "num": 902129,
+      "word": "河南暴雪有人在高速堵车超10公里",
+      "onboard_time": 1706795611,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895825,
@@ -2851,6 +2867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 503730,
+      "num": 503730,
+      "word": "赵今麦 真甜妹来了",
+      "onboard_time": 1706796873,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503547,
       "num": 503547,
       "word": "杨紫刘宇宁 风月不相关",
@@ -3193,14 +3217,6 @@
       "onboard_time": 1706430447,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 468452,
-      "num": 468452,
-      "word": "河南暴雪有人在高速堵车超10公里",
-      "onboard_time": 1706795611,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468448,
@@ -3667,14 +3683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412546,
-      "num": 412546,
-      "word": "赵今麦 真甜妹来了",
-      "onboard_time": 1706796873,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 412374,
       "num": 374612,
       "word": "林俊杰杭州抢票",
@@ -3697,6 +3705,14 @@
       "onboard_time": 1706677475,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 408526,
+      "num": 408526,
+      "word": "孙千露腰了",
+      "onboard_time": 1706799215,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 408276,
@@ -4187,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369808,
+      "num": 496358,
+      "word": "K4186全车一起救了个人",
+      "onboard_time": 1706786671,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 368357,
       "num": 368357,
       "word": "郑裕玲打卡肖战上海大屏",
@@ -4289,6 +4313,14 @@
       "onboard_time": 1706674597,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 361936,
+      "num": 361936,
+      "word": "卜冠今回应造型争议",
+      "onboard_time": 1706796813,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 361589,
@@ -4851,14 +4883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313955,
-      "num": 313955,
-      "word": "卜冠今回应造型争议",
-      "onboard_time": 1706796813,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 313403,
       "num": 313403,
       "word": "icon官宣退役",
@@ -4993,6 +5017,14 @@
       "onboard_time": 1706525852,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306130,
+      "num": 306130,
+      "word": "帕梅拉 在高铁上健身",
+      "onboard_time": 1706798915,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 306067,
@@ -5145,6 +5177,14 @@
       "onboard_time": 1706578470,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299239,
+      "num": 299239,
+      "word": "时代少年团 王者荣耀表演赛",
+      "onboard_time": 1706798431,
+      "rank": 18,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 299071,
@@ -6171,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236403,
+      "num": 190734,
+      "word": "我妈说过年回去随便穿穿",
+      "onboard_time": 1706799393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235831,
       "num": 235831,
       "word": "95后为升职加薪开始社牛式比拼",
@@ -6281,14 +6329,6 @@
       "onboard_time": 1706681369,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232792,
-      "num": 496358,
-      "word": "K4186全车一起救了个人",
-      "onboard_time": 1706786671,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 232316,
@@ -6491,6 +6531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 224379,
+      "num": 208615,
+      "word": "章昊唱屋顶着火",
+      "onboard_time": 1706799453,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224241,
       "num": 224241,
       "word": "KPL元梦启动",
@@ -6641,14 +6689,6 @@
       "onboard_time": 1706607211,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219617,
-      "num": 219617,
-      "word": "福建长乐2.1亿婚礼",
-      "onboard_time": 1706797952,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219570,
@@ -7017,6 +7057,14 @@
       "onboard_time": 1706689293,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 210009,
+      "num": 210009,
+      "word": "第一次带女朋友回家有多夸张",
+      "onboard_time": 1706799512,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 209950,
@@ -7731,6 +7779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194828,
+      "num": 194828,
+      "word": "Fly 不要气馁兄弟们下场赢回来",
+      "onboard_time": 1706799512,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194784,
       "num": 194784,
       "word": "00后四帅",
@@ -8161,6 +8217,14 @@
       "onboard_time": 1706514271,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185614,
+      "num": 185614,
+      "word": "WBG春季赛首败",
+      "onboard_time": 1706799873,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 185556,
@@ -9121,6 +9185,14 @@
       "onboard_time": 1706769092,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163011,
+      "num": 163011,
+      "word": "章昊微博直播",
+      "onboard_time": 1706800114,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 162928,
@@ -10209,6 +10281,14 @@
       "onboard_time": 1706419648,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145026,
+      "num": 145026,
+      "word": "她又多了个用处",
+      "onboard_time": 1706798915,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 145025,
@@ -11755,6 +11835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123480,
+      "num": 123480,
+      "word": "总有人要赢为什么不能是你",
+      "onboard_time": 1706800291,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123135,
       "num": 123135,
       "word": "董宇辉新号准备校招",
@@ -11817,6 +11905,14 @@
       "onboard_time": 1706714072,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122251,
+      "num": 122251,
+      "word": "表达力太差 宝藏纪录片推荐",
+      "onboard_time": 1706800354,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 122185,
