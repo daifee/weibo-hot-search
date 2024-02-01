@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706755044406,
+  "endTime": 1706757519597,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -8,6 +8,14 @@
       "word": "执行死刑 三针注射",
       "onboard_time": 1706744846,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1641878,
+      "num": 1641878,
+      "word": "快递停运时间",
+      "onboard_time": 1706754330,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 836860,
+      "num": 836860,
+      "word": "胡歌与老婆出门购物",
+      "onboard_time": 1706756611,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 780187,
+      "num": 780187,
+      "word": "秦海璐向王新军介绍王安宇",
+      "onboard_time": 1706755588,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 730807,
       "num": 730807,
       "word": "没有血缘关系也能长得像",
@@ -89,6 +113,14 @@
       "onboard_time": 1706708912,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696640,
+      "num": 696640,
+      "word": "7成中国人可能是河南人",
+      "onboard_time": 1706754629,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670803,
@@ -259,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 367963,
+      "num": 367963,
+      "word": "能不能让王安宇天天哭",
+      "onboard_time": 1706755890,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367911,
       "num": 367911,
       "word": "嗓子疼",
@@ -283,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354208,
+      "num": 235793,
+      "word": "爸妈偷偷来我租的房子过年",
+      "onboard_time": 1706756369,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -305,14 +353,6 @@
       "onboard_time": 1706745087,
       "rank": 13,
       "category": "自然"
-    },
-    {
-      "raw_hot": 321077,
-      "num": 321077,
-      "word": "快递停运时间",
-      "onboard_time": 1706754330,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319851,
@@ -345,6 +385,14 @@
       "onboard_time": 1706681554,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305863,
+      "num": 305863,
+      "word": "高至霆 黑月光",
+      "onboard_time": 1706755469,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 302798,
@@ -427,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243739,
+      "num": 243739,
+      "word": "郎朗兑现58岁建筑工人钢琴之约",
+      "onboard_time": 1706756428,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242166,
       "num": 242166,
       "word": "6大人8孩子吃火锅一起一氧化碳中毒",
@@ -467,12 +523,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 210706,
-      "num": 210706,
-      "word": "7成中国人可能是河南人",
-      "onboard_time": 1706754629,
-      "rank": 25,
+      "raw_hot": 216445,
+      "num": 216445,
+      "word": "中国同23国全面互免签证",
+      "onboard_time": 1706754990,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206595,
+      "num": 206595,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1706756490,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 205761,
@@ -539,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179431,
+      "num": 179431,
+      "word": "第二十条新浪扫楼",
+      "onboard_time": 1706756191,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "视力恢复手法",
@@ -563,12 +635,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174855,
+      "num": 174855,
+      "word": "第一次因为一顿饭破防了",
+      "onboard_time": 1706756129,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167022,
       "num": 167022,
       "word": "美联储按兵不动",
       "onboard_time": 1706742740,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164970,
+      "num": 164970,
+      "word": "男子弄丢3铁片险损失2千万",
+      "onboard_time": 1706757089,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164460,
@@ -643,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154360,
+      "num": 154360,
+      "word": "中介称张庭打包6套海景别墅是真的",
+      "onboard_time": 1706757331,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151644,
       "num": 151644,
       "word": "Jessi与朴宰范公司解约",
@@ -665,6 +761,22 @@
       "onboard_time": 1706715513,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146781,
+      "num": 146781,
+      "word": "未定事件簿 红尘共长生",
+      "onboard_time": 1706755290,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 145163,
+      "num": 145163,
+      "word": "上海阿姨9年帮助250只流浪猫安家",
+      "onboard_time": 1706756853,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 143334,
@@ -699,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137312,
+      "num": 137312,
+      "word": "你永远叫不醒一只装睡的猫咪",
+      "onboard_time": 1706756249,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136774,
       "num": 136774,
       "word": "苹果最后一款带光驱的MBP停产",
       "onboard_time": 1706754570,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134412,
+      "num": 134412,
+      "word": "妈妈真的是数着天数催我回家",
+      "onboard_time": 1706757331,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 134269,
@@ -787,6 +915,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126431,
+      "num": 126431,
+      "word": "新浪电影直播",
+      "onboard_time": 1706757453,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125520,
+      "num": 125520,
+      "word": "美国金融大鳄回应比亚迪超特斯拉",
+      "onboard_time": 1706755769,
+      "rank": 46,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 121043,
       "num": 121043,
       "word": "上班的三个阶段",
@@ -819,14 +963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114776,
-      "num": 114776,
-      "word": "中国同23国全面互免签证",
-      "onboard_time": 1706754990,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "当过年家里有一个没结婚的长辈",
@@ -849,6 +985,22 @@
       "onboard_time": 1706709153,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111039,
+      "num": 111039,
+      "word": "九尾重回赛场",
+      "onboard_time": 1706756611,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110617,
+      "num": 177032,
+      "word": "邹市明一家又有新宝贝",
+      "onboard_time": 1706756670,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 110346,
@@ -897,6 +1049,14 @@
       "onboard_time": 1706711614,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93359,
+      "num": 858103,
+      "word": "致敬每一个挺身而出的普通人",
+      "onboard_time": 1706756369,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92725,
@@ -963,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54797,
+      "num": 351754,
+      "word": "适合秋冬的高级香水",
+      "onboard_time": 1706756428,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 50204,
       "num": 50204,
       "word": "冬天最适合减肉",
@@ -1001,6 +1169,14 @@
       "onboard_time": 1706728097,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16420,
+      "num": 142393,
+      "word": "河南赛博灯会惊艳中原奇幻山水",
+      "onboard_time": 1706757212,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 16163,

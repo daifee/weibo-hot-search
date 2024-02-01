@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706755044406,
+  "endTime": 1706757519597,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2267,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1641878,
+      "num": 1641878,
+      "word": "快递停运时间",
+      "onboard_time": 1706754330,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1639883,
       "num": 551299,
       "word": "华中农业大学",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704037918,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1611349,
-      "num": 1611349,
-      "word": "睡觉中途醒了 不要看时间",
-      "onboard_time": 1705053449,
-      "rank": 16,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
