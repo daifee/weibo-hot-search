@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706796962799,
+  "endTime": 1706798026796,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1835,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678353,
+      "num": 678353,
+      "word": "现在预制菜都这么齐全了吗",
+      "onboard_time": 1706792313,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 674461,
       "num": 674461,
       "word": "玉米几",
@@ -2051,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632589,
+      "num": 632589,
+      "word": "陈都灵等车",
+      "onboard_time": 1706793512,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632316,
       "num": 632316,
       "word": "董宇辉新账号直播间被指大规模抄袭",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1706605351,
       "rank": 25,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 604298,
-      "num": 604298,
-      "word": "陈都灵等车",
-      "onboard_time": 1706793512,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 604218,
@@ -2548,7 +2556,7 @@
     },
     {
       "raw_hot": 554540,
-      "num": 416978,
+      "num": 438547,
       "word": "张艺谋说听障人士角色是赵丽颖的提议",
       "onboard_time": 1706793333,
       "rank": 35,
@@ -2572,7 +2580,7 @@
     },
     {
       "raw_hot": 552246,
-      "num": 422949,
+      "num": 455315,
       "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
       "onboard_time": 1706793092,
       "rank": 36,
@@ -3187,6 +3195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468452,
+      "num": 468452,
+      "word": "河南暴雪有人在高速堵车超10公里",
+      "onboard_time": 1706795611,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468448,
       "num": 468448,
       "word": "网红帮女生找到失散22年妈妈",
@@ -3291,14 +3307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450343,
-      "num": 450343,
-      "word": "现在预制菜都这么齐全了吗",
-      "onboard_time": 1706792313,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 450120,
       "num": 450120,
       "word": "董宇辉 一张表吃透英语16时态",
@@ -3401,6 +3409,14 @@
       "onboard_time": 1706354490,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 437297,
+      "num": 437297,
+      "word": "BOA太猛了",
+      "onboard_time": 1706795974,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 436483,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1706582789,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412546,
+      "num": 412546,
+      "word": "赵今麦 真甜妹来了",
+      "onboard_time": 1706796873,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 412374,
@@ -4395,14 +4419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 352774,
-      "num": 352774,
-      "word": "BOA太猛了",
-      "onboard_time": 1706795974,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 350906,
       "num": 350906,
       "word": "南京大屠杀幸存者程福保离世",
@@ -4667,6 +4683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 325083,
+      "num": 325083,
+      "word": "健康减肥后身体发生的变化",
+      "onboard_time": 1706793932,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 325016,
       "num": 325016,
       "word": "王安宇相机落水了",
@@ -4763,14 +4787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317802,
-      "num": 317802,
-      "word": "健康减肥后身体发生的变化",
-      "onboard_time": 1706793932,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 317113,
       "num": 317113,
       "word": "中式证件照",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1706497288,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313955,
+      "num": 313955,
+      "word": "卜冠今回应造型争议",
+      "onboard_time": 1706796813,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313403,
@@ -5371,6 +5395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282169,
+      "num": 282169,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1706797952,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 282023,
       "num": 282023,
       "word": "潘玮柏宣云芬兰看极光",
@@ -5835,6 +5867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "女生真的有自己的洗头规划",
+      "onboard_time": 1706794954,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
@@ -5865,14 +5905,6 @@
       "onboard_time": 1706444011,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251383,
-      "num": 251383,
-      "word": "河南暴雪有人在高速堵车超10公里",
-      "onboard_time": 1706795611,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251011,
@@ -5961,14 +5993,6 @@
       "onboard_time": 1706416709,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 247423,
-      "num": 247423,
-      "word": "女生真的有自己的洗头规划",
-      "onboard_time": 1706794954,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 247404,
@@ -6257,6 +6281,14 @@
       "onboard_time": 1706681369,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232792,
+      "num": 496358,
+      "word": "K4186全车一起救了个人",
+      "onboard_time": 1706786671,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 232316,
@@ -6611,6 +6643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219617,
+      "num": 219617,
+      "word": "福建长乐2.1亿婚礼",
+      "onboard_time": 1706797952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219570,
       "num": 219570,
       "word": "王者荣耀",
@@ -6681,6 +6721,14 @@
       "onboard_time": 1706587890,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216940,
+      "num": 216940,
+      "word": "Scout 阿卡丽",
+      "onboard_time": 1706797231,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 216615,
@@ -7763,6 +7811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "云天河失明",
+      "onboard_time": 1706797596,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192820,
       "num": 192820,
       "word": "龙宝",
@@ -7929,6 +7985,14 @@
       "onboard_time": 1706785170,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189065,
+      "num": 189065,
+      "word": "RW 多练",
+      "onboard_time": 1706797952,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 188961,
@@ -8395,14 +8459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178745,
-      "num": 496358,
-      "word": "K4186全车一起救了个人",
-      "onboard_time": 1706786671,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 178610,
       "num": 178610,
       "word": "死亡搁浅2",
@@ -8739,6 +8795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170791,
+      "num": 170791,
+      "word": "年轻人回家过年最大的焦虑",
+      "onboard_time": 1706796571,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170378,
       "num": 170378,
       "word": "玻璃纤维",
@@ -9059,14 +9123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162950,
-      "num": 162950,
-      "word": "卜冠今回应造型争议",
-      "onboard_time": 1706796813,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 162928,
       "num": 162928,
       "word": "A股已经足够便宜",
@@ -9121,14 +9177,6 @@
       "onboard_time": 1706537373,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162052,
-      "num": 162052,
-      "word": "年轻人回家过年最大的焦虑",
-      "onboard_time": 1706796571,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 161951,
@@ -9731,6 +9779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152149,
+      "num": 152149,
+      "word": "高敏感的人",
+      "onboard_time": 1706796274,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152035,
       "num": 152035,
       "word": "油价",
@@ -10107,14 +10163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145534,
-      "num": 145534,
-      "word": "赵今麦 真甜妹来了",
-      "onboard_time": 1706796873,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145392,
       "num": 145392,
       "word": "相亲笑话",
@@ -10249,14 +10297,6 @@
       "onboard_time": 1706656281,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142952,
-      "num": 142952,
-      "word": "高敏感的人",
-      "onboard_time": 1706796274,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 142944,
@@ -10700,7 +10740,7 @@
     },
     {
       "raw_hot": 137017,
-      "num": 137017,
+      "num": 219689,
       "word": "故宫你是懂壁纸的",
       "onboard_time": 1706794231,
       "rank": 46,

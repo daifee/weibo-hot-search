@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706796962799,
+  "endTime": 1706798026796,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678353,
+      "num": 678353,
+      "word": "现在预制菜都这么齐全了吗",
+      "onboard_time": 1706792313,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 670803,
       "num": 670803,
       "word": "谢娜求婚好抓马",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632589,
+      "num": 632589,
+      "word": "陈都灵等车",
+      "onboard_time": 1706793512,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 628081,
       "num": 628081,
       "word": "韩国瑜当选台立法机构负责人",
@@ -433,14 +449,6 @@
       "onboard_time": 1706792793,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604298,
-      "num": 604298,
-      "word": "陈都灵等车",
-      "onboard_time": 1706793512,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 595157,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 554540,
-      "num": 416978,
+      "num": 438547,
       "word": "张艺谋说听障人士角色是赵丽颖的提议",
       "onboard_time": 1706793333,
       "rank": 35,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 552246,
-      "num": 422949,
+      "num": 455315,
       "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
       "onboard_time": 1706793092,
       "rank": 36,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468452,
+      "num": 468452,
+      "word": "河南暴雪有人在高速堵车超10公里",
+      "onboard_time": 1706795611,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468448,
       "num": 468448,
       "word": "网红帮女生找到失散22年妈妈",
@@ -683,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450343,
-      "num": 450343,
-      "word": "现在预制菜都这么齐全了吗",
-      "onboard_time": 1706792313,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 441436,
       "num": 441436,
       "word": "赵丽颖公司取得演出经纪许可",
@@ -705,6 +713,14 @@
       "onboard_time": 1706710537,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437297,
+      "num": 437297,
+      "word": "BOA太猛了",
+      "onboard_time": 1706795974,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 432182,
@@ -745,6 +761,14 @@
       "onboard_time": 1706770953,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 412546,
+      "num": 412546,
+      "word": "赵今麦 真甜妹来了",
+      "onboard_time": 1706796873,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 405918,
@@ -923,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352774,
-      "num": 352774,
-      "word": "BOA太猛了",
-      "onboard_time": 1706795974,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 349704,
       "num": 349704,
       "word": "IU登顶2024韩国最富有女爱豆",
@@ -987,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325083,
+      "num": 325083,
+      "word": "健康减肥后身体发生的变化",
+      "onboard_time": 1706793932,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 324082,
       "num": 324082,
       "word": "Jennie对卡皮巴拉是真心的",
@@ -1027,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317802,
-      "num": 317802,
-      "word": "健康减肥后身体发生的变化",
-      "onboard_time": 1706793932,
-      "rank": 34,
-      "category": "运动健身"
+      "raw_hot": 313955,
+      "num": 313955,
+      "word": "卜冠今回应造型争议",
+      "onboard_time": 1706796813,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313213,
@@ -1155,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282169,
+      "num": 282169,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1706797952,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 282023,
       "num": 282023,
       "word": "潘玮柏宣云芬兰看极光",
@@ -1243,19 +1275,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "女生真的有自己的洗头规划",
+      "onboard_time": 1706794954,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
       "onboard_time": 1706757089,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251383,
-      "num": 251383,
-      "word": "河南暴雪有人在高速堵车超10公里",
-      "onboard_time": 1706795611,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1281,14 +1313,6 @@
       "onboard_time": 1706779230,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 247423,
-      "num": 247423,
-      "word": "女生真的有自己的洗头规划",
-      "onboard_time": 1706794954,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 247404,
@@ -1377,6 +1401,14 @@
       "onboard_time": 1706777369,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232792,
+      "num": 496358,
+      "word": "K4186全车一起救了个人",
+      "onboard_time": 1706786671,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 232316,
@@ -1475,12 +1507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219617,
+      "num": 219617,
+      "word": "福建长乐2.1亿婚礼",
+      "onboard_time": 1706797952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218375,
       "num": 218375,
       "word": "特斯拉ModelY推出升级款",
       "onboard_time": 1706753192,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 216940,
+      "num": 216940,
+      "word": "Scout 阿卡丽",
+      "onboard_time": 1706797231,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 216615,
@@ -1635,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "云天河失明",
+      "onboard_time": 1706797596,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192721,
       "num": 192721,
       "word": "花儿与少年RAP",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1706785170,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189065,
+      "num": 189065,
+      "word": "RW 多练",
+      "onboard_time": 1706797952,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 188917,
@@ -1827,14 +1891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178745,
-      "num": 496358,
-      "word": "K4186全车一起救了个人",
-      "onboard_time": 1706786671,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 178610,
       "num": 178610,
       "word": "死亡搁浅2",
@@ -1955,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170791,
+      "num": 170791,
+      "word": "年轻人回家过年最大的焦虑",
+      "onboard_time": 1706796571,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170291,
       "num": 170291,
       "word": "车厘子加了保鲜剂会吃坏肚子吗",
@@ -2073,22 +2137,6 @@
       "onboard_time": 1706769092,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162950,
-      "num": 162950,
-      "word": "卜冠今回应造型争议",
-      "onboard_time": 1706796813,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162052,
-      "num": 162052,
-      "word": "年轻人回家过年最大的焦虑",
-      "onboard_time": 1706796571,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 161501,
@@ -2251,6 +2299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152149,
+      "num": 152149,
+      "word": "高敏感的人",
+      "onboard_time": 1706796274,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151793,
       "num": 151793,
       "word": "神秘人10年捐赠1000万元善款",
@@ -2355,14 +2411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145534,
-      "num": 145534,
-      "word": "赵今麦 真甜妹来了",
-      "onboard_time": 1706796873,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145163,
       "num": 145163,
       "word": "上海阿姨9年帮助250只流浪猫安家",
@@ -2385,14 +2433,6 @@
       "onboard_time": 1706695353,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142952,
-      "num": 142952,
-      "word": "高敏感的人",
-      "onboard_time": 1706796274,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 142856,
@@ -2492,7 +2532,7 @@
     },
     {
       "raw_hot": 137017,
-      "num": 137017,
+      "num": 219689,
       "word": "故宫你是懂壁纸的",
       "onboard_time": 1706794231,
       "rank": 46,
