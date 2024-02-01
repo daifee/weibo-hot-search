@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706814893675,
+  "endTime": 1706816030575,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -3275,6 +3275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64653,
+      "num": 64653,
+      "word": "熬夜后吃护肝片或增加肝损伤",
+      "onboard_time": 1706814076,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63450,
       "num": 687985,
       "word": "春运安全出行天气地图",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1706803050,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56925,
+      "num": 56925,
+      "word": "乱港艺人王宗尧暴动罪成立",
+      "onboard_time": 1706811740,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 50413,
@@ -3347,14 +3363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 37689,
-      "num": 37689,
-      "word": "乱港艺人王宗尧暴动罪成立",
-      "onboard_time": 1706811740,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35815,
       "num": 38997,
       "word": "韩菱纱结局",
@@ -3385,14 +3393,6 @@
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30038,
-      "num": 30038,
-      "word": "熬夜后吃护肝片或增加肝损伤",
-      "onboard_time": 1706814076,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 28993,
@@ -3435,6 +3435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16757,
+      "num": 19045,
+      "word": "回南天 独属南方人的中式怪谈",
+      "onboard_time": 1706814737,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16420,
       "num": 142393,
       "word": "河南赛博灯会惊艳中原奇幻山水",
@@ -3463,14 +3471,6 @@
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
       "onboard_time": 1706728936,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 14118,
-      "num": 19045,
-      "word": "回南天 独属南方人的中式怪谈",
-      "onboard_time": 1706814737,
       "rank": 49,
       "category": "幽默"
     },
