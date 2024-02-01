@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706825813865,
+  "endTime": 1706826836968,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -1812,7 +1812,7 @@
     },
     {
       "raw_hot": 189188,
-      "num": 131602,
+      "num": 156585,
       "word": "张庭 我都没去过这个楼盘",
       "onboard_time": 1706809821,
       "rank": 10,
@@ -3179,6 +3179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92831,
+      "num": 92831,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92725,
       "num": 92487,
       "word": "这是龙王结婚吗",
@@ -3267,14 +3275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 73939,
-      "num": 73939,
-      "word": "高铁算是把用户需求整明白了",
-      "onboard_time": 1706808622,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72120,
       "num": 72120,
       "word": "人民网评吴谢宇案",
@@ -3289,6 +3289,14 @@
       "onboard_time": 1706804070,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68088,
+      "num": 68088,
+      "word": "乱港艺人王宗尧暴动罪成立",
+      "onboard_time": 1706811740,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 63450,
@@ -3307,6 +3315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61955,
+      "num": 25582,
+      "word": "这是今天的杭州东站",
+      "onboard_time": 1706823555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
@@ -3315,12 +3331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56925,
-      "num": 56925,
-      "word": "乱港艺人王宗尧暴动罪成立",
-      "onboard_time": 1706811740,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 52356,
+      "num": 52356,
+      "word": "日本裁判替代马宁担任第四官员",
+      "onboard_time": 1706818817,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 50413,
@@ -3347,20 +3363,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 48986,
-      "num": 48986,
-      "word": "日本裁判替代马宁担任第四官员",
-      "onboard_time": 1706818817,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42274,
       "num": 42274,
       "word": "赵丽颖粉丝包场第二十条",
       "onboard_time": 1706723060,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40914,
+      "num": 32133,
+      "word": "1对新人用8串真香蕉装饰宝马婚车",
+      "onboard_time": 1706822775,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40788,
@@ -3377,14 +3393,6 @@
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36057,
-      "num": 21580,
-      "word": "这是今天的杭州东站",
-      "onboard_time": 1706823555,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35815,
@@ -3411,12 +3419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31602,
-      "num": 24426,
-      "word": "1对新人用8串真香蕉装饰宝马婚车",
-      "onboard_time": 1706822775,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 32351,
+      "num": 32351,
+      "word": "巴黎文旅出来解释下",
+      "onboard_time": 1706823976,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 30602,
@@ -3427,12 +3435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28274,
+      "num": 28274,
+      "word": "法越馨再拍肖战",
+      "onboard_time": 1706825417,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25104,
       "num": 1160940,
       "word": "2024网络视听盛典阵容官宣",
       "onboard_time": 1706679395,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25029,
+      "num": 25029,
+      "word": "这种蔬菜的含钙量约是牛奶的3倍",
+      "onboard_time": 1706821036,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 24021,
@@ -3443,28 +3467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23105,
-      "num": 23105,
-      "word": "巴黎文旅出来解释下",
-      "onboard_time": 1706823976,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22861,
       "num": 22861,
       "word": "亚洲杯",
       "onboard_time": 1706728097,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22431,
-      "num": 22431,
-      "word": "这种蔬菜的含钙量约是牛奶的3倍",
-      "onboard_time": 1706821036,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 22239,
@@ -3507,14 +3515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15722,
-      "num": 15722,
-      "word": "法越馨再拍肖战",
-      "onboard_time": 1706825417,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
@@ -3523,8 +3523,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12833,
-      "num": 15081,
+      "raw_hot": 13876,
+      "num": 16236,
       "word": "许凯说胡歌是颜霸",
       "onboard_time": 1706819537,
       "rank": 48,
