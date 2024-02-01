@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706779081120,
+  "endTime": 1706780062821,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164744,
+      "num": 1164744,
+      "word": "男子见义勇为被砍4刀被救女孩拒作证",
+      "onboard_time": 1706773169,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1148868,
       "num": 1148868,
       "word": "车厘子打败砂糖橘成年货顶流",
@@ -112,6 +120,14 @@
       "word": "王鸥复工",
       "onboard_time": 1706744607,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 976310,
+      "num": 976310,
+      "word": "张婧仪头像",
+      "onboard_time": 1706778687,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -139,20 +155,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 836437,
+      "num": 836437,
+      "word": "鲁AK66M7",
+      "onboard_time": 1706778871,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817049,
       "num": 817049,
       "word": "劝人多睡的医生自己在熬夜",
       "onboard_time": 1706761773,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 808671,
-      "num": 808671,
-      "word": "男子见义勇为被砍4刀被救女孩拒作证",
-      "onboard_time": 1706773169,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 807383,
@@ -187,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 722995,
+      "num": 366415,
+      "word": "台湾女星温翠苹遭当街家暴",
+      "onboard_time": 1706775570,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721894,
       "num": 721894,
       "word": "韩国瑜",
@@ -216,14 +240,6 @@
       "word": "坐飞机偶遇鹿晗",
       "onboard_time": 1706757751,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 675264,
-      "num": 344900,
-      "word": "台湾女星温翠苹遭当街家暴",
-      "onboard_time": 1706775570,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623321,
+      "num": 365437,
+      "word": "微博崩了",
+      "onboard_time": 1706779829,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 620968,
       "num": 620968,
       "word": "江歌妈妈谈重庆姐弟坠亡案",
@@ -337,6 +361,14 @@
       "onboard_time": 1706713294,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536241,
+      "num": 536241,
+      "word": "12306回应遛娃车厢",
+      "onboard_time": 1706776227,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523064,
@@ -395,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483401,
-      "num": 483401,
-      "word": "12306回应遛娃车厢",
-      "onboard_time": 1706776227,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480305,
       "num": 480305,
       "word": "王源易烊千玺 酣畅淋漓的采访",
       "onboard_time": 1706758232,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480119,
+      "num": 480119,
+      "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
+      "onboard_time": 1706776949,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468448,
@@ -449,14 +481,6 @@
       "onboard_time": 1706712570,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429003,
-      "num": 429003,
-      "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
-      "onboard_time": 1706776949,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426857,
@@ -835,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270501,
-      "num": 270501,
-      "word": "张婧仪头像",
-      "onboard_time": 1706778687,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269283,
       "num": 269283,
       "word": "周星驰 金猪玉叶",
@@ -905,6 +921,22 @@
       "onboard_time": 1706750012,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248855,
+      "num": 248855,
+      "word": "1300户村民免费领了2吨羽绒服",
+      "onboard_time": 1706778568,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248286,
+      "num": 248286,
+      "word": "恋与深空红包封面",
+      "onboard_time": 1706779230,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 247404,
@@ -979,6 +1011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 226185,
+      "num": 226185,
+      "word": "百里屠苏好久不见",
+      "onboard_time": 1706779412,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225829,
       "num": 225829,
       "word": "韩国人把柠檬做成糖葫芦",
@@ -1011,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220716,
+      "num": 220716,
+      "word": "LGD对战DYG",
+      "onboard_time": 1706779652,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218375,
       "num": 218375,
       "word": "特斯拉ModelY推出升级款",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1706754990,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214749,
+      "num": 214749,
+      "word": "哈尔滨白狐宝宝罢工了",
+      "onboard_time": 1706778149,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 205761,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1706763634,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201809,
-      "num": 201809,
-      "word": "1300户村民免费领了2吨羽绒服",
-      "onboard_time": 1706778568,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201707,
@@ -1195,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182697,
+      "num": 182697,
+      "word": "济南奔驰车主逆行堵路放话不怕报警",
+      "onboard_time": 1706779529,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182483,
       "num": 182483,
       "word": "暴雪大雾大风三预警齐发",
@@ -1227,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180071,
+      "num": 180071,
+      "word": "在暴雪时分",
+      "onboard_time": 1706778449,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179431,
       "num": 179431,
       "word": "第二十条新浪扫楼",
@@ -1249,14 +1313,6 @@
       "onboard_time": 1706758290,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 177959,
-      "num": 177959,
-      "word": "在暴雪时分",
-      "onboard_time": 1706778449,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 177733,
@@ -1323,6 +1379,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 172375,
+      "num": 172375,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1706779710,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171951,
       "num": 171951,
       "word": "C罗腿部肌肉撕裂",
@@ -1337,14 +1401,6 @@
       "onboard_time": 1706775150,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 170208,
-      "num": 170208,
-      "word": "哈尔滨白狐宝宝罢工了",
-      "onboard_time": 1706778149,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 169957,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1706772870,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165042,
+      "num": 165042,
+      "word": "九尾火舞",
+      "onboard_time": 1706779888,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 164460,
@@ -1681,14 +1745,6 @@
       "onboard_time": 1706768131,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 138464,
-      "num": 138464,
-      "word": "鲁AK66M7",
-      "onboard_time": 1706778871,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138137,
@@ -1995,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110371,
+      "num": 110371,
+      "word": "我妈是董明珠节目由王自如策划",
+      "onboard_time": 1706780013,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110346,
       "num": 110346,
       "word": "你算是踢到棉花啦",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1706778390,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108874,
+      "num": 108874,
+      "word": "哈尔滨运了三车雪到广州",
+      "onboard_time": 1706780013,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 107853,
@@ -2164,7 +2236,7 @@
     },
     {
       "raw_hot": 50413,
-      "num": 187720,
+      "num": 960503,
       "word": "穿越机视角看世界最大跨度拱桥",
       "onboard_time": 1706772453,
       "rank": 24,

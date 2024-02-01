@@ -1,0 +1,410 @@
+{
+  "runTime": 1706780062821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164744,
+        "num": 1164744,
+        "word": "男子见义勇为被砍4刀被救女孩拒作证",
+        "onboard_time": 1706773169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976310,
+        "num": 976310,
+        "word": "张婧仪头像",
+        "onboard_time": 1706778687,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20229,
+        "num": 960503,
+        "word": "穿越机视角看世界最大跨度拱桥",
+        "onboard_time": 1706772453,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946687,
+        "num": 946687,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 836437,
+        "num": 836437,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737655,
+        "num": 737655,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 536241,
+        "num": 536241,
+        "word": "12306回应遛娃车厢",
+        "onboard_time": 1706776227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480119,
+        "num": 480119,
+        "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
+        "onboard_time": 1706776949,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449507,
+        "num": 449507,
+        "word": "劝人多睡的医生自己在熬夜",
+        "onboard_time": 1706761773,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368978,
+        "num": 368978,
+        "word": "蒋龙当王新军面喊一璐平安",
+        "onboard_time": 1706775628,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722995,
+        "num": 366415,
+        "word": "台湾女星温翠苹遭当街家暴",
+        "onboard_time": 1706775570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623321,
+        "num": 365437,
+        "word": "微博崩了",
+        "onboard_time": 1706779829,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356381,
+        "num": 356381,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312001,
+        "num": 312001,
+        "word": "张庭发文澄清",
+        "onboard_time": 1706776112,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288610,
+        "num": 288610,
+        "word": "汤兰兰",
+        "onboard_time": 1706768731,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275328,
+        "num": 275328,
+        "word": "kpop历代级美貌",
+        "onboard_time": 1706773531,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266465,
+        "num": 266465,
+        "word": "仙剑四豆瓣开分4.2",
+        "onboard_time": 1706774310,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263537,
+        "num": 263537,
+        "word": "韩国瑜当选台立法机构负责人",
+        "onboard_time": 1706767048,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259326,
+        "num": 259326,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248855,
+        "num": 248855,
+        "word": "1300户村民免费领了2吨羽绒服",
+        "onboard_time": 1706778568,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248286,
+        "num": 248286,
+        "word": "恋与深空红包封面",
+        "onboard_time": 1706779230,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226185,
+        "num": 226185,
+        "word": "百里屠苏好久不见",
+        "onboard_time": 1706779412,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50882,
+        "num": 223292,
+        "word": "重温经典频道开播",
+        "onboard_time": 1706771191,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222390,
+        "num": 222390,
+        "word": "杨紫6部作品回看率高",
+        "onboard_time": 1706778271,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222057,
+        "num": 222057,
+        "word": "互删前的最后一句话",
+        "onboard_time": 1706777369,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220716,
+        "num": 220716,
+        "word": "LGD对战DYG",
+        "onboard_time": 1706779652,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215776,
+        "num": 215776,
+        "word": "金智秀BLACKPINK最富有成员",
+        "onboard_time": 1706766693,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214749,
+        "num": 214749,
+        "word": "哈尔滨白狐宝宝罢工了",
+        "onboard_time": 1706778149,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205216,
+        "num": 205216,
+        "word": "真实胎动",
+        "onboard_time": 1706771249,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203740,
+        "num": 203740,
+        "word": "日本2架客机发生碰撞",
+        "onboard_time": 1706771074,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193004,
+        "num": 193004,
+        "word": "为什么高铁座椅没有E号",
+        "onboard_time": 1706765191,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 190108,
+        "num": 190108,
+        "word": "马丽 我看着都挺像原配",
+        "onboard_time": 1706767413,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182697,
+        "num": 182697,
+        "word": "济南奔驰车主逆行堵路放话不怕报警",
+        "onboard_time": 1706779529,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180071,
+        "num": 180071,
+        "word": "在暴雪时分",
+        "onboard_time": 1706778449,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173903,
+        "num": 173903,
+        "word": "西餐三大顶级食材价格已被国货打下来",
+        "onboard_time": 1706774428,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172375,
+        "num": 172375,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1706779710,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165660,
+        "num": 165660,
+        "word": "李昀锐孟子义扯领子对视",
+        "onboard_time": 1706776289,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165042,
+        "num": 165042,
+        "word": "九尾火舞",
+        "onboard_time": 1706779888,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163943,
+        "num": 163943,
+        "word": "韩国人把柠檬做成糖葫芦",
+        "onboard_time": 1706774909,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153387,
+        "num": 153387,
+        "word": "警方通报多人拿棍棒皮带抽打一男孩",
+        "onboard_time": 1706771610,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144345,
+        "num": 144345,
+        "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
+        "onboard_time": 1706772087,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139750,
+        "num": 139750,
+        "word": "深圳房产中介集体转行",
+        "onboard_time": 1706777433,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132923,
+        "num": 132923,
+        "word": "车厘子为什么会红到发黑",
+        "onboard_time": 1706775212,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126619,
+        "num": 126619,
+        "word": "离婚了彩礼还不还",
+        "onboard_time": 1706767349,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123343,
+        "num": 123343,
+        "word": "秦海璐向王新军介绍王安宇",
+        "onboard_time": 1706755588,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122092,
+        "num": 122092,
+        "word": "Weverse中文版",
+        "onboard_time": 1706774909,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114328,
+        "num": 114328,
+        "word": "赵丽颖公司取得演出经纪许可",
+        "onboard_time": 1706771310,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110371,
+        "num": 110371,
+        "word": "我妈是董明珠节目由王自如策划",
+        "onboard_time": 1706780013,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110022,
+        "num": 110022,
+        "word": "大侦探 播不播",
+        "onboard_time": 1706763395,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108874,
+        "num": 108874,
+        "word": "哈尔滨运了三车雪到广州",
+        "onboard_time": 1706780013,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年是实现十四五规划目标任务的关键一年#"
+    }
+  }
+}
