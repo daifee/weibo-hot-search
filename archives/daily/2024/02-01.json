@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706794440929,
+  "endTime": 1706796962799,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734417,
+      "num": 734417,
+      "word": "女干部涉不雅聊天被免职",
+      "onboard_time": 1706789370,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730807,
       "num": 730807,
       "word": "没有血缘关系也能长得像",
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 664156,
-      "num": 664156,
-      "word": "女干部涉不雅聊天被免职",
-      "onboard_time": 1706789370,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657295,
       "num": 657295,
       "word": "为什么高铁座椅没有E号",
@@ -425,6 +425,22 @@
       "onboard_time": 1706759972,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615180,
+      "num": 615180,
+      "word": "哇唧唧哇年会",
+      "onboard_time": 1706792793,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 604298,
+      "num": 604298,
+      "word": "陈都灵等车",
+      "onboard_time": 1706793512,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 595157,
@@ -499,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551278,
-      "num": 551278,
-      "word": "哇唧唧哇年会",
-      "onboard_time": 1706792793,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 554540,
+      "num": 416978,
+      "word": "张艺谋说听障人士角色是赵丽颖的提议",
+      "onboard_time": 1706793333,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 552246,
+      "num": 422949,
+      "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
+      "onboard_time": 1706793092,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544322,
@@ -659,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444816,
-      "num": 365894,
-      "word": "张艺谋说听障人士角色是赵丽颖的提议",
-      "onboard_time": 1706793333,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 450343,
+      "num": 450343,
+      "word": "现在预制菜都这么齐全了吗",
+      "onboard_time": 1706792313,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 441436,
@@ -729,14 +753,6 @@
       "onboard_time": 1706759070,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 404047,
-      "num": 364395,
-      "word": "陈都灵等车",
-      "onboard_time": 1706793512,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 398618,
@@ -899,20 +915,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357372,
-      "num": 357372,
-      "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
-      "onboard_time": 1706793092,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354208,
       "num": 255053,
       "word": "爸妈偷偷来我租的房子过年",
       "onboard_time": 1706756369,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352774,
+      "num": 352774,
+      "word": "BOA太猛了",
+      "onboard_time": 1706795974,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 349704,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317802,
+      "num": 317802,
+      "word": "健康减肥后身体发生的变化",
+      "onboard_time": 1706793932,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 313213,
       "num": 313213,
       "word": "赵丽颖二月均在剧组",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1706792853,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310085,
+      "num": 310085,
+      "word": "男子嫌老婆花钱多看到购物袋后破防",
+      "onboard_time": 1706793154,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308207,
@@ -1219,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251383,
+      "num": 251383,
+      "word": "河南暴雪有人在高速堵车超10公里",
+      "onboard_time": 1706795611,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250222,
       "num": 250222,
       "word": "大侦探",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1706779230,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247423,
+      "num": 247423,
+      "word": "女生真的有自己的洗头规划",
+      "onboard_time": 1706794954,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 247404,
@@ -1347,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228563,
+      "num": 228563,
+      "word": "文旅局回应女演员高空表演时意外掉落",
+      "onboard_time": 1706795131,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228509,
       "num": 203009,
       "word": "小杨哥额头受伤",
@@ -1449,22 +1505,6 @@
       "onboard_time": 1706778149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210516,
-      "num": 210516,
-      "word": "男子嫌老婆花钱多看到购物袋后破防",
-      "onboard_time": 1706793154,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209969,
-      "num": 209969,
-      "word": "现在预制菜都这么齐全了吗",
-      "onboard_time": 1706792313,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 205831,
@@ -1659,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187921,
+      "num": 187921,
+      "word": "章昊韩振cha",
+      "onboard_time": 1706796337,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187542,
       "num": 187542,
       "word": "繁花火到台湾再正常不过了",
@@ -1707,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184060,
+      "num": 184060,
+      "word": "我的妈妈是大明星 巧克力",
+      "onboard_time": 1706795252,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 184044,
       "num": 184044,
       "word": "奇迹暖暖",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1706715151,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180703,
+      "num": 180703,
+      "word": "狗剩快跑杏儿下线",
+      "onboard_time": 1706795491,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 180071,
@@ -1899,14 +1963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170192,
-      "num": 170192,
-      "word": "健康减肥后身体发生的变化",
-      "onboard_time": 1706793932,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 169957,
       "num": 169957,
       "word": "李昀锐孟子义扯领子对视",
@@ -1937,6 +1993,14 @@
       "onboard_time": 1706759855,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 167063,
+      "num": 167063,
+      "word": "比亚迪1月销售201493辆",
+      "onboard_time": 1706795675,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 167022,
@@ -2009,6 +2073,22 @@
       "onboard_time": 1706769092,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162950,
+      "num": 162950,
+      "word": "卜冠今回应造型争议",
+      "onboard_time": 1706796813,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162052,
+      "num": 162052,
+      "word": "年轻人回家过年最大的焦虑",
+      "onboard_time": 1706796571,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 161501,
@@ -2275,6 +2355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145534,
+      "num": 145534,
+      "word": "赵今麦 真甜妹来了",
+      "onboard_time": 1706796873,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145163,
       "num": 145163,
       "word": "上海阿姨9年帮助250只流浪猫安家",
@@ -2297,6 +2385,14 @@
       "onboard_time": 1706695353,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142952,
+      "num": 142952,
+      "word": "高敏感的人",
+      "onboard_time": 1706796274,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 142856,
@@ -2353,6 +2449,14 @@
       "onboard_time": 1706787091,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139229,
+      "num": 139229,
+      "word": "完美世界石昊云曦对战开虐",
+      "onboard_time": 1706796033,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 139058,
@@ -2905,6 +3009,14 @@
       "onboard_time": 1706696974,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83599,
+      "num": 429677,
+      "word": "舌尖上的中国年味儿",
+      "onboard_time": 1706794593,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82232,
