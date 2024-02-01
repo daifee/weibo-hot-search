@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706776454499,
+  "endTime": 1706779081120,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1259,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808671,
+      "num": 808671,
+      "word": "男子见义勇为被砍4刀被救女孩拒作证",
+      "onboard_time": 1706773169,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807383,
       "num": 807383,
       "word": "金智秀BLACKPINK最富有成员",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1706706993,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675264,
+      "num": 344900,
+      "word": "台湾女星温翠苹遭当街家暴",
+      "onboard_time": 1706775570,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 674461,
@@ -2795,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483401,
+      "num": 483401,
+      "word": "12306回应遛娃车厢",
+      "onboard_time": 1706776227,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482127,
       "num": 482127,
       "word": "王者新英雄敖隐",
@@ -3195,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 429003,
+      "num": 429003,
+      "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
+      "onboard_time": 1706776949,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428023,
       "num": 428023,
       "word": "脏手指",
@@ -3257,6 +3289,14 @@
       "onboard_time": 1706489189,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 421329,
+      "num": 421329,
+      "word": "蒋龙当王新军面喊一璐平安",
+      "onboard_time": 1706775628,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 420512,
@@ -4331,6 +4371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323996,
+      "num": 323996,
+      "word": "张庭发文澄清",
+      "onboard_time": 1706776112,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323087,
       "num": 263669,
       "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
@@ -4353,14 +4401,6 @@
       "onboard_time": 1706674357,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321121,
-      "num": 184512,
-      "word": "台湾女星温翠苹遭当街家暴",
-      "onboard_time": 1706775570,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 320535,
@@ -4731,14 +4771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300636,
-      "num": 300636,
-      "word": "男子见义勇为被砍4刀被救女孩拒作证",
-      "onboard_time": 1706773169,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299636,
       "num": 206156,
       "word": "6个肝脏求救的信号要知道",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1706692952,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298840,
+      "num": 298840,
+      "word": "二月壁纸",
+      "onboard_time": 1706778031,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 298405,
@@ -5163,6 +5203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270501,
+      "num": 270501,
+      "word": "张婧仪头像",
+      "onboard_time": 1706778687,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270292,
       "num": 270292,
       "word": "快船打爆凯尔特人",
@@ -5217,14 +5265,6 @@
       "onboard_time": 1706674357,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 264011,
-      "num": 264011,
-      "word": "蒋龙当王新军面喊一璐平安",
-      "onboard_time": 1706775628,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 263755,
@@ -5691,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237236,
+      "num": 237236,
+      "word": "杨紫6部作品回看率高",
+      "onboard_time": 1706778271,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237170,
       "num": 115247,
       "word": "网友吐槽23岁就被迫加入催婚的队伍",
@@ -5752,6 +5800,14 @@
       "word": "狗狗 考上编也不能断情绝欲",
       "onboard_time": 1706438489,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 234131,
+      "num": 234131,
+      "word": "互删前的最后一句话",
+      "onboard_time": 1706777369,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -6835,6 +6891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201809,
+      "num": 201809,
+      "word": "1300户村民免费领了2吨羽绒服",
+      "onboard_time": 1706778568,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201316,
       "num": 201316,
       "word": "藏海传更新简介",
@@ -7289,6 +7353,14 @@
       "onboard_time": 1706438610,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189608,
+      "num": 189608,
+      "word": "WB战胜WE",
+      "onboard_time": 1706778330,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 189539,
@@ -7755,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177959,
+      "num": 177959,
+      "word": "在暴雪时分",
+      "onboard_time": 1706369311,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177733,
       "num": 177733,
       "word": "黄子韬成立科技新公司",
@@ -8059,12 +8139,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170208,
+      "num": 170208,
+      "word": "哈尔滨白狐宝宝罢工了",
+      "onboard_time": 1706778149,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170130,
       "num": 170130,
       "word": "明日方舟 同人漫画",
       "onboard_time": 1706692531,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169957,
+      "num": 169957,
+      "word": "李昀锐孟子义扯领子对视",
+      "onboard_time": 1706776289,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 169918,
@@ -8321,14 +8417,6 @@
       "onboard_time": 1706769092,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163147,
-      "num": 163147,
-      "word": "张庭发文澄清",
-      "onboard_time": 1706776112,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 162928,
@@ -8801,6 +8889,14 @@
       "onboard_time": 1706680651,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154549,
+      "num": 154549,
+      "word": "深圳房产中介集体转行",
+      "onboard_time": 1706777433,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154196,
@@ -9729,6 +9825,14 @@
       "onboard_time": 1706441550,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "鲁AK66M7",
+      "onboard_time": 1706778871,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138399,
@@ -10811,14 +10915,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 122646,
-      "num": 122646,
-      "word": "李昀锐孟子义扯领子对视",
-      "onboard_time": 1706776289,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122518,
       "num": 122518,
       "word": "昆明动物园",
@@ -11073,14 +11169,6 @@
       "onboard_time": 1706415927,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119039,
-      "num": 119039,
-      "word": "12306回应遛娃车厢",
-      "onboard_time": 1706776227,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118970,
@@ -11499,6 +11587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112865,
+      "num": 112865,
+      "word": "父母总能一句话毁我一天快乐",
+      "onboard_time": 1706777191,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112737,
       "num": 112737,
       "word": "BLG对战AL",
@@ -11681,6 +11777,14 @@
       "onboard_time": 1706348971,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109976,
+      "num": 109976,
+      "word": "刘耀文给雷佳音呼呼",
+      "onboard_time": 1706778390,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 109939,
@@ -12220,7 +12324,7 @@
     },
     {
       "raw_hot": 96818,
-      "num": 704713,
+      "num": 809166,
       "word": "重温经典频道开播",
       "onboard_time": 1706771191,
       "rank": 2,
@@ -12673,14 +12777,6 @@
       "onboard_time": 1706398341,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82390,
-      "num": 82390,
-      "word": "在暴雪时分",
-      "onboard_time": 1706369311,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 80990,
@@ -13179,6 +13275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34020,
+      "num": 206206,
+      "word": "沈腾给家乡送年货",
+      "onboard_time": 1706775570,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33377,
       "num": 913758,
       "word": "直播探访多地春运现场",
@@ -13209,14 +13313,6 @@
       "onboard_time": 1706463740,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31365,
-      "num": 206206,
-      "word": "沈腾给家乡送年货",
-      "onboard_time": 1706775570,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 30805,
@@ -13536,6 +13632,9 @@
     },
     {
       "word": "#2024年是实现十四五规划目标任务的关键一年#"
+    },
+    {
+      "word": "#加快发展新质生产力#"
     }
   ]
 }

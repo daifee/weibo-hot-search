@@ -1,0 +1,410 @@
+{
+  "runTime": 1706779081120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093708,
+        "num": 1093708,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 824296,
+        "num": 824296,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52765,
+        "num": 809166,
+        "word": "重温经典频道开播",
+        "onboard_time": 1706771191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808671,
+        "num": 808671,
+        "word": "男子见义勇为被砍4刀被救女孩拒作证",
+        "onboard_time": 1706773169,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483401,
+        "num": 483401,
+        "word": "12306回应遛娃车厢",
+        "onboard_time": 1706776227,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440788,
+        "num": 440788,
+        "word": "劝人多睡的医生自己在熬夜",
+        "onboard_time": 1706761773,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429003,
+        "num": 429003,
+        "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
+        "onboard_time": 1706776949,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421329,
+        "num": 421329,
+        "word": "蒋龙当王新军面喊一璐平安",
+        "onboard_time": 1706775628,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390747,
+        "num": 390747,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346517,
+        "num": 346517,
+        "word": "kpop历代级美貌",
+        "onboard_time": 1706773531,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 675264,
+        "num": 344900,
+        "word": "台湾女星温翠苹遭当街家暴",
+        "onboard_time": 1706775570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413652,
+        "num": 343542,
+        "word": "汤兰兰",
+        "onboard_time": 1706768731,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323996,
+        "num": 323996,
+        "word": "张庭发文澄清",
+        "onboard_time": 1706776112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316252,
+        "num": 316252,
+        "word": "真实胎动",
+        "onboard_time": 1706771249,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312327,
+        "num": 312327,
+        "word": "仙剑四豆瓣开分4.2",
+        "onboard_time": 1706774310,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298840,
+        "num": 298840,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270501,
+        "num": 270501,
+        "word": "张婧仪头像",
+        "onboard_time": 1706778687,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265182,
+        "num": 265182,
+        "word": "警方通报多人拿棍棒皮带抽打一男孩",
+        "onboard_time": 1706771610,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263807,
+        "num": 263807,
+        "word": "日本2架客机发生碰撞",
+        "onboard_time": 1706771074,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255872,
+        "num": 255872,
+        "word": "金智秀BLACKPINK最富有成员",
+        "onboard_time": 1706766693,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255571,
+        "num": 255571,
+        "word": "韩国瑜当选台立法机构负责人",
+        "onboard_time": 1706767048,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249357,
+        "num": 249357,
+        "word": "西餐三大顶级食材价格已被国货打下来",
+        "onboard_time": 1706774428,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237236,
+        "num": 237236,
+        "word": "杨紫6部作品回看率高",
+        "onboard_time": 1706778271,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234131,
+        "num": 234131,
+        "word": "互删前的最后一句话",
+        "onboard_time": 1706777369,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233743,
+        "num": 233743,
+        "word": "为什么高铁座椅没有E号",
+        "onboard_time": 1706765191,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202381,
+        "num": 202381,
+        "word": "韩国人把柠檬做成糖葫芦",
+        "onboard_time": 1706774909,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201809,
+        "num": 201809,
+        "word": "1300户村民免费领了2吨羽绒服",
+        "onboard_time": 1706778568,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189608,
+        "num": 189608,
+        "word": "WB战胜WE",
+        "onboard_time": 1706778330,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186735,
+        "num": 186735,
+        "word": "马丽 我看着都挺像原配",
+        "onboard_time": 1706767413,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183622,
+        "num": 183622,
+        "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
+        "onboard_time": 1706772087,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177959,
+        "num": 177959,
+        "word": "在暴雪时分",
+        "onboard_time": 1706778449,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170208,
+        "num": 170208,
+        "word": "哈尔滨白狐宝宝罢工了",
+        "onboard_time": 1706778149,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169957,
+        "num": 169957,
+        "word": "李昀锐孟子义扯领子对视",
+        "onboard_time": 1706776289,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164087,
+        "num": 164087,
+        "word": "秦海璐向王新军介绍王安宇",
+        "onboard_time": 1706755588,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157101,
+        "num": 157101,
+        "word": "车厘子为什么会红到发黑",
+        "onboard_time": 1706775212,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34020,
+        "num": 154835,
+        "word": "沈腾给家乡送年货",
+        "onboard_time": 1706775570,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154549,
+        "num": 154549,
+        "word": "深圳房产中介集体转行",
+        "onboard_time": 1706777433,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145014,
+        "num": 145014,
+        "word": "赵丽颖公司取得演出经纪许可",
+        "onboard_time": 1706771310,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142252,
+        "num": 142252,
+        "word": "Weverse中文版",
+        "onboard_time": 1706774909,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141047,
+        "num": 141047,
+        "word": "离婚了彩礼还不还",
+        "onboard_time": 1706767349,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138464,
+        "num": 138464,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127105,
+        "num": 127105,
+        "word": "花130万帮女儿当网红2年没成功",
+        "onboard_time": 1706751331,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 124338,
+        "num": 124338,
+        "word": "车厘子加了保鲜剂会吃坏肚子吗",
+        "onboard_time": 1706775150,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122358,
+        "num": 122358,
+        "word": "A股IPO排队企业681家",
+        "onboard_time": 1706772270,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120716,
+        "num": 120716,
+        "word": "祈今朝豆瓣开分5.1",
+        "onboard_time": 1706775330,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117394,
+        "num": 117394,
+        "word": "大侦探 播不播",
+        "onboard_time": 1706763395,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115920,
+        "num": 115920,
+        "word": "专家称散户是A股最宝贵财富",
+        "onboard_time": 1706772693,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112865,
+        "num": 112865,
+        "word": "父母总能一句话毁我一天快乐",
+        "onboard_time": 1706777191,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109976,
+        "num": 109976,
+        "word": "刘耀文给雷佳音呼呼",
+        "onboard_time": 1706778390,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103557,
+        "num": 103557,
+        "word": "狗子凌晨去打架弄一身伤",
+        "onboard_time": 1706772870,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}

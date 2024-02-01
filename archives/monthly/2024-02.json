@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706776454499,
+  "endTime": 1706779081120,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -147,6 +147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 808671,
+      "num": 808671,
+      "word": "男子见义勇为被砍4刀被救女孩拒作证",
+      "onboard_time": 1706773169,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807383,
       "num": 807383,
       "word": "金智秀BLACKPINK最富有成员",
@@ -208,6 +216,14 @@
       "word": "坐飞机偶遇鹿晗",
       "onboard_time": 1706757751,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 675264,
+      "num": 344900,
+      "word": "台湾女星温翠苹遭当街家暴",
+      "onboard_time": 1706775570,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483401,
+      "num": 483401,
+      "word": "12306回应遛娃车厢",
+      "onboard_time": 1706776227,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480305,
       "num": 480305,
       "word": "王源易烊千玺 酣畅淋漓的采访",
@@ -427,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 429003,
+      "num": 429003,
+      "word": "宁夏银川一化工厂起火现场腾起蘑菇云",
+      "onboard_time": 1706776949,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426857,
       "num": 426857,
       "word": "俄高官称千岛群岛属俄日本不满意可以切腹",
@@ -441,6 +473,14 @@
       "onboard_time": 1706773531,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 421329,
+      "num": 421329,
+      "word": "蒋龙当王新军面喊一璐平安",
+      "onboard_time": 1706775628,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 414619,
@@ -643,20 +683,20 @@
       "category": "自然"
     },
     {
+      "raw_hot": 323996,
+      "num": 323996,
+      "word": "张庭发文澄清",
+      "onboard_time": 1706776112,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323087,
       "num": 263669,
       "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
       "onboard_time": 1706772087,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321121,
-      "num": 184512,
-      "word": "台湾女星温翠苹遭当街家暴",
-      "onboard_time": 1706775570,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 319851,
@@ -747,12 +787,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 300636,
-      "num": 300636,
-      "word": "男子见义勇为被砍4刀被救女孩拒作证",
-      "onboard_time": 1706773169,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 298840,
+      "num": 298840,
+      "word": "二月壁纸",
+      "onboard_time": 1706778031,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 294634,
@@ -795,19 +835,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270501,
+      "num": 270501,
+      "word": "张婧仪头像",
+      "onboard_time": 1706778687,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269283,
       "num": 269283,
       "word": "周星驰 金猪玉叶",
       "onboard_time": 1706745386,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 264011,
-      "num": 264011,
-      "word": "蒋龙当王新军面喊一璐平安",
-      "onboard_time": 1706775628,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -905,6 +945,22 @@
       "onboard_time": 1706733017,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237236,
+      "num": 237236,
+      "word": "杨紫6部作品回看率高",
+      "onboard_time": 1706778271,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234131,
+      "num": 234131,
+      "word": "互删前的最后一句话",
+      "onboard_time": 1706777369,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 231128,
@@ -1019,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201809,
+      "num": 201809,
+      "word": "1300户村民免费领了2吨羽绒服",
+      "onboard_time": 1706778568,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201707,
       "num": 201707,
       "word": "成毅裤子透光",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1706765253,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189608,
+      "num": 189608,
+      "word": "WB战胜WE",
+      "onboard_time": 1706778330,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 188917,
@@ -1179,6 +1251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 177959,
+      "num": 177959,
+      "word": "在暴雪时分",
+      "onboard_time": 1706778449,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177733,
       "num": 177733,
       "word": "黄子韬成立科技新公司",
@@ -1259,6 +1339,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170208,
+      "num": 170208,
+      "word": "哈尔滨白狐宝宝罢工了",
+      "onboard_time": 1706778149,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169957,
+      "num": 169957,
+      "word": "李昀锐孟子义扯领子对视",
+      "onboard_time": 1706776289,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169639,
       "num": 169639,
       "word": "灰太狼的妈妈",
@@ -1337,14 +1433,6 @@
       "onboard_time": 1706769092,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163147,
-      "num": 163147,
-      "word": "张庭发文澄清",
-      "onboard_time": 1706776112,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 161501,
@@ -1432,6 +1520,14 @@
       "word": "河南强降雪最新情况",
       "onboard_time": 1706749231,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154549,
+      "num": 154549,
+      "word": "深圳房产中介集体转行",
+      "onboard_time": 1706777433,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1585,6 +1681,14 @@
       "onboard_time": 1706768131,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "鲁AK66M7",
+      "onboard_time": 1706778871,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138137,
@@ -1779,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122646,
-      "num": 122646,
-      "word": "李昀锐孟子义扯领子对视",
-      "onboard_time": 1706776289,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121043,
       "num": 121043,
       "word": "上班的三个阶段",
@@ -1808,14 +1904,6 @@
       "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
       "onboard_time": 1706704112,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119039,
-      "num": 119039,
-      "word": "12306回应遛娃车厢",
-      "onboard_time": 1706776227,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1875,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112865,
+      "num": 112865,
+      "word": "父母总能一句话毁我一天快乐",
+      "onboard_time": 1706777191,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112433,
       "num": 155668,
       "word": "女子捐赠甘肃一中学400件羽绒服失踪",
@@ -1905,6 +2001,14 @@
       "onboard_time": 1706749289,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109976,
+      "num": 109976,
+      "word": "刘耀文给雷佳音呼呼",
+      "onboard_time": 1706778390,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 107853,
@@ -1948,7 +2052,7 @@
     },
     {
       "raw_hot": 96818,
-      "num": 704713,
+      "num": 809166,
       "word": "重温经典频道开播",
       "onboard_time": 1706771191,
       "rank": 2,
@@ -2099,20 +2203,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34020,
+      "num": 206206,
+      "word": "沈腾给家乡送年货",
+      "onboard_time": 1706775570,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33377,
       "num": 913758,
       "word": "直播探访多地春运现场",
       "onboard_time": 1706756012,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31365,
-      "num": 206206,
-      "word": "沈腾给家乡送年货",
-      "onboard_time": 1706775570,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 30602,
@@ -2196,6 +2300,9 @@
     },
     {
       "word": "#2024年是实现十四五规划目标任务的关键一年#"
+    },
+    {
+      "word": "#加快发展新质生产力#"
     }
   ]
 }
