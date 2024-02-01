@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706764603926,
+  "endTime": 1706765643190,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1965796,
-      "num": 1965796,
+      "raw_hot": 2092734,
+      "num": 2092734,
       "word": "干部被曝妻子怀孕时出轨多名女性",
       "onboard_time": 1706761173,
       "rank": 45,
@@ -115,6 +115,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 784823,
+      "num": 784823,
+      "word": "劝人多睡的医生自己在熬夜",
+      "onboard_time": 1706761773,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 780187,
       "num": 780187,
       "word": "秦海璐向王新军介绍王安宇",
@@ -161,14 +169,6 @@
       "onboard_time": 1706757751,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 678794,
-      "num": 678794,
-      "word": "劝人多睡的医生自己在熬夜",
-      "onboard_time": 1706761773,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 670803,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526207,
+      "num": 447532,
+      "word": "韩国瑜",
+      "onboard_time": 1706763872,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 523064,
       "num": 523064,
       "word": "iPhone15Pro满意度下降",
@@ -259,6 +267,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 486219,
+      "num": 486219,
+      "word": "大侦探 播不播",
+      "onboard_time": 1706763395,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480305,
       "num": 480305,
       "word": "王源易烊千玺 酣畅淋漓的采访",
@@ -273,14 +289,6 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 444200,
-      "num": 444200,
-      "word": "大侦探 播不播",
-      "onboard_time": 1706763395,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 440350,
@@ -345,6 +353,14 @@
       "onboard_time": 1706762673,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380923,
+      "num": 380923,
+      "word": "朱丹官宣加盟最强大脑",
+      "onboard_time": 1706763454,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 380667,
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335976,
-      "num": 335976,
-      "word": "朱丹官宣加盟最强大脑",
-      "onboard_time": 1706763454,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302666,
+      "num": 302666,
+      "word": "其实追星比恋爱更无害",
+      "onboard_time": 1706764173,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294634,
       "num": 294634,
       "word": "车厘子只看几个J谁买谁是大冤种",
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256909,
+      "num": 256909,
+      "word": "湖南卫视春晚阵容",
+      "onboard_time": 1706763935,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255676,
       "num": 255676,
       "word": "张元英朴成训像一个团",
@@ -619,28 +643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252898,
-      "num": 252898,
-      "word": "湖南卫视春晚阵容",
-      "onboard_time": 1706763935,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
       "onboard_time": 1706757089,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250249,
-      "num": 250249,
-      "word": "韩国瑜",
-      "onboard_time": 1706763872,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 250222,
@@ -683,20 +691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232203,
+      "num": 232203,
+      "word": "CCTV6大年初一首播长空之王",
+      "onboard_time": 1706764829,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228509,
       "num": 203009,
       "word": "小杨哥额头受伤",
       "onboard_time": 1706715870,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 227565,
-      "num": 227565,
-      "word": "其实追星比恋爱更无害",
-      "onboard_time": 1706764173,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 224972,
@@ -747,6 +755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202104,
+      "num": 202104,
+      "word": "星穹铁道黑天鹅",
+      "onboard_time": 1706764829,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201985,
       "num": 201985,
       "word": "吴彤王一博龙年特定合作曲",
@@ -763,12 +779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196055,
+      "num": 196055,
+      "word": "粉丝为肖战原创贺岁曲",
+      "onboard_time": 1706764352,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194501,
       "num": 194501,
       "word": "刘耀文你别扣手了",
       "onboard_time": 1706764113,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190308,
+      "num": 190308,
+      "word": "曹恩齐 man哥喊麦",
+      "onboard_time": 1706765253,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 187542,
@@ -809,14 +841,6 @@
       "onboard_time": 1706749891,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182187,
-      "num": 182187,
-      "word": "粉丝为肖战原创贺岁曲",
-      "onboard_time": 1706764352,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182182,
@@ -913,6 +937,22 @@
       "onboard_time": 1706757871,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 169639,
+      "num": 169639,
+      "word": "灰太狼的妈妈",
+      "onboard_time": 1706764592,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 169502,
+      "num": 169502,
+      "word": "为什么高铁座椅没有E号",
+      "onboard_time": 1706765191,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 167143,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1706749231,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153154,
+      "num": 153154,
+      "word": "堵车时第一辆车在干嘛",
+      "onboard_time": 1706764773,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 151644,
@@ -1163,6 +1211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135847,
+      "num": 135847,
+      "word": "陈虹伊朱易晋级自由滑",
+      "onboard_time": 1706765493,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134271,
       "num": 134271,
       "word": "明日方舟维护",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1706703151,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133251,
+      "num": 133251,
+      "word": "多家快递公司辟谣网传春节停运时间",
+      "onboard_time": 1706765371,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133007,
@@ -1249,14 +1313,6 @@
       "onboard_time": 1706712394,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129924,
-      "num": 129924,
-      "word": "灰太狼的妈妈",
-      "onboard_time": 1706764592,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 129921,
@@ -1435,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84698,
+      "num": 357641,
+      "word": "羡慕长沙打工人的精神状态",
+      "onboard_time": 1706763634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83820,
       "num": 82200,
       "word": "狗剩快跑 安宇快跑",
@@ -1457,14 +1521,6 @@
       "onboard_time": 1706710470,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78147,
-      "num": 357641,
-      "word": "羡慕长沙打工人的精神状态",
-      "onboard_time": 1706763634,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76555,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1706722581,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 49086,
+      "num": 125593,
+      "word": "蛋仔新春爆料",
+      "onboard_time": 1706765552,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 42274,

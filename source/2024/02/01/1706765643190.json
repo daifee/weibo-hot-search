@@ -1,0 +1,410 @@
+{
+  "runTime": 1706765643190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2092734,
+        "num": 2092734,
+        "word": "干部被曝妻子怀孕时出轨多名女性",
+        "onboard_time": 1706761173,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1485430,
+        "num": 1485430,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73211,
+        "num": 1213160,
+        "word": "致敬每一个挺身而出的普通人",
+        "onboard_time": 1706756369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109912,
+        "num": 1109912,
+        "word": "死刑注射前为啥还要消毒",
+        "onboard_time": 1706759855,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 784823,
+        "num": 784823,
+        "word": "劝人多睡的医生自己在熬夜",
+        "onboard_time": 1706761773,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 710416,
+        "num": 710416,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611034,
+        "num": 611034,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 547442,
+        "num": 547442,
+        "word": "花130万帮女儿当网红2年没成功",
+        "onboard_time": 1706751331,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 486219,
+        "num": 486219,
+        "word": "大侦探 播不播",
+        "onboard_time": 1706763395,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447793,
+        "num": 447793,
+        "word": "坐飞机偶遇鹿晗",
+        "onboard_time": 1706757751,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526207,
+        "num": 447532,
+        "word": "韩国瑜",
+        "onboard_time": 1706763872,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433977,
+        "num": 433977,
+        "word": "车厘子打败砂糖橘成年货顶流",
+        "onboard_time": 1706748572,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 380923,
+        "num": 380923,
+        "word": "朱丹官宣加盟最强大脑",
+        "onboard_time": 1706763454,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347929,
+        "num": 347929,
+        "word": "人民网评张波叶诚尘被执行死刑",
+        "onboard_time": 1706759972,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84698,
+        "num": 326548,
+        "word": "羡慕长沙打工人的精神状态",
+        "onboard_time": 1706763634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325465,
+        "num": 325465,
+        "word": "秦海璐向王新军介绍王安宇",
+        "onboard_time": 1706755588,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325227,
+        "num": 325227,
+        "word": "王源易烊千玺 酣畅淋漓的采访",
+        "onboard_time": 1706758232,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324735,
+        "num": 324735,
+        "word": "仙剑四大结局",
+        "onboard_time": 1706762673,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314307,
+        "num": 314307,
+        "word": "财政部回应养老金担忧",
+        "onboard_time": 1706760392,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311078,
+        "num": 311078,
+        "word": "过年做美甲要注意4点",
+        "onboard_time": 1706761656,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 302666,
+        "num": 302666,
+        "word": "其实追星比恋爱更无害",
+        "onboard_time": 1706764173,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277294,
+        "num": 277294,
+        "word": "乳腺癌女性离婚率高达百分之四十",
+        "onboard_time": 1706758771,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256909,
+        "num": 256909,
+        "word": "湖南卫视春晚阵容",
+        "onboard_time": 1706763935,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232203,
+        "num": 232203,
+        "word": "CCTV6大年初一首播长空之王",
+        "onboard_time": 1706764829,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226992,
+        "num": 226992,
+        "word": "女子哈佛博士毕业后给豪门当家教",
+        "onboard_time": 1706758412,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224817,
+        "num": 224817,
+        "word": "张元英朴成训像一个团",
+        "onboard_time": 1706759312,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219407,
+        "num": 219407,
+        "word": "这下谁分得清大学生和小学生啊",
+        "onboard_time": 1706762372,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202104,
+        "num": 202104,
+        "word": "星穹铁道黑天鹅",
+        "onboard_time": 1706764829,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196055,
+        "num": 196055,
+        "word": "粉丝为肖战原创贺岁曲",
+        "onboard_time": 1706764352,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190308,
+        "num": 190308,
+        "word": "曹恩齐 man哥喊麦",
+        "onboard_time": 1706765253,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 921667,
+        "num": 185427,
+        "word": "执行死刑 三针注射",
+        "onboard_time": 1706744846,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172814,
+        "num": 172814,
+        "word": "黄子韬成立科技新公司",
+        "onboard_time": 1706764052,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171133,
+        "num": 171133,
+        "word": "灵岩甩臀致直播间被封",
+        "onboard_time": 1706751090,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169639,
+        "num": 169639,
+        "word": "灰太狼的妈妈",
+        "onboard_time": 1706764592,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169502,
+        "num": 169502,
+        "word": "为什么高铁座椅没有E号",
+        "onboard_time": 1706765191,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169142,
+        "num": 169142,
+        "word": "美作家称韩国只学到儒家思想和资本主义糟粕",
+        "onboard_time": 1706759070,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 167085,
+        "num": 167085,
+        "word": "北大学姐说静夜思不是李白原作",
+        "onboard_time": 1706751812,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 162793,
+        "num": 162793,
+        "word": "赵丽颖二月均在剧组",
+        "onboard_time": 1706760274,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154191,
+        "num": 154191,
+        "word": "刘耀文你别扣手了",
+        "onboard_time": 1706764113,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153154,
+        "num": 153154,
+        "word": "堵车时第一辆车在干嘛",
+        "onboard_time": 1706764773,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152308,
+        "num": 152308,
+        "word": "7成中国人可能是河南人",
+        "onboard_time": 1706754629,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147806,
+        "num": 147806,
+        "word": "王鸥复工",
+        "onboard_time": 1706744607,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145480,
+        "num": 145480,
+        "word": "能不能让王安宇天天哭",
+        "onboard_time": 1706755890,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139566,
+        "num": 139566,
+        "word": "王者荣耀",
+        "onboard_time": 1706762913,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135847,
+        "num": 135847,
+        "word": "陈虹伊朱易晋级自由滑",
+        "onboard_time": 1706765493,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133251,
+        "num": 133251,
+        "word": "多家快递公司辟谣网传春节停运时间",
+        "onboard_time": 1706765371,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131997,
+        "num": 131997,
+        "word": "龙年限定系列皮肤龙祐千载",
+        "onboard_time": 1706763214,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49086,
+        "num": 125593,
+        "word": "蛋仔新春爆料",
+        "onboard_time": 1706765552,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123228,
+        "num": 123228,
+        "word": "高至霆 黑月光",
+        "onboard_time": 1706755469,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121987,
+        "num": 121987,
+        "word": "吴彤王一博龙年特定合作曲",
+        "onboard_time": 1706763634,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好城市历史文化遗存延续城市文脉#"
+    }
+  }
+}

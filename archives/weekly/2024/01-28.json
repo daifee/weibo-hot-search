@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706764603926,
+  "endTime": 1706765643190,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2092734,
+      "num": 2092734,
+      "word": "干部被曝妻子怀孕时出轨多名女性",
+      "onboard_time": 1706761173,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2068559,
       "num": 2068559,
       "word": "鼻子决定了颜值的上限",
@@ -128,14 +136,6 @@
       "word": "奔驰车主加塞砸车被拘10日",
       "onboard_time": 1706689413,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1965796,
-      "num": 1965796,
-      "word": "干部被曝妻子怀孕时出轨多名女性",
-      "onboard_time": 1706761173,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 784823,
+      "num": 784823,
+      "word": "劝人多睡的医生自己在熬夜",
+      "onboard_time": 1706761773,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 780352,
       "num": 780352,
       "word": "美甲过年费",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1706706993,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678794,
-      "num": 678794,
-      "word": "劝人多睡的医生自己在熬夜",
-      "onboard_time": 1706761773,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 674461,
@@ -2403,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526207,
+      "num": 447532,
+      "word": "韩国瑜",
+      "onboard_time": 1706763872,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 524982,
       "num": 319582,
       "word": "要结婚了才发现自己是小学学历",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1706484863,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486219,
+      "num": 486219,
+      "word": "大侦探 播不播",
+      "onboard_time": 1706763395,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 484615,
@@ -2929,14 +2945,6 @@
       "onboard_time": 1706672551,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444200,
-      "num": 444200,
-      "word": "大侦探 播不播",
-      "onboard_time": 1706763395,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 443498,
@@ -3571,6 +3579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380923,
+      "num": 380923,
+      "word": "朱丹官宣加盟最强大脑",
+      "onboard_time": 1706763454,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380119,
       "num": 380119,
       "word": "童瑶早就预判了雷东宝的结局",
@@ -4051,14 +4067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 335976,
-      "num": 335976,
-      "word": "朱丹官宣加盟最强大脑",
-      "onboard_time": 1706763454,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335632,
       "num": 335632,
       "word": "要久久爱破万",
@@ -4473,6 +4481,14 @@
       "onboard_time": 1706745928,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302666,
+      "num": 302666,
+      "word": "其实追星比恋爱更无害",
+      "onboard_time": 1706764173,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 302614,
@@ -5123,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256909,
+      "num": 256909,
+      "word": "湖南卫视春晚阵容",
+      "onboard_time": 1706763935,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255676,
       "num": 255676,
       "word": "张元英朴成训像一个团",
@@ -5211,14 +5235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252898,
-      "num": 252898,
-      "word": "湖南卫视春晚阵容",
-      "onboard_time": 1706763935,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
@@ -5265,14 +5281,6 @@
       "onboard_time": 1706692472,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 250249,
-      "num": 250249,
-      "word": "韩国瑜",
-      "onboard_time": 1706763872,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 250222,
@@ -5563,6 +5571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232203,
+      "num": 232203,
+      "word": "CCTV6大年初一首播长空之王",
+      "onboard_time": 1706764829,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231169,
       "num": 231169,
       "word": "花花有了新玩具",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1706539174,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227565,
-      "num": 227565,
-      "word": "其实追星比恋爱更无害",
-      "onboard_time": 1706764173,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 227298,
@@ -6547,6 +6555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202104,
+      "num": 202104,
+      "word": "星穹铁道黑天鹅",
+      "onboard_time": 1706764829,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202100,
       "num": 202100,
       "word": "牛肉价格一跌再跌",
@@ -6763,6 +6779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196055,
+      "num": 196055,
+      "word": "粉丝为肖战原创贺岁曲",
+      "onboard_time": 1706764352,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196047,
       "num": 196047,
       "word": "2024江苏卫视春晚首波阵容",
@@ -6969,6 +6993,14 @@
       "onboard_time": 1706660789,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190308,
+      "num": 190308,
+      "word": "曹恩齐 man哥喊麦",
+      "onboard_time": 1706765253,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 190290,
@@ -7265,14 +7297,6 @@
       "onboard_time": 1706749891,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182187,
-      "num": 182187,
-      "word": "粉丝为肖战原创贺岁曲",
-      "onboard_time": 1706764352,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182182,
@@ -7729,6 +7753,22 @@
       "onboard_time": 1706484443,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169639,
+      "num": 169639,
+      "word": "灰太狼的妈妈",
+      "onboard_time": 1706764592,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 169502,
+      "num": 169502,
+      "word": "为什么高铁座椅没有E号",
+      "onboard_time": 1706765191,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 168392,
@@ -8473,6 +8513,14 @@
       "onboard_time": 1706543311,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153154,
+      "num": 153154,
+      "word": "堵车时第一辆车在干嘛",
+      "onboard_time": 1706764773,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 153018,
@@ -9435,6 +9483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135847,
+      "num": 135847,
+      "word": "陈虹伊朱易晋级自由滑",
+      "onboard_time": 1706765493,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135486,
       "num": 135486,
       "word": "河南省考缴费",
@@ -9577,6 +9633,14 @@
       "onboard_time": 1706538693,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133251,
+      "num": 133251,
+      "word": "多家快递公司辟谣网传春节停运时间",
+      "onboard_time": 1706765371,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133151,
@@ -9817,14 +9881,6 @@
       "onboard_time": 1706367272,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129924,
-      "num": 129924,
-      "word": "灰太狼的妈妈",
-      "onboard_time": 1706764592,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 129921,
@@ -12035,6 +12091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84698,
+      "num": 357641,
+      "word": "羡慕长沙打工人的精神状态",
+      "onboard_time": 1706763634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84551,
       "num": 181322,
       "word": "中国蓝天仪仗队再出国门",
@@ -12161,14 +12225,6 @@
       "onboard_time": 1706569341,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 78147,
-      "num": 357641,
-      "word": "羡慕长沙打工人的精神状态",
-      "onboard_time": 1706763634,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77378,
@@ -12473,6 +12529,14 @@
       "onboard_time": 1706428768,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49086,
+      "num": 125593,
+      "word": "蛋仔新春爆料",
+      "onboard_time": 1706765552,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 48853,
