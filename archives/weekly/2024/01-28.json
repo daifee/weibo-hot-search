@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706790645189,
+  "endTime": 1706791545209,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -411,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1515306,
+      "num": 1515306,
+      "word": "官方通报女干部被曝不雅聊天",
+      "onboard_time": 1706786254,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1513224,
       "num": 1513224,
       "word": "支付宝五福",
@@ -424,14 +432,6 @@
       "word": "10省将出现暴雪或大暴雪",
       "onboard_time": 1706438371,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1497023,
-      "num": 1497023,
-      "word": "官方通报女干部被曝不雅聊天",
-      "onboard_time": 1706786254,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -803,6 +803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1088529,
+      "num": 1088529,
+      "word": "李诞卖穿戴甲",
+      "onboard_time": 1706788412,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076611,
       "num": 1076611,
       "word": "吴京梦女",
@@ -841,14 +849,6 @@
       "onboard_time": 1706418089,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1060746,
-      "num": 1060746,
-      "word": "李诞卖穿戴甲",
-      "onboard_time": 1706788412,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1055944,
@@ -2403,6 +2403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 569443,
+      "num": 569443,
+      "word": "王家卫连胡歌宣传期穿什么衣服都管",
+      "onboard_time": 1706787992,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568256,
       "num": 1939594,
       "word": "1300户村民免费领了2吨羽绒服",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1706492726,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 516980,
-      "num": 516980,
-      "word": "王家卫连胡歌宣传期穿什么衣服都管",
-      "onboard_time": 1706787992,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 514829,
@@ -3179,6 +3179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 455428,
+      "num": 455428,
+      "word": "杭州一女子高空杂技表演时坠落身亡",
+      "onboard_time": 1706786910,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453950,
       "num": 453950,
       "word": "孙红雷回应黄渤张艺兴不带自己玩",
@@ -3409,6 +3417,14 @@
       "onboard_time": 1706677835,
       "rank": 20,
       "category": "美食,剧集"
+    },
+    {
+      "raw_hot": 424520,
+      "num": 424520,
+      "word": "大S具俊晔23年前后合照对比",
+      "onboard_time": 1706791055,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 423411,
@@ -3787,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388375,
+      "num": 388375,
+      "word": "小S二女儿Lily晒旅游照",
+      "onboard_time": 1706790090,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388332,
       "num": 388332,
       "word": "我搜的明明是考公资料",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1706621012,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 381943,
-      "num": 381943,
-      "word": "杭州一女子高空杂技表演时坠落身亡",
-      "onboard_time": 1706786910,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381632,
@@ -4153,6 +4169,14 @@
       "onboard_time": 1706752531,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363685,
+      "num": 363685,
+      "word": "汉密尔顿 法拉利",
+      "onboard_time": 1706789191,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 363395,
@@ -4483,12 +4507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333415,
-      "num": 333415,
-      "word": "汉密尔顿 法拉利",
-      "onboard_time": 1706789191,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 332927,
+      "num": 332927,
+      "word": "齐思钧赵昭仪芒果年会主持人",
+      "onboard_time": 1706790751,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 331832,
@@ -4857,14 +4881,6 @@
       "onboard_time": 1706755469,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305816,
-      "num": 305816,
-      "word": "小S二女儿Lily晒旅游照",
-      "onboard_time": 1706790090,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 305400,
@@ -6211,6 +6227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 228428,
+      "num": 228428,
+      "word": "宋雨琦章昊SuperLady",
+      "onboard_time": 1706790211,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227888,
       "num": 227888,
       "word": "王小军被撤销全国政协委员资格",
@@ -6827,6 +6851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209150,
+      "num": 209150,
+      "word": "成毅 张居正",
+      "onboard_time": 1706791294,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209017,
       "num": 167730,
       "word": "暗恋对象以为我是学人精",
@@ -6977,6 +7009,14 @@
       "onboard_time": 1706530233,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205452,
+      "num": 205452,
+      "word": "张颜齐 要你有何用",
+      "onboard_time": 1706790633,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 205440,
@@ -7387,14 +7427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197386,
-      "num": 197386,
-      "word": "宋雨琦章昊SuperLady",
-      "onboard_time": 1706790211,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197347,
       "num": 179646,
       "word": "辛纳连扳两盘",
@@ -7457,6 +7489,14 @@
       "onboard_time": 1706445029,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195715,
+      "num": 195715,
+      "word": "19层",
+      "onboard_time": 1706790029,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 195505,
@@ -7585,6 +7625,14 @@
       "onboard_time": 1706589031,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192721,
+      "num": 192721,
+      "word": "花儿与少年RAP",
+      "onboard_time": 1706790573,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 192162,
@@ -7721,14 +7769,6 @@
       "onboard_time": 1706595754,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189326,
-      "num": 189326,
-      "word": "19层",
-      "onboard_time": 1706790029,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 189093,
@@ -8243,6 +8283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176856,
+      "num": 176856,
+      "word": "仙剑系列豆瓣评分",
+      "onboard_time": 1706789555,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176615,
       "num": 176615,
       "word": "杨紫晒破万自拍",
@@ -8547,6 +8595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 169330,
+      "num": 169330,
+      "word": "男人的眼泪是女人的兴奋剂",
+      "onboard_time": 1706790391,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168392,
       "num": 168392,
       "word": "张大仙许愿上厕所不掉粉",
@@ -8635,6 +8691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166117,
+      "num": 166117,
+      "word": "张艺谋夸刘耀文是电影脸",
+      "onboard_time": 1706791413,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165951,
       "num": 165951,
       "word": "范丞丞哭到不能出戏",
@@ -8665,6 +8729,14 @@
       "onboard_time": 1706451153,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165603,
+      "num": 165603,
+      "word": "山东专升本招生计划公布",
+      "onboard_time": 1706790633,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 165513,
@@ -8881,14 +8953,6 @@
       "onboard_time": 1706709094,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160852,
-      "num": 160852,
-      "word": "仙剑系列豆瓣评分",
-      "onboard_time": 1706789555,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 160811,
@@ -9123,6 +9187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156588,
+      "num": 156588,
+      "word": "在中国发展的美国演员",
+      "onboard_time": 1706790871,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156477,
       "num": 156477,
       "word": "鞠婧祎好灵动",
@@ -9225,6 +9297,14 @@
       "onboard_time": 1706422050,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155038,
+      "num": 496358,
+      "word": "K4186全车一起救了个人",
+      "onboard_time": 1706786671,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 155034,
@@ -9928,14 +10008,6 @@
       "word": "从小山城到大城市需要多大勇气",
       "onboard_time": 1706605828,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 143275,
-      "num": 143275,
-      "word": "男人的眼泪是女人的兴奋剂",
-      "onboard_time": 1706790391,
-      "rank": 41,
       "category": "情感"
     },
     {
@@ -10835,14 +10907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130998,
-      "num": 130998,
-      "word": "花儿与少年RAP",
-      "onboard_time": 1706790573,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130857,
       "num": 130857,
       "word": "于正回应19层官微手滑",
@@ -10921,14 +10985,6 @@
       "onboard_time": 1706609610,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129661,
-      "num": 129661,
-      "word": "张颜齐 要你有何用",
-      "onboard_time": 1706790633,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 129642,
@@ -11091,14 +11147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127557,
-      "num": 127557,
-      "word": "山东专升本招生计划公布",
-      "onboard_time": 1706790633,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 127419,
       "num": 127419,
       "word": "蒋翼被偷亲都是庄远的错",
@@ -11161,14 +11209,6 @@
       "onboard_time": 1706658443,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126651,
-      "num": 189611,
-      "word": "K4186全车一起救了个人",
-      "onboard_time": 1706786671,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 126609,
@@ -11297,6 +11337,14 @@
       "onboard_time": 1706603072,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125054,
+      "num": 125054,
+      "word": "官方通报宁夏一化工厂燃爆事故",
+      "onboard_time": 1706791532,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124946,
@@ -12900,7 +12948,7 @@
     },
     {
       "raw_hot": 96818,
-      "num": 1152274,
+      "num": 1245483,
       "word": "重温经典频道开播",
       "onboard_time": 1706771191,
       "rank": 2,
