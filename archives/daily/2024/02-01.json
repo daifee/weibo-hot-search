@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706782727232,
+  "endTime": 1706783678935,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1804535,
+      "num": 1804535,
+      "word": "百里屠苏好久不见",
+      "onboard_time": 1706779412,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1716105,
       "num": 1716105,
       "word": "死刑注射前为啥还要消毒",
       "onboard_time": 1706759855,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1691125,
-      "num": 1691125,
-      "word": "百里屠苏好久不见",
-      "onboard_time": 1706779412,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 1635924,
@@ -163,6 +163,22 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 862284,
+      "num": 862284,
+      "word": "男婴出生第2天脑梗死父亲一夜白头",
+      "onboard_time": 1706782532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854385,
+      "num": 1828842,
+      "word": "夫妻各开一架飞机回家过年",
+      "onboard_time": 1706781514,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853226,
       "num": 853226,
       "word": "复旦教师杀害学院书记一审获死缓",
@@ -196,11 +212,19 @@
     },
     {
       "raw_hot": 795278,
-      "num": 575626,
+      "num": 631121,
       "word": "微博崩了",
       "onboard_time": 1706779829,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 794588,
+      "num": 794588,
+      "word": "我妈是董明珠节目由王自如策划",
+      "onboard_time": 1706780013,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 780187,
@@ -219,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 735613,
-      "num": 735613,
-      "word": "我妈是董明珠节目由王自如策划",
-      "onboard_time": 1706780013,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 738140,
+      "num": 738140,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1706779710,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 730807,
@@ -361,14 +385,6 @@
       "onboard_time": 1706709333,
       "rank": 5,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 580965,
-      "num": 580965,
-      "word": "刘浩存双马尾",
-      "onboard_time": 1706779710,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 575455,
@@ -523,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433401,
-      "num": 1243798,
-      "word": "夫妻各开一架飞机回家过年",
-      "onboard_time": 1706781514,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432182,
       "num": 432182,
       "word": "迪丽热巴红衣旧照",
@@ -545,6 +553,14 @@
       "onboard_time": 1706743344,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 425702,
+      "num": 425702,
+      "word": "关晓彤最近才入坑甄嬛传",
+      "onboard_time": 1706780972,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423411,
@@ -569,6 +585,14 @@
       "onboard_time": 1706770953,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 412223,
+      "num": 412223,
+      "word": "美甲问价后不敢回复了",
+      "onboard_time": 1706782051,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 405918,
@@ -601,22 +625,6 @@
       "onboard_time": 1706694271,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387227,
-      "num": 387227,
-      "word": "美甲问价后不敢回复了",
-      "onboard_time": 1706782051,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 382140,
-      "num": 382140,
-      "word": "关晓彤最近才入坑甄嬛传",
-      "onboard_time": 1706780972,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 381627,
@@ -745,14 +753,6 @@
       "onboard_time": 1706757331,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335743,
-      "num": 335743,
-      "word": "男婴出生第2天脑梗死父亲一夜白头",
-      "onboard_time": 1706782532,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334754,
@@ -939,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279509,
+      "num": 279509,
+      "word": "赵丽颖一年进五个组",
+      "onboard_time": 1706782651,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272014,
       "num": 262534,
       "word": "丁克家庭要给亲戚小孩红包吗",
@@ -1083,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232316,
+      "num": 232316,
+      "word": "明日方舟",
+      "onboard_time": 1706782712,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231128,
       "num": 231128,
       "word": "菏泽干部",
@@ -1171,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212824,
+      "num": 212824,
+      "word": "李莎旻子写给芒果的一封信",
+      "onboard_time": 1706783191,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 205831,
       "num": 205831,
       "word": "什么样的情侣关系最长久",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1706782171,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204206,
-      "num": 204206,
-      "word": "赵丽颖一年进五个组",
-      "onboard_time": 1706782651,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202628,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1706765371,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196061,
+      "num": 844127,
+      "word": "司机坚持礼让行人没想到有意外收获",
+      "onboard_time": 1706781031,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 196055,
@@ -1475,6 +1499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173715,
+      "num": 173715,
+      "word": "张杰南昌演唱会过审",
+      "onboard_time": 1706783071,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172637,
       "num": 171453,
       "word": "西安一美甲店年前每日等位近300人",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1706764592,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 167229,
-      "num": 844127,
-      "word": "司机坚持礼让行人没想到有意外收获",
-      "onboard_time": 1706781031,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 167143,
@@ -1616,6 +1640,14 @@
       "word": "肖战张婧仪藏海传路透",
       "onboard_time": 1706712333,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159980,
+      "num": 159980,
+      "word": "白鹿曾舜晞 衡门有狐",
+      "onboard_time": 1706783371,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2131,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116646,
-      "num": 116646,
-      "word": "明日方舟",
-      "onboard_time": 1706782712,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116242,
       "num": 100701,
       "word": "演唱会玩手机的爱豆",
@@ -2299,6 +2323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94238,
+      "num": 94238,
+      "word": "在暴雪时分上星",
+      "onboard_time": 1706783612,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92725,
       "num": 92487,
       "word": "这是龙王结婚吗",
@@ -2380,7 +2412,7 @@
     },
     {
       "raw_hot": 50413,
-      "num": 1802981,
+      "num": 1809333,
       "word": "穿越机视角看世界最大跨度拱桥",
       "onboard_time": 1706772453,
       "rank": 24,

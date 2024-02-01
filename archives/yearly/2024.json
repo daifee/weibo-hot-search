@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706782727232,
+  "endTime": 1706783678935,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1811,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1804535,
+      "num": 1804535,
+      "word": "百里屠苏好久不见",
+      "onboard_time": 1706779412,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1803000,
       "num": 339996,
       "word": "痞幼谈内衣照事件",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1705068212,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1691125,
-      "num": 1691125,
-      "word": "百里屠苏好久不见",
-      "onboard_time": 1706779412,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 1687177,
