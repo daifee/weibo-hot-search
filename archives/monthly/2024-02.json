@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706765643190,
+  "endTime": 1706768570013,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -115,12 +115,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 784823,
-      "num": 784823,
+      "raw_hot": 817049,
+      "num": 817049,
       "word": "劝人多睡的医生自己在熬夜",
       "onboard_time": 1706761773,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 807383,
+      "num": 807383,
+      "word": "金智秀BLACKPINK最富有成员",
+      "onboard_time": 1706766693,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 780187,
@@ -145,6 +153,14 @@
       "onboard_time": 1706713774,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 721894,
+      "num": 721894,
+      "word": "韩国瑜",
+      "onboard_time": 1706763872,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 698325,
@@ -187,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 628081,
+      "num": 628081,
+      "word": "韩国瑜当选台立法机构负责人",
+      "onboard_time": 1706767048,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 626688,
       "num": 626688,
       "word": "灵岩甩臀致直播间被封",
@@ -227,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549095,
+      "num": 549095,
+      "word": "为什么高铁座椅没有E号",
+      "onboard_time": 1706765191,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 543361,
       "num": 543361,
       "word": "在人间 辛芷蕾",
       "onboard_time": 1706713294,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 526207,
-      "num": 447532,
-      "word": "韩国瑜",
-      "onboard_time": 1706763872,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 523064,
@@ -289,6 +313,14 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 460746,
+      "num": 460746,
+      "word": "CCTV6大年初一首播长空之王",
+      "onboard_time": 1706764829,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 440350,
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343600,
+      "num": 343600,
+      "word": "杨威",
+      "onboard_time": 1706767773,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -489,6 +529,14 @@
       "onboard_time": 1706745087,
       "rank": 13,
       "category": "自然"
+    },
+    {
+      "raw_hot": 320077,
+      "num": 320077,
+      "word": "IU登顶2024韩国最富有女爱豆",
+      "onboard_time": 1706767472,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 319851,
@@ -595,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272014,
+      "num": 262534,
+      "word": "丁克家庭要给亲戚小孩红包吗",
+      "onboard_time": 1706765912,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269283,
       "num": 269283,
       "word": "周星驰 金猪玉叶",
@@ -603,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264298,
+      "num": 264298,
+      "word": "马丽 我看着都挺像原配",
+      "onboard_time": 1706767413,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259187,
       "num": 350467,
       "word": "男子开飞机带女儿回家过年",
       "onboard_time": 1706713354,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258912,
+      "num": 258912,
+      "word": "离婚了彩礼还不还",
+      "onboard_time": 1706767349,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 256909,
@@ -691,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232203,
-      "num": 232203,
-      "word": "CCTV6大年初一首播长空之王",
-      "onboard_time": 1706764829,
+      "raw_hot": 231128,
+      "num": 231128,
+      "word": "菏泽干部",
+      "onboard_time": 1706766088,
       "rank": 23,
-      "category": "电影"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228509,
@@ -779,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198235,
+      "num": 198235,
+      "word": "多家快递公司辟谣网传春节停运时间",
+      "onboard_time": 1706765371,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196055,
       "num": 196055,
       "word": "粉丝为肖战原创贺岁曲",
@@ -793,6 +873,14 @@
       "onboard_time": 1706764113,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190527,
+      "num": 190527,
+      "word": "美甲店称过年费是加班费",
+      "onboard_time": 1706767949,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 190308,
@@ -825,6 +913,14 @@
       "onboard_time": 1706759790,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186037,
+      "num": 186037,
+      "word": "LOL开播送全英雄全皮肤",
+      "onboard_time": 1706767591,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 184044,
@@ -907,6 +1003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177425,
+      "num": 177425,
+      "word": "刘耀文 这边哈喽一下那边哈喽一下",
+      "onboard_time": 1706767706,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "坠亡姐弟外婆称心里会痛一辈子",
@@ -945,14 +1049,6 @@
       "onboard_time": 1706764592,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169502,
-      "num": 169502,
-      "word": "为什么高铁座椅没有E号",
-      "onboard_time": 1706765191,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 167143,
@@ -1107,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148715,
+      "num": 148715,
+      "word": "无期迷途杜若",
+      "onboard_time": 1706768428,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148642,
       "num": 148642,
       "word": "张译 这多少有点冒昧了",
@@ -1121,6 +1225,14 @@
       "onboard_time": 1706761414,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147008,
+      "num": 147008,
+      "word": "光与夜之恋蓝总管",
+      "onboard_time": 1706765730,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 146781,
@@ -1243,14 +1355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133251,
-      "num": 133251,
-      "word": "多家快递公司辟谣网传春节停运时间",
-      "onboard_time": 1706765371,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133007,
       "num": 133007,
       "word": "饼干人王国冰霜女王",
@@ -1347,6 +1451,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 124900,
+      "num": 124900,
+      "word": "春晚小品混剪 来对暗号",
+      "onboard_time": 1706768071,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121043,
       "num": 121043,
       "word": "上班的三个阶段",
@@ -1355,12 +1467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120014,
+      "num": 120014,
+      "word": "纪委回应干部同时出轨多名女性",
+      "onboard_time": 1706766630,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119986,
       "num": 156053,
       "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
       "onboard_time": 1706704112,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119973,
+      "num": 119973,
+      "word": "周鸿祎称掼蛋对社交很重要",
+      "onboard_time": 1706768131,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 117272,
@@ -1441,6 +1569,14 @@
       "onboard_time": 1706706993,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101584,
+      "num": 101584,
+      "word": "NCT127 澳门",
+      "onboard_time": 1706768548,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 97736,
@@ -1564,7 +1700,7 @@
     },
     {
       "raw_hot": 49086,
-      "num": 125593,
+      "num": 270207,
       "word": "蛋仔新春爆料",
       "onboard_time": 1706765552,
       "rank": 47,
@@ -1599,6 +1735,14 @@
       "num": 1160940,
       "word": "2024网络视听盛典阵容官宣",
       "onboard_time": 1706679395,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25004,
+      "num": 913758,
+      "word": "直播探访多地春运现场",
+      "onboard_time": 1706756012,
       "rank": 2,
       "category": "社会新闻"
     },
