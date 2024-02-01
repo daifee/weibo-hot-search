@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706829405139,
+  "endTime": 1706830448359,
   "band_list": [
     {
       "raw_hot": 924513,
@@ -27,12 +27,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532934,
+      "num": 532934,
+      "word": "河南大雪胖东来在门口给顾客身上扫雪",
+      "onboard_time": 1706805984,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520159,
       "num": 296381,
       "word": "韩菱纱身亡",
       "onboard_time": 1706785593,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445524,
+      "num": 445524,
+      "word": "鲁AK66M7",
+      "onboard_time": 1706778871,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441204,
+      "num": 441204,
+      "word": "张庭 我都没去过这个楼盘",
+      "onboard_time": 1706809821,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 409817,
@@ -43,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404591,
-      "num": 404591,
-      "word": "鲁AK66M7",
-      "onboard_time": 1706778871,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383720,
       "num": 129179,
       "word": "现在预制菜都这么齐全了吗",
@@ -59,20 +75,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 365807,
-      "num": 365807,
-      "word": "河南大雪胖东来在门口给顾客身上扫雪",
-      "onboard_time": 1706805984,
-      "rank": 19,
+      "raw_hot": 356261,
+      "num": 356261,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359887,
-      "num": 359887,
-      "word": "张庭 我都没去过这个楼盘",
-      "onboard_time": 1706809821,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 354995,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313344,
+      "num": 313344,
+      "word": "小年",
+      "onboard_time": 1706829142,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299937,
       "num": 299937,
       "word": "赵今麦 真甜妹来了",
@@ -121,6 +137,14 @@
       "onboard_time": 1706803408,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 292006,
+      "num": 292006,
+      "word": "这是今天的杭州东站",
+      "onboard_time": 1706823555,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285925,
@@ -155,22 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253390,
-      "num": 253390,
-      "word": "高铁算是把用户需求整明白了",
-      "onboard_time": 1706808622,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236231,
-      "num": 146390,
-      "word": "这是今天的杭州东站",
-      "onboard_time": 1706823555,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235196,
       "num": 127673,
       "word": "男子嫌老婆花钱多看到购物袋后破防",
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232935,
+      "num": 124237,
+      "word": "内裤穿多久扔掉最合适",
+      "onboard_time": 1706830163,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 221604,
       "num": 126898,
       "word": "第一次带女朋友回家有多夸张",
       "onboard_time": 1706799512,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217828,
+      "num": 217828,
+      "word": "乱港艺人王宗尧暴动罪成立",
+      "onboard_time": 1706811740,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 197741,
@@ -211,19 +235,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172184,
-      "num": 172184,
-      "word": "乱港艺人王宗尧暴动罪成立",
-      "onboard_time": 1706811740,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171902,
-      "num": 171902,
-      "word": "小年",
-      "onboard_time": 1706829142,
-      "rank": 7,
+      "raw_hot": 164854,
+      "num": 164854,
+      "word": "生肖属龙或姓龙游客可免费游龙游",
+      "onboard_time": 1706828601,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -251,12 +267,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136824,
+      "num": 136824,
+      "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+      "onboard_time": 1706830106,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136156,
       "num": 136156,
       "word": "熬夜后吃护肝片或增加肝损伤",
       "onboard_time": 1706814076,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134979,
+      "num": 134979,
+      "word": "狼队3比4曼联",
+      "onboard_time": 1706829262,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 129573,
@@ -305,6 +337,14 @@
       "onboard_time": 1706807364,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105708,
+      "num": 105708,
+      "word": "法越馨再拍肖战",
+      "onboard_time": 1706825417,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 104036,
@@ -363,12 +403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91608,
-      "num": 91608,
-      "word": "狼队3比4曼联",
-      "onboard_time": 1706829262,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 92073,
+      "num": 92073,
+      "word": "1对新人用8串真香蕉装饰宝马婚车",
+      "onboard_time": 1706822775,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91186,
@@ -411,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83240,
-      "num": 83240,
-      "word": "法越馨再拍肖战",
-      "onboard_time": 1706825417,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83078,
       "num": 83078,
       "word": "章昊唱屋顶着火",
@@ -459,20 +491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77408,
+      "num": 72575,
+      "word": "美方承认几十年来改变中国的努力都没有成功",
+      "onboard_time": 1706830106,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76164,
       "num": 76164,
       "word": "宋伊人圈内人缘",
       "onboard_time": 1706792313,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72897,
-      "num": 72897,
-      "word": "1对新人用8串真香蕉装饰宝马婚车",
-      "onboard_time": 1706822775,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69243,
@@ -499,12 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62995,
-      "num": 62995,
-      "word": "生肖属龙或姓龙游客可免费游龙游",
-      "onboard_time": 1706828601,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 63649,
+      "num": 63649,
+      "word": "龙年专属福字",
+      "onboard_time": 1706830106,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63314,
+      "num": 63314,
+      "word": "利雅得胜利6比0迈阿密国际",
+      "onboard_time": 1706830163,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 62205,
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59183,
+      "num": 59183,
+      "word": "A股春节休市10天",
+      "onboard_time": 1706830163,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
@@ -531,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44291,
-      "num": 44291,
+      "raw_hot": 48097,
+      "num": 48097,
       "word": "这种蔬菜的含钙量约是牛奶的3倍",
       "onboard_time": 1706821036,
       "rank": 34,
@@ -555,7 +603,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32681,
+      "raw_hot": 32880,
       "num": 459767,
       "word": "在中国这样玩",
       "onboard_time": 1706791832,

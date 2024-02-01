@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706829405139,
+  "endTime": 1706830448359,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532934,
+      "num": 532934,
+      "word": "河南大雪胖东来在门口给顾客身上扫雪",
+      "onboard_time": 1706805984,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529598,
       "num": 529598,
       "word": "美甲问价后不敢回复了",
@@ -736,6 +744,14 @@
       "word": "赵丽颖公司取得演出经纪许可",
       "onboard_time": 1706771310,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 441204,
+      "num": 441204,
+      "word": "张庭 我都没去过这个楼盘",
+      "onboard_time": 1706809821,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -939,14 +955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 365807,
-      "num": 365807,
-      "word": "河南大雪胖东来在门口给顾客身上扫雪",
-      "onboard_time": 1706805984,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364997,
       "num": 419972,
       "word": "多面吴谢宇",
@@ -987,12 +995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359887,
-      "num": 359887,
-      "word": "张庭 我都没去过这个楼盘",
-      "onboard_time": 1706809821,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 356261,
+      "num": 356261,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354208,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1706725339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313344,
+      "num": 313344,
+      "word": "小年",
+      "onboard_time": 1706829142,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313213,
@@ -1251,6 +1267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292006,
+      "num": 292006,
+      "word": "这是今天的杭州东站",
+      "onboard_time": 1706823555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1706753309,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253390,
-      "num": 253390,
-      "word": "高铁算是把用户需求整明白了",
-      "onboard_time": 1706808622,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253009,
@@ -1475,14 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236231,
-      "num": 146390,
-      "word": "这是今天的杭州东站",
-      "onboard_time": 1706823555,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235831,
       "num": 235831,
       "word": "95后为升职加薪开始社牛式比拼",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1706777369,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232935,
+      "num": 124237,
+      "word": "内裤穿多久扔掉最合适",
+      "onboard_time": 1706830163,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 232316,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1706753192,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 217828,
+      "num": 217828,
+      "word": "乱港艺人王宗尧暴动罪成立",
+      "onboard_time": 1706811740,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 216940,
@@ -2115,28 +2139,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 172184,
-      "num": 172184,
-      "word": "乱港艺人王宗尧暴动罪成立",
-      "onboard_time": 1706811740,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171951,
       "num": 171951,
       "word": "C罗腿部肌肉撕裂",
       "onboard_time": 1706771791,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171902,
-      "num": 171902,
-      "word": "小年",
-      "onboard_time": 1706829142,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171091,
@@ -2233,6 +2241,14 @@
       "onboard_time": 1706790633,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164854,
+      "num": 164854,
+      "word": "生肖属龙或姓龙游客可免费游龙游",
+      "onboard_time": 1706828601,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164460,
@@ -2691,6 +2707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 136824,
+      "num": 136824,
+      "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+      "onboard_time": 1706830106,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136774,
       "num": 136774,
       "word": "苹果最后一款带光驱的MBP停产",
@@ -2712,6 +2736,14 @@
       "word": "陈虹伊朱易晋级自由滑",
       "onboard_time": 1706765493,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134979,
+      "num": 134979,
+      "word": "狼队3比4曼联",
+      "onboard_time": 1706829262,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -3123,6 +3155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105708,
+      "num": 105708,
+      "word": "法越馨再拍肖战",
+      "onboard_time": 1706825417,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105416,
       "num": 105416,
       "word": "浙江香炉峰雨后日照云海生紫烟",
@@ -3219,20 +3259,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92073,
+      "num": 92073,
+      "word": "1对新人用8串真香蕉装饰宝马婚车",
+      "onboard_time": 1706822775,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92026,
       "num": 92026,
       "word": "王安宇 应该的姐夫",
       "onboard_time": 1706697569,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91608,
-      "num": 91608,
-      "word": "狼队3比4曼联",
-      "onboard_time": 1706829262,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 86388,
@@ -3275,14 +3315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83240,
-      "num": 83240,
-      "word": "法越馨再拍肖战",
-      "onboard_time": 1706825417,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82232,
       "num": 82232,
       "word": "邓为向涵之吻戏路透",
@@ -3315,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77408,
+      "num": 72575,
+      "word": "美方承认几十年来改变中国的努力都没有成功",
+      "onboard_time": 1706830106,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76555,
       "num": 351754,
       "word": "适合秋冬的高级香水",
@@ -3329,14 +3369,6 @@
       "onboard_time": 1706741840,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72897,
-      "num": 72897,
-      "word": "1对新人用8串真香蕉装饰宝马婚车",
-      "onboard_time": 1706822775,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72120,
@@ -3355,6 +3387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63649,
+      "num": 63649,
+      "word": "龙年专属福字",
+      "onboard_time": 1706830106,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63450,
       "num": 687985,
       "word": "春运安全出行天气地图",
@@ -3363,12 +3403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62995,
-      "num": 62995,
-      "word": "生肖属龙或姓龙游客可免费游龙游",
-      "onboard_time": 1706828601,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 63314,
+      "num": 63314,
+      "word": "利雅得胜利6比0迈阿密国际",
+      "onboard_time": 1706830163,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 62205,
@@ -3377,6 +3417,14 @@
       "onboard_time": 1706808742,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59183,
+      "num": 59183,
+      "word": "A股春节休市10天",
+      "onboard_time": 1706830163,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 58659,
@@ -3411,8 +3459,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44291,
-      "num": 44291,
+      "raw_hot": 48097,
+      "num": 48097,
       "word": "这种蔬菜的含钙量约是牛奶的3倍",
       "onboard_time": 1706821036,
       "rank": 34,
