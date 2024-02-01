@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706800596865,
+  "endTime": 1706801657416,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1540690,
+      "num": 1540690,
+      "word": "福建长乐2.1亿婚礼",
+      "onboard_time": 1706797952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1515306,
       "num": 1515306,
       "word": "官方通报女干部被曝不雅聊天",
@@ -128,14 +136,6 @@
       "word": "用氮气执行死刑",
       "onboard_time": 1706746228,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1277654,
-      "num": 1277654,
-      "word": "福建长乐2.1亿婚礼",
-      "onboard_time": 1706797952,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -595,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 523597,
+      "num": 523597,
+      "word": "帕梅拉 在高铁上健身",
+      "onboard_time": 1706798915,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 523064,
       "num": 523064,
       "word": "iPhone15Pro满意度下降",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471660,
+      "num": 471660,
+      "word": "孙千露腰了",
+      "onboard_time": 1706799215,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468448,
       "num": 468448,
       "word": "网红帮女生找到失散22年妈妈",
@@ -777,14 +793,6 @@
       "onboard_time": 1706770953,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 408526,
-      "num": 408526,
-      "word": "孙千露腰了",
-      "onboard_time": 1706799215,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 405918,
@@ -1003,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331840,
+      "num": 251119,
+      "word": "第一次带女朋友回家有多夸张",
+      "onboard_time": 1706799512,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331832,
       "num": 293477,
       "word": "不建议在江浙沪地区蹭席",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1706767413,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 306130,
-      "num": 306130,
-      "word": "帕梅拉 在高铁上健身",
-      "onboard_time": 1706798915,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 305863,
@@ -1412,7 +1420,7 @@
     },
     {
       "raw_hot": 236403,
-      "num": 190734,
+      "num": 198415,
       "word": "我妈说过年回去随便穿穿",
       "onboard_time": 1706799393,
       "rank": 30,
@@ -1593,14 +1601,6 @@
       "onboard_time": 1706778149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210009,
-      "num": 210009,
-      "word": "第一次带女朋友回家有多夸张",
-      "onboard_time": 1706799512,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 205831,
@@ -1953,6 +1953,14 @@
       "onboard_time": 1706756191,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179170,
+      "num": 179170,
+      "word": "易烊千玺阎青妤合照",
+      "onboard_time": 1706801613,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 178610,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1706754450,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120329,
+      "num": 120329,
+      "word": "首届春晚光看串场就能笑半宿",
+      "onboard_time": 1706800953,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 120014,
