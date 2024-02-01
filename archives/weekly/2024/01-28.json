@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706754387076,
+  "endTime": 1706755044406,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1635924,
+      "num": 1635924,
+      "word": "花130万帮女儿当网红2年没成功",
+      "onboard_time": 1706751331,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1631181,
       "num": 1631181,
       "word": "王安宇好多白头发",
@@ -305,14 +313,6 @@
       "onboard_time": 1706597673,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1535952,
-      "num": 1535952,
-      "word": "花130万帮女儿当网红2年没成功",
-      "onboard_time": 1706751331,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1534452,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1706418688,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 853226,
+      "num": 853226,
+      "word": "复旦教师杀害学院书记一审获死缓",
+      "onboard_time": 1706753791,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853213,
@@ -1843,6 +1851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 620968,
+      "num": 620968,
+      "word": "江歌妈妈谈重庆姐弟坠亡案",
+      "onboard_time": 1706753612,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620771,
       "num": 620771,
       "word": "董宇辉带货化妆品要砍掉贵的",
@@ -2376,14 +2392,6 @@
       "word": "今冬最强雨雪要来了",
       "onboard_time": 1706660249,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507508,
-      "num": 507508,
-      "word": "复旦教师杀害学院书记一审获死缓",
-      "onboard_time": 1706753791,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3339,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386369,
-      "num": 386369,
-      "word": "江歌妈妈谈重庆姐弟坠亡案",
-      "onboard_time": 1706753612,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386147,
       "num": 386147,
       "word": "10省将遭遇暴雪大暴雪",
@@ -3497,6 +3497,14 @@
       "onboard_time": 1706497707,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373805,
+      "num": 373805,
+      "word": "中戏13级 反派寝室",
+      "onboard_time": 1706753672,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373774,
@@ -3923,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331832,
+      "num": 293477,
+      "word": "不建议在江浙沪地区蹭席",
+      "onboard_time": 1706753791,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330306,
       "num": 330306,
       "word": "KPOP纯元",
@@ -3992,6 +4008,14 @@
       "word": "浙江发现H3N2与H10N5混合感染病例",
       "onboard_time": 1706674357,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321077,
+      "num": 321077,
+      "word": "快递停运时间",
+      "onboard_time": 1706754330,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4948,7 +4972,7 @@
     },
     {
       "raw_hot": 253658,
-      "num": 174127,
+      "num": 184365,
       "word": "闪耀暖暖抽卡",
       "onboard_time": 1706753309,
       "rank": 30,
@@ -4977,14 +5001,6 @@
       "onboard_time": 1706669912,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252454,
-      "num": 252454,
-      "word": "中戏13级 反派寝室",
-      "onboard_time": 1706753672,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251945,
@@ -5233,14 +5249,6 @@
       "onboard_time": 1706680170,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235180,
-      "num": 235180,
-      "word": "不建议在江浙沪地区蹭席",
-      "onboard_time": 1706753791,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 235166,
@@ -5603,6 +5611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218375,
+      "num": 218375,
+      "word": "特斯拉ModelY推出升级款",
+      "onboard_time": 1706753192,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 218309,
       "num": 218309,
       "word": "会说话的肘子 下本书主角按照王鹤棣写",
@@ -5891,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210706,
+      "num": 210706,
+      "word": "7成中国人可能是河南人",
+      "onboard_time": 1706754629,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210371,
       "num": 210371,
       "word": "董明珠为格力纳税176亿自豪",
@@ -6065,6 +6089,14 @@
       "onboard_time": 1706447910,
       "rank": 47,
       "category": "自然"
+    },
+    {
+      "raw_hot": 205761,
+      "num": 205761,
+      "word": "西宁动物园 缺经费不缺爱",
+      "onboard_time": 1706753434,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 205548,
@@ -6595,14 +6627,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192655,
-      "num": 174049,
-      "word": "西宁动物园 缺经费不缺爱",
-      "onboard_time": 1706753434,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 192162,
       "num": 192162,
       "word": "两个i人在乱用礼貌用语",
@@ -6889,6 +6913,14 @@
       "onboard_time": 1706672791,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184044,
+      "num": 184044,
+      "word": "奇迹暖暖",
+      "onboard_time": 1706754811,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 183969,
@@ -7201,14 +7233,6 @@
       "onboard_time": 1706680712,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174764,
-      "num": 174764,
-      "word": "特斯拉ModelY推出升级款",
-      "onboard_time": 1706753192,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 174726,
@@ -8899,6 +8923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136774,
+      "num": 136774,
+      "word": "苹果最后一款带光驱的MBP停产",
+      "onboard_time": 1706754570,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136424,
       "num": 136424,
       "word": "流浪的小狗遇到了心软的神",
@@ -9907,6 +9939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121043,
+      "num": 121043,
+      "word": "上班的三个阶段",
+      "onboard_time": 1706754450,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121042,
       "num": 121042,
       "word": "没点才艺真不敢结婚了",
@@ -10249,6 +10289,14 @@
       "onboard_time": 1706582127,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114776,
+      "num": 114776,
+      "word": "中国同23国全面互免签证",
+      "onboard_time": 1706754990,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114727,
@@ -10769,14 +10817,6 @@
       "onboard_time": 1706625452,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106141,
-      "num": 106141,
-      "word": "快递停运时间",
-      "onboard_time": 1706754330,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106070,

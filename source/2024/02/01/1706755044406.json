@@ -1,0 +1,410 @@
+{
+  "runTime": 1706755044406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1635924,
+        "num": 1635924,
+        "word": "花130万帮女儿当网红2年没成功",
+        "onboard_time": 1706751331,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1023390,
+        "num": 1023390,
+        "word": "车厘子打败砂糖橘成年货顶流",
+        "onboard_time": 1706748572,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 54561,
+        "num": 879581,
+        "word": "2月这些新规将要施行",
+        "onboard_time": 1706709153,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853226,
+        "num": 853226,
+        "word": "复旦教师杀害学院书记一审获死缓",
+        "onboard_time": 1706753791,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822101,
+        "num": 822101,
+        "word": "北大学姐说静夜思不是李白原作",
+        "onboard_time": 1706751812,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 620968,
+        "num": 620968,
+        "word": "江歌妈妈谈重庆姐弟坠亡案",
+        "onboard_time": 1706753612,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612788,
+        "num": 612788,
+        "word": "灵岩甩臀致直播间被封",
+        "onboard_time": 1706751090,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562516,
+        "num": 562516,
+        "word": "河南降雪致多趟火车停运",
+        "onboard_time": 1706751571,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520741,
+        "num": 520741,
+        "word": "王鸥复工",
+        "onboard_time": 1706744607,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511116,
+        "num": 511116,
+        "word": "iPhone15Pro满意度下降",
+        "onboard_time": 1706752288,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2040357,
+        "num": 494052,
+        "word": "执行死刑 三针注射",
+        "onboard_time": 1706744846,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525817,
+        "num": 489997,
+        "word": "用氮气执行死刑",
+        "onboard_time": 1706746228,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462363,
+        "num": 462363,
+        "word": "尿毒症是吃出来的",
+        "onboard_time": 1706712333,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373805,
+        "num": 373805,
+        "word": "中戏13级 反派寝室",
+        "onboard_time": 1706753672,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334633,
+        "num": 334633,
+        "word": "范丞丞吐槽吻戏不换地方拍",
+        "onboard_time": 1706745146,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321077,
+        "num": 321077,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 313725,
+        "num": 313725,
+        "word": "四川通报一学生在校坠亡",
+        "onboard_time": 1706750309,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313628,
+        "num": 313628,
+        "word": "纪思清结婚",
+        "onboard_time": 1706752531,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302252,
+        "num": 302252,
+        "word": "张煜东 你们恭喜错人了",
+        "onboard_time": 1706747068,
+        "rank": 18,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 300506,
+        "num": 300506,
+        "word": "嗓子疼",
+        "onboard_time": 1706750130,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331832,
+        "num": 293477,
+        "word": "不建议在江浙沪地区蹭席",
+        "onboard_time": 1706753791,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279397,
+        "num": 279397,
+        "word": "A股",
+        "onboard_time": 1706752288,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241173,
+        "num": 241173,
+        "word": "A股破净股比例超10%",
+        "onboard_time": 1706751150,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218375,
+        "num": 218375,
+        "word": "特斯拉ModelY推出升级款",
+        "onboard_time": 1706753192,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212496,
+        "num": 212496,
+        "word": "王安宇好多白头发",
+        "onboard_time": 1706708912,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210706,
+        "num": 210706,
+        "word": "7成中国人可能是河南人",
+        "onboard_time": 1706754629,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205761,
+        "num": 205761,
+        "word": "西宁动物园 缺经费不缺爱",
+        "onboard_time": 1706753434,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 204569,
+        "num": 204569,
+        "word": "女性要为生育付出多少代价",
+        "onboard_time": 1706744783,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "周星驰 金猪玉叶",
+        "onboard_time": 1706745386,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124482,
+        "num": 203045,
+        "word": "印度外长说不应害怕中国",
+        "onboard_time": 1706748212,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202453,
+        "num": 202453,
+        "word": "大侦探",
+        "onboard_time": 1706750012,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184365,
+        "num": 184365,
+        "word": "闪耀暖暖抽卡",
+        "onboard_time": 1706753309,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184044,
+        "num": 184044,
+        "word": "奇迹暖暖",
+        "onboard_time": 1706754811,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174130,
+        "num": 174130,
+        "word": "视力恢复手法",
+        "onboard_time": 1706748572,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156562,
+        "num": 156562,
+        "word": "在人间 辛芷蕾",
+        "onboard_time": 1706713294,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154609,
+        "num": 154609,
+        "word": "要结婚了才发现自己是小学学历",
+        "onboard_time": 1706710235,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151418,
+        "num": 151418,
+        "word": "张波叶诚尘一审互咬二审互助",
+        "onboard_time": 1706711072,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144802,
+        "num": 144802,
+        "word": "天天福",
+        "onboard_time": 1706752472,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136774,
+        "num": 136774,
+        "word": "苹果最后一款带光驱的MBP停产",
+        "onboard_time": 1706754570,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128519,
+        "num": 128519,
+        "word": "俄高官称千岛群岛属俄日本不满意可以切腹",
+        "onboard_time": 1706743344,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127954,
+        "num": 127954,
+        "word": "段奕宏张译参加活动像离异夫妻",
+        "onboard_time": 1706747251,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124975,
+        "num": 124975,
+        "word": "6大人8孩子吃火锅一起一氧化碳中毒",
+        "onboard_time": 1706733017,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121043,
+        "num": 121043,
+        "word": "上班的三个阶段",
+        "onboard_time": 1706754450,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120063,
+        "num": 120063,
+        "word": "网红帮女生找到失散22年妈妈",
+        "onboard_time": 1706716950,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 118937,
+        "num": 118937,
+        "word": "迪丽热巴红衣旧照",
+        "onboard_time": 1706712570,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117456,
+        "num": 117456,
+        "word": "男星粉丝多次发图被指滥用警徽",
+        "onboard_time": 1706725339,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114776,
+        "num": 114776,
+        "word": "中国同23国全面互免签证",
+        "onboard_time": 1706754990,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114453,
+        "num": 114453,
+        "word": "中国排名第五的大学",
+        "onboard_time": 1706709333,
+        "rank": 47,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 112496,
+        "num": 112496,
+        "word": "王安宇破碎感",
+        "onboard_time": 1706751269,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112184,
+        "num": 112184,
+        "word": "车厘子只看几个J谁买谁是大冤种",
+        "onboard_time": 1706709694,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年是实现十四五规划目标任务的关键一年#"
+    }
+  }
+}
