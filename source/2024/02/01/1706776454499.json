@@ -1,0 +1,410 @@
+{
+  "runTime": 1706776454499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257914,
+        "num": 1257914,
+        "word": "网红王大娟老公因胰腺癌去世",
+        "onboard_time": 1706772693,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1005772,
+        "num": 1005772,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75555,
+        "num": 704713,
+        "word": "重温经典频道开播",
+        "onboard_time": 1706771191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645425,
+        "num": 645425,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 595157,
+        "num": 595157,
+        "word": "真实胎动",
+        "onboard_time": 1706771249,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 541129,
+        "num": 541129,
+        "word": "日本2架客机发生碰撞",
+        "onboard_time": 1706771074,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507965,
+        "num": 507965,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497754,
+        "num": 497754,
+        "word": "仙剑四豆瓣开分4.2",
+        "onboard_time": 1706774310,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483449,
+        "num": 483449,
+        "word": "警方通报多人拿棍棒皮带抽打一男孩",
+        "onboard_time": 1706771610,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372824,
+        "num": 468649,
+        "word": "劝人多睡的医生自己在熬夜",
+        "onboard_time": 1706761773,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 863436,
+        "num": 466802,
+        "word": "汤兰兰",
+        "onboard_time": 1706768731,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458759,
+        "num": 458759,
+        "word": "西餐三大顶级食材价格已被国货打下来",
+        "onboard_time": 1706774428,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 423411,
+        "num": 423411,
+        "word": "kpop历代级美貌",
+        "onboard_time": 1706773531,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333506,
+        "num": 333506,
+        "word": "赵丽颖公司取得演出经纪许可",
+        "onboard_time": 1706771310,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319076,
+        "num": 319076,
+        "word": "金智秀BLACKPINK最富有成员",
+        "onboard_time": 1706766693,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300636,
+        "num": 300636,
+        "word": "男子见义勇为被砍4刀被救女孩拒作证",
+        "onboard_time": 1706773169,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298730,
+        "num": 298730,
+        "word": "为什么高铁座椅没有E号",
+        "onboard_time": 1706765191,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 280410,
+        "num": 280410,
+        "word": "A股IPO排队企业681家",
+        "onboard_time": 1706772270,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271099,
+        "num": 271099,
+        "word": "韩国瑜当选台立法机构负责人",
+        "onboard_time": 1706767048,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264011,
+        "num": 264011,
+        "word": "蒋龙当王新军面喊一璐平安",
+        "onboard_time": 1706775628,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287137,
+        "num": 263669,
+        "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
+        "onboard_time": 1706772087,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262115,
+        "num": 262115,
+        "word": "离婚了彩礼还不还",
+        "onboard_time": 1706767349,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248372,
+        "num": 248372,
+        "word": "美甲店称过年费是加班费",
+        "onboard_time": 1706767949,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225829,
+        "num": 225829,
+        "word": "韩国人把柠檬做成糖葫芦",
+        "onboard_time": 1706774909,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218866,
+        "num": 218866,
+        "word": "马丽 我看着都挺像原配",
+        "onboard_time": 1706767413,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218211,
+        "num": 218211,
+        "word": "花130万帮女儿当网红2年没成功",
+        "onboard_time": 1706751331,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 31365,
+        "num": 206206,
+        "word": "沈腾给家乡送年货",
+        "onboard_time": 1706775570,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205221,
+        "num": 205221,
+        "word": "Weverse中文版",
+        "onboard_time": 1706774909,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188917,
+        "num": 188917,
+        "word": "祈今朝豆瓣开分5.1",
+        "onboard_time": 1706775330,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185002,
+        "num": 185002,
+        "word": "多面吴谢宇",
+        "onboard_time": 1706769452,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321121,
+        "num": 184512,
+        "word": "台湾女星温翠苹遭当街家暴",
+        "onboard_time": 1706775570,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179369,
+        "num": 179369,
+        "word": "专家称散户是A股最宝贵财富",
+        "onboard_time": 1706772693,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173778,
+        "num": 173778,
+        "word": "车厘子为什么会红到发黑",
+        "onboard_time": 1706775212,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173639,
+        "num": 173639,
+        "word": "秦海璐向王新军介绍王安宇",
+        "onboard_time": 1706755588,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170291,
+        "num": 170291,
+        "word": "车厘子加了保鲜剂会吃坏肚子吗",
+        "onboard_time": 1706775150,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163147,
+        "num": 163147,
+        "word": "张庭发文澄清",
+        "onboard_time": 1706776112,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155522,
+        "num": 155522,
+        "word": "狗子凌晨去打架弄一身伤",
+        "onboard_time": 1706772870,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133285,
+        "num": 133285,
+        "word": "大侦探 播不播",
+        "onboard_time": 1706763395,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132988,
+        "num": 132988,
+        "word": "韩国瑜",
+        "onboard_time": 1706763872,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131915,
+        "num": 131915,
+        "word": "坐飞机偶遇鹿晗",
+        "onboard_time": 1706757751,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130912,
+        "num": 130912,
+        "word": "刘昊然去滑雪了",
+        "onboard_time": 1706773951,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122646,
+        "num": 122646,
+        "word": "李昀锐孟子义扯领子对视",
+        "onboard_time": 1706776289,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 119039,
+        "word": "12306回应遛娃车厢",
+        "onboard_time": 1706776227,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116878,
+        "num": 116878,
+        "word": "白鹿在片场好欢乐",
+        "onboard_time": 1706775628,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106936,
+        "num": 106936,
+        "word": "IU登顶2024韩国最富有女爱豆",
+        "onboard_time": 1706767472,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106158,
+        "num": 106158,
+        "word": "C罗腿部肌肉撕裂",
+        "onboard_time": 1706771791,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105725,
+        "num": 105725,
+        "word": "证券交易印花税1801亿元",
+        "onboard_time": 1706772870,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102221,
+        "num": 102221,
+        "word": "王安宇参加过明日之子2",
+        "onboard_time": 1706768669,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99859,
+        "num": 99859,
+        "word": "丁克家庭要给亲戚小孩红包吗",
+        "onboard_time": 1706765912,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96167,
+        "num": 96167,
+        "word": "CCTV6大年初一首播长空之王",
+        "onboard_time": 1706764829,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年是实现十四五规划目标任务的关键一年#"
+    }
+  }
+}
