@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706761289443,
+  "endTime": 1706762043274,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -217,6 +217,14 @@
       "onboard_time": 1706517931,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1716105,
+      "num": 1716105,
+      "word": "死刑注射前为啥还要消毒",
+      "onboard_time": 1706759855,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1652183,
@@ -523,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1274322,
-      "num": 1274322,
-      "word": "死刑注射前为啥还要消毒",
-      "onboard_time": 1706759855,
-      "rank": 1,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 1269616,
       "num": 1269616,
       "word": "恶心穿搭",
@@ -745,6 +745,14 @@
       "onboard_time": 1706418089,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1057568,
+      "num": 1057568,
+      "word": "原来公司真的会裁掉销冠",
+      "onboard_time": 1706760274,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 1055944,
@@ -1947,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 616223,
+      "num": 616223,
+      "word": "人民网评张波叶诚尘被执行死刑",
+      "onboard_time": 1706759972,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611119,
       "num": 611119,
       "word": "专家称猫打不过猴只能服从",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1706656581,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 557391,
-      "num": 557391,
-      "word": "人民网评张波叶诚尘被执行死刑",
-      "onboard_time": 1706759972,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556221,
@@ -2497,14 +2505,6 @@
       "onboard_time": 1706676937,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 500741,
-      "num": 500741,
-      "word": "原来公司真的会裁掉销冠",
-      "onboard_time": 1706760274,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 500581,
@@ -2888,6 +2888,14 @@
       "word": "陈戌源受贿案将择期宣判",
       "onboard_time": 1706519673,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448053,
+      "num": 448053,
+      "word": "干部被曝妻子怀孕时出轨多名女性",
+      "onboard_time": 1706761173,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3377,6 +3385,14 @@
       "onboard_time": 1706676937,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 391439,
+      "num": 391439,
+      "word": "财政部回应养老金担忧",
+      "onboard_time": 1706760392,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 391179,
@@ -4403,6 +4419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303867,
+      "num": 303867,
+      "word": "女子哈佛博士毕业后给豪门当家教",
+      "onboard_time": 1706758412,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302798,
       "num": 302798,
       "word": "杭州巨响",
@@ -4883,14 +4907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270603,
-      "num": 270603,
-      "word": "女子哈佛博士毕业后给豪门当家教",
-      "onboard_time": 1706758412,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270292,
       "num": 270292,
       "word": "快船打爆凯尔特人",
@@ -5081,14 +5097,6 @@
       "onboard_time": 1706510068,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255178,
-      "num": 255178,
-      "word": "财政部回应养老金担忧",
-      "onboard_time": 1706760392,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255001,
@@ -5539,6 +5547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229849,
+      "num": 229849,
+      "word": "张元英朴成训像一个团",
+      "onboard_time": 1706759312,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228926,
       "num": 228926,
       "word": "对方及时撤回了一双鞋",
@@ -5593,14 +5609,6 @@
       "onboard_time": 1706490987,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225795,
-      "num": 225795,
-      "word": "张元英朴成训像一个团",
-      "onboard_time": 1706759312,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224972,
@@ -6915,6 +6923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189228,
+      "num": 189228,
+      "word": "过年做美甲要注意4点",
+      "onboard_time": 1706761656,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 189093,
       "num": 183399,
       "word": "要久久爱开虐",
@@ -6985,6 +7001,14 @@
       "onboard_time": 1706397440,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186961,
+      "num": 186961,
+      "word": "这哪是弟弟这不仆人吗",
+      "onboard_time": 1706761051,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 186588,
@@ -7907,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161501,
+      "num": 213628,
+      "word": "2023年全国一般公共预算收入同比增长6.4%",
+      "onboard_time": 1706760453,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160910,
       "num": 160910,
       "word": "猫德学院手拿把掐狮子猫",
@@ -8507,14 +8539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149652,
-      "num": 206176,
-      "word": "2023年全国一般公共预算收入同比增长6.4%",
-      "onboard_time": 1706760453,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149552,
       "num": 123085,
       "word": "梦天拍热巴",
@@ -8577,6 +8601,14 @@
       "onboard_time": 1706663253,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148046,
+      "num": 148046,
+      "word": "鸭子穿越鸭群只为追上小猫",
+      "onboard_time": 1706761414,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 148029,
@@ -8819,14 +8851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143507,
-      "num": 143507,
-      "word": "这哪是弟弟这不仆人吗",
-      "onboard_time": 1706761051,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143066,
       "num": 143066,
       "word": "EVNNE初一位",
@@ -8905,6 +8929,14 @@
       "onboard_time": 1706710416,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 141701,
+      "num": 304177,
+      "word": "崩坏3第二部上线",
+      "onboard_time": 1706761173,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 141630,
@@ -9275,20 +9307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136203,
-      "num": 136203,
-      "word": "干部被曝妻子怀孕时出轨多名女性",
-      "onboard_time": 1706761173,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136076,
       "num": 136076,
       "word": "A股出现回购潮",
       "onboard_time": 1706704769,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135983,
+      "num": 135983,
+      "word": "劝人多睡的医生自己在熬夜",
+      "onboard_time": 1706761773,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135971,
@@ -11596,7 +11628,7 @@
     },
     {
       "raw_hot": 95380,
-      "num": 858103,
+      "num": 1265038,
       "word": "致敬每一个挺身而出的普通人",
       "onboard_time": 1706756369,
       "rank": 2,
@@ -11889,14 +11921,6 @@
       "onboard_time": 1706583208,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85282,
-      "num": 129712,
-      "word": "崩坏3第二部上线",
-      "onboard_time": 1706761173,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 85270,
@@ -12580,7 +12604,7 @@
     },
     {
       "raw_hot": 22239,
-      "num": 135157,
+      "num": 153469,
       "word": "到底是谁和周杰伦击了掌",
       "onboard_time": 1706759731,
       "rank": 46,
