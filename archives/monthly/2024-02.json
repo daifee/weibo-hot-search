@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706811637750,
+  "endTime": 1706812501314,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -1811,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189188,
+      "num": 94009,
+      "word": "张庭 我都没去过这个楼盘",
+      "onboard_time": 1706809821,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189066,
       "num": 189066,
       "word": "仙剑四",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1706795491,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180213,
-      "num": 94009,
-      "word": "张庭 我都没去过这个楼盘",
-      "onboard_time": 1706809821,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 180071,
@@ -3283,20 +3283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62205,
+      "num": 62205,
+      "word": "车厘子的正确吃法",
+      "onboard_time": 1706808742,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
       "onboard_time": 1706803050,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55504,
-      "num": 55504,
-      "word": "车厘子的正确吃法",
-      "onboard_time": 1706808742,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50413,
@@ -3379,8 +3379,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27814,
-      "num": 27814,
+      "raw_hot": 28993,
+      "num": 28993,
       "word": "高铁算是把用户需求整明白了",
       "onboard_time": 1706808622,
       "rank": 41,
@@ -3393,6 +3393,22 @@
       "onboard_time": 1706679395,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24294,
+      "num": 24294,
+      "word": "乱港艺人王宗尧暴动罪成立",
+      "onboard_time": 1706811740,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24021,
+      "num": 24021,
+      "word": "金道英生日卡",
+      "onboard_time": 1706812097,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22861,
