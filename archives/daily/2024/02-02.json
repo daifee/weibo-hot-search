@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706826836968,
+  "endTime": 1706829405139,
   "band_list": [
     {
       "raw_hot": 924513,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404591,
+      "num": 404591,
+      "word": "鲁AK66M7",
+      "onboard_time": 1706778871,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383720,
       "num": 129179,
       "word": "现在预制菜都这么齐全了吗",
@@ -51,12 +59,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 362065,
-      "num": 362065,
-      "word": "鲁AK66M7",
-      "onboard_time": 1706778871,
-      "rank": 5,
+      "raw_hot": 365807,
+      "num": 365807,
+      "word": "河南大雪胖东来在门口给顾客身上扫雪",
+      "onboard_time": 1706805984,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359887,
+      "num": 359887,
+      "word": "张庭 我都没去过这个楼盘",
+      "onboard_time": 1706809821,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 354995,
@@ -139,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253390,
+      "num": 253390,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236231,
+      "num": 146390,
+      "word": "这是今天的杭州东站",
+      "onboard_time": 1706823555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235196,
       "num": 127673,
       "word": "男子嫌老婆花钱多看到购物袋后破防",
@@ -179,19 +211,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189188,
-      "num": 156585,
-      "word": "张庭 我都没去过这个楼盘",
-      "onboard_time": 1706809821,
-      "rank": 10,
+      "raw_hot": 172184,
+      "num": 172184,
+      "word": "乱港艺人王宗尧暴动罪成立",
+      "onboard_time": 1706811740,
+      "rank": 43,
       "category": "艺人"
     },
     {
-      "raw_hot": 169813,
-      "num": 169813,
-      "word": "河南大雪胖东来在门口给顾客身上扫雪",
-      "onboard_time": 1706805984,
-      "rank": 19,
+      "raw_hot": 171902,
+      "num": 171902,
+      "word": "小年",
+      "onboard_time": 1706829142,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -217,6 +249,14 @@
       "onboard_time": 1706794954,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136156,
+      "num": 136156,
+      "word": "熬夜后吃护肝片或增加肝损伤",
+      "onboard_time": 1706814076,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129573,
@@ -275,14 +315,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 103822,
-      "num": 103822,
-      "word": "熬夜后吃护肝片或增加肝损伤",
-      "onboard_time": 1706814076,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 100703,
       "num": 100703,
       "word": "美甲问价后不敢回复了",
@@ -331,12 +363,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92831,
-      "num": 92831,
-      "word": "高铁算是把用户需求整明白了",
-      "onboard_time": 1706808622,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 91608,
+      "num": 91608,
+      "word": "狼队3比4曼联",
+      "onboard_time": 1706829262,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 91186,
@@ -379,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83240,
+      "num": 83240,
+      "word": "法越馨再拍肖战",
+      "onboard_time": 1706825417,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83078,
       "num": 83078,
       "word": "章昊唱屋顶着火",
@@ -395,12 +435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80204,
+      "num": 80204,
+      "word": "巴黎文旅出来解释下",
+      "onboard_time": 1706823976,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79675,
       "num": 79675,
       "word": "虞书欣许凯聊天 受伤的却是娜扎",
       "onboard_time": 1706792853,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78717,
+      "num": 78717,
+      "word": "日本裁判替代马宁担任第四官员",
+      "onboard_time": 1706818817,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 76164,
@@ -411,20 +467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72897,
+      "num": 72897,
+      "word": "1对新人用8串真香蕉装饰宝马婚车",
+      "onboard_time": 1706822775,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69243,
       "num": 76164,
       "word": "模仿高至霆做饭图",
       "onboard_time": 1706804070,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68088,
-      "num": 68088,
-      "word": "乱港艺人王宗尧暴动罪成立",
-      "onboard_time": 1706811740,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 65854,
@@ -443,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62995,
+      "num": 62995,
+      "word": "生肖属龙或姓龙游客可免费游龙游",
+      "onboard_time": 1706828601,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62205,
       "num": 62205,
       "word": "车厘子的正确吃法",
       "onboard_time": 1706808742,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61955,
-      "num": 25582,
-      "word": "这是今天的杭州东站",
-      "onboard_time": 1706823555,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61099,
@@ -475,20 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52356,
-      "num": 52356,
-      "word": "日本裁判替代马宁担任第四官员",
-      "onboard_time": 1706818817,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40914,
-      "num": 32133,
-      "word": "1对新人用8串真香蕉装饰宝马婚车",
-      "onboard_time": 1706822775,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 44291,
+      "num": 44291,
+      "word": "这种蔬菜的含钙量约是牛奶的3倍",
+      "onboard_time": 1706821036,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 39541,
@@ -515,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32351,
-      "num": 32351,
-      "word": "巴黎文旅出来解释下",
-      "onboard_time": 1706823976,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 28274,
-      "num": 28274,
-      "word": "法越馨再拍肖战",
-      "onboard_time": 1706825417,
-      "rank": 43,
+      "raw_hot": 28385,
+      "num": 31478,
+      "word": "Jennie对卡皮巴拉是真心的",
+      "onboard_time": 1706788110,
+      "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25029,
-      "num": 25029,
-      "word": "这种蔬菜的含钙量约是牛奶的3倍",
-      "onboard_time": 1706821036,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 24021,
