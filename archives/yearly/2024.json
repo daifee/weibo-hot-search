@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706793532676,
+  "endTime": 1706794440929,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1897912,
+      "num": 1897912,
+      "word": "成毅 张居正",
+      "onboard_time": 1706791294,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1897679,
       "num": 1897679,
       "word": "哈尔滨惊现15元1个小土豆挂件",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1704110681,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1873276,
-      "num": 1873276,
-      "word": "成毅 张居正",
-      "onboard_time": 1706791294,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 1872428,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706794440929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897912,
+        "num": 1897912,
+        "word": "成毅 张居正",
+        "onboard_time": 1706791294,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 998454,
+        "num": 998454,
+        "word": "李诞卖穿戴甲",
+        "onboard_time": 1706788412,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84186,
+        "num": 968750,
+        "word": "在中国这样玩",
+        "onboard_time": 1706791832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170155,
+        "num": 960089,
+        "word": "韩菱纱身亡",
+        "onboard_time": 1706785593,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 942430,
+        "num": 942430,
+        "word": "大S具俊晔23年前后合照对比",
+        "onboard_time": 1706791055,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010225,
+        "num": 890824,
+        "word": "官方通报女干部被曝不雅聊天",
+        "onboard_time": 1706786254,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664156,
+        "num": 664156,
+        "word": "女干部涉不雅聊天被免职",
+        "onboard_time": 1706789370,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577098,
+        "num": 577098,
+        "word": "宋伊人圈内人缘",
+        "onboard_time": 1706792313,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527767,
+        "num": 557009,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446409,
+        "num": 553111,
+        "word": "百里屠苏好久不见",
+        "onboard_time": 1706779412,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 791228,
+        "num": 552289,
+        "word": "男婴出生第2天脑梗死父亲一夜白头",
+        "onboard_time": 1706782532,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551278,
+        "num": 551278,
+        "word": "哇唧唧哇年会",
+        "onboard_time": 1706792793,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537880,
+        "num": 537880,
+        "word": "Selina产后代言收入达百万",
+        "onboard_time": 1706792373,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447812,
+        "num": 447812,
+        "word": "齐思钧赵昭仪芒果年会主持人",
+        "onboard_time": 1706790751,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369193,
+        "num": 369193,
+        "word": "夫妻各开一架飞机回家过年",
+        "onboard_time": 1706781514,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444816,
+        "num": 365894,
+        "word": "张艺谋说听障人士角色是赵丽颖的提议",
+        "onboard_time": 1706793333,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 404047,
+        "num": 364395,
+        "word": "陈都灵等车",
+        "onboard_time": 1706793512,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357372,
+        "num": 357372,
+        "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
+        "onboard_time": 1706793092,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321800,
+        "num": 321800,
+        "word": "杭州一女子高空杂技表演时坠落身亡",
+        "onboard_time": 1706786910,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291211,
+        "num": 291211,
+        "word": "美甲走起",
+        "onboard_time": 1706792133,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 383199,
+        "num": 290175,
+        "word": "张杰为女儿庆生",
+        "onboard_time": 1706789191,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327343,
+        "num": 288936,
+        "word": "王家卫连胡歌宣传期穿什么衣服都管",
+        "onboard_time": 1706787992,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287564,
+        "num": 287564,
+        "word": "美甲问价后不敢回复了",
+        "onboard_time": 1706782051,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237499,
+        "num": 237499,
+        "word": "汉密尔顿 法拉利",
+        "onboard_time": 1706789191,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210516,
+        "num": 210516,
+        "word": "男子嫌老婆花钱多看到购物袋后破防",
+        "onboard_time": 1706793154,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310881,
+        "num": 210383,
+        "word": "虞书欣许凯聊天 受伤的却是娜扎",
+        "onboard_time": 1706792853,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280445,
+        "num": 210248,
+        "word": "小S二女儿Lily晒旅游照",
+        "onboard_time": 1706790090,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212169,
+        "num": 210112,
+        "word": "宋雨琦章昊SuperLady",
+        "onboard_time": 1706790211,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209969,
+        "num": 209969,
+        "word": "现在预制菜都这么齐全了吗",
+        "onboard_time": 1706792313,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158237,
+        "num": 202495,
+        "word": "K4186全车一起救了个人",
+        "onboard_time": 1706786671,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 197474,
+        "num": 197474,
+        "word": "芒果年会",
+        "onboard_time": 1706792553,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195820,
+        "num": 195820,
+        "word": "Jennie对卡皮巴拉是真心的",
+        "onboard_time": 1706788110,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193883,
+        "num": 193883,
+        "word": "张艺谋夸刘耀文是电影脸",
+        "onboard_time": 1706791413,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174967,
+        "num": 174967,
+        "word": "男人的眼泪是女人的兴奋剂",
+        "onboard_time": 1706790391,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170192,
+        "num": 170192,
+        "word": "健康减肥后身体发生的变化",
+        "onboard_time": 1706793932,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188814,
+        "num": 169760,
+        "word": "慕容紫英结局",
+        "onboard_time": 1706794352,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180419,
+        "num": 169253,
+        "word": "鹿晗送粉丝黄金礼物",
+        "onboard_time": 1706787331,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186209,
+        "num": 168838,
+        "word": "陈哲远和云天河说再见",
+        "onboard_time": 1706793272,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168422,
+        "num": 168422,
+        "word": "完美世界",
+        "onboard_time": 1706793932,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168076,
+        "num": 168076,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1706779710,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152201,
+        "num": 152201,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151124,
+        "num": 151124,
+        "word": "湛江加塞奔驰车内监控曝光",
+        "onboard_time": 1706783851,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147619,
+        "num": 147619,
+        "word": "19层",
+        "onboard_time": 1706790029,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145526,
+        "num": 145526,
+        "word": "我妈是董明珠节目由王自如策划",
+        "onboard_time": 1706780013,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142455,
+        "num": 142455,
+        "word": "仙剑系列豆瓣评分",
+        "onboard_time": 1706789555,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140955,
+        "num": 140955,
+        "word": "花儿与少年RAP",
+        "onboard_time": 1706790573,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137017,
+        "num": 137017,
+        "word": "故宫你是懂壁纸的",
+        "onboard_time": 1706794231,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135922,
+        "num": 135922,
+        "word": "LNG 幽默",
+        "onboard_time": 1706790211,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133416,
+        "num": 133416,
+        "word": "扫福",
+        "onboard_time": 1706788531,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132063,
+        "num": 132063,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力扎实推进高质量发展#"
+    }
+  }
+}
