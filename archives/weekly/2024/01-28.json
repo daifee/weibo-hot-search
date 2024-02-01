@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706772839133,
+  "endTime": 1706775666556,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -585,6 +585,14 @@
       "onboard_time": 1706397380,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234201,
+      "num": 1234201,
+      "word": "网红王大娟老公因胰腺癌去世",
+      "onboard_time": 1706772693,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1232556,
@@ -1891,6 +1899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 634617,
+      "num": 634617,
+      "word": "日本2架客机发生碰撞",
+      "onboard_time": 1706771074,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632316,
       "num": 632316,
       "word": "董宇辉新账号直播间被指大规模抄袭",
@@ -2203,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 577820,
+      "num": 577820,
+      "word": "真实胎动",
+      "onboard_time": 1706771249,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 576755,
       "num": 576755,
       "word": "古茗 天官赐福",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1706445091,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 535653,
-      "num": 535653,
-      "word": "日本2架客机发生碰撞",
-      "onboard_time": 1706771074,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535121,
@@ -2923,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459366,
+      "num": 459366,
+      "word": "警方通报多人拿棍棒皮带抽打一男孩",
+      "onboard_time": 1706771610,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459085,
       "num": 459085,
       "word": "中国地质大学回应公示拟聘任处长之子",
@@ -3017,6 +3041,14 @@
       "onboard_time": 1706672551,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447269,
+      "num": 447269,
+      "word": "仙剑四豆瓣开分4.2",
+      "onboard_time": 1706774310,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 443498,
@@ -3523,12 +3555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390215,
+      "num": 390215,
+      "word": "西餐三大顶级食材价格已被国货打下来",
+      "onboard_time": 1706774428,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389630,
       "num": 389630,
       "word": "春晚 CP大聚会",
       "onboard_time": 1706444309,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388849,
+      "num": 388849,
+      "word": "kpop历代级美貌",
+      "onboard_time": 1706773531,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 388332,
@@ -4283,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323087,
+      "num": 250914,
+      "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
+      "onboard_time": 1706772087,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "恋与深空黎深 不如失序",
@@ -4587,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303128,
+      "num": 303128,
+      "word": "A股IPO排队企业681家",
+      "onboard_time": 1706772270,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302798,
       "num": 302798,
       "word": "杭州巨响",
@@ -4737,14 +4801,6 @@
       "onboard_time": 1706518827,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296425,
-      "num": 179167,
-      "word": "真实胎动",
-      "onboard_time": 1706771249,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 294098,
@@ -5211,14 +5267,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 261663,
-      "num": 261663,
-      "word": "警方通报多人拿棍棒皮带抽打一男孩",
-      "onboard_time": 1706771610,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261242,
       "num": 261242,
       "word": "2024年2月新规来了",
@@ -5257,14 +5305,6 @@
       "onboard_time": 1706713354,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258790,
-      "num": 258790,
-      "word": "网红王大娟老公因胰腺癌去世",
-      "onboard_time": 1706772693,
-      "rank": 17,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 258702,
@@ -5369,6 +5409,14 @@
       "onboard_time": 1706762372,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252977,
+      "num": 250459,
+      "word": "男子见义勇为被砍4刀被救女孩拒作证",
+      "onboard_time": 1706773169,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252968,
@@ -5857,14 +5905,6 @@
       "onboard_time": 1706576370,
       "rank": 22,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 224790,
-      "num": 224790,
-      "word": "A股IPO排队企业681家",
-      "onboard_time": 1706772270,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 224713,
@@ -6843,6 +6883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199338,
+      "num": 199338,
+      "word": "专家称散户是A股最宝贵财富",
+      "onboard_time": 1706772693,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199264,
       "num": 199264,
       "word": "张艺谋新剧",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1706685872,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197497,
+      "num": 197497,
+      "word": "Weverse中文版",
+      "onboard_time": 1706774909,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197347,
@@ -7611,14 +7667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180337,
-      "num": 180337,
-      "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
-      "onboard_time": 1706772087,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179916,
       "num": 179916,
       "word": "5省份将出现冻雨",
@@ -7939,6 +7987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171077,
+      "num": 171077,
+      "word": "韩国人把柠檬做成糖葫芦",
+      "onboard_time": 1706774909,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170849,
       "num": 170849,
       "word": "A股处于历史大底附近位置",
@@ -8089,6 +8145,14 @@
       "onboard_time": 1706353108,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165745,
+      "num": 165745,
+      "word": "狗子凌晨去打架弄一身伤",
+      "onboard_time": 1706772870,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 165685,
@@ -8609,6 +8673,14 @@
       "onboard_time": 1706669549,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155253,
+      "num": 155253,
+      "word": "刘昊然去滑雪了",
+      "onboard_time": 1706773951,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 155239,
@@ -9299,6 +9371,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142797,
+      "num": 142797,
+      "word": "祈今朝豆瓣开分5.1",
+      "onboard_time": 1706775330,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142589,
+      "num": 142589,
+      "word": "车厘子为什么会红到发黑",
+      "onboard_time": 1706775212,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142380,
       "num": 142380,
       "word": "一次性蛋糕盘可以折起来用",
@@ -9659,6 +9747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137907,
+      "num": 137907,
+      "word": "蒋龙当王新军面喊一璐平安",
+      "onboard_time": 1706775628,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137702,
       "num": 137702,
       "word": "猫咪是如何拒绝人类的",
@@ -9987,6 +10083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131946,
+      "num": 131946,
+      "word": "车厘子加了保鲜剂会吃坏肚子吗",
+      "onboard_time": 1706775150,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131886,
       "num": 131886,
       "word": "谷爱凌带伤参赛XGames",
@@ -10171,6 +10275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129952,
+      "num": 129952,
+      "word": "新疆一湖面如梦幻冰上森林",
+      "onboard_time": 1706774488,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129921,
       "num": 129921,
       "word": "但斌回应被客户起诉",
@@ -10305,6 +10417,14 @@
       "onboard_time": 1706692170,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "证券交易印花税1801亿元",
+      "onboard_time": 1706772870,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 128447,
@@ -10931,6 +11051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118970,
+      "num": 118970,
+      "word": "萧敬腾林有慧大露背预告",
+      "onboard_time": 1706774849,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118702,
       "num": 118702,
       "word": "李明德来了王锵也来了",
@@ -11025,14 +11153,6 @@
       "onboard_time": 1706421027,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116459,
-      "num": 116459,
-      "word": "专家称散户是A股最宝贵财富",
-      "onboard_time": 1706772693,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 116443,
@@ -11416,6 +11536,14 @@
       "word": "炎亚纶希望能做贡献社会的事",
       "onboard_time": 1706446111,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111323,
+      "num": 111323,
+      "word": "台湾女星温翠苹遭当街家暴",
+      "onboard_time": 1706775570,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -11891,6 +12019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101617,
+      "num": 101617,
+      "word": "小猫的嘴巴是o型的耶",
+      "onboard_time": 1706775027,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101509,
       "num": 101509,
       "word": "这是莽村来的大熊猫吧",
@@ -11961,6 +12097,14 @@
       "onboard_time": 1706538814,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100206,
+      "num": 100206,
+      "word": "白鹿在片场好欢乐",
+      "onboard_time": 1706775628,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 100168,
@@ -12052,7 +12196,7 @@
     },
     {
       "raw_hot": 96818,
-      "num": 556123,
+      "num": 656533,
       "word": "重温经典频道开播",
       "onboard_time": 1706771191,
       "rank": 2,
@@ -13089,6 +13233,14 @@
       "onboard_time": 1706385675,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26735,
+      "num": 106380,
+      "word": "沈腾给家乡送年货",
+      "onboard_time": 1706775570,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 26730,

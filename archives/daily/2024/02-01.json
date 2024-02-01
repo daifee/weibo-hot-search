@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706772839133,
+  "endTime": 1706775666556,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -81,6 +81,14 @@
       "onboard_time": 1706746228,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234201,
+      "num": 1234201,
+      "word": "网红王大娟老公因胰腺癌去世",
+      "onboard_time": 1706772693,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1176905,
@@ -235,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 634617,
+      "num": 634617,
+      "word": "日本2架客机发生碰撞",
+      "onboard_time": 1706771074,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628081,
       "num": 628081,
       "word": "韩国瑜当选台立法机构负责人",
@@ -275,6 +291,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 577820,
+      "num": 577820,
+      "word": "真实胎动",
+      "onboard_time": 1706771249,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 575455,
       "num": 575455,
       "word": "河南降雪致多趟火车停运",
@@ -297,14 +321,6 @@
       "onboard_time": 1706713294,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 535653,
-      "num": 535653,
-      "word": "日本2架客机发生碰撞",
-      "onboard_time": 1706771074,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 523064,
@@ -361,6 +377,22 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 459366,
+      "num": 459366,
+      "word": "警方通报多人拿棍棒皮带抽打一男孩",
+      "onboard_time": 1706771610,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447269,
+      "num": 447269,
+      "word": "仙剑四豆瓣开分4.2",
+      "onboard_time": 1706774310,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 441436,
@@ -425,6 +457,22 @@
       "onboard_time": 1706760392,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 390215,
+      "num": 390215,
+      "word": "西餐三大顶级食材价格已被国货打下来",
+      "onboard_time": 1706774428,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 388849,
+      "num": 388849,
+      "word": "kpop历代级美貌",
+      "onboard_time": 1706773531,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 387473,
@@ -595,6 +643,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 323087,
+      "num": 250914,
+      "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
+      "onboard_time": 1706772087,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319851,
       "num": 319851,
       "word": "A股破净股比例超10%",
@@ -659,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303128,
+      "num": 303128,
+      "word": "A股IPO排队企业681家",
+      "onboard_time": 1706772270,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302798,
       "num": 302798,
       "word": "杭州巨响",
@@ -673,14 +737,6 @@
       "onboard_time": 1706764173,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296425,
-      "num": 179167,
-      "word": "真实胎动",
-      "onboard_time": 1706771249,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 294634,
@@ -731,28 +787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261663,
-      "num": 261663,
-      "word": "警方通报多人拿棍棒皮带抽打一男孩",
-      "onboard_time": 1706771610,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259187,
       "num": 350467,
       "word": "男子开飞机带女儿回家过年",
       "onboard_time": 1706713354,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258790,
-      "num": 258790,
-      "word": "网红王大娟老公因胰腺癌去世",
-      "onboard_time": 1706772693,
-      "rank": 17,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 256909,
@@ -785,6 +825,14 @@
       "onboard_time": 1706762372,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252977,
+      "num": 250459,
+      "word": "男子见义勇为被砍4刀被救女孩拒作证",
+      "onboard_time": 1706773169,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252313,
@@ -867,14 +915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 224790,
-      "num": 224790,
-      "word": "A股IPO排队企业681家",
-      "onboard_time": 1706772270,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 222566,
       "num": 222566,
       "word": "重庆姐弟坠亡案",
@@ -955,12 +995,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199338,
+      "num": 199338,
+      "word": "专家称散户是A股最宝贵财富",
+      "onboard_time": 1706772693,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198235,
       "num": 198235,
       "word": "多家快递公司辟谣网传春节停运时间",
       "onboard_time": 1706765371,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197497,
+      "num": 197497,
+      "word": "Weverse中文版",
+      "onboard_time": 1706774909,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196055,
@@ -1067,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180337,
-      "num": 180337,
-      "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
-      "onboard_time": 1706772087,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179431,
       "num": 179431,
       "word": "第二十条新浪扫楼",
@@ -1163,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171077,
+      "num": 171077,
+      "word": "韩国人把柠檬做成糖葫芦",
+      "onboard_time": 1706774909,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169639,
       "num": 169639,
       "word": "灰太狼的妈妈",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1706759731,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165745,
+      "num": 165745,
+      "word": "狗子凌晨去打架弄一身伤",
+      "onboard_time": 1706772870,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 164460,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1706700629,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155253,
+      "num": 155253,
+      "word": "刘昊然去滑雪了",
+      "onboard_time": 1706773951,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 154956,
@@ -1419,6 +1491,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142797,
+      "num": 142797,
+      "word": "祈今朝豆瓣开分5.1",
+      "onboard_time": 1706775330,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142589,
+      "num": 142589,
+      "word": "车厘子为什么会红到发黑",
+      "onboard_time": 1706775212,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141701,
       "num": 304177,
       "word": "崩坏3第二部上线",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1706750188,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137907,
+      "num": 137907,
+      "word": "蒋龙当王新军面喊一璐平安",
+      "onboard_time": 1706775628,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137312,
@@ -1547,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131946,
+      "num": 131946,
+      "word": "车厘子加了保鲜剂会吃坏肚子吗",
+      "onboard_time": 1706775150,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131774,
       "num": 131774,
       "word": "雨雪冰冻来袭春运出行注意安全",
@@ -1603,11 +1707,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129952,
+      "num": 129952,
+      "word": "新疆一湖面如梦幻冰上森林",
+      "onboard_time": 1706774488,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129921,
       "num": 129921,
       "word": "但斌回应被客户起诉",
       "onboard_time": 1706757812,
       "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "证券交易印花税1801亿元",
+      "onboard_time": 1706772870,
+      "rank": 41,
       "category": "财经"
     },
     {
@@ -1667,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118970,
+      "num": 118970,
+      "word": "萧敬腾林有慧大露背预告",
+      "onboard_time": 1706774849,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117959,
       "num": 117959,
       "word": "广东GDP连续35年居首",
@@ -1681,14 +1809,6 @@
       "onboard_time": 1706706514,
       "rank": 37,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 116459,
-      "num": 116459,
-      "word": "专家称散户是A股最宝贵财富",
-      "onboard_time": 1706772693,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 116242,
@@ -1721,6 +1841,14 @@
       "onboard_time": 1706703272,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111323,
+      "num": 111323,
+      "word": "台湾女星温翠苹遭当街家暴",
+      "onboard_time": 1706775570,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 111068,
@@ -1763,6 +1891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101617,
+      "num": 101617,
+      "word": "小猫的嘴巴是o型的耶",
+      "onboard_time": 1706775027,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100206,
+      "num": 100206,
+      "word": "白鹿在片场好欢乐",
+      "onboard_time": 1706775628,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97736,
       "num": 97736,
       "word": "鹿emoji",
@@ -1780,7 +1924,7 @@
     },
     {
       "raw_hot": 96818,
-      "num": 556123,
+      "num": 656533,
       "word": "重温经典频道开播",
       "onboard_time": 1706771191,
       "rank": 2,
@@ -1945,6 +2089,14 @@
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26735,
+      "num": 106380,
+      "word": "沈腾给家乡送年货",
+      "onboard_time": 1706775570,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 25104,
