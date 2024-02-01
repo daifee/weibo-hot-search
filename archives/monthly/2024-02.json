@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706807863831,
+  "endTime": 1706808823706,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -1227,8 +1227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282262,
-      "num": 241491,
+      "raw_hot": 292021,
+      "num": 292021,
       "word": "艾滋病为何老龄化",
       "onboard_time": 1706803408,
       "rank": 21,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1706776289,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169813,
+      "num": 169813,
+      "word": "河南大雪胖东来在门口给顾客身上扫雪",
+      "onboard_time": 1706805984,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169639,
@@ -3051,6 +3059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108315,
+      "num": 108315,
+      "word": "周鸿祎建议刘德华转行当网红",
+      "onboard_time": 1706807364,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107853,
       "num": 107853,
       "word": "EDG官宣Thesnake上调",
@@ -3075,14 +3091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102768,
-      "num": 102768,
-      "word": "河南大雪胖东来在门口给顾客身上扫雪",
-      "onboard_time": 1706805984,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102258,
       "num": 102258,
       "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
@@ -3097,14 +3105,6 @@
       "onboard_time": 1706775027,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99250,
-      "num": 99250,
-      "word": "周鸿祎建议刘德华转行当网红",
-      "onboard_time": 1706807364,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 97736,
@@ -3323,6 +3323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35815,
+      "num": 38997,
+      "word": "韩菱纱结局",
+      "onboard_time": 1706807962,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34020,
       "num": 206206,
       "word": "沈腾给家乡送年货",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1706756012,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31242,
+      "num": 38974,
+      "word": "车厘子的正确吃法",
+      "onboard_time": 1706808742,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30602,
