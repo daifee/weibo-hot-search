@@ -1,0 +1,410 @@
+{
+  "runTime": 1706822162991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 96591,
+        "num": 96591,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69896,
+        "num": 69896,
+        "word": "熬夜后吃护肝片或增加肝损伤",
+        "onboard_time": 1706814076,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 8295,
+        "num": 62099,
+        "word": "在中国这样玩",
+        "onboard_time": 1706791832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54736,
+        "num": 54736,
+        "word": "张庭 我都没去过这个楼盘",
+        "onboard_time": 1706809821,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48313,
+        "num": 48313,
+        "word": "高铁算是把用户需求整明白了",
+        "onboard_time": 1706808622,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44695,
+        "num": 44695,
+        "word": "河南大雪胖东来在门口给顾客身上扫雪",
+        "onboard_time": 1706805984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44298,
+        "num": 44298,
+        "word": "艾滋病为何老龄化",
+        "onboard_time": 1706803408,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43977,
+        "num": 43977,
+        "word": "大S具俊晔23年前后合照对比",
+        "onboard_time": 1706791055,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36647,
+        "num": 36647,
+        "word": "张佳宁演累了吧让我去演",
+        "onboard_time": 1706805147,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35945,
+        "num": 35945,
+        "word": "乱港艺人王宗尧暴动罪成立",
+        "onboard_time": 1706811740,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50863,
+        "num": 35038,
+        "word": "男婴出生第2天脑梗死父亲一夜白头",
+        "onboard_time": 1706782532,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32559,
+        "num": 32559,
+        "word": "李诞卖穿戴甲",
+        "onboard_time": 1706788412,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30026,
+        "num": 30026,
+        "word": "日本裁判替代马宁担任第四官员",
+        "onboard_time": 1706818817,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29931,
+        "num": 29931,
+        "word": "百里屠苏好久不见",
+        "onboard_time": 1706779412,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28811,
+        "num": 28811,
+        "word": "成毅 张居正",
+        "onboard_time": 1706791294,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27818,
+        "num": 27818,
+        "word": "车厘子的正确吃法",
+        "onboard_time": 1706808742,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27801,
+        "num": 27801,
+        "word": "孙千露腰了",
+        "onboard_time": 1706799215,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27110,
+        "num": 27110,
+        "word": "韩菱纱身亡",
+        "onboard_time": 1706785593,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23596,
+        "num": 23596,
+        "word": "河南暴雪有人在高速堵车超10公里",
+        "onboard_time": 1706795611,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21496,
+        "num": 21496,
+        "word": "汉密尔顿 法拉利",
+        "onboard_time": 1706789191,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50325,
+        "num": 20836,
+        "word": "现在预制菜都这么齐全了吗",
+        "onboard_time": 1706792313,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32536,
+        "num": 20465,
+        "word": "男子嫌老婆花钱多看到购物袋后破防",
+        "onboard_time": 1706793154,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18907,
+        "num": 18907,
+        "word": "赵今麦 真甜妹来了",
+        "onboard_time": 1706796873,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17596,
+        "num": 17596,
+        "word": "K4186全车一起救了个人",
+        "onboard_time": 1706786671,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 17595,
+        "num": 17595,
+        "word": "我妈说过年回去随便穿穿",
+        "onboard_time": 1706799393,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17541,
+        "num": 17541,
+        "word": "Selina产后代言收入达百万",
+        "onboard_time": 1706792373,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16184,
+        "num": 16184,
+        "word": "美甲问价后不敢回复了",
+        "onboard_time": 1706782051,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15945,
+        "num": 15945,
+        "word": "Fly 不要气馁兄弟们下场赢回来",
+        "onboard_time": 1706799512,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15649,
+        "num": 15649,
+        "word": "第一次带女朋友回家有多夸张",
+        "onboard_time": 1706799512,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15156,
+        "num": 15156,
+        "word": "哇唧唧哇年会",
+        "onboard_time": 1706792793,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14925,
+        "num": 14925,
+        "word": "周鸿祎建议刘德华转行当网红",
+        "onboard_time": 1706807364,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 14672,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14253,
+        "num": 14253,
+        "word": "小S二女儿Lily晒旅游照",
+        "onboard_time": 1706790090,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14035,
+        "num": 14035,
+        "word": "夫妻各开一架飞机回家过年",
+        "onboard_time": 1706781514,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13586,
+        "num": 13586,
+        "word": "这种蔬菜的含钙量约是牛奶的3倍",
+        "onboard_time": 1706821036,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13559,
+        "num": 13559,
+        "word": "卜冠今回应造型争议",
+        "onboard_time": 1706796813,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13445,
+        "num": 13445,
+        "word": "女生真的有自己的洗头规划",
+        "onboard_time": 1706794954,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13117,
+        "num": 13117,
+        "word": "帕梅拉 在高铁上健身",
+        "onboard_time": 1706798915,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12790,
+        "num": 12790,
+        "word": "杭州一女子高空杂技表演时坠落身亡",
+        "onboard_time": 1706786910,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12653,
+        "num": 12653,
+        "word": "故宫你是懂壁纸的",
+        "onboard_time": 1706794231,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 12455,
+        "num": 12455,
+        "word": "齐思钧赵昭仪芒果年会主持人",
+        "onboard_time": 1706790751,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11975,
+        "num": 11975,
+        "word": "健康减肥后身体发生的变化",
+        "onboard_time": 1706793932,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 11833,
+        "num": 11833,
+        "word": "陈都灵等车",
+        "onboard_time": 1706793512,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11829,
+        "num": 11829,
+        "word": "易烊千玺阎青妤合照",
+        "onboard_time": 1706801613,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11661,
+        "num": 11661,
+        "word": "许凯说胡歌是颜霸",
+        "onboard_time": 1706819537,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10932,
+        "num": 11660,
+        "word": "加快发展新质生产力",
+        "onboard_time": 1706821335,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10791,
+        "num": 11659,
+        "word": "一吹冷风就流鼻涕其实是鼻炎",
+        "onboard_time": 1706820436,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10703,
+        "num": 11658,
+        "word": "Scout 阿卡丽",
+        "onboard_time": 1706797231,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10677,
+        "num": 11658,
+        "word": "檀健次剧组日常",
+        "onboard_time": 1706802091,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10368,
+        "num": 11656,
+        "word": "回南天 独属南方人的中式怪谈",
+        "onboard_time": 1706814737,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}
