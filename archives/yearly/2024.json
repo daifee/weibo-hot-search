@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706762043274,
+  "endTime": 1706764603926,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1363,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1965796,
+      "num": 1965796,
+      "word": "干部被曝妻子怀孕时出轨多名女性",
+      "onboard_time": 1706761173,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1962027,
       "num": 1962027,
       "word": "徐娇赵晴微信都没有",
@@ -2387,20 +2395,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1617854,
-      "num": 1617854,
-      "word": "这居然是董子健",
-      "onboard_time": 1705065090,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1617445,
-      "num": 1617445,
-      "word": "5天快速掉10斤的减脂餐",
-      "onboard_time": 1705815626,
-      "rank": 8,
-      "category": "美食"
+      "raw_hot": 1621164,
+      "num": 1621164,
+      "word": "原来公司真的会裁掉销冠",
+      "onboard_time": 1706760274,
+      "rank": 12,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

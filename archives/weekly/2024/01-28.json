@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706762043274,
+  "endTime": 1706764603926,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -128,6 +128,14 @@
       "word": "奔驰车主加塞砸车被拘10日",
       "onboard_time": 1706689413,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1965796,
+      "num": 1965796,
+      "word": "干部被曝妻子怀孕时出轨多名女性",
+      "onboard_time": 1706761173,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -273,6 +281,14 @@
       "onboard_time": 1706570361,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1621164,
+      "num": 1621164,
+      "word": "原来公司真的会裁掉销冠",
+      "onboard_time": 1706760274,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 1596357,
@@ -745,14 +761,6 @@
       "onboard_time": 1706418089,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1057568,
-      "num": 1057568,
-      "word": "原来公司真的会裁掉销冠",
-      "onboard_time": 1706760274,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 1055944,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1706706993,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678794,
+      "num": 678794,
+      "word": "劝人多睡的医生自己在熬夜",
+      "onboard_time": 1706761773,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 674461,
@@ -2891,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448053,
-      "num": 448053,
-      "word": "干部被曝妻子怀孕时出轨多名女性",
-      "onboard_time": 1706761173,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448045,
       "num": 448045,
       "word": "证监会全面暂停限售股出借",
@@ -2921,6 +2929,14 @@
       "onboard_time": 1706672551,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444200,
+      "num": 444200,
+      "word": "大侦探 播不播",
+      "onboard_time": 1706763395,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 443498,
@@ -3531,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381627,
+      "num": 381627,
+      "word": "仙剑四大结局",
+      "onboard_time": 1706762673,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381553,
       "num": 381553,
       "word": "难怪有故人之姿 原来是故人之子",
@@ -4027,6 +4051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 335976,
+      "num": 335976,
+      "word": "朱丹官宣加盟最强大脑",
+      "onboard_time": 1706763454,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335632,
       "num": 335632,
       "word": "要久久爱破万",
@@ -4073,6 +4105,14 @@
       "onboard_time": 1706753791,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331189,
+      "num": 331189,
+      "word": "过年做美甲要注意4点",
+      "onboard_time": 1706761656,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 330306,
@@ -5083,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255676,
+      "num": 255676,
+      "word": "张元英朴成训像一个团",
+      "onboard_time": 1706759312,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255242,
       "num": 255242,
       "word": "小时候以为在写字楼办公很高级",
@@ -5147,12 +5195,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 253009,
+      "num": 253009,
+      "word": "这下谁分得清大学生和小学生啊",
+      "onboard_time": 1706762372,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252968,
       "num": 216469,
       "word": "大部分情侣看似亲密",
       "onboard_time": 1706669912,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252898,
+      "num": 252898,
+      "word": "湖南卫视春晚阵容",
+      "onboard_time": 1706763935,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 252313,
@@ -5201,6 +5265,14 @@
       "onboard_time": 1706692472,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250249,
+      "num": 250249,
+      "word": "韩国瑜",
+      "onboard_time": 1706763872,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250222,
@@ -5547,14 +5619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229849,
-      "num": 229849,
-      "word": "张元英朴成训像一个团",
-      "onboard_time": 1706759312,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 228926,
       "num": 228926,
       "word": "对方及时撤回了一双鞋",
@@ -5585,6 +5649,14 @@
       "onboard_time": 1706539174,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227565,
+      "num": 227565,
+      "word": "其实追星比恋爱更无害",
+      "onboard_time": 1706764173,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 227298,
@@ -6483,6 +6555,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 201985,
+      "num": 201985,
+      "word": "吴彤王一博龙年特定合作曲",
+      "onboard_time": 1706763634,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201969,
       "num": 201969,
       "word": "原神4.4",
@@ -6755,6 +6835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194501,
+      "num": 194501,
+      "word": "刘耀文你别扣手了",
+      "onboard_time": 1706764113,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194480,
       "num": 194480,
       "word": "你也有今天番外",
@@ -6921,14 +7009,6 @@
       "onboard_time": 1706595754,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189228,
-      "num": 189228,
-      "word": "过年做美甲要注意4点",
-      "onboard_time": 1706761656,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 189093,
@@ -7187,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182187,
+      "num": 182187,
+      "word": "粉丝为肖战原创贺岁曲",
+      "onboard_time": 1706764352,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182182,
       "num": 182182,
       "word": "IU概念照",
@@ -7353,6 +7441,14 @@
       "onboard_time": 1706627732,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177733,
+      "num": 177733,
+      "word": "黄子韬成立科技新公司",
+      "onboard_time": 1706764052,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 177452,
@@ -9083,6 +9179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "龙年限定系列皮肤龙祐千载",
+      "onboard_time": 1706763214,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139654,
       "num": 139654,
       "word": "宁德时代涨近7%",
@@ -9313,14 +9417,6 @@
       "onboard_time": 1706704769,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135983,
-      "num": 135983,
-      "word": "劝人多睡的医生自己在熬夜",
-      "onboard_time": 1706761773,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135971,
@@ -9721,6 +9817,14 @@
       "onboard_time": 1706367272,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129924,
+      "num": 129924,
+      "word": "灰太狼的妈妈",
+      "onboard_time": 1706764592,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 129921,
@@ -11628,7 +11732,7 @@
     },
     {
       "raw_hot": 95380,
-      "num": 1265038,
+      "num": 1430534,
       "word": "致敬每一个挺身而出的普通人",
       "onboard_time": 1706756369,
       "rank": 2,
@@ -12057,6 +12161,14 @@
       "onboard_time": 1706569341,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 78147,
+      "num": 357641,
+      "word": "羡慕长沙打工人的精神状态",
+      "onboard_time": 1706763634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77378,

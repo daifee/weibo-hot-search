@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706762043274,
+  "endTime": 1706764603926,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -8,6 +8,14 @@
       "word": "执行死刑 三针注射",
       "onboard_time": 1706744846,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1965796,
+      "num": 1965796,
+      "word": "干部被曝妻子怀孕时出轨多名女性",
+      "onboard_time": 1706761173,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1706751331,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1621164,
+      "num": 1621164,
+      "word": "原来公司真的会裁掉销冠",
+      "onboard_time": 1706760274,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 1557066,
@@ -73,14 +89,6 @@
       "onboard_time": 1706744607,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1057568,
-      "num": 1057568,
-      "word": "原来公司真的会裁掉销冠",
-      "onboard_time": 1706760274,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 862870,
@@ -153,6 +161,14 @@
       "onboard_time": 1706757751,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 678794,
+      "num": 678794,
+      "word": "劝人多睡的医生自己在熬夜",
+      "onboard_time": 1706761773,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 670803,
@@ -259,12 +275,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 448053,
-      "num": 448053,
-      "word": "干部被曝妻子怀孕时出轨多名女性",
-      "onboard_time": 1706761173,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 444200,
+      "num": 444200,
+      "word": "大侦探 播不播",
+      "onboard_time": 1706763395,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 440350,
@@ -321,6 +337,14 @@
       "onboard_time": 1706694271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381627,
+      "num": 381627,
+      "word": "仙剑四大结局",
+      "onboard_time": 1706762673,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 380667,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335976,
+      "num": 335976,
+      "word": "朱丹官宣加盟最强大脑",
+      "onboard_time": 1706763454,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -433,6 +465,14 @@
       "onboard_time": 1706753791,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331189,
+      "num": 331189,
+      "word": "过年做美甲要注意4点",
+      "onboard_time": 1706761656,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 329798,
@@ -555,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255676,
+      "num": 255676,
+      "word": "张元英朴成训像一个团",
+      "onboard_time": 1706759312,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253658,
       "num": 184365,
       "word": "闪耀暖暖抽卡",
@@ -563,12 +611,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253009,
+      "num": 253009,
+      "word": "这下谁分得清大学生和小学生啊",
+      "onboard_time": 1706762372,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 252898,
+      "num": 252898,
+      "word": "湖南卫视春晚阵容",
+      "onboard_time": 1706763935,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
       "onboard_time": 1706757089,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250249,
+      "num": 250249,
+      "word": "韩国瑜",
+      "onboard_time": 1706763872,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250222,
@@ -611,20 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229849,
-      "num": 229849,
-      "word": "张元英朴成训像一个团",
-      "onboard_time": 1706759312,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 228509,
       "num": 203009,
       "word": "小杨哥额头受伤",
       "onboard_time": 1706715870,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 227565,
+      "num": 227565,
+      "word": "其实追星比恋爱更无害",
+      "onboard_time": 1706764173,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 224972,
@@ -675,6 +747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201985,
+      "num": 201985,
+      "word": "吴彤王一博龙年特定合作曲",
+      "onboard_time": 1706763634,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201707,
       "num": 201707,
       "word": "成毅裤子透光",
@@ -683,12 +763,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189228,
-      "num": 189228,
-      "word": "过年做美甲要注意4点",
-      "onboard_time": 1706761656,
-      "rank": 34,
-      "category": "美妆"
+      "raw_hot": 194501,
+      "num": 194501,
+      "word": "刘耀文你别扣手了",
+      "onboard_time": 1706764113,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 187542,
@@ -729,6 +809,14 @@
       "onboard_time": 1706749891,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182187,
+      "num": 182187,
+      "word": "粉丝为肖战原创贺岁曲",
+      "onboard_time": 1706764352,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182182,
@@ -777,6 +865,14 @@
       "onboard_time": 1706758290,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 177733,
+      "num": 177733,
+      "word": "黄子韬成立科技新公司",
+      "onboard_time": 1706764052,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 177452,
@@ -1019,6 +1115,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140486,
+      "num": 140486,
+      "word": "王者荣耀",
+      "onboard_time": 1706762913,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "龙年限定系列皮肤龙祐千载",
+      "onboard_time": 1706763214,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139499,
       "num": 139499,
       "word": "黄瀛子蒋翼床上吻",
@@ -1049,14 +1161,6 @@
       "onboard_time": 1706754570,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 135983,
-      "num": 135983,
-      "word": "劝人多睡的医生自己在熬夜",
-      "onboard_time": 1706761773,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134271,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1706712394,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129924,
+      "num": 129924,
+      "word": "灰太狼的妈妈",
+      "onboard_time": 1706764592,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 129921,
@@ -1300,7 +1412,7 @@
     },
     {
       "raw_hot": 95380,
-      "num": 1265038,
+      "num": 1430534,
       "word": "致敬每一个挺身而出的普通人",
       "onboard_time": 1706756369,
       "rank": 2,
@@ -1345,6 +1457,14 @@
       "onboard_time": 1706710470,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78147,
+      "num": 357641,
+      "word": "羡慕长沙打工人的精神状态",
+      "onboard_time": 1706763634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76555,
