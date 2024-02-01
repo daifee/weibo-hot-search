@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706823241014,
+  "endTime": 1706825813865,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -13987,6 +13987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73939,
+      "num": 73939,
+      "word": "高铁算是把用户需求整明白了",
+      "onboard_time": 1706808622,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71292,
       "num": 71292,
       "word": "胡先煦李雪琴白天接话晚上复盘",
@@ -14211,14 +14219,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 51524,
-      "num": 51524,
-      "word": "高铁算是把用户需求整明白了",
-      "onboard_time": 1706808622,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51307,
       "num": 859574,
       "word": "大美中国冰雪之约走进内蒙古",
@@ -14297,6 +14297,14 @@
       "onboard_time": 1706765552,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 48986,
+      "num": 48986,
+      "word": "日本裁判替代马宁担任第四官员",
+      "onboard_time": 1706818817,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 48853,
@@ -14419,20 +14427,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36057,
+      "num": 21580,
+      "word": "这是今天的杭州东站",
+      "onboard_time": 1706823555,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35815,
       "num": 38997,
       "word": "韩菱纱结局",
       "onboard_time": 1706807962,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34397,
-      "num": 34397,
-      "word": "日本裁判替代马宁担任第四官员",
-      "onboard_time": 1706818817,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 34313,
@@ -14489,6 +14497,14 @@
       "onboard_time": 1706463740,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31602,
+      "num": 24426,
+      "word": "1对新人用8串真香蕉装饰宝马婚车",
+      "onboard_time": 1706822775,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30805,
@@ -14571,12 +14587,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23105,
+      "num": 23105,
+      "word": "巴黎文旅出来解释下",
+      "onboard_time": 1706823976,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22994,
       "num": 22994,
       "word": "王者对局环境新机制获奖方案",
       "onboard_time": 1706639058,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22431,
+      "num": 22431,
+      "word": "这种蔬菜的含钙量约是牛奶的3倍",
+      "onboard_time": 1706821036,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 22239,
@@ -14609,14 +14641,6 @@
       "onboard_time": 1706465661,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17809,
-      "num": 17809,
-      "word": "这种蔬菜的含钙量约是牛奶的3倍",
-      "onboard_time": 1706821036,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 16941,
@@ -14683,6 +14707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15722,
+      "num": 15722,
+      "word": "法越馨再拍肖战",
+      "onboard_time": 1706825417,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
@@ -14715,14 +14747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13599,
-      "num": 13599,
-      "word": "1对新人用8串真香蕉装饰宝马婚车",
-      "onboard_time": 1706822775,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13482,
       "num": 14970,
       "word": "我妈让我自己一个锅",
@@ -14731,20 +14755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 12833,
+      "num": 15081,
+      "word": "许凯说胡歌是颜霸",
+      "onboard_time": 1706819537,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12551,
+      "num": 15081,
+      "word": "如何看我妈是董明珠节目争议",
+      "onboard_time": 1706824516,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 11855,
       "num": 11855,
       "word": "守护甜心 歌呗酷洛米海报",
       "onboard_time": 1706645117,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 11738,
-      "num": 13332,
-      "word": "许凯说胡歌是颜霸",
-      "onboard_time": 1706819537,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 11651,
