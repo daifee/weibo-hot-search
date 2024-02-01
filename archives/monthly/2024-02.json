@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706751329019,
+  "endTime": 1706754387076,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -19,12 +19,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1535952,
+      "num": 1535952,
+      "word": "花130万帮女儿当网红2年没成功",
+      "onboard_time": 1706751331,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1280117,
       "num": 1280117,
       "word": "用氮气执行死刑",
       "onboard_time": 1706746228,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148868,
+      "num": 1148868,
+      "word": "车厘子打败砂糖橘成年货顶流",
+      "onboard_time": 1706748572,
+      "rank": 5,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1127309,
@@ -35,20 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1086612,
-      "num": 1086612,
-      "word": "车厘子打败砂糖橘成年货顶流",
-      "onboard_time": 1706748572,
-      "rank": 5,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 862870,
       "num": 862870,
       "word": "女性要为生育付出多少代价",
       "onboard_time": 1706744783,
       "rank": 4,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 847197,
+      "num": 847197,
+      "word": "北大学姐说静夜思不是李白原作",
+      "onboard_time": 1706751812,
+      "rank": 3,
+      "category": "读书作家"
     },
     {
       "raw_hot": 730807,
@@ -83,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 626688,
+      "num": 626688,
+      "word": "灵岩甩臀致直播间被封",
+      "onboard_time": 1706751090,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581063,
       "num": 581063,
       "word": "中国排名第五的大学",
@@ -91,12 +115,36 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 575455,
+      "num": 575455,
+      "word": "河南降雪致多趟火车停运",
+      "onboard_time": 1706751571,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543361,
       "num": 543361,
       "word": "在人间 辛芷蕾",
       "onboard_time": 1706713294,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523064,
+      "num": 523064,
+      "word": "iPhone15Pro满意度下降",
+      "onboard_time": 1706752288,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 507508,
+      "num": 507508,
+      "word": "复旦教师杀害学院书记一审获死缓",
+      "onboard_time": 1706753791,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490385,
@@ -163,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386369,
+      "num": 386369,
+      "word": "江歌妈妈谈重庆姐弟坠亡案",
+      "onboard_time": 1706753612,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380667,
       "num": 380667,
       "word": "李一桐白鹿撞造型",
@@ -195,12 +251,28 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 344391,
-      "num": 344391,
+      "raw_hot": 367911,
+      "num": 367911,
       "word": "嗓子疼",
       "onboard_time": 1706750130,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 367032,
+      "num": 367032,
+      "word": "A股",
+      "onboard_time": 1706752288,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 364344,
+      "num": 364344,
+      "word": "纪思清结婚",
+      "onboard_time": 1706752531,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 334754,
@@ -217,6 +289,14 @@
       "onboard_time": 1706745087,
       "rank": 13,
       "category": "自然"
+    },
+    {
+      "raw_hot": 319851,
+      "num": 319851,
+      "word": "A股破净股比例超10%",
+      "onboard_time": 1706751150,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 319569,
@@ -299,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253658,
+      "num": 174127,
+      "word": "闪耀暖暖抽卡",
+      "onboard_time": 1706753309,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 252454,
+      "num": 252454,
+      "word": "中戏13级 反派寝室",
+      "onboard_time": 1706753672,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250222,
       "num": 250222,
       "word": "大侦探",
@@ -321,6 +417,14 @@
       "onboard_time": 1706733017,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235180,
+      "num": 235180,
+      "word": "不建议在江浙沪地区蹭席",
+      "onboard_time": 1706753791,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 228509,
@@ -353,6 +457,14 @@
       "onboard_time": 1706700629,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192655,
+      "num": 174049,
+      "word": "西宁动物园 缺经费不缺爱",
+      "onboard_time": 1706753434,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 187542,
@@ -395,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "视力恢复手法",
+      "onboard_time": 1706748572,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "坠亡姐弟外婆称心里会痛一辈子",
@@ -411,12 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175375,
-      "num": 175375,
-      "word": "视力恢复手法",
-      "onboard_time": 1706748572,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 174764,
+      "num": 174764,
+      "word": "特斯拉ModelY推出升级款",
+      "onboard_time": 1706753192,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 167022,
@@ -443,20 +563,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163595,
+      "num": 163595,
+      "word": "天天福",
+      "onboard_time": 1706752472,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 163314,
       "num": 163314,
       "word": "i人变e真的很有自由感",
       "onboard_time": 1706745207,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162414,
-      "num": 162414,
-      "word": "灵岩甩臀致直播间被封",
-      "onboard_time": 1706751090,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160760,
@@ -579,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131774,
+      "num": 131774,
+      "word": "雨雪冰冻来袭春运出行注意安全",
+      "onboard_time": 1706753489,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131663,
       "num": 131663,
       "word": "打雷",
       "onboard_time": 1706743042,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131514,
+      "num": 131514,
+      "word": "沪市公司计划入市资金近600亿",
+      "onboard_time": 1706753252,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 131311,
@@ -609,14 +745,6 @@
       "onboard_time": 1706712394,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128895,
-      "num": 128895,
-      "word": "A股破净股比例超10%",
-      "onboard_time": 1706751150,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 126511,
@@ -689,6 +817,14 @@
       "onboard_time": 1706712694,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106141,
+      "num": 106141,
+      "word": "快递停运时间",
+      "onboard_time": 1706754330,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102258,
@@ -865,6 +1001,9 @@
     },
     {
       "word": "#42位驻华大使递交国书#"
+    },
+    {
+      "word": "#2024年是实现十四五规划目标任务的关键一年#"
     }
   ]
 }
