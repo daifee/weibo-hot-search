@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706786074219,
+  "endTime": 1706790645189,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -41,6 +41,14 @@
       "onboard_time": 1706779412,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1769577,
+      "num": 1769577,
+      "word": "韩菱纱身亡",
+      "onboard_time": 1706785593,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1716105,
@@ -88,6 +96,14 @@
       "word": "杨威",
       "onboard_time": 1706767773,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1497023,
+      "num": 1497023,
+      "word": "官方通报女干部被曝不雅聊天",
+      "onboard_time": 1706786254,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -152,6 +168,14 @@
       "word": "王鸥复工",
       "onboard_time": 1706744607,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1060746,
+      "num": 1060746,
+      "word": "李诞卖穿戴甲",
+      "onboard_time": 1706788412,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -307,20 +331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665175,
+      "num": 665175,
+      "word": "张杰为女儿庆生",
+      "onboard_time": 1706789191,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657295,
       "num": 657295,
       "word": "为什么高铁座椅没有E号",
       "onboard_time": 1706765191,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 643902,
-      "num": 643902,
-      "word": "韩菱纱身亡",
-      "onboard_time": 1706785593,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 643260,
@@ -473,6 +497,14 @@
       "onboard_time": 1706752288,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 516980,
+      "num": 516980,
+      "word": "王家卫连胡歌宣传期穿什么衣服都管",
+      "onboard_time": 1706787992,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 497754,
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381943,
+      "num": 381943,
+      "word": "杭州一女子高空杂技表演时坠落身亡",
+      "onboard_time": 1706786910,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381627,
       "num": 381627,
       "word": "仙剑四大结局",
@@ -763,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360293,
+      "num": 360293,
+      "word": "鹿晗送粉丝黄金礼物",
+      "onboard_time": 1706787331,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354208,
       "num": 255053,
       "word": "爸妈偷偷来我租的房子过年",
@@ -795,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333415,
+      "num": 333415,
+      "word": "汉密尔顿 法拉利",
+      "onboard_time": 1706789191,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331832,
       "num": 293477,
       "word": "不建议在江浙沪地区蹭席",
@@ -825,6 +881,14 @@
       "onboard_time": 1706779888,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 324082,
+      "num": 324082,
+      "word": "Jennie对卡皮巴拉是真心的",
+      "onboard_time": 1706788110,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 323996,
@@ -899,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305816,
+      "num": 305816,
+      "word": "小S二女儿Lily晒旅游照",
+      "onboard_time": 1706790090,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303867,
       "num": 303867,
       "word": "女子哈佛博士毕业后给豪门当家教",
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283025,
+      "num": 283025,
+      "word": "女干部涉不雅聊天被免职",
+      "onboard_time": 1706789370,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282023,
       "num": 282023,
       "word": "潘玮柏宣云芬兰看极光",
@@ -964,7 +1044,7 @@
     },
     {
       "raw_hot": 281718,
-      "num": 157638,
+      "num": 218261,
       "word": "回村烤火把美甲烤弯了",
       "onboard_time": 1706784872,
       "rank": 30,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1706750012,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249541,
+      "num": 249541,
+      "word": "LNG 幽默",
+      "onboard_time": 1706790211,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 248286,
@@ -1203,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220734,
+      "num": 220734,
+      "word": "金博洋clean",
+      "onboard_time": 1706787931,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220716,
       "num": 220716,
       "word": "LGD对战DYG",
@@ -1323,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197386,
+      "num": 197386,
+      "word": "宋雨琦章昊SuperLady",
+      "onboard_time": 1706790211,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196501,
       "num": 844127,
       "word": "司机坚持礼让行人没想到有意外收获",
@@ -1347,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191176,
+      "num": 191176,
+      "word": "鞠婧祎发了韩菱纱的墓碑",
+      "onboard_time": 1706789491,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190308,
       "num": 190308,
       "word": "曹恩齐 man哥喊麦",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1706781391,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189326,
+      "num": 189326,
+      "word": "19层",
+      "onboard_time": 1706790029,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 189066,
@@ -1579,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171091,
+      "num": 171091,
+      "word": "TheShy谈主队",
+      "onboard_time": 1706790155,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170291,
       "num": 170291,
       "word": "车厘子加了保鲜剂会吃坏肚子吗",
@@ -1689,6 +1817,14 @@
       "onboard_time": 1706771429,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160852,
+      "num": 160852,
+      "word": "仙剑系列豆瓣评分",
+      "onboard_time": 1706789555,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 160760,
@@ -1811,6 +1947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 152423,
+      "num": 152423,
+      "word": "我家公子会插秧了",
+      "onboard_time": 1706789671,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 151793,
       "num": 151793,
       "word": "神秘人10年捐赠1000万元善款",
@@ -1875,6 +2019,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147839,
+      "num": 147839,
+      "word": "银川",
+      "onboard_time": 1706786189,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147215,
+      "num": 147215,
+      "word": "扫福",
+      "onboard_time": 1706788531,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147008,
       "num": 147008,
       "word": "光与夜之恋蓝总管",
@@ -1923,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143275,
+      "num": 143275,
+      "word": "男人的眼泪是女人的兴奋剂",
+      "onboard_time": 1706790391,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142856,
       "num": 142856,
       "word": "在车内为什么会一氧化碳中毒",
@@ -1969,6 +2137,14 @@
       "onboard_time": 1706700752,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139316,
+      "num": 139316,
+      "word": "IU新闻图",
+      "onboard_time": 1706787091,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139058,
@@ -2067,6 +2243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131916,
+      "num": 131916,
+      "word": "但斌呼吁A股取消涨跌停板实行T加0",
+      "onboard_time": 1706787511,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131774,
       "num": 131774,
       "word": "雨雪冰冻来袭春运出行注意安全",
@@ -2107,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130998,
+      "num": 130998,
+      "word": "花儿与少年RAP",
+      "onboard_time": 1706790573,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130857,
       "num": 130857,
       "word": "于正回应19层官微手滑",
@@ -2139,6 +2331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129661,
+      "num": 129661,
+      "word": "张颜齐 要你有何用",
+      "onboard_time": 1706790633,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129194,
       "num": 129194,
       "word": "小落的姬小满",
@@ -2153,6 +2353,22 @@
       "onboard_time": 1706772870,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127557,
+      "num": 127557,
+      "word": "山东专升本招生计划公布",
+      "onboard_time": 1706790633,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 126651,
+      "num": 189611,
+      "word": "K4186全车一起救了个人",
+      "onboard_time": 1706786671,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 126559,
@@ -2420,7 +2636,7 @@
     },
     {
       "raw_hot": 96818,
-      "num": 809166,
+      "num": 1152274,
       "word": "重温经典频道开播",
       "onboard_time": 1706771191,
       "rank": 2,

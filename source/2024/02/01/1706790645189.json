@@ -1,0 +1,410 @@
+{
+  "runTime": 1706790645189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769577,
+        "num": 1769577,
+        "word": "韩菱纱身亡",
+        "onboard_time": 1706785593,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1497023,
+        "num": 1497023,
+        "word": "官方通报女干部被曝不雅聊天",
+        "onboard_time": 1706786254,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19684,
+        "num": 1152274,
+        "word": "重温经典频道开播",
+        "onboard_time": 1706771191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060746,
+        "num": 1060746,
+        "word": "李诞卖穿戴甲",
+        "onboard_time": 1706788412,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974232,
+        "num": 974232,
+        "word": "男婴出生第2天脑梗死父亲一夜白头",
+        "onboard_time": 1706782532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665175,
+        "num": 665175,
+        "word": "张杰为女儿庆生",
+        "onboard_time": 1706789191,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622369,
+        "num": 622369,
+        "word": "鲁AK66M7",
+        "onboard_time": 1706778871,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561978,
+        "num": 561978,
+        "word": "夫妻各开一架飞机回家过年",
+        "onboard_time": 1706781514,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549345,
+        "num": 549345,
+        "word": "百里屠苏好久不见",
+        "onboard_time": 1706779412,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142086,
+        "num": 532026,
+        "word": "司机坚持礼让行人没想到有意外收获",
+        "onboard_time": 1706781031,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 516980,
+        "num": 516980,
+        "word": "王家卫连胡歌宣传期穿什么衣服都管",
+        "onboard_time": 1706787992,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407820,
+        "num": 407820,
+        "word": "我妈是董明珠节目由王自如策划",
+        "onboard_time": 1706780013,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 395118,
+        "num": 395118,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1706779710,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381943,
+        "num": 381943,
+        "word": "杭州一女子高空杂技表演时坠落身亡",
+        "onboard_time": 1706786910,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360293,
+        "num": 360293,
+        "word": "鹿晗送粉丝黄金礼物",
+        "onboard_time": 1706787331,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335197,
+        "num": 335197,
+        "word": "湛江加塞奔驰车内监控曝光",
+        "onboard_time": 1706783851,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333415,
+        "num": 333415,
+        "word": "汉密尔顿 法拉利",
+        "onboard_time": 1706789191,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324082,
+        "num": 324082,
+        "word": "Jennie对卡皮巴拉是真心的",
+        "onboard_time": 1706788110,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305816,
+        "num": 305816,
+        "word": "小S二女儿Lily晒旅游照",
+        "onboard_time": 1706790090,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297114,
+        "num": 297114,
+        "word": "原来公司真的会裁掉销冠",
+        "onboard_time": 1706760274,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288315,
+        "num": 288315,
+        "word": "美甲问价后不敢回复了",
+        "onboard_time": 1706782051,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283025,
+        "num": 283025,
+        "word": "女干部涉不雅聊天被免职",
+        "onboard_time": 1706789370,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267218,
+        "num": 267218,
+        "word": "关晓彤最近才入坑甄嬛传",
+        "onboard_time": 1706780972,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249541,
+        "num": 249541,
+        "word": "LNG 幽默",
+        "onboard_time": 1706790211,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220734,
+        "num": 220734,
+        "word": "金博洋clean",
+        "onboard_time": 1706787931,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218261,
+        "num": 218261,
+        "word": "回村烤火把美甲烤弯了",
+        "onboard_time": 1706784872,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197386,
+        "num": 197386,
+        "word": "宋雨琦章昊SuperLady",
+        "onboard_time": 1706790211,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191176,
+        "num": 191176,
+        "word": "鞠婧祎发了韩菱纱的墓碑",
+        "onboard_time": 1706789491,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190915,
+        "num": 190915,
+        "word": "李莎旻子写给芒果的一封信",
+        "onboard_time": 1706783191,
+        "rank": 28,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 126651,
+        "num": 189611,
+        "word": "K4186全车一起救了个人",
+        "onboard_time": 1706786671,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 189326,
+        "num": 189326,
+        "word": "19层",
+        "onboard_time": 1706790029,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176010,
+        "num": 176010,
+        "word": "快递停运时间",
+        "onboard_time": 1706754330,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172869,
+        "num": 172869,
+        "word": "大侦探9定档",
+        "onboard_time": 1706780070,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171091,
+        "num": 171091,
+        "word": "TheShy谈主队",
+        "onboard_time": 1706790155,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161568,
+        "num": 161568,
+        "word": "白鹿曾舜晞 衡门有狐",
+        "onboard_time": 1706783371,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160852,
+        "num": 160852,
+        "word": "仙剑系列豆瓣评分",
+        "onboard_time": 1706789555,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158057,
+        "num": 158057,
+        "word": "胡歌与老婆出门购物",
+        "onboard_time": 1706756611,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152423,
+        "num": 152423,
+        "word": "我家公子会插秧了",
+        "onboard_time": 1706789671,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149790,
+        "num": 149790,
+        "word": "二月壁纸",
+        "onboard_time": 1706778031,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147839,
+        "num": 147839,
+        "word": "银川",
+        "onboard_time": 1706786189,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147215,
+        "num": 147215,
+        "word": "扫福",
+        "onboard_time": 1706788531,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143275,
+        "num": 143275,
+        "word": "男人的眼泪是女人的兴奋剂",
+        "onboard_time": 1706790391,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142208,
+        "num": 142208,
+        "word": "赵丽颖一年进五个组",
+        "onboard_time": 1706782651,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139316,
+        "num": 139316,
+        "word": "IU新闻图",
+        "onboard_time": 1706787091,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136399,
+        "num": 136399,
+        "word": "魏大勋 首评你在哪",
+        "onboard_time": 1706785890,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131916,
+        "num": 131916,
+        "word": "但斌呼吁A股取消涨跌停板实行T加0",
+        "onboard_time": 1706787511,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130998,
+        "num": 130998,
+        "word": "花儿与少年RAP",
+        "onboard_time": 1706790573,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129661,
+        "num": 129661,
+        "word": "张颜齐 要你有何用",
+        "onboard_time": 1706790633,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127557,
+        "num": 127557,
+        "word": "山东专升本招生计划公布",
+        "onboard_time": 1706790633,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124894,
+        "num": 124894,
+        "word": "被自己穷笑啦",
+        "onboard_time": 1706784450,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年是实现十四五规划目标任务的关键一年#"
+    }
+  }
+}
