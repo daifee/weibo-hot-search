@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706771813786,
+  "endTime": 1706772839133,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1176905,
+      "num": 419425,
+      "word": "汤兰兰",
+      "onboard_time": 1706768731,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1166597,
       "num": 1166597,
       "word": "你的快递可能是两岁小孩哥打包的",
@@ -784,14 +792,6 @@
       "word": "韩国吃炸牙签视频爆红",
       "onboard_time": 1706426609,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1046679,
-      "num": 410599,
-      "word": "汤兰兰",
-      "onboard_time": 1706768731,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1867,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638111,
+      "num": 638111,
+      "word": "离婚了彩礼还不还",
+      "onboard_time": 1706767349,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 636411,
       "num": 636411,
       "word": "金世佳 CP感",
@@ -2347,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 544322,
+      "num": 544322,
+      "word": "美甲店称过年费是加班费",
+      "onboard_time": 1706767949,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 544251,
       "num": 521496,
       "word": "杨幂去年找了表演老师改表演习惯",
@@ -2411,6 +2427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 535653,
+      "num": 535653,
+      "word": "日本2架客机发生碰撞",
+      "onboard_time": 1706771074,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535121,
       "num": 535121,
       "word": "48岁的蒋勤勤",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1706434351,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 534034,
-      "num": 534034,
-      "word": "离婚了彩礼还不还",
-      "onboard_time": 1706767349,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 532756,
@@ -2875,14 +2891,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 466652,
-      "num": 466652,
-      "word": "美甲店称过年费是加班费",
-      "onboard_time": 1706767949,
-      "rank": 28,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 466006,
       "num": 466006,
       "word": "李相烨将结婚",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1706656281,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441436,
+      "num": 441436,
+      "word": "赵丽颖公司取得演出经纪许可",
+      "onboard_time": 1706771310,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 440929,
@@ -3273,6 +3289,14 @@
       "onboard_time": 1706503293,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 414619,
+      "num": 414619,
+      "word": "格力年会 我妈就是董明珠",
+      "onboard_time": 1706770953,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 413278,
@@ -3832,6 +3856,14 @@
       "word": "多名中国留学生入境美国遭盘查遣返",
       "onboard_time": 1706495970,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364997,
+      "num": 419972,
+      "word": "多面吴谢宇",
+      "onboard_time": 1706769452,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4555,14 +4587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303324,
-      "num": 303324,
-      "word": "赵丽颖公司取得演出经纪许可",
-      "onboard_time": 1706771310,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302798,
       "num": 302798,
       "word": "杭州巨响",
@@ -4713,6 +4737,14 @@
       "onboard_time": 1706518827,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296425,
+      "num": 179167,
+      "word": "真实胎动",
+      "onboard_time": 1706771249,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 294098,
@@ -5099,14 +5131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267153,
-      "num": 267153,
-      "word": "多面吴谢宇",
-      "onboard_time": 1706769452,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266403,
       "num": 266403,
       "word": "网约车被禁止在浦东机场运营",
@@ -5187,6 +5211,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 261663,
+      "num": 261663,
+      "word": "警方通报多人拿棍棒皮带抽打一男孩",
+      "onboard_time": 1706771610,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261242,
       "num": 261242,
       "word": "2024年2月新规来了",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1706713354,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258790,
+      "num": 258790,
+      "word": "网红王大娟老公因胰腺癌去世",
+      "onboard_time": 1706772693,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 258702,
@@ -5603,14 +5643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235963,
-      "num": 235963,
-      "word": "格力年会 我妈就是董明珠",
-      "onboard_time": 1706770953,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 235686,
       "num": 235686,
       "word": "肖战红西装大背头",
@@ -5755,14 +5787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229247,
-      "num": 229247,
-      "word": "日本2架客机发生碰撞",
-      "onboard_time": 1706771074,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228926,
       "num": 228926,
       "word": "对方及时撤回了一双鞋",
@@ -5833,6 +5857,14 @@
       "onboard_time": 1706576370,
       "rank": 22,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 224790,
+      "num": 224790,
+      "word": "A股IPO排队企业681家",
+      "onboard_time": 1706772270,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 224713,
@@ -7291,6 +7323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186514,
+      "num": 186514,
+      "word": "跳进地理书的旅行",
+      "onboard_time": 1706772151,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186171,
       "num": 186171,
       "word": "消除emo的电话4008000088",
@@ -7569,6 +7609,14 @@
       "onboard_time": 1706585971,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180337,
+      "num": 180337,
+      "word": "姐妹俩先后查出肺结节半年后双双确诊肺癌",
+      "onboard_time": 1706772087,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179916,
@@ -7851,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171951,
+      "num": 171951,
+      "word": "C罗腿部肌肉撕裂",
+      "onboard_time": 1706771791,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "范丞丞不会用滑盖手机",
@@ -8009,14 +8065,6 @@
       "onboard_time": 1706453312,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166335,
-      "num": 156101,
-      "word": "真实胎动",
-      "onboard_time": 1706771249,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 166142,
@@ -8251,6 +8299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161374,
+      "num": 161374,
+      "word": "李梦 尊重电影人就是尊重电影",
+      "onboard_time": 1706771429,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160910,
       "num": 160910,
       "word": "猫德学院手拿把掐狮子猫",
@@ -8467,6 +8523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156795,
+      "num": 156795,
+      "word": "国家大剧院 红楼梦舞剧",
+      "onboard_time": 1706772270,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156477,
       "num": 156477,
       "word": "鞠婧祎好灵动",
@@ -8641,14 +8705,6 @@
       "onboard_time": 1706509168,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 153953,
-      "num": 153953,
-      "word": "李梦 尊重电影人就是尊重电影",
-      "onboard_time": 1706771429,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 153634,
@@ -9361,6 +9417,14 @@
       "onboard_time": 1706542890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140857,
+      "num": 140857,
+      "word": "顺拐快两千年的青铜马",
+      "onboard_time": 1706771729,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 140693,
@@ -10963,12 +11027,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116540,
-      "num": 116540,
-      "word": "警方通报多人拿棍棒皮带抽打一男孩",
-      "onboard_time": 1706771610,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 116459,
+      "num": 116459,
+      "word": "专家称散户是A股最宝贵财富",
+      "onboard_time": 1706772693,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 116443,
@@ -11947,14 +12011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98772,
-      "num": 98772,
-      "word": "顺拐快两千年的青铜马",
-      "onboard_time": 1706771729,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 98106,
       "num": 1034178,
       "word": "春运安全出行天气地图",
@@ -12121,14 +12177,6 @@
       "onboard_time": 1706619328,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94123,
-      "num": 94123,
-      "word": "C罗腿部肌肉撕裂",
-      "onboard_time": 1706771791,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 94064,
@@ -12785,6 +12833,14 @@
       "onboard_time": 1706704651,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 50413,
+      "num": 187720,
+      "word": "穿越机视角看世界最大跨度拱桥",
+      "onboard_time": 1706772453,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50204,
