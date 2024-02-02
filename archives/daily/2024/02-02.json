@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706879887300,
+  "endTime": 1706880828978,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752450,
+      "num": 752450,
+      "word": "宋亚轩身体不适",
+      "onboard_time": 1706875833,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748964,
       "num": 748964,
       "word": "肖战背沟好深",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 733920,
-      "num": 733920,
-      "word": "宋亚轩身体不适",
-      "onboard_time": 1706875833,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 724506,
       "num": 425970,
       "word": "郑爽曾片场消失一礼拜",
@@ -441,6 +441,14 @@
       "onboard_time": 1706850815,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 700279,
+      "num": 700279,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 698203,
@@ -531,20 +539,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 604676,
+      "num": 604676,
+      "word": "宋仲基弹手机vs吴磊抛火机",
+      "onboard_time": 1706877872,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 604108,
       "num": 604108,
       "word": "花少5豆瓣评分破9了",
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 601538,
-      "num": 601538,
-      "word": "宋仲基弹手机vs吴磊抛火机",
-      "onboard_time": 1706877872,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 592704,
@@ -587,20 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568094,
-      "num": 296600,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 567636,
       "num": 567636,
       "word": "我做鬼也不会放过你",
       "onboard_time": 1706863532,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559933,
+      "num": 345770,
+      "word": "在暴雪时分",
+      "onboard_time": 1706879069,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 554361,
@@ -673,14 +681,6 @@
       "onboard_time": 1706859575,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 500439,
-      "num": 290942,
-      "word": "在暴雪时分",
-      "onboard_time": 1706879069,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 494267,
@@ -793,6 +793,14 @@
       "onboard_time": 1706841151,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425984,
+      "num": 425984,
+      "word": "被砸车当事人称警方已通报到此为止",
+      "onboard_time": 1706875833,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421286,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363105,
+      "num": 286582,
+      "word": "刘国梁要求国乒自觉抵制饭圈文化",
+      "onboard_time": 1706880511,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362995,
       "num": 362995,
       "word": "最难追的星座",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1706848533,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331897,
+      "num": 262951,
+      "word": "宋茜多巴胺写真",
+      "onboard_time": 1706879735,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331597,
@@ -1259,14 +1283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268940,
-      "num": 268940,
-      "word": "被砸车当事人称警方已通报到此为止",
-      "onboard_time": 1706875833,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1706849256,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261374,
+      "num": 261374,
+      "word": "nanatour",
+      "onboard_time": 1706880094,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 261323,
@@ -1387,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230247,
+      "num": 230247,
+      "word": "文科生就业现状",
+      "onboard_time": 1706880274,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229623,
       "num": 229623,
       "word": "上海道运局回应浦东机场禁止网约车运营",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 222214,
+      "num": 209291,
+      "word": "王俊凯说有新歌",
+      "onboard_time": 1706879973,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 221725,
@@ -1499,14 +1539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218773,
-      "num": 172003,
-      "word": "宋茜多巴胺写真",
-      "onboard_time": 1706879735,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 218207,
       "num": 218207,
       "word": "猫 看看就行了别乱摸",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1706811740,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216029,
+      "num": 216029,
+      "word": "刘暖曦再审申请被法院驳回",
+      "onboard_time": 1706880274,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215104,
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 207138,
-      "num": 164634,
+      "num": 167386,
       "word": "德云社大封箱开场",
       "onboard_time": 1706876554,
       "rank": 32,
@@ -1609,6 +1649,14 @@
       "onboard_time": 1706875292,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203820,
+      "num": 203820,
+      "word": "鞠婧祎雪中撑伞",
+      "onboard_time": 1706880812,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202169,
@@ -1676,7 +1724,7 @@
     },
     {
       "raw_hot": 198331,
-      "num": 296811,
+      "num": 346590,
       "word": "鞠婧祎一舞翩翩",
       "onboard_time": 1706878953,
       "rank": 11,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1706841211,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186324,
+      "num": 186324,
+      "word": "空调不制热",
+      "onboard_time": 1706879432,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 186320,
@@ -2131,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166011,
+      "num": 166011,
+      "word": "德云社封箱",
+      "onboard_time": 1706880693,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165175,
       "num": 115638,
       "word": "高至霆 痞帅",
@@ -2291,6 +2355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146959,
+      "num": 262332,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 146635,
       "num": 146635,
       "word": "为什么抱婴儿都用左手",
@@ -2361,14 +2433,6 @@
       "onboard_time": 1706846612,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137365,
-      "num": 162920,
-      "word": "空调不制热",
-      "onboard_time": 1706879432,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 137216,
@@ -2579,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119044,
+      "num": 119044,
+      "word": "12306回应无座票去一等座",
+      "onboard_time": 1706880693,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117696,
       "num": 117696,
       "word": "陈虹伊clean",
@@ -2609,6 +2681,14 @@
       "onboard_time": 1706839709,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113637,
+      "num": 133626,
+      "word": "在家复刻至真园名菜",
+      "onboard_time": 1706880456,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 113485,
@@ -2737,14 +2817,6 @@
       "onboard_time": 1706786910,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98829,
-      "num": 168187,
-      "word": "店门口的结婚假条写满了路人祝福",
-      "onboard_time": 1706879374,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 97276,
@@ -3099,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27691,
+      "num": 187206,
+      "word": "给打工人报销回家的车票",
+      "onboard_time": 1706880393,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24021,
       "num": 24021,
       "word": "金道英生日卡",
@@ -3112,6 +3192,14 @@
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19866,
+      "num": 817699,
+      "word": "2024网络视听盛典阵容官宣",
+      "onboard_time": 1706679395,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3153,6 +3241,14 @@
       "onboard_time": 1706820436,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 11410,
+      "num": 615326,
+      "word": "我们的文化中国年",
+      "onboard_time": 1706880632,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11193,
