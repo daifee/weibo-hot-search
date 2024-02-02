@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706866442939,
+  "endTime": 1706869103310,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -187,6 +187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1085397,
+      "num": 1085397,
+      "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+      "onboard_time": 1706867549,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1077455,
+      "num": 1077455,
+      "word": "车银优边抽烟边落泪",
+      "onboard_time": 1706864432,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1047176,
       "num": 1047176,
       "word": "铁路回应为何12306售罄携程有票",
@@ -224,14 +240,6 @@
       "word": "肖战不上综艺的原因",
       "onboard_time": 1706847813,
       "rank": 7,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 976713,
-      "num": 976713,
-      "word": "车银优边抽烟边落泪",
-      "onboard_time": 1706864432,
-      "rank": 4,
       "category": "作品衍生"
     },
     {
@@ -299,12 +307,28 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 800206,
+      "num": 800206,
+      "word": "美甲翻车",
+      "onboard_time": 1706866532,
+      "rank": 7,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 792554,
       "num": 792554,
       "word": "迪丽热巴英文聊天",
       "onboard_time": 1706852433,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760605,
+      "num": 760605,
+      "word": "刘诗诗田曦薇撞衫",
+      "onboard_time": 1706867431,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 757997,
@@ -411,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602558,
+      "num": 602558,
+      "word": "A股再跌可能会需要更多救市资金",
+      "onboard_time": 1706866291,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 592704,
       "num": 592704,
       "word": "肖战想挤地铁逛商场",
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567636,
+      "num": 567636,
+      "word": "我做鬼也不会放过你",
+      "onboard_time": 1706863532,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554361,
       "num": 554361,
       "word": "人民日报评奔驰车男子打砸引擎盖事件",
@@ -465,6 +505,14 @@
       "onboard_time": 1706791294,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536320,
+      "num": 536320,
+      "word": "外交部感谢CIA局长提醒",
+      "onboard_time": 1706864614,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 532934,
@@ -643,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400574,
-      "num": 328659,
-      "word": "我做鬼也不会放过你",
-      "onboard_time": 1706863532,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396448,
       "num": 458416,
       "word": "做一次CT对人体的伤害有多大",
@@ -683,12 +723,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 380882,
-      "num": 380882,
-      "word": "外交部感谢CIA局长提醒",
-      "onboard_time": 1706864614,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 379207,
+      "num": 379207,
+      "word": "奇瑞",
+      "onboard_time": 1706865332,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370262,
@@ -761,6 +801,14 @@
       "onboard_time": 1706786671,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 343845,
+      "num": 343845,
+      "word": "杜飞 你的嘴巴没死",
+      "onboard_time": 1706866113,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342637,
@@ -875,6 +923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 292947,
+      "num": 292947,
+      "word": "黄毅清恶意诽谤马苏案维持原判",
+      "onboard_time": 1706866711,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292021,
       "num": 292021,
       "word": "艾滋病为何老龄化",
@@ -937,6 +993,14 @@
       "onboard_time": 1706805147,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276444,
+      "num": 276444,
+      "word": "官方回应杨倩教练讨薪",
+      "onboard_time": 1706866591,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 276142,
@@ -1027,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260022,
-      "num": 260022,
-      "word": "奇瑞",
-      "onboard_time": 1706865332,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254538,
       "num": 254538,
       "word": "2024央视网络春晚节目单官宣",
@@ -1107,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226548,
+      "num": 222627,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1706868751,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1706864373,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224472,
+      "num": 224472,
+      "word": "叶府婚宴",
+      "onboard_time": 1706868690,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 223482,
@@ -1267,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201006,
+      "num": 201006,
+      "word": "小年夜",
+      "onboard_time": 1706867914,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200814,
       "num": 200814,
       "word": "湖人战胜凯尔特人",
@@ -1347,6 +1427,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193719,
+      "num": 193719,
+      "word": "各地的显眼龙已经藏不住了",
+      "onboard_time": 1706867973,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193495,
+      "num": 193495,
+      "word": "逆水寒红包封面",
+      "onboard_time": 1706868811,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193202,
       "num": 193202,
       "word": "王亚飞",
@@ -1385,14 +1481,6 @@
       "onboard_time": 1706854951,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 191734,
-      "num": 191734,
-      "word": "杜飞 你的嘴巴没死",
-      "onboard_time": 1706866113,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191732,
@@ -1507,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182505,
+      "num": 182505,
+      "word": "成韩彬把章昊整害羞了",
+      "onboard_time": 1706867793,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180665,
       "num": 180665,
       "word": "鱿鱼游戏2第一眼预告",
@@ -1619,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167206,
+      "num": 167206,
+      "word": "恋与深空 黎医生",
+      "onboard_time": 1706867732,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163977,
       "num": 126158,
       "word": "陈都灵等车",
@@ -1675,12 +1779,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158288,
+      "num": 158288,
+      "word": "感觉我现在强得可怕",
+      "onboard_time": 1706866890,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158003,
       "num": 158003,
       "word": "上千只基金1月亏损超20%",
       "onboard_time": 1706855491,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 153707,
+      "num": 153707,
+      "word": "年是什么意思",
+      "onboard_time": 1706868092,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 152685,
@@ -1705,14 +1825,6 @@
       "onboard_time": 1706839349,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149762,
-      "num": 156713,
-      "word": "A股再跌可能会需要更多救市资金",
-      "onboard_time": 1706866291,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 149028,
@@ -1755,12 +1867,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142389,
+      "num": 142389,
+      "word": "财神爷儿子",
+      "onboard_time": 1706868030,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141877,
       "num": 141877,
       "word": "EDGM零封TES",
       "onboard_time": 1706861194,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141505,
+      "num": 141505,
+      "word": "繁花里唯一和胡歌有吻戏的人",
+      "onboard_time": 1706869052,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 141060,
@@ -2155,6 +2283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81819,
+      "num": 1091893,
+      "word": "排队5个小时都要带走的广式年货",
+      "onboard_time": 1706868214,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81765,
       "num": 81765,
       "word": "二月壁纸",
@@ -2324,7 +2460,7 @@
     },
     {
       "raw_hot": 41390,
-      "num": 963389,
+      "num": 1086310,
       "word": "6组数据领略湿地之美",
       "onboard_time": 1706861612,
       "rank": 2,
@@ -2337,6 +2473,14 @@
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38979,
+      "num": 1081420,
+      "word": "探月工程四期中继星运抵海南文昌",
+      "onboard_time": 1706868453,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35863,
@@ -2363,6 +2507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29242,
+      "num": 895422,
+      "word": "王亚平说回家过年感觉良好",
+      "onboard_time": 1706868214,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28385,
       "num": 31478,
       "word": "Jennie对卡皮巴拉是真心的",
@@ -2377,6 +2529,14 @@
       "onboard_time": 1706812097,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20544,
+      "num": 256385,
+      "word": "以爱相连健康年",
+      "onboard_time": 1706868153,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16757,
