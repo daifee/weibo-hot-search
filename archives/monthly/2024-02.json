@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706908484478,
+  "endTime": 1706909657662,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -6475,6 +6475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34792,
+      "num": 33061,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34020,
       "num": 206206,
       "word": "沈腾给家乡送年货",
@@ -6489,14 +6497,6 @@
       "onboard_time": 1706756012,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32073,
-      "num": 31088,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 30602,
@@ -6547,20 +6547,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23459,
+      "num": 23459,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23414,
       "num": 21104,
       "word": "江西家宴",
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 22689,
-      "num": 22689,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 22239,
@@ -6609,6 +6609,14 @@
       "onboard_time": 1706757212,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 16251,
+      "num": 16251,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 16163,
@@ -6667,20 +6675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13253,
-      "num": 13253,
+      "raw_hot": 13380,
+      "num": 15006,
       "word": "宋亚轩躲C位",
       "onboard_time": 1706907257,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12591,
-      "num": 13233,
-      "word": "干炒牛河是粤菜师傅功底的试金石",
-      "onboard_time": 1706908096,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 12551,
