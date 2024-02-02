@@ -1,0 +1,410 @@
+{
+  "runTime": 1706837478255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563142,
+        "num": 1563142,
+        "word": "胖东来一件羽绒服仅赚3毛钱",
+        "onboard_time": 1706831368,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1545760,
+        "num": 1545760,
+        "word": "补水 智商税",
+        "onboard_time": 1706834489,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 55250,
+        "num": 1170713,
+        "word": "在中国这样玩",
+        "onboard_time": 1706791832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082529,
+        "num": 1082529,
+        "word": "美方承认几十年来改变中国的努力都没有成功",
+        "onboard_time": 1706830106,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 944815,
+        "num": 944815,
+        "word": "女子直播被指虐猫后直接放嘴里咬",
+        "onboard_time": 1706832628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774911,
+        "num": 774911,
+        "word": "跳跳俏俏六岁了",
+        "onboard_time": 1706832450,
+        "rank": 5,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 649809,
+        "num": 649809,
+        "word": "四省有大到暴雪",
+        "onboard_time": 1706834489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556424,
+        "num": 556424,
+        "word": "你愿意把五天工时浓缩成四天吗",
+        "onboard_time": 1706831185,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 545665,
+        "num": 545665,
+        "word": "被砸车女子回应加塞事件疑反转",
+        "onboard_time": 1706830644,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528871,
+        "num": 528871,
+        "word": "杨波",
+        "onboard_time": 1706834971,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100152,
+        "num": 501671,
+        "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+        "onboard_time": 1706830106,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432266,
+        "num": 432266,
+        "word": "小年",
+        "onboard_time": 1706829142,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424299,
+        "num": 424299,
+        "word": "为何吴谢宇在春节前被执行死刑",
+        "onboard_time": 1706830585,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279439,
+        "num": 279439,
+        "word": "高铁算是把用户需求整明白了",
+        "onboard_time": 1706808622,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275847,
+        "num": 275847,
+        "word": "赵露思刘宇宁同框路透",
+        "onboard_time": 1706836049,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273139,
+        "num": 273139,
+        "word": "小年快乐",
+        "onboard_time": 1706832688,
+        "rank": 15,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 258370,
+        "num": 258370,
+        "word": "张晚意去了布朗尼乐队巡演",
+        "onboard_time": 1706833049,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239260,
+        "num": 239260,
+        "word": "恩比德半月板撕裂",
+        "onboard_time": 1706835329,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223482,
+        "num": 223482,
+        "word": "B太测评卫生巾",
+        "onboard_time": 1706836289,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261296,
+        "num": 223451,
+        "word": "赵露思珠帘玉幕紫衣路透",
+        "onboard_time": 1706834612,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408362,
+        "num": 223325,
+        "word": "我的婚礼取消了这七个环节",
+        "onboard_time": 1706836530,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308555,
+        "num": 223168,
+        "word": "内裤穿多久扔掉最合适",
+        "onboard_time": 1706830163,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289688,
+        "num": 222927,
+        "word": "女子遭情敌挑衅一气之下跳楼身亡",
+        "onboard_time": 1706831249,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222872,
+        "num": 222872,
+        "word": "张庭 我都没去过这个楼盘",
+        "onboard_time": 1706809821,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241594,
+        "num": 214422,
+        "word": "糖吃多了可能毁全身",
+        "onboard_time": 1706835273,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199548,
+        "num": 199548,
+        "word": "北方和南方小年差一天",
+        "onboard_time": 1706834014,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184416,
+        "num": 184416,
+        "word": "浦东机场 网约车",
+        "onboard_time": 1706837008,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183093,
+        "num": 183093,
+        "word": "春运返程火车票今天开抢",
+        "onboard_time": 1706833470,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174451,
+        "num": 174451,
+        "word": "小年文案",
+        "onboard_time": 1706836409,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170900,
+        "num": 170900,
+        "word": "大S具俊晔23年前后合照对比",
+        "onboard_time": 1706791055,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164094,
+        "num": 164094,
+        "word": "河南大雪胖东来在门口给顾客身上扫雪",
+        "onboard_time": 1706805984,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162872,
+        "num": 162872,
+        "word": "32款进口网络游戏获批",
+        "onboard_time": 1706835928,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162547,
+        "num": 162547,
+        "word": "张佳宁演累了吧让我去演",
+        "onboard_time": 1706805147,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157845,
+        "num": 157845,
+        "word": "全明星",
+        "onboard_time": 1706835751,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134401,
+        "num": 134401,
+        "word": "帕梅拉 在高铁上健身",
+        "onboard_time": 1706798915,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134114,
+        "num": 134114,
+        "word": "艾滋病为何老龄化",
+        "onboard_time": 1706803408,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133130,
+        "num": 133130,
+        "word": "成毅 张居正",
+        "onboard_time": 1706791294,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131804,
+        "num": 131804,
+        "word": "韩菱纱身亡",
+        "onboard_time": 1706785593,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126927,
+        "num": 126927,
+        "word": "原神",
+        "onboard_time": 1706833711,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126019,
+        "num": 126019,
+        "word": "甜蜜家园3",
+        "onboard_time": 1706834192,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124609,
+        "num": 124609,
+        "word": "库里入选西部全明星替补名单",
+        "onboard_time": 1706834192,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123619,
+        "num": 123619,
+        "word": "生肖属龙或姓龙游客可免费游龙游",
+        "onboard_time": 1706828601,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112240,
+        "num": 112240,
+        "word": "杨紫范丞丞吻戏",
+        "onboard_time": 1706832930,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111693,
+        "num": 111693,
+        "word": "A股春节休市10天",
+        "onboard_time": 1706830163,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "补水到底是不是智商税",
+        "onboard_time": 1706836473,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108207,
+        "num": 108207,
+        "word": "女子行业会议上怒揭化妆品补水谎言",
+        "onboard_time": 1706833829,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105590,
+        "num": 105590,
+        "word": "男婴出生第2天脑梗死父亲一夜白头",
+        "onboard_time": 1706782532,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104930,
+        "num": 104930,
+        "word": "赵今麦 真甜妹来了",
+        "onboard_time": 1706796873,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98514,
+        "num": 98514,
+        "word": "利雅得胜利6比0迈阿密国际",
+        "onboard_time": 1706830163,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97284,
+        "num": 97284,
+        "word": "哈登落选全明星",
+        "onboard_time": 1706835687,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}

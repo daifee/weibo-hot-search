@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706836291902,
+  "endTime": 1706837478255,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1545760,
+      "num": 1545760,
+      "word": "补水 智商税",
+      "onboard_time": 1706834489,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1540690,
       "num": 1540690,
       "word": "福建长乐2.1亿婚礼",
@@ -137,14 +145,6 @@
       "onboard_time": 1706830106,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1382087,
-      "num": 1382087,
-      "word": "补水 智商税",
-      "onboard_time": 1706834489,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 1367335,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944815,
+      "num": 944815,
+      "word": "女子直播被指虐猫后直接放嘴里咬",
+      "onboard_time": 1706832628,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942430,
       "num": 942430,
       "word": "大S具俊晔23年前后合照对比",
@@ -264,14 +272,6 @@
       "word": "河南暴雪有人在高速堵车超10公里",
       "onboard_time": 1706795611,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 882417,
-      "num": 882417,
-      "word": "女子直播被指虐猫后直接放嘴里咬",
-      "onboard_time": 1706832628,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 649809,
+      "num": 649809,
+      "word": "四省有大到暴雪",
+      "onboard_time": 1706834489,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643363,
       "num": 643363,
       "word": "被砸车女子回应加塞事件疑反转",
@@ -603,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 569255,
-      "num": 569255,
-      "word": "四省有大到暴雪",
-      "onboard_time": 1706834489,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568256,
       "num": 1939594,
       "word": "1300户村民免费领了2吨羽绒服",
@@ -689,6 +689,14 @@
       "onboard_time": 1706782051,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 528871,
+      "num": 528871,
+      "word": "杨波",
+      "onboard_time": 1706834971,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 527183,
@@ -899,6 +907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 408362,
+      "num": 223325,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405918,
       "num": 405918,
       "word": "美作家称韩国只学到儒家思想和资本主义糟粕",
@@ -913,14 +929,6 @@
       "onboard_time": 1706750309,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396629,
-      "num": 396629,
-      "word": "杨波",
-      "onboard_time": 1706834971,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 391439,
@@ -1427,6 +1435,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275847,
+      "num": 275847,
+      "word": "赵露思刘宇宁同框路透",
+      "onboard_time": 1706836049,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273139,
+      "num": 273139,
+      "word": "小年快乐",
+      "onboard_time": 1706832688,
+      "rank": 17,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 272014,
       "num": 262534,
       "word": "丁克家庭要给亲戚小孩红包吗",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1706833049,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 269403,
-      "num": 269403,
-      "word": "小年快乐",
-      "onboard_time": 1706832688,
-      "rank": 17,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 269283,
@@ -1603,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241594,
+      "num": 214422,
+      "word": "糖吃多了可能毁全身",
+      "onboard_time": 1706835273,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237625,
       "num": 237625,
       "word": "被自己穷笑啦",
@@ -1739,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223482,
+      "num": 223482,
+      "word": "B太测评卫生巾",
+      "onboard_time": 1706836289,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 222566,
       "num": 222566,
       "word": "重庆姐弟坠亡案",
@@ -1817,14 +1849,6 @@
       "onboard_time": 1706778149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210250,
-      "num": 210250,
-      "word": "糖吃多了可能毁全身",
-      "onboard_time": 1706835273,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 205831,
@@ -1907,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199548,
+      "num": 199548,
+      "word": "北方和南方小年差一天",
+      "onboard_time": 1706834014,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199338,
       "num": 199338,
       "word": "专家称散户是A股最宝贵财富",
@@ -1985,14 +2017,6 @@
       "onboard_time": 1706789491,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190863,
-      "num": 190863,
-      "word": "北方和南方小年差一天",
-      "onboard_time": 1706834014,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190308,
@@ -2123,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184416,
+      "num": 184416,
+      "word": "浦东机场 网约车",
+      "onboard_time": 1706837008,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184060,
       "num": 184060,
       "word": "我的妈妈是大明星 巧克力",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1706754811,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183093,
+      "num": 183093,
+      "word": "春运返程火车票今天开抢",
+      "onboard_time": 1706833470,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182483,
@@ -2283,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174451,
+      "num": 174451,
+      "word": "小年文案",
+      "onboard_time": 1706836409,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174446,
       "num": 174446,
       "word": "生肖属龙或姓龙游客可免费游龙游",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1706783071,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173544,
-      "num": 173544,
-      "word": "赵露思刘宇宁同框路透",
-      "onboard_time": 1706836049,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 172637,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1706800114,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162872,
+      "num": 162872,
+      "word": "32款进口网络游戏获批",
+      "onboard_time": 1706835928,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 161501,
@@ -2731,14 +2779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146841,
-      "num": 146841,
-      "word": "春运返程火车票今天开抢",
-      "onboard_time": 1706833470,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146781,
       "num": 146781,
       "word": "未定事件簿 红尘共长生",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1706835687,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137102,
-      "num": 137102,
-      "word": "32款进口网络游戏获批",
-      "onboard_time": 1706835928,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 137017,
@@ -3369,6 +3401,14 @@
       "onboard_time": 1706784030,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110214,
+      "num": 110214,
+      "word": "补水到底是不是智商税",
+      "onboard_time": 1706836473,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 109976,
