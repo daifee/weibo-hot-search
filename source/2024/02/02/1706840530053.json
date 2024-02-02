@@ -1,0 +1,410 @@
+{
+  "runTime": 1706840530053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491727,
+        "num": 1491727,
+        "word": "补水 智商税",
+        "onboard_time": 1706834489,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1105162,
+        "num": 1105162,
+        "word": "胖东来一件羽绒服仅赚3毛钱",
+        "onboard_time": 1706831368,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33475,
+        "num": 1060849,
+        "word": "在中国这样玩",
+        "onboard_time": 1706791832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047176,
+        "num": 1047176,
+        "word": "铁路回应为何12306售罄携程有票",
+        "onboard_time": 1706838090,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011198,
+        "num": 1011198,
+        "word": "周杰伦杭州抢票",
+        "onboard_time": 1706839767,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 887186,
+        "num": 887186,
+        "word": "杨波",
+        "onboard_time": 1706834971,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736976,
+        "num": 736976,
+        "word": "频繁做美甲会导致手变黑",
+        "onboard_time": 1706838689,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 569522,
+        "num": 569522,
+        "word": "跳跳俏俏六岁了",
+        "onboard_time": 1706832450,
+        "rank": 7,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 556902,
+        "num": 556902,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547416,
+        "num": 547416,
+        "word": "我的婚礼取消了这七个环节",
+        "onboard_time": 1706836530,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19320,
+        "num": 546109,
+        "word": "年的意义是爱与陪伴",
+        "onboard_time": 1706837550,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 987704,
+        "num": 545950,
+        "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+        "onboard_time": 1706830106,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545569,
+        "num": 545569,
+        "word": "花少5豆瓣评分破9了",
+        "onboard_time": 1706838391,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540705,
+        "num": 540705,
+        "word": "美方承认几十年来改变中国的努力都没有成功",
+        "onboard_time": 1706830106,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114212,
+        "num": 491732,
+        "word": "在支付宝拍了今年第一套全家福",
+        "onboard_time": 1706839228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466506,
+        "num": 466506,
+        "word": "人民日报评奔驰车男子打砸引擎盖事件",
+        "onboard_time": 1706838810,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440348,
+        "num": 440348,
+        "word": "四省有大到暴雪",
+        "onboard_time": 1706834489,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323618,
+        "num": 323618,
+        "word": "被砸车女子回应加塞事件疑反转",
+        "onboard_time": 1706830644,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293480,
+        "num": 293480,
+        "word": "小年",
+        "onboard_time": 1706829142,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275902,
+        "num": 275902,
+        "word": "五问上海禁止网约车在浦东机场运营",
+        "onboard_time": 1706839589,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465202,
+        "num": 273908,
+        "word": "女子直播被指虐猫后直接放嘴里咬",
+        "onboard_time": 1706832628,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270731,
+        "num": 270731,
+        "word": "浦东机场 网约车",
+        "onboard_time": 1706837008,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250838,
+        "num": 250838,
+        "word": "男子杀人逃亡19年得知杀错人",
+        "onboard_time": 1706839709,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229206,
+        "num": 229206,
+        "word": "小年快乐",
+        "onboard_time": 1706832688,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 221725,
+        "num": 221725,
+        "word": "丫丫过小年",
+        "onboard_time": 1706838869,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217557,
+        "num": 217557,
+        "word": "赵露思刘宇宁同框路透",
+        "onboard_time": 1706836049,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212903,
+        "num": 212903,
+        "word": "你愿意把五天工时浓缩成四天吗",
+        "onboard_time": 1706831185,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 207638,
+        "num": 207638,
+        "word": "糖吃多了可能毁全身",
+        "onboard_time": 1706835273,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204306,
+        "num": 204306,
+        "word": "内裤穿多久扔掉最合适",
+        "onboard_time": 1706830163,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203904,
+        "num": 203904,
+        "word": "女子遭情敌挑衅一气之下跳楼身亡",
+        "onboard_time": 1706831249,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200711,
+        "num": 200711,
+        "word": "为何吴谢宇在春节前被执行死刑",
+        "onboard_time": 1706830585,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195091,
+        "num": 195091,
+        "word": "梅西C罗表情",
+        "onboard_time": 1706839767,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168835,
+        "num": 168835,
+        "word": "艾滋病为何老龄化",
+        "onboard_time": 1706803408,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151640,
+        "num": 151640,
+        "word": "小年吃什么",
+        "onboard_time": 1706839349,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150052,
+        "num": 150052,
+        "word": "B太测评卫生巾",
+        "onboard_time": 1706836289,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150022,
+        "num": 150022,
+        "word": "北方和南方小年差一天",
+        "onboard_time": 1706834014,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147843,
+        "num": 147843,
+        "word": "减到什么程度才算减肥成功",
+        "onboard_time": 1706838508,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139542,
+        "num": 139542,
+        "word": "赵露思珠帘玉幕紫衣路透",
+        "onboard_time": 1706834612,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138594,
+        "num": 138594,
+        "word": "张晚意去了布朗尼乐队巡演",
+        "onboard_time": 1706833049,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 134473,
+        "word": "上海道运局回应浦东机场禁止网约车运营",
+        "onboard_time": 1706837790,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128834,
+        "num": 128834,
+        "word": "成毅 张居正",
+        "onboard_time": 1706791294,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127980,
+        "num": 127980,
+        "word": "恩比德半月板撕裂",
+        "onboard_time": 1706835329,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126159,
+        "num": 126159,
+        "word": "智族GQ肖战梦境大片",
+        "onboard_time": 1706840486,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118640,
+        "num": 118640,
+        "word": "高铁算是把用户需求整明白了",
+        "onboard_time": 1706808622,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113678,
+        "num": 113678,
+        "word": "魏巡粉丝视角看张颜齐",
+        "onboard_time": 1706839709,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105616,
+        "num": 105616,
+        "word": "小女孩问啥都说没啥记者慌了",
+        "onboard_time": 1706840310,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98984,
+        "num": 98984,
+        "word": "张庭 我都没去过这个楼盘",
+        "onboard_time": 1706809821,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93385,
+        "num": 93385,
+        "word": "小年文案",
+        "onboard_time": 1706836409,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91164,
+        "num": 91164,
+        "word": "荷兰人有多抠",
+        "onboard_time": 1706840486,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90260,
+        "num": 90260,
+        "word": "Meta拟回购500亿美元股票",
+        "onboard_time": 1706839047,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}

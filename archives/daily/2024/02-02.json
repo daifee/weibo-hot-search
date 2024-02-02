@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706839452164,
+  "endTime": 1706840530053,
   "band_list": [
     {
       "raw_hot": 1604983,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047176,
+      "num": 1047176,
+      "word": "铁路回应为何12306售罄携程有票",
+      "onboard_time": 1706838090,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011198,
+      "num": 1011198,
+      "word": "周杰伦杭州抢票",
+      "onboard_time": 1706839767,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 944815,
       "num": 944815,
       "word": "女子直播被指虐猫后直接放嘴里咬",
@@ -51,8 +67,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 860277,
-      "num": 860277,
+      "raw_hot": 887186,
+      "num": 887186,
       "word": "杨波",
       "onboard_time": 1706834971,
       "rank": 12,
@@ -67,20 +83,20 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 736976,
+      "num": 736976,
+      "word": "频繁做美甲会导致手变黑",
+      "onboard_time": 1706838689,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 698203,
       "num": 698203,
       "word": "你愿意把五天工时浓缩成四天吗",
       "onboard_time": 1706831185,
       "rank": 6,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 668969,
-      "num": 668969,
-      "word": "铁路回应为何12306售罄携程有票",
-      "onboard_time": 1706838090,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649809,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 576982,
-      "num": 248636,
+      "num": 547416,
       "word": "我的婚礼取消了这七个环节",
       "onboard_time": 1706836530,
       "rank": 20,
@@ -123,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556902,
+      "num": 556902,
+      "word": "杨波回应",
+      "onboard_time": 1706840189,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548400,
       "num": 548400,
       "word": "成毅 张居正",
       "onboard_time": 1706791294,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 545569,
+      "num": 545569,
+      "word": "花少5豆瓣评分破9了",
+      "onboard_time": 1706838391,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 532934,
@@ -155,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 448107,
-      "num": 448107,
-      "word": "花少5豆瓣评分破9了",
-      "onboard_time": 1706838391,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 466506,
+      "num": 466506,
+      "word": "人民日报评奔驰车男子打砸引擎盖事件",
+      "onboard_time": 1706838810,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445524,
@@ -201,14 +233,6 @@
       "onboard_time": 1706792313,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 361558,
-      "num": 361558,
-      "word": "频繁做美甲会导致手变黑",
-      "onboard_time": 1706838689,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 356261,
@@ -315,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275902,
+      "num": 275902,
+      "word": "五问上海禁止网约车在浦东机场运营",
+      "onboard_time": 1706839589,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275847,
       "num": 275847,
       "word": "赵露思刘宇宁同框路透",
@@ -353,6 +385,14 @@
       "onboard_time": 1706801613,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250838,
+      "num": 250838,
+      "word": "男子杀人逃亡19年得知杀错人",
+      "onboard_time": 1706839709,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249987,
@@ -403,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 221725,
+      "num": 221725,
+      "word": "丫丫过小年",
+      "onboard_time": 1706838869,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221604,
       "num": 126898,
       "word": "第一次带女朋友回家有多夸张",
@@ -417,14 +465,6 @@
       "onboard_time": 1706811740,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217567,
-      "num": 217567,
-      "word": "人民日报评奔驰车男子打砸引擎盖事件",
-      "onboard_time": 1706838810,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199548,
@@ -443,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194561,
-      "num": 194561,
-      "word": "丫丫过小年",
-      "onboard_time": 1706838869,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "梅西C罗表情",
+      "onboard_time": 1706839767,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 194024,
@@ -531,6 +571,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151640,
+      "num": 151640,
+      "word": "小年吃什么",
+      "onboard_time": 1706839349,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147843,
+      "num": 147843,
+      "word": "减到什么程度才算减肥成功",
+      "onboard_time": 1706838508,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 146466,
       "num": 146466,
       "word": "甜蜜家园3",
@@ -553,14 +609,6 @@
       "onboard_time": 1706830163,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 137837,
-      "num": 137837,
-      "word": "减到什么程度才算减肥成功",
-      "onboard_time": 1706838508,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 137216,
@@ -619,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126159,
+      "num": 126159,
+      "word": "智族GQ肖战梦境大片",
+      "onboard_time": 1706840486,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 124703,
       "num": 124703,
       "word": "Selina产后代言收入达百万",
@@ -649,6 +705,22 @@
       "onboard_time": 1706779710,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114212,
+      "num": 491732,
+      "word": "在支付宝拍了今年第一套全家福",
+      "onboard_time": 1706839228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113678,
+      "num": 113678,
+      "word": "魏巡粉丝视角看张颜齐",
+      "onboard_time": 1706839709,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113445,
@@ -699,20 +771,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109036,
-      "num": 109036,
-      "word": "小年吃什么",
-      "onboard_time": 1706839349,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108315,
       "num": 108315,
       "word": "周鸿祎建议刘德华转行当网红",
       "onboard_time": 1706807364,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105616,
+      "num": 105616,
+      "word": "小女孩问啥都说没啥记者慌了",
+      "onboard_time": 1706840310,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104036,
@@ -785,6 +857,14 @@
       "onboard_time": 1706800953,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91164,
+      "num": 91164,
+      "word": "荷兰人有多抠",
+      "onboard_time": 1706840486,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 88532,
@@ -939,14 +1019,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 42006,
-      "num": 301788,
-      "word": "在支付宝拍了今年第一套全家福",
-      "onboard_time": 1706839228,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
@@ -964,7 +1036,7 @@
     },
     {
       "raw_hot": 35445,
-      "num": 250068,
+      "num": 546109,
       "word": "年的意义是爱与陪伴",
       "onboard_time": 1706837550,
       "rank": 19,
