@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706872474993,
+  "endTime": 1706873638043,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -41,6 +41,14 @@
       "onboard_time": 1706778871,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2349740,
+      "num": 2349740,
+      "word": "死亡万花筒真的来了",
+      "onboard_time": 1706870790,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2332695,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1818903,
+      "num": 1818903,
+      "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+      "onboard_time": 1706870130,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1804535,
       "num": 1804535,
       "word": "百里屠苏好久不见",
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1675025,
-      "num": 1675025,
-      "word": "老人去世前3小时突然清醒遗愿令人泪崩",
-      "onboard_time": 1706870130,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1639551,
       "num": 1075496,
       "word": "郑爽绝密者服务费1.2亿",
@@ -193,14 +201,6 @@
       "onboard_time": 1706760274,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1618489,
-      "num": 1618489,
-      "word": "死亡万花筒真的来了",
-      "onboard_time": 1706870790,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1604983,
@@ -409,6 +409,14 @@
       "onboard_time": 1706788412,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1086721,
+      "num": 1086721,
+      "word": "皓衣行",
+      "onboard_time": 1706871452,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1077455,
@@ -755,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 686700,
+      "num": 686700,
+      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+      "onboard_time": 1706868933,
+      "rank": 25,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 684565,
       "num": 684565,
       "word": "坐飞机偶遇鹿晗",
@@ -777,6 +793,14 @@
       "onboard_time": 1706858851,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 674343,
+      "num": 674343,
+      "word": "致命游戏空降",
+      "onboard_time": 1706870130,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 670803,
@@ -1083,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 539639,
-      "num": 539639,
-      "word": "致命游戏空降",
-      "onboard_time": 1706870130,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 537880,
       "num": 537880,
       "word": "Selina产后代言收入达百万",
@@ -1243,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482351,
-      "num": 482351,
-      "word": "皓衣行",
-      "onboard_time": 1706871452,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 480669,
       "num": 480669,
       "word": "春晚节目单",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1706783851,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473658,
+      "num": 473658,
+      "word": "致命游戏首更52集",
+      "onboard_time": 1706870853,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 471660,
@@ -1427,14 +1443,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 425217,
-      "num": 489531,
-      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
-      "onboard_time": 1706868933,
-      "rank": 25,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 423411,
       "num": 423411,
       "word": "kpop历代级美貌",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1706842290,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400495,
+      "num": 400495,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1706868751,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 398618,
@@ -1771,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347808,
+      "num": 338628,
+      "word": "TWICE not in",
+      "onboard_time": 1706870911,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 344076,
       "num": 344076,
       "word": "中介称张庭打包6套海景别墅是真的",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1706830163,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 338628,
-      "num": 338628,
-      "word": "TWICE not in",
-      "onboard_time": 1706870911,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 334754,
@@ -1841,14 +1857,6 @@
       "onboard_time": 1706753791,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 331673,
-      "num": 229195,
-      "word": "致命游戏首更52集",
-      "onboard_time": 1706870853,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 331597,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1706772087,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321873,
-      "num": 222627,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1706868751,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 319851,
@@ -2427,6 +2427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249086,
+      "num": 249086,
+      "word": "他的性别生来就是老公",
+      "onboard_time": 1706872591,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248286,
       "num": 248286,
       "word": "恋与深空红包封面",
@@ -2571,6 +2579,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233858,
+      "num": 1091893,
+      "word": "排队5个小时都要带走的广式年货",
+      "onboard_time": 1706868214,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 233513,
+      "num": 233513,
+      "word": "老师我们光渊呢",
+      "onboard_time": 1706872470,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232316,
       "num": 232316,
       "word": "明日方舟",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1706864373,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224791,
-      "num": 1091893,
-      "word": "排队5个小时都要带走的广式年货",
-      "onboard_time": 1706868214,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 224379,
@@ -2867,6 +2883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208158,
+      "num": 879033,
+      "word": "被妈妈一句回来就是最好的礼物破防了",
+      "onboard_time": 1706869531,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208010,
+      "num": 208010,
+      "word": "致命游戏 无限流",
+      "onboard_time": 1706872712,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205832,
       "num": 205832,
       "word": "龙宝",
@@ -2921,6 +2953,14 @@
       "onboard_time": 1706774909,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205078,
+      "num": 250278,
+      "word": "菏泽一派出所协警铐走实习律师",
+      "onboard_time": 1706872111,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204799,
@@ -3009,6 +3049,14 @@
       "onboard_time": 1706772693,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199274,
+      "num": 199274,
+      "word": "时代少年团周边",
+      "onboard_time": 1706872891,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198885,
@@ -3515,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179120,
+      "num": 179120,
+      "word": "芙拉直播",
+      "onboard_time": 1706873073,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178610,
       "num": 178610,
       "word": "死亡搁浅2",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1706847754,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177305,
-      "num": 879033,
-      "word": "被妈妈一句回来就是最好的礼物破防了",
-      "onboard_time": 1706869531,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 177169,
@@ -3729,6 +3777,14 @@
       "onboard_time": 1706862093,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 171640,
+      "num": 171640,
+      "word": "摇粒绒小猫咪",
+      "onboard_time": 1706871991,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 171091,
@@ -3923,6 +3979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163208,
+      "num": 163208,
+      "word": "四招缓解腱鞘炎",
+      "onboard_time": 1706872833,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163011,
       "num": 163011,
       "word": "章昊微博直播",
@@ -3939,6 +4003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161939,
+      "num": 161939,
+      "word": "专家称沪指拉升20%才能扭转颓势",
+      "onboard_time": 1706873252,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161501,
       "num": 213628,
       "word": "2023年全国一般公共预算收入同比增长6.4%",
@@ -3953,14 +4025,6 @@
       "onboard_time": 1706771429,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161264,
-      "num": 161264,
-      "word": "摇粒绒小猫咪",
-      "onboard_time": 1706871991,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 160760,
@@ -4433,14 +4497,6 @@
       "onboard_time": 1706700752,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139434,
-      "num": 139434,
-      "word": "菏泽一派出所协警铐走实习律师",
-      "onboard_time": 1706872111,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139420,
@@ -4961,6 +5017,14 @@
       "onboard_time": 1706771610,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117696,
+      "num": 117696,
+      "word": "陈虹伊clean",
+      "onboard_time": 1706873372,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 117272,
@@ -5627,8 +5691,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21137,
-      "num": 256385,
+      "raw_hot": 21530,
+      "num": 410274,
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,
       "rank": 23,
@@ -5681,6 +5745,14 @@
       "onboard_time": 1706819537,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13439,
+      "num": 180339,
+      "word": "金晨红山动物园游园VLOG",
+      "onboard_time": 1706872591,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 12551,
