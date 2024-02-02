@@ -1,7 +1,15 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706852026951,
+  "endTime": 1706854872707,
   "band_list": [
+    {
+      "raw_hot": 3421471,
+      "num": 3421471,
+      "word": "杨波出轨风波",
+      "onboard_time": 1706852254,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3271293,
       "num": 3271293,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 2215936,
-      "num": 776917,
+      "num": 1075502,
       "word": "追到美国让郑爽还钱",
       "onboard_time": 1706850035,
       "rank": 5,
@@ -49,6 +57,14 @@
       "onboard_time": 1706836530,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1795542,
+      "num": 1795542,
+      "word": "股市",
+      "onboard_time": 1706853814,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1604983,
@@ -83,6 +99,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1309301,
+      "num": 1309301,
+      "word": "超4700只个股下跌",
+      "onboard_time": 1706853213,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1257276,
       "num": 1257276,
       "word": "微信体积再变大",
@@ -97,6 +121,14 @@
       "onboard_time": 1706830106,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1209135,
+      "num": 1209135,
+      "word": "奥运冠军杨倩教练发文讨薪",
+      "onboard_time": 1706852492,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1193106,
@@ -179,6 +211,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 785225,
+      "num": 785225,
+      "word": "A股创业板指跌至3%",
+      "onboard_time": 1706854053,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 757997,
       "num": 757997,
       "word": "男子杀人逃亡19年得知杀错人",
@@ -193,6 +233,22 @@
       "onboard_time": 1706842949,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 732377,
+      "num": 732377,
+      "word": "迪丽热巴英文聊天",
+      "onboard_time": 1706852433,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 704400,
+      "num": 704400,
+      "word": "聊天记录占超75%微信内存",
+      "onboard_time": 1706850815,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 698203,
@@ -219,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613054,
-      "num": 613054,
-      "word": "聊天记录占超75%微信内存",
-      "onboard_time": 1706850815,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 632678,
+      "num": 632678,
+      "word": "杨波评论区",
+      "onboard_time": 1706851833,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 605235,
@@ -267,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557824,
+      "num": 557824,
+      "word": "韩如雪否认知三当三",
+      "onboard_time": 1706852191,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554361,
       "num": 554361,
       "word": "人民日报评奔驰车男子打砸引擎盖事件",
@@ -307,16 +371,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 519713,
-      "num": 478463,
-      "word": "杨波评论区",
-      "onboard_time": 1706851833,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 480669,
+      "num": 480669,
+      "word": "春晚节目单",
+      "onboard_time": 1706853631,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 452237,
-      "num": 332670,
+      "num": 425210,
       "word": "11万股民跌停板上凌乱了",
       "onboard_time": 1706848477,
       "rank": 27,
@@ -344,6 +408,14 @@
       "word": "茅台原董事长高卫东被判无期",
       "onboard_time": 1706850396,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429716,
+      "num": 429716,
+      "word": "奔驰车加塞事件",
+      "onboard_time": 1706852850,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -449,6 +521,14 @@
       "onboard_time": 1706831249,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355960,
+      "num": 355960,
+      "word": "最难追的星座",
+      "onboard_time": 1706852371,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 354995,
@@ -651,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268034,
+      "num": 268034,
+      "word": "胡锡进",
+      "onboard_time": 1706854293,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -665,6 +753,14 @@
       "onboard_time": 1706849256,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262290,
+      "num": 262290,
+      "word": "生育损伤是人类注定的吗",
+      "onboard_time": 1706854293,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254538,
@@ -689,6 +785,14 @@
       "onboard_time": 1706835329,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243620,
+      "num": 243620,
+      "word": "恋与深空",
+      "onboard_time": 1706852972,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 241594,
@@ -753,6 +857,14 @@
       "onboard_time": 1706799512,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219590,
+      "num": 219590,
+      "word": "世界之外体力",
+      "onboard_time": 1706853213,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 218207,
@@ -852,7 +964,7 @@
     },
     {
       "raw_hot": 194355,
-      "num": 1697216,
+      "num": 1912591,
       "word": "赶大集是中国人独有热闹",
       "onboard_time": 1706842228,
       "rank": 2,
@@ -865,6 +977,14 @@
       "onboard_time": 1706798431,
       "rank": 16,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 193202,
+      "num": 193202,
+      "word": "王亚飞",
+      "onboard_time": 1706853395,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192711,
@@ -939,12 +1059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184116,
+      "num": 184116,
+      "word": "代号鸢",
+      "onboard_time": 1706853451,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183093,
       "num": 183093,
       "word": "春运返程火车票今天开抢",
       "onboard_time": 1706833470,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181786,
+      "num": 181786,
+      "word": "磊麦",
+      "onboard_time": 1706854531,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 180665,
@@ -1011,12 +1147,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168211,
+      "num": 168211,
+      "word": "药明康德快速跌停",
+      "onboard_time": 1706853153,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 164263,
+      "num": 124704,
+      "word": "迪丽热巴猫耳朵针织帽",
+      "onboard_time": 1706854112,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163977,
       "num": 126158,
       "word": "陈都灵等车",
       "onboard_time": 1706793512,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163815,
+      "num": 163815,
+      "word": "TWICE回归",
+      "onboard_time": 1706852793,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 162872,
@@ -1067,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146635,
+      "num": 146635,
+      "word": "为什么抱婴儿都用左手",
+      "onboard_time": 1706852013,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 146466,
       "num": 146466,
       "word": "甜蜜家园3",
@@ -1081,14 +1249,6 @@
       "onboard_time": 1706794954,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142592,
-      "num": 142592,
-      "word": "为什么抱婴儿都用左手",
-      "onboard_time": 1706852013,
-      "rank": 39,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 141060,
@@ -1241,6 +1401,14 @@
       "onboard_time": 1706779710,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116162,
+      "num": 116162,
+      "word": "上海一家八口住在150平老破大",
+      "onboard_time": 1706854652,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114212,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706852026951,
+  "endTime": 1706854872707,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -393,6 +393,14 @@
       "onboard_time": 1704437310,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3421471,
+      "num": 3421471,
+      "word": "杨波出轨风波",
+      "onboard_time": 1706852254,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3366080,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 2215936,
-      "num": 776917,
+      "num": 1075502,
       "word": "追到美国让郑爽还钱",
       "onboard_time": 1706850035,
       "rank": 5,
@@ -1899,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1795542,
+      "num": 1795542,
+      "word": "股市",
+      "onboard_time": 1705569570,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1794344,
       "num": 1794344,
       "word": "鸡蛋上最脏的东西可能被你吃了",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705411651,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1635924,
-      "num": 1635924,
-      "word": "花130万帮女儿当网红2年没成功",
-      "onboard_time": 1706751331,
-      "rank": 0,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1631758,
-      "num": 1251428,
-      "word": "华中农大11名学生联名举报信长达125页",
-      "onboard_time": 1705502670,
-      "rank": 3,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
