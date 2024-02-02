@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706906109374,
+  "endTime": 1706908484478,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -17419,6 +17419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36614,
+      "num": 24201,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36143,
       "num": 251122,
       "word": "蛋仔岛来了外卖侠",
@@ -17497,6 +17505,14 @@
       "onboard_time": 1706388196,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 32073,
+      "num": 31088,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 32009,
@@ -17619,20 +17635,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 23307,
-      "num": 23307,
-      "word": "花花被扇倒索性直接躺下",
-      "onboard_time": 1706905096,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22994,
       "num": 22994,
       "word": "王者对局环境新机制获奖方案",
       "onboard_time": 1706639058,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22689,
+      "num": 22689,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 22239,
@@ -17657,14 +17673,6 @@
       "onboard_time": 1706902276,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20805,
-      "num": 20805,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 18841,
@@ -17697,14 +17705,6 @@
       "onboard_time": 1706900359,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 17126,
-      "num": 17126,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 16941,
@@ -17841,6 +17841,22 @@
       "onboard_time": 1706872591,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13253,
+      "num": 13253,
+      "word": "宋亚轩躲C位",
+      "onboard_time": 1706907257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12591,
+      "num": 13233,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 12551,

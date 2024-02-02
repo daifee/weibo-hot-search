@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706906109374,
+  "endTime": 1706908484478,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -6443,6 +6443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36614,
+      "num": 24201,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35863,
       "num": 176012,
       "word": "京东春晚再加奢华家电",
@@ -6481,6 +6489,14 @@
       "onboard_time": 1706756012,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32073,
+      "num": 31088,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 30602,
@@ -6539,12 +6555,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 23307,
-      "num": 23307,
-      "word": "花花被扇倒索性直接躺下",
-      "onboard_time": 1706905096,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 22689,
+      "num": 22689,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 22239,
@@ -6571,28 +6587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20805,
-      "num": 20805,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17254,
       "num": 19810,
       "word": "雪花酥也成了刺客",
       "onboard_time": 1706900359,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 17126,
-      "num": 17126,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 16757,
@@ -6665,6 +6665,22 @@
       "onboard_time": 1706872591,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13253,
+      "num": 13253,
+      "word": "宋亚轩躲C位",
+      "onboard_time": 1706907257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12591,
+      "num": 13233,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 12551,
