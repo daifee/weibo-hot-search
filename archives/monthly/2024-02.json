@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706847647824,
+  "endTime": 1706848575473,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1523119,
+      "num": 1003678,
+      "word": "厦门大学",
+      "onboard_time": 1706847331,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1515306,
       "num": 1515306,
       "word": "官方通报女干部被曝不雅聊天",
@@ -281,6 +289,22 @@
       "onboard_time": 1706839767,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1003912,
+      "num": 1003912,
+      "word": "韩如雪",
+      "onboard_time": 1706846490,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1003359,
+      "num": 1003359,
+      "word": "肖战不上综艺的原因",
+      "onboard_time": 1706847813,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 976310,
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618768,
-      "num": 618768,
-      "word": "韩如雪",
-      "onboard_time": 1706846490,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 616223,
       "num": 616223,
       "word": "人民网评张波叶诚尘被执行死刑",
@@ -779,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543070,
+      "num": 543070,
+      "word": "郑爽拍戏延期一天220万",
+      "onboard_time": 1706848293,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537880,
       "num": 537880,
       "word": "Selina产后代言收入达百万",
@@ -825,6 +849,14 @@
       "onboard_time": 1706752288,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 519499,
+      "num": 519499,
+      "word": "咳嗽时把痰咽下去伤身体吗",
+      "onboard_time": 1706847629,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 503730,
@@ -929,6 +961,14 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 460372,
+      "num": 374963,
+      "word": "肖战为拍射雕英雄传增重",
+      "onboard_time": 1706847573,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 458759,
@@ -1048,6 +1088,14 @@
       "word": "迪丽热巴成都",
       "onboard_time": 1706842290,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 398983,
+      "num": 398983,
+      "word": "黄子韬登机牌",
+      "onboard_time": 1706847513,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1219,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362779,
-      "num": 362779,
-      "word": "厦门大学",
-      "onboard_time": 1706847331,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 361936,
       "num": 361936,
       "word": "卜冠今回应造型争议",
@@ -1252,7 +1292,7 @@
     },
     {
       "raw_hot": 356188,
-      "num": 302894,
+      "num": 312302,
       "word": "00后女孩喜中50万大奖",
       "onboard_time": 1706846070,
       "rank": 20,
@@ -1859,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237141,
+      "num": 207754,
+      "word": "去西藏配眼镜了吗",
+      "onboard_time": 1706846852,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236403,
       "num": 198415,
       "word": "我妈说过年回去随便穿穿",
@@ -2083,18 +2131,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215456,
+      "num": 215456,
+      "word": "11万股民跌停板上凌乱了",
+      "onboard_time": 1706848477,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214749,
       "num": 214749,
       "word": "哈尔滨白狐宝宝罢工了",
       "onboard_time": 1706778149,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 213252,
-      "num": 195359,
-      "word": "去西藏配眼镜了吗",
-      "onboard_time": 1706846852,
       "rank": 31,
       "category": "幽默"
     },
@@ -2121,6 +2169,14 @@
       "onboard_time": 1706753434,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205691,
+      "num": 205691,
+      "word": "灶王爷",
+      "onboard_time": 1706847393,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205665,
@@ -2387,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188684,
+      "num": 188684,
+      "word": "鞠婧祎龙年比心五连拍",
+      "onboard_time": 1706847994,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187921,
       "num": 187921,
       "word": "章昊韩振cha",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1706767706,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177397,
+      "num": 177397,
+      "word": "DNF手游版号获批",
+      "onboard_time": 1706847754,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 177169,
@@ -2859,14 +2931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162097,
-      "num": 162097,
-      "word": "灶王爷",
-      "onboard_time": 1706847393,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161501,
       "num": 213628,
       "word": "2023年全国一般公共预算收入同比增长6.4%",
@@ -2955,6 +3019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156071,
+      "num": 156071,
+      "word": "总戴假睫毛的人现在都怎么样了",
+      "onboard_time": 1706848353,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155727,
       "num": 155727,
       "word": "新人结婚婆家铺2公里气球路连到娘家",
@@ -3011,14 +3083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154199,
-      "num": 154199,
-      "word": "黄子韬登机牌",
-      "onboard_time": 1706847513,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153375,
       "num": 153375,
       "word": "董宇辉以不过如此总结自己",
@@ -3065,14 +3129,6 @@
       "onboard_time": 1706770587,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151712,
-      "num": 151712,
-      "word": "咳嗽时把痰咽下去伤身体吗",
-      "onboard_time": 1706847629,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 151644,
@@ -3192,14 +3248,6 @@
       "word": "六公主镜头下的刘耀文",
       "onboard_time": 1706770112,
       "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 145788,
-      "num": 145788,
-      "word": "肖战为拍射雕英雄传增重",
-      "onboard_time": 1706847573,
-      "rank": 42,
       "category": "电影"
     },
     {
@@ -3681,6 +3729,14 @@
       "onboard_time": 1706800354,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121219,
+      "num": 121219,
+      "word": "吴磊赵今麦吻戏",
+      "onboard_time": 1706848533,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 121043,
