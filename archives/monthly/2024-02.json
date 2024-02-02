@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706905019677,
+  "endTime": 1706906109374,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -6531,6 +6531,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23414,
+      "num": 21104,
+      "word": "江西家宴",
+      "onboard_time": 1706904137,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 23307,
+      "num": 23307,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22239,
       "num": 153469,
       "word": "到底是谁和周杰伦击了掌",
@@ -6555,12 +6571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21104,
-      "num": 21104,
-      "word": "江西家宴",
-      "onboard_time": 1706904137,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 20805,
+      "num": 20805,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 17254,
@@ -6569,6 +6585,14 @@
       "onboard_time": 1706900359,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17126,
+      "num": 17126,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 16757,
