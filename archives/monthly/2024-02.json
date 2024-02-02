@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706898940906,
+  "endTime": 1706901325128,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -3251,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206269,
+      "num": 206269,
+      "word": "郑爽仍有3856万赔付款未履行",
+      "onboard_time": 1706897301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205832,
       "num": 205832,
       "word": "龙宝",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1706840310,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192570,
-      "num": 192570,
-      "word": "郑爽仍有3856万赔付款未履行",
-      "onboard_time": 1706897301,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 192484,
@@ -5659,6 +5659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116864,
+      "num": 76799,
+      "word": "痛失广东市场",
+      "onboard_time": 1706898379,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116243,
       "num": 116243,
       "word": "蓬松编发教程",
@@ -6195,6 +6203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75237,
+      "num": 75237,
+      "word": "李玉玲",
+      "onboard_time": 1706898558,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 74413,
       "num": 74413,
       "word": "刘德华扫楼听到恭喜发财的反应",
@@ -6395,6 +6411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41012,
+      "num": 41012,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40788,
       "num": 45532,
       "word": "惠英红穿了陈伟霆送的衣服",
@@ -6403,20 +6427,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39588,
-      "num": 39588,
-      "word": "李玉玲",
-      "onboard_time": 1706898558,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38977,
+      "num": 34846,
+      "word": "36个女大学生演活了汉宫春晓图",
+      "onboard_time": 1706898499,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 35863,
@@ -6441,14 +6465,6 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34846,
-      "num": 34846,
-      "word": "36个女大学生演活了汉宫春晓图",
-      "onboard_time": 1706898499,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 34020,
@@ -6481,14 +6497,6 @@
       "onboard_time": 1706868214,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28380,
-      "num": 35020,
-      "word": "痛失广东市场",
-      "onboard_time": 1706898379,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 27691,
@@ -6529,6 +6537,14 @@
       "onboard_time": 1706868153,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17254,
+      "num": 19082,
+      "word": "雪花酥也成了刺客",
+      "onboard_time": 1706900359,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 16757,
