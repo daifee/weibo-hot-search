@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706894259214,
+  "endTime": 1706895227001,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -3931,6 +3931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 180963,
+      "num": 180963,
+      "word": "中国香港队退出电竞版足球亚洲杯",
+      "onboard_time": 1706890107,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180703,
       "num": 180703,
       "word": "狗剩快跑杏儿下线",
@@ -4987,6 +4995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140375,
+      "num": 136814,
+      "word": "孔刘李栋旭又合体",
+      "onboard_time": 1706894544,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139907,
       "num": 139907,
       "word": "龙年限定系列皮肤龙祐千载",
@@ -5091,11 +5107,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 136540,
-      "num": 154864,
-      "word": "中国香港队退出电竞版足球亚洲杯",
-      "onboard_time": 1706890107,
-      "rank": 29,
+      "raw_hot": 136579,
+      "num": 136579,
+      "word": "亚洲杯",
+      "onboard_time": 1706728097,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -5667,6 +5683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113805,
+      "num": 113805,
+      "word": "kpop审美",
+      "onboard_time": 1706895142,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113686,
       "num": 113686,
       "word": "要久久爱",
@@ -6051,14 +6075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87139,
-      "num": 87139,
-      "word": "亚洲杯",
-      "onboard_time": 1706728097,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87134,
       "num": 89984,
       "word": "2024LCK",
@@ -6217,6 +6233,14 @@
       "onboard_time": 1706803050,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55965,
+      "num": 55965,
+      "word": "林亦扬占有欲",
+      "onboard_time": 1706894304,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 55763,

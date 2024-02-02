@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706894259214,
+  "endTime": 1706895227001,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -187,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180963,
+      "num": 180963,
+      "word": "中国香港队退出电竞版足球亚洲杯",
+      "onboard_time": 1706890107,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177710,
       "num": 454742,
       "word": "店门口的结婚假条写满了路人祝福",
@@ -243,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140375,
+      "num": 136814,
+      "word": "孔刘李栋旭又合体",
+      "onboard_time": 1706894544,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138507,
       "num": 138507,
       "word": "相亲前后的变化到底有多大",
@@ -251,11 +267,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136540,
-      "num": 154864,
-      "word": "中国香港队退出电竞版足球亚洲杯",
-      "onboard_time": 1706890107,
-      "rank": 29,
+      "raw_hot": 136579,
+      "num": 136579,
+      "word": "亚洲杯",
+      "onboard_time": 1706891191,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -289,6 +305,14 @@
       "onboard_time": 1706880274,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113805,
+      "num": 113805,
+      "word": "kpop审美",
+      "onboard_time": 1706895142,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113686,
@@ -363,14 +387,6 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 87139,
-      "num": 87139,
-      "word": "亚洲杯",
-      "onboard_time": 1706891191,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87134,
       "num": 89984,
       "word": "2024LCK",
@@ -425,6 +441,14 @@
       "onboard_time": 1706874274,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55965,
+      "num": 55965,
+      "word": "林亦扬占有欲",
+      "onboard_time": 1706894304,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 14931,
