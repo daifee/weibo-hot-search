@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706858112486,
+  "endTime": 1706859229668,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1459,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1959023,
+      "num": 1959023,
+      "word": "2700",
+      "onboard_time": 1706855372,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1955941,
       "num": 1955941,
       "word": "王嘉尔王一博坐一起",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705403971,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1642748,
-      "num": 1642748,
-      "word": "杨幂回应三亿对赌传闻",
-      "onboard_time": 1706584827,
-      "rank": 7,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

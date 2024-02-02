@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706858112486,
+  "endTime": 1706859229668,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -209,6 +209,14 @@
       "onboard_time": 1706429909,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1959023,
+      "num": 1959023,
+      "word": "2700",
+      "onboard_time": 1706855372,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 1952325,
@@ -987,12 +995,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1072771,
-      "num": 1072771,
-      "word": "2700",
-      "onboard_time": 1706855372,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 1075496,
+      "num": 1075496,
+      "word": "郑爽绝密者服务费1.2亿",
+      "onboard_time": 1706858192,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1066148,
@@ -1171,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964519,
+      "num": 577114,
+      "word": "郑爽境内外资产单一项就超过2.3亿",
+      "onboard_time": 1706858071,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 962187,
       "num": 962187,
       "word": "济南奔驰车主逆行堵路放话不怕报警",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1706596952,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887130,
+      "num": 887130,
+      "word": "上交所 外卖",
+      "onboard_time": 1706857414,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 882924,
@@ -3651,6 +3675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 461241,
+      "num": 461241,
+      "word": "霸王茶姬dsp",
+      "onboard_time": 1706857951,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 459085,
       "num": 459085,
       "word": "中国地质大学回应公示拟聘任处长之子",
@@ -3977,14 +4009,6 @@
       "onboard_time": 1706677835,
       "rank": 20,
       "category": "美食,剧集"
-    },
-    {
-      "raw_hot": 423456,
-      "num": 423456,
-      "word": "上交所 外卖",
-      "onboard_time": 1706857414,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 423411,
@@ -4699,6 +4723,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 368924,
+      "num": 368924,
+      "word": "郑爽家人曾赔偿二手劳斯莱斯",
+      "onboard_time": 1706858915,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368357,
       "num": 368357,
       "word": "郑裕玲打卡肖战上海大屏",
@@ -4841,6 +4873,14 @@
       "onboard_time": 1706787331,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359991,
+      "num": 359991,
+      "word": "杨幂小年穿高定",
+      "onboard_time": 1706858132,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358580,
@@ -5049,6 +5089,14 @@
       "onboard_time": 1706405968,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347012,
+      "num": 347012,
+      "word": "杨波 大学当了四年海王",
+      "onboard_time": 1706858251,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 345437,
@@ -5675,6 +5723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 302918,
+      "num": 302918,
+      "word": "谭松韵大女主",
+      "onboard_time": 1706858673,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 302798,
       "num": 302798,
       "word": "杭州巨响",
@@ -5859,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294721,
+      "num": 294721,
+      "word": "证监会",
+      "onboard_time": 1706858308,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 294098,
       "num": 257957,
       "word": "赵丽颖红妆写真",
@@ -5953,6 +6017,14 @@
       "onboard_time": 1706823555,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291838,
+      "num": 291838,
+      "word": "张凯毅回应被张煜东表白",
+      "onboard_time": 1706858851,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 291311,
@@ -7049,6 +7121,14 @@
       "onboard_time": 1706396839,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233706,
+      "num": 233706,
+      "word": "胡歌 瑞金医院表彰大会",
+      "onboard_time": 1706858791,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 233611,
@@ -8291,6 +8371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202169,
+      "num": 202169,
+      "word": "上交所",
+      "onboard_time": 1706858495,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202153,
       "num": 202153,
       "word": "喜欢一个人的真实反应",
@@ -8353,6 +8441,14 @@
       "onboard_time": 1706426850,
       "rank": 24,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 201147,
+      "num": 201147,
+      "word": "肖战想挤地铁逛商场",
+      "onboard_time": 1706859155,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200814,
@@ -8947,6 +9043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189489,
+      "num": 189489,
+      "word": "和奶奶拍全家福的心愿实现了",
+      "onboard_time": 1706859032,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189395,
       "num": 189395,
       "word": "巴勒斯坦球员围堵马宁",
@@ -9489,6 +9593,14 @@
       "onboard_time": 1706487988,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179882,
+      "num": 179882,
+      "word": "A股超200股跌停",
+      "onboard_time": 1706859090,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 179431,
@@ -10209,14 +10321,6 @@
       "onboard_time": 1706407648,
       "rank": 37,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 163851,
-      "num": 163851,
-      "word": "霸王茶姬dsp",
-      "onboard_time": 1706857951,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 163815,
@@ -11227,6 +11331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147598,
+      "num": 147598,
+      "word": "做一次CT对人体的伤害有多大",
+      "onboard_time": 1706858673,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147555,
       "num": 147555,
       "word": "喝酒不暖身越喝会越冷",
@@ -11297,14 +11409,6 @@
       "onboard_time": 1706765730,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146841,
-      "num": 146841,
-      "word": "郑爽境内外资产单一项就超过2.3亿",
-      "onboard_time": 1706858071,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 146781,
@@ -11385,6 +11489,14 @@
       "onboard_time": 1706627611,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145704,
+      "num": 145704,
+      "word": "一年过2次的节日",
+      "onboard_time": 1706858973,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 145392,
@@ -15531,6 +15643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 52099,
+      "num": 1201282,
+      "word": "致敬每位春节期间坚守在岗位上的人",
+      "onboard_time": 1706841870,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51935,
       "num": 51935,
       "word": "王霜热刺首秀",
@@ -15675,6 +15795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 44373,
+      "num": 362162,
+      "word": "拍出你眼中的龙年味道",
+      "onboard_time": 1706857713,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43200,
       "num": 43200,
       "word": "常远比岳云鹏早26年上春晚",
@@ -15777,6 +15905,14 @@
       "onboard_time": 1706417188,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35863,
+      "num": 176012,
+      "word": "京东春晚再加奢华家电",
+      "onboard_time": 1706858071,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 35815,
@@ -15889,14 +16025,6 @@
       "onboard_time": 1706587229,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29437,
-      "num": 157249,
-      "word": "拍出你眼中的龙年味道",
-      "onboard_time": 1706857713,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29342,
@@ -16043,14 +16171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15491,
-      "num": 1096860,
-      "word": "致敬每位春节期间坚守在岗位上的人",
-      "onboard_time": 1706841870,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
@@ -16185,14 +16305,6 @@
       "onboard_time": 1706618549,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6420,
-      "num": 125932,
-      "word": "京东春晚再加奢华家电",
-      "onboard_time": 1706858071,
-      "rank": 49,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
