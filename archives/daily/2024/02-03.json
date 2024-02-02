@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706898130118,
+  "endTime": 1706898940906,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192570,
+      "num": 192570,
+      "word": "郑爽仍有3856万赔付款未履行",
+      "onboard_time": 1706897301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187330,
       "num": 187330,
       "word": "美甲翻车",
@@ -315,7 +323,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123174,
+      "raw_hot": 128247,
       "num": 118202,
       "word": "王珞丹同一件礼服12年前后对比",
       "onboard_time": 1706895861,
@@ -329,14 +337,6 @@
       "onboard_time": 1706888012,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111527,
-      "num": 71953,
-      "word": "郑爽仍有3856万赔付款未履行",
-      "onboard_time": 1706897301,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 111297,
@@ -473,6 +473,30 @@
       "onboard_time": 1706896341,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39588,
+      "num": 39588,
+      "word": "李玉玲",
+      "onboard_time": 1706898558,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 34846,
+      "num": 34846,
+      "word": "36个女大学生演活了汉宫春晓图",
+      "onboard_time": 1706898499,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28380,
+      "num": 35020,
+      "word": "痛失广东市场",
+      "onboard_time": 1706898379,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 14931,
