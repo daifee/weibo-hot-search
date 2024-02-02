@@ -1,0 +1,410 @@
+{
+  "runTime": 1706844842026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1863702,
+        "num": 1863702,
+        "word": "有女朋友还和别人接吻",
+        "onboard_time": 1706843130,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1845141,
+        "num": 1845141,
+        "word": "我的婚礼取消了这七个环节",
+        "onboard_time": 1706836530,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189478,
+        "num": 1312046,
+        "word": "赶大集是中国人独有热闹",
+        "onboard_time": 1706842228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009649,
+        "num": 1009649,
+        "word": "频繁做美甲会导致手变黑",
+        "onboard_time": 1706838689,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 857732,
+        "num": 857732,
+        "word": "云南宣威一村突发刑案致6人死亡",
+        "onboard_time": 1706841270,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1808924,
+        "num": 853799,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748964,
+        "num": 748964,
+        "word": "肖战背沟好深",
+        "onboard_time": 1706842949,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 697138,
+        "num": 697138,
+        "word": "微信体积再变大",
+        "onboard_time": 1706843012,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 667977,
+        "num": 667977,
+        "word": "男子杀人逃亡19年得知杀错人",
+        "onboard_time": 1706839709,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495034,
+        "num": 495034,
+        "word": "A股",
+        "onboard_time": 1706843130,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 686295,
+        "num": 493245,
+        "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+        "onboard_time": 1706830106,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488136,
+        "num": 488136,
+        "word": "美方承认几十年来改变中国的努力都没有成功",
+        "onboard_time": 1706830106,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484250,
+        "num": 484250,
+        "word": "铁路回应为何12306售罄携程有票",
+        "onboard_time": 1706838090,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463028,
+        "num": 463028,
+        "word": "补水 智商税",
+        "onboard_time": 1706834489,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 55713,
+        "num": 445834,
+        "word": "在山东大集懂了啥叫烟火人间",
+        "onboard_time": 1706842829,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428655,
+        "num": 428655,
+        "word": "许嵩演唱在暴雪时分片头曲",
+        "onboard_time": 1706841151,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402177,
+        "num": 402177,
+        "word": "迪丽热巴成都",
+        "onboard_time": 1706842290,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372428,
+        "num": 372428,
+        "word": "跳跳俏俏六岁了",
+        "onboard_time": 1706832450,
+        "rank": 17,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 363217,
+        "num": 363217,
+        "word": "胖东来一件羽绒服仅赚3毛钱",
+        "onboard_time": 1706831368,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357178,
+        "num": 357178,
+        "word": "周杰伦杭州抢票",
+        "onboard_time": 1706839767,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354370,
+        "num": 354370,
+        "word": "人民日报评奔驰车男子打砸引擎盖事件",
+        "onboard_time": 1706838810,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326098,
+        "num": 326098,
+        "word": "曝湖人可能交易詹姆斯",
+        "onboard_time": 1706843311,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313278,
+        "num": 313278,
+        "word": "花少5豆瓣评分破9了",
+        "onboard_time": 1706838391,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48627,
+        "num": 287521,
+        "word": "小年小年回家过年",
+        "onboard_time": 1706843012,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286804,
+        "num": 286804,
+        "word": "一只鸽子在印度被当成中国间谍",
+        "onboard_time": 1706840909,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284913,
+        "num": 284913,
+        "word": "为什么咳嗽起来就止不住",
+        "onboard_time": 1706842650,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271309,
+        "num": 271309,
+        "word": "五问上海禁止网约车在浦东机场运营",
+        "onboard_time": 1706839589,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254322,
+        "num": 254322,
+        "word": "南来北往定档",
+        "onboard_time": 1706840788,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241213,
+        "num": 241213,
+        "word": "高至霆 出租屋文学",
+        "onboard_time": 1706841449,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197776,
+        "num": 197776,
+        "word": "小年",
+        "onboard_time": 1706829142,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196267,
+        "num": 196267,
+        "word": "蔡依林贵阳演唱会预售",
+        "onboard_time": 1706844210,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186270,
+        "num": 186270,
+        "word": "里夫斯32分",
+        "onboard_time": 1706844391,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184758,
+        "num": 184758,
+        "word": "小女孩问啥都说没啥记者慌了",
+        "onboard_time": 1706840310,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165150,
+        "num": 165150,
+        "word": "内裤穿多久扔掉最合适",
+        "onboard_time": 1706830163,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159569,
+        "num": 159569,
+        "word": "小年快乐",
+        "onboard_time": 1706832688,
+        "rank": 34,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 152975,
+        "num": 152975,
+        "word": "丫丫过小年",
+        "onboard_time": 1706838869,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152271,
+        "num": 152271,
+        "word": "广州鼓励网约车进机场等枢纽接单",
+        "onboard_time": 1706844811,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149723,
+        "num": 149723,
+        "word": "女子遭情敌挑衅一气之下跳楼身亡",
+        "onboard_time": 1706831249,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138827,
+        "num": 138827,
+        "word": "智族GQ肖战梦境大片",
+        "onboard_time": 1706840486,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136721,
+        "num": 136721,
+        "word": "赵露思刘宇宁同框路透",
+        "onboard_time": 1706836049,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135933,
+        "num": 135933,
+        "word": "减到什么程度才算减肥成功",
+        "onboard_time": 1706838508,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132440,
+        "num": 132440,
+        "word": "300万女性住在卡车上",
+        "onboard_time": 1706841211,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129731,
+        "num": 129731,
+        "word": "残阵湖人太6了",
+        "onboard_time": 1706842112,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128552,
+        "num": 128552,
+        "word": "湖人战胜凯尔特人",
+        "onboard_time": 1706843191,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123562,
+        "num": 125882,
+        "word": "酒店回应田朴珺吐槽卫生差",
+        "onboard_time": 1706841211,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125204,
+        "num": 125204,
+        "word": "梅西C罗表情",
+        "onboard_time": 1706839767,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123689,
+        "num": 123689,
+        "word": "被砸车女子回应加塞事件疑反转",
+        "onboard_time": 1706830644,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40277,
+        "num": 122907,
+        "word": "于适耿直拜年",
+        "onboard_time": 1706844750,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122500,
+        "num": 122500,
+        "word": "小年吃什么",
+        "onboard_time": 1706839349,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118316,
+        "num": 118316,
+        "word": "四省有大到暴雪",
+        "onboard_time": 1706834489,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力扎实推进高质量发展#"
+    }
+  }
+}

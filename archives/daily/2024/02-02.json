@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706843885398,
+  "endTime": 1706844842026,
   "band_list": [
     {
       "raw_hot": 2226568,
@@ -9,6 +9,22 @@
       "onboard_time": 1706840189,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1863702,
+      "num": 1863702,
+      "word": "有女朋友还和别人接吻",
+      "onboard_time": 1706843130,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1845141,
+      "num": 1845141,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1604983,
@@ -24,14 +40,6 @@
       "word": "胖东来一件羽绒服仅赚3毛钱",
       "onboard_time": 1706831368,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1596499,
-      "num": 1596499,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -99,8 +107,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 824749,
-      "num": 824749,
+      "raw_hot": 857732,
+      "num": 857732,
       "word": "云南宣威一村突发刑案致6人死亡",
       "onboard_time": 1706841270,
       "rank": 4,
@@ -123,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748964,
+      "num": 748964,
+      "word": "肖战背沟好深",
+      "onboard_time": 1706842949,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 698203,
       "num": 698203,
       "word": "你愿意把五天工时浓缩成四天吗",
       "onboard_time": 1706831185,
       "rank": 6,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 697138,
+      "num": 697138,
+      "word": "微信体积再变大",
+      "onboard_time": 1706843012,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 649809,
@@ -153,14 +177,6 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 600632,
-      "num": 600632,
-      "word": "肖战背沟好深",
-      "onboard_time": 1706842949,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 587007,
@@ -211,20 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523798,
-      "num": 523798,
-      "word": "有女朋友还和别人接吻",
-      "onboard_time": 1706843130,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520159,
       "num": 296381,
       "word": "韩菱纱身亡",
       "onboard_time": 1706785593,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495034,
+      "num": 495034,
+      "word": "A股",
+      "onboard_time": 1706843130,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 445524,
@@ -243,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418458,
-      "num": 418458,
+      "raw_hot": 428655,
+      "num": 428655,
       "word": "许嵩演唱在暴雪时分片头曲",
       "onboard_time": 1706841151,
       "rank": 39,
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352995,
-      "num": 352995,
-      "word": "微信体积再变大",
-      "onboard_time": 1706843012,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 347724,
       "num": 347724,
       "word": "K4186全车一起救了个人",
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326098,
+      "num": 326098,
+      "word": "曝湖人可能交易詹姆斯",
+      "onboard_time": 1706843311,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317177,
       "num": 317177,
       "word": "一只鸽子在印度被当成中国间谍",
@@ -377,14 +393,6 @@
       "onboard_time": 1706796873,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293943,
-      "num": 192170,
-      "word": "曝湖人可能交易詹姆斯",
-      "onboard_time": 1706843311,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 292021,
@@ -409,6 +417,14 @@
       "onboard_time": 1706796813,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284913,
+      "num": 284913,
+      "word": "为什么咳嗽起来就止不住",
+      "onboard_time": 1706842650,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283945,
@@ -443,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273448,
-      "num": 273448,
-      "word": "A股",
-      "onboard_time": 1706843130,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 273139,
       "num": 273139,
       "word": "小年快乐",
@@ -481,14 +489,6 @@
       "onboard_time": 1706833049,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 262329,
-      "num": 262329,
-      "word": "为什么咳嗽起来就止不住",
-      "onboard_time": 1706842650,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254195,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196267,
+      "num": 196267,
+      "word": "蔡依林贵阳演唱会预售",
+      "onboard_time": 1706844210,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195091,
       "num": 195091,
       "word": "梅西C罗表情",
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189478,
+      "num": 1312046,
+      "word": "赶大集是中国人独有热闹",
+      "onboard_time": 1706842228,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187805,
       "num": 187805,
       "word": "全明星",
@@ -641,6 +657,14 @@
       "onboard_time": 1706841211,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186270,
+      "num": 186270,
+      "word": "里夫斯32分",
+      "onboard_time": 1706844391,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 183093,
@@ -715,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152271,
+      "num": 152271,
+      "word": "广州鼓励网约车进机场等枢纽接单",
+      "onboard_time": 1706844811,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152178,
       "num": 125460,
       "word": "我妈说过年回去随便穿穿",
@@ -737,14 +769,6 @@
       "onboard_time": 1706842228,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147790,
-      "num": 1238743,
-      "word": "赶大集是中国人独有热闹",
-      "onboard_time": 1706842228,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146466,
@@ -801,6 +825,14 @@
       "onboard_time": 1706829262,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132440,
+      "num": 132440,
+      "word": "300万女性住在卡车上",
+      "onboard_time": 1706841211,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 131994,
@@ -969,14 +1001,6 @@
       "onboard_time": 1706802091,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96802,
-      "num": 96802,
-      "word": "300万女性住在卡车上",
-      "onboard_time": 1706841211,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 96327,
@@ -1155,12 +1179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55713,
+      "num": 445834,
+      "word": "在山东大集懂了啥叫烟火人间",
+      "onboard_time": 1706842829,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55250,
       "num": 1384913,
       "word": "在中国这样玩",
       "onboard_time": 1706791832,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48627,
+      "num": 287521,
+      "word": "小年小年回家过年",
+      "onboard_time": 1706843012,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 48097,
@@ -1171,12 +1211,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 43121,
-      "num": 149703,
-      "word": "小年小年回家过年",
-      "onboard_time": 1706843012,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 40277,
+      "num": 122907,
+      "word": "于适耿直拜年",
+      "onboard_time": 1706844750,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 39541,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35038,
-      "num": 439779,
-      "word": "在山东大集懂了啥叫烟火人间",
-      "onboard_time": 1706842829,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28385,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706843885398,
+  "endTime": 1706844842026,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -211,6 +211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1863702,
+      "num": 1863702,
+      "word": "有女朋友还和别人接吻",
+      "onboard_time": 1706843130,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1845141,
+      "num": 1845141,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1837990,
       "num": 1837990,
       "word": "玖月晞胜诉",
@@ -352,14 +368,6 @@
       "word": "胖东来一件羽绒服仅赚3毛钱",
       "onboard_time": 1706831368,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1596499,
-      "num": 1596499,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1299,6 +1307,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 857732,
+      "num": 857732,
+      "word": "云南宣威一村突发刑案致6人死亡",
+      "onboard_time": 1706841270,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855314,
       "num": 855314,
       "word": "嬛嬛 朕出专辑啦",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1706415030,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 824749,
-      "num": 824749,
-      "word": "云南宣威一村突发刑案致6人死亡",
-      "onboard_time": 1706841270,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822178,
@@ -1715,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 748964,
+      "num": 748964,
+      "word": "肖战背沟好深",
+      "onboard_time": 1706842949,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 746279,
       "num": 746279,
       "word": "7成中国人可能是河南人",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1706355869,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697138,
+      "num": 697138,
+      "word": "微信体积再变大",
+      "onboard_time": 1706843012,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 695187,
@@ -2443,14 +2467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 600632,
-      "num": 600632,
-      "word": "肖战背沟好深",
-      "onboard_time": 1706842949,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 599600,
       "num": 599600,
       "word": "普京正式登记为下届总统候选人",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1706710235,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 523798,
-      "num": 523798,
-      "word": "有女朋友还和别人接吻",
-      "onboard_time": 1706843130,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 523064,
@@ -3731,6 +3739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428655,
+      "num": 428655,
+      "word": "许嵩演唱在暴雪时分片头曲",
+      "onboard_time": 1706841151,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428023,
       "num": 428023,
       "word": "脏手指",
@@ -3825,14 +3841,6 @@
       "onboard_time": 1706527891,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 418458,
-      "num": 418458,
-      "word": "许嵩演唱在暴雪时分片头曲",
-      "onboard_time": 1706841151,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 417779,
@@ -4707,14 +4715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 352995,
-      "num": 352995,
-      "word": "微信体积再变大",
-      "onboard_time": 1706843012,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 350906,
       "num": 350906,
       "word": "南京大屠杀幸存者程福保离世",
@@ -5001,6 +5001,14 @@
       "onboard_time": 1706401166,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 326098,
+      "num": 326098,
+      "word": "曝湖人可能交易詹姆斯",
+      "onboard_time": 1706843311,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 325083,
@@ -5579,14 +5587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 293943,
-      "num": 192170,
-      "word": "曝湖人可能交易詹姆斯",
-      "onboard_time": 1706843311,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293639,
       "num": 293639,
       "word": "LOL爆改陈泽",
@@ -5721,6 +5721,14 @@
       "onboard_time": 1706578528,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284913,
+      "num": 284913,
+      "word": "为什么咳嗽起来就止不住",
+      "onboard_time": 1706842650,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 284782,
@@ -6121,14 +6129,6 @@
       "onboard_time": 1706537194,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 262329,
-      "num": 262329,
-      "word": "为什么咳嗽起来就止不住",
-      "onboard_time": 1706842650,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 261242,
@@ -8155,6 +8155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196267,
+      "num": 196267,
+      "word": "蔡依林贵阳演唱会预售",
+      "onboard_time": 1706844210,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196055,
       "num": 196055,
       "word": "粉丝为肖战原创贺岁曲",
@@ -8483,6 +8491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189478,
+      "num": 1312046,
+      "word": "赶大集是中国人独有热闹",
+      "onboard_time": 1706842228,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189395,
       "num": 189395,
       "word": "巴勒斯坦球员围堵马宁",
@@ -8649,6 +8665,14 @@
       "onboard_time": 1706772151,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186270,
+      "num": 186270,
+      "word": "里夫斯32分",
+      "onboard_time": 1706844391,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 186209,
@@ -10395,6 +10419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152271,
+      "num": 152271,
+      "word": "广州鼓励网约车进机场等枢纽接单",
+      "onboard_time": 1706844811,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152149,
       "num": 152149,
       "word": "高敏感的人",
@@ -10648,14 +10680,6 @@
       "word": "银川",
       "onboard_time": 1706786189,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147790,
-      "num": 1238743,
-      "word": "赶大集是中国人独有热闹",
-      "onboard_time": 1706842228,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11737,6 +11761,14 @@
       "onboard_time": 1706497048,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132440,
+      "num": 132440,
+      "word": "300万女性住在卡车上",
+      "onboard_time": 1706841211,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 132202,
@@ -14067,14 +14099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96802,
-      "num": 96802,
-      "word": "300万女性住在卡车上",
-      "onboard_time": 1706841211,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96643,
       "num": 96643,
       "word": "ONER过年神曲",
@@ -14811,6 +14835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55713,
+      "num": 445834,
+      "word": "在山东大集懂了啥叫烟火人间",
+      "onboard_time": 1706842829,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55320,
       "num": 158966,
       "word": "雪天开车防滑8条",
@@ -14979,6 +15011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48627,
+      "num": 287521,
+      "word": "小年小年回家过年",
+      "onboard_time": 1706843012,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48097,
       "num": 48097,
       "word": "这种蔬菜的含钙量约是牛奶的3倍",
@@ -15011,14 +15051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43121,
-      "num": 149703,
-      "word": "小年小年回家过年",
-      "onboard_time": 1706843012,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42299,
       "num": 42299,
       "word": "原来杨紫晒非主流照片是因为输了",
@@ -15041,6 +15073,14 @@
       "onboard_time": 1706729295,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40277,
+      "num": 122907,
+      "word": "于适耿直拜年",
+      "onboard_time": 1706844750,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 40063,
@@ -15121,14 +15161,6 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35038,
-      "num": 439779,
-      "word": "在山东大集懂了啥叫烟火人间",
-      "onboard_time": 1706842829,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34313,
