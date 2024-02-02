@@ -1,7 +1,15 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706837478255,
+  "endTime": 1706839452164,
   "band_list": [
+    {
+      "raw_hot": 1604983,
+      "num": 1604983,
+      "word": "补水 智商税",
+      "onboard_time": 1706834489,
+      "rank": 3,
+      "category": "美妆"
+    },
     {
       "raw_hot": 1604392,
       "num": 1604392,
@@ -9,14 +17,6 @@
       "onboard_time": 1706831368,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1545760,
-      "num": 1545760,
-      "word": "补水 智商税",
-      "onboard_time": 1706834489,
-      "rank": 3,
-      "category": "美妆"
     },
     {
       "raw_hot": 1447153,
@@ -51,6 +51,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 860277,
+      "num": 860277,
+      "word": "杨波",
+      "onboard_time": 1706834971,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802154,
       "num": 802154,
       "word": "跳跳俏俏六岁了",
@@ -65,6 +73,14 @@
       "onboard_time": 1706831185,
       "rank": 6,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 668969,
+      "num": 668969,
+      "word": "铁路回应为何12306售罄携程有票",
+      "onboard_time": 1706838090,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649809,
@@ -88,6 +104,14 @@
       "word": "男婴出生第2天脑梗死父亲一夜白头",
       "onboard_time": 1706782532,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576982,
+      "num": 248636,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -115,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528871,
-      "num": 528871,
-      "word": "杨波",
-      "onboard_time": 1706834971,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527183,
       "num": 527183,
       "word": "为何吴谢宇在春节前被执行死刑",
@@ -137,6 +153,14 @@
       "onboard_time": 1706785593,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448107,
+      "num": 448107,
+      "word": "花少5豆瓣评分破9了",
+      "onboard_time": 1706838391,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 445524,
@@ -163,11 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408362,
-      "num": 223325,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
+      "raw_hot": 408642,
+      "num": 408642,
+      "word": "浦东机场 网约车",
+      "onboard_time": 1706837008,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -179,6 +203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 361558,
+      "num": 361558,
+      "word": "频繁做美甲会导致手变黑",
+      "onboard_time": 1706838689,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 356261,
       "num": 356261,
       "word": "高铁算是把用户需求整明白了",
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 356170,
-      "num": 239821,
+      "num": 246601,
       "word": "女子遭情敌挑衅一气之下跳楼身亡",
       "onboard_time": 1706831249,
       "rank": 20,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 241594,
-      "num": 214422,
+      "num": 234805,
       "word": "糖吃多了可能毁全身",
       "onboard_time": 1706835273,
       "rank": 25,
@@ -344,6 +376,14 @@
       "word": "男子嫌老婆花钱多看到购物袋后破防",
       "onboard_time": 1706793154,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229623,
+      "num": 229623,
+      "word": "上海道运局回应浦东机场禁止网约车运营",
+      "onboard_time": 1706837790,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -379,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217567,
+      "num": 217567,
+      "word": "人民日报评奔驰车男子打砸引擎盖事件",
+      "onboard_time": 1706838810,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199548,
       "num": 199548,
       "word": "北方和南方小年差一天",
@@ -392,6 +440,14 @@
       "word": "夫妻各开一架飞机回家过年",
       "onboard_time": 1706781514,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194561,
+      "num": 194561,
+      "word": "丫丫过小年",
+      "onboard_time": 1706838869,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -417,14 +473,6 @@
       "onboard_time": 1706835751,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184416,
-      "num": 184416,
-      "word": "浦东机场 网约车",
-      "onboard_time": 1706837008,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183093,
@@ -507,6 +555,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137837,
+      "num": 137837,
+      "word": "减到什么程度才算减肥成功",
+      "onboard_time": 1706838508,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 137216,
+      "num": 137216,
+      "word": "广东人的墙都流汗了",
+      "onboard_time": 1706839107,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137137,
       "num": 137137,
       "word": "哈登落选全明星",
@@ -587,12 +651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113445,
+      "num": 113445,
+      "word": "药明康德拟以10亿元回购股份",
+      "onboard_time": 1706838090,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 112713,
       "num": 112713,
       "word": "Scout 阿卡丽",
       "onboard_time": 1706797231,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112292,
+      "num": 112292,
+      "word": "湖人vs凯尔特人",
+      "onboard_time": 1706838990,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 111129,
@@ -609,6 +689,22 @@
       "onboard_time": 1706836473,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 109612,
+      "num": 109612,
+      "word": "Meta拟回购500亿美元股票",
+      "onboard_time": 1706839047,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 109036,
+      "num": 109036,
+      "word": "小年吃什么",
+      "onboard_time": 1706839349,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108315,
@@ -843,6 +939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 42006,
+      "num": 301788,
+      "word": "在支付宝拍了今年第一套全家福",
+      "onboard_time": 1706839228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
@@ -857,6 +961,14 @@
       "onboard_time": 1706807962,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35445,
+      "num": 250068,
+      "word": "年的意义是爱与陪伴",
+      "onboard_time": 1706837550,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 28385,
