@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706883342339,
+  "endTime": 1706884454484,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1595648,
+      "num": 1595648,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1535351,
       "num": 1535351,
       "word": "疑似奔驰方女乘客角度视频曝光",
@@ -243,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1106855,
-      "num": 1106855,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 1093635,
+      "num": 1093635,
+      "word": "12306回应无座票去一等座",
+      "onboard_time": 1706880693,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1086721,
@@ -355,20 +363,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 859994,
-      "num": 859994,
-      "word": "12306回应无座票去一等座",
-      "onboard_time": 1706880693,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 857732,
       "num": 857732,
       "word": "云南宣威一村突发刑案致6人死亡",
       "onboard_time": 1706841270,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819308,
+      "num": 819308,
+      "word": "文科生就业现状",
+      "onboard_time": 1706880274,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 802154,
@@ -537,14 +545,6 @@
       "onboard_time": 1706852191,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639998,
-      "num": 639998,
-      "word": "文科生就业现状",
-      "onboard_time": 1706880274,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 632678,
@@ -1283,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273430,
+      "num": 273430,
+      "word": "俞敏洪董宇辉张艺谋同框直播",
+      "onboard_time": 1706883394,
+      "rank": 18,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 273139,
       "num": 273139,
       "word": "小年快乐",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1706833049,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266490,
+      "num": 534649,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 265105,
@@ -1353,14 +1369,6 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258539,
-      "num": 318398,
-      "word": "店门口的结婚假条写满了路人祝福",
-      "onboard_time": 1706879374,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 254538,
@@ -1571,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219546,
+      "num": 219546,
+      "word": "隆基绿能",
+      "onboard_time": 1706882492,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218207,
       "num": 218207,
       "word": "猫 看看就行了别乱摸",
@@ -1601,6 +1617,22 @@
       "onboard_time": 1706850214,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213279,
+      "num": 213279,
+      "word": "汉宫春晓图",
+      "onboard_time": 1706883515,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 211916,
+      "num": 211916,
+      "word": "烟花",
+      "onboard_time": 1706882915,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211392,
@@ -1785,14 +1817,6 @@
       "onboard_time": 1706839767,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194800,
-      "num": 194800,
-      "word": "烟花",
-      "onboard_time": 1706882915,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194355,
@@ -1995,12 +2019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185541,
-      "num": 185541,
-      "word": "隆基绿能",
-      "onboard_time": 1706882492,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 185364,
+      "num": 185364,
+      "word": "没有人情味的公司",
+      "onboard_time": 1706881893,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 184171,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1706867793,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181148,
+      "num": 181148,
+      "word": "嗑到张凯毅张煜东了",
+      "onboard_time": 1706883033,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 180665,
@@ -2203,14 +2235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169312,
-      "num": 169312,
-      "word": "没有人情味的公司",
-      "onboard_time": 1706881893,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168211,
       "num": 168211,
       "word": "药明康德快速跌停",
@@ -2291,6 +2315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162125,
+      "num": 162125,
+      "word": "你长这么慢 我看不到你长大",
+      "onboard_time": 1706881775,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161939,
       "num": 161939,
       "word": "专家称沪指拉升20%才能扭转颓势",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1706871152,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155037,
+      "num": 155037,
+      "word": "娃娃机里的玩偶为啥不能放床头",
+      "onboard_time": 1706884174,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153707,
@@ -2451,6 +2491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142295,
+      "num": 142295,
+      "word": "回春丹出息了",
+      "onboard_time": 1706883336,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141877,
       "num": 141877,
       "word": "EDGM零封TES",
@@ -2481,22 +2529,6 @@
       "onboard_time": 1706846612,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139382,
-      "num": 139382,
-      "word": "你长这么慢 我看不到你长大",
-      "onboard_time": 1706881775,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 138560,
-      "num": 138560,
-      "word": "嗑到张凯毅张煜东了",
-      "onboard_time": 1706883033,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 137216,
@@ -2681,6 +2713,14 @@
       "onboard_time": 1706792373,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124243,
+      "num": 124243,
+      "word": "CBA",
+      "onboard_time": 1706884054,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 122366,
@@ -2897,6 +2937,14 @@
       "onboard_time": 1706786910,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98302,
+      "num": 103231,
+      "word": "被红衣女子雪中独竹漂惊艳到",
+      "onboard_time": 1706882795,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 97276,
@@ -3259,20 +3307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24120,
+      "num": 1090457,
+      "word": "2024网络视听盛典阵容官宣",
+      "onboard_time": 1706679395,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24021,
       "num": 24021,
       "word": "金道英生日卡",
       "onboard_time": 1706812097,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22418,
-      "num": 1090457,
-      "word": "2024网络视听盛典阵容官宣",
-      "onboard_time": 1706679395,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21530,
@@ -3362,6 +3410,9 @@
     },
     {
       "word": "#习近平看望慰问基层干部群众#"
+    },
+    {
+      "word": "#习主席向全国各族人民拜年#"
     }
   ]
 }
