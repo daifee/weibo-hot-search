@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706877870603,
+  "endTime": 1706879887300,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1409446,
+      "num": 1409446,
+      "word": "投资人希望郑爽承担千万AI换脸费",
+      "onboard_time": 1706876190,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1309301,
       "num": 1309301,
       "word": "超4700只个股下跌",
@@ -331,14 +339,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 875871,
-      "num": 294885,
-      "word": "投资人希望郑爽承担千万AI换脸费",
-      "onboard_time": 1706876190,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 857732,
       "num": 857732,
       "word": "云南宣威一村突发刑案致6人死亡",
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733920,
+      "num": 733920,
+      "word": "宋亚轩身体不适",
+      "onboard_time": 1706875833,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 724506,
       "num": 425970,
       "word": "郑爽曾片场消失一礼拜",
@@ -465,14 +473,6 @@
       "onboard_time": 1706870130,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 670869,
-      "num": 670869,
-      "word": "宋亚轩身体不适",
-      "onboard_time": 1706875833,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 664376,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601538,
+      "num": 601538,
+      "word": "宋仲基弹手机vs吴磊抛火机",
+      "onboard_time": 1706877872,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 592704,
       "num": 592704,
       "word": "肖战想挤地铁逛商场",
@@ -577,6 +585,14 @@
       "onboard_time": 1706855850,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568094,
+      "num": 296600,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 567636,
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500439,
+      "num": 290942,
+      "word": "在暴雪时分",
+      "onboard_time": 1706879069,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494267,
       "num": 425756,
       "word": "少爷和我定档",
@@ -680,14 +704,6 @@
       "word": "致命游戏首更52集",
       "onboard_time": 1706870853,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 461969,
-      "num": 247977,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1243,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268940,
+      "num": 268940,
+      "word": "被砸车当事人称警方已通报到此为止",
+      "onboard_time": 1706875833,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -1460,7 +1484,7 @@
     },
     {
       "raw_hot": 219621,
-      "num": 157667,
+      "num": 166633,
       "word": "你身上有光 我抓来看看",
       "onboard_time": 1706875054,
       "rank": 31,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1706853213,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218773,
+      "num": 172003,
+      "word": "宋茜多巴胺写真",
+      "onboard_time": 1706879735,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218207,
@@ -1548,7 +1580,7 @@
     },
     {
       "raw_hot": 207138,
-      "num": 155472,
+      "num": 164634,
       "word": "德云社大封箱开场",
       "onboard_time": 1706876554,
       "rank": 32,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1706846430,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198331,
+      "num": 296811,
+      "word": "鞠婧祎一舞翩翩",
+      "onboard_time": 1706878953,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 197741,
@@ -1931,14 +1971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177491,
-      "num": 177491,
-      "word": "被砸车当事人称警方已通报到此为止",
-      "onboard_time": 1706875833,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177397,
       "num": 177397,
       "word": "DNF手游版号获批",
@@ -2011,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173351,
+      "num": 173351,
+      "word": "公司年终刷新了我对抽奖的认知",
+      "onboard_time": 1706877212,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173117,
       "num": 173117,
       "word": "朱易 四大洲锦标赛",
@@ -2051,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169738,
+      "num": 169738,
+      "word": "AG对战VG",
+      "onboard_time": 1706879069,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169403,
       "num": 169403,
       "word": "恋与深空 黎医生",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1706869832,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165517,
-      "num": 165517,
-      "word": "公司年终刷新了我对抽奖的认知",
-      "onboard_time": 1706877212,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 165175,
@@ -2243,6 +2283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146994,
+      "num": 169412,
+      "word": "Cat找上门对线导播",
+      "onboard_time": 1706879069,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146635,
       "num": 146635,
       "word": "为什么抱婴儿都用左手",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1706846612,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137365,
+      "num": 162920,
+      "word": "空调不制热",
+      "onboard_time": 1706879432,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137216,
@@ -2499,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122156,
+      "num": 122156,
+      "word": "春节最需要什么样的搭子",
+      "onboard_time": 1706878171,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120261,
       "num": 120261,
       "word": "利雅得胜利6比0迈阿密国际",
@@ -2595,12 +2659,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 109708,
+      "num": 1096448,
+      "word": "过小年的仪式感",
+      "onboard_time": 1706861432,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109612,
       "num": 109612,
       "word": "Meta拟回购500亿美元股票",
       "onboard_time": 1706839047,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108924,
+      "num": 108924,
+      "word": "恋与深空 沈星回cos",
+      "onboard_time": 1706879133,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 108315,
@@ -2659,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98829,
+      "num": 168187,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 97276,
       "num": 97276,
       "word": "檀健次剧组日常",
@@ -2683,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94212,
+      "num": 94212,
+      "word": "奶牛猫舞团新舞蹈",
+      "onboard_time": 1706879133,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93686,
       "num": 93686,
       "word": "Fly 不要气馁兄弟们下场赢回来",
@@ -2699,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92032,
+      "num": 92032,
+      "word": "网文作家集体团建",
+      "onboard_time": 1706879432,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 91186,
       "num": 91186,
       "word": "首届春晚光看串场就能笑半宿",
@@ -2713,14 +2817,6 @@
       "onboard_time": 1706793932,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 86479,
-      "num": 1096448,
-      "word": "过小年的仪式感",
-      "onboard_time": 1706861432,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86388,

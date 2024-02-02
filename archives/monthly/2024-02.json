@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706877870603,
+  "endTime": 1706879887300,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1409446,
+      "num": 1409446,
+      "word": "投资人希望郑爽承担千万AI换脸费",
+      "onboard_time": 1706876190,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1367335,
       "num": 1073272,
       "word": "胡歌与老婆出门购物",
@@ -555,14 +563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 875871,
-      "num": 294885,
-      "word": "投资人希望郑爽承担千万AI换脸费",
-      "onboard_time": 1706876190,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 862870,
       "num": 862870,
       "word": "女性要为生育付出多少代价",
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733920,
+      "num": 733920,
+      "word": "宋亚轩身体不适",
+      "onboard_time": 1706875833,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 730807,
       "num": 730807,
       "word": "没有血缘关系也能长得像",
@@ -833,14 +841,6 @@
       "onboard_time": 1706870130,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 670869,
-      "num": 670869,
-      "word": "宋亚轩身体不适",
-      "onboard_time": 1706875833,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 670803,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601538,
+      "num": 601538,
+      "word": "宋仲基弹手机vs吴磊抛火机",
+      "onboard_time": 1706877872,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 595157,
       "num": 595157,
       "word": "真实胎动",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1706778568,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568094,
+      "num": 296600,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 567636,
@@ -1243,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500439,
+      "num": 290942,
+      "word": "在暴雪时分",
+      "onboard_time": 1706778449,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497754,
       "num": 497754,
       "word": "仙剑四豆瓣开分4.2",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 461969,
-      "num": 247977,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 461741,
@@ -2403,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268940,
+      "num": 268940,
+      "word": "被砸车当事人称警方已通报到此为止",
+      "onboard_time": 1706875833,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -2884,7 +2908,7 @@
     },
     {
       "raw_hot": 219621,
-      "num": 157667,
+      "num": 166633,
       "word": "你身上有光 我抓来看看",
       "onboard_time": 1706875054,
       "rank": 31,
@@ -2897,6 +2921,14 @@
       "onboard_time": 1706853213,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218773,
+      "num": 172003,
+      "word": "宋茜多巴胺写真",
+      "onboard_time": 1706879735,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218375,
@@ -3012,7 +3044,7 @@
     },
     {
       "raw_hot": 207138,
-      "num": 155472,
+      "num": 164634,
       "word": "德云社大封箱开场",
       "onboard_time": 1706876554,
       "rank": 32,
@@ -3193,6 +3225,14 @@
       "onboard_time": 1706846430,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198331,
+      "num": 296811,
+      "word": "鞠婧祎一舞翩翩",
+      "onboard_time": 1706878953,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 198235,
@@ -3675,14 +3715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180071,
-      "num": 180071,
-      "word": "在暴雪时分",
-      "onboard_time": 1706778449,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180049,
       "num": 125951,
       "word": "三大队",
@@ -3745,14 +3777,6 @@
       "onboard_time": 1706854112,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177491,
-      "num": 177491,
-      "word": "被砸车当事人称警方已通报到此为止",
-      "onboard_time": 1706875833,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177452,
@@ -3899,6 +3923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173351,
+      "num": 173351,
+      "word": "公司年终刷新了我对抽奖的认知",
+      "onboard_time": 1706877212,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173117,
       "num": 173117,
       "word": "朱易 四大洲锦标赛",
@@ -3985,6 +4017,14 @@
       "onboard_time": 1706776289,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169738,
+      "num": 169738,
+      "word": "AG对战VG",
+      "onboard_time": 1706879069,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 169639,
@@ -4081,14 +4121,6 @@
       "onboard_time": 1706790633,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 165517,
-      "num": 165517,
-      "word": "公司年终刷新了我对抽奖的认知",
-      "onboard_time": 1706877212,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 165175,
@@ -4531,6 +4563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146994,
+      "num": 169412,
+      "word": "Cat找上门对线导播",
+      "onboard_time": 1706879069,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146781,
       "num": 146781,
       "word": "未定事件簿 红尘共长生",
@@ -4729,6 +4769,14 @@
       "onboard_time": 1706780013,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 137365,
+      "num": 162920,
+      "word": "空调不制热",
+      "onboard_time": 1706879432,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137312,
@@ -5155,6 +5203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122156,
+      "num": 122156,
+      "word": "春节最需要什么样的搭子",
+      "onboard_time": 1706878171,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121043,
       "num": 121043,
       "word": "上班的三个阶段",
@@ -5395,12 +5451,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109708,
+      "num": 1096448,
+      "word": "过小年的仪式感",
+      "onboard_time": 1706861432,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109612,
       "num": 109612,
       "word": "Meta拟回购500亿美元股票",
       "onboard_time": 1706839047,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108924,
+      "num": 108924,
+      "word": "恋与深空 沈星回cos",
+      "onboard_time": 1706879133,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 108315,
@@ -5475,6 +5547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98829,
+      "num": 168187,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 97736,
       "num": 97736,
       "word": "鹿emoji",
@@ -5531,6 +5611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94212,
+      "num": 94212,
+      "word": "奶牛猫舞团新舞蹈",
+      "onboard_time": 1706879133,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92725,
       "num": 92487,
       "word": "这是龙王结婚吗",
@@ -5547,20 +5635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92032,
+      "num": 92032,
+      "word": "网文作家集体团建",
+      "onboard_time": 1706879432,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 92026,
       "num": 92026,
       "word": "王安宇 应该的姐夫",
       "onboard_time": 1706697569,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86479,
-      "num": 1096448,
-      "word": "过小年的仪式感",
-      "onboard_time": 1706861432,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86388,
