@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706902440438,
+  "endTime": 1706905019677,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -419,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83259,
+      "num": 83259,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79140,
       "num": 79140,
       "word": "吴磊原声英文台词",
@@ -475,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60107,
-      "num": 64724,
-      "word": "高铁晚点",
-      "onboard_time": 1706899998,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55965,
       "num": 55965,
       "word": "林亦扬占有欲",
@@ -515,12 +515,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 18394,
-      "num": 20923,
+      "raw_hot": 21215,
+      "num": 21215,
       "word": "央视boys一次唱12个神话",
       "onboard_time": 1706902276,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21104,
+      "num": 21104,
+      "word": "江西家宴",
+      "onboard_time": 1706904137,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 17254,
@@ -545,6 +553,14 @@
       "onboard_time": 1706901439,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13583,
+      "num": 15977,
+      "word": "车银优solo预告",
+      "onboard_time": 1706904918,
+      "rank": 47,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
