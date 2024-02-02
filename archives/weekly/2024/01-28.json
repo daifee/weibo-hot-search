@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706870037177,
+  "endTime": 1706872474993,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -137,6 +137,14 @@
       "onboard_time": 1706529090,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2244352,
+      "num": 2244352,
+      "word": "叶府婚宴",
+      "onboard_time": 1706868690,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 2226568,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1675025,
+      "num": 1675025,
+      "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+      "onboard_time": 1706870130,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1652183,
       "num": 1652183,
       "word": "相差13岁姐弟恋妻子发声",
@@ -417,6 +433,14 @@
       "onboard_time": 1706760274,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1618489,
+      "num": 1618489,
+      "word": "死亡万花筒真的来了",
+      "onboard_time": 1706870790,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1604983,
@@ -1497,14 +1521,6 @@
       "onboard_time": 1706841270,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857061,
-      "num": 857061,
-      "word": "叶府婚宴",
-      "onboard_time": 1706868690,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 855314,
@@ -3171,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539639,
+      "num": 539639,
+      "word": "致命游戏空降",
+      "onboard_time": 1706870130,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 538992,
       "num": 538992,
       "word": "昆明动物园为什么三发通报才救猫",
@@ -3617,6 +3641,14 @@
       "onboard_time": 1706771610,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482351,
+      "num": 482351,
+      "word": "皓衣行",
+      "onboard_time": 1706871452,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 482127,
@@ -4161,6 +4193,14 @@
       "onboard_time": 1706677835,
       "rank": 20,
       "category": "美食,剧集"
+    },
+    {
+      "raw_hot": 425217,
+      "num": 489531,
+      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+      "onboard_time": 1706868933,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 423411,
@@ -5323,6 +5363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 338628,
+      "num": 338628,
+      "word": "TWICE not in",
+      "onboard_time": 1706870911,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 337360,
       "num": 337360,
       "word": "晚晚带货",
@@ -5425,6 +5473,14 @@
       "onboard_time": 1706753791,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331673,
+      "num": 229195,
+      "word": "致命游戏首更52集",
+      "onboard_time": 1706870853,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 331597,
@@ -7203,14 +7259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237693,
-      "num": 237693,
-      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
-      "onboard_time": 1706868933,
-      "rank": 25,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 237625,
       "num": 237625,
       "word": "被自己穷笑啦",
@@ -7595,6 +7643,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 224791,
+      "num": 1091893,
+      "word": "排队5个小时都要带走的广式年货",
+      "onboard_time": 1706868214,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224713,
       "num": 224713,
       "word": "肖战邀您相聚2024中国网络视听年度盛典",
@@ -7657,14 +7713,6 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 223153,
-      "num": 1091893,
-      "word": "排队5个小时都要带走的广式年货",
-      "onboard_time": 1706868214,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 223066,
@@ -7792,6 +7840,14 @@
       "word": "7岁小豆豆收到了特别邀约",
       "onboard_time": 1706408788,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220531,
+      "num": 220531,
+      "word": "王亚伟被调查",
+      "onboard_time": 1706870674,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -8771,6 +8827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199903,
+      "num": 199903,
+      "word": "时代有冬西",
+      "onboard_time": 1706871933,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199850,
       "num": 199850,
       "word": "六公主春节首播封神第一部",
@@ -8905,6 +8969,14 @@
       "onboard_time": 1706685872,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197619,
+      "num": 197619,
+      "word": "银临开票",
+      "onboard_time": 1706871569,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 197347,
@@ -10043,6 +10115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177305,
+      "num": 879033,
+      "word": "被妈妈一句回来就是最好的礼物破防了",
+      "onboard_time": 1706869531,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177287,
       "num": 177287,
       "word": "恋与深空无人知晓时",
@@ -10081,6 +10161,14 @@
       "onboard_time": 1706703811,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176615,
+      "num": 176615,
+      "word": "感觉我现在强得可怕",
+      "onboard_time": 1706866890,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 176607,
@@ -10723,14 +10811,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 163913,
-      "num": 163913,
-      "word": "感觉我现在强得可怕",
-      "onboard_time": 1706866890,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163815,
       "num": 163815,
       "word": "TWICE回归",
@@ -10889,6 +10969,14 @@
       "onboard_time": 1706771429,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161264,
+      "num": 161264,
+      "word": "摇粒绒小猫咪",
+      "onboard_time": 1706871991,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 160910,
@@ -11137,6 +11225,14 @@
       "onboard_time": 1706367632,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157139,
+      "num": 157139,
+      "word": "乡村爱情16",
+      "onboard_time": 1706871152,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 156970,
@@ -11409,6 +11505,14 @@
       "onboard_time": 1706571325,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153382,
+      "num": 153382,
+      "word": "龙年春节红包封面",
+      "onboard_time": 1706871812,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 153375,
@@ -12345,6 +12449,14 @@
       "onboard_time": 1706668469,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139434,
+      "num": 139434,
+      "word": "菏泽一派出所协警铐走实习律师",
+      "onboard_time": 1706872111,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139420,
@@ -13427,6 +13539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "肺癌成为全球新增病例数最多癌症",
+      "onboard_time": 1706871092,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126856,
       "num": 126856,
       "word": "萨摩耶秒变萨摩怒",
@@ -14121,6 +14241,14 @@
       "onboard_time": 1706492306,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117177,
+      "num": 117177,
+      "word": "龙年壁纸",
+      "onboard_time": 1706872294,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 117054,
@@ -15177,14 +15305,6 @@
       "onboard_time": 1706507611,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100611,
-      "num": 879033,
-      "word": "被妈妈一句回来就是最好的礼物破防了",
-      "onboard_time": 1706869531,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 100575,
@@ -16340,7 +16460,7 @@
     },
     {
       "raw_hot": 41390,
-      "num": 1086310,
+      "num": 1638861,
       "word": "6组数据领略湿地之美",
       "onboard_time": 1706861612,
       "rank": 2,

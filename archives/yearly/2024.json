@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706870037177,
+  "endTime": 1706872474993,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -945,6 +945,14 @@
       "onboard_time": 1705589851,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2244352,
+      "num": 2244352,
+      "word": "叶府婚宴",
+      "onboard_time": 1706868690,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 2244076,
@@ -2283,6 +2291,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1675025,
+      "num": 1675025,
+      "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+      "onboard_time": 1706870130,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1673756,
       "num": 519060,
       "word": "杨紫张小斐互让座位",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705671268,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1646308,
-      "num": 1646308,
-      "word": "关闭自动续费仍被扣费",
-      "onboard_time": 1705058007,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1643198,
-      "num": 1643198,
-      "word": "周震南痛失微博名",
-      "onboard_time": 1705403971,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

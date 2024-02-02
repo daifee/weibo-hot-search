@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706870037177,
+  "endTime": 1706872474993,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -49,6 +49,14 @@
       "onboard_time": 1706853814,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2244352,
+      "num": 2244352,
+      "word": "叶府婚宴",
+      "onboard_time": 1706868690,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 2226568,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1675025,
+      "num": 1675025,
+      "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+      "onboard_time": 1706870130,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1639551,
       "num": 1075496,
       "word": "郑爽绝密者服务费1.2亿",
@@ -177,6 +193,14 @@
       "onboard_time": 1706760274,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1618489,
+      "num": 1618489,
+      "word": "死亡万花筒真的来了",
+      "onboard_time": 1706870790,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1604983,
@@ -529,14 +553,6 @@
       "onboard_time": 1706841270,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857061,
-      "num": 857061,
-      "word": "叶府婚宴",
-      "onboard_time": 1706868690,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 853226,
@@ -1067,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539639,
+      "num": 539639,
+      "word": "致命游戏空降",
+      "onboard_time": 1706870130,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537880,
       "num": 537880,
       "word": "Selina产后代言收入达百万",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1706771610,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482351,
+      "num": 482351,
+      "word": "皓衣行",
+      "onboard_time": 1706871452,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 480669,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1706743344,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 425217,
+      "num": 489531,
+      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+      "onboard_time": 1706868933,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 423411,
@@ -1755,6 +1795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 338628,
+      "num": 338628,
+      "word": "TWICE not in",
+      "onboard_time": 1706870911,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1706753791,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331673,
+      "num": 229195,
+      "word": "致命游戏首更52集",
+      "onboard_time": 1706870853,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 331597,
@@ -2443,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237693,
-      "num": 237693,
-      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
-      "onboard_time": 1706868933,
-      "rank": 25,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 237625,
       "num": 237625,
       "word": "被自己穷笑啦",
@@ -2619,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224791,
+      "num": 1091893,
+      "word": "排队5个小时都要带走的广式年货",
+      "onboard_time": 1706868214,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224379,
       "num": 208615,
       "word": "章昊唱屋顶着火",
@@ -2633,14 +2689,6 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 223153,
-      "num": 1091893,
-      "word": "排队5个小时都要带走的广式年货",
-      "onboard_time": 1706868214,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 222566,
@@ -2705,6 +2753,14 @@
       "onboard_time": 1706860593,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220531,
+      "num": 220531,
+      "word": "王亚伟被调查",
+      "onboard_time": 1706870674,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219859,
@@ -2931,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199903,
+      "num": 199903,
+      "word": "时代有冬西",
+      "onboard_time": 1706871933,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199548,
       "num": 199548,
       "word": "北方和南方小年差一天",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1706765371,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197619,
+      "num": 197619,
+      "word": "银临开票",
+      "onboard_time": 1706871569,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 196501,
@@ -3499,6 +3571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177305,
+      "num": 879033,
+      "word": "被妈妈一句回来就是最好的礼物破防了",
+      "onboard_time": 1706869531,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177169,
       "num": 177169,
       "word": "减到什么程度才算减肥成功",
@@ -3513,6 +3593,14 @@
       "onboard_time": 1706789555,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176615,
+      "num": 176615,
+      "word": "感觉我现在强得可怕",
+      "onboard_time": 1706866890,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 176280,
@@ -3795,14 +3883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163913,
-      "num": 163913,
-      "word": "感觉我现在强得可怕",
-      "onboard_time": 1706866890,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163815,
       "num": 163815,
       "word": "TWICE回归",
@@ -3873,6 +3953,14 @@
       "onboard_time": 1706771429,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161264,
+      "num": 161264,
+      "word": "摇粒绒小猫咪",
+      "onboard_time": 1706871991,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 160760,
@@ -3955,6 +4043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157139,
+      "num": 157139,
+      "word": "乡村爱情16",
+      "onboard_time": 1706871152,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156795,
       "num": 156795,
       "word": "国家大剧院 红楼梦舞剧",
@@ -4033,6 +4129,14 @@
       "onboard_time": 1706868092,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153382,
+      "num": 153382,
+      "word": "龙年春节红包封面",
+      "onboard_time": 1706871812,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 153375,
@@ -4329,6 +4433,14 @@
       "onboard_time": 1706700752,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139434,
+      "num": 139434,
+      "word": "菏泽一派出所协警铐走实习律师",
+      "onboard_time": 1706872111,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139420,
@@ -4691,6 +4803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "肺癌成为全球新增病例数最多癌症",
+      "onboard_time": 1706871092,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126856,
       "num": 126856,
       "word": "萨摩耶秒变萨摩怒",
@@ -4849,6 +4969,14 @@
       "onboard_time": 1706706514,
       "rank": 37,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 117177,
+      "num": 117177,
+      "word": "龙年壁纸",
+      "onboard_time": 1706872294,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 116878,
@@ -5057,14 +5185,6 @@
       "onboard_time": 1706775027,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100611,
-      "num": 879033,
-      "word": "被妈妈一句回来就是最好的礼物破防了",
-      "onboard_time": 1706869531,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 99803,
@@ -5396,7 +5516,7 @@
     },
     {
       "raw_hot": 41390,
-      "num": 1086310,
+      "num": 1638861,
       "word": "6组数据领略湿地之美",
       "onboard_time": 1706861612,
       "rank": 2,

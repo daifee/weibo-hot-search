@@ -1,0 +1,410 @@
+{
+  "runTime": 1706872474993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2244352,
+        "num": 2244352,
+        "word": "叶府婚宴",
+        "onboard_time": 1706868690,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1675025,
+        "num": 1675025,
+        "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+        "onboard_time": 1706870130,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36261,
+        "num": 1638861,
+        "word": "6组数据领略湿地之美",
+        "onboard_time": 1706861612,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618489,
+        "num": 1618489,
+        "word": "死亡万花筒真的来了",
+        "onboard_time": 1706870790,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224791,
+        "num": 722994,
+        "word": "排队5个小时都要带走的广式年货",
+        "onboard_time": 1706868214,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 583486,
+        "num": 583486,
+        "word": "车银优边抽烟边落泪",
+        "onboard_time": 1706864432,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177305,
+        "num": 555620,
+        "word": "被妈妈一句回来就是最好的礼物破防了",
+        "onboard_time": 1706869531,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539639,
+        "num": 539639,
+        "word": "致命游戏空降",
+        "onboard_time": 1706870130,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501336,
+        "num": 501336,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425217,
+        "num": 489531,
+        "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+        "onboard_time": 1706868933,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1153049,
+        "num": 488768,
+        "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+        "onboard_time": 1706867549,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599682,
+        "num": 486245,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482351,
+        "num": 482351,
+        "word": "皓衣行",
+        "onboard_time": 1706871452,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458979,
+        "num": 458979,
+        "word": "刘诗诗田曦薇撞衫",
+        "onboard_time": 1706867431,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422426,
+        "num": 422426,
+        "word": "美甲翻车",
+        "onboard_time": 1706866532,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 411693,
+        "num": 411693,
+        "word": "郑爽家人曾赔偿二手劳斯莱斯",
+        "onboard_time": 1706858915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397354,
+        "num": 397354,
+        "word": "A股再跌可能会需要更多救市资金",
+        "onboard_time": 1706866291,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392046,
+        "num": 392046,
+        "word": "疑似奔驰方女乘客角度视频曝光",
+        "onboard_time": 1706862693,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338628,
+        "num": 338628,
+        "word": "TWICE not in",
+        "onboard_time": 1706870911,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238813,
+        "num": 238813,
+        "word": "年终奖",
+        "onboard_time": 1706864614,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631143,
+        "num": 233775,
+        "word": "郑爽境内外资产单一项就超过2.3亿",
+        "onboard_time": 1706858071,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331673,
+        "num": 229195,
+        "word": "致命游戏首更52集",
+        "onboard_time": 1706870853,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222895,
+        "num": 222895,
+        "word": "外交部感谢CIA局长提醒",
+        "onboard_time": 1706864614,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220531,
+        "num": 220531,
+        "word": "王亚伟被调查",
+        "onboard_time": 1706870674,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198862,
+        "num": 208274,
+        "word": "沪指失守2700点关口",
+        "onboard_time": 1706855073,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263954,
+        "num": 207947,
+        "word": "杜飞 你的嘴巴没死",
+        "onboard_time": 1706866113,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200207,
+        "num": 200207,
+        "word": "繁花里唯一和胡歌有吻戏的人",
+        "onboard_time": 1706869052,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199903,
+        "num": 199903,
+        "word": "时代有冬西",
+        "onboard_time": 1706871933,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197619,
+        "num": 197619,
+        "word": "银临开票",
+        "onboard_time": 1706871569,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176615,
+        "num": 176615,
+        "word": "感觉我现在强得可怕",
+        "onboard_time": 1706866890,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310327,
+        "num": 175467,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1706868751,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189102,
+        "num": 175183,
+        "word": "我做鬼也不会放过你",
+        "onboard_time": 1706863532,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174035,
+        "num": 174035,
+        "word": "奇瑞",
+        "onboard_time": 1706865332,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 172939,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167840,
+        "num": 167840,
+        "word": "少爷和我定档",
+        "onboard_time": 1706859515,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164924,
+        "num": 164924,
+        "word": "吴磊赵今麦 做饭高手",
+        "onboard_time": 1706869290,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161264,
+        "num": 161264,
+        "word": "摇粒绒小猫咪",
+        "onboard_time": 1706871991,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157139,
+        "num": 157139,
+        "word": "乡村爱情16",
+        "onboard_time": 1706871152,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153382,
+        "num": 153382,
+        "word": "龙年春节红包封面",
+        "onboard_time": 1706871812,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151143,
+        "num": 151143,
+        "word": "官方回应杨倩教练讨薪",
+        "onboard_time": 1706866591,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161038,
+        "num": 148060,
+        "word": "杨波评论区",
+        "onboard_time": 1706851833,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144356,
+        "num": 144356,
+        "word": "肖战想挤地铁逛商场",
+        "onboard_time": 1706859155,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142690,
+        "num": 142690,
+        "word": "咳嗽时把痰咽下去伤身体吗",
+        "onboard_time": 1706847629,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139434,
+        "num": 139434,
+        "word": "菏泽一派出所协警铐走实习律师",
+        "onboard_time": 1706872111,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138318,
+        "num": 138318,
+        "word": "奥运冠军杨倩教练发文讨薪",
+        "onboard_time": 1706852492,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 133716,
+        "word": "迪丽热巴英文聊天",
+        "onboard_time": 1706852433,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127098,
+        "num": 127098,
+        "word": "童漠男 行业又没了",
+        "onboard_time": 1706855972,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126888,
+        "num": 126888,
+        "word": "肺癌成为全球新增病例数最多癌症",
+        "onboard_time": 1706871092,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117177,
+        "num": 117177,
+        "word": "龙年壁纸",
+        "onboard_time": 1706872294,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114552,
+        "num": 114552,
+        "word": "客厅打羽毛球",
+        "onboard_time": 1706869473,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在天津考察调研#"
+    }
+  }
+}
