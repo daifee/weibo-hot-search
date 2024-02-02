@@ -1,0 +1,410 @@
+{
+  "runTime": 1706888123005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235958,
+        "num": 1235958,
+        "word": "爱奇艺",
+        "onboard_time": 1706876372,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1029826,
+        "num": 1029826,
+        "word": "12306回应无座票去一等座",
+        "onboard_time": 1706880693,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18718,
+        "num": 686146,
+        "word": "2024网络视听盛典阵容官宣",
+        "onboard_time": 1706679395,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604562,
+        "num": 604562,
+        "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
+        "onboard_time": 1706874030,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560841,
+        "num": 560841,
+        "word": "周扬青香港探班阿娇vlog",
+        "onboard_time": 1706886335,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897972,
+        "num": 513217,
+        "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+        "onboard_time": 1706870130,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455929,
+        "num": 455929,
+        "word": "文科生就业现状",
+        "onboard_time": 1706880274,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384851,
+        "num": 384851,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376231,
+        "num": 376231,
+        "word": "刘国梁要求国乒自觉抵制饭圈文化",
+        "onboard_time": 1706880511,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242558,
+        "num": 365099,
+        "word": "店门口的结婚假条写满了路人祝福",
+        "onboard_time": 1706879374,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 734615,
+        "num": 365051,
+        "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+        "onboard_time": 1706867549,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 717923,
+        "num": 365027,
+        "word": "叶府婚宴",
+        "onboard_time": 1706868690,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364887,
+        "num": 364887,
+        "word": "枭起青壤",
+        "onboard_time": 1706885137,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347910,
+        "num": 347910,
+        "word": "郭麒麟又亲爹了",
+        "onboard_time": 1706881713,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289005,
+        "num": 289005,
+        "word": "董宇辉采访刘德华7分钟高能总结",
+        "onboard_time": 1706884774,
+        "rank": 14,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 284694,
+        "num": 284694,
+        "word": "俞敏洪董宇辉张艺谋同框直播",
+        "onboard_time": 1706883394,
+        "rank": 15,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 282672,
+        "num": 282672,
+        "word": "在暴雪时分",
+        "onboard_time": 1706879069,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271726,
+        "num": 271726,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269706,
+        "num": 269706,
+        "word": "刘暖曦再审申请被法院驳回",
+        "onboard_time": 1706880274,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251832,
+        "num": 251832,
+        "word": "琳琳土豆",
+        "onboard_time": 1706887054,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389536,
+        "num": 249104,
+        "word": "眼睛上长这个可能是血脂高",
+        "onboard_time": 1706885792,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246098,
+        "num": 246098,
+        "word": "夏之光演技",
+        "onboard_time": 1706874692,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237298,
+        "num": 237298,
+        "word": "娃娃机里的玩偶为啥不能放床头",
+        "onboard_time": 1706884174,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213303,
+        "num": 213303,
+        "word": "相亲前后的变化到底有多大",
+        "onboard_time": 1706885613,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212428,
+        "num": 212428,
+        "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+        "onboard_time": 1706868933,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 207779,
+        "num": 207779,
+        "word": "张远爆改地铁老人",
+        "onboard_time": 1706887594,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201738,
+        "num": 201738,
+        "word": "2024金牛座会发生的三件好事",
+        "onboard_time": 1706886394,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201377,
+        "num": 201377,
+        "word": "美甲翻车",
+        "onboard_time": 1706866532,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 201195,
+        "num": 201195,
+        "word": "宋仲基弹手机vs吴磊抛火机",
+        "onboard_time": 1706877872,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128512,
+        "num": 187710,
+        "word": "隆基绿能",
+        "onboard_time": 1706882492,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177027,
+        "num": 177027,
+        "word": "他的性别生来就是老公",
+        "onboard_time": 1706872591,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176215,
+        "num": 176215,
+        "word": "皓衣行",
+        "onboard_time": 1706871452,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138410,
+        "num": 138410,
+        "word": "宋亚轩身体不适",
+        "onboard_time": 1706875833,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133253,
+        "num": 133253,
+        "word": "小猫咪不懂什么是过年",
+        "onboard_time": 1706886751,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129305,
+        "num": 129305,
+        "word": "汉宫春晓图",
+        "onboard_time": 1706883515,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128301,
+        "num": 128301,
+        "word": "车银优边抽烟边落泪",
+        "onboard_time": 1706864432,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126168,
+        "num": 126168,
+        "word": "A股再跌可能会需要更多救市资金",
+        "onboard_time": 1706866291,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124513,
+        "num": 124513,
+        "word": "被砸车当事人称警方已通报到此为止",
+        "onboard_time": 1706875833,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122722,
+        "num": 122722,
+        "word": "嗑到张凯毅张煜东了",
+        "onboard_time": 1706883033,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35262,
+        "num": 118242,
+        "word": "过小年的仪式感",
+        "onboard_time": 1706861432,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118237,
+        "num": 118237,
+        "word": "苹果头显开售",
+        "onboard_time": 1706884534,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116243,
+        "num": 116243,
+        "word": "蓬松编发教程",
+        "onboard_time": 1706887410,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111376,
+        "num": 111376,
+        "word": "你长这么慢 我看不到你长大",
+        "onboard_time": 1706881775,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109367,
+        "num": 109367,
+        "word": "要久久爱",
+        "onboard_time": 1706888012,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107903,
+        "num": 107903,
+        "word": "菏泽一派出所协警铐走实习律师",
+        "onboard_time": 1706872111,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107152,
+        "num": 107152,
+        "word": "北京台春晚 时代少年团",
+        "onboard_time": 1706884717,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105903,
+        "num": 105903,
+        "word": "没有人情味的公司",
+        "onboard_time": 1706881893,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104213,
+        "num": 104213,
+        "word": "AG战胜VG",
+        "onboard_time": 1706885253,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102425,
+        "num": 102425,
+        "word": "鞠婧祎雪中撑伞",
+        "onboard_time": 1706880812,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100898,
+        "num": 100898,
+        "word": "宋茜多巴胺写真",
+        "onboard_time": 1706879735,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
