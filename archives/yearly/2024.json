@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706848575473,
+  "endTime": 1706851045997,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -401,6 +401,14 @@
       "onboard_time": 1704037142,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3271293,
+      "num": 3271293,
+      "word": "郑爽拍戏延期一天220万",
+      "onboard_time": 1706848293,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3232200,
@@ -2067,6 +2075,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 1727324,
+      "num": 1727324,
+      "word": "咳嗽时把痰咽下去伤身体吗",
+      "onboard_time": 1706847629,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1727086,
       "num": 1727086,
       "word": "微博之夜嘉宾全阵容集结",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705401091,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1631346,
-      "num": 1631346,
-      "word": "韩安冉女儿被确诊多动症",
-      "onboard_time": 1705794679,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1631181,
-      "num": 1631181,
-      "word": "王安宇好多白头发",
-      "onboard_time": 1706708912,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
