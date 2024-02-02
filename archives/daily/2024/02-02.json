@@ -1,21 +1,21 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706844842026,
+  "endTime": 1706847647824,
   "band_list": [
+    {
+      "raw_hot": 2501607,
+      "num": 2501607,
+      "word": "有女朋友还和别人接吻",
+      "onboard_time": 1706843130,
+      "rank": 9,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2226568,
       "num": 2226568,
       "word": "杨波回应",
       "onboard_time": 1706840189,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1863702,
-      "num": 1863702,
-      "word": "有女朋友还和别人接吻",
-      "onboard_time": 1706843130,
-      "rank": 9,
       "category": "艺人"
     },
     {
@@ -49,6 +49,14 @@
       "onboard_time": 1706830106,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1257276,
+      "num": 1257276,
+      "word": "微信体积再变大",
+      "onboard_time": 1706843012,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 1243379,
@@ -147,14 +155,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 697138,
-      "num": 697138,
-      "word": "微信体积再变大",
-      "onboard_time": 1706843012,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 649809,
       "num": 649809,
       "word": "四省有大到暴雪",
@@ -169,6 +169,22 @@
       "onboard_time": 1706830644,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618768,
+      "num": 618768,
+      "word": "韩如雪",
+      "onboard_time": 1706846490,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 605235,
+      "num": 605235,
+      "word": "A股",
+      "onboard_time": 1706843130,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 604108,
@@ -235,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 495034,
-      "num": 495034,
-      "word": "A股",
-      "onboard_time": 1706843130,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 445524,
       "num": 445524,
       "word": "鲁AK66M7",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393470,
+      "num": 393470,
+      "word": "广州鼓励网约车进机场等枢纽接单",
+      "onboard_time": 1706844811,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383720,
       "num": 129179,
       "word": "现在预制菜都这么齐全了吗",
@@ -307,11 +323,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362779,
+      "num": 362779,
+      "word": "厦门大学",
+      "onboard_time": 1706847331,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356261,
       "num": 356261,
       "word": "高铁算是把用户需求整明白了",
       "onboard_time": 1706808622,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356188,
+      "num": 302894,
+      "word": "00后女孩喜中50万大奖",
+      "onboard_time": 1706846070,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -363,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332469,
+      "num": 332469,
+      "word": "一只鸽子在印度被当成中国间谍",
+      "onboard_time": 1706840909,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329292,
       "num": 329292,
       "word": "南来北往定档",
@@ -377,14 +417,6 @@
       "onboard_time": 1706843311,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317177,
-      "num": 317177,
-      "word": "一只鸽子在印度被当成中国间谍",
-      "onboard_time": 1706840909,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299937,
@@ -433,6 +465,14 @@
       "onboard_time": 1706788412,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279467,
+      "num": 279467,
+      "word": "逆水寒染色",
+      "onboard_time": 1706845473,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 276598,
@@ -489,6 +529,14 @@
       "onboard_time": 1706833049,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265105,
+      "num": 265105,
+      "word": "17厘米的增高鞋",
+      "onboard_time": 1706845710,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 254195,
@@ -563,12 +611,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218207,
+      "num": 218207,
+      "word": "猫 看看就行了别乱摸",
+      "onboard_time": 1706844932,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217828,
       "num": 217828,
       "word": "乱港艺人王宗尧暴动罪成立",
       "onboard_time": 1706811740,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213252,
+      "num": 195359,
+      "word": "去西藏配眼镜了吗",
+      "onboard_time": 1706846852,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 205832,
+      "num": 205832,
+      "word": "龙宝",
+      "onboard_time": 1706846913,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 200814,
@@ -585,6 +657,14 @@
       "onboard_time": 1706834014,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198789,
+      "num": 198789,
+      "word": "白敬亭金晨新剧海报",
+      "onboard_time": 1706846430,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 197741,
@@ -611,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194355,
+      "num": 1312046,
+      "word": "赶大集是中国人独有热闹",
+      "onboard_time": 1706842228,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194024,
       "num": 194024,
       "word": "时代少年团 王者荣耀表演赛",
@@ -627,20 +715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192484,
+      "num": 192484,
+      "word": "南北方小年为啥不在同一天",
+      "onboard_time": 1706847211,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190825,
       "num": 190825,
       "word": "哇唧唧哇年会",
       "onboard_time": 1706792793,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189478,
-      "num": 1312046,
-      "word": "赶大集是中国人独有热闹",
-      "onboard_time": 1706842228,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187805,
@@ -707,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174139,
+      "num": 174139,
+      "word": "摇光录傅闲",
+      "onboard_time": 1706847629,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163977,
       "num": 126158,
       "word": "陈都灵等车",
@@ -723,12 +819,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162097,
+      "num": 162097,
+      "word": "灶王爷",
+      "onboard_time": 1706847393,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159397,
       "num": 159397,
       "word": "残阵湖人太6了",
       "onboard_time": 1706842112,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154199,
+      "num": 154199,
+      "word": "黄子韬登机牌",
+      "onboard_time": 1706847513,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 152685,
@@ -739,20 +851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152271,
-      "num": 152271,
-      "word": "广州鼓励网约车进机场等枢纽接单",
-      "onboard_time": 1706844811,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152178,
       "num": 125460,
       "word": "我妈说过年回去随便穿穿",
       "onboard_time": 1706799393,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151712,
+      "num": 151712,
+      "word": "咳嗽时把痰咽下去伤身体吗",
+      "onboard_time": 1706847629,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151640,
@@ -779,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145788,
+      "num": 145788,
+      "word": "肖战为拍射雕英雄传增重",
+      "onboard_time": 1706847573,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142809,
       "num": 142809,
       "word": "女生真的有自己的洗头规划",
@@ -793,6 +913,14 @@
       "onboard_time": 1706830163,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139420,
+      "num": 139420,
+      "word": "游戏版号",
+      "onboard_time": 1706846612,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 137216,
@@ -811,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136183,
+      "num": 133769,
+      "word": "少年与怪物新娘",
+      "onboard_time": 1706846193,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136156,
       "num": 136156,
       "word": "熬夜后吃护肝片或增加肝损伤",
@@ -825,6 +961,14 @@
       "onboard_time": 1706829262,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134452,
+      "num": 134452,
+      "word": "女神异闻录3reload上线",
+      "onboard_time": 1706846193,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 132440,
@@ -1211,8 +1355,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 40277,
-      "num": 122907,
+      "raw_hot": 41505,
+      "num": 195663,
       "word": "于适耿直拜年",
       "onboard_time": 1706844750,
       "rank": 47,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1706847647824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2501607,
+        "num": 2501607,
+        "word": "有女朋友还和别人接吻",
+        "onboard_time": 1706843130,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1313461,
+        "num": 1313461,
+        "word": "我的婚礼取消了这七个环节",
+        "onboard_time": 1706836530,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 1280322,
+        "word": "赶大集是中国人独有热闹",
+        "onboard_time": 1706842228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257276,
+        "num": 1257276,
+        "word": "微信体积再变大",
+        "onboard_time": 1706843012,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 851609,
+        "num": 851609,
+        "word": "频繁做美甲会导致手变黑",
+        "onboard_time": 1706838689,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1404877,
+        "num": 846260,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634283,
+        "num": 634283,
+        "word": "肖战背沟好深",
+        "onboard_time": 1706842949,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 618768,
+        "num": 618768,
+        "word": "韩如雪",
+        "onboard_time": 1706846490,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605235,
+        "num": 605235,
+        "word": "A股",
+        "onboard_time": 1706843130,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 604905,
+        "num": 604905,
+        "word": "美方承认几十年来改变中国的努力都没有成功",
+        "onboard_time": 1706830106,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 653240,
+        "num": 538369,
+        "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+        "onboard_time": 1706830106,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450762,
+        "num": 450762,
+        "word": "男子杀人逃亡19年得知杀错人",
+        "onboard_time": 1706839709,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426163,
+        "num": 426163,
+        "word": "铁路回应为何12306售罄携程有票",
+        "onboard_time": 1706838090,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418685,
+        "num": 418685,
+        "word": "胖东来一件羽绒服仅赚3毛钱",
+        "onboard_time": 1706831368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393470,
+        "num": 393470,
+        "word": "广州鼓励网约车进机场等枢纽接单",
+        "onboard_time": 1706844811,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362779,
+        "num": 362779,
+        "word": "厦门大学",
+        "onboard_time": 1706847331,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345489,
+        "num": 345489,
+        "word": "迪丽热巴成都",
+        "onboard_time": 1706842290,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343634,
+        "num": 343634,
+        "word": "周杰伦杭州抢票",
+        "onboard_time": 1706839767,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332469,
+        "num": 332469,
+        "word": "一只鸽子在印度被当成中国间谍",
+        "onboard_time": 1706840909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303632,
+        "num": 303632,
+        "word": "许嵩演唱在暴雪时分片头曲",
+        "onboard_time": 1706841151,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356188,
+        "num": 302894,
+        "word": "00后女孩喜中50万大奖",
+        "onboard_time": 1706846070,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289382,
+        "num": 289382,
+        "word": "跳跳俏俏六岁了",
+        "onboard_time": 1706832450,
+        "rank": 21,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 279467,
+        "num": 279467,
+        "word": "逆水寒染色",
+        "onboard_time": 1706845473,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265105,
+        "num": 265105,
+        "word": "17厘米的增高鞋",
+        "onboard_time": 1706845710,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255975,
+        "num": 255975,
+        "word": "高至霆 出租屋文学",
+        "onboard_time": 1706841449,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235172,
+        "num": 235172,
+        "word": "补水 智商税",
+        "onboard_time": 1706834489,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218207,
+        "num": 218207,
+        "word": "猫 看看就行了别乱摸",
+        "onboard_time": 1706844932,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205832,
+        "num": 205832,
+        "word": "龙宝",
+        "onboard_time": 1706846913,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204176,
+        "num": 204176,
+        "word": "曝湖人可能交易詹姆斯",
+        "onboard_time": 1706843311,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198789,
+        "num": 198789,
+        "word": "白敬亭金晨新剧海报",
+        "onboard_time": 1706846430,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41505,
+        "num": 195663,
+        "word": "于适耿直拜年",
+        "onboard_time": 1706844750,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213252,
+        "num": 195359,
+        "word": "去西藏配眼镜了吗",
+        "onboard_time": 1706846852,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193406,
+        "num": 193406,
+        "word": "小年",
+        "onboard_time": 1706829142,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192772,
+        "num": 192772,
+        "word": "花少5豆瓣评分破9了",
+        "onboard_time": 1706838391,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192484,
+        "num": 192484,
+        "word": "南北方小年为啥不在同一天",
+        "onboard_time": 1706847211,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174139,
+        "num": 174139,
+        "word": "摇光录傅闲",
+        "onboard_time": 1706847629,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170028,
+        "num": 170028,
+        "word": "人民日报评奔驰车男子打砸引擎盖事件",
+        "onboard_time": 1706838810,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162097,
+        "num": 162097,
+        "word": "灶王爷",
+        "onboard_time": 1706847393,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161390,
+        "num": 161390,
+        "word": "小年快乐",
+        "onboard_time": 1706832688,
+        "rank": 38,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 154199,
+        "num": 154199,
+        "word": "黄子韬登机牌",
+        "onboard_time": 1706847513,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151712,
+        "num": 151712,
+        "word": "咳嗽时把痰咽下去伤身体吗",
+        "onboard_time": 1706847629,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149755,
+        "num": 149755,
+        "word": "女子遭情敌挑衅一气之下跳楼身亡",
+        "onboard_time": 1706831249,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145788,
+        "num": 145788,
+        "word": "肖战为拍射雕英雄传增重",
+        "onboard_time": 1706847573,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139420,
+        "num": 139420,
+        "word": "游戏版号",
+        "onboard_time": 1706846612,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134452,
+        "num": 134452,
+        "word": "女神异闻录3reload上线",
+        "onboard_time": 1706846193,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136183,
+        "num": 133769,
+        "word": "少年与怪物新娘",
+        "onboard_time": 1706846193,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131277,
+        "num": 131277,
+        "word": "五问上海禁止网约车在浦东机场运营",
+        "onboard_time": 1706839589,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132574,
+        "num": 130481,
+        "word": "南来北往定档",
+        "onboard_time": 1706840788,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127868,
+        "num": 127868,
+        "word": "小女孩问啥都说没啥记者慌了",
+        "onboard_time": 1706840310,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116508,
+        "num": 116508,
+        "word": "小年吃什么",
+        "onboard_time": 1706839349,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力扎实推进高质量发展#"
+    }
+  }
+}
