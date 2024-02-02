@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706873638043,
+  "endTime": 1706877010156,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -25,6 +25,14 @@
       "onboard_time": 1706744846,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2771728,
+      "num": 2771728,
+      "word": "致命游戏下架",
+      "onboard_time": 1706873973,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2501607,
@@ -635,6 +643,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790152,
+      "num": 790152,
+      "word": "夏之光演技",
+      "onboard_time": 1706874692,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 782947,
+      "num": 782947,
+      "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
+      "onboard_time": 1706874030,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 780187,
       "num": 780187,
       "word": "秦海璐向王新军介绍王安宇",
@@ -953,6 +977,14 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598580,
+      "num": 598580,
+      "word": "他的性别生来就是老公",
+      "onboard_time": 1706872591,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 595157,
@@ -1323,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 461398,
+      "num": 461398,
+      "word": "宁波体校回应杨倩教练讨要奖金",
+      "onboard_time": 1706874274,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461241,
       "num": 461241,
       "word": "霸王茶姬dsp",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1706774428,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 456980,
+      "num": 272222,
+      "word": "投资人希望郑爽承担千万AI换脸费",
+      "onboard_time": 1706876190,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 455428,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1706841151,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427317,
+      "num": 264312,
+      "word": "宋亚轩身体不适",
+      "onboard_time": 1706875833,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 426857,
@@ -1579,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387242,
+      "num": 256586,
+      "word": "林俊杰天津演唱会",
+      "onboard_time": 1706876136,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 386518,
       "num": 386518,
       "word": "女装退货率高的原因",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1706710354,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 379070,
+      "num": 379070,
+      "word": "菏泽一派出所协警铐走实习律师",
+      "onboard_time": 1706872111,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378939,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1706757331,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343599,
+      "num": 219821,
+      "word": "烽火流金 可以抬一下吗",
+      "onboard_time": 1706875292,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 342637,
@@ -2075,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299723,
+      "num": 194969,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299239,
       "num": 299239,
       "word": "时代少年团 王者荣耀表演赛",
@@ -2137,6 +2225,14 @@
       "onboard_time": 1706823555,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290381,
+      "num": 174672,
+      "word": "央视网络春晚",
+      "onboard_time": 1706874094,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 289796,
@@ -2425,14 +2521,6 @@
       "onboard_time": 1706790211,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 249086,
-      "num": 249086,
-      "word": "他的性别生来就是老公",
-      "onboard_time": 1706872591,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248286,
@@ -2787,6 +2875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219621,
+      "num": 157667,
+      "word": "你身上有光 我抓来看看",
+      "onboard_time": 1706875054,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219590,
       "num": 219590,
       "word": "世界之外体力",
@@ -2891,12 +2987,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208120,
+      "num": 208120,
+      "word": "00后许愿主打绝不吃亏",
+      "onboard_time": 1706876013,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208010,
       "num": 208010,
       "word": "致命游戏 无限流",
       "onboard_time": 1706872712,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207138,
+      "num": 155472,
+      "word": "德云社大封箱开场",
+      "onboard_time": 1706876554,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 205832,
@@ -2955,12 +3067,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205078,
-      "num": 250278,
-      "word": "菏泽一派出所协警铐走实习律师",
-      "onboard_time": 1706872111,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 205118,
+      "num": 151277,
+      "word": "在暴雪时分站内热度",
+      "onboard_time": 1706875292,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 204799,
@@ -3435,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186320,
+      "num": 146600,
+      "word": "旗袍是倪妮的原皮肤",
+      "onboard_time": 1706874991,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186270,
       "num": 186270,
       "word": "里夫斯32分",
@@ -3457,6 +3577,14 @@
       "onboard_time": 1706799873,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184171,
+      "num": 124973,
+      "word": "文俊辉金发出发图",
+      "onboard_time": 1706875231,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184060,
@@ -3651,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176608,
+      "num": 124439,
+      "word": "三大队",
+      "onboard_time": 1706876676,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "坠亡姐弟外婆称心里会痛一辈子",
@@ -3753,6 +3889,14 @@
       "onboard_time": 1706757871,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 172462,
+      "num": 172462,
+      "word": "被砸车当事人称警方已通报到此为止",
+      "onboard_time": 1706875833,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172211,
@@ -4339,6 +4483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147118,
+      "num": 147118,
+      "word": "轻语的芈月",
+      "onboard_time": 1706876609,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147008,
       "num": 147008,
       "word": "光与夜之恋蓝总管",
@@ -4529,6 +4681,14 @@
       "onboard_time": 1706768131,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 138942,
+      "num": 138942,
+      "word": "闪耀暖暖流麻变色裙子",
+      "onboard_time": 1706876609,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 138137,
@@ -4923,6 +5083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "回家发现爷爷自制的手机支架",
+      "onboard_time": 1706876013,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124900,
       "num": 124900,
       "word": "春晚小品混剪 来对暗号",
@@ -5187,6 +5355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110140,
+      "num": 123052,
+      "word": "画师比jjxx更爱五条悟",
+      "onboard_time": 1706876972,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109976,
       "num": 109976,
       "word": "刘耀文给雷佳音呼呼",
@@ -5233,6 +5409,14 @@
       "onboard_time": 1706785954,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102515,
+      "num": 122960,
+      "word": "我也想调戏小猫工作人员",
+      "onboard_time": 1706876972,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102258,
@@ -5443,6 +5627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68226,
+      "num": 1096448,
+      "word": "过小年的仪式感",
+      "onboard_time": 1706861432,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63649,
       "num": 63649,
       "word": "龙年专属福字",
@@ -5531,6 +5723,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 50188,
+      "num": 176116,
+      "word": "自贡市第一鲁班",
+      "onboard_time": 1706875231,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49086,
       "num": 270207,
       "word": "蛋仔新春爆料",
@@ -5553,6 +5753,14 @@
       "onboard_time": 1706821036,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47788,
+      "num": 276955,
+      "word": "这届老板开始在京东卷送年货",
+      "onboard_time": 1706872891,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 44373,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706873638043,
+  "endTime": 1706877010156,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -545,6 +545,14 @@
       "onboard_time": 1706088510,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2771728,
+      "num": 2771728,
+      "word": "致命游戏下架",
+      "onboard_time": 1706873973,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2770385,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704696629,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1652183,
-      "num": 1652183,
-      "word": "相差13岁姐弟恋妻子发声",
-      "onboard_time": 1706412447,
-      "rank": 22,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
