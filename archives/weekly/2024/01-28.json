@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706901325128,
+  "endTime": 1706902440438,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -14115,6 +14115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127907,
+      "num": 127907,
+      "word": "痛失广东市场",
+      "onboard_time": 1706898379,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127906,
       "num": 127906,
       "word": "阿麦从军",
@@ -14937,14 +14945,6 @@
       "onboard_time": 1706775628,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116864,
-      "num": 76799,
-      "word": "痛失广东市场",
-      "onboard_time": 1706898379,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 116630,
@@ -16995,6 +16995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60107,
+      "num": 64724,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
@@ -17339,14 +17347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41012,
-      "num": 41012,
-      "word": "高铁晚点",
-      "onboard_time": 1706899998,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40788,
       "num": 45532,
       "word": "惠英红穿了陈伟霆送的衣服",
@@ -17563,6 +17563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28397,
+      "num": 28397,
+      "word": "肖战GQ文字采访",
+      "onboard_time": 1706901257,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27691,
       "num": 320107,
       "word": "给打工人报销回家的车票",
@@ -17635,6 +17643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18394,
+      "num": 20923,
+      "word": "央视boys一次唱12个神话",
+      "onboard_time": 1706902276,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18049,
       "num": 21321,
       "word": "6招让内分泌重回正轨",
@@ -17652,7 +17668,7 @@
     },
     {
       "raw_hot": 17254,
-      "num": 19082,
+      "num": 19810,
       "word": "雪花酥也成了刺客",
       "onboard_time": 1706900359,
       "rank": 48,
@@ -17745,6 +17761,14 @@
       "onboard_time": 1706688991,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14832,
+      "num": 19456,
+      "word": "约旦晋级亚洲杯四强",
+      "onboard_time": 1706901439,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 13922,

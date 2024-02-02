@@ -1,0 +1,410 @@
+{
+  "runTime": 1706902440438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 178903,
+        "num": 178903,
+        "word": "郑爽仍有3856万赔付款未履行",
+        "onboard_time": 1706897301,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127907,
+        "num": 127907,
+        "word": "痛失广东市场",
+        "onboard_time": 1706898379,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2791,
+        "num": 116579,
+        "word": "2024网络视听盛典阵容官宣",
+        "onboard_time": 1706679395,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114849,
+        "num": 114849,
+        "word": "娃娃机里的玩偶为啥不能放床头",
+        "onboard_time": 1706884174,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105773,
+        "num": 105773,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99845,
+        "num": 99845,
+        "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+        "onboard_time": 1706870130,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72661,
+        "num": 72661,
+        "word": "kpop审美",
+        "onboard_time": 1706895142,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64783,
+        "num": 64783,
+        "word": "12306回应无座票去一等座",
+        "onboard_time": 1706880693,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60107,
+        "num": 64724,
+        "word": "高铁晚点",
+        "onboard_time": 1706899998,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23415,
+        "num": 64456,
+        "word": "中国香港队退出电竞版足球亚洲杯",
+        "onboard_time": 1706890107,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90499,
+        "num": 63881,
+        "word": "叶府婚宴",
+        "onboard_time": 1706868690,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82873,
+        "num": 63664,
+        "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+        "onboard_time": 1706867549,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63526,
+        "num": 63526,
+        "word": "白敬亭开了咖啡店",
+        "onboard_time": 1706890290,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55308,
+        "num": 55308,
+        "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
+        "onboard_time": 1706874030,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54472,
+        "num": 54472,
+        "word": "王珞丹同一件礼服12年前后对比",
+        "onboard_time": 1706895861,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52272,
+        "num": 52272,
+        "word": "李玉玲",
+        "onboard_time": 1706898558,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43783,
+        "num": 43783,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42664,
+        "num": 42664,
+        "word": "A股走低与雪球敲入关联较低",
+        "onboard_time": 1706888311,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41123,
+        "num": 41123,
+        "word": "在暴雪时分",
+        "onboard_time": 1706879069,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38357,
+        "num": 38357,
+        "word": "美甲翻车",
+        "onboard_time": 1706866532,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57959,
+        "num": 36218,
+        "word": "眼睛上长这个可能是血脂高",
+        "onboard_time": 1706885792,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38398,
+        "num": 36172,
+        "word": "孔刘李栋旭又合体",
+        "onboard_time": 1706894544,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33655,
+        "num": 33655,
+        "word": "10种被吹上天的伪健康食物",
+        "onboard_time": 1706888132,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31892,
+        "num": 31892,
+        "word": "亚洲杯",
+        "onboard_time": 1706891191,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29844,
+        "num": 29844,
+        "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+        "onboard_time": 1706868933,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 36273,
+        "num": 29666,
+        "word": "郭麒麟又亲爹了",
+        "onboard_time": 1706881713,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33336,
+        "num": 29465,
+        "word": "36个女大学生演活了汉宫春晓图",
+        "onboard_time": 1706898499,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28846,
+        "num": 28846,
+        "word": "被砸车当事人称警方已通报到此为止",
+        "onboard_time": 1706875833,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28397,
+        "num": 28397,
+        "word": "肖战GQ文字采访",
+        "onboard_time": 1706901257,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26602,
+        "num": 26602,
+        "word": "刘暖曦再审申请被法院驳回",
+        "onboard_time": 1706880274,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27879,
+        "num": 26570,
+        "word": "他的性别生来就是老公",
+        "onboard_time": 1706872591,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26533,
+        "num": 26533,
+        "word": "琳琳土豆",
+        "onboard_time": 1706887054,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26087,
+        "num": 26087,
+        "word": "夏之光演技",
+        "onboard_time": 1706874692,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24997,
+        "num": 24997,
+        "word": "刘国梁要求国乒自觉抵制饭圈文化",
+        "onboard_time": 1706880511,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24413,
+        "num": 24413,
+        "word": "相亲前后的变化到底有多大",
+        "onboard_time": 1706885613,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24647,
+        "num": 23959,
+        "word": "宋亚轩身体不适",
+        "onboard_time": 1706875833,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23330,
+        "num": 23330,
+        "word": "宋仲基弹手机vs吴磊抛火机",
+        "onboard_time": 1706877872,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 22438,
+        "word": "文科生就业现状",
+        "onboard_time": 1706880274,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19680,
+        "num": 22264,
+        "word": "董宇辉采访刘德华7分钟高能总结",
+        "onboard_time": 1706884774,
+        "rank": 38,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 19562,
+        "num": 22115,
+        "word": "2024金牛座会发生的三件好事",
+        "onboard_time": 1706886394,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20618,
+        "num": 21771,
+        "word": "创造营亚洲全员入驻微博",
+        "onboard_time": 1706888731,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19935,
+        "num": 21560,
+        "word": "爱奇艺",
+        "onboard_time": 1706876372,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19419,
+        "num": 21439,
+        "word": "林亦扬占有欲",
+        "onboard_time": 1706894304,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18729,
+        "num": 21147,
+        "word": "车银优边抽烟边落泪",
+        "onboard_time": 1706864432,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18394,
+        "num": 20923,
+        "word": "央视boys一次唱12个神话",
+        "onboard_time": 1706902276,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18392,
+        "num": 20602,
+        "word": "小猫咪不懂什么是过年",
+        "onboard_time": 1706886751,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17537,
+        "num": 20261,
+        "word": "A股再跌可能会需要更多救市资金",
+        "onboard_time": 1706866291,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16666,
+        "num": 20023,
+        "word": "集卡集到真龙了",
+        "onboard_time": 1706892387,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15742,
+        "num": 19810,
+        "word": "雪花酥也成了刺客",
+        "onboard_time": 1706900359,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14832,
+        "num": 19456,
+        "word": "约旦晋级亚洲杯四强",
+        "onboard_time": 1706901439,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
