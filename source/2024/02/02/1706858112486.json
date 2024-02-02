@@ -1,0 +1,410 @@
+{
+  "runTime": 1706858112486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2545548,
+        "num": 2545548,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1714033,
+        "num": 1714033,
+        "word": "沪指失守2700点关口",
+        "onboard_time": 1706855073,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15491,
+        "num": 1096860,
+        "word": "致敬每位春节期间坚守在岗位上的人",
+        "onboard_time": 1706841870,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072771,
+        "num": 1072771,
+        "word": "2700",
+        "onboard_time": 1706855372,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1061965,
+        "num": 1061965,
+        "word": "奥运冠军杨倩教练发文讨薪",
+        "onboard_time": 1706852492,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1013562,
+        "num": 1013562,
+        "word": "童漠男 行业又没了",
+        "onboard_time": 1706855972,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792554,
+        "num": 792554,
+        "word": "迪丽热巴英文聊天",
+        "onboard_time": 1706852433,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717299,
+        "num": 717299,
+        "word": "咳嗽时把痰咽下去伤身体吗",
+        "onboard_time": 1706847629,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 640529,
+        "num": 640529,
+        "word": "韩如雪否认知三当三",
+        "onboard_time": 1706852191,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568695,
+        "num": 568695,
+        "word": "衡阳2岁失踪男童遗体被发现",
+        "onboard_time": 1706855850,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1639501,
+        "num": 553116,
+        "word": "郑爽拍戏延期一天220万",
+        "onboard_time": 1706848293,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760764,
+        "num": 510712,
+        "word": "股市",
+        "onboard_time": 1706853814,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 461741,
+        "num": 461741,
+        "word": "生育损伤是人类注定的吗",
+        "onboard_time": 1706854293,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423456,
+        "num": 423456,
+        "word": "上交所 外卖",
+        "onboard_time": 1706857414,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 402517,
+        "num": 402517,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381985,
+        "num": 381985,
+        "word": "A股创业板指跌至3%",
+        "onboard_time": 1706854053,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 378069,
+        "num": 378069,
+        "word": "超4700只个股下跌",
+        "onboard_time": 1706853213,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 374724,
+        "num": 374724,
+        "word": "肖战不上综艺的原因",
+        "onboard_time": 1706847813,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363081,
+        "num": 363081,
+        "word": "聊天记录占超75%微信内存",
+        "onboard_time": 1706850815,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 362995,
+        "num": 362995,
+        "word": "最难追的星座",
+        "onboard_time": 1706852371,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 944283,
+        "num": 340549,
+        "word": "追到美国让郑爽还钱",
+        "onboard_time": 1706850035,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294914,
+        "num": 294914,
+        "word": "我的婚礼取消了这七个环节",
+        "onboard_time": 1706836530,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289796,
+        "num": 289796,
+        "word": "上海一家八口住在150平老破大",
+        "onboard_time": 1706854652,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277609,
+        "num": 277609,
+        "word": "胡锡进",
+        "onboard_time": 1706854293,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274321,
+        "num": 274321,
+        "word": "奔驰车加塞事件",
+        "onboard_time": 1706852850,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274068,
+        "num": 274068,
+        "word": "杨波评论区",
+        "onboard_time": 1706851833,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237683,
+        "num": 237683,
+        "word": "金鹤龙给杨幂化妆",
+        "onboard_time": 1706855188,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232901,
+        "num": 232901,
+        "word": "11万股民跌停板上凌乱了",
+        "onboard_time": 1706848477,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221405,
+        "num": 221405,
+        "word": "雪球",
+        "onboard_time": 1706855674,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220948,
+        "num": 220948,
+        "word": "TWICE空降",
+        "onboard_time": 1706855972,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215104,
+        "num": 215104,
+        "word": "秦岚短发羊毛卷",
+        "onboard_time": 1706857532,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169423,
+        "num": 169423,
+        "word": "总戴假睫毛的人现在都怎么样了",
+        "onboard_time": 1706848353,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164009,
+        "num": 164009,
+        "word": "微信体积再变大",
+        "onboard_time": 1706843012,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163851,
+        "num": 163851,
+        "word": "霸王茶姬dsp",
+        "onboard_time": 1706857951,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163223,
+        "num": 163223,
+        "word": "迪丽热巴猫耳朵针织帽",
+        "onboard_time": 1706854112,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159828,
+        "num": 159828,
+        "word": "肖战这个笑起鸡皮疙瘩了",
+        "onboard_time": 1706851476,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158003,
+        "num": 158003,
+        "word": "上千只基金1月亏损超20%",
+        "onboard_time": 1706855491,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29437,
+        "num": 157249,
+        "word": "拍出你眼中的龙年味道",
+        "onboard_time": 1706857713,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157236,
+        "num": 157236,
+        "word": "王亚飞",
+        "onboard_time": 1706853395,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152057,
+        "num": 152057,
+        "word": "00后女孩喜中50万大奖",
+        "onboard_time": 1706846070,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151985,
+        "num": 151985,
+        "word": "女装退货率高的原因",
+        "onboard_time": 1706850035,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146841,
+        "num": 146841,
+        "word": "郑爽境内外资产单一项就超过2.3亿",
+        "onboard_time": 1706858071,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144475,
+        "num": 144475,
+        "word": "肖战为拍射雕英雄传增重",
+        "onboard_time": 1706847573,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136386,
+        "num": 136386,
+        "word": "宋轶花房公主妆",
+        "onboard_time": 1706855309,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "网络春晚节目单",
+        "onboard_time": 1706853631,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130463,
+        "num": 130463,
+        "word": "张帆",
+        "onboard_time": 1706856812,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129766,
+        "num": 129766,
+        "word": "迪丽热巴成都",
+        "onboard_time": 1706842290,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128795,
+        "num": 128795,
+        "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+        "onboard_time": 1706830106,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128124,
+        "num": 128124,
+        "word": "星穹铁道一番赏",
+        "onboard_time": 1706857228,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 6420,
+        "num": 125932,
+        "word": "京东春晚再加奢华家电",
+        "onboard_time": 1706858071,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}
