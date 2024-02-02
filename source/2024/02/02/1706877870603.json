@@ -1,0 +1,410 @@
+{
+  "runTime": 1706877870603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2298199,
+        "num": 2298199,
+        "word": "致命游戏下架",
+        "onboard_time": 1706873973,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1550333,
+        "num": 1550333,
+        "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+        "onboard_time": 1706870130,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86479,
+        "num": 908923,
+        "word": "过小年的仪式感",
+        "onboard_time": 1706861432,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768720,
+        "num": 768720,
+        "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
+        "onboard_time": 1706874030,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706487,
+        "num": 706487,
+        "word": "夏之光演技",
+        "onboard_time": 1706874692,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670869,
+        "num": 670869,
+        "word": "宋亚轩身体不适",
+        "onboard_time": 1706875833,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664376,
+        "num": 664376,
+        "word": "他的性别生来就是老公",
+        "onboard_time": 1706872591,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390730,
+        "num": 390730,
+        "word": "宁波体校回应杨倩教练讨要奖金",
+        "onboard_time": 1706874274,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388982,
+        "num": 388982,
+        "word": "菏泽一派出所协警铐走实习律师",
+        "onboard_time": 1706872111,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303534,
+        "num": 303534,
+        "word": "A股再跌可能会需要更多救市资金",
+        "onboard_time": 1706866291,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 963575,
+        "num": 301976,
+        "word": "叶府婚宴",
+        "onboard_time": 1706868690,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 875871,
+        "num": 294885,
+        "word": "投资人希望郑爽承担千万AI换脸费",
+        "onboard_time": 1706876190,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581859,
+        "num": 282894,
+        "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+        "onboard_time": 1706867549,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513193,
+        "num": 277410,
+        "word": "皓衣行",
+        "onboard_time": 1706871452,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41664,
+        "num": 268564,
+        "word": "这届老板开始在京东卷送年货",
+        "onboard_time": 1706872891,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 476127,
+        "num": 266010,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464556,
+        "num": 260312,
+        "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+        "onboard_time": 1706868933,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 461969,
+        "num": 247977,
+        "word": "爱奇艺",
+        "onboard_time": 1706876372,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247323,
+        "num": 247323,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1706868751,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 230593,
+        "num": 230593,
+        "word": "美甲翻车",
+        "onboard_time": 1706866532,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 367503,
+        "num": 227086,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360591,
+        "num": 226305,
+        "word": "林俊杰天津演唱会",
+        "onboard_time": 1706876136,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191399,
+        "num": 191399,
+        "word": "疑似奔驰方女乘客角度视频曝光",
+        "onboard_time": 1706862693,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177491,
+        "num": 177491,
+        "word": "被砸车当事人称警方已通报到此为止",
+        "onboard_time": 1706875833,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173551,
+        "num": 173551,
+        "word": "闪耀暖暖流麻变色裙子",
+        "onboard_time": 1706876609,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321650,
+        "num": 170573,
+        "word": "车银优边抽烟边落泪",
+        "onboard_time": 1706864432,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320488,
+        "num": 168736,
+        "word": "烽火流金 可以抬一下吗",
+        "onboard_time": 1706875292,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263322,
+        "num": 167311,
+        "word": "林俊杰天津抢票",
+        "onboard_time": 1706877390,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165517,
+        "num": 165517,
+        "word": "公司年终刷新了我对抽奖的认知",
+        "onboard_time": 1706877212,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94943,
+        "num": 160704,
+        "word": "被妈妈一句回来就是最好的礼物破防了",
+        "onboard_time": 1706869531,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248929,
+        "num": 159129,
+        "word": "央视网络春晚",
+        "onboard_time": 1706874094,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34694,
+        "num": 152720,
+        "word": "自贡市第一鲁班",
+        "onboard_time": 1706875231,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239556,
+        "num": 142747,
+        "word": "刘诗诗田曦薇撞衫",
+        "onboard_time": 1706867431,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199562,
+        "num": 139450,
+        "word": "在暴雪时分站内热度",
+        "onboard_time": 1706875292,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136797,
+        "num": 136797,
+        "word": "轻语的芈月",
+        "onboard_time": 1706876609,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192904,
+        "num": 128289,
+        "word": "德云社大封箱开场",
+        "onboard_time": 1706876554,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180049,
+        "num": 125951,
+        "word": "三大队",
+        "onboard_time": 1706876676,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176379,
+        "num": 125083,
+        "word": "你身上有光 我抓来看看",
+        "onboard_time": 1706875054,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119172,
+        "num": 119172,
+        "word": "沪指失守2700点关口",
+        "onboard_time": 1706855073,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116424,
+        "num": 116424,
+        "word": "回家发现爷爷自制的手机支架",
+        "onboard_time": 1706876013,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165934,
+        "num": 116109,
+        "word": "TWICE not in",
+        "onboard_time": 1706870911,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165175,
+        "num": 115638,
+        "word": "高至霆 痞帅",
+        "onboard_time": 1706877092,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163023,
+        "num": 114814,
+        "word": "旗袍是倪妮的原皮肤",
+        "onboard_time": 1706874991,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155917,
+        "num": 113609,
+        "word": "文俊辉金发出发图",
+        "onboard_time": 1706875231,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113485,
+        "num": 113485,
+        "word": "画师比jjxx更爱五条悟",
+        "onboard_time": 1706876972,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112258,
+        "num": 112258,
+        "word": "摇粒绒小猫咪",
+        "onboard_time": 1706871991,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105522,
+        "num": 105522,
+        "word": "奥运冠军杨倩教练发文讨薪",
+        "onboard_time": 1706852492,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101463,
+        "num": 101463,
+        "word": "KSG战胜RNGM",
+        "onboard_time": 1706877753,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99804,
+        "num": 99804,
+        "word": "00后许愿主打绝不吃亏",
+        "onboard_time": 1706876013,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92640,
+        "num": 99707,
+        "word": "外交部感谢CIA局长提醒",
+        "onboard_time": 1706864614,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力扎实推进高质量发展#"
+    }
+  }
+}

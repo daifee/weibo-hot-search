@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706877010156,
+  "endTime": 1706877870603,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -331,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 875871,
+      "num": 294885,
+      "word": "投资人希望郑爽承担千万AI换脸费",
+      "onboard_time": 1706876190,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857732,
       "num": 857732,
       "word": "云南宣威一村突发刑案致6人死亡",
@@ -459,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 670869,
+      "num": 670869,
+      "word": "宋亚轩身体不适",
+      "onboard_time": 1706875833,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 664376,
+      "num": 664376,
+      "word": "他的性别生来就是老公",
+      "onboard_time": 1706872591,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 649809,
       "num": 649809,
       "word": "四省有大到暴雪",
@@ -513,14 +537,6 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 598580,
-      "num": 598580,
-      "word": "他的性别生来就是老公",
-      "onboard_time": 1706872591,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 592704,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 461969,
+      "num": 247977,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461741,
       "num": 461741,
       "word": "生育损伤是人类注定的吗",
@@ -689,14 +713,6 @@
       "onboard_time": 1706857951,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 456980,
-      "num": 272222,
-      "word": "投资人希望郑爽承担千万AI换脸费",
-      "onboard_time": 1706876190,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 452237,
@@ -761,14 +777,6 @@
       "onboard_time": 1706841151,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427317,
-      "num": 264312,
-      "word": "宋亚轩身体不适",
-      "onboard_time": 1706875833,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 421286,
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388982,
+      "num": 388982,
+      "word": "菏泽一派出所协警铐走实习律师",
+      "onboard_time": 1706872111,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387242,
       "num": 256586,
       "word": "林俊杰天津演唱会",
@@ -865,14 +881,6 @@
       "onboard_time": 1706792313,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 379070,
-      "num": 379070,
-      "word": "菏泽一派出所协警铐走实习律师",
-      "onboard_time": 1706872111,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370262,
@@ -1067,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299723,
-      "num": 194969,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298386,
       "num": 298386,
       "word": "吃糖瓜",
@@ -1249,6 +1249,14 @@
       "onboard_time": 1706845710,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263322,
+      "num": 167311,
+      "word": "林俊杰天津抢票",
+      "onboard_time": 1706877390,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 262332,
@@ -1891,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180049,
+      "num": 125951,
+      "word": "三大队",
+      "onboard_time": 1706876676,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "灰太狼身世",
@@ -1915,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177491,
+      "num": 177491,
+      "word": "被砸车当事人称警方已通报到此为止",
+      "onboard_time": 1706875833,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177397,
       "num": 177397,
       "word": "DNF手游版号获批",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1706866890,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176608,
-      "num": 124439,
-      "word": "三大队",
-      "onboard_time": 1706876676,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 176031,
@@ -1987,20 +2003,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173551,
+      "num": 173551,
+      "word": "闪耀暖暖流麻变色裙子",
+      "onboard_time": 1706876609,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173117,
       "num": 173117,
       "word": "朱易 四大洲锦标赛",
       "onboard_time": 1706869410,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172462,
-      "num": 172462,
-      "word": "被砸车当事人称警方已通报到此为止",
-      "onboard_time": 1706875833,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172211,
@@ -2065,6 +2081,22 @@
       "onboard_time": 1706869832,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165517,
+      "num": 165517,
+      "word": "公司年终刷新了我对抽奖的认知",
+      "onboard_time": 1706877212,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165175,
+      "num": 115638,
+      "word": "高至霆 痞帅",
+      "onboard_time": 1706877092,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 163977,
@@ -2280,14 +2312,6 @@
       "word": "游戏版号",
       "onboard_time": 1706846612,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 138942,
-      "num": 138942,
-      "word": "闪耀暖暖流麻变色裙子",
-      "onboard_time": 1706876609,
-      "rank": 37,
       "category": "游戏"
     },
     {
@@ -2523,6 +2547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113485,
+      "num": 123052,
+      "word": "画师比jjxx更爱五条悟",
+      "onboard_time": 1706876972,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113445,
       "num": 113445,
       "word": "药明康德拟以10亿元回购股份",
@@ -2563,14 +2595,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 110140,
-      "num": 123052,
-      "word": "画师比jjxx更爱五条悟",
-      "onboard_time": 1706876972,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 109612,
       "num": 109612,
       "word": "Meta拟回购500亿美元股票",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1706876972,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101463,
+      "num": 101463,
+      "word": "KSG战胜RNGM",
+      "onboard_time": 1706877753,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100703,
@@ -2683,6 +2715,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 86479,
+      "num": 1096448,
+      "word": "过小年的仪式感",
+      "onboard_time": 1706861432,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86388,
       "num": 86388,
       "word": "鞠婧祎琼瑶式落泪",
@@ -2761,14 +2801,6 @@
       "onboard_time": 1706804070,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68226,
-      "num": 1096448,
-      "word": "过小年的仪式感",
-      "onboard_time": 1706861432,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65854,
