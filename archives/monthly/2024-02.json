@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706884454484,
+  "endTime": 1706887053956,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216113,
+      "num": 1216113,
+      "word": "12306回应无座票去一等座",
+      "onboard_time": 1706880693,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1209135,
       "num": 1209135,
       "word": "奥运冠军杨倩教练发文讨薪",
@@ -441,14 +449,6 @@
       "onboard_time": 1706788412,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1093635,
-      "num": 1093635,
-      "word": "12306回应无座票去一等座",
-      "onboard_time": 1706880693,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1086721,
@@ -1771,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 378156,
+      "num": 378156,
+      "word": "俞敏洪董宇辉张艺谋同框直播",
+      "onboard_time": 1706883394,
+      "rank": 18,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 376474,
       "num": 376474,
       "word": "胡先煦 我人都嗑傻了",
@@ -1992,6 +2000,14 @@
       "word": "吴磊赵今麦吻戏",
       "onboard_time": 1706848533,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332031,
+      "num": 332031,
+      "word": "枭起青壤",
+      "onboard_time": 1706885137,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2235,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301483,
+      "num": 534649,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 299239,
       "num": 299239,
       "word": "时代少年团 王者荣耀表演赛",
@@ -2315,12 +2339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289553,
+      "num": 289553,
+      "word": "周扬青香港探班阿娇vlog",
+      "onboard_time": 1706886335,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286634,
       "num": 286634,
       "word": "逆水寒红包封面",
       "onboard_time": 1706868811,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285474,
+      "num": 173121,
+      "word": "眼睛上长这个可能是血脂高",
+      "onboard_time": 1706885792,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 284913,
@@ -2427,14 +2467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 273430,
-      "num": 273430,
-      "word": "俞敏洪董宇辉张艺谋同框直播",
-      "onboard_time": 1706883394,
-      "rank": 18,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 273139,
       "num": 273139,
       "word": "小年快乐",
@@ -2483,12 +2515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266490,
-      "num": 534649,
-      "word": "店门口的结婚假条写满了路人祝福",
-      "onboard_time": 1706879374,
-      "rank": 29,
-      "category": "社会正能量"
+      "raw_hot": 268922,
+      "num": 268922,
+      "word": "董宇辉采访刘德华7分钟高能总结",
+      "onboard_time": 1706884774,
+      "rank": 19,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 265105,
@@ -2803,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230189,
+      "num": 230189,
+      "word": "相亲前后的变化到底有多大",
+      "onboard_time": 1706885613,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229623,
       "num": 229623,
       "word": "上海道运局回应浦东机场禁止网约车运营",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1706790211,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228075,
+      "num": 228075,
+      "word": "2024金牛座会发生的三件好事",
+      "onboard_time": 1706886394,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 225836,
@@ -3105,6 +3153,14 @@
       "onboard_time": 1706878953,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211051,
+      "num": 211051,
+      "word": "娃娃机里的玩偶为啥不能放床头",
+      "onboard_time": 1706884174,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210765,
@@ -4507,14 +4563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155037,
-      "num": 155037,
-      "word": "娃娃机里的玩偶为啥不能放床头",
-      "onboard_time": 1706884174,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154956,
       "num": 154956,
       "word": "熙华",
@@ -4657,6 +4705,14 @@
       "onboard_time": 1706760216,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149518,
+      "num": 149518,
+      "word": "苹果头显开售",
+      "onboard_time": 1706884534,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 149028,
@@ -5091,6 +5147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132688,
+      "num": 132688,
+      "word": "管泽元解说米勒比赛",
+      "onboard_time": 1706885494,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132440,
       "num": 132440,
       "word": "300万女性住在卡车上",
@@ -5105,6 +5169,14 @@
       "onboard_time": 1706833829,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131977,
+      "num": 131977,
+      "word": "小猫咪不懂什么是过年",
+      "onboard_time": 1706886751,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 131916,
@@ -5249,6 +5321,14 @@
       "onboard_time": 1706857228,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128033,
+      "num": 128033,
+      "word": "北京台春晚 时代少年团",
+      "onboard_time": 1706884717,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 127736,
@@ -5657,6 +5737,14 @@
       "onboard_time": 1706861432,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109701,
+      "num": 109701,
+      "word": "CBA冷门之夜",
+      "onboard_time": 1706886275,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 109612,
