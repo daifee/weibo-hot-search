@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706915777118,
+  "endTime": 1706916837276,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -1235,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539788,
+      "num": 539788,
+      "word": "小金豆两个月在尔滨购房共4650套",
+      "onboard_time": 1706915120,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537880,
       "num": 537880,
       "word": "Selina产后代言收入达百万",
@@ -1683,6 +1691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 399255,
+      "num": 399255,
+      "word": "郑爽仍有3856万赔付款未履行",
+      "onboard_time": 1706897301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398618,
       "num": 398618,
       "word": "四川通报一学生在校坠亡",
@@ -2115,14 +2131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329199,
-      "num": 329199,
-      "word": "郑爽仍有3856万赔付款未履行",
-      "onboard_time": 1706897301,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "曝湖人可能交易詹姆斯",
@@ -2523,6 +2531,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 272890,
+      "num": 176246,
+      "word": "王珞丹同一件礼服12年前后对比",
+      "onboard_time": 1706895861,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272812,
       "num": 272812,
       "word": "智族GQ肖战梦境大片",
@@ -2755,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241848,
+      "num": 241848,
+      "word": "前TVB演员河国荣烧炭自杀",
+      "onboard_time": 1706916380,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241594,
       "num": 234805,
       "word": "糖吃多了可能毁全身",
@@ -2840,6 +2864,14 @@
       "word": "奔驰车主逆行被处罚款200元记3分",
       "onboard_time": 1706784510,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234403,
+      "num": 172303,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2929,6 +2961,14 @@
       "onboard_time": 1706886394,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227083,
+      "num": 227083,
+      "word": "痛失广东市场",
+      "onboard_time": 1706898379,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 225836,
@@ -3145,14 +3185,6 @@
       "onboard_time": 1706767591,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 216483,
-      "num": 216483,
-      "word": "小金豆两个月在尔滨购房共4650套",
-      "onboard_time": 1706915120,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216445,
@@ -3387,14 +3419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201342,
-      "num": 201342,
-      "word": "痛失广东市场",
-      "onboard_time": 1706898379,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201006,
       "num": 201006,
       "word": "小年夜",
@@ -3513,14 +3537,6 @@
       "onboard_time": 1706790029,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195267,
-      "num": 118202,
-      "word": "王珞丹同一件礼服12年前后对比",
-      "onboard_time": 1706895861,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195091,
@@ -5307,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "澳大利亚1比2韩国",
+      "onboard_time": 1706916019,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131916,
       "num": 131916,
       "word": "但斌呼吁A股取消涨跌停板实行T加0",
@@ -5561,14 +5585,6 @@
       "onboard_time": 1706884054,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124238,
-      "num": 98176,
-      "word": "花花被扇倒索性直接躺下",
-      "onboard_time": 1706905096,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123480,
@@ -5995,6 +6011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101301,
+      "num": 101301,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100730,
       "num": 100730,
       "word": "迪丽热巴光影花絮视频",
@@ -6091,6 +6115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92385,
+      "num": 92385,
+      "word": "韩国晋级亚洲杯四强",
+      "onboard_time": 1706916140,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92073,
       "num": 92073,
       "word": "1对新人用8串真香蕉装饰宝马婚车",
@@ -6129,14 +6161,6 @@
       "onboard_time": 1706888793,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86680,
-      "num": 86680,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 86388,
@@ -6251,6 +6275,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74045,
+      "num": 74045,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 72168,
+      "num": 72168,
+      "word": "迎新年大扫除攻略",
+      "onboard_time": 1706915839,
+      "rank": 26,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 72120,
       "num": 72120,
       "word": "人民网评吴谢宇案",
@@ -6299,12 +6339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57317,
-      "num": 57317,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 58106,
+      "num": 178505,
+      "word": "1岁外孙来家外公急忙砍竹子做围墙",
+      "onboard_time": 1706916320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58066,
+      "num": 58066,
+      "word": "金地雄视频签售结束后说西八",
+      "onboard_time": 1706915423,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 55965,
@@ -6329,6 +6377,22 @@
       "onboard_time": 1706842829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54874,
+      "num": 54874,
+      "word": "打玻尿酸 馒化",
+      "onboard_time": 1706916683,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 52171,
+      "num": 52171,
+      "word": "36个女大学生演活了汉宫春晓图",
+      "onboard_time": 1706898499,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 52099,
@@ -6419,6 +6483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 47519,
+      "num": 47519,
+      "word": "孙兴慜任意球破门",
+      "onboard_time": 1706916619,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44373,
       "num": 362162,
       "word": "拍出你眼中的龙年味道",
@@ -6467,20 +6539,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 40513,
-      "num": 40513,
-      "word": "36个女大学生演活了汉宫春晓图",
-      "onboard_time": 1706898499,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39207,
+      "num": 39207,
+      "word": "这些东西放进微波炉会爆炸",
+      "onboard_time": 1706916561,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 39058,
+      "num": 39058,
+      "word": "小狗吸猫的时候跟人一样",
+      "onboard_time": 1706916140,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 35863,
@@ -6537,14 +6617,6 @@
       "onboard_time": 1706734755,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29730,
-      "num": 29730,
-      "word": "金地雄视频签售结束后说西八",
-      "onboard_time": 1706915423,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 29242,
