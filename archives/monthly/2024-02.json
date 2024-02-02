@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706890800396,
+  "endTime": 1706891671867,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -1211,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550317,
+      "num": 550317,
+      "word": "娃娃机里的玩偶为啥不能放床头",
+      "onboard_time": 1706884174,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 544322,
       "num": 544322,
       "word": "美甲店称过年费是加班费",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1706752288,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 522772,
-      "num": 522772,
-      "word": "娃娃机里的玩偶为啥不能放床头",
-      "onboard_time": 1706884174,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 517328,
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482088,
+      "num": 482088,
+      "word": "琳琳土豆",
+      "onboard_time": 1706887054,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 480669,
       "num": 480669,
       "word": "春晚节目单",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1706776949,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479913,
-      "num": 479913,
-      "word": "琳琳土豆",
-      "onboard_time": 1706887054,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 476552,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1706774428,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 457052,
+      "num": 457052,
+      "word": "白敬亭开了咖啡店",
+      "onboard_time": 1706890290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 455428,
@@ -2115,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326010,
+      "num": 306335,
+      "word": "菏泽牡丹南路派出所所长被停职",
+      "onboard_time": 1706888193,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325083,
       "num": 325083,
       "word": "健康减肥后身体发生的变化",
@@ -2179,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311528,
-      "num": 263740,
-      "word": "白敬亭开了咖啡店",
-      "onboard_time": 1706890290,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1706864614,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306335,
-      "num": 306335,
-      "word": "菏泽牡丹南路派出所所长被停职",
-      "onboard_time": 1706888193,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305863,
@@ -4107,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174598,
+      "num": 162267,
+      "word": "10种被吹上天的伪健康食物",
+      "onboard_time": 1706888132,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174451,
       "num": 174451,
       "word": "小年文案",
@@ -4625,14 +4633,6 @@
       "onboard_time": 1706749231,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154793,
-      "num": 154793,
-      "word": "10种被吹上天的伪健康食物",
-      "onboard_time": 1706888132,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 154659,
@@ -5201,6 +5201,14 @@
       "onboard_time": 1706769871,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132895,
+      "num": 154864,
+      "word": "中国香港队退出电竞版足球亚洲杯",
+      "onboard_time": 1706890107,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 132810,
@@ -6035,6 +6043,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91395,
+      "num": 91395,
+      "word": "虞利华教练所发布信息与事实不符",
+      "onboard_time": 1706890350,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87139,
+      "num": 87139,
+      "word": "亚洲杯",
+      "onboard_time": 1706728097,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87134,
+      "num": 89984,
+      "word": "2024LCK",
+      "onboard_time": 1706888793,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86388,
       "num": 86388,
       "word": "鞠婧祎琼瑶式落泪",
@@ -6091,20 +6123,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81546,
-      "num": 89984,
-      "word": "2024LCK",
-      "onboard_time": 1706888793,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80204,
       "num": 80204,
       "word": "巴黎文旅出来解释下",
       "onboard_time": 1706823976,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79140,
+      "num": 79140,
+      "word": "吴磊原声英文台词",
+      "onboard_time": 1706891487,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 78717,
@@ -6121,14 +6153,6 @@
       "onboard_time": 1706756428,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 75557,
-      "num": 89983,
-      "word": "虞利华教练所发布信息与事实不符",
-      "onboard_time": 1706890350,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 74413,
@@ -6153,14 +6177,6 @@
       "onboard_time": 1706804070,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 66562,
-      "num": 154864,
-      "word": "中国香港队退出电竞版足球亚洲杯",
-      "onboard_time": 1706890107,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 63649,
@@ -6417,14 +6433,6 @@
       "onboard_time": 1706812097,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22861,
-      "num": 22861,
-      "word": "亚洲杯",
-      "onboard_time": 1706728097,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 22239,
