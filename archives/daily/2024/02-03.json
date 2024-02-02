@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706912144468,
+  "endTime": 1706913230706,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109302,
+      "num": 109302,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "宋亚轩身体不适",
@@ -419,14 +427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83639,
-      "num": 83639,
-      "word": "高铁晚点",
-      "onboard_time": 1706899998,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79140,
       "num": 79140,
       "word": "吴磊原声英文台词",
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59100,
+      "num": 59100,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55965,
       "num": 55965,
       "word": "林亦扬占有欲",
@@ -491,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51256,
-      "num": 51256,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 45431,
+      "num": 33869,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42022,
@@ -515,16 +523,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36614,
-      "num": 27035,
-      "word": "花花被扇倒索性直接躺下",
-      "onboard_time": 1706905096,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28625,
-      "num": 28625,
+      "raw_hot": 34222,
+      "num": 34222,
       "word": "过年红包掏空了年迈父亲一年的收入",
       "onboard_time": 1706904018,
       "rank": 38,
@@ -539,19 +539,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 24433,
+      "num": 24433,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 23414,
       "num": 21104,
       "word": "江西家宴",
       "onboard_time": 1706904137,
       "rank": 31,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 22429,
-      "num": 22429,
-      "word": "干炒牛河是粤菜师傅功底的试金石",
-      "onboard_time": 1706908096,
-      "rank": 45,
       "category": "美食"
     },
     {
@@ -571,8 +571,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 15817,
-      "num": 15262,
+      "raw_hot": 16567,
+      "num": 19288,
       "word": "宋亚轩躲C位",
       "onboard_time": 1706907257,
       "rank": 44,
@@ -595,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14106,
+      "num": 19305,
+      "word": "雪地里来了猪咪画家",
+      "onboard_time": 1706911096,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13583,
       "num": 15977,
       "word": "车银优solo预告",
       "onboard_time": 1706904918,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 12187,
-      "num": 15239,
-      "word": "雪地里来了猪咪画家",
-      "onboard_time": 1706911096,
-      "rank": 48,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706912144468,
+  "endTime": 1706913230706,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -15635,6 +15635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109302,
+      "num": 109302,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109300,
       "num": 109300,
       "word": "刘耀文重庆话推荐第二十条",
@@ -16707,14 +16715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83639,
-      "num": 83639,
-      "word": "高铁晚点",
-      "onboard_time": 1706899998,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83611,
       "num": 83611,
       "word": "堆雪人界也进化到考研了",
@@ -17003,6 +17003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59100,
+      "num": 59100,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
@@ -17163,14 +17171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51256,
-      "num": 51256,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51231,
       "num": 166455,
       "word": "AppStore陪你过新春",
@@ -17297,6 +17297,14 @@
       "onboard_time": 1706657664,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 45431,
+      "num": 33869,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44373,
@@ -17427,14 +17435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36614,
-      "num": 27035,
-      "word": "花花被扇倒索性直接躺下",
-      "onboard_time": 1706905096,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36143,
       "num": 251122,
       "word": "蛋仔岛来了外卖侠",
@@ -17473,6 +17473,14 @@
       "onboard_time": 1706364152,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34222,
+      "num": 34222,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 34153,
@@ -17579,14 +17587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28625,
-      "num": 28625,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 28397,
       "num": 28397,
       "word": "肖战GQ文字采访",
@@ -17627,6 +17627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24433,
+      "num": 24433,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 24021,
       "num": 24021,
       "word": "金道英生日卡",
@@ -17649,14 +17657,6 @@
       "onboard_time": 1706639058,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22429,
-      "num": 22429,
-      "word": "干炒牛河是粤菜师傅功底的试金石",
-      "onboard_time": 1706908096,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 22239,
@@ -17747,6 +17747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16567,
+      "num": 19288,
+      "word": "宋亚轩躲C位",
+      "onboard_time": 1706907257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16420,
       "num": 142393,
       "word": "河南赛博灯会惊艳中原奇幻山水",
@@ -17769,14 +17777,6 @@
       "onboard_time": 1706727676,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15817,
-      "num": 15262,
-      "word": "宋亚轩躲C位",
-      "onboard_time": 1706907257,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 15783,
@@ -17817,6 +17817,14 @@
       "onboard_time": 1706901439,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14106,
+      "num": 19305,
+      "word": "雪地里来了猪咪画家",
+      "onboard_time": 1706911096,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 13922,
@@ -17865,14 +17873,6 @@
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12187,
-      "num": 15239,
-      "word": "雪地里来了猪咪画家",
-      "onboard_time": 1706911096,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 11855,
