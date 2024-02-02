@@ -1,0 +1,410 @@
+{
+  "runTime": 1706852026951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3058344,
+        "num": 3058344,
+        "word": "郑爽拍戏延期一天220万",
+        "onboard_time": 1706848293,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1930170,
+        "num": 1930170,
+        "word": "咳嗽时把痰咽下去伤身体吗",
+        "onboard_time": 1706847629,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94884,
+        "num": 1343842,
+        "word": "赶大集是中国人独有热闹",
+        "onboard_time": 1706842228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783270,
+        "num": 783270,
+        "word": "肖战不上综艺的原因",
+        "onboard_time": 1706847813,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 613054,
+        "num": 613054,
+        "word": "聊天记录占超75%微信内存",
+        "onboard_time": 1706850815,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2215936,
+        "num": 610187,
+        "word": "追到美国让郑爽还钱",
+        "onboard_time": 1706850035,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520897,
+        "num": 520897,
+        "word": "微信体积再变大",
+        "onboard_time": 1706843012,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 511133,
+        "num": 511133,
+        "word": "我的婚礼取消了这七个环节",
+        "onboard_time": 1706836530,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506397,
+        "num": 506397,
+        "word": "频繁做美甲会导致手变黑",
+        "onboard_time": 1706838689,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 441140,
+        "num": 505225,
+        "word": "茅台原董事长高卫东被判无期",
+        "onboard_time": 1706850396,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200284,
+        "num": 491874,
+        "word": "厦门大学",
+        "onboard_time": 1706847331,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 935288,
+        "num": 487285,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519713,
+        "num": 478463,
+        "word": "杨波评论区",
+        "onboard_time": 1706851833,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475080,
+        "num": 475080,
+        "word": "肖战为拍射雕英雄传增重",
+        "onboard_time": 1706847573,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 404179,
+        "num": 404179,
+        "word": "迪丽热巴成都",
+        "onboard_time": 1706842290,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47498,
+        "num": 388084,
+        "word": "和iQOO玩在一起才是年",
+        "onboard_time": 1706849075,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386518,
+        "num": 386518,
+        "word": "女装退货率高的原因",
+        "onboard_time": 1706850035,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380148,
+        "num": 380148,
+        "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
+        "onboard_time": 1706830106,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335760,
+        "num": 335760,
+        "word": "黄子韬登机牌",
+        "onboard_time": 1706847513,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298222,
+        "num": 332848,
+        "word": "美方承认几十年来改变中国的努力都没有成功",
+        "onboard_time": 1706830106,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452237,
+        "num": 332670,
+        "word": "11万股民跌停板上凌乱了",
+        "onboard_time": 1706848477,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360175,
+        "num": 332645,
+        "word": "总戴假睫毛的人现在都怎么样了",
+        "onboard_time": 1706848353,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 331597,
+        "num": 331597,
+        "word": "肖战这个笑起鸡皮疙瘩了",
+        "onboard_time": 1706851476,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 298386,
+        "num": 298386,
+        "word": "吃糖瓜",
+        "onboard_time": 1706850576,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280673,
+        "num": 280673,
+        "word": "00后女孩喜中50万大奖",
+        "onboard_time": 1706846070,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262332,
+        "num": 262332,
+        "word": "迪丽热巴成都活动人气",
+        "onboard_time": 1706849256,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247759,
+        "num": 247759,
+        "word": "周杰伦杭州抢票",
+        "onboard_time": 1706839767,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243212,
+        "num": 243212,
+        "word": "吴磊赵今麦吻戏",
+        "onboard_time": 1706848533,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220644,
+        "num": 220644,
+        "word": "胖东来一件羽绒服仅赚3毛钱",
+        "onboard_time": 1706831368,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214968,
+        "num": 214968,
+        "word": "蜀锦人家阵容官宣",
+        "onboard_time": 1706850214,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211094,
+        "num": 211094,
+        "word": "铁路回应为何12306售罄携程有票",
+        "onboard_time": 1706838090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204522,
+        "num": 204522,
+        "word": "男子杀人逃亡19年得知杀错人",
+        "onboard_time": 1706839709,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199475,
+        "num": 199475,
+        "word": "2024央视网络春晚节目单官宣",
+        "onboard_time": 1706849374,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181437,
+        "num": 181437,
+        "word": "良辰有梦",
+        "onboard_time": 1706850754,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173327,
+        "num": 173327,
+        "word": "跳跳俏俏六岁了",
+        "onboard_time": 1706832450,
+        "rank": 34,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 173136,
+        "num": 173136,
+        "word": "成毅李一桐对代拍抱拳鞠躬",
+        "onboard_time": 1706848773,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148951,
+        "num": 148951,
+        "word": "TWICE先行曲",
+        "onboard_time": 1706849315,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148656,
+        "num": 148656,
+        "word": "一只鸽子在印度被当成中国间谍",
+        "onboard_time": 1706840909,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144666,
+        "num": 144666,
+        "word": "补水 智商税",
+        "onboard_time": 1706834489,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142592,
+        "num": 142592,
+        "word": "为什么抱婴儿都用左手",
+        "onboard_time": 1706852013,
+        "rank": 39,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "王者龙限设计纪录片",
+        "onboard_time": 1706851713,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139787,
+        "num": 139787,
+        "word": "高至霆 出租屋文学",
+        "onboard_time": 1706841449,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137972,
+        "num": 137972,
+        "word": "鱿鱼游戏2第一眼预告",
+        "onboard_time": 1706849556,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136613,
+        "num": 136613,
+        "word": "凉拌瓜子",
+        "onboard_time": 1706849494,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128043,
+        "num": 128043,
+        "word": "去西藏配眼镜了吗",
+        "onboard_time": 1706846852,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123770,
+        "num": 123770,
+        "word": "花少5豆瓣评分破9了",
+        "onboard_time": 1706838391,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122499,
+        "num": 122499,
+        "word": "猫 看看就行了别乱摸",
+        "onboard_time": 1706844932,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116628,
+        "num": 116628,
+        "word": "17厘米的增高鞋",
+        "onboard_time": 1706845710,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113788,
+        "num": 113788,
+        "word": "许嵩演唱在暴雪时分片头曲",
+        "onboard_time": 1706841151,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107108,
+        "num": 107108,
+        "word": "人民日报评奔驰车男子打砸引擎盖事件",
+        "onboard_time": 1706838810,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快发展新质生产力#"
+    }
+  }
+}

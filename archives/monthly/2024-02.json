@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706851045997,
+  "endTime": 1706852026951,
   "band_list": [
     {
       "raw_hot": 3271293,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2215936,
+      "num": 776917,
+      "word": "追到美国让郑爽还钱",
+      "onboard_time": 1706850035,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2092734,
       "num": 2092734,
       "word": "干部被曝妻子怀孕时出轨多名女性",
@@ -57,6 +65,14 @@
       "onboard_time": 1706754330,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1930170,
+      "num": 1930170,
+      "word": "咳嗽时把痰咽下去伤身体吗",
+      "onboard_time": 1706847629,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1897912,
@@ -89,14 +105,6 @@
       "onboard_time": 1706785593,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1727324,
-      "num": 1727324,
-      "word": "咳嗽时把痰咽下去伤身体吗",
-      "onboard_time": 1706847629,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1716105,
@@ -169,14 +177,6 @@
       "onboard_time": 1706797952,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1528844,
-      "num": 776917,
-      "word": "追到美国让郑爽还钱",
-      "onboard_time": 1706850035,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1527612,
@@ -683,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613054,
+      "num": 613054,
+      "word": "聊天记录占超75%微信内存",
+      "onboard_time": 1706850815,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 605235,
       "num": 605235,
       "word": "A股",
@@ -875,6 +883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 519713,
+      "num": 478463,
+      "word": "杨波评论区",
+      "onboard_time": 1706851833,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503730,
       "num": 503730,
       "word": "赵今麦 真甜妹来了",
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452237,
+      "num": 332670,
+      "word": "11万股民跌停板上凌乱了",
+      "onboard_time": 1706848477,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 441436,
       "num": 441436,
       "word": "赵丽颖公司取得演出经纪许可",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1706809821,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441140,
+      "num": 505225,
+      "word": "茅台原董事长高卫东被判无期",
+      "onboard_time": 1706850396,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440350,
@@ -1091,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406810,
-      "num": 329735,
-      "word": "11万股民跌停板上凌乱了",
-      "onboard_time": 1706848477,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 405918,
       "num": 405918,
       "word": "美作家称韩国只学到儒家思想和资本主义糟粕",
@@ -1107,8 +1131,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 403976,
-      "num": 403976,
+      "raw_hot": 404179,
+      "num": 404179,
       "word": "迪丽热巴成都",
       "onboard_time": 1706842290,
       "rank": 18,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1706694271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386518,
+      "num": 386518,
+      "word": "女装退货率高的原因",
+      "onboard_time": 1706850035,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 381627,
@@ -1228,7 +1260,7 @@
     },
     {
       "raw_hot": 370262,
-      "num": 328684,
+      "num": 332645,
       "word": "总戴假睫毛的人现在都怎么样了",
       "onboard_time": 1706848353,
       "rank": 40,
@@ -1403,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331597,
+      "num": 331597,
+      "word": "肖战这个笑起鸡皮疙瘩了",
+      "onboard_time": 1706851476,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 331189,
       "num": 331189,
       "word": "过年做美甲要注意4点",
@@ -1547,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304698,
-      "num": 304698,
-      "word": "聊天记录占超75%微信内存",
-      "onboard_time": 1706850815,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 303867,
       "num": 303867,
       "word": "女子哈佛博士毕业后给豪门当家教",
@@ -1611,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298386,
+      "num": 298386,
+      "word": "吃糖瓜",
+      "onboard_time": 1706850576,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 294634,
       "num": 294634,
       "word": "车厘子只看几个J谁买谁是大冤种",
@@ -1641,14 +1681,6 @@
       "onboard_time": 1706823555,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291799,
-      "num": 291799,
-      "word": "女装退货率高的原因",
-      "onboard_time": 1706850035,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 284913,
@@ -1747,14 +1779,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 272809,
-      "num": 272809,
-      "word": "茅台原董事长高卫东被判无期",
-      "onboard_time": 1706850396,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272014,
       "num": 262534,
       "word": "丁克家庭要给亲戚小孩红包吗",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1706845710,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262332,
+      "num": 262332,
+      "word": "迪丽热巴成都活动人气",
+      "onboard_time": 1706849256,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 259187,
@@ -2195,20 +2227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214968,
+      "num": 214968,
+      "word": "蜀锦人家阵容官宣",
+      "onboard_time": 1706850214,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214749,
       "num": 214749,
       "word": "哈尔滨白狐宝宝罢工了",
       "onboard_time": 1706778149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212605,
-      "num": 212605,
-      "word": "吃糖瓜",
-      "onboard_time": 1706850576,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 208239,
@@ -2267,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205309,
-      "num": 205309,
-      "word": "迪丽热巴成都活动人气",
-      "onboard_time": 1706849256,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205221,
       "num": 205221,
       "word": "Weverse中文版",
@@ -2289,14 +2313,6 @@
       "onboard_time": 1706782171,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204188,
-      "num": 204188,
-      "word": "蜀锦人家阵容官宣",
-      "onboard_time": 1706850214,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 202628,
@@ -3403,6 +3419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142592,
+      "num": 142592,
+      "word": "为什么抱婴儿都用左手",
+      "onboard_time": 1706852013,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 141701,
       "num": 304177,
       "word": "崩坏3第二部上线",
@@ -3425,6 +3449,14 @@
       "onboard_time": 1706771729,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140555,
+      "num": 140555,
+      "word": "王者龙限设计纪录片",
+      "onboard_time": 1706851713,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 140486,
@@ -4348,7 +4380,7 @@
     },
     {
       "raw_hot": 51591,
-      "num": 339917,
+      "num": 388084,
       "word": "和iQOO玩在一起才是年",
       "onboard_time": 1706849075,
       "rank": 16,
