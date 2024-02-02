@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706880828978,
+  "endTime": 1706883342339,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1011,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1123884,
+      "num": 1123884,
+      "word": "刘国梁要求国乒自觉抵制饭圈文化",
+      "onboard_time": 1706880511,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1122769,
       "num": 230895,
       "word": "母猴 干儿子",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1706695650,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1106855,
+      "num": 1106855,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 1105705,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1706744783,
       "rank": 4,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 859994,
+      "num": 859994,
+      "word": "12306回应无座票去一等座",
+      "onboard_time": 1706880693,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 857732,
@@ -2203,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 700279,
-      "num": 700279,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 698251,
       "num": 698251,
       "word": "韩庚曾曝被SM公司区别对待",
@@ -2515,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648669,
+      "num": 648669,
+      "word": "刘暖曦再审申请被法院驳回",
+      "onboard_time": 1706880274,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643363,
       "num": 643363,
       "word": "被砸车女子回应加塞事件疑反转",
@@ -2553,6 +2577,14 @@
       "onboard_time": 1706424269,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639998,
+      "num": 639998,
+      "word": "文科生就业现状",
+      "onboard_time": 1706880274,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 638111,
@@ -2713,6 +2745,14 @@
       "onboard_time": 1706410227,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 620160,
+      "num": 620160,
+      "word": "郭麒麟又亲爹了",
+      "onboard_time": 1706881713,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 618380,
@@ -3108,7 +3148,7 @@
     },
     {
       "raw_hot": 559933,
-      "num": 345770,
+      "num": 550895,
       "word": "在暴雪时分",
       "onboard_time": 1706369311,
       "rank": 45,
@@ -5171,14 +5211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363105,
-      "num": 286582,
-      "word": "刘国梁要求国乒自觉抵制饭圈文化",
-      "onboard_time": 1706880511,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362995,
       "num": 362995,
       "word": "最难追的星座",
@@ -7011,6 +7043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258539,
+      "num": 318398,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 256909,
       "num": 256909,
       "word": "湖南卫视春晚阵容",
@@ -7651,14 +7691,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 230247,
-      "num": 230247,
-      "word": "文科生就业现状",
-      "onboard_time": 1706880274,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230015,
       "num": 230015,
       "word": "男子1元抢拍花瓶付款秒变9999元",
@@ -8219,14 +8251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216029,
-      "num": 216029,
-      "word": "刘暖曦再审申请被法院驳回",
-      "onboard_time": 1706880274,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215751,
       "num": 215751,
       "word": "IU金泰亨MV售后",
@@ -8433,6 +8457,14 @@
       "onboard_time": 1706434590,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 211392,
+      "num": 346590,
+      "word": "鞠婧祎一舞翩翩",
+      "onboard_time": 1706878953,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 211306,
@@ -9179,14 +9211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198331,
-      "num": 346590,
-      "word": "鞠婧祎一舞翩翩",
-      "onboard_time": 1706878953,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198235,
       "num": 198235,
       "word": "多家快递公司辟谣网传春节停运时间",
@@ -9369,6 +9393,14 @@
       "onboard_time": 1706799512,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194800,
+      "num": 194800,
+      "word": "烟花",
+      "onboard_time": 1706882915,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194784,
@@ -9993,6 +10025,14 @@
       "onboard_time": 1706501553,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "隆基绿能",
+      "onboard_time": 1706882492,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 185482,
@@ -10873,6 +10913,14 @@
       "onboard_time": 1706867732,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169312,
+      "num": 169312,
+      "word": "没有人情味的公司",
+      "onboard_time": 1706881893,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 168422,
@@ -11891,6 +11939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 153046,
+      "num": 153046,
+      "word": "邓为小年自拍",
+      "onboard_time": 1706881893,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153018,
       "num": 153018,
       "word": "粉笔模考",
@@ -12297,14 +12353,6 @@
       "onboard_time": 1706879069,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146959,
-      "num": 262332,
-      "word": "店门口的结婚假条写满了路人祝福",
-      "onboard_time": 1706879374,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 146781,
@@ -12827,6 +12875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "你长这么慢 我看不到你长大",
+      "onboard_time": 1706881775,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139316,
       "num": 139316,
       "word": "IU新闻图",
@@ -12921,6 +12977,14 @@
       "onboard_time": 1706712694,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138560,
+      "num": 138560,
+      "word": "嗑到张凯毅张煜东了",
+      "onboard_time": 1706883033,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 138485,
@@ -13843,6 +13907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "JJ20排队",
+      "onboard_time": 1706881293,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127594,
       "num": 127594,
       "word": "小巷人家两对cp",
@@ -14539,14 +14611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119044,
-      "num": 119044,
-      "word": "12306回应无座票去一等座",
-      "onboard_time": 1706880693,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118970,
       "num": 118970,
       "word": "萧敬腾林有慧大露背预告",
@@ -15043,6 +15107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112662,
+      "num": 112662,
+      "word": "北控男篮八连胜",
+      "onboard_time": 1706883274,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112590,
       "num": 112590,
       "word": "流星首秀好惊艳",
@@ -15145,6 +15217,14 @@
       "onboard_time": 1706756611,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110657,
+      "num": 110657,
+      "word": "老板给员工发小年礼物不忘员工父母",
+      "onboard_time": 1706881233,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110512,
@@ -17140,7 +17220,7 @@
     },
     {
       "raw_hot": 27691,
-      "num": 187206,
+      "num": 320107,
       "word": "给打工人报销回家的车票",
       "onboard_time": 1706880393,
       "rank": 35,

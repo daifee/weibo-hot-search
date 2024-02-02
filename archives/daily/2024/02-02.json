@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706880828978,
+  "endTime": 1706883342339,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -235,6 +235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1123884,
+      "num": 1123884,
+      "word": "刘国梁要求国乒自觉抵制饭圈文化",
+      "onboard_time": 1706880511,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1106855,
+      "num": 1106855,
+      "word": "爱奇艺",
+      "onboard_time": 1706876372,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1086721,
       "num": 1086721,
       "word": "皓衣行",
@@ -337,6 +353,14 @@
       "onboard_time": 1706854053,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 859994,
+      "num": 859994,
+      "word": "12306回应无座票去一等座",
+      "onboard_time": 1706880693,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 857732,
@@ -443,14 +467,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 700279,
-      "num": 700279,
-      "word": "爱奇艺",
-      "onboard_time": 1706876372,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 698203,
       "num": 698203,
       "word": "你愿意把五天工时浓缩成四天吗",
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648669,
+      "num": 648669,
+      "word": "刘暖曦再审申请被法院驳回",
+      "onboard_time": 1706880274,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643363,
       "num": 643363,
       "word": "被砸车女子回应加塞事件疑反转",
@@ -515,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639998,
+      "num": 639998,
+      "word": "文科生就业现状",
+      "onboard_time": 1706880274,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 632678,
       "num": 632678,
       "word": "杨波评论区",
       "onboard_time": 1706851833,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620160,
+      "num": 620160,
+      "word": "郭麒麟又亲爹了",
+      "onboard_time": 1706881713,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 614101,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 559933,
-      "num": 345770,
+      "num": 550895,
       "word": "在暴雪时分",
       "onboard_time": 1706879069,
       "rank": 15,
@@ -921,14 +961,6 @@
       "onboard_time": 1706839589,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363105,
-      "num": 286582,
-      "word": "刘国梁要求国乒自觉抵制饭圈文化",
-      "onboard_time": 1706880511,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 362995,
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258539,
+      "num": 318398,
+      "word": "店门口的结婚假条写满了路人祝福",
+      "onboard_time": 1706879374,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 254538,
       "num": 254538,
       "word": "2024央视网络春晚节目单官宣",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1706872470,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230247,
-      "num": 230247,
-      "word": "文科生就业现状",
-      "onboard_time": 1706880274,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 229623,
@@ -1555,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216029,
-      "num": 216029,
-      "word": "刘暖曦再审申请被法院驳回",
-      "onboard_time": 1706880274,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215104,
       "num": 215104,
       "word": "秦岚短发羊毛卷",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1706850214,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211392,
+      "num": 346590,
+      "word": "鞠婧祎一舞翩翩",
+      "onboard_time": 1706878953,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 210765,
@@ -1723,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198331,
-      "num": 346590,
-      "word": "鞠婧祎一舞翩翩",
-      "onboard_time": 1706878953,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197741,
       "num": 197741,
       "word": "夫妻各开一架飞机回家过年",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1706839767,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194800,
+      "num": 194800,
+      "word": "烟花",
+      "onboard_time": 1706882915,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194355,
@@ -1963,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "隆基绿能",
+      "onboard_time": 1706882492,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184171,
       "num": 124973,
       "word": "文俊辉金发出发图",
@@ -2163,6 +2203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169312,
+      "num": 169312,
+      "word": "没有人情味的公司",
+      "onboard_time": 1706881893,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168211,
       "num": 168211,
       "word": "药明康德快速跌停",
@@ -2307,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153046,
+      "num": 153046,
+      "word": "邓为小年自拍",
+      "onboard_time": 1706881893,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152685,
       "num": 152685,
       "word": "荷兰人有多抠",
@@ -2353,14 +2409,6 @@
       "onboard_time": 1706879069,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146959,
-      "num": 262332,
-      "word": "店门口的结婚假条写满了路人祝福",
-      "onboard_time": 1706879374,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 146635,
@@ -2433,6 +2481,22 @@
       "onboard_time": 1706846612,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "你长这么慢 我看不到你长大",
+      "onboard_time": 1706881775,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138560,
+      "num": 138560,
+      "word": "嗑到张凯毅张煜东了",
+      "onboard_time": 1706883033,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 137216,
@@ -2563,6 +2627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "JJ20排队",
+      "onboard_time": 1706881293,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126888,
       "num": 126888,
       "word": "肺癌成为全球新增病例数最多癌症",
@@ -2643,14 +2715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119044,
-      "num": 119044,
-      "word": "12306回应无座票去一等座",
-      "onboard_time": 1706880693,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117696,
       "num": 117696,
       "word": "陈虹伊clean",
@@ -2715,6 +2779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112662,
+      "num": 112662,
+      "word": "北控男篮八连胜",
+      "onboard_time": 1706883274,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112292,
       "num": 112292,
       "word": "湖人vs凯尔特人",
@@ -2729,6 +2801,14 @@
       "onboard_time": 1706825417,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110657,
+      "num": 110657,
+      "word": "老板给员工发小年礼物不忘员工父母",
+      "onboard_time": 1706881233,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110214,
@@ -3172,7 +3252,7 @@
     },
     {
       "raw_hot": 27691,
-      "num": 187206,
+      "num": 320107,
       "word": "给打工人报销回家的车票",
       "onboard_time": 1706880393,
       "rank": 35,
@@ -3187,19 +3267,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22418,
+      "num": 1090457,
+      "word": "2024网络视听盛典阵容官宣",
+      "onboard_time": 1706679395,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21530,
       "num": 410274,
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19866,
-      "num": 817699,
-      "word": "2024网络视听盛典阵容官宣",
-      "onboard_time": 1706679395,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

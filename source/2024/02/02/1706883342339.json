@@ -1,0 +1,410 @@
+{
+  "runTime": 1706883342339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123884,
+        "num": 1123884,
+        "word": "刘国梁要求国乒自觉抵制饭圈文化",
+        "onboard_time": 1706880511,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1106855,
+        "num": 1106855,
+        "word": "爱奇艺",
+        "onboard_time": 1706876372,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22418,
+        "num": 1090457,
+        "word": "2024网络视听盛典阵容官宣",
+        "onboard_time": 1706679395,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084838,
+        "num": 1084838,
+        "word": "投资人希望郑爽承担千万AI换脸费",
+        "onboard_time": 1706876190,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859994,
+        "num": 859994,
+        "word": "12306回应无座票去一等座",
+        "onboard_time": 1706880693,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241401,
+        "num": 802088,
+        "word": "老人去世前3小时突然清醒遗愿令人泪崩",
+        "onboard_time": 1706870130,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648669,
+        "num": 648669,
+        "word": "刘暖曦再审申请被法院驳回",
+        "onboard_time": 1706880274,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639998,
+        "num": 639998,
+        "word": "文科生就业现状",
+        "onboard_time": 1706880274,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627533,
+        "num": 627533,
+        "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
+        "onboard_time": 1706874030,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620160,
+        "num": 620160,
+        "word": "郭麒麟又亲爹了",
+        "onboard_time": 1706881713,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 874170,
+        "num": 590103,
+        "word": "叶府婚宴",
+        "onboard_time": 1706868690,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 718919,
+        "num": 581910,
+        "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+        "onboard_time": 1706867549,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550895,
+        "num": 550895,
+        "word": "在暴雪时分",
+        "onboard_time": 1706879069,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425211,
+        "num": 425211,
+        "word": "宋亚轩身体不适",
+        "onboard_time": 1706875833,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452299,
+        "num": 422320,
+        "word": "宋仲基弹手机vs吴磊抛火机",
+        "onboard_time": 1706877872,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348018,
+        "num": 348018,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335243,
+        "num": 335243,
+        "word": "被砸车当事人称警方已通报到此为止",
+        "onboard_time": 1706875833,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326014,
+        "num": 326014,
+        "word": "夏之光演技",
+        "onboard_time": 1706874692,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16885,
+        "num": 320107,
+        "word": "给打工人报销回家的车票",
+        "onboard_time": 1706880393,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54715,
+        "num": 318761,
+        "word": "过小年的仪式感",
+        "onboard_time": 1706861432,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258539,
+        "num": 318398,
+        "word": "店门口的结婚假条写满了路人祝福",
+        "onboard_time": 1706879374,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 318160,
+        "num": 318160,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308282,
+        "num": 308282,
+        "word": "他的性别生来就是老公",
+        "onboard_time": 1706872591,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269011,
+        "num": 269011,
+        "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+        "onboard_time": 1706868933,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 264191,
+        "num": 264191,
+        "word": "美甲翻车",
+        "onboard_time": 1706866532,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218193,
+        "num": 218193,
+        "word": "宋茜多巴胺写真",
+        "onboard_time": 1706879735,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211522,
+        "num": 211522,
+        "word": "菏泽一派出所协警铐走实习律师",
+        "onboard_time": 1706872111,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211392,
+        "num": 211392,
+        "word": "鞠婧祎一舞翩翩",
+        "onboard_time": 1706878953,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206214,
+        "num": 206214,
+        "word": "nanatour",
+        "onboard_time": 1706880094,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194800,
+        "num": 194800,
+        "word": "烟花",
+        "onboard_time": 1706882915,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205844,
+        "num": 194494,
+        "word": "皓衣行",
+        "onboard_time": 1706871452,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185541,
+        "num": 185541,
+        "word": "隆基绿能",
+        "onboard_time": 1706882492,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184152,
+        "num": 184152,
+        "word": "A股再跌可能会需要更多救市资金",
+        "onboard_time": 1706866291,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182446,
+        "num": 182446,
+        "word": "鞠婧祎雪中撑伞",
+        "onboard_time": 1706880812,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173885,
+        "num": 173885,
+        "word": "车银优边抽烟边落泪",
+        "onboard_time": 1706864432,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169312,
+        "num": 169312,
+        "word": "没有人情味的公司",
+        "onboard_time": 1706881893,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159451,
+        "num": 159451,
+        "word": "疑似奔驰方女乘客角度视频曝光",
+        "onboard_time": 1706862693,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156314,
+        "num": 156314,
+        "word": "德云社封箱",
+        "onboard_time": 1706880693,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153046,
+        "num": 153046,
+        "word": "邓为小年自拍",
+        "onboard_time": 1706881893,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148864,
+        "num": 148864,
+        "word": "宁波体校回应杨倩教练讨要奖金",
+        "onboard_time": 1706874274,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140762,
+        "num": 140762,
+        "word": "刘诗诗田曦薇撞衫",
+        "onboard_time": 1706867431,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139382,
+        "num": 139382,
+        "word": "你长这么慢 我看不到你长大",
+        "onboard_time": 1706881775,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138560,
+        "num": 138560,
+        "word": "嗑到张凯毅张煜东了",
+        "onboard_time": 1706883033,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138169,
+        "num": 138169,
+        "word": "烽火流金 可以抬一下吗",
+        "onboard_time": 1706875292,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131903,
+        "num": 131903,
+        "word": "王俊凯说有新歌",
+        "onboard_time": 1706879973,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 127736,
+        "word": "JJ20排队",
+        "onboard_time": 1706881293,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127561,
+        "num": 127561,
+        "word": "空调不制热",
+        "onboard_time": 1706879432,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112662,
+        "num": 112662,
+        "word": "北控男篮八连胜",
+        "onboard_time": 1706883274,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110657,
+        "num": 110657,
+        "word": "老板给员工发小年礼物不忘员工父母",
+        "onboard_time": 1706881233,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101612,
+        "num": 101612,
+        "word": "AG对战VG",
+        "onboard_time": 1706879069,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
