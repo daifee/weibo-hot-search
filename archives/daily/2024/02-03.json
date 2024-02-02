@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706895227001,
+  "endTime": 1706898130118,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -129,6 +129,14 @@
       "onboard_time": 1706881713,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239088,
+      "num": 239088,
+      "word": "kpop审美",
+      "onboard_time": 1706895142,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228468,
@@ -307,11 +315,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113805,
-      "num": 113805,
-      "word": "kpop审美",
-      "onboard_time": 1706895142,
-      "rank": 21,
+      "raw_hot": 123174,
+      "num": 118202,
+      "word": "王珞丹同一件礼服12年前后对比",
+      "onboard_time": 1706895861,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -321,6 +329,14 @@
       "onboard_time": 1706888012,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111527,
+      "num": 71953,
+      "word": "郑爽仍有3856万赔付款未履行",
+      "onboard_time": 1706897301,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 111297,
@@ -451,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42022,
+      "num": 42022,
+      "word": "19层结局",
+      "onboard_time": 1706896341,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14931,
       "num": 553252,
       "word": "2024网络视听盛典阵容官宣",
@@ -465,6 +489,9 @@
     },
     {
       "word": "#习近平在天津考察调研#"
+    },
+    {
+      "word": "#习主席向全国各族人民拜年#"
     }
   ]
 }
