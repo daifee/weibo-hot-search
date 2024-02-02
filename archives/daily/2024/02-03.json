@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706909657662,
+  "endTime": 1706912144468,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -419,8 +419,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83259,
-      "num": 83259,
+      "raw_hot": 83639,
+      "num": 83639,
       "word": "高铁晚点",
       "onboard_time": 1706899998,
       "rank": 19,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51256,
+      "num": 51256,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42022,
       "num": 42022,
       "word": "19层结局",
@@ -508,19 +516,19 @@
     },
     {
       "raw_hot": 36614,
-      "num": 24201,
+      "num": 27035,
       "word": "花花被扇倒索性直接躺下",
       "onboard_time": 1706905096,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34792,
-      "num": 33061,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 28625,
+      "num": 28625,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 28397,
@@ -531,19 +539,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 23459,
-      "num": 23459,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23414,
       "num": 21104,
       "word": "江西家宴",
       "onboard_time": 1706904137,
       "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 22429,
+      "num": 22429,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
       "category": "美食"
     },
     {
@@ -563,12 +571,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 16251,
-      "num": 16251,
-      "word": "干炒牛河是粤菜师傅功底的试金石",
-      "onboard_time": 1706908096,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 15817,
+      "num": 15262,
+      "word": "宋亚轩躲C位",
+      "onboard_time": 1706907257,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 14931,
@@ -595,12 +603,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13380,
-      "num": 15006,
-      "word": "宋亚轩躲C位",
-      "onboard_time": 1706907257,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 12187,
+      "num": 15239,
+      "word": "雪地里来了猪咪画家",
+      "onboard_time": 1706911096,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

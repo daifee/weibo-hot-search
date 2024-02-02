@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706909657662,
+  "endTime": 1706912144468,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -16707,6 +16707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83639,
+      "num": 83639,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83611,
       "num": 83611,
       "word": "堆雪人界也进化到考研了",
@@ -16729,14 +16737,6 @@
       "onboard_time": 1706456731,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83259,
-      "num": 83259,
-      "word": "高铁晚点",
-      "onboard_time": 1706899998,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83054,
@@ -17163,6 +17163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51256,
+      "num": 51256,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51231,
       "num": 166455,
       "word": "AppStore陪你过新春",
@@ -17420,7 +17428,7 @@
     },
     {
       "raw_hot": 36614,
-      "num": 24201,
+      "num": 27035,
       "word": "花花被扇倒索性直接躺下",
       "onboard_time": 1706905096,
       "rank": 24,
@@ -17457,14 +17465,6 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34792,
-      "num": 33061,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 34313,
@@ -17579,6 +17579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28625,
+      "num": 28625,
+      "word": "过年红包掏空了年迈父亲一年的收入",
+      "onboard_time": 1706904018,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28397,
       "num": 28397,
       "word": "肖战GQ文字采访",
@@ -17627,14 +17635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23459,
-      "num": 23459,
-      "word": "过年红包掏空了年迈父亲一年的收入",
-      "onboard_time": 1706904018,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23414,
       "num": 21104,
       "word": "江西家宴",
@@ -17649,6 +17649,14 @@
       "onboard_time": 1706639058,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22429,
+      "num": 22429,
+      "word": "干炒牛河是粤菜师傅功底的试金石",
+      "onboard_time": 1706908096,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 22239,
@@ -17755,20 +17763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16251,
-      "num": 16251,
-      "word": "干炒牛河是粤菜师傅功底的试金石",
-      "onboard_time": 1706908096,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 16163,
       "num": 17713,
       "word": "热辣滚烫预售开启",
       "onboard_time": 1706727676,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15817,
+      "num": 15262,
+      "word": "宋亚轩躲C位",
+      "onboard_time": 1706907257,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 15783,
@@ -17851,20 +17859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13380,
-      "num": 15006,
-      "word": "宋亚轩躲C位",
-      "onboard_time": 1706907257,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 12551,
       "num": 15081,
       "word": "如何看我妈是董明珠节目争议",
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12187,
+      "num": 15239,
+      "word": "雪地里来了猪咪画家",
+      "onboard_time": 1706911096,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 11855,
