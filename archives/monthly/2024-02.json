@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706869103310,
+  "endTime": 1706870037177,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1518122,
+      "num": 1518122,
+      "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+      "onboard_time": 1706867549,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1515306,
       "num": 1515306,
       "word": "官方通报女干部被曝不雅聊天",
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1085397,
-      "num": 1085397,
-      "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
-      "onboard_time": 1706867549,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1077455,
       "num": 1077455,
       "word": "车银优边抽烟边落泪",
@@ -529,6 +529,14 @@
       "onboard_time": 1706841270,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857061,
+      "num": 857061,
+      "word": "叶府婚宴",
+      "onboard_time": 1706868690,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 853226,
@@ -883,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614101,
+      "num": 714772,
+      "word": "A股再跌可能会需要更多救市资金",
+      "onboard_time": 1706866291,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 605235,
       "num": 605235,
       "word": "A股",
@@ -897,14 +913,6 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 602558,
-      "num": 602558,
-      "word": "A股再跌可能会需要更多救市资金",
-      "onboard_time": 1706866291,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 595157,
@@ -1355,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431777,
+      "num": 431777,
+      "word": "杜飞 你的嘴巴没死",
+      "onboard_time": 1706866113,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429716,
       "num": 429716,
       "word": "奔驰车加塞事件",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1706847513,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409540,
+      "num": 409540,
+      "word": "奇瑞",
+      "onboard_time": 1706865332,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408642,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1706710354,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 379207,
-      "num": 379207,
-      "word": "奇瑞",
-      "onboard_time": 1706865332,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378939,
@@ -1723,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343845,
-      "num": 343845,
-      "word": "杜飞 你的嘴巴没死",
-      "onboard_time": 1706866113,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 342637,
       "num": 342637,
       "word": "中石油原董事长王宜林被查",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1706772087,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321873,
+      "num": 222627,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1706868751,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 319851,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1706854652,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286634,
+      "num": 286634,
+      "word": "逆水寒红包封面",
+      "onboard_time": 1706868811,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 284913,
@@ -2411,6 +2435,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 241235,
+      "num": 241235,
+      "word": "繁花里唯一和胡歌有吻戏的人",
+      "onboard_time": 1706869052,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237693,
+      "num": 237693,
+      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+      "onboard_time": 1706868933,
+      "rank": 25,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 237625,
       "num": 237625,
       "word": "被自己穷笑啦",
@@ -2531,14 +2571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 226548,
-      "num": 222627,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1706868751,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -2587,14 +2619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224472,
-      "num": 224472,
-      "word": "叶府婚宴",
-      "onboard_time": 1706868690,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224379,
       "num": 208615,
       "word": "章昊唱屋顶着火",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 223153,
+      "num": 1091893,
+      "word": "排队5个小时都要带走的广式年货",
+      "onboard_time": 1706868214,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 222566,
@@ -3019,14 +3051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193495,
-      "num": 193495,
-      "word": "逆水寒红包封面",
-      "onboard_time": 1706868811,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193202,
       "num": 193202,
       "word": "王亚飞",
@@ -3065,6 +3089,14 @@
       "onboard_time": 1706847211,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192455,
+      "num": 192455,
+      "word": "吴磊赵今麦 做饭高手",
+      "onboard_time": 1706869290,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191967,
@@ -3571,6 +3603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173117,
+      "num": 173117,
+      "word": "朱易 四大洲锦标赛",
+      "onboard_time": 1706869410,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172637,
       "num": 171453,
       "word": "西安一美甲店年前每日等位近300人",
@@ -3651,6 +3691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 169403,
+      "num": 169403,
+      "word": "恋与深空 黎医生",
+      "onboard_time": 1706867732,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168422,
       "num": 168422,
       "word": "完美世界",
@@ -3665,14 +3713,6 @@
       "onboard_time": 1706853153,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 167206,
-      "num": 167206,
-      "word": "恋与深空 黎医生",
-      "onboard_time": 1706867732,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 167143,
@@ -3699,12 +3739,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166778,
+      "num": 166778,
+      "word": "客厅打羽毛球",
+      "onboard_time": 1706869473,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166650,
       "num": 166650,
       "word": "崩坏3第二部",
       "onboard_time": 1706759731,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166116,
+      "num": 166116,
+      "word": "EVNNE音银一位",
+      "onboard_time": 1706869832,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 165745,
@@ -3737,6 +3793,14 @@
       "onboard_time": 1706742740,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163913,
+      "num": 163913,
+      "word": "感觉我现在强得可怕",
+      "onboard_time": 1706866890,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 163815,
@@ -3865,14 +3929,6 @@
       "onboard_time": 1706745566,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158288,
-      "num": 158288,
-      "word": "感觉我现在强得可怕",
-      "onboard_time": 1706866890,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 158008,
@@ -4225,14 +4281,6 @@
       "onboard_time": 1706761173,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141505,
-      "num": 141505,
-      "word": "繁花里唯一和胡歌有吻戏的人",
-      "onboard_time": 1706869052,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 141060,
@@ -4609,6 +4657,14 @@
       "onboard_time": 1706781934,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128537,
+      "num": 128537,
+      "word": "做到这些射手座离不开你",
+      "onboard_time": 1706870012,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128472,
@@ -5003,6 +5059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100611,
+      "num": 879033,
+      "word": "被妈妈一句回来就是最好的礼物破防了",
+      "onboard_time": 1706869531,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99803,
       "num": 118206,
       "word": "180秒看懂AI发展到什么程度了",
@@ -5139,14 +5203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81819,
-      "num": 1091893,
-      "word": "排队5个小时都要带走的广式年货",
-      "onboard_time": 1706868214,
-      "rank": 1,
-      "category": "美食"
-    },
-    {
       "raw_hot": 81780,
       "num": 81780,
       "word": "EDG人员变动公告",
@@ -5233,6 +5289,14 @@
       "onboard_time": 1706803050,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55763,
+      "num": 1081420,
+      "word": "探月工程四期中继星运抵海南文昌",
+      "onboard_time": 1706868453,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55713,
@@ -5355,14 +5419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38979,
-      "num": 1081420,
-      "word": "探月工程四期中继星运抵海南文昌",
-      "onboard_time": 1706868453,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35863,
       "num": 176012,
       "word": "京东春晚再加奢华家电",
@@ -5451,7 +5507,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20544,
+      "raw_hot": 21137,
       "num": 256385,
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,

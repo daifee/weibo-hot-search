@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706869103310,
+  "endTime": 1706870037177,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -547,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1518122,
+      "num": 1518122,
+      "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
+      "onboard_time": 1706867549,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1515306,
       "num": 1515306,
       "word": "官方通报女干部被曝不雅聊天",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1706519069,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1085397,
-      "num": 1085397,
-      "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
-      "onboard_time": 1706867549,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1077455,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1706841270,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857061,
+      "num": 857061,
+      "word": "叶府婚宴",
+      "onboard_time": 1706868690,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 855314,
@@ -2651,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614101,
+      "num": 714772,
+      "word": "A股再跌可能会需要更多救市资金",
+      "onboard_time": 1706866291,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 611119,
       "num": 611119,
       "word": "专家称猫打不过猴只能服从",
@@ -2721,14 +2737,6 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 602558,
-      "num": 602558,
-      "word": "A股再跌可能会需要更多救市资金",
-      "onboard_time": 1706866291,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 599600,
@@ -4083,6 +4091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431777,
+      "num": 431777,
+      "word": "杜飞 你的嘴巴没死",
+      "onboard_time": 1706866113,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 430722,
       "num": 1003141,
       "word": "美方对中国留学生渗透拉拢毫无底线",
@@ -4321,6 +4337,14 @@
       "onboard_time": 1706495849,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 409540,
+      "num": 409540,
+      "word": "奇瑞",
+      "onboard_time": 1706865332,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408709,
@@ -4753,14 +4777,6 @@
       "onboard_time": 1706491587,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 379207,
-      "num": 379207,
-      "word": "奇瑞",
-      "onboard_time": 1706865332,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378867,
@@ -5267,14 +5283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343845,
-      "num": 343845,
-      "word": "杜飞 你的嘴巴没死",
-      "onboard_time": 1706866113,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 342752,
       "num": 280381,
       "word": "在火车上发疯之后全车厢都安静了",
@@ -5553,6 +5561,14 @@
       "onboard_time": 1706672252,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 321873,
+      "num": 222627,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1706868751,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 321323,
@@ -6249,6 +6265,14 @@
       "onboard_time": 1706605294,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 286634,
+      "num": 286634,
+      "word": "逆水寒红包封面",
+      "onboard_time": 1706868811,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 286157,
@@ -7123,6 +7147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 241235,
+      "num": 241235,
+      "word": "繁花里唯一和胡歌有吻戏的人",
+      "onboard_time": 1706869052,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240114,
       "num": 240114,
       "word": "古茗携手天官赐福",
@@ -7169,6 +7201,14 @@
       "onboard_time": 1706610992,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237693,
+      "num": 237693,
+      "word": "13岁少年遭霸凌脑死亡捐器官救7人",
+      "onboard_time": 1706868933,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 237625,
@@ -7499,14 +7539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226548,
-      "num": 222627,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1706868751,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -7579,14 +7611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224472,
-      "num": 224472,
-      "word": "叶府婚宴",
-      "onboard_time": 1706868690,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224417,
       "num": 224417,
       "word": "NANA联名婚纱",
@@ -7633,6 +7657,14 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 223153,
+      "num": 1091893,
+      "word": "排队5个小时都要带走的广式年货",
+      "onboard_time": 1706868214,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 223066,
@@ -9099,14 +9131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 193495,
-      "num": 193495,
-      "word": "逆水寒红包封面",
-      "onboard_time": 1706868811,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193465,
       "num": 193465,
       "word": "6岁娃羡慕美甲体验2天后崩溃大哭",
@@ -9161,6 +9185,14 @@
       "onboard_time": 1706847211,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192455,
+      "num": 192455,
+      "word": "吴磊赵今麦 做饭高手",
+      "onboard_time": 1706869290,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 192162,
@@ -10251,6 +10283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173117,
+      "num": 173117,
+      "word": "朱易 四大洲锦标赛",
+      "onboard_time": 1706869410,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173018,
       "num": 173018,
       "word": "驾校教练本科竟然是学法学的",
@@ -10427,6 +10467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 169403,
+      "num": 169403,
+      "word": "恋与深空 黎医生",
+      "onboard_time": 1706867732,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168422,
       "num": 168422,
       "word": "完美世界",
@@ -10475,14 +10523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167206,
-      "num": 167206,
-      "word": "恋与深空 黎医生",
-      "onboard_time": 1706867732,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167198,
       "num": 144163,
       "word": "杨晓培 梦海好事成双是爆剧",
@@ -10515,6 +10555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166778,
+      "num": 166778,
+      "word": "客厅打羽毛球",
+      "onboard_time": 1706869473,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166745,
       "num": 166745,
       "word": "胡锡进将减少针对股市发言",
@@ -10545,6 +10593,14 @@
       "onboard_time": 1706426968,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166116,
+      "num": 166116,
+      "word": "EVNNE音银一位",
+      "onboard_time": 1706869832,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 165951,
@@ -10665,6 +10721,14 @@
       "onboard_time": 1706407648,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 163913,
+      "num": 163913,
+      "word": "感觉我现在强得可怕",
+      "onboard_time": 1706866890,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 163815,
@@ -10977,14 +11041,6 @@
       "onboard_time": 1706745566,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158288,
-      "num": 158288,
-      "word": "感觉我现在强得可怕",
-      "onboard_time": 1706866890,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 158008,
@@ -12131,14 +12187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141505,
-      "num": 141505,
-      "word": "繁花里唯一和胡歌有吻戏的人",
-      "onboard_time": 1706869052,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141422,
       "num": 141422,
       "word": "咳嗽持续多少天会变白肺",
@@ -13257,6 +13305,14 @@
       "onboard_time": 1706454993,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128537,
+      "num": 128537,
+      "word": "做到这些射手座离不开你",
+      "onboard_time": 1706870012,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128508,
@@ -15123,6 +15179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100611,
+      "num": 879033,
+      "word": "被妈妈一句回来就是最好的礼物破防了",
+      "onboard_time": 1706869531,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100575,
       "num": 100575,
       "word": "上班后第一份工资",
@@ -15739,14 +15803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81819,
-      "num": 1091893,
-      "word": "排队5个小时都要带走的广式年货",
-      "onboard_time": 1706868214,
-      "rank": 1,
-      "category": "美食"
-    },
-    {
       "raw_hot": 80990,
       "num": 80990,
       "word": "妹妹8科成绩66分当事人否认炒作",
@@ -16001,6 +16057,14 @@
       "onboard_time": 1706637440,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55763,
+      "num": 1081420,
+      "word": "探月工程四期中继星运抵海南文昌",
+      "onboard_time": 1706868453,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55713,
@@ -16315,14 +16379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38979,
-      "num": 1081420,
-      "word": "探月工程四期中继星运抵海南文昌",
-      "onboard_time": 1706868453,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38717,
       "num": 38717,
       "word": "虞书欣片场钓鱼",
@@ -16547,7 +16603,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20544,
+      "raw_hot": 21137,
       "num": 256385,
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,
