@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706859229668,
+  "endTime": 1706862066610,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1639551,
+      "num": 1075496,
+      "word": "郑爽绝密者服务费1.2亿",
+      "onboard_time": 1706858192,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1604983,
       "num": 1604983,
       "word": "补水 智商税",
@@ -113,6 +121,14 @@
       "onboard_time": 1706830106,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1443951,
+      "num": 1443951,
+      "word": "郑爽家人曾赔偿二手劳斯莱斯",
+      "onboard_time": 1706858915,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1309301,
@@ -153,14 +169,6 @@
       "onboard_time": 1706838689,
       "rank": 12,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1075496,
-      "num": 1075496,
-      "word": "郑爽绝密者服务费1.2亿",
-      "onboard_time": 1706858192,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1047176,
@@ -235,6 +243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 922752,
+      "num": 922752,
+      "word": "杨波 大学当了四年海王",
+      "onboard_time": 1706858251,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 887130,
       "num": 887130,
       "word": "上交所 外卖",
@@ -291,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 724506,
+      "num": 325239,
+      "word": "郑爽曾片场消失一礼拜",
+      "onboard_time": 1706859393,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704400,
       "num": 704400,
       "word": "聊天记录占超75%微信内存",
@@ -305,6 +329,14 @@
       "onboard_time": 1706831185,
       "rank": 6,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 677884,
+      "num": 677884,
+      "word": "张凯毅回应被张煜东表白",
+      "onboard_time": 1706858851,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 649809,
@@ -435,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494267,
+      "num": 321941,
+      "word": "少爷和我定档",
+      "onboard_time": 1706859515,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480669,
       "num": 480669,
       "word": "春晚节目单",
@@ -459,6 +499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 459065,
+      "num": 330881,
+      "word": "录娶通知书",
+      "onboard_time": 1706859575,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 452237,
       "num": 425210,
       "word": "11万股民跌停板上凌乱了",
@@ -473,6 +521,14 @@
       "onboard_time": 1706778871,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442126,
+      "num": 321793,
+      "word": "肖战想挤地铁逛商场",
+      "onboard_time": 1706859155,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 441204,
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406848,
+      "num": 406848,
+      "word": "证监会",
+      "onboard_time": 1706858308,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 404179,
       "num": 404179,
       "word": "迪丽热巴成都",
@@ -577,14 +641,6 @@
       "onboard_time": 1706848353,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 368924,
-      "num": 368924,
-      "word": "郑爽家人曾赔偿二手劳斯莱斯",
-      "onboard_time": 1706858915,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 365513,
@@ -651,14 +707,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 347012,
-      "num": 347012,
-      "word": "杨波 大学当了四年海王",
-      "onboard_time": 1706858251,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 339906,
       "num": 339906,
       "word": "百里屠苏好久不见",
@@ -723,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317632,
+      "num": 317632,
+      "word": "做一次CT对人体的伤害有多大",
+      "onboard_time": 1706858673,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -755,14 +811,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 294721,
-      "num": 294721,
-      "word": "证监会",
-      "onboard_time": 1706858308,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 292021,
       "num": 292021,
       "word": "艾滋病为何老龄化",
@@ -777,14 +825,6 @@
       "onboard_time": 1706823555,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291838,
-      "num": 291838,
-      "word": "张凯毅回应被张煜东表白",
-      "onboard_time": 1706858851,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 289796,
@@ -899,6 +939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261323,
+      "num": 233706,
+      "word": "胡歌 瑞金医院表彰大会",
+      "onboard_time": 1706858791,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257832,
+      "num": 175996,
+      "word": "迪丽热巴红色刺绣吊带裙",
+      "onboard_time": 1706860355,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254538,
       "num": 254538,
       "word": "2024央视网络春晚节目单官宣",
@@ -953,14 +1009,6 @@
       "onboard_time": 1706793154,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233706,
-      "num": 233706,
-      "word": "胡歌 瑞金医院表彰大会",
-      "onboard_time": 1706858791,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 229623,
@@ -1027,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220627,
+      "num": 163258,
+      "word": "杨紫接拍要久久爱 勇敢",
+      "onboard_time": 1706860593,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219590,
       "num": 219590,
       "word": "世界之外体力",
@@ -1067,12 +1123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210765,
+      "num": 156502,
+      "word": "朱正廷舞台中式恐怖",
+      "onboard_time": 1706861252,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208239,
       "num": 208239,
       "word": "成毅李一桐对代拍抱拳鞠躬",
       "onboard_time": 1706848773,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208146,
+      "num": 154752,
+      "word": "谁给吴磊画的眉毛",
+      "onboard_time": 1706861012,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205832,
@@ -1097,14 +1169,6 @@
       "onboard_time": 1706858495,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 201147,
-      "num": 201147,
-      "word": "肖战想挤地铁逛商场",
-      "onboard_time": 1706859155,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200814,
@@ -1203,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191967,
+      "num": 154315,
+      "word": "肖战选剧本的标准",
+      "onboard_time": 1706861554,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191796,
       "num": 187784,
       "word": "刘冲晒肖战封面",
@@ -1211,12 +1283,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191732,
+      "num": 191732,
+      "word": "梅西抵达香港",
+      "onboard_time": 1706860893,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190825,
       "num": 190825,
       "word": "哇唧唧哇年会",
       "onboard_time": 1706792793,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190127,
+      "num": 190127,
+      "word": "A股超200股跌停",
+      "onboard_time": 1706859090,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 189501,
@@ -1297,14 +1385,6 @@
       "onboard_time": 1706849556,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179882,
-      "num": 179882,
-      "word": "A股超200股跌停",
-      "onboard_time": 1706859090,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 177605,
@@ -1427,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152344,
+      "num": 152344,
+      "word": "原来狗上班也会崩溃",
+      "onboard_time": 1706861374,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152178,
       "num": 125460,
       "word": "我妈说过年回去随便穿穿",
@@ -1449,14 +1537,6 @@
       "onboard_time": 1706842228,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147598,
-      "num": 147598,
-      "word": "做一次CT对人体的伤害有多大",
-      "onboard_time": 1706858673,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146635,
@@ -1483,12 +1563,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144967,
+      "num": 139289,
+      "word": "杨紫国色芳华新妆",
+      "onboard_time": 1706862031,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142809,
       "num": 142809,
       "word": "女生真的有自己的洗头规划",
       "onboard_time": 1706794954,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141877,
+      "num": 141877,
+      "word": "EDGM零封TES",
+      "onboard_time": 1706861194,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 141060,
@@ -1513,6 +1609,14 @@
       "onboard_time": 1706846612,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139219,
+      "num": 139219,
+      "word": "被男子砸车女子回应司机问题",
+      "onboard_time": 1706861675,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137216,
@@ -1657,6 +1761,14 @@
       "onboard_time": 1706789191,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121217,
+      "num": 121217,
+      "word": "灰太狼身世",
+      "onboard_time": 1706861974,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 120261,
@@ -2019,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39617,
+      "num": 125232,
+      "word": "AppStore陪你过新春",
+      "onboard_time": 1706861732,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
@@ -2057,6 +2177,14 @@
       "onboard_time": 1706788110,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27928,
+      "num": 764072,
+      "word": "6组数据领略湿地之美",
+      "onboard_time": 1706861612,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24021,
