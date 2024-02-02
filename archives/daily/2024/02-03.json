@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706891671867,
+  "endTime": 1706894259214,
   "band_list": [
     {
       "raw_hot": 723365,
@@ -251,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136540,
+      "num": 154864,
+      "word": "中国香港队退出电竞版足球亚洲杯",
+      "onboard_time": 1706890107,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134288,
       "num": 134288,
       "word": "宋仲基弹手机vs吴磊抛火机",
@@ -273,14 +281,6 @@
       "onboard_time": 1706872591,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132895,
-      "num": 154864,
-      "word": "中国香港队退出电竞版足球亚洲杯",
-      "onboard_time": 1706890107,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 129394,
@@ -401,6 +401,14 @@
       "onboard_time": 1706870911,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 75732,
+      "num": 75732,
+      "word": "集卡集到真龙了",
+      "onboard_time": 1706892387,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 67568,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706891671867,
+  "endTime": 1706894259214,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -5091,6 +5091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136540,
+      "num": 154864,
+      "word": "中国香港队退出电竞版足球亚洲杯",
+      "onboard_time": 1706890107,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136386,
       "num": 136386,
       "word": "宋轶花房公主妆",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1706769871,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132895,
-      "num": 154864,
-      "word": "中国香港队退出电竞版足球亚洲杯",
-      "onboard_time": 1706890107,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 132810,
@@ -6153,6 +6153,14 @@
       "onboard_time": 1706756428,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 75732,
+      "num": 75732,
+      "word": "集卡集到真龙了",
+      "onboard_time": 1706892387,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 74413,
