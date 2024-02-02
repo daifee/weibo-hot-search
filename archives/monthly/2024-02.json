@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706840530053,
+  "endTime": 1706841223038,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1375966,
+      "num": 1375966,
+      "word": "杨波回应",
+      "onboard_time": 1706840189,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1367335,
       "num": 1073272,
       "word": "胡歌与老婆出门购物",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1243379,
-      "num": 550352,
+      "num": 599741,
       "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
       "onboard_time": 1706830106,
       "rank": 16,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959536,
+      "num": 959536,
+      "word": "杨波",
+      "onboard_time": 1706834971,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 944815,
       "num": 944815,
       "word": "女子直播被指虐猫后直接放嘴里咬",
@@ -289,14 +305,6 @@
       "onboard_time": 1706795611,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 887186,
-      "num": 887186,
-      "word": "杨波",
-      "onboard_time": 1706834971,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 862870,
@@ -347,6 +355,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 801315,
+      "num": 801315,
+      "word": "频繁做美甲会导致手变黑",
+      "onboard_time": 1706838689,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 795278,
       "num": 631121,
       "word": "微博崩了",
@@ -385,14 +401,6 @@
       "onboard_time": 1706779710,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736976,
-      "num": 736976,
-      "word": "频繁做美甲会导致手变黑",
-      "onboard_time": 1706838689,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 734417,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626331,
+      "num": 626331,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620968,
       "num": 620968,
       "word": "江歌妈妈谈重庆姐弟坠亡案",
@@ -577,6 +593,14 @@
       "onboard_time": 1706792793,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604108,
+      "num": 604108,
+      "word": "花少5豆瓣评分破9了",
+      "onboard_time": 1706838391,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 595157,
@@ -609,14 +633,6 @@
       "onboard_time": 1706792313,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 576982,
-      "num": 547416,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575455,
@@ -667,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556902,
-      "num": 556902,
-      "word": "杨波回应",
-      "onboard_time": 1706840189,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 554540,
       "num": 438547,
       "word": "张艺谋说听障人士角色是赵丽颖的提议",
@@ -683,20 +691,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 554361,
+      "num": 554361,
+      "word": "人民日报评奔驰车男子打砸引擎盖事件",
+      "onboard_time": 1706838810,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552246,
       "num": 455315,
       "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
       "onboard_time": 1706793092,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545569,
-      "num": 545569,
-      "word": "花少5豆瓣评分破9了",
-      "onboard_time": 1706838391,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 544322,
@@ -803,6 +811,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 488304,
+      "num": 488304,
+      "word": "男子杀人逃亡19年得知杀错人",
+      "onboard_time": 1706839709,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487357,
       "num": 487357,
       "word": "CCTV6大年初一首播长空之王",
@@ -865,14 +881,6 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 466506,
-      "num": 466506,
-      "word": "人民日报评奔驰车男子打砸引擎盖事件",
-      "onboard_time": 1706838810,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458759,
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343643,
+      "num": 343643,
+      "word": "五问上海禁止网约车在浦东机场运营",
+      "onboard_time": 1706839589,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339482,
       "num": 234911,
       "word": "内裤穿多久扔掉最合适",
@@ -1443,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288263,
+      "num": 288263,
+      "word": "南来北往定档",
+      "onboard_time": 1706840788,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -1491,14 +1515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275902,
-      "num": 275902,
-      "word": "五问上海禁止网约车在浦东机场运营",
-      "onboard_time": 1706839589,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275847,
       "num": 275847,
       "word": "赵露思刘宇宁同框路透",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1706832688,
       "rank": 17,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 272812,
+      "num": 272812,
+      "word": "智族GQ肖战梦境大片",
+      "onboard_time": 1706840486,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 272014,
@@ -1608,14 +1632,6 @@
       "word": "男子弄丢3铁片险损失2千万",
       "onboard_time": 1706757089,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250838,
-      "num": 250838,
-      "word": "男子杀人逃亡19年得知杀错人",
-      "onboard_time": 1706839709,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2643,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159105,
+      "num": 159105,
+      "word": "减到什么程度才算减肥成功",
+      "onboard_time": 1706838508,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158813,
       "num": 158813,
       "word": "钎九",
@@ -2755,6 +2779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 153345,
+      "num": 153345,
+      "word": "小女孩问啥都说没啥记者慌了",
+      "onboard_time": 1706840310,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153154,
       "num": 153154,
       "word": "堵车时第一辆车在干嘛",
@@ -2849,14 +2881,6 @@
       "onboard_time": 1706761414,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147843,
-      "num": 147843,
-      "word": "减到什么程度才算减肥成功",
-      "onboard_time": 1706838508,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 147839,
@@ -3259,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129311,
+      "num": 129311,
+      "word": "许嵩演唱在暴雪时分片头曲",
+      "onboard_time": 1706841151,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129194,
       "num": 129194,
       "word": "小落的姬小满",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1706772870,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126725,
+      "num": 126725,
+      "word": "一只鸽子在印度被当成中国间谍",
+      "onboard_time": 1706840909,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126559,
@@ -3299,20 +3339,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126159,
-      "num": 126159,
-      "word": "智族GQ肖战梦境大片",
-      "onboard_time": 1706840486,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 125520,
       "num": 125520,
       "word": "美国金融大鳄回应比亚迪超特斯拉",
       "onboard_time": 1706755769,
       "rank": 46,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "虞书欣许凯直播 美颜",
+      "onboard_time": 1706840550,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124900,
@@ -3515,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112132,
+      "num": 112132,
+      "word": "荷兰人有多抠",
+      "onboard_time": 1706840486,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -3595,14 +3643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105616,
-      "num": 105616,
-      "word": "小女孩问啥都说没啥记者慌了",
-      "onboard_time": 1706840310,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105416,
       "num": 105416,
       "word": "浙江香炉峰雨后日照云海生紫烟",
@@ -3635,6 +3675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98358,
+      "num": 98358,
+      "word": "酒店回应田朴珺吐槽卫生差",
+      "onboard_time": 1706841211,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97736,
       "num": 97736,
       "word": "鹿emoji",
@@ -3665,6 +3713,14 @@
       "onboard_time": 1706771191,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96802,
+      "num": 96802,
+      "word": "300万女性住在卡车上",
+      "onboard_time": 1706841211,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 95643,
@@ -3713,14 +3769,6 @@
       "onboard_time": 1706697569,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91164,
-      "num": 91164,
-      "word": "荷兰人有多抠",
-      "onboard_time": 1706840486,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 86388,
