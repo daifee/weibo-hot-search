@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706862845297,
+  "endTime": 1706865477337,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1520355,
+      "num": 1520355,
+      "word": "疑似奔驰方女乘客角度视频曝光",
+      "onboard_time": 1706862693,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1447153,
       "num": 1447153,
       "word": "美方承认几十年来改变中国的努力都没有成功",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 964519,
-      "num": 577114,
+      "num": 745409,
       "word": "郑爽境内外资产单一项就超过2.3亿",
       "onboard_time": 1706858071,
       "rank": 41,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615582,
+      "num": 615582,
+      "word": "车银优边抽烟边落泪",
+      "onboard_time": 1706864432,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605235,
       "num": 605235,
       "word": "A股",
@@ -385,6 +401,14 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592704,
+      "num": 592704,
+      "word": "肖战想挤地铁逛商场",
+      "onboard_time": 1706859155,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 587007,
@@ -531,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442126,
-      "num": 433954,
-      "word": "肖战想挤地铁逛商场",
-      "onboard_time": 1706859155,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 441204,
       "num": 441204,
       "word": "张庭 我都没去过这个楼盘",
@@ -577,6 +593,14 @@
       "onboard_time": 1706841151,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421286,
+      "num": 421286,
+      "word": "中山二院为何迟迟不公布调查结果",
+      "onboard_time": 1706862333,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413364,
@@ -675,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359768,
+      "num": 328659,
+      "word": "我做鬼也不会放过你",
+      "onboard_time": 1706863532,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356261,
       "num": 356261,
       "word": "高铁算是把用户需求整明白了",
@@ -713,6 +745,14 @@
       "onboard_time": 1706786671,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 342637,
+      "num": 342637,
+      "word": "中石油原董事长王宜林被查",
+      "onboard_time": 1706862212,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339906,
@@ -779,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312530,
+      "num": 312530,
+      "word": "年终奖",
+      "onboard_time": 1706864614,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
       "onboard_time": 1706855188,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306395,
+      "num": 210543,
+      "word": "异人之下2官宣",
+      "onboard_time": 1706864614,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 302918,
@@ -824,14 +880,6 @@
       "word": "这是今天的杭州东站",
       "onboard_time": 1706823555,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289849,
-      "num": 289849,
-      "word": "中石油原董事长王宜林被查",
-      "onboard_time": 1706862212,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -892,7 +940,7 @@
     },
     {
       "raw_hot": 275972,
-      "num": 182796,
+      "num": 199337,
       "word": "杨紫国色芳华新妆",
       "onboard_time": 1706862031,
       "rank": 43,
@@ -1035,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225964,
+      "num": 188706,
+      "word": "在暴雪时分SVIP",
+      "onboard_time": 1706864912,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -1147,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210888,
+      "num": 210888,
+      "word": "宁波体育局",
+      "onboard_time": 1706864373,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210765,
       "num": 156502,
       "word": "朱正廷舞台中式恐怖",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1706834014,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198885,
+      "num": 174984,
+      "word": "脱口秀阎王",
+      "onboard_time": 1706864852,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 198789,
@@ -1323,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190373,
+      "num": 190373,
+      "word": "外交部感谢CIA局长提醒",
+      "onboard_time": 1706864614,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190127,
       "num": 190127,
       "word": "A股超200股跌停",
@@ -1403,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182306,
+      "num": 139002,
+      "word": "朱一龙分享自己的过年仪式感",
+      "onboard_time": 1706865214,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180665,
       "num": 180665,
       "word": "鱿鱼游戏2第一眼预告",
@@ -1443,6 +1531,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 176031,
+      "num": 176031,
+      "word": "小米或退出印度笔记本市场",
+      "onboard_time": 1706864432,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174843,
       "num": 174843,
       "word": "库里入选西部全明星替补名单",
@@ -1475,12 +1571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173625,
-      "num": 173625,
-      "word": "中山二院为何迟迟不公布调查结果",
-      "onboard_time": 1706862333,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 172211,
+      "num": 136579,
+      "word": "田曦薇小年自拍",
+      "onboard_time": 1706863472,
+      "rank": 43,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 171694,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1706852793,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163528,
+      "num": 135898,
+      "word": "林亦扬微信",
+      "onboard_time": 1706864132,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 162872,
@@ -1611,14 +1715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144780,
-      "num": 144780,
-      "word": "疑似奔驰方女乘客角度视频曝光",
-      "onboard_time": 1706862693,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142809,
       "num": 142809,
       "word": "女生真的有自己的洗头规划",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1706814076,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135281,
+      "num": 135281,
+      "word": "600股跌超9%",
+      "onboard_time": 1706862810,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 134979,
@@ -1787,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125065,
+      "num": 125065,
+      "word": "奇瑞",
+      "onboard_time": 1706865332,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124703,
       "num": 124703,
       "word": "Selina产后代言收入达百万",
@@ -1867,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110930,
-      "num": 110930,
-      "word": "600股跌超9%",
-      "onboard_time": 1706862810,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110214,
       "num": 110214,
       "word": "补水到底是不是智商税",
@@ -1913,6 +2017,14 @@
       "onboard_time": 1706782051,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 118206,
+      "word": "180秒看懂AI发展到什么程度了",
+      "onboard_time": 1706865274,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 99121,
@@ -2179,20 +2291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40369,
+      "num": 819622,
+      "word": "6组数据领略湿地之美",
+      "onboard_time": 1706861612,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 38999,
-      "num": 819622,
-      "word": "6组数据领略湿地之美",
-      "onboard_time": 1706861612,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35863,

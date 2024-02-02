@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706862845297,
+  "endTime": 1706865477337,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -537,6 +537,14 @@
       "onboard_time": 1706576968,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1520355,
+      "num": 1520355,
+      "word": "疑似奔驰方女乘客角度视频曝光",
+      "onboard_time": 1706862693,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1515306,
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 964519,
-      "num": 577114,
+      "num": 745409,
       "word": "郑爽境内外资产单一项就超过2.3亿",
       "onboard_time": 1706858071,
       "rank": 41,
@@ -2595,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615582,
+      "num": 615582,
+      "word": "车银优边抽烟边落泪",
+      "onboard_time": 1706864432,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 615180,
       "num": 615180,
       "word": "哇唧唧哇年会",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1706665108,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 592704,
+      "num": 592704,
+      "word": "肖战想挤地铁逛商场",
+      "onboard_time": 1706859155,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 592520,
@@ -3875,14 +3899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442126,
-      "num": 433954,
-      "word": "肖战想挤地铁逛商场",
-      "onboard_time": 1706859155,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 441767,
       "num": 441767,
       "word": "87岁老人在美三次遇袭决定搬回中国",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1706775628,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421286,
+      "num": 421286,
+      "word": "中山二院为何迟迟不公布调查结果",
+      "onboard_time": 1706862333,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420512,
@@ -4947,6 +4971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359768,
+      "num": 328659,
+      "word": "我做鬼也不会放过你",
+      "onboard_time": 1706863532,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358580,
       "num": 358580,
       "word": "远嫁女子过年想回娘家遭公公扇耳光",
@@ -5185,6 +5217,14 @@
       "onboard_time": 1706399543,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342637,
+      "num": 342637,
+      "word": "中石油原董事长王宜林被查",
+      "onboard_time": 1706862212,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340622,
@@ -5595,6 +5635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312530,
+      "num": 312530,
+      "word": "年终奖",
+      "onboard_time": 1706864614,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -5697,6 +5745,14 @@
       "onboard_time": 1706767413,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306395,
+      "num": 210543,
+      "word": "异人之下2官宣",
+      "onboard_time": 1706864614,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 306256,
@@ -6091,14 +6147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289849,
-      "num": 289849,
-      "word": "中石油原董事长王宜林被查",
-      "onboard_time": 1706862212,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289796,
       "num": 289796,
       "word": "上海一家八口住在150平老破大",
@@ -6316,7 +6364,7 @@
     },
     {
       "raw_hot": 275972,
-      "num": 182796,
+      "num": 199337,
       "word": "杨紫国色芳华新妆",
       "onboard_time": 1706862031,
       "rank": 43,
@@ -7371,6 +7419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225964,
+      "num": 188706,
+      "word": "在暴雪时分SVIP",
+      "onboard_time": 1706864912,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -8027,6 +8083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210888,
+      "num": 210888,
+      "word": "宁波体育局",
+      "onboard_time": 1706864373,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210765,
       "num": 156502,
       "word": "朱正廷舞台中式恐怖",
@@ -8635,6 +8699,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 198885,
+      "num": 174984,
+      "word": "脱口秀阎王",
+      "onboard_time": 1706864852,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198789,
       "num": 198789,
       "word": "白敬亭金晨新剧海报",
@@ -9081,6 +9153,14 @@
       "onboard_time": 1706660789,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190373,
+      "num": 190373,
+      "word": "外交部感谢CIA局长提醒",
+      "onboard_time": 1706864614,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190308,
@@ -9563,6 +9643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182306,
+      "num": 139002,
+      "word": "朱一龙分享自己的过年仪式感",
+      "onboard_time": 1706865214,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182182,
       "num": 182182,
       "word": "IU概念照",
@@ -9875,6 +9963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176031,
+      "num": 176031,
+      "word": "小米或退出印度笔记本市场",
+      "onboard_time": 1706864432,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 175757,
       "num": 149141,
       "word": "刘德华 我一定等到你发财",
@@ -10035,14 +10131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173625,
-      "num": 173625,
-      "word": "中山二院为何迟迟不公布调查结果",
-      "onboard_time": 1706862333,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173190,
       "num": 74280,
       "word": "新款iPadPro或3月底发布",
@@ -10073,6 +10161,14 @@
       "onboard_time": 1706424868,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172211,
+      "num": 136579,
+      "word": "田曦薇小年自拍",
+      "onboard_time": 1706863472,
+      "rank": 43,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 172210,
@@ -10473,6 +10569,14 @@
       "onboard_time": 1706752472,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163528,
+      "num": 135898,
+      "word": "林亦扬微信",
+      "onboard_time": 1706864132,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 163332,
@@ -11691,14 +11795,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 144780,
-      "num": 144780,
-      "word": "疑似奔驰方女乘客角度视频曝光",
-      "onboard_time": 1706862693,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144725,
       "num": 132464,
       "word": "还是公公情商高",
@@ -12393,6 +12489,14 @@
       "onboard_time": 1706690612,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135281,
+      "num": 135281,
+      "word": "600股跌超9%",
+      "onboard_time": 1706862810,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 135256,
@@ -13265,6 +13369,14 @@
       "onboard_time": 1706840550,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125065,
+      "num": 125065,
+      "word": "奇瑞",
+      "onboard_time": 1706865332,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125061,
@@ -14291,14 +14403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110930,
-      "num": 110930,
-      "word": "600股跌超9%",
-      "onboard_time": 1706862810,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110512,
       "num": 110512,
       "word": "陆沉 出差结束",
@@ -14913,6 +15017,14 @@
       "onboard_time": 1706618673,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 118206,
+      "word": "180秒看懂AI发展到什么程度了",
+      "onboard_time": 1706865274,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 99427,
@@ -16003,6 +16115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40369,
+      "num": 819622,
+      "word": "6组数据领略湿地之美",
+      "onboard_time": 1706861612,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40063,
       "num": 149335,
       "word": "京东除夕批发式送礼每种十万份起",
@@ -16025,14 +16145,6 @@
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 38999,
-      "num": 819622,
-      "word": "6组数据领略湿地之美",
-      "onboard_time": 1706861612,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38717,
