@@ -1,6 +1,6 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706862066610,
+  "endTime": 1706862845297,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -171,6 +171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1140260,
+      "num": 1140260,
+      "word": "杨波 大学当了四年海王",
+      "onboard_time": 1706858251,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047176,
       "num": 1047176,
       "word": "铁路回应为何12306售罄携程有票",
@@ -243,14 +251,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 922752,
-      "num": 922752,
-      "word": "杨波 大学当了四年海王",
-      "onboard_time": 1706858251,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 887130,
       "num": 887130,
       "word": "上交所 外卖",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 724506,
-      "num": 325239,
+      "num": 425970,
       "word": "郑爽曾片场消失一礼拜",
       "onboard_time": 1706859393,
       "rank": 15,
@@ -467,8 +467,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517328,
+      "num": 406848,
+      "word": "证监会",
+      "onboard_time": 1706858308,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 501696,
+      "num": 435183,
+      "word": "录娶通知书",
+      "onboard_time": 1706859575,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 494267,
-      "num": 321941,
+      "num": 425756,
       "word": "少爷和我定档",
       "onboard_time": 1706859515,
       "rank": 16,
@@ -499,14 +515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 459065,
-      "num": 330881,
-      "word": "录娶通知书",
-      "onboard_time": 1706859575,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 452237,
       "num": 425210,
       "word": "11万股民跌停板上凌乱了",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 442126,
-      "num": 321793,
+      "num": 433954,
       "word": "肖战想挤地铁逛商场",
       "onboard_time": 1706859155,
       "rank": 35,
@@ -595,20 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406848,
-      "num": 406848,
-      "word": "证监会",
-      "onboard_time": 1706858308,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 404179,
       "num": 404179,
       "word": "迪丽热巴成都",
       "onboard_time": 1706842290,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396448,
+      "num": 458416,
+      "word": "做一次CT对人体的伤害有多大",
+      "onboard_time": 1706858673,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 393470,
@@ -771,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317632,
-      "num": 317632,
-      "word": "做一次CT对人体的伤害有多大",
-      "onboard_time": 1706858673,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -824,6 +824,14 @@
       "word": "这是今天的杭州东站",
       "onboard_time": 1706823555,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289849,
+      "num": 289849,
+      "word": "中石油原董事长王宜林被查",
+      "onboard_time": 1706862212,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -883,12 +891,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275972,
+      "num": 182796,
+      "word": "杨紫国色芳华新妆",
+      "onboard_time": 1706862031,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275847,
       "num": 275847,
       "word": "赵露思刘宇宁同框路透",
       "onboard_time": 1706836049,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273510,
+      "num": 182744,
+      "word": "迪丽热巴红色刺绣吊带裙",
+      "onboard_time": 1706860355,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273139,
@@ -945,14 +969,6 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257832,
-      "num": 175996,
-      "word": "迪丽热巴红色刺绣吊带裙",
-      "onboard_time": 1706860355,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 254538,
@@ -1076,11 +1092,19 @@
     },
     {
       "raw_hot": 220627,
-      "num": 163258,
+      "num": 168814,
       "word": "杨紫接拍要久久爱 勇敢",
       "onboard_time": 1706860593,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219859,
+      "num": 176907,
+      "word": "谁给吴磊画的眉毛",
+      "onboard_time": 1706861012,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219590,
@@ -1137,14 +1161,6 @@
       "onboard_time": 1706848773,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208146,
-      "num": 154752,
-      "word": "谁给吴磊画的眉毛",
-      "onboard_time": 1706861012,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205832,
@@ -1268,7 +1284,7 @@
     },
     {
       "raw_hot": 191967,
-      "num": 154315,
+      "num": 164195,
       "word": "肖战选剧本的标准",
       "onboard_time": 1706861554,
       "rank": 37,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1706860893,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191667,
+      "num": 191667,
+      "word": "被男子砸车女子回应司机问题",
+      "onboard_time": 1706861675,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190825,
@@ -1387,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179667,
+      "num": 179667,
+      "word": "灰太狼身世",
+      "onboard_time": 1706861974,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 177605,
       "num": 177605,
       "word": "迪丽热巴猫耳朵针织帽",
@@ -1443,6 +1475,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173625,
+      "num": 173625,
+      "word": "中山二院为何迟迟不公布调查结果",
+      "onboard_time": 1706862333,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171694,
+      "num": 160471,
+      "word": "张凯毅张煜东双向奔赴",
+      "onboard_time": 1706862093,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 170323,
       "num": 170323,
       "word": "TWICE先行曲",
@@ -1483,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159940,
+      "num": 159940,
+      "word": "原来狗上班也会崩溃",
+      "onboard_time": 1706861374,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159397,
       "num": 159397,
       "word": "残阵湖人太6了",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1706840486,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152344,
-      "num": 152344,
-      "word": "原来狗上班也会崩溃",
-      "onboard_time": 1706861374,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 152178,
@@ -1563,12 +1611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144967,
-      "num": 139289,
-      "word": "杨紫国色芳华新妆",
-      "onboard_time": 1706862031,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 144780,
+      "num": 144780,
+      "word": "疑似奔驰方女乘客角度视频曝光",
+      "onboard_time": 1706862693,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142809,
@@ -1609,14 +1657,6 @@
       "onboard_time": 1706846612,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139219,
-      "num": 139219,
-      "word": "被男子砸车女子回应司机问题",
-      "onboard_time": 1706861675,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137216,
@@ -1763,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121217,
-      "num": 121217,
-      "word": "灰太狼身世",
-      "onboard_time": 1706861974,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 120261,
       "num": 120261,
       "word": "利雅得胜利6比0迈阿密国际",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1706825417,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110930,
+      "num": 110930,
+      "word": "600股跌超9%",
+      "onboard_time": 1706862810,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 110214,
@@ -2099,6 +2139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 51231,
+      "num": 166455,
+      "word": "AppStore陪你过新春",
+      "onboard_time": 1706861732,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48627,
       "num": 287521,
       "word": "小年小年回家过年",
@@ -2131,20 +2179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39617,
-      "num": 125232,
-      "word": "AppStore陪你过新春",
-      "onboard_time": 1706861732,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38999,
+      "num": 819622,
+      "word": "6组数据领略湿地之美",
+      "onboard_time": 1706861612,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35863,
@@ -2177,14 +2225,6 @@
       "onboard_time": 1706788110,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27928,
-      "num": 764072,
-      "word": "6组数据领略湿地之美",
-      "onboard_time": 1706861612,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24021,
@@ -2255,6 +2295,9 @@
     },
     {
       "word": "#习近平在天津考察调研#"
+    },
+    {
+      "word": "#习近平看望慰问基层干部群众#"
     }
   ]
 }

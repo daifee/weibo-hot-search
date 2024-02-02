@@ -1,0 +1,410 @@
+{
+  "runTime": 1706862845297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168812,
+        "num": 1168812,
+        "word": "郑爽家人曾赔偿二手劳斯莱斯",
+        "onboard_time": 1706858915,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1140260,
+        "num": 1140260,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38999,
+        "num": 819622,
+        "word": "6组数据领略湿地之美",
+        "onboard_time": 1706861612,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613048,
+        "num": 613048,
+        "word": "张凯毅回应被张煜东表白",
+        "onboard_time": 1706858851,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 526049,
+        "num": 526049,
+        "word": "奥运冠军杨倩教练发文讨薪",
+        "onboard_time": 1706852492,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 741889,
+        "num": 507969,
+        "word": "郑爽境内外资产单一项就超过2.3亿",
+        "onboard_time": 1706858071,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464532,
+        "num": 464532,
+        "word": "咳嗽时把痰咽下去伤身体吗",
+        "onboard_time": 1706847629,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410962,
+        "num": 460371,
+        "word": "沪指失守2700点关口",
+        "onboard_time": 1706855073,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 396448,
+        "num": 458416,
+        "word": "做一次CT对人体的伤害有多大",
+        "onboard_time": 1706858673,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301981,
+        "num": 454692,
+        "word": "衡阳2岁失踪男童遗体被发现",
+        "onboard_time": 1706855850,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517086,
+        "num": 450463,
+        "word": "2700",
+        "onboard_time": 1706855372,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1428172,
+        "num": 446750,
+        "word": "郑爽绝密者服务费1.2亿",
+        "onboard_time": 1706858192,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1030115,
+        "num": 440692,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501696,
+        "num": 435183,
+        "word": "录娶通知书",
+        "onboard_time": 1706859575,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433954,
+        "num": 433954,
+        "word": "肖战想挤地铁逛商场",
+        "onboard_time": 1706859155,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426094,
+        "num": 426094,
+        "word": "童漠男 行业又没了",
+        "onboard_time": 1706855972,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716854,
+        "num": 425970,
+        "word": "郑爽曾片场消失一礼拜",
+        "onboard_time": 1706859393,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425756,
+        "num": 425756,
+        "word": "少爷和我定档",
+        "onboard_time": 1706859515,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416228,
+        "num": 416228,
+        "word": "杨波回应",
+        "onboard_time": 1706840189,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289849,
+        "num": 289849,
+        "word": "中石油原董事长王宜林被查",
+        "onboard_time": 1706862212,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299789,
+        "num": 285252,
+        "word": "迪丽热巴英文聊天",
+        "onboard_time": 1706852433,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258124,
+        "num": 258124,
+        "word": "生育损伤是人类注定的吗",
+        "onboard_time": 1706854293,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230081,
+        "num": 230081,
+        "word": "上海一家八口住在150平老破大",
+        "onboard_time": 1706854652,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191667,
+        "num": 191667,
+        "word": "被男子砸车女子回应司机问题",
+        "onboard_time": 1706861675,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184040,
+        "num": 184040,
+        "word": "总戴假睫毛的人现在都怎么样了",
+        "onboard_time": 1706848353,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 289662,
+        "num": 182919,
+        "word": "杨波评论区",
+        "onboard_time": 1706851833,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275972,
+        "num": 182796,
+        "word": "杨紫国色芳华新妆",
+        "onboard_time": 1706862031,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273510,
+        "num": 182744,
+        "word": "迪丽热巴红色刺绣吊带裙",
+        "onboard_time": 1706860355,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "A股超200股跌停",
+        "onboard_time": 1706859090,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179667,
+        "num": 179667,
+        "word": "灰太狼身世",
+        "onboard_time": 1706861974,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 247799,
+        "num": 178194,
+        "word": "胡歌 瑞金医院表彰大会",
+        "onboard_time": 1706858791,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219859,
+        "num": 176907,
+        "word": "谁给吴磊画的眉毛",
+        "onboard_time": 1706861012,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211673,
+        "num": 176404,
+        "word": "韩如雪否认知三当三",
+        "onboard_time": 1706852191,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173625,
+        "num": 173625,
+        "word": "中山二院为何迟迟不公布调查结果",
+        "onboard_time": 1706862333,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168966,
+        "num": 168966,
+        "word": "梅西抵达香港",
+        "onboard_time": 1706860893,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210596,
+        "num": 168814,
+        "word": "杨紫接拍要久久爱 勇敢",
+        "onboard_time": 1706860593,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51231,
+        "num": 166455,
+        "word": "AppStore陪你过新春",
+        "onboard_time": 1706861732,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199518,
+        "num": 166216,
+        "word": "杨幂小年穿高定",
+        "onboard_time": 1706858132,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177464,
+        "num": 164195,
+        "word": "肖战选剧本的标准",
+        "onboard_time": 1706861554,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517328,
+        "num": 163038,
+        "word": "证监会",
+        "onboard_time": 1706858308,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176027,
+        "num": 161667,
+        "word": "谭松韵大女主",
+        "onboard_time": 1706858673,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171694,
+        "num": 160471,
+        "word": "张凯毅张煜东双向奔赴",
+        "onboard_time": 1706862093,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159940,
+        "num": 159940,
+        "word": "原来狗上班也会崩溃",
+        "onboard_time": 1706861374,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171529,
+        "num": 158393,
+        "word": "肖战不上综艺的原因",
+        "onboard_time": 1706847813,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151313,
+        "num": 151313,
+        "word": "聊天记录占超75%微信内存",
+        "onboard_time": 1706850815,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144780,
+        "num": 144780,
+        "word": "疑似奔驰方女乘客角度视频曝光",
+        "onboard_time": 1706862693,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 142283,
+        "word": "秦岚短发羊毛卷",
+        "onboard_time": 1706857532,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140532,
+        "num": 140532,
+        "word": "A股创业板指跌至3%",
+        "onboard_time": 1706854053,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118397,
+        "num": 118397,
+        "word": "11万股民跌停板上凌乱了",
+        "onboard_time": 1706848477,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110930,
+        "num": 110930,
+        "word": "600股跌超9%",
+        "onboard_time": 1706862810,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
