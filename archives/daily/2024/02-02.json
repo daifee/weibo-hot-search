@@ -1,7 +1,15 @@
 {
   "startTime": 1706804481248,
-  "endTime": 1706841223038,
+  "endTime": 1706843885398,
   "band_list": [
+    {
+      "raw_hot": 2226568,
+      "num": 2226568,
+      "word": "杨波回应",
+      "onboard_time": 1706840189,
+      "rank": 8,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1604983,
       "num": 1604983,
@@ -19,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1596499,
+      "num": 1596499,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1447153,
       "num": 1447153,
       "word": "美方承认几十年来改变中国的努力都没有成功",
@@ -27,20 +43,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1375966,
-      "num": 1375966,
-      "word": "杨波回应",
-      "onboard_time": 1706840189,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1243379,
       "num": 599741,
       "word": "14岁女儿将爸爸出轨录音拷贝给妈妈",
       "onboard_time": 1706830106,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193106,
+      "num": 1193106,
+      "word": "频繁做美甲会导致手变黑",
+      "onboard_time": 1706838689,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 1047176,
@@ -83,6 +99,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 824749,
+      "num": 824749,
+      "word": "云南宣威一村突发刑案致6人死亡",
+      "onboard_time": 1706841270,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802154,
       "num": 802154,
       "word": "跳跳俏俏六岁了",
@@ -91,12 +115,12 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 801315,
-      "num": 801315,
-      "word": "频繁做美甲会导致手变黑",
-      "onboard_time": 1706838689,
-      "rank": 12,
-      "category": "美妆"
+      "raw_hot": 757997,
+      "num": 757997,
+      "word": "男子杀人逃亡19年得知杀错人",
+      "onboard_time": 1706839709,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698203,
@@ -123,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626331,
-      "num": 626331,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 604108,
       "num": 604108,
       "word": "花少5豆瓣评分破9了",
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600632,
+      "num": 600632,
+      "word": "肖战背沟好深",
+      "onboard_time": 1706842949,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 587007,
@@ -187,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523798,
+      "num": 523798,
+      "word": "有女朋友还和别人接吻",
+      "onboard_time": 1706843130,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520159,
       "num": 296381,
       "word": "韩菱纱身亡",
       "onboard_time": 1706785593,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 488304,
-      "num": 488304,
-      "word": "男子杀人逃亡19年得知杀错人",
-      "onboard_time": 1706839709,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445524,
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418458,
+      "num": 418458,
+      "word": "许嵩演唱在暴雪时分片头曲",
+      "onboard_time": 1706841151,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409817,
       "num": 409817,
       "word": "大S具俊晔23年前后合照对比",
@@ -235,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403976,
+      "num": 403976,
+      "word": "迪丽热巴成都",
+      "onboard_time": 1706842290,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383720,
       "num": 129179,
       "word": "现在预制菜都这么齐全了吗",
       "onboard_time": 1706792313,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 365513,
+      "num": 365513,
+      "word": "五问上海禁止网约车在浦东机场运营",
+      "onboard_time": 1706839589,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356261,
@@ -267,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352995,
+      "num": 352995,
+      "word": "微信体积再变大",
+      "onboard_time": 1706843012,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 347724,
       "num": 347724,
       "word": "K4186全车一起救了个人",
       "onboard_time": 1706786671,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 343643,
-      "num": 343643,
-      "word": "五问上海禁止网约车在浦东机场运营",
-      "onboard_time": 1706839589,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339906,
@@ -307,12 +355,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329292,
+      "num": 329292,
+      "word": "南来北往定档",
+      "onboard_time": 1706840788,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 317177,
+      "num": 317177,
+      "word": "一只鸽子在印度被当成中国间谍",
+      "onboard_time": 1706840909,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299937,
       "num": 299937,
       "word": "赵今麦 真甜妹来了",
       "onboard_time": 1706796873,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293943,
+      "num": 192170,
+      "word": "曝湖人可能交易詹姆斯",
+      "onboard_time": 1706843311,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 292021,
@@ -329,14 +401,6 @@
       "onboard_time": 1706823555,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288263,
-      "num": 288263,
-      "word": "南来北往定档",
-      "onboard_time": 1706840788,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 285925,
@@ -363,12 +427,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276142,
+      "num": 276142,
+      "word": "高至霆 出租屋文学",
+      "onboard_time": 1706841449,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275847,
       "num": 275847,
       "word": "赵露思刘宇宁同框路透",
       "onboard_time": 1706836049,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273448,
+      "num": 273448,
+      "word": "A股",
+      "onboard_time": 1706843130,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 273139,
@@ -401,6 +481,14 @@
       "onboard_time": 1706833049,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 262329,
+      "num": 262329,
+      "word": "为什么咳嗽起来就止不住",
+      "onboard_time": 1706842650,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254195,
@@ -483,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200814,
+      "num": 200814,
+      "word": "湖人战胜凯尔特人",
+      "onboard_time": 1706843191,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199548,
       "num": 199548,
       "word": "北方和南方小年差一天",
@@ -515,6 +611,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 192711,
+      "num": 192711,
+      "word": "小女孩问啥都说没啥记者慌了",
+      "onboard_time": 1706840310,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190825,
       "num": 190825,
       "word": "哇唧唧哇年会",
@@ -531,12 +635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186881,
+      "num": 186881,
+      "word": "酒店回应田朴珺吐槽卫生差",
+      "onboard_time": 1706841211,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183093,
       "num": 183093,
       "word": "春运返程火车票今天开抢",
       "onboard_time": 1706833470,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177169,
+      "num": 177169,
+      "word": "减到什么程度才算减肥成功",
+      "onboard_time": 1706838508,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 174843,
@@ -579,20 +699,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159105,
-      "num": 159105,
-      "word": "减到什么程度才算减肥成功",
-      "onboard_time": 1706838508,
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "残阵湖人太6了",
+      "onboard_time": 1706842112,
       "rank": 36,
-      "category": "运动健身"
+      "category": "体育"
     },
     {
-      "raw_hot": 153345,
-      "num": 153345,
-      "word": "小女孩问啥都说没啥记者慌了",
-      "onboard_time": 1706840310,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 152685,
+      "num": 152685,
+      "word": "荷兰人有多抠",
+      "onboard_time": 1706840486,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 152178,
@@ -608,6 +728,22 @@
       "word": "小年吃什么",
       "onboard_time": 1706839349,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149028,
+      "num": 149028,
+      "word": "元梦之星",
+      "onboard_time": 1706842228,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 147790,
+      "num": 1238743,
+      "word": "赶大集是中国人独有热闹",
+      "onboard_time": 1706842228,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -691,22 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129311,
-      "num": 129311,
-      "word": "许嵩演唱在暴雪时分片头曲",
-      "onboard_time": 1706841151,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126725,
-      "num": 126725,
-      "word": "一只鸽子在印度被当成中国间谍",
-      "onboard_time": 1706840909,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125353,
       "num": 125353,
       "word": "虞书欣许凯直播 美颜",
@@ -787,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112132,
-      "num": 112132,
-      "word": "荷兰人有多抠",
-      "onboard_time": 1706840486,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -849,14 +961,6 @@
       "onboard_time": 1706786910,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "酒店回应田朴珺吐槽卫生差",
-      "onboard_time": 1706841211,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97276,
@@ -1067,6 +1171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 43121,
+      "num": 149703,
+      "word": "小年小年回家过年",
+      "onboard_time": 1706843012,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39541,
       "num": 39541,
       "word": "绩黍",
@@ -1089,6 +1201,14 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35038,
+      "num": 439779,
+      "word": "在山东大集懂了啥叫烟火人间",
+      "onboard_time": 1706842829,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28385,

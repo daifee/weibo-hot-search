@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706841223038,
+  "endTime": 1706843885398,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -937,6 +937,14 @@
       "onboard_time": 1705460487,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2226568,
+      "num": 2226568,
+      "word": "杨波回应",
+      "onboard_time": 1706840189,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 2224566,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706238331,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1626775,
-      "num": 1626775,
-      "word": "吴尊称呼女儿二老婆",
-      "onboard_time": 1706673512,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

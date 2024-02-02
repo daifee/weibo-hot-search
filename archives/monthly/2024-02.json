@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706841223038,
+  "endTime": 1706843885398,
   "band_list": [
     {
       "raw_hot": 3153639,
@@ -17,6 +17,14 @@
       "onboard_time": 1706778871,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2226568,
+      "num": 2226568,
+      "word": "杨波回应",
+      "onboard_time": 1706840189,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 2092734,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1596499,
+      "num": 1596499,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1557066,
       "num": 1557066,
       "word": "尿毒症是吃出来的",
@@ -147,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1375966,
-      "num": 1375966,
-      "word": "杨波回应",
-      "onboard_time": 1706840189,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1367335,
       "num": 1073272,
       "word": "胡歌与老婆出门购物",
@@ -185,6 +193,14 @@
       "onboard_time": 1706830106,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193106,
+      "num": 1193106,
+      "word": "频繁做美甲会导致手变黑",
+      "onboard_time": 1706838689,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 1176905,
@@ -331,6 +347,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 824749,
+      "num": 824749,
+      "word": "云南宣威一村突发刑案致6人死亡",
+      "onboard_time": 1706841270,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817049,
       "num": 817049,
       "word": "劝人多睡的医生自己在熬夜",
@@ -355,14 +379,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 801315,
-      "num": 801315,
-      "word": "频繁做美甲会导致手变黑",
-      "onboard_time": 1706838689,
-      "rank": 12,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 795278,
       "num": 631121,
       "word": "微博崩了",
@@ -385,6 +401,14 @@
       "onboard_time": 1706755588,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 757997,
+      "num": 757997,
+      "word": "男子杀人逃亡19年得知杀错人",
+      "onboard_time": 1706839709,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746279,
@@ -563,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626331,
-      "num": 626331,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 620968,
       "num": 620968,
       "word": "江歌妈妈谈重庆姐弟坠亡案",
@@ -601,6 +617,14 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600632,
+      "num": 600632,
+      "word": "肖战背沟好深",
+      "onboard_time": 1706842949,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 595157,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523798,
+      "num": 523798,
+      "word": "有女朋友还和别人接吻",
+      "onboard_time": 1706843130,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523064,
       "num": 523064,
       "word": "iPhone15Pro满意度下降",
@@ -809,14 +841,6 @@
       "onboard_time": 1706747068,
       "rank": 10,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 488304,
-      "num": 488304,
-      "word": "男子杀人逃亡19年得知杀错人",
-      "onboard_time": 1706839709,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487357,
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418458,
+      "num": 418458,
+      "word": "许嵩演唱在暴雪时分片头曲",
+      "onboard_time": 1706841151,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414619,
       "num": 414619,
       "word": "格力年会 我妈就是董明珠",
@@ -985,6 +1017,14 @@
       "onboard_time": 1706759070,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 403976,
+      "num": 403976,
+      "word": "迪丽热巴成都",
+      "onboard_time": 1706842290,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 398618,
@@ -1123,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 365513,
+      "num": 365513,
+      "word": "五问上海禁止网约车在浦东机场运营",
+      "onboard_time": 1706839589,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364997,
       "num": 419972,
       "word": "多面吴谢宇",
@@ -1187,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352995,
+      "num": 352995,
+      "word": "微信体积再变大",
+      "onboard_time": 1706843012,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 349704,
       "num": 349704,
       "word": "IU登顶2024韩国最富有女爱豆",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1706757331,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343643,
-      "num": 343643,
-      "word": "五问上海禁止网约车在浦东机场运营",
-      "onboard_time": 1706839589,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339482,
@@ -1267,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 329292,
+      "num": 329292,
+      "word": "南来北往定档",
+      "onboard_time": 1706840788,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325083,
       "num": 325083,
       "word": "健康减肥后身体发生的变化",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1706725339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317177,
+      "num": 317177,
+      "word": "一只鸽子在印度被当成中国间谍",
+      "onboard_time": 1706840909,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313213,
@@ -1435,6 +1499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 293943,
+      "num": 192170,
+      "word": "曝湖人可能交易詹姆斯",
+      "onboard_time": 1706843311,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292105,
       "num": 292105,
       "word": "吴谢宇弑母案",
@@ -1457,14 +1529,6 @@
       "onboard_time": 1706823555,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288263,
-      "num": 288263,
-      "word": "南来北往定档",
-      "onboard_time": 1706840788,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 282169,
@@ -1513,6 +1577,14 @@
       "onboard_time": 1706805147,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276142,
+      "num": 276142,
+      "word": "高至霆 出租屋文学",
+      "onboard_time": 1706841449,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275847,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1706745386,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262329,
+      "num": 262329,
+      "word": "为什么咳嗽起来就止不住",
+      "onboard_time": 1706842650,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259187,
@@ -2035,6 +2115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200814,
+      "num": 200814,
+      "word": "湖人战胜凯尔特人",
+      "onboard_time": 1706843191,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199548,
       "num": 199548,
       "word": "北方和南方小年差一天",
@@ -2121,6 +2209,14 @@
       "onboard_time": 1706790573,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192711,
+      "num": 192711,
+      "word": "小女孩问啥都说没啥记者慌了",
+      "onboard_time": 1706840310,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191176,
@@ -2217,6 +2313,14 @@
       "onboard_time": 1706761051,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186881,
+      "num": 186881,
+      "word": "酒店回应田朴珺吐槽卫生差",
+      "onboard_time": 1706841211,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 186819,
@@ -2377,6 +2481,14 @@
       "onboard_time": 1706767706,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177169,
+      "num": 177169,
+      "word": "减到什么程度才算减肥成功",
+      "onboard_time": 1706838508,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 176856,
@@ -2659,12 +2771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159105,
-      "num": 159105,
-      "word": "减到什么程度才算减肥成功",
-      "onboard_time": 1706838508,
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "残阵湖人太6了",
+      "onboard_time": 1706842112,
       "rank": 36,
-      "category": "运动健身"
+      "category": "体育"
     },
     {
       "raw_hot": 158813,
@@ -2779,20 +2891,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153345,
-      "num": 153345,
-      "word": "小女孩问啥都说没啥记者慌了",
-      "onboard_time": 1706840310,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153154,
       "num": 153154,
       "word": "堵车时第一辆车在干嘛",
       "onboard_time": 1706764773,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152685,
+      "num": 152685,
+      "word": "荷兰人有多抠",
+      "onboard_time": 1706840486,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 152423,
@@ -2859,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149028,
+      "num": 149028,
+      "word": "元梦之星",
+      "onboard_time": 1706842228,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148687,
       "num": 148687,
       "word": "魏大勋 首评你在哪",
@@ -2888,6 +3008,14 @@
       "word": "银川",
       "onboard_time": 1706786189,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147790,
+      "num": 1238743,
+      "word": "赶大集是中国人独有热闹",
+      "onboard_time": 1706842228,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3283,14 +3411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129311,
-      "num": 129311,
-      "word": "许嵩演唱在暴雪时分片头曲",
-      "onboard_time": 1706841151,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129194,
       "num": 129194,
       "word": "小落的姬小满",
@@ -3305,14 +3425,6 @@
       "onboard_time": 1706772870,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 126725,
-      "num": 126725,
-      "word": "一只鸽子在印度被当成中国间谍",
-      "onboard_time": 1706840909,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126559,
@@ -3555,14 +3667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112132,
-      "num": 112132,
-      "word": "荷兰人有多抠",
-      "onboard_time": 1706840486,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -3673,14 +3777,6 @@
       "onboard_time": 1706775027,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "酒店回应田朴珺吐槽卫生差",
-      "onboard_time": 1706841211,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97736,
@@ -3939,6 +4035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 43121,
+      "num": 149703,
+      "word": "小年小年回家过年",
+      "onboard_time": 1706843012,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42274,
       "num": 42274,
       "word": "赵丽颖粉丝包场第二十条",
@@ -3977,6 +4081,14 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35038,
+      "num": 439779,
+      "word": "在山东大集懂了啥叫烟火人间",
+      "onboard_time": 1706842829,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34020,

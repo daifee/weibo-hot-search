@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706841223038,
+  "endTime": 1706843885398,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -105,6 +105,14 @@
       "onboard_time": 1706529090,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2226568,
+      "num": 2226568,
+      "word": "杨波回应",
+      "onboard_time": 1706840189,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 2152520,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1596499,
+      "num": 1596499,
+      "word": "我的婚礼取消了这七个环节",
+      "onboard_time": 1706836530,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596357,
       "num": 1596357,
       "word": "躲过新冠没躲过这次咽喉炎",
@@ -537,14 +553,6 @@
       "onboard_time": 1706405727,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1375966,
-      "num": 1375966,
-      "word": "杨波回应",
-      "onboard_time": 1706840189,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 1374721,
@@ -745,6 +753,14 @@
       "onboard_time": 1706538573,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1193106,
+      "num": 1193106,
+      "word": "频繁做美甲会导致手变黑",
+      "onboard_time": 1706838689,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 1186774,
@@ -1379,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 824749,
+      "num": 824749,
+      "word": "云南宣威一村突发刑案致6人死亡",
+      "onboard_time": 1706841270,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822178,
       "num": 436800,
       "word": "女总监衣不蔽体被破门带走欲提行政诉讼",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1706703272,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 801315,
-      "num": 801315,
-      "word": "频繁做美甲会导致手变黑",
-      "onboard_time": 1706838689,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 798126,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1706675378,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 757997,
+      "num": 757997,
+      "word": "男子杀人逃亡19年得知杀错人",
+      "onboard_time": 1706839709,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757766,
@@ -2275,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626331,
-      "num": 626331,
-      "word": "我的婚礼取消了这七个环节",
-      "onboard_time": 1706836530,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624607,
       "num": 568370,
       "word": "杜江霍思燕冲浪拥吻",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1706838391,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600632,
+      "num": 600632,
+      "word": "肖战背沟好深",
+      "onboard_time": 1706842949,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 599600,
@@ -2939,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 523798,
+      "num": 523798,
+      "word": "有女朋友还和别人接吻",
+      "onboard_time": 1706843130,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523064,
       "num": 523064,
       "word": "iPhone15Pro满意度下降",
@@ -3200,14 +3232,6 @@
       "word": "男子发表涉731受难者不当言论被拘留",
       "onboard_time": 1706617829,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488304,
-      "num": 488304,
-      "word": "男子杀人逃亡19年得知杀错人",
-      "onboard_time": 1706839709,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3803,6 +3827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 418458,
+      "num": 418458,
+      "word": "许嵩演唱在暴雪时分片头曲",
+      "onboard_time": 1706841151,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417779,
       "num": 417779,
       "word": "K宝冬奥会金牌被裁无效",
@@ -3953,6 +3985,14 @@
       "onboard_time": 1706434949,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403976,
+      "num": 403976,
+      "word": "迪丽热巴成都",
+      "onboard_time": 1706842290,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 403943,
@@ -4443,6 +4483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365513,
+      "num": 365513,
+      "word": "五问上海禁止网约车在浦东机场运营",
+      "onboard_time": 1706839589,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365462,
       "num": 365462,
       "word": "金高银李到晛 破墓",
@@ -4659,6 +4707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 352995,
+      "num": 352995,
+      "word": "微信体积再变大",
+      "onboard_time": 1706843012,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 350906,
       "num": 350906,
       "word": "南京大屠杀幸存者程福保离世",
@@ -4753,14 +4809,6 @@
       "onboard_time": 1706757331,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343643,
-      "num": 343643,
-      "word": "五问上海禁止网约车在浦东机场运营",
-      "onboard_time": 1706839589,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342752,
@@ -4915,6 +4963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 329292,
+      "num": 329292,
+      "word": "南来北往定档",
+      "onboard_time": 1706840788,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328881,
       "num": 280303,
       "word": "6种症状提醒你该查血脂了",
@@ -5049,6 +5105,14 @@
       "onboard_time": 1706609491,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317177,
+      "num": 317177,
+      "word": "一只鸽子在印度被当成中国间谍",
+      "onboard_time": 1706840909,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317113,
@@ -5515,6 +5579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 293943,
+      "num": 192170,
+      "word": "曝湖人可能交易詹姆斯",
+      "onboard_time": 1706843311,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293639,
       "num": 293639,
       "word": "LOL爆改陈泽",
@@ -5633,14 +5705,6 @@
       "onboard_time": 1706698412,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 288263,
-      "num": 288263,
-      "word": "南来北往定档",
-      "onboard_time": 1706840788,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 287643,
@@ -5801,6 +5865,14 @@
       "onboard_time": 1706428049,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276142,
+      "num": 276142,
+      "word": "高至霆 出租屋文学",
+      "onboard_time": 1706841449,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275847,
@@ -6049,6 +6121,14 @@
       "onboard_time": 1706537194,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 262329,
+      "num": 262329,
+      "word": "为什么咳嗽起来就止不住",
+      "onboard_time": 1706842650,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 261242,
@@ -7867,6 +7947,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 200814,
+      "num": 200814,
+      "word": "湖人战胜凯尔特人",
+      "onboard_time": 1706843191,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200715,
       "num": 200715,
       "word": "原来吃得好是这个意思",
@@ -8259,6 +8347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192711,
+      "num": 192711,
+      "word": "小女孩问啥都说没啥记者慌了",
+      "onboard_time": 1706840310,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192162,
       "num": 192162,
       "word": "两个i人在乱用礼貌用语",
@@ -8521,6 +8617,14 @@
       "onboard_time": 1706761051,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186881,
+      "num": 186881,
+      "word": "酒店回应田朴珺吐槽卫生差",
+      "onboard_time": 1706841211,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 186819,
@@ -8977,6 +9081,14 @@
       "onboard_time": 1706406988,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177169,
+      "num": 177169,
+      "word": "减到什么程度才算减肥成功",
+      "onboard_time": 1706838508,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 176856,
@@ -9755,20 +9867,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "残阵湖人太6了",
+      "onboard_time": 1706842112,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159272,
       "num": 159272,
       "word": "韩庚回忆出道时被迫停演",
       "onboard_time": 1706498910,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159105,
-      "num": 159105,
-      "word": "减到什么程度才算减肥成功",
-      "onboard_time": 1706838508,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 158893,
@@ -10195,14 +10307,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153345,
-      "num": 153345,
-      "word": "小女孩问啥都说没啥记者慌了",
-      "onboard_time": 1706840310,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153315,
       "num": 153315,
       "word": "订婚强奸案卷宗细节曝光",
@@ -10257,6 +10361,14 @@
       "onboard_time": 1706627372,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152685,
+      "num": 152685,
+      "word": "荷兰人有多抠",
+      "onboard_time": 1706840486,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 152508,
@@ -10467,6 +10579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149028,
+      "num": 149028,
+      "word": "元梦之星",
+      "onboard_time": 1706842228,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148687,
       "num": 148687,
       "word": "魏大勋 首评你在哪",
@@ -10528,6 +10648,14 @@
       "word": "银川",
       "onboard_time": 1706786189,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147790,
+      "num": 1238743,
+      "word": "赶大集是中国人独有热闹",
+      "onboard_time": 1706842228,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11907,14 +12035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129311,
-      "num": 129311,
-      "word": "许嵩演唱在暴雪时分片头曲",
-      "onboard_time": 1706841151,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129194,
       "num": 129194,
       "word": "小落的姬小满",
@@ -12089,14 +12209,6 @@
       "onboard_time": 1706449714,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126725,
-      "num": 126725,
-      "word": "一只鸽子在印度被当成中国间谍",
-      "onboard_time": 1706840909,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126719,
@@ -13203,14 +13315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112132,
-      "num": 112132,
-      "word": "荷兰人有多抠",
-      "onboard_time": 1706840486,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111969,
       "num": 111969,
       "word": "元梦之星魔道祖师地图",
@@ -13905,14 +14009,6 @@
       "onboard_time": 1706498968,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "酒店回应田朴珺吐槽卫生差",
-      "onboard_time": 1706841211,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 98106,
@@ -14915,6 +15011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43121,
+      "num": 149703,
+      "word": "小年小年回家过年",
+      "onboard_time": 1706843012,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42299,
       "num": 42299,
       "word": "原来杨紫晒非主流照片是因为输了",
@@ -15017,6 +15121,14 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35038,
+      "num": 439779,
+      "word": "在山东大集懂了啥叫烟火人间",
+      "onboard_time": 1706842829,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34313,
