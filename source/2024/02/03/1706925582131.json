@@ -1,0 +1,410 @@
+{
+  "runTime": 1706925582131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341143,
+        "num": 1341143,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192488,
+        "num": 1192488,
+        "word": "70岁的姥姥离婚了",
+        "onboard_time": 1706918786,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21502,
+        "num": 1122755,
+        "word": "2024网络视听盛典阵容官宣",
+        "onboard_time": 1706679395,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1105075,
+        "num": 1105075,
+        "word": "12306回应2名乘客买到同日同座票",
+        "onboard_time": 1706922148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004396,
+        "num": 1004396,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790714,
+        "num": 790714,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540591,
+        "num": 540591,
+        "word": "前TVB演员河国荣烧炭自杀",
+        "onboard_time": 1706916380,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529544,
+        "num": 529544,
+        "word": "为啥手机最后1%的电能用很久",
+        "onboard_time": 1706922450,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 515058,
+        "num": 515058,
+        "word": "高速惊现老头乐不到50迈一路压车",
+        "onboard_time": 1706921728,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292655,
+        "num": 511525,
+        "word": "花花被扇倒索性直接躺下",
+        "onboard_time": 1706905096,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510217,
+        "num": 510217,
+        "word": "曝职校男生诱导11岁女童发私密照",
+        "onboard_time": 1706921671,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443579,
+        "num": 443579,
+        "word": "死亡万花筒原著粉",
+        "onboard_time": 1706919447,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372204,
+        "num": 372204,
+        "word": "打玻尿酸 馒化",
+        "onboard_time": 1706916683,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 338777,
+        "num": 338777,
+        "word": "王一博自己骑着摩托上山",
+        "onboard_time": 1706921189,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321881,
+        "num": 321881,
+        "word": "金秀贤斥88亿韩元购房",
+        "onboard_time": 1706919327,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298062,
+        "num": 298062,
+        "word": "菏泽警方通报协警铐走实习律师",
+        "onboard_time": 1706919808,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284710,
+        "num": 284710,
+        "word": "杨波 大学当了四年海王",
+        "onboard_time": 1706858251,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278263,
+        "num": 278263,
+        "word": "王俊凯身在直播实则陷入回忆",
+        "onboard_time": 1706921728,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244953,
+        "num": 244953,
+        "word": "职业背债人3个月躺赚200万",
+        "onboard_time": 1706918364,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227171,
+        "num": 227171,
+        "word": "张凯毅张煜东",
+        "onboard_time": 1706920948,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 367041,
+        "num": 225549,
+        "word": "郑爽仍有3856万赔付款未履行",
+        "onboard_time": 1706897301,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293974,
+        "num": 225150,
+        "word": "超市免费塑料袋别再带回家了",
+        "onboard_time": 1706920045,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258647,
+        "num": 224507,
+        "word": "马思纯泳装",
+        "onboard_time": 1706922330,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220946,
+        "num": 220946,
+        "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+        "onboard_time": 1706922750,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214494,
+        "num": 214494,
+        "word": "眼睛上长这个可能是血脂高",
+        "onboard_time": 1706885792,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216777,
+        "num": 214179,
+        "word": "42岁的李栋旭身材",
+        "onboard_time": 1706921971,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213077,
+        "num": 213077,
+        "word": "第一批回家的小猫已经烤上火了",
+        "onboard_time": 1706922450,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207693,
+        "num": 207693,
+        "word": "花少后遗症",
+        "onboard_time": 1706923949,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161683,
+        "num": 161683,
+        "word": "孙兴慜哭了",
+        "onboard_time": 1706920647,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136059,
+        "num": 159589,
+        "word": "吉利星座02组卫星发射成功",
+        "onboard_time": 1706925391,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158891,
+        "num": 158891,
+        "word": "经常吃冷米饭有助于改善脂肪肝",
+        "onboard_time": 1706920766,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 157124,
+        "word": "武汉下冰",
+        "onboard_time": 1706925271,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150423,
+        "num": 150423,
+        "word": "在暴雪时分 暧昧感",
+        "onboard_time": 1706922868,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150356,
+        "num": 150356,
+        "word": "同日同座高铁票",
+        "onboard_time": 1706923710,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143263,
+        "num": 143263,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 143208,
+        "word": "白敬亭开了咖啡店",
+        "onboard_time": 1706890290,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136913,
+        "num": 136913,
+        "word": "突然对水果冷知识起敬意了",
+        "onboard_time": 1706920709,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136131,
+        "num": 136131,
+        "word": "大学女老师另类解读古诗词be美学",
+        "onboard_time": 1706924549,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135089,
+        "num": 135089,
+        "word": "内蒙古3米9大锅冰煮30只羊",
+        "onboard_time": 1706924010,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134260,
+        "num": 134260,
+        "word": "龙年生鲜价格不升反降",
+        "onboard_time": 1706925329,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131779,
+        "num": 131779,
+        "word": "肖战觉得自己作品还是太少",
+        "onboard_time": 1706905396,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126662,
+        "num": 126662,
+        "word": "幸好有这么好的奶奶和姑姑",
+        "onboard_time": 1706924307,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "杨波出轨风波",
+        "onboard_time": 1706852254,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120850,
+        "num": 120850,
+        "word": "看得出来小孩哥确实是闯祸了",
+        "onboard_time": 1706920766,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
+        "onboard_time": 1706874030,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116993,
+        "num": 116993,
+        "word": "1岁外孙来家外公急忙砍竹子做围墙",
+        "onboard_time": 1706916320,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113492,
+        "num": 113492,
+        "word": "金地雄视频签售结束后说西八",
+        "onboard_time": 1706915423,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111053,
+        "num": 111053,
+        "word": "12306回应无座票去一等座",
+        "onboard_time": 1706880693,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101255,
+        "num": 101255,
+        "word": "南方小年",
+        "onboard_time": 1706917582,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97045,
+        "num": 97045,
+        "word": "王珞丹同一件礼服12年前后对比",
+        "onboard_time": 1706895861,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
