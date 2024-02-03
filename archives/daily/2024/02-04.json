@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706978094990,
+  "endTime": 1706980515168,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -19,6 +19,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1106985,
+      "num": 1106985,
+      "word": "上海恢复浦东机场网约车",
+      "onboard_time": 1706976868,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077437,
       "num": 926420,
       "word": "因为彩礼我和相恋8年的男友分手了",
@@ -35,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 802697,
-      "num": 802697,
-      "word": "上海恢复浦东机场网约车",
-      "onboard_time": 1706976868,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 601025,
+      "num": 601025,
+      "word": "终于等到肖战",
+      "onboard_time": 1706977709,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 593342,
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380120,
-      "num": 289135,
-      "word": "终于等到肖战",
-      "onboard_time": 1706977709,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330643,
       "num": 330643,
       "word": "花花和妹妹越来越黏糊了",
@@ -155,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254120,
-      "num": 157710,
+      "raw_hot": 254596,
+      "num": 254596,
       "word": "央视评陈立农最新舞台",
       "onboard_time": 1706973992,
       "rank": 23,
@@ -251,6 +251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176374,
+      "num": 126810,
+      "word": "白客 娱乐圈知名Beta",
+      "onboard_time": 1706979086,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164149,
+      "num": 104340,
+      "word": "于正盛赞卢昱晓",
+      "onboard_time": 1706979684,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161544,
       "num": 161544,
       "word": "被EDG菜笑啦",
@@ -265,6 +281,14 @@
       "onboard_time": 1706970695,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151662,
+      "num": 104080,
+      "word": "吴磊少年人夫感",
+      "onboard_time": 1706979025,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 151626,
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95522,
+      "num": 95522,
+      "word": "天天福",
+      "onboard_time": 1706978428,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89221,
       "num": 124857,
       "word": "浦东机场",
@@ -371,7 +403,15 @@
       "category": "美食"
     },
     {
-      "raw_hot": 75276,
+      "raw_hot": 83094,
+      "num": 79543,
+      "word": "周深身边首唱",
+      "onboard_time": 1706979566,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 80214,
       "num": 137853,
       "word": "小兰的365个初恋瞬间",
       "onboard_time": 1706975310,
@@ -422,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#老百姓的事情是最重要的事情#"
+    },
+    {
+      "word": "#习主席的新春祝福#"
     }
   ]
 }
