@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706970831889,
+  "endTime": 1706973384523,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -635,6 +635,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1047395,
+      "num": 1047395,
+      "word": "爱情公寓 一镜到底",
+      "onboard_time": 1706969072,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1047176,
       "num": 1047176,
       "word": "铁路回应为何12306售罄携程有票",
@@ -905,14 +913,6 @@
       "onboard_time": 1706761773,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 814759,
-      "num": 420876,
-      "word": "爱情公寓 一镜到底",
-      "onboard_time": 1706969072,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 807383,
@@ -1379,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621850,
+      "num": 604399,
+      "word": "0713合体",
+      "onboard_time": 1706971653,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620968,
       "num": 620968,
       "word": "江歌妈妈谈重庆姐弟坠亡案",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1706829142,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569731,
+      "num": 569731,
+      "word": "小品搭子 难看",
+      "onboard_time": 1706969436,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 569443,
@@ -1772,7 +1788,7 @@
     },
     {
       "raw_hot": 525230,
-      "num": 253838,
+      "num": 261245,
       "word": "白鹿梦回姜雪宁",
       "onboard_time": 1706969072,
       "rank": 25,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1706752288,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 519922,
+      "num": 261307,
+      "word": "单依纯一开口梦回仙剑一",
+      "onboard_time": 1706972254,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 517526,
@@ -1937,6 +1961,14 @@
       "onboard_time": 1706764829,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 486398,
+      "num": 191720,
+      "word": "因为彩礼我和相恋8年的男友分手了",
+      "onboard_time": 1706968953,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486219,
@@ -2179,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438330,
-      "num": 191720,
-      "word": "因为彩礼我和相恋8年的男友分手了",
-      "onboard_time": 1706968953,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437451,
       "num": 274293,
       "word": "为啥车厘子1月价格比11月低那么多",
@@ -2283,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423463,
+      "num": 604515,
+      "word": "酒后出现5个症状可能是猝死前兆",
+      "onboard_time": 1706965472,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 423411,
       "num": 423411,
       "word": "kpop历代级美貌",
@@ -2339,6 +2371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 413414,
+      "num": 156061,
+      "word": "林允穿了新中式",
+      "onboard_time": 1706972374,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413364,
       "num": 413364,
       "word": "黄子韬登机牌",
@@ -2393,14 +2433,6 @@
       "onboard_time": 1706759070,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 404946,
-      "num": 404946,
-      "word": "酒后出现5个症状可能是猝死前兆",
-      "onboard_time": 1706965472,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 404846,
@@ -2465,6 +2497,14 @@
       "onboard_time": 1706844811,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392546,
+      "num": 189610,
+      "word": "疑似患癌者最终7%确诊",
+      "onboard_time": 1706970695,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 392067,
@@ -2539,12 +2579,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 386612,
+      "num": 187455,
+      "word": "白鹿给王星越打伞",
+      "onboard_time": 1706970813,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386518,
       "num": 386518,
       "word": "女装退货率高的原因",
       "onboard_time": 1706850035,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 385834,
+      "num": 153569,
+      "word": "买车厘子不能只看几个J",
+      "onboard_time": 1706971476,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 383397,
+      "num": 383397,
+      "word": "马斯克宣布更改特斯拉注册地",
+      "onboard_time": 1706970150,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 381627,
@@ -2819,14 +2883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353375,
-      "num": 191611,
-      "word": "小品搭子 难看",
-      "onboard_time": 1706969436,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "咖啡哥 微笑姐",
@@ -3065,6 +3121,14 @@
       "onboard_time": 1706772087,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322106,
+      "num": 151984,
+      "word": "gidle 认哥",
+      "onboard_time": 1706972913,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 319851,
@@ -3683,6 +3747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262835,
+      "num": 1407671,
+      "word": "2024网络视听盛典",
+      "onboard_time": 1706965592,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262332,
       "num": 262332,
       "word": "迪丽热巴成都活动人气",
@@ -3753,6 +3825,14 @@
       "onboard_time": 1706941110,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258211,
+      "num": 186078,
+      "word": "檀健次第一个出场",
+      "onboard_time": 1706970511,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 257206,
@@ -4091,6 +4171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231959,
+      "num": 231959,
+      "word": "大爷掏出补光灯那刻我人都惊呆了",
+      "onboard_time": 1706969794,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231128,
       "num": 231128,
       "word": "菏泽干部",
@@ -4169,14 +4257,6 @@
       "onboard_time": 1706886394,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227554,
-      "num": 1407671,
-      "word": "2024网络视听盛典",
-      "onboard_time": 1706965592,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 227392,
@@ -5035,14 +5115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197085,
-      "num": 187455,
-      "word": "白鹿给王星越打伞",
-      "onboard_time": 1706970813,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197081,
       "num": 166115,
       "word": "白鹿解锁第22套高定",
@@ -5129,14 +5201,6 @@
       "onboard_time": 1706799512,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194520,
-      "num": 186078,
-      "word": "檀健次第一个出场",
-      "onboard_time": 1706970511,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 194501,
@@ -5265,6 +5329,14 @@
       "onboard_time": 1706955749,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192066,
+      "num": 145117,
+      "word": "街舞少年",
+      "onboard_time": 1706972374,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 192044,
@@ -5891,6 +5963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176383,
+      "num": 146687,
+      "word": "宝宝不唱儿歌过渡一下吗",
+      "onboard_time": 1706972795,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "坠亡姐弟外婆称心里会痛一辈子",
@@ -6283,6 +6363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165644,
+      "num": 149646,
+      "word": "终于理解我妈了",
+      "onboard_time": 1706971415,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165603,
       "num": 165603,
       "word": "山东专升本招生计划公布",
@@ -6545,6 +6633,14 @@
       "onboard_time": 1706871152,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156906,
+      "num": 156906,
+      "word": "怜爱jiejie",
+      "onboard_time": 1706973095,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 156795,
@@ -6969,6 +7065,14 @@
       "onboard_time": 1706960972,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145749,
+      "num": 145749,
+      "word": "武汉暴雪",
+      "onboard_time": 1706973153,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145704,
@@ -7667,14 +7771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128992,
-      "num": 191530,
-      "word": "大爷掏出补光灯那刻我人都惊呆了",
-      "onboard_time": 1706969794,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128863,
       "num": 128863,
       "word": "全国各地年夜饭卷起来了",
@@ -7937,6 +8033,14 @@
       "onboard_time": 1706878171,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122018,
+      "num": 144899,
+      "word": "3岁萌娃坐6小时动车一路上不哭闹",
+      "onboard_time": 1706971954,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121043,
@@ -8283,14 +8387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111273,
-      "num": 189610,
-      "word": "疑似患癌者最终7%确诊",
-      "onboard_time": 1706970695,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -8419,6 +8515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107509,
+      "num": 144796,
+      "word": "这才是小年该有的样子吧",
+      "onboard_time": 1706972795,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107333,
       "num": 189071,
       "word": "贺希宁太强了",
@@ -8441,6 +8545,14 @@
       "onboard_time": 1706958810,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106302,
+      "num": 144776,
+      "word": "张家齐黄建杰混双十米台夺冠",
+      "onboard_time": 1706971833,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 105416,
@@ -8723,12 +8835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91361,
+      "num": 144544,
+      "word": "年会上显眼包的才艺有多绝",
+      "onboard_time": 1706971114,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90260,
       "num": 109368,
       "word": "谷爱凌和奶奶过小年",
       "onboard_time": 1706949511,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88190,
+      "num": 144498,
+      "word": "缓解咽喉不适喝一杯橙柠茶吧",
+      "onboard_time": 1706973273,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87977,
@@ -8947,6 +9075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57153,
+      "num": 199077,
+      "word": "全职儿女梦中情职",
+      "onboard_time": 1706966734,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55965,
       "num": 55965,
       "word": "林亦扬占有欲",
@@ -9049,14 +9185,6 @@
       "onboard_time": 1706843012,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48388,
-      "num": 199077,
-      "word": "全职儿女梦中情职",
-      "onboard_time": 1706966734,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 48097,
