@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706988845582,
+  "endTime": 1706991484108,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 92071,
-      "num": 56502,
+      "num": 58756,
       "word": "大鹏发文纪念赵英俊去世三周年",
       "onboard_time": 1706984960,
       "rank": 35,
@@ -508,11 +508,19 @@
     },
     {
       "raw_hot": 59848,
-      "num": 46067,
+      "num": 46672,
       "word": "湖南春晚 抖音梗",
       "onboard_time": 1706983943,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55157,
+      "num": 21655,
+      "word": "赌王四太穿苗服跳民族舞",
+      "onboard_time": 1706988019,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 49479,
@@ -531,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45500,
-      "num": 21655,
-      "word": "赌王四太穿苗服跳民族舞",
-      "onboard_time": 1706988019,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 37719,
+      "num": 31617,
+      "word": "同龄人谈恋爱",
+      "onboard_time": 1706988676,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 29251,
@@ -555,12 +563,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24131,
-      "num": 20561,
-      "word": "同龄人谈恋爱",
-      "onboard_time": 1706988676,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 23891,
+      "num": 20641,
+      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
+      "onboard_time": 1706991076,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 21166,
@@ -571,7 +579,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11473,
+      "raw_hot": 18242,
+      "num": 20630,
+      "word": "直击寒潮天气湖北高速春运路况",
+      "onboard_time": 1706989457,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12625,
       "num": 20519,
       "word": "为什么流感发病48小时是黄金自救期",
       "onboard_time": 1706988319,
