@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706981650933,
+  "endTime": 1706984420464,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 223662,
-      "num": 168479,
+      "num": 205765,
       "word": "白客 娱乐圈知名Beta",
       "onboard_time": 1706979086,
       "rank": 15,
@@ -275,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160855,
+      "num": 90418,
+      "word": "冯巩相声",
+      "onboard_time": 1706980583,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157513,
       "num": 157513,
       "word": "疑似患癌者最终7%确诊",
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128062,
-      "num": 81167,
-      "word": "冯巩相声",
-      "onboard_time": 1706980583,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126449,
       "num": 138011,
       "word": "大爷掏出补光灯那刻我人都惊呆了",
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92222,
+      "num": 62351,
+      "word": "恭王府偶遇眉姐姐温太医",
+      "onboard_time": 1706981902,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89221,
       "num": 124857,
       "word": "浦东机场",
@@ -425,6 +433,14 @@
       "onboard_time": 1706975310,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 77595,
+      "num": 46782,
+      "word": "金希澈泡泡头像变成了seventeen",
+      "onboard_time": 1706983465,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 72383,
@@ -473,6 +489,30 @@
       "onboard_time": 1706971954,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49479,
+      "num": 49479,
+      "word": "恨不得连夜把书读烂",
+      "onboard_time": 1706982262,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 46810,
+      "num": 37087,
+      "word": "湖南春晚 抖音梗",
+      "onboard_time": 1706983943,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46747,
+      "num": 35946,
+      "word": "在暴雪时分",
+      "onboard_time": 1706960492,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 29251,

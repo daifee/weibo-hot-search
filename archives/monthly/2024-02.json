@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706981650933,
+  "endTime": 1706984420464,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -4444,7 +4444,7 @@
     },
     {
       "raw_hot": 223662,
-      "num": 168479,
+      "num": 205765,
       "word": "白客 娱乐圈知名Beta",
       "onboard_time": 1706979086,
       "rank": 15,
@@ -6675,6 +6675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160855,
+      "num": 90418,
+      "word": "冯巩相声",
+      "onboard_time": 1706980583,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160760,
       "num": 160760,
       "word": "肖战张婧仪藏海传路透",
@@ -7955,14 +7963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128062,
-      "num": 81167,
-      "word": "冯巩相声",
-      "onboard_time": 1706980583,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128033,
       "num": 128033,
       "word": "北京台春晚 时代少年团",
@@ -8955,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92222,
+      "num": 62351,
+      "word": "恭王府偶遇眉姐姐温太医",
+      "onboard_time": 1706981902,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92073,
       "num": 92073,
       "word": "1对新人用8串真香蕉装饰宝马婚车",
@@ -9129,6 +9137,14 @@
       "onboard_time": 1706818817,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77595,
+      "num": 46782,
+      "word": "金希澈泡泡头像变成了seventeen",
+      "onboard_time": 1706983465,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 76555,
@@ -9347,6 +9363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49479,
+      "num": 49479,
+      "word": "恨不得连夜把书读烂",
+      "onboard_time": 1706982262,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49086,
       "num": 270207,
       "word": "蛋仔新春爆料",
@@ -9385,6 +9409,14 @@
       "onboard_time": 1706916619,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46810,
+      "num": 37087,
+      "word": "湖南春晚 抖音梗",
+      "onboard_time": 1706983943,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 44373,
