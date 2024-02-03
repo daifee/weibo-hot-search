@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706974441035,
+  "endTime": 1706977265915,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -297,6 +297,14 @@
       "onboard_time": 1706876372,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1593981,
+      "num": 1593981,
+      "word": "武汉暴雪",
+      "onboard_time": 1706973153,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1557066,
@@ -611,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1077437,
+      "num": 873540,
+      "word": "因为彩礼我和相恋8年的男友分手了",
+      "onboard_time": 1706968953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076158,
       "num": 1076158,
       "word": "蓝亦菲真去世了",
@@ -771,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 939227,
+      "num": 939227,
+      "word": "小品 烂梗",
+      "onboard_time": 1706975010,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 926532,
       "num": 926532,
       "word": "邓男子大变活人沈梦辰",
@@ -857,6 +881,14 @@
       "onboard_time": 1706841270,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857420,
+      "num": 857420,
+      "word": "宋亚轩舞台上好憔悴",
+      "onboard_time": 1706976149,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 853226,
@@ -1280,14 +1312,6 @@
       "word": "刘暖曦再审申请被法院驳回",
       "onboard_time": 1706880274,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648511,
-      "num": 648511,
-      "word": "武汉暴雪",
-      "onboard_time": 1706973153,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1851,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515267,
+      "num": 515267,
+      "word": "当儿子决定穿裙子上学",
+      "onboard_time": 1706973393,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515058,
       "num": 515058,
       "word": "高速惊现老头乐不到50迈一路压车",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1706764829,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 486398,
-      "num": 462870,
-      "word": "因为彩礼我和相恋8年的男友分手了",
-      "onboard_time": 1706968953,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486219,
@@ -2369,6 +2393,14 @@
       "onboard_time": 1706862333,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419858,
+      "num": 234937,
+      "word": "时代少年团有点甜",
+      "onboard_time": 1706974171,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 419564,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1706855188,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 311075,
-      "num": 200236,
-      "word": "时代少年团有点甜",
-      "onboard_time": 1706974171,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 310881,
@@ -4155,6 +4179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235143,
+      "num": 235143,
+      "word": "上海恢复浦东机场网约车",
+      "onboard_time": 1706976868,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234477,
       "num": 234477,
       "word": "奔驰车主逆行被处罚款200元记3分",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1706956231,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 230938,
+      "num": 150826,
+      "word": "小品套娃 内涵平台",
+      "onboard_time": 1706975610,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 230268,
@@ -4667,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212419,
+      "num": 120946,
+      "word": "时代少年团变魔术",
+      "onboard_time": 1706975074,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212114,
       "num": 212114,
       "word": "摔倒了一定不要马上站起来",
@@ -4801,6 +4849,14 @@
       "onboard_time": 1706947532,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206855,
+      "num": 120804,
+      "word": "不敢想嘘嘘该有多幸福",
+      "onboard_time": 1706976028,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 206832,
@@ -5081,14 +5137,6 @@
       "onboard_time": 1706871933,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199651,
-      "num": 199651,
-      "word": "当儿子决定穿裙子上学",
-      "onboard_time": 1706973393,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199548,
@@ -5937,6 +5985,14 @@
       "onboard_time": 1706949090,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178359,
+      "num": 120410,
+      "word": "许凯阿兰合唱舞台",
+      "onboard_time": 1706976028,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178316,
@@ -8659,6 +8715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103762,
+      "num": 120633,
+      "word": "拜仁vs门兴",
+      "onboard_time": 1706975909,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103655,
       "num": 103655,
       "word": "在暴雪时分预告",
@@ -9097,6 +9161,14 @@
       "onboard_time": 1706949331,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62953,
+      "num": 119054,
+      "word": "小兰的365个初恋瞬间",
+      "onboard_time": 1706975310,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 62205,
