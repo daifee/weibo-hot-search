@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706931240139,
+  "endTime": 1706933955305,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -555,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 991110,
+      "num": 991110,
+      "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+      "onboard_time": 1706922750,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976310,
       "num": 976310,
       "word": "张婧仪头像",
@@ -609,14 +617,6 @@
       "onboard_time": 1706798915,
       "rank": 17,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 908248,
-      "num": 908248,
-      "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
-      "onboard_time": 1706922750,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 902129,
@@ -777,6 +777,14 @@
       "onboard_time": 1706755588,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 774713,
+      "num": 774713,
+      "word": "2女孩疑遭人拐卖上高速呼喊求助",
+      "onboard_time": 1706930188,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 760605,
@@ -1371,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536116,
+      "num": 536116,
+      "word": "刘强东送老家乡亲7吨年货礼盒",
+      "onboard_time": 1706931030,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 532934,
       "num": 532934,
       "word": "河南大雪胖东来在门口给顾客身上扫雪",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1706858308,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 515454,
+      "num": 515454,
+      "word": "每周休息两天半的公司现在怎么样了",
+      "onboard_time": 1706928210,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515058,
@@ -1619,6 +1643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 461437,
+      "num": 461437,
+      "word": "王者荣耀皮肤返场",
+      "onboard_time": 1706932889,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 461398,
       "num": 461398,
       "word": "宁波体校回应杨倩教练讨要奖金",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1706848477,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 442538,
+      "num": 442538,
+      "word": "乐华声明",
+      "onboard_time": 1706929048,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 441436,
@@ -1787,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422642,
+      "num": 422642,
+      "word": "荣梓杉成年了",
+      "onboard_time": 1706932830,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421329,
       "num": 421329,
       "word": "蒋龙当王新军面喊一璐平安",
@@ -1848,14 +1896,6 @@
       "word": "迪丽热巴成都",
       "onboard_time": 1706842290,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 400577,
-      "num": 400577,
-      "word": "乐华声明",
-      "onboard_time": 1706929048,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2835,6 +2875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264600,
+      "num": 264600,
+      "word": "A股呈现中期牛熊轮回长期逐步上升",
+      "onboard_time": 1706932769,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 263343,
       "num": 263343,
       "word": "南方小年",
@@ -2875,12 +2923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260144,
-      "num": 260144,
-      "word": "每周休息两天半的公司现在怎么样了",
-      "onboard_time": 1706928210,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 261219,
+      "num": 261219,
+      "word": "过年三倍工资你会选择加班吗",
+      "onboard_time": 1706931569,
+      "rank": 22,
+      "category": "社会议题"
     },
     {
       "raw_hot": 259187,
@@ -2913,6 +2961,14 @@
       "onboard_time": 1706763935,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 255676,
@@ -2977,14 +3033,6 @@
       "onboard_time": 1706750012,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250130,
-      "num": 250130,
-      "word": "2女孩疑遭人拐卖上高速呼喊求助",
-      "onboard_time": 1706930188,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249987,
@@ -3291,6 +3339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225731,
+      "num": 225731,
+      "word": "网剧冬至杀青",
+      "onboard_time": 1706933011,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225432,
       "num": 193883,
       "word": "张艺谋夸刘耀文是电影脸",
@@ -3345,6 +3401,14 @@
       "onboard_time": 1706749469,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222215,
+      "num": 222215,
+      "word": "兔子战术惊呆老外",
+      "onboard_time": 1706931087,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 222214,
@@ -3513,6 +3577,14 @@
       "onboard_time": 1706754990,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215117,
+      "num": 215117,
+      "word": "惠英红给杨幂画的葫芦",
+      "onboard_time": 1706933731,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 215104,
@@ -3939,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194293,
+      "num": 194293,
+      "word": "晚点",
+      "onboard_time": 1706932950,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193832,
       "num": 193832,
       "word": "代号鸢",
@@ -3953,6 +4033,14 @@
       "onboard_time": 1706867973,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193421,
+      "num": 193421,
+      "word": "宋亚轩晒唯一舞台照",
+      "onboard_time": 1706933248,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 193202,
@@ -4755,14 +4843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168115,
-      "num": 168115,
-      "word": "刘强东送老家乡亲7吨年货礼盒",
-      "onboard_time": 1706931030,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 167143,
       "num": 167143,
       "word": "柯南剧场版终于有快青了",
@@ -4929,6 +5009,14 @@
       "onboard_time": 1706872833,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163126,
+      "num": 163126,
+      "word": "苏醒爸爸的综艺感太强了",
+      "onboard_time": 1706932410,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 163011,
@@ -5139,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154068,
+      "num": 154068,
+      "word": "吴磊赵今麦童年照vs情侣照",
+      "onboard_time": 1706930791,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153707,
       "num": 153707,
       "word": "年是什么意思",
@@ -5331,14 +5427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147216,
-      "num": 147216,
-      "word": "吴磊赵今麦童年照vs情侣照",
-      "onboard_time": 1706930791,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147215,
       "num": 147215,
       "word": "扫福",
@@ -5377,6 +5465,14 @@
       "onboard_time": 1706755290,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146768,
+      "num": 146768,
+      "word": "风月不相关官宣惠英红",
+      "onboard_time": 1706933189,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146635,
@@ -5435,6 +5531,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144379,
+      "num": 144379,
+      "word": "杨波段子",
+      "onboard_time": 1706933789,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144352,
+      "num": 144352,
+      "word": "孟佳用一支舞蹈告别33岁",
+      "onboard_time": 1706932589,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143920,
       "num": 143920,
       "word": "回南天起床看到克系现象",
@@ -5449,14 +5561,6 @@
       "onboard_time": 1706695353,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143321,
-      "num": 143321,
-      "word": "兔子战术惊呆老外",
-      "onboard_time": 1706931087,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 142856,
@@ -6915,6 +7019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75209,
+      "num": 798958,
+      "word": "有一种年味儿叫置办年货",
+      "onboard_time": 1706932950,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74413,
       "num": 74413,
       "word": "刘德华扫楼听到恭喜发财的反应",
@@ -7049,6 +7161,14 @@
       "onboard_time": 1706849075,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51471,
+      "num": 422993,
+      "word": "我家蛋仔上央视了",
+      "onboard_time": 1706932830,
+      "rank": 14,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 51231,

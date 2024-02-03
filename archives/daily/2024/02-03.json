@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706931240139,
+  "endTime": 1706933955305,
   "band_list": [
     {
       "raw_hot": 1882120,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 908248,
-      "num": 908248,
+      "raw_hot": 991110,
+      "num": 991110,
       "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
       "onboard_time": 1706922750,
       "rank": 40,
@@ -72,6 +72,14 @@
       "word": "小金豆两个月在尔滨购房共4650套",
       "onboard_time": 1706915120,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774713,
+      "num": 774713,
+      "word": "2女孩疑遭人拐卖上高速呼喊求助",
+      "onboard_time": 1706930188,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 536116,
+      "num": 536116,
+      "word": "刘强东送老家乡亲7吨年货礼盒",
+      "onboard_time": 1706931030,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 528853,
       "num": 528853,
       "word": "打玻尿酸 馒化",
@@ -184,6 +200,14 @@
       "word": "曝职校男生诱导11岁女童发私密照",
       "onboard_time": 1706921671,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515454,
+      "num": 515454,
+      "word": "每周休息两天半的公司现在怎么样了",
+      "onboard_time": 1706928210,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -243,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461437,
+      "num": 461437,
+      "word": "王者荣耀皮肤返场",
+      "onboard_time": 1706932889,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 457052,
       "num": 457052,
       "word": "白敬亭开了咖啡店",
@@ -259,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 442538,
+      "num": 442538,
+      "word": "乐华声明",
+      "onboard_time": 1706929048,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424444,
       "num": 424444,
       "word": "金秀贤斥88亿韩元购房",
@@ -267,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400577,
-      "num": 400577,
-      "word": "乐华声明",
-      "onboard_time": 1706929048,
-      "rank": 16,
+      "raw_hot": 422642,
+      "num": 422642,
+      "word": "荣梓杉成年了",
+      "onboard_time": 1706932830,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -379,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 264600,
+      "num": 264600,
+      "word": "A股呈现中期牛熊轮回长期逐步上升",
+      "onboard_time": 1706932769,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 263343,
       "num": 263343,
       "word": "南方小年",
@@ -387,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261219,
+      "num": 261219,
+      "word": "过年三倍工资你会选择加班吗",
+      "onboard_time": 1706931569,
+      "rank": 22,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 260695,
       "num": 260695,
       "word": "董宇辉采访刘德华7分钟高能总结",
       "onboard_time": 1706884774,
       "rank": 14,
       "category": "互联网,艺人"
-    },
-    {
-      "raw_hot": 260144,
-      "num": 260144,
-      "word": "每周休息两天半的公司现在怎么样了",
-      "onboard_time": 1706928210,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259161,
@@ -427,12 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250130,
-      "num": 250130,
-      "word": "2女孩疑遭人拐卖上高速呼喊求助",
-      "onboard_time": 1706930188,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 248350,
@@ -499,6 +547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225731,
+      "num": 225731,
+      "word": "网剧冬至杀青",
+      "onboard_time": 1706933011,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222215,
+      "num": 222215,
+      "word": "兔子战术惊呆老外",
+      "onboard_time": 1706931087,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220884,
       "num": 213077,
       "word": "第一批回家的小猫已经烤上火了",
@@ -529,6 +593,14 @@
       "onboard_time": 1706921971,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215117,
+      "num": 215117,
+      "word": "惠英红给杨幂画的葫芦",
+      "onboard_time": 1706933731,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 213363,
@@ -593,6 +665,22 @@
       "onboard_time": 1706927789,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194293,
+      "num": 194293,
+      "word": "晚点",
+      "onboard_time": 1706932950,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193421,
+      "num": 193421,
+      "word": "宋亚轩晒唯一舞台照",
+      "onboard_time": 1706933248,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 190713,
@@ -675,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168115,
-      "num": 168115,
-      "word": "刘强东送老家乡亲7吨年货礼盒",
-      "onboard_time": 1706931030,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 166749,
       "num": 166749,
       "word": "经常吃冷米饭有助于改善脂肪肝",
@@ -713,6 +793,22 @@
       "onboard_time": 1706925990,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163126,
+      "num": 163126,
+      "word": "苏醒爸爸的综艺感太强了",
+      "onboard_time": 1706932410,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154068,
+      "num": 154068,
+      "word": "吴磊赵今麦童年照vs情侣照",
+      "onboard_time": 1706930791,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 153055,
@@ -755,11 +851,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147216,
-      "num": 147216,
-      "word": "吴磊赵今麦童年照vs情侣照",
-      "onboard_time": 1706930791,
-      "rank": 38,
+      "raw_hot": 146768,
+      "num": 146768,
+      "word": "风月不相关官宣惠英红",
+      "onboard_time": 1706933189,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -771,12 +867,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143321,
-      "num": 143321,
-      "word": "兔子战术惊呆老外",
-      "onboard_time": 1706931087,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 144379,
+      "num": 144379,
+      "word": "杨波段子",
+      "onboard_time": 1706933789,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144352,
+      "num": 144352,
+      "word": "孟佳用一支舞蹈告别33岁",
+      "onboard_time": 1706932589,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 141260,
@@ -889,6 +993,14 @@
       "onboard_time": 1706930970,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129741,
+      "num": 129741,
+      "word": "小年",
+      "onboard_time": 1706933912,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129394,
@@ -1163,6 +1275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75209,
+      "num": 798958,
+      "word": "有一种年味儿叫置办年货",
+      "onboard_time": 1706932950,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74045,
       "num": 74045,
       "word": "过年红包掏空了年迈父亲一年的收入",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1706914818,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 51471,
+      "num": 422993,
+      "word": "我家蛋仔上央视了",
+      "onboard_time": 1706932830,
+      "rank": 14,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 47519,

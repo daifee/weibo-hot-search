@@ -1,0 +1,410 @@
+{
+  "runTime": 1706933955305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202488,
+        "num": 1202488,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 991110,
+        "num": 991110,
+        "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+        "onboard_time": 1706922750,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75209,
+        "num": 798958,
+        "word": "有一种年味儿叫置办年货",
+        "onboard_time": 1706932950,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793362,
+        "num": 793362,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774713,
+        "num": 774713,
+        "word": "2女孩疑遭人拐卖上高速呼喊求助",
+        "onboard_time": 1706930188,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753586,
+        "num": 753586,
+        "word": "70岁的姥姥离婚了",
+        "onboard_time": 1706918786,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 692063,
+        "num": 692063,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646934,
+        "num": 646934,
+        "word": "王一博被无故预定航班",
+        "onboard_time": 1706928088,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536116,
+        "num": 536116,
+        "word": "刘强东送老家乡亲7吨年货礼盒",
+        "onboard_time": 1706931030,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 515454,
+        "num": 515454,
+        "word": "每周休息两天半的公司现在怎么样了",
+        "onboard_time": 1706928210,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484276,
+        "num": 484276,
+        "word": "12306回应2名乘客买到同日同座票",
+        "onboard_time": 1706922148,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461437,
+        "num": 461437,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442538,
+        "num": 442538,
+        "word": "乐华声明",
+        "onboard_time": 1706929048,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425941,
+        "num": 425941,
+        "word": "暴雪时分 留学生",
+        "onboard_time": 1706926772,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51471,
+        "num": 422993,
+        "word": "我家蛋仔上央视了",
+        "onboard_time": 1706932830,
+        "rank": 14,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 422642,
+        "num": 422642,
+        "word": "荣梓杉成年了",
+        "onboard_time": 1706932830,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399743,
+        "num": 399743,
+        "word": "延吉公主",
+        "onboard_time": 1706927129,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 382918,
+        "num": 382918,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274930,
+        "num": 274930,
+        "word": "前TVB演员河国荣烧炭自杀",
+        "onboard_time": 1706916380,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273152,
+        "num": 273152,
+        "word": "美军空袭已造成13人死亡",
+        "onboard_time": 1706927307,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264600,
+        "num": 264600,
+        "word": "A股呈现中期牛熊轮回长期逐步上升",
+        "onboard_time": 1706932769,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262244,
+        "num": 262244,
+        "word": "死亡万花筒原著粉",
+        "onboard_time": 1706919447,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261219,
+        "num": 261219,
+        "word": "过年三倍工资你会选择加班吗",
+        "onboard_time": 1706931569,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 256010,
+        "num": 256010,
+        "word": "PPT 骗骗他",
+        "onboard_time": 1706932889,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225731,
+        "num": 225731,
+        "word": "网剧冬至杀青",
+        "onboard_time": 1706933011,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222215,
+        "num": 222215,
+        "word": "兔子战术惊呆老外",
+        "onboard_time": 1706931087,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215117,
+        "num": 215117,
+        "word": "惠英红给杨幂画的葫芦",
+        "onboard_time": 1706933731,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210712,
+        "num": 210712,
+        "word": "在暴雪时分 冬装穿搭",
+        "onboard_time": 1706929108,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206179,
+        "num": 206179,
+        "word": "她42岁孤身出国读博",
+        "onboard_time": 1706928930,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132815,
+        "num": 204439,
+        "word": "美军空袭伊拉克叙利亚",
+        "onboard_time": 1706926470,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204048,
+        "num": 204048,
+        "word": "为啥手机最后1%的电能用很久",
+        "onboard_time": 1706922450,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203757,
+        "num": 203757,
+        "word": "EDG更换首发AD被处罚",
+        "onboard_time": 1706928628,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194293,
+        "num": 194293,
+        "word": "晚点",
+        "onboard_time": 1706932950,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193421,
+        "num": 193421,
+        "word": "宋亚轩晒唯一舞台照",
+        "onboard_time": 1706933248,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179613,
+        "num": 179613,
+        "word": "打玻尿酸 馒化",
+        "onboard_time": 1706916683,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 165387,
+        "num": 165387,
+        "word": "时代少年团外务",
+        "onboard_time": 1706929288,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165273,
+        "num": 165273,
+        "word": "不出门原因 不是i人是q人",
+        "onboard_time": 1706929830,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163126,
+        "num": 163126,
+        "word": "苏醒爸爸的综艺感太强了",
+        "onboard_time": 1706932410,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158155,
+        "num": 158155,
+        "word": "媒体三问中国小动物保护协会",
+        "onboard_time": 1706930491,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157108,
+        "num": 157108,
+        "word": "美甲预约",
+        "onboard_time": 1706928150,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154068,
+        "num": 154068,
+        "word": "吴磊赵今麦童年照vs情侣照",
+        "onboard_time": 1706930791,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151792,
+        "num": 151792,
+        "word": "郭德纲开场 岳云鹏掉泪",
+        "onboard_time": 1706926169,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146768,
+        "num": 146768,
+        "word": "风月不相关官宣惠英红",
+        "onboard_time": 1706933189,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145381,
+        "num": 145381,
+        "word": "王源又回学校了",
+        "onboard_time": 1706927607,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581018,
+        "num": 144986,
+        "word": "霸王茶姬抽奖",
+        "onboard_time": 1706928268,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144379,
+        "num": 144379,
+        "word": "杨波段子",
+        "onboard_time": 1706933789,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144352,
+        "num": 144352,
+        "word": "孟佳用一支舞蹈告别33岁",
+        "onboard_time": 1706932589,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129741,
+        "num": 129741,
+        "word": "小年",
+        "onboard_time": 1706933912,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129096,
+        "num": 129096,
+        "word": "新余警方通报网传疑似家暴视频",
+        "onboard_time": 1706929830,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128343,
+        "num": 128343,
+        "word": "高速惊现老头乐不到50迈一路压车",
+        "onboard_time": 1706921728,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
