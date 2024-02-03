@@ -1,0 +1,410 @@
+{
+  "runTime": 1706948399189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497047,
+        "num": 1497047,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1283349,
+        "num": 1283349,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53527,
+        "num": 1032191,
+        "word": "网络视听盛典发布节目单",
+        "onboard_time": 1706948191,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 960669,
+        "num": 960669,
+        "word": "奔驰加塞事件缺失监控曝光",
+        "onboard_time": 1706943991,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594796,
+        "num": 594796,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553674,
+        "num": 553674,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509601,
+        "num": 509601,
+        "word": "甄嬛的尼姑服是M码的",
+        "onboard_time": 1706946869,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484999,
+        "num": 484999,
+        "word": "上海虹桥枢纽宣布网约车1小时免费停",
+        "onboard_time": 1706943270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440161,
+        "num": 440161,
+        "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
+        "onboard_time": 1706947109,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300902,
+        "num": 419484,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801409,
+        "num": 417682,
+        "word": "哭了三天",
+        "onboard_time": 1706942668,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473589,
+        "num": 417548,
+        "word": "伯克利偶遇王源",
+        "onboard_time": 1706943870,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413566,
+        "num": 413566,
+        "word": "韩红 李延亮",
+        "onboard_time": 1706941051,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304782,
+        "num": 304782,
+        "word": "医生说的清淡饮食好多人都搞错了",
+        "onboard_time": 1706946088,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297377,
+        "num": 297377,
+        "word": "出轨者以为的和真实的出轨原因",
+        "onboard_time": 1706939011,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409424,
+        "num": 279727,
+        "word": "杨幂戴龙角",
+        "onboard_time": 1706946571,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329822,
+        "num": 272484,
+        "word": "杨波 一啵三折",
+        "onboard_time": 1706938772,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229601,
+        "num": 229601,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216791,
+        "num": 216791,
+        "word": "体检中心体检正常5个月后查出乳腺癌",
+        "onboard_time": 1706936907,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214639,
+        "num": 214639,
+        "word": "福建小孩噩梦  擦楼梯",
+        "onboard_time": 1706940512,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 581026,
+        "num": 212903,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307113,
+        "num": 202870,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268814,
+        "num": 185221,
+        "word": "咖啡哥 微笑姐",
+        "onboard_time": 1706946571,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254312,
+        "num": 175373,
+        "word": "鞠婧祎cos公孙离",
+        "onboard_time": 1706940089,
+        "rank": 23,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 173873,
+        "num": 173873,
+        "word": "腾讯收购网元圣唐",
+        "onboard_time": 1706946210,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235503,
+        "num": 173271,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206985,
+        "num": 171260,
+        "word": "檀健次玫瑰胸针",
+        "onboard_time": 1706947532,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168930,
+        "num": 168930,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137983,
+        "num": 168294,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131519,
+        "num": 166585,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1706938889,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197081,
+        "num": 164844,
+        "word": "白鹿解锁第22套高定",
+        "onboard_time": 1706946989,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16978,
+        "num": 163973,
+        "word": "全民填词为家乡定制推广曲",
+        "onboard_time": 1706932589,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 161879,
+        "word": "韩国偶遇陈建州范玮琪一家",
+        "onboard_time": 1706945973,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161525,
+        "num": 161525,
+        "word": "杨波段子",
+        "onboard_time": 1706933789,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60939,
+        "num": 161137,
+        "word": "拍出大红大紫的新年氛围感",
+        "onboard_time": 1706945249,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161137,
+        "num": 161136,
+        "word": "开新能源车返乡过年有多难",
+        "onboard_time": 1706945429,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154413,
+        "num": 154413,
+        "word": "为什么广东人不容易抑郁",
+        "onboard_time": 1706947467,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152537,
+        "num": 152537,
+        "word": "肖战网络视听盛典彩排图",
+        "onboard_time": 1706942131,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148707,
+        "num": 148707,
+        "word": "原来跳水视角这么恐怖",
+        "onboard_time": 1706943689,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137000,
+        "num": 137000,
+        "word": "宋茜碎钻头纱",
+        "onboard_time": 1706947411,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132739,
+        "num": 132739,
+        "word": "王一博被无故预定航班",
+        "onboard_time": 1706928088,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126655,
+        "num": 126655,
+        "word": "韩国男星性侵粉丝判有期徒刑3年",
+        "onboard_time": 1706935349,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122801,
+        "num": 122801,
+        "word": "毛晓彤国风公主裙",
+        "onboard_time": 1706936249,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12204,
+        "num": 121078,
+        "word": "开启过年吃吃吃吃吃模式",
+        "onboard_time": 1706948070,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119827,
+        "num": 119827,
+        "word": "我用阿姨微信把她弟弟怼了",
+        "onboard_time": 1706937448,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114970,
+        "num": 114970,
+        "word": "刘亦菲同款公主头",
+        "onboard_time": 1706940569,
+        "rank": 45,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 108880,
+        "num": 108880,
+        "word": "风月不相关 刘宇宁田曦薇",
+        "onboard_time": 1706941289,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106486,
+        "num": 106486,
+        "word": "山东舰实战化训练高燃大片",
+        "onboard_time": 1706945490,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 103996,
+        "num": 103996,
+        "word": "晨起时这2个行为很伤肾",
+        "onboard_time": 1706942428,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99134,
+        "num": 99134,
+        "word": "属于济南人自己的顶级手办",
+        "onboard_time": 1706948370,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向全国各族人民拜年#"
+    }
+  }
+}

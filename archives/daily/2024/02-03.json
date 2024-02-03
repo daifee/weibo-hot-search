@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706945634830,
+  "endTime": 1706948399189,
   "band_list": [
     {
       "raw_hot": 1922130,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1247203,
-      "num": 1247203,
+      "raw_hot": 1283349,
+      "num": 1283349,
       "word": "浦东机场",
       "onboard_time": 1706937630,
       "rank": 26,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 960669,
+      "num": 960669,
+      "word": "奔驰加塞事件缺失监控曝光",
+      "onboard_time": 1706943991,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877428,
       "num": 877428,
       "word": "体检中心体检正常5个月后查出乳腺癌",
@@ -137,6 +145,14 @@
       "onboard_time": 1706935349,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801409,
+      "num": 417682,
+      "word": "哭了三天",
+      "onboard_time": 1706942668,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 797598,
@@ -203,14 +219,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 653550,
-      "num": 653550,
-      "word": "奔驰加塞事件缺失监控曝光",
-      "onboard_time": 1706943991,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634206,
       "num": 634206,
       "word": "菏泽警方通报协警铐走实习律师",
@@ -249,6 +257,14 @@
       "onboard_time": 1706926470,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 581026,
+      "num": 212903,
+      "word": "被公厕便池的水溅到会得病吗",
+      "onboard_time": 1706945610,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 553113,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509601,
+      "num": 509601,
+      "word": "甄嬛的尼姑服是M码的",
+      "onboard_time": 1706946869,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 493989,
       "num": 394997,
       "word": "致命游戏 好歹毒的演技",
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484999,
+      "num": 484999,
+      "word": "上海虹桥枢纽宣布网约车1小时免费停",
+      "onboard_time": 1706943270,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482088,
       "num": 482088,
       "word": "琳琳土豆",
@@ -379,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473589,
+      "num": 417548,
+      "word": "伯克利偶遇王源",
+      "onboard_time": 1706943870,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472770,
       "num": 472770,
       "word": "鞠婧祎cos公孙离",
       "onboard_time": 1706940089,
       "rank": 21,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 471528,
-      "num": 410813,
-      "word": "哭了三天",
-      "onboard_time": 1706942668,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 457052,
@@ -427,11 +459,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440756,
-      "num": 440756,
-      "word": "上海虹桥枢纽宣布网约车1小时免费停",
-      "onboard_time": 1706943270,
-      "rank": 14,
+      "raw_hot": 440161,
+      "num": 440161,
+      "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
+      "onboard_time": 1706947109,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -459,12 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 408546,
-      "num": 408546,
-      "word": "伯克利偶遇王源",
-      "onboard_time": 1706943870,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 409424,
+      "num": 279727,
+      "word": "杨幂戴龙角",
+      "onboard_time": 1706946571,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404846,
@@ -595,11 +627,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304782,
+      "num": 304782,
+      "word": "医生说的清淡饮食好多人都搞错了",
+      "onboard_time": 1706946088,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301570,
       "num": 247228,
       "word": "我用阿姨微信把她弟弟怼了",
       "onboard_time": 1706937448,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 297377,
+      "num": 297377,
+      "word": "出轨者以为的和真实的出轨原因",
+      "onboard_time": 1706939011,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -657,6 +705,14 @@
       "onboard_time": 1706895861,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268814,
+      "num": 185221,
+      "word": "咖啡哥 微笑姐",
+      "onboard_time": 1706946571,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 268458,
@@ -769,14 +825,6 @@
       "onboard_time": 1706937092,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229542,
-      "num": 229542,
-      "word": "出轨者以为的和真实的出轨原因",
-      "onboard_time": 1706939011,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 228468,
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206985,
+      "num": 171260,
+      "word": "檀健次玫瑰胸针",
+      "onboard_time": 1706947532,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206832,
       "num": 206832,
       "word": "威少25000分",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197081,
+      "num": 164844,
+      "word": "白鹿解锁第22套高定",
+      "onboard_time": 1706946989,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195704,
@@ -1099,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179311,
+      "num": 161879,
+      "word": "韩国偶遇陈建州范玮琪一家",
+      "onboard_time": 1706945973,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177710,
       "num": 454742,
       "word": "店门口的结婚假条写满了路人祝福",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1706888132,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173873,
+      "num": 173873,
+      "word": "腾讯收购网元圣唐",
+      "onboard_time": 1706946210,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 173849,
@@ -1203,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154413,
+      "num": 154413,
+      "word": "为什么广东人不容易抑郁",
+      "onboard_time": 1706947467,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154068,
       "num": 154068,
       "word": "吴磊赵今麦童年照vs情侣照",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1706923710,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 148707,
+      "num": 148707,
+      "word": "原来跳水视角这么恐怖",
+      "onboard_time": 1706943689,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148569,
@@ -1339,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137000,
+      "num": 137000,
+      "word": "宋茜碎钻头纱",
+      "onboard_time": 1706947411,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136751,
       "num": 134010,
       "word": "宋轶新加坡citywalk",
@@ -1433,14 +1537,6 @@
       "onboard_time": 1706944589,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 132347,
-      "num": 132347,
-      "word": "原来跳水视角这么恐怖",
-      "onboard_time": 1706943689,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 131983,
@@ -1619,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111578,
-      "num": 111578,
-      "word": "被公厕便池的水溅到会得病吗",
-      "onboard_time": 1706945610,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111297,
       "num": 111297,
       "word": "小猫咪不懂什么是过年",
@@ -1689,6 +1777,14 @@
       "onboard_time": 1706890170,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99134,
+      "num": 99134,
+      "word": "属于济南人自己的顶级手办",
+      "onboard_time": 1706948370,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 98708,
@@ -1843,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60939,
+      "num": 161137,
+      "word": "拍出大红大紫的新年氛围感",
+      "onboard_time": 1706945249,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58419,
       "num": 274583,
       "word": "中国男网出征戴维斯杯",
@@ -1857,6 +1961,14 @@
       "onboard_time": 1706894304,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53527,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 52171,
@@ -1923,14 +2035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35821,
-      "num": 142949,
-      "word": "拍出大红大紫的新年氛围感",
-      "onboard_time": 1706945249,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33297,
       "num": 1233111,
       "word": "2024网络视听盛典阵容官宣",
@@ -1979,6 +2083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16978,
+      "num": 163973,
+      "word": "全民填词为家乡定制推广曲",
+      "onboard_time": 1706932589,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16567,
       "num": 19288,
       "word": "宋亚轩躲C位",
@@ -2009,6 +2121,14 @@
       "onboard_time": 1706904918,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12204,
+      "num": 121078,
+      "word": "开启过年吃吃吃吃吃模式",
+      "onboard_time": 1706948070,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4833,

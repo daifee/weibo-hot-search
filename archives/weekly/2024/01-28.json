@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706945634830,
+  "endTime": 1706948399189,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -867,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1283349,
+      "num": 1283349,
+      "word": "浦东机场",
+      "onboard_time": 1706937630,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1280117,
       "num": 1280117,
       "word": "用氮气执行死刑",
@@ -920,14 +928,6 @@
       "word": "北京地震",
       "onboard_time": 1706397380,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1247203,
-      "num": 1247203,
-      "word": "浦东机场",
-      "onboard_time": 1706937630,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1408,6 +1408,14 @@
       "word": "济南奔驰车主逆行堵路放话不怕报警",
       "onboard_time": 1706779529,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960669,
+      "num": 960669,
+      "word": "奔驰加塞事件缺失监控曝光",
+      "onboard_time": 1706943991,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1929,6 +1937,14 @@
       "onboard_time": 1706703272,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801409,
+      "num": 417682,
+      "word": "哭了三天",
+      "onboard_time": 1706942668,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 800206,
@@ -2675,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653550,
-      "num": 653550,
-      "word": "奔驰加塞事件缺失监控曝光",
-      "onboard_time": 1706943991,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 653420,
       "num": 395516,
       "word": "谷歌工程师杀妻悲剧发生之前",
@@ -3217,6 +3225,14 @@
       "onboard_time": 1706783191,
       "rank": 23,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 581026,
+      "num": 212903,
+      "word": "被公厕便池的水溅到会得病吗",
+      "onboard_time": 1706945610,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 580268,
@@ -3787,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509601,
+      "num": 509601,
+      "word": "甄嬛的尼姑服是M码的",
+      "onboard_time": 1706946869,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508633,
       "num": 508633,
       "word": "今冬最强雨雪要来了",
@@ -4051,6 +4075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484999,
+      "num": 484999,
+      "word": "上海虹桥枢纽宣布网约车1小时免费停",
+      "onboard_time": 1706943270,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484615,
       "num": 484615,
       "word": "杨幂珠光白旗袍",
@@ -4203,6 +4235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473589,
+      "num": 417548,
+      "word": "伯克利偶遇王源",
+      "onboard_time": 1706943870,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473493,
       "num": 473493,
       "word": "十个勤天现身龙年春晚彩排",
@@ -4241,14 +4281,6 @@
       "onboard_time": 1706799215,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471528,
-      "num": 410813,
-      "word": "哭了三天",
-      "onboard_time": 1706942668,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 468959,
@@ -4539,14 +4571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 440756,
-      "num": 440756,
-      "word": "上海虹桥枢纽宣布网约车1小时免费停",
-      "onboard_time": 1706943270,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440532,
       "num": 440532,
       "word": "安吉都长这么高了",
@@ -4560,6 +4584,14 @@
       "word": "胡锡进",
       "onboard_time": 1706685451,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440161,
+      "num": 440161,
+      "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
+      "onboard_time": 1706947109,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4923,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409424,
+      "num": 279727,
+      "word": "杨幂戴龙角",
+      "onboard_time": 1706946571,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408709,
       "num": 408709,
       "word": "原来练背才是瘦脸捷径",
@@ -4937,14 +4977,6 @@
       "onboard_time": 1706837008,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408546,
-      "num": 408546,
-      "word": "伯克利偶遇王源",
-      "onboard_time": 1706943870,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 408276,
@@ -6635,6 +6667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304782,
+      "num": 304782,
+      "word": "医生说的清淡饮食好多人都搞错了",
+      "onboard_time": 1706946088,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 304753,
       "num": 304753,
       "word": "阿拉斯加自己走丢在大街上大哭",
@@ -6865,6 +6905,14 @@
       "onboard_time": 1706414189,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297377,
+      "num": 297377,
+      "word": "出轨者以为的和真实的出轨原因",
+      "onboard_time": 1706939011,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 297186,
@@ -7488,6 +7536,14 @@
       "word": "周星驰 金猪玉叶",
       "onboard_time": 1706745386,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268814,
+      "num": 185221,
+      "word": "咖啡哥 微笑姐",
+      "onboard_time": 1706946571,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -8441,14 +8497,6 @@
       "onboard_time": 1706837790,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229542,
-      "num": 229542,
-      "word": "出轨者以为的和真实的出轨原因",
-      "onboard_time": 1706939011,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 228926,
@@ -9539,6 +9587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206985,
+      "num": 171260,
+      "word": "檀健次玫瑰胸针",
+      "onboard_time": 1706947532,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206832,
       "num": 206832,
       "word": "威少25000分",
@@ -10217,6 +10273,14 @@
       "onboard_time": 1706445749,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197081,
+      "num": 164844,
+      "word": "白鹿解锁第22套高定",
+      "onboard_time": 1706946989,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196871,
@@ -11387,6 +11451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179311,
+      "num": 161879,
+      "word": "韩国偶遇陈建州范玮琪一家",
+      "onboard_time": 1706945973,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179120,
       "num": 179120,
       "word": "芙拉直播",
@@ -11705,6 +11777,14 @@
       "onboard_time": 1706444252,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 173873,
+      "num": 173873,
+      "word": "腾讯收购网元圣唐",
+      "onboard_time": 1706946210,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 173778,
@@ -12947,6 +13027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154413,
+      "num": 154413,
+      "word": "为什么广东人不容易抑郁",
+      "onboard_time": 1706947467,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154196,
       "num": 154196,
       "word": "白敬亭龙年春晚第三次联排",
@@ -13345,6 +13433,14 @@
       "onboard_time": 1706842228,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148707,
+      "num": 148707,
+      "word": "原来跳水视角这么恐怖",
+      "onboard_time": 1706943689,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148687,
@@ -14331,6 +14427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137000,
+      "num": 137000,
+      "word": "宋茜碎钻头纱",
+      "onboard_time": 1706947411,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136893,
       "num": 136893,
       "word": "春晚等着你",
@@ -14769,14 +14873,6 @@
       "onboard_time": 1706841211,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132347,
-      "num": 132347,
-      "word": "原来跳水视角这么恐怖",
-      "onboard_time": 1706943689,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 132202,
@@ -16683,14 +16779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111578,
-      "num": 111578,
-      "word": "被公厕便池的水溅到会得病吗",
-      "onboard_time": 1706945610,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111419,
       "num": 111419,
       "word": "炎亚纶希望能做贡献社会的事",
@@ -17457,6 +17545,14 @@
       "onboard_time": 1706510309,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99134,
+      "num": 99134,
+      "word": "属于济南人自己的顶级手办",
+      "onboard_time": 1706948370,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 98904,
@@ -18355,6 +18451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60939,
+      "num": 161137,
+      "word": "拍出大红大紫的新年氛围感",
+      "onboard_time": 1706945249,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
@@ -18449,6 +18553,14 @@
       "onboard_time": 1706621972,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 53527,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 52271,
@@ -18835,14 +18947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 35821,
-      "num": 142949,
-      "word": "拍出大红大紫的新年氛围感",
-      "onboard_time": 1706945249,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35815,
       "num": 38997,
       "word": "韩菱纱结局",
@@ -19099,6 +19203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16978,
+      "num": 163973,
+      "word": "全民填词为家乡定制推广曲",
+      "onboard_time": 1706932589,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16941,
       "num": 20310,
       "word": "汪铎夸鞠婧祎演得好",
@@ -19257,6 +19369,14 @@
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12204,
+      "num": 121078,
+      "word": "开启过年吃吃吃吃吃模式",
+      "onboard_time": 1706948070,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11855,
