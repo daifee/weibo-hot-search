@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707002233068,
+  "endTime": 1707003247741,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497986,
+      "num": 497986,
+      "word": "立春",
+      "onboard_time": 1707001880,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 468572,
       "num": 468572,
       "word": "魏大勋真的不是歌手吗",
@@ -75,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456535,
+      "num": 194335,
+      "word": "刘德华自曝曾有粉丝藏床下",
+      "onboard_time": 1707001278,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 431676,
       "num": 265614,
       "word": "小品搭子 难看",
       "onboard_time": 1706969436,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427295,
+      "num": 427295,
+      "word": "TVB男演员郑启泰去世",
+      "onboard_time": 1707001278,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 419858,
@@ -121,14 +145,6 @@
       "onboard_time": 1706972254,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311818,
-      "num": 311818,
-      "word": "TVB男演员郑启泰去世",
-      "onboard_time": 1707001278,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 300217,
@@ -211,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218053,
+      "num": 194024,
+      "word": "赌王四太穿苗服跳民族舞",
+      "onboard_time": 1706988019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212419,
       "num": 137912,
       "word": "时代少年团变魔术",
@@ -243,22 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186863,
-      "num": 186863,
-      "word": "立春",
-      "onboard_time": 1707001880,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 185938,
-      "num": 185938,
-      "word": "赌王四太穿苗服跳民族舞",
-      "onboard_time": 1706988019,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184159,
       "num": 137948,
       "word": "白鹿给王星越打伞",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177462,
+      "num": 177462,
+      "word": "大鹏发文纪念赵英俊去世三周年",
+      "onboard_time": 1706984960,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176635,
       "num": 133465,
       "word": "林允穿了新中式",
@@ -283,12 +299,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172260,
-      "num": 172260,
-      "word": "刘德华自曝曾有粉丝藏床下",
-      "onboard_time": 1707001278,
-      "rank": 11,
-      "category": "电影"
+      "raw_hot": 173272,
+      "num": 173272,
+      "word": "兔年的第二个立春来了",
+      "onboard_time": 1707002784,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169197,
+      "num": 165483,
+      "word": "冯巩相声",
+      "onboard_time": 1706980583,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166427,
+      "num": 166427,
+      "word": "掏空积蓄为儿买婚房被中介骗600万",
+      "onboard_time": 1706992876,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164149,
@@ -299,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162405,
-      "num": 162405,
-      "word": "大鹏发文纪念赵英俊去世三周年",
-      "onboard_time": 1706984960,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 162497,
+      "num": 162497,
+      "word": "唐艺昕虞书欣撞衫",
+      "onboard_time": 1706985739,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161544,
@@ -313,14 +345,6 @@
       "onboard_time": 1706965771,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160855,
-      "num": 90418,
-      "word": "冯巩相声",
-      "onboard_time": 1706980583,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 157513,
@@ -387,28 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137173,
-      "num": 120406,
-      "word": "唐艺昕虞书欣撞衫",
-      "onboard_time": 1706985739,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 128078,
-      "num": 109467,
+      "num": 110015,
       "word": "湖南春晚 抖音梗",
       "onboard_time": 1706983943,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126636,
-      "num": 126636,
-      "word": "掏空积蓄为儿买婚房被中介骗600万",
-      "onboard_time": 1706992876,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126449,
@@ -427,8 +435,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113945,
+      "num": 113945,
+      "word": "高铁上打开电脑的人真的在忙吗",
+      "onboard_time": 1707002481,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111993,
-      "num": 82746,
+      "num": 101579,
       "word": "林亦扬殷果睡一张床",
       "onboard_time": 1706997977,
       "rank": 26,
@@ -457,6 +473,14 @@
       "onboard_time": 1706975909,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103524,
+      "num": 103524,
+      "word": "立春恰逢腊月二十五",
+      "onboard_time": 1707002302,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 100204,
@@ -515,20 +539,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 79325,
+      "num": 66774,
+      "word": "张小燕透露黄子佼近况",
+      "onboard_time": 1707002481,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78252,
+      "num": 78252,
+      "word": "暴雪冰冻橙色预警",
+      "onboard_time": 1706998397,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72383,
       "num": 123582,
       "word": "突然出现的咽喉炎到底是什么病毒",
       "onboard_time": 1706952211,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71361,
-      "num": 71361,
-      "word": "暴雪冰冻橙色预警",
-      "onboard_time": 1706998397,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68782,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66897,
+      "num": 66897,
+      "word": "马天宇说cp都是假的",
+      "onboard_time": 1706995036,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66376,
       "num": 59759,
       "word": "脱口秀大会第六季大王",
@@ -571,16 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54729,
-      "num": 54729,
-      "word": "马天宇说cp都是假的",
-      "onboard_time": 1706995036,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 50784,
-      "num": 50784,
+      "raw_hot": 54355,
+      "num": 54355,
       "word": "武汉市气象局回应遭遇冻雨天气",
       "onboard_time": 1706998336,
       "rank": 48,
@@ -603,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46229,
+      "num": 46229,
+      "word": "微博开新年",
+      "onboard_time": 1707002962,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44698,
       "num": 43736,
       "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
       "onboard_time": 1706991076,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41700,
+      "num": 42019,
+      "word": "为什么流感发病48小时是黄金自救期",
+      "onboard_time": 1706988319,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41209,
@@ -619,12 +667,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33626,
-      "num": 42019,
-      "word": "为什么流感发病48小时是黄金自救期",
-      "onboard_time": 1706988319,
+      "raw_hot": 40706,
+      "num": 40706,
+      "word": "大哥送娃途中拉出2辆被困雪地公交",
+      "onboard_time": 1707001461,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36920,
+      "num": 36920,
+      "word": "24节气开启新的轮回",
+      "onboard_time": 1707002721,
       "rank": 49,
-      "category": "健康医疗"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29251,
