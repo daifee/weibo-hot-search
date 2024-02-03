@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706991484108,
+  "endTime": 1706992460226,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 59848,
-      "num": 46672,
+      "num": 46724,
       "word": "湖南春晚 抖音梗",
       "onboard_time": 1706983943,
       "rank": 33,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 55157,
-      "num": 21655,
+      "num": 49329,
       "word": "赌王四太穿苗服跳民族舞",
       "onboard_time": 1706988019,
       "rank": 30,
@@ -539,8 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37719,
-      "num": 31617,
+      "raw_hot": 41209,
+      "num": 41209,
       "word": "同龄人谈恋爱",
       "onboard_time": 1706988676,
       "rank": 42,
@@ -555,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29130,
+      "num": 20641,
+      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
+      "onboard_time": 1706991076,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24791,
       "num": 59489,
       "word": "LPL群访",
       "onboard_time": 1706979926,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 23891,
-      "num": 20641,
-      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
-      "onboard_time": 1706991076,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 21166,
@@ -587,7 +587,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12625,
+      "raw_hot": 13971,
       "num": 20519,
       "word": "为什么流感发病48小时是黄金自救期",
       "onboard_time": 1706988319,
