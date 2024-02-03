@@ -1,7 +1,15 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706967230996,
+  "endTime": 1706969651592,
   "band_list": [
+    {
+      "raw_hot": 2994365,
+      "num": 2994365,
+      "word": "日本遭绝杀",
+      "onboard_time": 1706967214,
+      "rank": 35,
+      "category": "体育"
+    },
     {
       "raw_hot": 2826219,
       "num": 2826219,
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1250746,
+      "num": 1250746,
+      "word": "魏大勋真的不是歌手吗",
+      "onboard_time": 1706966072,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1172853,
       "num": 1172853,
       "word": "将进酒回来了",
@@ -179,20 +195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 963997,
-      "num": 963997,
-      "word": "魏大勋真的不是歌手吗",
-      "onboard_time": 1706966072,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 960669,
       "num": 960669,
       "word": "奔驰加塞事件缺失监控曝光",
       "onboard_time": 1706943991,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926532,
+      "num": 926532,
+      "word": "邓男子大变活人沈梦辰",
+      "onboard_time": 1706966672,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 877428,
@@ -291,6 +307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 695635,
+      "num": 461550,
+      "word": "香港顶流姜涛舞蹈直拍",
+      "onboard_time": 1706967393,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 686533,
       "num": 686533,
       "word": "被EDG菜笑啦",
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 618076,
-      "num": 618076,
-      "word": "邓男子大变活人沈梦辰",
-      "onboard_time": 1706966672,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 614481,
       "num": 614481,
       "word": "杨波 一啵三折",
@@ -441,6 +457,14 @@
       "onboard_time": 1706884174,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 545256,
+      "num": 431056,
+      "word": "成毅唱任逍遥",
+      "onboard_time": 1706968473,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 542199,
@@ -627,6 +651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 464023,
+      "num": 464023,
+      "word": "花花和妹妹越来越黏糊了",
+      "onboard_time": 1706967992,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457052,
       "num": 457052,
       "word": "白敬亭开了咖啡店",
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422568,
+      "num": 210873,
+      "word": "邓男子魔术吓死我了",
+      "onboard_time": 1706966914,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419564,
       "num": 419564,
       "word": "在暴雪时分 洗衣房告白",
@@ -731,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 404946,
+      "num": 404946,
+      "word": "酒后出现5个症状可能是猝死前兆",
+      "onboard_time": 1706965472,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 404846,
       "num": 404846,
       "word": "女子本科毕业当瓦匠月入2万",
@@ -769,6 +817,14 @@
       "onboard_time": 1706962351,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 377116,
+      "num": 169930,
+      "word": "爱情公寓 一镜到底",
+      "onboard_time": 1706969072,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 375557,
@@ -835,12 +891,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 352632,
-      "num": 352632,
-      "word": "酒后出现5个症状可能是猝死前兆",
-      "onboard_time": 1706965472,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 354031,
+      "num": 153993,
+      "word": "白鹿梦回姜雪宁",
+      "onboard_time": 1706969072,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 351999,
@@ -873,6 +929,14 @@
       "onboard_time": 1706954368,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335827,
+      "num": 153055,
+      "word": "肖战声线感染力",
+      "onboard_time": 1706967992,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 330150,
@@ -961,14 +1025,6 @@
       "onboard_time": 1706935412,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 303873,
-      "num": 210873,
-      "word": "邓男子魔术吓死我了",
-      "onboard_time": 1706966914,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 301570,
@@ -1371,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219282,
+      "num": 143789,
+      "word": "全深圳都在偶遇香港明星",
+      "onboard_time": 1706968594,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218419,
       "num": 218419,
       "word": "在暴雪时分",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1706948908,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210719,
+      "num": 143050,
+      "word": "因为彩礼我和相恋8年的男友分手了",
+      "onboard_time": 1706968953,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210350,
@@ -1595,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201369,
+      "num": 112696,
+      "word": "小品搭子 难看",
+      "onboard_time": 1706969436,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201000,
       "num": 173809,
       "word": "创造营亚洲全员入驻微博",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199129,
+      "num": 112544,
+      "word": "肖战演讲",
+      "onboard_time": 1706969556,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 198445,
@@ -1731,14 +1819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189269,
-      "num": 189269,
-      "word": "日本遭绝杀",
-      "onboard_time": 1706967214,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188269,
       "num": 163800,
       "word": "看得出来小孩哥确实是闯祸了",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1706965289,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186694,
+      "num": 186694,
+      "word": "伊朗晋级亚洲杯四强",
+      "onboard_time": 1706967992,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 184871,
@@ -2187,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141910,
+      "num": 141910,
+      "word": "日本亚洲杯出局",
+      "onboard_time": 1706968833,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141260,
       "num": 141260,
       "word": "车银优边抽烟边落泪",
@@ -2281,6 +2377,14 @@
       "onboard_time": 1706924549,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135799,
+      "num": 135799,
+      "word": "乔兮虞姬四杀",
+      "onboard_time": 1706968411,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135485,
@@ -2603,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113713,
+      "num": 113713,
+      "word": "WB零封XYG",
+      "onboard_time": 1706967871,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113686,
       "num": 113686,
       "word": "要久久爱",
@@ -2617,6 +2729,22 @@
       "onboard_time": 1706941651,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112941,
+      "num": 112941,
+      "word": "新年喜庆灯笼折纸教程",
+      "onboard_time": 1706969135,
+      "rank": 39,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 112009,
+      "num": 112009,
+      "word": "WB 稳稳的幸福",
+      "onboard_time": 1706969315,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 111960,
@@ -2667,6 +2795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105667,
+      "num": 105667,
+      "word": "马宁补时判点",
+      "onboard_time": 1706969613,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104994,
       "num": 104994,
       "word": "邻居家的猫被风按在了门上",
@@ -2715,6 +2851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99914,
+      "num": 99914,
+      "word": "BLG零封EDG",
+      "onboard_time": 1706969613,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99134,
       "num": 99134,
       "word": "属于济南人自己的顶级手办",
@@ -2737,6 +2881,14 @@
       "onboard_time": 1706966072,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98071,
+      "num": 98071,
+      "word": "卡皮巴拉演我的社交能力",
+      "onboard_time": 1706968715,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 96959,
@@ -2939,6 +3091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 48388,
+      "num": 199077,
+      "word": "全职儿女梦中情职",
+      "onboard_time": 1706966734,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47519,
       "num": 47519,
       "word": "孙兴慜任意球破门",
@@ -3049,14 +3209,6 @@
       "onboard_time": 1706966431,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17299,
-      "num": 199077,
-      "word": "全职儿女梦中情职",
-      "onboard_time": 1706966734,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 17254,
