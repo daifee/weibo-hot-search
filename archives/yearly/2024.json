@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706934851486,
+  "endTime": 1706937346836,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2107,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1744305,
+      "num": 1744305,
+      "word": "刘德华回应隐婚",
+      "onboard_time": 1706934989,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1744185,
       "num": 1744185,
       "word": "上海限购",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704199174,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1659348,
-      "num": 1659348,
-      "word": "爱泼斯坦让17岁少女陪侍安德鲁王子",
-      "onboard_time": 1705024825,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

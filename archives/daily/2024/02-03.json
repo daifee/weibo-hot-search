@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706934851486,
+  "endTime": 1706937346836,
   "band_list": [
     {
       "raw_hot": 1882120,
@@ -9,6 +9,14 @@
       "onboard_time": 1706928268,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1744305,
+      "num": 1744305,
+      "word": "刘德华回应隐婚",
+      "onboard_time": 1706934989,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1695709,
@@ -73,6 +81,14 @@
       "onboard_time": 1706915120,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826816,
+      "num": 826816,
+      "word": "韩国男星性侵粉丝判有期徒刑3年",
+      "onboard_time": 1706935349,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 774713,
@@ -153,6 +169,14 @@
       "onboard_time": 1706916380,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618797,
+      "num": 618797,
+      "word": "警方称家暴视频是妻子发泄情绪拼接的",
+      "onboard_time": 1706935230,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590259,
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393378,
+      "num": 393378,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371270,
       "num": 371270,
       "word": "武汉下冰",
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335619,
+      "num": 335619,
+      "word": "马景涛与前妻为儿子庆生",
+      "onboard_time": 1706936907,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330150,
       "num": 330150,
       "word": "1岁外孙来家外公急忙砍竹子做围墙",
@@ -387,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315307,
-      "num": 315307,
-      "word": "PPT 骗骗他",
-      "onboard_time": 1706932889,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 321310,
+      "num": 321310,
+      "word": "毛晓彤国风公主裙",
+      "onboard_time": 1706936249,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313202,
@@ -408,6 +448,30 @@
       "word": "超市免费塑料袋别再带回家了",
       "onboard_time": 1706920045,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305529,
+      "num": 305529,
+      "word": "第五人格调香师",
+      "onboard_time": 1706936730,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 304934,
+      "num": 304934,
+      "word": "恋与深空VisionPro版",
+      "onboard_time": 1706935412,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 300924,
+      "num": 300924,
+      "word": "女子本科毕业当瓦匠月入2万",
+      "onboard_time": 1706935591,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -539,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236066,
+      "num": 201909,
+      "word": "体检中心体检正常5个月后查出乳腺癌",
+      "onboard_time": 1706936907,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 228468,
       "num": 456900,
       "word": "刘国梁要求国乒自觉抵制饭圈文化",
@@ -627,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209081,
+      "num": 209081,
+      "word": "苏醒爸爸的综艺感太强了",
+      "onboard_time": 1706932410,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207693,
       "num": 207693,
       "word": "花少后遗症",
@@ -641,6 +721,14 @@
       "onboard_time": 1706929229,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204805,
+      "num": 201825,
+      "word": "以闪亮之名福鹿迎春",
+      "onboard_time": 1706937151,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 204011,
@@ -659,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202718,
-      "num": 202718,
-      "word": "苏醒爸爸的综艺感太强了",
-      "onboard_time": 1706932410,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202690,
       "num": 202690,
       "word": "时代少年团外务",
@@ -675,12 +755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201929,
+      "num": 201929,
+      "word": "王者龙年CG",
+      "onboard_time": 1706936069,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201661,
       "num": 201661,
       "word": "小年",
       "onboard_time": 1706933912,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201573,
+      "num": 201573,
+      "word": "空姐主动为玩偶系安全带",
+      "onboard_time": 1706935650,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 201000,
@@ -712,6 +808,22 @@
       "word": "宋亚轩晒唯一舞台照",
       "onboard_time": 1706933248,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193328,
+      "num": 193328,
+      "word": "声生不息",
+      "onboard_time": 1706935110,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191848,
+      "num": 191848,
+      "word": "种地吧直播预告",
+      "onboard_time": 1706936969,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -787,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168842,
+      "num": 168842,
+      "word": "奶茶里的咖啡因含量比咖啡还高",
+      "onboard_time": 1706936011,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168168,
       "num": 168168,
       "word": "高铁晚点",
@@ -825,6 +945,14 @@
       "onboard_time": 1706925990,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156835,
+      "num": 156835,
+      "word": "唐九洲梦想 骗文韬",
+      "onboard_time": 1706937092,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 154068,
@@ -931,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138587,
+      "num": 138587,
+      "word": "科学家揭开癌细胞转移之谜",
+      "onboard_time": 1706936069,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138507,
       "num": 138507,
       "word": "相亲前后的变化到底有多大",
@@ -961,6 +1097,14 @@
       "onboard_time": 1706924010,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134989,
+      "num": 134989,
+      "word": "狗狗演员现场表演假死",
+      "onboard_time": 1706935168,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134288,
@@ -995,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132737,
+      "num": 815051,
+      "word": "有一种年味儿叫置办年货",
+      "onboard_time": 1706932950,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131983,
       "num": 131983,
       "word": "澳大利亚1比2韩国",
@@ -1009,14 +1161,6 @@
       "onboard_time": 1706930970,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130311,
-      "num": 798958,
-      "word": "有一种年味儿叫置办年货",
-      "onboard_time": 1706932950,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129394,
@@ -1073,6 +1217,14 @@
       "onboard_time": 1706915423,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117651,
+      "num": 422993,
+      "word": "我家蛋仔上央视了",
+      "onboard_time": 1706932830,
+      "rank": 14,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 116477,
@@ -1251,14 +1403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82600,
-      "num": 422993,
-      "word": "我家蛋仔上央视了",
-      "onboard_time": 1706932830,
-      "rank": 14,
-      "category": "游戏,作品衍生"
-    },
-    {
       "raw_hot": 79140,
       "num": 79140,
       "word": "吴磊原声英文台词",
@@ -1385,6 +1529,14 @@
       "onboard_time": 1706896341,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39822,
+      "num": 313063,
+      "word": "倪大红和平精英贺岁片暖哭了",
+      "onboard_time": 1706934872,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 39207,

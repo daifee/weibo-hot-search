@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706934851486,
+  "endTime": 1706937346836,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -177,6 +177,14 @@
       "onboard_time": 1706785593,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1744305,
+      "num": 1744305,
+      "word": "刘德华回应隐婚",
+      "onboard_time": 1706934989,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1716105,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826816,
+      "num": 826816,
+      "word": "韩国男星性侵粉丝判有期徒刑3年",
+      "onboard_time": 1706935349,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 819308,
       "num": 819308,
       "word": "文科生就业现状",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1706881713,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 618797,
+      "num": 618797,
+      "word": "警方称家暴视频是妻子发泄情绪拼接的",
+      "onboard_time": 1706935230,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616223,
@@ -1939,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393378,
+      "num": 393378,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391439,
       "num": 391439,
       "word": "财政部回应养老金担忧",
@@ -2299,6 +2331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 335619,
+      "num": 335619,
+      "word": "马景涛与前妻为儿子庆生",
+      "onboard_time": 1706936907,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -2443,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321310,
+      "num": 321310,
+      "word": "毛晓彤国风公主裙",
+      "onboard_time": 1706936249,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319851,
       "num": 319851,
       "word": "A股破净股比例超10%",
@@ -2457,14 +2505,6 @@
       "onboard_time": 1706725339,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315307,
-      "num": 315307,
-      "word": "PPT 骗骗他",
-      "onboard_time": 1706932889,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 313213,
@@ -2555,6 +2595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305529,
+      "num": 305529,
+      "word": "第五人格调香师",
+      "onboard_time": 1706936730,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 304934,
+      "num": 304934,
+      "word": "恋与深空VisionPro版",
+      "onboard_time": 1706935412,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303867,
       "num": 303867,
       "word": "女子哈佛博士毕业后给豪门当家教",
@@ -2609,6 +2665,14 @@
       "onboard_time": 1706879374,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 300924,
+      "num": 300924,
+      "word": "女子本科毕业当瓦匠月入2万",
+      "onboard_time": 1706935591,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299239,
@@ -3211,6 +3275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236066,
+      "num": 201909,
+      "word": "体检中心体检正常5个月后查出乳腺癌",
+      "onboard_time": 1706936907,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235831,
       "num": 235831,
       "word": "95后为升职加薪开始社牛式比拼",
@@ -3667,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209081,
+      "num": 209081,
+      "word": "苏醒爸爸的综艺感太强了",
+      "onboard_time": 1706932410,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208239,
       "num": 208239,
       "word": "成毅李一桐对代拍抱拳鞠躬",
@@ -3795,6 +3875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204805,
+      "num": 201825,
+      "word": "以闪亮之名福鹿迎春",
+      "onboard_time": 1706937151,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204799,
       "num": 204799,
       "word": "张艺兴去湖南春晚",
@@ -3817,14 +3905,6 @@
       "onboard_time": 1706929830,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202718,
-      "num": 202718,
-      "word": "苏醒爸爸的综艺感太强了",
-      "onboard_time": 1706932410,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 202690,
@@ -3867,12 +3947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201929,
+      "num": 201929,
+      "word": "王者龙年CG",
+      "onboard_time": 1706936069,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201707,
       "num": 201707,
       "word": "成毅裤子透光",
       "onboard_time": 1706700629,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201573,
+      "num": 201573,
+      "word": "空姐主动为玩偶系安全带",
+      "onboard_time": 1706935650,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 201006,
@@ -4067,6 +4163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193328,
+      "num": 193328,
+      "word": "声生不息",
+      "onboard_time": 1706935110,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193202,
       "num": 193202,
       "word": "王亚飞",
@@ -4121,6 +4225,14 @@
       "onboard_time": 1706861554,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191848,
+      "num": 191848,
+      "word": "种地吧直播预告",
+      "onboard_time": 1706936969,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 191796,
@@ -4843,6 +4955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168842,
+      "num": 168842,
+      "word": "奶茶里的咖啡因含量比咖啡还高",
+      "onboard_time": 1706936011,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168422,
       "num": 168422,
       "word": "完美世界",
@@ -5169,6 +5289,14 @@
       "onboard_time": 1706871152,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156835,
+      "num": 156835,
+      "word": "唐九洲梦想 骗文韬",
+      "onboard_time": 1706937092,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 156795,
@@ -5715,6 +5843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 138587,
+      "num": 138587,
+      "word": "科学家揭开癌细胞转移之谜",
+      "onboard_time": 1706936069,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138137,
       "num": 138137,
       "word": "春节出行托运宠物要提前准备啥",
@@ -5835,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134989,
+      "num": 134989,
+      "word": "狗狗演员现场表演假死",
+      "onboard_time": 1706935168,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134979,
       "num": 134979,
       "word": "狼队3比4曼联",
@@ -5921,6 +6065,14 @@
       "onboard_time": 1706747791,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132737,
+      "num": 815051,
+      "word": "有一种年味儿叫置办年货",
+      "onboard_time": 1706932950,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132688,
@@ -6025,14 +6177,6 @@
       "onboard_time": 1706856812,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130311,
-      "num": 798958,
-      "word": "有一种年味儿叫置办年货",
-      "onboard_time": 1706932950,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130292,
@@ -6369,6 +6513,14 @@
       "onboard_time": 1706873372,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117651,
+      "num": 422993,
+      "word": "我家蛋仔上央视了",
+      "onboard_time": 1706932830,
+      "rank": 14,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 117272,
@@ -6971,14 +7123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82600,
-      "num": 422993,
-      "word": "我家蛋仔上央视了",
-      "onboard_time": 1706932830,
-      "rank": 14,
-      "category": "游戏,作品衍生"
-    },
-    {
       "raw_hot": 82232,
       "num": 82232,
       "word": "邓为向涵之吻戏路透",
@@ -7296,6 +7440,14 @@
       "word": "惠英红穿了陈伟霆送的衣服",
       "onboard_time": 1706729295,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 39822,
+      "num": 313063,
+      "word": "倪大红和平精英贺岁片暖哭了",
+      "onboard_time": 1706934872,
+      "rank": 19,
       "category": "电影"
     },
     {
