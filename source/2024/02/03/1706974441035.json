@@ -1,0 +1,410 @@
+{
+  "runTime": 1706974441035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942655,
+        "num": 942655,
+        "word": "爱情公寓 一镜到底",
+        "onboard_time": 1706969072,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731444,
+        "num": 731444,
+        "word": "魏大勋真的不是歌手吗",
+        "onboard_time": 1706966072,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268324,
+        "num": 705184,
+        "word": "2024网络视听盛典",
+        "onboard_time": 1706965592,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691972,
+        "num": 691972,
+        "word": "小品搭子 难看",
+        "onboard_time": 1706969436,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648511,
+        "num": 648511,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619203,
+        "num": 619203,
+        "word": "花花和妹妹越来越黏糊了",
+        "onboard_time": 1706967992,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605643,
+        "num": 605643,
+        "word": "湖南春晚 科目三",
+        "onboard_time": 1706964511,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528241,
+        "num": 528241,
+        "word": "日本队遭绝杀",
+        "onboard_time": 1706967214,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462870,
+        "num": 462870,
+        "word": "因为彩礼我和相恋8年的男友分手了",
+        "onboard_time": 1706968953,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429010,
+        "num": 429010,
+        "word": "马宁 尺度",
+        "onboard_time": 1706963733,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619785,
+        "num": 422129,
+        "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+        "onboard_time": 1706961389,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590195,
+        "num": 413193,
+        "word": "肖战演讲",
+        "onboard_time": 1706969556,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560056,
+        "num": 401676,
+        "word": "0713合体",
+        "onboard_time": 1706971653,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541395,
+        "num": 398645,
+        "word": "单依纯一开口梦回仙剑一",
+        "onboard_time": 1706972254,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461447,
+        "num": 383096,
+        "word": "gidle 认哥",
+        "onboard_time": 1706972913,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452699,
+        "num": 371864,
+        "word": "香港顶流姜涛舞蹈直拍",
+        "onboard_time": 1706967393,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 369971,
+        "num": 369971,
+        "word": "酒后出现5个症状可能是猝死前兆",
+        "onboard_time": 1706965472,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263536,
+        "num": 263536,
+        "word": "马斯克宣布更改特斯拉注册地",
+        "onboard_time": 1706970150,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227800,
+        "num": 227800,
+        "word": "大爷掏出补光灯那刻我人都惊呆了",
+        "onboard_time": 1706969794,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224679,
+        "num": 224679,
+        "word": "被EDG菜笑啦",
+        "onboard_time": 1706965771,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 432521,
+        "num": 223519,
+        "word": "张杰 狂门永存",
+        "onboard_time": 1706973632,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391637,
+        "num": 218488,
+        "word": "白鹿梦回姜雪宁",
+        "onboard_time": 1706969072,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336708,
+        "num": 212400,
+        "word": "买车厘子不能只看几个J",
+        "onboard_time": 1706971476,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304601,
+        "num": 204145,
+        "word": "疑似患癌者最终7%确诊",
+        "onboard_time": 1706970695,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201713,
+        "num": 201713,
+        "word": "怜爱jiejie",
+        "onboard_time": 1706973095,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 391461,
+        "num": 201325,
+        "word": "林允穿了新中式",
+        "onboard_time": 1706972374,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362805,
+        "num": 200739,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1706960130,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311075,
+        "num": 200236,
+        "word": "时代少年团有点甜",
+        "onboard_time": 1706974171,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292144,
+        "num": 199806,
+        "word": "央视评陈立农最新舞台",
+        "onboard_time": 1706973992,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199651,
+        "num": 199651,
+        "word": "当儿子决定穿裙子上学",
+        "onboard_time": 1706973393,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272688,
+        "num": 197636,
+        "word": "白鹿给王星越打伞",
+        "onboard_time": 1706970813,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269495,
+        "num": 194670,
+        "word": "将进酒回来了",
+        "onboard_time": 1706963850,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244081,
+        "num": 189636,
+        "word": "檀健次第一个出场",
+        "onboard_time": 1706970511,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183842,
+        "num": 183842,
+        "word": "2024中央一号文件公布",
+        "onboard_time": 1706953711,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141447,
+        "num": 183238,
+        "word": "扒泥世家",
+        "onboard_time": 1706973812,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228801,
+        "num": 182319,
+        "word": "宋茜青花瓷 大气",
+        "onboard_time": 1706969854,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140886,
+        "num": 181824,
+        "word": "宝宝不唱儿歌过渡一下吗",
+        "onboard_time": 1706972795,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 180785,
+        "word": "终于理解我妈了",
+        "onboard_time": 1706971415,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 179941,
+        "word": "为啥车厘子1月价格比11月低那么多",
+        "onboard_time": 1706963131,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 46489,
+        "num": 179522,
+        "word": "全职儿女梦中情职",
+        "onboard_time": 1706966734,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209811,
+        "num": 178274,
+        "word": "张泽禹张极Bite Me",
+        "onboard_time": 1706970695,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204348,
+        "num": 177541,
+        "word": "视听盛典 好看多办",
+        "onboard_time": 1706973393,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 176421,
+        "word": "脱口秀大会第六季大王",
+        "onboard_time": 1706964932,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199087,
+        "num": 176125,
+        "word": "杨氏双缝干涉实验",
+        "onboard_time": 1706960790,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104674,
+        "num": 175266,
+        "word": "中国队本届游泳世锦赛首金",
+        "onboard_time": 1706973632,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97690,
+        "num": 173870,
+        "word": "3岁萌娃坐6小时动车一路上不哭闹",
+        "onboard_time": 1706971954,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95735,
+        "num": 173189,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93234,
+        "num": 172448,
+        "word": "研究发现低热量饮食可延长寿命",
+        "onboard_time": 1706966011,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89917,
+        "num": 171311,
+        "word": "年会上显眼包的才艺有多绝",
+        "onboard_time": 1706971114,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83118,
+        "num": 170881,
+        "word": "张家齐黄建杰混双十米台夺冠",
+        "onboard_time": 1706971833,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的新春祝福#"
+    }
+  }
+}
