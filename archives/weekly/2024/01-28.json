@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706963326618,
+  "endTime": 1706964188602,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -49,6 +49,14 @@
       "onboard_time": 1706744846,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2826219,
+      "num": 2826219,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1706960130,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2771728,
@@ -121,14 +129,6 @@
       "onboard_time": 1706778871,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2407520,
-      "num": 2407520,
-      "word": "湖南卫视春晚",
-      "onboard_time": 1706960130,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2349740,
@@ -1219,6 +1219,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1071070,
+      "num": 1071070,
+      "word": "杨氏双缝干涉实验",
+      "onboard_time": 1706960790,
+      "rank": 1,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1066148,
       "num": 1066148,
       "word": "遭奔驰男加塞辱骂女车主发声",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1706691512,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 931064,
-      "num": 931064,
-      "word": "杨氏双缝干涉实验",
-      "onboard_time": 1706960790,
-      "rank": 1,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 930924,
@@ -2507,6 +2507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 693983,
+      "num": 693983,
+      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+      "onboard_time": 1706961389,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693378,
       "num": 693378,
       "word": "乳腺癌女性离婚率高达百分之四十",
@@ -2713,6 +2721,14 @@
       "onboard_time": 1706512767,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660331,
+      "num": 660331,
+      "word": "张艺兴灯牌",
+      "onboard_time": 1706962532,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 658878,
@@ -4955,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419564,
+      "num": 419564,
+      "word": "在暴雪时分 洗衣房告白",
+      "onboard_time": 1706961934,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419077,
       "num": 922912,
       "word": "哈工大给尔滨建火锅冰屋",
@@ -5009,6 +5033,14 @@
       "onboard_time": 1706618249,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 415285,
+      "num": 415285,
+      "word": "将进酒回来了",
+      "onboard_time": 1706963850,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 415017,
@@ -5252,7 +5284,7 @@
     },
     {
       "raw_hot": 396396,
-      "num": 396396,
+      "num": 427269,
       "word": "金博洋 打分",
       "onboard_time": 1706959411,
       "rank": 17,
@@ -5667,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374741,
+      "num": 274293,
+      "word": "为啥车厘子1月价格比11月低那么多",
+      "onboard_time": 1706963131,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 373805,
       "num": 373805,
       "word": "中戏13级 反派寝室",
@@ -6033,14 +6073,6 @@
       "onboard_time": 1706580391,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 354618,
-      "num": 291674,
-      "word": "在暴雪时分 洗衣房告白",
-      "onboard_time": 1706961934,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 354509,
@@ -6451,6 +6483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 328553,
+      "num": 293326,
+      "word": "看得出来我想追你吗",
+      "onboard_time": 1706959411,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327311,
       "num": 196279,
       "word": "北京网友火锅店偶遇外国神秘大佬",
@@ -6491,14 +6531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325247,
-      "num": 389908,
-      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
-      "onboard_time": 1706961389,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325083,
       "num": 325083,
       "word": "健康减肥后身体发生的变化",
@@ -6529,14 +6561,6 @@
       "onboard_time": 1706776112,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323301,
-      "num": 211811,
-      "word": "张艺兴灯牌",
-      "onboard_time": 1706962532,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 323087,
@@ -7171,14 +7195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294116,
-      "num": 214459,
-      "word": "看得出来我想追你吗",
-      "onboard_time": 1706959411,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294098,
       "num": 257957,
       "word": "赵丽颖红妆写真",
@@ -7811,6 +7827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269181,
+      "num": 269181,
+      "word": "创造营亚洲",
+      "onboard_time": 1706962770,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268983,
       "num": 203172,
       "word": "南方人真的不适合去北方搓澡",
@@ -7993,6 +8017,14 @@
       "onboard_time": 1706605052,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259906,
+      "num": 259906,
+      "word": "苏新皓Lalala",
+      "onboard_time": 1706962891,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 259242,
@@ -8881,14 +8913,6 @@
       "onboard_time": 1706954669,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227313,
-      "num": 192481,
-      "word": "创造营亚洲",
-      "onboard_time": 1706962770,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 227298,
@@ -10020,7 +10044,7 @@
     },
     {
       "raw_hot": 206219,
-      "num": 174494,
+      "num": 188751,
       "word": "张极雀斑妆",
       "onboard_time": 1706963131,
       "rank": 34,
@@ -10049,6 +10073,14 @@
       "onboard_time": 1706618070,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205853,
+      "num": 205853,
+      "word": "马宁 尺度",
+      "onboard_time": 1706963733,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 205832,
@@ -10307,6 +10339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 202692,
+      "num": 202692,
+      "word": "张峻豪 露背造型",
+      "onboard_time": 1706963552,
+      "rank": 33,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 202690,
       "num": 202690,
       "word": "时代少年团外务",
@@ -10404,7 +10444,7 @@
     },
     {
       "raw_hot": 201489,
-      "num": 157593,
+      "num": 175600,
       "word": "网络视听盛典",
       "onboard_time": 1706960071,
       "rank": 40,
@@ -10627,6 +10667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198445,
+      "num": 198445,
+      "word": "杨博文元气男初",
+      "onboard_time": 1706963973,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198235,
       "num": 198235,
       "word": "多家快递公司辟谣网传春节停运时间",
@@ -10676,7 +10724,7 @@
     },
     {
       "raw_hot": 197516,
-      "num": 157265,
+      "num": 157455,
       "word": "朱志鑫直拍",
       "onboard_time": 1706961270,
       "rank": 41,
@@ -10804,7 +10852,7 @@
     },
     {
       "raw_hot": 195392,
-      "num": 224620,
+      "num": 249768,
       "word": "伊朗vs日本",
       "onboard_time": 1706957490,
       "rank": 28,
@@ -10865,14 +10913,6 @@
       "onboard_time": 1706526093,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194634,
-      "num": 173441,
-      "word": "苏新皓Lalala",
-      "onboard_time": 1706962891,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 194501,
@@ -11691,6 +11731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183439,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183424,
       "num": 183424,
       "word": "2女孩拾金不昧获赠一人一只警熊",
@@ -11881,14 +11929,6 @@
       "onboard_time": 1706849556,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180493,
-      "num": 1032191,
-      "word": "网络视听盛典发布节目单",
-      "onboard_time": 1706948191,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 180345,
@@ -12353,14 +12393,6 @@
       "onboard_time": 1706951969,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173058,
-      "num": 173058,
-      "word": "为啥车厘子1月价格比11月低那么多",
-      "onboard_time": 1706963131,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 173018,
@@ -12867,6 +12899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164556,
+      "num": 175647,
+      "word": "谁教海南这么拍食物的啊",
+      "onboard_time": 1706962652,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164423,
       "num": 164423,
       "word": "养到笨蛋小狗了怎么办",
@@ -13145,14 +13185,6 @@
       "onboard_time": 1706861374,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159914,
-      "num": 159914,
-      "word": "谁教海南这么拍食物的啊",
-      "onboard_time": 1706962652,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 159549,
@@ -14395,6 +14427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144392,
+      "num": 175608,
+      "word": "春节前三文鱼销量暴涨13倍",
+      "onboard_time": 1706964092,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144352,
       "num": 144352,
       "word": "孟佳用一支舞蹈告别33岁",
@@ -14972,7 +15012,7 @@
     },
     {
       "raw_hot": 137563,
-      "num": 143977,
+      "num": 156709,
       "word": "费莱尼宣布退役",
       "onboard_time": 1706960851,
       "rank": 47,
@@ -15761,6 +15801,14 @@
       "onboard_time": 1706757812,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129885,
+      "num": 157271,
+      "word": "互相谦让的两只猫",
+      "onboard_time": 1706963911,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 129842,
@@ -17089,6 +17137,14 @@
       "onboard_time": 1706948969,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115015,
+      "num": 157020,
+      "word": "踢正步的小狗",
+      "onboard_time": 1706964092,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 115013,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706963326618,
+  "endTime": 1706964188602,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2826219,
+      "num": 2826219,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1706960130,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2771728,
       "num": 2771728,
       "word": "致命游戏下架",
@@ -49,14 +57,6 @@
       "onboard_time": 1706778871,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2407520,
-      "num": 2407520,
-      "word": "湖南卫视春晚",
-      "onboard_time": 1706960130,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2349740,
@@ -571,6 +571,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1071070,
+      "num": 1071070,
+      "word": "杨氏双缝干涉实验",
+      "onboard_time": 1706960790,
+      "rank": 1,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1047176,
       "num": 1047176,
       "word": "铁路回应为何12306售罄携程有票",
@@ -697,14 +705,6 @@
       "onboard_time": 1706791055,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 931064,
-      "num": 931064,
-      "word": "杨氏双缝干涉实验",
-      "onboard_time": 1706960790,
-      "rank": 1,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 924513,
@@ -1059,6 +1059,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 693983,
+      "num": 693983,
+      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+      "onboard_time": 1706961389,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693378,
       "num": 693378,
       "word": "乳腺癌女性离婚率高达百分之四十",
@@ -1144,6 +1152,14 @@
       "word": "他的性别生来就是老公",
       "onboard_time": 1706872591,
       "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 660331,
+      "num": 660331,
+      "word": "张艺兴灯牌",
+      "onboard_time": 1706962532,
+      "rank": 20,
       "category": "作品衍生"
     },
     {
@@ -2147,12 +2163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419564,
+      "num": 419564,
+      "word": "在暴雪时分 洗衣房告白",
+      "onboard_time": 1706961934,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416394,
       "num": 285463,
       "word": "雷军宣布卢伟冰将兼任小米品牌总经理",
       "onboard_time": 1706954610,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 415285,
+      "num": 415285,
+      "word": "将进酒回来了",
+      "onboard_time": 1706963850,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 414619,
@@ -2268,7 +2300,7 @@
     },
     {
       "raw_hot": 396396,
-      "num": 396396,
+      "num": 427269,
       "word": "金博洋 打分",
       "onboard_time": 1706959411,
       "rank": 17,
@@ -2425,6 +2457,14 @@
       "onboard_time": 1706959352,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374741,
+      "num": 274293,
+      "word": "为啥车厘子1月价格比11月低那么多",
+      "onboard_time": 1706963131,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 373805,
@@ -2619,14 +2659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354618,
-      "num": 291674,
-      "word": "在暴雪时分 洗衣房告白",
-      "onboard_time": 1706961934,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 354208,
       "num": 255053,
       "word": "爸妈偷偷来我租的房子过年",
@@ -2803,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328553,
+      "num": 293326,
+      "word": "看得出来我想追你吗",
+      "onboard_time": 1706959411,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "曝湖人可能交易詹姆斯",
@@ -2816,14 +2856,6 @@
       "word": "菏泽牡丹南路派出所所长被停职",
       "onboard_time": 1706888193,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325247,
-      "num": 389908,
-      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
-      "onboard_time": 1706961389,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2849,14 +2881,6 @@
       "onboard_time": 1706776112,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323301,
-      "num": 211811,
-      "word": "张艺兴灯牌",
-      "onboard_time": 1706962532,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 323087,
@@ -3121,14 +3145,6 @@
       "onboard_time": 1706709694,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 294116,
-      "num": 214459,
-      "word": "看得出来我想追你吗",
-      "onboard_time": 1706959411,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 292947,
@@ -3427,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269181,
+      "num": 269181,
+      "word": "创造营亚洲",
+      "onboard_time": 1706962770,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268983,
       "num": 203172,
       "word": "南方人真的不适合去北方搓澡",
@@ -3505,6 +3529,14 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259906,
+      "num": 259906,
+      "word": "苏新皓Lalala",
+      "onboard_time": 1706962891,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 259187,
@@ -3937,14 +3969,6 @@
       "onboard_time": 1706954669,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227313,
-      "num": 192481,
-      "word": "创造营亚洲",
-      "onboard_time": 1706962770,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 227171,
@@ -4452,7 +4476,7 @@
     },
     {
       "raw_hot": 206219,
-      "num": 174494,
+      "num": 188751,
       "word": "张极雀斑妆",
       "onboard_time": 1706963131,
       "rank": 34,
@@ -4465,6 +4489,14 @@
       "onboard_time": 1706962829,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205853,
+      "num": 205853,
+      "word": "马宁 尺度",
+      "onboard_time": 1706963733,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 205832,
@@ -4563,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202692,
+      "num": 202692,
+      "word": "张峻豪 露背造型",
+      "onboard_time": 1706963552,
+      "rank": 33,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 202690,
       "num": 202690,
       "word": "时代少年团外务",
@@ -4628,7 +4668,7 @@
     },
     {
       "raw_hot": 201489,
-      "num": 157593,
+      "num": 175600,
       "word": "网络视听盛典",
       "onboard_time": 1706960071,
       "rank": 40,
@@ -4723,6 +4763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198445,
+      "num": 198445,
+      "word": "杨博文元气男初",
+      "onboard_time": 1706963973,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198235,
       "num": 198235,
       "word": "多家快递公司辟谣网传春节停运时间",
@@ -4740,7 +4788,7 @@
     },
     {
       "raw_hot": 197516,
-      "num": 157265,
+      "num": 157455,
       "word": "朱志鑫直拍",
       "onboard_time": 1706961270,
       "rank": 41,
@@ -4804,7 +4852,7 @@
     },
     {
       "raw_hot": 195392,
-      "num": 224620,
+      "num": 249768,
       "word": "伊朗vs日本",
       "onboard_time": 1706957490,
       "rank": 28,
@@ -4825,14 +4873,6 @@
       "onboard_time": 1706799512,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194634,
-      "num": 173441,
-      "word": "苏新皓Lalala",
-      "onboard_time": 1706962891,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 194501,
@@ -5307,6 +5347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183439,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183093,
       "num": 183093,
       "word": "春运返程火车票今天开抢",
@@ -5385,14 +5433,6 @@
       "onboard_time": 1706849556,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180493,
-      "num": 1032191,
-      "word": "网络视听盛典发布节目单",
-      "onboard_time": 1706948191,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 180049,
@@ -5675,14 +5715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 173058,
-      "num": 173058,
-      "word": "为啥车厘子1月价格比11月低那么多",
-      "onboard_time": 1706963131,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 172637,
       "num": 171453,
       "word": "西安一美甲店年前每日等位近300人",
@@ -5955,6 +5987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164556,
+      "num": 175647,
+      "word": "谁教海南这么拍食物的啊",
+      "onboard_time": 1706962652,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164460,
       "num": 164460,
       "word": "田馥甄否认遭暗捅",
@@ -6097,14 +6137,6 @@
       "onboard_time": 1706861374,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159914,
-      "num": 159914,
-      "word": "谁教海南这么拍食物的啊",
-      "onboard_time": 1706962652,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 159397,
@@ -6611,6 +6643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144392,
+      "num": 175608,
+      "word": "春节前三文鱼销量暴涨13倍",
+      "onboard_time": 1706964092,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144352,
       "num": 144352,
       "word": "孟佳用一支舞蹈告别33岁",
@@ -6820,7 +6860,7 @@
     },
     {
       "raw_hot": 137563,
-      "num": 143977,
+      "num": 156709,
       "word": "费莱尼宣布退役",
       "onboard_time": 1706960851,
       "rank": 47,
@@ -7233,6 +7273,14 @@
       "onboard_time": 1706757812,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129885,
+      "num": 157271,
+      "word": "互相谦让的两只猫",
+      "onboard_time": 1706963911,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 129811,
@@ -7705,6 +7753,14 @@
       "onboard_time": 1706948969,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115015,
+      "num": 157020,
+      "word": "踢正步的小狗",
+      "onboard_time": 1706964092,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 115013,
