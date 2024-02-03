@@ -1,0 +1,410 @@
+{
+  "runTime": 1706970831889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1846290,
+        "num": 1846290,
+        "word": "日本队遭绝杀",
+        "onboard_time": 1706967214,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1177869,
+        "num": 1177869,
+        "word": "湖南春晚 科目三",
+        "onboard_time": 1706964511,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213186,
+        "num": 1146383,
+        "word": "2024网络视听盛典",
+        "onboard_time": 1706965592,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1131644,
+        "num": 1131644,
+        "word": "魏大勋真的不是歌手吗",
+        "onboard_time": 1706966072,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1079695,
+        "num": 1079695,
+        "word": "马宁 尺度",
+        "onboard_time": 1706963733,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876890,
+        "num": 876890,
+        "word": "香港顶流姜涛舞蹈直拍",
+        "onboard_time": 1706967393,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 868487,
+        "num": 868487,
+        "word": "肖战演讲",
+        "onboard_time": 1706969556,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744256,
+        "num": 744256,
+        "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+        "onboard_time": 1706961389,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645747,
+        "num": 645747,
+        "word": "花花和妹妹越来越黏糊了",
+        "onboard_time": 1706967992,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438073,
+        "num": 438073,
+        "word": "被EDG菜笑啦",
+        "onboard_time": 1706965771,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 814759,
+        "num": 420876,
+        "word": "爱情公寓 一镜到底",
+        "onboard_time": 1706969072,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 775023,
+        "num": 420116,
+        "word": "邓男子大变活人沈梦辰",
+        "onboard_time": 1706966672,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600319,
+        "num": 416683,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1706960130,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353656,
+        "num": 353656,
+        "word": "酒后出现5个症状可能是猝死前兆",
+        "onboard_time": 1706965472,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278531,
+        "num": 278531,
+        "word": "2024中央一号文件公布",
+        "onboard_time": 1706953711,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525230,
+        "num": 253838,
+        "word": "白鹿梦回姜雪宁",
+        "onboard_time": 1706969072,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517535,
+        "num": 238764,
+        "word": "将进酒回来了",
+        "onboard_time": 1706963850,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199924,
+        "num": 199924,
+        "word": "亚洲杯",
+        "onboard_time": 1706970272,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195297,
+        "num": 195297,
+        "word": "研究发现低热量饮食可延长寿命",
+        "onboard_time": 1706966011,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191758,
+        "num": 191758,
+        "word": "BLG零封EDG",
+        "onboard_time": 1706969613,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447040,
+        "num": 191752,
+        "word": "成毅唱任逍遥",
+        "onboard_time": 1706968473,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438330,
+        "num": 191720,
+        "word": "因为彩礼我和相恋8年的男友分手了",
+        "onboard_time": 1706968953,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428688,
+        "num": 191687,
+        "word": "宋茜青花瓷 大气",
+        "onboard_time": 1706969854,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415699,
+        "num": 191675,
+        "word": "脱口秀大会第六季大王",
+        "onboard_time": 1706964932,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196058,
+        "num": 191661,
+        "word": "为啥车厘子1月价格比11月低那么多",
+        "onboard_time": 1706963131,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 409930,
+        "num": 191627,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353375,
+        "num": 191611,
+        "word": "小品搭子 难看",
+        "onboard_time": 1706969436,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144523,
+        "num": 191590,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143813,
+        "num": 191559,
+        "word": "马宁补时判点",
+        "onboard_time": 1706969613,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128992,
+        "num": 191530,
+        "word": "大爷掏出补光灯那刻我人都惊呆了",
+        "onboard_time": 1706969794,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289200,
+        "num": 191520,
+        "word": "杨氏双缝干涉实验",
+        "onboard_time": 1706960790,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285981,
+        "num": 191479,
+        "word": "邓男子魔术吓死我了",
+        "onboard_time": 1706966914,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268441,
+        "num": 191453,
+        "word": "在暴雪时分 洗衣房告白",
+        "onboard_time": 1706961934,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191450,
+        "num": 191450,
+        "word": "伊朗逆转淘汰日本",
+        "onboard_time": 1706970214,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127439,
+        "num": 191407,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235221,
+        "num": 190685,
+        "word": "张泽禹张极Bite Me",
+        "onboard_time": 1706970695,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227903,
+        "num": 190314,
+        "word": "波笠二象性",
+        "onboard_time": 1706957432,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122474,
+        "num": 189906,
+        "word": "伊朗晋级亚洲杯四强",
+        "onboard_time": 1706967992,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111273,
+        "num": 189610,
+        "word": "疑似患癌者最终7%确诊",
+        "onboard_time": 1706970695,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107333,
+        "num": 189071,
+        "word": "贺希宁太强了",
+        "onboard_time": 1706970813,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224823,
+        "num": 188556,
+        "word": "全深圳都在偶遇香港明星",
+        "onboard_time": 1706968594,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208625,
+        "num": 188299,
+        "word": "肖战声线感染力",
+        "onboard_time": 1706967992,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204151,
+        "num": 187898,
+        "word": "丁程鑫 国风街舞",
+        "onboard_time": 1706970272,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197085,
+        "num": 187455,
+        "word": "白鹿给王星越打伞",
+        "onboard_time": 1706970813,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196274,
+        "num": 186939,
+        "word": "华晨宇舞台好浪漫",
+        "onboard_time": 1706969854,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105337,
+        "num": 186441,
+        "word": "BLG对战EDG",
+        "onboard_time": 1706966072,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194520,
+        "num": 186078,
+        "word": "檀健次第一个出场",
+        "onboard_time": 1706970511,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97576,
+        "num": 185743,
+        "word": "外婆见外孙接自己回城过年激动落泪",
+        "onboard_time": 1706953829,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97334,
+        "num": 185424,
+        "word": "听完这搓澡教学更不敢去了",
+        "onboard_time": 1706967757,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93035,
+        "num": 185065,
+        "word": "一诺生日礼物拆箱vlog",
+        "onboard_time": 1706967214,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#老百姓的事情是最重要的事情#"
+    }
+  }
+}

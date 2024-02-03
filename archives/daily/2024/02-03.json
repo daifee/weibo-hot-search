@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706969651592,
+  "endTime": 1706970831889,
   "band_list": [
     {
       "raw_hot": 2994365,
@@ -33,6 +33,14 @@
       "onboard_time": 1706928268,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1846290,
+      "num": 1846290,
+      "word": "日本队遭绝杀",
+      "onboard_time": 1706967214,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1831345,
@@ -219,6 +227,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 876890,
+      "num": 876890,
+      "word": "香港顶流姜涛舞蹈直拍",
+      "onboard_time": 1706967393,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 868487,
+      "num": 868487,
+      "word": "肖战演讲",
+      "onboard_time": 1706969556,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 862370,
       "num": 454269,
       "word": "哭了三天",
@@ -249,6 +273,14 @@
       "onboard_time": 1706935349,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 814759,
+      "num": 420876,
+      "word": "爱情公寓 一镜到底",
+      "onboard_time": 1706969072,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 797598,
@@ -307,14 +339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 695635,
-      "num": 461550,
-      "word": "香港顶流姜涛舞蹈直拍",
-      "onboard_time": 1706967393,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 686533,
       "num": 686533,
       "word": "被EDG菜笑啦",
@@ -361,6 +385,14 @@
       "onboard_time": 1706962532,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 645747,
+      "num": 645747,
+      "word": "花花和妹妹越来越黏糊了",
+      "onboard_time": 1706967992,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634206,
@@ -507,6 +539,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 525230,
+      "num": 253838,
+      "word": "白鹿梦回姜雪宁",
+      "onboard_time": 1706969072,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523256,
       "num": 523256,
       "word": "脱口秀大会第六季大王",
@@ -651,14 +691,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 464023,
-      "num": 464023,
-      "word": "花花和妹妹越来越黏糊了",
-      "onboard_time": 1706967992,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457052,
       "num": 457052,
       "word": "白敬亭开了咖啡店",
@@ -691,12 +723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438330,
+      "num": 191720,
+      "word": "因为彩礼我和相恋8年的男友分手了",
+      "onboard_time": 1706968953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437451,
       "num": 274293,
       "word": "为啥车厘子1月价格比11月低那么多",
       "onboard_time": 1706963131,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 428688,
+      "num": 191687,
+      "word": "宋茜青花瓷 大气",
+      "onboard_time": 1706969854,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 428210,
@@ -819,14 +867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 377116,
-      "num": 169930,
-      "word": "爱情公寓 一镜到底",
-      "onboard_time": 1706969072,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375557,
       "num": 375557,
       "word": "谭松韵天竺少女",
@@ -891,11 +931,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 354031,
-      "num": 153993,
-      "word": "白鹿梦回姜雪宁",
-      "onboard_time": 1706969072,
-      "rank": 25,
+      "raw_hot": 353375,
+      "num": 191611,
+      "word": "小品搭子 难看",
+      "onboard_time": 1706969436,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -932,7 +972,7 @@
     },
     {
       "raw_hot": 335827,
-      "num": 153055,
+      "num": 188299,
       "word": "肖战声线感染力",
       "onboard_time": 1706967992,
       "rank": 27,
@@ -1307,6 +1347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 235221,
+      "num": 190685,
+      "word": "张泽禹张极Bite Me",
+      "onboard_time": 1706970695,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233580,
       "num": 233580,
       "word": "网友地铁偶遇金世佳",
@@ -1395,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224823,
+      "num": 188556,
+      "word": "全深圳都在偶遇香港明星",
+      "onboard_time": 1706968594,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222215,
       "num": 222215,
       "word": "兔子战术惊呆老外",
@@ -1425,14 +1481,6 @@
       "onboard_time": 1706940089,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219282,
-      "num": 143789,
-      "word": "全深圳都在偶遇香港明星",
-      "onboard_time": 1706968594,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 218419,
@@ -1515,14 +1563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210719,
-      "num": 143050,
-      "word": "因为彩礼我和相恋8年的男友分手了",
-      "onboard_time": 1706968953,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210350,
       "num": 210350,
       "word": "宋亚轩吃瓜速度",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1706937151,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204151,
+      "num": 187898,
+      "word": "丁程鑫 国风街舞",
+      "onboard_time": 1706970272,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 204011,
@@ -1667,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201369,
-      "num": 112696,
-      "word": "小品搭子 难看",
-      "onboard_time": 1706969436,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201000,
       "num": 173809,
       "word": "创造营亚洲全员入驻微博",
@@ -1691,20 +1731,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199924,
+      "num": 199924,
+      "word": "亚洲杯",
+      "onboard_time": 1706891191,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199462,
       "num": 199462,
       "word": "金地雄脏话争议",
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199129,
-      "num": 112544,
-      "word": "肖战演讲",
-      "onboard_time": 1706969556,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 198445,
@@ -1723,6 +1763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197085,
+      "num": 187455,
+      "word": "白鹿给王星越打伞",
+      "onboard_time": 1706970813,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197081,
       "num": 166115,
       "word": "白鹿解锁第22套高定",
@@ -1739,12 +1787,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196274,
+      "num": 186939,
+      "word": "华晨宇舞台好浪漫",
+      "onboard_time": 1706969854,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195704,
       "num": 195704,
       "word": "假冒靳东诈骗案多人获刑",
       "onboard_time": 1706927789,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195297,
+      "num": 195297,
+      "word": "研究发现低热量饮食可延长寿命",
+      "onboard_time": 1706966011,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194520,
+      "num": 186078,
+      "word": "檀健次第一个出场",
+      "onboard_time": 1706970511,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 194293,
@@ -1801,6 +1873,22 @@
       "onboard_time": 1706951310,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191758,
+      "num": 191758,
+      "word": "BLG零封EDG",
+      "onboard_time": 1706969613,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "伊朗逆转淘汰日本",
+      "onboard_time": 1706970214,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 191090,
@@ -1860,7 +1948,7 @@
     },
     {
       "raw_hot": 186694,
-      "num": 186694,
+      "num": 189906,
       "word": "伊朗晋级亚洲杯四强",
       "onboard_time": 1706967992,
       "rank": 18,
@@ -1873,14 +1961,6 @@
       "onboard_time": 1706965771,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184048,
-      "num": 184048,
-      "word": "研究发现低热量饮食可延长寿命",
-      "onboard_time": 1706966011,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 183952,
@@ -2116,7 +2196,7 @@
     },
     {
       "raw_hot": 158048,
-      "num": 158048,
+      "num": 185065,
       "word": "一诺生日礼物拆箱vlog",
       "onboard_time": 1706967214,
       "rank": 44,
@@ -2275,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143813,
+      "num": 191559,
+      "word": "马宁补时判点",
+      "onboard_time": 1706969613,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "日本亚洲杯出局",
@@ -2361,14 +2449,6 @@
       "onboard_time": 1706942011,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136579,
-      "num": 136579,
-      "word": "亚洲杯",
-      "onboard_time": 1706891191,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 136131,
@@ -2529,6 +2609,14 @@
       "onboard_time": 1706939129,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128992,
+      "num": 191530,
+      "word": "大爷掏出补光灯那刻我人都惊呆了",
+      "onboard_time": 1706969794,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128863,
@@ -2763,6 +2851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111273,
+      "num": 189610,
+      "word": "疑似患癌者最终7%确诊",
+      "onboard_time": 1706970695,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109613,
       "num": 109613,
       "word": "你们和自己的爹熟吗",
@@ -2779,6 +2875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107333,
+      "num": 189071,
+      "word": "贺希宁太强了",
+      "onboard_time": 1706970813,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107315,
       "num": 107315,
       "word": "猫 不是谁抓谁啊老天爷",
@@ -2793,14 +2897,6 @@
       "onboard_time": 1706958810,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105667,
-      "num": 105667,
-      "word": "马宁补时判点",
-      "onboard_time": 1706969613,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 104994,
@@ -2851,14 +2947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99914,
-      "num": 99914,
-      "word": "BLG零封EDG",
-      "onboard_time": 1706969613,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99134,
       "num": 99134,
       "word": "属于济南人自己的顶级手办",
@@ -2888,6 +2976,14 @@
       "word": "卡皮巴拉演我的社交能力",
       "onboard_time": 1706968715,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97334,
+      "num": 185424,
+      "word": "听完这搓澡教学更不敢去了",
+      "onboard_time": 1706967757,
+      "rank": 48,
       "category": "幽默"
     },
     {
