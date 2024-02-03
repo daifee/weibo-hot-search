@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706942045240,
+  "endTime": 1706944514948,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1826163,
+      "num": 1826163,
+      "word": "删掉 她能看见",
+      "onboard_time": 1706940211,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1819565,
       "num": 1819565,
       "word": "机票价格",
@@ -417,14 +425,6 @@
       "onboard_time": 1706917345,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1670224,
-      "num": 1670224,
-      "word": "删掉 她能看见",
-      "onboard_time": 1706940211,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1652183,
@@ -1363,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 970498,
+      "num": 970498,
+      "word": "田曦薇 女将军人设",
+      "onboard_time": 1706941531,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 966880,
       "num": 966880,
       "word": "全球一半食管癌在中国",
@@ -1939,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797598,
+      "num": 797598,
+      "word": "韩红 李延亮",
+      "onboard_time": 1706941051,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797295,
       "num": 797295,
       "word": "胡先煦不愿意上综艺的原因",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1706710354,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 750851,
+      "num": 750851,
+      "word": "浦东机场",
+      "onboard_time": 1706937630,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 748964,
@@ -3915,6 +3939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493989,
+      "num": 394997,
+      "word": "致命游戏 好歹毒的演技",
+      "onboard_time": 1706939612,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 493354,
       "num": 493354,
       "word": "死亡万花筒原著粉",
@@ -4001,14 +4033,6 @@
       "onboard_time": 1706764829,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 486957,
-      "num": 486957,
-      "word": "韩红 李延亮",
-      "onboard_time": 1706941051,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 486219,
@@ -4337,14 +4361,6 @@
       "onboard_time": 1706673512,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 455954,
-      "num": 497863,
-      "word": "浦东机场",
-      "onboard_time": 1706937630,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455428,
@@ -4915,6 +4931,14 @@
       "category": "艺人,电影"
     },
     {
+      "raw_hot": 407496,
+      "num": 407496,
+      "word": "福建小孩噩梦  擦楼梯",
+      "onboard_time": 1706940512,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406769,
       "num": 406769,
       "word": "张颂文 不要为我花任何钱",
@@ -5049,14 +5073,6 @@
       "onboard_time": 1706700450,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394997,
-      "num": 394997,
-      "word": "致命游戏 好歹毒的演技",
-      "onboard_time": 1706939612,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 394658,
@@ -6387,6 +6403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313920,
+      "num": 259274,
+      "word": "哭了三天",
+      "onboard_time": 1706942668,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313403,
       "num": 313403,
       "word": "icon官宣退役",
@@ -6521,6 +6545,14 @@
       "onboard_time": 1706503055,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307409,
+      "num": 307409,
+      "word": "上海虹桥枢纽宣布网约车1小时免费停",
+      "onboard_time": 1706943270,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307003,
@@ -7291,6 +7323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274193,
+      "num": 229092,
+      "word": "伯克利偶遇王源",
+      "onboard_time": 1706943870,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273751,
       "num": 273751,
       "word": "美甲刺客",
@@ -7667,6 +7707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258318,
+      "num": 258318,
+      "word": "父亲耗时30天为儿子定制厂房婚礼",
+      "onboard_time": 1706941110,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256909,
       "num": 256909,
       "word": "湖南卫视春晚阵容",
@@ -7987,14 +8035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243183,
-      "num": 243183,
-      "word": "福建小孩噩梦  擦楼梯",
-      "onboard_time": 1706940512,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242930,
       "num": 242930,
       "word": "曝高迪跳平台将赔款4亿",
@@ -8291,6 +8331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233234,
+      "num": 233234,
+      "word": "奔驰加塞事件缺失监控曝光",
+      "onboard_time": 1706943991,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232952,
       "num": 232952,
       "word": "王安宇看收官看哭了",
@@ -8451,6 +8499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227477,
+      "num": 227477,
+      "word": "出轨者以为的和真实的出轨原因",
+      "onboard_time": 1706939011,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227298,
       "num": 227298,
       "word": "王者终究开始癫了",
@@ -8521,14 +8577,6 @@
       "onboard_time": 1706933011,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225607,
-      "num": 225607,
-      "word": "出轨者以为的和真实的出轨原因",
-      "onboard_time": 1706939011,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 225432,
@@ -9019,14 +9067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215868,
-      "num": 215868,
-      "word": "田曦薇 女将军人设",
-      "onboard_time": 1706941531,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215751,
       "num": 215751,
       "word": "IU金泰亨MV售后",
@@ -9041,6 +9081,14 @@
       "onboard_time": 1706411428,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215695,
+      "num": 201054,
+      "word": "肖战网络视听盛典彩排图",
+      "onboard_time": 1706942131,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 215104,
@@ -10033,14 +10081,6 @@
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199393,
-      "num": 218267,
-      "word": "父亲耗时30天为儿子定制厂房婚礼",
-      "onboard_time": 1706941110,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199338,
@@ -12851,6 +12891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154767,
+      "num": 154767,
+      "word": "晨起时这2个行为很伤肾",
+      "onboard_time": 1706942428,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154737,
       "num": 154737,
       "word": "这花甲也太不正经了",
@@ -13313,6 +13361,14 @@
       "onboard_time": 1706441132,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148569,
+      "num": 148569,
+      "word": "专家称A股风险是跌出来的",
+      "onboard_time": 1706944112,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 148260,
@@ -14755,6 +14811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131570,
+      "num": 131570,
+      "word": "龙年就要这样画龙妆",
+      "onboard_time": 1706942191,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131514,
       "num": 131514,
       "word": "沪市公司计划入市资金近600亿",
@@ -15403,6 +15467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125428,
+      "num": 125428,
+      "word": "龙年造梗大赛",
+      "onboard_time": 1706943509,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125365,
       "num": 125365,
       "word": "外面的反诈宣传已经进化成这样了",
@@ -15555,6 +15627,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123942,
+      "num": 123942,
+      "word": "电影都不敢这么拍",
+      "onboard_time": 1706943750,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123904,
       "num": 123904,
       "word": "詹姆斯眼神",
@@ -15569,6 +15649,14 @@
       "onboard_time": 1706419287,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123526,
+      "num": 123526,
+      "word": "原来跳水视角这么恐怖",
+      "onboard_time": 1706943689,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 123480,
@@ -15859,6 +15947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120304,
+      "num": 120304,
+      "word": "孕妈妈硬核劈叉催生",
+      "onboard_time": 1706944289,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 120261,
       "num": 120261,
       "word": "利雅得胜利6比0迈阿密国际",
@@ -15905,6 +16001,14 @@
       "onboard_time": 1706532092,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119391,
+      "num": 119391,
+      "word": "世界那么大我想去看看的女教师现状",
+      "onboard_time": 1706942609,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119290,
