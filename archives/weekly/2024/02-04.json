@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706992460226,
+  "endTime": 1706994837922,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -547,19 +547,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34581,
+      "num": 37685,
+      "word": "掏空积蓄为儿买婚房被中介骗600万",
+      "onboard_time": 1706992876,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34009,
+      "num": 20641,
+      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
+      "onboard_time": 1706991076,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29251,
       "num": 1039121,
       "word": "2024网络视听盛典",
       "onboard_time": 1706965592,
       "rank": 2,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 29130,
-      "num": 20641,
-      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
-      "onboard_time": 1706991076,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -587,7 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13971,
+      "raw_hot": 15450,
       "num": 20519,
       "word": "为什么流感发病48小时是黄金自救期",
       "onboard_time": 1706988319,
