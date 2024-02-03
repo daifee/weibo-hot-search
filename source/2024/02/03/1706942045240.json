@@ -1,0 +1,410 @@
+{
+  "runTime": 1706942045240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1857232,
+        "num": 1857232,
+        "word": "霸王茶姬 失眠",
+        "onboard_time": 1706938889,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1670224,
+        "num": 1670224,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102867,
+        "num": 1154326,
+        "word": "有一种年味儿叫置办年货",
+        "onboard_time": 1706932950,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971292,
+        "num": 971292,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 801876,
+        "num": 801876,
+        "word": "体检中心体检正常5个月后查出乳腺癌",
+        "onboard_time": 1706936907,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 721687,
+        "num": 721687,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697999,
+        "num": 697999,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614481,
+        "num": 614481,
+        "word": "杨波 一啵三折",
+        "onboard_time": 1706938772,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518675,
+        "num": 518675,
+        "word": "韩国男星性侵粉丝判有期徒刑3年",
+        "onboard_time": 1706935349,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455954,
+        "num": 497863,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486957,
+        "num": 486957,
+        "word": "韩红 李延亮",
+        "onboard_time": 1706941051,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472770,
+        "num": 472770,
+        "word": "鞠婧祎cos公孙离",
+        "onboard_time": 1706940089,
+        "rank": 11,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 395346,
+        "num": 395346,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356443,
+        "num": 356443,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339503,
+        "num": 339503,
+        "word": "女子本科毕业当瓦匠月入2万",
+        "onboard_time": 1706935591,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380664,
+        "num": 339308,
+        "word": "致命游戏 好歹毒的演技",
+        "onboard_time": 1706939612,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353017,
+        "num": 317598,
+        "word": "王一博被无故预定航班",
+        "onboard_time": 1706928088,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280348,
+        "num": 280348,
+        "word": "70岁的姥姥离婚了",
+        "onboard_time": 1706918786,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268458,
+        "num": 268458,
+        "word": "刘亦菲同款公主头",
+        "onboard_time": 1706940569,
+        "rank": 18,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 260331,
+        "num": 260331,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334381,
+        "num": 252711,
+        "word": "毛晓彤国风公主裙",
+        "onboard_time": 1706936249,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313211,
+        "num": 250067,
+        "word": "暴雪时分 留学生",
+        "onboard_time": 1706926772,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244970,
+        "num": 244970,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243183,
+        "num": 243183,
+        "word": "福建小孩噩梦  擦楼梯",
+        "onboard_time": 1706940512,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232623,
+        "num": 232623,
+        "word": "我用阿姨微信把她弟弟怼了",
+        "onboard_time": 1706937448,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281035,
+        "num": 231526,
+        "word": "风月不相关 刘宇宁田曦薇",
+        "onboard_time": 1706941289,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277568,
+        "num": 228902,
+        "word": "韩红孙楠为抢宋亚轩吵架",
+        "onboard_time": 1706938950,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276479,
+        "num": 228720,
+        "word": "杨波段子",
+        "onboard_time": 1706933789,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225607,
+        "num": 225607,
+        "word": "出轨者以为的和真实的出轨原因",
+        "onboard_time": 1706939011,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199393,
+        "num": 218267,
+        "word": "父亲耗时30天为儿子定制厂房婚礼",
+        "onboard_time": 1706941110,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215868,
+        "num": 215868,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211677,
+        "num": 211677,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1706938889,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210350,
+        "num": 210350,
+        "word": "宋亚轩吃瓜速度",
+        "onboard_time": 1706941473,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205500,
+        "num": 205500,
+        "word": "马景涛与前妻为儿子庆生",
+        "onboard_time": 1706936907,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173227,
+        "num": 173227,
+        "word": "12306回应2名乘客买到同日同座票",
+        "onboard_time": 1706922148,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190168,
+        "num": 171990,
+        "word": "网友地铁偶遇金世佳",
+        "onboard_time": 1706939129,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167812,
+        "num": 167812,
+        "word": "花间令预约",
+        "onboard_time": 1706940089,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159196,
+        "num": 159196,
+        "word": "2女孩疑遭人拐卖上高速呼喊求助",
+        "onboard_time": 1706930188,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149578,
+        "num": 149578,
+        "word": "朱易 对自己今天的表现不满意",
+        "onboard_time": 1706938589,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134761,
+        "num": 134761,
+        "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+        "onboard_time": 1706922750,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159934,
+        "num": 134020,
+        "word": "黄景瑜冬至杀青发了八万多红包",
+        "onboard_time": 1706938349,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136751,
+        "num": 134010,
+        "word": "宋轶新加坡citywalk",
+        "onboard_time": 1706942011,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132840,
+        "num": 132840,
+        "word": "唐九洲梦想 骗文韬",
+        "onboard_time": 1706937092,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113163,
+        "num": 113163,
+        "word": "应声虫",
+        "onboard_time": 1706941651,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3401,
+        "num": 110409,
+        "word": "元梦之星承包你的年货",
+        "onboard_time": 1706938469,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109844,
+        "num": 109844,
+        "word": "PPT 骗骗他",
+        "onboard_time": 1706932889,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109797,
+        "num": 109797,
+        "word": "周深易燃易爆炸舞台",
+        "onboard_time": 1706940332,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107831,
+        "num": 107831,
+        "word": "BOA对战DYG",
+        "onboard_time": 1706940388,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107644,
+        "num": 107644,
+        "word": "A股呈现中期牛熊轮回长期逐步上升",
+        "onboard_time": 1706932769,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106548,
+        "num": 106548,
+        "word": "死亡万花筒原著粉",
+        "onboard_time": 1706919447,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福#"
+    }
+  }
+}

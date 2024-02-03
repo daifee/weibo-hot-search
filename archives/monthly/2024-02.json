@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706941213708,
+  "endTime": 1706942045240,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -217,6 +217,14 @@
       "onboard_time": 1706917345,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1670224,
+      "num": 1670224,
+      "word": "删掉 她能看见",
+      "onboard_time": 1706940211,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1639551,
@@ -577,14 +585,6 @@
       "onboard_time": 1706935230,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 991366,
-      "num": 991366,
-      "word": "删掉 她能看见",
-      "onboard_time": 1706940211,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 991110,
@@ -1195,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614481,
+      "num": 614481,
+      "word": "杨波 一啵三折",
+      "onboard_time": 1706938772,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614101,
       "num": 714772,
       "word": "A股再跌可能会需要更多救市资金",
@@ -1336,14 +1344,6 @@
       "word": "我做鬼也不会放过你",
       "onboard_time": 1706863532,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 562700,
-      "num": 562700,
-      "word": "杨波 一啵三折",
-      "onboard_time": 1706938772,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -1619,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486957,
+      "num": 486957,
+      "word": "韩红 李延亮",
+      "onboard_time": 1706941051,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486219,
       "num": 486219,
       "word": "大侦探 播不播",
@@ -1691,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472770,
+      "num": 472770,
+      "word": "鞠婧祎cos公孙离",
+      "onboard_time": 1706940089,
+      "rank": 21,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 471660,
       "num": 471660,
       "word": "孙千露腰了",
@@ -1755,6 +1771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 455954,
+      "num": 497863,
+      "word": "浦东机场",
+      "onboard_time": 1706937630,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455428,
       "num": 455428,
       "word": "杭州一女子高空杂技表演时坠落身亡",
@@ -1777,14 +1801,6 @@
       "onboard_time": 1706936907,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446301,
-      "num": 446301,
-      "word": "浦东机场",
-      "onboard_time": 1706937630,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442538,
@@ -2411,14 +2427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335410,
-      "num": 268470,
-      "word": "鞠婧祎cos公孙离",
-      "onboard_time": 1706940089,
-      "rank": 21,
-      "category": "作品衍生,游戏"
-    },
-    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -2891,6 +2899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281035,
+      "num": 231526,
+      "word": "风月不相关 刘宇宁田曦薇",
+      "onboard_time": 1706941289,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280845,
       "num": 207268,
       "word": "二月狗屎运最旺的星座",
@@ -3043,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268458,
+      "num": 268458,
+      "word": "刘亦菲同款公主头",
+      "onboard_time": 1706940569,
+      "rank": 24,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 266654,
       "num": 266654,
       "word": "EDG更换首发AD被处罚",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259221,
-      "num": 259221,
-      "word": "刘亦菲同款公主头",
-      "onboard_time": 1706940569,
-      "rank": 24,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 259187,
@@ -3273,6 +3289,14 @@
       "onboard_time": 1706852972,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243183,
+      "num": 243183,
+      "word": "福建小孩噩梦  擦楼梯",
+      "onboard_time": 1706940512,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 242166,
@@ -3531,6 +3555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225607,
+      "num": 225607,
+      "word": "出轨者以为的和真实的出轨原因",
+      "onboard_time": 1706939011,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225432,
       "num": 193883,
       "word": "张艺谋夸刘耀文是电影脸",
@@ -3617,14 +3649,6 @@
       "onboard_time": 1706768428,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221830,
-      "num": 221830,
-      "word": "出轨者以为的和真实的出轨原因",
-      "onboard_time": 1706939011,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 221725,
@@ -3787,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215868,
+      "num": 215868,
+      "word": "田曦薇 女将军人设",
+      "onboard_time": 1706941531,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215104,
       "num": 215104,
       "word": "秦岚短发羊毛卷",
@@ -3856,6 +3888,14 @@
       "word": "朱正廷舞台中式恐怖",
       "onboard_time": 1706861252,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210350,
+      "num": 210350,
+      "word": "宋亚轩吃瓜速度",
+      "onboard_time": 1706941473,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -4137,6 +4177,14 @@
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199393,
+      "num": 218267,
+      "word": "父亲耗时30天为儿子定制厂房婚礼",
+      "onboard_time": 1706941110,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199338,
@@ -4641,14 +4689,6 @@
       "onboard_time": 1706881893,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184730,
-      "num": 184730,
-      "word": "福建小孩噩梦  擦楼梯",
-      "onboard_time": 1706940512,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 184171,
@@ -6059,6 +6099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136751,
+      "num": 134010,
+      "word": "宋轶新加坡citywalk",
+      "onboard_time": 1706942011,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136579,
       "num": 136579,
       "word": "亚洲杯",
@@ -6155,14 +6203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134539,
-      "num": 134539,
-      "word": "韩红 李延亮",
-      "onboard_time": 1706941051,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134452,
       "num": 134452,
       "word": "女神异闻录3reload上线",
@@ -6236,7 +6276,7 @@
     },
     {
       "raw_hot": 132737,
-      "num": 1064013,
+      "num": 1154326,
       "word": "有一种年味儿叫置办年货",
       "onboard_time": 1706932950,
       "rank": 2,
@@ -6513,14 +6553,6 @@
       "onboard_time": 1706757453,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126149,
-      "num": 126149,
-      "word": "父亲耗时30天为儿子定制厂房婚礼",
-      "onboard_time": 1706941110,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125520,
@@ -6841,6 +6873,14 @@
       "onboard_time": 1706838090,
       "rank": 40,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 113163,
+      "num": 113163,
+      "word": "应声虫",
+      "onboard_time": 1706941651,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 112865,
