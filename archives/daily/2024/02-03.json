@@ -1,10 +1,10 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706930401863,
+  "endTime": 1706931240139,
   "band_list": [
     {
-      "raw_hot": 1792840,
-      "num": 1792840,
+      "raw_hot": 1882120,
+      "num": 1882120,
       "word": "霸王茶姬抽奖",
       "onboard_time": 1706928268,
       "rank": 0,
@@ -51,16 +51,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 843899,
-      "num": 843899,
+      "raw_hot": 908248,
+      "num": 908248,
       "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
       "onboard_time": 1706922750,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 836622,
-      "num": 836622,
+      "raw_hot": 836949,
+      "num": 836949,
       "word": "王一博被无故预定航班",
       "onboard_time": 1706928088,
       "rank": 6,
@@ -267,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400577,
+      "num": 400577,
+      "word": "乐华声明",
+      "onboard_time": 1706929048,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371270,
       "num": 371270,
       "word": "武汉下冰",
       "onboard_time": 1706925271,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361564,
-      "num": 361564,
-      "word": "乐华声明",
-      "onboard_time": 1706929048,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 358560,
@@ -420,11 +420,27 @@
     },
     {
       "raw_hot": 258498,
-      "num": 203255,
+      "num": 248800,
       "word": "她42岁孤身出国读博",
       "onboard_time": 1706928930,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250130,
+      "num": 250130,
+      "word": "2女孩疑遭人拐卖上高速呼喊求助",
+      "onboard_time": 1706930188,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248350,
+      "num": 248350,
+      "word": "在暴雪时分 冬装穿搭",
+      "onboard_time": 1706929108,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 241291,
@@ -443,12 +459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229650,
-      "num": 229650,
-      "word": "在暴雪时分 冬装穿搭",
-      "onboard_time": 1706929108,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 237597,
+      "num": 237597,
+      "word": "不出门原因 不是i人是q人",
+      "onboard_time": 1706929830,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 228468,
@@ -475,8 +491,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221908,
-      "num": 221908,
+      "raw_hot": 226602,
+      "num": 226602,
       "word": "王源又回学校了",
       "onboard_time": 1706927607,
       "rank": 26,
@@ -547,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203815,
+      "num": 203815,
+      "word": "新余警方通报网传疑似家暴视频",
+      "onboard_time": 1706929830,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202690,
       "num": 202690,
       "word": "时代少年团外务",
@@ -569,6 +593,14 @@
       "onboard_time": 1706927789,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190713,
+      "num": 190713,
+      "word": "媒体三问中国小动物保护协会",
+      "onboard_time": 1706930491,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188269,
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168115,
+      "num": 168115,
+      "word": "刘强东送老家乡亲7吨年货礼盒",
+      "onboard_time": 1706931030,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166749,
       "num": 166749,
       "word": "经常吃冷米饭有助于改善脂肪肝",
@@ -668,27 +708,11 @@
     },
     {
       "raw_hot": 165996,
-      "num": 203537,
+      "num": 205825,
       "word": "汶川地震被救男孩长大后成为武警",
       "onboard_time": 1706925990,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159602,
-      "num": 159602,
-      "word": "新余警方通报网传疑似家暴视频",
-      "onboard_time": 1706929830,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154720,
-      "num": 154720,
-      "word": "不出门原因 不是i人是q人",
-      "onboard_time": 1706929830,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 153055,
@@ -731,12 +755,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147216,
+      "num": 147216,
+      "word": "吴磊赵今麦童年照vs情侣照",
+      "onboard_time": 1706930791,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "突然对水果冷知识起敬意了",
       "onboard_time": 1706920709,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143321,
+      "num": 143321,
+      "word": "兔子战术惊呆老外",
+      "onboard_time": 1706931087,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 141260,
@@ -843,12 +883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130521,
+      "num": 130521,
+      "word": "鞠婧祎千香婚服路透",
+      "onboard_time": 1706930970,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129394,
       "num": 159901,
       "word": "刘暖曦再审申请被法院驳回",
       "onboard_time": 1706880274,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127595,
+      "num": 127595,
+      "word": "董宇辉新东方年会发言",
+      "onboard_time": 1706930912,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 126662,
@@ -883,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121532,
-      "num": 121532,
-      "word": "2女孩疑遭人拐卖上高速呼喊求助",
-      "onboard_time": 1706930188,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117954,
       "num": 117954,
       "word": "金地雄视频签售结束后说西八",
@@ -904,6 +952,14 @@
       "word": "娃哈哈再发6亿年终奖",
       "onboard_time": 1706920829,
       "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 115949,
+      "num": 109697,
+      "word": "我家的团圆味道",
+      "onboard_time": 1706930731,
+      "rank": 49,
       "category": "美食"
     },
     {
@@ -1211,19 +1267,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33297,
+      "num": 1233111,
+      "word": "2024网络视听盛典阵容官宣",
+      "onboard_time": 1706679395,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32911,
       "num": 40857,
       "word": "央视boys一次唱12个神话",
       "onboard_time": 1706902276,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 29787,
-      "num": 1233111,
-      "word": "2024网络视听盛典阵容官宣",
-      "onboard_time": 1706679395,
-      "rank": 2,
       "category": "综艺"
     },
     {

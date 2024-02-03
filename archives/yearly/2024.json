@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706930401863,
+  "endTime": 1706931240139,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1659,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1882120,
+      "num": 1882120,
+      "word": "霸王茶姬抽奖",
+      "onboard_time": 1706928268,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1880895,
       "num": 1880895,
       "word": "愿逆风如解意 税后十个亿",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1706154332,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1792840,
-      "num": 1792840,
-      "word": "霸王茶姬抽奖",
-      "onboard_time": 1706928268,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1792783,
