@@ -1,0 +1,410 @@
+{
+  "runTime": 1706952836865,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252937,
+        "num": 1252937,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 889732,
+        "num": 889732,
+        "word": "15年花千骨删减片段",
+        "onboard_time": 1706951012,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164235,
+        "num": 776176,
+        "word": "网络视听盛典发布节目单",
+        "onboard_time": 1706948191,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 975701,
+        "num": 757929,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732728,
+        "num": 732728,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571165,
+        "num": 571165,
+        "word": "甄嬛的尼姑服是M码的",
+        "onboard_time": 1706946869,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562931,
+        "num": 562931,
+        "word": "奥运冠军杨倩启蒙教练再发声",
+        "onboard_time": 1706949868,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508488,
+        "num": 508488,
+        "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
+        "onboard_time": 1706947109,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459982,
+        "num": 459982,
+        "word": "小米SU7首撞",
+        "onboard_time": 1706949208,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266599,
+        "num": 445375,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442755,
+        "num": 442755,
+        "word": "奔驰加塞事件缺失监控曝光",
+        "onboard_time": 1706943991,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417129,
+        "num": 417129,
+        "word": "哭了三天",
+        "onboard_time": 1706942668,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356459,
+        "num": 356459,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340559,
+        "num": 340559,
+        "word": "刘强东同款礼盒倒手能赚140元",
+        "onboard_time": 1706951670,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 329469,
+        "num": 329469,
+        "word": "创造营亚洲导师合唱创4主题曲",
+        "onboard_time": 1706951134,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285292,
+        "num": 285292,
+        "word": "出轨者以为的和真实的出轨原因",
+        "onboard_time": 1706939011,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282383,
+        "num": 282383,
+        "word": "咖啡哥 微笑姐",
+        "onboard_time": 1706946571,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274701,
+        "num": 274701,
+        "word": "医生说的清淡饮食好多人都搞错了",
+        "onboard_time": 1706946088,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259351,
+        "num": 259351,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197868,
+        "num": 197868,
+        "word": "上海虹桥枢纽宣布网约车1小时免费停",
+        "onboard_time": 1706943270,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390353,
+        "num": 195945,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268983,
+        "num": 194444,
+        "word": "南方人真的不适合去北方搓澡",
+        "onboard_time": 1706948908,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259202,
+        "num": 193579,
+        "word": "杨波 一啵三折",
+        "onboard_time": 1706938772,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238326,
+        "num": 190548,
+        "word": "杨幂戴龙角",
+        "onboard_time": 1706946571,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236024,
+        "num": 187725,
+        "word": "开端会有第二部",
+        "onboard_time": 1706949691,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187363,
+        "num": 187363,
+        "word": "TES战胜RA",
+        "onboard_time": 1706951850,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191655,
+        "num": 186681,
+        "word": "伯克利偶遇王源",
+        "onboard_time": 1706943870,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183343,
+        "num": 183343,
+        "word": "Creme小炮五杀",
+        "onboard_time": 1706951310,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138076,
+        "num": 182743,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1706938889,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120090,
+        "num": 182515,
+        "word": "刘诗雯每周一到两次普拉提",
+        "onboard_time": 1706948908,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182399,
+        "num": 182399,
+        "word": "皇马把李现难住了",
+        "onboard_time": 1706949331,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 174540,
+        "num": 174540,
+        "word": "韩红 李延亮",
+        "onboard_time": 1706941051,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172578,
+        "num": 172578,
+        "word": "你们给秦海璐留点面子吧",
+        "onboard_time": 1706949090,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170580,
+        "num": 170580,
+        "word": "鞠婧祎cos公孙离",
+        "onboard_time": 1706940089,
+        "rank": 33,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 168794,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165294,
+        "num": 165294,
+        "word": "在暴雪时分幕后花絮",
+        "onboard_time": 1706952689,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161237,
+        "num": 161237,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148036,
+        "num": 148036,
+        "word": "为什么广东人不容易抑郁",
+        "onboard_time": 1706947467,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146968,
+        "num": 146968,
+        "word": "TF家族 收票",
+        "onboard_time": 1706952750,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133971,
+        "num": 142724,
+        "word": "航母福建舰侧面全身照来了",
+        "onboard_time": 1706951969,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141879,
+        "num": 141879,
+        "word": "李龙馥跳科目三",
+        "onboard_time": 1706948850,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139854,
+        "num": 139854,
+        "word": "肖战网络视听盛典彩排图",
+        "onboard_time": 1706942131,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135485,
+        "num": 135485,
+        "word": "张碧晨有自己的语言系统",
+        "onboard_time": 1706951792,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132718,
+        "num": 132718,
+        "word": "来自BOA的震撼",
+        "onboard_time": 1706948908,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131331,
+        "num": 131331,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117003,
+        "num": 117003,
+        "word": "体检中心体检正常5个月后查出乳腺癌",
+        "onboard_time": 1706936907,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115474,
+        "num": 115474,
+        "word": "LGD对战RW",
+        "onboard_time": 1706952809,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113919,
+        "num": 113919,
+        "word": "法国巴黎一火车站发生袭击事件",
+        "onboard_time": 1706948553,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109613,
+        "num": 109613,
+        "word": "你们和自己的爹熟吗",
+        "onboard_time": 1706950711,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83915,
+        "num": 109368,
+        "word": "谷爱凌和奶奶过小年",
+        "onboard_time": 1706949511,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福#"
+    }
+  }
+}

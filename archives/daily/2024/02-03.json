@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706951822352,
+  "endTime": 1706952836865,
   "band_list": [
     {
       "raw_hot": 1922130,
@@ -113,6 +113,14 @@
       "onboard_time": 1706943991,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889732,
+      "num": 889732,
+      "word": "15年花千骨删减片段",
+      "onboard_time": 1706951012,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 877428,
@@ -283,6 +291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 562931,
+      "num": 562931,
+      "word": "奥运冠军杨倩启蒙教练再发声",
+      "onboard_time": 1706949868,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553113,
       "num": 451994,
       "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
@@ -353,14 +369,6 @@
       "onboard_time": 1706926772,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 495408,
-      "num": 495408,
-      "word": "奥运冠军杨倩启蒙教练再发声",
-      "onboard_time": 1706949868,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 493989,
@@ -473,14 +481,6 @@
       "onboard_time": 1706936907,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447508,
-      "num": 447508,
-      "word": "15年花千骨删减片段",
-      "onboard_time": 1706951012,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 442538,
@@ -619,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340559,
+      "num": 340559,
+      "word": "刘强东同款礼盒倒手能赚140元",
+      "onboard_time": 1706951670,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 330150,
       "num": 330150,
       "word": "1岁外孙来家外公急忙砍竹子做围墙",
       "onboard_time": 1706916320,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329469,
+      "num": 329469,
+      "word": "创造营亚洲导师合唱创4主题曲",
+      "onboard_time": 1706951134,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 326010,
@@ -747,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268983,
+      "num": 200594,
+      "word": "南方人真的不适合去北方搓澡",
+      "onboard_time": 1706948908,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268458,
       "num": 268458,
       "word": "刘亦菲同款公主头",
@@ -819,28 +843,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 241672,
-      "num": 200594,
-      "word": "南方人真的不适合去北方搓澡",
-      "onboard_time": 1706948908,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241291,
       "num": 241291,
       "word": "郭麒麟又亲爹了",
       "onboard_time": 1706881713,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240417,
-      "num": 192205,
-      "word": "创造营亚洲导师合唱创4主题曲",
-      "onboard_time": 1706951134,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 239088,
@@ -1227,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187363,
+      "num": 187363,
+      "word": "TES战胜RA",
+      "onboard_time": 1706951850,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187330,
       "num": 187330,
       "word": "美甲翻车",
@@ -1324,7 +1340,7 @@
     },
     {
       "raw_hot": 170518,
-      "num": 164943,
+      "num": 182515,
       "word": "刘诗雯每周一到两次普拉提",
       "onboard_time": 1706948908,
       "rank": 33,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1706936011,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168794,
+      "num": 168794,
+      "word": "突然出现的咽喉炎到底是什么病毒",
+      "onboard_time": 1706952211,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168168,
@@ -1379,20 +1403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165294,
+      "num": 165294,
+      "word": "在暴雪时分幕后花絮",
+      "onboard_time": 1706952689,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164235,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162025,
       "num": 162025,
       "word": "朱易 对自己今天的表现不满意",
       "onboard_time": 1706938589,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160780,
-      "num": 1032191,
-      "word": "网络视听盛典发布节目单",
-      "onboard_time": 1706948191,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 154767,
@@ -1491,12 +1523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146814,
-      "num": 146814,
-      "word": "刘强东同款礼盒倒手能赚140元",
-      "onboard_time": 1706951670,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 146968,
+      "num": 146968,
+      "word": "TF家族 收票",
+      "onboard_time": 1706952750,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 146768,
@@ -1611,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135485,
+      "num": 135485,
+      "word": "张碧晨有自己的语言系统",
+      "onboard_time": 1706951792,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135089,
       "num": 135089,
       "word": "内蒙古3米9大锅冰煮30只羊",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1706925329,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133971,
+      "num": 142724,
+      "word": "航母福建舰侧面全身照来了",
+      "onboard_time": 1706951969,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133726,
@@ -1819,14 +1867,6 @@
       "category": "游戏,作品衍生"
     },
     {
-      "raw_hot": 117044,
-      "num": 117044,
-      "word": "张碧晨有自己的语言系统",
-      "onboard_time": 1706951792,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "娃哈哈再发6亿年终奖",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1706930731,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115474,
+      "num": 115474,
+      "word": "LGD对战RW",
+      "onboard_time": 1706952809,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 115045,
@@ -1891,8 +1939,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108668,
-      "num": 108668,
+      "raw_hot": 109613,
+      "num": 109613,
       "word": "你们和自己的爹熟吗",
       "onboard_time": 1706950711,
       "rank": 46,
@@ -2020,7 +2068,7 @@
     },
     {
       "raw_hot": 90260,
-      "num": 101995,
+      "num": 109368,
       "word": "谷爱凌和奶奶过小年",
       "onboard_time": 1706949511,
       "rank": 49,
