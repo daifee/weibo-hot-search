@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706937346836,
+  "endTime": 1706938438564,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1831345,
+      "num": 1831345,
+      "word": "刘德华回应隐婚",
+      "onboard_time": 1706934989,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1818903,
       "num": 1818903,
       "word": "老人去世前3小时突然清醒遗愿令人泪崩",
@@ -177,14 +185,6 @@
       "onboard_time": 1706785593,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1744305,
-      "num": 1744305,
-      "word": "刘德华回应隐婚",
-      "onboard_time": 1706934989,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1716105,
@@ -561,6 +561,14 @@
       "onboard_time": 1706847813,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 999231,
+      "num": 999231,
+      "word": "警方称家暴视频是妻子发泄情绪拼接的",
+      "onboard_time": 1706935230,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991110,
@@ -1147,14 +1155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 618797,
-      "num": 618797,
-      "word": "警方称家暴视频是妻子发泄情绪拼接的",
-      "onboard_time": 1706935230,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 616223,
       "num": 616223,
       "word": "人民网评张波叶诚尘被执行死刑",
@@ -1739,6 +1739,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 449006,
+      "num": 449006,
+      "word": "马景涛与前妻为儿子庆生",
+      "onboard_time": 1706936907,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 442803,
+      "num": 442803,
+      "word": "体检中心体检正常5个月后查出乳腺癌",
+      "onboard_time": 1706936907,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 442538,
       "num": 442538,
       "word": "乐华声明",
@@ -1891,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411800,
+      "num": 411800,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409540,
       "num": 409540,
       "word": "奇瑞",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1706844811,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393378,
-      "num": 393378,
-      "word": "PPT 骗骗他",
-      "onboard_time": 1706932889,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 391439,
@@ -2331,14 +2347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335619,
-      "num": 335619,
-      "word": "马景涛与前妻为儿子庆生",
-      "onboard_time": 1706936907,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334754,
       "num": 259146,
       "word": "要结婚了才发现自己是小学学历",
@@ -2435,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328234,
+      "num": 328234,
+      "word": "毛晓彤国风公主裙",
+      "onboard_time": 1706936249,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "曝湖人可能交易詹姆斯",
@@ -2483,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321310,
-      "num": 321310,
-      "word": "毛晓彤国风公主裙",
-      "onboard_time": 1706936249,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 319851,
       "num": 319851,
       "word": "A股破净股比例超10%",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1706725339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315343,
+      "num": 315343,
+      "word": "第五人格调香师",
+      "onboard_time": 1706936730,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 313213,
@@ -2595,14 +2611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305529,
-      "num": 305529,
-      "word": "第五人格调香师",
-      "onboard_time": 1706936730,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304934,
       "num": 304934,
       "word": "恋与深空VisionPro版",
@@ -2656,6 +2664,14 @@
       "word": "其实追星比恋爱更无害",
       "onboard_time": 1706764173,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 301570,
+      "num": 185106,
+      "word": "我用阿姨微信把她弟弟怼了",
+      "onboard_time": 1706937448,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -3275,14 +3291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236066,
-      "num": 201909,
-      "word": "体检中心体检正常5个月后查出乳腺癌",
-      "onboard_time": 1706936907,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 235831,
       "num": 235831,
       "word": "95后为升职加薪开始社牛式比拼",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1706766088,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231056,
+      "num": 231056,
+      "word": "唐九洲梦想 骗文韬",
+      "onboard_time": 1706937092,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 230189,
@@ -3723,12 +3739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211470,
+      "num": 211470,
+      "word": "浦东机场",
+      "onboard_time": 1706937630,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211392,
       "num": 346590,
       "word": "鞠婧祎一舞翩翩",
       "onboard_time": 1706878953,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211004,
+      "num": 211004,
+      "word": "黄景瑜冬至杀青发了八万多红包",
+      "onboard_time": 1706938349,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 210765,
@@ -4009,6 +4041,14 @@
       "onboard_time": 1706834014,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199462,
+      "num": 199462,
+      "word": "金地雄脏话争议",
+      "onboard_time": 1706937512,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 199338,
@@ -5291,14 +5331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156835,
-      "num": 156835,
-      "word": "唐九洲梦想 骗文韬",
-      "onboard_time": 1706937092,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156795,
       "num": 156795,
       "word": "国家大剧院 红楼梦舞剧",
@@ -5361,6 +5393,14 @@
       "onboard_time": 1706783612,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154616,
+      "num": 154616,
+      "word": "ZB1公司回应金地雄签售",
+      "onboard_time": 1706937931,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 154549,
@@ -6068,7 +6108,7 @@
     },
     {
       "raw_hot": 132737,
-      "num": 815051,
+      "num": 815823,
       "word": "有一种年味儿叫置办年货",
       "onboard_time": 1706932950,
       "rank": 2,

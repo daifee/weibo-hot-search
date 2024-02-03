@@ -1,0 +1,410 @@
+{
+  "runTime": 1706938438564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1831345,
+        "num": 1831345,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 999231,
+        "num": 999231,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127396,
+        "num": 815823,
+        "word": "有一种年味儿叫置办年货",
+        "onboard_time": 1706932950,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815448,
+        "num": 815448,
+        "word": "韩国男星性侵粉丝判有期徒刑3年",
+        "onboard_time": 1706935349,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628633,
+        "num": 628633,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601562,
+        "num": 601562,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580792,
+        "num": 580792,
+        "word": "王一博被无故预定航班",
+        "onboard_time": 1706928088,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580744,
+        "num": 580744,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470296,
+        "num": 470296,
+        "word": "70岁的姥姥离婚了",
+        "onboard_time": 1706918786,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465377,
+        "num": 465377,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 449006,
+        "num": 449006,
+        "word": "马景涛与前妻为儿子庆生",
+        "onboard_time": 1706936907,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442803,
+        "num": 442803,
+        "word": "体检中心体检正常5个月后查出乳腺癌",
+        "onboard_time": 1706936907,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 436763,
+        "num": 436763,
+        "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+        "onboard_time": 1706922750,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411800,
+        "num": 411800,
+        "word": "PPT 骗骗他",
+        "onboard_time": 1706932889,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384016,
+        "num": 384016,
+        "word": "暴雪时分 留学生",
+        "onboard_time": 1706926772,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347191,
+        "num": 347191,
+        "word": "12306回应2名乘客买到同日同座票",
+        "onboard_time": 1706922148,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335513,
+        "num": 335513,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328234,
+        "num": 328234,
+        "word": "毛晓彤国风公主裙",
+        "onboard_time": 1706936249,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319530,
+        "num": 319530,
+        "word": "2女孩疑遭人拐卖上高速呼喊求助",
+        "onboard_time": 1706930188,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315343,
+        "num": 315343,
+        "word": "第五人格调香师",
+        "onboard_time": 1706936730,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307503,
+        "num": 307503,
+        "word": "荣梓杉成年了",
+        "onboard_time": 1706932830,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288236,
+        "num": 288236,
+        "word": "女子本科毕业当瓦匠月入2万",
+        "onboard_time": 1706935591,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248365,
+        "num": 248365,
+        "word": "杨波段子",
+        "onboard_time": 1706933789,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240939,
+        "num": 240939,
+        "word": "惠英红给杨幂画的葫芦",
+        "onboard_time": 1706933731,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232061,
+        "num": 232061,
+        "word": "A股呈现中期牛熊轮回长期逐步上升",
+        "onboard_time": 1706932769,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231056,
+        "num": 231056,
+        "word": "唐九洲梦想 骗文韬",
+        "onboard_time": 1706937092,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211470,
+        "num": 211470,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211004,
+        "num": 211004,
+        "word": "黄景瑜冬至杀青发了八万多红包",
+        "onboard_time": 1706938349,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199462,
+        "num": 199462,
+        "word": "金地雄脏话争议",
+        "onboard_time": 1706937512,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186941,
+        "num": 186941,
+        "word": "死亡万花筒原著粉",
+        "onboard_time": 1706919447,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301570,
+        "num": 185106,
+        "word": "我用阿姨微信把她弟弟怼了",
+        "onboard_time": 1706937448,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181571,
+        "num": 181571,
+        "word": "苏醒爸爸的综艺感太强了",
+        "onboard_time": 1706932410,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176235,
+        "num": 176235,
+        "word": "空姐主动为玩偶系安全带",
+        "onboard_time": 1706935650,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171706,
+        "num": 171706,
+        "word": "刘强东送老家乡亲7吨年货礼盒",
+        "onboard_time": 1706931030,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163745,
+        "num": 163745,
+        "word": "种地吧直播预告",
+        "onboard_time": 1706936969,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154616,
+        "num": 154616,
+        "word": "ZB1公司回应金地雄签售",
+        "onboard_time": 1706937931,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150789,
+        "num": 150789,
+        "word": "恋与深空VisionPro版",
+        "onboard_time": 1706935412,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149144,
+        "num": 149144,
+        "word": "奶茶里的咖啡因含量比咖啡还高",
+        "onboard_time": 1706936011,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146360,
+        "num": 146360,
+        "word": "声生不息",
+        "onboard_time": 1706935110,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139642,
+        "num": 139642,
+        "word": "恋与深空保底机制",
+        "onboard_time": 1706933970,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137777,
+        "num": 137777,
+        "word": "为啥手机最后1%的电能用很久",
+        "onboard_time": 1706922450,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137192,
+        "num": 137192,
+        "word": "王者龙年CG",
+        "onboard_time": 1706936069,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132494,
+        "num": 132494,
+        "word": "在暴雪时分 冬装穿搭",
+        "onboard_time": 1706929108,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127019,
+        "num": 127019,
+        "word": "延吉公主",
+        "onboard_time": 1706927129,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126299,
+        "num": 126299,
+        "word": "每周休息两天半的公司现在怎么样了",
+        "onboard_time": 1706928210,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120376,
+        "num": 120376,
+        "word": "前TVB演员河国荣烧炭自杀",
+        "onboard_time": 1706916380,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 114822,
+        "word": "EDG更换首发AD被处罚",
+        "onboard_time": 1706928628,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112347,
+        "num": 112347,
+        "word": "以闪亮之名福鹿迎春",
+        "onboard_time": 1706937151,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109902,
+        "num": 109902,
+        "word": "科学家揭开癌细胞转移之谜",
+        "onboard_time": 1706936069,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109850,
+        "num": 109850,
+        "word": "过年三倍工资你会选择加班吗",
+        "onboard_time": 1706931569,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福#"
+    }
+  }
+}

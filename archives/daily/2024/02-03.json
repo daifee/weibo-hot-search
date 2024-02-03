@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706937346836,
+  "endTime": 1706938438564,
   "band_list": [
     {
       "raw_hot": 1882120,
@@ -11,8 +11,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1744305,
-      "num": 1744305,
+      "raw_hot": 1831345,
+      "num": 1831345,
       "word": "刘德华回应隐婚",
       "onboard_time": 1706934989,
       "rank": 0,
@@ -57,6 +57,14 @@
       "onboard_time": 1706918486,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 999231,
+      "num": 999231,
+      "word": "警方称家暴视频是妻子发泄情绪拼接的",
+      "onboard_time": 1706935230,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991110,
@@ -169,14 +177,6 @@
       "onboard_time": 1706916380,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 618797,
-      "num": 618797,
-      "word": "警方称家暴视频是妻子发泄情绪拼接的",
-      "onboard_time": 1706935230,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590259,
@@ -323,6 +323,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 449006,
+      "num": 449006,
+      "word": "马景涛与前妻为儿子庆生",
+      "onboard_time": 1706936907,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 442803,
+      "num": 442803,
+      "word": "体检中心体检正常5个月后查出乳腺癌",
+      "onboard_time": 1706936907,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 442538,
       "num": 442538,
       "word": "乐华声明",
@@ -339,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411800,
+      "num": 411800,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 401285,
       "num": 401285,
       "word": "惠英红给杨幂画的葫芦",
       "onboard_time": 1706933731,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393378,
-      "num": 393378,
-      "word": "PPT 骗骗他",
-      "onboard_time": 1706932889,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 371270,
@@ -403,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335619,
-      "num": 335619,
-      "word": "马景涛与前妻为儿子庆生",
-      "onboard_time": 1706936907,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330150,
       "num": 330150,
       "word": "1岁外孙来家外公急忙砍竹子做围墙",
       "onboard_time": 1706916320,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328234,
+      "num": 328234,
+      "word": "毛晓彤国风公主裙",
+      "onboard_time": 1706936249,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326010,
@@ -427,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321310,
-      "num": 321310,
-      "word": "毛晓彤国风公主裙",
-      "onboard_time": 1706936249,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 315343,
+      "num": 315343,
+      "word": "第五人格调香师",
+      "onboard_time": 1706936730,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 313202,
@@ -451,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305529,
-      "num": 305529,
-      "word": "第五人格调香师",
-      "onboard_time": 1706936730,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304934,
       "num": 304934,
       "word": "恋与深空VisionPro版",
       "onboard_time": 1706935412,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301570,
+      "num": 185106,
+      "word": "我用阿姨微信把她弟弟怼了",
+      "onboard_time": 1706937448,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 300924,
@@ -603,12 +619,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236066,
-      "num": 201909,
-      "word": "体检中心体检正常5个月后查出乳腺癌",
-      "onboard_time": 1706936907,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 231056,
+      "num": 231056,
+      "word": "唐九洲梦想 骗文韬",
+      "onboard_time": 1706937092,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 228468,
@@ -699,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211470,
+      "num": 211470,
+      "word": "浦东机场",
+      "onboard_time": 1706937630,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211004,
+      "num": 211004,
+      "word": "黄景瑜冬至杀青发了八万多红包",
+      "onboard_time": 1706938349,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209081,
       "num": 209081,
       "word": "苏醒爸爸的综艺感太强了",
@@ -785,6 +817,14 @@
       "onboard_time": 1706888731,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199462,
+      "num": 199462,
+      "word": "金地雄脏话争议",
+      "onboard_time": 1706937512,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195704,
@@ -947,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156835,
-      "num": 156835,
-      "word": "唐九洲梦想 骗文韬",
-      "onboard_time": 1706937092,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 154616,
+      "num": 154616,
+      "word": "ZB1公司回应金地雄签售",
+      "onboard_time": 1706937931,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 154068,
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 132737,
-      "num": 815051,
+      "num": 815823,
       "word": "有一种年味儿叫置办年货",
       "onboard_time": 1706932950,
       "rank": 2,
