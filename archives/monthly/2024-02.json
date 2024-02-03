@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706964188602,
+  "endTime": 1706966226007,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1418924,
+      "num": 1418924,
+      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+      "onboard_time": 1706961389,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1409446,
       "num": 1409446,
       "word": "投资人希望郑爽承担千万AI换脸费",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1172853,
+      "num": 1172853,
+      "word": "将进酒回来了",
+      "onboard_time": 1706963850,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1164744,
       "num": 1164744,
       "word": "男子见义勇为被砍4刀被救女孩拒作证",
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1013041,
+      "num": 517030,
+      "word": "马宁 尺度",
+      "onboard_time": 1706963733,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1011198,
       "num": 1011198,
       "word": "周杰伦杭州抢票",
@@ -649,6 +673,14 @@
       "onboard_time": 1706778687,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970761,
+      "num": 970761,
+      "word": "湖南春晚 科目三",
+      "onboard_time": 1706964511,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 970498,
@@ -1057,14 +1089,6 @@
       "onboard_time": 1706831185,
       "rank": 6,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 693983,
-      "num": 693983,
-      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
-      "onboard_time": 1706961389,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693378,
@@ -2059,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437451,
+      "num": 274293,
+      "word": "为啥车厘子1月价格比11月低那么多",
+      "onboard_time": 1706963131,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 437297,
       "num": 437297,
       "word": "BOA太猛了",
@@ -2179,14 +2211,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 415285,
-      "num": 415285,
-      "word": "将进酒回来了",
-      "onboard_time": 1706963850,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 414619,
       "num": 414619,
       "word": "格力年会 我妈就是董明珠",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1706847513,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413296,
+      "num": 413296,
+      "word": "被EDG菜笑啦",
+      "onboard_time": 1706965771,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 411800,
@@ -2451,20 +2483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375976,
+      "num": 375976,
+      "word": "脱口秀大会第六季大王",
+      "onboard_time": 1706964932,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375557,
       "num": 375557,
       "word": "谭松韵天竺少女",
       "onboard_time": 1706959352,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374741,
-      "num": 274293,
-      "word": "为啥车厘子1月价格比11月低那么多",
-      "onboard_time": 1706963131,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 373805,
@@ -2836,7 +2868,7 @@
     },
     {
       "raw_hot": 328553,
-      "num": 293326,
+      "num": 323649,
       "word": "看得出来我想追你吗",
       "onboard_time": 1706959411,
       "rank": 25,
@@ -2857,6 +2889,14 @@
       "onboard_time": 1706888193,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325271,
+      "num": 521190,
+      "word": "春节前三文鱼销量暴涨13倍",
+      "onboard_time": 1706964092,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 325083,
@@ -3483,6 +3523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263914,
+      "num": 263914,
+      "word": "酒后出现5个症状可能是猝死前兆",
+      "onboard_time": 1706965472,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 263528,
       "num": 263528,
       "word": "种地吧直播预告",
@@ -3529,6 +3577,14 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260758,
+      "num": 260758,
+      "word": "英雄联盟",
+      "onboard_time": 1706964572,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 259906,
@@ -3761,6 +3817,14 @@
       "onboard_time": 1706895142,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238088,
+      "num": 238088,
+      "word": "BLG对战EDG",
+      "onboard_time": 1706966072,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 237625,
@@ -4491,14 +4555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205853,
-      "num": 205853,
-      "word": "马宁 尺度",
-      "onboard_time": 1706963733,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205832,
       "num": 205832,
       "word": "龙宝",
@@ -4561,6 +4617,14 @@
       "onboard_time": 1706875292,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205070,
+      "num": 1175121,
+      "word": "2024网络视听盛典",
+      "onboard_time": 1706965592,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 204805,
@@ -4867,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195051,
+      "num": 195051,
+      "word": "杨幂官宣百花迎春",
+      "onboard_time": 1706965831,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194828,
       "num": 194828,
       "word": "Fly 不要气馁兄弟们下场赢回来",
@@ -5000,6 +5072,14 @@
       "word": "檀健次自封卧底教科书",
       "onboard_time": 1706955749,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192211,
+      "num": 192211,
+      "word": "魏大勋真的不是歌手吗",
+      "onboard_time": 1706966072,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -5219,6 +5299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187319,
+      "num": 187319,
+      "word": "朱志鑫无袖",
+      "onboard_time": 1706965289,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187236,
       "num": 187236,
       "word": "磊麦",
@@ -5313,6 +5401,14 @@
       "onboard_time": 1706881893,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184871,
+      "num": 184871,
+      "word": "余宇涵手臂肌肉",
+      "onboard_time": 1706965771,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 184171,
@@ -5931,6 +6027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166355,
+      "num": 209546,
+      "word": "蓝朋友看到女友瞬间绷不住哭了",
+      "onboard_time": 1706964870,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166116,
       "num": 166116,
       "word": "EVNNE音银一位",
@@ -6009,6 +6113,14 @@
       "onboard_time": 1706742740,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164373,
+      "num": 164373,
+      "word": "邓佳鑫 新贵妃醉酒",
+      "onboard_time": 1706964693,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 163815,
@@ -6411,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151198,
+      "num": 151198,
+      "word": "XYG对战WB",
+      "onboard_time": 1706964453,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "虞书欣叫自己鲸鱼辣妹",
@@ -6499,6 +6619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148257,
+      "num": 148257,
+      "word": "研究发现低热量饮食可延长寿命",
+      "onboard_time": 1706966011,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148046,
       "num": 148046,
       "word": "鸭子穿越鸭群只为追上小猫",
@@ -6521,6 +6649,14 @@
       "onboard_time": 1706929352,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147327,
+      "num": 147327,
+      "word": "张函瑞 招财小猫",
+      "onboard_time": 1706964870,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 147215,
@@ -6641,14 +6777,6 @@
       "onboard_time": 1706798915,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144392,
-      "num": 175608,
-      "word": "春节前三文鱼销量暴涨13倍",
-      "onboard_time": 1706964092,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 144352,
@@ -7481,6 +7609,14 @@
       "onboard_time": 1706768071,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124603,
+      "num": 124603,
+      "word": "舌尖美食接龙",
+      "onboard_time": 1706966192,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 124400,
@@ -8328,6 +8464,14 @@
       "word": "在中国这样玩",
       "onboard_time": 1706791832,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84056,
+      "num": 189746,
+      "word": "安徽下冰针雪花好像味精",
+      "onboard_time": 1706966072,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
