@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706944514948,
+  "endTime": 1706945634830,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -417,6 +417,14 @@
       "onboard_time": 1706843012,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1247203,
+      "num": 1247203,
+      "word": "浦东机场",
+      "onboard_time": 1706937630,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1243379,
@@ -883,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 750851,
-      "num": 750851,
-      "word": "浦东机场",
-      "onboard_time": 1706937630,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 748964,
       "num": 748964,
       "word": "肖战背沟好深",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1706765191,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 653550,
+      "num": 653550,
+      "word": "奔驰加塞事件缺失监控曝光",
+      "onboard_time": 1706943991,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649809,
@@ -1739,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471528,
+      "num": 410813,
+      "word": "哭了三天",
+      "onboard_time": 1706942668,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468448,
       "num": 468448,
       "word": "网红帮女生找到失散22年妈妈",
@@ -1851,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440756,
+      "num": 440756,
+      "word": "上海虹桥枢纽宣布网约车1小时免费停",
+      "onboard_time": 1706943270,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440400,
       "num": 440400,
       "word": "胡锡进",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1706841151,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428210,
+      "num": 428210,
+      "word": "福建小孩噩梦  擦楼梯",
+      "onboard_time": 1706940512,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 426857,
@@ -1995,12 +2027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407496,
-      "num": 407496,
-      "word": "福建小孩噩梦  擦楼梯",
-      "onboard_time": 1706940512,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 408546,
+      "num": 408546,
+      "word": "伯克利偶遇王源",
+      "onboard_time": 1706943870,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 405918,
@@ -2611,14 +2643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313920,
-      "num": 259274,
-      "word": "哭了三天",
-      "onboard_time": 1706942668,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313213,
       "num": 313213,
       "word": "赵丽颖二月均在剧组",
@@ -2680,14 +2704,6 @@
       "word": "男子当小三破坏军婚获刑10个月",
       "onboard_time": 1706681554,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307409,
-      "num": 307409,
-      "word": "上海虹桥枢纽宣布网约车1小时免费停",
-      "onboard_time": 1706943270,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3025,14 +3041,6 @@
       "onboard_time": 1706836049,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274193,
-      "num": 229092,
-      "word": "伯克利偶遇王源",
-      "onboard_time": 1706943870,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 273510,
@@ -3475,14 +3483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233234,
-      "num": 233234,
-      "word": "奔驰加塞事件缺失监控曝光",
-      "onboard_time": 1706943991,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232316,
       "num": 232316,
       "word": "明日方舟",
@@ -3523,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229542,
+      "num": 229542,
+      "word": "出轨者以为的和真实的出轨原因",
+      "onboard_time": 1706939011,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228563,
       "num": 228563,
       "word": "文旅局回应女演员高空表演时意外掉落",
@@ -3552,14 +3560,6 @@
       "word": "2024金牛座会发生的三件好事",
       "onboard_time": 1706886394,
       "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 227477,
-      "num": 227477,
-      "word": "出轨者以为的和真实的出轨原因",
-      "onboard_time": 1706939011,
-      "rank": 28,
       "category": "情感"
     },
     {
@@ -4353,6 +4353,14 @@
       "onboard_time": 1706932950,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194067,
+      "num": 194067,
+      "word": "开新能源车返乡过年有多难",
+      "onboard_time": 1706945429,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 193832,
@@ -6011,6 +6019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "孕妈妈硬核劈叉催生",
+      "onboard_time": 1706944289,
+      "rank": 45,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 140555,
       "num": 140555,
       "word": "王者龙限设计纪录片",
@@ -6347,12 +6363,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132576,
+      "num": 132576,
+      "word": "福建游神",
+      "onboard_time": 1706944589,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132440,
       "num": 132440,
       "word": "300万女性住在卡车上",
       "onboard_time": 1706841211,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132347,
+      "num": 132347,
+      "word": "原来跳水视角这么恐怖",
+      "onboard_time": 1706943689,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 131994,
@@ -6699,14 +6731,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 123526,
-      "num": 123526,
-      "word": "原来跳水视角这么恐怖",
-      "onboard_time": 1706943689,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 123480,
       "num": 123480,
       "word": "总有人要赢为什么不能是你",
@@ -6763,14 +6787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120304,
-      "num": 120304,
-      "word": "孕妈妈硬核劈叉催生",
-      "onboard_time": 1706944289,
-      "rank": 45,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 120261,
       "num": 120261,
       "word": "利雅得胜利6比0迈阿密国际",
@@ -6809,6 +6825,14 @@
       "onboard_time": 1706774849,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 117967,
+      "num": 117967,
+      "word": "山东舰实战化训练高燃大片",
+      "onboard_time": 1706945490,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 117959,
@@ -7035,6 +7059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111578,
+      "num": 111578,
+      "word": "被公厕便池的水溅到会得病吗",
+      "onboard_time": 1706945610,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -7177,6 +7209,14 @@
       "onboard_time": 1706925512,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104781,
+      "num": 104781,
+      "word": "林亦扬的一天",
+      "onboard_time": 1706944890,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104468,
@@ -7809,6 +7849,14 @@
       "onboard_time": 1706858071,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 35821,
+      "num": 142949,
+      "word": "拍出大红大紫的新年氛围感",
+      "onboard_time": 1706945249,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35815,

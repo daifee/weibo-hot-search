@@ -1,0 +1,410 @@
+{
+  "runTime": 1706945634830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1745518,
+        "num": 1745518,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1247203,
+        "num": 1247203,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103666,
+        "num": 940946,
+        "word": "有一种年味儿叫置办年货",
+        "onboard_time": 1706932950,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809609,
+        "num": 809609,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710320,
+        "num": 710320,
+        "word": "韩红 李延亮",
+        "onboard_time": 1706941051,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653550,
+        "num": 653550,
+        "word": "奔驰加塞事件缺失监控曝光",
+        "onboard_time": 1706943991,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633537,
+        "num": 633537,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440756,
+        "num": 440756,
+        "word": "上海虹桥枢纽宣布网约车1小时免费停",
+        "onboard_time": 1706943270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428210,
+        "num": 428210,
+        "word": "福建小孩噩梦  擦楼梯",
+        "onboard_time": 1706940512,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411058,
+        "num": 411058,
+        "word": "体检中心体检正常5个月后查出乳腺癌",
+        "onboard_time": 1706936907,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471528,
+        "num": 410813,
+        "word": "哭了三天",
+        "onboard_time": 1706942668,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408546,
+        "num": 408546,
+        "word": "伯克利偶遇王源",
+        "onboard_time": 1706943870,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401942,
+        "num": 401942,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322632,
+        "num": 322632,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292745,
+        "num": 292745,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388734,
+        "num": 286810,
+        "word": "鞠婧祎cos公孙离",
+        "onboard_time": 1706940089,
+        "rank": 15,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 371881,
+        "num": 284956,
+        "word": "杨波 一啵三折",
+        "onboard_time": 1706938772,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279163,
+        "num": 279163,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272771,
+        "num": 272771,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252438,
+        "num": 252438,
+        "word": "父亲耗时30天为儿子定制厂房婚礼",
+        "onboard_time": 1706941110,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229542,
+        "num": 229542,
+        "word": "出轨者以为的和真实的出轨原因",
+        "onboard_time": 1706939011,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227308,
+        "num": 227308,
+        "word": "韩国男星性侵粉丝判有期徒刑3年",
+        "onboard_time": 1706935349,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209728,
+        "num": 209728,
+        "word": "风月不相关 刘宇宁田曦薇",
+        "onboard_time": 1706941289,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200383,
+        "num": 200383,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1706938889,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197783,
+        "num": 197783,
+        "word": "刘亦菲同款公主头",
+        "onboard_time": 1706940569,
+        "rank": 24,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 194067,
+        "num": 194067,
+        "word": "开新能源车返乡过年有多难",
+        "onboard_time": 1706945429,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188385,
+        "num": 188385,
+        "word": "肖战网络视听盛典彩排图",
+        "onboard_time": 1706942131,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184120,
+        "num": 184120,
+        "word": "杨波段子",
+        "onboard_time": 1706933789,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183767,
+        "num": 183767,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169723,
+        "num": 169723,
+        "word": "女子本科毕业当瓦匠月入2万",
+        "onboard_time": 1706935591,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168241,
+        "num": 168241,
+        "word": "王一博被无故预定航班",
+        "onboard_time": 1706928088,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150239,
+        "num": 150239,
+        "word": "我用阿姨微信把她弟弟怼了",
+        "onboard_time": 1706937448,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146919,
+        "num": 146919,
+        "word": "毛晓彤国风公主裙",
+        "onboard_time": 1706936249,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144594,
+        "num": 144594,
+        "word": "专家称A股风险是跌出来的",
+        "onboard_time": 1706944112,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35821,
+        "num": 142949,
+        "word": "拍出大红大紫的新年氛围感",
+        "onboard_time": 1706945249,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141864,
+        "num": 141864,
+        "word": "2女孩疑遭人拐卖上高速呼喊求助",
+        "onboard_time": 1706930188,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 140627,
+        "word": "孕妈妈硬核劈叉催生",
+        "onboard_time": 1706944289,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 135783,
+        "num": 135783,
+        "word": "晨起时这2个行为很伤肾",
+        "onboard_time": 1706942428,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135294,
+        "num": 135294,
+        "word": "暴雪时分 留学生",
+        "onboard_time": 1706926772,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133492,
+        "num": 133492,
+        "word": "12306回应2名乘客买到同日同座票",
+        "onboard_time": 1706922148,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132576,
+        "num": 132576,
+        "word": "福建游神",
+        "onboard_time": 1706944589,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132347,
+        "num": 132347,
+        "word": "原来跳水视角这么恐怖",
+        "onboard_time": 1706943689,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125432,
+        "num": 125432,
+        "word": "宋亚轩吃瓜速度",
+        "onboard_time": 1706941473,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122820,
+        "num": 122820,
+        "word": "花间令预约",
+        "onboard_time": 1706940089,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117967,
+        "num": 117967,
+        "word": "山东舰实战化训练高燃大片",
+        "onboard_time": 1706945490,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115499,
+        "num": 115499,
+        "word": "网友地铁偶遇金世佳",
+        "onboard_time": 1706939129,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111578,
+        "num": 111578,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111360,
+        "num": 111360,
+        "word": "世界那么大我想去看看的女教师现状",
+        "onboard_time": 1706942609,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109849,
+        "num": 109849,
+        "word": "70岁的姥姥离婚了",
+        "onboard_time": 1706918786,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104781,
+        "num": 104781,
+        "word": "林亦扬的一天",
+        "onboard_time": 1706944890,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望慰问基层干部群众#"
+    }
+  }
+}
