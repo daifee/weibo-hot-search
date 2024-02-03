@@ -1,0 +1,402 @@
+{
+  "runTime": 1706987615403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 265007,
+        "num": 265007,
+        "word": "上海恢复浦东机场网约车",
+        "onboard_time": 1706976868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217963,
+        "num": 217963,
+        "word": "小品 烂梗",
+        "onboard_time": 1706975010,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171851,
+        "num": 171851,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129455,
+        "num": 129455,
+        "word": "宋亚轩舞台上好憔悴",
+        "onboard_time": 1706976149,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122164,
+        "num": 122164,
+        "word": "终于等到肖战",
+        "onboard_time": 1706977709,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120406,
+        "num": 120406,
+        "word": "唐艺昕虞书欣撞衫",
+        "onboard_time": 1706985739,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110312,
+        "num": 110312,
+        "word": "当儿子决定穿裙子上学",
+        "onboard_time": 1706973393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106677,
+        "num": 106677,
+        "word": "因为彩礼我和相恋8年的男友分手了",
+        "onboard_time": 1706968953,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59411,
+        "num": 59411,
+        "word": "日本队遭绝杀",
+        "onboard_time": 1706967214,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92071,
+        "num": 56502,
+        "word": "大鹏发文纪念赵英俊去世三周年",
+        "onboard_time": 1706984960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84626,
+        "num": 55167,
+        "word": "金希澈泡泡头像变成了seventeen",
+        "onboard_time": 1706983465,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76798,
+        "num": 51900,
+        "word": "央视评陈立农最新舞台",
+        "onboard_time": 1706973992,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73376,
+        "num": 47654,
+        "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+        "onboard_time": 1706961389,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46597,
+        "num": 46597,
+        "word": "酒后出现5个症状可能是猝死前兆",
+        "onboard_time": 1706965472,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74919,
+        "num": 46111,
+        "word": "白客 娱乐圈知名Beta",
+        "onboard_time": 1706979086,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61205,
+        "num": 44742,
+        "word": "吴磊少年人夫感",
+        "onboard_time": 1706979025,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42181,
+        "num": 42181,
+        "word": "被EDG菜笑啦",
+        "onboard_time": 1706965771,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36599,
+        "num": 36599,
+        "word": "花花和妹妹越来越黏糊了",
+        "onboard_time": 1706967992,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31135,
+        "num": 31135,
+        "word": "疑似患癌者最终7%确诊",
+        "onboard_time": 1706970695,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58248,
+        "num": 30700,
+        "word": "爱情公寓 一镜到底",
+        "onboard_time": 1706969072,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55326,
+        "num": 30300,
+        "word": "湖南春晚 抖音梗",
+        "onboard_time": 1706983943,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41273,
+        "num": 29817,
+        "word": "买车厘子不能只看几个J",
+        "onboard_time": 1706971476,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32291,
+        "num": 29392,
+        "word": "恨不得连夜把书读烂",
+        "onboard_time": 1706982262,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29181,
+        "num": 29181,
+        "word": "天天福",
+        "onboard_time": 1706978428,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42477,
+        "num": 28818,
+        "word": "冯巩相声",
+        "onboard_time": 1706980583,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39424,
+        "num": 28698,
+        "word": "gidle 认哥",
+        "onboard_time": 1706972913,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35768,
+        "num": 28689,
+        "word": "恭王府偶遇眉姐姐温太医",
+        "onboard_time": 1706981902,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28107,
+        "num": 28107,
+        "word": "马宁 尺度",
+        "onboard_time": 1706963733,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26614,
+        "num": 26614,
+        "word": "为啥车厘子1月价格比11月低那么多",
+        "onboard_time": 1706963131,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35315,
+        "num": 26369,
+        "word": "在暴雪时分",
+        "onboard_time": 1706960492,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 26154,
+        "word": "杨氏双缝干涉实验",
+        "onboard_time": 1706960790,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33928,
+        "num": 25759,
+        "word": "湖南春晚 科目三",
+        "onboard_time": 1706964511,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24700,
+        "num": 24700,
+        "word": "大爷掏出补光灯那刻我人都惊呆了",
+        "onboard_time": 1706969794,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23244,
+        "num": 23244,
+        "word": "马斯克宣布更改特斯拉注册地",
+        "onboard_time": 1706970150,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32377,
+        "num": 23223,
+        "word": "不敢想嘘嘘该有多幸福",
+        "onboard_time": 1706976028,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30855,
+        "num": 23194,
+        "word": "于正盛赞卢昱晓",
+        "onboard_time": 1706979684,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21389,
+        "num": 23171,
+        "word": "小兰的365个初恋瞬间",
+        "onboard_time": 1706975310,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21166,
+        "num": 23115,
+        "word": "亚洲杯",
+        "onboard_time": 1706970272,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20496,
+        "num": 23090,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30810,
+        "num": 23063,
+        "word": "创造营亚洲",
+        "onboard_time": 1706962770,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27992,
+        "num": 23011,
+        "word": "肖战演讲",
+        "onboard_time": 1706969556,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27046,
+        "num": 23010,
+        "word": "张杰 狂门永存",
+        "onboard_time": 1706973632,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24699,
+        "num": 22951,
+        "word": "魏大勋真的不是歌手吗",
+        "onboard_time": 1706966072,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24348,
+        "num": 22932,
+        "word": "宋茜青花瓷 大气",
+        "onboard_time": 1706969854,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24104,
+        "num": 22906,
+        "word": "张泽禹张极Bite Me",
+        "onboard_time": 1706970695,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19050,
+        "num": 22852,
+        "word": "怜爱jiejie",
+        "onboard_time": 1706973095,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18315,
+        "num": 22828,
+        "word": "3岁萌娃坐6小时动车一路上不哭闹",
+        "onboard_time": 1706971954,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17108,
+        "num": 22788,
+        "word": "拜仁vs门兴",
+        "onboard_time": 1706975909,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15082,
+        "num": 22745,
+        "word": "终于理解我妈了",
+        "onboard_time": 1706971415,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的新春祝福#"
+    }
+  }
+}

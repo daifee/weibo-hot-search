@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706985237778,
+  "endTime": 1706987615403,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -363,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120406,
+      "num": 120406,
+      "word": "唐艺昕虞书欣撞衫",
+      "onboard_time": 1706985739,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109060,
       "num": 109060,
       "word": "天天福",
@@ -409,6 +417,14 @@
       "onboard_time": 1706981902,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92071,
+      "num": 56502,
+      "word": "大鹏发文纪念赵英俊去世三周年",
+      "onboard_time": 1706984960,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 89221,
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46409,
-      "num": 30297,
-      "word": "大鹏发文纪念赵英俊去世三周年",
-      "onboard_time": 1706984960,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29251,
       "num": 1039121,
       "word": "2024网络视听盛典",
@@ -537,6 +545,14 @@
       "onboard_time": 1706979926,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21166,
+      "num": 23115,
+      "word": "亚洲杯",
+      "onboard_time": 1706970272,
+      "rank": 38,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
