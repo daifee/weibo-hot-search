@@ -1,0 +1,410 @@
+{
+  "runTime": 1706949230247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427064,
+        "num": 1427064,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1165190,
+        "num": 1165190,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131339,
+        "num": 957940,
+        "word": "网络视听盛典发布节目单",
+        "onboard_time": 1706948191,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885090,
+        "num": 885090,
+        "word": "奔驰加塞事件缺失监控曝光",
+        "onboard_time": 1706943991,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674701,
+        "num": 674701,
+        "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
+        "onboard_time": 1706947109,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606592,
+        "num": 606592,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 524638,
+        "num": 524638,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494381,
+        "num": 494381,
+        "word": "甄嬛的尼姑服是M码的",
+        "onboard_time": 1706946869,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388477,
+        "num": 388477,
+        "word": "上海虹桥枢纽宣布网约车1小时免费停",
+        "onboard_time": 1706943270,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258209,
+        "num": 383756,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862370,
+        "num": 383548,
+        "word": "哭了三天",
+        "onboard_time": 1706942668,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453260,
+        "num": 383229,
+        "word": "伯克利偶遇王源",
+        "onboard_time": 1706943870,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380925,
+        "num": 380925,
+        "word": "杨幂戴龙角",
+        "onboard_time": 1706946571,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319366,
+        "num": 319366,
+        "word": "医生说的清淡饮食好多人都搞错了",
+        "onboard_time": 1706946088,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297111,
+        "num": 297111,
+        "word": "出轨者以为的和真实的出轨原因",
+        "onboard_time": 1706939011,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332536,
+        "num": 268439,
+        "word": "韩红 李延亮",
+        "onboard_time": 1706941051,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304460,
+        "num": 253364,
+        "word": "杨波 一啵三折",
+        "onboard_time": 1706938772,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229959,
+        "num": 229959,
+        "word": "小金豆两个月在尔滨购房共4650套",
+        "onboard_time": 1706915120,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211416,
+        "num": 211416,
+        "word": "来自BOA的震撼",
+        "onboard_time": 1706948908,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205428,
+        "num": 205428,
+        "word": "体检中心体检正常5个月后查出乳腺癌",
+        "onboard_time": 1706936907,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 569188,
+        "num": 201347,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285338,
+        "num": 199310,
+        "word": "咖啡哥 微笑姐",
+        "onboard_time": 1706946571,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274341,
+        "num": 190002,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180641,
+        "num": 180641,
+        "word": "王者荣耀皮肤返场",
+        "onboard_time": 1706932889,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171689,
+        "num": 171689,
+        "word": "为什么广东人不容易抑郁",
+        "onboard_time": 1706947467,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238590,
+        "num": 171658,
+        "word": "鞠婧祎cos公孙离",
+        "onboard_time": 1706940089,
+        "rank": 25,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 214602,
+        "num": 170502,
+        "word": "李龙馥跳科目三",
+        "onboard_time": 1706948850,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213365,
+        "num": 168721,
+        "word": "蓝亦菲真去世了",
+        "onboard_time": 1706918486,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154166,
+        "num": 167997,
+        "word": "法国巴黎一火车站发生袭击事件",
+        "onboard_time": 1706948553,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135829,
+        "num": 167309,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1706938889,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166533,
+        "num": 166533,
+        "word": "福建小孩噩梦  擦楼梯",
+        "onboard_time": 1706940512,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189081,
+        "num": 166115,
+        "word": "白鹿解锁第22套高定",
+        "onboard_time": 1706946989,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178415,
+        "num": 165695,
+        "word": "七夜雪杀青",
+        "onboard_time": 1706949090,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170518,
+        "num": 164943,
+        "word": "刘诗雯每周一到两次普拉提",
+        "onboard_time": 1706948908,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164095,
+        "num": 164095,
+        "word": "韩国偶遇陈建州范玮琪一家",
+        "onboard_time": 1706945973,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152110,
+        "num": 152110,
+        "word": "南方人真的不适合去北方搓澡",
+        "onboard_time": 1706948908,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151652,
+        "num": 151652,
+        "word": "杨波段子",
+        "onboard_time": 1706933789,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147949,
+        "num": 147949,
+        "word": "小米SU7首撞",
+        "onboard_time": 1706949208,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144660,
+        "num": 144660,
+        "word": "檀健次玫瑰胸针",
+        "onboard_time": 1706947532,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143306,
+        "num": 143306,
+        "word": "开新能源车返乡过年有多难",
+        "onboard_time": 1706945429,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142365,
+        "num": 142365,
+        "word": "肖战网络视听盛典彩排图",
+        "onboard_time": 1706942131,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133665,
+        "num": 133665,
+        "word": "原来跳水视角这么恐怖",
+        "onboard_time": 1706943689,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128250,
+        "num": 128250,
+        "word": "王一博被无故预定航班",
+        "onboard_time": 1706928088,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119178,
+        "num": 119178,
+        "word": "毛晓彤国风公主裙",
+        "onboard_time": 1706936249,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118619,
+        "num": 118619,
+        "word": "报复性弥补童年",
+        "onboard_time": 1706948731,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115412,
+        "num": 115412,
+        "word": "你们给秦海璐留点面子吧",
+        "onboard_time": 1706949090,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115045,
+        "num": 115045,
+        "word": "老一辈的无用节俭",
+        "onboard_time": 1706948969,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115031,
+        "num": 115031,
+        "word": "谷爱凌因比赛取消摘银",
+        "onboard_time": 1706925449,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 109233,
+        "word": "我用阿姨微信把她弟弟怼了",
+        "onboard_time": 1706937448,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107348,
+        "num": 107348,
+        "word": "宋茜碎钻头纱",
+        "onboard_time": 1706947411,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福#"
+    }
+  }
+}
