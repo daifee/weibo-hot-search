@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706999630460,
+  "endTime": 1707002233068,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -3251,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311818,
+      "num": 311818,
+      "word": "TVB男演员郑启泰去世",
+      "onboard_time": 1707001278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -5723,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186863,
+      "num": 186863,
+      "word": "立春",
+      "onboard_time": 1707001880,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186819,
       "num": 186819,
       "word": "张震倪妮时尚先生双人封",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1706793272,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185938,
+      "num": 185938,
+      "word": "赌王四太穿苗服跳民族舞",
+      "onboard_time": 1706988019,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 185614,
@@ -6243,6 +6267,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 172260,
+      "num": 172260,
+      "word": "刘德华自曝曾有粉丝藏床下",
+      "onboard_time": 1707001278,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172211,
       "num": 149941,
       "word": "田曦薇小年自拍",
@@ -6625,6 +6657,14 @@
       "onboard_time": 1706835928,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162405,
+      "num": 162405,
+      "word": "大鹏发文纪念赵英俊去世三周年",
+      "onboard_time": 1706984960,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 162125,
@@ -7491,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137173,
+      "num": 120406,
+      "word": "唐艺昕虞书欣撞衫",
+      "onboard_time": 1706985739,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137137,
       "num": 137137,
       "word": "哈登落选全明星",
@@ -7963,6 +8011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128078,
+      "num": 109467,
+      "word": "湖南春晚 抖音梗",
+      "onboard_time": 1706983943,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128033,
       "num": 128033,
       "word": "北京台春晚 时代少年团",
@@ -8009,6 +8065,14 @@
       "onboard_time": 1706924307,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126636,
+      "num": 126636,
+      "word": "掏空积蓄为儿买婚房被中介骗600万",
+      "onboard_time": 1706992876,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126559,
@@ -8193,14 +8257,6 @@
       "onboard_time": 1706754450,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120406,
-      "num": 120406,
-      "word": "唐艺昕虞书欣撞衫",
-      "onboard_time": 1706985739,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120329,
@@ -8529,6 +8585,14 @@
       "onboard_time": 1706969315,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111993,
+      "num": 82746,
+      "word": "林亦扬殷果睡一张床",
+      "onboard_time": 1706997977,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 111960,
@@ -8987,14 +9051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92071,
-      "num": 60901,
-      "word": "大鹏发文纪念赵英俊去世三周年",
-      "onboard_time": 1706984960,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92032,
       "num": 92032,
       "word": "网文作家集体团建",
@@ -9131,14 +9187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81379,
-      "num": 66775,
-      "word": "赌王四太穿苗服跳民族舞",
-      "onboard_time": 1706988019,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80214,
       "num": 137853,
       "word": "小兰的365个初恋瞬间",
@@ -9227,12 +9275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69891,
-      "num": 69891,
-      "word": "湖南春晚 抖音梗",
-      "onboard_time": 1706983943,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 71361,
+      "num": 71361,
+      "word": "暴雪冰冻橙色预警",
+      "onboard_time": 1706998397,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69243,
@@ -9241,14 +9289,6 @@
       "onboard_time": 1706804070,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 65248,
-      "num": 65248,
-      "word": "掏空积蓄为儿买婚房被中介骗600万",
-      "onboard_time": 1706992876,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63649,
@@ -9339,6 +9379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54729,
+      "num": 54729,
+      "word": "马天宇说cp都是假的",
+      "onboard_time": 1706995036,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52171,
       "num": 52171,
       "word": "36个女大学生演活了汉宫春晓图",
@@ -9377,6 +9425,14 @@
       "onboard_time": 1706861732,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50784,
+      "num": 50784,
+      "word": "武汉市气象局回应遭遇冻雨天气",
+      "onboard_time": 1706998336,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50413,
@@ -9449,6 +9505,14 @@
       "onboard_time": 1706916619,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44698,
+      "num": 43736,
+      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
+      "onboard_time": 1706991076,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 44373,
@@ -9539,22 +9603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37476,
-      "num": 36505,
-      "word": "马天宇说cp都是假的",
-      "onboard_time": 1706995036,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36059,
-      "num": 36059,
-      "word": "林亦扬殷果睡一张床",
-      "onboard_time": 1706997977,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35889,
       "num": 313765,
       "word": "蛋仔派对又进化了",
@@ -9595,12 +9643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34009,
-      "num": 24918,
-      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
-      "onboard_time": 1706991076,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 33626,
+      "num": 42019,
+      "word": "为什么流感发病48小时是黄金自救期",
+      "onboard_time": 1706988319,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33377,
@@ -9667,28 +9715,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26904,
-      "num": 26904,
-      "word": "暴雪冰冻橙色预警",
-      "onboard_time": 1706998397,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26485,
       "num": 29711,
       "word": "江西家宴",
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 26102,
-      "num": 24524,
-      "word": "武汉市气象局回应遭遇冻雨天气",
-      "onboard_time": 1706998336,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24791,
@@ -9737,14 +9769,6 @@
       "onboard_time": 1706868153,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20226,
-      "num": 21845,
-      "word": "为什么流感发病48小时是黄金自救期",
-      "onboard_time": 1706988319,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18242,

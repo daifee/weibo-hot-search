@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706999630460,
+  "endTime": 1707002233068,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311818,
+      "num": 311818,
+      "word": "TVB男演员郑启泰去世",
+      "onboard_time": 1707001278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -235,6 +243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186863,
+      "num": 186863,
+      "word": "立春",
+      "onboard_time": 1707001880,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 185938,
+      "num": 185938,
+      "word": "赌王四太穿苗服跳民族舞",
+      "onboard_time": 1706988019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184159,
       "num": 137948,
       "word": "白鹿给王星越打伞",
@@ -259,11 +283,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172260,
+      "num": 172260,
+      "word": "刘德华自曝曾有粉丝藏床下",
+      "onboard_time": 1707001278,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164149,
       "num": 162609,
       "word": "于正盛赞卢昱晓",
       "onboard_time": 1706979684,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162405,
+      "num": 162405,
+      "word": "大鹏发文纪念赵英俊去世三周年",
+      "onboard_time": 1706984960,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -347,6 +387,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137173,
+      "num": 120406,
+      "word": "唐艺昕虞书欣撞衫",
+      "onboard_time": 1706985739,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128078,
+      "num": 109467,
+      "word": "湖南春晚 抖音梗",
+      "onboard_time": 1706983943,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126636,
+      "num": 126636,
+      "word": "掏空积蓄为儿买婚房被中介骗600万",
+      "onboard_time": 1706992876,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126449,
       "num": 138011,
       "word": "大爷掏出补光灯那刻我人都惊呆了",
@@ -363,12 +427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120406,
-      "num": 120406,
-      "word": "唐艺昕虞书欣撞衫",
-      "onboard_time": 1706985739,
-      "rank": 6,
-      "category": "作品衍生"
+      "raw_hot": 111993,
+      "num": 82746,
+      "word": "林亦扬殷果睡一张床",
+      "onboard_time": 1706997977,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 109060,
@@ -419,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92071,
-      "num": 60901,
-      "word": "大鹏发文纪念赵英俊去世三周年",
-      "onboard_time": 1706984960,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89221,
       "num": 124857,
       "word": "浦东机场",
@@ -451,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81379,
-      "num": 66775,
-      "word": "赌王四太穿苗服跳民族舞",
-      "onboard_time": 1706988019,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80214,
       "num": 137853,
       "word": "小兰的365个初恋瞬间",
@@ -475,12 +523,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69891,
-      "num": 69891,
-      "word": "湖南春晚 抖音梗",
-      "onboard_time": 1706983943,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 71361,
+      "num": 71361,
+      "word": "暴雪冰冻橙色预警",
+      "onboard_time": 1706998397,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68782,
@@ -515,18 +563,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65248,
-      "num": 65248,
-      "word": "掏空积蓄为儿买婚房被中介骗600万",
-      "onboard_time": 1706992876,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64336,
       "num": 119533,
       "word": "3岁萌娃坐6小时动车一路上不哭闹",
       "onboard_time": 1706971954,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54729,
+      "num": 54729,
+      "word": "马天宇说cp都是假的",
+      "onboard_time": 1706995036,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50784,
+      "num": 50784,
+      "word": "武汉市气象局回应遭遇冻雨天气",
+      "onboard_time": 1706998336,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -547,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44698,
+      "num": 43736,
+      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
+      "onboard_time": 1706991076,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41209,
       "num": 41209,
       "word": "同龄人谈恋爱",
@@ -555,28 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37476,
-      "num": 36505,
-      "word": "马天宇说cp都是假的",
-      "onboard_time": 1706995036,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36059,
-      "num": 36059,
-      "word": "林亦扬殷果睡一张床",
-      "onboard_time": 1706997977,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 34009,
-      "num": 24918,
-      "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
-      "onboard_time": 1706991076,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 33626,
+      "num": 42019,
+      "word": "为什么流感发病48小时是黄金自救期",
+      "onboard_time": 1706988319,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29251,
@@ -585,22 +633,6 @@
       "onboard_time": 1706965592,
       "rank": 2,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26904,
-      "num": 26904,
-      "word": "暴雪冰冻橙色预警",
-      "onboard_time": 1706998397,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26102,
-      "num": 24524,
-      "word": "武汉市气象局回应遭遇冻雨天气",
-      "onboard_time": 1706998336,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24791,
@@ -617,14 +649,6 @@
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20226,
-      "num": 21845,
-      "word": "为什么流感发病48小时是黄金自救期",
-      "onboard_time": 1706988319,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18242,
