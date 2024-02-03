@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706956446951,
+  "endTime": 1706958838893,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -907,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757137,
+      "num": 757137,
+      "word": "青云台 赵露思邓为",
+      "onboard_time": 1706955690,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756045,
       "num": 756045,
       "word": "为啥手机最后1%的电能用很久",
@@ -937,6 +945,14 @@
       "onboard_time": 1706754629,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742340,
+      "num": 742340,
+      "word": "波笠二象性",
+      "onboard_time": 1706957432,
+      "rank": 7,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 738140,
@@ -1315,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 594497,
+      "num": 1114815,
+      "word": "外婆见外孙接自己回城过年激动落泪",
+      "onboard_time": 1706953829,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592704,
       "num": 592704,
       "word": "肖战想挤地铁逛商场",
@@ -1635,14 +1659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 506042,
-      "num": 1114815,
-      "word": "外婆见外孙接自己回城过年激动落泪",
-      "onboard_time": 1706953829,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503730,
       "num": 503730,
       "word": "赵今麦 真甜妹来了",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1706919447,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492931,
+      "num": 492931,
+      "word": "白鹿裙摆生花",
+      "onboard_time": 1706956531,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491345,
@@ -1979,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438372,
+      "num": 438372,
+      "word": "信阳一在建体育馆被暴雪压塌",
+      "onboard_time": 1706955871,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437297,
       "num": 437297,
       "word": "BOA太猛了",
@@ -2083,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416394,
+      "num": 285463,
+      "word": "雷军宣布卢伟冰将兼任小米品牌总经理",
+      "onboard_time": 1706954610,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 414619,
       "num": 414619,
       "word": "格力年会 我妈就是董明珠",
@@ -2137,14 +2177,6 @@
       "onboard_time": 1706837008,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407099,
-      "num": 365846,
-      "word": "青云台 赵露思邓为",
-      "onboard_time": 1706955690,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 405918,
@@ -3083,14 +3115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285463,
-      "num": 285463,
-      "word": "雷军宣布卢伟冰将兼任小米品牌总经理",
-      "onboard_time": 1706954610,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 284913,
       "num": 284913,
       "word": "为什么咳嗽起来就止不住",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1706845473,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278358,
+      "num": 278358,
+      "word": "抽出来的血最终去了哪儿",
+      "onboard_time": 1706955811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278263,
@@ -3331,6 +3363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263528,
+      "num": 263528,
+      "word": "种地吧直播预告",
+      "onboard_time": 1706936969,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263343,
       "num": 263343,
       "word": "南方小年",
@@ -3404,7 +3444,7 @@
     },
     {
       "raw_hot": 257206,
-      "num": 221658,
+      "num": 239510,
       "word": "反复长痘的坏习惯",
       "onboard_time": 1706955332,
       "rank": 47,
@@ -4395,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202664,
+      "num": 202664,
+      "word": "马立奥 冬日宅家很适合学习英语",
+      "onboard_time": 1706957910,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202628,
       "num": 202628,
       "word": "红包封面",
@@ -4489,6 +4537,14 @@
       "onboard_time": 1706871933,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199704,
+      "num": 199704,
+      "word": "十个勤天直播",
+      "onboard_time": 1706958750,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199548,
@@ -4601,6 +4657,14 @@
       "onboard_time": 1706927789,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195392,
+      "num": 224620,
+      "word": "伊朗vs日本",
+      "onboard_time": 1706957490,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 195091,
@@ -4761,14 +4825,6 @@
       "onboard_time": 1706861554,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191848,
-      "num": 191848,
-      "word": "种地吧直播预告",
-      "onboard_time": 1706936969,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 191796,
@@ -5883,14 +5939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159321,
-      "num": 169371,
-      "word": "信阳一在建体育馆被暴雪压塌",
-      "onboard_time": 1706955871,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158813,
       "num": 158813,
       "word": "钎九",
@@ -6049,6 +6097,14 @@
       "onboard_time": 1706930791,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153970,
+      "num": 153970,
+      "word": "千世的火舞",
+      "onboard_time": 1706958390,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 153707,
@@ -7003,6 +7059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128612,
+      "num": 745714,
+      "word": "故宫龙纹壁纸太美了",
+      "onboard_time": 1706953829,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128537,
       "num": 128537,
       "word": "做到这些射手座离不开你",
@@ -7185,6 +7249,14 @@
       "onboard_time": 1706884054,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124045,
+      "num": 124045,
+      "word": "雪后九华山美如水墨丹青",
+      "onboard_time": 1706958690,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 123942,
@@ -7491,14 +7563,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 113283,
-      "num": 135178,
-      "word": "抽出来的血最终去了哪儿",
-      "onboard_time": 1706955811,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113163,
       "num": 113163,
       "word": "应声虫",
@@ -7619,14 +7683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109892,
-      "num": 674267,
-      "word": "故宫龙纹壁纸太美了",
-      "onboard_time": 1706953829,
-      "rank": 6,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 109708,
       "num": 1096448,
       "word": "过小年的仪式感",
@@ -7697,6 +7753,14 @@
       "onboard_time": 1706916862,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106386,
+      "num": 106386,
+      "word": "明天立春下周过年",
+      "onboard_time": 1706958810,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105416,
