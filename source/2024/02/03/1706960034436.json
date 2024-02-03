@@ -1,0 +1,410 @@
+{
+  "runTime": 1706960034436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071775,
+        "num": 1071775,
+        "word": "波笠二象性",
+        "onboard_time": 1706957432,
+        "rank": 0,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 535342,
+        "num": 775506,
+        "word": "外婆见外孙接自己回城过年激动落泪",
+        "onboard_time": 1706953829,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165056,
+        "num": 747983,
+        "word": "网络视听盛典发布节目单",
+        "onboard_time": 1706948191,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733581,
+        "num": 733581,
+        "word": "15年花千骨删减片段",
+        "onboard_time": 1706951012,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295040,
+        "num": 703369,
+        "word": "66岁奶奶要给四个孙子包万元红包",
+        "onboard_time": 1706953829,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686559,
+        "num": 686559,
+        "word": "青云台 赵露思邓为",
+        "onboard_time": 1706955690,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112072,
+        "num": 684896,
+        "word": "故宫龙纹壁纸太美了",
+        "onboard_time": 1706953829,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 683866,
+        "num": 683866,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600358,
+        "num": 600358,
+        "word": "2024中央一号文件公布",
+        "onboard_time": 1706953711,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557254,
+        "num": 557254,
+        "word": "十个勤天直播",
+        "onboard_time": 1706958750,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536067,
+        "num": 536067,
+        "word": "甄嬛的尼姑服是M码的",
+        "onboard_time": 1706946869,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534248,
+        "num": 534248,
+        "word": "关晓彤方否认演书卷一梦",
+        "onboard_time": 1706958870,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533159,
+        "num": 533159,
+        "word": "信阳一在建体育馆被暴雪压塌",
+        "onboard_time": 1706955871,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430350,
+        "num": 430350,
+        "word": "哭了三天",
+        "onboard_time": 1706942668,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355623,
+        "num": 355623,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363626,
+        "num": 353771,
+        "word": "白鹿裙摆生花",
+        "onboard_time": 1706956531,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349616,
+        "num": 349616,
+        "word": "谭松韵天竺少女",
+        "onboard_time": 1706959352,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337136,
+        "num": 337136,
+        "word": "金博洋 打分",
+        "onboard_time": 1706959411,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308889,
+        "num": 308889,
+        "word": "抽出来的血最终去了哪儿",
+        "onboard_time": 1706955811,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247403,
+        "num": 247403,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333169,
+        "num": 247320,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302051,
+        "num": 246629,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243385,
+        "num": 243385,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243344,
+        "num": 243344,
+        "word": "反复长痘的坏习惯",
+        "onboard_time": 1706955332,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215439,
+        "num": 215439,
+        "word": "上班后看小说真的代入不了",
+        "onboard_time": 1706954251,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236663,
+        "num": 214459,
+        "word": "看得出来我想追你吗",
+        "onboard_time": 1706959411,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212708,
+        "num": 212708,
+        "word": "马立奥 冬日宅家很适合学习英语",
+        "onboard_time": 1706957910,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212307,
+        "num": 212307,
+        "word": "郭德纲否认父子不和",
+        "onboard_time": 1706953106,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209307,
+        "num": 209307,
+        "word": "创造营亚洲导师合唱创4主题曲",
+        "onboard_time": 1706951134,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139201,
+        "num": 202945,
+        "word": "警方称家暴视频是妻子发泄情绪拼接的",
+        "onboard_time": 1706935230,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394795,
+        "num": 202852,
+        "word": "刘强东同款礼盒倒手能赚140元",
+        "onboard_time": 1706951670,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202461,
+        "num": 202461,
+        "word": "黄瀛子反复失忆",
+        "onboard_time": 1706954669,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178139,
+        "num": 178139,
+        "word": "奔驰加塞事件缺失监控曝光",
+        "onboard_time": 1706943991,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199833,
+        "num": 176062,
+        "word": "卡琳娜直播",
+        "onboard_time": 1706955568,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169885,
+        "num": 169885,
+        "word": "伊朗vs日本",
+        "onboard_time": 1706957490,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190661,
+        "num": 168952,
+        "word": "杨波聊天记录",
+        "onboard_time": 1706917345,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183674,
+        "num": 168915,
+        "word": "成毅狐妖王权篇新妆",
+        "onboard_time": 1706954368,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167885,
+        "num": 167885,
+        "word": "张艺谋 真诚",
+        "onboard_time": 1706959170,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144577,
+        "num": 144577,
+        "word": "医生说的清淡饮食好多人都搞错了",
+        "onboard_time": 1706946088,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138854,
+        "num": 138854,
+        "word": "奥运冠军杨倩启蒙教练再发声",
+        "onboard_time": 1706949868,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163383,
+        "num": 134583,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1706954610,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162427,
+        "num": 133175,
+        "word": "种地吧直播预告",
+        "onboard_time": 1706936969,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161125,
+        "num": 132137,
+        "word": "网络视听盛典红毯",
+        "onboard_time": 1706954492,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "应急局回应在建体育馆被暴雪压塌",
+        "onboard_time": 1706959109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160787,
+        "num": 123428,
+        "word": "宫脇咲良中国首封",
+        "onboard_time": 1706956231,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113910,
+        "num": 113910,
+        "word": "小米SU7首撞",
+        "onboard_time": 1706949208,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110140,
+        "num": 110140,
+        "word": "千世的火舞",
+        "onboard_time": 1706958390,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 105887,
+        "word": "明天立春下周过年",
+        "onboard_time": 1706958810,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104971,
+        "num": 104971,
+        "word": "她到最后都没说出想爷爷了",
+        "onboard_time": 1706959650,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104630,
+        "num": 104630,
+        "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
+        "onboard_time": 1706947109,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向全国各族人民拜年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706958838893,
+  "endTime": 1706960034436,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1071775,
+      "num": 1071775,
+      "word": "波笠二象性",
+      "onboard_time": 1706957432,
+      "rank": 7,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1047176,
       "num": 1047176,
       "word": "铁路回应为何12306售罄携程有票",
@@ -945,14 +953,6 @@
       "onboard_time": 1706754629,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742340,
-      "num": 742340,
-      "word": "波笠二象性",
-      "onboard_time": 1706957432,
-      "rank": 7,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 738140,
@@ -1491,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557254,
+      "num": 557254,
+      "word": "十个勤天直播",
+      "onboard_time": 1706958750,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 554540,
       "num": 438547,
       "word": "张艺谋说听障人士角色是赵丽颖的提议",
@@ -1569,6 +1577,22 @@
       "onboard_time": 1706931030,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 534248,
+      "num": 534248,
+      "word": "关晓彤方否认演书卷一梦",
+      "onboard_time": 1706958870,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 533159,
+      "num": 533159,
+      "word": "信阳一在建体育馆被暴雪压塌",
+      "onboard_time": 1706955871,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532934,
@@ -2000,14 +2024,6 @@
       "word": "男子爬乐山大佛头顶小便",
       "onboard_time": 1706710537,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438372,
-      "num": 438372,
-      "word": "信阳一在建体育馆被暴雪压塌",
-      "onboard_time": 1706955871,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2587,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349616,
+      "num": 349616,
+      "word": "谭松韵天竺少女",
+      "onboard_time": 1706959352,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347808,
       "num": 338628,
       "word": "TWICE not in",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1706830163,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 337136,
+      "num": 337136,
+      "word": "金博洋 打分",
+      "onboard_time": 1706959411,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 334754,
@@ -2864,6 +2896,14 @@
       "word": "男子嫌老婆花钱多看到购物袋后破防",
       "onboard_time": 1706793154,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308889,
+      "num": 308889,
+      "word": "抽出来的血最终去了哪儿",
+      "onboard_time": 1706955811,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3195,14 +3235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278358,
-      "num": 278358,
-      "word": "抽出来的血最终去了哪儿",
-      "onboard_time": 1706955811,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278263,
       "num": 278263,
       "word": "王俊凯身在直播实则陷入回忆",
@@ -3444,7 +3476,7 @@
     },
     {
       "raw_hot": 257206,
-      "num": 239510,
+      "num": 243344,
       "word": "反复长痘的坏习惯",
       "onboard_time": 1706955332,
       "rank": 47,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1706846852,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236663,
+      "num": 214459,
+      "word": "看得出来我想追你吗",
+      "onboard_time": 1706959411,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 236526,
@@ -4195,6 +4235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212708,
+      "num": 212708,
+      "word": "马立奥 冬日宅家很适合学习英语",
+      "onboard_time": 1706957910,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211916,
       "num": 211916,
       "word": "烟花",
@@ -4435,14 +4483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202664,
-      "num": 202664,
-      "word": "马立奥 冬日宅家很适合学习英语",
-      "onboard_time": 1706957910,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202628,
       "num": 202628,
       "word": "红包封面",
@@ -4537,14 +4577,6 @@
       "onboard_time": 1706871933,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199704,
-      "num": 199704,
-      "word": "十个勤天直播",
-      "onboard_time": 1706958750,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199548,
@@ -5667,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167885,
+      "num": 167885,
+      "word": "张艺谋 真诚",
+      "onboard_time": 1706959170,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167143,
       "num": 167143,
       "word": "柯南剧场版终于有快青了",
@@ -5779,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165056,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164460,
       "num": 164460,
       "word": "田馥甄否认遭暗捅",
@@ -5793,14 +5841,6 @@
       "onboard_time": 1706742740,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164235,
-      "num": 1032191,
-      "word": "网络视听盛典发布节目单",
-      "onboard_time": 1706948191,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 163815,
@@ -7003,6 +7043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130057,
+      "num": 130057,
+      "word": "应急局回应在建体育馆被暴雪压塌",
+      "onboard_time": 1706959109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130000,
       "num": 130000,
       "word": "2月十二星座注意事项",
@@ -7777,6 +7825,14 @@
       "onboard_time": 1706925512,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104971,
+      "num": 104971,
+      "word": "她到最后都没说出想爷爷了",
+      "onboard_time": 1706959650,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 104781,

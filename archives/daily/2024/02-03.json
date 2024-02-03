@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706958838893,
+  "endTime": 1706960034436,
   "band_list": [
     {
       "raw_hot": 1922130,
@@ -89,6 +89,14 @@
       "onboard_time": 1706918486,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1071775,
+      "num": 1071775,
+      "word": "波笠二象性",
+      "onboard_time": 1706957432,
+      "rank": 7,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 999231,
@@ -201,14 +209,6 @@
       "onboard_time": 1706922450,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 742340,
-      "num": 742340,
-      "word": "波笠二象性",
-      "onboard_time": 1706957432,
-      "rank": 7,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 723365,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557254,
+      "num": 557254,
+      "word": "十个勤天直播",
+      "onboard_time": 1706958750,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 553113,
       "num": 451994,
       "word": "杨波曝光女粉丝姓名学校涉嫌侵权",
@@ -369,6 +377,22 @@
       "onboard_time": 1706931030,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 534248,
+      "num": 534248,
+      "word": "关晓彤方否认演书卷一梦",
+      "onboard_time": 1706958870,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 533159,
+      "num": 533159,
+      "word": "信阳一在建体育馆被暴雪压塌",
+      "onboard_time": 1706955871,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528853,
@@ -547,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438372,
-      "num": 438372,
-      "word": "信阳一在建体育馆被暴雪压塌",
-      "onboard_time": 1706955871,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428210,
       "num": 428210,
       "word": "福建小孩噩梦  擦楼梯",
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349616,
+      "num": 349616,
+      "word": "谭松韵天竺少女",
+      "onboard_time": 1706959352,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347051,
       "num": 347051,
       "word": "王一博自己骑着摩托上山",
@@ -713,6 +737,14 @@
       "onboard_time": 1706954368,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337136,
+      "num": 337136,
+      "word": "金博洋 打分",
+      "onboard_time": 1706959411,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 330150,
@@ -753,6 +785,14 @@
       "onboard_time": 1706933789,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308889,
+      "num": 308889,
+      "word": "抽出来的血最终去了哪儿",
+      "onboard_time": 1706955811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308879,
@@ -841,14 +881,6 @@
       "onboard_time": 1706955568,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 278358,
-      "num": 278358,
-      "word": "抽出来的血最终去了哪儿",
-      "onboard_time": 1706955811,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278263,
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 257206,
-      "num": 239510,
+      "num": 243344,
       "word": "反复长痘的坏习惯",
       "onboard_time": 1706955332,
       "rank": 47,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1706929830,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236663,
+      "num": 214459,
+      "word": "看得出来我想追你吗",
+      "onboard_time": 1706959411,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 235980,
@@ -1179,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212708,
+      "num": 212708,
+      "word": "马立奥 冬日宅家很适合学习英语",
+      "onboard_time": 1706957910,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211447,
       "num": 211447,
       "word": "黄景瑜冬至杀青发了八万多红包",
@@ -1275,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202664,
-      "num": 202664,
-      "word": "马立奥 冬日宅家很适合学习英语",
-      "onboard_time": 1706957910,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201929,
       "num": 201929,
       "word": "王者龙年CG",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1706954492,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199704,
-      "num": 199704,
-      "word": "十个勤天直播",
-      "onboard_time": 1706958750,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199462,
@@ -1595,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167885,
+      "num": 167885,
+      "word": "张艺谋 真诚",
+      "onboard_time": 1706959170,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166749,
       "num": 166749,
       "word": "经常吃冷米饭有助于改善脂肪肝",
@@ -1635,7 +1675,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164235,
+      "raw_hot": 165056,
       "num": 1032191,
       "word": "网络视听盛典发布节目单",
       "onboard_time": 1706948191,
@@ -1979,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130057,
+      "num": 130057,
+      "word": "应急局回应在建体育馆被暴雪压塌",
+      "onboard_time": 1706959109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129394,
       "num": 159901,
       "word": "刘暖曦再审申请被法院驳回",
@@ -2225,6 +2273,14 @@
       "onboard_time": 1706925512,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104971,
+      "num": 104971,
+      "word": "她到最后都没说出想爷爷了",
+      "onboard_time": 1706959650,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 104781,
