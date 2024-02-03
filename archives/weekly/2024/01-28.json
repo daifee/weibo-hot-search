@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706926848994,
+  "endTime": 1706927667605,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -899,6 +899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1230948,
+      "num": 456105,
+      "word": "谷爱凌因比赛取消摘银",
+      "onboard_time": 1706925449,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1221834,
       "num": 1221834,
       "word": "女子得知老公从8米坠落崩溃不敢开车",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1706699490,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1026031,
-      "num": 351195,
-      "word": "谷爱凌因比赛取消摘银",
-      "onboard_time": 1706925449,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 1025648,
@@ -2051,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756045,
+      "num": 756045,
+      "word": "为啥手机最后1%的电能用很久",
+      "onboard_time": 1706922450,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 753071,
       "num": 753071,
       "word": "易烊千玺当选中国影协理事",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1706842949,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 747998,
-      "num": 747998,
-      "word": "为啥手机最后1%的电能用很久",
-      "onboard_time": 1706922450,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 746279,
@@ -3547,6 +3547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 522011,
+      "num": 522011,
+      "word": "美军空袭伊拉克叙利亚",
+      "onboard_time": 1706926470,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 521934,
       "num": 521934,
       "word": "孙悦谈为何隐退8年",
@@ -3779,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493354,
+      "num": 493354,
+      "word": "死亡万花筒原著粉",
+      "onboard_time": 1706919447,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491926,
       "num": 491926,
       "word": "为啥实体药店比网店贵不少",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1706669972,
       "rank": 13,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 477570,
-      "num": 444032,
-      "word": "死亡万花筒原著粉",
-      "onboard_time": 1706919447,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 477054,
@@ -5235,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371270,
+      "num": 371270,
+      "word": "武汉下冰",
+      "onboard_time": 1706925271,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371030,
       "num": 371030,
       "word": "印度外长说不应害怕中国",
@@ -5979,11 +5995,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323889,
-      "num": 323889,
-      "word": "武汉下冰",
-      "onboard_time": 1706925271,
-      "rank": 31,
+      "raw_hot": 323851,
+      "num": 323851,
+      "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+      "onboard_time": 1706922750,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -6212,7 +6228,7 @@
     },
     {
       "raw_hot": 308879,
-      "num": 225150,
+      "num": 229813,
       "word": "超市免费塑料袋别再带回家了",
       "onboard_time": 1706920045,
       "rank": 20,
@@ -6377,6 +6393,14 @@
       "onboard_time": 1706764173,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302620,
+      "num": 302620,
+      "word": "暴雪时分 留学生",
+      "onboard_time": 1706926772,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 302614,
@@ -6825,6 +6849,14 @@
       "onboard_time": 1706613751,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280451,
+      "num": 280451,
+      "word": "郭德纲开场 岳云鹏掉泪",
+      "onboard_time": 1706926169,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 279669,
@@ -7521,14 +7553,6 @@
       "onboard_time": 1706835329,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249981,
-      "num": 249981,
-      "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
-      "onboard_time": 1706922750,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249543,
@@ -8593,6 +8617,14 @@
       "onboard_time": 1706664869,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216200,
+      "num": 216200,
+      "word": "美军空袭已造成13人死亡",
+      "onboard_time": 1706927307,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 215751,
@@ -9771,14 +9803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195059,
-      "num": 195059,
-      "word": "美军空袭伊拉克叙利亚",
-      "onboard_time": 1706926470,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 194828,
       "num": 194828,
       "word": "Fly 不要气馁兄弟们下场赢回来",
@@ -10073,14 +10097,6 @@
       "onboard_time": 1706859090,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 190108,
-      "num": 190108,
-      "word": "郭德纲开场 岳云鹏掉泪",
-      "onboard_time": 1706926169,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 189729,
@@ -10497,6 +10513,14 @@
       "onboard_time": 1706875231,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184170,
+      "num": 184170,
+      "word": "王源又回学校了",
+      "onboard_time": 1706927607,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 184073,
@@ -11171,6 +11195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172493,
+      "num": 172493,
+      "word": "延吉公主",
+      "onboard_time": 1706927129,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 172211,
       "num": 149941,
       "word": "田曦薇小年自拍",
@@ -11505,6 +11537,14 @@
       "onboard_time": 1706880693,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165996,
+      "num": 165996,
+      "word": "汶川地震被救男孩长大后成为武警",
+      "onboard_time": 1706925990,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165951,
@@ -14371,14 +14411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128758,
-      "num": 128758,
-      "word": "汶川地震被救男孩长大后成为武警",
-      "onboard_time": 1706925990,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128694,
       "num": 128694,
       "word": "IU概念预告",
@@ -14705,6 +14737,14 @@
       "onboard_time": 1706522249,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125365,
+      "num": 125365,
+      "word": "外面的反诈宣传已经进化成这样了",
+      "onboard_time": 1706927071,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 125363,
@@ -15467,6 +15507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115013,
+      "num": 115013,
+      "word": "大奉打更人作者头像是王鹤棣",
+      "onboard_time": 1706927189,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114977,
       "num": 114977,
       "word": "劳力士二手市场跳水",
@@ -15673,14 +15721,6 @@
       "onboard_time": 1706505508,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 113081,
-      "num": 113081,
-      "word": "暴雪时分 留学生",
-      "onboard_time": 1706926772,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 113060,
@@ -16249,6 +16289,14 @@
       "onboard_time": 1706438730,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104994,
+      "num": 104994,
+      "word": "邻居家的猫被风按在了门上",
+      "onboard_time": 1706925512,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 104671,
@@ -17475,8 +17523,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57529,
-      "num": 114847,
+      "raw_hot": 58419,
+      "num": 274583,
       "word": "中国男网出征戴维斯杯",
       "onboard_time": 1706925932,
       "rank": 42,
