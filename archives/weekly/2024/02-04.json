@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706987615403,
+  "endTime": 1706988845582,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 59848,
-      "num": 40377,
+      "num": 46067,
       "word": "湖南春晚 抖音梗",
       "onboard_time": 1706983943,
       "rank": 33,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45500,
+      "num": 21655,
+      "word": "赌王四太穿苗服跳民族舞",
+      "onboard_time": 1706988019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29251,
       "num": 1039121,
       "word": "2024网络视听盛典",
@@ -547,12 +555,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24131,
+      "num": 20561,
+      "word": "同龄人谈恋爱",
+      "onboard_time": 1706988676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21166,
       "num": 23115,
       "word": "亚洲杯",
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11473,
+      "num": 20519,
+      "word": "为什么流感发病48小时是黄金自救期",
+      "onboard_time": 1706988319,
+      "rank": 49,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
