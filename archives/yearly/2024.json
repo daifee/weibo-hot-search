@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1706916837276,
+  "endTime": 1706922608524,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2283,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1695709,
+      "num": 1695709,
+      "word": "杨波聊天记录",
+      "onboard_time": 1706917345,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1694398,
       "num": 1694398,
       "word": "亚洲最帅王子迎娶平民女孩",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704115300,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1655577,
-      "num": 492511,
-      "word": "A股大跌",
-      "onboard_time": 1704696629,
-      "rank": 10,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
