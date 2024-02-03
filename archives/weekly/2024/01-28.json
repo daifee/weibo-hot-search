@@ -1,6 +1,6 @@
 {
   "startTime": 1706372409793,
-  "endTime": 1706949230247,
+  "endTime": 1706951822352,
   "band_list": [
     {
       "raw_hot": 8795205,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 862370,
-      "num": 417682,
+      "num": 454269,
       "word": "哭了三天",
       "onboard_time": 1706942668,
       "rank": 17,
@@ -3179,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591587,
+      "num": 591587,
+      "word": "甄嬛的尼姑服是M码的",
+      "onboard_time": 1706946869,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590259,
       "num": 673056,
       "word": "美军空袭伊拉克叙利亚",
@@ -3811,14 +3819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 509601,
-      "num": 509601,
-      "word": "甄嬛的尼姑服是M码的",
-      "onboard_time": 1706946869,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 508633,
       "num": 508633,
       "word": "今冬最强雨雪要来了",
@@ -3953,6 +3953,14 @@
       "onboard_time": 1706629168,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495408,
+      "num": 495408,
+      "word": "奥运冠军杨倩启蒙教练再发声",
+      "onboard_time": 1706949868,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 495071,
@@ -4275,6 +4283,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 472515,
+      "num": 472515,
+      "word": "小米SU7首撞",
+      "onboard_time": 1706949208,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 471747,
       "num": 471747,
       "word": "00后四美",
@@ -4504,6 +4520,14 @@
       "word": "杨紫说破两万跳女团舞",
       "onboard_time": 1706402066,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 447508,
+      "num": 447508,
+      "word": "15年花千骨删减片段",
+      "onboard_time": 1706951012,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -5795,6 +5819,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 357207,
+      "num": 357207,
+      "word": "医生说的清淡饮食好多人都搞错了",
+      "onboard_time": 1706946088,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 356934,
       "num": 356934,
       "word": "小S许雅钧一家度假",
@@ -5913,6 +5945,14 @@
       "onboard_time": 1706610992,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350994,
+      "num": 350994,
+      "word": "咖啡哥 微笑姐",
+      "onboard_time": 1706946571,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 350906,
@@ -6387,14 +6427,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 319366,
-      "num": 319366,
-      "word": "医生说的清淡饮食好多人都搞错了",
-      "onboard_time": 1706946088,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 318999,
       "num": 318999,
       "word": "李连杰与妻女现身寺庙",
@@ -6609,6 +6641,14 @@
       "onboard_time": 1706503055,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307607,
+      "num": 307607,
+      "word": "开端会有第二部",
+      "onboard_time": 1706949691,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 307003,
@@ -7145,14 +7185,6 @@
       "onboard_time": 1706578528,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285338,
-      "num": 199310,
-      "word": "咖啡哥 微笑姐",
-      "onboard_time": 1706946571,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 284913,
@@ -8115,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241672,
+      "num": 200594,
+      "word": "南方人真的不适合去北方搓澡",
+      "onboard_time": 1706948908,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241594,
       "num": 234805,
       "word": "糖吃多了可能毁全身",
@@ -8137,6 +8177,14 @@
       "onboard_time": 1706869052,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240417,
+      "num": 192205,
+      "word": "创造营亚洲导师合唱创4主题曲",
+      "onboard_time": 1706951134,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 240114,
@@ -8457,6 +8505,14 @@
       "onboard_time": 1706589334,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 230268,
+      "num": 191814,
+      "word": "你们给秦海璐留点面子吧",
+      "onboard_time": 1706949090,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 230189,
@@ -10635,6 +10691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192044,
+      "num": 194918,
+      "word": "Creme小炮五杀",
+      "onboard_time": 1706951310,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191998,
       "num": 191998,
       "word": "刘德华 我可以当你们爸爸",
@@ -10705,6 +10769,14 @@
       "onboard_time": 1706789491,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191090,
+      "num": 191090,
+      "word": "皇马把李现难住了",
+      "onboard_time": 1706949331,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 190967,
@@ -11521,6 +11593,14 @@
       "onboard_time": 1706949090,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178316,
+      "num": 178316,
+      "word": "宋亚轩嗓音",
+      "onboard_time": 1706951431,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 178007,
@@ -12595,6 +12675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160780,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160771,
       "num": 160771,
       "word": "李权哲亚超二公排名第一",
@@ -13076,7 +13164,7 @@
     },
     {
       "raw_hot": 154166,
-      "num": 167997,
+      "num": 191565,
       "word": "法国巴黎一火车站发生袭击事件",
       "onboard_time": 1706948553,
       "rank": 28,
@@ -13265,14 +13353,6 @@
       "onboard_time": 1706796274,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152110,
-      "num": 152110,
-      "word": "南方人真的不适合去北方搓澡",
-      "onboard_time": 1706948908,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 152035,
@@ -13555,14 +13635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147949,
-      "num": 147949,
-      "word": "小米SU7首撞",
-      "onboard_time": 1706949208,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 147839,
       "num": 147839,
       "word": "银川",
@@ -13619,6 +13691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147210,
+      "num": 124295,
+      "word": "成毅白色飘带西装",
+      "onboard_time": 1706950052,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147188,
       "num": 147188,
       "word": "中国恒大被清盘不等于恒大集团境内主体破产",
@@ -13673,6 +13753,14 @@
       "onboard_time": 1706879069,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146814,
+      "num": 146814,
+      "word": "刘强东同款礼盒倒手能赚140元",
+      "onboard_time": 1706951670,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 146781,
@@ -15035,14 +15123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131339,
-      "num": 1032191,
-      "word": "网络视听盛典发布节目单",
-      "onboard_time": 1706948191,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131336,
       "num": 131336,
       "word": "下班自由",
@@ -16331,6 +16411,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 117044,
+      "num": 117044,
+      "word": "张碧晨有自己的语言系统",
+      "onboard_time": 1706951792,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116878,
       "num": 116878,
       "word": "白鹿在片场好欢乐",
@@ -16481,14 +16569,6 @@
       "onboard_time": 1706623054,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115412,
-      "num": 115412,
-      "word": "你们给秦海璐留点面子吧",
-      "onboard_time": 1706949090,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 115125,
@@ -17136,6 +17216,14 @@
       "word": "1月最后一天",
       "onboard_time": 1706656822,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108668,
+      "num": 108668,
+      "word": "你们和自己的爹熟吗",
+      "onboard_time": 1706950711,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -18035,6 +18123,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 90260,
+      "num": 101995,
+      "word": "谷爱凌和奶奶过小年",
+      "onboard_time": 1706949511,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89162,
       "num": 89162,
       "word": "从狮王变失望只需要一个发型",
@@ -18513,6 +18609,14 @@
       "onboard_time": 1706830106,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63318,
+      "num": 132254,
+      "word": "曾舜晞给粉丝送曾老吉",
+      "onboard_time": 1706949331,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 62205,
