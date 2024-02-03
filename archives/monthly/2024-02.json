@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706922608524,
+  "endTime": 1706923733610,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -339,20 +339,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1301340,
+      "num": 1301340,
+      "word": "70岁的姥姥离婚了",
+      "onboard_time": 1706918786,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1280117,
       "num": 1280117,
       "word": "用氮气执行死刑",
       "onboard_time": 1706746228,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1275597,
-      "num": 1275597,
-      "word": "70岁的姥姥离婚了",
-      "onboard_time": 1706918786,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1257914,
@@ -643,8 +643,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 826190,
-      "num": 826190,
+      "raw_hot": 831666,
+      "num": 831666,
       "word": "小金豆两个月在尔滨购房共4650套",
       "onboard_time": 1706915120,
       "rank": 4,
@@ -1379,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497971,
+      "num": 497971,
+      "word": "12306回应2名乘客买到同日同座票",
+      "onboard_time": 1706922148,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497754,
       "num": 497754,
       "word": "仙剑四豆瓣开分4.2",
@@ -1571,6 +1579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 444032,
+      "num": 444032,
+      "word": "死亡万花筒原著粉",
+      "onboard_time": 1706919447,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441436,
       "num": 441436,
       "word": "赵丽颖公司取得演出经纪许可",
@@ -1635,14 +1651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 431286,
-      "num": 431286,
-      "word": "死亡万花筒原著粉",
-      "onboard_time": 1706919447,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 429716,
       "num": 429716,
       "word": "奔驰车加塞事件",
@@ -1675,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424444,
+      "num": 424444,
+      "word": "金秀贤斥88亿韩元购房",
+      "onboard_time": 1706919327,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423411,
       "num": 423411,
       "word": "kpop历代级美貌",
@@ -1699,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415231,
-      "num": 326115,
-      "word": "金秀贤斥88亿韩元购房",
-      "onboard_time": 1706919327,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 414619,
       "num": 414619,
       "word": "格力年会 我妈就是董明珠",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1706847513,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412382,
+      "num": 412382,
+      "word": "曝职校男生诱导11岁女童发私密照",
+      "onboard_time": 1706921671,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409540,
@@ -1875,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379305,
+      "num": 379305,
+      "word": "高速惊现老头乐不到50迈一路压车",
+      "onboard_time": 1706921728,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378939,
       "num": 378939,
       "word": "曲婉婷发文",
@@ -2027,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358560,
+      "num": 358560,
+      "word": "职业背债人3个月躺赚200万",
+      "onboard_time": 1706918364,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356261,
       "num": 356261,
       "word": "高铁算是把用户需求整明白了",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1706870911,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347051,
+      "num": 347051,
+      "word": "王一博自己骑着摩托上山",
+      "onboard_time": 1706921189,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 344076,
@@ -2251,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321805,
-      "num": 321805,
-      "word": "职业背债人3个月躺赚200万",
-      "onboard_time": 1706918364,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319851,
       "num": 319851,
       "word": "A股破净股比例超10%",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1706725339,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314673,
-      "num": 314673,
-      "word": "曝职校男生诱导11岁女童发私密照",
-      "onboard_time": 1706921671,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313213,
@@ -2523,14 +2547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 283091,
-      "num": 283091,
-      "word": "王一博自己骑着摩托上山",
-      "onboard_time": 1706921189,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -2619,6 +2635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275000,
+      "num": 461537,
+      "word": "花花被扇倒索性直接躺下",
+      "onboard_time": 1706905096,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273510,
       "num": 182744,
       "word": "迪丽热巴红色刺绣吊带裙",
@@ -2659,6 +2683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271900,
+      "num": 271900,
+      "word": "王俊凯身在直播实则陷入回忆",
+      "onboard_time": 1706921728,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271379,
       "num": 271379,
       "word": "赵露思珠帘玉幕紫衣路透",
@@ -2673,14 +2705,6 @@
       "onboard_time": 1706833049,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 270150,
-      "num": 270150,
-      "word": "花花被扇倒索性直接躺下",
-      "onboard_time": 1706905096,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269283,
@@ -3139,6 +3163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 223238,
+      "num": 223238,
+      "word": "张凯毅张煜东",
+      "onboard_time": 1706920948,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 222566,
       "num": 222566,
       "word": "重庆姐弟坠亡案",
@@ -3185,6 +3217,14 @@
       "onboard_time": 1706855972,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220884,
+      "num": 166043,
+      "word": "第一批回家的小猫已经烤上火了",
+      "onboard_time": 1706922450,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 220734,
@@ -3403,14 +3443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205846,
-      "num": 205846,
-      "word": "张凯毅张煜东",
-      "onboard_time": 1706920948,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 205832,
       "num": 205832,
       "word": "龙宝",
@@ -3488,14 +3520,6 @@
       "word": "鞠婧祎雪中撑伞",
       "onboard_time": 1706880812,
       "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202711,
-      "num": 202711,
-      "word": "王俊凯身在直播实则陷入回忆",
-      "onboard_time": 1706921728,
-      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -3635,6 +3659,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 196292,
+      "num": 196292,
+      "word": "马思纯泳装",
+      "onboard_time": 1706922330,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196267,
       "num": 196267,
       "word": "蔡依林贵阳演唱会预售",
@@ -3707,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193687,
+      "num": 193687,
+      "word": "为啥手机最后1%的电能用很久",
+      "onboard_time": 1706922450,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193202,
       "num": 193202,
       "word": "王亚飞",
@@ -3763,6 +3803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191828,
+      "num": 191828,
+      "word": "42岁的李栋旭身材",
+      "onboard_time": 1706921971,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191796,
       "num": 187784,
       "word": "刘冲晒肖战封面",
@@ -3809,14 +3857,6 @@
       "onboard_time": 1706859090,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 189833,
-      "num": 161447,
-      "word": "高速惊现老头乐不到50迈一路压车",
-      "onboard_time": 1706921728,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189608,
@@ -3900,7 +3940,7 @@
     },
     {
       "raw_hot": 188269,
-      "num": 158375,
+      "num": 163800,
       "word": "看得出来小孩哥确实是闯祸了",
       "onboard_time": 1706920766,
       "rank": 31,
@@ -4419,14 +4459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171621,
-      "num": 158050,
-      "word": "12306回应2名乘客买到同日同座票",
-      "onboard_time": 1706922148,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171091,
       "num": 171091,
       "word": "TheShy谈主队",
@@ -4585,14 +4617,6 @@
       "onboard_time": 1706880693,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165843,
-      "num": 165843,
-      "word": "马思纯泳装",
-      "onboard_time": 1706922330,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165745,
@@ -4923,6 +4947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 153055,
+      "num": 153055,
+      "word": "肖战觉得自己作品还是太少",
+      "onboard_time": 1706905396,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153046,
       "num": 153046,
       "word": "邓为小年自拍",
@@ -5003,14 +5035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150002,
-      "num": 150002,
-      "word": "肖战觉得自己作品还是太少",
-      "onboard_time": 1706905396,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149518,
       "num": 149518,
       "word": "苹果头显开售",
@@ -5049,6 +5073,14 @@
       "onboard_time": 1706761414,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147895,
+      "num": 147895,
+      "word": "在暴雪时分 暧昧感",
+      "onboard_time": 1706922868,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 147839,
@@ -5121,6 +5153,14 @@
       "onboard_time": 1706770112,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146212,
+      "num": 146212,
+      "word": "突然对水果冷知识起敬意了",
+      "onboard_time": 1706920709,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 145704,
@@ -5240,14 +5280,6 @@
       "word": "孔刘李栋旭又合体",
       "onboard_time": 1706894544,
       "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "42岁的李栋旭身材",
-      "onboard_time": 1706921971,
-      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -5563,14 +5595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130934,
-      "num": 130934,
-      "word": "突然对水果冷知识起敬意了",
-      "onboard_time": 1706920709,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 130857,
       "num": 130857,
       "word": "于正回应19层官微手滑",
@@ -5681,14 +5705,6 @@
       "onboard_time": 1706881293,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127369,
-      "num": 127369,
-      "word": "第一批回家的小猫已经烤上火了",
-      "onboard_time": 1706922450,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 126888,
@@ -5883,6 +5899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117754,
+      "num": 117754,
+      "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
+      "onboard_time": 1706922750,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117696,
       "num": 117696,
       "word": "陈虹伊clean",
@@ -5971,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113989,
+      "num": 113989,
+      "word": "金地雄视频签售结束后说西八",
+      "onboard_time": 1706915423,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113686,
       "num": 113686,
       "word": "要久久爱",
@@ -6009,14 +6041,6 @@
       "onboard_time": 1706838090,
       "rank": 40,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 113152,
-      "num": 113152,
-      "word": "金地雄视频签售结束后说西八",
-      "onboard_time": 1706915423,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 112865,
@@ -6171,20 +6195,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107529,
+      "num": 107529,
+      "word": "王安宇港范儿",
+      "onboard_time": 1706922931,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107315,
       "num": 107315,
       "word": "猫 不是谁抓谁啊老天爷",
       "onboard_time": 1706916862,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105780,
-      "num": 105780,
-      "word": "为啥手机最后1%的电能用很久",
-      "onboard_time": 1706922450,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 105416,
@@ -6339,12 +6363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92989,
+      "num": 92989,
+      "word": "试穿大码女装",
+      "onboard_time": 1706923289,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 92725,
       "num": 92487,
       "word": "这是龙王结婚吗",
       "onboard_time": 1706719108,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92473,
+      "num": 92473,
+      "word": "世界再大总有人在等你回家",
+      "onboard_time": 1706921008,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 92385,
@@ -6393,6 +6433,14 @@
       "onboard_time": 1706890350,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88454,
+      "num": 88454,
+      "word": "同日同座高铁票",
+      "onboard_time": 1706923710,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 87977,
