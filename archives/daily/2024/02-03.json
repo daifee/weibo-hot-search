@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706955379432,
+  "endTime": 1706956446951,
   "band_list": [
     {
       "raw_hot": 1922130,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1257463,
-      "num": 1257463,
+      "raw_hot": 1264652,
+      "num": 1264652,
       "word": "15年花千骨删减片段",
       "onboard_time": 1706951012,
       "rank": 11,
@@ -105,6 +105,14 @@
       "onboard_time": 1706922750,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 976345,
+      "num": 976345,
+      "word": "2024中央一号文件公布",
+      "onboard_time": 1706953711,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 970498,
@@ -177,14 +185,6 @@
       "onboard_time": 1706930188,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764338,
-      "num": 764338,
-      "word": "2024中央一号文件公布",
-      "onboard_time": 1706953711,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 756045,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 581026,
-      "num": 297593,
+      "num": 301987,
       "word": "被公厕便池的水溅到会得病吗",
       "onboard_time": 1706945610,
       "rank": 46,
@@ -387,6 +387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506042,
+      "num": 1114815,
+      "word": "外婆见外孙接自己回城过年激动落泪",
+      "onboard_time": 1706953829,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501374,
+      "num": 501374,
+      "word": "创造营亚洲导师合唱创4主题曲",
+      "onboard_time": 1706951134,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493989,
       "num": 394997,
       "word": "致命游戏 好歹毒的演技",
@@ -425,14 +441,6 @@
       "onboard_time": 1706943270,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482853,
-      "num": 482853,
-      "word": "创造营亚洲导师合唱创4主题曲",
-      "onboard_time": 1706951134,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 482088,
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 424515,
+      "num": 373357,
+      "word": "突然出现的咽喉炎到底是什么病毒",
+      "onboard_time": 1706952211,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 424444,
       "num": 424444,
       "word": "金秀贤斥88亿韩元购房",
@@ -553,6 +569,14 @@
       "onboard_time": 1706946571,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407099,
+      "num": 365846,
+      "word": "青云台 赵露思邓为",
+      "onboard_time": 1706955690,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 404846,
@@ -603,14 +627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 364774,
-      "num": 364774,
-      "word": "突然出现的咽喉炎到底是什么病毒",
-      "onboard_time": 1706952211,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 358560,
       "num": 358560,
       "word": "职业背债人3个月躺赚200万",
@@ -659,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346892,
+      "num": 346892,
+      "word": "成毅狐妖王权篇新妆",
+      "onboard_time": 1706954368,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330150,
       "num": 330150,
       "word": "1岁外孙来家外公急忙砍竹子做围墙",
@@ -675,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321095,
-      "num": 321095,
-      "word": "成毅狐妖王权篇新妆",
-      "onboard_time": 1706954368,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 319441,
+      "num": 1011090,
+      "word": "66岁奶奶要给四个孙子包万元红包",
+      "onboard_time": 1706953829,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315343,
@@ -747,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293626,
-      "num": 1011090,
-      "word": "66岁奶奶要给四个孙子包万元红包",
-      "onboard_time": 1706953829,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292655,
       "num": 511525,
       "word": "花花被扇倒索性直接躺下",
@@ -771,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285463,
+      "num": 285463,
+      "word": "雷军宣布卢伟冰将兼任小米品牌总经理",
+      "onboard_time": 1706954610,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 281035,
       "num": 231526,
       "word": "风月不相关 刘宇宁田曦薇",
@@ -779,20 +803,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280747,
-      "num": 791818,
-      "word": "外婆见外孙接自己回城过年激动落泪",
-      "onboard_time": 1706953829,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280451,
       "num": 280451,
       "word": "郭德纲开场 岳云鹏掉泪",
       "onboard_time": 1706926169,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279943,
+      "num": 279943,
+      "word": "卡琳娜直播",
+      "onboard_time": 1706955568,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 278263,
@@ -809,6 +833,14 @@
       "onboard_time": 1706931569,
       "rank": 22,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 273328,
+      "num": 266132,
+      "word": "TF家族 收票",
+      "onboard_time": 1706952750,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 272890,
@@ -841,14 +873,6 @@
       "onboard_time": 1706928628,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 266132,
-      "num": 266132,
-      "word": "TF家族 收票",
-      "onboard_time": 1706952750,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 263343,
@@ -899,20 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257206,
+      "num": 221658,
+      "word": "反复长痘的坏习惯",
+      "onboard_time": 1706955332,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 256386,
+      "num": 256386,
+      "word": "上班后看小说真的代入不了",
+      "onboard_time": 1706954251,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248350,
       "num": 248350,
       "word": "在暴雪时分 冬装穿搭",
       "onboard_time": 1706929108,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244118,
-      "num": 244118,
-      "word": "上班后看小说真的代入不了",
-      "onboard_time": 1706954251,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 241291,
@@ -961,6 +993,14 @@
       "onboard_time": 1706937092,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230940,
+      "num": 230940,
+      "word": "宫脇咲良中国首封",
+      "onboard_time": 1706956231,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230268,
@@ -1299,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192331,
+      "num": 192331,
+      "word": "檀健次自封卧底教科书",
+      "onboard_time": 1706955749,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192044,
       "num": 194918,
       "word": "Creme小炮五杀",
@@ -1363,14 +1411,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 186848,
-      "num": 186848,
-      "word": "雷军宣布卢伟冰将兼任小米品牌总经理",
-      "onboard_time": 1706954610,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183952,
       "num": 183952,
       "word": "A股走低与雪球敲入关联较低",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1706879374,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 177110,
+      "num": 177110,
+      "word": "书卷一梦",
+      "onboard_time": 1706955933,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 174598,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1706938589,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159321,
+      "num": 169371,
+      "word": "信阳一在建体育馆被暴雪压塌",
+      "onboard_time": 1706955871,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154767,
@@ -1859,14 +1915,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 131285,
-      "num": 131285,
-      "word": "反复长痘的坏习惯",
-      "onboard_time": 1706955332,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130521,
       "num": 130521,
       "word": "鞠婧祎千香婚服路透",
@@ -2043,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113283,
+      "num": 135178,
+      "word": "抽出来的血最终去了哪儿",
+      "onboard_time": 1706955811,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113163,
       "num": 113163,
       "word": "应声虫",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1706886751,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109892,
+      "num": 674267,
+      "word": "故宫龙纹壁纸太美了",
+      "onboard_time": 1706953829,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 109613,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1706890170,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100611,
-      "num": 569926,
-      "word": "故宫龙纹壁纸太美了",
-      "onboard_time": 1706953829,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 99134,
@@ -2404,7 +2460,7 @@
     },
     {
       "raw_hot": 35889,
-      "num": 154622,
+      "num": 313765,
       "word": "蛋仔派对又进化了",
       "onboard_time": 1706954850,
       "rank": 41,
@@ -2436,7 +2492,7 @@
     },
     {
       "raw_hot": 26945,
-      "num": 209731,
+      "num": 223755,
       "word": "迪迦在元梦之星上班",
       "onboard_time": 1706954669,
       "rank": 29,
