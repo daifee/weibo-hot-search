@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706966226007,
+  "endTime": 1706967230996,
   "band_list": [
     {
       "raw_hot": 2826219,
@@ -59,12 +59,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1418924,
-      "num": 1418924,
+      "raw_hot": 1435699,
+      "num": 1435699,
       "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
       "onboard_time": 1706961389,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1386813,
+      "num": 1386813,
+      "word": "湖南春晚 科目三",
+      "onboard_time": 1706964511,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1350320,
+      "num": 1350320,
+      "word": "马宁 尺度",
+      "onboard_time": 1706963733,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 1301340,
@@ -131,14 +147,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1013041,
-      "num": 517030,
-      "word": "马宁 尺度",
-      "onboard_time": 1706963733,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 999231,
       "num": 999231,
       "word": "警方称家暴视频是妻子发泄情绪拼接的",
@@ -163,20 +171,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 970761,
-      "num": 970761,
-      "word": "湖南春晚 科目三",
-      "onboard_time": 1706964511,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 970498,
       "num": 970498,
       "word": "田曦薇 女将军人设",
       "onboard_time": 1706941531,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 963997,
+      "num": 963997,
+      "word": "魏大勋真的不是歌手吗",
+      "onboard_time": 1706966072,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 960669,
@@ -283,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 686533,
+      "num": 686533,
+      "word": "被EDG菜笑啦",
+      "onboard_time": 1706965771,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 685455,
       "num": 453410,
       "word": "叶府婚宴",
@@ -345,6 +361,14 @@
       "onboard_time": 1706916380,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618076,
+      "num": 618076,
+      "word": "邓男子大变活人沈梦辰",
+      "onboard_time": 1706966672,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 614481,
@@ -457,6 +481,14 @@
       "onboard_time": 1706916683,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 523256,
+      "num": 523256,
+      "word": "脱口秀大会第六季大王",
+      "onboard_time": 1706964932,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 517526,
@@ -675,14 +707,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 413296,
-      "num": 413296,
-      "word": "被EDG菜笑啦",
-      "onboard_time": 1706965771,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 411800,
       "num": 411800,
       "word": "PPT 骗骗他",
@@ -747,14 +771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 375976,
-      "num": 375976,
-      "word": "脱口秀大会第六季大王",
-      "onboard_time": 1706964932,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375557,
       "num": 375557,
       "word": "谭松韵天竺少女",
@@ -787,6 +803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 365370,
+      "num": 643743,
+      "word": "伊朗vs日本",
+      "onboard_time": 1706957490,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358560,
       "num": 358560,
       "word": "职业背债人3个月躺赚200万",
@@ -808,6 +832,14 @@
       "word": "医生说的清淡饮食好多人都搞错了",
       "onboard_time": 1706946088,
       "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 352632,
+      "num": 352632,
+      "word": "酒后出现5个症状可能是猝死前兆",
+      "onboard_time": 1706965472,
+      "rank": 18,
       "category": "健康医疗"
     },
     {
@@ -929,6 +961,14 @@
       "onboard_time": 1706935412,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303873,
+      "num": 210873,
+      "word": "邓男子魔术吓死我了",
+      "onboard_time": 1706966914,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 301570,
@@ -1067,14 +1107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 263914,
-      "num": 263914,
-      "word": "酒后出现5个症状可能是猝死前兆",
-      "onboard_time": 1706965472,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 263528,
       "num": 263528,
       "word": "种地吧直播预告",
@@ -1171,6 +1203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 241933,
+      "num": 198695,
+      "word": "杨幂官宣百花迎春",
+      "onboard_time": 1706965831,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241291,
       "num": 241291,
       "word": "郭麒麟又亲爹了",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1706880511,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227554,
+      "num": 1407671,
+      "word": "2024网络视听盛典",
+      "onboard_time": 1706965592,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 227392,
@@ -1467,14 +1515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205070,
-      "num": 1175121,
-      "word": "2024网络视听盛典",
-      "onboard_time": 1706965592,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204805,
       "num": 201825,
       "word": "以闪亮之名福鹿迎春",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1706929830,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202954,
+      "num": 198566,
+      "word": "凤凰传奇串烧",
+      "onboard_time": 1706966672,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 202692,
@@ -1611,22 +1659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195392,
-      "num": 249768,
-      "word": "伊朗vs日本",
-      "onboard_time": 1706957490,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195051,
-      "num": 195051,
-      "word": "杨幂官宣百花迎春",
-      "onboard_time": 1706965831,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194293,
       "num": 194293,
       "word": "晚点",
@@ -1675,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192211,
-      "num": 192211,
-      "word": "魏大勋真的不是歌手吗",
-      "onboard_time": 1706966072,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192044,
       "num": 194918,
       "word": "Creme小炮五杀",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1706930491,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189269,
+      "num": 189269,
+      "word": "日本遭绝杀",
+      "onboard_time": 1706967214,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 188269,
@@ -1755,12 +1787,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "研究发现低热量饮食可延长寿命",
+      "onboard_time": 1706966011,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183952,
       "num": 183952,
       "word": "A股走低与雪球敲入关联较低",
       "onboard_time": 1706888311,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 183552,
+      "num": 183552,
+      "word": "XYG对战WB",
+      "onboard_time": 1706964453,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 183439,
@@ -1971,6 +2019,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160974,
+      "num": 160974,
+      "word": "朴成训GENTO",
+      "onboard_time": 1706967214,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158048,
+      "num": 158048,
+      "word": "一诺生日礼物拆箱vlog",
+      "onboard_time": 1706967214,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154767,
       "num": 154767,
       "word": "晨起时这2个行为很伤肾",
@@ -2027,14 +2091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151198,
-      "num": 151198,
-      "word": "XYG对战WB",
-      "onboard_time": 1706964453,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150423,
       "num": 150423,
       "word": "在暴雪时分 暧昧感",
@@ -2065,14 +2121,6 @@
       "onboard_time": 1706944112,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 148257,
-      "num": 148257,
-      "word": "研究发现低热量饮食可延长寿命",
-      "onboard_time": 1706966011,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 147691,
@@ -2683,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98467,
+      "num": 199583,
+      "word": "安徽下冰针雪花好像味精",
+      "onboard_time": 1706966072,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96959,
       "num": 96959,
       "word": "A股再跌可能会需要更多救市资金",
@@ -2761,14 +2817,6 @@
       "onboard_time": 1706888793,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84056,
-      "num": 189746,
-      "word": "安徽下冰针雪花好像味精",
-      "onboard_time": 1706966072,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79140,
@@ -2995,6 +3043,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 22079,
+      "num": 199454,
+      "word": "雷军宣布王腾接任Redmi品牌总经理",
+      "onboard_time": 1706966431,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 17299,
+      "num": 199077,
+      "word": "全职儿女梦中情职",
+      "onboard_time": 1706966734,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17254,
       "num": 19810,
       "word": "雪花酥也成了刺客",
@@ -3074,6 +3138,9 @@
     },
     {
       "word": "#老百姓的事情是最重要的事情#"
+    },
+    {
+      "word": "#习主席的新春祝福#"
     }
   ]
 }
