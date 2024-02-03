@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1706980515168,
+  "endTime": 1706981650933,
   "band_list": [
     {
       "raw_hot": 1593981,
@@ -155,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254596,
-      "num": 254596,
+      "raw_hot": 268883,
+      "num": 268883,
       "word": "央视评陈立农最新舞台",
       "onboard_time": 1706973992,
       "rank": 23,
@@ -184,6 +184,14 @@
       "word": "张杰 狂门永存",
       "onboard_time": 1706973632,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223662,
+      "num": 168479,
+      "word": "白客 娱乐圈知名Beta",
+      "onboard_time": 1706979086,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -251,16 +259,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176374,
-      "num": 126810,
-      "word": "白客 娱乐圈知名Beta",
-      "onboard_time": 1706979086,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164149,
-      "num": 104340,
+      "num": 162609,
       "word": "于正盛赞卢昱晓",
       "onboard_time": 1706979684,
       "rank": 20,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128062,
+      "num": 81167,
+      "word": "冯巩相声",
+      "onboard_time": 1706980583,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126449,
       "num": 138011,
       "word": "大爷掏出补光灯那刻我人都惊呆了",
@@ -353,6 +361,14 @@
       "onboard_time": 1706973095,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109060,
+      "num": 109060,
+      "word": "天天福",
+      "onboard_time": 1706978428,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 107734,
@@ -377,14 +393,6 @@
       "onboard_time": 1706973632,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95522,
-      "num": 95522,
-      "word": "天天福",
-      "onboard_time": 1706978428,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 89221,
@@ -443,6 +451,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67603,
+      "num": 59771,
+      "word": "创造营亚洲",
+      "onboard_time": 1706962770,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 66376,
+      "num": 59759,
+      "word": "脱口秀大会第六季大王",
+      "onboard_time": 1706964932,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64336,
       "num": 119533,
       "word": "3岁萌娃坐6小时动车一路上不哭闹",
@@ -457,6 +481,14 @@
       "onboard_time": 1706965592,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24791,
+      "num": 59489,
+      "word": "LPL群访",
+      "onboard_time": 1706979926,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1706980515168,
+  "endTime": 1706981650933,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -3468,7 +3468,7 @@
     },
     {
       "raw_hot": 292144,
-      "num": 254596,
+      "num": 268883,
       "word": "央视评陈立农最新舞台",
       "onboard_time": 1706973992,
       "rank": 28,
@@ -4441,6 +4441,14 @@
       "onboard_time": 1706799453,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223662,
+      "num": 168479,
+      "word": "白客 娱乐圈知名Beta",
+      "onboard_time": 1706979086,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 223482,
@@ -6091,14 +6099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176374,
-      "num": 126810,
-      "word": "白客 娱乐圈知名Beta",
-      "onboard_time": 1706979086,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "坠亡姐弟外婆称心里会痛一辈子",
@@ -6556,7 +6556,7 @@
     },
     {
       "raw_hot": 164149,
-      "num": 104340,
+      "num": 162609,
       "word": "于正盛赞卢昱晓",
       "onboard_time": 1706979684,
       "rank": 20,
@@ -7953,6 +7953,14 @@
       "onboard_time": 1706857228,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128062,
+      "num": 81167,
+      "word": "冯巩相声",
+      "onboard_time": 1706980583,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 128033,
@@ -9569,6 +9577,14 @@
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24791,
+      "num": 59489,
+      "word": "LPL群访",
+      "onboard_time": 1706979926,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 24433,
