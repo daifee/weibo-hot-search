@@ -1,0 +1,402 @@
+{
+  "runTime": 1706998610460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 246307,
+        "num": 246307,
+        "word": "上海恢复浦东机场网约车",
+        "onboard_time": 1706976868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140148,
+        "num": 140148,
+        "word": "小品 烂梗",
+        "onboard_time": 1706975010,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180616,
+        "num": 113125,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103100,
+        "num": 103100,
+        "word": "终于等到肖战",
+        "onboard_time": 1706977709,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95023,
+        "num": 95023,
+        "word": "因为彩礼我和相恋8年的男友分手了",
+        "onboard_time": 1706968953,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75478,
+        "num": 75478,
+        "word": "当儿子决定穿裙子上学",
+        "onboard_time": 1706973393,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70653,
+        "num": 70653,
+        "word": "宋亚轩舞台上好憔悴",
+        "onboard_time": 1706976149,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52389,
+        "num": 52389,
+        "word": "湖南春晚 抖音梗",
+        "onboard_time": 1706983943,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42439,
+        "num": 52313,
+        "word": "酒后出现5个症状可能是猝死前兆",
+        "onboard_time": 1706965472,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63873,
+        "num": 52291,
+        "word": "赌王四太穿苗服跳民族舞",
+        "onboard_time": 1706988019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56884,
+        "num": 52288,
+        "word": "掏空积蓄为儿买婚房被中介骗600万",
+        "onboard_time": 1706992876,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52253,
+        "num": 52253,
+        "word": "唐艺昕虞书欣撞衫",
+        "onboard_time": 1706985739,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47673,
+        "num": 47673,
+        "word": "央视评陈立农最新舞台",
+        "onboard_time": 1706973992,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36984,
+        "num": 36984,
+        "word": "日本队遭绝杀",
+        "onboard_time": 1706967214,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45599,
+        "num": 36828,
+        "word": "大鹏发文纪念赵英俊去世三周年",
+        "onboard_time": 1706984960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38876,
+        "num": 36806,
+        "word": "冯巩相声",
+        "onboard_time": 1706980583,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36544,
+        "num": 36544,
+        "word": "疑似患癌者最终7%确诊",
+        "onboard_time": 1706970695,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34580,
+        "num": 34580,
+        "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+        "onboard_time": 1706961389,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30281,
+        "num": 30281,
+        "word": "花花和妹妹越来越黏糊了",
+        "onboard_time": 1706967992,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33458,
+        "num": 30264,
+        "word": "马天宇说cp都是假的",
+        "onboard_time": 1706995036,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28755,
+        "num": 28755,
+        "word": "宋茜青花瓷 大气",
+        "onboard_time": 1706969854,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27891,
+        "num": 27891,
+        "word": "大爷掏出补光灯那刻我人都惊呆了",
+        "onboard_time": 1706969794,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27347,
+        "num": 27347,
+        "word": "买车厘子不能只看几个J",
+        "onboard_time": 1706971476,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24165,
+        "num": 24165,
+        "word": "3岁萌娃坐6小时动车一路上不哭闹",
+        "onboard_time": 1706971954,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26530,
+        "num": 23430,
+        "word": "恭王府偶遇眉姐姐温太医",
+        "onboard_time": 1706981902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26372,
+        "num": 22771,
+        "word": "林亦扬殷果睡一张床",
+        "onboard_time": 1706997977,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21643,
+        "num": 21643,
+        "word": "马斯克宣布更改特斯拉注册地",
+        "onboard_time": 1706970150,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23986,
+        "num": 21301,
+        "word": "同龄人谈恋爱",
+        "onboard_time": 1706988676,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20755,
+        "num": 20755,
+        "word": "为啥车厘子1月价格比11月低那么多",
+        "onboard_time": 1706963131,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29217,
+        "num": 20399,
+        "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
+        "onboard_time": 1706991076,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22708,
+        "num": 19746,
+        "word": "吴磊少年人夫感",
+        "onboard_time": 1706979025,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22090,
+        "num": 18935,
+        "word": "杨氏双缝干涉实验",
+        "onboard_time": 1706960790,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17317,
+        "num": 17317,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17001,
+        "num": 17001,
+        "word": "为什么流感发病48小时是黄金自救期",
+        "onboard_time": 1706988319,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20958,
+        "num": 16915,
+        "word": "爱情公寓 一镜到底",
+        "onboard_time": 1706969072,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20863,
+        "num": 16729,
+        "word": "张杰 狂门永存",
+        "onboard_time": 1706973632,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16431,
+        "num": 16431,
+        "word": "马宁 尺度",
+        "onboard_time": 1706963733,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16036,
+        "num": 16425,
+        "word": "直击寒潮天气湖北高速春运路况",
+        "onboard_time": 1706989457,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14693,
+        "num": 16414,
+        "word": "被EDG菜笑啦",
+        "onboard_time": 1706965771,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20473,
+        "num": 16404,
+        "word": "肖战演讲",
+        "onboard_time": 1706969556,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20021,
+        "num": 16398,
+        "word": "不敢想嘘嘘该有多幸福",
+        "onboard_time": 1706976028,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19190,
+        "num": 16384,
+        "word": "在暴雪时分",
+        "onboard_time": 1706960492,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18178,
+        "num": 16369,
+        "word": "魏大勋真的不是歌手吗",
+        "onboard_time": 1706966072,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17509,
+        "num": 16366,
+        "word": "金希澈泡泡头像变成了seventeen",
+        "onboard_time": 1706983465,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16609,
+        "num": 16352,
+        "word": "香港顶流姜涛舞蹈直拍",
+        "onboard_time": 1706967393,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14165,
+        "num": 16344,
+        "word": "恨不得连夜把书读烂",
+        "onboard_time": 1706982262,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12816,
+        "num": 16327,
+        "word": "终于理解我妈了",
+        "onboard_time": 1706971415,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11891,
+        "num": 16316,
+        "word": "武汉市气象局回应遭遇冻雨天气",
+        "onboard_time": 1706998336,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11829,
+        "num": 16302,
+        "word": "暴雪冰冻橙色预警",
+        "onboard_time": 1706998397,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的新春祝福#"
+    }
+  }
+}
