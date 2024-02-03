@@ -1,6 +1,6 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706933955305,
+  "endTime": 1706934851486,
   "band_list": [
     {
       "raw_hot": 1882120,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626909,
+      "num": 626909,
+      "word": "王者荣耀皮肤返场",
+      "onboard_time": 1706932889,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 626561,
       "num": 626561,
       "word": "前TVB演员河国荣烧炭自杀",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488295,
+      "num": 488295,
+      "word": "荣梓杉成年了",
+      "onboard_time": 1706932830,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487919,
       "num": 487919,
       "word": "杨波 大学当了四年海王",
@@ -265,14 +281,6 @@
       "onboard_time": 1706897301,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461437,
-      "num": 461437,
-      "word": "王者荣耀皮肤返场",
-      "onboard_time": 1706932889,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 457052,
@@ -307,11 +315,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422642,
-      "num": 422642,
-      "word": "荣梓杉成年了",
-      "onboard_time": 1706932830,
-      "rank": 15,
+      "raw_hot": 401285,
+      "num": 401285,
+      "word": "惠英红给杨幂画的葫芦",
+      "onboard_time": 1706933731,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -321,6 +329,14 @@
       "onboard_time": 1706925271,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367329,
+      "num": 367329,
+      "word": "A股呈现中期牛熊轮回长期逐步上升",
+      "onboard_time": 1706932769,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 358560,
@@ -371,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315307,
+      "num": 315307,
+      "word": "PPT 骗骗他",
+      "onboard_time": 1706932889,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 313202,
+      "num": 313202,
+      "word": "杨波段子",
+      "onboard_time": 1706933789,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308879,
       "num": 229813,
       "word": "超市免费塑料袋别再带回家了",
@@ -385,6 +417,14 @@
       "onboard_time": 1706905096,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291368,
+      "num": 291368,
+      "word": "恋与深空保底机制",
+      "onboard_time": 1706933970,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 280451,
@@ -403,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277323,
+      "num": 277323,
+      "word": "过年三倍工资你会选择加班吗",
+      "onboard_time": 1706931569,
+      "rank": 22,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 272890,
       "num": 221184,
       "word": "王珞丹同一件礼服12年前后对比",
@@ -419,28 +467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 264600,
-      "num": 264600,
-      "word": "A股呈现中期牛熊轮回长期逐步上升",
-      "onboard_time": 1706932769,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 263343,
       "num": 263343,
       "word": "南方小年",
       "onboard_time": 1706917582,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261219,
-      "num": 261219,
-      "word": "过年三倍工资你会选择加班吗",
-      "onboard_time": 1706931569,
-      "rank": 22,
-      "category": "社会议题"
     },
     {
       "raw_hot": 260695,
@@ -473,14 +505,6 @@
       "onboard_time": 1706928930,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256010,
-      "num": 256010,
-      "word": "PPT 骗骗他",
-      "onboard_time": 1706932889,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 248350,
@@ -595,14 +619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215117,
-      "num": 215117,
-      "word": "惠英红给杨幂画的葫芦",
-      "onboard_time": 1706933731,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213363,
       "num": 213363,
       "word": "小年夜收到爸妈点的一桌外卖",
@@ -643,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202718,
+      "num": 202718,
+      "word": "苏醒爸爸的综艺感太强了",
+      "onboard_time": 1706932410,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202690,
       "num": 202690,
       "word": "时代少年团外务",
       "onboard_time": 1706929288,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201661,
+      "num": 201661,
+      "word": "小年",
+      "onboard_time": 1706933912,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201000,
@@ -795,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163126,
-      "num": 163126,
-      "word": "苏醒爸爸的综艺感太强了",
-      "onboard_time": 1706932410,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154068,
       "num": 154068,
       "word": "吴磊赵今麦童年照vs情侣照",
@@ -865,14 +889,6 @@
       "onboard_time": 1706920709,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144379,
-      "num": 144379,
-      "word": "杨波段子",
-      "onboard_time": 1706933789,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 144352,
@@ -995,11 +1011,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129741,
-      "num": 129741,
-      "word": "小年",
-      "onboard_time": 1706933912,
-      "rank": 47,
+      "raw_hot": 130311,
+      "num": 798958,
+      "word": "有一种年味儿叫置办年货",
+      "onboard_time": 1706932950,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82600,
+      "num": 422993,
+      "word": "我家蛋仔上央视了",
+      "onboard_time": 1706932830,
+      "rank": 14,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 79140,
       "num": 79140,
       "word": "吴磊原声英文台词",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1706898558,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 75209,
-      "num": 798958,
-      "word": "有一种年味儿叫置办年货",
-      "onboard_time": 1706932950,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74045,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1706914818,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 51471,
-      "num": 422993,
-      "word": "我家蛋仔上央视了",
-      "onboard_time": 1706932830,
-      "rank": 14,
-      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 47519,
@@ -1484,6 +1492,9 @@
     },
     {
       "word": "#习主席向全国各族人民拜年#"
+    },
+    {
+      "word": "#总书记的新春祝福#"
     }
   ]
 }
