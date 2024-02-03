@@ -1,7 +1,15 @@
 {
   "startTime": 1706890800396,
-  "endTime": 1706960034436,
+  "endTime": 1706963326618,
   "band_list": [
+    {
+      "raw_hot": 2407520,
+      "num": 2407520,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1706960130,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1922130,
       "num": 1922130,
@@ -137,6 +145,14 @@
       "onboard_time": 1706943991,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931064,
+      "num": 931064,
+      "word": "杨氏双缝干涉实验",
+      "onboard_time": 1706960790,
+      "rank": 1,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 877428,
@@ -643,11 +659,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396396,
+      "num": 396396,
+      "word": "金博洋 打分",
+      "onboard_time": 1706959411,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392067,
       "num": 392067,
       "word": "韩红孙楠为抢宋亚轩吵架",
       "onboard_time": 1706938950,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389704,
+      "num": 389704,
+      "word": "张艺兴财神到",
+      "onboard_time": 1706962351,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 375557,
+      "num": 375557,
+      "word": "谭松韵天竺少女",
+      "onboard_time": 1706959352,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -699,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 354618,
+      "num": 291674,
+      "word": "在暴雪时分 洗衣房告白",
+      "onboard_time": 1706961934,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351999,
       "num": 214494,
       "word": "眼睛上长这个可能是血脂高",
@@ -713,14 +761,6 @@
       "onboard_time": 1706946571,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349616,
-      "num": 349616,
-      "word": "谭松韵天竺少女",
-      "onboard_time": 1706959352,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 347051,
@@ -739,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337136,
-      "num": 337136,
-      "word": "金博洋 打分",
-      "onboard_time": 1706959411,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330150,
       "num": 330150,
       "word": "1岁外孙来家外公急忙砍竹子做围墙",
@@ -761,6 +793,22 @@
       "onboard_time": 1706888193,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325247,
+      "num": 389908,
+      "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+      "onboard_time": 1706961389,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323301,
+      "num": 211811,
+      "word": "张艺兴灯牌",
+      "onboard_time": 1706962532,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319441,
@@ -843,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294116,
+      "num": 214459,
+      "word": "看得出来我想追你吗",
+      "onboard_time": 1706959411,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292655,
       "num": 511525,
       "word": "花花被扇倒索性直接躺下",
@@ -857,6 +913,14 @@
       "onboard_time": 1706933970,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286707,
+      "num": 286707,
+      "word": "Fly忍不住和九尾贴贴",
+      "onboard_time": 1706961692,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 281035,
@@ -1043,14 +1107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236663,
-      "num": 214459,
-      "word": "看得出来我想追你吗",
-      "onboard_time": 1706959411,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235980,
       "num": 235980,
       "word": "小米手机发布会雷军不再主讲",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1706954669,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227313,
+      "num": 192481,
+      "word": "创造营亚洲",
+      "onboard_time": 1706962770,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 227171,
@@ -1227,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212114,
+      "num": 212114,
+      "word": "摔倒了一定不要马上站起来",
+      "onboard_time": 1706960368,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211447,
       "num": 211447,
       "word": "黄景瑜冬至杀青发了八万多红包",
@@ -1291,6 +1363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206219,
+      "num": 174494,
+      "word": "张极雀斑妆",
+      "onboard_time": 1706963131,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206198,
+      "num": 174123,
+      "word": "左航新春音乐会舞台",
+      "onboard_time": 1706962829,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204805,
       "num": 201825,
       "word": "以闪亮之名福鹿迎春",
@@ -1347,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201489,
+      "num": 157593,
+      "word": "网络视听盛典",
+      "onboard_time": 1706960071,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201000,
       "num": 173809,
       "word": "创造营亚洲全员入驻微博",
@@ -1371,12 +1467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197516,
+      "num": 157265,
+      "word": "朱志鑫直拍",
+      "onboard_time": 1706961270,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197081,
       "num": 166115,
       "word": "白鹿解锁第22套高定",
       "onboard_time": 1706946989,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196728,
+      "num": 145265,
+      "word": "朱志鑫 发财发福中国年",
+      "onboard_time": 1706962710,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 195704,
@@ -1393,6 +1505,14 @@
       "onboard_time": 1706957490,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194634,
+      "num": 173441,
+      "word": "苏新皓Lalala",
+      "onboard_time": 1706962891,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 194293,
@@ -1515,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180493,
+      "num": 1032191,
+      "word": "网络视听盛典发布节目单",
+      "onboard_time": 1706948191,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179311,
       "num": 164095,
       "word": "韩国偶遇陈建州范玮琪一家",
@@ -1593,6 +1721,14 @@
       "onboard_time": 1706951969,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173058,
+      "num": 173058,
+      "word": "为啥车厘子1月价格比11月低那么多",
+      "onboard_time": 1706963131,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 171689,
@@ -1675,20 +1811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165056,
-      "num": 1032191,
-      "word": "网络视听盛典发布节目单",
-      "onboard_time": 1706948191,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162025,
       "num": 162025,
       "word": "朱易 对自己今天的表现不满意",
       "onboard_time": 1706938589,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159914,
+      "num": 159914,
+      "word": "谁教海南这么拍食物的啊",
+      "onboard_time": 1706962652,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 154767,
@@ -1811,12 +1947,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146114,
+      "num": 146114,
+      "word": "金博洋完成3个四周跳",
+      "onboard_time": 1706960972,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144352,
       "num": 144352,
       "word": "孟佳用一支舞蹈告别33岁",
       "onboard_time": 1706932589,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144026,
+      "num": 144026,
+      "word": "朋友把我的五金弄丢了",
+      "onboard_time": 1706960249,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 141260,
@@ -1873,6 +2025,14 @@
       "onboard_time": 1706885613,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137563,
+      "num": 143977,
+      "word": "费莱尼宣布退役",
+      "onboard_time": 1706960851,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137000,
@@ -2711,6 +2871,9 @@
     },
     {
       "word": "#总书记的新春祝福#"
+    },
+    {
+      "word": "#老百姓的事情是最重要的事情#"
     }
   ]
 }

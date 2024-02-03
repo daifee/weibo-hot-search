@@ -1,0 +1,410 @@
+{
+  "runTime": 1706963326618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2407520,
+        "num": 2407520,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1706960130,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 931064,
+        "num": 931064,
+        "word": "杨氏双缝干涉实验",
+        "onboard_time": 1706960790,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 180493,
+        "num": 839236,
+        "word": "网络视听盛典发布节目单",
+        "onboard_time": 1706948191,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781679,
+        "num": 781679,
+        "word": "波笠二象性",
+        "onboard_time": 1706957432,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 564196,
+        "num": 564196,
+        "word": "删掉 她能看见",
+        "onboard_time": 1706940211,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495123,
+        "num": 495123,
+        "word": "关晓彤方否认演书卷一梦",
+        "onboard_time": 1706958870,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429865,
+        "num": 429865,
+        "word": "青云台 赵露思邓为",
+        "onboard_time": 1706955690,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396396,
+        "num": 396396,
+        "word": "金博洋 打分",
+        "onboard_time": 1706959411,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339076,
+        "num": 392629,
+        "word": "2024中央一号文件公布",
+        "onboard_time": 1706953711,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325247,
+        "num": 389908,
+        "word": "父亲摔倒无人扶远嫁女儿隔监控流泪",
+        "onboard_time": 1706961389,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389704,
+        "num": 389704,
+        "word": "张艺兴财神到",
+        "onboard_time": 1706962351,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375557,
+        "num": 375557,
+        "word": "谭松韵天竺少女",
+        "onboard_time": 1706959352,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374897,
+        "num": 374897,
+        "word": "15年花千骨删减片段",
+        "onboard_time": 1706951012,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324126,
+        "num": 324126,
+        "word": "外婆见外孙接自己回城过年激动落泪",
+        "onboard_time": 1706953829,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297063,
+        "num": 297063,
+        "word": "浦东机场",
+        "onboard_time": 1706937630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364092,
+        "num": 292448,
+        "word": "甄嬛的尼姑服是M码的",
+        "onboard_time": 1706946869,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354618,
+        "num": 291674,
+        "word": "在暴雪时分 洗衣房告白",
+        "onboard_time": 1706961934,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286707,
+        "num": 286707,
+        "word": "Fly忍不住和九尾贴贴",
+        "onboard_time": 1706961692,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272958,
+        "num": 272958,
+        "word": "信阳一在建体育馆被暴雪压塌",
+        "onboard_time": 1706955871,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212114,
+        "num": 212114,
+        "word": "摔倒了一定不要马上站起来",
+        "onboard_time": 1706960368,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323301,
+        "num": 211811,
+        "word": "张艺兴灯牌",
+        "onboard_time": 1706962532,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321794,
+        "num": 211106,
+        "word": "被公厕便池的水溅到会得病吗",
+        "onboard_time": 1706945610,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302744,
+        "num": 210684,
+        "word": "哭了三天",
+        "onboard_time": 1706942668,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210093,
+        "num": 210093,
+        "word": "突然出现的咽喉炎到底是什么病毒",
+        "onboard_time": 1706952211,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197016,
+        "num": 197016,
+        "word": "66岁奶奶要给四个孙子包万元红包",
+        "onboard_time": 1706953829,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294116,
+        "num": 193049,
+        "word": "看得出来我想追你吗",
+        "onboard_time": 1706959411,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227313,
+        "num": 192481,
+        "word": "创造营亚洲",
+        "onboard_time": 1706962770,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216094,
+        "num": 190442,
+        "word": "在暴雪时分",
+        "onboard_time": 1706960492,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180693,
+        "num": 180693,
+        "word": "伊朗vs日本",
+        "onboard_time": 1706957490,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98863,
+        "num": 177438,
+        "word": "故宫龙纹壁纸太美了",
+        "onboard_time": 1706953829,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 212049,
+        "num": 176679,
+        "word": "刘德华回应隐婚",
+        "onboard_time": 1706934989,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210033,
+        "num": 176296,
+        "word": "白鹿裙摆生花",
+        "onboard_time": 1706956531,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175377,
+        "num": 175377,
+        "word": "抽出来的血最终去了哪儿",
+        "onboard_time": 1706955811,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209960,
+        "num": 174831,
+        "word": "十个勤天直播",
+        "onboard_time": 1706958750,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206219,
+        "num": 174494,
+        "word": "张极雀斑妆",
+        "onboard_time": 1706963131,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206198,
+        "num": 174123,
+        "word": "左航新春音乐会舞台",
+        "onboard_time": 1706962829,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194634,
+        "num": 173441,
+        "word": "苏新皓Lalala",
+        "onboard_time": 1706962891,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173058,
+        "num": 173058,
+        "word": "为啥车厘子1月价格比11月低那么多",
+        "onboard_time": 1706963131,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164120,
+        "num": 164120,
+        "word": "反复长痘的坏习惯",
+        "onboard_time": 1706955332,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159914,
+        "num": 159914,
+        "word": "谁教海南这么拍食物的啊",
+        "onboard_time": 1706962652,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201489,
+        "num": 157593,
+        "word": "网络视听盛典",
+        "onboard_time": 1706960071,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197516,
+        "num": 157265,
+        "word": "朱志鑫直拍",
+        "onboard_time": 1706961270,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182313,
+        "num": 156737,
+        "word": "田曦薇 女将军人设",
+        "onboard_time": 1706941531,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146114,
+        "num": 146114,
+        "word": "金博洋完成3个四周跳",
+        "onboard_time": 1706960972,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 146047,
+        "word": "马立奥 冬日宅家很适合学习英语",
+        "onboard_time": 1706957910,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196728,
+        "num": 145265,
+        "word": "朱志鑫 发财发福中国年",
+        "onboard_time": 1706962710,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144026,
+        "num": 144026,
+        "word": "朋友把我的五金弄丢了",
+        "onboard_time": 1706960249,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137563,
+        "num": 143977,
+        "word": "费莱尼宣布退役",
+        "onboard_time": 1706960851,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 143873,
+        "word": "医生说的清淡饮食好多人都搞错了",
+        "onboard_time": 1706946088,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124956,
+        "num": 143839,
+        "word": "刘强东同款礼盒倒手能赚140元",
+        "onboard_time": 1706951670,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#老百姓的事情是最重要的事情#"
+    }
+  }
+}
