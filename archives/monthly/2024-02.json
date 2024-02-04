@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707039246066,
+  "endTime": 1707041844701,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1706758771,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 693149,
+      "num": 693149,
+      "word": "印度女星为假死道歉",
+      "onboard_time": 1707040169,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 691972,
@@ -3451,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341700,
+      "num": 341700,
+      "word": "美邦创始人回应女儿7年亏损32亿",
+      "onboard_time": 1707039631,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 339482,
       "num": 234911,
       "word": "内裤穿多久扔掉最合适",
@@ -3627,6 +3643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 324470,
+      "num": 324470,
+      "word": "女子离婚冷静期间被丈夫杀害",
+      "onboard_time": 1707039391,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324082,
       "num": 324082,
       "word": "Jennie对卡皮巴拉是真心的",
@@ -3721,6 +3745,14 @@
       "onboard_time": 1707005009,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316571,
+      "num": 316571,
+      "word": "小义隐身",
+      "onboard_time": 1707039688,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 315343,
@@ -4387,6 +4419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264007,
+      "num": 264007,
+      "word": "李庚希张婧仪 对眼睛好",
+      "onboard_time": 1707036330,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 263528,
       "num": 263528,
       "word": "种地吧直播预告",
@@ -4721,6 +4761,22 @@
       "onboard_time": 1706852972,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243457,
+      "num": 243457,
+      "word": "无畏辅助",
+      "onboard_time": 1707039688,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 242854,
+      "num": 242854,
+      "word": "梅西替补",
+      "onboard_time": 1707038253,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 242166,
@@ -5547,6 +5603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208731,
+      "num": 208731,
+      "word": "王睡睡新恋综",
+      "onboard_time": 1707037889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208346,
       "num": 208346,
       "word": "Hero对战VG",
@@ -5787,14 +5851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204643,
-      "num": 204643,
-      "word": "梅西替补",
-      "onboard_time": 1707038253,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204348,
       "num": 177541,
       "word": "视听盛典 好看多办",
@@ -5843,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203005,
+      "num": 203005,
+      "word": "邓紫棋与贝克汉姆合影",
+      "onboard_time": 1707040111,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 202954,
       "num": 198566,
       "word": "凤凰传奇串烧",
@@ -5881,6 +5945,14 @@
       "onboard_time": 1707022950,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202611,
+      "num": 202611,
+      "word": "世界之外新卡池",
+      "onboard_time": 1707041432,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 202169,
@@ -6017,6 +6089,14 @@
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199401,
+      "num": 199401,
+      "word": "南京Hero 幽默",
+      "onboard_time": 1707041193,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 199338,
@@ -6875,6 +6955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180292,
+      "num": 180292,
+      "word": "朱正廷问李权哲丢不丢人",
+      "onboard_time": 1707036811,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180049,
       "num": 125951,
       "word": "三大队",
@@ -7379,6 +7467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167670,
+      "num": 167670,
+      "word": "JDG对战LNG",
+      "onboard_time": 1707041251,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167143,
       "num": 167143,
       "word": "柯南剧场版终于有快青了",
@@ -7456,14 +7552,6 @@
       "word": "EVNNE音银一位",
       "onboard_time": 1706869832,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 166095,
-      "num": 166095,
-      "word": "王睡睡新恋综",
-      "onboard_time": 1707037889,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -7691,6 +7779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160859,
+      "num": 1140931,
+      "word": "村民翻山越岭给滞留司机免费送吃喝",
+      "onboard_time": 1707040227,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160760,
       "num": 160760,
       "word": "肖战张婧仪藏海传路透",
@@ -7841,6 +7937,14 @@
       "onboard_time": 1706790871,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155837,
+      "num": 155837,
+      "word": "林亦扬殷果冰箱吻",
+      "onboard_time": 1707039451,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 155727,
@@ -8115,6 +8219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149831,
+      "num": 149831,
+      "word": "原神4.4版本",
+      "onboard_time": 1707041791,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149518,
       "num": 149518,
       "word": "苹果头显开售",
@@ -8387,6 +8499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143446,
+      "num": 143446,
+      "word": "小狗自己困了还要哄小熊睡觉",
+      "onboard_time": 1707038854,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143334,
       "num": 143334,
       "word": "王新军喊王安宇来家里吃饭",
@@ -8579,20 +8699,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138867,
-      "num": 138867,
-      "word": "李庚希张婧仪 对眼睛好",
-      "onboard_time": 1707036330,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 138587,
       "num": 138587,
       "word": "科学家揭开癌细胞转移之谜",
       "onboard_time": 1706936069,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138170,
+      "num": 138170,
+      "word": "甲辰年",
+      "onboard_time": 1707041370,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 138137,
@@ -8931,6 +9051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132449,
+      "num": 132449,
+      "word": "如果侦探小说的主角是真正的凶手",
+      "onboard_time": 1707040591,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 132440,
       "num": 132440,
       "word": "300万女性住在卡车上",
@@ -9009,6 +9137,14 @@
       "onboard_time": 1706751269,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131268,
+      "num": 131268,
+      "word": "hero抢龙要靠辅助",
+      "onboard_time": 1707041670,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 131174,
@@ -9265,6 +9401,14 @@
       "onboard_time": 1706757453,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125607,
+      "num": 726101,
+      "word": "男子车祸昏迷护士雪地抢救半小时",
+      "onboard_time": 1707040227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 125520,
@@ -9995,14 +10139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109215,
-      "num": 109215,
-      "word": "朱正廷问李权哲丢不丢人",
-      "onboard_time": 1707036811,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108947,
       "num": 108947,
       "word": "肖战同路人首唱",
@@ -10219,6 +10355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101783,
+      "num": 588680,
+      "word": "女孩雨雪天用手为女警暖耳朵",
+      "onboard_time": 1707040227,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101617,
       "num": 101617,
       "word": "小猫的嘴巴是o型的耶",
@@ -10329,14 +10473,6 @@
       "onboard_time": 1706771191,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95712,
-      "num": 95712,
-      "word": "小狗自己困了还要哄小熊睡觉",
-      "onboard_time": 1707038854,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 95643,
@@ -10796,7 +10932,7 @@
     },
     {
       "raw_hot": 55246,
-      "num": 945116,
+      "num": 976404,
       "word": "让一切美好从立春开始",
       "onboard_time": 1707029010,
       "rank": 2,

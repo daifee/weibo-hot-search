@@ -1,0 +1,410 @@
+{
+  "runTime": 1707041844701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937105,
+        "num": 1160891,
+        "word": "专家称调休时很多人在假装上班",
+        "onboard_time": 1707023193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160859,
+        "num": 1140931,
+        "word": "村民翻山越岭给滞留司机免费送吃喝",
+        "onboard_time": 1707040227,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35945,
+        "num": 976404,
+        "word": "让一切美好从立春开始",
+        "onboard_time": 1707029010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3622856,
+        "num": 914639,
+        "word": "杨波报平安",
+        "onboard_time": 1707037290,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125607,
+        "num": 726101,
+        "word": "男子车祸昏迷护士雪地抢救半小时",
+        "onboard_time": 1707040227,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 693149,
+        "num": 693149,
+        "word": "印度女星为假死道歉",
+        "onboard_time": 1707040169,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101783,
+        "num": 588680,
+        "word": "女孩雨雪天用手为女警暖耳朵",
+        "onboard_time": 1707040227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3006641,
+        "num": 565962,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497875,
+        "num": 497875,
+        "word": "佟梦实是五竹叔",
+        "onboard_time": 1707028651,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492268,
+        "num": 492268,
+        "word": "宝妈进群刷单5天被骗580万",
+        "onboard_time": 1707021752,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453665,
+        "num": 453665,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341700,
+        "num": 341700,
+        "word": "美邦创始人回应女儿7年亏损32亿",
+        "onboard_time": 1707039631,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324470,
+        "num": 324470,
+        "word": "女子离婚冷静期间被丈夫杀害",
+        "onboard_time": 1707039391,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317473,
+        "num": 317473,
+        "word": "奔驰男砸车前被白车顶了一下",
+        "onboard_time": 1707022890,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317281,
+        "num": 317281,
+        "word": "GOODBAI致歉",
+        "onboard_time": 1707034469,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 316571,
+        "num": 316571,
+        "word": "小义隐身",
+        "onboard_time": 1707039688,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300712,
+        "num": 300712,
+        "word": "美甲 约不上",
+        "onboard_time": 1707020790,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269882,
+        "num": 269882,
+        "word": "韩籍博士称中国电子支付需改进",
+        "onboard_time": 1707029067,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269567,
+        "num": 269567,
+        "word": "贾静雯女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1707019533,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264007,
+        "num": 264007,
+        "word": "李庚希张婧仪 对眼睛好",
+        "onboard_time": 1707036330,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243457,
+        "num": 243457,
+        "word": "无畏辅助",
+        "onboard_time": 1707039688,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242854,
+        "num": 242854,
+        "word": "梅西替补",
+        "onboard_time": 1707038253,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221028,
+        "num": 221028,
+        "word": "王者荣耀孙尚香新皮肤",
+        "onboard_time": 1707034591,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208731,
+        "num": 208731,
+        "word": "王睡睡新恋综",
+        "onboard_time": 1707037889,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206741,
+        "num": 206741,
+        "word": "麻辣烫为什么越来越高级了",
+        "onboard_time": 1707022652,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206030,
+        "num": 206030,
+        "word": "周深又穿了半永久春晚羽绒服",
+        "onboard_time": 1707030329,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205949,
+        "num": 205949,
+        "word": "iPhone工作日闹钟今天没响",
+        "onboard_time": 1707017551,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203376,
+        "num": 203376,
+        "word": "大乔乘龙忆丹青新皮肤",
+        "onboard_time": 1707035911,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203005,
+        "num": 203005,
+        "word": "邓紫棋与贝克汉姆合影",
+        "onboard_time": 1707040111,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 202659,
+        "word": "被困高速十几小时车主发声",
+        "onboard_time": 1707034949,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202611,
+        "num": 202611,
+        "word": "世界之外新卡池",
+        "onboard_time": 1707041432,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199401,
+        "num": 199401,
+        "word": "南京Hero 幽默",
+        "onboard_time": 1707041193,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192238,
+        "num": 192238,
+        "word": "奔驰加塞事件正面7分钟监控曝光",
+        "onboard_time": 1707019951,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191196,
+        "num": 191196,
+        "word": "白鹿调休受害人",
+        "onboard_time": 1707024088,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185165,
+        "num": 185165,
+        "word": "韩网评张佳宁穿朝鲜族服饰",
+        "onboard_time": 1707016892,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180292,
+        "num": 180292,
+        "word": "朱正廷问李权哲丢不丢人",
+        "onboard_time": 1707036811,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 167670,
+        "word": "JDG对战LNG",
+        "onboard_time": 1707041251,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155837,
+        "num": 155837,
+        "word": "林亦扬殷果冰箱吻",
+        "onboard_time": 1707039451,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153718,
+        "num": 153718,
+        "word": "Hero对战VG",
+        "onboard_time": 1707039208,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149831,
+        "num": 149831,
+        "word": "原神4.4版本",
+        "onboard_time": 1707041791,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143446,
+        "num": 143446,
+        "word": "小狗自己困了还要哄小熊睡觉",
+        "onboard_time": 1707038854,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138170,
+        "num": 138170,
+        "word": "甲辰年",
+        "onboard_time": 1707041370,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132449,
+        "num": 132449,
+        "word": "如果侦探小说的主角是真正的凶手",
+        "onboard_time": 1707040591,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 131594,
+        "num": 131594,
+        "word": "多地中小学教师被要求寒假期间值班",
+        "onboard_time": 1707019411,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131268,
+        "num": 131268,
+        "word": "hero抢龙要靠辅助",
+        "onboard_time": 1707041670,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128407,
+        "num": 128407,
+        "word": "仙剑三龙年春晚重聚",
+        "onboard_time": 1707022355,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122277,
+        "num": 122277,
+        "word": "武大性骚扰事件男方首度发声",
+        "onboard_time": 1707021874,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119009,
+        "num": 119009,
+        "word": "明明有精神病但能表现得像正常人",
+        "onboard_time": 1707023373,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118587,
+        "num": 118587,
+        "word": "迪丽热巴官宣百花迎春晚会",
+        "onboard_time": 1707021151,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115821,
+        "num": 115821,
+        "word": "2月4日16时27分迎立春",
+        "onboard_time": 1707029911,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记给全国人民拜年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707039246066,
+  "endTime": 1707041844701,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -225,6 +225,14 @@
       "onboard_time": 1707019411,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693149,
+      "num": 693149,
+      "word": "印度女星为假死道歉",
+      "onboard_time": 1707040169,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 670138,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341700,
+      "num": 341700,
+      "word": "美邦创始人回应女儿7年亏损32亿",
+      "onboard_time": 1707039631,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 332904,
       "num": 332904,
       "word": "唐艺昕虞书欣撞衫",
@@ -585,6 +601,14 @@
       "onboard_time": 1707005908,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324470,
+      "num": 324470,
+      "word": "女子离婚冷静期间被丈夫杀害",
+      "onboard_time": 1707039391,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323313,
@@ -641,6 +665,14 @@
       "onboard_time": 1707005009,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316571,
+      "num": 316571,
+      "word": "小义隐身",
+      "onboard_time": 1707039688,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 314487,
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264007,
+      "num": 264007,
+      "word": "李庚希张婧仪 对眼睛好",
+      "onboard_time": 1707036330,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 260374,
       "num": 260374,
       "word": "创造营",
@@ -841,6 +881,22 @@
       "onboard_time": 1707031410,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243457,
+      "num": 243457,
+      "word": "无畏辅助",
+      "onboard_time": 1707039688,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 242854,
+      "num": 242854,
+      "word": "梅西替补",
+      "onboard_time": 1707038253,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 238657,
@@ -979,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208731,
+      "num": 208731,
+      "word": "王睡睡新恋综",
+      "onboard_time": 1707037889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208346,
       "num": 208346,
       "word": "Hero对战VG",
@@ -1051,14 +1115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204643,
-      "num": 204643,
-      "word": "梅西替补",
-      "onboard_time": 1707038253,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204165,
       "num": 204165,
       "word": "billkin福州演唱会",
@@ -1075,12 +1131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203005,
+      "num": 203005,
+      "word": "邓紫棋与贝克汉姆合影",
+      "onboard_time": 1707040111,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 202621,
       "num": 202621,
       "word": "繁花剧组现身春晚第四次联排",
       "onboard_time": 1707022950,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202611,
+      "num": 202611,
+      "word": "世界之外新卡池",
+      "onboard_time": 1707041432,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 200958,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1707026611,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199401,
+      "num": 199401,
+      "word": "南京Hero 幽默",
+      "onboard_time": 1707041193,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 198343,
@@ -1211,6 +1291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180292,
+      "num": 180292,
+      "word": "朱正廷问李权哲丢不丢人",
+      "onboard_time": 1707036811,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178918,
       "num": 178918,
       "word": "赵露思演我打游戏",
@@ -1283,20 +1371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167670,
+      "num": 167670,
+      "word": "JDG对战LNG",
+      "onboard_time": 1707041251,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166427,
       "num": 166427,
       "word": "掏空积蓄为儿买婚房被中介骗600万",
       "onboard_time": 1706992876,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166095,
-      "num": 166095,
-      "word": "王睡睡新恋综",
-      "onboard_time": 1707037889,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 165108,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1706965771,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160859,
+      "num": 1140931,
+      "word": "村民翻山越岭给滞留司机免费送吃喝",
+      "onboard_time": 1707040227,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160494,
@@ -1377,6 +1473,14 @@
       "onboard_time": 1707007294,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155837,
+      "num": 155837,
+      "word": "林亦扬殷果冰箱吻",
+      "onboard_time": 1707039451,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 155196,
@@ -1435,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149831,
+      "num": 149831,
+      "word": "原神4.4版本",
+      "onboard_time": 1707041791,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149051,
       "num": 149051,
       "word": "新年接龙大会",
@@ -1483,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143446,
+      "num": 143446,
+      "word": "小狗自己困了还要哄小熊睡觉",
+      "onboard_time": 1707038854,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142915,
       "num": 125859,
       "word": "檀健次第一个出场",
@@ -1515,12 +1635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138867,
-      "num": 138867,
-      "word": "李庚希张婧仪 对眼睛好",
-      "onboard_time": 1707036330,
-      "rank": 36,
-      "category": "作品衍生,时尚"
+      "raw_hot": 138170,
+      "num": 138170,
+      "word": "甲辰年",
+      "onboard_time": 1707041370,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 138150,
@@ -1587,12 +1707,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132449,
+      "num": 132449,
+      "word": "如果侦探小说的主角是真正的凶手",
+      "onboard_time": 1707040591,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 132439,
       "num": 132439,
       "word": "目击者还原奔驰男砸车经过",
       "onboard_time": 1707035131,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131268,
+      "num": 131268,
+      "word": "hero抢龙要靠辅助",
+      "onboard_time": 1707041670,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 130232,
@@ -1625,6 +1761,14 @@
       "onboard_time": 1706969794,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125607,
+      "num": 726101,
+      "word": "男子车祸昏迷护士雪地抢救半小时",
+      "onboard_time": 1707040227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 124874,
@@ -1779,14 +1923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109215,
-      "num": 109215,
-      "word": "朱正廷问李权哲丢不丢人",
-      "onboard_time": 1707036811,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109060,
       "num": 109060,
       "word": "天天福",
@@ -1867,6 +2003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101783,
+      "num": 588680,
+      "word": "女孩雨雪天用手为女警暖耳朵",
+      "onboard_time": 1707040227,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100204,
       "num": 137897,
       "word": "中国队本届游泳世锦赛首金",
@@ -1881,14 +2025,6 @@
       "onboard_time": 1706983465,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95712,
-      "num": 95712,
-      "word": "小狗自己困了还要哄小熊睡觉",
-      "onboard_time": 1707038854,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 94033,
@@ -2036,7 +2172,7 @@
     },
     {
       "raw_hot": 55246,
-      "num": 945116,
+      "num": 976404,
       "word": "让一切美好从立春开始",
       "onboard_time": 1707029010,
       "rank": 2,
