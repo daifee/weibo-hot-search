@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707016715760,
+  "endTime": 1707017660591,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1169126,
+      "num": 1169126,
+      "word": "交警回应网传徐老太疑涉套牌",
+      "onboard_time": 1707015691,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1164744,
       "num": 1164744,
       "word": "男子见义勇为被砍4刀被救女孩拒作证",
@@ -1099,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 776704,
+      "num": 776704,
+      "word": "韩网评张佳宁穿朝鲜族服饰",
+      "onboard_time": 1707016892,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 774713,
       "num": 774713,
       "word": "2女孩疑遭人拐卖上高速呼喊求助",
@@ -1347,6 +1363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670138,
+      "num": 670138,
+      "word": "夜食症",
+      "onboard_time": 1707014370,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 667937,
+      "num": 667937,
+      "word": "宋雨琦与Minnie曾喜欢同一男生",
+      "onboard_time": 1707016650,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665175,
       "num": 665175,
       "word": "张杰为女儿庆生",
@@ -1467,14 +1499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 631006,
-      "num": 631006,
-      "word": "交警回应网传徐老太疑涉套牌",
-      "onboard_time": 1707015691,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628081,
       "num": 628081,
       "word": "韩国瑜当选台立法机构负责人",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1706866291,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 612653,
-      "num": 612653,
-      "word": "夜食症",
-      "onboard_time": 1707014370,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 605235,
@@ -3715,6 +3731,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296020,
+      "num": 296020,
+      "word": "库里60分",
+      "onboard_time": 1707017011,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294884,
+      "num": 294884,
+      "word": "傅菁新剧演孕妇",
+      "onboard_time": 1707017250,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294634,
       "num": 294634,
       "word": "车厘子只看几个J谁买谁是大冤种",
@@ -4369,6 +4401,14 @@
       "onboard_time": 1706768669,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245631,
+      "num": 245631,
+      "word": "Teddy新女团曝光",
+      "onboard_time": 1707017192,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 245284,
@@ -5347,6 +5387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205012,
+      "num": 205012,
+      "word": "范志毅谈27年前被6万人骂",
+      "onboard_time": 1707017192,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204805,
       "num": 201825,
       "word": "以闪亮之名福鹿迎春",
@@ -5729,6 +5777,14 @@
       "onboard_time": 1706932950,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194282,
+      "num": 194282,
+      "word": "穆雷绝平勇士",
+      "onboard_time": 1707017011,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 194067,
@@ -7299,6 +7355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155299,
+      "num": 155299,
+      "word": "南航回应旅客登机后航班取消",
+      "onboard_time": 1707017310,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155253,
       "num": 155253,
       "word": "刘昊然去滑雪了",
@@ -7737,6 +7801,14 @@
       "onboard_time": 1706858973,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145612,
+      "num": 145612,
+      "word": "三代今天就是来揍你的",
+      "onboard_time": 1707017371,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 145163,
@@ -8531,6 +8603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127463,
+      "num": 127463,
+      "word": "iPhone工作日闹钟今天没响",
+      "onboard_time": 1707017551,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126888,
       "num": 126888,
       "word": "肺癌成为全球新增病例数最多癌症",
@@ -8776,14 +8856,6 @@
       "word": "首届春晚光看串场就能笑半宿",
       "onboard_time": 1706800953,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 120270,
-      "num": 120270,
-      "word": "宋雨琦与Minnie曾喜欢同一男生",
-      "onboard_time": 1707016650,
-      "rank": 49,
       "category": "综艺"
     },
     {
