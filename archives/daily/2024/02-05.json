@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707081237772,
+  "endTime": 1707082424324,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98505,
+      "num": 19124,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97800,
       "num": 97800,
       "word": "方媛工作变多的原因",
@@ -467,36 +475,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48297,
-      "num": 48297,
-      "word": "杨千嬅快把冷门歌唱热了",
-      "onboard_time": 1707072556,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 47382,
-      "num": 18198,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44972,
-      "num": 44972,
+      "raw_hot": 55606,
+      "num": 55606,
       "word": "91岁奶奶找回了失散55年的心肝宝贝",
       "onboard_time": 1707074717,
       "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41561,
-      "num": 35216,
+      "raw_hot": 50724,
+      "num": 42810,
       "word": "王海测评希望董宇辉弯腰道歉",
       "onboard_time": 1707076877,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 48297,
+      "num": 48297,
+      "word": "杨千嬅快把冷门歌唱热了",
+      "onboard_time": 1707072556,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 32820,
@@ -547,8 +547,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16734,
-      "num": 16734,
+      "raw_hot": 19310,
+      "num": 19310,
       "word": "美国驻华大使打卡冰雪大世界",
       "onboard_time": 1707079515,
       "rank": 40,
@@ -577,6 +577,14 @@
       "onboard_time": 1707078256,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11724,
+      "num": 13869,
+      "word": "格莱美预热晚会",
+      "onboard_time": 1707080776,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
