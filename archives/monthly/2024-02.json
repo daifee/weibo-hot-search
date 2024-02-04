@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707084942934,
+  "endTime": 1707086045833,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -4531,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282436,
+      "num": 56552,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -6017,14 +6025,6 @@
       "onboard_time": 1707037889,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216013,
-      "num": 49113,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215695,
@@ -10715,6 +10715,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 117242,
+      "num": 56108,
+      "word": "乘客下单叫到66.6公里外网约车",
+      "onboard_time": 1707083896,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117177,
       "num": 117177,
       "word": "龙年壁纸",
@@ -11507,6 +11515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93390,
+      "num": 93390,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92989,
       "num": 92989,
       "word": "试穿大码女装",
@@ -11659,6 +11675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83779,
+      "num": 54312,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83599,
       "num": 429677,
       "word": "舌尖上的中国年味儿",
@@ -11771,14 +11795,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 76011,
-      "num": 76011,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75732,
       "num": 75732,
       "word": "集卡集到真龙了",
@@ -11801,14 +11817,6 @@
       "onboard_time": 1706741840,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 74278,
-      "num": 46646,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 74045,
@@ -12227,6 +12235,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 37403,
+      "num": 37403,
+      "word": "列车播报员居然是毛不易",
+      "onboard_time": 1707082935,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36920,
       "num": 36920,
       "word": "24节气开启新的轮回",
@@ -12281,14 +12297,6 @@
       "onboard_time": 1707047737,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33397,
-      "num": 33397,
-      "word": "乘客下单叫到66.6公里外网约车",
-      "onboard_time": 1707083896,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33377,
@@ -12361,14 +12369,6 @@
       "onboard_time": 1706868214,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28570,
-      "num": 28570,
-      "word": "列车播报员居然是毛不易",
-      "onboard_time": 1707082935,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 28397,
@@ -12481,6 +12481,14 @@
       "onboard_time": 1706868153,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19078,
+      "num": 19078,
+      "word": "只有陈都灵在前面认真拍照",
+      "onboard_time": 1707085816,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 18671,

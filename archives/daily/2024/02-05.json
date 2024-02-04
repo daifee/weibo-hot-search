@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707084942934,
+  "endTime": 1707086045833,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282436,
+      "num": 56552,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280814,
       "num": 280814,
       "word": "安琪拉大招 水龙头",
@@ -185,14 +193,6 @@
       "onboard_time": 1707063329,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 216013,
-      "num": 49113,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195138,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117242,
+      "num": 56108,
+      "word": "乘客下单叫到66.6公里外网约车",
+      "onboard_time": 1707083896,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115234,
       "num": 115234,
       "word": "狗剩快跑",
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93390,
+      "num": 93390,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89253,
       "num": 89253,
       "word": "杨鸣 辽宁男篮",
@@ -435,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83779,
+      "num": 54312,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80437,
       "num": 80437,
       "word": "药明康德称不会对任何国家构成安全风险",
@@ -449,22 +473,6 @@
       "onboard_time": 1707065246,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76011,
-      "num": 76011,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74278,
-      "num": 46646,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 70766,
@@ -499,12 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 33397,
-      "num": 33397,
-      "word": "乘客下单叫到66.6公里外网约车",
-      "onboard_time": 1707083896,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 37403,
+      "num": 37403,
+      "word": "列车播报员居然是毛不易",
+      "onboard_time": 1707082935,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 32820,
@@ -529,14 +537,6 @@
       "onboard_time": 1707075497,
       "rank": 22,
       "category": "美食,数码"
-    },
-    {
-      "raw_hot": 28570,
-      "num": 28570,
-      "word": "列车播报员居然是毛不易",
-      "onboard_time": 1707082935,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 28487,
@@ -569,6 +569,14 @@
       "onboard_time": 1707075075,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19078,
+      "num": 19078,
+      "word": "只有陈都灵在前面认真拍照",
+      "onboard_time": 1707085816,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15833,
