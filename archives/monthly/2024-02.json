@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707034808174,
+  "endTime": 1707035717994,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1202149,
+      "num": 1202149,
+      "word": "宝妈进群刷单5天被骗580万",
+      "onboard_time": 1707021752,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1193157,
       "num": 1193157,
       "word": "iPhone工作日闹钟今天没响",
@@ -600,14 +608,6 @@
       "word": "男子见义勇为被砍4刀被救女孩拒作证",
       "onboard_time": 1706773169,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1162248,
-      "num": 1162248,
-      "word": "宝妈进群刷单5天被骗580万",
-      "onboard_time": 1707021752,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385088,
+      "num": 385088,
+      "word": "麻辣烫为什么越来越高级了",
+      "onboard_time": 1707022652,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 383397,
       "num": 383397,
       "word": "马斯克宣布更改特斯拉注册地",
@@ -3347,20 +3355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354695,
+      "num": 354695,
+      "word": "睡觉吧 你俩过几天就成了",
+      "onboard_time": 1707033873,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354208,
       "num": 255053,
       "word": "爸妈偷偷来我租的房子过年",
       "onboard_time": 1706756369,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354037,
-      "num": 354037,
-      "word": "麻辣烫为什么越来越高级了",
-      "onboard_time": 1707022652,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 350994,
@@ -4403,6 +4411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259928,
+      "num": 259928,
+      "word": "郭富城回应被林家栋搀扶下楼梯",
+      "onboard_time": 1707023611,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259906,
       "num": 259906,
       "word": "苏新皓Lalala",
@@ -4619,6 +4635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245377,
+      "num": 245377,
+      "word": "2月4日16时27分迎立春",
+      "onboard_time": 1707029911,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245284,
       "num": 245284,
       "word": "品牌回应儿童鞋颜色名为奴仆黄",
@@ -4689,6 +4713,14 @@
       "onboard_time": 1706869052,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240146,
+      "num": 240146,
+      "word": "GOODBAI致歉",
+      "onboard_time": 1707034469,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 239088,
@@ -4809,14 +4841,6 @@
       "onboard_time": 1706792674,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234996,
-      "num": 234996,
-      "word": "郭富城回应被林家栋搀扶下楼梯",
-      "onboard_time": 1707023611,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 234477,
@@ -5891,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200540,
+      "num": 200540,
+      "word": "王者荣耀孙尚香新皮肤",
+      "onboard_time": 1707034591,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200089,
       "num": 200089,
       "word": "A股2666点到底了吗",
@@ -5913,14 +5945,6 @@
       "onboard_time": 1706871933,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199650,
-      "num": 199650,
-      "word": "睡觉吧 你俩过几天就成了",
-      "onboard_time": 1707033873,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199548,
@@ -6619,6 +6643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185470,
+      "num": 185470,
+      "word": "明明有精神病但能表现得像正常人",
+      "onboard_time": 1707023373,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185364,
       "num": 185364,
       "word": "没有人情味的公司",
@@ -6817,14 +6849,6 @@
       "onboard_time": 1706945973,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179201,
-      "num": 179201,
-      "word": "明明有精神病但能表现得像正常人",
-      "onboard_time": 1707023373,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 179120,
@@ -7651,6 +7675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159027,
+      "num": 159027,
+      "word": "GOODBAI牛仔外套抽检不合格",
+      "onboard_time": 1707027571,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 158813,
       "num": 158813,
       "word": "钎九",
@@ -7801,22 +7833,6 @@
       "onboard_time": 1706749231,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154886,
-      "num": 154886,
-      "word": "王者荣耀孙尚香新皮肤",
-      "onboard_time": 1707034591,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 154771,
-      "num": 154771,
-      "word": "GOODBAI牛仔外套抽检不合格",
-      "onboard_time": 1707027571,
-      "rank": 39,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 154767,
@@ -8259,6 +8275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144882,
+      "num": 144882,
+      "word": "王者荣耀 小孩哥代打",
+      "onboard_time": 1707035430,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144352,
       "num": 144352,
       "word": "孟佳用一支舞蹈告别33岁",
@@ -8273,6 +8297,14 @@
       "onboard_time": 1706960249,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143931,
+      "num": 143931,
+      "word": "日入过千你愿意春节送外卖吗",
+      "onboard_time": 1707035552,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143920,
@@ -8379,14 +8411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 140816,
-      "num": 140816,
-      "word": "2月4日16时27分迎立春",
-      "onboard_time": 1707029911,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140627,
       "num": 140627,
       "word": "孕妈妈硬核劈叉催生",
@@ -8441,14 +8465,6 @@
       "onboard_time": 1707019533,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139513,
-      "num": 139513,
-      "word": "GOODBAI致歉",
-      "onboard_time": 1707034469,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 139499,
@@ -8651,6 +8667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135410,
+      "num": 135410,
+      "word": "被困高速十几小时车主发声",
+      "onboard_time": 1707034949,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135281,
       "num": 135281,
       "word": "600股跌超9%",
@@ -8833,6 +8857,14 @@
       "onboard_time": 1706841211,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132439,
+      "num": 132439,
+      "word": "目击者还原奔驰男砸车经过",
+      "onboard_time": 1707035131,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131994,
@@ -9579,6 +9611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114517,
+      "num": 114517,
+      "word": "湖北交通厅回应旅客滞留高速",
+      "onboard_time": 1707035609,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "当过年家里有一个没结婚的长辈",
@@ -9833,6 +9873,14 @@
       "onboard_time": 1706778390,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109729,
+      "num": 109729,
+      "word": "立春时间",
+      "onboard_time": 1707032191,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 109708,
@@ -10523,6 +10571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68318,
+      "num": 241877,
+      "word": "半隐藏式门把手是更优解吗",
+      "onboard_time": 1707033928,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66897,
       "num": 66897,
       "word": "马天宇说cp都是假的",
@@ -10569,14 +10625,6 @@
       "onboard_time": 1706945249,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60711,
-      "num": 200642,
-      "word": "半隐藏式门把手是更优解吗",
-      "onboard_time": 1707033928,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 58659,
@@ -10971,6 +11019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 27741,
+      "num": 330293,
+      "word": "为什么过年要拍全家福",
+      "onboard_time": 1707018329,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27691,
       "num": 320107,
       "word": "给打工人报销回家的车票",
@@ -11017,14 +11073,6 @@
       "onboard_time": 1706812097,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22480,
-      "num": 324904,
-      "word": "为什么过年要拍全家福",
-      "onboard_time": 1707018329,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 22239,

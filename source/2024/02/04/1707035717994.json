@@ -1,0 +1,410 @@
+{
+  "runTime": 1707035717994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1389133,
+        "num": 1389133,
+        "word": "专家称调休时很多人在假装上班",
+        "onboard_time": 1707023193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202149,
+        "num": 1202149,
+        "word": "宝妈进群刷单5天被骗580万",
+        "onboard_time": 1707021752,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49375,
+        "num": 707166,
+        "word": "让一切美好从立春开始",
+        "onboard_time": 1707029010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663612,
+        "num": 663612,
+        "word": "佟梦实是五竹叔",
+        "onboard_time": 1707028651,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645155,
+        "num": 645155,
+        "word": "奔驰男砸车前被白车顶了一下",
+        "onboard_time": 1707022890,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531079,
+        "num": 531079,
+        "word": "美甲 约不上",
+        "onboard_time": 1707020790,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 509077,
+        "num": 509077,
+        "word": "白鹿调休受害人",
+        "onboard_time": 1707024088,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471013,
+        "num": 471013,
+        "word": "武大性骚扰事件男方首度发声",
+        "onboard_time": 1707021874,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440130,
+        "num": 440130,
+        "word": "韩网评张佳宁穿朝鲜族服饰",
+        "onboard_time": 1707016892,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408538,
+        "num": 408538,
+        "word": "贾静雯女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1707019533,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403752,
+        "num": 403752,
+        "word": "iPhone工作日闹钟今天没响",
+        "onboard_time": 1707017551,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 385088,
+        "num": 385088,
+        "word": "麻辣烫为什么越来越高级了",
+        "onboard_time": 1707022652,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 354695,
+        "num": 354695,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343187,
+        "num": 343187,
+        "word": "财阀家的女爱豆",
+        "onboard_time": 1707021993,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27741,
+        "num": 330293,
+        "word": "为什么过年要拍全家福",
+        "onboard_time": 1707018329,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327723,
+        "num": 327723,
+        "word": "奔驰加塞事件正面7分钟监控曝光",
+        "onboard_time": 1707019951,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302769,
+        "num": 302769,
+        "word": "韩籍博士称中国电子支付需改进",
+        "onboard_time": 1707029067,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289449,
+        "num": 289449,
+        "word": "过年真的要花好多钱啊",
+        "onboard_time": 1707018870,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277488,
+        "num": 277488,
+        "word": "迪丽热巴官宣百花迎春晚会",
+        "onboard_time": 1707021151,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273291,
+        "num": 273291,
+        "word": "周深又穿了半永久春晚羽绒服",
+        "onboard_time": 1707030329,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260752,
+        "num": 260752,
+        "word": "多地中小学教师被要求寒假期间值班",
+        "onboard_time": 1707019411,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259928,
+        "num": 259928,
+        "word": "郭富城回应被林家栋搀扶下楼梯",
+        "onboard_time": 1707023611,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245377,
+        "num": 245377,
+        "word": "2月4日16时27分迎立春",
+        "onboard_time": 1707029911,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68318,
+        "num": 241877,
+        "word": "半隐藏式门把手是更优解吗",
+        "onboard_time": 1707033928,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240146,
+        "num": 240146,
+        "word": "GOODBAI致歉",
+        "onboard_time": 1707034469,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 230290,
+        "num": 230290,
+        "word": "陈冠希近照",
+        "onboard_time": 1707025230,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217060,
+        "num": 217060,
+        "word": "实习生给已读乱回的领导一点震撼",
+        "onboard_time": 1707031291,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200540,
+        "num": 200540,
+        "word": "王者荣耀孙尚香新皮肤",
+        "onboard_time": 1707034591,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199958,
+        "num": 199958,
+        "word": "顶级小说神作",
+        "onboard_time": 1707024210,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 194961,
+        "num": 194961,
+        "word": "仙剑三龙年春晚重聚",
+        "onboard_time": 1707022355,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185470,
+        "num": 185470,
+        "word": "明明有精神病但能表现得像正常人",
+        "onboard_time": 1707023373,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183934,
+        "num": 183934,
+        "word": "文旅局长纷纷撕毁互不内卷条约",
+        "onboard_time": 1707021392,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183641,
+        "num": 183641,
+        "word": "胡歌彩排",
+        "onboard_time": 1707031410,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176572,
+        "num": 176572,
+        "word": "躲春",
+        "onboard_time": 1707005127,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175888,
+        "num": 175888,
+        "word": "宋雨琦与Minnie曾喜欢同一男生",
+        "onboard_time": 1707016650,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171068,
+        "num": 171068,
+        "word": "2023十大热搜艺人",
+        "onboard_time": 1707025954,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "GOODBAI牛仔外套抽检不合格",
+        "onboard_time": 1707027571,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 148375,
+        "num": 148375,
+        "word": "电影西游记真假美猴王官宣",
+        "onboard_time": 1707015450,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144882,
+        "num": 144882,
+        "word": "王者荣耀 小孩哥代打",
+        "onboard_time": 1707035430,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143931,
+        "num": 143931,
+        "word": "日入过千你愿意春节送外卖吗",
+        "onboard_time": 1707035552,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140918,
+        "num": 140918,
+        "word": "立春",
+        "onboard_time": 1707001880,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135410,
+        "num": 135410,
+        "word": "被困高速十几小时车主发声",
+        "onboard_time": 1707034949,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132439,
+        "num": 132439,
+        "word": "目击者还原奔驰男砸车经过",
+        "onboard_time": 1707035131,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123953,
+        "num": 123953,
+        "word": "武汉铁路建议不要贸然前往火车站",
+        "onboard_time": 1707026372,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115399,
+        "num": 115399,
+        "word": "Scout使用bug被处罚",
+        "onboard_time": 1707025892,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114517,
+        "num": 114517,
+        "word": "湖北交通厅回应旅客滞留高速",
+        "onboard_time": 1707035609,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113919,
+        "num": 113919,
+        "word": "华为重夺中国手机市场销量第一宝座",
+        "onboard_time": 1707022652,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110890,
+        "num": 110890,
+        "word": "掐脖舞",
+        "onboard_time": 1707025650,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110168,
+        "num": 110168,
+        "word": "EDGM零封WE",
+        "onboard_time": 1707033991,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109729,
+        "num": 109729,
+        "word": "立春时间",
+        "onboard_time": 1707032191,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军官兵致以新春祝福#"
+    }
+  }
+}
