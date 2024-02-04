@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707086045833,
+  "endTime": 1707088579538,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -1827,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 617856,
+      "num": 111282,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616223,
       "num": 616223,
       "word": "人民网评张波叶诚尘被执行死刑",
@@ -3403,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381769,
+      "num": 110984,
+      "word": "乘客下单叫到66.6公里外网约车",
+      "onboard_time": 1707083896,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381627,
       "num": 381627,
       "word": "仙剑四大结局",
@@ -4529,14 +4545,6 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282436,
-      "num": 56552,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282169,
@@ -6627,6 +6635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201779,
+      "num": 201779,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201713,
       "num": 201713,
       "word": "怜爱jiejie",
@@ -8009,6 +8025,14 @@
       "onboard_time": 1706876609,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173402,
+      "num": 110047,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 173351,
@@ -10715,14 +10739,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 117242,
-      "num": 56108,
-      "word": "乘客下单叫到66.6公里外网约车",
-      "onboard_time": 1707083896,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117177,
       "num": 117177,
       "word": "龙年壁纸",
@@ -11419,6 +11435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97415,
+      "num": 97415,
+      "word": "你努把力把他拐回国结婚",
+      "onboard_time": 1707086778,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97334,
       "num": 185424,
       "word": "听完这搓澡教学更不敢去了",
@@ -11513,14 +11537,6 @@
       "onboard_time": 1707038071,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93390,
-      "num": 93390,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92989,
@@ -11673,14 +11689,6 @@
       "onboard_time": 1706696974,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83779,
-      "num": 54312,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 83599,
@@ -11865,6 +11873,14 @@
       "onboard_time": 1706995036,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66064,
+      "num": 53985,
+      "word": "只有陈都灵在前面认真拍照",
+      "onboard_time": 1707085816,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 63649,
@@ -12163,6 +12179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41488,
+      "num": 41488,
+      "word": "一吃火锅就拉肚子正常吗",
+      "onboard_time": 1707075075,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41390,
       "num": 1638861,
       "word": "6组数据领略湿地之美",
@@ -12193,6 +12217,14 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40208,
+      "num": 40208,
+      "word": "忍不住在考研群里怼人了",
+      "onboard_time": 1707088463,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 39822,
@@ -12227,6 +12259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37711,
+      "num": 37711,
+      "word": "阿森纳3比1利物浦",
+      "onboard_time": 1707088463,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37603,
       "num": 216158,
       "word": "来左边一起跟老舅画个龙",
@@ -12236,7 +12276,7 @@
     },
     {
       "raw_hot": 37403,
-      "num": 37403,
+      "num": 39432,
       "word": "列车播报员居然是毛不易",
       "onboard_time": 1707082935,
       "rank": 26,
@@ -12273,6 +12313,14 @@
       "onboard_time": 1706807962,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35543,
+      "num": 35543,
+      "word": "元气森林创始人称要向华为学习",
+      "onboard_time": 1707075497,
+      "rank": 22,
+      "category": "美食,数码"
     },
     {
       "raw_hot": 35445,
@@ -12353,14 +12401,6 @@
       "onboard_time": 1707028828,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29326,
-      "num": 24817,
-      "word": "元气森林创始人称要向华为学习",
-      "onboard_time": 1707075497,
-      "rank": 22,
-      "category": "美食,数码"
     },
     {
       "raw_hot": 29242,
@@ -12467,28 +12507,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 22021,
-      "num": 22021,
-      "word": "一吃火锅就拉肚子正常吗",
-      "onboard_time": 1707075075,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21530,
       "num": 410274,
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19078,
-      "num": 19078,
-      "word": "只有陈都灵在前面认真拍照",
-      "onboard_time": 1707085816,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 18671,

@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707086045833,
+  "endTime": 1707088579538,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -17,6 +17,14 @@
       "onboard_time": 1707042512,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 617856,
+      "num": 111282,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616049,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381769,
+      "num": 110984,
+      "word": "乘客下单叫到66.6公里外网约车",
+      "onboard_time": 1707083896,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367076,
       "num": 367076,
       "word": "五十度暴雪",
@@ -144,14 +160,6 @@
       "word": "湖北暴雪",
       "onboard_time": 1707056434,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282436,
-      "num": 56552,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -193,6 +201,14 @@
       "onboard_time": 1707063329,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 201779,
+      "num": 201779,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195138,
@@ -249,6 +265,14 @@
       "onboard_time": 1707052230,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173402,
+      "num": 110047,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 159813,
@@ -339,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117242,
-      "num": 56108,
-      "word": "乘客下单叫到66.6公里外网约车",
-      "onboard_time": 1707083896,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115234,
       "num": 115234,
       "word": "狗剩快跑",
@@ -395,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97415,
+      "num": 97415,
+      "word": "你努把力把他拐回国结婚",
+      "onboard_time": 1707086778,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96685,
       "num": 91741,
       "word": "林俊杰陶喆合唱就是爱你",
@@ -409,14 +433,6 @@
       "onboard_time": 1707064228,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93390,
-      "num": 93390,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89253,
@@ -451,14 +467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83779,
-      "num": 54312,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 80437,
       "num": 80437,
       "word": "药明康德称不会对任何国家构成安全风险",
@@ -475,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71422,
+      "num": 71422,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70766,
       "num": 70766,
       "word": "大年初三看封神",
       "onboard_time": 1707042391,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66064,
+      "num": 53985,
+      "word": "只有陈都灵在前面认真拍照",
+      "onboard_time": 1707085816,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 58028,
@@ -491,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56348,
-      "num": 56348,
-      "word": "格莱美",
-      "onboard_time": 1707052412,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 48297,
       "num": 48297,
       "word": "杨千嬅快把冷门歌唱热了",
@@ -507,12 +523,52 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41488,
+      "num": 41488,
+      "word": "一吃火锅就拉肚子正常吗",
+      "onboard_time": 1707075075,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40208,
+      "num": 40208,
+      "word": "忍不住在考研群里怼人了",
+      "onboard_time": 1707088463,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 37711,
+      "num": 37711,
+      "word": "阿森纳3比1利物浦",
+      "onboard_time": 1707088463,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37403,
-      "num": 37403,
+      "num": 39432,
       "word": "列车播报员居然是毛不易",
       "onboard_time": 1707082935,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35543,
+      "num": 35543,
+      "word": "元气森林创始人称要向华为学习",
+      "onboard_time": 1707075497,
+      "rank": 22,
+      "category": "美食,数码"
+    },
+    {
+      "raw_hot": 33665,
+      "num": 33665,
+      "word": "恋与深空",
+      "onboard_time": 1707058714,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 32820,
@@ -531,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29326,
-      "num": 24817,
-      "word": "元气森林创始人称要向华为学习",
-      "onboard_time": 1707075497,
-      "rank": 22,
-      "category": "美食,数码"
-    },
-    {
       "raw_hot": 28487,
       "num": 643167,
       "word": "解锁龙年各地年味儿",
@@ -553,30 +601,6 @@
       "onboard_time": 1707079515,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23863,
-      "num": 23863,
-      "word": "恋与深空",
-      "onboard_time": 1707058714,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 22021,
-      "num": 22021,
-      "word": "一吃火锅就拉肚子正常吗",
-      "onboard_time": 1707075075,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19078,
-      "num": 19078,
-      "word": "只有陈都灵在前面认真拍照",
-      "onboard_time": 1707085816,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 15833,
