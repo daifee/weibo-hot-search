@@ -1,0 +1,402 @@
+{
+  "runTime": 1707014144077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2447148,
+        "num": 2447148,
+        "word": "调休",
+        "onboard_time": 1707010589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092220,
+        "num": 1092220,
+        "word": "白头发可能是身体给你的警报",
+        "onboard_time": 1707004887,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 832390,
+        "num": 832390,
+        "word": "颖儿付辛博为女儿庆生",
+        "onboard_time": 1707011070,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680972,
+        "num": 680972,
+        "word": "内娱700多人信息7元打包卖",
+        "onboard_time": 1707011908,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642199,
+        "num": 642199,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530825,
+        "num": 530825,
+        "word": "刘德华自曝曾有粉丝藏床下",
+        "onboard_time": 1707001278,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 529778,
+        "num": 529778,
+        "word": "高铁上打开电脑的人真的在忙吗",
+        "onboard_time": 1707002481,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447015,
+        "num": 515695,
+        "word": "近视眼手术的优缺点",
+        "onboard_time": 1707011849,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352694,
+        "num": 508716,
+        "word": "上海恢复浦东机场网约车",
+        "onboard_time": 1706976868,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506602,
+        "num": 506602,
+        "word": "龙年央视春晚第四次联排",
+        "onboard_time": 1707012691,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470792,
+        "num": 470792,
+        "word": "立春",
+        "onboard_time": 1707001880,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467093,
+        "num": 467093,
+        "word": "迪丽热巴对接回应后续项目",
+        "onboard_time": 1707012210,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423737,
+        "num": 423737,
+        "word": "这两个时间段不宜吃苹果",
+        "onboard_time": 1707010230,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75586,
+        "num": 395859,
+        "word": "支付宝福卡免费换欧洲杯门票",
+        "onboard_time": 1707012631,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382524,
+        "num": 382524,
+        "word": "小品 烂梗",
+        "onboard_time": 1706975010,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353194,
+        "num": 353194,
+        "word": "暗送邱波",
+        "onboard_time": 1707009688,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345156,
+        "num": 345156,
+        "word": "镇政府拒不公布涉农补贴",
+        "onboard_time": 1707006631,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334270,
+        "num": 334270,
+        "word": "何赛飞金鸡影后获奖作定档",
+        "onboard_time": 1707013651,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307236,
+        "num": 307236,
+        "word": "酸奶碗",
+        "onboard_time": 1707012087,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321650,
+        "num": 305464,
+        "word": "星巴克中产滤镜被大爷大妈打碎",
+        "onboard_time": 1707013829,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303259,
+        "num": 303259,
+        "word": "体检报告中这些字眼可能是癌",
+        "onboard_time": 1707007473,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294937,
+        "num": 294937,
+        "word": "欧阳娣娣初舞台",
+        "onboard_time": 1707004347,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292553,
+        "num": 292553,
+        "word": "兔年的第二个立春来了",
+        "onboard_time": 1707002784,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289879,
+        "num": 289879,
+        "word": "春饼",
+        "onboard_time": 1707012813,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281384,
+        "num": 281384,
+        "word": "南航 延误",
+        "onboard_time": 1707007229,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261607,
+        "num": 261607,
+        "word": "躲春",
+        "onboard_time": 1707005127,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250592,
+        "num": 250592,
+        "word": "果粉为抢购苹果VisionPro打飞的赴美",
+        "onboard_time": 1707012813,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249431,
+        "num": 249431,
+        "word": "A股",
+        "onboard_time": 1707013112,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243349,
+        "num": 243349,
+        "word": "贺峻霖考试成绩出来了",
+        "onboard_time": 1707005009,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228960,
+        "num": 228960,
+        "word": "蝴蝶少女直拍",
+        "onboard_time": 1707013527,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183533,
+        "num": 183533,
+        "word": "当儿子决定穿裙子上学",
+        "onboard_time": 1706973393,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179816,
+        "num": 179816,
+        "word": "薛之谦买菜帮助老人",
+        "onboard_time": 1707008790,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177542,
+        "num": 177542,
+        "word": "TVB男演员郑启泰去世",
+        "onboard_time": 1707001278,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176483,
+        "num": 176483,
+        "word": "对话协警铐走的实习律师",
+        "onboard_time": 1707012151,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160528,
+        "num": 160528,
+        "word": "因为彩礼我和相恋8年的男友分手了",
+        "onboard_time": 1706968953,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158269,
+        "num": 158269,
+        "word": "新疆地震",
+        "onboard_time": 1707005789,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155857,
+        "num": 155857,
+        "word": "创造营亚洲首发Top9学员",
+        "onboard_time": 1707012510,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "宋亚轩舞台上好憔悴",
+        "onboard_time": 1706976149,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145886,
+        "num": 145886,
+        "word": "邱瑞拉黑攻击杨波的粉丝",
+        "onboard_time": 1707004707,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141190,
+        "num": 141190,
+        "word": "唐艺昕虞书欣撞衫",
+        "onboard_time": 1706985739,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140817,
+        "num": 140817,
+        "word": "终于等到肖战",
+        "onboard_time": 1706977709,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138081,
+        "num": 138081,
+        "word": "杨紫无实物演技",
+        "onboard_time": 1707008010,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136862,
+        "num": 136862,
+        "word": "重庆漫展",
+        "onboard_time": 1707013950,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136180,
+        "num": 136180,
+        "word": "品牌回应儿童鞋颜色名为奴仆黄",
+        "onboard_time": 1707005485,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132608,
+        "num": 132608,
+        "word": "姆巴佩下赛季加盟皇马",
+        "onboard_time": 1707005908,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130232,
+        "num": 130232,
+        "word": "把中国龙化在脸上",
+        "onboard_time": 1707013950,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 128750,
+        "num": 128750,
+        "word": "产后世界官宣",
+        "onboard_time": 1707010350,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126318,
+        "num": 126318,
+        "word": "冰墩墩我想你了",
+        "onboard_time": 1707004105,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122824,
+        "num": 122824,
+        "word": "创造营",
+        "onboard_time": 1707009032,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的新春祝福#"
+    }
+  }
+}
