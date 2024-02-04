@@ -1,0 +1,410 @@
+{
+  "runTime": 1707063579351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1061808,
+        "num": 1061808,
+        "word": "合肥南站D4832列车晚点744分钟",
+        "onboard_time": 1707056197,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758998,
+        "num": 758998,
+        "word": "吃完头孢7天内不能喝酒",
+        "onboard_time": 1707042512,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28487,
+        "num": 643167,
+        "word": "解锁龙年各地年味儿",
+        "onboard_time": 1707051152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616049,
+        "num": 616049,
+        "word": "女子买刮刮乐兑奖却被撕彩票",
+        "onboard_time": 1707053194,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559611,
+        "num": 559611,
+        "word": "辛芷蕾就想吃颗毛豆她有什么错",
+        "onboard_time": 1707061291,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526228,
+        "num": 526228,
+        "word": "为什么只有中国医生擅长取鱼刺",
+        "onboard_time": 1707055534,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 477166,
+        "num": 477166,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1707059076,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471809,
+        "num": 471809,
+        "word": "孩子玩手机把导航从回江西换到福建",
+        "onboard_time": 1707054695,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441001,
+        "num": 441001,
+        "word": "香港特区政府回应梅西缺战",
+        "onboard_time": 1707059611,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415014,
+        "num": 415014,
+        "word": "官方通报体彩店员撕毁中奖彩票",
+        "onboard_time": 1707059672,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409885,
+        "num": 409885,
+        "word": "小狗金子",
+        "onboard_time": 1707059133,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402036,
+        "num": 402036,
+        "word": "刘亦菲初中时期旧照",
+        "onboard_time": 1707059375,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367076,
+        "num": 367076,
+        "word": "五十度暴雪",
+        "onboard_time": 1707046111,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365172,
+        "num": 365172,
+        "word": "杨波报平安",
+        "onboard_time": 1707037290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327981,
+        "num": 327981,
+        "word": "武汉高铁",
+        "onboard_time": 1707057817,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314946,
+        "num": 314946,
+        "word": "湖北暴雪",
+        "onboard_time": 1707056434,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280814,
+        "num": 280814,
+        "word": "安琪拉大招 水龙头",
+        "onboard_time": 1707047794,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280574,
+        "num": 280574,
+        "word": "十个勤天用的什么散粉",
+        "onboard_time": 1707062371,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233822,
+        "num": 233822,
+        "word": "福建高速发生交通事故7人死亡",
+        "onboard_time": 1707049354,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192889,
+        "num": 192889,
+        "word": "吴磊 在娱乐圈当运动员",
+        "onboard_time": 1707057158,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478348,
+        "num": 188527,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402740,
+        "num": 187584,
+        "word": "看小说时真的会有生理反应",
+        "onboard_time": 1707057875,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 280384,
+        "num": 185745,
+        "word": "已读不回就是绝杀",
+        "onboard_time": 1707059314,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183675,
+        "num": 183675,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174632,
+        "num": 174632,
+        "word": "蓝盈莹否认整容",
+        "onboard_time": 1707049893,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177957,
+        "num": 174590,
+        "word": "一见钟情后的暧昧拉扯好上头",
+        "onboard_time": 1707061592,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174502,
+        "num": 174502,
+        "word": "董璇自曝被撮合圈内相亲",
+        "onboard_time": 1707052230,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166762,
+        "num": 166762,
+        "word": "李雪琴质疑苏醒理解苏醒超越苏醒",
+        "onboard_time": 1707062790,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 159813,
+        "word": "成年人一天到底要崩溃多少次",
+        "onboard_time": 1707057393,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149848,
+        "num": 149848,
+        "word": "人真的会一夜白头",
+        "onboard_time": 1707058894,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139063,
+        "num": 139063,
+        "word": "小沈阳沈春阳",
+        "onboard_time": 1707051334,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 135315,
+        "word": "南笙婚礼vlog",
+        "onboard_time": 1707056674,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135055,
+        "num": 135055,
+        "word": "深圳一工人清洗外墙掉下8楼",
+        "onboard_time": 1707053973,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134090,
+        "num": 134090,
+        "word": "南航",
+        "onboard_time": 1707053253,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 129064,
+        "word": "苏醒用春联回应上春晚",
+        "onboard_time": 1707059556,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128295,
+        "num": 128295,
+        "word": "刘浩存羽毛裙",
+        "onboard_time": 1707056855,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127974,
+        "num": 127974,
+        "word": "港府称对梅西没出场比赛极度失望",
+        "onboard_time": 1707055534,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125521,
+        "num": 125521,
+        "word": "玄彬孙艺珍方否认购新房",
+        "onboard_time": 1707049954,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115234,
+        "num": 115234,
+        "word": "狗剩快跑",
+        "onboard_time": 1707050553,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113736,
+        "num": 113736,
+        "word": "蔡徐坤新歌",
+        "onboard_time": 1707059197,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109404,
+        "num": 109404,
+        "word": "网友自曝被举报作弊取消考研政治成绩",
+        "onboard_time": 1707047612,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107721,
+        "num": 107721,
+        "word": "少爷和我",
+        "onboard_time": 1707044133,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105016,
+        "num": 105016,
+        "word": "Xiaohu偷家RNG",
+        "onboard_time": 1707049954,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104221,
+        "num": 104221,
+        "word": "iPhone年收入首次占智能手机市场50%",
+        "onboard_time": 1707063329,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97800,
+        "num": 97800,
+        "word": "方媛工作变多的原因",
+        "onboard_time": 1707056434,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89253,
+        "num": 89253,
+        "word": "杨鸣 辽宁男篮",
+        "onboard_time": 1707046172,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89184,
+        "num": 89184,
+        "word": "头孢就酒可能5分钟致命",
+        "onboard_time": 1707053916,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85359,
+        "num": 85359,
+        "word": "杨紫追星投票把电话费投光了",
+        "onboard_time": 1707054274,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80437,
+        "num": 80437,
+        "word": "药明康德称不会对任何国家构成安全风险",
+        "onboard_time": 1707059314,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80008,
+        "num": 80008,
+        "word": "王者荣耀龙限皮肤",
+        "onboard_time": 1707045568,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}
