@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707027616533,
+  "endTime": 1707028467156,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1938180,
+      "num": 1938180,
+      "word": "专家称调休时很多人在假装上班",
+      "onboard_time": 1707023193,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1930170,
       "num": 1930170,
       "word": "咳嗽时把痰咽下去伤身体吗",
@@ -233,14 +241,6 @@
       "onboard_time": 1706779412,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1785420,
-      "num": 1785420,
-      "word": "专家称调休时很多人在假装上班",
-      "onboard_time": 1707023193,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1769577,
@@ -1259,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730828,
+      "num": 730828,
+      "word": "白鹿调休受害人",
+      "onboard_time": 1707024088,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730807,
       "num": 730807,
       "word": "没有血缘关系也能长得像",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1706763872,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 713343,
-      "num": 713343,
-      "word": "白鹿调休受害人",
-      "onboard_time": 1707024088,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 707050,
@@ -2051,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530495,
+      "num": 530495,
+      "word": "奔驰男砸车前被白车顶了一下",
+      "onboard_time": 1707022890,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529598,
       "num": 529598,
       "word": "美甲问价后不敢回复了",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1706943870,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473218,
-      "num": 473218,
-      "word": "奔驰男砸车前被白车顶了一下",
-      "onboard_time": 1707022890,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472770,
@@ -4435,6 +4435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 256963,
+      "num": 256963,
+      "word": "白百何素颜",
+      "onboard_time": 1707025112,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256909,
       "num": 256909,
       "word": "湖南卫视春晚阵容",
@@ -4771,14 +4779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235169,
-      "num": 213406,
-      "word": "白百何素颜",
-      "onboard_time": 1707025112,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 234996,
       "num": 234996,
       "word": "郭富城回应被林家栋搀扶下楼梯",
@@ -5065,6 +5065,14 @@
       "onboard_time": 1706749469,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222468,
+      "num": 222468,
+      "word": "顶级小说神作",
+      "onboard_time": 1707024210,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 222215,
@@ -5537,14 +5545,6 @@
       "onboard_time": 1707020192,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206284,
-      "num": 206284,
-      "word": "顶级小说神作",
-      "onboard_time": 1707024210,
-      "rank": 37,
-      "category": "读书作家"
     },
     {
       "raw_hot": 206219,
@@ -8395,6 +8395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138785,
+      "num": 138785,
+      "word": "明明有精神病但能表现得像正常人",
+      "onboard_time": 1707023373,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138587,
       "num": 138587,
       "word": "科学家揭开癌细胞转移之谜",
@@ -8425,14 +8433,6 @@
       "onboard_time": 1706960851,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137519,
-      "num": 137519,
-      "word": "明明有精神病但能表现得像正常人",
-      "onboard_time": 1707023373,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 137312,
@@ -8577,6 +8577,14 @@
       "onboard_time": 1706924010,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135041,
+      "num": 135041,
+      "word": "假装上班",
+      "onboard_time": 1707025591,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 134989,
@@ -9809,6 +9817,14 @@
       "onboard_time": 1706959650,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104900,
+      "num": 104900,
+      "word": "女子驶入河南惊呼高速上雪跑哪了",
+      "onboard_time": 1707028289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104781,
