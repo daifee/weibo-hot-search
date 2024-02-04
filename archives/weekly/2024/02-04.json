@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707056056884,
+  "endTime": 1707057236739,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1685281,
+      "num": 1685281,
+      "word": "南航",
+      "onboard_time": 1707053253,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679212,
       "num": 1679212,
       "word": "白头发可能是身体给你的警报",
@@ -64,14 +72,6 @@
       "word": "武汉暴雪",
       "onboard_time": 1706973153,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1486955,
-      "num": 1486955,
-      "word": "南航",
-      "onboard_time": 1707053253,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -177,6 +177,14 @@
       "onboard_time": 1706976149,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 934694,
+      "num": 934694,
+      "word": "女子买刮刮乐兑奖却被撕彩票",
+      "onboard_time": 1707053194,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925626,
@@ -475,11 +483,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 539612,
-      "num": 539612,
-      "word": "女子买刮刮乐兑奖却被撕彩票",
-      "onboard_time": 1707053194,
-      "rank": 41,
+      "raw_hot": 537043,
+      "num": 444761,
+      "word": "孩子玩手机把导航从回江西换到福建",
+      "onboard_time": 1707054695,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -523,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 485230,
+      "num": 485230,
+      "word": "深圳一工人清洗外墙掉下8楼",
+      "onboard_time": 1707053973,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481468,
       "num": 481468,
       "word": "迪丽热巴对接回应后续项目",
@@ -553,6 +569,14 @@
       "onboard_time": 1707015450,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 459681,
+      "num": 459681,
+      "word": "头孢就酒可能5分钟致命",
+      "onboard_time": 1707053916,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453619,
@@ -593,14 +617,6 @@
       "onboard_time": 1706969436,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 428623,
-      "num": 428623,
-      "word": "深圳一工人清洗外墙掉下8楼",
-      "onboard_time": 1707053973,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427295,
@@ -665,6 +681,14 @@
       "onboard_time": 1707013527,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 401847,
+      "num": 401847,
+      "word": "为什么只有中国医生擅长取鱼刺",
+      "onboard_time": 1707055534,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 400489,
@@ -891,14 +915,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 318946,
-      "num": 318946,
-      "word": "头孢就酒可能5分钟致命",
-      "onboard_time": 1707053916,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318498,
       "num": 318498,
       "word": "2023十大热搜艺人",
@@ -995,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289966,
+      "num": 208954,
+      "word": "合肥南站D4832列车晚点744分钟",
+      "onboard_time": 1707056197,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289879,
       "num": 289879,
       "word": "春饼",
@@ -1035,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279757,
+      "num": 279757,
+      "word": "方媛工作变多的原因",
+      "onboard_time": 1707056434,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279606,
       "num": 279606,
       "word": "南京地铁",
@@ -1043,12 +1075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278569,
-      "num": 278569,
-      "word": "孩子玩手机把导航从回江西换到福建",
-      "onboard_time": 1707054695,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 278820,
+      "num": 278820,
+      "word": "刘浩存羽毛裙",
+      "onboard_time": 1707056855,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 276947,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1706971476,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 270303,
+      "num": 270303,
+      "word": "港府称对梅西没出场比赛极度失望",
+      "onboard_time": 1707055534,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 269892,
@@ -1259,14 +1299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 238009,
-      "num": 190105,
-      "word": "为什么只有中国医生擅长取鱼刺",
-      "onboard_time": 1707055534,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 237272,
       "num": 237272,
       "word": "产后世界官宣",
@@ -1339,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225319,
+      "num": 225319,
+      "word": "东北麻辣拌",
+      "onboard_time": 1707055599,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224001,
       "num": 224001,
       "word": "邓紫棋与贝克汉姆合影",
@@ -1395,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218151,
-      "num": 218151,
-      "word": "东北麻辣拌",
-      "onboard_time": 1707055599,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 218053,
       "num": 194213,
       "word": "赌王四太穿苗服跳民族舞",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1707041670,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212924,
+      "num": 212924,
+      "word": "湖北暴雪",
+      "onboard_time": 1707056434,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212419,
@@ -1659,6 +1699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195738,
+      "num": 195738,
+      "word": "南笙婚礼vlog",
+      "onboard_time": 1707056674,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 195713,
       "num": 195713,
       "word": "马宁 尺度",
@@ -1736,14 +1784,6 @@
       "word": "全红婵晋级半决赛",
       "onboard_time": 1707044672,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190347,
-      "num": 190347,
-      "word": "港府称对梅西没出场比赛极度失望",
-      "onboard_time": 1707055534,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1913,6 +1953,14 @@
       "onboard_time": 1707041251,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167401,
+      "num": 167401,
+      "word": "三杯鸡",
+      "onboard_time": 1707056315,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 166427,
@@ -2208,6 +2256,14 @@
       "word": "日入过千你愿意春节送外卖吗",
       "onboard_time": 1707035552,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143470,
+      "num": 143470,
+      "word": "百岁师母仅用2分钟认出周涛",
+      "onboard_time": 1707056674,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2513,6 +2569,14 @@
       "onboard_time": 1707010289,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121743,
+      "num": 121743,
+      "word": "吴磊 在娱乐圈当运动员",
+      "onboard_time": 1707057158,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 121734,
