@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707082424324,
+  "endTime": 1707084942934,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -187,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 216013,
+      "num": 49113,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195138,
       "num": 195138,
       "word": "真实暧昧又尴尬",
@@ -371,14 +379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98505,
-      "num": 19124,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97800,
       "num": 97800,
       "word": "方媛工作变多的原因",
@@ -451,6 +451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76011,
+      "num": 76011,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74278,
+      "num": 46646,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70766,
       "num": 70766,
       "word": "大年初三看封神",
@@ -475,28 +491,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 55606,
-      "num": 55606,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50724,
-      "num": 42810,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48297,
       "num": 48297,
       "word": "杨千嬅快把冷门歌唱热了",
       "onboard_time": 1707072556,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33397,
+      "num": 33397,
+      "word": "乘客下单叫到66.6公里外网约车",
+      "onboard_time": 1707083896,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32820,
@@ -523,12 +531,28 @@
       "category": "美食,数码"
     },
     {
+      "raw_hot": 28570,
+      "num": 28570,
+      "word": "列车播报员居然是毛不易",
+      "onboard_time": 1707082935,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28487,
       "num": 643167,
       "word": "解锁龙年各地年味儿",
       "onboard_time": 1707051152,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23970,
+      "num": 23970,
+      "word": "美国驻华大使打卡冰雪大世界",
+      "onboard_time": 1707079515,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 23863,
@@ -545,14 +569,6 @@
       "onboard_time": 1707075075,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19310,
-      "num": 19310,
-      "word": "美国驻华大使打卡冰雪大世界",
-      "onboard_time": 1707079515,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 15833,
