@@ -1,7 +1,23 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707035717994,
+  "endTime": 1707038166432,
   "band_list": [
+    {
+      "raw_hot": 3966659,
+      "num": 3966659,
+      "word": "杨波报平安",
+      "onboard_time": 1707037290,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3556091,
+      "num": 935382,
+      "word": "杨波朋友圈",
+      "onboard_time": 1707037529,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3421471,
       "num": 3421471,
@@ -2427,6 +2443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 461668,
+      "num": 461668,
+      "word": "睡觉吧 你俩过几天就成了",
+      "onboard_time": 1707033873,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461447,
       "num": 383096,
       "word": "gidle 认哥",
@@ -3355,14 +3379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354695,
-      "num": 354695,
-      "word": "睡觉吧 你俩过几天就成了",
-      "onboard_time": 1707033873,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 354208,
       "num": 255053,
       "word": "爸妈偷偷来我租的房子过年",
@@ -3835,6 +3851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304572,
+      "num": 304572,
+      "word": "GOODBAI致歉",
+      "onboard_time": 1707034469,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 303867,
       "num": 303867,
       "word": "女子哈佛博士毕业后给豪门当家教",
@@ -3961,6 +3985,14 @@
       "onboard_time": 1706709694,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 294614,
+      "num": 294614,
+      "word": "大乔乘龙忆丹青新皮肤",
+      "onboard_time": 1707035911,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 292947,
@@ -4137,6 +4169,14 @@
       "onboard_time": 1706955568,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 279834,
+      "num": 279834,
+      "word": "王者荣耀孙尚香新皮肤",
+      "onboard_time": 1707034591,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 279606,
@@ -4713,14 +4753,6 @@
       "onboard_time": 1706869052,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240146,
-      "num": 240146,
-      "word": "GOODBAI致歉",
-      "onboard_time": 1707034469,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 239088,
@@ -5779,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203411,
+      "num": 203411,
+      "word": "被困高速十几小时车主发声",
+      "onboard_time": 1707034949,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202954,
       "num": 198566,
       "word": "凤凰传奇串烧",
@@ -5913,14 +5953,6 @@
       "onboard_time": 1706843191,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200540,
-      "num": 200540,
-      "word": "王者荣耀孙尚香新皮肤",
-      "onboard_time": 1707034591,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 200089,
@@ -7251,6 +7283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170170,
+      "num": 170170,
+      "word": "癸卯兔要交接给甲辰龙了",
+      "onboard_time": 1707038071,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169957,
       "num": 169957,
       "word": "李昀锐孟子义扯领子对视",
@@ -8515,6 +8555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138867,
+      "num": 138867,
+      "word": "李庚希张婧仪 对眼睛好",
+      "onboard_time": 1707036330,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 138587,
       "num": 138587,
       "word": "科学家揭开癌细胞转移之谜",
@@ -8659,20 +8707,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135591,
+      "num": 135591,
+      "word": "湖北交通厅回应旅客滞留高速",
+      "onboard_time": 1707035609,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135485,
       "num": 135485,
       "word": "张碧晨有自己的语言系统",
       "onboard_time": 1706951792,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135410,
-      "num": 135410,
-      "word": "被困高速十几小时车主发声",
-      "onboard_time": 1707034949,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135281,
@@ -9025,6 +9073,14 @@
       "onboard_time": 1706832930,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129537,
+      "num": 129537,
+      "word": "为啥越来越多人爱上了新中式",
+      "onboard_time": 1707038132,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 129240,
@@ -9611,14 +9667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114517,
-      "num": 114517,
-      "word": "湖北交通厅回应旅客滞留高速",
-      "onboard_time": 1707035609,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "当过年家里有一个没结婚的长辈",
@@ -9787,6 +9835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111214,
+      "num": 111214,
+      "word": "王睡睡新恋综",
+      "onboard_time": 1707037889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -9915,6 +9971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109215,
+      "num": 109215,
+      "word": "朱正廷问李权哲丢不丢人",
+      "onboard_time": 1707036811,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108947,
       "num": 108947,
       "word": "肖战同路人首唱",
@@ -10003,6 +10067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105896,
+      "num": 105896,
+      "word": "只有在自己家才能做自己",
+      "onboard_time": 1707037889,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105438,
       "num": 105438,
       "word": "反诈牢记8个不",
@@ -10089,6 +10161,14 @@
       "onboard_time": 1707002302,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103395,
+      "num": 103395,
+      "word": "春运返乡互助",
+      "onboard_time": 1707037415,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102846,
@@ -10257,6 +10337,14 @@
       "onboard_time": 1706879133,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94033,
+      "num": 94033,
+      "word": "决战平安京祈神迎福",
+      "onboard_time": 1707038071,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92989,
@@ -10676,7 +10764,7 @@
     },
     {
       "raw_hot": 55246,
-      "num": 829515,
+      "num": 945116,
       "word": "让一切美好从立春开始",
       "onboard_time": 1707029010,
       "rank": 2,

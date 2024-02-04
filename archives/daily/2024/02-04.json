@@ -1,7 +1,23 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707035717994,
+  "endTime": 1707038166432,
   "band_list": [
+    {
+      "raw_hot": 3966659,
+      "num": 3966659,
+      "word": "杨波报平安",
+      "onboard_time": 1707037290,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3556091,
+      "num": 935382,
+      "word": "杨波朋友圈",
+      "onboard_time": 1707037529,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2447148,
       "num": 2447148,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461668,
+      "num": 461668,
+      "word": "睡觉吧 你俩过几天就成了",
+      "onboard_time": 1707033873,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 460183,
       "num": 460183,
       "word": "电影西游记真假美猴王官宣",
@@ -531,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354695,
-      "num": 354695,
-      "word": "睡觉吧 你俩过几天就成了",
-      "onboard_time": 1707033873,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 332904,
       "num": 332904,
       "word": "唐艺昕虞书欣撞衫",
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304572,
+      "num": 304572,
+      "word": "GOODBAI致歉",
+      "onboard_time": 1707034469,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -667,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294614,
+      "num": 294614,
+      "word": "大乔乘龙忆丹青新皮肤",
+      "onboard_time": 1707035911,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289879,
       "num": 289879,
       "word": "春饼",
@@ -681,6 +713,14 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279834,
+      "num": 279834,
+      "word": "王者荣耀孙尚香新皮肤",
+      "onboard_time": 1707034591,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 279606,
@@ -801,14 +841,6 @@
       "onboard_time": 1707031410,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240146,
-      "num": 240146,
-      "word": "GOODBAI致歉",
-      "onboard_time": 1707034469,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 238657,
@@ -1011,6 +1043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203411,
+      "num": 203411,
+      "word": "被困高速十几小时车主发声",
+      "onboard_time": 1707034949,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202621,
       "num": 202621,
       "word": "繁花剧组现身春晚第四次联排",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1707019771,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 200540,
-      "num": 200540,
-      "word": "王者荣耀孙尚香新皮肤",
-      "onboard_time": 1707034591,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 200089,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1707024030,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170170,
+      "num": 170170,
+      "word": "癸卯兔要交接给甲辰龙了",
+      "onboard_time": 1707038071,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 169197,
@@ -1451,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138867,
+      "num": 138867,
+      "word": "李庚希张婧仪 对眼睛好",
+      "onboard_time": 1707036330,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 138150,
       "num": 138150,
       "word": "马斯克宣布更改特斯拉注册地",
@@ -1475,11 +1523,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135410,
-      "num": 135410,
-      "word": "被困高速十几小时车主发声",
-      "onboard_time": 1707034949,
-      "rank": 41,
+      "raw_hot": 135591,
+      "num": 135591,
+      "word": "湖北交通厅回应旅客滞留高速",
+      "onboard_time": 1707035609,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1521,6 +1569,14 @@
       "onboard_time": 1707013950,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 129537,
+      "num": 129537,
+      "word": "为啥越来越多人爱上了新中式",
+      "onboard_time": 1707038132,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 128078,
@@ -1627,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114517,
-      "num": 114517,
-      "word": "湖北交通厅回应旅客滞留高速",
-      "onboard_time": 1707035609,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113946,
       "num": 113946,
       "word": "澡堂异闻录",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1706997977,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111214,
+      "num": 111214,
+      "word": "王睡睡新恋综",
+      "onboard_time": 1707037889,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 110516,
@@ -1699,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109215,
+      "num": 109215,
+      "word": "朱正廷问李权哲丢不丢人",
+      "onboard_time": 1707036811,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109060,
       "num": 109060,
       "word": "天天福",
@@ -1731,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105896,
+      "num": 105896,
+      "word": "只有在自己家才能做自己",
+      "onboard_time": 1707037889,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105438,
       "num": 105438,
       "word": "反诈牢记8个不",
@@ -1755,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103395,
+      "num": 103395,
+      "word": "春运返乡互助",
+      "onboard_time": 1707037415,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102846,
       "num": 102846,
       "word": "渐冻人蔡磊谈濒死感",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1706983465,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94033,
+      "num": 94033,
+      "word": "决战平安京祈神迎福",
+      "onboard_time": 1707038071,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92222,
@@ -1916,7 +2004,7 @@
     },
     {
       "raw_hot": 55246,
-      "num": 829515,
+      "num": 945116,
       "word": "让一切美好从立春开始",
       "onboard_time": 1707029010,
       "rank": 2,
