@@ -1,0 +1,410 @@
+{
+  "runTime": 1707039246066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215106,
+        "num": 1472875,
+        "word": "专家称调休时很多人在假装上班",
+        "onboard_time": 1707023193,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884229,
+        "num": 884229,
+        "word": "宝妈进群刷单5天被骗580万",
+        "onboard_time": 1707021752,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39265,
+        "num": 707205,
+        "word": "让一切美好从立春开始",
+        "onboard_time": 1707029010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4033714,
+        "num": 670408,
+        "word": "杨波报平安",
+        "onboard_time": 1707037290,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613606,
+        "num": 613606,
+        "word": "美甲 约不上",
+        "onboard_time": 1707020790,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 577783,
+        "num": 577783,
+        "word": "奔驰男砸车前被白车顶了一下",
+        "onboard_time": 1707022890,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3525540,
+        "num": 553201,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515788,
+        "num": 515788,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 451685,
+        "num": 451685,
+        "word": "佟梦实是五竹叔",
+        "onboard_time": 1707028651,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417244,
+        "num": 417244,
+        "word": "奔驰加塞事件正面7分钟监控曝光",
+        "onboard_time": 1707019951,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360874,
+        "num": 360874,
+        "word": "贾静雯女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1707019533,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340547,
+        "num": 340547,
+        "word": "iPhone工作日闹钟今天没响",
+        "onboard_time": 1707017551,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 327862,
+        "num": 327862,
+        "word": "白鹿调休受害人",
+        "onboard_time": 1707024088,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326835,
+        "num": 326835,
+        "word": "武大性骚扰事件男方首度发声",
+        "onboard_time": 1707021874,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319134,
+        "num": 319134,
+        "word": "GOODBAI致歉",
+        "onboard_time": 1707034469,
+        "rank": 14,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 311077,
+        "num": 311077,
+        "word": "迪丽热巴官宣百花迎春晚会",
+        "onboard_time": 1707021151,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298394,
+        "num": 298394,
+        "word": "麻辣烫为什么越来越高级了",
+        "onboard_time": 1707022652,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292861,
+        "num": 292861,
+        "word": "韩网评张佳宁穿朝鲜族服饰",
+        "onboard_time": 1707016892,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255936,
+        "num": 255936,
+        "word": "王者荣耀孙尚香新皮肤",
+        "onboard_time": 1707034591,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253686,
+        "num": 253686,
+        "word": "多地中小学教师被要求寒假期间值班",
+        "onboard_time": 1707019411,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245636,
+        "num": 245636,
+        "word": "过年真的要花好多钱啊",
+        "onboard_time": 1707018870,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228213,
+        "num": 228213,
+        "word": "仙剑三龙年春晚重聚",
+        "onboard_time": 1707022355,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224627,
+        "num": 224627,
+        "word": "郭富城回应被林家栋搀扶下楼梯",
+        "onboard_time": 1707023611,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208346,
+        "num": 208346,
+        "word": "Hero对战VG",
+        "onboard_time": 1707039208,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204644,
+        "num": 204644,
+        "word": "癸卯兔要交接给甲辰龙了",
+        "onboard_time": 1707038071,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204643,
+        "num": 204643,
+        "word": "梅西替补",
+        "onboard_time": 1707038253,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199775,
+        "num": 199775,
+        "word": "大乔乘龙忆丹青新皮肤",
+        "onboard_time": 1707035911,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195948,
+        "num": 195948,
+        "word": "顶级小说神作",
+        "onboard_time": 1707024210,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 184130,
+        "num": 184130,
+        "word": "财阀家的女爱豆",
+        "onboard_time": 1707021993,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181469,
+        "num": 181469,
+        "word": "周深又穿了半永久春晚羽绒服",
+        "onboard_time": 1707030329,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178558,
+        "num": 178558,
+        "word": "被困高速十几小时车主发声",
+        "onboard_time": 1707034949,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175946,
+        "num": 175946,
+        "word": "明明有精神病但能表现得像正常人",
+        "onboard_time": 1707023373,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171084,
+        "num": 171084,
+        "word": "陈冠希近照",
+        "onboard_time": 1707025230,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166095,
+        "num": 166095,
+        "word": "王睡睡新恋综",
+        "onboard_time": 1707037889,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158439,
+        "num": 158439,
+        "word": "2月4日16时27分迎立春",
+        "onboard_time": 1707029911,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153364,
+        "num": 153364,
+        "word": "文旅局长纷纷撕毁互不内卷条约",
+        "onboard_time": 1707021392,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144908,
+        "num": 144908,
+        "word": "2023十大热搜艺人",
+        "onboard_time": 1707025954,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "宋雨琦与Minnie曾喜欢同一男生",
+        "onboard_time": 1707016650,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135906,
+        "num": 135906,
+        "word": "NIP战胜OMG",
+        "onboard_time": 1707037952,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133556,
+        "num": 133556,
+        "word": "韩籍博士称中国电子支付需改进",
+        "onboard_time": 1707029067,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130618,
+        "num": 130618,
+        "word": "李庚希张婧仪 对眼睛好",
+        "onboard_time": 1707036330,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114333,
+        "num": 114333,
+        "word": "掐脖舞",
+        "onboard_time": 1707025650,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112226,
+        "num": 112226,
+        "word": "为啥越来越多人爱上了新中式",
+        "onboard_time": 1707038132,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 110930,
+        "num": 110930,
+        "word": "实习生给已读乱回的领导一点震撼",
+        "onboard_time": 1707031291,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100633,
+        "num": 100633,
+        "word": "湖北交通厅回应旅客滞留高速",
+        "onboard_time": 1707035609,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98761,
+        "num": 98761,
+        "word": "朱正廷问李权哲丢不丢人",
+        "onboard_time": 1707036811,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97185,
+        "num": 97185,
+        "word": "华为重夺中国手机市场销量第一宝座",
+        "onboard_time": 1707022652,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96410,
+        "num": 96410,
+        "word": "王者荣耀 小孩哥代打",
+        "onboard_time": 1707035430,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95712,
+        "num": 95712,
+        "word": "小狗自己困了还要哄小熊睡觉",
+        "onboard_time": 1707038854,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92697,
+        "num": 92697,
+        "word": "金靖谈女生化妆的意义",
+        "onboard_time": 1707026791,
+        "rank": 49,
+        "category": "艺人,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军官兵致以新春祝福#"
+    }
+  }
+}
