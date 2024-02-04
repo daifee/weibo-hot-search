@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707077796117,
+  "endTime": 1707078849387,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -3355,6 +3355,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23449,
+      "num": 23449,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22419,
+      "num": 22419,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 22084,
       "num": 430834,
       "word": "蛋仔春节版本前瞻直播",
@@ -3377,14 +3393,6 @@
       "onboard_time": 1707058714,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21602,
-      "num": 21602,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21166,
@@ -3411,16 +3419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16919,
-      "num": 16919,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 13947,
-      "num": 13947,
+      "raw_hot": 15833,
+      "num": 15833,
       "word": "画卧蚕无法修饰长中庭",
       "onboard_time": 1707077477,
       "rank": 45,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1707077777,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12243,
+      "num": 14003,
+      "word": "一只注意养生的猫",
+      "onboard_time": 1707078256,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10350,
