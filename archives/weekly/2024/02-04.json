@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707078849387,
+  "endTime": 1707081237772,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -3227,6 +3227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47382,
+      "num": 18198,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46747,
       "num": 35946,
       "word": "在暴雪时分",
@@ -3243,6 +3251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44972,
+      "num": 44972,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44698,
       "num": 43736,
       "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1706988319,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41561,
+      "num": 35216,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 41209,
@@ -3355,20 +3379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23449,
-      "num": 23449,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22419,
-      "num": 22419,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 23863,
+      "num": 23863,
+      "word": "恋与深空",
+      "onboard_time": 1707058714,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 22084,
@@ -3385,14 +3401,6 @@
       "onboard_time": 1707075075,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21619,
-      "num": 21619,
-      "word": "恋与深空",
-      "onboard_time": 1707058714,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 21166,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1706989457,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16734,
+      "num": 16734,
+      "word": "美国驻华大使打卡冰雪大世界",
+      "onboard_time": 1707079515,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 15833,
