@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707017660591,
+  "endTime": 1707020357948,
   "band_list": [
     {
       "raw_hot": 2447148,
@@ -9,6 +9,14 @@
       "onboard_time": 1707010589,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1807868,
+      "num": 1807868,
+      "word": "韩网评张佳宁穿朝鲜族服饰",
+      "onboard_time": 1707016892,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1679212,
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1042945,
+      "num": 1042945,
+      "word": "iPhone工作日闹钟今天没响",
+      "onboard_time": 1707017551,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 956046,
       "num": 956046,
       "word": "宋亚轩舞台上好憔悴",
@@ -115,11 +131,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 776704,
-      "num": 776704,
-      "word": "韩网评张佳宁穿朝鲜族服饰",
-      "onboard_time": 1707016892,
-      "rank": 4,
+      "raw_hot": 750543,
+      "num": 750543,
+      "word": "宋雨琦与Minnie曾喜欢同一男生",
+      "onboard_time": 1707016650,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 741297,
+      "num": 741297,
+      "word": "贾静雯女儿梧桐妹戴唇环舌环",
+      "onboard_time": 1707019533,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -137,14 +161,6 @@
       "onboard_time": 1707014370,
       "rank": 6,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 667937,
-      "num": 667937,
-      "word": "宋雨琦与Minnie曾喜欢同一男生",
-      "onboard_time": 1707016650,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 601025,
@@ -192,6 +208,14 @@
       "word": "当儿子决定穿裙子上学",
       "onboard_time": 1706973393,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553063,
+      "num": 553063,
+      "word": "奇瑞",
+      "onboard_time": 1707016530,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408161,
+      "num": 408161,
+      "word": "电影西游记真假美猴王官宣",
+      "onboard_time": 1707015450,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402202,
       "num": 402202,
       "word": "蝴蝶少女直拍",
@@ -371,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330085,
+      "num": 330085,
+      "word": "12306回应部分列车停运",
+      "onboard_time": 1707018088,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327846,
       "num": 327846,
       "word": "姆巴佩下赛季加盟皇马",
       "onboard_time": 1707005908,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326342,
-      "num": 326342,
-      "word": "电影西游记真假美猴王官宣",
-      "onboard_time": 1707015450,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 323313,
@@ -419,6 +451,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313831,
+      "num": 313831,
+      "word": "春晚第四次联排明星阵容",
+      "onboard_time": 1707019468,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312208,
+      "num": 312208,
+      "word": "库里60分",
+      "onboard_time": 1707017011,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 302288,
+      "num": 302288,
+      "word": "过年真的要花好多钱啊",
+      "onboard_time": 1707018870,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -435,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296020,
-      "num": 296020,
-      "word": "库里60分",
-      "onboard_time": 1707017011,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 297216,
+      "num": 297216,
+      "word": "世界之外新PV",
+      "onboard_time": 1707018749,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 294884,
@@ -449,14 +505,6 @@
       "onboard_time": 1707017250,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291260,
-      "num": 291260,
-      "word": "奇瑞",
-      "onboard_time": 1707016530,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289879,
@@ -473,6 +521,14 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284022,
+      "num": 284022,
+      "word": "多地中小学教师被要求寒假期间值班",
+      "onboard_time": 1707019411,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279606,
@@ -611,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221326,
+      "num": 221326,
+      "word": "范志毅谈27年前被6万人骂",
+      "onboard_time": 1707017192,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218053,
       "num": 194213,
       "word": "赌王四太穿苗服跳民族舞",
@@ -633,6 +697,14 @@
       "onboard_time": 1706975074,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211914,
+      "num": 211914,
+      "word": "奔驰加塞事件正面7分钟监控曝光",
+      "onboard_time": 1707019951,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211198,
@@ -667,12 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205012,
-      "num": 205012,
-      "word": "范志毅谈27年前被6万人骂",
-      "onboard_time": 1707017192,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 199700,
+      "num": 199700,
+      "word": "龙宝",
+      "onboard_time": 1707019771,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 198343,
@@ -715,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188141,
+      "num": 188141,
+      "word": "原来小猫真的会装可爱",
+      "onboard_time": 1707017732,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186732,
       "num": 186732,
       "word": "优酷2024龙年片单",
@@ -736,6 +816,14 @@
       "word": "白鹿给王星越打伞",
       "onboard_time": 1706970813,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183803,
+      "num": 183803,
+      "word": "三代今天就是来揍你的",
+      "onboard_time": 1707017371,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -779,11 +867,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176648,
+      "num": 176648,
+      "word": "南航回应旅客登机后航班取消",
+      "onboard_time": 1707017310,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176635,
       "num": 133465,
       "word": "林允穿了新中式",
       "onboard_time": 1706972374,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176560,
+      "num": 176560,
+      "word": "白敬亭红葫芦背包",
+      "onboard_time": 1707020011,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -803,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165121,
+      "num": 165121,
+      "word": "湖人终结尼克斯九连胜",
+      "onboard_time": 1707020192,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165108,
       "num": 165108,
       "word": "冰墩墩我想你了",
@@ -817,6 +929,14 @@
       "onboard_time": 1706979684,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163944,
+      "num": 163944,
+      "word": "杨洋空中环绕四圈半",
+      "onboard_time": 1707020133,
+      "rank": 44,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 163533,
@@ -867,12 +987,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155299,
-      "num": 155299,
-      "word": "南航回应旅客登机后航班取消",
-      "onboard_time": 1707017310,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 156575,
+      "num": 156575,
+      "word": "成毅杂志",
+      "onboard_time": 1707020251,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155136,
@@ -939,20 +1059,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145612,
-      "num": 145612,
-      "word": "三代今天就是来揍你的",
-      "onboard_time": 1707017371,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142915,
       "num": 125859,
       "word": "檀健次第一个出场",
       "onboard_time": 1706970511,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139836,
+      "num": 139836,
+      "word": "周杰伦巴黎大片",
+      "onboard_time": 1707019533,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138150,
@@ -993,14 +1113,6 @@
       "onboard_time": 1706983943,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127463,
-      "num": 127463,
-      "word": "iPhone工作日闹钟今天没响",
-      "onboard_time": 1707017551,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 126596,
@@ -1073,6 +1185,14 @@
       "onboard_time": 1707005848,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110494,
+      "num": 333036,
+      "word": "霸王茶姬杯子寓意",
+      "onboard_time": 1707019232,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 110327,
@@ -1259,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61408,
+      "num": 1077766,
+      "word": "你追的爆款网络视听盛典包售后",
+      "onboard_time": 1707018630,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54355,
       "num": 54355,
       "word": "武汉市气象局回应遭遇冻雨天气",
@@ -1347,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22480,
+      "num": 138678,
+      "word": "为什么过年要拍全家福",
+      "onboard_time": 1707018329,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21166,
       "num": 23115,
       "word": "亚洲杯",
@@ -1377,6 +1513,9 @@
     },
     {
       "word": "#习主席的新春祝福#"
+    },
+    {
+      "word": "#习近平向全军官兵致以新春祝福#"
     }
   ]
 }
