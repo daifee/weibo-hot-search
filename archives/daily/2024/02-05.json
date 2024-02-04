@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707068037458,
+  "endTime": 1707070928827,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -185,6 +185,14 @@
       "onboard_time": 1707063329,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 194002,
+      "num": 194002,
+      "word": "真实暧昧又尴尬",
+      "onboard_time": 1707067462,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 192889,
@@ -443,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64884,
-      "num": 64884,
-      "word": "真实暧昧又尴尬",
-      "onboard_time": 1707067462,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 58028,
       "num": 58028,
       "word": "治愈自己最好的方式就是忙碌和早睡",
@@ -465,6 +465,22 @@
       "onboard_time": 1707052412,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 32409,
+      "num": 32409,
+      "word": "薛之谦是在赶新歌吗",
+      "onboard_time": 1707069260,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 30955,
+      "num": 30955,
+      "word": "王星越没搞笑但真的很好笑",
+      "onboard_time": 1707068721,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 28487,
