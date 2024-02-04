@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707041844701,
+  "endTime": 1707042820377,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752866,
+      "num": 752866,
+      "word": "印度女星为假死道歉",
+      "onboard_time": 1707040169,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 750543,
       "num": 750543,
       "word": "宋雨琦与Minnie曾喜欢同一男生",
@@ -225,14 +233,6 @@
       "onboard_time": 1707019411,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693149,
-      "num": 693149,
-      "word": "印度女星为假死道歉",
-      "onboard_time": 1707040169,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 670138,
@@ -419,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 448887,
+      "num": 448887,
+      "word": "女子离婚冷静期间被丈夫杀害",
+      "onboard_time": 1707039391,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431676,
       "num": 265614,
       "word": "小品搭子 难看",
@@ -603,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324470,
-      "num": 324470,
-      "word": "女子离婚冷静期间被丈夫杀害",
-      "onboard_time": 1707039391,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323313,
       "num": 323313,
       "word": "中央气象台连发4预警",
@@ -667,8 +667,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316571,
-      "num": 316571,
+      "raw_hot": 316572,
+      "num": 316572,
       "word": "小义隐身",
       "onboard_time": 1707039688,
       "rank": 15,
@@ -731,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291771,
+      "num": 291771,
+      "word": "原神4.4版本",
+      "onboard_time": 1707041791,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289879,
       "num": 289879,
       "word": "春饼",
@@ -745,6 +753,14 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281471,
+      "num": 281471,
+      "word": "南京Hero 幽默",
+      "onboard_time": 1707041193,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 279834,
@@ -769,6 +785,14 @@
       "onboard_time": 1707008790,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276717,
+      "num": 276717,
+      "word": "世界之外新卡池",
+      "onboard_time": 1707041432,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 270315,
@@ -803,6 +827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 263738,
+      "num": 263738,
+      "word": "大年初三看封神",
+      "onboard_time": 1707042391,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260374,
       "num": 260374,
       "word": "创造营",
@@ -825,6 +857,14 @@
       "onboard_time": 1707025112,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251312,
+      "num": 251312,
+      "word": "梅西替补",
+      "onboard_time": 1707038253,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 250592,
@@ -891,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 242854,
-      "num": 242854,
-      "word": "梅西替补",
-      "onboard_time": 1707038253,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 238657,
       "num": 238657,
       "word": "Scout使用bug被处罚",
@@ -953,6 +985,22 @@
       "onboard_time": 1707022652,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 224333,
+      "num": 224333,
+      "word": "吃完头孢7天内不能喝酒",
+      "onboard_time": 1707042512,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224001,
+      "num": 224001,
+      "word": "邓紫棋与贝克汉姆合影",
+      "onboard_time": 1707040111,
+      "rank": 28,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 223662,
@@ -1011,6 +1059,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216029,
+      "num": 216029,
+      "word": "王睡睡新恋综",
+      "onboard_time": 1707037889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215582,
+      "num": 215582,
+      "word": "hero抢龙要靠辅助",
+      "onboard_time": 1707041670,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212419,
       "num": 137912,
       "word": "时代少年团变魔术",
@@ -1027,20 +1091,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208859,
+      "num": 1140931,
+      "word": "村民翻山越岭给滞留司机免费送吃喝",
+      "onboard_time": 1707040227,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208785,
       "num": 208785,
       "word": "原来小猫真的会装可爱",
       "onboard_time": 1707017732,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208731,
-      "num": 208731,
-      "word": "王睡睡新恋综",
-      "onboard_time": 1707037889,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 208346,
@@ -1083,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206040,
+      "num": 206040,
+      "word": "朱正廷问李权哲丢不丢人",
+      "onboard_time": 1707036811,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205835,
       "num": 205835,
       "word": "白敬亭红葫芦背包",
@@ -1123,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204156,
+      "num": 204156,
+      "word": "陈芋汐207C",
+      "onboard_time": 1707042391,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203411,
       "num": 203411,
       "word": "被困高速十几小时车主发声",
@@ -1131,28 +1211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203005,
-      "num": 203005,
-      "word": "邓紫棋与贝克汉姆合影",
-      "onboard_time": 1707040111,
-      "rank": 28,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 202621,
       "num": 202621,
       "word": "繁花剧组现身春晚第四次联排",
       "onboard_time": 1707022950,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202611,
-      "num": 202611,
-      "word": "世界之外新卡池",
-      "onboard_time": 1707041432,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 200958,
@@ -1169,14 +1233,6 @@
       "onboard_time": 1707026611,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199401,
-      "num": 199401,
-      "word": "南京Hero 幽默",
-      "onboard_time": 1707041193,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 198343,
@@ -1291,12 +1347,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 180292,
-      "num": 180292,
-      "word": "朱正廷问李权哲丢不丢人",
-      "onboard_time": 1707036811,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 180739,
+      "num": 824515,
+      "word": "男子车祸昏迷护士雪地抢救半小时",
+      "onboard_time": 1707040227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 178918,
@@ -1355,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174377,
+      "num": 174377,
+      "word": "御赐小仵作2备案",
+      "onboard_time": 1707042391,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173185,
       "num": 173185,
       "word": "小沈阳 这场演唱会等了十五年",
@@ -1387,6 +1451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165432,
+      "num": 165432,
+      "word": "林亦扬殷果冰箱吻",
+      "onboard_time": 1707039451,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165220,
+      "num": 165220,
+      "word": "梅西未进大名单",
+      "onboard_time": 1707042631,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165108,
       "num": 165108,
       "word": "冰墩墩我想你了",
@@ -1403,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164031,
+      "num": 164031,
+      "word": "小狗自己困了还要哄小熊睡觉",
+      "onboard_time": 1707038854,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163533,
       "num": 163533,
       "word": "致命游戏",
@@ -1417,14 +1505,6 @@
       "onboard_time": 1706965771,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160859,
-      "num": 1140931,
-      "word": "村民翻山越岭给滞留司机免费送吃喝",
-      "onboard_time": 1707040227,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160494,
@@ -1475,12 +1555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155837,
-      "num": 155837,
-      "word": "林亦扬殷果冰箱吻",
-      "onboard_time": 1707039451,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 155537,
+      "num": 155537,
+      "word": "00后开始整顿酒局",
+      "onboard_time": 1707041850,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 155196,
@@ -1539,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149831,
-      "num": 149831,
-      "word": "原神4.4版本",
-      "onboard_time": 1707041791,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149051,
       "num": 149051,
       "word": "新年接龙大会",
@@ -1595,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143446,
-      "num": 143446,
-      "word": "小狗自己困了还要哄小熊睡觉",
-      "onboard_time": 1707038854,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142915,
       "num": 125859,
       "word": "檀健次第一个出场",
       "onboard_time": 1706970511,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140593,
+      "num": 140593,
+      "word": "当水母不小心困在了气泡环中",
+      "onboard_time": 1707041850,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 139836,
@@ -1659,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137715,
+      "num": 588680,
+      "word": "女孩雨雪天用手为女警暖耳朵",
+      "onboard_time": 1707040227,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136980,
       "num": 136980,
       "word": "小龙人大赛接龙",
@@ -1707,6 +1787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132456,
+      "num": 132456,
+      "word": "南航就武汉机场大面积延误致歉",
+      "onboard_time": 1707042692,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132449,
       "num": 132449,
       "word": "如果侦探小说的主角是真正的凶手",
@@ -1721,14 +1809,6 @@
       "onboard_time": 1707035131,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131268,
-      "num": 131268,
-      "word": "hero抢龙要靠辅助",
-      "onboard_time": 1707041670,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 130232,
@@ -1763,12 +1843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125607,
-      "num": 726101,
-      "word": "男子车祸昏迷护士雪地抢救半小时",
-      "onboard_time": 1707040227,
-      "rank": 4,
-      "category": "社会正能量"
+      "raw_hot": 124981,
+      "num": 124981,
+      "word": "Scout的沙皇",
+      "onboard_time": 1707041912,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124874,
@@ -2003,14 +2083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 101783,
-      "num": 588680,
-      "word": "女孩雨雪天用手为女警暖耳朵",
-      "onboard_time": 1707040227,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100204,
       "num": 137897,
       "word": "中国队本届游泳世锦赛首金",
@@ -2241,6 +2313,14 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37603,
+      "num": 216158,
+      "word": "来左边一起跟老舅画个龙",
+      "onboard_time": 1707041912,
+      "rank": 27,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 36920,
