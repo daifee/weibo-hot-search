@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707074077421,
+  "endTime": 1707075241111,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -12043,6 +12043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48297,
+      "num": 48297,
+      "word": "杨千嬅快把冷门歌唱热了",
+      "onboard_time": 1707072556,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 48097,
       "num": 48097,
       "word": "这种蔬菜的含钙量约是牛奶的3倍",
@@ -12073,14 +12081,6 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 45326,
-      "num": 45326,
-      "word": "杨千嬅快把冷门歌唱热了",
-      "onboard_time": 1707072556,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 44698,
@@ -12489,6 +12489,14 @@
       "onboard_time": 1706731816,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15415,
+      "num": 15415,
+      "word": "一吃火锅就拉肚子正常吗",
+      "onboard_time": 1707075075,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15209,

@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707074077421,
+  "endTime": 1707075241111,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -467,8 +467,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 45326,
-      "num": 45326,
+      "raw_hot": 48297,
+      "num": 48297,
       "word": "杨千嬅快把冷门歌唱热了",
       "onboard_time": 1707072556,
       "rank": 15,
@@ -505,6 +505,14 @@
       "onboard_time": 1707058714,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15415,
+      "num": 15415,
+      "word": "一吃火锅就拉肚子正常吗",
+      "onboard_time": 1707075075,
+      "rank": 46,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

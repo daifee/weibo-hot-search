@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707074077421,
+  "endTime": 1707075241111,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -3219,6 +3219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48297,
+      "num": 48297,
+      "word": "杨千嬅快把冷门歌唱热了",
+      "onboard_time": 1707072556,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46747,
       "num": 35946,
       "word": "在暴雪时分",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 45326,
-      "num": 45326,
-      "word": "杨千嬅快把冷门歌唱热了",
-      "onboard_time": 1707072556,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 44698,
@@ -3385,6 +3385,14 @@
       "onboard_time": 1706989457,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15415,
+      "num": 15415,
+      "word": "一吃火锅就拉肚子正常吗",
+      "onboard_time": 1707075075,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 10350,
