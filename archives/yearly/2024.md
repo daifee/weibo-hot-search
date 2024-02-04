@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/04 19:13:36
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/04 19:34:18
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23" target="weibo">
+吃完头孢7天内不能喝酒（热度：2775213）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B4%A9%E4%BA%86%23" target="weibo">
 麦当劳崩了（热度：2772422）
 </a>
@@ -521,12 +527,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%87%91%23" target="weibo">
 霍金（热度：2633377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23" target="weibo">
-吃完头孢7天内不能喝酒（热度：2629730）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707045216853,
+  "endTime": 1707046458142,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -59,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2775213,
+      "num": 2775213,
+      "word": "吃完头孢7天内不能喝酒",
+      "onboard_time": 1707042512,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2771728,
       "num": 2771728,
       "word": "致命游戏下架",
       "onboard_time": 1706873973,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2629730,
-      "num": 2629730,
-      "word": "吃完头孢7天内不能喝酒",
-      "onboard_time": 1707042512,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2501607,
@@ -1267,6 +1267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 748894,
+      "num": 748894,
+      "word": "大年初三看封神",
+      "onboard_time": 1707042391,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 746279,
       "num": 746279,
       "word": "7成中国人可能是河南人",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1706870130,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 672932,
+      "num": 598773,
+      "word": "李如平去世",
+      "onboard_time": 1707044312,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 671206,
@@ -1729,14 +1745,6 @@
       "onboard_time": 1706866291,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 609247,
-      "num": 609247,
-      "word": "大年初三看封神",
-      "onboard_time": 1707042391,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 605235,
@@ -2483,6 +2491,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 464032,
+      "num": 464032,
+      "word": "王者荣耀",
+      "onboard_time": 1706762913,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 461741,
       "num": 461741,
       "word": "生育损伤是人类注定的吗",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1706795974,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 436040,
-      "num": 436040,
-      "word": "李如平去世",
-      "onboard_time": 1707044312,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 432521,
@@ -2873,14 +2881,6 @@
       "onboard_time": 1706953106,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410619,
-      "num": 410619,
-      "word": "王者荣耀",
-      "onboard_time": 1706762913,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 409908,
@@ -3147,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381611,
+      "num": 381611,
+      "word": "领导三年压力走了13个人",
+      "onboard_time": 1707045452,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381158,
       "num": 381158,
       "word": "南京Hero 幽默",
@@ -3267,6 +3275,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 370185,
+      "num": 370185,
+      "word": "谁让吴磊穿这样打球的",
+      "onboard_time": 1707044433,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369808,
       "num": 496358,
       "word": "K4186全车一起救了个人",
@@ -3339,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364445,
+      "num": 364445,
+      "word": "少爷和我",
+      "onboard_time": 1707044133,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364344,
       "num": 364344,
       "word": "纪思清结婚",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1706858132,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359821,
+      "num": 359821,
+      "word": "林亦扬 假的",
+      "onboard_time": 1707045152,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 358560,
@@ -3619,6 +3651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 331133,
+      "num": 331133,
+      "word": "GOODBAI致歉",
+      "onboard_time": 1707034469,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 330150,
       "num": 330150,
       "word": "1岁外孙来家外公急忙砍竹子做围墙",
@@ -3769,14 +3809,6 @@
       "onboard_time": 1706953829,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319134,
-      "num": 319134,
-      "word": "GOODBAI致歉",
-      "onboard_time": 1707034469,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 318954,
@@ -4219,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283614,
-      "num": 283614,
-      "word": "谁让吴磊穿这样打球的",
-      "onboard_time": 1707044433,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -4539,14 +4563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262762,
-      "num": 262762,
-      "word": "少爷和我",
-      "onboard_time": 1707044133,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262332,
       "num": 262332,
       "word": "迪丽热巴成都活动人气",
@@ -4633,6 +4649,14 @@
       "onboard_time": 1706941110,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258296,
+      "num": 2268422,
+      "word": "男子车祸昏迷护士雪地抢救半小时",
+      "onboard_time": 1707040227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 258211,
@@ -4931,6 +4955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238675,
+      "num": 238675,
+      "word": "安琪拉龙限 史诗",
+      "onboard_time": 1707045812,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238657,
       "num": 238657,
       "word": "Scout使用bug被处罚",
@@ -5001,6 +5033,14 @@
       "onboard_time": 1706799393,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236106,
+      "num": 236106,
+      "word": "王者荣耀龙限皮肤",
+      "onboard_time": 1707045568,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 235980,
@@ -5080,6 +5120,14 @@
       "word": "老师我们光渊呢",
       "onboard_time": 1706872470,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233378,
+      "num": 233378,
+      "word": "五十度暴雪",
+      "onboard_time": 1707046111,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -5505,6 +5553,14 @@
       "onboard_time": 1706882492,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 219213,
+      "num": 219213,
+      "word": "要久久爱",
+      "onboard_time": 1706888012,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 218375,
@@ -6187,14 +6243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200869,
-      "num": 1134131,
-      "word": "男子车祸昏迷护士雪地抢救半小时",
-      "onboard_time": 1707040227,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 200844,
       "num": 200844,
       "word": "网络视听盛典红毯",
@@ -6523,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "梅西缺战中国香港明星队",
+      "onboard_time": 1707044070,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192721,
       "num": 192721,
       "word": "花儿与少年RAP",
@@ -6729,6 +6785,14 @@
       "onboard_time": 1706859032,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "杨鸣 辽宁男篮",
+      "onboard_time": 1707046172,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189066,
@@ -7153,14 +7217,6 @@
       "onboard_time": 1706756191,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179404,
-      "num": 179404,
-      "word": "梅西缺战中国香港明星队",
-      "onboard_time": 1707044070,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 179311,
@@ -8371,6 +8427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151244,
+      "num": 761165,
+      "word": "女孩雨雪天用手为女警暖耳朵",
+      "onboard_time": 1707040227,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "虞书欣叫自己鲸鱼辣妹",
@@ -8553,6 +8617,14 @@
       "onboard_time": 1706879069,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146809,
+      "num": 146809,
+      "word": "红黄蓝可以调出这么多颜色",
+      "onboard_time": 1707045632,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 146781,
@@ -8819,6 +8891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140300,
+      "num": 140300,
+      "word": "评论区乱得像我的人生",
+      "onboard_time": 1707046054,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139907,
       "num": 139907,
       "word": "龙年限定系列皮肤龙祐千载",
@@ -8913,14 +8993,6 @@
       "onboard_time": 1706780013,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 137715,
-      "num": 761165,
-      "word": "女孩雨雪天用手为女警暖耳朵",
-      "onboard_time": 1707040227,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137563,
@@ -9185,14 +9257,6 @@
       "onboard_time": 1706886751,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133062,
-      "num": 133062,
-      "word": "林亦扬 假的",
-      "onboard_time": 1707045152,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 133007,
@@ -9467,6 +9531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128757,
+      "num": 128757,
+      "word": "檀健次因为喜欢西游记还学过武术",
+      "onboard_time": 1707046351,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128612,
       "num": 745714,
       "word": "故宫龙纹壁纸太美了",
@@ -9489,6 +9561,14 @@
       "onboard_time": 1706772870,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128442,
+      "num": 128442,
+      "word": "警方通报奔驰加塞事件疑涉套牌",
+      "onboard_time": 1707046411,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128260,
@@ -10065,14 +10145,6 @@
       "onboard_time": 1706967871,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113686,
-      "num": 113686,
-      "word": "要久久爱",
-      "onboard_time": 1706888012,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 113678,
@@ -11451,6 +11523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29614,
+      "num": 2489984,
+      "word": "年俗里品年味",
+      "onboard_time": 1707028828,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29242,
       "num": 895422,
       "word": "王亚平说回家过年感觉良好",
@@ -11531,6 +11611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22084,
+      "num": 430834,
+      "word": "蛋仔春节版本前瞻直播",
+      "onboard_time": 1707044433,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22079,
       "num": 199454,
       "word": "雷军宣布王腾接任Redmi品牌总经理",
@@ -11544,14 +11632,6 @@
       "word": "以爱相连健康年",
       "onboard_time": 1706868153,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20864,
-      "num": 2489984,
-      "word": "年俗里品年味",
-      "onboard_time": 1707028828,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11569,14 +11649,6 @@
       "onboard_time": 1706989457,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17303,
-      "num": 430834,
-      "word": "蛋仔春节版本前瞻直播",
-      "onboard_time": 1707044433,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 17254,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707046458142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2775213,
+        "num": 2775213,
+        "word": "吃完头孢7天内不能喝酒",
+        "onboard_time": 1707042512,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258296,
+        "num": 2268422,
+        "word": "男子车祸昏迷护士雪地抢救半小时",
+        "onboard_time": 1707040227,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 29614,
+        "num": 2061396,
+        "word": "年俗里品年味",
+        "onboard_time": 1707028828,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1938323,
+        "num": 1938323,
+        "word": "杨波报平安",
+        "onboard_time": 1707037290,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172929,
+        "num": 938058,
+        "word": "村民翻山越岭给滞留司机免费送吃喝",
+        "onboard_time": 1707040227,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757869,
+        "num": 757869,
+        "word": "印度女星为假死道歉",
+        "onboard_time": 1707040169,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151244,
+        "num": 750511,
+        "word": "女孩雨雪天用手为女警暖耳朵",
+        "onboard_time": 1707040227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1600306,
+        "num": 750380,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748894,
+        "num": 748894,
+        "word": "大年初三看封神",
+        "onboard_time": 1707042391,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 603967,
+        "num": 603967,
+        "word": "女子离婚冷静期间被丈夫杀害",
+        "onboard_time": 1707039391,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672932,
+        "num": 598773,
+        "word": "李如平去世",
+        "onboard_time": 1707044312,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516886,
+        "num": 516886,
+        "word": "拖米 小义",
+        "onboard_time": 1707043833,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 464032,
+        "num": 464032,
+        "word": "王者荣耀",
+        "onboard_time": 1707044433,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 458873,
+        "num": 458873,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22084,
+        "num": 409916,
+        "word": "蛋仔春节版本前瞻直播",
+        "onboard_time": 1707044433,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381611,
+        "num": 381611,
+        "word": "领导三年压力走了13个人",
+        "onboard_time": 1707045452,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370185,
+        "num": 370185,
+        "word": "谁让吴磊穿这样打球的",
+        "onboard_time": 1707044433,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364445,
+        "num": 364445,
+        "word": "少爷和我",
+        "onboard_time": 1707044133,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359821,
+        "num": 359821,
+        "word": "林亦扬 假的",
+        "onboard_time": 1707045152,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357807,
+        "num": 357807,
+        "word": "陈芋汐207C",
+        "onboard_time": 1707042391,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351064,
+        "num": 351064,
+        "word": "佟梦实是五竹叔",
+        "onboard_time": 1707028651,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331133,
+        "num": 331133,
+        "word": "GOODBAI致歉",
+        "onboard_time": 1707034469,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 321525,
+        "num": 321525,
+        "word": "专家称调休时很多人在假装上班",
+        "onboard_time": 1707023193,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308019,
+        "num": 308019,
+        "word": "韩籍博士称中国电子支付需改进",
+        "onboard_time": 1707029067,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244919,
+        "num": 244919,
+        "word": "南京Hero 幽默",
+        "onboard_time": 1707041193,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238675,
+        "num": 238675,
+        "word": "安琪拉龙限 史诗",
+        "onboard_time": 1707045812,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236106,
+        "num": 236106,
+        "word": "王者荣耀龙限皮肤",
+        "onboard_time": 1707045568,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233378,
+        "num": 233378,
+        "word": "五十度暴雪",
+        "onboard_time": 1707046111,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232359,
+        "num": 232359,
+        "word": "美甲也有了自己的光腿神器",
+        "onboard_time": 1707043530,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219213,
+        "num": 219213,
+        "word": "要久久爱",
+        "onboard_time": 1707045333,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212052,
+        "num": 212052,
+        "word": "美邦创始人回应女儿7年亏损32亿",
+        "onboard_time": 1707039631,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206855,
+        "num": 206855,
+        "word": "南航就武汉机场大面积延误致歉",
+        "onboard_time": 1707042692,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192732,
+        "num": 192732,
+        "word": "梅西缺战中国香港明星队",
+        "onboard_time": 1707044070,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189117,
+        "num": 189117,
+        "word": "杨鸣 辽宁男篮",
+        "onboard_time": 1707046172,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187540,
+        "num": 187540,
+        "word": "御赐小仵作2备案",
+        "onboard_time": 1707042391,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173072,
+        "num": 173072,
+        "word": "王者荣耀孙尚香新皮肤",
+        "onboard_time": 1707034591,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172563,
+        "num": 172563,
+        "word": "蔡徐坤PORT开季封面",
+        "onboard_time": 1707043891,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 166621,
+        "word": "大乔乘龙忆丹青新皮肤",
+        "onboard_time": 1707035911,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158995,
+        "num": 158995,
+        "word": "双硫仑样反应",
+        "onboard_time": 1707044792,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 154371,
+        "word": "全红婵晋级半决赛",
+        "onboard_time": 1707044672,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10477,
+        "num": 151716,
+        "word": "王者荣耀爆改地铁",
+        "onboard_time": 1707042991,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150860,
+        "num": 150860,
+        "word": "李庚希张婧仪 对眼睛好",
+        "onboard_time": 1707036330,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147411,
+        "num": 147411,
+        "word": "小义隐身",
+        "onboard_time": 1707039688,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146809,
+        "num": 146809,
+        "word": "红黄蓝可以调出这么多颜色",
+        "onboard_time": 1707045632,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140300,
+        "num": 140300,
+        "word": "评论区乱得像我的人生",
+        "onboard_time": 1707046054,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137560,
+        "num": 137560,
+        "word": "贾静雯女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1707019533,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128764,
+        "num": 128764,
+        "word": "周深又穿了半永久春晚羽绒服",
+        "onboard_time": 1707030329,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128757,
+        "num": 128757,
+        "word": "檀健次因为喜欢西游记还学过武术",
+        "onboard_time": 1707046351,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128442,
+        "num": 128442,
+        "word": "警方通报奔驰加塞事件疑涉套牌",
+        "onboard_time": 1707046411,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128411,
+        "num": 128411,
+        "word": "VG零封Hero",
+        "onboard_time": 1707044250,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记给全国人民拜年#"
+    }
+  }
+}

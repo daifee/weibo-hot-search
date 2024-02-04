@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707045216853,
+  "endTime": 1707046458142,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2629730,
-      "num": 2629730,
+      "raw_hot": 2775213,
+      "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
       "onboard_time": 1707042512,
       "rank": 23,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748894,
+      "num": 748894,
+      "word": "大年初三看封神",
+      "onboard_time": 1707042391,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 738596,
       "num": 738596,
       "word": "躲春",
@@ -249,6 +257,14 @@
       "onboard_time": 1707019411,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672932,
+      "num": 598773,
+      "word": "李如平去世",
+      "onboard_time": 1707044312,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 670138,
@@ -289,14 +305,6 @@
       "onboard_time": 1707021874,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609247,
-      "num": 609247,
-      "word": "大年初三看封神",
-      "onboard_time": 1707042391,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 601025,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464032,
+      "num": 464032,
+      "word": "王者荣耀",
+      "onboard_time": 1707044433,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 460183,
       "num": 460183,
       "word": "电影西游记真假美猴王官宣",
@@ -451,14 +467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 436040,
-      "num": 436040,
-      "word": "李如平去世",
-      "onboard_time": 1707044312,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431676,
       "num": 265614,
       "word": "小品搭子 难看",
@@ -489,14 +497,6 @@
       "onboard_time": 1706974171,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410619,
-      "num": 410619,
-      "word": "王者荣耀",
-      "onboard_time": 1707044433,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 409908,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381611,
+      "num": 381611,
+      "word": "领导三年压力走了13个人",
+      "onboard_time": 1707045452,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381158,
       "num": 381158,
       "word": "南京Hero 幽默",
@@ -603,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370185,
+      "num": 370185,
+      "word": "谁让吴磊穿这样打球的",
+      "onboard_time": 1707044433,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366187,
       "num": 366187,
       "word": "暗送邱波",
       "onboard_time": 1707009688,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364445,
+      "num": 364445,
+      "word": "少爷和我",
+      "onboard_time": 1707044133,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 362280,
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359821,
+      "num": 359821,
+      "word": "林亦扬 假的",
+      "onboard_time": 1707045152,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341700,
       "num": 341700,
       "word": "美邦创始人回应女儿7年亏损32亿",
@@ -641,6 +673,14 @@
       "onboard_time": 1706985739,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331133,
+      "num": 331133,
+      "word": "GOODBAI致歉",
+      "onboard_time": 1707034469,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 330643,
@@ -689,14 +729,6 @@
       "onboard_time": 1706972254,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319134,
-      "num": 319134,
-      "word": "GOODBAI致歉",
-      "onboard_time": 1707034469,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 318954,
@@ -819,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283614,
-      "num": 283614,
-      "word": "谁让吴磊穿这样打球的",
-      "onboard_time": 1707044433,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "王者荣耀孙尚香新皮肤",
@@ -891,14 +915,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 262762,
-      "num": 262762,
-      "word": "少爷和我",
-      "onboard_time": 1707044133,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260374,
       "num": 260374,
       "word": "创造营",
@@ -913,6 +929,14 @@
       "onboard_time": 1707023611,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258296,
+      "num": 2268422,
+      "word": "男子车祸昏迷护士雪地抢救半小时",
+      "onboard_time": 1707040227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 256963,
@@ -1011,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238675,
+      "num": 238675,
+      "word": "安琪拉龙限 史诗",
+      "onboard_time": 1707045812,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238657,
       "num": 238657,
       "word": "Scout使用bug被处罚",
@@ -1027,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236106,
+      "num": 236106,
+      "word": "王者荣耀龙限皮肤",
+      "onboard_time": 1707045568,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235434,
       "num": 216794,
       "word": "郭富城谈方媛参加综艺节目",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1706967214,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233378,
+      "num": 233378,
+      "word": "五十度暴雪",
+      "onboard_time": 1707046111,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 232702,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1707017192,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219213,
+      "num": 219213,
+      "word": "要久久爱",
+      "onboard_time": 1707045333,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 218053,
@@ -1315,14 +1371,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200869,
-      "num": 1134131,
-      "word": "男子车祸昏迷护士雪地抢救半小时",
-      "onboard_time": 1707040227,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 200089,
       "num": 200089,
       "word": "A股2666点到底了吗",
@@ -1387,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "梅西缺战中国香港明星队",
+      "onboard_time": 1707044070,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192309,
       "num": 192309,
       "word": "成毅杂志",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1707015989,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "杨鸣 辽宁男篮",
+      "onboard_time": 1707046172,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 188182,
@@ -1465,14 +1529,6 @@
       "onboard_time": 1707013950,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 179404,
-      "num": 179404,
-      "word": "梅西缺战中国香港明星队",
-      "onboard_time": 1707044070,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 178918,
@@ -1723,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151244,
+      "num": 761165,
+      "word": "女孩雨雪天用手为女警暖耳朵",
+      "onboard_time": 1707040227,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150808,
       "num": 125231,
       "word": "将进酒回来了",
@@ -1763,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146809,
+      "num": 146809,
+      "word": "红黄蓝可以调出这么多颜色",
+      "onboard_time": 1707045632,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146062,
       "num": 146062,
       "word": "詹姆斯拒绝回应合同问题",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1707041850,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140300,
+      "num": 140300,
+      "word": "评论区乱得像我的人生",
+      "onboard_time": 1707046054,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 139836,
@@ -1851,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137715,
-      "num": 761165,
-      "word": "女孩雨雪天用手为女警暖耳朵",
-      "onboard_time": 1707040227,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136980,
       "num": 136980,
       "word": "小龙人大赛接龙",
@@ -1899,14 +1971,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 133062,
-      "num": 133062,
-      "word": "林亦扬 假的",
-      "onboard_time": 1707045152,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132515,
       "num": 409630,
       "word": "霸王茶姬杯子寓意",
@@ -1945,6 +2009,22 @@
       "onboard_time": 1707038132,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128757,
+      "num": 128757,
+      "word": "檀健次因为喜欢西游记还学过武术",
+      "onboard_time": 1707046351,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128442,
+      "num": 128442,
+      "word": "警方通报奔驰加塞事件疑涉套牌",
+      "onboard_time": 1707046411,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128078,
@@ -2451,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29614,
+      "num": 2489984,
+      "word": "年俗里品年味",
+      "onboard_time": 1707028828,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29251,
       "num": 1039121,
       "word": "2024网络视听盛典",
@@ -2475,20 +2563,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22084,
+      "num": 430834,
+      "word": "蛋仔春节版本前瞻直播",
+      "onboard_time": 1707044433,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21166,
       "num": 23115,
       "word": "亚洲杯",
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20864,
-      "num": 2489984,
-      "word": "年俗里品年味",
-      "onboard_time": 1707028828,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18671,
@@ -2505,14 +2593,6 @@
       "onboard_time": 1706989457,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17303,
-      "num": 430834,
-      "word": "蛋仔春节版本前瞻直播",
-      "onboard_time": 1707044433,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 10350,
