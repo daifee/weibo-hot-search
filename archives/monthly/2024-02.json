@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707052769874,
+  "endTime": 1707053634381,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -1875,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591243,
+      "num": 591243,
+      "word": "1万亿利好明日落地",
+      "onboard_time": 1707050254,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 590259,
       "num": 673056,
       "word": "美军空袭伊拉克叙利亚",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1707012691,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 586097,
-      "num": 586097,
-      "word": "1万亿利好明日落地",
-      "onboard_time": 1707050254,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 581600,
@@ -2129,6 +2129,14 @@
       "onboard_time": 1706767949,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 543910,
+      "num": 543910,
+      "word": "董璇自曝被撮合圈内相亲",
+      "onboard_time": 1707052230,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 543361,
@@ -2747,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438819,
+      "num": 438819,
+      "word": "小沈阳沈春阳",
+      "onboard_time": 1707051334,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 437451,
       "num": 274293,
       "word": "为啥车厘子1月价格比11月低那么多",
@@ -3313,6 +3329,14 @@
       "onboard_time": 1706959352,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375120,
+      "num": 375120,
+      "word": "狗剩快跑",
+      "onboard_time": 1707050553,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 374587,
@@ -4003,14 +4027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310218,
-      "num": 310218,
-      "word": "狗剩快跑",
-      "onboard_time": 1707050553,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310085,
       "num": 310085,
       "word": "男子嫌老婆花钱多看到购物袋后破防",
@@ -4531,14 +4547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274195,
-      "num": 274195,
-      "word": "小沈阳沈春阳",
-      "onboard_time": 1707051334,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 273510,
       "num": 182744,
       "word": "迪丽热巴红色刺绣吊带裙",
@@ -4977,14 +4985,6 @@
       "onboard_time": 1707014972,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246018,
-      "num": 210715,
-      "word": "董璇自曝被撮合圈内相亲",
-      "onboard_time": 1707052230,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 245979,
@@ -6043,6 +6043,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207119,
+      "num": 207119,
+      "word": "过年让减肥欲达到巅峰了",
+      "onboard_time": 1707051451,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 207029,
+      "num": 207029,
+      "word": "朱琳亚军",
+      "onboard_time": 1707052291,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206985,
       "num": 171260,
       "word": "檀健次玫瑰胸针",
@@ -6195,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204808,
+      "num": 204808,
+      "word": "KSG教练",
+      "onboard_time": 1707052595,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204805,
       "num": 201825,
       "word": "以闪亮之名福鹿迎春",
@@ -6209,6 +6233,14 @@
       "onboard_time": 1706782171,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204660,
+      "num": 204660,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 204644,
@@ -6828,7 +6860,7 @@
     },
     {
       "raw_hot": 191981,
-      "num": 163766,
+      "num": 167364,
       "word": "波斯猫舞台",
       "onboard_time": 1707052174,
       "rank": 30,
@@ -7627,14 +7659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174694,
-      "num": 174694,
-      "word": "过年让减肥欲达到巅峰了",
-      "onboard_time": 1707051451,
-      "rank": 28,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 174598,
       "num": 162267,
       "word": "10种被吹上天的伪健康食物",
@@ -7729,6 +7753,14 @@
       "onboard_time": 1706869410,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173074,
+      "num": 173074,
+      "word": "去爱一个本身就很好的人",
+      "onboard_time": 1707052953,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 173058,
@@ -8379,14 +8411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157045,
-      "num": 157045,
-      "word": "KSG教练",
-      "onboard_time": 1707052595,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156919,
       "num": 156919,
       "word": "古人会迎春而不是躲春",
@@ -8441,14 +8465,6 @@
       "onboard_time": 1707041850,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155340,
-      "num": 155340,
-      "word": "朱琳亚军",
-      "onboard_time": 1707052291,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 155253,
@@ -8561,6 +8577,14 @@
       "onboard_time": 1706868092,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153588,
+      "num": 153588,
+      "word": "南航",
+      "onboard_time": 1707053253,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153382,
@@ -8857,14 +8881,6 @@
       "onboard_time": 1706765730,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147000,
-      "num": 136789,
-      "word": "格莱美",
-      "onboard_time": 1707052412,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 146994,
@@ -9299,6 +9315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137219,
+      "num": 137219,
+      "word": "WBG战胜RNG",
+      "onboard_time": 1707053313,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137216,
       "num": 137216,
       "word": "广东人的墙都流汗了",
@@ -9632,6 +9656,14 @@
       "word": "目击者还原奔驰男砸车经过",
       "onboard_time": 1707035131,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132346,
+      "num": 132346,
+      "word": "女子买刮刮乐兑奖却被撕彩票",
+      "onboard_time": 1707053194,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -10129,6 +10161,14 @@
       "onboard_time": 1706782472,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "KSG对战TTG",
+      "onboard_time": 1707050912,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 122307,
@@ -10633,6 +10673,14 @@
       "onboard_time": 1707005848,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110382,
+      "num": 110382,
+      "word": "没有任何一个饺子被浪费",
+      "onboard_time": 1707053616,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 110346,
@@ -11523,6 +11571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52724,
+      "num": 1095544,
+      "word": "解锁龙年各地年味儿",
+      "onboard_time": 1707051152,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52171,
       "num": 52171,
       "word": "36个女大学生演活了汉宫春晓图",
@@ -11609,14 +11665,6 @@
       "onboard_time": 1706843012,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48182,
-      "num": 1095544,
-      "word": "解锁龙年各地年味儿",
-      "onboard_time": 1707051152,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48097,
