@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707050569210,
+  "endTime": 1707052769874,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1463867,
+      "num": 1463867,
+      "word": "网友自曝被举报作弊取消考研政治成绩",
+      "onboard_time": 1707047612,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1202149,
       "num": 1202149,
       "word": "宝妈进群刷单5天被骗580万",
@@ -81,14 +89,6 @@
       "onboard_time": 1707017551,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1192456,
-      "num": 1192456,
-      "word": "网友自曝被举报作弊取消考研政治成绩",
-      "onboard_time": 1707047612,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1169126,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092186,
+      "num": 1092186,
+      "word": "福建高速发生交通事故7人死亡",
+      "onboard_time": 1707049354,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077437,
       "num": 926420,
       "word": "因为彩礼我和相恋8年的男友分手了",
@@ -153,14 +161,6 @@
       "onboard_time": 1707002481,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1012164,
-      "num": 1012164,
-      "word": "福建高速发生交通事故7人死亡",
-      "onboard_time": 1707049354,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 956046,
@@ -217,6 +217,14 @@
       "onboard_time": 1707046411,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839608,
+      "num": 839608,
+      "word": "蓝盈莹否认整容",
+      "onboard_time": 1707049893,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 839398,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662462,
+      "num": 662462,
+      "word": "玄彬孙艺珍方否认购新房",
+      "onboard_time": 1707049954,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655733,
       "num": 655733,
       "word": "奔驰男砸车前被白车顶了一下",
@@ -377,6 +393,14 @@
       "onboard_time": 1707012691,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586097,
+      "num": 586097,
+      "word": "1万亿利好明日落地",
+      "onboard_time": 1707050254,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 579021,
@@ -571,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410149,
-      "num": 410149,
-      "word": "蓝盈莹否认整容",
-      "onboard_time": 1707049893,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "高铁晚点",
@@ -611,12 +627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 398766,
-      "num": 398766,
-      "word": "玄彬孙艺珍方否认购新房",
+      "raw_hot": 400489,
+      "num": 400489,
+      "word": "Xiaohu偷家RNG",
       "onboard_time": 1707049954,
-      "rank": 13,
-      "category": "艺人"
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 398312,
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310218,
+      "num": 310218,
+      "word": "狗剩快跑",
+      "onboard_time": 1707050553,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -979,6 +1003,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274195,
+      "num": 274195,
+      "word": "小沈阳沈春阳",
+      "onboard_time": 1707051334,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 271740,
+      "num": 271740,
+      "word": "六小龄童马德华合作新电影",
+      "onboard_time": 1707050254,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 270315,
       "num": 159277,
       "word": "买车厘子不能只看几个J",
@@ -1027,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259152,
-      "num": 259152,
-      "word": "六小龄童马德华合作新电影",
-      "onboard_time": 1707050254,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 258296,
       "num": 2268422,
       "word": "男子车祸昏迷护士雪地抢救半小时",
@@ -1075,14 +1107,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 249988,
-      "num": 200492,
-      "word": "Xiaohu偷家RNG",
-      "onboard_time": 1707049954,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 249431,
       "num": 249431,
       "word": "A股",
@@ -1099,20 +1123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247162,
-      "num": 247162,
-      "word": "1万亿利好明日落地",
-      "onboard_time": 1707050254,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 246550,
       "num": 246550,
       "word": "吴磊星汉胸肌vs暴雪背肌",
       "onboard_time": 1707014972,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246018,
+      "num": 210715,
+      "word": "董璇自曝被撮合圈内相亲",
+      "onboard_time": 1707052230,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 245631,
@@ -1355,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210425,
+      "num": 210425,
+      "word": "委屈你了英子",
+      "onboard_time": 1707048571,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208859,
       "num": 2528932,
       "word": "村民翻山越岭给滞留司机免费送吃喝",
@@ -1515,14 +1547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 197745,
-      "num": 197745,
-      "word": "委屈你了英子",
-      "onboard_time": 1707048571,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197473,
       "num": 197473,
       "word": "杨洋空中环绕四圈半",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1707020251,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191981,
+      "num": 163766,
+      "word": "波斯猫舞台",
+      "onboard_time": 1707052174,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 191965,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1706972374,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174694,
+      "num": 174694,
+      "word": "过年让减肥欲达到巅峰了",
+      "onboard_time": 1707051451,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 174525,
@@ -1891,6 +1931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "KSG教练",
+      "onboard_time": 1707052595,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156919,
       "num": 156919,
       "word": "古人会迎春而不是躲春",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1707041850,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155340,
+      "num": 155340,
+      "word": "朱琳亚军",
+      "onboard_time": 1707052291,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 155196,
@@ -2019,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147000,
+      "num": 136789,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146809,
       "num": 146809,
       "word": "红黄蓝可以调出这么多颜色",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1707046351,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140958,
+      "num": 140958,
+      "word": "梦之泪虎",
+      "onboard_time": 1707051753,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 140593,
@@ -2219,12 +2291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131327,
-      "num": 128816,
-      "word": "狗剩快跑",
-      "onboard_time": 1707050553,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 131671,
+      "num": 131671,
+      "word": "Flandre和Scout拥抱",
+      "onboard_time": 1707051091,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130232,
@@ -2241,6 +2313,14 @@
       "onboard_time": 1707038132,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128187,
+      "num": 128187,
+      "word": "多子女家庭",
+      "onboard_time": 1707051152,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 128078,
@@ -2363,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115042,
+      "num": 115042,
+      "word": "Lulu回应黄子佼复出传闻",
+      "onboard_time": 1707051510,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113946,
       "num": 113946,
       "word": "澡堂异闻录",
@@ -2393,6 +2481,14 @@
       "onboard_time": 1706997977,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111125,
+      "num": 111125,
+      "word": "南方暴雪冰冻救援",
+      "onboard_time": 1707051033,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110516,
@@ -2691,6 +2787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48182,
+      "num": 1095544,
+      "word": "解锁龙年各地年味儿",
+      "onboard_time": 1707051152,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46747,
       "num": 35946,
       "word": "在暴雪时分",
@@ -2847,6 +2951,9 @@
     },
     {
       "word": "#总书记给全国人民拜年#"
+    },
+    {
+      "word": "#总书记春节前夕考察的那些乡村#"
     }
   ]
 }
