@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707032043663,
+  "endTime": 1707034808174,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1162248,
+      "num": 1162248,
+      "word": "宝妈进群刷单5天被骗580万",
+      "onboard_time": 1707021752,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1154564,
       "num": 1154564,
       "word": "贾静雯女儿梧桐妹戴唇环舌环",
@@ -800,14 +808,6 @@
       "word": "爸妈怕丢工作过年不回家叮嘱女儿勿念",
       "onboard_time": 1706922750,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 977358,
-      "num": 977358,
-      "word": "宝妈进群刷单5天被骗580万",
-      "onboard_time": 1707021752,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1483,6 +1483,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 655733,
+      "num": 655733,
+      "word": "奔驰男砸车前被白车顶了一下",
+      "onboard_time": 1707022890,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649809,
       "num": 649809,
       "word": "四省有大到暴雪",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1706792373,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 537160,
-      "num": 537160,
-      "word": "奔驰男砸车前被白车顶了一下",
-      "onboard_time": 1707022890,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536320,
@@ -3035,6 +3035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 383351,
+      "num": 383351,
+      "word": "韩籍博士称中国电子支付需改进",
+      "onboard_time": 1707029067,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381627,
       "num": 381627,
       "word": "仙剑四大结局",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1706756369,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354037,
+      "num": 354037,
+      "word": "麻辣烫为什么越来越高级了",
+      "onboard_time": 1707022652,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 350994,
@@ -3809,14 +3825,6 @@
       "onboard_time": 1706935412,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304573,
-      "num": 304573,
-      "word": "麻辣烫为什么越来越高级了",
-      "onboard_time": 1707022652,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 303867,
@@ -4691,14 +4699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238959,
-      "num": 238959,
-      "word": "韩籍博士称中国电子支付需改进",
-      "onboard_time": 1707029067,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238657,
       "num": 238657,
       "word": "Scout使用bug被处罚",
@@ -5089,6 +5089,14 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 223338,
+      "num": 223338,
+      "word": "实习生给已读乱回的领导一点震撼",
+      "onboard_time": 1707031291,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 222566,
@@ -5571,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206585,
+      "num": 206585,
+      "word": "孙尚香乘龙问璇玑新皮肤",
+      "onboard_time": 1707032610,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206400,
       "num": 206400,
       "word": "湖人终结尼克斯九连胜",
@@ -5649,6 +5665,14 @@
       "onboard_time": 1706792553,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205578,
+      "num": 205578,
+      "word": "EDGM零封WE",
+      "onboard_time": 1707033991,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 205452,
@@ -5889,6 +5913,14 @@
       "onboard_time": 1706871933,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199650,
+      "num": 199650,
+      "word": "睡觉吧 你俩过几天就成了",
+      "onboard_time": 1707033873,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199548,
@@ -6787,6 +6819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179201,
+      "num": 179201,
+      "word": "明明有精神病但能表现得像正常人",
+      "onboard_time": 1707023373,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179120,
       "num": 179120,
       "word": "芙拉直播",
@@ -7331,14 +7371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166193,
-      "num": 166193,
-      "word": "明明有精神病但能表现得像正常人",
-      "onboard_time": 1707023373,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166116,
       "num": 166116,
       "word": "EVNNE音银一位",
@@ -7771,6 +7803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "王者荣耀孙尚香新皮肤",
+      "onboard_time": 1707034591,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154771,
+      "num": 154771,
+      "word": "GOODBAI牛仔外套抽检不合格",
+      "onboard_time": 1707027571,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 154767,
       "num": 154767,
       "word": "晨起时这2个行为很伤肾",
@@ -7913,6 +7961,14 @@
       "onboard_time": 1706770587,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151740,
+      "num": 151740,
+      "word": "专家建议关注节后心理健康",
+      "onboard_time": 1707033630,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151662,
@@ -8283,14 +8339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141835,
-      "num": 141835,
-      "word": "GOODBAI牛仔外套抽检不合格",
-      "onboard_time": 1707027571,
-      "rank": 39,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 141701,
       "num": 304177,
       "word": "崩坏3第二部上线",
@@ -8303,14 +8351,6 @@
       "num": 183238,
       "word": "扒泥世家",
       "onboard_time": 1706973812,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 141068,
-      "num": 141068,
-      "word": "实习生给已读乱回的领导一点震撼",
-      "onboard_time": 1707031291,
       "rank": 34,
       "category": "幽默"
     },
@@ -8337,6 +8377,14 @@
       "onboard_time": 1706771729,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140816,
+      "num": 140816,
+      "word": "2月4日16时27分迎立春",
+      "onboard_time": 1707029911,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140627,
@@ -8393,6 +8441,14 @@
       "onboard_time": 1707019533,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139513,
+      "num": 139513,
+      "word": "GOODBAI致歉",
+      "onboard_time": 1707034469,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 139499,
@@ -9275,6 +9331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121734,
+      "num": 121734,
+      "word": "十二生肖仿妆",
+      "onboard_time": 1707033270,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121043,
       "num": 121043,
       "word": "上班的三个阶段",
@@ -9339,6 +9403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119381,
+      "num": 119381,
+      "word": "刚入行的宠物店员工",
+      "onboard_time": 1707034469,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118970,
       "num": 118970,
       "word": "萧敬腾林有慧大露背预告",
@@ -9353,14 +9425,6 @@
       "onboard_time": 1706948731,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118371,
-      "num": 118371,
-      "word": "2月4日16时27分迎立春",
-      "onboard_time": 1707029911,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117967,
@@ -9393,6 +9457,14 @@
       "onboard_time": 1706873372,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117696,
+      "num": 117696,
+      "word": "0713春晚联排",
+      "onboard_time": 1707033449,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 117651,
@@ -9521,6 +9593,14 @@
       "onboard_time": 1706839228,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113946,
+      "num": 113946,
+      "word": "澡堂异闻录",
+      "onboard_time": 1707034411,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113713,
@@ -9729,6 +9809,14 @@
       "onboard_time": 1707005308,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110280,
+      "num": 110280,
+      "word": "在奶奶家蹲厕所还要小心牛",
+      "onboard_time": 1707032850,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110214,
@@ -10483,6 +10571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60711,
+      "num": 200642,
+      "word": "半隐藏式门把手是更优解吗",
+      "onboard_time": 1707033928,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58659,
       "num": 76132,
       "word": "马宁执法伊朗vs日本",
@@ -10924,7 +11020,7 @@
     },
     {
       "raw_hot": 22480,
-      "num": 138678,
+      "num": 324904,
       "word": "为什么过年要拍全家福",
       "onboard_time": 1707018329,
       "rank": 49,
@@ -11175,6 +11271,9 @@
     },
     {
       "word": "#习近平向全军官兵致以新春祝福#"
+    },
+    {
+      "word": "#总书记给全国人民拜年#"
     }
   ]
 }
