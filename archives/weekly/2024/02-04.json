@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707059746398,
+  "endTime": 1707060850082,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251210,
+      "num": 1251210,
+      "word": "合肥南站D4832列车晚点744分钟",
+      "onboard_time": 1707056197,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1202149,
       "num": 1202149,
       "word": "宝妈进群刷单5天被骗580万",
@@ -145,14 +153,6 @@
       "onboard_time": 1707046111,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1108196,
-      "num": 1108196,
-      "word": "合肥南站D4832列车晚点744分钟",
-      "onboard_time": 1707056197,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1106985,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805628,
+      "num": 805628,
+      "word": "为什么只有中国医生擅长取鱼刺",
+      "onboard_time": 1707055534,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 802011,
       "num": 802011,
       "word": "内娱700多人信息7元打包卖",
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674289,
-      "num": 674289,
-      "word": "为什么只有中国医生擅长取鱼刺",
-      "onboard_time": 1707055534,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 672932,
       "num": 598773,
       "word": "李如平去世",
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635810,
+      "num": 635810,
+      "word": "湖北暴雪",
+      "onboard_time": 1707056434,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632716,
       "num": 632716,
       "word": "美甲 约不上",
@@ -425,14 +433,6 @@
       "onboard_time": 1706977709,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 598759,
-      "num": 598759,
-      "word": "湖北暴雪",
-      "onboard_time": 1707056434,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 593342,
@@ -545,6 +545,14 @@
       "onboard_time": 1707022355,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501646,
+      "num": 501646,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1707059076,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 501323,
@@ -673,6 +681,14 @@
       "onboard_time": 1707021151,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421693,
+      "num": 421693,
+      "word": "刘亦菲初中时期旧照",
+      "onboard_time": 1707059375,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 420034,
@@ -859,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354884,
+      "num": 254404,
+      "word": "已读不回就是绝杀",
+      "onboard_time": 1707059314,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351836,
       "num": 351836,
       "word": "杨紫追星投票把电话费投光了",
       "onboard_time": 1707054274,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351249,
+      "num": 351249,
+      "word": "武汉高铁",
+      "onboard_time": 1707057817,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341700,
@@ -987,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308965,
-      "num": 308965,
-      "word": "刘亦菲初中时期旧照",
-      "onboard_time": 1707059375,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -1011,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298785,
+      "num": 298785,
+      "word": "官方通报体彩店员撕毁中奖彩票",
+      "onboard_time": 1707059672,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297216,
       "num": 297216,
       "word": "世界之外新PV",
       "onboard_time": 1707018749,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296573,
-      "num": 296573,
-      "word": "武汉高铁",
-      "onboard_time": 1707057817,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294884,
@@ -1139,14 +1163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274259,
-      "num": 274259,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1707059076,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271740,
       "num": 271740,
       "word": "六小龄童马德华合作新电影",
@@ -1243,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251735,
+      "num": 251735,
+      "word": "小狗金子",
+      "onboard_time": 1707059133,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1707031410,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243787,
+      "num": 243787,
+      "word": "香港特区政府回应梅西缺战",
+      "onboard_time": 1707059611,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 243457,
@@ -1467,12 +1499,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 222458,
-      "num": 222458,
-      "word": "已读不回就是绝杀",
-      "onboard_time": 1707059314,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 222361,
+      "num": 222361,
+      "word": "苏醒用春联回应上春晚",
+      "onboard_time": 1707059556,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222268,
@@ -1715,6 +1747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202456,
+      "num": 202456,
+      "word": "人真的会一夜白头",
+      "onboard_time": 1707058894,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "龙宝",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1707059197,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198904,
-      "num": 198904,
-      "word": "苏醒用春联回应上春晚",
-      "onboard_time": 1707059556,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 198365,
@@ -1857,14 +1889,6 @@
       "onboard_time": 1707044672,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191231,
-      "num": 191231,
-      "word": "小狗金子",
-      "onboard_time": 1707059133,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 189952,
@@ -2001,14 +2025,6 @@
       "onboard_time": 1707025650,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174387,
-      "num": 174387,
-      "word": "人真的会一夜白头",
-      "onboard_time": 1707058894,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 173185,
@@ -2339,28 +2355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145796,
-      "num": 145796,
-      "word": "香港特区政府回应梅西缺战",
-      "onboard_time": 1707059611,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144882,
       "num": 144882,
       "word": "王者荣耀 小孩哥代打",
       "onboard_time": 1707035430,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144419,
-      "num": 144419,
-      "word": "官方通报体彩店员撕毁中奖彩票",
-      "onboard_time": 1707059672,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143931,
@@ -2433,6 +2433,14 @@
       "onboard_time": 1707024030,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139456,
+      "num": 139456,
+      "word": "张凯 赢了笑嘻嘻输了哭唧唧",
+      "onboard_time": 1707060092,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 139020,
@@ -2625,6 +2633,14 @@
       "onboard_time": 1707049594,
       "rank": 47,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 126775,
+      "num": 126775,
+      "word": "马面裙走进大英博物馆",
+      "onboard_time": 1707060212,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 126596,

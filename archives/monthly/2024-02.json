@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707059746398,
+  "endTime": 1707060850082,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -571,6 +571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1251210,
+      "num": 1251210,
+      "word": "合肥南站D4832列车晚点744分钟",
+      "onboard_time": 1707056197,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250746,
       "num": 1250746,
       "word": "魏大勋真的不是歌手吗",
@@ -729,14 +737,6 @@
       "onboard_time": 1707046111,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1108196,
-      "num": 1108196,
-      "word": "合肥南站D4832列车晚点744分钟",
-      "onboard_time": 1707056197,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1106985,
@@ -1195,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805628,
+      "num": 805628,
+      "word": "为什么只有中国医生擅长取鱼刺",
+      "onboard_time": 1707055534,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 802154,
       "num": 802154,
       "word": "跳跳俏俏六岁了",
@@ -1555,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 674289,
-      "num": 674289,
-      "word": "为什么只有中国医生擅长取鱼刺",
-      "onboard_time": 1707055534,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 672932,
       "num": 598773,
       "word": "李如平去世",
@@ -1713,6 +1713,14 @@
       "onboard_time": 1706767349,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 635810,
+      "num": 635810,
+      "word": "湖北暴雪",
+      "onboard_time": 1707056434,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634617,
@@ -1889,14 +1897,6 @@
       "onboard_time": 1706977709,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 598759,
-      "num": 598759,
-      "word": "湖北暴雪",
-      "onboard_time": 1707056434,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595157,
@@ -2408,6 +2408,14 @@
       "word": "录娶通知书",
       "onboard_time": 1706859575,
       "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 501646,
+      "num": 501646,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1707059076,
+      "rank": 19,
       "category": "情感"
     },
     {
@@ -2985,6 +2993,14 @@
       "onboard_time": 1706966914,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421693,
+      "num": 421693,
+      "word": "刘亦菲初中时期旧照",
+      "onboard_time": 1707059375,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 421329,
@@ -3683,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354884,
+      "num": 254404,
+      "word": "已读不回就是绝杀",
+      "onboard_time": 1707059314,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354208,
       "num": 255053,
       "word": "爸妈偷偷来我租的房子过年",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1707054274,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351249,
+      "num": 351249,
+      "word": "武汉高铁",
+      "onboard_time": 1707057817,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350994,
@@ -4123,14 +4155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308965,
-      "num": 308965,
-      "word": "刘亦菲初中时期旧照",
-      "onboard_time": 1707059375,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308889,
       "num": 308889,
       "word": "抽出来的血最终去了哪儿",
@@ -4283,6 +4307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298785,
+      "num": 298785,
+      "word": "官方通报体彩店员撕毁中奖彩票",
+      "onboard_time": 1707059672,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298386,
       "num": 298386,
       "word": "吃糖瓜",
@@ -4305,14 +4337,6 @@
       "onboard_time": 1707018749,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296573,
-      "num": 296573,
-      "word": "武汉高铁",
-      "onboard_time": 1707057817,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294884,
@@ -4665,14 +4689,6 @@
       "onboard_time": 1706836049,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274259,
-      "num": 274259,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1707059076,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 273510,
@@ -5051,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251735,
+      "num": 251735,
+      "word": "小狗金子",
+      "onboard_time": 1707059133,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1707031410,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243787,
+      "num": 243787,
+      "word": "香港特区政府回应梅西缺战",
+      "onboard_time": 1707059611,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 243739,
@@ -5715,12 +5747,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 222458,
-      "num": 222458,
-      "word": "已读不回就是绝杀",
-      "onboard_time": 1707059314,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 222361,
+      "num": 222361,
+      "word": "苏醒用春联回应上春晚",
+      "onboard_time": 1707059556,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222215,
@@ -6515,6 +6547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202456,
+      "num": 202456,
+      "word": "人真的会一夜白头",
+      "onboard_time": 1707058894,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202169,
       "num": 202169,
       "word": "上交所",
@@ -6673,14 +6713,6 @@
       "onboard_time": 1707059197,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198904,
-      "num": 198904,
-      "word": "苏醒用春联回应上春晚",
-      "onboard_time": 1707059556,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 198885,
@@ -7105,14 +7137,6 @@
       "onboard_time": 1706970214,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191231,
-      "num": 191231,
-      "word": "小狗金子",
-      "onboard_time": 1707059133,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 191176,
@@ -7881,14 +7905,6 @@
       "onboard_time": 1706828601,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174387,
-      "num": 174387,
-      "word": "人真的会一夜白头",
-      "onboard_time": 1707058894,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 174139,
@@ -9187,14 +9203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145796,
-      "num": 145796,
-      "word": "香港特区政府回应梅西缺战",
-      "onboard_time": 1707059611,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145704,
       "num": 145704,
       "word": "一年过2次的节日",
@@ -9225,14 +9233,6 @@
       "onboard_time": 1707035430,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144419,
-      "num": 144419,
-      "word": "官方通报体彩店员撕毁中奖彩票",
-      "onboard_time": 1707059672,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144352,
@@ -9457,6 +9457,14 @@
       "onboard_time": 1706700752,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139456,
+      "num": 139456,
+      "word": "张凯 赢了笑嘻嘻输了哭唧唧",
+      "onboard_time": 1707060092,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 139420,
@@ -10225,6 +10233,14 @@
       "onboard_time": 1706855132,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126775,
+      "num": 126775,
+      "word": "马面裙走进大英博物馆",
+      "onboard_time": 1707060212,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 126662,
