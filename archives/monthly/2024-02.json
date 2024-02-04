@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707014144077,
+  "endTime": 1707016715760,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -947,6 +947,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 839398,
+      "num": 839398,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1706868751,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 836949,
       "num": 836949,
       "word": "王一博被无故预定航班",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1706832450,
       "rank": 5,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 802011,
+      "num": 802011,
+      "word": "内娱700多人信息7元打包卖",
+      "onboard_time": 1707011908,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 800301,
@@ -1283,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 680972,
-      "num": 680972,
-      "word": "内娱700多人信息7元打包卖",
-      "onboard_time": 1707011908,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 678353,
       "num": 678353,
       "word": "现在预制菜都这么齐全了吗",
@@ -1459,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 631006,
+      "num": 631006,
+      "word": "交警回应网传徐老太疑涉套牌",
+      "onboard_time": 1707015691,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628081,
       "num": 628081,
       "word": "韩国瑜当选台立法机构负责人",
@@ -1547,6 +1563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 612653,
+      "num": 612653,
+      "word": "夜食症",
+      "onboard_time": 1707014370,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 605235,
       "num": 605235,
       "word": "A股",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1706926470,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 589432,
+      "num": 589432,
+      "word": "龙年央视春晚第四次联排",
+      "onboard_time": 1707012691,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 581600,
@@ -1843,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540182,
+      "num": 586786,
+      "word": "近视眼手术的优缺点",
+      "onboard_time": 1707011849,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 537880,
       "num": 537880,
       "word": "Selina产后代言收入达百万",
@@ -1995,14 +2035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 506602,
-      "num": 506602,
-      "word": "龙年央视春晚第四次联排",
-      "onboard_time": 1707012691,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503730,
       "num": 503730,
       "word": "赵今麦 真甜妹来了",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1706951134,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501323,
+      "num": 501323,
+      "word": "酸奶碗",
+      "onboard_time": 1707012087,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 497754,
@@ -2347,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447015,
-      "num": 515695,
-      "word": "近视眼手术的优缺点",
-      "onboard_time": 1707011849,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 442538,
       "num": 442538,
       "word": "乐华声明",
@@ -2619,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409908,
+      "num": 409908,
+      "word": "高铁晚点",
+      "onboard_time": 1706899998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409540,
       "num": 409540,
       "word": "奇瑞",
@@ -2667,20 +2707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402202,
+      "num": 402202,
+      "word": "蝴蝶少女直拍",
+      "onboard_time": 1707013527,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 401285,
       "num": 401285,
       "word": "惠英红给杨幂画的葫芦",
       "onboard_time": 1706933731,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 400495,
-      "num": 400495,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1706868751,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 398618,
@@ -3043,12 +3083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362280,
+      "num": 362280,
+      "word": "何赛飞金鸡影后获奖作定档",
+      "onboard_time": 1707013651,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361936,
       "num": 361936,
       "word": "卜冠今回应造型争议",
       "onboard_time": 1706796813,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361852,
+      "num": 313859,
+      "word": "星巴克中产滤镜被大爷大妈打碎",
+      "onboard_time": 1707013829,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360293,
@@ -3211,14 +3267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334270,
-      "num": 334270,
-      "word": "何赛飞金鸡影后获奖作定档",
-      "onboard_time": 1707013651,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 332904,
       "num": 332904,
       "word": "唐艺昕虞书欣撞衫",
@@ -3331,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326342,
+      "num": 326342,
+      "word": "电影西游记真假美猴王官宣",
+      "onboard_time": 1707015450,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "曝湖人可能交易詹姆斯",
@@ -3395,14 +3451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321650,
-      "num": 305464,
-      "word": "星巴克中产滤镜被大爷大妈打碎",
-      "onboard_time": 1707013829,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319851,
       "num": 319851,
       "word": "A股破净股比例超10%",
@@ -3441,6 +3489,14 @@
       "onboard_time": 1706936730,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314487,
+      "num": 314487,
+      "word": "张家界景区顶棚倒塌多人受伤",
+      "onboard_time": 1707014790,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313213,
@@ -3521,14 +3577,6 @@
       "onboard_time": 1706949691,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307236,
-      "num": 307236,
-      "word": "酸奶碗",
-      "onboard_time": 1707012087,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 307003,
@@ -4307,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246550,
+      "num": 246550,
+      "word": "吴磊星汉胸肌vs暴雪背肌",
+      "onboard_time": 1707014972,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245979,
       "num": 245979,
       "word": "王安宇参加过明日之子2",
@@ -4593,14 +4649,6 @@
       "onboard_time": 1706837790,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228960,
-      "num": 228960,
-      "word": "蝴蝶少女直拍",
-      "onboard_time": 1707013527,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 228563,
@@ -5739,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192818,
+      "num": 192818,
+      "word": "七夜雪官宣杀青",
+      "onboard_time": 1707016410,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192721,
       "num": 192721,
       "word": "花儿与少年RAP",
@@ -5889,6 +5945,14 @@
       "onboard_time": 1706859090,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 189952,
+      "num": 189952,
+      "word": "大叔高速救火20分钟后默默离开",
+      "onboard_time": 1707015989,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189608,
@@ -6067,6 +6131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 186732,
+      "num": 186732,
+      "word": "优酷2024龙年片单",
+      "onboard_time": 1707015392,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186694,
       "num": 189906,
       "word": "伊朗晋级亚洲杯四强",
@@ -6227,6 +6299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182375,
+      "num": 182375,
+      "word": "重庆漫展",
+      "onboard_time": 1707013950,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182182,
       "num": 182182,
       "word": "IU概念照",
@@ -6321,6 +6401,14 @@
       "onboard_time": 1706873073,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178918,
+      "num": 178918,
+      "word": "赵露思演我打游戏",
+      "onboard_time": 1707015568,
+      "rank": 36,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 178610,
@@ -6745,14 +6833,6 @@
       "onboard_time": 1706853153,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 168168,
-      "num": 168168,
-      "word": "高铁晚点",
-      "onboard_time": 1706899998,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167885,
@@ -7225,6 +7305,14 @@
       "onboard_time": 1706773951,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155136,
+      "num": 155136,
+      "word": "无畏游走位首秀",
+      "onboard_time": 1707015809,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 154956,
@@ -7947,14 +8035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 136862,
-      "num": 136862,
-      "word": "重庆漫展",
-      "onboard_time": 1707013950,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 136774,
       "num": 136774,
       "word": "苹果最后一款带光驱的MBP停产",
@@ -8113,6 +8193,14 @@
       "onboard_time": 1706925329,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133671,
+      "num": 133671,
+      "word": "百度输入法上线付费VIP",
+      "onboard_time": 1707015750,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 133583,
@@ -8688,6 +8776,14 @@
       "word": "首届春晚光看串场就能笑半宿",
       "onboard_time": 1706800953,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120270,
+      "num": 120270,
+      "word": "宋雨琦与Minnie曾喜欢同一男生",
+      "onboard_time": 1707016650,
+      "rank": 49,
       "category": "综艺"
     },
     {

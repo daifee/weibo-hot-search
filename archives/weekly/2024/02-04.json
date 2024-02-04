@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707014144077,
+  "endTime": 1707016715760,
   "band_list": [
     {
       "raw_hot": 2447148,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839398,
+      "num": 839398,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1707015870,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 836274,
       "num": 836274,
       "word": "刘德华自曝曾有粉丝藏床下",
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 802011,
+      "num": 802011,
+      "word": "内娱700多人信息7元打包卖",
+      "onboard_time": 1707011908,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 800301,
@@ -99,12 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680972,
-      "num": 680972,
-      "word": "内娱700多人信息7元打包卖",
-      "onboard_time": 1707011908,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 631006,
+      "num": 631006,
+      "word": "交警回应网传徐老太疑涉套牌",
+      "onboard_time": 1707015691,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612653,
+      "num": 612653,
+      "word": "夜食症",
+      "onboard_time": 1707014370,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 601025,
@@ -121,6 +145,14 @@
       "onboard_time": 1706969072,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 589432,
+      "num": 589432,
+      "word": "龙年央视春晚第四次联排",
+      "onboard_time": 1707012691,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 568716,
@@ -147,12 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506602,
-      "num": 506602,
-      "word": "龙年央视春晚第四次联排",
-      "onboard_time": 1707012691,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 540182,
+      "num": 586786,
+      "word": "近视眼手术的优缺点",
+      "onboard_time": 1707011849,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501323,
+      "num": 501323,
+      "word": "酸奶碗",
+      "onboard_time": 1707012087,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 496382,
@@ -203,14 +243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 447015,
-      "num": 515695,
-      "word": "近视眼手术的优缺点",
-      "onboard_time": 1707011849,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 431676,
       "num": 265614,
       "word": "小品搭子 难看",
@@ -233,6 +265,22 @@
       "onboard_time": 1706974171,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409908,
+      "num": 409908,
+      "word": "高铁晚点",
+      "onboard_time": 1707014489,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402202,
+      "num": 402202,
+      "word": "蝴蝶少女直拍",
+      "onboard_time": 1707013527,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 398312,
@@ -275,12 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334270,
-      "num": 334270,
+      "raw_hot": 362280,
+      "num": 362280,
       "word": "何赛飞金鸡影后获奖作定档",
       "onboard_time": 1707013651,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 361852,
+      "num": 313859,
+      "word": "星巴克中产滤镜被大爷大妈打碎",
+      "onboard_time": 1707013829,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332904,
@@ -307,19 +363,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326342,
+      "num": 326342,
+      "word": "电影西游记真假美猴王官宣",
+      "onboard_time": 1707015450,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323313,
       "num": 323313,
       "word": "中央气象台连发4预警",
       "onboard_time": 1707005609,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321650,
-      "num": 305464,
-      "word": "星巴克中产滤镜被大爷大妈打碎",
-      "onboard_time": 1707013829,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -339,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307236,
-      "num": 307236,
-      "word": "酸奶碗",
-      "onboard_time": 1707012087,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 314487,
+      "num": 314487,
+      "word": "张家界景区顶棚倒塌多人受伤",
+      "onboard_time": 1707014790,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300217,
@@ -443,6 +499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 246550,
+      "num": 246550,
+      "word": "吴磊星汉胸肌vs暴雪背肌",
+      "onboard_time": 1707014972,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245284,
       "num": 245284,
       "word": "品牌回应儿童鞋颜色名为奴仆黄",
@@ -481,14 +545,6 @@
       "onboard_time": 1706973632,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228960,
-      "num": 228960,
-      "word": "蝴蝶少女直拍",
-      "onboard_time": 1707013527,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 223662,
@@ -579,6 +635,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192818,
+      "num": 192818,
+      "word": "七夜雪官宣杀青",
+      "onboard_time": 1707016410,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189952,
+      "num": 189952,
+      "word": "大叔高速救火20分钟后默默离开",
+      "onboard_time": 1707015989,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186732,
+      "num": 186732,
+      "word": "优酷2024龙年片单",
+      "onboard_time": 1707015392,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184305,
       "num": 184305,
       "word": "杨紫无实物演技",
@@ -593,6 +673,22 @@
       "onboard_time": 1706970813,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182375,
+      "num": 182375,
+      "word": "重庆漫展",
+      "onboard_time": 1707013950,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 178918,
+      "num": 178918,
+      "word": "赵露思演我打游戏",
+      "onboard_time": 1707015568,
+      "rank": 36,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 178359,
@@ -633,6 +729,14 @@
       "onboard_time": 1706980583,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168451,
+      "num": 168451,
+      "word": "奇瑞",
+      "onboard_time": 1707016530,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166427,
@@ -705,6 +809,14 @@
       "onboard_time": 1707007294,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155136,
+      "num": 155136,
+      "word": "无畏游走位首秀",
+      "onboard_time": 1707015809,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 152191,
@@ -787,12 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136862,
-      "num": 136862,
-      "word": "重庆漫展",
-      "onboard_time": 1707013950,
+      "raw_hot": 133671,
+      "num": 133671,
+      "word": "百度输入法上线付费VIP",
+      "onboard_time": 1707015750,
       "rank": 43,
-      "category": "动漫"
+      "category": "互联网"
     },
     {
       "raw_hot": 130232,
@@ -857,6 +969,14 @@
       "onboard_time": 1706973095,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120270,
+      "num": 120270,
+      "word": "宋雨琦与Minnie曾喜欢同一男生",
+      "onboard_time": 1707016650,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 120243,

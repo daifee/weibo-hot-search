@@ -1,0 +1,402 @@
+{
+  "runTime": 1707016715760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787757,
+        "num": 1787757,
+        "word": "调休",
+        "onboard_time": 1707010589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855498,
+        "num": 855498,
+        "word": "白头发可能是身体给你的警报",
+        "onboard_time": 1707004887,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 839398,
+        "num": 839398,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1707015870,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 802011,
+        "num": 802011,
+        "word": "内娱700多人信息7元打包卖",
+        "onboard_time": 1707011908,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631006,
+        "num": 631006,
+        "word": "交警回应网传徐老太疑涉套牌",
+        "onboard_time": 1707015691,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612653,
+        "num": 612653,
+        "word": "夜食症",
+        "onboard_time": 1707014370,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 589432,
+        "num": 589432,
+        "word": "龙年央视春晚第四次联排",
+        "onboard_time": 1707012691,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540182,
+        "num": 586786,
+        "word": "近视眼手术的优缺点",
+        "onboard_time": 1707011849,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 481555,
+        "num": 586628,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586473,
+        "num": 586473,
+        "word": "颖儿付辛博为女儿庆生",
+        "onboard_time": 1707011070,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501323,
+        "num": 501323,
+        "word": "酸奶碗",
+        "onboard_time": 1707012087,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427564,
+        "num": 427564,
+        "word": "高铁上打开电脑的人真的在忙吗",
+        "onboard_time": 1707002481,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409908,
+        "num": 409908,
+        "word": "高铁晚点",
+        "onboard_time": 1707014489,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402202,
+        "num": 402202,
+        "word": "蝴蝶少女直拍",
+        "onboard_time": 1707013527,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362280,
+        "num": 362280,
+        "word": "何赛飞金鸡影后获奖作定档",
+        "onboard_time": 1707013651,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335764,
+        "num": 335764,
+        "word": "小品 烂梗",
+        "onboard_time": 1706975010,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328756,
+        "num": 328756,
+        "word": "刘德华自曝曾有粉丝藏床下",
+        "onboard_time": 1707001278,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326342,
+        "num": 326342,
+        "word": "电影西游记真假美猴王官宣",
+        "onboard_time": 1707015450,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314487,
+        "num": 314487,
+        "word": "张家界景区顶棚倒塌多人受伤",
+        "onboard_time": 1707014790,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361852,
+        "num": 313859,
+        "word": "星巴克中产滤镜被大爷大妈打碎",
+        "onboard_time": 1707013829,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325253,
+        "num": 313753,
+        "word": "迪丽热巴对接回应后续项目",
+        "onboard_time": 1707012210,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313007,
+        "num": 313007,
+        "word": "立春",
+        "onboard_time": 1707001880,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246550,
+        "num": 246550,
+        "word": "吴磊星汉胸肌vs暴雪背肌",
+        "onboard_time": 1707014972,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245844,
+        "num": 245844,
+        "word": "兔年的第二个立春来了",
+        "onboard_time": 1707002784,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245530,
+        "num": 245530,
+        "word": "暗送邱波",
+        "onboard_time": 1707009688,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232920,
+        "num": 232920,
+        "word": "欧阳娣娣初舞台",
+        "onboard_time": 1707004347,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230325,
+        "num": 230325,
+        "word": "躲春",
+        "onboard_time": 1707005127,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227961,
+        "num": 227961,
+        "word": "贺峻霖考试成绩出来了",
+        "onboard_time": 1707005009,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201454,
+        "num": 201454,
+        "word": "这两个时间段不宜吃苹果",
+        "onboard_time": 1707010230,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196220,
+        "num": 196220,
+        "word": "果粉为抢购苹果VisionPro打飞的赴美",
+        "onboard_time": 1707012813,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192818,
+        "num": 192818,
+        "word": "七夜雪官宣杀青",
+        "onboard_time": 1707016410,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189952,
+        "num": 189952,
+        "word": "大叔高速救火20分钟后默默离开",
+        "onboard_time": 1707015989,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189390,
+        "num": 189390,
+        "word": "镇政府拒不公布涉农补贴",
+        "onboard_time": 1707006631,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186732,
+        "num": 186732,
+        "word": "优酷2024龙年片单",
+        "onboard_time": 1707015392,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182375,
+        "num": 182375,
+        "word": "重庆漫展",
+        "onboard_time": 1707013950,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178918,
+        "num": 178918,
+        "word": "赵露思演我打游戏",
+        "onboard_time": 1707015568,
+        "rank": 36,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 168451,
+        "num": 168451,
+        "word": "奇瑞",
+        "onboard_time": 1707016530,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158758,
+        "num": 158758,
+        "word": "体检报告中这些字眼可能是癌",
+        "onboard_time": 1707007473,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155136,
+        "num": 155136,
+        "word": "无畏游走位首秀",
+        "onboard_time": 1707015809,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148224,
+        "num": 148224,
+        "word": "当儿子决定穿裙子上学",
+        "onboard_time": 1706973393,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141105,
+        "num": 141105,
+        "word": "新疆地震",
+        "onboard_time": 1707005789,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 140286,
+        "word": "创造营亚洲首发Top9学员",
+        "onboard_time": 1707012510,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133671,
+        "num": 133671,
+        "word": "百度输入法上线付费VIP",
+        "onboard_time": 1707015750,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131084,
+        "num": 131084,
+        "word": "南航 延误",
+        "onboard_time": 1707007229,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127819,
+        "num": 127819,
+        "word": "薛之谦买菜帮助老人",
+        "onboard_time": 1707008790,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127171,
+        "num": 127171,
+        "word": "TVB男演员郑启泰去世",
+        "onboard_time": 1707001278,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123855,
+        "num": 123855,
+        "word": "A股",
+        "onboard_time": 1707013112,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123285,
+        "num": 123285,
+        "word": "宋亚轩舞台上好憔悴",
+        "onboard_time": 1706976149,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120270,
+        "num": 120270,
+        "word": "宋雨琦与Minnie曾喜欢同一男生",
+        "onboard_time": 1707016650,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#老百姓的事情是最重要的事情#"
+    }
+  }
+}
