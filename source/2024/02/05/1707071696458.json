@@ -1,0 +1,410 @@
+{
+  "runTime": 1707071696458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195465,
+        "num": 195465,
+        "word": "合肥南站D4832列车晚点744分钟",
+        "onboard_time": 1707056197,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195138,
+        "num": 195138,
+        "word": "真实暧昧又尴尬",
+        "onboard_time": 1707067462,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192433,
+        "num": 192433,
+        "word": "孩子玩手机把导航从回江西换到福建",
+        "onboard_time": 1707054695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162576,
+        "num": 162576,
+        "word": "吃完头孢7天内不能喝酒",
+        "onboard_time": 1707042512,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138785,
+        "num": 138785,
+        "word": "女子买刮刮乐兑奖却被撕彩票",
+        "onboard_time": 1707053194,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129646,
+        "num": 129646,
+        "word": "为什么只有中国医生擅长取鱼刺",
+        "onboard_time": 1707055534,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 123043,
+        "num": 123043,
+        "word": "辛芷蕾就想吃颗毛豆她有什么错",
+        "onboard_time": 1707061291,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122291,
+        "num": 122291,
+        "word": "香港特区政府回应梅西缺战",
+        "onboard_time": 1707059611,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117166,
+        "num": 117166,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103589,
+        "num": 103589,
+        "word": "十个勤天用的什么散粉",
+        "onboard_time": 1707062371,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102429,
+        "num": 102429,
+        "word": "安琪拉大招 水龙头",
+        "onboard_time": 1707047794,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98457,
+        "num": 98457,
+        "word": "李雪琴质疑苏醒理解苏醒超越苏醒",
+        "onboard_time": 1707062790,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77575,
+        "num": 77575,
+        "word": "湖北暴雪",
+        "onboard_time": 1707056434,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72752,
+        "num": 72752,
+        "word": "山下智久龟梨和也双人直播",
+        "onboard_time": 1707065546,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69770,
+        "num": 69770,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1707059076,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65329,
+        "num": 65329,
+        "word": "福建高速发生交通事故7人死亡",
+        "onboard_time": 1707049354,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65306,
+        "num": 65306,
+        "word": "五十度暴雪",
+        "onboard_time": 1707046111,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54609,
+        "num": 54609,
+        "word": "武汉高铁",
+        "onboard_time": 1707057817,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53760,
+        "num": 53760,
+        "word": "刘亦菲初中时期旧照",
+        "onboard_time": 1707059375,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44740,
+        "num": 44740,
+        "word": "一见钟情后的暧昧拉扯好上头",
+        "onboard_time": 1707061592,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124690,
+        "num": 44736,
+        "word": "初代网红奶茶倒闭潮",
+        "onboard_time": 1707065186,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 44464,
+        "word": "看小说时真的会有生理反应",
+        "onboard_time": 1707057875,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 61695,
+        "num": 44338,
+        "word": "已读不回就是绝杀",
+        "onboard_time": 1707059314,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55164,
+        "num": 44233,
+        "word": "iPhone年收入首次占智能手机市场50%",
+        "onboard_time": 1707063329,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52025,
+        "num": 44062,
+        "word": "林俊杰陶喆合唱就是爱你",
+        "onboard_time": 1707065425,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44044,
+        "num": 44044,
+        "word": "王者荣耀龙限皮肤",
+        "onboard_time": 1707045568,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42309,
+        "num": 42309,
+        "word": "蓝盈莹否认整容",
+        "onboard_time": 1707049893,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39715,
+        "num": 39715,
+        "word": "港府称对梅西没出场比赛极度失望",
+        "onboard_time": 1707055534,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39305,
+        "num": 39305,
+        "word": "小狗金子",
+        "onboard_time": 1707059133,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38633,
+        "num": 38633,
+        "word": "治愈自己最好的方式就是忙碌和早睡",
+        "onboard_time": 1707066085,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164409,
+        "num": 38519,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37861,
+        "num": 37861,
+        "word": "深圳一工人清洗外墙掉下8楼",
+        "onboard_time": 1707053973,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37491,
+        "num": 37491,
+        "word": "人真的会一夜白头",
+        "onboard_time": 1707058894,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87883,
+        "num": 37088,
+        "word": "杨波报平安",
+        "onboard_time": 1707037290,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34984,
+        "num": 34984,
+        "word": "打扫卫生翻到了老公私房钱该怎么处理",
+        "onboard_time": 1707064228,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34238,
+        "num": 34238,
+        "word": "Xiaohu偷家RNG",
+        "onboard_time": 1707049954,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34130,
+        "num": 34130,
+        "word": "网友自曝被举报作弊取消考研政治成绩",
+        "onboard_time": 1707047612,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32820,
+        "num": 32820,
+        "word": "薛之谦是在赶新歌吗",
+        "onboard_time": 1707069260,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31520,
+        "num": 31520,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30709,
+        "num": 30709,
+        "word": "少爷和我",
+        "onboard_time": 1707044133,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30079,
+        "num": 30079,
+        "word": "小沈阳沈春阳",
+        "onboard_time": 1707051334,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29732,
+        "num": 29732,
+        "word": "刘浩存羽毛裙",
+        "onboard_time": 1707056855,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28884,
+        "num": 28884,
+        "word": "王星越没搞笑但真的很好笑",
+        "onboard_time": 1707068721,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28652,
+        "num": 28652,
+        "word": "李亚鹏和妻女同框拍短片",
+        "onboard_time": 1707065246,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28245,
+        "num": 28245,
+        "word": "蔡徐坤新歌",
+        "onboard_time": 1707059197,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28234,
+        "num": 28234,
+        "word": "狗剩快跑",
+        "onboard_time": 1707050553,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27923,
+        "num": 27923,
+        "word": "官方通报体彩店员撕毁中奖彩票",
+        "onboard_time": 1707059672,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25400,
+        "num": 25400,
+        "word": "南航",
+        "onboard_time": 1707053253,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25272,
+        "num": 25272,
+        "word": "杨鸣 辽宁男篮",
+        "onboard_time": 1707046172,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24302,
+        "num": 24302,
+        "word": "方媛工作变多的原因",
+        "onboard_time": 1707056434,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}
