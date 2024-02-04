@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707042820377,
+  "endTime": 1707045216853,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -17,6 +17,14 @@
       "onboard_time": 1707037529,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2629730,
+      "num": 2629730,
+      "word": "吃完头孢7天内不能喝酒",
+      "onboard_time": 1707042512,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2447148,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 864091,
+      "num": 864091,
+      "word": "印度女星为假死道歉",
+      "onboard_time": 1707040169,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860623,
       "num": 860623,
       "word": "佟梦实是五竹叔",
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752866,
-      "num": 752866,
-      "word": "印度女星为假死道歉",
-      "onboard_time": 1707040169,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 750543,
       "num": 750543,
       "word": "宋雨琦与Minnie曾喜欢同一男生",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727858,
+      "num": 727858,
+      "word": "拖米 小义",
+      "onboard_time": 1707043833,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 704391,
       "num": 704391,
       "word": "多地中小学教师被要求寒假期间值班",
@@ -241,6 +257,14 @@
       "onboard_time": 1707014370,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 663854,
+      "num": 663854,
+      "word": "女子离婚冷静期间被丈夫杀害",
+      "onboard_time": 1707039391,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655733,
@@ -265,6 +289,14 @@
       "onboard_time": 1707021874,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609247,
+      "num": 609247,
+      "word": "大年初三看封神",
+      "onboard_time": 1707042391,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 601025,
@@ -419,12 +451,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 448887,
-      "num": 448887,
-      "word": "女子离婚冷静期间被丈夫杀害",
-      "onboard_time": 1707039391,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 436040,
+      "num": 436040,
+      "word": "李如平去世",
+      "onboard_time": 1707044312,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 431676,
@@ -459,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410619,
+      "num": 410619,
+      "word": "王者荣耀",
+      "onboard_time": 1707044433,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "高铁晚点",
@@ -473,6 +513,14 @@
       "onboard_time": 1707019468,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402972,
+      "num": 402972,
+      "word": "陈芋汐207C",
+      "onboard_time": 1707042391,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 402202,
@@ -529,6 +577,14 @@
       "onboard_time": 1707029067,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381158,
+      "num": 381158,
+      "word": "南京Hero 幽默",
+      "onboard_time": 1707041193,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 372636,
@@ -731,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292789,
+      "num": 292789,
+      "word": "美甲也有了自己的光腿神器",
+      "onboard_time": 1707043530,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 291771,
       "num": 291771,
       "word": "原神4.4版本",
@@ -755,12 +819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281471,
-      "num": 281471,
-      "word": "南京Hero 幽默",
-      "onboard_time": 1707041193,
-      "rank": 31,
-      "category": "电竞"
+      "raw_hot": 283614,
+      "num": 283614,
+      "word": "谁让吴磊穿这样打球的",
+      "onboard_time": 1707044433,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 279834,
@@ -827,12 +891,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263738,
-      "num": 263738,
-      "word": "大年初三看封神",
-      "onboard_time": 1707042391,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 262762,
+      "num": 262762,
+      "word": "少爷和我",
+      "onboard_time": 1707044133,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 260374,
@@ -859,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255403,
+      "num": 255403,
+      "word": "御赐小仵作2备案",
+      "onboard_time": 1707042391,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -881,6 +953,14 @@
       "onboard_time": 1707013112,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247267,
+      "num": 247267,
+      "word": "南航就武汉机场大面积延误致歉",
+      "onboard_time": 1707042692,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246550,
@@ -963,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232702,
+      "num": 232702,
+      "word": "刘宇宁春晚彩排带妆路透",
+      "onboard_time": 1707044192,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230938,
       "num": 150826,
       "word": "小品套娃 内涵平台",
@@ -987,12 +1075,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 224333,
-      "num": 224333,
-      "word": "吃完头孢7天内不能喝酒",
-      "onboard_time": 1707042512,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 226031,
+      "num": 226031,
+      "word": "光与夜之恋实景模式",
+      "onboard_time": 1707043413,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 224001,
@@ -1092,7 +1180,7 @@
     },
     {
       "raw_hot": 208859,
-      "num": 1140931,
+      "num": 2528932,
       "word": "村民翻山越岭给滞留司机免费送吃喝",
       "onboard_time": 1707040227,
       "rank": 1,
@@ -1195,14 +1283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204156,
-      "num": 204156,
-      "word": "陈芋汐207C",
-      "onboard_time": 1707042391,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203411,
       "num": 203411,
       "word": "被困高速十几小时车主发声",
@@ -1219,12 +1299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202475,
+      "num": 202475,
+      "word": "蔡徐坤PORT开季封面",
+      "onboard_time": 1707043891,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "龙宝",
       "onboard_time": 1707019771,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200869,
+      "num": 1134131,
+      "word": "男子车祸昏迷护士雪地抢救半小时",
+      "onboard_time": 1707040227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 200089,
@@ -1251,12 +1347,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 195853,
+      "num": 195853,
+      "word": "VG零封Hero",
+      "onboard_time": 1707044250,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195713,
       "num": 195713,
       "word": "马宁 尺度",
       "onboard_time": 1706963733,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194650,
+      "num": 194650,
+      "word": "双硫仑样反应",
+      "onboard_time": 1707044792,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194282,
@@ -1281,6 +1393,14 @@
       "onboard_time": 1707020251,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191965,
+      "num": 191965,
+      "word": "全红婵晋级半决赛",
+      "onboard_time": 1707044672,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189952,
@@ -1347,12 +1467,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 180739,
-      "num": 824515,
-      "word": "男子车祸昏迷护士雪地抢救半小时",
-      "onboard_time": 1707040227,
-      "rank": 4,
-      "category": "社会正能量"
+      "raw_hot": 179404,
+      "num": 179404,
+      "word": "梅西缺战中国香港明星队",
+      "onboard_time": 1707044070,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 178918,
@@ -1411,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174377,
-      "num": 174377,
-      "word": "御赐小仵作2备案",
-      "onboard_time": 1707042391,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173185,
       "num": 173185,
       "word": "小沈阳 这场演唱会等了十五年",
@@ -1451,8 +1563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165432,
-      "num": 165432,
+      "raw_hot": 166034,
+      "num": 166034,
       "word": "林亦扬殷果冰箱吻",
       "onboard_time": 1707039451,
       "rank": 37,
@@ -1619,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149463,
+      "num": 149463,
+      "word": "赵云乘龙铭钟鼎新皮肤",
+      "onboard_time": 1707042991,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149051,
       "num": 149051,
       "word": "新年接龙大会",
@@ -1732,7 +1852,7 @@
     },
     {
       "raw_hot": 137715,
-      "num": 588680,
+      "num": 761165,
       "word": "女孩雨雪天用手为女警暖耳朵",
       "onboard_time": 1707040227,
       "rank": 6,
@@ -1779,20 +1899,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133062,
+      "num": 133062,
+      "word": "林亦扬 假的",
+      "onboard_time": 1707045152,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132515,
       "num": 409630,
       "word": "霸王茶姬杯子寓意",
       "onboard_time": 1707019232,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132456,
-      "num": 132456,
-      "word": "南航就武汉机场大面积延误致歉",
-      "onboard_time": 1707042692,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132449,
@@ -2363,12 +2483,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20864,
+      "num": 2489984,
+      "word": "年俗里品年味",
+      "onboard_time": 1707028828,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18671,
+      "num": 382325,
+      "word": "王者荣耀爆改地铁",
+      "onboard_time": 1707042991,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18242,
       "num": 20630,
       "word": "直击寒潮天气湖北高速春运路况",
       "onboard_time": 1706989457,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17303,
+      "num": 430834,
+      "word": "蛋仔春节版本前瞻直播",
+      "onboard_time": 1707044433,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 10350,

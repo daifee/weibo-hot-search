@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/04 18:33:40
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/04 19:13:36
 </p>
 </blockquote>
 <p>
@@ -521,6 +521,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%87%91%23" target="weibo">
 霍金（热度：2633377）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23" target="weibo">
+吃完头孢7天内不能喝酒（热度：2629730）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23" target="weibo">
 亚洲最帅王子迎娶平民女孩（热度：1694398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E4%BA%A1%E7%94%9F%E5%89%8D%E7%96%91%E9%81%AD%E8%88%8D%E5%8F%8B%E8%BE%B1%E9%AA%82%23" target="weibo">
-大一女生校内坠亡生前疑遭舍友辱骂（热度：1687177）
 </a>
 </li>
 
