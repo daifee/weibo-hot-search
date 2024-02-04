@@ -1,0 +1,402 @@
+{
+  "runTime": 1707009389702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540460,
+        "num": 1540460,
+        "word": "白头发可能是身体给你的警报",
+        "onboard_time": 1707004887,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1055082,
+        "num": 1055082,
+        "word": "高铁上打开电脑的人真的在忙吗",
+        "onboard_time": 1707002481,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 836274,
+        "num": 836274,
+        "word": "刘德华自曝曾有粉丝藏床下",
+        "onboard_time": 1707001278,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 742924,
+        "num": 742924,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730721,
+        "num": 730721,
+        "word": "上海恢复浦东机场网约车",
+        "onboard_time": 1706976868,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700624,
+        "num": 700624,
+        "word": "镇政府拒不公布涉农补贴",
+        "onboard_time": 1707006631,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658908,
+        "num": 658908,
+        "word": "躲春",
+        "onboard_time": 1707005127,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568716,
+        "num": 568716,
+        "word": "欧阳娣娣初舞台",
+        "onboard_time": 1707004347,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558474,
+        "num": 558474,
+        "word": "立春",
+        "onboard_time": 1707001880,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 492159,
+        "num": 492159,
+        "word": "小品 烂梗",
+        "onboard_time": 1706975010,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496382,
+        "num": 486760,
+        "word": "兔年的第二个立春来了",
+        "onboard_time": 1707002784,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387078,
+        "num": 387078,
+        "word": "南航 延误",
+        "onboard_time": 1707007229,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385846,
+        "num": 385846,
+        "word": "新疆地震",
+        "onboard_time": 1707005789,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370285,
+        "num": 370285,
+        "word": "TVB男演员郑启泰去世",
+        "onboard_time": 1707001278,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361970,
+        "num": 361970,
+        "word": "上班",
+        "onboard_time": 1707005308,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332904,
+        "num": 332904,
+        "word": "唐艺昕虞书欣撞衫",
+        "onboard_time": 1706985739,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327846,
+        "num": 327846,
+        "word": "姆巴佩下赛季加盟皇马",
+        "onboard_time": 1707005908,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324926,
+        "num": 324926,
+        "word": "体检报告中这些字眼可能是癌",
+        "onboard_time": 1707007473,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323313,
+        "num": 323313,
+        "word": "中央气象台连发4预警",
+        "onboard_time": 1707005609,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364264,
+        "num": 310022,
+        "word": "当儿子决定穿裙子上学",
+        "onboard_time": 1706973393,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286249,
+        "num": 286249,
+        "word": "贺峻霖考试成绩出来了",
+        "onboard_time": 1707005009,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284901,
+        "num": 284901,
+        "word": "邱瑞拉黑攻击杨波的粉丝",
+        "onboard_time": 1707004707,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279606,
+        "num": 279606,
+        "word": "南京地铁",
+        "onboard_time": 1707004887,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267516,
+        "num": 267516,
+        "word": "因为彩礼我和相恋8年的男友分手了",
+        "onboard_time": 1706968953,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224452,
+        "num": 224452,
+        "word": "终于等到肖战",
+        "onboard_time": 1706977709,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217727,
+        "num": 217727,
+        "word": "全国超百趟列车停运",
+        "onboard_time": 1707005609,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213704,
+        "num": 213704,
+        "word": "品牌回应儿童鞋颜色名为奴仆黄",
+        "onboard_time": 1707005485,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211198,
+        "num": 211198,
+        "word": "第一年在婆家过年",
+        "onboard_time": 1707006991,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194213,
+        "num": 194213,
+        "word": "赌王四太穿苗服跳民族舞",
+        "onboard_time": 1706988019,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191163,
+        "num": 191163,
+        "word": "宋亚轩舞台上好憔悴",
+        "onboard_time": 1706976149,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179601,
+        "num": 179601,
+        "word": "创造营",
+        "onboard_time": 1707009032,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178734,
+        "num": 178734,
+        "word": "薛之谦买菜帮助老人",
+        "onboard_time": 1707008790,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164522,
+        "num": 164522,
+        "word": "冰墩墩我想你了",
+        "onboard_time": 1707004105,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 163533,
+        "word": "致命游戏",
+        "onboard_time": 1707008130,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162162,
+        "num": 162162,
+        "word": "杨紫无实物演技",
+        "onboard_time": 1707008010,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159277,
+        "num": 159277,
+        "word": "买车厘子不能只看几个J",
+        "onboard_time": 1706971476,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158798,
+        "num": 158798,
+        "word": "掏空积蓄为儿买婚房被中介骗600万",
+        "onboard_time": 1706992876,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156919,
+        "num": 156919,
+        "word": "古人会迎春而不是躲春",
+        "onboard_time": 1707007294,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150772,
+        "num": 150772,
+        "word": "小沈阳感谢毛不易写出东北民谣",
+        "onboard_time": 1707008193,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146062,
+        "num": 146062,
+        "word": "詹姆斯拒绝回应合同问题",
+        "onboard_time": 1707006389,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126596,
+        "num": 126596,
+        "word": "大爷掏出补光灯那刻我人都惊呆了",
+        "onboard_time": 1706969794,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124874,
+        "num": 124874,
+        "word": "杨紫5年颜值变化",
+        "onboard_time": 1707003623,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123321,
+        "num": 123321,
+        "word": "疑似患癌者最终7%确诊",
+        "onboard_time": 1706970695,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119599,
+        "num": 119599,
+        "word": "吴磊少年人夫感",
+        "onboard_time": 1706979025,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119523,
+        "num": 119523,
+        "word": "在俄罗斯鸡蛋是怎么变金蛋的",
+        "onboard_time": 1707007409,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110516,
+        "num": 110516,
+        "word": "山东局地或遭遇暴雪",
+        "onboard_time": 1707005848,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110327,
+        "num": 110327,
+        "word": "白鹿ending镜头",
+        "onboard_time": 1707005308,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108947,
+        "num": 108947,
+        "word": "肖战同路人首唱",
+        "onboard_time": 1707004105,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99816,
+        "num": 99816,
+        "word": "王嘉尔导师秀",
+        "onboard_time": 1707009328,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#老百姓的事情是最重要的事情#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707003247741,
+  "endTime": 1707009389702,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -329,6 +329,14 @@
       "onboard_time": 1706797952,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1540460,
+      "num": 1540460,
+      "word": "白头发可能是身体给你的警报",
+      "onboard_time": 1707004887,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1535351,
@@ -667,6 +675,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1055082,
+      "num": 1055082,
+      "word": "高铁上打开电脑的人真的在忙吗",
+      "onboard_time": 1707002481,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1047395,
       "num": 1047395,
       "word": "爱情公寓 一镜到底",
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 836274,
+      "num": 836274,
+      "word": "刘德华自曝曾有粉丝藏床下",
+      "onboard_time": 1707001278,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 831666,
       "num": 831666,
       "word": "小金豆两个月在尔滨购房共4650套",
@@ -1171,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 700624,
+      "num": 700624,
+      "word": "镇政府拒不公布涉农补贴",
+      "onboard_time": 1707006631,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698325,
       "num": 698325,
       "word": "王安宇好多白头发",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1706962532,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 658908,
+      "num": 658908,
+      "word": "躲春",
+      "onboard_time": 1707005127,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657295,
@@ -1627,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568716,
+      "num": 568716,
+      "word": "欧阳娣娣初舞台",
+      "onboard_time": 1707004347,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 568695,
       "num": 568695,
       "word": "衡阳2岁失踪男童遗体被发现",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1706780070,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558474,
+      "num": 558474,
+      "word": "立春",
+      "onboard_time": 1707001880,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 557293,
@@ -1939,20 +1995,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 497986,
-      "num": 497986,
-      "word": "立春",
-      "onboard_time": 1707001880,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 497754,
       "num": 497754,
       "word": "仙剑四豆瓣开分4.2",
       "onboard_time": 1706774310,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496382,
+      "num": 486760,
+      "word": "兔年的第二个立春来了",
+      "onboard_time": 1707002784,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 494267,
@@ -2201,14 +2257,6 @@
       "onboard_time": 1706927307,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 456535,
-      "num": 194335,
-      "word": "刘德华自曝曾有粉丝藏床下",
-      "onboard_time": 1707001278,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 455428,
@@ -2675,6 +2723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387078,
+      "num": 387078,
+      "word": "南航 延误",
+      "onboard_time": 1707007229,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386612,
       "num": 197636,
       "word": "白鹿给王星越打伞",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1706850035,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 385846,
+      "num": 385846,
+      "word": "新疆地震",
+      "onboard_time": 1707005789,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385834,
@@ -2899,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 361970,
+      "num": 361970,
+      "word": "上班",
+      "onboard_time": 1707005308,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361936,
       "num": 361936,
       "word": "卜冠今回应造型争议",
@@ -3067,6 +3139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332904,
+      "num": 332904,
+      "word": "唐艺昕虞书欣撞衫",
+      "onboard_time": 1706985739,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332469,
       "num": 332469,
       "word": "一只鸽子在印度被当成中国间谍",
@@ -3163,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327846,
+      "num": 327846,
+      "word": "姆巴佩下赛季加盟皇马",
+      "onboard_time": 1707005908,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "曝湖人可能交易詹姆斯",
@@ -3195,6 +3283,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 324926,
+      "num": 324926,
+      "word": "体检报告中这些字眼可能是癌",
+      "onboard_time": 1707007473,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 324082,
       "num": 324082,
       "word": "Jennie对卡皮巴拉是真心的",
@@ -3209,6 +3305,14 @@
       "onboard_time": 1706776112,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323313,
+      "num": 323313,
+      "word": "中央气象台连发4预警",
+      "onboard_time": 1707005609,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323087,
@@ -3571,12 +3675,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286249,
+      "num": 286249,
+      "word": "贺峻霖考试成绩出来了",
+      "onboard_time": 1707005009,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284913,
       "num": 284913,
       "word": "为什么咳嗽起来就止不住",
       "onboard_time": 1706842650,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284901,
+      "num": 284901,
+      "word": "邱瑞拉黑攻击杨波的粉丝",
+      "onboard_time": 1707004707,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 282169,
@@ -3633,6 +3753,14 @@
       "onboard_time": 1706955568,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 279606,
+      "num": 279606,
+      "word": "南京地铁",
+      "onboard_time": 1707004887,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279509,
@@ -4644,7 +4772,7 @@
     },
     {
       "raw_hot": 218053,
-      "num": 194024,
+      "num": 194213,
       "word": "赌王四太穿苗服跳民族舞",
       "onboard_time": 1706988019,
       "rank": 30,
@@ -4657,6 +4785,14 @@
       "onboard_time": 1706811740,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217727,
+      "num": 217727,
+      "word": "全国超百趟列车停运",
+      "onboard_time": 1707005609,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216940,
@@ -4731,6 +4867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213704,
+      "num": 213704,
+      "word": "品牌回应儿童鞋颜色名为奴仆黄",
+      "onboard_time": 1707005485,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213363,
       "num": 213363,
       "word": "小年夜收到爸妈点的一桌外卖",
@@ -4801,6 +4945,14 @@
       "onboard_time": 1706878953,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211198,
+      "num": 211198,
+      "word": "第一年在婆家过年",
+      "onboard_time": 1707006991,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 210765,
@@ -5987,6 +6139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 179601,
+      "num": 179601,
+      "word": "创造营",
+      "onboard_time": 1707009032,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179431,
       "num": 179431,
       "word": "第二十条新浪扫楼",
@@ -6007,6 +6167,14 @@
       "num": 179120,
       "word": "芙拉直播",
       "onboard_time": 1706873073,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178734,
+      "num": 178734,
+      "word": "薛之谦买菜帮助老人",
+      "onboard_time": 1707008790,
       "rank": 32,
       "category": "艺人"
     },
@@ -6257,14 +6425,6 @@
       "onboard_time": 1706877212,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173272,
-      "num": 173272,
-      "word": "兔年的第二个立春来了",
-      "onboard_time": 1707002784,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 173117,
@@ -6595,6 +6755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164522,
+      "num": 164522,
+      "word": "冰墩墩我想你了",
+      "onboard_time": 1707004105,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164460,
       "num": 164460,
       "word": "田馥甄否认遭暗捅",
@@ -6641,6 +6809,14 @@
       "onboard_time": 1706752472,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "致命游戏",
+      "onboard_time": 1707008130,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 163528,
@@ -6691,12 +6867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162497,
-      "num": 162497,
-      "word": "唐艺昕虞书欣撞衫",
-      "onboard_time": 1706985739,
-      "rank": 6,
-      "category": "作品衍生"
+      "raw_hot": 162162,
+      "num": 162162,
+      "word": "杨紫无实物演技",
+      "onboard_time": 1707008010,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 162125,
@@ -6841,6 +7017,14 @@
       "onboard_time": 1706871152,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156919,
+      "num": 156919,
+      "word": "古人会迎春而不是躲春",
+      "onboard_time": 1707007294,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 156795,
@@ -7036,7 +7220,7 @@
     },
     {
       "raw_hot": 151662,
-      "num": 104080,
+      "num": 119599,
       "word": "吴磊少年人夫感",
       "onboard_time": 1706979025,
       "rank": 21,
@@ -7065,6 +7249,14 @@
       "onboard_time": 1706713831,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150772,
+      "num": 150772,
+      "word": "小沈阳感谢毛不易写出东北民谣",
+      "onboard_time": 1707008193,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 150643,
@@ -7272,6 +7464,14 @@
       "word": "金博洋完成3个四周跳",
       "onboard_time": 1706960972,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146062,
+      "num": 146062,
+      "word": "詹姆斯拒绝回应合同问题",
+      "onboard_time": 1707006389,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -8163,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124874,
+      "num": 124874,
+      "word": "杨紫5年颜值变化",
+      "onboard_time": 1707003623,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124603,
       "num": 124603,
       "word": "舌尖美食接龙",
@@ -8297,6 +8505,14 @@
       "onboard_time": 1706704112,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119523,
+      "num": 119523,
+      "word": "在俄罗斯鸡蛋是怎么变金蛋的",
+      "onboard_time": 1707007409,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 119391,
@@ -8483,14 +8699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113945,
-      "num": 113945,
-      "word": "高铁上打开电脑的人真的在忙吗",
-      "onboard_time": 1707002481,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113713,
       "num": 113713,
       "word": "WB零封XYG",
@@ -8651,6 +8859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110516,
+      "num": 110516,
+      "word": "山东局地或遭遇暴雪",
+      "onboard_time": 1707005848,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110346,
       "num": 110346,
       "word": "你算是踢到棉花啦",
@@ -8664,6 +8880,14 @@
       "word": "虞书欣许凯hi6路透",
       "onboard_time": 1706784030,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110327,
+      "num": 110327,
+      "word": "白鹿ending镜头",
+      "onboard_time": 1707005308,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -8713,6 +8937,14 @@
       "onboard_time": 1706839047,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108947,
+      "num": 108947,
+      "word": "肖战同路人首唱",
+      "onboard_time": 1707004105,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108924,
@@ -8905,6 +9137,14 @@
       "onboard_time": 1706890170,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99816,
+      "num": 99816,
+      "word": "王嘉尔导师秀",
+      "onboard_time": 1707009328,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99803,
