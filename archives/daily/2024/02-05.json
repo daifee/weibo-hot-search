@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707071696458,
+  "endTime": 1707074077421,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 45326,
+      "num": 45326,
+      "word": "杨千嬅快把冷门歌唱热了",
+      "onboard_time": 1707072556,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32820,
       "num": 32820,
       "word": "薛之谦是在赶新歌吗",
@@ -489,6 +497,14 @@
       "onboard_time": 1707051152,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18524,
+      "num": 18524,
+      "word": "恋与深空",
+      "onboard_time": 1707058714,
+      "rank": 45,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

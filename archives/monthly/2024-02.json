@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707071696458,
+  "endTime": 1707074077421,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -12073,6 +12073,14 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 45326,
+      "num": 45326,
+      "word": "杨千嬅快把冷门歌唱热了",
+      "onboard_time": 1707072556,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 44698,

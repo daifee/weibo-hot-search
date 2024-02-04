@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707071696458,
+  "endTime": 1707074077421,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -3235,6 +3235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45326,
+      "num": 45326,
+      "word": "杨千嬅快把冷门歌唱热了",
+      "onboard_time": 1707072556,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44698,
       "num": 43736,
       "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
@@ -3360,6 +3368,14 @@
       "word": "王者荣耀爆改地铁",
       "onboard_time": 1707042991,
       "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 18524,
+      "num": 18524,
+      "word": "恋与深空",
+      "onboard_time": 1707058714,
+      "rank": 45,
       "category": "游戏"
     },
     {
