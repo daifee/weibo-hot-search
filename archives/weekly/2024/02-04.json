@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707088579538,
+  "endTime": 1707089657214,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 895282,
+      "num": 895282,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895170,
       "num": 895170,
       "word": "领导三年压力走了13个人",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 617856,
-      "num": 111282,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610982,
       "num": 610982,
       "word": "董璇自曝被撮合圈内相亲",
@@ -593,6 +593,14 @@
       "onboard_time": 1707057875,
       "rank": 21,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 490072,
+      "num": 165974,
+      "word": "乘客下单叫到66.6公里外网约车",
+      "onboard_time": 1707083896,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485515,
@@ -849,14 +857,6 @@
       "onboard_time": 1707050553,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 381769,
-      "num": 110984,
-      "word": "乘客下单叫到66.6公里外网约车",
-      "onboard_time": 1707083896,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381158,
@@ -1307,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252590,
+      "num": 252590,
+      "word": "梅西赛后拒绝领奖发言",
+      "onboard_time": 1707088762,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1707049114,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241089,
+      "num": 241089,
+      "word": "91岁奶奶找回了失散55年的心肝宝贝",
+      "onboard_time": 1707074717,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238675,
@@ -1611,6 +1627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214998,
+      "num": 164866,
+      "word": "王海测评希望董宇辉弯腰道歉",
+      "onboard_time": 1707076877,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 212419,
       "num": 137912,
       "word": "时代少年团变魔术",
@@ -1801,14 +1825,6 @@
       "onboard_time": 1707058894,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201779,
-      "num": 201779,
-      "word": "91岁奶奶找回了失散55年的心肝宝贝",
-      "onboard_time": 1707074717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200958,
@@ -2043,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183702,
+      "num": 163635,
+      "word": "你努把力把他拐回国结婚",
+      "onboard_time": 1707086778,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182375,
       "num": 182375,
       "word": "重庆漫展",
@@ -2105,14 +2129,6 @@
       "onboard_time": 1707025650,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173402,
-      "num": 110047,
-      "word": "王海测评希望董宇辉弯腰道歉",
-      "onboard_time": 1707076877,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 173185,
@@ -2233,6 +2249,14 @@
       "onboard_time": 1706965771,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161480,
+      "num": 161480,
+      "word": "格莱美红毯",
+      "onboard_time": 1707088582,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 160747,
@@ -2979,6 +3003,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106300,
+      "num": 106300,
+      "word": "阿森纳3比1利物浦",
+      "onboard_time": 1707088463,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105969,
+      "num": 105969,
+      "word": "快递小哥铲雪挖百米通道送货",
+      "onboard_time": 1707088762,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105896,
       "num": 105896,
       "word": "只有在自己家才能做自己",
@@ -3019,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102921,
+      "num": 77043,
+      "word": "腊月二十六",
+      "onboard_time": 1707089362,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102846,
       "num": 102846,
       "word": "渐冻人蔡磊谈濒死感",
@@ -3033,14 +3081,6 @@
       "onboard_time": 1706973632,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97415,
-      "num": 97415,
-      "word": "你努把力把他拐回国结婚",
-      "onboard_time": 1707086778,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 96946,
@@ -3155,12 +3195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73513,
+      "num": 73513,
+      "word": "忍不住在考研群里怼人了",
+      "onboard_time": 1707088463,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72383,
       "num": 123582,
       "word": "突然出现的咽喉炎到底是什么病毒",
       "onboard_time": 1706952211,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 69510,
+      "num": 69510,
+      "word": "梅西没出场比赛或扣减1600万赞助",
+      "onboard_time": 1707089244,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 68782,
@@ -3203,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66774,
+      "num": 66774,
+      "word": "新娘 跳吧谁跳得过你们啊",
+      "onboard_time": 1707088824,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66376,
       "num": 59759,
       "word": "脱口秀大会第六季大王",
@@ -3217,6 +3281,22 @@
       "onboard_time": 1707085816,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65603,
+      "num": 65603,
+      "word": "突然就学会化妆了",
+      "onboard_time": 1707089244,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 65578,
+      "num": 65578,
+      "word": "拔掉白头发长出来的还是白头发",
+      "onboard_time": 1707089122,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 64336,
@@ -3257,6 +3337,14 @@
       "onboard_time": 1706998336,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51428,
+      "num": 51428,
+      "word": "列车播报员居然是毛不易",
+      "onboard_time": 1707082935,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 49479,
@@ -3331,36 +3419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40208,
-      "num": 40208,
-      "word": "忍不住在考研群里怼人了",
-      "onboard_time": 1707088463,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 37711,
-      "num": 37711,
-      "word": "阿森纳3比1利物浦",
-      "onboard_time": 1707088463,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37603,
       "num": 216158,
       "word": "来左边一起跟老舅画个龙",
       "onboard_time": 1707041912,
       "rank": 27,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 37403,
-      "num": 39432,
-      "word": "列车播报员居然是毛不易",
-      "onboard_time": 1707082935,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 36920,
