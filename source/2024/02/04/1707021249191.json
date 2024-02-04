@@ -1,0 +1,410 @@
+{
+  "runTime": 1707021249191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845671,
+        "num": 1845671,
+        "word": "韩网评张佳宁穿朝鲜族服饰",
+        "onboard_time": 1707016892,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1193157,
+        "num": 1193157,
+        "word": "iPhone工作日闹钟今天没响",
+        "onboard_time": 1707017551,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68044,
+        "num": 1169194,
+        "word": "你追的爆款网络视听盛典包售后",
+        "onboard_time": 1707018630,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1209482,
+        "num": 1163365,
+        "word": "调休",
+        "onboard_time": 1707010589,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154564,
+        "num": 1154564,
+        "word": "贾静雯女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1707019533,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781357,
+        "num": 781357,
+        "word": "交警回应网传徐老太疑涉套牌",
+        "onboard_time": 1707015691,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685746,
+        "num": 685746,
+        "word": "宋雨琦与Minnie曾喜欢同一男生",
+        "onboard_time": 1707016650,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578752,
+        "num": 578752,
+        "word": "奔驰加塞事件正面7分钟监控曝光",
+        "onboard_time": 1707019951,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538601,
+        "num": 538601,
+        "word": "白头发可能是身体给你的警报",
+        "onboard_time": 1707004887,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303750,
+        "num": 516742,
+        "word": "近视眼手术的优缺点",
+        "onboard_time": 1707011849,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 516337,
+        "num": 516337,
+        "word": "奇瑞",
+        "onboard_time": 1707016530,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513240,
+        "num": 513240,
+        "word": "多地中小学教师被要求寒假期间值班",
+        "onboard_time": 1707019411,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460183,
+        "num": 460183,
+        "word": "电影西游记真假美猴王官宣",
+        "onboard_time": 1707015450,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432820,
+        "num": 432820,
+        "word": "过年真的要花好多钱啊",
+        "onboard_time": 1707018870,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114077,
+        "num": 409630,
+        "word": "霸王茶姬杯子寓意",
+        "onboard_time": 1707019232,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405136,
+        "num": 405136,
+        "word": "春晚第四次联排明星阵容",
+        "onboard_time": 1707019468,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371169,
+        "num": 371169,
+        "word": "美甲 约不上",
+        "onboard_time": 1707020790,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 365014,
+        "num": 365014,
+        "word": "夜食症",
+        "onboard_time": 1707014370,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327162,
+        "num": 327162,
+        "word": "内娱700多人信息7元打包卖",
+        "onboard_time": 1707011908,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317092,
+        "num": 317092,
+        "word": "12306回应部分列车停运",
+        "onboard_time": 1707018088,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309271,
+        "num": 309271,
+        "word": "武汉暴雪",
+        "onboard_time": 1706973153,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295358,
+        "num": 295358,
+        "word": "颖儿付辛博为女儿庆生",
+        "onboard_time": 1707011070,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285424,
+        "num": 285424,
+        "word": "傅菁新剧演孕妇",
+        "onboard_time": 1707017250,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249343,
+        "num": 249343,
+        "word": "星巴克中产滤镜被大爷大妈打碎",
+        "onboard_time": 1707013829,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246205,
+        "num": 246205,
+        "word": "库里60分",
+        "onboard_time": 1707017011,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239115,
+        "num": 239115,
+        "word": "蝴蝶少女直拍",
+        "onboard_time": 1707013527,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222490,
+        "num": 222490,
+        "word": "世界之外新PV",
+        "onboard_time": 1707018749,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210863,
+        "num": 210863,
+        "word": "立春",
+        "onboard_time": 1707001880,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208785,
+        "num": 208785,
+        "word": "原来小猫真的会装可爱",
+        "onboard_time": 1707017732,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163538,
+        "num": 208113,
+        "word": "兔年的第二个立春来了",
+        "onboard_time": 1707002784,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207644,
+        "num": 207644,
+        "word": "刘德华自曝曾有粉丝藏床下",
+        "onboard_time": 1707001278,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206400,
+        "num": 206400,
+        "word": "湖人终结尼克斯九连胜",
+        "onboard_time": 1707020192,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206159,
+        "num": 206159,
+        "word": "小品 烂梗",
+        "onboard_time": 1706975010,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205835,
+        "num": 205835,
+        "word": "白敬亭红葫芦背包",
+        "onboard_time": 1707020011,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201445,
+        "num": 205697,
+        "word": "迪丽热巴官宣百花迎春晚会",
+        "onboard_time": 1707021151,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205694,
+        "num": 205694,
+        "word": "高铁晚点",
+        "onboard_time": 1707014489,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204165,
+        "num": 204165,
+        "word": "billkin福州演唱会",
+        "onboard_time": 1707020912,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200958,
+        "num": 200958,
+        "word": "龙宝",
+        "onboard_time": 1707019771,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197473,
+        "num": 197473,
+        "word": "杨洋空中环绕四圈半",
+        "onboard_time": 1707020133,
+        "rank": 38,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 196141,
+        "num": 196141,
+        "word": "躲春",
+        "onboard_time": 1707005127,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192309,
+        "num": 192309,
+        "word": "成毅杂志",
+        "onboard_time": 1707020251,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191311,
+        "num": 191311,
+        "word": "范志毅谈27年前被6万人骂",
+        "onboard_time": 1707017192,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188938,
+        "num": 188938,
+        "word": "Teddy新女团曝光",
+        "onboard_time": 1707017192,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188182,
+        "num": 188182,
+        "word": "口腔溃疡",
+        "onboard_time": 1707020731,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173166,
+        "num": 173166,
+        "word": "三代今天就是来揍你的",
+        "onboard_time": 1707017371,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167934,
+        "num": 167934,
+        "word": "龙年央视春晚第四次联排",
+        "onboard_time": 1707012691,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162984,
+        "num": 162984,
+        "word": "高铁上打开电脑的人真的在忙吗",
+        "onboard_time": 1707002481,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131923,
+        "num": 159693,
+        "word": "周杰伦巴黎大片",
+        "onboard_time": 1707019533,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157525,
+        "num": 157525,
+        "word": "暗送邱波",
+        "onboard_time": 1707009688,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154897,
+        "num": 154897,
+        "word": "贺峻霖考试成绩出来了",
+        "onboard_time": 1707005009,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军官兵致以新春祝福#"
+    }
+  }
+}

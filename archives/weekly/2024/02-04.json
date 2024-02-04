@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707020357948,
+  "endTime": 1707021249191,
   "band_list": [
     {
       "raw_hot": 2447148,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1807868,
-      "num": 1807868,
+      "raw_hot": 1845671,
+      "num": 1845671,
       "word": "韩网评张佳宁穿朝鲜族服饰",
       "onboard_time": 1707016892,
       "rank": 4,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1193157,
+      "num": 1193157,
+      "word": "iPhone工作日闹钟今天没响",
+      "onboard_time": 1707017551,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1169126,
       "num": 1169126,
       "word": "交警回应网传徐老太疑涉套牌",
       "onboard_time": 1707015691,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1154564,
+      "num": 1154564,
+      "word": "贾静雯女儿梧桐妹戴唇环舌环",
+      "onboard_time": 1707019533,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1142876,
@@ -73,14 +89,6 @@
       "onboard_time": 1707002481,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1042945,
-      "num": 1042945,
-      "word": "iPhone工作日闹钟今天没响",
-      "onboard_time": 1707017551,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 956046,
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 741297,
-      "num": 741297,
-      "word": "贾静雯女儿梧桐妹戴唇环舌环",
-      "onboard_time": 1707019533,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 738596,
       "num": 738596,
       "word": "躲春",
@@ -185,6 +185,14 @@
       "onboard_time": 1707012691,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 578752,
+      "num": 578752,
+      "word": "奔驰加塞事件正面7分钟监控曝光",
+      "onboard_time": 1707019951,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568716,
@@ -227,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 513240,
+      "num": 513240,
+      "word": "多地中小学教师被要求寒假期间值班",
+      "onboard_time": 1707019411,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501323,
       "num": 501323,
       "word": "酸奶碗",
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460183,
+      "num": 460183,
+      "word": "电影西游记真假美猴王官宣",
+      "onboard_time": 1707015450,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 453619,
       "num": 453619,
       "word": "南航 延误",
@@ -281,6 +305,14 @@
       "onboard_time": 1707007473,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 432820,
+      "num": 432820,
+      "word": "过年真的要花好多钱啊",
+      "onboard_time": 1707018870,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 431676,
@@ -315,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408161,
-      "num": 408161,
-      "word": "电影西游记真假美猴王官宣",
-      "onboard_time": 1707015450,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 405136,
+      "num": 405136,
+      "word": "春晚第四次联排明星阵容",
+      "onboard_time": 1707019468,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 402202,
@@ -361,6 +393,14 @@
       "onboard_time": 1707005308,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 371169,
+      "num": 371169,
+      "word": "美甲 约不上",
+      "onboard_time": 1707020790,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 366187,
@@ -451,28 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313831,
-      "num": 313831,
-      "word": "春晚第四次联排明星阵容",
-      "onboard_time": 1707019468,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312208,
       "num": 312208,
       "word": "库里60分",
       "onboard_time": 1707017011,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302288,
-      "num": 302288,
-      "word": "过年真的要花好多钱啊",
-      "onboard_time": 1707018870,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 300217,
@@ -521,14 +545,6 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284022,
-      "num": 284022,
-      "word": "多地中小学教师被要求寒假期间值班",
-      "onboard_time": 1707019411,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279606,
@@ -699,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211914,
-      "num": 211914,
-      "word": "奔驰加塞事件正面7分钟监控曝光",
-      "onboard_time": 1707019951,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211198,
       "num": 211198,
       "word": "第一年在婆家过年",
       "onboard_time": 1707006991,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208785,
+      "num": 208785,
+      "word": "原来小猫真的会装可爱",
+      "onboard_time": 1707017732,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 208227,
@@ -731,6 +747,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206400,
+      "num": 206400,
+      "word": "湖人终结尼克斯九连胜",
+      "onboard_time": 1707020192,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205835,
+      "num": 205835,
+      "word": "白敬亭红葫芦背包",
+      "onboard_time": 1707020011,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205667,
       "num": 205667,
       "word": "立春原来是古代的春节",
@@ -739,8 +771,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199700,
-      "num": 199700,
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "billkin福州演唱会",
+      "onboard_time": 1707020912,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201445,
+      "num": 205697,
+      "word": "迪丽热巴官宣百花迎春晚会",
+      "onboard_time": 1707021151,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200958,
+      "num": 200958,
       "word": "龙宝",
       "onboard_time": 1707019771,
       "rank": 34,
@@ -753,6 +801,14 @@
       "onboard_time": 1706965472,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197473,
+      "num": 197473,
+      "word": "杨洋空中环绕四圈半",
+      "onboard_time": 1707020133,
+      "rank": 44,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 195713,
@@ -779,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192309,
+      "num": 192309,
+      "word": "成毅杂志",
+      "onboard_time": 1707020251,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189952,
       "num": 189952,
       "word": "大叔高速救火20分钟后默默离开",
@@ -787,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188141,
-      "num": 188141,
-      "word": "原来小猫真的会装可爱",
-      "onboard_time": 1707017732,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 188182,
+      "num": 188182,
+      "word": "口腔溃疡",
+      "onboard_time": 1707020731,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186732,
@@ -883,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176560,
-      "num": 176560,
-      "word": "白敬亭红葫芦背包",
-      "onboard_time": 1707020011,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169197,
       "num": 165483,
       "word": "冯巩相声",
@@ -907,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165121,
-      "num": 165121,
-      "word": "湖人终结尼克斯九连胜",
-      "onboard_time": 1707020192,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165108,
       "num": 165108,
       "word": "冰墩墩我想你了",
@@ -929,14 +977,6 @@
       "onboard_time": 1706979684,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163944,
-      "num": 163944,
-      "word": "杨洋空中环绕四圈半",
-      "onboard_time": 1707020133,
-      "rank": 44,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 163533,
@@ -985,14 +1025,6 @@
       "onboard_time": 1707007294,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156575,
-      "num": 156575,
-      "word": "成毅杂志",
-      "onboard_time": 1707020251,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155136,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 139836,
-      "num": 139836,
+      "num": 159693,
       "word": "周杰伦巴黎大片",
       "onboard_time": 1707019533,
       "rank": 48,
@@ -1171,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114077,
+      "num": 409630,
+      "word": "霸王茶姬杯子寓意",
+      "onboard_time": 1707019232,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111993,
       "num": 101579,
       "word": "林亦扬殷果睡一张床",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1707005848,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110494,
-      "num": 333036,
-      "word": "霸王茶姬杯子寓意",
-      "onboard_time": 1707019232,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 110327,
@@ -1347,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68044,
+      "num": 1169194,
+      "word": "你追的爆款网络视听盛典包售后",
+      "onboard_time": 1707018630,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67603,
       "num": 59771,
       "word": "创造营亚洲",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1706971954,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61408,
-      "num": 1077766,
-      "word": "你追的爆款网络视听盛典包售后",
-      "onboard_time": 1707018630,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 54355,

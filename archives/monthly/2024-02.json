@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707020357948,
+  "endTime": 1707021249191,
   "band_list": [
     {
       "raw_hot": 3421471,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1845671,
+      "num": 1845671,
+      "word": "韩网评张佳宁穿朝鲜族服饰",
+      "onboard_time": 1707016892,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1845141,
       "num": 1845141,
       "word": "我的婚礼取消了这七个环节",
@@ -217,14 +225,6 @@
       "onboard_time": 1706870130,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1807868,
-      "num": 1807868,
-      "word": "韩网评张佳宁穿朝鲜族服饰",
-      "onboard_time": 1707016892,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1804535,
@@ -547,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1193157,
+      "num": 1193157,
+      "word": "iPhone工作日闹钟今天没响",
+      "onboard_time": 1707017551,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1193106,
       "num": 1193106,
       "word": "频繁做美甲会导致手变黑",
@@ -585,6 +593,14 @@
       "onboard_time": 1706773169,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1154564,
+      "num": 1154564,
+      "word": "贾静雯女儿梧桐妹戴唇环舌环",
+      "onboard_time": 1707019533,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1148868,
@@ -721,14 +737,6 @@
       "onboard_time": 1706838090,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1042945,
-      "num": 1042945,
-      "word": "iPhone工作日闹钟今天没响",
-      "onboard_time": 1707017551,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 1013562,
@@ -1193,14 +1201,6 @@
       "onboard_time": 1706754629,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741297,
-      "num": 741297,
-      "word": "贾静雯女儿梧桐妹戴唇环舌环",
-      "onboard_time": 1707019533,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 738596,
@@ -1715,6 +1715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 578752,
+      "num": 578752,
+      "word": "奔驰加塞事件正面7分钟监控曝光",
+      "onboard_time": 1707019951,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577098,
       "num": 577098,
       "word": "宋伊人圈内人缘",
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513240,
+      "num": 513240,
+      "word": "多地中小学教师被要求寒假期间值班",
+      "onboard_time": 1707019411,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509722,
       "num": 509722,
       "word": "暴雪时分 留学生",
@@ -2355,6 +2371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 460183,
+      "num": 460183,
+      "word": "电影西游记真假美猴王官宣",
+      "onboard_time": 1707015450,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 458759,
       "num": 458759,
       "word": "西餐三大顶级食材价格已被国货打下来",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1706795974,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 432820,
+      "num": 432820,
+      "word": "过年真的要花好多钱啊",
+      "onboard_time": 1707018870,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 432521,
@@ -2715,20 +2747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408161,
-      "num": 408161,
-      "word": "电影西游记真假美猴王官宣",
-      "onboard_time": 1707015450,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 405918,
       "num": 405918,
       "word": "美作家称韩国只学到儒家思想和资本主义糟粕",
       "onboard_time": 1706759070,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 405136,
+      "num": 405136,
+      "word": "春晚第四次联排明星阵容",
+      "onboard_time": 1707019468,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 404846,
@@ -3009,6 +3041,14 @@
       "onboard_time": 1706925271,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371169,
+      "num": 371169,
+      "word": "美甲 约不上",
+      "onboard_time": 1707020790,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 371030,
@@ -3539,14 +3579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313831,
-      "num": 313831,
-      "word": "春晚第四次联排明星阵容",
-      "onboard_time": 1707019468,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313213,
       "num": 313213,
       "word": "赵丽颖二月均在剧组",
@@ -3712,14 +3744,6 @@
       "word": "其实追星比恋爱更无害",
       "onboard_time": 1706764173,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 302288,
-      "num": 302288,
-      "word": "过年真的要花好多钱啊",
-      "onboard_time": 1707018870,
-      "rank": 19,
       "category": "情感"
     },
     {
@@ -3921,14 +3945,6 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284022,
-      "num": 284022,
-      "word": "多地中小学教师被要求寒假期间值班",
-      "onboard_time": 1707019411,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282169,
@@ -5211,14 +5227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211914,
-      "num": 211914,
-      "word": "奔驰加塞事件正面7分钟监控曝光",
-      "onboard_time": 1707019951,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211447,
       "num": 211447,
       "word": "黄景瑜冬至杀青发了八万多红包",
@@ -5281,6 +5289,14 @@
       "onboard_time": 1706932410,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208785,
+      "num": 208785,
+      "word": "原来小猫真的会装可爱",
+      "onboard_time": 1707017732,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 208239,
@@ -5371,6 +5387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206400,
+      "num": 206400,
+      "word": "湖人终结尼克斯九连胜",
+      "onboard_time": 1707020192,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206219,
       "num": 188751,
       "word": "张极雀斑妆",
@@ -5385,6 +5409,14 @@
       "onboard_time": 1706962829,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205835,
+      "num": 205835,
+      "word": "白敬亭红葫芦背包",
+      "onboard_time": 1707020011,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 205832,
@@ -5481,6 +5513,14 @@
       "onboard_time": 1706973393,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "billkin福州演唱会",
+      "onboard_time": 1707020912,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 204151,
@@ -5600,6 +5640,14 @@
       "word": "网络视听盛典",
       "onboard_time": 1706960071,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201445,
+      "num": 205697,
+      "word": "迪丽热巴官宣百花迎春晚会",
+      "onboard_time": 1707021151,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -5729,6 +5777,14 @@
       "onboard_time": 1706961270,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197473,
+      "num": 197473,
+      "word": "杨洋空中环绕四圈半",
+      "onboard_time": 1707020133,
+      "rank": 44,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 197081,
@@ -5963,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192309,
+      "num": 192309,
+      "word": "成毅杂志",
+      "onboard_time": 1707020251,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192066,
       "num": 145117,
       "word": "街舞少年",
@@ -6163,12 +6227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188141,
-      "num": 188141,
-      "word": "原来小猫真的会装可爱",
-      "onboard_time": 1707017732,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 188182,
+      "num": 188182,
+      "word": "口腔溃疡",
+      "onboard_time": 1707020731,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187921,
@@ -6683,14 +6747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176560,
-      "num": 176560,
-      "word": "白敬亭红葫芦背包",
-      "onboard_time": 1707020011,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176383,
       "num": 181824,
       "word": "宝宝不唱儿歌过渡一下吗",
@@ -7131,14 +7187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165121,
-      "num": 165121,
-      "word": "湖人终结尼克斯九连胜",
-      "onboard_time": 1707020192,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165108,
       "num": 165108,
       "word": "冰墩墩我想你了",
@@ -7185,14 +7233,6 @@
       "onboard_time": 1706979684,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163944,
-      "num": 163944,
-      "word": "杨洋空中环绕四圈半",
-      "onboard_time": 1707020133,
-      "rank": 44,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 163815,
@@ -7449,14 +7489,6 @@
       "onboard_time": 1706790871,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156575,
-      "num": 156575,
-      "word": "成毅杂志",
-      "onboard_time": 1707020251,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155727,
@@ -8100,7 +8132,7 @@
     },
     {
       "raw_hot": 139836,
-      "num": 139836,
+      "num": 159693,
       "word": "周杰伦巴黎大片",
       "onboard_time": 1707019533,
       "rank": 48,
@@ -9179,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114077,
+      "num": 409630,
+      "word": "霸王茶姬杯子寓意",
+      "onboard_time": 1707019232,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113713,
       "num": 113713,
       "word": "WB零封XYG",
@@ -9345,14 +9385,6 @@
       "onboard_time": 1707005848,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110494,
-      "num": 333036,
-      "word": "霸王茶姬杯子寓意",
-      "onboard_time": 1707019232,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 110346,
@@ -10051,6 +10083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68044,
+      "num": 1169194,
+      "word": "你追的爆款网络视听盛典包售后",
+      "onboard_time": 1707018630,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66897,
       "num": 66897,
       "word": "马天宇说cp都是假的",
@@ -10089,14 +10129,6 @@
       "onboard_time": 1706808742,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61408,
-      "num": 1077766,
-      "word": "你追的爆款网络视听盛典包售后",
-      "onboard_time": 1707018630,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 60939,
