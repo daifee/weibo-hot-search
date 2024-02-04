@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707066881875,
+  "endTime": 1707068037458,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -1995,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183820,
+      "num": 122494,
+      "word": "初代网红奶茶倒闭潮",
+      "onboard_time": 1707065186,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183803,
       "num": 183803,
       "word": "三代今天就是来揍你的",
@@ -2120,14 +2128,6 @@
       "word": "掏空积蓄为儿买婚房被中介骗600万",
       "onboard_time": 1706992876,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166314,
-      "num": 122494,
-      "word": "初代网红奶茶倒闭潮",
-      "onboard_time": 1707065186,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3003,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96685,
+      "num": 91741,
+      "word": "林俊杰陶喆合唱就是爱你",
+      "onboard_time": 1707065425,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96329,
       "num": 96329,
       "word": "打扫卫生翻到了老公私房钱该怎么处理",
@@ -3017,14 +3025,6 @@
       "onboard_time": 1707038071,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92328,
-      "num": 78509,
-      "word": "林俊杰陶喆合唱就是爱你",
-      "onboard_time": 1707065425,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 92222,
@@ -3161,6 +3161,14 @@
       "onboard_time": 1706964932,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64884,
+      "num": 64884,
+      "word": "真实暧昧又尴尬",
+      "onboard_time": 1707067462,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 64336,

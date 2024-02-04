@@ -1,0 +1,410 @@
+{
+  "runTime": 1707068037458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 402228,
+        "num": 402228,
+        "word": "合肥南站D4832列车晚点744分钟",
+        "onboard_time": 1707056197,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333155,
+        "num": 333155,
+        "word": "吃完头孢7天内不能喝酒",
+        "onboard_time": 1707042512,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326849,
+        "num": 326849,
+        "word": "辛芷蕾就想吃颗毛豆她有什么错",
+        "onboard_time": 1707061291,
+        "rank": 2,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294791,
+        "num": 294791,
+        "word": "香港特区政府回应梅西缺战",
+        "onboard_time": 1707059611,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284698,
+        "num": 284698,
+        "word": "孩子玩手机把导航从回江西换到福建",
+        "onboard_time": 1707054695,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246703,
+        "num": 246703,
+        "word": "女子买刮刮乐兑奖却被撕彩票",
+        "onboard_time": 1707053194,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242220,
+        "num": 242220,
+        "word": "十个勤天用的什么散粉",
+        "onboard_time": 1707062371,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233926,
+        "num": 233926,
+        "word": "为什么只有中国医生擅长取鱼刺",
+        "onboard_time": 1707055534,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 210615,
+        "num": 210615,
+        "word": "李雪琴质疑苏醒理解苏醒超越苏醒",
+        "onboard_time": 1707062790,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172837,
+        "num": 172837,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1707059076,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170181,
+        "num": 170181,
+        "word": "一见钟情后的暧昧拉扯好上头",
+        "onboard_time": 1707061592,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161638,
+        "num": 161638,
+        "word": "安琪拉大招 水龙头",
+        "onboard_time": 1707047794,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161467,
+        "num": 161467,
+        "word": "五十度暴雪",
+        "onboard_time": 1707046111,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146425,
+        "num": 146425,
+        "word": "山下智久龟梨和也双人直播",
+        "onboard_time": 1707065546,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 143858,
+        "word": "刘亦菲初中时期旧照",
+        "onboard_time": 1707059375,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127842,
+        "num": 127842,
+        "word": "福建高速发生交通事故7人死亡",
+        "onboard_time": 1707049354,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121172,
+        "num": 121172,
+        "word": "湖北暴雪",
+        "onboard_time": 1707056434,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113735,
+        "num": 113735,
+        "word": "睡觉吧 你俩过几天就成了",
+        "onboard_time": 1707033873,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99501,
+        "num": 99501,
+        "word": "武汉高铁",
+        "onboard_time": 1707057817,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92837,
+        "num": 92837,
+        "word": "官方通报体彩店员撕毁中奖彩票",
+        "onboard_time": 1707059672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 92730,
+        "word": "初代网红奶茶倒闭潮",
+        "onboard_time": 1707065186,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180209,
+        "num": 92451,
+        "word": "看小说时真的会有生理反应",
+        "onboard_time": 1707057875,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 168902,
+        "num": 92240,
+        "word": "iPhone年收入首次占智能手机市场50%",
+        "onboard_time": 1707063329,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109947,
+        "num": 91942,
+        "word": "已读不回就是绝杀",
+        "onboard_time": 1707059314,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96685,
+        "num": 91741,
+        "word": "林俊杰陶喆合唱就是爱你",
+        "onboard_time": 1707065425,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91639,
+        "num": 91639,
+        "word": "小狗金子",
+        "onboard_time": 1707059133,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87237,
+        "num": 87237,
+        "word": "蓝盈莹否认整容",
+        "onboard_time": 1707049893,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79514,
+        "num": 79514,
+        "word": "打扫卫生翻到了老公私房钱该怎么处理",
+        "onboard_time": 1707064228,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66823,
+        "num": 66823,
+        "word": "深圳一工人清洗外墙掉下8楼",
+        "onboard_time": 1707053973,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66535,
+        "num": 66535,
+        "word": "港府称对梅西没出场比赛极度失望",
+        "onboard_time": 1707055534,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270775,
+        "num": 66184,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65788,
+        "num": 65788,
+        "word": "人真的会一夜白头",
+        "onboard_time": 1707058894,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64884,
+        "num": 64884,
+        "word": "真实暧昧又尴尬",
+        "onboard_time": 1707067462,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166165,
+        "num": 64633,
+        "word": "杨波报平安",
+        "onboard_time": 1707037290,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63145,
+        "num": 63145,
+        "word": "李亚鹏和妻女同框拍短片",
+        "onboard_time": 1707065246,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62528,
+        "num": 62528,
+        "word": "王者荣耀龙限皮肤",
+        "onboard_time": 1707045568,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60964,
+        "num": 60964,
+        "word": "小沈阳沈春阳",
+        "onboard_time": 1707051334,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56463,
+        "num": 56463,
+        "word": "网友自曝被举报作弊取消考研政治成绩",
+        "onboard_time": 1707047612,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55293,
+        "num": 55293,
+        "word": "成年人一天到底要崩溃多少次",
+        "onboard_time": 1707057393,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54566,
+        "num": 54566,
+        "word": "Xiaohu偷家RNG",
+        "onboard_time": 1707049954,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53698,
+        "num": 53698,
+        "word": "治愈自己最好的方式就是忙碌和早睡",
+        "onboard_time": 1707066085,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50655,
+        "num": 50655,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49962,
+        "num": 49962,
+        "word": "狗剩快跑",
+        "onboard_time": 1707050553,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47386,
+        "num": 47386,
+        "word": "刘浩存羽毛裙",
+        "onboard_time": 1707056855,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46796,
+        "num": 46796,
+        "word": "杨鸣 辽宁男篮",
+        "onboard_time": 1707046172,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43294,
+        "num": 43294,
+        "word": "吴磊 在娱乐圈当运动员",
+        "onboard_time": 1707057158,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43123,
+        "num": 43123,
+        "word": "方媛工作变多的原因",
+        "onboard_time": 1707056434,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42551,
+        "num": 42551,
+        "word": "少爷和我",
+        "onboard_time": 1707044133,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40563,
+        "num": 40563,
+        "word": "蔡徐坤新歌",
+        "onboard_time": 1707059197,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38239,
+        "num": 38239,
+        "word": "南航",
+        "onboard_time": 1707053253,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}

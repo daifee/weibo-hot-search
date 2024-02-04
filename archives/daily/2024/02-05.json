@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707066881875,
+  "endTime": 1707068037458,
   "band_list": [
     {
       "raw_hot": 1061808,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183820,
+      "num": 122494,
+      "word": "初代网红奶茶倒闭潮",
+      "onboard_time": 1707065186,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183675,
       "num": 183675,
       "word": "睡觉吧 你俩过几天就成了",
@@ -225,14 +233,6 @@
       "onboard_time": 1707052230,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166314,
-      "num": 122494,
-      "word": "初代网红奶茶倒闭潮",
-      "onboard_time": 1707065186,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159813,
@@ -371,20 +371,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96685,
+      "num": 91741,
+      "word": "林俊杰陶喆合唱就是爱你",
+      "onboard_time": 1707065425,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96329,
       "num": 96329,
       "word": "打扫卫生翻到了老公私房钱该怎么处理",
       "onboard_time": 1707064228,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92328,
-      "num": 78509,
-      "word": "林俊杰陶喆合唱就是爱你",
-      "onboard_time": 1707065425,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 89253,
@@ -441,6 +441,14 @@
       "onboard_time": 1707042391,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64884,
+      "num": 64884,
+      "word": "真实暧昧又尴尬",
+      "onboard_time": 1707067462,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 58028,
