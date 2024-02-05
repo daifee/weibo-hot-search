@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707122063494,
+  "endTime": 1707124658702,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -771,6 +771,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1148220,
+      "num": 1148220,
+      "word": "龙年央视春晚主持人阵容",
+      "onboard_time": 1707121833,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1142876,
       "num": 1142876,
       "word": "小品 烂梗",
@@ -857,6 +865,14 @@
       "onboard_time": 1706976868,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098797,
+      "num": 465050,
+      "word": "胡锡进目前亏损78925.06元",
+      "onboard_time": 1707121171,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 1096211,
@@ -1155,6 +1171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 880269,
+      "num": 880269,
+      "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+      "onboard_time": 1707123511,
+      "rank": 3,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 877428,
       "num": 877428,
       "word": "体检中心体检正常5个月后查出乳腺癌",
@@ -1307,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827384,
+      "num": 827384,
+      "word": "湖北暴雪司机被困36小时煮雪融水喝",
+      "onboard_time": 1707122971,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 826816,
       "num": 826816,
       "word": "韩国男星性侵粉丝判有期徒刑3年",
@@ -1451,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781246,
+      "num": 781246,
+      "word": "教育局回应教务处老师被曝性骚扰女生",
+      "onboard_time": 1707121292,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780187,
       "num": 780187,
       "word": "秦海璐向王新军介绍王安宇",
@@ -1491,12 +1531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 760222,
-      "num": 465050,
-      "word": "胡锡进目前亏损78925.06元",
-      "onboard_time": 1707121171,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 760081,
+      "num": 760081,
+      "word": "全红婵反超",
+      "onboard_time": 1707121771,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 757997,
@@ -1617,6 +1657,14 @@
       "onboard_time": 1706713774,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 730575,
+      "num": 730575,
+      "word": "周深演了杨幂的男主角",
+      "onboard_time": 1707121112,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 727858,
@@ -2147,6 +2195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 611708,
+      "num": 611708,
+      "word": "虞姬典藏 精致土",
+      "onboard_time": 1707120573,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 610982,
       "num": 610982,
       "word": "董璇自曝被撮合圈内相亲",
@@ -2321,14 +2377,6 @@
       "onboard_time": 1706829142,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572738,
-      "num": 572738,
-      "word": "虞姬典藏 精致土",
-      "onboard_time": 1707120573,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 572705,
@@ -3027,14 +3075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479460,
-      "num": 479460,
-      "word": "教育局回应教务处老师被曝性骚扰女生",
-      "onboard_time": 1707121292,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479274,
       "num": 399255,
       "word": "郑爽仍有3856万赔付款未履行",
@@ -3207,6 +3247,14 @@
       "num": 453619,
       "word": "南航 延误",
       "onboard_time": 1707007229,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452434,
+      "num": 452434,
+      "word": "孙志刚被开除党籍",
+      "onboard_time": 1707123273,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -4923,22 +4971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300600,
-      "num": 248167,
-      "word": "全红婵反超",
-      "onboard_time": 1707121771,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 300400,
-      "num": 300400,
-      "word": "周深演了杨幂的男主角",
-      "onboard_time": 1707121112,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299239,
       "num": 299239,
       "word": "时代少年团 王者荣耀表演赛",
@@ -4993,6 +5025,14 @@
       "onboard_time": 1707018749,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295868,
+      "num": 256192,
+      "word": "时代少年团王者直播首秀",
+      "onboard_time": 1707120930,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 294884,
@@ -5227,6 +5267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281080,
+      "num": 281080,
+      "word": "范丞丞科目一考了好几次",
+      "onboard_time": 1707124173,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281035,
       "num": 231526,
       "word": "风月不相关 刘宇宁田曦薇",
@@ -5305,14 +5353,6 @@
       "onboard_time": 1706845473,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279035,
-      "num": 279035,
-      "word": "龙年央视春晚主持人阵容",
-      "onboard_time": 1707121833,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 278820,
@@ -5547,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267609,
+      "num": 257899,
+      "word": "吴磊赵今麦中戏第一vs北影第一",
+      "onboard_time": 1707121590,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266654,
       "num": 266654,
       "word": "EDG更换首发AD被处罚",
@@ -5649,6 +5697,14 @@
       "onboard_time": 1707009032,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260022,
+      "num": 260022,
+      "word": "田惠宇一审被判死缓",
+      "onboard_time": 1707124353,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259928,
@@ -6249,6 +6305,14 @@
       "onboard_time": 1707025529,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235352,
+      "num": 235352,
+      "word": "陈芋汐晋级",
+      "onboard_time": 1707123033,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 235221,
@@ -6980,7 +7044,7 @@
     },
     {
       "raw_hot": 214000,
-      "num": 214000,
+      "num": 221470,
       "word": "主办方回应梅西缺赛",
       "onboard_time": 1707102513,
       "rank": 31,
@@ -7427,6 +7491,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 204849,
+      "num": 204849,
+      "word": "吴磊王星越情头",
+      "onboard_time": 1707123511,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "KSG教练",
@@ -7651,6 +7723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201691,
+      "num": 201691,
+      "word": "湖北冻雨",
+      "onboard_time": 1707123389,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201573,
       "num": 201573,
       "word": "空姐主动为玩偶系安全带",
@@ -7721,14 +7801,6 @@
       "onboard_time": 1706871933,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199739,
-      "num": 199739,
-      "word": "吴磊赵今麦中戏第一vs北影第一",
-      "onboard_time": 1707121590,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 199548,
@@ -9139,14 +9211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173836,
-      "num": 256192,
-      "word": "时代少年团王者直播首秀",
-      "onboard_time": 1707120930,
-      "rank": 38,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 173778,
       "num": 173778,
       "word": "车厘子为什么会红到发黑",
@@ -9393,6 +9457,14 @@
       "onboard_time": 1706936011,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168468,
+      "num": 168468,
+      "word": "春节美甲部分店铺限制团购",
+      "onboard_time": 1707124290,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 168422,
@@ -9876,7 +9948,7 @@
     },
     {
       "raw_hot": 159448,
-      "num": 798648,
+      "num": 939009,
       "word": "春节假期安全提示来了",
       "onboard_time": 1707119068,
       "rank": 2,
@@ -11809,6 +11881,14 @@
       "onboard_time": 1707099931,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125995,
+      "num": 125995,
+      "word": "乡村爱情永远比iPhone多一部",
+      "onboard_time": 1707124592,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 125520,
@@ -13995,6 +14075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28407,
+      "num": 194168,
+      "word": "vivo连续三年国产手机销量第一",
+      "onboard_time": 1707123935,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28397,
       "num": 28397,
       "word": "肖战GQ文字采访",
@@ -14049,6 +14137,14 @@
       "onboard_time": 1706908096,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24203,
+      "num": 257996,
+      "word": "全国小可爱涌入京东许心愿",
+      "onboard_time": 1707122073,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 24021,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707122063494,
+  "endTime": 1707124658702,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1148220,
+      "num": 1148220,
+      "word": "龙年央视春晚主持人阵容",
+      "onboard_time": 1707121833,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1142876,
       "num": 1142876,
       "word": "小品 烂梗",
@@ -273,6 +281,14 @@
       "onboard_time": 1706976868,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098797,
+      "num": 465050,
+      "word": "胡锡进目前亏损78925.06元",
+      "onboard_time": 1707121171,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 1092186,
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 880269,
+      "num": 880269,
+      "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+      "onboard_time": 1707123511,
+      "rank": 3,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 872163,
       "num": 872163,
       "word": "酱园弄 章子怡",
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827384,
+      "num": 827384,
+      "word": "湖北暴雪司机被困36小时煮雪融水喝",
+      "onboard_time": 1707122971,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 810263,
       "num": 810263,
       "word": "财阀家的女爱豆",
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781246,
+      "num": 781246,
+      "word": "教育局回应教务处老师被曝性骚扰女生",
+      "onboard_time": 1707121292,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772290,
       "num": 772290,
       "word": "霉霉高开衩白裙",
@@ -483,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 760222,
-      "num": 465050,
-      "word": "胡锡进目前亏损78925.06元",
-      "onboard_time": 1707121171,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 760081,
+      "num": 760081,
+      "word": "全红婵反超",
+      "onboard_time": 1707121771,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 754216,
@@ -528,6 +568,14 @@
       "word": "白鹿调休受害人",
       "onboard_time": 1707024088,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 730575,
+      "num": 730575,
+      "word": "周深演了杨幂的男主角",
+      "onboard_time": 1707121112,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -707,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611708,
+      "num": 611708,
+      "word": "虞姬典藏 精致土",
+      "onboard_time": 1707120573,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 610982,
       "num": 610982,
       "word": "董璇自曝被撮合圈内相亲",
@@ -769,14 +825,6 @@
       "onboard_time": 1707112052,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 572738,
-      "num": 572738,
-      "word": "虞姬典藏 精致土",
-      "onboard_time": 1707120573,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 572705,
@@ -1035,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 479460,
-      "num": 479460,
-      "word": "教育局回应教务处老师被曝性骚扰女生",
-      "onboard_time": 1707121292,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478909,
       "num": 478909,
       "word": "35岁后尤其要防6大高发癌症",
@@ -1095,6 +1135,14 @@
       "num": 453619,
       "word": "南航 延误",
       "onboard_time": 1707007229,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452434,
+      "num": 452434,
+      "word": "孙志刚被开除党籍",
+      "onboard_time": 1707123273,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -1667,22 +1715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 300600,
-      "num": 248167,
-      "word": "全红婵反超",
-      "onboard_time": 1707121771,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 300400,
-      "num": 300400,
-      "word": "周深演了杨幂的男主角",
-      "onboard_time": 1707121112,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1707018749,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295868,
+      "num": 256192,
+      "word": "时代少年团王者直播首秀",
+      "onboard_time": 1707120930,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 294884,
@@ -1819,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281080,
+      "num": 281080,
+      "word": "范丞丞科目一考了好几次",
+      "onboard_time": 1707124173,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "王者荣耀孙尚香新皮肤",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1707004887,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279035,
-      "num": 279035,
-      "word": "龙年央视春晚主持人阵容",
-      "onboard_time": 1707121833,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 278820,
@@ -1955,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267609,
+      "num": 257899,
+      "word": "吴磊赵今麦中戏第一vs北影第一",
+      "onboard_time": 1707121590,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264007,
       "num": 264007,
       "word": "李庚希张婧仪 对眼睛好",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1707009032,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260022,
+      "num": 260022,
+      "word": "田惠宇一审被判死缓",
+      "onboard_time": 1707124353,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259928,
@@ -2267,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235352,
+      "num": 235352,
+      "word": "陈芋汐晋级",
+      "onboard_time": 1707123033,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234700,
       "num": 234700,
       "word": "日本队遭绝杀",
@@ -2516,7 +2580,7 @@
     },
     {
       "raw_hot": 214000,
-      "num": 214000,
+      "num": 221470,
       "word": "主办方回应梅西缺赛",
       "onboard_time": 1707102513,
       "rank": 31,
@@ -2715,6 +2779,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 204849,
+      "num": 204849,
+      "word": "吴磊王星越情头",
+      "onboard_time": 1707123511,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "KSG教练",
@@ -2811,6 +2883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201691,
+      "num": 201691,
+      "word": "湖北冻雨",
+      "onboard_time": 1707123389,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "龙宝",
@@ -2825,14 +2905,6 @@
       "onboard_time": 1707026611,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199739,
-      "num": 199739,
-      "word": "吴磊赵今麦中戏第一vs北影第一",
-      "onboard_time": 1707121590,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 199067,
@@ -3251,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173836,
-      "num": 256192,
-      "word": "时代少年团王者直播首秀",
-      "onboard_time": 1707120930,
-      "rank": 38,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 173351,
       "num": 173351,
       "word": "武庚纪首发预告",
@@ -3329,6 +3393,14 @@
       "onboard_time": 1706980583,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168468,
+      "num": 168468,
+      "word": "春节美甲部分店铺限制团购",
+      "onboard_time": 1707124290,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 167670,
@@ -3508,7 +3580,7 @@
     },
     {
       "raw_hot": 159448,
-      "num": 798648,
+      "num": 939009,
       "word": "春节假期安全提示来了",
       "onboard_time": 1707119068,
       "rank": 2,
@@ -4201,6 +4273,14 @@
       "onboard_time": 1707099931,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125995,
+      "num": 125995,
+      "word": "乡村爱情永远比iPhone多一部",
+      "onboard_time": 1707124592,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 125101,
@@ -5027,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28407,
+      "num": 194168,
+      "word": "vivo连续三年国产手机销量第一",
+      "onboard_time": 1707123935,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27741,
       "num": 330293,
       "word": "为什么过年要拍全家福",
@@ -5041,6 +5129,14 @@
       "onboard_time": 1706979926,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24203,
+      "num": 257996,
+      "word": "全国小可爱涌入京东许心愿",
+      "onboard_time": 1707122073,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 23970,
