@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707129354583,
+  "endTime": 1707131678496,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -161,6 +161,14 @@
       "onboard_time": 1706850035,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2170113,
+      "num": 2170113,
+      "word": "梅西爽约突破商业底线",
+      "onboard_time": 1707127953,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 2092734,
@@ -1427,14 +1435,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 802074,
-      "num": 613332,
-      "word": "梅西爽约突破商业底线",
-      "onboard_time": 1707127953,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 802011,
       "num": 802011,
       "word": "内娱700多人信息7元打包卖",
@@ -1449,6 +1449,14 @@
       "onboard_time": 1707108213,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 801254,
+      "num": 801254,
+      "word": "车厘子价格跌至每斤20元",
+      "onboard_time": 1707130652,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 800301,
@@ -1489,6 +1497,14 @@
       "onboard_time": 1706780013,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 794108,
+      "num": 794108,
+      "word": "美甲建构",
+      "onboard_time": 1707127891,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 792554,
@@ -3403,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440508,
+      "num": 440508,
+      "word": "邢菲 0.6秒预告镜头怎么了",
+      "onboard_time": 1707129810,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440400,
       "num": 440400,
       "word": "胡锡进",
@@ -3481,14 +3505,6 @@
       "onboard_time": 1706852850,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428901,
-      "num": 428901,
-      "word": "美甲建构",
-      "onboard_time": 1707127891,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 428688,
@@ -3761,6 +3777,14 @@
       "onboard_time": 1707059133,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 409708,
+      "num": 409708,
+      "word": "唐鹤德晒与张国荣合照庆生",
+      "onboard_time": 1707131071,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 409424,
@@ -4979,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304981,
+      "num": 304981,
+      "word": "光与夜之恋",
+      "onboard_time": 1707129691,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304934,
       "num": 304934,
       "word": "恋与深空VisionPro版",
@@ -5739,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262141,
+      "num": 262141,
+      "word": "湖北高速",
+      "onboard_time": 1707127291,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261926,
       "num": 261926,
       "word": "拔鱼刺挂口腔科是错误的",
@@ -5769,14 +5809,6 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261054,
-      "num": 261054,
-      "word": "湖北高速",
-      "onboard_time": 1707127291,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260758,
@@ -5992,6 +6024,14 @@
       "word": "梅西替补",
       "onboard_time": 1707038253,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251231,
+      "num": 251231,
+      "word": "谷爱凌遇到想教她滑雪的男士",
+      "onboard_time": 1707128735,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -7483,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206233,
+      "num": 206233,
+      "word": "TWS疑似音源造假",
+      "onboard_time": 1707130111,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206219,
       "num": 188751,
       "word": "张极雀斑妆",
@@ -7945,6 +7993,14 @@
       "onboard_time": 1706937512,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199345,
+      "num": 199345,
+      "word": "梅西表演赛票务平台回应退票问题",
+      "onboard_time": 1707131191,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 199338,
@@ -8723,6 +8779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187213,
+      "num": 1400402,
+      "word": "雪中丁达尔效应宛如魔法结界",
+      "onboard_time": 1707126632,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "这哪是弟弟这不仆人吗",
@@ -8865,6 +8929,14 @@
       "onboard_time": 1706875231,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184139,
+      "num": 184139,
+      "word": "意大利的猫和人一样抗造",
+      "onboard_time": 1707129629,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 184060,
@@ -9419,14 +9491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173128,
-      "num": 173128,
-      "word": "谷爱凌遇到想教她滑雪的男士",
-      "onboard_time": 1707128735,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173117,
       "num": 173117,
       "word": "朱易 四大洲锦标赛",
@@ -9481,14 +9545,6 @@
       "onboard_time": 1706771791,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171775,
-      "num": 973174,
-      "word": "雪中丁达尔效应宛如魔法结界",
-      "onboard_time": 1707126632,
-      "rank": 4,
-      "category": "旅游"
     },
     {
       "raw_hot": 171774,
@@ -10315,6 +10371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155477,
+      "num": 155477,
+      "word": "开车回家我妈觉得很有面子",
+      "onboard_time": 1707128972,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155253,
       "num": 155253,
       "word": "刘昊然去滑雪了",
@@ -10595,6 +10659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150459,
+      "num": 880089,
+      "word": "有姥爷在的世界我就是最好的小孩",
+      "onboard_time": 1707126632,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150423,
       "num": 150423,
       "word": "在暴雪时分 暧昧感",
@@ -10803,6 +10875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146642,
+      "num": 146642,
+      "word": "Letme邀请朱开执教RNG",
+      "onboard_time": 1707130891,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146635,
       "num": 146635,
       "word": "为什么抱婴儿都用左手",
@@ -10993,14 +11073,6 @@
       "onboard_time": 1706746466,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142629,
-      "num": 142629,
-      "word": "开车回家我妈觉得很有面子",
-      "onboard_time": 1707128972,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 142490,
@@ -11641,6 +11713,14 @@
       "onboard_time": 1707114151,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132637,
+      "num": 132637,
+      "word": "沈腾伤疤",
+      "onboard_time": 1707131551,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 132576,
@@ -12297,14 +12377,6 @@
       "onboard_time": 1707050912,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122740,
-      "num": 880089,
-      "word": "有姥爷在的世界我就是最好的小孩",
-      "onboard_time": 1707126632,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 122546,
@@ -13828,7 +13900,7 @@
     },
     {
       "raw_hot": 56696,
-      "num": 460660,
+      "num": 609060,
       "word": "元pl奥特曼团建",
       "onboard_time": 1707128188,
       "rank": 34,
@@ -14081,6 +14153,14 @@
       "onboard_time": 1707101190,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 41898,
+      "num": 532359,
+      "word": "88岁育种专家往田里一扎就是一整天",
+      "onboard_time": 1707131371,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41700,
@@ -14377,6 +14457,14 @@
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25490,
+      "num": 245475,
+      "word": "京东春晚送完汽车又送房",
+      "onboard_time": 1707130411,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 24791,
