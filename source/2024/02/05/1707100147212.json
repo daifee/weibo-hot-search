@@ -1,0 +1,410 @@
+{
+  "runTime": 1707100147212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2986638,
+        "num": 2986638,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2618527,
+        "num": 2618527,
+        "word": "A股",
+        "onboard_time": 1707097348,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144355,
+        "num": 2045345,
+        "word": "又被中式美学惊艳了",
+        "onboard_time": 1707050735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546180,
+        "num": 1546180,
+        "word": "机票1800元退票费1500元",
+        "onboard_time": 1707098132,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911969,
+        "num": 911969,
+        "word": "安倍晋三母亲去世",
+        "onboard_time": 1707099211,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 712255,
+        "num": 712255,
+        "word": "梅西赛后拒绝领奖发言",
+        "onboard_time": 1707088762,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661959,
+        "num": 661959,
+        "word": "半个娱乐圈都在苏醒的拟邀名单上",
+        "onboard_time": 1707091348,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639043,
+        "num": 639043,
+        "word": "格莱美颁奖礼",
+        "onboard_time": 1707095370,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 518941,
+        "num": 518941,
+        "word": "格莱美红毯",
+        "onboard_time": 1707088582,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 458781,
+        "num": 458781,
+        "word": "因暴雪滞留高速亲历者发声",
+        "onboard_time": 1707079695,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475517,
+        "num": 453825,
+        "word": "肿瘤医生不碰的6种促癌食物",
+        "onboard_time": 1707097348,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444237,
+        "num": 444237,
+        "word": "霉霉高开衩白裙",
+        "onboard_time": 1707098370,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396416,
+        "num": 396416,
+        "word": "A股开盘跌破2700点",
+        "onboard_time": 1707099813,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392252,
+        "num": 392252,
+        "word": "英国王室辟谣凯特王妃陷入昏迷",
+        "onboard_time": 1707093391,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 354200,
+        "num": 354200,
+        "word": "杨紫说豆豆有点小绿茶",
+        "onboard_time": 1707091887,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337575,
+        "num": 337575,
+        "word": "格莱美直播",
+        "onboard_time": 1707090327,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331574,
+        "num": 331574,
+        "word": "12306回应一些车次为何开售即秒光",
+        "onboard_time": 1707090567,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316498,
+        "num": 316498,
+        "word": "股市",
+        "onboard_time": 1707099813,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316127,
+        "num": 316127,
+        "word": "上海下雪",
+        "onboard_time": 1707093569,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290233,
+        "num": 290233,
+        "word": "全程还原奔驰男下车后1分钟",
+        "onboard_time": 1707089722,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252333,
+        "num": 252333,
+        "word": "虞书欣 本体是蝴蝶结",
+        "onboard_time": 1707098610,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251018,
+        "num": 251018,
+        "word": "真实暧昧又尴尬",
+        "onboard_time": 1707067462,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246317,
+        "num": 246317,
+        "word": "韩国老师教中国留学生出师表",
+        "onboard_time": 1707093087,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215090,
+        "num": 215090,
+        "word": "A股千股跌停",
+        "onboard_time": 1707099931,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210406,
+        "num": 210406,
+        "word": "日本一海滩被大量沙丁鱼骨掩埋",
+        "onboard_time": 1707090327,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210227,
+        "num": 210227,
+        "word": "春运买短乘长可能被请下车",
+        "onboard_time": 1707092130,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209968,
+        "num": 209968,
+        "word": "科研中心回应博导被剥夺招生资格",
+        "onboard_time": 1707096689,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208921,
+        "num": 208921,
+        "word": "果然爷爷奶奶养什么都能养得好",
+        "onboard_time": 1707096210,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201372,
+        "num": 201372,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197835,
+        "num": 197835,
+        "word": "看小说时真的会有生理反应",
+        "onboard_time": 1707057875,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 189009,
+        "num": 189009,
+        "word": "为什么坐车时看手机越看越想吐",
+        "onboard_time": 1707097348,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166525,
+        "num": 166525,
+        "word": "球队回应梅西未出席表演赛",
+        "onboard_time": 1707097770,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150770,
+        "num": 150770,
+        "word": "猫 好歹毒的招式",
+        "onboard_time": 1707099689,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149372,
+        "num": 149372,
+        "word": "女子买刮刮乐兑奖却被撕彩票",
+        "onboard_time": 1707053194,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148938,
+        "num": 148938,
+        "word": "肖战Vlog",
+        "onboard_time": 1707093328,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147791,
+        "num": 147791,
+        "word": "霉霉Karma掉了",
+        "onboard_time": 1707091469,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144515,
+        "num": 144515,
+        "word": "大学生回家不会说方言了",
+        "onboard_time": 1707096750,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137585,
+        "num": 137585,
+        "word": "辛芷蕾就想吃颗毛豆她有什么错",
+        "onboard_time": 1707061291,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134965,
+        "num": 134965,
+        "word": "伴侣不成熟的表现",
+        "onboard_time": 1707096392,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133852,
+        "num": 133852,
+        "word": "薛鹏",
+        "onboard_time": 1707095613,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143197,
+        "num": 133797,
+        "word": "崔娃格莱美捍卫霉霉",
+        "onboard_time": 1707098970,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133113,
+        "num": 133113,
+        "word": "马丽赵丽颖高叶同框合影",
+        "onboard_time": 1707091527,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125625,
+        "num": 125625,
+        "word": "梅西没出场比赛或扣减1600万赞助",
+        "onboard_time": 1707089244,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125308,
+        "num": 125308,
+        "word": "为什么只有中国医生擅长取鱼刺",
+        "onboard_time": 1707055534,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "高速瘫痪被堵乘客捡木柴烧火取暖",
+        "onboard_time": 1707090266,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119999,
+        "num": 119999,
+        "word": "啪姐开场",
+        "onboard_time": 1707098910,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119535,
+        "num": 119535,
+        "word": "卫生间窗户一夜未关积雪堆成雪山",
+        "onboard_time": 1707092247,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116881,
+        "num": 116881,
+        "word": "Flowers最佳流行表演",
+        "onboard_time": 1707099931,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115840,
+        "num": 115840,
+        "word": "孩子玩手机把导航从回江西换到福建",
+        "onboard_time": 1707054695,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 110001,
+        "word": "被确认为霹雳贝贝",
+        "onboard_time": 1707096210,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}

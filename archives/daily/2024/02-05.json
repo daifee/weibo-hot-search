@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707096851495,
+  "endTime": 1707100147212,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -9,6 +9,22 @@
       "onboard_time": 1707095132,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2618527,
+      "num": 2618527,
+      "word": "A股",
+      "onboard_time": 1707097348,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1546180,
+      "num": 1546180,
+      "word": "机票1800元退票费1500元",
+      "onboard_time": 1707098132,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1395900,
@@ -35,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911969,
+      "num": 911969,
+      "word": "安倍晋三母亲去世",
+      "onboard_time": 1707099211,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 829495,
       "num": 829495,
       "word": "12306回应一些车次为何开售即秒光",
@@ -59,8 +83,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 709586,
-      "num": 709586,
+      "raw_hot": 712255,
+      "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
       "onboard_time": 1707088762,
       "rank": 3,
@@ -81,6 +105,14 @@
       "onboard_time": 1707089722,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639043,
+      "num": 639043,
+      "word": "格莱美颁奖礼",
+      "onboard_time": 1707095370,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 616049,
@@ -171,11 +203,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 455981,
-      "num": 455981,
-      "word": "格莱美颁奖礼",
-      "onboard_time": 1707095370,
-      "rank": 24,
+      "raw_hot": 475517,
+      "num": 453825,
+      "word": "肿瘤医生不碰的6种促癌食物",
+      "onboard_time": 1707097348,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 444237,
+      "num": 444237,
+      "word": "霉霉高开衩白裙",
+      "onboard_time": 1707098370,
+      "rank": 11,
       "category": "音乐"
     },
     {
@@ -235,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396416,
+      "num": 396416,
+      "word": "A股开盘跌破2700点",
+      "onboard_time": 1707099813,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 367076,
       "num": 367076,
       "word": "五十度暴雪",
@@ -251,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337575,
+      "num": 337575,
+      "word": "格莱美直播",
+      "onboard_time": 1707090327,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327981,
       "num": 327981,
       "word": "武汉高铁",
@@ -265,6 +321,14 @@
       "onboard_time": 1707093087,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316498,
+      "num": 316498,
+      "word": "股市",
+      "onboard_time": 1707099813,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 314946,
@@ -299,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252333,
+      "num": 252333,
+      "word": "虞书欣 本体是蝴蝶结",
+      "onboard_time": 1707098610,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251041,
       "num": 251041,
       "word": "马丽赵丽颖高叶同框合影",
@@ -308,7 +380,7 @@
     },
     {
       "raw_hot": 250516,
-      "num": 158826,
+      "num": 208921,
       "word": "果然爷爷奶奶养什么都能养得好",
       "onboard_time": 1707096210,
       "rank": 30,
@@ -355,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 215090,
+      "num": 215090,
+      "word": "A股千股跌停",
+      "onboard_time": 1707099931,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214998,
       "num": 164866,
       "word": "王海测评希望董宇辉弯腰道歉",
@@ -371,20 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209968,
+      "num": 209968,
+      "word": "科研中心回应博导被剥夺招生资格",
+      "onboard_time": 1707096689,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201372,
+      "num": 201372,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196400,
       "num": 196400,
       "word": "薛鹏",
       "onboard_time": 1707095613,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194427,
-      "num": 194427,
-      "word": "格莱美直播",
-      "onboard_time": 1707090327,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 192889,
@@ -401,6 +489,14 @@
       "onboard_time": 1707061592,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189009,
+      "num": 189009,
+      "word": "为什么坐车时看手机越看越想吐",
+      "onboard_time": 1707097348,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183820,
@@ -451,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166525,
+      "num": 166525,
+      "word": "球队回应梅西未出席表演赛",
+      "onboard_time": 1707097770,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166320,
       "num": 166320,
       "word": "突然就学会化妆了",
@@ -475,20 +579,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153620,
-      "num": 153620,
-      "word": "格莱美",
-      "onboard_time": 1707052412,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 151100,
       "num": 151100,
       "word": "山下智久龟梨和也双人直播",
       "onboard_time": 1707065546,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150770,
+      "num": 150770,
+      "word": "猫 好歹毒的招式",
+      "onboard_time": 1707099689,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 149848,
@@ -515,6 +619,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144515,
+      "num": 144515,
+      "word": "大学生回家不会说方言了",
+      "onboard_time": 1707096750,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144355,
+      "num": 2045345,
+      "word": "又被中式美学惊艳了",
+      "onboard_time": 1707050735,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143197,
+      "num": 133797,
+      "word": "崔娃格莱美捍卫霉霉",
+      "onboard_time": 1707098970,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142947,
       "num": 142947,
       "word": "伴侣不成熟的表现",
@@ -523,28 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141538,
-      "num": 1099722,
-      "word": "又被中式美学惊艳了",
-      "onboard_time": 1707050735,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139063,
       "num": 139063,
       "word": "小沈阳沈春阳",
       "onboard_time": 1707051334,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137911,
-      "num": 137911,
-      "word": "科研中心回应博导被剥夺招生资格",
-      "onboard_time": 1707096689,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135315,
@@ -667,12 +779,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120550,
-      "num": 120550,
-      "word": "大学生回家不会说方言了",
-      "onboard_time": 1707096750,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 119999,
+      "num": 119999,
+      "word": "啪姐开场",
+      "onboard_time": 1707098910,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 119087,
@@ -688,6 +800,14 @@
       "word": "IU或将与HYEIN合作",
       "onboard_time": 1707090145,
       "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116881,
+      "num": 116881,
+      "word": "Flowers最佳流行表演",
+      "onboard_time": 1707099931,
+      "rank": 47,
       "category": "音乐"
     },
     {

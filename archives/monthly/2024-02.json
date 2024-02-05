@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707096851495,
+  "endTime": 1707100147212,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -81,6 +81,14 @@
       "onboard_time": 1706873973,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2618527,
+      "num": 2618527,
+      "word": "A股",
+      "onboard_time": 1706752288,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 2501607,
@@ -392,6 +400,14 @@
       "word": "杨威",
       "onboard_time": 1706767773,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1546180,
+      "num": 1546180,
+      "word": "机票1800元退票费1500元",
+      "onboard_time": 1707098132,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1027,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 911969,
+      "num": 911969,
+      "word": "安倍晋三母亲去世",
+      "onboard_time": 1707099211,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 902129,
       "num": 902129,
       "word": "河南暴雪有人在高速堵车超10公里",
@@ -1491,8 +1515,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 709586,
-      "num": 709586,
+      "raw_hot": 712255,
+      "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
       "onboard_time": 1707088762,
       "rank": 3,
@@ -1771,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639043,
+      "num": 639043,
+      "word": "格莱美颁奖礼",
+      "onboard_time": 1707095370,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 638111,
       "num": 638111,
       "word": "离婚了彩礼还不还",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1707052230,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605235,
-      "num": 605235,
-      "word": "A股",
-      "onboard_time": 1706752288,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 604676,
@@ -2731,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475517,
+      "num": 453825,
+      "word": "肿瘤医生不碰的6种促癌食物",
+      "onboard_time": 1707097348,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 473658,
       "num": 473658,
       "word": "致命游戏首更52集",
@@ -2851,14 +2883,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 455981,
-      "num": 455981,
-      "word": "格莱美颁奖礼",
-      "onboard_time": 1707095370,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 455428,
       "num": 455428,
       "word": "杭州一女子高空杂技表演时坠落身亡",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1706936907,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444237,
+      "num": 444237,
+      "word": "霉霉高开衩白裙",
+      "onboard_time": 1707098370,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 442538,
@@ -3361,6 +3393,14 @@
       "onboard_time": 1706858673,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396416,
+      "num": 396416,
+      "word": "A股开盘跌破2700点",
+      "onboard_time": 1707099813,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 396396,
@@ -3969,6 +4009,14 @@
       "onboard_time": 1706830163,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 337575,
+      "num": 337575,
+      "word": "格莱美直播",
+      "onboard_time": 1707090327,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 335827,
@@ -5227,6 +5275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252333,
+      "num": 252333,
+      "word": "虞书欣 本体是蝴蝶结",
+      "onboard_time": 1707098610,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
@@ -5260,7 +5316,7 @@
     },
     {
       "raw_hot": 250516,
-      "num": 158826,
+      "num": 208921,
       "word": "果然爷爷奶奶养什么都能养得好",
       "onboard_time": 1707096210,
       "rank": 30,
@@ -6211,6 +6267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215090,
+      "num": 215090,
+      "word": "A股千股跌停",
+      "onboard_time": 1707099931,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214998,
       "num": 164866,
       "word": "王海测评希望董宇辉弯腰道歉",
@@ -6361,6 +6425,14 @@
       "onboard_time": 1706941473,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209968,
+      "num": 209968,
+      "word": "科研中心回应博导被剥夺招生资格",
+      "onboard_time": 1707096689,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209674,
@@ -7115,14 +7187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194427,
-      "num": 194427,
-      "word": "格莱美直播",
-      "onboard_time": 1707090327,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194355,
       "num": 2060062,
       "word": "赶大集是中国人独有热闹",
@@ -7481,6 +7545,14 @@
       "onboard_time": 1706797952,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189009,
+      "num": 189009,
+      "word": "为什么坐车时看手机越看越想吐",
+      "onboard_time": 1707097348,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188917,
@@ -8491,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166525,
+      "num": 166525,
+      "word": "球队回应梅西未出席表演赛",
+      "onboard_time": 1707097770,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166427,
       "num": 166427,
       "word": "掏空积蓄为儿买婚房被中介骗600万",
@@ -9235,6 +9315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150770,
+      "num": 150770,
+      "word": "猫 好歹毒的招式",
+      "onboard_time": 1707099689,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "工会回应副主席被曝不雅聊天",
@@ -9539,6 +9627,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144515,
+      "num": 144515,
+      "word": "大学生回家不会说方言了",
+      "onboard_time": 1707096750,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144355,
+      "num": 2045345,
+      "word": "又被中式美学惊艳了",
+      "onboard_time": 1707050735,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144352,
       "num": 144352,
       "word": "孟佳用一支舞蹈告别33岁",
@@ -9593,6 +9697,14 @@
       "onboard_time": 1706695353,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143197,
+      "num": 133797,
+      "word": "崔娃格莱美捍卫霉霉",
+      "onboard_time": 1707098970,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 142947,
@@ -9657,14 +9769,6 @@
       "onboard_time": 1706761173,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141538,
-      "num": 1099722,
-      "word": "又被中式美学惊艳了",
-      "onboard_time": 1707050735,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141447,
@@ -9865,14 +9969,6 @@
       "onboard_time": 1706780013,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 137911,
-      "num": 137911,
-      "word": "科研中心回应博导被剥夺招生资格",
-      "onboard_time": 1707096689,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137563,
@@ -10891,14 +10987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120550,
-      "num": 120550,
-      "word": "大学生回家不会说方言了",
-      "onboard_time": 1707096750,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120329,
       "num": 120329,
       "word": "首届春晚光看串场就能笑半宿",
@@ -10929,6 +11017,14 @@
       "onboard_time": 1706766630,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119999,
+      "num": 119999,
+      "word": "啪姐开场",
+      "onboard_time": 1707098910,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 119986,
@@ -11064,6 +11160,14 @@
       "word": "IU或将与HYEIN合作",
       "onboard_time": 1707090145,
       "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116881,
+      "num": 116881,
+      "word": "Flowers最佳流行表演",
+      "onboard_time": 1707099931,
+      "rank": 47,
       "category": "音乐"
     },
     {
