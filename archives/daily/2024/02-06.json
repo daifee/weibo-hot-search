@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707172430700,
+  "endTime": 1707175090593,
   "band_list": [
     {
       "raw_hot": 1205014,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388766,
+      "num": 192274,
+      "word": "男子偷卖女朋友黄金用作恋爱开销",
+      "onboard_time": 1707166155,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329092,
       "num": 179669,
       "word": "强制自己早睡的办法",
@@ -121,6 +129,14 @@
       "onboard_time": 1707142471,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264750,
+      "num": 264750,
+      "word": "全红婵大满贯",
+      "onboard_time": 1707174441,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 263552,
@@ -155,20 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201717,
-      "num": 83209,
-      "word": "男子偷卖女朋友黄金用作恋爱开销",
-      "onboard_time": 1707166155,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198010,
       "num": 198010,
       "word": "请和我的老公结婚",
       "onboard_time": 1707140911,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197939,
+      "num": 197939,
+      "word": "借出房车卫生间当事女生发声",
+      "onboard_time": 1707153204,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195903,
@@ -187,11 +203,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 174433,
-      "num": 174433,
-      "word": "借出房车卫生间当事女生发声",
-      "onboard_time": 1707153204,
-      "rank": 48,
+      "raw_hot": 182633,
+      "num": 182633,
+      "word": "被困湖北高速急哭的女车主获河南小伙救援",
+      "onboard_time": 1707162077,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167631,
+      "num": 167631,
+      "word": "爸妈吐槽大学生要提前吃光全家年货",
+      "onboard_time": 1707161717,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -217,6 +241,22 @@
       "onboard_time": 1707141934,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151231,
+      "num": 151231,
+      "word": "全红婵世锦赛夺冠",
+      "onboard_time": 1707174260,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142491,
+      "num": 142491,
+      "word": "林更新说楚乔传的遗憾会在与凤行补上",
+      "onboard_time": 1707161297,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 138942,
@@ -403,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76570,
-      "num": 76570,
-      "word": "爸妈吐槽大学生要提前吃光全家年货",
-      "onboard_time": 1707161717,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75652,
       "num": 75652,
       "word": "霍启刚要求梅西与迈阿密道歉",
@@ -435,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72900,
-      "num": 72900,
-      "word": "被困湖北高速急哭的女车主获河南小伙救援",
-      "onboard_time": 1707162077,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72242,
       "num": 72242,
       "word": "粉丝祝王星越新婚快乐",
@@ -459,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71464,
-      "num": 71464,
-      "word": "林更新说楚乔传的遗憾会在与凤行补上",
-      "onboard_time": 1707161297,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 60848,
+      "num": 60848,
+      "word": "这3处青筋异常凸起要留意",
+      "onboard_time": 1707162376,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 57755,
@@ -473,6 +497,22 @@
       "onboard_time": 1707110971,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56954,
+      "num": 56954,
+      "word": "你希望发现金还是消费券",
+      "onboard_time": 1707172997,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 55368,
+      "num": 55368,
+      "word": "陈小纭朵拉头",
+      "onboard_time": 1707141154,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49318,
@@ -491,6 +531,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 43182,
+      "num": 43182,
+      "word": "名侦探柯南 官配小情侣",
+      "onboard_time": 1707174983,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 36606,
       "num": 36606,
       "word": "张雨绮挂脖旗袍",
@@ -499,20 +547,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32929,
+      "num": 32929,
+      "word": "外卖小哥给老人送餐发现是自己的团年饭",
+      "onboard_time": 1707174923,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27179,
       "num": 27179,
       "word": "张雨绮低胸鱼尾裙",
       "onboard_time": 1707155482,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26561,
-      "num": 26561,
-      "word": "这3处青筋异常凸起要留意",
-      "onboard_time": 1707162376,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23758,
@@ -555,8 +603,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 3347,
-      "num": 215968,
+      "raw_hot": 5225,
+      "num": 477035,
       "word": "我的龙年仪式感",
       "onboard_time": 1707029608,
       "rank": 2,
