@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707114883107,
+  "endTime": 1707117418441,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -137,6 +137,14 @@
       "onboard_time": 1707047612,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1458694,
+      "num": 1458694,
+      "word": "A股三大股指全部翻红",
+      "onboard_time": 1707114511,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 1395900,
@@ -459,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 762702,
+      "num": 762702,
+      "word": "杨紫遭换角色反被说不知好歹",
+      "onboard_time": 1707113673,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 754216,
       "num": 754216,
       "word": "格莱美红毯",
@@ -537,6 +553,14 @@
       "onboard_time": 1707108213,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 677375,
+      "num": 677375,
+      "word": "王力宏回应胜诉",
+      "onboard_time": 1707114993,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 672932,
@@ -641,6 +665,14 @@
       "onboard_time": 1707020790,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 622371,
+      "num": 622371,
+      "word": "谁给张婧仪化的妆",
+      "onboard_time": 1707114151,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 621455,
@@ -763,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555370,
+      "num": 555370,
+      "word": "梅西表演赛1600万赞助尚未付款",
+      "onboard_time": 1707112052,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553063,
       "num": 553063,
       "word": "奇瑞",
@@ -819,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518412,
-      "num": 458849,
-      "word": "杨紫遭换角色反被说不知好歹",
-      "onboard_time": 1707113673,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 515788,
       "num": 515788,
       "word": "睡觉吧 你俩过几天就成了",
@@ -849,6 +881,14 @@
       "onboard_time": 1707099813,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 506070,
+      "num": 506070,
+      "word": "肾不好嘴唇和眼圈会发黑",
+      "onboard_time": 1707115052,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 505110,
@@ -971,14 +1011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 462162,
-      "num": 462162,
-      "word": "A股三大股指全部翻红",
-      "onboard_time": 1707114511,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 460183,
       "num": 460183,
       "word": "电影西游记真假美猴王官宣",
@@ -1067,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423967,
-      "num": 423967,
-      "word": "梅西表演赛1600万赞助尚未付款",
-      "onboard_time": 1707112052,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 423511,
       "num": 423511,
       "word": "杨紫说豆豆有点小绿茶",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1706974171,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418333,
+      "num": 418333,
+      "word": "斗鱼回应将合并虎牙",
+      "onboard_time": 1707116010,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 418286,
@@ -1179,14 +1211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 402125,
-      "num": 402125,
-      "word": "谁给张婧仪化的妆",
-      "onboard_time": 1707114151,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400489,
       "num": 400489,
       "word": "Xiaohu偷家RNG",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1706969556,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394718,
+      "num": 394718,
+      "word": "SHE带孩子聚会",
+      "onboard_time": 1707115709,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 394106,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1707039631,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 334114,
+      "num": 334114,
+      "word": "张天爱穿铠甲扫楼",
+      "onboard_time": 1707116372,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 332904,
@@ -1739,6 +1779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273334,
+      "num": 211735,
+      "word": "当我得知老公曾经是校草",
+      "onboard_time": 1707117093,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271740,
       "num": 271740,
       "word": "六小龄童马德华合作新电影",
@@ -1907,6 +1955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249669,
+      "num": 249669,
+      "word": "拔鱼刺挂口腔科是错误的",
+      "onboard_time": 1707114748,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 247267,
       "num": 247267,
       "word": "南航就武汉机场大面积延误致歉",
@@ -1995,12 +2051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241272,
+      "num": 241272,
+      "word": "专家称暂停IPO是把双刃剑",
+      "onboard_time": 1707116612,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 241089,
       "num": 241089,
       "word": "91岁奶奶找回了失散55年的心肝宝贝",
       "onboard_time": 1707074717,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239732,
+      "num": 239732,
+      "word": "我们的女明星女演员女爱豆都在演些什么",
+      "onboard_time": 1707115831,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 239064,
@@ -2041,6 +2113,14 @@
       "onboard_time": 1707057393,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236798,
+      "num": 236798,
+      "word": "贝克汉姆被嘘",
+      "onboard_time": 1707115352,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 236106,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1706973632,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228600,
+      "num": 208255,
+      "word": "杨波澳门脱口秀换人",
+      "onboard_time": 1707115532,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 226689,
@@ -2347,6 +2435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209568,
+      "num": 208249,
+      "word": "马斯克回应与董事一起吸毒",
+      "onboard_time": 1707116670,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 209554,
+      "num": 209554,
+      "word": "哈尔的移动城堡定档",
+      "onboard_time": 1707116255,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208859,
       "num": 2528932,
       "word": "村民翻山越岭给滞留司机免费送吃喝",
@@ -2499,6 +2603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203546,
+      "num": 203546,
+      "word": "河南一公司给员工发1亿多年终奖",
+      "onboard_time": 1707114872,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203411,
       "num": 203411,
       "word": "被困高速十几小时车主发声",
@@ -2635,14 +2747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196023,
-      "num": 196023,
-      "word": "拔鱼刺挂口腔科是错误的",
-      "onboard_time": 1707114748,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 195853,
       "num": 195853,
       "word": "VG零封Hero",
@@ -2761,6 +2865,14 @@
       "onboard_time": 1707061592,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190341,
+      "num": 190341,
+      "word": "乙游最高的男人出现了",
+      "onboard_time": 1707115590,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 189952,
@@ -3603,6 +3715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138319,
+      "num": 138319,
+      "word": "犹如老鼠掉进了米缸",
+      "onboard_time": 1707117150,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138170,
       "num": 138170,
       "word": "甲辰年",
@@ -4057,14 +4177,6 @@
       "onboard_time": 1707090145,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115704,
-      "num": 115704,
-      "word": "河南一公司给员工发1亿多年终奖",
-      "onboard_time": 1707114872,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115042,
@@ -4563,6 +4675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43573,
+      "num": 1401405,
+      "word": "龙吟中国春",
+      "onboard_time": 1707107611,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41986,
       "num": 299099,
       "word": "新年送礼首选大红大紫cp",
@@ -4600,14 +4720,6 @@
       "word": "大哥送娃途中拉出2辆被困雪地公交",
       "onboard_time": 1707001461,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39100,
-      "num": 1401405,
-      "word": "龙吟中国春",
-      "onboard_time": 1707107611,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
