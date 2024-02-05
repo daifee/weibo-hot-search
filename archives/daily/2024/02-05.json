@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707142563169,
+  "endTime": 1707143634667,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -72,6 +72,14 @@
       "word": "机票1800元退票费1500元",
       "onboard_time": 1707098132,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1509896,
+      "num": 599847,
+      "word": "北京地铁昌平线列车追尾事故调查报告",
+      "onboard_time": 1707142471,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 859951,
+      "num": 547685,
+      "word": "北京地铁追尾事故18人被问责",
+      "onboard_time": 1707142889,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829495,
       "num": 829495,
       "word": "12306回应一些车次为何开售即秒光",
@@ -291,8 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 803120,
-      "num": 803120,
+      "raw_hot": 823177,
+      "num": 823177,
       "word": "梅西抵达日本",
       "onboard_time": 1707141035,
       "rank": 6,
@@ -313,6 +329,14 @@
       "onboard_time": 1707127891,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 789216,
+      "num": 789216,
+      "word": "程潇 龙女",
+      "onboard_time": 1707141331,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 787071,
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566635,
-      "num": 566635,
-      "word": "程潇 龙女",
-      "onboard_time": 1707141331,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 559487,
       "num": 559487,
       "word": "澳籍间谍杨军被判死缓",
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 504702,
-      "num": 301319,
+      "num": 322995,
       "word": "瘦脸的最优解是练背",
       "onboard_time": 1707137190,
       "rank": 20,
@@ -795,12 +811,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 464067,
+      "num": 464067,
+      "word": "张颂文 上你个头我要过年",
+      "onboard_time": 1707143012,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448056,
       "num": 355602,
       "word": "老板不在 全部乱卖",
       "onboard_time": 1707104733,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 443910,
+      "num": 443910,
+      "word": "李昇基李多寅官宣得女",
+      "onboard_time": 1707142053,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 440508,
@@ -929,6 +961,22 @@
       "onboard_time": 1707137073,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386433,
+      "num": 386433,
+      "word": "林更新谈和赵丽颖刘亦菲合作",
+      "onboard_time": 1707142471,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382045,
+      "num": 382045,
+      "word": "马思纯晒孙千醉酒照",
+      "onboard_time": 1707141934,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 374438,
@@ -1099,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301387,
+      "num": 301387,
+      "word": "豆瓣崩了",
+      "onboard_time": 1707143373,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 298608,
       "num": 298608,
       "word": "虞书欣 本体是蝴蝶结",
@@ -1259,14 +1315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260098,
-      "num": 260098,
-      "word": "马思纯晒孙千醉酒照",
-      "onboard_time": 1707141934,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256908,
       "num": 256908,
       "word": "专家称暂停IPO是把双刃剑",
@@ -1297,14 +1345,6 @@
       "onboard_time": 1707138932,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 253180,
-      "num": 253180,
-      "word": "李昇基李多寅官宣得女",
-      "onboard_time": 1707142053,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 252680,
@@ -1379,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245470,
-      "num": 234746,
-      "word": "林更新谈和赵丽颖刘亦菲合作",
-      "onboard_time": 1707142471,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 243887,
       "num": 243887,
       "word": "孙千陈靖可吻戏",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1707133771,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241200,
+      "num": 241200,
+      "word": "春晚彩排",
+      "onboard_time": 1707142657,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241089,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1707110191,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223821,
+      "num": 223821,
+      "word": "梅西方需要给个售后方案",
+      "onboard_time": 1707142534,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 223810,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1707116255,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208666,
+      "num": 208666,
+      "word": "苏州甜品工匠制作小神龙造型面包",
+      "onboard_time": 1707143311,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 207657,
@@ -1947,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187368,
+      "num": 187368,
+      "word": "林更新透露与凤行播出时间",
+      "onboard_time": 1707142831,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184139,
       "num": 184139,
       "word": "意大利的猫和人一样抗造",
@@ -2139,6 +2203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170102,
+      "num": 170102,
+      "word": "柿子型人格",
+      "onboard_time": 1707141692,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169946,
       "num": 169946,
       "word": "肖战Vlog",
@@ -2227,14 +2299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164385,
-      "num": 164385,
-      "word": "梅西方需要给个售后方案",
-      "onboard_time": 1707142534,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161782,
       "num": 161782,
       "word": "车主自驾回乡1小时的路开了11小时",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1707133952,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158069,
+      "num": 158069,
+      "word": "CBA",
+      "onboard_time": 1707143012,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 158057,
@@ -2419,6 +2491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145120,
+      "num": 145120,
+      "word": "日本小姐冠军承认当小三放弃桂冠",
+      "onboard_time": 1707143491,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144815,
       "num": 144815,
       "word": "钎城龙年迎新岁大片",
@@ -2473,14 +2553,6 @@
       "onboard_time": 1707135152,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 140872,
-      "num": 140872,
-      "word": "柿子型人格",
-      "onboard_time": 1707141692,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 140352,
@@ -3201,14 +3273,6 @@
       "onboard_time": 1707079515,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 16944,
-      "num": 599847,
-      "word": "北京地铁昌平线列车追尾事故调查报告",
-      "onboard_time": 1707142471,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15833,

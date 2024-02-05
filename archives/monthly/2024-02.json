@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707142563169,
+  "endTime": 1707143634667,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -504,6 +504,14 @@
       "word": "官方通报女干部被曝不雅聊天",
       "onboard_time": 1706786254,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1509896,
+      "num": 599847,
+      "word": "北京地铁昌平线列车追尾事故调查报告",
+      "onboard_time": 1707142471,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1355,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 859951,
+      "num": 547685,
+      "word": "北京地铁追尾事故18人被问责",
+      "onboard_time": 1707142889,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857732,
       "num": 857732,
       "word": "云南宣威一村突发刑案致6人死亡",
@@ -1443,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823177,
+      "num": 823177,
+      "word": "梅西抵达日本",
+      "onboard_time": 1707141035,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 819308,
       "num": 819308,
       "word": "文科生就业现状",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1707055534,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 803120,
-      "num": 803120,
-      "word": "梅西抵达日本",
-      "onboard_time": 1707141035,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 802154,
@@ -1576,6 +1592,14 @@
       "word": "夏之光演技",
       "onboard_time": 1706874692,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 789216,
+      "num": 789216,
+      "word": "程潇 龙女",
+      "onboard_time": 1707141331,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -2611,14 +2635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566635,
-      "num": 566635,
-      "word": "程潇 龙女",
-      "onboard_time": 1707141331,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 562931,
       "num": 562931,
       "word": "奥运冠军杨倩启蒙教练再发声",
@@ -3020,7 +3036,7 @@
     },
     {
       "raw_hot": 504702,
-      "num": 301319,
+      "num": 322995,
       "word": "瘦脸的最优解是练背",
       "onboard_time": 1707137190,
       "rank": 20,
@@ -3387,6 +3403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 464067,
+      "num": 464067,
+      "word": "张颂文 上你个头我要过年",
+      "onboard_time": 1707143012,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -3513,6 +3537,14 @@
       "onboard_time": 1707104733,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 443910,
+      "num": 443910,
+      "word": "李昇基李多寅官宣得女",
+      "onboard_time": 1707142053,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 442538,
@@ -4163,6 +4195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386433,
+      "num": 386433,
+      "word": "林更新谈和赵丽颖刘亦菲合作",
+      "onboard_time": 1707142471,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385834,
       "num": 212400,
       "word": "买车厘子不能只看几个J",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1707050553,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382045,
+      "num": 382045,
+      "word": "马思纯晒孙千醉酒照",
+      "onboard_time": 1707141934,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 381627,
@@ -5259,6 +5307,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 301387,
+      "num": 301387,
+      "word": "豆瓣崩了",
+      "onboard_time": 1707143373,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 300891,
       "num": 300891,
       "word": "世界之外红包封面",
@@ -6011,14 +6067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260098,
-      "num": 260098,
-      "word": "马思纯晒孙千醉酒照",
-      "onboard_time": 1707141934,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259928,
       "num": 259928,
       "word": "郭富城回应被林家栋搀扶下楼梯",
@@ -6193,14 +6241,6 @@
       "onboard_time": 1706753309,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253180,
-      "num": 253180,
-      "word": "李昇基李多寅官宣得女",
-      "onboard_time": 1707142053,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 253009,
@@ -6395,14 +6435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245470,
-      "num": 234746,
-      "word": "林更新谈和赵丽颖刘亦菲合作",
-      "onboard_time": 1707142471,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 245377,
       "num": 245377,
       "word": "2月4日16时27分迎立春",
@@ -6529,6 +6561,14 @@
       "onboard_time": 1706869052,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241200,
+      "num": 241200,
+      "word": "春晚彩排",
+      "onboard_time": 1707142657,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241089,
@@ -7065,6 +7105,14 @@
       "onboard_time": 1707040111,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 223821,
+      "num": 223821,
+      "word": "梅西方需要给个售后方案",
+      "onboard_time": 1707142534,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 223810,
@@ -7673,6 +7721,14 @@
       "onboard_time": 1707017732,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208666,
+      "num": 208666,
+      "word": "苏州甜品工匠制作小神龙造型面包",
+      "onboard_time": 1707143311,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 208346,
@@ -9091,6 +9147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187368,
+      "num": 187368,
+      "word": "林更新透露与凤行播出时间",
+      "onboard_time": 1707142831,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187363,
       "num": 187363,
       "word": "TES战胜RA",
@@ -10011,6 +10075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170102,
+      "num": 170102,
+      "word": "柿子型人格",
+      "onboard_time": 1707141692,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169957,
       "num": 169957,
       "word": "李昀锐孟子义扯领子对视",
@@ -10379,14 +10451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164385,
-      "num": 164385,
-      "word": "梅西方需要给个售后方案",
-      "onboard_time": 1707142534,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164373,
       "num": 164373,
       "word": "邓佳鑫 新贵妃醉酒",
@@ -10665,6 +10729,14 @@
       "onboard_time": 1706745566,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158069,
+      "num": 158069,
+      "word": "CBA",
+      "onboard_time": 1706884054,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 158048,
@@ -11387,6 +11459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 145120,
+      "num": 145120,
+      "word": "日本小姐冠军承认当小三放弃桂冠",
+      "onboard_time": 1707143491,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145026,
       "num": 145026,
       "word": "她又多了个用处",
@@ -11601,14 +11681,6 @@
       "onboard_time": 1706925391,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140872,
-      "num": 140872,
-      "word": "柿子型人格",
-      "onboard_time": 1707141692,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 140857,
@@ -12769,14 +12841,6 @@
       "onboard_time": 1706785350,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124243,
-      "num": 124243,
-      "word": "CBA",
-      "onboard_time": 1706884054,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 124045,
@@ -15104,14 +15168,6 @@
       "word": "全民填词为家乡定制推广曲",
       "onboard_time": 1706932589,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16944,
-      "num": 599847,
-      "word": "北京地铁昌平线列车追尾事故调查报告",
-      "onboard_time": 1707142471,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
