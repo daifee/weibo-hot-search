@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707121284596,
+  "endTime": 1707122063494,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1472370,
+      "num": 768923,
+      "word": "衡水一中学老师被曝性骚扰女生",
+      "onboard_time": 1707117935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1463867,
       "num": 1463867,
       "word": "网友自曝被举报作弊取消考研政治成绩",
@@ -145,14 +153,6 @@
       "onboard_time": 1707114511,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1440406,
-      "num": 768923,
-      "word": "衡水一中学老师被曝性骚扰女生",
-      "onboard_time": 1707117935,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1395900,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 760222,
+      "num": 465050,
+      "word": "胡锡进目前亏损78925.06元",
+      "onboard_time": 1707121171,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 754216,
       "num": 754216,
       "word": "格莱美红毯",
@@ -683,6 +691,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 631996,
+      "num": 631996,
+      "word": "杨紫爸爸 童星是枷锁也是沼泽",
+      "onboard_time": 1707117630,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 621455,
       "num": 621455,
       "word": "武大性骚扰事件男方首度发声",
@@ -753,6 +769,14 @@
       "onboard_time": 1707112052,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 572738,
+      "num": 572738,
+      "word": "虞姬典藏 精致土",
+      "onboard_time": 1707120573,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 572705,
@@ -963,14 +987,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 494902,
-      "num": 358926,
-      "word": "杨紫爸爸 童星是枷锁也是沼泽",
-      "onboard_time": 1707117630,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 490072,
       "num": 234500,
       "word": "乘客下单叫到66.6公里外网约车",
@@ -1019,8 +1035,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479460,
+      "num": 479460,
+      "word": "教育局回应教务处老师被曝性骚扰女生",
+      "onboard_time": 1707121292,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478909,
+      "num": 478909,
+      "word": "35岁后尤其要防6大高发癌症",
+      "onboard_time": 1707117935,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 477103,
-      "num": 271665,
+      "num": 300790,
       "word": "谁在消费3000元的美甲",
       "onboard_time": 1707118529,
       "rank": 21,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1706974171,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418406,
+      "num": 418406,
+      "word": "Letme想卸任RNG教练",
+      "onboard_time": 1707120212,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 418286,
@@ -1372,7 +1412,7 @@
     },
     {
       "raw_hot": 370464,
-      "num": 270423,
+      "num": 300593,
       "word": "小姨还没挣钱就要掏红包了",
       "onboard_time": 1707120392,
       "rank": 22,
@@ -1425,22 +1465,6 @@
       "onboard_time": 1707045152,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357638,
-      "num": 357638,
-      "word": "35岁后尤其要防6大高发癌症",
-      "onboard_time": 1707117935,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 356514,
-      "num": 356514,
-      "word": "Letme想卸任RNG教练",
-      "onboard_time": 1707120212,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 354884,
@@ -1643,6 +1667,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300600,
+      "num": 248167,
+      "word": "全红婵反超",
+      "onboard_time": 1707121771,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300400,
+      "num": 300400,
+      "word": "周深演了杨幂的男主角",
+      "onboard_time": 1707121112,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -1680,14 +1720,6 @@
       "word": "世界之外新PV",
       "onboard_time": 1707018749,
       "rank": 20,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 295797,
-      "num": 295797,
-      "word": "虞姬典藏 精致土",
-      "onboard_time": 1707120573,
-      "rank": 18,
       "category": "游戏"
     },
     {
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284038,
+      "num": 284038,
+      "word": "张天爱公主抱160斤新浪员工",
+      "onboard_time": 1707120454,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282495,
       "num": 282495,
       "word": "南航免费退改为何这么难",
@@ -1811,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279035,
+      "num": 279035,
+      "word": "龙年央视春晚主持人阵容",
+      "onboard_time": 1707121833,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278820,
       "num": 278820,
       "word": "刘浩存羽毛裙",
@@ -1859,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271623,
+      "num": 271623,
+      "word": "种地吧",
+      "onboard_time": 1707120630,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271182,
       "num": 271182,
       "word": "张碧晨 我们总会遇见懂自己的人",
@@ -1905,14 +1961,6 @@
       "onboard_time": 1707036330,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 263957,
-      "num": 263957,
-      "word": "张天爱公主抱160斤新浪员工",
-      "onboard_time": 1707120454,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 261926,
@@ -2411,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217341,
+      "num": 217341,
+      "word": "李庚希老公姐",
+      "onboard_time": 1707121411,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216672,
       "num": 164945,
       "word": "iPhone年收入首次占智能手机市场50%",
@@ -2561,14 +2617,6 @@
       "onboard_time": 1707012151,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207767,
-      "num": 207767,
-      "word": "种地吧",
-      "onboard_time": 1707120630,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 207657,
@@ -2777,6 +2825,14 @@
       "onboard_time": 1707026611,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199739,
+      "num": 199739,
+      "word": "吴磊赵今麦中戏第一vs北影第一",
+      "onboard_time": 1707121590,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 199067,
@@ -3019,14 +3075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186965,
-      "num": 186965,
-      "word": "胡锡进目前亏损78925.06元",
-      "onboard_time": 1707121171,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 186799,
       "num": 186799,
       "word": "蓝亦菲去世的真相",
@@ -3196,11 +3244,19 @@
     },
     {
       "raw_hot": 174099,
-      "num": 206639,
+      "num": 264391,
       "word": "列车停运旅客如何办理退票",
       "onboard_time": 1707120813,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173836,
+      "num": 256192,
+      "word": "时代少年团王者直播首秀",
+      "onboard_time": 1707120930,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 173351,
@@ -3691,14 +3747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146339,
-      "num": 146339,
-      "word": "周深演了杨幂的男主角",
-      "onboard_time": 1707121112,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146062,
       "num": 146062,
       "word": "詹姆斯拒绝回应合同问题",
@@ -4097,14 +4145,6 @@
       "onboard_time": 1707091167,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 128279,
-      "num": 165953,
-      "word": "时代少年团王者直播首秀",
-      "onboard_time": 1707120930,
-      "rank": 38,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 128187,
@@ -4955,6 +4995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31858,
+      "num": 260646,
+      "word": "陈佩斯演我爸过年",
+      "onboard_time": 1707120271,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30955,
       "num": 30955,
       "word": "王星越没搞笑但真的很好笑",
@@ -4977,14 +5025,6 @@
       "onboard_time": 1706965592,
       "rank": 2,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28363,
-      "num": 149296,
-      "word": "陈佩斯演我爸过年",
-      "onboard_time": 1707120271,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 27741,
