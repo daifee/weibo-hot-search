@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707139119648,
+  "endTime": 1707140076996,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -227,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 909520,
+      "num": 909520,
+      "word": "211高校毕业女生密室扮鬼",
+      "onboard_time": 1707136712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906916,
       "num": 906916,
       "word": "张佳宁换头像",
@@ -259,6 +267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 847767,
+      "num": 847767,
+      "word": "专家建议给老百姓每人发1000元",
+      "onboard_time": 1707137670,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 829495,
       "num": 829495,
       "word": "12306回应一些车次为何开售即秒光",
@@ -281,6 +297,14 @@
       "onboard_time": 1707127891,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 787071,
+      "num": 787071,
+      "word": "卡琳娜cos祁煜",
+      "onboard_time": 1707136653,
+      "rank": 11,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 783929,
@@ -347,14 +371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 738861,
-      "num": 738861,
-      "word": "卡琳娜cos祁煜",
-      "onboard_time": 1707136653,
-      "rank": 11,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 730575,
       "num": 730575,
       "word": "周深演了杨幂的男主角",
@@ -377,14 +393,6 @@
       "onboard_time": 1707088762,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 692159,
-      "num": 692159,
-      "word": "211高校毕业女生密室扮鬼",
-      "onboard_time": 1707136712,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683997,
@@ -547,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563858,
-      "num": 563858,
-      "word": "专家建议给老百姓每人发1000元",
-      "onboard_time": 1707137670,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 557576,
       "num": 557576,
       "word": "英国王室辟谣凯特王妃陷入昏迷",
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 504702,
-      "num": 289667,
+      "num": 301319,
       "word": "瘦脸的最优解是练背",
       "onboard_time": 1707137190,
       "rank": 20,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387518,
+      "num": 387518,
+      "word": "程潇琉璃龙女妆",
+      "onboard_time": 1707137073,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374438,
       "num": 374438,
       "word": "近1700股跌超9%",
@@ -921,14 +929,6 @@
       "onboard_time": 1707037290,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355666,
-      "num": 355666,
-      "word": "程潇琉璃龙女妆",
-      "onboard_time": 1707137073,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 348741,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1707105334,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308679,
+      "num": 308679,
+      "word": "王楚然木槿花发簪",
+      "onboard_time": 1707138691,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307392,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1707108571,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243887,
+      "num": 243887,
+      "word": "孙千陈靖可吻戏",
+      "onboard_time": 1707139526,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 242391,
@@ -1675,6 +1691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198895,
+      "num": 198895,
+      "word": "央视经典之夜",
+      "onboard_time": 1707139293,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198751,
       "num": 198751,
       "word": "霉霉 行动力",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1707101011,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197105,
+      "num": 197105,
+      "word": "腐乳在海外爆火",
+      "onboard_time": 1707138932,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 196400,
@@ -1827,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189897,
+      "num": 189897,
+      "word": "王一博与晗晗qvq网络纠纷案审理结果",
+      "onboard_time": 1707139834,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188842,
       "num": 188842,
       "word": "禁养的烈性犬伤人犬主承担全责",
@@ -1883,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182549,
+      "num": 182549,
+      "word": "杜华给金子涵庆生",
+      "onboard_time": 1707139350,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180134,
       "num": 180134,
       "word": "专家称平准基金已到入场时",
@@ -1891,20 +1939,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180056,
-      "num": 180056,
-      "word": "王楚然木槿花发簪",
-      "onboard_time": 1707138691,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 179743,
       "num": 179743,
       "word": "郑恺嘴角比AK还难压",
       "onboard_time": 1707119668,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179620,
+      "num": 179620,
+      "word": "烤火时把头靠在主人腿上的狗狗",
+      "onboard_time": 1707138932,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 179135,
@@ -2523,6 +2571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125610,
+      "num": 125610,
+      "word": "在暴雪时分男三",
+      "onboard_time": 1707139953,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125521,
       "num": 125521,
       "word": "玄彬孙艺珍方否认购新房",
@@ -2563,14 +2619,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 121670,
-      "num": 121670,
-      "word": "烤火时把头靠在主人腿上的狗狗",
-      "onboard_time": 1707138932,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121084,
       "num": 121084,
       "word": "东北年夜饭里的硬菜全在这了",
@@ -2595,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118369,
-      "num": 118369,
-      "word": "腐乳在海外爆火",
-      "onboard_time": 1707138932,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "瑶真我赫兹第二张海报",
@@ -2625,6 +2665,14 @@
       "onboard_time": 1707090145,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116122,
+      "num": 116122,
+      "word": "魏大勋重逢唱出青春的荣耀",
+      "onboard_time": 1707139111,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115234,
