@@ -1,0 +1,410 @@
+{
+  "runTime": 1707125663345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1090893,
+        "num": 1090893,
+        "word": "龙年央视春晚主持人阵容",
+        "onboard_time": 1707121833,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894206,
+        "num": 894206,
+        "word": "湖北暴雪司机被困36小时煮雪融水喝",
+        "onboard_time": 1707122971,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 74264,
+        "num": 877535,
+        "word": "春节假期安全提示来了",
+        "onboard_time": 1707119068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055515,
+        "num": 877413,
+        "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+        "onboard_time": 1707123511,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 877264,
+        "num": 877264,
+        "word": "霍建华李凯馨亲密合照",
+        "onboard_time": 1707112470,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866408,
+        "num": 866408,
+        "word": "范丞丞科目一考了好几次",
+        "onboard_time": 1707124173,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 732789,
+        "num": 732789,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707010,
+        "num": 707010,
+        "word": "全红婵反超",
+        "onboard_time": 1707121771,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670840,
+        "num": 670840,
+        "word": "周深演了杨幂的男主角",
+        "onboard_time": 1707121112,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566726,
+        "num": 566726,
+        "word": "田惠宇一审被判死缓",
+        "onboard_time": 1707124353,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574696,
+        "num": 548719,
+        "word": "教育局回应教务处老师被曝性骚扰女生",
+        "onboard_time": 1707121292,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500263,
+        "num": 500263,
+        "word": "虞姬典藏 精致土",
+        "onboard_time": 1707120573,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480532,
+        "num": 480532,
+        "word": "孙志刚被开除党籍",
+        "onboard_time": 1707123273,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467207,
+        "num": 467207,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378673,
+        "num": 378673,
+        "word": "A股三大股指全部翻红",
+        "onboard_time": 1707114511,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321808,
+        "num": 321808,
+        "word": "周也周氏集团新闻发布会",
+        "onboard_time": 1707124951,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 320703,
+        "num": 320703,
+        "word": "双北 春晚",
+        "onboard_time": 1707125012,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317013,
+        "num": 317013,
+        "word": "种地吧",
+        "onboard_time": 1707120630,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313915,
+        "num": 313915,
+        "word": "杨紫爸爸 童星是枷锁也是沼泽",
+        "onboard_time": 1707117630,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308386,
+        "num": 308386,
+        "word": "香港文旅局称主办方确认梅西可以出场",
+        "onboard_time": 1707110971,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307528,
+        "num": 307528,
+        "word": "Letme想卸任RNG教练",
+        "onboard_time": 1707120212,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275299,
+        "num": 275299,
+        "word": "35岁后尤其要防6大高发癌症",
+        "onboard_time": 1707117935,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267391,
+        "num": 267391,
+        "word": "谁给张婧仪化的妆",
+        "onboard_time": 1707114151,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29361,
+        "num": 255703,
+        "word": "vivo连续三年国产手机销量第一",
+        "onboard_time": 1707123935,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247944,
+        "num": 247944,
+        "word": "徐明浩 青环8导",
+        "onboard_time": 1707125193,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245567,
+        "num": 245567,
+        "word": "杨紫遭换角色反被说不知好歹",
+        "onboard_time": 1707113673,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235172,
+        "num": 235172,
+        "word": "酱园弄 章子怡",
+        "onboard_time": 1707109773,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233111,
+        "num": 233111,
+        "word": "吴磊赵今麦中戏第一vs北影第一",
+        "onboard_time": 1707121590,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227411,
+        "num": 227411,
+        "word": "谁在消费3000元的美甲",
+        "onboard_time": 1707118529,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 63359,
+        "num": 222605,
+        "word": "主办方回应梅西缺赛",
+        "onboard_time": 1707102513,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220514,
+        "num": 220514,
+        "word": "胡锡进称时光能倒流现在肯定不投资股市",
+        "onboard_time": 1707125012,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212466,
+        "num": 212466,
+        "word": "小姨还没挣钱就要掏红包了",
+        "onboard_time": 1707120392,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213225,
+        "num": 210502,
+        "word": "吴磊王星越情头",
+        "onboard_time": 1707123511,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202456,
+        "num": 202456,
+        "word": "微博今年玩了把大的",
+        "onboard_time": 1707125071,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201963,
+        "num": 201963,
+        "word": "湖北冻雨",
+        "onboard_time": 1707123389,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199071,
+        "num": 199071,
+        "word": "甜馨第一次自己化妆",
+        "onboard_time": 1707105393,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196366,
+        "num": 196366,
+        "word": "飞驰人生2首映",
+        "onboard_time": 1707125131,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192383,
+        "num": 192383,
+        "word": "作家谌容去世",
+        "onboard_time": 1707124891,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 188197,
+        "word": "陈芋汐晋级",
+        "onboard_time": 1707123033,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180984,
+        "num": 180984,
+        "word": "机票1800元退票费1500元",
+        "onboard_time": 1707098132,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174076,
+        "num": 174076,
+        "word": "诸葛亮武陵仙君星传说",
+        "onboard_time": 1707125373,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173975,
+        "num": 173975,
+        "word": "乡村爱情永远比iPhone多一部",
+        "onboard_time": 1707124592,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162587,
+        "num": 162587,
+        "word": "王力宏回应胜诉",
+        "onboard_time": 1707114993,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160205,
+        "num": 160205,
+        "word": "张天爱穿铠甲扫楼",
+        "onboard_time": 1707116372,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504511,
+        "num": 158512,
+        "word": "衡水一中学老师被曝性骚扰女生",
+        "onboard_time": 1707117935,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151468,
+        "num": 151468,
+        "word": "绿皮火车 祖师爷",
+        "onboard_time": 1707124652,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149286,
+        "num": 149286,
+        "word": "春节美甲部分店铺限制团购",
+        "onboard_time": 1707124290,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 15815,
+        "num": 148791,
+        "word": "全国小可爱涌入京东许心愿",
+        "onboard_time": 1707122073,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148534,
+        "num": 148534,
+        "word": "当我得知老公曾经是校草",
+        "onboard_time": 1707117093,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147084,
+        "num": 147084,
+        "word": "梅西",
+        "onboard_time": 1707110971,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#良好生态本身蕴含着无穷的经济价值#"
+    }
+  }
+}

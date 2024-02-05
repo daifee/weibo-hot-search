@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707124658702,
+  "endTime": 1707125663345,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055515,
+      "num": 880269,
+      "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+      "onboard_time": 1707123511,
+      "rank": 3,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 1055082,
       "num": 1055082,
       "word": "高铁上打开电脑的人真的在忙吗",
@@ -371,18 +379,26 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 880269,
-      "num": 880269,
-      "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
-      "onboard_time": 1707123511,
-      "rank": 3,
-      "category": "母婴育儿"
+      "raw_hot": 894206,
+      "num": 894206,
+      "word": "湖北暴雪司机被困36小时煮雪融水喝",
+      "onboard_time": 1707122971,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 872163,
       "num": 872163,
       "word": "酱园弄 章子怡",
       "onboard_time": 1707109773,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 866408,
+      "num": 866408,
+      "word": "范丞丞科目一考了好几次",
+      "onboard_time": 1707124173,
       "rank": 18,
       "category": "电影"
     },
@@ -441,14 +457,6 @@
       "onboard_time": 1707090567,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 827384,
-      "num": 827384,
-      "word": "湖北暴雪司机被困36小时煮雪融水喝",
-      "onboard_time": 1707122971,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 810263,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566726,
+      "num": 566726,
+      "word": "田惠宇一审被判死缓",
+      "onboard_time": 1707124353,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558474,
       "num": 558474,
       "word": "立春",
@@ -1083,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480532,
+      "num": 480532,
+      "word": "孙志刚被开除党籍",
+      "onboard_time": 1707123273,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478909,
       "num": 478909,
       "word": "35岁后尤其要防6大高发癌症",
@@ -1135,14 +1159,6 @@
       "num": 453619,
       "word": "南航 延误",
       "onboard_time": 1707007229,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452434,
-      "num": 452434,
-      "word": "孙志刚被开除党籍",
-      "onboard_time": 1707123273,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -1619,6 +1635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321808,
+      "num": 321808,
+      "word": "周也周氏集团新闻发布会",
+      "onboard_time": 1707124951,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 320703,
+      "num": 320703,
+      "word": "双北 春晚",
+      "onboard_time": 1707125012,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319957,
       "num": 319957,
       "word": "周深又穿了半永久春晚羽绒服",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1707005009,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317013,
+      "num": 317013,
+      "word": "种地吧",
+      "onboard_time": 1707120630,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 316572,
@@ -1859,14 +1899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 281080,
-      "num": 281080,
-      "word": "范丞丞科目一考了好几次",
-      "onboard_time": 1707124173,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "王者荣耀孙尚香新皮肤",
@@ -1947,14 +1979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 271623,
-      "num": 271623,
-      "word": "种地吧",
-      "onboard_time": 1707120630,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271182,
       "num": 271182,
       "word": "张碧晨 我们总会遇见懂自己的人",
@@ -2033,14 +2057,6 @@
       "onboard_time": 1707009032,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260022,
-      "num": 260022,
-      "word": "田惠宇一审被判死缓",
-      "onboard_time": 1707124353,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259928,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1707102812,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247944,
+      "num": 247944,
+      "word": "徐明浩 青环8导",
+      "onboard_time": 1707125193,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 247267,
@@ -2499,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220514,
+      "num": 220514,
+      "word": "胡锡进称时光能倒流现在肯定不投资股市",
+      "onboard_time": 1707125012,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 219213,
       "num": 219213,
       "word": "要久久爱",
@@ -2580,11 +2612,19 @@
     },
     {
       "raw_hot": 214000,
-      "num": 221470,
+      "num": 222605,
       "word": "主办方回应梅西缺赛",
       "onboard_time": 1707102513,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213225,
+      "num": 210502,
+      "word": "吴磊王星越情头",
+      "onboard_time": 1707123511,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 212419,
@@ -2779,14 +2819,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 204849,
-      "num": 204849,
-      "word": "吴磊王星越情头",
-      "onboard_time": 1707123511,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "KSG教练",
@@ -2875,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202456,
+      "num": 202456,
+      "word": "微博今年玩了把大的",
+      "onboard_time": 1707125071,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201996,
       "num": 201996,
       "word": "成毅星星铆钉皮衣",
@@ -2883,8 +2923,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201691,
-      "num": 201691,
+      "raw_hot": 201963,
+      "num": 201963,
       "word": "湖北冻雨",
       "onboard_time": 1707123389,
       "rank": 32,
@@ -2969,6 +3009,14 @@
       "onboard_time": 1707095613,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196366,
+      "num": 196366,
+      "word": "飞驰人生2首映",
+      "onboard_time": 1707125131,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 195853,
@@ -3065,6 +3113,14 @@
       "onboard_time": 1707044070,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192383,
+      "num": 192383,
+      "word": "作家谌容去世",
+      "onboard_time": 1707124891,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 192309,
@@ -3321,6 +3377,22 @@
       "onboard_time": 1707120813,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174076,
+      "num": 174076,
+      "word": "诸葛亮武陵仙君星传说",
+      "onboard_time": 1707125373,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 173975,
+      "num": 173975,
+      "word": "乡村爱情永远比iPhone多一部",
+      "onboard_time": 1707124592,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 173351,
@@ -3721,6 +3793,14 @@
       "onboard_time": 1706970695,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151468,
+      "num": 151468,
+      "word": "绿皮火车 祖师爷",
+      "onboard_time": 1707124652,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 151244,
@@ -4273,14 +4353,6 @@
       "onboard_time": 1707099931,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125995,
-      "num": 125995,
-      "word": "乡村爱情永远比iPhone多一部",
-      "onboard_time": 1707124592,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 125101,
@@ -5099,20 +5171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29361,
+      "num": 255703,
+      "word": "vivo连续三年国产手机销量第一",
+      "onboard_time": 1707123935,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29251,
       "num": 1039121,
       "word": "2024网络视听盛典",
       "onboard_time": 1706965592,
       "rank": 2,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28407,
-      "num": 194168,
-      "word": "vivo连续三年国产手机销量第一",
-      "onboard_time": 1707123935,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 27741,
