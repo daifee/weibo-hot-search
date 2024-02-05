@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707095616871,
+  "endTime": 1707096851495,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -17,6 +17,14 @@
       "onboard_time": 1707037529,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3396012,
+      "num": 3396012,
+      "word": "霍启刚要求梅西与迈阿密道歉",
+      "onboard_time": 1707095132,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2775213,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754216,
+      "num": 754216,
+      "word": "格莱美红毯",
+      "onboard_time": 1707088582,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 750543,
       "num": 750543,
       "word": "宋雨琦与Minnie曾喜欢同一男生",
@@ -363,12 +379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 717284,
-      "num": 717284,
-      "word": "格莱美红毯",
-      "onboard_time": 1707088582,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 709586,
+      "num": 709586,
+      "word": "梅西赛后拒绝领奖发言",
+      "onboard_time": 1707088762,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 704391,
@@ -377,14 +393,6 @@
       "onboard_time": 1707019411,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696492,
-      "num": 535930,
-      "word": "霍启刚要求梅西与迈阿密道歉",
-      "onboard_time": 1707095132,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 672932,
@@ -465,14 +473,6 @@
       "onboard_time": 1707020790,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 632181,
-      "num": 632181,
-      "word": "梅西赛后拒绝领奖发言",
-      "onboard_time": 1707088762,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 621455,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552997,
+      "num": 552997,
+      "word": "春运买短乘长可能被请下车",
+      "onboard_time": 1707092130,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544595,
       "num": 544595,
       "word": "过年真的要花好多钱啊",
@@ -601,14 +609,6 @@
       "onboard_time": 1707046172,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 536006,
-      "num": 536006,
-      "word": "春运买短乘长可能被请下车",
-      "onboard_time": 1707092130,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530301,
@@ -731,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 455981,
+      "num": 455981,
+      "word": "格莱美颁奖礼",
+      "onboard_time": 1707095370,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453619,
       "num": 453619,
       "word": "南航 延误",
@@ -800,6 +808,14 @@
       "word": "少爷和我",
       "onboard_time": 1707044133,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 423511,
+      "num": 423511,
+      "word": "杨紫说豆豆有点小绿茶",
+      "onboard_time": 1707091887,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -913,14 +929,6 @@
       "onboard_time": 1706969556,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395022,
-      "num": 395022,
-      "word": "杨紫说豆豆有点小绿茶",
-      "onboard_time": 1707091887,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 394106,
@@ -1443,6 +1451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 250516,
+      "num": 158826,
+      "word": "果然爷爷奶奶养什么都能养得好",
+      "onboard_time": 1707096210,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249431,
       "num": 249431,
       "word": "A股",
@@ -1779,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210754,
+      "num": 210754,
+      "word": "卫生间窗户一夜未关积雪堆成雪山",
+      "onboard_time": 1707092247,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210425,
       "num": 210425,
       "word": "委屈你了英子",
@@ -1995,12 +2019,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 196300,
-      "num": 196300,
-      "word": "格莱美颁奖礼",
-      "onboard_time": 1707095370,
+      "raw_hot": 196400,
+      "num": 196400,
+      "word": "薛鹏",
+      "onboard_time": 1707095613,
       "rank": 24,
-      "category": "音乐"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195853,
@@ -2027,20 +2051,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194427,
+      "num": 194427,
+      "word": "格莱美直播",
+      "onboard_time": 1707090327,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194282,
       "num": 194282,
       "word": "穆雷绝平勇士",
       "onboard_time": 1707017011,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193798,
-      "num": 193798,
-      "word": "格莱美直播",
-      "onboard_time": 1707090327,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 193791,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1707044070,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192651,
-      "num": 192651,
-      "word": "卫生间窗户一夜未关积雪堆成雪山",
-      "onboard_time": 1707092247,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192309,
@@ -2291,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169946,
+      "num": 169946,
+      "word": "肖战Vlog",
+      "onboard_time": 1707093328,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169197,
       "num": 165483,
       "word": "冯巩相声",
@@ -2395,6 +2419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160798,
+      "num": 160798,
+      "word": "被确认为霹雳贝贝",
+      "onboard_time": 1707096210,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160747,
       "num": 160747,
       "word": "董宇辉已回家乡陕西",
@@ -2497,14 +2529,6 @@
       "onboard_time": 1707047192,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154035,
-      "num": 154035,
-      "word": "肖战Vlog",
-      "onboard_time": 1707093328,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 152191,
@@ -2659,6 +2683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142947,
+      "num": 142947,
+      "word": "伴侣不成熟的表现",
+      "onboard_time": 1707096392,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142915,
       "num": 125859,
       "word": "檀健次第一个出场",
@@ -2763,6 +2795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137911,
+      "num": 137911,
+      "word": "科研中心回应博导被剥夺招生资格",
+      "onboard_time": 1707096689,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137852,
       "num": 137852,
       "word": "杨氏双缝干涉实验",
@@ -2819,6 +2859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134222,
+      "num": 134222,
+      "word": "加塞捶车事件背后的隐秘身影",
+      "onboard_time": 1707095550,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133671,
       "num": 133671,
       "word": "百度输入法上线付费VIP",
@@ -2835,8 +2883,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 132707,
-      "num": 132707,
+      "raw_hot": 133284,
+      "num": 133284,
       "word": "每周步行90分钟可显著降低死亡率",
       "onboard_time": 1707092848,
       "rank": 37,
@@ -2867,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132182,
+      "num": 132182,
+      "word": "梅西没出场比赛或扣减1600万赞助",
+      "onboard_time": 1707089244,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131774,
       "num": 131774,
       "word": "张凯毅 讨债4部曲",
@@ -2891,6 +2947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130291,
+      "num": 130291,
+      "word": "胆囊癌的4个危险因素",
+      "onboard_time": 1707093212,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130232,
       "num": 130232,
       "word": "把中国龙化在脸上",
@@ -2913,6 +2977,14 @@
       "onboard_time": 1707038132,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128532,
+      "num": 128532,
+      "word": "iOS17.4正式版",
+      "onboard_time": 1707091167,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 128187,
@@ -2953,14 +3025,6 @@
       "onboard_time": 1706969794,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125982,
-      "num": 125982,
-      "word": "胆囊癌的4个危险因素",
-      "onboard_time": 1707093212,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124981,
@@ -3035,12 +3099,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121084,
+      "num": 121084,
+      "word": "东北年夜饭里的硬菜全在这了",
+      "onboard_time": 1707096088,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121052,
       "num": 137990,
       "word": "怜爱jiejie",
       "onboard_time": 1706973095,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120550,
+      "num": 120550,
+      "word": "大学生回家不会说方言了",
+      "onboard_time": 1707096750,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 120243,
@@ -3067,8 +3147,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118162,
-      "num": 118162,
+      "raw_hot": 119087,
+      "num": 119087,
       "word": "苏醒放弃进军TVB的原因",
       "onboard_time": 1707095309,
       "rank": 43,
@@ -3089,14 +3169,6 @@
       "onboard_time": 1707033449,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117314,
-      "num": 117314,
-      "word": "iOS17.4正式版",
-      "onboard_time": 1707091167,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 117000,
@@ -3211,14 +3283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108036,
-      "num": 108036,
-      "word": "加塞捶车事件背后的隐秘身影",
-      "onboard_time": 1707095550,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107734,
       "num": 137930,
       "word": "终于理解我妈了",
@@ -3233,14 +3297,6 @@
       "onboard_time": 1707031831,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106973,
-      "num": 106973,
-      "word": "梅西没出场比赛或扣减1600万赞助",
-      "onboard_time": 1707089244,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 106300,

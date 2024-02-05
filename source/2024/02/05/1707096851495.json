@@ -1,0 +1,410 @@
+{
+  "runTime": 1707096851495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3396012,
+        "num": 3396012,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 963280,
+        "num": 963280,
+        "word": "半个娱乐圈都在苏醒的拟邀名单上",
+        "onboard_time": 1707091348,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131541,
+        "num": 955482,
+        "word": "又被中式美学惊艳了",
+        "onboard_time": 1707050735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947871,
+        "num": 947871,
+        "word": "因暴雪滞留高速亲历者发声",
+        "onboard_time": 1707079695,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754216,
+        "num": 754216,
+        "word": "格莱美红毯",
+        "onboard_time": 1707088582,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 709586,
+        "num": 709586,
+        "word": "梅西赛后拒绝领奖发言",
+        "onboard_time": 1707088762,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659055,
+        "num": 659055,
+        "word": "12306回应一些车次为何开售即秒光",
+        "onboard_time": 1707090567,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552997,
+        "num": 552997,
+        "word": "春运买短乘长可能被请下车",
+        "onboard_time": 1707092130,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534042,
+        "num": 534042,
+        "word": "英国王室辟谣凯特王妃陷入昏迷",
+        "onboard_time": 1707093391,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 528259,
+        "num": 528259,
+        "word": "日本一海滩被大量沙丁鱼骨掩埋",
+        "onboard_time": 1707090327,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 522563,
+        "num": 522563,
+        "word": "上海下雪",
+        "onboard_time": 1707093569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479887,
+        "num": 479887,
+        "word": "全程还原奔驰男下车后1分钟",
+        "onboard_time": 1707089722,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455981,
+        "num": 455981,
+        "word": "格莱美颁奖礼",
+        "onboard_time": 1707095370,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423511,
+        "num": 423511,
+        "word": "杨紫说豆豆有点小绿茶",
+        "onboard_time": 1707091887,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329869,
+        "num": 329869,
+        "word": "高速瘫痪被堵乘客捡木柴烧火取暖",
+        "onboard_time": 1707090266,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318907,
+        "num": 318907,
+        "word": "韩国老师教中国留学生出师表",
+        "onboard_time": 1707093087,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288152,
+        "num": 288152,
+        "word": "孩子玩手机把导航从回江西换到福建",
+        "onboard_time": 1707054695,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254204,
+        "num": 254204,
+        "word": "真实暧昧又尴尬",
+        "onboard_time": 1707067462,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235130,
+        "num": 235130,
+        "word": "辛芷蕾就想吃颗毛豆她有什么错",
+        "onboard_time": 1707061291,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219996,
+        "num": 219996,
+        "word": "霉霉Karma掉了",
+        "onboard_time": 1707091469,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261606,
+        "num": 219921,
+        "word": "为什么只有中国医生擅长取鱼刺",
+        "onboard_time": 1707055534,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237599,
+        "num": 219849,
+        "word": "看小说时真的会有生理反应",
+        "onboard_time": 1707057875,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 219758,
+        "num": 219758,
+        "word": "马丽赵丽颖高叶同框合影",
+        "onboard_time": 1707091527,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210754,
+        "num": 210754,
+        "word": "卫生间窗户一夜未关积雪堆成雪山",
+        "onboard_time": 1707092247,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196400,
+        "num": 196400,
+        "word": "薛鹏",
+        "onboard_time": 1707095613,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194427,
+        "num": 194427,
+        "word": "格莱美直播",
+        "onboard_time": 1707090327,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192737,
+        "num": 192737,
+        "word": "女子买刮刮乐兑奖却被撕彩票",
+        "onboard_time": 1707053194,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171232,
+        "num": 171232,
+        "word": "乘客下单叫到66.6公里外网约车",
+        "onboard_time": 1707083896,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169946,
+        "num": 169946,
+        "word": "肖战Vlog",
+        "onboard_time": 1707093328,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 160798,
+        "word": "被确认为霹雳贝贝",
+        "onboard_time": 1707096210,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250516,
+        "num": 158826,
+        "word": "果然爷爷奶奶养什么都能养得好",
+        "onboard_time": 1707096210,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156397,
+        "num": 156397,
+        "word": "杨波朋友圈",
+        "onboard_time": 1707037529,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153620,
+        "num": 153620,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145800,
+        "num": 145800,
+        "word": "合肥南站D4832列车晚点744分钟",
+        "onboard_time": 1707056197,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145140,
+        "num": 145140,
+        "word": "吃了这些药谁劝都别喝酒",
+        "onboard_time": 1707094955,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142947,
+        "num": 142947,
+        "word": "伴侣不成熟的表现",
+        "onboard_time": 1707096392,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137911,
+        "num": 137911,
+        "word": "科研中心回应博导被剥夺招生资格",
+        "onboard_time": 1707096689,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134878,
+        "num": 134878,
+        "word": "91岁奶奶找回了失散55年的心肝宝贝",
+        "onboard_time": 1707074717,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134222,
+        "num": 134222,
+        "word": "加塞捶车事件背后的隐秘身影",
+        "onboard_time": 1707095550,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133774,
+        "num": 133774,
+        "word": "刘亦菲初中时期旧照",
+        "onboard_time": 1707059375,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133284,
+        "num": 133284,
+        "word": "每周步行90分钟可显著降低死亡率",
+        "onboard_time": 1707092848,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132182,
+        "num": 132182,
+        "word": "梅西没出场比赛或扣减1600万赞助",
+        "onboard_time": 1707089244,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130291,
+        "num": 130291,
+        "word": "胆囊癌的4个危险因素",
+        "onboard_time": 1707093212,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130189,
+        "num": 130189,
+        "word": "吃完头孢7天内不能喝酒",
+        "onboard_time": 1707042512,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128532,
+        "num": 128532,
+        "word": "iOS17.4正式版",
+        "onboard_time": 1707091167,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127227,
+        "num": 127227,
+        "word": "蓝盈莹否认整容",
+        "onboard_time": 1707049893,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126677,
+        "num": 126677,
+        "word": "张凯毅 讨债4部曲",
+        "onboard_time": 1707093690,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121084,
+        "num": 121084,
+        "word": "东北年夜饭里的硬菜全在这了",
+        "onboard_time": 1707096088,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120550,
+        "num": 120550,
+        "word": "大学生回家不会说方言了",
+        "onboard_time": 1707096750,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119087,
+        "num": 119087,
+        "word": "苏醒放弃进军TVB的原因",
+        "onboard_time": 1707095309,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}
