@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707100147212,
+  "endTime": 1707100737882,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113434,
+      "num": 1113434,
+      "word": "安倍晋三母亲去世",
+      "onboard_time": 1707099211,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1108411,
       "num": 1108411,
       "word": "五十度暴雪",
@@ -971,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959911,
+      "num": 959911,
+      "word": "A股千股跌停",
+      "onboard_time": 1707099931,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 959536,
       "num": 959536,
       "word": "杨波",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1706798915,
       "rank": 17,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 911969,
-      "num": 911969,
-      "word": "安倍晋三母亲去世",
-      "onboard_time": 1707099211,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 902129,
@@ -2227,6 +2235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 554664,
+      "num": 554664,
+      "word": "A股开盘跌破2700点",
+      "onboard_time": 1707099813,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 554540,
       "num": 438547,
       "word": "张艺谋说听障人士角色是赵丽颖的提议",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1706767949,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 543459,
+      "num": 543459,
+      "word": "霉霉高开衩白裙",
+      "onboard_time": 1707098370,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 543361,
@@ -2497,6 +2521,14 @@
       "onboard_time": 1706926772,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 508486,
+      "num": 508486,
+      "word": "肿瘤医生不碰的6种促癌食物",
+      "onboard_time": 1707097348,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 505110,
@@ -2755,14 +2787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475517,
-      "num": 453825,
-      "word": "肿瘤医生不碰的6种促癌食物",
-      "onboard_time": 1707097348,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 473658,
       "num": 473658,
       "word": "致命游戏首更52集",
@@ -2929,14 +2953,6 @@
       "onboard_time": 1706936907,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444237,
-      "num": 444237,
-      "word": "霉霉高开衩白裙",
-      "onboard_time": 1707098370,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 442538,
@@ -3363,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400681,
+      "num": 400681,
+      "word": "格莱美直播",
+      "onboard_time": 1707090327,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400489,
       "num": 400489,
       "word": "Xiaohu偷家RNG",
@@ -3393,14 +3417,6 @@
       "onboard_time": 1706858673,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 396416,
-      "num": 396416,
-      "word": "A股开盘跌破2700点",
-      "onboard_time": 1707099813,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 396396,
@@ -4011,14 +4027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 337575,
-      "num": 337575,
-      "word": "格莱美直播",
-      "onboard_time": 1707090327,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 335827,
       "num": 188299,
       "word": "肖战声线感染力",
@@ -4521,6 +4529,14 @@
       "onboard_time": 1706778031,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298608,
+      "num": 298608,
+      "word": "虞书欣 本体是蝴蝶结",
+      "onboard_time": 1707098610,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 298386,
@@ -5275,14 +5291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252333,
-      "num": 252333,
-      "word": "虞书欣 本体是蝴蝶结",
-      "onboard_time": 1707098610,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 252313,
       "num": 252313,
       "word": "男子弄丢3铁片险损失2千万",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1706799393,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236239,
+      "num": 236239,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 236106,
@@ -6259,20 +6275,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215146,
+      "num": 215146,
+      "word": "千股跌停",
+      "onboard_time": 1707100354,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215104,
       "num": 215104,
       "word": "秦岚短发羊毛卷",
       "onboard_time": 1706857532,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215090,
-      "num": 215090,
-      "word": "A股千股跌停",
-      "onboard_time": 1707099931,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 214998,
@@ -6531,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207518,
+      "num": 207518,
+      "word": "为什么坐车时看手机越看越想吐",
+      "onboard_time": 1707097348,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207138,
       "num": 167386,
       "word": "德云社大封箱开场",
@@ -6721,14 +6745,6 @@
       "onboard_time": 1706782171,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204660,
-      "num": 204660,
-      "word": "格莱美",
-      "onboard_time": 1707052412,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 204644,
@@ -7041,6 +7057,14 @@
       "onboard_time": 1706765371,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198060,
+      "num": 198060,
+      "word": "KCON香港阵容",
+      "onboard_time": 1707100292,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 197619,
@@ -7491,6 +7515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189952,
+      "num": 184576,
+      "word": "猫 好歹毒的招式",
+      "onboard_time": 1707099689,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189941,
       "num": 189941,
       "word": "JDG战胜LNG",
@@ -7545,14 +7577,6 @@
       "onboard_time": 1706797952,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189009,
-      "num": 189009,
-      "word": "为什么坐车时看手机越看越想吐",
-      "onboard_time": 1707097348,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 188917,
@@ -7873,6 +7897,14 @@
       "onboard_time": 1706948191,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183176,
+      "num": 183176,
+      "word": "你听过龙的声音吗",
+      "onboard_time": 1707100354,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183093,
@@ -8385,6 +8417,14 @@
       "onboard_time": 1706796571,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170575,
+      "num": 170575,
+      "word": "崔娃格莱美捍卫霉霉",
+      "onboard_time": 1707098970,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 170518,
@@ -8931,6 +8971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159154,
+      "num": 159154,
+      "word": "女子大雪被困高速河南小伙伸援手",
+      "onboard_time": 1707100292,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 159027,
       "num": 159027,
       "word": "GOODBAI牛仔外套抽检不合格",
@@ -9315,14 +9363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150770,
-      "num": 150770,
-      "word": "猫 好歹毒的招式",
-      "onboard_time": 1707099689,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "工会回应副主席被曝不雅聊天",
@@ -9697,14 +9737,6 @@
       "onboard_time": 1706695353,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143197,
-      "num": 133797,
-      "word": "崔娃格莱美捍卫霉霉",
-      "onboard_time": 1707098970,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 142947,
@@ -10739,6 +10771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126540,
+      "num": 126540,
+      "word": "快船双杀热火",
+      "onboard_time": 1707100411,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126511,
       "num": 126511,
       "word": "BABYMONSTER新歌MV",
@@ -10753,6 +10793,14 @@
       "onboard_time": 1706757453,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126011,
+      "num": 126011,
+      "word": "Flowers最佳流行表演",
+      "onboard_time": 1707099931,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 125520,
@@ -10867,6 +10915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 123999,
+      "num": 123999,
+      "word": "华晨宇庆生给歌迷煮饺子",
+      "onboard_time": 1707100590,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123942,
       "num": 123942,
       "word": "电影都不敢这么拍",
@@ -10889,6 +10945,14 @@
       "onboard_time": 1706800291,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123479,
+      "num": 123479,
+      "word": "说唱歌手格莱美拿奖后被逮捕",
+      "onboard_time": 1707100651,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 123111,
@@ -11160,14 +11224,6 @@
       "word": "IU或将与HYEIN合作",
       "onboard_time": 1707090145,
       "rank": 45,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 116881,
-      "num": 116881,
-      "word": "Flowers最佳流行表演",
-      "onboard_time": 1707099931,
-      "rank": 47,
       "category": "音乐"
     },
     {
