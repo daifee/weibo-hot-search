@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707160531757,
+  "endTime": 1707161627873,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -6304,6 +6304,14 @@
       "word": "祝绪丹新剧妆造",
       "onboard_time": 1707158539,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22360,
+      "num": 22360,
+      "word": "林更新说楚乔传的遗憾会在与凤行补上",
+      "onboard_time": 1707161297,
+      "rank": 28,
       "category": "剧集"
     },
     {
