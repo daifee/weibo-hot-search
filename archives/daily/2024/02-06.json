@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707157369131,
+  "endTime": 1707158064015,
   "band_list": [
     {
       "raw_hot": 1205014,
@@ -475,7 +475,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 3058,
+      "raw_hot": 18835,
+      "num": 23501,
+      "word": "杨紫要久久爱攻克哭戏难关",
+      "onboard_time": 1707157759,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 3147,
       "num": 215968,
       "word": "我的龙年仪式感",
       "onboard_time": 1707029608,
