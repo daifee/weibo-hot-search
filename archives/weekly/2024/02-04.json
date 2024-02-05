@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707150939425,
+  "endTime": 1707153363639,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -731,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 741046,
+      "num": 741046,
+      "word": "从脂肪肝到肝癌只需四步",
+      "onboard_time": 1707149068,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 738596,
       "num": 738596,
       "word": "躲春",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1707137190,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 504027,
-      "num": 185737,
-      "word": "从脂肪肝到肝癌只需四步",
-      "onboard_time": 1707149068,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 502490,
@@ -5747,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89704,
+      "num": 89704,
+      "word": "Minji对恶评的态度",
+      "onboard_time": 1707151285,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89221,
       "num": 124857,
       "word": "浦东机场",
@@ -6011,6 +6019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49318,
+      "num": 53879,
+      "word": "授她以柄开播",
+      "onboard_time": 1707152245,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48297,
       "num": 48297,
       "word": "杨千嬅快把冷门歌唱热了",
@@ -6041,6 +6057,14 @@
       "onboard_time": 1707107611,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46902,
+      "num": 53866,
+      "word": "新中式名伶妆",
+      "onboard_time": 1707151466,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 46229,
@@ -6089,6 +6113,14 @@
       "onboard_time": 1706988676,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41068,
+      "num": 53840,
+      "word": "借出房车卫生间当事女生发声",
+      "onboard_time": 1707153204,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40706,
