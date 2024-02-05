@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707131678496,
+  "endTime": 1707132850221,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2170113,
-      "num": 2170113,
+      "raw_hot": 2173930,
+      "num": 2173930,
       "word": "梅西爽约突破商业底线",
       "onboard_time": 1707127953,
       "rank": 30,
@@ -89,6 +89,14 @@
       "onboard_time": 1707016892,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1763413,
+      "num": 1763413,
+      "word": "车厘子价格跌至每斤20元",
+      "onboard_time": 1707130652,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 1685281,
@@ -523,14 +531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 801254,
-      "num": 801254,
-      "word": "车厘子价格跌至每斤20元",
-      "onboard_time": 1707130652,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 800301,
       "num": 800301,
       "word": "镇政府拒不公布涉农补贴",
@@ -697,6 +697,14 @@
       "onboard_time": 1707090327,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 670721,
+      "num": 596127,
+      "word": "唐鹤德晒与张国荣合照庆生",
+      "onboard_time": 1707131071,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 670138,
@@ -1411,14 +1419,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 409708,
-      "num": 409708,
-      "word": "唐鹤德晒与张国荣合照庆生",
-      "onboard_time": 1707131071,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 405136,
       "num": 405136,
       "word": "春晚第四次联排明星阵容",
@@ -1827,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307392,
+      "num": 307392,
+      "word": "湖北高速",
+      "onboard_time": 1707127291,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304981,
       "num": 304981,
       "word": "光与夜之恋",
@@ -2123,20 +2131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266992,
+      "num": 251000,
+      "word": "陈小纭落跑公主",
+      "onboard_time": 1707132152,
+      "rank": 20,
+      "category": "综艺,读书作家"
+    },
+    {
       "raw_hot": 264007,
       "num": 264007,
       "word": "李庚希张婧仪 对眼睛好",
       "onboard_time": 1707036330,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262141,
-      "num": 262141,
-      "word": "湖北高速",
-      "onboard_time": 1707127291,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261926,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1707042391,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252681,
+      "num": 252681,
+      "word": "刘亦菲刘诗诗合影旧照",
+      "onboard_time": 1707132628,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 252292,
@@ -2387,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240807,
+      "num": 240807,
+      "word": "沈腾伤疤",
+      "onboard_time": 1707131551,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239732,
       "num": 239732,
       "word": "我们的女明星女演员女爱豆都在演些什么",
@@ -2400,6 +2424,14 @@
       "word": "港府或因梅西缺赛扣减赞助款项",
       "onboard_time": 1707109113,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238969,
+      "num": 200266,
+      "word": "梅西表演赛票务平台回应退票问题",
+      "onboard_time": 1707131191,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2963,6 +2995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204780,
+      "num": 204780,
+      "word": "祈今朝",
+      "onboard_time": 1707131851,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204644,
       "num": 204644,
       "word": "癸卯兔要交接给甲辰龙了",
@@ -3081,14 +3121,6 @@
       "onboard_time": 1707026611,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199345,
-      "num": 199345,
-      "word": "梅西表演赛票务平台回应退票问题",
-      "onboard_time": 1707131191,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 199067,
@@ -3211,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194069,
+      "num": 1890295,
+      "word": "雪中丁达尔效应宛如魔法结界",
+      "onboard_time": 1707126632,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193907,
       "num": 193907,
       "word": "主办方否认赛前知悉梅西缺赛",
@@ -3307,6 +3347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190254,
+      "num": 190254,
+      "word": "吴磊长得好暧昧",
+      "onboard_time": 1707131670,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189952,
       "num": 189952,
       "word": "大叔高速救火20分钟后默默离开",
@@ -3345,14 +3393,6 @@
       "onboard_time": 1707020731,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 187213,
-      "num": 1400402,
-      "word": "雪中丁达尔效应宛如魔法结界",
-      "onboard_time": 1707126632,
-      "rank": 4,
-      "category": "旅游"
     },
     {
       "raw_hot": 186799,
@@ -3465,6 +3505,14 @@
       "onboard_time": 1707015568,
       "rank": 36,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 178678,
+      "num": 178678,
+      "word": "阅文IP盛典",
+      "onboard_time": 1707132628,
+      "rank": 34,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 178359,
@@ -3747,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164689,
+      "num": 880089,
+      "word": "有姥爷在的世界我就是最好的小孩",
+      "onboard_time": 1707126632,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164149,
       "num": 162609,
       "word": "于正盛赞卢昱晓",
@@ -3836,7 +3892,7 @@
     },
     {
       "raw_hot": 159448,
-      "num": 1092950,
+      "num": 1766652,
       "word": "春节假期安全提示来了",
       "onboard_time": 1707119068,
       "rank": 2,
@@ -3889,6 +3945,14 @@
       "onboard_time": 1706970695,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157298,
+      "num": 157298,
+      "word": "王鹤棣新中式",
+      "onboard_time": 1707132571,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156919,
@@ -4027,14 +4091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150459,
-      "num": 880089,
-      "word": "有姥爷在的世界我就是最好的小孩",
-      "onboard_time": 1707126632,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149463,
       "num": 149463,
       "word": "赵云乘龙铭钟鼎新皮肤",
@@ -4137,6 +4193,14 @@
       "onboard_time": 1707035430,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144815,
+      "num": 144815,
+      "word": "钎城龙年迎新岁大片",
+      "onboard_time": 1707132751,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 144515,
@@ -4409,14 +4473,6 @@
       "onboard_time": 1707114151,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132637,
-      "num": 132637,
-      "word": "沈腾伤疤",
-      "onboard_time": 1707131551,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 132515,
@@ -5075,6 +5131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78605,
+      "num": 200280,
+      "word": "如何区分流鼻涕和脑脊液鼻漏",
+      "onboard_time": 1707132209,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78252,
       "num": 78252,
       "word": "暴雪冰冻橙色预警",
@@ -5089,6 +5153,14 @@
       "onboard_time": 1707065246,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76470,
+      "num": 758668,
+      "word": "88岁育种专家往田里一扎就是一整天",
+      "onboard_time": 1707131371,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73513,
@@ -5305,14 +5377,6 @@
       "onboard_time": 1707101190,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 41898,
-      "num": 532359,
-      "word": "88岁育种专家往田里一扎就是一整天",
-      "onboard_time": 1707131371,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41700,

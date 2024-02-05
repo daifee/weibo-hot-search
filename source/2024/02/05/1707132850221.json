@@ -1,0 +1,410 @@
+{
+  "runTime": 1707132850221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2173930,
+        "num": 2173930,
+        "word": "梅西爽约突破商业底线",
+        "onboard_time": 1707127953,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194069,
+        "num": 1890295,
+        "word": "雪中丁达尔效应宛如魔法结界",
+        "onboard_time": 1707126632,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54083,
+        "num": 1766652,
+        "word": "春节假期安全提示来了",
+        "onboard_time": 1707119068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1763413,
+        "num": 1763413,
+        "word": "车厘子价格跌至每斤20元",
+        "onboard_time": 1707130652,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164689,
+        "num": 783636,
+        "word": "有姥爷在的世界我就是最好的小孩",
+        "onboard_time": 1707126632,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 774341,
+        "num": 774341,
+        "word": "双北 春晚",
+        "onboard_time": 1707125012,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76470,
+        "num": 758668,
+        "word": "88岁育种专家往田里一扎就是一整天",
+        "onboard_time": 1707131371,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754260,
+        "num": 754260,
+        "word": "美甲建构",
+        "onboard_time": 1707127891,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 638281,
+        "num": 638281,
+        "word": "范丞丞科目一考了好几次",
+        "onboard_time": 1707124173,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 630696,
+        "num": 630696,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670721,
+        "num": 596127,
+        "word": "唐鹤德晒与张国荣合照庆生",
+        "onboard_time": 1707131071,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511014,
+        "num": 511014,
+        "word": "周也周氏集团新闻发布会",
+        "onboard_time": 1707124951,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 431764,
+        "num": 431764,
+        "word": "湖北暴雪司机被困36小时煮雪融水喝",
+        "onboard_time": 1707122971,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 412663,
+        "num": 412663,
+        "word": "邢菲 0.6秒预告镜头怎么了",
+        "onboard_time": 1707129810,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406561,
+        "num": 406561,
+        "word": "梅西离开香港",
+        "onboard_time": 1707126873,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374306,
+        "num": 374306,
+        "word": "霍建华李凯馨亲密合照",
+        "onboard_time": 1707112470,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355250,
+        "num": 355250,
+        "word": "龙年央视春晚主持人阵容",
+        "onboard_time": 1707121833,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323997,
+        "num": 323997,
+        "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+        "onboard_time": 1707123511,
+        "rank": 17,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 307392,
+        "num": 307392,
+        "word": "湖北高速",
+        "onboard_time": 1707127291,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252681,
+        "num": 252681,
+        "word": "刘亦菲刘诗诗合影旧照",
+        "onboard_time": 1707132628,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266992,
+        "num": 251000,
+        "word": "陈小纭落跑公主",
+        "onboard_time": 1707132152,
+        "rank": 20,
+        "category": "综艺,读书作家"
+      },
+      {
+        "raw_hot": 240807,
+        "num": 240807,
+        "word": "沈腾伤疤",
+        "onboard_time": 1707131551,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230812,
+        "num": 230812,
+        "word": "四川山洪致6死46失联127人被问责",
+        "onboard_time": 1707126811,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225975,
+        "num": 225975,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17299,
+        "num": 223243,
+        "word": "京东春晚送完汽车又送房",
+        "onboard_time": 1707130411,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223192,
+        "num": 223192,
+        "word": "香港文旅局称主办方确认梅西可以出场",
+        "onboard_time": 1707110971,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219178,
+        "num": 219178,
+        "word": "周深演了杨幂的男主角",
+        "onboard_time": 1707121112,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 213080,
+        "num": 213080,
+        "word": "谷爱凌遇到想教她滑雪的男士",
+        "onboard_time": 1707128735,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204780,
+        "num": 204780,
+        "word": "祈今朝",
+        "onboard_time": 1707131851,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78605,
+        "num": 200280,
+        "word": "如何区分流鼻涕和脑脊液鼻漏",
+        "onboard_time": 1707132209,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238969,
+        "num": 200266,
+        "word": "梅西表演赛票务平台回应退票问题",
+        "onboard_time": 1707131191,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198778,
+        "num": 198778,
+        "word": "TWS疑似音源造假",
+        "onboard_time": 1707130111,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190254,
+        "num": 190254,
+        "word": "吴磊长得好暧昧",
+        "onboard_time": 1707131670,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185846,
+        "num": 185846,
+        "word": "酱园弄 章子怡",
+        "onboard_time": 1707109773,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178678,
+        "num": 178678,
+        "word": "阅文IP盛典",
+        "onboard_time": 1707132628,
+        "rank": 34,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 173800,
+        "num": 173800,
+        "word": "光与夜之恋",
+        "onboard_time": 1707129691,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172573,
+        "num": 172573,
+        "word": "王者荣耀时代少年团直播官宣",
+        "onboard_time": 1707126632,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 162811,
+        "num": 162811,
+        "word": "做美甲",
+        "onboard_time": 1707126389,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160384,
+        "num": 160384,
+        "word": "分不清哪个是儿子哪个是爹",
+        "onboard_time": 1707127589,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157629,
+        "num": 157629,
+        "word": "王源TF家族大合照黑裤子是P的",
+        "onboard_time": 1707128310,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157298,
+        "num": 157298,
+        "word": "王鹤棣新中式",
+        "onboard_time": 1707132571,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150414,
+        "num": 150414,
+        "word": "开车回家我妈觉得很有面子",
+        "onboard_time": 1707128972,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149684,
+        "num": 149684,
+        "word": "杨紫遭换角色反被说不知好歹",
+        "onboard_time": 1707113673,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144815,
+        "num": 144815,
+        "word": "钎城龙年迎新岁大片",
+        "onboard_time": 1707132751,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143867,
+        "num": 143867,
+        "word": "谁在消费3000元的美甲",
+        "onboard_time": 1707118529,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141120,
+        "num": 141120,
+        "word": "A股三大股指全部翻红",
+        "onboard_time": 1707114511,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139123,
+        "num": 139123,
+        "word": "意大利的猫和人一样抗造",
+        "onboard_time": 1707129629,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137791,
+        "num": 137791,
+        "word": "吴磊赵今麦中戏第一vs北影第一",
+        "onboard_time": 1707121590,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134980,
+        "num": 134980,
+        "word": "徐明浩 青环8导",
+        "onboard_time": 1707125193,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133914,
+        "num": 133914,
+        "word": "Letme邀请朱开执教RNG",
+        "onboard_time": 1707130891,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#良好生态本身蕴含着无穷的经济价值#"
+    }
+  }
+}
