@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707153363639,
+  "endTime": 1707154455963,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -5859,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74506,
+      "num": 74506,
+      "word": "借出房车卫生间当事女生发声",
+      "onboard_time": 1707153204,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73513,
       "num": 73513,
       "word": "忍不住在考研群里怼人了",
@@ -5873,6 +5881,14 @@
       "onboard_time": 1706952211,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72242,
+      "num": 72242,
+      "word": "粉丝祝王星越新婚快乐",
+      "onboard_time": 1707153562,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 70594,
@@ -6113,14 +6129,6 @@
       "onboard_time": 1706988676,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41068,
-      "num": 53840,
-      "word": "借出房车卫生间当事女生发声",
-      "onboard_time": 1707153204,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40706,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707153363639,
+  "endTime": 1707154455963,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -14491,6 +14491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74506,
+      "num": 74506,
+      "word": "借出房车卫生间当事女生发声",
+      "onboard_time": 1707153204,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74413,
       "num": 74413,
       "word": "刘德华扫楼听到恭喜发财的反应",
@@ -14513,6 +14521,14 @@
       "onboard_time": 1707088463,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72242,
+      "num": 72242,
+      "word": "粉丝祝王星越新婚快乐",
+      "onboard_time": 1707153562,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 72168,
@@ -14969,14 +14985,6 @@
       "onboard_time": 1706988676,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41068,
-      "num": 53840,
-      "word": "借出房车卫生间当事女生发声",
-      "onboard_time": 1707153204,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40788,
