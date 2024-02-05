@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707106906256,
+  "endTime": 1707107738622,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2357336,
-      "num": 546922,
+      "num": 996091,
       "word": "张天爱 神经病",
       "onboard_time": 1707103171,
       "rank": 11,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1138314,
+      "num": 1138314,
+      "word": "甜馨第一次自己化妆",
+      "onboard_time": 1707105393,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1133879,
       "num": 1828842,
       "word": "夫妻各开一架飞机回家过年",
@@ -1071,14 +1079,6 @@
       "num": 897328,
       "word": "颖儿付辛博为女儿庆生",
       "onboard_time": 1707011070,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 896858,
-      "num": 896858,
-      "word": "甜馨第一次自己化妆",
-      "onboard_time": 1707105393,
       "rank": 3,
       "category": "艺人"
     },
@@ -2188,7 +2188,7 @@
     },
     {
       "raw_hot": 572705,
-      "num": 307088,
+      "num": 336085,
       "word": "男子网购3J车厘子卡尺测量后很受伤",
       "onboard_time": 1707100769,
       "rank": 20,
@@ -2267,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559501,
+      "num": 508006,
+      "word": "A股三大股指遭遇重挫",
+      "onboard_time": 1707106834,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 558474,
       "num": 558474,
       "word": "立春",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1706958750,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 555407,
+      "num": 555407,
+      "word": "香港特区政府再回应梅西缺赛",
+      "onboard_time": 1707103592,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 554540,
@@ -2393,6 +2409,14 @@
       "onboard_time": 1707011849,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 539645,
+      "num": 539645,
+      "word": "长相思是杨紫自己决定的第一个戏",
+      "onboard_time": 1707105454,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 537880,
@@ -2507,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524189,
-      "num": 524189,
-      "word": "长相思是杨紫自己决定的第一个戏",
-      "onboard_time": 1707105454,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 523256,
       "num": 523256,
       "word": "脱口秀大会第六季大王",
@@ -2587,14 +2603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 505403,
-      "num": 505403,
-      "word": "香港特区政府再回应梅西缺赛",
-      "onboard_time": 1707103592,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 505110,
       "num": 505110,
       "word": "头孢就酒可能5分钟致命",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1707012087,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 498404,
+      "num": 498404,
+      "word": "长江大学回应大雪压塌学校食堂",
+      "onboard_time": 1707105093,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497754,
@@ -2899,14 +2915,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 466749,
-      "num": 466749,
-      "word": "长江大学回应大雪压塌学校食堂",
-      "onboard_time": 1707105093,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -3025,6 +3033,14 @@
       "onboard_time": 1706936907,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448056,
+      "num": 355602,
+      "word": "老板不在 全部乱卖",
+      "onboard_time": 1707104733,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 442538,
@@ -3339,6 +3355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 413879,
+      "num": 413879,
+      "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
+      "onboard_time": 1707104853,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413414,
       "num": 201325,
       "word": "林允穿了新中式",
@@ -3385,14 +3409,6 @@
       "onboard_time": 1707059133,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 409666,
-      "num": 265421,
-      "word": "老板不在 全部乱卖",
-      "onboard_time": 1707104733,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 409424,
@@ -3505,14 +3521,6 @@
       "onboard_time": 1706959411,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 395983,
-      "num": 395983,
-      "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
-      "onboard_time": 1707104853,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 394106,
@@ -3729,6 +3737,14 @@
       "onboard_time": 1706711614,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375711,
+      "num": 375711,
+      "word": "杨紫因拍戏婉拒春晚",
+      "onboard_time": 1707107493,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375557,
@@ -4427,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313280,
+      "num": 313280,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313213,
       "num": 313213,
       "word": "赵丽颖二月均在剧组",
@@ -4691,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294719,
+      "num": 294719,
+      "word": "马斯克被曝与特斯拉董事一起吸毒",
+      "onboard_time": 1707107012,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 294634,
       "num": 294634,
       "word": "车厘子只看几个J谁买谁是大冤种",
@@ -4817,14 +4849,6 @@
       "onboard_time": 1707105393,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288112,
-      "num": 288112,
-      "word": "格莱美",
-      "onboard_time": 1707052412,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 286707,
@@ -5659,6 +5683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241698,
+      "num": 241698,
+      "word": "分手厨房名不虚传",
+      "onboard_time": 1707104191,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241594,
       "num": 234805,
       "word": "糖吃多了可能毁全身",
@@ -5955,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229336,
+      "num": 229336,
+      "word": "张佳宁换头像",
+      "onboard_time": 1707107374,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228563,
       "num": 228563,
       "word": "文旅局回应女演员高空表演时意外掉落",
@@ -6177,6 +6217,14 @@
       "onboard_time": 1707024210,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 222432,
+      "num": 222432,
+      "word": "王羽佳获格莱美奖",
+      "onboard_time": 1707106232,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 222361,
@@ -6425,14 +6473,6 @@
       "onboard_time": 1707037889,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215808,
-      "num": 215808,
-      "word": "分手厨房名不虚传",
-      "onboard_time": 1707104191,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 215695,
@@ -6723,14 +6763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207970,
-      "num": 207970,
-      "word": "A股三大股指遭遇重挫",
-      "onboard_time": 1707106834,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207779,
       "num": 207779,
       "word": "张远爆改地铁老人",
@@ -6932,7 +6964,7 @@
     },
     {
       "raw_hot": 204959,
-      "num": 477163,
+      "num": 525923,
       "word": "致敬每一个守路的人",
       "onboard_time": 1707105753,
       "rank": 10,
@@ -7019,6 +7051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203143,
+      "num": 203143,
+      "word": "格莱美年专",
+      "onboard_time": 1707107432,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202954,
       "num": 198566,
       "word": "凤凰传奇串烧",
@@ -7081,14 +7121,6 @@
       "onboard_time": 1707058894,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202219,
-      "num": 202219,
-      "word": "王羽佳获格莱美奖",
-      "onboard_time": 1707106232,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 202169,
@@ -7795,6 +7827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189930,
+      "num": 189930,
+      "word": "在暴雪时分 从头甜到尾",
+      "onboard_time": 1707107074,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189608,
       "num": 189608,
       "word": "WB战胜WE",
@@ -8267,6 +8307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180134,
+      "num": 180134,
+      "word": "专家称平准基金已到入场时",
+      "onboard_time": 1707106411,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180049,
       "num": 125951,
       "word": "三大队",
@@ -8537,14 +8585,6 @@
       "onboard_time": 1707025650,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174516,
-      "num": 174516,
-      "word": "专家称平准基金已到入场时",
-      "onboard_time": 1707106411,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 174451,
@@ -12548,7 +12588,7 @@
     },
     {
       "raw_hot": 83468,
-      "num": 276574,
+      "num": 289954,
       "word": "龙年的第一张全家福",
       "onboard_time": 1707105993,
       "rank": 27,
@@ -13601,6 +13641,14 @@
       "onboard_time": 1706995995,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5345,
+      "num": 997786,
+      "word": "龙吟中国春",
+      "onboard_time": 1707107611,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4833,
