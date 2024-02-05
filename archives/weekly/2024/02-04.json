@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707175090593,
+  "endTime": 1707176052005,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -585,6 +585,14 @@
       "onboard_time": 1707090567,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826621,
+      "num": 302344,
+      "word": "英国国王确诊患癌",
+      "onboard_time": 1707175283,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 823177,
@@ -1219,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515131,
+      "num": 515131,
+      "word": "全红婵大满贯",
+      "onboard_time": 1707174441,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508486,
       "num": 508486,
       "word": "肿瘤医生不碰的6种促癌食物",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1707012087,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 499519,
+      "num": 499519,
+      "word": "男子偷卖女朋友黄金用作恋爱开销",
+      "onboard_time": 1707166155,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499372,
@@ -1704,14 +1728,6 @@
       "word": "新疆地震",
       "onboard_time": 1707005789,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388766,
-      "num": 192274,
-      "word": "男子偷卖女朋友黄金用作恋爱开销",
-      "onboard_time": 1707166155,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282939,
+      "num": 282939,
+      "word": "借出房车卫生间当事女生发声",
+      "onboard_time": 1707153204,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282495,
       "num": 282495,
       "word": "南航免费退改为何这么难",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1707132152,
       "rank": 20,
       "category": "综艺,读书作家"
-    },
-    {
-      "raw_hot": 264750,
-      "num": 264750,
-      "word": "全红婵大满贯",
-      "onboard_time": 1707174441,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 264007,
@@ -3163,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212663,
+      "num": 212663,
+      "word": "被困湖北高速急哭的女车主获河南小伙救援",
+      "onboard_time": 1707162077,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212419,
       "num": 137912,
       "word": "时代少年团变魔术",
@@ -3515,6 +3539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201794,
+      "num": 201794,
+      "word": "林更新说楚乔传的遗憾会在与凤行补上",
+      "onboard_time": 1707161297,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "龙宝",
@@ -3587,14 +3619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197939,
-      "num": 197939,
-      "word": "借出房车卫生间当事女生发声",
-      "onboard_time": 1707153204,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197473,
       "num": 197473,
       "word": "杨洋空中环绕四圈半",
@@ -3625,6 +3649,14 @@
       "onboard_time": 1707125131,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195982,
+      "num": 195982,
+      "word": "爸妈吐槽大学生要提前吃光全家年货",
+      "onboard_time": 1707161717,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195853,
@@ -3955,14 +3987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182633,
-      "num": 182633,
-      "word": "被困湖北高速急哭的女车主获河南小伙救援",
-      "onboard_time": 1707162077,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "杜华给金子涵庆生",
@@ -4243,14 +4267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167631,
-      "num": 167631,
-      "word": "爸妈吐槽大学生要提前吃光全家年货",
-      "onboard_time": 1707161717,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167401,
       "num": 167401,
       "word": "三杯鸡",
@@ -4280,6 +4296,14 @@
       "word": "掏空积蓄为儿买婚房被中介骗600万",
       "onboard_time": 1706992876,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166388,
+      "num": 166388,
+      "word": "外卖小哥给老人送餐发现是自己的团年饭",
+      "onboard_time": 1707174923,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4587,6 +4611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153855,
+      "num": 153855,
+      "word": "全红婵世锦赛夺冠",
+      "onboard_time": 1707174260,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153611,
       "num": 153611,
       "word": "阅文IP盛典红毯",
@@ -4641,14 +4673,6 @@
       "onboard_time": 1707040227,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151231,
-      "num": 151231,
-      "word": "全红婵世锦赛夺冠",
-      "onboard_time": 1707174260,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 151100,
@@ -4849,14 +4873,6 @@
       "onboard_time": 1707138272,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142491,
-      "num": 142491,
-      "word": "林更新说楚乔传的遗憾会在与凤行补上",
-      "onboard_time": 1707161297,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 142490,
@@ -5907,6 +5923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76237,
+      "num": 76237,
+      "word": "巨婴式恋爱",
+      "onboard_time": 1707175220,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75115,
       "num": 75115,
       "word": "王子浩 这就是街舞总决赛vlog",
@@ -5939,12 +5963,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72069,
+      "num": 71835,
+      "word": "全红婵207C接近满分",
+      "onboard_time": 1707175343,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71849,
+      "num": 71849,
+      "word": "肖战中国电视剧年度盛典VCR",
+      "onboard_time": 1707175464,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70594,
       "num": 171189,
       "word": "淘宝今日起发10亿春节红包",
       "onboard_time": 1707123033,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70571,
+      "num": 70571,
+      "word": "名侦探柯南 官配小情侣",
+      "onboard_time": 1707174983,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 68782,
@@ -6027,12 +6075,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60848,
-      "num": 60848,
+      "raw_hot": 63905,
+      "num": 63905,
       "word": "这3处青筋异常凸起要留意",
       "onboard_time": 1707162376,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61899,
+      "num": 61899,
+      "word": "你希望发现金还是消费券",
+      "onboard_time": 1707172997,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 58028,
@@ -6043,12 +6099,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56954,
-      "num": 56954,
-      "word": "你希望发现金还是消费券",
-      "onboard_time": 1707172997,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 57519,
+      "num": 57519,
+      "word": "歼20飞行员说与外军较量我们一直占据主动态势",
+      "onboard_time": 1707175220,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 56696,
@@ -6097,6 +6153,14 @@
       "onboard_time": 1707082935,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50211,
+      "num": 50211,
+      "word": "这是你家孩子六科的成绩",
+      "onboard_time": 1707175643,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 49479,
@@ -6163,20 +6227,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44764,
+      "num": 44764,
+      "word": "雷军也玩cosplay",
+      "onboard_time": 1707176004,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44698,
       "num": 43736,
       "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
       "onboard_time": 1706991076,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43182,
-      "num": 43182,
-      "word": "名侦探柯南 官配小情侣",
-      "onboard_time": 1707174983,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 41986,
@@ -6273,14 +6337,6 @@
       "onboard_time": 1707058714,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32929,
-      "num": 32929,
-      "word": "外卖小哥给老人送餐发现是自己的团年饭",
-      "onboard_time": 1707174923,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32820,
@@ -6499,8 +6555,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 5225,
-      "num": 477035,
+      "raw_hot": 7172,
+      "num": 525273,
       "word": "我的龙年仪式感",
       "onboard_time": 1707029608,
       "rank": 2,
