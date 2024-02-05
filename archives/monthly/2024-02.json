@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707104071727,
+  "endTime": 1707106906256,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -113,6 +113,14 @@
       "onboard_time": 1706778871,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2357336,
+      "num": 546922,
+      "word": "张天爱 神经病",
+      "onboard_time": 1707103171,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2349740,
@@ -537,14 +545,6 @@
       "onboard_time": 1706963733,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1340200,
-      "num": 546922,
-      "word": "张天爱 神经病",
-      "onboard_time": 1707103171,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1309301,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896858,
+      "num": 896858,
+      "word": "甜馨第一次自己化妆",
+      "onboard_time": 1707105393,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 895170,
       "num": 895170,
       "word": "领导三年压力走了13个人",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1706874692,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 783929,
+      "num": 783929,
+      "word": "开房车女生被困高速借卫生间给女生",
+      "onboard_time": 1707102812,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782947,
@@ -2035,14 +2051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598586,
-      "num": 598586,
-      "word": "开房车女生被困高速借卫生间给女生",
-      "onboard_time": 1707102812,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595157,
       "num": 595157,
       "word": "真实胎动",
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 572705,
-      "num": 294447,
+      "num": 307088,
       "word": "男子网购3J车厘子卡尺测量后很受伤",
       "onboard_time": 1707100769,
       "rank": 20,
@@ -2499,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524189,
+      "num": 524189,
+      "word": "长相思是杨紫自己决定的第一个戏",
+      "onboard_time": 1707105454,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523256,
       "num": 523256,
       "word": "脱口秀大会第六季大王",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1707097348,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 505403,
+      "num": 505403,
+      "word": "香港特区政府再回应梅西缺赛",
+      "onboard_time": 1707103592,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 505110,
@@ -2873,6 +2897,14 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 466749,
+      "num": 466749,
+      "word": "长江大学回应大雪压塌学校食堂",
+      "onboard_time": 1707105093,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464032,
@@ -3355,6 +3387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 409666,
+      "num": 265421,
+      "word": "老板不在 全部乱卖",
+      "onboard_time": 1707104733,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409424,
       "num": 380925,
       "word": "杨幂戴龙角",
@@ -3465,6 +3505,14 @@
       "onboard_time": 1706959411,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395983,
+      "num": 395983,
+      "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
+      "onboard_time": 1707104853,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 394106,
@@ -3696,6 +3744,14 @@
       "word": "证监会一日内连发三文",
       "onboard_time": 1707047852,
       "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 374438,
+      "num": 374438,
+      "word": "近1700股跌超9%",
+      "onboard_time": 1707103470,
+      "rank": 24,
       "category": "财经"
     },
     {
@@ -4387,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312698,
+      "num": 312698,
+      "word": "黎深新卡",
+      "onboard_time": 1707105334,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312566,
       "num": 281226,
       "word": "周传雄 生病的经历改变了我的心态",
@@ -4747,6 +4811,22 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 288323,
+      "num": 288323,
+      "word": "张佳宁 朝鲜族服饰",
+      "onboard_time": 1707105393,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288112,
+      "num": 288112,
+      "word": "格莱美",
+      "onboard_time": 1707052412,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286707,
       "num": 286707,
       "word": "Fly忍不住和九尾贴贴",
@@ -5043,6 +5123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271182,
+      "num": 271182,
+      "word": "张碧晨 我们总会遇见懂自己的人",
+      "onboard_time": 1707105631,
+      "rank": 28,
+      "category": "电影,音乐"
+    },
+    {
       "raw_hot": 270303,
       "num": 270303,
       "word": "港府称对梅西没出场比赛极度失望",
@@ -5153,6 +5241,14 @@
       "onboard_time": 1706849256,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261514,
+      "num": 261514,
+      "word": "妈妈 可是人生不是用来回本的",
+      "onboard_time": 1707103535,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 261374,
@@ -5275,14 +5371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256800,
-      "num": 256800,
-      "word": "近1700股跌超9%",
-      "onboard_time": 1707103470,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 256386,
       "num": 256386,
       "word": "上班后看小说真的代入不了",
@@ -5345,14 +5433,6 @@
       "onboard_time": 1706753309,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253174,
-      "num": 253174,
-      "word": "妈妈 可是人生不是用来回本的",
-      "onboard_time": 1707103535,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 253009,
@@ -5699,14 +5779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236239,
-      "num": 236239,
-      "word": "格莱美",
-      "onboard_time": 1707052412,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 236106,
       "num": 236106,
       "word": "王者荣耀龙限皮肤",
@@ -5953,14 +6025,6 @@
       "onboard_time": 1706927607,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226415,
-      "num": 226415,
-      "word": "香港特区政府再回应梅西缺赛",
-      "onboard_time": 1707103592,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 226031,
@@ -6363,6 +6427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215808,
+      "num": 215808,
+      "word": "分手厨房名不虚传",
+      "onboard_time": 1707104191,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215695,
       "num": 201054,
       "word": "肖战网络视听盛典彩排图",
@@ -6651,6 +6723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207970,
+      "num": 207970,
+      "word": "A股三大股指遭遇重挫",
+      "onboard_time": 1707106834,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207779,
       "num": 207779,
       "word": "张远爆改地铁老人",
@@ -6851,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204959,
+      "num": 477163,
+      "word": "致敬每一个守路的人",
+      "onboard_time": 1707105753,
+      "rank": 10,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "KSG教练",
@@ -6995,6 +7083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202219,
+      "num": 202219,
+      "word": "王羽佳获格莱美奖",
+      "onboard_time": 1707106232,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202169,
       "num": 202169,
       "word": "上交所",
@@ -7009,6 +7105,14 @@
       "onboard_time": 1706764829,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201996,
+      "num": 201996,
+      "word": "成毅星星铆钉皮衣",
+      "onboard_time": 1707106173,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201985,
@@ -7169,6 +7273,14 @@
       "onboard_time": 1706846430,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198751,
+      "num": 198751,
+      "word": "霉霉 行动力",
+      "onboard_time": 1707105932,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 198445,
@@ -8307,6 +8419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177031,
+      "num": 177031,
+      "word": "碧梨格莱美年度歌曲",
+      "onboard_time": 1707106054,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176856,
       "num": 176856,
       "word": "仙剑系列豆瓣评分",
@@ -8417,6 +8537,14 @@
       "onboard_time": 1707025650,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174516,
+      "num": 174516,
+      "word": "专家称平准基金已到入场时",
+      "onboard_time": 1707106411,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 174451,
@@ -8803,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166326,
+      "num": 166326,
+      "word": "彭昱畅李庚希新浪扫楼",
+      "onboard_time": 1707105213,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166320,
       "num": 166320,
       "word": "突然就学会化妆了",
@@ -8873,6 +9009,14 @@
       "onboard_time": 1706790633,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165344,
+      "num": 165344,
+      "word": "以闪亮之名捏脸更新",
+      "onboard_time": 1707104493,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 165294,
@@ -9761,6 +9905,14 @@
       "onboard_time": 1706852013,
       "rank": 39,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 146614,
+      "num": 146614,
+      "word": "在暴雪时分吴磊演技",
+      "onboard_time": 1707106654,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 146528,
@@ -12393,6 +12545,14 @@
       "onboard_time": 1707018630,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83468,
+      "num": 276574,
+      "word": "龙年的第一张全家福",
+      "onboard_time": 1707105993,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83094,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707104071727,
+  "endTime": 1707106906256,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -889,6 +889,14 @@
       "onboard_time": 1704291034,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2357336,
+      "num": 546922,
+      "word": "张天爱 神经病",
+      "onboard_time": 1707103171,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2356867,
@@ -2392,14 +2400,6 @@
       "word": "男婴出生第2天脑梗死父亲一夜白头",
       "onboard_time": 1706782532,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1700996,
-      "num": 459782,
-      "word": "台州车祸",
-      "onboard_time": 1705933109,
-      "rank": 10,
       "category": "社会新闻"
     }
   ],

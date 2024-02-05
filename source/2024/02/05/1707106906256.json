@@ -1,0 +1,410 @@
+{
+  "runTime": 1707106906256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1944217,
+        "num": 1944217,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1106353,
+        "num": 1106353,
+        "word": "机票1800元退票费1500元",
+        "onboard_time": 1707098132,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71022,
+        "num": 906837,
+        "word": "又被中式美学惊艳了",
+        "onboard_time": 1707050735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896858,
+        "num": 896858,
+        "word": "甜馨第一次自己化妆",
+        "onboard_time": 1707105393,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 850115,
+        "num": 850115,
+        "word": "疑似iPhone16设计图流出",
+        "onboard_time": 1707101612,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 783929,
+        "num": 783929,
+        "word": "开房车女生被困高速借卫生间给女生",
+        "onboard_time": 1707102812,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578651,
+        "num": 578651,
+        "word": "格莱美颁奖礼",
+        "onboard_time": 1707095370,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 545405,
+        "num": 545405,
+        "word": "安倍晋三母亲去世",
+        "onboard_time": 1707099211,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 524189,
+        "num": 524189,
+        "word": "长相思是杨紫自己决定的第一个戏",
+        "onboard_time": 1707105454,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505403,
+        "num": 505403,
+        "word": "香港特区政府再回应梅西缺赛",
+        "onboard_time": 1707103592,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204959,
+        "num": 477163,
+        "word": "致敬每一个守路的人",
+        "onboard_time": 1707105753,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2357336,
+        "num": 472097,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819291,
+        "num": 471834,
+        "word": "A股",
+        "onboard_time": 1707097348,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 466749,
+        "num": 466749,
+        "word": "长江大学回应大雪压塌学校食堂",
+        "onboard_time": 1707105093,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395983,
+        "num": 395983,
+        "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
+        "onboard_time": 1707104853,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374438,
+        "num": 374438,
+        "word": "近1700股跌超9%",
+        "onboard_time": 1707103470,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 370316,
+        "num": 370316,
+        "word": "A股开盘跌破2700点",
+        "onboard_time": 1707099813,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 342352,
+        "num": 342352,
+        "word": "格莱美直播",
+        "onboard_time": 1707090327,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324158,
+        "num": 324158,
+        "word": "梅西赛后拒绝领奖发言",
+        "onboard_time": 1707088762,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312698,
+        "num": 312698,
+        "word": "黎深新卡",
+        "onboard_time": 1707105334,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354977,
+        "num": 310135,
+        "word": "格莱美红毯",
+        "onboard_time": 1707088582,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347154,
+        "num": 307088,
+        "word": "男子网购3J车厘子卡尺测量后很受伤",
+        "onboard_time": 1707100769,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297253,
+        "num": 297253,
+        "word": "霉霉高开衩白裙",
+        "onboard_time": 1707098370,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288980,
+        "num": 288980,
+        "word": "半个娱乐圈都在苏醒的拟邀名单上",
+        "onboard_time": 1707091348,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282223,
+        "num": 288623,
+        "word": "知名人士称证监会紧急消息非比寻常",
+        "onboard_time": 1707101132,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288323,
+        "num": 288323,
+        "word": "张佳宁 朝鲜族服饰",
+        "onboard_time": 1707105393,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288112,
+        "num": 288112,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83468,
+        "num": 276574,
+        "word": "龙年的第一张全家福",
+        "onboard_time": 1707105993,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271182,
+        "num": 271182,
+        "word": "张碧晨 我们总会遇见懂自己的人",
+        "onboard_time": 1707105631,
+        "rank": 28,
+        "category": "电影,音乐"
+      },
+      {
+        "raw_hot": 267801,
+        "num": 267801,
+        "word": "明星回农村老家的样子",
+        "onboard_time": 1707102091,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409666,
+        "num": 265421,
+        "word": "老板不在 全部乱卖",
+        "onboard_time": 1707104733,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261514,
+        "num": 261514,
+        "word": "妈妈 可是人生不是用来回本的",
+        "onboard_time": 1707103535,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220878,
+        "num": 220878,
+        "word": "肿瘤医生不碰的6种促癌食物",
+        "onboard_time": 1707097348,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215808,
+        "num": 215808,
+        "word": "分手厨房名不虚传",
+        "onboard_time": 1707104191,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207970,
+        "num": 207970,
+        "word": "A股三大股指遭遇重挫",
+        "onboard_time": 1707106834,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202219,
+        "num": 202219,
+        "word": "王羽佳获格莱美奖",
+        "onboard_time": 1707106232,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201996,
+        "num": 201996,
+        "word": "成毅星星铆钉皮衣",
+        "onboard_time": 1707106173,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198751,
+        "num": 198751,
+        "word": "霉霉 行动力",
+        "onboard_time": 1707105932,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182960,
+        "num": 182960,
+        "word": "股市",
+        "onboard_time": 1707099813,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177031,
+        "num": 177031,
+        "word": "碧梨格莱美年度歌曲",
+        "onboard_time": 1707106054,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174516,
+        "num": 174516,
+        "word": "专家称平准基金已到入场时",
+        "onboard_time": 1707106411,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166326,
+        "num": 166326,
+        "word": "彭昱畅李庚希新浪扫楼",
+        "onboard_time": 1707105213,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165344,
+        "num": 165344,
+        "word": "以闪亮之名捏脸更新",
+        "onboard_time": 1707104493,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156237,
+        "num": 156237,
+        "word": "隔夜菜一定要在24小时内吃完",
+        "onboard_time": 1707102334,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149210,
+        "num": 149210,
+        "word": "三市下跌个股超5000只",
+        "onboard_time": 1707102812,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148233,
+        "num": 148233,
+        "word": "猫 好歹毒的招式",
+        "onboard_time": 1707099689,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146614,
+        "num": 146614,
+        "word": "在暴雪时分吴磊演技",
+        "onboard_time": 1707106654,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145864,
+        "num": 145864,
+        "word": "主办方回应梅西缺赛",
+        "onboard_time": 1707102513,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139693,
+        "num": 139693,
+        "word": "因暴雪滞留高速亲历者发声",
+        "onboard_time": 1707079695,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133529,
+        "num": 133529,
+        "word": "沪深300股息率逼近历史新高",
+        "onboard_time": 1707103774,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}

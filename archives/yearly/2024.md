@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/05 11:34:31
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/05 12:21:46
 </p>
 </blockquote>
 <p>
@@ -677,6 +677,12 @@ C罗向中国球迷道歉（热度：2416354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%23" target="weibo">
 龙年纪念币（热度：2374677）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E7%A5%9E%E7%BB%8F%E7%97%85%23" target="weibo">
+张天爱 神经病（热度：2357336）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ A先生跳海（热度：1721660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A9%B4%E5%87%BA%E7%94%9F%E7%AC%AC2%E5%A4%A9%E8%84%91%E6%A2%97%E6%AD%BB%E7%88%B6%E4%BA%B2%E4%B8%80%E5%A4%9C%E7%99%BD%E5%A4%B4%23" target="weibo">
 男婴出生第2天脑梗死父亲一夜白头（热度：1709036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%B7%9E%E8%BD%A6%E7%A5%B8%23" target="weibo">
-台州车祸（热度：1700996）
 </a>
 </li>
 
