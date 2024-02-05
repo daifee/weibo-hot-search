@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707137171816,
+  "endTime": 1707139119648,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -425,6 +425,14 @@
       "onboard_time": 1706973153,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560627,
+      "num": 1560627,
+      "word": "王豆豆怀孕",
+      "onboard_time": 1707135752,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1557066,
@@ -1155,14 +1163,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 944824,
-      "num": 944824,
-      "word": "王豆豆怀孕",
-      "onboard_time": 1707135752,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 944815,
       "num": 944815,
       "word": "女子直播被指虐猫后直接放嘴里咬",
@@ -1699,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738861,
+      "num": 738861,
+      "word": "卡琳娜cos祁煜",
+      "onboard_time": 1707136653,
+      "rank": 11,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 738596,
       "num": 738596,
       "word": "躲春",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1706758771,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 692159,
+      "num": 692159,
+      "word": "211高校毕业女生密室扮鬼",
+      "onboard_time": 1707136712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691972,
@@ -2563,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563858,
+      "num": 563858,
+      "word": "专家建议给老百姓每人发1000元",
+      "onboard_time": 1707137670,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 562931,
       "num": 562931,
       "word": "奥运冠军杨倩启蒙教练再发声",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1707053916,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504702,
+      "num": 289667,
+      "word": "瘦脸的最优解是练背",
+      "onboard_time": 1707137190,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 503730,
@@ -3507,14 +3539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 438249,
-      "num": 438249,
-      "word": "卡琳娜cos祁煜",
-      "onboard_time": 1707136653,
-      "rank": 11,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 437451,
       "num": 274293,
       "word": "为啥车厘子1月价格比11月低那么多",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1706841151,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428466,
+      "num": 428466,
+      "word": "鹿晗转发朱正廷新歌",
+      "onboard_time": 1707136952,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 428210,
@@ -4481,6 +4513,14 @@
       "onboard_time": 1706831249,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355666,
+      "num": 355666,
+      "word": "程潇琉璃龙女妆",
+      "onboard_time": 1707137073,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354884,
@@ -5492,7 +5532,7 @@
     },
     {
       "raw_hot": 280162,
-      "num": 242461,
+      "num": 261397,
       "word": "哪些人不适合吃车厘子",
       "onboard_time": 1707135692,
       "rank": 23,
@@ -8075,14 +8115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201029,
-      "num": 201029,
-      "word": "鹿晗转发朱正廷新歌",
-      "onboard_time": 1707136952,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201006,
       "num": 201006,
       "word": "小年夜",
@@ -8763,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190182,
+      "num": 190182,
+      "word": "谷江山关于成真",
+      "onboard_time": 1707138212,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190127,
       "num": 190127,
       "word": "A股超200股跌停",
@@ -9291,6 +9331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180056,
+      "num": 180056,
+      "word": "王楚然木槿花发簪",
+      "onboard_time": 1707138691,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180049,
       "num": 125951,
       "word": "三大队",
@@ -9329,6 +9377,14 @@
       "onboard_time": 1706945973,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179135,
+      "num": 179135,
+      "word": "主办方称半场时被告知梅西上不了",
+      "onboard_time": 1707137309,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 179120,
@@ -10547,14 +10603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156456,
-      "num": 156456,
-      "word": "211高校毕业女生密室扮鬼",
-      "onboard_time": 1707136712,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156356,
       "num": 156356,
       "word": "孙策乘龙淬吴钩新皮肤",
@@ -11297,6 +11345,14 @@
       "onboard_time": 1706746466,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142597,
+      "num": 142597,
+      "word": "陶喆佛山抢票",
+      "onboard_time": 1707138272,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 142490,
@@ -12323,6 +12379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127954,
+      "num": 127954,
+      "word": "赵继伟眼神杀",
+      "onboard_time": 1707138510,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "JJ20排队",
@@ -12675,6 +12739,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121670,
+      "num": 121670,
+      "word": "烤火时把头靠在主人腿上的狗狗",
+      "onboard_time": 1707138932,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121084,
       "num": 121084,
       "word": "东北年夜饭里的硬菜全在这了",
@@ -12787,12 +12859,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118369,
+      "num": 118369,
+      "word": "腐乳在海外爆火",
+      "onboard_time": 1707138932,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "瑶真我赫兹第二张海报",
       "onboard_time": 1707101430,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118257,
+      "num": 118257,
+      "word": "飞驰人生2 满格含腾量",
+      "onboard_time": 1707137911,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 117967,
@@ -12971,14 +13059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114576,
-      "num": 114576,
-      "word": "程潇琉璃龙女妆",
-      "onboard_time": 1707137073,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "当过年家里有一个没结婚的长辈",
@@ -13081,6 +13161,14 @@
       "onboard_time": 1707023791,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112819,
+      "num": 112819,
+      "word": "爱情躲子",
+      "onboard_time": 1707138392,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112662,
@@ -14115,6 +14203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64190,
+      "num": 1200696,
+      "word": "龙年气氛组已就位",
+      "onboard_time": 1707118890,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63649,
       "num": 63649,
       "word": "龙年专属福字",
@@ -14177,14 +14273,6 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57468,
-      "num": 1183697,
-      "word": "龙年气氛组已就位",
-      "onboard_time": 1707118890,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57153,
