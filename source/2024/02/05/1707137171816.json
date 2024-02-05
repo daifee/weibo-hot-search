@@ -1,0 +1,410 @@
+{
+  "runTime": 1707137171816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437913,
+        "num": 1437913,
+        "word": "车厘子价格跌至每斤20元",
+        "onboard_time": 1707130652,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1240189,
+        "num": 1240189,
+        "word": "梅西爽约突破商业底线",
+        "onboard_time": 1707127953,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54799,
+        "num": 1110903,
+        "word": "龙年气氛组已就位",
+        "onboard_time": 1707118890,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998602,
+        "num": 998602,
+        "word": "梅西表演赛主办方撤回1600万港元资助申请",
+        "onboard_time": 1707133830,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 944824,
+        "num": 944824,
+        "word": "王豆豆怀孕",
+        "onboard_time": 1707135752,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 825998,
+        "num": 825998,
+        "word": "王楚钦粉丝",
+        "onboard_time": 1707133229,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719719,
+        "num": 719719,
+        "word": "12306账号为何有陌生人信息",
+        "onboard_time": 1707133410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621366,
+        "num": 621366,
+        "word": "刘亦菲刘诗诗合影旧照",
+        "onboard_time": 1707132628,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554201,
+        "num": 554201,
+        "word": "虞书欣工作室重组",
+        "onboard_time": 1707135031,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476164,
+        "num": 476164,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639616,
+        "num": 460271,
+        "word": "唐鹤德晒与张国荣合照庆生",
+        "onboard_time": 1707131071,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438249,
+        "num": 438249,
+        "word": "卡琳娜cos祁煜",
+        "onboard_time": 1707136653,
+        "rank": 11,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 412086,
+        "num": 412086,
+        "word": "范丞丞科目一考了好几次",
+        "onboard_time": 1707124173,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359199,
+        "num": 359199,
+        "word": "湖北暴雪司机被困36小时煮雪融水喝",
+        "onboard_time": 1707122971,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 320192,
+        "num": 320192,
+        "word": "美甲建构",
+        "onboard_time": 1707127891,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 313681,
+        "num": 313681,
+        "word": "双北 春晚",
+        "onboard_time": 1707125012,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302247,
+        "num": 302247,
+        "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+        "onboard_time": 1707123511,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 285404,
+        "num": 285404,
+        "word": "霍建华李凯馨亲密合照",
+        "onboard_time": 1707112470,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259439,
+        "num": 259439,
+        "word": "邢菲 0.6秒预告镜头怎么了",
+        "onboard_time": 1707129810,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242822,
+        "num": 242822,
+        "word": "沈腾伤疤",
+        "onboard_time": 1707131551,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280162,
+        "num": 242461,
+        "word": "哪些人不适合吃车厘子",
+        "onboard_time": 1707135692,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253222,
+        "num": 242259,
+        "word": "回家的行李箱越来越轻了",
+        "onboard_time": 1707134550,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241869,
+        "num": 241869,
+        "word": "龙年央视春晚主持人阵容",
+        "onboard_time": 1707121833,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239112,
+        "num": 239112,
+        "word": "老鼠饺子包得活灵活现",
+        "onboard_time": 1707133771,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238208,
+        "num": 238208,
+        "word": "吴磊长得好暧昧",
+        "onboard_time": 1707131670,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237929,
+        "num": 237929,
+        "word": "王鹤棣新中式",
+        "onboard_time": 1707132571,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227880,
+        "num": 227880,
+        "word": "周也周氏集团新闻发布会",
+        "onboard_time": 1707124951,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 219828,
+        "num": 219828,
+        "word": "哈萨克斯坦总统签署法令解散政府",
+        "onboard_time": 1707135932,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214392,
+        "num": 214392,
+        "word": "祈今朝大结局",
+        "onboard_time": 1707135332,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201029,
+        "num": 201029,
+        "word": "鹿晗转发朱正廷新歌",
+        "onboard_time": 1707136952,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184369,
+        "num": 184369,
+        "word": "香港文旅局称主办方确认梅西可以出场",
+        "onboard_time": 1707110971,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179969,
+        "num": 179969,
+        "word": "烟火人家定档",
+        "onboard_time": 1707133652,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174251,
+        "num": 174251,
+        "word": "杨鸣删除告别辽篮视频",
+        "onboard_time": 1707134973,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169351,
+        "num": 169351,
+        "word": "专家称A股强制退市标准仍显温和",
+        "onboard_time": 1707135631,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168172,
+        "num": 168172,
+        "word": "成毅写给粉丝的一封信",
+        "onboard_time": 1707135871,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156657,
+        "num": 156657,
+        "word": "宋茜汤晶媚去看张学友演唱会",
+        "onboard_time": 1707134431,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156456,
+        "num": 156456,
+        "word": "211高校毕业女生密室扮鬼",
+        "onboard_time": 1707136712,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149794,
+        "num": 149794,
+        "word": "香港消委会收到38宗梅西事件投诉",
+        "onboard_time": 1707134793,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139817,
+        "num": 139817,
+        "word": "在暴雪时分",
+        "onboard_time": 1707133952,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136737,
+        "num": 136737,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134020,
+        "num": 134020,
+        "word": "王者荣耀时代少年团直播官宣",
+        "onboard_time": 1707126632,
+        "rank": 40,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 128243,
+        "num": 128243,
+        "word": "周深演了杨幂的男主角",
+        "onboard_time": 1707121112,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 119607,
+        "num": 119607,
+        "word": "梅西离开香港",
+        "onboard_time": 1707126873,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117251,
+        "num": 117251,
+        "word": "谁在消费3000元的美甲",
+        "onboard_time": 1707118529,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 116415,
+        "num": 116415,
+        "word": "胡锡进称除炒股外会考虑货币基金",
+        "onboard_time": 1707134133,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114576,
+        "num": 114576,
+        "word": "程潇琉璃龙女妆",
+        "onboard_time": 1707137073,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114560,
+        "num": 114560,
+        "word": "杨紫遭换角色反被说不知好歹",
+        "onboard_time": 1707113673,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112044,
+        "num": 112044,
+        "word": "大小杨哥七年变化",
+        "onboard_time": 1707134311,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106729,
+        "num": 106729,
+        "word": "湖北高速",
+        "onboard_time": 1707127291,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105259,
+        "num": 105259,
+        "word": "平替年货穿戴甲",
+        "onboard_time": 1707135152,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#良好生态本身蕴含着无穷的经济价值#"
+    }
+  }
+}

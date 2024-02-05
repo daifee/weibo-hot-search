@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707136261720,
+  "endTime": 1707137171816,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -403,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 944824,
+      "num": 944824,
+      "word": "王豆豆怀孕",
+      "onboard_time": 1707135752,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 925626,
       "num": 925626,
       "word": "安琪拉大招 水龙头",
@@ -667,6 +675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 719719,
+      "num": 719719,
+      "word": "12306账号为何有陌生人信息",
+      "onboard_time": 1707133410,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712255,
       "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
@@ -705,14 +721,6 @@
       "onboard_time": 1707114993,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676779,
-      "num": 676779,
-      "word": "12306账号为何有陌生人信息",
-      "onboard_time": 1707133410,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 672932,
@@ -1011,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554201,
+      "num": 554201,
+      "word": "虞书欣工作室重组",
+      "onboard_time": 1707135031,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553063,
       "num": 553063,
       "word": "奇瑞",
@@ -1251,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465469,
-      "num": 465469,
-      "word": "虞书欣工作室重组",
-      "onboard_time": 1707135031,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1707051334,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 438249,
+      "num": 438249,
+      "word": "卡琳娜cos祁煜",
+      "onboard_time": 1707136653,
+      "rank": 11,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 433311,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1707090327,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 416789,
-      "num": 416789,
-      "word": "王豆豆怀孕",
-      "onboard_time": 1707135752,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 415014,
@@ -2051,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280162,
+      "num": 242461,
+      "word": "哪些人不适合吃车厘子",
+      "onboard_time": 1707135692,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "王者荣耀孙尚香新皮肤",
@@ -2523,6 +2539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 238208,
+      "num": 238208,
+      "word": "吴磊长得好暧昧",
+      "onboard_time": 1707131670,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237272,
       "num": 237272,
       "word": "产后世界官宣",
@@ -2571,14 +2595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235175,
-      "num": 235175,
-      "word": "哪些人不适合吃车厘子",
-      "onboard_time": 1707135692,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234700,
       "num": 234700,
       "word": "日本队遭绝杀",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1706975610,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230549,
-      "num": 230549,
-      "word": "吴磊长得好暧昧",
-      "onboard_time": 1707131670,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 230329,
@@ -2761,6 +2769,14 @@
       "onboard_time": 1707125012,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 219828,
+      "num": 219828,
+      "word": "哈萨克斯坦总统签署法令解散政府",
+      "onboard_time": 1707135932,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 219213,
@@ -3201,6 +3217,14 @@
       "onboard_time": 1707134431,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201029,
+      "num": 201029,
+      "word": "鹿晗转发朱正廷新歌",
+      "onboard_time": 1707136952,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 200958,
@@ -4091,6 +4115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156456,
+      "num": 156456,
+      "word": "211高校毕业女生密室扮鬼",
+      "onboard_time": 1707136712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156356,
       "num": 156356,
       "word": "孙策乘龙淬吴钩新皮肤",
@@ -4915,14 +4947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120387,
-      "num": 120387,
-      "word": "哈萨克斯坦总统签署法令解散政府",
-      "onboard_time": 1707135932,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 120243,
       "num": 120243,
       "word": "早上起床眼睛肿是怎么回事",
@@ -5001,6 +5025,14 @@
       "onboard_time": 1707051510,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114576,
+      "num": 114576,
+      "word": "程潇琉璃龙女妆",
+      "onboard_time": 1707137073,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113946,
