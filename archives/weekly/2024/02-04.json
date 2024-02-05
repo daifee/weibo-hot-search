@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707107738622,
+  "endTime": 1707110267124,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2357336,
-      "num": 996091,
+      "num": 1535049,
       "word": "张天爱 神经病",
       "onboard_time": 1707103171,
       "rank": 11,
@@ -105,6 +105,14 @@
       "onboard_time": 1707098132,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1536668,
+      "num": 1536668,
+      "word": "杨紫因拍戏婉拒春晚",
+      "onboard_time": 1707107493,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1463867,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 949146,
+      "num": 638020,
+      "word": "A股三大股指遭遇重挫",
+      "onboard_time": 1707106834,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 925626,
       "num": 925626,
       "word": "安琪拉大招 水龙头",
@@ -313,6 +329,14 @@
       "onboard_time": 1707028651,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 846893,
+      "num": 846893,
+      "word": "张佳宁换头像",
+      "onboard_time": 1707107374,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 846767,
@@ -451,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 725072,
+      "num": 725072,
+      "word": "玉桂狗",
+      "onboard_time": 1707108213,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 712255,
       "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639593,
+      "num": 639593,
+      "word": "马斯克被曝与特斯拉董事一起吸毒",
+      "onboard_time": 1707107012,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 639043,
       "num": 639043,
       "word": "格莱美颁奖礼",
@@ -577,6 +617,14 @@
       "onboard_time": 1707021874,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612686,
+      "num": 612686,
+      "word": "为什么全球都在涨A股一直跌",
+      "onboard_time": 1707108213,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 610982,
@@ -651,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 559501,
-      "num": 508006,
-      "word": "A股三大股指遭遇重挫",
-      "onboard_time": 1707106834,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 558474,
       "num": 558474,
       "word": "立春",
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 555407,
-      "num": 555407,
+      "num": 638027,
       "word": "香港特区政府再回应梅西缺赛",
       "onboard_time": 1707103592,
       "rank": 27,
@@ -859,6 +899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477187,
+      "num": 477187,
+      "word": "暴雪滞留",
+      "onboard_time": 1707108272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468885,
+      "num": 468885,
+      "word": "霉霉四封年专",
+      "onboard_time": 1707108091,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 468572,
       "num": 468572,
       "word": "魏大勋真的不是歌手吗",
@@ -873,6 +929,14 @@
       "onboard_time": 1707044433,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 460442,
+      "num": 460442,
+      "word": "酱园弄 章子怡",
+      "onboard_time": 1707109773,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 460183,
@@ -1139,14 +1203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 375711,
-      "num": 375711,
-      "word": "杨紫因拍戏婉拒春晚",
-      "onboard_time": 1707107493,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 374587,
       "num": 374587,
       "word": "证监会一日内连发三文",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1707057817,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341773,
+      "num": 341773,
+      "word": "证监会发声让造假者倾家荡产牢底坐穿",
+      "onboard_time": 1707107913,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 341700,
@@ -1443,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294719,
-      "num": 294719,
-      "word": "马斯克被曝与特斯拉董事一起吸毒",
-      "onboard_time": 1707107012,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 294614,
       "num": 294614,
       "word": "大乔乘龙忆丹青新皮肤",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1707034591,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279758,
+      "num": 279758,
+      "word": "冻雨",
+      "onboard_time": 1707107853,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279757,
@@ -1739,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247226,
+      "num": 247226,
+      "word": "妇联回应女子疑被丈夫用酒点燃烧伤",
+      "onboard_time": 1707108571,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246550,
       "num": 246550,
       "word": "吴磊星汉胸肌vs暴雪背肌",
@@ -1787,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242391,
+      "num": 242391,
+      "word": "打雷姐 陪跑",
+      "onboard_time": 1707109054,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241869,
       "num": 241869,
       "word": "少爷和我别骂了",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1707074717,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239064,
+      "num": 239064,
+      "word": "港府或因梅西缺赛扣减赞助款项",
+      "onboard_time": 1707109113,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 238675,
@@ -1897,14 +1985,6 @@
       "onboard_time": 1706973632,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229336,
-      "num": 229336,
-      "word": "张佳宁换头像",
-      "onboard_time": 1707107374,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 226689,
@@ -2131,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210036,
+      "num": 210036,
+      "word": "任嘉伦严屹宽演叔侄",
+      "onboard_time": 1707108333,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209968,
       "num": 209968,
       "word": "科研中心回应博导被剥夺招生资格",
@@ -2339,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201781,
+      "num": 201781,
+      "word": "格莱美获奖名单",
+      "onboard_time": 1707110254,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "龙宝",
@@ -2449,6 +2545,14 @@
       "onboard_time": 1707044792,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194590,
+      "num": 194590,
+      "word": "心疼打雷姐",
+      "onboard_time": 1707109953,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 194282,
@@ -2585,6 +2689,14 @@
       "onboard_time": 1707015392,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "席琳迪翁为霉霉颁奖",
+      "onboard_time": 1707110074,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 185470,
@@ -2905,6 +3017,14 @@
       "onboard_time": 1706965771,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161475,
+      "num": 161475,
+      "word": "专家建议将稳市工作提前到节前十理由",
+      "onboard_time": 1707108994,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 160798,
@@ -3243,6 +3363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141866,
+      "num": 141866,
+      "word": "极致的节省是一种贪婪",
+      "onboard_time": 1707107793,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140958,
       "num": 140958,
       "word": "梦之泪虎",
@@ -3289,6 +3417,14 @@
       "onboard_time": 1707060092,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139275,
+      "num": 139275,
+      "word": "飞驰人生2新预告",
+      "onboard_time": 1707108811,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139020,
@@ -4219,6 +4355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45532,
+      "num": 1535597,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1707108033,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44698,
       "num": 43736,
       "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
@@ -4466,6 +4610,9 @@
     },
     {
       "word": "#总书记春节前夕考察的那些乡村#"
+    },
+    {
+      "word": "#真抓实干让人民群众不断有新的获得感#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707110267124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672715,
+        "num": 1672715,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1536668,
+        "num": 1536668,
+        "word": "杨紫因拍戏婉拒春晚",
+        "onboard_time": 1707107493,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45532,
+        "num": 1535597,
+        "word": "大美中国 冰雪之约",
+        "onboard_time": 1707108033,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535049,
+        "num": 1535049,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859905,
+        "num": 859905,
+        "word": "甜馨第一次自己化妆",
+        "onboard_time": 1707105393,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846893,
+        "num": 846893,
+        "word": "张佳宁换头像",
+        "onboard_time": 1707107374,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725072,
+        "num": 725072,
+        "word": "玉桂狗",
+        "onboard_time": 1707108213,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 639593,
+        "num": 639593,
+        "word": "马斯克被曝与特斯拉董事一起吸毒",
+        "onboard_time": 1707107012,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 597196,
+        "num": 638434,
+        "word": "开房车女生被困高速借卫生间给女生",
+        "onboard_time": 1707102812,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334544,
+        "num": 638027,
+        "word": "香港特区政府再回应梅西缺赛",
+        "onboard_time": 1707103592,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 949146,
+        "num": 638020,
+        "word": "A股三大股指遭遇重挫",
+        "onboard_time": 1707106834,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 637999,
+        "num": 637999,
+        "word": "A股",
+        "onboard_time": 1707097348,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 612686,
+        "num": 612686,
+        "word": "为什么全球都在涨A股一直跌",
+        "onboard_time": 1707108213,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 583922,
+        "num": 583922,
+        "word": "机票1800元退票费1500元",
+        "onboard_time": 1707098132,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540662,
+        "num": 540662,
+        "word": "疑似iPhone16设计图流出",
+        "onboard_time": 1707101612,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 509666,
+        "num": 509666,
+        "word": "格莱美颁奖礼",
+        "onboard_time": 1707095370,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477187,
+        "num": 477187,
+        "word": "暴雪滞留",
+        "onboard_time": 1707108272,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468885,
+        "num": 468885,
+        "word": "霉霉四封年专",
+        "onboard_time": 1707108091,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460442,
+        "num": 460442,
+        "word": "酱园弄 章子怡",
+        "onboard_time": 1707109773,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371662,
+        "num": 371662,
+        "word": "长相思是杨紫自己决定的第一个戏",
+        "onboard_time": 1707105454,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343799,
+        "num": 343799,
+        "word": "老板不在 全部乱卖",
+        "onboard_time": 1707104733,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341773,
+        "num": 341773,
+        "word": "证监会发声让造假者倾家荡产牢底坐穿",
+        "onboard_time": 1707107913,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 323530,
+        "num": 323530,
+        "word": "长江大学回应大雪压塌学校食堂",
+        "onboard_time": 1707105093,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320350,
+        "num": 320350,
+        "word": "安倍晋三母亲去世",
+        "onboard_time": 1707099211,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 281440,
+        "num": 281440,
+        "word": "张佳宁 朝鲜族服饰",
+        "onboard_time": 1707105393,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279758,
+        "num": 279758,
+        "word": "冻雨",
+        "onboard_time": 1707107853,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266127,
+        "num": 266127,
+        "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
+        "onboard_time": 1707104853,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256278,
+        "num": 256278,
+        "word": "男子网购3J车厘子卡尺测量后很受伤",
+        "onboard_time": 1707100769,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247226,
+        "num": 247226,
+        "word": "妇联回应女子疑被丈夫用酒点燃烧伤",
+        "onboard_time": 1707108571,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242391,
+        "num": 242391,
+        "word": "打雷姐 陪跑",
+        "onboard_time": 1707109054,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239064,
+        "num": 239064,
+        "word": "港府或因梅西缺赛扣减赞助款项",
+        "onboard_time": 1707109113,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217279,
+        "num": 217279,
+        "word": "梅西赛后拒绝领奖发言",
+        "onboard_time": 1707088762,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210036,
+        "num": 210036,
+        "word": "任嘉伦严屹宽演叔侄",
+        "onboard_time": 1707108333,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204839,
+        "num": 204839,
+        "word": "分手厨房名不虚传",
+        "onboard_time": 1707104191,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201781,
+        "num": 201781,
+        "word": "格莱美获奖名单",
+        "onboard_time": 1707110254,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197722,
+        "num": 197722,
+        "word": "格莱美红毯",
+        "onboard_time": 1707088582,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 194590,
+        "word": "心疼打雷姐",
+        "onboard_time": 1707109953,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192024,
+        "num": 192024,
+        "word": "A股开盘跌破2700点",
+        "onboard_time": 1707099813,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189743,
+        "num": 189743,
+        "word": "格莱美直播",
+        "onboard_time": 1707090327,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186623,
+        "num": 186623,
+        "word": "席琳迪翁为霉霉颁奖",
+        "onboard_time": 1707110074,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170953,
+        "num": 170953,
+        "word": "肿瘤医生不碰的6种促癌食物",
+        "onboard_time": 1707097348,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161475,
+        "num": 161475,
+        "word": "专家建议将稳市工作提前到节前十理由",
+        "onboard_time": 1707108994,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160352,
+        "num": 160352,
+        "word": "妈妈 可是人生不是用来回本的",
+        "onboard_time": 1707103535,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160070,
+        "num": 160070,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156627,
+        "num": 156627,
+        "word": "霉霉高开衩白裙",
+        "onboard_time": 1707098370,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151947,
+        "num": 151947,
+        "word": "致敬每一个守路的人",
+        "onboard_time": 1707105753,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 150261,
+        "num": 150261,
+        "word": "张碧晨 我们总会遇见懂自己的人",
+        "onboard_time": 1707105631,
+        "rank": 46,
+        "category": "电影,音乐"
+      },
+      {
+        "raw_hot": 143047,
+        "num": 143047,
+        "word": "明星回农村老家的样子",
+        "onboard_time": 1707102091,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141866,
+        "num": 141866,
+        "word": "极致的节省是一种贪婪",
+        "onboard_time": 1707107793,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139275,
+        "num": 139275,
+        "word": "飞驰人生2新预告",
+        "onboard_time": 1707108811,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干让人民群众不断有新的获得感#"
+    }
+  }
+}
