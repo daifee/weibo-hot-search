@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707110267124,
+  "endTime": 1707111230304,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1653579,
+      "num": 1653579,
+      "word": "杨紫因拍戏婉拒春晚",
+      "onboard_time": 1707107493,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1593981,
       "num": 1593981,
       "word": "武汉暴雪",
@@ -105,14 +113,6 @@
       "onboard_time": 1707098132,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1536668,
-      "num": 1536668,
-      "word": "杨紫因拍戏婉拒春晚",
-      "onboard_time": 1707107493,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1463867,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 949146,
-      "num": 638020,
+      "num": 680750,
       "word": "A股三大股指遭遇重挫",
       "onboard_time": 1707106834,
       "rank": 34,
@@ -297,6 +297,14 @@
       "onboard_time": 1707047794,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 906916,
+      "num": 906916,
+      "word": "张佳宁换头像",
+      "onboard_time": 1707107374,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 897328,
@@ -315,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 872163,
+      "num": 872163,
+      "word": "酱园弄 章子怡",
+      "onboard_time": 1707109773,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 864091,
       "num": 864091,
       "word": "印度女星为假死道歉",
@@ -329,14 +345,6 @@
       "onboard_time": 1707028651,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 846893,
-      "num": 846893,
-      "word": "张佳宁换头像",
-      "onboard_time": 1707107374,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 846767,
@@ -401,6 +409,14 @@
       "onboard_time": 1707011908,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801829,
+      "num": 801829,
+      "word": "玉桂狗",
+      "onboard_time": 1707108213,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 800301,
@@ -475,14 +491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 725072,
-      "num": 725072,
-      "word": "玉桂狗",
-      "onboard_time": 1707108213,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 712255,
       "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
@@ -503,6 +511,14 @@
       "num": 683997,
       "word": "A股开盘跌破2700点",
       "onboard_time": 1707099813,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 680056,
+      "num": 680056,
+      "word": "为什么全球都在涨A股一直跌",
+      "onboard_time": 1707108213,
       "rank": 12,
       "category": "财经"
     },
@@ -617,14 +633,6 @@
       "onboard_time": 1707021874,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612686,
-      "num": 612686,
-      "word": "为什么全球都在涨A股一直跌",
-      "onboard_time": 1707108213,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 610982,
@@ -891,20 +899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483110,
+      "num": 483110,
+      "word": "暴雪滞留",
+      "onboard_time": 1707108272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481468,
       "num": 481468,
       "word": "迪丽热巴对接回应后续项目",
       "onboard_time": 1707012210,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477187,
-      "num": 477187,
-      "word": "暴雪滞留",
-      "onboard_time": 1707108272,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468885,
@@ -929,14 +937,6 @@
       "onboard_time": 1707044433,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 460442,
-      "num": 460442,
-      "word": "酱园弄 章子怡",
-      "onboard_time": 1707109773,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 460183,
@@ -1635,6 +1635,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276046,
+      "num": 267351,
+      "word": "席琳迪翁为霉霉颁奖",
+      "onboard_time": 1707110074,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 273351,
+      "num": 273351,
+      "word": "格莱美获奖名单",
+      "onboard_time": 1707110254,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271740,
       "num": 271740,
       "word": "六小龄童马德华合作新电影",
@@ -1771,6 +1787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 250702,
+      "num": 250702,
+      "word": "张本美和参加巴黎奥运会",
+      "onboard_time": 1707110372,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250592,
       "num": 250592,
       "word": "果粉为抢购苹果VisionPro打飞的赴美",
@@ -1899,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238868,
+      "num": 238868,
+      "word": "易烊千玺黑白丝巾",
+      "onboard_time": 1707111213,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238675,
       "num": 238675,
       "word": "安琪拉龙限 史诗",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1707102334,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224309,
+      "num": 224309,
+      "word": "湖南益阳南县一菜市场发生坍塌事故",
+      "onboard_time": 1707110191,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224001,
@@ -2187,6 +2227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 211774,
+      "num": 211774,
+      "word": "梅西",
+      "onboard_time": 1707110971,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211198,
       "num": 211198,
       "word": "第一年在婆家过年",
@@ -2296,6 +2344,14 @@
       "word": "湖人终结尼克斯九连胜",
       "onboard_time": 1707020192,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206379,
+      "num": 206379,
+      "word": "香港文旅局称主办方确认梅西可以出场",
+      "onboard_time": 1707110971,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -2427,12 +2483,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201781,
-      "num": 201781,
-      "word": "格莱美获奖名单",
-      "onboard_time": 1707110254,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 201380,
+      "num": 201380,
+      "word": "杨幂摸自己犄角",
+      "onboard_time": 1707110731,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200958,
@@ -2548,7 +2604,7 @@
     },
     {
       "raw_hot": 194590,
-      "num": 194590,
+      "num": 200381,
       "word": "心疼打雷姐",
       "onboard_time": 1707109953,
       "rank": 36,
@@ -2689,14 +2745,6 @@
       "onboard_time": 1707015392,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186623,
-      "num": 186623,
-      "word": "席琳迪翁为霉霉颁奖",
-      "onboard_time": 1707110074,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 185470,
@@ -4339,6 +4387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48093,
+      "num": 1535597,
+      "word": "大美中国 冰雪之约",
+      "onboard_time": 1707108033,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46747,
       "num": 35946,
       "word": "在暴雪时分",
@@ -4353,14 +4409,6 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 45532,
-      "num": 1535597,
-      "word": "大美中国 冰雪之约",
-      "onboard_time": 1707108033,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44698,
