@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707103126337,
+  "endTime": 1707104071727,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340200,
+      "num": 546922,
+      "word": "张天爱 神经病",
+      "onboard_time": 1707103171,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1281722,
       "num": 1281722,
       "word": "女子买刮刮乐兑奖却被撕彩票",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119047,
+      "num": 1119047,
+      "word": "疑似iPhone16设计图流出",
+      "onboard_time": 1707101612,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1113434,
       "num": 1113434,
       "word": "安倍晋三母亲去世",
@@ -233,14 +249,6 @@
       "onboard_time": 1707002481,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1037645,
-      "num": 1037645,
-      "word": "疑似iPhone16设计图流出",
-      "onboard_time": 1707101612,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 959911,
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598586,
+      "num": 598586,
+      "word": "开房车女生被困高速借卫生间给女生",
+      "onboard_time": 1707102812,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593342,
       "num": 593342,
       "word": "爱情公寓 一镜到底",
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 572705,
-      "num": 282621,
+      "num": 294447,
       "word": "男子网购3J车厘子卡尺测量后很受伤",
       "onboard_time": 1707100769,
       "rank": 20,
@@ -939,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418286,
+      "num": 418286,
+      "word": "格莱美直播",
+      "onboard_time": 1707090327,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415014,
       "num": 415014,
       "word": "官方通报体彩店员撕毁中奖彩票",
@@ -985,14 +1009,6 @@
       "onboard_time": 1707013527,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 400681,
-      "num": 400681,
-      "word": "格莱美直播",
-      "onboard_time": 1707090327,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 400489,
@@ -1379,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284687,
+      "num": 284687,
+      "word": "明星回农村老家的样子",
+      "onboard_time": 1707102091,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281579,
       "num": 281579,
       "word": "孙策龙限 传说",
@@ -1523,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256800,
+      "num": 256800,
+      "word": "近1700股跌超9%",
+      "onboard_time": 1707103470,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256281,
       "num": 256281,
       "word": "过年让减肥欲达到巅峰了",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1707042391,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253174,
+      "num": 253174,
+      "word": "妈妈 可是人生不是用来回本的",
+      "onboard_time": 1707103535,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 251312,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1707096210,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250480,
+      "num": 250480,
+      "word": "三市下跌个股超5000只",
+      "onboard_time": 1707102812,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 247267,
@@ -1755,6 +1803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 226415,
+      "num": 226415,
+      "word": "香港特区政府再回应梅西缺赛",
+      "onboard_time": 1707103592,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226031,
       "num": 226031,
       "word": "光与夜之恋实景模式",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1707091469,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224750,
+      "num": 224750,
+      "word": "隔夜菜一定要在24小时内吃完",
+      "onboard_time": 1707102334,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224001,
@@ -1883,6 +1947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215172,
+      "num": 215172,
+      "word": "沪深300股息率逼近历史新高",
+      "onboard_time": 1707103774,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215146,
       "num": 215146,
       "word": "千股跌停",
@@ -1897,6 +1969,14 @@
       "onboard_time": 1707076877,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214000,
+      "num": 214000,
+      "word": "主办方回应梅西缺赛",
+      "onboard_time": 1707102513,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 212419,
@@ -2051,6 +2131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205258,
+      "num": 205258,
+      "word": "TS11",
+      "onboard_time": 1707103293,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "KSG教练",
@@ -2081,14 +2169,6 @@
       "onboard_time": 1707034949,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202939,
-      "num": 202939,
-      "word": "明星回农村老家的样子",
-      "onboard_time": 1707102091,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 202621,
@@ -2211,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194900,
+      "num": 194900,
+      "word": "张碧晨唱第二十条片尾曲",
+      "onboard_time": 1707103709,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194650,
       "num": 194650,
       "word": "双硫仑样反应",
@@ -2224,6 +2312,14 @@
       "word": "穆雷绝平勇士",
       "onboard_time": 1707017011,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193907,
+      "num": 193907,
+      "word": "主办方否认赛前知悉梅西缺赛",
+      "onboard_time": 1707102812,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2305,6 +2401,14 @@
       "onboard_time": 1707049172,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188842,
+      "num": 188842,
+      "word": "禁养的烈性犬伤人犬主承担全责",
+      "onboard_time": 1707103112,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188182,
@@ -2395,14 +2499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182121,
-      "num": 182121,
-      "word": "主办方回应梅西缺赛",
-      "onboard_time": 1707102513,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178918,
       "num": 178918,
       "word": "赵露思演我打游戏",
@@ -2425,14 +2521,6 @@
       "onboard_time": 1706984960,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177096,
-      "num": 177096,
-      "word": "开房车女生被困高速借卫生间给女生",
-      "onboard_time": 1707102812,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176804,
@@ -2459,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175800,
+      "num": 175800,
+      "word": "天天福",
+      "onboard_time": 1706978428,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174525,
       "num": 174525,
       "word": "掐脖舞",
@@ -2467,12 +2563,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174067,
-      "num": 174067,
-      "word": "天天福",
-      "onboard_time": 1706978428,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 173351,
+      "num": 173351,
+      "word": "武庚纪首发预告",
+      "onboard_time": 1707103774,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 173185,
@@ -2521,14 +2617,6 @@
       "onboard_time": 1706980583,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168187,
-      "num": 168187,
-      "word": "隔夜菜一定要在24小时内吃完",
-      "onboard_time": 1707102334,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 167670,
@@ -2625,14 +2713,6 @@
       "onboard_time": 1707008130,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163344,
-      "num": 163344,
-      "word": "禁养的烈性犬伤人犬主承担全责",
-      "onboard_time": 1707103112,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161544,
@@ -2883,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146528,
+      "num": 146528,
+      "word": "杨紫谈成长",
+      "onboard_time": 1707103709,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146062,
       "num": 146062,
       "word": "詹姆斯拒绝回应合同问题",
@@ -2937,14 +3025,6 @@
       "onboard_time": 1707059314,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143295,
-      "num": 143295,
-      "word": "主办方否认赛前知悉梅西缺赛",
-      "onboard_time": 1707102812,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 142947,
@@ -3017,14 +3097,6 @@
       "onboard_time": 1707060092,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139046,
-      "num": 139046,
-      "word": "三市下跌个股超5000只",
-      "onboard_time": 1707102812,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 139020,
@@ -3923,6 +3995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 48156,
+      "num": 226358,
+      "word": "年轻人把压力给到了淘宝",
+      "onboard_time": 1707102154,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46747,
       "num": 35946,
       "word": "在暴雪时分",
@@ -3939,20 +4019,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 46067,
-      "num": 219400,
-      "word": "年轻人把压力给到了淘宝",
-      "onboard_time": 1707102154,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 44698,
       "num": 43736,
       "word": "关智斌吐槽谢霆锋蛋糕没有欲望",
       "onboard_time": 1706991076,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41986,
+      "num": 299099,
+      "word": "新年送礼首选大红大紫cp",
+      "onboard_time": 1707101190,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 41700,
@@ -3985,14 +4065,6 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38187,
-      "num": 283950,
-      "word": "新年送礼首选大红大紫cp",
-      "onboard_time": 1707101190,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 37603,

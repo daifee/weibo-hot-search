@@ -1,0 +1,410 @@
+{
+  "runTime": 1707104071727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334109,
+        "num": 2334109,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1467062,
+        "num": 1467062,
+        "word": "机票1800元退票费1500元",
+        "onboard_time": 1707098132,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95781,
+        "num": 1276585,
+        "word": "又被中式美学惊艳了",
+        "onboard_time": 1707050735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119047,
+        "num": 1119047,
+        "word": "疑似iPhone16设计图流出",
+        "onboard_time": 1707101612,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 904146,
+        "num": 904146,
+        "word": "安倍晋三母亲去世",
+        "onboard_time": 1707099211,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 697746,
+        "num": 697746,
+        "word": "霉霉高开衩白裙",
+        "onboard_time": 1707098370,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 662415,
+        "num": 662415,
+        "word": "A股开盘跌破2700点",
+        "onboard_time": 1707099813,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 598586,
+        "num": 598586,
+        "word": "开房车女生被困高速借卫生间给女生",
+        "onboard_time": 1707102812,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585995,
+        "num": 585995,
+        "word": "知名人士称证监会紧急消息非比寻常",
+        "onboard_time": 1707101132,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 570146,
+        "num": 570146,
+        "word": "格莱美颁奖礼",
+        "onboard_time": 1707095370,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1506461,
+        "num": 556535,
+        "word": "A股",
+        "onboard_time": 1707097348,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1340200,
+        "num": 546922,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535504,
+        "num": 535504,
+        "word": "格莱美红毯",
+        "onboard_time": 1707088582,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470220,
+        "num": 470220,
+        "word": "半个娱乐圈都在苏醒的拟邀名单上",
+        "onboard_time": 1707091348,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432425,
+        "num": 432425,
+        "word": "股市",
+        "onboard_time": 1707099813,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 418286,
+        "num": 418286,
+        "word": "格莱美直播",
+        "onboard_time": 1707090327,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385520,
+        "num": 385520,
+        "word": "梅西赛后拒绝领奖发言",
+        "onboard_time": 1707088762,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340354,
+        "num": 340354,
+        "word": "肿瘤医生不碰的6种促癌食物",
+        "onboard_time": 1707097348,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322164,
+        "num": 322164,
+        "word": "因暴雪滞留高速亲历者发声",
+        "onboard_time": 1707079695,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41986,
+        "num": 299099,
+        "word": "新年送礼首选大红大紫cp",
+        "onboard_time": 1707101190,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 561597,
+        "num": 294447,
+        "word": "男子网购3J车厘子卡尺测量后很受伤",
+        "onboard_time": 1707100769,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284687,
+        "num": 284687,
+        "word": "明星回农村老家的样子",
+        "onboard_time": 1707102091,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272400,
+        "num": 272400,
+        "word": "霉霉宣布新专辑",
+        "onboard_time": 1707101311,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261908,
+        "num": 261908,
+        "word": "说唱歌手格莱美拿奖后被逮捕",
+        "onboard_time": 1707100651,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256800,
+        "num": 256800,
+        "word": "近1700股跌超9%",
+        "onboard_time": 1707103470,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253174,
+        "num": 253174,
+        "word": "妈妈 可是人生不是用来回本的",
+        "onboard_time": 1707103535,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250480,
+        "num": 250480,
+        "word": "三市下跌个股超5000只",
+        "onboard_time": 1707102812,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226415,
+        "num": 226415,
+        "word": "香港特区政府再回应梅西缺赛",
+        "onboard_time": 1707103592,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48156,
+        "num": 226358,
+        "word": "年轻人把压力给到了淘宝",
+        "onboard_time": 1707102154,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226345,
+        "num": 226345,
+        "word": "虞书欣 本体是蝴蝶结",
+        "onboard_time": 1707098610,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224750,
+        "num": 224750,
+        "word": "隔夜菜一定要在24小时内吃完",
+        "onboard_time": 1707102334,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223127,
+        "num": 223127,
+        "word": "格莱美",
+        "onboard_time": 1707052412,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215982,
+        "num": 215982,
+        "word": "真实暧昧又尴尬",
+        "onboard_time": 1707067462,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215172,
+        "num": 215172,
+        "word": "沪深300股息率逼近历史新高",
+        "onboard_time": 1707103774,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214000,
+        "num": 214000,
+        "word": "主办方回应梅西缺赛",
+        "onboard_time": 1707102513,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205258,
+        "num": 205258,
+        "word": "TS11",
+        "onboard_time": 1707103293,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "张碧晨唱第二十条片尾曲",
+        "onboard_time": 1707103709,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193907,
+        "num": 193907,
+        "word": "主办方否认赛前知悉梅西缺赛",
+        "onboard_time": 1707102812,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192063,
+        "num": 192063,
+        "word": "猫 好歹毒的招式",
+        "onboard_time": 1707099689,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188842,
+        "num": 188842,
+        "word": "禁养的烈性犬伤人犬主承担全责",
+        "onboard_time": 1707103112,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175800,
+        "num": 175800,
+        "word": "天天福",
+        "onboard_time": 1707100229,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174651,
+        "num": 174651,
+        "word": "杨紫说豆豆有点小绿茶",
+        "onboard_time": 1707091887,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173351,
+        "num": 173351,
+        "word": "武庚纪首发预告",
+        "onboard_time": 1707103774,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170662,
+        "num": 170662,
+        "word": "为什么坐车时看手机越看越想吐",
+        "onboard_time": 1707097348,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169088,
+        "num": 169088,
+        "word": "12306回应一些车次为何开售即秒光",
+        "onboard_time": 1707090567,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168991,
+        "num": 168991,
+        "word": "霉霉获最佳流行专辑",
+        "onboard_time": 1707101011,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157273,
+        "num": 157273,
+        "word": "韩国老师教中国留学生出师表",
+        "onboard_time": 1707093087,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155640,
+        "num": 155640,
+        "word": "英国王室辟谣凯特王妃陷入昏迷",
+        "onboard_time": 1707093391,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146528,
+        "num": 146528,
+        "word": "杨紫谈成长",
+        "onboard_time": 1707103709,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133468,
+        "num": 133468,
+        "word": "梅西缺战",
+        "onboard_time": 1707102452,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记春节前夕考察的那些乡村#"
+    }
+  }
+}
