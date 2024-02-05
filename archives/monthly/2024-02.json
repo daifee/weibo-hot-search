@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707114126263,
+  "endTime": 1707114883107,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -179,6 +179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2000622,
+      "num": 2000622,
+      "word": "霍建华李凯馨亲密合照",
+      "onboard_time": 1707112470,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1959023,
       "num": 1959023,
       "word": "2700",
@@ -263,14 +271,6 @@
       "num": 1831345,
       "word": "刘德华回应隐婚",
       "onboard_time": 1706934989,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1828408,
-      "num": 1828408,
-      "word": "霍建华李凯馨亲密合照",
-      "onboard_time": 1707112470,
       "rank": 0,
       "category": "艺人"
     },
@@ -2235,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577080,
+      "num": 461049,
+      "word": "胡锡进称普通散户股民是无辜的",
+      "onboard_time": 1707112052,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 575455,
       "num": 575455,
       "word": "河南降雪致多趟火车停运",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1706886335,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560558,
-      "num": 461049,
-      "word": "胡锡进称普通散户股民是无辜的",
-      "onboard_time": 1707112052,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 559933,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1706752288,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 518412,
+      "num": 458849,
+      "word": "杨紫遭换角色反被说不知好歹",
+      "onboard_time": 1707113673,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 517526,
@@ -3011,6 +3019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 462162,
+      "num": 462162,
+      "word": "A股三大股指全部翻红",
+      "onboard_time": 1707114511,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 461741,
       "num": 461741,
       "word": "生育损伤是人类注定的吗",
@@ -3323,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423967,
+      "num": 423967,
+      "word": "梅西表演赛1600万赞助尚未付款",
+      "onboard_time": 1707112052,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423511,
       "num": 423511,
       "word": "杨紫说豆豆有点小绿茶",
@@ -3561,6 +3585,14 @@
       "onboard_time": 1707013527,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 402125,
+      "num": 402125,
+      "word": "谁给张婧仪化的妆",
+      "onboard_time": 1707114151,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 401285,
@@ -4419,14 +4451,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 324518,
-      "num": 324518,
-      "word": "梅西表演赛1600万赞助尚未付款",
-      "onboard_time": 1707112052,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324089,
       "num": 324089,
       "word": "梅西",
@@ -4537,6 +4561,14 @@
       "onboard_time": 1706936730,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314593,
+      "num": 314593,
+      "word": "赵丽颖红色小香",
+      "onboard_time": 1707113610,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 314487,
@@ -4995,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282495,
+      "num": 282495,
+      "word": "南航免费退改为何这么难",
+      "onboard_time": 1707113310,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -5049,14 +5089,6 @@
       "onboard_time": 1706712993,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280722,
-      "num": 280722,
-      "word": "赵丽颖红色小香",
-      "onboard_time": 1707113610,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 280451,
@@ -5441,14 +5473,6 @@
       "onboard_time": 1707009032,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260068,
-      "num": 260068,
-      "word": "杨紫遭换角色反被说不知好歹",
-      "onboard_time": 1707113673,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259928,
@@ -7627,6 +7651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196023,
+      "num": 196023,
+      "word": "拔鱼刺挂口腔科是错误的",
+      "onboard_time": 1707114748,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195853,
       "num": 195853,
       "word": "VG零封Hero",
@@ -8411,14 +8443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183211,
-      "num": 173778,
-      "word": "南航免费退改为何这么难",
-      "onboard_time": 1707113310,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183176,
       "num": 183176,
       "word": "你听过龙的声音吗",
@@ -8907,20 +8931,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 172450,
+      "num": 172450,
+      "word": "三问梅西为何不上场",
+      "onboard_time": 1707113133,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172211,
       "num": 149941,
       "word": "田曦薇小年自拍",
       "onboard_time": 1706863472,
       "rank": 43,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 172069,
-      "num": 172069,
-      "word": "三问梅西为何不上场",
-      "onboard_time": 1707113133,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 171951,
@@ -10563,6 +10587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139355,
+      "num": 139355,
+      "word": "毛雪汪下期是敖子逸赖美云",
+      "onboard_time": 1707114451,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139316,
       "num": 139316,
       "word": "IU新闻图",
@@ -10985,6 +11017,14 @@
       "onboard_time": 1706885494,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132668,
+      "num": 132668,
+      "word": "杨幂周深化身龙神致敬守路人",
+      "onboard_time": 1707114151,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132576,
@@ -11929,6 +11969,14 @@
       "onboard_time": 1706930731,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115704,
+      "num": 115704,
+      "word": "河南一公司给员工发1亿多年终奖",
+      "onboard_time": 1707114872,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115609,
@@ -13451,6 +13499,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 39100,
+      "num": 1401405,
+      "word": "龙吟中国春",
+      "onboard_time": 1707107611,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39058,
       "num": 39058,
       "word": "小狗吸猫的时候跟人一样",
@@ -13472,14 +13528,6 @@
       "word": "24节气开启新的轮回",
       "onboard_time": 1707002721,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36359,
-      "num": 1401405,
-      "word": "龙吟中国春",
-      "onboard_time": 1707107611,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -13521,6 +13569,14 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34423,
+      "num": 129866,
+      "word": "悬崖跌落车主称领克给了其第二次生命",
+      "onboard_time": 1707113791,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34020,
@@ -13649,14 +13705,6 @@
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24973,
-      "num": 126331,
-      "word": "悬崖跌落车主称领克给了其第二次生命",
-      "onboard_time": 1707113791,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24791,
