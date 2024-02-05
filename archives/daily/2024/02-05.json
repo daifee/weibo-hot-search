@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707132850221,
+  "endTime": 1707136261720,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1143154,
+      "num": 1143154,
+      "word": "梅西表演赛主办方撤回1600万港元资助申请",
+      "onboard_time": 1707133830,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1138314,
       "num": 1138314,
       "word": "甜馨第一次自己化妆",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 885499,
+      "num": 885499,
+      "word": "王楚钦粉丝",
+      "onboard_time": 1707133229,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872163,
       "num": 872163,
       "word": "酱园弄 章子怡",
@@ -273,6 +289,14 @@
       "onboard_time": 1707121292,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776831,
+      "num": 596127,
+      "word": "唐鹤德晒与张国荣合照庆生",
+      "onboard_time": 1707131071,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 772290,
@@ -355,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676779,
+      "num": 676779,
+      "word": "12306账号为何有陌生人信息",
+      "onboard_time": 1707133410,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671258,
       "num": 671258,
       "word": "日本一海滩被大量沙丁鱼骨掩埋",
       "onboard_time": 1707090327,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 670721,
-      "num": 596127,
-      "word": "唐鹤德晒与张国荣合照庆生",
-      "onboard_time": 1707131071,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 650922,
@@ -417,6 +441,14 @@
       "onboard_time": 1707101132,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 637530,
+      "num": 637530,
+      "word": "刘亦菲刘诗诗合影旧照",
+      "onboard_time": 1707132628,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 631996,
@@ -675,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 465469,
+      "num": 465469,
+      "word": "虞书欣工作室重组",
+      "onboard_time": 1707135031,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448056,
       "num": 355602,
       "word": "老板不在 全部乱卖",
@@ -737,6 +777,14 @@
       "onboard_time": 1707090327,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 416789,
+      "num": 416789,
+      "word": "王豆豆怀孕",
+      "onboard_time": 1707135752,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 415014,
@@ -1027,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278326,
+      "num": 255452,
+      "word": "回家的行李箱越来越轻了",
+      "onboard_time": 1707134550,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276046,
       "num": 267351,
       "word": "席琳迪翁为霉霉颁奖",
@@ -1099,12 +1155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252681,
-      "num": 252681,
-      "word": "刘亦菲刘诗诗合影旧照",
-      "onboard_time": 1707132628,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 255603,
+      "num": 255603,
+      "word": "沈腾伤疤",
+      "onboard_time": 1707131551,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 252680,
+      "num": 252680,
+      "word": "王鹤棣新中式",
+      "onboard_time": 1707132571,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252292,
@@ -1187,20 +1251,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241368,
+      "num": 241368,
+      "word": "老鼠饺子包得活灵活现",
+      "onboard_time": 1707133771,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241089,
       "num": 241089,
       "word": "91岁奶奶找回了失散55年的心肝宝贝",
       "onboard_time": 1707074717,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240807,
-      "num": 240807,
-      "word": "沈腾伤疤",
-      "onboard_time": 1707131551,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 239732,
@@ -1251,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235175,
+      "num": 235175,
+      "word": "哪些人不适合吃车厘子",
+      "onboard_time": 1707135692,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233822,
       "num": 233822,
       "word": "福建高速发生交通事故7人死亡",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1707062790,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230549,
+      "num": 230549,
+      "word": "吴磊长得好暧昧",
+      "onboard_time": 1707131670,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 228600,
@@ -1321,6 +1401,14 @@
       "onboard_time": 1707125012,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 217663,
+      "num": 217663,
+      "word": "祈今朝大结局",
+      "onboard_time": 1707135332,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 217341,
@@ -1523,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201929,
+      "num": 201929,
+      "word": "宋茜汤晶媚去看张学友演唱会",
+      "onboard_time": 1707134431,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198751,
       "num": 198751,
       "word": "霉霉 行动力",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1707125131,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195089,
+      "num": 190537,
+      "word": "成毅写给粉丝的一封信",
+      "onboard_time": 1707135871,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194900,
@@ -1603,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193073,
+      "num": 186904,
+      "word": "烟火人家定档",
+      "onboard_time": 1707133652,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192889,
       "num": 192889,
       "word": "吴磊 在娱乐圈当运动员",
@@ -1627,19 +1739,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190695,
+      "num": 190695,
+      "word": "香港消委会收到38宗梅西事件投诉",
+      "onboard_time": 1707134793,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190575,
       "num": 190575,
       "word": "一见钟情后的暧昧拉扯好上头",
       "onboard_time": 1707061592,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190254,
-      "num": 190254,
-      "word": "吴磊长得好暧昧",
-      "onboard_time": 1707131670,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1699,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182910,
+      "num": 182910,
+      "word": "杨鸣删除告别辽篮视频",
+      "onboard_time": 1707134973,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180134,
       "num": 180134,
       "word": "专家称平准基金已到入场时",
@@ -1753,6 +1873,14 @@
       "onboard_time": 1707052230,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174267,
+      "num": 174267,
+      "word": "专家称A股强制退市标准仍显温和",
+      "onboard_time": 1707135631,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 174099,
@@ -1939,6 +2067,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 158785,
+      "num": 158785,
+      "word": "在暴雪时分",
+      "onboard_time": 1707133952,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158057,
       "num": 158057,
       "word": "星穹铁道黑天鹅",
@@ -1955,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157298,
-      "num": 157298,
-      "word": "王鹤棣新中式",
-      "onboard_time": 1707132571,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155477,
       "num": 155477,
       "word": "开车回家我妈觉得很有面子",
@@ -1977,6 +2105,14 @@
       "onboard_time": 1707112414,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154064,
+      "num": 154064,
+      "word": "胡锡进称除炒股外会考虑货币基金",
+      "onboard_time": 1707134133,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 153611,
@@ -2089,6 +2225,22 @@
       "onboard_time": 1707107793,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "平替年货穿戴甲",
+      "onboard_time": 1707135152,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 140352,
+      "num": 140352,
+      "word": "大小杨哥七年变化",
+      "onboard_time": 1707134311,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 139355,
@@ -2323,6 +2475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120387,
+      "num": 120387,
+      "word": "哈萨克斯坦总统签署法令解散政府",
+      "onboard_time": 1707135932,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 119999,
       "num": 119999,
       "word": "啪姐开场",
@@ -2371,12 +2531,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109899,
+      "num": 109899,
+      "word": "欢迎来到樱兰高校",
+      "onboard_time": 1707136170,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 109757,
+      "num": 109757,
+      "word": "王者峡谷白龙降临",
+      "onboard_time": 1707135991,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109404,
       "num": 109404,
       "word": "网友自曝被举报作弊取消考研政治成绩",
       "onboard_time": 1707047612,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109356,
+      "num": 109356,
+      "word": "南宋的妆容有多高级",
+      "onboard_time": 1707136170,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 107721,
@@ -2401,6 +2585,14 @@
       "onboard_time": 1707088762,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105374,
+      "num": 105374,
+      "word": "Selen毕业",
+      "onboard_time": 1707134550,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105016,
@@ -2561,6 +2753,14 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57468,
+      "num": 1183697,
+      "word": "龙年气氛组已就位",
+      "onboard_time": 1707118890,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56696,

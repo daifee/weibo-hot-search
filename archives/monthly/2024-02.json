@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707132850221,
+  "endTime": 1707136261720,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1143154,
+      "num": 1143154,
+      "word": "梅西表演赛主办方撤回1600万港元资助申请",
+      "onboard_time": 1707133830,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1142876,
       "num": 1142876,
       "word": "小品 烂梗",
@@ -1227,6 +1235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 885499,
+      "num": 885499,
+      "word": "王楚钦粉丝",
+      "onboard_time": 1707133229,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 877428,
       "num": 877428,
       "word": "体检中心体检正常5个月后查出乳腺癌",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1706755588,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 776831,
+      "num": 596127,
+      "word": "唐鹤德晒与张国荣合照庆生",
+      "onboard_time": 1707131071,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 774713,
@@ -1883,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676779,
+      "num": 676779,
+      "word": "12306账号为何有陌生人信息",
+      "onboard_time": 1707133410,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674701,
       "num": 674701,
       "word": "诱骗新婚妻子服毒骗保男子被执行死刑",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1706714792,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 670721,
-      "num": 596127,
-      "word": "唐鹤德晒与张国荣合照庆生",
-      "onboard_time": 1707131071,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 670138,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1706767349,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 637530,
+      "num": 637530,
+      "word": "刘亦菲刘诗诗合影旧照",
+      "onboard_time": 1707132628,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 635810,
@@ -3267,6 +3299,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 465469,
+      "num": 465469,
+      "word": "虞书欣工作室重组",
+      "onboard_time": 1707135031,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -3705,6 +3745,14 @@
       "onboard_time": 1707090327,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 416789,
+      "num": 416789,
+      "word": "王豆豆怀孕",
+      "onboard_time": 1707135752,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 416394,
@@ -5499,6 +5547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 278326,
+      "num": 255452,
+      "word": "回家的行李箱越来越轻了",
+      "onboard_time": 1707134550,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278263,
       "num": 278263,
       "word": "王俊凯身在直播实则陷入回忆",
@@ -5963,6 +6019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255603,
+      "num": 255603,
+      "word": "沈腾伤疤",
+      "onboard_time": 1707131551,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255403,
       "num": 255403,
       "word": "御赐小仵作2备案",
@@ -6003,12 +6067,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252681,
-      "num": 252681,
-      "word": "刘亦菲刘诗诗合影旧照",
-      "onboard_time": 1707132628,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 252680,
+      "num": 252680,
+      "word": "王鹤棣新中式",
+      "onboard_time": 1707132571,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252506,
@@ -6291,6 +6355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 241368,
+      "num": 241368,
+      "word": "老鼠饺子包得活灵活现",
+      "onboard_time": 1707133771,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241235,
       "num": 241235,
       "word": "繁花里唯一和胡歌有吻戏的人",
@@ -6305,14 +6377,6 @@
       "onboard_time": 1707074717,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240807,
-      "num": 240807,
-      "word": "沈腾伤疤",
-      "onboard_time": 1707131551,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 239732,
@@ -6507,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235175,
+      "num": 235175,
+      "word": "哪些人不适合吃车厘子",
+      "onboard_time": 1707135692,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234477,
       "num": 234477,
       "word": "奔驰车主逆行被处罚款200元记3分",
@@ -6609,6 +6681,14 @@
       "onboard_time": 1706975610,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230549,
+      "num": 230549,
+      "word": "吴磊长得好暧昧",
+      "onboard_time": 1707131670,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 230268,
@@ -7097,6 +7177,14 @@
       "onboard_time": 1707005609,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217663,
+      "num": 217663,
+      "word": "祈今朝大结局",
+      "onboard_time": 1707135332,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 217341,
@@ -7931,6 +8019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201929,
+      "num": 201929,
+      "word": "宋茜汤晶媚去看张学友演唱会",
+      "onboard_time": 1707134431,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201713,
       "num": 201713,
       "word": "怜爱jiejie",
@@ -8251,6 +8347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195089,
+      "num": 190537,
+      "word": "成毅写给粉丝的一封信",
+      "onboard_time": 1707135871,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194900,
       "num": 194900,
       "word": "张碧晨唱第二十条片尾曲",
@@ -8393,6 +8497,14 @@
       "onboard_time": 1707118054,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193073,
+      "num": 186904,
+      "word": "烟火人家定档",
+      "onboard_time": 1707133652,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192996,
@@ -8603,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190695,
+      "num": 190695,
+      "word": "香港消委会收到38宗梅西事件投诉",
+      "onboard_time": 1707134793,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190575,
       "num": 190575,
       "word": "一见钟情后的暧昧拉扯好上头",
@@ -8617,14 +8737,6 @@
       "onboard_time": 1706765253,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190254,
-      "num": 190254,
-      "word": "吴磊长得好暧昧",
-      "onboard_time": 1707131670,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 190127,
@@ -9059,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182910,
+      "num": 182910,
+      "word": "杨鸣删除告别辽篮视频",
+      "onboard_time": 1707134973,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182505,
       "num": 182505,
       "word": "成韩彬把章昊整害羞了",
@@ -9449,6 +9569,14 @@
       "onboard_time": 1706828601,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174267,
+      "num": 174267,
+      "word": "专家称A股强制退市标准仍显温和",
+      "onboard_time": 1707135631,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 174139,
@@ -10363,14 +10491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157298,
-      "num": 157298,
-      "word": "王鹤棣新中式",
-      "onboard_time": 1707132571,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 157139,
       "num": 157139,
       "word": "乡村爱情16",
@@ -10545,6 +10665,14 @@
       "onboard_time": 1706930791,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154064,
+      "num": 154064,
+      "word": "胡锡进称除炒股外会考虑货币基金",
+      "onboard_time": 1707134133,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 153970,
@@ -11203,6 +11331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "平替年货穿戴甲",
+      "onboard_time": 1707135152,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 141060,
       "num": 141060,
       "word": "A股春节休市10天",
@@ -11273,6 +11409,14 @@
       "onboard_time": 1706894544,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140352,
+      "num": 140352,
+      "word": "大小杨哥七年变化",
+      "onboard_time": 1707134311,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 140300,
@@ -12515,6 +12659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120387,
+      "num": 120387,
+      "word": "哈萨克斯坦总统签署法令解散政府",
+      "onboard_time": 1707135932,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 120329,
       "num": 120329,
       "word": "首届春晚光看串场就能笑半宿",
@@ -13059,6 +13211,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109899,
+      "num": 109899,
+      "word": "欢迎来到樱兰高校",
+      "onboard_time": 1707136170,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 109757,
+      "num": 109757,
+      "word": "王者峡谷白龙降临",
+      "onboard_time": 1707135991,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109729,
       "num": 109729,
       "word": "立春时间",
@@ -13097,6 +13265,14 @@
       "onboard_time": 1706839047,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109356,
+      "num": 109356,
+      "word": "南宋的妆容有多高级",
+      "onboard_time": 1707136170,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 108947,
@@ -13225,6 +13401,14 @@
       "onboard_time": 1706782352,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 105374,
+      "num": 105374,
+      "word": "Selen毕业",
+      "onboard_time": 1707134550,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 104994,
@@ -13961,6 +14145,14 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57468,
+      "num": 1183697,
+      "word": "龙年气氛组已就位",
+      "onboard_time": 1707118890,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57153,
