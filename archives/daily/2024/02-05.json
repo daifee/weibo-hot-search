@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707140076996,
+  "endTime": 1707142563169,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -203,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 970722,
+      "num": 970722,
+      "word": "王一博与晗晗qvq网络纠纷案审理结果",
+      "onboard_time": 1707139834,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959911,
       "num": 959911,
       "word": "A股千股跌停",
@@ -224,6 +232,14 @@
       "word": "A股三大股指遭遇重挫",
       "onboard_time": 1707106834,
       "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 920146,
+      "num": 920146,
+      "word": "专家建议给老百姓每人发1000元",
+      "onboard_time": 1707137670,
+      "rank": 9,
       "category": "财经"
     },
     {
@@ -267,20 +283,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 847767,
-      "num": 847767,
-      "word": "专家建议给老百姓每人发1000元",
-      "onboard_time": 1707137670,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 829495,
       "num": 829495,
       "word": "12306回应一些车次为何开售即秒光",
       "onboard_time": 1707090567,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803120,
+      "num": 803120,
+      "word": "梅西抵达日本",
+      "onboard_time": 1707141035,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 801829,
@@ -401,6 +417,14 @@
       "onboard_time": 1707099813,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 682366,
+      "num": 682366,
+      "word": "在暴雪时分男三",
+      "onboard_time": 1707139953,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 680056,
@@ -552,6 +576,22 @@
       "word": "田惠宇一审被判死缓",
       "onboard_time": 1707124353,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566635,
+      "num": 566635,
+      "word": "程潇 龙女",
+      "onboard_time": 1707141331,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 559487,
+      "num": 559487,
+      "word": "澳籍间谍杨军被判死缓",
+      "onboard_time": 1707140133,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -931,6 +971,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363719,
+      "num": 363719,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1707140911,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 360851,
+      "num": 360851,
+      "word": "王楚然木槿花发簪",
+      "onboard_time": 1707138691,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351832,
+      "num": 351832,
+      "word": "经典之夜 四大名著齐聚",
+      "onboard_time": 1707140071,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348741,
       "num": 348741,
       "word": "种地吧",
@@ -1009,14 +1073,6 @@
       "onboard_time": 1707105334,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308679,
-      "num": 308679,
-      "word": "王楚然木槿花发簪",
-      "onboard_time": 1707138691,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 307392,
@@ -1203,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260098,
+      "num": 260098,
+      "word": "马思纯晒孙千醉酒照",
+      "onboard_time": 1707141934,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256908,
       "num": 256908,
       "word": "专家称暂停IPO是把双刃剑",
@@ -1225,6 +1289,22 @@
       "onboard_time": 1707131551,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255025,
+      "num": 255025,
+      "word": "腐乳在海外爆火",
+      "onboard_time": 1707138932,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 253180,
+      "num": 253180,
+      "word": "李昇基李多寅官宣得女",
+      "onboard_time": 1707142053,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 252680,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1707108571,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245470,
+      "num": 234746,
+      "word": "林更新谈和赵丽颖刘亦菲合作",
+      "onboard_time": 1707142471,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 243887,
@@ -1692,7 +1780,7 @@
     },
     {
       "raw_hot": 198895,
-      "num": 198895,
+      "num": 982388,
       "word": "央视经典之夜",
       "onboard_time": 1707139293,
       "rank": 27,
@@ -1721,14 +1809,6 @@
       "onboard_time": 1707101011,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197105,
-      "num": 197105,
-      "word": "腐乳在海外爆火",
-      "onboard_time": 1707138932,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 196400,
@@ -1859,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189897,
-      "num": 189897,
-      "word": "王一博与晗晗qvq网络纠纷案审理结果",
-      "onboard_time": 1707139834,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188842,
       "num": 188842,
       "word": "禁养的烈性犬伤人犬主承担全责",
@@ -1985,6 +2057,14 @@
       "onboard_time": 1707100229,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174952,
+      "num": 174952,
+      "word": "追星女入手VR眼镜的理由",
+      "onboard_time": 1707142292,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 174632,
@@ -2147,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164385,
+      "num": 164385,
+      "word": "梅西方需要给个售后方案",
+      "onboard_time": 1707142534,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161782,
       "num": 161782,
       "word": "车主自驾回乡1小时的路开了11小时",
@@ -2275,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149817,
+      "num": 149817,
+      "word": "小狗 我的眼睛就是尺",
+      "onboard_time": 1707140674,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "打雷姐 0中",
@@ -2313,6 +2409,14 @@
       "onboard_time": 1707103709,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145997,
+      "num": 145997,
+      "word": "何同学Vision Pro测评",
+      "onboard_time": 1707141212,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 144815,
@@ -2369,6 +2473,14 @@
       "onboard_time": 1707135152,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140872,
+      "num": 140872,
+      "word": "柿子型人格",
+      "onboard_time": 1707141692,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 140352,
@@ -2465,6 +2577,14 @@
       "onboard_time": 1707114151,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132347,
+      "num": 132347,
+      "word": "药明康德回购10亿元公司股份",
+      "onboard_time": 1707141873,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 132182,
@@ -2569,14 +2689,6 @@
       "onboard_time": 1707099931,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125610,
-      "num": 125610,
-      "word": "在暴雪时分男三",
-      "onboard_time": 1707139953,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 125521,
@@ -3089,6 +3201,14 @@
       "onboard_time": 1707079515,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 16944,
+      "num": 599847,
+      "word": "北京地铁昌平线列车追尾事故调查报告",
+      "onboard_time": 1707142471,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15833,
