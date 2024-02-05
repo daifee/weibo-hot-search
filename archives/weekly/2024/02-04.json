@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707111230304,
+  "endTime": 1707114126263,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1828408,
+      "num": 1828408,
+      "word": "霍建华李凯馨亲密合照",
+      "onboard_time": 1707112470,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1685281,
       "num": 1685281,
       "word": "南航",
@@ -113,6 +121,14 @@
       "onboard_time": 1707098132,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1506794,
+      "num": 1506794,
+      "word": "香港文旅局称主办方确认梅西可以出场",
+      "onboard_time": 1707110971,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 1463867,
@@ -705,6 +721,14 @@
       "onboard_time": 1707004347,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560558,
+      "num": 461049,
+      "word": "胡锡进称普通散户股民是无辜的",
+      "onboard_time": 1707112052,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 558474,
@@ -1371,6 +1395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324518,
+      "num": 324518,
+      "word": "梅西表演赛1600万赞助尚未付款",
+      "onboard_time": 1707112052,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 324089,
+      "num": 324089,
+      "word": "梅西",
+      "onboard_time": 1707110971,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323313,
       "num": 323313,
       "word": "中央气象台连发4预警",
@@ -1491,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298427,
+      "num": 298427,
+      "word": "易烊千玺黑白丝巾",
+      "onboard_time": 1707111213,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297216,
       "num": 297216,
       "word": "世界之外新PV",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1707048571,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 280722,
+      "num": 280722,
+      "word": "赵丽颖红色小香",
+      "onboard_time": 1707113610,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 279834,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1707009032,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260068,
+      "num": 260068,
+      "word": "杨紫遭换角色反被说不知好歹",
+      "onboard_time": 1707113673,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259928,
@@ -1921,14 +1985,6 @@
       "onboard_time": 1707109113,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238868,
-      "num": 238868,
-      "word": "易烊千玺黑白丝巾",
-      "onboard_time": 1707111213,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 238675,
@@ -2227,14 +2283,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 211774,
-      "num": 211774,
-      "word": "梅西",
-      "onboard_time": 1707110971,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211198,
       "num": 211198,
       "word": "第一年在婆家过年",
@@ -2347,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206379,
-      "num": 206379,
-      "word": "香港文旅局称主办方确认梅西可以出场",
-      "onboard_time": 1707110971,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206040,
       "num": 206040,
       "word": "朱正廷问李权哲丢不丢人",
@@ -2427,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203959,
+      "num": 203959,
+      "word": "杨幂摸自己犄角",
+      "onboard_time": 1707110731,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203411,
       "num": 203411,
       "word": "被困高速十几小时车主发声",
@@ -2480,14 +2528,6 @@
       "word": "成毅星星铆钉皮衣",
       "onboard_time": 1707106173,
       "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201380,
-      "num": 201380,
-      "word": "杨幂摸自己犄角",
-      "onboard_time": 1707110731,
-      "rank": 37,
       "category": "作品衍生"
     },
     {
@@ -2795,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183211,
+      "num": 173778,
+      "word": "南航免费退改为何这么难",
+      "onboard_time": 1707113310,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183176,
       "num": 183176,
       "word": "你听过龙的声音吗",
@@ -2915,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172069,
+      "num": 172069,
+      "word": "三问梅西为何不上场",
+      "onboard_time": 1707113133,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171774,
       "num": 171774,
       "word": "百岁师母仅用2分钟认出周涛",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1707093328,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169526,
+      "num": 169526,
+      "word": "彭昱畅 糖准备得够够的",
+      "onboard_time": 1707113194,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 169197,
@@ -3059,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161782,
+      "num": 161782,
+      "word": "车主自驾回乡1小时的路开了11小时",
+      "onboard_time": 1707111453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161544,
       "num": 161544,
       "word": "被EDG菜笑啦",
@@ -3139,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158057,
+      "num": 158057,
+      "word": "星穹铁道黑天鹅",
+      "onboard_time": 1707112052,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157855,
       "num": 157855,
       "word": "梅西缺战",
@@ -3201,6 +3281,14 @@
       "onboard_time": 1707047192,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154487,
+      "num": 154487,
+      "word": "王力宏名誉维权案件进展",
+      "onboard_time": 1707112414,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 152191,
@@ -3681,6 +3769,14 @@
       "onboard_time": 1707038132,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128841,
+      "num": 128841,
+      "word": "原来南北方年夜饭差距这么大",
+      "onboard_time": 1707111990,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 128532,
@@ -4475,6 +4571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36359,
+      "num": 1401405,
+      "word": "龙吟中国春",
+      "onboard_time": 1707107611,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35543,
       "num": 35543,
       "word": "元气森林创始人称要向华为学习",
@@ -4545,6 +4649,14 @@
       "onboard_time": 1707018329,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24973,
+      "num": 126331,
+      "word": "悬崖跌落车主称领克给了其第二次生命",
+      "onboard_time": 1707113791,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24791,
@@ -4633,14 +4745,6 @@
       "onboard_time": 1706995995,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 5345,
-      "num": 997786,
-      "word": "龙吟中国春",
-      "onboard_time": 1707107611,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
