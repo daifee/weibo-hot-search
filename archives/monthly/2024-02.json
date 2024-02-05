@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707117418441,
+  "endTime": 1707118503377,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -1947,6 +1947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 639241,
+      "num": 639241,
+      "word": "谁给张婧仪化的妆",
+      "onboard_time": 1707114151,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639043,
       "num": 639043,
       "word": "格莱美颁奖礼",
@@ -2048,14 +2056,6 @@
       "word": "前TVB演员河国荣烧炭自杀",
       "onboard_time": 1706916380,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 622371,
-      "num": 622371,
-      "word": "谁给张婧仪化的妆",
-      "onboard_time": 1707114151,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2675,6 +2675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 515986,
+      "num": 506070,
+      "word": "肾不好嘴唇和眼圈会发黑",
+      "onboard_time": 1707115052,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 515788,
       "num": 515788,
       "word": "睡觉吧 你俩过几天就成了",
@@ -2712,14 +2720,6 @@
       "word": "肿瘤医生不碰的6种促癌食物",
       "onboard_time": 1707097348,
       "rank": 10,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 506070,
-      "num": 506070,
-      "word": "肾不好嘴唇和眼圈会发黑",
-      "onboard_time": 1707115052,
-      "rank": 11,
       "category": "健康医疗"
     },
     {
@@ -2777,6 +2777,14 @@
       "onboard_time": 1707012087,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 499372,
+      "num": 499372,
+      "word": "斗鱼回应将合并虎牙",
+      "onboard_time": 1707116010,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 498404,
@@ -3027,6 +3035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 471775,
+      "num": 425021,
+      "word": "证监会称今年A股质押违约强平金额2740万",
+      "onboard_time": 1707117452,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 471660,
       "num": 471660,
       "word": "孙千露腰了",
@@ -3251,6 +3267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 433311,
+      "num": 412797,
+      "word": "张天爱穿铠甲扫楼",
+      "onboard_time": 1707116372,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432521,
       "num": 223519,
       "word": "张杰 狂门永存",
@@ -3459,14 +3483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 418333,
-      "num": 418333,
-      "word": "斗鱼回应将合并虎牙",
-      "onboard_time": 1707116010,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 418286,
       "num": 418286,
       "word": "格莱美直播",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1707013527,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 401365,
+      "num": 218293,
+      "word": "当我得知老公曾经是校草",
+      "onboard_time": 1707117093,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 401285,
@@ -4267,6 +4291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343308,
+      "num": 343308,
+      "word": "杨紫爸爸 童星是枷锁也是沼泽",
+      "onboard_time": 1707117630,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342637,
       "num": 342637,
       "word": "中石油原董事长王宜林被查",
@@ -4313,14 +4345,6 @@
       "onboard_time": 1706710235,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334114,
-      "num": 334114,
-      "word": "张天爱穿铠甲扫楼",
-      "onboard_time": 1707116372,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 332904,
@@ -5299,14 +5323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273334,
-      "num": 211735,
-      "word": "当我得知老公曾经是校草",
-      "onboard_time": 1707117093,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273328,
       "num": 266132,
       "word": "TF家族 收票",
@@ -5483,6 +5499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261926,
+      "num": 261926,
+      "word": "拔鱼刺挂口腔科是错误的",
+      "onboard_time": 1707114748,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261514,
       "num": 261514,
       "word": "妈妈 可是人生不是用来回本的",
@@ -5609,6 +5633,14 @@
       "onboard_time": 1706763935,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256908,
+      "num": 256908,
+      "word": "专家称暂停IPO是把双刃剑",
+      "onboard_time": 1707116612,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 256386,
@@ -5761,14 +5793,6 @@
       "onboard_time": 1706835329,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249669,
-      "num": 249669,
-      "word": "拔鱼刺挂口腔科是错误的",
-      "onboard_time": 1707114748,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 249541,
@@ -5945,14 +5969,6 @@
       "onboard_time": 1706835273,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 241272,
-      "num": 241272,
-      "word": "专家称暂停IPO是把双刃剑",
-      "onboard_time": 1707116612,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 241235,
@@ -6465,6 +6481,14 @@
       "onboard_time": 1707040111,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 223810,
+      "num": 223810,
+      "word": "马斯克回应与董事一起吸毒",
+      "onboard_time": 1707116670,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 223662,
@@ -6985,14 +7009,6 @@
       "onboard_time": 1706954610,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209568,
-      "num": 208249,
-      "word": "马斯克回应与董事一起吸毒",
-      "onboard_time": 1707116670,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 209554,
@@ -7739,6 +7755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196326,
+      "num": 196326,
+      "word": "35岁后尤其要防6大高发癌症",
+      "onboard_time": 1707117935,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196274,
       "num": 186939,
       "word": "华晨宇舞台好浪漫",
@@ -7931,6 +7955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193099,
+      "num": 193099,
+      "word": "AG演我休假的一天",
+      "onboard_time": 1707118054,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192996,
       "num": 192996,
       "word": "云天河失明",
@@ -8099,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191225,
+      "num": 191225,
+      "word": "乙游最高的男人出现了",
+      "onboard_time": 1707115590,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191176,
       "num": 191176,
       "word": "鞠婧祎发了韩菱纱的墓碑",
@@ -8129,14 +8169,6 @@
       "onboard_time": 1707061592,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190341,
-      "num": 190341,
-      "word": "乙游最高的男人出现了",
-      "onboard_time": 1707115590,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 190308,
@@ -9689,6 +9721,14 @@
       "onboard_time": 1706861374,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159410,
+      "num": 159410,
+      "word": "衡水一中学老师被曝性骚扰女生",
+      "onboard_time": 1707117935,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159397,
@@ -11787,6 +11827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122546,
+      "num": 122546,
+      "word": "刘海很可爱的秘密",
+      "onboard_time": 1707118173,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 122307,
       "num": 122307,
       "word": "在俄罗斯鸡蛋是怎么变金蛋的",
@@ -13483,6 +13531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47003,
+      "num": 1401405,
+      "word": "龙吟中国春",
+      "onboard_time": 1707107611,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46229,
       "num": 46229,
       "word": "微博开新年",
@@ -13504,14 +13560,6 @@
       "word": "拍出你眼中的龙年味道",
       "onboard_time": 1706857713,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43573,
-      "num": 1401405,
-      "word": "龙吟中国春",
-      "onboard_time": 1707107611,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

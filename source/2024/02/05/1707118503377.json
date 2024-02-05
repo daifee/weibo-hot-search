@@ -1,0 +1,410 @@
+{
+  "runTime": 1707118503377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1693029,
+        "num": 1693029,
+        "word": "霍建华李凯馨亲密合照",
+        "onboard_time": 1707112470,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1426994,
+        "num": 1426994,
+        "word": "A股三大股指全部翻红",
+        "onboard_time": 1707114511,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47003,
+        "num": 1121041,
+        "word": "龙吟中国春",
+        "onboard_time": 1707107611,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875781,
+        "num": 875781,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823782,
+        "num": 823782,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 750287,
+        "num": 750287,
+        "word": "杨紫遭换角色反被说不知好歹",
+        "onboard_time": 1707113673,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 639241,
+        "num": 639241,
+        "word": "谁给张婧仪化的妆",
+        "onboard_time": 1707114151,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564769,
+        "num": 564769,
+        "word": "王力宏回应胜诉",
+        "onboard_time": 1707114993,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499372,
+        "num": 499372,
+        "word": "斗鱼回应将合并虎牙",
+        "onboard_time": 1707116010,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430678,
+        "num": 430678,
+        "word": "梅西表演赛1600万赞助尚未付款",
+        "onboard_time": 1707112052,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515986,
+        "num": 427339,
+        "word": "肾不好嘴唇和眼圈会发黑",
+        "onboard_time": 1707115052,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471775,
+        "num": 425021,
+        "word": "证监会称今年A股质押违约强平金额2740万",
+        "onboard_time": 1707117452,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 445218,
+        "num": 417780,
+        "word": "杨紫因拍戏婉拒春晚",
+        "onboard_time": 1707107493,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433311,
+        "num": 412797,
+        "word": "张天爱穿铠甲扫楼",
+        "onboard_time": 1707116372,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410793,
+        "num": 410793,
+        "word": "香港文旅局称主办方确认梅西可以出场",
+        "onboard_time": 1707110971,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388278,
+        "num": 388278,
+        "word": "开房车女生被困高速借卫生间给女生",
+        "onboard_time": 1707102812,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386505,
+        "num": 386505,
+        "word": "机票1800元退票费1500元",
+        "onboard_time": 1707098132,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357744,
+        "num": 357744,
+        "word": "酱园弄 章子怡",
+        "onboard_time": 1707109773,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349604,
+        "num": 349604,
+        "word": "SHE带孩子聚会",
+        "onboard_time": 1707115709,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345910,
+        "num": 345910,
+        "word": "张佳宁换头像",
+        "onboard_time": 1707107374,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343308,
+        "num": 343308,
+        "word": "杨紫爸爸 童星是枷锁也是沼泽",
+        "onboard_time": 1707117630,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318348,
+        "num": 318348,
+        "word": "A股三大股指遭遇重挫",
+        "onboard_time": 1707106834,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 286021,
+        "num": 286021,
+        "word": "甜馨第一次自己化妆",
+        "onboard_time": 1707105393,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274944,
+        "num": 274944,
+        "word": "A股",
+        "onboard_time": 1707097348,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261926,
+        "num": 261926,
+        "word": "拔鱼刺挂口腔科是错误的",
+        "onboard_time": 1707114748,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256908,
+        "num": 256908,
+        "word": "专家称暂停IPO是把双刃剑",
+        "onboard_time": 1707116612,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234383,
+        "num": 234383,
+        "word": "南航免费退改为何这么难",
+        "onboard_time": 1707113310,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223810,
+        "num": 223810,
+        "word": "马斯克回应与董事一起吸毒",
+        "onboard_time": 1707116670,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218516,
+        "num": 218516,
+        "word": "贝克汉姆被嘘",
+        "onboard_time": 1707115352,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152233,
+        "num": 218299,
+        "word": "安倍晋三母亲去世",
+        "onboard_time": 1707099211,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401365,
+        "num": 218293,
+        "word": "当我得知老公曾经是校草",
+        "onboard_time": 1707117093,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218165,
+        "num": 218165,
+        "word": "我们的女明星女演员女爱豆都在演些什么",
+        "onboard_time": 1707115831,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201450,
+        "num": 201450,
+        "word": "杨波澳门脱口秀换人",
+        "onboard_time": 1707115532,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196326,
+        "num": 196326,
+        "word": "35岁后尤其要防6大高发癌症",
+        "onboard_time": 1707117935,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193099,
+        "num": 193099,
+        "word": "AG演我休假的一天",
+        "onboard_time": 1707118054,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192193,
+        "num": 192193,
+        "word": "河南一公司给员工发1亿多年终奖",
+        "onboard_time": 1707114872,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191225,
+        "num": 191225,
+        "word": "乙游最高的男人出现了",
+        "onboard_time": 1707115590,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184101,
+        "num": 184101,
+        "word": "赵丽颖红色小香",
+        "onboard_time": 1707113610,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183669,
+        "num": 183669,
+        "word": "玉桂狗",
+        "onboard_time": 1707108213,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159410,
+        "num": 159410,
+        "word": "衡水一中学老师被曝性骚扰女生",
+        "onboard_time": 1707117935,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156403,
+        "num": 156403,
+        "word": "疑似iPhone16设计图流出",
+        "onboard_time": 1707101612,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155441,
+        "num": 155441,
+        "word": "老板不在 全部乱卖",
+        "onboard_time": 1707104733,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143262,
+        "num": 143262,
+        "word": "梅西",
+        "onboard_time": 1707110971,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "男子网购3J车厘子卡尺测量后很受伤",
+        "onboard_time": 1707100769,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134281,
+        "num": 134281,
+        "word": "哈尔的移动城堡定档",
+        "onboard_time": 1707116255,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131753,
+        "num": 131753,
+        "word": "易烊千玺黑白丝巾",
+        "onboard_time": 1707111213,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124642,
+        "num": 124642,
+        "word": "三问梅西为何不上场",
+        "onboard_time": 1707113133,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 122546,
+        "word": "刘海很可爱的秘密",
+        "onboard_time": 1707118173,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112327,
+        "num": 112327,
+        "word": "主办方回应梅西缺赛",
+        "onboard_time": 1707102513,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111710,
+        "num": 111710,
+        "word": "犹如老鼠掉进了米缸",
+        "onboard_time": 1707117150,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干让人民群众不断有新的获得感#"
+    }
+  }
+}
