@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707143634667,
+  "endTime": 1707146221582,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -49,6 +49,14 @@
       "onboard_time": 1707130652,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1692878,
+      "num": 547685,
+      "word": "北京地铁追尾事故18人被问责",
+      "onboard_time": 1707142889,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1653579,
@@ -203,6 +211,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1040309,
+      "num": 1040309,
+      "word": "张颂文 上你个头我要过年",
+      "onboard_time": 1707143012,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030248,
       "num": 646662,
       "word": "胡锡进打电话骂说3000点下遍地黄金的发小",
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897511,
+      "num": 897511,
+      "word": "日本小姐冠军承认当小三放弃桂冠",
+      "onboard_time": 1707143491,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 885499,
       "num": 885499,
       "word": "王楚钦粉丝",
@@ -289,14 +313,6 @@
       "onboard_time": 1707124951,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 859951,
-      "num": 547685,
-      "word": "北京地铁追尾事故18人被问责",
-      "onboard_time": 1707142889,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829495,
@@ -811,14 +827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 464067,
-      "num": 464067,
-      "word": "张颂文 上你个头我要过年",
-      "onboard_time": 1707143012,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 448056,
       "num": 355602,
       "word": "老板不在 全部乱卖",
@@ -939,12 +947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401922,
+      "num": 401922,
+      "word": "当一个行业开始赚钱女性就被迫离开",
+      "onboard_time": 1707145054,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401365,
       "num": 341534,
       "word": "当我得知老公曾经是校草",
       "onboard_time": 1707117093,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398213,
+      "num": 398213,
+      "word": "林更新谈和赵丽颖刘亦菲合作",
+      "onboard_time": 1707142471,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 394718,
@@ -961,14 +985,6 @@
       "onboard_time": 1707137073,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 386433,
-      "num": 386433,
-      "word": "林更新谈和赵丽颖刘亦菲合作",
-      "onboard_time": 1707142471,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 382045,
@@ -1083,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320382,
+      "num": 320382,
+      "word": "男子花20万彩礼闪婚仅十多天就离婚",
+      "onboard_time": 1707144275,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318647,
       "num": 318647,
       "word": "分不清哪个是儿子哪个是爹",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1707105393,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284978,
+      "num": 284978,
+      "word": "LOL开播十分钟观众破百万",
+      "onboard_time": 1707145654,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 284687,
@@ -1587,6 +1619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223773,
+      "num": 223773,
+      "word": "吴磊吃到赵今麦的头发",
+      "onboard_time": 1707145654,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222432,
       "num": 222432,
       "word": "王羽佳获格莱美奖",
@@ -1707,12 +1747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209904,
+      "num": 209904,
+      "word": "朱婷谈是否回归国家队",
+      "onboard_time": 1707144275,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209554,
       "num": 209554,
       "word": "哈尔的移动城堡定档",
       "onboard_time": 1707116255,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208884,
+      "num": 201042,
+      "word": "刚刚从冬眠中苏醒的熊",
+      "onboard_time": 1707145654,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 208666,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1707103112,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187491,
+      "num": 187491,
+      "word": "证监会召开走访上市公司工作推进会",
+      "onboard_time": 1707145472,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 187368,
@@ -2491,14 +2555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145120,
-      "num": 145120,
-      "word": "日本小姐冠军承认当小三放弃桂冠",
-      "onboard_time": 1707143491,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144815,
       "num": 144815,
       "word": "钎城龙年迎新岁大片",
@@ -2691,6 +2747,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129910,
+      "num": 129910,
+      "word": "梅干菜扣哆啦A梦",
+      "onboard_time": 1707145950,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 129514,
+      "num": 129514,
+      "word": "射手座认真才会犹豫",
+      "onboard_time": 1707145232,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129064,
       "num": 129064,
       "word": "苏醒用春联回应上春晚",
@@ -2785,6 +2857,14 @@
       "onboard_time": 1707100590,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123922,
+      "num": 123922,
+      "word": "我回老家后的女王待遇",
+      "onboard_time": 1707145531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122546,

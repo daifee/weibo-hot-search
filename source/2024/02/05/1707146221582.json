@@ -1,0 +1,410 @@
+{
+  "runTime": 1707146221582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123415,
+        "num": 1123415,
+        "word": "梅西爽约突破商业底线",
+        "onboard_time": 1707127953,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1040309,
+        "num": 1040309,
+        "word": "张颂文 上你个头我要过年",
+        "onboard_time": 1707143012,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122982,
+        "num": 949497,
+        "word": "央视经典之夜",
+        "onboard_time": 1707139293,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 897511,
+        "num": 897511,
+        "word": "日本小姐冠军承认当小三放弃桂冠",
+        "onboard_time": 1707143491,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889698,
+        "num": 889698,
+        "word": "王豆豆怀孕",
+        "onboard_time": 1707135752,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 638803,
+        "num": 638803,
+        "word": "梅西抵达日本",
+        "onboard_time": 1707141035,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629076,
+        "num": 629076,
+        "word": "程潇 龙女",
+        "onboard_time": 1707141331,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555764,
+        "num": 555764,
+        "word": "车厘子价格跌至每斤20元",
+        "onboard_time": 1707130652,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 434082,
+        "num": 434082,
+        "word": "梅西表演赛主办方撤回1600万港元资助申请",
+        "onboard_time": 1707133830,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401922,
+        "num": 401922,
+        "word": "当一个行业开始赚钱女性就被迫离开",
+        "onboard_time": 1707145054,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1692878,
+        "num": 400498,
+        "word": "北京地铁追尾事故18人被问责",
+        "onboard_time": 1707142889,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042829,
+        "num": 399388,
+        "word": "北京地铁昌平线列车追尾事故调查报告",
+        "onboard_time": 1707142471,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398213,
+        "num": 398213,
+        "word": "林更新谈和赵丽颖刘亦菲合作",
+        "onboard_time": 1707142471,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355006,
+        "num": 355006,
+        "word": "在暴雪时分男三",
+        "onboard_time": 1707139953,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325007,
+        "num": 325007,
+        "word": "专家建议给老百姓每人发1000元",
+        "onboard_time": 1707137670,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 322565,
+        "num": 322565,
+        "word": "王一博与晗晗qvq网络纠纷案审理结果",
+        "onboard_time": 1707139834,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322188,
+        "num": 322188,
+        "word": "李昇基李多寅官宣得女",
+        "onboard_time": 1707142053,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320382,
+        "num": 320382,
+        "word": "男子花20万彩礼闪婚仅十多天就离婚",
+        "onboard_time": 1707144275,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284978,
+        "num": 284978,
+        "word": "LOL开播十分钟观众破百万",
+        "onboard_time": 1707145654,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274908,
+        "num": 274908,
+        "word": "豆瓣崩了",
+        "onboard_time": 1707143373,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 337134,
+        "num": 270997,
+        "word": "瘦脸的最优解是练背",
+        "onboard_time": 1707137190,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 263307,
+        "num": 263307,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1707140911,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224294,
+        "num": 224294,
+        "word": "马思纯晒孙千醉酒照",
+        "onboard_time": 1707141934,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224250,
+        "num": 224250,
+        "word": "211高校毕业女生密室扮鬼",
+        "onboard_time": 1707136712,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223773,
+        "num": 223773,
+        "word": "吴磊吃到赵今麦的头发",
+        "onboard_time": 1707145654,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210574,
+        "num": 210574,
+        "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+        "onboard_time": 1707123511,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 210401,
+        "num": 210401,
+        "word": "卡琳娜cos祁煜",
+        "onboard_time": 1707136653,
+        "rank": 26,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 209904,
+        "num": 209904,
+        "word": "朱婷谈是否回归国家队",
+        "onboard_time": 1707144275,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206014,
+        "num": 206014,
+        "word": "春晚彩排",
+        "onboard_time": 1707142657,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201488,
+        "num": 201488,
+        "word": "澳籍间谍杨军被判死缓",
+        "onboard_time": 1707140133,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208884,
+        "num": 201042,
+        "word": "刚刚从冬眠中苏醒的熊",
+        "onboard_time": 1707145654,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 196418,
+        "num": 196418,
+        "word": "王楚钦粉丝",
+        "onboard_time": 1707133229,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187491,
+        "num": 187491,
+        "word": "证监会召开走访上市公司工作推进会",
+        "onboard_time": 1707145472,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180946,
+        "num": 180946,
+        "word": "范丞丞科目一考了好几次",
+        "onboard_time": 1707124173,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178201,
+        "num": 178201,
+        "word": "刘亦菲刘诗诗合影旧照",
+        "onboard_time": 1707132628,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170723,
+        "num": 170723,
+        "word": "经典之夜 四大名著齐聚",
+        "onboard_time": 1707140071,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169511,
+        "num": 169511,
+        "word": "柿子型人格",
+        "onboard_time": 1707141692,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162994,
+        "num": 162994,
+        "word": "唐鹤德晒与张国荣合照庆生",
+        "onboard_time": 1707131071,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156319,
+        "num": 156319,
+        "word": "梅西方需要给个售后方案",
+        "onboard_time": 1707142534,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154630,
+        "num": 154630,
+        "word": "12306账号为何有陌生人信息",
+        "onboard_time": 1707133410,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142375,
+        "num": 142375,
+        "word": "龙年央视春晚主持人阵容",
+        "onboard_time": 1707121833,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137641,
+        "num": 137641,
+        "word": "哪些人不适合吃车厘子",
+        "onboard_time": 1707135692,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133347,
+        "num": 133347,
+        "word": "湖北暴雪司机被困36小时煮雪融水喝",
+        "onboard_time": 1707122971,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "梅干菜扣哆啦A梦",
+        "onboard_time": 1707145950,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129514,
+        "num": 129514,
+        "word": "射手座认真才会犹豫",
+        "onboard_time": 1707145232,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128843,
+        "num": 128843,
+        "word": "王楚然木槿花发簪",
+        "onboard_time": 1707138691,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127922,
+        "num": 127922,
+        "word": "腐乳在海外爆火",
+        "onboard_time": 1707138932,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125949,
+        "num": 125949,
+        "word": "吴磊赵今麦中戏第一vs北影第一",
+        "onboard_time": 1707121590,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123922,
+        "num": 123922,
+        "word": "我回老家后的女王待遇",
+        "onboard_time": 1707145531,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112515,
+        "num": 112515,
+        "word": "林更新透露与凤行播出时间",
+        "onboard_time": 1707142831,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#良好生态本身蕴含着无穷的经济价值#"
+    }
+  }
+}

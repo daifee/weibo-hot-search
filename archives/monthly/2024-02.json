@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707143634667,
+  "endTime": 1707146221582,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -345,6 +345,14 @@
       "onboard_time": 1706917345,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1692878,
+      "num": 547685,
+      "word": "北京地铁追尾事故18人被问责",
+      "onboard_time": 1707142889,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1685281,
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1040309,
+      "num": 1040309,
+      "word": "张颂文 上你个头我要过年",
+      "onboard_time": 1707143012,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030248,
       "num": 646662,
       "word": "胡锡进打电话骂说3000点下遍地黄金的发小",
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897511,
+      "num": 897511,
+      "word": "日本小姐冠军承认当小三放弃桂冠",
+      "onboard_time": 1707143491,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897328,
       "num": 897328,
       "word": "颖儿付辛博为女儿庆生",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1707028651,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 859951,
-      "num": 547685,
-      "word": "北京地铁追尾事故18人被问责",
-      "onboard_time": 1707142889,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 857732,
@@ -3403,14 +3419,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 464067,
-      "num": 464067,
-      "word": "张颂文 上你个头我要过年",
-      "onboard_time": 1707143012,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -4011,6 +4019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 401922,
+      "num": 401922,
+      "word": "当一个行业开始赚钱女性就被迫离开",
+      "onboard_time": 1707145054,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401365,
       "num": 341534,
       "word": "当我得知老公曾经是校草",
@@ -4041,6 +4057,14 @@
       "onboard_time": 1706750309,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398213,
+      "num": 398213,
+      "word": "林更新谈和赵丽颖刘亦菲合作",
+      "onboard_time": 1707142471,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 397616,
@@ -4193,14 +4217,6 @@
       "onboard_time": 1706850035,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 386433,
-      "num": 386433,
-      "word": "林更新谈和赵丽颖刘亦菲合作",
-      "onboard_time": 1707142471,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 385834,
@@ -4987,6 +5003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320382,
+      "num": 320382,
+      "word": "男子花20万彩礼闪婚仅十多天就离婚",
+      "onboard_time": 1707144275,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319957,
       "num": 319957,
       "word": "周深又穿了半永久春晚羽绒服",
@@ -5537,6 +5561,14 @@
       "onboard_time": 1706868811,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284978,
+      "num": 284978,
+      "word": "LOL开播十分钟观众破百万",
+      "onboard_time": 1707145654,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 284913,
@@ -7123,6 +7155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223773,
+      "num": 223773,
+      "word": "吴磊吃到赵今麦的头发",
+      "onboard_time": 1707145654,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223662,
       "num": 205765,
       "word": "白客 娱乐圈知名Beta",
@@ -7683,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209904,
+      "num": 209904,
+      "word": "朱婷谈是否回归国家队",
+      "onboard_time": 1707144275,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209674,
       "num": 209674,
       "word": "TF家族新年音乐会",
@@ -7705,6 +7753,14 @@
       "onboard_time": 1706932410,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208884,
+      "num": 201042,
+      "word": "刚刚从冬眠中苏醒的熊",
+      "onboard_time": 1707145654,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 208859,
@@ -9145,6 +9201,14 @@
       "onboard_time": 1706746048,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187491,
+      "num": 187491,
+      "word": "证监会召开走访上市公司工作推进会",
+      "onboard_time": 1707145472,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 187368,
@@ -11459,14 +11523,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 145120,
-      "num": 145120,
-      "word": "日本小姐冠军承认当小三放弃桂冠",
-      "onboard_time": 1707143491,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145026,
       "num": 145026,
       "word": "她又多了个用处",
@@ -12483,6 +12539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129910,
+      "num": 129910,
+      "word": "梅干菜扣哆啦A梦",
+      "onboard_time": 1707145950,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129885,
       "num": 157271,
       "word": "互相谦让的两只猫",
@@ -12513,6 +12577,14 @@
       "onboard_time": 1707038132,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 129514,
+      "num": 129514,
+      "word": "射手座认真才会犹豫",
+      "onboard_time": 1707145232,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129240,
@@ -12865,6 +12937,14 @@
       "onboard_time": 1706943750,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123922,
+      "num": 123922,
+      "word": "我回老家后的女王待遇",
+      "onboard_time": 1707145531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123653,
