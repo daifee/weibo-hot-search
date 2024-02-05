@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707089657214,
+  "endTime": 1707095616871,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -81,6 +81,22 @@
       "onboard_time": 1707047612,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1395900,
+      "num": 1395900,
+      "word": "半个娱乐圈都在苏醒的拟邀名单上",
+      "onboard_time": 1707091348,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1391293,
+      "num": 1391293,
+      "word": "因暴雪滞留高速亲历者发声",
+      "onboard_time": 1707079695,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1281722,
@@ -211,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 895282,
-      "num": 895282,
-      "word": "因暴雪滞留高速亲历者发声",
-      "onboard_time": 1707079695,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 895170,
       "num": 895170,
       "word": "领导三年压力走了13个人",
@@ -273,6 +281,14 @@
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 829495,
+      "num": 829495,
+      "word": "12306回应一些车次为何开售即秒光",
+      "onboard_time": 1707090567,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810263,
@@ -347,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 717284,
+      "num": 717284,
+      "word": "格莱美红毯",
+      "onboard_time": 1707088582,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 704391,
       "num": 704391,
       "word": "多地中小学教师被要求寒假期间值班",
@@ -355,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696492,
+      "num": 535930,
+      "word": "霍启刚要求梅西与迈阿密道歉",
+      "onboard_time": 1707095132,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 672932,
       "num": 598773,
       "word": "李如平去世",
       "onboard_time": 1707044312,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 671258,
+      "num": 671258,
+      "word": "日本一海滩被大量沙丁鱼骨掩埋",
+      "onboard_time": 1707090327,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 670138,
@@ -403,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646659,
+      "num": 646659,
+      "word": "全程还原奔驰男下车后1分钟",
+      "onboard_time": 1707089722,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635810,
       "num": 635810,
       "word": "湖北暴雪",
@@ -417,6 +465,14 @@
       "onboard_time": 1707020790,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 632181,
+      "num": 632181,
+      "word": "梅西赛后拒绝领奖发言",
+      "onboard_time": 1707088762,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 621455,
@@ -499,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 557576,
+      "num": 557576,
+      "word": "英国王室辟谣凯特王妃陷入昏迷",
+      "onboard_time": 1707093391,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 557293,
       "num": 557293,
       "word": "当儿子决定穿裙子上学",
@@ -537,6 +601,22 @@
       "onboard_time": 1707046172,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 536006,
+      "num": 536006,
+      "word": "春运买短乘长可能被请下车",
+      "onboard_time": 1707092130,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530301,
+      "num": 530301,
+      "word": "上海下雪",
+      "onboard_time": 1707093569,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515788,
@@ -596,7 +676,7 @@
     },
     {
       "raw_hot": 490072,
-      "num": 165974,
+      "num": 234500,
       "word": "乘客下单叫到66.6公里外网约车",
       "onboard_time": 1707083896,
       "rank": 18,
@@ -705,6 +785,14 @@
       "onboard_time": 1707001278,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424574,
+      "num": 424574,
+      "word": "高速瘫痪被堵乘客捡木柴烧火取暖",
+      "onboard_time": 1707090266,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424182,
@@ -825,6 +913,14 @@
       "onboard_time": 1706969556,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395022,
+      "num": 395022,
+      "word": "杨紫说豆豆有点小绿茶",
+      "onboard_time": 1707091887,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 394106,
@@ -1001,6 +1097,14 @@
       "onboard_time": 1707005908,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327834,
+      "num": 327834,
+      "word": "韩国老师教中国留学生出师表",
+      "onboard_time": 1707093087,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 323313,
@@ -1299,6 +1403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 255882,
+      "num": 255882,
+      "word": "真实暧昧又尴尬",
+      "onboard_time": 1707067462,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255403,
       "num": 255403,
       "word": "御赐小仵作2备案",
@@ -1307,20 +1419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252590,
-      "num": 252590,
-      "word": "梅西赛后拒绝领奖发言",
-      "onboard_time": 1707088762,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
       "onboard_time": 1707038253,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251041,
+      "num": 251041,
+      "word": "马丽赵丽颖高叶同框合影",
+      "onboard_time": 1707091527,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 250592,
@@ -1521,6 +1633,14 @@
       "onboard_time": 1707055599,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 225043,
+      "num": 225043,
+      "word": "霉霉Karma掉了",
+      "onboard_time": 1707091469,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 224001,
@@ -1875,6 +1995,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 196300,
+      "num": 196300,
+      "word": "格莱美颁奖礼",
+      "onboard_time": 1707095370,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195853,
       "num": 195853,
       "word": "VG零封Hero",
@@ -1891,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195138,
-      "num": 195138,
-      "word": "真实暧昧又尴尬",
-      "onboard_time": 1707067462,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194650,
       "num": 194650,
       "word": "双硫仑样反应",
@@ -1913,6 +2033,14 @@
       "onboard_time": 1707017011,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193798,
+      "num": 193798,
+      "word": "格莱美直播",
+      "onboard_time": 1707090327,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 193791,
@@ -1945,6 +2073,14 @@
       "onboard_time": 1707044070,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192651,
+      "num": 192651,
+      "word": "卫生间窗户一夜未关积雪堆成雪山",
+      "onboard_time": 1707092247,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192309,
@@ -2044,7 +2180,7 @@
     },
     {
       "raw_hot": 183820,
-      "num": 122494,
+      "num": 128752,
       "word": "初代网红奶茶倒闭潮",
       "onboard_time": 1707065186,
       "rank": 22,
@@ -2187,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166320,
+      "num": 166320,
+      "word": "突然就学会化妆了",
+      "onboard_time": 1707089244,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166034,
       "num": 166034,
       "word": "林亦扬殷果冰箱吻",
@@ -2249,14 +2393,6 @@
       "onboard_time": 1706965771,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161480,
-      "num": 161480,
-      "word": "格莱美红毯",
-      "onboard_time": 1707088582,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 160747,
@@ -2363,6 +2499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "肖战Vlog",
+      "onboard_time": 1707093328,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152191,
       "num": 152191,
       "word": "王嘉尔导师秀",
@@ -2451,6 +2595,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148157,
+      "num": 148157,
+      "word": "打雷姐 0中",
+      "onboard_time": 1707091045,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 147358,
+      "num": 147358,
+      "word": "吃了这些药谁劝都别喝酒",
+      "onboard_time": 1707094955,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146809,
       "num": 146809,
       "word": "红黄蓝可以调出这么多颜色",
@@ -2513,6 +2673,14 @@
       "onboard_time": 1707046351,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141538,
+      "num": 1099722,
+      "word": "又被中式美学惊艳了",
+      "onboard_time": 1707050735,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140958,
@@ -2667,6 +2835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132707,
+      "num": 132707,
+      "word": "每周步行90分钟可显著降低死亡率",
+      "onboard_time": 1707092848,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132515,
       "num": 409630,
       "word": "霸王茶姬杯子寓意",
@@ -2689,6 +2865,14 @@
       "onboard_time": 1707035131,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131774,
+      "num": 131774,
+      "word": "张凯毅 讨债4部曲",
+      "onboard_time": 1707093690,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 131671,
@@ -2771,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125982,
+      "num": 125982,
+      "word": "胆囊癌的4个危险因素",
+      "onboard_time": 1707093212,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124981,
       "num": 124981,
       "word": "Scout的沙皇",
@@ -2827,6 +3019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121755,
+      "num": 121755,
+      "word": "拔掉白头发长出来的还是白头发",
+      "onboard_time": 1707089122,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121734,
       "num": 121734,
       "word": "十二生肖仿妆",
@@ -2867,6 +3067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118162,
+      "num": 118162,
+      "word": "苏醒放弃进军TVB的原因",
+      "onboard_time": 1707095309,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "一起迎立春",
@@ -2881,6 +3089,22 @@
       "onboard_time": 1707033449,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117314,
+      "num": 117314,
+      "word": "iOS17.4正式版",
+      "onboard_time": 1707091167,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 117000,
+      "num": 117000,
+      "word": "IU或将与HYEIN合作",
+      "onboard_time": 1707090145,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 115042,
@@ -2987,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108036,
+      "num": 108036,
+      "word": "加塞捶车事件背后的隐秘身影",
+      "onboard_time": 1707095550,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107734,
       "num": 137930,
       "word": "终于理解我妈了",
@@ -3001,6 +3233,14 @@
       "onboard_time": 1707031831,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106973,
+      "num": 106973,
+      "word": "梅西没出场比赛或扣减1600万赞助",
+      "onboard_time": 1707089244,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 106300,
@@ -3211,14 +3451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69510,
-      "num": 69510,
-      "word": "梅西没出场比赛或扣减1600万赞助",
-      "onboard_time": 1707089244,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68782,
       "num": 121919,
       "word": "宝宝不唱儿歌过渡一下吗",
@@ -3281,22 +3513,6 @@
       "onboard_time": 1707085816,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65603,
-      "num": 65603,
-      "word": "突然就学会化妆了",
-      "onboard_time": 1707089244,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 65578,
-      "num": 65578,
-      "word": "拔掉白头发长出来的还是白头发",
-      "onboard_time": 1707089122,
-      "rank": 40,
-      "category": "美妆"
     },
     {
       "raw_hot": 64336,
