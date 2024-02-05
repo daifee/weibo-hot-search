@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707150059046,
+  "endTime": 1707150939425,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -3075,6 +3075,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 504027,
+      "num": 185737,
+      "word": "从脂肪肝到肝癌只需四步",
+      "onboard_time": 1707149068,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 503730,
       "num": 503730,
       "word": "赵今麦 真甜妹来了",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1706932769,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 366791,
-      "num": 185737,
-      "word": "从脂肪肝到肝癌只需四步",
-      "onboard_time": 1707149068,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 366187,
@@ -10595,6 +10595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163454,
+      "num": 163454,
+      "word": "张雨绮用蚌壳当手包",
+      "onboard_time": 1707149010,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163314,
       "num": 163314,
       "word": "i人变e真的很有自由感",
@@ -10737,14 +10745,6 @@
       "onboard_time": 1707026791,
       "rank": 35,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 160469,
-      "num": 160469,
-      "word": "张雨绮用蚌壳当手包",
-      "onboard_time": 1707149010,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160427,

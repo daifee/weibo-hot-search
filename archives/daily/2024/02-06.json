@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707150059046,
+  "endTime": 1707150939425,
   "band_list": [
     {
       "raw_hot": 1205014,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504027,
+      "num": 185737,
+      "word": "从脂肪肝到肝癌只需四步",
+      "onboard_time": 1707149068,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 455618,
       "num": 455618,
       "word": "车厘子价格跌至每斤20元",
@@ -99,14 +107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366791,
-      "num": 185737,
-      "word": "从脂肪肝到肝癌只需四步",
-      "onboard_time": 1707149068,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 329092,
       "num": 179669,
       "word": "强制自己早睡的办法",
@@ -139,8 +139,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 244352,
-      "num": 244352,
+      "raw_hot": 246951,
+      "num": 246951,
       "word": "李昇基李多寅官宣得女",
       "onboard_time": 1707142053,
       "rank": 15,
@@ -179,20 +179,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163454,
+      "num": 163454,
+      "word": "张雨绮用蚌壳当手包",
+      "onboard_time": 1707149010,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163342,
       "num": 163342,
       "word": "卡琳娜cos祁煜",
       "onboard_time": 1707136653,
       "rank": 23,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 160469,
-      "num": 160469,
-      "word": "张雨绮用蚌壳当手包",
-      "onboard_time": 1707149010,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138942,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118061,
+      "num": 118061,
+      "word": "豆瓣崩了",
+      "onboard_time": 1707143373,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115894,
       "num": 115894,
       "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
@@ -273,14 +281,6 @@
       "onboard_time": 1707140133,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113398,
-      "num": 113398,
-      "word": "豆瓣崩了",
-      "onboard_time": 1707143373,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 113037,
@@ -377,6 +377,14 @@
       "onboard_time": 1707146492,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75652,
+      "num": 75652,
+      "word": "霍启刚要求梅西与迈阿密道歉",
+      "onboard_time": 1707095132,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 75456,
