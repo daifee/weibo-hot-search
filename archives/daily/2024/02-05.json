@@ -1,6 +1,6 @@
 {
   "startTime": 1707063579351,
-  "endTime": 1707125663345,
+  "endTime": 1707128389324,
   "band_list": [
     {
       "raw_hot": 3396012,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224599,
+      "num": 1224599,
+      "word": "湖北暴雪司机被困36小时煮雪融水喝",
+      "onboard_time": 1707122971,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1148220,
       "num": 1148220,
       "word": "龙年央视春晚主持人阵容",
@@ -131,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1088077,
+      "num": 1088077,
+      "word": "双北 春晚",
+      "onboard_time": 1707125012,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1061808,
       "num": 1061808,
       "word": "合肥南站D4832列车晚点744分钟",
@@ -147,12 +163,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 978182,
+      "num": 646662,
+      "word": "胡锡进打电话骂说3000点下遍地黄金的发小",
+      "onboard_time": 1707126454,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 959911,
       "num": 959911,
       "word": "A股千股跌停",
       "onboard_time": 1707099931,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 957512,
+      "num": 957512,
+      "word": "范丞丞科目一考了好几次",
+      "onboard_time": 1707124173,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 949146,
@@ -171,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 894206,
-      "num": 894206,
-      "word": "湖北暴雪司机被困36小时煮雪融水喝",
-      "onboard_time": 1707122971,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 872163,
       "num": 872163,
       "word": "酱园弄 章子怡",
@@ -187,12 +211,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 866408,
-      "num": 866408,
-      "word": "范丞丞科目一考了好几次",
-      "onboard_time": 1707124173,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 872029,
+      "num": 872029,
+      "word": "周也周氏集团新闻发布会",
+      "onboard_time": 1707124951,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 829495,
@@ -315,6 +339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 649507,
+      "num": 649507,
+      "word": "做美甲",
+      "onboard_time": 1707126389,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 646659,
       "num": 646659,
       "word": "全程还原奔驰男下车后1分钟",
@@ -387,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 578797,
+      "num": 578797,
+      "word": "四川山洪致6死46失联127人被问责",
+      "onboard_time": 1707126811,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577080,
       "num": 461049,
       "word": "胡锡进称普通散户股民是无辜的",
@@ -449,6 +489,14 @@
       "onboard_time": 1707105454,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 537214,
+      "num": 537214,
+      "word": "梅西离开香港",
+      "onboard_time": 1707126873,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 530301,
@@ -747,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348741,
+      "num": 348741,
+      "word": "种地吧",
+      "onboard_time": 1707120630,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341773,
       "num": 341773,
       "word": "证监会发声让造假者倾家荡产牢底坐穿",
@@ -777,30 +833,6 @@
       "onboard_time": 1707110971,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321808,
-      "num": 321808,
-      "word": "周也周氏集团新闻发布会",
-      "onboard_time": 1707124951,
-      "rank": 15,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 320703,
-      "num": 320703,
-      "word": "双北 春晚",
-      "onboard_time": 1707125012,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 317013,
-      "num": 317013,
-      "word": "种地吧",
-      "onboard_time": 1707120630,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 314946,
@@ -899,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281426,
+      "num": 281426,
+      "word": "徐明浩 青环8导",
+      "onboard_time": 1707125193,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280814,
       "num": 280814,
       "word": "安琪拉大招 水龙头",
@@ -987,6 +1027,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252292,
+      "num": 1117933,
+      "word": "港人最爱的广东年货竟是它",
+      "onboard_time": 1707126632,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 251161,
+      "num": 251161,
+      "word": "王者荣耀时代少年团直播官宣",
+      "onboard_time": 1707126632,
+      "rank": 23,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 251041,
       "num": 251041,
       "word": "马丽赵丽颖高叶同框合影",
@@ -1019,20 +1075,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 247944,
-      "num": 247944,
-      "word": "徐明浩 青环8导",
-      "onboard_time": 1707125193,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247226,
       "num": 247226,
       "word": "妇联回应女子疑被丈夫用酒点燃烧伤",
       "onboard_time": 1707108571,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243723,
+      "num": 243723,
+      "word": "分不清哪个是儿子哪个是爹",
+      "onboard_time": 1707127589,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 242391,
@@ -1091,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235603,
+      "num": 217308,
+      "word": "梅西爽约突破商业底线",
+      "onboard_time": 1707127953,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235352,
       "num": 235352,
       "word": "陈芋汐晋级",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1707115532,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225693,
+      "num": 225693,
+      "word": "湖北高速",
+      "onboard_time": 1707127291,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225043,
@@ -1209,6 +1281,22 @@
       "onboard_time": 1707076877,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214569,
+      "num": 214569,
+      "word": "王源TF家族大合照黑裤子是P的",
+      "onboard_time": 1707128310,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214523,
+      "num": 214523,
+      "word": "美甲建构",
+      "onboard_time": 1707127891,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 214000,
@@ -1611,12 +1699,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169314,
+      "num": 169314,
+      "word": "Vision Pro",
+      "onboard_time": 1707127291,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 168739,
+      "num": 168739,
+      "word": "种地吧2预约破50万",
+      "onboard_time": 1707128310,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168468,
       "num": 168468,
       "word": "春节美甲部分店铺限制团购",
       "onboard_time": 1707124290,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166754,
+      "num": 166754,
+      "word": "全红婵半决赛第二晋级",
+      "onboard_time": 1707126272,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 166525,
@@ -1684,7 +1796,7 @@
     },
     {
       "raw_hot": 159448,
-      "num": 939009,
+      "num": 1092950,
       "word": "春节假期安全提示来了",
       "onboard_time": 1707119068,
       "rank": 2,
@@ -1715,12 +1827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156192,
+      "num": 973174,
+      "word": "雪中丁达尔效应宛如魔法结界",
+      "onboard_time": 1707126632,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154487,
       "num": 154487,
       "word": "王力宏名誉维权案件进展",
       "onboard_time": 1707112414,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153611,
+      "num": 153611,
+      "word": "阅文IP盛典红毯",
+      "onboard_time": 1707125731,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 151468,
@@ -2043,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118795,
+      "num": 880089,
+      "word": "有姥爷在的世界我就是最好的小孩",
+      "onboard_time": 1707126632,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "瑶真我赫兹第二张海报",
@@ -2219,6 +2355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69329,
+      "num": 171189,
+      "word": "淘宝今日起发10亿春节红包",
+      "onboard_time": 1707123033,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66774,
       "num": 66774,
       "word": "新娘 跳吧谁跳得过你们啊",
@@ -2241,6 +2385,14 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52260,
+      "num": 209641,
+      "word": "元pl奥特曼团建",
+      "onboard_time": 1707128188,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 51428,

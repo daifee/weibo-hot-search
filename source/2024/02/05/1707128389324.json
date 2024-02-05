@@ -1,0 +1,410 @@
+{
+  "runTime": 1707128389324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224599,
+        "num": 1224599,
+        "word": "湖北暴雪司机被困36小时煮雪融水喝",
+        "onboard_time": 1707122971,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 252292,
+        "num": 1117933,
+        "word": "港人最爱的广东年货竟是它",
+        "onboard_time": 1707126632,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59339,
+        "num": 1092950,
+        "word": "春节假期安全提示来了",
+        "onboard_time": 1707119068,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088077,
+        "num": 1088077,
+        "word": "双北 春晚",
+        "onboard_time": 1707125012,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156192,
+        "num": 973174,
+        "word": "雪中丁达尔效应宛如魔法结界",
+        "onboard_time": 1707126632,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 957512,
+        "num": 957512,
+        "word": "范丞丞科目一考了好几次",
+        "onboard_time": 1707124173,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118795,
+        "num": 880089,
+        "word": "有姥爷在的世界我就是最好的小孩",
+        "onboard_time": 1707126632,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 872029,
+        "num": 872029,
+        "word": "周也周氏集团新闻发布会",
+        "onboard_time": 1707124951,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 802609,
+        "num": 802609,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649507,
+        "num": 649507,
+        "word": "做美甲",
+        "onboard_time": 1707126389,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 978182,
+        "num": 646662,
+        "word": "胡锡进打电话骂说3000点下遍地黄金的发小",
+        "onboard_time": 1707126454,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 628433,
+        "num": 628433,
+        "word": "龙年央视春晚主持人阵容",
+        "onboard_time": 1707121833,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613682,
+        "num": 613682,
+        "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
+        "onboard_time": 1707123511,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 578797,
+        "num": 578797,
+        "word": "四川山洪致6死46失联127人被问责",
+        "onboard_time": 1707126811,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542527,
+        "num": 542527,
+        "word": "霍建华李凯馨亲密合照",
+        "onboard_time": 1707112470,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537214,
+        "num": 537214,
+        "word": "梅西离开香港",
+        "onboard_time": 1707126873,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440254,
+        "num": 440254,
+        "word": "周深演了杨幂的男主角",
+        "onboard_time": 1707121112,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372021,
+        "num": 372021,
+        "word": "张天爱 神经病",
+        "onboard_time": 1707103171,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348741,
+        "num": 348741,
+        "word": "种地吧",
+        "onboard_time": 1707120630,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336757,
+        "num": 336757,
+        "word": "A股三大股指全部翻红",
+        "onboard_time": 1707114511,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312468,
+        "num": 312468,
+        "word": "田惠宇一审被判死缓",
+        "onboard_time": 1707124353,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281426,
+        "num": 281426,
+        "word": "徐明浩 青环8导",
+        "onboard_time": 1707125193,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258089,
+        "num": 258089,
+        "word": "香港文旅局称主办方确认梅西可以出场",
+        "onboard_time": 1707110971,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251161,
+        "num": 251161,
+        "word": "王者荣耀时代少年团直播官宣",
+        "onboard_time": 1707126632,
+        "rank": 23,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 243723,
+        "num": 243723,
+        "word": "分不清哪个是儿子哪个是爹",
+        "onboard_time": 1707127589,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238664,
+        "num": 238664,
+        "word": "虞姬典藏 精致土",
+        "onboard_time": 1707120573,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230439,
+        "num": 230439,
+        "word": "教育局回应教务处老师被曝性骚扰女生",
+        "onboard_time": 1707121292,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225693,
+        "num": 225693,
+        "word": "湖北高速",
+        "onboard_time": 1707127291,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217969,
+        "num": 217969,
+        "word": "谁给张婧仪化的妆",
+        "onboard_time": 1707114151,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52588,
+        "num": 217312,
+        "word": "主办方回应梅西缺赛",
+        "onboard_time": 1707102513,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235603,
+        "num": 217308,
+        "word": "梅西爽约突破商业底线",
+        "onboard_time": 1707127953,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217296,
+        "num": 217296,
+        "word": "胡锡进称时光能倒流现在肯定不投资股市",
+        "onboard_time": 1707125012,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214569,
+        "num": 214569,
+        "word": "王源TF家族大合照黑裤子是P的",
+        "onboard_time": 1707128310,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214523,
+        "num": 214523,
+        "word": "美甲建构",
+        "onboard_time": 1707127891,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 52260,
+        "num": 209641,
+        "word": "元pl奥特曼团建",
+        "onboard_time": 1707128188,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206560,
+        "num": 206560,
+        "word": "酱园弄 章子怡",
+        "onboard_time": 1707109773,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195434,
+        "num": 195434,
+        "word": "孙志刚被开除党籍",
+        "onboard_time": 1707123273,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188845,
+        "num": 188845,
+        "word": "作家谌容去世",
+        "onboard_time": 1707124891,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 176136,
+        "num": 176136,
+        "word": "吴磊赵今麦中戏第一vs北影第一",
+        "onboard_time": 1707121590,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69329,
+        "num": 171189,
+        "word": "淘宝今日起发10亿春节红包",
+        "onboard_time": 1707123033,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169314,
+        "num": 169314,
+        "word": "Vision Pro",
+        "onboard_time": 1707127291,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168739,
+        "num": 168739,
+        "word": "种地吧2预约破50万",
+        "onboard_time": 1707128310,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166754,
+        "num": 166754,
+        "word": "全红婵半决赛第二晋级",
+        "onboard_time": 1707126272,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163997,
+        "num": 163997,
+        "word": "杨紫遭换角色反被说不知好歹",
+        "onboard_time": 1707113673,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157460,
+        "num": 157460,
+        "word": "谁在消费3000元的美甲",
+        "onboard_time": 1707118529,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153611,
+        "num": 153611,
+        "word": "阅文IP盛典红毯",
+        "onboard_time": 1707125731,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 152463,
+        "num": 152463,
+        "word": "吴磊王星越情头",
+        "onboard_time": 1707123511,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145532,
+        "num": 145532,
+        "word": "Letme想卸任RNG教练",
+        "onboard_time": 1707120212,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147633,
+        "num": 145417,
+        "word": "杨紫爸爸 童星是枷锁也是沼泽",
+        "onboard_time": 1707117630,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143833,
+        "num": 143833,
+        "word": "梅西",
+        "onboard_time": 1707110971,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#良好生态本身蕴含着无穷的经济价值#"
+    }
+  }
+}

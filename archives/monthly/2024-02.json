@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707125663345,
+  "endTime": 1707128389324,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224599,
+      "num": 1224599,
+      "word": "湖北暴雪司机被困36小时煮雪融水喝",
+      "onboard_time": 1707122971,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1216113,
       "num": 1216113,
       "word": "12306回应无座票去一等座",
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088077,
+      "num": 1088077,
+      "word": "双北 春晚",
+      "onboard_time": 1707125012,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1086721,
       "num": 1086721,
       "word": "皓衣行",
@@ -1019,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978182,
+      "num": 646662,
+      "word": "胡锡进打电话骂说3000点下遍地黄金的发小",
+      "onboard_time": 1707126454,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 976345,
       "num": 976345,
       "word": "2024中央一号文件公布",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1706834971,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 957512,
+      "num": 957512,
+      "word": "范丞丞科目一考了好几次",
+      "onboard_time": 1707124173,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 956046,
@@ -1171,14 +1203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 894206,
-      "num": 894206,
-      "word": "湖北暴雪司机被困36小时煮雪融水喝",
-      "onboard_time": 1707122971,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 887130,
       "num": 887130,
       "word": "上交所 外卖",
@@ -1219,20 +1243,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 872029,
+      "num": 872029,
+      "word": "周也周氏集团新闻发布会",
+      "onboard_time": 1707124951,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 868487,
       "num": 868487,
       "word": "肖战演讲",
       "onboard_time": 1706969556,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 866408,
-      "num": 866408,
-      "word": "范丞丞科目一考了好几次",
-      "onboard_time": 1707124173,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 864091,
@@ -1963,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649507,
+      "num": 649507,
+      "word": "做美甲",
+      "onboard_time": 1707126389,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 648669,
       "num": 648669,
       "word": "刘暖曦再审申请被法院驳回",
@@ -2347,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578797,
+      "num": 578797,
+      "word": "四川山洪致6死46失联127人被问责",
+      "onboard_time": 1707126811,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577098,
       "num": 577098,
       "word": "宋伊人圈内人缘",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1706792373,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537214,
+      "num": 537214,
+      "word": "梅西离开香港",
+      "onboard_time": 1707126873,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 536666,
@@ -4387,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348741,
+      "num": 348741,
+      "word": "种地吧",
+      "onboard_time": 1707120630,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347808,
       "num": 338628,
       "word": "TWICE not in",
@@ -4683,22 +4739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321808,
-      "num": 321808,
-      "word": "周也周氏集团新闻发布会",
-      "onboard_time": 1707124951,
-      "rank": 15,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 320703,
-      "num": 320703,
-      "word": "双北 春晚",
-      "onboard_time": 1707125012,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319957,
       "num": 319957,
       "word": "周深又穿了半永久春晚羽绒服",
@@ -4753,14 +4793,6 @@
       "onboard_time": 1707005009,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317013,
-      "num": 317013,
-      "word": "种地吧",
-      "onboard_time": 1707120630,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 316572,
@@ -5297,6 +5329,14 @@
       "onboard_time": 1707048213,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281426,
+      "num": 281426,
+      "word": "徐明浩 青环8导",
+      "onboard_time": 1707125193,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 281186,
@@ -5907,12 +5947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252292,
+      "num": 1117933,
+      "word": "港人最爱的广东年货竟是它",
+      "onboard_time": 1707126632,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
       "onboard_time": 1707038253,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251161,
+      "num": 251161,
+      "word": "王者荣耀时代少年团直播官宣",
+      "onboard_time": 1707126632,
+      "rank": 23,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 251041,
@@ -5993,14 +6049,6 @@
       "onboard_time": 1706779230,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 247944,
-      "num": 247944,
-      "word": "徐明浩 青环8导",
-      "onboard_time": 1707125193,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 247404,
@@ -6088,6 +6136,14 @@
       "word": "郎朗兑现58岁建筑工人钢琴之约",
       "onboard_time": 1706756428,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243723,
+      "num": 243723,
+      "word": "分不清哪个是儿子哪个是爹",
+      "onboard_time": 1707127589,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -6321,6 +6377,14 @@
       "onboard_time": 1706780370,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235603,
+      "num": 217308,
+      "word": "梅西爽约突破商业底线",
+      "onboard_time": 1707127953,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 235434,
@@ -6593,6 +6657,14 @@
       "onboard_time": 1706933011,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225693,
+      "num": 225693,
+      "word": "湖北高速",
+      "onboard_time": 1707127291,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225432,
@@ -7073,6 +7145,22 @@
       "onboard_time": 1706948850,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214569,
+      "num": 214569,
+      "word": "王源TF家族大合照黑裤子是P的",
+      "onboard_time": 1707128310,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214523,
+      "num": 214523,
+      "word": "美甲建构",
+      "onboard_time": 1707127891,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 214000,
@@ -9515,6 +9603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169314,
+      "num": 169314,
+      "word": "Vision Pro",
+      "onboard_time": 1707127291,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169197,
       "num": 165483,
       "word": "冯巩相声",
@@ -9529,6 +9625,14 @@
       "onboard_time": 1706936011,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168739,
+      "num": 168739,
+      "word": "种地吧2预约破50万",
+      "onboard_time": 1707128310,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 168468,
@@ -9609,6 +9713,14 @@
       "onboard_time": 1706869473,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166754,
+      "num": 166754,
+      "word": "全红婵半决赛第二晋级",
+      "onboard_time": 1707126272,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 166749,
@@ -10020,7 +10132,7 @@
     },
     {
       "raw_hot": 159448,
-      "num": 939009,
+      "num": 1092950,
       "word": "春节假期安全提示来了",
       "onboard_time": 1707119068,
       "rank": 2,
@@ -10161,6 +10273,14 @@
       "onboard_time": 1707048333,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156192,
+      "num": 973174,
+      "word": "雪中丁达尔效应宛如魔法结界",
+      "onboard_time": 1707126632,
+      "rank": 4,
+      "category": "旅游"
     },
     {
       "raw_hot": 155727,
@@ -10305,6 +10425,14 @@
       "onboard_time": 1706868092,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153611,
+      "num": 153611,
+      "word": "阅文IP盛典红毯",
+      "onboard_time": 1707125731,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 153382,
@@ -12307,6 +12435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118795,
+      "num": 880089,
+      "word": "有姥爷在的世界我就是最好的小孩",
+      "onboard_time": 1707126632,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118619,
       "num": 118619,
       "word": "报复性弥补童年",
@@ -13539,6 +13675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69329,
+      "num": 171189,
+      "word": "淘宝今日起发10亿春节红包",
+      "onboard_time": 1707123033,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69243,
       "num": 76164,
       "word": "模仿高至霆做饭图",
@@ -13697,6 +13841,14 @@
       "onboard_time": 1706998336,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52260,
+      "num": 209641,
+      "word": "元pl奥特曼团建",
+      "onboard_time": 1707128188,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 52171,
