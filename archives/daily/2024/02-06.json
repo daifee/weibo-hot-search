@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707228969327,
+  "endTime": 1707230034070,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -33,6 +33,14 @@
       "onboard_time": 1707191912,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2204078,
+      "num": 2204078,
+      "word": "车厘子吃多了身体会怎么样",
+      "onboard_time": 1707227189,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 2095955,
@@ -81,14 +89,6 @@
       "onboard_time": 1707182190,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1519599,
-      "num": 1519599,
-      "word": "车厘子吃多了身体会怎么样",
-      "onboard_time": 1707227189,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1464648,
@@ -523,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641529,
+      "num": 641529,
+      "word": "刀片嗓喉咙肿一查全阴性",
+      "onboard_time": 1707225631,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 626566,
       "num": 626566,
       "word": "春晚姓甄的小心点",
       "onboard_time": 1707204511,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 622085,
-      "num": 622085,
-      "word": "刀片嗓喉咙肿一查全阴性",
-      "onboard_time": 1707225631,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 611709,
@@ -627,6 +627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 535457,
+      "num": 535457,
+      "word": "打工多少年能买这床被子",
+      "onboard_time": 1707226415,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 527644,
       "num": 982601,
       "word": "河南村民挨个敲窗给滞留乘客送热面",
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498443,
+      "num": 498443,
+      "word": "诛仙1央六收视破3登顶",
+      "onboard_time": 1707229354,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 496751,
       "num": 496751,
       "word": "外卖小哥给老人送餐发现是自己的团年饭",
@@ -673,14 +689,6 @@
       "onboard_time": 1707187051,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 483896,
-      "num": 483896,
-      "word": "打工多少年能买这床被子",
-      "onboard_time": 1707226415,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 481350,
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418361,
+      "num": 418361,
+      "word": "故宫门票",
+      "onboard_time": 1707226772,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 407044,
       "num": 407044,
       "word": "papi酱 百元礼物互换",
@@ -865,14 +881,6 @@
       "onboard_time": 1707212250,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375813,
-      "num": 375813,
-      "word": "故宫门票",
-      "onboard_time": 1707226772,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 373127,
@@ -1115,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272349,
+      "num": 254200,
+      "word": "家里开洗浴中心是什么体验",
+      "onboard_time": 1707228513,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271384,
       "num": 271384,
       "word": "billkin抢票",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1707211950,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 264832,
+      "num": 264832,
+      "word": "大司马芜湖政协委员资格被撤",
+      "onboard_time": 1707228933,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 264384,
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242693,
+      "num": 242693,
+      "word": "要久久刀",
+      "onboard_time": 1707228156,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241105,
       "num": 241105,
       "word": "毛不易今年上春晚也没告诉爸爸",
@@ -1275,12 +1307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236456,
+      "num": 236456,
+      "word": "钎城的鲁班大师太牛了",
+      "onboard_time": 1707228933,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "梅西人形广告牌被踢掉脑袋",
       "onboard_time": 1707190350,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235248,
+      "num": 235248,
+      "word": "周也林一含花吻",
+      "onboard_time": 1707228213,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 233273,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1707214772,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225795,
-      "num": 225795,
-      "word": "周也林一含花吻",
-      "onboard_time": 1707228213,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 225596,
@@ -1451,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216569,
+      "num": 216569,
+      "word": "不要忘记了普通人的生活",
+      "onboard_time": 1707229472,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216409,
       "num": 216409,
       "word": "白鹿白月梵星新妆",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1707221851,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215038,
+      "num": 215038,
+      "word": "Fly歌单",
+      "onboard_time": 1707228694,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 214622,
@@ -1515,12 +1571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209619,
-      "num": 209619,
-      "word": "要久久刀",
-      "onboard_time": 1707228156,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 209378,
+      "num": 209378,
+      "word": "白敬亭旧照",
+      "onboard_time": 1707229292,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 208418,
@@ -1617,14 +1673,6 @@
       "onboard_time": 1707189449,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202133,
-      "num": 202133,
-      "word": "家里开洗浴中心是什么体验",
-      "onboard_time": 1707228513,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 201939,
@@ -1755,14 +1803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188029,
-      "num": 188029,
-      "word": "Fly歌单",
-      "onboard_time": 1707228694,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185569,
       "num": 185569,
       "word": "胡锡进回血了百分之三点几",
@@ -1803,12 +1843,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182836,
+      "num": 182836,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182455,
       "num": 182455,
       "word": "关晓彤代言的天然呆再被强执",
       "onboard_time": 1707190472,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181933,
+      "num": 181933,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1707229955,
+      "rank": 43,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 180659,
@@ -2315,28 +2371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135288,
-      "num": 135288,
-      "word": "大司马芜湖政协委员资格被撤",
-      "onboard_time": 1707228933,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134667,
       "num": 134667,
       "word": "我过年真实想法",
       "onboard_time": 1707214592,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134326,
-      "num": 134326,
-      "word": "钎城的鲁班大师太牛了",
-      "onboard_time": 1707228933,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 134241,
@@ -2929,6 +2969,14 @@
       "onboard_time": 1707203792,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36127,
+      "num": 292913,
+      "word": "时代少年团试玩王者龙限皮肤",
+      "onboard_time": 1707229655,
+      "rank": 25,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 35543,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707228969327,
+  "endTime": 1707230034070,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -89,6 +89,14 @@
       "onboard_time": 1707103171,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2204078,
+      "num": 2204078,
+      "word": "车厘子吃多了身体会怎么样",
+      "onboard_time": 1707227189,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 2173930,
@@ -225,14 +233,6 @@
       "onboard_time": 1707182190,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1519599,
-      "num": 1519599,
-      "word": "车厘子吃多了身体会怎么样",
-      "onboard_time": 1707227189,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1509896,
@@ -1371,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641529,
+      "num": 641529,
+      "word": "刀片嗓喉咙肿一查全阴性",
+      "onboard_time": 1707225631,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 639593,
       "num": 639593,
       "word": "马斯克被曝与特斯拉董事一起吸毒",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1707204511,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 622085,
-      "num": 622085,
-      "word": "刀片嗓喉咙肿一查全阴性",
-      "onboard_time": 1707225631,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 621455,
@@ -1755,6 +1755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 535457,
+      "num": 535457,
+      "word": "打工多少年能买这床被子",
+      "onboard_time": 1707226415,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 530301,
       "num": 530301,
       "word": "上海下雪",
@@ -1875,6 +1883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 498443,
+      "num": 498443,
+      "word": "诛仙1央六收视破3登顶",
+      "onboard_time": 1707229354,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 498404,
       "num": 498404,
       "word": "长江大学回应大雪压塌学校食堂",
@@ -1945,14 +1961,6 @@
       "onboard_time": 1707053973,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483896,
-      "num": 483896,
-      "word": "打工多少年能买这床被子",
-      "onboard_time": 1707226415,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 483110,
@@ -2307,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 418361,
+      "num": 418361,
+      "word": "故宫门票",
+      "onboard_time": 1707226772,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 418286,
       "num": 418286,
       "word": "格莱美直播",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1707041193,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 375813,
-      "num": 375813,
-      "word": "故宫门票",
-      "onboard_time": 1707226772,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 374587,
@@ -3339,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272349,
+      "num": 254200,
+      "word": "家里开洗浴中心是什么体验",
+      "onboard_time": 1707228513,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271740,
       "num": 271740,
       "word": "六小龄童马德华合作新电影",
@@ -3433,6 +3449,14 @@
       "onboard_time": 1707132152,
       "rank": 20,
       "category": "综艺,读书作家"
+    },
+    {
+      "raw_hot": 264832,
+      "num": 264832,
+      "word": "大司马芜湖政协委员资格被撤",
+      "onboard_time": 1707228933,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 264384,
@@ -3755,6 +3779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242693,
+      "num": 242693,
+      "word": "要久久刀",
+      "onboard_time": 1707228156,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242391,
       "num": 242391,
       "word": "打雷姐 陪跑",
@@ -3923,6 +3955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236456,
+      "num": 236456,
+      "word": "钎城的鲁班大师太牛了",
+      "onboard_time": 1707228933,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236106,
       "num": 236106,
       "word": "王者荣耀龙限皮肤",
@@ -3953,6 +3993,14 @@
       "onboard_time": 1707123033,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235248,
+      "num": 235248,
+      "word": "周也林一含花吻",
+      "onboard_time": 1707228213,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 234700,
@@ -4073,14 +4121,6 @@
       "onboard_time": 1707043413,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225795,
-      "num": 225795,
-      "word": "周也林一含花吻",
-      "onboard_time": 1707228213,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 225596,
@@ -4363,6 +4403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 216569,
+      "num": 216569,
+      "word": "不要忘记了普通人的生活",
+      "onboard_time": 1707229472,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216409,
       "num": 216409,
       "word": "白鹿白月梵星新妆",
@@ -4409,6 +4457,14 @@
       "onboard_time": 1707100354,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 215038,
+      "num": 215038,
+      "word": "Fly歌单",
+      "onboard_time": 1707228694,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 214998,
@@ -4547,20 +4603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209619,
-      "num": 209619,
-      "word": "要久久刀",
-      "onboard_time": 1707228156,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209554,
       "num": 209554,
       "word": "哈尔的移动城堡定档",
       "onboard_time": 1707116255,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209378,
+      "num": 209378,
+      "word": "白敬亭旧照",
+      "onboard_time": 1707229292,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 208884,
@@ -4913,14 +4969,6 @@
       "onboard_time": 1707189449,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202133,
-      "num": 202133,
-      "word": "家里开洗浴中心是什么体验",
-      "onboard_time": 1707228513,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 201996,
@@ -5379,14 +5427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188029,
-      "num": 188029,
-      "word": "Fly歌单",
-      "onboard_time": 1707228694,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187491,
       "num": 187491,
       "word": "证监会召开走访上市公司工作推进会",
@@ -5531,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182836,
+      "num": 182836,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "杜华给金子涵庆生",
@@ -5553,6 +5601,14 @@
       "onboard_time": 1707013950,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181933,
+      "num": 181933,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1707229955,
+      "rank": 43,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 180659,
@@ -7043,14 +7099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135288,
-      "num": 135288,
-      "word": "大司马芜湖政协委员资格被撤",
-      "onboard_time": 1707228933,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135041,
       "num": 135041,
       "word": "假装上班",
@@ -7065,14 +7113,6 @@
       "onboard_time": 1707214592,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134326,
-      "num": 134326,
-      "word": "钎城的鲁班大师太牛了",
-      "onboard_time": 1707228933,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 134241,
@@ -8585,6 +8625,14 @@
       "onboard_time": 1707203792,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36127,
+      "num": 292913,
+      "word": "时代少年团试玩王者龙限皮肤",
+      "onboard_time": 1707229655,
+      "rank": 25,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 35543,
