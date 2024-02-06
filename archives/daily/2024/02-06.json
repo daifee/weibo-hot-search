@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707197646343,
+  "endTime": 1707200501492,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1533825,
+      "num": 1533825,
+      "word": "梅西说自己没受伤但不舒服",
+      "onboard_time": 1707194013,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1339319,
       "num": 1339319,
       "word": "华中农大黄某某被解聘",
@@ -73,14 +81,6 @@
       "onboard_time": 1707166155,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1083314,
-      "num": 1083314,
-      "word": "梅西说自己没受伤但不舒服",
-      "onboard_time": 1707194013,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 1032840,
@@ -107,12 +107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 967786,
+      "num": 967786,
+      "word": "方媛曾承认自己花心",
+      "onboard_time": 1707195392,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 944722,
       "num": 944722,
       "word": "花儿与少年2找过秦岚",
       "onboard_time": 1707191671,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 940600,
+      "num": 940600,
+      "word": "浦发银行不发年终奖发一封家书",
+      "onboard_time": 1707197251,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 896153,
@@ -155,14 +171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 795382,
-      "num": 795382,
-      "word": "方媛曾承认自己花心",
-      "onboard_time": 1707195392,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 790362,
       "num": 790362,
       "word": "梅西日本行",
@@ -177,6 +185,14 @@
       "onboard_time": 1707143012,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 783309,
+      "num": 783309,
+      "word": "杨紫曾在淘宝买红毯活动衣服",
+      "onboard_time": 1707196231,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 744701,
@@ -211,6 +227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 708692,
+      "num": 708692,
+      "word": "小S老公称20几岁女生是老妹",
+      "onboard_time": 1707199233,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706858,
       "num": 553884,
       "word": "梅西爽约突破商业底线",
@@ -233,14 +257,6 @@
       "onboard_time": 1707186690,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 639055,
-      "num": 639055,
-      "word": "杨紫曾在淘宝买红毯活动衣服",
-      "onboard_time": 1707196231,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 611709,
@@ -307,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 525461,
+      "num": 525461,
+      "word": "柳叶刀破解中国肺炎支原体流行之谜",
+      "onboard_time": 1707194496,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 504839,
       "num": 504839,
       "word": "为什么东亚生育率降到全球最低",
@@ -339,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 467943,
+      "num": 467943,
+      "word": "A股超4000家个股上涨",
+      "onboard_time": 1707199051,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 463950,
       "num": 463950,
       "word": "雅诗兰黛宣布裁员",
@@ -360,6 +392,14 @@
       "word": "梅西抵达日本",
       "onboard_time": 1707141035,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 451958,
+      "num": 451958,
+      "word": "梅西铁粉语出惊人",
+      "onboard_time": 1707193475,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -395,20 +435,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 441212,
+      "num": 441212,
+      "word": "Tods把肖战写进简介",
+      "onboard_time": 1707196830,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438648,
       "num": 438648,
       "word": "咱们两家都联姻了",
       "onboard_time": 1707179790,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437191,
-      "num": 437191,
-      "word": "柳叶刀破解中国肺炎支原体流行之谜",
-      "onboard_time": 1707194496,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 430628,
@@ -435,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412480,
-      "num": 306359,
-      "word": "梅西铁粉语出惊人",
-      "onboard_time": 1707193475,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 399088,
       "num": 399088,
       "word": "尔滨游客到上海后狂贴66个暖宝宝",
@@ -457,6 +489,14 @@
       "onboard_time": 1707192510,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368882,
+      "num": 368882,
+      "word": "金在中脸部脱毛的原因",
+      "onboard_time": 1707197912,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 363181,
@@ -507,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297194,
-      "num": 297194,
-      "word": "浦发银行不发年终奖发一封家书",
-      "onboard_time": 1707197251,
-      "rank": 17,
+      "raw_hot": 303160,
+      "num": 303160,
+      "word": "中央汇金出手A股三大股指翻红",
+      "onboard_time": 1707195990,
+      "rank": 34,
       "category": "财经"
     },
     {
@@ -563,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283848,
+      "num": 283848,
+      "word": "逆水寒白龙",
+      "onboard_time": 1707199114,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282394,
       "num": 282394,
       "word": "请和我的老公结婚 男主未婚妻",
@@ -595,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267062,
-      "num": 267062,
-      "word": "Tods把肖战写进简介",
-      "onboard_time": 1707196830,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263552,
       "num": 263552,
       "word": "LOL开播十分钟观众破百万",
@@ -633,14 +673,6 @@
       "onboard_time": 1707192030,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254821,
-      "num": 254821,
-      "word": "中央汇金出手A股三大股指翻红",
-      "onboard_time": 1707195990,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 254590,
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232665,
+      "num": 232665,
+      "word": "范丞丞爸妈气质",
+      "onboard_time": 1707199830,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232493,
       "num": 232493,
       "word": "砂糖橘上的洞是从哪来的",
@@ -731,11 +771,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231612,
+      "num": 231612,
+      "word": "你什么冠军",
+      "onboard_time": 1707199890,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225596,
       "num": 225596,
       "word": "明侦春晚团建",
       "onboard_time": 1707196115,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224695,
+      "num": 224695,
+      "word": "花儿与少年5主题曲MV",
+      "onboard_time": 1707199169,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -947,6 +1003,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188244,
+      "num": 188244,
+      "word": "猫咪嫌炕太烫直接趴果盘里",
+      "onboard_time": 1707198873,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186454,
+      "num": 186454,
+      "word": "日本赛票价为香港赛票价一半不到",
+      "onboard_time": 1707200072,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182455,
       "num": 182455,
       "word": "关晓彤代言的天然呆再被强执",
@@ -960,6 +1032,30 @@
       "word": "2023级熊猫宝宝集体送祝福",
       "onboard_time": 1707186449,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177763,
+      "num": 177763,
+      "word": "李荣浩预告龙年巡演",
+      "onboard_time": 1707200370,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 176461,
+      "num": 176461,
+      "word": "上海去杭州可以坐飞机了",
+      "onboard_time": 1707199952,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 173858,
+      "num": 173858,
+      "word": "举报黄某某学生已换课题将延期毕业",
+      "onboard_time": 1707200311,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1043,12 +1139,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155475,
+      "num": 344147,
+      "word": "头上满是虱子的孤儿长成大学生",
+      "onboard_time": 1707195631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155048,
+      "num": 155048,
+      "word": "胡锡进称被大跌狠狠打脸",
+      "onboard_time": 1707199710,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153855,
       "num": 153855,
       "word": "全红婵世锦赛夺冠",
       "onboard_time": 1707174260,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147237,
+      "num": 147237,
+      "word": "偶像便利店",
+      "onboard_time": 1707200192,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145209,
@@ -1288,14 +1408,6 @@
       "word": "北京地铁昌平线列车追尾事故调查报告",
       "onboard_time": 1707142471,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106134,
-      "num": 344147,
-      "word": "头上满是虱子的孤儿长成大学生",
-      "onboard_time": 1707195631,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
