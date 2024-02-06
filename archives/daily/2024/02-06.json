@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707230034070,
+  "endTime": 1707232660920,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2204078,
-      "num": 2204078,
+      "raw_hot": 2234162,
+      "num": 2234162,
       "word": "车厘子吃多了身体会怎么样",
       "onboard_time": 1707227189,
       "rank": 0,
@@ -153,6 +153,14 @@
       "onboard_time": 1707220651,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1159789,
+      "num": 1159789,
+      "word": "诛仙1央六收视破3登顶",
+      "onboard_time": 1707229354,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1127016,
@@ -435,6 +443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 707484,
+      "num": 707484,
+      "word": "打工多少年能买这床被子",
+      "onboard_time": 1707226415,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 706858,
       "num": 553884,
       "word": "梅西爽约突破商业底线",
@@ -603,6 +619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 558472,
+      "num": 558472,
+      "word": "马嘉祺心态",
+      "onboard_time": 1707231152,
+      "rank": 7,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 554813,
       "num": 554813,
       "word": "中央汇金加大增持A股ETF力度",
@@ -625,14 +649,6 @@
       "onboard_time": 1707201869,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 535457,
-      "num": 535457,
-      "word": "打工多少年能买这床被子",
-      "onboard_time": 1707226415,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 527644,
@@ -665,14 +681,6 @@
       "onboard_time": 1707183211,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 498443,
-      "num": 498443,
-      "word": "诛仙1央六收视破3登顶",
-      "onboard_time": 1707229354,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 496751,
@@ -979,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319250,
+      "num": 319250,
+      "word": "刘宪华和妈妈奶奶的合照",
+      "onboard_time": 1707226832,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316585,
       "num": 316585,
       "word": "借出房车卫生间当事女生发声",
       "onboard_time": 1707153204,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314340,
+      "num": 314340,
+      "word": "不要忘记了普通人的生活",
+      "onboard_time": 1707229472,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 303160,
@@ -1051,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285786,
+      "num": 285786,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285080,
       "num": 285080,
       "word": "宋江入伍前最后一次活动",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1707213030,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277287,
-      "num": 277287,
-      "word": "刘宪华和妈妈奶奶的合照",
-      "onboard_time": 1707226832,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 275318,
@@ -1163,6 +1187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 268246,
+      "num": 268246,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1707229955,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 264832,
       "num": 264832,
       "word": "大司马芜湖政协委员资格被撤",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1707191792,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250651,
+      "num": 250651,
+      "word": "小黑粉",
+      "onboard_time": 1707232052,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 248149,
@@ -1491,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216569,
-      "num": 216569,
-      "word": "不要忘记了普通人的生活",
-      "onboard_time": 1707229472,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216409,
       "num": 216409,
       "word": "白鹿白月梵星新妆",
@@ -1747,12 +1779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194435,
+      "num": 194435,
+      "word": "全红婵陈芋汐双人决赛",
+      "onboard_time": 1707232113,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192868,
       "num": 192868,
       "word": "华中农大黄某某存在对研究生少发津贴",
       "onboard_time": 1707193653,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189949,
+      "num": 189949,
+      "word": "张康阳回应国米中国行",
+      "onboard_time": 1707230671,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 189893,
@@ -1827,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184188,
+      "num": 184188,
+      "word": "春运",
+      "onboard_time": 1707232352,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183874,
       "num": 183874,
       "word": "能让下半身脱胎换骨的健身动作",
@@ -1843,28 +1899,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182836,
-      "num": 182836,
-      "word": "请和我的老公结婚第12集",
-      "onboard_time": 1707229893,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182455,
       "num": 182455,
       "word": "关晓彤代言的天然呆再被强执",
       "onboard_time": 1707190472,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181933,
-      "num": 181933,
-      "word": "宋亚轩MVP",
-      "onboard_time": 1707229955,
-      "rank": 43,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 180659,
@@ -1945,6 +1985,14 @@
       "onboard_time": 1707226171,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169551,
+      "num": 169551,
+      "word": "怪道积德",
+      "onboard_time": 1707230615,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 169464,
@@ -2051,6 +2099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160157,
+      "num": 160157,
+      "word": "在暴雪时分预告",
+      "onboard_time": 1707230972,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159444,
       "num": 159444,
       "word": "千芒恋星",
@@ -2155,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153450,
+      "num": 153450,
+      "word": "朱志鑫Baggy Jeans混剪",
+      "onboard_time": 1707232472,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152941,
       "num": 152941,
       "word": "时代少年团游戏语音包",
@@ -2249,6 +2313,14 @@
       "onboard_time": 1707188551,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144648,
+      "num": 144648,
+      "word": "虞书欣长文告别祈今朝",
+      "onboard_time": 1707230251,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 144285,
@@ -2915,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53254,
+      "num": 454734,
+      "word": "时代少年团试玩王者龙限皮肤",
+      "onboard_time": 1707229655,
+      "rank": 25,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 49732,
       "num": 867839,
       "word": "致敬低温雨雪冰冻天气的守护者",
@@ -2969,14 +3049,6 @@
       "onboard_time": 1707203792,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36127,
-      "num": 292913,
-      "word": "时代少年团试玩王者龙限皮肤",
-      "onboard_time": 1707229655,
-      "rank": 25,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 35543,
