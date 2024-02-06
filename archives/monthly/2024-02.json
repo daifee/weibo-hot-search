@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707196586372,
+  "endTime": 1707197646343,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -1035,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1083314,
+      "num": 1083314,
+      "word": "梅西说自己没受伤但不舒服",
+      "onboard_time": 1707194013,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1077455,
       "num": 1077455,
       "word": "车银优边抽烟边落泪",
@@ -1627,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 809554,
-      "num": 809554,
-      "word": "梅西说自己没受伤但不舒服",
-      "onboard_time": 1707194013,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 807383,
       "num": 807383,
       "word": "金智秀BLACKPINK最富有成员",
@@ -1705,6 +1705,14 @@
       "onboard_time": 1706941051,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 795382,
+      "num": 795382,
+      "word": "方媛曾承认自己花心",
+      "onboard_time": 1707195392,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 795278,
@@ -2403,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639055,
+      "num": 639055,
+      "word": "杨紫曾在淘宝买红毯活动衣服",
+      "onboard_time": 1707196231,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 639043,
       "num": 639043,
       "word": "格莱美颁奖礼",
@@ -3025,14 +3041,6 @@
       "onboard_time": 1706793092,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550398,
-      "num": 550398,
-      "word": "方媛曾承认自己花心",
-      "onboard_time": 1707195392,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 550317,
@@ -5811,6 +5819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297194,
+      "num": 297194,
+      "word": "浦发银行不发年终奖发一封家书",
+      "onboard_time": 1707197251,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 297124,
       "num": 297124,
       "word": "nanatour",
@@ -6001,14 +6017,6 @@
       "onboard_time": 1706868811,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285393,
-      "num": 285393,
-      "word": "杨紫曾在淘宝买红毯活动衣服",
-      "onboard_time": 1707196231,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 285080,
@@ -6467,6 +6475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267062,
+      "num": 267062,
+      "word": "Tods把肖战写进简介",
+      "onboard_time": 1707196830,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266992,
       "num": 251000,
       "word": "陈小纭落跑公主",
@@ -6561,6 +6577,14 @@
       "onboard_time": 1706964572,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260467,
+      "num": 260467,
+      "word": "证监会暂停新增转融券规模",
+      "onboard_time": 1707197133,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 260374,
@@ -6737,6 +6761,14 @@
       "onboard_time": 1707138932,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 254821,
+      "num": 254821,
+      "word": "中央汇金出手A股三大股指翻红",
+      "onboard_time": 1707195990,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 254590,
@@ -7121,6 +7153,14 @@
       "onboard_time": 1707074717,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240986,
+      "num": 240986,
+      "word": "宋亚轩图片梗",
+      "onboard_time": 1707196894,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 240600,
@@ -7601,6 +7641,14 @@
       "onboard_time": 1706933011,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225596,
+      "num": 225596,
+      "word": "明侦春晚团建",
+      "onboard_time": 1707196115,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 225432,
@@ -8113,14 +8161,6 @@
       "onboard_time": 1707100354,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 215110,
-      "num": 215110,
-      "word": "明侦春晚团建",
-      "onboard_time": 1707196115,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 215104,
@@ -8643,14 +8683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205628,
-      "num": 205628,
-      "word": "中央汇金出手A股三大股指翻红",
-      "onboard_time": 1707195990,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 205578,
       "num": 205578,
       "word": "EDGM零封WE",
@@ -8665,6 +8697,14 @@
       "onboard_time": 1706790633,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205424,
+      "num": 205424,
+      "word": "星汉灿烂上星北京卫视",
+      "onboard_time": 1707197251,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 205258,
@@ -8745,6 +8785,14 @@
       "onboard_time": 1707180333,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 204356,
+      "num": 204356,
+      "word": "全红婵今晚还有比赛",
+      "onboard_time": 1707196594,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 204348,
@@ -10963,6 +11011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169085,
+      "num": 169085,
+      "word": "一人之下剧场版定档",
+      "onboard_time": 1707194375,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 168842,
       "num": 168842,
       "word": "奶茶里的咖啡因含量比咖啡还高",
@@ -11355,14 +11411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162383,
-      "num": 162383,
-      "word": "一人之下剧场版定档",
-      "onboard_time": 1707194375,
-      "rank": 41,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 162125,
       "num": 162125,
       "word": "你长这么慢 我看不到你长大",
@@ -11497,6 +11545,14 @@
       "onboard_time": 1707119068,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159444,
+      "num": 159444,
+      "word": "千芒恋星",
+      "onboard_time": 1707197613,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 159397,
@@ -14731,6 +14787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106134,
+      "num": 344147,
+      "word": "头上满是虱子的孤儿长成大学生",
+      "onboard_time": 1707195631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105969,
       "num": 105969,
       "word": "快递小哥铲雪挖百米通道送货",
@@ -15633,14 +15697,6 @@
       "onboard_time": 1706966734,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56790,
-      "num": 344147,
-      "word": "头上满是虱子的孤儿长成大学生",
-      "onboard_time": 1707195631,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56696,
