@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707181882746,
+  "endTime": 1707183041370,
   "band_list": [
     {
       "raw_hot": 2028313,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1726559,
-      "num": 915144,
+      "num": 973930,
       "word": "英国国王确诊患癌",
       "onboard_time": 1707175283,
       "rank": 8,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1064757,
-      "num": 1064757,
+      "raw_hot": 1125471,
+      "num": 1125471,
       "word": "男子偷卖女朋友黄金用作恋爱开销",
       "onboard_time": 1707166155,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 862305,
-      "num": 862305,
+      "raw_hot": 896153,
+      "num": 896153,
       "word": "知否版权",
       "onboard_time": 1707180090,
       "rank": 4,
@@ -75,6 +75,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 704044,
+      "num": 704044,
+      "word": "梅西抵达东京备战友谊赛",
+      "onboard_time": 1707180333,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 678202,
+      "num": 678202,
+      "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
+      "onboard_time": 1707181110,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586666,
+      "num": 586666,
+      "word": "阿根廷媒体称梅西身体状况良好",
+      "onboard_time": 1707181469,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572000,
       "num": 572000,
       "word": "全红婵大满贯",
@@ -97,6 +121,14 @@
       "onboard_time": 1707145054,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 505769,
+      "num": 505769,
+      "word": "王者荣耀貂蝉",
+      "onboard_time": 1707182190,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 496751,
@@ -147,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440528,
-      "num": 440528,
-      "word": "梅西抵达东京备战友谊赛",
-      "onboard_time": 1707180333,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 438648,
+      "num": 438648,
+      "word": "咱们两家都联姻了",
+      "onboard_time": 1707179790,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 430628,
@@ -188,19 +220,19 @@
     },
     {
       "raw_hot": 327119,
-      "num": 248440,
+      "num": 284434,
       "word": "您已进入河南界请放心行驶",
       "onboard_time": 1707178710,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321236,
-      "num": 321236,
-      "word": "咱们两家都联姻了",
-      "onboard_time": 1707179790,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 326800,
+      "num": 326800,
+      "word": "养了一年被告知抱错了",
+      "onboard_time": 1707182190,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 316585,
@@ -217,6 +249,14 @@
       "onboard_time": 1707142471,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281972,
+      "num": 281972,
+      "word": "雅诗兰黛宣布裁员",
+      "onboard_time": 1707182190,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 275082,
@@ -241,14 +281,6 @@
       "onboard_time": 1707145654,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248855,
-      "num": 248855,
-      "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
-      "onboard_time": 1707181110,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248149,
@@ -355,12 +387,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180406,
-      "num": 180406,
-      "word": "阿根廷媒体称梅西身体状况良好",
-      "onboard_time": 1707181469,
+      "raw_hot": 182937,
+      "num": 182937,
+      "word": "砂糖橘上的洞是从哪来的",
+      "onboard_time": 1707181831,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 175802,
+      "num": 175802,
+      "word": "王者荣耀小乔",
+      "onboard_time": 1707182852,
       "rank": 31,
-      "category": "体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 169464,
@@ -403,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146007,
+      "num": 146007,
+      "word": "请和我的老公结婚 男主未婚妻",
+      "onboard_time": 1707182852,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142940,
       "num": 142940,
       "word": "陈芋汐巴黎见",
@@ -417,6 +465,14 @@
       "onboard_time": 1707145232,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133252,
+      "num": 133252,
+      "word": "盘点笑着走出理发店的人",
+      "onboard_time": 1707182730,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 130757,
@@ -435,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128903,
-      "num": 128903,
-      "word": "砂糖橘上的洞是从哪来的",
-      "onboard_time": 1707181831,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 127861,
       "num": 127861,
       "word": "刘亦菲刘诗诗合影旧照",
       "onboard_time": 1707132628,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127735,
+      "num": 127735,
+      "word": "米哈游又背着我们偷偷搞大的",
+      "onboard_time": 1707182252,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 126869,
@@ -771,20 +827,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27353,
+      "num": 1003357,
+      "word": "我的龙年仪式感",
+      "onboard_time": 1707029608,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27179,
       "num": 27179,
       "word": "张雨绮低胸鱼尾裙",
       "onboard_time": 1707155482,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26144,
-      "num": 944332,
-      "word": "我的龙年仪式感",
-      "onboard_time": 1707029608,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23758,
