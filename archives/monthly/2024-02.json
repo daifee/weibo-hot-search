@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707226439215,
+  "endTime": 1707228969327,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -561,6 +561,14 @@
       "onboard_time": 1706847331,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1519599,
+      "num": 1519599,
+      "word": "车厘子吃多了身体会怎么样",
+      "onboard_time": 1707227189,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1518122,
@@ -1643,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 866205,
+      "num": 569470,
+      "word": "为什么经期长短会有差异呢",
+      "onboard_time": 1707223889,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 864091,
       "num": 864091,
       "word": "印度女星为假死道歉",
@@ -2003,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 777051,
+      "num": 777051,
+      "word": "BLACKPINK四家大吧不再发送生日贺文",
+      "onboard_time": 1707225213,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 776831,
       "num": 596127,
       "word": "唐鹤德晒与张国荣合照庆生",
@@ -2243,14 +2267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 722653,
-      "num": 569470,
-      "word": "为什么经期长短会有差异呢",
-      "onboard_time": 1707223889,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 721894,
       "num": 721894,
       "word": "韩国瑜",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1707088762,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707799,
-      "num": 707799,
-      "word": "BLACKPINK四家大吧不再发送生日贺文",
-      "onboard_time": 1707225213,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 707050,
@@ -2620,7 +2628,7 @@
     },
     {
       "raw_hot": 647409,
-      "num": 317880,
+      "num": 348808,
       "word": "县城彩礼从18.8万涨到3个9万9加房和车",
       "onboard_time": 1707222753,
       "rank": 24,
@@ -2817,6 +2825,14 @@
       "onboard_time": 1706916380,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622085,
+      "num": 622085,
+      "word": "刀片嗓喉咙肿一查全阴性",
+      "onboard_time": 1707225631,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 621850,
@@ -3883,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483896,
+      "num": 483896,
+      "word": "打工多少年能买这床被子",
+      "onboard_time": 1707226415,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 483449,
       "num": 483449,
       "word": "警方通报多人拿棍棒皮带抽打一男孩",
@@ -4217,6 +4241,14 @@
       "onboard_time": 1707104733,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 446729,
+      "num": 446729,
+      "word": "吃砂糖橘皮肤会容易变黑",
+      "onboard_time": 1707224732,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 443910,
@@ -5075,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375813,
+      "num": 375813,
+      "word": "故宫门票",
+      "onboard_time": 1707226772,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 375557,
       "num": 375557,
       "word": "谭松韵天竺少女",
@@ -5435,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353880,
+      "num": 353880,
+      "word": "严浩翔四杀",
+      "onboard_time": 1707226294,
+      "rank": 38,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 352047,
       "num": 352047,
       "word": "金像奖提名",
@@ -5593,14 +5641,6 @@
       "onboard_time": 1706985739,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332513,
-      "num": 332513,
-      "word": "吃砂糖橘皮肤会容易变黑",
-      "onboard_time": 1707224732,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 332469,
@@ -6699,6 +6739,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 277287,
+      "num": 277287,
+      "word": "刘宪华和妈妈奶奶的合照",
+      "onboard_time": 1707226832,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276947,
       "num": 276947,
       "word": "薛之谦买菜帮助老人",
@@ -6777,6 +6825,14 @@
       "onboard_time": 1707161717,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273738,
+      "num": 273738,
+      "word": "邓为侧颜生图",
+      "onboard_time": 1707228572,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 273510,
@@ -7233,14 +7289,6 @@
       "onboard_time": 1707131551,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255560,
-      "num": 255560,
-      "word": "刀片嗓喉咙肿一查全阴性",
-      "onboard_time": 1707225631,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 255403,
@@ -8187,6 +8235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225795,
+      "num": 225795,
+      "word": "周也林一含花吻",
+      "onboard_time": 1707228213,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225731,
       "num": 225731,
       "word": "网剧冬至杀青",
@@ -9035,6 +9091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209619,
+      "num": 209619,
+      "word": "要久久刀",
+      "onboard_time": 1707228156,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209554,
       "num": 209554,
       "word": "哈尔的移动城堡定档",
@@ -9641,6 +9705,14 @@
       "onboard_time": 1706858495,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 202133,
+      "num": 202133,
+      "word": "家里开洗浴中心是什么体验",
+      "onboard_time": 1707228513,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 202104,
@@ -10667,6 +10739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188029,
+      "num": 188029,
+      "word": "Fly歌单",
+      "onboard_time": 1707228694,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187921,
       "num": 187921,
       "word": "章昊韩振cha",
@@ -11105,14 +11185,6 @@
       "onboard_time": 1706890107,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180920,
-      "num": 180920,
-      "word": "打工多少年能买这床被子",
-      "onboard_time": 1707226415,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 180703,
@@ -11747,14 +11819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170494,
-      "num": 170494,
-      "word": "严浩翔四杀",
-      "onboard_time": 1707226294,
-      "rank": 38,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 170323,
       "num": 170323,
       "word": "TWICE先行曲",
@@ -11795,6 +11859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169921,
+      "num": 169921,
+      "word": "陈泽是谁",
+      "onboard_time": 1707226171,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169738,
       "num": 169738,
       "word": "AG对战VG",
@@ -11833,6 +11905,14 @@
       "onboard_time": 1706867732,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169390,
+      "num": 169390,
+      "word": "香港消委会收到401宗梅西事件投诉",
+      "onboard_time": 1707227612,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 169314,
@@ -12177,6 +12257,14 @@
       "onboard_time": 1706962652,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164502,
+      "num": 164502,
+      "word": "邓紫棋巡演",
+      "onboard_time": 1707228631,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 164460,
@@ -13123,6 +13211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148465,
+      "num": 148465,
+      "word": "BLG战胜LNG",
+      "onboard_time": 1707226533,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "打雷姐 0中",
@@ -13611,14 +13707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141366,
-      "num": 141366,
-      "word": "陈泽是谁",
-      "onboard_time": 1707226171,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141113,
       "num": 141113,
       "word": "平替年货穿戴甲",
@@ -13649,6 +13737,14 @@
       "onboard_time": 1706925391,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140933,
+      "num": 140933,
+      "word": "拜托我是回家过年来了",
+      "onboard_time": 1707227857,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 140905,
@@ -14091,6 +14187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135288,
+      "num": 135288,
+      "word": "大司马芜湖政协委员资格被撤",
+      "onboard_time": 1707228933,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135281,
       "num": 135281,
       "word": "600股跌超9%",
@@ -14169,6 +14273,14 @@
       "onboard_time": 1706846193,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134326,
+      "num": 134326,
+      "word": "钎城的鲁班大师太牛了",
+      "onboard_time": 1707228933,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 134271,
@@ -15892,7 +16004,7 @@
     },
     {
       "raw_hot": 109436,
-      "num": 1163530,
+      "num": 1425574,
       "word": "我与家人合个影",
       "onboard_time": 1707223349,
       "rank": 2,
