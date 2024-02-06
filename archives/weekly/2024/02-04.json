@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707185015119,
+  "endTime": 1707186130837,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -275,6 +275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1182345,
+      "num": 1182345,
+      "word": "养了一年被告知抱错了",
+      "onboard_time": 1707182190,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1169126,
       "num": 1169126,
       "word": "交警回应网传徐老太疑涉套牌",
@@ -531,14 +539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 890492,
-      "num": 890492,
-      "word": "养了一年被告知抱错了",
-      "onboard_time": 1707182190,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 885499,
       "num": 885499,
       "word": "王楚钦粉丝",
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799796,
+      "num": 799796,
+      "word": "王者荣耀貂蝉",
+      "onboard_time": 1707182190,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 794108,
       "num": 794108,
       "word": "美甲建构",
@@ -697,6 +705,14 @@
       "onboard_time": 1707141331,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 787217,
+      "num": 787217,
+      "word": "阿根廷媒体称梅西身体状况良好",
+      "onboard_time": 1707181469,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 787071,
@@ -729,14 +745,6 @@
       "onboard_time": 1707131071,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774176,
-      "num": 774176,
-      "word": "阿根廷媒体称梅西身体状况良好",
-      "onboard_time": 1707181469,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 772290,
@@ -787,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 746286,
-      "num": 746286,
-      "word": "王者荣耀貂蝉",
-      "onboard_time": 1707182190,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 741046,
       "num": 741046,
       "word": "从脂肪肝到肝癌只需四步",
@@ -841,6 +841,14 @@
       "onboard_time": 1707133410,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713633,
+      "num": 713633,
+      "word": "凯特王妃",
+      "onboard_time": 1707183270,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 712255,
@@ -1083,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 592339,
-      "num": 592339,
-      "word": "凯特王妃",
-      "onboard_time": 1707183270,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 591243,
       "num": 591243,
       "word": "1万亿利好明日落地",
@@ -1249,6 +1249,14 @@
       "onboard_time": 1707092130,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547215,
+      "num": 547215,
+      "word": "中央汇金加大增持A股ETF力度",
+      "onboard_time": 1707184949,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 544595,
@@ -1723,6 +1731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 416269,
+      "num": 416269,
+      "word": "为什么东亚生育率降到全球最低",
+      "onboard_time": 1707183211,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415014,
       "num": 415014,
       "word": "官方通报体彩店员撕毁中奖彩票",
@@ -1937,6 +1953,14 @@
       "onboard_time": 1707101311,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 366830,
+      "num": 366830,
+      "word": "Boa演戏",
+      "onboard_time": 1707185130,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 366187,
@@ -2243,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308467,
+      "num": 308467,
+      "word": "李家超回应梅西缺赛",
+      "onboard_time": 1707185550,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307392,
       "num": 307392,
       "word": "湖北高速",
@@ -2339,6 +2371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294008,
+      "num": 294008,
+      "word": "小乔无双 特效",
+      "onboard_time": 1707185253,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292789,
       "num": 292789,
       "word": "美甲也有了自己的光腿神器",
@@ -2353,14 +2393,6 @@
       "onboard_time": 1707041791,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290563,
-      "num": 290563,
-      "word": "为什么东亚生育率降到全球最低",
-      "onboard_time": 1707183211,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289879,
@@ -2513,14 +2545,6 @@
       "onboard_time": 1707041432,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276470,
-      "num": 276470,
-      "word": "中央汇金加大增持A股ETF力度",
-      "onboard_time": 1707184949,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 276046,
@@ -2867,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243811,
+      "num": 243811,
+      "word": "湖北约4000台车堵在路上",
+      "onboard_time": 1707184231,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243457,
       "num": 243457,
       "word": "无畏辅助",
@@ -3059,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232493,
+      "num": 232493,
+      "word": "砂糖橘上的洞是从哪来的",
+      "onboard_time": 1707181831,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230938,
       "num": 150826,
       "word": "小品套娃 内涵平台",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1706973632,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228930,
-      "num": 228930,
-      "word": "砂糖橘上的洞是从哪来的",
-      "onboard_time": 1707181831,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 228600,
@@ -3747,6 +3779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200194,
+      "num": 200194,
+      "word": "大学生返乡一人搞定全村祝福语",
+      "onboard_time": 1707185850,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200089,
       "num": 200089,
       "word": "A股2666点到底了吗",
@@ -4313,14 +4353,6 @@
       "onboard_time": 1706978428,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175476,
-      "num": 175476,
-      "word": "湖北约4000台车堵在路上",
-      "onboard_time": 1707184231,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174952,
@@ -5051,6 +5083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143607,
+      "num": 143607,
+      "word": "年轻人整顿年货圈",
+      "onboard_time": 1707185670,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143375,
       "num": 143375,
       "word": "药明康德称不会对任何国家构成安全风险",
@@ -5187,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "亚瑟鸿运当头新皮肤",
+      "onboard_time": 1707184709,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139275,
       "num": 139275,
       "word": "飞驰人生2新预告",
@@ -5289,14 +5337,6 @@
       "onboard_time": 1707037952,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135625,
-      "num": 135625,
-      "word": "亚瑟鸿运当头新皮肤",
-      "onboard_time": 1707184709,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 135591,
@@ -5771,6 +5811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118202,
+      "num": 118202,
+      "word": "科比雕像将揭幕",
+      "onboard_time": 1707185909,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "一起迎立春",
@@ -6057,6 +6105,14 @@
       "onboard_time": 1707182970,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100738,
+      "num": 100738,
+      "word": "店家半夜起来 我真该死啊",
+      "onboard_time": 1707186029,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 100204,

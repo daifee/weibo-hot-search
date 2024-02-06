@@ -1,0 +1,410 @@
+{
+  "runTime": 1707186130837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224757,
+        "num": 1224757,
+        "word": "武汉暴雪",
+        "onboard_time": 1707177327,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182345,
+        "num": 1182345,
+        "word": "养了一年被告知抱错了",
+        "onboard_time": 1707182190,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21958,
+        "num": 991473,
+        "word": "我的龙年仪式感",
+        "onboard_time": 1707029608,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1321423,
+        "num": 937488,
+        "word": "英国国王确诊患癌",
+        "onboard_time": 1707175283,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 869410,
+        "num": 869410,
+        "word": "男子偷卖女朋友黄金用作恋爱开销",
+        "onboard_time": 1707166155,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809223,
+        "num": 809223,
+        "word": "知否版权",
+        "onboard_time": 1707180090,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 799796,
+        "num": 799796,
+        "word": "王者荣耀貂蝉",
+        "onboard_time": 1707182190,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 787217,
+        "num": 787217,
+        "word": "阿根廷媒体称梅西身体状况良好",
+        "onboard_time": 1707181469,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 784353,
+        "num": 784353,
+        "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
+        "onboard_time": 1707181110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713633,
+        "num": 713633,
+        "word": "凯特王妃",
+        "onboard_time": 1707183270,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 708169,
+        "num": 708169,
+        "word": "梅西日本行",
+        "onboard_time": 1707183392,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547215,
+        "num": 547215,
+        "word": "中央汇金加大增持A股ETF力度",
+        "onboard_time": 1707184949,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 500694,
+        "num": 500694,
+        "word": "王者荣耀小乔",
+        "onboard_time": 1707182852,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433239,
+        "num": 433239,
+        "word": "雅诗兰黛宣布裁员",
+        "onboard_time": 1707182190,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 416269,
+        "num": 416269,
+        "word": "为什么东亚生育率降到全球最低",
+        "onboard_time": 1707183211,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387077,
+        "num": 387077,
+        "word": "张颂文 上你个头我要过年",
+        "onboard_time": 1707143012,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375507,
+        "num": 375507,
+        "word": "白敬亭为自己和范丞丞澄清",
+        "onboard_time": 1707176546,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368882,
+        "num": 368882,
+        "word": "日本小姐冠军承认当小三放弃桂冠",
+        "onboard_time": 1707143491,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366830,
+        "num": 366830,
+        "word": "Boa演戏",
+        "onboard_time": 1707185130,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355044,
+        "num": 355044,
+        "word": "梅西抵达东京备战友谊赛",
+        "onboard_time": 1707180333,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308467,
+        "num": 308467,
+        "word": "李家超回应梅西缺赛",
+        "onboard_time": 1707185550,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294008,
+        "num": 294008,
+        "word": "小乔无双 特效",
+        "onboard_time": 1707185253,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282766,
+        "num": 282766,
+        "word": "全红婵大满贯",
+        "onboard_time": 1707174441,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254116,
+        "num": 254116,
+        "word": "咱们两家都联姻了",
+        "onboard_time": 1707179790,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253545,
+        "num": 253545,
+        "word": "请和我的老公结婚 男主未婚妻",
+        "onboard_time": 1707182852,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243811,
+        "num": 243811,
+        "word": "湖北约4000台车堵在路上",
+        "onboard_time": 1707184231,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232493,
+        "num": 232493,
+        "word": "砂糖橘上的洞是从哪来的",
+        "onboard_time": 1707181831,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227020,
+        "num": 227020,
+        "word": "爸妈吐槽大学生要提前吃光全家年货",
+        "onboard_time": 1707161717,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219133,
+        "num": 219133,
+        "word": "我被暴雪留在高速的第三天",
+        "onboard_time": 1707146372,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213911,
+        "num": 213911,
+        "word": "外卖小哥给老人送餐发现是自己的团年饭",
+        "onboard_time": 1707174923,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211875,
+        "num": 211875,
+        "word": "从脂肪肝到肝癌只需四步",
+        "onboard_time": 1707149068,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200194,
+        "num": 200194,
+        "word": "大学生返乡一人搞定全村祝福语",
+        "onboard_time": 1707185850,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195852,
+        "num": 195852,
+        "word": "当一个行业开始赚钱女性就被迫离开",
+        "onboard_time": 1707145054,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175986,
+        "num": 175986,
+        "word": "您已进入河南界请放心行驶",
+        "onboard_time": 1707178710,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171151,
+        "num": 171151,
+        "word": "方圆脸一周不重复发型教程",
+        "onboard_time": 1707184052,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160831,
+        "num": 160831,
+        "word": "梅西表演赛主办方撤回1600万港元资助申请",
+        "onboard_time": 1707133830,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154304,
+        "num": 154304,
+        "word": "25岁小伙手提30斤大虾返乡过年",
+        "onboard_time": 1707176245,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "年轻人整顿年货圈",
+        "onboard_time": 1707185670,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139294,
+        "num": 139294,
+        "word": "亚瑟鸿运当头新皮肤",
+        "onboard_time": 1707184709,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "票务称梅西表演赛门票不退款",
+        "onboard_time": 1707177086,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128415,
+        "num": 128415,
+        "word": "我的天才女友 词汇的缺乏",
+        "onboard_time": 1707180333,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 127408,
+        "num": 127408,
+        "word": "C罗 抽卡",
+        "onboard_time": 1707179971,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121121,
+        "num": 121121,
+        "word": "程潇 龙女",
+        "onboard_time": 1707141331,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118202,
+        "num": 118202,
+        "word": "科比雕像将揭幕",
+        "onboard_time": 1707185909,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117269,
+        "num": 117269,
+        "word": "狗 这个班是非上不可吗",
+        "onboard_time": 1707176906,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116843,
+        "num": 116843,
+        "word": "梅西爽约突破商业底线",
+        "onboard_time": 1707127953,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110583,
+        "num": 110583,
+        "word": "致命游戏",
+        "onboard_time": 1707176666,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106369,
+        "num": 106369,
+        "word": "巨婴式恋爱",
+        "onboard_time": 1707175220,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101601,
+        "num": 101601,
+        "word": "被困湖北高速急哭的女车主获河南小伙救援",
+        "onboard_time": 1707162077,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100738,
+        "num": 100738,
+        "word": "店家半夜起来 我真该死啊",
+        "onboard_time": 1707186029,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#良好生态本身蕴含着无穷的经济价值#"
+    }
+  }
+}
