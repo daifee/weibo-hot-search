@@ -1,0 +1,410 @@
+{
+  "runTime": 1707223534764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168226,
+        "num": 1168226,
+        "word": "刘亦菲刘宇宁或将合作",
+        "onboard_time": 1707219391,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 834202,
+        "num": 834202,
+        "word": "王者荣耀时代少年团直播",
+        "onboard_time": 1707219812,
+        "rank": 1,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 17331,
+        "num": 779984,
+        "word": "我与家人合个影",
+        "onboard_time": 1707223349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1688486,
+        "num": 779915,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 894480,
+        "num": 779571,
+        "word": "香港前特首女儿怒斥梅西",
+        "onboard_time": 1707207689,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 779220,
+        "num": 779220,
+        "word": "董宇辉对美甲的困惑",
+        "onboard_time": 1707220651,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 717061,
+        "num": 717061,
+        "word": "奚梦瑶说22岁的金莎很漂亮",
+        "onboard_time": 1707218851,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561597,
+        "num": 561597,
+        "word": "杨紫失落期开车绕北京城",
+        "onboard_time": 1707215791,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557327,
+        "num": 557327,
+        "word": "梅西日本赛前训练",
+        "onboard_time": 1707215911,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499096,
+        "num": 499096,
+        "word": "梅西账号评论区被网友围攻",
+        "onboard_time": 1707213992,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 814501,
+        "num": 488725,
+        "word": "内裤要多久换洗一次",
+        "onboard_time": 1707218611,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 470696,
+        "num": 470696,
+        "word": "梅西",
+        "onboard_time": 1707205229,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422839,
+        "num": 422839,
+        "word": "艾比又整了鼻子",
+        "onboard_time": 1707216811,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 404024,
+        "num": 404024,
+        "word": "papi酱 百元礼物互换",
+        "onboard_time": 1707219090,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 369602,
+        "num": 369602,
+        "word": "樊振东也喜欢霉霉",
+        "onboard_time": 1707217532,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 341674,
+        "num": 341674,
+        "word": "易烊千玺痛失本名",
+        "onboard_time": 1707208773,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340866,
+        "num": 340866,
+        "word": "花花喜提六号别墅",
+        "onboard_time": 1707213030,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339715,
+        "num": 339715,
+        "word": "专家呼吁女性适龄生育",
+        "onboard_time": 1707212191,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88993,
+        "num": 328047,
+        "word": "2023级熊猫宝宝集体拜年",
+        "onboard_time": 1707206790,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322532,
+        "num": 322532,
+        "word": "河南村民挨个敲窗给滞留乘客送热面",
+        "onboard_time": 1707215669,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 292107,
+        "num": 292107,
+        "word": "化妆师兔子",
+        "onboard_time": 1707206970,
+        "rank": 20,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 286565,
+        "num": 286565,
+        "word": "日媒称丝毫看不出梅西状态不佳",
+        "onboard_time": 1707221371,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272805,
+        "num": 272805,
+        "word": "霍启刚说热情被狠狠践踏",
+        "onboard_time": 1707187469,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246381,
+        "num": 246381,
+        "word": "导演让吴磊赵今麦亲嘴",
+        "onboard_time": 1707212250,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245567,
+        "num": 245567,
+        "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+        "onboard_time": 1707222753,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222208,
+        "num": 222208,
+        "word": "胡夏转发金晨微博",
+        "onboard_time": 1707212793,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211525,
+        "num": 211525,
+        "word": "处女座并不是一个绝情的人",
+        "onboard_time": 1707219630,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206116,
+        "num": 206116,
+        "word": "金智媛金秀贤新剧首发预告",
+        "onboard_time": 1707221851,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203522,
+        "num": 203522,
+        "word": "大唐狄公案",
+        "onboard_time": 1707222628,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198984,
+        "num": 198984,
+        "word": "南来北往",
+        "onboard_time": 1707213089,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198538,
+        "num": 198538,
+        "word": "马立奥祝你发财",
+        "onboard_time": 1707222931,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191826,
+        "num": 191826,
+        "word": "大小S孩子同游巴厘岛",
+        "onboard_time": 1707212133,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190106,
+        "num": 190106,
+        "word": "梅西说自己没受伤但不舒服",
+        "onboard_time": 1707194013,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189789,
+        "num": 189789,
+        "word": "EDG春季赛五连败",
+        "onboard_time": 1707220953,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188647,
+        "num": 188647,
+        "word": "玛沙 跑路",
+        "onboard_time": 1707218487,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183018,
+        "num": 183018,
+        "word": "厚唇 大美女",
+        "onboard_time": 1707215191,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172993,
+        "num": 172993,
+        "word": "梅西说不确定能否在日本上场",
+        "onboard_time": 1707203252,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171739,
+        "num": 171739,
+        "word": "胡锡进回血了百分之三点几",
+        "onboard_time": 1707219690,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169704,
+        "num": 169704,
+        "word": "能让下半身脱胎换骨的健身动作",
+        "onboard_time": 1707219931,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 163581,
+        "num": 163581,
+        "word": "红包届今年是准备考研了吗",
+        "onboard_time": 1707222812,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160607,
+        "num": 160607,
+        "word": "香港机场一拖行员被飞机撞倒身亡",
+        "onboard_time": 1707209311,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144697,
+        "num": 144697,
+        "word": "摩羯座的张小斐 隐忍又强大",
+        "onboard_time": 1707222030,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142013,
+        "num": 142013,
+        "word": "蔡徐坤杂志",
+        "onboard_time": 1707216331,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136398,
+        "num": 136398,
+        "word": "韩国流行起后脑勺整形",
+        "onboard_time": 1707206731,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128291,
+        "num": 128291,
+        "word": "7种常见癌症的筛查方法",
+        "onboard_time": 1707222571,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111387,
+        "num": 111387,
+        "word": "为什么火炉上的水滴会变成五角星",
+        "onboard_time": 1707221611,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110673,
+        "num": 110673,
+        "word": "FPX战胜EDG",
+        "onboard_time": 1707220711,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104921,
+        "num": 104921,
+        "word": "上万名返乡车主自发寻找走失儿童",
+        "onboard_time": 1707219690,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 102400,
+        "num": 102400,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96995,
+        "num": 96995,
+        "word": "崔智友离开YG",
+        "onboard_time": 1707216871,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春到我家心里倍儿温暖#"
+    }
+  }
+}
