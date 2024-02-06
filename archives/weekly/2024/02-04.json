@@ -1,9 +1,9 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707194038326,
+  "endTime": 1707196586372,
   "band_list": [
     {
-      "raw_hot": 6731415,
+      "raw_hot": 7173131,
       "num": 7981415,
       "word": "华中农大通报黄某某学术不端调查情况",
       "onboard_time": 1707192210,
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809554,
+      "num": 809554,
+      "word": "梅西说自己没受伤但不舒服",
+      "onboard_time": 1707194013,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 805628,
       "num": 805628,
       "word": "为什么只有中国医生擅长取鱼刺",
@@ -1139,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611709,
+      "num": 611709,
+      "word": "优酷养老剧",
+      "onboard_time": 1707188311,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611708,
       "num": 611708,
       "word": "虞姬典藏 精致土",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1707092130,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550398,
+      "num": 550398,
+      "word": "方媛曾承认自己花心",
+      "onboard_time": 1707195392,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544595,
@@ -1683,14 +1707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 450569,
-      "num": 450569,
-      "word": "优酷养老剧",
-      "onboard_time": 1707188311,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 450426,
       "num": 450426,
       "word": "男子花20万彩礼闪婚仅十多天就离婚",
@@ -1723,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441789,
+      "num": 441789,
+      "word": "妹妹转自己的助学贷款给我",
+      "onboard_time": 1707193714,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 440508,
       "num": 440508,
       "word": "邢菲 0.6秒预告镜头怎么了",
@@ -1745,6 +1769,14 @@
       "onboard_time": 1707179790,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437191,
+      "num": 437191,
+      "word": "柳叶刀破解中国肺炎支原体流行之谜",
+      "onboard_time": 1707194496,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 433311,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1707104853,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 412480,
+      "num": 306359,
+      "word": "梅西铁粉语出惊人",
+      "onboard_time": 1707193475,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 409908,
@@ -2571,11 +2611,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 289425,
+      "num": 289425,
+      "word": "知否开始独播",
+      "onboard_time": 1707195274,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288323,
       "num": 288323,
       "word": "张佳宁 朝鲜族服饰",
       "onboard_time": 1707105393,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285393,
+      "num": 285393,
+      "word": "杨紫曾在淘宝买红毯活动衣服",
+      "onboard_time": 1707196231,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285080,
+      "num": 285080,
+      "word": "宋江入伍前最后一次活动",
+      "onboard_time": 1707196052,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -2593,14 +2657,6 @@
       "onboard_time": 1707102091,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284513,
-      "num": 284513,
-      "word": "梅西铁粉语出惊人",
-      "onboard_time": 1707193475,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 284038,
@@ -3235,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237988,
+      "num": 237988,
+      "word": "猫咪吸猫薄荷吸到脸色枯萎",
+      "onboard_time": 1707194013,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237272,
       "num": 237272,
       "word": "产后世界官宣",
@@ -3265,14 +3329,6 @@
       "onboard_time": 1707176906,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236465,
-      "num": 236465,
-      "word": "妹妹转自己的助学贷款给我",
-      "onboard_time": 1707193714,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 236106,
@@ -3635,6 +3691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215110,
+      "num": 215110,
+      "word": "明侦春晚团建",
+      "onboard_time": 1707196115,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214998,
       "num": 164866,
       "word": "王海测评希望董宇辉弯腰道歉",
@@ -3664,6 +3728,14 @@
       "word": "吴磊王星越情头",
       "onboard_time": 1707123511,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212563,
+      "num": 212563,
+      "word": "蓝亦菲外婆去世",
+      "onboard_time": 1707195753,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3889,6 +3961,14 @@
       "onboard_time": 1707010289,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205628,
+      "num": 205628,
+      "word": "中央汇金出手A股三大股指翻红",
+      "onboard_time": 1707195990,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 205578,
@@ -4225,6 +4305,14 @@
       "onboard_time": 1707103709,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194788,
+      "num": 194788,
+      "word": "小伙6天坐836站公交回乡过年",
+      "onboard_time": 1707195816,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194650,
@@ -4691,14 +4779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174885,
-      "num": 174885,
-      "word": "猫咪吸猫薄荷吸到脸色枯萎",
-      "onboard_time": 1707194013,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174525,
       "num": 174525,
       "word": "掐脖舞",
@@ -4768,14 +4848,6 @@
       "word": "三问梅西为何不上场",
       "onboard_time": 1707113133,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 172177,
-      "num": 172177,
-      "word": "梅西说自己没受伤但不舒服",
-      "onboard_time": 1707194013,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -4987,6 +5059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162383,
+      "num": 162383,
+      "word": "一人之下剧场版定档",
+      "onboard_time": 1707194375,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 161782,
       "num": 161782,
       "word": "车主自驾回乡1小时的路开了11小时",
@@ -5089,6 +5169,14 @@
       "onboard_time": 1707010169,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158451,
+      "num": 158451,
+      "word": "过年期间我在老家的人设",
+      "onboard_time": 1707195031,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 158069,
@@ -6755,6 +6843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68766,
+      "num": 2447774,
+      "word": "人心火热温暖了回家路",
+      "onboard_time": 1707193229,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68672,
       "num": 121118,
       "word": "2024中央一号文件公布",
@@ -6857,6 +6953,14 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56790,
+      "num": 344147,
+      "word": "头上满是虱子的孤儿长成大学生",
+      "onboard_time": 1707195631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56696,
@@ -7107,14 +7211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31579,
-      "num": 2447774,
-      "word": "人心火热温暖了回家路",
-      "onboard_time": 1707193229,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30955,
       "num": 30955,
       "word": "王星越没搞笑但真的很好笑",
@@ -7153,6 +7249,14 @@
       "onboard_time": 1707018329,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27389,
+      "num": 336490,
+      "word": "京东可以绑定情侣账号了",
+      "onboard_time": 1707194256,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 27353,
