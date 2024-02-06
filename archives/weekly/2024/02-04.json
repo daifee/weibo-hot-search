@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707237364055,
+  "endTime": 1707239706076,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -1931,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498294,
+      "num": 498294,
+      "word": "约旦vs韩国",
+      "onboard_time": 1707233132,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496751,
       "num": 496751,
       "word": "外卖小哥给老人送餐发现是自己的团年饭",
@@ -2699,12 +2707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357601,
+      "num": 357601,
+      "word": "张真源荣耀王者61星",
+      "onboard_time": 1707235710,
+      "rank": 21,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 357015,
       "num": 357015,
       "word": "沈腾预测春晚梗",
       "onboard_time": 1707215491,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356000,
+      "num": 356000,
+      "word": "在暴雪时分微博评分最高现偶剧",
+      "onboard_time": 1707235890,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 354884,
@@ -2899,14 +2923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321926,
-      "num": 321926,
-      "word": "约旦vs韩国",
-      "onboard_time": 1707233132,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 319957,
       "num": 319957,
       "word": "周深又穿了半永久春晚羽绒服",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1707017011,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312129,
-      "num": 301922,
-      "word": "张真源荣耀王者61星",
-      "onboard_time": 1707235710,
-      "rank": 21,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 307392,
@@ -3539,6 +3547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264568,
+      "num": 264568,
+      "word": "熊猫疼得想咬人一看是保育员忍住了",
+      "onboard_time": 1707232773,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264384,
       "num": 264384,
       "word": "人在工位脑子已经回家了",
@@ -3771,12 +3787,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 249410,
-      "num": 249410,
-      "word": "熊猫疼得想咬人一看是保育员忍住了",
-      "onboard_time": 1707232773,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 249233,
+      "num": 184226,
+      "word": "你的微信聊天记录值多少钱",
+      "onboard_time": 1707237566,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 247267,
@@ -4505,14 +4521,6 @@
       "onboard_time": 1707121411,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217088,
-      "num": 217088,
-      "word": "在暴雪时分微博评分最高现偶剧",
-      "onboard_time": 1707235890,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 216672,
@@ -6283,6 +6291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164490,
+      "num": 164490,
+      "word": "亚洲杯半决赛",
+      "onboard_time": 1707233552,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164149,
       "num": 162609,
       "word": "于正盛赞卢昱晓",
@@ -6713,14 +6729,6 @@
       "onboard_time": 1706963850,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150630,
-      "num": 150630,
-      "word": "亚洲杯半决赛",
-      "onboard_time": 1707233552,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 149845,
@@ -8201,6 +8209,14 @@
       "onboard_time": 1707134550,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105166,
+      "num": 105166,
+      "word": "迪丽热巴花少主题曲镜头",
+      "onboard_time": 1707238765,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 103762,
