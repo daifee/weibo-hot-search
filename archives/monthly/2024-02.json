@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707236485303,
+  "endTime": 1707237364055,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -2315,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715181,
+      "num": 715181,
+      "word": "Kpop艺人中国杂志总销量TOP15",
+      "onboard_time": 1707234630,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712255,
       "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
@@ -2864,14 +2872,6 @@
       "word": "前TVB演员河国荣烧炭自杀",
       "onboard_time": 1706916380,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 623581,
-      "num": 623581,
-      "word": "Kpop艺人中国杂志总销量TOP15",
-      "onboard_time": 1707234630,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -4731,6 +4731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412091,
+      "num": 412091,
+      "word": "时代少年团王者技术",
+      "onboard_time": 1707234571,
+      "rank": 13,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 411800,
       "num": 411800,
       "word": "PPT 骗骗他",
@@ -5147,14 +5155,6 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 376702,
-      "num": 376702,
-      "word": "时代少年团王者技术",
-      "onboard_time": 1707234571,
-      "rank": 13,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 376474,
       "num": 376474,
       "word": "胡先煦 我人都嗑傻了",
@@ -5379,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363386,
+      "num": 363386,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363181,
       "num": 363181,
       "word": "票务称梅西表演赛门票不退款",
@@ -5505,14 +5513,6 @@
       "onboard_time": 1706831249,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355611,
-      "num": 355611,
-      "word": "请和我的老公结婚第12集",
-      "onboard_time": 1707229893,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 354884,
@@ -5947,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321926,
+      "num": 321926,
+      "word": "约旦vs韩国",
+      "onboard_time": 1707233132,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319957,
       "num": 319957,
       "word": "周深又穿了半永久春晚羽绒服",
@@ -6108,7 +6116,7 @@
     },
     {
       "raw_hot": 312129,
-      "num": 226171,
+      "num": 301922,
       "word": "张真源荣耀王者61星",
       "onboard_time": 1707235710,
       "rank": 21,
@@ -7433,14 +7441,6 @@
       "onboard_time": 1706753309,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253551,
-      "num": 253551,
-      "word": "约旦vs韩国",
-      "onboard_time": 1707233132,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 253009,
@@ -8889,6 +8889,14 @@
       "onboard_time": 1707121411,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217088,
+      "num": 217088,
+      "word": "在暴雪时分微博评分最高现偶剧",
+      "onboard_time": 1707235890,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 216940,
@@ -12161,14 +12169,6 @@
       "onboard_time": 1707194375,
       "rank": 41,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 168975,
-      "num": 168975,
-      "word": "在暴雪时分微博评分最高现偶剧",
-      "onboard_time": 1707235890,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 168894,
@@ -15531,6 +15531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120636,
+      "num": 120636,
+      "word": "吴磊赵今麦沙发吻花絮",
+      "onboard_time": 1707235829,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120334,
       "num": 120334,
       "word": "悬疑小说真正凶手",
@@ -15561,14 +15569,6 @@
       "onboard_time": 1707011070,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120229,
-      "num": 120229,
-      "word": "吴磊赵今麦沙发吻花絮",
-      "onboard_time": 1707235829,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 120047,
@@ -16321,6 +16321,14 @@
       "onboard_time": 1706970813,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107327,
+      "num": 107327,
+      "word": "山城江哥",
+      "onboard_time": 1707236967,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 107315,
