@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707190453055,
+  "endTime": 1707193183980,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -19,11 +19,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3547872,
+      "num": 3595744,
+      "word": "华中农大通报黄某某学术不端调查情况",
+      "onboard_time": 1707192210,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3396012,
       "num": 3396012,
       "word": "霍启刚要求梅西与迈阿密道歉",
       "onboard_time": 1707095132,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2902428,
+      "num": 2902428,
+      "word": "霍启刚说热情被狠狠践踏",
+      "onboard_time": 1707187469,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -33,14 +49,6 @@
       "onboard_time": 1707042512,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2655596,
-      "num": 2655596,
-      "word": "霍启刚说热情被狠狠践踏",
-      "onboard_time": 1707187469,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2618527,
@@ -153,6 +161,14 @@
       "onboard_time": 1707107493,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1595109,
+      "num": 1595109,
+      "word": "梅西说很高兴来到日本",
+      "onboard_time": 1707191912,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1560627,
@@ -331,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1139978,
+      "num": 1139978,
+      "word": "华中农大黄某某被解聘",
+      "onboard_time": 1707192270,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138314,
       "num": 1138314,
       "word": "甜馨第一次自己化妆",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 1014040,
-      "num": 585848,
+      "num": 617259,
       "word": "医生怒斥杨波头孢配酒死不了言论",
       "onboard_time": 1707187590,
       "rank": 10,
@@ -609,6 +633,14 @@
       "onboard_time": 1707028651,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 856071,
+      "num": 856071,
+      "word": "花儿与少年2找过秦岚",
+      "onboard_time": 1707191671,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 851390,
@@ -833,6 +865,14 @@
       "onboard_time": 1707149068,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 740190,
+      "num": 740190,
+      "word": "光遇复刻",
+      "onboard_time": 1707192571,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 738596,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1707052230,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607222,
+      "num": 252810,
+      "word": "明日方舟阿米娅",
+      "onboard_time": 1707192690,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 603718,
@@ -2403,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297432,
+      "num": 297432,
+      "word": "吴磊赵今麦错位图",
+      "onboard_time": 1707191792,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297216,
       "num": 297216,
       "word": "世界之外新PV",
@@ -2473,6 +2529,14 @@
       "onboard_time": 1707012813,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 289394,
+      "num": 289394,
+      "word": "nanatour",
+      "onboard_time": 1707192030,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 288323,
@@ -2627,6 +2691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275626,
+      "num": 275626,
+      "word": "梅西希望有机会再去香港",
+      "onboard_time": 1707192992,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275082,
       "num": 275082,
       "word": "爸妈吐槽大学生要提前吃光全家年货",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1707050254,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271384,
+      "num": 271384,
+      "word": "billkin抢票",
+      "onboard_time": 1707190903,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 271182,
@@ -2747,12 +2827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259990,
+      "num": 252611,
+      "word": "商人贝克汉姆",
+      "onboard_time": 1707192510,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259928,
       "num": 259928,
       "word": "郭富城回应被林家栋搀扶下楼梯",
       "onboard_time": 1707023611,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258327,
+      "num": 258327,
+      "word": "张彬彬孙珍妮杀青照",
+      "onboard_time": 1707190829,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 258296,
@@ -2787,6 +2883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 255924,
+      "num": 255924,
+      "word": "知否未播花絮",
+      "onboard_time": 1707192030,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255882,
       "num": 255882,
       "word": "真实暧昧又尴尬",
@@ -2817,6 +2921,14 @@
       "onboard_time": 1707138932,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 252822,
+      "num": 252822,
+      "word": "超7成假发搜索者为95后",
+      "onboard_time": 1707191792,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252680,
@@ -3011,6 +3123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241279,
+      "num": 241279,
+      "word": "湖南大雪警车里诞下一雪警女婴",
+      "onboard_time": 1707191609,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241200,
       "num": 241200,
       "word": "春晚彩排",
@@ -3129,6 +3249,14 @@
       "onboard_time": 1707045568,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235863,
+      "num": 235863,
+      "word": "梅西人形广告牌被踢掉脑袋",
+      "onboard_time": 1707190350,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 235434,
@@ -3385,6 +3513,14 @@
       "onboard_time": 1707045333,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219203,
+      "num": 219203,
+      "word": "专家称涨跌停板已成机构操纵市场工具",
+      "onboard_time": 1707190472,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 218170,
@@ -3931,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198863,
+      "num": 198863,
+      "word": "黄某某10篇论文存在伪造篡改",
+      "onboard_time": 1707192932,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198751,
       "num": 198751,
       "word": "霉霉 行动力",
@@ -4371,6 +4515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182455,
+      "num": 182455,
+      "word": "关晓彤代言的天然呆再被强执",
+      "onboard_time": 1707190472,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182375,
       "num": 182375,
       "word": "重庆漫展",
@@ -4449,6 +4601,14 @@
       "onboard_time": 1706984960,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177238,
+      "num": 177238,
+      "word": "电影热辣滚烫",
+      "onboard_time": 1707192932,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 177031,
@@ -6099,14 +6259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112217,
-      "num": 112217,
-      "word": "梅西人形广告牌被踢掉脑袋",
-      "onboard_time": 1707190350,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111993,
       "num": 101579,
       "word": "林亦扬殷果睡一张床",
@@ -6297,6 +6449,14 @@
       "onboard_time": 1707030688,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101518,
+      "num": 2100504,
+      "word": "仪式感满满过大年",
+      "onboard_time": 1707191011,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101116,
@@ -6531,6 +6691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70124,
+      "num": 261966,
+      "word": "元梦趴趴小狗宋雨琦同款",
+      "onboard_time": 1707192510,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68782,
       "num": 121919,
       "word": "宝宝不唱儿歌过渡一下吗",
@@ -6625,6 +6793,14 @@
       "onboard_time": 1707172997,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59686,
+      "num": 477414,
+      "word": "千万不要打开UC网友年度榜单",
+      "onboard_time": 1707192030,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58028,
