@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707250665521,
+  "endTime": 1707251637026,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -18209,6 +18209,14 @@
       "onboard_time": 1706727676,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16011,
+      "num": 16011,
+      "word": "一代人有一代人的四小花旦",
+      "onboard_time": 1707250937,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 15833,
