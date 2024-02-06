@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707233652613,
+  "endTime": 1707236485303,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -153,6 +153,14 @@
       "onboard_time": 1707213992,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1858237,
+      "num": 470477,
+      "word": "小黑粉",
+      "onboard_time": 1707232052,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 1845671,
@@ -1475,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623581,
+      "num": 623581,
+      "word": "Kpop艺人中国杂志总销量TOP15",
+      "onboard_time": 1707234630,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621455,
       "num": 621455,
       "word": "武大性骚扰事件男方首度发声",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1707192690,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 605608,
+      "num": 605608,
+      "word": "不要忘记了普通人的生活",
+      "onboard_time": 1707229472,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 603718,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1707126811,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578482,
-      "num": 470477,
-      "word": "小黑粉",
-      "onboard_time": 1707232052,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 577080,
@@ -2539,6 +2555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 376702,
+      "num": 376702,
+      "word": "时代少年团王者技术",
+      "onboard_time": 1707234571,
+      "rank": 13,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 374587,
       "num": 374587,
       "word": "证监会一日内连发三文",
@@ -2619,14 +2643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365133,
-      "num": 365133,
-      "word": "不要忘记了普通人的生活",
-      "onboard_time": 1707229472,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 363719,
       "num": 363719,
       "word": "请和我的老公结婚",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1707215491,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355611,
+      "num": 355611,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 354884,
@@ -2745,6 +2769,14 @@
       "onboard_time": 1707210934,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 342667,
+      "num": 342667,
+      "word": "张真源输出第一",
+      "onboard_time": 1707233431,
+      "rank": 32,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 341773,
@@ -2857,14 +2889,6 @@
       "onboard_time": 1707005609,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322909,
-      "num": 322909,
-      "word": "请和我的老公结婚第12集",
-      "onboard_time": 1707229893,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 322428,
@@ -2985,6 +3009,14 @@
       "onboard_time": 1707017011,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312129,
+      "num": 226171,
+      "word": "张真源荣耀王者61星",
+      "onboard_time": 1707235710,
+      "rank": 21,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 307392,
@@ -3641,6 +3673,14 @@
       "onboard_time": 1707191609,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253551,
+      "num": 253551,
+      "word": "约旦vs韩国",
+      "onboard_time": 1707233132,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 252822,
@@ -4371,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219950,
+      "num": 219950,
+      "word": "春楠拍赵丽颖",
+      "onboard_time": 1707234151,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219923,
       "num": 219923,
       "word": "日本赛票价为香港赛票价一半不到",
@@ -4449,14 +4497,6 @@
       "onboard_time": 1707135332,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217498,
-      "num": 217498,
-      "word": "张真源输出第一",
-      "onboard_time": 1707233431,
-      "rank": 32,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 217341,
@@ -4609,6 +4649,14 @@
       "onboard_time": 1707186332,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211589,
+      "num": 211589,
+      "word": "白敬亭宋家腾又上一辆⻋了",
+      "onboard_time": 1707234509,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 211525,
@@ -5307,14 +5355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193885,
-      "num": 193885,
-      "word": "约旦vs韩国",
-      "onboard_time": 1707233132,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193791,
       "num": 193791,
       "word": "鞠婧祎唯美妆",
@@ -5369,6 +5409,14 @@
       "onboard_time": 1707044070,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192581,
+      "num": 192581,
+      "word": "秦世纪",
+      "onboard_time": 1707234092,
+      "rank": 29,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 192383,
@@ -5747,6 +5795,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 178741,
+      "num": 178741,
+      "word": "霍启刚邀请国际米兰访港交流",
+      "onboard_time": 1707234871,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178678,
       "num": 178678,
       "word": "阅文IP盛典",
@@ -5785,6 +5841,14 @@
       "onboard_time": 1706984960,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177047,
+      "num": 177047,
+      "word": "Twins关智斌合唱死性不改",
+      "onboard_time": 1707234931,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 177031,
@@ -6049,6 +6113,14 @@
       "onboard_time": 1707194375,
       "rank": 41,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 168975,
+      "num": 168975,
+      "word": "在暴雪时分微博评分最高现偶剧",
+      "onboard_time": 1707235890,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 168894,
@@ -7745,6 +7817,14 @@
       "onboard_time": 1707011070,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120229,
+      "num": 120229,
+      "word": "吴磊赵今麦沙发吻花絮",
+      "onboard_time": 1707235829,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 120047,
