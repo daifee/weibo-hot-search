@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707244456476,
+  "endTime": 1707246855004,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -17475,6 +17475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50004,
+      "num": 50004,
+      "word": "吴磊王星越有点暧昧了",
+      "onboard_time": 1707242540,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49732,
       "num": 867839,
       "word": "致敬低温雨雪冰冻天气的守护者",
@@ -17569,14 +17577,6 @@
       "onboard_time": 1706916619,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47360,
-      "num": 47360,
-      "word": "吴磊王星越有点暧昧了",
-      "onboard_time": 1707242540,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 47003,
@@ -18065,6 +18065,14 @@
       "onboard_time": 1707158539,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22261,
+      "num": 22261,
+      "word": "春晚大赏",
+      "onboard_time": 1707246619,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 22239,

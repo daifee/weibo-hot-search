@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707244456476,
+  "endTime": 1707246855004,
   "band_list": [
     {
       "raw_hot": 1858237,
@@ -459,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47360,
-      "num": 47360,
+      "raw_hot": 50004,
+      "num": 50004,
       "word": "吴磊王星越有点暧昧了",
       "onboard_time": 1707242540,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22261,
+      "num": 22261,
+      "word": "春晚大赏",
+      "onboard_time": 1707246619,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
