@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707258828728,
+  "endTime": 1707261412112,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -1388,7 +1388,7 @@
     },
     {
       "raw_hot": 647409,
-      "num": 348808,
+      "num": 375450,
       "word": "县城彩礼从18.8万涨到3个9万9加房和车",
       "onboard_time": 1707222753,
       "rank": 24,
@@ -1835,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519728,
+      "num": 519728,
+      "word": "霍启刚直言梅西没有尊重球迷",
+      "onboard_time": 1707240923,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515986,
       "num": 506070,
       "word": "肾不好嘴唇和眼圈会发黑",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1707209071,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437027,
+      "num": 437027,
+      "word": "你的微信聊天记录值多少钱",
+      "onboard_time": 1707237566,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 433311,
@@ -3203,6 +3219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 289485,
+      "num": 289485,
+      "word": "熊猫疼得想咬人一看是保育员忍住了",
+      "onboard_time": 1707232773,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289425,
       "num": 289425,
       "word": "知否开始独播",
@@ -3217,14 +3241,6 @@
       "onboard_time": 1707105393,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285672,
-      "num": 285672,
-      "word": "霍启刚直言梅西没有尊重球迷",
-      "onboard_time": 1707240923,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 285080,
@@ -3555,14 +3571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264568,
-      "num": 264568,
-      "word": "熊猫疼得想咬人一看是保育员忍住了",
-      "onboard_time": 1707232773,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264384,
       "num": 264384,
       "word": "人在工位脑子已经回家了",
@@ -3793,14 +3801,6 @@
       "onboard_time": 1707102812,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 249233,
-      "num": 224294,
-      "word": "你的微信聊天记录值多少钱",
-      "onboard_time": 1707237566,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 247267,
@@ -5771,6 +5771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 181650,
+      "num": 181650,
+      "word": "美媒下场报道梅西之乱",
+      "onboard_time": 1707260662,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180659,
       "num": 180659,
       "word": "摩羯座的张小斐 隐忍又强大",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1707056674,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171199,
+      "num": 99285,
+      "word": "做美甲为什么要把这个肉割掉",
+      "onboard_time": 1707260600,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 171178,
@@ -7547,6 +7563,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 128998,
+      "num": 128998,
+      "word": "约旦2比0韩国",
+      "onboard_time": 1707261019,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128841,
       "num": 128841,
       "word": "原来南北方年夜饭差距这么大",
@@ -7953,6 +7977,14 @@
       "onboard_time": 1707033449,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117460,
+      "num": 117460,
+      "word": "原来这就是浙江省的省饭啊",
+      "onboard_time": 1707254595,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 117000,
@@ -8475,12 +8507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76026,
+      "num": 76026,
+      "word": "全红婵陈芋汐世锦赛三连冠",
+      "onboard_time": 1707261082,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75115,
       "num": 75115,
       "word": "王子浩 这就是街舞总决赛vlog",
       "onboard_time": 1707148891,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74482,
+      "num": 58874,
+      "word": "填事假理由被全公司嘲笑了",
+      "onboard_time": 1707261382,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 73513,
@@ -8659,6 +8707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61175,
+      "num": 61175,
+      "word": "范丞丞叫杨紫阿紫的心路历程",
+      "onboard_time": 1707254836,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58028,
       "num": 58028,
       "word": "治愈自己最好的方式就是忙碌和早睡",
@@ -8707,6 +8763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53102,
+      "num": 49206,
+      "word": "金莎因为一个MV镜头被海蝶老板看中",
+      "onboard_time": 1707253697,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52535,
+      "num": 52535,
+      "word": "理想汽车发4至8个月年终奖",
+      "onboard_time": 1707261262,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51428,
       "num": 51428,
       "word": "列车播报员居然是毛不易",
@@ -8715,8 +8787,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50004,
-      "num": 50004,
+      "raw_hot": 50166,
+      "num": 50166,
       "word": "吴磊王星越有点暧昧了",
       "onboard_time": 1707242540,
       "rank": 41,
@@ -8745,6 +8817,14 @@
       "onboard_time": 1707152245,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48366,
+      "num": 48366,
+      "word": "金晨70年代柜姐妆造",
+      "onboard_time": 1707256156,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48309,
@@ -8777,6 +8857,22 @@
       "onboard_time": 1707108033,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47658,
+      "num": 47658,
+      "word": "谢娜玩游戏从不让着女儿",
+      "onboard_time": 1707257237,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 47573,
+      "num": 47573,
+      "word": "全红婵双冠王",
+      "onboard_time": 1707260662,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 47003,
@@ -8819,12 +8915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43141,
-      "num": 43141,
-      "word": "原来这就是浙江省的省饭啊",
-      "onboard_time": 1707254595,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 42713,
+      "num": 42713,
+      "word": "新婚过年一定要在男方家吗",
+      "onboard_time": 1707261141,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 41986,
@@ -8851,6 +8947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41318,
+      "num": 41318,
+      "word": "今朝cp再上恋综",
+      "onboard_time": 1707247815,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41209,
       "num": 41209,
       "word": "同龄人谈恋爱",
@@ -8865,6 +8969,14 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39173,
+      "num": 39173,
+      "word": "吴磊赵今麦床头咚的一百种姿势",
+      "onboard_time": 1707257597,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 37603,
@@ -8899,14 +9011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36442,
-      "num": 36442,
-      "word": "范丞丞叫杨紫阿紫的心路历程",
-      "onboard_time": 1707254836,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35543,
       "num": 35543,
       "word": "元气森林创始人称要向华为学习",
@@ -8929,14 +9033,6 @@
       "onboard_time": 1707113791,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34071,
-      "num": 34071,
-      "word": "谢娜玩游戏从不让着女儿",
-      "onboard_time": 1707257237,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 33745,
@@ -8977,14 +9073,6 @@
       "onboard_time": 1707120271,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31764,
-      "num": 28620,
-      "word": "金莎因为一个MV镜头被海蝶老板看中",
-      "onboard_time": 1707253697,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 30955,
@@ -9059,14 +9147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27131,
-      "num": 27131,
-      "word": "金晨70年代柜姐妆造",
-      "onboard_time": 1707256156,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 25992,
       "num": 349417,
       "word": "春运路上被白象暖到了",
@@ -9107,14 +9187,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 23766,
-      "num": 23766,
-      "word": "今朝cp再上恋综",
-      "onboard_time": 1707247815,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 23758,
       "num": 23758,
       "word": "祝绪丹新剧妆造",
@@ -9153,14 +9225,6 @@
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20764,
-      "num": 20764,
-      "word": "吴磊赵今麦床头咚的一百种姿势",
-      "onboard_time": 1707257597,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 20535,
