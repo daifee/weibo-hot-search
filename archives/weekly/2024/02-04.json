@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707248110753,
+  "endTime": 1707250665521,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -9145,6 +9145,14 @@
       "onboard_time": 1707158717,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17215,
+      "num": 17215,
+      "word": "短剧少爷和我",
+      "onboard_time": 1707248297,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 15833,

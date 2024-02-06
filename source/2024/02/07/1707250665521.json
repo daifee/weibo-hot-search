@@ -1,0 +1,410 @@
+{
+  "runTime": 1707250665521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 171394,
+        "num": 171394,
+        "word": "你的微信聊天记录值多少钱",
+        "onboard_time": 1707237566,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134886,
+        "num": 134886,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9582,
+        "num": 113262,
+        "word": "我与家人合个影",
+        "onboard_time": 1707223349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145609,
+        "num": 112986,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109504,
+        "num": 109504,
+        "word": "梅西账号评论区被网友围攻",
+        "onboard_time": 1707213992,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82390,
+        "num": 82390,
+        "word": "国际米兰回应霍启刚",
+        "onboard_time": 1707223592,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82304,
+        "num": 82304,
+        "word": "香港前特首女儿怒斥梅西",
+        "onboard_time": 1707207689,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69957,
+        "num": 69957,
+        "word": "车厘子吃多了身体会怎么样",
+        "onboard_time": 1707227189,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69887,
+        "num": 69887,
+        "word": "日媒称丝毫看不出梅西状态不佳",
+        "onboard_time": 1707221371,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56396,
+        "num": 56396,
+        "word": "刀片嗓喉咙肿一查全阴性",
+        "onboard_time": 1707225631,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147243,
+        "num": 55178,
+        "word": "小黑粉",
+        "onboard_time": 1707232052,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 52730,
+        "num": 52730,
+        "word": "不要忘记了普通人的生活",
+        "onboard_time": 1707229472,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49123,
+        "num": 49123,
+        "word": "梅西日本赛前训练",
+        "onboard_time": 1707215911,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44354,
+        "num": 44354,
+        "word": "熊猫疼得想咬人一看是保育员忍住了",
+        "onboard_time": 1707232773,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43349,
+        "num": 43349,
+        "word": "周也觉得林一太帅不好意思说话",
+        "onboard_time": 1707239904,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39846,
+        "num": 39846,
+        "word": "梅西",
+        "onboard_time": 1707205229,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36470,
+        "num": 36470,
+        "word": "奚梦瑶说22岁的金莎很漂亮",
+        "onboard_time": 1707218851,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35197,
+        "num": 35197,
+        "word": "吴磊王星越有点暧昧了",
+        "onboard_time": 1707242540,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34156,
+        "num": 34156,
+        "word": "BLACKPINK四家大吧不再发送生日贺文",
+        "onboard_time": 1707225213,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31418,
+        "num": 31418,
+        "word": "内裤要多久换洗一次",
+        "onboard_time": 1707218611,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37024,
+        "num": 31265,
+        "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+        "onboard_time": 1707222753,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30166,
+        "num": 30166,
+        "word": "请和我的老公结婚第12集",
+        "onboard_time": 1707229893,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29192,
+        "num": 29192,
+        "word": "约旦vs韩国",
+        "onboard_time": 1707233132,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29082,
+        "num": 29082,
+        "word": "大司马芜湖政协委员资格被撤",
+        "onboard_time": 1707228933,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28903,
+        "num": 28903,
+        "word": "在暴雪时分微博评分最高现偶剧",
+        "onboard_time": 1707235890,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28259,
+        "num": 28259,
+        "word": "白敬亭宋家腾又上一辆⻋了",
+        "onboard_time": 1707234509,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27897,
+        "num": 27897,
+        "word": "诛仙1央六收视破3登顶",
+        "onboard_time": 1707229354,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27330,
+        "num": 27330,
+        "word": "专家呼吁女性适龄生育",
+        "onboard_time": 1707212191,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24545,
+        "num": 24545,
+        "word": "时代少年团王者技术",
+        "onboard_time": 1707234571,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 24004,
+        "num": 24004,
+        "word": "Kpop艺人中国杂志总销量TOP15",
+        "onboard_time": 1707234630,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23188,
+        "num": 23188,
+        "word": "张真源荣耀王者61星",
+        "onboard_time": 1707235710,
+        "rank": 30,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 22868,
+        "num": 22868,
+        "word": "董宇辉对美甲的困惑",
+        "onboard_time": 1707220651,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21928,
+        "num": 21928,
+        "word": "打工多少年能买这床被子",
+        "onboard_time": 1707226415,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21107,
+        "num": 21107,
+        "word": "艾比又整了鼻子",
+        "onboard_time": 1707216811,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20858,
+        "num": 20858,
+        "word": "今朝cp再上恋综",
+        "onboard_time": 1707247815,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20762,
+        "num": 20762,
+        "word": "亚洲杯半决赛",
+        "onboard_time": 1707233552,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20557,
+        "num": 20557,
+        "word": "秦世纪",
+        "onboard_time": 1707234092,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 20553,
+        "num": 20553,
+        "word": "霍启刚邀请国际米兰访港交流",
+        "onboard_time": 1707234871,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19132,
+        "num": 19132,
+        "word": "春楠拍赵丽颖",
+        "onboard_time": 1707234151,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18702,
+        "num": 18702,
+        "word": "迪丽热巴花少主题曲镜头",
+        "onboard_time": 1707238765,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18424,
+        "num": 18424,
+        "word": "刘亦菲刘宇宁或将合作",
+        "onboard_time": 1707219391,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17960,
+        "num": 17960,
+        "word": "Fly和Gemini再现回忆杀",
+        "onboard_time": 1707232953,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17423,
+        "num": 17423,
+        "word": "马嘉祺心态",
+        "onboard_time": 1707231152,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 17215,
+        "num": 17215,
+        "word": "短剧少爷和我",
+        "onboard_time": 1707248297,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15913,
+        "num": 15913,
+        "word": "王者荣耀时代少年团直播",
+        "onboard_time": 1707219812,
+        "rank": 44,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 15873,
+        "num": 15873,
+        "word": "易烊千玺痛失本名",
+        "onboard_time": 1707208773,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14829,
+        "num": 14829,
+        "word": "张真源输出第一",
+        "onboard_time": 1707233431,
+        "rank": 46,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 14711,
+        "num": 14711,
+        "word": "宋亚轩cos孙尚香动作",
+        "onboard_time": 1707225273,
+        "rank": 47,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 14565,
+        "num": 14565,
+        "word": "霍启刚说热情被狠狠践踏",
+        "onboard_time": 1707187469,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14525,
+        "num": 14525,
+        "word": "全红婵陈芋汐双人决赛",
+        "onboard_time": 1707232113,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春到我家心里倍儿温暖#"
+    }
+  }
+}
