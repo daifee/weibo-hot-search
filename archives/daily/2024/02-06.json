@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707207696341,
+  "endTime": 1707208443578,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1069641,
+      "num": 1069641,
+      "word": "化妆师兔子",
+      "onboard_time": 1707206970,
+      "rank": 12,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1066148,
       "num": 1066148,
       "word": "浦发银行不发年终奖发一封家书",
@@ -107,20 +115,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1050176,
+      "num": 1050176,
+      "word": "木村拓哉俩女儿颜值",
+      "onboard_time": 1707203969,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1032840,
       "num": 1032840,
       "word": "我被暴雪留在高速的第三天",
       "onboard_time": 1707146372,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1027841,
-      "num": 1027841,
-      "word": "木村拓哉俩女儿颜值",
-      "onboard_time": 1707203969,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1014040,
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 912991,
+      "num": 912991,
+      "word": "某银行总行暂停晋升",
+      "onboard_time": 1707205768,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896153,
       "num": 896153,
       "word": "知否版权",
@@ -187,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 853900,
+      "num": 853900,
+      "word": "香港前特首女儿怒斥梅西",
+      "onboard_time": 1707207689,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 851390,
       "num": 851390,
       "word": "王者荣耀皮肤雨",
@@ -201,6 +225,14 @@
       "onboard_time": 1707181469,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810373,
+      "num": 810373,
+      "word": "韩国流行起后脑勺整形",
+      "onboard_time": 1707206731,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 799796,
@@ -225,14 +257,6 @@
       "onboard_time": 1707143012,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 749266,
-      "num": 491429,
-      "word": "某银行总行暂停晋升",
-      "onboard_time": 1707205768,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 744701,
@@ -395,14 +419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 505715,
-      "num": 505715,
-      "word": "韩国流行起后脑勺整形",
-      "onboard_time": 1707206731,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 504839,
       "num": 504839,
       "word": "为什么东亚生育率降到全球最低",
@@ -425,14 +441,6 @@
       "onboard_time": 1707187051,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 484080,
-      "num": 484080,
-      "word": "化妆师兔子",
-      "onboard_time": 1707206970,
-      "rank": 12,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 481350,
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272941,
+      "num": 272941,
+      "word": "年轻人断亲反感的究竟是什么",
+      "onboard_time": 1707207089,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271384,
       "num": 271384,
       "word": "billkin抢票",
@@ -849,6 +865,14 @@
       "onboard_time": 1707184231,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241105,
+      "num": 241105,
+      "word": "毛不易今年上春晚也没告诉爸爸",
+      "onboard_time": 1707208171,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 240986,
@@ -1139,12 +1163,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196984,
-      "num": 196984,
-      "word": "年轻人断亲反感的究竟是什么",
-      "onboard_time": 1707207089,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 197103,
+      "num": 197103,
+      "word": "北京调整通州楼市限购政策",
+      "onboard_time": 1707206731,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195903,
@@ -1219,6 +1243,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184957,
+      "num": 184957,
+      "word": "原来不是没有年味了",
+      "onboard_time": 1707206371,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183142,
+      "num": 183142,
+      "word": "吕布貂蝉情皮",
+      "onboard_time": 1707207450,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182455,
       "num": 182455,
       "word": "关晓彤代言的天然呆再被强执",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1707199710,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 175067,
-      "num": 175067,
-      "word": "原来不是没有年味了",
-      "onboard_time": 1707206371,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 173843,
@@ -1307,8 +1339,8 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 168189,
-      "num": 168189,
+      "raw_hot": 168894,
+      "num": 168894,
       "word": "当社恐小狗被强吻",
       "onboard_time": 1707204990,
       "rank": 37,
@@ -1347,11 +1379,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158993,
-      "num": 158993,
-      "word": "北京调整通州楼市限购政策",
-      "onboard_time": 1707206731,
-      "rank": 38,
+      "raw_hot": 158634,
+      "num": 158634,
+      "word": "迪士尼创极速光轮突发故障停在半路",
+      "onboard_time": 1707207930,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1411,12 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152766,
-      "num": 152766,
-      "word": "吕布貂蝉情皮",
-      "onboard_time": 1707207450,
+      "raw_hot": 152941,
+      "num": 152941,
+      "word": "时代少年团游戏语音包",
+      "onboard_time": 1707207689,
       "rank": 41,
-      "category": "游戏"
+      "category": "艺人"
     },
     {
       "raw_hot": 149845,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1707136712,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128026,
+      "num": 128026,
+      "word": "刘嘉玲梁朝伟手牵手",
+      "onboard_time": 1707208291,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 127861,
@@ -1827,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86495,
+      "num": 110654,
+      "word": "春节云上吃喝玩乐指南",
+      "onboard_time": 1707207751,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86112,
       "num": 86112,
       "word": "经典之夜 四大名著齐聚",
@@ -1963,6 +2011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 46059,
+      "num": 1074681,
+      "word": "今年回家新气象",
+      "onboard_time": 1707207089,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44764,
       "num": 44764,
       "word": "雷军也玩cosplay",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1707203792,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29718,
+      "num": 419111,
+      "word": "黄子弘凡祝大家欧气满满",
+      "onboard_time": 1707204451,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 27389,
@@ -2011,28 +2075,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25621,
-      "num": 419111,
-      "word": "黄子弘凡祝大家欧气满满",
-      "onboard_time": 1707204451,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 23758,
       "num": 23758,
       "word": "祝绪丹新剧妆造",
       "onboard_time": 1707158539,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22301,
-      "num": 1074681,
-      "word": "今年回家新气象",
-      "onboard_time": 1707207089,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18835,
