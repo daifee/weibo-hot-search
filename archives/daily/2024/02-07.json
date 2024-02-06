@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707255236692,
+  "endTime": 1707257754166,
   "band_list": [
     {
       "raw_hot": 1858237,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 249233,
-      "num": 185310,
+      "num": 187884,
       "word": "你的微信聊天记录值多少钱",
       "onboard_time": 1707237566,
       "rank": 20,
@@ -467,6 +467,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34883,
+      "num": 34883,
+      "word": "原来这就是浙江省的省饭啊",
+      "onboard_time": 1707254595,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 30109,
+      "num": 30109,
+      "word": "范丞丞叫杨紫阿紫的心路历程",
+      "onboard_time": 1707254836,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28906,
+      "num": 25568,
+      "word": "金莎因为一个MV镜头被海蝶老板看中",
+      "onboard_time": 1707253697,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23766,
       "num": 23766,
       "word": "今朝cp再上恋综",
@@ -483,20 +507,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21796,
-      "num": 21796,
-      "word": "金莎因为一个MV镜头被海蝶老板看中",
-      "onboard_time": 1707253697,
-      "rank": 40,
+      "raw_hot": 21364,
+      "num": 21364,
+      "word": "金晨70年代柜姐妆造",
+      "onboard_time": 1707256156,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19297,
+      "num": 19297,
+      "word": "谢娜玩游戏从不让着女儿",
+      "onboard_time": 1707257237,
+      "rank": 37,
       "category": "综艺"
     },
     {
-      "raw_hot": 20116,
-      "num": 20116,
-      "word": "范丞丞叫杨紫阿紫的心路历程",
-      "onboard_time": 1707254836,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 19230,
+      "num": 19230,
+      "word": "米哈游你拿我的内存做了什么",
+      "onboard_time": 1707252616,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 17215,
@@ -507,28 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16454,
-      "num": 16454,
-      "word": "原来这就是浙江省的省饭啊",
-      "onboard_time": 1707254595,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 16011,
-      "num": 16011,
+      "raw_hot": 16580,
+      "num": 16580,
       "word": "一代人有一代人的四小花旦",
       "onboard_time": 1707250937,
       "rank": 43,
       "category": "艺人"
     },
     {
-      "raw_hot": 15685,
-      "num": 15685,
-      "word": "米哈游你拿我的内存做了什么",
-      "onboard_time": 1707252616,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 16228,
+      "num": 16228,
+      "word": "汤圆生产线治愈强迫症",
+      "onboard_time": 1707255495,
+      "rank": 47,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
