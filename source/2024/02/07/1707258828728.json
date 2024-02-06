@@ -1,0 +1,410 @@
+{
+  "runTime": 1707258828728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 224294,
+        "num": 224294,
+        "word": "你的微信聊天记录值多少钱",
+        "onboard_time": 1707237566,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215105,
+        "num": 215105,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14969,
+        "num": 208878,
+        "word": "我与家人合个影",
+        "onboard_time": 1707223349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205664,
+        "num": 205664,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164678,
+        "num": 164678,
+        "word": "国际米兰回应霍启刚",
+        "onboard_time": 1707223592,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119643,
+        "num": 119643,
+        "word": "梅西账号评论区被网友围攻",
+        "onboard_time": 1707213992,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116018,
+        "num": 116018,
+        "word": "熊猫疼得想咬人一看是保育员忍住了",
+        "onboard_time": 1707232773,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111411,
+        "num": 111411,
+        "word": "车厘子吃多了身体会怎么样",
+        "onboard_time": 1707227189,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106135,
+        "num": 106135,
+        "word": "刀片嗓喉咙肿一查全阴性",
+        "onboard_time": 1707225631,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99328,
+        "num": 99328,
+        "word": "香港前特首女儿怒斥梅西",
+        "onboard_time": 1707207689,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108606,
+        "num": 96392,
+        "word": "小黑粉",
+        "onboard_time": 1707232052,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 92307,
+        "num": 92307,
+        "word": "日媒称丝毫看不出梅西状态不佳",
+        "onboard_time": 1707221371,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77410,
+        "num": 77410,
+        "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+        "onboard_time": 1707222753,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72593,
+        "num": 72593,
+        "word": "不要忘记了普通人的生活",
+        "onboard_time": 1707229472,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65122,
+        "num": 65122,
+        "word": "周也觉得林一太帅不好意思说话",
+        "onboard_time": 1707239904,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63387,
+        "num": 63387,
+        "word": "大司马芜湖政协委员资格被撤",
+        "onboard_time": 1707228933,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58298,
+        "num": 58298,
+        "word": "约旦vs韩国",
+        "onboard_time": 1707233132,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53653,
+        "num": 53653,
+        "word": "诛仙1央六收视破3登顶",
+        "onboard_time": 1707229354,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45162,
+        "num": 45162,
+        "word": "梅西日本赛前训练",
+        "onboard_time": 1707215911,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43141,
+        "num": 43141,
+        "word": "原来这就是浙江省的省饭啊",
+        "onboard_time": 1707254595,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49079,
+        "num": 43133,
+        "word": "白敬亭宋家腾又上一辆⻋了",
+        "onboard_time": 1707234509,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43122,
+        "num": 43122,
+        "word": "请和我的老公结婚第12集",
+        "onboard_time": 1707229893,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41070,
+        "num": 41070,
+        "word": "内裤要多久换洗一次",
+        "onboard_time": 1707218611,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40635,
+        "num": 40635,
+        "word": "专家呼吁女性适龄生育",
+        "onboard_time": 1707212191,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39491,
+        "num": 39491,
+        "word": "梅西",
+        "onboard_time": 1707205229,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37820,
+        "num": 37820,
+        "word": "亚洲杯半决赛",
+        "onboard_time": 1707233552,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36442,
+        "num": 36442,
+        "word": "范丞丞叫杨紫阿紫的心路历程",
+        "onboard_time": 1707254836,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35635,
+        "num": 35635,
+        "word": "吴磊王星越有点暧昧了",
+        "onboard_time": 1707242540,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34071,
+        "num": 34071,
+        "word": "谢娜玩游戏从不让着女儿",
+        "onboard_time": 1707257237,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32959,
+        "num": 32959,
+        "word": "奚梦瑶说22岁的金莎很漂亮",
+        "onboard_time": 1707218851,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31581,
+        "num": 31581,
+        "word": "董宇辉对美甲的困惑",
+        "onboard_time": 1707220651,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30920,
+        "num": 30920,
+        "word": "在暴雪时分微博评分最高现偶剧",
+        "onboard_time": 1707235890,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29021,
+        "num": 29021,
+        "word": "打工多少年能买这床被子",
+        "onboard_time": 1707226415,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28717,
+        "num": 28717,
+        "word": "迪丽热巴花少主题曲镜头",
+        "onboard_time": 1707238765,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31764,
+        "num": 28620,
+        "word": "金莎因为一个MV镜头被海蝶老板看中",
+        "onboard_time": 1707253697,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27131,
+        "num": 27131,
+        "word": "金晨70年代柜姐妆造",
+        "onboard_time": 1707256156,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26709,
+        "num": 26709,
+        "word": "春楠拍赵丽颖",
+        "onboard_time": 1707234151,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25431,
+        "num": 25431,
+        "word": "霍启刚邀请国际米兰访港交流",
+        "onboard_time": 1707234871,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23346,
+        "num": 23346,
+        "word": "全红婵陈芋汐双人决赛",
+        "onboard_time": 1707232113,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22758,
+        "num": 22758,
+        "word": "时代少年团王者技术",
+        "onboard_time": 1707234571,
+        "rank": 39,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 22357,
+        "num": 22357,
+        "word": "Kpop艺人中国杂志总销量TOP15",
+        "onboard_time": 1707234630,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20764,
+        "num": 20764,
+        "word": "吴磊赵今麦床头咚的一百种姿势",
+        "onboard_time": 1707257597,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20535,
+        "num": 20535,
+        "word": "米哈游你拿我的内存做了什么",
+        "onboard_time": 1707252616,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19884,
+        "num": 19884,
+        "word": "马嘉祺心态",
+        "onboard_time": 1707231152,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 19258,
+        "num": 19258,
+        "word": "BLACKPINK四家大吧不再发送生日贺文",
+        "onboard_time": 1707225213,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19021,
+        "num": 19021,
+        "word": "刘亦菲刘宇宁或将合作",
+        "onboard_time": 1707219391,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18071,
+        "num": 18071,
+        "word": "一代人有一代人的四小花旦",
+        "onboard_time": 1707250937,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17999,
+        "num": 17999,
+        "word": "张真源荣耀王者61星",
+        "onboard_time": 1707235710,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 17981,
+        "num": 17981,
+        "word": "艾比又整了鼻子",
+        "onboard_time": 1707216811,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16689,
+        "num": 17976,
+        "word": "汤圆生产线治愈强迫症",
+        "onboard_time": 1707255495,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#论深入学习贯彻习近平文化思想#"
+    }
+  }
+}
