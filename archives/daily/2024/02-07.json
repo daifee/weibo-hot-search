@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707246855004,
+  "endTime": 1707248110753,
   "band_list": [
     {
       "raw_hot": 1858237,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 249233,
-      "num": 184226,
+      "num": 185310,
       "word": "你的微信聊天记录值多少钱",
       "onboard_time": 1707237566,
       "rank": 20,
@@ -465,6 +465,14 @@
       "onboard_time": 1707242540,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23766,
+      "num": 23766,
+      "word": "今朝cp再上恋综",
+      "onboard_time": 1707247815,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 22261,
