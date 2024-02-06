@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707189509461,
+  "endTime": 1707190453055,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -81,6 +81,14 @@
       "onboard_time": 1706873973,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2655596,
+      "num": 2655596,
+      "word": "霍启刚说热情被狠狠践踏",
+      "onboard_time": 1707187469,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2618527,
@@ -168,14 +176,6 @@
       "word": "梅西爽约突破商业底线",
       "onboard_time": 1707127953,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2157881,
-      "num": 2157881,
-      "word": "霍启刚说热情被狠狠践踏",
-      "onboard_time": 1707187469,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -1099,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1014040,
+      "num": 585848,
+      "word": "医生怒斥杨波头孢配酒死不了言论",
+      "onboard_time": 1707187590,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013562,
       "num": 1013562,
       "word": "童漠男 行业又没了",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1706922750,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977671,
+      "num": 977671,
+      "word": "李家超回应梅西缺赛",
+      "onboard_time": 1707185550,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 976345,
@@ -1459,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851390,
+      "num": 851390,
+      "word": "王者荣耀皮肤雨",
+      "onboard_time": 1707188910,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 847197,
       "num": 847197,
       "word": "北大学姐说静夜思不是李白原作",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1707021993,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 807811,
-      "num": 807811,
-      "word": "李家超回应梅西缺赛",
-      "onboard_time": 1707185550,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 807383,
@@ -1905,14 +1921,6 @@
       "onboard_time": 1706789370,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 734036,
-      "num": 490922,
-      "word": "医生怒斥杨波头孢配酒死不了言论",
-      "onboard_time": 1707187590,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 730828,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1706880274,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647805,
+      "num": 647805,
+      "word": "全红婵陈芋汐让解说词穷",
+      "onboard_time": 1707186690,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 646659,
@@ -2691,14 +2707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 576040,
-      "num": 490725,
-      "word": "全红婵陈芋汐让解说词穷",
-      "onboard_time": 1707186690,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 575455,
       "num": 575455,
       "word": "河南降雪致多趟火车停运",
@@ -2793,6 +2801,14 @@
       "onboard_time": 1707124353,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564442,
+      "num": 564442,
+      "word": "国乒确认釜山世乒赛名单",
+      "onboard_time": 1707187469,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 562931,
@@ -3347,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493021,
+      "num": 493021,
+      "word": "日本球迷担心梅西不出场",
+      "onboard_time": 1707187051,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492931,
       "num": 492931,
       "word": "白鹿裙摆生花",
@@ -3393,14 +3417,6 @@
       "onboard_time": 1707117452,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 488540,
-      "num": 488540,
-      "word": "国乒确认釜山世乒赛名单",
-      "onboard_time": 1707187469,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 488295,
@@ -3497,14 +3513,6 @@
       "onboard_time": 1707123273,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480315,
-      "num": 480315,
-      "word": "王者荣耀皮肤雨",
-      "onboard_time": 1707188910,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 480305,
@@ -3737,6 +3745,14 @@
       "onboard_time": 1707010230,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 450569,
+      "num": 450569,
+      "word": "优酷养老剧",
+      "onboard_time": 1707188311,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 450426,
@@ -4275,20 +4291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400905,
-      "num": 400905,
-      "word": "优酷养老剧",
-      "onboard_time": 1707188311,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400489,
       "num": 400489,
       "word": "Xiaohu偷家RNG",
       "onboard_time": 1707049954,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 399088,
+      "num": 399088,
+      "word": "尔滨游客到上海后狂贴66个暖宝宝",
+      "onboard_time": 1707187350,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398618,
@@ -4345,14 +4361,6 @@
       "onboard_time": 1706844811,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393320,
-      "num": 393320,
-      "word": "日本球迷担心梅西不出场",
-      "onboard_time": 1707187051,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 392546,
@@ -5025,14 +5033,6 @@
       "onboard_time": 1706830163,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 336425,
-      "num": 336425,
-      "word": "尔滨游客到上海后狂贴66个暖宝宝",
-      "onboard_time": 1707187350,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335827,
@@ -5713,6 +5713,14 @@
       "onboard_time": 1707035911,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294439,
+      "num": 294439,
+      "word": "大唐狄公案开播",
+      "onboard_time": 1707189267,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 294008,
@@ -7467,6 +7475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224368,
+      "num": 224368,
+      "word": "4278只基金净值跌破1元",
+      "onboard_time": 1707189510,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224309,
       "num": 224309,
       "word": "湖南益阳南县一菜市场发生坍塌事故",
@@ -8227,6 +8243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207663,
+      "num": 207663,
+      "word": "巴厘岛要向外国游客收旅游税",
+      "onboard_time": 1707188670,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 207657,
       "num": 207657,
       "word": "为什么坐车时看手机越看越想吐",
@@ -8625,6 +8649,14 @@
       "onboard_time": 1707125071,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202432,
+      "num": 202432,
+      "word": "千朵桃花一世开官宣杀青",
+      "onboard_time": 1707189449,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 202169,
@@ -9537,14 +9569,6 @@
       "onboard_time": 1706797952,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189031,
-      "num": 189031,
-      "word": "巴厘岛要向外国游客收旅游税",
-      "onboard_time": 1707188670,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 188917,
@@ -11779,14 +11803,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148293,
-      "num": 148293,
-      "word": "大唐狄公案开播",
-      "onboard_time": 1707189267,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "打雷姐 0中",
@@ -11993,6 +12009,14 @@
       "onboard_time": 1706858973,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145209,
+      "num": 145209,
+      "word": "南方人跟东北学到过年大扫除真东西了",
+      "onboard_time": 1707189030,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 145163,
@@ -12323,14 +12347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139641,
-      "num": 139641,
-      "word": "南方人跟东北学到过年大扫除真东西了",
-      "onboard_time": 1707189030,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139499,
       "num": 139499,
       "word": "黄瀛子蒋翼床上吻",
@@ -12545,6 +12561,14 @@
       "onboard_time": 1707027333,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136948,
+      "num": 136948,
+      "word": "平替",
+      "onboard_time": 1707187408,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 136774,
@@ -13107,14 +13131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129593,
-      "num": 129593,
-      "word": "平替",
-      "onboard_time": 1707187408,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129537,
       "num": 129537,
       "word": "为啥越来越多人爱上了新中式",
@@ -13667,6 +13683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120047,
+      "num": 120047,
+      "word": "霸王茶姬 陪跑",
+      "onboard_time": 1707190411,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120014,
       "num": 120014,
       "word": "纪委回应干部同时出轨多名女性",
@@ -13737,14 +13761,6 @@
       "onboard_time": 1706774849,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 118761,
-      "num": 118761,
-      "word": "千朵桃花一世开官宣杀青",
-      "onboard_time": 1707189449,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 118619,
@@ -14128,6 +14144,14 @@
       "word": "湖人vs凯尔特人",
       "onboard_time": 1706838990,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112217,
+      "num": 112217,
+      "word": "梅西人形广告牌被踢掉脑袋",
+      "onboard_time": 1707190350,
+      "rank": 47,
       "category": "体育"
     },
     {
