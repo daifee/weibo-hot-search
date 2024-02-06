@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707240841478,
+  "endTime": 1707243541603,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -4523,6 +4523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216732,
+      "num": 216732,
+      "word": "霍启刚直言梅西没有尊重球迷",
+      "onboard_time": 1707240923,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216672,
       "num": 164945,
       "word": "iPhone年收入首次占智能手机市场50%",
@@ -6145,6 +6153,14 @@
       "onboard_time": 1707128310,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168591,
+      "num": 168591,
+      "word": "周也觉得林一太帅不好意思说话",
+      "onboard_time": 1707239904,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 168468,
@@ -7939,14 +7955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117028,
-      "num": 117028,
-      "word": "周也觉得林一太帅不好意思说话",
-      "onboard_time": 1707239904,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117000,
       "num": 117000,
       "word": "IU或将与HYEIN合作",
@@ -8809,6 +8817,14 @@
       "onboard_time": 1707101190,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 41714,
+      "num": 41714,
+      "word": "吴磊王星越有点暧昧了",
+      "onboard_time": 1707242540,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 41700,
