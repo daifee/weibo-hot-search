@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707219240902,
+  "endTime": 1707222672664,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251899,
+      "num": 1251899,
+      "word": "刘亦菲刘宇宁或将合作",
+      "onboard_time": 1707219391,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1251345,
       "num": 1251345,
       "word": "化妆师兔子",
@@ -409,6 +417,14 @@
       "onboard_time": 1707105393,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1127016,
+      "num": 1127016,
+      "word": "王者荣耀时代少年团直播",
+      "onboard_time": 1707219812,
+      "rank": 1,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1125559,
@@ -723,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 880629,
+      "num": 486349,
+      "word": "内裤要多久换洗一次",
+      "onboard_time": 1707218611,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 875049,
       "num": 875049,
       "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
@@ -897,6 +921,14 @@
       "onboard_time": 1707182190,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 797652,
+      "num": 797652,
+      "word": "奚梦瑶说22岁的金莎很漂亮",
+      "onboard_time": 1707218851,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 794108,
@@ -1251,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647049,
+      "num": 647049,
+      "word": "杨紫失落期开车绕北京城",
+      "onboard_time": 1707215791,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646659,
       "num": 646659,
       "word": "全程还原奔驰男下车后1分钟",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1707061291,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 582100,
-      "num": 582100,
-      "word": "杨紫失落期开车绕北京城",
-      "onboard_time": 1707215791,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 579021,
@@ -1947,6 +1979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459703,
+      "num": 459703,
+      "word": "董宇辉对美甲的困惑",
+      "onboard_time": 1707220651,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 453619,
       "num": 453619,
       "word": "南航 延误",
@@ -2219,6 +2259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 407044,
+      "num": 407044,
+      "word": "papi酱 百元礼物互换",
+      "onboard_time": 1707219090,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 405136,
       "num": 405136,
       "word": "春晚第四次联排明星阵容",
@@ -2441,14 +2489,6 @@
       "onboard_time": 1707197912,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367895,
-      "num": 367895,
-      "word": "内裤要多久换洗一次",
-      "onboard_time": 1707218611,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 366187,
@@ -3435,14 +3475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 252056,
-      "num": 252056,
-      "word": "奚梦瑶说22岁的金莎很漂亮",
-      "onboard_time": 1707218851,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -3617,6 +3649,14 @@
       "onboard_time": 1707104191,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241426,
+      "num": 241426,
+      "word": "日媒称丝毫看不出梅西状态不佳",
+      "onboard_time": 1707221371,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 241368,
@@ -3801,6 +3841,14 @@
       "onboard_time": 1706967214,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233273,
+      "num": 233273,
+      "word": "EDG春季赛五连败",
+      "onboard_time": 1707220953,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 232850,
@@ -4643,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203187,
+      "num": 203187,
+      "word": "处女座并不是一个绝情的人",
+      "onboard_time": 1707219630,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203143,
       "num": 203143,
       "word": "格莱美年专",
@@ -4923,6 +4979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194582,
+      "num": 194582,
+      "word": "南来北往",
+      "onboard_time": 1707213089,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194282,
       "num": 194282,
       "word": "穆雷绝平勇士",
@@ -5107,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189715,
+      "num": 189715,
+      "word": "金智媛金秀贤新剧首发预告",
+      "onboard_time": 1707221851,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188842,
       "num": 188842,
       "word": "禁养的烈性犬伤人犬主承担全责",
@@ -5163,12 +5235,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185569,
+      "num": 185569,
+      "word": "胡锡进回血了百分之三点几",
+      "onboard_time": 1707219690,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185470,
       "num": 185470,
       "word": "明明有精神病但能表现得像正常人",
       "onboard_time": 1707023373,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185425,
+      "num": 185425,
+      "word": "FPX战胜EDG",
+      "onboard_time": 1707220711,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185244,
+      "num": 185244,
+      "word": "玛沙 跑路",
+      "onboard_time": 1707218487,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 184957,
@@ -5201,6 +5297,14 @@
       "onboard_time": 1707129629,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183874,
+      "num": 183874,
+      "word": "能让下半身脱胎换骨的健身动作",
+      "onboard_time": 1707219931,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 183820,
@@ -5273,6 +5377,14 @@
       "onboard_time": 1707013950,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180659,
+      "num": 180659,
+      "word": "摩羯座的张小斐 隐忍又强大",
+      "onboard_time": 1707222030,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180134,
@@ -6044,7 +6156,7 @@
     },
     {
       "raw_hot": 153682,
-      "num": 153682,
+      "num": 990110,
       "word": "2023级熊猫宝宝集体拜年",
       "onboard_time": 1707206790,
       "rank": 40,
@@ -6203,28 +6315,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147548,
-      "num": 147548,
-      "word": "玛沙 跑路",
-      "onboard_time": 1707218487,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 147358,
       "num": 147358,
       "word": "吃了这些药谁劝都别喝酒",
       "onboard_time": 1707094955,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146819,
-      "num": 146819,
-      "word": "南来北往",
-      "onboard_time": 1707213089,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 146809,
@@ -6289,6 +6385,14 @@
       "onboard_time": 1707049232,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145765,
+      "num": 145765,
+      "word": "上万名返乡车主自发寻找走失儿童",
+      "onboard_time": 1707219690,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 145299,
@@ -6795,14 +6899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131292,
-      "num": 131292,
-      "word": "papi酱 百元礼物互换",
-      "onboard_time": 1707219090,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 130957,
       "num": 130957,
       "word": "王者荣耀龙年春节",
@@ -6849,6 +6945,14 @@
       "onboard_time": 1707145950,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129881,
+      "num": 129881,
+      "word": "为什么火炉上的水滴会变成五角星",
+      "onboard_time": 1707221611,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 129631,
@@ -6937,6 +7041,14 @@
       "onboard_time": 1707049594,
       "rank": 47,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 127041,
+      "num": 127041,
+      "word": "LNG对战BLG",
+      "onboard_time": 1707221429,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 126869,
@@ -7123,6 +7235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121274,
+      "num": 121274,
+      "word": "乔杉演贾玲前男友",
+      "onboard_time": 1707221011,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121084,
       "num": 121084,
       "word": "东北年夜饭里的硬菜全在这了",
@@ -7185,6 +7305,14 @@
       "onboard_time": 1707186029,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "18个年度护肤产品",
+      "onboard_time": 1707222332,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 119381,
@@ -7435,6 +7563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108825,
+      "num": 108825,
+      "word": "7种常见癌症的筛查方法",
+      "onboard_time": 1707222571,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107734,
       "num": 137930,
       "word": "终于理解我妈了",
@@ -7505,6 +7641,14 @@
       "onboard_time": 1707134550,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105104,
+      "num": 105104,
+      "word": "大唐狄公案",
+      "onboard_time": 1707222628,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103762,
