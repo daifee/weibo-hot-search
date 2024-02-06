@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707203751271,
+  "endTime": 1707204837745,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1464648,
+      "num": 1464648,
+      "word": "举报黄某某学生已换课题将延期毕业",
+      "onboard_time": 1707200311,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1463867,
       "num": 1463867,
       "word": "网友自曝被举报作弊取消考研政治成绩",
@@ -633,14 +641,6 @@
       "onboard_time": 1706876190,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1403780,
-      "num": 1403780,
-      "word": "举报黄某某学生已换课题将延期毕业",
-      "onboard_time": 1707200311,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1395900,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1125559,
+      "num": 1125559,
+      "word": "你什么冠军",
+      "onboard_time": 1707199890,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1125471,
       "num": 1125471,
       "word": "男子偷卖女朋友黄金用作恋爱开销",
@@ -1171,12 +1179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1006071,
-      "num": 1006071,
-      "word": "你什么冠军",
-      "onboard_time": 1707199890,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 1009624,
+      "num": 1009624,
+      "word": "董洁儿子顶顶身高",
+      "onboard_time": 1707202170,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1003912,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1707045452,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 892701,
-      "num": 892701,
-      "word": "董洁儿子顶顶身高",
-      "onboard_time": 1707202170,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 887130,
@@ -2169,6 +2169,14 @@
       "onboard_time": 1706758771,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 692752,
+      "num": 493532,
+      "word": "木村拓哉俩女儿颜值",
+      "onboard_time": 1707203969,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 691972,
@@ -3195,6 +3203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 536083,
+      "num": 536083,
+      "word": "华为分红770亿元",
+      "onboard_time": 1707201869,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 534248,
       "num": 534248,
       "word": "关晓彤方否认演书卷一梦",
@@ -3771,14 +3787,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 468400,
-      "num": 468400,
-      "word": "华为分红770亿元",
-      "onboard_time": 1707201869,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -4161,6 +4169,14 @@
       "onboard_time": 1706875833,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425263,
+      "num": 425263,
+      "word": "梅西说不确定能否在日本上场",
+      "onboard_time": 1707203252,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 424574,
@@ -4979,14 +4995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 363019,
-      "num": 208075,
-      "word": "梅西说不确定能否在日本上场",
-      "onboard_time": 1707203252,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362995,
       "num": 362995,
       "word": "最难追的星座",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1707014790,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313928,
+      "num": 208928,
+      "word": "时代少年团王者直播预告",
+      "onboard_time": 1707204810,
+      "rank": 30,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 313280,
@@ -6395,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275200,
+      "num": 275200,
+      "word": "春晚姓甄的小心点",
+      "onboard_time": 1707204511,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275082,
       "num": 275082,
       "word": "爸妈吐槽大学生要提前吃光全家年货",
@@ -6897,6 +6921,14 @@
       "onboard_time": 1707132571,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252678,
+      "num": 252678,
+      "word": "谢广坤爆改霸总",
+      "onboard_time": 1707204028,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 252506,
@@ -7995,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221086,
+      "num": 221086,
+      "word": "金像奖提名",
+      "onboard_time": 1707204451,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220948,
       "num": 220948,
       "word": "TWICE空降",
@@ -8507,6 +8547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209769,
+      "num": 209769,
+      "word": "阿根廷国家足球队3月将到杭州和北京",
+      "onboard_time": 1707202592,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209674,
       "num": 209674,
       "word": "TF家族新年音乐会",
@@ -8763,6 +8811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205877,
+      "num": 205877,
+      "word": "上海去杭州可以坐飞机了",
+      "onboard_time": 1707199952,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205835,
       "num": 205835,
       "word": "白敬亭红葫芦背包",
@@ -8857,14 +8913,6 @@
       "onboard_time": 1706774909,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205202,
-      "num": 205202,
-      "word": "阿根廷国家足球队3月将到杭州和北京",
-      "onboard_time": 1707202592,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 205118,
@@ -9225,14 +9273,6 @@
       "onboard_time": 1706843191,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200614,
-      "num": 200614,
-      "word": "上海去杭州可以坐飞机了",
-      "onboard_time": 1707199952,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 200089,
@@ -11067,6 +11107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171136,
+      "num": 171136,
+      "word": "创业板指放量大涨6.7%",
+      "onboard_time": 1707204689,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171091,
       "num": 171091,
       "word": "TheShy谈主队",
@@ -12291,6 +12339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149494,
+      "num": 149494,
+      "word": "影版你好旧时光已备案",
+      "onboard_time": 1707204630,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149463,
       "num": 149463,
       "word": "赵云乘龙铭钟鼎新皮肤",
@@ -12643,6 +12699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144285,
+      "num": 144285,
+      "word": "小鱼儿陪安吉参加钢琴比赛睡着",
+      "onboard_time": 1707204689,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144026,
       "num": 144026,
       "word": "朋友把我的五金弄丢了",
@@ -12817,6 +12881,14 @@
       "onboard_time": 1706925391,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140905,
+      "num": 140905,
+      "word": "光夜助力乡村振兴",
+      "onboard_time": 1707202651,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 140857,
@@ -13561,6 +13633,14 @@
       "onboard_time": 1706753252,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131412,
+      "num": 131412,
+      "word": "姜文新片",
+      "onboard_time": 1707203730,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 131311,
@@ -14531,14 +14611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115541,
-      "num": 115541,
-      "word": "姜文新片",
-      "onboard_time": 1707203730,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 115474,
       "num": 115474,
       "word": "LGD对战RW",
@@ -15017,6 +15089,14 @@
       "onboard_time": 1706958810,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106319,
+      "num": 493651,
+      "word": "霸王茶姬龙年",
+      "onboard_time": 1707202592,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 106302,
@@ -15721,14 +15801,6 @@
       "onboard_time": 1706904018,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73856,
-      "num": 479890,
-      "word": "霸王茶姬龙年",
-      "onboard_time": 1707202592,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 73513,
@@ -16561,6 +16633,14 @@
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26378,
+      "num": 156356,
+      "word": "张天爱的红色dresscode是红包",
+      "onboard_time": 1707203792,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 25490,
