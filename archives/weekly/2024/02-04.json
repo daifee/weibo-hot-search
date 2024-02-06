@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707186839340,
+  "endTime": 1707189509461,
   "band_list": [
     {
       "raw_hot": 4033714,
@@ -64,6 +64,14 @@
       "word": "梅西爽约突破商业底线",
       "onboard_time": 1707127953,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2157881,
+      "num": 2157881,
+      "word": "霍启刚说热情被狠狠践踏",
+      "onboard_time": 1707187469,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1543934,
+      "num": 1482168,
+      "word": "养了一年被告知抱错了",
+      "onboard_time": 1707182190,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1509896,
       "num": 599847,
       "word": "北京地铁昌平线列车追尾事故调查报告",
@@ -177,14 +193,6 @@
       "onboard_time": 1707110971,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1482168,
-      "num": 1482168,
-      "word": "养了一年被告知抱错了",
-      "onboard_time": 1707182190,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 1472370,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 807811,
+      "num": 807811,
+      "word": "李家超回应梅西缺赛",
+      "onboard_time": 1707185550,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 805628,
       "num": 805628,
       "word": "为什么只有中国医生擅长取鱼刺",
@@ -809,6 +825,14 @@
       "onboard_time": 1707005127,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734036,
+      "num": 490922,
+      "word": "医生怒斥杨波头孢配酒死不了言论",
+      "onboard_time": 1707187590,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 730828,
@@ -1139,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 576040,
+      "num": 490725,
+      "word": "全红婵陈芋汐让解说词穷",
+      "onboard_time": 1707186690,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572705,
       "num": 336085,
       "word": "男子网购3J车厘子卡尺测量后很受伤",
@@ -1419,14 +1451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 496249,
-      "num": 496249,
-      "word": "李家超回应梅西缺赛",
-      "onboard_time": 1707185550,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 495450,
       "num": 269870,
       "word": "看小说时真的会有生理反应",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1707117452,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 488540,
+      "num": 488540,
+      "word": "国乒确认釜山世乒赛名单",
+      "onboard_time": 1707187469,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 485515,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1707123273,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480315,
+      "num": 480315,
+      "word": "王者荣耀皮肤雨",
+      "onboard_time": 1707188910,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 478909,
@@ -1819,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400905,
+      "num": 400905,
+      "word": "优酷养老剧",
+      "onboard_time": 1707188311,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400489,
       "num": 400489,
       "word": "Xiaohu偷家RNG",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1707005789,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393320,
+      "num": 393320,
+      "word": "日本球迷担心梅西不出场",
+      "onboard_time": 1707187051,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 387518,
@@ -2081,6 +2137,14 @@
       "onboard_time": 1707039631,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 336425,
+      "num": 336425,
+      "word": "尔滨游客到上海后狂贴66个暖宝宝",
+      "onboard_time": 1707187350,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332904,
@@ -2955,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240600,
+      "num": 240600,
+      "word": "一闪一闪亮星星票房破7亿",
+      "onboard_time": 1707188431,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239732,
       "num": 239732,
       "word": "我们的女明星女演员女爱豆都在演些什么",
@@ -3425,6 +3497,14 @@
       "onboard_time": 1707056674,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211641,
+      "num": 211641,
+      "word": "原来春运才是真正意义上的大团圆",
+      "onboard_time": 1707186332,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211198,
@@ -4129,6 +4209,14 @@
       "onboard_time": 1707185670,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189031,
+      "num": 189031,
+      "word": "巴厘岛要向外国游客收旅游税",
+      "onboard_time": 1707188670,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 188842,
@@ -4851,14 +4939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155156,
-      "num": 155156,
-      "word": "全红婵陈芋汐让解说词穷",
-      "onboard_time": 1707186690,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155136,
       "num": 155136,
       "word": "无畏游走位首秀",
@@ -5011,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148293,
+      "num": 148293,
+      "word": "大唐狄公案开播",
+      "onboard_time": 1707189267,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "打雷姐 0中",
@@ -5059,14 +5147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146469,
-      "num": 146469,
-      "word": "原来春运才是真正意义上的大团圆",
-      "onboard_time": 1707186332,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146062,
       "num": 146062,
       "word": "詹姆斯拒绝回应合同问题",
@@ -5089,6 +5169,14 @@
       "onboard_time": 1707049232,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144900,
+      "num": 144900,
+      "word": "浓眉三双",
+      "onboard_time": 1707188551,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 144882,
@@ -5249,6 +5337,14 @@
       "onboard_time": 1707024030,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139641,
+      "num": 139641,
+      "word": "南方人跟东北学到过年大扫除真东西了",
+      "onboard_time": 1707189030,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 139456,
@@ -5547,6 +5643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129593,
+      "num": 129593,
+      "word": "平替",
+      "onboard_time": 1707187408,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129537,
       "num": 129537,
       "word": "为啥越来越多人爱上了新中式",
@@ -5625,6 +5729,14 @@
       "onboard_time": 1707060212,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126624,
+      "num": 126624,
+      "word": "韩国单身妈妈专访",
+      "onboard_time": 1707187289,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 126596,
@@ -5841,6 +5953,14 @@
       "onboard_time": 1707095309,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118761,
+      "num": 118761,
+      "word": "千朵桃花一世开官宣杀青",
+      "onboard_time": 1707189449,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 118314,
