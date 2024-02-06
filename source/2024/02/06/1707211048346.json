@@ -1,0 +1,410 @@
+{
+  "runTime": 1707211048346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727084,
+        "num": 2727084,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1959911,
+        "num": 1959911,
+        "word": "香港前特首女儿怒斥梅西",
+        "onboard_time": 1707207689,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66587,
+        "num": 1489862,
+        "word": "今年回家新气象",
+        "onboard_time": 1707207089,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251345,
+        "num": 1251345,
+        "word": "化妆师兔子",
+        "onboard_time": 1707206970,
+        "rank": 3,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 944612,
+        "num": 944612,
+        "word": "易烊千玺痛失本名",
+        "onboard_time": 1707208773,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924810,
+        "num": 924810,
+        "word": "梅西说自己没受伤但不舒服",
+        "onboard_time": 1707194013,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 920743,
+        "num": 920743,
+        "word": "韩国流行起后脑勺整形",
+        "onboard_time": 1707206731,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639198,
+        "num": 639198,
+        "word": "香港机场一拖行员被飞机撞倒身亡",
+        "onboard_time": 1707209311,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577851,
+        "num": 577851,
+        "word": "某银行总行暂停晋升",
+        "onboard_time": 1707205768,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528615,
+        "num": 528615,
+        "word": "举报黄某某学生已换课题将延期毕业",
+        "onboard_time": 1707200311,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593544,
+        "num": 527559,
+        "word": "霍启刚说热情被狠狠践踏",
+        "onboard_time": 1707187469,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506332,
+        "num": 506332,
+        "word": "梅西",
+        "onboard_time": 1707205229,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486645,
+        "num": 486645,
+        "word": "29岁的陶昕然",
+        "onboard_time": 1707209789,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477273,
+        "num": 477273,
+        "word": "木村拓哉俩女儿颜值",
+        "onboard_time": 1707203969,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472135,
+        "num": 472135,
+        "word": "宋智雅复出录节目",
+        "onboard_time": 1707209192,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437708,
+        "num": 437708,
+        "word": "SuperJuniorDnE内地首封",
+        "onboard_time": 1707209071,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364843,
+        "num": 364843,
+        "word": "杨紫曾在淘宝买红毯活动衣服",
+        "onboard_time": 1707196231,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360380,
+        "num": 360380,
+        "word": "春晚姓甄的小心点",
+        "onboard_time": 1707204511,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338650,
+        "num": 338650,
+        "word": "梅西说不确定能否在日本上场",
+        "onboard_time": 1707203252,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327555,
+        "num": 327555,
+        "word": "王者荣耀皮肤雨",
+        "onboard_time": 1707188910,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283181,
+        "num": 283181,
+        "word": "梅西希望有机会再去香港",
+        "onboard_time": 1707192992,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280020,
+        "num": 280020,
+        "word": "董洁儿子顶顶身高",
+        "onboard_time": 1707202170,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264384,
+        "num": 264384,
+        "word": "人在工位脑子已经回家了",
+        "onboard_time": 1707209789,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261674,
+        "num": 261674,
+        "word": "时代少年团王者直播预告",
+        "onboard_time": 1707204810,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 261157,
+        "num": 261157,
+        "word": "大鹏提名金像奖影帝",
+        "onboard_time": 1707205528,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237874,
+        "num": 237874,
+        "word": "小S老公称20几岁女生是老妹",
+        "onboard_time": 1707199233,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232850,
+        "num": 232850,
+        "word": "艺人剧本 助理划台词",
+        "onboard_time": 1707210092,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230133,
+        "num": 230133,
+        "word": "腾讯正开发艾尔登法环手游",
+        "onboard_time": 1707209734,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221185,
+        "num": 221185,
+        "word": "你什么冠军",
+        "onboard_time": 1707199890,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111655,
+        "num": 221086,
+        "word": "不容易的除冰人",
+        "onboard_time": 1707210571,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221033,
+        "num": 221033,
+        "word": "浦发银行不发年终奖发一封家书",
+        "onboard_time": 1707197251,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220060,
+        "num": 220060,
+        "word": "大鹏高兴疯了",
+        "onboard_time": 1707208952,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216508,
+        "num": 216508,
+        "word": "毛不易今年上春晚也没告诉爸爸",
+        "onboard_time": 1707208171,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204730,
+        "num": 204730,
+        "word": "梅西日本行",
+        "onboard_time": 1707183392,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177267,
+        "num": 177267,
+        "word": "年轻人断亲反感的究竟是什么",
+        "onboard_time": 1707207089,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162221,
+        "num": 162221,
+        "word": "华为分红770亿元",
+        "onboard_time": 1707201869,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157244,
+        "num": 157244,
+        "word": "原来不是没有年味了",
+        "onboard_time": 1707206371,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156429,
+        "num": 156429,
+        "word": "吕布貂蝉情皮",
+        "onboard_time": 1707207450,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150543,
+        "num": 150543,
+        "word": "马龙进入国家队二十一周年",
+        "onboard_time": 1707206312,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141220,
+        "num": 141220,
+        "word": "迪士尼创极速光轮突发故障停在半路",
+        "onboard_time": 1707207930,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141202,
+        "num": 141202,
+        "word": "时代少年团游戏语音包",
+        "onboard_time": 1707207689,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128954,
+        "num": 128954,
+        "word": "北京调整通州楼市限购政策",
+        "onboard_time": 1707206731,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126438,
+        "num": 126438,
+        "word": "李雪琴 领导一定有他的难处",
+        "onboard_time": 1707210934,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121832,
+        "num": 121832,
+        "word": "优酷养老剧",
+        "onboard_time": 1707188311,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114003,
+        "num": 114003,
+        "word": "李家超回应梅西缺赛",
+        "onboard_time": 1707185550,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113391,
+        "num": 113391,
+        "word": "金像奖提名",
+        "onboard_time": 1707204451,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112231,
+        "num": 112231,
+        "word": "上海下雪",
+        "onboard_time": 1707206009,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110642,
+        "num": 110642,
+        "word": "刘嘉玲梁朝伟手牵手",
+        "onboard_time": 1707208291,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110395,
+        "num": 110395,
+        "word": "当社恐小狗被强吻",
+        "onboard_time": 1707204990,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109153,
+        "num": 109153,
+        "word": "霍启刚要求梅西与迈阿密道歉",
+        "onboard_time": 1707095132,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#春回大地情暖人间#"
+    }
+  }
+}

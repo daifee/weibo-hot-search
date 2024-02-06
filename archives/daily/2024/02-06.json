@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707208443578,
+  "endTime": 1707211048346,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -15,6 +15,14 @@
       "num": 2920396,
       "word": "霍启刚说热情被狠狠践踏",
       "onboard_time": 1707187469,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2727084,
+      "num": 2727084,
+      "word": "霍启刚发长文",
+      "onboard_time": 1707208649,
       "rank": 0,
       "category": "体育"
     },
@@ -41,6 +49,14 @@
       "onboard_time": 1707177327,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1959911,
+      "num": 1959911,
+      "word": "香港前特首女儿怒斥梅西",
+      "onboard_time": 1707207689,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1726559,
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251345,
+      "num": 1251345,
+      "word": "化妆师兔子",
+      "onboard_time": 1707206970,
+      "rank": 12,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1205014,
       "num": 1205014,
       "word": "日本小姐冠军承认当小三放弃桂冠",
@@ -97,14 +121,6 @@
       "onboard_time": 1707166155,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1069641,
-      "num": 1069641,
-      "word": "化妆师兔子",
-      "onboard_time": 1707206970,
-      "rank": 12,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1066148,
@@ -171,6 +187,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 944612,
+      "num": 944612,
+      "word": "易烊千玺痛失本名",
+      "onboard_time": 1707208773,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 920743,
+      "num": 920743,
+      "word": "韩国流行起后脑勺整形",
+      "onboard_time": 1707206731,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 912991,
       "num": 912991,
       "word": "某银行总行暂停晋升",
@@ -203,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 853900,
-      "num": 853900,
-      "word": "香港前特首女儿怒斥梅西",
-      "onboard_time": 1707207689,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 851390,
       "num": 851390,
       "word": "王者荣耀皮肤雨",
@@ -225,14 +249,6 @@
       "onboard_time": 1707181469,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 810373,
-      "num": 810373,
-      "word": "韩国流行起后脑勺整形",
-      "onboard_time": 1707206731,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 799796,
@@ -321,6 +337,14 @@
       "onboard_time": 1707186690,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 639198,
+      "num": 639198,
+      "word": "香港机场一拖行员被飞机撞倒身亡",
+      "onboard_time": 1707209311,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626566,
@@ -419,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 506332,
+      "num": 506332,
+      "word": "梅西",
+      "onboard_time": 1707205229,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504839,
       "num": 504839,
       "word": "为什么东亚生育率降到全球最低",
@@ -443,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486645,
+      "num": 486645,
+      "word": "29岁的陶昕然",
+      "onboard_time": 1707209789,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481350,
       "num": 481350,
       "word": "A股超4000家个股上涨",
@@ -457,6 +497,14 @@
       "onboard_time": 1707176546,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472135,
+      "num": 472135,
+      "word": "宋智雅复出录节目",
+      "onboard_time": 1707209192,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 463950,
@@ -539,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437708,
+      "num": 437708,
+      "word": "SuperJuniorDnE内地首封",
+      "onboard_time": 1707209071,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 430628,
       "num": 430628,
       "word": "梅西表演赛主办方撤回1600万港元资助申请",
@@ -577,14 +633,6 @@
       "onboard_time": 1707204810,
       "rank": 30,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 381873,
-      "num": 381873,
-      "word": "梅西",
-      "onboard_time": 1707205229,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 373127,
@@ -787,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264384,
+      "num": 264384,
+      "word": "人在工位脑子已经回家了",
+      "onboard_time": 1707209789,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263552,
       "num": 263552,
       "word": "LOL开播十分钟观众破百万",
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232850,
+      "num": 232850,
+      "word": "艺人剧本 助理划台词",
+      "onboard_time": 1707210092,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232665,
       "num": 232665,
       "word": "范丞丞爸妈气质",
@@ -929,6 +993,14 @@
       "onboard_time": 1707181831,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230133,
+      "num": 230133,
+      "word": "腾讯正开发艾尔登法环手游",
+      "onboard_time": 1707209734,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 225596,
@@ -985,6 +1057,14 @@
       "onboard_time": 1707161297,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220060,
+      "num": 220060,
+      "word": "大鹏高兴疯了",
+      "onboard_time": 1707208952,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 219923,
@@ -1643,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126438,
+      "num": 126438,
+      "word": "李雪琴 领导一定有他的难处",
+      "onboard_time": 1707210934,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125515,
       "num": 125515,
       "word": "朱婷谈是否回归国家队",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1707135692,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 221086,
+      "word": "不容易的除冰人",
+      "onboard_time": 1707210571,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110206,
@@ -1963,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66587,
+      "num": 1489862,
+      "word": "今年回家新气象",
+      "onboard_time": 1707207089,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64272,
       "num": 477414,
       "word": "千万不要打开UC网友年度榜单",
@@ -2009,14 +2113,6 @@
       "onboard_time": 1707151466,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 46059,
-      "num": 1074681,
-      "word": "今年回家新气象",
-      "onboard_time": 1707207089,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44764,

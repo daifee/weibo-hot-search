@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707208443578,
+  "endTime": 1707211048346,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -49,6 +49,14 @@
       "onboard_time": 1707042512,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2727084,
+      "num": 2727084,
+      "word": "霍启刚发长文",
+      "onboard_time": 1707208649,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2618527,
@@ -113,6 +121,14 @@
       "onboard_time": 1707112470,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1959911,
+      "num": 1959911,
+      "word": "香港前特首女儿怒斥梅西",
+      "onboard_time": 1707207689,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1938180,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251345,
+      "num": 1251345,
+      "word": "化妆师兔子",
+      "onboard_time": 1707206970,
+      "rank": 12,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1251210,
       "num": 1251210,
       "word": "合肥南站D4832列车晚点744分钟",
@@ -467,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1069641,
-      "num": 1069641,
-      "word": "化妆师兔子",
-      "onboard_time": 1707206970,
-      "rank": 12,
-      "category": "美妆,网红"
-    },
-    {
       "raw_hot": 1066148,
       "num": 1066148,
       "word": "浦发银行不发年终奖发一封家书",
@@ -603,12 +619,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 944612,
+      "num": 944612,
+      "word": "易烊千玺痛失本名",
+      "onboard_time": 1707208773,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925626,
       "num": 925626,
       "word": "安琪拉大招 水龙头",
       "onboard_time": 1707047794,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 920743,
+      "num": 920743,
+      "word": "韩国流行起后脑勺整形",
+      "onboard_time": 1707206731,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 920146,
@@ -723,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 853900,
-      "num": 853900,
-      "word": "香港前特首女儿怒斥梅西",
-      "onboard_time": 1707207689,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 851390,
       "num": 851390,
       "word": "王者荣耀皮肤雨",
@@ -793,14 +817,6 @@
       "onboard_time": 1707181469,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 810373,
-      "num": 810373,
-      "word": "韩国流行起后脑勺整形",
-      "onboard_time": 1707206731,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 810263,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1707114151,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639198,
+      "num": 639198,
+      "word": "香港机场一拖行员被飞机撞倒身亡",
+      "onboard_time": 1707209311,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639043,
@@ -1587,6 +1611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 506332,
+      "num": 506332,
+      "word": "梅西",
+      "onboard_time": 1707110971,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505110,
       "num": 505110,
       "word": "头孢就酒可能5分钟致命",
@@ -1699,6 +1731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 486645,
+      "num": 486645,
+      "word": "29岁的陶昕然",
+      "onboard_time": 1707209789,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485515,
       "num": 485515,
       "word": "香港特区政府回应梅西缺战",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1707176546,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472135,
+      "num": 472135,
+      "word": "宋智雅复出录节目",
+      "onboard_time": 1707209192,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 468885,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1707179790,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437708,
+      "num": 437708,
+      "word": "SuperJuniorDnE内地首封",
+      "onboard_time": 1707209071,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433311,
@@ -2209,14 +2265,6 @@
       "onboard_time": 1707141934,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381873,
-      "num": 381873,
-      "word": "梅西",
-      "onboard_time": 1707110971,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 381158,
@@ -3075,6 +3123,14 @@
       "category": "综艺,读书作家"
     },
     {
+      "raw_hot": 264384,
+      "num": 264384,
+      "word": "人在工位脑子已经回家了",
+      "onboard_time": 1707209789,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264007,
       "num": 264007,
       "word": "李庚希张婧仪 对眼睛好",
@@ -3595,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232850,
+      "num": 232850,
+      "word": "艺人剧本 助理划台词",
+      "onboard_time": 1707210092,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232702,
       "num": 232702,
       "word": "刘宇宁春晚彩排带妆路透",
@@ -3641,6 +3705,14 @@
       "onboard_time": 1706973632,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230133,
+      "num": 230133,
+      "word": "腾讯正开发艾尔登法环手游",
+      "onboard_time": 1707209734,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 228600,
@@ -3841,6 +3913,14 @@
       "onboard_time": 1707161297,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220060,
+      "num": 220060,
+      "word": "大鹏高兴疯了",
+      "onboard_time": 1707208952,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 219923,
@@ -6579,6 +6659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126438,
+      "num": 126438,
+      "word": "李雪琴 领导一定有他的难处",
+      "onboard_time": 1707210934,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126332,
       "num": 126332,
       "word": "周国平给受灾小学生送10万元压岁书",
@@ -6929,6 +7017,14 @@
       "onboard_time": 1706997977,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 221086,
+      "word": "不容易的除冰人",
+      "onboard_time": 1707210571,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111125,
@@ -7435,6 +7531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66587,
+      "num": 1489862,
+      "word": "今年回家新气象",
+      "onboard_time": 1707207089,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66376,
       "num": 59759,
       "word": "脱口秀大会第六季大王",
@@ -7609,14 +7713,6 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 46059,
-      "num": 1074681,
-      "word": "今年回家新气象",
-      "onboard_time": 1707207089,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44764,
