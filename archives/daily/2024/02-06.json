@@ -1,13 +1,37 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707176052005,
+  "endTime": 1707181882746,
   "band_list": [
+    {
+      "raw_hot": 2028313,
+      "num": 2028313,
+      "word": "武汉暴雪",
+      "onboard_time": 1707177327,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1726559,
+      "num": 915144,
+      "word": "英国国王确诊患癌",
+      "onboard_time": 1707175283,
+      "rank": 8,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1205014,
       "num": 1205014,
       "word": "日本小姐冠军承认当小三放弃桂冠",
       "onboard_time": 1707143491,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1064757,
+      "num": 1064757,
+      "word": "男子偷卖女朋友黄金用作恋爱开销",
+      "onboard_time": 1707166155,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -19,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 826621,
-      "num": 302344,
-      "word": "英国国王确诊患癌",
-      "onboard_time": 1707175283,
-      "rank": 8,
-      "category": "国外时政"
+      "raw_hot": 862305,
+      "num": 862305,
+      "word": "知否版权",
+      "onboard_time": 1707180090,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 786301,
@@ -51,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572000,
+      "num": 572000,
+      "word": "全红婵大满贯",
+      "onboard_time": 1707174441,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 561275,
       "num": 561275,
       "word": "王豆豆怀孕",
@@ -67,20 +99,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 515131,
-      "num": 515131,
-      "word": "全红婵大满贯",
-      "onboard_time": 1707174441,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 496751,
+      "num": 496751,
+      "word": "外卖小哥给老人送餐发现是自己的团年饭",
+      "onboard_time": 1707174923,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 499519,
-      "num": 499519,
-      "word": "男子偷卖女朋友黄金用作恋爱开销",
-      "onboard_time": 1707166155,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 475183,
+      "num": 475183,
+      "word": "白敬亭为自己和范丞丞澄清",
+      "onboard_time": 1707176546,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 455618,
@@ -115,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440528,
+      "num": 440528,
+      "word": "梅西抵达东京备战友谊赛",
+      "onboard_time": 1707180333,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430628,
       "num": 430628,
       "word": "梅西表演赛主办方撤回1600万港元资助申请",
@@ -131,12 +171,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363181,
+      "num": 363181,
+      "word": "票务称梅西表演赛门票不退款",
+      "onboard_time": 1707177086,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329092,
       "num": 179669,
       "word": "强制自己早睡的办法",
       "onboard_time": 1707145293,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327119,
+      "num": 248440,
+      "word": "您已进入河南界请放心行驶",
+      "onboard_time": 1707178710,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321236,
+      "num": 321236,
+      "word": "咱们两家都联姻了",
+      "onboard_time": 1707179790,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316585,
+      "num": 316585,
+      "word": "借出房车卫生间当事女生发声",
+      "onboard_time": 1707153204,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296424,
@@ -147,11 +219,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282939,
-      "num": 282939,
-      "word": "借出房车卫生间当事女生发声",
-      "onboard_time": 1707153204,
-      "rank": 48,
+      "raw_hot": 275082,
+      "num": 275082,
+      "word": "爸妈吐槽大学生要提前吃光全家年货",
+      "onboard_time": 1707161717,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270733,
+      "num": 270733,
+      "word": "被困湖北高速急哭的女车主获河南小伙救援",
+      "onboard_time": 1707162077,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -161,6 +241,14 @@
       "onboard_time": 1707145654,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248855,
+      "num": 248855,
+      "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
+      "onboard_time": 1707181110,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248149,
@@ -179,6 +267,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236551,
+      "num": 236551,
+      "word": "狗 这个班是非上不可吗",
+      "onboard_time": 1707176906,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 224390,
+      "num": 224390,
+      "word": "25岁小伙手提30斤大虾返乡过年",
+      "onboard_time": 1707176245,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220205,
+      "num": 220205,
+      "word": "林更新说楚乔传的遗憾会在与凤行补上",
+      "onboard_time": 1707161297,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213543,
       "num": 213543,
       "word": "王一博与晗晗qvq网络纠纷案审理结果",
@@ -187,20 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212663,
-      "num": 212663,
-      "word": "被困湖北高速急哭的女车主获河南小伙救援",
-      "onboard_time": 1707162077,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 204544,
+      "num": 185685,
+      "word": "我的天才女友 词汇的缺乏",
+      "onboard_time": 1707180333,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
-      "raw_hot": 201794,
-      "num": 201794,
-      "word": "林更新说楚乔传的遗憾会在与凤行补上",
-      "onboard_time": 1707161297,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 201939,
+      "num": 201939,
+      "word": "巨婴式恋爱",
+      "onboard_time": 1707175220,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 198010,
@@ -211,20 +323,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195982,
-      "num": 195982,
-      "word": "爸妈吐槽大学生要提前吃光全家年货",
-      "onboard_time": 1707161717,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195903,
       "num": 195903,
       "word": "在暴雪时分男三",
       "onboard_time": 1707139953,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195217,
+      "num": 195217,
+      "word": "广东男篮与马尚解约",
+      "onboard_time": 1707180511,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189893,
+      "num": 189893,
+      "word": "C罗 抽卡",
+      "onboard_time": 1707179971,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 188498,
@@ -235,12 +355,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 166388,
-      "num": 166388,
-      "word": "外卖小哥给老人送餐发现是自己的团年饭",
-      "onboard_time": 1707174923,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 180406,
+      "num": 180406,
+      "word": "阿根廷媒体称梅西身体状况良好",
+      "onboard_time": 1707181469,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169464,
+      "num": 169464,
+      "word": "致命游戏",
+      "onboard_time": 1707176666,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 163454,
@@ -275,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142940,
+      "num": 142940,
+      "word": "陈芋汐巴黎见",
+      "onboard_time": 1707176605,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138942,
       "num": 138942,
       "word": "射手座认真才会犹豫",
@@ -299,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128903,
+      "num": 128903,
+      "word": "砂糖橘上的洞是从哪来的",
+      "onboard_time": 1707181831,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127861,
       "num": 127861,
       "word": "刘亦菲刘诗诗合影旧照",
       "onboard_time": 1707132628,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126869,
+      "num": 126869,
+      "word": "i人过年必有一e",
+      "onboard_time": 1707181050,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 125515,
@@ -323,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122071,
+      "num": 122071,
+      "word": "湖北雨雪冰冻天气8日起结束",
+      "onboard_time": 1707181351,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120596,
       "num": 120596,
       "word": "王楚钦粉丝",
@@ -339,6 +499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116449,
+      "num": 116449,
+      "word": "这是你家孩子六科的成绩",
+      "onboard_time": 1707175643,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115894,
       "num": 115894,
       "word": "7个月宝宝吃猕猴桃经历断崖式衰老",
@@ -353,6 +521,14 @@
       "onboard_time": 1707140133,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114270,
+      "num": 114270,
+      "word": "李荣浩有什么事",
+      "onboard_time": 1707178228,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 113037,
@@ -395,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100117,
+      "num": 100117,
+      "word": "名侦探柯南 官配小情侣",
+      "onboard_time": 1707174983,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 99905,
       "num": 99905,
       "word": "12306账号为何有陌生人信息",
       "onboard_time": 1707133410,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98402,
+      "num": 98402,
+      "word": "歼20飞行员说与外军较量我们一直占据主动态势",
+      "onboard_time": 1707175220,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 96083,
@@ -459,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76237,
-      "num": 76237,
-      "word": "巨婴式恋爱",
-      "onboard_time": 1707175220,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75652,
       "num": 75652,
       "word": "霍启刚要求梅西与迈阿密道歉",
@@ -523,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70571,
-      "num": 70571,
-      "word": "名侦探柯南 官配小情侣",
-      "onboard_time": 1707174983,
-      "rank": 37,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 63905,
       "num": 63905,
       "word": "这3处青筋异常凸起要留意",
@@ -555,28 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57519,
-      "num": 57519,
-      "word": "歼20飞行员说与外军较量我们一直占据主动态势",
-      "onboard_time": 1707175220,
-      "rank": 39,
-      "category": "军事"
-    },
-    {
       "raw_hot": 55368,
       "num": 55368,
       "word": "陈小纭朵拉头",
       "onboard_time": 1707141154,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 50211,
-      "num": 50211,
-      "word": "这是你家孩子六科的成绩",
-      "onboard_time": 1707175643,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 49318,
@@ -619,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26144,
+      "num": 944332,
+      "word": "我的龙年仪式感",
+      "onboard_time": 1707029608,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23758,
       "num": 23758,
       "word": "祝绪丹新剧妆造",
@@ -657,14 +825,6 @@
       "onboard_time": 1707168436,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 7172,
-      "num": 525273,
-      "word": "我的龙年仪式感",
-      "onboard_time": 1707029608,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
