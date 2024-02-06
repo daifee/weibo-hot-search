@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707223534764,
+  "endTime": 1707225628748,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -67,6 +67,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1688030,
+      "num": 1688030,
+      "word": "梅西账号评论区被网友围攻",
+      "onboard_time": 1707213992,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1543934,
       "num": 1482168,
       "word": "养了一年被告知抱错了",
@@ -121,6 +129,22 @@
       "onboard_time": 1707143491,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1197827,
+      "num": 1197827,
+      "word": "董宇辉对美甲的困惑",
+      "onboard_time": 1707220651,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1135286,
+      "num": 1135286,
+      "word": "国际米兰回应霍启刚",
+      "onboard_time": 1707223592,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1127016,
@@ -224,6 +248,14 @@
       "word": "易烊千玺痛失本名",
       "onboard_time": 1707208773,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 935549,
+      "num": 935549,
+      "word": "翔霖",
+      "onboard_time": 1707224010,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -339,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 779220,
-      "num": 779220,
-      "word": "董宇辉对美甲的困惑",
-      "onboard_time": 1707220651,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 744701,
       "num": 744701,
       "word": "梅西希望有机会再去香港",
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659441,
+      "num": 459934,
+      "word": "为什么经期长短会有差异呢",
+      "onboard_time": 1707223889,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "厚唇 大美女",
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626730,
+      "num": 297769,
+      "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+      "onboard_time": 1707222753,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626566,
       "num": 626566,
       "word": "春晚姓甄的小心点",
@@ -481,6 +521,14 @@
       "onboard_time": 1707192690,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 605707,
+      "num": 605707,
+      "word": "日媒称丝毫看不出梅西状态不佳",
+      "onboard_time": 1707221371,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 603718,
@@ -576,14 +624,6 @@
       "word": "梅西",
       "onboard_time": 1707205229,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 512610,
-      "num": 499096,
-      "word": "梅西账号评论区被网友围攻",
-      "onboard_time": 1707213992,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -883,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 301194,
+      "num": 301194,
+      "word": "BLACKPINK四家大吧不再发送生日贺文",
+      "onboard_time": 1707225213,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297124,
       "num": 297124,
       "word": "nanatour",
@@ -929,14 +977,6 @@
       "onboard_time": 1707195274,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286565,
-      "num": 286565,
-      "word": "日媒称丝毫看不出梅西状态不佳",
-      "onboard_time": 1707221371,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 285080,
@@ -1027,6 +1067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 267447,
+      "num": 267447,
+      "word": "宋亚轩cos孙尚香动作",
+      "onboard_time": 1707225273,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 264384,
       "num": 264384,
       "word": "人在工位脑子已经回家了",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1707197133,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 258652,
+      "num": 258652,
+      "word": "吃砂糖橘皮肤会容易变黑",
+      "onboard_time": 1707224732,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 258327,
@@ -1099,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245567,
-      "num": 245567,
-      "word": "县城彩礼从18.8万涨到3个9万9加房和车",
-      "onboard_time": 1707222753,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244548,
       "num": 244548,
       "word": "沪指再度收复2800点",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1707194013,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237372,
+      "num": 237372,
+      "word": "恋与制作人茶水间",
+      "onboard_time": 1707225213,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 236551,
@@ -1331,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215757,
+      "num": 215757,
+      "word": "金智媛金秀贤新剧首发预告",
+      "onboard_time": 1707221851,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214622,
       "num": 214622,
       "word": "梅西不该只是一个忽悠球迷的商业噱头",
@@ -1419,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206116,
-      "num": 206116,
-      "word": "金智媛金秀贤新剧首发预告",
-      "onboard_time": 1707221851,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205877,
       "num": 205877,
       "word": "上海去杭州可以坐飞机了",
@@ -1467,11 +1523,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203522,
-      "num": 203522,
+      "raw_hot": 203635,
+      "num": 203635,
       "word": "大唐狄公案",
       "onboard_time": 1707222628,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202612,
+      "num": 202612,
+      "word": "南来北往",
+      "onboard_time": 1707213089,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1489,14 +1553,6 @@
       "onboard_time": 1707175220,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198984,
-      "num": 198984,
-      "word": "南来北往",
-      "onboard_time": 1707213089,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 198538,
@@ -1681,6 +1737,14 @@
       "onboard_time": 1707186449,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177833,
+      "num": 177833,
+      "word": "谁给李沁画的唇妆",
+      "onboard_time": 1707224850,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177585,
@@ -1891,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153867,
+      "num": 153867,
+      "word": "LNG对战BLG",
+      "onboard_time": 1707221429,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153855,
       "num": 153855,
       "word": "全红婵世锦赛夺冠",
@@ -2003,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142721,
+      "num": 142721,
+      "word": "新增21家国家5A级旅游景区",
+      "onboard_time": 1707224254,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 140905,
       "num": 140905,
       "word": "光夜助力乡村振兴",
@@ -2051,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137372,
+      "num": 137372,
+      "word": "女孩美国街头穿汉服惊艳路人",
+      "onboard_time": 1707225093,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136948,
       "num": 136948,
       "word": "平替",
@@ -2083,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134241,
+      "num": 134241,
+      "word": "胡锡进称没有比大家挣钱亏钱更牵动人心的了",
+      "onboard_time": 1707224490,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133252,
       "num": 133252,
       "word": "盘点笑着走出理发店的人",
@@ -2107,6 +2203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130762,
+      "num": 130762,
+      "word": "丁真哈尔滨一日游",
+      "onboard_time": 1707225452,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130757,
       "num": 130757,
       "word": "唐鹤德晒与张国荣合照庆生",
@@ -2129,6 +2233,14 @@
       "onboard_time": 1707221611,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 129724,
+      "num": 129724,
+      "word": "三问梅西友谊赛拒登场事件",
+      "onboard_time": 1707224131,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128291,
@@ -2169,14 +2281,6 @@
       "onboard_time": 1707218611,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 127041,
-      "num": 127041,
-      "word": "LNG对战BLG",
-      "onboard_time": 1707221429,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 126869,
@@ -2441,6 +2545,14 @@
       "onboard_time": 1707147154,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93174,
+      "num": 1157359,
+      "word": "我与家人合个影",
+      "onboard_time": 1707223349,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92568,
@@ -2736,14 +2848,6 @@
       "word": "湖北高速暴雪互助",
       "onboard_time": 1707158717,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17331,
-      "num": 779984,
-      "word": "我与家人合个影",
-      "onboard_time": 1707223349,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
