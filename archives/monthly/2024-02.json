@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707239706076,
+  "endTime": 1707240841478,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -12843,6 +12843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158529,
+      "num": 158529,
+      "word": "迪丽热巴花少主题曲镜头",
+      "onboard_time": 1707238765,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158473,
       "num": 158473,
       "word": "北向资金连续4天净买入",
@@ -15771,6 +15779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117028,
+      "num": 117028,
+      "word": "周也觉得林一太帅不好意思说话",
+      "onboard_time": 1707239904,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117000,
       "num": 117000,
       "word": "IU或将与HYEIN合作",
@@ -16433,14 +16449,6 @@
       "onboard_time": 1707134550,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105166,
-      "num": 105166,
-      "word": "迪丽热巴花少主题曲镜头",
-      "onboard_time": 1707238765,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 104994,
