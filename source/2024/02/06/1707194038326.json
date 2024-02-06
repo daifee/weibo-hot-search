@@ -1,0 +1,410 @@
+{
+  "runTime": 1707194038326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6731415,
+        "num": 7981415,
+        "word": "华中农大通报黄某某学术不端调查情况",
+        "onboard_time": 1707192210,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2920396,
+        "num": 2920396,
+        "word": "霍启刚说热情被狠狠践踏",
+        "onboard_time": 1707187469,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31579,
+        "num": 2447774,
+        "word": "人心火热温暖了回家路",
+        "onboard_time": 1707193229,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2387453,
+        "num": 2387453,
+        "word": "梅西说很高兴来到日本",
+        "onboard_time": 1707191912,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1339319,
+        "num": 1339319,
+        "word": "华中农大黄某某被解聘",
+        "onboard_time": 1707192270,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944722,
+        "num": 944722,
+        "word": "花儿与少年2找过秦岚",
+        "onboard_time": 1707191671,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755876,
+        "num": 755876,
+        "word": "李家超回应梅西缺赛",
+        "onboard_time": 1707185550,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744701,
+        "num": 744701,
+        "word": "梅西希望有机会再去香港",
+        "onboard_time": 1707192992,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634899,
+        "num": 634899,
+        "word": "梅西日本行",
+        "onboard_time": 1707183392,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572324,
+        "num": 572324,
+        "word": "知否版权",
+        "onboard_time": 1707180090,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656837,
+        "num": 570055,
+        "word": "医生怒斥杨波头孢配酒死不了言论",
+        "onboard_time": 1707187590,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562129,
+        "num": 562129,
+        "word": "王者荣耀皮肤雨",
+        "onboard_time": 1707188910,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 540152,
+        "num": 540152,
+        "word": "光遇复刻",
+        "onboard_time": 1707192571,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 471795,
+        "num": 471795,
+        "word": "英国国王确诊患癌",
+        "onboard_time": 1707175283,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64272,
+        "num": 443749,
+        "word": "千万不要打开UC网友年度榜单",
+        "onboard_time": 1707192030,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426816,
+        "num": 426816,
+        "word": "黄某某10篇论文存在伪造篡改",
+        "onboard_time": 1707192932,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423365,
+        "num": 423365,
+        "word": "优酷养老剧",
+        "onboard_time": 1707188311,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414081,
+        "num": 414081,
+        "word": "阿根廷媒体称梅西身体状况良好",
+        "onboard_time": 1707181469,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380790,
+        "num": 380790,
+        "word": "男子偷卖女朋友黄金用作恋爱开销",
+        "onboard_time": 1707166155,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373127,
+        "num": 373127,
+        "word": "商人贝克汉姆",
+        "onboard_time": 1707192510,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70574,
+        "num": 332334,
+        "word": "元梦趴趴小狗宋雨琦同款",
+        "onboard_time": 1707192510,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329619,
+        "num": 329619,
+        "word": "吴磊赵今麦错位图",
+        "onboard_time": 1707191792,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322428,
+        "num": 322428,
+        "word": "华中农大15名研究生已落实新导师",
+        "onboard_time": 1707193353,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315893,
+        "num": 315893,
+        "word": "日本球迷担心梅西不出场",
+        "onboard_time": 1707187051,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297124,
+        "num": 297124,
+        "word": "nanatour",
+        "onboard_time": 1707192030,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295419,
+        "num": 295419,
+        "word": "武汉暴雪",
+        "onboard_time": 1707177327,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284513,
+        "num": 284513,
+        "word": "梅西铁粉语出惊人",
+        "onboard_time": 1707193475,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254590,
+        "num": 254590,
+        "word": "湖南大雪警车里诞下一雪警女婴",
+        "onboard_time": 1707191609,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251965,
+        "num": 251965,
+        "word": "尔滨游客到上海后狂贴66个暖宝宝",
+        "onboard_time": 1707187350,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251639,
+        "num": 251639,
+        "word": "全红婵陈芋汐让解说词穷",
+        "onboard_time": 1707186690,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328098,
+        "num": 249609,
+        "word": "明日方舟阿米娅",
+        "onboard_time": 1707192690,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247225,
+        "num": 247225,
+        "word": "超7成假发搜索者为95后",
+        "onboard_time": 1707191792,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244210,
+        "num": 244210,
+        "word": "梅西抵达东京备战友谊赛",
+        "onboard_time": 1707180333,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236465,
+        "num": 236465,
+        "word": "妹妹转自己的助学贷款给我",
+        "onboard_time": 1707193714,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233948,
+        "num": 233948,
+        "word": "大唐狄公案开播",
+        "onboard_time": 1707189267,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225336,
+        "num": 225336,
+        "word": "billkin抢票",
+        "onboard_time": 1707190903,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221278,
+        "num": 221278,
+        "word": "张彬彬孙珍妮杀青照",
+        "onboard_time": 1707190829,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212738,
+        "num": 212738,
+        "word": "Boa演戏",
+        "onboard_time": 1707185130,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212133,
+        "num": 212133,
+        "word": "梅西表演赛主办方撤回1600万港元资助申请",
+        "onboard_time": 1707133830,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211741,
+        "num": 211741,
+        "word": "知否未播花絮",
+        "onboard_time": 1707192030,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205709,
+        "num": 205709,
+        "word": "国乒确认釜山世乒赛名单",
+        "onboard_time": 1707187469,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203411,
+        "num": 203411,
+        "word": "专家称涨跌停板已成机构操纵市场工具",
+        "onboard_time": 1707190472,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201144,
+        "num": 201144,
+        "word": "张颂文 上你个头我要过年",
+        "onboard_time": 1707143012,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199394,
+        "num": 199394,
+        "word": "梅西人形广告牌被踢掉脑袋",
+        "onboard_time": 1707190350,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 199099,
+        "word": "凯特王妃",
+        "onboard_time": 1707183270,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197270,
+        "num": 197270,
+        "word": "电影热辣滚烫",
+        "onboard_time": 1707192932,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192868,
+        "num": 192868,
+        "word": "华中农大黄某某存在对研究生少发津贴",
+        "onboard_time": 1707193653,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174885,
+        "num": 174885,
+        "word": "猫咪吸猫薄荷吸到脸色枯萎",
+        "onboard_time": 1707194013,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172373,
+        "num": 172373,
+        "word": "为什么东亚生育率降到全球最低",
+        "onboard_time": 1707183211,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172177,
+        "num": 172177,
+        "word": "梅西说自己没受伤但不舒服",
+        "onboard_time": 1707194013,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全长效机制巩固拓展主题教育成果#"
+    }
+  }
+}

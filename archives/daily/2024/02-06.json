@@ -1,21 +1,29 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707193183980,
+  "endTime": 1707194038326,
   "band_list": [
     {
-      "raw_hot": 3547872,
-      "num": 3595744,
+      "raw_hot": 6731415,
+      "num": 7981415,
       "word": "华中农大通报黄某某学术不端调查情况",
       "onboard_time": 1707192210,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2902428,
-      "num": 2902428,
+      "raw_hot": 2920396,
+      "num": 2920396,
       "word": "霍启刚说热情被狠狠践踏",
       "onboard_time": 1707187469,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2387453,
+      "num": 2387453,
+      "word": "梅西说很高兴来到日本",
+      "onboard_time": 1707191912,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -35,14 +43,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1595109,
-      "num": 1595109,
-      "word": "梅西说很高兴来到日本",
-      "onboard_time": 1707191912,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1543934,
       "num": 1482168,
       "word": "养了一年被告知抱错了",
@@ -51,19 +51,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1339319,
+      "num": 1339319,
+      "word": "华中农大黄某某被解聘",
+      "onboard_time": 1707192270,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1205014,
       "num": 1205014,
       "word": "日本小姐冠军承认当小三放弃桂冠",
       "onboard_time": 1707143491,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1139978,
-      "num": 1139978,
-      "word": "华中农大黄某某被解聘",
-      "onboard_time": 1707192270,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 944722,
+      "num": 944722,
+      "word": "花儿与少年2找过秦岚",
+      "onboard_time": 1707191671,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 896153,
       "num": 896153,
       "word": "知否版权",
@@ -113,14 +121,6 @@
       "onboard_time": 1707181110,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 856071,
-      "num": 856071,
-      "word": "花儿与少年2找过秦岚",
-      "onboard_time": 1707191671,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 851390,
@@ -161,6 +161,14 @@
       "onboard_time": 1707143012,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 744701,
+      "num": 744701,
+      "word": "梅西希望有机会再去香港",
+      "onboard_time": 1707192992,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 741046,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426816,
+      "num": 426816,
+      "word": "黄某某10篇论文存在伪造篡改",
+      "onboard_time": 1707192932,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426700,
       "num": 426700,
       "word": "程潇 龙女",
@@ -387,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373127,
+      "num": 373127,
+      "word": "商人贝克汉姆",
+      "onboard_time": 1707192510,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363181,
       "num": 363181,
       "word": "票务称梅西表演赛门票不退款",
       "onboard_time": 1707177086,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329619,
+      "num": 329619,
+      "word": "吴磊赵今麦错位图",
+      "onboard_time": 1707191792,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 329092,
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322428,
+      "num": 322428,
+      "word": "华中农大15名研究生已落实新导师",
+      "onboard_time": 1707193353,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316585,
       "num": 316585,
       "word": "借出房车卫生间当事女生发声",
@@ -419,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297432,
-      "num": 297432,
-      "word": "吴磊赵今麦错位图",
-      "onboard_time": 1707191792,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 297124,
+      "num": 297124,
+      "word": "nanatour",
+      "onboard_time": 1707192030,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 296424,
@@ -451,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 289394,
-      "num": 289394,
-      "word": "nanatour",
-      "onboard_time": 1707192030,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 284513,
+      "num": 284513,
+      "word": "梅西铁粉语出惊人",
+      "onboard_time": 1707193475,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 282394,
@@ -465,14 +505,6 @@
       "onboard_time": 1707182852,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275626,
-      "num": 275626,
-      "word": "梅西希望有机会再去香港",
-      "onboard_time": 1707192992,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 275082,
@@ -507,14 +539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259990,
-      "num": 252611,
-      "word": "商人贝克汉姆",
-      "onboard_time": 1707192510,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258327,
       "num": 258327,
       "word": "张彬彬孙珍妮杀青照",
@@ -529,6 +553,14 @@
       "onboard_time": 1707192030,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254590,
+      "num": 254590,
+      "word": "湖南大雪警车里诞下一雪警女婴",
+      "onboard_time": 1707191609,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252822,
@@ -563,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241279,
-      "num": 241279,
-      "word": "湖南大雪警车里诞下一雪警女婴",
-      "onboard_time": 1707191609,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240600,
       "num": 240600,
       "word": "一闪一闪亮星星票房破7亿",
@@ -585,6 +609,14 @@
       "onboard_time": 1707176906,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236465,
+      "num": 236465,
+      "word": "妹妹转自己的助学贷款给我",
+      "onboard_time": 1707193714,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 235863,
@@ -699,20 +731,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198863,
-      "num": 198863,
-      "word": "黄某某10篇论文存在伪造篡改",
-      "onboard_time": 1707192932,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198010,
       "num": 198010,
       "word": "请和我的老公结婚",
       "onboard_time": 1707140911,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197270,
+      "num": 197270,
+      "word": "电影热辣滚烫",
+      "onboard_time": 1707192932,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 195903,
@@ -737,6 +769,14 @@
       "onboard_time": 1707180511,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192868,
+      "num": 192868,
+      "word": "华中农大黄某某存在对研究生少发津贴",
+      "onboard_time": 1707193653,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189893,
@@ -779,12 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177238,
-      "num": 177238,
-      "word": "电影热辣滚烫",
-      "onboard_time": 1707192932,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 174885,
+      "num": 174885,
+      "word": "猫咪吸猫薄荷吸到脸色枯萎",
+      "onboard_time": 1707194013,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172177,
+      "num": 172177,
+      "word": "梅西说自己没受伤但不舒服",
+      "onboard_time": 1707194013,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 169464,
@@ -1243,12 +1291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70124,
-      "num": 261966,
+      "raw_hot": 70574,
+      "num": 332334,
       "word": "元梦趴趴小狗宋雨琦同款",
       "onboard_time": 1707192510,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64272,
+      "num": 477414,
+      "word": "千万不要打开UC网友年度榜单",
+      "onboard_time": 1707192030,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 63905,
@@ -1265,14 +1321,6 @@
       "onboard_time": 1707172997,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59686,
-      "num": 477414,
-      "word": "千万不要打开UC网友年度榜单",
-      "onboard_time": 1707192030,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 57755,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1707155241,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31579,
+      "num": 2447774,
+      "word": "人心火热温暖了回家路",
+      "onboard_time": 1707193229,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27353,

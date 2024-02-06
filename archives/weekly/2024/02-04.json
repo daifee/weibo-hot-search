@@ -1,7 +1,15 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707193183980,
+  "endTime": 1707194038326,
   "band_list": [
+    {
+      "raw_hot": 6731415,
+      "num": 7981415,
+      "word": "华中农大通报黄某某学术不端调查情况",
+      "onboard_time": 1707192210,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4033714,
       "num": 3966659,
@@ -19,14 +27,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3547872,
-      "num": 3595744,
-      "word": "华中农大通报黄某某学术不端调查情况",
-      "onboard_time": 1707192210,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 3396012,
       "num": 3396012,
       "word": "霍启刚要求梅西与迈阿密道歉",
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2902428,
-      "num": 2902428,
+      "raw_hot": 2920396,
+      "num": 2920396,
       "word": "霍启刚说热情被狠狠践踏",
       "onboard_time": 1707187469,
       "rank": 0,
@@ -65,6 +65,14 @@
       "onboard_time": 1707010589,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2387453,
+      "num": 2387453,
+      "word": "梅西说很高兴来到日本",
+      "onboard_time": 1707191912,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2357336,
@@ -163,14 +171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1595109,
-      "num": 1595109,
-      "word": "梅西说很高兴来到日本",
-      "onboard_time": 1707191912,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1560627,
       "num": 1560627,
       "word": "王豆豆怀孕",
@@ -248,6 +248,14 @@
       "word": "因暴雪滞留高速亲历者发声",
       "onboard_time": 1707079695,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1339319,
+      "num": 1339319,
+      "word": "华中农大黄某某被解聘",
+      "onboard_time": 1707192270,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1706975010,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1139978,
-      "num": 1139978,
-      "word": "华中农大黄某某被解聘",
-      "onboard_time": 1707192270,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1138314,
@@ -531,6 +531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 944722,
+      "num": 944722,
+      "word": "花儿与少年2找过秦岚",
+      "onboard_time": 1707191671,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 925626,
       "num": 925626,
       "word": "安琪拉大招 水龙头",
@@ -633,14 +641,6 @@
       "onboard_time": 1707028651,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 856071,
-      "num": 856071,
-      "word": "花儿与少年2找过秦岚",
-      "onboard_time": 1707191671,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 851390,
@@ -857,6 +857,14 @@
       "onboard_time": 1707042391,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 744701,
+      "num": 744701,
+      "word": "梅西希望有机会再去香港",
+      "onboard_time": 1707192992,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 741046,
@@ -1779,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426816,
+      "num": 426816,
+      "word": "黄某某10篇论文存在伪造篡改",
+      "onboard_time": 1707192932,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424574,
       "num": 424574,
       "word": "高速瘫痪被堵乘客捡木柴烧火取暖",
@@ -2043,6 +2059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 373127,
+      "num": 373127,
+      "word": "商人贝克汉姆",
+      "onboard_time": 1707192510,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372636,
       "num": 372636,
       "word": "上班",
@@ -2235,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329619,
+      "num": 329619,
+      "word": "吴磊赵今麦错位图",
+      "onboard_time": 1707191792,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329092,
       "num": 194973,
       "word": "强制自己早睡的办法",
@@ -2280,6 +2312,14 @@
       "word": "中央气象台连发4预警",
       "onboard_time": 1707005609,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322428,
+      "num": 322428,
+      "word": "华中农大15名研究生已落实新导师",
+      "onboard_time": 1707193353,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2451,20 +2491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297432,
-      "num": 297432,
-      "word": "吴磊赵今麦错位图",
-      "onboard_time": 1707191792,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297216,
       "num": 297216,
       "word": "世界之外新PV",
       "onboard_time": 1707018749,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297124,
+      "num": 297124,
+      "word": "nanatour",
+      "onboard_time": 1707192030,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 295868,
@@ -2531,14 +2571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 289394,
-      "num": 289394,
-      "word": "nanatour",
-      "onboard_time": 1707192030,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288323,
       "num": 288323,
       "word": "张佳宁 朝鲜族服饰",
@@ -2561,6 +2593,14 @@
       "onboard_time": 1707102091,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284513,
+      "num": 284513,
+      "word": "梅西铁粉语出惊人",
+      "onboard_time": 1707193475,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 284038,
@@ -2691,14 +2731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 275626,
-      "num": 275626,
-      "word": "梅西希望有机会再去香港",
-      "onboard_time": 1707192992,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275082,
       "num": 275082,
       "word": "爸妈吐槽大学生要提前吃光全家年货",
@@ -2827,14 +2859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259990,
-      "num": 252611,
-      "word": "商人贝克汉姆",
-      "onboard_time": 1707192510,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259928,
       "num": 259928,
       "word": "郭富城回应被林家栋搀扶下楼梯",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1707138932,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 254590,
+      "num": 254590,
+      "word": "湖南大雪警车里诞下一雪警女婴",
+      "onboard_time": 1707191609,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252822,
@@ -3123,14 +3155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241279,
-      "num": 241279,
-      "word": "湖南大雪警车里诞下一雪警女婴",
-      "onboard_time": 1707191609,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241200,
       "num": 241200,
       "word": "春晚彩排",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1707176906,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236465,
+      "num": 236465,
+      "word": "妹妹转自己的助学贷款给我",
+      "onboard_time": 1707193714,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 236106,
@@ -4067,14 +4099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198863,
-      "num": 198863,
-      "word": "黄某某10篇论文存在伪造篡改",
-      "onboard_time": 1707192932,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198751,
       "num": 198751,
       "word": "霉霉 行动力",
@@ -4121,6 +4145,14 @@
       "onboard_time": 1707020133,
       "rank": 44,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 197270,
+      "num": 197270,
+      "word": "电影热辣滚烫",
+      "onboard_time": 1707192932,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 197178,
@@ -4257,6 +4289,14 @@
       "onboard_time": 1707133652,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192868,
+      "num": 192868,
+      "word": "华中农大黄某某存在对研究生少发津贴",
+      "onboard_time": 1707193653,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192818,
@@ -4603,14 +4643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177238,
-      "num": 177238,
-      "word": "电影热辣滚烫",
-      "onboard_time": 1707192932,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177031,
       "num": 177031,
       "word": "碧梨格莱美年度歌曲",
@@ -4656,6 +4688,14 @@
       "word": "追星女入手VR眼镜的理由",
       "onboard_time": 1707142292,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 174885,
+      "num": 174885,
+      "word": "猫咪吸猫薄荷吸到脸色枯萎",
+      "onboard_time": 1707194013,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -4728,6 +4768,14 @@
       "word": "三问梅西为何不上场",
       "onboard_time": 1707113133,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172177,
+      "num": 172177,
+      "word": "梅西说自己没受伤但不舒服",
+      "onboard_time": 1707194013,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -6691,8 +6739,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 70124,
-      "num": 261966,
+      "raw_hot": 70574,
+      "num": 332334,
       "word": "元梦趴趴小狗宋雨琦同款",
       "onboard_time": 1707192510,
       "rank": 26,
@@ -6771,6 +6819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64272,
+      "num": 477414,
+      "word": "千万不要打开UC网友年度榜单",
+      "onboard_time": 1707192030,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 64190,
       "num": 1200696,
       "word": "龙年气氛组已就位",
@@ -6793,14 +6849,6 @@
       "onboard_time": 1707172997,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59686,
-      "num": 477414,
-      "word": "千万不要打开UC网友年度榜单",
-      "onboard_time": 1707192030,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 58028,
@@ -7057,6 +7105,14 @@
       "onboard_time": 1707120271,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31579,
+      "num": 2447774,
+      "word": "人心火热温暖了回家路",
+      "onboard_time": 1707193229,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30955,
