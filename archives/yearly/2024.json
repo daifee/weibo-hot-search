@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707225628748,
+  "endTime": 1707226439215,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1883,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1869343,
+      "num": 1869343,
+      "word": "梅西账号评论区被网友围攻",
+      "onboard_time": 1707213992,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1868676,
       "num": 1868676,
       "word": "老人突然离世三十九万元存款难取出",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706250690,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1724405,
-      "num": 1724405,
-      "word": "晚婚已成为普遍现象",
-      "onboard_time": 1704895655,
-      "rank": 19,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

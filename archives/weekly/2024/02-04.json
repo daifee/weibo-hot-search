@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707225628748,
+  "endTime": 1707226439215,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1869343,
+      "num": 1869343,
+      "word": "梅西账号评论区被网友围攻",
+      "onboard_time": 1707213992,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1845671,
       "num": 1845671,
       "word": "韩网评张佳宁穿朝鲜族服饰",
@@ -169,14 +177,6 @@
       "onboard_time": 1707142889,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1688030,
-      "num": 1688030,
-      "word": "梅西账号评论区被网友围攻",
-      "onboard_time": 1707213992,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 1685281,
@@ -289,6 +289,14 @@
       "onboard_time": 1707079695,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1376336,
+      "num": 1376336,
+      "word": "国际米兰回应霍启刚",
+      "onboard_time": 1707223592,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1365408,
@@ -433,14 +441,6 @@
       "onboard_time": 1707105393,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1135286,
-      "num": 1135286,
-      "word": "国际米兰回应霍启刚",
-      "onboard_time": 1707223592,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1127016,
@@ -1139,6 +1139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 722653,
+      "num": 569470,
+      "word": "为什么经期长短会有差异呢",
+      "onboard_time": 1707223889,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 719719,
       "num": 719719,
       "word": "12306账号为何有陌生人信息",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1707088762,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707799,
+      "num": 707799,
+      "word": "BLACKPINK四家大吧不再发送生日贺文",
+      "onboard_time": 1707225213,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 704391,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1707139953,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 681989,
+      "num": 681989,
+      "word": "日媒称丝毫看不出梅西状态不佳",
+      "onboard_time": 1707221371,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 680056,
@@ -1275,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 659441,
-      "num": 459934,
-      "word": "为什么经期长短会有差异呢",
-      "onboard_time": 1707223889,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "厚唇 大美女",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1707186690,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647409,
+      "num": 317880,
+      "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+      "onboard_time": 1707222753,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647049,
@@ -1403,14 +1427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 626730,
-      "num": 297769,
-      "word": "县城彩礼从18.8万涨到3个9万9加房和车",
-      "onboard_time": 1707222753,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 626566,
       "num": 626566,
       "word": "春晚姓甄的小心点",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1707192690,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 605707,
-      "num": 605707,
-      "word": "日媒称丝毫看不出梅西状态不佳",
-      "onboard_time": 1707221371,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 603718,
@@ -2091,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442985,
+      "num": 442985,
+      "word": "宋亚轩cos孙尚香动作",
+      "onboard_time": 1707225273,
+      "rank": 22,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 441789,
       "num": 441789,
       "word": "妹妹转自己的助学贷款给我",
@@ -2675,6 +2691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332513,
+      "num": 332513,
+      "word": "吃砂糖橘皮肤会容易变黑",
+      "onboard_time": 1707224732,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 331133,
       "num": 331133,
       "word": "GOODBAI致歉",
@@ -2915,14 +2939,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 301194,
-      "num": 301194,
-      "word": "BLACKPINK四家大吧不再发送生日贺文",
-      "onboard_time": 1707225213,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300217,
       "num": 161523,
       "word": "0713合体",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1706964511,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300003,
+      "num": 300003,
+      "word": "恋与制作人茶水间",
+      "onboard_time": 1707225213,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 298608,
@@ -3347,14 +3371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267447,
-      "num": 267447,
-      "word": "宋亚轩cos孙尚香动作",
-      "onboard_time": 1707225273,
-      "rank": 22,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 266992,
       "num": 251000,
       "word": "陈小纭落跑公主",
@@ -3419,14 +3435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258652,
-      "num": 258652,
-      "word": "吃砂糖橘皮肤会容易变黑",
-      "onboard_time": 1707224732,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 258327,
       "num": 258327,
       "word": "张彬彬孙珍妮杀青照",
@@ -3489,6 +3497,14 @@
       "onboard_time": 1707131551,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255560,
+      "num": 255560,
+      "word": "刀片嗓喉咙肿一查全阴性",
+      "onboard_time": 1707225631,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255403,
@@ -3825,14 +3841,6 @@
       "onboard_time": 1707194013,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237372,
-      "num": 237372,
-      "word": "恋与制作人茶水间",
-      "onboard_time": 1707225213,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 237272,
@@ -4177,6 +4185,14 @@
       "onboard_time": 1707017192,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220781,
+      "num": 220781,
+      "word": "大唐狄公案",
+      "onboard_time": 1707222628,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 220514,
@@ -4755,14 +4771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203635,
-      "num": 203635,
-      "word": "大唐狄公案",
-      "onboard_time": 1707222628,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203546,
       "num": 203546,
       "word": "河南一公司给员工发1亿多年终奖",
@@ -5267,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188842,
+      "num": 188842,
+      "word": "谁给李沁画的唇妆",
+      "onboard_time": 1707224850,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188647,
       "num": 188647,
       "word": "玛沙 跑路",
@@ -5459,6 +5475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180920,
+      "num": 180920,
+      "word": "打工多少年能买这床被子",
+      "onboard_time": 1707226415,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180659,
       "num": 180659,
       "word": "摩羯座的张小斐 隐忍又强大",
@@ -5529,14 +5553,6 @@
       "onboard_time": 1706976028,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177833,
-      "num": 177833,
-      "word": "谁给李沁画的唇妆",
-      "onboard_time": 1707224850,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 177585,
@@ -5707,6 +5723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171178,
+      "num": 171178,
+      "word": "女孩美国街头穿汉服惊艳路人",
+      "onboard_time": 1707225093,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171136,
       "num": 171136,
       "word": "创业板指放量大涨6.7%",
@@ -5721,6 +5745,14 @@
       "onboard_time": 1707098970,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170494,
+      "num": 170494,
+      "word": "严浩翔四杀",
+      "onboard_time": 1707226294,
+      "rank": 38,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 170102,
@@ -6291,6 +6323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151781,
+      "num": 151781,
+      "word": "丁真哈尔滨一日游",
+      "onboard_time": 1707225452,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151740,
       "num": 151740,
       "word": "专家建议关注节后心理健康",
@@ -6579,6 +6619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "魏大勋包场飞驰人生2",
+      "onboard_time": 1707226051,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143375,
       "num": 143375,
       "word": "药明康德称不会对任何国家构成安全风险",
@@ -6641,6 +6689,14 @@
       "onboard_time": 1707107793,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141366,
+      "num": 141366,
+      "word": "陈泽是谁",
+      "onboard_time": 1707226171,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141113,
@@ -6819,14 +6875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137372,
-      "num": 137372,
-      "word": "女孩美国街头穿汉服惊艳路人",
-      "onboard_time": 1707225093,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137219,
       "num": 137219,
       "word": "WBG战胜RNG",
@@ -6889,6 +6937,14 @@
       "onboard_time": 1707035609,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135559,
+      "num": 135559,
+      "word": "古人的打火机",
+      "onboard_time": 1707226112,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 135041,
@@ -7033,14 +7089,6 @@
       "onboard_time": 1707211231,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130762,
-      "num": 130762,
-      "word": "丁真哈尔滨一日游",
-      "onboard_time": 1707225452,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 130516,
@@ -7691,6 +7739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109436,
+      "num": 1163530,
+      "word": "我与家人合个影",
+      "onboard_time": 1707223349,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109356,
       "num": 109356,
       "word": "南宋的妆容有多高级",
@@ -7889,14 +7945,6 @@
       "onboard_time": 1707038071,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93174,
-      "num": 1157359,
-      "word": "我与家人合个影",
-      "onboard_time": 1707223349,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92222,
