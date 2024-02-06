@@ -1,6 +1,6 @@
 {
   "startTime": 1707150059046,
-  "endTime": 1707232660920,
+  "endTime": 1707233652613,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -331,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 865845,
+      "num": 865845,
+      "word": "马嘉祺心态",
+      "onboard_time": 1707231152,
+      "rank": 7,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 851390,
       "num": 851390,
       "word": "王者荣耀皮肤雨",
@@ -443,8 +451,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 707484,
-      "num": 707484,
+      "raw_hot": 724504,
+      "num": 724504,
       "word": "打工多少年能买这床被子",
       "onboard_time": 1707226415,
       "rank": 35,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578482,
+      "num": 470477,
+      "word": "小黑粉",
+      "onboard_time": 1707232052,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 576371,
       "num": 576371,
       "word": "29岁的陶昕然",
@@ -617,14 +633,6 @@
       "onboard_time": 1707135752,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 558472,
-      "num": 558472,
-      "word": "马嘉祺心态",
-      "onboard_time": 1707231152,
-      "rank": 7,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 554813,
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365133,
+      "num": 365133,
+      "word": "不要忘记了普通人的生活",
+      "onboard_time": 1707229472,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363181,
       "num": 363181,
       "word": "票务称梅西表演赛门票不退款",
@@ -979,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322909,
+      "num": 322909,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322428,
       "num": 322428,
       "word": "华中农大15名研究生已落实新导师",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1707153204,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314340,
-      "num": 314340,
-      "word": "不要忘记了普通人的生活",
-      "onboard_time": 1707229472,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 303160,
@@ -1072,14 +1088,6 @@
       "word": "知否开始独播",
       "onboard_time": 1707195274,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 285786,
-      "num": 285786,
-      "word": "请和我的老公结婚第12集",
-      "onboard_time": 1707229893,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272922,
+      "num": 272922,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1707229955,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 272349,
       "num": 254200,
       "word": "家里开洗浴中心是什么体验",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1707211950,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 268246,
-      "num": 268246,
-      "word": "宋亚轩MVP",
-      "onboard_time": 1707229955,
-      "rank": 43,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 264832,
@@ -1259,12 +1267,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 250651,
-      "num": 250651,
-      "word": "小黑粉",
-      "onboard_time": 1707232052,
-      "rank": 27,
-      "category": "网红"
+      "raw_hot": 249410,
+      "num": 249410,
+      "word": "熊猫疼得想咬人一看是保育员忍住了",
+      "onboard_time": 1707232773,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248149,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1707188431,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239124,
+      "num": 239124,
+      "word": "Fly和Gemini再现回忆杀",
+      "onboard_time": 1707232953,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 237988,
@@ -1507,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219510,
+      "num": 219510,
+      "word": "白敬亭北京小爷上身",
+      "onboard_time": 1707232653,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219203,
       "num": 219203,
       "word": "专家称涨跌停板已成机构操纵市场工具",
@@ -1531,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217498,
+      "num": 217498,
+      "word": "张真源输出第一",
+      "onboard_time": 1707233431,
+      "rank": 32,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 216409,
       "num": 216409,
       "word": "白鹿白月梵星新妆",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1707221851,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215497,
+      "num": 215497,
+      "word": "全红婵陈芋汐双人决赛",
+      "onboard_time": 1707232113,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 215038,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1707219630,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210211,
+      "num": 210211,
+      "word": "朱志鑫Baggy Jeans混剪",
+      "onboard_time": 1707232472,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 209769,
@@ -1779,11 +1827,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194435,
-      "num": 194435,
-      "word": "全红婵陈芋汐双人决赛",
-      "onboard_time": 1707232113,
-      "rank": 34,
+      "raw_hot": 193885,
+      "num": 193885,
+      "word": "约旦vs韩国",
+      "onboard_time": 1707233132,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2035,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166508,
+      "num": 166508,
+      "word": "永远不要惹一个妈妈",
+      "onboard_time": 1707233253,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164926,
       "num": 164926,
       "word": "拒绝长辈的红包会有什么下场",
@@ -2211,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153450,
-      "num": 153450,
-      "word": "朱志鑫Baggy Jeans混剪",
-      "onboard_time": 1707232472,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152941,
       "num": 152941,
       "word": "时代少年团游戏语音包",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1707225452,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150630,
+      "num": 150630,
+      "word": "亚洲杯半决赛",
+      "onboard_time": 1707233552,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149845,
@@ -2883,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78942,
+      "num": 454734,
+      "word": "时代少年团试玩王者龙限皮肤",
+      "onboard_time": 1707229655,
+      "rank": 25,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 75456,
       "num": 75456,
       "word": "证监会召开走访上市公司工作推进会",
@@ -2985,14 +3049,6 @@
       "onboard_time": 1707141154,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 53254,
-      "num": 454734,
-      "word": "时代少年团试玩王者龙限皮肤",
-      "onboard_time": 1707229655,
-      "rank": 25,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 49732,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707232660920,
+  "endTime": 1707233652613,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -835,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 865845,
+      "num": 865845,
+      "word": "马嘉祺心态",
+      "onboard_time": 1707231152,
+      "rank": 7,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 864091,
       "num": 864091,
       "word": "印度女星为假死道歉",
@@ -1171,6 +1179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 724504,
+      "num": 724504,
+      "word": "打工多少年能买这床被子",
+      "onboard_time": 1707226415,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 719719,
       "num": 719719,
       "word": "12306账号为何有陌生人信息",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1707088762,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707484,
-      "num": 707484,
-      "word": "打工多少年能买这床被子",
-      "onboard_time": 1707226415,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 704391,
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578482,
+      "num": 470477,
+      "word": "小黑粉",
+      "onboard_time": 1707232052,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 577080,
       "num": 461049,
       "word": "胡锡进称普通散户股民是无辜的",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1707001880,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 558472,
-      "num": 558472,
-      "word": "马嘉祺心态",
-      "onboard_time": 1707231152,
-      "rank": 7,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 557576,
@@ -2611,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365133,
+      "num": 365133,
+      "word": "不要忘记了普通人的生活",
+      "onboard_time": 1707229472,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363719,
       "num": 363719,
       "word": "请和我的老公结婚",
@@ -2843,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322909,
+      "num": 322909,
+      "word": "请和我的老公结婚第12集",
+      "onboard_time": 1707229893,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322428,
       "num": 322428,
       "word": "华中农大15名研究生已落实新导师",
@@ -2937,14 +2961,6 @@
       "onboard_time": 1707014790,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314340,
-      "num": 314340,
-      "word": "不要忘记了普通人的生活",
-      "onboard_time": 1707229472,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 313280,
@@ -3155,14 +3171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285786,
-      "num": 285786,
-      "word": "请和我的老公结婚第12集",
-      "onboard_time": 1707229893,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285080,
       "num": 285080,
       "word": "宋江入伍前最后一次活动",
@@ -3371,6 +3379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272922,
+      "num": 272922,
+      "word": "宋亚轩MVP",
+      "onboard_time": 1707229955,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 272349,
       "num": 254200,
       "word": "家里开洗浴中心是什么体验",
@@ -3457,14 +3473,6 @@
       "onboard_time": 1706973992,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268246,
-      "num": 268246,
-      "word": "宋亚轩MVP",
-      "onboard_time": 1707229955,
-      "rank": 43,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 267609,
@@ -3699,14 +3707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250651,
-      "num": 250651,
-      "word": "小黑粉",
-      "onboard_time": 1707232052,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 250592,
       "num": 250592,
       "word": "果粉为抢购苹果VisionPro打飞的赴美",
@@ -3729,6 +3729,14 @@
       "onboard_time": 1707102812,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249410,
+      "num": 249410,
+      "word": "熊猫疼得想咬人一看是保育员忍住了",
+      "onboard_time": 1707232773,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247267,
@@ -3905,6 +3913,14 @@
       "onboard_time": 1707115831,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239124,
+      "num": 239124,
+      "word": "Fly和Gemini再现回忆杀",
+      "onboard_time": 1707232953,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 239064,
@@ -4371,6 +4387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 219510,
+      "num": 219510,
+      "word": "白敬亭北京小爷上身",
+      "onboard_time": 1707232653,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219213,
       "num": 219213,
       "word": "要久久爱",
@@ -4427,6 +4451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217498,
+      "num": 217498,
+      "word": "张真源输出第一",
+      "onboard_time": 1707233431,
+      "rank": 32,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 217341,
       "num": 217341,
       "word": "李庚希老公姐",
@@ -4473,6 +4505,14 @@
       "onboard_time": 1707041670,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215497,
+      "num": 215497,
+      "word": "全红婵陈芋汐双人决赛",
+      "onboard_time": 1707232113,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 215172,
@@ -4601,6 +4641,14 @@
       "onboard_time": 1707048571,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210211,
+      "num": 210211,
+      "word": "朱志鑫Baggy Jeans混剪",
+      "onboard_time": 1707232472,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 210036,
@@ -5235,14 +5283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194435,
-      "num": 194435,
-      "word": "全红婵陈芋汐双人决赛",
-      "onboard_time": 1707232113,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194282,
       "num": 194282,
       "word": "穆雷绝平勇士",
@@ -5264,6 +5304,14 @@
       "word": "主办方否认赛前知悉梅西缺赛",
       "onboard_time": 1707102812,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193885,
+      "num": 193885,
+      "word": "约旦vs韩国",
+      "onboard_time": 1707233132,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -6059,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166508,
+      "num": 166508,
+      "word": "永远不要惹一个妈妈",
+      "onboard_time": 1707233253,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166427,
       "num": 166427,
       "word": "掏空积蓄为儿买婚房被中介骗600万",
@@ -6507,14 +6563,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 153450,
-      "num": 153450,
-      "word": "朱志鑫Baggy Jeans混剪",
-      "onboard_time": 1707232472,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152941,
       "num": 152941,
       "word": "时代少年团游戏语音包",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1706963850,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150630,
+      "num": 150630,
+      "word": "亚洲杯半决赛",
+      "onboard_time": 1707233552,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149845,
@@ -8259,6 +8315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78942,
+      "num": 454734,
+      "word": "时代少年团试玩王者龙限皮肤",
+      "onboard_time": 1707229655,
+      "rank": 25,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 78605,
       "num": 200280,
       "word": "如何区分流鼻涕和脑脊液鼻漏",
@@ -8521,14 +8585,6 @@
       "onboard_time": 1706998336,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53254,
-      "num": 454734,
-      "word": "时代少年团试玩王者龙限皮肤",
-      "onboard_time": 1707229655,
-      "rank": 25,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 51428,
