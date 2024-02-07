@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707297451675,
+  "endTime": 1707298441818,
   "band_list": [
     {
       "raw_hot": 2365521,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1760825,
+      "num": 1760825,
+      "word": "梅西日本行替补",
+      "onboard_time": 1707296251,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1737644,
       "num": 1737644,
       "word": "川航一航班挂出7700紧急代码",
@@ -91,14 +99,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1301966,
-      "num": 1301966,
-      "word": "梅西日本行替补",
-      "onboard_time": 1707296251,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1275028,
       "num": 1275028,
       "word": "爆改张大大",
@@ -113,6 +113,14 @@
       "onboard_time": 1707276989,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1126722,
+      "num": 1126722,
+      "word": "易会满被免",
+      "onboard_time": 1707298112,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1103827,
@@ -153,6 +161,14 @@
       "onboard_time": 1707278490,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 996510,
+      "num": 996510,
+      "word": "吴清任证监会主席",
+      "onboard_time": 1707298112,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 982397,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562286,
+      "num": 538865,
+      "word": "中央领导同志看望老同志",
+      "onboard_time": 1707295473,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 555022,
       "num": 555022,
       "word": "女子学瑜伽时被老师压断腿",
@@ -441,14 +465,6 @@
       "onboard_time": 1707271348,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539210,
-      "num": 532693,
-      "word": "中央领导同志看望老同志",
-      "onboard_time": 1707295473,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 536876,
@@ -515,20 +531,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 499651,
+      "num": 499651,
+      "word": "普通话羞耻症",
+      "onboard_time": 1707294870,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 498294,
       "num": 498294,
       "word": "约旦vs韩国",
       "onboard_time": 1707233132,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 491648,
-      "num": 491648,
-      "word": "普通话羞耻症",
-      "onboard_time": 1707294870,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 482913,
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359016,
+      "num": 359016,
+      "word": "魏大勋 电子老公",
+      "onboard_time": 1707296430,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -811,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309304,
-      "num": 309304,
-      "word": "魏大勋 电子老公",
-      "onboard_time": 1707296430,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308837,
       "num": 174809,
       "word": "霸王茶姬集卡",
@@ -899,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277821,
+      "num": 277821,
+      "word": "仙剑三美齐聚龙年春晚",
+      "onboard_time": 1707297810,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "C罗39岁生日全家福",
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257991,
+      "num": 257991,
+      "word": "证监会主要领导调整",
+      "onboard_time": 1707298411,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256855,
       "num": 245160,
       "word": "胡锡进称梅西污点已经留下",
@@ -961,6 +993,14 @@
       "onboard_time": 1707272612,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251668,
+      "num": 251668,
+      "word": "吴磊赵今麦互拍",
+      "onboard_time": 1707297694,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 248483,
@@ -1163,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205434,
+      "num": 205434,
+      "word": "冻雨",
+      "onboard_time": 1707297572,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204374,
       "num": 204374,
       "word": "李沁曾舜晞七夜雪镜头",
@@ -1240,6 +1288,14 @@
       "word": "专家呼吁女性适龄生育",
       "onboard_time": 1707212191,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199256,
+      "num": 199256,
+      "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
+      "onboard_time": 1707295591,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182633,
+      "num": 182633,
+      "word": "王源新歌年即是念",
+      "onboard_time": 1707298112,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180168,
       "num": 180168,
       "word": "成人芭蕾",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1707270868,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174502,
+      "num": 174502,
+      "word": "多家足球俱乐部发文疑内涵梅西香港行",
+      "onboard_time": 1707297451,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 174245,
@@ -1691,14 +1763,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150598,
-      "num": 150598,
-      "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
-      "onboard_time": 1707295591,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149641,
       "num": 149641,
       "word": "东北搓澡科普教学",
@@ -1883,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134827,
+      "num": 492508,
+      "word": "小孩姐帮奶奶拆出1888元大红包",
+      "onboard_time": 1707294391,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134640,
       "num": 134640,
       "word": "吴克群回遂宁过年啦",
@@ -1984,14 +2056,6 @@
       "word": "家乡问卷调查",
       "onboard_time": 1707286709,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125712,
-      "num": 492508,
-      "word": "小孩姐帮奶奶拆出1888元大红包",
-      "onboard_time": 1707294391,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2219,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80120,
+      "num": 1130416,
+      "word": "直击2024春运",
+      "onboard_time": 1707296312,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78129,
       "num": 193247,
       "word": "秦凯何姿的神仙爱情",
@@ -2257,14 +2329,6 @@
       "onboard_time": 1707212133,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60316,
-      "num": 1080307,
-      "word": "直击2024春运",
-      "onboard_time": 1707296312,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59354,
@@ -2407,6 +2471,9 @@
     },
     {
       "word": "#心始终连在一起#"
+    },
+    {
+      "word": "#读懂总书记的深深牵挂#"
     }
   ]
 }

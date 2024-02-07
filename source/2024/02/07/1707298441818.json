@@ -1,0 +1,410 @@
+{
+  "runTime": 1707298441818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760825,
+        "num": 1760825,
+        "word": "梅西日本行替补",
+        "onboard_time": 1707296251,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1147301,
+        "num": 1147301,
+        "word": "萧敬腾不愿妻子受生育之苦",
+        "onboard_time": 1707291451,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80120,
+        "num": 1130416,
+        "word": "直击2024春运",
+        "onboard_time": 1707296312,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126722,
+        "num": 1126722,
+        "word": "易会满被免",
+        "onboard_time": 1707298112,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 996510,
+        "num": 996510,
+        "word": "吴清任证监会主席",
+        "onboard_time": 1707298112,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 799628,
+        "num": 799628,
+        "word": "川航一航班挂出7700紧急代码",
+        "onboard_time": 1707290551,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768000,
+        "num": 768000,
+        "word": "王者荣耀 你真是饿了",
+        "onboard_time": 1707291870,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 675653,
+        "num": 675653,
+        "word": "华晨宇坚持11年的生日仪式感",
+        "onboard_time": 1707293672,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645662,
+        "num": 645662,
+        "word": "优酷70余部剧集拍摄制作中",
+        "onboard_time": 1707295054,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546684,
+        "num": 546684,
+        "word": "6.8亿巨奖当事人为28岁小伙",
+        "onboard_time": 1707284073,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 562286,
+        "num": 538865,
+        "word": "中央领导同志看望老同志",
+        "onboard_time": 1707295473,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514960,
+        "num": 514960,
+        "word": "央视拍的关晓彤",
+        "onboard_time": 1707294629,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499651,
+        "num": 499651,
+        "word": "普通话羞耻症",
+        "onboard_time": 1707294870,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461215,
+        "num": 461215,
+        "word": "胡锡进 梅西在香港的表现难以接受",
+        "onboard_time": 1707295113,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365943,
+        "num": 365943,
+        "word": "孔刘父亲离世",
+        "onboard_time": 1707291630,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359016,
+        "num": 359016,
+        "word": "魏大勋 电子老公",
+        "onboard_time": 1707296430,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346550,
+        "num": 346550,
+        "word": "女子学瑜伽时被老师压断腿",
+        "onboard_time": 1707289771,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323808,
+        "num": 323808,
+        "word": "网红张美丽被逮捕",
+        "onboard_time": 1707279692,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 319044,
+        "num": 319044,
+        "word": "赵露思吊带丝绸裙",
+        "onboard_time": 1707293131,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308844,
+        "num": 308844,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389477,
+        "num": 307088,
+        "word": "梅西为何到了日本才回应缺席比赛",
+        "onboard_time": 1707285749,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299372,
+        "num": 299372,
+        "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+        "onboard_time": 1707289771,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280490,
+        "num": 280490,
+        "word": "3U8906航班出现飞机引气故障",
+        "onboard_time": 1707292112,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277821,
+        "num": 277821,
+        "word": "仙剑三美齐聚龙年春晚",
+        "onboard_time": 1707297810,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272888,
+        "num": 272888,
+        "word": "梅西日本",
+        "onboard_time": 1707278071,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257991,
+        "num": 257991,
+        "word": "证监会主要领导调整",
+        "onboard_time": 1707298411,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256403,
+        "num": 256403,
+        "word": "河南一新娘陪嫁999万和法拉利",
+        "onboard_time": 1707291273,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251668,
+        "num": 251668,
+        "word": "吴磊赵今麦互拍",
+        "onboard_time": 1707297694,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236045,
+        "num": 236045,
+        "word": "爆改张大大",
+        "onboard_time": 1707286770,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224221,
+        "num": 224221,
+        "word": "胡锡进称梅西污点已经留下",
+        "onboard_time": 1707295113,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214437,
+        "num": 214437,
+        "word": "已经有一批回家的人又逃回去了",
+        "onboard_time": 1707295772,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209429,
+        "num": 209429,
+        "word": "热辣滚烫贾玲张小斐打戏",
+        "onboard_time": 1707281010,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208426,
+        "num": 208426,
+        "word": "花儿与少年 再见不再见",
+        "onboard_time": 1707283712,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205434,
+        "num": 205434,
+        "word": "冻雨",
+        "onboard_time": 1707297572,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199256,
+        "num": 199256,
+        "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
+        "onboard_time": 1707295591,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188464,
+        "num": 188464,
+        "word": "突然被八年的朋友表白了",
+        "onboard_time": 1707290612,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186501,
+        "num": 186501,
+        "word": "年前这几天大概率是最舒服的",
+        "onboard_time": 1707295290,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183844,
+        "num": 183844,
+        "word": "感觉小狼崽要碎了",
+        "onboard_time": 1707283891,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134827,
+        "num": 183147,
+        "word": "小孩姐帮奶奶拆出1888元大红包",
+        "onboard_time": 1707294391,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182985,
+        "num": 182985,
+        "word": "年轻人为什么开始断亲了",
+        "onboard_time": 1707295650,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182633,
+        "num": 182633,
+        "word": "王源新歌年即是念",
+        "onboard_time": 1707298112,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174502,
+        "num": 174502,
+        "word": "多家足球俱乐部发文疑内涵梅西香港行",
+        "onboard_time": 1707297451,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161655,
+        "num": 161655,
+        "word": "A股成交额突破万亿元",
+        "onboard_time": 1707292651,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155801,
+        "num": 155801,
+        "word": "杨幂春晚最后一次联排",
+        "onboard_time": 1707294331,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151022,
+        "num": 151022,
+        "word": "在暴雪时分 恋爱脑要长出来了",
+        "onboard_time": 1707289887,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143861,
+        "num": 143861,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143758,
+        "num": 143758,
+        "word": "大学生过年在电影院当NPC",
+        "onboard_time": 1707297030,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142752,
+        "num": 142752,
+        "word": "王一博2023总结",
+        "onboard_time": 1707297030,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139314,
+        "num": 139314,
+        "word": "王者春节发癫版宣传片",
+        "onboard_time": 1707297089,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134222,
+        "num": 134222,
+        "word": "有一部分人开始断亲了",
+        "onboard_time": 1707274531,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记的深深牵挂#"
+    }
+  }
+}
