@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707279621396,
+  "endTime": 1707280431428,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1832044,
+      "num": 1832044,
+      "word": "6.8亿彩票",
+      "onboard_time": 1707276331,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1763413,
       "num": 1763413,
       "word": "车厘子价格跌至每斤20元",
@@ -241,14 +249,6 @@
       "onboard_time": 1707274711,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1569480,
-      "num": 1569480,
-      "word": "6.8亿彩票",
-      "onboard_time": 1707276331,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1560627,
@@ -899,6 +899,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 869540,
+      "num": 869540,
+      "word": "刘丹说小糯米每天上学前要挑衣配鞋",
+      "onboard_time": 1707278490,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867567,
       "num": 756808,
       "word": "钟丽缇女儿考拉14岁近照",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1707021993,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806894,
+      "num": 630935,
+      "word": "字节红包 减半",
+      "onboard_time": 1707276752,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 805628,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1707016650,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 749415,
-      "num": 528379,
-      "word": "字节红包 减半",
-      "onboard_time": 1707276752,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 748894,
@@ -1467,6 +1475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 667306,
+      "num": 667306,
+      "word": "网红张美丽被逮捕",
+      "onboard_time": 1707279692,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 666165,
       "num": 666165,
       "word": "樊振东也喜欢霉霉",
@@ -1504,14 +1520,6 @@
       "word": "大小S孩子同游巴厘岛",
       "onboard_time": 1707212133,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 658714,
-      "num": 658714,
-      "word": "刘丹说小糯米每天上学前要挑衣配鞋",
-      "onboard_time": 1707278490,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -1795,6 +1803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 576662,
+      "num": 576662,
+      "word": "贝克汉姆社交账号评论区被球迷刷屏",
+      "onboard_time": 1707277773,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576371,
       "num": 576371,
       "word": "29岁的陶昕然",
@@ -1971,11 +1987,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 541199,
-      "num": 523393,
-      "word": "贝克汉姆社交账号评论区被球迷刷屏",
-      "onboard_time": 1707277773,
-      "rank": 11,
+      "raw_hot": 541191,
+      "num": 458567,
+      "word": "梅西握手环节双手插兜躲着走",
+      "onboard_time": 1707277830,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -2049,6 +2065,14 @@
       "onboard_time": 1707110971,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521094,
+      "num": 521094,
+      "word": "娜扎丞磊吻戏",
+      "onboard_time": 1707279092,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 517901,
@@ -2345,14 +2369,6 @@
       "onboard_time": 1707015450,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 458124,
-      "num": 402591,
-      "word": "梅西握手环节双手插兜躲着走",
-      "onboard_time": 1707277830,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 453619,
@@ -2739,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398990,
+      "num": 398990,
+      "word": "弟弟这一筷子过于帅了",
+      "onboard_time": 1707275129,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 398312,
       "num": 269387,
       "word": "gidle 认哥",
@@ -2795,14 +2819,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 389170,
-      "num": 389170,
-      "word": "弟弟这一筷子过于帅了",
-      "onboard_time": 1707275129,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 388165,
       "num": 388165,
       "word": "导演让吴磊赵今麦亲嘴",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1707137073,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 385775,
-      "num": 385775,
-      "word": "娜扎丞磊吻戏",
-      "onboard_time": 1707279092,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 385088,
@@ -3136,6 +3144,14 @@
       "word": "美邦创始人回应女儿7年亏损32亿",
       "onboard_time": 1707039631,
       "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 341143,
+      "num": 341143,
+      "word": "A股逾百股涨停",
+      "onboard_time": 1707278792,
+      "rank": 22,
       "category": "财经"
     },
     {
@@ -3563,14 +3579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290122,
-      "num": 290122,
-      "word": "A股逾百股涨停",
-      "onboard_time": 1707278792,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 289887,
       "num": 289887,
       "word": "大鹏提名金像奖影帝",
@@ -3956,7 +3964,7 @@
     },
     {
       "raw_hot": 264872,
-      "num": 192021,
+      "num": 213857,
       "word": "坐高铁松弛感",
       "onboard_time": 1707277412,
       "rank": 30,
@@ -4243,6 +4251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246055,
+      "num": 246055,
+      "word": "要久久爱收官长文",
+      "onboard_time": 1707279213,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245631,
       "num": 245631,
       "word": "Teddy新女团曝光",
@@ -4377,14 +4393,6 @@
       "onboard_time": 1707196894,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240943,
-      "num": 240943,
-      "word": "要久久爱收官长文",
-      "onboard_time": 1707279213,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 240600,
@@ -4665,6 +4673,14 @@
       "onboard_time": 1707261382,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227530,
+      "num": 227530,
+      "word": "seventeen预售",
+      "onboard_time": 1707278490,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 227010,
@@ -4987,14 +5003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 217306,
-      "num": 217306,
-      "word": "seventeen预售",
-      "onboard_time": 1707278490,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 216672,
       "num": 164945,
       "word": "iPhone年收入首次占智能手机市场50%",
@@ -5169,6 +5177,14 @@
       "onboard_time": 1707219630,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211209,
+      "num": 211209,
+      "word": "大雪封路村民15元方便面被批评贵",
+      "onboard_time": 1707280051,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211198,
@@ -5353,6 +5369,14 @@
       "onboard_time": 1707201991,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207531,
+      "num": 207531,
+      "word": "东北人为啥喜欢跨城买房投资",
+      "onboard_time": 1707279512,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207029,
@@ -5652,7 +5676,7 @@
     },
     {
       "raw_hot": 201808,
-      "num": 191094,
+      "num": 194665,
       "word": "夏以昼黎深修罗场",
       "onboard_time": 1707279213,
       "rank": 32,
@@ -6675,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172235,
+      "num": 172235,
+      "word": "鸣潮鉴心",
+      "onboard_time": 1707280051,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171936,
       "num": 171936,
       "word": "吴磊王星越有点暧昧了",
@@ -7419,14 +7451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151086,
-      "num": 151086,
-      "word": "东北人为啥喜欢跨城买房投资",
-      "onboard_time": 1707279512,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150808,
       "num": 125231,
       "word": "将进酒回来了",
@@ -7712,6 +7736,14 @@
       "word": "东北人的活儿是从小就培养的",
       "onboard_time": 1707265770,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143936,
+      "num": 143936,
+      "word": "东北话和东北口音是两个概念",
+      "onboard_time": 1707279993,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -8099,6 +8131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134640,
+      "num": 134640,
+      "word": "吴克群回遂宁过年啦",
+      "onboard_time": 1707279630,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134241,
       "num": 134241,
       "word": "胡锡进称没有比大家挣钱亏钱更牵动人心的了",
@@ -8425,6 +8465,14 @@
       "onboard_time": 1707060212,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126672,
+      "num": 126672,
+      "word": "在姐姐婚礼上掉进水池助兴",
+      "onboard_time": 1707280412,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 126624,
@@ -9244,7 +9292,7 @@
     },
     {
       "raw_hot": 88121,
-      "num": 192293,
+      "num": 208860,
       "word": "京东春晚大奖竟然还有TA",
       "onboard_time": 1707278670,
       "rank": 29,
@@ -9579,6 +9627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57460,
+      "num": 172043,
+      "word": "范丞丞元梦专属称号星想事丞",
+      "onboard_time": 1707280112,
+      "rank": 36,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 56696,
       "num": 609060,
       "word": "元pl奥特曼团建",
@@ -9899,6 +9955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30916,
+      "num": 460708,
+      "word": "世界之外心动时刻",
+      "onboard_time": 1707278430,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29718,
       "num": 419111,
       "word": "黄子弘凡祝大家欧气满满",
@@ -10041,14 +10105,6 @@
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21144,
-      "num": 403871,
-      "word": "世界之外心动时刻",
-      "onboard_time": 1707278430,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 20535,

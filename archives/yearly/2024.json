@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707279621396,
+  "endTime": 1707280431428,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2083,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1832044,
+      "num": 1832044,
+      "word": "6.8亿彩票",
+      "onboard_time": 1707276331,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1831345,
       "num": 1831345,
       "word": "刘德华回应隐婚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704087332,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1728461,
-      "num": 548163,
-      "word": "壶鱼辣椒 抄袭",
-      "onboard_time": 1705235670,
-      "rank": 13,
-      "category": "读书作家,作品衍生"
     }
   ],
   "hotgov_list": [
