@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707320114144,
+  "endTime": 1707322969456,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -961,6 +961,14 @@
       "onboard_time": 1707224010,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927498,
+      "num": 1127815,
+      "word": "河南卫视配享太庙",
+      "onboard_time": 1707318633,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 925626,
@@ -1955,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634849,
+      "num": 274178,
+      "word": "36岁女儿将水倒进油锅妈妈淡定清理",
+      "onboard_time": 1707319355,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632716,
       "num": 632716,
       "word": "美甲 约不上",
@@ -2491,14 +2507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 510916,
-      "num": 510916,
-      "word": "河南卫视配享太庙",
-      "onboard_time": 1707318633,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 508486,
       "num": 508486,
       "word": "肿瘤医生不碰的6种促癌食物",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1707116010,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 499001,
+      "num": 499001,
+      "word": "意大利国家级电视台将直播央视龙年春晚",
+      "onboard_time": 1707319657,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 498404,
@@ -3771,12 +3787,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 341143,
-      "num": 287581,
-      "word": "意大利国家级电视台将直播央视龙年春晚",
-      "onboard_time": 1707319657,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 339951,
+      "num": 339951,
+      "word": "宝贝这群叔叔阿姨拼了命想救你",
+      "onboard_time": 1707318335,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332904,
@@ -4547,14 +4563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274178,
-      "num": 274178,
-      "word": "36岁女儿将水倒进油锅妈妈淡定清理",
-      "onboard_time": 1707319355,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273738,
       "num": 273738,
       "word": "邓为侧颜生图",
@@ -4873,14 +4881,6 @@
       "onboard_time": 1707298411,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 257745,
-      "num": 257745,
-      "word": "宝贝这群叔叔阿姨拼了命想救你",
-      "onboard_time": 1707318335,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256963,
@@ -7377,6 +7377,14 @@
       "onboard_time": 1707218487,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188636,
+      "num": 188636,
+      "word": "最苏的现偶男主",
+      "onboard_time": 1707321630,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 188244,
