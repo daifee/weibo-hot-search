@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707291227333,
+  "endTime": 1707294026675,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1685011,
+      "num": 1685011,
+      "word": "川航一航班挂出7700紧急代码",
+      "onboard_time": 1707290551,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679212,
       "num": 1679212,
       "word": "白头发可能是身体给你的警报",
@@ -393,6 +401,14 @@
       "onboard_time": 1707143491,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1295801,
+      "num": 1295801,
+      "word": "萧敬腾不愿妻子受生育之苦",
+      "onboard_time": 1707291451,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1281722,
@@ -873,6 +889,14 @@
       "onboard_time": 1707136712,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909049,
+      "num": 909049,
+      "word": "王者荣耀 你真是饿了",
+      "onboard_time": 1707291870,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 906916,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1707284970,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716292,
+      "num": 716292,
+      "word": "孔刘父亲离世",
+      "onboard_time": 1707291630,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 715181,
@@ -2067,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544474,
+      "num": 544474,
+      "word": "女子学瑜伽时被老师压断腿",
+      "onboard_time": 1707289771,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543535,
       "num": 543535,
       "word": "当一个行业开始赚钱女性就被迫离开",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1706966072,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465560,
+      "num": 465560,
+      "word": "3U8906航班出现飞机引气故障",
+      "onboard_time": 1707292112,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464032,
@@ -2915,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394797,
+      "num": 394797,
+      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+      "onboard_time": 1707289771,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394718,
       "num": 394718,
       "word": "SHE带孩子聚会",
@@ -2953,6 +3009,14 @@
       "onboard_time": 1707204810,
       "rank": 30,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 388519,
+      "num": 388519,
+      "word": "赵露思吊带丝绸裙",
+      "onboard_time": 1707293131,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 388165,
@@ -3115,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363639,
+      "num": 243063,
+      "word": "河南一新娘陪嫁999万和法拉利",
+      "onboard_time": 1707291273,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363386,
       "num": 363386,
       "word": "请和我的老公结婚第12集",
@@ -3227,19 +3299,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351771,
+      "num": 265329,
+      "word": "突然被八年的朋友表白了",
+      "onboard_time": 1707290612,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351249,
       "num": 351249,
       "word": "武汉高铁",
       "onboard_time": 1707057817,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349379,
-      "num": 349379,
-      "word": "川航一航班挂出7700紧急代码",
-      "onboard_time": 1707290551,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3707,14 +3779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293191,
-      "num": 293191,
-      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
-      "onboard_time": 1707289771,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292789,
       "num": 292789,
       "word": "美甲也有了自己的光腿神器",
@@ -3833,14 +3897,6 @@
       "onboard_time": 1707199114,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283511,
-      "num": 283511,
-      "word": "女子学瑜伽时被老师压断腿",
-      "onboard_time": 1707289771,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283031,
@@ -4153,14 +4209,6 @@
       "onboard_time": 1707132152,
       "rank": 20,
       "category": "综艺,读书作家"
-    },
-    {
-      "raw_hot": 265329,
-      "num": 265329,
-      "word": "突然被八年的朋友表白了",
-      "onboard_time": 1707290612,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 264872,
@@ -4579,6 +4627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241283,
+      "num": 241283,
+      "word": "华晨宇坚持11年的生日仪式感",
+      "onboard_time": 1707293672,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241200,
       "num": 241200,
       "word": "春晚彩排",
@@ -4617,6 +4673,14 @@
       "onboard_time": 1707188431,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240422,
+      "num": 240422,
+      "word": "A股成交额突破万亿元",
+      "onboard_time": 1707292651,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 239732,
@@ -6179,6 +6243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194859,
+      "num": 194859,
+      "word": "上海银行回应年终奖为零",
+      "onboard_time": 1707292831,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194823,
       "num": 194823,
       "word": "贵州1投注站中133注一等奖",
@@ -6489,6 +6561,14 @@
       "onboard_time": 1707020731,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188038,
+      "num": 188038,
+      "word": "周迅陈坤挽手合照",
+      "onboard_time": 1707292534,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 187491,
@@ -7249,6 +7329,14 @@
       "onboard_time": 1707089244,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166226,
+      "num": 166226,
+      "word": "秦岚评价迪丽热巴",
+      "onboard_time": 1707291091,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 166034,
@@ -8395,12 +8483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138341,
-      "num": 138341,
-      "word": "秦岚评价迪丽热巴",
-      "onboard_time": 1707291091,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 138458,
+      "num": 138458,
+      "word": "人与人之间真正的断联",
+      "onboard_time": 1707292410,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 138319,
@@ -8747,6 +8835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130821,
+      "num": 130821,
+      "word": "原神新春许愿",
+      "onboard_time": 1707293073,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130516,
       "num": 130516,
       "word": "TTG零封KSG",
@@ -9059,6 +9155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 123511,
+      "num": 123511,
+      "word": "杜兰特一级恶意犯规",
+      "onboard_time": 1707291570,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122844,
       "num": 122844,
       "word": "KSG对战TTG",
@@ -9353,6 +9457,14 @@
       "onboard_time": 1707178228,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114268,
+      "num": 114268,
+      "word": "热爱竞新春",
+      "onboard_time": 1707293916,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 113946,
@@ -10043,20 +10155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66332,
+      "num": 1024772,
+      "word": "春节氛围从回家开始",
+      "onboard_time": 1707273990,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66064,
       "num": 53985,
       "word": "只有陈都灵在前面认真拍照",
       "onboard_time": 1707085816,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64613,
-      "num": 971561,
-      "word": "春节氛围从回家开始",
-      "onboard_time": 1707273990,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64336,
@@ -10729,6 +10841,14 @@
       "onboard_time": 1707288931,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 6474,
+      "num": 222664,
+      "word": "王耀庆说到元梦信uncle就发财",
+      "onboard_time": 1707292290,
+      "rank": 26,
+      "category": "艺人,游戏"
     }
   ],
   "hotgov_list": [
