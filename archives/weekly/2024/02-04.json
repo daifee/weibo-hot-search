@@ -1,13 +1,21 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707305640934,
+  "endTime": 1707308995312,
   "band_list": [
     {
-      "raw_hot": 10446941,
-      "num": 10446941,
+      "raw_hot": 10457854,
+      "num": 10457854,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9146563,
+      "num": 9146563,
+      "word": "梅西上场了",
+      "onboard_time": 1707305852,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -91,6 +99,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2516787,
+      "num": 2516787,
+      "word": "医学奇迹",
+      "onboard_time": 1707306875,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2447148,
       "num": 2447148,
       "word": "调休",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 1967028,
-      "num": 357069,
+      "num": 364597,
       "word": "四川梅西",
       "onboard_time": 1707302313,
       "rank": 10,
@@ -705,6 +721,14 @@
       "onboard_time": 1707197251,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1061515,
+      "num": 1061515,
+      "word": "贵阳消防栓",
+      "onboard_time": 1707305914,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1055515,
@@ -1547,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694916,
+      "num": 694916,
+      "word": "梅西6场季前赛仅缺席香港行比赛",
+      "onboard_time": 1707308259,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693334,
       "num": 693334,
       "word": "央视拍的关晓彤",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1707089722,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644640,
+      "num": 644640,
+      "word": "papi酱 这个除夕快乐上班",
+      "onboard_time": 1707305072,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 641529,
@@ -2187,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 541044,
+      "num": 364521,
+      "word": "蓝盈莹和妈妈聊天记录",
+      "onboard_time": 1707306094,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540182,
       "num": 624483,
       "word": "近视眼手术的优缺点",
@@ -2225,6 +2273,14 @@
       "onboard_time": 1707201869,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 535141,
+      "num": 535141,
+      "word": "张雪峰称不要试图说教年轻人消费",
+      "onboard_time": 1707307476,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530301,
@@ -3115,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395017,
+      "num": 364114,
+      "word": "朋友式情侣关系",
+      "onboard_time": 1707307655,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 394718,
       "num": 394718,
       "word": "SHE带孩子聚会",
@@ -3387,14 +3451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358936,
-      "num": 209269,
-      "word": "papi酱 这个除夕快乐上班",
-      "onboard_time": 1707305072,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -3433,6 +3489,14 @@
       "onboard_time": 1707226294,
       "rank": 38,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 353861,
+      "num": 297435,
+      "word": "已经开始算哪天洗头了",
+      "onboard_time": 1707308076,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 352047,
@@ -3675,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320547,
+      "num": 320547,
+      "word": "智能腹股沟",
+      "onboard_time": 1707308131,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
@@ -3755,6 +3827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 315998,
+      "num": 315998,
+      "word": "80年代的年夜饭桌才能喝到可乐",
+      "onboard_time": 1707307232,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 314593,
       "num": 314593,
       "word": "赵丽颖红色小香",
@@ -3791,6 +3871,14 @@
       "num": 312208,
       "word": "库里60分",
       "onboard_time": 1707017011,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310833,
+      "num": 310833,
+      "word": "日本场上座率",
+      "onboard_time": 1707308555,
       "rank": 18,
       "category": "体育"
     },
@@ -3979,6 +4067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292834,
+      "num": 292834,
+      "word": "河南卫视龙年春晚",
+      "onboard_time": 1707305675,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292789,
       "num": 292789,
       "word": "美甲也有了自己的光腿神器",
@@ -4155,6 +4251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280359,
+      "num": 280359,
+      "word": "日本核污染水净化装置泄漏",
+      "onboard_time": 1707307655,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 280162,
       "num": 261397,
       "word": "哪些人不适合吃车厘子",
@@ -4305,6 +4409,14 @@
       "onboard_time": 1707229955,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 272871,
+      "num": 272871,
+      "word": "男朋友送了我一整只羊",
+      "onboard_time": 1707305374,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 272349,
@@ -4859,6 +4971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 243036,
+      "num": 243036,
+      "word": "杨紫文笔",
+      "onboard_time": 1707308972,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242693,
       "num": 242693,
       "word": "要久久刀",
@@ -5203,6 +5323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230656,
+      "num": 230656,
+      "word": "杨幂唐装",
+      "onboard_time": 1707308674,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230329,
       "num": 150370,
       "word": "张杰 狂门永存",
@@ -5377,6 +5505,14 @@
       "onboard_time": 1707202529,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 224182,
+      "num": 224182,
+      "word": "这样过年省下一两万",
+      "onboard_time": 1707306634,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 224001,
@@ -6099,6 +6235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205374,
+      "num": 205374,
+      "word": "这是准备把房子过户给猫吗",
+      "onboard_time": 1707307834,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205258,
       "num": 205258,
       "word": "TS11",
@@ -6793,6 +6937,14 @@
       "onboard_time": 1707115590,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190970,
+      "num": 190970,
+      "word": "东方卫视春晚预热节目",
+      "onboard_time": 1707308313,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190695,
@@ -7587,6 +7739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169734,
+      "num": 169734,
+      "word": "iG战胜RNG",
+      "onboard_time": 1707308076,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169551,
       "num": 169551,
       "word": "怪道积德",
@@ -7827,6 +7987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "杨紫长文告别黄瀛子",
+      "onboard_time": 1707308793,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165344,
       "num": 165344,
       "word": "以闪亮之名捏脸更新",
@@ -7985,6 +8153,14 @@
       "onboard_time": 1707289111,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161015,
+      "num": 161015,
+      "word": "恋与深空有黎的冬天",
+      "onboard_time": 1707307891,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 160798,
@@ -8369,14 +8545,6 @@
       "onboard_time": 1707009328,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151922,
-      "num": 151922,
-      "word": "男朋友送了我一整只羊",
-      "onboard_time": 1707305374,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 151781,
@@ -9171,6 +9339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135961,
+      "num": 135961,
+      "word": "深圳优化住房限购政策",
+      "onboard_time": 1707306754,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135949,
       "num": 135949,
       "word": "鞠婧祎陈丽君东方春晚花絮",
@@ -9731,6 +9907,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124105,
+      "num": 124105,
+      "word": "为了游子回家扫了十几公里山路",
+      "onboard_time": 1707308855,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123999,
       "num": 123999,
       "word": "华晨宇庆生给歌迷煮饺子",
@@ -9841,6 +10025,14 @@
       "onboard_time": 1706973095,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "微博集卡你集齐了吗",
+      "onboard_time": 1707305852,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 120678,
@@ -10500,7 +10692,7 @@
     },
     {
       "raw_hot": 87093,
-      "num": 1204657,
+      "num": 5249050,
       "word": "直击2024春运",
       "onboard_time": 1707296312,
       "rank": 2,
@@ -11163,6 +11355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32336,
+      "num": 234040,
+      "word": "在蛋仔岛看家有儿女",
+      "onboard_time": 1707307115,
+      "rank": 29,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 31905,
       "num": 139947,
       "word": "孟子义红衣拜年发红包",
@@ -11259,6 +11459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26291,
+      "num": 347097,
+      "word": "王嘉尔空降派红包",
+      "onboard_time": 1707301170,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 25992,
       "num": 349417,
       "word": "春运路上被白象暖到了",
@@ -11337,14 +11545,6 @@
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20611,
-      "num": 140147,
-      "word": "王嘉尔空降派红包",
-      "onboard_time": 1707301170,
-      "rank": 49,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 20535,

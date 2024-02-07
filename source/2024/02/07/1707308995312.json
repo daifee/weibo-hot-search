@@ -1,0 +1,410 @@
+{
+  "runTime": 1707308995312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10457854,
+        "num": 10457854,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9146563,
+        "num": 9146563,
+        "word": "梅西上场了",
+        "onboard_time": 1707305852,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83550,
+        "num": 5249050,
+        "word": "直击2024春运",
+        "onboard_time": 1707296312,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2516787,
+        "num": 2516787,
+        "word": "医学奇迹",
+        "onboard_time": 1707306875,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1061515,
+        "num": 1061515,
+        "word": "贵阳消防栓",
+        "onboard_time": 1707305914,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694916,
+        "num": 694916,
+        "word": "梅西6场季前赛仅缺席香港行比赛",
+        "onboard_time": 1707308259,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644640,
+        "num": 644640,
+        "word": "papi酱 这个除夕快乐上班",
+        "onboard_time": 1707305072,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 535141,
+        "num": 535141,
+        "word": "张雪峰称不要试图说教年轻人消费",
+        "onboard_time": 1707307476,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378043,
+        "num": 378043,
+        "word": "要久久爱大结局",
+        "onboard_time": 1707304413,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365405,
+        "num": 365405,
+        "word": "王者荣耀 你真是饿了",
+        "onboard_time": 1707291870,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 849725,
+        "num": 364597,
+        "word": "四川梅西",
+        "onboard_time": 1707302313,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541044,
+        "num": 364521,
+        "word": "蓝盈莹和妈妈聊天记录",
+        "onboard_time": 1707306094,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395017,
+        "num": 364114,
+        "word": "朋友式情侣关系",
+        "onboard_time": 1707307655,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363511,
+        "num": 363511,
+        "word": "易会满被免",
+        "onboard_time": 1707298112,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26291,
+        "num": 347097,
+        "word": "王嘉尔空降派红包",
+        "onboard_time": 1707301170,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 330875,
+        "num": 330875,
+        "word": "男菩萨郑成灿",
+        "onboard_time": 1707303872,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320547,
+        "num": 320547,
+        "word": "智能腹股沟",
+        "onboard_time": 1707308131,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315998,
+        "num": 315998,
+        "word": "80年代的年夜饭桌才能喝到可乐",
+        "onboard_time": 1707307232,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310833,
+        "num": 310833,
+        "word": "日本场上座率",
+        "onboard_time": 1707308555,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297655,
+        "num": 297655,
+        "word": "腹股沟 内收肌",
+        "onboard_time": 1707303933,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353861,
+        "num": 297435,
+        "word": "已经开始算哪天洗头了",
+        "onboard_time": 1707308076,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292834,
+        "num": 292834,
+        "word": "河南卫视龙年春晚",
+        "onboard_time": 1707305675,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292246,
+        "num": 292246,
+        "word": "美媒下场报道梅西之乱",
+        "onboard_time": 1707260662,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283243,
+        "num": 283243,
+        "word": "萧敬腾不愿妻子受生育之苦",
+        "onboard_time": 1707291451,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280359,
+        "num": 280359,
+        "word": "日本核污染水净化装置泄漏",
+        "onboard_time": 1707307655,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 282957,
+        "num": 278672,
+        "word": "胡锡进 梅西在香港的表现难以接受",
+        "onboard_time": 1707295113,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272871,
+        "num": 272871,
+        "word": "男朋友送了我一整只羊",
+        "onboard_time": 1707305374,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243036,
+        "num": 243036,
+        "word": "杨紫文笔",
+        "onboard_time": 1707308972,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271243,
+        "num": 239007,
+        "word": "管泽元锐评梅西事件",
+        "onboard_time": 1707300692,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32336,
+        "num": 234040,
+        "word": "在蛋仔岛看家有儿女",
+        "onboard_time": 1707307115,
+        "rank": 29,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 230656,
+        "num": 230656,
+        "word": "杨幂唐装",
+        "onboard_time": 1707308674,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225951,
+        "num": 225951,
+        "word": "央视拍的关晓彤",
+        "onboard_time": 1707294629,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224182,
+        "num": 224182,
+        "word": "这样过年省下一两万",
+        "onboard_time": 1707306634,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208727,
+        "num": 208727,
+        "word": "董宇辉称供应商过年送礼将永不合作",
+        "onboard_time": 1707302073,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205374,
+        "num": 205374,
+        "word": "这是准备把房子过户给猫吗",
+        "onboard_time": 1707307834,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190970,
+        "num": 190970,
+        "word": "东方卫视春晚预热节目",
+        "onboard_time": 1707308313,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169734,
+        "num": 169734,
+        "word": "iG战胜RNG",
+        "onboard_time": 1707308076,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167555,
+        "num": 167555,
+        "word": "霍启刚说热情被狠狠践踏",
+        "onboard_time": 1707187469,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165968,
+        "num": 165968,
+        "word": "杨紫长文告别黄瀛子",
+        "onboard_time": 1707308793,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161015,
+        "num": 161015,
+        "word": "恋与深空有黎的冬天",
+        "onboard_time": 1707307891,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75328,
+        "num": 159406,
+        "word": "梅西日本行替补",
+        "onboard_time": 1707296251,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33640,
+        "num": 159088,
+        "word": "梅西日本",
+        "onboard_time": 1707278071,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159022,
+        "num": 159022,
+        "word": "父母去世新娘从堂哥家风光出嫁",
+        "onboard_time": 1707299430,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156682,
+        "num": 156682,
+        "word": "贾玲 在人生的舞台上挥拳",
+        "onboard_time": 1707305374,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "吴磊赵今麦互拍",
+        "onboard_time": 1707297694,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144269,
+        "num": 144269,
+        "word": "6.8亿巨奖或需缴1.36亿税",
+        "onboard_time": 1707298950,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135961,
+        "num": 135961,
+        "word": "深圳优化住房限购政策",
+        "onboard_time": 1707306754,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124105,
+        "num": 124105,
+        "word": "为了游子回家扫了十几公里山路",
+        "onboard_time": 1707308855,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121885,
+        "num": 121885,
+        "word": "特斯拉1月在韩国仅卖出1辆车",
+        "onboard_time": 1707302851,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120934,
+        "num": 120934,
+        "word": "微博集卡你集齐了吗",
+        "onboard_time": 1707305852,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}

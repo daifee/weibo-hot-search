@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707305640934,
+  "endTime": 1707308995312,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -19,8 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 10446941,
-      "num": 10446941,
+      "raw_hot": 10457854,
+      "num": 10457854,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1705157865,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9146563,
+      "num": 9146563,
+      "word": "梅西上场了",
+      "onboard_time": 1707305852,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 9066763,
@@ -817,6 +825,14 @@
       "onboard_time": 1706686053,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2516787,
+      "num": 2516787,
+      "word": "医学奇迹",
+      "onboard_time": 1707306875,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2501607,
@@ -1644,7 +1660,7 @@
     },
     {
       "raw_hot": 1967028,
-      "num": 357069,
+      "num": 364597,
       "word": "四川梅西",
       "onboard_time": 1707302313,
       "rank": 10,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705583969,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1747164,
-      "num": 1747164,
-      "word": "川沙阿宝",
-      "onboard_time": 1704806254,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1747066,
-      "num": 1747066,
-      "word": "央视评繁花可能成为孤品",
-      "onboard_time": 1704863372,
-      "rank": 16,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
