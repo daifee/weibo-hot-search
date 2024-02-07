@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707276869627,
+  "endTime": 1707279621396,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -80,6 +80,14 @@
       "word": "梅西说很高兴来到日本",
       "onboard_time": 1707191912,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2365521,
+      "num": 2365521,
+      "word": "日本第一男公关晒与梅西合影",
+      "onboard_time": 1707275071,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1569480,
+      "num": 1569480,
+      "word": "6.8亿彩票",
+      "onboard_time": 1707276331,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1560627,
       "num": 1560627,
       "word": "王豆豆怀孕",
@@ -259,11 +275,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1537925,
-      "num": 1009020,
-      "word": "日本第一男公关晒与梅西合影",
-      "onboard_time": 1707275071,
-      "rank": 12,
+      "raw_hot": 1526082,
+      "num": 1526082,
+      "word": "梅西日本",
+      "onboard_time": 1707278071,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1707053194,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1256429,
+      "num": 1256429,
+      "word": "狄仁杰因办签证欠下巨款",
+      "onboard_time": 1707276989,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1251899,
@@ -779,6 +803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 917551,
+      "num": 917551,
+      "word": "有一部分人开始断亲了",
+      "onboard_time": 1707274531,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 912991,
       "num": 912991,
       "word": "某银行总行暂停晋升",
@@ -1059,14 +1091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 797768,
-      "num": 797768,
-      "word": "有一部分人开始断亲了",
-      "onboard_time": 1707274531,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 797652,
       "num": 797652,
       "word": "奚梦瑶说22岁的金莎很漂亮",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1707016650,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 749415,
+      "num": 528379,
+      "word": "字节红包 减半",
+      "onboard_time": 1707276752,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 748894,
@@ -1472,6 +1504,14 @@
       "word": "大小S孩子同游巴厘岛",
       "onboard_time": 1707212133,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 658714,
+      "num": 658714,
+      "word": "刘丹说小糯米每天上学前要挑衣配鞋",
+      "onboard_time": 1707278490,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -1931,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 541199,
+      "num": 523393,
+      "word": "贝克汉姆社交账号评论区被球迷刷屏",
+      "onboard_time": 1707277773,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540182,
       "num": 624483,
       "word": "近视眼手术的优缺点",
@@ -2003,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517901,
+      "num": 517901,
+      "word": "新女婿拜丈人送300元茅台平替",
+      "onboard_time": 1707276031,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515986,
       "num": 506070,
       "word": "肾不好嘴唇和眼圈会发黑",
@@ -2041,14 +2097,6 @@
       "onboard_time": 1707099813,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 505552,
-      "num": 359157,
-      "word": "新女婿拜丈人送300元茅台平替",
-      "onboard_time": 1707276031,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505110,
@@ -2297,6 +2345,14 @@
       "onboard_time": 1707015450,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 458124,
+      "num": 402591,
+      "word": "梅西握手环节双手插兜躲着走",
+      "onboard_time": 1707277830,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 453619,
@@ -2739,6 +2795,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 389170,
+      "num": 389170,
+      "word": "弟弟这一筷子过于帅了",
+      "onboard_time": 1707275129,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388165,
       "num": 388165,
       "word": "导演让吴磊赵今麦亲嘴",
@@ -2753,6 +2817,14 @@
       "onboard_time": 1707137073,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385775,
+      "num": 385775,
+      "word": "娜扎丞磊吻戏",
+      "onboard_time": 1707279092,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 385088,
@@ -2867,14 +2939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 368909,
-      "num": 368909,
-      "word": "弟弟这一筷子过于帅了",
-      "onboard_time": 1707275129,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 368882,
       "num": 368882,
       "word": "金在中脸部脱毛的原因",
@@ -2937,14 +3001,6 @@
       "onboard_time": 1707138691,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360340,
-      "num": 360340,
-      "word": "6.8亿彩票",
-      "onboard_time": 1707276331,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359821,
@@ -3323,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308837,
+      "num": 174809,
+      "word": "霸王茶姬集卡",
+      "onboard_time": 1707278192,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 308583,
       "num": 308583,
       "word": "巨物恐惧症犯了",
@@ -3497,6 +3561,14 @@
       "onboard_time": 1707267511,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290122,
+      "num": 290122,
+      "word": "A股逾百股涨停",
+      "onboard_time": 1707278792,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 289887,
@@ -3881,6 +3953,14 @@
       "onboard_time": 1707132152,
       "rank": 20,
       "category": "综艺,读书作家"
+    },
+    {
+      "raw_hot": 264872,
+      "num": 192021,
+      "word": "坐高铁松弛感",
+      "onboard_time": 1707277412,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 264832,
@@ -4297,6 +4377,14 @@
       "onboard_time": 1707196894,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240943,
+      "num": 240943,
+      "word": "要久久爱收官长文",
+      "onboard_time": 1707279213,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 240600,
@@ -4897,6 +4985,14 @@
       "onboard_time": 1707121411,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217306,
+      "num": 217306,
+      "word": "seventeen预售",
+      "onboard_time": 1707278490,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 216672,
@@ -5555,6 +5651,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201808,
+      "num": 191094,
+      "word": "夏以昼黎深修罗场",
+      "onboard_time": 1707279213,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 201442,
+      "num": 201442,
+      "word": "肖战央视网文娱春节祝福",
+      "onboard_time": 1707277891,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201057,
       "num": 201057,
       "word": "山东春晚节目单",
@@ -6011,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189833,
+      "num": 189833,
+      "word": "彩票店回应双色球6.8亿巨奖",
+      "onboard_time": 1707278312,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 189832,
       "num": 189832,
       "word": "年轻人整顿年货圈",
@@ -6259,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180168,
+      "num": 180168,
+      "word": "成人芭蕾",
+      "onboard_time": 1707279031,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 180134,
       "num": 180134,
       "word": "专家称平准基金已到入场时",
@@ -6411,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176254,
+      "num": 176254,
+      "word": "河南春晚龙年节目单",
+      "onboard_time": 1707278490,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175841,
       "num": 175841,
       "word": "友情提示还是爱情提示",
@@ -6513,6 +6649,14 @@
       "onboard_time": 1707024030,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173098,
+      "num": 173098,
+      "word": "霍启刚发声获百万赞",
+      "onboard_time": 1707277052,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 173074,
@@ -6947,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160044,
+      "num": 160044,
+      "word": "吴磊赵今麦专访",
+      "onboard_time": 1707277773,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159448,
       "num": 1766652,
       "word": "春节假期安全提示来了",
@@ -7259,20 +7411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151235,
-      "num": 151235,
-      "word": "字节红包 减半",
-      "onboard_time": 1707276752,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 151100,
       "num": 151100,
       "word": "山下智久龟梨和也双人直播",
       "onboard_time": 1707065546,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151086,
+      "num": 151086,
+      "word": "东北人为啥喜欢跨城买房投资",
+      "onboard_time": 1707279512,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150808,
@@ -7980,7 +8132,7 @@
     },
     {
       "raw_hot": 133452,
-      "num": 1120314,
+      "num": 1533860,
       "word": "春联文化知识点",
       "onboard_time": 1707275249,
       "rank": 2,
@@ -8057,6 +8209,14 @@
       "onboard_time": 1707089244,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132152,
+      "num": 132152,
+      "word": "父亲离世后戍边战士收到AI全家福",
+      "onboard_time": 1707279092,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131988,
@@ -9083,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88121,
+      "num": 192293,
+      "word": "京东春晚大奖竟然还有TA",
+      "onboard_time": 1707278670,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86635,
       "num": 137890,
       "word": "为啥车厘子1月价格比11月低那么多",
@@ -9177,6 +9345,14 @@
       "onboard_time": 1706998397,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78129,
+      "num": 193247,
+      "word": "秦凯何姿的神仙爱情",
+      "onboard_time": 1707276331,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 77467,
@@ -9401,14 +9577,6 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 56960,
-      "num": 193247,
-      "word": "秦凯何姿的神仙爱情",
-      "onboard_time": 1707276331,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 56696,
@@ -9875,6 +10043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21144,
+      "num": 403871,
+      "word": "世界之外心动时刻",
+      "onboard_time": 1707278430,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 20535,
       "num": 20535,
       "word": "米哈游你拿我的内存做了什么",
@@ -10028,6 +10204,9 @@
     },
     {
       "word": "#总书记新春到我家心里倍儿温暖#"
+    },
+    {
+      "word": "#心始终连在一起#"
     }
   ]
 }
