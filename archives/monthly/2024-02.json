@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707333230864,
+  "endTime": 1707334433914,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -21129,6 +21129,14 @@
       "onboard_time": 1707252616,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20207,
+      "num": 20207,
+      "word": "大学生群演",
+      "onboard_time": 1707333499,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 18835,
