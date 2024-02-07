@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707283008826,
+  "endTime": 1707284032340,
   "band_list": [
     {
       "raw_hot": 2365521,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2035651,
-      "num": 2035651,
+      "raw_hot": 2121910,
+      "num": 2121910,
       "word": "网红张美丽被逮捕",
       "onboard_time": 1707279692,
       "rank": 9,
@@ -99,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1032938,
+      "num": 1032938,
+      "word": "迈阿密国际回应梅西缺阵",
+      "onboard_time": 1707282272,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1018459,
       "num": 1018459,
       "word": "刘丹说小糯米每天上学前要挑衣配鞋",
       "onboard_time": 1707278490,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 937398,
+      "num": 937398,
+      "word": "贵州双色球6.8亿巨奖系一人独中",
+      "onboard_time": 1707281791,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917551,
@@ -195,14 +211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 723886,
-      "num": 723886,
-      "word": "贵州双色球6.8亿巨奖系一人独中",
-      "onboard_time": 1707281791,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 715181,
       "num": 715181,
       "word": "Kpop艺人中国杂志总销量TOP15",
@@ -219,19 +227,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 700606,
-      "num": 574970,
-      "word": "迈阿密国际回应梅西缺阵",
-      "onboard_time": 1707282272,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 690823,
       "num": 690823,
       "word": "香港警方正式通缉周庭",
       "onboard_time": 1707270570,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676664,
+      "num": 676664,
+      "word": "大雪封路村民15元方便面被批评贵",
+      "onboard_time": 1707280051,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -307,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538070,
-      "num": 538070,
-      "word": "大雪封路村民15元方便面被批评贵",
-      "onboard_time": 1707280051,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534407,
       "num": 534407,
       "word": "香港前特首女儿怒斥梅西",
@@ -329,6 +329,14 @@
       "onboard_time": 1707272309,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 522562,
+      "num": 522562,
+      "word": "创造营2019赤子练习室",
+      "onboard_time": 1707282272,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 521094,
@@ -419,6 +427,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 417741,
+      "num": 417741,
+      "word": "奶奶的微信永远不会有聊天记录了",
+      "onboard_time": 1707282571,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 412091,
       "num": 412091,
       "word": "时代少年团王者技术",
@@ -449,6 +465,14 @@
       "onboard_time": 1707270748,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383372,
+      "num": 355199,
+      "word": "热辣滚烫贾玲张小斐打戏",
+      "onboard_time": 1707281010,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 377992,
@@ -579,22 +603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 297633,
-      "num": 297633,
-      "word": "创造营2019赤子练习室",
-      "onboard_time": 1707282272,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 293480,
-      "num": 293480,
-      "word": "热辣滚烫贾玲张小斐打戏",
-      "onboard_time": 1707281010,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 292508,
       "num": 292508,
       "word": "阴阳师 应声虫",
@@ -625,14 +633,6 @@
       "onboard_time": 1707271288,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285696,
-      "num": 173894,
-      "word": "奶奶的微信永远不会有聊天记录了",
-      "onboard_time": 1707282571,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 283031,
@@ -683,12 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248365,
+      "num": 248365,
+      "word": "花儿与少年 再见不再见",
+      "onboard_time": 1707283712,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246055,
       "num": 246055,
       "word": "要久久爱收官长文",
       "onboard_time": 1707279213,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245440,
+      "num": 245440,
+      "word": "梅西参加日本行欢迎派对",
+      "onboard_time": 1707283050,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 238651,
@@ -705,6 +721,14 @@
       "onboard_time": 1707254595,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234141,
+      "num": 234141,
+      "word": "男子宴席收到工作信息后醉酒捅死领导",
+      "onboard_time": 1707282930,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227625,
@@ -1099,12 +1123,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "张楠辞任抖音CEO",
+      "onboard_time": 1707283168,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 157419,
       "num": 157419,
       "word": "全红婵陈芋汐世锦赛三连冠",
       "onboard_time": 1707261082,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155539,
+      "num": 155539,
+      "word": "时代少年团新中式",
+      "onboard_time": 1707283831,
+      "rank": 35,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 155303,
+      "num": 155303,
+      "word": "感觉小狼崽要碎了",
+      "onboard_time": 1707283891,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151514,
+      "num": 151514,
+      "word": "我给自己争取了一份年终奖",
+      "onboard_time": 1707282149,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151392,
+      "num": 151392,
+      "word": "吃土笋冻最重要的是不能多想",
+      "onboard_time": 1707283352,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 149509,
@@ -1187,6 +1251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142868,
+      "num": 142868,
+      "word": "36年前春晚居然有唐老鸭",
+      "onboard_time": 1707282989,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142775,
       "num": 142775,
       "word": "彩宝价格翻倍上涨",
@@ -1243,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134091,
+      "num": 134091,
+      "word": "刘耀文和小朋友聊天",
+      "onboard_time": 1707283050,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133452,
       "num": 1533860,
       "word": "春联文化知识点",
@@ -1257,14 +1337,6 @@
       "onboard_time": 1707270510,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132306,
-      "num": 132306,
-      "word": "男子宴席收到工作信息后醉酒捅死领导",
-      "onboard_time": 1707282930,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132152,
@@ -1355,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117085,
-      "num": 117085,
-      "word": "我给自己争取了一份年终奖",
-      "onboard_time": 1707282149,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117046,
       "num": 117046,
       "word": "6宗报案指控梅西和迈阿密欺诈",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1707265591,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108545,
-      "num": 108545,
-      "word": "36年前春晚居然有唐老鸭",
-      "onboard_time": 1707282989,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 107327,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1707256156,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44712,
+      "num": 150069,
+      "word": "元梦新春派对没你不行",
+      "onboard_time": 1707283771,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 41318,
