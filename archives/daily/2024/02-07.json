@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707312843351,
+  "endTime": 1707315332840,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -19,19 +19,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5030432,
+      "num": 5030432,
+      "word": "霍启刚愤怒回应梅西道歉",
+      "onboard_time": 1707310294,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4754781,
       "num": 4754781,
       "word": "霍启刚再发长文",
       "onboard_time": 1707309875,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4186306,
-      "num": 4186306,
-      "word": "霍启刚愤怒回应梅西道歉",
-      "onboard_time": 1707310294,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1858237,
-      "num": 463292,
+      "num": 724091,
       "word": "小黑粉",
       "onboard_time": 1707232052,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1069006,
+      "num": 835189,
+      "word": "梅西代言",
+      "onboard_time": 1707311378,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1061515,
       "num": 1061515,
       "word": "贵阳消防栓",
@@ -319,14 +327,6 @@
       "num": 843425,
       "word": "梅西为何到了日本才回应缺席比赛",
       "onboard_time": 1707285749,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 835189,
-      "num": 835189,
-      "word": "梅西代言",
-      "onboard_time": 1707311378,
       "rank": 15,
       "category": "体育"
     },
@@ -515,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 637329,
+      "num": 637329,
+      "word": "梅西向日本球迷告别",
+      "onboard_time": 1707312155,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632481,
       "num": 632481,
       "word": "国际米兰回应霍启刚",
@@ -529,6 +537,14 @@
       "onboard_time": 1707229472,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 598367,
+      "num": 598367,
+      "word": "梅西不会出席日本行赛后发布会",
+      "onboard_time": 1707310534,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 593241,
@@ -683,6 +699,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 511171,
+      "num": 511171,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1707312394,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 507866,
+      "num": 507866,
+      "word": "陈丽君 李云霄",
+      "onboard_time": 1707312934,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502785,
       "num": 502785,
       "word": "男菩萨郑成灿",
@@ -712,14 +744,6 @@
       "word": "约旦vs韩国",
       "onboard_time": 1707233132,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 488409,
-      "num": 488409,
-      "word": "梅西不会出席日本行赛后发布会",
-      "onboard_time": 1707310534,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -833,14 +857,6 @@
       "onboard_time": 1707286412,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 428883,
-      "num": 428883,
-      "word": "梅西向日本球迷告别",
-      "onboard_time": 1707312155,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 423080,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327034,
+      "num": 327034,
+      "word": "腹股沟拉伤很难短期恢复",
+      "onboard_time": 1707312995,
+      "rank": 20,
+      "category": "运动健身,体育"
+    },
+    {
       "raw_hot": 323778,
       "num": 323778,
       "word": "朴灿烈将出演网飞新剧",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1707266852,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306801,
+      "num": 306801,
+      "word": "梅西香港行主办方门票收入至少1亿港元",
+      "onboard_time": 1707314499,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 304510,
@@ -1275,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272849,
+      "num": 234860,
+      "word": "周深簪花郎",
+      "onboard_time": 1707313236,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "C罗39岁生日全家福",
@@ -1387,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247772,
+      "num": 247772,
+      "word": "WBG对战TES",
+      "onboard_time": 1707311855,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246418,
       "num": 246418,
       "word": "林亦扬殷果亲出声了",
@@ -1443,14 +1491,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 235478,
-      "num": 235478,
-      "word": "冯巩 我想死你们了",
-      "onboard_time": 1707312394,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 233710,
       "num": 233710,
       "word": "要久久爱",
@@ -1465,6 +1505,22 @@
       "onboard_time": 1707291029,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231915,
+      "num": 231915,
+      "word": "中国龙和西方龙的区别",
+      "onboard_time": 1707313896,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 228975,
+      "num": 228975,
+      "word": "侃爷计划来中国演出",
+      "onboard_time": 1707314375,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 227987,
@@ -1595,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217277,
+      "num": 217277,
+      "word": "犬夜叉 犬薇发糖",
+      "onboard_time": 1707310234,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 214820,
       "num": 214820,
       "word": "哲学家李泽厚冷冻头颅遗嘱已执行",
@@ -1675,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206191,
+      "num": 206191,
+      "word": "吴磊醉酒情绪戏",
+      "onboard_time": 1707314136,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205434,
       "num": 205434,
       "word": "冻雨",
@@ -1705,6 +1777,14 @@
       "onboard_time": 1707294088,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203683,
+      "num": 203683,
+      "word": "张杰蓝色星空下唱响守护的光",
+      "onboard_time": 1707314674,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 203589,
@@ -1771,6 +1851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200365,
+      "num": 200365,
+      "word": "李老八",
+      "onboard_time": 1707312394,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199987,
       "num": 199987,
       "word": "过年为什么要炸东西吃",
@@ -1785,14 +1873,6 @@
       "onboard_time": 1707212191,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199052,
-      "num": 199052,
-      "word": "犬夜叉 犬薇发糖",
-      "onboard_time": 1707310234,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 197905,
@@ -1923,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191160,
+      "num": 191160,
+      "word": "再就业男团春晚最后一次联排",
+      "onboard_time": 1707313957,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190970,
       "num": 190970,
       "word": "东方卫视春晚预热节目",
@@ -1953,14 +2041,6 @@
       "onboard_time": 1707292534,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187530,
-      "num": 187530,
-      "word": "WBG对战TES",
-      "onboard_time": 1707311855,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 185407,
@@ -2257,6 +2337,14 @@
       "onboard_time": 1707310894,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164729,
+      "num": 164729,
+      "word": "杨紫杀青vlog",
+      "onboard_time": 1707313896,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164490,
@@ -2651,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137526,
-      "num": 137526,
-      "word": "李老八",
-      "onboard_time": 1707312394,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137134,
       "num": 137134,
       "word": "北京台春晚第八波阵容",
@@ -2705,6 +2785,14 @@
       "onboard_time": 1707279630,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134363,
+      "num": 134363,
+      "word": "龙头帽是属于中国家长的爱",
+      "onboard_time": 1707314795,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 134091,
@@ -2907,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118801,
+      "num": 5720482,
+      "word": "过年前先打开这九个安全锦囊",
+      "onboard_time": 1707311855,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117715,
       "num": 117715,
       "word": "永远不要惹一个妈妈",
@@ -3075,14 +3171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83785,
-      "num": 5720482,
-      "word": "过年前先打开这九个安全锦囊",
-      "onboard_time": 1707311855,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81965,
       "num": 81965,
       "word": "全红婵双冠王",
@@ -3201,6 +3289,14 @@
       "onboard_time": 1707301170,
       "rank": 49,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 34894,
+      "num": 237895,
+      "word": "蛋仔河南春晚惊艳全场",
+      "onboard_time": 1707314674,
+      "rank": 26,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 32336,
