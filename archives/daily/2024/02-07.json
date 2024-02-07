@@ -1,10 +1,10 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707304517296,
+  "endTime": 1707305640934,
   "band_list": [
     {
-      "raw_hot": 9129125,
-      "num": 9129125,
+      "raw_hot": 10446941,
+      "num": 10446941,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
@@ -19,7 +19,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 2853604,
+      "raw_hot": 3111482,
       "num": 1760825,
       "word": "梅西日本行替补",
       "onboard_time": 1707296251,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1967028,
-      "num": 320700,
+      "num": 357069,
       "word": "四川梅西",
       "onboard_time": 1707302313,
       "rank": 10,
@@ -547,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 502785,
+      "num": 502785,
+      "word": "男菩萨郑成灿",
+      "onboard_time": 1707303872,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502414,
       "num": 502414,
       "word": "6.8亿巨奖或需缴1.36亿税",
@@ -635,8 +643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437743,
-      "num": 314092,
+      "raw_hot": 438071,
+      "num": 438071,
       "word": "董宇辉称供应商过年送礼将永不合作",
       "onboard_time": 1707302073,
       "rank": 11,
@@ -689,6 +697,14 @@
       "onboard_time": 1707282571,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 415551,
+      "num": 415551,
+      "word": "要久久爱大结局",
+      "onboard_time": 1707304413,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 412091,
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358936,
+      "num": 209269,
+      "word": "papi酱 这个除夕快乐上班",
+      "onboard_time": 1707305072,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -899,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311983,
+      "num": 307819,
+      "word": "梅西日本赛前训练",
+      "onboard_time": 1707215911,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308837,
       "num": 174809,
       "word": "霸王茶姬集卡",
@@ -907,20 +939,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 308817,
+      "num": 308817,
+      "word": "腹股沟 内收肌",
+      "onboard_time": 1707303933,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308583,
       "num": 308583,
       "word": "巨物恐惧症犯了",
       "onboard_time": 1707266852,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305828,
-      "num": 305828,
-      "word": "梅西日本赛前训练",
-      "onboard_time": 1707215911,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 304510,
@@ -1011,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273454,
+      "num": 273454,
+      "word": "最小众的洗澡方式",
+      "onboard_time": 1707300271,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "C罗39岁生日全家福",
@@ -1067,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259885,
+      "num": 259885,
+      "word": "神户胜利船vs迈阿密国际",
+      "onboard_time": 1707302012,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259097,
       "num": 259097,
       "word": "杨幂春晚最后一次联排",
@@ -1097,14 +1145,6 @@
       "onboard_time": 1707272612,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250520,
-      "num": 250520,
-      "word": "最小众的洗澡方式",
-      "onboard_time": 1707300271,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 248483,
@@ -1147,12 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236422,
-      "num": 236422,
-      "word": "男菩萨郑成灿",
-      "onboard_time": 1707303872,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 238151,
+      "num": 203937,
+      "word": "梅西日本行",
+      "onboard_time": 1707183392,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 235802,
@@ -1283,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214031,
-      "num": 214031,
-      "word": "腹股沟 内收肌",
-      "onboard_time": 1707303933,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213529,
       "num": 213529,
       "word": "星穹铁道黑天鹅",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1707301112,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210585,
-      "num": 210585,
-      "word": "神户胜利船vs迈阿密国际",
-      "onboard_time": 1707302012,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 209226,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1707294088,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203589,
+      "num": 203589,
+      "word": "山东春晚",
+      "onboard_time": 1707304714,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 201808,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1707276031,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193756,
+      "num": 193756,
+      "word": "金晨新剧高考数学9分",
+      "onboard_time": 1707304291,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 192856,
@@ -1763,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174258,
-      "num": 174258,
-      "word": "要久久爱大结局",
-      "onboard_time": 1707304413,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174245,
       "num": 174245,
       "word": "鬼妈妈重映",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1707296190,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169424,
-      "num": 169424,
-      "word": "金晨新剧高考数学9分",
-      "onboard_time": 1707304291,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 169347,
@@ -1875,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166658,
+      "num": 166658,
+      "word": "专家称A股股民要形成股东意识",
+      "onboard_time": 1707304593,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166226,
       "num": 166226,
       "word": "秦岚评价迪丽热巴",
@@ -1905,6 +1937,14 @@
       "onboard_time": 1707289287,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161307,
+      "num": 161307,
+      "word": "贾玲 在人生的舞台上挥拳",
+      "onboard_time": 1707305374,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 161266,
@@ -2003,12 +2043,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 151559,
-      "num": 146870,
-      "word": "梅西日本行",
-      "onboard_time": 1707183392,
+      "raw_hot": 151922,
+      "num": 151922,
+      "word": "男朋友送了我一整只羊",
+      "onboard_time": 1707305374,
       "rank": 44,
-      "category": "体育"
+      "category": "情感"
     },
     {
       "raw_hot": 151514,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1707219812,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 145766,
+      "num": 145766,
+      "word": "StrayKids祝大家新年快乐",
+      "onboard_time": 1707305012,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 145209,
@@ -2619,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63634,
+      "num": 312525,
+      "word": "当年轻人回家过年",
+      "onboard_time": 1707303632,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59354,
       "num": 59354,
       "word": "金莎因为一个MV镜头被海蝶老板看中",
@@ -2681,14 +2737,6 @@
       "onboard_time": 1707257597,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31407,
-      "num": 303328,
-      "word": "当年轻人回家过年",
-      "onboard_time": 1707303632,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30916,
