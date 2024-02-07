@@ -1,0 +1,410 @@
+{
+  "runTime": 1707294871511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1737644,
+        "num": 1737644,
+        "word": "川航一航班挂出7700紧急代码",
+        "onboard_time": 1707290551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414647,
+        "num": 1414647,
+        "word": "萧敬腾不愿妻子受生育之苦",
+        "onboard_time": 1707291451,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75954,
+        "num": 1002130,
+        "word": "春节氛围从回家开始",
+        "onboard_time": 1707273990,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982397,
+        "num": 982397,
+        "word": "王者荣耀 你真是饿了",
+        "onboard_time": 1707291870,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 806192,
+        "num": 806192,
+        "word": "6.8亿巨奖当事人为28岁小伙",
+        "onboard_time": 1707284073,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 704284,
+        "num": 704284,
+        "word": "孔刘父亲离世",
+        "onboard_time": 1707291630,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643846,
+        "num": 643846,
+        "word": "爆改张大大",
+        "onboard_time": 1707286770,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555022,
+        "num": 555022,
+        "word": "女子学瑜伽时被老师压断腿",
+        "onboard_time": 1707289771,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521541,
+        "num": 521541,
+        "word": "赵露思吊带丝绸裙",
+        "onboard_time": 1707293131,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499034,
+        "num": 499034,
+        "word": "网红张美丽被逮捕",
+        "onboard_time": 1707279692,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 784207,
+        "num": 496445,
+        "word": "梅西为何到了日本才回应缺席比赛",
+        "onboard_time": 1707285749,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467511,
+        "num": 467511,
+        "word": "华晨宇坚持11年的生日仪式感",
+        "onboard_time": 1707293672,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457661,
+        "num": 457661,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449726,
+        "num": 449726,
+        "word": "3U8906航班出现飞机引气故障",
+        "onboard_time": 1707292112,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405793,
+        "num": 405793,
+        "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+        "onboard_time": 1707289771,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333849,
+        "num": 333849,
+        "word": "花儿与少年 再见不再见",
+        "onboard_time": 1707283712,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284226,
+        "num": 284226,
+        "word": "感觉小狼崽要碎了",
+        "onboard_time": 1707283891,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269505,
+        "num": 269505,
+        "word": "有一部分人开始断亲了",
+        "onboard_time": 1707274531,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259097,
+        "num": 259097,
+        "word": "杨幂春晚最后一次联排",
+        "onboard_time": 1707294331,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257438,
+        "num": 257438,
+        "word": "热辣滚烫贾玲张小斐打戏",
+        "onboard_time": 1707281010,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393031,
+        "num": 254771,
+        "word": "梅西日本",
+        "onboard_time": 1707278071,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370432,
+        "num": 252783,
+        "word": "河南一新娘陪嫁999万和法拉利",
+        "onboard_time": 1707291273,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311469,
+        "num": 252236,
+        "word": "突然被八年的朋友表白了",
+        "onboard_time": 1707290612,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249895,
+        "num": 249895,
+        "word": "央视拍的关晓彤",
+        "onboard_time": 1707294629,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237938,
+        "num": 237938,
+        "word": "上海银行年终奖为零过节费还要倒扣",
+        "onboard_time": 1707284429,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225344,
+        "num": 225344,
+        "word": "在暴雪时分 恋爱脑要长出来了",
+        "onboard_time": 1707289887,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220362,
+        "num": 220362,
+        "word": "A股成交额突破万亿元",
+        "onboard_time": 1707292651,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203702,
+        "num": 203702,
+        "word": "道英将solo出道",
+        "onboard_time": 1707294088,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196834,
+        "num": 196834,
+        "word": "贾玲剪影",
+        "onboard_time": 1707274711,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91465,
+        "num": 189769,
+        "word": "南极秦岭站的中国式浪漫",
+        "onboard_time": 1707294152,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235801,
+        "num": 189759,
+        "word": "日本第一男公关晒与梅西合影",
+        "onboard_time": 1707275071,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189562,
+        "num": 189562,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187043,
+        "num": 187043,
+        "word": "物理教师反映每天一节体育课导致无法完成教学",
+        "onboard_time": 1707285932,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183498,
+        "num": 183498,
+        "word": "美人鱼 卷头发",
+        "onboard_time": 1707294031,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3928,
+        "num": 179372,
+        "word": "王耀庆说到元梦信uncle就发财",
+        "onboard_time": 1707292290,
+        "rank": 34,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 175751,
+        "num": 175751,
+        "word": "e人的升级版是过年e人",
+        "onboard_time": 1707294211,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174245,
+        "num": 174245,
+        "word": "鬼妈妈重映",
+        "onboard_time": 1707294272,
+        "rank": 36,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 173882,
+        "num": 173882,
+        "word": "上海银行回应年终奖为零",
+        "onboard_time": 1707292831,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166430,
+        "num": 166430,
+        "word": "周迅陈坤挽手合照",
+        "onboard_time": 1707292534,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162435,
+        "num": 162435,
+        "word": "刘丹说小糯米每天上学前要挑衣配鞋",
+        "onboard_time": 1707278490,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 156947,
+        "word": "狐妖小红娘集数变更",
+        "onboard_time": 1707291029,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151696,
+        "num": 151696,
+        "word": "迪丽热巴谈参加花少",
+        "onboard_time": 1707288274,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92283,
+        "num": 147063,
+        "word": "小孩姐帮奶奶拆出1888元大红包",
+        "onboard_time": 1707294391,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145633,
+        "num": 145633,
+        "word": "甲状腺结节发病率可以高达20%",
+        "onboard_time": 1707288569,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139718,
+        "num": 139718,
+        "word": "华晨宇人生手书",
+        "onboard_time": 1707294572,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136475,
+        "num": 136475,
+        "word": "第一次见男朋友家长",
+        "onboard_time": 1707289287,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149879,
+        "num": 135785,
+        "word": "秦岚评价迪丽热巴",
+        "onboard_time": 1707291091,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134731,
+        "num": 134731,
+        "word": "大雪封路村民15元方便面被批评贵",
+        "onboard_time": 1707280051,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132774,
+        "num": 132774,
+        "word": "不要把压岁钱交给他们",
+        "onboard_time": 1707294331,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129826,
+        "num": 129826,
+        "word": "春晚最后一次联排",
+        "onboard_time": 1707284970,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#心始终连在一起#"
+    }
+  }
+}

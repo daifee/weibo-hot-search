@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707294026675,
+  "endTime": 1707294871511,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -219,6 +219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1737644,
+      "num": 1737644,
+      "word": "川航一航班挂出7700紧急代码",
+      "onboard_time": 1707290551,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1726559,
       "num": 973930,
       "word": "英国国王确诊患癌",
@@ -240,14 +248,6 @@
       "word": "南航",
       "onboard_time": 1707053253,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1685011,
-      "num": 1685011,
-      "word": "川航一航班挂出7700紧急代码",
-      "onboard_time": 1707290551,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -355,6 +355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1414647,
+      "num": 1414647,
+      "word": "萧敬腾不愿妻子受生育之苦",
+      "onboard_time": 1707291451,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1395900,
       "num": 1395900,
       "word": "半个娱乐圈都在苏醒的拟邀名单上",
@@ -401,14 +409,6 @@
       "onboard_time": 1707143491,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1295801,
-      "num": 1295801,
-      "word": "萧敬腾不愿妻子受生育之苦",
-      "onboard_time": 1707291451,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1281722,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 982397,
+      "num": 982397,
+      "word": "王者荣耀 你真是饿了",
+      "onboard_time": 1707291870,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 977671,
       "num": 977671,
       "word": "李家超回应梅西缺赛",
@@ -889,14 +897,6 @@
       "onboard_time": 1707136712,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909049,
-      "num": 909049,
-      "word": "王者荣耀 你真是饿了",
-      "onboard_time": 1707291870,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 906916,
@@ -2043,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555022,
+      "num": 555022,
+      "word": "女子学瑜伽时被老师压断腿",
+      "onboard_time": 1707289771,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554813,
       "num": 554813,
       "word": "中央汇金加大增持A股ETF力度",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1707018870,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 544474,
-      "num": 544474,
-      "word": "女子学瑜伽时被老师压断腿",
-      "onboard_time": 1707289771,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543535,
@@ -2193,6 +2193,14 @@
       "onboard_time": 1707110971,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521541,
+      "num": 521541,
+      "word": "赵露思吊带丝绸裙",
+      "onboard_time": 1707293131,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521094,
@@ -2481,6 +2489,14 @@
       "onboard_time": 1706966072,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467511,
+      "num": 467511,
+      "word": "华晨宇坚持11年的生日仪式感",
+      "onboard_time": 1707293672,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 465560,
@@ -2867,6 +2883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 405793,
+      "num": 405793,
+      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+      "onboard_time": 1707289771,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405136,
       "num": 405136,
       "word": "春晚第四次联排明星阵容",
@@ -2963,14 +2987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394797,
-      "num": 394797,
-      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
-      "onboard_time": 1707289771,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394718,
       "num": 394718,
       "word": "SHE带孩子聚会",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1707204810,
       "rank": 30,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 388519,
-      "num": 388519,
-      "word": "赵露思吊带丝绸裙",
-      "onboard_time": 1707293131,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 388165,
@@ -3139,6 +3147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 370432,
+      "num": 252783,
+      "word": "河南一新娘陪嫁999万和法拉利",
+      "onboard_time": 1707291273,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370185,
       "num": 370185,
       "word": "谁让吴磊穿这样打球的",
@@ -3177,14 +3193,6 @@
       "onboard_time": 1707140911,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363639,
-      "num": 243063,
-      "word": "河南一新娘陪嫁999万和法拉利",
-      "onboard_time": 1707291273,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363386,
@@ -4299,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259097,
+      "num": 259097,
+      "word": "杨幂春晚最后一次联排",
+      "onboard_time": 1707294331,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258327,
       "num": 258327,
       "word": "张彬彬孙珍妮杀青照",
@@ -4483,6 +4499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249895,
+      "num": 249895,
+      "word": "央视拍的关晓彤",
+      "onboard_time": 1707294629,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247267,
       "num": 247267,
       "word": "南航就武汉机场大面积延误致歉",
@@ -4625,14 +4649,6 @@
       "onboard_time": 1707133771,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241283,
-      "num": 241283,
-      "word": "华晨宇坚持11年的生日仪式感",
-      "onboard_time": 1707293672,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 241200,
@@ -5883,6 +5899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203702,
+      "num": 203702,
+      "word": "道英将solo出道",
+      "onboard_time": 1707294088,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203546,
       "num": 203546,
       "word": "河南一公司给员工发1亿多年终奖",
@@ -6715,6 +6739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183498,
+      "num": 183498,
+      "word": "美人鱼 卷头发",
+      "onboard_time": 1707294031,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183176,
       "num": 183176,
       "word": "你听过龙的声音吗",
@@ -6971,6 +7003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175751,
+      "num": 175751,
+      "word": "e人的升级版是过年e人",
+      "onboard_time": 1707294211,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174952,
       "num": 174952,
       "word": "追星女入手VR眼镜的理由",
@@ -7001,6 +7041,14 @@
       "onboard_time": 1707135631,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174245,
+      "num": 174245,
+      "word": "鬼妈妈重映",
+      "onboard_time": 1707294272,
+      "rank": 36,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 174099,
@@ -8427,6 +8475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139718,
+      "num": 139718,
+      "word": "华晨宇人生手书",
+      "onboard_time": 1707294572,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139678,
       "num": 139678,
       "word": "磊麦",
@@ -8721,6 +8777,14 @@
       "onboard_time": 1707182730,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 132774,
+      "num": 132774,
+      "word": "不要把压岁钱交给他们",
+      "onboard_time": 1707294331,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 132668,
@@ -9859,12 +9923,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92283,
+      "num": 147063,
+      "word": "小孩姐帮奶奶拆出1888元大红包",
+      "onboard_time": 1707294391,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92222,
       "num": 62351,
       "word": "恭王府偶遇眉姐姐温太医",
       "onboard_time": 1706981902,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91465,
+      "num": 189769,
+      "word": "南极秦岭站的中国式浪漫",
+      "onboard_time": 1707294152,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89704,
@@ -10011,6 +10091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75954,
+      "num": 1024772,
+      "word": "春节氛围从回家开始",
+      "onboard_time": 1707273990,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75115,
       "num": 75115,
       "word": "王子浩 这就是街舞总决赛vlog",
@@ -10153,14 +10241,6 @@
       "onboard_time": 1706964932,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66332,
-      "num": 1024772,
-      "word": "春节氛围从回家开始",
-      "onboard_time": 1707273990,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66064,
