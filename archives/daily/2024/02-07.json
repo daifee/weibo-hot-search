@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707272508522,
+  "endTime": 1707273228592,
   "band_list": [
     {
       "raw_hot": 1940156,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634505,
+      "num": 634505,
+      "word": "梅西香港行主办方处理方式不如C罗深圳行",
+      "onboard_time": 1707269311,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632481,
       "num": 632481,
       "word": "国际米兰回应霍启刚",
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565575,
-      "num": 565575,
-      "word": "梅西香港行主办方处理方式不如C罗深圳行",
-      "onboard_time": 1707269311,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 556100,
+      "num": 556100,
+      "word": "香港警方正式通缉周庭",
+      "onboard_time": 1707270570,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534407,
@@ -171,12 +179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518128,
+      "num": 518128,
+      "word": "王者小龙糕",
+      "onboard_time": 1707272309,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 498294,
       "num": 498294,
       "word": "约旦vs韩国",
       "onboard_time": 1707233132,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488020,
+      "num": 488020,
+      "word": "中年裸辞后每天去咖啡馆假装上班",
+      "onboard_time": 1707271348,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482913,
@@ -195,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461124,
+      "num": 461124,
+      "word": "小Gina近照",
+      "onboard_time": 1707272129,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447559,
       "num": 447559,
       "word": "熊猫疼得想咬人一看是保育员忍住了",
@@ -203,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439174,
-      "num": 439174,
+      "raw_hot": 441179,
+      "num": 441179,
       "word": "两岁的女儿喜欢说脏话",
       "onboard_time": 1707269249,
       "rank": 40,
@@ -233,14 +265,6 @@
       "onboard_time": 1707231152,
       "rank": 12,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 433681,
-      "num": 433681,
-      "word": "香港警方正式通缉周庭",
-      "onboard_time": 1707270570,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412091,
@@ -331,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319928,
-      "num": 319928,
-      "word": "中年裸辞后每天去咖啡馆假装上班",
-      "onboard_time": 1707271348,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308583,
       "num": 308583,
       "word": "巨物恐惧症犯了",
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285829,
+      "num": 285829,
+      "word": "大司马",
+      "onboard_time": 1707271288,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283031,
       "num": 283031,
       "word": "智利前总统皮涅拉身亡",
@@ -387,12 +411,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 275267,
-      "num": 275267,
-      "word": "小Gina近照",
-      "onboard_time": 1707272129,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 282489,
+      "num": 282489,
+      "word": "宋亚轩檀健次张晚意版熊出没",
+      "onboard_time": 1707271711,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 271554,
+      "num": 271554,
+      "word": "C罗39岁生日全家福",
+      "onboard_time": 1707271112,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 262379,
@@ -403,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258503,
-      "num": 258503,
-      "word": "大司马",
-      "onboard_time": 1707271288,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238651,
       "num": 238651,
       "word": "要久久爱 要久久刀",
       "onboard_time": 1707269609,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235887,
+      "num": 235887,
+      "word": "谢娜王冰冰搭档主持",
+      "onboard_time": 1707272791,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 235802,
@@ -475,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208487,
-      "num": 208487,
-      "word": "宋亚轩檀健次张晚意版熊出没",
-      "onboard_time": 1707271711,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208146,
       "num": 208146,
       "word": "数百件取暖器急送安徽暴雪乡村",
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198543,
+      "num": 198543,
+      "word": "湖南江西暴雪冻雨齐发",
+      "onboard_time": 1707272612,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197905,
       "num": 197905,
       "word": "光与夜之恋",
@@ -537,6 +569,14 @@
       "onboard_time": 1707261019,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "NASA找到一颗新超级地球",
+      "onboard_time": 1707272670,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 192781,
@@ -603,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177566,
-      "num": 177566,
-      "word": "王者小龙糕",
-      "onboard_time": 1707272309,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 177047,
       "num": 177047,
       "word": "Twins关智斌合唱死性不改",
@@ -633,6 +665,14 @@
       "onboard_time": 1707242540,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168937,
+      "num": 168937,
+      "word": "高盛发布A股平准基金研报",
+      "onboard_time": 1707271949,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 164490,
@@ -659,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157214,
-      "num": 157214,
-      "word": "C罗39岁生日全家福",
-      "onboard_time": 1707271112,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 149509,
+      "num": 149509,
+      "word": "致敬大雪中最可爱的人",
+      "onboard_time": 1707272428,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 149175,
@@ -723,20 +763,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142775,
+      "num": 142775,
+      "word": "彩宝价格翻倍上涨",
+      "onboard_time": 1707272549,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 141619,
       "num": 141619,
       "word": "白敬亭北京小爷上身",
       "onboard_time": 1707232653,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141589,
-      "num": 141589,
-      "word": "高盛发布A股平准基金研报",
-      "onboard_time": 1707271949,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 140095,
@@ -763,20 +803,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127390,
+      "num": 127390,
+      "word": "热辣滚烫终极预告",
+      "onboard_time": 1707273150,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124485,
       "num": 118969,
       "word": "宋亚轩cos孙尚香动作",
       "onboard_time": 1707225273,
       "rank": 46,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 122822,
-      "num": 122822,
-      "word": "致敬大雪中最可爱的人",
-      "onboard_time": 1707272428,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 122009,
