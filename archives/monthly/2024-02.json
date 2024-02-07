@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707309930523,
+  "endTime": 1707311889156,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -25,6 +25,22 @@
       "onboard_time": 1707192210,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4754781,
+      "num": 4754781,
+      "word": "霍启刚再发长文",
+      "onboard_time": 1707309875,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4186306,
+      "num": 4186306,
+      "word": "霍启刚愤怒回应梅西道歉",
+      "onboard_time": 1707310294,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 4033714,
@@ -563,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1651558,
+      "num": 1651558,
+      "word": "苏醒",
+      "onboard_time": 1707309153,
+      "rank": 5,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1639551,
       "num": 1075496,
       "word": "郑爽绝密者服务费1.2亿",
@@ -873,6 +897,14 @@
       "onboard_time": 1706853213,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1306923,
+      "num": 1306923,
+      "word": "杨幂唐装",
+      "onboard_time": 1707308674,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1301722,
@@ -1307,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1086248,
-      "num": 1086248,
-      "word": "杨幂唐装",
-      "onboard_time": 1707308674,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1077455,
       "num": 1077455,
       "word": "车银优边抽烟边落泪",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1707202170,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1005161,
-      "num": 1005161,
-      "word": "苏醒",
-      "onboard_time": 1707309153,
-      "rank": 5,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1003912,
@@ -2259,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 792262,
-      "num": 792262,
-      "word": "霍启刚再发长文",
-      "onboard_time": 1707309875,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 790362,
       "num": 790362,
       "word": "梅西日本行",
@@ -2675,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714979,
+      "num": 714979,
+      "word": "日本场上座率",
+      "onboard_time": 1707308555,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 712255,
       "num": 712255,
       "word": "梅西赛后拒绝领奖发言",
@@ -2739,6 +2755,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 695706,
+      "num": 564576,
+      "word": "霍启刚重申梅西应给公众交代",
+      "onboard_time": 1707311795,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694916,
       "num": 694916,
       "word": "梅西6场季前赛仅缺席香港行比赛",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1706969436,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 691265,
-      "num": 691265,
-      "word": "日本场上座率",
-      "onboard_time": 1707308555,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 691004,
@@ -3505,6 +3521,14 @@
       "onboard_time": 1706926470,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 590235,
+      "num": 590235,
+      "word": "杨紫文笔",
+      "onboard_time": 1707308972,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 589432,
@@ -4411,14 +4435,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 494880,
-      "num": 494880,
-      "word": "杨紫文笔",
-      "onboard_time": 1707308972,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494267,
       "num": 425756,
       "word": "少爷和我定档",
@@ -4497,6 +4513,14 @@
       "onboard_time": 1707117452,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 488409,
+      "num": 488409,
+      "word": "梅西不会出席日本行赛后发布会",
+      "onboard_time": 1707310534,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 488295,
@@ -5411,6 +5435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 414206,
+      "num": 414206,
+      "word": "C罗",
+      "onboard_time": 1707311257,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413879,
       "num": 413879,
       "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
@@ -5945,6 +5977,22 @@
       "onboard_time": 1707272791,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377926,
+      "num": 377926,
+      "word": "梅西代言",
+      "onboard_time": 1707311378,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 377764,
+      "num": 377764,
+      "word": "梅西上场多次制造威胁",
+      "onboard_time": 1707310534,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 376474,
@@ -6545,6 +6593,14 @@
       "onboard_time": 1706830163,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 339243,
+      "num": 339243,
+      "word": "河南春晚没有主持人",
+      "onboard_time": 1707310835,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 335827,
@@ -8755,6 +8811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246418,
+      "num": 246418,
+      "word": "林亦扬殷果亲出声了",
+      "onboard_time": 1707309213,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246055,
       "num": 246055,
       "word": "要久久爱收官长文",
@@ -9899,6 +9963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220999,
+      "num": 214973,
+      "word": "河南春晚特效",
+      "onboard_time": 1707309634,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220948,
       "num": 220948,
       "word": "TWICE空降",
@@ -10073,6 +10145,14 @@
       "onboard_time": 1706753192,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 218336,
+      "num": 218336,
+      "word": "13岁女团成员小学毕业照",
+      "onboard_time": 1707310534,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 218259,
@@ -11475,6 +11555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199052,
+      "num": 199052,
+      "word": "犬夜叉 犬薇发糖",
+      "onboard_time": 1707310234,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198895,
       "num": 1074941,
       "word": "央视经典之夜",
@@ -11713,6 +11801,14 @@
       "onboard_time": 1706927789,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195621,
+      "num": 195621,
+      "word": "没及时回消息被学长挂到朋友圈",
+      "onboard_time": 1707309634,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 195365,
@@ -12425,14 +12521,6 @@
       "onboard_time": 1707218487,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188413,
-      "num": 188413,
-      "word": "河南春晚特效",
-      "onboard_time": 1707309634,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 188269,
@@ -13353,14 +13441,6 @@
       "onboard_time": 1706752472,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175764,
-      "num": 175764,
-      "word": "林亦扬殷果亲出声了",
-      "onboard_time": 1707309213,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 175751,
@@ -15491,14 +15571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147911,
-      "num": 147911,
-      "word": "没及时回消息被学长挂到朋友圈",
-      "onboard_time": 1707309634,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147839,
       "num": 147839,
       "word": "银川",
@@ -15545,6 +15617,14 @@
       "onboard_time": 1706950052,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147202,
+      "num": 147202,
+      "word": "吴昕回应吴昕工作",
+      "onboard_time": 1707310894,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147118,
@@ -15825,6 +15905,14 @@
       "onboard_time": 1707096750,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144467,
+      "num": 144467,
+      "word": "WBG对战TES",
+      "onboard_time": 1707311855,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 144355,
@@ -17947,6 +18035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "国家体操队春晚就在今晚",
+      "onboard_time": 1707311319,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119434,
       "num": 119434,
       "word": "18个年度护肤产品",
@@ -18345,6 +18441,14 @@
       "onboard_time": 1706941651,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113021,
+      "num": 119759,
+      "word": "教你三句话跳出自证陷阱",
+      "onboard_time": 1707311197,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112942,
@@ -20787,6 +20891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14698,
+      "num": 1361551,
+      "word": "文化中国团圆年",
+      "onboard_time": 1707311677,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14106,
       "num": 19305,
       "word": "雪地里来了猪咪画家",
@@ -20929,6 +21041,14 @@
       "onboard_time": 1707292290,
       "rank": 26,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 6110,
+      "num": 5720482,
+      "word": "过年前先打开这九个安全锦囊",
+      "onboard_time": 1707311855,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4833,
