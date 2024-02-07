@@ -1,7 +1,15 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707262449382,
+  "endTime": 1707268173896,
   "band_list": [
+    {
+      "raw_hot": 1940156,
+      "num": 1940156,
+      "word": "9岁小糯米近照",
+      "onboard_time": 1707263848,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1858237,
       "num": 463292,
@@ -35,6 +43,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 867567,
+      "num": 756808,
+      "word": "钟丽缇女儿考拉14岁近照",
+      "onboard_time": 1707263848,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 761830,
+      "num": 761830,
+      "word": "你的微信聊天记录值多少钱",
+      "onboard_time": 1707237566,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 756560,
+      "num": 756560,
+      "word": "美媒下场报道梅西之乱",
+      "onboard_time": 1707260662,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 715181,
       "num": 715181,
       "word": "Kpop艺人中国杂志总销量TOP15",
@@ -43,12 +75,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645113,
+      "raw_hot": 700967,
       "num": 645113,
       "word": "霍启刚直言梅西没有尊重球迷",
       "onboard_time": 1707240923,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 664140,
+      "num": 664140,
+      "word": "官方通报湖北交运集团总经理除雪期间休假",
+      "onboard_time": 1707264449,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654372,
+      "num": 654372,
+      "word": "男生为提高相亲成功率开始化妆",
+      "onboard_time": 1707265409,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 632481,
@@ -67,12 +115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 591304,
-      "num": 591304,
-      "word": "你的微信聊天记录值多少钱",
-      "onboard_time": 1707237566,
+      "raw_hot": 593180,
+      "num": 593180,
+      "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+      "onboard_time": 1707222753,
       "rank": 20,
-      "category": "互联网"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584743,
+      "num": 447546,
+      "word": "男子欠56万勤恳打工被债主免25万",
+      "onboard_time": 1707266249,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534407,
@@ -80,14 +136,6 @@
       "word": "香港前特首女儿怒斥梅西",
       "onboard_time": 1707207689,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 523621,
-      "num": 207395,
-      "word": "美媒下场报道梅西之乱",
-      "onboard_time": 1707260662,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -115,12 +163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458334,
-      "num": 458334,
-      "word": "县城彩礼从18.8万涨到3个9万9加房和车",
-      "onboard_time": 1707222753,
-      "rank": 20,
+      "raw_hot": 447559,
+      "num": 447559,
+      "word": "熊猫疼得想咬人一看是保育员忍住了",
+      "onboard_time": 1707232773,
+      "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436454,
+      "num": 212782,
+      "word": "做美甲为什么要把这个肉割掉",
+      "onboard_time": 1707260600,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 435324,
@@ -155,14 +211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358858,
-      "num": 358858,
-      "word": "熊猫疼得想咬人一看是保育员忍住了",
-      "onboard_time": 1707232773,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -195,6 +243,22 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 330517,
+      "num": 330517,
+      "word": "周也觉得林一太帅不好意思说话",
+      "onboard_time": 1707239904,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 320167,
+      "num": 320167,
+      "word": "孙兴慜赛后多次道歉",
+      "onboard_time": 1707265048,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305828,
       "num": 305828,
       "word": "梅西日本赛前训练",
@@ -211,12 +275,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 268618,
-      "num": 134686,
-      "word": "做美甲为什么要把这个肉割掉",
-      "onboard_time": 1707260600,
-      "rank": 20,
-      "category": "美妆"
+      "raw_hot": 283031,
+      "num": 283031,
+      "word": "智利前总统皮涅拉身亡",
+      "onboard_time": 1707262042,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 235802,
+      "num": 235802,
+      "word": "原来这就是浙江省的省饭啊",
+      "onboard_time": 1707254595,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 227625,
+      "num": 208356,
+      "word": "填事假理由被全公司嘲笑了",
+      "onboard_time": 1707261382,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 225323,
@@ -251,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211095,
-      "num": 211095,
-      "word": "周也觉得林一太帅不好意思说话",
-      "onboard_time": 1707239904,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207692,
       "num": 207692,
       "word": "梅西",
@@ -267,12 +339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203789,
+      "num": 203789,
+      "word": "哲学家李泽厚冷冻头颅遗嘱已执行",
+      "onboard_time": 1707266911,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199870,
       "num": 199870,
       "word": "专家呼吁女性适龄生育",
       "onboard_time": 1707212191,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197905,
+      "num": 197905,
+      "word": "光与夜之恋",
+      "onboard_time": 1707267688,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 197126,
@@ -291,12 +379,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192781,
+      "num": 192781,
+      "word": "吴磊眼神戏",
+      "onboard_time": 1707267629,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192581,
       "num": 192581,
       "word": "秦世纪",
       "onboard_time": 1707234092,
       "rank": 29,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 190759,
+      "num": 190759,
+      "word": "巨物恐惧症犯了",
+      "onboard_time": 1707266852,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186768,
+      "num": 186768,
+      "word": "过年为什么要炸东西吃",
+      "onboard_time": 1707261502,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 182909,
@@ -315,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178639,
+      "num": 178639,
+      "word": "新婚过年一定要在男方家吗",
+      "onboard_time": 1707261141,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177606,
       "num": 177606,
       "word": "奚梦瑶说22岁的金莎很漂亮",
@@ -329,14 +449,6 @@
       "onboard_time": 1707234931,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 174109,
-      "num": 174109,
-      "word": "原来这就是浙江省的省饭啊",
-      "onboard_time": 1707254595,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 164490,
@@ -363,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149383,
+      "num": 149383,
+      "word": "iPhone16相机模组",
+      "onboard_time": 1707267688,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146546,
       "num": 146546,
       "word": "王者荣耀时代少年团直播",
@@ -387,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "东北人的活儿是从小就培养的",
+      "onboard_time": 1707265770,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142632,
+      "num": 142632,
+      "word": "吴磊王星越有点暧昧了",
+      "onboard_time": 1707242540,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141619,
       "num": 141619,
       "word": "白敬亭北京小爷上身",
@@ -403,19 +539,19 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 138746,
-      "num": 138746,
-      "word": "智利前总统皮涅拉身亡",
-      "onboard_time": 1707262042,
-      "rank": 18,
-      "category": "国外时政"
+      "raw_hot": 134489,
+      "num": 134489,
+      "word": "胡锡进称梅西欠球迷一个正式道歉",
+      "onboard_time": 1707267511,
+      "rank": 35,
+      "category": "体育"
     },
     {
-      "raw_hot": 127122,
-      "num": 81537,
-      "word": "填事假理由被全公司嘲笑了",
-      "onboard_time": 1707261382,
-      "rank": 30,
+      "raw_hot": 131988,
+      "num": 131988,
+      "word": "找工作一定要胆子大",
+      "onboard_time": 1707261502,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -467,12 +603,76 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117046,
+      "num": 117046,
+      "word": "6宗报案指控梅西和迈阿密欺诈",
+      "onboard_time": 1707265409,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114829,
+      "num": 114829,
+      "word": "这大概就是过年回家的意义",
+      "onboard_time": 1707264328,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 113583,
+      "num": 113583,
+      "word": "中国女篮奥运资格赛实力榜第二",
+      "onboard_time": 1707264508,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109448,
+      "num": 109448,
+      "word": "中概股接力大涨",
+      "onboard_time": 1707265591,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107327,
       "num": 107327,
       "word": "山城江哥",
       "onboard_time": 1707236967,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106828,
+      "num": 106828,
+      "word": "杨迪 偷塔",
+      "onboard_time": 1707268111,
+      "rank": 46,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 105189,
+      "num": 105189,
+      "word": "世界之外维护",
+      "onboard_time": 1707266070,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 101562,
+      "num": 101562,
+      "word": "梅西未出场的主要责任在哪方",
+      "onboard_time": 1707268111,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101484,
+      "num": 101484,
+      "word": "理想汽车发4至8个月年终奖",
+      "onboard_time": 1707261262,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 101445,
@@ -499,14 +699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 97280,
-      "num": 97280,
-      "word": "新婚过年一定要在男方家吗",
-      "onboard_time": 1707261141,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 95808,
       "num": 95808,
       "word": "韩国亚洲杯出局",
@@ -515,28 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85095,
-      "num": 85095,
-      "word": "吴磊王星越有点暧昧了",
-      "onboard_time": 1707242540,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81965,
       "num": 81965,
       "word": "全红婵双冠王",
       "onboard_time": 1707260662,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80519,
-      "num": 80519,
-      "word": "理想汽车发4至8个月年终奖",
-      "onboard_time": 1707261262,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 74917,
@@ -563,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65285,
-      "num": 65285,
-      "word": "过年为什么要炸东西吃",
-      "onboard_time": 1707261502,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 63037,
       "num": 63037,
       "word": "范丞丞叫杨紫阿紫的心路历程",
@@ -588,19 +756,11 @@
     },
     {
       "raw_hot": 57407,
-      "num": 626375,
+      "num": 756858,
       "word": "我与家人合个影",
       "onboard_time": 1707223349,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56639,
-      "num": 56639,
-      "word": "找工作一定要胆子大",
-      "onboard_time": 1707261502,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 55088,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707262449382,
+  "endTime": 1707268173896,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1691,6 +1691,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1940156,
+      "num": 1940156,
+      "word": "9岁小糯米近照",
+      "onboard_time": 1707263848,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1940151,
       "num": 1940151,
       "word": "祖国统一台湾当归解放军始终以行动说话",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705053810,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1726559,
-      "num": 973930,
-      "word": "英国国王确诊患癌",
-      "onboard_time": 1707175283,
-      "rank": 8,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
