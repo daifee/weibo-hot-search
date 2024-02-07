@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707347832473,
+  "endTime": 1707348828916,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -665,6 +665,14 @@
       "onboard_time": 1706712333,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1551913,
+      "num": 1551913,
+      "word": "梅西合同",
+      "onboard_time": 1707347241,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1548781,
@@ -2539,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745063,
-      "num": 745063,
-      "word": "梅西合同",
-      "onboard_time": 1707347241,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 744701,
       "num": 744701,
       "word": "梅西希望有机会再去香港",
@@ -4315,6 +4315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515777,
+      "num": 515777,
+      "word": "朝鲜废除与韩国所有经济领域合作协议",
+      "onboard_time": 1707347600,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 515454,
       "num": 515454,
       "word": "每周休息两天半的公司现在怎么样了",
@@ -4849,6 +4857,14 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 467391,
+      "num": 467391,
+      "word": "梅西C罗上演爽约帽子戏法",
+      "onboard_time": 1707347060,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 467127,
@@ -5609,6 +5625,14 @@
       "onboard_time": 1707219090,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 405957,
+      "num": 405957,
+      "word": "00后小伙睡醒被亲戚围床边介绍对象",
+      "onboard_time": 1707333138,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405918,
@@ -6563,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349739,
+      "num": 349739,
+      "word": "北京明确不安排一线教师寒假值班",
+      "onboard_time": 1707339796,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 349704,
       "num": 349704,
       "word": "IU登顶2024韩国最富有女爱豆",
@@ -6657,14 +6689,6 @@
       "onboard_time": 1706862212,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342588,
-      "num": 342588,
-      "word": "北京明确不安排一线教师寒假值班",
-      "onboard_time": 1707339796,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 341773,
@@ -7785,14 +7809,6 @@
       "onboard_time": 1707102091,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284367,
-      "num": 284367,
-      "word": "00后小伙睡醒被亲戚围床边介绍对象",
-      "onboard_time": 1707333138,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284038,
@@ -10467,6 +10483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216570,
+      "num": 216570,
+      "word": "中国人偏爱龙年或迎生育小高峰",
+      "onboard_time": 1707339136,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216445,
       "num": 216445,
       "word": "中国同23国全面互免签证",
@@ -12963,14 +12987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186259,
-      "num": 186259,
-      "word": "中国人偏爱龙年或迎生育小高峰",
-      "onboard_time": 1707339136,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186209,
       "num": 168838,
       "word": "陈哲远和云天河说再见",
@@ -15107,6 +15123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158433,
+      "num": 158433,
+      "word": "春晚节目",
+      "onboard_time": 1707348322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158414,
       "num": 158414,
       "word": "景区回应男子爬乐山大佛头顶小便",
@@ -15257,14 +15281,6 @@
       "onboard_time": 1707215370,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 156013,
-      "num": 156013,
-      "word": "梅西C罗上演爽约帽子戏法",
-      "onboard_time": 1707347060,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 155727,
@@ -15897,6 +15913,14 @@
       "onboard_time": 1706929352,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147550,
+      "num": 147550,
+      "word": "龚俊 一个人演完春晚",
+      "onboard_time": 1707347060,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 147358,
@@ -16796,7 +16820,7 @@
     },
     {
       "raw_hot": 137661,
-      "num": 86534,
+      "num": 91315,
       "word": "这下所有女人都能通过了",
       "onboard_time": 1707326307,
       "rank": 34,
@@ -17425,6 +17449,14 @@
       "onboard_time": 1706743042,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131633,
+      "num": 131633,
+      "word": "iPhone16电池容量",
+      "onboard_time": 1707347901,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 131613,
@@ -19171,14 +19203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107692,
-      "num": 107692,
-      "word": "龚俊 一个人演完春晚",
-      "onboard_time": 1707347060,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107529,
       "num": 107529,
       "word": "王安宇港范儿",
@@ -19739,6 +19763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91081,
+      "num": 91081,
+      "word": "伊朗2比3卡塔尔",
+      "onboard_time": 1707348081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90260,
       "num": 109368,
       "word": "谷爱凌和奶奶过小年",
@@ -19753,6 +19785,14 @@
       "onboard_time": 1707151285,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88429,
+      "num": 88429,
+      "word": "香港特区政府要求合理解释",
+      "onboard_time": 1707347060,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 88190,
@@ -20043,6 +20083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75104,
+      "num": 75104,
+      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+      "onboard_time": 1707348624,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74917,
       "num": 74917,
       "word": "华晨宇花园小王子写真",
@@ -20081,6 +20129,14 @@
       "onboard_time": 1707207089,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72360,
+      "num": 72360,
+      "word": "张小斐反差",
+      "onboard_time": 1707346340,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 72242,
@@ -20291,6 +20347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58537,
+      "num": 58537,
+      "word": "龙年好运壁纸",
+      "onboard_time": 1707348562,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58419,
       "num": 274583,
       "word": "中国男网出征戴维斯杯",
@@ -20329,14 +20393,6 @@
       "onboard_time": 1707128188,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 56465,
-      "num": 56465,
-      "word": "朝鲜废除与韩国所有经济领域合作协议",
-      "onboard_time": 1707347600,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 55965,
@@ -20603,6 +20659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45716,
+      "num": 45716,
+      "word": "明天除夕",
+      "onboard_time": 1707348803,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44764,
       "num": 44764,
       "word": "雷军也玩cosplay",
@@ -20633,22 +20697,6 @@
       "onboard_time": 1706857713,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44158,
-      "num": 44158,
-      "word": "张小斐反差",
-      "onboard_time": 1707346340,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 44129,
-      "num": 44129,
-      "word": "香港特区政府要求合理解释",
-      "onboard_time": 1707347060,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 42274,

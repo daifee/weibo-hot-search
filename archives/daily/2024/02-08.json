@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707347832473,
+  "endTime": 1707348828916,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 2833222,
-      "num": 642165,
+      "num": 714796,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1551913,
+      "num": 1551913,
+      "word": "梅西合同",
+      "onboard_time": 1707347241,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -51,14 +59,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 745063,
-      "num": 745063,
-      "word": "梅西合同",
-      "onboard_time": 1707347241,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 634849,
       "num": 233651,
       "word": "36岁女儿将水倒进油锅妈妈淡定清理",
@@ -81,6 +81,14 @@
       "onboard_time": 1707309875,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515777,
+      "num": 515777,
+      "word": "朝鲜废除与韩国所有经济领域合作协议",
+      "onboard_time": 1707347600,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 514812,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467391,
+      "num": 467391,
+      "word": "梅西C罗上演爽约帽子戏法",
+      "onboard_time": 1707347060,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446832,
       "num": 296138,
       "word": "霍启刚重申梅西应给公众交代",
@@ -121,6 +137,14 @@
       "onboard_time": 1707313113,
       "rank": 7,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 405957,
+      "num": 405957,
+      "word": "00后小伙睡醒被亲戚围床边介绍对象",
+      "onboard_time": 1707333138,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399011,
@@ -147,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 342588,
-      "num": 342588,
+      "raw_hot": 349739,
+      "num": 349739,
       "word": "北京明确不安排一线教师寒假值班",
       "onboard_time": 1707339796,
       "rank": 30,
@@ -160,14 +184,6 @@
       "word": "宝贝这群叔叔阿姨拼了命想救你",
       "onboard_time": 1707318335,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284367,
-      "num": 284367,
-      "word": "00后小伙睡醒被亲戚围床边介绍对象",
-      "onboard_time": 1707333138,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -211,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216570,
+      "num": 216570,
+      "word": "中国人偏爱龙年或迎生育小高峰",
+      "onboard_time": 1707339136,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203433,
       "num": 203433,
       "word": "已经开始算哪天洗头了",
       "onboard_time": 1707308076,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186259,
-      "num": 186259,
-      "word": "中国人偏爱龙年或迎生育小高峰",
-      "onboard_time": 1707339136,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180621,
@@ -243,12 +259,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 156013,
-      "num": 156013,
-      "word": "梅西C罗上演爽约帽子戏法",
-      "onboard_time": 1707347060,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 158433,
+      "num": 158433,
+      "word": "春晚节目",
+      "onboard_time": 1707348322,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 154114,
@@ -283,8 +299,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147550,
+      "num": 147550,
+      "word": "龚俊 一个人演完春晚",
+      "onboard_time": 1707347060,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137661,
-      "num": 86534,
+      "num": 91315,
       "word": "这下所有女人都能通过了",
       "onboard_time": 1707326307,
       "rank": 34,
@@ -305,6 +329,14 @@
       "onboard_time": 1707310835,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131633,
+      "num": 131633,
+      "word": "iPhone16电池容量",
+      "onboard_time": 1707347901,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 130750,
@@ -337,14 +369,6 @@
       "onboard_time": 1707316417,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107692,
-      "num": 107692,
-      "word": "龚俊 一个人演完春晚",
-      "onboard_time": 1707347060,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 106027,
@@ -419,6 +443,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 91081,
+      "num": 91081,
+      "word": "伊朗2比3卡塔尔",
+      "onboard_time": 1707348081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88429,
+      "num": 88429,
+      "word": "香港特区政府要求合理解释",
+      "onboard_time": 1707347060,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86406,
       "num": 86406,
       "word": "在父母面前有美丽羞耻症",
@@ -475,6 +515,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75104,
+      "num": 75104,
+      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+      "onboard_time": 1707348624,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72360,
+      "num": 72360,
+      "word": "张小斐反差",
+      "onboard_time": 1707346340,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71707,
       "num": 71707,
       "word": "山东春晚 科目三",
@@ -507,36 +563,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56465,
-      "num": 56465,
-      "word": "朝鲜废除与韩国所有经济领域合作协议",
-      "onboard_time": 1707347600,
-      "rank": 32,
-      "category": "国外时政"
+      "raw_hot": 58537,
+      "num": 58537,
+      "word": "龙年好运壁纸",
+      "onboard_time": 1707348562,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 55618,
-      "num": 661702,
+      "num": 716071,
       "word": "过年前先打开这九个安全锦囊",
       "onboard_time": 1707311855,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44158,
-      "num": 44158,
-      "word": "张小斐反差",
-      "onboard_time": 1707346340,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 44129,
-      "num": 44129,
-      "word": "香港特区政府要求合理解释",
-      "onboard_time": 1707347060,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 45716,
+      "num": 45716,
+      "word": "明天除夕",
+      "onboard_time": 1707348803,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36615,
