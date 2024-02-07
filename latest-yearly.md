@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/07 14:21:22
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/07 14:33:54
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ iPhone15价格跌至史上最低（热度：1922878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%236.8%E4%BA%BF%E5%B7%A8%E5%A5%96%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%BA28%E5%B2%81%E5%B0%8F%E4%BC%99%23" target="weibo">
+6.8亿巨奖当事人为28岁小伙（热度：1837418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E9%87%8D100%E6%96%A4%E7%9A%84%E8%B4%BE%E7%8E%B2%E6%83%8A%E5%91%86%E6%BD%98%E6%96%8C%E9%BE%99%23" target="weibo">
 减重100斤的贾玲惊呆潘斌龙（热度：1835263）
 </a>
@@ -1805,12 +1811,6 @@ iPhone15价格跌至史上最低（热度：1922878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E8%B7%8C%E8%87%B330%25%23" target="weibo">
 我国电视开机率跌至30%（热度：1734440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-繁花大结局（热度：1733956）
 </a>
 </li>
 

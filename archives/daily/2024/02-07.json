@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707286882965,
+  "endTime": 1707287634307,
   "band_list": [
     {
       "raw_hot": 2365521,
@@ -35,19 +35,19 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1837418,
+      "num": 1837418,
+      "word": "6.8亿巨奖当事人为28岁小伙",
+      "onboard_time": 1707284073,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1832044,
       "num": 1832044,
       "word": "6.8亿彩票",
       "onboard_time": 1707276331,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1627400,
-      "num": 1627400,
-      "word": "6.8亿巨奖当事人为28岁小伙",
-      "onboard_time": 1707284073,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 882238,
+      "num": 882238,
+      "word": "花儿与少年 再见不再见",
+      "onboard_time": 1707283712,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 867567,
       "num": 756808,
       "word": "钟丽缇女儿考拉14岁近照",
@@ -161,14 +169,6 @@
       "onboard_time": 1707266249,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854228,
-      "num": 854228,
-      "word": "花儿与少年 再见不再见",
-      "onboard_time": 1707283712,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 850275,
@@ -227,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 718215,
+      "num": 718215,
+      "word": "春晚最后一次联排",
+      "onboard_time": 1707284970,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715181,
       "num": 715181,
       "word": "Kpop艺人中国杂志总销量TOP15",
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 689871,
-      "num": 689871,
-      "word": "春晚最后一次联排",
-      "onboard_time": 1707284970,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 676664,
       "num": 676664,
       "word": "大雪封路村民15元方便面被批评贵",
@@ -273,6 +273,14 @@
       "onboard_time": 1707277830,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 672085,
+      "num": 672085,
+      "word": "上海银行年终奖为零过节费还要倒扣",
+      "onboard_time": 1707284429,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 664140,
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541098,
-      "num": 541098,
-      "word": "上海银行年终奖为零过节费还要倒扣",
-      "onboard_time": 1707284429,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534407,
       "num": 534407,
       "word": "香港前特首女儿怒斥梅西",
@@ -395,12 +395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 508719,
+      "num": 508719,
+      "word": "梅西为何到了日本才回应缺席比赛",
+      "onboard_time": 1707285749,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498294,
       "num": 498294,
       "word": "约旦vs韩国",
       "onboard_time": 1707233132,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497922,
+      "num": 497922,
+      "word": "感觉小狼崽要碎了",
+      "onboard_time": 1707283891,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 482913,
@@ -433,6 +449,14 @@
       "onboard_time": 1707232773,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447267,
+      "num": 447267,
+      "word": "爆改张大大",
+      "onboard_time": 1707286770,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 436454,
@@ -531,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359309,
-      "num": 359309,
-      "word": "梅西为何到了日本才回应缺席比赛",
-      "onboard_time": 1707285749,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -595,12 +611,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 335727,
-      "num": 335727,
-      "word": "感觉小狼崽要碎了",
-      "onboard_time": 1707283891,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 339358,
+      "num": 339358,
+      "word": "物理教师反映每天一节体育课导致无法完成教学",
+      "onboard_time": 1707285932,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 330517,
@@ -617,6 +633,14 @@
       "onboard_time": 1707275430,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323705,
+      "num": 323705,
+      "word": "胡歌 上海团拜会",
+      "onboard_time": 1707285329,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 320167,
@@ -657,14 +681,6 @@
       "onboard_time": 1707218611,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 299969,
-      "num": 299969,
-      "word": "胡歌 上海团拜会",
-      "onboard_time": 1707285329,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 292508,
@@ -731,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 262854,
-      "num": 262854,
-      "word": "物理教师反映每天一节体育课导致无法完成教学",
-      "onboard_time": 1707285932,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 262379,
       "num": 262379,
       "word": "女子拍照后故意损毁雪人",
@@ -787,6 +795,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228862,
+      "num": 228862,
+      "word": "终于有人心疼尔滨本地人了",
+      "onboard_time": 1707286412,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227625,
       "num": 208356,
       "word": "填事假理由被全公司嘲笑了",
@@ -801,6 +817,14 @@
       "onboard_time": 1707278490,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226192,
+      "num": 226192,
+      "word": "被拐34年外卖小哥感念嫂子的一饭之恩",
+      "onboard_time": 1707286887,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 225323,
@@ -889,6 +913,14 @@
       "onboard_time": 1707285091,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206437,
+      "num": 206437,
+      "word": "李龙馥在老挝做义工",
+      "onboard_time": 1707287131,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 204374,
@@ -1171,14 +1203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166631,
-      "num": 166631,
-      "word": "终于有人心疼尔滨本地人了",
-      "onboard_time": 1707286412,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164490,
       "num": 164490,
       "word": "亚洲杯半决赛",
@@ -1211,20 +1235,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157934,
+      "num": 157934,
+      "word": "中国抗癌协会的logo有螃蟹",
+      "onboard_time": 1707286170,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157419,
       "num": 157419,
       "word": "全红婵陈芋汐世锦赛三连冠",
       "onboard_time": 1707261082,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156052,
-      "num": 156052,
-      "word": "中国抗癌协会的logo有螃蟹",
-      "onboard_time": 1707286170,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155539,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1707283352,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 149641,
+      "num": 149641,
+      "word": "东北搓澡科普教学",
+      "onboard_time": 1707287014,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 149509,
@@ -1347,6 +1379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 141743,
+      "num": 141743,
+      "word": "余承东祝央视新闻遥遥领先",
+      "onboard_time": 1707287429,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141619,
       "num": 141619,
       "word": "白敬亭北京小爷上身",
@@ -1435,20 +1475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131613,
+      "num": 131613,
+      "word": "董宇辉称越长大快乐成本越高",
+      "onboard_time": 1707286887,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130171,
       "num": 130171,
       "word": "养狗人在小区有专属的名字",
       "onboard_time": 1707281312,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128573,
-      "num": 128573,
-      "word": "爆改张大大",
-      "onboard_time": 1707286770,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 126509,

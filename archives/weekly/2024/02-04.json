@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707286882965,
+  "endTime": 1707287634307,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1837418,
+      "num": 1837418,
+      "word": "6.8亿巨奖当事人为28岁小伙",
+      "onboard_time": 1707284073,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1832044,
       "num": 1832044,
       "word": "6.8亿彩票",
@@ -249,14 +257,6 @@
       "onboard_time": 1707107493,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1627400,
-      "num": 1627400,
-      "word": "6.8亿巨奖当事人为28岁小伙",
-      "onboard_time": 1707284073,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1607146,
@@ -907,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 882238,
+      "num": 882238,
+      "word": "花儿与少年 再见不再见",
+      "onboard_time": 1707283712,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880629,
       "num": 488725,
       "word": "内裤要多久换洗一次",
@@ -993,14 +1001,6 @@
       "onboard_time": 1707266249,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854228,
-      "num": 854228,
-      "word": "花儿与少年 再见不再见",
-      "onboard_time": 1707283712,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 851390,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718215,
+      "num": 718215,
+      "word": "春晚最后一次联排",
+      "onboard_time": 1707284970,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715181,
       "num": 715181,
       "word": "Kpop艺人中国杂志总销量TOP15",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1707270570,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689871,
-      "num": 689871,
-      "word": "春晚最后一次联排",
-      "onboard_time": 1707284970,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 683997,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1707044312,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672085,
+      "num": 672085,
+      "word": "上海银行年终奖为零过节费还要倒扣",
+      "onboard_time": 1707284429,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 671258,
@@ -2043,14 +2051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 541098,
-      "num": 541098,
-      "word": "上海银行年终奖为零过节费还要倒扣",
-      "onboard_time": 1707284429,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540182,
       "num": 624483,
       "word": "近视眼手术的优缺点",
@@ -2171,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 508719,
+      "num": 508719,
+      "word": "梅西为何到了日本才回应缺席比赛",
+      "onboard_time": 1707285749,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508486,
       "num": 508486,
       "word": "肿瘤医生不碰的6种促癌食物",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1707233132,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497922,
+      "num": 497922,
+      "word": "感觉小狼崽要碎了",
+      "onboard_time": 1707283891,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 496751,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1707232773,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447267,
+      "num": 447267,
+      "word": "爆改张大大",
+      "onboard_time": 1707286770,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 446729,
@@ -3107,14 +3131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359309,
-      "num": 359309,
-      "word": "梅西为何到了日本才回应缺席比赛",
-      "onboard_time": 1707285749,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -3251,12 +3267,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 335727,
-      "num": 335727,
-      "word": "感觉小狼崽要碎了",
-      "onboard_time": 1707283891,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 339358,
+      "num": 339358,
+      "word": "物理教师反映每天一节体育课导致无法完成教学",
+      "onboard_time": 1707285932,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 332904,
@@ -3361,6 +3377,14 @@
       "onboard_time": 1707275430,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323705,
+      "num": 323705,
+      "word": "胡歌 上海团拜会",
+      "onboard_time": 1707285329,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 323313,
@@ -3577,14 +3601,6 @@
       "onboard_time": 1707225213,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299969,
-      "num": 299969,
-      "word": "胡歌 上海团拜会",
-      "onboard_time": 1707285329,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 298608,
@@ -4113,14 +4129,6 @@
       "onboard_time": 1707036330,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262854,
-      "num": 262854,
-      "word": "物理教师反映每天一节体育课导致无法完成教学",
-      "onboard_time": 1707285932,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 262379,
@@ -4795,6 +4803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228862,
+      "num": 228862,
+      "word": "终于有人心疼尔滨本地人了",
+      "onboard_time": 1707286412,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228600,
       "num": 208255,
       "word": "杨波澳门脱口秀换人",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1707022652,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 226192,
+      "num": 226192,
+      "word": "被拐34年外卖小哥感念嫂子的一饭之恩",
+      "onboard_time": 1707286887,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 226031,
@@ -5537,6 +5561,14 @@
       "onboard_time": 1707032610,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206437,
+      "num": 206437,
+      "word": "李龙馥在老挝做义工",
+      "onboard_time": 1707287131,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206400,
@@ -7051,14 +7083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166631,
-      "num": 166631,
-      "word": "终于有人心疼尔滨本地人了",
-      "onboard_time": 1707286412,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166525,
       "num": 166525,
       "word": "球队回应梅西未出席表演赛",
@@ -7403,6 +7427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157934,
+      "num": 157934,
+      "word": "中国抗癌协会的logo有螃蟹",
+      "onboard_time": 1707286170,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157855,
       "num": 157855,
       "word": "梅西缺战",
@@ -7457,14 +7489,6 @@
       "onboard_time": 1707215370,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 156052,
-      "num": 156052,
-      "word": "中国抗癌协会的logo有螃蟹",
-      "onboard_time": 1707286170,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155539,
@@ -7680,6 +7704,14 @@
       "word": "小狗 我的眼睛就是尺",
       "onboard_time": 1707140674,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149641,
+      "num": 149641,
+      "word": "东北搓澡科普教学",
+      "onboard_time": 1707287014,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -8057,6 +8089,14 @@
       "onboard_time": 1707107793,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141743,
+      "num": 141743,
+      "word": "余承东祝央视新闻遥遥领先",
+      "onboard_time": 1707287429,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 141524,
@@ -8515,6 +8555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131613,
+      "num": 131613,
+      "word": "董宇辉称越长大快乐成本越高",
+      "onboard_time": 1707286887,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131412,
       "num": 131412,
       "word": "姜文新片",
@@ -8617,14 +8665,6 @@
       "onboard_time": 1707111990,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 128573,
-      "num": 128573,
-      "word": "爆改张大大",
-      "onboard_time": 1707286770,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 128532,
