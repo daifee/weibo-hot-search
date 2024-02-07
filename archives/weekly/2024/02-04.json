@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707330838359,
+  "endTime": 1707333230864,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -11995,6 +11995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28418,
+      "num": 28418,
+      "word": "谁抢到了贾玲的电影红包",
+      "onboard_time": 1707330739,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27741,
       "num": 330293,
       "word": "为什么过年要拍全家福",
@@ -12057,14 +12065,6 @@
       "onboard_time": 1707122073,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 23989,
-      "num": 26313,
-      "word": "谁抢到了贾玲的电影红包",
-      "onboard_time": 1707330739,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 23970,
@@ -12169,6 +12169,14 @@
       "onboard_time": 1707248297,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17137,
+      "num": 19257,
+      "word": "格莱美经典时刻",
+      "onboard_time": 1707332239,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 16689,

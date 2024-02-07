@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707330838359,
+  "endTime": 1707333230864,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -483,12 +483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23989,
-      "num": 26313,
+      "raw_hot": 28418,
+      "num": 28418,
       "word": "谁抢到了贾玲的电影红包",
       "onboard_time": 1707330739,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17137,
+      "num": 19257,
+      "word": "格莱美经典时刻",
+      "onboard_time": 1707332239,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
