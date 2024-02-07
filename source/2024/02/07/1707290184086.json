@@ -1,0 +1,410 @@
+{
+  "runTime": 1707290184086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1742508,
+        "num": 1742508,
+        "word": "6.8亿巨奖当事人为28岁小伙",
+        "onboard_time": 1707284073,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222426,
+        "num": 1222426,
+        "word": "爆改张大大",
+        "onboard_time": 1707286770,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42428,
+        "num": 971561,
+        "word": "春节氛围从回家开始",
+        "onboard_time": 1707273990,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935882,
+        "num": 935882,
+        "word": "网红张美丽被逮捕",
+        "onboard_time": 1707279692,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 797572,
+        "num": 797572,
+        "word": "上海银行年终奖为零过节费还要倒扣",
+        "onboard_time": 1707284429,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626153,
+        "num": 626153,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 611656,
+        "num": 611656,
+        "word": "花儿与少年 再见不再见",
+        "onboard_time": 1707283712,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593241,
+        "num": 593241,
+        "word": "感觉小狼崽要碎了",
+        "onboard_time": 1707283891,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579973,
+        "num": 579973,
+        "word": "梅西为何到了日本才回应缺席比赛",
+        "onboard_time": 1707285749,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472670,
+        "num": 472670,
+        "word": "物理教师反映每天一节体育课导致无法完成教学",
+        "onboard_time": 1707285932,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 453840,
+        "num": 453840,
+        "word": "春晚最后一次联排",
+        "onboard_time": 1707284970,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431446,
+        "num": 431446,
+        "word": "终于有人心疼尔滨本地人了",
+        "onboard_time": 1707286412,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401889,
+        "num": 401889,
+        "word": "刘丹说小糯米每天上学前要挑衣配鞋",
+        "onboard_time": 1707278490,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393804,
+        "num": 393804,
+        "word": "迪丽热巴谈参加花少",
+        "onboard_time": 1707288274,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361830,
+        "num": 361830,
+        "word": "有一部分人开始断亲了",
+        "onboard_time": 1707274531,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315248,
+        "num": 315248,
+        "word": "迈阿密国际回应梅西缺阵",
+        "onboard_time": 1707282272,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302866,
+        "num": 302866,
+        "word": "大雪封路村民15元方便面被批评贵",
+        "onboard_time": 1707280051,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297979,
+        "num": 297979,
+        "word": "贾玲剪影",
+        "onboard_time": 1707274711,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258111,
+        "num": 258111,
+        "word": "男子宴席收到工作信息后醉酒捅死领导",
+        "onboard_time": 1707282930,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257342,
+        "num": 257342,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370512,
+        "num": 253052,
+        "word": "梅西日本",
+        "onboard_time": 1707278071,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235883,
+        "num": 235883,
+        "word": "金佳蓝高中毕业照",
+        "onboard_time": 1707289470,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253567,
+        "num": 230634,
+        "word": "热辣滚烫贾玲张小斐打戏",
+        "onboard_time": 1707281010,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224421,
+        "num": 224421,
+        "word": "第一次见男朋友家长",
+        "onboard_time": 1707289287,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211525,
+        "num": 211525,
+        "word": "胡歌 上海团拜会",
+        "onboard_time": 1707285329,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208620,
+        "num": 208620,
+        "word": "甲状腺结节发病率可以高达20%",
+        "onboard_time": 1707288569,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201674,
+        "num": 201674,
+        "word": "春晚第五次联排明星阵容",
+        "onboard_time": 1707288390,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200001,
+        "num": 200001,
+        "word": "被拐34年外卖小哥感念嫂子的一饭之恩",
+        "onboard_time": 1707286887,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 198660,
+        "num": 198660,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134680,
+        "num": 197109,
+        "word": "余承东祝央视新闻遥遥领先",
+        "onboard_time": 1707287429,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279563,
+        "num": 196996,
+        "word": "日本第一男公关晒与梅西合影",
+        "onboard_time": 1707275071,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196423,
+        "num": 196423,
+        "word": "LPL选手龙的传人",
+        "onboard_time": 1707289287,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195993,
+        "num": 195993,
+        "word": "川航一航班备降广州机场",
+        "onboard_time": 1707289649,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182833,
+        "num": 182833,
+        "word": "一诺空降粉丝群",
+        "onboard_time": 1707289948,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178996,
+        "num": 178996,
+        "word": "秦岚是懂端水的",
+        "onboard_time": 1707289350,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161720,
+        "num": 161720,
+        "word": "和陪伴23年的姐妹一起领证了",
+        "onboard_time": 1707289287,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161266,
+        "num": 161266,
+        "word": "NONO性侵案重启调查",
+        "onboard_time": 1707289111,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155837,
+        "num": 155837,
+        "word": "女子学瑜伽时被老师压断腿",
+        "onboard_time": 1707289771,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151867,
+        "num": 151867,
+        "word": "贝克汉姆社交账号评论区被球迷刷屏",
+        "onboard_time": 1707277773,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 150082,
+        "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+        "onboard_time": 1707289771,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148376,
+        "num": 148376,
+        "word": "在暴雪时分 恋爱脑要长出来了",
+        "onboard_time": 1707289887,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141134,
+        "num": 141134,
+        "word": "李龙馥在老挝做义工",
+        "onboard_time": 1707287131,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140469,
+        "num": 140469,
+        "word": "A股逾百股涨停",
+        "onboard_time": 1707278792,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132516,
+        "num": 132516,
+        "word": "娜扎丞磊吻戏",
+        "onboard_time": 1707279092,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130469,
+        "num": 130469,
+        "word": "董宇辉称越长大快乐成本越高",
+        "onboard_time": 1707286887,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129769,
+        "num": 129769,
+        "word": "这自建房是奔着招商建的吧",
+        "onboard_time": 1707289350,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126679,
+        "num": 126679,
+        "word": "世界之外",
+        "onboard_time": 1707290132,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126529,
+        "num": 126529,
+        "word": "大S女儿",
+        "onboard_time": 1707269428,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126173,
+        "num": 126173,
+        "word": "网友调侃邓紫棋上场时间比梅西多",
+        "onboard_time": 1707290070,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 9687,
+        "num": 123291,
+        "word": "某某某新作品来了",
+        "onboard_time": 1707288931,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#心始终连在一起#"
+    }
+  }
+}
