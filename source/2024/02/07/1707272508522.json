@@ -1,0 +1,410 @@
+{
+  "runTime": 1707272508522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560542,
+        "num": 1560542,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 795387,
+        "num": 795387,
+        "word": "男子欠56万勤恳打工被债主免25万",
+        "onboard_time": 1707266249,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42015,
+        "num": 633340,
+        "word": "我与家人合个影",
+        "onboard_time": 1707223349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946251,
+        "num": 628545,
+        "word": "大S女儿",
+        "onboard_time": 1707269428,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606264,
+        "num": 606264,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578946,
+        "num": 578946,
+        "word": "杨迪 偷塔",
+        "onboard_time": 1707268111,
+        "rank": 5,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 572050,
+        "num": 572050,
+        "word": "谷歌工程师杀妻案嫌犯家人已回国",
+        "onboard_time": 1707270027,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565575,
+        "num": 565575,
+        "word": "梅西香港行主办方处理方式不如C罗深圳行",
+        "onboard_time": 1707269311,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562554,
+        "num": 562554,
+        "word": "你的微信聊天记录值多少钱",
+        "onboard_time": 1707237566,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 532847,
+        "num": 532847,
+        "word": "钟丽缇女儿考拉14岁近照",
+        "onboard_time": 1707263848,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470261,
+        "num": 470261,
+        "word": "美媒下场报道梅西之乱",
+        "onboard_time": 1707260662,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439174,
+        "num": 439174,
+        "word": "两岁的女儿喜欢说脏话",
+        "onboard_time": 1707269249,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433681,
+        "num": 433681,
+        "word": "香港警方正式通缉周庭",
+        "onboard_time": 1707270570,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400904,
+        "num": 400904,
+        "word": "赵震 香港主办方是罪魁祸首",
+        "onboard_time": 1707270209,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394827,
+        "num": 394827,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392505,
+        "num": 392505,
+        "word": "裴珠泫与SM续约",
+        "onboard_time": 1707270748,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361941,
+        "num": 361941,
+        "word": "男生为提高相亲成功率开始化妆",
+        "onboard_time": 1707265409,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337137,
+        "num": 337137,
+        "word": "iPhone16相机模组",
+        "onboard_time": 1707267688,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319928,
+        "num": 319928,
+        "word": "中年裸辞后每天去咖啡馆假装上班",
+        "onboard_time": 1707271348,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291484,
+        "num": 291484,
+        "word": "车厘子吃多了身体会怎么样",
+        "onboard_time": 1707227189,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 363081,
+        "num": 290942,
+        "word": "做美甲为什么要把这个肉割掉",
+        "onboard_time": 1707260600,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 275267,
+        "num": 275267,
+        "word": "小Gina近照",
+        "onboard_time": 1707272129,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262379,
+        "num": 262379,
+        "word": "女子拍照后故意损毁雪人",
+        "onboard_time": 1707268710,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258503,
+        "num": 258503,
+        "word": "大司马",
+        "onboard_time": 1707271288,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242643,
+        "num": 242643,
+        "word": "官方通报湖北交运集团总经理除雪期间休假",
+        "onboard_time": 1707264449,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238651,
+        "num": 238651,
+        "word": "要久久爱 要久久刀",
+        "onboard_time": 1707269609,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212343,
+        "num": 212343,
+        "word": "巨物恐惧症犯了",
+        "onboard_time": 1707266852,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210646,
+        "num": 210646,
+        "word": "县城彩礼从18.8万涨到3个9万9加房和车",
+        "onboard_time": 1707222753,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208487,
+        "num": 208487,
+        "word": "宋亚轩檀健次张晚意版熊出没",
+        "onboard_time": 1707271711,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205984,
+        "num": 205984,
+        "word": "周也觉得林一太帅不好意思说话",
+        "onboard_time": 1707239904,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199110,
+        "num": 199110,
+        "word": "熊猫疼得想咬人一看是保育员忍住了",
+        "onboard_time": 1707232773,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177566,
+        "num": 177566,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177105,
+        "num": 177105,
+        "word": "胡锡进称梅西欠球迷一个正式道歉",
+        "onboard_time": 1707267511,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174864,
+        "num": 174864,
+        "word": "闫学晶 东北女王",
+        "onboard_time": 1707268710,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174717,
+        "num": 174717,
+        "word": "狗子看到电动车充电起火1秒出击",
+        "onboard_time": 1707270868,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171865,
+        "num": 171865,
+        "word": "阴阳师 应声虫",
+        "onboard_time": 1707269069,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159830,
+        "num": 159830,
+        "word": "吴磊王星越有点暧昧了",
+        "onboard_time": 1707242540,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157214,
+        "num": 157214,
+        "word": "C罗39岁生日全家福",
+        "onboard_time": 1707271112,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149175,
+        "num": 149175,
+        "word": "20只基金一日涨超9%",
+        "onboard_time": 1707270813,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149138,
+        "num": 149138,
+        "word": "诛仙1央六收视破3登顶",
+        "onboard_time": 1707229354,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148465,
+        "num": 148465,
+        "word": "过年为什么要炸东西吃",
+        "onboard_time": 1707261502,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145381,
+        "num": 145381,
+        "word": "填事假理由被全公司嘲笑了",
+        "onboard_time": 1707261382,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141589,
+        "num": 141589,
+        "word": "高盛发布A股平准基金研报",
+        "onboard_time": 1707271949,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140787,
+        "num": 140787,
+        "word": "小黑粉",
+        "onboard_time": 1707232052,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 132394,
+        "num": 132394,
+        "word": "原来不是所有的年夜饭都是晚上吃",
+        "onboard_time": 1707270510,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127607,
+        "num": 127607,
+        "word": "请和我的老公结婚第12集",
+        "onboard_time": 1707229893,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122822,
+        "num": 122822,
+        "word": "致敬大雪中最可爱的人",
+        "onboard_time": 1707272428,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 120678,
+        "num": 120678,
+        "word": "女子因一句话坚持传承家乡戏18年",
+        "onboard_time": 1707271348,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116692,
+        "num": 116692,
+        "word": "以为是害羞没想到是在等节奏",
+        "onboard_time": 1707269790,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114565,
+        "num": 114565,
+        "word": "孙兴慜赛后多次道歉",
+        "onboard_time": 1707265048,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#论深入学习贯彻习近平文化思想#"
+    }
+  }
+}

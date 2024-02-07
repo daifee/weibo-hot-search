@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707271292885,
+  "endTime": 1707272508522,
   "band_list": [
     {
       "raw_hot": 1940156,
@@ -139,16 +139,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565017,
-      "num": 565017,
+      "raw_hot": 578946,
+      "num": 578946,
       "word": "杨迪 偷塔",
       "onboard_time": 1707268111,
       "rank": 46,
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 552165,
-      "num": 451013,
+      "raw_hot": 572050,
+      "num": 572050,
+      "word": "谷歌工程师杀妻案嫌犯家人已回国",
+      "onboard_time": 1707270027,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565575,
+      "num": 565575,
       "word": "梅西香港行主办方处理方式不如C罗深圳行",
       "onboard_time": 1707269311,
       "rank": 37,
@@ -195,8 +203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439174,
+      "num": 439174,
+      "word": "两岁的女儿喜欢说脏话",
+      "onboard_time": 1707269249,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 436454,
-      "num": 281701,
+      "num": 290942,
       "word": "做美甲为什么要把这个肉割掉",
       "onboard_time": 1707260600,
       "rank": 20,
@@ -219,11 +235,11 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 415247,
-      "num": 415247,
-      "word": "谷歌工程师杀妻案嫌犯家人已回国",
-      "onboard_time": 1707270027,
-      "rank": 11,
+      "raw_hot": 433681,
+      "num": 433681,
+      "word": "香港警方正式通缉周庭",
+      "onboard_time": 1707270570,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -235,12 +251,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 395864,
-      "num": 179166,
-      "word": "两岁的女儿喜欢说脏话",
-      "onboard_time": 1707269249,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 400904,
+      "num": 400904,
+      "word": "赵震 香港主办方是罪魁祸首",
+      "onboard_time": 1707270209,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 392505,
+      "num": 392505,
+      "word": "裴珠泫与SM续约",
+      "onboard_time": 1707270748,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 363386,
@@ -299,20 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322786,
-      "num": 322786,
-      "word": "裴珠泫与SM续约",
-      "onboard_time": 1707270748,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
       "onboard_time": 1707265048,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319928,
+      "num": 319928,
+      "word": "中年裸辞后每天去咖啡馆假装上班",
+      "onboard_time": 1707271348,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308583,
@@ -355,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285017,
-      "num": 285017,
-      "word": "香港警方正式通缉周庭",
-      "onboard_time": 1707270570,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283031,
       "num": 283031,
       "word": "智利前总统皮涅拉身亡",
@@ -371,16 +387,32 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 254964,
-      "num": 254964,
-      "word": "赵震 香港主办方是罪魁祸首",
-      "onboard_time": 1707270209,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 275267,
+      "num": 275267,
+      "word": "小Gina近照",
+      "onboard_time": 1707272129,
+      "rank": 21,
+      "category": "艺人"
     },
     {
-      "raw_hot": 237309,
-      "num": 237309,
+      "raw_hot": 262379,
+      "num": 262379,
+      "word": "女子拍照后故意损毁雪人",
+      "onboard_time": 1707268710,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258503,
+      "num": 258503,
+      "word": "大司马",
+      "onboard_time": 1707271288,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 238651,
+      "num": 238651,
       "word": "要久久爱 要久久刀",
       "onboard_time": 1707269609,
       "rank": 26,
@@ -419,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220852,
-      "num": 220852,
-      "word": "女子拍照后故意损毁雪人",
-      "onboard_time": 1707268710,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219950,
       "num": 219950,
       "word": "春楠拍赵丽颖",
@@ -449,6 +473,14 @@
       "onboard_time": 1707234509,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208487,
+      "num": 208487,
+      "word": "宋亚轩檀健次张晚意版熊出没",
+      "onboard_time": 1707271711,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 208146,
@@ -571,12 +603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177566,
+      "num": 177566,
+      "word": "王者小龙糕",
+      "onboard_time": 1707272309,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177047,
       "num": 177047,
       "word": "Twins关智斌合唱死性不改",
       "onboard_time": 1707234931,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174717,
+      "num": 174717,
+      "word": "狗子看到电动车充电起火1秒出击",
+      "onboard_time": 1707270868,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171936,
@@ -609,6 +657,22 @@
       "onboard_time": 1707261082,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157214,
+      "num": 157214,
+      "word": "C罗39岁生日全家福",
+      "onboard_time": 1707271112,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149175,
+      "num": 149175,
+      "word": "20只基金一日涨超9%",
+      "onboard_time": 1707270813,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 146546,
@@ -667,12 +731,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141589,
+      "num": 141589,
+      "word": "高盛发布A股平准基金研报",
+      "onboard_time": 1707271949,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140095,
       "num": 140095,
       "word": "宋亚轩MVP",
       "onboard_time": 1707229955,
       "rank": 40,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 132394,
+      "num": 132394,
+      "word": "原来不是所有的年夜饭都是晚上吃",
+      "onboard_time": 1707270510,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 131988,
@@ -683,20 +763,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128114,
-      "num": 128114,
-      "word": "原来不是所有的年夜饭都是晚上吃",
-      "onboard_time": 1707270510,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 124485,
       "num": 118969,
       "word": "宋亚轩cos孙尚香动作",
       "onboard_time": 1707225273,
       "rank": 46,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 122822,
+      "num": 122822,
+      "word": "致敬大雪中最可爱的人",
+      "onboard_time": 1707272428,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 122009,
@@ -721,6 +801,14 @@
       "onboard_time": 1707228933,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120678,
+      "num": 120678,
+      "word": "女子因一句话坚持传承家乡戏18年",
+      "onboard_time": 1707271348,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120636,
@@ -755,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116311,
-      "num": 116311,
-      "word": "C罗39岁生日全家福",
-      "onboard_time": 1707271112,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114829,
       "num": 114829,
       "word": "这大概就是过年回家的意义",
@@ -787,28 +867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111797,
-      "num": 111797,
-      "word": "狗子看到电动车充电起火1秒出击",
-      "onboard_time": 1707270868,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110801,
       "num": 110801,
       "word": "时代少年团全员发博了",
       "onboard_time": 1707269010,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110293,
-      "num": 110293,
-      "word": "20只基金一日涨超9%",
-      "onboard_time": 1707270813,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 109448,

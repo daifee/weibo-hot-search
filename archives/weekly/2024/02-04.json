@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707271292885,
+  "endTime": 1707272508522,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -1675,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578946,
+      "num": 578946,
+      "word": "杨迪 偷塔",
+      "onboard_time": 1707268111,
+      "rank": 46,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 578797,
       "num": 578797,
       "word": "四川山洪致6死46失联127人被问责",
@@ -1704,6 +1712,14 @@
       "word": "男子网购3J车厘子卡尺测量后很受伤",
       "onboard_time": 1707100769,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572050,
+      "num": 572050,
+      "word": "谷歌工程师杀妻案嫌犯家人已回国",
+      "onboard_time": 1707270027,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1739,12 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565017,
-      "num": 565017,
-      "word": "杨迪 偷塔",
-      "onboard_time": 1707268111,
-      "rank": 46,
-      "category": "艺人,游戏"
+      "raw_hot": 565575,
+      "num": 565575,
+      "word": "梅西香港行主办方处理方式不如C罗深圳行",
+      "onboard_time": 1707269311,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 564442,
@@ -1833,14 +1849,6 @@
       "onboard_time": 1707092130,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 552165,
-      "num": 451013,
-      "word": "梅西香港行主办方处理方式不如C罗深圳行",
-      "onboard_time": 1707269311,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 544595,
@@ -2307,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439174,
+      "num": 439174,
+      "word": "两岁的女儿喜欢说脏话",
+      "onboard_time": 1707269249,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 438819,
       "num": 438819,
       "word": "小沈阳沈春阳",
@@ -2332,11 +2348,19 @@
     },
     {
       "raw_hot": 436454,
-      "num": 281701,
+      "num": 290942,
       "word": "做美甲为什么要把这个肉割掉",
       "onboard_time": 1707260600,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 433681,
+      "num": 433681,
+      "word": "香港警方正式通缉周庭",
+      "onboard_time": 1707270570,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433311,
@@ -2475,14 +2499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 415247,
-      "num": 415247,
-      "word": "谷歌工程师杀妻案嫌犯家人已回国",
-      "onboard_time": 1707270027,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415014,
       "num": 415014,
       "word": "官方通报体彩店员撕毁中奖彩票",
@@ -2563,6 +2579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400904,
+      "num": 400904,
+      "word": "赵震 香港主办方是罪魁祸首",
+      "onboard_time": 1707270209,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400489,
       "num": 400489,
       "word": "Xiaohu偷家RNG",
@@ -2603,14 +2627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395864,
-      "num": 179166,
-      "word": "两岁的女儿喜欢说脏话",
-      "onboard_time": 1707269249,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 394718,
       "num": 394718,
       "word": "SHE带孩子聚会",
@@ -2625,6 +2641,14 @@
       "onboard_time": 1707005789,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392505,
+      "num": 392505,
+      "word": "裴珠泫与SM续约",
+      "onboard_time": 1707270748,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 390763,
@@ -3051,14 +3075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322786,
-      "num": 322786,
-      "word": "裴珠泫与SM续约",
-      "onboard_time": 1707270748,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322428,
       "num": 322428,
       "word": "华中农大15名研究生已落实新导师",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1707030329,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319928,
+      "num": 319928,
+      "word": "中年裸辞后每天去咖啡馆假装上班",
+      "onboard_time": 1707271348,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319843,
@@ -3403,14 +3427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285017,
-      "num": 285017,
-      "word": "香港警方正式通缉周庭",
-      "onboard_time": 1707270570,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284901,
       "num": 284901,
       "word": "邱瑞拉黑攻击杨波的粉丝",
@@ -3587,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275267,
+      "num": 275267,
+      "word": "小Gina近照",
+      "onboard_time": 1707272129,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275082,
       "num": 275082,
       "word": "爸妈吐槽大学生要提前吃光全家年货",
@@ -3755,6 +3779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262379,
+      "num": 262379,
+      "word": "女子拍照后故意损毁雪人",
+      "onboard_time": 1707268710,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261926,
       "num": 261926,
       "word": "拔鱼刺挂口腔科是错误的",
@@ -3793,6 +3825,14 @@
       "onboard_time": 1707023611,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258503,
+      "num": 258503,
+      "word": "大司马",
+      "onboard_time": 1707271288,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 258327,
@@ -3873,14 +3913,6 @@
       "onboard_time": 1707138932,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 254964,
-      "num": 254964,
-      "word": "赵震 香港主办方是罪魁祸首",
-      "onboard_time": 1707270209,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 254590,
@@ -4195,6 +4227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238651,
+      "num": 238651,
+      "word": "要久久爱 要久久刀",
+      "onboard_time": 1707269609,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238487,
       "num": 165045,
       "word": "京东一线客服平均涨薪超30%",
@@ -4217,14 +4257,6 @@
       "onboard_time": 1707194013,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237309,
-      "num": 237309,
-      "word": "要久久爱 要久久刀",
-      "onboard_time": 1707269609,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 237272,
@@ -4601,14 +4633,6 @@
       "onboard_time": 1707017192,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220852,
-      "num": 220852,
-      "word": "女子拍照后故意损毁雪人",
-      "onboard_time": 1707268710,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220781,
@@ -5017,6 +5041,14 @@
       "onboard_time": 1707143311,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208487,
+      "num": 208487,
+      "word": "宋亚轩檀健次张晚意版熊出没",
+      "onboard_time": 1707271711,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 208418,
@@ -6131,6 +6163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177566,
+      "num": 177566,
+      "word": "王者小龙糕",
+      "onboard_time": 1707272309,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "大鹏发文纪念赵英俊去世三周年",
@@ -6201,6 +6241,14 @@
       "onboard_time": 1707142292,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174717,
+      "num": 174717,
+      "word": "狗子看到电动车充电起火1秒出击",
+      "onboard_time": 1707270868,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174525,
@@ -6827,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157214,
+      "num": 157214,
+      "word": "C罗39岁生日全家福",
+      "onboard_time": 1707271112,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156919,
       "num": 156919,
       "word": "古人会迎春而不是躲春",
@@ -7065,6 +7121,14 @@
       "onboard_time": 1707042991,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149175,
+      "num": 149175,
+      "word": "20只基金一日涨超9%",
+      "onboard_time": 1707270813,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 149051,
@@ -7377,6 +7441,14 @@
       "onboard_time": 1707107793,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141589,
+      "num": 141589,
+      "word": "高盛发布A股平准基金研报",
+      "onboard_time": 1707271949,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 141113,
@@ -7731,6 +7803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132394,
+      "num": 132394,
+      "word": "原来不是所有的年夜饭都是晚上吃",
+      "onboard_time": 1707270510,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132347,
       "num": 132347,
       "word": "药明康德回购10亿元公司股份",
@@ -7889,14 +7969,6 @@
       "onboard_time": 1707051152,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128114,
-      "num": 128114,
-      "word": "原来不是所有的年夜饭都是晚上吃",
-      "onboard_time": 1707270510,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 128078,
@@ -8083,6 +8155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122822,
+      "num": 122822,
+      "word": "致敬大雪中最可爱的人",
+      "onboard_time": 1707272428,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "刘海很可爱的秘密",
@@ -8153,6 +8233,14 @@
       "onboard_time": 1706973095,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120678,
+      "num": 120678,
+      "word": "女子因一句话坚持传承家乡戏18年",
+      "onboard_time": 1707271348,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120636,
@@ -8307,14 +8395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116311,
-      "num": 116311,
-      "word": "C罗39岁生日全家福",
-      "onboard_time": 1707271112,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116122,
       "num": 116122,
       "word": "魏大勋重逢唱出青春的荣耀",
@@ -8427,14 +8507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111797,
-      "num": 111797,
-      "word": "狗子看到电动车充电起火1秒出击",
-      "onboard_time": 1707270868,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111655,
       "num": 221086,
       "word": "不容易的除冰人",
@@ -8481,14 +8553,6 @@
       "onboard_time": 1707005308,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110293,
-      "num": 110293,
-      "word": "20只基金一日涨超9%",
-      "onboard_time": 1707270813,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 110280,
