@@ -1,7 +1,15 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707301108690,
+  "endTime": 1707302040005,
   "band_list": [
+    {
+      "raw_hot": 9129125,
+      "num": 9129125,
+      "word": "梅西发博回应",
+      "onboard_time": 1707300511,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 7173131,
       "num": 7981415,
@@ -9,14 +17,6 @@
       "onboard_time": 1707192210,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5611704,
-      "num": 5611704,
-      "word": "梅西发博回应",
-      "onboard_time": 1707300511,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4033714,
@@ -4843,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441907,
+      "num": 356143,
+      "word": "管泽元锐评梅西事件",
+      "onboard_time": 1707300692,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441789,
       "num": 441789,
       "word": "妹妹转自己的助学贷款给我",
@@ -7843,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270326,
+      "num": 270326,
+      "word": "没有老字号你还在吃400元一斤日本味精",
+      "onboard_time": 1707301112,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 270303,
       "num": 270303,
       "word": "港府称对梅西没出场比赛极度失望",
@@ -9299,14 +9315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226504,
-      "num": 222026,
-      "word": "管泽元锐评梅西事件",
-      "onboard_time": 1707300692,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226192,
       "num": 226192,
       "word": "被拐34年外卖小哥感念嫂子的一饭之恩",
@@ -9537,6 +9545,14 @@
       "onboard_time": 1707031291,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223068,
+      "num": 223068,
+      "word": "独居最被低估的好处",
+      "onboard_time": 1707299970,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 222566,
@@ -10211,6 +10227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210606,
+      "num": 210606,
+      "word": "刘诗诗流苏大衣",
+      "onboard_time": 1707301112,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210425,
       "num": 210425,
       "word": "委屈你了英子",
@@ -10345,6 +10369,14 @@
       "onboard_time": 1707203311,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208410,
+      "num": 208410,
+      "word": "神户胜利船vs迈阿密国际",
+      "onboard_time": 1707302012,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 208346,
@@ -11323,14 +11355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196923,
-      "num": 196923,
-      "word": "独居最被低估的好处",
-      "onboard_time": 1707299970,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196728,
       "num": 145265,
       "word": "朱志鑫 发财发福中国年",
@@ -11433,6 +11457,14 @@
       "onboard_time": 1706927789,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195670,
+      "num": 195670,
+      "word": "梅西腹股沟有伤",
+      "onboard_time": 1707301952,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195365,
@@ -11649,6 +11681,14 @@
       "onboard_time": 1707133652,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193041,
+      "num": 175263,
+      "word": "最小众的洗澡方式",
+      "onboard_time": 1707300271,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 192996,
@@ -12329,6 +12369,14 @@
       "onboard_time": 1706793272,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185688,
+      "num": 185688,
+      "word": "lofter私信",
+      "onboard_time": 1707301354,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 185614,
@@ -13611,12 +13659,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168268,
+      "num": 168268,
+      "word": "LanaDelRey分享持枪自拍",
+      "onboard_time": 1707301592,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168211,
       "num": 168211,
       "word": "药明康德快速跌停",
       "onboard_time": 1706853153,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168123,
+      "num": 168123,
+      "word": "老外画的这些中国龙绝了",
+      "onboard_time": 1707300930,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167885,
@@ -14419,6 +14483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156995,
+      "num": 156995,
+      "word": "炸猪排店的临时停业通知",
+      "onboard_time": 1707301292,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156919,
       "num": 156919,
       "word": "古人会迎春而不是躲春",
@@ -15003,14 +15075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148643,
-      "num": 148643,
-      "word": "老外画的这些中国龙绝了",
-      "onboard_time": 1707300930,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148642,
       "num": 148642,
       "word": "张译 这多少有点冒昧了",
@@ -15033,6 +15097,14 @@
       "onboard_time": 1707226533,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148308,
+      "num": 148308,
+      "word": "给盲人的烟花",
+      "onboard_time": 1707302012,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 148157,
@@ -16809,14 +16881,6 @@
       "onboard_time": 1706953829,
       "rank": 6,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 128610,
-      "num": 128610,
-      "word": "最小众的洗澡方式",
-      "onboard_time": 1707300271,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 128537,
@@ -18811,6 +18875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87093,
+      "num": 1204657,
+      "word": "直击2024春运",
+      "onboard_time": 1707296312,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86495,
       "num": 110654,
       "word": "春节云上吃喝玩乐指南",
@@ -18929,14 +19001,6 @@
       "onboard_time": 1706823976,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80120,
-      "num": 1204657,
-      "word": "直击2024春运",
-      "onboard_time": 1707296312,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79325,
@@ -20129,6 +20193,14 @@
       "onboard_time": 1707217409,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20611,
+      "num": 140147,
+      "word": "王嘉尔空降派红包",
+      "onboard_time": 1707301170,
+      "rank": 49,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 20535,
