@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707268173896,
+  "endTime": 1707269361557,
   "band_list": [
     {
       "raw_hot": 1940156,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 782221,
+      "num": 782221,
+      "word": "男子欠56万勤恳打工被债主免25万",
+      "onboard_time": 1707266249,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761830,
       "num": 761830,
       "word": "你的微信聊天记录值多少钱",
@@ -67,6 +75,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 744456,
+      "num": 744456,
+      "word": "霍启刚直言梅西没有尊重球迷",
+      "onboard_time": 1707240923,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 734142,
+      "num": 734142,
+      "word": "男生为提高相亲成功率开始化妆",
+      "onboard_time": 1707265409,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 715181,
       "num": 715181,
       "word": "Kpop艺人中国杂志总销量TOP15",
@@ -75,28 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 700967,
-      "num": 645113,
-      "word": "霍启刚直言梅西没有尊重球迷",
-      "onboard_time": 1707240923,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 664140,
       "num": 664140,
       "word": "官方通报湖北交运集团总经理除雪期间休假",
       "onboard_time": 1707264449,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654372,
-      "num": 654372,
-      "word": "男生为提高相亲成功率开始化妆",
-      "onboard_time": 1707265409,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 632481,
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584743,
-      "num": 447546,
-      "word": "男子欠56万勤恳打工被债主免25万",
-      "onboard_time": 1707266249,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 535998,
+      "num": 535998,
+      "word": "杨迪 偷塔",
+      "onboard_time": 1707268111,
+      "rank": 46,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 534407,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 436454,
-      "num": 212782,
+      "num": 224104,
       "word": "做美甲为什么要把这个肉割掉",
       "onboard_time": 1707260600,
       "rank": 20,
@@ -259,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308583,
+      "num": 308583,
+      "word": "巨物恐惧症犯了",
+      "onboard_time": 1707266852,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305828,
       "num": 305828,
       "word": "梅西日本赛前训练",
@@ -275,12 +291,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290595,
+      "num": 290595,
+      "word": "胡锡进称梅西欠球迷一个正式道歉",
+      "onboard_time": 1707267511,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283031,
       "num": 283031,
       "word": "智利前总统皮涅拉身亡",
       "onboard_time": 1707262042,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 258635,
+      "num": 258635,
+      "word": "iPhone16相机模组",
+      "onboard_time": 1707267688,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 235802,
@@ -323,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214820,
+      "num": 214820,
+      "word": "哲学家李泽厚冷冻头颅遗嘱已执行",
+      "onboard_time": 1707266911,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211589,
       "num": 211589,
       "word": "白敬亭宋家腾又上一辆⻋了",
@@ -339,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203789,
-      "num": 203789,
-      "word": "哲学家李泽厚冷冻头颅遗嘱已执行",
-      "onboard_time": 1707266911,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 199987,
+      "num": 199987,
+      "word": "过年为什么要炸东西吃",
+      "onboard_time": 1707261502,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 199870,
@@ -395,20 +435,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 190759,
-      "num": 190759,
-      "word": "巨物恐惧症犯了",
-      "onboard_time": 1707266852,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 184884,
+      "num": 184884,
+      "word": "梅西未出场的主要责任在哪方",
+      "onboard_time": 1707268111,
+      "rank": 48,
+      "category": "体育"
     },
     {
-      "raw_hot": 186768,
-      "num": 186768,
-      "word": "过年为什么要炸东西吃",
-      "onboard_time": 1707261502,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 183450,
+      "num": 183450,
+      "word": "阴阳师 应声虫",
+      "onboard_time": 1707269069,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 182909,
@@ -459,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162245,
+      "num": 162245,
+      "word": "闫学晶 东北女王",
+      "onboard_time": 1707268710,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158529,
       "num": 158529,
       "word": "迪丽热巴花少主题曲镜头",
@@ -475,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149383,
-      "num": 149383,
-      "word": "iPhone16相机模组",
-      "onboard_time": 1707267688,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 146546,
       "num": 146546,
       "word": "王者荣耀时代少年团直播",
@@ -497,6 +537,14 @@
       "onboard_time": 1707224010,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145075,
+      "num": 145075,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1707268290,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 145022,
@@ -539,12 +587,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 134489,
-      "num": 134489,
-      "word": "胡锡进称梅西欠球迷一个正式道歉",
-      "onboard_time": 1707267511,
-      "rank": 35,
+      "raw_hot": 137372,
+      "num": 137372,
+      "word": "梅西香港行主办方处理方式不如C罗深圳行",
+      "onboard_time": 1707269311,
+      "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137124,
+      "num": 137124,
+      "word": "女子拍照后故意损毁雪人",
+      "onboard_time": 1707268710,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131988,
@@ -552,6 +608,14 @@
       "word": "找工作一定要胆子大",
       "onboard_time": 1707261502,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129924,
+      "num": 129924,
+      "word": "两岁的女儿喜欢说脏话",
+      "onboard_time": 1707269249,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -611,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117010,
+      "num": 117010,
+      "word": "范丞丞叫杨紫阿紫的心路历程",
+      "onboard_time": 1707254836,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114829,
       "num": 114829,
       "word": "这大概就是过年回家的意义",
@@ -627,6 +699,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112942,
+      "num": 112942,
+      "word": "世界之外维护",
+      "onboard_time": 1707266070,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110801,
+      "num": 110801,
+      "word": "时代少年团全员发博了",
+      "onboard_time": 1707269010,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109448,
       "num": 109448,
       "word": "中概股接力大涨",
@@ -641,30 +729,6 @@
       "onboard_time": 1707236967,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 106828,
-      "num": 106828,
-      "word": "杨迪 偷塔",
-      "onboard_time": 1707268111,
-      "rank": 46,
-      "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 105189,
-      "num": 105189,
-      "word": "世界之外维护",
-      "onboard_time": 1707266070,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 101562,
-      "num": 101562,
-      "word": "梅西未出场的主要责任在哪方",
-      "onboard_time": 1707268111,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 101484,
@@ -737,14 +801,6 @@
       "onboard_time": 1707212133,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63037,
-      "num": 63037,
-      "word": "范丞丞叫杨紫阿紫的心路历程",
-      "onboard_time": 1707254836,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 59354,
