@@ -1,0 +1,410 @@
+{
+  "runTime": 1707275932763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1311885,
+        "num": 1311885,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1263824,
+        "num": 1263824,
+        "word": "贾玲剪影",
+        "onboard_time": 1707274711,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133452,
+        "num": 1120314,
+        "word": "春联文化知识点",
+        "onboard_time": 1707275249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103827,
+        "num": 1103827,
+        "word": "吴昕工作",
+        "onboard_time": 1707273449,
+        "rank": 3,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 850275,
+        "num": 850275,
+        "word": "我国成功从美国追索1件被盗文物",
+        "onboard_time": 1707273990,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 769202,
+        "num": 769202,
+        "word": "梅西香港行主办方处理方式不如C罗深圳行",
+        "onboard_time": 1707269311,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690823,
+        "num": 690823,
+        "word": "香港警方正式通缉周庭",
+        "onboard_time": 1707270570,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551821,
+        "num": 551821,
+        "word": "贵州开出双色球6.8亿巨奖创纪录",
+        "onboard_time": 1707273931,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623838,
+        "num": 551322,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548516,
+        "num": 548516,
+        "word": "中年裸辞后每天去咖啡馆假装上班",
+        "onboard_time": 1707271348,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525465,
+        "num": 525465,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 515321,
+        "num": 515321,
+        "word": "两岁的女儿喜欢说脏话",
+        "onboard_time": 1707269249,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501850,
+        "num": 501850,
+        "word": "日本第一男公关晒与梅西合影",
+        "onboard_time": 1707275071,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488149,
+        "num": 488149,
+        "word": "大S女儿",
+        "onboard_time": 1707269428,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479223,
+        "num": 479223,
+        "word": "小Gina近照",
+        "onboard_time": 1707272129,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467385,
+        "num": 467385,
+        "word": "有一部分人开始断亲了",
+        "onboard_time": 1707274531,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411496,
+        "num": 411496,
+        "word": "美媒下场报道梅西之乱",
+        "onboard_time": 1707260662,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409640,
+        "num": 409640,
+        "word": "你的微信聊天记录值多少钱",
+        "onboard_time": 1707237566,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389944,
+        "num": 389944,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377992,
+        "num": 377992,
+        "word": "谢娜王冰冰搭档主持",
+        "onboard_time": 1707272791,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346908,
+        "num": 346908,
+        "word": "3款手机同时买机票差价3倍",
+        "onboard_time": 1707273692,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 323778,
+        "num": 323778,
+        "word": "朴灿烈将出演网飞新剧",
+        "onboard_time": 1707275430,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313072,
+        "num": 313072,
+        "word": "谷歌工程师杀妻案嫌犯家人已回国",
+        "onboard_time": 1707270027,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310070,
+        "num": 310070,
+        "word": "钟丽缇女儿考拉14岁近照",
+        "onboard_time": 1707263848,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297923,
+        "num": 297923,
+        "word": "男子欠56万勤恳打工被债主免25万",
+        "onboard_time": 1707266249,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278171,
+        "num": 278171,
+        "word": "赵震 香港主办方是罪魁祸首",
+        "onboard_time": 1707270209,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269450,
+        "num": 269450,
+        "word": "做美甲为什么要把这个肉割掉",
+        "onboard_time": 1707260600,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 255299,
+        "num": 255299,
+        "word": "湖南江西暴雪冻雨齐发",
+        "onboard_time": 1707272612,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250349,
+        "num": 250349,
+        "word": "裴珠泫与SM续约",
+        "onboard_time": 1707270748,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237774,
+        "num": 237774,
+        "word": "杨迪 偷塔",
+        "onboard_time": 1707268111,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 232715,
+        "num": 232715,
+        "word": "大司马",
+        "onboard_time": 1707271288,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221552,
+        "num": 221552,
+        "word": "宋亚轩檀健次张晚意版熊出没",
+        "onboard_time": 1707271711,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221132,
+        "num": 221132,
+        "word": "弟弟这一筷子过于帅了",
+        "onboard_time": 1707275129,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220637,
+        "num": 220637,
+        "word": "热辣滚烫终极预告",
+        "onboard_time": 1707273150,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213529,
+        "num": 213529,
+        "word": "星穹铁道黑天鹅",
+        "onboard_time": 1707275789,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195743,
+        "num": 195743,
+        "word": "迪丽热巴起诉科技公司侵权",
+        "onboard_time": 1707273692,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189110,
+        "num": 189110,
+        "word": "热辣滚烫 想为自己活一次",
+        "onboard_time": 1707274890,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183332,
+        "num": 183332,
+        "word": "车厘子吃多了身体会怎么样",
+        "onboard_time": 1707227189,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179376,
+        "num": 179376,
+        "word": "00后春节回村三件套",
+        "onboard_time": 1707273392,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 163375,
+        "word": "NASA找到一颗新超级地球",
+        "onboard_time": 1707272670,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 151278,
+        "word": "女子拍照后故意损毁雪人",
+        "onboard_time": 1707268710,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141524,
+        "num": 141524,
+        "word": "明星的游戏ID",
+        "onboard_time": 1707275610,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 133978,
+        "num": 133978,
+        "word": "小黑粉",
+        "onboard_time": 1707232052,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 133194,
+        "num": 133194,
+        "word": "男生为提高相亲成功率开始化妆",
+        "onboard_time": 1707265409,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132181,
+        "num": 132181,
+        "word": "iPhone16相机模组",
+        "onboard_time": 1707267688,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125357,
+        "num": 125357,
+        "word": "我国第5座南极科考站开站",
+        "onboard_time": 1707274410,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119544,
+        "num": 119544,
+        "word": "C罗39岁生日全家福",
+        "onboard_time": 1707271112,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118611,
+        "num": 118611,
+        "word": "高盛发布A股平准基金研报",
+        "onboard_time": 1707271949,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115075,
+        "num": 115075,
+        "word": "要久久爱 要久久刀",
+        "onboard_time": 1707269609,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108703,
+        "num": 108703,
+        "word": "国足世界排名高于约旦",
+        "onboard_time": 1707275852,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春到我家心里倍儿温暖#"
+    }
+  }
+}

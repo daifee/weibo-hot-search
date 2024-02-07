@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707273228592,
+  "endTime": 1707275932763,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1263824,
+      "num": 1263824,
+      "word": "贾玲剪影",
+      "onboard_time": 1707274711,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1251899,
       "num": 1251899,
       "word": "刘亦菲刘宇宁或将合作",
@@ -537,6 +545,14 @@
       "onboard_time": 1706976868,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103827,
+      "num": 1103827,
+      "word": "吴昕工作",
+      "onboard_time": 1707273449,
+      "rank": 3,
+      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 1098797,
@@ -907,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 850275,
+      "num": 850275,
+      "word": "我国成功从美国追索1件被盗文物",
+      "onboard_time": 1707273990,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 846767,
       "num": 846767,
       "word": "警方通报奔驰加塞事件疑涉套牌",
@@ -1107,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 769202,
+      "num": 769202,
+      "word": "梅西香港行主办方处理方式不如C罗深圳行",
+      "onboard_time": 1707269311,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 762702,
       "num": 762702,
       "word": "杨紫遭换角色反被说不知好歹",
@@ -1304,6 +1336,14 @@
       "word": "花花喜提六号别墅",
       "onboard_time": 1707213030,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690823,
+      "num": 690823,
+      "word": "香港警方正式通缉周庭",
+      "onboard_time": 1707270570,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1537,14 +1577,6 @@
       "onboard_time": 1707056434,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634505,
-      "num": 634505,
-      "word": "梅西香港行主办方处理方式不如C罗深圳行",
-      "onboard_time": 1707269311,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 632716,
@@ -1803,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 556100,
-      "num": 556100,
-      "word": "香港警方正式通缉周庭",
-      "onboard_time": 1707270570,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555407,
       "num": 638027,
       "word": "香港特区政府再回应梅西缺赛",
@@ -1856,6 +1880,22 @@
       "word": "春运买短乘长可能被请下车",
       "onboard_time": 1707092130,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551821,
+      "num": 551821,
+      "word": "贵州开出双色球6.8亿巨奖创纪录",
+      "onboard_time": 1707273931,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548516,
+      "num": 548516,
+      "word": "中年裸辞后每天去咖啡馆假装上班",
+      "onboard_time": 1707271348,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1963,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 525465,
+      "num": 525465,
+      "word": "王者小龙糕",
+      "onboard_time": 1707272309,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 525461,
       "num": 525461,
       "word": "柳叶刀破解中国肺炎支原体流行之谜",
@@ -1939,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 518128,
-      "num": 518128,
-      "word": "王者小龙糕",
-      "onboard_time": 1707272309,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 515986,
       "num": 506070,
       "word": "肾不好嘴唇和眼圈会发黑",
@@ -1961,6 +2001,14 @@
       "onboard_time": 1707033873,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 515321,
+      "num": 515321,
+      "word": "两岁的女儿喜欢说脏话",
+      "onboard_time": 1707269249,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 508486,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1707022355,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501850,
+      "num": 501850,
+      "word": "日本第一男公关晒与梅西合影",
+      "onboard_time": 1707275071,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 501646,
@@ -2099,14 +2155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 488020,
-      "num": 488020,
-      "word": "中年裸辞后每天去咖啡馆假装上班",
-      "onboard_time": 1707271348,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485515,
       "num": 485515,
       "word": "香港特区政府回应梅西缺战",
@@ -2153,6 +2201,14 @@
       "onboard_time": 1707123273,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479223,
+      "num": 479223,
+      "word": "小Gina近照",
+      "onboard_time": 1707272129,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 478909,
@@ -2203,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467385,
+      "num": 467385,
+      "word": "有一部分人开始断亲了",
+      "onboard_time": 1707274531,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -2217,14 +2281,6 @@
       "onboard_time": 1707182190,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 461124,
-      "num": 461124,
-      "word": "小Gina近照",
-      "onboard_time": 1707272129,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 460183,
@@ -2337,14 +2393,6 @@
       "onboard_time": 1707196830,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441179,
-      "num": 441179,
-      "word": "两岁的女儿喜欢说脏话",
-      "onboard_time": 1707269249,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 440508,
@@ -2739,6 +2787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 377992,
+      "num": 377992,
+      "word": "谢娜王冰冰搭档主持",
+      "onboard_time": 1707272791,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374587,
       "num": 374587,
       "word": "证监会一日内连发三文",
@@ -2955,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346908,
+      "num": 346908,
+      "word": "3款手机同时买机票差价3倍",
+      "onboard_time": 1707273692,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 346654,
       "num": 346654,
       "word": "iPhone16相机模组",
@@ -3089,6 +3153,14 @@
       "onboard_time": 1707216331,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323778,
+      "num": 323778,
+      "word": "朴灿烈将出演网飞新剧",
+      "onboard_time": 1707275430,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 323313,
@@ -3931,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255299,
+      "num": 255299,
+      "word": "湖南江西暴雪冻雨齐发",
+      "onboard_time": 1707272612,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255025,
       "num": 255025,
       "word": "腐乳在海外爆火",
@@ -4331,14 +4411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235887,
-      "num": 235887,
-      "word": "谢娜王冰冰搭档主持",
-      "onboard_time": 1707272791,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "梅西人形广告牌被踢掉脑袋",
@@ -4667,12 +4739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221132,
+      "num": 221132,
+      "word": "弟弟这一筷子过于帅了",
+      "onboard_time": 1707275129,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220781,
       "num": 220781,
       "word": "大唐狄公案",
       "onboard_time": 1707222628,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220637,
+      "num": 220637,
+      "word": "热辣滚烫终极预告",
+      "onboard_time": 1707273150,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 220514,
@@ -4905,6 +4993,14 @@
       "onboard_time": 1707102513,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213529,
+      "num": 213529,
+      "word": "星穹铁道黑天鹅",
+      "onboard_time": 1707112052,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 213225,
@@ -5491,14 +5587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198543,
-      "num": 198543,
-      "word": "湖南江西暴雪冻雨齐发",
-      "onboard_time": 1707272612,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198538,
       "num": 198538,
       "word": "马立奥祝你发财",
@@ -5593,6 +5681,14 @@
       "onboard_time": 1707044250,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195743,
+      "num": 195743,
+      "word": "迪丽热巴起诉科技公司侵权",
+      "onboard_time": 1707273692,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195713,
@@ -5875,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189110,
+      "num": 189110,
+      "word": "热辣滚烫 想为自己活一次",
+      "onboard_time": 1707274890,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188842,
       "num": 188842,
       "word": "禁养的烈性犬伤人犬主承担全责",
@@ -6136,6 +6240,14 @@
       "word": "烤火时把头靠在主人腿上的狗狗",
       "onboard_time": 1707138932,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179376,
+      "num": 179376,
+      "word": "00后春节回村三件套",
+      "onboard_time": 1707273392,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -6875,14 +6987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158057,
-      "num": 158057,
-      "word": "星穹铁道黑天鹅",
-      "onboard_time": 1707112052,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158043,
       "num": 158043,
       "word": "星穹铁道2.0cos",
@@ -7491,6 +7595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141524,
+      "num": 141524,
+      "word": "明星的游戏ID",
+      "onboard_time": 1707275610,
+      "rank": 41,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 141113,
       "num": 141113,
       "word": "平替年货穿戴甲",
@@ -7795,6 +7907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133452,
+      "num": 1120314,
+      "word": "春联文化知识点",
+      "onboard_time": 1707275249,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133284,
       "num": 133284,
       "word": "每周步行90分钟可显著降低死亡率",
@@ -8051,14 +8171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127390,
-      "num": 127390,
-      "word": "热辣滚烫终极预告",
-      "onboard_time": 1707273150,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127085,
       "num": 296779,
       "word": "杨紫最炫蛋仔年",
@@ -8129,6 +8241,14 @@
       "onboard_time": 1707141395,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 125357,
+      "num": 125357,
+      "word": "我国第5座南极科考站开站",
+      "onboard_time": 1707274410,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125101,
@@ -8657,6 +8777,14 @@
       "onboard_time": 1707004105,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108703,
+      "num": 108703,
+      "word": "国足世界排名高于约旦",
+      "onboard_time": 1707275852,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107734,
