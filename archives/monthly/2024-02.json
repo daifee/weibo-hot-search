@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707319011485,
+  "endTime": 1707320114144,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -4323,6 +4323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 510916,
+      "num": 510916,
+      "word": "河南卫视配享太庙",
+      "onboard_time": 1707318633,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509722,
       "num": 509722,
       "word": "暴雪时分 留学生",
@@ -6396,7 +6404,7 @@
     },
     {
       "raw_hot": 357236,
-      "num": 268212,
+      "num": 285610,
       "word": "郭艾伦韩德君聊天记录",
       "onboard_time": 1707317857,
       "rank": 18,
@@ -6641,6 +6649,14 @@
       "onboard_time": 1707278792,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 341143,
+      "num": 287581,
+      "word": "意大利国家级电视台将直播央视龙年春晚",
+      "onboard_time": 1707319657,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 339482,
@@ -8043,6 +8059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274178,
+      "num": 274178,
+      "word": "36岁女儿将水倒进油锅妈妈淡定清理",
+      "onboard_time": 1707319355,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273738,
       "num": 273738,
       "word": "邓为侧颜生图",
@@ -8553,6 +8577,14 @@
       "onboard_time": 1707298411,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257745,
+      "num": 257745,
+      "word": "宝贝这群叔叔阿姨拼了命想救你",
+      "onboard_time": 1707318335,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257206,
@@ -9561,14 +9593,6 @@
       "onboard_time": 1707313896,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 231894,
-      "num": 227624,
-      "word": "河南卫视配享太庙",
-      "onboard_time": 1707318633,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 231128,
@@ -12865,14 +12889,6 @@
       "onboard_time": 1706759790,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 186581,
-      "num": 186581,
-      "word": "宝贝这群叔叔阿姨拼了命想救你",
-      "onboard_time": 1707318335,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186514,
@@ -17977,6 +17993,14 @@
       "onboard_time": 1706929048,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124377,
+      "num": 124377,
+      "word": "王星越骗小孩喊爸爸",
+      "onboard_time": 1707319953,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 124372,
