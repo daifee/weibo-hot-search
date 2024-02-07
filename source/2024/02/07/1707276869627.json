@@ -1,0 +1,410 @@
+{
+  "runTime": 1707276869627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607146,
+        "num": 1607146,
+        "word": "贾玲剪影",
+        "onboard_time": 1707274711,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1201627,
+        "num": 1201627,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115775,
+        "num": 1051014,
+        "word": "春联文化知识点",
+        "onboard_time": 1707275249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537925,
+        "num": 1009020,
+        "word": "日本第一男公关晒与梅西合影",
+        "onboard_time": 1707275071,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 901995,
+        "num": 901995,
+        "word": "吴昕工作",
+        "onboard_time": 1707273449,
+        "rank": 4,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 827051,
+        "num": 827051,
+        "word": "我国成功从美国追索1件被盗文物",
+        "onboard_time": 1707273990,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 797768,
+        "num": 797768,
+        "word": "有一部分人开始断亲了",
+        "onboard_time": 1707274531,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 650859,
+        "num": 650859,
+        "word": "梅西香港行主办方处理方式不如C罗深圳行",
+        "onboard_time": 1707269311,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538590,
+        "num": 538590,
+        "word": "香港警方正式通缉周庭",
+        "onboard_time": 1707270570,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522784,
+        "num": 522784,
+        "word": "贵州开出双色球6.8亿巨奖创纪录",
+        "onboard_time": 1707273931,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 553247,
+        "num": 518276,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499358,
+        "num": 499358,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 444476,
+        "num": 444476,
+        "word": "中年裸辞后每天去咖啡馆假装上班",
+        "onboard_time": 1707271348,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444586,
+        "num": 426487,
+        "word": "美媒下场报道梅西之乱",
+        "onboard_time": 1707260662,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403131,
+        "num": 403131,
+        "word": "小Gina近照",
+        "onboard_time": 1707272129,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397235,
+        "num": 397235,
+        "word": "两岁的女儿喜欢说脏话",
+        "onboard_time": 1707269249,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383179,
+        "num": 383179,
+        "word": "大S女儿",
+        "onboard_time": 1707269428,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368909,
+        "num": 368909,
+        "word": "弟弟这一筷子过于帅了",
+        "onboard_time": 1707275129,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365343,
+        "num": 365343,
+        "word": "你的微信聊天记录值多少钱",
+        "onboard_time": 1707237566,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 360340,
+        "num": 360340,
+        "word": "6.8亿彩票",
+        "onboard_time": 1707276331,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505552,
+        "num": 359157,
+        "word": "新女婿拜丈人送300元茅台平替",
+        "onboard_time": 1707276031,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350228,
+        "num": 350228,
+        "word": "霍启刚发长文",
+        "onboard_time": 1707208649,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322495,
+        "num": 322495,
+        "word": "谢娜王冰冰搭档主持",
+        "onboard_time": 1707272791,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301457,
+        "num": 301457,
+        "word": "朴灿烈将出演网飞新剧",
+        "onboard_time": 1707275430,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282936,
+        "num": 282936,
+        "word": "3款手机同时买机票差价3倍",
+        "onboard_time": 1707273692,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 279324,
+        "num": 279324,
+        "word": "钟丽缇女儿考拉14岁近照",
+        "onboard_time": 1707263848,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232826,
+        "num": 232826,
+        "word": "赵震 香港主办方是罪魁祸首",
+        "onboard_time": 1707270209,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214223,
+        "num": 214223,
+        "word": "裴珠泫与SM续约",
+        "onboard_time": 1707270748,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211721,
+        "num": 211721,
+        "word": "男子欠56万勤恳打工被债主免25万",
+        "onboard_time": 1707266249,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209579,
+        "num": 209579,
+        "word": "宋亚轩檀健次张晚意版熊出没",
+        "onboard_time": 1707271711,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207315,
+        "num": 207315,
+        "word": "谷歌工程师杀妻案嫌犯家人已回国",
+        "onboard_time": 1707270027,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206963,
+        "num": 206963,
+        "word": "星穹铁道黑天鹅",
+        "onboard_time": 1707275789,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205201,
+        "num": 205201,
+        "word": "大司马",
+        "onboard_time": 1707271288,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204374,
+        "num": 204374,
+        "word": "李沁曾舜晞七夜雪镜头",
+        "onboard_time": 1707276450,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201057,
+        "num": 201057,
+        "word": "山东春晚节目单",
+        "onboard_time": 1707276212,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194823,
+        "num": 194823,
+        "word": "贵州1投注站中133注一等奖",
+        "onboard_time": 1707276031,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56960,
+        "num": 193247,
+        "word": "秦凯何姿的神仙爱情",
+        "onboard_time": 1707276331,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192268,
+        "num": 192268,
+        "word": "湖南江西暴雪冻雨齐发",
+        "onboard_time": 1707272612,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192197,
+        "num": 192197,
+        "word": "欧文一代亮相",
+        "onboard_time": 1707276689,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185886,
+        "num": 185886,
+        "word": "杨迪 偷塔",
+        "onboard_time": 1707268111,
+        "rank": 39,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 164824,
+        "num": 164824,
+        "word": "车厘子吃多了身体会怎么样",
+        "onboard_time": 1707227189,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158898,
+        "num": 158898,
+        "word": "做美甲为什么要把这个肉割掉",
+        "onboard_time": 1707260600,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 151235,
+        "num": 151235,
+        "word": "字节红包 减半",
+        "onboard_time": 1707276752,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147387,
+        "num": 147387,
+        "word": "热辣滚烫终极预告",
+        "onboard_time": 1707273150,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146933,
+        "num": 146933,
+        "word": "国足世界排名高于约旦",
+        "onboard_time": 1707275852,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 145205,
+        "word": "00后春节回村三件套",
+        "onboard_time": 1707273392,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143194,
+        "num": 143194,
+        "word": "迪丽热巴起诉科技公司侵权",
+        "onboard_time": 1707273692,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137134,
+        "num": 137134,
+        "word": "北京台春晚第八波阵容",
+        "onboard_time": 1707276151,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129009,
+        "num": 129009,
+        "word": "NASA找到一颗新超级地球",
+        "onboard_time": 1707272670,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126353,
+        "num": 126353,
+        "word": "高盛发布A股平准基金研报",
+        "onboard_time": 1707271949,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春到我家心里倍儿温暖#"
+    }
+  }
+}

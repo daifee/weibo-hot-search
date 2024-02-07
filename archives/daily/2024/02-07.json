@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707275932763,
+  "endTime": 1707276869627,
   "band_list": [
     {
       "raw_hot": 1940156,
@@ -19,20 +19,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1607146,
+      "num": 1607146,
+      "word": "贾玲剪影",
+      "onboard_time": 1707274711,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1537925,
+      "num": 1009020,
+      "word": "日本第一男公关晒与梅西合影",
+      "onboard_time": 1707275071,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1334225,
       "num": 1334225,
       "word": "车厘子吃多了身体会怎么样",
       "onboard_time": 1707227189,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1263824,
-      "num": 1263824,
-      "word": "贾玲剪影",
-      "onboard_time": 1707274711,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1103827,
@@ -89,6 +97,14 @@
       "onboard_time": 1707273990,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 797768,
+      "num": 797768,
+      "word": "有一部分人开始断亲了",
+      "onboard_time": 1707274531,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 769202,
@@ -235,12 +251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 501850,
-      "num": 501850,
-      "word": "日本第一男公关晒与梅西合影",
-      "onboard_time": 1707275071,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 505552,
+      "num": 359157,
+      "word": "新女婿拜丈人送300元茅台平替",
+      "onboard_time": 1707276031,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498294,
@@ -273,14 +289,6 @@
       "onboard_time": 1707272129,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467385,
-      "num": 467385,
-      "word": "有一部分人开始断亲了",
-      "onboard_time": 1707274531,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 447559,
@@ -347,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368909,
+      "num": 368909,
+      "word": "弟弟这一筷子过于帅了",
+      "onboard_time": 1707275129,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363386,
       "num": 363386,
       "word": "请和我的老公结婚第12集",
       "onboard_time": 1707229893,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360340,
+      "num": 360340,
+      "word": "6.8亿彩票",
+      "onboard_time": 1707276331,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357601,
@@ -555,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221132,
-      "num": 221132,
-      "word": "弟弟这一筷子过于帅了",
-      "onboard_time": 1707275129,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220637,
       "num": 220637,
       "word": "热辣滚烫终极预告",
@@ -619,6 +635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204374,
+      "num": 204374,
+      "word": "李沁曾舜晞七夜雪镜头",
+      "onboard_time": 1707276450,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201057,
+      "num": 201057,
+      "word": "山东春晚节目单",
+      "onboard_time": 1707276212,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199987,
       "num": 199987,
       "word": "过年为什么要炸东西吃",
@@ -667,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194823,
+      "num": 194823,
+      "word": "贵州1投注站中133注一等奖",
+      "onboard_time": 1707276031,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192856,
       "num": 192856,
       "word": "NASA找到一颗新超级地球",
@@ -689,6 +729,14 @@
       "onboard_time": 1707234092,
       "rank": 29,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 192197,
+      "num": 192197,
+      "word": "欧文一代亮相",
+      "onboard_time": 1707276689,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 189110,
@@ -811,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151235,
+      "num": 151235,
+      "word": "字节红包 减半",
+      "onboard_time": 1707276752,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149509,
       "num": 149509,
       "word": "致敬大雪中最可爱的人",
@@ -825,6 +881,14 @@
       "onboard_time": 1707270813,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146933,
+      "num": 146933,
+      "word": "国足世界排名高于约旦",
+      "onboard_time": 1707275852,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 146546,
@@ -905,6 +969,14 @@
       "onboard_time": 1707229955,
       "rank": 40,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 137134,
+      "num": 137134,
+      "word": "北京台春晚第八波阵容",
+      "onboard_time": 1707276151,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 133452,
@@ -1051,14 +1123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 108703,
-      "num": 108703,
-      "word": "国足世界排名高于约旦",
-      "onboard_time": 1707275852,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107327,
       "num": 107327,
       "word": "山城江哥",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1707223349,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56960,
+      "num": 193247,
+      "word": "秦凯何姿的神仙爱情",
+      "onboard_time": 1707276331,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 55088,

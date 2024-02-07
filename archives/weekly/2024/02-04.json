@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707275932763,
+  "endTime": 1707276869627,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1607146,
+      "num": 1607146,
+      "word": "贾玲剪影",
+      "onboard_time": 1707274711,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1560627,
       "num": 1560627,
       "word": "王豆豆怀孕",
@@ -249,6 +257,14 @@
       "onboard_time": 1707182190,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1537925,
+      "num": 1009020,
+      "word": "日本第一男公关晒与梅西合影",
+      "onboard_time": 1707275071,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1509896,
@@ -353,14 +369,6 @@
       "onboard_time": 1707053194,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1263824,
-      "num": 1263824,
-      "word": "贾玲剪影",
-      "onboard_time": 1707274711,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1251899,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1707182190,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 797768,
+      "num": 797768,
+      "word": "有一部分人开始断亲了",
+      "onboard_time": 1707274531,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 797652,
@@ -2027,6 +2043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 505552,
+      "num": 359157,
+      "word": "新女婿拜丈人送300元茅台平替",
+      "onboard_time": 1707276031,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505110,
       "num": 505110,
       "word": "头孢就酒可能5分钟致命",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1707022355,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 501850,
-      "num": 501850,
-      "word": "日本第一男公关晒与梅西合影",
-      "onboard_time": 1707275071,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 501646,
@@ -2257,14 +2273,6 @@
       "onboard_time": 1706966072,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467385,
-      "num": 467385,
-      "word": "有一部分人开始断亲了",
-      "onboard_time": 1707274531,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 464032,
@@ -2859,6 +2867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 368909,
+      "num": 368909,
+      "word": "弟弟这一筷子过于帅了",
+      "onboard_time": 1707275129,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368882,
       "num": 368882,
       "word": "金在中脸部脱毛的原因",
@@ -2921,6 +2937,14 @@
       "onboard_time": 1707138691,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360340,
+      "num": 360340,
+      "word": "6.8亿彩票",
+      "onboard_time": 1707276331,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359821,
@@ -4739,14 +4763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221132,
-      "num": 221132,
-      "word": "弟弟这一筷子过于帅了",
-      "onboard_time": 1707275129,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220781,
       "num": 220781,
       "word": "大唐狄公案",
@@ -5395,6 +5411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204374,
+      "num": 204374,
+      "word": "李沁曾舜晞七夜雪镜头",
+      "onboard_time": 1707276450,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204356,
       "num": 204356,
       "word": "全红婵今晚还有比赛",
@@ -5529,6 +5553,14 @@
       "onboard_time": 1707134431,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201057,
+      "num": 201057,
+      "word": "山东春晚节目单",
+      "onboard_time": 1707276212,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 200958,
@@ -5731,6 +5763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194823,
+      "num": 194823,
+      "word": "贵州1投注站中133注一等奖",
+      "onboard_time": 1707276031,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194788,
       "num": 194788,
       "word": "小伙6天坐836站公交回乡过年",
@@ -5873,6 +5913,14 @@
       "onboard_time": 1707020251,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192197,
+      "num": 192197,
+      "word": "欧文一代亮相",
+      "onboard_time": 1707276689,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191981,
@@ -7211,6 +7259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151235,
+      "num": 151235,
+      "word": "字节红包 减半",
+      "onboard_time": 1707276752,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151100,
       "num": 151100,
       "word": "山下智久龟梨和也双人直播",
@@ -7329,6 +7385,14 @@
       "onboard_time": 1707094955,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146933,
+      "num": 146933,
+      "word": "国足世界排名高于约旦",
+      "onboard_time": 1707275852,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 146809,
@@ -7801,6 +7865,14 @@
       "onboard_time": 1707058118,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137134,
+      "num": 137134,
+      "word": "北京台春晚第八波阵容",
+      "onboard_time": 1707276151,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 136980,
@@ -8779,14 +8851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108703,
-      "num": 108703,
-      "word": "国足世界排名高于约旦",
-      "onboard_time": 1707275852,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107734,
       "num": 137930,
       "word": "终于理解我妈了",
@@ -9337,6 +9401,14 @@
       "onboard_time": 1707066085,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56960,
+      "num": 193247,
+      "word": "秦凯何姿的神仙爱情",
+      "onboard_time": 1707276331,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 56696,
