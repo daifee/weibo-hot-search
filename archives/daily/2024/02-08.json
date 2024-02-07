@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707322969456,
+  "endTime": 1707323821797,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2833222,
-      "num": 639735,
+      "num": 642165,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 3,
@@ -59,19 +59,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588386,
+      "num": 588386,
+      "word": "C罗",
+      "onboard_time": 1707311257,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569510,
       "num": 524504,
       "word": "霍启刚再发长文",
       "onboard_time": 1707309875,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 524878,
-      "num": 524878,
-      "word": "C罗",
-      "onboard_time": 1707311257,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -91,7 +91,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468245,
+      "raw_hot": 470186,
       "num": 298661,
       "word": "梅西向日本球迷告别",
       "onboard_time": 1707312155,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262959,
+      "num": 262959,
+      "word": "最苏的现偶男主",
+      "onboard_time": 1707321630,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234298,
       "num": 234298,
       "word": "梅西代言",
@@ -177,14 +185,6 @@
       "onboard_time": 1707308076,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188636,
-      "num": 188636,
-      "word": "最苏的现偶男主",
-      "onboard_time": 1707321630,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 180621,
@@ -315,8 +315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95594,
-      "num": 95594,
+      "raw_hot": 96566,
+      "num": 96566,
       "word": "中国龙和西方龙的区别",
       "onboard_time": 1707313896,
       "rank": 40,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71707,
+      "num": 71707,
+      "word": "山东春晚 科目三",
+      "onboard_time": 1707311919,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67225,
       "num": 77905,
       "word": "梅西香港行主办方门票收入至少1亿港元",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 55618,
-      "num": 654750,
+      "num": 661702,
       "word": "过年前先打开这九个安全锦囊",
       "onboard_time": 1707311855,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#读懂总书记的深深牵挂#"
+    },
+    {
+      "word": "#团圆年#"
     }
   ]
 }

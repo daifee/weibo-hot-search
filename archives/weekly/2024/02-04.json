@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707322969456,
+  "endTime": 1707323821797,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -4771,6 +4771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262959,
+      "num": 262959,
+      "word": "最苏的现偶男主",
+      "onboard_time": 1707321630,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262707,
       "num": 262707,
       "word": "金佳蓝高中毕业照",
@@ -7377,14 +7385,6 @@
       "onboard_time": 1707218487,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188636,
-      "num": 188636,
-      "word": "最苏的现偶男主",
-      "onboard_time": 1707321630,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 188244,
