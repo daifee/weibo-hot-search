@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707311889156,
+  "endTime": 1707312843351,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -1915,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 867407,
+      "num": 867407,
+      "word": "霍启刚重申梅西应给公众交代",
+      "onboard_time": 1707311795,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 867146,
       "num": 867146,
       "word": "杨紫曾在淘宝买红毯活动衣服",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 835189,
+      "num": 835189,
+      "word": "梅西代言",
+      "onboard_time": 1707311378,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 831666,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1706780013,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 794297,
+      "num": 794297,
+      "word": "C罗",
+      "onboard_time": 1707311257,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 794108,
@@ -2739,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700794,
+      "num": 700794,
+      "word": "杨紫文笔",
+      "onboard_time": 1707308972,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 698325,
       "num": 698325,
       "word": "王安宇好多白头发",
@@ -2753,14 +2785,6 @@
       "onboard_time": 1706831185,
       "rank": 6,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 695706,
-      "num": 564576,
-      "word": "霍启刚重申梅西应给公众交代",
-      "onboard_time": 1707311795,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 694916,
@@ -3523,14 +3547,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 590235,
-      "num": 590235,
-      "word": "杨紫文笔",
-      "onboard_time": 1707308972,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 589432,
       "num": 589432,
       "word": "龙年央视春晚第四次联排",
@@ -4225,6 +4241,14 @@
       "onboard_time": 1706858308,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 516659,
+      "num": 516659,
+      "word": "河南春晚没有主持人",
+      "onboard_time": 1707310835,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 515986,
@@ -5163,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428883,
+      "num": 428883,
+      "word": "梅西向日本球迷告别",
+      "onboard_time": 1707312155,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428688,
       "num": 191687,
       "word": "宋茜青花瓷 大气",
@@ -5435,14 +5467,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 414206,
-      "num": 414206,
-      "word": "C罗",
-      "onboard_time": 1707311257,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 413879,
       "num": 413879,
       "word": "制片人否认陈牧驰丁程鑫演嘘国王在冬眠",
@@ -5537,6 +5561,14 @@
       "onboard_time": 1706759070,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 405550,
+      "num": 405550,
+      "word": "梅西上场多次制造威胁",
+      "onboard_time": 1707310534,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 405136,
@@ -5977,22 +6009,6 @@
       "onboard_time": 1707272791,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377926,
-      "num": 377926,
-      "word": "梅西代言",
-      "onboard_time": 1707311378,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377764,
-      "num": 377764,
-      "word": "梅西上场多次制造威胁",
-      "onboard_time": 1707310534,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 376474,
@@ -6595,14 +6611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 339243,
-      "num": 339243,
-      "word": "河南春晚没有主持人",
-      "onboard_time": 1707310835,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335827,
       "num": 188299,
       "word": "肖战声线感染力",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1707014790,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314111,
+      "num": 314111,
+      "word": "杨幂雪中撑伞",
+      "onboard_time": 1707312335,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 313280,
@@ -8699,6 +8715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 250885,
+      "num": 250885,
+      "word": "山东春晚 科目三",
+      "onboard_time": 1707311919,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250702,
       "num": 250702,
       "word": "张本美和参加巴黎奥运会",
@@ -9275,6 +9299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235478,
+      "num": 235478,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1707312394,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235434,
       "num": 216794,
       "word": "郭富城谈方媛参加综艺节目",
@@ -9601,6 +9633,14 @@
       "onboard_time": 1707214772,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226817,
+      "num": 226817,
+      "word": "黄瀛子见到孙燕姿的反应",
+      "onboard_time": 1707311919,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 226689,
@@ -12595,6 +12635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "WBG对战TES",
+      "onboard_time": 1707311855,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187491,
       "num": 187491,
       "word": "证监会召开走访上市公司工作推进会",
@@ -14323,6 +14371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165153,
+      "num": 165153,
+      "word": "吴昕回应吴昕工作",
+      "onboard_time": 1707310894,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165108,
       "num": 165108,
       "word": "冰墩墩我想你了",
@@ -15619,14 +15675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147202,
-      "num": 147202,
-      "word": "吴昕回应吴昕工作",
-      "onboard_time": 1707310894,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147118,
       "num": 147118,
       "word": "轻语的芈月",
@@ -15905,14 +15953,6 @@
       "onboard_time": 1707096750,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144467,
-      "num": 144467,
-      "word": "WBG对战TES",
-      "onboard_time": 1707311855,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 144355,
@@ -16491,6 +16531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137526,
+      "num": 137526,
+      "word": "李老八",
+      "onboard_time": 1707312394,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137312,
       "num": 137312,
       "word": "你永远叫不醒一只装睡的猫咪",
@@ -16689,6 +16737,14 @@
       "onboard_time": 1706951792,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "编剧夸杨紫范丞丞演技",
+      "onboard_time": 1707312515,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 135281,
@@ -17875,6 +17931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121837,
+      "num": 121837,
+      "word": "周涛主持山东春晚",
+      "onboard_time": 1707312155,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121798,
       "num": 121798,
       "word": "昆曲婉转和立春好配",
@@ -18537,6 +18601,14 @@
       "onboard_time": 1706838990,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112153,
+      "num": 112153,
+      "word": "杨幂将演唱入梦风华",
+      "onboard_time": 1707312577,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 112009,
@@ -19441,6 +19513,14 @@
       "onboard_time": 1706696974,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83785,
+      "num": 5720482,
+      "word": "过年前先打开这九个安全锦囊",
+      "onboard_time": 1707311855,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83599,
@@ -21041,14 +21121,6 @@
       "onboard_time": 1707292290,
       "rank": 26,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 6110,
-      "num": 5720482,
-      "word": "过年前先打开这九个安全锦囊",
-      "onboard_time": 1707311855,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4833,

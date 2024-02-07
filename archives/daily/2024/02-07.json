@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707311889156,
+  "endTime": 1707312843351,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 867407,
+      "num": 867407,
+      "word": "霍启刚重申梅西应给公众交代",
+      "onboard_time": 1707311795,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 856198,
       "num": 856198,
       "word": "男子欠56万勤恳打工被债主免25万",
@@ -315,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 835189,
+      "num": 835189,
+      "word": "梅西代言",
+      "onboard_time": 1707311378,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 806894,
       "num": 630935,
       "word": "字节红包 减半",
@@ -329,6 +345,14 @@
       "onboard_time": 1707284429,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794297,
+      "num": 794297,
+      "word": "C罗",
+      "onboard_time": 1707311257,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 781943,
@@ -419,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 695706,
-      "num": 564576,
-      "word": "霍启刚重申梅西应给公众交代",
-      "onboard_time": 1707311795,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 700794,
+      "num": 700794,
+      "word": "杨紫文笔",
+      "onboard_time": 1707308972,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 694916,
@@ -521,14 +545,6 @@
       "onboard_time": 1707222753,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590235,
-      "num": 590235,
-      "word": "杨紫文笔",
-      "onboard_time": 1707308972,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 580989,
@@ -649,6 +665,14 @@
       "onboard_time": 1707276031,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516659,
+      "num": 516659,
+      "word": "河南春晚没有主持人",
+      "onboard_time": 1707310835,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 515321,
@@ -811,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428883,
+      "num": 428883,
+      "word": "梅西向日本球迷告别",
+      "onboard_time": 1707312155,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423080,
       "num": 423080,
       "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
@@ -835,20 +867,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 414206,
-      "num": 414206,
-      "word": "C罗",
-      "onboard_time": 1707311257,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 412091,
       "num": 412091,
       "word": "时代少年团王者技术",
       "onboard_time": 1707234571,
       "rank": 13,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 405550,
+      "num": 405550,
+      "word": "梅西上场多次制造威胁",
+      "onboard_time": 1707310534,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 401958,
@@ -937,22 +969,6 @@
       "onboard_time": 1707272791,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377926,
-      "num": 377926,
-      "word": "梅西代言",
-      "onboard_time": 1707311378,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377764,
-      "num": 377764,
-      "word": "梅西上场多次制造威胁",
-      "onboard_time": 1707310534,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 374857,
@@ -1051,14 +1067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 339243,
-      "num": 339243,
-      "word": "河南春晚没有主持人",
-      "onboard_time": 1707310835,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330517,
       "num": 330517,
       "word": "周也觉得林一太帅不好意思说话",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1707307232,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 314111,
+      "num": 314111,
+      "word": "杨幂雪中撑伞",
+      "onboard_time": 1707312335,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 311983,
@@ -1355,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250885,
+      "num": 250885,
+      "word": "山东春晚 科目三",
+      "onboard_time": 1707311919,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248483,
       "num": 248483,
       "word": "已经有一批回家的人又逃回去了",
@@ -1419,6 +1443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235478,
+      "num": 235478,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1707312394,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233710,
       "num": 233710,
       "word": "要久久爱",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1707278490,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226817,
+      "num": 226817,
+      "word": "黄瀛子见到孙燕姿的反应",
+      "onboard_time": 1707311919,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 226192,
@@ -1915,6 +1955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "WBG对战TES",
+      "onboard_time": 1707311855,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185407,
       "num": 209657,
       "word": "大学生过年在电影院当NPC",
@@ -2203,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165153,
+      "num": 165153,
+      "word": "吴昕回应吴昕工作",
+      "onboard_time": 1707310894,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164490,
       "num": 164490,
       "word": "亚洲杯半决赛",
@@ -2419,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147202,
-      "num": 147202,
-      "word": "吴昕回应吴昕工作",
-      "onboard_time": 1707310894,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146933,
       "num": 146933,
       "word": "国足世界排名高于约旦",
@@ -2489,14 +2537,6 @@
       "onboard_time": 1707300029,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 144467,
-      "num": 144467,
-      "word": "WBG对战TES",
-      "onboard_time": 1707311855,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 144180,
@@ -2611,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137526,
+      "num": 137526,
+      "word": "李老八",
+      "onboard_time": 1707312394,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137134,
       "num": 137134,
       "word": "北京台春晚第八波阵容",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1707306754,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "编剧夸杨紫范丞丞演技",
+      "onboard_time": 1707312515,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 134915,
@@ -2787,6 +2843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121837,
+      "num": 121837,
+      "word": "周涛主持山东春晚",
+      "onboard_time": 1707312155,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121325,
       "num": 121325,
       "word": "全红婵陈芋汐双人决赛",
@@ -2907,6 +2971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112153,
+      "num": 112153,
+      "word": "杨幂将演唱入梦风华",
+      "onboard_time": 1707312577,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110831,
       "num": 110831,
       "word": "春节搭子",
@@ -2999,6 +3071,14 @@
       "num": 5249050,
       "word": "直击2024春运",
       "onboard_time": 1707296312,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83785,
+      "num": 5720482,
+      "word": "过年前先打开这九个安全锦囊",
+      "onboard_time": 1707311855,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -3209,14 +3289,6 @@
       "onboard_time": 1707292290,
       "rank": 26,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 6110,
-      "num": 5720482,
-      "word": "过年前先打开这九个安全锦囊",
-      "onboard_time": 1707311855,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
