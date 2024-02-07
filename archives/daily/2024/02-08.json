@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707326140290,
+  "endTime": 1707327252965,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -275,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109893,
+      "num": 109893,
+      "word": "预制菜悄悄占领农村年夜饭",
+      "onboard_time": 1707325045,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 106027,
       "num": 106027,
       "word": "王星越骗小孩喊爸爸",
@@ -323,12 +331,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 95635,
-      "num": 95635,
-      "word": "预制菜悄悄占领农村年夜饭",
-      "onboard_time": 1707325045,
-      "rank": 29,
-      "category": "美食,社会新闻"
+      "raw_hot": 96182,
+      "num": 96182,
+      "word": "黄奕古巨基还珠格格3又有售后了",
+      "onboard_time": 1707326784,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 95634,
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68049,
+      "num": 68049,
+      "word": "这下所有女人都能通过了",
+      "onboard_time": 1707326307,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 67225,
       "num": 77905,
       "word": "梅西香港行主办方门票收入至少1亿港元",
@@ -433,6 +449,14 @@
       "onboard_time": 1707311855,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34436,
+      "num": 42702,
+      "word": "WBG对战TES",
+      "onboard_time": 1707311855,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
