@@ -1,0 +1,410 @@
+{
+  "runTime": 1707344158978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116739,
+        "num": 142656,
+        "word": "00后小伙睡醒被亲戚围床边介绍对象",
+        "onboard_time": 1707333138,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293492,
+        "num": 141605,
+        "word": "霍启刚愤怒回应梅西道歉",
+        "onboard_time": 1707310294,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12879,
+        "num": 124902,
+        "word": "过年前先打开这九个安全锦囊",
+        "onboard_time": 1707311855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266500,
+        "num": 123892,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111506,
+        "num": 111506,
+        "word": "北京明确不安排一线教师寒假值班",
+        "onboard_time": 1707339796,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89633,
+        "num": 89633,
+        "word": "中国人偏爱龙年或迎生育小高峰",
+        "onboard_time": 1707339136,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80837,
+        "num": 80837,
+        "word": "预制菜悄悄占领农村年夜饭",
+        "onboard_time": 1707325045,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 73627,
+        "num": 73627,
+        "word": "霍启刚再发长文",
+        "onboard_time": 1707309875,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73411,
+        "num": 73411,
+        "word": "C罗",
+        "onboard_time": 1707311257,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70171,
+        "num": 70171,
+        "word": "河南卫视配享太庙",
+        "onboard_time": 1707318633,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137553,
+        "num": 69406,
+        "word": "梅西代言白酒品牌方发文称很难过",
+        "onboard_time": 1707315396,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79179,
+        "num": 68177,
+        "word": "霍启刚重申梅西应给公众交代",
+        "onboard_time": 1707311795,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74947,
+        "num": 65809,
+        "word": "梅西向日本球迷告别",
+        "onboard_time": 1707312155,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74725,
+        "num": 62306,
+        "word": "梅西上场了",
+        "onboard_time": 1707305852,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62225,
+        "num": 62225,
+        "word": "苏醒",
+        "onboard_time": 1707309153,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 58903,
+        "num": 58903,
+        "word": "梅西不会出席日本行赛后发布会",
+        "onboard_time": 1707310534,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58297,
+        "num": 58297,
+        "word": "日本场上座率",
+        "onboard_time": 1707308555,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44265,
+        "num": 44265,
+        "word": "宝贝这群叔叔阿姨拼了命想救你",
+        "onboard_time": 1707318335,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39247,
+        "num": 39247,
+        "word": "迪丽热巴辛芷蕾宿命感",
+        "onboard_time": 1707327501,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37965,
+        "num": 37965,
+        "word": "这下所有女人都能通过了",
+        "onboard_time": 1707326307,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85281,
+        "num": 37965,
+        "word": "36岁女儿将水倒进油锅妈妈淡定清理",
+        "onboard_time": 1707319355,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37556,
+        "num": 37556,
+        "word": "梅西代言",
+        "onboard_time": 1707311378,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33357,
+        "num": 33357,
+        "word": "意大利国家级电视台将直播央视龙年春晚",
+        "onboard_time": 1707319657,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30981,
+        "num": 30981,
+        "word": "最苏的现偶男主",
+        "onboard_time": 1707321630,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30884,
+        "num": 30884,
+        "word": "蓝盈莹和妈妈聊天记录",
+        "onboard_time": 1707306094,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30455,
+        "num": 30455,
+        "word": "已经开始算哪天洗头了",
+        "onboard_time": 1707308076,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29873,
+        "num": 29873,
+        "word": "新能源车主返乡离充电桩5米趴窝了",
+        "onboard_time": 1707342316,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27035,
+        "num": 27035,
+        "word": "杨幂唐装",
+        "onboard_time": 1707308674,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26857,
+        "num": 26857,
+        "word": "日本核污染水净化装置泄漏",
+        "onboard_time": 1707307655,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26271,
+        "num": 26271,
+        "word": "梅西上场多次制造威胁",
+        "onboard_time": 1707310534,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24667,
+        "num": 24667,
+        "word": "朋友式情侣关系",
+        "onboard_time": 1707307655,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24120,
+        "num": 24120,
+        "word": "冯巩 我想死你们了",
+        "onboard_time": 1707312394,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23561,
+        "num": 23561,
+        "word": "林亦扬殷果亲出声了",
+        "onboard_time": 1707309213,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23400,
+        "num": 23400,
+        "word": "郭艾伦韩德君聊天记录",
+        "onboard_time": 1707317857,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22495,
+        "num": 22495,
+        "word": "要久久爱大结局",
+        "onboard_time": 1707304413,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22330,
+        "num": 22330,
+        "word": "腹股沟拉伤很难短期恢复",
+        "onboard_time": 1707312995,
+        "rank": 35,
+        "category": "运动健身,体育"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 20712,
+        "word": "黄奕古巨基还珠格格3又有售后了",
+        "onboard_time": 1707326784,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18764,
+        "num": 18764,
+        "word": "大学生群演",
+        "onboard_time": 1707333499,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17940,
+        "num": 17940,
+        "word": "河南春晚没有主持人",
+        "onboard_time": 1707310835,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17527,
+        "num": 17527,
+        "word": "中国龙和西方龙的区别",
+        "onboard_time": 1707313896,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17355,
+        "num": 17355,
+        "word": "山东春晚 科目三",
+        "onboard_time": 1707311919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17211,
+        "num": 17211,
+        "word": "杨紫文笔",
+        "onboard_time": 1707308972,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16803,
+        "num": 16803,
+        "word": "球迷是足球的一切",
+        "onboard_time": 1707329781,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16224,
+        "num": 16224,
+        "word": "杨幂雪中撑伞",
+        "onboard_time": 1707312335,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15286,
+        "num": 15286,
+        "word": "为什么冬天容易上火",
+        "onboard_time": 1707340818,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15201,
+        "num": 15201,
+        "word": "医学奇迹",
+        "onboard_time": 1707306875,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14808,
+        "num": 14808,
+        "word": "小黑粉",
+        "onboard_time": 1707313113,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 13889,
+        "num": 14804,
+        "word": "美媒下场报道梅西之乱",
+        "onboard_time": 1707260662,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13520,
+        "num": 14799,
+        "word": "过年头像",
+        "onboard_time": 1707323848,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12445,
+        "num": 14796,
+        "word": "WBG对战TES",
+        "onboard_time": 1707311855,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
