@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707337017827,
+  "endTime": 1707338058899,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -451,19 +451,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61212,
+      "num": 61212,
+      "word": "00后小伙睡醒被亲戚围床边介绍对象",
+      "onboard_time": 1707333138,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55618,
       "num": 661702,
       "word": "过年前先打开这九个安全锦囊",
       "onboard_time": 1707311855,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42098,
-      "num": 42098,
-      "word": "00后小伙睡醒被亲戚围床边介绍对象",
-      "onboard_time": 1707333138,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -507,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21211,
-      "num": 21211,
+      "raw_hot": 22291,
+      "num": 22291,
       "word": "小黑粉回应",
       "onboard_time": 1707334757,
       "rank": 31,
@@ -521,6 +521,14 @@
       "onboard_time": 1707332239,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11640,
+      "num": 14873,
+      "word": "重庆火锅油碟 解辣",
+      "onboard_time": 1707337997,
+      "rank": 49,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
