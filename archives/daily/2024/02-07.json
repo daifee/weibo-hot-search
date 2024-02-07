@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707280431428,
+  "endTime": 1707283008826,
   "band_list": [
     {
       "raw_hot": 2365521,
@@ -9,6 +9,14 @@
       "onboard_time": 1707275071,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2035651,
+      "num": 2035651,
+      "word": "网红张美丽被逮捕",
+      "onboard_time": 1707279692,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1940156,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1018459,
+      "num": 1018459,
+      "word": "刘丹说小糯米每天上学前要挑衣配鞋",
+      "onboard_time": 1707278490,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917551,
       "num": 917551,
       "word": "有一部分人开始断亲了",
@@ -105,14 +121,6 @@
       "onboard_time": 1707213992,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 869540,
-      "num": 869540,
-      "word": "刘丹说小糯米每天上学前要挑衣配鞋",
-      "onboard_time": 1707278490,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 867567,
@@ -187,12 +195,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723886,
+      "num": 723886,
+      "word": "贵州双色球6.8亿巨奖系一人独中",
+      "onboard_time": 1707281791,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715181,
       "num": 715181,
       "word": "Kpop艺人中国杂志总销量TOP15",
       "onboard_time": 1707234630,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705138,
+      "num": 705138,
+      "word": "贝克汉姆社交账号评论区被球迷刷屏",
+      "onboard_time": 1707277773,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 700606,
+      "num": 574970,
+      "word": "迈阿密国际回应梅西缺阵",
+      "onboard_time": 1707282272,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 690823,
@@ -203,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 667306,
-      "num": 667306,
-      "word": "网红张美丽被逮捕",
-      "onboard_time": 1707279692,
-      "rank": 9,
-      "category": "社会新闻,网红"
+      "raw_hot": 675481,
+      "num": 511474,
+      "word": "梅西握手环节双手插兜躲着走",
+      "onboard_time": 1707277830,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 664140,
@@ -251,14 +283,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 576662,
-      "num": 576662,
-      "word": "贝克汉姆社交账号评论区被球迷刷屏",
-      "onboard_time": 1707277773,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 572050,
       "num": 572050,
       "word": "谷歌工程师杀妻案嫌犯家人已回国",
@@ -283,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541191,
-      "num": 458567,
-      "word": "梅西握手环节双手插兜躲着走",
-      "onboard_time": 1707277830,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 538070,
+      "num": 538070,
+      "word": "大雪封路村民15元方便面被批评贵",
+      "onboard_time": 1707280051,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534407,
@@ -555,6 +579,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297633,
+      "num": 297633,
+      "word": "创造营2019赤子练习室",
+      "onboard_time": 1707282272,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293480,
+      "num": 293480,
+      "word": "热辣滚烫贾玲张小斐打戏",
+      "onboard_time": 1707281010,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292508,
       "num": 292508,
       "word": "阴阳师 应声虫",
@@ -571,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286543,
+      "num": 286543,
+      "word": "苏打绿官宣巡演",
+      "onboard_time": 1707280651,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285829,
       "num": 285829,
       "word": "大司马",
       "onboard_time": 1707271288,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285696,
+      "num": 173894,
+      "word": "奶奶的微信永远不会有聊天记录了",
+      "onboard_time": 1707282571,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 283031,
@@ -721,14 +777,6 @@
       "onboard_time": 1707234509,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211209,
-      "num": 211209,
-      "word": "大雪封路村民15元方便面被批评贵",
-      "onboard_time": 1707280051,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208146,
@@ -899,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183948,
+      "num": 183948,
+      "word": "快船北伐成功",
+      "onboard_time": 1707281252,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182909,
       "num": 182909,
       "word": "Fly和Gemini再现回忆杀",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1707271949,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168805,
+      "num": 168805,
+      "word": "在姐姐婚礼上掉进水池助兴",
+      "onboard_time": 1707280412,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 164490,
@@ -1155,6 +1219,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 138037,
+      "num": 138037,
+      "word": "快船登顶西部第一",
+      "onboard_time": 1707281371,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137134,
       "num": 137134,
       "word": "北京台春晚第八波阵容",
@@ -1187,6 +1259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132306,
+      "num": 132306,
+      "word": "男子宴席收到工作信息后醉酒捅死领导",
+      "onboard_time": 1707282930,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132152,
       "num": 132152,
       "word": "父亲离世后戍边战士收到AI全家福",
@@ -1203,11 +1283,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126672,
-      "num": 126672,
-      "word": "在姐姐婚礼上掉进水池助兴",
-      "onboard_time": 1707280412,
-      "rank": 49,
+      "raw_hot": 130171,
+      "num": 130171,
+      "word": "养狗人在小区有专属的名字",
+      "onboard_time": 1707281312,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1275,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117085,
+      "num": 117085,
+      "word": "我给自己争取了一份年终奖",
+      "onboard_time": 1707282149,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117046,
       "num": 117046,
       "word": "6宗报案指控梅西和迈阿密欺诈",
@@ -1315,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110831,
+      "num": 110831,
+      "word": "春节搭子",
+      "onboard_time": 1707281371,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110801,
       "num": 110801,
       "word": "时代少年团全员发博了",
@@ -1329,6 +1425,14 @@
       "onboard_time": 1707265591,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108545,
+      "num": 108545,
+      "word": "36年前春晚居然有唐老鸭",
+      "onboard_time": 1707282989,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107327,
@@ -1436,7 +1540,7 @@
     },
     {
       "raw_hot": 57460,
-      "num": 172043,
+      "num": 542536,
       "word": "范丞丞元梦专属称号星想事丞",
       "onboard_time": 1707280112,
       "rank": 36,
