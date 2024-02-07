@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707315332840,
+  "endTime": 1707316451035,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -216,6 +216,14 @@
       "word": "梅西代言",
       "onboard_time": 1707311378,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1068053,
+      "num": 523722,
+      "word": "梅西代言白酒品牌方发文称很难过",
+      "onboard_time": 1707315396,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -531,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619274,
+      "num": 619274,
+      "word": "梅西不会出席日本行赛后发布会",
+      "onboard_time": 1707310534,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605608,
       "num": 605608,
       "word": "不要忘记了普通人的生活",
       "onboard_time": 1707229472,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 598367,
-      "num": 598367,
-      "word": "梅西不会出席日本行赛后发布会",
-      "onboard_time": 1707310534,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 593241,
@@ -995,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 373127,
+      "num": 373127,
+      "word": "梅西香港行主办方门票收入至少1亿港元",
+      "onboard_time": 1707314499,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370432,
       "num": 274169,
       "word": "河南一新娘陪嫁999万和法拉利",
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318520,
+      "num": 318520,
+      "word": "周深簪花郎",
+      "onboard_time": 1707313236,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315998,
       "num": 315998,
       "word": "80年代的年夜饭桌才能喝到可乐",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1707266852,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306801,
-      "num": 306801,
-      "word": "梅西香港行主办方门票收入至少1亿港元",
-      "onboard_time": 1707314499,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 304510,
@@ -1307,14 +1323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272849,
-      "num": 234860,
-      "word": "周深簪花郎",
-      "onboard_time": 1707313236,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271554,
       "num": 271554,
       "word": "C罗39岁生日全家福",
@@ -1403,12 +1411,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256255,
+      "num": 256255,
+      "word": "侃爷计划来中国演出",
+      "onboard_time": 1707314375,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 255850,
+      "num": 255850,
+      "word": "檀健次龙年春晚最后一次联排",
+      "onboard_time": 1707315875,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255299,
       "num": 255299,
       "word": "湖南江西暴雪冻雨齐发",
       "onboard_time": 1707272612,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253577,
+      "num": 253577,
+      "word": "WBG对战TES",
+      "onboard_time": 1707311855,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 250885,
@@ -1425,14 +1457,6 @@
       "onboard_time": 1707295772,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 247772,
-      "num": 247772,
-      "word": "WBG对战TES",
-      "onboard_time": 1707311855,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 246418,
@@ -1515,12 +1539,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 228975,
-      "num": 228975,
-      "word": "侃爷计划来中国演出",
-      "onboard_time": 1707314375,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 230036,
+      "num": 230036,
+      "word": "吴磊醉酒情绪戏",
+      "onboard_time": 1707314136,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 227987,
@@ -1691,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210419,
+      "num": 210419,
+      "word": "妈妈发视频给儿子找对象",
+      "onboard_time": 1707316417,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209226,
       "num": 209226,
       "word": "年前这几天大概率是最舒服的",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1707287131,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206191,
-      "num": 206191,
-      "word": "吴磊醉酒情绪戏",
-      "onboard_time": 1707314136,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 205434,
@@ -3211,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64099,
+      "num": 316412,
+      "word": "蛋仔河南春晚惊艳全场",
+      "onboard_time": 1707314674,
+      "rank": 26,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 63634,
       "num": 312525,
       "word": "当年轻人回家过年",
@@ -3289,14 +3321,6 @@
       "onboard_time": 1707301170,
       "rank": 49,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 34894,
-      "num": 237895,
-      "word": "蛋仔河南春晚惊艳全场",
-      "onboard_time": 1707314674,
-      "rank": 26,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 32336,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707316451035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7262154,
+        "num": 7262154,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4796897,
+        "num": 4796897,
+        "word": "霍启刚愤怒回应梅西道歉",
+        "onboard_time": 1707310294,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112068,
+        "num": 2139322,
+        "word": "过年前先打开这九个安全锦囊",
+        "onboard_time": 1707311855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922706,
+        "num": 922706,
+        "word": "霍启刚再发长文",
+        "onboard_time": 1707309875,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669797,
+        "num": 669797,
+        "word": "杨幂唐装",
+        "onboard_time": 1707308674,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619274,
+        "num": 619274,
+        "word": "梅西不会出席日本行赛后发布会",
+        "onboard_time": 1707310534,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606988,
+        "num": 606988,
+        "word": "杨紫文笔",
+        "onboard_time": 1707308972,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597842,
+        "num": 597842,
+        "word": "小黑粉",
+        "onboard_time": 1707313113,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 552172,
+        "num": 552172,
+        "word": "梅西向日本球迷告别",
+        "onboard_time": 1707312155,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545384,
+        "num": 545384,
+        "word": "霍启刚重申梅西应给公众交代",
+        "onboard_time": 1707311795,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1886662,
+        "num": 537702,
+        "word": "梅西上场了",
+        "onboard_time": 1707305852,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1204317,
+        "num": 534208,
+        "word": "苏醒",
+        "onboard_time": 1707309153,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1068053,
+        "num": 523722,
+        "word": "梅西代言白酒品牌方发文称很难过",
+        "onboard_time": 1707315396,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977737,
+        "num": 507270,
+        "word": "梅西代言",
+        "onboard_time": 1707311378,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505717,
+        "num": 505717,
+        "word": "C罗",
+        "onboard_time": 1707311257,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503795,
+        "num": 503795,
+        "word": "冯巩 我想死你们了",
+        "onboard_time": 1707312394,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427522,
+        "num": 427522,
+        "word": "日本场上座率",
+        "onboard_time": 1707308555,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390819,
+        "num": 390819,
+        "word": "陈丽君 李云霄",
+        "onboard_time": 1707312934,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373127,
+        "num": 373127,
+        "word": "梅西香港行主办方门票收入至少1亿港元",
+        "onboard_time": 1707314499,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383243,
+        "num": 367132,
+        "word": "河南春晚没有主持人",
+        "onboard_time": 1707310835,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358919,
+        "num": 358919,
+        "word": "贵阳消防栓",
+        "onboard_time": 1707305914,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348617,
+        "num": 348617,
+        "word": "梅西上场多次制造威胁",
+        "onboard_time": 1707310534,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318520,
+        "num": 318520,
+        "word": "周深簪花郎",
+        "onboard_time": 1707313236,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64099,
+        "num": 316412,
+        "word": "蛋仔河南春晚惊艳全场",
+        "onboard_time": 1707314674,
+        "rank": 23,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 314942,
+        "num": 314942,
+        "word": "腹股沟拉伤很难短期恢复",
+        "onboard_time": 1707312995,
+        "rank": 24,
+        "category": "运动健身,体育"
+      },
+      {
+        "raw_hot": 279621,
+        "num": 279621,
+        "word": "已经开始算哪天洗头了",
+        "onboard_time": 1707308076,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275265,
+        "num": 275265,
+        "word": "医学奇迹",
+        "onboard_time": 1707306875,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268348,
+        "num": 268348,
+        "word": "杨幂雪中撑伞",
+        "onboard_time": 1707312335,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256255,
+        "num": 256255,
+        "word": "侃爷计划来中国演出",
+        "onboard_time": 1707314375,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255850,
+        "num": 255850,
+        "word": "檀健次龙年春晚最后一次联排",
+        "onboard_time": 1707315875,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253577,
+        "num": 253577,
+        "word": "WBG对战TES",
+        "onboard_time": 1707311855,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230036,
+        "num": 230036,
+        "word": "吴磊醉酒情绪戏",
+        "onboard_time": 1707314136,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224409,
+        "num": 224409,
+        "word": "胡锡进 梅西在香港的表现难以接受",
+        "onboard_time": 1707295113,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216133,
+        "num": 216133,
+        "word": "中国龙和西方龙的区别",
+        "onboard_time": 1707313896,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 214763,
+        "num": 214763,
+        "word": "日本核污染水净化装置泄漏",
+        "onboard_time": 1707307655,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214066,
+        "num": 214066,
+        "word": "林亦扬殷果亲出声了",
+        "onboard_time": 1707309213,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210419,
+        "num": 210419,
+        "word": "妈妈发视频给儿子找对象",
+        "onboard_time": 1707316417,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207431,
+        "num": 207431,
+        "word": "papi酱 这个除夕快乐上班",
+        "onboard_time": 1707305072,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201509,
+        "num": 201509,
+        "word": "蓝盈莹和妈妈聊天记录",
+        "onboard_time": 1707306094,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201242,
+        "num": 201242,
+        "word": "要久久爱大结局",
+        "onboard_time": 1707304413,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195863,
+        "num": 195863,
+        "word": "李老八",
+        "onboard_time": 1707312394,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183351,
+        "num": 183351,
+        "word": "朋友式情侣关系",
+        "onboard_time": 1707307655,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172820,
+        "num": 172820,
+        "word": "犬夜叉 犬薇发糖",
+        "onboard_time": 1707310234,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171871,
+        "num": 171871,
+        "word": "山东春晚 科目三",
+        "onboard_time": 1707311919,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156521,
+        "num": 156521,
+        "word": "再就业男团春晚最后一次联排",
+        "onboard_time": 1707313957,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158363,
+        "num": 156271,
+        "word": "张杰蓝色星空下唱响守护的光",
+        "onboard_time": 1707314674,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155974,
+        "num": 155974,
+        "word": "黄瀛子见到孙燕姿的反应",
+        "onboard_time": 1707311919,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141767,
+        "num": 141767,
+        "word": "13岁女团成员小学毕业照",
+        "onboard_time": 1707310534,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138377,
+        "num": 138377,
+        "word": "没及时回消息被学长挂到朋友圈",
+        "onboard_time": 1707309634,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136783,
+        "num": 136783,
+        "word": "王者荣耀 你真是饿了",
+        "onboard_time": 1707291870,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
