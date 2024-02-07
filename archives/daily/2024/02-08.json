@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707344158978,
+  "endTime": 1707345240340,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151353,
+      "num": 151353,
+      "word": "北京明确不安排一线教师寒假值班",
+      "onboard_time": 1707339796,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149408,
       "num": 149408,
       "word": "林亦扬殷果亲出声了",
@@ -299,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111506,
-      "num": 111506,
-      "word": "北京明确不安排一线教师寒假值班",
-      "onboard_time": 1707339796,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 111428,
       "num": 111428,
       "word": "妈妈发视频给儿子找对象",
@@ -321,6 +321,14 @@
       "onboard_time": 1707319953,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105710,
+      "num": 105710,
+      "word": "中国人偏爱龙年或迎生育小高峰",
+      "onboard_time": 1707339136,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103592,
@@ -385,14 +393,6 @@
       "onboard_time": 1707310234,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 89633,
-      "num": 89633,
-      "word": "中国人偏爱龙年或迎生育小高峰",
-      "onboard_time": 1707339136,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86406,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38649,
+      "num": 38649,
+      "word": "新能源车主返乡离充电桩5米趴窝了",
+      "onboard_time": 1707342316,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34436,
       "num": 42702,
       "word": "WBG对战TES",
@@ -505,14 +513,6 @@
       "onboard_time": 1707329002,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29873,
-      "num": 29873,
-      "word": "新能源车主返乡离充电桩5米趴窝了",
-      "onboard_time": 1707342316,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 28418,
@@ -547,8 +547,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 15286,
-      "num": 15286,
+      "raw_hot": 17103,
+      "num": 17103,
       "word": "为什么冬天容易上火",
       "onboard_time": 1707340818,
       "rank": 48,
