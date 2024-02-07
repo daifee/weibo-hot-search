@@ -1,10 +1,10 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707308995312,
+  "endTime": 1707309930523,
   "band_list": [
     {
-      "raw_hot": 10457854,
-      "num": 10457854,
+      "raw_hot": 10841679,
+      "num": 10841679,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1967028,
-      "num": 364597,
+      "num": 583189,
       "word": "四川梅西",
       "onboard_time": 1707302313,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1086248,
+      "num": 1086248,
+      "word": "杨幂唐装",
+      "onboard_time": 1707308674,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1061515,
       "num": 1061515,
       "word": "贵阳消防栓",
@@ -201,6 +209,14 @@
       "onboard_time": 1707278490,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1005161,
+      "num": 1005161,
+      "word": "苏醒",
+      "onboard_time": 1707309153,
+      "rank": 5,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 996510,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792262,
+      "num": 792262,
+      "word": "霍启刚再发长文",
+      "onboard_time": 1707309875,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 781943,
       "num": 781943,
       "word": "华晨宇坚持11年的生日仪式感",
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691265,
+      "num": 691265,
+      "word": "日本场上座率",
+      "onboard_time": 1707308555,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 690823,
       "num": 690823,
       "word": "香港警方正式通缉周庭",
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580989,
+      "num": 580989,
+      "word": "张雪峰称不要试图说教年轻人消费",
+      "onboard_time": 1707307476,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578946,
       "num": 578946,
       "word": "杨迪 偷塔",
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 541044,
-      "num": 364521,
+      "num": 479340,
       "word": "蓝盈莹和妈妈聊天记录",
       "onboard_time": 1707306094,
       "rank": 11,
@@ -537,14 +577,6 @@
       "onboard_time": 1707295113,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 535141,
-      "num": 535141,
-      "word": "张雪峰称不要试图说教年轻人消费",
-      "onboard_time": 1707307476,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534407,
@@ -635,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494880,
+      "num": 494880,
+      "word": "杨紫文笔",
+      "onboard_time": 1707308972,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482913,
       "num": 482913,
       "word": "诛仙1央六收视破3登顶",
@@ -665,6 +705,14 @@
       "onboard_time": 1707285932,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 467127,
+      "num": 467127,
+      "word": "智能腹股沟",
+      "onboard_time": 1707308131,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 465560,
@@ -779,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401493,
+      "num": 401493,
+      "word": "日本核污染水净化装置泄漏",
+      "onboard_time": 1707307655,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 400904,
       "num": 400904,
       "word": "赵震 香港主办方是罪魁祸首",
@@ -851,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374857,
+      "num": 346890,
+      "word": "已经开始算哪天洗头了",
+      "onboard_time": 1707308076,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370432,
       "num": 274169,
       "word": "河南一新娘陪嫁999万和法拉利",
@@ -889,14 +953,6 @@
       "onboard_time": 1707235890,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353861,
-      "num": 297435,
-      "word": "已经开始算哪天洗头了",
-      "onboard_time": 1707308076,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 351771,
@@ -979,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320547,
-      "num": 320547,
-      "word": "智能腹股沟",
-      "onboard_time": 1707308131,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
@@ -1008,14 +1056,6 @@
       "word": "梅西日本赛前训练",
       "onboard_time": 1707215911,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 310833,
-      "num": 310833,
-      "word": "日本场上座率",
-      "onboard_time": 1707308555,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -1075,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299851,
+      "num": 299851,
+      "word": "霍启刚说热情被狠狠践踏",
+      "onboard_time": 1707187469,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292834,
       "num": 292834,
       "word": "河南卫视龙年春晚",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1707271711,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280359,
-      "num": 280359,
-      "word": "日本核污染水净化装置泄漏",
-      "onboard_time": 1707307655,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 277821,
@@ -1283,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243036,
-      "num": 243036,
-      "word": "杨紫文笔",
-      "onboard_time": 1707308972,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240422,
       "num": 240422,
       "word": "A股成交额突破万亿元",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1707291029,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230656,
-      "num": 230656,
-      "word": "杨幂唐装",
-      "onboard_time": 1707308674,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 227987,
@@ -1747,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191858,
+      "num": 191858,
+      "word": "杨紫长文告别黄瀛子",
+      "onboard_time": 1707308793,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191650,
       "num": 191650,
       "word": "杨紫升key",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1707274890,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188413,
+      "num": 188413,
+      "word": "河南春晚特效",
+      "onboard_time": 1707309634,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188038,
@@ -1931,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175764,
+      "num": 175764,
+      "word": "林亦扬殷果亲出声了",
+      "onboard_time": 1707309213,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175751,
       "num": 175751,
       "word": "e人的升级版是过年e人",
@@ -2051,14 +2099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167555,
-      "num": 167555,
-      "word": "霍启刚说热情被狠狠践踏",
-      "onboard_time": 1707187469,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166699,
       "num": 166699,
       "word": "gidle猜中文歌",
@@ -2083,14 +2123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165968,
-      "num": 165968,
-      "word": "杨紫长文告别黄瀛子",
-      "onboard_time": 1707308793,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164490,
       "num": 164490,
       "word": "亚洲杯半决赛",
@@ -2107,12 +2139,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161790,
+      "num": 161790,
+      "word": "吴魏独家爆料林亦扬",
+      "onboard_time": 1707309516,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161720,
       "num": 161720,
       "word": "和陪伴23年的姐妹一起领证了",
       "onboard_time": 1707289287,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "一些四川人阴阳怪气的证据",
+      "onboard_time": 1707309035,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 161307,
@@ -2137,6 +2185,14 @@
       "onboard_time": 1707307891,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "90后老板整顿年会",
+      "onboard_time": 1707309575,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160189,
@@ -2243,6 +2299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150049,
+      "num": 150049,
+      "word": "遇到了高中喜欢的人",
+      "onboard_time": 1707309756,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149641,
       "num": 149641,
       "word": "东北搓澡科普教学",
@@ -2273,6 +2337,14 @@
       "onboard_time": 1707302012,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147911,
+      "num": 147911,
+      "word": "没及时回消息被学长挂到朋友圈",
+      "onboard_time": 1707309634,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 146933,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1707306754,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134915,
+      "num": 134915,
+      "word": "龙行大运祝福壁纸",
+      "onboard_time": 1707309693,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 134827,
@@ -2931,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35727,
+      "num": 486373,
+      "word": "王嘉尔空降派红包",
+      "onboard_time": 1707301170,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 32336,
       "num": 234040,
       "word": "在蛋仔岛看家有儿女",
@@ -2945,14 +3033,6 @@
       "onboard_time": 1707278430,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26291,
-      "num": 347097,
-      "word": "王嘉尔空降派红包",
-      "onboard_time": 1707301170,
-      "rank": 49,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 22261,

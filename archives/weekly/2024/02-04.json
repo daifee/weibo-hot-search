@@ -1,10 +1,10 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707308995312,
+  "endTime": 1707309930523,
   "band_list": [
     {
-      "raw_hot": 10457854,
-      "num": 10457854,
+      "raw_hot": 10841679,
+      "num": 10841679,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1967028,
-      "num": 364597,
+      "num": 583189,
       "word": "四川梅西",
       "onboard_time": 1707302313,
       "rank": 10,
@@ -707,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1086248,
+      "num": 1086248,
+      "word": "杨幂唐装",
+      "onboard_time": 1707308674,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1077437,
       "num": 926420,
       "word": "因为彩礼我和相恋8年的男友分手了",
@@ -801,6 +809,14 @@
       "onboard_time": 1707202170,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1005161,
+      "num": 1005161,
+      "word": "苏醒",
+      "onboard_time": 1707309153,
+      "rank": 5,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 996510,
@@ -1275,6 +1291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 792262,
+      "num": 792262,
+      "word": "霍启刚再发长文",
+      "onboard_time": 1707309875,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 790362,
       "num": 790362,
       "word": "梅西日本行",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1707294629,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691265,
+      "num": 691265,
+      "word": "日本场上座率",
+      "onboard_time": 1707308555,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 691004,
@@ -2003,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 580989,
+      "num": 580989,
+      "word": "张雪峰称不要试图说教年轻人消费",
+      "onboard_time": 1707307476,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579021,
       "num": 579021,
       "word": "重庆漫展小孩",
@@ -2228,7 +2268,7 @@
     },
     {
       "raw_hot": 541044,
-      "num": 364521,
+      "num": 479340,
       "word": "蓝盈莹和妈妈聊天记录",
       "onboard_time": 1707306094,
       "rank": 11,
@@ -2273,14 +2313,6 @@
       "onboard_time": 1707201869,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 535141,
-      "num": 535141,
-      "word": "张雪峰称不要试图说教年轻人消费",
-      "onboard_time": 1707307476,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530301,
@@ -2515,6 +2547,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 494880,
+      "num": 494880,
+      "word": "杨紫文笔",
+      "onboard_time": 1707308972,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 493021,
       "num": 493021,
       "word": "日本球迷担心梅西不出场",
@@ -2649,6 +2689,14 @@
       "onboard_time": 1706966072,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467127,
+      "num": 467127,
+      "word": "智能腹股沟",
+      "onboard_time": 1707308131,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 465560,
@@ -3099,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401493,
+      "num": 401493,
+      "word": "日本核污染水净化装置泄漏",
+      "onboard_time": 1707307655,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 401365,
       "num": 341534,
       "word": "当我得知老公曾经是校草",
@@ -3299,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374857,
+      "num": 346890,
+      "word": "已经开始算哪天洗头了",
+      "onboard_time": 1707308076,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374587,
       "num": 374587,
       "word": "证监会一日内连发三文",
@@ -3489,14 +3553,6 @@
       "onboard_time": 1707226294,
       "rank": 38,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 353861,
-      "num": 297435,
-      "word": "已经开始算哪天洗头了",
-      "onboard_time": 1707308076,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 352047,
@@ -3739,14 +3795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320547,
-      "num": 320547,
-      "word": "智能腹股沟",
-      "onboard_time": 1707308131,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
@@ -3871,14 +3919,6 @@
       "num": 312208,
       "word": "库里60分",
       "onboard_time": 1707017011,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 310833,
-      "num": 310833,
-      "word": "日本场上座率",
-      "onboard_time": 1707308555,
       "rank": 18,
       "category": "体育"
     },
@@ -4249,14 +4289,6 @@
       "onboard_time": 1707048571,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 280359,
-      "num": 280359,
-      "word": "日本核污染水净化装置泄漏",
-      "onboard_time": 1707307655,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 280162,
@@ -4971,14 +5003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 243036,
-      "num": 243036,
-      "word": "杨紫文笔",
-      "onboard_time": 1707308972,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242693,
       "num": 242693,
       "word": "要久久刀",
@@ -5320,14 +5344,6 @@
       "word": "小品套娃 内涵平台",
       "onboard_time": 1706975610,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 230656,
-      "num": 230656,
-      "word": "杨幂唐装",
-      "onboard_time": 1707308674,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -6923,6 +6939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191858,
+      "num": 191858,
+      "word": "杨紫长文告别黄瀛子",
+      "onboard_time": 1707308793,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191650,
       "num": 191650,
       "word": "杨紫升key",
@@ -7057,6 +7081,14 @@
       "onboard_time": 1707218487,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188413,
+      "num": 188413,
+      "word": "河南春晚特效",
+      "onboard_time": 1707309634,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188244,
@@ -7523,6 +7555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175764,
+      "num": 175764,
+      "word": "林亦扬殷果亲出声了",
+      "onboard_time": 1707309213,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175751,
       "num": 175751,
       "word": "e人的升级版是过年e人",
@@ -7987,14 +8027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165968,
-      "num": 165968,
-      "word": "杨紫长文告别黄瀛子",
-      "onboard_time": 1707308793,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165344,
       "num": 165344,
       "word": "以闪亮之名捏脸更新",
@@ -8099,6 +8131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161790,
+      "num": 161790,
+      "word": "吴魏独家爆料林亦扬",
+      "onboard_time": 1707309516,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161782,
       "num": 161782,
       "word": "车主自驾回乡1小时的路开了11小时",
@@ -8113,6 +8153,14 @@
       "onboard_time": 1707289287,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "一些四川人阴阳怪气的证据",
+      "onboard_time": 1707309035,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 161580,
@@ -8193,6 +8241,14 @@
       "onboard_time": 1707026791,
       "rank": 35,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "90后老板整顿年会",
+      "onboard_time": 1707309575,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160427,
@@ -8627,6 +8683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150049,
+      "num": 150049,
+      "word": "遇到了高中喜欢的人",
+      "onboard_time": 1707309756,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149845,
       "num": 149845,
       "word": "中华田园犬是我一生的笑点",
@@ -8737,6 +8801,14 @@
       "onboard_time": 1707200192,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147911,
+      "num": 147911,
+      "word": "没及时回消息被学长挂到朋友圈",
+      "onboard_time": 1707309634,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 147358,
@@ -9393,6 +9465,14 @@
       "onboard_time": 1707025591,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134915,
+      "num": 134915,
+      "word": "龙行大运祝福壁纸",
+      "onboard_time": 1707309693,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 134827,
@@ -11307,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35727,
+      "num": 486373,
+      "word": "王嘉尔空降派红包",
+      "onboard_time": 1707301170,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 35543,
       "num": 35543,
       "word": "元气森林创始人称要向华为学习",
@@ -11457,14 +11545,6 @@
       "onboard_time": 1707155482,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26291,
-      "num": 347097,
-      "word": "王嘉尔空降派红包",
-      "onboard_time": 1707301170,
-      "rank": 49,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 25992,
