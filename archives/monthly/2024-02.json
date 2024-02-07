@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707294871511,
+  "endTime": 1707297451675,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -825,6 +825,14 @@
       "onboard_time": 1706853213,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1301966,
+      "num": 1301966,
+      "word": "梅西日本行替补",
+      "onboard_time": 1707296251,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1301722,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781943,
+      "num": 781943,
+      "word": "华晨宇坚持11年的生日仪式感",
+      "onboard_time": 1707293672,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781246,
       "num": 781246,
       "word": "教育局回应教务处老师被曝性骚扰女生",
@@ -2651,6 +2667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 693334,
+      "num": 693334,
+      "word": "央视拍的关晓彤",
+      "onboard_time": 1707294629,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691972,
       "num": 691972,
       "word": "小品搭子 难看",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1707014370,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 667181,
+      "num": 667181,
+      "word": "优酷70余部剧集拍摄制作中",
+      "onboard_time": 1707295054,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 666165,
@@ -3819,12 +3851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539210,
+      "num": 532693,
+      "word": "中央领导同志看望老同志",
+      "onboard_time": 1707295473,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 537880,
       "num": 537880,
       "word": "Selina产后代言收入达百万",
       "onboard_time": 1706792373,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536876,
+      "num": 536876,
+      "word": "胡锡进 梅西在香港的表现难以接受",
+      "onboard_time": 1707295113,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 536666,
@@ -4259,6 +4307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 491648,
+      "num": 491648,
+      "word": "普通话羞耻症",
+      "onboard_time": 1707294870,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491345,
       "num": 447812,
       "word": "齐思钧赵昭仪芒果年会主持人",
@@ -4537,14 +4593,6 @@
       "onboard_time": 1706716950,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 467511,
-      "num": 467511,
-      "word": "华晨宇坚持11年的生日仪式感",
-      "onboard_time": 1707293672,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 465560,
@@ -5059,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423080,
+      "num": 423080,
+      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+      "onboard_time": 1707289771,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422568,
       "num": 210873,
       "word": "邓男子魔术吓死我了",
@@ -5273,14 +5329,6 @@
       "onboard_time": 1706759070,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 405793,
-      "num": 405793,
-      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
-      "onboard_time": 1707289771,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405136,
@@ -5788,7 +5836,7 @@
     },
     {
       "raw_hot": 370432,
-      "num": 252783,
+      "num": 274169,
       "word": "河南一新娘陪嫁999万和法拉利",
       "onboard_time": 1707291273,
       "rank": 21,
@@ -6753,6 +6801,14 @@
       "onboard_time": 1706793154,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309304,
+      "num": 309304,
+      "word": "魏大勋 电子老公",
+      "onboard_time": 1707296430,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 308889,
@@ -8067,6 +8123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 256855,
+      "num": 245160,
+      "word": "胡锡进称梅西污点已经留下",
+      "onboard_time": 1707295113,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256386,
       "num": 256386,
       "word": "上班后看小说真的代入不了",
@@ -8299,20 +8363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249895,
-      "num": 249895,
-      "word": "央视拍的关晓彤",
-      "onboard_time": 1707294629,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249541,
       "num": 249541,
       "word": "LNG 幽默",
       "onboard_time": 1706790211,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248483,
+      "num": 248483,
+      "word": "已经有一批回家的人又逃回去了",
+      "onboard_time": 1707295772,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 248350,
@@ -10131,6 +10195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209226,
+      "num": 209226,
+      "word": "年前这几天大概率是最舒服的",
+      "onboard_time": 1707295290,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209081,
       "num": 209081,
       "word": "苏醒爸爸的综艺感太强了",
@@ -10921,6 +10993,14 @@
       "onboard_time": 1706843191,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200798,
+      "num": 200798,
+      "word": "王一博2023总结",
+      "onboard_time": 1707297030,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 200383,
@@ -11739,6 +11819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190178,
+      "num": 190178,
+      "word": "年轻人为什么开始断亲了",
+      "onboard_time": 1707295650,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190127,
       "num": 190127,
       "word": "A股超200股跌停",
@@ -12153,6 +12241,14 @@
       "onboard_time": 1707220711,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185407,
+      "num": 209657,
+      "word": "大学生过年在电影院当NPC",
+      "onboard_time": 1707297030,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185364,
@@ -13219,6 +13315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169801,
+      "num": 169801,
+      "word": "逆水寒 繁光疏华",
+      "onboard_time": 1707296190,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169738,
       "num": 169738,
       "word": "AG对战VG",
@@ -13273,6 +13377,14 @@
       "onboard_time": 1707227612,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169347,
+      "num": 169347,
+      "word": "王者春节发癫版宣传片",
+      "onboard_time": 1707297089,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 169314,
@@ -13376,6 +13488,14 @@
       "word": "张艺谋 真诚",
       "onboard_time": 1706959170,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 167859,
+      "num": 167859,
+      "word": "第二十条首映礼官宣",
+      "onboard_time": 1707296071,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -14603,6 +14723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150598,
+      "num": 150598,
+      "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
+      "onboard_time": 1707295591,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150423,
       "num": 150423,
       "word": "在暴雪时分 暧昧感",
@@ -14897,6 +15025,14 @@
       "onboard_time": 1707130891,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146637,
+      "num": 146637,
+      "word": "年味儿从打年糕开始",
+      "onboard_time": 1707296972,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 146635,
@@ -15320,6 +15456,14 @@
       "word": "扒泥世家",
       "onboard_time": 1706973812,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141200,
+      "num": 141200,
+      "word": "回村前vs回村后",
+      "onboard_time": 1707296791,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -16251,6 +16395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131405,
+      "num": 131405,
+      "word": "杜甫草堂千株红梅凌寒开放",
+      "onboard_time": 1707296430,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131311,
       "num": 131311,
       "word": "王安宇破碎感",
@@ -16729,6 +16881,14 @@
       "onboard_time": 1707099931,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125712,
+      "num": 492508,
+      "word": "小孩姐帮奶奶拆出1888元大红包",
+      "onboard_time": 1707294391,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125599,
@@ -18371,14 +18531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92283,
-      "num": 147063,
-      "word": "小孩姐帮奶奶拆出1888元大红包",
-      "onboard_time": 1707294391,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92222,
       "num": 62351,
       "word": "恭王府偶遇眉姐姐温太医",
@@ -18936,6 +19088,14 @@
       "word": "拍出大红大紫的新年氛围感",
       "onboard_time": 1706945249,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60316,
+      "num": 1080307,
+      "word": "直击2024春运",
+      "onboard_time": 1707296312,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
