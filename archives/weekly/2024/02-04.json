@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707298441818,
+  "endTime": 1707301108690,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -9,6 +9,14 @@
       "onboard_time": 1707192210,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5611704,
+      "num": 5611704,
+      "word": "梅西发博回应",
+      "onboard_time": 1707300511,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4033714,
@@ -35,11 +43,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3317678,
+      "num": 3317678,
+      "word": "易会满被免",
+      "onboard_time": 1707298112,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2920396,
       "num": 2920396,
       "word": "霍启刚说热情被狠狠践踏",
       "onboard_time": 1707187469,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2853604,
+      "num": 1760825,
+      "word": "梅西日本行替补",
+      "onboard_time": 1707296251,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -217,14 +241,6 @@
       "onboard_time": 1707130652,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1760825,
-      "num": 1760825,
-      "word": "梅西日本行替补",
-      "onboard_time": 1707296251,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1737644,
@@ -569,14 +585,6 @@
       "onboard_time": 1707219812,
       "rank": 1,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 1126722,
-      "num": 1126722,
-      "word": "易会满被免",
-      "onboard_time": 1707298112,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1125559,
@@ -2355,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502414,
+      "num": 502414,
+      "word": "6.8亿巨奖或需缴1.36亿税",
+      "onboard_time": 1707298950,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501646,
       "num": 501646,
       "word": "本周狗屎运最旺的星座",
@@ -3091,6 +3107,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 389757,
+      "num": 726146,
+      "word": "网友街头发现给盲人的烟花",
+      "onboard_time": 1707299131,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388165,
       "num": 388165,
       "word": "导演让吴磊赵今麦亲嘴",
@@ -3523,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328230,
+      "num": 541713,
+      "word": "父母去世新娘从堂哥家风光出嫁",
+      "onboard_time": 1707299430,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327846,
       "num": 327846,
       "word": "姆巴佩下赛季加盟皇马",
@@ -3753,6 +3785,14 @@
       "onboard_time": 1707100651,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301650,
+      "num": 301650,
+      "word": "吴磊赵今麦互拍",
+      "onboard_time": 1707297694,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 301387,
@@ -4363,6 +4403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261047,
+      "num": 261047,
+      "word": "海南98人涉黑案第一被告人因病死亡",
+      "onboard_time": 1707299730,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260467,
       "num": 260467,
       "word": "证监会暂停新增转融券规模",
@@ -4529,14 +4577,6 @@
       "onboard_time": 1707126632,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 251668,
-      "num": 251668,
-      "word": "吴磊赵今麦互拍",
-      "onboard_time": 1707297694,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 251312,
@@ -5115,6 +5155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 226504,
+      "num": 222026,
+      "word": "管泽元锐评梅西事件",
+      "onboard_time": 1707300692,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226192,
       "num": 226192,
       "word": "被拐34年外卖小哥感念嫂子的一饭之恩",
@@ -5153,6 +5201,14 @@
       "onboard_time": 1707091469,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224885,
+      "num": 224885,
+      "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
+      "onboard_time": 1707295591,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224750,
@@ -6139,6 +6195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201699,
+      "num": 201699,
+      "word": "95后小伙回村4年给全村发工资",
+      "onboard_time": 1707299788,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 201674,
       "num": 201674,
       "word": "春晚第五次联排明星阵容",
@@ -6201,14 +6265,6 @@
       "onboard_time": 1707261502,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 199256,
-      "num": 199256,
-      "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
-      "onboard_time": 1707295591,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199067,
@@ -6305,6 +6361,14 @@
       "onboard_time": 1707206731,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196923,
+      "num": 196923,
+      "word": "独居最被低估的好处",
+      "onboard_time": 1707299970,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 196423,
@@ -6531,6 +6595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192642,
+      "num": 192642,
+      "word": "年轻人为什么开始断亲了",
+      "onboard_time": 1707295650,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192581,
       "num": 192581,
       "word": "秦世纪",
@@ -6579,6 +6651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191650,
+      "num": 191650,
+      "word": "杨紫升key",
+      "onboard_time": 1707298711,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191225,
       "num": 191225,
       "word": "乙游最高的男人出现了",
@@ -6609,14 +6689,6 @@
       "onboard_time": 1707138212,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 190178,
-      "num": 190178,
-      "word": "年轻人为什么开始断亲了",
-      "onboard_time": 1707295650,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 189952,
@@ -7683,6 +7755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162233,
+      "num": 162233,
+      "word": "iG开场整活",
+      "onboard_time": 1707300692,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161782,
       "num": 161782,
       "word": "车主自驾回乡1小时的路开了11小时",
@@ -8051,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153684,
+      "num": 153684,
+      "word": "王者荣耀限时点券",
+      "onboard_time": 1707300210,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153682,
       "num": 990110,
       "word": "2023级熊猫宝宝集体拜年",
@@ -8251,6 +8339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148643,
+      "num": 148643,
+      "word": "老外画的这些中国龙绝了",
+      "onboard_time": 1707300930,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148465,
       "num": 148465,
       "word": "BLG战胜LNG",
@@ -8425,6 +8521,14 @@
       "onboard_time": 1707132751,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144704,
+      "num": 144704,
+      "word": "流水线女工写论文研究就业难",
+      "onboard_time": 1707300029,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 144648,
@@ -9217,6 +9321,14 @@
       "onboard_time": 1707111990,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128610,
+      "num": 128610,
+      "word": "最小众的洗澡方式",
+      "onboard_time": 1707300271,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 128532,
@@ -10244,7 +10356,7 @@
     },
     {
       "raw_hot": 80120,
-      "num": 1130416,
+      "num": 1204657,
       "word": "直击2024春运",
       "onboard_time": 1707296312,
       "rank": 2,
@@ -11186,6 +11298,9 @@
     },
     {
       "word": "#读懂总书记的深深牵挂#"
+    },
+    {
+      "word": "#团圆年#"
     }
   ]
 }
