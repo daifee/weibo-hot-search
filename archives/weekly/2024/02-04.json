@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707284032340,
+  "endTime": 1707286882965,
   "band_list": [
     {
       "raw_hot": 7173131,
@@ -249,6 +249,14 @@
       "onboard_time": 1707107493,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1627400,
+      "num": 1627400,
+      "word": "6.8亿巨奖当事人为28岁小伙",
+      "onboard_time": 1707284073,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1607146,
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854228,
+      "num": 854228,
+      "word": "花儿与少年 再见不再见",
+      "onboard_time": 1707283712,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 851390,
       "num": 851390,
       "word": "王者荣耀皮肤雨",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1707270570,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689871,
+      "num": 689871,
+      "word": "春晚最后一次联排",
+      "onboard_time": 1707284970,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 683997,
@@ -2017,6 +2041,14 @@
       "onboard_time": 1707145054,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 541098,
+      "num": 541098,
+      "word": "上海银行年终奖为零过节费还要倒扣",
+      "onboard_time": 1707284429,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540182,
@@ -2787,6 +2819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 399839,
+      "num": 399839,
+      "word": "男子宴席收到工作信息后醉酒捅死领导",
+      "onboard_time": 1707282930,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399088,
       "num": 399088,
       "word": "尔滨游客到上海后狂贴66个暖宝宝",
@@ -3067,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359309,
+      "num": 359309,
+      "word": "梅西为何到了日本才回应缺席比赛",
+      "onboard_time": 1707285749,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357601,
       "num": 357601,
       "word": "张真源荣耀王者61星",
@@ -3201,6 +3249,14 @@
       "onboard_time": 1707278792,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 335727,
+      "num": 335727,
+      "word": "感觉小狼崽要碎了",
+      "onboard_time": 1707283891,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 332904,
@@ -3521,6 +3577,14 @@
       "onboard_time": 1707225213,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299969,
+      "num": 299969,
+      "word": "胡歌 上海团拜会",
+      "onboard_time": 1707285329,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 298608,
@@ -4051,6 +4115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262854,
+      "num": 262854,
+      "word": "物理教师反映每天一节体育课导致无法完成教学",
+      "onboard_time": 1707285932,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262379,
       "num": 262379,
       "word": "女子拍照后故意损毁雪人",
@@ -4281,14 +4353,6 @@
       "onboard_time": 1707102812,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 248365,
-      "num": 248365,
-      "word": "花儿与少年 再见不再见",
-      "onboard_time": 1707283712,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 247267,
@@ -4649,14 +4713,6 @@
       "onboard_time": 1706967214,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234141,
-      "num": 234141,
-      "word": "男子宴席收到工作信息后醉酒捅死领导",
-      "onboard_time": 1707282930,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233273,
@@ -5465,6 +5521,14 @@
       "onboard_time": 1706976028,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206783,
+      "num": 206783,
+      "word": "公婆自有公婆福 没有公婆嬷享福",
+      "onboard_time": 1707285091,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 206585,
@@ -6979,6 +7043,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166699,
+      "num": 166699,
+      "word": "gidle猜中文歌",
+      "onboard_time": 1707284132,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 166631,
+      "num": 166631,
+      "word": "终于有人心疼尔滨本地人了",
+      "onboard_time": 1707286412,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166525,
       "num": 166525,
       "word": "球队回应梅西未出席表演赛",
@@ -7379,6 +7459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156052,
+      "num": 156052,
+      "word": "中国抗癌协会的logo有螃蟹",
+      "onboard_time": 1707286170,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155539,
       "num": 155539,
       "word": "时代少年团新中式",
@@ -7409,14 +7497,6 @@
       "onboard_time": 1707195631,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155303,
-      "num": 155303,
-      "word": "感觉小狼崽要碎了",
-      "onboard_time": 1707283891,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 155196,
@@ -8539,6 +8619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128573,
+      "num": 128573,
+      "word": "爆改张大大",
+      "onboard_time": 1707286770,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128532,
       "num": 128532,
       "word": "iOS17.4正式版",
@@ -8649,6 +8737,14 @@
       "onboard_time": 1707100411,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126509,
+      "num": 126509,
+      "word": "家乡问卷调查",
+      "onboard_time": 1707286709,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126332,
@@ -8841,6 +8937,14 @@
       "onboard_time": 1707235829,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120557,
+      "num": 120557,
+      "word": "花少5心跳问答",
+      "onboard_time": 1707286532,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120334,
@@ -9948,7 +10052,7 @@
     },
     {
       "raw_hot": 44712,
-      "num": 150069,
+      "num": 188994,
       "word": "元梦新春派对没你不行",
       "onboard_time": 1707283771,
       "rank": 41,

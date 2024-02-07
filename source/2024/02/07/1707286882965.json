@@ -1,0 +1,410 @@
+{
+  "runTime": 1707286882965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1627400,
+        "num": 1627400,
+        "word": "6.8亿巨奖当事人为28岁小伙",
+        "onboard_time": 1707284073,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589631,
+        "num": 1589631,
+        "word": "网红张美丽被逮捕",
+        "onboard_time": 1707279692,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 61912,
+        "num": 1045694,
+        "word": "春联文化知识点",
+        "onboard_time": 1707275249,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854228,
+        "num": 854228,
+        "word": "花儿与少年 再见不再见",
+        "onboard_time": 1707283712,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836944,
+        "num": 836944,
+        "word": "迈阿密国际回应梅西缺阵",
+        "onboard_time": 1707282272,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711668,
+        "num": 711668,
+        "word": "9岁小糯米近照",
+        "onboard_time": 1707263848,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 689871,
+        "num": 689871,
+        "word": "春晚最后一次联排",
+        "onboard_time": 1707284970,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653096,
+        "num": 653096,
+        "word": "刘丹说小糯米每天上学前要挑衣配鞋",
+        "onboard_time": 1707278490,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541098,
+        "num": 541098,
+        "word": "上海银行年终奖为零过节费还要倒扣",
+        "onboard_time": 1707284429,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537557,
+        "num": 537557,
+        "word": "霍启刚直言梅西没有尊重球迷",
+        "onboard_time": 1707240923,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501474,
+        "num": 501474,
+        "word": "有一部分人开始断亲了",
+        "onboard_time": 1707274531,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466495,
+        "num": 466495,
+        "word": "贵州双色球6.8亿巨奖系一人独中",
+        "onboard_time": 1707281791,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410695,
+        "num": 410695,
+        "word": "大雪封路村民15元方便面被批评贵",
+        "onboard_time": 1707280051,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399839,
+        "num": 399839,
+        "word": "男子宴席收到工作信息后醉酒捅死领导",
+        "onboard_time": 1707282930,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384645,
+        "num": 384645,
+        "word": "贾玲剪影",
+        "onboard_time": 1707274711,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359309,
+        "num": 359309,
+        "word": "梅西为何到了日本才回应缺席比赛",
+        "onboard_time": 1707285749,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350114,
+        "num": 350114,
+        "word": "创造营2019赤子练习室",
+        "onboard_time": 1707282272,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335727,
+        "num": 335727,
+        "word": "感觉小狼崽要碎了",
+        "onboard_time": 1707283891,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316575,
+        "num": 316575,
+        "word": "贝克汉姆社交账号评论区被球迷刷屏",
+        "onboard_time": 1707277773,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326932,
+        "num": 313640,
+        "word": "热辣滚烫贾玲张小斐打戏",
+        "onboard_time": 1707281010,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307220,
+        "num": 307220,
+        "word": "6.8亿彩票",
+        "onboard_time": 1707276331,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 453978,
+        "num": 304927,
+        "word": "梅西日本",
+        "onboard_time": 1707278071,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299969,
+        "num": 299969,
+        "word": "胡歌 上海团拜会",
+        "onboard_time": 1707285329,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262854,
+        "num": 262854,
+        "word": "物理教师反映每天一节体育课导致无法完成教学",
+        "onboard_time": 1707285932,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251063,
+        "num": 251063,
+        "word": "王者小龙糕",
+        "onboard_time": 1707272309,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230325,
+        "num": 230325,
+        "word": "字节红包 减半",
+        "onboard_time": 1707276752,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216578,
+        "num": 216578,
+        "word": "梅西握手环节双手插兜躲着走",
+        "onboard_time": 1707277830,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206783,
+        "num": 206783,
+        "word": "公婆自有公婆福 没有公婆嬷享福",
+        "onboard_time": 1707285091,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201377,
+        "num": 201377,
+        "word": "奶奶的微信永远不会有聊天记录了",
+        "onboard_time": 1707282571,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120142,
+        "num": 189249,
+        "word": "我国成功从美国追索1件被盗文物",
+        "onboard_time": 1707273990,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26733,
+        "num": 188994,
+        "word": "元梦新春派对没你不行",
+        "onboard_time": 1707283771,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 435197,
+        "num": 188978,
+        "word": "日本第一男公关晒与梅西合影",
+        "onboard_time": 1707275071,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188947,
+        "num": 188947,
+        "word": "娜扎丞磊吻戏",
+        "onboard_time": 1707279092,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172530,
+        "num": 172530,
+        "word": "狄仁杰因办签证欠下巨款",
+        "onboard_time": 1707276989,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193681,
+        "num": 172520,
+        "word": "梅西参加日本行欢迎派对",
+        "onboard_time": 1707283050,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171559,
+        "num": 171559,
+        "word": "大S女儿",
+        "onboard_time": 1707269428,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166699,
+        "num": 166699,
+        "word": "gidle猜中文歌",
+        "onboard_time": 1707284132,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175785,
+        "num": 166686,
+        "word": "梅西香港行主办方处理方式不如C罗深圳行",
+        "onboard_time": 1707269311,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166631,
+        "num": 166631,
+        "word": "终于有人心疼尔滨本地人了",
+        "onboard_time": 1707286412,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20548,
+        "num": 161273,
+        "word": "京东春晚大奖竟然还有TA",
+        "onboard_time": 1707278670,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156636,
+        "num": 156636,
+        "word": "美媒下场报道梅西之乱",
+        "onboard_time": 1707260662,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156052,
+        "num": 156052,
+        "word": "中国抗癌协会的logo有螃蟹",
+        "onboard_time": 1707286170,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147075,
+        "num": 147075,
+        "word": "A股逾百股涨停",
+        "onboard_time": 1707278792,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128573,
+        "num": 128573,
+        "word": "爆改张大大",
+        "onboard_time": 1707286770,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128022,
+        "num": 128022,
+        "word": "弟弟这一筷子过于帅了",
+        "onboard_time": 1707275129,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126509,
+        "num": 126509,
+        "word": "家乡问卷调查",
+        "onboard_time": 1707286709,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120557,
+        "num": 120557,
+        "word": "花少5心跳问答",
+        "onboard_time": 1707286532,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110185,
+        "num": 110185,
+        "word": "吃土笋冻最重要的是不能多想",
+        "onboard_time": 1707283352,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108655,
+        "num": 108655,
+        "word": "钟丽缇女儿考拉14岁近照",
+        "onboard_time": 1707263848,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107568,
+        "num": 107568,
+        "word": "张楠辞任抖音CEO",
+        "onboard_time": 1707283168,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春到我家心里倍儿温暖#"
+    }
+  }
+}
