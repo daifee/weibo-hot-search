@@ -1,6 +1,6 @@
 {
   "startTime": 1707236485303,
-  "endTime": 1707290184086,
+  "endTime": 1707291227333,
   "band_list": [
     {
       "raw_hot": 2365521,
@@ -75,20 +75,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1275028,
+      "num": 1275028,
+      "word": "爆改张大大",
+      "onboard_time": 1707286770,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1256429,
       "num": 1256429,
       "word": "狄仁杰因办签证欠下巨款",
       "onboard_time": 1707276989,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1222426,
-      "num": 1222426,
-      "word": "爆改张大大",
-      "onboard_time": 1707286770,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1103827,
@@ -185,6 +185,14 @@
       "onboard_time": 1707273990,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 843425,
+      "num": 843425,
+      "word": "梅西为何到了日本才回应缺席比赛",
+      "onboard_time": 1707285749,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 806894,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579973,
-      "num": 579973,
-      "word": "梅西为何到了日本才回应缺席比赛",
-      "onboard_time": 1707285749,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 578946,
       "num": 578946,
       "word": "杨迪 偷塔",
@@ -464,6 +464,14 @@
       "word": "熊猫疼得想咬人一看是保育员忍住了",
       "onboard_time": 1707232773,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443497,
+      "num": 443497,
+      "word": "川航一航班备降广州机场",
+      "onboard_time": 1707289649,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -595,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349379,
+      "num": 349379,
+      "word": "川航一航班挂出7700紧急代码",
+      "onboard_time": 1707290551,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346908,
       "num": 346908,
       "word": "3款手机同时买机票差价3倍",
@@ -699,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293191,
+      "num": 293191,
+      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
+      "onboard_time": 1707289771,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292508,
       "num": 292508,
       "word": "阴阳师 应声虫",
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283511,
+      "num": 283511,
+      "word": "女子学瑜伽时被老师压断腿",
+      "onboard_time": 1707289771,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283031,
       "num": 283031,
       "word": "智利前总统皮涅拉身亡",
@@ -755,12 +787,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268920,
+      "num": 268920,
+      "word": "在暴雪时分 恋爱脑要长出来了",
+      "onboard_time": 1707289887,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265329,
+      "num": 265329,
+      "word": "突然被八年的朋友表白了",
+      "onboard_time": 1707290612,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264872,
       "num": 213857,
       "word": "坐高铁松弛感",
       "onboard_time": 1707277412,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262707,
+      "num": 262707,
+      "word": "金佳蓝高中毕业照",
+      "onboard_time": 1707289470,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 262379,
@@ -803,20 +859,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235883,
-      "num": 235883,
-      "word": "金佳蓝高中毕业照",
-      "onboard_time": 1707289470,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235802,
       "num": 235802,
       "word": "原来这就是浙江省的省饭啊",
       "onboard_time": 1707254595,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232709,
+      "num": 232709,
+      "word": "狐妖小红娘集数变更",
+      "onboard_time": 1707291029,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227987,
+      "num": 227987,
+      "word": "甲状腺结节发病率可以高达20%",
+      "onboard_time": 1707288569,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227625,
@@ -907,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208620,
-      "num": 208620,
-      "word": "甲状腺结节发病率可以高达20%",
-      "onboard_time": 1707288569,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208146,
       "num": 208146,
       "word": "数百件取暖器急送安徽暴雪乡村",
@@ -995,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200383,
+      "num": 200383,
+      "word": "IU迷你6辑",
+      "onboard_time": 1707290252,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199987,
       "num": 199987,
       "word": "过年为什么要炸东西吃",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1707261019,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195993,
-      "num": 195993,
-      "word": "川航一航班备降广州机场",
-      "onboard_time": 1707289649,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195743,
@@ -1299,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160189,
+      "num": 160189,
+      "word": "世界之外",
+      "onboard_time": 1707290132,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160044,
       "num": 160044,
       "word": "吴磊赵今麦专访",
@@ -1339,20 +1403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155837,
-      "num": 155837,
-      "word": "女子学瑜伽时被老师压断腿",
-      "onboard_time": 1707289771,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155539,
       "num": 155539,
       "word": "时代少年团新中式",
       "onboard_time": 1707283831,
       "rank": 35,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 152763,
+      "num": 152763,
+      "word": "网友调侃邓紫棋上场时间比梅西多",
+      "onboard_time": 1707290070,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 151514,
@@ -1369,14 +1433,6 @@
       "onboard_time": 1707283352,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150082,
-      "num": 150082,
-      "word": "儿子装5个摄像头爸爸抱怨爱情被破坏",
-      "onboard_time": 1707289771,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149641,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1707270813,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 148376,
-      "num": 148376,
-      "word": "在暴雪时分 恋爱脑要长出来了",
-      "onboard_time": 1707289887,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 146933,
@@ -1492,7 +1540,7 @@
     },
     {
       "raw_hot": 141743,
-      "num": 197109,
+      "num": 203396,
       "word": "余承东祝央视新闻遥遥领先",
       "onboard_time": 1707287429,
       "rank": 45,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1707229955,
       "rank": 40,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 138341,
+      "num": 138341,
+      "word": "秦岚评价迪丽热巴",
+      "onboard_time": 1707291091,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 138037,
@@ -1611,28 +1667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126679,
-      "num": 126679,
-      "word": "世界之外",
-      "onboard_time": 1707290132,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 126509,
       "num": 126509,
       "word": "家乡问卷调查",
       "onboard_time": 1707286709,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126173,
-      "num": 126173,
-      "word": "网友调侃邓紫棋上场时间比梅西多",
-      "onboard_time": 1707290070,
-      "rank": 48,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 125357,
@@ -1867,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64613,
+      "num": 971561,
+      "word": "春节氛围从回家开始",
+      "onboard_time": 1707273990,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59354,
       "num": 59354,
       "word": "金莎因为一个MV镜头被海蝶老板看中",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1707283771,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 42428,
-      "num": 971561,
-      "word": "春节氛围从回家开始",
-      "onboard_time": 1707273990,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41318,
