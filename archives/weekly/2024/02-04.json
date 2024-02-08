@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707390844368,
+  "endTime": 1707392044840,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -963,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1033615,
+      "num": 1033615,
+      "word": "墨宝非宝能成为下一个顾漫吗",
+      "onboard_time": 1707387930,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1032938,
       "num": 1032938,
       "word": "迈阿密国际回应梅西缺阵",
@@ -1019,20 +1027,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 986429,
+      "num": 986429,
+      "word": "魏大勋穿大衣 内娱阿加西",
+      "onboard_time": 1707389076,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 982397,
       "num": 982397,
       "word": "王者荣耀 你真是饿了",
       "onboard_time": 1707291870,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 982163,
-      "num": 982163,
-      "word": "墨宝非宝能成为下一个顾漫吗",
-      "onboard_time": 1707387930,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 977671,
@@ -1313,14 +1321,6 @@
       "onboard_time": 1707124951,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 869607,
-      "num": 869607,
-      "word": "魏大勋穿大衣 内娱阿加西",
-      "onboard_time": 1707389076,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 867567,
@@ -1675,6 +1675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 769830,
+      "num": 769830,
+      "word": "张颂文 你心里不也骂了人家几小时",
+      "onboard_time": 1707388053,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769202,
       "num": 769202,
       "word": "梅西香港行主办方处理方式不如C罗深圳行",
@@ -1779,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 742234,
-      "num": 742234,
-      "word": "张颂文 你心里不也骂了人家几小时",
-      "onboard_time": 1707388053,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 741046,
       "num": 741046,
       "word": "从脂肪肝到肝癌只需四步",
@@ -1865,6 +1865,14 @@
       "onboard_time": 1707226415,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 721582,
+      "num": 721582,
+      "word": "霍启刚评论区",
+      "onboard_time": 1707389733,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 720747,
@@ -3099,6 +3107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 495351,
+      "num": 495351,
+      "word": "巴黎奥运会奖牌公布",
+      "onboard_time": 1707390871,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493021,
       "num": 493021,
       "word": "日本球迷担心梅西不出场",
@@ -3907,6 +3923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387514,
+      "num": 1853196,
+      "word": "借出房车卫生间女生用家书回应网友",
+      "onboard_time": 1707386252,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 385088,
       "num": 385088,
       "word": "麻辣烫为什么越来越高级了",
@@ -4179,14 +4203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359702,
-      "num": 1853196,
-      "word": "借出房车卫生间女生用家书回应网友",
-      "onboard_time": 1707386252,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 359016,
       "num": 359016,
       "word": "魏大勋 电子老公",
@@ -4355,6 +4371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 343504,
+      "num": 343504,
+      "word": "孟子义宋装",
+      "onboard_time": 1707389733,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342667,
       "num": 342667,
       "word": "张真源输出第一",
@@ -4395,14 +4419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338720,
-      "num": 338720,
-      "word": "孟子义宋装",
-      "onboard_time": 1707389733,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338044,
       "num": 338044,
       "word": "游本昌芭莎质感大片",
@@ -4425,6 +4441,14 @@
       "onboard_time": 1707034469,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 331082,
+      "num": 331082,
+      "word": "辽视春晚",
+      "onboard_time": 1707390453,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 330848,
@@ -4771,6 +4795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 309299,
+      "num": 309299,
+      "word": "王俊凯 重庆",
+      "onboard_time": 1707391594,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308837,
       "num": 174809,
       "word": "霸王茶姬集卡",
@@ -4963,6 +4995,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 295825,
+      "num": 295825,
+      "word": "李栋旭曾因低谷期想退圈移民",
+      "onboard_time": 1707390631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294884,
       "num": 294884,
       "word": "傅菁新剧演孕妇",
@@ -4985,6 +5025,14 @@
       "onboard_time": 1707189267,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294214,
+      "num": 263813,
+      "word": "孔刘帮李栋旭走出低谷期",
+      "onboard_time": 1707390993,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 294008,
@@ -5499,6 +5547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268717,
+      "num": 268717,
+      "word": "王一博UNIQ时期路演",
+      "onboard_time": 1707389910,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 267609,
       "num": 257899,
       "word": "吴磊赵今麦中戏第一vs北影第一",
@@ -5529,14 +5585,6 @@
       "onboard_time": 1707228933,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264720,
-      "num": 264720,
-      "word": "霍启刚评论区",
-      "onboard_time": 1707389733,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 264384,
@@ -5843,14 +5891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 251894,
-      "num": 251894,
-      "word": "李栋旭曾因低谷期想退圈移民",
-      "onboard_time": 1707390631,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -6017,6 +6057,14 @@
       "onboard_time": 1707202709,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244260,
+      "num": 244260,
+      "word": "川渝春晚",
+      "onboard_time": 1707391053,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 244240,
@@ -6257,6 +6305,14 @@
       "onboard_time": 1707010350,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237260,
+      "num": 237260,
+      "word": "傲慢与偏见 小说鼻祖",
+      "onboard_time": 1707390216,
+      "rank": 35,
+      "category": "读书作家"
     },
     {
       "raw_hot": 237247,
@@ -6755,14 +6811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221839,
-      "num": 221839,
-      "word": "王一博UNIQ时期路演",
-      "onboard_time": 1707389910,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 221326,
       "num": 221326,
       "word": "范志毅谈27年前被6万人骂",
@@ -6801,14 +6849,6 @@
       "onboard_time": 1707125012,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 220505,
-      "num": 220505,
-      "word": "辽视春晚",
-      "onboard_time": 1707390453,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 220205,
@@ -8139,14 +8179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "傲慢与偏见 小说鼻祖",
-      "onboard_time": 1707390216,
-      "rank": 35,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 194900,
       "num": 194900,
       "word": "张碧晨唱第二十条片尾曲",
@@ -9163,6 +9195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173383,
+      "num": 264416,
+      "word": "普京祝中国人民龙年快乐",
+      "onboard_time": 1707390993,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 173351,
       "num": 173351,
       "word": "武庚纪首发预告",
@@ -9481,6 +9521,14 @@
       "onboard_time": 1707056315,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167046,
+      "num": 167046,
+      "word": "中国高端三蹦子出口一辆1.2万欧",
+      "onboard_time": 1707391651,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 166754,
@@ -10241,6 +10289,14 @@
       "onboard_time": 1707125731,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 153492,
+      "num": 153492,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1707392013,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 153450,
@@ -11521,6 +11577,14 @@
       "onboard_time": 1707270510,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132358,
+      "num": 132358,
+      "word": "下一站春晚",
+      "onboard_time": 1707392013,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132347,
@@ -13003,6 +13067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96256,
+      "num": 2150136,
+      "word": "电视春节档年味满满",
+      "onboard_time": 1707384392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96182,
       "num": 96182,
       "word": "黄奕古巨基还珠格格3又有售后了",
@@ -13108,7 +13180,7 @@
     },
     {
       "raw_hot": 86440,
-      "num": 184477,
+      "num": 495756,
       "word": "女篮史上最强应援",
       "onboard_time": 1707390512,
       "rank": 36,
@@ -13161,14 +13233,6 @@
       "onboard_time": 1707342316,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 80362,
-      "num": 2150136,
-      "word": "电视春节档年味满满",
-      "onboard_time": 1707384392,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80214,
@@ -14067,8 +14131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22818,
-      "num": 165939,
+      "raw_hot": 23431,
+      "num": 263862,
       "word": "蛋仔群星祝福好有排面",
       "onboard_time": 1707390571,
       "rank": 39,

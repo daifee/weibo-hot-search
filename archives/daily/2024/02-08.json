@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707390844368,
+  "endTime": 1707392044840,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -187,11 +187,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 982163,
-      "num": 982163,
+      "raw_hot": 1033615,
+      "num": 1033615,
       "word": "墨宝非宝能成为下一个顾漫吗",
       "onboard_time": 1707387930,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 986429,
+      "num": 986429,
+      "word": "魏大勋穿大衣 内娱阿加西",
+      "onboard_time": 1707389076,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -259,14 +267,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 869607,
-      "num": 869607,
-      "word": "魏大勋穿大衣 内娱阿加西",
-      "onboard_time": 1707389076,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 840560,
       "num": 840560,
       "word": "迈阿密主帅称梅西弃赛是团队决定",
@@ -307,6 +307,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 769830,
+      "num": 769830,
+      "word": "张颂文 你心里不也骂了人家几小时",
+      "onboard_time": 1707388053,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763337,
       "num": 763337,
       "word": "AppStore下架库迪APP",
@@ -331,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742234,
-      "num": 742234,
-      "word": "张颂文 你心里不也骂了人家几小时",
-      "onboard_time": 1707388053,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 721582,
+      "num": 721582,
+      "word": "霍启刚评论区",
+      "onboard_time": 1707389733,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 720747,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495351,
+      "num": 495351,
+      "word": "巴黎奥运会奖牌公布",
+      "onboard_time": 1707390871,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470186,
       "num": 298661,
       "word": "梅西向日本球迷告别",
@@ -627,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387514,
+      "num": 1853196,
+      "word": "借出房车卫生间女生用家书回应网友",
+      "onboard_time": 1707386252,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 378716,
       "num": 359740,
       "word": "00后做年夜饭又卖力又敷衍",
@@ -683,14 +707,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 359702,
-      "num": 1853196,
-      "word": "借出房车卫生间女生用家书回应网友",
-      "onboard_time": 1707386252,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 358557,
       "num": 358557,
       "word": "全员加速中定档",
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343504,
+      "num": 343504,
+      "word": "孟子义宋装",
+      "onboard_time": 1707389733,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339951,
       "num": 339951,
       "word": "宝贝这群叔叔阿姨拼了命想救你",
@@ -739,20 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338720,
-      "num": 338720,
-      "word": "孟子义宋装",
-      "onboard_time": 1707389733,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338044,
       "num": 338044,
       "word": "游本昌芭莎质感大片",
       "onboard_time": 1707375991,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 331082,
+      "num": 331082,
+      "word": "辽视春晚",
+      "onboard_time": 1707390453,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 330848,
@@ -827,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 309299,
+      "num": 309299,
+      "word": "王俊凯 重庆",
+      "onboard_time": 1707391594,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308585,
       "num": 308585,
       "word": "杨鸣回归辽宁男篮",
@@ -865,6 +897,22 @@
       "onboard_time": 1707376348,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295825,
+      "num": 295825,
+      "word": "李栋旭曾因低谷期想退圈移民",
+      "onboard_time": 1707390631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294214,
+      "num": 263813,
+      "word": "孔刘帮李栋旭走出低谷期",
+      "onboard_time": 1707390993,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293718,
@@ -931,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264720,
-      "num": 264720,
-      "word": "霍启刚评论区",
-      "onboard_time": 1707389733,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 268717,
+      "num": 268717,
+      "word": "王一博UNIQ时期路演",
+      "onboard_time": 1707389910,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 263332,
@@ -979,20 +1027,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 251894,
-      "num": 251894,
-      "word": "李栋旭曾因低谷期想退圈移民",
-      "onboard_time": 1707390631,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247024,
       "num": 247024,
       "word": "海底捞出男团了",
       "onboard_time": 1707387391,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 244260,
+      "num": 244260,
+      "word": "川渝春晚",
+      "onboard_time": 1707391053,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 244240,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1707384212,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237260,
+      "num": 237260,
+      "word": "傲慢与偏见 小说鼻祖",
+      "onboard_time": 1707390216,
+      "rank": 35,
+      "category": "读书作家"
     },
     {
       "raw_hot": 235943,
@@ -1080,22 +1136,6 @@
       "word": "冯巩 我想死你们了",
       "onboard_time": 1707312394,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221839,
-      "num": 221839,
-      "word": "王一博UNIQ时期路演",
-      "onboard_time": 1707389910,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 220505,
-      "num": 220505,
-      "word": "辽视春晚",
-      "onboard_time": 1707390453,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1315,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "傲慢与偏见 小说鼻祖",
-      "onboard_time": 1707390216,
-      "rank": 35,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 194778,
       "num": 194778,
       "word": "回家过年",
@@ -1411,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173383,
+      "num": 264416,
+      "word": "普京祝中国人民龙年快乐",
+      "onboard_time": 1707390993,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 171191,
       "num": 171191,
       "word": "星穹铁道2.0",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1707307655,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 167046,
+      "num": 167046,
+      "word": "中国高端三蹦子出口一辆1.2万欧",
+      "onboard_time": 1707391651,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 165787,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1707359131,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153492,
+      "num": 153492,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1707392013,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 153181,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1707364595,
       "rank": 40,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 132358,
+      "num": 132358,
+      "word": "下一站春晚",
+      "onboard_time": 1707392013,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132330,
@@ -2211,6 +2275,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96256,
+      "num": 2150136,
+      "word": "电视春节档年味满满",
+      "onboard_time": 1707384392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96182,
       "num": 96182,
       "word": "黄奕古巨基还珠格格3又有售后了",
@@ -2244,7 +2316,7 @@
     },
     {
       "raw_hot": 86440,
-      "num": 184477,
+      "num": 495756,
       "word": "女篮史上最强应援",
       "onboard_time": 1707390512,
       "rank": 36,
@@ -2289,14 +2361,6 @@
       "onboard_time": 1707342316,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 80362,
-      "num": 2150136,
-      "word": "电视春节档年味满满",
-      "onboard_time": 1707384392,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79094,
@@ -2483,8 +2547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22818,
-      "num": 165939,
+      "raw_hot": 23431,
+      "num": 263862,
       "word": "蛋仔群星祝福好有排面",
       "onboard_time": 1707390571,
       "rank": 39,

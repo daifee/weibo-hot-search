@@ -1,0 +1,410 @@
+{
+  "runTime": 1707392044840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1712709,
+        "num": 1712709,
+        "word": "龙不再翻译为dragon而是loong",
+        "onboard_time": 1707383794,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 387514,
+        "num": 1696258,
+        "word": "借出房车卫生间女生用家书回应网友",
+        "onboard_time": 1707386252,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 96256,
+        "num": 1502368,
+        "word": "电视春节档年味满满",
+        "onboard_time": 1707384392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1767897,
+        "num": 1403740,
+        "word": "江浙沪独生女",
+        "onboard_time": 1707386309,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250361,
+        "num": 1348296,
+        "word": "民警女儿蹦蹦跳跳给每一辆警车挂中国结",
+        "onboard_time": 1707385832,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286339,
+        "num": 1286339,
+        "word": "王者荣耀回应梅西皮肤",
+        "onboard_time": 1707386610,
+        "rank": 5,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 97584,
+        "num": 1037746,
+        "word": "爷奶探望3500公里外的戍边新警",
+        "onboard_time": 1707385832,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033615,
+        "num": 1033615,
+        "word": "墨宝非宝能成为下一个顾漫吗",
+        "onboard_time": 1707387930,
+        "rank": 7,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 1166386,
+        "num": 1032413,
+        "word": "中国足协已暂停与阿根廷足协合作",
+        "onboard_time": 1707381092,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 986429,
+        "num": 986429,
+        "word": "魏大勋穿大衣 内娱阿加西",
+        "onboard_time": 1707389076,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1080360,
+        "num": 905628,
+        "word": "梅西惹到港媒真是踢到铁板了",
+        "onboard_time": 1707374130,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769830,
+        "num": 769830,
+        "word": "张颂文 你心里不也骂了人家几小时",
+        "onboard_time": 1707388053,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721582,
+        "num": 721582,
+        "word": "霍启刚评论区",
+        "onboard_time": 1707389733,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702510,
+        "num": 702510,
+        "word": "李佳琦红包",
+        "onboard_time": 1707383550,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 596922,
+        "num": 596922,
+        "word": "霍启刚称梅西事件牵涉重大公众利益",
+        "onboard_time": 1707386610,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497068,
+        "num": 497068,
+        "word": "香港入境处处长回应是否拒绝梅西入境",
+        "onboard_time": 1707387512,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82069,
+        "num": 495756,
+        "word": "女篮史上最强应援",
+        "onboard_time": 1707390512,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495351,
+        "num": 495351,
+        "word": "巴黎奥运会奖牌公布",
+        "onboard_time": 1707390871,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480127,
+        "num": 480127,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377754,
+        "num": 377754,
+        "word": "C罗拜年",
+        "onboard_time": 1707381030,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343504,
+        "num": 343504,
+        "word": "孟子义宋装",
+        "onboard_time": 1707389733,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331082,
+        "num": 331082,
+        "word": "辽视春晚",
+        "onboard_time": 1707390453,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313428,
+        "num": 313428,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309299,
+        "num": 309299,
+        "word": "王俊凯 重庆",
+        "onboard_time": 1707391594,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306518,
+        "num": 306518,
+        "word": "阿根廷3月中国行大概率取消",
+        "onboard_time": 1707367228,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295825,
+        "num": 295825,
+        "word": "李栋旭曾因低谷期想退圈移民",
+        "onboard_time": 1707390631,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289497,
+        "num": 289497,
+        "word": "九重紫官宣阵容",
+        "onboard_time": 1707385651,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268717,
+        "num": 268717,
+        "word": "王一博UNIQ时期路演",
+        "onboard_time": 1707389910,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173383,
+        "num": 264416,
+        "word": "普京祝中国人民龙年快乐",
+        "onboard_time": 1707390993,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23431,
+        "num": 263862,
+        "word": "蛋仔群星祝福好有排面",
+        "onboard_time": 1707390571,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 294214,
+        "num": 263813,
+        "word": "孔刘帮李栋旭走出低谷期",
+        "onboard_time": 1707390993,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263692,
+        "num": 263692,
+        "word": "王者荣耀梅西皮肤",
+        "onboard_time": 1707375810,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 263459,
+        "num": 263459,
+        "word": "小龙糕",
+        "onboard_time": 1707389855,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244260,
+        "num": 244260,
+        "word": "川渝春晚",
+        "onboard_time": 1707391053,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237568,
+        "num": 237568,
+        "word": "00后做年夜饭又卖力又敷衍",
+        "onboard_time": 1707386791,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237260,
+        "num": 237260,
+        "word": "傲慢与偏见 小说鼻祖",
+        "onboard_time": 1707390216,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 233379,
+        "num": 233379,
+        "word": "中国女篮vs新西兰女篮",
+        "onboard_time": 1707389430,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220922,
+        "num": 220922,
+        "word": "海底捞出男团了",
+        "onboard_time": 1707387391,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206286,
+        "num": 206286,
+        "word": "乐华后辈探访王一博",
+        "onboard_time": 1707389674,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195778,
+        "num": 195778,
+        "word": "梅西不是第一次缺席",
+        "onboard_time": 1707378809,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182620,
+        "num": 182620,
+        "word": "梅西日本上场粉丝哭诉无法再维护他",
+        "onboard_time": 1707385109,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168268,
+        "num": 168268,
+        "word": "ENHYPEN百万人抢票",
+        "onboard_time": 1707389250,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167046,
+        "num": 167046,
+        "word": "中国高端三蹦子出口一辆1.2万欧",
+        "onboard_time": 1707391651,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155520,
+        "num": 155520,
+        "word": "王者荣耀",
+        "onboard_time": 1707381148,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153492,
+        "num": 153492,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1707392013,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145769,
+        "num": 145769,
+        "word": "何超莲晒豪宅内景",
+        "onboard_time": 1707377970,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138395,
+        "num": 138395,
+        "word": "AppStore下架库迪APP",
+        "onboard_time": 1707378752,
+        "rank": 46,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 137748,
+        "num": 137748,
+        "word": "短发的韩素希",
+        "onboard_time": 1707379709,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137425,
+        "num": 137425,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132358,
+        "num": 132358,
+        "word": "下一站春晚",
+        "onboard_time": 1707392013,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024春节团拜会举行#"
+    }
+  }
+}
