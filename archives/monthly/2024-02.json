@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707366034074,
+  "endTime": 1707366839521,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1966449,
+      "num": 1844786,
+      "word": "梅西合同",
+      "onboard_time": 1707347241,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1959911,
       "num": 1959911,
       "word": "香港前特首女儿怒斥梅西",
@@ -457,14 +465,6 @@
       "onboard_time": 1706836530,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1844786,
-      "num": 1844786,
-      "word": "梅西合同",
-      "onboard_time": 1707347241,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1837418,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1319472,
+      "num": 1319472,
+      "word": "春晚节目",
+      "onboard_time": 1707348322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1309301,
       "num": 1309301,
       "word": "超4700只个股下跌",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1707021752,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1198694,
-      "num": 1198694,
-      "word": "春晚节目",
-      "onboard_time": 1707348322,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1197827,
@@ -2289,6 +2289,14 @@
       "onboard_time": 1707055534,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 805262,
+      "num": 805262,
+      "word": "5吨多日本核污染水泄漏",
+      "onboard_time": 1707365010,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 802154,
@@ -3907,14 +3915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567492,
-      "num": 567492,
-      "word": "5吨多日本核污染水泄漏",
-      "onboard_time": 1707365010,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 566747,
       "num": 566747,
       "word": "梅西离开香港",
@@ -5507,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426580,
+      "num": 426580,
+      "word": "王嘉尔金智秀热聊",
+      "onboard_time": 1707365371,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425984,
       "num": 425984,
       "word": "被砸车当事人称警方已通报到此为止",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1706946571,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408969,
+      "num": 356679,
+      "word": "回家做美甲被老同学坑了",
+      "onboard_time": 1707363630,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 408642,
@@ -6193,14 +6209,6 @@
       "onboard_time": 1707029067,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382790,
-      "num": 356679,
-      "word": "回家做美甲被老同学坑了",
-      "onboard_time": 1707363630,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 382726,
@@ -6745,14 +6753,6 @@
       "onboard_time": 1707059314,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 354336,
-      "num": 354336,
-      "word": "王嘉尔金智秀热聊",
-      "onboard_time": 1707365371,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 354208,
@@ -7603,6 +7603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306033,
+      "num": 306033,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1707364889,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305863,
       "num": 305863,
       "word": "高至霆 黑月光",
@@ -8097,14 +8105,6 @@
       "onboard_time": 1707199114,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283279,
-      "num": 283279,
-      "word": "腾讯视频9号开放日",
-      "onboard_time": 1707364889,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 283031,
@@ -8795,6 +8795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 261654,
+      "num": 261654,
+      "word": "大侦探",
+      "onboard_time": 1706750012,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261514,
       "num": 261514,
       "word": "妈妈 可是人生不是用来回本的",
@@ -8937,6 +8945,14 @@
       "onboard_time": 1707298411,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257691,
+      "num": 201472,
+      "word": "猫 养孩子是俩人的事",
+      "onboard_time": 1707366510,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 257206,
@@ -9241,14 +9257,6 @@
       "onboard_time": 1707102812,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 250222,
-      "num": 250222,
-      "word": "大侦探",
-      "onboard_time": 1706750012,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 249987,
@@ -13715,6 +13723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 182292,
+      "num": 182292,
+      "word": "公司没人了",
+      "onboard_time": 1707366390,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182182,
       "num": 182182,
       "word": "IU概念照",
@@ -15659,6 +15675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157793,
+      "num": 157793,
+      "word": "里夫斯微信",
+      "onboard_time": 1707365609,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157779,
       "num": 157779,
       "word": "妈妈真的是数着天数催我回家",
@@ -15745,6 +15769,14 @@
       "onboard_time": 1707215370,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156202,
+      "num": 156202,
+      "word": "贵阳一小区消防栓成摆设致老人身亡",
+      "onboard_time": 1707366629,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155727,
@@ -16000,14 +16032,6 @@
       "word": "周琦落选男篮集训名单",
       "onboard_time": 1707318093,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153409,
-      "num": 153409,
-      "word": "里夫斯微信",
-      "onboard_time": 1707365609,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -16611,8 +16635,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146240,
-      "num": 146240,
+      "raw_hot": 146349,
+      "num": 146349,
       "word": "官方通报商家倒卖河南救灾物资",
       "onboard_time": 1707363991,
       "rank": 38,
@@ -16761,6 +16785,14 @@
       "onboard_time": 1707300029,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144665,
+      "num": 144665,
+      "word": "节前车厘子涨价了",
+      "onboard_time": 1707366571,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 144648,
@@ -19467,6 +19499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113736,
+      "num": 113736,
+      "word": "快船vs鹈鹕",
+      "onboard_time": 1707366090,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113713,
       "num": 113713,
       "word": "WB零封XYG",
@@ -20931,6 +20971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65085,
+      "num": 550629,
+      "word": "王者龙年贺岁短片欢乐上线",
+      "onboard_time": 1707364231,
+      "rank": 11,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 64272,
       "num": 477414,
       "word": "千万不要打开UC网友年度榜单",
@@ -20953,14 +21001,6 @@
       "onboard_time": 1707314674,
       "rank": 26,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 63943,
-      "num": 550629,
-      "word": "王者龙年贺岁短片欢乐上线",
-      "onboard_time": 1707364231,
-      "rank": 11,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 63905,
@@ -21619,6 +21659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34431,
+      "num": 237633,
+      "word": "京东春晚1亿份实物好礼已发车",
+      "onboard_time": 1707365250,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34423,
       "num": 129866,
       "word": "悬崖跌落车主称领克给了其第二次生命",
@@ -21865,14 +21913,6 @@
       "onboard_time": 1707211171,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25970,
-      "num": 237633,
-      "word": "京东春晚1亿份实物好礼已发车",
-      "onboard_time": 1707365250,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 25490,
