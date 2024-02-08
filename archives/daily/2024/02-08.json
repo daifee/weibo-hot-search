@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707359625017,
+  "endTime": 1707362315873,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -24,6 +24,14 @@
       "word": "香港特区政府要求合理解释",
       "onboard_time": 1707347060,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1779385,
+      "num": 1779385,
+      "word": "高海宁为理解梅西言论道歉",
+      "onboard_time": 1707358228,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -56,14 +64,6 @@
       "word": "梅西代言白酒品牌方发文称很难过",
       "onboard_time": 1707315396,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 998356,
-      "num": 998356,
-      "word": "高海宁为理解梅西言论道歉",
-      "onboard_time": 1707358228,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1707309153,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 749073,
+      "num": 749073,
+      "word": "00后春节不回家躲相亲",
+      "onboard_time": 1707358228,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720747,
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496603,
+      "num": 370613,
+      "word": "梅西pdf",
+      "onboard_time": 1707361950,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470186,
       "num": 298661,
       "word": "梅西向日本球迷告别",
@@ -307,6 +323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 360983,
+      "num": 295750,
+      "word": "龙王为什么都姓敖",
+      "onboard_time": 1707359428,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 349739,
       "num": 349739,
       "word": "北京明确不安排一线教师寒假值班",
@@ -337,6 +361,22 @@
       "onboard_time": 1707356252,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326635,
+      "num": 326635,
+      "word": "周深去年小兔子今年小龙人",
+      "onboard_time": 1707361110,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308585,
+      "num": 308585,
+      "word": "杨鸣回归辽宁男篮",
+      "onboard_time": 1707359131,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 280997,
@@ -379,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265662,
-      "num": 265662,
-      "word": "00后春节不回家躲相亲",
-      "onboard_time": 1707358228,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255754,
       "num": 255754,
       "word": "或许这就是彩礼存在的真正意义",
@@ -419,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218455,
-      "num": 218455,
-      "word": "杨鸣回归辽宁男篮",
-      "onboard_time": 1707359131,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217255,
       "num": 217255,
       "word": "要久久爱 8s吻戏",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 217228,
-      "num": 198616,
+      "num": 201707,
       "word": "香港消委会及海关接梅西事件投诉超千宗",
       "onboard_time": 1707359255,
       "rank": 30,
@@ -457,6 +481,14 @@
       "onboard_time": 1707353790,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205416,
+      "num": 205416,
+      "word": "这个弟弟真的很奶牛猫",
+      "onboard_time": 1707359489,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 204088,
@@ -483,12 +515,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 201318,
+      "num": 201318,
+      "word": "A股兔年最后一个交易日",
+      "onboard_time": 1707360331,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200708,
       "num": 200708,
       "word": "内娱最爱过年的男团oner",
       "onboard_time": 1707358649,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196585,
+      "num": 196585,
+      "word": "张艺兴来长沙分会场啦",
+      "onboard_time": 1707362250,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 196166,
@@ -507,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192990,
+      "num": 192990,
+      "word": "张真源新歌出渊",
+      "onboard_time": 1707361471,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186727,
       "num": 186727,
       "word": "老小区的安全感来源于她们",
@@ -521,14 +577,6 @@
       "onboard_time": 1707307655,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175144,
-      "num": 175144,
-      "word": "龙王为什么都姓敖",
-      "onboard_time": 1707359428,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 170509,
@@ -555,12 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161800,
-      "num": 161800,
-      "word": "这个弟弟真的很奶牛猫",
-      "onboard_time": 1707359489,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 161920,
+      "num": 161920,
+      "word": "龙的英文翻译",
+      "onboard_time": 1707359255,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 161715,
@@ -569,6 +617,14 @@
       "onboard_time": 1707309213,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157553,
+      "num": 157553,
+      "word": "央视拍的杨幂",
+      "onboard_time": 1707362132,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157160,
@@ -635,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148411,
+      "num": 148411,
+      "word": "龙年开始后气温回升",
+      "onboard_time": 1707361292,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147550,
       "num": 147550,
       "word": "龚俊 一个人演完春晚",
@@ -665,6 +729,14 @@
       "onboard_time": 1707260662,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135838,
+      "num": 135838,
+      "word": "开飞机回家当事人称油耗1小时800元",
+      "onboard_time": 1707361591,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132330,
@@ -715,20 +787,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127827,
-      "num": 127827,
-      "word": "龙的英文翻译",
-      "onboard_time": 1707359255,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126535,
       "num": 126535,
       "word": "要久久爱大结局",
       "onboard_time": 1707304413,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126508,
+      "num": 126508,
+      "word": "春节为父母做的1件事",
+      "onboard_time": 1707361888,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124713,
+      "num": 124713,
+      "word": "1月CPI同比下降0.8%",
+      "onboard_time": 1707361770,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 124696,
@@ -745,6 +825,14 @@
       "onboard_time": 1707312335,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123482,
+      "num": 138873,
+      "word": "过年等的就是这口饺子",
+      "onboard_time": 1707360628,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121694,
@@ -764,7 +852,7 @@
     },
     {
       "raw_hot": 120460,
-      "num": 128602,
+      "num": 290816,
       "word": "海外机场看展车差点误机",
       "onboard_time": 1707359428,
       "rank": 48,
@@ -873,6 +961,14 @@
       "onboard_time": 1707323848,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94131,
+      "num": 204002,
+      "word": "春节回家看老师",
+      "onboard_time": 1707361051,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92023,
@@ -1067,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23745,
+      "num": 1078212,
+      "word": "龙年的年味藏不住了",
+      "onboard_time": 1707362132,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22291,
       "num": 22291,
       "word": "小黑粉回应",
@@ -1105,6 +1209,9 @@
     },
     {
       "word": "#团圆年#"
+    },
+    {
+      "word": "#文化中国团圆年#"
     }
   ]
 }
