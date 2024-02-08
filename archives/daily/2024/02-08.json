@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707383847463,
+  "endTime": 1707384835355,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2720827,
+      "num": 1696230,
+      "word": "中国足协已暂停与阿根廷足协合作",
+      "onboard_time": 1707381092,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2635466,
       "num": 2635466,
       "word": "梅西pdf",
@@ -43,16 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2279980,
-      "num": 1104836,
-      "word": "中国足协已暂停与阿根廷足协合作",
-      "onboard_time": 1707381092,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1983571,
-      "num": 992385,
+      "num": 1313641,
       "word": "中国足协官网删除梅西新闻",
       "onboard_time": 1707378809,
       "rank": 1,
@@ -65,6 +65,14 @@
       "onboard_time": 1707347241,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1908537,
+      "num": 1908537,
+      "word": "李佳琦红包",
+      "onboard_time": 1707383550,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 1779385,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1359200,
+      "num": 1359200,
+      "word": "C罗拜年",
+      "onboard_time": 1707381030,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1330267,
       "num": 926047,
       "word": "男子被堵高速6天5夜吃光年货",
@@ -137,14 +153,6 @@
       "onboard_time": 1707373289,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1118856,
-      "num": 1118856,
-      "word": "C罗拜年",
-      "onboard_time": 1707381030,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1095668,
@@ -307,14 +315,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 677619,
-      "num": 677619,
-      "word": "李佳琦红包",
-      "onboard_time": 1707383550,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 670343,
       "num": 670343,
       "word": "梅西不是第一次缺席",
@@ -361,6 +361,14 @@
       "onboard_time": 1707379709,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 620675,
+      "num": 527628,
+      "word": "龙不再翻译为dragon而是loong",
+      "onboard_time": 1707383794,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 588386,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 320096,
-      "num": 320096,
+      "num": 550081,
       "word": "香港立法会议员要求赛事主办方一周内退款",
       "onboard_time": 1707380550,
       "rank": 18,
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 312075,
-      "num": 195059,
+      "num": 265486,
       "word": "过年不怕三缺一了",
       "onboard_time": 1707382470,
       "rank": 30,
@@ -841,6 +849,14 @@
       "onboard_time": 1707381211,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237527,
+      "num": 237527,
+      "word": "易烊千玺龙年新春祝福",
+      "onboard_time": 1707384212,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 235943,
@@ -1195,6 +1211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 167855,
+      "num": 167855,
+      "word": "大侦探这段太好笑了",
+      "onboard_time": 1707381629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165787,
       "num": 165787,
       "word": "买年货",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1707354330,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155495,
-      "num": 155495,
-      "word": "大侦探这段太好笑了",
-      "onboard_time": 1707381629,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 155320,
@@ -1371,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145660,
+      "num": 145660,
+      "word": "奶奶这不是你的梦中情孙吗",
+      "onboard_time": 1707384150,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145312,
       "num": 145312,
       "word": "节前车厘子涨价了",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1707362430,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139712,
+      "num": 139712,
+      "word": "明明坐着上班为什么还是感觉很累",
+      "onboard_time": 1707379830,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139297,
@@ -1491,12 +1523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132893,
-      "num": 132893,
-      "word": "明明坐着上班为什么还是感觉很累",
-      "onboard_time": 1707379830,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 133884,
+      "num": 133884,
+      "word": "狗狗这一靠太好哭了",
+      "onboard_time": 1707384030,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132562,
@@ -1707,6 +1739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117709,
+      "num": 117709,
+      "word": "汪文斌现场拜年",
+      "onboard_time": 1707384630,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115814,
       "num": 115814,
       "word": "龙年壁纸",
@@ -1771,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107494,
+      "num": 107494,
+      "word": "年夜饭也逃不过预制菜",
+      "onboard_time": 1707384092,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106538,
       "num": 106538,
       "word": "跟拍边防战士记者哭了",
@@ -1827,14 +1875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99373,
-      "num": 99373,
-      "word": "龙不再翻译为dragon而是loong",
-      "onboard_time": 1707383794,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 98056,
       "num": 98056,
       "word": "在暴雪时分集集吻",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1707312934,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96602,
+      "num": 96602,
+      "word": "帕梅拉中国美食探索之旅",
+      "onboard_time": 1707384749,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96566,
@@ -2019,12 +2067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45217,
+      "num": 99276,
+      "word": "山水终相见重逢就是年",
+      "onboard_time": 1707384092,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37357,
       "num": 474187,
       "word": "魏大勋元梦开勋玉米农场开张",
       "onboard_time": 1707368731,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 36779,
+      "num": 1401521,
+      "word": "电视春节档年味满满",
+      "onboard_time": 1707384392,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36615,

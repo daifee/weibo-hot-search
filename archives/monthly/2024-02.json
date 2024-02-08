@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707383847463,
+  "endTime": 1707384835355,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2720827,
+      "num": 1696230,
+      "word": "中国足协已暂停与阿根廷足协合作",
+      "onboard_time": 1707381092,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2635466,
       "num": 2635466,
       "word": "梅西pdf",
@@ -257,14 +265,6 @@
       "onboard_time": 1706853814,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2279980,
-      "num": 1104836,
-      "word": "中国足协已暂停与阿根廷足协合作",
-      "onboard_time": 1707381092,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 2244352,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1983571,
-      "num": 992385,
+      "num": 1313641,
       "word": "中国足协官网删除梅西新闻",
       "onboard_time": 1707378809,
       "rank": 1,
@@ -433,6 +433,14 @@
       "onboard_time": 1706938889,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1908537,
+      "num": 1908537,
+      "word": "李佳琦红包",
+      "onboard_time": 1707383550,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 1897912,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1359200,
+      "num": 1359200,
+      "word": "C罗拜年",
+      "onboard_time": 1707381030,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1350320,
       "num": 1350320,
       "word": "马宁 尺度",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1707101612,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1118856,
-      "num": 1118856,
-      "word": "C罗拜年",
-      "onboard_time": 1707381030,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1113434,
@@ -3179,14 +3187,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 677619,
-      "num": 677619,
-      "word": "李佳琦红包",
-      "onboard_time": 1707383550,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 677375,
       "num": 677375,
       "word": "王力宏回应胜诉",
@@ -3705,6 +3705,14 @@
       "onboard_time": 1706753612,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620675,
+      "num": 527628,
+      "word": "龙不再翻译为dragon而是loong",
+      "onboard_time": 1707383794,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 620160,
@@ -7532,7 +7540,7 @@
     },
     {
       "raw_hot": 320096,
-      "num": 320096,
+      "num": 550081,
       "word": "香港立法会议员要求赛事主办方一周内退款",
       "onboard_time": 1707380550,
       "rank": 18,
@@ -7724,7 +7732,7 @@
     },
     {
       "raw_hot": 312075,
-      "num": 195059,
+      "num": 265486,
       "word": "过年不怕三缺一了",
       "onboard_time": 1707382470,
       "rank": 30,
@@ -9977,6 +9985,14 @@
       "onboard_time": 1706929830,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237527,
+      "num": 237527,
+      "word": "易烊千玺龙年新春祝福",
+      "onboard_time": 1707384212,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 237272,
@@ -15267,6 +15283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167855,
+      "num": 167855,
+      "word": "大侦探这段太好笑了",
+      "onboard_time": 1707381629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167670,
       "num": 167670,
       "word": "JDG对战LNG",
@@ -16275,14 +16299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155495,
-      "num": 155495,
-      "word": "大侦探这段太好笑了",
-      "onboard_time": 1707381629,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155477,
       "num": 155477,
       "word": "开车回家我妈觉得很有面子",
@@ -17195,6 +17211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145660,
+      "num": 145660,
+      "word": "奶奶这不是你的梦中情孙吗",
+      "onboard_time": 1707384150,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145312,
       "num": 145312,
       "word": "节前车厘子涨价了",
@@ -17745,6 +17769,14 @@
       "onboard_time": 1707294572,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139712,
+      "num": 139712,
+      "word": "明明坐着上班为什么还是感觉很累",
+      "onboard_time": 1707379830,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139499,
@@ -18347,6 +18379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133884,
+      "num": 133884,
+      "word": "狗狗这一靠太好哭了",
+      "onboard_time": 1707384030,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133671,
       "num": 133671,
       "word": "百度输入法上线付费VIP",
@@ -18417,14 +18457,6 @@
       "onboard_time": 1706769871,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132893,
-      "num": 132893,
-      "word": "明明坐着上班为什么还是感觉很累",
-      "onboard_time": 1707379830,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 132810,
@@ -19859,6 +19891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117709,
+      "num": 117709,
+      "word": "汪文斌现场拜年",
+      "onboard_time": 1707384630,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117696,
       "num": 117696,
       "word": "陈虹伊clean",
@@ -20587,6 +20627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107494,
+      "num": 107494,
+      "word": "年夜饭也逃不过预制菜",
+      "onboard_time": 1707384092,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107333,
       "num": 189071,
       "word": "贺希宁太强了",
@@ -20899,14 +20947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 99373,
-      "num": 99373,
-      "word": "龙不再翻译为dragon而是loong",
-      "onboard_time": 1707383794,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 99134,
       "num": 99134,
       "word": "属于济南人自己的顶级手办",
@@ -21001,6 +21041,14 @@
       "onboard_time": 1707065425,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96602,
+      "num": 96602,
+      "word": "帕梅拉中国美食探索之旅",
+      "onboard_time": 1707384749,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96329,
@@ -22067,6 +22115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45217,
+      "num": 99276,
+      "word": "山水终相见重逢就是年",
+      "onboard_time": 1707384092,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44764,
       "num": 44764,
       "word": "雷军也玩cosplay",
@@ -22248,6 +22304,14 @@
       "word": "24节气开启新的轮回",
       "onboard_time": 1707002721,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36779,
+      "num": 1401521,
+      "word": "电视春节档年味满满",
+      "onboard_time": 1707384392,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
