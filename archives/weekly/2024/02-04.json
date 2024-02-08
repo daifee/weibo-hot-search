@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707381241879,
+  "endTime": 1707383847463,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -177,6 +177,14 @@
       "onboard_time": 1707103171,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2279980,
+      "num": 1104836,
+      "word": "中国足协已暂停与阿根廷足协合作",
+      "onboard_time": 1707381092,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 2234162,
@@ -785,6 +793,14 @@
       "onboard_time": 1707101612,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1118856,
+      "num": 1118856,
+      "word": "C罗拜年",
+      "onboard_time": 1707381030,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1113434,
@@ -1611,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 763337,
+      "num": 763337,
+      "word": "AppStore下架库迪APP",
+      "onboard_time": 1707378752,
+      "rank": 12,
+      "category": "互联网,美食"
+    },
+    {
       "raw_hot": 762702,
       "num": 762702,
       "word": "杨紫遭换角色反被说不知好歹",
@@ -1955,6 +1979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 677619,
+      "num": 677619,
+      "word": "李佳琦红包",
+      "onboard_time": 1707383550,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 677375,
       "num": 677375,
       "word": "王力宏回应胜诉",
@@ -2001,6 +2033,14 @@
       "onboard_time": 1707090327,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 670343,
+      "num": 670343,
+      "word": "梅西不是第一次缺席",
+      "onboard_time": 1707378809,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 670138,
@@ -2092,7 +2132,7 @@
     },
     {
       "raw_hot": 648907,
-      "num": 648907,
+      "num": 657445,
       "word": "外交部两问日本核污染水泄漏",
       "onboard_time": 1707379409,
       "rank": 9,
@@ -2331,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 600987,
-      "num": 600987,
-      "word": "梅西不是第一次缺席",
-      "onboard_time": 1707378809,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 598602,
       "num": 598602,
       "word": "梅西说不确定能否在日本上场",
@@ -2361,14 +2393,6 @@
       "onboard_time": 1707283891,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 592901,
-      "num": 592901,
-      "word": "AppStore下架库迪APP",
-      "onboard_time": 1707378752,
-      "rank": 12,
-      "category": "互联网,美食"
     },
     {
       "raw_hot": 591243,
@@ -4611,6 +4635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312075,
+      "num": 195059,
+      "word": "过年不怕三缺一了",
+      "onboard_time": 1707382470,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311152,
       "num": 311152,
       "word": "蔡卓妍长文纪念Twins红馆演唱会",
@@ -4697,6 +4729,14 @@
       "onboard_time": 1707373649,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303008,
+      "num": 303008,
+      "word": "宋茜簪花女郎",
+      "onboard_time": 1707380731,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302958,
@@ -5995,6 +6035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238556,
+      "num": 238556,
+      "word": "马宁担任亚洲杯决赛主裁",
+      "onboard_time": 1707381211,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238487,
       "num": 165045,
       "word": "京东一线客服平均涨薪超30%",
@@ -6539,14 +6587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220913,
-      "num": 220913,
-      "word": "宋茜簪花女郎",
-      "onboard_time": 1707380731,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 220781,
       "num": 220781,
       "word": "大唐狄公案",
@@ -6619,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219322,
+      "num": 219322,
+      "word": "身体这5个异常或是肝脏在求救",
+      "onboard_time": 1707379952,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219203,
       "num": 219203,
       "word": "专家称涨跌停板已成机构操纵市场工具",
@@ -6683,6 +6731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217309,
+      "num": 217309,
+      "word": "丑甲",
+      "onboard_time": 1707381272,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 217277,
       "num": 217277,
       "word": "犬夜叉 犬薇发糖",
@@ -6721,6 +6777,14 @@
       "onboard_time": 1707339136,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216413,
+      "num": 216413,
+      "word": "陈赫晒邓超旧照",
+      "onboard_time": 1707383070,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 216409,
@@ -6824,14 +6888,6 @@
       "word": "主办方回应梅西缺赛",
       "onboard_time": 1707102513,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 213994,
-      "num": 184435,
-      "word": "C罗拜年",
-      "onboard_time": 1707381030,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -7465,6 +7521,14 @@
       "onboard_time": 1707189449,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202354,
+      "num": 202354,
+      "word": "A股超200股涨停",
+      "onboard_time": 1707381751,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 201996,
@@ -9323,14 +9387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 164527,
-      "num": 164527,
-      "word": "身体这5个异常或是肝脏在求救",
-      "onboard_time": 1707379952,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 164502,
       "num": 164502,
       "word": "邓紫棋巡演",
@@ -9545,6 +9601,14 @@
       "onboard_time": 1707008193,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160415,
+      "num": 160415,
+      "word": "天塌下来按番位逃生",
+      "onboard_time": 1707381092,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160189,
@@ -9785,6 +9849,14 @@
       "onboard_time": 1707041850,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155495,
+      "num": 155495,
+      "word": "大侦探这段太好笑了",
+      "onboard_time": 1707381629,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 155477,
@@ -10185,14 +10257,6 @@
       "onboard_time": 1707200192,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147629,
-      "num": 147629,
-      "word": "中国足协已暂停与阿根廷足协合作",
-      "onboard_time": 1707381092,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 147550,
@@ -11107,6 +11171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 132893,
+      "num": 132893,
+      "word": "明明坐着上班为什么还是感觉很累",
+      "onboard_time": 1707379830,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132774,
       "num": 132774,
       "word": "不要把压岁钱交给他们",
@@ -11963,14 +12035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118300,
-      "num": 118300,
-      "word": "马宁担任亚洲杯决赛主裁",
-      "onboard_time": 1707381211,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118257,
       "num": 118257,
       "word": "飞驰人生2 满格含腾量",
@@ -12099,14 +12163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114542,
-      "num": 114542,
-      "word": "天塌下来按番位逃生",
-      "onboard_time": 1707381092,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 114270,
       "num": 114270,
       "word": "李荣浩有什么事",
@@ -12227,14 +12283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111414,
-      "num": 111414,
-      "word": "明明坐着上班为什么还是感觉很累",
-      "onboard_time": 1707379830,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111125,
       "num": 111125,
       "word": "南方暴雪冰冻救援",
@@ -12329,6 +12377,14 @@
       "onboard_time": 1707032191,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109674,
+      "num": 109674,
+      "word": "白敬亭立南来北往破万flag",
+      "onboard_time": 1707382110,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 109448,
@@ -12553,6 +12609,14 @@
       "onboard_time": 1707174983,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99373,
+      "num": 99373,
+      "word": "龙不再翻译为dragon而是loong",
+      "onboard_time": 1707383794,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 98402,
@@ -13875,6 +13939,9 @@
     },
     {
       "word": "#习近平同党外人士共迎新春#"
+    },
+    {
+      "word": "#2024春节团拜会举行#"
     }
   ]
 }
