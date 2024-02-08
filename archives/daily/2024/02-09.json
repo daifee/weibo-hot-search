@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707413636534,
+  "endTime": 1707416466197,
   "band_list": [
     {
       "raw_hot": 1145038,
@@ -219,8 +219,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149740,
-      "num": 149740,
+      "raw_hot": 149788,
+      "num": 149788,
       "word": "小龙糕",
       "onboard_time": 1707389855,
       "rank": 33,
@@ -379,8 +379,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87579,
-      "num": 87579,
+      "raw_hot": 93377,
+      "num": 93377,
       "word": "林亦扬殷果吵架",
       "onboard_time": 1707412823,
       "rank": 26,
@@ -393,6 +393,14 @@
       "onboard_time": 1707412523,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82905,
+      "num": 82905,
+      "word": "gidle健康状况",
+      "onboard_time": 1707414739,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 76742,
@@ -451,7 +459,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7981,
+      "raw_hot": 30751,
+      "num": 32009,
+      "word": "李佳琦红包",
+      "onboard_time": 1707383550,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 10638,
       "num": 424713,
       "word": "在非遗中邂逅龙年氛围感",
       "onboard_time": 1707399034,

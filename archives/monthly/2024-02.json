@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707413636534,
+  "endTime": 1707416466197,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -22115,6 +22115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93377,
+      "num": 93377,
+      "word": "林亦扬殷果吵架",
+      "onboard_time": 1707412823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92989,
       "num": 92989,
       "word": "试穿大码女装",
@@ -22259,14 +22267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87579,
-      "num": 87579,
-      "word": "林亦扬殷果吵架",
-      "onboard_time": 1707412823,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87134,
       "num": 89984,
       "word": "2024LCK",
@@ -22369,6 +22369,14 @@
       "onboard_time": 1706979566,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82905,
+      "num": 82905,
+      "word": "gidle健康状况",
+      "onboard_time": 1707414739,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 82232,
