@@ -1,0 +1,410 @@
+{
+  "runTime": 1707354632581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2740162,
+        "num": 2740162,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1200906,
+        "num": 1200906,
+        "word": "梅西合同",
+        "onboard_time": 1707347241,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79094,
+        "num": 1065065,
+        "word": "过年前先打开这九个安全锦囊",
+        "onboard_time": 1707311855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1330423,
+        "num": 1063276,
+        "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+        "onboard_time": 1707348624,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056348,
+        "num": 1056348,
+        "word": "霍启刚愤怒回应梅西道歉",
+        "onboard_time": 1707310294,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 966068,
+        "num": 966068,
+        "word": "梅西在日本上场粉丝怒剪签名球衣",
+        "onboard_time": 1707351387,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 834572,
+        "num": 834572,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815426,
+        "num": 815426,
+        "word": "梅西ins评论区沦陷",
+        "onboard_time": 1707350065,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728026,
+        "num": 728026,
+        "word": "友情婚",
+        "onboard_time": 1707352168,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 566621,
+        "num": 566621,
+        "word": "梅西C罗上演爽约帽子戏法",
+        "onboard_time": 1707347060,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 918773,
+        "num": 542381,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401588,
+        "num": 401588,
+        "word": "梅西上场了",
+        "onboard_time": 1707305852,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364750,
+        "num": 364750,
+        "word": "iPhone16电池容量",
+        "onboard_time": 1707347901,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 364354,
+        "num": 364354,
+        "word": "00后小伙睡醒被亲戚围床边介绍对象",
+        "onboard_time": 1707333138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337803,
+        "num": 337803,
+        "word": "梅西日本上场香港舆论更加愤怒",
+        "onboard_time": 1707352051,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337029,
+        "num": 337029,
+        "word": "宝贝这群叔叔阿姨拼了命想救你",
+        "onboard_time": 1707318335,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328913,
+        "num": 328913,
+        "word": "孙丞潇写给金莎的千字长文",
+        "onboard_time": 1707351988,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325384,
+        "num": 325384,
+        "word": "朝鲜废除与韩国所有经济领域合作协议",
+        "onboard_time": 1707347600,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310134,
+        "num": 310134,
+        "word": "梅西代言白酒品牌方发文称很难过",
+        "onboard_time": 1707315396,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285591,
+        "num": 285591,
+        "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
+        "onboard_time": 1707353430,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316228,
+        "num": 285469,
+        "word": "36岁女儿将水倒进油锅妈妈淡定清理",
+        "onboard_time": 1707319355,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284899,
+        "num": 284899,
+        "word": "河南卫视配享太庙",
+        "onboard_time": 1707318633,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267100,
+        "num": 267100,
+        "word": "10岁女孩头发掉光与接触兔子有关",
+        "onboard_time": 1707350427,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255754,
+        "num": 255754,
+        "word": "或许这就是彩礼存在的真正意义",
+        "onboard_time": 1707350907,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241985,
+        "num": 241985,
+        "word": "霍启刚再发长文",
+        "onboard_time": 1707309875,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241751,
+        "num": 241751,
+        "word": "27岁了总觉得自己在装大人",
+        "onboard_time": 1707352709,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226374,
+        "num": 226374,
+        "word": "霍启刚重申梅西应给公众交代",
+        "onboard_time": 1707311795,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212104,
+        "num": 212104,
+        "word": "预制菜悄悄占领农村年夜饭",
+        "onboard_time": 1707325045,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 211973,
+        "num": 211973,
+        "word": "要久久爱 8s吻戏",
+        "onboard_time": 1707351088,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207957,
+        "num": 207957,
+        "word": "腊月二十九",
+        "onboard_time": 1707353790,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201403,
+        "num": 201403,
+        "word": "景区回应女子带家人祭祖被索要门票",
+        "onboard_time": 1707349585,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 193455,
+        "num": 193455,
+        "word": "朴彩英去了霉霉演唱会",
+        "onboard_time": 1707350550,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163882,
+        "num": 163882,
+        "word": "原来真的有人生啃冻梨啊",
+        "onboard_time": 1707353430,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161715,
+        "num": 161715,
+        "word": "林亦扬殷果亲出声了",
+        "onboard_time": 1707309213,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149527,
+        "num": 149527,
+        "word": "证监会新任主席一度被称券商医生",
+        "onboard_time": 1707352709,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149215,
+        "num": 149215,
+        "word": "苹果开发折叠手机",
+        "onboard_time": 1707352109,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149096,
+        "num": 149096,
+        "word": "腹股沟拉伤自行愈合有多难",
+        "onboard_time": 1707350846,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141095,
+        "num": 141095,
+        "word": "NCT宣发",
+        "onboard_time": 1707353250,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138208,
+        "num": 138208,
+        "word": "龚俊 一个人演完春晚",
+        "onboard_time": 1707347060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131129,
+        "num": 131129,
+        "word": "灰熊凯尔特人交易",
+        "onboard_time": 1707353551,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129795,
+        "num": 129795,
+        "word": "2024狮子座会发生的三件好事",
+        "onboard_time": 1707349947,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129782,
+        "num": 129782,
+        "word": "C罗",
+        "onboard_time": 1707311257,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129199,
+        "num": 129199,
+        "word": "中国人偏爱龙年或迎生育小高峰",
+        "onboard_time": 1707339136,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128175,
+        "num": 128175,
+        "word": "梅西赛后没走采访区",
+        "onboard_time": 1707354330,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124696,
+        "num": 124696,
+        "word": "有不伤头皮的染发剂吗",
+        "onboard_time": 1707354270,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121694,
+        "num": 121694,
+        "word": "王鹤棣出战全明星名人赛",
+        "onboard_time": 1707351628,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 116808,
+        "num": 121449,
+        "word": "苏醒",
+        "onboard_time": 1707309153,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 121446,
+        "num": 121446,
+        "word": "张杰龙年春晚最后一次联排",
+        "onboard_time": 1707353430,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117865,
+        "num": 117865,
+        "word": "霉霉东京演唱会",
+        "onboard_time": 1707351268,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 115516,
+        "word": "这下所有女人都能通过了",
+        "onboard_time": 1707326307,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}

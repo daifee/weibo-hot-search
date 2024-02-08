@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707348828916,
+  "endTime": 1707354632581,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -97,6 +97,14 @@
       "onboard_time": 1707042512,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2740162,
+      "num": 2740162,
+      "word": "香港特区政府要求合理解释",
+      "onboard_time": 1707347060,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 2727084,
@@ -488,6 +496,14 @@
       "word": "华中农大黄某某被解聘",
       "onboard_time": 1707192270,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1330423,
+      "num": 1063276,
+      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+      "onboard_time": 1707348624,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -899,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 966068,
+      "num": 966068,
+      "word": "梅西在日本上场粉丝怒剪签名球衣",
+      "onboard_time": 1707351387,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965176,
       "num": 965176,
       "word": "梅西日本赛前训练",
@@ -1235,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 834572,
+      "num": 834572,
+      "word": "春晚节目",
+      "onboard_time": 1707348322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829495,
       "num": 829495,
       "word": "12306回应一些车次为何开售即秒光",
@@ -1256,6 +1288,14 @@
       "word": "梅西抵达日本",
       "onboard_time": 1707141035,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 815426,
+      "num": 815426,
+      "word": "梅西ins评论区沦陷",
+      "onboard_time": 1707350065,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -1569,6 +1609,14 @@
       "onboard_time": 1707183270,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 728026,
+      "num": 728026,
+      "word": "友情婚",
+      "onboard_time": 1707352168,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 727858,
@@ -1972,7 +2020,7 @@
     },
     {
       "raw_hot": 634849,
-      "num": 274178,
+      "num": 285469,
       "word": "36岁女儿将水倒进油锅妈妈淡定清理",
       "onboard_time": 1707319355,
       "rank": 21,
@@ -2217,6 +2265,14 @@
       "onboard_time": 1707124353,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566621,
+      "num": 566621,
+      "word": "梅西C罗上演爽约帽子戏法",
+      "onboard_time": 1707347060,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 564442,
@@ -2809,14 +2865,6 @@
       "onboard_time": 1706966072,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467391,
-      "num": 467391,
-      "word": "梅西C罗上演爽约帽子戏法",
-      "onboard_time": 1707347060,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 467127,
@@ -3611,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364750,
+      "num": 364750,
+      "word": "iPhone16电池容量",
+      "onboard_time": 1707347901,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 363719,
       "num": 363719,
       "word": "请和我的老公结婚",
@@ -3843,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337803,
+      "num": 337803,
+      "word": "梅西日本上场香港舆论更加愤怒",
+      "onboard_time": 1707352051,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332904,
       "num": 332904,
       "word": "唐艺昕虞书欣撞衫",
@@ -3905,6 +3969,14 @@
       "onboard_time": 1707145293,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328913,
+      "num": 328913,
+      "word": "孙丞潇写给金莎的千字长文",
+      "onboard_time": 1707351988,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 328230,
@@ -4403,6 +4475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285591,
+      "num": 285591,
+      "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
+      "onboard_time": 1707353430,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285080,
       "num": 285080,
       "word": "宋江入伍前最后一次活动",
@@ -4779,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267100,
+      "num": 267100,
+      "word": "10岁女孩头发掉光与接触兔子有关",
+      "onboard_time": 1707350427,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266992,
       "num": 251000,
       "word": "陈小纭落跑公主",
@@ -4993,6 +5081,14 @@
       "onboard_time": 1707315875,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255754,
+      "num": 255754,
+      "word": "或许这就是彩礼存在的真正意义",
+      "onboard_time": 1707350907,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 255603,
@@ -5281,6 +5377,14 @@
       "onboard_time": 1707049114,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241751,
+      "num": 241751,
+      "word": "27岁了总觉得自己在装大人",
+      "onboard_time": 1707352709,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 241698,
@@ -6219,6 +6323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211973,
+      "num": 211973,
+      "word": "要久久爱 8s吻戏",
+      "onboard_time": 1707351088,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211945,
       "num": 211945,
       "word": "南笙婚礼vlog",
@@ -6425,6 +6537,14 @@
       "onboard_time": 1707206312,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207957,
+      "num": 207957,
+      "word": "腊月二十九",
+      "onboard_time": 1707353790,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 207663,
@@ -6835,6 +6955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201403,
+      "num": 201403,
+      "word": "景区回应女子带家人祭祖被索要门票",
+      "onboard_time": 1707349585,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 201057,
       "num": 201057,
       "word": "山东春晚节目单",
@@ -7161,6 +7289,14 @@
       "onboard_time": 1707304291,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193455,
+      "num": 193455,
+      "word": "朴彩英去了霉霉演唱会",
+      "onboard_time": 1707350550,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 193133,
@@ -8483,6 +8619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163882,
+      "num": 163882,
+      "word": "原来真的有人生啃冻梨啊",
+      "onboard_time": 1707353430,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163581,
       "num": 163581,
       "word": "红包届今年是准备考研了吗",
@@ -8753,14 +8897,6 @@
       "onboard_time": 1707195031,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158433,
-      "num": 158433,
-      "word": "春晚节目",
-      "onboard_time": 1707348322,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 158187,
@@ -9123,6 +9259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149527,
+      "num": 149527,
+      "word": "证监会新任主席一度被称券商医生",
+      "onboard_time": 1707352709,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149509,
       "num": 149509,
       "word": "致敬大雪中最可爱的人",
@@ -9147,12 +9291,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149215,
+      "num": 149215,
+      "word": "苹果开发折叠手机",
+      "onboard_time": 1707352109,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 149175,
       "num": 149175,
       "word": "20只基金一日涨超9%",
       "onboard_time": 1707270813,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149096,
+      "num": 149096,
+      "word": "腹股沟拉伤自行愈合有多难",
+      "onboard_time": 1707350846,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149051,
@@ -9595,6 +9755,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141095,
+      "num": 141095,
+      "word": "NCT宣发",
+      "onboard_time": 1707353250,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140958,
       "num": 140958,
       "word": "梦之泪虎",
@@ -9796,7 +9964,7 @@
     },
     {
       "raw_hot": 137661,
-      "num": 91315,
+      "num": 115516,
       "word": "这下所有女人都能通过了",
       "onboard_time": 1707326307,
       "rank": 34,
@@ -10107,14 +10275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131633,
-      "num": 131633,
-      "word": "iPhone16电池容量",
-      "onboard_time": 1707347901,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 131613,
       "num": 131613,
       "word": "董宇辉称越长大快乐成本越高",
@@ -10137,6 +10297,14 @@
       "onboard_time": 1707296430,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 131129,
+      "num": 131129,
+      "word": "灰熊凯尔特人交易",
+      "onboard_time": 1707353551,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 130957,
@@ -10211,6 +10379,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 129795,
+      "num": 129795,
+      "word": "2024狮子座会发生的三件好事",
+      "onboard_time": 1707349947,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129769,
       "num": 129769,
       "word": "这自建房是奔着招商建的吧",
@@ -10273,6 +10449,14 @@
       "onboard_time": 1707051152,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128175,
+      "num": 128175,
+      "word": "梅西赛后没走采访区",
+      "onboard_time": 1707354330,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 128078,
@@ -10427,6 +10611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124696,
+      "num": 124696,
+      "word": "有不伤头皮的染发剂吗",
+      "onboard_time": 1707354270,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 124600,
       "num": 124600,
       "word": "无穷小亮的年会表演",
@@ -10553,6 +10745,22 @@
       "onboard_time": 1707033270,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 121694,
+      "num": 121694,
+      "word": "王鹤棣出战全明星名人赛",
+      "onboard_time": 1707351628,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 121446,
+      "num": 121446,
+      "word": "张杰龙年春晚最后一次联排",
+      "onboard_time": 1707353430,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121274,
@@ -10721,6 +10929,14 @@
       "onboard_time": 1707185909,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117865,
+      "num": 117865,
+      "word": "霉霉东京演唱会",
+      "onboard_time": 1707351268,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 117720,
@@ -11291,14 +11507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88429,
-      "num": 88429,
-      "word": "香港特区政府要求合理解释",
-      "onboard_time": 1707347060,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88121,
       "num": 208860,
       "word": "京东春晚大奖竟然还有TA",
@@ -11465,14 +11673,6 @@
       "onboard_time": 1707148891,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75104,
-      "num": 75104,
-      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
-      "onboard_time": 1707348624,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74917,
