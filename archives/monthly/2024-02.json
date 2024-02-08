@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707354632581,
+  "endTime": 1707355796208,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1573122,
+      "num": 1181231,
+      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+      "onboard_time": 1707348624,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1560627,
       "num": 1560627,
       "word": "王豆豆怀孕",
@@ -915,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1330423,
-      "num": 1063276,
-      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
-      "onboard_time": 1707348624,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1309301,
       "num": 1309301,
       "word": "超4700只个股下跌",
@@ -985,6 +985,14 @@
       "onboard_time": 1706746228,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1276423,
+      "num": 1276423,
+      "word": "梅西在日本上场粉丝怒剪签名球衣",
+      "onboard_time": 1707351387,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1275028,
@@ -1635,14 +1643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 966068,
-      "num": 966068,
-      "word": "梅西在日本上场粉丝怒剪签名球衣",
-      "onboard_time": 1707351387,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 965176,
       "num": 965176,
       "word": "梅西日本赛前训练",
@@ -1891,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 882872,
+      "num": 882872,
+      "word": "春晚节目",
+      "onboard_time": 1707348322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 882238,
       "num": 882238,
       "word": "花儿与少年 再见不再见",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1707218611,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 880348,
+      "num": 880348,
+      "word": "友情婚",
+      "onboard_time": 1707352168,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 877428,
@@ -2137,14 +2153,6 @@
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 834572,
-      "num": 834572,
-      "word": "春晚节目",
-      "onboard_time": 1707348322,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 831666,
@@ -2697,14 +2705,6 @@
       "onboard_time": 1707183270,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 728026,
-      "num": 728026,
-      "word": "友情婚",
-      "onboard_time": 1707352168,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 727858,
@@ -4043,6 +4043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 549835,
+      "num": 549835,
+      "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
+      "onboard_time": 1707353430,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548516,
       "num": 548516,
       "word": "中年裸辞后每天去咖啡馆假装上班",
@@ -5259,6 +5267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 436966,
+      "num": 436966,
+      "word": "孙丞潇写给金莎的千字长文",
+      "onboard_time": 1707351988,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436454,
       "num": 290942,
       "word": "做美甲为什么要把这个肉割掉",
@@ -5897,6 +5913,14 @@
       "onboard_time": 1707270748,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392164,
+      "num": 392164,
+      "word": "梅西日本上场香港舆论更加愤怒",
+      "onboard_time": 1707352051,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 392067,
@@ -6787,14 +6811,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 337803,
-      "num": 337803,
-      "word": "梅西日本上场香港舆论更加愤怒",
-      "onboard_time": 1707352051,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335827,
       "num": 188299,
       "word": "肖战声线感染力",
@@ -6953,14 +6969,6 @@
       "onboard_time": 1707145293,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328913,
-      "num": 328913,
-      "word": "孙丞潇写给金莎的千字长文",
-      "onboard_time": 1707351988,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 328553,
@@ -7851,14 +7859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285591,
-      "num": 285591,
-      "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
-      "onboard_time": 1707353430,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285080,
       "num": 285080,
       "word": "宋江入伍前最后一次活动",
@@ -8387,12 +8387,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 270099,
+      "num": 270099,
+      "word": "27岁了总觉得自己在装大人",
+      "onboard_time": 1707352709,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269887,
       "num": 269887,
       "word": "日食记 把子肉",
       "onboard_time": 1707211950,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269723,
+      "num": 269723,
+      "word": "10岁女孩头发掉光与接触兔子有关",
+      "onboard_time": 1707350427,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269283,
@@ -8449,14 +8465,6 @@
       "onboard_time": 1707121590,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267100,
-      "num": 267100,
-      "word": "10岁女孩头发掉光与接触兔子有关",
-      "onboard_time": 1707350427,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 266992,
@@ -9257,14 +9265,6 @@
       "onboard_time": 1707049114,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241751,
-      "num": 241751,
-      "word": "27岁了总觉得自己在装大人",
-      "onboard_time": 1707352709,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 241698,
@@ -10555,6 +10555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 217255,
+      "num": 217255,
+      "word": "要久久爱 8s吻戏",
+      "onboard_time": 1707351088,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216940,
       "num": 216940,
       "word": "Scout 阿卡丽",
@@ -10809,14 +10817,6 @@
       "onboard_time": 1706960368,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 211973,
-      "num": 211973,
-      "word": "要久久爱 8s吻戏",
-      "onboard_time": 1707351088,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 211945,
@@ -11513,6 +11513,14 @@
       "onboard_time": 1706970272,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204088,
+      "num": 204088,
+      "word": "朴彩英去了霉霉演唱会",
+      "onboard_time": 1707350550,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 203959,
@@ -12371,14 +12379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193455,
-      "num": 193455,
-      "word": "朴彩英去了霉霉演唱会",
-      "onboard_time": 1707350550,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193421,
       "num": 193421,
       "word": "宋亚轩晒唯一舞台照",
@@ -13035,6 +13035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187049,
+      "num": 187049,
+      "word": "牛仔裤被年轻人抛弃",
+      "onboard_time": 1707355707,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 186961,
       "num": 186961,
       "word": "这哪是弟弟这不仆人吗",
@@ -13553,6 +13561,14 @@
       "onboard_time": 1706945973,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179188,
+      "num": 179188,
+      "word": "秦岚情商",
+      "onboard_time": 1707355349,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 179135,
@@ -15355,6 +15371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157160,
+      "num": 157160,
+      "word": "梅西赛后没走采访区",
+      "onboard_time": 1707354330,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157139,
       "num": 157139,
       "word": "乡村爱情16",
@@ -15465,6 +15489,14 @@
       "onboard_time": 1707195631,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155320,
+      "num": 155320,
+      "word": "腹股沟拉伤自行愈合有多难",
+      "onboard_time": 1707350846,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155253,
@@ -15953,14 +15985,6 @@
       "onboard_time": 1707270813,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 149096,
-      "num": 149096,
-      "word": "腹股沟拉伤自行愈合有多难",
-      "onboard_time": 1707350846,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 149051,
@@ -16513,6 +16537,14 @@
       "onboard_time": 1706695353,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142988,
+      "num": 142988,
+      "word": "迈阿密主帅称梅西弃赛是团队决定",
+      "onboard_time": 1707355773,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 142947,
@@ -17963,14 +17995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128175,
-      "num": 128175,
-      "word": "梅西赛后没走采访区",
-      "onboard_time": 1707354330,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128124,
       "num": 128124,
       "word": "星穹铁道一番赏",
@@ -18675,6 +18699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118913,
+      "num": 118913,
+      "word": "阿斯顿维拉1比3切尔西",
+      "onboard_time": 1707355469,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118801,
       "num": 5720482,
       "word": "过年前先打开这九个安全锦囊",
@@ -18955,6 +18987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114791,
+      "num": 114791,
+      "word": "中国女篮定妆照",
+      "onboard_time": 1707354749,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "当过年家里有一个没结婚的长辈",
@@ -19217,6 +19257,14 @@
       "onboard_time": 1706756611,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111014,
+      "num": 111014,
+      "word": "辛苦存了好几年的压岁钱居然都过期了",
+      "onboard_time": 1707355773,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110831,

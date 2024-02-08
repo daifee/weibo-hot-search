@@ -1,0 +1,410 @@
+{
+  "runTime": 1707355796208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2175416,
+        "num": 2175416,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1276423,
+        "num": 1276423,
+        "word": "梅西在日本上场粉丝怒剪签名球衣",
+        "onboard_time": 1707351387,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71463,
+        "num": 1185857,
+        "word": "过年前先打开这九个安全锦囊",
+        "onboard_time": 1707311855,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1573122,
+        "num": 1181231,
+        "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+        "onboard_time": 1707348624,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131289,
+        "num": 1131289,
+        "word": "梅西合同",
+        "onboard_time": 1707347241,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1096329,
+        "num": 1096329,
+        "word": "霍启刚愤怒回应梅西道歉",
+        "onboard_time": 1707310294,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 882872,
+        "num": 882872,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 880348,
+        "num": 880348,
+        "word": "友情婚",
+        "onboard_time": 1707352168,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 776821,
+        "num": 776821,
+        "word": "梅西ins评论区沦陷",
+        "onboard_time": 1707350065,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549835,
+        "num": 549835,
+        "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
+        "onboard_time": 1707353430,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 895842,
+        "num": 513873,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455900,
+        "num": 455900,
+        "word": "梅西C罗上演爽约帽子戏法",
+        "onboard_time": 1707347060,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436966,
+        "num": 436966,
+        "word": "孙丞潇写给金莎的千字长文",
+        "onboard_time": 1707351988,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413879,
+        "num": 413879,
+        "word": "梅西上场了",
+        "onboard_time": 1707305852,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392164,
+        "num": 392164,
+        "word": "梅西日本上场香港舆论更加愤怒",
+        "onboard_time": 1707352051,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337602,
+        "num": 337602,
+        "word": "宝贝这群叔叔阿姨拼了命想救你",
+        "onboard_time": 1707318335,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320462,
+        "num": 320462,
+        "word": "00后小伙睡醒被亲戚围床边介绍对象",
+        "onboard_time": 1707333138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300090,
+        "num": 300090,
+        "word": "iPhone16电池容量",
+        "onboard_time": 1707347901,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295478,
+        "num": 295478,
+        "word": "朝鲜废除与韩国所有经济领域合作协议",
+        "onboard_time": 1707347600,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 251571,
+        "num": 277883,
+        "word": "霍启刚再发长文",
+        "onboard_time": 1707309875,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315295,
+        "num": 277874,
+        "word": "36岁女儿将水倒进油锅妈妈淡定清理",
+        "onboard_time": 1707319355,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270099,
+        "num": 270099,
+        "word": "27岁了总觉得自己在装大人",
+        "onboard_time": 1707352709,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269723,
+        "num": 269723,
+        "word": "10岁女孩头发掉光与接触兔子有关",
+        "onboard_time": 1707350427,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246881,
+        "num": 246881,
+        "word": "或许这就是彩礼存在的真正意义",
+        "onboard_time": 1707350907,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239975,
+        "num": 239975,
+        "word": "梅西代言白酒品牌方发文称很难过",
+        "onboard_time": 1707315396,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217255,
+        "num": 217255,
+        "word": "要久久爱 8s吻戏",
+        "onboard_time": 1707351088,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211620,
+        "num": 211620,
+        "word": "河南卫视配享太庙",
+        "onboard_time": 1707318633,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208870,
+        "num": 208870,
+        "word": "霍启刚重申梅西应给公众交代",
+        "onboard_time": 1707311795,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 204088,
+        "word": "朴彩英去了霉霉演唱会",
+        "onboard_time": 1707350550,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187049,
+        "num": 187049,
+        "word": "牛仔裤被年轻人抛弃",
+        "onboard_time": 1707355707,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 179188,
+        "num": 179188,
+        "word": "秦岚情商",
+        "onboard_time": 1707355349,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163023,
+        "num": 163023,
+        "word": "原来真的有人生啃冻梨啊",
+        "onboard_time": 1707353430,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162754,
+        "num": 162754,
+        "word": "景区回应女子带家人祭祖被索要门票",
+        "onboard_time": 1707349585,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 160029,
+        "num": 160029,
+        "word": "苏醒",
+        "onboard_time": 1707309153,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 157160,
+        "num": 157160,
+        "word": "梅西赛后没走采访区",
+        "onboard_time": 1707354330,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155320,
+        "num": 155320,
+        "word": "腹股沟拉伤自行愈合有多难",
+        "onboard_time": 1707350846,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152837,
+        "num": 152837,
+        "word": "林亦扬殷果亲出声了",
+        "onboard_time": 1707309213,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142988,
+        "num": 142988,
+        "word": "迈阿密主帅称梅西弃赛是团队决定",
+        "onboard_time": 1707355773,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141193,
+        "num": 141193,
+        "word": "预制菜悄悄占领农村年夜饭",
+        "onboard_time": 1707325045,
+        "rank": 38,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 138801,
+        "num": 138801,
+        "word": "证监会新任主席一度被称券商医生",
+        "onboard_time": 1707352709,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138077,
+        "num": 138077,
+        "word": "苹果开发折叠手机",
+        "onboard_time": 1707352109,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "C罗",
+        "onboard_time": 1707311257,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122507,
+        "num": 122507,
+        "word": "NCT宣发",
+        "onboard_time": 1707353250,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121024,
+        "num": 121024,
+        "word": "王鹤棣出战全明星名人赛",
+        "onboard_time": 1707351628,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 118913,
+        "num": 118913,
+        "word": "阿斯顿维拉1比3切尔西",
+        "onboard_time": 1707355469,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117208,
+        "num": 117208,
+        "word": "有不伤头皮的染发剂吗",
+        "onboard_time": 1707354270,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114791,
+        "num": 114791,
+        "word": "中国女篮定妆照",
+        "onboard_time": 1707354749,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114295,
+        "num": 114295,
+        "word": "龚俊 一个人演完春晚",
+        "onboard_time": 1707347060,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111014,
+        "num": 111014,
+        "word": "辛苦存了好几年的压岁钱居然都过期了",
+        "onboard_time": 1707355773,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110949,
+        "num": 110949,
+        "word": "中国人偏爱龙年或迎生育小高峰",
+        "onboard_time": 1707339136,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记的深深牵挂#"
+    }
+  }
+}

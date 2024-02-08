@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707354632581,
+  "endTime": 1707355796208,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1573122,
+      "num": 1181231,
+      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+      "onboard_time": 1707348624,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551913,
       "num": 1551913,
       "word": "梅西合同",
@@ -35,12 +43,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1330423,
-      "num": 1063276,
-      "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
-      "onboard_time": 1707348624,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 1276423,
+      "num": 1276423,
+      "word": "梅西在日本上场粉丝怒剪签名球衣",
+      "onboard_time": 1707351387,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1192740,
@@ -48,14 +56,6 @@
       "word": "梅西代言白酒品牌方发文称很难过",
       "onboard_time": 1707315396,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 966068,
-      "num": 966068,
-      "word": "梅西在日本上场粉丝怒剪签名球衣",
-      "onboard_time": 1707351387,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -68,19 +68,27 @@
     },
     {
       "raw_hot": 900059,
-      "num": 401588,
+      "num": 413879,
       "word": "梅西上场了",
       "onboard_time": 1707305852,
       "rank": 11,
       "category": "体育"
     },
     {
-      "raw_hot": 834572,
-      "num": 834572,
+      "raw_hot": 882872,
+      "num": 882872,
       "word": "春晚节目",
       "onboard_time": 1707348322,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 880348,
+      "num": 880348,
+      "word": "友情婚",
+      "onboard_time": 1707352168,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 815426,
@@ -97,14 +105,6 @@
       "onboard_time": 1707309153,
       "rank": 12,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 728026,
-      "num": 728026,
-      "word": "友情婚",
-      "onboard_time": 1707352168,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 634849,
@@ -136,6 +136,14 @@
       "word": "梅西C罗上演爽约帽子戏法",
       "onboard_time": 1707347060,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 549835,
+      "num": 549835,
+      "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
+      "onboard_time": 1707353430,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436966,
+      "num": 436966,
+      "word": "孙丞潇写给金莎的千字长文",
+      "onboard_time": 1707351988,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407536,
       "num": 407536,
       "word": "小黑粉",
@@ -200,6 +216,14 @@
       "word": "日本场上座率",
       "onboard_time": 1707308555,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 392164,
+      "num": 392164,
+      "word": "梅西日本上场香港舆论更加愤怒",
+      "onboard_time": 1707352051,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -243,30 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337803,
-      "num": 337803,
-      "word": "梅西日本上场香港舆论更加愤怒",
-      "onboard_time": 1707352051,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 328913,
-      "num": 328913,
-      "word": "孙丞潇写给金莎的千字长文",
-      "onboard_time": 1707351988,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 285591,
-      "num": 285591,
-      "word": "全红婵跳水郭晶晶和陈若琳相视一笑",
-      "onboard_time": 1707353430,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280997,
       "num": 280997,
       "word": "郭艾伦韩德君聊天记录",
@@ -283,8 +283,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267100,
-      "num": 267100,
+      "raw_hot": 270099,
+      "num": 270099,
+      "word": "27岁了总觉得自己在装大人",
+      "onboard_time": 1707352709,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 269723,
+      "num": 269723,
       "word": "10岁女孩头发掉光与接触兔子有关",
       "onboard_time": 1707350427,
       "rank": 22,
@@ -296,14 +304,6 @@
       "word": "或许这就是彩礼存在的真正意义",
       "onboard_time": 1707350907,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 241751,
-      "num": 241751,
-      "word": "27岁了总觉得自己在装大人",
-      "onboard_time": 1707352709,
-      "rank": 25,
       "category": "情感"
     },
     {
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217255,
+      "num": 217255,
+      "word": "要久久爱 8s吻戏",
+      "onboard_time": 1707351088,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216570,
       "num": 216570,
       "word": "中国人偏爱龙年或迎生育小高峰",
@@ -339,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211973,
-      "num": 211973,
-      "word": "要久久爱 8s吻戏",
-      "onboard_time": 1707351088,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "腊月二十九",
       "onboard_time": 1707353790,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204088,
+      "num": 204088,
+      "word": "朴彩英去了霉霉演唱会",
+      "onboard_time": 1707350550,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 203433,
@@ -371,12 +379,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 193455,
-      "num": 193455,
-      "word": "朴彩英去了霉霉演唱会",
-      "onboard_time": 1707350550,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 187049,
+      "num": 187049,
+      "word": "牛仔裤被年轻人抛弃",
+      "onboard_time": 1707355707,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 180621,
@@ -385,6 +393,14 @@
       "onboard_time": 1707307655,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179188,
+      "num": 179188,
+      "word": "秦岚情商",
+      "onboard_time": 1707355349,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 168400,
@@ -409,6 +425,22 @@
       "onboard_time": 1707309213,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157160,
+      "num": 157160,
+      "word": "梅西赛后没走采访区",
+      "onboard_time": 1707354330,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155320,
+      "num": 155320,
+      "word": "腹股沟拉伤自行愈合有多难",
+      "onboard_time": 1707350846,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154114,
@@ -451,20 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149096,
-      "num": 149096,
-      "word": "腹股沟拉伤自行愈合有多难",
-      "onboard_time": 1707350846,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147550,
       "num": 147550,
       "word": "龚俊 一个人演完春晚",
       "onboard_time": 1707347060,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142988,
+      "num": 142988,
+      "word": "迈阿密主帅称梅西弃赛是团队决定",
+      "onboard_time": 1707355773,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 141095,
@@ -523,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128175,
-      "num": 128175,
-      "word": "梅西赛后没走采访区",
-      "onboard_time": 1707354330,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126535,
       "num": 126535,
       "word": "要久久爱大结局",
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118913,
+      "num": 118913,
+      "word": "阿斯顿维拉1比3切尔西",
+      "onboard_time": 1707355469,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117865,
       "num": 117865,
       "word": "霉霉东京演唱会",
@@ -579,12 +611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114791,
+      "num": 114791,
+      "word": "中国女篮定妆照",
+      "onboard_time": 1707354749,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111428,
       "num": 111428,
       "word": "妈妈发视频给儿子找对象",
       "onboard_time": 1707316417,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111014,
+      "num": 111014,
+      "word": "辛苦存了好几年的压岁钱居然都过期了",
+      "onboard_time": 1707355773,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106027,
@@ -708,7 +756,7 @@
     },
     {
       "raw_hot": 79094,
-      "num": 1065065,
+      "num": 1185857,
       "word": "过年前先打开这九个安全锦囊",
       "onboard_time": 1707311855,
       "rank": 2,
