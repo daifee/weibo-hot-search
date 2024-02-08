@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707420838415,
+  "endTime": 1707423433264,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -23691,6 +23691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26136,
+      "num": 26136,
+      "word": "坐小孩那桌",
+      "onboard_time": 1707419177,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25992,
       "num": 349417,
       "word": "春运路上被白象暖到了",
@@ -23803,14 +23811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22097,
-      "num": 22855,
-      "word": "坐小孩那桌",
-      "onboard_time": 1707419177,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22084,
       "num": 430834,
       "word": "蛋仔春节版本前瞻直播",
@@ -23897,6 +23897,14 @@
       "onboard_time": 1707158717,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17368,
+      "num": 17368,
+      "word": "2024深圳成都城市春晚",
+      "onboard_time": 1707421757,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 17254,
@@ -24057,6 +24065,14 @@
       "onboard_time": 1706872591,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13288,
+      "num": 13288,
+      "word": "除夕浙江服务区免费为返乡人员提供年夜饭",
+      "onboard_time": 1707423376,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13170,
