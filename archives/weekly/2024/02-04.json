@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707423433264,
+  "endTime": 1707424438835,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -14843,6 +14843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22139,
+      "num": 22139,
+      "word": "00后开始整顿过年了",
+      "onboard_time": 1707423437,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22084,
       "num": 430834,
       "word": "蛋仔春节版本前瞻直播",
@@ -14985,6 +14993,14 @@
       "onboard_time": 1707311677,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13631,
+      "num": 13631,
+      "word": "不会打掼蛋的人有福了",
+      "onboard_time": 1707423555,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 13288,
