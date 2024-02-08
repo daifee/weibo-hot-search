@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707369477145,
+  "endTime": 1707370446526,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1099448,
-      "num": 1099448,
+      "raw_hot": 1100877,
+      "num": 1100877,
       "word": "阿根廷3月中国行大概率取消",
       "onboard_time": 1707367228,
       "rank": 4,
@@ -113,6 +113,14 @@
       "onboard_time": 1707305852,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 899648,
+      "num": 899648,
+      "word": "公司没人了",
+      "onboard_time": 1707366390,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 880348,
@@ -171,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 710792,
+      "num": 485095,
+      "word": "马布里说贝克汉姆不理解中国球迷",
+      "onboard_time": 1707368552,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 700321,
       "num": 700321,
       "word": "贵阳一小区消防栓成摆设致老人身亡",
@@ -201,14 +217,6 @@
       "onboard_time": 1707355950,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 641846,
-      "num": 641846,
-      "word": "公司没人了",
-      "onboard_time": 1707366390,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 634849,
@@ -353,14 +361,6 @@
       "onboard_time": 1707351988,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412294,
-      "num": 412294,
-      "word": "马布里说贝克汉姆不理解中国球迷",
-      "onboard_time": 1707368552,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 408969,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293718,
+      "num": 251295,
+      "word": "B太 哈尔滨真正该去的地方",
+      "onboard_time": 1707368310,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 280997,
       "num": 280997,
       "word": "郭艾伦韩德君聊天记录",
@@ -547,16 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273488,
-      "num": 251295,
-      "word": "B太 哈尔滨真正该去的地方",
-      "onboard_time": 1707368310,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 270707,
-      "num": 270707,
+      "raw_hot": 276328,
+      "num": 276328,
       "word": "猫 养孩子是俩人的事",
       "onboard_time": 1707366510,
       "rank": 30,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213901,
+      "num": 213901,
+      "word": "灵儿与久酷聊转会原因",
+      "onboard_time": 1707369451,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "腊月二十九",
@@ -673,6 +681,14 @@
       "onboard_time": 1707359489,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204980,
+      "num": 204980,
+      "word": "中国龙英文 loong",
+      "onboard_time": 1707368911,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 204088,
@@ -777,6 +793,22 @@
       "onboard_time": 1707307655,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173749,
+      "num": 173749,
+      "word": "张婧仪包场飞驰人生2",
+      "onboard_time": 1707369510,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 171092,
+      "num": 171092,
+      "word": "刘雨昕获赠快船3号球衣",
+      "onboard_time": 1707369869,
+      "rank": 37,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 170509,
@@ -907,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147989,
-      "num": 147989,
-      "word": "中国龙英文 loong",
-      "onboard_time": 1707368911,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 147550,
       "num": 147550,
       "word": "龚俊 一个人演完春晚",
@@ -945,6 +969,14 @@
       "onboard_time": 1707367468,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 141248,
+      "num": 141248,
+      "word": "大侦探新桌游新春接福",
+      "onboard_time": 1707370053,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141095,
@@ -1051,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129902,
+      "num": 129902,
+      "word": "假期就靠这些小说续命了",
+      "onboard_time": 1707369213,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 129795,
       "num": 129795,
       "word": "2024狮子座会发生的三件好事",
@@ -1153,22 +1193,6 @@
       "onboard_time": 1707359428,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120225,
-      "num": 120225,
-      "word": "假期就靠这些小说续命了",
-      "onboard_time": 1707369213,
-      "rank": 47,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 119380,
-      "num": 119380,
-      "word": "灵儿与久酷聊转会原因",
-      "onboard_time": 1707369451,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 118913,
@@ -1436,7 +1460,7 @@
     },
     {
       "raw_hot": 37357,
-      "num": 176185,
+      "num": 474187,
       "word": "魏大勋元梦开勋玉米农场开张",
       "onboard_time": 1707368731,
       "rank": 36,
