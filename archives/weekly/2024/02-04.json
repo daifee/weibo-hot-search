@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707392044840,
+  "endTime": 1707395438577,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1398872,
+      "num": 1398872,
+      "word": "霍启刚评论区",
+      "onboard_time": 1707389733,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1395900,
       "num": 1395900,
       "word": "半个娱乐圈都在苏醒的拟邀名单上",
@@ -769,6 +777,14 @@
       "onboard_time": 1707121833,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1147167,
+      "num": 1147167,
+      "word": "鹿晗晒合照给邓超庆生",
+      "onboard_time": 1707393812,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1143154,
@@ -1299,6 +1315,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 878084,
+      "num": 878084,
+      "word": "霍启刚发博拜年",
+      "onboard_time": 1707392491,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875049,
       "num": 875049,
       "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
@@ -1723,6 +1747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 759339,
+      "num": 759339,
+      "word": "王俊凯 重庆",
+      "onboard_time": 1707391594,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 759026,
+      "num": 759026,
+      "word": "科比被劝休息说攒钱看我比赛的人怎么办",
+      "onboard_time": 1707392852,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 756560,
       "num": 756560,
       "word": "美媒下场报道梅西之乱",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1707226415,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 721582,
-      "num": 721582,
-      "word": "霍启刚评论区",
-      "onboard_time": 1707389733,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 720747,
@@ -2595,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566714,
+      "num": 566714,
+      "word": "李梦太硬了",
+      "onboard_time": 1707394111,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566621,
       "num": 566621,
       "word": "梅西C罗上演爽约帽子戏法",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1707194496,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 524620,
+      "num": 524620,
+      "word": "辽视春晚",
+      "onboard_time": 1707390453,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 522562,
@@ -3843,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395572,
+      "num": 395572,
+      "word": "孔刘帮李栋旭走出低谷期",
+      "onboard_time": 1707390993,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395017,
       "num": 364114,
       "word": "朋友式情侣关系",
@@ -4443,14 +4499,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 331082,
-      "num": 331082,
-      "word": "辽视春晚",
-      "onboard_time": 1707390453,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330848,
       "num": 330848,
       "word": "美军无人机袭击伊拉克首都",
@@ -4795,14 +4843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 309299,
-      "num": 309299,
-      "word": "王俊凯 重庆",
-      "onboard_time": 1707391594,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 308837,
       "num": 174809,
       "word": "霸王茶姬集卡",
@@ -4857,6 +4897,14 @@
       "onboard_time": 1707129691,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304579,
+      "num": 304579,
+      "word": "工作一年过年给爸妈多少钱",
+      "onboard_time": 1707393512,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 304510,
@@ -5003,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295534,
+      "num": 295534,
+      "word": "36岁的释小龙",
+      "onboard_time": 1707395133,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294884,
       "num": 294884,
       "word": "傅菁新剧演孕妇",
@@ -5025,14 +5081,6 @@
       "onboard_time": 1707189267,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294214,
-      "num": 263813,
-      "word": "孔刘帮李栋旭走出低谷期",
-      "onboard_time": 1707390993,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 294008,
@@ -5955,6 +6003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250509,
+      "num": 250509,
+      "word": "傲慢与偏见 小说鼻祖",
+      "onboard_time": 1707390216,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 250480,
       "num": 250480,
       "word": "三市下跌个股超5000只",
@@ -6001,6 +6057,14 @@
       "onboard_time": 1707014972,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246514,
+      "num": 216124,
+      "word": "梅西的伤与友谊赛的商",
+      "onboard_time": 1707395010,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 246418,
@@ -6305,14 +6369,6 @@
       "onboard_time": 1707010350,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237260,
-      "num": 237260,
-      "word": "傲慢与偏见 小说鼻祖",
-      "onboard_time": 1707390216,
-      "rank": 35,
-      "category": "读书作家"
     },
     {
       "raw_hot": 237247,
@@ -6915,6 +6971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 219027,
+      "num": 219027,
+      "word": "烟花",
+      "onboard_time": 1707393629,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218336,
       "num": 218336,
       "word": "13岁女团成员小学毕业照",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1707037889,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216013,
+      "num": 216013,
+      "word": "许光汉穿皮短裙",
+      "onboard_time": 1707393453,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215757,
@@ -7907,6 +7979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200667,
+      "num": 200667,
+      "word": "安徽卫视春晚",
+      "onboard_time": 1707394470,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200454,
       "num": 200454,
       "word": "ENHYPEN百万人抢票",
@@ -8771,6 +8851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183500,
+      "num": 183500,
+      "word": "陈泽唱歌",
+      "onboard_time": 1707394830,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183498,
       "num": 183498,
       "word": "美人鱼 卷头发",
@@ -8873,6 +8961,14 @@
       "onboard_time": 1707106411,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179841,
+      "num": 179841,
+      "word": "白宇锐评陕西美食vlog",
+      "onboard_time": 1707395010,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 179839,
@@ -9524,7 +9620,7 @@
     },
     {
       "raw_hot": 167046,
-      "num": 167046,
+      "num": 216849,
       "word": "中国高端三蹦子出口一辆1.2万欧",
       "onboard_time": 1707391651,
       "rank": 42,
@@ -9857,6 +9953,14 @@
       "onboard_time": 1707307891,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161013,
+      "num": 161013,
+      "word": "2024川渝春晚节目单",
+      "onboard_time": 1707393993,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 160798,
@@ -10321,6 +10425,14 @@
       "onboard_time": 1707207689,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152826,
+      "num": 152826,
+      "word": "猪牛羊身上3个部位绝不能吃",
+      "onboard_time": 1707394712,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152763,
@@ -11113,6 +11225,14 @@
       "onboard_time": 1707024030,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139460,
+      "num": 139460,
+      "word": "90后上海民警春运快闪MV",
+      "onboard_time": 1707394891,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139456,
@@ -11961,6 +12081,14 @@
       "onboard_time": 1707129330,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126101,
+      "num": 126101,
+      "word": "冯巩 我爱辽篮",
+      "onboard_time": 1707395429,
+      "rank": 49,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 126011,
@@ -14177,6 +14305,14 @@
       "onboard_time": 1706970272,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21022,
+      "num": 216147,
+      "word": "蛋仔喊你回家过年",
+      "onboard_time": 1707393873,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 20535,
