@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707409308235,
+  "endTime": 1707410175040,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -4067,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398126,
+      "num": 379443,
+      "word": "新闻联播镜头下的周冬雨",
+      "onboard_time": 1707407490,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397616,
       "num": 397616,
       "word": "陈冠希近照",
@@ -4225,14 +4233,6 @@
       "onboard_time": 1707041193,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 379443,
-      "num": 379443,
-      "word": "新闻联播镜头下的周冬雨",
-      "onboard_time": 1707407490,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 378716,
@@ -10067,6 +10067,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166816,
+      "num": 145460,
+      "word": "夏克立 一直等待夏天太难过",
+      "onboard_time": 1707409648,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166754,
       "num": 166754,
       "word": "全红婵半决赛第二晋级",
@@ -14371,6 +14379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44489,
+      "num": 329627,
+      "word": "四美同台好养眼",
+      "onboard_time": 1707408450,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41986,
       "num": 299099,
       "word": "新年送礼首选大红大紫cp",
@@ -14673,14 +14689,6 @@
       "onboard_time": 1707155482,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27003,
-      "num": 329627,
-      "word": "四美同台好养眼",
-      "onboard_time": 1707408450,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 25992,

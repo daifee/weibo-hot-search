@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707409308235,
+  "endTime": 1707410175040,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -6475,6 +6475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398126,
+      "num": 379443,
+      "word": "新闻联播镜头下的周冬雨",
+      "onboard_time": 1707407490,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397616,
       "num": 397616,
       "word": "陈冠希近照",
@@ -6785,14 +6793,6 @@
       "onboard_time": 1706710354,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 379443,
-      "num": 379443,
-      "word": "新闻联播镜头下的周冬雨",
-      "onboard_time": 1707407490,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 378939,
@@ -16139,6 +16139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166816,
+      "num": 145460,
+      "word": "夏克立 一直等待夏天太难过",
+      "onboard_time": 1707409648,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166778,
       "num": 166778,
       "word": "客厅打羽毛球",
@@ -23139,6 +23147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44489,
+      "num": 329627,
+      "word": "四美同台好养眼",
+      "onboard_time": 1707408450,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44373,
       "num": 362162,
       "word": "拍出你眼中的龙年味道",
@@ -23601,14 +23617,6 @@
       "onboard_time": 1707155482,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27003,
-      "num": 329627,
-      "word": "四美同台好养眼",
-      "onboard_time": 1707408450,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 26945,
