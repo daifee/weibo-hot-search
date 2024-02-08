@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707373337510,
+  "endTime": 1707374114433,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -544,6 +544,14 @@
       "word": "华中农大黄某某被解聘",
       "onboard_time": 1707192270,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1330267,
+      "num": 471596,
+      "word": "男子被堵高速6天5夜吃光年货",
+      "onboard_time": 1707372508,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1337,14 +1345,6 @@
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 833994,
-      "num": 379844,
-      "word": "男子被堵高速6天5夜吃光年货",
-      "onboard_time": 1707372508,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830468,
@@ -2553,6 +2553,14 @@
       "onboard_time": 1707362853,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544880,
+      "num": 544880,
+      "word": "年终奖",
+      "onboard_time": 1707372808,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 544595,
@@ -3883,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367107,
+      "num": 367107,
+      "word": "媒体评梅西拒绝出场引骂战",
+      "onboard_time": 1707372149,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366187,
       "num": 366187,
       "word": "暗送邱波",
@@ -4483,6 +4499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311152,
+      "num": 311152,
+      "word": "蔡卓妍长文纪念Twins红馆演唱会",
+      "onboard_time": 1707372391,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308837,
       "num": 174809,
       "word": "霸王茶姬集卡",
@@ -4803,14 +4827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284367,
-      "num": 284367,
-      "word": "年终奖",
-      "onboard_time": 1707372808,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "张天爱公主抱160斤新浪员工",
@@ -4881,14 +4897,6 @@
       "onboard_time": 1707048571,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 281137,
-      "num": 281137,
-      "word": "媒体评梅西拒绝出场引骂战",
-      "onboard_time": 1707372149,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 280162,
@@ -5203,14 +5211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267502,
-      "num": 267502,
-      "word": "蔡卓妍长文纪念Twins红馆演唱会",
-      "onboard_time": 1707372391,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 266992,
       "num": 251000,
       "word": "陈小纭落跑公主",
@@ -5489,6 +5489,14 @@
       "onboard_time": 1707364711,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253238,
+      "num": 253238,
+      "word": "龙年春节前海鲜销量暴涨400%",
+      "onboard_time": 1707372991,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 252822,
@@ -5785,6 +5793,14 @@
       "onboard_time": 1707188431,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240452,
+      "num": 240452,
+      "word": "星穹铁道春节",
+      "onboard_time": 1707373591,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 240422,
@@ -6363,6 +6379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221794,
+      "num": 221794,
+      "word": "人民日报评三无四无婚礼",
+      "onboard_time": 1707373289,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221326,
       "num": 221326,
       "word": "范志毅谈27年前被6万人骂",
@@ -6915,6 +6939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207895,
+      "num": 207895,
+      "word": "日本5.5吨核污染水泄漏或因人为",
+      "onboard_time": 1707373649,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207663,
       "num": 207663,
       "word": "巴厘岛要向外国游客收旅游税",
@@ -7457,6 +7489,14 @@
       "onboard_time": 1707139293,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198813,
+      "num": 198813,
+      "word": "智族GQ贺岁图",
+      "onboard_time": 1707373531,
+      "rank": 31,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 198751,
@@ -8633,14 +8673,6 @@
       "onboard_time": 1707202228,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 173524,
-      "num": 173524,
-      "word": "龙年春节前海鲜销量暴涨400%",
-      "onboard_time": 1707372991,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 173351,
@@ -10115,6 +10147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144920,
+      "num": 144920,
+      "word": "一场三无婚礼的代价",
+      "onboard_time": 1707373108,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144900,
       "num": 144900,
       "word": "浓眉三双",
@@ -11019,6 +11059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130346,
+      "num": 130346,
+      "word": "假期就靠这些小说续命了",
+      "onboard_time": 1707369213,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 130291,
       "num": 130291,
       "word": "胆囊癌的4个危险因素",
@@ -11049,14 +11097,6 @@
       "onboard_time": 1707145950,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 129902,
-      "num": 129902,
-      "word": "假期就靠这些小说续命了",
-      "onboard_time": 1707369213,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 129881,
@@ -11401,14 +11441,6 @@
       "onboard_time": 1707369149,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122971,
-      "num": 122971,
-      "word": "一场三无婚礼的代价",
-      "onboard_time": 1707373108,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122844,
@@ -11787,6 +11819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "库迪咖啡下架AppStore",
+      "onboard_time": 1707374009,
+      "rank": 48,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 114270,
       "num": 114270,
       "word": "李荣浩有什么事",
@@ -11953,14 +11993,6 @@
       "onboard_time": 1707032850,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110198,
-      "num": 110198,
-      "word": "人民日报评三无四无婚礼",
-      "onboard_time": 1707373289,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109899,

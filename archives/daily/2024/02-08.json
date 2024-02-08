@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707373337510,
+  "endTime": 1707374114433,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1330267,
+      "num": 471596,
+      "word": "男子被堵高速6天5夜吃光年货",
+      "onboard_time": 1707372508,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192740,
       "num": 333911,
       "word": "梅西代言白酒品牌方发文称很难过",
@@ -153,14 +161,6 @@
       "onboard_time": 1707355773,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 833994,
-      "num": 379844,
-      "word": "男子被堵高速6天5夜吃光年货",
-      "onboard_time": 1707372508,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830468,
@@ -297,6 +297,14 @@
       "onboard_time": 1707362853,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544880,
+      "num": 544880,
+      "word": "年终奖",
+      "onboard_time": 1707372808,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 539531,
@@ -451,6 +459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 367107,
+      "num": 367107,
+      "word": "媒体评梅西拒绝出场引骂战",
+      "onboard_time": 1707372149,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365675,
       "num": 365675,
       "word": "最苏的现偶男主",
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311152,
+      "num": 311152,
+      "word": "蔡卓妍长文纪念Twins红馆演唱会",
+      "onboard_time": 1707372391,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308585,
       "num": 308585,
       "word": "杨鸣回归辽宁男篮",
@@ -561,22 +585,6 @@
       "onboard_time": 1707368310,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 284367,
-      "num": 284367,
-      "word": "年终奖",
-      "onboard_time": 1707372808,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 281137,
-      "num": 281137,
-      "word": "媒体评梅西拒绝出场引骂战",
-      "onboard_time": 1707372149,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 280997,
@@ -627,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267502,
-      "num": 267502,
-      "word": "蔡卓妍长文纪念Twins红馆演唱会",
-      "onboard_time": 1707372391,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 255754,
       "num": 255754,
       "word": "或许这就是彩礼存在的真正意义",
@@ -649,6 +649,22 @@
       "onboard_time": 1707364711,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253238,
+      "num": 253238,
+      "word": "龙年春节前海鲜销量暴涨400%",
+      "onboard_time": 1707372991,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 240452,
+      "num": 240452,
+      "word": "星穹铁道春节",
+      "onboard_time": 1707373591,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 234298,
@@ -681,6 +697,14 @@
       "onboard_time": 1707312394,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221794,
+      "num": 221794,
+      "word": "人民日报评三无四无婚礼",
+      "onboard_time": 1707373289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217255,
@@ -721,6 +745,14 @@
       "onboard_time": 1707353790,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207895,
+      "num": 207895,
+      "word": "日本5.5吨核污染水泄漏或因人为",
+      "onboard_time": 1707373649,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205416,
@@ -793,6 +825,14 @@
       "onboard_time": 1707362250,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198813,
+      "num": 198813,
+      "word": "智族GQ贺岁图",
+      "onboard_time": 1707373531,
+      "rank": 31,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 197351,
@@ -873,14 +913,6 @@
       "onboard_time": 1707369510,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173524,
-      "num": 173524,
-      "word": "龙年春节前海鲜销量暴涨400%",
-      "onboard_time": 1707372991,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 171092,
@@ -1051,6 +1083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 144920,
+      "num": 144920,
+      "word": "一场三无婚礼的代价",
+      "onboard_time": 1707373108,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144561,
       "num": 144561,
       "word": "驻日使馆发言人回应核污染水泄露",
@@ -1195,8 +1235,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129902,
-      "num": 129902,
+      "raw_hot": 130346,
+      "num": 130346,
       "word": "假期就靠这些小说续命了",
       "onboard_time": 1707369213,
       "rank": 47,
@@ -1275,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122971,
-      "num": 122971,
-      "word": "一场三无婚礼的代价",
-      "onboard_time": 1707373108,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122763,
       "num": 122763,
       "word": "德云社节目单 盲盒",
@@ -1339,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "库迪咖啡下架AppStore",
+      "onboard_time": 1707374009,
+      "rank": 48,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 113736,
       "num": 113736,
       "word": "快船vs鹈鹕",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1707316417,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110198,
-      "num": 110198,
-      "word": "人民日报评三无四无婚礼",
-      "onboard_time": 1707373289,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106538,
