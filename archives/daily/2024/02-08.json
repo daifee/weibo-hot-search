@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707363252023,
+  "endTime": 1707366034074,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -27,6 +27,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2635466,
+      "num": 2635466,
+      "word": "梅西pdf",
+      "onboard_time": 1707361950,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1844786,
+      "num": 1844786,
+      "word": "梅西合同",
+      "onboard_time": 1707347241,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1779385,
       "num": 1779385,
       "word": "高海宁为理解梅西言论道歉",
@@ -43,28 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1551913,
-      "num": 1551913,
-      "word": "梅西合同",
-      "onboard_time": 1707347241,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1504111,
-      "num": 1504111,
-      "word": "梅西pdf",
-      "onboard_time": 1707361950,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1429397,
       "num": 1429397,
       "word": "梅西在日本上场粉丝怒剪签名球衣",
       "onboard_time": 1707351387,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1198694,
+      "num": 1198694,
+      "word": "春晚节目",
+      "onboard_time": 1707348322,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1192740,
@@ -97,14 +105,6 @@
       "onboard_time": 1707305852,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 882872,
-      "num": 882872,
-      "word": "春晚节目",
-      "onboard_time": 1707348322,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 880348,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 689947,
+      "num": 689947,
+      "word": "苏群支招梅西",
+      "onboard_time": 1707362973,
+      "rank": 15,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 646882,
       "num": 646882,
       "word": "刘涛刘诗诗李沁关晓彤同台",
@@ -179,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572836,
+      "num": 572836,
+      "word": "合同是否允许梅西缺阵",
+      "onboard_time": 1707364050,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569510,
       "num": 524504,
       "word": "霍启刚再发长文",
       "onboard_time": 1707309875,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 567492,
+      "num": 567492,
+      "word": "5吨多日本核污染水泄漏",
+      "onboard_time": 1707365010,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 566621,
@@ -203,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 547639,
+      "num": 547639,
+      "word": "刘诗诗也穿了唐装",
+      "onboard_time": 1707362853,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539531,
       "num": 539531,
       "word": "辛苦存了好几年的压岁钱居然都过期了",
       "onboard_time": 1707355773,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519145,
+      "num": 519145,
+      "word": "梅西事件始末",
+      "onboard_time": 1707365670,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 515777,
@@ -267,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413140,
-      "num": 413140,
-      "word": "苏群支招梅西",
-      "onboard_time": 1707362973,
-      "rank": 15,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 407536,
       "num": 407536,
       "word": "小黑粉",
@@ -315,6 +347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382790,
+      "num": 356679,
+      "word": "回家做美甲被老同学坑了",
+      "onboard_time": 1707363630,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 373801,
+      "num": 373801,
+      "word": "央视拍的杨幂",
+      "onboard_time": 1707362132,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372527,
       "num": 295750,
       "word": "龙王为什么都姓敖",
@@ -337,6 +385,22 @@
       "onboard_time": 1707347901,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 357721,
+      "num": 357721,
+      "word": "2NE1新合照",
+      "onboard_time": 1707364287,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354336,
+      "num": 354336,
+      "word": "王嘉尔金智秀热聊",
+      "onboard_time": 1707365371,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 349739,
@@ -395,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303780,
-      "num": 286899,
-      "word": "央视拍的杨幂",
-      "onboard_time": 1707362132,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 283279,
+      "num": 283279,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1707364889,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 280997,
@@ -451,12 +515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240430,
-      "num": 199805,
-      "word": "刘诗诗也穿了唐装",
-      "onboard_time": 1707362853,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 253513,
+      "num": 253513,
+      "word": "龙行龘龘前程朤朤",
+      "onboard_time": 1707364711,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234298,
@@ -473,6 +537,14 @@
       "onboard_time": 1707325045,
       "rank": 29,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 232635,
+      "num": 232635,
+      "word": "电影热烈韩国定档",
+      "onboard_time": 1707365250,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 230088,
@@ -587,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194390,
+      "num": 194390,
+      "word": "过年回家最害怕的事要来了",
+      "onboard_time": 1707365790,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192990,
       "num": 192990,
       "word": "张真源新歌出渊",
@@ -691,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153409,
+      "num": 153409,
+      "word": "里夫斯微信",
+      "onboard_time": 1707365609,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149527,
       "num": 149527,
       "word": "证监会新任主席一度被称券商医生",
@@ -739,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146240,
+      "num": 146240,
+      "word": "官方通报商家倒卖河南救灾物资",
+      "onboard_time": 1707363991,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141095,
       "num": 141095,
       "word": "NCT宣发",
@@ -771,12 +867,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137149,
+      "num": 1280888,
+      "word": "春节回家看老师",
+      "onboard_time": 1707361051,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136231,
       "num": 136231,
       "word": "美媒下场报道梅西之乱",
       "onboard_time": 1707260662,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132562,
+      "num": 132562,
+      "word": "阿里巴巴再回应出售饿了么传闻",
+      "onboard_time": 1707364595,
+      "rank": 40,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 132330,
@@ -907,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121393,
+      "num": 121393,
+      "word": "大侦探",
+      "onboard_time": 1707365970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120460,
       "num": 290816,
       "word": "海外机场看展车差点误机",
@@ -945,14 +1065,6 @@
       "onboard_time": 1707316417,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108922,
-      "num": 1280888,
-      "word": "春节回家看老师",
-      "onboard_time": 1707361051,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106538,
@@ -1147,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63943,
+      "num": 550629,
+      "word": "王者龙年贺岁短片欢乐上线",
+      "onboard_time": 1707364231,
+      "rank": 11,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 63331,
       "num": 77890,
       "word": "檀健次龙年春晚最后一次联排",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1707357990,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25970,
+      "num": 237633,
+      "word": "京东春晚1亿份实物好礼已发车",
+      "onboard_time": 1707365250,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 23745,

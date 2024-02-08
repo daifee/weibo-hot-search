@@ -1,0 +1,410 @@
+{
+  "runTime": 1707366034074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2635466,
+        "num": 2635466,
+        "word": "梅西pdf",
+        "onboard_time": 1707361950,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1844786,
+        "num": 1844786,
+        "word": "梅西合同",
+        "onboard_time": 1707347241,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137149,
+        "num": 1211673,
+        "word": "春节回家看老师",
+        "onboard_time": 1707361051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198694,
+        "num": 1198694,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 903378,
+        "num": 903378,
+        "word": "高海宁为理解梅西言论道歉",
+        "onboard_time": 1707358228,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 864756,
+        "num": 864756,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690154,
+        "num": 690154,
+        "word": "梅西在日本上场粉丝怒剪签名球衣",
+        "onboard_time": 1707351387,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689947,
+        "num": 689947,
+        "word": "苏群支招梅西",
+        "onboard_time": 1707362973,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 572836,
+        "num": 572836,
+        "word": "合同是否允许梅西缺阵",
+        "onboard_time": 1707364050,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567492,
+        "num": 567492,
+        "word": "5吨多日本核污染水泄漏",
+        "onboard_time": 1707365010,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 812995,
+        "num": 561206,
+        "word": "霍启刚愤怒回应梅西道歉",
+        "onboard_time": 1707310294,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63943,
+        "num": 550629,
+        "word": "王者龙年贺岁短片欢乐上线",
+        "onboard_time": 1707364231,
+        "rank": 11,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 740670,
+        "num": 549377,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547639,
+        "num": 547639,
+        "word": "刘诗诗也穿了唐装",
+        "onboard_time": 1707362853,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519145,
+        "num": 519145,
+        "word": "梅西事件始末",
+        "onboard_time": 1707365670,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460153,
+        "num": 460153,
+        "word": "疯狂动物城2定档",
+        "onboard_time": 1707357512,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423468,
+        "num": 423468,
+        "word": "梅西ins评论区沦陷",
+        "onboard_time": 1707350065,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374832,
+        "num": 374832,
+        "word": "牛仔裤被年轻人抛弃",
+        "onboard_time": 1707355707,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 373801,
+        "num": 373801,
+        "word": "央视拍的杨幂",
+        "onboard_time": 1707362132,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357721,
+        "num": 357721,
+        "word": "2NE1新合照",
+        "onboard_time": 1707364287,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805383,
+        "num": 357233,
+        "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
+        "onboard_time": 1707348624,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382790,
+        "num": 356679,
+        "word": "回家做美甲被老同学坑了",
+        "onboard_time": 1707363630,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354336,
+        "num": 354336,
+        "word": "王嘉尔金智秀热聊",
+        "onboard_time": 1707365371,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309600,
+        "num": 309600,
+        "word": "周深去年小兔子今年小龙人",
+        "onboard_time": 1707361110,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283279,
+        "num": 283279,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1707364889,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264771,
+        "num": 264771,
+        "word": "龙王为什么都姓敖",
+        "onboard_time": 1707359428,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 256463,
+        "num": 256463,
+        "word": "00后春节不回家躲相亲",
+        "onboard_time": 1707358228,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253513,
+        "num": 253513,
+        "word": "龙行龘龘前程朤朤",
+        "onboard_time": 1707364711,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251519,
+        "num": 251519,
+        "word": "王嘉尔在巴黎穿了唐装",
+        "onboard_time": 1707362610,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25970,
+        "num": 237633,
+        "word": "京东春晚1亿份实物好礼已发车",
+        "onboard_time": 1707365250,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232635,
+        "num": 232635,
+        "word": "电影热烈韩国定档",
+        "onboard_time": 1707365250,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219669,
+        "num": 219669,
+        "word": "梅西上场了",
+        "onboard_time": 1707305852,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211522,
+        "num": 211522,
+        "word": "杨幂 入梦风华",
+        "onboard_time": 1707358409,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204581,
+        "num": 204581,
+        "word": "辛苦存了好几年的压岁钱居然都过期了",
+        "onboard_time": 1707355773,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194390,
+        "num": 194390,
+        "word": "过年回家最害怕的事要来了",
+        "onboard_time": 1707365790,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187985,
+        "num": 187985,
+        "word": "iPhone16电池容量",
+        "onboard_time": 1707347901,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169248,
+        "num": 169248,
+        "word": "友情婚",
+        "onboard_time": 1707352168,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153409,
+        "num": 153409,
+        "word": "里夫斯微信",
+        "onboard_time": 1707365609,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146240,
+        "num": 146240,
+        "word": "官方通报商家倒卖河南救灾物资",
+        "onboard_time": 1707363991,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143841,
+        "num": 143841,
+        "word": "A股兔年最后一个交易日",
+        "onboard_time": 1707360331,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132562,
+        "num": 132562,
+        "word": "阿里巴巴再回应出售饿了么传闻",
+        "onboard_time": 1707364595,
+        "rank": 40,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 130988,
+        "num": 130988,
+        "word": "刘涛刘诗诗李沁关晓彤同台",
+        "onboard_time": 1707355950,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126635,
+        "num": 126635,
+        "word": "霍启刚再发长文",
+        "onboard_time": 1707309875,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126551,
+        "num": 126551,
+        "word": "朴彩英去了霉霉演唱会",
+        "onboard_time": 1707350550,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124563,
+        "num": 124563,
+        "word": "36岁女儿将水倒进油锅妈妈淡定清理",
+        "onboard_time": 1707319355,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122624,
+        "num": 122624,
+        "word": "新疆姑娘用艾德莱斯绸做马面裙",
+        "onboard_time": 1707362672,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 121560,
+        "num": 121560,
+        "word": "开飞机回家当事人称油耗1小时800元",
+        "onboard_time": 1707361591,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121393,
+        "num": 121393,
+        "word": "大侦探",
+        "onboard_time": 1707365970,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119197,
+        "num": 119197,
+        "word": "赵今麦偶像",
+        "onboard_time": 1707356252,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 118759,
+        "word": "杨鸣回归辽宁男篮",
+        "onboard_time": 1707359131,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
