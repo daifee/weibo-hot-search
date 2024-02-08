@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707398338516,
+  "endTime": 1707399267960,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -449,6 +449,14 @@
       "onboard_time": 1707135752,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1555692,
+      "num": 1555692,
+      "word": "小品 无聊",
+      "onboard_time": 1707397472,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1546180,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1707139834,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 969819,
+      "num": 969819,
+      "word": "一姐不一了",
+      "onboard_time": 1707397831,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 967786,
@@ -2171,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 666648,
-      "num": 666648,
-      "word": "小品 无聊",
-      "onboard_time": 1707397472,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 666165,
       "num": 666165,
       "word": "樊振东也喜欢霉霉",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1707089722,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645203,
+      "num": 645203,
+      "word": "梅西的伤与友谊赛的商",
+      "onboard_time": 1707395010,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 644640,
@@ -2432,14 +2448,6 @@
       "word": "梅西不会出席日本行赛后发布会",
       "onboard_time": 1707310534,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 614430,
-      "num": 614430,
-      "word": "梅西的伤与友谊赛的商",
-      "onboard_time": 1707395010,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -3771,6 +3779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 409018,
+      "num": 323256,
+      "word": "王俊凯将为川渝捐10座校园儿童图书馆",
+      "onboard_time": 1707397710,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408969,
       "num": 356679,
       "word": "回家做美甲被老同学坑了",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1707013651,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362053,
-      "num": 362053,
-      "word": "一姐不一了",
-      "onboard_time": 1707397831,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 361852,
@@ -4875,12 +4883,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311414,
+      "num": 311414,
+      "word": "和对象出cos见父母了",
+      "onboard_time": 1707397229,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 311152,
       "num": 311152,
       "word": "蔡卓妍长文纪念Twins红馆演唱会",
       "onboard_time": 1707372391,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 310871,
+      "num": 310871,
+      "word": "谭爷爷给朱一龙的新年礼物是花花",
+      "onboard_time": 1707398432,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 308837,
@@ -5033,6 +5057,14 @@
       "onboard_time": 1706964511,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300127,
+      "num": 300127,
+      "word": "为什么年轻人不爱吃糖果了",
+      "onboard_time": 1707397652,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 300003,
@@ -5451,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274327,
+      "num": 274327,
+      "word": "辽视春晚收视率",
+      "onboard_time": 1707396751,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273738,
       "num": 273738,
       "word": "邓为侧颜生图",
@@ -5827,14 +5867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 257850,
-      "num": 253201,
-      "word": "辽视春晚收视率",
-      "onboard_time": 1707396751,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256963,
       "num": 256963,
       "word": "白百何素颜",
@@ -5947,14 +5979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253839,
-      "num": 253839,
-      "word": "王俊凯将为川渝捐10座校园儿童图书馆",
-      "onboard_time": 1707397710,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253577,
       "num": 253577,
       "word": "WBG对战TES",
@@ -6009,6 +6033,14 @@
       "onboard_time": 1707126632,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251649,
+      "num": 251649,
+      "word": "刘诗诗关晓彤回味北京童年记忆",
+      "onboard_time": 1707398673,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 251312,
@@ -6347,14 +6379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239382,
-      "num": 239382,
-      "word": "和对象出cos见父母了",
-      "onboard_time": 1707397229,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 239124,
       "num": 239124,
       "word": "Fly和Gemini再现回忆杀",
@@ -6569,6 +6593,14 @@
       "onboard_time": 1707325045,
       "rank": 29,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 232853,
+      "num": 232853,
+      "word": "辽视春晚小品好多",
+      "onboard_time": 1707396512,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 232850,
@@ -6947,6 +6979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221901,
+      "num": 221901,
+      "word": "长相思吧官博发长文",
+      "onboard_time": 1707398914,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221326,
       "num": 221326,
       "word": "范志毅谈27年前被6万人骂",
@@ -7193,6 +7233,14 @@
       "onboard_time": 1707221851,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215660,
+      "num": 215660,
+      "word": "叶舒华因健康原因暂停所有活动",
+      "onboard_time": 1707398974,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 215582,
@@ -7451,6 +7499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209371,
+      "num": 209371,
+      "word": "一家4口回老家过年住酒店不住家",
+      "onboard_time": 1707396453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209226,
       "num": 209226,
       "word": "年前这几天大概率是最舒服的",
@@ -7505,14 +7561,6 @@
       "onboard_time": 1707039208,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 208331,
-      "num": 208331,
-      "word": "辽视春晚小品好多",
-      "onboard_time": 1707396512,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 208227,
@@ -7729,6 +7777,14 @@
       "onboard_time": 1707368911,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 204965,
+      "num": 173302,
+      "word": "檀健次教黄绮珊手势舞",
+      "onboard_time": 1707398253,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 204959,
@@ -8067,14 +8123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200538,
-      "num": 200538,
-      "word": "为什么年轻人不爱吃糖果了",
-      "onboard_time": 1707397652,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 200454,
       "num": 200454,
       "word": "ENHYPEN百万人抢票",
@@ -8097,14 +8145,6 @@
       "onboard_time": 1707312394,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200268,
-      "num": 200268,
-      "word": "一家4口回老家过年住酒店不住家",
-      "onboard_time": 1707396453,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200089,
@@ -8193,6 +8233,14 @@
       "onboard_time": 1707049652,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198346,
+      "num": 198346,
+      "word": "点鸳鸯锅朋友要和我绝交",
+      "onboard_time": 1707398133,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 198343,
@@ -9955,6 +10003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "能不能不煽情",
+      "onboard_time": 1707398856,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162233,
       "num": 162233,
       "word": "iG开场整活",
@@ -10987,14 +11043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144800,
-      "num": 144800,
-      "word": "点鸳鸯锅朋友要和我绝交",
-      "onboard_time": 1707398133,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144748,
       "num": 144748,
       "word": "冯巩 我爱辽篮",
@@ -11201,6 +11249,14 @@
       "onboard_time": 1707287429,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 141678,
+      "num": 141678,
+      "word": "年前几天上班反而是最开心的",
+      "onboard_time": 1707399215,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 141524,
@@ -12121,14 +12177,6 @@
       "onboard_time": 1707218611,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 127326,
-      "num": 127326,
-      "word": "檀健次教黄绮珊手势舞",
-      "onboard_time": 1707398253,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 127085,
@@ -13980,7 +14028,7 @@
     },
     {
       "raw_hot": 45217,
-      "num": 99276,
+      "num": 302693,
       "word": "山水终相见重逢就是年",
       "onboard_time": 1707384092,
       "rank": 48,
@@ -14569,6 +14617,14 @@
       "onboard_time": 1707168436,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11983,
+      "num": 1238648,
+      "word": "在非遗中邂逅龙年氛围感",
+      "onboard_time": 1707399034,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11724,
