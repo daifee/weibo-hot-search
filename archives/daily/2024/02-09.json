@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707417247609,
+  "endTime": 1707419656898,
   "band_list": [
     {
       "raw_hot": 1145038,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52072,
+      "num": 52072,
+      "word": "黄子佼性骚扰受害者发声",
+      "onboard_time": 1707418877,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51253,
       "num": 60256,
       "word": "新年头像",
@@ -465,6 +473,14 @@
       "onboard_time": 1707383550,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 17432,
+      "num": 22855,
+      "word": "坐小孩那桌",
+      "onboard_time": 1707419177,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 13027,

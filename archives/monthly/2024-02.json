@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707417247609,
+  "endTime": 1707419656898,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -22963,6 +22963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52072,
+      "num": 52072,
+      "word": "黄子佼性骚扰受害者发声",
+      "onboard_time": 1707418877,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51593,
       "num": 51593,
       "word": "灵隐寺除夕夜对外开放",
@@ -23881,6 +23889,14 @@
       "onboard_time": 1707158717,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17432,
+      "num": 22855,
+      "word": "坐小孩那桌",
+      "onboard_time": 1707419177,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 17254,
