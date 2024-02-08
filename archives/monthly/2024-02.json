@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707416466197,
+  "endTime": 1707417247609,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -22363,20 +22363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83326,
+      "num": 82905,
+      "word": "gidle健康状况",
+      "onboard_time": 1707414739,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83094,
       "num": 79543,
       "word": "周深身边首唱",
       "onboard_time": 1706979566,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82905,
-      "num": 82905,
-      "word": "gidle健康状况",
-      "onboard_time": 1707414739,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 82232,
@@ -24051,6 +24051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13027,
+      "num": 1238648,
+      "word": "在非遗中邂逅龙年氛围感",
+      "onboard_time": 1707399034,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12551,
       "num": 15081,
       "word": "如何看我妈是董明珠节目争议",
@@ -24081,14 +24089,6 @@
       "onboard_time": 1707168436,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11983,
-      "num": 1238648,
-      "word": "在非遗中邂逅龙年氛围感",
-      "onboard_time": 1707399034,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11724,
