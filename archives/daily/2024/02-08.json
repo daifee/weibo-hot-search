@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707401707062,
+  "endTime": 1707402855687,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -251,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 954963,
+      "num": 954963,
+      "word": "长相思吧官博发长文",
+      "onboard_time": 1707398914,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 942092,
       "num": 942092,
       "word": "客服回应梅西仍为蒙牛代言人",
@@ -331,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 869955,
-      "num": 869955,
-      "word": "长相思吧官博发长文",
-      "onboard_time": 1707398914,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 840560,
       "num": 840560,
       "word": "迈阿密主帅称梅西弃赛是团队决定",
@@ -360,6 +360,14 @@
       "word": "宁艺卓代言范思哲",
       "onboard_time": 1707370470,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 814821,
+      "num": 814821,
+      "word": "南柱赫校园暴力举报人与记者被起诉",
+      "onboard_time": 1707399576,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744835,
-      "num": 744835,
-      "word": "南柱赫校园暴力举报人与记者被起诉",
-      "onboard_time": 1707399576,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 720747,
       "num": 720747,
       "word": "疯狂动物城2定档",
@@ -449,6 +449,14 @@
       "onboard_time": 1707399693,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 703336,
+      "num": 703336,
+      "word": "为什么年轻人不爱吃糖果了",
+      "onboard_time": 1707397652,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 700321,
@@ -481,6 +489,14 @@
       "onboard_time": 1707378809,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 661681,
+      "num": 272057,
+      "word": "公公突然给了我1万块压岁钱",
+      "onboard_time": 1707400897,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 650720,
@@ -675,20 +691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480672,
+      "num": 480672,
+      "word": "换贾玲背张小斐",
+      "onboard_time": 1707400356,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 476717,
+      "num": 476717,
+      "word": "宋轶春晚大漏勺",
+      "onboard_time": 1707402517,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470186,
       "num": 298661,
       "word": "梅西向日本球迷告别",
       "onboard_time": 1707312155,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452946,
-      "num": 452946,
-      "word": "为什么年轻人不爱吃糖果了",
-      "onboard_time": 1707397652,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 450511,
@@ -729,6 +753,14 @@
       "onboard_time": 1707351988,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413482,
+      "num": 281676,
+      "word": "赵丽颖吃冻梨",
+      "onboard_time": 1707400956,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 408969,
@@ -923,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 334755,
+      "num": 228204,
+      "word": "3种假牛奶已被列入黑名单",
+      "onboard_time": 1707401915,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330848,
       "num": 330848,
       "word": "美军无人机袭击伊拉克首都",
@@ -971,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321883,
-      "num": 281676,
-      "word": "赵丽颖吃冻梨",
-      "onboard_time": 1707400956,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 321174,
       "num": 287779,
       "word": "王嘉尔在巴黎穿了唐装",
@@ -993,14 +1025,6 @@
       "onboard_time": 1707380550,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319753,
-      "num": 280160,
-      "word": "换贾玲背张小斐",
-      "onboard_time": 1707400356,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 312075,
@@ -1075,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297066,
+      "num": 238644,
+      "word": "还得是贾冰",
+      "onboard_time": 1707401856,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295825,
       "num": 295825,
       "word": "李栋旭曾因低谷期想退圈移民",
@@ -1131,20 +1163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277773,
+      "num": 275653,
+      "word": "广东人的喜好改变了大黄鱼的出厂色",
+      "onboard_time": 1707400715,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 276328,
       "num": 276328,
       "word": "猫 养孩子是俩人的事",
       "onboard_time": 1707366510,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275653,
-      "num": 275653,
-      "word": "广东人的喜好改变了大黄鱼的出厂色",
-      "onboard_time": 1707400715,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 274327,
@@ -1267,6 +1299,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 250113,
+      "num": 226593,
+      "word": "丁俊晖回复吴磊",
+      "onboard_time": 1707402517,
+      "rank": 31,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 247024,
       "num": 247024,
       "word": "海底捞出男团了",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1707373591,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239417,
-      "num": 239417,
-      "word": "公公突然给了我1万块压岁钱",
-      "onboard_time": 1707400897,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 238556,
@@ -1691,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189042,
+      "num": 189042,
+      "word": "写福字",
+      "onboard_time": 1707402275,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186727,
       "num": 186727,
       "word": "老小区的安全感来源于她们",
@@ -1715,12 +1755,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183517,
+      "num": 173214,
+      "word": "TF四团首登舞台",
+      "onboard_time": 1707401915,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182951,
       "num": 182951,
       "word": "邓为年画娃娃",
       "onboard_time": 1707387811,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182137,
+      "num": 182137,
+      "word": "中国银联回应被央行罚款1540万",
+      "onboard_time": 1707401434,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 180621,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1707391651,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 166485,
-      "num": 166485,
-      "word": "中国银联回应被央行罚款1540万",
-      "onboard_time": 1707401434,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 165787,
@@ -3021,6 +3069,9 @@
     },
     {
       "word": "#2024年春节团拜会#"
+    },
+    {
+      "word": "#中俄两国元首互致新春问候#"
     }
   ]
 }
