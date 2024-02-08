@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707410175040,
+  "endTime": 1707412640783,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -8179,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309564,
+      "num": 238979,
+      "word": "夏克立 一直等待夏天太难过",
+      "onboard_time": 1707409648,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308889,
       "num": 308889,
       "word": "抽出来的血最终去了哪儿",
@@ -16139,14 +16147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 166816,
-      "num": 145460,
-      "word": "夏克立 一直等待夏天太难过",
-      "onboard_time": 1707409648,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166778,
       "num": 166778,
       "word": "客厅打羽毛球",
@@ -21787,6 +21787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103771,
+      "num": 103771,
+      "word": "偷偷藏不住版龙年纪念币",
+      "onboard_time": 1707410968,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103762,
       "num": 137879,
       "word": "拜仁vs门兴",
@@ -22571,6 +22579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72303,
+      "num": 72303,
+      "word": "王源新歌年即是念上线",
+      "onboard_time": 1707411683,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 72242,
       "num": 72242,
       "word": "粉丝祝王星越新婚快乐",
@@ -22649,6 +22665,14 @@
       "onboard_time": 1707033928,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 68096,
+      "num": 66999,
+      "word": "南拳妈妈时隔十五年再登春晚",
+      "onboard_time": 1707412523,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 66897,
@@ -22945,6 +22969,14 @@
       "onboard_time": 1707082935,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51253,
+      "num": 60256,
+      "word": "新年头像",
+      "onboard_time": 1707411386,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 51231,
