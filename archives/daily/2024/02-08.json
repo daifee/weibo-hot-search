@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707358924290,
+  "endTime": 1707359625017,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 998356,
+      "num": 998356,
+      "word": "高海宁为理解梅西言论道歉",
+      "onboard_time": 1707358228,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 927498,
       "num": 1127815,
       "word": "河南卫视配享太庙",
@@ -99,6 +107,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 880069,
+      "num": 880069,
+      "word": "牛仔裤被年轻人抛弃",
+      "onboard_time": 1707355707,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 840560,
+      "num": 840560,
+      "word": "迈阿密主帅称梅西弃赛是团队决定",
+      "onboard_time": 1707355773,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 781802,
       "num": 315702,
       "word": "苏醒",
@@ -107,12 +131,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 738372,
-      "num": 738372,
-      "word": "迈阿密主帅称梅西弃赛是团队决定",
-      "onboard_time": 1707355773,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 720747,
+      "num": 720747,
+      "word": "疯狂动物城2定档",
+      "onboard_time": 1707357512,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 646882,
@@ -123,28 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639340,
-      "num": 639340,
-      "word": "牛仔裤被年轻人抛弃",
-      "onboard_time": 1707355707,
-      "rank": 29,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 634849,
       "num": 285469,
       "word": "36岁女儿将水倒进油锅妈妈淡定清理",
       "onboard_time": 1707319355,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596669,
-      "num": 596669,
-      "word": "疯狂动物城2定档",
-      "onboard_time": 1707357512,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 588386,
@@ -211,20 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 497212,
-      "num": 497212,
-      "word": "高海宁为理解梅西言论道歉",
-      "onboard_time": 1707358228,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 470186,
       "num": 298661,
       "word": "梅西向日本球迷告别",
       "onboard_time": 1707312155,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450511,
+      "num": 450511,
+      "word": "杨幂 入梦风华",
+      "onboard_time": 1707358409,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 446832,
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301084,
-      "num": 301084,
-      "word": "杨幂 入梦风华",
-      "onboard_time": 1707358409,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280997,
       "num": 280997,
       "word": "郭艾伦韩德君聊天记录",
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265662,
+      "num": 265662,
+      "word": "00后春节不回家躲相亲",
+      "onboard_time": 1707358228,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255754,
       "num": 255754,
       "word": "或许这就是彩礼存在的真正意义",
@@ -411,12 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218455,
+      "num": 218455,
+      "word": "杨鸣回归辽宁男篮",
+      "onboard_time": 1707359131,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217255,
       "num": 217255,
       "word": "要久久爱 8s吻戏",
       "onboard_time": 1707351088,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217228,
+      "num": 198616,
+      "word": "香港消委会及海关接梅西事件投诉超千宗",
+      "onboard_time": 1707359255,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 216570,
@@ -443,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203737,
-      "num": 203737,
-      "word": "00后春节不回家躲相亲",
-      "onboard_time": 1707358228,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203433,
       "num": 203433,
       "word": "已经开始算哪天洗头了",
@@ -467,6 +483,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 200708,
+      "num": 200708,
+      "word": "内娱最爱过年的男团oner",
+      "onboard_time": 1707358649,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196166,
       "num": 196166,
       "word": "张新成书法",
@@ -475,11 +499,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190810,
-      "num": 190810,
-      "word": "内娱最爱过年的男团oner",
-      "onboard_time": 1707358649,
-      "rank": 33,
+      "raw_hot": 195991,
+      "num": 195991,
+      "word": "堂本刚退社",
+      "onboard_time": 1707358049,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -491,20 +515,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182271,
-      "num": 182271,
-      "word": "堂本刚退社",
-      "onboard_time": 1707358049,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180621,
       "num": 180621,
       "word": "朋友式情侣关系",
       "onboard_time": 1707307655,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175144,
+      "num": 175144,
+      "word": "龙王为什么都姓敖",
+      "onboard_time": 1707359428,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 170509,
+      "num": 170509,
+      "word": "My Queen",
+      "onboard_time": 1707358590,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 168400,
@@ -520,6 +552,14 @@
       "word": "原来真的有人生啃冻梨啊",
       "onboard_time": 1707353430,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161800,
+      "num": 161800,
+      "word": "这个弟弟真的很奶牛猫",
+      "onboard_time": 1707359489,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -553,6 +593,14 @@
       "onboard_time": 1707327501,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153826,
+      "num": 153826,
+      "word": "足协介入调查教练唆使小球员照着人踢",
+      "onboard_time": 1707359131,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 149527,
@@ -593,14 +641,6 @@
       "onboard_time": 1707347060,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145003,
-      "num": 145003,
-      "word": "My Queen",
-      "onboard_time": 1707358590,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 141095,
@@ -675,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127827,
+      "num": 127827,
+      "word": "龙的英文翻译",
+      "onboard_time": 1707359255,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126535,
       "num": 126535,
       "word": "要久久爱大结局",
@@ -713,6 +761,14 @@
       "onboard_time": 1707353430,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120460,
+      "num": 128602,
+      "word": "海外机场看展车差点误机",
+      "onboard_time": 1707359428,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118913,
@@ -1003,8 +1059,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25243,
-      "num": 205770,
+      "raw_hot": 27877,
+      "num": 239171,
       "word": "京东春晚100辆岚图汽车已发车",
       "onboard_time": 1707357990,
       "rank": 28,
