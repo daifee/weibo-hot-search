@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707384835355,
+  "endTime": 1707387463333,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2720827,
-      "num": 1696230,
+      "num": 1836719,
       "word": "中国足协已暂停与阿根廷足协合作",
       "onboard_time": 1707381092,
       "rank": 36,
@@ -217,6 +217,14 @@
       "onboard_time": 1707010589,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2416847,
+      "num": 2416847,
+      "word": "龙不再翻译为dragon而是loong",
+      "onboard_time": 1707383794,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 2415304,
@@ -849,6 +857,14 @@
       "onboard_time": 1707117935,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1468577,
+      "num": 1468577,
+      "word": "江浙沪独生女",
+      "onboard_time": 1707386309,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1464648,
@@ -3707,14 +3723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620675,
-      "num": 527628,
-      "word": "龙不再翻译为dragon而是loong",
-      "onboard_time": 1707383794,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 620160,
       "num": 620160,
       "word": "郭麒麟又亲爹了",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1707012691,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588781,
+      "num": 588781,
+      "word": "霍启刚称梅西事件牵涉重大公众利益",
+      "onboard_time": 1707386610,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 585652,
@@ -5715,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425871,
+      "num": 425871,
+      "word": "王者荣耀回应梅西皮肤",
+      "onboard_time": 1707386610,
+      "rank": 13,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 424574,
       "num": 424574,
       "word": "高速瘫痪被堵乘客捡木柴烧火取暖",
@@ -6049,6 +6073,14 @@
       "onboard_time": 1706935591,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404242,
+      "num": 404242,
+      "word": "九重紫官宣阵容",
+      "onboard_time": 1707385651,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 404179,
@@ -7107,6 +7139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343870,
+      "num": 1890106,
+      "word": "民警女儿蹦蹦跳跳给每一辆警车挂中国结",
+      "onboard_time": 1707385832,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343772,
       "num": 343772,
       "word": "李雪琴 领导一定有他的难处",
@@ -7361,6 +7401,14 @@
       "onboard_time": 1707145293,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328912,
+      "num": 328912,
+      "word": "梅西日本上场粉丝哭诉无法再维护他",
+      "onboard_time": 1707385109,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 328738,
@@ -9043,6 +9091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263332,
+      "num": 263332,
+      "word": "年夜饭",
+      "onboard_time": 1707386673,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 263322,
       "num": 167311,
       "word": "林俊杰天津抢票",
@@ -9689,6 +9745,14 @@
       "onboard_time": 1707202709,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244240,
+      "num": 244240,
+      "word": "宋茜簪花图是AI合成的",
+      "onboard_time": 1707386252,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243887,
@@ -11539,6 +11603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210328,
+      "num": 210328,
+      "word": "叶刘淑仪说绝不应该允许梅西再来香港",
+      "onboard_time": 1707385051,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210211,
       "num": 210211,
       "word": "朱志鑫Baggy Jeans混剪",
@@ -12187,6 +12259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203678,
+      "num": 203678,
+      "word": "00后做年夜饭又卖力又敷衍",
+      "onboard_time": 1707386791,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203589,
       "num": 203589,
       "word": "山东春晚",
@@ -12465,6 +12545,14 @@
       "onboard_time": 1707276212,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201054,
+      "num": 201054,
+      "word": "天塌下来按番位逃生",
+      "onboard_time": 1707381092,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201006,
@@ -13907,6 +13995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185289,
+      "num": 185289,
+      "word": "大侦探这段太好笑了",
+      "onboard_time": 1707381629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184957,
       "num": 184957,
       "word": "原来不是没有年味了",
@@ -15283,14 +15379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167855,
-      "num": 167855,
-      "word": "大侦探这段太好笑了",
-      "onboard_time": 1707381629,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167670,
       "num": 167670,
       "word": "JDG对战LNG",
@@ -15947,14 +16035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160415,
-      "num": 160415,
-      "word": "天塌下来按番位逃生",
-      "onboard_time": 1707381092,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 160189,
       "num": 160189,
       "word": "世界之外",
@@ -16296,6 +16376,14 @@
       "word": "00后开始整顿酒局",
       "onboard_time": 1707041850,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155508,
+      "num": 155508,
+      "word": "泼天的富贵把留守猫咪整迷糊了",
+      "onboard_time": 1707386492,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -16889,6 +16977,14 @@
       "onboard_time": 1706715513,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148633,
+      "num": 1546199,
+      "word": "借出房车卫生间女生用家书回应网友",
+      "onboard_time": 1707386252,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 148569,
@@ -17961,6 +18057,14 @@
       "onboard_time": 1707120870,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137794,
+      "num": 137794,
+      "word": "大侦探9超前聚会体验版",
+      "onboard_time": 1707387152,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 137661,
@@ -19171,6 +19275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126521,
+      "num": 126521,
+      "word": "Kcon见面会",
+      "onboard_time": 1707386970,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126511,
       "num": 126511,
       "word": "BABYMONSTER新歌MV",
@@ -19699,6 +19811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120090,
+      "num": 120090,
+      "word": "海底捞出男团了",
+      "onboard_time": 1707387391,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120047,
       "num": 120047,
       "word": "霸王茶姬 陪跑",
@@ -19745,6 +19865,14 @@
       "onboard_time": 1707186029,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119747,
+      "num": 119747,
+      "word": "车主建议电车开长途得买20万以上的",
+      "onboard_time": 1707384933,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 119556,
@@ -19849,6 +19977,14 @@
       "onboard_time": 1707185909,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118166,
+      "num": 1479676,
+      "word": "爷奶探望3500公里外的戍边新警",
+      "onboard_time": 1707385832,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117967,
@@ -20739,6 +20875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105761,
+      "num": 105761,
+      "word": "回家过年不会说方言是什么体验",
+      "onboard_time": 1707387452,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105438,
       "num": 105438,
       "word": "反诈牢记8个不",
@@ -21393,6 +21537,14 @@
       "onboard_time": 1707342316,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80362,
+      "num": 1848001,
+      "word": "电视春节档年味满满",
+      "onboard_time": 1707384392,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80214,
@@ -22307,14 +22459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36779,
-      "num": 1401521,
-      "word": "电视春节档年味满满",
-      "onboard_time": 1707384392,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36615,
       "num": 36615,
       "word": "大学生群演",
@@ -22649,6 +22793,14 @@
       "onboard_time": 1707211171,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25929,
+      "num": 201707,
+      "word": "元梦里开了家咖啡厅",
+      "onboard_time": 1707386610,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 25490,

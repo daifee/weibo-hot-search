@@ -1,0 +1,410 @@
+{
+  "runTime": 1707387463333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2416847,
+        "num": 2416847,
+        "word": "龙不再翻译为dragon而是loong",
+        "onboard_time": 1707383794,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 343870,
+        "num": 1890106,
+        "word": "民警女儿蹦蹦跳跳给每一辆警车挂中国结",
+        "onboard_time": 1707385832,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80362,
+        "num": 1848001,
+        "word": "电视春节档年味满满",
+        "onboard_time": 1707384392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1836719,
+        "num": 1836719,
+        "word": "中国足协已暂停与阿根廷足协合作",
+        "onboard_time": 1707381092,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148633,
+        "num": 1546199,
+        "word": "借出房车卫生间女生用家书回应网友",
+        "onboard_time": 1707386252,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1504166,
+        "num": 1504166,
+        "word": "李佳琦红包",
+        "onboard_time": 1707383550,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118166,
+        "num": 1479676,
+        "word": "爷奶探望3500公里外的戍边新警",
+        "onboard_time": 1707385832,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468577,
+        "num": 1468577,
+        "word": "江浙沪独生女",
+        "onboard_time": 1707386309,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 810883,
+        "num": 810883,
+        "word": "C罗拜年",
+        "onboard_time": 1707381030,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653043,
+        "num": 653043,
+        "word": "梅西合同",
+        "onboard_time": 1707347241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1407281,
+        "num": 644317,
+        "word": "梅西惹到港媒真是踢到铁板了",
+        "onboard_time": 1707374130,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667784,
+        "num": 630532,
+        "word": "王者荣耀梅西皮肤",
+        "onboard_time": 1707375810,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 588781,
+        "num": 588781,
+        "word": "霍启刚称梅西事件牵涉重大公众利益",
+        "onboard_time": 1707386610,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425871,
+        "num": 425871,
+        "word": "王者荣耀回应梅西皮肤",
+        "onboard_time": 1707386610,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 415447,
+        "num": 415447,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447068,
+        "num": 413137,
+        "word": "阿根廷3月中国行大概率取消",
+        "onboard_time": 1707367228,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404242,
+        "num": 404242,
+        "word": "九重紫官宣阵容",
+        "onboard_time": 1707385651,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398556,
+        "num": 398556,
+        "word": "AppStore下架库迪APP",
+        "onboard_time": 1707378752,
+        "rank": 17,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 444149,
+        "num": 374084,
+        "word": "梅西不是第一次缺席",
+        "onboard_time": 1707378809,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339860,
+        "num": 339860,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328912,
+        "num": 328912,
+        "word": "梅西日本上场粉丝哭诉无法再维护他",
+        "onboard_time": 1707385109,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313716,
+        "num": 313716,
+        "word": "何超莲晒豪宅内景",
+        "onboard_time": 1707377970,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289422,
+        "num": 289422,
+        "word": "中国足协官网删除梅西新闻",
+        "onboard_time": 1707378809,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288353,
+        "num": 288353,
+        "word": "短发的韩素希",
+        "onboard_time": 1707379709,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263332,
+        "num": 263332,
+        "word": "年夜饭",
+        "onboard_time": 1707386673,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244240,
+        "num": 244240,
+        "word": "宋茜簪花图是AI合成的",
+        "onboard_time": 1707386252,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219154,
+        "num": 219154,
+        "word": "人民日报评三无四无婚礼",
+        "onboard_time": 1707373289,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210328,
+        "num": 210328,
+        "word": "叶刘淑仪说绝不应该允许梅西再来香港",
+        "onboard_time": 1707385051,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203678,
+        "num": 203678,
+        "word": "00后做年夜饭又卖力又敷衍",
+        "onboard_time": 1707386791,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25929,
+        "num": 201707,
+        "word": "元梦里开了家咖啡厅",
+        "onboard_time": 1707386610,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336503,
+        "num": 201622,
+        "word": "客服回应梅西仍为蒙牛代言人",
+        "onboard_time": 1707377852,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201054,
+        "num": 201054,
+        "word": "天塌下来按番位逃生",
+        "onboard_time": 1707381092,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194877,
+        "num": 194877,
+        "word": "过年不怕三缺一了",
+        "onboard_time": 1707382470,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 186102,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185289,
+        "num": 185289,
+        "word": "大侦探这段太好笑了",
+        "onboard_time": 1707381629,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156737,
+        "num": 156737,
+        "word": "迪丽热巴春晚",
+        "onboard_time": 1707370712,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155508,
+        "num": 155508,
+        "word": "泼天的富贵把留守猫咪整迷糊了",
+        "onboard_time": 1707386492,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146057,
+        "num": 146057,
+        "word": "陈赫晒邓超旧照",
+        "onboard_time": 1707383070,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145154,
+        "num": 145154,
+        "word": "奶奶这不是你的梦中情孙吗",
+        "onboard_time": 1707384150,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137794,
+        "num": 137794,
+        "word": "大侦探9超前聚会体验版",
+        "onboard_time": 1707387152,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135859,
+        "num": 135859,
+        "word": "王者荣耀",
+        "onboard_time": 1707381148,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133953,
+        "num": 133953,
+        "word": "男子被堵高速6天5夜吃光年货",
+        "onboard_time": 1707372508,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128221,
+        "num": 128221,
+        "word": "易烊千玺龙年新春祝福",
+        "onboard_time": 1707384212,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126521,
+        "num": 126521,
+        "word": "Kcon见面会",
+        "onboard_time": 1707386970,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123463,
+        "num": 123463,
+        "word": "身体这5个异常或是肝脏在求救",
+        "onboard_time": 1707379952,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120149,
+        "num": 120149,
+        "word": "A股超200股涨停",
+        "onboard_time": 1707381751,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120090,
+        "num": 120090,
+        "word": "海底捞出男团了",
+        "onboard_time": 1707387391,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119747,
+        "num": 119747,
+        "word": "车主建议电车开长途得买20万以上的",
+        "onboard_time": 1707384933,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116695,
+        "num": 116695,
+        "word": "宁艺卓代言范思哲",
+        "onboard_time": 1707370470,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105761,
+        "num": 105761,
+        "word": "回家过年不会说方言是什么体验",
+        "onboard_time": 1707387452,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
