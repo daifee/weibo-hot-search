@@ -1,0 +1,410 @@
+{
+  "runTime": 1707398338516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1565516,
+        "num": 1565516,
+        "word": "龙不再翻译为dragon而是loong",
+        "onboard_time": 1707383794,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1080412,
+        "num": 1080412,
+        "word": "李梦太硬了",
+        "onboard_time": 1707394111,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85240,
+        "num": 1054213,
+        "word": "电视春节档年味满满",
+        "onboard_time": 1707384392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046044,
+        "num": 1046044,
+        "word": "霍启刚评论区",
+        "onboard_time": 1707389733,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 996013,
+        "num": 996013,
+        "word": "科比被劝休息说攒钱看我比赛的人怎么办",
+        "onboard_time": 1707392852,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 991699,
+        "num": 991699,
+        "word": "中国足协已暂停与阿根廷足协合作",
+        "onboard_time": 1707381092,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 910642,
+        "num": 910642,
+        "word": "36岁的释小龙",
+        "onboard_time": 1707395133,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874054,
+        "num": 874054,
+        "word": "鹿晗晒合照给邓超庆生",
+        "onboard_time": 1707393812,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760232,
+        "num": 760232,
+        "word": "王者荣耀回应梅西皮肤",
+        "onboard_time": 1707386610,
+        "rank": 8,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 666648,
+        "num": 666648,
+        "word": "小品 无聊",
+        "onboard_time": 1707397472,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 931483,
+        "num": 650161,
+        "word": "梅西惹到港媒真是踢到铁板了",
+        "onboard_time": 1707374130,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614430,
+        "num": 614430,
+        "word": "梅西的伤与友谊赛的商",
+        "onboard_time": 1707395010,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596857,
+        "num": 596857,
+        "word": "王俊凯 重庆",
+        "onboard_time": 1707391594,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593916,
+        "num": 593916,
+        "word": "霍启刚发博拜年",
+        "onboard_time": 1707392491,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500096,
+        "num": 500096,
+        "word": "魏大勋穿大衣 内娱阿加西",
+        "onboard_time": 1707389076,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442550,
+        "num": 442550,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407541,
+        "num": 407541,
+        "word": "中国女篮47分大胜新西兰",
+        "onboard_time": 1707397113,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362053,
+        "num": 362053,
+        "word": "一姐不一了",
+        "onboard_time": 1707397831,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353757,
+        "num": 353757,
+        "word": "张颂文 你心里不也骂了人家几小时",
+        "onboard_time": 1707388053,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310752,
+        "num": 310752,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308909,
+        "num": 308909,
+        "word": "墨宝非宝能成为下一个顾漫吗",
+        "onboard_time": 1707387930,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217424,
+        "num": 307931,
+        "word": "借出房车卫生间女生用家书回应网友",
+        "onboard_time": 1707386252,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 307220,
+        "num": 307220,
+        "word": "工作一年过年给爸妈多少钱",
+        "onboard_time": 1707393512,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295685,
+        "num": 295685,
+        "word": "C罗拜年",
+        "onboard_time": 1707381030,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291574,
+        "num": 291574,
+        "word": "恋与深空电话",
+        "onboard_time": 1707396392,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275079,
+        "num": 275079,
+        "word": "辽视春晚",
+        "onboard_time": 1707390453,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253839,
+        "num": 253839,
+        "word": "王俊凯将为川渝捐10座校园儿童图书馆",
+        "onboard_time": 1707397710,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257850,
+        "num": 253201,
+        "word": "辽视春晚收视率",
+        "onboard_time": 1707396751,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252362,
+        "num": 252362,
+        "word": "同事大年三十的值班要和我换",
+        "onboard_time": 1707396031,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246339,
+        "num": 246339,
+        "word": "许光汉穿皮短裙",
+        "onboard_time": 1707393453,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364965,
+        "num": 244829,
+        "word": "李佳琦红包",
+        "onboard_time": 1707383550,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239382,
+        "num": 239382,
+        "word": "和对象出cos见父母了",
+        "onboard_time": 1707397229,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 208331,
+        "num": 208331,
+        "word": "辽视春晚小品好多",
+        "onboard_time": 1707396512,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200538,
+        "num": 200538,
+        "word": "为什么年轻人不爱吃糖果了",
+        "onboard_time": 1707397652,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200268,
+        "num": 200268,
+        "word": "一家4口回老家过年住酒店不住家",
+        "onboard_time": 1707396453,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197564,
+        "num": 197564,
+        "word": "孔刘帮李栋旭走出低谷期",
+        "onboard_time": 1707390993,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193626,
+        "num": 193626,
+        "word": "猪牛羊身上3个部位绝不能吃",
+        "onboard_time": 1707394712,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193490,
+        "num": 193490,
+        "word": "朱一龙芭比粉外套",
+        "onboard_time": 1707396811,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169822,
+        "num": 169822,
+        "word": "梅西日本上场粉丝哭诉无法再维护他",
+        "onboard_time": 1707385109,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156910,
+        "num": 156910,
+        "word": "小龙糕",
+        "onboard_time": 1707389855,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144800,
+        "num": 144800,
+        "word": "点鸳鸯锅朋友要和我绝交",
+        "onboard_time": 1707398133,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143114,
+        "num": 143114,
+        "word": "霍启刚称梅西事件牵涉重大公众利益",
+        "onboard_time": 1707386610,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142770,
+        "num": 142770,
+        "word": "韩旭9投9中",
+        "onboard_time": 1707396992,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141328,
+        "num": 141328,
+        "word": "烟花",
+        "onboard_time": 1707393629,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139224,
+        "num": 139224,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133565,
+        "num": 133565,
+        "word": "王一博UNIQ时期路演",
+        "onboard_time": 1707389910,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132544,
+        "num": 132544,
+        "word": "陈泽唱歌",
+        "onboard_time": 1707394830,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128380,
+        "num": 128380,
+        "word": "傲慢与偏见 小说鼻祖",
+        "onboard_time": 1707390216,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 127326,
+        "num": 127326,
+        "word": "檀健次教黄绮珊手势舞",
+        "onboard_time": 1707398253,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118918,
+        "num": 118918,
+        "word": "巴黎奥运会奖牌公布",
+        "onboard_time": 1707390871,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024春节团拜会举行#"
+    }
+  }
+}
