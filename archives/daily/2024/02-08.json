@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707380441137,
+  "endTime": 1707381241879,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -43,19 +43,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1983571,
+      "num": 992385,
+      "word": "中国足协官网删除梅西新闻",
+      "onboard_time": 1707378809,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1966449,
       "num": 1844786,
       "word": "梅西合同",
       "onboard_time": 1707347241,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1851076,
-      "num": 992385,
-      "word": "中国足协官网删除梅西新闻",
-      "onboard_time": 1707378809,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -283,6 +283,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 648907,
+      "num": 648907,
+      "word": "外交部两问日本核污染水泄漏",
+      "onboard_time": 1707379409,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 646882,
       "num": 646882,
       "word": "刘涛刘诗诗李沁关晓彤同台",
@@ -307,12 +315,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 592471,
-      "num": 536506,
+      "raw_hot": 623330,
+      "num": 623330,
+      "word": "短发的韩素希",
+      "onboard_time": 1707379709,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600987,
+      "num": 600987,
       "word": "梅西不是第一次缺席",
       "onboard_time": 1707378809,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 592901,
+      "num": 592901,
+      "word": "AppStore下架库迪APP",
+      "onboard_time": 1707378752,
+      "rank": 12,
+      "category": "互联网,美食"
     },
     {
       "raw_hot": 588386,
@@ -337,14 +361,6 @@
       "onboard_time": 1707364050,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 569525,
-      "num": 569525,
-      "word": "外交部两问日本核污染水泄漏",
-      "onboard_time": 1707379409,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 569510,
@@ -433,14 +449,6 @@
       "onboard_time": 1707312155,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 469457,
-      "num": 469457,
-      "word": "AppStore下架库迪APP",
-      "onboard_time": 1707378752,
-      "rank": 12,
-      "category": "互联网,美食"
     },
     {
       "raw_hot": 450511,
@@ -643,20 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324910,
-      "num": 324910,
-      "word": "短发的韩素希",
-      "onboard_time": 1707379709,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 321174,
       "num": 287779,
       "word": "王嘉尔在巴黎穿了唐装",
       "onboard_time": 1707362610,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320096,
+      "num": 320096,
+      "word": "香港立法会议员要求赛事主办方一周内退款",
+      "onboard_time": 1707380550,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 311152,
@@ -835,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220913,
+      "num": 220913,
+      "word": "宋茜簪花女郎",
+      "onboard_time": 1707380731,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217255,
       "num": 217255,
       "word": "要久久爱 8s吻戏",
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213994,
+      "num": 184435,
+      "word": "C罗拜年",
+      "onboard_time": 1707381030,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213901,
       "num": 213901,
       "word": "灵儿与久酷聊转会原因",
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 212654,
-      "num": 147443,
+      "num": 210452,
       "word": "Selina产后大片",
       "onboard_time": 1707379228,
       "rank": 30,
@@ -987,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194778,
+      "num": 194778,
+      "word": "回家过年",
+      "onboard_time": 1707380611,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194390,
       "num": 194390,
       "word": "过年回家最害怕的事要来了",
@@ -1091,6 +1123,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 165787,
+      "num": 165787,
+      "word": "买年货",
+      "onboard_time": 1707380849,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164527,
+      "num": 164527,
+      "word": "身体这5个异常或是肝脏在求救",
+      "onboard_time": 1707379952,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163882,
       "num": 163882,
       "word": "原来真的有人生啃冻梨啊",
@@ -1179,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151750,
+      "num": 151750,
+      "word": "繁花剧组将与谭爷爷一起春晚拜年",
+      "onboard_time": 1707379709,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149527,
       "num": 149527,
       "word": "证监会新任主席一度被称券商医生",
@@ -1211,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149139,
+      "num": 149139,
+      "word": "王者荣耀",
+      "onboard_time": 1707381148,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148411,
       "num": 148411,
       "word": "龙年开始后气温回升",
@@ -1219,20 +1283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147629,
+      "num": 147629,
+      "word": "中国足协已暂停与阿根廷足协合作",
+      "onboard_time": 1707381092,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147550,
       "num": 147550,
       "word": "龚俊 一个人演完春晚",
       "onboard_time": 1707347060,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147448,
-      "num": 147448,
-      "word": "繁花剧组将与谭爷爷一起春晚拜年",
-      "onboard_time": 1707379709,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146349,
@@ -1347,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135895,
+      "num": 135895,
+      "word": "外交部回应日本泄漏5.5吨核污染水",
+      "onboard_time": 1707380550,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134314,
       "num": 134314,
       "word": "肖战祝大家龙年皆如意",
@@ -1441,14 +1513,6 @@
       "onboard_time": 1707361888,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125570,
-      "num": 125570,
-      "word": "身体这5个异常或是肝脏在求救",
-      "onboard_time": 1707379952,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 125353,
@@ -1563,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118300,
+      "num": 118300,
+      "word": "马宁担任亚洲杯决赛主裁",
+      "onboard_time": 1707381211,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117865,
       "num": 117865,
       "word": "霉霉东京演唱会",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1707354749,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114542,
+      "num": 114542,
+      "word": "天塌下来按番位逃生",
+      "onboard_time": 1707381092,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113855,
@@ -1611,6 +1691,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111414,
+      "num": 111414,
+      "word": "明明坐着上班为什么还是感觉很累",
+      "onboard_time": 1707379830,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110401,
+      "num": 110401,
+      "word": "红包焦虑",
+      "onboard_time": 1707380849,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110010,
+      "num": 110010,
+      "word": "在那个没有WiFi的童年",
+      "onboard_time": 1707380193,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106538,
       "num": 106538,
       "word": "跟拍边防战士记者哭了",
@@ -1633,14 +1737,6 @@
       "onboard_time": 1707319953,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104505,
-      "num": 104505,
-      "word": "在那个没有WiFi的童年",
-      "onboard_time": 1707380193,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 103592,
@@ -1681,14 +1777,6 @@
       "onboard_time": 1707318093,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96639,
-      "num": 96639,
-      "word": "明明坐着上班为什么还是感觉很累",
-      "onboard_time": 1707379830,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 96626,
