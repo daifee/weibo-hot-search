@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707419656898,
+  "endTime": 1707420838415,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -22419,6 +22419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80884,
+      "num": 66224,
+      "word": "黄子佼性骚扰受害者发声",
+      "onboard_time": 1707418877,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80214,
       "num": 137853,
       "word": "小兰的365个初恋瞬间",
@@ -22961,14 +22969,6 @@
       "onboard_time": 1706841870,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52072,
-      "num": 52072,
-      "word": "黄子佼性骚扰受害者发声",
-      "onboard_time": 1707418877,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 51593,
@@ -23803,6 +23803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22097,
+      "num": 22855,
+      "word": "坐小孩那桌",
+      "onboard_time": 1707419177,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22084,
       "num": 430834,
       "word": "蛋仔春节版本前瞻直播",
@@ -23889,14 +23897,6 @@
       "onboard_time": 1707158717,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17432,
-      "num": 22855,
-      "word": "坐小孩那桌",
-      "onboard_time": 1707419177,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 17254,
