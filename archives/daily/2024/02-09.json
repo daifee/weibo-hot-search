@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707426994473,
+  "endTime": 1707428118372,
   "band_list": [
     {
       "raw_hot": 1145038,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79294,
+      "num": 95307,
+      "word": "一家4口回老家过年住酒店不住家",
+      "onboard_time": 1707396453,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76742,
       "num": 97048,
       "word": "允许一切发生",
@@ -419,11 +427,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75910,
-      "num": 95307,
-      "word": "一家4口回老家过年住酒店不住家",
-      "onboard_time": 1707396453,
-      "rank": 49,
+      "raw_hot": 72996,
+      "num": 41668,
+      "word": "官方回应网民建议70岁老人不从事物业服务",
+      "onboard_time": 1707424576,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -467,20 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40457,
-      "num": 40457,
-      "word": "官方回应网民建议70岁老人不从事物业服务",
-      "onboard_time": 1707424576,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35217,
+      "raw_hot": 39034,
       "num": 31340,
       "word": "00后开始整顿过年了",
       "onboard_time": 1707423437,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37003,
+      "num": 19738,
+      "word": "女儿凌晨五点半喊爸妈起床吃早饭",
+      "onboard_time": 1707426855,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30751,
@@ -507,8 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15374,
-      "num": 15374,
+      "raw_hot": 16080,
+      "num": 16080,
       "word": "不会打掼蛋的人有福了",
       "onboard_time": 1707423555,
       "rank": 46,
@@ -523,15 +531,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13027,
-      "num": 424713,
-      "word": "在非遗中邂逅龙年氛围感",
-      "onboard_time": 1707399034,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12254,
+      "raw_hot": 13106,
       "num": 13485,
       "word": "校外培训条例出炉",
       "onboard_time": 1707424756,
@@ -539,11 +539,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 11799,
-      "num": 13476,
-      "word": "女儿凌晨五点半喊爸妈起床吃早饭",
-      "onboard_time": 1707426855,
-      "rank": 49,
+      "raw_hot": 13027,
+      "num": 424713,
+      "word": "在非遗中邂逅龙年氛围感",
+      "onboard_time": 1707399034,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
