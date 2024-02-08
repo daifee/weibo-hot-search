@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707376611068,
+  "endTime": 1707377656274,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2836318,
+      "num": 1139061,
+      "word": "梅西惹到港媒真是踢到铁板了",
+      "onboard_time": 1707374130,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2775213,
       "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
@@ -129,14 +137,6 @@
       "onboard_time": 1707013112,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2616138,
-      "num": 935458,
-      "word": "梅西惹到港媒真是踢到铁板了",
-      "onboard_time": 1707374130,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2516787,
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1255529,
+      "num": 957929,
+      "word": "王者荣耀梅西皮肤",
+      "onboard_time": 1707375810,
+      "rank": 8,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 1251899,
       "num": 1251899,
       "word": "刘亦菲刘宇宁或将合作",
@@ -665,6 +673,14 @@
       "onboard_time": 1707017551,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1170546,
+      "num": 1170546,
+      "word": "人民日报评三无四无婚礼",
+      "onboard_time": 1707373289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1169126,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1707047794,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 922328,
-      "num": 922328,
-      "word": "人民日报评三无四无婚礼",
-      "onboard_time": 1707373289,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 920743,
@@ -1619,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 751226,
+      "num": 716496,
+      "word": "库迪咖啡下架AppStore",
+      "onboard_time": 1707374009,
+      "rank": 48,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 750543,
       "num": 750543,
       "word": "宋雨琦与Minnie曾喜欢同一男生",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1707284970,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716496,
-      "num": 716496,
-      "word": "库迪咖啡下架AppStore",
-      "onboard_time": 1707374009,
-      "rank": 48,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 716292,
@@ -2209,14 +2217,6 @@
       "onboard_time": 1707204511,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 624688,
-      "num": 624688,
-      "word": "王者荣耀梅西皮肤",
-      "onboard_time": 1707375810,
-      "rank": 8,
-      "category": "体育,游戏"
     },
     {
       "raw_hot": 621455,
@@ -4067,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355921,
+      "num": 355921,
+      "word": "黄子佼向性骚扰受害者道歉",
+      "onboard_time": 1707376593,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354884,
       "num": 254404,
       "word": "已读不回就是绝杀",
@@ -4201,6 +4209,14 @@
       "onboard_time": 1707318335,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338044,
+      "num": 338044,
+      "word": "游本昌芭莎质感大片",
+      "onboard_time": 1707375991,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332904,
@@ -4627,6 +4643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301821,
+      "num": 301821,
+      "word": "彭昱畅和天津大爷一块跳水",
+      "onboard_time": 1707376348,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 301705,
       "num": 301705,
       "word": "说唱歌手格莱美拿奖后被逮捕",
@@ -4937,14 +4961,6 @@
       "onboard_time": 1707048571,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 281171,
-      "num": 281171,
-      "word": "游本昌芭莎质感大片",
-      "onboard_time": 1707375991,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280162,
@@ -6131,6 +6147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232128,
+      "num": 232128,
+      "word": "大侦探9首案预告",
+      "onboard_time": 1707376593,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231915,
       "num": 231915,
       "word": "中国龙和西方龙的区别",
@@ -6433,14 +6457,6 @@
       "onboard_time": 1706967393,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221368,
-      "num": 221368,
-      "word": "彭昱畅和天津大爷一块跳水",
-      "onboard_time": 1707376348,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 221326,
@@ -7297,14 +7313,6 @@
       "onboard_time": 1707034949,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203150,
-      "num": 203150,
-      "word": "大侦探9首案预告",
-      "onboard_time": 1707376593,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 203143,
@@ -10899,6 +10907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134061,
+      "num": 134061,
+      "word": "把老丈人处成兄弟日子好过多了",
+      "onboard_time": 1707377371,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133671,
       "num": 133671,
       "word": "百度输入法上线付费VIP",
@@ -11387,6 +11403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "犬夜叉 犬薇小夫妻拜年",
+      "onboard_time": 1707376169,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125101,
       "num": 125101,
       "word": "苦累竟然是一道河北美食的名字",
@@ -11739,6 +11763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119336,
+      "num": 119336,
+      "word": "转融券交易基本已经暂停",
+      "onboard_time": 1707376889,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119087,
       "num": 119087,
       "word": "苏醒放弃进军TVB的原因",
@@ -11843,20 +11875,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116397,
-      "num": 116397,
-      "word": "犬夜叉 犬薇小夫妻拜年",
-      "onboard_time": 1707376169,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 116122,
       "num": 116122,
       "word": "魏大勋重逢唱出青春的荣耀",
       "onboard_time": 1707139111,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115814,
+      "num": 115814,
+      "word": "龙年壁纸",
+      "onboard_time": 1707376649,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 115685,
@@ -12121,14 +12153,6 @@
       "onboard_time": 1707004105,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108865,
-      "num": 108865,
-      "word": "黄子佼向性骚扰受害者道歉",
-      "onboard_time": 1707376593,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 107734,
