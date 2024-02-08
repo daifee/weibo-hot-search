@@ -1,0 +1,410 @@
+{
+  "runTime": 1707401707062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1926948,
+        "num": 1926948,
+        "word": "小品 无聊",
+        "onboard_time": 1707397472,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1094675,
+        "num": 1094675,
+        "word": "龙不再翻译为dragon而是loong",
+        "onboard_time": 1707383794,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138102,
+        "num": 1039018,
+        "word": "我的龙年仪式感",
+        "onboard_time": 1707399631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014163,
+        "num": 1014163,
+        "word": "一姐不一了",
+        "onboard_time": 1707397831,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 869955,
+        "num": 869955,
+        "word": "长相思吧官博发长文",
+        "onboard_time": 1707398914,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772879,
+        "num": 772879,
+        "word": "叶舒华因健康原因暂停所有活动",
+        "onboard_time": 1707398974,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749271,
+        "num": 749271,
+        "word": "霍启刚评论区",
+        "onboard_time": 1707389733,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744835,
+        "num": 744835,
+        "word": "南柱赫校园暴力举报人与记者被起诉",
+        "onboard_time": 1707399576,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720263,
+        "num": 720263,
+        "word": "中国银联被央行罚款1540万元",
+        "onboard_time": 1707399693,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 650720,
+        "num": 650720,
+        "word": "梅西的伤与友谊赛的商",
+        "onboard_time": 1707395010,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 920051,
+        "num": 643157,
+        "word": "梅西惹到港媒真是踢到铁板了",
+        "onboard_time": 1707374130,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630563,
+        "num": 630563,
+        "word": "36岁的释小龙",
+        "onboard_time": 1707395133,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599131,
+        "num": 599131,
+        "word": "谭爷爷给朱一龙的新年礼物是花花",
+        "onboard_time": 1707398432,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538039,
+        "num": 538039,
+        "word": "王者荣耀回应梅西皮肤",
+        "onboard_time": 1707386610,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 529554,
+        "num": 529554,
+        "word": "王俊凯将为川渝捐10座校园儿童图书馆",
+        "onboard_time": 1707397710,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452946,
+        "num": 452946,
+        "word": "为什么年轻人不爱吃糖果了",
+        "onboard_time": 1707397652,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 424067,
+        "num": 424067,
+        "word": "李梦太硬了",
+        "onboard_time": 1707394111,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417616,
+        "num": 417616,
+        "word": "鹿晗晒合照给邓超庆生",
+        "onboard_time": 1707393812,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398563,
+        "num": 398563,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347833,
+        "num": 347833,
+        "word": "科比被劝休息说攒钱看我比赛的人怎么办",
+        "onboard_time": 1707392852,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395853,
+        "num": 345122,
+        "word": "魏大勋穿大衣 内娱阿加西",
+        "onboard_time": 1707389076,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360939,
+        "num": 342971,
+        "word": "霍启刚发博拜年",
+        "onboard_time": 1707392491,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338769,
+        "num": 338769,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327965,
+        "num": 327965,
+        "word": "允许一切发生",
+        "onboard_time": 1707399816,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281927,
+        "num": 281927,
+        "word": "一家4口回老家过年住酒店不住家",
+        "onboard_time": 1707396453,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321883,
+        "num": 281676,
+        "word": "赵丽颖吃冻梨",
+        "onboard_time": 1707400956,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319753,
+        "num": 280160,
+        "word": "换贾玲背张小斐",
+        "onboard_time": 1707400356,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275653,
+        "num": 275653,
+        "word": "广东人的喜好改变了大黄鱼的出厂色",
+        "onboard_time": 1707400715,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 266838,
+        "num": 266838,
+        "word": "辽视春晚收视率",
+        "onboard_time": 1707396751,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256694,
+        "num": 256694,
+        "word": "C罗拜年",
+        "onboard_time": 1707381030,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258410,
+        "num": 255421,
+        "word": "能不能不煽情",
+        "onboard_time": 1707398856,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244834,
+        "num": 244834,
+        "word": "张颂文 你心里不也骂了人家几小时",
+        "onboard_time": 1707388053,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239417,
+        "num": 239417,
+        "word": "公公突然给了我1万块压岁钱",
+        "onboard_time": 1707400897,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236565,
+        "num": 236565,
+        "word": "王俊凯 重庆",
+        "onboard_time": 1707391594,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199586,
+        "num": 235304,
+        "word": "和对象出cos见父母了",
+        "onboard_time": 1707397229,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 234970,
+        "num": 234970,
+        "word": "李佳琦红包",
+        "onboard_time": 1707383550,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217625,
+        "num": 217625,
+        "word": "辽视春晚",
+        "onboard_time": 1707390453,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 928567,
+        "num": 213103,
+        "word": "中国足协已暂停与阿根廷足协合作",
+        "onboard_time": 1707381092,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196685,
+        "num": 196685,
+        "word": "工作一年过年给爸妈多少钱",
+        "onboard_time": 1707393512,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191616,
+        "num": 191616,
+        "word": "同事大年三十的值班要和我换",
+        "onboard_time": 1707396031,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202917,
+        "num": 188610,
+        "word": "周深亮相春晚第五次联排",
+        "onboard_time": 1707401075,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182873,
+        "num": 182873,
+        "word": "梅西日本上场粉丝哭诉无法再维护他",
+        "onboard_time": 1707385109,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177497,
+        "num": 177497,
+        "word": "宝能过苦日子 但也想过好日子",
+        "onboard_time": 1707400597,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175970,
+        "num": 175970,
+        "word": "小龙糕",
+        "onboard_time": 1707389855,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171606,
+        "num": 171606,
+        "word": "李宗恒张百乔上桌",
+        "onboard_time": 1707401375,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167370,
+        "num": 167370,
+        "word": "刘诗诗关晓彤回味北京童年记忆",
+        "onboard_time": 1707398673,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166485,
+        "num": 166485,
+        "word": "中国银联回应被央行罚款1540万",
+        "onboard_time": 1707401434,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158425,
+        "num": 158425,
+        "word": "辽视春晚小品好多",
+        "onboard_time": 1707396512,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156390,
+        "num": 156390,
+        "word": "中国女篮47分大胜新西兰",
+        "onboard_time": 1707397113,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "霍启刚称梅西事件牵涉重大公众利益",
+        "onboard_time": 1707386610,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年春节团拜会#"
+    }
+  }
+}

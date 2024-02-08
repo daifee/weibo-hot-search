@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707399267960,
+  "endTime": 1707401707062,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -443,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1926948,
+      "num": 1926948,
+      "word": "小品 无聊",
+      "onboard_time": 1707397472,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1922130,
       "num": 1922130,
       "word": "霸王茶姬 失眠",
@@ -753,14 +761,6 @@
       "onboard_time": 1706712333,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1555692,
-      "num": 1555692,
-      "word": "小品 无聊",
-      "onboard_time": 1707397472,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 1548781,
@@ -1683,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014163,
+      "num": 1014163,
+      "word": "一姐不一了",
+      "onboard_time": 1707397831,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014040,
       "num": 617259,
       "word": "医生怒斥杨波头孢配酒死不了言论",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1706941531,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 969819,
-      "num": 969819,
-      "word": "一姐不一了",
-      "onboard_time": 1707397831,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 967786,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1707124951,
       "rank": 15,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 869955,
+      "num": 869955,
+      "word": "长相思吧官博发长文",
+      "onboard_time": 1707398914,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 868487,
@@ -2731,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772879,
+      "num": 772879,
+      "word": "叶舒华因健康原因暂停所有活动",
+      "onboard_time": 1707398974,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772290,
       "num": 772290,
       "word": "霉霉高开衩白裙",
@@ -2899,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744835,
+      "num": 744835,
+      "word": "南柱赫校园暴力举报人与记者被起诉",
+      "onboard_time": 1707399576,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744701,
       "num": 744701,
       "word": "梅西希望有机会再去香港",
@@ -3057,6 +3081,14 @@
       "onboard_time": 1707357512,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 720263,
+      "num": 720263,
+      "word": "中国银联被央行罚款1540万元",
+      "onboard_time": 1707399693,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 719719,
@@ -3515,6 +3547,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 650720,
+      "num": 650720,
+      "word": "梅西的伤与友谊赛的商",
+      "onboard_time": 1707395010,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649900,
       "num": 649900,
       "word": "孩子玩手机把导航从回江西换到福建",
@@ -3593,14 +3633,6 @@
       "onboard_time": 1706967992,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645203,
-      "num": 645203,
-      "word": "梅西的伤与友谊赛的商",
-      "onboard_time": 1707395010,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 644640,
@@ -3960,6 +3992,14 @@
       "word": "终于等到肖战",
       "onboard_time": 1706977709,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 599131,
+      "num": 599131,
+      "word": "谭爷爷给朱一龙的新年礼物是花花",
+      "onboard_time": 1707398432,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -4649,6 +4689,14 @@
       "onboard_time": 1706782051,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 529554,
+      "num": 529554,
+      "word": "王俊凯将为川渝捐10座校园儿童图书馆",
+      "onboard_time": 1707397710,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 528853,
@@ -5483,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452946,
+      "num": 452946,
+      "word": "为什么年轻人不爱吃糖果了",
+      "onboard_time": 1707397652,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 452237,
       "num": 425210,
       "word": "11万股民跌停板上凌乱了",
@@ -6145,14 +6201,6 @@
       "onboard_time": 1706946571,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 409018,
-      "num": 323256,
-      "word": "王俊凯将为川渝捐10座校园儿童图书馆",
-      "onboard_time": 1707397710,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 408969,
@@ -7619,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327965,
+      "num": 327965,
+      "word": "允许一切发生",
+      "onboard_time": 1707399816,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327846,
       "num": 327846,
       "word": "姆巴佩下赛季加盟皇马",
@@ -7755,6 +7811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321883,
+      "num": 281676,
+      "word": "赵丽颖吃冻梨",
+      "onboard_time": 1707400956,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321174,
       "num": 287779,
       "word": "王嘉尔在巴黎穿了唐装",
@@ -7793,6 +7857,14 @@
       "onboard_time": 1706751150,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 319753,
+      "num": 280160,
+      "word": "换贾玲背张小斐",
+      "onboard_time": 1707400356,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 319569,
@@ -8001,14 +8073,6 @@
       "onboard_time": 1706792853,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310871,
-      "num": 310871,
-      "word": "谭爷爷给朱一龙的新年礼物是花花",
-      "onboard_time": 1707398432,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 310085,
@@ -8289,14 +8353,6 @@
       "onboard_time": 1706953589,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 300127,
-      "num": 300127,
-      "word": "为什么年轻人不爱吃糖果了",
-      "onboard_time": 1707397652,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 300003,
@@ -8731,6 +8787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281927,
+      "num": 281927,
+      "word": "一家4口回老家过年住酒店不住家",
+      "onboard_time": 1707396453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281718,
       "num": 218261,
       "word": "回村烤火把美甲烤弯了",
@@ -8969,6 +9033,14 @@
       "onboard_time": 1706836049,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275653,
+      "num": 275653,
+      "word": "广东人的喜好改变了大黄鱼的出厂色",
+      "onboard_time": 1707400715,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 275318,
@@ -9521,6 +9593,14 @@
       "onboard_time": 1706928930,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258410,
+      "num": 255421,
+      "word": "能不能不煽情",
+      "onboard_time": 1707398856,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 258327,
@@ -10257,6 +10337,14 @@
       "onboard_time": 1707115831,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239417,
+      "num": 239417,
+      "word": "公公突然给了我1万块压岁钱",
+      "onboard_time": 1707400897,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 239124,
@@ -11219,14 +11307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221901,
-      "num": 221901,
-      "word": "长相思吧官博发长文",
-      "onboard_time": 1707398914,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221725,
       "num": 221725,
       "word": "丫丫过小年",
@@ -11643,14 +11723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215660,
-      "num": 215660,
-      "word": "叶舒华因健康原因暂停所有活动",
-      "onboard_time": 1707398974,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215582,
       "num": 215582,
       "word": "hero抢龙要靠辅助",
@@ -12017,14 +12089,6 @@
       "onboard_time": 1707229292,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209371,
-      "num": 209371,
-      "word": "一家4口回老家过年住酒店不住家",
-      "onboard_time": 1707396453,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209226,
@@ -12656,6 +12720,14 @@
       "word": "凤凰传奇串烧",
       "onboard_time": 1706966672,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202917,
+      "num": 188610,
+      "word": "周深亮相春晚第五次联排",
+      "onboard_time": 1707401075,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -14947,6 +15019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177497,
+      "num": 177497,
+      "word": "宝能过苦日子 但也想过好日子",
+      "onboard_time": 1707400597,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177492,
       "num": 177492,
       "word": "A股兔年红盘收官",
@@ -15467,6 +15547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171606,
+      "num": 171606,
+      "word": "李宗恒张百乔上桌",
+      "onboard_time": 1707401375,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171191,
       "num": 171191,
       "word": "星穹铁道2.0",
@@ -15923,6 +16011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166485,
+      "num": 166485,
+      "word": "中国银联回应被央行罚款1540万",
+      "onboard_time": 1707401434,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166427,
       "num": 166427,
       "word": "掏空积蓄为儿买婚房被中介骗600万",
@@ -16265,14 +16361,6 @@
       "onboard_time": 1706835928,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162692,
-      "num": 162692,
-      "word": "能不能不煽情",
-      "onboard_time": 1707398856,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 162233,
@@ -18529,6 +18617,14 @@
       "onboard_time": 1706780013,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 138102,
+      "num": 1039018,
+      "word": "我的龙年仪式感",
+      "onboard_time": 1707029608,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138037,
@@ -23283,14 +23379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 27353,
-      "num": 1003357,
-      "word": "我的龙年仪式感",
-      "onboard_time": 1707029608,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27179,
       "num": 27179,
       "word": "张雨绮低胸鱼尾裙",
@@ -23889,6 +23977,9 @@
     },
     {
       "word": "#2024春节团拜会举行#"
+    },
+    {
+      "word": "#2024年春节团拜会#"
     }
   ]
 }

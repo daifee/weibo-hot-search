@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707399267960,
+  "endTime": 1707401707062,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1926948,
+      "num": 1926948,
+      "word": "小品 无聊",
+      "onboard_time": 1707397472,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1908537,
       "num": 1908537,
       "word": "李佳琦红包",
@@ -105,14 +113,6 @@
       "onboard_time": 1707348624,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1555692,
-      "num": 1555692,
-      "word": "小品 无聊",
-      "onboard_time": 1707397472,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 1515113,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1014163,
+      "num": 1014163,
+      "word": "一姐不一了",
+      "onboard_time": 1707397831,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 996013,
       "num": 996013,
       "word": "科比被劝休息说攒钱看我比赛的人怎么办",
@@ -241,14 +249,6 @@
       "onboard_time": 1707389076,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 969819,
-      "num": 969819,
-      "word": "一姐不一了",
-      "onboard_time": 1707397831,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 942092,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 869955,
+      "num": 869955,
+      "word": "长相思吧官博发长文",
+      "onboard_time": 1707398914,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840560,
       "num": 840560,
       "word": "迈阿密主帅称梅西弃赛是团队决定",
@@ -369,6 +377,14 @@
       "onboard_time": 1707309153,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 772879,
+      "num": 772879,
+      "word": "叶舒华因健康原因暂停所有活动",
+      "onboard_time": 1707398974,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 769830,
@@ -411,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744835,
+      "num": 744835,
+      "word": "南柱赫校园暴力举报人与记者被起诉",
+      "onboard_time": 1707399576,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720747,
       "num": 720747,
       "word": "疯狂动物城2定档",
       "onboard_time": 1707357512,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 720263,
+      "num": 720263,
+      "word": "中国银联被央行罚款1540万元",
+      "onboard_time": 1707399693,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 700321,
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650720,
+      "num": 650720,
+      "word": "梅西的伤与友谊赛的商",
+      "onboard_time": 1707395010,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 648907,
       "num": 657445,
       "word": "外交部两问日本核污染水泄漏",
@@ -465,14 +505,6 @@
       "onboard_time": 1707355950,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 645203,
-      "num": 645203,
-      "word": "梅西的伤与友谊赛的商",
-      "onboard_time": 1707395010,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 637180,
@@ -497,6 +529,14 @@
       "onboard_time": 1707379709,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 599131,
+      "num": 599131,
+      "word": "谭爷爷给朱一龙的新年礼物是花花",
+      "onboard_time": 1707398432,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 588386,
@@ -571,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529554,
+      "num": 529554,
+      "word": "王俊凯将为川渝捐10座校园儿童图书馆",
+      "onboard_time": 1707397710,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524620,
       "num": 524620,
       "word": "辽视春晚",
@@ -635,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452946,
+      "num": 452946,
+      "word": "为什么年轻人不爱吃糖果了",
+      "onboard_time": 1707397652,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 450511,
       "num": 450511,
       "word": "杨幂 入梦风华",
@@ -673,14 +729,6 @@
       "onboard_time": 1707351988,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409018,
-      "num": 323256,
-      "word": "王俊凯将为川渝捐10座校园儿童图书馆",
-      "onboard_time": 1707397710,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 408969,
@@ -907,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327965,
+      "num": 327965,
+      "word": "允许一切发生",
+      "onboard_time": 1707399816,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326635,
       "num": 326635,
       "word": "周深去年小兔子今年小龙人",
       "onboard_time": 1707361110,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321883,
+      "num": 281676,
+      "word": "赵丽颖吃冻梨",
+      "onboard_time": 1707400956,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321174,
@@ -929,6 +993,14 @@
       "onboard_time": 1707380550,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319753,
+      "num": 280160,
+      "word": "换贾玲背张小斐",
+      "onboard_time": 1707400356,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 312075,
@@ -953,14 +1025,6 @@
       "onboard_time": 1707372391,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 310871,
-      "num": 310871,
-      "word": "谭爷爷给朱一龙的新年礼物是花花",
-      "onboard_time": 1707398432,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 308585,
@@ -1011,14 +1075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 300127,
-      "num": 300127,
-      "word": "为什么年轻人不爱吃糖果了",
-      "onboard_time": 1707397652,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 295825,
       "num": 295825,
       "word": "李栋旭曾因低谷期想退圈移民",
@@ -1051,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281927,
+      "num": 281927,
+      "word": "一家4口回老家过年住酒店不住家",
+      "onboard_time": 1707396453,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280997,
       "num": 280997,
       "word": "郭艾伦韩德君聊天记录",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1707366510,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 275653,
+      "num": 275653,
+      "word": "广东人的喜好改变了大黄鱼的出厂色",
+      "onboard_time": 1707400715,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 274327,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1707394830,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258410,
+      "num": 255421,
+      "word": "能不能不煽情",
+      "onboard_time": 1707398856,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 255754,
@@ -1227,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239417,
+      "num": 239417,
+      "word": "公公突然给了我1万块压岁钱",
+      "onboard_time": 1707400897,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238556,
       "num": 238556,
       "word": "马宁担任亚洲杯决赛主裁",
@@ -1307,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221901,
-      "num": 221901,
-      "word": "长相思吧官博发长文",
-      "onboard_time": 1707398914,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219322,
       "num": 219322,
       "word": "身体这5个异常或是肝脏在求救",
@@ -1371,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215660,
-      "num": 215660,
-      "word": "叶舒华因健康原因暂停所有活动",
-      "onboard_time": 1707398974,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213901,
       "num": 213901,
       "word": "灵儿与久酷聊转会原因",
@@ -1401,14 +1473,6 @@
       "onboard_time": 1707385051,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209371,
-      "num": 209371,
-      "word": "一家4口回老家过年住酒店不住家",
-      "onboard_time": 1707396453,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207957,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1707308076,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202917,
+      "num": 188610,
+      "word": "周深亮相春晚第五次联排",
+      "onboard_time": 1707401075,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 202354,
@@ -1667,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177497,
+      "num": 177497,
+      "word": "宝能过苦日子 但也想过好日子",
+      "onboard_time": 1707400597,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177492,
       "num": 177492,
       "word": "A股兔年红盘收官",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1707390993,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 171606,
+      "num": 171606,
+      "word": "李宗恒张百乔上桌",
+      "onboard_time": 1707401375,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171191,
@@ -1747,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166485,
+      "num": 166485,
+      "word": "中国银联回应被央行罚款1540万",
+      "onboard_time": 1707401434,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165787,
       "num": 165787,
       "word": "买年货",
@@ -1769,14 +1865,6 @@
       "onboard_time": 1707373108,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162692,
-      "num": 162692,
-      "word": "能不能不煽情",
-      "onboard_time": 1707398856,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 161920,
@@ -2064,6 +2152,14 @@
       "word": "过年等的就是这口饺子",
       "onboard_time": 1707360628,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138102,
+      "num": 1039018,
+      "word": "我的龙年仪式感",
+      "onboard_time": 1707399631,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2922,6 +3018,9 @@
     },
     {
       "word": "#2024春节团拜会举行#"
+    },
+    {
+      "word": "#2024年春节团拜会#"
     }
   ]
 }

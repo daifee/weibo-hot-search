@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707399267960,
+  "endTime": 1707401707062,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1875,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1926948,
+      "num": 1926948,
+      "word": "小品 无聊",
+      "onboard_time": 1707397472,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1924428,
       "num": 1924428,
       "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706184993,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1779385,
-      "num": 1779385,
-      "word": "高海宁为理解梅西言论道歉",
-      "onboard_time": 1707358228,
-      "rank": 15,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
