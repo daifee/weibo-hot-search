@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707374114433,
+  "endTime": 1707376611068,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -32,6 +32,14 @@
       "word": "梅西pdf",
       "onboard_time": 1707361950,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2616138,
+      "num": 935458,
+      "word": "梅西惹到港媒真是踢到铁板了",
+      "onboard_time": 1707374130,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1330267,
-      "num": 471596,
+      "num": 926047,
       "word": "男子被堵高速6天5夜吃光年货",
       "onboard_time": 1707372508,
       "rank": 11,
@@ -121,6 +129,14 @@
       "onboard_time": 1707318633,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922328,
+      "num": 922328,
+      "word": "人民日报评三无四无婚礼",
+      "onboard_time": 1707373289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917077,
@@ -203,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 716496,
+      "num": 716496,
+      "word": "库迪咖啡下架AppStore",
+      "onboard_time": 1707374009,
+      "rank": 48,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 700321,
       "num": 700321,
       "word": "贵阳一小区消防栓成摆设致老人身亡",
@@ -251,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624688,
+      "num": 624688,
+      "word": "王者荣耀梅西皮肤",
+      "onboard_time": 1707375810,
+      "rank": 8,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 588386,
       "num": 588386,
       "word": "C罗",
       "onboard_time": 1707311257,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 584018,
+      "num": 584018,
+      "word": "年终奖",
+      "onboard_time": 1707372808,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 572836,
@@ -297,14 +337,6 @@
       "onboard_time": 1707362853,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 544880,
-      "num": 544880,
-      "word": "年终奖",
-      "onboard_time": 1707372808,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 539531,
@@ -579,12 +611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303147,
+      "num": 303147,
+      "word": "日本5.5吨核污染水泄漏或因人为",
+      "onboard_time": 1707373649,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293718,
       "num": 251295,
       "word": "B太 哈尔滨真正该去的地方",
       "onboard_time": 1707368310,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 281171,
+      "num": 281171,
+      "word": "游本昌芭莎质感大片",
+      "onboard_time": 1707375991,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280997,
@@ -667,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235943,
+      "num": 235943,
+      "word": "当00后负责搞年会",
+      "onboard_time": 1707374372,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234298,
       "num": 234298,
       "word": "梅西代言",
@@ -699,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221794,
-      "num": 221794,
-      "word": "人民日报评三无四无婚礼",
-      "onboard_time": 1707373289,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 221368,
+      "num": 221368,
+      "word": "彭昱畅和天津大爷一块跳水",
+      "onboard_time": 1707376348,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 217255,
@@ -747,14 +803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207895,
-      "num": 207895,
-      "word": "日本5.5吨核污染水泄漏或因人为",
-      "onboard_time": 1707373649,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205416,
       "num": 205416,
       "word": "这个弟弟真的很奶牛猫",
@@ -785,6 +833,14 @@
       "onboard_time": 1707308076,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203150,
+      "num": 203150,
+      "word": "大侦探9首案预告",
+      "onboard_time": 1707376593,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 201457,
@@ -915,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171191,
+      "num": 171191,
+      "word": "星穹铁道2.0",
+      "onboard_time": 1707375751,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171092,
       "num": 171092,
       "word": "刘雨昕获赠快船3号球衣",
@@ -953,6 +1017,14 @@
       "onboard_time": 1707353430,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163540,
+      "num": 163540,
+      "word": "一场三无婚礼的代价",
+      "onboard_time": 1707373108,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161920,
@@ -1081,14 +1153,6 @@
       "onboard_time": 1707366571,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144920,
-      "num": 144920,
-      "word": "一场三无婚礼的代价",
-      "onboard_time": 1707373108,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144561,
@@ -1307,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124151,
+      "num": 124151,
+      "word": "各大综艺cue孟宴臣合集",
+      "onboard_time": 1707375930,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123460,
       "num": 123460,
       "word": "61岁的范伟又出发了",
@@ -1363,20 +1435,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116397,
+      "num": 116397,
+      "word": "犬夜叉 犬薇小夫妻拜年",
+      "onboard_time": 1707376169,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 114791,
       "num": 114791,
       "word": "中国女篮定妆照",
       "onboard_time": 1707354749,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114567,
-      "num": 114567,
-      "word": "库迪咖啡下架AppStore",
-      "onboard_time": 1707374009,
-      "rank": 48,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 113736,
@@ -1395,12 +1467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108865,
+      "num": 108865,
+      "word": "黄子佼向性骚扰受害者道歉",
+      "onboard_time": 1707376593,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106538,
       "num": 106538,
       "word": "跟拍边防战士记者哭了",
       "onboard_time": 1707362973,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106193,
+      "num": 106193,
+      "word": "什么也难不倒中国的人情世故",
+      "onboard_time": 1707374610,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 106027,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707374114433,
+  "endTime": 1707376611068,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -177,6 +177,14 @@
       "onboard_time": 1706752288,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2616138,
+      "num": 935458,
+      "word": "梅西惹到港媒真是踢到铁板了",
+      "onboard_time": 1707374130,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2516787,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 1330267,
-      "num": 471596,
+      "num": 926047,
       "word": "男子被堵高速6天5夜吃光年货",
       "onboard_time": 1707372508,
       "rank": 11,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1706798915,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 922328,
+      "num": 922328,
+      "word": "人民日报评三无四无婚礼",
+      "onboard_time": 1707373289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920743,
@@ -2859,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716496,
+      "num": 716496,
+      "word": "库迪咖啡下架AppStore",
+      "onboard_time": 1707374009,
+      "rank": 48,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 716292,
       "num": 716292,
       "word": "孔刘父亲离世",
@@ -3569,6 +3593,14 @@
       "onboard_time": 1706916380,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624688,
+      "num": 624688,
+      "word": "王者荣耀梅西皮肤",
+      "onboard_time": 1707375810,
+      "rank": 8,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 621850,
@@ -7763,6 +7795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303147,
+      "num": 303147,
+      "word": "日本5.5吨核污染水泄漏或因人为",
+      "onboard_time": 1707373649,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303128,
       "num": 303128,
       "word": "A股IPO排队企业681家",
@@ -8297,6 +8337,14 @@
       "onboard_time": 1707048571,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281171,
+      "num": 281171,
+      "word": "游本昌芭莎质感大片",
+      "onboard_time": 1707375991,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 281035,
@@ -9891,6 +9939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 235943,
+      "num": 235943,
+      "word": "当00后负责搞年会",
+      "onboard_time": 1707374372,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "梅西人形广告牌被踢掉脑袋",
@@ -10619,14 +10675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221794,
-      "num": 221794,
-      "word": "人民日报评三无四无婚礼",
-      "onboard_time": 1707373289,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221725,
       "num": 221725,
       "word": "丫丫过小年",
@@ -10641,6 +10689,14 @@
       "onboard_time": 1706855674,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 221368,
+      "num": 221368,
+      "word": "彭昱畅和天津大爷一块跳水",
+      "onboard_time": 1707376348,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 221326,
@@ -11507,14 +11563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207895,
-      "num": 207895,
-      "word": "日本5.5吨核污染水泄漏或因人为",
-      "onboard_time": 1707373649,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207779,
       "num": 207779,
       "word": "张远爆改地铁老人",
@@ -11985,6 +12033,14 @@
       "onboard_time": 1707034949,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203150,
+      "num": 203150,
+      "word": "大侦探9首案预告",
+      "onboard_time": 1707376593,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203143,
@@ -14699,6 +14755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171191,
+      "num": 171191,
+      "word": "星穹铁道2.0",
+      "onboard_time": 1707375751,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171178,
       "num": 171178,
       "word": "女孩美国街头穿汉服惊艳路人",
@@ -15409,6 +15473,14 @@
       "onboard_time": 1707222812,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163540,
+      "num": 163540,
+      "word": "一场三无婚礼的代价",
+      "onboard_time": 1707373108,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163528,
@@ -16961,14 +17033,6 @@
       "onboard_time": 1706798915,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144920,
-      "num": 144920,
-      "word": "一场三无婚礼的代价",
-      "onboard_time": 1707373108,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144900,
@@ -19043,6 +19107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124151,
+      "num": 124151,
+      "word": "各大综艺cue孟宴臣合集",
+      "onboard_time": 1707375930,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124105,
       "num": 124105,
       "word": "为了游子回家扫了十几公里山路",
@@ -19611,6 +19683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116397,
+      "num": 116397,
+      "word": "犬夜叉 犬薇小夫妻拜年",
+      "onboard_time": 1707376169,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116243,
       "num": 116243,
       "word": "蓬松编发教程",
@@ -19729,14 +19809,6 @@
       "onboard_time": 1707354749,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114567,
-      "num": 114567,
-      "word": "库迪咖啡下架AppStore",
-      "onboard_time": 1707374009,
-      "rank": 48,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 114504,
@@ -20195,6 +20267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 108865,
+      "num": 108865,
+      "word": "黄子佼向性骚扰受害者道歉",
+      "onboard_time": 1707376593,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108315,
       "num": 108315,
       "word": "周鸿祎建议刘德华转行当网红",
@@ -20305,6 +20385,14 @@
       "onboard_time": 1707088463,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106193,
+      "num": 106193,
+      "word": "什么也难不倒中国的人情世故",
+      "onboard_time": 1707374610,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 105969,

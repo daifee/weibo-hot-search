@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707374114433,
+  "endTime": 1707376611068,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -809,6 +809,14 @@
       "onboard_time": 1704037559,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2616138,
+      "num": 935458,
+      "word": "梅西惹到港媒真是踢到铁板了",
+      "onboard_time": 1707374130,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2609133,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706340387,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1767184,
-      "num": 1767184,
-      "word": "你单位宣布除夕放假了吗",
-      "onboard_time": 1706141851,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
