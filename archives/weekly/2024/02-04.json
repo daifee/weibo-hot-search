@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707412640783,
+  "endTime": 1707413636534,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -13779,6 +13779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87579,
+      "num": 87579,
+      "word": "林亦扬殷果吵架",
+      "onboard_time": 1707412823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87093,
       "num": 5249050,
       "word": "直击2024春运",
@@ -13809,6 +13817,14 @@
       "onboard_time": 1707390512,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85805,
+      "num": 85805,
+      "word": "南拳妈妈时隔十五年再登春晚",
+      "onboard_time": 1707412523,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 83513,
@@ -14065,14 +14081,6 @@
       "onboard_time": 1707033928,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68096,
-      "num": 66999,
-      "word": "南拳妈妈时隔十五年再登春晚",
-      "onboard_time": 1707412523,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 67603,

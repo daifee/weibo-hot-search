@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707412640783,
+  "endTime": 1707413636534,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -22259,6 +22259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87579,
+      "num": 87579,
+      "word": "林亦扬殷果吵架",
+      "onboard_time": 1707412823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87134,
       "num": 89984,
       "word": "2024LCK",
@@ -22297,6 +22305,14 @@
       "onboard_time": 1706805445,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85805,
+      "num": 85805,
+      "word": "南拳妈妈时隔十五年再登春晚",
+      "onboard_time": 1707412523,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 84698,
@@ -22665,14 +22681,6 @@
       "onboard_time": 1707033928,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68096,
-      "num": 66999,
-      "word": "南拳妈妈时隔十五年再登春晚",
-      "onboard_time": 1707412523,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 66897,
