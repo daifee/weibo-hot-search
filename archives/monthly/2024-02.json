@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707395438577,
+  "endTime": 1707396294193,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -1915,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 939440,
+      "num": 805722,
+      "word": "科比被劝休息说攒钱看我比赛的人怎么办",
+      "onboard_time": 1707392852,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 937398,
       "num": 937398,
       "word": "贵州双色球6.8亿巨奖系一人独中",
@@ -2033,6 +2041,14 @@
       "onboard_time": 1706795611,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898088,
+      "num": 898088,
+      "word": "李梦太硬了",
+      "onboard_time": 1707394111,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 897328,
@@ -2763,14 +2779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 759026,
-      "num": 759026,
-      "word": "科比被劝休息说攒钱看我比赛的人怎么办",
-      "onboard_time": 1707392852,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 757997,
       "num": 757997,
       "word": "男子杀人逃亡19年得知杀错人",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1706754629,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744773,
+      "num": 744773,
+      "word": "36岁的释小龙",
+      "onboard_time": 1707395133,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 744701,
@@ -4201,14 +4217,6 @@
       "onboard_time": 1707124353,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566714,
-      "num": 566714,
-      "word": "李梦太硬了",
-      "onboard_time": 1707394111,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 566621,
@@ -6515,6 +6523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385660,
+      "num": 216124,
+      "word": "梅西的伤与友谊赛的商",
+      "onboard_time": 1707395010,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385088,
       "num": 385088,
       "word": "麻辣烫为什么越来越高级了",
@@ -8315,14 +8331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295534,
-      "num": 295534,
-      "word": "36岁的释小龙",
-      "onboard_time": 1707395133,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294884,
       "num": 294884,
       "word": "傅菁新剧演孕妇",
@@ -9347,6 +9355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261082,
+      "num": 261082,
+      "word": "陈泽唱歌",
+      "onboard_time": 1707394830,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261047,
       "num": 261047,
       "word": "海南98人涉黑案第一被告人因病死亡",
@@ -9873,14 +9889,6 @@
       "onboard_time": 1707014972,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246514,
-      "num": 216124,
-      "word": "梅西的伤与友谊赛的商",
-      "onboard_time": 1707395010,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 246418,
@@ -14379,14 +14387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183500,
-      "num": 183500,
-      "word": "陈泽唱歌",
-      "onboard_time": 1707394830,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183498,
       "num": 183498,
       "word": "美人鱼 卷头发",
@@ -14505,6 +14505,14 @@
       "onboard_time": 1706746173,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181817,
+      "num": 181817,
+      "word": "同事大年三十的值班要和我换",
+      "onboard_time": 1707396031,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 181350,
@@ -15145,6 +15153,14 @@
       "onboard_time": 1706783071,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173581,
+      "num": 173581,
+      "word": "猪牛羊身上3个部位绝不能吃",
+      "onboard_time": 1707394712,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173551,
@@ -16971,14 +16987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152826,
-      "num": 152826,
-      "word": "猪牛羊身上3个部位绝不能吃",
-      "onboard_time": 1707394712,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 152763,
       "num": 152763,
       "word": "网友调侃邓紫棋上场时间比梅西多",
@@ -17697,6 +17705,14 @@
       "onboard_time": 1707132751,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144748,
+      "num": 144748,
+      "word": "冯巩 我爱辽篮",
+      "onboard_time": 1707395429,
+      "rank": 49,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 144704,
@@ -19651,14 +19667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126101,
-      "num": 126101,
-      "word": "冯巩 我爱辽篮",
-      "onboard_time": 1707395429,
-      "rank": 49,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 126011,
       "num": 126011,
       "word": "Flowers最佳流行表演",
@@ -21073,6 +21081,14 @@
       "onboard_time": 1706879133,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108666,
+      "num": 108666,
+      "word": "春晚舞台嘉宾组团直播",
+      "onboard_time": 1707396271,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 108315,
