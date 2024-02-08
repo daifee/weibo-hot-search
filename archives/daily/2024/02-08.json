@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707355796208,
+  "endTime": 1707357742596,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1276423,
-      "num": 1276423,
+      "raw_hot": 1399599,
+      "num": 1399599,
       "word": "梅西在日本上场粉丝怒剪签名球衣",
       "onboard_time": 1707351387,
       "rank": 5,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 897003,
+      "num": 815426,
+      "word": "梅西ins评论区沦陷",
+      "onboard_time": 1707350065,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 882872,
       "num": 882872,
       "word": "春晚节目",
@@ -91,14 +99,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 815426,
-      "num": 815426,
-      "word": "梅西ins评论区沦陷",
-      "onboard_time": 1707350065,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 781802,
       "num": 315702,
       "word": "苏醒",
@@ -107,12 +107,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 646882,
+      "num": 646882,
+      "word": "刘涛刘诗诗李沁关晓彤同台",
+      "onboard_time": 1707355950,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 634849,
       "num": 285469,
       "word": "36岁女儿将水倒进油锅妈妈淡定清理",
       "onboard_time": 1707319355,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617254,
+      "num": 617254,
+      "word": "迈阿密主帅称梅西弃赛是团队决定",
+      "onboard_time": 1707355773,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 588386,
@@ -137,6 +153,14 @@
       "onboard_time": 1707347060,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558035,
+      "num": 558035,
+      "word": "牛仔裤被年轻人抛弃",
+      "onboard_time": 1707355707,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 549835,
@@ -185,6 +209,14 @@
       "onboard_time": 1707311795,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441601,
+      "num": 441601,
+      "word": "辛苦存了好几年的压岁钱居然都过期了",
+      "onboard_time": 1707355773,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436966,
@@ -267,6 +299,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330848,
+      "num": 330848,
+      "word": "美军无人机袭击伊拉克首都",
+      "onboard_time": 1707356488,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 328738,
+      "num": 328738,
+      "word": "赵今麦偶像",
+      "onboard_time": 1707356252,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 307120,
+      "num": 307120,
+      "word": "疯狂动物城2定档",
+      "onboard_time": 1707357512,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280997,
       "num": 280997,
       "word": "郭艾伦韩德君聊天记录",
@@ -297,6 +353,14 @@
       "onboard_time": 1707350427,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 269206,
+      "num": 269206,
+      "word": "秦岚情商",
+      "onboard_time": 1707355349,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 255754,
@@ -379,12 +443,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 187049,
-      "num": 187049,
-      "word": "牛仔裤被年轻人抛弃",
-      "onboard_time": 1707355707,
-      "rank": 29,
-      "category": "时尚"
+      "raw_hot": 196166,
+      "num": 196166,
+      "word": "张新成书法",
+      "onboard_time": 1707356071,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180621,
@@ -393,14 +457,6 @@
       "onboard_time": 1707307655,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179188,
-      "num": 179188,
-      "word": "秦岚情商",
-      "onboard_time": 1707355349,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 168400,
@@ -491,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142988,
-      "num": 142988,
-      "word": "迈阿密主帅称梅西弃赛是团队决定",
-      "onboard_time": 1707355773,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141095,
       "num": 141095,
       "word": "NCT宣发",
@@ -529,6 +577,22 @@
       "onboard_time": 1707310835,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131734,
+      "num": 131734,
+      "word": "HYBE艺人贺新春",
+      "onboard_time": 1707356667,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131415,
+      "num": 131415,
+      "word": "林亦扬殷果结束异国恋",
+      "onboard_time": 1707357029,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131129,
@@ -625,14 +689,6 @@
       "onboard_time": 1707316417,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111014,
-      "num": 111014,
-      "word": "辛苦存了好几年的压岁钱居然都过期了",
-      "onboard_time": 1707355773,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106027,
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 79094,
-      "num": 1185857,
+      "num": 1212576,
       "word": "过年前先打开这九个安全锦囊",
       "onboard_time": 1707311855,
       "rank": 2,
