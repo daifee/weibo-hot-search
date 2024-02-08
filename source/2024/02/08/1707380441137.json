@@ -1,0 +1,410 @@
+{
+  "runTime": 1707380441137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017048,
+        "num": 1017048,
+        "word": "人民日报评三无四无婚礼",
+        "onboard_time": 1707373289,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1851076,
+        "num": 992385,
+        "word": "中国足协官网删除梅西新闻",
+        "onboard_time": 1707378809,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66257,
+        "num": 956412,
+        "word": "春节回家看老师",
+        "onboard_time": 1707361051,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1442443,
+        "num": 950856,
+        "word": "王者荣耀梅西皮肤",
+        "onboard_time": 1707375810,
+        "rank": 3,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 942092,
+        "num": 942092,
+        "word": "客服回应梅西仍为蒙牛代言人",
+        "onboard_time": 1707377852,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 892109,
+        "num": 892109,
+        "word": "何超莲晒豪宅内景",
+        "onboard_time": 1707377970,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 862436,
+        "num": 862436,
+        "word": "梅西合同",
+        "onboard_time": 1707347241,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689615,
+        "num": 689615,
+        "word": "阿根廷3月中国行大概率取消",
+        "onboard_time": 1707367228,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655293,
+        "num": 655293,
+        "word": "春晚节目",
+        "onboard_time": 1707348322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569525,
+        "num": 569525,
+        "word": "外交部两问日本核污染水泄漏",
+        "onboard_time": 1707379409,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2333850,
+        "num": 552771,
+        "word": "梅西惹到港媒真是踢到铁板了",
+        "onboard_time": 1707374130,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592471,
+        "num": 536506,
+        "word": "梅西不是第一次缺席",
+        "onboard_time": 1707378809,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469457,
+        "num": 469457,
+        "word": "AppStore下架库迪APP",
+        "onboard_time": 1707378752,
+        "rank": 12,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 452465,
+        "num": 452465,
+        "word": "男子被堵高速6天5夜吃光年货",
+        "onboard_time": 1707372508,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417080,
+        "num": 417080,
+        "word": "香港特区政府要求合理解释",
+        "onboard_time": 1707347060,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384173,
+        "num": 384173,
+        "word": "梅西事件始末",
+        "onboard_time": 1707365670,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356405,
+        "num": 356405,
+        "word": "黄子佼向性骚扰受害者道歉",
+        "onboard_time": 1707376593,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324910,
+        "num": 324910,
+        "word": "短发的韩素希",
+        "onboard_time": 1707379709,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314182,
+        "num": 314182,
+        "word": "梅西pdf",
+        "onboard_time": 1707361950,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286952,
+        "num": 286952,
+        "word": "游本昌芭莎质感大片",
+        "onboard_time": 1707375991,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269168,
+        "num": 269168,
+        "word": "迪丽热巴春晚",
+        "onboard_time": 1707370712,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262640,
+        "num": 262640,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261404,
+        "num": 261404,
+        "word": "年终奖",
+        "onboard_time": 1707372808,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227308,
+        "num": 227308,
+        "word": "宁艺卓代言范思哲",
+        "onboard_time": 1707370470,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211001,
+        "num": 211001,
+        "word": "彭昱畅和天津大爷一块跳水",
+        "onboard_time": 1707376348,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210875,
+        "num": 210875,
+        "word": "公司没人了",
+        "onboard_time": 1707366390,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177492,
+        "num": 177492,
+        "word": "A股兔年红盘收官",
+        "onboard_time": 1707378330,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153181,
+        "num": 153181,
+        "word": "把老丈人处成兄弟日子好过多了",
+        "onboard_time": 1707377371,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152530,
+        "num": 152530,
+        "word": "大侦探9首案预告",
+        "onboard_time": 1707376593,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147448,
+        "num": 147448,
+        "word": "繁花剧组将与谭爷爷一起春晚拜年",
+        "onboard_time": 1707379709,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212654,
+        "num": 147443,
+        "word": "Selina产后大片",
+        "onboard_time": 1707379228,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151012,
+        "num": 147156,
+        "word": "马布里说贝克汉姆不理解中国球迷",
+        "onboard_time": 1707368552,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146668,
+        "num": 146668,
+        "word": "5吨多日本核污染水泄漏",
+        "onboard_time": 1707365010,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146111,
+        "num": 146111,
+        "word": "刘诗诗也穿了唐装",
+        "onboard_time": 1707362853,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143562,
+        "num": 143562,
+        "word": "七仔 糯米糍雪球",
+        "onboard_time": 1707379409,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140245,
+        "num": 140245,
+        "word": "龙行龘龘前程朤朤",
+        "onboard_time": 1707364711,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136334,
+        "num": 136334,
+        "word": "蔡卓妍长文纪念Twins红馆演唱会",
+        "onboard_time": 1707372391,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127926,
+        "num": 127926,
+        "word": "回家做美甲被老同学坑了",
+        "onboard_time": 1707363630,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125570,
+        "num": 125570,
+        "word": "身体这5个异常或是肝脏在求救",
+        "onboard_time": 1707379952,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120933,
+        "num": 120933,
+        "word": "Fly收到了时团的新年礼盒",
+        "onboard_time": 1707379050,
+        "rank": 39,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 113855,
+        "num": 113855,
+        "word": "2024辽视春晚节目单",
+        "onboard_time": 1707380011,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110309,
+        "num": 110309,
+        "word": "假期就靠这些小说续命了",
+        "onboard_time": 1707369213,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 109781,
+        "num": 109781,
+        "word": "王嘉尔金智秀热聊",
+        "onboard_time": 1707365371,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105384,
+        "num": 105384,
+        "word": "当00后负责搞年会",
+        "onboard_time": 1707374372,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104505,
+        "num": 104505,
+        "word": "在那个没有WiFi的童年",
+        "onboard_time": 1707380193,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100379,
+        "num": 100379,
+        "word": "北京网约车司机过年的一天",
+        "onboard_time": 1707378272,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96639,
+        "num": 96639,
+        "word": "明明坐着上班为什么还是感觉很累",
+        "onboard_time": 1707379830,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142106,
+        "num": 96397,
+        "word": "高海宁为理解梅西言论道歉",
+        "onboard_time": 1707358228,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 95480,
+        "num": 95480,
+        "word": "猫 养孩子是俩人的事",
+        "onboard_time": 1707366510,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95345,
+        "num": 95345,
+        "word": "央视拍的杨幂",
+        "onboard_time": 1707362132,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

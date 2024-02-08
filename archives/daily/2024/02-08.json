@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707377656274,
+  "endTime": 1707380441137,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1851076,
+      "num": 992385,
+      "word": "中国足协官网删除梅西新闻",
+      "onboard_time": 1707378809,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1779385,
       "num": 1779385,
       "word": "高海宁为理解梅西言论道歉",
@@ -73,6 +81,14 @@
       "onboard_time": 1707348322,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1442443,
+      "num": 957929,
+      "word": "王者荣耀梅西皮肤",
+      "onboard_time": 1707375810,
+      "rank": 8,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 1429397,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1255529,
-      "num": 957929,
-      "word": "王者荣耀梅西皮肤",
-      "onboard_time": 1707375810,
-      "rank": 8,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 1192740,
       "num": 333911,
       "word": "梅西代言白酒品牌方发文称很难过",
@@ -129,6 +137,14 @@
       "onboard_time": 1707366390,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 942092,
+      "num": 942092,
+      "word": "客服回应梅西仍为蒙牛代言人",
+      "onboard_time": 1707377852,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 935519,
@@ -161,6 +177,14 @@
       "onboard_time": 1707305852,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 892109,
+      "num": 892109,
+      "word": "何超莲晒豪宅内景",
+      "onboard_time": 1707377970,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 880348,
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592471,
+      "num": 536506,
+      "word": "梅西不是第一次缺席",
+      "onboard_time": 1707378809,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 588386,
       "num": 588386,
       "word": "C罗",
@@ -305,6 +337,14 @@
       "onboard_time": 1707364050,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569525,
+      "num": 569525,
+      "word": "外交部两问日本核污染水泄漏",
+      "onboard_time": 1707379409,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 569510,
@@ -393,6 +433,14 @@
       "onboard_time": 1707312155,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469457,
+      "num": 469457,
+      "word": "AppStore下架库迪APP",
+      "onboard_time": 1707378752,
+      "rank": 12,
+      "category": "互联网,美食"
     },
     {
       "raw_hot": 450511,
@@ -531,8 +579,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355921,
-      "num": 355921,
+      "raw_hot": 356405,
+      "num": 356405,
       "word": "黄子佼向性骚扰受害者道歉",
       "onboard_time": 1707376593,
       "rank": 47,
@@ -593,6 +641,14 @@
       "onboard_time": 1707361110,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324910,
+      "num": 324910,
+      "word": "短发的韩素希",
+      "onboard_time": 1707379709,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321174,
@@ -811,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212654,
+      "num": 147443,
+      "word": "Selina产后大片",
+      "onboard_time": 1707379228,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "腊月二十九",
@@ -963,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177492,
+      "num": 177492,
+      "word": "A股兔年红盘收官",
+      "onboard_time": 1707378330,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173977,
       "num": 173977,
       "word": "Letme回应RNG输给iG",
@@ -1099,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153181,
+      "num": 153181,
+      "word": "把老丈人处成兄弟日子好过多了",
+      "onboard_time": 1707377371,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149527,
       "num": 149527,
       "word": "证监会新任主席一度被称券商医生",
@@ -1147,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147448,
+      "num": 147448,
+      "word": "繁花剧组将与谭爷爷一起春晚拜年",
+      "onboard_time": 1707379709,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146349,
       "num": 146349,
       "word": "官方通报商家倒卖河南救灾物资",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1707367468,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 143562,
+      "num": 143562,
+      "word": "七仔 糯米糍雪球",
+      "onboard_time": 1707379409,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141248,
@@ -1259,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134061,
-      "num": 134061,
-      "word": "把老丈人处成兄弟日子好过多了",
-      "onboard_time": 1707377371,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132562,
       "num": 132562,
       "word": "阿里巴巴再回应出售饿了么传闻",
@@ -1355,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125570,
+      "num": 125570,
+      "word": "身体这5个异常或是肝脏在求救",
+      "onboard_time": 1707379952,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125353,
       "num": 125353,
       "word": "犬夜叉 犬薇小夫妻拜年",
@@ -1435,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120933,
+      "num": 120933,
+      "word": "Fly收到了时团的新年礼盒",
+      "onboard_time": 1707379050,
+      "rank": 39,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 120460,
       "num": 290816,
       "word": "海外机场看展车差点误机",
@@ -1483,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "2024辽视春晚节目单",
+      "onboard_time": 1707380011,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113736,
       "num": 113736,
       "word": "快船vs鹈鹕",
@@ -1523,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104505,
+      "num": 104505,
+      "word": "在那个没有WiFi的童年",
+      "onboard_time": 1707380193,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103592,
       "num": 103592,
       "word": "papi酱 这个除夕快乐上班",
@@ -1547,12 +1667,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100379,
+      "num": 100379,
+      "word": "北京网约车司机过年的一天",
+      "onboard_time": 1707378272,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98056,
       "num": 98056,
       "word": "在暴雪时分集集吻",
       "onboard_time": 1707318093,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96639,
+      "num": 96639,
+      "word": "明明坐着上班为什么还是感觉很累",
+      "onboard_time": 1707379830,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96626,

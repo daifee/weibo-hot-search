@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707377656274,
+  "endTime": 1707380441137,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1851076,
+      "num": 992385,
+      "word": "中国足协官网删除梅西新闻",
+      "onboard_time": 1707378809,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1845671,
       "num": 1845671,
       "word": "韩网评张佳宁穿朝鲜族服饰",
@@ -491,6 +499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1442443,
+      "num": 957929,
+      "word": "王者荣耀梅西皮肤",
+      "onboard_time": 1707375810,
+      "rank": 8,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 1429397,
       "num": 1429397,
       "word": "梅西在日本上场粉丝怒剪签名球衣",
@@ -601,14 +617,6 @@
       "onboard_time": 1707276989,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1255529,
-      "num": 957929,
-      "word": "王者荣耀梅西皮肤",
-      "onboard_time": 1707375810,
-      "rank": 8,
-      "category": "体育,游戏"
     },
     {
       "raw_hot": 1251899,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942092,
+      "num": 942092,
+      "word": "客服回应梅西仍为蒙牛代言人",
+      "onboard_time": 1707377852,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 937398,
       "num": 937398,
       "word": "贵州双色球6.8亿巨奖系一人独中",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1707045452,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 892109,
+      "num": 892109,
+      "word": "何超莲晒豪宅内景",
+      "onboard_time": 1707377970,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 885499,
@@ -2315,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 592471,
+      "num": 536506,
+      "word": "梅西不是第一次缺席",
+      "onboard_time": 1707378809,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591243,
       "num": 591243,
       "word": "1万亿利好明日落地",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1707174441,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569525,
+      "num": 569525,
+      "word": "外交部两问日本核污染水泄漏",
+      "onboard_time": 1707379409,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 568716,
@@ -3073,6 +3113,14 @@
       "onboard_time": 1707209192,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469457,
+      "num": 469457,
+      "word": "AppStore下架库迪APP",
+      "onboard_time": 1707378752,
+      "rank": 12,
+      "category": "互联网,美食"
     },
     {
       "raw_hot": 468885,
@@ -4059,20 +4107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356405,
+      "num": 356405,
+      "word": "黄子佼向性骚扰受害者道歉",
+      "onboard_time": 1707376593,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356000,
       "num": 356000,
       "word": "在暴雪时分微博评分最高现偶剧",
       "onboard_time": 1707235890,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 355921,
-      "num": 355921,
-      "word": "黄子佼向性骚扰受害者道歉",
-      "onboard_time": 1707376593,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 354884,
@@ -4353,6 +4401,14 @@
       "onboard_time": 1707361110,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324910,
+      "num": 324910,
+      "word": "短发的韩素希",
+      "onboard_time": 1707379709,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324224,
@@ -6779,6 +6835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212654,
+      "num": 147443,
+      "word": "Selina产后大片",
+      "onboard_time": 1707379228,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212563,
       "num": 212563,
       "word": "蓝亦菲外婆去世",
@@ -8547,6 +8611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177492,
+      "num": 177492,
+      "word": "A股兔年红盘收官",
+      "onboard_time": 1707378330,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "大鹏发文纪念赵英俊去世三周年",
@@ -9803,6 +9875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153181,
+      "num": 153181,
+      "word": "把老丈人处成兄弟日子好过多了",
+      "onboard_time": 1707377371,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152941,
       "num": 152941,
       "word": "时代少年团游戏语音包",
@@ -10057,6 +10137,14 @@
       "onboard_time": 1707347060,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147448,
+      "num": 147448,
+      "word": "繁花剧组将与谭爷爷一起春晚拜年",
+      "onboard_time": 1707379709,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147358,
@@ -10329,6 +10417,14 @@
       "onboard_time": 1707226051,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143562,
+      "num": 143562,
+      "word": "七仔 糯米糍雪球",
+      "onboard_time": 1707379409,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143546,
@@ -10907,14 +11003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134061,
-      "num": 134061,
-      "word": "把老丈人处成兄弟日子好过多了",
-      "onboard_time": 1707377371,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133671,
       "num": 133671,
       "word": "百度输入法上线付费VIP",
@@ -11395,6 +11483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125570,
+      "num": 125570,
+      "word": "身体这5个异常或是肝脏在求救",
+      "onboard_time": 1707379952,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125357,
       "num": 125357,
       "word": "我国第5座南极科考站开站",
@@ -11657,6 +11753,14 @@
       "onboard_time": 1707305852,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120933,
+      "num": 120933,
+      "word": "Fly收到了时团的新年礼盒",
+      "onboard_time": 1707379050,
+      "rank": 39,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 120678,
@@ -11955,6 +12059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "2024辽视春晚节目单",
+      "onboard_time": 1707380011,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113736,
       "num": 113736,
       "word": "快船vs鹈鹕",
@@ -12251,6 +12363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104505,
+      "num": 104505,
+      "word": "在那个没有WiFi的童年",
+      "onboard_time": 1707380193,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103762,
       "num": 137879,
       "word": "拜仁vs门兴",
@@ -12323,6 +12443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100379,
+      "num": 100379,
+      "word": "北京网约车司机过年的一天",
+      "onboard_time": 1707378272,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100204,
       "num": 137897,
       "word": "中国队本届游泳世锦赛首金",
@@ -12361,6 +12489,14 @@
       "onboard_time": 1707065425,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96639,
+      "num": 96639,
+      "word": "明明坐着上班为什么还是感觉很累",
+      "onboard_time": 1707379830,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96329,
