@@ -1,6 +1,6 @@
 {
   "startTime": 1707322969456,
-  "endTime": 1707405474048,
+  "endTime": 1707406501675,
   "band_list": [
     {
       "raw_hot": 2850888,
@@ -107,8 +107,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1577285,
-      "num": 1577285,
+      "raw_hot": 1731016,
+      "num": 1731016,
       "word": "3种假牛奶已被列入黑名单",
       "onboard_time": 1707401915,
       "rank": 30,
@@ -147,20 +147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1399038,
+      "num": 1399038,
+      "word": "郭冬临cos林俊杰",
+      "onboard_time": 1707403176,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1398872,
       "num": 1398872,
       "word": "霍启刚评论区",
       "onboard_time": 1707389733,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1387686,
-      "num": 1387686,
-      "word": "郭冬临cos林俊杰",
-      "onboard_time": 1707403176,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1369969,
@@ -360,6 +360,14 @@
       "word": "霍启刚发博拜年",
       "onboard_time": 1707392491,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 864676,
+      "num": 864676,
+      "word": "钟丽缇女儿考拉怼网友",
+      "onboard_time": 1707404253,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -579,12 +587,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 604374,
-      "num": 555168,
-      "word": "钟丽缇女儿考拉怼网友",
-      "onboard_time": 1707404253,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 605009,
+      "num": 524517,
+      "word": "还得是宋小宝",
+      "onboard_time": 1707404558,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 599131,
@@ -672,14 +680,6 @@
       "word": "0713春晚后台也闲不住",
       "onboard_time": 1707402873,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 531780,
-      "num": 524517,
-      "word": "还得是宋小宝",
-      "onboard_time": 1707404558,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1187,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284096,
+      "num": 284096,
+      "word": "官方回应网传21岁男子领养5岁女孩",
+      "onboard_time": 1707404977,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281927,
       "num": 281927,
       "word": "一家4口回老家过年住酒店不住家",
@@ -1467,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231339,
+      "num": 231339,
+      "word": "阿娇 庆幸和你组成Twins",
+      "onboard_time": 1707405575,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230088,
       "num": 230088,
       "word": "冯巩 我想死你们了",
@@ -1483,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219611,
+      "num": 219611,
+      "word": "科目三的价值",
+      "onboard_time": 1707405032,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219322,
       "num": 219322,
       "word": "身体这5个异常或是肝脏在求救",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1707393629,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217419,
+      "num": 217419,
+      "word": "十个勤天拜年好吵",
+      "onboard_time": 1707405276,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 217309,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1707401075,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202533,
+      "num": 202533,
+      "word": "杨幂新中式盘发造型",
+      "onboard_time": 1707405758,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202354,
@@ -1867,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179738,
+      "num": 192375,
+      "word": "不要在一种情绪里沉溺太久",
+      "onboard_time": 1707403776,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177497,
       "num": 177497,
       "word": "宝能过苦日子 但也想过好日子",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1707378330,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 175727,
-      "num": 175727,
-      "word": "不要在一种情绪里沉溺太久",
-      "onboard_time": 1707403776,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 173977,
@@ -1913,14 +1953,6 @@
       "onboard_time": 1707390993,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 172093,
-      "num": 166366,
-      "word": "十个勤天拜年好吵",
-      "onboard_time": 1707405276,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 171606,
@@ -1961,14 +1993,6 @@
       "onboard_time": 1707358590,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168454,
-      "num": 168454,
-      "word": "官方回应网传21岁男子领养5岁女孩",
-      "onboard_time": 1707404977,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168400,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1707350846,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154567,
-      "num": 154567,
-      "word": "科目三的价值",
-      "onboard_time": 1707405032,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 154114,

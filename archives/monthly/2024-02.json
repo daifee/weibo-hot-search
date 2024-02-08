@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707405474048,
+  "endTime": 1707406501675,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1731016,
+      "num": 1731016,
+      "word": "3种假牛奶已被列入黑名单",
+      "onboard_time": 1707401915,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1726559,
       "num": 973930,
       "word": "英国国王确诊患癌",
@@ -737,14 +745,6 @@
       "onboard_time": 1707315396,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1577285,
-      "num": 1577285,
-      "word": "3种假牛奶已被列入黑名单",
-      "onboard_time": 1707401915,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1573122,
@@ -963,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1399038,
+      "num": 1399038,
+      "word": "郭冬临cos林俊杰",
+      "onboard_time": 1707403176,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1398872,
       "num": 1398872,
       "word": "霍启刚评论区",
@@ -985,14 +993,6 @@
       "onboard_time": 1707079695,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1387686,
-      "num": 1387686,
-      "word": "郭冬临cos林俊杰",
-      "onboard_time": 1707403176,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1386813,
@@ -2289,6 +2289,14 @@
       "onboard_time": 1707231152,
       "rank": 7,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 864676,
+      "num": 864676,
+      "word": "钟丽缇女儿考拉怼网友",
+      "onboard_time": 1707404253,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 864091,
@@ -4011,20 +4019,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 605009,
+      "num": 524517,
+      "word": "还得是宋小宝",
+      "onboard_time": 1707404558,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604676,
       "num": 604676,
       "word": "宋仲基弹手机vs吴磊抛火机",
       "onboard_time": 1706877872,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 604374,
-      "num": 555168,
-      "word": "钟丽缇女儿考拉怼网友",
-      "onboard_time": 1707404253,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 604108,
@@ -4729,14 +4737,6 @@
       "onboard_time": 1706805984,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531780,
-      "num": 524517,
-      "word": "还得是宋小宝",
-      "onboard_time": 1707404558,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 530499,
@@ -8803,6 +8803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284096,
+      "num": 284096,
+      "word": "官方回应网传21岁男子领养5岁女孩",
+      "onboard_time": 1707404977,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "张天爱公主抱160斤新浪员工",
@@ -10875,6 +10883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231339,
+      "num": 231339,
+      "word": "阿娇 庆幸和你组成Twins",
+      "onboard_time": 1707405575,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231128,
       "num": 231128,
       "word": "菏泽干部",
@@ -11555,6 +11571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219611,
+      "num": 219611,
+      "word": "科目三的价值",
+      "onboard_time": 1707405032,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219590,
       "num": 219590,
       "word": "世界之外体力",
@@ -11681,6 +11705,14 @@
       "onboard_time": 1707135332,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217419,
+      "num": 217419,
+      "word": "十个勤天拜年好吵",
+      "onboard_time": 1707405276,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 217341,
@@ -12865,6 +12897,14 @@
       "onboard_time": 1707099689,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202533,
+      "num": 202533,
+      "word": "杨幂新中式盘发造型",
+      "onboard_time": 1707405758,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202475,
@@ -14963,6 +15003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179738,
+      "num": 192375,
+      "word": "不要在一种情绪里沉溺太久",
+      "onboard_time": 1707403776,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "灰太狼身世",
@@ -15315,14 +15363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175727,
-      "num": 175727,
-      "word": "不要在一种情绪里沉溺太久",
-      "onboard_time": 1707403776,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175553,
       "num": 215129,
       "word": "难怪有故人之姿 原来是故人之子",
@@ -15625,14 +15665,6 @@
       "onboard_time": 1706863472,
       "rank": 43,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 172093,
-      "num": 166366,
-      "word": "十个勤天拜年好吵",
-      "onboard_time": 1707405276,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 171951,
@@ -15985,14 +16017,6 @@
       "onboard_time": 1707124290,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 168454,
-      "num": 168454,
-      "word": "官方回应网传21岁男子领养5岁女孩",
-      "onboard_time": 1707404977,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168422,
@@ -17169,14 +17193,6 @@
       "onboard_time": 1706937931,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154567,
-      "num": 154567,
-      "word": "科目三的价值",
-      "onboard_time": 1707405032,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 154549,
