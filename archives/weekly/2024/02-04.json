@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707473874567,
+  "endTime": 1707474823202,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -2611,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649139,
+      "num": 427005,
+      "word": "HYBE艺人 韩国新年",
+      "onboard_time": 1707473914,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648907,
       "num": 657445,
       "word": "外交部两问日本核污染水泄漏",
@@ -4051,6 +4059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 435144,
+      "num": 435144,
+      "word": "赵昭仪要夸自己绝对不带删的",
+      "onboard_time": 1707473673,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433311,
       "num": 412797,
       "word": "张天爱穿铠甲扫楼",
@@ -4241,6 +4257,14 @@
       "onboard_time": 1707436765,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414303,
+      "num": 414303,
+      "word": "iPhone拍烟花模式",
+      "onboard_time": 1707472832,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 413879,
@@ -4795,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366586,
+      "num": 297666,
+      "word": "乌合麒麟龙年贺图",
+      "onboard_time": 1707473254,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 366187,
       "num": 366187,
       "word": "暗送邱波",
@@ -5129,14 +5161,6 @@
       "onboard_time": 1707034469,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 330971,
-      "num": 330971,
-      "word": "iPhone拍烟花模式",
-      "onboard_time": 1707472832,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 330848,
@@ -5571,6 +5595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309894,
+      "num": 309894,
+      "word": "陈奕迅精神状态 过几天走亲戚用",
+      "onboard_time": 1707473368,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309564,
       "num": 238979,
       "word": "夏克立 一直等待夏天太难过",
@@ -5609,6 +5641,14 @@
       "onboard_time": 1707266852,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308223,
+      "num": 308223,
+      "word": "金龟子女儿住院保胎",
+      "onboard_time": 1707471392,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 307537,
@@ -5777,6 +5817,14 @@
       "onboard_time": 1707111213,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297555,
+      "num": 297555,
+      "word": "汪苏泷自己写的歌上春晚了",
+      "onboard_time": 1707473254,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 297216,
@@ -6267,6 +6315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275699,
+      "num": 275699,
+      "word": "压岁钱",
+      "onboard_time": 1707473851,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275318,
       "num": 275318,
       "word": "木村拓哉发微博",
@@ -6451,14 +6507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 269773,
-      "num": 198846,
-      "word": "乌合麒麟龙年贺图",
-      "onboard_time": 1707473254,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 269723,
       "num": 269723,
       "word": "10岁女孩头发掉光与接触兔子有关",
@@ -6473,14 +6521,6 @@
       "onboard_time": 1707355349,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268991,
-      "num": 268991,
-      "word": "金龟子女儿住院保胎",
-      "onboard_time": 1707471392,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 268920,
@@ -6716,7 +6756,7 @@
     },
     {
       "raw_hot": 257766,
-      "num": 257766,
+      "num": 303677,
       "word": "主办方称要求梅西向球迷解释但未成功",
       "onboard_time": 1707470792,
       "rank": 25,
@@ -6756,7 +6796,7 @@
     },
     {
       "raw_hot": 256286,
-      "num": 293940,
+      "num": 300091,
       "word": "除夕",
       "onboard_time": 1707466892,
       "rank": 23,
@@ -6881,6 +6921,14 @@
       "onboard_time": 1707372991,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 253235,
+      "num": 253235,
+      "word": "Kpop春晚",
+      "onboard_time": 1707474451,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 252965,
@@ -8260,7 +8308,7 @@
     },
     {
       "raw_hot": 215446,
-      "num": 215446,
+      "num": 302065,
       "word": "林孝埈送上一大波新年祝福",
       "onboard_time": 1707472050,
       "rank": 26,
@@ -8545,14 +8593,6 @@
       "onboard_time": 1707143311,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 208471,
-      "num": 198731,
-      "word": "陈奕迅精神状态 过几天走亲戚用",
-      "onboard_time": 1707473368,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208418,
@@ -9491,14 +9531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195657,
-      "num": 195657,
-      "word": "赵昭仪要夸自己绝对不带删的",
-      "onboard_time": 1707473673,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195621,
       "num": 195621,
       "word": "没及时回消息被学长挂到朋友圈",
@@ -9545,14 +9577,6 @@
       "onboard_time": 1707292831,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194834,
-      "num": 194834,
-      "word": "汪苏泷自己写的歌上春晚了",
-      "onboard_time": 1707473254,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 194823,
@@ -10315,6 +10339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181639,
+      "num": 175530,
+      "word": "安检一次的辐射到底有多大",
+      "onboard_time": 1707470671,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 180659,
       "num": 180659,
       "word": "摩羯座的张小斐 隐忍又强大",
@@ -10483,6 +10515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178031,
+      "num": 178031,
+      "word": "川S牌车坚强车主发声",
+      "onboard_time": 1707471692,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177832,
       "num": 138840,
       "word": "丹恒的笑容",
@@ -10625,14 +10665,6 @@
       "onboard_time": 1707294211,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175530,
-      "num": 175530,
-      "word": "安检一次的辐射到底有多大",
-      "onboard_time": 1707470671,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 175499,
@@ -11249,14 +11281,6 @@
       "onboard_time": 1707380849,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165668,
-      "num": 165668,
-      "word": "川S牌车坚强车主发声",
-      "onboard_time": 1707471692,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165344,
@@ -14283,14 +14307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122106,
-      "num": 122106,
-      "word": "压岁钱",
-      "onboard_time": 1707473851,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122071,
       "num": 122071,
       "word": "湖北雨雪冰冻天气8日起结束",
@@ -16115,6 +16131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56797,
+      "num": 415816,
+      "word": "元梦之星大年初一送红包",
+      "onboard_time": 1707472832,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56696,
       "num": 609060,
       "word": "元pl奥特曼团建",
@@ -16385,14 +16409,6 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40154,
-      "num": 383524,
-      "word": "元梦之星大年初一送红包",
-      "onboard_time": 1707472832,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 39173,
@@ -16939,6 +16955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13427,
+      "num": 305854,
+      "word": "新年伊起元梦吧",
+      "onboard_time": 1707473793,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13288,
       "num": 13288,
       "word": "除夕浙江服务区免费为返乡人员提供年夜饭",
@@ -17009,14 +17033,6 @@
       "onboard_time": 1707292290,
       "rank": 26,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 6035,
-      "num": 142779,
-      "word": "新年伊起元梦吧",
-      "onboard_time": 1707473793,
-      "rank": 45,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

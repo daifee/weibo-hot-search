@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707473874567,
+  "endTime": 1707474823202,
   "band_list": [
     {
       "raw_hot": 7879409,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649139,
+      "num": 427005,
+      "word": "HYBE艺人 韩国新年",
+      "onboard_time": 1707473914,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647815,
       "num": 647815,
       "word": "开不了口 春晚",
@@ -411,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 435144,
+      "num": 435144,
+      "word": "赵昭仪要夸自己绝对不带删的",
+      "onboard_time": 1707473673,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433357,
       "num": 433357,
       "word": "丁俊晖回复吴磊",
@@ -433,6 +449,14 @@
       "onboard_time": 1707436765,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414303,
+      "num": 414303,
+      "word": "iPhone拍烟花模式",
+      "onboard_time": 1707472832,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 406227,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366586,
+      "num": 297666,
+      "word": "乌合麒麟龙年贺图",
+      "onboard_time": 1707473254,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 360840,
       "num": 360840,
       "word": "水龙吟",
@@ -545,14 +577,6 @@
       "onboard_time": 1707453210,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330971,
-      "num": 330971,
-      "word": "iPhone拍烟花模式",
-      "onboard_time": 1707472832,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 329148,
@@ -627,11 +651,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309894,
+      "num": 309894,
+      "word": "陈奕迅精神状态 过几天走亲戚用",
+      "onboard_time": 1707473368,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309564,
       "num": 238979,
       "word": "夏克立 一直等待夏天太难过",
       "onboard_time": 1707409648,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308223,
+      "num": 308223,
+      "word": "金龟子女儿住院保胎",
+      "onboard_time": 1707471392,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -663,6 +703,14 @@
       "num": 299101,
       "word": "汉服 春晚",
       "onboard_time": 1707440787,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297555,
+      "num": 297555,
+      "word": "汪苏泷自己写的歌上春晚了",
+      "onboard_time": 1707473254,
       "rank": 34,
       "category": "综艺"
     },
@@ -787,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275699,
+      "num": 275699,
+      "word": "压岁钱",
+      "onboard_time": 1707473851,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273626,
       "num": 273626,
       "word": "突然发现妈妈好像也在装大人",
@@ -801,22 +857,6 @@
       "onboard_time": 1707400897,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269773,
-      "num": 198846,
-      "word": "乌合麒麟龙年贺图",
-      "onboard_time": 1707473254,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 268991,
-      "num": 268991,
-      "word": "金龟子女儿住院保胎",
-      "onboard_time": 1707471392,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 266652,
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 257766,
-      "num": 257766,
+      "num": 303677,
       "word": "主办方称要求梅西向球迷解释但未成功",
       "onboard_time": 1707470792,
       "rank": 25,
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 256286,
-      "num": 293940,
+      "num": 300091,
       "word": "除夕",
       "onboard_time": 1707466892,
       "rank": 23,
@@ -873,6 +913,14 @@
       "onboard_time": 1707446188,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253235,
+      "num": 253235,
+      "word": "Kpop春晚",
+      "onboard_time": 1707474451,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 252965,
@@ -1004,7 +1052,7 @@
     },
     {
       "raw_hot": 215446,
-      "num": 215446,
+      "num": 302065,
       "word": "林孝埈送上一大波新年祝福",
       "onboard_time": 1707472050,
       "rank": 26,
@@ -1017,14 +1065,6 @@
       "onboard_time": 1707405214,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208471,
-      "num": 198731,
-      "word": "陈奕迅精神状态 过几天走亲戚用",
-      "onboard_time": 1707473368,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208283,
@@ -1115,22 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195657,
-      "num": 195657,
-      "word": "赵昭仪要夸自己绝对不带删的",
-      "onboard_time": 1707473673,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 194834,
-      "num": 194834,
-      "word": "汪苏泷自己写的歌上春晚了",
-      "onboard_time": 1707473254,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194242,
       "num": 194242,
       "word": "文昌通报2888元内场看火箭发射",
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181639,
+      "num": 175530,
+      "word": "安检一次的辐射到底有多大",
+      "onboard_time": 1707470671,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 180445,
       "num": 180445,
       "word": "周深今年春晚还是独唱",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1707465810,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178031,
+      "num": 178031,
+      "word": "川S牌车坚强车主发声",
+      "onboard_time": 1707471692,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177832,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1707463534,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175530,
-      "num": 175530,
-      "word": "安检一次的辐射到底有多大",
-      "onboard_time": 1707470671,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 174510,
@@ -1345,14 +1377,6 @@
       "onboard_time": 1707451829,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165668,
-      "num": 165668,
-      "word": "川S牌车坚强车主发声",
-      "onboard_time": 1707471692,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165288,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1707448049,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122106,
-      "num": 122106,
-      "word": "压岁钱",
-      "onboard_time": 1707473851,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 121539,
@@ -2387,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56797,
+      "num": 415816,
+      "word": "元梦之星大年初一送红包",
+      "onboard_time": 1707472832,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55511,
       "num": 118311,
       "word": "央视镜头快塞不下十个勤天了",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1707408450,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40154,
-      "num": 383524,
-      "word": "元梦之星大年初一送红包",
-      "onboard_time": 1707472832,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 32040,
@@ -2515,20 +2531,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 13427,
+      "num": 305854,
+      "word": "新年伊起元梦吧",
+      "onboard_time": 1707473793,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13288,
       "num": 13288,
       "word": "除夕浙江服务区免费为返乡人员提供年夜饭",
       "onboard_time": 1707423376,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6035,
-      "num": 142779,
-      "word": "新年伊起元梦吧",
-      "onboard_time": 1707473793,
-      "rank": 45,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
