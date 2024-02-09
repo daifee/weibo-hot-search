@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707509849460,
+  "endTime": 1707510837020,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -660,10 +660,18 @@
     },
     {
       "raw_hot": 30837,
-      "num": 25756,
+      "num": 27633,
       "word": "0713是在互相表白吧",
       "onboard_time": 1707505819,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24887,
+      "num": 24887,
+      "word": "春晚分会场",
+      "onboard_time": 1707510557,
+      "rank": 47,
       "category": "综艺"
     },
     {
