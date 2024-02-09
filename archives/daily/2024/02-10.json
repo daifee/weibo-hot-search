@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707498905521,
+  "endTime": 1707500049757,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1806964,
+      "num": 1806964,
+      "word": "尼格买提要碎了",
+      "onboard_time": 1707494232,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1605616,
       "num": 1605616,
       "word": "马丽的鞋好看",
@@ -184,14 +192,6 @@
       "word": "春晚节目单",
       "onboard_time": 1707456452,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1455698,
-      "num": 1455698,
-      "word": "尼格买提要碎了",
-      "onboard_time": 1707494232,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 727252,
+      "num": 415265,
+      "word": "迪丽热巴随便截图",
+      "onboard_time": 1707498820,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697479,
       "num": 697479,
       "word": "0713圆梦了",
@@ -411,12 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 494364,
-      "num": 415265,
-      "word": "迪丽热巴随便截图",
-      "onboard_time": 1707498820,
-      "rank": 44,
+      "raw_hot": 473622,
+      "num": 3678302,
+      "word": "咏春女舞者眼神好杀",
+      "onboard_time": 1707498227,
+      "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455926,
+      "num": 455926,
+      "word": "龙年文案",
+      "onboard_time": 1707497338,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 434086,
@@ -427,28 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420462,
-      "num": 420462,
-      "word": "龙年文案",
-      "onboard_time": 1707497338,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 394065,
       "num": 2451814,
       "word": "龙年第一条微博",
       "onboard_time": 1707487647,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393261,
-      "num": 3678302,
-      "word": "咏春女舞者眼神好杀",
-      "onboard_time": 1707498227,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 360912,
@@ -465,6 +465,22 @@
       "onboard_time": 1707474992,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321339,
+      "num": 321339,
+      "word": "蛋仔派对进不去",
+      "onboard_time": 1707499181,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 258028,
+      "num": 258028,
+      "word": "loong",
+      "onboard_time": 1707497638,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 221555,
@@ -542,6 +558,9 @@
   "hotgov_list": [
     {
       "word": "#希望全国人民振奋龙马精神#"
+    },
+    {
+      "word": "#文化中国团圆年#"
     }
   ]
 }

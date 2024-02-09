@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707498905521,
+  "endTime": 1707500049757,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1806964,
+      "num": 1806964,
+      "word": "尼格买提要碎了",
+      "onboard_time": 1707494232,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1804793,
       "num": 1804793,
       "word": "李白张若昀联动",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1707114511,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1455698,
-      "num": 1455698,
-      "word": "尼格买提要碎了",
-      "onboard_time": 1707494232,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1447153,
@@ -4187,6 +4187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 727252,
+      "num": 415265,
+      "word": "迪丽热巴随便截图",
+      "onboard_time": 1707498820,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 724506,
       "num": 425970,
       "word": "郑爽曾片场消失一礼拜",
@@ -6459,14 +6467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 494364,
-      "num": 415265,
-      "word": "迪丽热巴随便截图",
-      "onboard_time": 1707498820,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 494267,
       "num": 425756,
       "word": "少爷和我定档",
@@ -6771,6 +6771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473622,
+      "num": 3678302,
+      "word": "咏春女舞者眼神好杀",
+      "onboard_time": 1707498227,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473589,
       "num": 417548,
       "word": "伯克利偶遇王源",
@@ -6953,6 +6961,14 @@
       "onboard_time": 1706927307,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 455926,
+      "num": 455926,
+      "word": "龙年文案",
+      "onboard_time": 1707497338,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 455428,
@@ -7499,14 +7515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420462,
-      "num": 420462,
-      "word": "龙年文案",
-      "onboard_time": 1707497338,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 420034,
       "num": 420034,
       "word": "吴磊 在娱乐圈当运动员",
@@ -7977,14 +7985,6 @@
       "onboard_time": 1706844811,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393261,
-      "num": 3678302,
-      "word": "咏春女舞者眼神好杀",
-      "onboard_time": 1707498227,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 392863,
@@ -9489,6 +9489,14 @@
       "onboard_time": 1707193353,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321339,
+      "num": 321339,
+      "word": "蛋仔派对进不去",
+      "onboard_time": 1707499181,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 321174,
@@ -11537,6 +11545,14 @@
       "onboard_time": 1706970511,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258028,
+      "num": 258028,
+      "word": "loong",
+      "onboard_time": 1707497638,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 257991,
