@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707517063848,
+  "endTime": 1707518028707,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -7435,6 +7435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275464,
+      "num": 275464,
+      "word": "章若楠蒋诗萌回应小品尴尬",
+      "onboard_time": 1707505579,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275318,
       "num": 275318,
       "word": "木村拓哉发微博",
@@ -9067,14 +9075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224167,
-      "num": 224167,
-      "word": "章若楠蒋诗萌回应小品尴尬",
-      "onboard_time": 1707505579,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224001,
       "num": 224001,
       "word": "邓紫棋与贝克汉姆合影",
@@ -10457,6 +10457,14 @@
       "onboard_time": 1707312394,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200306,
+      "num": 167190,
+      "word": "春晚羽绒服破了",
+      "onboard_time": 1707506540,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 200089,
@@ -12497,14 +12505,6 @@
       "onboard_time": 1706992876,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166416,
-      "num": 141804,
-      "word": "春晚羽绒服破了",
-      "onboard_time": 1707506540,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 166326,
@@ -17363,6 +17363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66704,
+      "num": 66704,
+      "word": "胡歌对着谭爷爷唱得好开心",
+      "onboard_time": 1707511636,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66376,
       "num": 59759,
       "word": "脱口秀大会第六季大王",
@@ -17603,14 +17611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51341,
-      "num": 37619,
-      "word": "胡歌对着谭爷爷唱得好开心",
-      "onboard_time": 1707511636,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51253,
       "num": 60256,
       "word": "新年头像",
@@ -17779,7 +17779,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43861,
+      "raw_hot": 44064,
       "num": 36847,
       "word": "Belle上春晚",
       "onboard_time": 1707511576,
@@ -17937,6 +17937,14 @@
       "onboard_time": 1707113791,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34044,
+      "num": 34044,
+      "word": "包饺子蔬菜不要挤掉水分再做馅",
+      "onboard_time": 1707517221,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 33745,
