@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707448678541,
+  "endTime": 1707449646589,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -2043,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935851,
+      "num": 240582,
+      "word": "除夕上班没有三倍工资",
+      "onboard_time": 1707445650,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 935549,
       "num": 935549,
       "word": "翔霖",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 835713,
-      "num": 240582,
-      "word": "除夕上班没有三倍工资",
-      "onboard_time": 1707445650,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 831666,
@@ -5339,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489940,
+      "num": 489940,
+      "word": "第一次上春晚的贾玲",
+      "onboard_time": 1707447209,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488851,
       "num": 488851,
       "word": "张煜东 你们恭喜错人了",
@@ -6288,14 +6296,6 @@
       "word": "关晓彤鎏金礼服",
       "onboard_time": 1707406774,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 415676,
-      "num": 415676,
-      "word": "第一次上春晚的贾玲",
-      "onboard_time": 1707447209,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -8411,6 +8411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307178,
+      "num": 307178,
+      "word": "水龙吟",
+      "onboard_time": 1707443846,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307003,
       "num": 307003,
       "word": "马丽 我看着都挺像原配",
@@ -9659,14 +9667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 266604,
-      "num": 266604,
-      "word": "水龙吟",
-      "onboard_time": 1707443846,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -9737,6 +9737,14 @@
       "onboard_time": 1706877390,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 263065,
+      "num": 263065,
+      "word": "王阳首登春晚",
+      "onboard_time": 1707447570,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 262937,
@@ -9883,6 +9891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258840,
+      "num": 258840,
+      "word": "央媒记者评梅西事件",
+      "onboard_time": 1707448651,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258647,
       "num": 224507,
       "word": "马思纯泳装",
@@ -9945,6 +9961,14 @@
       "onboard_time": 1707298411,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257364,
+      "num": 257364,
+      "word": "前苹果华人工程师因窃取汽车机密入狱",
+      "onboard_time": 1707446969,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 257206,
@@ -10083,6 +10107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 254933,
+      "num": 254933,
+      "word": "成毅特意停车看烟花",
+      "onboard_time": 1707446188,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254590,
       "num": 254590,
       "word": "湖南大雪警车里诞下一雪警女婴",
@@ -10145,6 +10177,14 @@
       "onboard_time": 1706762372,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252965,
+      "num": 258043,
+      "word": "花花年夜饭把盘子都吃了",
+      "onboard_time": 1707445767,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252822,
@@ -10713,14 +10753,6 @@
       "onboard_time": 1707118951,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 238212,
-      "num": 238212,
-      "word": "成毅特意停车看烟花",
-      "onboard_time": 1707446188,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 238208,
@@ -11563,14 +11595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223135,
-      "num": 258043,
-      "word": "花花年夜饭把盘子都吃了",
-      "onboard_time": 1707445767,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223068,
       "num": 223068,
       "word": "独居最被低估的好处",
@@ -11755,14 +11779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 220216,
-      "num": 220216,
-      "word": "前苹果华人工程师因窃取汽车机密入狱",
-      "onboard_time": 1707446969,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 220205,
       "num": 220205,
       "word": "林更新说楚乔传的遗憾会在与凤行补上",
@@ -11881,6 +11897,14 @@
       "onboard_time": 1706882915,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218610,
+      "num": 218610,
+      "word": "55岁收到83岁妈妈的压岁钱",
+      "onboard_time": 1707447867,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 218375,
@@ -14219,6 +14243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192401,
+      "num": 192401,
+      "word": "电影野孩子",
+      "onboard_time": 1707449312,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192383,
       "num": 192383,
       "word": "作家谌容去世",
@@ -14963,14 +14995,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 184054,
-      "num": 184054,
-      "word": "王阳首登春晚",
-      "onboard_time": 1707447570,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184044,
       "num": 184044,
       "word": "奇迹暖暖",
@@ -15523,6 +15547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "永夜星河除夕片花",
+      "onboard_time": 1707448769,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177169,
       "num": 177169,
       "word": "减到什么程度才算减肥成功",
@@ -15921,6 +15953,14 @@
       "onboard_time": 1706951969,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172745,
+      "num": 172745,
+      "word": "白月梵星主演接力画龙庆新年",
+      "onboard_time": 1707448289,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 172637,
@@ -16827,14 +16867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162244,
-      "num": 162244,
-      "word": "55岁收到83岁妈妈的压岁钱",
-      "onboard_time": 1707447867,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162233,
       "num": 162233,
       "word": "iG开场整活",
@@ -16849,14 +16881,6 @@
       "onboard_time": 1706881775,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162108,
-      "num": 162108,
-      "word": "白月梵星主演接力画龙庆新年",
-      "onboard_time": 1707448289,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 162032,
@@ -19459,6 +19483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 135890,
+      "num": 135890,
+      "word": "这是金在中不是洪锡天",
+      "onboard_time": 1707449069,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135847,
       "num": 135847,
       "word": "陈虹伊朱易晋级自由滑",
@@ -20907,6 +20939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122244,
+      "num": 140815,
+      "word": "足球比赛将引入蓝牌",
+      "onboard_time": 1707448049,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122156,
       "num": 122156,
       "word": "春节最需要什么样的搭子",
@@ -21075,6 +21115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120249,
+      "num": 120249,
+      "word": "养猫人收拾行李总共分几步",
+      "onboard_time": 1707448470,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120243,
       "num": 120243,
       "word": "早上起床眼睛肿是怎么回事",
@@ -21137,6 +21185,14 @@
       "onboard_time": 1707384933,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119652,
+      "num": 119652,
+      "word": "大年三十我的打工状态",
+      "onboard_time": 1707448887,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 119585,
@@ -21281,6 +21337,14 @@
       "onboard_time": 1707385832,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118034,
+      "num": 118034,
+      "word": "檀健次 2023年终总结",
+      "onboard_time": 1707449489,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117967,
@@ -21921,14 +21985,6 @@
       "onboard_time": 1706778390,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109974,
-      "num": 140815,
-      "word": "足球比赛将引入蓝牌",
-      "onboard_time": 1707448049,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 109899,
@@ -22635,6 +22691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93647,
+      "num": 93647,
+      "word": "库里42分",
+      "onboard_time": 1707446969,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93043,
+      "num": 93043,
+      "word": "熊孩子也有踢到铁板的一天",
+      "onboard_time": 1707448769,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92989,
       "num": 92989,
       "word": "试穿大码女装",
@@ -22665,6 +22737,14 @@
       "onboard_time": 1706916140,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92294,
+      "num": 92294,
+      "word": "00后男子入赘相恋八年女友",
+      "onboard_time": 1707449610,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92222,
@@ -22971,14 +23051,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 80653,
-      "num": 80653,
-      "word": "养猫人收拾行李总共分几步",
-      "onboard_time": 1707448470,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80214,
       "num": 137853,
       "word": "小兰的365个初恋瞬间",
@@ -23072,14 +23144,6 @@
       "word": "库里23000分",
       "onboard_time": 1707448588,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 77624,
-      "num": 77624,
-      "word": "央媒记者评梅西事件",
-      "onboard_time": 1707448651,
-      "rank": 49,
       "category": "体育"
     },
     {
