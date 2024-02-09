@@ -1,7 +1,15 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707489251757,
+  "endTime": 1707491801695,
   "band_list": [
+    {
+      "raw_hot": 18909527,
+      "num": 18909527,
+      "word": "迪丽热巴美疯",
+      "onboard_time": 1707491110,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 18177726,
       "num": 18177726,
@@ -51,12 +59,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11170879,
+      "num": 11170879,
+      "word": "沈腾也嘴瓢了",
+      "onboard_time": 1707490289,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10841679,
       "num": 10841679,
       "word": "梅西发博回应",
       "onboard_time": 1707300511,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10186218,
+      "num": 10186218,
+      "word": "还得是沈腾马丽",
+      "onboard_time": 1707489716,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 9146563,
@@ -1003,6 +1027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1646266,
+      "num": 1092351,
+      "word": "任素汐唱歌真好听",
+      "onboard_time": 1707491348,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1639551,
       "num": 1075496,
       "word": "郑爽绝密者服务费1.2亿",
@@ -1427,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1373328,
+      "num": 1307097,
+      "word": "黄渤跑步机呢",
+      "onboard_time": 1707488838,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1369969,
       "num": 1229169,
       "word": "阿根廷3月中国行大概率取消",
@@ -1505,14 +1545,6 @@
       "onboard_time": 1706853213,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1307097,
-      "num": 1307097,
-      "word": "黄渤跑步机呢",
-      "onboard_time": 1707488838,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1306923,
@@ -2011,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1107390,
+      "num": 1089651,
+      "word": "陈丽君李云霄 梁祝",
+      "onboard_time": 1707489531,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1106985,
       "num": 1106985,
       "word": "上海恢复浦东机场网约车",
@@ -2019,12 +2059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105843,
+      "num": 1089361,
+      "word": "单依纯上春晚加学分吗",
+      "onboard_time": 1707489353,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1103827,
       "num": 1103827,
       "word": "吴昕工作",
       "onboard_time": 1707273449,
       "rank": 3,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 1101522,
+      "num": 1088782,
+      "word": "沈腾瘦了",
+      "onboard_time": 1707490229,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1098797,
@@ -2067,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093924,
+      "num": 1093924,
+      "word": "五福红包",
+      "onboard_time": 1707489778,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1092186,
       "num": 1092186,
       "word": "福建高速发生交通事故7人死亡",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1707435504,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088756,
+      "num": 1088756,
+      "word": "魏晨魏大勋白敬亭帅了一下又一下",
+      "onboard_time": 1707491780,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1088077,
@@ -2225,6 +2297,14 @@
       "onboard_time": 1706838090,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1043706,
+      "num": 1043706,
+      "word": "秦岚两秒镜头",
+      "onboard_time": 1707491110,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1033615,
@@ -2467,6 +2547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 965204,
+      "num": 965204,
+      "word": "鹅鹅鹅优雅又可爱",
+      "onboard_time": 1707491527,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 965176,
       "num": 965176,
       "word": "梅西日本赛前训练",
@@ -2632,6 +2720,14 @@
       "word": "花花是春晚最小的观众",
       "onboard_time": 1707471392,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 927725,
+      "num": 927725,
+      "word": "还不如让罗伯特上",
+      "onboard_time": 1707490162,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -3275,6 +3371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 803318,
+      "num": 803318,
+      "word": "山花",
+      "onboard_time": 1707491236,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 802154,
       "num": 802154,
       "word": "跳跳俏俏六岁了",
@@ -3555,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 765455,
+      "num": 765455,
+      "word": "东北分会场 热泪盈眶",
+      "onboard_time": 1707489469,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 763337,
       "num": 763337,
       "word": "AppStore下架库迪APP",
@@ -3713,6 +3825,14 @@
       "onboard_time": 1707240923,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 743316,
+      "num": 743316,
+      "word": "魏晨魏大勋都穿白不告诉白敬亭",
+      "onboard_time": 1707491469,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 741046,
@@ -5115,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 573070,
+      "num": 573070,
+      "word": "老舅说唱太顶了",
+      "onboard_time": 1707490088,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572836,
       "num": 572836,
       "word": "合同是否允许梅西缺阵",
@@ -5595,6 +5723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 534555,
+      "num": 534555,
+      "word": "王铮亮 这个转场等了一年",
+      "onboard_time": 1707491780,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534248,
       "num": 534248,
       "word": "关晓彤方否认演书卷一梦",
@@ -5848,6 +5984,14 @@
       "word": "高速惊现老头乐不到50迈一路压车",
       "onboard_time": 1706921728,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512415,
+      "num": 3256728,
+      "word": "40岁儿子跪着向妈妈讨要新年红包",
+      "onboard_time": 1707481249,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6216,14 +6360,6 @@
       "word": "上海虹桥枢纽宣布网约车1小时免费停",
       "onboard_time": 1706943270,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484811,
-      "num": 3256728,
-      "word": "40岁儿子跪着向妈妈讨要新年红包",
-      "onboard_time": 1707481249,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -10787,6 +10923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267685,
+      "num": 686250,
+      "word": "李武军发国乒包饺子现场",
+      "onboard_time": 1707490992,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267609,
       "num": 257899,
       "word": "吴磊赵今麦中戏第一vs北影第一",
@@ -11108,7 +11252,7 @@
     },
     {
       "raw_hot": 257766,
-      "num": 303677,
+      "num": 685831,
       "word": "主办方称要求梅西向球迷解释但未成功",
       "onboard_time": 1707470792,
       "rank": 25,
@@ -14889,6 +15033,14 @@
       "onboard_time": 1706872891,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199164,
+      "num": 1091862,
+      "word": "龙年的第一个惊喜相当科幻",
+      "onboard_time": 1707490808,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 199076,
@@ -24371,6 +24523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100809,
+      "num": 927784,
+      "word": "春晚小米汽车亮了",
+      "onboard_time": 1707489958,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 100730,
       "num": 100730,
       "word": "迪丽热巴光影花絮视频",
@@ -26353,6 +26513,14 @@
       "onboard_time": 1707330739,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28407,
+      "num": 418480,
+      "word": "这才是寒舍里的最佳CP",
+      "onboard_time": 1707491717,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 28397,
