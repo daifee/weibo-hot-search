@@ -1,0 +1,410 @@
+{
+  "runTime": 1707442175351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1157422,
+        "num": 1157422,
+        "word": "上班",
+        "onboard_time": 1707436465,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1581852,
+        "num": 1084510,
+        "word": "C罗大方回应球迷喊梅西",
+        "onboard_time": 1707440548,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29558,
+        "num": 745817,
+        "word": "在非遗中邂逅龙年氛围感",
+        "onboard_time": 1707399034,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730236,
+        "num": 730236,
+        "word": "春晚节目单啥时候出来",
+        "onboard_time": 1707438328,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720331,
+        "num": 720331,
+        "word": "已在工位",
+        "onboard_time": 1707440247,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511081,
+        "num": 511081,
+        "word": "为啥大年三十会消失初一却从不缺席",
+        "onboard_time": 1707435264,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372840,
+        "num": 372840,
+        "word": "3种假牛奶已被列入黑名单",
+        "onboard_time": 1707401915,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359860,
+        "num": 359860,
+        "word": "除夕快乐",
+        "onboard_time": 1707434720,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355313,
+        "num": 355313,
+        "word": "宋轶春晚大漏勺",
+        "onboard_time": 1707402517,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342511,
+        "num": 342511,
+        "word": "官方通报女子被丈夫泼酒点火烧伤",
+        "onboard_time": 1707436765,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089002,
+        "num": 340443,
+        "word": "女性每天无偿家务时间约为3到6小时",
+        "onboard_time": 1707435504,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828605,
+        "num": 338195,
+        "word": "胡锡进说梅西没那么大本事和分量",
+        "onboard_time": 1707434720,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375813,
+        "num": 337624,
+        "word": "梅西惹到港媒真是踢到铁板了",
+        "onboard_time": 1707374130,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334136,
+        "num": 334136,
+        "word": "钟丽缇女儿考拉怼网友",
+        "onboard_time": 1707404253,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338624,
+        "num": 333655,
+        "word": "C罗复出打满全场",
+        "onboard_time": 1707436884,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331911,
+        "num": 331911,
+        "word": "科比雕像",
+        "onboard_time": 1707437246,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303096,
+        "num": 303096,
+        "word": "丁俊晖回复吴磊",
+        "onboard_time": 1707402517,
+        "rank": 16,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 299101,
+        "num": 299101,
+        "word": "汉服 春晚",
+        "onboard_time": 1707440787,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273506,
+        "num": 273506,
+        "word": "官方回应网传21岁男子领养5岁女孩",
+        "onboard_time": 1707404977,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261860,
+        "num": 261860,
+        "word": "除夕文案",
+        "onboard_time": 1707433941,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240916,
+        "num": 240916,
+        "word": "公公突然给了我1万块压岁钱",
+        "onboard_time": 1707400897,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233148,
+        "num": 233148,
+        "word": "龙不再翻译为dragon而是loong",
+        "onboard_time": 1707383794,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 217057,
+        "num": 217057,
+        "word": "准备年夜饭",
+        "onboard_time": 1707439645,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206819,
+        "num": 206819,
+        "word": "小乔令牌",
+        "onboard_time": 1707435504,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199899,
+        "num": 199899,
+        "word": "郭冬临cos林俊杰",
+        "onboard_time": 1707403176,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195201,
+        "num": 195201,
+        "word": "今天是2030年前最后一个年三十",
+        "onboard_time": 1707440669,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174510,
+        "num": 174510,
+        "word": "光与夜之恋",
+        "onboard_time": 1707441148,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 169475,
+        "word": "王者小龙糕",
+        "onboard_time": 1707440129,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168228,
+        "num": 168228,
+        "word": "再就业男团春晚原创唱友情",
+        "onboard_time": 1707405214,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168190,
+        "num": 168190,
+        "word": "梅西日本上场粉丝哭诉无法接受",
+        "onboard_time": 1707435562,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164673,
+        "num": 164673,
+        "word": "灵宝市集",
+        "onboard_time": 1707440129,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161879,
+        "num": 161879,
+        "word": "拜年",
+        "onboard_time": 1707442045,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160467,
+        "num": 160467,
+        "word": "骆明 梅西事件应搞清合同去索赔",
+        "onboard_time": 1707441749,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150684,
+        "num": 150684,
+        "word": "夏克立 一直等待夏天太难过",
+        "onboard_time": 1707409648,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147380,
+        "num": 147380,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144848,
+        "num": 144848,
+        "word": "四美",
+        "onboard_time": 1707441988,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143981,
+        "num": 143981,
+        "word": "央视镜头下的红衣刘诗诗",
+        "onboard_time": 1707437485,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142629,
+        "num": 142629,
+        "word": "都是宝宝为什么我要发红包",
+        "onboard_time": 1707437847,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142045,
+        "num": 142045,
+        "word": "长相思吧官博发长文",
+        "onboard_time": 1707398914,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132294,
+        "num": 132294,
+        "word": "库里三分",
+        "onboard_time": 1707441988,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130158,
+        "num": 130158,
+        "word": "一年只烫一次的西兰花发型",
+        "onboard_time": 1707433280,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129303,
+        "num": 129303,
+        "word": "新闻联播镜头下的周冬雨",
+        "onboard_time": 1707407490,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128519,
+        "num": 128519,
+        "word": "一家4口回老家过年住酒店不住家",
+        "onboard_time": 1707396453,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126314,
+        "num": 126314,
+        "word": "科比8号雕像单手指天",
+        "onboard_time": 1707439348,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123146,
+        "num": 123146,
+        "word": "霍启刚评论区",
+        "onboard_time": 1707389733,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118304,
+        "num": 118304,
+        "word": "萧敬腾林有慧 雨神大人和夫人",
+        "onboard_time": 1707431238,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116748,
+        "num": 116748,
+        "word": "宋小宝小品",
+        "onboard_time": 1707436645,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116122,
+        "num": 116122,
+        "word": "龙年祝福",
+        "onboard_time": 1707441087,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114825,
+        "num": 114825,
+        "word": "林亦扬殷果吵架",
+        "onboard_time": 1707412823,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111556,
+        "num": 111556,
+        "word": "00后开始整顿过年了",
+        "onboard_time": 1707423437,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

@@ -1,7 +1,23 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707441024604,
+  "endTime": 1707442175351,
   "band_list": [
+    {
+      "raw_hot": 1581852,
+      "num": 1084510,
+      "word": "C罗大方回应球迷喊梅西",
+      "onboard_time": 1707440548,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1157422,
+      "num": 1157422,
+      "word": "上班",
+      "onboard_time": 1707436465,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 1145038,
       "num": 1145038,
@@ -11,15 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1140671,
-      "num": 1140671,
-      "word": "上班",
-      "onboard_time": 1707436465,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1075858,
+      "raw_hot": 1089002,
       "num": 382843,
       "word": "女性每天无偿家务时间约为3到6小时",
       "onboard_time": 1707435504,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720331,
+      "num": 720331,
+      "word": "已在工位",
+      "onboard_time": 1707440247,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 696904,
       "num": 696904,
       "word": "王者荣耀回应梅西皮肤",
@@ -91,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508144,
-      "num": 508144,
-      "word": "C罗大方回应球迷喊梅西",
-      "onboard_time": 1707440548,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 511081,
+      "num": 511081,
+      "word": "为啥大年三十会消失初一却从不缺席",
+      "onboard_time": 1707435264,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 507166,
@@ -105,14 +121,6 @@
       "onboard_time": 1707383794,
       "rank": 7,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 434938,
-      "num": 434938,
-      "word": "为啥大年三十会消失初一却从不缺席",
-      "onboard_time": 1707435264,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 433357,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299101,
+      "num": 299101,
+      "word": "汉服 春晚",
+      "onboard_time": 1707440787,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297218,
       "num": 297218,
       "word": "一姐不一了",
@@ -268,10 +284,18 @@
     },
     {
       "raw_hot": 272195,
-      "num": 226360,
+      "num": 240916,
       "word": "公公突然给了我1万块压岁钱",
       "onboard_time": 1707400897,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261860,
+      "num": 261860,
+      "word": "除夕文案",
+      "onboard_time": 1707433941,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -283,28 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245142,
-      "num": 245142,
-      "word": "除夕文案",
-      "onboard_time": 1707433941,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244732,
       "num": 220440,
       "word": "还得是宋小宝",
       "onboard_time": 1707404558,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243389,
-      "num": 243389,
-      "word": "已在工位",
-      "onboard_time": 1707440247,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 226605,
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195201,
+      "num": 195201,
+      "word": "今天是2030年前最后一个年三十",
+      "onboard_time": 1707440669,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 191232,
       "num": 191232,
       "word": "刘涛刘诗诗关晓彤李沁同框",
@@ -352,6 +368,14 @@
       "word": "灵宝市集",
       "onboard_time": 1707440129,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174510,
+      "num": 174510,
+      "word": "光与夜之恋",
+      "onboard_time": 1707441148,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -379,6 +403,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161879,
+      "num": 161879,
+      "word": "拜年",
+      "onboard_time": 1707442045,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160467,
+      "num": 160467,
+      "word": "骆明 梅西事件应搞清合同去索赔",
+      "onboard_time": 1707441749,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157836,
       "num": 157836,
       "word": "都是宝宝为什么我要发红包",
@@ -393,22 +433,6 @@
       "onboard_time": 1707439530,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154379,
-      "num": 154379,
-      "word": "今天是2030年前最后一个年三十",
-      "onboard_time": 1707440669,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 150171,
-      "num": 150171,
-      "word": "汉服 春晚",
-      "onboard_time": 1707440787,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 149788,
@@ -459,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144848,
+      "num": 144848,
+      "word": "四美",
+      "onboard_time": 1707441988,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144791,
       "num": 144791,
       "word": "大年三十儿",
@@ -505,6 +537,14 @@
       "onboard_time": 1707433280,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132294,
+      "num": 132294,
+      "word": "库里三分",
+      "onboard_time": 1707441988,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 129600,
@@ -609,6 +649,14 @@
       "onboard_time": 1707386610,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116122,
+      "num": 116122,
+      "word": "龙年祝福",
+      "onboard_time": 1707441087,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 115091,
@@ -812,7 +860,7 @@
     },
     {
       "raw_hot": 31001,
-      "num": 560978,
+      "num": 745817,
       "word": "在非遗中邂逅龙年氛围感",
       "onboard_time": 1707399034,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707441024604,
+  "endTime": 1707442175351,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -747,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1581852,
+      "num": 1084510,
+      "word": "C罗大方回应球迷喊梅西",
+      "onboard_time": 1707440548,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1573122,
       "num": 1181231,
       "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
@@ -1339,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1157422,
+      "num": 1157422,
+      "word": "上班",
+      "onboard_time": 1707005308,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1154564,
       "num": 1154564,
       "word": "贾静雯女儿梧桐妹戴唇环舌环",
@@ -1385,14 +1401,6 @@
       "onboard_time": 1706975010,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1140671,
-      "num": 1140671,
-      "word": "上班",
-      "onboard_time": 1707005308,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 1140260,
@@ -1547,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1089002,
+      "num": 382843,
+      "word": "女性每天无偿家务时间约为3到6小时",
+      "onboard_time": 1707435504,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1088077,
       "num": 1088077,
       "word": "双北 春晚",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1706918486,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1075858,
-      "num": 382843,
-      "word": "女性每天无偿家务时间约为3到6小时",
-      "onboard_time": 1707435504,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1071775,
@@ -3161,6 +3169,14 @@
       "onboard_time": 1707357512,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 720331,
+      "num": 720331,
+      "word": "已在工位",
+      "onboard_time": 1707440247,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 720263,
@@ -5011,6 +5027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 511081,
+      "num": 511081,
+      "word": "为啥大年三十会消失初一却从不缺席",
+      "onboard_time": 1707435264,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 509722,
       "num": 509722,
       "word": "暴雪时分 留学生",
@@ -5025,14 +5049,6 @@
       "onboard_time": 1707097348,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 508144,
-      "num": 508144,
-      "word": "C罗大方回应球迷喊梅西",
-      "onboard_time": 1707440548,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 507866,
@@ -5929,14 +5945,6 @@
       "onboard_time": 1707260600,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 434938,
-      "num": 434938,
-      "word": "为啥大年三十会消失初一却从不缺席",
-      "onboard_time": 1707435264,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 433311,
@@ -8563,6 +8571,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 299101,
+      "num": 299101,
+      "word": "汉服 春晚",
+      "onboard_time": 1707440787,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298840,
       "num": 298840,
       "word": "二月壁纸",
@@ -9691,6 +9707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 261860,
+      "num": 261860,
+      "word": "除夕文案",
+      "onboard_time": 1707433941,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261514,
       "num": 261514,
       "word": "妈妈 可是人生不是用来回本的",
@@ -10331,14 +10355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245142,
-      "num": 245142,
-      "word": "除夕文案",
-      "onboard_time": 1707433941,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 245106,
       "num": 245106,
       "word": "刘德华已经在超市上了19年班了",
@@ -10417,14 +10433,6 @@
       "onboard_time": 1707039688,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 243389,
-      "num": 243389,
-      "word": "已在工位",
-      "onboard_time": 1707440247,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 242693,
@@ -13739,6 +13747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195201,
+      "num": 195201,
+      "word": "今天是2030年前最后一个年三十",
+      "onboard_time": 1707440669,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 195091,
       "num": 195091,
       "word": "梅西C罗表情",
@@ -16723,6 +16739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161879,
+      "num": 161879,
+      "word": "拜年",
+      "onboard_time": 1707442045,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161790,
       "num": 161790,
       "word": "吴魏独家爆料林亦扬",
@@ -16873,6 +16897,14 @@
       "onboard_time": 1707026791,
       "rank": 35,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 160467,
+      "num": 160467,
+      "word": "骆明 梅西事件应搞清合同去索赔",
+      "onboard_time": 1707441749,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 160429,
@@ -17379,14 +17411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154379,
-      "num": 154379,
-      "word": "今天是2030年前最后一个年三十",
-      "onboard_time": 1707440669,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 154166,
       "num": 191565,
       "word": "法国巴黎一火车站发生袭击事件",
@@ -17729,14 +17753,6 @@
       "onboard_time": 1706923710,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150171,
-      "num": 150171,
-      "word": "汉服 春晚",
-      "onboard_time": 1707440787,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 150164,
@@ -18313,6 +18329,14 @@
       "onboard_time": 1707035430,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144848,
+      "num": 144848,
+      "word": "四美",
+      "onboard_time": 1707441988,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144815,
@@ -19681,6 +19705,14 @@
       "onboard_time": 1707141873,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132294,
+      "num": 132294,
+      "word": "库里三分",
+      "onboard_time": 1707441988,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132182,
@@ -21233,6 +21265,14 @@
       "onboard_time": 1707139111,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116122,
+      "num": 116122,
+      "word": "龙年祝福",
+      "onboard_time": 1707441087,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 115949,
