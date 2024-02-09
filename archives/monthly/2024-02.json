@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707455742214,
+  "endTime": 1707456836480,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -41,6 +41,14 @@
       "onboard_time": 1707309875,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4749776,
+      "num": 4749776,
+      "word": "春晚节目单",
+      "onboard_time": 1706853631,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 4033714,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1706963850,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1171630,
+      "num": 260397,
+      "word": "梅西代言品牌集体沉默",
+      "onboard_time": 1707454649,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1170546,
@@ -3067,14 +3083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 742612,
-      "num": 236143,
-      "word": "梅西代言品牌集体沉默",
-      "onboard_time": 1707454649,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 741046,
       "num": 741046,
       "word": "从脂肪肝到肝癌只需四步",
@@ -4195,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597225,
+      "num": 597225,
+      "word": "胖东来仅赚3毛羽绒服为断码降价产品",
+      "onboard_time": 1707453389,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595157,
       "num": 595157,
       "word": "真实胎动",
@@ -4681,14 +4697,6 @@
       "onboard_time": 1707362853,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 547147,
-      "num": 547147,
-      "word": "胖东来仅赚3毛羽绒服为断码降价产品",
-      "onboard_time": 1707453389,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545256,
@@ -5489,14 +5497,6 @@
       "onboard_time": 1707400356,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 480669,
-      "num": 480669,
-      "word": "春晚节目单",
-      "onboard_time": 1706853631,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 480532,
@@ -6473,6 +6473,14 @@
       "onboard_time": 1707219090,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 406227,
+      "num": 406227,
+      "word": "杨丽萍 真孔雀",
+      "onboard_time": 1707455790,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 405957,
@@ -8276,7 +8284,7 @@
     },
     {
       "raw_hot": 313993,
-      "num": 235079,
+      "num": 299980,
       "word": "春晚演员阵容先行预告",
       "onboard_time": 1707454352,
       "rank": 11,
@@ -8532,7 +8540,7 @@
     },
     {
       "raw_hot": 304225,
-      "num": 233887,
+      "num": 240853,
       "word": "43岁乐基儿身材",
       "onboard_time": 1707453270,
       "rank": 12,
@@ -9121,6 +9129,14 @@
       "onboard_time": 1707199114,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283034,
+      "num": 257834,
+      "word": "巨蟹座是非常看重眼缘的",
+      "onboard_time": 1707455551,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 283031,
@@ -10443,6 +10459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247458,
+      "num": 157655,
+      "word": "为何现在的草莓越来越难吃了",
+      "onboard_time": 1707454833,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247404,
       "num": 247404,
       "word": "潘玮柏老婆参加姐妹团聚会",
@@ -11763,6 +11787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221617,
+      "num": 156220,
+      "word": "大年初一上映8部电影",
+      "onboard_time": 1707455008,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221405,
       "num": 221405,
       "word": "雪球",
@@ -12041,14 +12073,6 @@
       "onboard_time": 1706811740,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217737,
-      "num": 156278,
-      "word": "为何现在的草莓越来越难吃了",
-      "onboard_time": 1707454833,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 217727,
@@ -14171,14 +14195,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 193557,
-      "num": 156220,
-      "word": "大年初一上映8部电影",
-      "onboard_time": 1707455008,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 193490,
       "num": 193490,
       "word": "朱一龙芭比粉外套",
@@ -14353,6 +14369,14 @@
       "onboard_time": 1706869290,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192436,
+      "num": 192436,
+      "word": "张杰龙年除夕点歌龙吟",
+      "onboard_time": 1707456031,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 192401,
@@ -18547,14 +18571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146196,
-      "num": 138808,
-      "word": "巨蟹座是非常看重眼缘的",
-      "onboard_time": 1707455551,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146114,
       "num": 146114,
       "word": "金博洋完成3个四周跳",
@@ -22315,6 +22331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 108957,
+      "num": 108957,
+      "word": "文昌通报2888元内场看火箭发射",
+      "onboard_time": 1707456452,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108947,
       "num": 108947,
       "word": "肖战同路人首唱",
@@ -22747,6 +22771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99214,
+      "num": 99214,
+      "word": "林亦扬复出",
+      "onboard_time": 1707456392,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99134,
       "num": 99134,
       "word": "属于济南人自己的顶级手办",
@@ -22801,6 +22833,14 @@
       "onboard_time": 1706696730,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97574,
+      "num": 97574,
+      "word": "BBA从加价到骨折",
+      "onboard_time": 1707456630,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 97334,

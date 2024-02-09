@@ -1,0 +1,410 @@
+{
+  "runTime": 1707456836480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4749776,
+        "num": 4749776,
+        "word": "春晚节目单",
+        "onboard_time": 1707456452,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810511,
+        "num": 810511,
+        "word": "辛芷蕾春晚节目漏的差不多了吧",
+        "onboard_time": 1707450390,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53722,
+        "num": 650007,
+        "word": "用中国人的专属浪漫打开龙年",
+        "onboard_time": 1707452851,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597225,
+        "num": 597225,
+        "word": "胖东来仅赚3毛羽绒服为断码降价产品",
+        "onboard_time": 1707453389,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418637,
+        "num": 418637,
+        "word": "马思纯半年瘦了50斤",
+        "onboard_time": 1707444450,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406227,
+        "num": 406227,
+        "word": "杨丽萍 真孔雀",
+        "onboard_time": 1707455790,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387296,
+        "num": 387296,
+        "word": "上班",
+        "onboard_time": 1707436465,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299980,
+        "num": 299980,
+        "word": "春晚演员阵容先行预告",
+        "onboard_time": 1707454352,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292728,
+        "num": 292728,
+        "word": "3种假牛奶已被列入黑名单",
+        "onboard_time": 1707401915,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276594,
+        "num": 276594,
+        "word": "洛阳文科状元返乡就业称底气满满",
+        "onboard_time": 1707453210,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171630,
+        "num": 260397,
+        "word": "梅西代言品牌集体沉默",
+        "onboard_time": 1707454649,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283034,
+        "num": 257834,
+        "word": "巨蟹座是非常看重眼缘的",
+        "onboard_time": 1707455551,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240853,
+        "num": 240853,
+        "word": "43岁乐基儿身材",
+        "onboard_time": 1707453270,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377610,
+        "num": 231659,
+        "word": "央媒记者评梅西事件",
+        "onboard_time": 1707448651,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222037,
+        "num": 222037,
+        "word": "为啥大年三十会消失初一却从不缺席",
+        "onboard_time": 1707435264,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218658,
+        "num": 218658,
+        "word": "花花年夜饭把盘子都吃了",
+        "onboard_time": 1707445767,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350227,
+        "num": 212673,
+        "word": "C罗大方回应球迷喊梅西",
+        "onboard_time": 1707440548,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192436,
+        "num": 192436,
+        "word": "张杰龙年除夕点歌龙吟",
+        "onboard_time": 1707456031,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168184,
+        "num": 168184,
+        "word": "热辣滚烫",
+        "onboard_time": 1707450089,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166787,
+        "num": 166787,
+        "word": "水龙吟",
+        "onboard_time": 1707443846,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577538,
+        "num": 164898,
+        "word": "春晚节目单啥时候出来",
+        "onboard_time": 1707438328,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247458,
+        "num": 157655,
+        "word": "为何现在的草莓越来越难吃了",
+        "onboard_time": 1707454833,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221617,
+        "num": 153129,
+        "word": "大年初一上映8部电影",
+        "onboard_time": 1707455008,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196775,
+        "num": 150445,
+        "word": "00后男子入赘相恋八年女友",
+        "onboard_time": 1707449610,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146174,
+        "num": 146174,
+        "word": "除夕文案",
+        "onboard_time": 1707433941,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144109,
+        "num": 144109,
+        "word": "英雄联盟手游",
+        "onboard_time": 1707453629,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141273,
+        "num": 141273,
+        "word": "成毅特意停车看烟花",
+        "onboard_time": 1707446188,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138951,
+        "num": 138951,
+        "word": "肖战2024年拜年视频",
+        "onboard_time": 1707451110,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137229,
+        "num": 137229,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136240,
+        "num": 136240,
+        "word": "世界之外",
+        "onboard_time": 1707455551,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132034,
+        "num": 132034,
+        "word": "李宇春北京台春晚官宣",
+        "onboard_time": 1707452851,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129451,
+        "num": 129451,
+        "word": "年夜饭",
+        "onboard_time": 1707451290,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122352,
+        "num": 122352,
+        "word": "鹿晗2023年终总结",
+        "onboard_time": 1707451170,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119544,
+        "num": 119544,
+        "word": "传统丈夫的一天",
+        "onboard_time": 1707452427,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117726,
+        "num": 117726,
+        "word": "多家地方卫视春晚已上演科目三",
+        "onboard_time": 1707455194,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114774,
+        "num": 114774,
+        "word": "已在工位",
+        "onboard_time": 1707440247,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113654,
+        "num": 113654,
+        "word": "第一次上春晚的贾玲",
+        "onboard_time": 1707447209,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110384,
+        "num": 110384,
+        "word": "除夕快乐",
+        "onboard_time": 1707434720,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110315,
+        "num": 110315,
+        "word": "准备年夜饭",
+        "onboard_time": 1707439645,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109177,
+        "num": 109177,
+        "word": "刘涛这个春节好忙",
+        "onboard_time": 1707454769,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108957,
+        "num": 108957,
+        "word": "文昌通报2888元内场看火箭发射",
+        "onboard_time": 1707456452,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103650,
+        "num": 103650,
+        "word": "张远王栎鑫成立婚庆公司了",
+        "onboard_time": 1707445408,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100070,
+        "num": 100070,
+        "word": "张小斐吊带红裙",
+        "onboard_time": 1707444808,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99655,
+        "num": 99655,
+        "word": "王俊凯焕蓝梦想基金转为私募",
+        "onboard_time": 1707451829,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99214,
+        "num": 99214,
+        "word": "林亦扬复出",
+        "onboard_time": 1707456392,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97574,
+        "num": 97574,
+        "word": "BBA从加价到骨折",
+        "onboard_time": 1707456630,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92944,
+        "num": 92944,
+        "word": "四美",
+        "onboard_time": 1707441988,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89411,
+        "num": 89411,
+        "word": "55岁收到83岁妈妈的压岁钱",
+        "onboard_time": 1707447867,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88413,
+        "num": 88413,
+        "word": "胡冰卿重回去有风的地方取景地vlog",
+        "onboard_time": 1707453629,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85905,
+        "num": 85905,
+        "word": "被拒绝也没关系",
+        "onboard_time": 1707453329,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
