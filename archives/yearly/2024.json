@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707445299851,
+  "endTime": 1707446033677,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -393,6 +393,14 @@
       "onboard_time": 1704680789,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3599833,
+      "num": 3599833,
+      "word": "曝郑爽47分钟录音",
+      "onboard_time": 1707444567,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3592037,
@@ -2337,14 +2345,6 @@
       "onboard_time": 1704527972,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1805307,
-      "num": 1805307,
-      "word": "曝郑爽47分钟录音",
-      "onboard_time": 1707444567,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1804535,

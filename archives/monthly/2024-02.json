@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707445299851,
+  "endTime": 1707446033677,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -47,6 +47,14 @@
       "num": 3966659,
       "word": "杨波报平安",
       "onboard_time": 1707037290,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3599833,
+      "num": 3599833,
+      "word": "曝郑爽47分钟录音",
+      "onboard_time": 1707444567,
       "rank": 0,
       "category": "艺人"
     },
@@ -561,14 +569,6 @@
       "onboard_time": 1706870130,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1805307,
-      "num": 1805307,
-      "word": "曝郑爽47分钟录音",
-      "onboard_time": 1707444567,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1804535,
@@ -1572,7 +1572,7 @@
     },
     {
       "raw_hot": 1089002,
-      "num": 386424,
+      "num": 404529,
       "word": "女性每天无偿家务时间约为3到6小时",
       "onboard_time": 1707435504,
       "rank": 10,
@@ -2160,6 +2160,14 @@
       "word": "四美",
       "onboard_time": 1707441988,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 898976,
+      "num": 898976,
+      "word": "马思纯半年瘦了50斤",
+      "onboard_time": 1707444450,
+      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -3241,14 +3249,6 @@
       "onboard_time": 1707308555,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714001,
-      "num": 714001,
-      "word": "马思纯半年瘦了50斤",
-      "onboard_time": 1707444450,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 712255,
@@ -6475,6 +6475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402878,
+      "num": 402878,
+      "word": "张远王栎鑫成立婚庆公司了",
+      "onboard_time": 1707445408,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 402202,
       "num": 402202,
       "word": "蝴蝶少女直拍",
@@ -8731,6 +8739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 292962,
+      "num": 292962,
+      "word": "张小斐吊带红裙",
+      "onboard_time": 1707444808,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292947,
       "num": 292947,
       "word": "黄毅清恶意诽谤马苏案维持原判",
@@ -9627,6 +9643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 266604,
+      "num": 266604,
+      "word": "水龙吟",
+      "onboard_time": 1707443846,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -9945,14 +9969,6 @@
       "onboard_time": 1707295113,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256449,
-      "num": 233220,
-      "word": "水龙吟",
-      "onboard_time": 1707443846,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 256386,
@@ -10467,6 +10483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 243302,
+      "num": 243302,
+      "word": "一年烫一次的头",
+      "onboard_time": 1707442527,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242693,
       "num": 242693,
       "word": "要久久刀",
@@ -10513,14 +10537,6 @@
       "onboard_time": 1707104191,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241698,
-      "num": 241698,
-      "word": "张小斐吊带红裙",
-      "onboard_time": 1707444808,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 241594,
@@ -10961,14 +10977,6 @@
       "onboard_time": 1707325045,
       "rank": 29,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 233193,
-      "num": 233193,
-      "word": "一年烫一次的头",
-      "onboard_time": 1707442527,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 232853,
@@ -16787,6 +16795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162032,
+      "num": 162032,
+      "word": "库里三分",
+      "onboard_time": 1707441988,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162025,
       "num": 162025,
       "word": "朱易 对自己今天的表现不满意",
@@ -17828,7 +17844,7 @@
     },
     {
       "raw_hot": 150149,
-      "num": 122748,
+      "num": 152616,
       "word": "球迷起哄喊梅西C罗示意大声点",
       "onboard_time": 1707444209,
       "rank": 32,
@@ -17841,6 +17857,14 @@
       "onboard_time": 1707309756,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150046,
+      "num": 150046,
+      "word": "除夕上班没有三倍工资",
+      "onboard_time": 1707445650,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149845,
@@ -18225,6 +18249,14 @@
       "onboard_time": 1707106654,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146595,
+      "num": 146595,
+      "word": "乌克兰武装部队总司令换人",
+      "onboard_time": 1707444626,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146528,
@@ -19659,14 +19691,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 132985,
-      "num": 132985,
-      "word": "库里三分",
-      "onboard_time": 1707441988,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132971,
       "num": 132971,
       "word": "31省份2023年GDP出炉",
@@ -19873,6 +19897,14 @@
       "onboard_time": 1706743042,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131625,
+      "num": 131625,
+      "word": "过年的时候最想拥有的超能力",
+      "onboard_time": 1707444929,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 131613,
@@ -21140,7 +21172,7 @@
     },
     {
       "raw_hot": 118611,
-      "num": 118611,
+      "num": 150950,
       "word": "想丢书包的小朋友vs热心乘务员",
       "onboard_time": 1707443969,
       "rank": 42,
@@ -22059,14 +22091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106023,
-      "num": 106023,
-      "word": "乌克兰武装部队总司令换人",
-      "onboard_time": 1707444626,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 105969,
       "num": 105969,
       "word": "快递小哥铲雪挖百米通道送货",
@@ -22075,19 +22099,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105959,
+      "num": 105959,
+      "word": "花花年夜饭把盘子都吃了",
+      "onboard_time": 1707445767,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105896,
       "num": 105896,
       "word": "只有在自己家才能做自己",
       "onboard_time": 1707037889,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 105836,
-      "num": 105836,
-      "word": "过年的时候最想拥有的超能力",
-      "onboard_time": 1707444929,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -22483,6 +22507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95144,
+      "num": 95144,
+      "word": "送走小兔子迎来小金龙",
+      "onboard_time": 1707445230,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94854,
       "num": 94854,
       "word": "金奎彬韩维辰 MakeMeWater",
@@ -22619,6 +22651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90306,
+      "num": 90306,
+      "word": "龙年祝福语",
+      "onboard_time": 1707442288,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90260,
       "num": 109368,
       "word": "谷爱凌和奶奶过小年",
@@ -22707,12 +22747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85887,
-      "num": 85887,
-      "word": "送走小兔子迎来小金龙",
-      "onboard_time": 1707445230,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 86367,
+      "num": 86367,
+      "word": "库里也过年",
+      "onboard_time": 1707445889,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85805,
@@ -22849,14 +22889,6 @@
       "onboard_time": 1706823976,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79739,
-      "num": 79739,
-      "word": "龙年祝福语",
-      "onboard_time": 1707442288,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 79325,

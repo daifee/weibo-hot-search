@@ -1,10 +1,10 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707445299851,
+  "endTime": 1707446033677,
   "band_list": [
     {
-      "raw_hot": 1805307,
-      "num": 1805307,
+      "raw_hot": 3599833,
+      "num": 3599833,
       "word": "曝郑爽47分钟录音",
       "onboard_time": 1707444567,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1089002,
-      "num": 386424,
+      "num": 404529,
       "word": "女性每天无偿家务时间约为3到6小时",
       "onboard_time": 1707435504,
       "rank": 10,
@@ -64,6 +64,14 @@
       "word": "四美",
       "onboard_time": 1707441988,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 898976,
+      "num": 898976,
+      "word": "马思纯半年瘦了50斤",
+      "onboard_time": 1707444450,
+      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1707404977,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714001,
-      "num": 714001,
-      "word": "马思纯半年瘦了50斤",
-      "onboard_time": 1707444450,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 696904,
@@ -169,6 +169,14 @@
       "onboard_time": 1707436765,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402878,
+      "num": 402878,
+      "word": "张远王栎鑫成立婚庆公司了",
+      "onboard_time": 1707445408,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398126,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292962,
+      "num": 292962,
+      "word": "张小斐吊带红裙",
+      "onboard_time": 1707444808,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292906,
       "num": 175458,
       "word": "官方回应网民建议70岁老人不从事物业服务",
@@ -331,8 +347,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256449,
-      "num": 233220,
+      "raw_hot": 266604,
+      "num": 266604,
       "word": "水龙吟",
       "onboard_time": 1707443846,
       "rank": 25,
@@ -355,16 +371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241698,
-      "num": 241698,
-      "word": "张小斐吊带红裙",
-      "onboard_time": 1707444808,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 233193,
-      "num": 233193,
+      "raw_hot": 243302,
+      "num": 243302,
       "word": "一年烫一次的头",
       "onboard_time": 1707442527,
       "rank": 18,
@@ -483,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162032,
+      "num": 162032,
+      "word": "库里三分",
+      "onboard_time": 1707441988,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161879,
       "num": 161879,
       "word": "拜年",
@@ -508,11 +524,19 @@
     },
     {
       "raw_hot": 150149,
-      "num": 122748,
+      "num": 152616,
       "word": "球迷起哄喊梅西C罗示意大声点",
       "onboard_time": 1707444209,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150046,
+      "num": 150046,
+      "word": "除夕上班没有三倍工资",
+      "onboard_time": 1707445650,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149788,
@@ -561,6 +585,14 @@
       "onboard_time": 1707437485,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146595,
+      "num": 146595,
+      "word": "乌克兰武装部队总司令换人",
+      "onboard_time": 1707444626,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 144791,
@@ -619,12 +651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132985,
-      "num": 132985,
-      "word": "库里三分",
-      "onboard_time": 1707441988,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 131625,
+      "num": 131625,
+      "word": "过年的时候最想拥有的超能力",
+      "onboard_time": 1707444929,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 129600,
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 118611,
-      "num": 118611,
+      "num": 150950,
       "word": "想丢书包的小朋友vs热心乘务员",
       "onboard_time": 1707443969,
       "rank": 42,
@@ -787,20 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106023,
-      "num": 106023,
-      "word": "乌克兰武装部队总司令换人",
-      "onboard_time": 1707444626,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 105836,
-      "num": 105836,
-      "word": "过年的时候最想拥有的超能力",
-      "onboard_time": 1707444929,
+      "raw_hot": 105959,
+      "num": 105959,
+      "word": "花花年夜饭把盘子都吃了",
+      "onboard_time": 1707445767,
       "rank": 37,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103771,
@@ -835,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95144,
+      "num": 95144,
+      "word": "送走小兔子迎来小金龙",
+      "onboard_time": 1707445230,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93927,
       "num": 93927,
       "word": "女子回家过年带8套穿搭每天不重样",
       "onboard_time": 1707433280,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90306,
+      "num": 90306,
+      "word": "龙年祝福语",
+      "onboard_time": 1707442288,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 88038,
@@ -851,12 +891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85887,
-      "num": 85887,
-      "word": "送走小兔子迎来小金龙",
-      "onboard_time": 1707445230,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 86367,
+      "num": 86367,
+      "word": "库里也过年",
+      "onboard_time": 1707445889,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85805,
@@ -881,14 +921,6 @@
       "onboard_time": 1707414739,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79739,
-      "num": 79739,
-      "word": "龙年祝福语",
-      "onboard_time": 1707442288,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 77994,
