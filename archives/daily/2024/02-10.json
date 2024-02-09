@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707520644743,
+  "endTime": 1707521633629,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -323,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 796216,
+      "num": 796216,
+      "word": "尼格买提偷偷藏不住",
+      "onboard_time": 1707520164,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 768807,
       "num": 768807,
       "word": "张艺兴十字路口跳舞",
@@ -337,6 +345,14 @@
       "onboard_time": 1707487217,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 734948,
+      "num": 557369,
+      "word": "章若楠蒋诗萌回应小品尴尬",
+      "onboard_time": 1707505579,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 697479,
@@ -411,19 +427,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557369,
-      "num": 557369,
-      "word": "章若楠蒋诗萌回应小品尴尬",
-      "onboard_time": 1707505579,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548453,
       "num": 548453,
       "word": "花花C位",
       "onboard_time": 1707481191,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 531301,
+      "num": 531301,
+      "word": "春晚羽绒服破了",
+      "onboard_time": 1707506540,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -459,22 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387184,
-      "num": 387184,
-      "word": "春晚羽绒服破了",
-      "onboard_time": 1707506540,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 373166,
-      "num": 373166,
-      "word": "尼格买提偷偷藏不住",
-      "onboard_time": 1707520164,
-      "rank": 11,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 360912,
       "num": 2146849,
       "word": "40岁儿子跪着向妈妈讨要新年红包",
@@ -489,6 +489,14 @@
       "onboard_time": 1707474992,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335170,
+      "num": 300349,
+      "word": "杨幂刘诗诗后台合照",
+      "onboard_time": 1707520523,
+      "rank": 40,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 333463,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124676,
+      "num": 77593,
+      "word": "张杰孙楠 强强联合",
+      "onboard_time": 1707521367,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119524,
       "num": 119524,
       "word": "曾舜晞 逃过了特写",
@@ -603,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107085,
+      "num": 107085,
+      "word": "敬业福",
+      "onboard_time": 1707512957,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102123,
       "num": 1226633,
       "word": "丫丫过年也吃上了饺子",
@@ -611,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96051,
-      "num": 96051,
-      "word": "敬业福",
-      "onboard_time": 1707512957,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 99995,
+      "num": 74908,
+      "word": "单依纯上春晚加学分吗",
+      "onboard_time": 1707489353,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 95190,
@@ -635,12 +659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88485,
-      "num": 88485,
-      "word": "杨幂刘诗诗后台合照",
-      "onboard_time": 1707520523,
-      "rank": 40,
-      "category": "综艺,艺人"
+      "raw_hot": 92240,
+      "num": 73675,
+      "word": "韩红一开口就是国泰民安",
+      "onboard_time": 1707519803,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78997,
+      "num": 72877,
+      "word": "小狗春晚",
+      "onboard_time": 1707519983,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 78513,
@@ -651,20 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75843,
+      "raw_hot": 77531,
       "num": 706779,
       "word": "主办方称要求梅西向球迷解释但未成功",
       "onboard_time": 1707470792,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72192,
-      "num": 72192,
-      "word": "单依纯上春晚加学分吗",
-      "onboard_time": 1707489353,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 66704,
@@ -683,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61686,
-      "num": 61686,
-      "word": "韩红一开口就是国泰民安",
-      "onboard_time": 1707519803,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60257,
       "num": 38687,
       "word": "沈腾 皮都展开了",
@@ -705,14 +721,6 @@
       "onboard_time": 1707504681,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 52158,
-      "num": 61587,
-      "word": "小狗春晚",
-      "onboard_time": 1707519983,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 48650,
@@ -737,6 +745,14 @@
       "onboard_time": 1707508578,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34606,
+      "num": 72718,
+      "word": "花花龙年表情包",
+      "onboard_time": 1707521306,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30837,
