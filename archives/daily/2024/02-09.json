@@ -1,10 +1,10 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707456836480,
+  "endTime": 1707459691633,
   "band_list": [
     {
-      "raw_hot": 4749776,
-      "num": 4749776,
+      "raw_hot": 7879409,
+      "num": 7879409,
       "word": "春晚节目单",
       "onboard_time": 1707456452,
       "rank": 0,
@@ -41,6 +41,22 @@
       "onboard_time": 1707440247,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1461401,
+      "num": 1461401,
+      "word": "赵昭仪秒删",
+      "onboard_time": 1707457775,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1343511,
+      "num": 1343511,
+      "word": "胡歌杨幂唐嫣春晚开场",
+      "onboard_time": 1707458488,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1175225,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788922,
+      "num": 788922,
+      "word": "何炅上春晚",
+      "onboard_time": 1707458374,
+      "rank": 4,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 749641,
       "num": 402954,
       "word": "梅西惹到港媒真是踢到铁板了",
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646083,
+      "num": 646083,
+      "word": "0713春晚",
+      "onboard_time": 1707457652,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597225,
       "num": 597225,
       "word": "胖东来仅赚3毛羽绒服为断码降价产品",
@@ -203,12 +235,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 505250,
+      "num": 505250,
+      "word": "开不了口 春晚",
+      "onboard_time": 1707458615,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489940,
       "num": 489940,
       "word": "第一次上春晚的贾玲",
       "onboard_time": 1707447209,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469408,
+      "num": 469408,
+      "word": "曾舜晞发烧了",
+      "onboard_time": 1707458732,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433357,
@@ -347,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313328,
+      "num": 252072,
+      "word": "全网首例哭着吃饭的吃播",
+      "onboard_time": 1707457111,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309564,
       "num": 238979,
       "word": "夏克立 一直等待夏天太难过",
@@ -395,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294909,
+      "num": 250858,
+      "word": "春晚认证山花cp",
+      "onboard_time": 1707458433,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292962,
       "num": 292962,
       "word": "张小斐吊带红裙",
@@ -435,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284460,
+      "num": 247939,
+      "word": "春晚又有刘谦了",
+      "onboard_time": 1707459092,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284401,
       "num": 284401,
       "word": "梅西发博回应",
@@ -444,7 +516,7 @@
     },
     {
       "raw_hot": 283034,
-      "num": 257834,
+      "num": 259385,
       "word": "巨蟹座是非常看重眼缘的",
       "onboard_time": 1707455551,
       "rank": 31,
@@ -532,11 +604,19 @@
     },
     {
       "raw_hot": 247458,
-      "num": 157655,
+      "num": 179471,
       "word": "为何现在的草莓越来越难吃了",
       "onboard_time": 1707454833,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 246075,
+      "num": 246075,
+      "word": "十个勤天",
+      "onboard_time": 1707458732,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 244732,
@@ -553,6 +633,14 @@
       "onboard_time": 1707442527,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232414,
+      "num": 232414,
+      "word": "苏醒爸爸热烈表白陈楚生",
+      "onboard_time": 1707458252,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 227193,
@@ -572,7 +660,7 @@
     },
     {
       "raw_hot": 221617,
-      "num": 156220,
+      "num": 175461,
       "word": "大年初一上映8部电影",
       "onboard_time": 1707455008,
       "rank": 23,
@@ -593,6 +681,14 @@
       "onboard_time": 1707440129,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214424,
+      "num": 214424,
+      "word": "迪丽热巴于朦胧春晚合唱",
+      "onboard_time": 1707459212,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 211343,
@@ -635,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194242,
+      "num": 194242,
+      "word": "文昌通报2888元内场看火箭发射",
+      "onboard_time": 1707456452,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192436,
       "num": 192436,
       "word": "张杰龙年除夕点歌龙吟",
@@ -651,11 +755,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191463,
+      "num": 191463,
+      "word": "杨紫除夕营业照",
+      "onboard_time": 1707459334,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191232,
       "num": 191232,
       "word": "刘涛刘诗诗关晓彤李沁同框",
       "onboard_time": 1707406833,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177938,
+      "num": 177938,
+      "word": "春晚46个节目",
+      "onboard_time": 1707459152,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -667,12 +787,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177373,
+      "num": 177373,
+      "word": "深交所公开谴责恒大地产",
+      "onboard_time": 1707458012,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177351,
       "num": 177351,
       "word": "永夜星河除夕片花",
       "onboard_time": 1707448769,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176573,
+      "num": 176573,
+      "word": "张雪峰建议大学举行入学考",
+      "onboard_time": 1707458974,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 175978,
@@ -697,6 +833,22 @@
       "onboard_time": 1707441749,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173144,
+      "num": 173144,
+      "word": "像你这样的朋友",
+      "onboard_time": 1707459273,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173023,
+      "num": 173023,
+      "word": "红包是除夕给还是初一给",
+      "onboard_time": 1707458133,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 172745,
@@ -793,6 +945,14 @@
       "onboard_time": 1707450688,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155597,
+      "num": 155597,
+      "word": "秦岚四登央视春晚",
+      "onboard_time": 1707459449,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 150149,
@@ -1115,6 +1275,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 119571,
+      "num": 119571,
+      "word": "黄渤春晚独唱",
+      "onboard_time": 1707459449,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119455,
       "num": 119455,
       "word": "00后开始整顿过年了",
@@ -1179,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112775,
+      "num": 112775,
+      "word": "BBA从加价到骨折",
+      "onboard_time": 1707456630,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112124,
       "num": 112124,
       "word": "谭爷爷给朱一龙的新年礼物是花花",
@@ -1217,14 +1393,6 @@
       "onboard_time": 1707450269,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108957,
-      "num": 108957,
-      "word": "文昌通报2888元内场看火箭发射",
-      "onboard_time": 1707456452,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108709,
@@ -1307,6 +1475,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100389,
+      "num": 100389,
+      "word": "当猫咪第一次回村过年",
+      "onboard_time": 1707457531,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99815,
+      "num": 99815,
+      "word": "星穹铁道大V新春礼",
+      "onboard_time": 1707459391,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99214,
       "num": 99214,
       "word": "林亦扬复出",
@@ -1321,14 +1505,6 @@
       "onboard_time": 1707455731,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97574,
-      "num": 97574,
-      "word": "BBA从加价到骨折",
-      "onboard_time": 1707456630,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 96361,
@@ -1361,6 +1537,14 @@
       "onboard_time": 1707446969,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93090,
+      "num": 93090,
+      "word": "狐妖小红娘月红篇欢乐新春花絮",
+      "onboard_time": 1707459633,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 93043,
@@ -1492,7 +1676,7 @@
     },
     {
       "raw_hot": 68695,
-      "num": 715925,
+      "num": 1391429,
       "word": "用中国人的专属浪漫打开龙年",
       "onboard_time": 1707452851,
       "rank": 2,
