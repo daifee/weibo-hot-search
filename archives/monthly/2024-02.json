@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707470256423,
+  "endTime": 1707471259812,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -617,6 +617,14 @@
       "onboard_time": 1707130652,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1753063,
+      "num": 351796,
+      "word": "说贾玲拿减肥当电影噱头的",
+      "onboard_time": 1707469051,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1737644,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1707311378,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1068625,
-      "num": 351796,
-      "word": "说贾玲拿减肥当电影噱头的",
-      "onboard_time": 1707469051,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1066148,
@@ -3395,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707343,
+      "num": 707343,
+      "word": "年夜饭文案",
+      "onboard_time": 1707468632,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 707050,
       "num": 466487,
       "word": "刘强东同款礼盒倒手能赚140元",
@@ -3825,14 +3833,6 @@
       "onboard_time": 1707022890,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652645,
-      "num": 652645,
-      "word": "年夜饭文案",
-      "onboard_time": 1707468632,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 650922,
@@ -4531,6 +4531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572082,
+      "num": 293880,
+      "word": "春晚是懂cpf的",
+      "onboard_time": 1707468872,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572050,
       "num": 572050,
       "word": "谷歌工程师杀妻案嫌犯家人已回国",
@@ -5088,14 +5096,6 @@
       "word": "辽视春晚",
       "onboard_time": 1707390453,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 523846,
-      "num": 293880,
-      "word": "春晚是懂cpf的",
-      "onboard_time": 1707468872,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -6987,6 +6987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388600,
+      "num": 169614,
+      "word": "贾玲首秀亮相六公主直播",
+      "onboard_time": 1707470252,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388375,
       "num": 388375,
       "word": "小S二女儿Lily晒旅游照",
@@ -8323,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321232,
+      "num": 321232,
+      "word": "年夜饭",
+      "onboard_time": 1707386673,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 321174,
       "num": 287779,
       "word": "王嘉尔在巴黎穿了唐装",
@@ -8793,14 +8809,6 @@
       "onboard_time": 1706758412,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303384,
-      "num": 303384,
-      "word": "年夜饭",
-      "onboard_time": 1707386673,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 303160,
@@ -10881,6 +10889,14 @@
       "onboard_time": 1706699490,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244619,
+      "num": 223408,
+      "word": "刘涛春晚营业照是AI做的",
+      "onboard_time": 1707469711,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 244548,
@@ -15467,6 +15483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185277,
+      "num": 185277,
+      "word": "主办方称要求梅西向球迷解释但未成功",
+      "onboard_time": 1707470792,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184957,
       "num": 184957,
       "word": "原来不是没有年味了",
@@ -16161,6 +16185,14 @@
       "onboard_time": 1707106054,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176864,
+      "num": 169398,
+      "word": "春晚节目单喜人含量好高",
+      "onboard_time": 1707470792,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 176856,
@@ -16899,6 +16931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169094,
+      "num": 169094,
+      "word": "郑欣宜拜祭亡母肥姐",
+      "onboard_time": 1707470369,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169085,
       "num": 169085,
       "word": "一人之下剧场版定档",
@@ -17625,14 +17665,6 @@
       "onboard_time": 1707318517,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161058,
-      "num": 161058,
-      "word": "刘涛春晚营业照是AI做的",
-      "onboard_time": 1707469711,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 161015,
@@ -19579,6 +19611,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141440,
+      "num": 141440,
+      "word": "一年一度喜剧大赛",
+      "onboard_time": 1707468211,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141417,
+      "num": 141417,
+      "word": "安检一次的辐射到底有多大",
+      "onboard_time": 1707470671,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141248,
       "num": 141248,
       "word": "大侦探新桌游新春接福",
@@ -20065,14 +20113,6 @@
       "onboard_time": 1706756249,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137289,
-      "num": 137289,
-      "word": "一年一度喜剧大赛",
-      "onboard_time": 1707468211,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 137219,
@@ -20939,6 +20979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130513,
+      "num": 130513,
+      "word": "中国过年给压岁钱的由来",
+      "onboard_time": 1707471035,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130463,
       "num": 130463,
       "word": "张帆",
@@ -21443,6 +21491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125698,
+      "num": 149237,
+      "word": "钱天一发国乒合照",
+      "onboard_time": 1707469950,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125599,
       "num": 125599,
       "word": "应援色是红色的有福了",
@@ -21851,6 +21907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121316,
+      "num": 121316,
+      "word": "拜年短信",
+      "onboard_time": 1707471212,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121274,
       "num": 121274,
       "word": "乔杉演贾玲前男友",
@@ -21929,14 +21993,6 @@
       "onboard_time": 1707359428,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120418,
-      "num": 144364,
-      "word": "钱天一发国乒合照",
-      "onboard_time": 1707469950,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 120334,
@@ -24611,6 +24667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54753,
+      "num": 883712,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54638,
       "num": 1095544,
       "word": "解锁龙年各地年味儿",
@@ -24715,14 +24779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50167,
-      "num": 883712,
-      "word": "锦绣中国年",
-      "onboard_time": 1707468450,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49732,
       "num": 867839,
       "word": "致敬低温雨雪冰冻天气的守护者",
@@ -24817,6 +24873,14 @@
       "onboard_time": 1706872891,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47691,
+      "num": 148419,
+      "word": "春晚开运红",
+      "onboard_time": 1707470792,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 47519,

@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707470256423,
+  "endTime": 1707471259812,
   "band_list": [
     {
       "raw_hot": 7879409,
@@ -25,6 +25,14 @@
       "onboard_time": 1707461313,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1753063,
+      "num": 351796,
+      "word": "说贾玲拿减肥当电影噱头的",
+      "onboard_time": 1707469051,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1608181,
@@ -121,14 +129,6 @@
       "onboard_time": 1707435504,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1068625,
-      "num": 351796,
-      "word": "说贾玲拿减肥当电影噱头的",
-      "onboard_time": 1707469051,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1031693,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707343,
+      "num": 707343,
+      "word": "年夜饭文案",
+      "onboard_time": 1707468632,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 696904,
       "num": 696904,
       "word": "王者荣耀回应梅西皮肤",
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 652645,
-      "num": 652645,
-      "word": "年夜饭文案",
-      "onboard_time": 1707468632,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 647815,
       "num": 647815,
       "word": "开不了口 春晚",
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572082,
+      "num": 293880,
+      "word": "春晚是懂cpf的",
+      "onboard_time": 1707468872,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569831,
       "num": 569831,
       "word": "宋轶春晚大漏勺",
@@ -313,14 +321,6 @@
       "onboard_time": 1707458974,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 523846,
-      "num": 293880,
-      "word": "春晚是懂cpf的",
-      "onboard_time": 1707468872,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 511081,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388600,
+      "num": 169614,
+      "word": "贾玲首秀亮相六公主直播",
+      "onboard_time": 1707470252,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387339,
       "num": 387339,
       "word": "霍启刚评论区",
@@ -531,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321232,
+      "num": 321232,
+      "word": "年夜饭",
+      "onboard_time": 1707451290,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 318714,
       "num": 318714,
       "word": "0713出息了",
@@ -609,14 +625,6 @@
       "onboard_time": 1707453270,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303384,
-      "num": 303384,
-      "word": "年夜饭",
-      "onboard_time": 1707451290,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 299101,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244619,
+      "num": 223408,
+      "word": "刘涛春晚营业照是AI做的",
+      "onboard_time": 1707469711,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243302,
       "num": 243302,
       "word": "一年烫一次的头",
@@ -1067,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185277,
+      "num": 185277,
+      "word": "主办方称要求梅西向球迷解释但未成功",
+      "onboard_time": 1707470792,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180445,
       "num": 180445,
       "word": "周深今年春晚还是独唱",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1707448769,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176864,
+      "num": 169398,
+      "word": "春晚节目单喜人含量好高",
+      "onboard_time": 1707470792,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 175978,
@@ -1179,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169094,
+      "num": 169094,
+      "word": "郑欣宜拜祭亡母肥姐",
+      "onboard_time": 1707470369,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169022,
       "num": 169022,
       "word": "叶舒华因健康原因暂停所有活动",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1707442045,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161058,
-      "num": 161058,
-      "word": "刘涛春晚营业照是AI做的",
-      "onboard_time": 1707469711,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 157836,
@@ -1451,6 +1483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141440,
+      "num": 141440,
+      "word": "一年一度喜剧大赛",
+      "onboard_time": 1707468211,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141417,
+      "num": 141417,
+      "word": "安检一次的辐射到底有多大",
+      "onboard_time": 1707470671,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139363,
       "num": 139363,
       "word": "这是金在中不是洪锡天",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1707439530,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137289,
-      "num": 137289,
-      "word": "一年一度喜剧大赛",
-      "onboard_time": 1707468211,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 137167,
@@ -1595,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130513,
+      "num": 130513,
+      "word": "中国过年给压岁钱的由来",
+      "onboard_time": 1707471035,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129600,
       "num": 169706,
       "word": "中国银联被央行罚款1540万元",
@@ -1659,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125698,
+      "num": 149237,
+      "word": "钱天一发国乒合照",
+      "onboard_time": 1707469950,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123029,
       "num": 123029,
       "word": "林亦扬殷果吵架",
@@ -1691,20 +1747,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121316,
+      "num": 121316,
+      "word": "拜年短信",
+      "onboard_time": 1707471212,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120871,
       "num": 120871,
       "word": "王一博愿新年胜旧年",
       "onboard_time": 1707450510,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120418,
-      "num": 144364,
-      "word": "钱天一发国乒合照",
-      "onboard_time": 1707469950,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 120249,
@@ -2203,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54753,
+      "num": 883712,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51253,
       "num": 60256,
       "word": "新年头像",
@@ -2219,12 +2283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50167,
-      "num": 883712,
-      "word": "锦绣中国年",
-      "onboard_time": 1707468450,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 47691,
+      "num": 148419,
+      "word": "春晚开运红",
+      "onboard_time": 1707470792,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 44489,
