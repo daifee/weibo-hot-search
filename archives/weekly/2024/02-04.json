@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707474823202,
+  "endTime": 1707477326943,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1753063,
-      "num": 441368,
+      "num": 531072,
       "word": "说贾玲拿减肥当电影噱头的",
       "onboard_time": 1707469051,
       "rank": 11,
@@ -465,6 +465,14 @@
       "onboard_time": 1707309153,
       "rank": 5,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1649522,
+      "num": 1649522,
+      "word": "龙行龘龘",
+      "onboard_time": 1707475654,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1608181,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 1489068,
-      "num": 461073,
+      "num": 499805,
       "word": "合同允许梅西因伤不上场",
       "onboard_time": 1707463891,
       "rank": 17,
@@ -1195,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1020203,
+      "num": 536517,
+      "word": "小泽征尔去世",
+      "onboard_time": 1707475472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018459,
       "num": 1018459,
       "word": "刘丹说小糯米每天上学前要挑衣配鞋",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1707460175,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 819968,
+      "num": 819968,
+      "word": "开始放烟花了",
+      "onboard_time": 1707476309,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 814821,
@@ -2612,7 +2636,7 @@
     },
     {
       "raw_hot": 649139,
-      "num": 427005,
+      "num": 468105,
       "word": "HYBE艺人 韩国新年",
       "onboard_time": 1707473914,
       "rank": 12,
@@ -2865,6 +2889,14 @@
       "onboard_time": 1707182852,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 601942,
+      "num": 601942,
+      "word": "苏醒终于不用保留才艺了",
+      "onboard_time": 1707476070,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 601025,
@@ -3859,6 +3891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457101,
+      "num": 457101,
+      "word": "Kpop春晚",
+      "onboard_time": 1707474451,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453619,
       "num": 453619,
       "word": "南航 延误",
@@ -4059,6 +4099,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 435641,
+      "num": 435641,
+      "word": "iPhone拍烟花模式",
+      "onboard_time": 1707472832,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 435144,
       "num": 435144,
       "word": "赵昭仪要夸自己绝对不带删的",
@@ -4227,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416396,
+      "num": 416396,
+      "word": "何同学请大家看烟花",
+      "onboard_time": 1707475051,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 416392,
       "num": 416392,
       "word": "关晓彤鎏金礼服",
@@ -4257,14 +4313,6 @@
       "onboard_time": 1707436765,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414303,
-      "num": 414303,
-      "word": "iPhone拍烟花模式",
-      "onboard_time": 1707472832,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 413879,
@@ -4680,6 +4728,14 @@
       "word": "谢娜王冰冰搭档主持",
       "onboard_time": 1707272791,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377760,
+      "num": 377760,
+      "word": "宋轶泡泡袖丸子头",
+      "onboard_time": 1707475291,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -5137,6 +5193,14 @@
       "onboard_time": 1707375991,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 333190,
+      "num": 333190,
+      "word": "汪苏泷自己写的歌上春晚了",
+      "onboard_time": 1707473254,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 332904,
@@ -5817,14 +5881,6 @@
       "onboard_time": 1707111213,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297555,
-      "num": 297555,
-      "word": "汪苏泷自己写的歌上春晚了",
-      "onboard_time": 1707473254,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 297216,
@@ -6715,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259493,
+      "num": 259493,
+      "word": "陈哲远的年夜饭",
+      "onboard_time": 1707476489,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259097,
       "num": 259097,
       "word": "杨幂春晚最后一次联排",
@@ -6921,14 +6985,6 @@
       "onboard_time": 1707372991,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 253235,
-      "num": 253235,
-      "word": "Kpop春晚",
-      "onboard_time": 1707474451,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 252965,
@@ -7241,6 +7297,14 @@
       "onboard_time": 1707442527,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243109,
+      "num": 243109,
+      "word": "魏大勋新中式春晚妆造",
+      "onboard_time": 1707476130,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 242693,
@@ -9683,6 +9747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 193500,
+      "num": 169127,
+      "word": "中国足协人士称与阿根廷足协合作不多",
+      "onboard_time": 1707475231,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193490,
       "num": 193490,
       "word": "朱一龙芭比粉外套",
@@ -10051,6 +10123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187968,
+      "num": 187968,
+      "word": "AG年夜饭",
+      "onboard_time": 1707476250,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187491,
       "num": 187491,
       "word": "证监会召开走访上市公司工作推进会",
@@ -10097,6 +10177,14 @@
       "onboard_time": 1707461972,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185685,
+      "num": 185685,
+      "word": "龙年",
+      "onboard_time": 1707439530,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 185569,
@@ -10843,6 +10931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172473,
+      "num": 172473,
+      "word": "女生别出心裁用雪夹包包子",
+      "onboard_time": 1707476850,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172450,
       "num": 172450,
       "word": "三问梅西为何不上场",
@@ -10891,6 +10987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171461,
+      "num": 171461,
+      "word": "春节禁忌",
+      "onboard_time": 1707477150,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171191,
       "num": 171191,
       "word": "星穹铁道2.0",
@@ -10937,6 +11041,14 @@
       "onboard_time": 1707371849,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170773,
+      "num": 170773,
+      "word": "花花上春晚啦",
+      "onboard_time": 1707475110,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 170575,
@@ -13225,14 +13337,6 @@
       "onboard_time": 1706960790,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137851,
-      "num": 137851,
-      "word": "龙年",
-      "onboard_time": 1707439530,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 137794,

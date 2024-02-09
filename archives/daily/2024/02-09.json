@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707474823202,
+  "endTime": 1707477326943,
   "band_list": [
     {
       "raw_hot": 7879409,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1753063,
-      "num": 441368,
+      "num": 531072,
       "word": "说贾玲拿减肥当电影噱头的",
       "onboard_time": 1707469051,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1649522,
+      "num": 1649522,
+      "word": "龙行龘龘",
+      "onboard_time": 1707475654,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1608181,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1489068,
-      "num": 461073,
+      "num": 499805,
       "word": "合同允许梅西因伤不上场",
       "onboard_time": 1707463891,
       "rank": 17,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1020203,
+      "num": 536517,
+      "word": "小泽征尔去世",
+      "onboard_time": 1707475472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993978,
       "num": 993978,
       "word": "春晚节目单啥时候出来",
@@ -225,6 +241,14 @@
       "onboard_time": 1707460175,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 819968,
+      "num": 819968,
+      "word": "开始放烟花了",
+      "onboard_time": 1707476309,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 800580,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 649139,
-      "num": 427005,
+      "num": 468105,
       "word": "HYBE艺人 韩国新年",
       "onboard_time": 1707473914,
       "rank": 12,
@@ -312,6 +336,14 @@
       "word": "开不了口 春晚",
       "onboard_time": 1707458615,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 601942,
+      "num": 601942,
+      "word": "苏醒终于不用保留才艺了",
+      "onboard_time": 1707476070,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -419,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457101,
+      "num": 457101,
+      "word": "Kpop春晚",
+      "onboard_time": 1707474451,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435641,
+      "num": 435641,
+      "word": "iPhone拍烟花模式",
+      "onboard_time": 1707472832,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 435144,
       "num": 435144,
       "word": "赵昭仪要夸自己绝对不带删的",
@@ -435,6 +483,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 416396,
+      "num": 416396,
+      "word": "何同学请大家看烟花",
+      "onboard_time": 1707475051,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 416392,
       "num": 416392,
       "word": "关晓彤鎏金礼服",
@@ -449,14 +505,6 @@
       "onboard_time": 1707436765,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414303,
-      "num": 414303,
-      "word": "iPhone拍烟花模式",
-      "onboard_time": 1707472832,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 406227,
@@ -539,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377760,
+      "num": 377760,
+      "word": "宋轶泡泡袖丸子头",
+      "onboard_time": 1707475291,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377280,
       "num": 377280,
       "word": "科比雕像",
@@ -569,6 +625,14 @@
       "onboard_time": 1707443846,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333190,
+      "num": 333190,
+      "word": "汪苏泷自己写的歌上春晚了",
+      "onboard_time": 1707473254,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 332146,
@@ -703,14 +767,6 @@
       "num": 299101,
       "word": "汉服 春晚",
       "onboard_time": 1707440787,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 297555,
-      "num": 297555,
-      "word": "汪苏泷自己写的歌上春晚了",
-      "onboard_time": 1707473254,
       "rank": 34,
       "category": "综艺"
     },
@@ -883,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259493,
+      "num": 259493,
+      "word": "陈哲远的年夜饭",
+      "onboard_time": 1707476489,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257766,
       "num": 303677,
       "word": "主办方称要求梅西向球迷解释但未成功",
@@ -913,14 +977,6 @@
       "onboard_time": 1707446188,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253235,
-      "num": 253235,
-      "word": "Kpop春晚",
-      "onboard_time": 1707474451,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 252965,
@@ -977,6 +1033,14 @@
       "onboard_time": 1707442527,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243109,
+      "num": 243109,
+      "word": "魏大勋新中式春晚妆造",
+      "onboard_time": 1707476130,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 240845,
@@ -1163,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193500,
+      "num": 169127,
+      "word": "中国足协人士称与阿根廷足协合作不多",
+      "onboard_time": 1707475231,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192436,
       "num": 192436,
       "word": "张杰龙年除夕点歌龙吟",
@@ -1203,12 +1275,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187968,
+      "num": 187968,
+      "word": "AG年夜饭",
+      "onboard_time": 1707476250,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186540,
       "num": 186540,
       "word": "万茜春晚搭档张艺兴",
       "onboard_time": 1707461972,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185685,
+      "num": 185685,
+      "word": "龙年",
+      "onboard_time": 1707439530,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 181639,
@@ -1323,6 +1411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172473,
+      "num": 172473,
+      "word": "女生别出心裁用雪夹包包子",
+      "onboard_time": 1707476850,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171461,
+      "num": 171461,
+      "word": "春节禁忌",
+      "onboard_time": 1707477150,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171347,
       "num": 171347,
       "word": "鹿晗晒合照给邓超庆生",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1707450568,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170773,
+      "num": 170773,
+      "word": "花花上春晚啦",
+      "onboard_time": 1707475110,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 169157,
@@ -1689,14 +1801,6 @@
       "onboard_time": 1707467312,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137851,
-      "num": 137851,
-      "word": "龙年",
-      "onboard_time": 1707439530,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 137167,
