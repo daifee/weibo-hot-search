@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707514454601,
+  "endTime": 1707517063848,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -12499,6 +12499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166416,
+      "num": 141804,
+      "word": "春晚羽绒服破了",
+      "onboard_time": 1707506540,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166326,
       "num": 166326,
       "word": "彭昱畅李庚希新浪扫楼",
@@ -15099,14 +15107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130461,
-      "num": 60027,
-      "word": "春晚羽绒服破了",
-      "onboard_time": 1707506540,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130346,
       "num": 130346,
       "word": "假期就靠这些小说续命了",
@@ -17603,6 +17603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51341,
+      "num": 37619,
+      "word": "胡歌对着谭爷爷唱得好开心",
+      "onboard_time": 1707511636,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51253,
       "num": 60256,
       "word": "新年头像",
@@ -17731,14 +17739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45317,
-      "num": 37619,
-      "word": "胡歌对着谭爷爷唱得好开心",
-      "onboard_time": 1707511636,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 45217,
       "num": 302693,
       "word": "山水终相见重逢就是年",
@@ -17776,6 +17776,14 @@
       "word": "四美同台好养眼",
       "onboard_time": 1707408450,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43861,
+      "num": 36847,
+      "word": "Belle上春晚",
+      "onboard_time": 1707511576,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -17833,14 +17841,6 @@
       "onboard_time": 1707257597,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38726,
-      "num": 36847,
-      "word": "Belle上春晚",
-      "onboard_time": 1707511576,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 37603,

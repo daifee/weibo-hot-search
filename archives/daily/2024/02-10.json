@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707514454601,
+  "endTime": 1707517063848,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -539,6 +539,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 166416,
+      "num": 141804,
+      "word": "春晚羽绒服破了",
+      "onboard_time": 1707506540,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165256,
       "num": 1477706,
       "word": "放炮",
@@ -569,14 +577,6 @@
       "onboard_time": 1707490992,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130461,
-      "num": 60027,
-      "word": "春晚羽绒服破了",
-      "onboard_time": 1707506540,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 119524,
@@ -651,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51341,
+      "num": 37619,
+      "word": "胡歌对着谭爷爷唱得好开心",
+      "onboard_time": 1707511636,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48650,
       "num": 539853,
       "word": "除夕",
@@ -667,15 +675,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45317,
-      "num": 37619,
-      "word": "胡歌对着谭爷爷唱得好开心",
-      "onboard_time": 1707511636,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 38726,
+      "raw_hot": 43861,
       "num": 36847,
       "word": "Belle上春晚",
       "onboard_time": 1707511576,
