@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707471259812,
+  "endTime": 1707473874567,
   "band_list": [
     {
       "raw_hot": 7879409,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1753063,
-      "num": 351796,
+      "num": 441368,
       "word": "说贾玲拿减肥当电影噱头的",
       "onboard_time": 1707469051,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1151771,
+      "num": 1151771,
+      "word": "贾玲首秀亮相六公主直播",
+      "onboard_time": 1707470252,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1145038,
       "num": 1145038,
       "word": "3种假牛奶已被列入黑名单",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931679,
+      "num": 931679,
+      "word": "花花是春晚最小的观众",
+      "onboard_time": 1707471392,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 901558,
       "num": 901558,
       "word": "四美",
@@ -185,6 +201,14 @@
       "onboard_time": 1707458374,
       "rank": 4,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 824855,
+      "num": 824855,
+      "word": "年夜饭文案",
+      "onboard_time": 1707468632,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 824790,
@@ -243,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 707343,
-      "num": 707343,
-      "word": "年夜饭文案",
-      "onboard_time": 1707468632,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 696904,
       "num": 696904,
       "word": "王者荣耀回应梅西皮肤",
@@ -299,8 +315,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592232,
+      "num": 592232,
+      "word": "楼晚",
+      "onboard_time": 1707471330,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 572082,
-      "num": 293880,
+      "num": 348685,
       "word": "春晚是懂cpf的",
       "onboard_time": 1707468872,
       "rank": 20,
@@ -443,20 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389536,
+      "num": 389536,
+      "word": "年夜饭",
+      "onboard_time": 1707451290,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389017,
       "num": 389017,
       "word": "长相思吧官博发长文",
       "onboard_time": 1707398914,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388600,
-      "num": 169614,
-      "word": "贾玲首秀亮相六公主直播",
-      "onboard_time": 1707470252,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 387339,
@@ -481,6 +505,14 @@
       "onboard_time": 1707459212,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380373,
+      "num": 380373,
+      "word": "新年祝福",
+      "onboard_time": 1707473432,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 377280,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330971,
+      "num": 330971,
+      "word": "iPhone拍烟花模式",
+      "onboard_time": 1707472832,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 329148,
       "num": 250858,
       "word": "春晚认证山花cp",
@@ -537,14 +577,6 @@
       "onboard_time": 1707435504,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 321232,
-      "num": 321232,
-      "word": "年夜饭",
-      "onboard_time": 1707451290,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 318714,
@@ -771,6 +803,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269773,
+      "num": 198846,
+      "word": "乌合麒麟龙年贺图",
+      "onboard_time": 1707473254,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 268991,
+      "num": 268991,
+      "word": "金龟子女儿住院保胎",
+      "onboard_time": 1707471392,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266652,
       "num": 266652,
       "word": "辛芷蕾好闪",
@@ -793,6 +841,14 @@
       "onboard_time": 1707451110,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257766,
+      "num": 257766,
+      "word": "主办方称要求梅西向球迷解释但未成功",
+      "onboard_time": 1707470792,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 257364,
@@ -947,12 +1003,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215446,
+      "num": 215446,
+      "word": "林孝埈送上一大波新年祝福",
+      "onboard_time": 1707472050,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211343,
       "num": 211343,
       "word": "再就业男团春晚原创唱友情",
       "onboard_time": 1707405214,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208471,
+      "num": 198731,
+      "word": "陈奕迅精神状态 过几天走亲戚用",
+      "onboard_time": 1707473368,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208283,
@@ -979,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202799,
+      "num": 198139,
+      "word": "过年才回家的神秘小姨",
+      "onboard_time": 1707472111,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201584,
       "num": 201584,
       "word": "热辣滚烫",
@@ -993,6 +1073,14 @@
       "onboard_time": 1707459152,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199942,
+      "num": 199942,
+      "word": "黄仁俊断食减肥",
+      "onboard_time": 1707472411,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 199864,
@@ -1025,6 +1113,22 @@
       "onboard_time": 1707459633,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195657,
+      "num": 195657,
+      "word": "赵昭仪要夸自己绝对不带删的",
+      "onboard_time": 1707473673,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194834,
+      "num": 194834,
+      "word": "汪苏泷自己写的歌上春晚了",
+      "onboard_time": 1707473254,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 194242,
@@ -1081,14 +1185,6 @@
       "onboard_time": 1707461972,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185277,
-      "num": 185277,
-      "word": "主办方称要求梅西向球迷解释但未成功",
-      "onboard_time": 1707470792,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 180445,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1707463534,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175530,
+      "num": 175530,
+      "word": "安检一次的辐射到底有多大",
+      "onboard_time": 1707470671,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174510,
@@ -1243,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165668,
+      "num": 165668,
+      "word": "川S牌车坚强车主发声",
+      "onboard_time": 1707471692,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165288,
       "num": 216161,
       "word": "父母一边告诉你过年骂人不吉利",
@@ -1265,6 +1377,14 @@
       "onboard_time": 1707442045,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158093,
+      "num": 158093,
+      "word": "张艺兴英文拜年",
+      "onboard_time": 1707473132,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 157836,
@@ -1313,6 +1433,14 @@
       "onboard_time": 1707460291,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150351,
+      "num": 150351,
+      "word": "吉克隽逸在春晚沈阳分会场被冻透透了",
+      "onboard_time": 1707472950,
+      "rank": 41,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 150149,
@@ -1489,14 +1617,6 @@
       "onboard_time": 1707468211,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141417,
-      "num": 141417,
-      "word": "安检一次的辐射到底有多大",
-      "onboard_time": 1707470671,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 139363,
@@ -1737,6 +1857,14 @@
       "onboard_time": 1707448049,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122106,
+      "num": 122106,
+      "word": "压岁钱",
+      "onboard_time": 1707473851,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 121539,
@@ -2235,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59973,
+      "num": 1041830,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58885,
       "num": 58885,
       "word": "爷爷招待来客的方式有点废人",
@@ -2257,14 +2393,6 @@
       "onboard_time": 1707408511,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54753,
-      "num": 883712,
-      "word": "锦绣中国年",
-      "onboard_time": 1707468450,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51253,
@@ -2297,6 +2425,14 @@
       "onboard_time": 1707408450,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40154,
+      "num": 383524,
+      "word": "元梦之星大年初一送红包",
+      "onboard_time": 1707472832,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 32040,
@@ -2385,6 +2521,14 @@
       "onboard_time": 1707423376,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6035,
+      "num": 142779,
+      "word": "新年伊起元梦吧",
+      "onboard_time": 1707473793,
+      "rank": 45,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
