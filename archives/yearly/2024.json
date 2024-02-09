@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707495657871,
+  "endTime": 1707496587415,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -827,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2910834,
+      "num": 2910834,
+      "word": "杨幂好甜",
+      "onboard_time": 1707495183,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2896872,
       "num": 2896872,
       "word": "明年起连续5年没有年三十",
@@ -1067,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2611634,
+      "num": 2611634,
+      "word": "同时得罪了东北人和南方人",
+      "onboard_time": 1707495118,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2611524,
       "num": 1576403,
       "word": "刘诗诗怼脸好美",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1704119801,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2486315,
+      "num": 2486315,
+      "word": "曾舜晞 我明明对上了",
+      "onboard_time": 1707494994,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 2483817,
@@ -1707,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2143839,
+      "num": 2143839,
+      "word": "新疆分会场像开了倍速",
+      "onboard_time": 1707492674,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2132192,
       "num": 2132192,
       "word": "专家建议尽快调整退休年龄",
@@ -2219,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1925378,
-      "num": 1925378,
-      "word": "新疆分会场像开了倍速",
-      "onboard_time": 1707492674,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1924428,
       "num": 1924428,
       "word": "昆明动物园决定采用诱捕方式将猫移出猴山",
@@ -2257,6 +2281,14 @@
       "onboard_time": 1706938889,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1920426,
+      "num": 1920426,
+      "word": "倒计时晚了",
+      "onboard_time": 1707495839,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1919345,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1704038452,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1878703,
-      "num": 797278,
-      "word": "天价麻辣烫",
-      "onboard_time": 1704110681,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 1872428,
-      "num": 1872428,
-      "word": "重庆12秒不雅视频案雷政富出狱",
-      "onboard_time": 1706246314,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1872018,
-      "num": 1872018,
-      "word": "王一博 所有人都是可爱的旁观者",
-      "onboard_time": 1704035829,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1871958,
-      "num": 874508,
-      "word": "宋茜王鹤棣亲上了吗",
-      "onboard_time": 1704030245,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
