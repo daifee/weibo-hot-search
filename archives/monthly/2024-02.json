@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707442175351,
+  "endTime": 1707444135829,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1604359,
+      "num": 1084510,
+      "word": "C罗大方回应球迷喊梅西",
+      "onboard_time": 1707440548,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1595648,
       "num": 1595648,
       "word": "爱奇艺",
@@ -744,14 +752,6 @@
       "word": "梅西代言白酒品牌方发文称很难过",
       "onboard_time": 1707315396,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1581852,
-      "num": 1084510,
-      "word": "C罗大方回应球迷喊梅西",
-      "onboard_time": 1707440548,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -835,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1520737,
+      "num": 1520737,
+      "word": "上班",
+      "onboard_time": 1707005308,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1518122,
       "num": 1518122,
       "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
@@ -881,6 +889,14 @@
       "onboard_time": 1707110971,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1478155,
+      "num": 1478155,
+      "word": "已在工位",
+      "onboard_time": 1707440247,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 1472370,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1707229354,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1157422,
-      "num": 1157422,
-      "word": "上班",
-      "onboard_time": 1707005308,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 1154564,
@@ -2137,6 +2145,14 @@
       "onboard_time": 1706795611,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901558,
+      "num": 901558,
+      "word": "四美",
+      "onboard_time": 1707441988,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 897328,
@@ -3169,14 +3185,6 @@
       "onboard_time": 1707357512,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 720331,
-      "num": 720331,
-      "word": "已在工位",
-      "onboard_time": 1707440247,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 720263,
@@ -9187,6 +9195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 277619,
+      "num": 277619,
+      "word": "除夕文案",
+      "onboard_time": 1707433941,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277323,
       "num": 277323,
       "word": "过年三倍工资你会选择加班吗",
@@ -9705,14 +9721,6 @@
       "onboard_time": 1707114748,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 261860,
-      "num": 261860,
-      "word": "除夕文案",
-      "onboard_time": 1707433941,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 261514,
@@ -12011,6 +12019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215264,
+      "num": 215264,
+      "word": "一年烫一次的头",
+      "onboard_time": 1707442527,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215172,
       "num": 215172,
       "word": "沪深300股息率逼近历史新高",
@@ -12425,6 +12441,14 @@
       "onboard_time": 1707039208,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208283,
+      "num": 208283,
+      "word": "今天是2030年前最后一个年三十",
+      "onboard_time": 1707440669,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 208239,
@@ -13475,6 +13499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198651,
+      "num": 198651,
+      "word": "龙年大吉",
+      "onboard_time": 1707443606,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198642,
       "num": 198642,
       "word": "张雨绮王鹤棣同框",
@@ -13745,14 +13777,6 @@
       "onboard_time": 1707180511,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195201,
-      "num": 195201,
-      "word": "今天是2030年前最后一个年三十",
-      "onboard_time": 1707440669,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 195091,
@@ -15635,6 +15659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174258,
+      "num": 174258,
+      "word": "骆明 梅西事件应搞清合同去索赔",
+      "onboard_time": 1707441749,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174245,
       "num": 174245,
       "word": "鬼妈妈重映",
@@ -15913,6 +15945,14 @@
       "onboard_time": 1707225093,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171153,
+      "num": 171153,
+      "word": "水龙吟",
+      "onboard_time": 1707443846,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 171136,
@@ -16897,14 +16937,6 @@
       "onboard_time": 1707026791,
       "rank": 35,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 160467,
-      "num": 160467,
-      "word": "骆明 梅西事件应搞清合同去索赔",
-      "onboard_time": 1707441749,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 160429,
@@ -18331,14 +18363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144848,
-      "num": 144848,
-      "word": "四美",
-      "onboard_time": 1707441988,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 144815,
       "num": 144815,
       "word": "钎城龙年迎新岁大片",
@@ -18987,6 +19011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138309,
+      "num": 138309,
+      "word": "黄俊捷听从网友建议",
+      "onboard_time": 1707442407,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138196,
       "num": 1249284,
       "word": "雪地推车摔倒的武汉交警找到了",
@@ -19587,6 +19619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132985,
+      "num": 132985,
+      "word": "库里三分",
+      "onboard_time": 1707441988,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132971,
       "num": 132971,
       "word": "31省份2023年GDP出炉",
@@ -19705,14 +19745,6 @@
       "onboard_time": 1707141873,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132294,
-      "num": 132294,
-      "word": "库里三分",
-      "onboard_time": 1707441988,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 132182,
@@ -22355,6 +22387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95920,
+      "num": 95920,
+      "word": "想丢书包的小朋友vs热心乘务员",
+      "onboard_time": 1707443969,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95808,
       "num": 95808,
       "word": "韩国亚洲杯出局",
@@ -22553,6 +22593,14 @@
       "onboard_time": 1707278670,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88038,
+      "num": 88038,
+      "word": "新年壁纸",
+      "onboard_time": 1707441266,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 87977,
@@ -22763,6 +22811,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 78847,
+      "num": 78847,
+      "word": "龙年祝福语",
+      "onboard_time": 1707442288,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78717,
       "num": 78717,
       "word": "日本裁判替代马宁担任第四官员",
@@ -22801,6 +22857,14 @@
       "onboard_time": 1707434121,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77890,
+      "num": 77890,
+      "word": "勇士vs步行者",
+      "onboard_time": 1707443427,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 77467,
