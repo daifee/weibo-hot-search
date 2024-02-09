@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707460429270,
+  "endTime": 1707462901841,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -369,6 +369,14 @@
       "onboard_time": 1706855073,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2035422,
+      "num": 349742,
+      "word": "梅西香港行主办方退款50%",
+      "onboard_time": 1707461313,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2028313,
@@ -1372,7 +1380,7 @@
     },
     {
       "raw_hot": 1171630,
-      "num": 260397,
+      "num": 338090,
       "word": "梅西代言品牌集体沉默",
       "onboard_time": 1707454649,
       "rank": 10,
@@ -2681,6 +2689,14 @@
       "onboard_time": 1707386610,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 808221,
+      "num": 808221,
+      "word": "迪丽热巴 新疆的石榴花",
+      "onboard_time": 1707460175,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 807383,
@@ -4553,6 +4569,14 @@
       "onboard_time": 1707295473,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 560910,
+      "num": 560910,
+      "word": "春晚4个小品",
+      "onboard_time": 1707459877,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 560841,
@@ -6972,7 +6996,7 @@
     },
     {
       "raw_hot": 382139,
-      "num": 216223,
+      "num": 240956,
       "word": "迪丽热巴于朦胧春晚合唱",
       "onboard_time": 1707459212,
       "rank": 20,
@@ -7337,6 +7361,14 @@
       "onboard_time": 1707347901,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 364445,
+      "num": 364445,
+      "word": "张雪峰建议大学举行入学考",
+      "onboard_time": 1707458974,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 364344,
@@ -8187,6 +8219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321527,
+      "num": 321527,
+      "word": "魏晨魏大勋白敬亭 上春山",
+      "onboard_time": 1707461793,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321174,
       "num": 287779,
       "word": "王嘉尔在巴黎穿了唐装",
@@ -8883,14 +8923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294802,
-      "num": 213166,
-      "word": "张雪峰建议大学举行入学考",
-      "onboard_time": 1707458974,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 294634,
       "num": 294634,
       "word": "车厘子只看几个J谁买谁是大冤种",
@@ -9220,7 +9252,7 @@
     },
     {
       "raw_hot": 283034,
-      "num": 259385,
+      "num": 351333,
       "word": "巨蟹座是非常看重眼缘的",
       "onboard_time": 1707455551,
       "rank": 31,
@@ -10155,6 +10187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 257583,
+      "num": 257583,
+      "word": "Enhypen说韩国新年",
+      "onboard_time": 1707462572,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257364,
       "num": 257364,
       "word": "前苹果华人工程师因窃取汽车机密入狱",
@@ -10331,11 +10371,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254012,
-      "num": 212949,
-      "word": "迪丽热巴 新疆的石榴花",
-      "onboard_time": 1707460175,
-      "rank": 21,
+      "raw_hot": 253852,
+      "num": 253852,
+      "word": "杨幂春晚有2个节目",
+      "onboard_time": 1707459990,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -10881,6 +10921,14 @@
       "onboard_time": 1707292651,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 239752,
+      "num": 239752,
+      "word": "早知道那么好笑就留到春晚看了",
+      "onboard_time": 1707460472,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 239732,
@@ -12491,14 +12539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212806,
-      "num": 212806,
-      "word": "春晚4个小品",
-      "onboard_time": 1707459877,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212708,
       "num": 212708,
       "word": "马立奥 冬日宅家很适合学习英语",
@@ -12953,6 +12993,14 @@
       "onboard_time": 1706929229,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206823,
+      "num": 206823,
+      "word": "张远 终于上春晚啦",
+      "onboard_time": 1707462629,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 206783,
@@ -14171,14 +14219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195211,
-      "num": 195211,
-      "word": "杨幂春晚有2个节目",
-      "onboard_time": 1707459990,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195091,
       "num": 195091,
       "word": "梅西C罗表情",
@@ -14569,6 +14609,14 @@
       "onboard_time": 1707124891,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 192368,
+      "num": 182482,
+      "word": "华宵一素颜",
+      "onboard_time": 1707462091,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192331,
@@ -15137,6 +15185,14 @@
       "onboard_time": 1706759790,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186540,
+      "num": 186540,
+      "word": "万茜春晚搭档张艺兴",
+      "onboard_time": 1707461972,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 186514,
@@ -17859,6 +17915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155201,
+      "num": 155201,
+      "word": "费翔 海外华人的年味儿",
+      "onboard_time": 1707460291,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155196,
       "num": 155196,
       "word": "星宇定制孙膑签名",
@@ -18763,6 +18827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146239,
+      "num": 146239,
+      "word": "马立奥2023年总结",
+      "onboard_time": 1707461071,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "突然对水果冷知识起敬意了",
@@ -19539,6 +19611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139013,
+      "num": 139013,
+      "word": "难忘今宵",
+      "onboard_time": 1707461254,
+      "rank": 42,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 138942,
       "num": 138942,
       "word": "射手座认真才会犹豫",
@@ -19817,6 +19897,14 @@
       "onboard_time": 1706855309,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136211,
+      "num": 136211,
+      "word": "过年害怕被催婚的人有福了",
+      "onboard_time": 1707460835,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 136183,
@@ -20121,6 +20209,14 @@
       "onboard_time": 1707384030,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133704,
+      "num": 133704,
+      "word": "酷滕哼唧上春晚了",
+      "onboard_time": 1707460952,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 133671,
@@ -21899,14 +21995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116698,
-      "num": 116698,
-      "word": "费翔 海外华人的年味儿",
-      "onboard_time": 1707460291,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "娃哈哈再发6亿年终奖",
@@ -22097,6 +22185,14 @@
       "onboard_time": 1707380011,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113744,
+      "num": 113744,
+      "word": "老人吃20颗山楂胃里长3公分结石",
+      "onboard_time": 1707462449,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113736,
@@ -22441,6 +22537,14 @@
       "onboard_time": 1707380193,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109986,
+      "num": 169568,
+      "word": "扩大部分国家人员免签入境海南事由",
+      "onboard_time": 1707462512,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109976,
@@ -24105,6 +24209,14 @@
       "onboard_time": 1707128188,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55977,
+      "num": 327461,
+      "word": "今年春晚京东发红包",
+      "onboard_time": 1707462032,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 55965,

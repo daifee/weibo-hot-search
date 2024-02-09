@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/09 14:33:49
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/09 15:15:01
 </p>
 </blockquote>
 <p>
@@ -1227,6 +1227,12 @@ C罗向中国球迷道歉（热度：2416354）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E9%A6%99%E6%B8%AF%E8%A1%8C%E4%B8%BB%E5%8A%9E%E6%96%B9%E9%80%80%E6%AC%BE50%25%23" target="weibo">
+梅西香港行主办方退款50%（热度：2035422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%AA%23" target="weibo">
 武汉暴雪（热度：2028313）
 </a>
@@ -1805,12 +1811,6 @@ iPhone15价格跌至史上最低（热度：1922878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E4%B8%8A%E6%9C%80%E8%84%8F%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%8F%AF%E8%83%BD%E8%A2%AB%E4%BD%A0%E5%90%83%E4%BA%86%23" target="weibo">
 鸡蛋上最脏的东西可能被你吃了（热度：1794344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23" target="weibo">
-日本一地火山喷发（热度：1792783）
 </a>
 </li>
 

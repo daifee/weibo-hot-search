@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707460429270,
+  "endTime": 1707462901841,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -1619,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2035422,
+      "num": 349742,
+      "word": "梅西香港行主办方退款50%",
+      "onboard_time": 1707461313,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2028313,
       "num": 2028313,
       "word": "武汉暴雪",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706154332,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1792783,
-      "num": 1792783,
-      "word": "日本一地火山喷发",
-      "onboard_time": 1704100537,
-      "rank": 15,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
