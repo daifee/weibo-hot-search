@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707449646589,
+  "endTime": 1707452393221,
   "band_list": [
     {
       "raw_hot": 3599833,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098191,
+      "num": 1098191,
+      "word": "辛芷蕾春晚节目漏的差不多了吧",
+      "onboard_time": 1707450390,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1089002,
       "num": 404529,
       "word": "女性每天无偿家务时间约为3到6小时",
@@ -65,6 +73,14 @@
       "onboard_time": 1707434720,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 993978,
+      "num": 993978,
+      "word": "春晚节目单啥时候出来",
+      "onboard_time": 1707438328,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 935851,
@@ -99,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 803155,
-      "num": 803155,
-      "word": "春晚节目单啥时候出来",
-      "onboard_time": 1707438328,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 749641,
       "num": 402954,
       "word": "梅西惹到港媒真是踢到铁板了",
@@ -137,6 +145,14 @@
       "onboard_time": 1707403176,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594514,
+      "num": 284442,
+      "word": "央媒记者评梅西事件",
+      "onboard_time": 1707448651,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 569831,
@@ -243,6 +259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366049,
+      "num": 207986,
+      "word": "00后男子入赘相恋八年女友",
+      "onboard_time": 1707449610,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360840,
+      "num": 360840,
+      "word": "水龙吟",
+      "onboard_time": 1707443846,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325046,
       "num": 325046,
       "word": "为什么年轻人不爱吃糖果了",
@@ -275,20 +307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307178,
-      "num": 307178,
-      "word": "水龙吟",
-      "onboard_time": 1707443846,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306074,
       "num": 306074,
       "word": "南柱赫校园暴力举报人与记者被起诉",
       "onboard_time": 1707399576,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303384,
+      "num": 303384,
+      "word": "年夜饭",
+      "onboard_time": 1707451290,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 299101,
@@ -363,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276360,
+      "num": 276360,
+      "word": "55岁收到83岁妈妈的压岁钱",
+      "onboard_time": 1707447867,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272195,
       "num": 240916,
       "word": "公公突然给了我1万块压岁钱",
@@ -377,14 +417,6 @@
       "onboard_time": 1707447570,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258840,
-      "num": 258840,
-      "word": "央媒记者评梅西事件",
-      "onboard_time": 1707448651,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 257364,
@@ -443,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225062,
+      "num": 225062,
+      "word": "肖战2024年拜年视频",
+      "onboard_time": 1707451110,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220774,
       "num": 220774,
       "word": "梅西日本上场粉丝哭诉无法接受",
       "onboard_time": 1707435562,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218610,
-      "num": 218610,
-      "word": "55岁收到83岁妈妈的压岁钱",
-      "onboard_time": 1707447867,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 217140,
@@ -483,6 +515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 199714,
+      "num": 199714,
+      "word": "鹿晗2023年终总结",
+      "onboard_time": 1707451170,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198651,
       "num": 198651,
       "word": "龙年大吉",
@@ -505,6 +545,14 @@
       "onboard_time": 1707406833,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179134,
+      "num": 179134,
+      "word": "热辣滚烫",
+      "onboard_time": 1707450089,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 177351,
@@ -552,6 +600,14 @@
       "word": "鹿晗晒合照给邓超庆生",
       "onboard_time": 1707393812,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171045,
+      "num": 171045,
+      "word": "迪丽热巴祝福春来更有好花枝",
+      "onboard_time": 1707450568,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -611,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155960,
+      "num": 155960,
+      "word": "过年要压岁钱的狠人行为",
+      "onboard_time": 1707450688,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150149,
       "num": 152616,
       "word": "球迷起哄喊梅西C罗示意大声点",
@@ -651,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148327,
+      "num": 148327,
+      "word": "王俊凯焕蓝梦想基金转为私募",
+      "onboard_time": 1707451829,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147863,
       "num": 212082,
       "word": "不要在一种情绪里沉溺太久",
@@ -684,7 +756,7 @@
     },
     {
       "raw_hot": 146595,
-      "num": 146595,
+      "num": 158348,
       "word": "乌克兰武装部队总司令换人",
       "onboard_time": 1707444626,
       "rank": 36,
@@ -715,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139363,
+      "num": 139363,
+      "word": "这是金在中不是洪锡天",
+      "onboard_time": 1707449069,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138309,
       "num": 138309,
       "word": "黄俊捷听从网友建议",
@@ -736,14 +816,6 @@
       "word": "宋小宝小品",
       "onboard_time": 1707436645,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 135890,
-      "num": 135890,
-      "word": "这是金在中不是洪锡天",
-      "onboard_time": 1707449069,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -833,6 +905,14 @@
       "onboard_time": 1707404014,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120871,
+      "num": 120871,
+      "word": "王一博愿新年胜旧年",
+      "onboard_time": 1707450510,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 120249,
@@ -931,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109802,
+      "num": 109802,
+      "word": "飞驰人生2",
+      "onboard_time": 1707452130,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109801,
       "num": 119450,
       "word": "科比被劝休息说攒钱看我比赛的人怎么办",
@@ -945,6 +1033,22 @@
       "onboard_time": 1707446188,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109438,
+      "num": 109438,
+      "word": "陈伟霆的糖画是从王府井买的",
+      "onboard_time": 1707450269,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108709,
+      "num": 108709,
+      "word": "草木皆冰",
+      "onboard_time": 1707452189,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 108653,
@@ -995,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100604,
+      "num": 100604,
+      "word": "龙年朋友圈专属9宫格",
+      "onboard_time": 1707449968,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96361,
       "num": 96361,
       "word": "黄子佼性骚扰受害者发声",
@@ -1033,14 +1145,6 @@
       "onboard_time": 1707448769,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92294,
-      "num": 92294,
-      "word": "00后男子入赘相恋八年女友",
-      "onboard_time": 1707449610,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90601,
@@ -1227,12 +1331,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 29917,
+      "num": 109836,
+      "word": "张雨绮发绮开得胜红包",
+      "onboard_time": 1707451768,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26136,
       "num": 26136,
       "word": "坐小孩那桌",
       "onboard_time": 1707419177,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25002,
+      "num": 156066,
+      "word": "我在元梦当财神",
+      "onboard_time": 1707451533,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 17368,
@@ -1265,6 +1385,14 @@
       "onboard_time": 1707423376,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10355,
+      "num": 746822,
+      "word": "新春祝福",
+      "onboard_time": 1707452370,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1276,6 +1404,9 @@
     },
     {
       "word": "#中俄两国元首互致新春问候#"
+    },
+    {
+      "word": "#希望全国人民振奋龙马精神#"
     }
   ]
 }
