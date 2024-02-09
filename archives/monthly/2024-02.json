@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707444135829,
+  "endTime": 1707445299851,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -561,6 +561,14 @@
       "onboard_time": 1706870130,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1805307,
+      "num": 1805307,
+      "word": "曝郑爽47分钟录音",
+      "onboard_time": 1707444567,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1804535,
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 1089002,
-      "num": 382843,
+      "num": 386424,
       "word": "女性每天无偿家务时间约为3到6小时",
       "onboard_time": 1707435504,
       "rank": 10,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1707308555,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714001,
+      "num": 714001,
+      "word": "马思纯半年瘦了50斤",
+      "onboard_time": 1707444450,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 712255,
@@ -8803,6 +8819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291671,
+      "num": 291671,
+      "word": "恋与深空",
+      "onboard_time": 1706852972,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291574,
       "num": 291574,
       "word": "恋与深空电话",
@@ -9923,6 +9947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256449,
+      "num": 233220,
+      "word": "水龙吟",
+      "onboard_time": 1707443846,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256386,
       "num": 256386,
       "word": "上班后看小说真的代入不了",
@@ -10427,14 +10459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243620,
-      "num": 243620,
-      "word": "恋与深空",
-      "onboard_time": 1706852972,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243457,
       "num": 243457,
       "word": "无畏辅助",
@@ -10489,6 +10513,14 @@
       "onboard_time": 1707104191,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241698,
+      "num": 241698,
+      "word": "张小斐吊带红裙",
+      "onboard_time": 1707444808,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 241594,
@@ -10929,6 +10961,14 @@
       "onboard_time": 1707325045,
       "rank": 29,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 233193,
+      "num": 233193,
+      "word": "一年烫一次的头",
+      "onboard_time": 1707442527,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 232853,
@@ -12017,14 +12057,6 @@
       "onboard_time": 1707232113,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215264,
-      "num": 215264,
-      "word": "一年烫一次的头",
-      "onboard_time": 1707442527,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 215172,
@@ -15947,14 +15979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171153,
-      "num": 171153,
-      "word": "水龙吟",
-      "onboard_time": 1707443846,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171136,
       "num": 171136,
       "word": "创业板指放量大涨6.7%",
@@ -16169,6 +16193,14 @@
       "onboard_time": 1707206670,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169157,
+      "num": 169157,
+      "word": "恋与制作人电话",
+      "onboard_time": 1707444567,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 169085,
@@ -17793,6 +17825,14 @@
       "onboard_time": 1706760216,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150149,
+      "num": 122748,
+      "word": "球迷起哄喊梅西C罗示意大声点",
+      "onboard_time": 1707444209,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 150049,
@@ -21099,6 +21139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118611,
+      "num": 118611,
+      "word": "想丢书包的小朋友vs热心乘务员",
+      "onboard_time": 1707443969,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "瑶真我赫兹第二张海报",
@@ -22011,6 +22059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106023,
+      "num": 106023,
+      "word": "乌克兰武装部队总司令换人",
+      "onboard_time": 1707444626,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 105969,
       "num": 105969,
       "word": "快递小哥铲雪挖百米通道送货",
@@ -22024,6 +22080,14 @@
       "word": "只有在自己家才能做自己",
       "onboard_time": 1707037889,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 105836,
+      "word": "过年的时候最想拥有的超能力",
+      "onboard_time": 1707444929,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -22387,14 +22451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95920,
-      "num": 95920,
-      "word": "想丢书包的小朋友vs热心乘务员",
-      "onboard_time": 1707443969,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95808,
       "num": 95808,
       "word": "韩国亚洲杯出局",
@@ -22651,6 +22707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85887,
+      "num": 85887,
+      "word": "送走小兔子迎来小金龙",
+      "onboard_time": 1707445230,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85805,
       "num": 85805,
       "word": "南拳妈妈时隔十五年再登春晚",
@@ -22787,6 +22851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79739,
+      "num": 79739,
+      "word": "龙年祝福语",
+      "onboard_time": 1707442288,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79325,
       "num": 66774,
       "word": "张小燕透露黄子佼近况",
@@ -22809,14 +22881,6 @@
       "onboard_time": 1707229655,
       "rank": 25,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 78847,
-      "num": 78847,
-      "word": "龙年祝福语",
-      "onboard_time": 1707442288,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 78717,

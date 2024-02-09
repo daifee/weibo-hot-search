@@ -1,7 +1,15 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707444135829,
+  "endTime": 1707445299851,
   "band_list": [
+    {
+      "raw_hot": 1805307,
+      "num": 1805307,
+      "word": "曝郑爽47分钟录音",
+      "onboard_time": 1707444567,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1604359,
       "num": 1084510,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1089002,
-      "num": 382843,
+      "num": 386424,
       "word": "女性每天无偿家务时间约为3到6小时",
       "onboard_time": 1707435504,
       "rank": 10,
@@ -89,6 +97,14 @@
       "onboard_time": 1707404977,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714001,
+      "num": 714001,
+      "word": "马思纯半年瘦了50斤",
+      "onboard_time": 1707444450,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 696904,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291671,
+      "num": 291671,
+      "word": "恋与深空",
+      "onboard_time": 1707443667,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284401,
       "num": 284401,
       "word": "梅西发博回应",
@@ -307,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256449,
+      "num": 233220,
+      "word": "水龙吟",
+      "onboard_time": 1707443846,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251612,
       "num": 221304,
       "word": "霍启刚发博拜年",
@@ -321,6 +353,22 @@
       "onboard_time": 1707404558,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241698,
+      "num": 241698,
+      "word": "张小斐吊带红裙",
+      "onboard_time": 1707444808,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233193,
+      "num": 233193,
+      "word": "一年烫一次的头",
+      "onboard_time": 1707442527,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 226605,
@@ -347,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215264,
-      "num": 215264,
-      "word": "一年烫一次的头",
-      "onboard_time": 1707442527,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211343,
       "num": 211343,
       "word": "再就业男团春晚原创唱友情",
@@ -369,14 +409,6 @@
       "onboard_time": 1707440669,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 203338,
-      "num": 203338,
-      "word": "恋与深空",
-      "onboard_time": 1707443667,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 198651,
@@ -427,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171153,
-      "num": 171153,
-      "word": "水龙吟",
-      "onboard_time": 1707443846,
+      "raw_hot": 169157,
+      "num": 169157,
+      "word": "恋与制作人电话",
+      "onboard_time": 1707444567,
       "rank": 25,
-      "category": "剧集"
+      "category": "游戏"
     },
     {
       "raw_hot": 169022,
@@ -473,6 +505,14 @@
       "onboard_time": 1707439530,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150149,
+      "num": 122748,
+      "word": "球迷起哄喊梅西C罗示意大声点",
+      "onboard_time": 1707444209,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 149788,
@@ -683,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118611,
+      "num": 118611,
+      "word": "想丢书包的小朋友vs热心乘务员",
+      "onboard_time": 1707443969,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118196,
       "num": 169115,
       "word": "霍启刚称梅西事件牵涉重大公众利益",
@@ -739,6 +787,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106023,
+      "num": 106023,
+      "word": "乌克兰武装部队总司令换人",
+      "onboard_time": 1707444626,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 105836,
+      "word": "过年的时候最想拥有的超能力",
+      "onboard_time": 1707444929,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "偷偷藏不住版龙年纪念币",
@@ -771,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95920,
-      "num": 95920,
-      "word": "想丢书包的小朋友vs热心乘务员",
-      "onboard_time": 1707443969,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93927,
       "num": 93927,
       "word": "女子回家过年带8套穿搭每天不重样",
@@ -792,6 +848,14 @@
       "word": "新年壁纸",
       "onboard_time": 1707441266,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 85887,
+      "num": 85887,
+      "word": "送走小兔子迎来小金龙",
+      "onboard_time": 1707445230,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -819,8 +883,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78847,
-      "num": 78847,
+      "raw_hot": 79739,
+      "num": 79739,
       "word": "龙年祝福语",
       "onboard_time": 1707442288,
       "rank": 47,
@@ -932,7 +996,7 @@
     },
     {
       "raw_hot": 31001,
-      "num": 986485,
+      "num": 1204212,
       "word": "在非遗中邂逅龙年氛围感",
       "onboard_time": 1707399034,
       "rank": 2,

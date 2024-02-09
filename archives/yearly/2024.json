@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707444135829,
+  "endTime": 1707445299851,
   "band_list": [
     {
       "raw_hot": 12688562,
@@ -2339,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1805307,
+      "num": 1805307,
+      "word": "曝郑爽47分钟录音",
+      "onboard_time": 1707444567,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1804535,
       "num": 1804535,
       "word": "百里屠苏好久不见",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704343776,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1784876,
-      "num": 1001807,
-      "word": "徐娇 让人瘦到85是有多歹毒",
-      "onboard_time": 1706184993,
-      "rank": 5,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
