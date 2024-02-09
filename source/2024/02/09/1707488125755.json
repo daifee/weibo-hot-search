@@ -1,0 +1,410 @@
+{
+  "runTime": 1707488125755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16742993,
+        "num": 16742993,
+        "word": "尼格买提穿帮",
+        "onboard_time": 1707485192,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13373993,
+        "num": 13373993,
+        "word": "春晚",
+        "onboard_time": 1707478356,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8310343,
+        "num": 8310343,
+        "word": "西安分会场 赢麻了",
+        "onboard_time": 1707483679,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7909126,
+        "num": 7909126,
+        "word": "小尼你撒谎",
+        "onboard_time": 1707486868,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6226803,
+        "num": 6226803,
+        "word": "刘谦真的会魔法",
+        "onboard_time": 1707484863,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3931650,
+        "num": 3931650,
+        "word": "撒贝宁现挂",
+        "onboard_time": 1707487037,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1247137,
+        "num": 1247137,
+        "word": "龙行龘龘",
+        "onboard_time": 1707475654,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951491,
+        "num": 951491,
+        "word": "红包",
+        "onboard_time": 1707479622,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 714466,
+        "num": 951039,
+        "word": "新年祝福",
+        "onboard_time": 1707473432,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318874,
+        "num": 949861,
+        "word": "龙年",
+        "onboard_time": 1707474992,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4681579,
+        "num": 947531,
+        "word": "刘谦魔术 鸡皮疙瘩",
+        "onboard_time": 1707485318,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3521865,
+        "num": 945574,
+        "word": "0713圆梦了",
+        "onboard_time": 1707484459,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3319499,
+        "num": 945304,
+        "word": "梅西杭州行取消",
+        "onboard_time": 1707487217,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2597988,
+        "num": 942595,
+        "word": "章若楠毛衣",
+        "onboard_time": 1707482890,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 2138815,
+        "num": 941010,
+        "word": "春晚节目单",
+        "onboard_time": 1707456452,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2334630,
+        "num": 939256,
+        "word": "刘谦耍大牌",
+        "onboard_time": 1707485913,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2049027,
+        "num": 938442,
+        "word": "岳云鹏嘴瓢",
+        "onboard_time": 1707481486,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1630310,
+        "num": 936499,
+        "word": "唐诗逸镜头不够看",
+        "onboard_time": 1707485740,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289737,
+        "num": 935107,
+        "word": "40岁儿子跪着向妈妈讨要新年红包",
+        "onboard_time": 1707481249,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454348,
+        "num": 934083,
+        "word": "花花C位",
+        "onboard_time": 1707481191,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1260127,
+        "num": 932490,
+        "word": "邓超后继有人",
+        "onboard_time": 1707482772,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1209781,
+        "num": 930045,
+        "word": "单依纯 如听仙乐耳暂明",
+        "onboard_time": 1707488019,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1151026,
+        "num": 929523,
+        "word": "谢谢毛不易",
+        "onboard_time": 1707487943,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1150739,
+        "num": 927222,
+        "word": "刘谦鼻子",
+        "onboard_time": 1707485913,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633368,
+        "num": 925344,
+        "word": "春晚含华量",
+        "onboard_time": 1707483540,
+        "rank": 24,
+        "category": "数码,作品衍生"
+      },
+      {
+        "raw_hot": 1085903,
+        "num": 923847,
+        "word": "TFBOYS都这么大了",
+        "onboard_time": 1707482222,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 992283,
+        "num": 922219,
+        "word": "周深 唱跳歌手",
+        "onboard_time": 1707485969,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535994,
+        "num": 921852,
+        "word": "开始放烟花了",
+        "onboard_time": 1707476309,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1073625,
+        "num": 920000,
+        "word": "刘谦也老了",
+        "onboard_time": 1707485376,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197359,
+        "num": 917671,
+        "word": "丫丫过年也吃上了饺子",
+        "onboard_time": 1707485618,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412227,
+        "num": 916073,
+        "word": "看动画片的我们长大了",
+        "onboard_time": 1707486275,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155964,
+        "num": 915442,
+        "word": "龙年第一条微博",
+        "onboard_time": 1707487647,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962067,
+        "num": 914242,
+        "word": "开不了口小品 之前看过",
+        "onboard_time": 1707488019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 912954,
+        "num": 912954,
+        "word": "苏醒瘦了好多",
+        "onboard_time": 1707487283,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896623,
+        "num": 896623,
+        "word": "陈哲远的年夜饭",
+        "onboard_time": 1707476489,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832963,
+        "num": 832963,
+        "word": "保洁阿姨对不起",
+        "onboard_time": 1707486741,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811479,
+        "num": 811479,
+        "word": "谭爷爷抱花花上春晚",
+        "onboard_time": 1707482159,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153564,
+        "num": 758178,
+        "word": "除夕",
+        "onboard_time": 1707466892,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53154,
+        "num": 732510,
+        "word": "春晚好多年没有见证奇迹的时刻了",
+        "onboard_time": 1707487760,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66466,
+        "num": 731141,
+        "word": "春晚第一波幸运儿已诞生",
+        "onboard_time": 1707487217,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730487,
+        "num": 730487,
+        "word": "毛不易春晚首唱新歌如果要写年",
+        "onboard_time": 1707487037,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705164,
+        "num": 705164,
+        "word": "不愧是张艺谋",
+        "onboard_time": 1707482518,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683652,
+        "num": 683652,
+        "word": "胡歌杨幂唐嫣开场同台",
+        "onboard_time": 1707481191,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39857,
+        "num": 676652,
+        "word": "锦绣中国年",
+        "onboard_time": 1707468450,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525473,
+        "num": 671440,
+        "word": "张踩铃 好久没有看到过这种现象了",
+        "onboard_time": 1707486275,
+        "rank": 44,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 337529,
+        "num": 660456,
+        "word": "逆水寒",
+        "onboard_time": 1707487283,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230111,
+        "num": 657282,
+        "word": "比格犬受害者春节联欢晚会",
+        "onboard_time": 1707486924,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211456,
+        "num": 649972,
+        "word": "华宵一锦鲤红",
+        "onboard_time": 1707484098,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220080,
+        "num": 638742,
+        "word": "爱马仕集团2023年收入超130亿欧元",
+        "onboard_time": 1707486741,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 636739,
+        "num": 636739,
+        "word": "一闪而过的杨幂好美",
+        "onboard_time": 1707484098,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

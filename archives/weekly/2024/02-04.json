@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707485708947,
+  "endTime": 1707488125755,
   "band_list": [
     {
       "raw_hot": 18177726,
@@ -8,6 +8,14 @@
       "word": "春晚",
       "onboard_time": 1707478356,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16742993,
+      "num": 16742993,
+      "word": "尼格买提穿帮",
+      "onboard_time": 1707485192,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -75,6 +83,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 7909126,
+      "num": 7909126,
+      "word": "小尼你撒谎",
+      "onboard_time": 1707486868,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7755238,
       "num": 5863786,
       "word": "刘谦魔术 鸡皮疙瘩",
@@ -89,14 +105,6 @@
       "onboard_time": 1707192210,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6796978,
-      "num": 5089913,
-      "word": "尼格买提穿帮",
-      "onboard_time": 1707485192,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 5059636,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3931650,
+      "num": 3931650,
+      "word": "撒贝宁现挂",
+      "onboard_time": 1707487037,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3641771,
       "num": 3641771,
       "word": "开场好热闹",
@@ -176,6 +192,14 @@
       "word": "霍启刚要求梅西与迈阿密道歉",
       "onboard_time": 1707095132,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3319499,
+      "num": 945304,
+      "word": "梅西杭州行取消",
+      "onboard_time": 1707487217,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1707103171,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2334630,
+      "num": 939256,
+      "word": "刘谦耍大牌",
+      "onboard_time": 1707485913,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 2326035,
@@ -689,6 +721,14 @@
       "onboard_time": 1707309153,
       "rank": 5,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1630310,
+      "num": 936499,
+      "word": "唐诗逸镜头不够看",
+      "onboard_time": 1707485740,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1608181,
@@ -1139,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1209781,
+      "num": 930045,
+      "word": "单依纯 如听仙乐耳暂明",
+      "onboard_time": 1707488019,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1202149,
       "num": 1202149,
       "word": "宝妈进群刷单5天被骗580万",
@@ -1225,6 +1273,22 @@
       "onboard_time": 1707470252,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1151026,
+      "num": 929523,
+      "word": "谢谢毛不易",
+      "onboard_time": 1707487943,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1150739,
+      "num": 927222,
+      "word": "刘谦鼻子",
+      "onboard_time": 1707485913,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1148220,
@@ -1603,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 992283,
+      "num": 922219,
+      "word": "周深 唱跳歌手",
+      "onboard_time": 1707485969,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 986429,
       "num": 986429,
       "word": "魏大勋穿大衣 内娱阿加西",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1707215911,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 962067,
+      "num": 914242,
+      "word": "开不了口小品 之前看过",
+      "onboard_time": 1707488019,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 959911,
@@ -1817,6 +1897,14 @@
       "onboard_time": 1707205768,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912954,
+      "num": 912954,
+      "word": "苏醒瘦了好多",
+      "onboard_time": 1707487283,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 910642,
@@ -2121,6 +2209,14 @@
       "onboard_time": 1707001278,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 832963,
+      "num": 832963,
+      "word": "保洁阿姨对不起",
+      "onboard_time": 1707486741,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 830468,
@@ -2585,6 +2681,14 @@
       "onboard_time": 1707121112,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730487,
+      "num": 730487,
+      "word": "毛不易春晚首唱新歌如果要写年",
+      "onboard_time": 1707487037,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 728142,
@@ -3171,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633368,
+      "num": 5198393,
+      "word": "春晚含华量",
+      "onboard_time": 1707483540,
+      "rank": 11,
+      "category": "数码,作品衍生"
+    },
+    {
       "raw_hot": 632716,
       "num": 632716,
       "word": "美甲 约不上",
@@ -3745,6 +3857,14 @@
       "onboard_time": 1707215669,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 525473,
+      "num": 671440,
+      "word": "张踩铃 好久没有看到过这种现象了",
+      "onboard_time": 1707486275,
+      "rank": 44,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 525465,
@@ -4619,14 +4739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422743,
-      "num": 5198393,
-      "word": "春晚含华量",
-      "onboard_time": 1707483540,
-      "rank": 11,
-      "category": "数码,作品衍生"
-    },
-    {
       "raw_hot": 422517,
       "num": 422517,
       "word": "林更新谈和赵丽颖刘亦菲合作",
@@ -4737,6 +4849,14 @@
       "onboard_time": 1707400956,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412227,
+      "num": 916073,
+      "word": "看动画片的我们长大了",
+      "onboard_time": 1707486275,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 412091,
@@ -5609,6 +5729,14 @@
       "onboard_time": 1707375991,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 337529,
+      "num": 660456,
+      "word": "逆水寒",
+      "onboard_time": 1707487283,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 333190,
@@ -8211,6 +8339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230111,
+      "num": 657282,
+      "word": "比格犬受害者春节联欢晚会",
+      "onboard_time": 1707486924,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230036,
       "num": 230036,
       "word": "吴磊醉酒情绪戏",
@@ -8577,6 +8713,14 @@
       "onboard_time": 1707161297,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220080,
+      "num": 638742,
+      "word": "爱马仕集团2023年收入超130亿欧元",
+      "onboard_time": 1707486741,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 220060,
@@ -8963,6 +9107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211456,
+      "num": 1280059,
+      "word": "华宵一锦鲤红",
+      "onboard_time": 1707484098,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211198,
       "num": 211198,
       "word": "第一年在婆家过年",
@@ -9225,14 +9377,6 @@
       "onboard_time": 1707285091,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206657,
-      "num": 1280059,
-      "word": "华宵一锦鲤红",
-      "onboard_time": 1707484098,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 206585,
@@ -9929,6 +10073,14 @@
       "onboard_time": 1707020133,
       "rank": 44,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 197359,
+      "num": 917671,
+      "word": "丫丫过年也吃上了饺子",
+      "onboard_time": 1707485618,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197351,
@@ -12425,6 +12577,14 @@
       "onboard_time": 1707215370,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155964,
+      "num": 915442,
+      "word": "龙年第一条微博",
+      "onboard_time": 1707487647,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155960,
@@ -16571,6 +16731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66466,
+      "num": 731141,
+      "word": "春晚第一波幸运儿已诞生",
+      "onboard_time": 1707487217,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66376,
       "num": 59759,
       "word": "脱口秀大会第六季大王",
@@ -16731,14 +16899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56223,
-      "num": 766069,
-      "word": "丫丫过年也吃上了饺子",
-      "onboard_time": 1707485618,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55511,
       "num": 118311,
       "word": "央视镜头快塞不下十个勤天了",
@@ -16785,6 +16945,14 @@
       "onboard_time": 1706998336,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53154,
+      "num": 732510,
+      "word": "春晚好多年没有见证奇迹的时刻了",
+      "onboard_time": 1707487760,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 51428,
