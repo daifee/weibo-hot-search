@@ -1,10 +1,10 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707481793912,
+  "endTime": 1707482654580,
   "band_list": [
     {
-      "raw_hot": 16317347,
-      "num": 16317347,
+      "raw_hot": 18177726,
+      "num": 18177726,
       "word": "春晚",
       "onboard_time": 1707478356,
       "rank": 6,
@@ -17,6 +17,22 @@
       "onboard_time": 1704037678,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12628915,
+      "num": 12628915,
+      "word": "春晚节目单",
+      "onboard_time": 1706853631,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12106728,
+      "num": 12106728,
+      "word": "岳云鹏嘴瓢",
+      "onboard_time": 1707481486,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 11002130,
@@ -89,14 +105,6 @@
       "onboard_time": 1706673030,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8697746,
-      "num": 8697746,
-      "word": "春晚节目单",
-      "onboard_time": 1706853631,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 8646668,
@@ -347,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 3998872,
+      "num": 3424470,
+      "word": "岳云鹏 餐馆小哥转身那滴泪",
+      "onboard_time": 1707480516,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3927509,
       "num": 3927509,
       "word": "和叶 弟弟变妹妹",
@@ -401,6 +417,14 @@
       "onboard_time": 1704519152,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3641771,
+      "num": 3641771,
+      "word": "开场好热闹",
+      "onboard_time": 1707480766,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 3633631,
@@ -475,14 +499,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 3424470,
-      "num": 3424470,
-      "word": "岳云鹏 餐馆小哥转身那滴泪",
-      "onboard_time": 1707480516,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3421471,
       "num": 3421471,
       "word": "杨波出轨风波",
@@ -513,6 +529,14 @@
       "onboard_time": 1707298112,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 3276531,
+      "num": 3276531,
+      "word": "胡歌杨幂唐嫣开场同台",
+      "onboard_time": 1707481191,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 3271293,
@@ -587,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3012900,
-      "num": 3012900,
-      "word": "开场好热闹",
-      "onboard_time": 1707480766,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2996543,
       "num": 450291,
       "word": "开封一11岁女生在KTV被未成年人强暴",
@@ -616,6 +632,14 @@
       "word": "蔡依林 天后来了",
       "onboard_time": 1704035651,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2954348,
+      "num": 2954348,
+      "word": "刘诗诗首登央视春晚",
+      "onboard_time": 1707479676,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1987,6 +2011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1919345,
+      "num": 1200208,
+      "word": "唐嫣笨蛋美女",
+      "onboard_time": 1707479196,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1916476,
       "num": 1916476,
       "word": "不烫不死心 烫了想死的心",
@@ -2187,14 +2219,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1857578,
-      "num": 1857578,
-      "word": "胡歌杨幂唐嫣开场同台",
-      "onboard_time": 1707481191,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1852871,
       "num": 1852871,
       "word": "央视评繁花",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1706433089,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1819483,
-      "num": 1819483,
-      "word": "姨 刚下飞机就健身呢",
-      "onboard_time": 1706620412,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1818903,
-      "num": 1818903,
-      "word": "老人去世前3小时突然清醒遗愿令人泪崩",
-      "onboard_time": 1706870130,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1818197,
-      "num": 1279754,
-      "word": "于正再回应",
-      "onboard_time": 1705283788,
-      "rank": 3,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

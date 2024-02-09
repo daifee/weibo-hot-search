@@ -1,13 +1,29 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707481793912,
+  "endTime": 1707482654580,
   "band_list": [
     {
-      "raw_hot": 16317347,
-      "num": 16317347,
+      "raw_hot": 18177726,
+      "num": 18177726,
       "word": "春晚",
       "onboard_time": 1707478356,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12628915,
+      "num": 12628915,
+      "word": "春晚节目单",
+      "onboard_time": 1707456452,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12106728,
+      "num": 12106728,
+      "word": "岳云鹏嘴瓢",
+      "onboard_time": 1707481486,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -25,14 +41,6 @@
       "onboard_time": 1707305852,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8697746,
-      "num": 8697746,
-      "word": "春晚节目单",
-      "onboard_time": 1707456452,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 7173131,
@@ -67,6 +75,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3998872,
+      "num": 3424470,
+      "word": "岳云鹏 餐馆小哥转身那滴泪",
+      "onboard_time": 1707480516,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3641771,
+      "num": 3641771,
+      "word": "开场好热闹",
+      "onboard_time": 1707480766,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3599833,
       "num": 3599833,
       "word": "曝郑爽47分钟录音",
@@ -81,14 +105,6 @@
       "onboard_time": 1707037529,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3424470,
-      "num": 3424470,
-      "word": "岳云鹏 餐馆小哥转身那滴泪",
-      "onboard_time": 1707480516,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 3396012,
@@ -107,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 3276531,
+      "num": 3276531,
+      "word": "胡歌杨幂唐嫣开场同台",
+      "onboard_time": 1707481191,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3111482,
       "num": 1760825,
       "word": "梅西日本行替补",
@@ -123,11 +147,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3012900,
-      "num": 3012900,
-      "word": "开场好热闹",
-      "onboard_time": 1707480766,
-      "rank": 4,
+      "raw_hot": 2954348,
+      "num": 2954348,
+      "word": "刘诗诗首登央视春晚",
+      "onboard_time": 1707479676,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1919345,
+      "num": 1200208,
+      "word": "唐嫣笨蛋美女",
+      "onboard_time": 1707479196,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1908537,
       "num": 1908537,
       "word": "李佳琦红包",
@@ -401,14 +433,6 @@
       "onboard_time": 1707232052,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1857578,
-      "num": 1857578,
-      "word": "胡歌杨幂唐嫣开场同台",
-      "onboard_time": 1707481191,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1845671,
@@ -507,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1674543,
+      "num": 1103869,
+      "word": "花花C位",
+      "onboard_time": 1707481191,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1658713,
       "num": 1389640,
       "word": "陈哲远的年夜饭",
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1574646,
+      "num": 1070427,
+      "word": "刘诗诗簪花仕女",
+      "onboard_time": 1707479259,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1573122,
       "num": 1181231,
       "word": "哈尔滨女孩遭强奸死亡案一审未宣判",
@@ -627,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1514430,
+      "num": 1392304,
+      "word": "王凯朱一龙陈伟霆 老公合集",
+      "onboard_time": 1707481125,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1509896,
       "num": 599847,
       "word": "北京地铁昌平线列车追尾事故调查报告",
@@ -649,6 +697,14 @@
       "onboard_time": 1707463891,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1484891,
+      "num": 929566,
+      "word": "岳云鹏 第一个包袱没响",
+      "onboard_time": 1707482042,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1478155,
@@ -699,6 +755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1453173,
+      "num": 550310,
+      "word": "岳云鹏扇子 小抄",
+      "onboard_time": 1707482159,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1442443,
       "num": 957929,
       "word": "王者荣耀梅西皮肤",
@@ -747,28 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1392304,
-      "num": 1392304,
-      "word": "王凯朱一龙陈伟霆 老公合集",
-      "onboard_time": 1707481125,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1391293,
       "num": 1391293,
       "word": "因暴雪滞留高速亲历者发声",
       "onboard_time": 1707079695,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1384145,
-      "num": 1384145,
-      "word": "岳云鹏嘴瓢",
-      "onboard_time": 1707481486,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1376336,
@@ -875,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1260129,
+      "num": 610152,
+      "word": "马凡舒实在美丽",
+      "onboard_time": 1707481249,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1256429,
       "num": 1256429,
       "word": "狄仁杰因办签证欠下巨款",
@@ -945,14 +1001,6 @@
       "onboard_time": 1707021752,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1200208,
-      "num": 1200208,
-      "word": "唐嫣笨蛋美女",
-      "onboard_time": 1707479196,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1197827,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1707106834,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 948855,
+      "num": 545145,
+      "word": "杨幂又听到什么了",
+      "onboard_time": 1707481674,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 944722,
@@ -2043,6 +2099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 799417,
+      "num": 536363,
+      "word": "李沁春晚宋韵古装大片",
+      "onboard_time": 1707482358,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797652,
       "num": 797652,
       "word": "奚梦瑶说22岁的金莎很漂亮",
@@ -2137,6 +2201,14 @@
       "onboard_time": 1707131071,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 773951,
+      "num": 627909,
+      "word": "男人至死是少年",
+      "onboard_time": 1707481674,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 772879,
@@ -2723,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659215,
+      "num": 529190,
+      "word": "TFBOYS都这么大了",
+      "onboard_time": 1707482222,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657212,
       "num": 657212,
       "word": "魏晨魏大勋白敬亭 上春山",
@@ -2745,14 +2825,6 @@
       "onboard_time": 1707022890,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 651638,
-      "num": 651638,
-      "word": "花花C位",
-      "onboard_time": 1707481191,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 650922,
@@ -2947,14 +3019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 627909,
-      "num": 627909,
-      "word": "男人至死是少年",
-      "onboard_time": 1707481674,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 626566,
       "num": 626566,
       "word": "春晚姓甄的小心点",
@@ -3011,20 +3075,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610152,
-      "num": 610152,
-      "word": "马凡舒实在美丽",
-      "onboard_time": 1707481249,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 607222,
       "num": 252810,
       "word": "明日方舟阿米娅",
       "onboard_time": 1707192690,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 606892,
+      "num": 526734,
+      "word": "别开生面",
+      "onboard_time": 1707482159,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 605608,
@@ -3225,14 +3289,6 @@
       "onboard_time": 1707174441,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 571803,
-      "num": 571803,
-      "word": "刘诗诗首登央视春晚",
-      "onboard_time": 1707479676,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 568716,
@@ -3521,6 +3577,14 @@
       "onboard_time": 1707215669,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 526223,
+      "num": 526223,
+      "word": "谭爷爷抱花花上春晚",
+      "onboard_time": 1707482159,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 525465,
@@ -3827,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492852,
+      "num": 492852,
+      "word": "春晚导演",
+      "onboard_time": 1707482222,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490072,
       "num": 234500,
       "word": "乘客下单叫到66.6公里外网约车",
@@ -4017,14 +4089,6 @@
       "onboard_time": 1707308131,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 466629,
-      "num": 466629,
-      "word": "刘诗诗簪花仕女",
-      "onboard_time": 1707479259,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 465560,
@@ -5027,6 +5091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 369529,
+      "num": 369529,
+      "word": "不愧是张艺谋",
+      "onboard_time": 1707482518,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368882,
       "num": 368882,
       "word": "金在中脸部脱毛的原因",
@@ -5569,6 +5641,14 @@
       "onboard_time": 1707285329,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323572,
+      "num": 323572,
+      "word": "朱一龙春晚后台清唱人生大事",
+      "onboard_time": 1707481983,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 323313,
@@ -6748,7 +6828,7 @@
     },
     {
       "raw_hot": 269876,
-      "num": 487264,
+      "num": 540370,
       "word": "龙年",
       "onboard_time": 1707439530,
       "rank": 42,
@@ -7044,7 +7124,7 @@
     },
     {
       "raw_hot": 256286,
-      "num": 484998,
+      "num": 532559,
       "word": "除夕",
       "onboard_time": 1707466892,
       "rank": 23,
@@ -7153,14 +7233,6 @@
       "onboard_time": 1707191609,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253945,
-      "num": 253945,
-      "word": "杨幂又听到什么了",
-      "onboard_time": 1707481674,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 253577,
@@ -7356,7 +7428,7 @@
     },
     {
       "raw_hot": 247037,
-      "num": 247037,
+      "num": 289732,
       "word": "集卡",
       "onboard_time": 1707480163,
       "rank": 47,
@@ -7865,6 +7937,14 @@
       "onboard_time": 1707210092,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232775,
+      "num": 539210,
+      "word": "40岁儿子跪着向妈妈讨要新年红包",
+      "onboard_time": 1707481249,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232709,
@@ -10148,7 +10228,7 @@
     },
     {
       "raw_hot": 191417,
-      "num": 328431,
+      "num": 511315,
       "word": "男子手写对联像行走的印刷机",
       "onboard_time": 1707481430,
       "rank": 38,
@@ -13067,14 +13147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143742,
-      "num": 328156,
-      "word": "40岁儿子跪着向妈妈讨要新年红包",
-      "onboard_time": 1707481249,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143562,
       "num": 143562,
       "word": "七仔 糯米糍雪球",
@@ -13793,6 +13865,14 @@
       "onboard_time": 1707279630,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134481,
+      "num": 4178902,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134363,
@@ -16011,14 +16091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82815,
-      "num": 3465036,
-      "word": "锦绣中国年",
-      "onboard_time": 1707468450,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81965,
       "num": 81965,
       "word": "全红婵双冠王",
@@ -16403,6 +16475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 63698,
+      "num": 1218686,
+      "word": "蛋仔岛也有自己的春晚",
+      "onboard_time": 1707480033,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63634,
       "num": 312525,
       "word": "当年轻人回家过年",
@@ -16625,14 +16705,6 @@
       "onboard_time": 1707470792,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47197,
-      "num": 1218686,
-      "word": "蛋仔岛也有自己的春晚",
-      "onboard_time": 1707480033,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 47003,
@@ -17377,6 +17449,14 @@
       "onboard_time": 1707292290,
       "rank": 26,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 4192,
+      "num": 291758,
+      "word": "刘涛妈祖再现",
+      "onboard_time": 1707482586,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
