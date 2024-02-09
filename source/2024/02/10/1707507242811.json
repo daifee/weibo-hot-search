@@ -1,0 +1,410 @@
+{
+  "runTime": 1707507242811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456131,
+        "num": 456131,
+        "word": "尼格买提要碎了",
+        "onboard_time": 1707494232,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374676,
+        "num": 374676,
+        "word": "迪丽热巴美疯",
+        "onboard_time": 1707491110,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62797,
+        "num": 326925,
+        "word": "咏春女舞者眼神好杀",
+        "onboard_time": 1707498227,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305235,
+        "num": 305235,
+        "word": "刘谦耍大牌",
+        "onboard_time": 1707485913,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286329,
+        "num": 286329,
+        "word": "春晚最好笑的梗",
+        "onboard_time": 1707493396,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234511,
+        "num": 234511,
+        "word": "曾舜晞 我明明对上了",
+        "onboard_time": 1707494994,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219719,
+        "num": 219719,
+        "word": "杨幂好甜",
+        "onboard_time": 1707495183,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166494,
+        "num": 218595,
+        "word": "40岁儿子跪着向妈妈讨要新年红包",
+        "onboard_time": 1707481249,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96050,
+        "num": 218505,
+        "word": "龙行龘龘",
+        "onboard_time": 1707475654,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69619,
+        "num": 218492,
+        "word": "过年好",
+        "onboard_time": 1707493577,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218488,
+        "num": 218488,
+        "word": "春晚收视率破30%",
+        "onboard_time": 1707493514,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214584,
+        "num": 214584,
+        "word": "马丽的鞋好看",
+        "onboard_time": 1707494287,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185123,
+        "num": 185123,
+        "word": "梅西杭州行取消",
+        "onboard_time": 1707487217,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178244,
+        "num": 178244,
+        "word": "尼格买提穿帮",
+        "onboard_time": 1707485192,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174356,
+        "num": 174356,
+        "word": "撒贝宁何炅连线",
+        "onboard_time": 1707494046,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173474,
+        "num": 173474,
+        "word": "章若楠蒋诗萌回应小品尴尬",
+        "onboard_time": 1707505579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165556,
+        "num": 165556,
+        "word": "新疆分会场像开了倍速",
+        "onboard_time": 1707492674,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162850,
+        "num": 162850,
+        "word": "难忘今宵",
+        "onboard_time": 1707496556,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53434,
+        "num": 155967,
+        "word": "代号鸢",
+        "onboard_time": 1707504561,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32296,
+        "num": 153472,
+        "word": "放炮",
+        "onboard_time": 1707498407,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150991,
+        "num": 150991,
+        "word": "春晚没有科目三",
+        "onboard_time": 1707497694,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140282,
+        "num": 140282,
+        "word": "小尼你撒谎",
+        "onboard_time": 1707486868,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139285,
+        "num": 139285,
+        "word": "迪丽热巴随便截图",
+        "onboard_time": 1707498820,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124026,
+        "num": 124026,
+        "word": "白敬亭春晚下班直播",
+        "onboard_time": 1707501509,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114802,
+        "num": 114802,
+        "word": "春晚",
+        "onboard_time": 1707478356,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108682,
+        "num": 108682,
+        "word": "沈腾也嘴瓢了",
+        "onboard_time": 1707490289,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51839,
+        "num": 51839,
+        "word": "龙年文案",
+        "onboard_time": 1707497338,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39804,
+        "num": 51796,
+        "word": "红包",
+        "onboard_time": 1707479622,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28827,
+        "num": 51507,
+        "word": "主办方称要求梅西向球迷解释但未成功",
+        "onboard_time": 1707470792,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26462,
+        "num": 51195,
+        "word": "丫丫过年也吃上了饺子",
+        "onboard_time": 1707485618,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109175,
+        "num": 50993,
+        "word": "魏晨魏大勋都穿白不告诉白敬亭",
+        "onboard_time": 1707491469,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105287,
+        "num": 50929,
+        "word": "秦岚两秒镜头",
+        "onboard_time": 1707491110,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88741,
+        "num": 50625,
+        "word": "檀健次居然rap了",
+        "onboard_time": 1707497220,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87229,
+        "num": 50451,
+        "word": "0713圆梦了",
+        "onboard_time": 1707484459,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86511,
+        "num": 50237,
+        "word": "曾舜晞 逃过了特写",
+        "onboard_time": 1707504141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84770,
+        "num": 49997,
+        "word": "杨幂毛晓彤看着就喜庆",
+        "onboard_time": 1707503184,
+        "rank": 35,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 84068,
+        "num": 49739,
+        "word": "西安分会场 赢麻了",
+        "onboard_time": 1707483679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80875,
+        "num": 49422,
+        "word": "没有李谷一",
+        "onboard_time": 1707496744,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19569,
+        "num": 49402,
+        "word": "女友爷爷失明男生拉手让他抚摸脸颊",
+        "onboard_time": 1707496617,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17582,
+        "num": 49118,
+        "word": "龙年",
+        "onboard_time": 1707474992,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80436,
+        "num": 48807,
+        "word": "还得是沈腾马丽",
+        "onboard_time": 1707489716,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74995,
+        "num": 48704,
+        "word": "春晚羽绒服破了",
+        "onboard_time": 1707506540,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67413,
+        "num": 48424,
+        "word": "十个勤天 春晚压轴",
+        "onboard_time": 1707496254,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67082,
+        "num": 48254,
+        "word": "胡歌杨幂唐嫣开场同台",
+        "onboard_time": 1707481191,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60311,
+        "num": 47958,
+        "word": "巴黎圣母院上春晚",
+        "onboard_time": 1707498286,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57853,
+        "num": 47716,
+        "word": "被鞭炮声吓到发抖的萨摩耶",
+        "onboard_time": 1707500490,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54099,
+        "num": 47572,
+        "word": "难忘今宵怎么还rap",
+        "onboard_time": 1707497694,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47435,
+        "num": 47435,
+        "word": "终于等到汪苏泷",
+        "onboard_time": 1707497751,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31803,
+        "num": 46890,
+        "word": "蛋仔派对进不去",
+        "onboard_time": 1707499181,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17036,
+        "num": 46732,
+        "word": "龙年第一条微博",
+        "onboard_time": 1707487647,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
