@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707482654580,
+  "endTime": 1707484690704,
   "band_list": [
     {
       "raw_hot": 18177726,
@@ -8,6 +8,14 @@
       "word": "春晚",
       "onboard_time": 1707478356,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12864706,
+      "num": 12864706,
+      "word": "西安分会场 赢麻了",
+      "onboard_time": 1707483679,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1704093755,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8983735,
+      "num": 8983735,
+      "word": "章若楠毛衣",
+      "onboard_time": 1707482890,
+      "rank": 3,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 8795205,
@@ -315,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4698723,
+      "num": 4698723,
+      "word": "那能一样吗 尴尬",
+      "onboard_time": 1707483540,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4566409,
       "num": 4566409,
       "word": "日本一飞机机场跑道起火",
@@ -337,6 +361,14 @@
       "onboard_time": 1704033795,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4065890,
+      "num": 4065890,
+      "word": "春晚cue烂梗",
+      "onboard_time": 1707483361,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 4033714,
@@ -520,6 +552,14 @@
       "word": "刘宇宁哭了",
       "onboard_time": 1704037142,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3345288,
+      "num": 1099449,
+      "word": "0713圆梦了",
+      "onboard_time": 1707484459,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -907,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2611524,
+      "num": 1041978,
+      "word": "刘诗诗怼脸好美",
+      "onboard_time": 1707482890,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2609133,
       "num": 2609133,
       "word": "缅甸白所成父子被移交我公安机关",
@@ -969,6 +1017,14 @@
       "onboard_time": 1706843130,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2498957,
+      "num": 943811,
+      "word": "0713出息了",
+      "onboard_time": 1707463891,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 2491617,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1704166236,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2283638,
+      "num": 921742,
+      "word": "TFBOYS都这么大了",
+      "onboard_time": 1707482222,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 2283092,
@@ -1529,6 +1593,14 @@
       "onboard_time": 1707279692,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2115688,
+      "num": 911263,
+      "word": "不愧是张艺谋",
+      "onboard_time": 1707482518,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 2104641,
@@ -1955,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1936179,
+      "num": 1070427,
+      "word": "刘诗诗簪花仕女",
+      "onboard_time": 1707479259,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1936072,
       "num": 1936072,
       "word": "赵丽颖微博文案是手语",
@@ -2321,86 +2401,6 @@
       "onboard_time": 1707284073,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1835263,
-      "num": 1835263,
-      "word": "减重100斤的贾玲惊呆潘斌龙",
-      "onboard_time": 1706191595,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1833494,
-      "num": 1833494,
-      "word": "女子到银行存10万现金被问钱来源",
-      "onboard_time": 1704685052,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1832515,
-      "num": 1832515,
-      "word": "华晨宇压轴",
-      "onboard_time": 1704038992,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1832044,
-      "num": 1832044,
-      "word": "6.8亿彩票",
-      "onboard_time": 1707276331,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1831345,
-      "num": 1831345,
-      "word": "刘德华回应隐婚",
-      "onboard_time": 1706934989,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1826163,
-      "num": 1826163,
-      "word": "删掉 她能看见",
-      "onboard_time": 1706940211,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1825028,
-      "num": 1825028,
-      "word": "女子与小伙裸聊后发截图命令对方网贷",
-      "onboard_time": 1705361723,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1823424,
-      "num": 1823424,
-      "word": "女童送医后死亡其父被刑拘",
-      "onboard_time": 1705498472,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1821141,
-      "num": 1821141,
-      "word": "女子遭研究生同学无视追讨礼金",
-      "onboard_time": 1706231428,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1819565,
-      "num": 1819565,
-      "word": "机票价格",
-      "onboard_time": 1706433089,
-      "rank": 39,
-      "category": "旅游"
     }
   ],
   "hotgov_list": [
