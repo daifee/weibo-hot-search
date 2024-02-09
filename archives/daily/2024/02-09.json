@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707435239841,
+  "endTime": 1707441024604,
   "band_list": [
     {
       "raw_hot": 1145038,
@@ -11,12 +11,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140671,
+      "num": 1140671,
+      "word": "上班",
+      "onboard_time": 1707436465,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1075858,
+      "num": 382843,
+      "word": "女性每天无偿家务时间约为3到6小时",
+      "onboard_time": 1707435504,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022272,
+      "num": 431561,
+      "word": "胡锡进说梅西没那么大本事和分量",
+      "onboard_time": 1707434720,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 824790,
       "num": 824790,
       "word": "钟丽缇女儿考拉怼网友",
       "onboard_time": 1707404253,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803155,
+      "num": 803155,
+      "word": "春晚节目单啥时候出来",
+      "onboard_time": 1707438328,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 749641,
@@ -59,12 +91,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508144,
+      "num": 508144,
+      "word": "C罗大方回应球迷喊梅西",
+      "onboard_time": 1707440548,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507166,
       "num": 507166,
       "word": "龙不再翻译为dragon而是loong",
       "onboard_time": 1707383794,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 434938,
+      "num": 434938,
+      "word": "为啥大年三十会消失初一却从不缺席",
+      "onboard_time": 1707435264,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 433357,
@@ -83,12 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414879,
+      "num": 414879,
+      "word": "官方通报女子被丈夫泼酒点火烧伤",
+      "onboard_time": 1707436765,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398126,
       "num": 379443,
       "word": "新闻联播镜头下的周冬雨",
       "onboard_time": 1707407490,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392863,
+      "num": 380853,
+      "word": "C罗复出打满全场",
+      "onboard_time": 1707436884,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 389017,
@@ -107,12 +171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353891,
-      "num": 353891,
+      "raw_hot": 386857,
+      "num": 386857,
       "word": "除夕快乐",
       "onboard_time": 1707434720,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377280,
+      "num": 377280,
+      "word": "科比雕像",
+      "onboard_time": 1707437246,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 325046,
@@ -121,6 +193,14 @@
       "onboard_time": 1707397652,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 323226,
+      "num": 323226,
+      "word": "小乔令牌",
+      "onboard_time": 1707435504,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 313425,
@@ -179,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280834,
+      "num": 280834,
+      "word": "准备年夜饭",
+      "onboard_time": 1707439645,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272195,
       "num": 226360,
       "word": "公公突然给了我1万块压岁钱",
@@ -195,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245142,
+      "num": 245142,
+      "word": "除夕文案",
+      "onboard_time": 1707433941,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244732,
       "num": 220440,
       "word": "还得是宋小宝",
@@ -203,12 +299,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243389,
+      "num": 243389,
+      "word": "已在工位",
+      "onboard_time": 1707440247,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226605,
       "num": 226605,
       "word": "梅西的伤与友谊赛的商",
       "onboard_time": 1707395010,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220774,
+      "num": 220774,
+      "word": "梅西日本上场粉丝哭诉无法接受",
+      "onboard_time": 1707435562,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217140,
+      "num": 217140,
+      "word": "王者小龙糕",
+      "onboard_time": 1707440129,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 211343,
@@ -227,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172217,
-      "num": 172217,
-      "word": "除夕文案",
-      "onboard_time": 1707433941,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 175978,
+      "num": 175978,
+      "word": "灵宝市集",
+      "onboard_time": 1707440129,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 171347,
@@ -259,6 +379,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157836,
+      "num": 157836,
+      "word": "都是宝宝为什么我要发红包",
+      "onboard_time": 1707437847,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 157552,
+      "num": 157552,
+      "word": "希望老板明白一分钱一分货",
+      "onboard_time": 1707439530,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154379,
+      "num": 154379,
+      "word": "今天是2030年前最后一个年三十",
+      "onboard_time": 1707440669,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 150171,
+      "num": 150171,
+      "word": "汉服 春晚",
+      "onboard_time": 1707440787,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149788,
       "num": 149788,
       "word": "小龙糕",
@@ -267,12 +419,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149647,
+      "num": 149647,
+      "word": "科比8号雕像单手指天",
+      "onboard_time": 1707439348,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149019,
+      "num": 149019,
+      "word": "除夕祝福",
+      "onboard_time": 1707439767,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147863,
       "num": 212082,
       "word": "不要在一种情绪里沉溺太久",
       "onboard_time": 1707403776,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "萧敬腾林有慧 雨神大人和夫人",
+      "onboard_time": 1707431238,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146876,
+      "num": 146876,
+      "word": "央视镜头下的红衣刘诗诗",
+      "onboard_time": 1707437485,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 144791,
@@ -299,6 +483,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137851,
+      "num": 137851,
+      "word": "龙年",
+      "onboard_time": 1707439530,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137167,
+      "num": 137167,
+      "word": "宋小宝小品",
+      "onboard_time": 1707436645,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134943,
+      "num": 134943,
+      "word": "一年只烫一次的西兰花发型",
+      "onboard_time": 1707433280,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129600,
       "num": 169706,
       "word": "中国银联被央行罚款1540万元",
@@ -323,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126103,
-      "num": 126103,
-      "word": "一年只烫一次的西兰花发型",
-      "onboard_time": 1707433280,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126096,
       "num": 126096,
       "word": "春节搭子",
@@ -347,20 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123029,
+      "num": 123029,
+      "word": "林亦扬殷果吵架",
+      "onboard_time": 1707412823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122457,
+      "num": 122457,
+      "word": "指甲容易劈说明骨头脆",
+      "onboard_time": 1707434541,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121539,
       "num": 121539,
       "word": "当两只狗狗共用一个碗",
       "onboard_time": 1707404014,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120792,
-      "num": 120792,
-      "word": "萧敬腾林有慧 雨神大人和夫人",
-      "onboard_time": 1707431238,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 119994,
@@ -379,20 +587,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 119455,
+      "num": 119455,
+      "word": "00后开始整顿过年了",
+      "onboard_time": 1707423437,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119365,
       "num": 116952,
       "word": "女儿凌晨五点半喊爸妈起床吃早饭",
       "onboard_time": 1707426855,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118351,
-      "num": 84123,
-      "word": "胡锡进说梅西没那么大本事和分量",
-      "onboard_time": 1707434720,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 118196,
@@ -483,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93377,
-      "num": 93377,
-      "word": "林亦扬殷果吵架",
-      "onboard_time": 1707412823,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85805,
       "num": 85805,
       "word": "南拳妈妈时隔十五年再登春晚",
@@ -513,14 +713,6 @@
       "onboard_time": 1707414739,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78411,
-      "num": 78411,
-      "word": "00后开始整顿过年了",
-      "onboard_time": 1707423437,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 77994,
@@ -611,20 +803,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49366,
-      "num": 49366,
-      "word": "指甲容易劈说明骨头脆",
-      "onboard_time": 1707434541,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 44489,
       "num": 329627,
       "word": "四美同台好养眼",
       "onboard_time": 1707408450,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31001,
+      "num": 560978,
+      "word": "在非遗中邂逅龙年氛围感",
+      "onboard_time": 1707399034,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30751,
@@ -641,14 +833,6 @@
       "onboard_time": 1707419177,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24232,
-      "num": 424713,
-      "word": "在非遗中邂逅龙年氛围感",
-      "onboard_time": 1707399034,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17368,
