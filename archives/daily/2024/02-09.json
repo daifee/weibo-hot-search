@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707477326943,
+  "endTime": 1707478432509,
   "band_list": [
     {
       "raw_hot": 7879409,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3035751,
+      "num": 3035751,
+      "word": "龙行龘龘",
+      "onboard_time": 1707475654,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2035422,
       "num": 459804,
       "word": "梅西香港行主办方退款50%",
@@ -28,19 +36,11 @@
     },
     {
       "raw_hot": 1753063,
-      "num": 531072,
+      "num": 567643,
       "word": "说贾玲拿减肥当电影噱头的",
       "onboard_time": 1707469051,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1649522,
-      "num": 1649522,
-      "word": "龙行龘龘",
-      "onboard_time": 1707475654,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1608181,
@@ -89,6 +89,14 @@
       "onboard_time": 1707457775,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1306845,
+      "num": 568780,
+      "word": "小泽征尔去世",
+      "onboard_time": 1707475472,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1251587,
@@ -163,12 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1020203,
-      "num": 536517,
-      "word": "小泽征尔去世",
-      "onboard_time": 1707475472,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1000782,
+      "num": 568456,
+      "word": "春节禁忌",
+      "onboard_time": 1707477150,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 993978,
@@ -211,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 887938,
+      "num": 887938,
+      "word": "开始放烟花了",
+      "onboard_time": 1707476309,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 839848,
       "num": 839848,
       "word": "何炅上春晚",
@@ -243,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 819968,
-      "num": 819968,
-      "word": "开始放烟花了",
-      "onboard_time": 1707476309,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 800580,
       "num": 800580,
       "word": "张远 终于上春晚啦",
@@ -280,6 +288,14 @@
       "word": "春晚4个小品",
       "onboard_time": 1707459877,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 719383,
+      "num": 719383,
+      "word": "苏醒终于不用保留才艺了",
+      "onboard_time": 1707476070,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 649139,
-      "num": 468105,
+      "num": 567287,
       "word": "HYBE艺人 韩国新年",
       "onboard_time": 1707473914,
       "rank": 12,
@@ -339,11 +355,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 601942,
-      "num": 601942,
-      "word": "苏醒终于不用保留才艺了",
-      "onboard_time": 1707476070,
-      "rank": 8,
+      "raw_hot": 639534,
+      "num": 639534,
+      "word": "春晚",
+      "onboard_time": 1707478356,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1707471330,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 581280,
+      "num": 566107,
+      "word": "肖战龙头帽",
+      "onboard_time": 1707478232,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 572082,
@@ -419,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 478307,
+      "num": 478307,
+      "word": "Kpop春晚",
+      "onboard_time": 1707474451,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475305,
       "num": 475305,
       "word": "曾舜晞发烧了",
@@ -451,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 457101,
-      "num": 457101,
-      "word": "Kpop春晚",
-      "onboard_time": 1707474451,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 450996,
+      "num": 450996,
+      "word": "何同学请大家看烟花",
+      "onboard_time": 1707475051,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 435641,
@@ -481,14 +513,6 @@
       "onboard_time": 1707402517,
       "rank": 8,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 416396,
-      "num": 416396,
-      "word": "何同学请大家看烟花",
-      "onboard_time": 1707475051,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 416392,
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392168,
+      "num": 392168,
+      "word": "新年祝福",
+      "onboard_time": 1707473432,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389536,
       "num": 389536,
       "word": "年夜饭",
@@ -577,14 +609,6 @@
       "onboard_time": 1707459212,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380373,
-      "num": 380373,
-      "word": "新年祝福",
-      "onboard_time": 1707473432,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 377760,
@@ -667,11 +691,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321934,
+      "num": 321934,
+      "word": "陈哲远的年夜饭",
+      "onboard_time": 1707476489,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318714,
       "num": 318714,
       "word": "0713出息了",
       "onboard_time": 1707463891,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318386,
+      "num": 318386,
+      "word": "杨幂新中式红裙",
+      "onboard_time": 1707477393,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -939,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259493,
-      "num": 259493,
-      "word": "陈哲远的年夜饭",
-      "onboard_time": 1707476489,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257766,
       "num": 303677,
       "word": "主办方称要求梅西向球迷解释但未成功",
@@ -969,6 +1001,14 @@
       "onboard_time": 1707466892,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256171,
+      "num": 256171,
+      "word": "魏大勋新中式春晚妆造",
+      "onboard_time": 1707476130,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 254933,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1707442527,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243109,
-      "num": 243109,
-      "word": "魏大勋新中式春晚妆造",
-      "onboard_time": 1707476130,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 240845,
@@ -1267,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189791,
+      "num": 242871,
+      "word": "龙年",
+      "onboard_time": 1707439530,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189028,
       "num": 189028,
       "word": "一个不起眼的炒菜习惯惹癌上身",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1707461972,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185685,
-      "num": 185685,
-      "word": "龙年",
-      "onboard_time": 1707439530,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 181639,
@@ -1363,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176510,
+      "num": 176510,
+      "word": "女生别出心裁用雪夹包包子",
+      "onboard_time": 1707476850,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175978,
       "num": 175978,
       "word": "灵宝市集",
@@ -1409,22 +1449,6 @@
       "onboard_time": 1707448289,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172473,
-      "num": 172473,
-      "word": "女生别出心裁用雪夹包包子",
-      "onboard_time": 1707476850,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 171461,
-      "num": 171461,
-      "word": "春节禁忌",
-      "onboard_time": 1707477150,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 171347,
@@ -1499,6 +1523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164869,
+      "num": 164869,
+      "word": "央视龙年春晚节目海报",
+      "onboard_time": 1707476012,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162032,
       "num": 162032,
       "word": "库里三分",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1707460291,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152317,
+      "num": 152317,
+      "word": "龙年贺图",
+      "onboard_time": 1707478416,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 150351,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1707442407,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138256,
+      "num": 138256,
+      "word": "新年表情包",
+      "onboard_time": 1707478232,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 138167,
@@ -2484,7 +2532,7 @@
     },
     {
       "raw_hot": 59973,
-      "num": 1041830,
+      "num": 1202531,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707478432509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5415722,
+        "num": 5415722,
+        "word": "春晚节目单",
+        "onboard_time": 1707456452,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3035751,
+        "num": 3035751,
+        "word": "龙行龘龘",
+        "onboard_time": 1707475654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47500,
+        "num": 1202531,
+        "word": "锦绣中国年",
+        "onboard_time": 1707468450,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887938,
+        "num": 887938,
+        "word": "开始放烟花了",
+        "onboard_time": 1707476309,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 719383,
+        "num": 719383,
+        "word": "苏醒终于不用保留才艺了",
+        "onboard_time": 1707476070,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696903,
+        "num": 696903,
+        "word": "贾玲首秀亮相六公主直播",
+        "onboard_time": 1707470252,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 639534,
+        "num": 639534,
+        "word": "春晚",
+        "onboard_time": 1707478356,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599980,
+        "num": 599980,
+        "word": "花花是春晚最小的观众",
+        "onboard_time": 1707471392,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569106,
+        "num": 569106,
+        "word": "年夜饭文案",
+        "onboard_time": 1707468632,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568992,
+        "num": 568992,
+        "word": "赵昭仪秒删",
+        "onboard_time": 1707457775,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1306845,
+        "num": 568780,
+        "word": "小泽征尔去世",
+        "onboard_time": 1707475472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000782,
+        "num": 568456,
+        "word": "春节禁忌",
+        "onboard_time": 1707477150,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 942890,
+        "num": 567643,
+        "word": "说贾玲拿减肥当电影噱头的",
+        "onboard_time": 1707469051,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 601363,
+        "num": 567287,
+        "word": "HYBE艺人 韩国新年",
+        "onboard_time": 1707473914,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567115,
+        "num": 567115,
+        "word": "何炅上春晚",
+        "onboard_time": 1707458374,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 581280,
+        "num": 566107,
+        "word": "肖战龙头帽",
+        "onboard_time": 1707478232,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478926,
+        "num": 478926,
+        "word": "迪丽热巴 新疆的石榴花",
+        "onboard_time": 1707460175,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478307,
+        "num": 478307,
+        "word": "Kpop春晚",
+        "onboard_time": 1707474451,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450996,
+        "num": 450996,
+        "word": "何同学请大家看烟花",
+        "onboard_time": 1707475051,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 402598,
+        "num": 402598,
+        "word": "iPhone拍烟花模式",
+        "onboard_time": 1707472832,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392168,
+        "num": 392168,
+        "word": "新年祝福",
+        "onboard_time": 1707473432,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334791,
+        "num": 334791,
+        "word": "宋轶泡泡袖丸子头",
+        "onboard_time": 1707475291,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321934,
+        "num": 321934,
+        "word": "陈哲远的年夜饭",
+        "onboard_time": 1707476489,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318386,
+        "num": 318386,
+        "word": "杨幂新中式红裙",
+        "onboard_time": 1707477393,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293333,
+        "num": 293333,
+        "word": "汪苏泷自己写的歌上春晚了",
+        "onboard_time": 1707473254,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287135,
+        "num": 287135,
+        "word": "春晚是懂cpf的",
+        "onboard_time": 1707468872,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258526,
+        "num": 258526,
+        "word": "年夜饭",
+        "onboard_time": 1707451290,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256171,
+        "num": 256171,
+        "word": "魏大勋新中式春晚妆造",
+        "onboard_time": 1707476130,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190776,
+        "num": 245386,
+        "word": "除夕",
+        "onboard_time": 1707466892,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189791,
+        "num": 242871,
+        "word": "龙年",
+        "onboard_time": 1707474992,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242253,
+        "num": 242253,
+        "word": "张远 终于上春晚啦",
+        "onboard_time": 1707462629,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228412,
+        "num": 228412,
+        "word": "赵昭仪要夸自己绝对不带删的",
+        "onboard_time": 1707473673,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221294,
+        "num": 221294,
+        "word": "梅西香港行主办方退款50%",
+        "onboard_time": 1707461313,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214622,
+        "num": 214622,
+        "word": "乌合麒麟龙年贺图",
+        "onboard_time": 1707473254,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200051,
+        "num": 200051,
+        "word": "陈奕迅精神状态 过几天走亲戚用",
+        "onboard_time": 1707473368,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199377,
+        "num": 199377,
+        "word": "胡歌杨幂唐嫣春晚开场",
+        "onboard_time": 1707458488,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186815,
+        "num": 186815,
+        "word": "楼晚",
+        "onboard_time": 1707471330,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 539413,
+        "num": 184364,
+        "word": "合同允许梅西因伤不上场",
+        "onboard_time": 1707463891,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176510,
+        "num": 176510,
+        "word": "女生别出心裁用雪夹包包子",
+        "onboard_time": 1707476850,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124650,
+        "num": 167457,
+        "word": "林孝埈送上一大波新年祝福",
+        "onboard_time": 1707472050,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164869,
+        "num": 164869,
+        "word": "央视龙年春晚节目海报",
+        "onboard_time": 1707476012,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164623,
+        "num": 164623,
+        "word": "梅西代言品牌集体沉默",
+        "onboard_time": 1707454649,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162064,
+        "num": 162064,
+        "word": "花花上春晚啦",
+        "onboard_time": 1707475110,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152317,
+        "num": 152317,
+        "word": "龙年贺图",
+        "onboard_time": 1707478416,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156855,
+        "num": 151616,
+        "word": "中国足协人士称与阿根廷足协合作不多",
+        "onboard_time": 1707475231,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149867,
+        "num": 149867,
+        "word": "0713出息了",
+        "onboard_time": 1707463891,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146986,
+        "num": 146986,
+        "word": "压岁钱",
+        "onboard_time": 1707473851,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142929,
+        "num": 142929,
+        "word": "唐嫣大波浪梦回汪小姐",
+        "onboard_time": 1707465874,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138256,
+        "num": 138256,
+        "word": "新年表情包",
+        "onboard_time": 1707478232,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120081,
+        "num": 129175,
+        "word": "主办方称要求梅西向球迷解释但未成功",
+        "onboard_time": 1707470792,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望全国人民振奋龙马精神#"
+    }
+  }
+}
