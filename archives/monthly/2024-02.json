@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707466805060,
+  "endTime": 1707467657041,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1489068,
+      "num": 461073,
+      "word": "合同允许梅西因伤不上场",
+      "onboard_time": 1707463891,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1478155,
       "num": 1478155,
       "word": "已在工位",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1707291451,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1410766,
-      "num": 461073,
-      "word": "合同允许梅西因伤不上场",
-      "onboard_time": 1707463891,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 1409446,
@@ -5755,6 +5755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469591,
+      "num": 454229,
+      "word": "陆虎 今晚像你这样的朋友们一起",
+      "onboard_time": 1707463710,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468885,
       "num": 468885,
       "word": "霉霉四封年专",
@@ -5889,14 +5897,6 @@
       "onboard_time": 1706786910,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454229,
-      "num": 454229,
-      "word": "陆虎 今晚像你这样的朋友们一起",
-      "onboard_time": 1707463710,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 453619,
@@ -9259,6 +9259,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 288817,
+      "num": 288817,
+      "word": "央视镜头下的章若楠",
+      "onboard_time": 1707465631,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288323,
       "num": 288323,
       "word": "张佳宁 朝鲜族服饰",
@@ -9777,14 +9785,6 @@
       "onboard_time": 1707229955,
       "rank": 43,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 272919,
-      "num": 272919,
-      "word": "央视镜头下的章若楠",
-      "onboard_time": 1707465631,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 272890,
@@ -10371,6 +10371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256286,
+      "num": 256286,
+      "word": "除夕",
+      "onboard_time": 1707466892,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256281,
       "num": 256281,
       "word": "过年让减肥欲达到巅峰了",
@@ -10681,6 +10689,14 @@
       "onboard_time": 1706835329,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249840,
+      "num": 249840,
+      "word": "在财神庙刮彩票中了20块",
+      "onboard_time": 1707466471,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 249541,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1707196894,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240845,
+      "num": 240845,
+      "word": "唐嫣大波浪梦回汪小姐",
+      "onboard_time": 1707465874,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 240600,
@@ -12073,14 +12097,6 @@
       "onboard_time": 1707017192,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221047,
-      "num": 221047,
-      "word": "唐嫣大波浪梦回汪小姐",
-      "onboard_time": 1707465874,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 220999,
@@ -15411,14 +15427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185002,
-      "num": 185002,
-      "word": "在财神庙刮彩票中了20块",
-      "onboard_time": 1707466471,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184957,
       "num": 184957,
       "word": "原来不是没有年味了",
@@ -17891,6 +17899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157834,
+      "num": 157834,
+      "word": "熊猫花花带着众花来拜年啦",
+      "onboard_time": 1707466411,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157793,
       "num": 157793,
       "word": "里夫斯微信",
@@ -19059,6 +19075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145873,
+      "num": 145873,
+      "word": "i人过年能有多绝望",
+      "onboard_time": 1707467251,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145766,
       "num": 145766,
       "word": "StrayKids祝大家新年快乐",
@@ -19779,6 +19803,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 139220,
+      "num": 459706,
+      "word": "除夕天气预报全国普降红包雨",
+      "onboard_time": 1707465631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139058,
       "num": 139058,
       "word": "周鸿祎称掼蛋对社交很重要",
@@ -19865,6 +19897,14 @@
       "onboard_time": 1707041370,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138167,
+      "num": 138167,
+      "word": "香辣味可口可乐",
+      "onboard_time": 1707467312,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 138137,
@@ -20049,6 +20089,14 @@
       "onboard_time": 1707187408,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136864,
+      "num": 136864,
+      "word": "被公司的年会抽奖抠到了",
+      "onboard_time": 1707467612,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 136774,
@@ -21403,14 +21451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124954,
-      "num": 124954,
-      "word": "熊猫花花带着众花来拜年啦",
-      "onboard_time": 1707466411,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124900,
       "num": 124900,
       "word": "春晚小品混剪 来对暗号",
@@ -21617,14 +21657,6 @@
       "onboard_time": 1707362909,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122662,
-      "num": 459706,
-      "word": "除夕天气预报全国普降红包雨",
-      "onboard_time": 1707465631,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122546,
@@ -22281,6 +22313,14 @@
       "onboard_time": 1706930731,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "当代年轻人是如何拜财神的",
+      "onboard_time": 1707467492,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 115685,
@@ -25232,6 +25272,14 @@
       "word": "给打工人报销回家的车票",
       "onboard_time": 1706880393,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27664,
+      "num": 1046439,
+      "word": "年三十的仪式感要拉满",
+      "onboard_time": 1707452669,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
