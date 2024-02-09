@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707496587415,
+  "endTime": 1707498905521,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7522920,
+      "num": 7522920,
+      "word": "难忘今宵",
+      "onboard_time": 1707496556,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7282553,
       "num": 7282553,
       "word": "撒贝宁何炅连线",
@@ -40,6 +48,14 @@
       "word": "大张伟刘宇宁的节目呢",
       "onboard_time": 1707494566,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3937219,
+      "num": 3937219,
+      "word": "没有李谷一",
+      "onboard_time": 1707496744,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -67,11 +83,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2611634,
+      "raw_hot": 2684505,
       "num": 2611634,
       "word": "同时得罪了东北人和南方人",
       "onboard_time": 1707495118,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2534675,
+      "num": 2534675,
+      "word": "檀健次居然rap了",
+      "onboard_time": 1707497220,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -115,6 +139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2051892,
+      "num": 2051892,
+      "word": "春晚收视率破30%",
+      "onboard_time": 1707493514,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1985286,
+      "num": 1920426,
+      "word": "倒计时晚了",
+      "onboard_time": 1707495839,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1942902,
       "num": 1942902,
       "word": "春晚最好笑的梗",
@@ -123,19 +163,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1920426,
-      "num": 1920426,
-      "word": "倒计时晚了",
-      "onboard_time": 1707495839,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1807233,
-      "num": 1807233,
-      "word": "春晚收视率破30%",
-      "onboard_time": 1707493514,
-      "rank": 15,
+      "raw_hot": 1835082,
+      "num": 1835082,
+      "word": "十个勤天 春晚压轴",
+      "onboard_time": 1707496254,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -155,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1427856,
-      "num": 1427856,
+      "raw_hot": 1455698,
+      "num": 1455698,
       "word": "尼格买提要碎了",
       "onboard_time": 1707494232,
       "rank": 31,
@@ -187,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1316544,
+      "num": 1316544,
+      "word": "难忘今宵怎么还rap",
+      "onboard_time": 1707497694,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1204913,
       "num": 811801,
       "word": "艾热终于在春晚唱了千里万里",
@@ -201,6 +241,14 @@
       "onboard_time": 1707493757,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1046831,
+      "num": 1046831,
+      "word": "春晚没有科目三",
+      "onboard_time": 1707497694,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1001871,
@@ -243,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816453,
+      "num": 816453,
+      "word": "巴黎圣母院上春晚",
+      "onboard_time": 1707498286,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 798899,
       "num": 2287848,
       "word": "红包封面",
@@ -267,16 +323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 764933,
-      "num": 764933,
-      "word": "十个勤天 春晚压轴",
-      "onboard_time": 1707496254,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 762274,
-      "num": 1614194,
+      "num": 1780313,
       "word": "梅西杭州行取消",
       "onboard_time": 1707487217,
       "rank": 24,
@@ -331,6 +379,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 625316,
+      "num": 419511,
+      "word": "终于等到汪苏泷",
+      "onboard_time": 1707497751,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 609298,
+      "num": 417889,
+      "word": "大张伟刘宇宁的舞台好欢乐",
+      "onboard_time": 1707496989,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566906,
       "num": 566906,
       "word": "魏晨魏大勋白敬亭帅了一下又一下",
@@ -347,12 +411,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 529185,
-      "num": 529185,
-      "word": "难忘今宵",
-      "onboard_time": 1707496556,
-      "rank": 46,
+      "raw_hot": 494364,
+      "num": 415265,
+      "word": "迪丽热巴随便截图",
+      "onboard_time": 1707498820,
+      "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434086,
+      "num": 414634,
+      "word": "陈哲远发红包了",
+      "onboard_time": 1707480339,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 420462,
+      "num": 420462,
+      "word": "龙年文案",
+      "onboard_time": 1707497338,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 394065,
@@ -363,8 +443,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393261,
+      "num": 3678302,
+      "word": "咏春女舞者眼神好杀",
+      "onboard_time": 1707498227,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360912,
-      "num": 2021241,
+      "num": 2146849,
       "word": "40岁儿子跪着向妈妈讨要新年红包",
       "onboard_time": 1707481249,
       "rank": 28,
@@ -376,6 +464,22 @@
       "word": "龙年",
       "onboard_time": 1707474992,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221555,
+      "num": 396765,
+      "word": "原神",
+      "onboard_time": 1707498881,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 165256,
+      "num": 1477706,
+      "word": "放炮",
+      "onboard_time": 1707498407,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -392,6 +496,14 @@
       "word": "丫丫过年也吃上了饺子",
       "onboard_time": 1707485618,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93287,
+      "num": 418935,
+      "word": "女友爷爷失明男生拉手让他抚摸脸颊",
+      "onboard_time": 1707496617,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
