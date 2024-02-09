@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707491801695,
+  "endTime": 1707492838735,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -297,6 +297,14 @@
       "onboard_time": 1707192210,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6902755,
+      "num": 6902755,
+      "word": "魏晨魏大勋都穿白不告诉白敬亭",
+      "onboard_time": 1707491469,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 6792938,
@@ -1587,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2157942,
+      "num": 1088756,
+      "word": "魏晨魏大勋白敬亭帅了一下又一下",
+      "onboard_time": 1707491780,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2156582,
       "num": 2156582,
       "word": "干掉蜜雪冰城的是旁边的蜜雪冰城",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704723814,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1862921,
-      "num": 1862921,
-      "word": "春晚 科目三",
-      "onboard_time": 1705628670,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1859322,
-      "num": 1859322,
-      "word": "霍尊复出",
-      "onboard_time": 1705103002,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
