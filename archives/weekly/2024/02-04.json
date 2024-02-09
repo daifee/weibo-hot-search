@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707464041726,
+  "endTime": 1707466805060,
   "band_list": [
     {
       "raw_hot": 10841679,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 2035422,
-      "num": 392633,
+      "num": 459804,
       "word": "梅西香港行主办方退款50%",
       "onboard_time": 1707461313,
       "rank": 10,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1410766,
+      "num": 461073,
+      "word": "合同允许梅西因伤不上场",
+      "onboard_time": 1707463891,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1399038,
       "num": 1399038,
       "word": "郭冬临cos林俊杰",
@@ -771,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1251587,
+      "num": 1251587,
+      "word": "李谷一",
+      "onboard_time": 1707463053,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1251345,
       "num": 1251345,
       "word": "化妆师兔子",
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 1171630,
-      "num": 384876,
+      "num": 458616,
       "word": "梅西代言品牌集体沉默",
       "onboard_time": 1707454649,
       "rank": 10,
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 1094682,
-      "num": 390299,
+      "num": 460703,
       "word": "Enhypen说韩国新年",
       "onboard_time": 1707462572,
       "rank": 16,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1707108213,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 800580,
+      "num": 800580,
+      "word": "张远 终于上春晚啦",
+      "onboard_time": 1707462629,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 800301,
@@ -2715,14 +2739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 626940,
-      "num": 388855,
-      "word": "李谷一",
-      "onboard_time": 1707463053,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 626566,
       "num": 626566,
       "word": "春晚姓甄的小心点",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1707379709,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 622641,
-      "num": 382084,
-      "word": "张远 终于上春晚啦",
-      "onboard_time": 1707462629,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 621455,
@@ -3619,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482466,
+      "num": 482466,
+      "word": "早知道那么好笑就留到春晚看了",
+      "onboard_time": 1707460472,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 481468,
       "num": 481468,
       "word": "迪丽热巴对接回应后续项目",
@@ -3755,12 +3771,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 461497,
+      "num": 461497,
+      "word": "孙颖莎说龙年一起加油",
+      "onboard_time": 1707465212,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460183,
       "num": 460183,
       "word": "电影西游记真假美猴王官宣",
       "onboard_time": 1707015450,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 458492,
+      "num": 458492,
+      "word": "全国洗头日",
+      "onboard_time": 1707464372,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 454229,
+      "num": 454229,
+      "word": "陆虎 今晚像你这样的朋友们一起",
+      "onboard_time": 1707463710,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 453619,
@@ -3881,14 +3921,6 @@
       "onboard_time": 1707289649,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443413,
-      "num": 375319,
-      "word": "合同允许梅西因伤不上场",
-      "onboard_time": 1707463891,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 442985,
@@ -4627,14 +4659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372690,
-      "num": 372690,
-      "word": "早知道那么好笑就留到春晚看了",
-      "onboard_time": 1707460472,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 372527,
       "num": 295750,
       "word": "龙王为什么都姓敖",
@@ -5299,6 +5323,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 318714,
+      "num": 318714,
+      "word": "0713出息了",
+      "onboard_time": 1707463891,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318647,
       "num": 318647,
       "word": "分不清哪个是儿子哪个是爹",
@@ -5507,6 +5539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307537,
+      "num": 307537,
+      "word": "张弛蒋诗萌",
+      "onboard_time": 1707464848,
+      "rank": 21,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 307392,
       "num": 307392,
       "word": "湖北高速",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1707401856,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296577,
+      "num": 296577,
+      "word": "老人吃20颗山楂胃里长3公分结石",
+      "onboard_time": 1707462449,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 295868,
@@ -6171,6 +6219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273626,
+      "num": 273626,
+      "word": "突然发现妈妈好像也在装大人",
+      "onboard_time": 1707462932,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273454,
       "num": 273454,
       "word": "最小众的洗澡方式",
@@ -6201,6 +6257,14 @@
       "onboard_time": 1707229955,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 272919,
+      "num": 272919,
+      "word": "央视镜头下的章若楠",
+      "onboard_time": 1707465631,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 272871,
@@ -6321,14 +6385,6 @@
       "onboard_time": 1707350427,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 269688,
-      "num": 183136,
-      "word": "突然发现妈妈好像也在装大人",
-      "onboard_time": 1707462932,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 269206,
@@ -7779,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221047,
+      "num": 221047,
+      "word": "唐嫣大波浪梦回汪小姐",
+      "onboard_time": 1707465874,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220999,
       "num": 214973,
       "word": "河南春晚特效",
@@ -7905,14 +7969,6 @@
       "onboard_time": 1707393629,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 218794,
-      "num": 180088,
-      "word": "陆虎 今晚像你这样的朋友们一起",
-      "onboard_time": 1707463710,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 218336,
@@ -9739,6 +9795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189028,
+      "num": 189028,
+      "word": "一个不起眼的炒菜习惯惹癌上身",
+      "onboard_time": 1707463953,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188842,
       "num": 188842,
       "word": "禁养的烈性犬伤人犬主承担全责",
@@ -9875,6 +9939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185002,
+      "num": 185002,
+      "word": "在财神庙刮彩票中了20块",
+      "onboard_time": 1707466471,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184957,
       "num": 184957,
       "word": "原来不是没有年味了",
@@ -9897,14 +9969,6 @@
       "onboard_time": 1707404014,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184326,
-      "num": 184326,
-      "word": "老人吃20颗山楂胃里长3公分结石",
-      "onboard_time": 1707462449,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184305,
@@ -10091,6 +10155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "周深今年春晚还是独唱",
+      "onboard_time": 1707464973,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180168,
       "num": 180168,
       "word": "成人芭蕾",
@@ -10233,6 +10305,14 @@
       "onboard_time": 1707302493,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178106,
+      "num": 178106,
+      "word": "龙年表情包",
+      "onboard_time": 1707465810,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 177832,
@@ -11507,6 +11587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156602,
+      "num": 156602,
+      "word": "港府希望迈阿密国际做出解释",
+      "onboard_time": 1707465573,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156398,
       "num": 156398,
       "word": "吴磊的超大杯美式",
@@ -11856,6 +11944,14 @@
       "word": "黄渤春晚独唱",
       "onboard_time": 1707459449,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149983,
+      "num": 149983,
+      "word": "明星龙年春晚出发图",
+      "onboard_time": 1707465089,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -12217,6 +12313,14 @@
       "onboard_time": 1707384150,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145504,
+      "num": 145504,
+      "word": "东北人对过年的执念有多深",
+      "onboard_time": 1707465810,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 145312,
@@ -13003,6 +13107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135382,
+      "num": 135382,
+      "word": "杨幂龚俊笑场花絮",
+      "onboard_time": 1707464195,
+      "rank": 44,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 135041,
       "num": 135041,
       "word": "假装上班",
@@ -13315,14 +13427,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 131360,
-      "num": 131360,
-      "word": "0713出息了",
-      "onboard_time": 1707463891,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131129,
       "num": 131129,
       "word": "灰熊凯尔特人交易",
@@ -13393,14 +13497,6 @@
       "onboard_time": 1707281312,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130026,
-      "num": 130026,
-      "word": "一个不起眼的炒菜习惯惹癌上身",
-      "onboard_time": 1707463953,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129910,
@@ -13715,6 +13811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124954,
+      "num": 124954,
+      "word": "熊猫花花带着众花来拜年啦",
+      "onboard_time": 1707466411,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124874,
       "num": 124874,
       "word": "杨紫5年颜值变化",
@@ -13849,6 +13953,14 @@
       "onboard_time": 1707362909,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122662,
+      "num": 459706,
+      "word": "除夕天气预报全国普降红包雨",
+      "onboard_time": 1707465631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122546,
@@ -14169,6 +14281,14 @@
       "onboard_time": 1707095309,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "龙墩墩来到故宫了",
+      "onboard_time": 1707466771,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 118913,
@@ -14963,6 +15083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96884,
+      "num": 155638,
+      "word": "春晚演员卸妆挑战",
+      "onboard_time": 1707463594,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 96685,
       "num": 91741,
       "word": "林俊杰陶喆合唱就是爱你",
@@ -15137,14 +15265,6 @@
       "onboard_time": 1707441266,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87483,
-      "num": 155638,
-      "word": "春晚演员卸妆挑战",
-      "onboard_time": 1707463594,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 87093,
