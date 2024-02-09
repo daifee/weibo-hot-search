@@ -1,0 +1,410 @@
+{
+  "runTime": 1707453238210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1175225,
+        "num": 1175225,
+        "word": "辛芷蕾春晚节目漏的差不多了吧",
+        "onboard_time": 1707450390,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 915264,
+        "num": 915264,
+        "word": "春晚节目单啥时候出来",
+        "onboard_time": 1707438328,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32833,
+        "num": 715925,
+        "word": "用中国人的专属浪漫打开龙年",
+        "onboard_time": 1707452851,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572595,
+        "num": 572595,
+        "word": "马思纯半年瘦了50斤",
+        "onboard_time": 1707444450,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 556089,
+        "num": 556089,
+        "word": "上班",
+        "onboard_time": 1707436465,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349034,
+        "num": 349034,
+        "word": "为啥大年三十会消失初一却从不缺席",
+        "onboard_time": 1707435264,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327417,
+        "num": 327417,
+        "word": "水龙吟",
+        "onboard_time": 1707443846,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300136,
+        "num": 300136,
+        "word": "第一次上春晚的贾玲",
+        "onboard_time": 1707447209,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298266,
+        "num": 298266,
+        "word": "年夜饭",
+        "onboard_time": 1707451290,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296751,
+        "num": 296751,
+        "word": "3种假牛奶已被列入黑名单",
+        "onboard_time": 1707401915,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677987,
+        "num": 296059,
+        "word": "央媒记者评梅西事件",
+        "onboard_time": 1707448651,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287586,
+        "num": 287586,
+        "word": "55岁收到83岁妈妈的压岁钱",
+        "onboard_time": 1707447867,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262478,
+        "num": 262478,
+        "word": "肖战2024年拜年视频",
+        "onboard_time": 1707451110,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608388,
+        "num": 252262,
+        "word": "C罗大方回应球迷喊梅西",
+        "onboard_time": 1707440548,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239943,
+        "num": 239943,
+        "word": "张远王栎鑫成立婚庆公司了",
+        "onboard_time": 1707445408,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227193,
+        "num": 227193,
+        "word": "李宇春北京台春晚官宣",
+        "onboard_time": 1707452851,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224389,
+        "num": 224389,
+        "word": "花花年夜饭把盘子都吃了",
+        "onboard_time": 1707445767,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213749,
+        "num": 213749,
+        "word": "四美",
+        "onboard_time": 1707441988,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197025,
+        "num": 197025,
+        "word": "除夕文案",
+        "onboard_time": 1707433941,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15811,
+        "num": 195276,
+        "word": "我在元梦当财神",
+        "onboard_time": 1707451533,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27339,
+        "num": 194992,
+        "word": "张雨绮发绮开得胜红包",
+        "onboard_time": 1707451768,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377073,
+        "num": 194975,
+        "word": "00后男子入赘相恋八年女友",
+        "onboard_time": 1707449610,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194935,
+        "num": 194935,
+        "word": "热辣滚烫",
+        "onboard_time": 1707450089,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186625,
+        "num": 186625,
+        "word": "鹿晗2023年终总结",
+        "onboard_time": 1707451170,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182993,
+        "num": 182993,
+        "word": "成毅特意停车看烟花",
+        "onboard_time": 1707446188,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174678,
+        "num": 174678,
+        "word": "前苹果华人工程师因窃取汽车机密入狱",
+        "onboard_time": 1707446969,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170235,
+        "num": 170235,
+        "word": "迪丽热巴祝福春来更有好花枝",
+        "onboard_time": 1707450568,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166820,
+        "num": 166820,
+        "word": "已在工位",
+        "onboard_time": 1707440247,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166742,
+        "num": 166742,
+        "word": "王俊凯焕蓝梦想基金转为私募",
+        "onboard_time": 1707451829,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154930,
+        "num": 154930,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149967,
+        "num": 149967,
+        "word": "飞驰人生2",
+        "onboard_time": 1707452130,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146015,
+        "num": 146015,
+        "word": "传统丈夫的一天",
+        "onboard_time": 1707452427,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "过年要压岁钱的狠人行为",
+        "onboard_time": 1707450688,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137298,
+        "num": 137298,
+        "word": "电影野孩子",
+        "onboard_time": 1707449312,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136945,
+        "num": 136945,
+        "word": "这是金在中不是洪锡天",
+        "onboard_time": 1707449069,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82014,
+        "num": 136290,
+        "word": "乌克兰武装部队总司令换人",
+        "onboard_time": 1707444626,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136155,
+        "num": 136155,
+        "word": "除夕快乐",
+        "onboard_time": 1707434720,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "王阳首登春晚",
+        "onboard_time": 1707447570,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133494,
+        "num": 133494,
+        "word": "新春祝福",
+        "onboard_time": 1707452370,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90982,
+        "num": 129656,
+        "word": "库里11记三分",
+        "onboard_time": 1707446486,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128263,
+        "num": 128263,
+        "word": "给英国人表演一点神秘的东方力量",
+        "onboard_time": 1707452729,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126596,
+        "num": 126596,
+        "word": "到现在都没适应被亲戚小孩叫人",
+        "onboard_time": 1707452970,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122368,
+        "num": 122368,
+        "word": "王者荣耀",
+        "onboard_time": 1707433759,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120998,
+        "num": 120998,
+        "word": "张小斐吊带红裙",
+        "onboard_time": 1707444808,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115732,
+        "num": 115732,
+        "word": "准备年夜饭",
+        "onboard_time": 1707439645,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106986,
+        "num": 106986,
+        "word": "王一博愿新年胜旧年",
+        "onboard_time": 1707450510,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103060,
+        "num": 103060,
+        "word": "回村过上称王称帝的日子",
+        "onboard_time": 1707453210,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99624,
+        "num": 99624,
+        "word": "草木皆冰",
+        "onboard_time": 1707452189,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85287,
+        "num": 95853,
+        "word": "洛阳文科状元返乡就业称底气满满",
+        "onboard_time": 1707453210,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95486,
+        "num": 95486,
+        "word": "宋轶春晚大漏勺",
+        "onboard_time": 1707402517,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

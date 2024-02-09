@@ -1,6 +1,6 @@
 {
   "startTime": 1707409308235,
-  "endTime": 1707452393221,
+  "endTime": 1707453238210,
   "band_list": [
     {
       "raw_hot": 3599833,
@@ -35,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1175225,
+      "num": 1175225,
+      "word": "辛芷蕾春晚节目漏的差不多了吧",
+      "onboard_time": 1707450390,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1145038,
       "num": 1145038,
       "word": "3种假牛奶已被列入黑名单",
       "onboard_time": 1707401915,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1098191,
-      "num": 1098191,
-      "word": "辛芷蕾春晚节目漏的差不多了吧",
-      "onboard_time": 1707450390,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1089002,
@@ -147,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 594514,
-      "num": 284442,
+      "raw_hot": 677987,
+      "num": 296059,
       "word": "央媒记者评梅西事件",
       "onboard_time": 1707448651,
       "rank": 49,
@@ -259,7 +259,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366049,
+      "raw_hot": 377073,
       "num": 207986,
       "word": "00后男子入赘相恋八年女友",
       "onboard_time": 1707449610,
@@ -363,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287586,
+      "num": 287586,
+      "word": "55岁收到83岁妈妈的压岁钱",
+      "onboard_time": 1707447867,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284401,
       "num": 284401,
       "word": "梅西发博回应",
@@ -395,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276360,
-      "num": 276360,
-      "word": "55岁收到83岁妈妈的压岁钱",
-      "onboard_time": 1707447867,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272195,
       "num": 240916,
       "word": "公公突然给了我1万块压岁钱",
@@ -417,6 +417,14 @@
       "onboard_time": 1707447570,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262478,
+      "num": 262478,
+      "word": "肖战2024年拜年视频",
+      "onboard_time": 1707451110,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 257364,
@@ -467,20 +475,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227193,
+      "num": 227193,
+      "word": "李宇春北京台春晚官宣",
+      "onboard_time": 1707452851,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226605,
       "num": 226605,
       "word": "梅西的伤与友谊赛的商",
       "onboard_time": 1707395010,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225062,
-      "num": 225062,
-      "word": "肖战2024年拜年视频",
-      "onboard_time": 1707451110,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 220774,
@@ -531,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194935,
+      "num": 194935,
+      "word": "热辣滚烫",
+      "onboard_time": 1707450089,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192401,
       "num": 192401,
       "word": "电影野孩子",
@@ -545,14 +561,6 @@
       "onboard_time": 1707406833,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179134,
-      "num": 179134,
-      "word": "热辣滚烫",
-      "onboard_time": 1707450089,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 177351,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166742,
+      "num": 166742,
+      "word": "王俊凯焕蓝梦想基金转为私募",
+      "onboard_time": 1707451829,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165288,
       "num": 216161,
       "word": "父母一边告诉你过年骂人不吉利",
@@ -683,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149967,
+      "num": 149967,
+      "word": "飞驰人生2",
+      "onboard_time": 1707452130,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149788,
       "num": 149788,
       "word": "小龙糕",
@@ -713,14 +737,6 @@
       "onboard_time": 1707439767,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148327,
-      "num": 148327,
-      "word": "王俊凯焕蓝梦想基金转为私募",
-      "onboard_time": 1707451829,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 147863,
@@ -761,6 +777,14 @@
       "onboard_time": 1707444626,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 146015,
+      "num": 146015,
+      "word": "传统丈夫的一天",
+      "onboard_time": 1707452427,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 144791,
@@ -827,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133494,
+      "num": 746822,
+      "word": "新春祝福",
+      "onboard_time": 1707452370,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131625,
       "num": 131625,
       "word": "过年的时候最想拥有的超能力",
@@ -843,6 +875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128263,
+      "num": 128263,
+      "word": "给英国人表演一点神秘的东方力量",
+      "onboard_time": 1707452729,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128006,
       "num": 120677,
       "word": "魏大勋穿大衣 内娱阿加西",
@@ -857,6 +897,14 @@
       "onboard_time": 1707397710,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126596,
+      "num": 126596,
+      "word": "到现在都没适应被亲戚小孩叫人",
+      "onboard_time": 1707452970,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 126096,
@@ -1011,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109802,
-      "num": 109802,
-      "word": "飞驰人生2",
-      "onboard_time": 1707452130,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 109801,
       "num": 119450,
       "word": "科比被劝休息说攒钱看我比赛的人怎么办",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1707385109,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103060,
+      "num": 103060,
+      "word": "回村过上称王称帝的日子",
+      "onboard_time": 1707453210,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 100837,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1707412523,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85287,
+      "num": 95853,
+      "word": "洛阳文科状元返乡就业称底气满满",
+      "onboard_time": 1707453210,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83351,
@@ -1315,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32833,
+      "num": 715925,
+      "word": "用中国人的专属浪漫打开龙年",
+      "onboard_time": 1707452851,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31001,
       "num": 1204212,
       "word": "在非遗中邂逅龙年氛围感",
@@ -1332,7 +1396,7 @@
     },
     {
       "raw_hot": 29917,
-      "num": 109836,
+      "num": 194992,
       "word": "张雨绮发绮开得胜红包",
       "onboard_time": 1707451768,
       "rank": 40,
@@ -1348,7 +1412,7 @@
     },
     {
       "raw_hot": 25002,
-      "num": 156066,
+      "num": 195276,
       "word": "我在元梦当财神",
       "onboard_time": 1707451533,
       "rank": 30,
@@ -1384,14 +1448,6 @@
       "word": "除夕浙江服务区免费为返乡人员提供年夜饭",
       "onboard_time": 1707423376,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10355,
-      "num": 746822,
-      "word": "新春祝福",
-      "onboard_time": 1707452370,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
