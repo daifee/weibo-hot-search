@@ -1,0 +1,410 @@
+{
+  "runTime": 1707448678541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1031693,
+        "num": 1031693,
+        "word": "马思纯半年瘦了50斤",
+        "onboard_time": 1707444450,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 894359,
+        "num": 894359,
+        "word": "张远王栎鑫成立婚庆公司了",
+        "onboard_time": 1707445408,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17930,
+        "num": 718079,
+        "word": "在非遗中邂逅龙年氛围感",
+        "onboard_time": 1707399034,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717588,
+        "num": 717588,
+        "word": "上班",
+        "onboard_time": 1707436465,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 661975,
+        "num": 661975,
+        "word": "春晚节目单啥时候出来",
+        "onboard_time": 1707438328,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415676,
+        "num": 415676,
+        "word": "第一次上春晚的贾玲",
+        "onboard_time": 1707447209,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361695,
+        "num": 361695,
+        "word": "为啥大年三十会消失初一却从不缺席",
+        "onboard_time": 1707435264,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360010,
+        "num": 360010,
+        "word": "四美",
+        "onboard_time": 1707441988,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269761,
+        "num": 269761,
+        "word": "3种假牛奶已被列入黑名单",
+        "onboard_time": 1707401915,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223135,
+        "num": 258043,
+        "word": "花花年夜饭把盘子都吃了",
+        "onboard_time": 1707445767,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846605,
+        "num": 257557,
+        "word": "C罗大方回应球迷喊梅西",
+        "onboard_time": 1707440548,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256860,
+        "num": 256860,
+        "word": "除夕文案",
+        "onboard_time": 1707433941,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250347,
+        "num": 250347,
+        "word": "已在工位",
+        "onboard_time": 1707440247,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242883,
+        "num": 242883,
+        "word": "水龙吟",
+        "onboard_time": 1707443846,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835713,
+        "num": 240582,
+        "word": "除夕上班没有三倍工资",
+        "onboard_time": 1707445650,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238212,
+        "num": 238212,
+        "word": "成毅特意停车看烟花",
+        "onboard_time": 1707446188,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222636,
+        "num": 222636,
+        "word": "张小斐吊带红裙",
+        "onboard_time": 1707444808,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220216,
+        "num": 220216,
+        "word": "前苹果华人工程师因窃取汽车机密入狱",
+        "onboard_time": 1707446969,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201329,
+        "num": 201329,
+        "word": "一年烫一次的头",
+        "onboard_time": 1707442527,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158274,
+        "num": 196372,
+        "word": "梅西发博回应",
+        "onboard_time": 1707300511,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194627,
+        "num": 194627,
+        "word": "除夕快乐",
+        "onboard_time": 1707434720,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184054,
+        "num": 184054,
+        "word": "王阳首登春晚",
+        "onboard_time": 1707447570,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177911,
+        "num": 177911,
+        "word": "胡锡进说梅西没那么大本事和分量",
+        "onboard_time": 1707434720,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171889,
+        "num": 171889,
+        "word": "宋轶春晚大漏勺",
+        "onboard_time": 1707402517,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162244,
+        "num": 162244,
+        "word": "55岁收到83岁妈妈的压岁钱",
+        "onboard_time": 1707447867,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162108,
+        "num": 162108,
+        "word": "白月梵星主演接力画龙庆新年",
+        "onboard_time": 1707448289,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149351,
+        "num": 149351,
+        "word": "春节摄影大赛",
+        "onboard_time": 1707448169,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "库里11记三分",
+        "onboard_time": 1707446486,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127072,
+        "num": 143880,
+        "word": "乌克兰武装部队总司令换人",
+        "onboard_time": 1707444626,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 140815,
+        "word": "足球比赛将引入蓝牌",
+        "onboard_time": 1707448049,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140747,
+        "num": 140747,
+        "word": "丁俊晖回复吴磊",
+        "onboard_time": 1707402517,
+        "rank": 30,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 127759,
+        "num": 127759,
+        "word": "龙不再翻译为dragon而是loong",
+        "onboard_time": 1707383794,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127329,
+        "num": 127329,
+        "word": "钟丽缇女儿考拉怼网友",
+        "onboard_time": 1707404253,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118129,
+        "num": 118129,
+        "word": "汉服 春晚",
+        "onboard_time": 1707440787,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 117715,
+        "word": "小乔令牌",
+        "onboard_time": 1707435504,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109725,
+        "num": 109725,
+        "word": "春节有氧运动 退一万步讲",
+        "onboard_time": 1707446188,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127860,
+        "num": 108937,
+        "word": "官方回应网传21岁男子领养5岁女孩",
+        "onboard_time": 1707404977,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107366,
+        "num": 107366,
+        "word": "决定离家出走的小女孩",
+        "onboard_time": 1707447387,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105612,
+        "num": 105612,
+        "word": "球迷起哄喊梅西C罗示意大声点",
+        "onboard_time": 1707444209,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100099,
+        "num": 100099,
+        "word": "科比雕像",
+        "onboard_time": 1707437246,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96183,
+        "num": 96183,
+        "word": "恋与深空",
+        "onboard_time": 1707443667,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94947,
+        "num": 94947,
+        "word": "王者荣耀",
+        "onboard_time": 1707433759,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90601,
+        "num": 90601,
+        "word": "穆里尼奥说执教梅西是荣耀",
+        "onboard_time": 1707446368,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87028,
+        "num": 87028,
+        "word": "公公突然给了我1万块压岁钱",
+        "onboard_time": 1707400897,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84561,
+        "num": 84561,
+        "word": "长相思吧官博发长文",
+        "onboard_time": 1707398914,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81785,
+        "num": 81785,
+        "word": "郭冬临cos林俊杰",
+        "onboard_time": 1707403176,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80653,
+        "num": 80653,
+        "word": "养猫人收拾行李总共分几步",
+        "onboard_time": 1707448470,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78119,
+        "num": 78119,
+        "word": "龙年祝福语",
+        "onboard_time": 1707442288,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77889,
+        "num": 77889,
+        "word": "库里23000分",
+        "onboard_time": 1707448588,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77624,
+        "num": 77624,
+        "word": "央媒记者评梅西事件",
+        "onboard_time": 1707448651,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年春节团拜会#"
+    }
+  }
+}
