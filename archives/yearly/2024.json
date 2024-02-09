@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707492838735,
+  "endTime": 1707495657871,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -33,6 +33,14 @@
       "onboard_time": 1707483679,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13074244,
+      "num": 13074244,
+      "word": "过年好",
+      "onboard_time": 1707493577,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 12688562,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7282553,
+      "num": 7282553,
+      "word": "撒贝宁何炅连线",
+      "onboard_time": 1707494046,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7173131,
       "num": 7981415,
       "word": "华中农大通报黄某某学术不端调查情况",
@@ -313,6 +329,14 @@
       "onboard_time": 1705147906,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6545130,
+      "num": 6545130,
+      "word": "大张伟刘宇宁的节目呢",
+      "onboard_time": 1707494566,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 6470111,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1707010589,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2447129,
+      "num": 2447129,
+      "word": "曾舜晞的牌也没对上",
+      "onboard_time": 1707492135,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 2441643,
@@ -2115,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1942902,
+      "num": 1942902,
+      "word": "春晚最好笑的梗",
+      "onboard_time": 1707493396,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1941098,
       "num": 1941098,
       "word": "日本首例特定未成年人被判死刑",
@@ -2176,6 +2216,14 @@
       "word": "小品 无聊",
       "onboard_time": 1707397472,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1925378,
+      "num": 1925378,
+      "word": "新疆分会场像开了倍速",
+      "onboard_time": 1707492674,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2353,54 +2401,6 @@
       "onboard_time": 1704030245,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1870424,
-      "num": 1870424,
-      "word": "好消息1月工资年前发",
-      "onboard_time": 1706355869,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1869343,
-      "num": 1869343,
-      "word": "梅西账号评论区被网友围攻",
-      "onboard_time": 1707213992,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1868676,
-      "num": 1868676,
-      "word": "老人突然离世三十九万元存款难取出",
-      "onboard_time": 1705391970,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1864859,
-      "num": 1864859,
-      "word": "花花C位",
-      "onboard_time": 1707481191,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1864085,
-      "num": 1864085,
-      "word": "河南发生火灾学校发布通报",
-      "onboard_time": 1706020054,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1863825,
-      "num": 1863825,
-      "word": "乙流",
-      "onboard_time": 1704723814,
-      "rank": 10,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

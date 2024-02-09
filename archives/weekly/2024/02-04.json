@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707492838735,
+  "endTime": 1707495657871,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -33,6 +33,14 @@
       "onboard_time": 1707483679,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13074244,
+      "num": 13074244,
+      "word": "过年好",
+      "onboard_time": 1707493577,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 12628915,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7282553,
+      "num": 7282553,
+      "word": "撒贝宁何炅连线",
+      "onboard_time": 1707494046,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7173131,
       "num": 7981415,
       "word": "华中农大通报黄某某学术不端调查情况",
@@ -136,6 +152,14 @@
       "word": "魏晨魏大勋都穿白不告诉白敬亭",
       "onboard_time": 1707491469,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6545130,
+      "num": 6545130,
+      "word": "大张伟刘宇宁的节目呢",
+      "onboard_time": 1707494566,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2447129,
+      "num": 2447129,
+      "word": "曾舜晞的牌也没对上",
+      "onboard_time": 1707492135,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2441643,
       "num": 2441643,
       "word": "龙不再翻译为dragon而是loong",
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1942902,
+      "num": 1942902,
+      "word": "春晚最好笑的梗",
+      "onboard_time": 1707493396,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1940156,
       "num": 1940156,
       "word": "9岁小糯米近照",
@@ -600,6 +640,14 @@
       "word": "小品 无聊",
       "onboard_time": 1707397472,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1925378,
+      "num": 1925378,
+      "word": "新疆分会场像开了倍速",
+      "onboard_time": 1707492674,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -745,6 +793,14 @@
       "onboard_time": 1707175283,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1700261,
+      "num": 1700261,
+      "word": "春晚收视率破30%",
+      "onboard_time": 1707493514,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1692878,
@@ -1035,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1427511,
+      "num": 1427511,
+      "word": "曾舜晞 我明明对上了",
+      "onboard_time": 1707494994,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1414647,
       "num": 1414647,
       "word": "萧敬腾不愿妻子受生育之苦",
@@ -1073,14 +1137,6 @@
       "onboard_time": 1707079695,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1377188,
-      "num": 1026189,
-      "word": "曾舜晞的牌也没对上",
-      "onboard_time": 1707492135,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1376336,
@@ -1139,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1347948,
+      "num": 796429,
+      "word": "南方小土豆虽迟但到",
+      "onboard_time": 1707492857,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1339319,
       "num": 1339319,
       "word": "华中农大黄某某被解聘",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1707372508,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1319155,
+      "num": 760867,
+      "word": "同时得罪了东北人和南方人",
+      "onboard_time": 1707495118,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1306923,
@@ -1216,6 +1288,14 @@
       "word": "马凡舒实在美丽",
       "onboard_time": 1707481249,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1256755,
+      "num": 755408,
+      "word": "马丽的鞋好看",
+      "onboard_time": 1707494287,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1283,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1204913,
+      "num": 740542,
+      "word": "艾热终于在春晚唱了千里万里",
+      "onboard_time": 1707492771,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1202149,
       "num": 1202149,
       "word": "宝妈进群刷单5天被骗580万",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1707373289,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170304,
+      "num": 752440,
+      "word": "只听声就知道是孙楠张杰",
+      "onboard_time": 1707493757,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1169126,
@@ -1667,6 +1763,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 1051102,
+      "num": 736744,
+      "word": "尼格买提要碎了",
+      "onboard_time": 1707494232,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1050176,
       "num": 1050176,
       "word": "木村拓哉俩女儿颜值",
@@ -1761,6 +1865,14 @@
       "onboard_time": 1707202170,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1001871,
+      "num": 733430,
+      "word": "武术 还得是袁和平",
+      "onboard_time": 1707493634,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 998252,
@@ -2451,14 +2563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 808666,
-      "num": 808666,
-      "word": "新疆分会场像开了倍速",
-      "onboard_time": 1707492674,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 808318,
       "num": 622950,
       "word": "霍启刚称梅西事件牵涉重大公众利益",
@@ -2537,6 +2641,14 @@
       "onboard_time": 1707482358,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 798899,
+      "num": 798899,
+      "word": "红包封面",
+      "onboard_time": 1707478956,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 797652,
@@ -2641,6 +2753,14 @@
       "onboard_time": 1707121292,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779540,
+      "num": 798700,
+      "word": "杨幂好甜",
+      "onboard_time": 1707495183,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 777051,
@@ -3155,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676720,
+      "num": 676720,
+      "word": "我的山花我的双北",
+      "onboard_time": 1707494816,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 676664,
       "num": 676664,
       "word": "大雪封路村民15元方便面被批评贵",
@@ -3289,6 +3417,14 @@
       "onboard_time": 1707022890,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653331,
+      "num": 653331,
+      "word": "古巨基苏有朋眼神拉丝",
+      "onboard_time": 1707493268,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 650922,
@@ -3971,6 +4107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544511,
+      "num": 544511,
+      "word": "张艺兴十字路口跳舞",
+      "onboard_time": 1707495598,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543535,
       "num": 543535,
       "word": "当一个行业开始赚钱女性就被迫离开",
@@ -4441,14 +4585,6 @@
       "onboard_time": 1707053973,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484314,
-      "num": 767016,
-      "word": "红包封面",
-      "onboard_time": 1707478956,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 483110,
@@ -5304,6 +5440,14 @@
       "word": "新疆地震",
       "onboard_time": 1707005789,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394065,
+      "num": 2451814,
+      "word": "龙年第一条微博",
+      "onboard_time": 1707487647,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -12819,14 +12963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155964,
-      "num": 1045773,
-      "word": "龙年第一条微博",
-      "onboard_time": 1707487647,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155960,
       "num": 155960,
       "word": "过年要压岁钱的狠人行为",
@@ -17427,6 +17563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40121,
+      "num": 1793650,
+      "word": "蛋仔派对迪士尼",
+      "onboard_time": 1707494400,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39173,
       "num": 39173,
       "word": "吴磊赵今麦床头咚的一百种姿势",
@@ -17761,6 +17905,14 @@
       "onboard_time": 1706979926,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24616,
+      "num": 704043,
+      "word": "春晚幸运儿在京东抽中汽车",
+      "onboard_time": 1707495053,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 24203,
