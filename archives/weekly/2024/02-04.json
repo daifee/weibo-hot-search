@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707560244731,
+  "endTime": 1707561230305,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2823506,
+      "num": 2823506,
+      "word": "贾玲瘦下来和张小斐好像",
+      "onboard_time": 1707557796,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2775213,
       "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
@@ -473,14 +481,6 @@
       "onboard_time": 1707482890,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2541834,
-      "num": 2541834,
-      "word": "贾玲瘦下来和张小斐好像",
-      "onboard_time": 1707557796,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 2534675,
@@ -1412,7 +1412,7 @@
     },
     {
       "raw_hot": 1326303,
-      "num": 949691,
+      "num": 1125909,
       "word": "贾玲的宝贵到底是什么",
       "onboard_time": 1707557796,
       "rank": 10,
@@ -1476,7 +1476,7 @@
     },
     {
       "raw_hot": 1271503,
-      "num": 942549,
+      "num": 1111118,
       "word": "迪丽热巴这一脚",
       "onboard_time": 1707556294,
       "rank": 30,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1707056197,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1241468,
+      "num": 1241468,
+      "word": "初六前可以不用来看兵马俑了",
+      "onboard_time": 1707555696,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 1235041,
@@ -1881,14 +1889,6 @@
       "onboard_time": 1707121171,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1096674,
-      "num": 1096674,
-      "word": "初六前可以不用来看兵马俑了",
-      "onboard_time": 1707555696,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 1096077,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1707127891,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 791678,
+      "num": 791678,
+      "word": "以后春晚不许三个人一起上来了",
+      "onboard_time": 1707559775,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 790362,
@@ -4979,6 +4987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 508295,
+      "num": 1139410,
+      "word": "中国女篮半场落后法国20分",
+      "onboard_time": 1707559296,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507866,
       "num": 507866,
       "word": "陈丽君 李云霄",
@@ -5201,14 +5217,6 @@
       "onboard_time": 1707117452,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 487296,
-      "num": 487296,
-      "word": "中国女篮半场落后法国20分",
-      "onboard_time": 1707559296,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 485515,
@@ -5483,6 +5491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456921,
+      "num": 456921,
+      "word": "空气炸锅 这家没我得散",
+      "onboard_time": 1707557374,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 455926,
       "num": 623528,
       "word": "龙年文案",
@@ -5497,14 +5513,6 @@
       "onboard_time": 1707007229,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452130,
-      "num": 452130,
-      "word": "空气炸锅 这家没我得散",
-      "onboard_time": 1707557374,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 451958,
@@ -5600,6 +5608,14 @@
       "word": "九重紫官宣阵容",
       "onboard_time": 1707385651,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446378,
+      "num": 425157,
+      "word": "唐嫣回应父亲每日接送下班",
+      "onboard_time": 1707556954,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5872,14 +5888,6 @@
       "word": "吴磊 在娱乐圈当运动员",
       "onboard_time": 1707057158,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 419905,
-      "num": 419905,
-      "word": "唐嫣回应父亲每日接送下班",
-      "onboard_time": 1707556954,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -6281,6 +6289,14 @@
       "onboard_time": 1707352051,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392057,
+      "num": 392057,
+      "word": "飞驰人生2微博开分9.3",
+      "onboard_time": 1707558157,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 390763,
@@ -6699,14 +6715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360583,
-      "num": 360583,
-      "word": "飞驰人生2微博开分9.3",
-      "onboard_time": 1707558157,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 359821,
       "num": 359821,
       "word": "林亦扬 假的",
@@ -7049,6 +7057,14 @@
       "onboard_time": 1706985739,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332329,
+      "num": 332329,
+      "word": "热辣滚烫首波观众反馈",
+      "onboard_time": 1707560856,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 332146,
@@ -7851,6 +7867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 296520,
+      "num": 296520,
+      "word": "花花的认养者去看花花也要排队",
+      "onboard_time": 1707556778,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295868,
       "num": 256192,
       "word": "时代少年团王者直播首秀",
@@ -7985,6 +8009,14 @@
       "onboard_time": 1707396392,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290921,
+      "num": 290921,
+      "word": "被父母催婚整崩溃了",
+      "onboard_time": 1707555936,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 290595,
@@ -8563,14 +8595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268441,
-      "num": 268441,
-      "word": "被父母催婚整崩溃了",
-      "onboard_time": 1707555936,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267685,
       "num": 785823,
       "word": "李武军发国乒包饺子现场",
@@ -8779,6 +8803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259036,
+      "num": 259036,
+      "word": "把球给李梦",
+      "onboard_time": 1707558996,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258410,
       "num": 255421,
       "word": "能不能不煽情",
@@ -8985,14 +9017,6 @@
       "onboard_time": 1707446188,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254865,
-      "num": 284542,
-      "word": "花花的认养者去看花花也要排队",
-      "onboard_time": 1707556778,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254590,
@@ -9355,14 +9379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243856,
-      "num": 243856,
-      "word": "把球给李梦",
-      "onboard_time": 1707558996,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243811,
       "num": 243811,
       "word": "湖北约4000台车堵在路上",
@@ -9705,14 +9721,6 @@
       "onboard_time": 1707228213,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234929,
-      "num": 234929,
-      "word": "以后春晚不许三个人一起上来了",
-      "onboard_time": 1707559775,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 234811,
@@ -13355,6 +13363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170913,
+      "num": 170913,
+      "word": "飞驰人生2彩蛋",
+      "onboard_time": 1707559475,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170773,
       "num": 170773,
       "word": "花花上春晚啦",
@@ -13897,14 +13913,6 @@
       "onboard_time": 1707300692,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162121,
-      "num": 162121,
-      "word": "飞驰人生2彩蛋",
-      "onboard_time": 1707559475,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 162032,
@@ -16243,6 +16251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131634,
+      "num": 135317,
+      "word": "红毯先生",
+      "onboard_time": 1707558635,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131625,
       "num": 131625,
       "word": "过年的时候最想拥有的超能力",
@@ -16707,14 +16723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124933,
-      "num": 135317,
-      "word": "红毯先生",
-      "onboard_time": 1707558635,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 124874,
       "num": 124874,
       "word": "杨紫5年颜值变化",
@@ -16793,6 +16801,14 @@
       "onboard_time": 1707308855,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124093,
+      "num": 124093,
+      "word": "猫言猫语",
+      "onboard_time": 1707560856,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123999,
@@ -18371,6 +18387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82406,
+      "num": 123959,
+      "word": "故宫的中国龙纹太精美了",
+      "onboard_time": 1707558398,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81965,
       "num": 81965,
       "word": "全红婵双冠王",
@@ -19723,8 +19747,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19295,
-      "num": 730582,
+      "raw_hot": 20355,
+      "num": 804103,
       "word": "张大大叫你到元梦领红包",
       "onboard_time": 1707559235,
       "rank": 14,
