@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707539635210,
+  "endTime": 1707542104459,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -619,6 +619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590993,
+      "num": 336163,
+      "word": "檀健次猎罪图鉴2沈翊定妆",
+      "onboard_time": 1707540154,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 584315,
+      "num": 336021,
+      "word": "小尼扑克对不上的原因",
+      "onboard_time": 1707540636,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580827,
       "num": 457031,
       "word": "工作捅娄子了想想尼格买提",
@@ -697,6 +713,14 @@
       "onboard_time": 1707527981,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529512,
+      "num": 332730,
+      "word": "意媒曝朱婷收到意土豪门邀约",
+      "onboard_time": 1707540695,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 520230,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361764,
+      "num": 333836,
+      "word": "沙溢谈贾玲在片场流泪",
+      "onboard_time": 1707540996,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360912,
       "num": 2146849,
       "word": "40岁儿子跪着向妈妈讨要新年红包",
@@ -956,7 +988,7 @@
     },
     {
       "raw_hot": 316819,
-      "num": 316819,
+      "num": 334751,
       "word": "感觉这只橘猫快要碎了",
       "onboard_time": 1707538537,
       "rank": 49,
@@ -987,6 +1019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289653,
+      "num": 244668,
+      "word": "如愿",
+      "onboard_time": 1707539618,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267116,
+      "num": 200308,
+      "word": "刘耀文路演",
+      "onboard_time": 1707541891,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258028,
       "num": 258028,
       "word": "loong",
@@ -1011,20 +1059,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244668,
-      "num": 244668,
-      "word": "如愿",
-      "onboard_time": 1707539618,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232862,
       "num": 408116,
       "word": "春节压岁钱花光了我的年终奖",
       "onboard_time": 1707530679,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224622,
+      "num": 224622,
+      "word": "恋与非遗花饽饽拜年曲",
+      "onboard_time": 1707541596,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 221555,
@@ -1051,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197583,
+      "num": 197583,
+      "word": "巨人 三笠大美人",
+      "onboard_time": 1707539798,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 186284,
       "num": 182721,
       "word": "被鞭炮声吓到发抖的萨摩耶",
@@ -1067,12 +1123,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177051,
+      "num": 203686,
+      "word": "林高远送龙年祝福",
+      "onboard_time": 1707541775,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174494,
       "num": 174494,
       "word": "春晚串烧",
       "onboard_time": 1707502411,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171518,
+      "num": 332866,
+      "word": "北方人爱吃饺子为啥赚钱的是南方品牌",
+      "onboard_time": 1707540277,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 169346,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1707498407,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164577,
+      "num": 198100,
+      "word": "湖人半场87分",
+      "onboard_time": 1707541956,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 146426,
@@ -1275,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68691,
+      "num": 382132,
+      "word": "王者荣耀拜年手势舞",
+      "onboard_time": 1707538057,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66704,
       "num": 66704,
       "word": "胡歌对着谭爷爷唱得好开心",
@@ -1315,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49980,
-      "num": 382132,
-      "word": "王者荣耀拜年手势舞",
-      "onboard_time": 1707538057,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 48650,
       "num": 539853,
       "word": "除夕",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1707511576,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43977,
+      "num": 334467,
+      "word": "李一桐带肉肉拜年发红包",
+      "onboard_time": 1707541116,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 42869,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1707505819,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27488,
+      "num": 335589,
+      "word": "大年初一来元梦领红包",
+      "onboard_time": 1707541237,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 24887,
