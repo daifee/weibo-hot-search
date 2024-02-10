@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707585347977,
+  "endTime": 1707586441005,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -13459,6 +13459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249189,
+      "num": 249189,
+      "word": "第二十条豆瓣开分8.0分",
+      "onboard_time": 1707581611,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248483,
       "num": 248483,
       "word": "已经有一批回家的人又逃回去了",
@@ -13793,14 +13801,6 @@
       "onboard_time": 1707142657,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241120,
-      "num": 241120,
-      "word": "第二十条豆瓣开分8.0分",
-      "onboard_time": 1707581611,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 241105,
@@ -27219,6 +27219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94810,
+      "num": 94810,
+      "word": "周星驰接员工红包",
+      "onboard_time": 1707585024,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94212,
       "num": 94212,
       "word": "奶牛猫舞团新舞蹈",
@@ -28769,6 +28777,14 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40684,
+      "num": 52150,
+      "word": "其实摸到的是孙女的幸福",
+      "onboard_time": 1707586286,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 39896,
