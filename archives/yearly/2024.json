@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707569016545,
+  "endTime": 1707571133196,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -144,6 +144,14 @@
       "word": "贾玲 真的震撼",
       "onboard_time": 1707567696,
       "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 9150566,
+      "num": 9150566,
+      "word": "贾玲为角色增重40斤再减重100斤",
+      "onboard_time": 1707570400,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705028849,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1930170,
-      "num": 1930170,
-      "word": "咳嗽时把痰咽下去伤身体吗",
-      "onboard_time": 1706847629,
-      "rank": 40,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

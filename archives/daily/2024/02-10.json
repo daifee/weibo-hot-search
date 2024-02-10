@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707569016545,
+  "endTime": 1707571133196,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -32,6 +32,14 @@
       "word": "贾玲 真的震撼",
       "onboard_time": 1707567696,
       "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 9150566,
+      "num": 9150566,
+      "word": "贾玲为角色增重40斤再减重100斤",
+      "onboard_time": 1707570400,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1189275,
+      "num": 1189275,
+      "word": "韩红瘦了",
+      "onboard_time": 1707567819,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1176355,
       "num": 1176355,
       "word": "极兔速递否认发布争议言论",
@@ -473,6 +489,14 @@
       "onboard_time": 1707542376,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1103255,
+      "num": 1103255,
+      "word": "这俩梨涡我都不敢认了",
+      "onboard_time": 1707569260,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1087388,
@@ -624,6 +648,14 @@
       "word": "迪丽热巴随便截图",
       "onboard_time": 1707498820,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 805426,
+      "num": 805426,
+      "word": "鞠婧祎 画中仙",
+      "onboard_time": 1707569801,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660720,
+      "num": 646174,
+      "word": "肖战站C位果然是马丽雷佳音商量好的",
+      "onboard_time": 1707569142,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 656332,
       "num": 656332,
       "word": "陈哲远的年夜饭",
@@ -809,6 +849,14 @@
       "onboard_time": 1707473432,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 645921,
+      "num": 645921,
+      "word": "沈腾 巴音布鲁克之王",
+      "onboard_time": 1707569199,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 638733,
@@ -1011,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520171,
-      "num": 520171,
-      "word": "韩红瘦了",
-      "onboard_time": 1707567819,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 519364,
       "num": 381675,
       "word": "东方卫视春晚",
@@ -1107,12 +1147,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 474535,
+      "num": 218351,
+      "word": "东方卫视春晚 繁花剧组",
+      "onboard_time": 1707570462,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473622,
       "num": 3678302,
       "word": "咏春女舞者眼神好杀",
       "onboard_time": 1707498227,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470232,
+      "num": 218154,
+      "word": "热辣滚烫 爱自己",
+      "onboard_time": 1707567882,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 469428,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1707497338,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 455772,
+      "num": 228796,
+      "word": "减肥到底要不要断碳水",
+      "onboard_time": 1707568419,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 446411,
@@ -1216,6 +1280,14 @@
       "word": "春晚小品笑点",
       "onboard_time": 1707525756,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404034,
+      "num": 217783,
+      "word": "虞书欣小福娃",
+      "onboard_time": 1707569319,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315587,
+      "num": 216882,
+      "word": "虞书欣冰雪公主",
+      "onboard_time": 1707569260,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308257,
       "num": 308257,
       "word": "迪丽热巴的美怎么拍出来的",
@@ -1580,7 +1660,7 @@
     },
     {
       "raw_hot": 260036,
-      "num": 548935,
+      "num": 647131,
       "word": "广州烟花",
       "onboard_time": 1707564577,
       "rank": 39,
@@ -1660,7 +1740,7 @@
     },
     {
       "raw_hot": 246279,
-      "num": 246279,
+      "num": 648049,
       "word": "微信用户除夕夜抢红包50.8亿个",
       "onboard_time": 1707565598,
       "rank": 22,
@@ -1723,12 +1803,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 228796,
-      "num": 228796,
-      "word": "减肥到底要不要断碳水",
-      "onboard_time": 1707568419,
-      "rank": 24,
-      "category": "运动健身"
+      "raw_hot": 224695,
+      "num": 215373,
+      "word": "皓史成双合体",
+      "onboard_time": 1707570937,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 221555,
@@ -1777,14 +1857,6 @@
       "onboard_time": 1707563076,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204114,
-      "num": 189116,
-      "word": "热辣滚烫 爱自己",
-      "onboard_time": 1707567882,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 202937,
@@ -2196,7 +2268,7 @@
     },
     {
       "raw_hot": 112762,
-      "num": 192927,
+      "num": 215870,
       "word": "女子带男友回老家发小们拍照围观",
       "onboard_time": 1707566321,
       "rank": 49,
@@ -2331,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73315,
+      "num": 178851,
+      "word": "广州人记忆中的年味",
+      "onboard_time": 1707570160,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68691,
       "num": 382132,
       "word": "王者荣耀拜年手势舞",
@@ -2345,6 +2425,14 @@
       "onboard_time": 1707511636,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64805,
+      "num": 218790,
+      "word": "蛋仔版熊大熊二萌化了",
+      "onboard_time": 1707568959,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 64716,
@@ -2492,7 +2580,7 @@
     },
     {
       "raw_hot": 21611,
-      "num": 5289123,
+      "num": 5913377,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,
@@ -2521,14 +2609,6 @@
       "onboard_time": 1707553417,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 4584,
-      "num": 160374,
-      "word": "蛋仔版熊大熊二萌化了",
-      "onboard_time": 1707568959,
-      "rank": 48,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
