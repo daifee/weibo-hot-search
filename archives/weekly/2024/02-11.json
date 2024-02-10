@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707600829430,
+  "endTime": 1707603292435,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79802,
+      "num": 51864,
+      "word": "贾玲下一部电影有杨紫张小斐",
+      "onboard_time": 1707598696,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74332,
       "num": 74332,
       "word": "其实摸到的是孙女的幸福",
@@ -435,12 +443,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65545,
-      "num": 44068,
-      "word": "贾玲下一部电影有杨紫张小斐",
-      "onboard_time": 1707598696,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 69045,
+      "num": 69045,
+      "word": "马斯克将用X取代移动通信",
+      "onboard_time": 1707595876,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 57394,
@@ -457,14 +465,6 @@
       "onboard_time": 1707580833,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44318,
-      "num": 44318,
-      "word": "马斯克将用X取代移动通信",
-      "onboard_time": 1707595876,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 29501,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20249,
+      "num": 20249,
+      "word": "贾冰韩雪再演夫妻",
+      "onboard_time": 1707599956,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18191,
       "num": 18191,
       "word": "董宇辉北京台春晚拜年",
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14897,
-      "num": 14897,
-      "word": "贾冰韩雪再演夫妻",
-      "onboard_time": 1707599956,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 15676,
+      "num": 15676,
+      "word": "山东一桌三十四道菜的大席你吃过没",
+      "onboard_time": 1707602295,
+      "rank": 44,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
