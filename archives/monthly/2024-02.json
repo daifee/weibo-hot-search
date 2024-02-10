@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707527355219,
+  "endTime": 1707528489441,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -177,6 +177,14 @@
       "onboard_time": 1707488019,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5623786,
+      "num": 5623786,
+      "word": "现在的贾玲",
+      "onboard_time": 1707527318,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 5059636,
@@ -697,6 +705,14 @@
       "onboard_time": 1707482518,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2114676,
+      "num": 1408522,
+      "word": "贾玲下颌线",
+      "onboard_time": 1707527493,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 2095955,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1707348624,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1572369,
+      "num": 1572369,
+      "word": "热辣滚烫上映",
+      "onboard_time": 1707526658,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1568724,
@@ -2243,6 +2267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1109813,
+      "num": 1109813,
+      "word": "何老师偷偷喊了撒撒",
+      "onboard_time": 1707527078,
+      "rank": 25,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 1108411,
       "num": 1108411,
       "word": "五十度暴雪",
@@ -2524,7 +2556,7 @@
     },
     {
       "raw_hot": 1042847,
-      "num": 897876,
+      "num": 997937,
       "word": "尼格买提复盘刘谦魔术穿帮",
       "onboard_time": 1707521847,
       "rank": 8,
@@ -2865,14 +2897,6 @@
       "onboard_time": 1707398914,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 951553,
-      "num": 951553,
-      "word": "热辣滚烫上映",
-      "onboard_time": 1707526658,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 949146,
@@ -4500,7 +4524,7 @@
     },
     {
       "raw_hot": 692380,
-      "num": 526185,
+      "num": 592059,
       "word": "网友解密刘谦魔术公式",
       "onboard_time": 1707522750,
       "rank": 18,
@@ -6115,14 +6139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530911,
-      "num": 530911,
-      "word": "现在的贾玲",
-      "onboard_time": 1707527318,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 530499,
       "num": 530499,
       "word": "网络春晚节目单",
@@ -6137,6 +6153,14 @@
       "onboard_time": 1707093569,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530224,
+      "num": 530224,
+      "word": "试试刘谦的魔术",
+      "onboard_time": 1707527981,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 529598,
@@ -6267,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520230,
+      "num": 520230,
+      "word": "沈马暗恋重写",
+      "onboard_time": 1707525336,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519145,
       "num": 519145,
       "word": "梅西事件始末",
@@ -6353,6 +6385,14 @@
       "onboard_time": 1706921728,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511657,
+      "num": 511657,
+      "word": "关晓彤穿明制",
+      "onboard_time": 1707527140,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 511171,
@@ -6492,7 +6532,7 @@
     },
     {
       "raw_hot": 500743,
-      "num": 313936,
+      "num": 444512,
       "word": "春晚导演模仿小尼内心戏",
       "onboard_time": 1707525216,
       "rank": 21,
@@ -6561,14 +6601,6 @@
       "onboard_time": 1707002784,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 495661,
-      "num": 304628,
-      "word": "沈马暗恋重写",
-      "onboard_time": 1707525336,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 495450,
@@ -6884,7 +6916,7 @@
     },
     {
       "raw_hot": 474538,
-      "num": 300349,
+      "num": 410840,
       "word": "杨幂刘诗诗后台合照",
       "onboard_time": 1707520523,
       "rank": 40,
@@ -6995,14 +7027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465431,
-      "num": 281335,
-      "word": "何老师偷偷喊了撒撒",
-      "onboard_time": 1707527078,
-      "rank": 25,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 464032,
       "num": 464032,
       "word": "王者荣耀",
@@ -7100,7 +7124,7 @@
     },
     {
       "raw_hot": 455926,
-      "num": 455926,
+      "num": 506940,
       "word": "龙年文案",
       "onboard_time": 1707497338,
       "rank": 34,
@@ -7867,6 +7891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 406750,
+      "num": 406750,
+      "word": "春晚小品笑点",
+      "onboard_time": 1707525756,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406227,
       "num": 406227,
       "word": "杨丽萍 真孔雀",
@@ -8073,6 +8105,14 @@
       "onboard_time": 1707390993,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395199,
+      "num": 532502,
+      "word": "花花",
+      "onboard_time": 1707526537,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395017,
@@ -8539,14 +8579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373462,
-      "num": 235784,
-      "word": "春晚小品笑点",
-      "onboard_time": 1707525756,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373127,
       "num": 373127,
       "word": "商人贝克汉姆",
@@ -8836,7 +8868,7 @@
     },
     {
       "raw_hot": 360868,
-      "num": 822152,
+      "num": 957750,
       "word": "大年初一",
       "onboard_time": 1707523532,
       "rank": 9,
@@ -9673,6 +9705,14 @@
       "onboard_time": 1707193353,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322082,
+      "num": 206399,
+      "word": "马凡舒 典雅东方美人",
+      "onboard_time": 1707528278,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 321339,
@@ -10553,14 +10593,6 @@
       "onboard_time": 1706747613,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292053,
-      "num": 232606,
-      "word": "关晓彤穿明制",
-      "onboard_time": 1707527140,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 292021,
@@ -12649,14 +12681,6 @@
       "onboard_time": 1707194013,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237643,
-      "num": 237643,
-      "word": "花花",
-      "onboard_time": 1707526537,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237625,
@@ -23955,6 +23979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117787,
+      "num": 229574,
+      "word": "爱马仕在所有地区强劲增长",
+      "onboard_time": 1707527257,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "一起迎立春",
@@ -26171,6 +26203,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 64716,
+      "num": 229933,
+      "word": "奶奶编发",
+      "onboard_time": 1707526177,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 64549,
       "num": 91761,
       "word": "证监会坚持零容忍执法",
@@ -26393,14 +26433,6 @@
       "onboard_time": 1706842829,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55684,
-      "num": 229933,
-      "word": "奶奶编发",
-      "onboard_time": 1707526177,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 55511,
@@ -26681,14 +26713,6 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 46091,
-      "num": 229574,
-      "word": "爱马仕在所有地区强劲增长",
-      "onboard_time": 1707527257,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 45716,
