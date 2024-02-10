@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707542104459,
+  "endTime": 1707543235829,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 781889,
+      "num": 781889,
+      "word": "小尼扑克对不上的原因",
+      "onboard_time": 1707540636,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772393,
       "num": 532342,
       "word": "刘谦魔术揭秘",
@@ -505,6 +513,14 @@
       "onboard_time": 1707522750,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 685462,
+      "num": 332730,
+      "word": "意媒曝朱婷收到意土豪门邀约",
+      "onboard_time": 1707540695,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 684441,
@@ -579,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636904,
+      "num": 331789,
+      "word": "周深父母对儿子没参加春晚的反应",
+      "onboard_time": 1707542376,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629440,
       "num": 510492,
       "word": "热辣滚烫",
@@ -625,14 +649,6 @@
       "onboard_time": 1707540154,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 584315,
-      "num": 336021,
-      "word": "小尼扑克对不上的原因",
-      "onboard_time": 1707540636,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 580827,
@@ -715,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 529512,
-      "num": 332730,
-      "word": "意媒曝朱婷收到意土豪门邀约",
-      "onboard_time": 1707540695,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 520230,
       "num": 520230,
       "word": "沈马暗恋重写",
@@ -745,6 +753,14 @@
       "onboard_time": 1707525216,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490062,
+      "num": 331676,
+      "word": "她是更fit了 而不只是瘦了",
+      "onboard_time": 1707542496,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 489127,
@@ -899,20 +915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366056,
+      "num": 333836,
+      "word": "沙溢谈贾玲在片场流泪",
+      "onboard_time": 1707540996,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 366021,
       "num": 429224,
       "word": "男子反诈意识强中奖汽车后反教育客服",
       "onboard_time": 1707530800,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361764,
-      "num": 333836,
-      "word": "沙溢谈贾玲在片场流泪",
-      "onboard_time": 1707540996,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 360912,
@@ -1027,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287115,
+      "num": 331603,
+      "word": "阴阳师",
+      "onboard_time": 1707542615,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267116,
       "num": 200308,
       "word": "刘耀文路演",
@@ -1059,20 +1083,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233866,
+      "num": 233866,
+      "word": "恋与非遗花饽饽拜年曲",
+      "onboard_time": 1707541596,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232862,
       "num": 408116,
       "word": "春节压岁钱花光了我的年终奖",
       "onboard_time": 1707530679,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224622,
-      "num": 224622,
-      "word": "恋与非遗花饽饽拜年曲",
-      "onboard_time": 1707541596,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 221555,
@@ -1131,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175814,
+      "num": 198100,
+      "word": "湖人半场87分",
+      "onboard_time": 1707541956,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174494,
       "num": 174494,
       "word": "春晚串烧",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1707498407,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164577,
-      "num": 198100,
-      "word": "湖人半场87分",
-      "onboard_time": 1707541956,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 146426,
@@ -1395,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55937,
+      "num": 334467,
+      "word": "李一桐带肉肉拜年发红包",
+      "onboard_time": 1707541116,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53874,
       "num": 101601,
       "word": "好运2024",
@@ -1419,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43977,
-      "num": 334467,
-      "word": "李一桐带肉肉拜年发红包",
-      "onboard_time": 1707541116,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42869,
       "num": 435222,
       "word": "蛋仔莓莓甜心兔",
@@ -1443,20 +1467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32110,
+      "num": 335589,
+      "word": "大年初一来元梦领红包",
+      "onboard_time": 1707541237,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30837,
       "num": 27633,
       "word": "0713是在互相表白吧",
       "onboard_time": 1707505819,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27488,
-      "num": 335589,
-      "word": "大年初一来元梦领红包",
-      "onboard_time": 1707541237,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 24887,
