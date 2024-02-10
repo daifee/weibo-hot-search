@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707556567329,
+  "endTime": 1707557627730,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5088557,
+      "num": 5088557,
+      "word": "贾玲减肥全记录",
+      "onboard_time": 1707551436,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 4950704,
       "num": 4950704,
       "word": "贾玲 不靠任何妆造的爆改",
@@ -113,14 +121,6 @@
       "onboard_time": 1707490289,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3114458,
-      "num": 3114458,
-      "word": "贾玲减肥全记录",
-      "onboard_time": 1707551436,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 2910834,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1973345,
+      "num": 1973345,
+      "word": "热巴春晚跳舞摔跤了",
+      "onboard_time": 1707554912,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1961273,
       "num": 1961273,
       "word": "央妈你明明什么都懂",
@@ -264,14 +272,6 @@
       "word": "尼格买提有人陪你了",
       "onboard_time": 1707552454,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1657953,
-      "num": 1657953,
-      "word": "热巴春晚跳舞摔跤了",
-      "onboard_time": 1707554912,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271503,
+      "num": 728797,
+      "word": "迪丽热巴这一脚",
+      "onboard_time": 1707556294,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1230218,
       "num": 1230218,
       "word": "任鲁豫春晚救场",
@@ -377,6 +385,14 @@
       "onboard_time": 1707493757,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1144116,
+      "num": 709252,
+      "word": "何老师有不在场证明",
+      "onboard_time": 1707555696,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1108019,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 1038505,
-      "num": 684999,
+      "num": 704706,
       "word": "撒撒给何老师的备注",
       "onboard_time": 1707552936,
       "rank": 31,
@@ -491,8 +507,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 830136,
-      "num": 575645,
+      "raw_hot": 838509,
+      "num": 689792,
       "word": "难忘今宵章若楠在干什么",
       "onboard_time": 1707554616,
       "rank": 12,
@@ -555,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 786547,
-      "num": 549494,
-      "word": "何老师有不在场证明",
-      "onboard_time": 1707555696,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 781889,
       "num": 781889,
       "word": "小尼扑克对不上的原因",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732958,
+      "num": 732958,
+      "word": "韩国春联是白色的",
+      "onboard_time": 1707554375,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 697479,
       "num": 697479,
       "word": "0713圆梦了",
@@ -625,14 +641,6 @@
       "onboard_time": 1707522750,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687844,
-      "num": 687844,
-      "word": "韩国春联是白色的",
-      "onboard_time": 1707554375,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 687062,
@@ -665,6 +673,14 @@
       "onboard_time": 1707525516,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 678754,
+      "num": 678754,
+      "word": "初六前可以不用来看兵马俑了",
+      "onboard_time": 1707555696,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 678311,
@@ -915,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502793,
+      "num": 502793,
+      "word": "把刘诗诗看成陈都灵",
+      "onboard_time": 1707554912,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500743,
       "num": 453414,
       "word": "春晚导演模仿小尼内心戏",
@@ -944,14 +968,6 @@
       "word": "春晚收视率",
       "onboard_time": 1707537040,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 482085,
-      "num": 482085,
-      "word": "把刘诗诗看成陈都灵",
-      "onboard_time": 1707554912,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1091,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393178,
-      "num": 254806,
-      "word": "迪丽热巴这一脚",
-      "onboard_time": 1707556294,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387491,
       "num": 387491,
       "word": "新疆8分钟惊艳世界",
@@ -1123,8 +1131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366471,
-      "num": 366471,
+      "raw_hot": 377463,
+      "num": 377463,
       "word": "你没减抑郁吧",
       "onboard_time": 1707555273,
       "rank": 22,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1707529601,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354682,
-      "num": 254771,
-      "word": "初六前可以不用来看兵马俑了",
-      "onboard_time": 1707555696,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 354212,
@@ -1251,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323084,
+      "num": 323084,
+      "word": "第二十条票房",
+      "onboard_time": 1707555575,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321339,
       "num": 321339,
       "word": "蛋仔派对进不去",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1707534518,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305917,
+      "num": 305917,
+      "word": "唐嫣回应父亲每日接送下班",
+      "onboard_time": 1707556954,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 305738,
@@ -1347,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268441,
+      "num": 268441,
+      "word": "被父母催婚整崩溃了",
+      "onboard_time": 1707555936,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267116,
       "num": 200308,
       "word": "刘耀文路演",
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 263502,
-      "num": 269246,
+      "num": 284662,
       "word": "中国女篮vs法国女篮",
       "onboard_time": 1707553954,
       "rank": 27,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1707497638,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 257206,
+      "num": 257206,
+      "word": "爱马仕今年至少涨价8%",
+      "onboard_time": 1707554195,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 256429,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1707525456,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241106,
-      "num": 241106,
-      "word": "第二十条票房",
-      "onboard_time": 1707555575,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 236964,
@@ -1475,14 +1499,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 226897,
-      "num": 226897,
-      "word": "爱马仕今年至少涨价8%",
-      "onboard_time": 1707554195,
-      "rank": 34,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 221555,
       "num": 396765,
       "word": "原神",
@@ -1491,16 +1507,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219457,
-      "num": 219457,
-      "word": "被父母催婚整崩溃了",
-      "onboard_time": 1707555936,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 218313,
-      "num": 265657,
+      "num": 284474,
       "word": "西安今年怕是又没淡季了",
       "onboard_time": 1707553057,
       "rank": 29,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1707547773,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207691,
+      "num": 284542,
+      "word": "花花的认养者去看花花也要排队",
+      "onboard_time": 1707556778,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202937,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1707553297,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178667,
+      "num": 178667,
+      "word": "空气炸锅 这家没我得散",
+      "onboard_time": 1707557374,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 177051,
@@ -1691,6 +1715,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160883,
+      "num": 160883,
+      "word": "好端端的怎么就成长辈了",
+      "onboard_time": 1707556655,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153787,
       "num": 214179,
       "word": "龙一开始是谁想出来的",
@@ -1771,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123139,
+      "num": 407448,
+      "word": "男子发压岁钱后在淘宝领红包回血",
+      "onboard_time": 1707555873,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119524,
       "num": 119524,
       "word": "曾舜晞 逃过了特写",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1707512957,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 105762,
-      "num": 371505,
-      "word": "男子发压岁钱后在淘宝领红包回血",
-      "onboard_time": 1707555873,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102123,
@@ -2076,7 +2108,7 @@
     },
     {
       "raw_hot": 21611,
-      "num": 4010489,
+      "num": 4446582,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,
