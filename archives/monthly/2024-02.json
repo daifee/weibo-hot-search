@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707535091441,
+  "endTime": 1707536042322,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -675,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2156301,
+      "num": 1550958,
+      "word": "贾玲下颌线",
+      "onboard_time": 1707527493,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2149710,
       "num": 2149710,
       "word": "江浙沪独生女",
@@ -705,14 +713,6 @@
       "onboard_time": 1707482518,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2114676,
-      "num": 1550958,
-      "word": "贾玲下颌线",
-      "onboard_time": 1707527493,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 2095955,
@@ -777,6 +777,14 @@
       "onboard_time": 1707112470,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1999122,
+      "num": 1999122,
+      "word": "热辣滚烫上映",
+      "onboard_time": 1707526658,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1985286,
@@ -921,14 +929,6 @@
       "onboard_time": 1706791294,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1884155,
-      "num": 1884155,
-      "word": "热辣滚烫上映",
-      "onboard_time": 1707526658,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 1882120,
@@ -1971,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1217168,
+      "num": 702639,
+      "word": "贾玲换微博头像",
+      "onboard_time": 1707531459,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1216113,
       "num": 1216113,
       "word": "12306回应无座票去一等座",
@@ -2104,14 +2112,6 @@
       "word": "诛仙1央六收视破3登顶",
       "onboard_time": 1707229354,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1159328,
-      "num": 702639,
-      "word": "贾玲换微博头像",
-      "onboard_time": 1707531459,
-      "rank": 36,
       "category": "电影"
     },
     {
@@ -2288,6 +2288,14 @@
       "word": "五十度暴雪",
       "onboard_time": 1707046111,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1108019,
+      "num": 1108019,
+      "word": "庆余年第二季",
+      "onboard_time": 1707533434,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -2721,14 +2729,6 @@
       "onboard_time": 1707473432,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 997121,
-      "num": 997121,
-      "word": "庆余年第二季",
-      "onboard_time": 1707533434,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 996510,
@@ -3987,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772393,
+      "num": 532342,
+      "word": "刘谦魔术揭秘",
+      "onboard_time": 1707535418,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772290,
       "num": 772290,
       "word": "霉霉高开衩白裙",
@@ -5107,6 +5115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 638733,
+      "num": 529530,
+      "word": "阿根廷中国行取消",
+      "onboard_time": 1707533798,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 638111,
       "num": 638111,
       "word": "离婚了彩礼还不还",
@@ -5220,7 +5236,7 @@
     },
     {
       "raw_hot": 629440,
-      "num": 504007,
+      "num": 510492,
       "word": "热辣滚烫",
       "onboard_time": 1707450089,
       "rank": 24,
@@ -5577,14 +5593,6 @@
       "onboard_time": 1706783191,
       "rank": 23,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 581141,
-      "num": 519627,
-      "word": "阿根廷中国行取消",
-      "onboard_time": 1707533798,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 581063,
@@ -7091,6 +7099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469428,
+      "num": 469428,
+      "word": "第二十条",
+      "onboard_time": 1707534160,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 468885,
       "num": 468885,
       "word": "霉霉四封年专",
@@ -7387,14 +7403,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 442955,
-      "num": 442955,
-      "word": "第二十条",
-      "onboard_time": 1707534160,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 442538,
       "num": 442538,
       "word": "乐华声明",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1706875833,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425787,
+      "num": 425787,
+      "word": "春晚就是一个巨大的芒果",
+      "onboard_time": 1707535657,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 424574,
@@ -9428,7 +9444,7 @@
     },
     {
       "raw_hot": 337198,
-      "num": 493917,
+      "num": 515566,
       "word": "中国香港足总会长再批评梅西不出场行为",
       "onboard_time": 1707533434,
       "rank": 19,
@@ -9441,6 +9457,14 @@
       "onboard_time": 1707492010,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336804,
+      "num": 336804,
+      "word": "热辣滚烫票房破2亿",
+      "onboard_time": 1707535839,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 335827,
@@ -12497,6 +12521,14 @@
       "onboard_time": 1707005485,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245268,
+      "num": 413823,
+      "word": "北京足协回应梅西比赛信息",
+      "onboard_time": 1707535717,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 245106,
@@ -22795,6 +22827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130602,
+      "num": 331532,
+      "word": "孙颖莎这饺子包的可以",
+      "onboard_time": 1707533798,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130521,
       "num": 130521,
       "word": "鞠婧祎千香婚服路透",
@@ -25027,14 +25067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106768,
-      "num": 321757,
-      "word": "孙颖莎这饺子包的可以",
-      "onboard_time": 1707533798,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106538,
       "num": 106538,
       "word": "跟拍边防战士记者哭了",
@@ -25628,7 +25660,7 @@
     },
     {
       "raw_hot": 93559,
-      "num": 262443,
+      "num": 290247,
       "word": "判官 新年贺图",
       "onboard_time": 1707535057,
       "rank": 49,
@@ -27689,6 +27721,14 @@
       "onboard_time": 1707393873,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20625,
+      "num": 2066856,
+      "word": "龙年送你9个美好祝愿",
+      "onboard_time": 1707535956,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20535,
