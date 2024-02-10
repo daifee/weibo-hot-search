@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707546835412,
+  "endTime": 1707549302123,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -81,6 +81,14 @@
       "onboard_time": 1707496744,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3572148,
+      "num": 3572148,
+      "word": "贾玲直播",
+      "onboard_time": 1707548914,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 3491240,
@@ -193,6 +201,14 @@
       "onboard_time": 1707493514,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2042620,
+      "num": 383165,
+      "word": "极兔快递",
+      "onboard_time": 1707545732,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1985286,
@@ -400,6 +416,14 @@
       "word": "西安分会场 赢麻了",
       "onboard_time": 1707483679,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 917042,
+      "num": 917042,
+      "word": "校方回应称单依纯上春晚不能加学分",
+      "onboard_time": 1707547235,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -627,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 636364,
-      "num": 383165,
-      "word": "极兔快递",
-      "onboard_time": 1707545732,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629440,
       "num": 510492,
       "word": "热辣滚烫",
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558543,
+      "num": 376956,
+      "word": "热辣滚烫好看吗",
+      "onboard_time": 1707545255,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 552481,
       "num": 401127,
       "word": "热辣滚烫新预告全程高能",
@@ -739,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 545029,
-      "num": 376956,
-      "word": "热辣滚烫好看吗",
-      "onboard_time": 1707545255,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 543528,
       "num": 384182,
       "word": "她是更fit了 而不只是瘦了",
@@ -769,6 +785,14 @@
       "onboard_time": 1707529061,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531768,
+      "num": 250284,
+      "word": "赵丽颖唐装",
+      "onboard_time": 1707547053,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 531301,
@@ -883,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433922,
+      "num": 362812,
+      "word": "王栎鑫说0713魏晨也来了",
+      "onboard_time": 1707545673,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433851,
       "num": 363935,
       "word": "电影票房",
@@ -979,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383069,
+      "num": 247404,
+      "word": "春晚结束总导演一句话戳心了",
+      "onboard_time": 1707548372,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366056,
       "num": 333836,
       "word": "沙溢谈贾玲在片场流泪",
@@ -993,14 +1033,6 @@
       "onboard_time": 1707530800,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362812,
-      "num": 362812,
-      "word": "王栎鑫说0713魏晨也来了",
-      "onboard_time": 1707545673,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 360912,
@@ -1107,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305738,
+      "num": 246215,
+      "word": "0713励志节目",
+      "onboard_time": 1707548491,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305540,
       "num": 305540,
       "word": "电影第二十条上映",
@@ -1195,6 +1235,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243307,
+      "num": 243307,
+      "word": "热巴跳民族舞杀伤力",
+      "onboard_time": 1707548610,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243002,
+      "num": 243002,
+      "word": "AD钙奶姐",
+      "onboard_time": 1707549092,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234811,
       "num": 234811,
       "word": "五阿哥挨着五阿哥",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1707541596,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233301,
+      "num": 233301,
+      "word": "黄轩abo文学研究得很透彻啊",
+      "onboard_time": 1707549274,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232862,
@@ -1233,6 +1297,22 @@
       "onboard_time": 1707530441,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214616,
+      "num": 204862,
+      "word": "第二十条 沈马彩蛋",
+      "onboard_time": 1707547773,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203212,
+      "num": 203212,
+      "word": "白敬亭对陆之昂的回应",
+      "onboard_time": 1707549092,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 202937,
@@ -1265,6 +1345,14 @@
       "onboard_time": 1707539798,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196115,
+      "num": 244887,
+      "word": "初一",
+      "onboard_time": 1707548136,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186284,
@@ -1307,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174169,
+      "num": 186175,
+      "word": "萨摩耶秒变萨摩凶",
+      "onboard_time": 1707548372,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171518,
       "num": 332866,
       "word": "北方人爱吃饺子为啥赚钱的是南方品牌",
@@ -1331,7 +1427,7 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 165347,
+      "raw_hot": 167623,
       "num": 224669,
       "word": "结婚五年我们依旧各回各家过年",
       "onboard_time": 1707545255,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1707546154,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32299,
+      "num": 247091,
+      "word": "蛋仔春晚变梗晚",
+      "onboard_time": 1707548253,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 32110,
