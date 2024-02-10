@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707599725311,
+  "endTime": 1707600829430,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -435,8 +435,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63177,
-      "num": 38423,
+      "raw_hot": 65545,
+      "num": 44068,
       "word": "贾玲下一部电影有杨紫张小斐",
       "onboard_time": 1707598696,
       "rank": 13,
@@ -459,8 +459,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32704,
-      "num": 32704,
+      "raw_hot": 44318,
+      "num": 44318,
       "word": "马斯克将用X取代移动通信",
       "onboard_time": 1707595876,
       "rank": 48,
@@ -528,6 +528,14 @@
       "word": "董宇辉北京台春晚拜年",
       "onboard_time": 1707596835,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14897,
+      "num": 14897,
+      "word": "贾冰韩雪再演夫妻",
+      "onboard_time": 1707599956,
+      "rank": 46,
       "category": "综艺"
     }
   ],
