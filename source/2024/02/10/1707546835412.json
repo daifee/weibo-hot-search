@@ -1,0 +1,410 @@
+{
+  "runTime": 1707546835412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5006100,
+        "num": 5006100,
+        "word": "贾玲腹肌",
+        "onboard_time": 1707536076,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3635845,
+        "num": 3635845,
+        "word": "现在的贾玲",
+        "onboard_time": 1707527318,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43444,
+        "num": 3162575,
+        "word": "龙年送你9个美好祝愿",
+        "onboard_time": 1707535956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2904181,
+        "num": 2904181,
+        "word": "贾玲 不靠任何妆造的爆改",
+        "onboard_time": 1707536076,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1794568,
+        "num": 1794568,
+        "word": "热辣滚烫上映",
+        "onboard_time": 1707526658,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1230218,
+        "num": 1230218,
+        "word": "任鲁豫春晚救场",
+        "onboard_time": 1707543395,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1084400,
+        "num": 1084400,
+        "word": "周深父母对儿子没参加春晚的反应",
+        "onboard_time": 1707542376,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682030,
+        "num": 682030,
+        "word": "陆之昂 我要上春晚肯定就红了",
+        "onboard_time": 1707543572,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387491,
+        "num": 387491,
+        "word": "新疆8分钟惊艳世界",
+        "onboard_time": 1707543336,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 353419,
+        "num": 386115,
+        "word": "大理通报游客被骂穷光蛋",
+        "onboard_time": 1707544414,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868093,
+        "num": 384986,
+        "word": "梅西登场门",
+        "onboard_time": 1707545494,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636364,
+        "num": 383165,
+        "word": "极兔快递",
+        "onboard_time": 1707545732,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625845,
+        "num": 381844,
+        "word": "刘谦含着眼泪离开春晚舞台",
+        "onboard_time": 1707522630,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601905,
+        "num": 380173,
+        "word": "尼格买提偷偷藏不住",
+        "onboard_time": 1707520164,
+        "rank": 13,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 585843,
+        "num": 379227,
+        "word": "赵丽颖演技",
+        "onboard_time": 1707545494,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 545029,
+        "num": 376956,
+        "word": "热辣滚烫好看吗",
+        "onboard_time": 1707545255,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 525374,
+        "num": 375518,
+        "word": "贾玲换微博头像",
+        "onboard_time": 1707531459,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491035,
+        "num": 373589,
+        "word": "她是更fit了 而不只是瘦了",
+        "onboard_time": 1707542496,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398534,
+        "num": 371312,
+        "word": "尼格买提复盘",
+        "onboard_time": 1707545916,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371257,
+        "num": 371257,
+        "word": "意媒曝朱婷收到意土豪门邀约",
+        "onboard_time": 1707540695,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367165,
+        "num": 367165,
+        "word": "小尼扑克对不上的原因",
+        "onboard_time": 1707540636,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362812,
+        "num": 362812,
+        "word": "王栎鑫说0713魏晨也来了",
+        "onboard_time": 1707545673,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352540,
+        "num": 352540,
+        "word": "迪丽热巴抬眸",
+        "onboard_time": 1707525456,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291544,
+        "num": 291544,
+        "word": "第二十条",
+        "onboard_time": 1707534160,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290253,
+        "num": 290253,
+        "word": "小龙糕",
+        "onboard_time": 1707545194,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286943,
+        "num": 286943,
+        "word": "工作捅娄子了想想尼格买提",
+        "onboard_time": 1707536856,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282375,
+        "num": 282375,
+        "word": "刘谦魔术揭秘",
+        "onboard_time": 1707535418,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274490,
+        "num": 274490,
+        "word": "热巴卡点转圈",
+        "onboard_time": 1707536138,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182598,
+        "num": 262588,
+        "word": "朱雨玲朱霖峰官宣恋情",
+        "onboard_time": 1707532659,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174690,
+        "num": 261252,
+        "word": "警方通报21岁男子领养5岁女童",
+        "onboard_time": 1707536798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260350,
+        "num": 260350,
+        "word": "檀健次猎罪图鉴2沈翊定妆",
+        "onboard_time": 1707540154,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253275,
+        "num": 253275,
+        "word": "热辣滚烫",
+        "onboard_time": 1707533318,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252701,
+        "num": 252701,
+        "word": "白敬亭走位错了",
+        "onboard_time": 1707522569,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251688,
+        "num": 251688,
+        "word": "沈腾微博 摩斯密码",
+        "onboard_time": 1707546633,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188215,
+        "num": 246819,
+        "word": "张雪峰 我怎么那么格格不入",
+        "onboard_time": 1707545194,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244898,
+        "num": 244898,
+        "word": "何老师偷偷喊了撒撒",
+        "onboard_time": 1707527078,
+        "rank": 35,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 239261,
+        "num": 239261,
+        "word": "热辣滚烫票房破2亿",
+        "onboard_time": 1707535839,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239145,
+        "num": 239145,
+        "word": "陈哲远微博发了14万红包",
+        "onboard_time": 1707529601,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225252,
+        "num": 225252,
+        "word": "樊振东给彭昱畅宣传新电影",
+        "onboard_time": 1707544114,
+        "rank": 38,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 165347,
+        "num": 224669,
+        "word": "结婚五年我们依旧各回各家过年",
+        "onboard_time": 1707545255,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224653,
+        "num": 224653,
+        "word": "央妈你明明什么都懂",
+        "onboard_time": 1707524495,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220708,
+        "num": 220708,
+        "word": "刘诗诗张云龙新剧花絮",
+        "onboard_time": 1707544714,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214050,
+        "num": 214050,
+        "word": "五阿哥挨着五阿哥",
+        "onboard_time": 1707544356,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163932,
+        "num": 214009,
+        "word": "香蕉为什么是弯的",
+        "onboard_time": 1707545732,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143493,
+        "num": 213529,
+        "word": "扑克牌其实是一套天文历法",
+        "onboard_time": 1707543874,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28135,
+        "num": 213248,
+        "word": "春晚运镜",
+        "onboard_time": 1707546154,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33853,
+        "num": 212799,
+        "word": "龙洋衣服 发财麻将",
+        "onboard_time": 1707546154,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82885,
+        "num": 212482,
+        "word": "春晚分会场在微博",
+        "onboard_time": 1707546154,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136567,
+        "num": 212203,
+        "word": "湖人球迷过年了",
+        "onboard_time": 1707546813,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114836,
+        "num": 212024,
+        "word": "阿根廷中国行取消",
+        "onboard_time": 1707533798,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
