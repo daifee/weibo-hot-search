@@ -1,0 +1,410 @@
+{
+  "runTime": 1707569016545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9582309,
+        "num": 9582309,
+        "word": "贾玲直播",
+        "onboard_time": 1707565418,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9189322,
+        "num": 9189322,
+        "word": "贾玲 真的震撼",
+        "onboard_time": 1707567696,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7703,
+        "num": 5289123,
+        "word": "锦绣中国年",
+        "onboard_time": 1707468450,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4497370,
+        "num": 4497370,
+        "word": "贾玲太美了",
+        "onboard_time": 1707567696,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 929639,
+        "num": 929639,
+        "word": "贾玲腹肌",
+        "onboard_time": 1707536076,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 927236,
+        "num": 927236,
+        "word": "陈楚生现挂 岳云鹏笑场",
+        "onboard_time": 1707567155,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890291,
+        "num": 890291,
+        "word": "热辣滚烫上映",
+        "onboard_time": 1707526658,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 526088,
+        "num": 743107,
+        "word": "北京台春晚好看",
+        "onboard_time": 1707566257,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622450,
+        "num": 622450,
+        "word": "赵丽颖表弟说姐姐你太厉害了",
+        "onboard_time": 1707564036,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303997,
+        "num": 602593,
+        "word": "花花的认养者去看花花也要排队",
+        "onboard_time": 1707556778,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4356169,
+        "num": 601690,
+        "word": "贾玲减肥全记录",
+        "onboard_time": 1707551436,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 600705,
+        "num": 600705,
+        "word": "春晚还得是冯巩",
+        "onboard_time": 1707566500,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593251,
+        "num": 593251,
+        "word": "热辣滚烫首波观众反馈",
+        "onboard_time": 1707560856,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270604,
+        "num": 560313,
+        "word": "初六前可以不用来看兵马俑了",
+        "onboard_time": 1707555696,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 17707,
+        "num": 552541,
+        "word": "元梦宠你人人有红包",
+        "onboard_time": 1707567340,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260036,
+        "num": 548935,
+        "word": "广州烟花",
+        "onboard_time": 1707564577,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548413,
+        "num": 548413,
+        "word": "尼格买提有人陪你了",
+        "onboard_time": 1707552454,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544015,
+        "num": 544015,
+        "word": "妈妈我好累啊",
+        "onboard_time": 1707561876,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 425025,
+        "num": 543605,
+        "word": "北京台春晚上来就跳科目三",
+        "onboard_time": 1707565719,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543241,
+        "num": 543241,
+        "word": "迪丽热巴这一脚",
+        "onboard_time": 1707556294,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520171,
+        "num": 520171,
+        "word": "韩红瘦了",
+        "onboard_time": 1707567819,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411664,
+        "num": 411664,
+        "word": "现在的贾玲",
+        "onboard_time": 1707527318,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381675,
+        "num": 381675,
+        "word": "东方卫视春晚",
+        "onboard_time": 1707564334,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239799,
+        "num": 239799,
+        "word": "微信用户除夕夜抢红包50.8亿个",
+        "onboard_time": 1707565598,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228796,
+        "num": 228796,
+        "word": "减肥到底要不要断碳水",
+        "onboard_time": 1707568419,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 380795,
+        "num": 226963,
+        "word": "热巴春晚跳舞摔跤了",
+        "onboard_time": 1707554912,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376111,
+        "num": 224346,
+        "word": "以后春晚不许三个人一起上来了",
+        "onboard_time": 1707559775,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358586,
+        "num": 221652,
+        "word": "何老师有不在场证明",
+        "onboard_time": 1707555696,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310615,
+        "num": 218875,
+        "word": "王传君窦靖童演情侣",
+        "onboard_time": 1707566377,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194861,
+        "num": 217985,
+        "word": "派出所发红包被哄抢后民警表情凝固",
+        "onboard_time": 1707565301,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292582,
+        "num": 214559,
+        "word": "北京卫视春晚",
+        "onboard_time": 1707564640,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264556,
+        "num": 211008,
+        "word": "难忘今宵章若楠在干什么",
+        "onboard_time": 1707554616,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210020,
+        "num": 210020,
+        "word": "魔术 分秒不差",
+        "onboard_time": 1707550836,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204367,
+        "num": 204367,
+        "word": "韩国春联是白色的",
+        "onboard_time": 1707554375,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118206,
+        "num": 199442,
+        "word": "萧山婚介所有大学生排队等入赘",
+        "onboard_time": 1707561273,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205919,
+        "num": 197822,
+        "word": "白敬亭对陆之昂的回应",
+        "onboard_time": 1707549092,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195068,
+        "num": 195068,
+        "word": "中国电视剧年度盛典",
+        "onboard_time": 1707568838,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193437,
+        "num": 193437,
+        "word": "梅西登场门",
+        "onboard_time": 1707545494,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113596,
+        "num": 193131,
+        "word": "极兔速递否认发布争议言论",
+        "onboard_time": 1707551495,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112762,
+        "num": 192927,
+        "word": "女子带男友回老家发小们拍照围观",
+        "onboard_time": 1707566321,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192905,
+        "num": 192905,
+        "word": "赵丽颖回应廊坊小骄傲",
+        "onboard_time": 1707567639,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190497,
+        "num": 190497,
+        "word": "周深父母对儿子没参加春晚的反应",
+        "onboard_time": 1707542376,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189116,
+        "num": 189116,
+        "word": "热辣滚烫 爱自己",
+        "onboard_time": 1707567882,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185360,
+        "num": 185360,
+        "word": "把刘诗诗看成陈都灵",
+        "onboard_time": 1707554912,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98090,
+        "num": 183482,
+        "word": "中国女篮半场落后法国20分",
+        "onboard_time": 1707559296,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182477,
+        "num": 182477,
+        "word": "钟辰乐黄仁俊开场",
+        "onboard_time": 1707565895,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178107,
+        "num": 178107,
+        "word": "北京台春晚节目单",
+        "onboard_time": 1707561456,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161172,
+        "num": 161172,
+        "word": "撒撒给何老师的备注",
+        "onboard_time": 1707552936,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4584,
+        "num": 160374,
+        "word": "蛋仔版熊大熊二萌化了",
+        "onboard_time": 1707568959,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160329,
+        "num": 160329,
+        "word": "刘谦魔术",
+        "onboard_time": 1707568780,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

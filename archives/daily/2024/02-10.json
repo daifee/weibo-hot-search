@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707568133088,
+  "endTime": 1707569016545,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -25,6 +25,14 @@
       "onboard_time": 1707491110,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9189322,
+      "num": 9189322,
+      "word": "贾玲 真的震撼",
+      "onboard_time": 1707567696,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 8890798,
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6902851,
-      "num": 6902851,
-      "word": "贾玲 真的震撼",
-      "onboard_time": 1707567696,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 6545130,
       "num": 6545130,
       "word": "大张伟刘宇宁的节目呢",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 5013290,
-      "num": 252739,
+      "num": 4497370,
       "word": "贾玲太美了",
       "onboard_time": 1707567696,
       "rank": 10,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927236,
+      "num": 927236,
+      "word": "陈楚生现挂 岳云鹏笑场",
+      "onboard_time": 1707567155,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922002,
       "num": 719471,
       "word": "西安分会场 赢麻了",
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 671703,
-      "num": 250164,
+      "num": 600705,
       "word": "春晚还得是冯巩",
       "onboard_time": 1707566500,
       "rank": 15,
@@ -931,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543865,
-      "num": 247098,
-      "word": "陈楚生现挂 岳云鹏笑场",
-      "onboard_time": 1707567155,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 543528,
       "num": 384182,
       "word": "她是更fit了 而不只是瘦了",
@@ -995,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526088,
+      "num": 5287271,
+      "word": "北京台春晚好看",
+      "onboard_time": 1707566257,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520230,
       "num": 520230,
       "word": "沈马暗恋重写",
@@ -1003,8 +1011,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520171,
+      "num": 520171,
+      "word": "韩红瘦了",
+      "onboard_time": 1707567819,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519364,
-      "num": 300819,
+      "num": 381675,
       "word": "东方卫视春晚",
       "onboard_time": 1707564334,
       "rank": 22,
@@ -1131,16 +1147,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 446821,
-      "num": 5287271,
-      "word": "北京台春晚好看",
-      "onboard_time": 1707566257,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446411,
-      "num": 248477,
+      "num": 543605,
       "word": "北京台春晚上来就跳科目三",
       "onboard_time": 1707565719,
       "rank": 18,
@@ -1571,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260036,
+      "num": 548935,
+      "word": "广州烟花",
+      "onboard_time": 1707564577,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259864,
       "num": 259864,
       "word": "热巴跳民族舞杀伤力",
@@ -1624,14 +1640,6 @@
       "word": "灵隐寺初一人从众",
       "onboard_time": 1707536257,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253185,
-      "num": 253185,
-      "word": "广州烟花",
-      "onboard_time": 1707564577,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1723,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 228796,
+      "num": 228796,
+      "word": "减肥到底要不要断碳水",
+      "onboard_time": 1707568419,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 221555,
       "num": 396765,
       "word": "原神",
@@ -1755,14 +1771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214105,
-      "num": 214105,
-      "word": "韩红瘦了",
-      "onboard_time": 1707567819,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207922,
       "num": 207922,
       "word": "陈丽君李云霄 小石子荡起波澜",
@@ -1772,7 +1780,7 @@
     },
     {
       "raw_hot": 204114,
-      "num": 146319,
+      "num": 189116,
       "word": "热辣滚烫 爱自己",
       "onboard_time": 1707567882,
       "rank": 40,
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 200148,
-      "num": 145459,
+      "num": 182477,
       "word": "钟辰乐黄仁俊开场",
       "onboard_time": 1707565895,
       "rank": 41,
@@ -1824,6 +1832,22 @@
       "word": "初一",
       "onboard_time": 1707548136,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195068,
+      "num": 195068,
+      "word": "中国电视剧年度盛典",
+      "onboard_time": 1707568838,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194861,
+      "num": 233829,
+      "word": "派出所发红包被哄抢后民警表情凝固",
+      "onboard_time": 1707565301,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1865,14 +1889,6 @@
       "onboard_time": 1707501810,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183988,
-      "num": 233829,
-      "word": "派出所发红包被哄抢后民警表情凝固",
-      "onboard_time": 1707565301,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181297,
@@ -2017,6 +2033,14 @@
       "onboard_time": 1707556655,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160329,
+      "num": 160329,
+      "word": "刘谦魔术",
+      "onboard_time": 1707568780,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 153787,
@@ -2171,20 +2195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112762,
+      "num": 192927,
+      "word": "女子带男友回老家发小们拍照围观",
+      "onboard_time": 1707566321,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107085,
       "num": 232612,
       "word": "敬业福",
       "onboard_time": 1707512957,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 106095,
-      "num": 136306,
-      "word": "女子带男友回老家发小们拍照围观",
-      "onboard_time": 1707566321,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102758,
@@ -2468,7 +2492,7 @@
     },
     {
       "raw_hot": 21611,
-      "num": 4446582,
+      "num": 5289123,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,
@@ -2483,6 +2507,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 17707,
+      "num": 552541,
+      "word": "元梦宠你人人有红包",
+      "onboard_time": 1707567340,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13125,
       "num": 421372,
       "word": "这福气我要定了",
@@ -2491,11 +2523,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10251,
-      "num": 250758,
-      "word": "元梦宠你人人有红包",
-      "onboard_time": 1707567340,
-      "rank": 14,
+      "raw_hot": 4584,
+      "num": 160374,
+      "word": "蛋仔版熊大熊二萌化了",
+      "onboard_time": 1707568959,
+      "rank": 48,
       "category": "游戏"
     }
   ],
