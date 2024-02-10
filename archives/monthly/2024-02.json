@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707589202702,
+  "endTime": 1707590126478,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -28000,6 +28000,14 @@
       "word": "肖战中国电视剧年度盛典VCR",
       "onboard_time": 1707175464,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70951,
+      "num": 52352,
+      "word": "繁花整组都不知道郑恺什么时候杀青",
+      "onboard_time": 1707589820,
+      "rank": 30,
       "category": "剧集"
     },
     {
