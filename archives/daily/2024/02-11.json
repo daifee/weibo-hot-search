@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707596183328,
+  "endTime": 1707597230697,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24676,
+      "num": 24676,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24550,
       "num": 23552,
       "word": "陆毅 姐俩给大家表演才艺",
@@ -475,11 +483,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22209,
-      "num": 22209,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
+      "raw_hot": 22017,
+      "num": 22017,
+      "word": "北京台春晚全阵容",
+      "onboard_time": 1707595934,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -491,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20873,
-      "num": 19601,
-      "word": "北京台春晚全阵容",
-      "onboard_time": 1707595934,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20556,
       "num": 19583,
       "word": "百花迎春",
@@ -507,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13683,
-      "num": 19277,
+      "raw_hot": 19506,
+      "num": 19506,
       "word": "马斯克将用X取代移动通信",
       "onboard_time": 1707595876,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 17584,
+      "num": 17584,
+      "word": "董宇辉北京台春晚拜年",
+      "onboard_time": 1707596835,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

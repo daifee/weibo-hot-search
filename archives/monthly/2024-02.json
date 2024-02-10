@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707596183328,
+  "endTime": 1707597230697,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -29363,6 +29363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24676,
+      "num": 24676,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24616,
       "num": 704043,
       "word": "春晚幸运儿在京东抽中汽车",
@@ -29467,14 +29475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22209,
-      "num": 22209,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22084,
       "num": 430834,
       "word": "蛋仔春节版本前瞻直播",
@@ -29489,6 +29489,14 @@
       "onboard_time": 1706966431,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 22017,
+      "num": 22017,
+      "word": "北京台春晚全阵容",
+      "onboard_time": 1707595934,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 21530,
@@ -29523,14 +29531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20873,
-      "num": 19601,
-      "word": "北京台春晚全阵容",
-      "onboard_time": 1707595934,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20556,
       "num": 19583,
       "word": "百花迎春",
@@ -29553,6 +29553,14 @@
       "onboard_time": 1707559235,
       "rank": 14,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 19506,
+      "num": 19506,
+      "word": "马斯克将用X取代移动通信",
+      "onboard_time": 1707595876,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 18835,
@@ -29601,6 +29609,14 @@
       "onboard_time": 1707567340,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17584,
+      "num": 17584,
+      "word": "董宇辉北京台春晚拜年",
+      "onboard_time": 1707596835,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 17368,
@@ -29769,14 +29785,6 @@
       "onboard_time": 1706819537,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13683,
-      "num": 19277,
-      "word": "马斯克将用X取代移动通信",
-      "onboard_time": 1707595876,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 13583,
