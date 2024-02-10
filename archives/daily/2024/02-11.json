@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707604427897,
+  "endTime": 1707607033166,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -147,19 +147,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286389,
+      "num": 138473,
+      "word": "马丽回应观众妈妈喜欢春晚上的鞋",
+      "onboard_time": 1707586462,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
       "onboard_time": 1707575199,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 273909,
-      "num": 125229,
-      "word": "马丽回应观众妈妈喜欢春晚上的鞋",
-      "onboard_time": 1707586462,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -267,12 +267,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202434,
+      "num": 202434,
+      "word": "贾玲下一部电影有杨紫张小斐",
+      "onboard_time": 1707598696,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199170,
       "num": 199170,
       "word": "热巴春晚跳舞摔跤了",
       "onboard_time": 1707554912,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194630,
+      "num": 194630,
+      "word": "大年初二",
+      "onboard_time": 1707606199,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 191156,
@@ -355,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143067,
+      "num": 131531,
+      "word": "繁花整组都不知道郑恺什么时候杀青",
+      "onboard_time": 1707589820,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142007,
+      "num": 142007,
+      "word": "马斯克将用X取代移动通信",
+      "onboard_time": 1707595876,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140976,
       "num": 140976,
       "word": "飞驰人生2沈腾演技",
@@ -371,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136248,
-      "num": 71447,
-      "word": "繁花整组都不知道郑恺什么时候杀青",
-      "onboard_time": 1707589820,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114336,
       "num": 114336,
       "word": "韩红瘦了",
@@ -393,14 +417,6 @@
       "onboard_time": 1707574180,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99146,
-      "num": 99146,
-      "word": "贾玲下一部电影有杨紫张小斐",
-      "onboard_time": 1707598696,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 94810,
@@ -435,14 +451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 77821,
-      "num": 77821,
-      "word": "马斯克将用X取代移动通信",
-      "onboard_time": 1707595876,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 74332,
       "num": 74332,
       "word": "其实摸到的是孙女的幸福",
@@ -467,20 +475,84 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29501,
-      "num": 29501,
+      "raw_hot": 47733,
+      "num": 47733,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43472,
+      "num": 73366,
+      "word": "勒沃库森3比0拜仁",
+      "onboard_time": 1707606320,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39281,
+      "num": 39281,
+      "word": "山东一桌三十四道菜的大席你吃过没",
+      "onboard_time": 1707602295,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 35610,
+      "num": 35610,
+      "word": "这场颁奖仪式全屏是马赛克",
+      "onboard_time": 1707606624,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35035,
+      "num": 35035,
+      "word": "杨超越 医保不治恋爱脑",
+      "onboard_time": 1707606919,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34658,
+      "num": 34658,
+      "word": "阿菲夫点球帽子戏法",
+      "onboard_time": 1707606858,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32601,
+      "num": 32601,
+      "word": "陆毅 姐俩给大家表演才艺",
+      "onboard_time": 1707594618,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32520,
+      "num": 32520,
+      "word": "赵丽颖表弟说姐姐你太厉害了",
+      "onboard_time": 1707564036,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 31620,
+      "num": 31620,
       "word": "快乐老友记",
       "onboard_time": 1707592037,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 29421,
-      "num": 29421,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 30857,
+      "num": 30857,
+      "word": "皇马4比0吉罗纳",
+      "onboard_time": 1707606560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 26173,
@@ -489,14 +561,6 @@
       "onboard_time": 1707554498,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24550,
-      "num": 23552,
-      "word": "陆毅 姐俩给大家表演才艺",
-      "onboard_time": 1707594618,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 22017,
@@ -529,14 +593,6 @@
       "onboard_time": 1707595756,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20288,
-      "num": 20288,
-      "word": "山东一桌三十四道菜的大席你吃过没",
-      "onboard_time": 1707602295,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 18945,
