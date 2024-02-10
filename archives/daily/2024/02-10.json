@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707521633629,
+  "endTime": 1707527355219,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -56,6 +56,14 @@
       "word": "没有李谷一",
       "onboard_time": 1707496744,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3491240,
+      "num": 3491240,
+      "word": "刘谦含着眼泪离开春晚舞台",
+      "onboard_time": 1707522630,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1961273,
+      "num": 1961273,
+      "word": "央妈你明明什么都懂",
+      "onboard_time": 1707524495,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1942902,
       "num": 1942902,
       "word": "春晚最好笑的梗",
@@ -243,11 +259,35 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1087388,
+      "num": 1087388,
+      "word": "尼格买提偷偷藏不住",
+      "onboard_time": 1707520164,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1077012,
+      "num": 1077012,
+      "word": "迪丽热巴抬眸",
+      "onboard_time": 1707525456,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1046831,
       "num": 1046831,
       "word": "春晚没有科目三",
       "onboard_time": 1707497694,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1042847,
+      "num": 897876,
+      "word": "尼格买提复盘刘谦魔术穿帮",
+      "onboard_time": 1707521847,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -259,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 999026,
+      "num": 999026,
+      "word": "白敬亭走位错了",
+      "onboard_time": 1707522569,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 969427,
       "num": 815187,
       "word": "刘谦耍大牌",
       "onboard_time": 1707485913,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951553,
+      "num": 951553,
+      "word": "热辣滚烫上映",
+      "onboard_time": 1707526658,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 922002,
@@ -315,20 +371,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 796334,
+      "num": 796334,
+      "word": "章若楠蒋诗萌回应小品尴尬",
+      "onboard_time": 1707505579,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 796243,
       "num": 1438803,
       "word": "开始放烟花了",
       "onboard_time": 1707476309,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 796216,
-      "num": 796216,
-      "word": "尼格买提偷偷藏不住",
-      "onboard_time": 1707520164,
-      "rank": 11,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 768807,
@@ -347,19 +403,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 734948,
-      "num": 557369,
-      "word": "章若楠蒋诗萌回应小品尴尬",
-      "onboard_time": 1707505579,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 697479,
       "num": 697479,
       "word": "0713圆梦了",
       "onboard_time": 1707484459,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 692380,
+      "num": 526185,
+      "word": "网友解密刘谦魔术公式",
+      "onboard_time": 1707522750,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -369,6 +425,14 @@
       "onboard_time": 1707494816,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681482,
+      "num": 681482,
+      "word": "俄罗斯4位总统候选人名单",
+      "onboard_time": 1707525516,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 656332,
@@ -401,6 +465,14 @@
       "onboard_time": 1707473432,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 637173,
+      "num": 637173,
+      "word": "保洁阿姨 明年这个变魔术的别来了",
+      "onboard_time": 1707522389,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 625316,
@@ -443,12 +515,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530911,
+      "num": 530911,
+      "word": "现在的贾玲",
+      "onboard_time": 1707527318,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 500743,
+      "num": 313936,
+      "word": "春晚导演模仿小尼内心戏",
+      "onboard_time": 1707525216,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 495661,
+      "num": 304628,
+      "word": "沈马暗恋重写",
+      "onboard_time": 1707525336,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 474538,
+      "num": 300349,
+      "word": "杨幂刘诗诗后台合照",
+      "onboard_time": 1707520523,
+      "rank": 40,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 473622,
       "num": 3678302,
       "word": "咏春女舞者眼神好杀",
       "onboard_time": 1707498227,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465431,
+      "num": 281335,
+      "word": "何老师偷偷喊了撒撒",
+      "onboard_time": 1707527078,
+      "rank": 25,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 455926,
@@ -467,12 +579,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398548,
+      "num": 237589,
+      "word": "春晚回放",
+      "onboard_time": 1707525699,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394065,
       "num": 2451814,
       "word": "龙年第一条微博",
       "onboard_time": 1707487647,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386201,
+      "num": 236514,
+      "word": "西安分会场 放文旅宣传片是吧",
+      "onboard_time": 1707523954,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383307,
+      "num": 236146,
+      "word": "0713有梦想了不起",
+      "onboard_time": 1707524257,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373462,
+      "num": 235784,
+      "word": "春晚小品笑点",
+      "onboard_time": 1707525756,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 360912,
@@ -483,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360868,
+      "num": 822152,
+      "word": "大年初一",
+      "onboard_time": 1707523532,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337577,
       "num": 1235938,
       "word": "龙年",
       "onboard_time": 1707474992,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335170,
-      "num": 300349,
-      "word": "杨幂刘诗诗后台合照",
-      "onboard_time": 1707520523,
-      "rank": 40,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 333463,
@@ -515,12 +659,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292053,
+      "num": 232606,
+      "word": "关晓彤穿明制",
+      "onboard_time": 1707527140,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284010,
+      "num": 231911,
+      "word": "说贾玲拿减肥当电影噱头的",
+      "onboard_time": 1707469051,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258028,
       "num": 258028,
       "word": "loong",
       "onboard_time": 1707497638,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 246276,
+      "num": 246276,
+      "word": "新年快乐",
+      "onboard_time": 1707525456,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 237643,
+      "num": 237643,
+      "word": "花花",
+      "onboard_time": 1707526537,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221555,
@@ -620,7 +796,7 @@
     },
     {
       "raw_hot": 107085,
-      "num": 107085,
+      "num": 230512,
       "word": "敬业福",
       "onboard_time": 1707512957,
       "rank": 34,
@@ -665,6 +841,14 @@
       "onboard_time": 1707519803,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81703,
+      "num": 234135,
+      "word": "花花龙年表情包",
+      "onboard_time": 1707521306,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78997,
@@ -715,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55684,
+      "num": 229933,
+      "word": "奶奶编发",
+      "onboard_time": 1707526177,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 53874,
       "num": 101601,
       "word": "好运2024",
@@ -731,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46091,
+      "num": 229574,
+      "word": "爱马仕在所有地区强劲增长",
+      "onboard_time": 1707527257,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 44064,
       "num": 36847,
       "word": "Belle上春晚",
@@ -745,14 +945,6 @@
       "onboard_time": 1707508578,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34606,
-      "num": 72718,
-      "word": "花花龙年表情包",
-      "onboard_time": 1707521306,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30837,
@@ -777,6 +969,14 @@
       "onboard_time": 1707495053,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15821,
+      "num": 1286679,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

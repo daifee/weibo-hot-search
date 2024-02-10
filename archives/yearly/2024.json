@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707521633629,
+  "endTime": 1707527355219,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -657,6 +657,14 @@
       "onboard_time": 1704527733,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 3491240,
+      "num": 3491240,
+      "word": "刘谦含着眼泪离开春晚舞台",
+      "onboard_time": 1707522630,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3485180,
@@ -2147,6 +2155,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1961273,
+      "num": 1961273,
+      "word": "央妈你明明什么都懂",
+      "onboard_time": 1707524495,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1960296,
       "num": 1669893,
       "word": "人口",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1706791294,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1897679,
-      "num": 1897679,
-      "word": "哈尔滨惊现15元1个小土豆挂件",
-      "onboard_time": 1704373234,
-      "rank": 1,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 1892107,
-      "num": 579353,
-      "word": "日本地震死亡人数增至55人",
-      "onboard_time": 1704207035,
-      "rank": 10,
-      "category": "国外时政"
     }
   ],
   "hotgov_list": [
