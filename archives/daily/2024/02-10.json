@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707554041766,
+  "endTime": 1707556567329,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -259,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1791965,
+      "num": 1791965,
+      "word": "尼格买提有人陪你了",
+      "onboard_time": 1707552454,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1657953,
+      "num": 1657953,
+      "word": "热巴春晚跳舞摔跤了",
+      "onboard_time": 1707554912,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1656971,
       "num": 1656971,
       "word": "何老师偷偷喊了撒撒",
@@ -304,14 +320,6 @@
       "word": "秦岚两秒镜头",
       "onboard_time": 1707491110,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1350337,
-      "num": 835011,
-      "word": "尼格买提有人陪你了",
-      "onboard_time": 1707552454,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1038505,
+      "num": 684999,
+      "word": "撒撒给何老师的备注",
+      "onboard_time": 1707552936,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1001871,
       "num": 733430,
       "word": "武术 还得是袁和平",
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830136,
+      "num": 575645,
+      "word": "难忘今宵章若楠在干什么",
+      "onboard_time": 1707554616,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829405,
       "num": 718346,
       "word": "胡歌杨幂唐嫣开场同台",
@@ -529,6 +553,14 @@
       "onboard_time": 1707476309,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 786547,
+      "num": 549494,
+      "word": "何老师有不在场证明",
+      "onboard_time": 1707555696,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 781889,
@@ -595,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 687844,
+      "num": 687844,
+      "word": "韩国春联是白色的",
+      "onboard_time": 1707554375,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 687062,
       "num": 600028,
       "word": "魔术 分秒不差",
@@ -609,14 +649,6 @@
       "onboard_time": 1707540695,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 684999,
-      "num": 684999,
-      "word": "撒撒给何老师的备注",
-      "onboard_time": 1707552936,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 684441,
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482085,
+      "num": 482085,
+      "word": "把刘诗诗看成陈都灵",
+      "onboard_time": 1707554912,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479094,
       "num": 479094,
       "word": "白敬亭对陆之昂的回应",
@@ -1051,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393178,
+      "num": 254806,
+      "word": "迪丽热巴这一脚",
+      "onboard_time": 1707556294,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387491,
       "num": 387491,
       "word": "新疆8分钟惊艳世界",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1707523954,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366471,
+      "num": 366471,
+      "word": "你没减抑郁吧",
+      "onboard_time": 1707555273,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 366056,
@@ -1113,6 +1169,22 @@
       "onboard_time": 1707529601,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354682,
+      "num": 254771,
+      "word": "初六前可以不用来看兵马俑了",
+      "onboard_time": 1707555696,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 354212,
+      "num": 354212,
+      "word": "雷佳音看到瘦身后的贾玲红了眼眶",
+      "onboard_time": 1707554195,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 354064,
@@ -1283,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263502,
+      "num": 269246,
+      "word": "中国女篮vs法国女篮",
+      "onboard_time": 1707553954,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259864,
       "num": 259864,
       "word": "热巴跳民族舞杀伤力",
@@ -1339,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241106,
+      "num": 241106,
+      "word": "第二十条票房",
+      "onboard_time": 1707555575,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236964,
       "num": 236964,
       "word": "第二十条全国首映礼直播",
@@ -1379,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229830,
-      "num": 269246,
-      "word": "中国女篮vs法国女篮",
-      "onboard_time": 1707553954,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228919,
       "num": 252987,
       "word": "染发烫发直发哪个更伤身",
@@ -1395,12 +1475,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 226897,
+      "num": 226897,
+      "word": "爱马仕今年至少涨价8%",
+      "onboard_time": 1707554195,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 221555,
       "num": 396765,
       "word": "原神",
       "onboard_time": 1707498881,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219457,
+      "num": 219457,
+      "word": "被父母催婚整崩溃了",
+      "onboard_time": 1707555936,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 218313,
+      "num": 265657,
+      "word": "西安今年怕是又没淡季了",
+      "onboard_time": 1707553057,
+      "rank": 29,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 215302,
@@ -1611,14 +1715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143919,
-      "num": 265657,
-      "word": "西安今年怕是又没淡季了",
-      "onboard_time": 1707553057,
-      "rank": 29,
-      "category": "社会新闻,综艺"
-    },
-    {
       "raw_hot": 141306,
       "num": 158412,
       "word": "大年初一三星堆博物馆挤闷了",
@@ -1683,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117457,
+      "num": 219499,
+      "word": "土媒曝土超豪门有意李盈莹",
+      "onboard_time": 1707554673,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113445,
       "num": 357891,
       "word": "烟花",
@@ -1705,6 +1809,14 @@
       "onboard_time": 1707512957,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105762,
+      "num": 371505,
+      "word": "男子发压岁钱后在淘宝领红包回血",
+      "onboard_time": 1707555873,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102123,
@@ -1964,7 +2076,7 @@
     },
     {
       "raw_hot": 21611,
-      "num": 2382048,
+      "num": 4010489,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,
@@ -1972,7 +2084,7 @@
     },
     {
       "raw_hot": 13125,
-      "num": 217627,
+      "num": 421372,
       "word": "这福气我要定了",
       "onboard_time": 1707553417,
       "rank": 37,
