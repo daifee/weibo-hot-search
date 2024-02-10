@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707607033166,
+  "endTime": 1707608040184,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -9675,6 +9675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364015,
+      "num": 160877,
+      "word": "马丽回应观众妈妈喜欢春晚上的鞋",
+      "onboard_time": 1707586462,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363719,
       "num": 363719,
       "word": "请和我的老公结婚",
@@ -11083,6 +11091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308669,
+      "num": 308669,
+      "word": "贾玲下一部电影有杨紫张小斐",
+      "onboard_time": 1707598696,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308585,
       "num": 308585,
       "word": "杨鸣回归辽宁男篮",
@@ -11849,14 +11865,6 @@
       "onboard_time": 1707280651,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 286389,
-      "num": 138473,
-      "word": "马丽回应观众妈妈喜欢春晚上的鞋",
-      "onboard_time": 1707586462,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 285829,
@@ -16651,14 +16659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 202434,
-      "num": 202434,
-      "word": "贾玲下一部电影有杨紫张小斐",
-      "onboard_time": 1707598696,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202432,
       "num": 202432,
       "word": "千朵桃花一世开官宣杀青",
@@ -16833,6 +16833,14 @@
       "onboard_time": 1707459152,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201185,
+      "num": 157377,
+      "word": "繁花整组都不知道郑恺什么时候杀青",
+      "onboard_time": 1707589820,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 201057,
@@ -17969,6 +17977,14 @@
       "onboard_time": 1707298711,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191550,
+      "num": 191550,
+      "word": "马斯克将用X取代移动通信",
+      "onboard_time": 1707595876,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 191450,
@@ -21691,6 +21707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 153715,
+      "num": 153715,
+      "word": "肖战指导工作室设计龙年logo",
+      "onboard_time": 1707607582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153707,
       "num": 153707,
       "word": "年是什么意思",
@@ -22851,14 +22875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143067,
-      "num": 131531,
-      "word": "繁花整组都不知道郑恺什么时候杀青",
-      "onboard_time": 1707589820,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142947,
       "num": 142947,
       "word": "伴侣不成熟的表现",
@@ -22953,14 +22969,6 @@
       "onboard_time": 1706883336,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142007,
-      "num": 142007,
-      "word": "马斯克将用X取代移动通信",
-      "onboard_time": 1707595876,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 141910,
@@ -27267,6 +27275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94689,
+      "num": 71266,
+      "word": "杨超越 医保不治恋爱脑",
+      "onboard_time": 1707606919,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94212,
       "num": 94212,
       "word": "奶牛猫舞团新舞蹈",
@@ -27755,6 +27771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78987,
+      "num": 130333,
+      "word": "约旦1比3卡塔尔",
+      "onboard_time": 1707607161,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78942,
       "num": 454734,
       "word": "时代少年团试玩王者龙限皮肤",
@@ -27825,6 +27849,14 @@
       "onboard_time": 1707448588,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77763,
+      "num": 77763,
+      "word": "其实摸到的是孙女的幸福",
+      "onboard_time": 1707586286,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 77467,
@@ -27929,14 +27961,6 @@
       "onboard_time": 1706741840,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 74332,
-      "num": 74332,
-      "word": "其实摸到的是孙女的幸福",
-      "onboard_time": 1707586286,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 74045,
@@ -28099,6 +28123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67766,
+      "num": 67766,
+      "word": "这场颁奖仪式全屏是马赛克",
+      "onboard_time": 1707606624,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66897,
       "num": 66897,
       "word": "马天宇说cp都是假的",
@@ -28235,12 +28267,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61919,
+      "num": 61919,
+      "word": "杨昊世锦赛夺冠",
+      "onboard_time": 1707607161,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61899,
       "num": 61899,
       "word": "你希望发现金还是消费券",
       "onboard_time": 1707172997,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61176,
+      "num": 61176,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 60939,
@@ -28603,6 +28651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48149,
+      "num": 73366,
+      "word": "勒沃库森3比0拜仁",
+      "onboard_time": 1707606320,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48097,
       "num": 48097,
       "word": "这种蔬菜的含钙量约是牛奶的3倍",
@@ -28627,14 +28683,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 47733,
-      "num": 47733,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47691,
       "num": 148419,
       "word": "春晚开运红",
@@ -28656,6 +28704,14 @@
       "word": "龙吟中国春",
       "onboard_time": 1707107611,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46959,
+      "num": 46959,
+      "word": "龙年幸运签",
+      "onboard_time": 1707607041,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -28739,14 +28795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43472,
-      "num": 73366,
-      "word": "勒沃库森3比0拜仁",
-      "onboard_time": 1707606320,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42869,
       "num": 435222,
       "word": "蛋仔莓莓甜心兔",
@@ -28827,6 +28875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40793,
+      "num": 40793,
+      "word": "山东一桌三十四道菜的大席你吃过没",
+      "onboard_time": 1707602295,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 40788,
       "num": 45532,
       "word": "惠英红穿了陈伟霆送的衣服",
@@ -28867,14 +28923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39281,
-      "num": 39281,
-      "word": "山东一桌三十四道菜的大席你吃过没",
-      "onboard_time": 1707602295,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 39207,
       "num": 39207,
       "word": "这些东西放进微波炉会爆炸",
@@ -28897,6 +28945,14 @@
       "onboard_time": 1706916140,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38872,
+      "num": 38872,
+      "word": "快乐老友记",
+      "onboard_time": 1707592037,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 37803,
@@ -28995,14 +29051,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 35610,
-      "num": 35610,
-      "word": "这场颁奖仪式全屏是马赛克",
-      "onboard_time": 1707606624,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35543,
       "num": 35543,
       "word": "元气森林创始人称要向华为学习",
@@ -29025,14 +29073,6 @@
       "onboard_time": 1706837550,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35035,
-      "num": 35035,
-      "word": "杨超越 医保不治恋爱脑",
-      "onboard_time": 1707606919,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 34860,
@@ -29185,14 +29225,6 @@
       "onboard_time": 1707120271,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31620,
-      "num": 31620,
-      "word": "快乐老友记",
-      "onboard_time": 1707592037,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 31001,
