@@ -1,0 +1,410 @@
+{
+  "runTime": 1707553140288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5380707,
+        "num": 5380707,
+        "word": "贾玲腹肌",
+        "onboard_time": 1707536076,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5171832,
+        "num": 5171832,
+        "word": "贾玲直播",
+        "onboard_time": 1707548914,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31500,
+        "num": 4660683,
+        "word": "龙年送你9个美好祝愿",
+        "onboard_time": 1707535956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4593372,
+        "num": 4593372,
+        "word": "现在的贾玲",
+        "onboard_time": 1707527318,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4095788,
+        "num": 4095788,
+        "word": "贾玲 不靠任何妆造的爆改",
+        "onboard_time": 1707536076,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2660805,
+        "num": 2660805,
+        "word": "贾玲减肥全记录",
+        "onboard_time": 1707551436,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1836100,
+        "num": 1836100,
+        "word": "热辣滚烫上映",
+        "onboard_time": 1707526658,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1575359,
+        "num": 1575359,
+        "word": "校方回应称单依纯上春晚不能加学分",
+        "onboard_time": 1707547235,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1032609,
+        "num": 1032609,
+        "word": "极兔速递否认发布争议言论",
+        "onboard_time": 1707551495,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267019,
+        "num": 267019,
+        "word": "小龙糕",
+        "onboard_time": 1707545194,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 914960,
+        "num": 266976,
+        "word": "极兔快递",
+        "onboard_time": 1707545732,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687062,
+        "num": 266486,
+        "word": "魔术 分秒不差",
+        "onboard_time": 1707550836,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652866,
+        "num": 266388,
+        "word": "AD钙奶姐",
+        "onboard_time": 1707549092,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509437,
+        "num": 266080,
+        "word": "周深父母对儿子没参加春晚的反应",
+        "onboard_time": 1707542376,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19216,
+        "num": 265699,
+        "word": "元梦之星红包开撒",
+        "onboard_time": 1707552038,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 465499,
+        "num": 265379,
+        "word": "白敬亭对陆之昂的回应",
+        "onboard_time": 1707549092,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461163,
+        "num": 265212,
+        "word": "梅西登场门",
+        "onboard_time": 1707545494,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434045,
+        "num": 264969,
+        "word": "春晚结束总导演一句话戳心了",
+        "onboard_time": 1707548372,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385351,
+        "num": 264641,
+        "word": "刘谦含着眼泪离开春晚舞台",
+        "onboard_time": 1707522630,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380636,
+        "num": 264394,
+        "word": "任鲁豫春晚救场",
+        "onboard_time": 1707543395,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347332,
+        "num": 264162,
+        "word": "第二十条 国产法律电影",
+        "onboard_time": 1707551793,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343513,
+        "num": 263831,
+        "word": "贾玲换微博头像",
+        "onboard_time": 1707531459,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299585,
+        "num": 263483,
+        "word": "赵丽颖唐装",
+        "onboard_time": 1707547053,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296414,
+        "num": 263262,
+        "word": "尼格买提偷偷藏不住",
+        "onboard_time": 1707520164,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 251737,
+        "num": 263182,
+        "word": "这居然是红包不是试卷",
+        "onboard_time": 1707550956,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271320,
+        "num": 262819,
+        "word": "飞驰人生2穿越5年的回望",
+        "onboard_time": 1707552096,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262636,
+        "num": 262636,
+        "word": "热辣滚烫",
+        "onboard_time": 1707533318,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265095,
+        "num": 261661,
+        "word": "赵丽颖演技",
+        "onboard_time": 1707545494,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172522,
+        "num": 260947,
+        "word": "任子威林孝埈合照",
+        "onboard_time": 1707551016,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126349,
+        "num": 259537,
+        "word": "大理通报游客被骂穷光蛋",
+        "onboard_time": 1707544414,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642839,
+        "num": 258656,
+        "word": "尼格买提有人陪你了",
+        "onboard_time": 1707552454,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273232,
+        "num": 257268,
+        "word": "撒撒给何老师的备注",
+        "onboard_time": 1707552936,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257226,
+        "num": 257226,
+        "word": "第二十条",
+        "onboard_time": 1707534160,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254332,
+        "num": 254332,
+        "word": "热辣滚烫好看吗",
+        "onboard_time": 1707545255,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228919,
+        "num": 252987,
+        "word": "染发烫发直发哪个更伤身",
+        "onboard_time": 1707551793,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 251907,
+        "num": 251907,
+        "word": "她是更fit了 而不只是瘦了",
+        "onboard_time": 1707542496,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234415,
+        "num": 234415,
+        "word": "西安分会场 大唐不夜城",
+        "onboard_time": 1707550778,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232969,
+        "num": 232969,
+        "word": "王栎鑫说0713魏晨也来了",
+        "onboard_time": 1707545673,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185280,
+        "num": 227090,
+        "word": "国乒全队投入训练",
+        "onboard_time": 1707552096,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106311,
+        "num": 226271,
+        "word": "朱雨玲朱霖峰官宣恋情",
+        "onboard_time": 1707532659,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225698,
+        "num": 225698,
+        "word": "陆之昂 我要上春晚肯定就红了",
+        "onboard_time": 1707543572,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201246,
+        "num": 201246,
+        "word": "刘谦魔术揭秘",
+        "onboard_time": 1707535418,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198732,
+        "num": 198732,
+        "word": "尼格买提复盘",
+        "onboard_time": 1707545916,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191511,
+        "num": 191511,
+        "word": "小尼扑克对不上的原因",
+        "onboard_time": 1707540636,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189924,
+        "num": 189924,
+        "word": "0713励志节目",
+        "onboard_time": 1707548491,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188754,
+        "num": 188754,
+        "word": "杨幂好美",
+        "onboard_time": 1707551137,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127423,
+        "num": 188296,
+        "word": "萨摩耶秒变萨摩凶",
+        "onboard_time": 1707548372,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193176,
+        "num": 187985,
+        "word": "工作捅娄子了想想尼格买提",
+        "onboard_time": 1707536856,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126452,
+        "num": 187541,
+        "word": "北京目前无举办梅西相关比赛计划",
+        "onboard_time": 1707551673,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105869,
+        "num": 186924,
+        "word": "意媒曝朱婷收到意土豪门邀约",
+        "onboard_time": 1707540695,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
