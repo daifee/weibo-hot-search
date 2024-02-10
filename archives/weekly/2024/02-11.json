@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707586441005,
+  "endTime": 1707589202702,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -152,6 +152,14 @@
       "word": "时代少年团 新四大CP",
       "onboard_time": 1707575199,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273909,
+      "num": 125229,
+      "word": "马丽回应观众妈妈喜欢春晚上的鞋",
+      "onboard_time": 1707586462,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -411,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74332,
+      "num": 74332,
+      "word": "其实摸到的是孙女的幸福",
+      "onboard_time": 1707586286,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57394,
       "num": 180959,
       "word": "中国女篮获巴黎奥运参赛资格",
@@ -425,14 +441,6 @@
       "onboard_time": 1707580833,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40684,
-      "num": 52150,
-      "word": "其实摸到的是孙女的幸福",
-      "onboard_time": 1707586286,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 26173,
