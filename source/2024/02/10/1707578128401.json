@@ -1,0 +1,410 @@
+{
+  "runTime": 1707578128401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6132091,
+        "num": 6132091,
+        "word": "贾玲为角色增重40斤再减重100斤",
+        "onboard_time": 1707570400,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2949618,
+        "num": 2949618,
+        "word": "贾玲 我的减重是非常健康的",
+        "onboard_time": 1707574359,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73086,
+        "num": 2248374,
+        "word": "北京台春晚节目单",
+        "onboard_time": 1707561456,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1807141,
+        "num": 1807141,
+        "word": "贾玲 真的震撼",
+        "onboard_time": 1707567696,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1714697,
+        "num": 1714697,
+        "word": "小尼工作保住了",
+        "onboard_time": 1707572735,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 965502,
+        "num": 965502,
+        "word": "张小斐主演电影票房破70亿",
+        "onboard_time": 1707572380,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 781760,
+        "num": 781760,
+        "word": "蔡依林根本不够看",
+        "onboard_time": 1707575979,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245005,
+        "num": 750532,
+        "word": "初六前可以不用来看兵马俑了",
+        "onboard_time": 1707555696,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174020,
+        "num": 709796,
+        "word": "世界之外 接通了",
+        "onboard_time": 1707572259,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149142,
+        "num": 701213,
+        "word": "广州烟花",
+        "onboard_time": 1707564577,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2095661,
+        "num": 657806,
+        "word": "梅西ins更新",
+        "onboard_time": 1707573761,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1716647,
+        "num": 598560,
+        "word": "贾玲减肥全记录",
+        "onboard_time": 1707551436,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1678659,
+        "num": 588913,
+        "word": "贾玲太美了",
+        "onboard_time": 1707567696,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555658,
+        "num": 555658,
+        "word": "肖战唱如愿",
+        "onboard_time": 1707574240,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145725,
+        "num": 514868,
+        "word": "亚洲杯",
+        "onboard_time": 1707576215,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497277,
+        "num": 497277,
+        "word": "苏醒廖语辰首次公开合照",
+        "onboard_time": 1707574726,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447417,
+        "num": 447417,
+        "word": "尼格买提有人陪你了",
+        "onboard_time": 1707552454,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438743,
+        "num": 438743,
+        "word": "时代少年团 新四大CP",
+        "onboard_time": 1707575199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510901,
+        "num": 438263,
+        "word": "肖战站C位果然是马丽雷佳音商量好的",
+        "onboard_time": 1707569142,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138692,
+        "num": 423905,
+        "word": "中国女篮主帅道歉",
+        "onboard_time": 1707574180,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455628,
+        "num": 422571,
+        "word": "已婚已育的中年女性决定过年谁家也不回",
+        "onboard_time": 1707576935,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420042,
+        "num": 420042,
+        "word": "文俊辉好撩",
+        "onboard_time": 1707576815,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410841,
+        "num": 410841,
+        "word": "这俩梨涡我都不敢认了",
+        "onboard_time": 1707569260,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127788,
+        "num": 406250,
+        "word": "曼城2比0埃弗顿",
+        "onboard_time": 1707576576,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402859,
+        "num": 402859,
+        "word": "杨超越比小品好看",
+        "onboard_time": 1707572079,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400468,
+        "num": 400468,
+        "word": "蔡依林 熊猫站姐",
+        "onboard_time": 1707575736,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398059,
+        "num": 398059,
+        "word": "飞驰人生2票房",
+        "onboard_time": 1707576335,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397220,
+        "num": 397220,
+        "word": "潘长江林一身高差",
+        "onboard_time": 1707576100,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376030,
+        "num": 376030,
+        "word": "热辣滚烫 爱自己",
+        "onboard_time": 1707567882,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201632,
+        "num": 361485,
+        "word": "杭州一地藏着2000多条龙",
+        "onboard_time": 1707574542,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359643,
+        "num": 359643,
+        "word": "迪丽热巴这一脚",
+        "onboard_time": 1707556294,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353319,
+        "num": 353319,
+        "word": "王冰冰演小品摔了一跤",
+        "onboard_time": 1707571603,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126372,
+        "num": 340885,
+        "word": "中国女篮获巴黎奥运参赛资格",
+        "onboard_time": 1707571661,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330411,
+        "num": 330411,
+        "word": "热辣滚烫首波观众反馈",
+        "onboard_time": 1707560856,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316666,
+        "num": 316666,
+        "word": "肖战年度突破男演员",
+        "onboard_time": 1707577715,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316436,
+        "num": 316436,
+        "word": "热辣滚烫上映",
+        "onboard_time": 1707526658,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303425,
+        "num": 303425,
+        "word": "鞠婧祎陈丽君 仙品",
+        "onboard_time": 1707571780,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294394,
+        "num": 294394,
+        "word": "陈楚生现挂 岳云鹏笑场",
+        "onboard_time": 1707567155,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250181,
+        "num": 250181,
+        "word": "飞驰人生2沈腾演技",
+        "onboard_time": 1707574841,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177141,
+        "num": 246135,
+        "word": "以年为单位的爱太稀缺了",
+        "onboard_time": 1707576458,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245118,
+        "num": 245118,
+        "word": "游本昌终身成就艺术家",
+        "onboard_time": 1707572498,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229409,
+        "num": 229409,
+        "word": "热辣滚烫不是讲减重的电影",
+        "onboard_time": 1707577597,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212792,
+        "num": 212792,
+        "word": "热巴春晚跳舞摔跤了",
+        "onboard_time": 1707554912,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193869,
+        "num": 193869,
+        "word": "下不了的班",
+        "onboard_time": 1707575917,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188026,
+        "num": 188026,
+        "word": "沈腾 巴音布鲁克之王",
+        "onboard_time": 1707569199,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151022,
+        "num": 186333,
+        "word": "柯南 酒厂女子天团",
+        "onboard_time": 1707577838,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127203,
+        "num": 184638,
+        "word": "春节的留守猫咪们",
+        "onboard_time": 1707575677,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36713,
+        "num": 182694,
+        "word": "春晚同款",
+        "onboard_time": 1707577233,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120525,
+        "num": 180970,
+        "word": "花钱买来短暂的亲情",
+        "onboard_time": 1707578073,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91966,
+        "num": 179370,
+        "word": "哈兰德破门",
+        "onboard_time": 1707575979,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
