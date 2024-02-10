@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707574502378,
+  "endTime": 1707575644068,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 4172565,
+      "num": 4172565,
+      "word": "贾玲 我的减重是非常健康的",
+      "onboard_time": 1707574359,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3937219,
       "num": 3937219,
       "word": "没有李谷一",
@@ -147,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3088374,
-      "num": 329599,
-      "word": "贾玲 我的减重是非常健康的",
-      "onboard_time": 1707574359,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 2910834,
       "num": 2910834,
       "word": "杨幂好甜",
@@ -185,6 +185,14 @@
       "onboard_time": 1707497220,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2526169,
+      "num": 328017,
+      "word": "梅西ins更新",
+      "onboard_time": 1707573761,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2509205,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1901256,
+      "num": 1901256,
+      "word": "小尼工作保住了",
+      "onboard_time": 1707572735,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1835082,
       "num": 1835082,
       "word": "十个勤天 春晚压轴",
@@ -320,14 +336,6 @@
       "word": "尼格买提有人陪你了",
       "onboard_time": 1707552454,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1750119,
-      "num": 1750119,
-      "word": "小尼工作保住了",
-      "onboard_time": 1707572735,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -353,14 +361,6 @@
       "onboard_time": 1707494287,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1582014,
-      "num": 328017,
-      "word": "梅西ins更新",
-      "onboard_time": 1707573761,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1575359,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574258,
+      "num": 275589,
+      "word": "苏醒廖语辰首次公开合照",
+      "onboard_time": 1707574726,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566906,
       "num": 566906,
       "word": "魏晨魏大勋白敬亭帅了一下又一下",
@@ -1131,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512953,
+      "num": 319199,
+      "word": "杨超越比小品好看",
+      "onboard_time": 1707572079,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511657,
       "num": 511657,
       "word": "关晓彤穿明制",
@@ -1208,14 +1224,6 @@
       "word": "白敬亭对陆之昂的回应",
       "onboard_time": 1707549092,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 478951,
-      "num": 319199,
-      "word": "杨超越比小品好看",
-      "onboard_time": 1707572079,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1635,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307235,
+      "num": 307235,
+      "word": "世界之外短信",
+      "onboard_time": 1707574841,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305738,
       "num": 264160,
       "word": "0713励志节目",
@@ -1704,6 +1720,14 @@
       "word": "如愿",
       "onboard_time": 1707539618,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288672,
+      "num": 247372,
+      "word": "时代少年团 新四大CP",
+      "onboard_time": 1707575199,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1883,12 +1907,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235944,
+      "num": 235944,
+      "word": "宋小宝柳岩 他逃她追",
+      "onboard_time": 1707575327,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234811,
       "num": 234811,
       "word": "五阿哥挨着五阿哥",
       "onboard_time": 1707544356,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234604,
+      "num": 234604,
+      "word": "飞驰人生2沈腾演技",
+      "onboard_time": 1707574841,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 234415,
@@ -1955,6 +1995,14 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 218035,
+      "num": 218035,
+      "word": "侯雯元唱跳 真挚的搞笑",
+      "onboard_time": 1707574359,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215302,
       "num": 690664,
       "word": "网友喊话淘宝生产晚会同款鹅帽",
@@ -2008,14 +2056,6 @@
       "word": "钟辰乐黄仁俊开场",
       "onboard_time": 1707565895,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 199743,
-      "num": 199743,
-      "word": "侯雯元唱跳 真挚的搞笑",
-      "onboard_time": 1707574359,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2361,6 +2401,14 @@
       "onboard_time": 1707529541,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127681,
+      "num": 227362,
+      "word": "杭州一地藏着2000多条龙",
+      "onboard_time": 1707574542,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126452,

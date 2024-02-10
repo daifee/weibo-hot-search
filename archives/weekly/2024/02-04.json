@@ -1,6 +1,6 @@
 {
   "startTime": 1706977265915,
-  "endTime": 1707574502378,
+  "endTime": 1707575644068,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4172565,
+      "num": 4172565,
+      "word": "贾玲 我的减重是非常健康的",
+      "onboard_time": 1707574359,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 4109804,
       "num": 4109804,
       "word": "单依纯 如听仙乐耳暂明",
@@ -385,14 +393,6 @@
       "onboard_time": 1707296251,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3088374,
-      "num": 329599,
-      "word": "贾玲 我的减重是非常健康的",
-      "onboard_time": 1707574359,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 3035751,
@@ -521,6 +521,14 @@
       "onboard_time": 1707497220,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2526169,
+      "num": 328017,
+      "word": "梅西ins更新",
+      "onboard_time": 1707573761,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2516787,
@@ -867,6 +875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1901256,
+      "num": 1901256,
+      "word": "小尼工作保住了",
+      "onboard_time": 1707572735,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1869343,
       "num": 1869343,
       "word": "梅西账号评论区被网友围攻",
@@ -993,14 +1009,6 @@
       "onboard_time": 1707469051,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1750119,
-      "num": 1750119,
-      "word": "小尼工作保住了",
-      "onboard_time": 1707572735,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1737644,
@@ -1159,14 +1167,6 @@
       "num": 523722,
       "word": "梅西代言白酒品牌方发文称很难过",
       "onboard_time": 1707315396,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1582014,
-      "num": 328017,
-      "word": "梅西ins更新",
-      "onboard_time": 1707573761,
       "rank": 12,
       "category": "体育"
     },
@@ -4563,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574258,
+      "num": 275589,
+      "word": "苏醒廖语辰首次公开合照",
+      "onboard_time": 1707574726,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573070,
       "num": 573070,
       "word": "老舅说唱太顶了",
@@ -5139,6 +5147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 512953,
+      "num": 319199,
+      "word": "杨超越比小品好看",
+      "onboard_time": 1707572079,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511657,
       "num": 511657,
       "word": "关晓彤穿明制",
@@ -5520,14 +5536,6 @@
       "word": "白敬亭对陆之昂的回应",
       "onboard_time": 1707549092,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 478951,
-      "num": 319199,
-      "word": "杨超越比小品好看",
-      "onboard_time": 1707572079,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -7931,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307235,
+      "num": 307235,
+      "word": "世界之外短信",
+      "onboard_time": 1707574841,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307220,
       "num": 307220,
       "word": "工作一年过年给爸妈多少钱",
@@ -8360,6 +8376,14 @@
       "word": "央视镜头下的章若楠",
       "onboard_time": 1707465631,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288672,
+      "num": 247372,
+      "word": "时代少年团 新四大CP",
+      "onboard_time": 1707575199,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -10027,6 +10051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235944,
+      "num": 235944,
+      "word": "宋小宝柳岩 他逃她追",
+      "onboard_time": 1707575327,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235943,
       "num": 235943,
       "word": "当00后负责搞年会",
@@ -10089,6 +10121,14 @@
       "onboard_time": 1706967214,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234604,
+      "num": 234604,
+      "word": "飞驰人生2沈腾演技",
+      "onboard_time": 1707574841,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 234415,
@@ -10793,6 +10833,14 @@
       "onboard_time": 1706988019,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218035,
+      "num": 218035,
+      "word": "侯雯元唱跳 真挚的搞笑",
+      "onboard_time": 1707574359,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 217727,
@@ -11969,14 +12017,6 @@
       "onboard_time": 1707459334,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199743,
-      "num": 199743,
-      "word": "侯雯元唱跳 真挚的搞笑",
-      "onboard_time": 1707574359,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 199714,
@@ -17017,6 +17057,14 @@
       "onboard_time": 1707182252,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127681,
+      "num": 227362,
+      "word": "杭州一地藏着2000多条龙",
+      "onboard_time": 1707574542,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127479,
