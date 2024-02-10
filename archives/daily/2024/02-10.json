@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707528489441,
+  "endTime": 1707530385256,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7961544,
+      "num": 7961544,
+      "word": "现在的贾玲",
+      "onboard_time": 1707527318,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 7522920,
       "num": 7522920,
       "word": "难忘今宵",
@@ -49,14 +57,6 @@
       "onboard_time": 1707494566,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5623786,
-      "num": 5623786,
-      "word": "现在的贾玲",
-      "onboard_time": 1707527318,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 3937219,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 2114676,
-      "num": 1408522,
+      "num": 1550958,
       "word": "贾玲下颌线",
       "onboard_time": 1707527493,
       "rank": 5,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1607334,
+      "num": 1607334,
+      "word": "热辣滚烫上映",
+      "onboard_time": 1707526658,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1605616,
       "num": 1605616,
       "word": "马丽的鞋好看",
@@ -219,12 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1572369,
-      "num": 1572369,
-      "word": "热辣滚烫上映",
-      "onboard_time": 1707526658,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 1587645,
+      "num": 1587645,
+      "word": "何老师偷偷喊了撒撒",
+      "onboard_time": 1707527078,
+      "rank": 25,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1517892,
@@ -283,20 +291,20 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1109813,
-      "num": 1109813,
-      "word": "何老师偷偷喊了撒撒",
-      "onboard_time": 1707527078,
-      "rank": 25,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 1087388,
       "num": 1087388,
       "word": "尼格买提偷偷藏不住",
       "onboard_time": 1707520164,
       "rank": 11,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1081307,
+      "num": 1081307,
+      "word": "尼格买提复盘刘谦魔术穿帮",
+      "onboard_time": 1707521847,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1077012,
@@ -312,14 +320,6 @@
       "word": "春晚没有科目三",
       "onboard_time": 1707497694,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1042847,
-      "num": 997937,
-      "word": "尼格买提复盘刘谦魔术穿帮",
-      "onboard_time": 1707521847,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 692380,
-      "num": 592059,
+      "num": 656512,
       "word": "网友解密刘谦魔术公式",
       "onboard_time": 1707522750,
       "rank": 18,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 681482,
-      "num": 681482,
+      "num": 879982,
       "word": "俄罗斯4位总统候选人名单",
       "onboard_time": 1707525516,
       "rank": 11,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631832,
+      "num": 631832,
+      "word": "陈哲远微博发了14万红包",
+      "onboard_time": 1707529601,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625316,
       "num": 419511,
       "word": "终于等到汪苏泷",
@@ -528,6 +536,22 @@
       "word": "花花C位",
       "onboard_time": 1707481191,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 540409,
+      "num": 540409,
+      "word": "马凡舒 典雅东方美人",
+      "onboard_time": 1707528278,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 534328,
+      "num": 534328,
+      "word": "何炅你好 撒撒",
+      "onboard_time": 1707529061,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 500743,
-      "num": 444512,
+      "num": 453414,
       "word": "春晚导演模仿小尼内心戏",
       "onboard_time": 1707525216,
       "rank": 21,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 455926,
-      "num": 506940,
+      "num": 534978,
       "word": "龙年文案",
       "onboard_time": 1707497338,
       "rank": 34,
@@ -619,8 +643,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395199,
-      "num": 532502,
+      "raw_hot": 395940,
+      "num": 672183,
       "word": "花花",
       "onboard_time": 1707526537,
       "rank": 29,
@@ -635,19 +659,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386201,
-      "num": 236514,
-      "word": "西安分会场 放文旅宣传片是吧",
-      "onboard_time": 1707523954,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 383307,
-      "num": 236146,
+      "raw_hot": 386505,
+      "num": 386505,
       "word": "0713有梦想了不起",
       "onboard_time": 1707524257,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386201,
+      "num": 294658,
+      "word": "西安分会场 放文旅宣传片是吧",
+      "onboard_time": 1707523954,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356151,
+      "num": 356151,
+      "word": "迪丽热巴新疆舞动了谁的DNA",
+      "onboard_time": 1707529601,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337577,
       "num": 1235938,
       "word": "龙年",
@@ -680,14 +712,6 @@
       "word": "白敬亭春晚下班直播",
       "onboard_time": 1707501509,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 322082,
-      "num": 206399,
-      "word": "马凡舒 典雅东方美人",
-      "onboard_time": 1707528278,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 246276,
-      "num": 246276,
+      "num": 360232,
       "word": "新年快乐",
       "onboard_time": 1707525456,
       "rank": 28,
@@ -779,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146296,
+      "num": 432667,
+      "word": "爱马仕在所有地区强劲增长",
+      "onboard_time": 1707527257,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132583,
       "num": 171530,
       "word": "阴阳师守岁庆典",
@@ -811,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117787,
-      "num": 229574,
-      "word": "爱马仕在所有地区强劲增长",
-      "onboard_time": 1707527257,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 113445,
+      "num": 357891,
+      "word": "烟花",
+      "onboard_time": 1707528876,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113027,
@@ -875,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89788,
+      "num": 245330,
+      "word": "中国1月新增人民币贷款4.92万亿元",
+      "onboard_time": 1707529541,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81703,
       "num": 234135,
       "word": "花花龙年表情包",
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 64716,
-      "num": 229933,
+      "num": 245330,
       "word": "奶奶编发",
       "onboard_time": 1707526177,
       "rank": 48,
@@ -995,8 +1035,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17428,
-      "num": 2346501,
+      "raw_hot": 19933,
+      "num": 2382048,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,
