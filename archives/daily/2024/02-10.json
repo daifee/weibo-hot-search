@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707553140288,
+  "endTime": 1707554041766,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3114458,
+      "num": 3114458,
+      "word": "贾玲减肥全记录",
+      "onboard_time": 1707551436,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2910834,
       "num": 2910834,
       "word": "杨幂好甜",
@@ -129,14 +137,6 @@
       "onboard_time": 1707495118,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2660805,
-      "num": 2660805,
-      "word": "贾玲减肥全记录",
-      "onboard_time": 1707551436,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 2534675,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2042620,
-      "num": 642963,
+      "num": 717548,
       "word": "极兔快递",
       "onboard_time": 1707545732,
       "rank": 29,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1350337,
+      "num": 835011,
+      "word": "尼格买提有人陪你了",
+      "onboard_time": 1707552454,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1347948,
       "num": 856498,
       "word": "南方小土豆虽迟但到",
@@ -345,6 +353,14 @@
       "onboard_time": 1707492771,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1176355,
+      "num": 1176355,
+      "word": "极兔速递否认发布争议言论",
+      "onboard_time": 1707551495,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1170304,
@@ -401,14 +417,6 @@
       "onboard_time": 1707497694,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1032609,
-      "num": 1032609,
-      "word": "极兔速递否认发布争议言论",
-      "onboard_time": 1707551495,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1001871,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 687062,
-      "num": 266486,
+      "num": 600028,
       "word": "魔术 分秒不差",
       "onboard_time": 1707550836,
       "rank": 11,
@@ -601,6 +609,14 @@
       "onboard_time": 1707540695,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 684999,
+      "num": 684999,
+      "word": "撒撒给何老师的备注",
+      "onboard_time": 1707552936,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 684441,
@@ -617,6 +633,14 @@
       "onboard_time": 1707525516,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 678311,
+      "num": 530159,
+      "word": "AD钙奶姐",
+      "onboard_time": 1707549092,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 676002,
@@ -651,28 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 652866,
-      "num": 530159,
-      "word": "AD钙奶姐",
-      "onboard_time": 1707549092,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 649437,
       "num": 700944,
       "word": "新年祝福",
       "onboard_time": 1707473432,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 642839,
-      "num": 258656,
-      "word": "尼格买提有人陪你了",
-      "onboard_time": 1707552454,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 638733,
@@ -867,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509210,
+      "num": 509210,
+      "word": "春晚结束总导演一句话戳心了",
+      "onboard_time": 1707548372,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500743,
       "num": 453414,
       "word": "春晚导演模仿小尼内心戏",
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479094,
+      "num": 479094,
+      "word": "白敬亭对陆之昂的回应",
+      "onboard_time": 1707549092,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474538,
       "num": 410840,
       "word": "杨幂刘诗诗后台合照",
@@ -923,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 465499,
-      "num": 433292,
-      "word": "白敬亭对陆之昂的回应",
-      "onboard_time": 1707549092,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 463671,
       "num": 364295,
       "word": "热巴卡点转圈",
@@ -953,14 +969,6 @@
       "onboard_time": 1707480339,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434045,
-      "num": 406121,
-      "word": "春晚结束总导演一句话戳心了",
-      "onboard_time": 1707548372,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 433922,
@@ -1124,15 +1132,15 @@
     },
     {
       "raw_hot": 351001,
-      "num": 685217,
+      "num": 889132,
       "word": "小龙糕",
       "onboard_time": 1707545194,
       "rank": 19,
       "category": "游戏"
     },
     {
-      "raw_hot": 347332,
-      "num": 264162,
+      "raw_hot": 349306,
+      "num": 349306,
       "word": "第二十条 国产法律电影",
       "onboard_time": 1707551793,
       "rank": 20,
@@ -1211,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305535,
+      "num": 305535,
+      "word": "我的妈我的姥我的玲儿整挺好",
+      "onboard_time": 1707553533,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 304902,
       "num": 304902,
       "word": "肖战北京台春晚海报",
@@ -1243,28 +1259,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285742,
+      "num": 285742,
+      "word": "飞驰人生2穿越5年的回望",
+      "onboard_time": 1707552096,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278796,
       "num": 278796,
       "word": "黄轩abo文学研究得很透彻啊",
       "onboard_time": 1707549274,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273232,
-      "num": 257268,
-      "word": "撒撒给何老师的备注",
-      "onboard_time": 1707552936,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 271320,
-      "num": 262819,
-      "word": "飞驰人生2穿越5年的回望",
-      "onboard_time": 1707552096,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 267116,
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 251737,
-      "num": 263182,
+      "num": 284238,
       "word": "这居然是红包不是试卷",
       "onboard_time": 1707550956,
       "rank": 24,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1707525456,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236964,
+      "num": 236964,
+      "word": "第二十条全国首映礼直播",
+      "onboard_time": 1707553057,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 234811,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1707530679,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229830,
+      "num": 269246,
+      "word": "中国女篮vs法国女篮",
+      "onboard_time": 1707553954,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 228919,
@@ -1467,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179245,
+      "num": 179245,
+      "word": "回了村的猫咪都在干什么",
+      "onboard_time": 1707553297,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177051,
       "num": 203686,
       "word": "林高远送龙年祝福",
@@ -1500,7 +1532,7 @@
     },
     {
       "raw_hot": 172522,
-      "num": 260947,
+      "num": 266129,
       "word": "任子威林孝埈合照",
       "onboard_time": 1707551016,
       "rank": 28,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1707502587,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143919,
+      "num": 265657,
+      "word": "西安今年怕是又没淡季了",
+      "onboard_time": 1707553057,
+      "rank": 29,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 141306,
@@ -1915,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22346,
+      "num": 553629,
+      "word": "元梦之星红包开撒",
+      "onboard_time": 1707552038,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21611,
       "num": 2382048,
       "word": "锦绣中国年",
@@ -1923,12 +1971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19216,
-      "num": 265699,
-      "word": "元梦之星红包开撒",
-      "onboard_time": 1707552038,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 13125,
+      "num": 217627,
+      "word": "这福气我要定了",
+      "onboard_time": 1707553417,
+      "rank": 37,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
