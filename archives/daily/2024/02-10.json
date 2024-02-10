@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707564826889,
+  "endTime": 1707568133088,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -9,6 +9,14 @@
       "onboard_time": 1707493577,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10511056,
+      "num": 10511056,
+      "word": "贾玲直播",
+      "onboard_time": 1707548914,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 10375514,
@@ -59,10 +67,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6952225,
-      "num": 6952225,
-      "word": "贾玲直播",
-      "onboard_time": 1707548914,
+      "raw_hot": 6902851,
+      "num": 6902851,
+      "word": "贾玲 真的震撼",
+      "onboard_time": 1707567696,
       "rank": 1,
       "category": "电影"
     },
@@ -75,11 +83,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 5088557,
-      "num": 5088557,
+      "raw_hot": 5149167,
+      "num": 5149167,
       "word": "贾玲减肥全记录",
       "onboard_time": 1707551436,
       "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 5013290,
+      "num": 252739,
+      "word": "贾玲太美了",
+      "onboard_time": 1707567696,
+      "rank": 10,
       "category": "电影"
     },
     {
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 861853,
+      "num": 670094,
+      "word": "赵丽颖表弟说姐姐你太厉害了",
+      "onboard_time": 1707564036,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 853756,
       "num": 712488,
       "word": "陈哲远微博发了14万红包",
@@ -739,12 +763,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 670094,
-      "num": 670094,
-      "word": "赵丽颖表弟说姐姐你太厉害了",
-      "onboard_time": 1707564036,
+      "raw_hot": 671703,
+      "num": 250164,
+      "word": "春晚还得是冯巩",
+      "onboard_time": 1707566500,
       "rank": 15,
-      "category": "电影"
+      "category": "综艺"
     },
     {
       "raw_hot": 656332,
@@ -904,6 +928,14 @@
       "word": "春晚就是一个巨大的芒果",
       "onboard_time": 1707535657,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 543865,
+      "num": 247098,
+      "word": "陈楚生现挂 岳云鹏笑场",
+      "onboard_time": 1707567155,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -1099,6 +1131,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 446821,
+      "num": 5287271,
+      "word": "北京台春晚好看",
+      "onboard_time": 1707566257,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 446411,
+      "num": 248477,
+      "word": "北京台春晚上来就跳科目三",
+      "onboard_time": 1707565719,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446378,
       "num": 425157,
       "word": "唐嫣回应父亲每日接送下班",
@@ -1251,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361500,
+      "num": 229742,
+      "word": "王传君窦靖童演情侣",
+      "onboard_time": 1707566377,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360912,
       "num": 2146849,
       "word": "40岁儿子跪着向妈妈讨要新年红包",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1707562836,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324356,
+      "num": 263695,
+      "word": "北京卫视春晚",
+      "onboard_time": 1707564640,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 323461,
@@ -1491,14 +1555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 273593,
-      "num": 263695,
-      "word": "北京卫视春晚",
-      "onboard_time": 1707564640,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267116,
       "num": 200308,
       "word": "刘耀文路演",
@@ -1571,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253185,
+      "num": 253185,
+      "word": "广州烟花",
+      "onboard_time": 1707564577,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251737,
       "num": 284238,
       "word": "这居然是红包不是试卷",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1707546633,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246279,
+      "num": 246279,
+      "word": "微信用户除夕夜抢红包50.8亿个",
+      "onboard_time": 1707565598,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 246276,
@@ -1651,6 +1723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219004,
+      "num": 219004,
+      "word": "赵丽颖回应廊坊小骄傲",
+      "onboard_time": 1707567639,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218313,
       "num": 284474,
       "word": "西安今年怕是又没淡季了",
@@ -1675,12 +1755,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214105,
+      "num": 214105,
+      "word": "韩红瘦了",
+      "onboard_time": 1707567819,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207922,
       "num": 207922,
       "word": "陈丽君李云霄 小石子荡起波澜",
       "onboard_time": 1707563076,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204114,
+      "num": 146319,
+      "word": "热辣滚烫 爱自己",
+      "onboard_time": 1707567882,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 202937,
@@ -1697,6 +1793,14 @@
       "onboard_time": 1707543874,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 200148,
+      "num": 145459,
+      "word": "钟辰乐黄仁俊开场",
+      "onboard_time": 1707565895,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 199383,
@@ -1761,6 +1865,22 @@
       "onboard_time": 1707501810,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183988,
+      "num": 233829,
+      "word": "派出所发红包被哄抢后民警表情凝固",
+      "onboard_time": 1707565301,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181297,
+      "num": 140616,
+      "word": "Selina大年初一晒全家福",
+      "onboard_time": 1707566257,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 179245,
@@ -1907,6 +2027,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 148188,
+      "num": 148188,
+      "word": "四川腐乳已经火到国外了",
+      "onboard_time": 1707567278,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146426,
       "num": 432667,
       "word": "爱马仕在所有地区强劲增长",
@@ -2043,20 +2171,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111187,
-      "num": 223975,
-      "word": "广州烟花",
-      "onboard_time": 1707564577,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107085,
       "num": 232612,
       "word": "敬业福",
       "onboard_time": 1707512957,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106095,
+      "num": 136306,
+      "word": "女子带男友回老家发小们拍照围观",
+      "onboard_time": 1707566321,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102758,
@@ -2361,6 +2489,14 @@
       "onboard_time": 1707553417,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10251,
+      "num": 250758,
+      "word": "元梦宠你人人有红包",
+      "onboard_time": 1707567340,
+      "rank": 14,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
