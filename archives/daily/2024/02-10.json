@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707543235829,
+  "endTime": 1707546039231,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1185424,
+      "num": 1185424,
+      "word": "任鲁豫春晚救场",
+      "onboard_time": 1707543395,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1170304,
       "num": 889321,
       "word": "只听声就知道是孙楠张杰",
@@ -321,6 +329,14 @@
       "onboard_time": 1707533434,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1103334,
+      "num": 1103334,
+      "word": "周深父母对儿子没参加春晚的反应",
+      "onboard_time": 1707542376,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1087388,
@@ -491,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 752408,
+      "num": 752408,
+      "word": "陆之昂 我要上春晚肯定就红了",
+      "onboard_time": 1707543572,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739728,
       "num": 685620,
       "word": "刘雯带井柏然回老家",
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 685462,
-      "num": 332730,
+      "num": 382812,
       "word": "意媒曝朱婷收到意土豪门邀约",
       "onboard_time": 1707540695,
       "rank": 30,
@@ -592,14 +616,6 @@
       "word": "保洁阿姨 明年这个变魔术的别来了",
       "onboard_time": 1707522389,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 636904,
-      "num": 331789,
-      "word": "周深父母对儿子没参加春晚的反应",
-      "onboard_time": 1707542376,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -699,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543528,
+      "num": 384182,
+      "word": "她是更fit了 而不只是瘦了",
+      "onboard_time": 1707542496,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 540409,
       "num": 540409,
       "word": "马凡舒 典雅东方美人",
@@ -747,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508739,
+      "num": 383744,
+      "word": "梅西登场门",
+      "onboard_time": 1707545494,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500743,
       "num": 453414,
       "word": "春晚导演模仿小尼内心戏",
       "onboard_time": 1707525216,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490062,
-      "num": 331676,
-      "word": "她是更fit了 而不只是瘦了",
-      "onboard_time": 1707542496,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 489127,
@@ -915,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385442,
+      "num": 385442,
+      "word": "新疆8分钟惊艳世界",
+      "onboard_time": 1707543336,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 375374,
+      "num": 375374,
+      "word": "赵丽颖演技",
+      "onboard_time": 1707545494,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 366056,
       "num": 333836,
       "word": "沙溢谈贾玲在片场流泪",
@@ -929,6 +969,14 @@
       "onboard_time": 1707530800,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365033,
+      "num": 341403,
+      "word": "热辣滚烫好看吗",
+      "onboard_time": 1707545255,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 360912,
@@ -961,6 +1009,22 @@
       "onboard_time": 1707536138,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 351001,
+      "num": 351001,
+      "word": "小龙糕",
+      "onboard_time": 1707545194,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 340935,
+      "num": 385146,
+      "word": "大理通报游客被骂穷光蛋",
+      "onboard_time": 1707544414,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337577,
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300183,
+      "num": 300183,
+      "word": "樊振东给彭昱畅宣传新电影",
+      "onboard_time": 1707544114,
+      "rank": 24,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 289653,
       "num": 244668,
       "word": "如愿",
@@ -1059,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258254,
+      "num": 258254,
+      "word": "刘诗诗张云龙新剧花絮",
+      "onboard_time": 1707544714,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258028,
       "num": 258028,
       "word": "loong",
@@ -1081,6 +1161,30 @@
       "onboard_time": 1707525456,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245342,
+      "num": 245342,
+      "word": "王栎鑫说0713魏晨也来了",
+      "onboard_time": 1707545673,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237305,
+      "num": 237305,
+      "word": "尼格买提复盘",
+      "onboard_time": 1707545916,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234811,
+      "num": 234811,
+      "word": "五阿哥挨着五阿哥",
+      "onboard_time": 1707544356,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 233866,
@@ -1123,6 +1227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200986,
+      "num": 241038,
+      "word": "扑克牌其实是一套天文历法",
+      "onboard_time": 1707543874,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 199383,
+      "num": 240151,
+      "word": "张雪峰 我怎么那么格格不入",
+      "onboard_time": 1707545194,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197583,
       "num": 197583,
       "word": "巨人 三笠大美人",
@@ -1145,6 +1265,14 @@
       "onboard_time": 1707501810,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180045,
+      "num": 284110,
+      "word": "极兔快递",
+      "onboard_time": 1707545732,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177051,
@@ -1201,6 +1329,14 @@
       "onboard_time": 1707498407,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161255,
+      "num": 239835,
+      "word": "香蕉为什么是弯的",
+      "onboard_time": 1707545732,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 146426,
