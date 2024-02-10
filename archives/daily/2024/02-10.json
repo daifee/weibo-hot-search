@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707530385256,
+  "endTime": 1707531618501,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7961544,
-      "num": 7961544,
+      "raw_hot": 8062954,
+      "num": 8062954,
       "word": "现在的贾玲",
       "onboard_time": 1707527318,
       "rank": 17,
@@ -211,12 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1607334,
-      "num": 1607334,
+      "raw_hot": 1699812,
+      "num": 1699812,
       "word": "热辣滚烫上映",
       "onboard_time": 1707526658,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1656971,
+      "num": 1656971,
+      "word": "何老师偷偷喊了撒撒",
+      "onboard_time": 1707527078,
+      "rank": 25,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1605616,
@@ -225,14 +233,6 @@
       "onboard_time": 1707494287,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1587645,
-      "num": 1587645,
-      "word": "何老师偷偷喊了撒撒",
-      "onboard_time": 1707527078,
-      "rank": 25,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1517892,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853756,
+      "num": 712488,
+      "word": "陈哲远微博发了14万红包",
+      "onboard_time": 1707529601,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829405,
       "num": 718346,
       "word": "胡歌杨幂唐嫣开场同台",
@@ -459,6 +467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 676002,
+      "num": 676002,
+      "word": "好莱坞全球发行热辣滚烫",
+      "onboard_time": 1707530741,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 656332,
       "num": 656332,
       "word": "陈哲远的年夜饭",
@@ -497,14 +513,6 @@
       "onboard_time": 1707522389,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 631832,
-      "num": 631832,
-      "word": "陈哲远微博发了14万红包",
-      "onboard_time": 1707529601,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 625316,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418620,
+      "num": 418620,
+      "word": "终于体现到苏醒的重重重要性了",
+      "onboard_time": 1707530441,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406750,
       "num": 406750,
       "word": "春晚小品笑点",
@@ -657,6 +673,14 @@
       "onboard_time": 1707487647,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391690,
+      "num": 232672,
+      "word": "贾玲换微博头像",
+      "onboard_time": 1707531459,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 386505,
@@ -723,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311189,
+      "num": 429224,
+      "word": "男子反诈意识强中奖汽车后反教育客服",
+      "onboard_time": 1707530800,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284010,
       "num": 231911,
       "word": "说贾玲拿减肥当电影噱头的",
@@ -744,6 +776,14 @@
       "word": "新年快乐",
       "onboard_time": 1707525456,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 232862,
+      "num": 404904,
+      "word": "春节压岁钱花光了我的年终奖",
+      "onboard_time": 1707530679,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -771,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179541,
+      "num": 232680,
+      "word": "阿根廷3月热身赛或移师美国",
+      "onboard_time": 1707531278,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174494,
       "num": 174494,
       "word": "春晚串烧",
@@ -795,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146426,
+      "num": 432667,
+      "word": "爱马仕在所有地区强劲增长",
+      "onboard_time": 1707527257,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146357,
       "num": 184356,
       "word": "接财神",
       "onboard_time": 1707502587,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146296,
-      "num": 432667,
-      "word": "爱马仕在所有地区强劲增长",
-      "onboard_time": 1707527257,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 132583,
@@ -825,6 +873,14 @@
       "onboard_time": 1707490992,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129378,
+      "num": 245330,
+      "word": "中国1月新增人民币贷款4.92万亿元",
+      "onboard_time": 1707529541,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 124676,
@@ -860,11 +916,19 @@
     },
     {
       "raw_hot": 107085,
-      "num": 230512,
+      "num": 232612,
       "word": "敬业福",
       "onboard_time": 1707512957,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105675,
+      "num": 676850,
+      "word": "网友喊话淘宝生产晚会同款鹅帽",
+      "onboard_time": 1707530441,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102123,
@@ -905,14 +969,6 @@
       "onboard_time": 1707519803,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89788,
-      "num": 245330,
-      "word": "中国1月新增人民币贷款4.92万亿元",
-      "onboard_time": 1707529541,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 81703,
@@ -1035,7 +1091,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19933,
+      "raw_hot": 20640,
       "num": 2382048,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
