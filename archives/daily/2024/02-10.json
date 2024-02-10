@@ -1,6 +1,6 @@
 {
   "startTime": 1707495657871,
-  "endTime": 1707572033071,
+  "endTime": 1707574502378,
   "band_list": [
     {
       "raw_hot": 13074244,
@@ -145,6 +145,14 @@
       "onboard_time": 1707490289,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3088374,
+      "num": 329599,
+      "word": "贾玲 我的减重是非常健康的",
+      "onboard_time": 1707574359,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 2910834,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1750119,
+      "num": 1750119,
+      "word": "小尼工作保住了",
+      "onboard_time": 1707572735,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1656971,
       "num": 1656971,
       "word": "何老师偷偷喊了撒撒",
@@ -323,12 +339,28 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1633902,
+      "num": 1633902,
+      "word": "张小斐主演电影票房破70亿",
+      "onboard_time": 1707572380,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1605616,
       "num": 1605616,
       "word": "马丽的鞋好看",
       "onboard_time": 1707494287,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1582014,
+      "num": 328017,
+      "word": "梅西ins更新",
+      "onboard_time": 1707573761,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1575359,
@@ -417,6 +449,14 @@
       "onboard_time": 1707555696,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1240129,
+      "num": 1240129,
+      "word": "肖战唱如愿",
+      "onboard_time": 1707574240,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1230218,
@@ -579,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 917235,
+      "num": 917235,
+      "word": "王冰冰演小品摔了一跤",
+      "onboard_time": 1707571603,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 886961,
       "num": 2458234,
       "word": "龙行龘龘",
@@ -659,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806893,
+      "num": 768250,
+      "word": "肖战站C位果然是马丽雷佳音商量好的",
+      "onboard_time": 1707569142,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 798899,
       "num": 2287848,
       "word": "红包封面",
@@ -705,14 +761,6 @@
       "onboard_time": 1707495598,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 768250,
-      "num": 768250,
-      "word": "肖战站C位果然是马丽雷佳音商量好的",
-      "onboard_time": 1707569142,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 762274,
@@ -865,6 +913,14 @@
       "onboard_time": 1707569199,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 639405,
+      "num": 407960,
+      "word": "鞠婧祎陈丽君 仙品",
+      "onboard_time": 1707571780,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 638733,
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505882,
+      "num": 493504,
+      "word": "热辣滚烫 爱自己",
+      "onboard_time": 1707567882,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 502793,
       "num": 502793,
       "word": "把刘诗诗看成陈都灵",
@@ -1113,14 +1177,6 @@
       "onboard_time": 1707525216,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 493504,
-      "num": 493504,
-      "word": "热辣滚烫 爱自己",
-      "onboard_time": 1707567882,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 489127,
@@ -1152,6 +1208,14 @@
       "word": "白敬亭对陆之昂的回应",
       "onboard_time": 1707549092,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 478951,
+      "num": 319199,
+      "word": "杨超越比小品好看",
+      "onboard_time": 1707572079,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1251,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432199,
+      "num": 314699,
+      "word": "游本昌终身成就艺术家",
+      "onboard_time": 1707572498,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427180,
       "num": 427180,
       "word": "终于体现到苏醒的重重重要性了",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1707469051,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 407960,
-      "num": 407960,
-      "word": "鞠婧祎陈丽君 仙品",
-      "onboard_time": 1707571780,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 406750,
@@ -1337,14 +1401,6 @@
       "onboard_time": 1707558157,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 391048,
-      "num": 391048,
-      "word": "王冰冰演小品摔了一跤",
-      "onboard_time": 1707571603,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 387491,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1707501509,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332295,
+      "num": 332295,
+      "word": "世界之外 接通了",
+      "onboard_time": 1707572259,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 325349,
@@ -1675,12 +1739,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277505,
+      "num": 277505,
+      "word": "唐嫣唱偷心",
+      "onboard_time": 1707571898,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267116,
       "num": 200308,
       "word": "刘耀文路演",
       "onboard_time": 1707541891,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265655,
+      "num": 311103,
+      "word": "第一次见猫被气得直喘气",
+      "onboard_time": 1707571182,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 264357,
+      "num": 331909,
+      "word": "中国女篮获巴黎奥运参赛资格",
+      "onboard_time": 1707571661,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 264176,
@@ -1843,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221180,
+      "num": 221180,
+      "word": "刘涛佘诗曼张钧甯好养眼",
+      "onboard_time": 1707573276,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219004,
       "num": 219004,
       "word": "赵丽颖回应廊坊小骄傲",
@@ -1875,14 +1971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214611,
-      "num": 214611,
-      "word": "第一次见猫被气得直喘气",
-      "onboard_time": 1707571182,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209277,
       "num": 209277,
       "word": "热辣滚烫票房破4亿",
@@ -1896,14 +1984,6 @@
       "word": "陈丽君李云霄 小石子荡起波澜",
       "onboard_time": 1707563076,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206611,
-      "num": 206611,
-      "word": "唐嫣唱偷心",
-      "onboard_time": 1707571898,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1931,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199743,
+      "num": 199743,
+      "word": "侯雯元唱跳 真挚的搞笑",
+      "onboard_time": 1707574359,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199383,
       "num": 279393,
       "word": "张雪峰 我怎么那么格格不入",
@@ -1955,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195702,
+      "num": 302612,
+      "word": "豆瓣崩了",
+      "onboard_time": 1707573221,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "中国电视剧年度盛典",
@@ -1971,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194298,
+      "num": 318275,
+      "word": "中国女篮主帅道歉",
+      "onboard_time": 1707574180,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188754,
       "num": 188754,
       "word": "杨幂好美",
@@ -1985,14 +2089,6 @@
       "onboard_time": 1707564275,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186892,
-      "num": 263837,
-      "word": "中国女篮获巴黎奥运参赛资格",
-      "onboard_time": 1707571661,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 186284,
@@ -2217,6 +2313,14 @@
       "onboard_time": 1707561456,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 136642,
+      "num": 136642,
+      "word": "恋与深空沈星回",
+      "onboard_time": 1707572498,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 136567,
