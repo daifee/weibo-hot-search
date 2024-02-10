@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707590126478,
+  "endTime": 1707592370713,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131014,
+      "num": 71447,
+      "word": "繁花整组都不知道郑恺什么时候杀青",
+      "onboard_time": 1707589820,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114336,
       "num": 114336,
       "word": "韩红瘦了",
@@ -427,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70951,
-      "num": 52352,
-      "word": "繁花整组都不知道郑恺什么时候杀青",
-      "onboard_time": 1707589820,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57394,
       "num": 180959,
       "word": "中国女篮获巴黎奥运参赛资格",
@@ -449,6 +449,14 @@
       "onboard_time": 1707580833,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29501,
+      "num": 29501,
+      "word": "快乐老友记",
+      "onboard_time": 1707592037,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 26173,
