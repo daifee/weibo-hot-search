@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707597230697,
+  "endTime": 1707599725311,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -435,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63177,
+      "num": 38423,
+      "word": "贾玲下一部电影有杨紫张小斐",
+      "onboard_time": 1707598696,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57394,
       "num": 180959,
       "word": "中国女篮获巴黎奥运参赛资格",
@@ -449,6 +457,14 @@
       "onboard_time": 1707580833,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32704,
+      "num": 32704,
+      "word": "马斯克将用X取代移动通信",
+      "onboard_time": 1707595876,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 29501,
@@ -507,16 +523,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19506,
-      "num": 19506,
-      "word": "马斯克将用X取代移动通信",
-      "onboard_time": 1707595876,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 17584,
-      "num": 17584,
+      "raw_hot": 18191,
+      "num": 18191,
       "word": "董宇辉北京台春晚拜年",
       "onboard_time": 1707596835,
       "rank": 44,
