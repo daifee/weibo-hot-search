@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707603292435,
+  "endTime": 1707604427897,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99146,
+      "num": 99146,
+      "word": "贾玲下一部电影有杨紫张小斐",
+      "onboard_time": 1707598696,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94810,
       "num": 94810,
       "word": "周星驰接员工红包",
@@ -427,12 +435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79802,
-      "num": 51864,
-      "word": "贾玲下一部电影有杨紫张小斐",
-      "onboard_time": 1707598696,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 77821,
+      "num": 77821,
+      "word": "马斯克将用X取代移动通信",
+      "onboard_time": 1707595876,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 74332,
@@ -441,14 +449,6 @@
       "onboard_time": 1707586286,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 69045,
-      "num": 69045,
-      "word": "马斯克将用X取代移动通信",
-      "onboard_time": 1707595876,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 57394,
@@ -475,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29421,
+      "num": 29421,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26173,
       "num": 1249505,
       "word": "网络中国节",
       "onboard_time": 1707554498,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24676,
-      "num": 24676,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 24550,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20860,
+      "num": 20860,
+      "word": "贾冰韩雪再演夫妻",
+      "onboard_time": 1707599956,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20556,
       "num": 19583,
       "word": "百花迎春",
@@ -523,28 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20249,
-      "num": 20249,
-      "word": "贾冰韩雪再演夫妻",
-      "onboard_time": 1707599956,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18191,
-      "num": 18191,
-      "word": "董宇辉北京台春晚拜年",
-      "onboard_time": 1707596835,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15676,
-      "num": 15676,
+      "raw_hot": 20288,
+      "num": 20288,
       "word": "山东一桌三十四道菜的大席你吃过没",
       "onboard_time": 1707602295,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18945,
+      "num": 18945,
+      "word": "董宇辉北京台春晚拜年",
+      "onboard_time": 1707596835,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
