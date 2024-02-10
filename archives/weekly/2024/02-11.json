@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707582049910,
+  "endTime": 1707582898047,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1972947,
-      "num": 448106,
+      "num": 456273,
       "word": "梅西ins更新",
       "onboard_time": 1707573761,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1217497,
-      "num": 445621,
+      "num": 453359,
       "word": "贾玲减肥全记录",
       "onboard_time": 1707551436,
       "rank": 11,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1153357,
-      "num": 442713,
+      "num": 449297,
       "word": "贾玲太美了",
       "onboard_time": 1707567696,
       "rank": 12,
@@ -73,6 +73,14 @@
       "onboard_time": 1707572380,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 583160,
+      "num": 583160,
+      "word": "初二开始走亲戚的你",
+      "onboard_time": 1707580952,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 562939,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 509093,
-      "num": 439811,
+      "num": 443185,
       "word": "苏醒廖语辰首次公开合照",
       "onboard_time": 1707574726,
       "rank": 13,
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300273,
-      "num": 300273,
-      "word": "初二开始走亲戚的你",
-      "onboard_time": 1707580952,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238073,
+      "num": 238073,
+      "word": "周深追星胡歌又出续集了",
+      "onboard_time": 1707582270,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235583,
       "num": 235583,
       "word": "春晚梗图",
@@ -192,6 +200,14 @@
       "word": "热辣滚烫 爱自己",
       "onboard_time": 1707567882,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218665,
+      "num": 218665,
+      "word": "第二十条豆瓣开分8.0分",
+      "onboard_time": 1707581611,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -235,20 +251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198693,
-      "num": 198693,
+      "raw_hot": 199170,
+      "num": 199170,
       "word": "热巴春晚跳舞摔跤了",
       "onboard_time": 1707554912,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193015,
-      "num": 193015,
-      "word": "第二十条豆瓣开分8.0分",
-      "onboard_time": 1707581611,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 191156,
@@ -323,8 +331,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145352,
-      "num": 145352,
+      "raw_hot": 145650,
+      "num": 145650,
       "word": "鞠婧祎 画中仙",
       "onboard_time": 1707569801,
       "rank": 45,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48950,
+      "num": 435788,
+      "word": "蛋仔派对环球影业",
+      "onboard_time": 1707580833,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45309,
       "num": 85640,
       "word": "杭州一地藏着2000多条龙",
@@ -387,15 +403,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33831,
-      "num": 435788,
-      "word": "蛋仔派对环球影业",
-      "onboard_time": 1707580833,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 25214,
+      "raw_hot": 26173,
       "num": 1249505,
       "word": "网络中国节",
       "onboard_time": 1707554498,
