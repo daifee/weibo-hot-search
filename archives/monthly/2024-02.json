@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707608040184,
+  "endTime": 1707614183295,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2563,6 +2563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1102107,
+      "num": 1102107,
+      "word": "贾玲可以和沈腾拍这个视频了",
+      "onboard_time": 1707612574,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1101522,
       "num": 1088782,
       "word": "沈腾瘦了",
@@ -3091,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 965081,
+      "num": 965081,
+      "word": "贾玲谈未来体型管理",
+      "onboard_time": 1707609386,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 964519,
       "num": 745409,
       "word": "郑爽境内外资产单一项就超过2.3亿",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1707377852,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 941799,
+      "num": 398064,
+      "word": "贾玲最轻时体重109.2斤",
+      "onboard_time": 1707612026,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 937398,
@@ -5859,6 +5883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604046,
+      "num": 604046,
+      "word": "凯特王妃坐马车会晕车",
+      "onboard_time": 1707608965,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 603718,
       "num": 603718,
       "word": "王者荣耀小乔",
@@ -6020,7 +6052,7 @@
     },
     {
       "raw_hot": 585615,
-      "num": 422571,
+      "num": 556952,
       "word": "已婚已育的中年女性决定过年谁家也不回",
       "onboard_time": 1707576935,
       "rank": 20,
@@ -7395,6 +7427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 488445,
+      "num": 488445,
+      "word": "杨超越 医保不治恋爱脑",
+      "onboard_time": 1707606919,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488295,
       "num": 488295,
       "word": "荣梓杉成年了",
@@ -8177,6 +8217,14 @@
       "onboard_time": 1707260600,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 436156,
+      "num": 436156,
+      "word": "春节档票房",
+      "onboard_time": 1707611068,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 435641,
@@ -9676,7 +9724,7 @@
     },
     {
       "raw_hot": 364015,
-      "num": 160877,
+      "num": 311263,
       "word": "马丽回应观众妈妈喜欢春晚上的鞋",
       "onboard_time": 1707586462,
       "rank": 13,
@@ -9963,6 +10011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354043,
+      "num": 354043,
+      "word": "大年初二年俗",
+      "onboard_time": 1707610288,
+      "rank": 13,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 353880,
       "num": 353880,
       "word": "严浩翔四杀",
@@ -10113,6 +10169,14 @@
       "onboard_time": 1707267688,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 345120,
+      "num": 345120,
+      "word": "繁花整组都不知道郑恺什么时候杀青",
+      "onboard_time": 1707589820,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 344076,
@@ -10289,6 +10353,14 @@
       "onboard_time": 1706985739,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332745,
+      "num": 211125,
+      "word": "妈妈的对方正在输入",
+      "onboard_time": 1707610589,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332469,
@@ -10561,6 +10633,14 @@
       "onboard_time": 1706888193,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325690,
+      "num": 140502,
+      "word": "爸爸素质不详遇强则强",
+      "onboard_time": 1707612928,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 325349,
@@ -11017,6 +11097,14 @@
       "onboard_time": 1707459990,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311073,
+      "num": 202753,
+      "word": "一天1000条小金龙不够卖",
+      "onboard_time": 1707608361,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310881,
@@ -13851,6 +13939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240686,
+      "num": 240686,
+      "word": "肖战指导工作室设计龙年logo",
+      "onboard_time": 1707607582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240600,
       "num": 240600,
       "word": "一闪一闪亮星星票房破7亿",
@@ -14969,6 +15065,14 @@
       "onboard_time": 1706938889,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222114,
+      "num": 201288,
+      "word": "热辣滚烫治好了我的讨好型人格",
+      "onboard_time": 1707611727,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 221955,
@@ -16835,14 +16939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201185,
-      "num": 157377,
-      "word": "繁花整组都不知道郑恺什么时候杀青",
-      "onboard_time": 1707589820,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201057,
       "num": 201057,
       "word": "山东春晚节目单",
@@ -18081,6 +18177,14 @@
       "onboard_time": 1707061592,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190464,
+      "num": 190464,
+      "word": "马宁称中国足球裁判实现了小目标",
+      "onboard_time": 1707611310,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 190308,
@@ -21395,6 +21499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157086,
+      "num": 157086,
+      "word": "其实摸到的是孙女的幸福",
+      "onboard_time": 1707586286,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156995,
       "num": 156995,
       "word": "炸猪排店的临时停业通知",
@@ -21705,14 +21817,6 @@
       "onboard_time": 1707549752,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 153715,
-      "num": 153715,
-      "word": "肖战指导工作室设计龙年logo",
-      "onboard_time": 1707607582,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 153707,
@@ -23043,6 +23147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141408,
+      "num": 141408,
+      "word": "过年总给我一种失序感",
+      "onboard_time": 1707610526,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141306,
       "num": 158412,
       "word": "大年初一三星堆博物馆挤闷了",
@@ -24067,6 +24179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 133014,
+      "num": 133014,
+      "word": "可爱女生在洛阳把爱好变成事业",
+      "onboard_time": 1707612870,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133007,
       "num": 133007,
       "word": "饼干人王国冰霜女王",
@@ -24785,6 +24905,14 @@
       "onboard_time": 1707218611,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 127216,
+      "num": 127216,
+      "word": "南京有一条含龙量超高的大道",
+      "onboard_time": 1707611967,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 127203,
@@ -25587,6 +25715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "卡塔尔队蝉联亚洲杯冠军",
+      "onboard_time": 1707609386,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119865,
       "num": 119865,
       "word": "店家半夜起来 我真该死啊",
@@ -25913,6 +26049,14 @@
       "onboard_time": 1706775628,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116613,
+      "num": 116613,
+      "word": "沈月vlog",
+      "onboard_time": 1707613290,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 116477,
@@ -26699,6 +26843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106674,
+      "num": 106674,
+      "word": "男子下车就被侄女请去掌勺年夜饭",
+      "onboard_time": 1707613950,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106538,
       "num": 106538,
       "word": "跟拍边防战士记者哭了",
@@ -27123,6 +27275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97197,
+      "num": 97197,
+      "word": "湖人买断市场的神",
+      "onboard_time": 1707608361,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96946,
       "num": 68538,
       "word": "金希澈泡泡头像变成了seventeen",
@@ -27275,14 +27435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94689,
-      "num": 71266,
-      "word": "杨超越 医保不治恋爱脑",
-      "onboard_time": 1707606919,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94212,
       "num": 94212,
       "word": "奶牛猫舞团新舞蹈",
@@ -27307,11 +27459,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93720,
+      "num": 93720,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93647,
       "num": 93647,
       "word": "库里42分",
       "onboard_time": 1707446969,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93608,
+      "num": 93608,
+      "word": "马宁判点",
+      "onboard_time": 1707608244,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -27433,6 +27601,14 @@
       "onboard_time": 1707294152,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91440,
+      "num": 91440,
+      "word": "这场颁奖仪式全屏是马赛克",
+      "onboard_time": 1707606624,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91395,
@@ -27667,6 +27843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82676,
+      "num": 82676,
+      "word": "中国跳水队世锦赛9金收官",
+      "onboard_time": 1707608124,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82406,
       "num": 123959,
       "word": "故宫的中国龙纹太精美了",
@@ -27849,14 +28033,6 @@
       "onboard_time": 1707448588,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77763,
-      "num": 77763,
-      "word": "其实摸到的是孙女的幸福",
-      "onboard_time": 1707586286,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 77467,
@@ -28123,14 +28299,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 67766,
-      "num": 67766,
-      "word": "这场颁奖仪式全屏是马赛克",
-      "onboard_time": 1707606624,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66897,
       "num": 66897,
       "word": "马天宇说cp都是假的",
@@ -28281,14 +28449,6 @@
       "onboard_time": 1707172997,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61176,
-      "num": 61176,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 60939,
