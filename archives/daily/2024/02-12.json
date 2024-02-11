@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707682647189,
+  "endTime": 1707683705071,
   "band_list": [
     {
       "raw_hot": 1701908,
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59925,
+      "raw_hot": 60708,
       "num": 26036,
       "word": "刘涛说现实中胡歌陈龙和繁花反差大",
       "onboard_time": 1707680417,
@@ -475,8 +475,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16834,
-      "num": 19935,
+      "raw_hot": 20426,
+      "num": 20426,
       "word": "我上春山约你来见",
       "onboard_time": 1707680058,
       "rank": 34,
@@ -489,6 +489,14 @@
       "onboard_time": 1707676578,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14731,
+      "num": 17566,
+      "word": "重庆大雨全家福被改编成小品登上春晚",
+      "onboard_time": 1707682037,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 13615,

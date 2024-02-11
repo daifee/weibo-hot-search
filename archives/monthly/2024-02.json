@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707682647189,
+  "endTime": 1707683705071,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -30531,20 +30531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60708,
+      "num": 26036,
+      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+      "onboard_time": 1707680417,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60257,
       "num": 38687,
       "word": "沈腾 皮都展开了",
       "onboard_time": 1707512056,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59925,
-      "num": 26036,
-      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
-      "onboard_time": 1707680417,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 59354,
@@ -31923,6 +31923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20426,
+      "num": 20426,
+      "word": "我上春山约你来见",
+      "onboard_time": 1707680058,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20355,
       "num": 804103,
       "word": "张大大叫你到元梦领红包",
@@ -32059,14 +32067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16834,
-      "num": 19935,
-      "word": "我上春山约你来见",
-      "onboard_time": 1707680058,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16757,
       "num": 19045,
       "word": "回南天 独属南方人的中式怪谈",
@@ -32153,6 +32153,14 @@
       "onboard_time": 1706901439,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14731,
+      "num": 17566,
+      "word": "重庆大雨全家福被改编成小品登上春晚",
+      "onboard_time": 1707682037,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 14698,
