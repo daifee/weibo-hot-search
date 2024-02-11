@@ -1,0 +1,410 @@
+{
+  "runTime": 1707618909966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1319142,
+        "num": 1319142,
+        "word": "贾玲可以和沈腾拍这个视频了",
+        "onboard_time": 1707612574,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1148599,
+        "num": 1148599,
+        "word": "贾玲最轻时体重109.2斤",
+        "onboard_time": 1707612026,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15646,
+        "num": 1020711,
+        "word": "网络中国节",
+        "onboard_time": 1707554498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016621,
+        "num": 1016621,
+        "word": "爸爸素质不详遇强则强",
+        "onboard_time": 1707612928,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 926237,
+        "num": 926237,
+        "word": "贾玲 我的减重是非常健康的",
+        "onboard_time": 1707574359,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 910101,
+        "num": 910101,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1707616467,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 700386,
+        "num": 700386,
+        "word": "UP主实测40小时拆1888元红包",
+        "onboard_time": 1707616766,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601446,
+        "num": 601446,
+        "word": "小尼工作保住了",
+        "onboard_time": 1707572735,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519795,
+        "num": 519795,
+        "word": "初二开始走亲戚的你",
+        "onboard_time": 1707580952,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367904,
+        "num": 367904,
+        "word": "杨超越 医保不治恋爱脑",
+        "onboard_time": 1707606919,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788346,
+        "num": 359877,
+        "word": "梅西ins更新",
+        "onboard_time": 1707573761,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489622,
+        "num": 354540,
+        "word": "贾玲谈未来体型管理",
+        "onboard_time": 1707609386,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479624,
+        "num": 351824,
+        "word": "贾玲为角色增重40斤再减重100斤",
+        "onboard_time": 1707570400,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344957,
+        "num": 344957,
+        "word": "男生误食椰子片被卡重庆民警火速送医",
+        "onboard_time": 1707617610,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318167,
+        "num": 318167,
+        "word": "证监会2024年1号罚单",
+        "onboard_time": 1707617548,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311004,
+        "num": 311004,
+        "word": "热辣滚烫治好了我的讨好型人格",
+        "onboard_time": 1707611727,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296861,
+        "num": 296861,
+        "word": "凯特王妃坐马车会晕车",
+        "onboard_time": 1707608965,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 289717,
+        "num": 289717,
+        "word": "春节档票房",
+        "onboard_time": 1707611068,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287657,
+        "num": 287657,
+        "word": "已婚已育的中年女性决定过年谁家也不回",
+        "onboard_time": 1707576935,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258459,
+        "num": 258459,
+        "word": "张小斐主演电影票房破70亿",
+        "onboard_time": 1707572380,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513279,
+        "num": 256062,
+        "word": "喝牛奶拉肚子的人也不能戒奶",
+        "onboard_time": 1707616827,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 402418,
+        "num": 255101,
+        "word": "西班牙2未成年养子合谋弑母",
+        "onboard_time": 1707616886,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240570,
+        "num": 240570,
+        "word": "一天1000条小金龙不够卖",
+        "onboard_time": 1707608361,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230924,
+        "num": 230924,
+        "word": "艾尔海森",
+        "onboard_time": 1707616827,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224605,
+        "num": 224605,
+        "word": "繁花整组都不知道郑恺什么时候杀青",
+        "onboard_time": 1707589820,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216358,
+        "num": 216358,
+        "word": "男子下车就被侄女请去掌勺年夜饭",
+        "onboard_time": 1707613950,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212641,
+        "num": 212641,
+        "word": "肖战站C位果然是马丽雷佳音商量好的",
+        "onboard_time": 1707569142,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192215,
+        "num": 192215,
+        "word": "宠娃奶奶给4岁孙女做50条新裙子",
+        "onboard_time": 1707617429,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167810,
+        "num": 167810,
+        "word": "大年初二年俗",
+        "onboard_time": 1707610288,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 165302,
+        "num": 165302,
+        "word": "红毯先生排片好少",
+        "onboard_time": 1707614669,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164079,
+        "num": 164079,
+        "word": "飞驰人生2票房",
+        "onboard_time": 1707576335,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203770,
+        "num": 161755,
+        "word": "肖战指导工作室设计龙年logo",
+        "onboard_time": 1707607582,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155650,
+        "num": 155650,
+        "word": "i人春节的至暗时刻belike",
+        "onboard_time": 1707617368,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145685,
+        "num": 145685,
+        "word": "神似易烊千玺小伙创业做私厨月入5万",
+        "onboard_time": 1707578676,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142823,
+        "num": 142823,
+        "word": "妈妈的对方正在输入",
+        "onboard_time": 1707610589,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138881,
+        "num": 138881,
+        "word": "毛晓彤公主花车巡游",
+        "onboard_time": 1707618448,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129908,
+        "num": 129908,
+        "word": "马丽回应观众妈妈喜欢春晚上的鞋",
+        "onboard_time": 1707586462,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120986,
+        "num": 120986,
+        "word": "杨超越比小品好看",
+        "onboard_time": 1707572079,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117476,
+        "num": 117476,
+        "word": "马宁称中国足球裁判实现了小目标",
+        "onboard_time": 1707611310,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113693,
+        "num": 113693,
+        "word": "春晚广告好多",
+        "onboard_time": 1707592456,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108985,
+        "num": 108985,
+        "word": "苏醒廖语辰首次公开合照",
+        "onboard_time": 1707574726,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108755,
+        "num": 108755,
+        "word": "其实摸到的是孙女的幸福",
+        "onboard_time": 1707586286,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107259,
+        "num": 107259,
+        "word": "周深收视又登顶了",
+        "onboard_time": 1707618688,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106328,
+        "num": 106328,
+        "word": "时代少年团 新四大CP",
+        "onboard_time": 1707575199,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102142,
+        "num": 102142,
+        "word": "热辣滚烫上映",
+        "onboard_time": 1707526658,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99766,
+        "num": 99766,
+        "word": "过年总给我一种失序感",
+        "onboard_time": 1707610526,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98495,
+        "num": 98495,
+        "word": "兔兔表达开心的动作",
+        "onboard_time": 1707617130,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93420,
+        "num": 93420,
+        "word": "鞠婧祎陈丽君 仙品",
+        "onboard_time": 1707571780,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92498,
+        "num": 92498,
+        "word": "沈月vlog",
+        "onboard_time": 1707613290,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89786,
+        "num": 89786,
+        "word": "雷佳音说刘耀文跑宣传成长了",
+        "onboard_time": 1707616168,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

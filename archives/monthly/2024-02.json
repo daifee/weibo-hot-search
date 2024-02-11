@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707618279399,
+  "endTime": 1707618909966,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1899,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1319142,
+      "num": 1319142,
+      "word": "贾玲可以和沈腾拍这个视频了",
+      "onboard_time": 1707612574,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1316544,
       "num": 1316544,
       "word": "难忘今宵怎么还rap",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1706922148,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1294547,
-      "num": 1294547,
-      "word": "贾玲可以和沈腾拍这个视频了",
-      "onboard_time": 1707612574,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1283349,
@@ -2371,6 +2371,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1148599,
+      "num": 1148599,
+      "word": "贾玲最轻时体重109.2斤",
+      "onboard_time": 1707612026,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1148220,
       "num": 1148220,
       "word": "龙年央视春晚主持人阵容",
@@ -2409,14 +2417,6 @@
       "onboard_time": 1706975010,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1142441,
-      "num": 1142441,
-      "word": "贾玲最轻时体重109.2斤",
-      "onboard_time": 1707612026,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 1140260,
@@ -3411,6 +3411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 910101,
+      "num": 910101,
+      "word": "热辣滚烫票房",
+      "onboard_time": 1707616467,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 909520,
       "num": 909520,
       "word": "211高校毕业女生密室扮鬼",
@@ -3793,14 +3801,6 @@
       "onboard_time": 1707285749,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 841095,
-      "num": 841095,
-      "word": "热辣滚烫票房",
-      "onboard_time": 1707616467,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 840560,
@@ -4889,6 +4889,14 @@
       "onboard_time": 1707308972,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 700386,
+      "num": 700386,
+      "word": "UP主实测40小时拆1888元红包",
+      "onboard_time": 1707616766,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700321,
@@ -7067,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513279,
+      "num": 256062,
+      "word": "喝牛奶拉肚子的人也不能戒奶",
+      "onboard_time": 1707616827,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 512953,
       "num": 402859,
       "word": "杨超越比小品好看",
@@ -7147,14 +7163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 505461,
-      "num": 505461,
-      "word": "UP主实测40小时拆1888元红包",
-      "onboard_time": 1707616766,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505225,
       "num": 505225,
       "word": "于正赞卢昱晓娱乐圈独一份",
@@ -7185,14 +7193,6 @@
       "onboard_time": 1707137190,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 503840,
-      "num": 224164,
-      "word": "喝牛奶拉肚子的人也不能戒奶",
-      "onboard_time": 1707616827,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 503730,
@@ -8859,6 +8859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402418,
+      "num": 255101,
+      "word": "西班牙2未成年养子合谋弑母",
+      "onboard_time": 1707616886,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402202,
       "num": 402202,
       "word": "蝴蝶少女直拍",
@@ -9313,14 +9321,6 @@
       "onboard_time": 1707022652,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 384249,
-      "num": 223252,
-      "word": "西班牙2未成年养子合谋弑母",
-      "onboard_time": 1707616886,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383397,
@@ -10219,6 +10219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344957,
+      "num": 344957,
+      "word": "男生误食椰子片被卡重庆民警火速送医",
+      "onboard_time": 1707617610,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344076,
       "num": 344076,
       "word": "中介称张庭打包6套海景别墅是真的",
@@ -10931,6 +10939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318167,
+      "num": 318167,
+      "word": "证监会2024年1号罚单",
+      "onboard_time": 1707617548,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 316819,
       "num": 334751,
       "word": "感觉这只橘猫快要碎了",
@@ -11140,7 +11156,7 @@
     },
     {
       "raw_hot": 311073,
-      "num": 227126,
+      "num": 240570,
       "word": "一天1000条小金龙不够卖",
       "onboard_time": 1707608361,
       "rank": 21,
@@ -14603,6 +14619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230924,
+      "num": 230924,
+      "word": "艾尔海森",
+      "onboard_time": 1707616827,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230268,
       "num": 191814,
       "word": "你们给秦海璐留点面子吧",
@@ -14841,14 +14865,6 @@
       "onboard_time": 1706933011,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225660,
-      "num": 225660,
-      "word": "证监会2024年1号罚单",
-      "onboard_time": 1707617548,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 225596,
@@ -15417,14 +15433,6 @@
       "onboard_time": 1706753192,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 218355,
-      "num": 218355,
-      "word": "艾尔海森",
-      "onboard_time": 1707616827,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 218336,
@@ -18035,6 +18043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192215,
+      "num": 192215,
+      "word": "宠娃奶奶给4岁孙女做50条新裙子",
+      "onboard_time": 1707617429,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192197,
       "num": 192197,
       "word": "欧文一代亮相",
@@ -18193,14 +18209,6 @@
       "onboard_time": 1707577838,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 191151,
-      "num": 191151,
-      "word": "男生误食椰子片被卡重庆民警火速送医",
-      "onboard_time": 1707617610,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191090,
@@ -21003,14 +21011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163275,
-      "num": 163275,
-      "word": "宠娃奶奶给4岁孙女做50条新裙子",
-      "onboard_time": 1707617429,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163267,
       "num": 163267,
       "word": "TheShy赛博考研",
@@ -21665,6 +21665,14 @@
       "onboard_time": 1706743524,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155650,
+      "num": 155650,
+      "word": "i人春节的至暗时刻belike",
+      "onboard_time": 1707617368,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 155644,
@@ -22360,14 +22368,6 @@
       "word": "除夕祝福",
       "onboard_time": 1707439767,
       "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 148960,
-      "num": 148960,
-      "word": "i人春节的至暗时刻belike",
-      "onboard_time": 1707617368,
-      "rank": 33,
       "category": "情感"
     },
     {
@@ -23585,6 +23585,14 @@
       "onboard_time": 1707145232,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138881,
+      "num": 138881,
+      "word": "毛晓彤公主花车巡游",
+      "onboard_time": 1707618448,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 138587,
@@ -26937,6 +26945,14 @@
       "onboard_time": 1706916862,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107259,
+      "num": 107259,
+      "word": "周深收视又登顶了",
+      "onboard_time": 1707618688,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107251,
