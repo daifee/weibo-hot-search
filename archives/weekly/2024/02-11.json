@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707621451342,
+  "endTime": 1707622451673,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1247437,
-      "num": 1247437,
+      "raw_hot": 1272465,
+      "num": 1272465,
       "word": "胡锡进 贾玲确实太牛了",
       "onboard_time": 1707619951,
       "rank": 0,
@@ -99,8 +99,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 926651,
-      "num": 926651,
+      "raw_hot": 944723,
+      "num": 944723,
       "word": "热辣滚烫票房",
       "onboard_time": 1707616467,
       "rank": 5,
@@ -115,8 +115,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 705993,
-      "num": 705993,
+      "raw_hot": 758832,
+      "num": 758832,
+      "word": "魏晨回应杨紫给他投票",
+      "onboard_time": 1707619769,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 723182,
+      "num": 723182,
       "word": "男生误食椰子片被卡重庆民警火速送医",
       "onboard_time": 1707617610,
       "rank": 27,
@@ -163,12 +171,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 565893,
-      "num": 455193,
-      "word": "魏晨回应杨紫给他投票",
-      "onboard_time": 1707619769,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 583125,
+      "num": 262653,
+      "word": "这6类微信红包千万别点开",
+      "onboard_time": 1707620369,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562939,
@@ -184,6 +192,14 @@
       "word": "已婚已育的中年女性决定过年谁家也不回",
       "onboard_time": 1707576935,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523014,
+      "num": 523014,
+      "word": "美国一直升机坠毁致6死",
+      "onboard_time": 1707620310,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -219,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480723,
+      "num": 174732,
+      "word": "妈妈也算是生儿育女了",
+      "onboard_time": 1707620852,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 449606,
       "num": 449606,
       "word": "大年初二年俗",
       "onboard_time": 1707610288,
       "rank": 13,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 449176,
+      "num": 449176,
+      "word": "送你一朵小红花",
+      "onboard_time": 1707621452,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 448643,
@@ -243,8 +275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433530,
-      "num": 433530,
+      "raw_hot": 434696,
+      "num": 434696,
       "word": "胡歌说拍繁花时是看狂飙入眠的",
       "onboard_time": 1707619828,
       "rank": 14,
@@ -259,27 +291,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 408376,
-      "num": 262653,
-      "word": "这6类微信红包千万别点开",
-      "onboard_time": 1707620369,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
       "onboard_time": 1707616886,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366739,
-      "num": 366739,
-      "word": "美国一直升机坠毁致6死",
-      "onboard_time": 1707620310,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -363,15 +379,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270843,
-      "num": 220327,
-      "word": "男子下车就被侄女请去掌勺年夜饭",
-      "onboard_time": 1707613950,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269386,
+      "raw_hot": 273434,
       "num": 241708,
       "word": "田曦薇锦鲤少女",
       "onboard_time": 1707620429,
@@ -379,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267694,
-      "num": 174732,
-      "word": "妈妈也算是生儿育女了",
-      "onboard_time": 1707620852,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 270843,
+      "num": 220327,
+      "word": "男子下车就被侄女请去掌勺年夜饭",
+      "onboard_time": 1707613950,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265883,
@@ -459,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220088,
+      "num": 220088,
+      "word": "我觉得我现在强的可怕",
+      "onboard_time": 1707620787,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214678,
       "num": 214678,
       "word": "热辣滚烫上映",
@@ -499,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200520,
+      "num": 200520,
+      "word": "第二十条发出灵魂追问",
+      "onboard_time": 1707621452,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199170,
       "num": 199170,
       "word": "热巴春晚跳舞摔跤了",
@@ -513,6 +537,14 @@
       "onboard_time": 1707606199,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192666,
+      "num": 150367,
+      "word": "村里人对大学生的误解",
+      "onboard_time": 1707621152,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 192215,
@@ -585,14 +617,6 @@
       "onboard_time": 1707618688,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170736,
-      "num": 170736,
-      "word": "我觉得我现在强的可怕",
-      "onboard_time": 1707620787,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 167314,
@@ -707,20 +731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138522,
-      "num": 138522,
-      "word": "村里人对大学生的误解",
-      "onboard_time": 1707621152,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133014,
       "num": 133014,
       "word": "可爱女生在洛阳把爱好变成事业",
       "onboard_time": 1707612870,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128117,
+      "num": 128117,
+      "word": "创造营亚洲",
+      "onboard_time": 1707619228,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 127242,
@@ -736,14 +760,6 @@
       "word": "春晚广告好多",
       "onboard_time": 1707592456,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 122071,
-      "num": 122071,
-      "word": "创造营亚洲",
-      "onboard_time": 1707619228,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -835,6 +851,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92954,
+      "num": 92954,
+      "word": "为什么嗑瓜子会越嗑越多",
+      "onboard_time": 1707622052,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92799,
+      "num": 92799,
+      "word": "女子家养20年富贵竹高3层楼超9米",
+      "onboard_time": 1707622347,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89654,
       "num": 89654,
       "word": "如何评价马宁决赛判罚",
@@ -881,6 +913,14 @@
       "onboard_time": 1707607161,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74968,
+      "num": 906075,
+      "word": "全球同庆中国年",
+      "onboard_time": 1707621812,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61919,
@@ -1025,6 +1065,9 @@
     },
     {
       "word": "#文化中国团圆年#"
+    },
+    {
+      "word": "#更好满足人民精神文化生活新期待#"
     }
   ]
 }
