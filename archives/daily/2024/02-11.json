@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707629637512,
+  "endTime": 1707632501360,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -41,6 +41,14 @@
       "onboard_time": 1707573761,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1558877,
+      "num": 1558877,
+      "word": "贾玲兑现了30亿票房承诺",
+      "onboard_time": 1707629791,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1496068,
@@ -243,6 +251,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 636545,
+      "num": 636545,
+      "word": "丁程鑫微信好友第六位是王源",
+      "onboard_time": 1707631294,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 624418,
+      "num": 624418,
+      "word": "迪丽热巴给工作人员发的红包",
+      "onboard_time": 1707629130,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 604170,
+      "num": 535744,
+      "word": "贾玲陈小艺",
+      "onboard_time": 1707629791,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604046,
       "num": 604046,
       "word": "凯特王妃坐马车会晕车",
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 469689,
-      "num": 242615,
+      "num": 300980,
       "word": "男孩不愿给后妈拜年被亲爸打破头",
       "onboard_time": 1707627872,
       "rank": 25,
@@ -387,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431426,
+      "num": 431426,
+      "word": "贾玲为了形象保密尽量不出门",
+      "onboard_time": 1707632429,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430181,
       "num": 346482,
       "word": "女婿陪媳妇回娘家的统一状态",
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366239,
-      "num": 294512,
-      "word": "迪丽热巴给工作人员发的红包",
-      "onboard_time": 1707629130,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 397818,
+      "num": 397818,
+      "word": "女儿在委屈诉苦",
+      "onboard_time": 1707629312,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 364015,
@@ -424,6 +464,14 @@
       "word": "马丽回应观众妈妈喜欢春晚上的鞋",
       "onboard_time": 1707586462,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345422,
+      "num": 345422,
+      "word": "王鹤棣虽然没上春晚但梗上了",
+      "onboard_time": 1707630812,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -555,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265107,
+      "num": 265107,
+      "word": "赵本山女儿球球出月子",
+      "onboard_time": 1707632014,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259615,
       "num": 259615,
       "word": "周深追星胡歌又出续集了",
@@ -611,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238174,
+      "num": 238174,
+      "word": "白敬亭宋家腾接机刘冠麟",
+      "onboard_time": 1707631531,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235772,
       "num": 235772,
       "word": "北大学子揭秘刘谦魔术",
@@ -625,6 +689,14 @@
       "onboard_time": 1707579933,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233960,
+      "num": 233960,
+      "word": "游本昌获奖感言让年轻演员集体落泪",
+      "onboard_time": 1707630091,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 233888,
@@ -715,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208608,
+      "num": 208608,
+      "word": "杨紫马丽同款羽毛衫",
+      "onboard_time": 1707632069,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208100,
       "num": 208100,
       "word": "陈楚生现挂 岳云鹏笑场",
@@ -732,7 +812,7 @@
     },
     {
       "raw_hot": 206416,
-      "num": 178641,
+      "num": 189119,
       "word": "当我终于送走了所有亲戚",
       "onboard_time": 1707627872,
       "rank": 34,
@@ -761,6 +841,14 @@
       "onboard_time": 1707554912,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197050,
+      "num": 197050,
+      "word": "易烊千玺弹贝斯vlog",
+      "onboard_time": 1707631592,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 194630,
@@ -955,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143131,
-      "num": 143131,
-      "word": "女儿在委屈诉苦",
-      "onboard_time": 1707629312,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "为什么嗑瓜子会越嗑越多",
@@ -1035,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130870,
+      "num": 130870,
+      "word": "赵丽颖 郝秀萍跳楼戏",
+      "onboard_time": 1707632310,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128717,
       "num": 128717,
       "word": "看我们一起摇太阳在哭什么",
@@ -1067,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121689,
+      "num": 121689,
+      "word": "央视专访毛不易",
+      "onboard_time": 1707631772,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120259,
       "num": 120259,
       "word": "NBA",
@@ -1083,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119142,
+      "num": 119142,
+      "word": "第二十条超预期",
+      "onboard_time": 1707632371,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116613,
       "num": 116613,
       "word": "沈月vlog",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1707567819,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113840,
+      "num": 113840,
+      "word": "格林狂喷杜兰特",
+      "onboard_time": 1707632429,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112456,
@@ -1145,6 +1257,22 @@
       "onboard_time": 1707616168,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100448,
+      "num": 100448,
+      "word": "东北年味的正确打开方式",
+      "onboard_time": 1707632191,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 98523,
+      "num": 98523,
+      "word": "刘宇宁说春晚后台很欢乐",
+      "onboard_time": 1707631531,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 97197,
