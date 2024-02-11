@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707622451673,
+  "endTime": 1707625220653,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1972947,
-      "num": 466292,
+      "num": 531418,
       "word": "梅西ins更新",
       "onboard_time": 1707573761,
       "rank": 10,
@@ -107,12 +107,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 943667,
+      "num": 943667,
+      "word": "迪丽热巴素颜练舞",
+      "onboard_time": 1707622710,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 921037,
       "num": 921037,
       "word": "初二开始走亲戚的你",
       "onboard_time": 1707580952,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 873125,
+      "num": 873125,
+      "word": "她不是变瘦了 她是变强了",
+      "onboard_time": 1707623910,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 758832,
@@ -171,8 +187,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 595720,
+      "num": 531329,
+      "word": "大年初一醒来就被膈应了",
+      "onboard_time": 1707623668,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 583125,
-      "num": 262653,
+      "num": 314551,
       "word": "这6类微信红包千万别点开",
       "onboard_time": 1707620369,
       "rank": 20,
@@ -187,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 562757,
+      "num": 562757,
+      "word": "美国一直升机坠毁致6死",
+      "onboard_time": 1707620310,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556952,
       "num": 556952,
       "word": "已婚已育的中年女性决定过年谁家也不回",
@@ -195,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523014,
-      "num": 523014,
-      "word": "美国一直升机坠毁致6死",
-      "onboard_time": 1707620310,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 537633,
+      "num": 537633,
+      "word": "库里绝杀",
+      "onboard_time": 1707624930,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 515361,
@@ -236,11 +268,19 @@
     },
     {
       "raw_hot": 480723,
-      "num": 174732,
+      "num": 335456,
       "word": "妈妈也算是生儿育女了",
       "onboard_time": 1707620852,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 461823,
+      "num": 461823,
+      "word": "送你一朵小红花",
+      "onboard_time": 1707621452,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 449606,
@@ -249,14 +289,6 @@
       "onboard_time": 1707610288,
       "rank": 13,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 449176,
-      "num": 449176,
-      "word": "送你一朵小红花",
-      "onboard_time": 1707621452,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 448643,
@@ -281,6 +313,14 @@
       "onboard_time": 1707619828,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425311,
+      "num": 346482,
+      "word": "女婿陪媳妇回娘家的统一状态",
+      "onboard_time": 1707622830,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420925,
@@ -355,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 316111,
+      "num": 316111,
+      "word": "长大后才知道自己是橄榄皮",
+      "onboard_time": 1707622710,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
@@ -377,6 +425,14 @@
       "onboard_time": 1707575199,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278266,
+      "num": 278266,
+      "word": "飞驰人生2比1好看",
+      "onboard_time": 1707622830,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 273434,
@@ -443,6 +499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238347,
+      "num": 238347,
+      "word": "小尼上新闻也是笑果拉满",
+      "onboard_time": 1707622471,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235772,
+      "num": 235772,
+      "word": "北大学子揭秘刘谦魔术",
+      "onboard_time": 1707623427,
+      "rank": 27,
+      "category": "综艺,教育"
+    },
+    {
       "raw_hot": 235583,
       "num": 235583,
       "word": "春晚梗图",
@@ -457,6 +529,14 @@
       "onboard_time": 1707578495,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222787,
+      "num": 222787,
+      "word": "春晚梗合集PPT上架秒售500份",
+      "onboard_time": 1707624450,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221743,
@@ -499,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210879,
+      "num": 210879,
+      "word": "热辣滚烫涨分",
+      "onboard_time": 1707623069,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210674,
+      "num": 210674,
+      "word": "金庸武侠世界预告片",
+      "onboard_time": 1707624150,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208100,
       "num": 208100,
       "word": "陈楚生现挂 岳云鹏笑场",
@@ -529,6 +625,14 @@
       "onboard_time": 1707554912,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195919,
+      "num": 195919,
+      "word": "过年 吵架",
+      "onboard_time": 1707624989,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 194630,
@@ -619,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170752,
+      "num": 170752,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167314,
       "num": 167314,
       "word": "热辣滚烫 闪回片段",
@@ -675,12 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145759,
+      "num": 145759,
+      "word": "新年第一天就被自己穷笑了",
+      "onboard_time": 1707624509,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145650,
       "num": 145650,
       "word": "鞠婧祎 画中仙",
       "onboard_time": 1707569801,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "为什么嗑瓜子会越嗑越多",
+      "onboard_time": 1707622052,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141779,
@@ -819,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101229,
+      "num": 101229,
+      "word": "wf2024冬",
+      "onboard_time": 1707624570,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 100563,
       "num": 100563,
       "word": "雷佳音说刘耀文跑宣传成长了",
@@ -849,14 +985,6 @@
       "onboard_time": 1707608244,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92954,
-      "num": 92954,
-      "word": "为什么嗑瓜子会越嗑越多",
-      "onboard_time": 1707622052,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 92799,
@@ -916,11 +1044,19 @@
     },
     {
       "raw_hot": 74968,
-      "num": 906075,
+      "num": 910312,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62323,
+      "num": 531486,
+      "word": "田曦薇cos西施乘鲤谣",
+      "onboard_time": 1707623310,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 61919,
@@ -1057,6 +1193,14 @@
       "onboard_time": 1707596835,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13314,
+      "num": 472203,
+      "word": "在支付宝看视频一秒解锁各地年味",
+      "onboard_time": 1707624033,
+      "rank": 14,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
