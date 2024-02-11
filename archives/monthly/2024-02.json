@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707678831774,
+  "endTime": 1707680024625,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -32161,6 +32161,14 @@
       "onboard_time": 1706819537,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13615,
+      "num": 20469,
+      "word": "平时睡不够春节猛补有用吗",
+      "onboard_time": 1707679877,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13583,
