@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707646664979,
+  "endTime": 1707647639926,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1579,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1534477,
+      "num": 1534477,
+      "word": "贾玲和杨迪聊天五小时菜一口没动",
+      "onboard_time": 1707643772,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1527612,
       "num": 1003678,
       "word": "厦门大学",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1706876190,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1407073,
-      "num": 1407073,
-      "word": "贾玲和杨迪聊天五小时菜一口没动",
-      "onboard_time": 1707643772,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 1399880,
@@ -3081,6 +3081,14 @@
       "onboard_time": 1707493634,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1000897,
+      "num": 1000897,
+      "word": "热辣滚烫暂列票房第一",
+      "onboard_time": 1707645032,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 999231,
@@ -4577,14 +4585,6 @@
       "onboard_time": 1707121771,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 759348,
-      "num": 759348,
-      "word": "热辣滚烫暂列票房第一",
-      "onboard_time": 1707645032,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 759339,
@@ -6276,7 +6276,7 @@
     },
     {
       "raw_hot": 590606,
-      "num": 300934,
+      "num": 312638,
       "word": "眼看从3000元涨到了8000元",
       "onboard_time": 1707633573,
       "rank": 20,
@@ -6376,6 +6376,14 @@
       "word": "肖战为拍射雕英雄传增重",
       "onboard_time": 1706847573,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 579871,
+      "num": 436205,
+      "word": "贾玲说杨紫很仗义",
+      "onboard_time": 1707647012,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -6809,6 +6817,14 @@
       "onboard_time": 1707538537,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549663,
+      "num": 549663,
+      "word": "老祖宗的审美",
+      "onboard_time": 1707644370,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 548516,
@@ -9043,14 +9059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412743,
-      "num": 412743,
-      "word": "老祖宗的审美",
-      "onboard_time": 1707644370,
-      "rank": 15,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 412091,
       "num": 412091,
       "word": "时代少年团王者技术",
@@ -10707,6 +10715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339791,
+      "num": 339791,
+      "word": "踩小人",
+      "onboard_time": 1707645391,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 339500,
+      "num": 464627,
+      "word": "西安要被南京小孩哥夸脸红了",
+      "onboard_time": 1707641013,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339482,
       "num": 234911,
       "word": "内裤穿多久扔掉最合适",
@@ -10721,14 +10745,6 @@
       "onboard_time": 1707375991,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 337938,
-      "num": 337938,
-      "word": "踩小人",
-      "onboard_time": 1707645391,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 337529,
@@ -11443,6 +11459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314381,
+      "num": 184561,
+      "word": "春楠 沙漠明珠妆",
+      "onboard_time": 1707646410,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 314111,
       "num": 314111,
       "word": "杨幂雪中撑伞",
@@ -11497,6 +11521,14 @@
       "onboard_time": 1706933789,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313145,
+      "num": 313145,
+      "word": "i人社交",
+      "onboard_time": 1707646469,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 312698,
@@ -11987,6 +12019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299591,
+      "num": 299591,
+      "word": "装孕妇整了点炮的熊孩子家",
+      "onboard_time": 1707643290,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299239,
       "num": 299239,
       "word": "时代少年团 王者荣耀表演赛",
@@ -12371,14 +12411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289063,
-      "num": 164211,
-      "word": "春楠 沙漠明珠妆",
-      "onboard_time": 1707646410,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 289005,
       "num": 289005,
       "word": "董宇辉采访刘德华7分钟高能总结",
@@ -12417,14 +12449,6 @@
       "onboard_time": 1707542615,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286950,
-      "num": 464627,
-      "word": "西安要被南京小孩哥夸脸红了",
-      "onboard_time": 1707641013,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286707,
@@ -13651,14 +13675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257583,
-      "num": 163710,
-      "word": "装孕妇整了点炮的熊孩子家",
-      "onboard_time": 1707643290,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 257364,
       "num": 257364,
       "word": "前苹果华人工程师因窃取汽车机密入狱",
@@ -13897,6 +13913,14 @@
       "onboard_time": 1707372991,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 253105,
+      "num": 253105,
+      "word": "郑渊洁 白客加油生孩子",
+      "onboard_time": 1707646834,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 253009,
@@ -19859,6 +19883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180403,
+      "num": 180403,
+      "word": "热辣滚烫在广东多地取景",
+      "onboard_time": 1707646173,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180168,
       "num": 180168,
       "word": "成人芭蕾",
@@ -20385,14 +20417,6 @@
       "onboard_time": 1707294211,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175621,
-      "num": 175621,
-      "word": "i人社交",
-      "onboard_time": 1707646469,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 175611,
@@ -22763,14 +22787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153648,
-      "num": 153648,
-      "word": "热辣滚烫在广东多地取景",
-      "onboard_time": 1707646173,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153611,
       "num": 153611,
       "word": "阅文IP盛典红毯",
@@ -23337,6 +23353,14 @@
       "onboard_time": 1706761414,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148036,
+      "num": 148036,
+      "word": "你家过年都因为什么吵过架",
+      "onboard_time": 1707644311,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 147953,
@@ -26995,6 +27019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118853,
+      "num": 118853,
+      "word": "是糊炉娃",
+      "onboard_time": 1707646892,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118801,
       "num": 5720482,
       "word": "过年前先打开这九个安全锦囊",
@@ -27385,14 +27417,6 @@
       "onboard_time": 1706839228,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114195,
-      "num": 114195,
-      "word": "你家过年都因为什么吵过架",
-      "onboard_time": 1707644311,
-      "rank": 42,
-      "category": "社会议题"
     },
     {
       "raw_hot": 113946,
@@ -28705,6 +28729,14 @@
       "onboard_time": 1707535057,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 93553,
+      "num": 93553,
+      "word": "摇太阳 让人觉得心软的爱情",
+      "onboard_time": 1707647554,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 93287,

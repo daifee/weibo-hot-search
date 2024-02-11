@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707646664979,
+  "endTime": 1707647639926,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -59,20 +59,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1534477,
+      "num": 1534477,
+      "word": "贾玲和杨迪聊天五小时菜一口没动",
+      "onboard_time": 1707643772,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1496068,
       "num": 1496068,
       "word": "德国动物园杀一半狒狒喂其他动物",
       "onboard_time": 1707626011,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1407073,
-      "num": 1407073,
-      "word": "贾玲和杨迪聊天五小时菜一口没动",
-      "onboard_time": 1707643772,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 1399880,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000897,
+      "num": 1000897,
+      "word": "热辣滚烫暂列票房第一",
+      "onboard_time": 1707645032,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 988147,
       "num": 988147,
       "word": "贾玲在拳击台上是真的挨打",
@@ -249,14 +257,6 @@
       "onboard_time": 1707624689,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 759348,
-      "num": 759348,
-      "word": "热辣滚烫暂列票房第一",
-      "onboard_time": 1707645032,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 758832,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 590606,
-      "num": 300934,
+      "num": 312638,
       "word": "眼看从3000元涨到了8000元",
       "onboard_time": 1707633573,
       "rank": 20,
@@ -385,6 +385,14 @@
       "onboard_time": 1707620369,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579871,
+      "num": 436205,
+      "word": "贾玲说杨紫很仗义",
+      "onboard_time": 1707647012,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 562939,
@@ -409,6 +417,14 @@
       "onboard_time": 1707576935,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549663,
+      "num": 549663,
+      "word": "老祖宗的审美",
+      "onboard_time": 1707644370,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 523431,
@@ -571,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 412743,
-      "num": 412743,
-      "word": "老祖宗的审美",
-      "onboard_time": 1707644370,
-      "rank": 15,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
@@ -651,12 +659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337938,
-      "num": 337938,
+      "raw_hot": 339791,
+      "num": 339791,
       "word": "踩小人",
       "onboard_time": 1707645391,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339500,
+      "num": 464627,
+      "word": "西安要被南京小孩哥夸脸红了",
+      "onboard_time": 1707641013,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332745,
@@ -707,6 +723,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314381,
+      "num": 184561,
+      "word": "春楠 沙漠明珠妆",
+      "onboard_time": 1707646410,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 313145,
+      "num": 313145,
+      "word": "i人社交",
+      "onboard_time": 1707646469,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
@@ -723,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299591,
+      "num": 299591,
+      "word": "装孕妇整了点炮的熊孩子家",
+      "onboard_time": 1707643290,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293001,
       "num": 293001,
       "word": "赵本山女儿球球出月子",
@@ -737,22 +777,6 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289063,
-      "num": 164211,
-      "word": "春楠 沙漠明珠妆",
-      "onboard_time": 1707646410,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 286950,
-      "num": 464627,
-      "word": "西安要被南京小孩哥夸脸红了",
-      "onboard_time": 1707641013,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285570,
@@ -827,20 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257583,
-      "num": 163710,
-      "word": "装孕妇整了点炮的熊孩子家",
-      "onboard_time": 1707643290,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 256120,
       "num": 256120,
       "word": "杨超越比小品好看",
       "onboard_time": 1707572079,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253105,
+      "num": 253105,
+      "word": "郑渊洁 白客加油生孩子",
+      "onboard_time": 1707646834,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 249189,
@@ -1243,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180403,
+      "num": 180403,
+      "word": "热辣滚烫在广东多地取景",
+      "onboard_time": 1707646173,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178650,
       "num": 178650,
       "word": "红毯先生排片好少",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175621,
-      "num": 175621,
-      "word": "i人社交",
-      "onboard_time": 1707646469,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 175611,
@@ -1419,14 +1443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153648,
-      "num": 153648,
-      "word": "热辣滚烫在广东多地取景",
-      "onboard_time": 1707646173,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "刘谦春晚 华丽的数学秀",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1707646289,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148036,
+      "num": 148036,
+      "word": "你家过年都因为什么吵过架",
+      "onboard_time": 1707644311,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 145650,
@@ -1723,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118853,
+      "num": 118853,
+      "word": "是糊炉娃",
+      "onboard_time": 1707646892,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116613,
       "num": 116613,
       "word": "沈月vlog",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1707567819,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114195,
-      "num": 114195,
-      "word": "你家过年都因为什么吵过架",
-      "onboard_time": 1707644311,
-      "rank": 42,
-      "category": "社会议题"
     },
     {
       "raw_hot": 112658,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1707608244,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93553,
+      "num": 93553,
+      "word": "摇太阳 让人觉得心软的爱情",
+      "onboard_time": 1707647554,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 92799,
@@ -2092,7 +2124,7 @@
     },
     {
       "raw_hot": 19001,
-      "num": 1056277,
+      "num": 1154029,
       "word": "锦绣中国年",
       "onboard_time": 1707468450,
       "rank": 2,
