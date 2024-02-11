@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707651239574,
+  "endTime": 1707654499424,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1173801,
+      "num": 1173801,
+      "word": "沈梦辰带杜海涛回老家过年",
+      "onboard_time": 1707648753,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1153357,
       "num": 449297,
       "word": "贾玲太美了",
@@ -185,14 +193,6 @@
       "onboard_time": 1707645032,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1092395,
-      "num": 1092395,
-      "word": "沈梦辰带杜海涛回老家过年",
-      "onboard_time": 1707648753,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1068368,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 745369,
+      "num": 490520,
+      "word": "贾玲拍露腹肌戏份脱了8斤水",
+      "onboard_time": 1707652593,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 740268,
       "num": 740268,
       "word": "星汉灿烂",
@@ -313,6 +321,14 @@
       "onboard_time": 1707616766,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694408,
+      "num": 694408,
+      "word": "飞驰人生2这十秒做了五个月",
+      "onboard_time": 1707651689,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 678093,
@@ -368,6 +384,14 @@
       "word": "贾玲谈及赵英俊",
       "onboard_time": 1707642812,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 631345,
+      "num": 631345,
+      "word": "马丽演技",
+      "onboard_time": 1707651032,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531851,
+      "num": 531851,
+      "word": "红毯先生 暴打资方",
+      "onboard_time": 1707652950,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 523431,
       "num": 523431,
       "word": "四舍五入坐白敬亭副驾了",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 488443,
-      "num": 488443,
+      "num": 493807,
       "word": "原来这种家庭并不小众",
       "onboard_time": 1707641492,
       "rank": 12,
@@ -593,6 +625,14 @@
       "onboard_time": 1707619828,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433927,
+      "num": 433927,
+      "word": "范丞丞想演马丽老公被沈腾掐脖",
+      "onboard_time": 1707653489,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 430181,
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 339500,
-      "num": 489270,
+      "num": 492176,
       "word": "西安要被南京小孩哥夸脸红了",
       "onboard_time": 1707641013,
       "rank": 27,
@@ -729,6 +769,14 @@
       "onboard_time": 1707610589,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331315,
+      "num": 223716,
+      "word": "尼日利亚金融大佬一家三口坠机身亡",
+      "onboard_time": 1707653372,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 330699,
@@ -803,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301619,
+      "num": 301619,
+      "word": "杨幂礼服下面穿秋裤",
+      "onboard_time": 1707654092,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299591,
       "num": 299591,
       "word": "装孕妇整了点炮的熊孩子家",
@@ -873,6 +929,14 @@
       "onboard_time": 1707620429,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271320,
+      "num": 271320,
+      "word": "王一博龙拳一开口自带buff",
+      "onboard_time": 1707653672,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 270843,
@@ -987,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235503,
+      "num": 235503,
+      "word": "6种人最易得肾结石",
+      "onboard_time": 1707650972,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234389,
       "num": 234389,
       "word": "会长是女仆大人 碓冰拓海粘土人",
@@ -1019,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232725,
+      "num": 232725,
+      "word": "送你一朵小红花导演回应",
+      "onboard_time": 1707654092,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230403,
       "num": 230403,
       "word": "大侦探9首案概念海报",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1707624450,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223450,
+      "num": 223450,
+      "word": "能掌控身体和欲望的人",
+      "onboard_time": 1707653131,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 223438,
@@ -1081,14 +1169,6 @@
       "onboard_time": 1707627931,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 218506,
-      "num": 218506,
-      "word": "马丽演技",
-      "onboard_time": 1707651032,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 218012,
@@ -1443,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170536,
+      "num": 170536,
+      "word": "李永钦蒙面歌王",
+      "onboard_time": 1707651268,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168329,
       "num": 168329,
       "word": "本以为是巴黎圣母院",
@@ -1457,6 +1545,14 @@
       "onboard_time": 1707583050,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165575,
+      "num": 165575,
+      "word": "弟弟妹妹都不放过",
+      "onboard_time": 1707650972,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 165519,
@@ -1577,6 +1673,14 @@
       "onboard_time": 1707578073,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151531,
+      "num": 151531,
+      "word": "当你10分钟都没有摸小狗了",
+      "onboard_time": 1707653191,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 151078,
@@ -1732,7 +1836,7 @@
     },
     {
       "raw_hot": 136514,
-      "num": 136514,
+      "num": 159516,
       "word": "中国女篮vs波多黎各女篮",
       "onboard_time": 1707650972,
       "rank": 43,
@@ -1787,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128775,
-      "num": 128775,
-      "word": "6种人最易得肾结石",
-      "onboard_time": 1707650972,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128717,
       "num": 128717,
       "word": "看我们一起摇太阳在哭什么",
@@ -1833,14 +1929,6 @@
       "onboard_time": 1707634770,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123566,
-      "num": 123566,
-      "word": "弟弟妹妹都不放过",
-      "onboard_time": 1707650972,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 123155,
@@ -1977,6 +2065,14 @@
       "onboard_time": 1707574180,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108261,
+      "num": 117846,
+      "word": "延续80年的初一头碗饺子敬英烈",
+      "onboard_time": 1707653853,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108023,
