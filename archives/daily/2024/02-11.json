@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707654499424,
+  "endTime": 1707655379592,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 831524,
+      "num": 831524,
+      "word": "红毯先生 暴打资方",
+      "onboard_time": 1707652950,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 803889,
       "num": 803889,
       "word": "尼格买提下次春晚演小品吧",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 745369,
-      "num": 490520,
+      "num": 681250,
       "word": "贾玲拍露腹肌戏份脱了8斤水",
       "onboard_time": 1707652593,
       "rank": 10,
@@ -337,6 +345,14 @@
       "onboard_time": 1707578676,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677373,
+      "num": 677373,
+      "word": "范丞丞想演马丽老公被沈腾掐脖",
+      "onboard_time": 1707653489,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 671051,
@@ -467,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 531851,
-      "num": 531851,
-      "word": "红毯先生 暴打资方",
-      "onboard_time": 1707652950,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 523431,
       "num": 523431,
       "word": "四舍五入坐白敬亭副驾了",
       "onboard_time": 1707627992,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517260,
+      "num": 517260,
+      "word": "送你一朵小红花导演回应",
+      "onboard_time": 1707654092,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 515361,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 488443,
-      "num": 493807,
+      "num": 676095,
       "word": "原来这种家庭并不小众",
       "onboard_time": 1707641492,
       "rank": 12,
@@ -577,6 +593,14 @@
       "onboard_time": 1707649771,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469487,
+      "num": 469487,
+      "word": "杨幂礼服下面穿秋裤",
+      "onboard_time": 1707654092,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 461823,
@@ -627,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433927,
-      "num": 433927,
-      "word": "范丞丞想演马丽老公被沈腾掐脖",
-      "onboard_time": 1707653489,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 430181,
       "num": 346482,
       "word": "女婿陪媳妇回娘家的统一状态",
@@ -657,6 +673,14 @@
       "onboard_time": 1707630812,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411925,
+      "num": 411925,
+      "word": "尼日利亚金融大佬一家三口坠机身亡",
+      "onboard_time": 1707653372,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 410374,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 339500,
-      "num": 492176,
+      "num": 625950,
       "word": "西安要被南京小孩哥夸脸红了",
       "onboard_time": 1707641013,
       "rank": 27,
@@ -769,14 +793,6 @@
       "onboard_time": 1707610589,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331315,
-      "num": 223716,
-      "word": "尼日利亚金融大佬一家三口坠机身亡",
-      "onboard_time": 1707653372,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 330699,
@@ -851,12 +867,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 301619,
-      "num": 301619,
-      "word": "杨幂礼服下面穿秋裤",
-      "onboard_time": 1707654092,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 307519,
+      "num": 307519,
+      "word": "王一博龙拳一开口自带buff",
+      "onboard_time": 1707653672,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 299591,
@@ -923,20 +939,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 273455,
+      "num": 193631,
+      "word": "山东人梗我真的笑不出来",
+      "onboard_time": 1707654570,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273434,
       "num": 241708,
       "word": "田曦薇锦鲤少女",
       "onboard_time": 1707620429,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271320,
-      "num": 271320,
-      "word": "王一博龙拳一开口自带buff",
-      "onboard_time": 1707653672,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 270843,
@@ -1089,14 +1105,6 @@
       "onboard_time": 1707649830,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232725,
-      "num": 232725,
-      "word": "送你一朵小红花导演回应",
-      "onboard_time": 1707654092,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 230403,
@@ -1387,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183195,
+      "num": 183195,
+      "word": "李会琴 文案",
+      "onboard_time": 1707655171,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182715,
       "num": 182715,
       "word": "蔡依林 熊猫站姐",
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165181,
+      "num": 165181,
+      "word": "乖乖排队等吃烤肉的四只小狗",
+      "onboard_time": 1707654570,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164982,
       "num": 164982,
       "word": "沈腾 巴音布鲁克之王",
@@ -1715,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148218,
+      "num": 148218,
+      "word": "哈尔滨相关门票订单暴增4000%",
+      "onboard_time": 1707654993,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 148036,
       "num": 148036,
       "word": "你家过年都因为什么吵过架",
@@ -1836,7 +1868,7 @@
     },
     {
       "raw_hot": 136514,
-      "num": 159516,
+      "num": 162549,
       "word": "中国女篮vs波多黎各女篮",
       "onboard_time": 1707650972,
       "rank": 43,
@@ -2256,6 +2288,14 @@
       "word": "约旦1比3卡塔尔",
       "onboard_time": 1707607161,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72526,
+      "num": 117727,
+      "word": "中国女篮加油",
+      "onboard_time": 1707655171,
+      "rank": 49,
       "category": "体育"
     },
     {
