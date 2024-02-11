@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707669273866,
+  "endTime": 1707671709212,
   "band_list": [
     {
       "raw_hot": 1701908,
@@ -57,6 +57,14 @@
       "onboard_time": 1707659136,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 495617,
+      "num": 147943,
+      "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
+      "onboard_time": 1707668070,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 440288,
@@ -155,20 +163,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 241862,
+      "num": 241862,
+      "word": "于适被韩寒从彩蛋剪进正片",
+      "onboard_time": 1707668009,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230811,
       "num": 230811,
       "word": "嗑瓜子上火是因为直接用嘴嗑",
       "onboard_time": 1707664831,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 227815,
-      "num": 129461,
-      "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
-      "onboard_time": 1707668070,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 217740,
@@ -184,14 +192,6 @@
       "word": "贾玲兑现了30亿票房承诺",
       "onboard_time": 1707629791,
       "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 203310,
-      "num": 203310,
-      "word": "于适被韩寒从彩蛋剪进正片",
-      "onboard_time": 1707668009,
-      "rank": 35,
       "category": "电影"
     },
     {
@@ -291,6 +291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141684,
+      "num": 141684,
+      "word": "吴磊你就宠赵今麦吧",
+      "onboard_time": 1707668907,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128038,
       "num": 122187,
       "word": "第二十条有自己的燃冬",
@@ -347,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100291,
-      "num": 100291,
-      "word": "吴磊你就宠赵今麦吧",
-      "onboard_time": 1707668907,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97418,
       "num": 97418,
       "word": "你懂远嫁女儿的愧疚吗",
@@ -403,7 +403,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56438,
+      "raw_hot": 74131,
+      "num": 74131,
+      "word": "徐冬冬cos华妃",
+      "onboard_time": 1707671001,
+      "rank": 40,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 61617,
       "num": 87133,
       "word": "老人门前空地被儿女归来的车填满",
       "onboard_time": 1707667950,
