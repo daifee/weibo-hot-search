@@ -1,0 +1,410 @@
+{
+  "runTime": 1707640445385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3127417,
+        "num": 3127417,
+        "word": "这是李焕英的女儿",
+        "onboard_time": 1707637773,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 958930,
+        "num": 958930,
+        "word": "贾玲为了形象保密尽量不出门",
+        "onboard_time": 1707632429,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19161,
+        "num": 905160,
+        "word": "全球同庆中国年",
+        "onboard_time": 1707621812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904381,
+        "num": 904381,
+        "word": "已婚独生女不想回婆家过年",
+        "onboard_time": 1707633692,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870549,
+        "num": 870549,
+        "word": "赵本山近照",
+        "onboard_time": 1707635792,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842545,
+        "num": 842545,
+        "word": "贾玲兑现了30亿票房承诺",
+        "onboard_time": 1707629791,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 695931,
+        "num": 695931,
+        "word": "是赵丽颖啊",
+        "onboard_time": 1707633091,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513339,
+        "num": 513339,
+        "word": "她不是变瘦了 她是变强了",
+        "onboard_time": 1707623910,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465028,
+        "num": 465028,
+        "word": "杨迪 我好骄傲这是我朋友拍出的电影",
+        "onboard_time": 1707633811,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377921,
+        "num": 377921,
+        "word": "手指是人体的缩影",
+        "onboard_time": 1707632852,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 995883,
+        "num": 375311,
+        "word": "过年 吵架",
+        "onboard_time": 1707624989,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577890,
+        "num": 373801,
+        "word": "贾玲在拳击台上是真的挨打",
+        "onboard_time": 1707626789,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440264,
+        "num": 370234,
+        "word": "贾玲 我的减重是非常健康的",
+        "onboard_time": 1707574359,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423627,
+        "num": 366023,
+        "word": "德国动物园杀一半狒狒喂其他动物",
+        "onboard_time": 1707626011,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365939,
+        "num": 365939,
+        "word": "Jasper拜年照",
+        "onboard_time": 1707634833,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363585,
+        "num": 363585,
+        "word": "热辣滚烫",
+        "onboard_time": 1707639569,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324213,
+        "num": 324213,
+        "word": "星汉灿烂",
+        "onboard_time": 1707628653,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285570,
+        "num": 285570,
+        "word": "第二十条",
+        "onboard_time": 1707638011,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18822,
+        "num": 267747,
+        "word": "锦绣中国年",
+        "onboard_time": 1707468450,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264127,
+        "num": 264127,
+        "word": "贾玲不觉得自己幽默是因为胖",
+        "onboard_time": 1707637953,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510950,
+        "num": 256288,
+        "word": "眼看从3000元涨到了8000元",
+        "onboard_time": 1707633573,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437333,
+        "num": 250230,
+        "word": "家里人把我的兔子杀了",
+        "onboard_time": 1707636330,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242661,
+        "num": 242661,
+        "word": "梅西ins更新",
+        "onboard_time": 1707573761,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234389,
+        "num": 234389,
+        "word": "会长是女仆大人 碓冰拓海粘土人",
+        "onboard_time": 1707635372,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 218779,
+        "num": 218779,
+        "word": "张杰想把演唱会搬进影院",
+        "onboard_time": 1707638910,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211968,
+        "num": 211968,
+        "word": "易烊千玺工作室是懂剪辑的",
+        "onboard_time": 1707633150,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208951,
+        "num": 208951,
+        "word": "胡歌陈龙看望游本昌",
+        "onboard_time": 1707639090,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208735,
+        "num": 208735,
+        "word": "王鹤棣虽然没上春晚但梗上了",
+        "onboard_time": 1707630812,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172704,
+        "num": 199681,
+        "word": "聚餐时桌子突然炸了全家人淡定举杯",
+        "onboard_time": 1707633091,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138592,
+        "num": 197063,
+        "word": "女孩不回家过年立省一万",
+        "onboard_time": 1707636690,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196768,
+        "num": 196768,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1707616467,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195655,
+        "num": 195655,
+        "word": "普通人变优秀最直接的方法",
+        "onboard_time": 1707638248,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186335,
+        "num": 186335,
+        "word": "魔卡少女樱 小樱知世手办",
+        "onboard_time": 1707636273,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 174223,
+        "num": 174223,
+        "word": "今年过年直接掀桌了",
+        "onboard_time": 1707637891,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170671,
+        "num": 170671,
+        "word": "内娱九龙",
+        "onboard_time": 1707638668,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168813,
+        "num": 168813,
+        "word": "丁程鑫微信好友第六位是王源",
+        "onboard_time": 1707631294,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166293,
+        "num": 166293,
+        "word": "迪丽热巴给工作人员发的红包",
+        "onboard_time": 1707629130,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136094,
+        "num": 161759,
+        "word": "男生误食椰子片被卡重庆民警火速送医",
+        "onboard_time": 1707617610,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117248,
+        "num": 160273,
+        "word": "女婿陪媳妇回娘家的统一状态",
+        "onboard_time": 1707622830,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159113,
+        "num": 159113,
+        "word": "飞驰人生2比1升级了哪些",
+        "onboard_time": 1707637471,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151463,
+        "num": 151463,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1707625710,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144778,
+        "num": 144778,
+        "word": "我努力过无数次 机会只在一两次",
+        "onboard_time": 1707637111,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140640,
+        "num": 140640,
+        "word": "尼格买提下次春晚演小品吧",
+        "onboard_time": 1707624689,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53149,
+        "num": 139497,
+        "word": "阿云嘎鲁班大师机械臂",
+        "onboard_time": 1707640233,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142796,
+        "num": 139489,
+        "word": "飞驰人生2现实但治愈",
+        "onboard_time": 1707639271,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139209,
+        "num": 139209,
+        "word": "大年初一醒来就被膈应了",
+        "onboard_time": 1707623668,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133829,
+        "num": 133829,
+        "word": "白敬亭宋家腾接机刘冠麟",
+        "onboard_time": 1707631531,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131562,
+        "num": 131562,
+        "word": "第二十条春节档的最大尺度",
+        "onboard_time": 1707633692,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129399,
+        "num": 129399,
+        "word": "毛不易谈年轻人就业迷茫现状",
+        "onboard_time": 1707637531,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109713,
+        "num": 123897,
+        "word": "杜兰特说库里是历史最强控卫",
+        "onboard_time": 1707638373,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}

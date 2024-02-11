@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707639606897,
+  "endTime": 1707640445385,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -16,6 +16,14 @@
       "word": "她不是变瘦了 她是变强了",
       "onboard_time": 1707623910,
       "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3127417,
+      "num": 3127417,
+      "word": "这是李焕英的女儿",
+      "onboard_time": 1707637773,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1707573761,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1632440,
-      "num": 1632440,
-      "word": "这是李焕英的女儿",
-      "onboard_time": 1707637773,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1595540,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 904381,
+      "num": 904381,
+      "word": "已婚独生女不想回婆家过年",
+      "onboard_time": 1707633692,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803889,
       "num": 803889,
       "word": "尼格买提下次春晚演小品吧",
@@ -328,14 +336,6 @@
       "word": "这6类微信红包千万别点开",
       "onboard_time": 1707620369,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580117,
-      "num": 580117,
-      "word": "已婚独生女不想回婆家过年",
-      "onboard_time": 1707633692,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 437333,
+      "num": 250230,
+      "word": "家里人把我的兔子杀了",
+      "onboard_time": 1707636330,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 435027,
       "num": 435027,
       "word": "蔡依林根本不够看",
@@ -507,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 402989,
-      "num": 241054,
-      "word": "家里人把我的兔子杀了",
-      "onboard_time": 1707636330,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
@@ -545,6 +545,14 @@
       "onboard_time": 1707586462,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363585,
+      "num": 363585,
+      "word": "热辣滚烫",
+      "onboard_time": 1707639569,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 345120,
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285570,
+      "num": 285570,
+      "word": "第二十条",
+      "onboard_time": 1707638011,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
@@ -699,11 +715,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262427,
-      "num": 262427,
-      "word": "第二十条",
-      "onboard_time": 1707638011,
-      "rank": 18,
+      "raw_hot": 264127,
+      "num": 264127,
+      "word": "贾玲不觉得自己幽默是因为胖",
+      "onboard_time": 1707637953,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -787,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234389,
+      "num": 234389,
+      "word": "会长是女仆大人 碓冰拓海粘土人",
+      "onboard_time": 1707635372,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 233960,
       "num": 233960,
       "word": "游本昌获奖感言让年轻演员集体落泪",
@@ -851,14 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219879,
-      "num": 219879,
-      "word": "会长是女仆大人 碓冰拓海粘土人",
-      "onboard_time": 1707635372,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 218903,
       "num": 218903,
       "word": "海贼王动画",
@@ -880,14 +896,6 @@
       "word": "热辣滚烫首波观众反馈",
       "onboard_time": 1707560856,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 211846,
-      "num": 211846,
-      "word": "贾玲不觉得自己幽默是因为胖",
-      "onboard_time": 1707637953,
-      "rank": 24,
       "category": "电影"
     },
     {
@@ -913,6 +921,14 @@
       "onboard_time": 1707624150,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208951,
+      "num": 208951,
+      "word": "胡歌陈龙看望游本昌",
+      "onboard_time": 1707639090,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 208608,
@@ -979,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195655,
+      "num": 195655,
+      "word": "普通人变优秀最直接的方法",
+      "onboard_time": 1707638248,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194630,
       "num": 194630,
       "word": "大年初二",
@@ -1043,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186335,
+      "num": 186335,
+      "word": "魔卡少女樱 小樱知世手办",
+      "onboard_time": 1707636273,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185901,
       "num": 185901,
       "word": "今年过年直接掀桌了",
@@ -1051,28 +1083,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183501,
-      "num": 183501,
-      "word": "魔卡少女樱 小樱知世手办",
-      "onboard_time": 1707636273,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 182715,
       "num": 182715,
       "word": "蔡依林 熊猫站姐",
       "onboard_time": 1707575736,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181459,
-      "num": 179774,
-      "word": "胡歌陈龙看望游本昌",
-      "onboard_time": 1707639090,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 180811,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1707614669,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177977,
-      "num": 177977,
-      "word": "普通人变优秀最直接的方法",
-      "onboard_time": 1707638248,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 177834,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1707624509,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170671,
+      "num": 170671,
+      "word": "内娱九龙",
+      "onboard_time": 1707638668,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 170594,
@@ -1195,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159113,
+      "num": 159113,
+      "word": "飞驰人生2比1升级了哪些",
+      "onboard_time": 1707637471,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157544,
       "num": 157544,
       "word": "肖战希望好好工作和多陪家人",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1707586286,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156563,
-      "num": 156563,
-      "word": "内娱九龙",
-      "onboard_time": 1707638668,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 155650,
@@ -1243,16 +1259,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152617,
-      "num": 143228,
-      "word": "飞驰人生2比1升级了哪些",
-      "onboard_time": 1707637471,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152050,
-      "num": 141090,
+      "num": 144778,
       "word": "我努力过无数次 机会只在一两次",
       "onboard_time": 1707637111,
       "rank": 44,
@@ -1371,8 +1379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134610,
-      "num": 158309,
+      "raw_hot": 138592,
+      "num": 197063,
       "word": "女孩不回家过年立省一万",
       "onboard_time": 1707636690,
       "rank": 48,
@@ -1491,16 +1499,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115780,
-      "num": 115780,
-      "word": "热辣滚烫",
-      "onboard_time": 1707639569,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 115532,
-      "num": 115532,
+      "num": 123897,
       "word": "杜兰特说库里是历史最强控卫",
       "onboard_time": 1707638373,
       "rank": 49,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1707571661,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53149,
+      "num": 139497,
+      "word": "阿云嘎鲁班大师机械臂",
+      "onboard_time": 1707640233,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 48950,
