@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707655379592,
+  "endTime": 1707657494772,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -97,6 +97,14 @@
       "onboard_time": 1707612574,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1275164,
+      "num": 1275164,
+      "word": "送你一朵小红花导演回应",
+      "onboard_time": 1707654092,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 1272465,
@@ -243,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 925472,
+      "num": 925472,
+      "word": "杨幂礼服下面穿秋裤",
+      "onboard_time": 1707654092,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 921037,
       "num": 921037,
       "word": "初二开始走亲戚的你",
@@ -259,8 +275,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 831524,
-      "num": 831524,
+      "raw_hot": 852687,
+      "num": 852687,
       "word": "红毯先生 暴打资方",
       "onboard_time": 1707652950,
       "rank": 6,
@@ -329,6 +345,14 @@
       "onboard_time": 1707616766,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699412,
+      "num": 471198,
+      "word": "尼日利亚金融大佬一家三口坠机身亡",
+      "onboard_time": 1707653372,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 694408,
@@ -483,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540295,
+      "num": 443154,
+      "word": "姜妍好甜",
+      "onboard_time": 1707656493,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523431,
       "num": 523431,
       "word": "四舍五入坐白敬亭副驾了",
       "onboard_time": 1707627992,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517260,
-      "num": 517260,
-      "word": "送你一朵小红花导演回应",
-      "onboard_time": 1707654092,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 515361,
@@ -563,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 483607,
+      "num": 483607,
+      "word": "山东人梗我真的笑不出来",
+      "onboard_time": 1707654570,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 480723,
       "num": 335456,
       "word": "妈妈也算是生儿育女了",
@@ -593,14 +625,6 @@
       "onboard_time": 1707649771,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 469487,
-      "num": 469487,
-      "word": "杨幂礼服下面穿秋裤",
-      "onboard_time": 1707654092,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 461823,
@@ -675,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411925,
-      "num": 411925,
-      "word": "尼日利亚金融大佬一家三口坠机身亡",
-      "onboard_time": 1707653372,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 410374,
       "num": 410374,
       "word": "贾玲张小斐你们在这争1呢",
@@ -745,6 +761,14 @@
       "onboard_time": 1707645032,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352794,
+      "num": 352794,
+      "word": "李梦太强了",
+      "onboard_time": 1707656313,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 345120,
@@ -939,14 +963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 273455,
-      "num": 193631,
-      "word": "山东人梗我真的笑不出来",
-      "onboard_time": 1707654570,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273434,
       "num": 241708,
       "word": "田曦薇锦鲤少女",
@@ -1051,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237609,
+      "num": 237609,
+      "word": "白敬亭晒南来北往合照",
+      "onboard_time": 1707657212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235772,
       "num": 235772,
       "word": "北大学子揭秘刘谦魔术",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1707578495,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233569,
+      "num": 233569,
+      "word": "李会琴 文案",
+      "onboard_time": 1707655171,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 233121,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1707567882,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221735,
+      "num": 207893,
+      "word": "新郎回应我们这边入赘很常见",
+      "onboard_time": 1707656915,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 220088,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1707580772,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206780,
+      "num": 206780,
+      "word": "汪新被诬陷暴力执法",
+      "onboard_time": 1707656970,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 206416,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1707637891,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183195,
-      "num": 183195,
-      "word": "李会琴 文案",
-      "onboard_time": 1707655171,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 182715,
@@ -1547,6 +1587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170340,
+      "num": 170340,
+      "word": "这是边伯贤和西珍妮吗",
+      "onboard_time": 1707655652,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170041,
+      "num": 170041,
+      "word": "中国女篮巴黎见",
+      "onboard_time": 1707656732,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168329,
       "num": 168329,
       "word": "本以为是巴黎圣母院",
@@ -1611,6 +1667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160986,
+      "num": 160986,
+      "word": "中国女篮战胜波多黎各女篮",
+      "onboard_time": 1707657212,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160009,
+      "num": 160009,
+      "word": "哈尔滨相关门票订单暴增4000%",
+      "onboard_time": 1707654993,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 159405,
       "num": 159405,
       "word": "以后春晚不许三个人一起上来了",
@@ -1657,6 +1729,14 @@
       "onboard_time": 1707648992,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154497,
+      "num": 154497,
+      "word": "和闺蜜约好了春节去旅游她突然要带男友",
+      "onboard_time": 1707657332,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 154442,
@@ -1731,20 +1811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149372,
+      "num": 149372,
+      "word": "天津大姨帮彭昱畅无中生发",
+      "onboard_time": 1707655954,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148741,
       "num": 199719,
       "word": "没想到三星堆和戏曲能这么搭",
       "onboard_time": 1707635912,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148218,
-      "num": 148218,
-      "word": "哈尔滨相关门票订单暴增4000%",
-      "onboard_time": 1707654993,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 148036,
@@ -1921,6 +2001,14 @@
       "onboard_time": 1707626129,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131004,
+      "num": 131004,
+      "word": "朱开爆料圣枪哥曾想退役",
+      "onboard_time": 1707655472,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 128717,
