@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707626096375,
+  "endTime": 1707628533431,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4051983,
+      "num": 4051983,
+      "word": "过年 吵架",
+      "onboard_time": 1707624989,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 4033714,
       "num": 3966659,
       "word": "杨波报平安",
@@ -401,6 +409,14 @@
       "onboard_time": 1706848293,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3167683,
+      "num": 3167683,
+      "word": "她不是变瘦了 她是变强了",
+      "onboard_time": 1707623910,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 3153639,
@@ -1691,14 +1707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1449014,
-      "num": 1449014,
-      "word": "她不是变瘦了 她是变强了",
-      "onboard_time": 1707623910,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1447153,
       "num": 1447153,
       "word": "美方承认几十年来改变中国的努力都没有成功",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1707223592,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1374062,
+      "num": 1374062,
+      "word": "德国动物园杀一半狒狒喂其他动物",
+      "onboard_time": 1707626011,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1373328,
@@ -2507,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1119862,
+      "num": 1119862,
+      "word": "大年初一醒来就被膈应了",
+      "onboard_time": 1707623668,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1119144,
       "num": 1119144,
       "word": "奔驰加塞事件正面7分钟监控曝光",
@@ -2529,14 +2553,6 @@
       "onboard_time": 1707099211,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1109361,
-      "num": 1109361,
-      "word": "过年 吵架",
-      "onboard_time": 1707624989,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 1108411,
@@ -3003,14 +3019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1001435,
-      "num": 1001435,
-      "word": "大年初一醒来就被膈应了",
-      "onboard_time": 1707623668,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 999231,
       "num": 999231,
       "word": "警方称家暴视频是妻子发泄情绪拼接的",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1706922750,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 988147,
+      "num": 988147,
+      "word": "贾玲在拳击台上是真的挨打",
+      "onboard_time": 1707626789,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 986429,
@@ -4737,6 +4753,14 @@
       "onboard_time": 1707487037,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728359,
+      "num": 728359,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1707625710,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 728142,
@@ -8835,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410666,
+      "num": 410666,
+      "word": "魏晨督促白敬亭魏大勋排练",
+      "onboard_time": 1707626850,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "高铁晚点",
@@ -9433,6 +9465,14 @@
       "onboard_time": 1707022652,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 385050,
+      "num": 385050,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 383397,
@@ -11859,6 +11899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 293352,
+      "num": 233877,
+      "word": "四舍五入坐白敬亭副驾了",
+      "onboard_time": 1707627992,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293331,
       "num": 293331,
       "word": "世界之外电话",
@@ -12137,14 +12185,6 @@
       "onboard_time": 1707280651,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 285972,
-      "num": 285972,
-      "word": "尼格买提下次春晚演小品吧",
-      "onboard_time": 1707624689,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 285829,
@@ -14859,6 +14899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 228741,
+      "num": 228741,
+      "word": "各省春晚收视率",
+      "onboard_time": 1707627391,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228600,
       "num": 208255,
       "word": "杨波澳门脱口秀换人",
@@ -14993,6 +15041,14 @@
       "onboard_time": 1706927607,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226283,
+      "num": 226283,
+      "word": "男孩不愿给后妈拜年被亲爸打破头",
+      "onboard_time": 1707627872,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226192,
@@ -15603,6 +15659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218903,
+      "num": 218903,
+      "word": "海贼王动画",
+      "onboard_time": 1707627931,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 218375,
       "num": 218375,
       "word": "特斯拉ModelY推出升级款",
@@ -15737,14 +15801,6 @@
       "onboard_time": 1707359255,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216979,
-      "num": 216979,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1707625710,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 216940,
@@ -16545,6 +16601,14 @@
       "onboard_time": 1707020192,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206245,
+      "num": 206245,
+      "word": "易哭体质喝什么中药调理",
+      "onboard_time": 1707627450,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 206233,
@@ -18481,6 +18545,14 @@
       "onboard_time": 1706765253,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190294,
+      "num": 190294,
+      "word": "勇士战胜太阳",
+      "onboard_time": 1707627511,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 190182,
@@ -21387,6 +21459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161391,
+      "num": 161391,
+      "word": "当我终于送走了所有亲戚",
+      "onboard_time": 1707627872,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161374,
       "num": 161374,
       "word": "李梦 尊重电影人就是尊重电影",
@@ -21785,6 +21865,14 @@
       "onboard_time": 1707439530,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157544,
+      "num": 157544,
+      "word": "肖战希望好好工作和多陪家人",
+      "onboard_time": 1707626551,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 157419,
@@ -24569,6 +24657,14 @@
       "onboard_time": 1707294331,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132750,
+      "num": 132750,
+      "word": "杜兰特苦笑",
+      "onboard_time": 1707626129,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132737,
@@ -27467,14 +27563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102294,
-      "num": 102294,
-      "word": "德国动物园杀一半狒狒喂其他动物",
-      "onboard_time": 1707626011,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102258,
       "num": 102258,
       "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
@@ -28027,6 +28115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91092,
+      "num": 91092,
+      "word": "勇士四连胜",
+      "onboard_time": 1707628230,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91081,
       "num": 91081,
       "word": "伊朗2比3卡塔尔",
@@ -28137,6 +28233,14 @@
       "onboard_time": 1707296312,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86619,
+      "num": 86619,
+      "word": "看我们一起摇太阳在哭什么",
+      "onboard_time": 1707628413,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 86495,
@@ -28348,7 +28452,7 @@
     },
     {
       "raw_hot": 80131,
-      "num": 1021188,
+      "num": 2180603,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,

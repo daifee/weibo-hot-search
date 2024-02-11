@@ -1,7 +1,23 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707626096375,
+  "endTime": 1707628533431,
   "band_list": [
+    {
+      "raw_hot": 4051983,
+      "num": 4051983,
+      "word": "过年 吵架",
+      "onboard_time": 1707624989,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 3167683,
+      "num": 3167683,
+      "word": "她不是变瘦了 她是变强了",
+      "onboard_time": 1707623910,
+      "rank": 4,
+      "category": "电影"
+    },
     {
       "raw_hot": 2383224,
       "num": 2383224,
@@ -27,12 +43,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1449014,
-      "num": 1449014,
-      "word": "她不是变瘦了 她是变强了",
-      "onboard_time": 1707623910,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 1374062,
+      "num": 1374062,
+      "word": "德国动物园杀一半狒狒喂其他动物",
+      "onboard_time": 1707626011,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319142,
@@ -91,11 +107,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1109361,
-      "num": 1109361,
-      "word": "过年 吵架",
-      "onboard_time": 1707624989,
-      "rank": 33,
+      "raw_hot": 1119862,
+      "num": 1119862,
+      "word": "大年初一醒来就被膈应了",
+      "onboard_time": 1707623668,
+      "rank": 12,
       "category": "情感"
     },
     {
@@ -115,12 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1001435,
-      "num": 1001435,
-      "word": "大年初一醒来就被膈应了",
-      "onboard_time": 1707623668,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 988147,
+      "num": 988147,
+      "word": "贾玲在拳击台上是真的挨打",
+      "onboard_time": 1707626789,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 965081,
@@ -161,6 +177,14 @@
       "onboard_time": 1707619769,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728359,
+      "num": 728359,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1707625710,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 723182,
@@ -339,12 +363,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 410666,
+      "num": 410666,
+      "word": "魏晨督促白敬亭魏大勋排练",
+      "onboard_time": 1707626850,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
       "onboard_time": 1707616886,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385050,
+      "num": 385050,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 364015,
@@ -435,12 +475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 285972,
-      "num": 285972,
-      "word": "尼格买提下次春晚演小品吧",
-      "onboard_time": 1707624689,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 293352,
+      "num": 233877,
+      "word": "四舍五入坐白敬亭副驾了",
+      "onboard_time": 1707627992,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 285331,
@@ -563,6 +603,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228741,
+      "num": 228741,
+      "word": "各省春晚收视率",
+      "onboard_time": 1707627391,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226283,
+      "num": 226283,
+      "word": "男孩不愿给后妈拜年被亲爸打破头",
+      "onboard_time": 1707627872,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225212,
       "num": 225212,
       "word": "春晚梗合集PPT上架秒售500份",
@@ -587,12 +643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216979,
-      "num": 216979,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1707625710,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 218903,
+      "num": 218903,
+      "word": "海贼王动画",
+      "onboard_time": 1707627931,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 214678,
@@ -649,6 +705,14 @@
       "onboard_time": 1707580772,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206245,
+      "num": 206245,
+      "word": "易哭体质喝什么中药调理",
+      "onboard_time": 1707627450,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 200520,
@@ -712,6 +776,14 @@
       "word": "马宁称中国足球裁判实现了小目标",
       "onboard_time": 1707611310,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190294,
+      "num": 190294,
+      "word": "勇士战胜太阳",
+      "onboard_time": 1707627511,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -779,11 +851,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161391,
+      "num": 161391,
+      "word": "当我终于送走了所有亲戚",
+      "onboard_time": 1707627872,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159405,
       "num": 159405,
       "word": "以后春晚不许三个人一起上来了",
       "onboard_time": 1707559775,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157544,
+      "num": 157544,
+      "word": "肖战希望好好工作和多陪家人",
+      "onboard_time": 1707626551,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -891,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132750,
+      "num": 132750,
+      "word": "杜兰特苦笑",
+      "onboard_time": 1707626129,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128117,
       "num": 128117,
       "word": "创造营亚洲",
@@ -979,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102294,
-      "num": 102294,
-      "word": "德国动物园杀一半狒狒喂其他动物",
-      "onboard_time": 1707626011,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101229,
       "num": 101229,
       "word": "wf2024冬",
@@ -1035,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91092,
+      "num": 91092,
+      "word": "勇士四连胜",
+      "onboard_time": 1707628230,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90012,
       "num": 578923,
       "word": "田曦薇cos西施乘鲤谣",
@@ -1067,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86619,
+      "num": 86619,
+      "word": "看我们一起摇太阳在哭什么",
+      "onboard_time": 1707628413,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85972,
       "num": 93069,
       "word": "世界之外 接通了",
@@ -1084,7 +1188,7 @@
     },
     {
       "raw_hot": 80131,
-      "num": 1021188,
+      "num": 2180603,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,
