@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707635765397,
+  "endTime": 1707636836705,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324627,
+      "num": 1324627,
+      "word": "贾玲为了形象保密尽量不出门",
+      "onboard_time": 1707632429,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1319142,
       "num": 1319142,
       "word": "贾玲可以和沈腾拍这个视频了",
@@ -67,19 +75,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1308412,
-      "num": 1308412,
-      "word": "贾玲为了形象保密尽量不出门",
-      "onboard_time": 1707632429,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1272465,
       "num": 1272465,
       "word": "胡锡进 贾玲确实太牛了",
       "onboard_time": 1707619951,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1253465,
+      "num": 1253465,
+      "word": "是赵丽颖啊",
+      "onboard_time": 1707633091,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1707612928,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1054225,
-      "num": 1054225,
-      "word": "是赵丽颖啊",
-      "onboard_time": 1707633091,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 1006464,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 590606,
-      "num": 254374,
+      "num": 297821,
       "word": "眼看从3000元涨到了8000元",
       "onboard_time": 1707633573,
       "rank": 20,
@@ -313,6 +313,14 @@
       "onboard_time": 1707620369,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572138,
+      "num": 384816,
+      "word": "赵本山近照",
+      "onboard_time": 1707635792,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 562939,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524422,
+      "num": 290975,
+      "word": "已婚独生女不想回婆家过年",
+      "onboard_time": 1707633692,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523431,
       "num": 523431,
       "word": "四舍五入坐白敬亭副驾了",
@@ -361,14 +377,6 @@
       "onboard_time": 1707574726,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501434,
-      "num": 254323,
-      "word": "已婚独生女不想回婆家过年",
-      "onboard_time": 1707633692,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500505,
@@ -443,6 +451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 435444,
+      "num": 386304,
+      "word": "杨迪 我好骄傲这是我朋友拍出的电影",
+      "onboard_time": 1707633811,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 435027,
       "num": 435027,
       "word": "蔡依林根本不够看",
@@ -457,14 +473,6 @@
       "onboard_time": 1707619828,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431170,
-      "num": 386304,
-      "word": "杨迪 我好骄傲这是我朋友拍出的电影",
-      "onboard_time": 1707633811,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 430181,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357070,
+      "num": 357070,
+      "word": "Jasper拜年照",
+      "onboard_time": 1707634833,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345120,
       "num": 345120,
       "word": "繁花整组都不知道郑恺什么时候杀青",
@@ -529,6 +545,14 @@
       "onboard_time": 1707616827,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 342490,
+      "num": 342490,
+      "word": "易烊千玺工作室是懂剪辑的",
+      "onboard_time": 1707633150,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 332745,
@@ -579,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314405,
-      "num": 314405,
-      "word": "Jasper拜年照",
-      "onboard_time": 1707634833,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
@@ -633,14 +649,6 @@
       "onboard_time": 1707625469,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280814,
-      "num": 280814,
-      "word": "易烊千玺工作室是懂剪辑的",
-      "onboard_time": 1707633150,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 278266,
@@ -779,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229042,
+      "num": 229042,
+      "word": "家里人把我的兔子杀了",
+      "onboard_time": 1707636330,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225212,
       "num": 225212,
       "word": "春晚梗合集PPT上架秒售500份",
@@ -809,6 +825,14 @@
       "onboard_time": 1707632310,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219879,
+      "num": 219879,
+      "word": "会长是女仆大人 碓冰拓海粘土人",
+      "onboard_time": 1707635372,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 218903,
@@ -1083,11 +1107,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161290,
-      "num": 161290,
-      "word": "会长是女仆大人 碓冰拓海粘土人",
-      "onboard_time": 1707635372,
+      "raw_hot": 160998,
+      "num": 160998,
+      "word": "库里9月来中国",
+      "onboard_time": 1707635970,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159637,
+      "num": 159637,
+      "word": "魔卡少女樱 小樱知世手办",
+      "onboard_time": 1707636273,
+      "rank": 36,
       "category": "动漫"
     },
     {
@@ -1139,12 +1171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150832,
+      "num": 150832,
+      "word": "春晚重播",
+      "onboard_time": 1707636393,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149595,
       "num": 149595,
       "word": "肖战年度突破男演员",
       "onboard_time": 1707577715,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148741,
+      "num": 199719,
+      "word": "没想到三星堆和戏曲能这么搭",
+      "onboard_time": 1707635912,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145650,
@@ -1227,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133793,
+      "num": 133793,
+      "word": "真正的闺蜜站队毫不犹豫",
+      "onboard_time": 1707632550,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133014,
       "num": 133014,
       "word": "可爱女生在洛阳把爱好变成事业",
@@ -1291,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120959,
+      "num": 120959,
+      "word": "归宁",
+      "onboard_time": 1707635792,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120259,
       "num": 120259,
       "word": "NBA",
@@ -1307,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116683,
-      "num": 116683,
-      "word": "真正的闺蜜站队毫不犹豫",
-      "onboard_time": 1707632550,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116613,
       "num": 116613,
       "word": "沈月vlog",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1707567819,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113688,
+      "num": 113688,
+      "word": "女孩不回家过年立省一万",
+      "onboard_time": 1707636690,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112658,
@@ -1657,6 +1721,14 @@
       "onboard_time": 1707624033,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 11360,
+      "num": 1056277,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
