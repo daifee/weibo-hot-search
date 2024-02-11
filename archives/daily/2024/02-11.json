@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707618909966,
+  "endTime": 1707621451342,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1972947,
-      "num": 456273,
+      "num": 466292,
       "word": "梅西ins更新",
       "onboard_time": 1707573761,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1707612574,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1247437,
+      "num": 1247437,
+      "word": "胡锡进 贾玲确实太牛了",
+      "onboard_time": 1707619951,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1246574,
@@ -91,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 926651,
+      "num": 926651,
+      "word": "热辣滚烫票房",
+      "onboard_time": 1707616467,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 921037,
       "num": 921037,
       "word": "初二开始走亲戚的你",
@@ -99,12 +115,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 910101,
-      "num": 910101,
-      "word": "热辣滚烫票房",
-      "onboard_time": 1707616467,
-      "rank": 5,
-      "category": "电影"
+      "raw_hot": 705993,
+      "num": 705993,
+      "word": "男生误食椰子片被卡重庆民警火速送医",
+      "onboard_time": 1707617610,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700386,
@@ -131,12 +147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 654661,
+      "num": 654661,
+      "word": "喝牛奶拉肚子的人也不能戒奶",
+      "onboard_time": 1707616827,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 604046,
       "num": 604046,
       "word": "凯特王妃坐马车会晕车",
       "onboard_time": 1707608965,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 565893,
+      "num": 455193,
+      "word": "魏晨回应杨紫给他投票",
+      "onboard_time": 1707619769,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 562939,
@@ -161,14 +193,6 @@
       "onboard_time": 1707569142,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 513279,
-      "num": 256062,
-      "word": "喝牛奶拉肚子的人也不能戒奶",
-      "onboard_time": 1707616827,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 509093,
@@ -219,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433530,
+      "num": 433530,
+      "word": "胡歌说拍繁花时是看狂飙入眠的",
+      "onboard_time": 1707619828,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420925,
       "num": 420925,
       "word": "这俩梨涡我都不敢认了",
@@ -227,11 +259,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408376,
+      "num": 262653,
+      "word": "这6类微信红包千万别点开",
+      "onboard_time": 1707620369,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402418,
-      "num": 255101,
+      "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
       "onboard_time": 1707616886,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366739,
+      "num": 366739,
+      "word": "美国一直升机坠毁致6死",
+      "onboard_time": 1707620310,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -251,12 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 344957,
-      "num": 344957,
-      "word": "男生误食椰子片被卡重庆民警火速送医",
-      "onboard_time": 1707617610,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 343638,
+      "num": 343638,
+      "word": "艾尔海森",
+      "onboard_time": 1707616827,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 332745,
@@ -283,8 +331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318167,
-      "num": 318167,
+      "raw_hot": 319127,
+      "num": 319127,
       "word": "证监会2024年1号罚单",
       "onboard_time": 1707617548,
       "rank": 19,
@@ -321,6 +369,22 @@
       "onboard_time": 1707613950,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269386,
+      "num": 241708,
+      "word": "田曦薇锦鲤少女",
+      "onboard_time": 1707620429,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267694,
+      "num": 174732,
+      "word": "妈妈也算是生儿育女了",
+      "onboard_time": 1707620852,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 265883,
@@ -385,14 +449,6 @@
       "onboard_time": 1707578495,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 230924,
-      "num": 230924,
-      "word": "艾尔海森",
-      "onboard_time": 1707616827,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 221743,
@@ -523,6 +579,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175611,
+      "num": 175611,
+      "word": "周深收视又登顶了",
+      "onboard_time": 1707618688,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170736,
+      "num": 170736,
+      "word": "我觉得我现在强的可怕",
+      "onboard_time": 1707620787,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167314,
       "num": 167314,
       "word": "热辣滚烫 闪回片段",
@@ -611,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140892,
+      "num": 140892,
+      "word": "浙江一村450人合拍全家福",
+      "onboard_time": 1707619172,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140212,
       "num": 140212,
       "word": "王冰冰演小品摔了一跤",
@@ -627,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138522,
+      "num": 138522,
+      "word": "村里人对大学生的误解",
+      "onboard_time": 1707621152,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133014,
       "num": 133014,
       "word": "可爱女生在洛阳把爱好变成事业",
@@ -635,11 +723,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127242,
+      "num": 127242,
+      "word": "第二十条 在嬉笑中讨论现实话题",
+      "onboard_time": 1707620729,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126156,
       "num": 126156,
       "word": "春晚广告好多",
       "onboard_time": 1707592456,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122071,
+      "num": 122071,
+      "word": "创造营亚洲",
+      "onboard_time": 1707619228,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -689,14 +793,6 @@
       "onboard_time": 1707574180,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107259,
-      "num": 107259,
-      "word": "周深收视又登顶了",
-      "onboard_time": 1707618688,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 106899,
