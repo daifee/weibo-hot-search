@@ -1,0 +1,410 @@
+{
+  "runTime": 1707658436624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1553699,
+        "num": 1553699,
+        "word": "这是李焕英的女儿",
+        "onboard_time": 1707637773,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1392474,
+        "num": 1392474,
+        "word": "送你一朵小红花导演回应",
+        "onboard_time": 1707654092,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8294,
+        "num": 1097552,
+        "word": "全球同庆中国年",
+        "onboard_time": 1707621812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919444,
+        "num": 919444,
+        "word": "姜妍好甜",
+        "onboard_time": 1707656493,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 779029,
+        "num": 779029,
+        "word": "红毯先生 暴打资方",
+        "onboard_time": 1707652950,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 734332,
+        "num": 734332,
+        "word": "贾玲和杨迪聊天五小时菜一口没动",
+        "onboard_time": 1707643772,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 658774,
+        "num": 658774,
+        "word": "杨幂礼服下面穿秋裤",
+        "onboard_time": 1707654092,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644459,
+        "num": 644459,
+        "word": "沈梦辰带杜海涛回老家过年",
+        "onboard_time": 1707648753,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546348,
+        "num": 546348,
+        "word": "山东人梗我真的笑不出来",
+        "onboard_time": 1707654570,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 500407,
+        "num": 500407,
+        "word": "李梦太强了",
+        "onboard_time": 1707656313,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728030,
+        "num": 495590,
+        "word": "尼日利亚金融大佬一家三口坠机身亡",
+        "onboard_time": 1707653372,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 604354,
+        "num": 485882,
+        "word": "贾玲兑现了30亿票房承诺",
+        "onboard_time": 1707629791,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 529040,
+        "num": 484726,
+        "word": "范丞丞想演马丽老公被沈腾掐脖",
+        "onboard_time": 1707653489,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 475176,
+        "num": 475176,
+        "word": "贾玲拍露腹肌戏份脱了8斤水",
+        "onboard_time": 1707652593,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453469,
+        "num": 453469,
+        "word": "过年 吵架",
+        "onboard_time": 1707624989,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429354,
+        "num": 429354,
+        "word": "热辣滚烫暂列票房第一",
+        "onboard_time": 1707645032,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419190,
+        "num": 419190,
+        "word": "已婚独生女不想回婆家过年",
+        "onboard_time": 1707633692,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410404,
+        "num": 410404,
+        "word": "飞驰人生2这十秒做了五个月",
+        "onboard_time": 1707651689,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356212,
+        "num": 356212,
+        "word": "嫂子治好了一家子的眼疾",
+        "onboard_time": 1707642092,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280345,
+        "num": 280345,
+        "word": "贾玲在拳击台上是真的挨打",
+        "onboard_time": 1707626789,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279523,
+        "num": 279523,
+        "word": "马丽演技",
+        "onboard_time": 1707651032,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275957,
+        "num": 275957,
+        "word": "乳糖不耐受的典型症状",
+        "onboard_time": 1707642151,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258470,
+        "num": 258470,
+        "word": "白敬亭晒南来北往合照",
+        "onboard_time": 1707657212,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245937,
+        "num": 245937,
+        "word": "王一博龙拳一开口自带buff",
+        "onboard_time": 1707653672,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243426,
+        "num": 243426,
+        "word": "原来这种家庭并不小众",
+        "onboard_time": 1707641492,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240571,
+        "num": 240571,
+        "word": "春晚出图",
+        "onboard_time": 1707657515,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239777,
+        "num": 239777,
+        "word": "是赵丽颖啊",
+        "onboard_time": 1707633091,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230364,
+        "num": 230364,
+        "word": "新郎回应我们这边入赘很常见",
+        "onboard_time": 1707656915,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191664,
+        "num": 224927,
+        "word": "眼看从3000元涨到了8000元",
+        "onboard_time": 1707633573,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176137,
+        "num": 223968,
+        "word": "中国女篮战胜波多黎各女篮",
+        "onboard_time": 1707657212,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223824,
+        "num": 223824,
+        "word": "和闺蜜约好了春节去旅游她突然要带男友",
+        "onboard_time": 1707657332,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218081,
+        "num": 218081,
+        "word": "汪新被甩",
+        "onboard_time": 1707658413,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205184,
+        "num": 205184,
+        "word": "能掌控身体和欲望的人",
+        "onboard_time": 1707653131,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204647,
+        "num": 204647,
+        "word": "贾玲说杨紫很仗义",
+        "onboard_time": 1707647012,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194329,
+        "num": 194329,
+        "word": "她不是变瘦了 她是变强了",
+        "onboard_time": 1707623910,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188469,
+        "num": 188469,
+        "word": "热辣滚烫",
+        "onboard_time": 1707639569,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185314,
+        "num": 185314,
+        "word": "李会琴 文案",
+        "onboard_time": 1707655171,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176837,
+        "num": 176837,
+        "word": "刘诗诗送杨幂刮刮乐",
+        "onboard_time": 1707648753,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170201,
+        "num": 170201,
+        "word": "李梦23分",
+        "onboard_time": 1707657933,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160529,
+        "num": 168727,
+        "word": "西安要被南京小孩哥夸脸红了",
+        "onboard_time": 1707641013,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175456,
+        "num": 168663,
+        "word": "经常喝碳酸饮料会影响消化功能",
+        "onboard_time": 1707658172,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168381,
+        "num": 168381,
+        "word": "这是边伯贤和西珍妮吗",
+        "onboard_time": 1707655652,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168264,
+        "num": 168264,
+        "word": "看得出来每一只小狗都不满意",
+        "onboard_time": 1707657690,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161604,
+        "num": 161604,
+        "word": "汕头烟花",
+        "onboard_time": 1707658111,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156823,
+        "num": 156823,
+        "word": "汪新被诬陷暴力执法",
+        "onboard_time": 1707656970,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154332,
+        "num": 154332,
+        "word": "哈尔滨相关门票订单暴增4000%",
+        "onboard_time": 1707654993,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150718,
+        "num": 150718,
+        "word": "给的压岁钱快赶上1个月工资",
+        "onboard_time": 1707647974,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 150555,
+        "num": 150555,
+        "word": "郑渊洁 白客加油生孩子",
+        "onboard_time": 1707646834,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150009,
+        "num": 150009,
+        "word": "家里人把我的兔子杀了",
+        "onboard_time": 1707636330,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138982,
+        "num": 138982,
+        "word": "第二十条",
+        "onboard_time": 1707638011,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#以团结凝聚力量以奋斗铸就伟业#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707657494772,
+  "endTime": 1707658436624,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1835,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1392474,
+      "num": 1392474,
+      "word": "送你一朵小红花导演回应",
+      "onboard_time": 1707654092,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1391293,
       "num": 1391293,
       "word": "因暴雪滞留高速亲历者发声",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1706746228,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1275164,
-      "num": 1275164,
-      "word": "送你一朵小红花导演回应",
-      "onboard_time": 1707654092,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 1275028,
@@ -3531,6 +3531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 919444,
+      "num": 919444,
+      "word": "姜妍好甜",
+      "onboard_time": 1707656493,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 917551,
       "num": 917551,
       "word": "有一部分人开始断亲了",
@@ -4915,6 +4923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 728030,
+      "num": 495590,
+      "word": "尼日利亚金融大佬一家三口坠机身亡",
+      "onboard_time": 1707653372,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 727858,
       "num": 727858,
       "word": "拖米 小义",
@@ -5137,14 +5153,6 @@
       "onboard_time": 1707366629,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699412,
-      "num": 471198,
-      "word": "尼日利亚金融大佬一家三口坠机身亡",
-      "onboard_time": 1707653372,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 698325,
@@ -6923,6 +6931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546348,
+      "num": 546348,
+      "word": "山东人梗我真的笑不出来",
+      "onboard_time": 1707654570,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545257,
       "num": 425787,
       "word": "春晚就是一个巨大的芒果",
@@ -7009,14 +7025,6 @@
       "onboard_time": 1707528278,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540295,
-      "num": 443154,
-      "word": "姜妍好甜",
-      "onboard_time": 1707656493,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 540182,
@@ -7643,6 +7651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500407,
+      "num": 500407,
+      "word": "李梦太强了",
+      "onboard_time": 1707656313,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 499651,
       "num": 499651,
       "word": "普通话羞耻症",
@@ -7921,14 +7937,6 @@
       "onboard_time": 1706943270,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483607,
-      "num": 483607,
-      "word": "山东人梗我真的笑不出来",
-      "onboard_time": 1707654570,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 483449,
@@ -10577,14 +10585,6 @@
       "onboard_time": 1707544414,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352794,
-      "num": 352794,
-      "word": "李梦太强了",
-      "onboard_time": 1707656313,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 352047,
@@ -13739,6 +13739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258470,
+      "num": 258470,
+      "word": "白敬亭晒南来北往合照",
+      "onboard_time": 1707657212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258410,
       "num": 255421,
       "word": "能不能不煽情",
@@ -14683,6 +14691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240571,
+      "num": 240571,
+      "word": "春晚出图",
+      "onboard_time": 1707657515,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240452,
       "num": 240452,
       "word": "星穹铁道春节",
@@ -14825,14 +14841,6 @@
       "onboard_time": 1706784450,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237609,
-      "num": 237609,
-      "word": "白敬亭晒南来北往合照",
-      "onboard_time": 1707657212,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 237597,
@@ -15355,6 +15363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230364,
+      "num": 230364,
+      "word": "新郎回应我们这边入赘很常见",
+      "onboard_time": 1707656915,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230268,
       "num": 191814,
       "word": "你们给秦海璐留点面子吧",
@@ -15763,6 +15779,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 223824,
+      "num": 223824,
+      "word": "和闺蜜约好了春节去旅游她突然要带男友",
+      "onboard_time": 1707657332,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223821,
       "num": 223821,
       "word": "梅西方需要给个售后方案",
@@ -15897,14 +15921,6 @@
       "onboard_time": 1706768428,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221735,
-      "num": 207893,
-      "word": "新郎回应我们这边入赘很常见",
-      "onboard_time": 1707656915,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 221725,
@@ -16257,6 +16273,14 @@
       "onboard_time": 1707185850,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218081,
+      "num": 218081,
+      "word": "汪新被甩",
+      "onboard_time": 1707658413,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 218053,
@@ -20587,6 +20611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176137,
+      "num": 223968,
+      "word": "中国女篮战胜波多黎各女篮",
+      "onboard_time": 1707657212,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176031,
       "num": 191830,
       "word": "小米或退出印度笔记本市场",
@@ -20665,6 +20697,14 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175456,
+      "num": 168663,
+      "word": "经常喝碳酸饮料会影响消化功能",
+      "onboard_time": 1707658172,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174967,
@@ -21251,6 +21291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170201,
+      "num": 170201,
+      "word": "李梦23分",
+      "onboard_time": 1707657933,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170102,
       "num": 170102,
       "word": "柿子型人格",
@@ -21513,6 +21561,14 @@
       "onboard_time": 1707301592,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168264,
+      "num": 168264,
+      "word": "看得出来每一只小狗都不满意",
+      "onboard_time": 1707657690,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 168211,
@@ -22211,6 +22267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161604,
+      "num": 161604,
+      "word": "汕头烟花",
+      "onboard_time": 1707658111,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 161580,
       "num": 161580,
       "word": "全球手游吸金767亿美元",
@@ -22288,14 +22352,6 @@
       "word": "库里9月来中国",
       "onboard_time": 1707635970,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 160986,
-      "num": 160986,
-      "word": "中国女篮战胜波多黎各女篮",
-      "onboard_time": 1707657212,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -22945,14 +23001,6 @@
       "onboard_time": 1706777433,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154497,
-      "num": 154497,
-      "word": "和闺蜜约好了春节去旅游她突然要带男友",
-      "onboard_time": 1707657332,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 154487,

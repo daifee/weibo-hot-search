@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707657494772,
+  "endTime": 1707658436624,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1392474,
+      "num": 1392474,
+      "word": "送你一朵小红花导演回应",
+      "onboard_time": 1707654092,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1324627,
       "num": 1324627,
       "word": "贾玲为了形象保密尽量不出门",
@@ -97,14 +105,6 @@
       "onboard_time": 1707612574,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1275164,
-      "num": 1275164,
-      "word": "送你一朵小红花导演回应",
-      "onboard_time": 1707654092,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 1272465,
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 919444,
+      "num": 919444,
+      "word": "姜妍好甜",
+      "onboard_time": 1707656493,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 909983,
       "num": 909983,
       "word": "库里绝杀",
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 728030,
+      "num": 495590,
+      "word": "尼日利亚金融大佬一家三口坠机身亡",
+      "onboard_time": 1707653372,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 723182,
       "num": 723182,
       "word": "男生误食椰子片被卡重庆民警火速送医",
@@ -345,14 +361,6 @@
       "onboard_time": 1707616766,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699412,
-      "num": 471198,
-      "word": "尼日利亚金融大佬一家三口坠机身亡",
-      "onboard_time": 1707653372,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 694408,
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540295,
-      "num": 443154,
-      "word": "姜妍好甜",
-      "onboard_time": 1707656493,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 546348,
+      "num": 546348,
+      "word": "山东人梗我真的笑不出来",
+      "onboard_time": 1707654570,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 523431,
@@ -545,6 +553,14 @@
       "onboard_time": 1707626850,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500407,
+      "num": 500407,
+      "word": "李梦太强了",
+      "onboard_time": 1707656313,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 497039,
@@ -585,14 +601,6 @@
       "onboard_time": 1707641492,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 483607,
-      "num": 483607,
-      "word": "山东人梗我真的笑不出来",
-      "onboard_time": 1707654570,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 480723,
@@ -761,14 +769,6 @@
       "onboard_time": 1707645032,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352794,
-      "num": 352794,
-      "word": "李梦太强了",
-      "onboard_time": 1707656313,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 345120,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258470,
+      "num": 258470,
+      "word": "白敬亭晒南来北往合照",
+      "onboard_time": 1707657212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256120,
       "num": 256120,
       "word": "杨超越比小品好看",
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240571,
+      "num": 240571,
+      "word": "春晚出图",
+      "onboard_time": 1707657515,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239244,
       "num": 239244,
       "word": "陈星旭跳科目三",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1707622471,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237609,
-      "num": 237609,
-      "word": "白敬亭晒南来北往合照",
-      "onboard_time": 1707657212,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 235772,
@@ -1147,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230364,
+      "num": 230364,
+      "word": "新郎回应我们这边入赘很常见",
+      "onboard_time": 1707656915,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228881,
       "num": 228881,
       "word": "穆勒发火",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1707624450,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223824,
+      "num": 223824,
+      "word": "和闺蜜约好了春节去旅游她突然要带男友",
+      "onboard_time": 1707657332,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 223450,
@@ -1187,14 +1211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 221735,
-      "num": 207893,
-      "word": "新郎回应我们这边入赘很常见",
-      "onboard_time": 1707656915,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220088,
       "num": 220088,
       "word": "我觉得我现在强的可怕",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1707627931,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 218081,
+      "num": 218081,
+      "word": "汪新被甩",
+      "onboard_time": 1707658413,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 218012,
@@ -1523,6 +1547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176137,
+      "num": 223968,
+      "word": "中国女篮战胜波多黎各女篮",
+      "onboard_time": 1707657212,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175611,
       "num": 175611,
       "word": "周深收视又登顶了",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175456,
+      "num": 168663,
+      "word": "经常喝碳酸饮料会影响消化功能",
+      "onboard_time": 1707658172,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174884,
@@ -1595,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170201,
+      "num": 170201,
+      "word": "李梦23分",
+      "onboard_time": 1707657933,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170041,
       "num": 170041,
       "word": "中国女篮巴黎见",
@@ -1608,6 +1656,14 @@
       "word": "本以为是巴黎圣母院",
       "onboard_time": 1707641793,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168264,
+      "num": 168264,
+      "word": "看得出来每一只小狗都不满意",
+      "onboard_time": 1707657690,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1659,19 +1715,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161604,
+      "num": 161604,
+      "word": "汕头烟花",
+      "onboard_time": 1707658111,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 160998,
       "num": 160998,
       "word": "库里9月来中国",
       "onboard_time": 1707635970,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 160986,
-      "num": 160986,
-      "word": "中国女篮战胜波多黎各女篮",
-      "onboard_time": 1707657212,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -1729,14 +1785,6 @@
       "onboard_time": 1707648992,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154497,
-      "num": 154497,
-      "word": "和闺蜜约好了春节去旅游她突然要带男友",
-      "onboard_time": 1707657332,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 154442,
