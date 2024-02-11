@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707660918502,
+  "endTime": 1707662028710,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1324218,
+      "num": 1324218,
+      "word": "杨紫 终于让我逮着机会演坏人了",
+      "onboard_time": 1707659136,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1319142,
       "num": 1319142,
       "word": "贾玲可以和沈腾拍这个视频了",
@@ -161,14 +169,6 @@
       "onboard_time": 1707648753,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1154304,
-      "num": 1154304,
-      "word": "杨紫 终于让我逮着机会演坏人了",
-      "onboard_time": 1707659136,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1153357,
@@ -329,6 +329,14 @@
       "onboard_time": 1707628653,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 731025,
+      "num": 731025,
+      "word": "三大球目前仅中国女篮获奥运资格",
+      "onboard_time": 1707660033,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 728800,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 590606,
-      "num": 337779,
+      "num": 526549,
       "word": "眼看从3000元涨到了8000元",
       "onboard_time": 1707633573,
       "rank": 20,
@@ -683,6 +691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 444188,
+      "num": 444188,
+      "word": "刘宇宁收到赵露思送的生日蛋糕",
+      "onboard_time": 1707660154,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 437333,
       "num": 250230,
       "word": "家里人把我的兔子杀了",
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374589,
+      "num": 374589,
+      "word": "春晚为什么是八点开始",
+      "onboard_time": 1707660214,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373004,
       "num": 373004,
       "word": "i人社交",
@@ -803,6 +827,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 345592,
+      "num": 345592,
+      "word": "你懂远嫁女儿的愧疚吗",
+      "onboard_time": 1707659675,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 345355,
+      "num": 345355,
+      "word": "大年初二全家最高礼仪迎接女婿",
+      "onboard_time": 1707660214,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345120,
       "num": 345120,
       "word": "繁花整组都不知道郑恺什么时候杀青",
@@ -833,14 +873,6 @@
       "onboard_time": 1707633150,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340323,
-      "num": 340323,
-      "word": "你懂远嫁女儿的愧疚吗",
-      "onboard_time": 1707659675,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 339500,
@@ -955,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295879,
+      "num": 295879,
+      "word": "李庚希回应摇太阳排片少",
+      "onboard_time": 1707661831,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293001,
       "num": 293001,
       "word": "赵本山女儿球球出月子",
@@ -969,14 +1009,6 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286196,
-      "num": 286196,
-      "word": "三大球目前仅中国女篮获奥运资格",
-      "onboard_time": 1707660033,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 285570,
@@ -1003,28 +1035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279930,
-      "num": 279930,
-      "word": "春晚为什么是八点开始",
-      "onboard_time": 1707660214,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278266,
       "num": 278266,
       "word": "飞驰人生2比1好看",
       "onboard_time": 1707622830,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 275484,
-      "num": 275484,
-      "word": "刘宇宁收到赵露思送的生日蛋糕",
-      "onboard_time": 1707660154,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273434,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1707572079,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254262,
+      "num": 219650,
+      "word": "艾伦三笠结婚设定",
+      "onboard_time": 1707661473,
+      "rank": 30,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 253492,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1707622471,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236104,
+      "num": 236104,
+      "word": "当中英双语念出李清照的词",
+      "onboard_time": 1707659917,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235772,
@@ -1419,20 +1451,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205516,
+      "num": 205516,
+      "word": "小尼手里到底剩了两张什么扑克牌",
+      "onboard_time": 1707661473,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204536,
       "num": 204536,
       "word": "一吃火锅就爆痘是咋回事",
       "onboard_time": 1707644791,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 201535,
-      "num": 201535,
-      "word": "大年初二全家最高礼仪迎接女婿",
-      "onboard_time": 1707660214,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200520,
@@ -1683,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172699,
-      "num": 172699,
-      "word": "当中英双语念出李清照的词",
-      "onboard_time": 1707659917,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172002,
       "num": 172002,
       "word": "新年第一天就被自己穷笑了",
@@ -1833,6 +1857,14 @@
       "onboard_time": 1707559775,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158871,
+      "num": 158871,
+      "word": "8个好习惯让你越活越年轻",
+      "onboard_time": 1707661896,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157544,
