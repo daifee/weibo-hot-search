@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707625220653,
+  "endTime": 1707626096375,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1691,6 +1691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1449014,
+      "num": 1449014,
+      "word": "她不是变瘦了 她是变强了",
+      "onboard_time": 1707623910,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1447153,
       "num": 1447153,
       "word": "美方承认几十年来改变中国的努力都没有成功",
@@ -2523,6 +2531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1109361,
+      "num": 1109361,
+      "word": "过年 吵架",
+      "onboard_time": 1707624989,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1108411,
       "num": 1108411,
       "word": "五十度暴雪",
@@ -2955,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006464,
+      "num": 1006464,
+      "word": "迪丽热巴素颜练舞",
+      "onboard_time": 1707622710,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1003912,
       "num": 1003912,
       "word": "韩如雪",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1707493634,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1001435,
+      "num": 1001435,
+      "word": "大年初一醒来就被膈应了",
+      "onboard_time": 1707623668,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 999231,
@@ -3251,14 +3283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 943667,
-      "num": 943667,
-      "word": "迪丽热巴素颜练舞",
-      "onboard_time": 1707622710,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 942430,
       "num": 942430,
       "word": "大S具俊晔23年前后合照对比",
@@ -3433,6 +3457,14 @@
       "onboard_time": 1707395133,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 909983,
+      "num": 909983,
+      "word": "库里绝杀",
+      "onboard_time": 1707624930,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 909520,
@@ -3617,14 +3649,6 @@
       "onboard_time": 1707181110,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873125,
-      "num": 873125,
-      "word": "她不是变瘦了 她是变强了",
-      "onboard_time": 1707623910,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 872163,
@@ -6011,14 +6035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595720,
-      "num": 531329,
-      "word": "大年初一醒来就被膈应了",
-      "onboard_time": 1707623668,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 595157,
       "num": 595157,
       "word": "真实胎动",
@@ -6777,14 +6793,6 @@
       "onboard_time": 1706792373,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 537633,
-      "num": 537633,
-      "word": "库里绝杀",
-      "onboard_time": 1707624930,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 536876,
@@ -8443,6 +8451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 430181,
+      "num": 346482,
+      "word": "女婿陪媳妇回娘家的统一状态",
+      "onboard_time": 1707622830,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429716,
       "num": 429716,
       "word": "奔驰车加塞事件",
@@ -8528,14 +8544,6 @@
       "word": "被砸车当事人称警方已通报到此为止",
       "onboard_time": 1706875833,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425311,
-      "num": 346482,
-      "word": "女婿陪媳妇回娘家的统一状态",
-      "onboard_time": 1707622830,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -10667,6 +10675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329532,
+      "num": 329532,
+      "word": "库里太牛了",
+      "onboard_time": 1707625288,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329338,
       "num": 329338,
       "word": "九尾火舞",
@@ -12123,6 +12139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285972,
+      "num": 285972,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285829,
       "num": 285829,
       "word": "大司马",
@@ -12225,6 +12249,14 @@
       "onboard_time": 1707182852,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282278,
+      "num": 396765,
+      "word": "原神",
+      "onboard_time": 1706833711,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 282169,
@@ -15035,12 +15067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225072,
-      "num": 396765,
-      "word": "原神",
-      "onboard_time": 1706833711,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 225212,
+      "num": 225212,
+      "word": "春晚梗合集PPT上架秒售500份",
+      "onboard_time": 1707624450,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225043,
@@ -15217,14 +15249,6 @@
       "onboard_time": 1707299970,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222787,
-      "num": 222787,
-      "word": "春晚梗合集PPT上架秒售500份",
-      "onboard_time": 1707624450,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222566,
@@ -15713,6 +15737,14 @@
       "onboard_time": 1707359255,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216979,
+      "num": 216979,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1707625710,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 216940,
@@ -17689,14 +17721,6 @@
       "onboard_time": 1707358049,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195919,
-      "num": 195919,
-      "word": "过年 吵架",
-      "onboard_time": 1707624989,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 195853,
@@ -20227,6 +20251,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 172002,
+      "num": 172002,
+      "word": "新年第一天就被自己穷笑了",
+      "onboard_time": 1707624509,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171951,
       "num": 171951,
       "word": "C罗腿部肌肉撕裂",
@@ -20376,14 +20408,6 @@
       "word": "花花上春晚啦",
       "onboard_time": 1707475110,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 170752,
-      "num": 170752,
-      "word": "尼格买提下次春晚演小品吧",
-      "onboard_time": 1707624689,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -23001,14 +23025,6 @@
       "onboard_time": 1707219690,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 145759,
-      "num": 145759,
-      "word": "新年第一天就被自己穷笑了",
-      "onboard_time": 1707624509,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 145704,
@@ -26003,6 +26019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120259,
+      "num": 120259,
+      "word": "NBA",
+      "onboard_time": 1707625893,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120249,
       "num": 120249,
       "word": "养猫人收拾行李总共分几步",
@@ -27443,6 +27467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102294,
+      "num": 102294,
+      "word": "德国动物园杀一半狒狒喂其他动物",
+      "onboard_time": 1707626011,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102258,
       "num": 102258,
       "word": "曝医院拖欠工资药材耗尽院长宣布绝食",
@@ -28027,6 +28059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90012,
+      "num": 578923,
+      "word": "田曦薇cos西施乘鲤谣",
+      "onboard_time": 1707623310,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89704,
       "num": 89704,
       "word": "Minji对恶评的态度",
@@ -28307,6 +28347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80131,
+      "num": 1021188,
+      "word": "全球同庆中国年",
+      "onboard_time": 1707621812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79325,
       "num": 66774,
       "word": "张小燕透露黄子佼近况",
@@ -28489,14 +28537,6 @@
       "onboard_time": 1707434001,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74968,
-      "num": 910312,
-      "word": "全球同庆中国年",
-      "onboard_time": 1707621812,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74917,
@@ -28809,14 +28849,6 @@
       "onboard_time": 1706949331,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62323,
-      "num": 531486,
-      "word": "田曦薇cos西施乘鲤谣",
-      "onboard_time": 1707623310,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 62205,
@@ -30323,6 +30355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 17024,
+      "num": 472203,
+      "word": "在支付宝看视频一秒解锁各地年味",
+      "onboard_time": 1707624033,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16988,
       "num": 16988,
       "word": "不会打掼蛋的人有福了",
@@ -30465,14 +30505,6 @@
       "onboard_time": 1707473793,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 13314,
-      "num": 472203,
-      "word": "在支付宝看视频一秒解锁各地年味",
-      "onboard_time": 1707624033,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 13288,

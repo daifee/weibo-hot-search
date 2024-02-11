@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707625220653,
+  "endTime": 1707626096375,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -25,6 +25,14 @@
       "onboard_time": 1707573761,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1449014,
+      "num": 1449014,
+      "word": "她不是变瘦了 她是变强了",
+      "onboard_time": 1707623910,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 1319142,
@@ -83,12 +91,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1109361,
+      "num": 1109361,
+      "word": "过年 吵架",
+      "onboard_time": 1707624989,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1068368,
       "num": 1068368,
       "word": "爸爸素质不详遇强则强",
       "onboard_time": 1707612928,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1006464,
+      "num": 1006464,
+      "word": "迪丽热巴素颜练舞",
+      "onboard_time": 1707622710,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1001435,
+      "num": 1001435,
+      "word": "大年初一醒来就被膈应了",
+      "onboard_time": 1707623668,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 965081,
@@ -107,14 +139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 943667,
-      "num": 943667,
-      "word": "迪丽热巴素颜练舞",
-      "onboard_time": 1707622710,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 921037,
       "num": 921037,
       "word": "初二开始走亲戚的你",
@@ -123,12 +147,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 873125,
-      "num": 873125,
-      "word": "她不是变瘦了 她是变强了",
-      "onboard_time": 1707623910,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 909983,
+      "num": 909983,
+      "word": "库里绝杀",
+      "onboard_time": 1707624930,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 758832,
@@ -187,14 +211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 595720,
-      "num": 531329,
-      "word": "大年初一醒来就被膈应了",
-      "onboard_time": 1707623668,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 583125,
       "num": 314551,
       "word": "这6类微信红包千万别点开",
@@ -225,14 +241,6 @@
       "onboard_time": 1707576935,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537633,
-      "num": 537633,
-      "word": "库里绝杀",
-      "onboard_time": 1707624930,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 515361,
@@ -315,7 +323,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 425311,
+      "raw_hot": 430181,
       "num": 346482,
       "word": "女婿陪媳妇回娘家的统一状态",
       "onboard_time": 1707622830,
@@ -379,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329532,
+      "num": 329532,
+      "word": "库里太牛了",
+      "onboard_time": 1707625288,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -419,12 +435,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285972,
+      "num": 285972,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
       "onboard_time": 1707575199,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282278,
+      "num": 282278,
+      "word": "原神",
+      "onboard_time": 1707625469,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 278266,
@@ -531,8 +563,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 222787,
-      "num": 222787,
+      "raw_hot": 225212,
+      "num": 225212,
       "word": "春晚梗合集PPT上架秒售500份",
       "onboard_time": 1707624450,
       "rank": 29,
@@ -553,6 +585,14 @@
       "onboard_time": 1707620787,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216979,
+      "num": 216979,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1707625710,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 214678,
@@ -625,14 +665,6 @@
       "onboard_time": 1707554912,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195919,
-      "num": 195919,
-      "word": "过年 吵架",
-      "onboard_time": 1707624989,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 194630,
@@ -723,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170752,
-      "num": 170752,
-      "word": "尼格买提下次春晚演小品吧",
-      "onboard_time": 1707624689,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 172002,
+      "num": 172002,
+      "word": "新年第一天就被自己穷笑了",
+      "onboard_time": 1707624509,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 167314,
@@ -785,14 +817,6 @@
       "onboard_time": 1707577715,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145759,
-      "num": 145759,
-      "word": "新年第一天就被自己穷笑了",
-      "onboard_time": 1707624509,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 145650,
@@ -891,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120259,
+      "num": 120259,
+      "word": "NBA",
+      "onboard_time": 1707625893,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119892,
       "num": 119892,
       "word": "卡塔尔队蝉联亚洲杯冠军",
@@ -947,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102294,
+      "num": 102294,
+      "word": "德国动物园杀一半狒狒喂其他动物",
+      "onboard_time": 1707626011,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101229,
       "num": 101229,
       "word": "wf2024冬",
@@ -995,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90012,
+      "num": 578923,
+      "word": "田曦薇cos西施乘鲤谣",
+      "onboard_time": 1707623310,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89654,
       "num": 89654,
       "word": "如何评价马宁决赛判罚",
@@ -1035,28 +1083,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78987,
-      "num": 130333,
-      "word": "约旦1比3卡塔尔",
-      "onboard_time": 1707607161,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74968,
-      "num": 910312,
+      "raw_hot": 80131,
+      "num": 1021188,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62323,
-      "num": 531486,
-      "word": "田曦薇cos西施乘鲤谣",
-      "onboard_time": 1707623310,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 78987,
+      "num": 130333,
+      "word": "约旦1比3卡塔尔",
+      "onboard_time": 1707607161,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 61919,
@@ -1195,7 +1235,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13314,
+      "raw_hot": 17024,
       "num": 472203,
       "word": "在支付宝看视频一秒解锁各地年味",
       "onboard_time": 1707624033,
