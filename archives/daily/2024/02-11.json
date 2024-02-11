@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707632501360,
+  "endTime": 1707633233631,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1558877,
-      "num": 1558877,
+      "raw_hot": 1595540,
+      "num": 1595540,
       "word": "贾玲兑现了30亿票房承诺",
       "onboard_time": 1707629791,
       "rank": 1,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 842684,
+      "num": 431426,
+      "word": "贾玲为了形象保密尽量不出门",
+      "onboard_time": 1707632429,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 803889,
       "num": 803889,
       "word": "尼格买提下次春晚演小品吧",
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671051,
+      "num": 671051,
+      "word": "丁程鑫微信好友第六位是王源",
+      "onboard_time": 1707631294,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655547,
       "num": 655547,
       "word": "张小斐主演电影票房破70亿",
@@ -249,14 +265,6 @@
       "onboard_time": 1707616827,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 636545,
-      "num": 636545,
-      "word": "丁程鑫微信好友第六位是王源",
-      "onboard_time": 1707631294,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 624418,
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 431426,
-      "num": 431426,
-      "word": "贾玲为了形象保密尽量不出门",
-      "onboard_time": 1707632429,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 430181,
       "num": 346482,
       "word": "女婿陪媳妇回娘家的统一状态",
@@ -443,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 416013,
+      "num": 416013,
+      "word": "王鹤棣虽然没上春晚但梗上了",
+      "onboard_time": 1707630812,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
@@ -451,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397818,
-      "num": 397818,
+      "raw_hot": 398044,
+      "num": 398044,
       "word": "女儿在委屈诉苦",
       "onboard_time": 1707629312,
       "rank": 37,
@@ -464,14 +472,6 @@
       "word": "马丽回应观众妈妈喜欢春晚上的鞋",
       "onboard_time": 1707586462,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 345422,
-      "num": 345422,
-      "word": "王鹤棣虽然没上春晚但梗上了",
-      "onboard_time": 1707630812,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326034,
+      "num": 180011,
+      "word": "手指是人体的缩影",
+      "onboard_time": 1707632852,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -553,6 +561,22 @@
       "onboard_time": 1707598696,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293001,
+      "num": 293001,
+      "word": "赵本山女儿球球出月子",
+      "onboard_time": 1707632014,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291637,
+      "num": 291637,
+      "word": "白敬亭宋家腾接机刘冠麟",
+      "onboard_time": 1707631531,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 285331,
@@ -601,14 +625,6 @@
       "onboard_time": 1707576215,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265107,
-      "num": 265107,
-      "word": "赵本山女儿球球出月子",
-      "onboard_time": 1707632014,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 259615,
@@ -665,14 +681,6 @@
       "onboard_time": 1707622471,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238174,
-      "num": 238174,
-      "word": "白敬亭宋家腾接机刘冠麟",
-      "onboard_time": 1707631531,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 235772,
@@ -737,6 +745,14 @@
       "onboard_time": 1707620787,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220040,
+      "num": 220040,
+      "word": "赵丽颖 郝秀萍跳楼戏",
+      "onboard_time": 1707632310,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 218903,
@@ -955,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170594,
+      "num": 170594,
+      "word": "第二十条超预期",
+      "onboard_time": 1707632371,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167314,
       "num": 167314,
       "word": "热辣滚烫 闪回片段",
@@ -1019,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155085,
+      "num": 155085,
+      "word": "格林狂喷杜兰特",
+      "onboard_time": 1707632429,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151722,
       "num": 151722,
       "word": "花钱买来短暂的亲情",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1707569801,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145527,
+      "num": 145527,
+      "word": "易烊千玺工作室是懂剪辑的",
+      "onboard_time": 1707633150,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 141997,
@@ -1099,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134823,
+      "num": 134823,
+      "word": "是赵丽颖啊",
+      "onboard_time": 1707633091,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133014,
       "num": 133014,
       "word": "可爱女生在洛阳把爱好变成事业",
@@ -1115,12 +1163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130870,
-      "num": 130870,
-      "word": "赵丽颖 郝秀萍跳楼戏",
-      "onboard_time": 1707632310,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 129872,
+      "num": 129872,
+      "word": "为何越来越多年轻人断亲了",
+      "onboard_time": 1707633150,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 128717,
@@ -1179,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119142,
-      "num": 119142,
-      "word": "第二十条超预期",
-      "onboard_time": 1707632371,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116613,
       "num": 116613,
       "word": "沈月vlog",
@@ -1203,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113840,
-      "num": 113840,
-      "word": "格林狂喷杜兰特",
-      "onboard_time": 1707632429,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112456,
       "num": 112456,
       "word": "兔兔表达开心的动作",
@@ -1224,6 +1256,14 @@
       "word": "非遗过大年",
       "onboard_time": 1707617849,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110416,
+      "num": 110416,
+      "word": "聚餐时桌子突然炸了全家人淡定举杯",
+      "onboard_time": 1707633091,
+      "rank": 45,
       "category": "社会新闻"
     },
     {

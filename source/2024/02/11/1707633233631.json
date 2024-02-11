@@ -1,0 +1,410 @@
+{
+  "runTime": 1707633233631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620785,
+        "num": 1620785,
+        "word": "她不是变瘦了 她是变强了",
+        "onboard_time": 1707623910,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1595540,
+        "num": 1595540,
+        "word": "贾玲兑现了30亿票房承诺",
+        "onboard_time": 1707629791,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62458,
+        "num": 1083608,
+        "word": "全球同庆中国年",
+        "onboard_time": 1707621812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2288277,
+        "num": 1037703,
+        "word": "过年 吵架",
+        "onboard_time": 1707624989,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 891797,
+        "num": 891797,
+        "word": "德国动物园杀一半狒狒喂其他动物",
+        "onboard_time": 1707626011,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671051,
+        "num": 671051,
+        "word": "丁程鑫微信好友第六位是王源",
+        "onboard_time": 1707631294,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650354,
+        "num": 650354,
+        "word": "贾玲在拳击台上是真的挨打",
+        "onboard_time": 1707626789,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 554309,
+        "num": 554309,
+        "word": "星汉灿烂",
+        "onboard_time": 1707628653,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525714,
+        "num": 525714,
+        "word": "迪丽热巴给工作人员发的红包",
+        "onboard_time": 1707629130,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416238,
+        "num": 416238,
+        "word": "尼格买提下次春晚演小品吧",
+        "onboard_time": 1707624689,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 842684,
+        "num": 416228,
+        "word": "贾玲为了形象保密尽量不出门",
+        "onboard_time": 1707632429,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 781373,
+        "num": 416158,
+        "word": "大年初一醒来就被膈应了",
+        "onboard_time": 1707623668,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 534845,
+        "num": 416103,
+        "word": "贾玲陈小艺",
+        "onboard_time": 1707629791,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478478,
+        "num": 416082,
+        "word": "贾玲 我的减重是非常健康的",
+        "onboard_time": 1707574359,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 424379,
+        "num": 416040,
+        "word": "梅西ins更新",
+        "onboard_time": 1707573761,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416013,
+        "num": 416013,
+        "word": "王鹤棣虽然没上春晚但梗上了",
+        "onboard_time": 1707630812,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398044,
+        "num": 398044,
+        "word": "女儿在委屈诉苦",
+        "onboard_time": 1707629312,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340584,
+        "num": 340584,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1707616467,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338567,
+        "num": 338567,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1707625710,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178294,
+        "num": 305982,
+        "word": "男生误食椰子片被卡重庆民警火速送医",
+        "onboard_time": 1707617610,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293001,
+        "num": 293001,
+        "word": "赵本山女儿球球出月子",
+        "onboard_time": 1707632014,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291637,
+        "num": 291637,
+        "word": "白敬亭宋家腾接机刘冠麟",
+        "onboard_time": 1707631531,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278412,
+        "num": 278412,
+        "word": "男孩不愿给后妈拜年被亲爸打破头",
+        "onboard_time": 1707627872,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260995,
+        "num": 260995,
+        "word": "女婿陪媳妇回娘家的统一状态",
+        "onboard_time": 1707622830,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223423,
+        "num": 223423,
+        "word": "游本昌获奖感言让年轻演员集体落泪",
+        "onboard_time": 1707630091,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220040,
+        "num": 220040,
+        "word": "赵丽颖 郝秀萍跳楼戏",
+        "onboard_time": 1707632310,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265409,
+        "num": 218268,
+        "word": "四舍五入坐白敬亭副驾了",
+        "onboard_time": 1707627992,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204176,
+        "num": 204176,
+        "word": "迪丽热巴素颜练舞",
+        "onboard_time": 1707622710,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192345,
+        "num": 192345,
+        "word": "杨紫马丽同款羽毛衫",
+        "onboard_time": 1707632069,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184378,
+        "num": 184378,
+        "word": "当我终于送走了所有亲戚",
+        "onboard_time": 1707627872,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326034,
+        "num": 180011,
+        "word": "手指是人体的缩影",
+        "onboard_time": 1707632852,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175352,
+        "num": 175352,
+        "word": "易烊千玺弹贝斯vlog",
+        "onboard_time": 1707631592,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170594,
+        "num": 170594,
+        "word": "第二十条超预期",
+        "onboard_time": 1707632371,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166988,
+        "num": 166988,
+        "word": "魏晨督促白敬亭魏大勋排练",
+        "onboard_time": 1707626850,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155085,
+        "num": 155085,
+        "word": "格林狂喷杜兰特",
+        "onboard_time": 1707632429,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150250,
+        "num": 150250,
+        "word": "这6类微信红包千万别点开",
+        "onboard_time": 1707620369,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145527,
+        "num": 145527,
+        "word": "易烊千玺工作室是懂剪辑的",
+        "onboard_time": 1707633150,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134823,
+        "num": 134823,
+        "word": "是赵丽颖啊",
+        "onboard_time": 1707633091,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147272,
+        "num": 133629,
+        "word": "魏晨回应杨紫给他投票",
+        "onboard_time": 1707619769,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131548,
+        "num": 131548,
+        "word": "大侦探9首案概念海报",
+        "onboard_time": 1707629071,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129872,
+        "num": 129872,
+        "word": "为何越来越多年轻人断亲了",
+        "onboard_time": 1707633150,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120814,
+        "num": 120814,
+        "word": "央视专访毛不易",
+        "onboard_time": 1707631772,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120138,
+        "num": 120138,
+        "word": "喝牛奶拉肚子的人也不能戒奶",
+        "onboard_time": 1707616827,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "海贼王动画",
+        "onboard_time": 1707627931,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113299,
+        "num": 113299,
+        "word": "库里绝杀",
+        "onboard_time": 1707624930,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110416,
+        "num": 110416,
+        "word": "聚餐时桌子突然炸了全家人淡定举杯",
+        "onboard_time": 1707633091,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108167,
+        "num": 108167,
+        "word": "巴黎球员身穿中文印字球衣",
+        "onboard_time": 1707628653,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105881,
+        "num": 105881,
+        "word": "各省春晚收视率",
+        "onboard_time": 1707627391,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105714,
+        "num": 105714,
+        "word": "飞驰人生2比1好看",
+        "onboard_time": 1707622830,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104867,
+        "num": 104867,
+        "word": "肖战希望好好工作和多陪家人",
+        "onboard_time": 1707626551,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}
