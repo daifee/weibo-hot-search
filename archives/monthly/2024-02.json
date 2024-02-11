@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707665649885,
+  "endTime": 1707668429781,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1706782532,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1701908,
+      "num": 1701908,
+      "word": "爸爸去哪儿阿拉蕾长大了",
+      "onboard_time": 1707666453,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1695709,
@@ -3017,6 +3025,14 @@
       "onboard_time": 1707126454,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1027948,
+      "num": 785002,
+      "word": "泰国偶遇奚梦瑶和婆婆逛街",
+      "onboard_time": 1707665493,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1022272,
@@ -6233,6 +6249,14 @@
       "onboard_time": 1707496989,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608378,
+      "num": 404318,
+      "word": "池昌旭方为室内吸烟道歉",
+      "onboard_time": 1707665912,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 607222,
@@ -10073,6 +10097,14 @@
       "onboard_time": 1707308076,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 374620,
+      "num": 334369,
+      "word": "沈腾说刘昊然飞驰2瘦得心疼",
+      "onboard_time": 1707665433,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 374587,
@@ -14251,6 +14283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 252072,
+      "num": 301333,
+      "word": "各个器官疾病引起疼痛的大致范围",
+      "onboard_time": 1707666453,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251737,
       "num": 284238,
       "word": "这居然是红包不是试卷",
@@ -15491,6 +15531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230811,
+      "num": 230811,
+      "word": "嗑瓜子上火是因为直接用嘴嗑",
+      "onboard_time": 1707664831,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230587,
       "num": 230587,
       "word": "杨迪被贾玲贴脸秀肌肉",
@@ -16689,6 +16737,14 @@
       "onboard_time": 1706850214,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214888,
+      "num": 214888,
+      "word": "关之琳61岁状态",
+      "onboard_time": 1707668130,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 214820,
@@ -18275,14 +18331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199102,
-      "num": 199102,
-      "word": "嗑瓜子上火是因为直接用嘴嗑",
-      "onboard_time": 1707664831,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 199076,
       "num": 199076,
       "word": "过年 一种爱豆回归期的感觉",
@@ -19841,14 +19889,6 @@
       "onboard_time": 1706793272,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186168,
-      "num": 186168,
-      "word": "泰国偶遇奚梦瑶和婆婆逛街",
-      "onboard_time": 1707665493,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 185901,
@@ -21539,6 +21579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169783,
+      "num": 153088,
+      "word": "把姐姐爆改成甜妹",
+      "onboard_time": 1707667051,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 169738,
       "num": 169738,
       "word": "AG对战VG",
@@ -23027,14 +23075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 156105,
-      "num": 156105,
-      "word": "沈腾说刘昊然飞驰2瘦得心疼",
-      "onboard_time": 1707665433,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 155960,
       "num": 155960,
       "word": "过年要压岁钱的狠人行为",
@@ -24379,6 +24419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144829,
+      "num": 135196,
+      "word": "于适被韩寒从彩蛋剪进正片",
+      "onboard_time": 1707668009,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144815,
       "num": 144815,
       "word": "钎城龙年迎新岁大片",
@@ -24465,6 +24513,14 @@
       "onboard_time": 1707265770,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144028,
+      "num": 146330,
+      "word": "游客到西安一出站就被巨型花灯震撼",
+      "onboard_time": 1707664413,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 144026,
@@ -25273,14 +25329,6 @@
       "onboard_time": 1707120870,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 137887,
-      "num": 146330,
-      "word": "游客到西安一出站就被巨型花灯震撼",
-      "onboard_time": 1707664413,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 137794,
@@ -30315,6 +30363,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 64946,
+      "num": 118881,
+      "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
+      "onboard_time": 1707668070,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 64716,
       "num": 245330,
       "word": "奶奶编发",
@@ -30657,6 +30713,14 @@
       "onboard_time": 1707082935,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51344,
+      "num": 85176,
+      "word": "西汉姆联vs阿森纳",
+      "onboard_time": 1707662975,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 51253,
