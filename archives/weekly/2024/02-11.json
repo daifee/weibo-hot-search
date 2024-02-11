@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707614183295,
+  "endTime": 1707615314157,
   "band_list": [
     {
       "raw_hot": 2383224,
@@ -25,6 +25,14 @@
       "onboard_time": 1707573761,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1272466,
+      "num": 1272466,
+      "word": "贾玲可以和沈腾拍这个视频了",
+      "onboard_time": 1707612574,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1246574,
@@ -59,12 +67,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1102107,
-      "num": 1102107,
-      "word": "贾玲可以和沈腾拍这个视频了",
-      "onboard_time": 1707612574,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 1055382,
+      "num": 1055382,
+      "word": "贾玲最轻时体重109.2斤",
+      "onboard_time": 1707612026,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 965081,
@@ -72,14 +80,6 @@
       "word": "贾玲谈未来体型管理",
       "onboard_time": 1707609386,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 941799,
-      "num": 398064,
-      "word": "贾玲最轻时体重109.2斤",
-      "onboard_time": 1707612026,
-      "rank": 10,
       "category": "电影"
     },
     {
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551488,
+      "num": 266069,
+      "word": "爸爸素质不详遇强则强",
+      "onboard_time": 1707612928,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 515361,
       "num": 515361,
       "word": "肖战站C位果然是马丽雷佳音商量好的",
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497039,
+      "num": 497039,
+      "word": "春节档票房",
+      "onboard_time": 1707611068,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 488445,
       "num": 488445,
       "word": "杨超越 医保不治恋爱脑",
@@ -155,20 +171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449606,
+      "num": 449606,
+      "word": "大年初二年俗",
+      "onboard_time": 1707610288,
+      "rank": 13,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 448643,
       "num": 448643,
       "word": "初六前可以不用来看兵马俑了",
       "onboard_time": 1707555696,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 436156,
-      "num": 436156,
-      "word": "春节档票房",
-      "onboard_time": 1707611068,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 435027,
@@ -195,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354043,
-      "num": 354043,
-      "word": "大年初二年俗",
-      "onboard_time": 1707610288,
-      "rank": 13,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 345120,
       "num": 345120,
       "word": "繁花整组都不知道郑恺什么时候杀青",
@@ -212,19 +220,11 @@
     },
     {
       "raw_hot": 332745,
-      "num": 211125,
+      "num": 228154,
       "word": "妈妈的对方正在输入",
       "onboard_time": 1707610589,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325690,
-      "num": 140502,
-      "word": "爸爸素质不详遇强则强",
-      "onboard_time": 1707612928,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 325485,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 311073,
-      "num": 202753,
+      "num": 227126,
       "word": "一天1000条小金龙不够卖",
       "onboard_time": 1707608361,
       "rank": 21,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270843,
+      "num": 220327,
+      "word": "男子下车就被侄女请去掌勺年夜饭",
+      "onboard_time": 1707613950,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265883,
       "num": 291070,
       "word": "亚洲杯",
@@ -273,6 +281,14 @@
       "onboard_time": 1707582270,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258218,
+      "num": 258218,
+      "word": "热辣滚烫治好了我的讨好型人格",
+      "onboard_time": 1707611727,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 256120,
@@ -320,14 +336,6 @@
       "word": "大年初一单日票房13.2亿",
       "onboard_time": 1707578495,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 222114,
-      "num": 201288,
-      "word": "热辣滚烫治好了我的讨好型人格",
-      "onboard_time": 1707611727,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141779,
+      "num": 141779,
+      "word": "南京有一条含龙量超高的大道",
+      "onboard_time": 1707611967,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141408,
       "num": 141408,
       "word": "过年总给我一种失序感",
@@ -523,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139335,
+      "num": 139335,
+      "word": "红毯先生排片好少",
+      "onboard_time": 1707614669,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133014,
       "num": 133014,
       "word": "可爱女生在洛阳把爱好变成事业",
       "onboard_time": 1707612870,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127216,
-      "num": 127216,
-      "word": "南京有一条含龙量超高的大道",
-      "onboard_time": 1707611967,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 119892,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110786,
+      "num": 110786,
+      "word": "春晚广告好多",
+      "onboard_time": 1707592456,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110004,
       "num": 212349,
       "word": "中国女篮主帅道歉",
@@ -571,11 +595,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106674,
-      "num": 106674,
-      "word": "男子下车就被侄女请去掌勺年夜饭",
-      "onboard_time": 1707613950,
-      "rank": 38,
+      "raw_hot": 106899,
+      "num": 106899,
+      "word": "这场颁奖仪式全屏是马赛克",
+      "onboard_time": 1707606624,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -595,28 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93720,
-      "num": 93720,
-      "word": "春晚广告好多",
-      "onboard_time": 1707592456,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93608,
       "num": 93608,
       "word": "马宁判点",
       "onboard_time": 1707608244,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91440,
-      "num": 91440,
-      "word": "这场颁奖仪式全屏是马赛克",
-      "onboard_time": 1707606624,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87900,
