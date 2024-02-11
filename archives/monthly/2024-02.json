@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707628533431,
+  "endTime": 1707629637512,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1643,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1496068,
+      "num": 1496068,
+      "word": "德国动物园杀一半狒狒喂其他动物",
+      "onboard_time": 1707626011,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1489068,
       "num": 499805,
       "word": "合同允许梅西因伤不上场",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1707223592,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1374062,
-      "num": 1374062,
-      "word": "德国动物园杀一半狒狒喂其他动物",
-      "onboard_time": 1707626011,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1373328,
@@ -4107,6 +4107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 803889,
+      "num": 803889,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803318,
       "num": 803318,
       "word": "山花",
@@ -4641,6 +4649,14 @@
       "onboard_time": 1707149068,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 740268,
+      "num": 740268,
+      "word": "星汉灿烂",
+      "onboard_time": 1707628653,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 740190,
@@ -7027,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523431,
+      "num": 523431,
+      "word": "四舍五入坐白敬亭副驾了",
+      "onboard_time": 1707627992,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523256,
       "num": 523256,
       "word": "脱口秀大会第六季大王",
@@ -7376,6 +7400,14 @@
       "word": "春晚导演模仿小尼内心戏",
       "onboard_time": 1707525216,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 500505,
+      "num": 410666,
+      "word": "魏晨督促白敬亭魏大勋排练",
+      "onboard_time": 1707626850,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -7881,6 +7913,14 @@
       "onboard_time": 1706799215,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469689,
+      "num": 242615,
+      "word": "男孩不愿给后妈拜年被亲爸打破头",
+      "onboard_time": 1707627872,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469591,
@@ -8859,14 +8899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410666,
-      "num": 410666,
-      "word": "魏晨督促白敬亭魏大勋排练",
-      "onboard_time": 1707626850,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409908,
       "num": 409908,
       "word": "高铁晚点",
@@ -9467,14 +9499,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 385050,
-      "num": 385050,
-      "word": "尼格买提下次春晚演小品吧",
-      "onboard_time": 1707624689,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383397,
       "num": 383397,
       "word": "马斯克宣布更改特斯拉注册地",
@@ -9841,6 +9865,14 @@
       "onboard_time": 1707473254,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 366239,
+      "num": 294512,
+      "word": "迪丽热巴给工作人员发的红包",
+      "onboard_time": 1707629130,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 366187,
@@ -11897,14 +11929,6 @@
       "onboard_time": 1707368310,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 293352,
-      "num": 233877,
-      "word": "四舍五入坐白敬亭副驾了",
-      "onboard_time": 1707627992,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 293331,
@@ -14027,6 +14051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 244417,
+      "num": 244417,
+      "word": "各省春晚收视率",
+      "onboard_time": 1707627391,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244260,
       "num": 244260,
       "word": "川渝春晚",
@@ -14835,6 +14867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230403,
+      "num": 230403,
+      "word": "大侦探9首案概念海报",
+      "onboard_time": 1707629071,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230268,
       "num": 191814,
       "word": "你们给秦海璐留点面子吧",
@@ -14897,14 +14937,6 @@
       "onboard_time": 1707551793,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 228741,
-      "num": 228741,
-      "word": "各省春晚收视率",
-      "onboard_time": 1707627391,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 228600,
@@ -15041,14 +15073,6 @@
       "onboard_time": 1706927607,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226283,
-      "num": 226283,
-      "word": "男孩不愿给后妈拜年被亲爸打破头",
-      "onboard_time": 1707627872,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226192,
@@ -16593,6 +16617,14 @@
       "onboard_time": 1707287131,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206416,
+      "num": 178641,
+      "word": "当我终于送走了所有亲戚",
+      "onboard_time": 1707627872,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 206400,
@@ -21067,6 +21099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165519,
+      "num": 165519,
+      "word": "非遗里的中国",
+      "onboard_time": 1707629491,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165344,
       "num": 165344,
       "word": "以闪亮之名捏脸更新",
@@ -21169,6 +21209,14 @@
       "onboard_time": 1707214410,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164569,
+      "num": 164569,
+      "word": "巴黎球员身穿中文印字球衣",
+      "onboard_time": 1707628653,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 164556,
@@ -21457,14 +21505,6 @@
       "onboard_time": 1707108994,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161391,
-      "num": 161391,
-      "word": "当我终于送走了所有亲戚",
-      "onboard_time": 1707627872,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 161374,
@@ -23387,6 +23427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143131,
+      "num": 143131,
+      "word": "女儿在委屈诉苦",
+      "onboard_time": 1707629312,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142947,
       "num": 142947,
       "word": "伴侣不成熟的表现",
@@ -25201,6 +25249,14 @@
       "onboard_time": 1707111990,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128717,
+      "num": 128717,
+      "word": "看我们一起摇太阳在哭什么",
+      "onboard_time": 1707628413,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 128612,
@@ -28233,14 +28289,6 @@
       "onboard_time": 1707296312,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86619,
-      "num": 86619,
-      "word": "看我们一起摇太阳在哭什么",
-      "onboard_time": 1707628413,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 86495,

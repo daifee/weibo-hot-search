@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707628533431,
+  "endTime": 1707629637512,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1374062,
-      "num": 1374062,
+      "raw_hot": 1496068,
+      "num": 1496068,
       "word": "德国动物园杀一半狒狒喂其他动物",
       "onboard_time": 1707626011,
       "rank": 48,
@@ -171,12 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 803889,
+      "num": 803889,
+      "word": "尼格买提下次春晚演小品吧",
+      "onboard_time": 1707624689,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758832,
       "num": 758832,
       "word": "魏晨回应杨紫给他投票",
       "onboard_time": 1707619769,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 740268,
+      "num": 740268,
+      "word": "星汉灿烂",
+      "onboard_time": 1707628653,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 728359,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523431,
+      "num": 523431,
+      "word": "四舍五入坐白敬亭副驾了",
+      "onboard_time": 1707627992,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515361,
       "num": 515361,
       "word": "肖战站C位果然是马丽雷佳音商量好的",
@@ -281,6 +305,14 @@
       "onboard_time": 1707574726,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500505,
+      "num": 410666,
+      "word": "魏晨督促白敬亭魏大勋排练",
+      "onboard_time": 1707626850,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 497039,
@@ -305,6 +337,14 @@
       "onboard_time": 1707620852,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 469689,
+      "num": 242615,
+      "word": "男孩不愿给后妈拜年被亲爸打破头",
+      "onboard_time": 1707627872,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461823,
@@ -363,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 410666,
-      "num": 410666,
-      "word": "魏晨督促白敬亭魏大勋排练",
-      "onboard_time": 1707626850,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
@@ -379,11 +411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385050,
-      "num": 385050,
-      "word": "尼格买提下次春晚演小品吧",
-      "onboard_time": 1707624689,
-      "rank": 34,
+      "raw_hot": 366239,
+      "num": 294512,
+      "word": "迪丽热巴给工作人员发的红包",
+      "onboard_time": 1707629130,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -475,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293352,
-      "num": 233877,
-      "word": "四舍五入坐白敬亭副驾了",
-      "onboard_time": 1707627992,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
@@ -555,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244417,
+      "num": 244417,
+      "word": "各省春晚收视率",
+      "onboard_time": 1707627391,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240686,
       "num": 240686,
       "word": "肖战指导工作室设计龙年logo",
@@ -603,20 +635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228741,
-      "num": 228741,
-      "word": "各省春晚收视率",
-      "onboard_time": 1707627391,
+      "raw_hot": 230403,
+      "num": 230403,
+      "word": "大侦探9首案概念海报",
+      "onboard_time": 1707629071,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226283,
-      "num": 226283,
-      "word": "男孩不愿给后妈拜年被亲爸打破头",
-      "onboard_time": 1707627872,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225212,
@@ -705,6 +729,14 @@
       "onboard_time": 1707580772,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206416,
+      "num": 178641,
+      "word": "当我终于送走了所有亲戚",
+      "onboard_time": 1707627872,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 206245,
@@ -843,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165519,
+      "num": 165519,
+      "word": "非遗里的中国",
+      "onboard_time": 1707629491,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164982,
       "num": 164982,
       "word": "沈腾 巴音布鲁克之王",
@@ -851,12 +891,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161391,
-      "num": 161391,
-      "word": "当我终于送走了所有亲戚",
-      "onboard_time": 1707627872,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 164569,
+      "num": 164569,
+      "word": "巴黎球员身穿中文印字球衣",
+      "onboard_time": 1707628653,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 159405,
@@ -913,6 +953,14 @@
       "onboard_time": 1707569801,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143131,
+      "num": 143131,
+      "word": "女儿在委屈诉苦",
+      "onboard_time": 1707629312,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 141997,
@@ -985,6 +1033,14 @@
       "onboard_time": 1707626129,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128717,
+      "num": 128717,
+      "word": "看我们一起摇太阳在哭什么",
+      "onboard_time": 1707628413,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 128117,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1707564577,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86619,
-      "num": 86619,
-      "word": "看我们一起摇太阳在哭什么",
-      "onboard_time": 1707628413,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 85972,
