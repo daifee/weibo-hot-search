@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707693449475,
+  "endTime": 1707694454245,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -707,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 482280,
+      "num": 482280,
+      "word": "大年初三睡到饱",
+      "onboard_time": 1707693079,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480723,
       "num": 335456,
       "word": "妈妈也算是生儿育女了",
@@ -995,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322789,
+      "num": 322789,
+      "word": "大年初三",
+      "onboard_time": 1707693260,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322196,
       "num": 322196,
       "word": "给的压岁钱快赶上1个月工资",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1707653672,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300254,
+      "num": 134203,
+      "word": "全村小孩挨家挨户拜年大人封2元利是",
+      "onboard_time": 1707685217,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299591,
@@ -1187,14 +1211,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 254042,
-      "num": 90281,
-      "word": "全村小孩挨家挨户拜年大人封2元利是",
-      "onboard_time": 1707685217,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253492,
       "num": 253492,
       "word": "春节吃剩的隔夜菜怎么办",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1707581611,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247780,
+      "num": 247780,
+      "word": "潘展乐打破世界纪录",
+      "onboard_time": 1707693321,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 246376,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1707650972,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 235215,
+      "num": 235215,
+      "word": "贾玲称过去一年不快乐但值得",
+      "onboard_time": 1707672442,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 234389,
@@ -1705,14 +1737,6 @@
       "onboard_time": 1707627511,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190207,
-      "num": 190207,
-      "word": "贾玲称过去一年不快乐但值得",
-      "onboard_time": 1707672442,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 188590,
@@ -2443,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122411,
-      "num": 90091,
-      "word": "大年初三睡到饱",
-      "onboard_time": 1707693079,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121689,
       "num": 121689,
       "word": "央视专访毛不易",
@@ -2539,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113765,
+      "num": 113765,
+      "word": "重庆大雨全家福被改编成小品登上春晚",
+      "onboard_time": 1707682037,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112658,
       "num": 112658,
       "word": "热辣滚烫票房破6亿",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1707648691,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103590,
+      "num": 103590,
+      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+      "onboard_time": 1707680417,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 101229,
@@ -2699,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89872,
-      "num": 89872,
-      "word": "大年初三",
-      "onboard_time": 1707693260,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 89654,
       "num": 89654,
       "word": "如何评价马宁决赛判罚",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1707572259,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85544,
-      "num": 85544,
-      "word": "重庆大雨全家福被改编成小品登上春晚",
-      "onboard_time": 1707682037,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 82676,
@@ -2795,20 +2811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78006,
-      "num": 78006,
-      "word": "潘展乐打破世界纪录",
-      "onboard_time": 1707693321,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 76297,
-      "num": 76297,
-      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
-      "onboard_time": 1707680417,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 72876,
+      "num": 72876,
+      "word": "女子看完热辣滚烫全家减肥总动员",
+      "onboard_time": 1707689356,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 72526,
@@ -2824,14 +2832,6 @@
       "word": "范丞丞主演电影票房破20亿",
       "onboard_time": 1707673101,
       "rank": 21,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 66967,
-      "num": 66967,
-      "word": "女子看完热辣滚烫全家减肥总动员",
-      "onboard_time": 1707689356,
-      "rank": 48,
       "category": "电影"
     },
     {
@@ -2857,6 +2857,14 @@
       "onboard_time": 1707571661,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54507,
+      "num": 54507,
+      "word": "苏有朋用杜飞语气离谱拜年",
+      "onboard_time": 1707691338,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51344,
@@ -2899,12 +2907,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43625,
-      "num": 43625,
-      "word": "苏有朋用杜飞语气离谱拜年",
-      "onboard_time": 1707691338,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 40843,
+      "num": 40843,
+      "word": "林亦扬殷果第一次吵架",
+      "onboard_time": 1707678137,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 40793,
@@ -2947,14 +2955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33509,
-      "num": 33509,
-      "word": "林亦扬殷果第一次吵架",
-      "onboard_time": 1707678137,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32601,
       "num": 32601,
       "word": "陆毅 姐俩给大家表演才艺",
@@ -2977,6 +2977,14 @@
       "onboard_time": 1707554498,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25710,
+      "num": 33217,
+      "word": "西汉姆联0比6阿森纳",
+      "onboard_time": 1707694399,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 22017,

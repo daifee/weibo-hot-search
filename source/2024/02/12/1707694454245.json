@@ -1,0 +1,410 @@
+{
+  "runTime": 1707694454245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520248,
+        "num": 520248,
+        "word": "爸爸去哪儿阿拉蕾长大了",
+        "onboard_time": 1707666453,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482280,
+        "num": 482280,
+        "word": "大年初三睡到饱",
+        "onboard_time": 1707693079,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6842,
+        "num": 385978,
+        "word": "全球同庆中国年",
+        "onboard_time": 1707621812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357379,
+        "num": 357379,
+        "word": "眼看从3000元涨到了8000元",
+        "onboard_time": 1707633573,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322789,
+        "num": 322789,
+        "word": "大年初三",
+        "onboard_time": 1707693260,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247780,
+        "num": 247780,
+        "word": "潘展乐打破世界纪录",
+        "onboard_time": 1707693321,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235215,
+        "num": 235215,
+        "word": "贾玲称过去一年不快乐但值得",
+        "onboard_time": 1707672442,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167172,
+        "num": 167172,
+        "word": "李庚希回应摇太阳排片少",
+        "onboard_time": 1707661831,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151070,
+        "num": 151070,
+        "word": "这是李焕英的女儿",
+        "onboard_time": 1707637773,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145087,
+        "num": 145087,
+        "word": "于适被韩寒从彩蛋剪进正片",
+        "onboard_time": 1707668009,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365040,
+        "num": 141519,
+        "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
+        "onboard_time": 1707668070,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 346003,
+        "num": 137226,
+        "word": "泰国偶遇奚梦瑶和婆婆逛街",
+        "onboard_time": 1707665493,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300254,
+        "num": 134203,
+        "word": "全村小孩挨家挨户拜年大人封2元利是",
+        "onboard_time": 1707685217,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274976,
+        "num": 129731,
+        "word": "张一山随地扔烟头",
+        "onboard_time": 1707664114,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195518,
+        "num": 125242,
+        "word": "贾玲和杨迪聊天五小时菜一口没动",
+        "onboard_time": 1707643772,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121177,
+        "num": 121177,
+        "word": "杨紫 终于让我逮着机会演坏人了",
+        "onboard_time": 1707659136,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114600,
+        "num": 114600,
+        "word": "关之琳61岁状态",
+        "onboard_time": 1707668130,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113765,
+        "num": 113765,
+        "word": "重庆大雨全家福被改编成小品登上春晚",
+        "onboard_time": 1707682037,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103590,
+        "num": 103590,
+        "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+        "onboard_time": 1707680417,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92245,
+        "num": 92245,
+        "word": "三大球目前仅中国女篮获奥运资格",
+        "onboard_time": 1707660033,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149246,
+        "num": 90141,
+        "word": "嫂子治好了一家子的眼疾",
+        "onboard_time": 1707642092,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128531,
+        "num": 90099,
+        "word": "单独饲养的魔鬼鱼莫名怀孕",
+        "onboard_time": 1707663635,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83646,
+        "num": 83646,
+        "word": "把姐姐爆改成甜妹",
+        "onboard_time": 1707667051,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 77712,
+        "num": 77712,
+        "word": "贾玲兑现了30亿票房承诺",
+        "onboard_time": 1707629791,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75227,
+        "num": 75227,
+        "word": "沈腾说刘昊然飞驰2瘦得心疼",
+        "onboard_time": 1707665433,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72876,
+        "num": 72876,
+        "word": "女子看完热辣滚烫全家减肥总动员",
+        "onboard_time": 1707689356,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70483,
+        "num": 70483,
+        "word": "嗑瓜子上火是因为直接用嘴嗑",
+        "onboard_time": 1707664831,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70444,
+        "num": 70444,
+        "word": "各个器官疾病引起疼痛的大致范围",
+        "onboard_time": 1707666453,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65217,
+        "num": 65217,
+        "word": "送你一朵小红花导演回应",
+        "onboard_time": 1707654092,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60481,
+        "num": 60481,
+        "word": "范丞丞想演马丽老公被沈腾掐脖",
+        "onboard_time": 1707653489,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59530,
+        "num": 59530,
+        "word": "吴磊你就宠赵今麦吧",
+        "onboard_time": 1707668907,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58521,
+        "num": 58521,
+        "word": "大年初二全家最高礼仪迎接女婿",
+        "onboard_time": 1707660214,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55624,
+        "num": 55624,
+        "word": "已婚独生女不想回婆家过年",
+        "onboard_time": 1707633692,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54507,
+        "num": 54507,
+        "word": "苏有朋用杜飞语气离谱拜年",
+        "onboard_time": 1707691338,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57500,
+        "num": 54476,
+        "word": "范丞丞主演电影票房破20亿",
+        "onboard_time": 1707673101,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53932,
+        "num": 53932,
+        "word": "老人门前空地被儿女归来的车填满",
+        "onboard_time": 1707667950,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52488,
+        "num": 52488,
+        "word": "杨幂礼服下面穿秋裤",
+        "onboard_time": 1707654092,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51137,
+        "num": 51137,
+        "word": "尼日利亚金融大佬一家三口坠机身亡",
+        "onboard_time": 1707653372,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49143,
+        "num": 49143,
+        "word": "贾玲拍露腹肌戏份脱了8斤水",
+        "onboard_time": 1707652593,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48851,
+        "num": 48851,
+        "word": "热辣滚烫单日票房冠军",
+        "onboard_time": 1707662614,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44215,
+        "num": 44215,
+        "word": "姜妍好甜",
+        "onboard_time": 1707656493,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40843,
+        "num": 40843,
+        "word": "林亦扬殷果第一次吵架",
+        "onboard_time": 1707678137,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40634,
+        "num": 40634,
+        "word": "徐冬冬cos华妃",
+        "onboard_time": 1707671001,
+        "rank": 42,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 40583,
+        "num": 40583,
+        "word": "刘宇宁收到赵露思送的生日蛋糕",
+        "onboard_time": 1707660154,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37442,
+        "num": 37442,
+        "word": "池昌旭方为室内吸烟道歉",
+        "onboard_time": 1707665912,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37233,
+        "num": 37233,
+        "word": "贾玲四秒转场",
+        "onboard_time": 1707688456,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35995,
+        "num": 35995,
+        "word": "游客到西安一出站就被巨型花灯震撼",
+        "onboard_time": 1707664413,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35412,
+        "num": 35412,
+        "word": "经常喝碳酸饮料会影响消化功能",
+        "onboard_time": 1707658172,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33218,
+        "num": 33218,
+        "word": "沈梦辰带杜海涛回老家过年",
+        "onboard_time": 1707648753,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25710,
+        "num": 33217,
+        "word": "西汉姆联0比6阿森纳",
+        "onboard_time": 1707694399,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}
