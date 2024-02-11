@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707640445385,
+  "endTime": 1707642930421,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -64,6 +64,14 @@
       "word": "德国动物园杀一半狒狒喂其他动物",
       "onboard_time": 1707626011,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1383323,
+      "num": 1383323,
+      "word": "已婚独生女不想回婆家过年",
+      "onboard_time": 1707633692,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -139,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1144562,
+      "num": 1144562,
+      "word": "沈腾马丽 偷偷藏不住",
+      "onboard_time": 1707640891,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1119862,
       "num": 1119862,
       "word": "大年初一醒来就被膈应了",
@@ -209,14 +225,6 @@
       "onboard_time": 1707624930,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 904381,
-      "num": 904381,
-      "word": "已婚独生女不想回婆家过年",
-      "onboard_time": 1707633692,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803889,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422955,
+      "num": 175641,
+      "word": "嫂子治好了一家子的眼疾",
+      "onboard_time": 1707642092,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420925,
       "num": 420925,
       "word": "这俩梨涡我都不敢认了",
@@ -513,6 +529,14 @@
       "onboard_time": 1707630812,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411021,
+      "num": 235636,
+      "word": "原来这种家庭并不小众",
+      "onboard_time": 1707641492,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 402418,
@@ -531,12 +555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384222,
+      "num": 234969,
+      "word": "乳糖不耐受的典型症状",
+      "onboard_time": 1707642151,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 377688,
       "num": 377688,
       "word": "Jasper拜年照",
       "onboard_time": 1707634833,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371878,
+      "num": 234577,
+      "word": "贾玲谈及赵英俊",
+      "onboard_time": 1707642812,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 364015,
@@ -883,6 +923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 218012,
+      "num": 218012,
+      "word": "飞驰人生2比1升级了哪些",
+      "onboard_time": 1707637471,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214678,
       "num": 214678,
       "word": "热辣滚烫上映",
@@ -1083,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184662,
+      "num": 184662,
+      "word": "西安要被南京小孩哥夸脸红了",
+      "onboard_time": 1707641013,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182715,
       "num": 182715,
       "word": "蔡依林 熊猫站姐",
@@ -1131,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175496,
+      "num": 175496,
+      "word": "原神海维",
+      "onboard_time": 1707640712,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 174884,
       "num": 174884,
       "word": "为何越来越多年轻人断亲了",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1707632371,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168329,
+      "num": 168329,
+      "word": "本以为是巴黎圣母院",
+      "onboard_time": 1707641793,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 167314,
@@ -1211,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159113,
-      "num": 159113,
-      "word": "飞驰人生2比1升级了哪些",
-      "onboard_time": 1707637471,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157544,
       "num": 157544,
       "word": "肖战希望好好工作和多陪家人",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1707639271,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153495,
+      "num": 153495,
+      "word": "刘谦春晚 华丽的数学秀",
+      "onboard_time": 1707640532,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152050,
@@ -1387,6 +1459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138307,
+      "num": 138307,
+      "word": "马丽说循环播放魏大勋的歌",
+      "onboard_time": 1707641070,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136129,
+      "num": 136129,
+      "word": "寺庙里最虔诚的猫咪",
+      "onboard_time": 1707641252,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134302,
+      "num": 134302,
+      "word": "最不像春节档的电影",
+      "onboard_time": 1707642572,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133793,
       "num": 133793,
       "word": "真正的闺蜜站队毫不犹豫",
@@ -1465,6 +1561,14 @@
       "onboard_time": 1707631772,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121232,
+      "num": 121232,
+      "word": "迪拜地标建筑上空惊现中国飞龙",
+      "onboard_time": 1707640831,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 120959,
@@ -1587,6 +1691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100379,
+      "num": 121410,
+      "word": "被堵在去丈母娘家路上只能吃泡面",
+      "onboard_time": 1707642752,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98523,
       "num": 98523,
       "word": "刘宇宁说春晚后台很欢乐",
@@ -1683,11 +1795,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80878,
+      "num": 235323,
+      "word": "阿云嘎鲁班大师机械臂",
+      "onboard_time": 1707640233,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80131,
       "num": 2180603,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79041,
+      "num": 176456,
+      "word": "一场年夜饭分几次吃完是什么体验",
+      "onboard_time": 1707640772,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1713,14 +1841,6 @@
       "onboard_time": 1707571661,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53149,
-      "num": 139497,
-      "word": "阿云嘎鲁班大师机械臂",
-      "onboard_time": 1707640233,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 48950,
