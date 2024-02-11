@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707680024625,
+  "endTime": 1707682647189,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -30539,6 +30539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59925,
+      "num": 26036,
+      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+      "onboard_time": 1707680417,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59354,
       "num": 59354,
       "word": "金莎因为一个MV镜头被海蝶老板看中",
@@ -32049,6 +32057,14 @@
       "onboard_time": 1706932589,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16834,
+      "num": 19935,
+      "word": "我上春山约你来见",
+      "onboard_time": 1707680058,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 16757,

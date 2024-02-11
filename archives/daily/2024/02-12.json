@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707680024625,
+  "endTime": 1707682647189,
   "band_list": [
     {
       "raw_hot": 1701908,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59925,
+      "num": 26036,
+      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+      "onboard_time": 1707680417,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51344,
       "num": 85176,
       "word": "西汉姆联vs阿森纳",
@@ -465,6 +473,14 @@
       "onboard_time": 1707678137,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16834,
+      "num": 19935,
+      "word": "我上春山约你来见",
+      "onboard_time": 1707680058,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 16428,

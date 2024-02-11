@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707680024625,
+  "endTime": 1707682647189,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59925,
+      "num": 26036,
+      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+      "onboard_time": 1707680417,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57394,
       "num": 180959,
       "word": "中国女篮获巴黎奥运参赛资格",
@@ -2961,6 +2969,14 @@
       "onboard_time": 1707624033,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 16834,
+      "num": 19935,
+      "word": "我上春山约你来见",
+      "onboard_time": 1707680058,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 16428,
