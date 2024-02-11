@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707642930421,
+  "endTime": 1707644031195,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1383323,
-      "num": 1383323,
+      "raw_hot": 1399880,
+      "num": 1399880,
       "word": "已婚独生女不想回婆家过年",
       "onboard_time": 1707633692,
       "rank": 21,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 942602,
+      "num": 467470,
+      "word": "嫂子治好了一家子的眼疾",
+      "onboard_time": 1707642092,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 921037,
       "num": 921037,
       "word": "初二开始走亲戚的你",
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676277,
+      "num": 676277,
+      "word": "乳糖不耐受的典型症状",
+      "onboard_time": 1707642151,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 671051,
       "num": 671051,
       "word": "丁程鑫微信好友第六位是王源",
@@ -305,6 +321,14 @@
       "onboard_time": 1707616827,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 638105,
+      "num": 357637,
+      "word": "贾玲谈及赵英俊",
+      "onboard_time": 1707642812,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 624418,
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545700,
+      "num": 149205,
+      "word": "贾玲和杨迪聊天五小时菜一口没动",
+      "onboard_time": 1707643772,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 523431,
       "num": 523431,
       "word": "四舍五入坐白敬亭副驾了",
@@ -425,6 +457,14 @@
       "onboard_time": 1707606919,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488443,
+      "num": 488443,
+      "word": "原来这种家庭并不小众",
+      "onboard_time": 1707641492,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 480723,
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422955,
-      "num": 175641,
-      "word": "嫂子治好了一家子的眼疾",
-      "onboard_time": 1707642092,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 420925,
       "num": 420925,
       "word": "这俩梨涡我都不敢认了",
@@ -529,14 +561,6 @@
       "onboard_time": 1707630812,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411021,
-      "num": 235636,
-      "word": "原来这种家庭并不小众",
-      "onboard_time": 1707641492,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 402418,
@@ -555,28 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 384222,
-      "num": 234969,
-      "word": "乳糖不耐受的典型症状",
-      "onboard_time": 1707642151,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 377688,
       "num": 377688,
       "word": "Jasper拜年照",
       "onboard_time": 1707634833,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371878,
-      "num": 234577,
-      "word": "贾玲谈及赵英俊",
-      "onboard_time": 1707642812,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 364015,
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236434,
+      "num": 148478,
+      "word": "装孕妇整了点炮的熊孩子家",
+      "onboard_time": 1707643290,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235772,
       "num": 235772,
       "word": "北大学子揭秘刘谦魔术",
@@ -1035,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198017,
+      "num": 198017,
+      "word": "西安要被南京小孩哥夸脸红了",
+      "onboard_time": 1707641013,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "易烊千玺弹贝斯vlog",
@@ -1131,14 +1155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184662,
-      "num": 184662,
-      "word": "西安要被南京小孩哥夸脸红了",
-      "onboard_time": 1707641013,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182715,
       "num": 182715,
       "word": "蔡依林 熊猫站姐",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1707633150,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173478,
+      "num": 148071,
+      "word": "被堵在去丈母娘家路上只能吃泡面",
+      "onboard_time": 1707642752,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172002,
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140370,
+      "num": 140370,
+      "word": "最不像春节档的电影",
+      "onboard_time": 1707642572,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140212,
       "num": 140212,
       "word": "王冰冰演小品摔了一跤",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1707641252,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134302,
-      "num": 134302,
-      "word": "最不像春节档的电影",
-      "onboard_time": 1707642572,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 133793,
@@ -1667,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103494,
+      "num": 103494,
+      "word": "北京将举行2029年世界游泳锦标赛",
+      "onboard_time": 1707643833,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101229,
       "num": 101229,
       "word": "wf2024冬",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1707632191,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100379,
-      "num": 121410,
-      "word": "被堵在去丈母娘家路上只能吃泡面",
-      "onboard_time": 1707642752,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98523,
@@ -1803,19 +1827,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80637,
+      "num": 176456,
+      "word": "一场年夜饭分几次吃完是什么体验",
+      "onboard_time": 1707640772,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80131,
       "num": 2180603,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79041,
-      "num": 176456,
-      "word": "一场年夜饭分几次吃完是什么体验",
-      "onboard_time": 1707640772,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
