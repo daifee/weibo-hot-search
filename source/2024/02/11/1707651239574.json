@@ -1,0 +1,410 @@
+{
+  "runTime": 1707651239574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1777725,
+        "num": 1777725,
+        "word": "这是李焕英的女儿",
+        "onboard_time": 1707637773,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1217112,
+        "num": 1217112,
+        "word": "贾玲和杨迪聊天五小时菜一口没动",
+        "onboard_time": 1707643772,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17670,
+        "num": 1134185,
+        "word": "锦绣中国年",
+        "onboard_time": 1707468450,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092395,
+        "num": 1092395,
+        "word": "沈梦辰带杜海涛回老家过年",
+        "onboard_time": 1707648753,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932742,
+        "num": 932742,
+        "word": "热辣滚烫暂列票房第一",
+        "onboard_time": 1707645032,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 650902,
+        "num": 650902,
+        "word": "刘诗诗送杨幂刮刮乐",
+        "onboard_time": 1707648753,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577190,
+        "num": 577190,
+        "word": "她不是变瘦了 她是变强了",
+        "onboard_time": 1707623910,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571697,
+        "num": 571697,
+        "word": "贾玲兑现了30亿票房承诺",
+        "onboard_time": 1707629791,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413057,
+        "num": 413057,
+        "word": "老祖宗的审美",
+        "onboard_time": 1707644370,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 316520,
+        "num": 412778,
+        "word": "西安要被南京小孩哥夸脸红了",
+        "onboard_time": 1707641013,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550270,
+        "num": 412665,
+        "word": "嫂子治好了一家子的眼疾",
+        "onboard_time": 1707642092,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512389,
+        "num": 412158,
+        "word": "贾玲说杨紫很仗义",
+        "onboard_time": 1707647012,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493350,
+        "num": 411808,
+        "word": "郑渊洁 白客加油生孩子",
+        "onboard_time": 1707646834,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472518,
+        "num": 411666,
+        "word": "过年 吵架",
+        "onboard_time": 1707624989,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469496,
+        "num": 411283,
+        "word": "翔霖",
+        "onboard_time": 1707649771,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468110,
+        "num": 410716,
+        "word": "贾玲在拳击台上是真的挨打",
+        "onboard_time": 1707626789,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448529,
+        "num": 410614,
+        "word": "已婚独生女不想回婆家过年",
+        "onboard_time": 1707633692,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410374,
+        "num": 410374,
+        "word": "贾玲张小斐你们在这争1呢",
+        "onboard_time": 1707649411,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369988,
+        "num": 369988,
+        "word": "是赵丽颖啊",
+        "onboard_time": 1707633091,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339501,
+        "num": 339501,
+        "word": "i人社交",
+        "onboard_time": 1707646469,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322196,
+        "num": 322196,
+        "word": "给的压岁钱快赶上1个月工资",
+        "onboard_time": 1707647974,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 316039,
+        "num": 316039,
+        "word": "眼看从3000元涨到了8000元",
+        "onboard_time": 1707633573,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292172,
+        "num": 292172,
+        "word": "乳糖不耐受的典型症状",
+        "onboard_time": 1707642151,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253492,
+        "num": 253492,
+        "word": "春节吃剩的隔夜菜怎么办",
+        "onboard_time": 1707647912,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242635,
+        "num": 242635,
+        "word": "原来有一种瘦是因为家里做饭太难吃",
+        "onboard_time": 1707648812,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239772,
+        "num": 239772,
+        "word": "原来这种家庭并不小众",
+        "onboard_time": 1707641492,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233121,
+        "num": 233121,
+        "word": "中国海警依法外逼驱离菲海警船",
+        "onboard_time": 1707649830,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218506,
+        "num": 218506,
+        "word": "马丽演技",
+        "onboard_time": 1707651032,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217596,
+        "num": 217596,
+        "word": "家里人把我的兔子杀了",
+        "onboard_time": 1707636330,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211630,
+        "num": 211630,
+        "word": "踩小人",
+        "onboard_time": 1707645391,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205116,
+        "num": 205116,
+        "word": "热辣滚烫",
+        "onboard_time": 1707639569,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187721,
+        "num": 187721,
+        "word": "赵本山近照",
+        "onboard_time": 1707635792,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184057,
+        "num": 184057,
+        "word": "春楠 沙漠明珠妆",
+        "onboard_time": 1707646410,
+        "rank": 32,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 181090,
+        "num": 181090,
+        "word": "装孕妇整了点炮的熊孩子家",
+        "onboard_time": 1707643290,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179727,
+        "num": 179727,
+        "word": "徐明浩最新Challenge",
+        "onboard_time": 1707649771,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178785,
+        "num": 178785,
+        "word": "在暴雪时分",
+        "onboard_time": 1707648511,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159540,
+        "num": 159540,
+        "word": "第二十条",
+        "onboard_time": 1707638011,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157687,
+        "num": 157687,
+        "word": "热辣滚烫 超越性别的人文关怀",
+        "onboard_time": 1707648569,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154712,
+        "num": 154712,
+        "word": "马丽光腿神器",
+        "onboard_time": 1707648992,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136699,
+        "num": 153569,
+        "word": "聚餐时桌子突然炸了全家人淡定举杯",
+        "onboard_time": 1707633091,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152951,
+        "num": 152951,
+        "word": "我最崇拜的人是我自己",
+        "onboard_time": 1707649593,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142277,
+        "num": 142277,
+        "word": "飞驰人生2 属于每个人的巴音布鲁克",
+        "onboard_time": 1707646289,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141086,
+        "num": 141086,
+        "word": "德国动物园杀一半狒狒喂其他动物",
+        "onboard_time": 1707626011,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136514,
+        "num": 136514,
+        "word": "中国女篮vs波多黎各女篮",
+        "onboard_time": 1707650972,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129422,
+        "num": 129422,
+        "word": "撒贝宁狗年春晚戴什么帽子",
+        "onboard_time": 1707645032,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128775,
+        "num": 128775,
+        "word": "6种人最易得肾结石",
+        "onboard_time": 1707650972,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123566,
+        "num": 123566,
+        "word": "弟弟妹妹都不放过",
+        "onboard_time": 1707650972,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121860,
+        "num": 121860,
+        "word": "一吃火锅就爆痘是咋回事",
+        "onboard_time": 1707644791,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116015,
+        "num": 116015,
+        "word": "你所感受到的冷淡并非错觉",
+        "onboard_time": 1707651032,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106376,
+        "num": 106376,
+        "word": "00后有自己的车载DJ",
+        "onboard_time": 1707648451,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}

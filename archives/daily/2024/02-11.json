@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707650051605,
+  "endTime": 1707651239574,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1092395,
+      "num": 1092395,
+      "word": "沈梦辰带杜海涛回老家过年",
+      "onboard_time": 1707648753,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1068368,
       "num": 1068368,
       "word": "爸爸素质不详遇强则强",
@@ -289,14 +297,6 @@
       "onboard_time": 1707617610,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 720096,
-      "num": 487666,
-      "word": "沈梦辰带杜海涛回老家过年",
-      "onboard_time": 1707648753,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 707710,
@@ -491,7 +491,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 491022,
+      "raw_hot": 493350,
       "num": 491022,
       "word": "郑渊洁 白客加油生孩子",
       "onboard_time": 1707646834,
@@ -537,6 +537,14 @@
       "onboard_time": 1707627872,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469496,
+      "num": 411283,
+      "word": "翔霖",
+      "onboard_time": 1707649771,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 461823,
@@ -609,6 +617,14 @@
       "onboard_time": 1707630812,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410374,
+      "num": 410374,
+      "word": "贾玲张小斐你们在这争1呢",
+      "onboard_time": 1707649411,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 402418,
@@ -723,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 329689,
-      "num": 329689,
-      "word": "贾玲张小斐你们在这争1呢",
-      "onboard_time": 1707649411,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 329532,
       "num": 329532,
       "word": "库里太牛了",
@@ -745,6 +753,14 @@
       "onboard_time": 1707552454,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322196,
+      "num": 322196,
+      "word": "给的压岁钱快赶上1个月工资",
+      "onboard_time": 1707647974,
+      "rank": 23,
+      "category": "社会议题"
     },
     {
       "raw_hot": 319127,
@@ -817,14 +833,6 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291275,
-      "num": 291275,
-      "word": "给的压岁钱快赶上1个月工资",
-      "onboard_time": 1707647974,
-      "rank": 23,
-      "category": "社会议题"
     },
     {
       "raw_hot": 285570,
@@ -907,20 +915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253492,
+      "num": 253492,
+      "word": "春节吃剩的隔夜菜怎么办",
+      "onboard_time": 1707647912,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 249189,
       "num": 249189,
       "word": "第二十条豆瓣开分8.0分",
       "onboard_time": 1707581611,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249133,
-      "num": 249133,
-      "word": "春节吃剩的隔夜菜怎么办",
-      "onboard_time": 1707647912,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 246376,
@@ -1003,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233121,
+      "num": 233121,
+      "word": "中国海警依法外逼驱离菲海警船",
+      "onboard_time": 1707649830,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230403,
       "num": 230403,
       "word": "大侦探9首案概念海报",
@@ -1067,20 +1083,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 218506,
+      "num": 218506,
+      "word": "马丽演技",
+      "onboard_time": 1707651032,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218012,
       "num": 218012,
       "word": "飞驰人生2比1升级了哪些",
       "onboard_time": 1707637471,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217354,
-      "num": 217354,
-      "word": "翔霖",
-      "onboard_time": 1707649771,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 214678,
@@ -1331,6 +1347,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179727,
+      "num": 179727,
+      "word": "徐明浩最新Challenge",
+      "onboard_time": 1707649771,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178785,
+      "num": 178785,
+      "word": "在暴雪时分",
+      "onboard_time": 1707648511,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178650,
       "num": 178650,
       "word": "红毯先生排片好少",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177326,
-      "num": 177326,
-      "word": "在暴雪时分",
-      "onboard_time": 1707648511,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 175611,
@@ -1507,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154712,
+      "num": 154712,
+      "word": "马丽光腿神器",
+      "onboard_time": 1707648992,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154442,
       "num": 154442,
       "word": "飞驰人生2现实但治愈",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1707640532,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152951,
+      "num": 152951,
+      "word": "我最崇拜的人是我自己",
+      "onboard_time": 1707649593,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 152050,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1707569801,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145221,
-      "num": 145221,
-      "word": "徐明浩最新Challenge",
-      "onboard_time": 1707649771,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 141997,
@@ -1699,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136514,
+      "num": 136514,
+      "word": "中国女篮vs波多黎各女篮",
+      "onboard_time": 1707650972,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "寺庙里最虔诚的猫咪",
@@ -1747,12 +1787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129285,
-      "num": 129285,
-      "word": "我最崇拜的人是我自己",
-      "onboard_time": 1707649593,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 128775,
+      "num": 128775,
+      "word": "6种人最易得肾结石",
+      "onboard_time": 1707650972,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128717,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1707634770,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123566,
+      "num": 123566,
+      "word": "弟弟妹妹都不放过",
+      "onboard_time": 1707650972,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 123155,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1707613290,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116015,
+      "num": 116015,
+      "word": "你所感受到的冷淡并非错觉",
+      "onboard_time": 1707651032,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 115532,
@@ -1969,14 +2025,6 @@
       "onboard_time": 1707632191,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100350,
-      "num": 100350,
-      "word": "中国海警依法外逼驱离菲海警船",
-      "onboard_time": 1707649830,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98523,

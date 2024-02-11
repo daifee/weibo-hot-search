@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707650051605,
+  "endTime": 1707651239574,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2747,6 +2747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1092395,
+      "num": 1092395,
+      "word": "沈梦辰带杜海涛回老家过年",
+      "onboard_time": 1707648753,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1092186,
       "num": 1092186,
       "word": "福建高速发生交通事故7人死亡",
@@ -4945,14 +4953,6 @@
       "onboard_time": 1707399693,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 720096,
-      "num": 487666,
-      "word": "沈梦辰带杜海涛回老家过年",
-      "onboard_time": 1707648753,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 719719,
@@ -7691,6 +7691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493350,
+      "num": 491022,
+      "word": "郑渊洁 白客加油生孩子",
+      "onboard_time": 1707646834,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493021,
       "num": 493021,
       "word": "日本球迷担心梅西不出场",
@@ -7721,14 +7729,6 @@
       "onboard_time": 1706790751,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491022,
-      "num": 491022,
-      "word": "郑渊洁 白客加油生孩子",
-      "onboard_time": 1707646834,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 490385,
@@ -9105,6 +9105,14 @@
       "onboard_time": 1706953106,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410374,
+      "num": 410374,
+      "word": "贾玲张小斐你们在这争1呢",
+      "onboard_time": 1707649411,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 409908,
@@ -10995,14 +11003,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 329689,
-      "num": 329689,
-      "word": "贾玲张小斐你们在这争1呢",
-      "onboard_time": 1707649411,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 329619,
       "num": 329619,
       "word": "吴磊赵今麦错位图",
@@ -11281,6 +11281,14 @@
       "onboard_time": 1707193353,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322196,
+      "num": 322196,
+      "word": "给的压岁钱快赶上1个月工资",
+      "onboard_time": 1707647974,
+      "rank": 23,
+      "category": "社会议题"
     },
     {
       "raw_hot": 321339,
@@ -12385,14 +12393,6 @@
       "onboard_time": 1706933970,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291275,
-      "num": 291275,
-      "word": "给的压岁钱快赶上1个月工资",
-      "onboard_time": 1707647974,
-      "rank": 23,
-      "category": "社会议题"
     },
     {
       "raw_hot": 290921,
@@ -13955,6 +13955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253492,
+      "num": 253492,
+      "word": "春节吃剩的隔夜菜怎么办",
+      "onboard_time": 1707647912,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253238,
       "num": 253238,
       "word": "龙年春节前海鲜销量暴涨400%",
@@ -14177,14 +14185,6 @@
       "onboard_time": 1707581611,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249133,
-      "num": 249133,
-      "word": "春节吃剩的隔夜菜怎么办",
-      "onboard_time": 1707647912,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 248483,
@@ -15057,6 +15057,14 @@
       "onboard_time": 1707325045,
       "rank": 29,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 233121,
+      "num": 233121,
+      "word": "中国海警依法外逼驱离菲海警船",
+      "onboard_time": 1707649830,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232862,
@@ -16065,6 +16073,14 @@
       "onboard_time": 1707627931,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 218506,
+      "num": 218506,
+      "word": "马丽演技",
+      "onboard_time": 1707651032,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 218375,
@@ -20003,6 +20019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179727,
+      "num": 179727,
+      "word": "徐明浩最新Challenge",
+      "onboard_time": 1707649771,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "灰太狼身世",
@@ -22691,6 +22715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154712,
+      "num": 154712,
+      "word": "马丽光腿神器",
+      "onboard_time": 1707648992,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154659,
       "num": 154659,
       "word": "在暴雪时分上星",
@@ -22921,6 +22953,14 @@
       "onboard_time": 1706881893,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152951,
+      "num": 152951,
+      "word": "我最崇拜的人是我自己",
+      "onboard_time": 1707649593,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 152941,
@@ -23793,14 +23833,6 @@
       "onboard_time": 1707213211,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145221,
-      "num": 145221,
-      "word": "徐明浩最新Challenge",
-      "onboard_time": 1707649771,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 145209,
@@ -24915,6 +24947,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 136514,
+      "num": 136514,
+      "word": "中国女篮vs波多黎各女篮",
+      "onboard_time": 1707650972,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136386,
       "num": 136386,
       "word": "宋轶花房公主妆",
@@ -25899,14 +25939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129285,
-      "num": 129285,
-      "word": "我最崇拜的人是我自己",
-      "onboard_time": 1707649593,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129240,
       "num": 129240,
       "word": "65岁以上老人每3位就有1位患有耳聋",
@@ -25937,6 +25969,14 @@
       "onboard_time": 1707111990,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128775,
+      "num": 128775,
+      "word": "6种人最易得肾结石",
+      "onboard_time": 1707650972,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128717,
@@ -26561,6 +26601,14 @@
       "onboard_time": 1707010649,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 123566,
+      "num": 123566,
+      "word": "弟弟妹妹都不放过",
+      "onboard_time": 1707650972,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 123511,
@@ -27368,6 +27416,14 @@
       "word": "龙年祝福",
       "onboard_time": 1707441087,
       "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 116015,
+      "num": 116015,
+      "word": "你所感受到的冷淡并非错觉",
+      "onboard_time": 1707651032,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -28505,14 +28561,6 @@
       "onboard_time": 1707378272,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100350,
-      "num": 100350,
-      "word": "中国海警依法外逼驱离菲海警船",
-      "onboard_time": 1707649830,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100117,
