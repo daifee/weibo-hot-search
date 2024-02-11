@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707636836705,
+  "endTime": 1707639606897,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1392,6 +1392,14 @@
       "word": "张小斐主演电影票房破70亿",
       "onboard_time": 1707572380,
       "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1632440,
+      "num": 1632440,
+      "word": "这是李焕英的女儿",
+      "onboard_time": 1707637773,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -3265,6 +3273,14 @@
       "onboard_time": 1707398914,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 951190,
+      "num": 951190,
+      "word": "赵本山近照",
+      "onboard_time": 1707635792,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 949146,
@@ -6307,6 +6323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 580117,
+      "num": 580117,
+      "word": "已婚独生女不想回婆家过年",
+      "onboard_time": 1707633692,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579021,
       "num": 579021,
       "word": "重庆漫展小孩",
@@ -6409,14 +6433,6 @@
       "onboard_time": 1707100769,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572138,
-      "num": 384816,
-      "word": "赵本山近照",
-      "onboard_time": 1707635792,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 572082,
@@ -7105,14 +7121,6 @@
       "onboard_time": 1707390453,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524422,
-      "num": 290975,
-      "word": "已婚独生女不想回婆家过年",
-      "onboard_time": 1707633692,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 523431,
@@ -7907,6 +7915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476474,
+      "num": 476474,
+      "word": "杨迪 我好骄傲这是我朋友拍出的电影",
+      "onboard_time": 1707633811,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 475305,
       "num": 475305,
       "word": "曾舜晞发烧了",
@@ -8515,14 +8531,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 435444,
-      "num": 386304,
-      "word": "杨迪 我好骄傲这是我朋友拍出的电影",
-      "onboard_time": 1707633811,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 435144,
       "num": 435144,
       "word": "赵昭仪要夸自己绝对不带删的",
@@ -9121,6 +9129,14 @@
       "onboard_time": 1707569319,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402989,
+      "num": 241054,
+      "word": "家里人把我的兔子杀了",
+      "onboard_time": 1707636330,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 402972,
@@ -9731,6 +9747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377688,
+      "num": 377688,
+      "word": "Jasper拜年照",
+      "onboard_time": 1707634833,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377463,
       "num": 377463,
       "word": "你没减抑郁吧",
@@ -10241,14 +10265,6 @@
       "onboard_time": 1706946088,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 357070,
-      "num": 357070,
-      "word": "Jasper拜年照",
-      "onboard_time": 1707634833,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 357015,
@@ -15075,14 +15091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229042,
-      "num": 229042,
-      "word": "家里人把我的兔子杀了",
-      "onboard_time": 1707636330,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228919,
       "num": 252987,
       "word": "染发烫发直发哪个更伤身",
@@ -15465,6 +15473,14 @@
       "onboard_time": 1706836289,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 223438,
+      "num": 223438,
+      "word": "张杰想把演唱会搬进影院",
+      "onboard_time": 1707638910,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223338,
@@ -16305,6 +16321,14 @@
       "onboard_time": 1707056674,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211846,
+      "num": 211846,
+      "word": "贾玲不觉得自己幽默是因为胖",
+      "onboard_time": 1707637953,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 211641,
@@ -19227,6 +19251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185901,
+      "num": 185901,
+      "word": "今年过年直接掀桌了",
+      "onboard_time": 1707637891,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185614,
       "num": 185614,
       "word": "WBG春季赛首败",
@@ -19451,6 +19483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183501,
+      "num": 183501,
+      "word": "魔卡少女樱 小樱知世手办",
+      "onboard_time": 1707636273,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183498,
       "num": 183498,
       "word": "美人鱼 卷头发",
@@ -19585,6 +19625,14 @@
       "onboard_time": 1707470671,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 181459,
+      "num": 179774,
+      "word": "胡歌陈龙看望游本昌",
+      "onboard_time": 1707639090,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 181350,
@@ -19921,6 +19969,22 @@
       "onboard_time": 1707471692,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177977,
+      "num": 177977,
+      "word": "普通人变优秀最直接的方法",
+      "onboard_time": 1707638248,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177834,
+      "num": 177834,
+      "word": "电子红包渐渐替代传统红包",
+      "onboard_time": 1707637711,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 177832,
@@ -21891,14 +21955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159637,
-      "num": 159637,
-      "word": "魔卡少女樱 小樱知世手办",
-      "onboard_time": 1707636273,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 159448,
       "num": 1766652,
       "word": "春节假期安全提示来了",
@@ -22211,6 +22267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156563,
+      "num": 156563,
+      "word": "内娱九龙",
+      "onboard_time": 1707638668,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156398,
       "num": 156398,
       "word": "吴磊的超大杯美式",
@@ -22417,6 +22481,14 @@
       "onboard_time": 1707112414,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154442,
+      "num": 154442,
+      "word": "飞驰人生2现实但治愈",
+      "onboard_time": 1707639271,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 154166,
@@ -22627,6 +22699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152617,
+      "num": 143228,
+      "word": "飞驰人生2比1升级了哪些",
+      "onboard_time": 1707637471,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152423,
       "num": 152423,
       "word": "我家公子会插秧了",
@@ -22657,6 +22737,14 @@
       "onboard_time": 1706796274,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152050,
+      "num": 141090,
+      "word": "我努力过无数次 机会只在一两次",
+      "onboard_time": 1707637111,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 151793,
@@ -24771,6 +24859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134610,
+      "num": 158309,
+      "word": "女孩不回家过年立省一万",
+      "onboard_time": 1707636690,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134452,
       "num": 134452,
       "word": "女神异闻录3reload上线",
@@ -24905,6 +25001,14 @@
       "onboard_time": 1707275249,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133399,
+      "num": 133399,
+      "word": "毛不易谈年轻人就业迷茫现状",
+      "onboard_time": 1707637531,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 133284,
@@ -26955,6 +27059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115532,
+      "num": 115532,
+      "word": "杜兰特说库里是历史最强控卫",
+      "onboard_time": 1707638373,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115474,
       "num": 115474,
       "word": "LGD对战RW",
@@ -27089,14 +27201,6 @@
       "onboard_time": 1706967871,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113688,
-      "num": 113688,
-      "word": "女孩不回家过年立省一万",
-      "onboard_time": 1707636690,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113678,
