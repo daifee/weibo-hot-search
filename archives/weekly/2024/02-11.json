@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707744035014,
+  "endTime": 1707744847070,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -80,6 +80,14 @@
       "word": "尼格买提问春晚还要重播几次",
       "onboard_time": 1707733828,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1946695,
+      "num": 1946695,
+      "word": "尼格买提说自己三天没笑过了",
+      "onboard_time": 1707740614,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -339,14 +347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1157638,
-      "num": 686867,
-      "word": "尼格买提说自己三天没笑过了",
-      "onboard_time": 1707740614,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1153357,
       "num": 449297,
       "word": "贾玲太美了",
@@ -571,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 938655,
+      "num": 938655,
+      "word": "飞驰2破十亿全员玩失忆",
+      "onboard_time": 1707742474,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 925472,
       "num": 925472,
       "word": "杨幂礼服下面穿秋裤",
@@ -593,14 +601,6 @@
       "onboard_time": 1707656493,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 917262,
-      "num": 917262,
-      "word": "飞驰2破十亿全员玩失忆",
-      "onboard_time": 1707742474,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 909983,
@@ -771,6 +771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722351,
+      "num": 551996,
+      "word": "央视文艺回复尼格买提",
+      "onboard_time": 1707741392,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 719743,
+      "num": 719743,
+      "word": "春山学是什么梗",
+      "onboard_time": 1707743316,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715045,
       "num": 301143,
       "word": "美国妈妈将女儿放烤箱烤死",
@@ -824,14 +840,6 @@
       "word": "华春莹发了迪丽热巴春晚舞台相关",
       "onboard_time": 1707706530,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 686849,
-      "num": 551996,
-      "word": "央视文艺回复尼格买提",
-      "onboard_time": 1707741392,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -947,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 631148,
+      "num": 415348,
+      "word": "大导演和她捧红的影后",
+      "onboard_time": 1707740793,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 629877,
       "num": 629877,
       "word": "第二十条女主",
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616809,
+      "num": 616809,
+      "word": "副局长春节期间酒驾被查",
+      "onboard_time": 1707740919,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615930,
       "num": 444958,
       "word": "周深 玲姐你真的好棒",
@@ -985,14 +1009,6 @@
       "onboard_time": 1707717391,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 614367,
-      "num": 614367,
-      "word": "副局长春节期间酒驾被查",
-      "onboard_time": 1707740919,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608378,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1707608965,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 593436,
+      "num": 593436,
+      "word": "不敢相信这是76岁人的状态",
+      "onboard_time": 1707741392,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 589819,
@@ -1243,14 +1267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 494977,
-      "num": 494977,
-      "word": "不敢相信这是76岁人的状态",
-      "onboard_time": 1707741392,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 493350,
       "num": 491022,
       "word": "郑渊洁 白客加油生孩子",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1707620852,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 479349,
+      "num": 393170,
+      "word": "票房",
+      "onboard_time": 1707743554,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 476474,
@@ -1435,18 +1459,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 430181,
-      "num": 346482,
-      "word": "女婿陪媳妇回娘家的统一状态",
-      "onboard_time": 1707622830,
+      "raw_hot": 433909,
+      "num": 286973,
+      "word": "县城结婚压力大嫁妆多由男方出",
+      "onboard_time": 1707742654,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425100,
-      "num": 272875,
-      "word": "县城结婚压力大嫁妆多由男方出",
-      "onboard_time": 1707742654,
+      "raw_hot": 430181,
+      "num": 346482,
+      "word": "女婿陪媳妇回娘家的统一状态",
+      "onboard_time": 1707622830,
       "rank": 20,
       "category": "社会新闻"
     },
@@ -1547,14 +1571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 386237,
-      "num": 386237,
-      "word": "票房",
-      "onboard_time": 1707743554,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 384422,
       "num": 384422,
       "word": "貂蝉吕布情限皮肤",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1707714571,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367740,
-      "num": 367740,
-      "word": "春山学是什么梗",
-      "onboard_time": 1707743316,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 366130,
@@ -1835,6 +1843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 316562,
+      "num": 279968,
+      "word": "贾玲为了不让观众掏手机有多努力",
+      "onboard_time": 1707744534,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316111,
       "num": 316111,
       "word": "长大后才知道自己是橄榄皮",
@@ -1857,6 +1873,14 @@
       "onboard_time": 1707608361,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308926,
+      "num": 279709,
+      "word": "技术修复上春山走位",
+      "onboard_time": 1707744215,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 308669,
@@ -1907,6 +1931,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299306,
+      "num": 275797,
+      "word": "光与夜之恋",
+      "onboard_time": 1707744274,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297379,
+      "num": 274495,
+      "word": "小龙糕",
+      "onboard_time": 1707744274,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296062,
       "num": 296062,
       "word": "原来有一种瘦是因为家里做饭太难吃",
@@ -1920,14 +1960,6 @@
       "word": "贾玲 老公姐",
       "onboard_time": 1707738393,
       "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 294356,
-      "num": 294356,
-      "word": "大导演和她捧红的影后",
-      "onboard_time": 1707740793,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -4289,6 +4321,14 @@
       "onboard_time": 1707631772,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "我在八零年代当后妈",
+      "onboard_time": 1707744694,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121558,

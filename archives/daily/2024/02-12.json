@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707744035014,
+  "endTime": 1707744847070,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -32,6 +32,14 @@
       "word": "尼格买提问春晚还要重播几次",
       "onboard_time": 1707733828,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1946695,
+      "num": 1946695,
+      "word": "尼格买提说自己三天没笑过了",
+      "onboard_time": 1707740614,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -171,14 +179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1157638,
-      "num": 686867,
-      "word": "尼格买提说自己三天没笑过了",
-      "onboard_time": 1707740614,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1148953,
       "num": 1148953,
       "word": "演员王东回应妻子在救助站过年",
@@ -299,8 +299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917262,
-      "num": 917262,
+      "raw_hot": 938655,
+      "num": 938655,
       "word": "飞驰2破十亿全员玩失忆",
       "onboard_time": 1707742474,
       "rank": 3,
@@ -395,6 +395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722351,
+      "num": 551996,
+      "word": "央视文艺回复尼格买提",
+      "onboard_time": 1707741392,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 719743,
+      "num": 719743,
+      "word": "春山学是什么梗",
+      "onboard_time": 1707743316,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715045,
       "num": 301143,
       "word": "美国妈妈将女儿放烤箱烤死",
@@ -424,14 +440,6 @@
       "word": "华春莹发了迪丽热巴春晚舞台相关",
       "onboard_time": 1707706530,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 686849,
-      "num": 551996,
-      "word": "央视文艺回复尼格买提",
-      "onboard_time": 1707741392,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631148,
+      "num": 415348,
+      "word": "大导演和她捧红的影后",
+      "onboard_time": 1707740793,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 629877,
       "num": 629877,
       "word": "第二十条女主",
@@ -481,6 +497,14 @@
       "onboard_time": 1707710192,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 616809,
+      "num": 616809,
+      "word": "副局长春节期间酒驾被查",
+      "onboard_time": 1707740919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615930,
@@ -499,20 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 614367,
-      "num": 614367,
-      "word": "副局长春节期间酒驾被查",
-      "onboard_time": 1707740919,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
       "onboard_time": 1707665912,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593436,
+      "num": 593436,
+      "word": "不敢相信这是76岁人的状态",
+      "onboard_time": 1707741392,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 589819,
@@ -627,19 +651,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 494977,
-      "num": 494977,
-      "word": "不敢相信这是76岁人的状态",
-      "onboard_time": 1707741392,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 488995,
       "num": 488995,
       "word": "张小斐 最后乐丹望向擂台的眼神",
       "onboard_time": 1707710309,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 479349,
+      "num": 393170,
+      "word": "票房",
+      "onboard_time": 1707743554,
+      "rank": 16,
       "category": "电影"
     },
     {
@@ -715,8 +739,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 425100,
-      "num": 272875,
+      "raw_hot": 433909,
+      "num": 286973,
       "word": "县城结婚压力大嫁妆多由男方出",
       "onboard_time": 1707742654,
       "rank": 20,
@@ -787,14 +811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 386237,
-      "num": 386237,
-      "word": "票房",
-      "onboard_time": 1707743554,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 384422,
       "num": 384422,
       "word": "貂蝉吕布情限皮肤",
@@ -841,14 +857,6 @@
       "onboard_time": 1707714571,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367740,
-      "num": 367740,
-      "word": "春山学是什么梗",
-      "onboard_time": 1707743316,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 366130,
@@ -947,6 +955,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316562,
+      "num": 279968,
+      "word": "贾玲为了不让观众掏手机有多努力",
+      "onboard_time": 1707744534,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 308926,
+      "num": 279709,
+      "word": "技术修复上春山走位",
+      "onboard_time": 1707744215,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304114,
       "num": 304114,
       "word": "男朋友走亲戚走崩溃了",
@@ -971,19 +995,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299306,
+      "num": 275797,
+      "word": "光与夜之恋",
+      "onboard_time": 1707744274,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297379,
+      "num": 274495,
+      "word": "小龙糕",
+      "onboard_time": 1707744274,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295523,
       "num": 295523,
       "word": "贾玲 老公姐",
       "onboard_time": 1707738393,
       "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 294356,
-      "num": 294356,
-      "word": "大导演和她捧红的影后",
-      "onboard_time": 1707740793,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -2193,6 +2225,14 @@
       "onboard_time": 1707663814,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "我在八零年代当后妈",
+      "onboard_time": 1707744694,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121558,
