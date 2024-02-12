@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707734152633,
+  "endTime": 1707736471168,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -57,6 +57,14 @@
       "onboard_time": 1707702629,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1639674,
+      "num": 1639674,
+      "word": "尼格买提问春晚还要重播几次",
+      "onboard_time": 1707733828,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1635463,
@@ -145,6 +153,14 @@
       "onboard_time": 1707716190,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1164851,
+      "num": 1164851,
+      "word": "主持人王宁",
+      "onboard_time": 1707734134,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 1148953,
@@ -355,7 +371,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632437,
+      "raw_hot": 633048,
       "num": 302351,
       "word": "三婚彩礼40万元村民认为一点不夸张",
       "onboard_time": 1707732632,
@@ -459,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 538624,
+      "num": 538624,
+      "word": "谢娜采访",
+      "onboard_time": 1707735092,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534611,
       "num": 513844,
       "word": "偶遇沈腾一家三口",
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473729,
+      "num": 473729,
+      "word": "丽颖点头马丽点赞高叶鼓掌",
+      "onboard_time": 1707733353,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 456607,
       "num": 456607,
       "word": "章若楠春晚上场前10分钟",
@@ -529,6 +561,14 @@
       "onboard_time": 1707719852,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 443538,
+      "num": 443538,
+      "word": "金晨对白敬亭的初印象和现印象",
+      "onboard_time": 1707734914,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 441948,
@@ -572,19 +612,11 @@
     },
     {
       "raw_hot": 424140,
-      "num": 476536,
+      "num": 516677,
       "word": "国足最新排名跌至87位",
       "onboard_time": 1707730773,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422327,
-      "num": 314566,
-      "word": "尼格买提问春晚还要重播几次",
-      "onboard_time": 1707733828,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 418092,
@@ -675,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362250,
+      "num": 362250,
+      "word": "貂蝉吕布情限皮肤",
+      "onboard_time": 1707733172,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 360462,
       "num": 360462,
       "word": "听障粉丝见赵丽颖激动落泪",
@@ -747,12 +787,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329572,
+      "num": 253199,
+      "word": "希林娜依高 她是乐莹也是我自己",
+      "onboard_time": 1707734672,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 322789,
       "num": 322789,
       "word": "大年初三",
       "onboard_time": 1707693260,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320427,
+      "num": 252271,
+      "word": "女孩1988年就收到400块压岁钱了",
+      "onboard_time": 1707734491,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303250,
@@ -769,14 +825,6 @@
       "onboard_time": 1707685217,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299160,
-      "num": 299160,
-      "word": "丽颖点头马丽点赞高叶鼓掌",
-      "onboard_time": 1707733353,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 291944,
@@ -907,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258938,
+      "num": 258938,
+      "word": "拜登竞选团队入驻TikTok",
+      "onboard_time": 1707735335,
+      "rank": 19,
+      "category": "国外时政,互联网"
+    },
+    {
       "raw_hot": 258518,
       "num": 258518,
       "word": "热辣滚烫路演",
@@ -931,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248606,
+      "num": 248606,
+      "word": "马丽 拜托影院给第二十条多排片",
+      "onboard_time": 1707736112,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247780,
       "num": 247780,
       "word": "潘展乐打破世界纪录",
@@ -953,6 +1017,14 @@
       "onboard_time": 1707668009,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241181,
+      "num": 219307,
+      "word": "去女友家还要跟狗狗装不熟",
+      "onboard_time": 1707734672,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 239745,
@@ -1035,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221712,
+      "num": 221712,
+      "word": "四人喝完酒回家错把猪食当成粥",
+      "onboard_time": 1707732632,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220862,
       "num": 220862,
       "word": "贾玲不想让大家错过大张伟的歌",
@@ -1099,20 +1179,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208982,
+      "num": 208982,
+      "word": "迪丽热巴化身新疆推荐官",
+      "onboard_time": 1707735215,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205684,
       "num": 205684,
       "word": "詹姆斯霉霉观战超级碗",
       "onboard_time": 1707698070,
       "rank": 25,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 203790,
-      "num": 203790,
-      "word": "貂蝉吕布情限皮肤",
-      "onboard_time": 1707733172,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 203161,
@@ -1201,14 +1281,6 @@
       "onboard_time": 1707656493,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194386,
-      "num": 194386,
-      "word": "四人喝完酒回家错把猪食当成粥",
-      "onboard_time": 1707732632,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192530,
@@ -1323,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169146,
+      "num": 169146,
+      "word": "逛山姆成为中产标签",
+      "onboard_time": 1707734374,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168415,
       "num": 168415,
       "word": "我国滑雪人群70%为一次性体验者",
@@ -1371,12 +1451,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158784,
+      "num": 158784,
+      "word": "辛芷蕾拍了3年繁花前2年很茫然",
+      "onboard_time": 1707736053,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158494,
       "num": 158494,
       "word": "黄景瑜用18个好夸飞驰人生2",
       "onboard_time": 1707717209,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158302,
+      "num": 158302,
+      "word": "秦始皇真的有山又有海",
+      "onboard_time": 1707735453,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 157826,
@@ -2025,14 +2121,6 @@
       "onboard_time": 1707623910,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 98284,
-      "num": 98284,
-      "word": "主持人王宁",
-      "onboard_time": 1707734134,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 97418,

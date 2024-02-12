@@ -1,0 +1,410 @@
+{
+  "runTime": 1707736471168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639674,
+        "num": 1639674,
+        "word": "尼格买提问春晚还要重播几次",
+        "onboard_time": 1707733828,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1164851,
+        "num": 1164851,
+        "word": "主持人王宁",
+        "onboard_time": 1707734134,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19397,
+        "num": 1159724,
+        "word": "龙的形象最早出现在哪里",
+        "onboard_time": 1707647912,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158634,
+        "num": 1158634,
+        "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
+        "onboard_time": 1707728494,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1018677,
+        "num": 1018677,
+        "word": "贾玲 时尚芭莎",
+        "onboard_time": 1707729810,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 868425,
+        "num": 868425,
+        "word": "要到初四了得懂事点",
+        "onboard_time": 1707728793,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 751953,
+        "num": 751953,
+        "word": "魏大勋临场反应",
+        "onboard_time": 1707730712,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582625,
+        "num": 582625,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538624,
+        "num": 538624,
+        "word": "谢娜采访",
+        "onboard_time": 1707735092,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300790,
+        "num": 516677,
+        "word": "国足最新排名跌至87位",
+        "onboard_time": 1707730773,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516205,
+        "num": 516205,
+        "word": "贾玲哭了",
+        "onboard_time": 1707723448,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473729,
+        "num": 473729,
+        "word": "丽颖点头马丽点赞高叶鼓掌",
+        "onboard_time": 1707733353,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443538,
+        "num": 443538,
+        "word": "金晨对白敬亭的初印象和现印象",
+        "onboard_time": 1707734914,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441425,
+        "num": 441425,
+        "word": "张杰回应张家不养闲人",
+        "onboard_time": 1707726032,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362250,
+        "num": 362250,
+        "word": "貂蝉吕布情限皮肤",
+        "onboard_time": 1707733172,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369937,
+        "num": 362150,
+        "word": "外媒评热辣滚烫",
+        "onboard_time": 1707730475,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361805,
+        "num": 361805,
+        "word": "贾玲全球独立执导女性导演票房第二",
+        "onboard_time": 1707729810,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350021,
+        "num": 350021,
+        "word": "热辣滚烫 不是减肥的故事",
+        "onboard_time": 1707729152,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268520,
+        "num": 268520,
+        "word": "光与夜之恋 内涵",
+        "onboard_time": 1707722068,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258938,
+        "num": 258938,
+        "word": "拜登竞选团队入驻TikTok",
+        "onboard_time": 1707735335,
+        "rank": 19,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 633048,
+        "num": 257728,
+        "word": "三婚彩礼40万元村民认为一点不夸张",
+        "onboard_time": 1707732632,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339599,
+        "num": 256644,
+        "word": "摇太阳 被低估",
+        "onboard_time": 1707732511,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336765,
+        "num": 255739,
+        "word": "贾玲首次线下公开露面",
+        "onboard_time": 1707724291,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329572,
+        "num": 253199,
+        "word": "希林娜依高 她是乐莹也是我自己",
+        "onboard_time": 1707734672,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320427,
+        "num": 252271,
+        "word": "女孩1988年就收到400块压岁钱了",
+        "onboard_time": 1707734491,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298288,
+        "num": 250915,
+        "word": "偶遇沈腾一家三口",
+        "onboard_time": 1707729274,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264316,
+        "num": 249098,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248606,
+        "num": 248606,
+        "word": "马丽 拜托影院给第二十条多排片",
+        "onboard_time": 1707736112,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231407,
+        "num": 231407,
+        "word": "门票260元的山姆成南通最热景区",
+        "onboard_time": 1707715710,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 221712,
+        "num": 221712,
+        "word": "四人喝完酒回家错把猪食当成粥",
+        "onboard_time": 1707732632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241181,
+        "num": 219307,
+        "word": "去女友家还要跟狗狗装不熟",
+        "onboard_time": 1707734672,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215808,
+        "num": 215808,
+        "word": "关晓彤短发",
+        "onboard_time": 1707716190,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208982,
+        "num": 208982,
+        "word": "迪丽热巴化身新疆推荐官",
+        "onboard_time": 1707735215,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208731,
+        "num": 208731,
+        "word": "热辣滚烫路演",
+        "onboard_time": 1707726751,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185403,
+        "num": 185403,
+        "word": "女孩行李太重民警抄起就走俩人表情亮了",
+        "onboard_time": 1707719369,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169146,
+        "num": 169146,
+        "word": "逛山姆成为中产标签",
+        "onboard_time": 1707734374,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168234,
+        "num": 168234,
+        "word": "摔炮的风还是吹到了伦敦",
+        "onboard_time": 1707728734,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165377,
+        "num": 165377,
+        "word": "巴音布鲁克永远的王",
+        "onboard_time": 1707732154,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158784,
+        "num": 158784,
+        "word": "辛芷蕾拍了3年繁花前2年很茫然",
+        "onboard_time": 1707736053,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158302,
+        "num": 158302,
+        "word": "秦始皇真的有山又有海",
+        "onboard_time": 1707735453,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150407,
+        "num": 150407,
+        "word": "点外卖只点了一个菜",
+        "onboard_time": 1707730114,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148626,
+        "num": 148626,
+        "word": "叶子咬住了花花的大脸",
+        "onboard_time": 1707728612,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145033,
+        "num": 145033,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142637,
+        "num": 142637,
+        "word": "王者荣耀",
+        "onboard_time": 1707733232,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137067,
+        "num": 137067,
+        "word": "周深 玲姐你真的好棒",
+        "onboard_time": 1707722550,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131265,
+        "num": 131265,
+        "word": "13岁的小猫宝宝",
+        "onboard_time": 1707732992,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130974,
+        "num": 130974,
+        "word": "罗翔看了电影第二十条",
+        "onboard_time": 1707717391,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "妈妈救了我很多次",
+        "onboard_time": 1707731673,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113293,
+        "num": 113293,
+        "word": "适量喝酒和滴酒不沾谁更健康",
+        "onboard_time": 1707724291,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112196,
+        "num": 112196,
+        "word": "飞驰人生2",
+        "onboard_time": 1707716250,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}
