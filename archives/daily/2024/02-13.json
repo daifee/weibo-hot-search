@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707772478260,
+  "endTime": 1707773638106,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -451,8 +451,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44801,
-      "num": 27472,
+      "raw_hot": 48676,
+      "num": 27833,
       "word": "原生家庭不好的人真的很害怕过年",
       "onboard_time": 1707769936,
       "rank": 49,
@@ -475,8 +475,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13959,
-      "num": 16959,
+      "raw_hot": 21560,
+      "num": 27840,
+      "word": "哈药六厂为什么是东北卢浮宫",
+      "onboard_time": 1707772517,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20683,
+      "num": 20683,
       "word": "你说的睡了也是这样吧",
       "onboard_time": 1707771976,
       "rank": 46,

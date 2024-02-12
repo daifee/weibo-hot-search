@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707772478260,
+  "endTime": 1707773638106,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -5219,6 +5219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48676,
+      "num": 27833,
+      "word": "原生家庭不好的人真的很害怕过年",
+      "onboard_time": 1707769936,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48149,
       "num": 73366,
       "word": "勒沃库森3比0拜仁",
@@ -5241,14 +5249,6 @@
       "onboard_time": 1707564036,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44801,
-      "num": 27472,
-      "word": "原生家庭不好的人真的很害怕过年",
-      "onboard_time": 1707769936,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 40843,
@@ -5371,6 +5371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21560,
+      "num": 27840,
+      "word": "哈药六厂为什么是东北卢浮宫",
+      "onboard_time": 1707772517,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21222,
       "num": 19673,
       "word": "新龙门客栈 百花迎春",
@@ -5385,6 +5393,14 @@
       "onboard_time": 1707599956,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20683,
+      "num": 20683,
+      "word": "你说的睡了也是这样吧",
+      "onboard_time": 1707771976,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 20556,
@@ -5449,14 +5465,6 @@
       "onboard_time": 1707684975,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13959,
-      "num": 16959,
-      "word": "你说的睡了也是这样吧",
-      "onboard_time": 1707771976,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 13615,
