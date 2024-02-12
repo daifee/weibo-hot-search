@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707769068108,
+  "endTime": 1707770049379,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -465,6 +465,14 @@
       "onboard_time": 1707766518,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12495,
+      "num": 19713,
+      "word": "原生家庭不好的人真的很害怕过年",
+      "onboard_time": 1707769936,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12077,
