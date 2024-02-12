@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707718917922,
+  "endTime": 1707719647992,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1159327,
-      "num": 1159327,
+      "raw_hot": 1172701,
+      "num": 1172701,
       "word": "关晓彤短发",
       "onboard_time": 1707716190,
       "rank": 3,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1063811,
+      "num": 1063811,
+      "word": "门票260元的山姆成南通最热景区",
+      "onboard_time": 1707715710,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1061854,
       "num": 540706,
       "word": "霉霉拥吻庆祝男友获冠军",
@@ -131,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1021765,
-      "num": 1021765,
-      "word": "门票260元的山姆成南通最热景区",
-      "onboard_time": 1707715710,
-      "rank": 30,
-      "category": "旅游,社会新闻"
+      "raw_hot": 990153,
+      "num": 990153,
+      "word": "白敬亭魏大勋魏晨采访",
+      "onboard_time": 1707718109,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 953864,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557484,
+      "num": 557484,
+      "word": "贾玲体重折线图",
+      "onboard_time": 1707716129,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 555030,
       "num": 283326,
       "word": "睡觉嘴巴总发干或是3种疾病",
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520551,
+      "num": 410185,
+      "word": "罗翔看了电影第二十条",
+      "onboard_time": 1707717391,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501922,
       "num": 358374,
       "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
@@ -315,27 +339,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 501821,
-      "num": 443206,
-      "word": "白敬亭魏大勋魏晨采访",
-      "onboard_time": 1707718109,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 488995,
       "num": 488995,
       "word": "张小斐 最后乐丹望向擂台的眼神",
       "onboard_time": 1707710309,
       "rank": 13,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 478744,
-      "num": 478744,
-      "word": "贾玲体重折线图",
-      "onboard_time": 1707716129,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -371,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 409317,
+      "num": 409317,
+      "word": "敖子逸爆料时代峰峻筛选机制",
+      "onboard_time": 1707717509,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405549,
       "num": 405549,
       "word": "巴西奥运男足无缘巴黎奥运会",
@@ -400,22 +416,6 @@
       "word": "贾玲下一部电影",
       "onboard_time": 1707708572,
       "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 398954,
-      "num": 398954,
-      "word": "敖子逸爆料时代峰峻筛选机制",
-      "onboard_time": 1707717509,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 397110,
-      "num": 397110,
-      "word": "罗翔看了电影第二十条",
-      "onboard_time": 1707717391,
-      "rank": 14,
       "category": "电影"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1707660033,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342784,
+      "num": 342784,
+      "word": "爸妈给解清帅26个红包",
+      "onboard_time": 1707717929,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341888,
@@ -603,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266143,
+      "num": 240042,
+      "word": "小朋友以为叫一声舅舅给一张压岁钱",
+      "onboard_time": 1707715651,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255764,
       "num": 255764,
       "word": "檀健次说今年会播出三部作品",
@@ -643,14 +659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 240042,
-      "num": 240042,
-      "word": "小朋友以为叫一声舅舅给一张压岁钱",
-      "onboard_time": 1707715651,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239745,
       "num": 239745,
       "word": "热辣滚烫票房破9亿",
@@ -681,6 +689,14 @@
       "onboard_time": 1707664831,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230653,
+      "num": 230653,
+      "word": "樊振东恭喜酋长和霉霉",
+      "onboard_time": 1707719014,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 229699,
@@ -715,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223819,
-      "num": 223819,
-      "word": "爸妈给解清帅26个红包",
-      "onboard_time": 1707717929,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 220862,
+      "num": 220862,
+      "word": "贾玲不想让大家错过大张伟的歌",
+      "onboard_time": 1707717691,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 217740,
@@ -761,14 +777,6 @@
       "onboard_time": 1707705990,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 206290,
-      "num": 206290,
-      "word": "贾玲不想让大家错过大张伟的歌",
-      "onboard_time": 1707717691,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 205684,
@@ -841,6 +849,14 @@
       "onboard_time": 1707656493,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188097,
+      "num": 188097,
+      "word": "章若楠春晚上场前10分钟",
+      "onboard_time": 1707719251,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 187749,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1707659675,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97146,
+      "num": 97146,
+      "word": "女孩行李太重民警抄起就走俩人表情亮了",
+      "onboard_time": 1707719369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96180,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707719647992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1529042,
+        "num": 1529042,
+        "word": "白敬亭彩排衣服",
+        "onboard_time": 1707712832,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1338626,
+        "num": 1338626,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59082,
+        "num": 1255385,
+        "word": "晒晒我家的年味",
+        "onboard_time": 1707708275,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1172701,
+        "num": 1172701,
+        "word": "关晓彤短发",
+        "onboard_time": 1707716190,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1063811,
+        "num": 1063811,
+        "word": "门票260元的山姆成南通最热景区",
+        "onboard_time": 1707715710,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 990153,
+        "num": 990153,
+        "word": "白敬亭魏大勋魏晨采访",
+        "onboard_time": 1707718109,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591405,
+        "num": 591405,
+        "word": "霉霉与男友顶峰相见",
+        "onboard_time": 1707713553,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557484,
+        "num": 557484,
+        "word": "贾玲体重折线图",
+        "onboard_time": 1707716129,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493760,
+        "num": 493760,
+        "word": "小伙开兰博基尼回村出事故撞报废",
+        "onboard_time": 1707711389,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410571,
+        "num": 410571,
+        "word": "银行盯上了孩子压岁钱",
+        "onboard_time": 1707708452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520551,
+        "num": 410185,
+        "word": "罗翔看了电影第二十条",
+        "onboard_time": 1707717391,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 539188,
+        "num": 410091,
+        "word": "霉霉拥吻庆祝男友获冠军",
+        "onboard_time": 1707714092,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430115,
+        "num": 410065,
+        "word": "贾玲建议女生朋友关注当下远离糟心事",
+        "onboard_time": 1707705391,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409317,
+        "num": 409317,
+        "word": "敖子逸爆料时代峰峻筛选机制",
+        "onboard_time": 1707717509,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373336,
+        "num": 373336,
+        "word": "三年级小学生攒下70万压岁钱",
+        "onboard_time": 1707708275,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342784,
+        "num": 342784,
+        "word": "爸妈给解清帅26个红包",
+        "onboard_time": 1707717929,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276453,
+        "num": 276453,
+        "word": "这届年轻人真的不想结婚吗",
+        "onboard_time": 1707703769,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263233,
+        "num": 263233,
+        "word": "美国春晚",
+        "onboard_time": 1707699990,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259054,
+        "num": 259054,
+        "word": "刘谦第一个魔术被剪",
+        "onboard_time": 1707702751,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243440,
+        "num": 243440,
+        "word": "陈伟霆谈第七次上春晚很感恩",
+        "onboard_time": 1707716850,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691436,
+        "num": 242419,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266143,
+        "num": 236646,
+        "word": "小朋友以为叫一声舅舅给一张压岁钱",
+        "onboard_time": 1707715651,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230653,
+        "num": 230653,
+        "word": "樊振东恭喜酋长和霉霉",
+        "onboard_time": 1707719014,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 220862,
+        "num": 220862,
+        "word": "贾玲不想让大家错过大张伟的歌",
+        "onboard_time": 1707717691,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213478,
+        "num": 213478,
+        "word": "杨超越嫦娥如梦令",
+        "onboard_time": 1707714571,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201445,
+        "num": 201445,
+        "word": "檀健次说今年会播出三部作品",
+        "onboard_time": 1707715710,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188097,
+        "num": 188097,
+        "word": "章若楠春晚上场前10分钟",
+        "onboard_time": 1707719251,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187970,
+        "num": 187970,
+        "word": "华春莹发了迪丽热巴春晚舞台相关",
+        "onboard_time": 1707706530,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176567,
+        "num": 176567,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144644,
+        "num": 169203,
+        "word": "大年初三睡到饱",
+        "onboard_time": 1707693079,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168758,
+        "num": 168758,
+        "word": "闺蜜和我对象结婚我当伴娘",
+        "onboard_time": 1707714270,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "芭蕾蹲对直腿瘦腿是真的牛",
+        "onboard_time": 1707715232,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156847,
+        "num": 156847,
+        "word": "杨幂语录 我过年的心情",
+        "onboard_time": 1707715170,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147156,
+        "num": 147156,
+        "word": "博士返乡办婚礼拒绝闹洞房被亲戚嘲讽",
+        "onboard_time": 1707709657,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146312,
+        "num": 146312,
+        "word": "沈凌 贾玲用命在搏热辣滚烫",
+        "onboard_time": 1707696566,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137328,
+        "num": 137328,
+        "word": "霍思燕嗯哼开上黄博基尼了",
+        "onboard_time": 1707702209,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136901,
+        "num": 136901,
+        "word": "董力阿拉蕾",
+        "onboard_time": 1707696750,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134855,
+        "num": 134855,
+        "word": "酷酷的滕二大爷是刘伟驰",
+        "onboard_time": 1707718591,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133645,
+        "num": 133645,
+        "word": "飞驰人生2",
+        "onboard_time": 1707716250,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131174,
+        "num": 131174,
+        "word": "奶奶留给我的遗物失而复得了",
+        "onboard_time": 1707715651,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130190,
+        "num": 130190,
+        "word": "终于明白为什么有人不想回家过年了",
+        "onboard_time": 1707713851,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126632,
+        "num": 126632,
+        "word": "黄景瑜用18个好夸飞驰人生2",
+        "onboard_time": 1707717209,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119981,
+        "num": 119981,
+        "word": "睡觉嘴巴总发干或是3种疾病",
+        "onboard_time": 1707702209,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116830,
+        "num": 116830,
+        "word": "鹿晗巡演彩蛋",
+        "onboard_time": 1707716972,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116286,
+        "num": 116286,
+        "word": "刘敏涛女儿",
+        "onboard_time": 1707708812,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 114956,
+        "word": "可乐喝多了身体会发生什么",
+        "onboard_time": 1707710731,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109755,
+        "num": 109755,
+        "word": "贾玲战损版",
+        "onboard_time": 1707709231,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104366,
+        "num": 104366,
+        "word": "妈妈问为什么不喜欢吃她做的饭",
+        "onboard_time": 1707714153,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102384,
+        "num": 102384,
+        "word": "世界田联主席悼念基普图姆",
+        "onboard_time": 1707715590,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97146,
+        "num": 97146,
+        "word": "女孩行李太重民警抄起就走俩人表情亮了",
+        "onboard_time": 1707719369,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以团结凝聚力量以奋斗铸就伟业#"
+    }
+  }
+}
