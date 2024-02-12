@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707747360697,
+  "endTime": 1707748436500,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2110810,
-      "num": 923206,
+      "num": 1601619,
       "word": "春山学是什么梗",
       "onboard_time": 1707743316,
       "rank": 18,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1690270,
+      "num": 1690270,
+      "word": "技术修复上春山走位",
+      "onboard_time": 1707744215,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1643531,
       "num": 1643531,
       "word": "甜馨晒压岁钱",
@@ -99,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1554037,
-      "num": 922647,
+      "raw_hot": 1569503,
+      "num": 1569503,
       "word": "甜馨 倒霉的一年也结束了",
       "onboard_time": 1707745054,
       "rank": 4,
@@ -195,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1156984,
+      "num": 1156984,
+      "word": "豆瓣崩了",
+      "onboard_time": 1707747217,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1155115,
+      "num": 1155115,
+      "word": "贾玲为了不让观众掏手机有多努力",
+      "onboard_time": 1707744534,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1148953,
       "num": 1148953,
       "word": "演员王东回应妻子在救助站过年",
@@ -233,14 +257,6 @@
       "onboard_time": 1707725733,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1072073,
-      "num": 1072073,
-      "word": "贾玲为了不让观众掏手机有多努力",
-      "onboard_time": 1707744534,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 1063811,
@@ -331,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 888497,
+      "num": 888497,
+      "word": "糖送八大家是什么梗",
+      "onboard_time": 1707745475,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861152,
       "num": 861152,
       "word": "这是李焕英的女儿",
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 774751,
+      "num": 774751,
+      "word": "上春山彩排",
+      "onboard_time": 1707747577,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 762609,
       "num": 762609,
       "word": "张一山随地扔烟头",
@@ -403,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 748756,
-      "num": 748756,
-      "word": "糖送八大家是什么梗",
-      "onboard_time": 1707745475,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 737702,
       "num": 737702,
       "word": "封神",
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 728422,
-      "num": 530523,
+      "num": 676018,
       "word": "大导演和她捧红的影后",
       "onboard_time": 1707740793,
       "rank": 31,
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 671194,
-      "num": 526312,
-      "word": "技术修复上春山走位",
-      "onboard_time": 1707744215,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 666412,
       "num": 666412,
       "word": "贾玲的苹果原则",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 616809,
-      "num": 616809,
+      "num": 781335,
       "word": "副局长春节期间酒驾被查",
       "onboard_time": 1707740919,
       "rank": 46,
@@ -667,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 517398,
-      "num": 517398,
-      "word": "豆瓣崩了",
-      "onboard_time": 1707747217,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 511278,
       "num": 511278,
       "word": "外媒评热辣滚烫",
@@ -785,6 +793,14 @@
       "onboard_time": 1707721352,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 435320,
+      "num": 408873,
+      "word": "差不多行了啊",
+      "onboard_time": 1707747878,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 424140,
@@ -1003,6 +1019,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321903,
+      "num": 321903,
+      "word": "热辣滚烫票房",
+      "onboard_time": 1707747157,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 315775,
+      "num": 315775,
+      "word": "贾玲谈海边穿晚礼服拍摄幕后",
+      "onboard_time": 1707747396,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315626,
       "num": 315626,
       "word": "小龙糕",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1707720687,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279544,
+      "num": 262423,
+      "word": "有金店一天卖出1000多根金条",
+      "onboard_time": 1707747757,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 278981,
@@ -1227,12 +1267,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257612,
+      "num": 257612,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1707746858,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255764,
       "num": 255764,
       "word": "檀健次说今年会播出三部作品",
       "onboard_time": 1707715710,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253622,
+      "num": 409638,
+      "word": "但凡找个中国人问问",
+      "onboard_time": 1707747157,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 252072,
@@ -1329,14 +1385,6 @@
       "onboard_time": 1707723149,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232952,
-      "num": 232952,
-      "word": "热辣滚烫票房",
-      "onboard_time": 1707747157,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 230933,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1707719369,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212196,
-      "num": 212196,
-      "word": "请和我的老公结婚",
-      "onboard_time": 1707746858,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 211723,
@@ -1643,14 +1683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187256,
-      "num": 187256,
-      "word": "但凡找个中国人问问",
-      "onboard_time": 1707747157,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187187,
       "num": 187187,
       "word": "飞驰人生2插曲泪目了",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1707698909,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179596,
+      "num": 179596,
+      "word": "不要再说你不会打麻将了",
+      "onboard_time": 1707748058,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 179535,
@@ -2033,6 +2073,14 @@
       "onboard_time": 1707724528,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145739,
+      "num": 145739,
+      "word": "大衣肩上的扣子",
+      "onboard_time": 1707748297,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 145236,
@@ -2588,7 +2636,7 @@
     },
     {
       "raw_hot": 86727,
-      "num": 1435405,
+      "num": 1627204,
       "word": "晒晒我家的年味",
       "onboard_time": 1707708275,
       "rank": 2,
