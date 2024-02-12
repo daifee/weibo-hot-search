@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707704607521,
+  "endTime": 1707705264593,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1539471,
+      "num": 1539471,
+      "word": "甜馨晒压岁钱",
+      "onboard_time": 1707702629,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1534477,
       "num": 1534477,
       "word": "贾玲和杨迪聊天五小时菜一口没动",
@@ -155,14 +163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1269048,
-      "num": 1269048,
-      "word": "甜馨晒压岁钱",
-      "onboard_time": 1707702629,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1259238,
       "num": 751055,
       "word": "嫂子治好了一家子的眼疾",
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1220053,
+      "num": 1220053,
+      "word": "刘谦第一个魔术被剪",
+      "onboard_time": 1707702751,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1217497,
       "num": 601764,
       "word": "贾玲减肥全记录",
@@ -209,14 +217,6 @@
       "onboard_time": 1707648753,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1162409,
-      "num": 1162409,
-      "word": "刘谦第一个魔术被剪",
-      "onboard_time": 1707702751,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1153357,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1106504,
+      "num": 1106504,
+      "word": "霍思燕嗯哼开上黄博基尼了",
+      "onboard_time": 1707702209,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1103940,
       "num": 1103940,
       "word": "热辣滚烫暂列票房第一",
@@ -281,14 +289,6 @@
       "onboard_time": 1707612928,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1062660,
-      "num": 1062660,
-      "word": "霍思燕嗯哼开上黄博基尼了",
-      "onboard_time": 1707702209,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 1027948,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 697657,
+      "num": 544123,
+      "word": "刘能儿子",
+      "onboard_time": 1707703467,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694408,
       "num": 694408,
       "word": "飞驰人生2这十秒做了五个月",
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604989,
+      "num": 604989,
+      "word": "白敬亭春晚",
+      "onboard_time": 1707703111,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604170,
       "num": 535744,
       "word": "贾玲陈小艺",
@@ -675,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 566343,
+      "num": 566343,
+      "word": "三年挣百万外卖小哥留沪过年",
+      "onboard_time": 1707703171,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562939,
       "num": 562939,
       "word": "飞驰人生2票房",
@@ -705,14 +729,6 @@
       "onboard_time": 1707702209,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 554834,
-      "num": 478096,
-      "word": "刘能儿子",
-      "onboard_time": 1707703467,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 551109,
@@ -867,28 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465518,
-      "num": 465518,
-      "word": "白敬亭春晚",
-      "onboard_time": 1707703111,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461823,
       "num": 461823,
       "word": "送你一朵小红花",
       "onboard_time": 1707621452,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 454252,
-      "num": 454252,
-      "word": "三年挣百万外卖小哥留沪过年",
-      "onboard_time": 1707703171,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449606,
@@ -1139,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335909,
+      "num": 254895,
+      "word": "这届年轻人真的不想结婚吗",
+      "onboard_time": 1707703769,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332745,
       "num": 228154,
       "word": "妈妈的对方正在输入",
@@ -1387,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254895,
-      "num": 254895,
-      "word": "这届年轻人真的不想结婚吗",
-      "onboard_time": 1707703769,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 254262,
       "num": 219650,
       "word": "艾伦三笠结婚设定",
@@ -1499,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239745,
+      "num": 239745,
+      "word": "热辣滚烫票房破9亿",
+      "onboard_time": 1707703467,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239244,
       "num": 239244,
       "word": "陈星旭跳科目三",
@@ -1595,12 +1603,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 231683,
-      "num": 231683,
-      "word": "热辣滚烫票房破9亿",
-      "onboard_time": 1707703467,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 230933,
+      "num": 230933,
+      "word": "全员加速中对战季阵容官宣",
+      "onboard_time": 1707704490,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230811,
@@ -1891,14 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198517,
-      "num": 198517,
-      "word": "全员加速中对战季阵容官宣",
-      "onboard_time": 1707704490,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "易烊千玺弹贝斯vlog",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1707633150,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174331,
+      "num": 174331,
+      "word": "usher中场秀",
+      "onboard_time": 1707704729,
+      "rank": 29,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 173478,
@@ -2659,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137374,
+      "num": 137374,
+      "word": "地缘位置最好的10个国家",
+      "onboard_time": 1707704849,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 136514,
       "num": 162549,
       "word": "中国女篮vs波多黎各女篮",
@@ -2715,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132934,
+      "num": 132934,
+      "word": "你想在家多待还是早点返程",
+      "onboard_time": 1707704191,
+      "rank": 44,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 132750,
       "num": 132750,
       "word": "杜兰特苦笑",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1707655472,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130546,
+      "num": 130546,
+      "word": "大年初三宜哈哈哈哈",
+      "onboard_time": 1707704611,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 130176,
@@ -2763,11 +2795,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127293,
+      "num": 127293,
+      "word": "贵妇粉霜",
+      "onboard_time": 1707705091,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127242,
       "num": 127242,
       "word": "第二十条 在嬉笑中讨论现实话题",
       "onboard_time": 1707620729,
       "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 126517,
+      "num": 126517,
+      "word": "原来他就是刘耀文啊",
+      "onboard_time": 1707705031,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -2875,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120132,
+      "num": 120132,
+      "word": "春节人设图鉴",
+      "onboard_time": 1707704911,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119999,
       "num": 119999,
       "word": "女子看完热辣滚烫全家减肥总动员",
@@ -2889,14 +2945,6 @@
       "onboard_time": 1707609386,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119178,
-      "num": 119178,
-      "word": "你想在家多待还是早点返程",
-      "onboard_time": 1707704191,
-      "rank": 44,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 118853,

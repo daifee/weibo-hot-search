@@ -1,0 +1,410 @@
+{
+  "runTime": 1707705264593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753152,
+        "num": 1753152,
+        "word": "美国春晚",
+        "onboard_time": 1707699990,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1539471,
+        "num": 1539471,
+        "word": "甜馨晒压岁钱",
+        "onboard_time": 1707702629,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19180,
+        "num": 1228300,
+        "word": "全球同庆中国年",
+        "onboard_time": 1707621812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220053,
+        "num": 1220053,
+        "word": "刘谦第一个魔术被剪",
+        "onboard_time": 1707702751,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1106504,
+        "num": 1106504,
+        "word": "霍思燕嗯哼开上黄博基尼了",
+        "onboard_time": 1707702209,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1085250,
+        "num": 1085250,
+        "word": "大年初三睡到饱",
+        "onboard_time": 1707693079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800238,
+        "num": 800238,
+        "word": "董力阿拉蕾",
+        "onboard_time": 1707696750,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604989,
+        "num": 604989,
+        "word": "白敬亭春晚",
+        "onboard_time": 1707703111,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601231,
+        "num": 601231,
+        "word": "压岁钱200元拿不出手最低600",
+        "onboard_time": 1707695665,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566343,
+        "num": 566343,
+        "word": "三年挣百万外卖小哥留沪过年",
+        "onboard_time": 1707703171,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697657,
+        "num": 544123,
+        "word": "刘能儿子",
+        "onboard_time": 1707703467,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688738,
+        "num": 522809,
+        "word": "梅西超级碗广告",
+        "onboard_time": 1707700230,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500753,
+        "num": 500753,
+        "word": "沈凌 贾玲用命在搏热辣滚烫",
+        "onboard_time": 1707696566,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479438,
+        "num": 479438,
+        "word": "演员王东回应妻子在救助站过年",
+        "onboard_time": 1707696628,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388004,
+        "num": 388004,
+        "word": "贾玲的苹果原则",
+        "onboard_time": 1707697648,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303125,
+        "num": 303125,
+        "word": "天妒英才",
+        "onboard_time": 1707697887,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293875,
+        "num": 293875,
+        "word": "基普图姆去世",
+        "onboard_time": 1707694886,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289352,
+        "num": 289352,
+        "word": "这是李焕英的女儿",
+        "onboard_time": 1707637773,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269771,
+        "num": 269771,
+        "word": "大年初三主打一个好好休息",
+        "onboard_time": 1707699087,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265465,
+        "num": 265465,
+        "word": "爸爸去哪儿阿拉蕾长大了",
+        "onboard_time": 1707666453,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489499,
+        "num": 256747,
+        "word": "睡觉嘴巴总发干或是3种疾病",
+        "onboard_time": 1707702209,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335909,
+        "num": 252784,
+        "word": "这届年轻人真的不想结婚吗",
+        "onboard_time": 1707703769,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239745,
+        "num": 239745,
+        "word": "热辣滚烫票房破9亿",
+        "onboard_time": 1707703467,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234554,
+        "num": 234554,
+        "word": "泰国偶遇奚梦瑶和婆婆逛街",
+        "onboard_time": 1707665493,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231525,
+        "num": 231525,
+        "word": "超级碗",
+        "onboard_time": 1707694762,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230933,
+        "num": 230933,
+        "word": "全员加速中对战季阵容官宣",
+        "onboard_time": 1707704490,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214811,
+        "num": 214811,
+        "word": "超级碗中场秀",
+        "onboard_time": 1707703292,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211066,
+        "num": 211066,
+        "word": "春节社交潜规则",
+        "onboard_time": 1707700112,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196084,
+        "num": 196084,
+        "word": "巴西奥运男足无缘巴黎奥运会",
+        "onboard_time": 1707699087,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174331,
+        "num": 174331,
+        "word": "usher中场秀",
+        "onboard_time": 1707704729,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 170184,
+        "num": 170184,
+        "word": "别让肝脏变得黏糊糊",
+        "onboard_time": 1707695906,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153616,
+        "num": 153616,
+        "word": "单独饲养的魔鬼鱼莫名怀孕",
+        "onboard_time": 1707663635,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153497,
+        "num": 153497,
+        "word": "杨紫 终于让我逮着机会演坏人了",
+        "onboard_time": 1707659136,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152199,
+        "num": 152199,
+        "word": "赵丽颖做到了",
+        "onboard_time": 1707699269,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140931,
+        "num": 140931,
+        "word": "马凡舒化身李清照演绎女性自信美",
+        "onboard_time": 1707701612,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137374,
+        "num": 137374,
+        "word": "地缘位置最好的10个国家",
+        "onboard_time": 1707704849,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132934,
+        "num": 132934,
+        "word": "你想在家多待还是早点返程",
+        "onboard_time": 1707704191,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 130546,
+        "num": 130546,
+        "word": "大年初三宜哈哈哈哈",
+        "onboard_time": 1707704611,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128399,
+        "num": 128399,
+        "word": "李银河 再一次被贾玲感动",
+        "onboard_time": 1707697648,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127293,
+        "num": 127293,
+        "word": "贵妇粉霜",
+        "onboard_time": 1707705091,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 126517,
+        "word": "原来他就是刘耀文啊",
+        "onboard_time": 1707705031,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124020,
+        "num": 124020,
+        "word": "吴佩慈近照",
+        "onboard_time": 1707695483,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121856,
+        "num": 121856,
+        "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
+        "onboard_time": 1707668070,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120132,
+        "num": 120132,
+        "word": "春节人设图鉴",
+        "onboard_time": 1707704911,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116563,
+        "num": 116563,
+        "word": "第二十条 正当防卫",
+        "onboard_time": 1707701489,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115398,
+        "num": 115398,
+        "word": "王者小龙糕",
+        "onboard_time": 1707696266,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115384,
+        "num": 115384,
+        "word": "贾玲称过去一年不快乐但值得",
+        "onboard_time": 1707672442,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114863,
+        "num": 114863,
+        "word": "广东习俗结婚的要给没结婚的红包",
+        "onboard_time": 1707701248,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111321,
+        "num": 111321,
+        "word": "警方回应男子跨省遗弃亲生父亲",
+        "onboard_time": 1707696988,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106155,
+        "num": 106155,
+        "word": "詹姆斯霉霉观战超级碗",
+        "onboard_time": 1707698070,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}

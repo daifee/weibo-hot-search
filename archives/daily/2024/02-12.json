@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707704607521,
+  "endTime": 1707705264593,
   "band_list": [
     {
       "raw_hot": 2085286,
@@ -27,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1539471,
+      "num": 1539471,
+      "word": "甜馨晒压岁钱",
+      "onboard_time": 1707702629,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1506976,
       "num": 1506976,
       "word": "董力阿拉蕾",
@@ -35,16 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1269048,
-      "num": 1269048,
-      "word": "甜馨晒压岁钱",
-      "onboard_time": 1707702629,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1162409,
-      "num": 1162409,
+      "raw_hot": 1220053,
+      "num": 1220053,
       "word": "刘谦第一个魔术被剪",
       "onboard_time": 1707702751,
       "rank": 12,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1062660,
-      "num": 1062660,
+      "raw_hot": 1106504,
+      "num": 1106504,
       "word": "霍思燕嗯哼开上黄博基尼了",
       "onboard_time": 1707702209,
       "rank": 4,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697657,
+      "num": 544123,
+      "word": "刘能儿子",
+      "onboard_time": 1707703467,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666412,
       "num": 666412,
       "word": "贾玲的苹果原则",
@@ -155,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604989,
+      "num": 604989,
+      "word": "白敬亭春晚",
+      "onboard_time": 1707703111,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586999,
       "num": 343599,
       "word": "杨紫 终于让我逮着机会演坏人了",
       "onboard_time": 1707659136,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 566343,
+      "num": 566343,
+      "word": "三年挣百万外卖小哥留沪过年",
+      "onboard_time": 1707703171,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555030,
@@ -171,36 +195,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 554834,
-      "num": 478096,
-      "word": "刘能儿子",
-      "onboard_time": 1707703467,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 501922,
       "num": 358374,
       "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
       "onboard_time": 1707668070,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 465518,
-      "num": 465518,
-      "word": "白敬亭春晚",
-      "onboard_time": 1707703111,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 454252,
-      "num": 454252,
-      "word": "三年挣百万外卖小哥留沪过年",
-      "onboard_time": 1707703171,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441948,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335909,
+      "num": 254895,
+      "word": "这届年轻人真的不想结婚吗",
+      "onboard_time": 1707703769,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330514,
       "num": 330514,
       "word": "送你一朵小红花导演回应",
@@ -363,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254895,
-      "num": 254895,
-      "word": "这届年轻人真的不想结婚吗",
-      "onboard_time": 1707703769,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 252072,
       "num": 301333,
       "word": "各个器官疾病引起疼痛的大致范围",
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239745,
+      "num": 239745,
+      "word": "热辣滚烫票房破9亿",
+      "onboard_time": 1707703467,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235215,
       "num": 235215,
       "word": "贾玲称过去一年不快乐但值得",
@@ -411,12 +419,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231683,
-      "num": 231683,
-      "word": "热辣滚烫票房破9亿",
-      "onboard_time": 1707703467,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 230933,
+      "num": 230933,
+      "word": "全员加速中对战季阵容官宣",
+      "onboard_time": 1707704490,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230811,
@@ -475,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198517,
-      "num": 198517,
-      "word": "全员加速中对战季阵容官宣",
-      "onboard_time": 1707704490,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197848,
       "num": 197848,
       "word": "刘宇宁收到赵露思送的生日蛋糕",
@@ -537,6 +537,14 @@
       "onboard_time": 1707633692,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174331,
+      "num": 174331,
+      "word": "usher中场秀",
+      "onboard_time": 1707704729,
+      "rank": 29,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 159944,
@@ -659,12 +667,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137374,
+      "num": 137374,
+      "word": "地缘位置最好的10个国家",
+      "onboard_time": 1707704849,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 134292,
       "num": 134292,
       "word": "广东习俗结婚的要给没结婚的红包",
       "onboard_time": 1707701248,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132934,
+      "num": 132934,
+      "word": "你想在家多待还是早点返程",
+      "onboard_time": 1707704191,
+      "rank": 44,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 130546,
+      "num": 130546,
+      "word": "大年初三宜哈哈哈哈",
+      "onboard_time": 1707704611,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 128375,
@@ -683,10 +715,26 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127293,
+      "num": 127293,
+      "word": "贵妇粉霜",
+      "onboard_time": 1707705091,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127180,
       "num": 119991,
       "word": "马丽演技",
       "onboard_time": 1707651032,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 126517,
+      "num": 126517,
+      "word": "原来他就是刘耀文啊",
+      "onboard_time": 1707705031,
       "rank": 40,
       "category": "电影"
     },
@@ -739,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120132,
+      "num": 120132,
+      "word": "春节人设图鉴",
+      "onboard_time": 1707704911,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119999,
       "num": 119999,
       "word": "女子看完热辣滚烫全家减肥总动员",
@@ -753,14 +809,6 @@
       "onboard_time": 1707660214,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119178,
-      "num": 119178,
-      "word": "你想在家多待还是早点返程",
-      "onboard_time": 1707704191,
-      "rank": 44,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 118837,
@@ -947,7 +995,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17897,
+      "raw_hot": 19180,
       "num": 1412086,
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
