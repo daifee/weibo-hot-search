@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/12 00:20:29 ~ 2024/02/12 20:30:47
+本榜单时间：2024/02/12 00:20:29 ~ 2024/02/12 20:46:40
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%9B%9E%E6%96%B0%E7%96%86%E9%99%AA%E7%88%B8%E5%A6%88%E4%BA%86%23" target="weibo">
-尼格买提回新疆陪爸妈了（热度：1587738）
+尼格买提回新疆陪爸妈了（热度：1627457）
 </a>
 </li>
 
@@ -249,14 +249,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%99%AE%E5%9B%BE%E5%A7%86%E5%8E%BB%E4%B8%96%23" target="weibo">
-基普图姆去世（热度：804610）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%9B%A0%E4%BA%BA%E6%B5%81%E9%87%8F%E5%A4%A7%E5%8F%96%E6%B6%88%E4%BB%8A%E6%97%A5%E6%BC%94%E5%87%BA%23" target="weibo">
+大唐不夜城因人流量大取消今日演出（热度：804699）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%9B%A0%E4%BA%BA%E6%B5%81%E9%87%8F%E5%A4%A7%E5%8F%96%E6%B6%88%E4%BB%8A%E6%97%A5%E6%BC%94%E5%87%BA%23" target="weibo">
-大唐不夜城因人流量大取消今日演出（热度：804603）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E6%99%AE%E5%9B%BE%E5%A7%86%E5%8E%BB%E4%B8%96%23" target="weibo">
+基普图姆去世（热度：804610）
 </a>
 </li>
 
@@ -401,6 +401,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E4%BA%B2%E5%90%BB%E6%B5%B7%E8%8E%89%23" target="weibo">
 比伯亲吻海莉（热度：560762）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%88%97%E5%B2%9B%E5%9C%B0%E5%8C%BA6.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本火山列岛地区6.1级地震（热度：560127）
 </a>
 </li>
 
@@ -651,6 +657,12 @@ YOLO（热度：345371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23" target="weibo">
+尼格买提说自己三天没笑过了（热度：333230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E8%A2%AB%E5%A5%B6%E5%A5%B6%E5%82%AC%E5%A9%9A%23" target="weibo">
 刘宪华被奶奶催婚（热度：330696）
 </a>
@@ -669,8 +681,8 @@ YOLO（热度：345371）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%81%AB%E5%B1%B1%E5%88%97%E5%B2%9B%E5%9C%B0%E5%8C%BA6.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-日本火山列岛地区6.1级地震（热度：305073）
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%B1%80%E9%95%BF%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%23" target="weibo">
+副局长春节期间酒驾被查（热度：309643）
 </a>
 </li>
 
@@ -693,8 +705,20 @@ YOLO（热度：345371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E8%BF%99%E6%98%AF76%E5%B2%81%E4%BA%BA%E7%9A%84%E7%8A%B6%E6%80%81%23" target="weibo">
+不敢相信这是76岁人的状态（热度：299601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%20%E8%80%81%E5%85%AC%E5%A7%90%23" target="weibo">
 贾玲 老公姐（热度：295523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AF%BC%E6%BC%94%E5%92%8C%E5%A5%B9%E6%8D%A7%E7%BA%A2%E7%9A%84%E5%BD%B1%E5%90%8E%23" target="weibo">
+大导演和她捧红的影后（热度：294356）
 </a>
 </li>
 
@@ -765,6 +789,12 @@ YOLO（热度：345371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E5%A0%B5%E6%88%90%E8%BF%99%E6%A0%B7%E8%BF%98%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%23" target="weibo">
+农村堵成这样还是第一次（热度：272588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B000%E5%90%8E%E9%A1%BE%E5%98%B4%E4%B8%8D%E9%A1%BE%E8%BA%AB%23" target="weibo">
 突然发现00后顾嘴不顾身（热度：271325）
 </a>
@@ -809,6 +839,12 @@ YOLO（热度：345371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E8%B7%AF%E6%BC%94%23" target="weibo">
 热辣滚烫路演（热度：258518）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%23" target="weibo">
+央视文艺回复尼格买提（热度：257961）
 </a>
 </li>
 
@@ -999,12 +1035,6 @@ YOLO（热度：345371）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AF%BC%E6%BC%94%E5%92%8C%E5%A5%B9%E6%8D%A7%E7%BA%A2%E7%9A%84%E5%BD%B1%E5%90%8E%23" target="weibo">
-大导演和她捧红的影后（热度：205186）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周狗屎运最旺的星座（热度：203161）
 </a>
@@ -1079,18 +1109,6 @@ YOLO（热度：345371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E9%BB%84%E4%BB%81%E4%BF%8A%E7%88%AC%E5%B1%B1%E6%90%AD%E5%AD%90%23" target="weibo">
 文俊辉黄仁俊爬山搭子（热度：192530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E5%A0%B5%E6%88%90%E8%BF%99%E6%A0%B7%E8%BF%98%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%23" target="weibo">
-农村堵成这样还是第一次（热度：192272）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23" target="weibo">
-尼格买提说自己三天没笑过了（热度：189333）
 </a>
 </li>
 
@@ -1199,6 +1217,12 @@ usher中场秀（热度：174331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%BB%91%E9%9B%AA%E4%BA%BA%E7%BE%A470%25%E4%B8%BA%E4%B8%80%E6%AC%A1%E6%80%A7%E4%BD%93%E9%AA%8C%E8%80%85%23" target="weibo">
 我国滑雪人群70%为一次性体验者（热度：168415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%BE%8E%E9%A3%9F%E8%A1%97%E5%9E%83%E5%9C%BE%E9%81%8D%E5%9C%B0%23" target="weibo">
+西安大唐不夜城美食街垃圾遍地（热度：166699）
 </a>
 </li>
 
@@ -1343,12 +1367,6 @@ ITZY出道五周年（热度：153363）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%82%E5%AD%90%E6%B2%BB%E5%A5%BD%E4%BA%86%E4%B8%80%E5%AE%B6%E5%AD%90%E7%9A%84%E7%9C%BC%E7%96%BE%23" target="weibo">
 嫂子治好了一家子的眼疾（热度：149246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%B1%80%E9%95%BF%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%23" target="weibo">
-副局长春节期间酒驾被查（热度：148918）
 </a>
 </li>
 
