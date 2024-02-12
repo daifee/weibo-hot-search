@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707766435630,
+  "endTime": 1707769068108,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -33787,6 +33787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31573,
+      "num": 29623,
+      "word": "贾玲回眸",
+      "onboard_time": 1707767956,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31001,
       "num": 1238648,
       "word": "在非遗中邂逅龙年氛围感",
@@ -34152,6 +34160,14 @@
       "word": "到底是谁和周杰伦击了掌",
       "onboard_time": 1706759731,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22138,
+      "num": 22138,
+      "word": "张艺兴lauv官宣合作",
+      "onboard_time": 1707766518,
+      "rank": 35,
       "category": "音乐"
     },
     {
