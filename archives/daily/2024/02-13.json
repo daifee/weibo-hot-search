@@ -1,10 +1,10 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707755806643,
+  "endTime": 1707758123926,
   "band_list": [
     {
-      "raw_hot": 5941771,
-      "num": 5941771,
+      "raw_hot": 7342180,
+      "num": 7342180,
       "word": "白敬亭口碑",
       "onboard_time": 1707753870,
       "rank": 0,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 668031,
+      "raw_hot": 692661,
       "num": 646135,
       "word": "金晨对白敬亭的初印象和现印象",
       "onboard_time": 1707734914,
@@ -59,8 +59,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 586540,
-      "num": 586540,
+      "raw_hot": 649983,
+      "num": 649983,
       "word": "魏大勋临场反应",
       "onboard_time": 1707730712,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347680,
+      "num": 259269,
+      "word": "上春山现场直拍",
+      "onboard_time": 1707749135,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344559,
       "num": 344559,
       "word": "飞驰2破十亿全员玩失忆",
@@ -153,14 +161,6 @@
       "onboard_time": 1707728793,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259269,
-      "num": 259269,
-      "word": "上春山现场直拍",
-      "onboard_time": 1707749135,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 249074,
@@ -265,6 +265,14 @@
       "onboard_time": 1707751236,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150797,
+      "num": 150797,
+      "word": "7克糖拉出3万多根糖丝",
+      "onboard_time": 1707755190,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 149298,
@@ -379,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 102856,
+      "num": 102856,
+      "word": "用一年换8次出场",
+      "onboard_time": 1707755552,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97218,
       "num": 97218,
       "word": "斐玲",
@@ -403,18 +419,26 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 91016,
-      "num": 91016,
-      "word": "用一年换8次出场",
-      "onboard_time": 1707755552,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 73652,
+      "num": 73652,
+      "word": "间谍过家家 电锯阿尼亚",
+      "onboard_time": 1707757769,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 12077,
       "num": 884518,
       "word": "晒晒我家的年味",
       "onboard_time": 1707708275,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6445,
+      "num": 663851,
+      "word": "我与家人合个影",
+      "onboard_time": 1707707012,
       "rank": 2,
       "category": "社会新闻"
     }

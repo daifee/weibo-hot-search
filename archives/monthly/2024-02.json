@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707755806643,
+  "endTime": 1707758123926,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -179,6 +179,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 7342180,
+      "num": 7342180,
+      "word": "白敬亭口碑",
+      "onboard_time": 1707753870,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7282553,
       "num": 7282553,
       "word": "撒贝宁何炅连线",
@@ -209,14 +217,6 @@
       "onboard_time": 1707494566,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5941771,
-      "num": 5941771,
-      "word": "白敬亭口碑",
-      "onboard_time": 1707753870,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5742255,
@@ -11739,6 +11739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347680,
+      "num": 259269,
+      "word": "上春山现场直拍",
+      "onboard_time": 1707749135,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347051,
       "num": 347051,
       "word": "王一博自己骑着摩托上山",
@@ -14209,14 +14217,6 @@
       "onboard_time": 1706805147,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 276522,
-      "num": 259269,
-      "word": "上春山现场直拍",
-      "onboard_time": 1707749135,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 276444,
@@ -25419,6 +25419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150797,
+      "num": 150797,
+      "word": "7克糖拉出3万多根糖丝",
+      "onboard_time": 1707755190,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "工会回应副主席被曝不雅聊天",
@@ -31219,6 +31227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102856,
+      "num": 102856,
+      "word": "用一年换8次出场",
+      "onboard_time": 1707755552,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102846,
       "num": 102846,
       "word": "渐冻人蔡磊谈濒死感",
@@ -31851,14 +31867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91016,
-      "num": 91016,
-      "word": "用一年换8次出场",
-      "onboard_time": 1707755552,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90601,
       "num": 90601,
       "word": "穆里尼奥说执教梅西是荣耀",
@@ -32425,6 +32433,14 @@
       "onboard_time": 1706904018,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73652,
+      "num": 73652,
+      "word": "间谍过家家 电锯阿尼亚",
+      "onboard_time": 1707757769,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 73548,
