@@ -1,0 +1,410 @@
+{
+  "runTime": 1707711648255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2319789,
+        "num": 2319789,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1069588,
+        "num": 1069588,
+        "word": "美国春晚",
+        "onboard_time": 1707699990,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76541,
+        "num": 957665,
+        "word": "晒晒我家的年味",
+        "onboard_time": 1707708275,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925280,
+        "num": 925280,
+        "word": "甜馨晒压岁钱",
+        "onboard_time": 1707702629,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844423,
+        "num": 844423,
+        "word": "贾玲建议女生朋友关注当下远离糟心事",
+        "onboard_time": 1707705391,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 729341,
+        "num": 729341,
+        "word": "大年初三睡到饱",
+        "onboard_time": 1707693079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705202,
+        "num": 705202,
+        "word": "银行盯上了孩子压岁钱",
+        "onboard_time": 1707708452,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629802,
+        "num": 629802,
+        "word": "酋长超级碗冠军",
+        "onboard_time": 1707710192,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616073,
+        "num": 616073,
+        "word": "刘谦第一个魔术被剪",
+        "onboard_time": 1707702751,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557589,
+        "num": 557589,
+        "word": "华春莹发了迪丽热巴春晚舞台相关",
+        "onboard_time": 1707706530,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753211,
+        "num": 551927,
+        "word": "刘敏涛女儿",
+        "onboard_time": 1707708812,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544098,
+        "num": 544098,
+        "word": "白敬亭春晚",
+        "onboard_time": 1707703111,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420994,
+        "num": 420994,
+        "word": "春山学",
+        "onboard_time": 1707705451,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405759,
+        "num": 405759,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365553,
+        "num": 365553,
+        "word": "沈凌 贾玲用命在搏热辣滚烫",
+        "onboard_time": 1707696566,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359671,
+        "num": 359671,
+        "word": "贾玲下一部电影",
+        "onboard_time": 1707708572,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351600,
+        "num": 351600,
+        "word": "董力阿拉蕾",
+        "onboard_time": 1707696750,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265904,
+        "num": 265904,
+        "word": "原来他就是刘耀文啊",
+        "onboard_time": 1707705031,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262324,
+        "num": 262324,
+        "word": "霍思燕嗯哼开上黄博基尼了",
+        "onboard_time": 1707702209,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253134,
+        "num": 253134,
+        "word": "超级碗",
+        "onboard_time": 1707694762,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474831,
+        "num": 252500,
+        "word": "博士返乡办婚礼拒绝闹洞房被亲戚嘲讽",
+        "onboard_time": 1707709657,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391824,
+        "num": 246364,
+        "word": "三年级小学生攒下70万压岁钱",
+        "onboard_time": 1707708275,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237410,
+        "num": 237410,
+        "word": "可乐喝多了身体会发生什么",
+        "onboard_time": 1707710731,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218033,
+        "num": 218033,
+        "word": "三年挣百万外卖小哥留沪过年",
+        "onboard_time": 1707703171,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216098,
+        "num": 216098,
+        "word": "贾玲战损版",
+        "onboard_time": 1707709231,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199470,
+        "num": 199470,
+        "word": "上帝怕人类跑进两小时",
+        "onboard_time": 1707705932,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195616,
+        "num": 195616,
+        "word": "这届年轻人真的不想结婚吗",
+        "onboard_time": 1707703769,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190688,
+        "num": 190688,
+        "word": "睡觉嘴巴总发干或是3种疾病",
+        "onboard_time": 1707702209,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189904,
+        "num": 189904,
+        "word": "听障粉丝见赵丽颖激动落泪",
+        "onboard_time": 1707707312,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183807,
+        "num": 183807,
+        "word": "马霍姆斯太牛了",
+        "onboard_time": 1707711451,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174756,
+        "num": 174756,
+        "word": "罗伯特 飞驰人生2自来水",
+        "onboard_time": 1707708093,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162539,
+        "num": 162539,
+        "word": "8只基金吸金3770亿元",
+        "onboard_time": 1707705990,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162521,
+        "num": 162521,
+        "word": "许凯田曦薇吻戏路透",
+        "onboard_time": 1707709831,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162122,
+        "num": 162122,
+        "word": "贾玲的苹果原则",
+        "onboard_time": 1707697648,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156769,
+        "num": 156769,
+        "word": "刘耀文爆改宣传卫衣",
+        "onboard_time": 1707710374,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146674,
+        "num": 146674,
+        "word": "酋长49人争夺超级碗",
+        "onboard_time": 1707699087,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143823,
+        "num": 143823,
+        "word": "刘能儿子",
+        "onboard_time": 1707703467,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137187,
+        "num": 137187,
+        "word": "飞驰人生2插曲泪目了",
+        "onboard_time": 1707707554,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135146,
+        "num": 135146,
+        "word": "全员加速中对战季阵容官宣",
+        "onboard_time": 1707704490,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54840,
+        "num": 132821,
+        "word": "飞驰人生2是韩导写的新疆攻略",
+        "onboard_time": 1707710431,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132294,
+        "num": 132294,
+        "word": "小伙开兰博基尼回村出事故撞报废",
+        "onboard_time": 1707711389,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131805,
+        "num": 131805,
+        "word": "天妒英才",
+        "onboard_time": 1707697887,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132256,
+        "num": 131615,
+        "word": "你看不见她们的付出就请闭嘴",
+        "onboard_time": 1707709953,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129610,
+        "num": 129610,
+        "word": "演员王东回应妻子在救助站过年",
+        "onboard_time": 1707696628,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126183,
+        "num": 126183,
+        "word": "基普图姆去世",
+        "onboard_time": 1707694886,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121282,
+        "num": 121282,
+        "word": "爸爸去哪儿阿拉蕾长大了",
+        "onboard_time": 1707666453,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112929,
+        "num": 112929,
+        "word": "游本昌回应90多岁又红了",
+        "onboard_time": 1707707432,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112485,
+        "num": 112485,
+        "word": "热辣滚烫票房破9亿",
+        "onboard_time": 1707703467,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98605,
+        "num": 98605,
+        "word": "王者小龙糕",
+        "onboard_time": 1707696266,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96180,
+        "num": 96180,
+        "word": "19岁潘展乐发言妥妥阳光大男孩",
+        "onboard_time": 1707709471,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}
