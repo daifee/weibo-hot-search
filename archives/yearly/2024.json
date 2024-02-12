@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707748436500,
+  "endTime": 1707751083643,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -889,6 +889,14 @@
       "onboard_time": 1707475654,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3014277,
+      "num": 1319870,
+      "word": "差不多行了啊",
+      "onboard_time": 1707747878,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2996543,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707733828,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1955941,
-      "num": 1955941,
-      "word": "王嘉尔王一博坐一起",
-      "onboard_time": 1705147484,
-      "rank": 6,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
