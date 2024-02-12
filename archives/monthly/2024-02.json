@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707722142981,
+  "endTime": 1707723235196,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1731,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1494746,
+      "num": 1494746,
+      "word": "白敬亭魏大勋魏晨采访",
+      "onboard_time": 1707718109,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1489068,
       "num": 499805,
       "word": "合同允许梅西因伤不上场",
@@ -1888,14 +1896,6 @@
       "word": "半个娱乐圈都在苏醒的拟邀名单上",
       "onboard_time": 1707091348,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1395551,
-      "num": 1395551,
-      "word": "白敬亭魏大勋魏晨采访",
-      "onboard_time": 1707718109,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -6283,6 +6283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 632349,
+      "num": 632349,
+      "word": "爸妈给解清帅26个红包",
+      "onboard_time": 1707717929,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631996,
       "num": 631996,
       "word": "杨紫爸爸 童星是枷锁也是沼泽",
@@ -6625,14 +6633,6 @@
       "onboard_time": 1706771249,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 594819,
-      "num": 594819,
-      "word": "爸妈给解清帅26个红包",
-      "onboard_time": 1707717929,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 594497,
@@ -8753,6 +8753,14 @@
       "onboard_time": 1707464372,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 457142,
+      "num": 457142,
+      "word": "光与夜之恋 内涵",
+      "onboard_time": 1707722068,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 457052,
@@ -11267,6 +11275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345371,
+      "num": 345371,
+      "word": "YOLO",
+      "onboard_time": 1707720627,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345355,
       "num": 345355,
       "word": "大年初二全家最高礼仪迎接女婿",
@@ -11601,6 +11617,14 @@
       "onboard_time": 1707611727,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330696,
+      "num": 330696,
+      "word": "刘宪华被奶奶催婚",
+      "onboard_time": 1707721589,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 330517,
@@ -12259,14 +12283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311963,
-      "num": 311963,
-      "word": "YOLO",
-      "onboard_time": 1707720627,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 311414,
       "num": 311414,
       "word": "和对象出cos见父母了",
@@ -12488,6 +12504,14 @@
       "word": "马丽 我看着都挺像原配",
       "onboard_time": 1706767413,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 306491,
+      "num": 306491,
+      "word": "周深 玲姐你真的好棒",
+      "onboard_time": 1707722550,
+      "rank": 16,
       "category": "电影"
     },
     {
@@ -13412,7 +13436,7 @@
     },
     {
       "raw_hot": 280914,
-      "num": 202753,
+      "num": 213478,
       "word": "热辣滚烫结束没有人想离开",
       "onboard_time": 1707720687,
       "rank": 22,
@@ -13865,6 +13889,14 @@
       "onboard_time": 1706834612,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271325,
+      "num": 216561,
+      "word": "突然发现00后顾嘴不顾身",
+      "onboard_time": 1707722671,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 271182,
@@ -17491,6 +17523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212249,
+      "num": 212249,
+      "word": "女孩行李太重民警抄起就走俩人表情亮了",
+      "onboard_time": 1707719369,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212114,
       "num": 212114,
       "word": "摔倒了一定不要马上站起来",
@@ -18419,6 +18459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203713,
+      "num": 203713,
+      "word": "虽丑但巨好吃的丑零食们",
+      "onboard_time": 1707721352,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 203702,
       "num": 203702,
       "word": "道英将solo出道",
@@ -18641,14 +18689,6 @@
       "onboard_time": 1707134431,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201839,
-      "num": 201839,
-      "word": "女孩行李太重民警抄起就走俩人表情亮了",
-      "onboard_time": 1707719369,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201808,
@@ -19259,14 +19299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196274,
-      "num": 165499,
-      "word": "虽丑但巨好吃的丑零食们",
-      "onboard_time": 1707721352,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 196267,
       "num": 196267,
       "word": "蔡依林贵阳演唱会预售",
@@ -19385,14 +19417,6 @@
       "onboard_time": 1706966011,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 195219,
-      "num": 195219,
-      "word": "刘宪华被奶奶催婚",
-      "onboard_time": 1707721589,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 195217,
@@ -19817,6 +19841,14 @@
       "onboard_time": 1707234092,
       "rank": 29,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 192530,
+      "num": 192530,
+      "word": "文俊辉黄仁俊爬山搭子",
+      "onboard_time": 1707722791,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192484,
@@ -21755,6 +21787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174507,
+      "num": 174507,
+      "word": "迪丽热巴春晚舞台妆解析",
+      "onboard_time": 1707722791,
+      "rank": 29,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 174502,
       "num": 174502,
       "word": "多家足球俱乐部发文疑内涵梅西香港行",
@@ -23425,6 +23465,14 @@
       "onboard_time": 1707026791,
       "rank": 35,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 160448,
+      "num": 160448,
+      "word": "我国滑雪人群70%为一次性体验者",
+      "onboard_time": 1707722249,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 160429,
@@ -25963,6 +26011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139433,
+      "num": 139433,
+      "word": "白百何回娘家vlog",
+      "onboard_time": 1707722851,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139420,
       "num": 139420,
       "word": "游戏版号",
@@ -26145,14 +26201,6 @@
       "onboard_time": 1707478232,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138210,
-      "num": 138210,
-      "word": "光与夜之恋 内涵",
-      "onboard_time": 1707722068,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 138196,
@@ -27273,6 +27321,14 @@
       "onboard_time": 1707293073,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130787,
+      "num": 130787,
+      "word": "沈月的恋爱观",
+      "onboard_time": 1707722671,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 130546,
@@ -30155,6 +30211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102564,
+      "num": 102564,
+      "word": "第二十条 马丽人保戏",
+      "onboard_time": 1707723210,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102515,
       "num": 122960,
       "word": "我也想调戏小猫工作人员",
@@ -30259,6 +30323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100434,
+      "num": 100434,
+      "word": "会睡懒觉的人心血管更好",
+      "onboard_time": 1707723149,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100389,
       "num": 100389,
       "word": "当猫咪第一次回村过年",
@@ -30297,6 +30369,14 @@
       "onboard_time": 1706865274,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99625,
+      "num": 99625,
+      "word": "过年回村上厕所的安全感",
+      "onboard_time": 1707722972,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 99214,

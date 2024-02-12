@@ -1,0 +1,410 @@
+{
+  "runTime": 1707723235196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1494746,
+        "num": 1494746,
+        "word": "白敬亭魏大勋魏晨采访",
+        "onboard_time": 1707718109,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156816,
+        "num": 1156816,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21835,
+        "num": 908947,
+        "word": "我与家人合个影",
+        "onboard_time": 1707707012,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878027,
+        "num": 878027,
+        "word": "门票260元的山姆成南通最热景区",
+        "onboard_time": 1707715710,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 858113,
+        "num": 858113,
+        "word": "关晓彤短发",
+        "onboard_time": 1707716190,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 632349,
+        "num": 632349,
+        "word": "爸妈给解清帅26个红包",
+        "onboard_time": 1707717929,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513473,
+        "num": 513473,
+        "word": "罗翔看了电影第二十条",
+        "onboard_time": 1707717391,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 457142,
+        "num": 457142,
+        "word": "光与夜之恋 内涵",
+        "onboard_time": 1707722068,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439726,
+        "num": 439726,
+        "word": "贾玲体重折线图",
+        "onboard_time": 1707716129,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412355,
+        "num": 412355,
+        "word": "三年级小学生攒下70万压岁钱",
+        "onboard_time": 1707708275,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402533,
+        "num": 402533,
+        "word": "马丽太会演了",
+        "onboard_time": 1707719852,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367093,
+        "num": 367093,
+        "word": "贾玲建议女生朋友关注当下远离糟心事",
+        "onboard_time": 1707705391,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345371,
+        "num": 345371,
+        "word": "YOLO",
+        "onboard_time": 1707720627,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330696,
+        "num": 330696,
+        "word": "刘宪华被奶奶催婚",
+        "onboard_time": 1707721589,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330471,
+        "num": 330471,
+        "word": "银行盯上了孩子压岁钱",
+        "onboard_time": 1707708452,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326466,
+        "num": 326466,
+        "word": "霉霉拥吻庆祝男友获冠军",
+        "onboard_time": 1707714092,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306491,
+        "num": 306491,
+        "word": "周深 玲姐你真的好棒",
+        "onboard_time": 1707722550,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280277,
+        "num": 280277,
+        "word": "章若楠春晚上场前10分钟",
+        "onboard_time": 1707719251,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259536,
+        "num": 259536,
+        "word": "小伙开兰博基尼回村出事故撞报废",
+        "onboard_time": 1707711389,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219196,
+        "num": 219196,
+        "word": "敖子逸爆料时代峰峻筛选机制",
+        "onboard_time": 1707717509,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555394,
+        "num": 218652,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271325,
+        "num": 216561,
+        "word": "突然发现00后顾嘴不顾身",
+        "onboard_time": 1707722671,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260182,
+        "num": 214346,
+        "word": "霉霉与男友顶峰相见",
+        "onboard_time": 1707713553,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225933,
+        "num": 213478,
+        "word": "热辣滚烫结束没有人想离开",
+        "onboard_time": 1707720687,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212249,
+        "num": 212249,
+        "word": "女孩行李太重民警抄起就走俩人表情亮了",
+        "onboard_time": 1707719369,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205836,
+        "num": 205836,
+        "word": "刘谦第一个魔术被剪",
+        "onboard_time": 1707702751,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203713,
+        "num": 203713,
+        "word": "虽丑但巨好吃的丑零食们",
+        "onboard_time": 1707721352,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220265,
+        "num": 200541,
+        "word": "樊振东恭喜酋长和霉霉",
+        "onboard_time": 1707719014,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 192530,
+        "num": 192530,
+        "word": "文俊辉黄仁俊爬山搭子",
+        "onboard_time": 1707722791,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174507,
+        "num": 174507,
+        "word": "迪丽热巴春晚舞台妆解析",
+        "onboard_time": 1707722791,
+        "rank": 29,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 851069,
+        "num": 174452,
+        "word": "白敬亭彩排衣服",
+        "onboard_time": 1707712832,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174210,
+        "num": 174210,
+        "word": "这届年轻人真的不想结婚吗",
+        "onboard_time": 1707703769,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173852,
+        "num": 173852,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160618,
+        "num": 160618,
+        "word": "美国春晚",
+        "onboard_time": 1707699990,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160448,
+        "num": 160448,
+        "word": "我国滑雪人群70%为一次性体验者",
+        "onboard_time": 1707722249,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157843,
+        "num": 157843,
+        "word": "贾玲不想让大家错过大张伟的歌",
+        "onboard_time": 1707717691,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154670,
+        "num": 154670,
+        "word": "小朋友以为叫一声舅舅给一张压岁钱",
+        "onboard_time": 1707715651,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139433,
+        "num": 139433,
+        "word": "白百何回娘家vlog",
+        "onboard_time": 1707722851,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130787,
+        "num": 130787,
+        "word": "沈月的恋爱观",
+        "onboard_time": 1707722671,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126132,
+        "num": 126132,
+        "word": "飞驰人生2票房破9亿",
+        "onboard_time": 1707721050,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123674,
+        "num": 123674,
+        "word": "博士返乡办婚礼拒绝闹洞房被亲戚嘲讽",
+        "onboard_time": 1707709657,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116516,
+        "num": 116516,
+        "word": "沈凌 贾玲用命在搏热辣滚烫",
+        "onboard_time": 1707696566,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115987,
+        "num": 115987,
+        "word": "芭蕾蹲对直腿瘦腿是真的牛",
+        "onboard_time": 1707715232,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112952,
+        "num": 112952,
+        "word": "华春莹发了迪丽热巴春晚舞台相关",
+        "onboard_time": 1707706530,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104146,
+        "num": 104146,
+        "word": "不会用四脚着地的猫",
+        "onboard_time": 1707721708,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102564,
+        "num": 102564,
+        "word": "第二十条 马丽人保戏",
+        "onboard_time": 1707723210,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100434,
+        "num": 100434,
+        "word": "会睡懒觉的人心血管更好",
+        "onboard_time": 1707723149,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 99784,
+        "word": "沈腾替张驰求赞",
+        "onboard_time": 1707721769,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99625,
+        "num": 99625,
+        "word": "过年回村上厕所的安全感",
+        "onboard_time": 1707722972,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99614,
+        "num": 99614,
+        "word": "黄景瑜用18个好夸飞驰人生2",
+        "onboard_time": 1707717209,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}
