@@ -1,0 +1,410 @@
+{
+  "runTime": 1707726109272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881679,
+        "num": 1881679,
+        "word": "贾玲哭了",
+        "onboard_time": 1707723448,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1043307,
+        "num": 1043307,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48270,
+        "num": 1010889,
+        "word": "龙在中国人心中的意义",
+        "onboard_time": 1707703531,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994720,
+        "num": 994720,
+        "word": "贾玲首次线下公开露面",
+        "onboard_time": 1707724291,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 691176,
+        "num": 691176,
+        "word": "糖送八大家",
+        "onboard_time": 1707725011,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671264,
+        "num": 671264,
+        "word": "门票260元的山姆成南通最热景区",
+        "onboard_time": 1707715710,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 604412,
+        "num": 604412,
+        "word": "关晓彤短发",
+        "onboard_time": 1707716190,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 523516,
+        "num": 523516,
+        "word": "光与夜之恋 内涵",
+        "onboard_time": 1707722068,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369319,
+        "num": 369319,
+        "word": "罗翔看了电影第二十条",
+        "onboard_time": 1707717391,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350050,
+        "num": 350050,
+        "word": "爸妈给解清帅26个红包",
+        "onboard_time": 1707717929,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615930,
+        "num": 347487,
+        "word": "周深 玲姐你真的好棒",
+        "onboard_time": 1707722550,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1291634,
+        "num": 346059,
+        "word": "上春山",
+        "onboard_time": 1707724051,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560762,
+        "num": 342803,
+        "word": "比伯亲吻海莉",
+        "onboard_time": 1707724829,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501197,
+        "num": 341168,
+        "word": "上春山 逐帧分析",
+        "onboard_time": 1707725912,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 986414,
+        "num": 336161,
+        "word": "白敬亭魏大勋魏晨采访",
+        "onboard_time": 1707718109,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365907,
+        "num": 333443,
+        "word": "虽丑但巨好吃的丑零食们",
+        "onboard_time": 1707721352,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333292,
+        "num": 333292,
+        "word": "三年级小学生攒下70万压岁钱",
+        "onboard_time": 1707708275,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315006,
+        "num": 315006,
+        "word": "贾玲建议女生朋友关注当下远离糟心事",
+        "onboard_time": 1707705391,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308165,
+        "num": 308165,
+        "word": "贾玲体重折线图",
+        "onboard_time": 1707716129,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277009,
+        "num": 277009,
+        "word": "银行盯上了孩子压岁钱",
+        "onboard_time": 1707708452,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470549,
+        "num": 274386,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251935,
+        "num": 251935,
+        "word": "刘宪华被奶奶催婚",
+        "onboard_time": 1707721589,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249778,
+        "num": 249778,
+        "word": "突然发现00后顾嘴不顾身",
+        "onboard_time": 1707722671,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248983,
+        "num": 248983,
+        "word": "适量喝酒和滴酒不沾谁更健康",
+        "onboard_time": 1707724291,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246142,
+        "num": 246142,
+        "word": "张杰回应张家不养闲人",
+        "onboard_time": 1707726032,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226904,
+        "num": 226904,
+        "word": "梅西",
+        "onboard_time": 1707725733,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221625,
+        "num": 221625,
+        "word": "霉霉拥吻庆祝男友获冠军",
+        "onboard_time": 1707714092,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204425,
+        "num": 204425,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201721,
+        "num": 201721,
+        "word": "过年回村上厕所的安全感",
+        "onboard_time": 1707722972,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199183,
+        "num": 199183,
+        "word": "会睡懒觉的人心血管更好",
+        "onboard_time": 1707723149,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 855222,
+        "num": 198790,
+        "word": "白敬亭彩排衣服",
+        "onboard_time": 1707712832,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198299,
+        "num": 198299,
+        "word": "马丽太会演了",
+        "onboard_time": 1707719852,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172371,
+        "num": 172371,
+        "word": "热辣滚烫结束没有人想离开",
+        "onboard_time": 1707720687,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170683,
+        "num": 170683,
+        "word": "YOLO",
+        "onboard_time": 1707720627,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169212,
+        "num": 169212,
+        "word": "小伙开兰博基尼回村出事故撞报废",
+        "onboard_time": 1707711389,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168415,
+        "num": 168415,
+        "word": "我国滑雪人群70%为一次性体验者",
+        "onboard_time": 1707722249,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158588,
+        "num": 158588,
+        "word": "迪丽热巴春晚舞台妆解析",
+        "onboard_time": 1707722791,
+        "rank": 36,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 154607,
+        "num": 154607,
+        "word": "文俊辉黄仁俊爬山搭子",
+        "onboard_time": 1707722791,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152776,
+        "num": 152776,
+        "word": "霉霉与男友顶峰相见",
+        "onboard_time": 1707713553,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130391,
+        "num": 149297,
+        "word": "女孩行李太重民警抄起就走俩人表情亮了",
+        "onboard_time": 1707719369,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145842,
+        "num": 145842,
+        "word": "雷佳音回应总演窝囊废",
+        "onboard_time": 1707724528,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137361,
+        "num": 137361,
+        "word": "章若楠春晚上场前10分钟",
+        "onboard_time": 1707719251,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135313,
+        "num": 135313,
+        "word": "第二十条 马丽人保戏",
+        "onboard_time": 1707723210,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123254,
+        "num": 123254,
+        "word": "年轻人爱办极简婚礼",
+        "onboard_time": 1707724770,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120922,
+        "num": 120922,
+        "word": "刘谦第一个魔术被剪",
+        "onboard_time": 1707702751,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120867,
+        "num": 120867,
+        "word": "当年养狗的小男孩长大了",
+        "onboard_time": 1707725790,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 118364,
+        "word": "这届年轻人真的不想结婚吗",
+        "onboard_time": 1707703769,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116587,
+        "num": 116587,
+        "word": "宝宝说医生爸爸再不回家自己就长大了",
+        "onboard_time": 1707726032,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 115756,
+        "num": 115756,
+        "word": "小朋友以为叫一声舅舅给一张压岁钱",
+        "onboard_time": 1707715651,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 114554,
+        "word": "樊振东恭喜酋长和霉霉",
+        "onboard_time": 1707719014,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以团结凝聚力量以奋斗铸就伟业#"
+    }
+  }
+}
