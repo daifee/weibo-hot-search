@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707694454245,
+  "endTime": 1707700302583,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1795940,
+      "num": 1795940,
+      "word": "大年初三睡到饱",
+      "onboard_time": 1707693079,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1701908,
       "num": 1701908,
       "word": "爸爸去哪儿阿拉蕾长大了",
@@ -73,6 +81,14 @@
       "onboard_time": 1707643772,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1506976,
+      "num": 1506976,
+      "word": "董力阿拉蕾",
+      "onboard_time": 1707696750,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1496068,
@@ -187,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1148953,
+      "num": 1148953,
+      "word": "演员王东回应妻子在救助站过年",
+      "onboard_time": 1707696628,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1148599,
       "num": 1148599,
       "word": "贾玲最轻时体重109.2斤",
@@ -209,6 +233,14 @@
       "onboard_time": 1707623668,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1116811,
+      "num": 1116811,
+      "word": "压岁钱200元拿不出手最低600",
+      "onboard_time": 1707695665,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103940,
@@ -265,6 +297,14 @@
       "onboard_time": 1707664114,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 953686,
+      "num": 953686,
+      "word": "天妒英才",
+      "onboard_time": 1707697887,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 951248,
@@ -347,12 +387,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 804610,
+      "num": 804610,
+      "word": "基普图姆去世",
+      "onboard_time": 1707694886,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 803889,
       "num": 803889,
       "word": "尼格买提下次春晚演小品吧",
       "onboard_time": 1707624689,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 760479,
+      "num": 760479,
+      "word": "沈凌 贾玲用命在搏热辣滚烫",
+      "onboard_time": 1707696566,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 758832,
@@ -465,6 +521,14 @@
       "onboard_time": 1707648753,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663844,
+      "num": 360897,
+      "word": "贾玲的苹果原则",
+      "onboard_time": 1707697648,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 658746,
@@ -636,7 +700,7 @@
     },
     {
       "raw_hot": 501922,
-      "num": 147943,
+      "num": 358374,
       "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
       "onboard_time": 1707668070,
       "rank": 39,
@@ -707,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 482280,
-      "num": 482280,
-      "word": "大年初三睡到饱",
-      "onboard_time": 1707693079,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480723,
       "num": 335456,
       "word": "妈妈也算是生儿育女了",
@@ -777,6 +833,14 @@
       "onboard_time": 1707555696,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 441948,
+      "num": 359696,
+      "word": "别让肝脏变得黏糊糊",
+      "onboard_time": 1707695906,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 437333,
@@ -899,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357782,
+      "num": 357782,
+      "word": "吴佩慈近照",
+      "onboard_time": 1707695483,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354615,
       "num": 354615,
       "word": "经常喝碳酸饮料会影响消化功能",
       "onboard_time": 1707658172,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 349275,
+      "num": 349275,
+      "word": "超级碗",
+      "onboard_time": 1707694762,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 345592,
@@ -995,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326248,
+      "num": 326248,
+      "word": "美国春晚",
+      "onboard_time": 1707699990,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -1068,7 +1156,7 @@
     },
     {
       "raw_hot": 300254,
-      "num": 134203,
+      "num": 278132,
       "word": "全村小孩挨家挨户拜年大人封2元利是",
       "onboard_time": 1707685217,
       "rank": 36,
@@ -1107,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290776,
+      "num": 290776,
+      "word": "巴西奥运男足无缘巴黎奥运会",
+      "onboard_time": 1707699087,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286928,
       "num": 254256,
       "word": "把姐姐爆改成甜妹",
@@ -1139,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281214,
+      "num": 281214,
+      "word": "大年初三主打一个好好休息",
+      "onboard_time": 1707699087,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278266,
       "num": 278266,
       "word": "飞驰人生2比1好看",
@@ -1160,6 +1264,14 @@
       "word": "男子下车就被侄女请去掌勺年夜饭",
       "onboard_time": 1707613950,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269957,
+      "num": 269957,
+      "word": "警方回应男子跨省遗弃亲生父亲",
+      "onboard_time": 1707696988,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1228,7 +1340,7 @@
     },
     {
       "raw_hot": 250933,
-      "num": 204282,
+      "num": 227741,
       "word": "单独饲养的魔鬼鱼莫名怀孕",
       "onboard_time": 1707663635,
       "rank": 30,
@@ -1643,12 +1755,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203161,
+      "num": 203161,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1707695184,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200520,
       "num": 200520,
       "word": "第二十条发出灵魂追问",
       "onboard_time": 1707621452,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199566,
+      "num": 199566,
+      "word": "詹姆斯霉霉观战超级碗",
+      "onboard_time": 1707698070,
+      "rank": 25,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 199170,
@@ -1747,6 +1875,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187749,
+      "num": 187749,
+      "word": "李银河 再一次被贾玲感动",
+      "onboard_time": 1707697648,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187270,
+      "num": 187270,
+      "word": "死侍3首支预告",
+      "onboard_time": 1707699990,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186743,
       "num": 186743,
       "word": "戴金丝眼镜的周深",
@@ -1785,6 +1929,14 @@
       "onboard_time": 1707645332,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181975,
+      "num": 181975,
+      "word": "马丽雷佳音承包笑点",
+      "onboard_time": 1707698909,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 180811,
@@ -1849,6 +2001,14 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177366,
+      "num": 177366,
+      "word": "赵丽颖做到了",
+      "onboard_time": 1707699269,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 176137,
@@ -2051,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157826,
+      "num": 157826,
+      "word": "中国男子游泳队接力夺冠",
+      "onboard_time": 1707698130,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157544,
       "num": 157544,
       "word": "肖战希望好好工作和多陪家人",
@@ -2105,6 +2273,14 @@
       "onboard_time": 1707639271,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154154,
+      "num": 154154,
+      "word": "基普图姆 马拉松世界纪录保持者",
+      "onboard_time": 1707698188,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 153495,
@@ -2187,12 +2363,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149295,
+      "num": 149295,
+      "word": "男子跨省遗弃亲生父亲被刑拘",
+      "onboard_time": 1707696026,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148741,
       "num": 199719,
       "word": "没想到三星堆和戏曲能这么搭",
       "onboard_time": 1707635912,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148492,
+      "num": 148492,
+      "word": "王者小龙糕",
+      "onboard_time": 1707696266,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 148036,
@@ -2339,6 +2531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138066,
+      "num": 138066,
+      "word": "梅西超级碗广告",
+      "onboard_time": 1707700230,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136514,
       "num": 162549,
       "word": "中国女篮vs波多黎各女篮",
@@ -2435,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127115,
+      "num": 127115,
+      "word": "春节社交潜规则",
+      "onboard_time": 1707700112,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126156,
       "num": 126156,
       "word": "春晚广告好多",
@@ -2451,12 +2659,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125304,
+      "num": 125304,
+      "word": "酋长49人争夺超级碗",
+      "onboard_time": 1707699087,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124523,
       "num": 127018,
       "word": "杨舒予巴黎见",
       "onboard_time": 1707664654,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124323,
+      "num": 124323,
+      "word": "北方人开始蒸煮煎炸花式吃饺子",
+      "onboard_time": 1707698070,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 123617,
+      "num": 123617,
+      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
+      "onboard_time": 1707680417,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 123155,
@@ -2523,6 +2755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117980,
+      "num": 117980,
+      "word": "女子看完热辣滚烫全家减肥总动员",
+      "onboard_time": 1707689356,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116613,
       "num": 116613,
       "word": "沈月vlog",
@@ -2579,6 +2819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112161,
+      "num": 112161,
+      "word": "体贴在帅气面前不值一提",
+      "onboard_time": 1707697588,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110965,
       "num": 110965,
       "word": "非遗过大年",
@@ -2593,6 +2841,14 @@
       "onboard_time": 1707633931,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110165,
+      "num": 110165,
+      "word": "emoji上加蝴蝶结",
+      "onboard_time": 1707699751,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 110004,
@@ -2633,14 +2889,6 @@
       "onboard_time": 1707648691,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103590,
-      "num": 103590,
-      "word": "刘涛说现实中胡歌陈龙和繁花反差大",
-      "onboard_time": 1707680417,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 101229,
@@ -2809,14 +3057,6 @@
       "onboard_time": 1707607161,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72876,
-      "num": 72876,
-      "word": "女子看完热辣滚烫全家减肥总动员",
-      "onboard_time": 1707689356,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 72526,
