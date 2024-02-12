@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707770049379,
+  "endTime": 1707772478260,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44801,
+      "num": 27472,
+      "word": "原生家庭不好的人真的很害怕过年",
+      "onboard_time": 1707769936,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31573,
       "num": 29623,
       "word": "贾玲回眸",
@@ -467,11 +475,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 12495,
-      "num": 19713,
-      "word": "原生家庭不好的人真的很害怕过年",
-      "onboard_time": 1707769936,
-      "rank": 49,
+      "raw_hot": 13959,
+      "num": 16959,
+      "word": "你说的睡了也是这样吧",
+      "onboard_time": 1707771976,
+      "rank": 46,
       "category": "情感"
     },
     {

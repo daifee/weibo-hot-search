@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707770049379,
+  "endTime": 1707772478260,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -33275,6 +33275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44801,
+      "num": 27472,
+      "word": "原生家庭不好的人真的很害怕过年",
+      "onboard_time": 1707769936,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44764,
       "num": 44764,
       "word": "雷军也玩cosplay",
@@ -34515,6 +34523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 13959,
+      "num": 16959,
+      "word": "你说的睡了也是这样吧",
+      "onboard_time": 1707771976,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13876,
       "num": 16236,
       "word": "许凯说胡歌是颜霸",
@@ -34585,14 +34601,6 @@
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12495,
-      "num": 19713,
-      "word": "原生家庭不好的人真的很害怕过年",
-      "onboard_time": 1707769936,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 12415,
