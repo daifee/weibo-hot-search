@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707705264593,
+  "endTime": 1707707880357,
   "band_list": [
     {
       "raw_hot": 2085286,
@@ -9,6 +9,14 @@
       "onboard_time": 1707699990,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1954204,
+      "num": 1954204,
+      "word": "小尼的失误被警方当成典型案例了",
+      "onboard_time": 1707706590,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1795940,
@@ -27,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1539471,
-      "num": 1539471,
+      "raw_hot": 1643531,
+      "num": 1643531,
       "word": "甜馨晒压岁钱",
       "onboard_time": 1707702629,
       "rank": 8,
@@ -49,6 +57,14 @@
       "onboard_time": 1707702751,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1183156,
+      "num": 1183156,
+      "word": "贾玲建议女生朋友关注当下远离糟心事",
+      "onboard_time": 1707705391,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1148953,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752645,
+      "num": 752645,
+      "word": "白敬亭春晚",
+      "onboard_time": 1707703111,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697657,
       "num": 544123,
       "word": "刘能儿子",
@@ -155,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611003,
+      "num": 490802,
+      "word": "华春莹发了迪丽热巴春晚舞台相关",
+      "onboard_time": 1707706530,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
       "onboard_time": 1707665912,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604989,
-      "num": 604989,
-      "word": "白敬亭春晚",
-      "onboard_time": 1707703111,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 586999,
@@ -188,11 +212,19 @@
     },
     {
       "raw_hot": 555030,
-      "num": 269903,
+      "num": 283326,
       "word": "睡觉嘴巴总发干或是3种疾病",
       "onboard_time": 1707702209,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 520176,
+      "num": 520176,
+      "word": "春山学",
+      "onboard_time": 1707705451,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 501922,
@@ -259,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374229,
+      "num": 374229,
+      "word": "原来他就是刘耀文啊",
+      "onboard_time": 1707705031,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357782,
       "num": 357782,
       "word": "吴佩慈近照",
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 335909,
-      "num": 254895,
+      "num": 280212,
       "word": "这届年轻人真的不想结婚吗",
       "onboard_time": 1707703769,
       "rank": 22,
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296624,
+      "num": 296624,
+      "word": "听障粉丝见赵丽颖激动落泪",
+      "onboard_time": 1707707312,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 289223,
       "num": 289223,
       "word": "热辣滚烫单日票房冠军",
@@ -337,6 +385,14 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 284562,
+      "num": 284562,
+      "word": "上帝怕人类跑进两小时",
+      "onboard_time": 1707705932,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 277783,
@@ -451,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225766,
+      "num": 225766,
+      "word": "潘展乐46秒80",
+      "onboard_time": 1707706829,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217740,
       "num": 217740,
       "word": "飞驰人生2 好看",
@@ -465,6 +529,14 @@
       "onboard_time": 1707629791,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210399,
+      "num": 210399,
+      "word": "8只基金吸金3770亿元",
+      "onboard_time": 1707705990,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 205684,
@@ -643,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147842,
+      "num": 147842,
+      "word": "飞驰人生2插曲泪目了",
+      "onboard_time": 1707707554,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146891,
       "num": 146891,
       "word": "第二十条 正当防卫",
@@ -667,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141677,
+      "num": 141677,
+      "word": "游本昌回应90多岁又红了",
+      "onboard_time": 1707707432,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137374,
       "num": 137374,
       "word": "地缘位置最好的10个国家",
       "onboard_time": 1707704849,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 136171,
+      "num": 136171,
+      "word": "i人拜年时躲亲戚行为大赏",
+      "onboard_time": 1707707191,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 134292,
@@ -727,14 +823,6 @@
       "num": 119991,
       "word": "马丽演技",
       "onboard_time": 1707651032,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 126517,
-      "num": 126517,
-      "word": "原来他就是刘耀文啊",
-      "onboard_time": 1707705031,
       "rank": 40,
       "category": "电影"
     },
@@ -809,6 +897,14 @@
       "onboard_time": 1707660214,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118845,
+      "num": 118845,
+      "word": "潘展乐赛后采访喜剧人上线",
+      "onboard_time": 1707706352,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 118837,
@@ -928,6 +1024,14 @@
       "word": "老人门前空地被儿女归来的车填满",
       "onboard_time": 1707667950,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57466,
+      "num": 1240833,
+      "word": "我与家人合个影",
+      "onboard_time": 1707707012,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
