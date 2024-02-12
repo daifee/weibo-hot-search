@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707711648255,
+  "endTime": 1707712472988,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953864,
+      "num": 551927,
+      "word": "刘敏涛女儿",
+      "onboard_time": 1707708812,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953686,
       "num": 953686,
       "word": "天妒英才",
@@ -409,6 +417,14 @@
       "onboard_time": 1707624930,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 886328,
+      "num": 886328,
+      "word": "银行盯上了孩子压岁钱",
+      "onboard_time": 1707708452,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862534,
@@ -475,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 753211,
-      "num": 551927,
-      "word": "刘敏涛女儿",
-      "onboard_time": 1707708812,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 752645,
       "num": 752645,
       "word": "白敬亭春晚",
@@ -545,14 +553,6 @@
       "onboard_time": 1707642151,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 705202,
-      "num": 705202,
-      "word": "银行盯上了孩子压岁钱",
-      "onboard_time": 1707708452,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700386,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488995,
+      "num": 488995,
+      "word": "张小斐 最后乐丹望向擂台的眼神",
+      "onboard_time": 1707710309,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 488445,
       "num": 488445,
       "word": "杨超越 医保不治恋爱脑",
@@ -1035,14 +1043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 405759,
-      "num": 405759,
-      "word": "张小斐 最后乐丹望向擂台的眼神",
-      "onboard_time": 1707710309,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 405549,
       "num": 405549,
       "word": "巴西奥运男足无缘巴黎奥运会",
@@ -1065,6 +1065,14 @@
       "onboard_time": 1707699087,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399454,
+      "num": 399454,
+      "word": "贾玲下一部电影",
+      "onboard_time": 1707708572,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 398044,
@@ -1136,14 +1144,6 @@
       "word": "听障粉丝见赵丽颖激动落泪",
       "onboard_time": 1707707312,
       "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 359671,
-      "num": 359671,
-      "word": "贾玲下一部电影",
-      "onboard_time": 1707708572,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -1339,12 +1339,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308112,
+      "num": 308112,
+      "word": "小伙开兰博基尼回村出事故撞报废",
+      "onboard_time": 1707711389,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307519,
       "num": 307519,
       "word": "王一博龙拳一开口自带buff",
       "onboard_time": 1707653672,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303250,
+      "num": 237410,
+      "word": "可乐喝多了身体会发生什么",
+      "onboard_time": 1707710731,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300254,
@@ -1633,14 +1649,6 @@
       "onboard_time": 1707622471,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237410,
-      "num": 237410,
-      "word": "可乐喝多了身体会发生什么",
-      "onboard_time": 1707710731,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 236104,
@@ -2059,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196684,
+      "num": 196684,
+      "word": "马霍姆斯太牛了",
+      "onboard_time": 1707711451,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195655,
       "num": 195655,
       "word": "普通人变优秀最直接的方法",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1707637891,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183807,
-      "num": 183807,
-      "word": "马霍姆斯太牛了",
-      "onboard_time": 1707711451,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 182715,
@@ -2955,14 +2963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132294,
-      "num": 132294,
-      "word": "小伙开兰博基尼回村出事故撞报废",
-      "onboard_time": 1707711389,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132256,
       "num": 131615,
       "word": "你看不见她们的付出就请闭嘴",
@@ -3451,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86727,
+      "num": 1255878,
+      "word": "晒晒我家的年味",
+      "onboard_time": 1707708275,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85972,
       "num": 93069,
       "word": "世界之外 接通了",
@@ -3505,14 +3513,6 @@
       "onboard_time": 1707607161,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76541,
-      "num": 1255878,
-      "word": "晒晒我家的年味",
-      "onboard_time": 1707708275,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72526,
