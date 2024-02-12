@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707752057976,
+  "endTime": 1707754945525,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -449,6 +449,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5362207,
+      "num": 5362207,
+      "word": "白敬亭口碑",
+      "onboard_time": 1707753870,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 5335912,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706855372,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1956784,
-      "num": 1956784,
-      "word": "尼格买提问春晚还要重播几次",
-      "onboard_time": 1707733828,
-      "rank": 15,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
