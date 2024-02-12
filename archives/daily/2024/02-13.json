@@ -1,10 +1,10 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707754945525,
+  "endTime": 1707755806643,
   "band_list": [
     {
-      "raw_hot": 5362207,
-      "num": 5362207,
+      "raw_hot": 5941771,
+      "num": 5941771,
       "word": "白敬亭口碑",
       "onboard_time": 1707753870,
       "rank": 0,
@@ -27,7 +27,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 808884,
+      "raw_hot": 821768,
       "num": 808884,
       "word": "糖送八大家是什么梗",
       "onboard_time": 1707745475,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 646135,
+      "raw_hot": 668031,
       "num": 646135,
       "word": "金晨对白敬亭的初印象和现印象",
       "onboard_time": 1707734914,
@@ -59,20 +59,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 563940,
-      "num": 443716,
-      "word": "贾玲为了不让观众掏手机有多努力",
-      "onboard_time": 1707744534,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 558835,
-      "num": 440568,
+      "raw_hot": 586540,
+      "num": 586540,
       "word": "魏大勋临场反应",
       "onboard_time": 1707730712,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 563940,
+      "num": 535079,
+      "word": "贾玲为了不让观众掏手机有多努力",
+      "onboard_time": 1707744534,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 498042,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493297,
+      "num": 417788,
+      "word": "主持人王宁",
+      "onboard_time": 1707734134,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479646,
       "num": 426334,
       "word": "大导演和她捧红的影后",
       "onboard_time": 1707740793,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 477645,
-      "num": 417788,
-      "word": "主持人王宁",
-      "onboard_time": 1707734134,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 454287,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344559,
+      "num": 344559,
+      "word": "飞驰2破十亿全员玩失忆",
+      "onboard_time": 1707742474,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321353,
       "num": 321353,
       "word": "上春山 好听",
@@ -131,16 +139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313456,
-      "num": 313456,
-      "word": "飞驰2破十亿全员玩失忆",
-      "onboard_time": 1707742474,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 289079,
-      "num": 289079,
+      "raw_hot": 298125,
+      "num": 298125,
       "word": "央视文艺回复尼格买提",
       "onboard_time": 1707741392,
       "rank": 18,
@@ -163,7 +163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233523,
+      "raw_hot": 249074,
       "num": 233523,
       "word": "贾玲说李雪琴和乔杉拍卧室戏很大胆",
       "onboard_time": 1707753631,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119223,
+      "num": 119223,
+      "word": "第二十条",
+      "onboard_time": 1707745959,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116539,
       "num": 116539,
       "word": "男朋友走亲戚走崩溃了",
@@ -336,14 +344,6 @@
       "word": "贾玲谈海边穿晚礼服拍摄幕后",
       "onboard_time": 1707747396,
       "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 111762,
-      "num": 111762,
-      "word": "第二十条",
-      "onboard_time": 1707745959,
-      "rank": 44,
       "category": "电影"
     },
     {
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104073,
+      "num": 104073,
+      "word": "贾玲 时尚芭莎",
+      "onboard_time": 1707729810,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 97218,
       "num": 97218,
       "word": "斐玲",
@@ -379,8 +387,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91506,
-      "num": 91506,
+      "raw_hot": 95329,
+      "num": 95329,
       "word": "光与夜之恋",
       "onboard_time": 1707744274,
       "rank": 49,
@@ -393,6 +401,14 @@
       "onboard_time": 1707740551,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 91016,
+      "num": 91016,
+      "word": "用一年换8次出场",
+      "onboard_time": 1707755552,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 12077,
