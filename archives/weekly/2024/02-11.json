@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707700302583,
+  "endTime": 1707701451191,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -97,6 +97,14 @@
       "onboard_time": 1707626011,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1473240,
+      "num": 1473240,
+      "word": "美国春晚",
+      "onboard_time": 1707699990,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1399880,
@@ -403,8 +411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 760479,
-      "num": 760479,
+      "raw_hot": 792125,
+      "num": 792125,
       "word": "沈凌 贾玲用命在搏热辣滚烫",
       "onboard_time": 1707696566,
       "rank": 7,
@@ -523,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663844,
-      "num": 360897,
+      "raw_hot": 666412,
+      "num": 666412,
       "word": "贾玲的苹果原则",
       "onboard_time": 1707697648,
       "rank": 10,
@@ -633,6 +641,14 @@
       "onboard_time": 1707647012,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 563199,
+      "num": 533384,
+      "word": "梅西超级碗广告",
+      "onboard_time": 1707700230,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 562939,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 441948,
-      "num": 359696,
+      "num": 382989,
       "word": "别让肝脏变得黏糊糊",
       "onboard_time": 1707695906,
       "rank": 11,
@@ -899,11 +915,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 405549,
+      "num": 405549,
+      "word": "巴西奥运男足无缘巴黎奥运会",
+      "onboard_time": 1707699087,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402418,
       "num": 258568,
       "word": "西班牙2未成年养子合谋弑母",
       "onboard_time": 1707616886,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401632,
+      "num": 401632,
+      "word": "大年初三主打一个好好休息",
+      "onboard_time": 1707699087,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1075,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326248,
-      "num": 326248,
-      "word": "美国春晚",
-      "onboard_time": 1707699990,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -1195,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290776,
-      "num": 290776,
-      "word": "巴西奥运男足无缘巴黎奥运会",
-      "onboard_time": 1707699087,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 286928,
       "num": 254256,
       "word": "把姐姐爆改成甜妹",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1707625469,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281214,
-      "num": 281214,
-      "word": "大年初三主打一个好好休息",
-      "onboard_time": 1707699087,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278266,
@@ -1435,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235975,
+      "num": 235975,
+      "word": "春节社交潜规则",
+      "onboard_time": 1707700112,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235772,
       "num": 235772,
       "word": "北大学子揭秘刘谦魔术",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1707644551,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227664,
+      "num": 227664,
+      "word": "赵丽颖做到了",
+      "onboard_time": 1707699269,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 225556,
@@ -1731,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205684,
+      "num": 205684,
+      "word": "詹姆斯霉霉观战超级碗",
+      "onboard_time": 1707698070,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 205516,
       "num": 205516,
       "word": "小尼手里到底剩了两张什么扑克牌",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1707621452,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199566,
-      "num": 199566,
-      "word": "詹姆斯霉霉观战超级碗",
-      "onboard_time": 1707698070,
-      "rank": 25,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 199170,
@@ -2001,14 +2025,6 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177366,
-      "num": 177366,
-      "word": "赵丽颖做到了",
-      "onboard_time": 1707699269,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 176137,
@@ -2291,6 +2307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153363,
+      "num": 153363,
+      "word": "ITZY出道五周年",
+      "onboard_time": 1707700350,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153196,
+      "num": 153196,
+      "word": "王者小龙糕",
+      "onboard_time": 1707696266,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152951,
       "num": 152951,
       "word": "我最崇拜的人是我自己",
@@ -2377,14 +2409,6 @@
       "onboard_time": 1707635912,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148492,
-      "num": 148492,
-      "word": "王者小龙糕",
-      "onboard_time": 1707696266,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 148036,
@@ -2531,14 +2555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138066,
-      "num": 138066,
-      "word": "梅西超级碗广告",
-      "onboard_time": 1707700230,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136514,
       "num": 162549,
       "word": "中国女篮vs波多黎各女篮",
@@ -2635,14 +2651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127115,
-      "num": 127115,
-      "word": "春节社交潜规则",
-      "onboard_time": 1707700112,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126156,
       "num": 126156,
       "word": "春晚广告好多",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1707698070,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123893,
+      "num": 123893,
+      "word": "广东习俗结婚的要给没结婚的红包",
+      "onboard_time": 1707701248,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 123617,
@@ -2731,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119999,
+      "num": 119999,
+      "word": "女子看完热辣滚烫全家减肥总动员",
+      "onboard_time": 1707689356,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119892,
       "num": 119892,
       "word": "卡塔尔队蝉联亚洲杯冠军",
@@ -2753,14 +2777,6 @@
       "onboard_time": 1707649174,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117980,
-      "num": 117980,
-      "word": "女子看完热辣滚烫全家减肥总动员",
-      "onboard_time": 1707689356,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 116613,

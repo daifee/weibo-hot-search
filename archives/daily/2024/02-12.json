@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707700302583,
+  "endTime": 1707701451191,
   "band_list": [
     {
       "raw_hot": 1795940,
@@ -25,6 +25,14 @@
       "onboard_time": 1707696750,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1473240,
+      "num": 1473240,
+      "word": "美国春晚",
+      "onboard_time": 1707699990,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1148953,
@@ -75,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 792125,
+      "num": 792125,
+      "word": "沈凌 贾玲用命在搏热辣滚烫",
+      "onboard_time": 1707696566,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 762609,
       "num": 762609,
       "word": "张一山随地扔烟头",
@@ -83,16 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 760479,
-      "num": 760479,
-      "word": "沈凌 贾玲用命在搏热辣滚烫",
-      "onboard_time": 1707696566,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 663844,
-      "num": 360897,
+      "raw_hot": 666412,
+      "num": 666412,
       "word": "贾玲的苹果原则",
       "onboard_time": 1707697648,
       "rank": 10,
@@ -123,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 563199,
+      "num": 533384,
+      "word": "梅西超级碗广告",
+      "onboard_time": 1707700230,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501922,
       "num": 358374,
       "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 441948,
-      "num": 359696,
+      "num": 382989,
       "word": "别让肝脏变得黏糊糊",
       "onboard_time": 1707695906,
       "rank": 11,
@@ -153,6 +169,22 @@
       "onboard_time": 1707661831,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 405549,
+      "num": 405549,
+      "word": "巴西奥运男足无缘巴黎奥运会",
+      "onboard_time": 1707699087,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 401632,
+      "num": 401632,
+      "word": "大年初三主打一个好好休息",
+      "onboard_time": 1707699087,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384070,
@@ -211,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 326248,
-      "num": 326248,
-      "word": "美国春晚",
-      "onboard_time": 1707699990,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322789,
       "num": 322789,
       "word": "大年初三",
@@ -235,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290776,
-      "num": 290776,
-      "word": "巴西奥运男足无缘巴黎奥运会",
-      "onboard_time": 1707699087,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289223,
       "num": 289223,
       "word": "热辣滚烫单日票房冠军",
@@ -257,14 +273,6 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 281214,
-      "num": 281214,
-      "word": "大年初三主打一个好好休息",
-      "onboard_time": 1707699087,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277783,
@@ -315,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235975,
+      "num": 235975,
+      "word": "春节社交潜规则",
+      "onboard_time": 1707700112,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235215,
       "num": 235215,
       "word": "贾玲称过去一年不快乐但值得",
@@ -339,6 +355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 227664,
+      "num": 227664,
+      "word": "赵丽颖做到了",
+      "onboard_time": 1707699269,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217740,
       "num": 217740,
       "word": "飞驰人生2 好看",
@@ -355,20 +379,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205684,
+      "num": 205684,
+      "word": "詹姆斯霉霉观战超级碗",
+      "onboard_time": 1707698070,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 203161,
       "num": 203161,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1707695184,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199566,
-      "num": 199566,
-      "word": "詹姆斯霉霉观战超级碗",
-      "onboard_time": 1707698070,
-      "rank": 25,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 197848,
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177366,
-      "num": 177366,
-      "word": "赵丽颖做到了",
-      "onboard_time": 1707699269,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159944,
       "num": 217953,
       "word": "尼日利亚金融大佬一家三口坠机身亡",
@@ -467,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153363,
+      "num": 153363,
+      "word": "ITZY出道五周年",
+      "onboard_time": 1707700350,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153314,
       "num": 153314,
       "word": "陈楚生我等待的舞台",
       "onboard_time": 1707664654,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153196,
+      "num": 153196,
+      "word": "王者小龙糕",
+      "onboard_time": 1707696266,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 152808,
@@ -507,14 +539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148492,
-      "num": 148492,
-      "word": "王者小龙糕",
-      "onboard_time": 1707696266,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 144028,
       "num": 144028,
       "word": "游客到西安一出站就被巨型花灯震撼",
@@ -529,14 +553,6 @@
       "onboard_time": 1707668907,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138066,
-      "num": 138066,
-      "word": "梅西超级碗广告",
-      "onboard_time": 1707700230,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 128038,
@@ -555,14 +571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127115,
-      "num": 127115,
-      "word": "春节社交潜规则",
-      "onboard_time": 1707700112,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125304,
       "num": 125304,
       "word": "酋长49人争夺超级碗",
@@ -577,6 +585,14 @@
       "onboard_time": 1707698070,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123893,
+      "num": 123893,
+      "word": "广东习俗结婚的要给没结婚的红包",
+      "onboard_time": 1707701248,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 123617,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119999,
+      "num": 119999,
+      "word": "女子看完热辣滚烫全家减肥总动员",
+      "onboard_time": 1707689356,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119506,
       "num": 119506,
       "word": "大年初二全家最高礼仪迎接女婿",
@@ -608,14 +632,6 @@
       "word": "贾玲在拳击台上是真的挨打",
       "onboard_time": 1707626789,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 117980,
-      "num": 117980,
-      "word": "女子看完热辣滚烫全家减肥总动员",
-      "onboard_time": 1707689356,
-      "rank": 48,
       "category": "电影"
     },
     {
@@ -827,20 +843,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 13065,
+      "num": 1412086,
+      "word": "全球同庆中国年",
+      "onboard_time": 1707621812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12415,
       "num": 16615,
       "word": "10句话教你反催婚",
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10166,
-      "num": 1150011,
-      "word": "全球同庆中国年",
-      "onboard_time": 1707621812,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
