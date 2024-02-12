@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707729496749,
+  "endTime": 1707730458679,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -57,6 +57,14 @@
       "onboard_time": 1707702629,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1635463,
+      "num": 1635463,
+      "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
+      "onboard_time": 1707728494,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1506976,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1020474,
-      "num": 1020474,
-      "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
-      "onboard_time": 1707728494,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 994720,
       "num": 994720,
       "word": "贾玲首次线下公开露面",
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 715045,
-      "num": 274386,
+      "num": 285100,
       "word": "美国妈妈将女儿放烤箱烤死",
       "onboard_time": 1707714452,
       "rank": 30,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596364,
+      "num": 366945,
+      "word": "贾玲 时尚芭莎",
+      "onboard_time": 1707729810,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 586999,
       "num": 343599,
       "word": "杨紫 终于让我逮着机会演坏人了",
@@ -409,6 +417,14 @@
       "onboard_time": 1707702209,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 534611,
+      "num": 363268,
+      "word": "偶遇沈腾一家三口",
+      "onboard_time": 1707729274,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 529818,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462592,
+      "num": 462592,
+      "word": "要到初四了得懂事点",
+      "onboard_time": 1707728793,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456607,
       "num": 456607,
       "word": "章若楠春晚上场前10分钟",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 441121,
-      "num": 358115,
+      "num": 363060,
       "word": "斐玲同框",
       "onboard_time": 1707726570,
       "rank": 27,
@@ -667,12 +691,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 322284,
-      "num": 165261,
-      "word": "要到初四了得懂事点",
-      "onboard_time": 1707728793,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 313337,
+      "num": 313337,
+      "word": "贾玲全球独立执导女性导演票房第二",
+      "onboard_time": 1707729810,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 303250,
@@ -745,6 +769,14 @@
       "onboard_time": 1707660214,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277624,
+      "num": 277624,
+      "word": "叶子咬住了花花的大脸",
+      "onboard_time": 1707728612,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271325,
@@ -827,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244003,
+      "num": 244003,
+      "word": "热辣滚烫 不是减肥的故事",
+      "onboard_time": 1707729152,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "春节社交潜规则",
@@ -849,6 +889,14 @@
       "onboard_time": 1707703467,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237900,
+      "num": 237900,
+      "word": "摔炮的风还是吹到了伦敦",
+      "onboard_time": 1707728734,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 235215,
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 212249,
-      "num": 212249,
+      "num": 289226,
       "word": "女孩行李太重民警抄起就走俩人表情亮了",
       "onboard_time": 1707719369,
       "rank": 49,
@@ -1091,14 +1139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185758,
-      "num": 185758,
-      "word": "热辣滚烫 不是减肥的故事",
-      "onboard_time": 1707729152,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185296,
       "num": 185296,
       "word": "终于明白为什么有人不想回家过年了",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1707726032,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 183553,
+      "num": 156101,
+      "word": "点外卖只点了一个菜",
+      "onboard_time": 1707730114,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 181975,
@@ -1161,22 +1209,6 @@
       "onboard_time": 1707704729,
       "rank": 29,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 171850,
-      "num": 171850,
-      "word": "偶遇沈腾一家三口",
-      "onboard_time": 1707729274,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 171506,
-      "num": 171506,
-      "word": "摔炮的风还是吹到了伦敦",
-      "onboard_time": 1707728734,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 168415,
@@ -1363,14 +1395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147713,
-      "num": 165404,
-      "word": "叶子咬住了花花的大脸",
-      "onboard_time": 1707728612,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146903,
       "num": 146903,
       "word": "酷酷的滕二大爷是刘伟驰",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1707726330,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145077,
+      "num": 145077,
+      "word": "刘耀文多喝奶茶",
+      "onboard_time": 1707729753,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 144899,
@@ -1771,6 +1803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114402,
+      "num": 114402,
+      "word": "王东",
+      "onboard_time": 1707730234,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113765,
       "num": 113765,
       "word": "重庆大雨全家福被改编成小品登上春晚",
@@ -2011,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23835,
+      "num": 1041682,
+      "word": "龙的形象最早出现在哪里",
+      "onboard_time": 1707647912,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20426,
       "num": 20426,
       "word": "我上春山约你来见",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1707676578,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16137,
-      "num": 1041682,
-      "word": "龙的形象最早出现在哪里",
-      "onboard_time": 1707647912,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14534,
