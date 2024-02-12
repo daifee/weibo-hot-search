@@ -1,7 +1,15 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707707880357,
+  "endTime": 1707708845356,
   "band_list": [
+    {
+      "raw_hot": 2449118,
+      "num": 2449118,
+      "word": "小尼的失误被警方当成典型案例了",
+      "onboard_time": 1707706590,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2085286,
       "num": 2085286,
@@ -9,14 +17,6 @@
       "onboard_time": 1707699990,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1954204,
-      "num": 1954204,
-      "word": "小尼的失误被警方当成典型案例了",
-      "onboard_time": 1707706590,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1795940,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693138,
+      "num": 693138,
+      "word": "华春莹发了迪丽热巴春晚舞台相关",
+      "onboard_time": 1707706530,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666412,
       "num": 666412,
       "word": "贾玲的苹果原则",
@@ -177,14 +185,6 @@
       "onboard_time": 1707633573,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611003,
-      "num": 490802,
-      "word": "华春莹发了迪丽热巴春晚舞台相关",
-      "onboard_time": 1707706530,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 608378,
@@ -219,8 +219,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 520176,
-      "num": 520176,
+      "raw_hot": 529818,
+      "num": 529818,
       "word": "春山学",
       "onboard_time": 1707705451,
       "rank": 9,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 360462,
+      "num": 360462,
+      "word": "听障粉丝见赵丽颖激动落泪",
+      "onboard_time": 1707707312,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357782,
       "num": 357782,
       "word": "吴佩慈近照",
@@ -363,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296624,
-      "num": 296624,
-      "word": "听障粉丝见赵丽颖激动落泪",
-      "onboard_time": 1707707312,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 289869,
+      "num": 252913,
+      "word": "银行盯上了孩子压岁钱",
+      "onboard_time": 1707708452,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289223,
@@ -555,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199251,
+      "num": 199251,
+      "word": "罗伯特 飞驰人生2自来水",
+      "onboard_time": 1707708093,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197848,
       "num": 197848,
       "word": "刘宇宁收到赵露思送的生日蛋糕",
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190610,
+      "num": 190610,
+      "word": "三年级小学生攒下70万压岁钱",
+      "onboard_time": 1707708275,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187749,
       "num": 187749,
       "word": "李银河 再一次被贾玲感动",
@@ -595,12 +619,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187187,
+      "num": 187187,
+      "word": "飞驰人生2插曲泪目了",
+      "onboard_time": 1707707554,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181975,
       "num": 181975,
       "word": "马丽雷佳音承包笑点",
       "onboard_time": 1707698909,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178754,
+      "num": 178754,
+      "word": "游本昌回应90多岁又红了",
+      "onboard_time": 1707707432,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 178258,
@@ -633,6 +673,14 @@
       "onboard_time": 1707698130,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155751,
+      "num": 155751,
+      "word": "贾玲下一部电影",
+      "onboard_time": 1707708572,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 154154,
@@ -715,14 +763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147842,
-      "num": 147842,
-      "word": "飞驰人生2插曲泪目了",
-      "onboard_time": 1707707554,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146891,
       "num": 146891,
       "word": "第二十条 正当防卫",
@@ -744,14 +784,6 @@
       "word": "吴磊你就宠赵今麦吧",
       "onboard_time": 1707668907,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141677,
-      "num": 141677,
-      "word": "游本昌回应90多岁又红了",
-      "onboard_time": 1707707432,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -875,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121208,
+      "num": 121208,
+      "word": "尼古拉斯凯奇对中国生肖挺着迷",
+      "onboard_time": 1707707973,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120132,
       "num": 120132,
       "word": "春节人设图鉴",
@@ -939,6 +979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108179,
+      "num": 108179,
+      "word": "张一帆王心迪包揽空中技巧冠亚军",
+      "onboard_time": 1707708213,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106392,
       "num": 106392,
       "word": "希望被人喜欢会让你变得软弱",
@@ -979,12 +1027,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 91641,
+      "num": 91641,
+      "word": "走亲戚如何先发制人",
+      "onboard_time": 1707707912,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89957,
       "num": 89957,
       "word": "8个好习惯让你越活越年轻",
       "onboard_time": 1707661896,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88482,
+      "num": 88482,
+      "word": "刘敏涛女儿",
+      "onboard_time": 1707708812,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 87570,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1707658172,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40864,
+      "num": 1255878,
+      "word": "晒晒我家的年味",
+      "onboard_time": 1707708275,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40843,
