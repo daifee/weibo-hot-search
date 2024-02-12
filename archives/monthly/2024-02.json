@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707736471168,
+  "endTime": 1707737703233,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -995,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1956784,
+      "num": 1956784,
+      "word": "尼格买提问春晚还要重播几次",
+      "onboard_time": 1707733828,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1949904,
       "num": 1949904,
       "word": "快递停运时间",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1707702629,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1639674,
-      "num": 1639674,
-      "word": "尼格买提问春晚还要重播几次",
-      "onboard_time": 1707733828,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1639551,
@@ -2083,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1316002,
+      "num": 1316002,
+      "word": "主持人王宁",
+      "onboard_time": 1707734134,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1309301,
       "num": 1309301,
       "word": "超4700只个股下跌",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1707015691,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1164851,
-      "num": 1164851,
-      "word": "主持人王宁",
-      "onboard_time": 1707734134,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 1164744,
@@ -3593,6 +3593,14 @@
       "onboard_time": 1707398914,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 953952,
+      "num": 953952,
+      "word": "马丽 拜托影院给第二十条多排片",
+      "onboard_time": 1707736112,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 953864,
@@ -4771,6 +4779,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 784693,
+      "num": 784693,
+      "word": "谢娜采访",
+      "onboard_time": 1707735092,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783929,
       "num": 783929,
       "word": "开房车女生被困高速借卫生间给女生",
@@ -4889,6 +4905,14 @@
       "onboard_time": 1707098370,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 770162,
+      "num": 770162,
+      "word": "金晨对白敬亭的初印象和现印象",
+      "onboard_time": 1707734914,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 769830,
@@ -6364,7 +6388,7 @@
     },
     {
       "raw_hot": 633048,
-      "num": 302351,
+      "num": 341448,
       "word": "三婚彩礼40万元村民认为一点不夸张",
       "onboard_time": 1707732632,
       "rank": 21,
@@ -7568,14 +7592,6 @@
       "word": "0713春晚后台也闲不住",
       "onboard_time": 1707402873,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 538624,
-      "num": 538624,
-      "word": "谢娜采访",
-      "onboard_time": 1707735092,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -9155,14 +9171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443538,
-      "num": 443538,
-      "word": "金晨对白敬亭的初印象和现印象",
-      "onboard_time": 1707734914,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443497,
       "num": 443497,
       "word": "川航一航班备降广州机场",
@@ -9201,6 +9209,14 @@
       "onboard_time": 1707193714,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 441678,
+      "num": 441678,
+      "word": "封神",
+      "onboard_time": 1707737492,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 441436,
@@ -10203,6 +10219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395999,
+      "num": 339694,
+      "word": "女孩1988年就收到400块压岁钱了",
+      "onboard_time": 1707734491,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395940,
       "num": 672183,
       "word": "花花",
@@ -10499,6 +10523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 384422,
+      "num": 384422,
+      "word": "貂蝉吕布情限皮肤",
+      "onboard_time": 1707733172,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383397,
       "num": 383397,
       "word": "马斯克宣布更改特斯拉注册地",
@@ -10521,6 +10553,14 @@
       "onboard_time": 1707029067,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382796,
+      "num": 642148,
+      "word": "拜登竞选团队入驻TikTok",
+      "onboard_time": 1707735335,
+      "rank": 19,
+      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 382726,
@@ -10577,6 +10617,14 @@
       "onboard_time": 1706710354,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380507,
+      "num": 380507,
+      "word": "第二十条女主",
+      "onboard_time": 1707736716,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 378939,
@@ -10665,6 +10713,14 @@
       "onboard_time": 1706711614,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376043,
+      "num": 376043,
+      "word": "希林娜依高 她是乐莹也是我自己",
+      "onboard_time": 1707734672,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 375557,
@@ -11049,14 +11105,6 @@
       "onboard_time": 1707013651,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362250,
-      "num": 362250,
-      "word": "貂蝉吕布情限皮肤",
-      "onboard_time": 1707733172,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 361936,
@@ -11907,14 +11955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329572,
-      "num": 253199,
-      "word": "希林娜依高 她是乐莹也是我自己",
-      "onboard_time": 1707734672,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 329532,
       "num": 329532,
       "word": "库里太牛了",
@@ -12217,14 +12257,6 @@
       "onboard_time": 1707362610,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320427,
-      "num": 252271,
-      "word": "女孩1988年就收到400块压岁钱了",
-      "onboard_time": 1707734491,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320167,
@@ -14675,14 +14707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258938,
-      "num": 258938,
-      "word": "拜登竞选团队入驻TikTok",
-      "onboard_time": 1707735335,
-      "rank": 19,
-      "category": "国外时政,互联网"
-    },
-    {
       "raw_hot": 258647,
       "num": 224507,
       "word": "马思纯泳装",
@@ -15099,6 +15123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252434,
+      "num": 252434,
+      "word": "尼格买提回新疆陪爸妈了",
+      "onboard_time": 1707737255,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252362,
       "num": 252362,
       "word": "同事大年三十的值班要和我换",
@@ -15291,14 +15323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248606,
-      "num": 248606,
-      "word": "马丽 拜托影院给第二十条多排片",
-      "onboard_time": 1707736112,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 248483,
       "num": 248483,
       "word": "已经有一批回家的人又逃回去了",
@@ -15481,6 +15505,14 @@
       "onboard_time": 1706699490,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245062,
+      "num": 245062,
+      "word": "辛芷蕾拍了3年繁花前2年很茫然",
+      "onboard_time": 1707736053,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 244914,
@@ -17865,6 +17897,14 @@
       "onboard_time": 1707056674,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211723,
+      "num": 211723,
+      "word": "薛之谦新歌",
+      "onboard_time": 1707737374,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 211641,
@@ -20817,6 +20857,14 @@
       "onboard_time": 1706951850,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187361,
+      "num": 187361,
+      "word": "摇太阳排片",
+      "onboard_time": 1707736652,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 187319,
@@ -23985,14 +24033,6 @@
       "onboard_time": 1706780251,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158784,
-      "num": 158784,
-      "word": "辛芷蕾拍了3年繁花前2年很茫然",
-      "onboard_time": 1707736053,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 158779,
@@ -30001,6 +30041,14 @@
       "onboard_time": 1706785472,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112504,
+      "num": 112504,
+      "word": "我表弟写的寒假作业",
+      "onboard_time": 1707737675,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112456,

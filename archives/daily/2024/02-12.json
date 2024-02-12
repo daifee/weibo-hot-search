@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707736471168,
+  "endTime": 1707737703233,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -24,6 +24,14 @@
       "word": "白敬亭彩排衣服",
       "onboard_time": 1707712832,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1956784,
+      "num": 1956784,
+      "word": "尼格买提问春晚还要重播几次",
+      "onboard_time": 1707733828,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1639674,
-      "num": 1639674,
-      "word": "尼格买提问春晚还要重播几次",
-      "onboard_time": 1707733828,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1635463,
       "num": 1635463,
       "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
@@ -88,6 +88,14 @@
       "word": "白敬亭魏大勋魏晨采访",
       "onboard_time": 1707718109,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1316002,
+      "num": 1316002,
+      "word": "主持人王宁",
+      "onboard_time": 1707734134,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1707716190,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1164851,
-      "num": 1164851,
-      "word": "主持人王宁",
-      "onboard_time": 1707734134,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 1148953,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 953952,
+      "num": 953952,
+      "word": "马丽 拜托影院给第二十条多排片",
+      "onboard_time": 1707736112,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 953864,
       "num": 551927,
       "word": "刘敏涛女儿",
@@ -305,6 +313,22 @@
       "onboard_time": 1707696566,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 784693,
+      "num": 784693,
+      "word": "谢娜采访",
+      "onboard_time": 1707735092,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 770162,
+      "num": 770162,
+      "word": "金晨对白敬亭的初印象和现印象",
+      "onboard_time": 1707734914,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 762609,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 633048,
-      "num": 302351,
+      "num": 341448,
       "word": "三婚彩礼40万元村民认为一点不夸张",
       "onboard_time": 1707732632,
       "rank": 21,
@@ -475,14 +499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 538624,
-      "num": 538624,
-      "word": "谢娜采访",
-      "onboard_time": 1707735092,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 534611,
       "num": 513844,
       "word": "偶遇沈腾一家三口",
@@ -563,20 +579,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 443538,
-      "num": 443538,
-      "word": "金晨对白敬亭的初印象和现印象",
-      "onboard_time": 1707734914,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 441948,
       "num": 382989,
       "word": "别让肝脏变得黏糊糊",
       "onboard_time": 1707695906,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 441678,
+      "num": 441678,
+      "word": "封神",
+      "onboard_time": 1707737492,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 441121,
@@ -667,11 +683,51 @@
       "category": "电影"
     },
     {
+      "raw_hot": 395999,
+      "num": 339694,
+      "word": "女孩1988年就收到400块压岁钱了",
+      "onboard_time": 1707734491,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384422,
+      "num": 384422,
+      "word": "貂蝉吕布情限皮肤",
+      "onboard_time": 1707733172,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384070,
       "num": 384070,
       "word": "不是贾玲规训了我 而是我预设了她",
       "onboard_time": 1707663333,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 382796,
+      "num": 642148,
+      "word": "拜登竞选团队入驻TikTok",
+      "onboard_time": 1707735335,
+      "rank": 19,
+      "category": "国外时政,互联网"
+    },
+    {
+      "raw_hot": 380507,
+      "num": 380507,
+      "word": "第二十条女主",
+      "onboard_time": 1707736716,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 376043,
+      "num": 376043,
+      "word": "希林娜依高 她是乐莹也是我自己",
+      "onboard_time": 1707734672,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -705,14 +761,6 @@
       "onboard_time": 1707703769,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362250,
-      "num": 362250,
-      "word": "貂蝉吕布情限皮肤",
-      "onboard_time": 1707733172,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 360462,
@@ -787,28 +835,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 329572,
-      "num": 253199,
-      "word": "希林娜依高 她是乐莹也是我自己",
-      "onboard_time": 1707734672,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322789,
       "num": 322789,
       "word": "大年初三",
       "onboard_time": 1707693260,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320427,
-      "num": 252271,
-      "word": "女孩1988年就收到400块压岁钱了",
-      "onboard_time": 1707734491,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303250,
@@ -955,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258938,
-      "num": 258938,
-      "word": "拜登竞选团队入驻TikTok",
-      "onboard_time": 1707735335,
-      "rank": 19,
-      "category": "国外时政,互联网"
-    },
-    {
       "raw_hot": 258518,
       "num": 258518,
       "word": "热辣滚烫路演",
@@ -979,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252434,
+      "num": 252434,
+      "word": "尼格买提回新疆陪爸妈了",
+      "onboard_time": 1707737255,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252072,
       "num": 301333,
       "word": "各个器官疾病引起疼痛的大致范围",
@@ -987,20 +1019,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 248606,
-      "num": 248606,
-      "word": "马丽 拜托影院给第二十条多排片",
-      "onboard_time": 1707736112,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 247780,
       "num": 247780,
       "word": "潘展乐打破世界纪录",
       "onboard_time": 1707693321,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245062,
+      "num": 245062,
+      "word": "辛芷蕾拍了3年繁花前2年很茫然",
+      "onboard_time": 1707736053,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 242318,
@@ -1155,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211723,
+      "num": 211723,
+      "word": "薛之谦新歌",
+      "onboard_time": 1707737374,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211473,
       "num": 211473,
       "word": "杨幂语录 我过年的心情",
@@ -1296,6 +1336,14 @@
       "word": "李银河 再一次被贾玲感动",
       "onboard_time": 1707697648,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187361,
+      "num": 187361,
+      "word": "摇太阳排片",
+      "onboard_time": 1707736652,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -1449,14 +1497,6 @@
       "onboard_time": 1707714270,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 158784,
-      "num": 158784,
-      "word": "辛芷蕾拍了3年繁花前2年很茫然",
-      "onboard_time": 1707736053,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 158494,
@@ -2064,6 +2104,14 @@
       "word": "猫猫的绝对音感",
       "onboard_time": 1707728851,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112504,
+      "num": 112504,
+      "word": "我表弟写的寒假作业",
+      "onboard_time": 1707737675,
+      "rank": 49,
       "category": "幽默"
     },
     {
