@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707744847070,
+  "endTime": 1707747360697,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -43,6 +43,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2341366,
+      "num": 2341366,
+      "word": "尼格买提说自己三天没笑过了",
+      "onboard_time": 1707740614,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2110810,
+      "num": 923206,
+      "word": "春山学是什么梗",
+      "onboard_time": 1707743316,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2100218,
       "num": 2100218,
       "word": "贾玲 我的减重是非常健康的",
@@ -80,14 +96,6 @@
       "word": "尼格买提问春晚还要重播几次",
       "onboard_time": 1707733828,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1946695,
-      "num": 1946695,
-      "word": "尼格买提说自己三天没笑过了",
-      "onboard_time": 1707740614,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1707629791,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1554037,
+      "num": 922647,
+      "word": "甜馨 倒霉的一年也结束了",
+      "onboard_time": 1707745054,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1534477,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1072073,
+      "num": 1072073,
+      "word": "贾玲为了不让观众掏手机有多努力",
+      "onboard_time": 1707744534,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1068368,
       "num": 1068368,
       "word": "爸爸素质不详遇强则强",
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748756,
+      "num": 748756,
+      "word": "糖送八大家是什么梗",
+      "onboard_time": 1707745475,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745369,
       "num": 681250,
       "word": "贾玲拍露腹肌戏份脱了8斤水",
@@ -736,6 +768,14 @@
       "word": "飞驰人生2 好看",
       "onboard_time": 1707659251,
       "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 728422,
+      "num": 530523,
+      "word": "大导演和她捧红的影后",
+      "onboard_time": 1707740793,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -776,14 +816,6 @@
       "word": "央视文艺回复尼格买提",
       "onboard_time": 1707741392,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 719743,
-      "num": 719743,
-      "word": "春山学是什么梗",
-      "onboard_time": 1707743316,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -857,6 +889,14 @@
       "onboard_time": 1707653489,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 671194,
+      "num": 526312,
+      "word": "技术修复上春山走位",
+      "onboard_time": 1707744215,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 671051,
@@ -952,14 +992,6 @@
       "word": "马丽演技",
       "onboard_time": 1707651032,
       "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 631148,
-      "num": 415348,
-      "word": "大导演和她捧红的影后",
-      "onboard_time": 1707740793,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517398,
+      "num": 517398,
+      "word": "豆瓣崩了",
+      "onboard_time": 1707747217,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 515361,
       "num": 515361,
       "word": "肖战站C位果然是马丽雷佳音商量好的",
@@ -1403,6 +1443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 445158,
+      "num": 445158,
+      "word": "县城结婚压力大嫁妆多由男方出",
+      "onboard_time": 1707742654,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441948,
       "num": 382989,
       "word": "别让肝脏变得黏糊糊",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1707619828,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 433909,
-      "num": 286973,
-      "word": "县城结婚压力大嫁妆多由男方出",
-      "onboard_time": 1707742654,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430181,
@@ -1843,20 +1883,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 316562,
-      "num": 279968,
-      "word": "贾玲为了不让观众掏手机有多努力",
-      "onboard_time": 1707744534,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 316111,
       "num": 316111,
       "word": "长大后才知道自己是橄榄皮",
       "onboard_time": 1707622710,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315626,
+      "num": 315626,
+      "word": "小龙糕",
+      "onboard_time": 1707744274,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 314381,
@@ -1873,14 +1913,6 @@
       "onboard_time": 1707608361,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308926,
-      "num": 279709,
-      "word": "技术修复上春山走位",
-      "onboard_time": 1707744215,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 308669,
@@ -1936,14 +1968,6 @@
       "word": "光与夜之恋",
       "onboard_time": 1707744274,
       "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 297379,
-      "num": 274495,
-      "word": "小龙糕",
-      "onboard_time": 1707744274,
-      "rank": 25,
       "category": "游戏"
     },
     {
@@ -2411,6 +2435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 235384,
+      "num": 235384,
+      "word": "韩寒片子",
+      "onboard_time": 1707745054,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235215,
       "num": 235215,
       "word": "贾玲称过去一年不快乐但值得",
@@ -2683,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212196,
+      "num": 212196,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1707746858,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211723,
       "num": 211723,
       "word": "薛之谦新歌",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1707627450,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206017,
+      "num": 206017,
+      "word": "第二十条票房突破5亿",
+      "onboard_time": 1707745536,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 205684,
@@ -3049,6 +3097,14 @@
       "onboard_time": 1707699990,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187256,
+      "num": 187256,
+      "word": "但凡找个中国人问问",
+      "onboard_time": 1707747157,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 187187,
@@ -3592,6 +3648,14 @@
       "word": "i人春节的至暗时刻belike",
       "onboard_time": 1707617368,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 155517,
+      "num": 155517,
+      "word": "要被这个民宿老板笑死了",
+      "onboard_time": 1707746076,
+      "rank": 44,
       "category": "情感"
     },
     {

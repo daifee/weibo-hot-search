@@ -1,0 +1,410 @@
+{
+  "runTime": 1707747360697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2341366,
+        "num": 2341366,
+        "word": "尼格买提说自己三天没笑过了",
+        "onboard_time": 1707740614,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1072073,
+        "num": 1072073,
+        "word": "贾玲为了不让观众掏手机有多努力",
+        "onboard_time": 1707744534,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14798,
+        "num": 942805,
+        "word": "晒晒我家的年味",
+        "onboard_time": 1707708275,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2110810,
+        "num": 923206,
+        "word": "春山学是什么梗",
+        "onboard_time": 1707743316,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1554037,
+        "num": 922647,
+        "word": "甜馨 倒霉的一年也结束了",
+        "onboard_time": 1707745054,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894299,
+        "num": 894299,
+        "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
+        "onboard_time": 1707728494,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 766250,
+        "num": 766250,
+        "word": "飞驰2破十亿全员玩失忆",
+        "onboard_time": 1707742474,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 748756,
+        "num": 748756,
+        "word": "糖送八大家是什么梗",
+        "onboard_time": 1707745475,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534162,
+        "num": 534162,
+        "word": "不敢相信这是76岁人的状态",
+        "onboard_time": 1707741392,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454154,
+        "num": 531931,
+        "word": "副局长春节期间酒驾被查",
+        "onboard_time": 1707740919,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728422,
+        "num": 530523,
+        "word": "大导演和她捧红的影后",
+        "onboard_time": 1707740793,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 671194,
+        "num": 526312,
+        "word": "技术修复上春山走位",
+        "onboard_time": 1707744215,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658252,
+        "num": 522849,
+        "word": "尼格买提回新疆陪爸妈了",
+        "onboard_time": 1707737255,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563828,
+        "num": 517576,
+        "word": "金晨对白敬亭的初印象和现印象",
+        "onboard_time": 1707734914,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517398,
+        "num": 517398,
+        "word": "豆瓣崩了",
+        "onboard_time": 1707747217,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 458614,
+        "num": 458614,
+        "word": "主持人王宁",
+        "onboard_time": 1707734134,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455319,
+        "num": 455319,
+        "word": "魏大勋临场反应",
+        "onboard_time": 1707730712,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623407,
+        "num": 451775,
+        "word": "央视文艺回复尼格买提",
+        "onboard_time": 1707741392,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265466,
+        "num": 448354,
+        "word": "大唐不夜城因人流量大取消今日演出",
+        "onboard_time": 1707737913,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 181283,
+        "num": 447295,
+        "word": "日本火山列岛地区6.1级地震",
+        "onboard_time": 1707740551,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 447031,
+        "num": 447031,
+        "word": "外媒评热辣滚烫",
+        "onboard_time": 1707730475,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445158,
+        "num": 445158,
+        "word": "县城结婚压力大嫁妆多由男方出",
+        "onboard_time": 1707742654,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356823,
+        "num": 356823,
+        "word": "马丽 拜托影院给第二十条多排片",
+        "onboard_time": 1707736112,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327565,
+        "num": 327565,
+        "word": "热辣滚烫",
+        "onboard_time": 1707745296,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315626,
+        "num": 315626,
+        "word": "小龙糕",
+        "onboard_time": 1707744274,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313389,
+        "num": 313389,
+        "word": "三婚彩礼40万元村民认为一点不夸张",
+        "onboard_time": 1707732632,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305274,
+        "num": 305274,
+        "word": "票房",
+        "onboard_time": 1707743554,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274968,
+        "num": 274968,
+        "word": "第二十条",
+        "onboard_time": 1707745959,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268275,
+        "num": 268275,
+        "word": "封神",
+        "onboard_time": 1707737492,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184918,
+        "num": 261777,
+        "word": "光与夜之恋",
+        "onboard_time": 1707744274,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256544,
+        "num": 256544,
+        "word": "贾玲 时尚芭莎",
+        "onboard_time": 1707729810,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256019,
+        "num": 256019,
+        "word": "贾玲哭了",
+        "onboard_time": 1707723448,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235384,
+        "num": 235384,
+        "word": "韩寒片子",
+        "onboard_time": 1707745054,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232952,
+        "num": 232952,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1707747157,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228105,
+        "num": 228105,
+        "word": "热辣滚烫 不是减肥的故事",
+        "onboard_time": 1707729152,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222185,
+        "num": 222185,
+        "word": "第二十条女主",
+        "onboard_time": 1707736716,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212196,
+        "num": 212196,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1707746858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211147,
+        "num": 211147,
+        "word": "谢娜采访",
+        "onboard_time": 1707735092,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157431,
+        "num": 206604,
+        "word": "农村堵成这样还是第一次",
+        "onboard_time": 1707740434,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95608,
+        "num": 206202,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206017,
+        "num": 206017,
+        "word": "第二十条票房突破5亿",
+        "onboard_time": 1707745536,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188559,
+        "num": 188559,
+        "word": "要到初四了得懂事点",
+        "onboard_time": 1707728793,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187256,
+        "num": 187256,
+        "word": "但凡找个中国人问问",
+        "onboard_time": 1707747157,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182625,
+        "num": 182625,
+        "word": "男朋友走亲戚走崩溃了",
+        "onboard_time": 1707738873,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155517,
+        "num": 155517,
+        "word": "要被这个民宿老板笑死了",
+        "onboard_time": 1707746076,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150137,
+        "num": 150137,
+        "word": "三十岁才是最好的人生",
+        "onboard_time": 1707738451,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148415,
+        "num": 148415,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144612,
+        "num": 144612,
+        "word": "希林娜依高 她是乐莹也是我自己",
+        "onboard_time": 1707734672,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141893,
+        "num": 141893,
+        "word": "李健愿天下有情人终成圆满",
+        "onboard_time": 1707742535,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90501,
+        "num": 128711,
+        "word": "长沙大学生靠奶茶成为家族荣耀",
+        "onboard_time": 1707738815,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}
