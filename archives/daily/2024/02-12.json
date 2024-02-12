@@ -1,7 +1,15 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707701451191,
+  "endTime": 1707703516945,
   "band_list": [
+    {
+      "raw_hot": 2085286,
+      "num": 2085286,
+      "word": "美国春晚",
+      "onboard_time": 1707699990,
+      "rank": 16,
+      "category": "体育"
+    },
     {
       "raw_hot": 1795940,
       "num": 1795940,
@@ -25,14 +33,6 @@
       "onboard_time": 1707696750,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1473240,
-      "num": 1473240,
-      "word": "美国春晚",
-      "onboard_time": 1707699990,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1148953,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001867,
+      "num": 1001867,
+      "word": "霍思燕嗯哼开上黄博基尼了",
+      "onboard_time": 1707702209,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 953686,
       "num": 953686,
       "word": "天妒英才",
@@ -73,6 +81,14 @@
       "onboard_time": 1707637773,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 861123,
+      "num": 552429,
+      "word": "梅西超级碗广告",
+      "onboard_time": 1707700230,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 804610,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627629,
+      "num": 627629,
+      "word": "甜馨晒压岁钱",
+      "onboard_time": 1707702629,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
@@ -131,12 +155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 563199,
-      "num": 533384,
-      "word": "梅西超级碗广告",
-      "onboard_time": 1707700230,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 555030,
+      "num": 237878,
+      "word": "睡觉嘴巴总发干或是3种疾病",
+      "onboard_time": 1707702209,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 501922,
@@ -145,6 +169,14 @@
       "onboard_time": 1707668070,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 492886,
+      "num": 492886,
+      "word": "刘谦第一个魔术被剪",
+      "onboard_time": 1707702751,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 441948,
@@ -315,20 +347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242318,
+      "num": 242318,
+      "word": "春节社交潜规则",
+      "onboard_time": 1707700112,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241862,
       "num": 241862,
       "word": "于适被韩寒从彩蛋剪进正片",
       "onboard_time": 1707668009,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235975,
-      "num": 235975,
-      "word": "春节社交潜规则",
-      "onboard_time": 1707700112,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 235215,
@@ -371,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213802,
+      "num": 213802,
+      "word": "超级碗中场秀",
+      "onboard_time": 1707703292,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210892,
       "num": 210892,
       "word": "贾玲兑现了30亿票房承诺",
@@ -409,6 +449,14 @@
       "onboard_time": 1707624989,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196191,
+      "num": 196191,
+      "word": "白敬亭春晚",
+      "onboard_time": 1707703111,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 195842,
@@ -457,6 +505,14 @@
       "onboard_time": 1707653372,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 159912,
+      "num": 159912,
+      "word": "三年挣百万外卖小哥留沪过年",
+      "onboard_time": 1707703171,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157826,
@@ -515,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151946,
+      "num": 151946,
+      "word": "马凡舒化身李清照演绎女性自信美",
+      "onboard_time": 1707701612,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150797,
       "num": 145510,
       "word": "范丞丞想演马丽老公被沈腾掐脖",
@@ -539,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146891,
+      "num": 146891,
+      "word": "第二十条 正当防卫",
+      "onboard_time": 1707701489,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144028,
       "num": 144028,
       "word": "游客到西安一出站就被巨型花灯震撼",
@@ -553,6 +625,22 @@
       "onboard_time": 1707668907,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134292,
+      "num": 134292,
+      "word": "广东习俗结婚的要给没结婚的红包",
+      "onboard_time": 1707701248,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128375,
+      "num": 128375,
+      "word": "当妈的一定得会做饭吗",
+      "onboard_time": 1707702991,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 128038,
@@ -587,12 +675,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 123893,
-      "num": 123893,
-      "word": "广东习俗结婚的要给没结婚的红包",
-      "onboard_time": 1707701248,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 123713,
+      "num": 123713,
+      "word": "TWICE回归概念预告照",
+      "onboard_time": 1707702510,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 123617,
@@ -665,6 +753,22 @@
       "onboard_time": 1707664473,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105604,
+      "num": 105604,
+      "word": "刘能儿子",
+      "onboard_time": 1707703467,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103632,
+      "num": 103632,
+      "word": "热辣滚烫票房破9亿",
+      "onboard_time": 1707703467,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 101654,
@@ -819,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16517,
+      "num": 1412086,
+      "word": "全球同庆中国年",
+      "onboard_time": 1707621812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16428,
       "num": 24066,
       "word": "我过年的心情",
@@ -841,14 +953,6 @@
       "onboard_time": 1707679877,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13065,
-      "num": 1412086,
-      "word": "全球同庆中国年",
-      "onboard_time": 1707621812,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12415,

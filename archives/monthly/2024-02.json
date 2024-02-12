@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707701451191,
+  "endTime": 1707703516945,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -849,6 +849,14 @@
       "onboard_time": 1706761173,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2085286,
+      "num": 2085286,
+      "word": "美国春晚",
+      "onboard_time": 1707699990,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 2051892,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1707440247,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1473240,
-      "num": 1473240,
-      "word": "美国春晚",
-      "onboard_time": 1707699990,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1472370,
@@ -3171,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1001867,
+      "num": 1001867,
+      "word": "霍思燕嗯哼开上黄博基尼了",
+      "onboard_time": 1707702209,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 999231,
       "num": 999231,
       "word": "警方称家暴视频是妻子发泄情绪拼接的",
@@ -3985,6 +3993,14 @@
       "onboard_time": 1707564036,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 861123,
+      "num": 552429,
+      "word": "梅西超级碗广告",
+      "onboard_time": 1707700230,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 860623,
@@ -6163,6 +6179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 627629,
+      "num": 627629,
+      "word": "甜馨晒压岁钱",
+      "onboard_time": 1707702629,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626909,
       "num": 626909,
       "word": "王者荣耀皮肤返场",
@@ -6835,14 +6859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 563199,
-      "num": 533384,
-      "word": "梅西超级碗广告",
-      "onboard_time": 1707700230,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 562939,
       "num": 562939,
       "word": "飞驰人生2票房",
@@ -6969,6 +6985,14 @@
       "onboard_time": 1707112052,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555030,
+      "num": 237878,
+      "word": "睡觉嘴巴总发干或是3种疾病",
+      "onboard_time": 1707702209,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 555022,
@@ -7985,6 +8009,14 @@
       "onboard_time": 1706956531,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492886,
+      "num": 492886,
+      "word": "刘谦第一个魔术被剪",
+      "onboard_time": 1707702751,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 492852,
@@ -14923,6 +14955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242318,
+      "num": 242318,
+      "word": "春节社交潜规则",
+      "onboard_time": 1707700112,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242166,
       "num": 242166,
       "word": "6大人8孩子吃火锅一起一氧化碳中毒",
@@ -15329,14 +15369,6 @@
       "onboard_time": 1706953890,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 235975,
-      "num": 235975,
-      "word": "春节社交潜规则",
-      "onboard_time": 1707700112,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 235944,
@@ -17009,6 +17041,14 @@
       "onboard_time": 1707369451,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213802,
+      "num": 213802,
+      "word": "超级碗中场秀",
+      "onboard_time": 1707703292,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 213529,
@@ -18801,6 +18841,14 @@
       "onboard_time": 1706844210,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196191,
+      "num": 196191,
+      "word": "白敬亭春晚",
+      "onboard_time": 1707703111,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 196166,
@@ -22955,6 +23003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159912,
+      "num": 159912,
+      "word": "三年挣百万外卖小哥留沪过年",
+      "onboard_time": 1707703171,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159448,
       "num": 1766652,
       "word": "春节假期安全提示来了",
@@ -23787,6 +23843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151946,
+      "num": 151946,
+      "word": "马凡舒化身李清照演绎女性自信美",
+      "onboard_time": 1707701612,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151793,
       "num": 151793,
       "word": "神秘人10年捐赠1000万元善款",
@@ -24369,6 +24433,14 @@
       "onboard_time": 1707318093,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146891,
+      "num": 146891,
+      "word": "第二十条 正当防卫",
+      "onboard_time": 1707701489,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 146876,
@@ -26043,6 +26115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134292,
+      "num": 134292,
+      "word": "广东习俗结婚的要给没结婚的红包",
+      "onboard_time": 1707701248,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134271,
       "num": 134271,
       "word": "明日方舟维护",
@@ -26835,6 +26915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128375,
+      "num": 128375,
+      "word": "当妈的一定得会做饭吗",
+      "onboard_time": 1707702991,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128291,
       "num": 128291,
       "word": "7种常见癌症的筛查方法",
@@ -27435,12 +27523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123893,
-      "num": 123893,
-      "word": "广东习俗结婚的要给没结婚的红包",
-      "onboard_time": 1707701248,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 123713,
+      "num": 123713,
+      "word": "TWICE回归概念预告照",
+      "onboard_time": 1707702510,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 123653,
@@ -29179,6 +29267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105604,
+      "num": 105604,
+      "word": "刘能儿子",
+      "onboard_time": 1707703467,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105438,
       "num": 105438,
       "word": "反诈牢记8个不",
@@ -29273,6 +29369,14 @@
       "onboard_time": 1706975909,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103632,
+      "num": 103632,
+      "word": "热辣滚烫票房破9亿",
+      "onboard_time": 1707703467,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 103524,
