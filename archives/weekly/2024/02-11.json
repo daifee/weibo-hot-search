@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707751083643,
+  "endTime": 1707752057976,
   "band_list": [
     {
       "raw_hot": 4051983,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3014277,
-      "num": 1319870,
+      "num": 1369236,
       "word": "差不多行了啊",
       "onboard_time": 1707747878,
       "rank": 21,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1931020,
+      "num": 1931020,
+      "word": "上春山彩排",
+      "onboard_time": 1707747577,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1881679,
       "num": 1881679,
       "word": "贾玲哭了",
@@ -169,14 +177,6 @@
       "onboard_time": 1707629791,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1579641,
-      "num": 1579641,
-      "word": "上春山彩排",
-      "onboard_time": 1707747577,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1569503,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607951,
+      "num": 607951,
+      "word": "但凡找个中国人问问",
+      "onboard_time": 1707747157,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 604170,
       "num": 535744,
       "word": "贾玲陈小艺",
@@ -1259,12 +1267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 516874,
-      "num": 516874,
-      "word": "但凡找个中国人问问",
-      "onboard_time": 1707747157,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 515950,
+      "num": 515950,
+      "word": "旅客带72斤新鲜水果入境被查",
+      "onboard_time": 1707748657,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515361,
@@ -1667,6 +1675,14 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 379135,
+      "num": 247212,
+      "word": "魏晨唱歌真好听",
+      "onboard_time": 1707750639,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377688,
       "num": 377688,
       "word": "Jasper拜年照",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1707739115,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351401,
-      "num": 351401,
-      "word": "旅客带72斤新鲜水果入境被查",
-      "onboard_time": 1707748657,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349275,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1707617548,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 316671,
+      "num": 244964,
+      "word": "前程朤朤怎么读",
+      "onboard_time": 1707750580,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316111,
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 276522,
-      "num": 238904,
+      "num": 239153,
       "word": "上春山现场直拍",
       "onboard_time": 1707749135,
       "rank": 26,
@@ -2219,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269824,
+      "num": 239479,
+      "word": "张小斐看贾玲的眼神",
+      "onboard_time": 1707750819,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268310,
       "num": 268310,
       "word": "超级碗中场秀",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263368,
-      "num": 237864,
-      "word": "前程朤朤怎么读",
-      "onboard_time": 1707750580,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259615,
@@ -2795,20 +2811,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212612,
-      "num": 212612,
-      "word": "魏晨唱歌真好听",
-      "onboard_time": 1707750639,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212249,
       "num": 303166,
       "word": "女孩行李太重民警抄起就走俩人表情亮了",
       "onboard_time": 1707719369,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212144,
+      "num": 212144,
+      "word": "印尼一球员比赛时被闪电击中后身亡",
+      "onboard_time": 1707751236,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 211723,
@@ -2969,14 +2985,6 @@
       "onboard_time": 1707644791,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 203782,
-      "num": 203782,
-      "word": "张小斐看贾玲的眼神",
-      "onboard_time": 1707750819,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 203161,
@@ -3323,6 +3331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178942,
+      "num": 178942,
+      "word": "很平静的视频",
+      "onboard_time": 1707751117,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178785,
       "num": 178785,
       "word": "在暴雪时分",
@@ -3507,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169583,
+      "num": 169583,
+      "word": "如梦令返场",
+      "onboard_time": 1707750756,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169146,
       "num": 169146,
       "word": "逛山姆成为中产标签",
@@ -3585,14 +3609,6 @@
       "onboard_time": 1707748297,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 166033,
-      "num": 166033,
-      "word": "如梦令返场",
-      "onboard_time": 1707750756,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 165575,
