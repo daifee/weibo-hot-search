@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707762028927,
+  "endTime": 1707762853654,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211686,
+      "num": 211686,
+      "word": "以后可以有玲女郎了",
+      "onboard_time": 1707760525,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205619,
       "num": 205619,
       "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
@@ -235,20 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191093,
+      "raw_hot": 193512,
       "num": 191093,
       "word": "谢娜采访",
       "onboard_time": 1707735092,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176064,
-      "num": 176064,
-      "word": "以后可以有玲女郎了",
-      "onboard_time": 1707760525,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 168384,
@@ -435,8 +435,16 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 46907,
-      "num": 46907,
+      "raw_hot": 63183,
+      "num": 63183,
+      "word": "贾静雯一家五口全家福",
+      "onboard_time": 1707762800,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52284,
+      "num": 52284,
       "word": "INFP的理想过年三不",
       "onboard_time": 1707761423,
       "rank": 40,
