@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707730458679,
+  "endTime": 1707733216667,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2395,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215870,
+      "num": 907546,
+      "word": "贾玲 时尚芭莎",
+      "onboard_time": 1707729810,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1209135,
       "num": 1209135,
       "word": "奥运冠军杨倩教练发文讨薪",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1707101612,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1117131,
+      "num": 1117131,
+      "word": "要到初四了得懂事点",
+      "onboard_time": 1707728793,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1116811,
@@ -3913,6 +3929,14 @@
       "onboard_time": 1707445408,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 892902,
+      "num": 892902,
+      "word": "魏大勋临场反应",
+      "onboard_time": 1707730712,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 892744,
@@ -6699,14 +6723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596364,
-      "num": 366945,
-      "word": "贾玲 时尚芭莎",
-      "onboard_time": 1707729810,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 595157,
       "num": 595157,
       "word": "真实胎动",
@@ -6801,6 +6817,14 @@
       "onboard_time": 1707012691,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586240,
+      "num": 474353,
+      "word": "贾玲全球独立执导女性导演票房第二",
+      "onboard_time": 1707729810,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 585843,
@@ -7572,7 +7596,7 @@
     },
     {
       "raw_hot": 534611,
-      "num": 363268,
+      "num": 513844,
       "word": "偶遇沈腾一家三口",
       "onboard_time": 1707729274,
       "rank": 27,
@@ -8427,6 +8451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483990,
+      "num": 483990,
+      "word": "热辣滚烫 不是减肥的故事",
+      "onboard_time": 1707729152,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 483449,
       "num": 483449,
       "word": "警方通报多人拿棍棒皮带抽打一男孩",
@@ -8777,14 +8809,6 @@
       "onboard_time": 1707536138,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 462592,
-      "num": 462592,
-      "word": "要到初四了得懂事点",
-      "onboard_time": 1707728793,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 461823,
@@ -9587,12 +9611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420012,
+      "num": 420012,
+      "word": "外媒评热辣滚烫",
+      "onboard_time": 1707730475,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 419858,
       "num": 234937,
       "word": "时代少年团有点甜",
       "onboard_time": 1706974171,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419686,
+      "num": 476536,
+      "word": "国足最新排名跌至87位",
+      "onboard_time": 1707730773,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 419564,
@@ -11963,6 +12003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 324920,
+      "num": 226919,
+      "word": "三婚彩礼40万元村民认为一点不夸张",
+      "onboard_time": 1707732632,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324356,
       "num": 289725,
       "word": "北京卫视春晚",
@@ -12337,14 +12385,6 @@
       "onboard_time": 1707396453,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313337,
-      "num": 313337,
-      "word": "贾玲全球独立执导女性导演票房第二",
-      "onboard_time": 1707729810,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 313328,
@@ -13665,6 +13705,14 @@
       "onboard_time": 1706845473,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278981,
+      "num": 226250,
+      "word": "点外卖只点了一个菜",
+      "onboard_time": 1707730114,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 278820,
@@ -15387,11 +15435,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 244003,
-      "num": 244003,
-      "word": "热辣滚烫 不是减肥的故事",
-      "onboard_time": 1707729152,
-      "rank": 25,
+      "raw_hot": 244152,
+      "num": 244152,
+      "word": "巴音布鲁克永远的王",
+      "onboard_time": 1707732154,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -17387,6 +17435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216850,
+      "num": 216850,
+      "word": "妈妈救了我很多次",
+      "onboard_time": 1707731673,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216777,
       "num": 214179,
       "word": "42岁的李栋旭身材",
@@ -17705,6 +17761,14 @@
       "onboard_time": 1707056674,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211779,
+      "num": 211779,
+      "word": "摇太阳 被低估",
+      "onboard_time": 1707732511,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 211641,
@@ -19057,6 +19121,14 @@
       "onboard_time": 1707389250,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200411,
+      "num": 200411,
+      "word": "学姐很漂亮漫画",
+      "onboard_time": 1707731493,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 200383,
@@ -21043,14 +21115,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 183553,
-      "num": 156101,
-      "word": "点外卖只点了一个菜",
-      "onboard_time": 1707730114,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183552,
       "num": 183552,
       "word": "XYG对战WB",
@@ -21905,6 +21969,14 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175184,
+      "num": 175184,
+      "word": "四人喝完酒回家错把猪食当成粥",
+      "onboard_time": 1707732632,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174967,
@@ -25387,6 +25459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146149,
+      "num": 146149,
+      "word": "第二十条路演",
+      "onboard_time": 1707731794,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146114,
       "num": 146114,
       "word": "金博洋完成3个四周跳",
@@ -27163,6 +27243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 133205,
+      "num": 133205,
+      "word": "摇太阳男女主 没头脑和不高兴",
+      "onboard_time": 1707730712,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133014,
       "num": 133014,
       "word": "可爱女生在洛阳把爱好变成事业",
@@ -27961,6 +28049,14 @@
       "onboard_time": 1707182252,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127708,
+      "num": 127708,
+      "word": "狗狗在自己刚买的床睡着了",
+      "onboard_time": 1707733116,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 127595,
@@ -30163,6 +30259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108210,
+      "num": 108210,
+      "word": "第二十条 普法",
+      "onboard_time": 1707730953,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108179,
       "num": 108179,
       "word": "张一帆王心迪包揽空中技巧冠亚军",
@@ -30523,6 +30627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101888,
+      "num": 101888,
+      "word": "13岁的小猫宝宝",
+      "onboard_time": 1707732992,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101617,
       "num": 101617,
       "word": "小猫的嘴巴是o型的耶",
@@ -30713,6 +30825,14 @@
       "onboard_time": 1706968715,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97798,
+      "num": 97798,
+      "word": "貂蝉吕布情限皮肤",
+      "onboard_time": 1707733172,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 97736,
@@ -33163,6 +33283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27593,
+      "num": 1041682,
+      "word": "龙的形象最早出现在哪里",
+      "onboard_time": 1707647912,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27389,
       "num": 336490,
       "word": "京东可以绑定情侣账号了",
@@ -33313,14 +33441,6 @@
       "onboard_time": 1707079515,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23835,
-      "num": 1041682,
-      "word": "龙的形象最早出现在哪里",
-      "onboard_time": 1707647912,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23758,
