@@ -1,6 +1,6 @@
 {
   "startTime": 1707668429781,
-  "endTime": 1707712472988,
+  "endTime": 1707715032343,
   "band_list": [
     {
       "raw_hot": 2449118,
@@ -17,6 +17,14 @@
       "onboard_time": 1707699990,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2024807,
+      "num": 2024807,
+      "word": "白敬亭彩排衣服",
+      "onboard_time": 1707712832,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1795940,
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1176887,
+      "num": 1176887,
+      "word": "霉霉与男友顶峰相见",
+      "onboard_time": 1707713553,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1148953,
       "num": 1148953,
       "word": "演员王东回应妻子在救助站过年",
@@ -115,8 +131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 886328,
-      "num": 886328,
+      "raw_hot": 952876,
+      "num": 952876,
       "word": "银行盯上了孩子压岁钱",
       "onboard_time": 1707708452,
       "rank": 22,
@@ -171,11 +187,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704180,
+      "num": 704180,
+      "word": "小伙开兰博基尼回村出事故撞报废",
+      "onboard_time": 1707711389,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697657,
       "num": 544123,
       "word": "刘能儿子",
       "onboard_time": 1707703467,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 694345,
+      "num": 510569,
+      "word": "霉霉拥吻庆祝男友获冠军",
+      "onboard_time": 1707714092,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 474831,
-      "num": 252500,
+      "num": 285676,
       "word": "博士返乡办婚礼拒绝闹洞房被亲戚嘲讽",
       "onboard_time": 1707709657,
       "rank": 20,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 391824,
-      "num": 246364,
+      "num": 272888,
       "word": "三年级小学生攒下70万压岁钱",
       "onboard_time": 1707708275,
       "rank": 29,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355380,
+      "num": 208056,
+      "word": "美国妈妈将女儿放烤箱烤死",
+      "onboard_time": 1707714452,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349275,
       "num": 349275,
       "word": "超级碗",
@@ -395,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335909,
-      "num": 280212,
+      "raw_hot": 339229,
+      "num": 339229,
       "word": "这届年轻人真的不想结婚吗",
       "onboard_time": 1707703769,
       "rank": 22,
@@ -419,16 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 308112,
-      "num": 308112,
-      "word": "小伙开兰博基尼回村出事故撞报废",
-      "onboard_time": 1707711389,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303250,
-      "num": 237410,
+      "num": 284802,
       "word": "可乐喝多了身体会发生什么",
       "onboard_time": 1707710731,
       "rank": 22,
@@ -489,6 +521,14 @@
       "onboard_time": 1707703292,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267751,
+      "num": 267751,
+      "word": "妈妈问为什么不喜欢吃她做的饭",
+      "onboard_time": 1707714153,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 267188,
@@ -619,6 +659,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208895,
+      "num": 208895,
+      "word": "闺蜜和我对象结婚我当伴娘",
+      "onboard_time": 1707714270,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208176,
+      "num": 208176,
+      "word": "杨超越嫦娥如梦令",
+      "onboard_time": 1707714571,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205684,
       "num": 205684,
       "word": "詹姆斯霉霉观战超级碗",
@@ -667,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196518,
+      "num": 196518,
+      "word": "杨幂三个mi字送新春祝福",
+      "onboard_time": 1707713913,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195842,
       "num": 195842,
       "word": "姜妍好甜",
@@ -697,6 +761,14 @@
       "onboard_time": 1707707554,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185296,
+      "num": 185296,
+      "word": "终于明白为什么有人不想回家过年了",
+      "onboard_time": 1707713851,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 181975,
@@ -737,6 +809,14 @@
       "onboard_time": 1707709831,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160092,
+      "num": 160092,
+      "word": "刘德华说从来没争过番位",
+      "onboard_time": 1707713790,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 159944,
@@ -827,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149948,
+      "num": 149948,
+      "word": "代厨日入五六千元回家吃泡面",
+      "onboard_time": 1707714092,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149295,
       "num": 149295,
       "word": "男子跨省遗弃亲生父亲被刑拘",
@@ -859,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145841,
+      "num": 145841,
+      "word": "美媒称苹果VisionPro还是原型机",
+      "onboard_time": 1707714270,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144028,
       "num": 144028,
       "word": "游客到西安一出站就被巨型花灯震撼",
@@ -873,6 +969,14 @@
       "onboard_time": 1707668907,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138404,
+      "num": 138404,
+      "word": "堪萨斯城酋长卫冕超级碗",
+      "onboard_time": 1707712711,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 137374,
@@ -905,6 +1009,14 @@
       "onboard_time": 1707704191,
       "rank": 44,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 132375,
+      "num": 132375,
+      "word": "猫猫财神",
+      "onboard_time": 1707714631,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 132256,
@@ -1075,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106914,
+      "num": 106914,
+      "word": "不同品种的狗狗是怎么剪指甲的",
+      "onboard_time": 1707714153,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106392,
       "num": 106392,
       "word": "希望被人喜欢会让你变得软弱",
@@ -1148,7 +1268,7 @@
     },
     {
       "raw_hot": 86727,
-      "num": 1255878,
+      "num": 1435405,
       "word": "晒晒我家的年味",
       "onboard_time": 1707708275,
       "rank": 2,
@@ -1241,6 +1361,14 @@
       "onboard_time": 1707688456,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34376,
+      "num": 288791,
+      "word": "大年初三我被eggy洗脑了",
+      "onboard_time": 1707713553,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33899,
