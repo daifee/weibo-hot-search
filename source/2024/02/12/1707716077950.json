@@ -1,0 +1,410 @@
+{
+  "runTime": 1707716077950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1963834,
+        "num": 1963834,
+        "word": "白敬亭彩排衣服",
+        "onboard_time": 1707712832,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1700162,
+        "num": 1700162,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63597,
+        "num": 1226795,
+        "word": "晒晒我家的年味",
+        "onboard_time": 1707708275,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177311,
+        "num": 1177311,
+        "word": "霉霉与男友顶峰相见",
+        "onboard_time": 1707713553,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792181,
+        "num": 792181,
+        "word": "银行盯上了孩子压岁钱",
+        "onboard_time": 1707708452,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680723,
+        "num": 680723,
+        "word": "贾玲建议女生朋友关注当下远离糟心事",
+        "onboard_time": 1707705391,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 631867,
+        "num": 631867,
+        "word": "小伙开兰博基尼回村出事故撞报废",
+        "onboard_time": 1707711389,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570875,
+        "num": 570875,
+        "word": "甜馨晒压岁钱",
+        "onboard_time": 1707702629,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1061854,
+        "num": 540706,
+        "word": "霉霉拥吻庆祝男友获冠军",
+        "onboard_time": 1707714092,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460712,
+        "num": 460712,
+        "word": "美国春晚",
+        "onboard_time": 1707699990,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450353,
+        "num": 450353,
+        "word": "春山学",
+        "onboard_time": 1707705451,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382791,
+        "num": 382791,
+        "word": "刘谦第一个魔术被剪",
+        "onboard_time": 1707702751,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380837,
+        "num": 380837,
+        "word": "大年初三睡到饱",
+        "onboard_time": 1707693079,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372393,
+        "num": 372393,
+        "word": "杨超越嫦娥如梦令",
+        "onboard_time": 1707714571,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366130,
+        "num": 366130,
+        "word": "这届年轻人真的不想结婚吗",
+        "onboard_time": 1707703769,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326030,
+        "num": 326030,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280841,
+        "num": 280841,
+        "word": "华春莹发了迪丽热巴春晚舞台相关",
+        "onboard_time": 1707706530,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280519,
+        "num": 280519,
+        "word": "刘敏涛女儿",
+        "onboard_time": 1707708812,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257775,
+        "num": 257775,
+        "word": "白敬亭春晚",
+        "onboard_time": 1707703111,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39633,
+        "num": 253593,
+        "word": "大年初三我被eggy洗脑了",
+        "onboard_time": 1707713553,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702083,
+        "num": 253276,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259161,
+        "num": 253179,
+        "word": "博士返乡办婚礼拒绝闹洞房被亲戚嘲讽",
+        "onboard_time": 1707709657,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252414,
+        "num": 252414,
+        "word": "可乐喝多了身体会发生什么",
+        "onboard_time": 1707710731,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248893,
+        "num": 248893,
+        "word": "檀健次说今年会播出三部作品",
+        "onboard_time": 1707715710,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244833,
+        "num": 244833,
+        "word": "沈凌 贾玲用命在搏热辣滚烫",
+        "onboard_time": 1707696566,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243975,
+        "num": 243975,
+        "word": "霍思燕嗯哼开上黄博基尼了",
+        "onboard_time": 1707702209,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233637,
+        "num": 233637,
+        "word": "三年级小学生攒下70万压岁钱",
+        "onboard_time": 1707708275,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229699,
+        "num": 229699,
+        "word": "闺蜜和我对象结婚我当伴娘",
+        "onboard_time": 1707714270,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211473,
+        "num": 211473,
+        "word": "杨幂语录 我过年的心情",
+        "onboard_time": 1707715170,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203061,
+        "num": 203061,
+        "word": "董力阿拉蕾",
+        "onboard_time": 1707696750,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226625,
+        "num": 201608,
+        "word": "门票260元的山姆成南通最热景区",
+        "onboard_time": 1707715710,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 199170,
+        "num": 199170,
+        "word": "妈妈问为什么不喜欢吃她做的饭",
+        "onboard_time": 1707714153,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195934,
+        "num": 195934,
+        "word": "芭蕾蹲对直腿瘦腿是真的牛",
+        "onboard_time": 1707715232,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176363,
+        "num": 176363,
+        "word": "世界田联主席悼念基普图姆",
+        "onboard_time": 1707715590,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170147,
+        "num": 170147,
+        "word": "杨幂三个mi字送新春祝福",
+        "onboard_time": 1707713913,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164458,
+        "num": 164458,
+        "word": "2024春节档票房破30亿",
+        "onboard_time": 1707715232,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158998,
+        "num": 158998,
+        "word": "美媒称苹果VisionPro还是原型机",
+        "onboard_time": 1707714270,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158299,
+        "num": 158299,
+        "word": "终于明白为什么有人不想回家过年了",
+        "onboard_time": 1707713851,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157599,
+        "num": 157599,
+        "word": "睡觉嘴巴总发干或是3种疾病",
+        "onboard_time": 1707702209,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 147384,
+        "word": "贾玲战损版",
+        "onboard_time": 1707709231,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145236,
+        "num": 145236,
+        "word": "奶奶留给我的遗物失而复得了",
+        "onboard_time": 1707715651,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145206,
+        "num": 145206,
+        "word": "原来他就是刘耀文啊",
+        "onboard_time": 1707705031,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144884,
+        "num": 144884,
+        "word": "贾玲下一部电影",
+        "onboard_time": 1707708572,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144401,
+        "num": 144401,
+        "word": "刘德华说从来没争过番位",
+        "onboard_time": 1707713790,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "酋长超级碗冠军",
+        "onboard_time": 1707710192,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136806,
+        "num": 136806,
+        "word": "小朋友以为叫一声舅舅给一张压岁钱",
+        "onboard_time": 1707715651,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129382,
+        "num": 129382,
+        "word": "猫猫财神",
+        "onboard_time": 1707714631,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123444,
+        "num": 123444,
+        "word": "代厨日入五六千元回家吃泡面",
+        "onboard_time": 1707714092,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114771,
+        "num": 114771,
+        "word": "狗狗在路上偶遇自己的朋友",
+        "onboard_time": 1707715170,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109616,
+        "num": 109616,
+        "word": "堪萨斯城酋长卫冕超级碗",
+        "onboard_time": 1707712711,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以团结凝聚力量以奋斗铸就伟业#"
+    }
+  }
+}
