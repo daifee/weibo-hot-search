@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707777325500,
+  "endTime": 1707779789356,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -161,6 +161,14 @@
       "onboard_time": 1707728793,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254608,
+      "num": 142005,
+      "word": "哈药六厂为什么是东北卢浮宫",
+      "onboard_time": 1707772517,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249074,
@@ -331,14 +339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133133,
-      "num": 67181,
-      "word": "哈药六厂为什么是东北卢浮宫",
-      "onboard_time": 1707772517,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123900,
       "num": 123900,
       "word": "三婚彩礼40万元村民认为一点不夸张",
@@ -435,20 +435,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 80943,
+      "num": 71392,
+      "word": "贾静雯一家五口全家福",
+      "onboard_time": 1707762800,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80300,
       "num": 80300,
       "word": "间谍过家家 电锯阿尼亚",
       "onboard_time": 1707757769,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 63183,
-      "num": 63183,
-      "word": "贾静雯一家五口全家福",
-      "onboard_time": 1707762800,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 52284,
@@ -460,11 +460,19 @@
     },
     {
       "raw_hot": 48676,
-      "num": 37950,
+      "num": 47076,
       "word": "原生家庭不好的人真的很害怕过年",
       "onboard_time": 1707769936,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38110,
+      "num": 40346,
+      "word": "刘畊宏给NBA球员送红包",
+      "onboard_time": 1707777739,
+      "rank": 38,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 31573,
@@ -476,19 +484,27 @@
     },
     {
       "raw_hot": 30400,
-      "num": 30400,
+      "num": 36658,
       "word": "你说的睡了也是这样吧",
       "onboard_time": 1707771976,
       "rank": 46,
       "category": "情感"
     },
     {
-      "raw_hot": 22138,
-      "num": 22138,
+      "raw_hot": 24248,
+      "num": 35446,
       "word": "张艺兴lauv官宣合作",
       "onboard_time": 1707766518,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23271,
+      "num": 35156,
+      "word": "重点人群假期谨防心脑血管疾病",
+      "onboard_time": 1707777377,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13589,
