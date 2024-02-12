@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707758123926,
+  "endTime": 1707759241069,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -59,8 +59,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 649983,
-      "num": 649983,
+      "raw_hot": 676895,
+      "num": 676895,
       "word": "魏大勋临场反应",
       "onboard_time": 1707730712,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 415427,
+      "num": 415427,
+      "word": "上春山现场直拍",
+      "onboard_time": 1707749135,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410854,
       "num": 410854,
       "word": "但凡找个中国人问问",
@@ -121,14 +129,6 @@
       "onboard_time": 1707752075,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347680,
-      "num": 259269,
-      "word": "上春山现场直拍",
-      "onboard_time": 1707749135,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 344559,
@@ -419,8 +419,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 73652,
-      "num": 73652,
+      "raw_hot": 80300,
+      "num": 80300,
       "word": "间谍过家家 电锯阿尼亚",
       "onboard_time": 1707757769,
       "rank": 45,
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6445,
+      "raw_hot": 7655,
       "num": 663851,
       "word": "我与家人合个影",
       "onboard_time": 1707707012,

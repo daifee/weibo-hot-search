@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707758123926,
+  "endTime": 1707759241069,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -10003,6 +10003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415427,
+      "num": 415427,
+      "word": "上春山现场直拍",
+      "onboard_time": 1707749135,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415014,
       "num": 415014,
       "word": "官方通报体彩店员撕毁中奖彩票",
@@ -11737,14 +11745,6 @@
       "onboard_time": 1706870911,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 347680,
-      "num": 259269,
-      "word": "上春山现场直拍",
-      "onboard_time": 1707749135,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 347051,
@@ -32187,6 +32187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80300,
+      "num": 80300,
+      "word": "间谍过家家 电锯阿尼亚",
+      "onboard_time": 1707757769,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 80214,
       "num": 137853,
       "word": "小兰的365个初恋瞬间",
@@ -32433,14 +32441,6 @@
       "onboard_time": 1706904018,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73652,
-      "num": 73652,
-      "word": "间谍过家家 电锯阿尼亚",
-      "onboard_time": 1707757769,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 73548,
