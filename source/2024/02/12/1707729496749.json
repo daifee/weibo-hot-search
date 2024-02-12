@@ -1,0 +1,410 @@
+{
+  "runTime": 1707729496749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1311916,
+        "num": 1311916,
+        "word": "贾玲哭了",
+        "onboard_time": 1707723448,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1272291,
+        "num": 1272291,
+        "word": "张杰回应张家不养闲人",
+        "onboard_time": 1707726032,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16137,
+        "num": 1041682,
+        "word": "龙的形象最早出现在哪里",
+        "onboard_time": 1707647912,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020474,
+        "num": 1020474,
+        "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
+        "onboard_time": 1707728494,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 771355,
+        "num": 771355,
+        "word": "小尼的失误被警方当成典型案例了",
+        "onboard_time": 1707706590,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507548,
+        "num": 507548,
+        "word": "关晓彤短发",
+        "onboard_time": 1707716190,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420977,
+        "num": 420977,
+        "word": "门票260元的山姆成南通最热景区",
+        "onboard_time": 1707715710,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 392401,
+        "num": 392401,
+        "word": "比伯亲吻海莉",
+        "onboard_time": 1707724829,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367767,
+        "num": 367767,
+        "word": "光与夜之恋 内涵",
+        "onboard_time": 1707722068,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181692,
+        "num": 365389,
+        "word": "银行盯上了孩子压岁钱",
+        "onboard_time": 1707708452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092668,
+        "num": 362533,
+        "word": "梅西",
+        "onboard_time": 1707725733,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665059,
+        "num": 359456,
+        "word": "贾玲首次线下公开露面",
+        "onboard_time": 1707724291,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441121,
+        "num": 358115,
+        "word": "斐玲同框",
+        "onboard_time": 1707726570,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 355373,
+        "num": 355373,
+        "word": "适量喝酒和滴酒不沾谁更健康",
+        "onboard_time": 1707724291,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355331,
+        "num": 355331,
+        "word": "周深 玲姐你真的好棒",
+        "onboard_time": 1707722550,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319788,
+        "num": 319788,
+        "word": "虽丑但巨好吃的丑零食们",
+        "onboard_time": 1707721352,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 283802,
+        "num": 283802,
+        "word": "罗翔看了电影第二十条",
+        "onboard_time": 1707717391,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258518,
+        "num": 258518,
+        "word": "热辣滚烫路演",
+        "onboard_time": 1707726751,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233484,
+        "num": 233484,
+        "word": "贾玲建议女生朋友关注当下远离糟心事",
+        "onboard_time": 1707705391,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 224655,
+        "word": "爸妈给解清帅26个红包",
+        "onboard_time": 1707717929,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389625,
+        "num": 223831,
+        "word": "美国妈妈将女儿放烤箱烤死",
+        "onboard_time": 1707714452,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222733,
+        "num": 222733,
+        "word": "张小斐 最后乐丹望向擂台的眼神",
+        "onboard_time": 1707710309,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202948,
+        "num": 202948,
+        "word": "会睡懒觉的人心血管更好",
+        "onboard_time": 1707723149,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201605,
+        "num": 201605,
+        "word": "贾玲体重折线图",
+        "onboard_time": 1707716129,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198386,
+        "num": 198386,
+        "word": "赵丽颖苏州路演饭拍",
+        "onboard_time": 1707727173,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185758,
+        "num": 185758,
+        "word": "热辣滚烫 不是减肥的故事",
+        "onboard_time": 1707729152,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176444,
+        "num": 176444,
+        "word": "突然发现00后顾嘴不顾身",
+        "onboard_time": 1707722671,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171850,
+        "num": 171850,
+        "word": "偶遇沈腾一家三口",
+        "onboard_time": 1707729274,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171506,
+        "num": 171506,
+        "word": "摔炮的风还是吹到了伦敦",
+        "onboard_time": 1707728734,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147713,
+        "num": 165404,
+        "word": "叶子咬住了花花的大脸",
+        "onboard_time": 1707728612,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322284,
+        "num": 165261,
+        "word": "要到初四了得懂事点",
+        "onboard_time": 1707728793,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164497,
+        "num": 164497,
+        "word": "宝宝说医生爸爸再不回家自己就长大了",
+        "onboard_time": 1707726032,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 156809,
+        "num": 156809,
+        "word": "肖战新年vlog生活气息拉满",
+        "onboard_time": 1707729029,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155053,
+        "num": 155053,
+        "word": "霉霉拥吻庆祝男友获冠军",
+        "onboard_time": 1707714092,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145143,
+        "num": 145143,
+        "word": "我国滑雪人群70%为一次性体验者",
+        "onboard_time": 1707722249,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144899,
+        "num": 144899,
+        "word": "沈月vlog 电子布洛芬",
+        "onboard_time": 1707727532,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141430,
+        "num": 141430,
+        "word": "谢楠 热辣滚烫后劲儿挺大",
+        "onboard_time": 1707728070,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139824,
+        "num": 139824,
+        "word": "小朋友以为叫一声舅舅给一张压岁钱",
+        "onboard_time": 1707715651,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130566,
+        "num": 130566,
+        "word": "飞驰人生2",
+        "onboard_time": 1707716250,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116181,
+        "num": 125356,
+        "word": "贝克汉姆祝大家新春快乐",
+        "onboard_time": 1707728434,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319011,
+        "num": 125350,
+        "word": "三年级小学生攒下70万压岁钱",
+        "onboard_time": 1707708275,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125325,
+        "num": 125325,
+        "word": "大额头之美",
+        "onboard_time": 1707727051,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120436,
+        "num": 120436,
+        "word": "过年回村上厕所的安全感",
+        "onboard_time": 1707722972,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119359,
+        "num": 119359,
+        "word": "对于任何背弃 只会答复一个字",
+        "onboard_time": 1707726871,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117999,
+        "num": 117999,
+        "word": "飞驰人生2彩蛋",
+        "onboard_time": 1707728313,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116947,
+        "num": 116947,
+        "word": "霉霉与男友顶峰相见",
+        "onboard_time": 1707713553,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112937,
+        "num": 112937,
+        "word": "猫猫的绝对音感",
+        "onboard_time": 1707728851,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108841,
+        "num": 108841,
+        "word": "差点成为流浪猫了",
+        "onboard_time": 1707726330,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104003,
+        "num": 104003,
+        "word": "热辣滚烫结束没有人想离开",
+        "onboard_time": 1707720687,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "女孩行李太重民警抄起就走俩人表情亮了",
+        "onboard_time": 1707719369,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}
