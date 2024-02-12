@@ -1,0 +1,410 @@
+{
+  "runTime": 1707780835710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 437262,
+        "num": 437262,
+        "word": "尼格买提说自己三天没笑过了",
+        "onboard_time": 1707740614,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338214,
+        "num": 338214,
+        "word": "金晨对白敬亭的初印象和现印象",
+        "onboard_time": 1707734914,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6840,
+        "num": 307022,
+        "word": "我与家人合个影",
+        "onboard_time": 1707707012,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303662,
+        "num": 303662,
+        "word": "魏大勋临场反应",
+        "onboard_time": 1707730712,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292622,
+        "num": 292622,
+        "word": "上春山现场直拍",
+        "onboard_time": 1707749135,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357815,
+        "num": 292175,
+        "word": "央视文艺回复尼格买提",
+        "onboard_time": 1707741392,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290215,
+        "num": 290215,
+        "word": "贾玲为了不让观众掏手机有多努力",
+        "onboard_time": 1707744534,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268796,
+        "num": 268796,
+        "word": "孩子送上警车后她才发现自己后背全湿了",
+        "onboard_time": 1707752075,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261108,
+        "num": 261108,
+        "word": "甜馨 倒霉的一年也结束了",
+        "onboard_time": 1707745054,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 186718,
+        "word": "旅客带72斤新鲜水果入境被查",
+        "onboard_time": 1707748657,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317159,
+        "num": 184024,
+        "word": "白敬亭口碑",
+        "onboard_time": 1707753870,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319494,
+        "num": 175690,
+        "word": "哈药六厂为什么是东北卢浮宫",
+        "onboard_time": 1707772517,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208416,
+        "num": 173927,
+        "word": "糖送八大家是什么梗",
+        "onboard_time": 1707745475,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166927,
+        "num": 166927,
+        "word": "主持人王宁",
+        "onboard_time": 1707734134,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137111,
+        "num": 137111,
+        "word": "飞驰2破十亿全员玩失忆",
+        "onboard_time": 1707742474,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123034,
+        "num": 123034,
+        "word": "贾静雯一家五口全家福",
+        "onboard_time": 1707762800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 119689,
+        "word": "普京两年来首次接受美国记者采访",
+        "onboard_time": 1707779842,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114062,
+        "num": 114062,
+        "word": "热辣滚烫 张佑赫",
+        "onboard_time": 1707752975,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113912,
+        "num": 113912,
+        "word": "以后可以有玲女郎了",
+        "onboard_time": 1707760525,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103381,
+        "num": 103381,
+        "word": "印尼一球员比赛时被闪电击中后身亡",
+        "onboard_time": 1707751236,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108259,
+        "num": 102708,
+        "word": "有金店一天卖出1000多根金条",
+        "onboard_time": 1707747757,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 94098,
+        "num": 94098,
+        "word": "要到初四了得懂事点",
+        "onboard_time": 1707728793,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91146,
+        "num": 91146,
+        "word": "大导演和她捧红的影后",
+        "onboard_time": 1707740793,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90086,
+        "num": 90086,
+        "word": "县城结婚压力大嫁妆多由男方出",
+        "onboard_time": 1707742654,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84529,
+        "num": 84529,
+        "word": "IU预告里有汤唯",
+        "onboard_time": 1707780020,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79551,
+        "num": 79551,
+        "word": "谢娜采访",
+        "onboard_time": 1707735092,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76467,
+        "num": 76467,
+        "word": "男朋友走亲戚走崩溃了",
+        "onboard_time": 1707738873,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76152,
+        "num": 76152,
+        "word": "三婚彩礼40万元村民认为一点不夸张",
+        "onboard_time": 1707732632,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71506,
+        "num": 71506,
+        "word": "前程朤朤怎么读",
+        "onboard_time": 1707750580,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62504,
+        "num": 62504,
+        "word": "张小斐看贾玲的眼神",
+        "onboard_time": 1707750819,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124010,
+        "num": 62489,
+        "word": "秋瓷炫和公公一起贴对联",
+        "onboard_time": 1707780202,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62337,
+        "num": 62337,
+        "word": "贾玲说李雪琴和乔杉拍卧室戏很大胆",
+        "onboard_time": 1707753631,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60233,
+        "num": 60233,
+        "word": "不敢相信这是76岁人的状态",
+        "onboard_time": 1707741392,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59782,
+        "num": 59782,
+        "word": "尼格买提回新疆陪爸妈了",
+        "onboard_time": 1707737255,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55882,
+        "num": 55882,
+        "word": "乐莹的头像也是这只狗",
+        "onboard_time": 1707779962,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54274,
+        "num": 54274,
+        "word": "小龙糕",
+        "onboard_time": 1707744274,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53307,
+        "num": 53307,
+        "word": "副局长春节期间酒驾被查",
+        "onboard_time": 1707740919,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50462,
+        "num": 50462,
+        "word": "马丽 拜托影院给第二十条多排片",
+        "onboard_time": 1707736112,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49884,
+        "num": 49884,
+        "word": "上春山 好听",
+        "onboard_time": 1707748536,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49036,
+        "num": 49036,
+        "word": "但凡找个中国人问问",
+        "onboard_time": 1707747157,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48313,
+        "num": 48313,
+        "word": "7克糖拉出3万多根糖丝",
+        "onboard_time": 1707755190,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45300,
+        "num": 45300,
+        "word": "外媒评热辣滚烫",
+        "onboard_time": 1707730475,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41696,
+        "num": 45228,
+        "word": "贾玲晓斐叫我小林哥 我女儿叫她们姐",
+        "onboard_time": 1707780442,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41070,
+        "num": 44429,
+        "word": "刘畊宏给NBA球员送红包",
+        "onboard_time": 1707777739,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 39927,
+        "num": 44009,
+        "word": "魏晨唱歌真好听",
+        "onboard_time": 1707750639,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38255,
+        "num": 43013,
+        "word": "杨幂爸爸 贾玲在用命拍热辣滚烫",
+        "onboard_time": 1707728494,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36566,
+        "num": 42310,
+        "word": "乙骨忧太好辣一男的",
+        "onboard_time": 1707780683,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 36319,
+        "num": 42013,
+        "word": "原生家庭不好的人真的很害怕过年",
+        "onboard_time": 1707769936,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33976,
+        "num": 41343,
+        "word": "用一年换8次出场",
+        "onboard_time": 1707755552,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31158,
+        "num": 40557,
+        "word": "张艺兴lauv官宣合作",
+        "onboard_time": 1707766518,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}

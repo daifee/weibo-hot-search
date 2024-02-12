@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707779789356,
+  "endTime": 1707780835710,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -1971,6 +1971,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 319494,
+      "num": 175690,
+      "word": "哈药六厂为什么是东北卢浮宫",
+      "onboard_time": 1707772517,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 319127,
       "num": 319127,
       "word": "证监会2024年1号罚单",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1707715710,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254608,
-      "num": 142005,
-      "word": "哈药六厂为什么是东北卢浮宫",
-      "onboard_time": 1707772517,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 254262,
@@ -4555,6 +4555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124010,
+      "num": 62489,
+      "word": "秋瓷炫和公公一起贴对联",
+      "onboard_time": 1707780202,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123713,
       "num": 123713,
       "word": "TWICE回归概念预告照",
@@ -4577,6 +4585,14 @@
       "onboard_time": 1707724770,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123034,
+      "num": 123034,
+      "word": "贾静雯一家五口全家福",
+      "onboard_time": 1707762800,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 121689,
@@ -4673,6 +4689,14 @@
       "onboard_time": 1707609386,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119689,
+      "num": 119689,
+      "word": "普京两年来首次接受美国记者采访",
+      "onboard_time": 1707779842,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 119359,
@@ -5075,20 +5099,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84529,
+      "num": 84529,
+      "word": "IU预告里有汤唯",
+      "onboard_time": 1707780020,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82676,
       "num": 82676,
       "word": "中国跳水队世锦赛9金收官",
       "onboard_time": 1707608124,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80943,
-      "num": 71392,
-      "word": "贾静雯一家五口全家福",
-      "onboard_time": 1707762800,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 80878,
@@ -5187,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55882,
+      "num": 55882,
+      "word": "乐莹的头像也是这只狗",
+      "onboard_time": 1707779962,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54840,
       "num": 132821,
       "word": "飞驰人生2是韩导写的新疆攻略",
@@ -5259,6 +5291,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41696,
+      "num": 45228,
+      "word": "贾玲晓斐叫我小林哥 我女儿叫她们姐",
+      "onboard_time": 1707780442,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41070,
+      "num": 44429,
+      "word": "刘畊宏给NBA球员送红包",
+      "onboard_time": 1707777739,
+      "rank": 38,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 40843,
       "num": 40843,
       "word": "林亦扬殷果第一次吵架",
@@ -5291,20 +5339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38110,
-      "num": 40346,
-      "word": "刘畊宏给NBA球员送红包",
-      "onboard_time": 1707777739,
-      "rank": 38,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 37959,
       "num": 37959,
       "word": "贾玲四秒转场",
       "onboard_time": 1707688456,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36566,
+      "num": 42310,
+      "word": "乙骨忧太好辣一男的",
+      "onboard_time": 1707780683,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 34658,
@@ -5337,6 +5385,14 @@
       "onboard_time": 1707767956,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31158,
+      "num": 40557,
+      "word": "张艺兴lauv官宣合作",
+      "onboard_time": 1707766518,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 30857,
@@ -5377,14 +5433,6 @@
       "onboard_time": 1707694399,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24248,
-      "num": 35446,
-      "word": "张艺兴lauv官宣合作",
-      "onboard_time": 1707766518,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 23271,
