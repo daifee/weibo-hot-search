@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707827403943,
+  "endTime": 1707828284491,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1261332,
+      "num": 199330,
+      "word": "韩媒 中国放烟花影响韩国空气质量",
+      "onboard_time": 1707826057,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1259476,
       "num": 1259476,
       "word": "要到初四了得懂事点",
@@ -521,6 +529,14 @@
       "onboard_time": 1707786751,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1230504,
+      "num": 1230504,
+      "word": "俄罗斯",
+      "onboard_time": 1707826234,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 1222021,
@@ -971,14 +987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 824047,
-      "num": 185619,
-      "word": "韩媒 中国放烟花影响韩国空气质量",
-      "onboard_time": 1707826057,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 819907,
       "num": 819907,
       "word": "我要上春晚肯定就红了",
@@ -1275,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 687369,
-      "num": 687369,
-      "word": "俄罗斯",
-      "onboard_time": 1707826234,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 686282,
       "num": 686282,
       "word": "等红绿灯偶遇赵丽颖",
@@ -1540,7 +1540,7 @@
     },
     {
       "raw_hot": 590185,
-      "num": 263618,
+      "num": 283695,
       "word": "暧昧期突然下头真的是绝杀",
       "onboard_time": 1707820599,
       "rank": 20,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1707799599,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 541734,
+      "num": 541734,
+      "word": "金智秀发微博祝大家新年快乐",
+      "onboard_time": 1707826297,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 535299,
@@ -1961,6 +1969,14 @@
       "onboard_time": 1707733353,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 471754,
+      "num": 471754,
+      "word": "上春山的反义词",
+      "onboard_time": 1707827558,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 470217,
@@ -2324,7 +2340,7 @@
     },
     {
       "raw_hot": 385776,
-      "num": 262851,
+      "num": 271985,
       "word": "孙艺洲是飞驰2唯一的遗憾",
       "onboard_time": 1707820905,
       "rank": 21,
@@ -2457,14 +2473,6 @@
       "onboard_time": 1707752075,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367041,
-      "num": 367041,
-      "word": "金智秀发微博祝大家新年快乐",
-      "onboard_time": 1707826297,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 366130,
@@ -2787,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314708,
+      "num": 314708,
+      "word": "王楚钦希望世乒赛尽自己一份力",
+      "onboard_time": 1707825158,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314381,
       "num": 197540,
       "word": "春楠 沙漠明珠妆",
@@ -2891,6 +2907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295423,
+      "num": 295423,
+      "word": "看心情吧",
+      "onboard_time": 1707827195,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294452,
       "num": 239083,
       "word": "斐玲",
@@ -2915,14 +2939,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 291878,
-      "num": 291878,
-      "word": "王楚钦希望世乒赛尽自己一份力",
-      "onboard_time": 1707825158,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291637,
       "num": 291637,
       "word": "白敬亭宋家腾接机刘冠麟",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 285836,
+      "num": 285836,
+      "word": "巨蟹座的付出不是无条件的",
+      "onboard_time": 1707823177,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 285570,
@@ -3044,7 +3068,7 @@
     },
     {
       "raw_hot": 278146,
-      "num": 263443,
+      "num": 275725,
       "word": "贾玲主演票房破80亿",
       "onboard_time": 1707826297,
       "rank": 21,
@@ -3065,14 +3089,6 @@
       "onboard_time": 1707789815,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276743,
-      "num": 276743,
-      "word": "巨蟹座的付出不是无条件的",
-      "onboard_time": 1707823177,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 276345,
@@ -4259,6 +4275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199589,
+      "num": 199589,
+      "word": "山东泰山2比3川崎前锋",
+      "onboard_time": 1707827077,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199251,
       "num": 199251,
       "word": "罗伯特 飞驰人生2自来水",
@@ -4424,14 +4448,6 @@
       "word": "马宁称中国足球裁判实现了小目标",
       "onboard_time": 1707611310,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190309,
-      "num": 190309,
-      "word": "山东泰山2比3川崎前锋",
-      "onboard_time": 1707827077,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -4835,20 +4851,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170547,
-      "num": 170547,
-      "word": "看心情吧",
-      "onboard_time": 1707827195,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 170536,
       "num": 170536,
       "word": "李永钦蒙面歌王",
       "onboard_time": 1707651268,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170387,
+      "num": 170387,
+      "word": "丞磊公主抱周也",
+      "onboard_time": 1707827677,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 170340,
@@ -5049,6 +5065,14 @@
       "onboard_time": 1707823056,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162697,
+      "num": 162697,
+      "word": "女子铁锹劝架袋鼠被停职2天",
+      "onboard_time": 1707827618,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162521,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1707788073,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143041,
+      "num": 1213444,
+      "word": "空中视角的打铁花如漫天繁星",
+      "onboard_time": 1707810334,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141997,
@@ -6339,14 +6371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120135,
-      "num": 1213444,
-      "word": "空中视角的打铁花如漫天繁星",
-      "onboard_time": 1707810334,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120132,
       "num": 120132,
       "word": "春节人设图鉴",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1707790833,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105249,
+      "num": 105249,
+      "word": "李源一手球送点",
+      "onboard_time": 1707827981,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 104847,
