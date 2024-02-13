@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707837428979,
+  "endTime": 1707838456786,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1411555,
-      "num": 211181,
+      "num": 211579,
       "word": "韩媒 中国放烟花影响韩国空气质量",
       "onboard_time": 1707826057,
       "rank": 30,
@@ -241,6 +241,14 @@
       "onboard_time": 1707783750,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1315510,
+      "num": 1101026,
+      "word": "春山学",
+      "onboard_time": 1707836019,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1241967,
@@ -299,14 +307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1101026,
-      "num": 1101026,
-      "word": "春山学",
-      "onboard_time": 1707836019,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1090160,
       "num": 1090160,
       "word": "张艺兴连包18场支持贾玲新电影",
@@ -353,6 +353,14 @@
       "onboard_time": 1707824260,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 859725,
+      "num": 859725,
+      "word": "全世界的脚都抬了起来",
+      "onboard_time": 1707835360,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 821768,
@@ -409,14 +417,6 @@
       "onboard_time": 1707796837,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 743732,
-      "num": 543608,
-      "word": "全世界的脚都抬了起来",
-      "onboard_time": 1707835360,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 743407,
@@ -563,20 +563,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 628688,
+      "num": 622139,
+      "word": "2名游客擅自在道外滑野雪造成雪崩",
+      "onboard_time": 1707834280,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624308,
       "num": 624308,
       "word": "郑秀妍郑秀晶合照",
       "onboard_time": 1707829060,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622139,
-      "num": 622139,
-      "word": "2名游客擅自在道外滑野雪造成雪崩",
-      "onboard_time": 1707834280,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 621422,
@@ -659,12 +659,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 554852,
+      "num": 540165,
+      "word": "明侦赞助商点赞白敬亭相关",
+      "onboard_time": 1707837580,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 553759,
       "num": 553759,
       "word": "陈若琳谈全红婵眼里全是爱",
       "onboard_time": 1707788494,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 552950,
+      "num": 552950,
+      "word": "贾玲 我就要独自美丽",
+      "onboard_time": 1707836318,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 546167,
@@ -803,14 +819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 470484,
-      "num": 470484,
-      "word": "贾玲 我就要独自美丽",
-      "onboard_time": 1707836318,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 469716,
       "num": 469716,
       "word": "微信摇一摇功能下线",
@@ -921,6 +929,14 @@
       "onboard_time": 1707745296,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 419466,
+      "num": 419466,
+      "word": "女生逃离原生家庭的方式",
+      "onboard_time": 1707833980,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 410854,
@@ -1099,14 +1115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 334857,
-      "num": 334857,
-      "word": "女生逃离原生家庭的方式",
-      "onboard_time": 1707833980,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 332120,
       "num": 422405,
       "word": "95后孙女给75岁奶奶染火龙果发色",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1707800257,
       "rank": 26,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 287082,
+      "num": 287082,
+      "word": "明星们看到贾玲后的反应",
+      "onboard_time": 1707837637,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 285836,
@@ -1403,12 +1419,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247569,
+      "num": 210582,
+      "word": "男子酒醒发现身上4千多现金没了",
+      "onboard_time": 1707837218,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245983,
       "num": 245983,
       "word": "相亲能找到合适的人吗",
       "onboard_time": 1707829238,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244797,
+      "num": 244797,
+      "word": "孙千新中式马甲",
+      "onboard_time": 1707836980,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244789,
@@ -1499,14 +1531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 223964,
-      "num": 223964,
-      "word": "孙千新中式马甲",
-      "onboard_time": 1707836980,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223084,
       "num": 211023,
       "word": "热辣滚烫 心灵觉醒自我救赎",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1707835479,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210331,
+      "num": 210331,
+      "word": "tws 注水",
+      "onboard_time": 1707837939,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 210123,
@@ -1891,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "斐玲试剂",
+      "onboard_time": 1707838175,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169157,
       "num": 169157,
       "word": "热辣滚烫细节",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1707750756,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168037,
+      "num": 168037,
+      "word": "为什么我们总是在等别人主动",
+      "onboard_time": 1707837819,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 167208,
@@ -2467,6 +2515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116892,
+      "num": 116892,
+      "word": "把被套洗成发面馒头",
+      "onboard_time": 1707834938,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116539,
       "num": 116539,
       "word": "男朋友走亲戚走崩溃了",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1707824618,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106952,
-      "num": 119903,
-      "word": "男子酒醒发现身上4千多现金没了",
-      "onboard_time": 1707837218,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106595,
