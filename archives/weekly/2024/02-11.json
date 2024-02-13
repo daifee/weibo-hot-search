@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707833762674,
+  "endTime": 1707834848099,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -136,6 +136,14 @@
       "word": "尼格买提说自己三天没笑过了",
       "onboard_time": 1707740614,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2304847,
+      "num": 2304847,
+      "word": "朱广权 这三天我们都没笑",
+      "onboard_time": 1707832179,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1751791,
+      "num": 918462,
+      "word": "夏之光手滑",
+      "onboard_time": 1707833020,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1748274,
       "num": 1727354,
       "word": "上春山的反义词",
@@ -305,14 +321,6 @@
       "onboard_time": 1707807815,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1662881,
-      "num": 1662881,
-      "word": "朱广权 这三天我们都没笑",
-      "onboard_time": 1707832179,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1643531,
@@ -1011,14 +1019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 828708,
-      "num": 828708,
-      "word": "夏之光手滑",
-      "onboard_time": 1707833020,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 819907,
       "num": 819907,
       "word": "我要上春晚肯定就红了",
@@ -1075,8 +1075,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 786513,
-      "num": 786513,
+      "raw_hot": 787591,
+      "num": 787591,
       "word": "李庚希连崩溃都不像演的",
       "onboard_time": 1707829539,
       "rank": 23,
@@ -1339,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685808,
+      "num": 685808,
+      "word": "人均收入3万河南小村靠龙发财",
+      "onboard_time": 1707830735,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678093,
       "num": 678093,
       "word": "神似易烊千玺小伙创业做私厨月入5万",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1707697648,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 661279,
-      "num": 661279,
-      "word": "人均收入3万河南小村靠龙发财",
-      "onboard_time": 1707830735,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 658746,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1707741392,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592841,
+      "num": 592841,
+      "word": "进淄赶烤游客再次爆满",
+      "onboard_time": 1707832479,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 592391,
@@ -2275,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427363,
+      "num": 427363,
+      "word": "破五是要破什么",
+      "onboard_time": 1707831939,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427357,
       "num": 427357,
       "word": "张艺兴热辣滚烫充电曲",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1707616886,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402261,
+      "num": 402261,
+      "word": "再也不敢相信口罩下的面孔了",
+      "onboard_time": 1707833620,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 401858,
@@ -2497,14 +2521,6 @@
       "onboard_time": 1707800737,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376793,
-      "num": 376793,
-      "word": "进淄赶烤游客再次爆满",
-      "onboard_time": 1707832479,
-      "rank": 13,
-      "category": "旅游"
     },
     {
       "raw_hot": 374620,
@@ -2657,14 +2673,6 @@
       "onboard_time": 1707739115,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350918,
-      "num": 350918,
-      "word": "破五是要破什么",
-      "onboard_time": 1707831939,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349275,
@@ -3819,6 +3827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 231579,
+      "num": 193944,
+      "word": "2名游客擅自在道外滑野雪造成雪崩",
+      "onboard_time": 1707834280,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230933,
       "num": 230933,
       "word": "全员加速中对战季阵容官宣",
@@ -3865,6 +3881,14 @@
       "onboard_time": 1707714270,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229637,
+      "num": 229637,
+      "word": "女生逃离原生家庭的方式",
+      "onboard_time": 1707833980,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 228881,
@@ -4371,6 +4395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200716,
+      "num": 200716,
+      "word": "巧克力小狗",
+      "onboard_time": 1707833620,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200626,
       "num": 215678,
       "word": "乔丹儿子与皮蓬前妻分手",
@@ -4659,6 +4691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186675,
+      "num": 186675,
+      "word": "吴磊成为林亦扬的过程",
+      "onboard_time": 1707834101,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186335,
       "num": 186335,
       "word": "魔卡少女樱 小樱知世手办",
@@ -4737,14 +4777,6 @@
       "onboard_time": 1707645332,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182403,
-      "num": 182403,
-      "word": "再也不敢相信口罩下的面孔了",
-      "onboard_time": 1707833620,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 181975,
@@ -4945,6 +4977,14 @@
       "onboard_time": 1707642752,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173142,
+      "num": 173142,
+      "word": "热辣滚烫票房破15亿",
+      "onboard_time": 1707834582,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173073,
@@ -5523,6 +5563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152424,
+      "num": 152424,
+      "word": "狗狗偷偷溜上床被小主人背刺",
+      "onboard_time": 1707833741,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152050,
       "num": 144778,
       "word": "我努力过无数次 机会只在一两次",
@@ -5795,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143203,
+      "num": 143203,
+      "word": "第二十条背后的核心隐喻与极致细节",
+      "onboard_time": 1707833501,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143041,
       "num": 1213444,
       "word": "空中视角的打铁花如漫天繁星",
@@ -6043,6 +6099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136046,
+      "num": 136046,
+      "word": "这3类人最好别吃羊肉",
+      "onboard_time": 1707834458,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135313,
       "num": 135313,
       "word": "第二十条 马丽人保戏",
@@ -6187,14 +6251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131539,
-      "num": 131539,
-      "word": "第二十条背后的核心隐喻与极致细节",
-      "onboard_time": 1707833501,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131004,
       "num": 131004,
       "word": "朱开爆料圣枪哥曾想退役",
@@ -6251,14 +6307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128278,
-      "num": 128278,
-      "word": "巧克力小狗",
-      "onboard_time": 1707833620,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 128228,
       "num": 128228,
       "word": "当时只道是寻常",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1707733116,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127651,
+      "num": 127651,
+      "word": "四川人的已读乱回",
+      "onboard_time": 1707834759,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 127437,
@@ -6681,14 +6737,6 @@
       "onboard_time": 1707613290,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116427,
-      "num": 116427,
-      "word": "狗狗偷偷溜上床被小主人背刺",
-      "onboard_time": 1707833741,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 116181,
