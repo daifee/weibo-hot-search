@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707866233001,
+  "endTime": 1707867240825,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1873,6 +1873,14 @@
       "onboard_time": 1706797952,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1535519,
+      "num": 1535519,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1535351,
@@ -12227,6 +12235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363731,
+      "num": 363731,
+      "word": "财神壁纸",
+      "onboard_time": 1707866542,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363719,
       "num": 363719,
       "word": "请和我的老公结婚",
@@ -16019,6 +16035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262387,
+      "num": 262387,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262379,
       "num": 262379,
       "word": "女子拍照后故意损毁雪人",
@@ -17033,14 +17057,6 @@
       "onboard_time": 1706768669,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245688,
-      "num": 245688,
-      "word": "迎财神",
-      "onboard_time": 1707865818,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 245631,
@@ -27235,6 +27251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151513,
+      "num": 151513,
+      "word": "今天破五",
+      "onboard_time": 1707866962,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151468,
       "num": 151468,
       "word": "绿皮火车 祖师爷",
@@ -27369,6 +27393,14 @@
       "onboard_time": 1706760216,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150155,
+      "num": 150155,
+      "word": "大年初五",
+      "onboard_time": 1707866060,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 150149,
@@ -27665,14 +27697,6 @@
       "onboard_time": 1707644311,
       "rank": 42,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 148027,
-      "num": 148027,
-      "word": "钱辈请和我交往",
-      "onboard_time": 1707865818,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 147953,
@@ -33843,6 +33867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99076,
+      "num": 99076,
+      "word": "摇太阳导演回应为何春节档上映",
+      "onboard_time": 1707861617,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99032,
       "num": 99032,
       "word": "砍价就是比谁胆子大",
@@ -34507,14 +34539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84251,
-      "num": 49948,
-      "word": "摇太阳导演回应为何春节档上映",
-      "onboard_time": 1707861617,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 84186,
       "num": 1384913,
       "word": "在中国这样玩",
@@ -34707,6 +34731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80194,
+      "num": 80194,
+      "word": "欧冠联赛",
+      "onboard_time": 1707867142,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80131,
       "num": 2180603,
       "word": "全球同庆中国年",
@@ -34785,6 +34817,14 @@
       "onboard_time": 1707494400,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78403,
+      "num": 78403,
+      "word": "唐钱婷世锦赛夺金",
+      "onboard_time": 1707866782,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 78252,
@@ -35251,14 +35291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63318,
-      "num": 63318,
-      "word": "大年初五",
-      "onboard_time": 1707866060,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 62205,
       "num": 62205,
       "word": "车厘子的正确吃法",
@@ -35396,7 +35428,7 @@
     },
     {
       "raw_hot": 56244,
-      "num": 37600,
+      "num": 49894,
       "word": "宋江ins粉丝破2100万",
       "onboard_time": 1707849619,
       "rank": 21,
@@ -35675,6 +35707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48790,
+      "num": 48790,
+      "word": "林亦扬殷果一queen还一queen",
+      "onboard_time": 1707867082,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48676,
       "num": 47076,
       "word": "原生家庭不好的人真的很害怕过年",
@@ -35827,6 +35867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44858,
+      "num": 44858,
+      "word": "河北邢台一小区发生爆燃",
+      "onboard_time": 1707867142,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44764,
       "num": 44764,
       "word": "雷军也玩cosplay",
@@ -35873,6 +35921,30 @@
       "onboard_time": 1707511576,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43448,
+      "num": 43448,
+      "word": "吴磊剧中打台球是来真的",
+      "onboard_time": 1707852437,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43437,
+      "num": 43437,
+      "word": "杭州西湖客流爆棚",
+      "onboard_time": 1707866363,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 43325,
+      "num": 43325,
+      "word": "福气到好运到吉祥到",
+      "onboard_time": 1707867203,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 42869,
@@ -36057,14 +36129,6 @@
       "onboard_time": 1707592037,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38058,
-      "num": 38058,
-      "word": "吴磊剧中打台球是来真的",
-      "onboard_time": 1707852437,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 37959,

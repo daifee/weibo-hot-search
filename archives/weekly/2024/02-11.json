@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707866233001,
+  "endTime": 1707867240825,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -361,6 +361,14 @@
       "onboard_time": 1707745054,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1535519,
+      "num": 1535519,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1534477,
@@ -2723,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363731,
+      "num": 363731,
+      "word": "财神壁纸",
+      "onboard_time": 1707866542,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361592,
       "num": 589852,
       "word": "22岁华人女孩独自雪山徒步不幸遇难",
@@ -3499,6 +3515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262387,
+      "num": 262387,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261520,
       "num": 261520,
       "word": "开40万国产新能源回村亲戚笑买了杂牌",
@@ -3712,14 +3736,6 @@
       "word": "相亲能找到合适的人吗",
       "onboard_time": 1707829238,
       "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 245688,
-      "num": 245688,
-      "word": "迎财神",
-      "onboard_time": 1707865818,
-      "rank": 5,
       "category": "情感"
     },
     {
@@ -5811,6 +5827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151513,
+      "num": 151513,
+      "word": "今天破五",
+      "onboard_time": 1707866962,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151078,
       "num": 151078,
       "word": "飞驰人生2 属于每个人的巴音布鲁克",
@@ -5875,6 +5899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150155,
+      "num": 150155,
+      "word": "大年初五",
+      "onboard_time": 1707866060,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150101,
       "num": 150101,
       "word": "龙姓是怎么来的",
@@ -5937,14 +5969,6 @@
       "onboard_time": 1707644311,
       "rank": 42,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 148027,
-      "num": 148027,
-      "word": "钱辈请和我交往",
-      "onboard_time": 1707865818,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 147552,
@@ -7387,6 +7411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99076,
+      "num": 99076,
+      "word": "摇太阳导演回应为何春节档上映",
+      "onboard_time": 1707861617,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98523,
       "num": 98523,
       "word": "刘宇宁说春晚后台很欢乐",
@@ -7555,14 +7587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 84251,
-      "num": 49948,
-      "word": "摇太阳导演回应为何春节档上映",
-      "onboard_time": 1707861617,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 83597,
       "num": 124707,
       "word": "带宝宝回来过年的意义找到了",
@@ -7603,6 +7627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 80194,
+      "num": 80194,
+      "word": "欧冠联赛",
+      "onboard_time": 1707867142,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80131,
       "num": 2180603,
       "word": "全球同庆中国年",
@@ -7624,6 +7656,14 @@
       "word": "约旦1比3卡塔尔",
       "onboard_time": 1707607161,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78403,
+      "num": 78403,
+      "word": "唐钱婷世锦赛夺金",
+      "onboard_time": 1707866782,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -7656,14 +7696,6 @@
       "word": "求证cp等于be",
       "onboard_time": 1707856035,
       "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 63318,
-      "num": 63318,
-      "word": "大年初五",
-      "onboard_time": 1707866060,
-      "rank": 25,
       "category": "情感"
     },
     {
@@ -7700,7 +7732,7 @@
     },
     {
       "raw_hot": 56244,
-      "num": 37600,
+      "num": 49894,
       "word": "宋江ins粉丝破2100万",
       "onboard_time": 1707849619,
       "rank": 21,
@@ -7771,6 +7803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48790,
+      "num": 48790,
+      "word": "林亦扬殷果一queen还一queen",
+      "onboard_time": 1707867082,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48676,
       "num": 47076,
       "word": "原生家庭不好的人真的很害怕过年",
@@ -7811,6 +7851,38 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 44858,
+      "num": 44858,
+      "word": "河北邢台一小区发生爆燃",
+      "onboard_time": 1707867142,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43448,
+      "num": 43448,
+      "word": "吴磊剧中打台球是来真的",
+      "onboard_time": 1707852437,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43437,
+      "num": 43437,
+      "word": "杭州西湖客流爆棚",
+      "onboard_time": 1707866363,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 43325,
+      "num": 43325,
+      "word": "福气到好运到吉祥到",
+      "onboard_time": 1707867203,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41070,
       "num": 44429,
       "word": "刘畊宏给NBA球员送红包",
@@ -7849,14 +7921,6 @@
       "onboard_time": 1707592037,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38058,
-      "num": 38058,
-      "word": "吴磊剧中打台球是来真的",
-      "onboard_time": 1707852437,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 37959,

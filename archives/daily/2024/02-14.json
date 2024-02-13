@@ -1,7 +1,15 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707866233001,
+  "endTime": 1707867240825,
   "band_list": [
+    {
+      "raw_hot": 1535519,
+      "num": 1535519,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
+    },
     {
       "raw_hot": 1518787,
       "num": 1518787,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363731,
+      "num": 363731,
+      "word": "财神壁纸",
+      "onboard_time": 1707866542,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 342291,
       "num": 342291,
       "word": "2名游客擅自在道外滑野雪造成雪崩",
@@ -171,11 +187,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245688,
-      "num": 245688,
-      "word": "迎财神",
+      "raw_hot": 262387,
+      "num": 262387,
+      "word": "钱辈请和我交往",
       "onboard_time": 1707865818,
-      "rank": 5,
+      "rank": 11,
       "category": "情感"
     },
     {
@@ -275,11 +291,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148027,
-      "num": 148027,
-      "word": "钱辈请和我交往",
-      "onboard_time": 1707865818,
-      "rank": 11,
+      "raw_hot": 151513,
+      "num": 151513,
+      "word": "今天破五",
+      "onboard_time": 1707866962,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 150155,
+      "num": 150155,
+      "word": "大年初五",
+      "onboard_time": 1707866060,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -371,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99076,
+      "num": 99076,
+      "word": "摇太阳导演回应为何春节档上映",
+      "onboard_time": 1707861617,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94490,
       "num": 95275,
       "word": "第二十条票房破6亿",
@@ -403,19 +435,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84251,
-      "num": 49948,
-      "word": "摇太阳导演回应为何春节档上映",
-      "onboard_time": 1707861617,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 83421,
       "num": 160408,
       "word": "英国伦敦偶遇郭晶晶一家",
       "onboard_time": 1707822518,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80194,
+      "num": 80194,
+      "word": "欧冠联赛",
+      "onboard_time": 1707867142,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78403,
+      "num": 78403,
+      "word": "唐钱婷世锦赛夺金",
+      "onboard_time": 1707866782,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -459,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63318,
-      "num": 63318,
-      "word": "大年初五",
-      "onboard_time": 1707866060,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 61790,
       "num": 95057,
       "word": "郑秀妍郑秀晶合照",
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 56244,
-      "num": 37600,
+      "num": 49894,
       "word": "宋江ins粉丝破2100万",
       "onboard_time": 1707849619,
       "rank": 21,
@@ -507,12 +539,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48790,
+      "num": 48790,
+      "word": "林亦扬殷果一queen还一queen",
+      "onboard_time": 1707867082,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46847,
       "num": 46847,
       "word": "厨房洗碗海绵可能比马桶还脏",
       "onboard_time": 1707859516,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 44858,
+      "num": 44858,
+      "word": "河北邢台一小区发生爆燃",
+      "onboard_time": 1707867142,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43841,
@@ -523,12 +571,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38058,
-      "num": 38058,
+      "raw_hot": 43448,
+      "num": 43448,
       "word": "吴磊剧中打台球是来真的",
       "onboard_time": 1707852437,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43437,
+      "num": 43437,
+      "word": "杭州西湖客流爆棚",
+      "onboard_time": 1707866363,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 43325,
+      "num": 43325,
+      "word": "福气到好运到吉祥到",
+      "onboard_time": 1707867203,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 33263,
