@@ -1,0 +1,410 @@
+{
+  "runTime": 1707831257282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228591,
+        "num": 1228591,
+        "word": "甜馨回应压岁钱争议",
+        "onboard_time": 1707820477,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089293,
+        "num": 1089293,
+        "word": "白衬衫贾玲好A",
+        "onboard_time": 1707828639,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321142,
+        "num": 988676,
+        "word": "老照片里是一不小心就长大的我们",
+        "onboard_time": 1707828398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950789,
+        "num": 950789,
+        "word": "春晚每一个走位都精心设计并被准确呈现",
+        "onboard_time": 1707811294,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730486,
+        "num": 730486,
+        "word": "俄罗斯",
+        "onboard_time": 1707826234,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 699423,
+        "num": 699423,
+        "word": "看心情吧",
+        "onboard_time": 1707827195,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 624308,
+        "num": 624308,
+        "word": "郑秀妍郑秀晶合照",
+        "onboard_time": 1707829060,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545526,
+        "num": 545526,
+        "word": "刘宇宁直播",
+        "onboard_time": 1707828639,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542066,
+        "num": 542066,
+        "word": "准备和财神谈恋爱",
+        "onboard_time": 1707830199,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459472,
+        "num": 459472,
+        "word": "卖肉的舅舅称体重给外甥们发红包",
+        "onboard_time": 1707824197,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1748274,
+        "num": 452481,
+        "word": "上春山的反义词",
+        "onboard_time": 1707827558,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506768,
+        "num": 449843,
+        "word": "贾玲 动物流",
+        "onboard_time": 1707828699,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410848,
+        "num": 410848,
+        "word": "莫斯科交易所暂停股票交易",
+        "onboard_time": 1707824260,
+        "rank": 12,
+        "category": "国外时政,财经"
+      },
+      {
+        "raw_hot": 409155,
+        "num": 409155,
+        "word": "金智秀发微博祝大家新年快乐",
+        "onboard_time": 1707826297,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379722,
+        "num": 379722,
+        "word": "奶奶嚼碎花生喂2岁孩子致其患病",
+        "onboard_time": 1707809854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376167,
+        "num": 376167,
+        "word": "钟楚曦侯雯元恋情",
+        "onboard_time": 1707809313,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328676,
+        "num": 328676,
+        "word": "贾玲 阿姨我能抱抱你吗",
+        "onboard_time": 1707815560,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300165,
+        "num": 300165,
+        "word": "为什么过年期间那么容易分手",
+        "onboard_time": 1707830137,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289965,
+        "num": 289965,
+        "word": "英国伦敦偶遇郭晶晶一家",
+        "onboard_time": 1707822518,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283445,
+        "num": 283445,
+        "word": "热辣滚烫",
+        "onboard_time": 1707824857,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396890,
+        "num": 282680,
+        "word": "李庚希连崩溃都不像演的",
+        "onboard_time": 1707829539,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344821,
+        "num": 270214,
+        "word": "暧昧期突然下头真的是绝杀",
+        "onboard_time": 1707820599,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251925,
+        "num": 251925,
+        "word": "上门喂猫别人家的猫死了",
+        "onboard_time": 1707818259,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251556,
+        "num": 251556,
+        "word": "等红绿灯偶遇赵丽颖",
+        "onboard_time": 1707821795,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241194,
+        "num": 241194,
+        "word": "表妹给的这是散装卫生巾吗",
+        "onboard_time": 1707816698,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237542,
+        "num": 237542,
+        "word": "孙艺洲是飞驰2唯一的遗憾",
+        "onboard_time": 1707820905,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215328,
+        "num": 215328,
+        "word": "女子铁锹劝架袋鼠被停职2天",
+        "onboard_time": 1707827618,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212602,
+        "num": 212602,
+        "word": "贾玲主演票房破80亿",
+        "onboard_time": 1707826297,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206797,
+        "num": 206797,
+        "word": "郑钦文晋级",
+        "onboard_time": 1707830440,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200918,
+        "num": 200918,
+        "word": "相亲能找到合适的人吗",
+        "onboard_time": 1707829238,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1375981,
+        "num": 191280,
+        "word": "韩媒 中国放烟花影响韩国空气质量",
+        "onboard_time": 1707826057,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171255,
+        "num": 171255,
+        "word": "王楚钦希望世乒赛尽自己一份力",
+        "onboard_time": 1707825158,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167693,
+        "num": 167693,
+        "word": "第二十条票房破6亿",
+        "onboard_time": 1707826717,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166345,
+        "num": 166345,
+        "word": "大蛋糕小蛋糕都是好蛋糕",
+        "onboard_time": 1707828398,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165863,
+        "num": 165863,
+        "word": "孕激素到底有多厉害",
+        "onboard_time": 1707816282,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159745,
+        "num": 159745,
+        "word": "人均收入3万河南小村靠龙发财",
+        "onboard_time": 1707830735,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157349,
+        "num": 157349,
+        "word": "巨蟹座的付出不是无条件的",
+        "onboard_time": 1707823177,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149420,
+        "num": 149420,
+        "word": "沈眉庄温太医重聚",
+        "onboard_time": 1707830377,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145471,
+        "num": 145471,
+        "word": "网红铁头惩恶扬善遭全网封禁",
+        "onboard_time": 1707816522,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142487,
+        "num": 142487,
+        "word": "苏新皓女装",
+        "onboard_time": 1707824857,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138531,
+        "num": 138531,
+        "word": "叶舒华回归期第五次健康声明",
+        "onboard_time": 1707823537,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127866,
+        "num": 127866,
+        "word": "丞磊公主抱周也",
+        "onboard_time": 1707827677,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127125,
+        "num": 127125,
+        "word": "过年回村的狗狗被当地土著排挤",
+        "onboard_time": 1707829060,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123685,
+        "num": 123685,
+        "word": "22岁华人女孩独自雪山徒步不幸遇难",
+        "onboard_time": 1707814662,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123103,
+        "num": 123103,
+        "word": "蓝色监狱 男团出道",
+        "onboard_time": 1707831159,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120977,
+        "num": 120977,
+        "word": "大侦探",
+        "onboard_time": 1707819398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112309,
+        "num": 112309,
+        "word": "故宫美玉龙纹好惊艳",
+        "onboard_time": 1707831036,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 102414,
+        "num": 102414,
+        "word": "烟火人家",
+        "onboard_time": 1707823778,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100598,
+        "num": 100598,
+        "word": "摇太阳适合任何一个档期",
+        "onboard_time": 1707831219,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99484,
+        "num": 99484,
+        "word": "游客到杭州西湖要准备一元纸币",
+        "onboard_time": 1707820121,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进各族人民大团结#"
+    }
+  }
+}
