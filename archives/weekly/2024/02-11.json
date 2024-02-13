@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707863644986,
+  "endTime": 1707866233001,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -3715,6 +3715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245688,
+      "num": 245688,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245062,
       "num": 245062,
       "word": "辛芷蕾拍了3年繁花前2年很茫然",
@@ -5931,6 +5939,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147552,
       "num": 147552,
       "word": "贾玲雷佳音爸爸客串热辣滚烫",
@@ -7323,6 +7339,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 103476,
+      "num": 103476,
+      "word": "情人节怎么过",
+      "onboard_time": 1707865520,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102856,
       "num": 102856,
       "word": "用一年换8次出场",
@@ -7531,6 +7555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84251,
+      "num": 49948,
+      "word": "摇太阳导演回应为何春节档上映",
+      "onboard_time": 1707861617,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83597,
       "num": 124707,
       "word": "带宝宝回来过年的意义找到了",
@@ -7603,6 +7635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68755,
+      "num": 68755,
+      "word": "曾黎穿马面裙过大年",
+      "onboard_time": 1707858497,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68737,
       "num": 61128,
       "word": "范丞丞主演电影票房破20亿",
@@ -7616,6 +7656,14 @@
       "word": "求证cp等于be",
       "onboard_time": 1707856035,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63318,
+      "num": 63318,
+      "word": "大年初五",
+      "onboard_time": 1707866060,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -7755,6 +7803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46847,
+      "num": 46847,
+      "word": "厨房洗碗海绵可能比马桶还脏",
+      "onboard_time": 1707859516,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 41070,
       "num": 44429,
       "word": "刘畊宏给NBA球员送红包",
@@ -7777,14 +7833,6 @@
       "onboard_time": 1707602295,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 40273,
-      "num": 24343,
-      "word": "摇太阳导演回应为何春节档上映",
-      "onboard_time": 1707861617,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 39633,
@@ -7851,14 +7899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32246,
-      "num": 24114,
-      "word": "厨房洗碗海绵可能比马桶还脏",
-      "onboard_time": 1707859516,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 31573,
       "num": 29623,
       "word": "贾玲回眸",
@@ -7873,14 +7913,6 @@
       "onboard_time": 1707766518,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 30957,
-      "num": 30957,
-      "word": "曾黎穿马面裙过大年",
-      "onboard_time": 1707858497,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30857,

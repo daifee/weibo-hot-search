@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707863644986,
+  "endTime": 1707866233001,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -17035,6 +17035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245688,
+      "num": 245688,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245631,
       "num": 245631,
       "word": "Teddy新女团曝光",
@@ -27659,6 +27667,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147953,
       "num": 147953,
       "word": "偶像便利店",
@@ -33595,6 +33611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103476,
+      "num": 103476,
+      "word": "情人节怎么过",
+      "onboard_time": 1707865520,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103395,
       "num": 103395,
       "word": "春运返乡互助",
@@ -34483,6 +34507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84251,
+      "num": 49948,
+      "word": "摇太阳导演回应为何春节档上映",
+      "onboard_time": 1707861617,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84186,
       "num": 1384913,
       "word": "在中国这样玩",
@@ -35043,6 +35075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68755,
+      "num": 68755,
+      "word": "曾黎穿马面裙过大年",
+      "onboard_time": 1707858497,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68737,
       "num": 61128,
       "word": "范丞丞主演电影票房破20亿",
@@ -35209,6 +35249,14 @@
       "onboard_time": 1706949331,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63318,
+      "num": 63318,
+      "word": "大年初五",
+      "onboard_time": 1707866060,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 62205,
@@ -35747,6 +35795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 46847,
+      "num": 46847,
+      "word": "厨房洗碗海绵可能比马桶还脏",
+      "onboard_time": 1707859516,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 46229,
       "num": 46229,
       "word": "微博开新年",
@@ -35937,14 +35993,6 @@
       "onboard_time": 1707001461,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40273,
-      "num": 24343,
-      "word": "摇太阳导演回应为何春节档上映",
-      "onboard_time": 1707861617,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 39896,
@@ -36283,14 +36331,6 @@
       "category": "游戏,作品衍生"
     },
     {
-      "raw_hot": 32246,
-      "num": 24114,
-      "word": "厨房洗碗海绵可能比马桶还脏",
-      "onboard_time": 1707859516,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 32110,
       "num": 335589,
       "word": "大年初一来元梦领红包",
@@ -36345,14 +36385,6 @@
       "onboard_time": 1707399034,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30957,
-      "num": 30957,
-      "word": "曾黎穿马面裙过大年",
-      "onboard_time": 1707858497,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30955,
