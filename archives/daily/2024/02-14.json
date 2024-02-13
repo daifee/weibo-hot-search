@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707842350498,
+  "endTime": 1707844500274,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -259,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142273,
+      "num": 142273,
+      "word": "文咏珊和老公现身机场",
+      "onboard_time": 1707843387,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138774,
       "num": 138774,
       "word": "孙艺洲是飞驰2唯一的遗憾",
@@ -275,8 +283,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127053,
-      "num": 127053,
+      "raw_hot": 130154,
+      "num": 130154,
       "word": "贾玲雷佳音爸爸客串热辣滚烫",
       "onboard_time": 1707842010,
       "rank": 34,
@@ -425,6 +433,22 @@
       "onboard_time": 1707834101,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48283,
+      "num": 64954,
+      "word": "可怜的东西将上线",
+      "onboard_time": 1707844349,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43841,
+      "num": 64885,
+      "word": "金智秀发微博祝大家新年快乐",
+      "onboard_time": 1707826297,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
