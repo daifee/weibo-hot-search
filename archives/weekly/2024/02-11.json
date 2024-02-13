@@ -1,20 +1,20 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707794339301,
+  "endTime": 1707795265435,
   "band_list": [
+    {
+      "raw_hot": 7597988,
+      "num": 7597988,
+      "word": "白敬亭 乔欣",
+      "onboard_time": 1707791855,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 7342180,
       "num": 7342180,
       "word": "白敬亭口碑",
       "onboard_time": 1707753870,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 5221996,
-      "num": 5221996,
-      "word": "白敬亭 乔欣",
-      "onboard_time": 1707791855,
       "rank": 0,
       "category": "艺人"
     },
@@ -219,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1576627,
+      "num": 1576627,
+      "word": "元宵晚会 上春山",
+      "onboard_time": 1707792755,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1569503,
       "num": 1569503,
       "word": "甜馨 倒霉的一年也结束了",
@@ -289,14 +297,6 @@
       "onboard_time": 1707784171,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1339769,
-      "num": 1339769,
-      "word": "元宵晚会 上春山",
-      "onboard_time": 1707792755,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1324627,
@@ -899,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 735061,
+      "num": 431037,
+      "word": "大杨哥被鞭炮炸伤",
+      "onboard_time": 1707794380,
+      "rank": 10,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 728800,
       "num": 728800,
       "word": "飞驰人生2 好看",
@@ -1107,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 635345,
+      "num": 635345,
+      "word": "山花",
+      "onboard_time": 1707792633,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633048,
       "num": 341448,
       "word": "三婚彩礼40万元村民认为一点不夸张",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1707608965,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 598668,
-      "num": 598668,
-      "word": "山花",
-      "onboard_time": 1707792633,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 593436,
@@ -1947,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369600,
+      "num": 369600,
+      "word": "偶遇李湘带王诗龄逛商场",
+      "onboard_time": 1707794255,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368309,
       "num": 368309,
       "word": "孩子送上警车后她才发现自己后背全湿了",
@@ -2395,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283806,
-      "num": 283806,
-      "word": "偶遇李湘带王诗龄逛商场",
-      "onboard_time": 1707794255,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282278,
       "num": 282278,
       "word": "原神",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261520,
+      "num": 261520,
+      "word": "开40万国产新能源回村亲戚笑买了杂牌",
+      "onboard_time": 1707793657,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259615,
@@ -2937,14 +2953,6 @@
       "onboard_time": 1707649830,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232931,
-      "num": 232931,
-      "word": "开40万国产新能源回村亲戚笑买了杂牌",
-      "onboard_time": 1707793657,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230933,
@@ -4667,6 +4675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137667,
+      "num": 137667,
+      "word": "文班亚马盖帽三双",
+      "onboard_time": 1707794617,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137374,
       "num": 137374,
       "word": "地缘位置最好的10个国家",
@@ -4881,6 +4897,14 @@
       "onboard_time": 1707619228,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "收压岁钱的人同样压力山大",
+      "onboard_time": 1707794799,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 127986,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707794339301,
+  "endTime": 1707795265435,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7597988,
+      "num": 7597988,
+      "word": "白敬亭 乔欣",
+      "onboard_time": 1707791855,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7522920,
       "num": 7522920,
       "word": "难忘今宵",
@@ -473,14 +481,6 @@
       "onboard_time": 1705134342,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5221996,
-      "num": 5221996,
-      "word": "白敬亭 乔欣",
-      "onboard_time": 1707791855,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5149167,
