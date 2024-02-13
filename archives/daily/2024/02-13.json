@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707806098712,
+  "endTime": 1707808570331,
   "band_list": [
     {
       "raw_hot": 7597988,
@@ -72,6 +72,14 @@
       "word": "差不多行了啊",
       "onboard_time": 1707747878,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1644394,
+      "num": 1644394,
+      "word": "占山头",
+      "onboard_time": 1707806316,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -147,6 +155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1090160,
+      "num": 1090160,
+      "word": "张艺兴连包18场支持贾玲新电影",
+      "onboard_time": 1707806196,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1056763,
       "num": 1056763,
       "word": "上春山是贵州献礼",
@@ -169,6 +185,14 @@
       "onboard_time": 1707803137,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 845746,
+      "num": 518395,
+      "word": "侯雯元有名分了",
+      "onboard_time": 1707807815,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 821768,
@@ -265,6 +289,14 @@
       "onboard_time": 1707792633,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604688,
+      "num": 604688,
+      "word": "灵隐寺半夜排队人挤人",
+      "onboard_time": 1707804997,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 592391,
@@ -395,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 469716,
+      "num": 469716,
+      "word": "微信摇一摇功能下线",
+      "onboard_time": 1707805834,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 454287,
       "num": 454287,
       "word": "豆瓣崩了",
@@ -457,6 +497,14 @@
       "onboard_time": 1707798638,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394974,
+      "num": 394974,
+      "word": "热辣滚烫评分涨至8.0",
+      "onboard_time": 1707806376,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 382528,
@@ -579,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 319310,
+      "num": 279001,
+      "word": "魏大勋大侦探妆造",
+      "onboard_time": 1707807395,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305826,
       "num": 305826,
       "word": "姐妹俩包饺子妈妈看到美甲无语了",
@@ -595,14 +651,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 283314,
-      "num": 283314,
-      "word": "灵隐寺半夜排队人挤人",
-      "onboard_time": 1707804997,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 278584,
       "num": 278584,
       "word": "去月老庙求签掉出几十位真命天子",
@@ -617,6 +665,14 @@
       "onboard_time": 1707795337,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277664,
+      "num": 277664,
+      "word": "95后孙女给75岁奶奶染火龙果发色",
+      "onboard_time": 1707806137,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277555,
@@ -652,7 +708,7 @@
     },
     {
       "raw_hot": 267888,
-      "num": 211268,
+      "num": 220786,
       "word": "董宇辉过年顺走小孩哥鞭炮",
       "onboard_time": 1707805055,
       "rank": 36,
@@ -697,6 +753,14 @@
       "onboard_time": 1707801274,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 256859,
+      "num": 256859,
+      "word": "原来龘字不在新华字典里",
+      "onboard_time": 1707806732,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 253512,
@@ -907,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200455,
-      "num": 200455,
-      "word": "微信摇一摇功能下线",
-      "onboard_time": 1707805834,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196256,
       "num": 196256,
       "word": "双节叠加80后小伙送鲜花月入6万",
@@ -937,6 +993,14 @@
       "onboard_time": 1707735092,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189593,
+      "num": 213706,
+      "word": "中国历史上第一款流行色",
+      "onboard_time": 1707806016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187954,
@@ -1068,7 +1132,7 @@
     },
     {
       "raw_hot": 144489,
-      "num": 1194652,
+      "num": 1345313,
       "word": "2024龙年龘吉",
       "onboard_time": 1707801037,
       "rank": 2,
@@ -1299,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116457,
-      "num": 116457,
-      "word": "中国历史上第一款流行色",
-      "onboard_time": 1707806016,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114918,
       "num": 114918,
       "word": "00后有自己的走亲戚方式",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1707783147,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109297,
+      "num": 109297,
+      "word": "打开红包结果里面是春节值班表",
+      "onboard_time": 1707808296,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 108185,
