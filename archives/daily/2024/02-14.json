@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707862712452,
+  "endTime": 1707863644986,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63320,
+      "num": 63320,
+      "word": "求证cp等于be",
+      "onboard_time": 1707856035,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61790,
       "num": 95057,
       "word": "郑秀妍郑秀晶合照",
@@ -451,20 +459,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47463,
-      "num": 47463,
-      "word": "求证cp等于be",
-      "onboard_time": 1707856035,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 43841,
       "num": 64885,
       "word": "金智秀发微博祝大家新年快乐",
       "onboard_time": 1707826297,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40273,
+      "num": 24343,
+      "word": "摇太阳导演回应为何春节档上映",
+      "onboard_time": 1707861617,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 38058,
@@ -483,28 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 30161,
-      "num": 22178,
-      "word": "摇太阳导演回应为何春节档上映",
-      "onboard_time": 1707861617,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 27449,
-      "num": 27449,
-      "word": "曾黎穿马面裙过大年",
-      "onboard_time": 1707858497,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27399,
-      "num": 22140,
+      "raw_hot": 32246,
+      "num": 24114,
       "word": "厨房洗碗海绵可能比马桶还脏",
       "onboard_time": 1707859516,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 30957,
+      "num": 30957,
+      "word": "曾黎穿马面裙过大年",
+      "onboard_time": 1707858497,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18038,
@@ -515,8 +515,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16284,
-      "num": 16284,
+      "raw_hot": 17109,
+      "num": 17109,
       "word": "春晚女星口红色号大盘点",
       "onboard_time": 1707858737,
       "rank": 49,
