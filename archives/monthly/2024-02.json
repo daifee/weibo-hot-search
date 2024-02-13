@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707834848099,
+  "endTime": 1707837428979,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 1751791,
-      "num": 918462,
+      "num": 1268022,
       "word": "夏之光手滑",
       "onboard_time": 1707833020,
       "rank": 5,
@@ -2019,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1484340,
+      "num": 1484340,
+      "word": "杨紫看热辣滚烫看哭了",
+      "onboard_time": 1707835179,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1478155,
       "num": 1478155,
       "word": "已在工位",
@@ -2132,7 +2140,7 @@
     },
     {
       "raw_hot": 1411555,
-      "num": 199700,
+      "num": 211181,
       "word": "韩媒 中国放烟花影响韩国空气质量",
       "onboard_time": 1707826057,
       "rank": 30,
@@ -3248,6 +3256,14 @@
       "word": "沈腾瘦了",
       "onboard_time": 1707490229,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1101026,
+      "num": 1101026,
+      "word": "春山学",
+      "onboard_time": 1707705451,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -5595,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 743732,
+      "num": 543608,
+      "word": "全世界的脚都抬了起来",
+      "onboard_time": 1707835360,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743407,
       "num": 743407,
       "word": "白敬亭掉粉",
@@ -5865,6 +5889,14 @@
       "onboard_time": 1707741392,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 722275,
+      "num": 722275,
+      "word": "再也不敢相信口罩下的面孔了",
+      "onboard_time": 1707833620,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 721894,
@@ -7129,6 +7161,14 @@
       "onboard_time": 1707379709,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 622139,
+      "num": 622139,
+      "word": "2名游客擅自在道外滑野雪造成雪崩",
+      "onboard_time": 1707834280,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621850,
@@ -8475,6 +8515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530707,
+      "num": 530707,
+      "word": "小尼在新疆听到了朱广权的笑声",
+      "onboard_time": 1707835896,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530499,
       "num": 530499,
       "word": "网络春晚节目单",
@@ -8504,14 +8552,6 @@
       "word": "试试刘谦的魔术",
       "onboard_time": 1707527981,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 529818,
-      "num": 529818,
-      "word": "春山学",
-      "onboard_time": 1707705451,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -9243,6 +9283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489928,
+      "num": 489928,
+      "word": "张小斐 学人精",
+      "onboard_time": 1707836260,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 489127,
       "num": 489127,
       "word": "章若楠小品剧本",
@@ -9633,6 +9681,14 @@
       "onboard_time": 1706799215,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470484,
+      "num": 470484,
+      "word": "贾玲 我就要独自美丽",
+      "onboard_time": 1707836318,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 470217,
@@ -10985,14 +11041,6 @@
       "onboard_time": 1707616886,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402261,
-      "num": 402261,
-      "word": "再也不敢相信口罩下的面孔了",
-      "onboard_time": 1707833620,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 402202,
@@ -12779,6 +12827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340757,
+      "num": 326818,
+      "word": "真正聪明的人都有一种钝感力",
+      "onboard_time": 1707835057,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340637,
       "num": 340637,
       "word": "皓史成双合体",
@@ -12857,6 +12913,14 @@
       "onboard_time": 1706967992,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334857,
+      "num": 334857,
+      "word": "女生逃离原生家庭的方式",
+      "onboard_time": 1707833980,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 334754,
@@ -13388,7 +13452,7 @@
     },
     {
       "raw_hot": 321142,
-      "num": 1108372,
+      "num": 1275804,
       "word": "老照片里是一不小心就长大的我们",
       "onboard_time": 1707828398,
       "rank": 2,
@@ -15273,6 +15337,14 @@
       "onboard_time": 1707803916,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275600,
+      "num": 275600,
+      "word": "除了头孢吃了这些药也不能喝酒",
+      "onboard_time": 1707835896,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275318,
@@ -17811,6 +17883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232967,
+      "num": 232967,
+      "word": "贾玲张小斐CP名",
+      "onboard_time": 1707836440,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232862,
       "num": 408116,
       "word": "春节压岁钱花光了我的年终奖",
@@ -17929,14 +18009,6 @@
       "onboard_time": 1707313896,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 231579,
-      "num": 193944,
-      "word": "2名游客擅自在道外滑野雪造成雪崩",
-      "onboard_time": 1707834280,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231339,
@@ -18065,14 +18137,6 @@
       "onboard_time": 1707714270,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 229637,
-      "num": 229637,
-      "word": "女生逃离原生家庭的方式",
-      "onboard_time": 1707833980,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 229623,
@@ -18481,6 +18545,14 @@
       "onboard_time": 1707040111,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 223964,
+      "num": 223964,
+      "word": "孙千新中式马甲",
+      "onboard_time": 1707836980,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223821,
@@ -19587,6 +19659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210947,
+      "num": 210947,
+      "word": "爸爸在家里安了个升降机",
+      "onboard_time": 1707835479,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210879,
       "num": 210879,
       "word": "热辣滚烫涨分",
@@ -19665,6 +19745,14 @@
       "onboard_time": 1707232472,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210123,
+      "num": 210123,
+      "word": "热辣滚烫票房破15亿",
+      "onboard_time": 1707834582,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 210036,
@@ -23907,6 +23995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175850,
+      "num": 175850,
+      "word": "狗狗偷偷溜上床被小主人背刺",
+      "onboard_time": 1707833741,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175841,
       "num": 175841,
       "word": "友情提示还是爱情提示",
@@ -24265,14 +24361,6 @@
       "onboard_time": 1707024030,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173142,
-      "num": 173142,
-      "word": "热辣滚烫票房破15亿",
-      "onboard_time": 1707834582,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 173117,
@@ -25635,6 +25723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162538,
+      "num": 162538,
+      "word": "四川人的已读乱回",
+      "onboard_time": 1707834759,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162521,
       "num": 162521,
       "word": "许凯田曦薇吻戏路透",
@@ -26403,6 +26499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155739,
+      "num": 155739,
+      "word": "给猫取名字还是上点心吧",
+      "onboard_time": 1707836496,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155727,
       "num": 155727,
       "word": "新人结婚婆家铺2公里气球路连到娘家",
@@ -26889,14 +26993,6 @@
       "onboard_time": 1706840486,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152424,
-      "num": 152424,
-      "word": "狗狗偷偷溜上床被小主人背刺",
-      "onboard_time": 1707833741,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 152423,
@@ -28177,6 +28273,14 @@
       "onboard_time": 1707467612,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143115,
+      "num": 143115,
+      "word": "马嘉祺颐和园滑冰vlog",
+      "onboard_time": 1707835179,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143041,
@@ -30547,14 +30651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127651,
-      "num": 127651,
-      "word": "四川人的已读乱回",
-      "onboard_time": 1707834759,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127595,
       "num": 127595,
       "word": "董宇辉新东方年会发言",
@@ -32187,6 +32283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115280,
+      "num": 211196,
+      "word": "美国1月CPI报告",
+      "onboard_time": 1707836440,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115218,
       "num": 115218,
       "word": "李昊直播",
@@ -33137,6 +33241,14 @@
       "onboard_time": 1707147154,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106952,
+      "num": 119903,
+      "word": "男子酒醒发现身上4千多现金没了",
+      "onboard_time": 1707837218,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106914,
