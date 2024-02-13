@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707808570331,
+  "endTime": 1707809635505,
   "band_list": [
     {
       "raw_hot": 7597988,
@@ -75,12 +75,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1644394,
-      "num": 1644394,
+      "raw_hot": 1835443,
+      "num": 454917,
+      "word": "钟楚曦侯雯元恋情",
+      "onboard_time": 1707809313,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1771254,
+      "num": 1771254,
       "word": "占山头",
       "onboard_time": 1707806316,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1673416,
+      "num": 518395,
+      "word": "侯雯元有名分了",
+      "onboard_time": 1707807815,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1524678,
@@ -105,6 +121,14 @@
       "onboard_time": 1707784171,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381728,
+      "num": 1381728,
+      "word": "白敬亭衣服 DVN",
+      "onboard_time": 1707808834,
+      "rank": 1,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1320467,
@@ -185,14 +209,6 @@
       "onboard_time": 1707803137,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 845746,
-      "num": 518395,
-      "word": "侯雯元有名分了",
-      "onboard_time": 1707807815,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 821768,
@@ -603,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332120,
+      "num": 372721,
+      "word": "95后孙女给75岁奶奶染火龙果发色",
+      "onboard_time": 1707806137,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328915,
       "num": 319347,
       "word": "全员加速中",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 319310,
-      "num": 279001,
+      "num": 280755,
       "word": "魏大勋大侦探妆造",
       "onboard_time": 1707807395,
       "rank": 21,
@@ -665,14 +689,6 @@
       "onboard_time": 1707795337,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277664,
-      "num": 277664,
-      "word": "95后孙女给75岁奶奶染火龙果发色",
-      "onboard_time": 1707806137,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277555,
@@ -907,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208087,
+      "num": 213706,
+      "word": "中国历史上第一款流行色",
+      "onboard_time": 1707806016,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206574,
       "num": 202568,
       "word": "周芯竹小龙女妆",
@@ -993,14 +1017,6 @@
       "onboard_time": 1707735092,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189593,
-      "num": 213706,
-      "word": "中国历史上第一款流行色",
-      "onboard_time": 1707806016,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187954,
@@ -1459,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106309,
+      "num": 106309,
+      "word": "大城市消费降级小城市消费升级",
+      "onboard_time": 1707809557,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104847,
       "num": 104847,
       "word": "北方人第一次看福建游神",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1707740551,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 83597,
+      "num": 124707,
+      "word": "带宝宝回来过年的意义找到了",
+      "onboard_time": 1707809017,
+      "rank": 42,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 80300,
@@ -1649,6 +1681,9 @@
     },
     {
       "word": "#促进各族人民大团结#"
+    },
+    {
+      "word": "#文化中国团圆年#"
     }
   ]
 }

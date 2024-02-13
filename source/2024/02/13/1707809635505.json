@@ -1,0 +1,410 @@
+{
+  "runTime": 1707809635505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1771254,
+        "num": 1771254,
+        "word": "占山头",
+        "onboard_time": 1707806316,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1381728,
+        "num": 1381728,
+        "word": "白敬亭衣服 DVN",
+        "onboard_time": 1707808834,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 1136544,
+        "word": "2024龙年龘吉",
+        "onboard_time": 1707801037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952751,
+        "num": 952751,
+        "word": "张艺兴连包18场支持贾玲新电影",
+        "onboard_time": 1707806196,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 811874,
+        "num": 811874,
+        "word": "福茂集团董事长车祸去世",
+        "onboard_time": 1707796116,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687921,
+        "num": 687921,
+        "word": "难哄男主",
+        "onboard_time": 1707798515,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637207,
+        "num": 637207,
+        "word": "辛芷蕾回应花少被消音",
+        "onboard_time": 1707804337,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535256,
+        "num": 535256,
+        "word": "灵隐寺半夜排队人挤人",
+        "onboard_time": 1707804997,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1707043,
+        "num": 534818,
+        "word": "上一个穿错衣服的去甘露寺了",
+        "onboard_time": 1707801518,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 652305,
+        "num": 497694,
+        "word": "上春山是贵州献礼",
+        "onboard_time": 1707798937,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1835443,
+        "num": 454917,
+        "word": "钟楚曦侯雯元恋情",
+        "onboard_time": 1707809313,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822782,
+        "num": 438898,
+        "word": "已经会唱上春山了",
+        "onboard_time": 1707786571,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724166,
+        "num": 392096,
+        "word": "元宵晚会 上春山",
+        "onboard_time": 1707792755,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389188,
+        "num": 389188,
+        "word": "微信摇一摇功能下线",
+        "onboard_time": 1707805834,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332120,
+        "num": 372721,
+        "word": "95后孙女给75岁奶奶染火龙果发色",
+        "onboard_time": 1707806137,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1673416,
+        "num": 372307,
+        "word": "侯雯元有名分了",
+        "onboard_time": 1707807815,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458745,
+        "num": 372233,
+        "word": "马思纯是周冬雨唯一的姐",
+        "onboard_time": 1707803137,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369934,
+        "num": 369934,
+        "word": "王东承认家暴",
+        "onboard_time": 1707792395,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355326,
+        "num": 355326,
+        "word": "热辣滚烫评分涨至8.0",
+        "onboard_time": 1707806376,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336761,
+        "num": 336761,
+        "word": "双魏",
+        "onboard_time": 1707790712,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375828,
+        "num": 328928,
+        "word": "春节期间被男朋友断崖式分手",
+        "onboard_time": 1707801037,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320855,
+        "num": 320855,
+        "word": "贾玲芭莎力量感封面大片",
+        "onboard_time": 1707792873,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 281149,
+        "num": 281149,
+        "word": "260斤女孩1年减132斤",
+        "onboard_time": 1707800076,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280755,
+        "num": 280755,
+        "word": "魏大勋大侦探妆造",
+        "onboard_time": 1707807395,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260610,
+        "num": 260610,
+        "word": "大杨哥被鞭炮炸伤",
+        "onboard_time": 1707794380,
+        "rank": 24,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 243716,
+        "num": 243716,
+        "word": "去月老庙求签掉出几十位真命天子",
+        "onboard_time": 1707804516,
+        "rank": 25,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 210630,
+        "num": 210630,
+        "word": "原来龘字不在新华字典里",
+        "onboard_time": 1707806732,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 208087,
+        "num": 208087,
+        "word": "中国历史上第一款流行色",
+        "onboard_time": 1707806016,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180662,
+        "num": 180662,
+        "word": "董宇辉过年顺走小孩哥鞭炮",
+        "onboard_time": 1707805055,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178804,
+        "num": 178804,
+        "word": "孙艺洲说不撕吕子乔标签",
+        "onboard_time": 1707800136,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178555,
+        "num": 178555,
+        "word": "李雪琴摸贾玲肌肉",
+        "onboard_time": 1707804759,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177461,
+        "num": 177461,
+        "word": "张突然",
+        "onboard_time": 1707799599,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177341,
+        "num": 177341,
+        "word": "贾玲芭莎 健康自信的美",
+        "onboard_time": 1707796837,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169958,
+        "num": 169958,
+        "word": "0713一次春晚三个感受",
+        "onboard_time": 1707802176,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163904,
+        "num": 163904,
+        "word": "时代少年团棉花娃娃",
+        "onboard_time": 1707804997,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147837,
+        "num": 147837,
+        "word": "檀健次与父亲一起看房",
+        "onboard_time": 1707798937,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141900,
+        "num": 141900,
+        "word": "赵丽颖朱一龙知否对戏花絮",
+        "onboard_time": 1707796058,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137644,
+        "num": 137644,
+        "word": "开40万国产新能源回村亲戚笑买了杂牌",
+        "onboard_time": 1707793657,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134842,
+        "num": 134842,
+        "word": "尼格买提评论区",
+        "onboard_time": 1707799478,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116312,
+        "num": 133111,
+        "word": "姐妹俩包饺子妈妈看到美甲无语了",
+        "onboard_time": 1707791374,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131753,
+        "num": 131753,
+        "word": "彭昱畅爆改",
+        "onboard_time": 1707799777,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "理发店门口为什么有三色柱",
+        "onboard_time": 1707800737,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83597,
+        "num": 124707,
+        "word": "带宝宝回来过年的意义找到了",
+        "onboard_time": 1707809017,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 123997,
+        "num": 123997,
+        "word": "全员加速中",
+        "onboard_time": 1707802835,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113245,
+        "num": 113245,
+        "word": "山花",
+        "onboard_time": 1707792633,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107876,
+        "num": 107876,
+        "word": "张小斐送过贾玲一朵小红花",
+        "onboard_time": 1707790895,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106309,
+        "num": 106309,
+        "word": "大城市消费降级小城市消费升级",
+        "onboard_time": 1707809557,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104381,
+        "num": 104381,
+        "word": "周芯竹小龙女妆",
+        "onboard_time": 1707802718,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 104247,
+        "num": 104247,
+        "word": "尼格买提说自己三天没笑过了",
+        "onboard_time": 1707740614,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103529,
+        "num": 103529,
+        "word": "赵安吉父亲悼念女儿",
+        "onboard_time": 1707803916,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

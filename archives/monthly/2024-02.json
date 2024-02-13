@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707808570331,
+  "endTime": 1707809635505,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1835443,
+      "num": 454917,
+      "word": "钟楚曦侯雯元恋情",
+      "onboard_time": 1707809313,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1835082,
       "num": 1835082,
       "word": "十个勤天 春晚压轴",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1707358228,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1771254,
+      "num": 1771254,
+      "word": "占山头",
+      "onboard_time": 1707806316,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1769577,
@@ -1491,6 +1507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1673416,
+      "num": 518395,
+      "word": "侯雯元有名分了",
+      "onboard_time": 1707807815,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1658713,
       "num": 1389640,
       "word": "陈哲远的年夜饭",
@@ -1536,14 +1560,6 @@
       "word": "任素汐唱歌真好听",
       "onboard_time": 1707491348,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1644394,
-      "num": 1644394,
-      "word": "占山头",
-      "onboard_time": 1707806316,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2097,6 +2113,14 @@
       "onboard_time": 1707784171,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381728,
+      "num": 1381728,
+      "word": "白敬亭衣服 DVN",
+      "onboard_time": 1707808834,
+      "rank": 1,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1376336,
@@ -4553,14 +4577,6 @@
       "onboard_time": 1707046411,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845746,
-      "num": 518395,
-      "word": "侯雯元有名分了",
-      "onboard_time": 1707807815,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 845501,
@@ -12515,6 +12531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332120,
+      "num": 372721,
+      "word": "95后孙女给75岁奶奶染火龙果发色",
+      "onboard_time": 1707806137,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331897,
       "num": 262951,
       "word": "宋茜多巴胺写真",
@@ -13020,7 +13044,7 @@
     },
     {
       "raw_hot": 319310,
-      "num": 279001,
+      "num": 280755,
       "word": "魏大勋大侦探妆造",
       "onboard_time": 1707807395,
       "rank": 21,
@@ -14665,14 +14689,6 @@
       "onboard_time": 1707400715,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 277664,
-      "num": 277664,
-      "word": "95后孙女给75岁奶奶染火龙果发色",
-      "onboard_time": 1707806137,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277624,
@@ -19291,6 +19307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208087,
+      "num": 213706,
+      "word": "中国历史上第一款流行色",
+      "onboard_time": 1707806016,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208031,
       "num": 208031,
       "word": "秦岚四登央视春晚",
@@ -21729,14 +21753,6 @@
       "onboard_time": 1706778330,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189593,
-      "num": 213706,
-      "word": "中国历史上第一款流行色",
-      "onboard_time": 1707806016,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189514,
@@ -32115,6 +32131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106309,
+      "num": 106309,
+      "word": "大城市消费降级小城市消费升级",
+      "onboard_time": 1707809557,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106302,
       "num": 170881,
       "word": "张家齐黄建杰混双十米台夺冠",
@@ -33153,6 +33177,14 @@
       "onboard_time": 1706794593,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83597,
+      "num": 124707,
+      "word": "带宝宝回来过年的意义找到了",
+      "onboard_time": 1707809017,
+      "rank": 42,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 83513,
