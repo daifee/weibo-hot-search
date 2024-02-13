@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707780835710,
+  "endTime": 1707786709729,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1524678,
+      "num": 893460,
+      "word": "重庆解放碑",
+      "onboard_time": 1707781585,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1506976,
       "num": 1506976,
       "word": "董力阿拉蕾",
@@ -257,6 +265,14 @@
       "onboard_time": 1707659136,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1320467,
+      "num": 1320467,
+      "word": "重庆解放碑逆行撞车男子被刑拘",
+      "onboard_time": 1707783750,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319142,
@@ -464,6 +480,14 @@
       "word": "压岁钱200元拿不出手最低600",
       "onboard_time": 1707695665,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1113199,
+      "num": 1113199,
+      "word": "农村悄然出现以家庭为单位的断亲",
+      "onboard_time": 1707784171,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 907359,
+      "num": 907359,
+      "word": "已经会唱上春山了",
+      "onboard_time": 1707786571,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 888497,
       "num": 888497,
       "word": "糖送八大家是什么梗",
@@ -753,6 +785,14 @@
       "onboard_time": 1707696566,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 784784,
+      "num": 784784,
+      "word": "秋瓷炫和公公一起贴对联",
+      "onboard_time": 1707780202,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 784693,
@@ -865,6 +905,14 @@
       "onboard_time": 1707741392,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718173,
+      "num": 718173,
+      "word": "iPhone16ProMax续航有望突破30h",
+      "onboard_time": 1707784228,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 715045,
@@ -1123,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 591306,
+      "num": 591306,
+      "word": "陪贾玲训练的狗狗是拍李焕英时捡的",
+      "onboard_time": 1707781887,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 589819,
       "num": 474353,
       "word": "贾玲全球独立执导女性导演票房第二",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1707722068,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 523494,
+      "num": 523494,
+      "word": "上春山现场直拍",
+      "onboard_time": 1707749135,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 523431,
@@ -1433,6 +1497,14 @@
       "onboard_time": 1707733353,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472846,
+      "num": 472846,
+      "word": "俄乌局势",
+      "onboard_time": 1707784171,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 470217,
@@ -1603,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415427,
-      "num": 415427,
-      "word": "上春山现场直拍",
-      "onboard_time": 1707749135,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413794,
       "num": 481431,
       "word": "三年级小学生攒下70万压岁钱",
@@ -1683,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386065,
+      "num": 307657,
+      "word": "男友点的花被我妈拿来迎财神了",
+      "onboard_time": 1707785732,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384422,
       "num": 384422,
       "word": "貂蝉吕布情限皮肤",
@@ -1707,12 +1779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377908,
+      "num": 377908,
+      "word": "吴磊用漂亮形容赵今麦",
+      "onboard_time": 1707784349,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377688,
       "num": 377688,
       "word": "Jasper拜年照",
       "onboard_time": 1707634833,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377367,
+      "num": 377367,
+      "word": "IU预告里有汤唯",
+      "onboard_time": 1707780020,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 374620,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1707705031,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373717,
+      "num": 373717,
+      "word": "初四",
+      "onboard_time": 1707783750,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 373004,
@@ -2251,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271154,
+      "num": 271154,
+      "word": "普京两年来首次接受美国记者采访",
+      "onboard_time": 1707779842,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 270843,
       "num": 220327,
       "word": "男子下车就被侄女请去掌勺年夜饭",
@@ -2419,6 +2523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249156,
+      "num": 249156,
+      "word": "没结婚的长辈替我顶住了压力",
+      "onboard_time": 1707782786,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249074,
       "num": 233523,
       "word": "贾玲说李雪琴和乔杉拍卧室戏很大胆",
@@ -2545,6 +2657,14 @@
       "onboard_time": 1707728734,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237610,
+      "num": 237610,
+      "word": "你爱上的人其实是你的性格",
+      "onboard_time": 1707783689,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 236104,
@@ -2704,6 +2824,14 @@
       "word": "赵丽颖做到了",
       "onboard_time": 1707699269,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 226789,
+      "num": 226789,
+      "word": "外国人看贾玲瘦身前后的反应",
+      "onboard_time": 1707785612,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -3115,6 +3243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197568,
+      "num": 197568,
+      "word": "李雪琴预判了观众的提问",
+      "onboard_time": 1707785551,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "易烊千玺弹贝斯vlog",
@@ -3243,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187954,
+      "num": 187954,
+      "word": "千元羽绒服被姥姥家火炕烙糊",
+      "onboard_time": 1707781465,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187749,
       "num": 187749,
       "word": "李银河 再一次被贾玲感动",
@@ -3339,6 +3483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181156,
+      "num": 181156,
+      "word": "迪丽热巴春晚彩排幕后",
+      "onboard_time": 1707785432,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180811,
       "num": 180811,
       "word": "鞠婧祎陈丽君 仙品",
@@ -3361,6 +3513,14 @@
       "onboard_time": 1707646173,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179946,
+      "num": 179946,
+      "word": "XG被淘汰",
+      "onboard_time": 1707785852,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 179727,
@@ -3489,6 +3649,14 @@
       "onboard_time": 1707704729,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 173727,
+      "num": 173727,
+      "word": "不能给孩子换个大勺儿吗",
+      "onboard_time": 1707785732,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 173478,
@@ -4235,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139180,
+      "num": 139180,
+      "word": "当摸羊摸到一半突然离开时",
+      "onboard_time": 1707782847,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138881,
       "num": 138881,
       "word": "毛晓彤公主花车巡游",
@@ -4467,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127986,
+      "num": 127986,
+      "word": "贾玲晓斐叫我小林哥 我女儿叫她们姐",
+      "onboard_time": 1707780442,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127889,
       "num": 127889,
       "word": "不会用四脚着地的猫",
@@ -4555,12 +4739,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 124010,
-      "num": 62489,
-      "word": "秋瓷炫和公公一起贴对联",
-      "onboard_time": 1707780202,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 123817,
+      "num": 123817,
+      "word": "我国脑机接口技术让截瘫患者抓握准确率超90%",
+      "onboard_time": 1707783270,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123713,
@@ -4689,14 +4873,6 @@
       "onboard_time": 1707609386,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119689,
-      "num": 119689,
-      "word": "普京两年来首次接受美国记者采访",
-      "onboard_time": 1707779842,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 119359,
@@ -4891,6 +5067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109806,
+      "num": 109806,
+      "word": "飞驰人生2票房破11亿",
+      "onboard_time": 1707783147,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108261,
       "num": 117846,
       "word": "延续80年的初一头碗饺子敬英烈",
@@ -5011,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93928,
+      "num": 93928,
+      "word": "不打扰是爱的最高境界",
+      "onboard_time": 1707786033,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93608,
       "num": 93608,
       "word": "马宁判点",
@@ -5025,6 +5217,14 @@
       "onboard_time": 1707647554,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92874,
+      "num": 92874,
+      "word": "幸福家庭连宠物都是幸福的",
+      "onboard_time": 1707784591,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92799,
@@ -5097,14 +5297,6 @@
       "onboard_time": 1707572259,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84529,
-      "num": 84529,
-      "word": "IU预告里有汤唯",
-      "onboard_time": 1707780020,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 82676,
@@ -5288,14 +5480,6 @@
       "word": "赵丽颖表弟说姐姐你太厉害了",
       "onboard_time": 1707564036,
       "rank": 46,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 41696,
-      "num": 45228,
-      "word": "贾玲晓斐叫我小林哥 我女儿叫她们姐",
-      "onboard_time": 1707780442,
-      "rank": 42,
       "category": "电影"
     },
     {
