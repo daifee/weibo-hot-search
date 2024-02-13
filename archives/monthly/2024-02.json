@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707849362663,
+  "endTime": 1707851638323,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -35337,6 +35337,14 @@
       "onboard_time": 1707128188,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56244,
+      "num": 37600,
+      "word": "宋江ins粉丝破2100万",
+      "onboard_time": 1707849619,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 56242,
