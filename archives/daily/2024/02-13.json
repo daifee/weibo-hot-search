@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707787860866,
+  "endTime": 1707789868153,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2298954,
-      "num": 2298954,
+      "raw_hot": 2710018,
+      "num": 2710018,
       "word": "已经会唱上春山了",
       "onboard_time": 1707786571,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1707740614,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 870308,
+      "num": 870308,
+      "word": "垫底辣孩 安徽省服更有性价比",
+      "onboard_time": 1707786751,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 821768,
@@ -113,14 +121,6 @@
       "onboard_time": 1707730712,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 615074,
-      "num": 549312,
-      "word": "垫底辣孩 安徽省服更有性价比",
-      "onboard_time": 1707786751,
-      "rank": 11,
-      "category": "时尚"
     },
     {
       "raw_hot": 591306,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 464345,
+      "num": 464345,
+      "word": "陈若琳谈全红婵眼里全是爱",
+      "onboard_time": 1707788494,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454287,
       "num": 454287,
       "word": "豆瓣崩了",
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341327,
+      "num": 341327,
+      "word": "外国人看贾玲瘦身前后的反应",
+      "onboard_time": 1707785612,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321353,
       "num": 321353,
       "word": "上春山 好听",
@@ -265,14 +281,6 @@
       "onboard_time": 1707772517,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 291061,
-      "num": 291061,
-      "word": "外国人看贾玲瘦身前后的反应",
-      "onboard_time": 1707785612,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 271154,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253512,
+      "num": 242507,
+      "word": "整顿红包失败被父母教育",
+      "onboard_time": 1707787713,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249156,
       "num": 249156,
       "word": "没结婚的长辈替我顶住了压力",
@@ -305,6 +321,14 @@
       "onboard_time": 1707753631,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243866,
+      "num": 243866,
+      "word": "hybe新女团将于3月出道",
+      "onboard_time": 1707789815,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 237610,
@@ -395,12 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195825,
-      "num": 195825,
+      "raw_hot": 199311,
+      "num": 199311,
       "word": "XG被淘汰",
       "onboard_time": 1707785852,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196256,
+      "num": 196256,
+      "word": "双节叠加80后小伙送鲜花月入6万",
+      "onboard_time": 1707788671,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193512,
@@ -409,6 +441,22 @@
       "onboard_time": 1707735092,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192700,
+      "num": 192700,
+      "word": "最高检再评第二十条",
+      "onboard_time": 1707787892,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 190974,
+      "num": 190974,
+      "word": "情人节前黄金巧克力搜索暴涨20倍",
+      "onboard_time": 1707789330,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187954,
@@ -459,10 +507,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151355,
-      "num": 151355,
-      "word": "整顿红包失败被父母教育",
-      "onboard_time": 1707787713,
+      "raw_hot": 150929,
+      "num": 150929,
+      "word": "过年最讨厌的就是炫耀",
+      "onboard_time": 1707789330,
       "rank": 35,
       "category": "情感"
     },
@@ -481,6 +529,14 @@
       "onboard_time": 1707745296,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143362,
+      "num": 143362,
+      "word": "克莱为留勇士愿当配角",
+      "onboard_time": 1707788073,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 141623,
@@ -505,6 +561,14 @@
       "onboard_time": 1707754231,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139908,
+      "num": 139908,
+      "word": "狗狗回村后变身有轨电狗",
+      "onboard_time": 1707788195,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 139180,
@@ -547,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125020,
+      "num": 125020,
+      "word": "专家称今年买房性价比更高",
+      "onboard_time": 1707789815,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123900,
       "num": 123900,
       "word": "三婚彩礼40万元村民认为一点不夸张",
@@ -569,6 +641,14 @@
       "onboard_time": 1707745959,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117414,
+      "num": 117414,
+      "word": "余承东开问界M9返深圳",
+      "onboard_time": 1707787657,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 116539,
