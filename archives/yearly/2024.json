@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707824031975,
+  "endTime": 1707827403943,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2489557,
+      "num": 2489557,
+      "word": "白敬亭",
+      "onboard_time": 1707826478,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2486315,
       "num": 2486315,
       "word": "曾舜晞 我明明对上了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705716686,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1985286,
-      "num": 1920426,
-      "word": "倒计时晚了",
-      "onboard_time": 1707495839,
-      "rank": 16,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

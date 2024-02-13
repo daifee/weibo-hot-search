@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707824031975,
+  "endTime": 1707827403943,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -72,6 +72,14 @@
       "word": "已经会唱上春山了",
       "onboard_time": 1707786571,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2489557,
+      "num": 2489557,
+      "word": "白敬亭",
+      "onboard_time": 1707826478,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -275,6 +283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 866710,
+      "num": 866710,
+      "word": "莫斯科交易所暂停股票交易",
+      "onboard_time": 1707824260,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 824047,
+      "num": 185619,
+      "word": "韩媒 中国放烟花影响韩国空气质量",
+      "onboard_time": 1707826057,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821768,
       "num": 808884,
       "word": "糖送八大家是什么梗",
@@ -289,6 +313,14 @@
       "onboard_time": 1707817180,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 807590,
+      "num": 807590,
+      "word": "卖肉的舅舅称体重给外甥们发红包",
+      "onboard_time": 1707824197,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784784,
@@ -387,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 687369,
+      "num": 687369,
+      "word": "俄罗斯",
+      "onboard_time": 1707826234,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 686282,
       "num": 686282,
       "word": "等红绿灯偶遇赵丽颖",
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 590185,
-      "num": 263156,
+      "num": 263618,
       "word": "暧昧期突然下头真的是绝杀",
       "onboard_time": 1707820599,
       "rank": 20,
@@ -659,6 +699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 430337,
+      "num": 430337,
+      "word": "叶舒华回归期第五次健康声明",
+      "onboard_time": 1707823537,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427357,
       "num": 427357,
       "word": "张艺兴热辣滚烫充电曲",
@@ -681,6 +729,14 @@
       "onboard_time": 1707818259,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 422025,
+      "num": 422025,
+      "word": "热辣滚烫",
+      "onboard_time": 1707745296,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 410854,
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 385776,
-      "num": 262710,
+      "num": 262851,
       "word": "孙艺洲是飞驰2唯一的遗憾",
       "onboard_time": 1707820905,
       "rank": 21,
@@ -787,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367041,
+      "num": 367041,
+      "word": "金智秀发微博祝大家新年快乐",
+      "onboard_time": 1707826297,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361592,
       "num": 589852,
       "word": "22岁华人女孩独自雪山徒步不幸遇难",
@@ -801,6 +865,14 @@
       "onboard_time": 1707741392,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357772,
+      "num": 357772,
+      "word": "苏新皓女装",
+      "onboard_time": 1707824857,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 344963,
@@ -899,6 +971,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 291878,
+      "num": 291878,
+      "word": "王楚钦希望世乒赛尽自己一份力",
+      "onboard_time": 1707825158,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283405,
       "num": 283405,
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
@@ -931,12 +1011,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278146,
+      "num": 263443,
+      "word": "贾玲主演票房破80亿",
+      "onboard_time": 1707826297,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277555,
       "num": 277555,
       "word": "hybe新女团将于3月出道",
       "onboard_time": 1707789815,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276743,
+      "num": 276743,
+      "word": "巨蟹座的付出不是无条件的",
+      "onboard_time": 1707823177,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 276345,
+      "num": 276345,
+      "word": "优素福妈妈",
+      "onboard_time": 1707823475,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 275685,
@@ -977,14 +1081,6 @@
       "onboard_time": 1707798394,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263930,
-      "num": 263930,
-      "word": "叶舒华回归期第五次健康声明",
-      "onboard_time": 1707823537,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 262893,
@@ -1052,7 +1148,7 @@
     },
     {
       "raw_hot": 252653,
-      "num": 187882,
+      "num": 223160,
       "word": "学者研究断亲现象",
       "onboard_time": 1707823597,
       "rank": 30,
@@ -1107,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242383,
+      "num": 242383,
+      "word": "第二十条票房破6亿",
+      "onboard_time": 1707826717,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241995,
       "num": 241995,
       "word": "哈尔滨冰雪大世界停售初四门票",
@@ -1121,14 +1225,6 @@
       "onboard_time": 1707783689,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233976,
-      "num": 233976,
-      "word": "优素福妈妈",
-      "onboard_time": 1707823475,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 233965,
@@ -1379,6 +1475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190309,
+      "num": 190309,
+      "word": "山东泰山2比3川崎前锋",
+      "onboard_time": 1707827077,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187954,
       "num": 187954,
       "word": "千元羽绒服被姥姥家火炕烙糊",
@@ -1417,14 +1521,6 @@
       "onboard_time": 1707785432,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179049,
-      "num": 179049,
-      "word": "巨蟹座的付出不是无条件的",
-      "onboard_time": 1707823177,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 176081,
@@ -1473,6 +1569,14 @@
       "onboard_time": 1707793235,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170547,
+      "num": 170547,
+      "word": "看心情吧",
+      "onboard_time": 1707827195,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 169157,
@@ -1657,14 +1761,6 @@
       "onboard_time": 1707818259,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 149298,
-      "num": 149298,
-      "word": "热辣滚烫",
-      "onboard_time": 1707745296,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 145609,
@@ -1947,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120135,
+      "num": 1213444,
+      "word": "空中视角的打铁花如漫天繁星",
+      "onboard_time": 1707810334,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119223,
       "num": 119223,
       "word": "第二十条",
@@ -2091,6 +2195,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 111793,
+      "num": 111793,
+      "word": "平遥古城有近4000处传统建筑",
+      "onboard_time": 1707825217,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 109821,
       "num": 109821,
       "word": "热辣滚烫票房",
@@ -2129,6 +2241,14 @@
       "onboard_time": 1707729152,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107980,
+      "num": 107980,
+      "word": "胡夏大年三十也着急下班",
+      "onboard_time": 1707824618,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 106595,
@@ -2209,6 +2329,14 @@
       "onboard_time": 1707784591,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92393,
+      "num": 92393,
+      "word": "打你个臭小狗",
+      "onboard_time": 1707825039,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91201,

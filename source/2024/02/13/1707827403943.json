@@ -1,0 +1,410 @@
+{
+  "runTime": 1707827403943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2489557,
+        "num": 2489557,
+        "word": "白敬亭",
+        "onboard_time": 1707826478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1585748,
+        "num": 1585748,
+        "word": "甜馨回应压岁钱争议",
+        "onboard_time": 1707820477,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120135,
+        "num": 1213444,
+        "word": "空中视角的打铁花如漫天繁星",
+        "onboard_time": 1707810334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025033,
+        "num": 1025033,
+        "word": "春晚每一个走位都精心设计并被准确呈现",
+        "onboard_time": 1707811294,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866710,
+        "num": 866710,
+        "word": "莫斯科交易所暂停股票交易",
+        "onboard_time": 1707824260,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 807590,
+        "num": 807590,
+        "word": "卖肉的舅舅称体重给外甥们发红包",
+        "onboard_time": 1707824197,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687369,
+        "num": 687369,
+        "word": "俄罗斯",
+        "onboard_time": 1707826234,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 517824,
+        "num": 517824,
+        "word": "贾玲 阿姨我能抱抱你吗",
+        "onboard_time": 1707815560,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514484,
+        "num": 514484,
+        "word": "英国伦敦偶遇郭晶晶一家",
+        "onboard_time": 1707822518,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469131,
+        "num": 469131,
+        "word": "等红绿灯偶遇赵丽颖",
+        "onboard_time": 1707821795,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430337,
+        "num": 430337,
+        "word": "叶舒华回归期第五次健康声明",
+        "onboard_time": 1707823537,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422025,
+        "num": 422025,
+        "word": "热辣滚烫",
+        "onboard_time": 1707824857,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379296,
+        "num": 379296,
+        "word": "钟楚曦侯雯元恋情",
+        "onboard_time": 1707809313,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368698,
+        "num": 368698,
+        "word": "奶奶嚼碎花生喂2岁孩子致其患病",
+        "onboard_time": 1707809854,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367041,
+        "num": 367041,
+        "word": "金智秀发微博祝大家新年快乐",
+        "onboard_time": 1707826297,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357772,
+        "num": 357772,
+        "word": "苏新皓女装",
+        "onboard_time": 1707824857,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291878,
+        "num": 291878,
+        "word": "王楚钦希望世乒赛尽自己一份力",
+        "onboard_time": 1707825158,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276743,
+        "num": 276743,
+        "word": "巨蟹座的付出不是无条件的",
+        "onboard_time": 1707823177,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276345,
+        "num": 276345,
+        "word": "优素福妈妈",
+        "onboard_time": 1707823475,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264862,
+        "num": 264862,
+        "word": "网红铁头惩恶扬善遭全网封禁",
+        "onboard_time": 1707816522,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 403382,
+        "num": 263618,
+        "word": "暧昧期突然下头真的是绝杀",
+        "onboard_time": 1707820599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278146,
+        "num": 263443,
+        "word": "贾玲主演票房破80亿",
+        "onboard_time": 1707826297,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272314,
+        "num": 262851,
+        "word": "孙艺洲是飞驰2唯一的遗憾",
+        "onboard_time": 1707820905,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262124,
+        "num": 262124,
+        "word": "上门喂猫别人家的猫死了",
+        "onboard_time": 1707818259,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248695,
+        "num": 248695,
+        "word": "孕激素到底有多厉害",
+        "onboard_time": 1707816282,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 242383,
+        "num": 242383,
+        "word": "第二十条票房破6亿",
+        "onboard_time": 1707826717,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234236,
+        "num": 234236,
+        "word": "表妹给的这是散装卫生巾吗",
+        "onboard_time": 1707816698,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223160,
+        "num": 223160,
+        "word": "学者研究断亲现象",
+        "onboard_time": 1707823597,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211756,
+        "num": 211756,
+        "word": "大侦探",
+        "onboard_time": 1707819398,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190309,
+        "num": 190309,
+        "word": "山东泰山2比3川崎前锋",
+        "onboard_time": 1707827077,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824047,
+        "num": 185619,
+        "word": "韩媒 中国放烟花影响韩国空气质量",
+        "onboard_time": 1707826057,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170547,
+        "num": 170547,
+        "word": "看心情吧",
+        "onboard_time": 1707827195,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151017,
+        "num": 151017,
+        "word": "22岁华人女孩独自雪山徒步不幸遇难",
+        "onboard_time": 1707814662,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149860,
+        "num": 149860,
+        "word": "春节做美甲前建议问清隐形消费",
+        "onboard_time": 1707821918,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145695,
+        "num": 145695,
+        "word": "吃剩菜宁剩荤不剩素",
+        "onboard_time": 1707820780,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123992,
+        "num": 123992,
+        "word": "姆巴佩团队不满皇马报价",
+        "onboard_time": 1707821377,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122565,
+        "num": 122565,
+        "word": "游客到杭州西湖要准备一元纸币",
+        "onboard_time": 1707820121,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114696,
+        "num": 114696,
+        "word": "电影八戒呼吁增加排片",
+        "onboard_time": 1707823056,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112168,
+        "num": 112168,
+        "word": "热辣滚烫评分涨至8.0",
+        "onboard_time": 1707806376,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111895,
+        "num": 111895,
+        "word": "烟火人家",
+        "onboard_time": 1707823778,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111793,
+        "num": 111793,
+        "word": "平遥古城有近4000处传统建筑",
+        "onboard_time": 1707825217,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 109983,
+        "word": "亚冠",
+        "onboard_time": 1707820239,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109016,
+        "num": 109016,
+        "word": "薛之谦新歌AI",
+        "onboard_time": 1707820239,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107980,
+        "num": 107980,
+        "word": "胡夏大年三十也着急下班",
+        "onboard_time": 1707824618,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105079,
+        "num": 105079,
+        "word": "守护甜心 亚梦海报",
+        "onboard_time": 1707820057,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102227,
+        "num": 102227,
+        "word": "王宁语言艺术",
+        "onboard_time": 1707818197,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99195,
+        "num": 99195,
+        "word": "贾玲芭莎力量感封面大片",
+        "onboard_time": 1707792873,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97587,
+        "num": 97587,
+        "word": "张艺兴连包18场支持贾玲新电影",
+        "onboard_time": 1707806196,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92624,
+        "num": 92624,
+        "word": "东北虎京京打针委屈找奶妈求抱抱",
+        "onboard_time": 1707817839,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92393,
+        "num": 92393,
+        "word": "打你个臭小狗",
+        "onboard_time": 1707825039,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#心系民生冷暖情牵万家灯火#"
+    }
+  }
+}
