@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707786709729,
+  "endTime": 1707787860866,
   "band_list": [
     {
       "raw_hot": 7342180,
@@ -64,6 +64,14 @@
       "word": "尼格买提说自己三天没笑过了",
       "onboard_time": 1707740614,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2298954,
+      "num": 2298954,
+      "word": "已经会唱上春山了",
+      "onboard_time": 1707786571,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -249,6 +257,14 @@
       "onboard_time": 1707654092,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1382986,
+      "num": 1382986,
+      "word": "农村悄然出现以家庭为单位的断亲",
+      "onboard_time": 1707784171,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1324627,
@@ -483,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1113199,
-      "num": 1113199,
-      "word": "农村悄然出现以家庭为单位的断亲",
-      "onboard_time": 1707784171,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1106504,
       "num": 1106504,
       "word": "霍思燕嗯哼开上黄博基尼了",
@@ -697,14 +705,6 @@
       "onboard_time": 1707624930,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 907359,
-      "num": 907359,
-      "word": "已经会唱上春山了",
-      "onboard_time": 1707786571,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 888497,
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 615074,
+      "num": 549312,
+      "word": "垫底辣孩 安徽省服更有性价比",
+      "onboard_time": 1707786751,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1707647012,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 576157,
+      "num": 576157,
+      "word": "俄乌局势",
+      "onboard_time": 1707784171,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 575425,
@@ -1315,11 +1331,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 530368,
+      "num": 307657,
+      "word": "男友点的花被我妈拿来迎财神了",
+      "onboard_time": 1707785732,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529818,
       "num": 529818,
       "word": "春山学",
       "onboard_time": 1707705451,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528543,
+      "num": 528543,
+      "word": "吴磊用漂亮形容赵今麦",
+      "onboard_time": 1707784349,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -1497,14 +1529,6 @@
       "onboard_time": 1707733353,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 472846,
-      "num": 472846,
-      "word": "俄乌局势",
-      "onboard_time": 1707784171,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 470217,
@@ -1747,14 +1771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 386065,
-      "num": 307657,
-      "word": "男友点的花被我妈拿来迎财神了",
-      "onboard_time": 1707785732,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 384422,
       "num": 384422,
       "word": "貂蝉吕布情限皮肤",
@@ -1776,14 +1792,6 @@
       "word": "魏晨唱歌真好听",
       "onboard_time": 1707750639,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 377908,
-      "num": 377908,
-      "word": "吴磊用漂亮形容赵今麦",
-      "onboard_time": 1707784349,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -2225,6 +2233,14 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291061,
+      "num": 291061,
+      "word": "外国人看贾玲瘦身前后的反应",
+      "onboard_time": 1707785612,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 288853,
@@ -2819,19 +2835,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228188,
+      "num": 228188,
+      "word": "李雪琴预判了观众的提问",
+      "onboard_time": 1707785551,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227664,
       "num": 227664,
       "word": "赵丽颖做到了",
       "onboard_time": 1707699269,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 226789,
-      "num": 226789,
-      "word": "外国人看贾玲瘦身前后的反应",
-      "onboard_time": 1707785612,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -3243,14 +3259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197568,
-      "num": 197568,
-      "word": "李雪琴预判了观众的提问",
-      "onboard_time": 1707785551,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "易烊千玺弹贝斯vlog",
@@ -3281,6 +3289,14 @@
       "onboard_time": 1707715232,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 195825,
+      "num": 195825,
+      "word": "XG被淘汰",
+      "onboard_time": 1707785852,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 195655,
@@ -3513,14 +3529,6 @@
       "onboard_time": 1707646173,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179946,
-      "num": 179946,
-      "word": "XG被淘汰",
-      "onboard_time": 1707785852,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 179727,
@@ -4107,6 +4115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151355,
+      "num": 151355,
+      "word": "整顿红包失败被父母教育",
+      "onboard_time": 1707787713,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151078,
       "num": 151078,
       "word": "飞驰人生2 属于每个人的巴音布鲁克",
@@ -4619,6 +4635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129575,
+      "num": 129575,
+      "word": "我国脑机接口技术让截瘫患者抓握准确率超90%",
+      "onboard_time": 1707783270,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128717,
       "num": 128717,
       "word": "看我们一起摇太阳在哭什么",
@@ -4737,14 +4761,6 @@
       "onboard_time": 1707698070,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123817,
-      "num": 123817,
-      "word": "我国脑机接口技术让截瘫患者抓握准确率超90%",
-      "onboard_time": 1707783270,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 123713,
@@ -4961,6 +4977,14 @@
       "onboard_time": 1707638373,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114918,
+      "num": 114918,
+      "word": "00后有自己的走亲戚方式",
+      "onboard_time": 1707785132,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 114771,
