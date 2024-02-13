@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707851638323,
+  "endTime": 1707852846188,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -36659,6 +36659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 22891,
+      "num": 22891,
+      "word": "吴磊剧中打台球是来真的",
+      "onboard_time": 1707852437,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22346,
       "num": 553629,
       "word": "元梦之星红包开撒",
@@ -36985,6 +36993,14 @@
       "onboard_time": 1706731816,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15408,
+      "num": 20366,
+      "word": "韩明暗线",
+      "onboard_time": 1707852798,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 15209,
