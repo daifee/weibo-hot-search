@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707845649166,
+  "endTime": 1707848541758,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -449,6 +449,14 @@
       "onboard_time": 1707826297,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33263,
+      "num": 41710,
+      "word": "准备和财神谈恋爱",
+      "onboard_time": 1707830199,
+      "rank": 41,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
