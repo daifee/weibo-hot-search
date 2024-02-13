@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707858951906,
+  "endTime": 1707860139620,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -35843,6 +35843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 41910,
+      "num": 41910,
+      "word": "求证cp等于be",
+      "onboard_time": 1707856035,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41700,
       "num": 42019,
       "word": "为什么流感发病48小时是黄金自救期",
@@ -36177,14 +36185,6 @@
       "onboard_time": 1706775570,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33938,
-      "num": 33938,
-      "word": "求证cp等于be",
-      "onboard_time": 1707856035,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 33899,
@@ -36675,6 +36675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 22578,
+      "num": 22578,
+      "word": "曾黎穿马面裙过大年",
+      "onboard_time": 1707858497,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22346,
       "num": 553629,
       "word": "元梦之星红包开撒",
@@ -37051,20 +37059,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14265,
+      "num": 14265,
+      "word": "春晚女星口红色号大盘点",
+      "onboard_time": 1707858737,
+      "rank": 49,
+      "category": "美妆,综艺"
+    },
+    {
       "raw_hot": 14106,
       "num": 19305,
       "word": "雪地里来了猪咪画家",
       "onboard_time": 1706911096,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14022,
-      "num": 14022,
-      "word": "曾黎穿马面裙过大年",
-      "onboard_time": 1707858497,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 13876,
@@ -37195,6 +37203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 11844,
+      "num": 11844,
+      "word": "厨房洗碗海绵可能比马桶还脏",
+      "onboard_time": 1707859516,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 11724,
       "num": 13869,
       "word": "格莱美预热晚会",
@@ -37217,14 +37233,6 @@
       "onboard_time": 1707337997,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11419,
-      "num": 11419,
-      "word": "春晚女星口红色号大盘点",
-      "onboard_time": 1707858737,
-      "rank": 49,
-      "category": "美妆,综艺"
     },
     {
       "raw_hot": 11410,

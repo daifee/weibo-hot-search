@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707858951906,
+  "endTime": 1707860139620,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -459,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41910,
+      "num": 41910,
+      "word": "求证cp等于be",
+      "onboard_time": 1707856035,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38058,
       "num": 38058,
       "word": "吴磊剧中打台球是来真的",
       "onboard_time": 1707852437,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33938,
-      "num": 33938,
-      "word": "求证cp等于be",
-      "onboard_time": 1707856035,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 33263,
@@ -483,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22578,
+      "num": 22578,
+      "word": "曾黎穿马面裙过大年",
+      "onboard_time": 1707858497,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18038,
       "num": 20366,
       "word": "韩明暗线",
@@ -491,12 +499,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14022,
-      "num": 14022,
-      "word": "曾黎穿马面裙过大年",
-      "onboard_time": 1707858497,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 14265,
+      "num": 14265,
+      "word": "春晚女星口红色号大盘点",
+      "onboard_time": 1707858737,
+      "rank": 49,
+      "category": "美妆,综艺"
     },
     {
       "raw_hot": 13527,
@@ -507,12 +515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11419,
-      "num": 11419,
-      "word": "春晚女星口红色号大盘点",
-      "onboard_time": 1707858737,
+      "raw_hot": 11844,
+      "num": 11844,
+      "word": "厨房洗碗海绵可能比马桶还脏",
+      "onboard_time": 1707859516,
       "rank": 49,
-      "category": "美妆,综艺"
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
