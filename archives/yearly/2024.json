@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707805407760,
+  "endTime": 1707806098712,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2284004,
+      "num": 2284004,
+      "word": "上一个穿错衣服的去甘露寺了",
+      "onboard_time": 1707801518,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2283638,
       "num": 1953245,
       "word": "TFBOYS都这么大了",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1704466476,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2190664,
-      "num": 2190664,
-      "word": "上一个穿错衣服的去甘露寺了",
-      "onboard_time": 1707801518,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2190269,

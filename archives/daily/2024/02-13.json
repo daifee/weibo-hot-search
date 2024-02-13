@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707805407760,
+  "endTime": 1707806098712,
   "band_list": [
     {
       "raw_hot": 7597988,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2284004,
+      "num": 2284004,
+      "word": "上一个穿错衣服的去甘露寺了",
+      "onboard_time": 1707801518,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2205714,
       "num": 2205714,
       "word": "元宵晚会 上春山",
       "onboard_time": 1707792755,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2190664,
-      "num": 2190664,
-      "word": "上一个穿错衣服的去甘露寺了",
-      "onboard_time": 1707801518,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2190269,
@@ -115,8 +115,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 1175148,
-      "num": 1137862,
+      "raw_hot": 1222021,
+      "num": 1222021,
       "word": "福茂集团董事长车祸去世",
       "onboard_time": 1707796116,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 963006,
+      "num": 963006,
+      "word": "辛芷蕾回应花少被消音",
+      "onboard_time": 1707804337,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 933388,
       "num": 933388,
       "word": "马思纯是周冬雨唯一的姐",
@@ -177,14 +185,6 @@
       "onboard_time": 1707780202,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 773652,
-      "num": 773652,
-      "word": "辛芷蕾回应花少被消音",
-      "onboard_time": 1707804337,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 773594,
@@ -363,8 +363,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 513389,
-      "num": 513389,
+      "raw_hot": 513797,
+      "num": 513797,
       "word": "0713一次春晚三个感受",
       "onboard_time": 1707802176,
       "rank": 17,
@@ -417,6 +417,14 @@
       "onboard_time": 1707799478,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431283,
+      "num": 513412,
+      "word": "理发店门口为什么有三色柱",
+      "onboard_time": 1707800737,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 427357,
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358376,
-      "num": 513412,
-      "word": "理发店门口为什么有三色柱",
-      "onboard_time": 1707800737,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 357815,
       "num": 319775,
       "word": "央视文艺回复尼格买提",
@@ -595,6 +595,22 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 283314,
+      "num": 283314,
+      "word": "灵隐寺半夜排队人挤人",
+      "onboard_time": 1707804997,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 278584,
+      "num": 278584,
+      "word": "去月老庙求签掉出几十位真命天子",
+      "onboard_time": 1707804516,
+      "rank": 30,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 278280,
       "num": 263322,
       "word": "他在乎的不是那三十块钱",
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275685,
+      "num": 275685,
+      "word": "赵安吉父亲悼念女儿",
+      "onboard_time": 1707803916,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271154,
       "num": 271154,
       "word": "普京两年来首次接受美国记者采访",
@@ -625,6 +649,14 @@
       "onboard_time": 1707793417,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267888,
+      "num": 211268,
+      "word": "董宇辉过年顺走小孩哥鞭炮",
+      "onboard_time": 1707805055,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 267599,
@@ -659,28 +691,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 259736,
-      "num": 157668,
-      "word": "去月老庙求签掉出几十位真命天子",
-      "onboard_time": 1707804516,
-      "rank": 30,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 257606,
       "num": 257606,
       "word": "范丞丞说自己是中华田园犬",
       "onboard_time": 1707801274,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257496,
-      "num": 257496,
-      "word": "赵安吉父亲悼念女儿",
-      "onboard_time": 1707803916,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253512,
@@ -704,6 +720,14 @@
       "word": "贾玲说李雪琴和乔杉拍卧室戏很大胆",
       "onboard_time": 1707753631,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 247619,
+      "num": 247619,
+      "word": "李雪琴摸贾玲肌肉",
+      "onboard_time": 1707804759,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -755,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223084,
+      "num": 211023,
+      "word": "热辣滚烫 心灵觉醒自我救赎",
+      "onboard_time": 1707805354,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220390,
       "num": 220390,
       "word": "最高检再评第二十条",
@@ -795,6 +827,14 @@
       "category": "网红,综艺"
     },
     {
+      "raw_hot": 212627,
+      "num": 212627,
+      "word": "时代少年团棉花娃娃",
+      "onboard_time": 1707804997,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211686,
       "num": 211686,
       "word": "以后可以有玲女郎了",
@@ -803,16 +843,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208815,
-      "num": 157173,
-      "word": "李雪琴摸贾玲肌肉",
-      "onboard_time": 1707804759,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206574,
-      "num": 156733,
+      "num": 202568,
       "word": "周芯竹小龙女妆",
       "onboard_time": 1707802718,
       "rank": 32,
@@ -875,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200455,
+      "num": 200455,
+      "word": "微信摇一摇功能下线",
+      "onboard_time": 1707805834,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196256,
       "num": 196256,
       "word": "双节叠加80后小伙送鲜花月入6万",
@@ -883,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193700,
-      "num": 155982,
-      "word": "时代少年团棉花娃娃",
-      "onboard_time": 1707804997,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 195993,
+      "num": 195993,
+      "word": "辛芷蕾说花少里都是好演员",
+      "onboard_time": 1707805596,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 193512,
@@ -905,22 +945,6 @@
       "onboard_time": 1707781465,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186533,
-      "num": 155556,
-      "word": "灵隐寺半夜排队人挤人",
-      "onboard_time": 1707804997,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 181750,
-      "num": 154951,
-      "word": "董宇辉过年顺走小孩哥鞭炮",
-      "onboard_time": 1707805055,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 181156,
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 158152,
-      "num": 158152,
+      "num": 181994,
       "word": "四川人手一只熊猫真的说不清了",
       "onboard_time": 1707803436,
       "rank": 29,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1707800496,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144489,
+      "num": 1194652,
+      "word": "2024龙年龘吉",
+      "onboard_time": 1707801037,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143362,
@@ -1147,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129999,
-      "num": 1194652,
-      "word": "2024龙年龘吉",
-      "onboard_time": 1707801037,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129575,
       "num": 129575,
       "word": "我国脑机接口技术让截瘫患者抓握准确率超90%",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1707790416,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 125939,
-      "num": 125939,
-      "word": "热辣滚烫 心灵觉醒自我救赎",
-      "onboard_time": 1707805354,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 125144,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1707738873,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116457,
+      "num": 116457,
+      "word": "中国历史上第一款流行色",
+      "onboard_time": 1707806016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114918,
