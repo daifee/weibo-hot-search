@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707798877290,
+  "endTime": 1707801398713,
   "band_list": [
     {
       "raw_hot": 7597988,
@@ -25,6 +25,14 @@
       "onboard_time": 1707786571,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2607033,
+      "num": 1259205,
+      "word": "白敬亭粉丝澄清视频下架",
+      "onboard_time": 1707798036,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2205714,
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1453819,
+      "num": 1453819,
+      "word": "难哄男主",
+      "onboard_time": 1707798515,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1382986,
       "num": 1382986,
       "word": "农村悄然出现以家庭为单位的断亲",
       "onboard_time": 1707784171,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1348660,
-      "num": 1259205,
-      "word": "白敬亭粉丝澄清视频下架",
-      "onboard_time": 1707798036,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1320467,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1175148,
-      "num": 726405,
+      "num": 1085145,
       "word": "福茂集团董事长车祸去世",
       "onboard_time": 1707796116,
       "rank": 10,
@@ -129,6 +137,14 @@
       "onboard_time": 1707792873,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1056763,
+      "num": 1056763,
+      "word": "上春山是贵州献礼",
+      "onboard_time": 1707798937,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 821768,
@@ -203,6 +219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 648397,
+      "num": 648397,
+      "word": "彭昱畅爆改",
+      "onboard_time": 1707799777,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 644205,
+      "num": 644205,
+      "word": "孙艺洲说不撕吕子乔标签",
+      "onboard_time": 1707800136,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 635345,
       "num": 635345,
       "word": "山花",
@@ -249,6 +281,14 @@
       "onboard_time": 1707788494,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 546167,
+      "num": 546167,
+      "word": "张突然",
+      "onboard_time": 1707799599,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 530368,
@@ -323,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441071,
+      "num": 441071,
+      "word": "尼格买提评论区",
+      "onboard_time": 1707799478,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427357,
       "num": 427357,
       "word": "张艺兴热辣滚烫充电曲",
@@ -347,12 +395,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 401858,
+      "num": 263357,
+      "word": "马思纯圈内人缘",
+      "onboard_time": 1707798638,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382528,
       "num": 382528,
       "word": "情人节前黄金巧克力搜索暴涨20倍",
       "onboard_time": 1707789330,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379992,
+      "num": 198605,
+      "word": "檀健次与父亲一起看房",
+      "onboard_time": 1707798937,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 377367,
@@ -395,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367215,
-      "num": 263357,
-      "word": "马思纯圈内人缘",
-      "onboard_time": 1707798638,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 357815,
       "num": 319775,
       "word": "央视文艺回复尼格买提",
       "onboard_time": 1707741392,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355932,
+      "num": 198308,
+      "word": "260斤女孩1年减132斤",
+      "onboard_time": 1707800076,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344559,
@@ -459,12 +523,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283554,
-      "num": 283554,
-      "word": "难哄男主",
-      "onboard_time": 1707798515,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 297327,
+      "num": 194140,
+      "word": "贾玲冲浪 张小斐天亮看到天黑",
+      "onboard_time": 1707800737,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291032,
+      "num": 191686,
+      "word": "边伯贤泡泡终止",
+      "onboard_time": 1707800257,
+      "rank": 26,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 287641,
+      "num": 191286,
+      "word": "春节期间被男朋友断崖式分手",
+      "onboard_time": 1707801037,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 278280,
@@ -523,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260279,
+      "num": 501174,
+      "word": "加沙人饿得开始吃鸟食",
+      "onboard_time": 1707796596,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 253512,
       "num": 247749,
       "word": "整顿红包失败被父母教育",
@@ -571,12 +659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233813,
-      "num": 263431,
-      "word": "加沙人饿得开始吃鸟食",
-      "onboard_time": 1707796596,
+      "raw_hot": 235329,
+      "num": 188758,
+      "word": "范丞丞说自己是中华田园犬",
+      "onboard_time": 1707801274,
       "rank": 28,
-      "category": "国外时政"
+      "category": "电影"
     },
     {
       "raw_hot": 232510,
@@ -675,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202530,
+      "num": 202530,
+      "word": "勇士五连胜",
+      "onboard_time": 1707800076,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201395,
       "num": 201395,
       "word": "魏晨唱歌真好听",
@@ -723,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174060,
+      "num": 174060,
+      "word": "理发店门口为什么有三色柱",
+      "onboard_time": 1707800737,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 173727,
       "num": 173727,
       "word": "不能给孩子换个大勺儿吗",
@@ -763,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161834,
+      "num": 161834,
+      "word": "贾玲 她比谁都有力量",
+      "onboard_time": 1707800199,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154733,
       "num": 154733,
       "word": "印尼一球员比赛时被闪电击中后身亡",
@@ -785,6 +897,14 @@
       "onboard_time": 1707745296,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145609,
+      "num": 145609,
+      "word": "外星小猫",
+      "onboard_time": 1707800496,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 143362,
@@ -947,6 +1067,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 121902,
+      "num": 121902,
+      "word": "摇太阳 是撒糖不是撒盐",
+      "onboard_time": 1707800677,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119223,
       "num": 119223,
       "word": "第二十条",
@@ -1001,6 +1129,14 @@
       "onboard_time": 1707789692,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113187,
+      "num": 113187,
+      "word": "库里25分",
+      "onboard_time": 1707800376,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112350,
@@ -1145,6 +1281,14 @@
       "onboard_time": 1707779962,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55116,
+      "num": 1085611,
+      "word": "2024龙年龘吉",
+      "onboard_time": 1707801037,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52284,
