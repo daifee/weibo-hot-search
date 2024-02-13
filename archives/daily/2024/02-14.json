@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707844500274,
+  "endTime": 1707845649166,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -179,6 +179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224737,
+      "num": 201527,
+      "word": "文咏珊和老公现身机场",
+      "onboard_time": 1707843387,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222095,
       "num": 188641,
       "word": "暧昧期突然下头真的是绝杀",
@@ -259,12 +267,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142273,
-      "num": 142273,
-      "word": "文咏珊和老公现身机场",
-      "onboard_time": 1707843387,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 147552,
+      "num": 147552,
+      "word": "贾玲雷佳音爸爸客串热辣滚烫",
+      "onboard_time": 1707842010,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 138774,
@@ -280,14 +288,6 @@
       "word": "贾玲张小斐CP名",
       "onboard_time": 1707836440,
       "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 130154,
-      "num": 130154,
-      "word": "贾玲雷佳音爸爸客串热辣滚烫",
-      "onboard_time": 1707842010,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -435,7 +435,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48283,
+      "raw_hot": 49545,
       "num": 64954,
       "word": "可怜的东西将上线",
       "onboard_time": 1707844349,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707844500274,
+  "endTime": 1707845649166,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -18547,6 +18547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224737,
+      "num": 201527,
+      "word": "文咏珊和老公现身机场",
+      "onboard_time": 1707843387,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224695,
       "num": 224695,
       "word": "花儿与少年5主题曲MV",
@@ -27683,6 +27691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147552,
+      "num": 147552,
+      "word": "贾玲雷佳音爸爸客串热辣滚烫",
+      "onboard_time": 1707842010,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147550,
       "num": 147550,
       "word": "龚俊 一个人演完春晚",
@@ -28481,14 +28497,6 @@
       "onboard_time": 1706883336,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142273,
-      "num": 142273,
-      "word": "文咏珊和老公现身机场",
-      "onboard_time": 1707843387,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 141997,
@@ -30409,14 +30417,6 @@
       "onboard_time": 1707281312,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130154,
-      "num": 130154,
-      "word": "贾玲雷佳音爸爸客串热辣滚烫",
-      "onboard_time": 1707842010,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 130057,
@@ -35571,6 +35571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49545,
+      "num": 64954,
+      "word": "可怜的东西将上线",
+      "onboard_time": 1707844349,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49479,
       "num": 49479,
       "word": "恨不得连夜把书读烂",
@@ -35641,14 +35649,6 @@
       "onboard_time": 1707072556,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48283,
-      "num": 64954,
-      "word": "可怜的东西将上线",
-      "onboard_time": 1707844349,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 48156,
