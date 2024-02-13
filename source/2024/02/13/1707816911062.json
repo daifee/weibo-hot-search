@@ -1,0 +1,410 @@
+{
+  "runTime": 1707816911062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14498230,
+        "num": 14498230,
+        "word": "上春山彩排视频 轮C",
+        "onboard_time": 1707812616,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10002357,
+        "num": 10002357,
+        "word": "上春山7号彩排视频",
+        "onboard_time": 1707815438,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120316,
+        "num": 4106917,
+        "word": "2024龙年龘吉",
+        "onboard_time": 1707801037,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2948662,
+        "num": 2948662,
+        "word": "春晚每一个走位都精心设计并被准确呈现",
+        "onboard_time": 1707811294,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1619147,
+        "num": 1619147,
+        "word": "白敬亭衣服 DVN",
+        "onboard_time": 1707808834,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1552033,
+        "num": 1552033,
+        "word": "六公主播魏大勋的紧急救援",
+        "onboard_time": 1707812373,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1032547,
+        "num": 1032547,
+        "word": "上春山",
+        "onboard_time": 1707814963,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 906773,
+        "num": 906773,
+        "word": "勋小葵",
+        "onboard_time": 1707813579,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445661,
+        "num": 766826,
+        "word": "奶奶嚼碎花生喂2岁孩子致其患病",
+        "onboard_time": 1707809854,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202948,
+        "num": 757813,
+        "word": "大城市消费降级小城市消费升级",
+        "onboard_time": 1707809557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748868,
+        "num": 748868,
+        "word": "钟楚曦侯雯元恋情",
+        "onboard_time": 1707809313,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708202,
+        "num": 708202,
+        "word": "贾玲 阿姨我能抱抱你吗",
+        "onboard_time": 1707815560,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 676133,
+        "num": 676133,
+        "word": "魏大勋上春山表情包",
+        "onboard_time": 1707811534,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492950,
+        "num": 492950,
+        "word": "惹了热爱对称的中国人",
+        "onboard_time": 1707811834,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361592,
+        "num": 463762,
+        "word": "22岁华人女孩独自雪山徒步不幸遇难",
+        "onboard_time": 1707814662,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446334,
+        "num": 446334,
+        "word": "侯雯元有名分了",
+        "onboard_time": 1707807815,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389728,
+        "num": 389728,
+        "word": "圆顺",
+        "onboard_time": 1707815739,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283405,
+        "num": 283405,
+        "word": "李雪琴曾为贾玲和杜乐莹爆哭",
+        "onboard_time": 1707815856,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232810,
+        "num": 232810,
+        "word": "哈尔滨多个景点停止营业或撤场拆除",
+        "onboard_time": 1707813878,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199154,
+        "num": 228751,
+        "word": "iPhone相机记得这样设置",
+        "onboard_time": 1707813519,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276780,
+        "num": 228721,
+        "word": "春节期间被男朋友断崖式分手",
+        "onboard_time": 1707801037,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226396,
+        "num": 226396,
+        "word": "春晚幕后纪录片公布",
+        "onboard_time": 1707812979,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224509,
+        "num": 224509,
+        "word": "网红铁头惩恶扬善遭全网封禁",
+        "onboard_time": 1707816522,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221627,
+        "num": 221627,
+        "word": "张艺兴连包18场支持贾玲新电影",
+        "onboard_time": 1707806196,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221507,
+        "num": 221507,
+        "word": "王东承认家暴",
+        "onboard_time": 1707792395,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213654,
+        "num": 213654,
+        "word": "贾玲芭莎力量感封面大片",
+        "onboard_time": 1707792873,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356699,
+        "num": 213547,
+        "word": "福茂集团董事长车祸去世",
+        "onboard_time": 1707796116,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213422,
+        "num": 213422,
+        "word": "王源你到底拍了多少次",
+        "onboard_time": 1707812674,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200202,
+        "num": 200202,
+        "word": "第二十条讲了啥",
+        "onboard_time": 1707814601,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182807,
+        "num": 182807,
+        "word": "升温",
+        "onboard_time": 1707815140,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296451,
+        "num": 179642,
+        "word": "孕激素到底有多厉害",
+        "onboard_time": 1707816282,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 276220,
+        "num": 176842,
+        "word": "表妹给的这是散装卫生巾吗",
+        "onboard_time": 1707816698,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169157,
+        "num": 169157,
+        "word": "热辣滚烫细节",
+        "onboard_time": 1707816042,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154900,
+        "num": 154900,
+        "word": "画得真好下次别画了",
+        "onboard_time": 1707814536,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151974,
+        "num": 151974,
+        "word": "辛芷蕾回应花少被消音",
+        "onboard_time": 1707804337,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137428,
+        "num": 137428,
+        "word": "热辣滚烫评分涨至8.0",
+        "onboard_time": 1707806376,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136918,
+        "num": 136918,
+        "word": "复原煮熟的拉面",
+        "onboard_time": 1707816466,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134661,
+        "num": 134661,
+        "word": "灵隐寺半夜排队人挤人",
+        "onboard_time": 1707804997,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131013,
+        "num": 131013,
+        "word": "260斤女孩1年减132斤",
+        "onboard_time": 1707800076,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130241,
+        "num": 130241,
+        "word": "白羊座追求养成系的爱",
+        "onboard_time": 1707815923,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120289,
+        "num": 120289,
+        "word": "尼格买提评论区",
+        "onboard_time": 1707799478,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118659,
+        "num": 118659,
+        "word": "不敢想象一大口下去得多幸福",
+        "onboard_time": 1707813700,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116867,
+        "num": 116867,
+        "word": "猫真的是好爱干净的小动物",
+        "onboard_time": 1707816824,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113084,
+        "num": 113084,
+        "word": "全圆佑直播",
+        "onboard_time": 1707812616,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112799,
+        "num": 112799,
+        "word": "马思纯是周冬雨唯一的姐",
+        "onboard_time": 1707803137,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111565,
+        "num": 111565,
+        "word": "00后的消费",
+        "onboard_time": 1707815680,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103691,
+        "num": 103691,
+        "word": "大杨哥被鞭炮炸伤",
+        "onboard_time": 1707794380,
+        "rank": 46,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 187811,
+        "num": 103383,
+        "word": "双魏",
+        "onboard_time": 1707790712,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101526,
+        "num": 101526,
+        "word": "比较是偷走幸福的小偷",
+        "onboard_time": 1707813759,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69910,
+        "num": 98838,
+        "word": "95后孙女给75岁奶奶染火龙果发色",
+        "onboard_time": 1707806137,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

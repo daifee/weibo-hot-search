@@ -1,13 +1,21 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707815822697,
+  "endTime": 1707816911062,
   "band_list": [
     {
-      "raw_hot": 14053294,
-      "num": 14053294,
+      "raw_hot": 14498230,
+      "num": 14498230,
       "word": "上春山彩排视频 轮C",
       "onboard_time": 1707812616,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10002357,
+      "num": 10002357,
+      "word": "上春山7号彩排视频",
+      "onboard_time": 1707815438,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -31,14 +39,6 @@
       "num": 4670663,
       "word": "春晚每一个走位都精心设计并被准确呈现",
       "onboard_time": 1707811294,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4190451,
-      "num": 4190451,
-      "word": "上春山7号彩排视频",
-      "onboard_time": 1707815438,
       "rank": 1,
       "category": "综艺"
     },
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708202,
+      "num": 708202,
+      "word": "贾玲 阿姨我能抱抱你吗",
+      "onboard_time": 1707815560,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 707710,
       "num": 707710,
       "word": "乳糖不耐受的典型症状",
@@ -2147,6 +2155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389728,
+      "num": 389728,
+      "word": "圆顺",
+      "onboard_time": 1707815739,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389234,
       "num": 389234,
       "word": "希林娜依高 她是乐莹也是我自己",
@@ -2305,6 +2321,14 @@
       "onboard_time": 1707639569,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 361592,
+      "num": 589852,
+      "word": "22岁华人女孩独自雪山徒步不幸遇难",
+      "onboard_time": 1707814662,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360462,
@@ -2491,14 +2515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329320,
-      "num": 589852,
-      "word": "22岁华人女孩独自雪山徒步不幸遇难",
-      "onboard_time": 1707814662,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328915,
       "num": 319347,
       "word": "全员加速中",
@@ -2675,6 +2691,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 296451,
+      "num": 179642,
+      "word": "孕激素到底有多厉害",
+      "onboard_time": 1707816282,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 296062,
       "num": 296062,
       "word": "原来有一种瘦是因为家里做饭太难吃",
@@ -2763,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283405,
+      "num": 283405,
+      "word": "李雪琴曾为贾玲和杜乐莹爆哭",
+      "onboard_time": 1707815856,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 282278,
       "num": 282278,
       "word": "原神",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1707789815,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276220,
+      "num": 176842,
+      "word": "表妹给的这是散装卫生巾吗",
+      "onboard_time": 1707816698,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 275685,
@@ -3315,14 +3355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236851,
-      "num": 236851,
-      "word": "贾玲 阿姨我能抱抱你吗",
-      "onboard_time": 1707815560,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236104,
       "num": 236104,
       "word": "当中英双语念出李清照的词",
@@ -3513,6 +3545,14 @@
       "onboard_time": 1707624450,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224509,
+      "num": 224509,
+      "word": "网红铁头惩恶扬善遭全网封禁",
+      "onboard_time": 1707816522,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 223450,
@@ -3963,6 +4003,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 200202,
+      "num": 200202,
+      "word": "第二十条讲了啥",
+      "onboard_time": 1707814601,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199251,
       "num": 199251,
       "word": "罗伯特 飞驰人生2自来水",
@@ -3977,6 +4025,14 @@
       "onboard_time": 1707554912,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199154,
+      "num": 228751,
+      "word": "iPhone相机记得这样设置",
+      "onboard_time": 1707813519,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 198386,
@@ -4049,14 +4105,6 @@
       "onboard_time": 1707606199,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193692,
-      "num": 193692,
-      "word": "第二十条讲了啥",
-      "onboard_time": 1707814601,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 193349,
@@ -4139,14 +4187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188132,
-      "num": 188132,
-      "word": "圆顺",
-      "onboard_time": 1707815739,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187954,
       "num": 187954,
       "word": "千元羽绒服被姥姥家火炕烙糊",
@@ -4219,20 +4259,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184969,
-      "num": 184969,
-      "word": "iPhone相机记得这样设置",
-      "onboard_time": 1707813519,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183597,
       "num": 183597,
       "word": "宝宝说医生爸爸再不回家自己就长大了",
       "onboard_time": 1707726032,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 182807,
+      "num": 241985,
+      "word": "升温",
+      "onboard_time": 1707815140,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182715,
@@ -4531,6 +4571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169157,
+      "num": 169157,
+      "word": "热辣滚烫细节",
+      "onboard_time": 1707816042,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169146,
       "num": 169146,
       "word": "逛山姆成为中产标签",
@@ -4609,14 +4657,6 @@
       "onboard_time": 1707645450,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166285,
-      "num": 241985,
-      "word": "升温",
-      "onboard_time": 1707815140,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166039,
@@ -4833,6 +4873,14 @@
       "onboard_time": 1707632429,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154900,
+      "num": 154900,
+      "word": "画得真好下次别画了",
+      "onboard_time": 1707814536,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 154712,
@@ -5132,7 +5180,7 @@
     },
     {
       "raw_hot": 144489,
-      "num": 3915114,
+      "num": 4106917,
       "word": "2024龙年龘吉",
       "onboard_time": 1707801037,
       "rank": 2,
@@ -5339,12 +5387,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 137344,
-      "num": 137344,
-      "word": "画得真好下次别画了",
-      "onboard_time": 1707814536,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 136918,
+      "num": 136918,
+      "word": "复原煮熟的拉面",
+      "onboard_time": 1707816466,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 136514,
@@ -5529,6 +5577,14 @@
       "onboard_time": 1707704611,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130241,
+      "num": 130241,
+      "word": "白羊座追求养成系的爱",
+      "onboard_time": 1707815923,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 130176,
@@ -5939,6 +5995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116867,
+      "num": 116867,
+      "word": "猫真的是好爱干净的小动物",
+      "onboard_time": 1707816824,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116702,
       "num": 116702,
       "word": "沈腾替张驰求赞",
@@ -6121,6 +6185,14 @@
       "onboard_time": 1707797433,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 111565,
+      "num": 111565,
+      "word": "00后的消费",
+      "onboard_time": 1707815680,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 110965,
