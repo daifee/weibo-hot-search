@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707841323393,
+  "endTime": 1707842350498,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -377,6 +377,14 @@
       "onboard_time": 1707781585,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1518787,
+      "num": 1518787,
+      "word": "情人节",
+      "onboard_time": 1707840814,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1506976,
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1010388,
+      "num": 1010388,
+      "word": "财神爷",
+      "onboard_time": 1707841294,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1006464,
       "num": 1006464,
       "word": "迪丽热巴素颜练舞",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1707745475,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 869710,
-      "num": 869710,
-      "word": "情人节",
-      "onboard_time": 1707840814,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 866710,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1707784349,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527554,
+      "num": 527554,
+      "word": "初五",
+      "onboard_time": 1707841294,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 523516,
@@ -4867,14 +4883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184743,
-      "num": 184743,
-      "word": "初五",
-      "onboard_time": 1707841294,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183690,
       "num": 183690,
       "word": "守护甜心 亚梦海报",
@@ -5169,14 +5177,6 @@
       "onboard_time": 1707801579,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 171209,
-      "num": 171209,
-      "word": "财神爷",
-      "onboard_time": 1707841294,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 171043,
@@ -5539,6 +5539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158167,
+      "num": 158167,
+      "word": "凌晨2点的哈尔滨什么样",
+      "onboard_time": 1707838834,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158152,
       "num": 181994,
       "word": "四川人手一只熊猫真的说不清了",
@@ -5721,14 +5729,6 @@
       "onboard_time": 1707640532,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153388,
-      "num": 147718,
-      "word": "凌晨2点的哈尔滨什么样",
-      "onboard_time": 1707838834,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 153363,
@@ -6592,6 +6592,14 @@
       "word": "第二十条 在嬉笑中讨论现实话题",
       "onboard_time": 1707620729,
       "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 127053,
+      "num": 127053,
+      "word": "贾玲雷佳音爸爸客串热辣滚烫",
+      "onboard_time": 1707842010,
+      "rank": 34,
       "category": "电影"
     },
     {

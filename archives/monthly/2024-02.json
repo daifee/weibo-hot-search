@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707841323393,
+  "endTime": 1707842350498,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1923,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1518787,
+      "num": 1518787,
+      "word": "情人节",
+      "onboard_time": 1707840814,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1518122,
       "num": 1518122,
       "word": "鱿鱼游戏爷爷因强制猥亵被判刑",
@@ -3691,6 +3699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1010388,
+      "num": 1010388,
+      "word": "财神爷",
+      "onboard_time": 1707841294,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1009624,
       "num": 1009624,
       "word": "董洁儿子顶顶身高",
@@ -4513,14 +4529,6 @@
       "onboard_time": 1707124951,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 869710,
-      "num": 869710,
-      "word": "情人节",
-      "onboard_time": 1707840814,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 868487,
@@ -8633,6 +8641,14 @@
       "onboard_time": 1707215669,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 527554,
+      "num": 527554,
+      "word": "初五",
+      "onboard_time": 1707841294,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 527183,
@@ -23083,14 +23099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184743,
-      "num": 184743,
-      "word": "初五",
-      "onboard_time": 1707841294,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184691,
       "num": 184691,
       "word": "本命年",
@@ -24617,14 +24625,6 @@
       "onboard_time": 1707540277,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 171209,
-      "num": 171209,
-      "word": "财神爷",
-      "onboard_time": 1707841294,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 171191,
@@ -26307,6 +26307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158167,
+      "num": 158167,
+      "word": "凌晨2点的哈尔滨什么样",
+      "onboard_time": 1707838834,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158152,
       "num": 181994,
       "word": "四川人手一只熊猫真的说不清了",
@@ -26977,14 +26985,6 @@
       "onboard_time": 1707318093,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153388,
-      "num": 147718,
-      "word": "凌晨2点的哈尔滨什么样",
-      "onboard_time": 1707838834,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 153382,
@@ -30817,6 +30817,14 @@
       "onboard_time": 1707049594,
       "rank": 47,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 127053,
+      "num": 127053,
+      "word": "贾玲雷佳音爸爸客串热辣滚烫",
+      "onboard_time": 1707842010,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 126888,
