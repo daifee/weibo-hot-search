@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707838456786,
+  "endTime": 1707841323393,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -643,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1169127,
+      "num": 1169127,
+      "word": "跑步的是贾玲瘦的是整个剧组",
+      "onboard_time": 1707838477,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1156984,
       "num": 1156984,
       "word": "豆瓣崩了",
@@ -993,6 +1001,14 @@
       "onboard_time": 1707745475,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 869710,
+      "num": 869710,
+      "word": "情人节",
+      "onboard_time": 1707840814,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 866710,
@@ -1691,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 586033,
+      "num": 586033,
+      "word": "tws 注水",
+      "onboard_time": 1707837939,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 583125,
       "num": 314551,
       "word": "这6类微信红包千万别点开",
@@ -2139,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 472864,
+      "num": 472864,
+      "word": "明星们看到贾玲后的反应",
+      "onboard_time": 1707837637,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 470217,
       "num": 470217,
       "word": "不是贾玲规训了我 而是我预设了她",
@@ -2348,7 +2380,7 @@
     },
     {
       "raw_hot": 427363,
-      "num": 427363,
+      "num": 481031,
       "word": "破五是要破什么",
       "onboard_time": 1707831939,
       "rank": 15,
@@ -3147,14 +3179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287082,
-      "num": 287082,
-      "word": "明星们看到贾玲后的反应",
-      "onboard_time": 1707837637,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 286928,
       "num": 254256,
       "word": "把姐姐爆改成甜妹",
@@ -3321,6 +3345,14 @@
       "onboard_time": 1707732154,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273443,
+      "num": 210582,
+      "word": "男子酒醒发现身上4千多现金没了",
+      "onboard_time": 1707837218,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273434,
@@ -3649,14 +3681,6 @@
       "onboard_time": 1707804759,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247569,
-      "num": 210582,
-      "word": "男子酒醒发现身上4千多现金没了",
-      "onboard_time": 1707837218,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246376,
@@ -4299,14 +4323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 210331,
-      "num": 210331,
-      "word": "tws 注水",
-      "onboard_time": 1707837939,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210123,
       "num": 210123,
       "word": "热辣滚烫票房破15亿",
@@ -4851,6 +4867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184743,
+      "num": 184743,
+      "word": "初五",
+      "onboard_time": 1707841294,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183690,
       "num": 183690,
       "word": "守护甜心 亚梦海报",
@@ -4897,6 +4921,14 @@
       "onboard_time": 1707645332,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182341,
+      "num": 182341,
+      "word": "斐玲试剂",
+      "onboard_time": 1707838175,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 181975,
@@ -5139,6 +5171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171209,
+      "num": 171209,
+      "word": "财神爷",
+      "onboard_time": 1707841294,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171043,
       "num": 171043,
       "word": "向云端原唱致谢已故好兄弟",
@@ -5209,14 +5249,6 @@
       "onboard_time": 1707656732,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "斐玲试剂",
-      "onboard_time": 1707838175,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 169583,
@@ -5467,6 +5499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 159957,
+      "num": 159957,
+      "word": "1个动作助你改善富贵包",
+      "onboard_time": 1707840635,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 159405,
       "num": 159405,
       "word": "以后春晚不许三个人一起上来了",
@@ -5681,6 +5721,14 @@
       "onboard_time": 1707640532,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153388,
+      "num": 147718,
+      "word": "凌晨2点的哈尔滨什么样",
+      "onboard_time": 1707838834,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 153363,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707841323393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1169127,
+        "num": 1169127,
+        "word": "跑步的是贾玲瘦的是整个剧组",
+        "onboard_time": 1707838477,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 888787,
+        "num": 888787,
+        "word": "朱广权 这三天我们都没笑",
+        "onboard_time": 1707832179,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110013,
+        "num": 870351,
+        "word": "老照片里是一不小心就长大的我们",
+        "onboard_time": 1707828398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869710,
+        "num": 869710,
+        "word": "情人节",
+        "onboard_time": 1707840814,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597025,
+        "num": 597025,
+        "word": "杨紫看热辣滚烫看哭了",
+        "onboard_time": 1707835179,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 586033,
+        "num": 586033,
+        "word": "tws 注水",
+        "onboard_time": 1707837939,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 573456,
+        "num": 573456,
+        "word": "再也不敢相信口罩下的面孔了",
+        "onboard_time": 1707833620,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537857,
+        "num": 537857,
+        "word": "夏之光手滑",
+        "onboard_time": 1707833020,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522737,
+        "num": 522737,
+        "word": "春晚每一个走位都精心设计并被准确呈现",
+        "onboard_time": 1707811294,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379474,
+        "num": 481031,
+        "word": "破五是要破什么",
+        "onboard_time": 1707831939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472864,
+        "num": 472864,
+        "word": "明星们看到贾玲后的反应",
+        "onboard_time": 1707837637,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456412,
+        "num": 456412,
+        "word": "甜馨回应压岁钱争议",
+        "onboard_time": 1707820477,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342291,
+        "num": 342291,
+        "word": "2名游客擅自在道外滑野雪造成雪崩",
+        "onboard_time": 1707834280,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280135,
+        "num": 280135,
+        "word": "小尼在新疆听到了朱广权的笑声",
+        "onboard_time": 1707835896,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279578,
+        "num": 279578,
+        "word": "贾玲 我就要独自美丽",
+        "onboard_time": 1707836318,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278196,
+        "num": 278196,
+        "word": "为什么过年期间那么容易分手",
+        "onboard_time": 1707830137,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270938,
+        "num": 270938,
+        "word": "女生逃离原生家庭的方式",
+        "onboard_time": 1707833980,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229370,
+        "num": 229370,
+        "word": "除了头孢吃了这些药也不能喝酒",
+        "onboard_time": 1707835896,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194063,
+        "num": 194063,
+        "word": "钟楚曦侯雯元恋情",
+        "onboard_time": 1707809313,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183761,
+        "num": 193962,
+        "word": "人均收入3万河南小村靠龙发财",
+        "onboard_time": 1707830735,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273443,
+        "num": 191650,
+        "word": "男子酒醒发现身上4千多现金没了",
+        "onboard_time": 1707837218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267431,
+        "num": 190820,
+        "word": "真正聪明的人都有一种钝感力",
+        "onboard_time": 1707835057,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222095,
+        "num": 188641,
+        "word": "暧昧期突然下头真的是绝杀",
+        "onboard_time": 1707820599,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188576,
+        "num": 188576,
+        "word": "白衬衫贾玲好A",
+        "onboard_time": 1707828639,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184743,
+        "num": 184743,
+        "word": "初五",
+        "onboard_time": 1707841294,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182341,
+        "num": 182341,
+        "word": "斐玲试剂",
+        "onboard_time": 1707838175,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172919,
+        "num": 172919,
+        "word": "孙千新中式马甲",
+        "onboard_time": 1707836980,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171209,
+        "num": 171209,
+        "word": "财神爷",
+        "onboard_time": 1707841294,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162405,
+        "num": 162405,
+        "word": "为什么我们总是在等别人主动",
+        "onboard_time": 1707837819,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83421,
+        "num": 160408,
+        "word": "英国伦敦偶遇郭晶晶一家",
+        "onboard_time": 1707822518,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159957,
+        "num": 159957,
+        "word": "1个动作助你改善富贵包",
+        "onboard_time": 1707840635,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 410900,
+        "num": 157905,
+        "word": "韩媒 中国放烟花影响韩国空气质量",
+        "onboard_time": 1707826057,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152188,
+        "num": 152188,
+        "word": "看心情吧",
+        "onboard_time": 1707827195,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153388,
+        "num": 147718,
+        "word": "凌晨2点的哈尔滨什么样",
+        "onboard_time": 1707838834,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138774,
+        "num": 138774,
+        "word": "孙艺洲是飞驰2唯一的遗憾",
+        "onboard_time": 1707820905,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131607,
+        "num": 131607,
+        "word": "贾玲张小斐CP名",
+        "onboard_time": 1707836440,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122640,
+        "num": 122640,
+        "word": "狗狗偷偷溜上床被小主人背刺",
+        "onboard_time": 1707833741,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120624,
+        "num": 120624,
+        "word": "进淄赶烤游客再次爆满",
+        "onboard_time": 1707832479,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119007,
+        "num": 119007,
+        "word": "热辣滚烫",
+        "onboard_time": 1707824857,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72379,
+        "num": 112484,
+        "word": "卖肉的舅舅称体重给外甥们发红包",
+        "onboard_time": 1707824197,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110602,
+        "num": 110602,
+        "word": "四川人的已读乱回",
+        "onboard_time": 1707834759,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106579,
+        "num": 106579,
+        "word": "李庚希连崩溃都不像演的",
+        "onboard_time": 1707829539,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103198,
+        "num": 103198,
+        "word": "给猫取名字还是上点心吧",
+        "onboard_time": 1707836496,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94490,
+        "num": 94490,
+        "word": "第二十条票房破6亿",
+        "onboard_time": 1707826717,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93385,
+        "num": 93385,
+        "word": "表妹给的这是散装卫生巾吗",
+        "onboard_time": 1707816698,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91350,
+        "num": 91350,
+        "word": "爸爸在家里安了个升降机",
+        "onboard_time": 1707835479,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84533,
+        "num": 90981,
+        "word": "等红绿灯偶遇赵丽颖",
+        "onboard_time": 1707821795,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73333,
+        "num": 88884,
+        "word": "马嘉祺颐和园滑冰vlog",
+        "onboard_time": 1707835179,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71241,
+        "num": 88122,
+        "word": "热辣滚烫票房破15亿",
+        "onboard_time": 1707834582,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43218,
+        "num": 86869,
+        "word": "俄罗斯",
+        "onboard_time": 1707826234,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#心系民生冷暖情牵万家灯火#"
+    }
+  }
+}
