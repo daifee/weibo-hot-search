@@ -1,0 +1,410 @@
+{
+  "runTime": 1707791626123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2486336,
+        "num": 2486336,
+        "word": "已经会唱上春山了",
+        "onboard_time": 1707786571,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1529106,
+        "num": 1529106,
+        "word": "双魏",
+        "onboard_time": 1707790712,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24046,
+        "num": 1253014,
+        "word": "我与家人合个影",
+        "onboard_time": 1707707012,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213275,
+        "num": 1213275,
+        "word": "垫底辣孩 安徽省服更有性价比",
+        "onboard_time": 1707786751,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 600181,
+        "num": 600181,
+        "word": "尼格买提说自己三天没笑过了",
+        "onboard_time": 1707740614,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585816,
+        "num": 585816,
+        "word": "专家称今年买房性价比更高",
+        "onboard_time": 1707789815,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 575058,
+        "num": 575058,
+        "word": "金晨对白敬亭的初印象和现印象",
+        "onboard_time": 1707734914,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 549325,
+        "num": 549325,
+        "word": "秋瓷炫和公公一起贴对联",
+        "onboard_time": 1707780202,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516597,
+        "num": 516597,
+        "word": "陈若琳谈全红婵眼里全是爱",
+        "onboard_time": 1707788494,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430356,
+        "num": 430356,
+        "word": "陪贾玲训练的狗狗是拍李焕英时捡的",
+        "onboard_time": 1707781887,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1008773,
+        "num": 416809,
+        "word": "农村悄然出现以家庭为单位的断亲",
+        "onboard_time": 1707784171,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4606632,
+        "num": 409592,
+        "word": "白敬亭口碑",
+        "onboard_time": 1707753870,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557682,
+        "num": 399383,
+        "word": "iPhone16ProMax续航有望突破30h",
+        "onboard_time": 1707784228,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 382528,
+        "num": 382528,
+        "word": "情人节前黄金巧克力搜索暴涨20倍",
+        "onboard_time": 1707789330,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346726,
+        "num": 346726,
+        "word": "吴磊用漂亮形容赵今麦",
+        "onboard_time": 1707784349,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333614,
+        "num": 333614,
+        "word": "重庆解放碑",
+        "onboard_time": 1707781585,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318086,
+        "num": 318086,
+        "word": "外国人看贾玲瘦身前后的反应",
+        "onboard_time": 1707785612,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314423,
+        "num": 314423,
+        "word": "IU预告里有汤唯",
+        "onboard_time": 1707780020,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292431,
+        "num": 292431,
+        "word": "糖送八大家是什么梗",
+        "onboard_time": 1707745475,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274790,
+        "num": 274790,
+        "word": "张小斐送过贾玲一朵小红花",
+        "onboard_time": 1707790895,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253990,
+        "num": 253990,
+        "word": "贾玲为了不让观众掏手机有多努力",
+        "onboard_time": 1707744534,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250853,
+        "num": 250853,
+        "word": "俄乌局势",
+        "onboard_time": 1707784171,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249847,
+        "num": 249847,
+        "word": "男友点的花被我妈拿来迎财神了",
+        "onboard_time": 1707785732,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247749,
+        "num": 247749,
+        "word": "整顿红包失败被父母教育",
+        "onboard_time": 1707787713,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236331,
+        "num": 236331,
+        "word": "hybe新女团将于3月出道",
+        "onboard_time": 1707789815,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207947,
+        "num": 207947,
+        "word": "过年最讨厌的就是炫耀",
+        "onboard_time": 1707789330,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207817,
+        "num": 207817,
+        "word": "最高检再评第二十条",
+        "onboard_time": 1707787892,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201672,
+        "num": 201672,
+        "word": "魏大勋临场反应",
+        "onboard_time": 1707730712,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191160,
+        "num": 191160,
+        "word": "甜馨 倒霉的一年也结束了",
+        "onboard_time": 1707745054,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172574,
+        "num": 172574,
+        "word": "孩子送上警车后她才发现自己后背全湿了",
+        "onboard_time": 1707752075,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181928,
+        "num": 172370,
+        "word": "姐妹俩包饺子妈妈看到美甲无语了",
+        "onboard_time": 1707791374,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171208,
+        "num": 171208,
+        "word": "XG被淘汰",
+        "onboard_time": 1707785852,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159702,
+        "num": 159702,
+        "word": "你爱上的人其实是你的性格",
+        "onboard_time": 1707783689,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158837,
+        "num": 158837,
+        "word": "热辣滚烫 张佑赫",
+        "onboard_time": 1707752975,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156755,
+        "num": 156755,
+        "word": "李雪琴预判了观众的提问",
+        "onboard_time": 1707785551,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155928,
+        "num": 155928,
+        "word": "央视文艺回复尼格买提",
+        "onboard_time": 1707741392,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150290,
+        "num": 150290,
+        "word": "前程朤朤怎么读",
+        "onboard_time": 1707750580,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149819,
+        "num": 149819,
+        "word": "以后可以有玲女郎了",
+        "onboard_time": 1707760525,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147618,
+        "num": 147618,
+        "word": "初四",
+        "onboard_time": 1707783750,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135177,
+        "num": 135177,
+        "word": "没结婚的长辈替我顶住了压力",
+        "onboard_time": 1707782786,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130464,
+        "num": 130464,
+        "word": "男子总结今年春节三个反常现象",
+        "onboard_time": 1707791251,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "狗狗回村后变身有轨电狗",
+        "onboard_time": 1707788195,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 116690,
+        "word": "双节叠加80后小伙送鲜花月入6万",
+        "onboard_time": 1707788671,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115795,
+        "num": 115795,
+        "word": "已经N刷的春晚节目",
+        "onboard_time": 1707791435,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110805,
+        "num": 110805,
+        "word": "千元羽绒服被姥姥家火炕烙糊",
+        "onboard_time": 1707781465,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110449,
+        "num": 110449,
+        "word": "有金店一天卖出1000多根金条",
+        "onboard_time": 1707747757,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 110129,
+        "num": 110129,
+        "word": "克莱为留勇士愿当配角",
+        "onboard_time": 1707788073,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104103,
+        "num": 104103,
+        "word": "大导演和她捧红的影后",
+        "onboard_time": 1707740793,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103902,
+        "num": 103902,
+        "word": "迪丽热巴春晚彩排幕后",
+        "onboard_time": 1707785432,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102442,
+        "num": 102442,
+        "word": "余承东开问界M9返深圳",
+        "onboard_time": 1707787657,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村振兴要把特色农产品和乡村旅游搞好#"
+    }
+  }
+}
