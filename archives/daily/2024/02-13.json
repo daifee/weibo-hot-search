@@ -1,6 +1,6 @@
 {
   "startTime": 1707754945525,
-  "endTime": 1707816911062,
+  "endTime": 1707819475081,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 819907,
+      "num": 819907,
+      "word": "我要上春晚肯定就红了",
+      "onboard_time": 1707817180,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 784784,
       "num": 784784,
       "word": "秋瓷炫和公公一起贴对联",
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725557,
+      "num": 725557,
+      "word": "贾玲 阿姨我能抱抱你吗",
+      "onboard_time": 1707815560,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 719194,
       "num": 719194,
       "word": "孙艺洲说不撕吕子乔标签",
@@ -329,14 +345,6 @@
       "onboard_time": 1707811534,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 708202,
-      "num": 708202,
-      "word": "贾玲 阿姨我能抱抱你吗",
-      "onboard_time": 1707815560,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 696047,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511789,
+      "num": 511789,
+      "word": "网红铁头惩恶扬善遭全网封禁",
+      "onboard_time": 1707816522,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 498042,
       "num": 498042,
       "word": "旅客带72斤新鲜水果入境被查",
@@ -555,6 +571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440649,
+      "num": 440649,
+      "word": "王宁语言艺术",
+      "onboard_time": 1707818197,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 436556,
+      "num": 436556,
+      "word": "孕激素到底有多厉害",
+      "onboard_time": 1707816282,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 436364,
       "num": 905858,
       "word": "大城市消费降级小城市消费升级",
@@ -585,6 +617,14 @@
       "onboard_time": 1707790895,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 426126,
+      "num": 159913,
+      "word": "上门喂猫别人家的猫死了",
+      "onboard_time": 1707818259,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 410854,
@@ -699,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344963,
+      "num": 250556,
+      "word": "表妹给的这是散装卫生巾吗",
+      "onboard_time": 1707816698,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344559,
       "num": 344559,
       "word": "飞驰2破十亿全员玩失忆",
@@ -779,14 +827,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 296451,
-      "num": 179642,
-      "word": "孕激素到底有多厉害",
-      "onboard_time": 1707816282,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 283405,
       "num": 283405,
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
@@ -825,14 +865,6 @@
       "onboard_time": 1707789815,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276220,
-      "num": 176842,
-      "word": "表妹给的这是散装卫生巾吗",
-      "onboard_time": 1707816698,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 275685,
@@ -897,6 +929,14 @@
       "onboard_time": 1707796596,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 258309,
+      "num": 258309,
+      "word": "春节三亚回程机票暴涨",
+      "onboard_time": 1707817538,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 257606,
@@ -1019,20 +1059,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224509,
-      "num": 224509,
-      "word": "网红铁头惩恶扬善遭全网封禁",
-      "onboard_time": 1707816522,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 223084,
       "num": 211023,
       "word": "热辣滚烫 心灵觉醒自我救赎",
       "onboard_time": 1707805354,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222248,
+      "num": 222248,
+      "word": "00后的消费",
+      "onboard_time": 1707815680,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 220390,
@@ -1235,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173956,
+      "num": 173956,
+      "word": "春节档电影票价有多离谱",
+      "onboard_time": 1707817001,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173727,
       "num": 173727,
       "word": "不能给孩子换个大勺儿吗",
@@ -1275,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168217,
+      "num": 168217,
+      "word": "大侦探",
+      "onboard_time": 1707819398,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167208,
       "num": 167208,
       "word": "县城结婚压力大嫁妆多由男方出",
@@ -1299,12 +1355,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160841,
+      "num": 160841,
+      "word": "乔杉演我看见贾玲的反应",
+      "onboard_time": 1707817180,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158152,
       "num": 181994,
       "word": "四川人手一只熊猫真的说不清了",
       "onboard_time": 1707803436,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156365,
+      "num": 156365,
+      "word": "猫真的是好爱干净的小动物",
+      "onboard_time": 1707816824,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 154900,
@@ -1347,12 +1419,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150759,
+      "num": 150759,
+      "word": "白羊座追求养成系的爱",
+      "onboard_time": 1707815923,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150739,
       "num": 150739,
       "word": "不敢想象一大口下去得多幸福",
       "onboard_time": 1707813700,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150326,
+      "num": 150326,
+      "word": "吃硬糖和软糖相当于吃白糖",
+      "onboard_time": 1707818738,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 150101,
+      "num": 150101,
+      "word": "龙姓是怎么来的",
+      "onboard_time": 1707818259,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 149298,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1707800496,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145185,
+      "num": 145185,
+      "word": "白人年夜饭",
+      "onboard_time": 1707819157,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 144489,
@@ -1491,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130241,
-      "num": 130241,
-      "word": "白羊座追求养成系的爱",
-      "onboard_time": 1707815923,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129575,
       "num": 129575,
       "word": "我国脑机接口技术让截瘫患者抓握准确率超90%",
@@ -1545,6 +1641,22 @@
       "onboard_time": 1707790416,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 126631,
+      "num": 126631,
+      "word": "回家路上一本书",
+      "onboard_time": 1707819096,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 126137,
+      "num": 126137,
+      "word": "他换了三套衣服都没换你的",
+      "onboard_time": 1707819338,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126131,
@@ -1603,6 +1715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121590,
+      "num": 484417,
+      "word": "东北虎京京打针委屈找奶妈求抱抱",
+      "onboard_time": 1707817839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119223,
       "num": 119223,
       "word": "第二十条",
@@ -1635,20 +1755,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116867,
-      "num": 116867,
-      "word": "猫真的是好爱干净的小动物",
-      "onboard_time": 1707816824,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116539,
       "num": 116539,
       "word": "男朋友走亲戚走崩溃了",
       "onboard_time": 1707738873,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115539,
+      "num": 498592,
+      "word": "兄妹6人重拍45年前的童年合影",
+      "onboard_time": 1707817839,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114918,
@@ -1699,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113033,
+      "num": 113033,
+      "word": "大唐不夜城开通6条夜间接驳车",
+      "onboard_time": 1707818259,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112475,
       "num": 112475,
       "word": "比较是偷走幸福的小偷",
@@ -1729,14 +1857,6 @@
       "onboard_time": 1707797433,
       "rank": 43,
       "category": "其它"
-    },
-    {
-      "raw_hot": 111565,
-      "num": 111565,
-      "word": "00后的消费",
-      "onboard_time": 1707815680,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 109821,
@@ -1857,6 +1977,14 @@
       "onboard_time": 1707740551,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 89664,
+      "num": 89664,
+      "word": "植物大战僵尸cosplay",
+      "onboard_time": 1707818079,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86304,
