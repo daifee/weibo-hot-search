@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707855602113,
+  "endTime": 1707856435388,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -8011,6 +8011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13369,
+      "num": 13369,
+      "word": "求证cp等于be",
+      "onboard_time": 1707856035,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13154,
       "num": 20702,
       "word": "东北人过年的情绪价值",
@@ -8019,8 +8027,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12480,
-      "num": 12480,
+      "raw_hot": 12776,
+      "num": 12776,
       "word": "别扭的猫少爷",
       "onboard_time": 1707855255,
       "rank": 47,

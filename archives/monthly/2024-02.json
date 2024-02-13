@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707855602113,
+  "endTime": 1707856435388,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -37099,6 +37099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13369,
+      "num": 13369,
+      "word": "求证cp等于be",
+      "onboard_time": 1707856035,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13288,
       "num": 13288,
       "word": "除夕浙江服务区免费为返乡人员提供年夜饭",
@@ -37131,20 +37139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 12776,
+      "num": 12776,
+      "word": "别扭的猫少爷",
+      "onboard_time": 1707855255,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 12551,
       "num": 15081,
       "word": "如何看我妈是董明珠节目争议",
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12480,
-      "num": 12480,
-      "word": "别扭的猫少爷",
-      "onboard_time": 1707855255,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 12415,

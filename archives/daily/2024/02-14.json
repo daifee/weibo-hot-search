@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707855602113,
+  "endTime": 1707856435388,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -483,8 +483,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12480,
-      "num": 12480,
+      "raw_hot": 13369,
+      "num": 13369,
+      "word": "求证cp等于be",
+      "onboard_time": 1707856035,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 12776,
+      "num": 12776,
       "word": "别扭的猫少爷",
       "onboard_time": 1707855255,
       "rank": 47,
