@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707852846188,
+  "endTime": 1707855602113,
   "band_list": [
     {
       "raw_hot": 1518787,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38058,
+      "num": 38058,
+      "word": "吴磊剧中打台球是来真的",
+      "onboard_time": 1707852437,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33263,
       "num": 41710,
       "word": "准备和财神谈恋爱",
@@ -467,20 +475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22891,
-      "num": 22891,
-      "word": "吴磊剧中打台球是来真的",
-      "onboard_time": 1707852437,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15408,
+      "raw_hot": 18038,
       "num": 20366,
       "word": "韩明暗线",
       "onboard_time": 1707852798,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12480,
+      "num": 12480,
+      "word": "别扭的猫少爷",
+      "onboard_time": 1707855255,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
@@ -489,6 +497,9 @@
     },
     {
       "word": "#促进各族人民大团结#"
+    },
+    {
+      "word": "#文化中国团圆年#"
     }
   ]
 }

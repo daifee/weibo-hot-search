@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707852846188,
+  "endTime": 1707855602113,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -35995,6 +35995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38058,
+      "num": 38058,
+      "word": "吴磊剧中打台球是来真的",
+      "onboard_time": 1707852437,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37959,
       "num": 37959,
       "word": "贾玲四秒转场",
@@ -36659,14 +36667,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 22891,
-      "num": 22891,
-      "word": "吴磊剧中打台球是来真的",
-      "onboard_time": 1707852437,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22346,
       "num": 553629,
       "word": "元梦之星红包开撒",
@@ -36835,6 +36835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18038,
+      "num": 20366,
+      "word": "韩明暗线",
+      "onboard_time": 1707852798,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17729,
       "num": 17729,
       "word": "湖北高速暴雪互助",
@@ -36995,14 +37003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15408,
-      "num": 20366,
-      "word": "韩明暗线",
-      "onboard_time": 1707852798,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
@@ -37137,6 +37137,14 @@
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12480,
+      "num": 12480,
+      "word": "别扭的猫少爷",
+      "onboard_time": 1707855255,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 12415,
