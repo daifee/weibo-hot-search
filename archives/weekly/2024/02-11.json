@@ -1,12 +1,20 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707791626123,
+  "endTime": 1707794339301,
   "band_list": [
     {
       "raw_hot": 7342180,
       "num": 7342180,
       "word": "白敬亭口碑",
       "onboard_time": 1707753870,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5221996,
+      "num": 5221996,
+      "word": "白敬亭 乔欣",
+      "onboard_time": 1707791855,
       "rank": 0,
       "category": "艺人"
     },
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2190269,
+      "num": 2190269,
+      "word": "王东承认家暴",
+      "onboard_time": 1707792395,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2110810,
       "num": 1601619,
       "word": "春山学是什么梗",
@@ -97,6 +113,14 @@
       "onboard_time": 1707699990,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2053620,
+      "num": 2053620,
+      "word": "双魏",
+      "onboard_time": 1707790712,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 2024807,
@@ -211,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1529106,
-      "num": 1529106,
-      "word": "双魏",
-      "onboard_time": 1707790712,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1524678,
       "num": 893460,
       "word": "重庆解放碑",
@@ -273,6 +289,14 @@
       "onboard_time": 1707784171,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1339769,
+      "num": 1339769,
+      "word": "元宵晚会 上春山",
+      "onboard_time": 1707792755,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1324627,
@@ -513,6 +537,14 @@
       "onboard_time": 1707695665,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112509,
+      "num": 1112509,
+      "word": "贾玲芭莎力量感封面大片",
+      "onboard_time": 1707792873,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1106504,
@@ -1179,12 +1211,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 598668,
+      "num": 598668,
+      "word": "山花",
+      "onboard_time": 1707792633,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593436,
       "num": 593436,
       "word": "不敢相信这是76岁人的状态",
       "onboard_time": 1707741392,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592391,
+      "num": 592391,
+      "word": "专家称今年买房性价比更高",
+      "onboard_time": 1707789815,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 591306,
@@ -1209,14 +1257,6 @@
       "onboard_time": 1707729152,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 585816,
-      "num": 585816,
-      "word": "专家称今年买房性价比更高",
-      "onboard_time": 1707789815,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 583125,
@@ -1627,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443356,
+      "num": 443356,
+      "word": "徐志胜呼兰投资种地吧9万赚12万",
+      "onboard_time": 1707792755,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441948,
       "num": 382989,
       "word": "别让肝脏变得黏糊糊",
@@ -1697,6 +1745,22 @@
       "onboard_time": 1707622830,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427357,
+      "num": 427357,
+      "word": "张艺兴热辣滚烫充电曲",
+      "onboard_time": 1707793115,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 426938,
+      "num": 426938,
+      "word": "张小斐送过贾玲一朵小红花",
+      "onboard_time": 1707790895,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 424140,
@@ -2051,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339212,
+      "num": 339212,
+      "word": "貂蝉吕布情限",
+      "onboard_time": 1707793235,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332745,
       "num": 228154,
       "word": "妈妈的对方正在输入",
@@ -2187,6 +2259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305826,
+      "num": 305826,
+      "word": "姐妹俩包饺子妈妈看到美甲无语了",
+      "onboard_time": 1707791374,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304114,
       "num": 304114,
       "word": "男朋友走亲戚走崩溃了",
@@ -2315,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283806,
+      "num": 283806,
+      "word": "偶遇李湘带王诗龄逛商场",
+      "onboard_time": 1707794255,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282278,
       "num": 282278,
       "word": "原神",
@@ -2379,14 +2467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 274790,
-      "num": 274790,
-      "word": "张小斐送过贾玲一朵小红花",
-      "onboard_time": 1707790895,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 273434,
       "num": 241708,
       "word": "田曦薇锦鲤少女",
@@ -2441,6 +2521,14 @@
       "onboard_time": 1707750819,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269725,
+      "num": 269725,
+      "word": "貂蝉曦玄引新皮肤",
+      "onboard_time": 1707793417,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 268310,
@@ -2675,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241995,
+      "num": 241995,
+      "word": "哈尔滨冰雪大世界停售初四门票",
+      "onboard_time": 1707793176,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 241862,
       "num": 241862,
       "word": "于适被韩寒从彩蛋剪进正片",
@@ -2841,6 +2937,14 @@
       "onboard_time": 1707649830,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232931,
+      "num": 232931,
+      "word": "开40万国产新能源回村亲戚笑买了杂牌",
+      "onboard_time": 1707793657,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230933,
@@ -3579,14 +3683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181928,
-      "num": 172370,
-      "word": "姐妹俩包饺子妈妈看到美甲无语了",
-      "onboard_time": 1707791374,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181156,
       "num": 181156,
       "word": "迪丽热巴春晚彩排幕后",
@@ -3777,6 +3873,14 @@
       "onboard_time": 1707624509,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171043,
+      "num": 171043,
+      "word": "向云端原唱致谢已故好兄弟",
+      "onboard_time": 1707793235,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 170709,
@@ -4691,12 +4795,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132286,
+      "num": 132286,
+      "word": "男子总结今年春节三个反常现象",
+      "onboard_time": 1707791251,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132256,
       "num": 131615,
       "word": "你看不见她们的付出就请闭嘴",
       "onboard_time": 1707709953,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 132026,
+      "num": 132026,
+      "word": "已经N刷的春晚节目",
+      "onboard_time": 1707791435,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 131004,
@@ -4721,14 +4841,6 @@
       "onboard_time": 1707704611,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130464,
-      "num": 130464,
-      "word": "男子总结今年春节三个反常现象",
-      "onboard_time": 1707791251,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130176,
@@ -5091,14 +5203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115795,
-      "num": 115795,
-      "word": "已经N刷的春晚节目",
-      "onboard_time": 1707791435,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115532,
       "num": 123897,
       "word": "杜兰特说库里是历史最强控卫",
@@ -5184,6 +5288,14 @@
       "word": "兔兔表达开心的动作",
       "onboard_time": 1707617130,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112350,
+      "num": 112350,
+      "word": "为什么会有虚岁这一算法",
+      "onboard_time": 1707791671,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -5556,7 +5668,7 @@
     },
     {
       "raw_hot": 57466,
-      "num": 1253014,
+      "num": 2068166,
       "word": "我与家人合个影",
       "onboard_time": 1707707012,
       "rank": 2,
