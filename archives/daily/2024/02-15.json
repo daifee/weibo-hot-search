@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707941864469,
+  "endTime": 1707942852811,
   "band_list": [
     {
       "raw_hot": 949733,
@@ -491,6 +491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 32849,
+      "num": 28049,
+      "word": "大醉之后喝白开水可解酒",
+      "onboard_time": 1707940276,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29405,
       "num": 758924,
       "word": "网络中国节",
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28049,
-      "num": 28049,
-      "word": "大醉之后喝白开水可解酒",
-      "onboard_time": 1707940276,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 16313,
+      "num": 16313,
+      "word": "吵架后亲姐把弟弟丢高速",
+      "onboard_time": 1707942618,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10147,

@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707941864469,
+  "endTime": 1707942852811,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -10395,6 +10395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32849,
+      "num": 28049,
+      "word": "大醉之后喝白开水可解酒",
+      "onboard_time": 1707940276,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32601,
       "num": 32601,
       "word": "陆毅 姐俩给大家表演才艺",
@@ -10433,14 +10441,6 @@
       "onboard_time": 1707771976,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28049,
-      "num": 28049,
-      "word": "大醉之后喝白开水可解酒",
-      "onboard_time": 1707940276,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27593,
@@ -10561,6 +10561,14 @@
       "onboard_time": 1707676578,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16313,
+      "num": 16313,
+      "word": "吵架后亲姐把弟弟丢高速",
+      "onboard_time": 1707942618,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14534,

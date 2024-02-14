@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707941864469,
+  "endTime": 1707942852811,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -38771,6 +38771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32849,
+      "num": 28049,
+      "word": "大醉之后喝白开水可解酒",
+      "onboard_time": 1707940276,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32820,
       "num": 32820,
       "word": "薛之谦是在赶新歌吗",
@@ -38969,14 +38977,6 @@
       "onboard_time": 1707546154,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28049,
-      "num": 28049,
-      "word": "大醉之后喝白开水可解酒",
-      "onboard_time": 1707940276,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27877,
@@ -39521,6 +39521,14 @@
       "onboard_time": 1706757212,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 16313,
+      "num": 16313,
+      "word": "吵架后亲姐把弟弟丢高速",
+      "onboard_time": 1707942618,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16163,
