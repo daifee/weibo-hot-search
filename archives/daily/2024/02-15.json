@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707934928195,
+  "endTime": 1707935748366,
   "band_list": [
     {
       "raw_hot": 949733,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118489,
+      "num": 61359,
+      "word": "航司建议从三亚返程避免直飞",
+      "onboard_time": 1707933501,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116830,
       "num": 186687,
       "word": "日本鹿儿岛县樱岛火山喷发",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 102585,
-      "num": 88505,
+      "num": 93013,
       "word": "李菲直播",
       "onboard_time": 1707931045,
       "rank": 33,
@@ -435,20 +443,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 88160,
+      "num": 82782,
+      "word": "吴磊直播间为赵今麦打圆场",
+      "onboard_time": 1707934823,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85500,
       "num": 101189,
       "word": "seventeen克拉日",
       "onboard_time": 1707922478,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 76918,
-      "num": 61359,
-      "word": "航司建议从三亚返程避免直飞",
-      "onboard_time": 1707933501,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75197,
@@ -473,14 +481,6 @@
       "onboard_time": 1707933140,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 38300,
-      "num": 38300,
-      "word": "吴磊直播间为赵今麦打圆场",
-      "onboard_time": 1707934823,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 29405,
