@@ -1,10 +1,10 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707891736374,
+  "endTime": 1707892448331,
   "band_list": [
     {
-      "raw_hot": 3793201,
-      "num": 3793201,
+      "raw_hot": 4295238,
+      "num": 4295238,
       "word": "钟楚曦侯雯元情人节官宣",
       "onboard_time": 1707890314,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1426930,
+      "num": 1426930,
+      "word": "热辣滚烫 自私又丰满的女性角色",
+      "onboard_time": 1707888272,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1345091,
       "num": 1345091,
       "word": "微信开放情人节520红包",
@@ -67,12 +75,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1336073,
-      "num": 1336073,
-      "word": "热辣滚烫 自私又丰满的女性角色",
-      "onboard_time": 1707888272,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 1341753,
+      "num": 1341753,
+      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
+      "onboard_time": 1707883892,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321426,
@@ -88,14 +96,6 @@
       "word": "江西彩礼高不借钱娶不到妻",
       "onboard_time": 1707883892,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1196924,
-      "num": 1196924,
-      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
-      "onboard_time": 1707883892,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540167,
+      "num": 540167,
+      "word": "五台山景区桶装水是从女厕所水管接的",
+      "onboard_time": 1707888570,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537857,
       "num": 537857,
       "word": "夏之光手滑",
@@ -371,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466057,
+      "num": 466057,
+      "word": "赵露思在横店吃铁锅炖",
+      "onboard_time": 1707890314,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456412,
       "num": 456412,
       "word": "甜馨回应压岁钱争议",
@@ -385,14 +401,6 @@
       "onboard_time": 1707886472,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446740,
-      "num": 446740,
-      "word": "五台山景区桶装水是从女厕所水管接的",
-      "onboard_time": 1707888570,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440729,
@@ -473,14 +481,6 @@
       "onboard_time": 1707867743,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 381203,
-      "num": 381203,
-      "word": "赵露思在横店吃铁锅炖",
-      "onboard_time": 1707890314,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 379474,
@@ -633,6 +633,14 @@
       "onboard_time": 1707835896,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279758,
+      "num": 279758,
+      "word": "年会不能停",
+      "onboard_time": 1707891451,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 279578,
@@ -803,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213501,
+      "num": 213501,
+      "word": "大侦探9上来就是一个村",
+      "onboard_time": 1707892355,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206602,
       "num": 206602,
       "word": "与凤行情人节MV",
@@ -963,6 +979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 186039,
+      "num": 186039,
+      "word": "吴磊哭到青筋暴起",
+      "onboard_time": 1707892173,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185359,
       "num": 185753,
       "word": "第二十条",
@@ -977,6 +1001,14 @@
       "onboard_time": 1707830735,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182688,
+      "num": 182688,
+      "word": "这届年轻人的表白方式有多奇特",
+      "onboard_time": 1707891274,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 182341,
@@ -1027,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170371,
-      "num": 170371,
-      "word": "这届年轻人的表白方式有多奇特",
-      "onboard_time": 1707891274,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169730,
       "num": 169730,
       "word": "雷佳音马丽 雷丽风行",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1707881251,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166587,
-      "num": 166587,
-      "word": "年会不能停",
-      "onboard_time": 1707891451,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 166420,
@@ -1692,7 +1708,7 @@
     },
     {
       "raw_hot": 21421,
-      "num": 227419,
+      "num": 280907,
       "word": "来元梦迎财神",
       "onboard_time": 1707890314,
       "rank": 20,

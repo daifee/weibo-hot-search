@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707891736374,
+  "endTime": 1707892448331,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4295238,
+      "num": 4295238,
+      "word": "钟楚曦侯雯元情人节官宣",
+      "onboard_time": 1707890314,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4051983,
       "num": 4051983,
       "word": "过年 吵架",
       "onboard_time": 1707624989,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 3793201,
-      "num": 3793201,
-      "word": "钟楚曦侯雯元情人节官宣",
-      "onboard_time": 1707890314,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 3200989,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1426930,
+      "num": 1426930,
+      "word": "热辣滚烫 自私又丰满的女性角色",
+      "onboard_time": 1707888272,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1411555,
       "num": 211579,
       "word": "韩媒 中国放烟花影响韩国空气质量",
@@ -523,12 +531,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1336073,
-      "num": 1336073,
-      "word": "热辣滚烫 自私又丰满的女性角色",
-      "onboard_time": 1707888272,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 1341753,
+      "num": 1341753,
+      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
+      "onboard_time": 1707883892,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1324627,
@@ -697,14 +705,6 @@
       "onboard_time": 1707572735,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1196924,
-      "num": 1196924,
-      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
-      "onboard_time": 1707883892,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1183156,
@@ -2155,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540167,
+      "num": 540167,
+      "word": "五台山景区桶装水是从女厕所水管接的",
+      "onboard_time": 1707888570,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535299,
       "num": 535299,
       "word": "惹了热爱对称的中国人",
@@ -2499,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466057,
+      "num": 466057,
+      "word": "赵露思在横店吃铁锅炖",
+      "onboard_time": 1707890314,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461823,
       "num": 461823,
       "word": "送你一朵小红花",
@@ -2545,14 +2561,6 @@
       "onboard_time": 1707555696,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 446740,
-      "num": 446740,
-      "word": "五台山景区桶装水是从女厕所水管接的",
-      "onboard_time": 1707888570,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445158,
@@ -2961,14 +2969,6 @@
       "onboard_time": 1707789330,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381203,
-      "num": 381203,
-      "word": "赵露思在横店吃铁锅炖",
-      "onboard_time": 1707890314,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 379992,
@@ -3745,6 +3745,14 @@
       "onboard_time": 1707883173,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279758,
+      "num": 279758,
+      "word": "年会不能停",
+      "onboard_time": 1707891451,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 278981,
@@ -4843,6 +4851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213501,
+      "num": 213501,
+      "word": "大侦探9上来就是一个村",
+      "onboard_time": 1707892355,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "陈知易c",
@@ -5603,6 +5619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 186039,
+      "num": 186039,
+      "word": "吴磊哭到青筋暴起",
+      "onboard_time": 1707892173,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185901,
       "num": 185901,
       "word": "今年过年直接掀桌了",
@@ -5665,6 +5689,14 @@
       "onboard_time": 1707575736,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182688,
+      "num": 182688,
+      "word": "这届年轻人的表白方式有多奇特",
+      "onboard_time": 1707891274,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 182561,
@@ -6003,14 +6035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170371,
-      "num": 170371,
-      "word": "这届年轻人的表白方式有多奇特",
-      "onboard_time": 1707891274,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170340,
       "num": 170340,
       "word": "这是边伯贤和西珍妮吗",
@@ -6145,14 +6169,6 @@
       "onboard_time": 1707741575,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 166587,
-      "num": 166587,
-      "word": "年会不能停",
-      "onboard_time": 1707891451,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 166420,
@@ -9092,7 +9108,7 @@
     },
     {
       "raw_hot": 21421,
-      "num": 227419,
+      "num": 280907,
       "word": "来元梦迎财神",
       "onboard_time": 1707890314,
       "rank": 20,
