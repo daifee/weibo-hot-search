@@ -1,0 +1,410 @@
+{
+  "runTime": 1707887826870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136371,
+        "num": 1136371,
+        "word": "江西彩礼高不借钱娶不到妻",
+        "onboard_time": 1707883892,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901258,
+        "num": 901258,
+        "word": "迎财神",
+        "onboard_time": 1707865818,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191260,
+        "num": 859719,
+        "word": "龙行龘龘前程朤朤",
+        "onboard_time": 1707879630,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825768,
+        "num": 825768,
+        "word": "美国副总统称已准备好接班",
+        "onboard_time": 1707885152,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 817942,
+        "num": 817942,
+        "word": "钱辈请和我交往",
+        "onboard_time": 1707865818,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1321426,
+        "num": 817568,
+        "word": "上春山logo",
+        "onboard_time": 1707883892,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1634939,
+        "num": 817097,
+        "word": "网友模仿上春山",
+        "onboard_time": 1707881728,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813763,
+        "num": 813763,
+        "word": "海清有两个神了",
+        "onboard_time": 1707885869,
+        "rank": 7,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 651047,
+        "num": 651047,
+        "word": "财神壁纸",
+        "onboard_time": 1707866542,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567092,
+        "num": 567092,
+        "word": "农村老人沉迷刷APP挣钱",
+        "onboard_time": 1707883892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604936,
+        "num": 562303,
+        "word": "乐莹被骚扰时镜头对准的是猥琐男",
+        "onboard_time": 1707875193,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 522702,
+        "num": 522702,
+        "word": "庆余年第二季 谐音梗",
+        "onboard_time": 1707881854,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384848,
+        "num": 384848,
+        "word": "财政部评论区成许愿池",
+        "onboard_time": 1707879088,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364766,
+        "num": 364766,
+        "word": "小龙糕",
+        "onboard_time": 1707883291,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49027,
+        "num": 340085,
+        "word": "情人节关键时刻见实力",
+        "onboard_time": 1707886831,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337555,
+        "num": 337555,
+        "word": "热辣滚烫票房破17亿",
+        "onboard_time": 1707885812,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308941,
+        "num": 308941,
+        "word": "赵露思黑玫瑰chocker",
+        "onboard_time": 1707886831,
+        "rank": 16,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 302589,
+        "num": 302589,
+        "word": "微信开放情人节520红包",
+        "onboard_time": 1707869488,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 299123,
+        "num": 299123,
+        "word": "第二十条连续票房逆跌",
+        "onboard_time": 1707870631,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282378,
+        "num": 282378,
+        "word": "财政部邀大家打卡",
+        "onboard_time": 1707875911,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545029,
+        "num": 277137,
+        "word": "中国式令人窒息的母亲",
+        "onboard_time": 1707884372,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340148,
+        "num": 272580,
+        "word": "泰国偶遇钟楚曦侯雯元逛街",
+        "onboard_time": 1707886472,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266500,
+        "num": 266500,
+        "word": "易烊千玺春日大片",
+        "onboard_time": 1707887311,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265713,
+        "num": 265713,
+        "word": "韩国队内讧",
+        "onboard_time": 1707873631,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249681,
+        "num": 249681,
+        "word": "你收到的情人节玫瑰99%是假的",
+        "onboard_time": 1707882932,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248683,
+        "num": 248683,
+        "word": "原神",
+        "onboard_time": 1707887372,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236078,
+        "num": 236078,
+        "word": "惠英红包 刘浩存钱",
+        "onboard_time": 1707881728,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233780,
+        "num": 233780,
+        "word": "年轻人为什么反感被催婚",
+        "onboard_time": 1707884070,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233222,
+        "num": 233222,
+        "word": "贾玲路演带的旧表是李焕英的",
+        "onboard_time": 1707885632,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232297,
+        "num": 232297,
+        "word": "南来北往",
+        "onboard_time": 1707884314,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224686,
+        "num": 224686,
+        "word": "在县城开零食店春节能卖200万",
+        "onboard_time": 1707882572,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219550,
+        "num": 219550,
+        "word": "赵丽颖战损妆梦回楚乔",
+        "onboard_time": 1707880532,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204153,
+        "num": 204153,
+        "word": "大侦探9",
+        "onboard_time": 1707887551,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195923,
+        "num": 195923,
+        "word": "汪苏泷分享关于热辣滚烫的故事",
+        "onboard_time": 1707887254,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189698,
+        "num": 189698,
+        "word": "这届年轻人为啥要钱不要爱",
+        "onboard_time": 1707879030,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186924,
+        "num": 186924,
+        "word": "薛之谦新歌AI每一句结尾都是AI",
+        "onboard_time": 1707885692,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212679,
+        "num": 186655,
+        "word": "赵丽颖林更新新剧吻戏",
+        "onboard_time": 1707883173,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185827,
+        "num": 185827,
+        "word": "王凯谈春晚和朱一龙陈伟霆合作",
+        "onboard_time": 1707881972,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179334,
+        "num": 179334,
+        "word": "不扫兴的父母有多难得",
+        "onboard_time": 1707886711,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170648,
+        "num": 170648,
+        "word": "好健康的母女关系",
+        "onboard_time": 1707884612,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165700,
+        "num": 165700,
+        "word": "一宝 云陪产",
+        "onboard_time": 1707878490,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165373,
+        "num": 165373,
+        "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
+        "onboard_time": 1707882511,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165318,
+        "num": 165318,
+        "word": "永夜星河奇缘剧照",
+        "onboard_time": 1707887372,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160689,
+        "num": 160689,
+        "word": "情人节骂醒恋爱脑销量暴增3倍",
+        "onboard_time": 1707876154,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 159225,
+        "word": "赵丽颖张碧晨五搭",
+        "onboard_time": 1707881070,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148763,
+        "num": 148763,
+        "word": "网友在财政部下的许愿很统一",
+        "onboard_time": 1707885812,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130930,
+        "num": 130930,
+        "word": "杜乐莹是怎么爱上昊坤的",
+        "onboard_time": 1707870688,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130713,
+        "num": 130713,
+        "word": "春晚传播数据创最高纪录",
+        "onboard_time": 1707883530,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121816,
+        "num": 121816,
+        "word": "月老和财神相遇了",
+        "onboard_time": 1707884675,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 121509,
+        "word": "2024说爱你",
+        "onboard_time": 1707886294,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬拥政爱民拥军优属光荣传统#"
+    }
+  }
+}

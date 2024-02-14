@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707885230263,
+  "endTime": 1707887826870,
   "band_list": [
     {
       "raw_hot": 2742175,
@@ -59,12 +59,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1321426,
+      "num": 817568,
+      "word": "上春山logo",
+      "onboard_time": 1707883892,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1169127,
       "num": 1169127,
       "word": "跑步的是贾玲瘦的是整个剧组",
       "onboard_time": 1707838477,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1136371,
+      "num": 1136371,
+      "word": "江西彩礼高不借钱娶不到妻",
+      "onboard_time": 1707883892,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1122752,
@@ -107,14 +123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 960208,
-      "num": 425298,
-      "word": "上春山logo",
-      "onboard_time": 1707883892,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 888787,
       "num": 888787,
       "word": "朱广权 这三天我们都没笑",
@@ -137,6 +145,22 @@
       "onboard_time": 1707870688,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 825768,
+      "num": 825768,
+      "word": "美国副总统称已准备好接班",
+      "onboard_time": 1707885152,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 813763,
+      "num": 813763,
+      "word": "海清有两个神了",
+      "onboard_time": 1707885869,
+      "rank": 7,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 791392,
@@ -233,6 +257,22 @@
       "onboard_time": 1707869426,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567092,
+      "num": 567092,
+      "word": "农村老人沉迷刷APP挣钱",
+      "onboard_time": 1707883892,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545029,
+      "num": 300163,
+      "word": "中国式令人窒息的母亲",
+      "onboard_time": 1707884372,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 537857,
@@ -339,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413809,
-      "num": 300163,
-      "word": "中国式令人窒息的母亲",
-      "onboard_time": 1707884372,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 410900,
       "num": 163726,
       "word": "韩媒 中国放烟花影响韩国空气质量",
@@ -427,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340148,
+      "num": 272580,
+      "word": "泰国偶遇钟楚曦侯雯元逛街",
+      "onboard_time": 1707886472,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337555,
+      "num": 337555,
+      "word": "热辣滚烫票房破17亿",
+      "onboard_time": 1707885812,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333659,
       "num": 333659,
       "word": "周深在春晚后台听见了大鱼",
@@ -451,12 +499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 300227,
-      "num": 300227,
-      "word": "江西彩礼高不借钱娶不到妻",
-      "onboard_time": 1707883892,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 308941,
+      "num": 308941,
+      "word": "赵露思黑玫瑰chocker",
+      "onboard_time": 1707886831,
+      "rank": 16,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 285504,
@@ -547,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266500,
+      "num": 266500,
+      "word": "易烊千玺春日大片",
+      "onboard_time": 1707887311,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259368,
       "num": 259368,
       "word": "情头",
@@ -555,20 +611,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243710,
-      "num": 243710,
+      "raw_hot": 249681,
+      "num": 249681,
       "word": "你收到的情人节玫瑰99%是假的",
       "onboard_time": 1707882932,
       "rank": 27,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239396,
-      "num": 239396,
-      "word": "农村老人沉迷刷APP挣钱",
-      "onboard_time": 1707883892,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 248683,
+      "num": 248683,
+      "word": "原神",
+      "onboard_time": 1707887372,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 236866,
@@ -587,12 +643,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233780,
+      "num": 233780,
+      "word": "年轻人为什么反感被催婚",
+      "onboard_time": 1707884070,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 233222,
+      "num": 233222,
+      "word": "贾玲路演带的旧表是李焕英的",
+      "onboard_time": 1707885632,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232887,
       "num": 232887,
       "word": "夫妻花7年包揽全部工作做出一部电影",
       "onboard_time": 1707878551,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232297,
+      "num": 232297,
+      "word": "南来北往",
+      "onboard_time": 1707884314,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 229370,
@@ -627,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220070,
-      "num": 220070,
-      "word": "年轻人为什么反感被催婚",
-      "onboard_time": 1707884070,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206602,
       "num": 206602,
       "word": "与凤行情人节MV",
@@ -657,6 +729,14 @@
       "onboard_time": 1707880172,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204153,
+      "num": 204153,
+      "word": "大侦探9",
+      "onboard_time": 1707887551,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 203204,
@@ -697,6 +777,14 @@
       "onboard_time": 1707877115,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195923,
+      "num": 195923,
+      "word": "汪苏泷分享关于热辣滚烫的故事",
+      "onboard_time": 1707887254,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 194916,
@@ -763,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "薛之谦新歌AI每一句结尾都是AI",
+      "onboard_time": 1707885692,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186531,
       "num": 186531,
       "word": "冰雪大世界化了",
@@ -803,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179334,
+      "num": 179334,
+      "word": "不扫兴的父母有多难得",
+      "onboard_time": 1707886711,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174018,
       "num": 174018,
       "word": "TWS与IU音源榜单破表",
@@ -819,20 +923,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170648,
+      "num": 170648,
+      "word": "好健康的母女关系",
+      "onboard_time": 1707884612,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169141,
       "num": 169141,
       "word": "英雄联盟手游 情限抽奖",
       "onboard_time": 1707881251,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167158,
-      "num": 167158,
-      "word": "南来北往",
-      "onboard_time": 1707884314,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 166420,
@@ -843,11 +947,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165530,
-      "num": 165530,
-      "word": "好健康的母女关系",
-      "onboard_time": 1707884612,
-      "rank": 37,
+      "raw_hot": 165373,
+      "num": 165373,
+      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
+      "onboard_time": 1707882511,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165318,
+      "num": 165318,
+      "word": "永夜星河奇缘剧照",
+      "onboard_time": 1707887372,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -891,14 +1003,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 159786,
-      "num": 159786,
-      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
-      "onboard_time": 1707882511,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158167,
       "num": 158167,
       "word": "凌晨2点的哈尔滨什么样",
@@ -929,6 +1033,14 @@
       "onboard_time": 1707866060,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148763,
+      "num": 148763,
+      "word": "网友在财政部下的许愿很统一",
+      "onboard_time": 1707885812,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 148244,
@@ -1043,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121509,
+      "num": 121509,
+      "word": "2024说爱你",
+      "onboard_time": 1707886294,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120624,
       "num": 120624,
       "word": "进淄赶烤游客再次爆满",
@@ -1081,14 +1201,6 @@
       "onboard_time": 1707884314,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114984,
-      "num": 114984,
-      "word": "美国副总统称已准备好接班",
-      "onboard_time": 1707885152,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 111551,
@@ -1353,6 +1465,14 @@
       "onboard_time": 1707844349,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49027,
+      "num": 340085,
+      "word": "情人节关键时刻见实力",
+      "onboard_time": 1707886831,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 48790,
