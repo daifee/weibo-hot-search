@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707899655224,
+  "endTime": 1707902259382,
   "band_list": [
     {
       "raw_hot": 5426257,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 554849,
+      "num": 570069,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113209,
+      "num": 1113209,
+      "word": "舅舅的舅舅的舅舅叫什么",
+      "onboard_time": 1707900694,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1036918,
       "num": 1036918,
       "word": "第二十条连续票房逆跌",
@@ -153,6 +161,14 @@
       "onboard_time": 1707841294,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 968846,
+      "num": 395113,
+      "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+      "onboard_time": 1707901356,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 945215,
@@ -203,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 815019,
+      "num": 815019,
+      "word": "财政部许愿池",
+      "onboard_time": 1707898474,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791392,
       "num": 791392,
       "word": "赵丽颖战损妆梦回楚乔",
@@ -249,6 +273,14 @@
       "onboard_time": 1707883892,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647754,
+      "num": 390310,
+      "word": "尹子维疑再求婚徐冬冬",
+      "onboard_time": 1707901176,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 644573,
@@ -331,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555563,
-      "num": 555563,
-      "word": "财政部许愿池",
-      "onboard_time": 1707898474,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 561966,
+      "num": 561966,
+      "word": "情人节礼物",
+      "onboard_time": 1707895776,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 545029,
@@ -385,6 +417,14 @@
       "onboard_time": 1707811294,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520033,
+      "num": 520033,
+      "word": "韩寒回应是否有飞驰人生3",
+      "onboard_time": 1707897454,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 507484,
@@ -508,7 +548,7 @@
     },
     {
       "raw_hot": 414307,
-      "num": 221465,
+      "num": 242502,
       "word": "今年微信拜年少了",
       "onboard_time": 1707896375,
       "rank": 20,
@@ -521,6 +561,14 @@
       "onboard_time": 1707826057,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407883,
+      "num": 407883,
+      "word": "想缴偶然所得税",
+      "onboard_time": 1707899854,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 407601,
@@ -547,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382069,
-      "num": 382069,
-      "word": "情人节礼物",
-      "onboard_time": 1707895776,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 381031,
       "num": 268615,
       "word": "狗狗第一次吃到剩饭香迷糊了",
@@ -579,19 +619,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371188,
-      "num": 333214,
-      "word": "韩寒回应是否有飞驰人生3",
-      "onboard_time": 1707897454,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 367654,
       "num": 367654,
       "word": "小伙情人节送女友2米高发财树和零食花",
       "onboard_time": 1707873872,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366618,
+      "num": 366618,
+      "word": "8岁萌兰遇到5个月大的自己害羞羞",
+      "onboard_time": 1707895835,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -609,6 +649,14 @@
       "onboard_time": 1707873392,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 353170,
+      "num": 353170,
+      "word": "董宇辉回村的生活有多惬意",
+      "onboard_time": 1707900876,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 350981,
@@ -659,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324559,
+      "num": 324559,
+      "word": "王鹤棣出发NBA",
+      "onboard_time": 1707898775,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 323996,
+      "num": 323996,
+      "word": "i人和e人果然是天生的",
+      "onboard_time": 1707899073,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317327,
       "num": 317327,
       "word": "王凯谈春晚和朱一龙陈伟霆合作",
@@ -681,14 +745,6 @@
       "onboard_time": 1707886831,
       "rank": 16,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 305294,
-      "num": 305294,
-      "word": "王鹤棣出发NBA",
-      "onboard_time": 1707898775,
-      "rank": 31,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 293065,
@@ -761,14 +817,6 @@
       "onboard_time": 1707868646,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273524,
-      "num": 273524,
-      "word": "8岁萌兰遇到5个月大的自己害羞羞",
-      "onboard_time": 1707895835,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273443,
@@ -891,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233745,
+      "num": 233745,
+      "word": "再就业男团春晚登台前的状态",
+      "onboard_time": 1707899551,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232887,
       "num": 232887,
       "word": "夫妻花7年包揽全部工作做出一部电影",
@@ -913,14 +969,6 @@
       "onboard_time": 1707883530,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226502,
-      "num": 176500,
-      "word": "i人和e人果然是天生的",
-      "onboard_time": 1707899073,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 224737,
@@ -971,6 +1019,22 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 211790,
+      "num": 211790,
+      "word": "巧克力远没有你想象的那么美好",
+      "onboard_time": 1707900936,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 210669,
+      "num": 210669,
+      "word": "王铮亮和他五个第一次上春晚的兄弟",
+      "onboard_time": 1707902138,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206602,
       "num": 206602,
       "word": "与凤行情人节MV",
@@ -993,6 +1057,14 @@
       "onboard_time": 1707880172,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "因几万彩礼谈不拢取消订婚",
+      "onboard_time": 1707901296,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203204,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1707890857,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196738,
+      "num": 196738,
+      "word": "钱从四面八方来",
+      "onboard_time": 1707901657,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 194916,
@@ -1097,14 +1177,6 @@
       "onboard_time": 1707892173,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189648,
-      "num": 189648,
-      "word": "再就业男团春晚登台前的状态",
-      "onboard_time": 1707899551,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 189574,
@@ -1321,6 +1393,14 @@
       "onboard_time": 1707869187,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160193,
+      "num": 160193,
+      "word": "飞驰人生2",
+      "onboard_time": 1707901235,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 159957,
