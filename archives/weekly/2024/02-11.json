@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707881742901,
+  "endTime": 1707884442075,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2356119,
+      "num": 2356119,
+      "word": "网友模仿上春山",
+      "onboard_time": 1707881728,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2341366,
       "num": 2341366,
       "word": "尼格买提说自己三天没笑过了",
@@ -177,6 +185,14 @@
       "onboard_time": 1707792755,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2198553,
+      "num": 2198553,
+      "word": "粉丝问白敬亭为什么穿黑色",
+      "onboard_time": 1707882811,
+      "rank": 1,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 2190269,
@@ -1435,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 705845,
+      "num": 705845,
+      "word": "庆余年第二季 谐音梗",
+      "onboard_time": 1707881854,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704180,
       "num": 704180,
       "word": "小伙开兰博基尼回村出事故撞报废",
@@ -2571,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430321,
+      "num": 430321,
+      "word": "惠英红包 刘浩存钱",
+      "onboard_time": 1707881728,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430181,
       "num": 346482,
       "word": "女婿陪媳妇回娘家的统一状态",
@@ -2609,6 +2641,14 @@
       "onboard_time": 1707818259,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425298,
+      "num": 425298,
+      "word": "上春山logo",
+      "onboard_time": 1707883892,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 424451,
@@ -2915,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369464,
+      "num": 369464,
+      "word": "小龙糕",
+      "onboard_time": 1707744274,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 368309,
       "num": 368309,
       "word": "孩子送上警车后她才发现自己后背全湿了",
@@ -3028,7 +3076,7 @@
     },
     {
       "raw_hot": 349311,
-      "num": 306492,
+      "num": 326521,
       "word": "这届年轻人为啥要钱不要爱",
       "onboard_time": 1707879030,
       "rank": 20,
@@ -3275,6 +3323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 317327,
+      "num": 317327,
+      "word": "王凯谈春晚和朱一龙陈伟霆合作",
+      "onboard_time": 1707881972,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316671,
       "num": 244964,
       "word": "前程朤朤怎么读",
@@ -3289,14 +3345,6 @@
       "onboard_time": 1707622710,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315626,
-      "num": 315626,
-      "word": "小龙糕",
-      "onboard_time": 1707744274,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 314708,
@@ -3329,14 +3377,6 @@
       "onboard_time": 1707608361,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309232,
-      "num": 208077,
-      "word": "网友模仿上春山",
-      "onboard_time": 1707881728,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 308669,
@@ -3547,6 +3587,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280871,
+      "num": 280871,
+      "word": "在县城开零食店春节能卖200万",
+      "onboard_time": 1707882572,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280448,
+      "num": 280448,
+      "word": "赵丽颖林更新新剧吻戏",
+      "onboard_time": 1707883173,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278981,
       "num": 247208,
       "word": "点外卖只点了一个菜",
@@ -3721,6 +3777,14 @@
       "onboard_time": 1707793417,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268823,
+      "num": 1462761,
+      "word": "龙行龘龘前程朤朤",
+      "onboard_time": 1707879630,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268310,
@@ -4043,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243710,
+      "num": 243710,
+      "word": "你收到的情人节玫瑰99%是假的",
+      "onboard_time": 1707882932,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243694,
       "num": 243694,
       "word": "王源你到底拍了多少次",
@@ -4129,14 +4201,6 @@
       "onboard_time": 1707579991,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238779,
-      "num": 238779,
-      "word": "惠英红包 刘浩存钱",
-      "onboard_time": 1707881728,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 238347,
@@ -4369,6 +4433,14 @@
       "onboard_time": 1707699269,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227546,
+      "num": 227546,
+      "word": "春晚传播数据创最高纪录",
+      "onboard_time": 1707883530,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 226604,
@@ -5027,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197095,
+      "num": 197095,
+      "word": "中国式令人窒息的母亲",
+      "onboard_time": 1707884372,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "易烊千玺弹贝斯vlog",
@@ -5203,6 +5283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190200,
+      "num": 190200,
+      "word": "年轻人为什么反感被催婚",
+      "onboard_time": 1707884070,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189802,
+      "num": 189802,
+      "word": "江西彩礼高不借钱娶不到妻",
+      "onboard_time": 1707883892,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189574,
       "num": 189574,
       "word": "热辣滚烫春节档上半程票房冠军",
@@ -5289,6 +5385,14 @@
       "onboard_time": 1707834101,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186531,
+      "num": 186531,
+      "word": "冰雪大世界化了",
+      "onboard_time": 1707881551,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 186335,
@@ -5435,14 +5539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 179631,
-      "num": 1462761,
-      "word": "龙行龘龘前程朤朤",
-      "onboard_time": 1707879630,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179596,
       "num": 179596,
       "word": "不要再说你不会打麻将了",
@@ -5499,6 +5595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177324,
+      "num": 177324,
+      "word": "情头",
+      "onboard_time": 1707883770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176363,
       "num": 176363,
       "word": "世界田联主席悼念基普图姆",
@@ -5545,6 +5649,14 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175017,
+      "num": 175017,
+      "word": "农村老人沉迷刷APP挣钱",
+      "onboard_time": 1707883892,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174884,
@@ -5753,14 +5865,6 @@
       "onboard_time": 1707664473,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168750,
-      "num": 168750,
-      "word": "冰雪大世界化了",
-      "onboard_time": 1707881551,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 168430,
@@ -6787,6 +6891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138067,
+      "num": 138067,
+      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
+      "onboard_time": 1707882511,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137667,
       "num": 137667,
       "word": "文班亚马盖帽三双",
@@ -7569,6 +7681,14 @@
       "onboard_time": 1707638373,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115307,
+      "num": 115307,
+      "word": "全员加速中预告",
+      "onboard_time": 1707884314,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 115280,
