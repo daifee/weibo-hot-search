@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707867240825,
+  "endTime": 1707873124916,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -137,6 +137,14 @@
       "onboard_time": 1707740614,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2332917,
+      "num": 2332917,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 2304847,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1756654,
+      "num": 1756654,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1751791,
       "num": 1268022,
       "word": "夏之光手滑",
@@ -361,14 +377,6 @@
       "onboard_time": 1707745054,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1535519,
-      "num": 1535519,
-      "word": "迎财神",
-      "onboard_time": 1707865818,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 1534477,
@@ -521,6 +529,14 @@
       "onboard_time": 1707705451,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1306501,
+      "num": 1306501,
+      "word": "微信开放情人节520红包",
+      "onboard_time": 1707869488,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1272465,
@@ -979,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 933739,
+      "num": 933739,
+      "word": "第二十条连续票房逆跌",
+      "onboard_time": 1707870631,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 933388,
       "num": 933388,
       "word": "马思纯是周冬雨唯一的姐",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1707624930,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 901601,
+      "num": 901601,
+      "word": "财神壁纸",
+      "onboard_time": 1707866542,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 888497,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1707624689,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 794547,
+      "num": 794547,
+      "word": "杜乐莹是怎么爱上昊坤的",
+      "onboard_time": 1707870688,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 792125,
@@ -1931,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 531255,
+      "num": 531255,
+      "word": "官方辟谣福州2.1亿元天价婚礼",
+      "onboard_time": 1707869426,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530707,
       "num": 530707,
       "word": "小尼在新疆听到了朱广权的笑声",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1707574726,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507435,
+      "num": 507435,
+      "word": "treasure全团上恋综",
+      "onboard_time": 1707869246,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 506768,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1707743554,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 476823,
+      "num": 204977,
+      "word": "高额彩礼之下重负的农村父母",
+      "onboard_time": 1707871289,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476474,
@@ -2435,6 +2499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 424451,
+      "num": 424451,
+      "word": "河北邢台一小区发生爆燃",
+      "onboard_time": 1707867142,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424140,
       "num": 516677,
       "word": "国足最新排名跌至87位",
@@ -2513,6 +2585,14 @@
       "onboard_time": 1707616886,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402350,
+      "num": 402350,
+      "word": "贾玲回应电影热辣滚烫为何在广东取景",
+      "onboard_time": 1707867743,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 401858,
@@ -2731,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363731,
-      "num": 363731,
-      "word": "财神壁纸",
-      "onboard_time": 1707866542,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361592,
       "num": 589852,
       "word": "22岁华人女孩独自雪山徒步不幸遇难",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1707824857,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 356023,
+      "num": 356023,
+      "word": "杨蓉也嗑双北",
+      "onboard_time": 1707869368,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 355373,
@@ -2915,6 +2995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 333659,
+      "num": 333659,
+      "word": "周深在春晚后台听见了大鱼",
+      "onboard_time": 1707869308,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332745,
       "num": 228154,
       "word": "妈妈的对方正在输入",
@@ -3004,7 +3092,7 @@
     },
     {
       "raw_hot": 321142,
-      "num": 1275804,
+      "num": 1398596,
       "word": "老照片里是一不小心就长大的我们",
       "onboard_time": 1707828398,
       "rank": 2,
@@ -3203,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291097,
+      "num": 291097,
+      "word": "星宇",
+      "onboard_time": 1707869847,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288853,
       "num": 288853,
       "word": "陈伟霆谈第七次上春晚很感恩",
@@ -3305,6 +3401,14 @@
       "onboard_time": 1707804516,
       "rank": 30,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 278458,
+      "num": 204545,
+      "word": "00后的亲戚关系全靠长辈维持",
+      "onboard_time": 1707868646,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 278280,
@@ -3513,14 +3617,6 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 262387,
-      "num": 262387,
-      "word": "钱辈请和我交往",
-      "onboard_time": 1707865818,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 261520,
@@ -4363,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210488,
+      "num": 204195,
+      "word": "姐姐抢走红包被弟弟抱起转圈圈",
+      "onboard_time": 1707869788,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210399,
       "num": 210399,
       "word": "8只基金吸金3770亿元",
@@ -4499,6 +4603,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 205661,
+      "num": 205661,
+      "word": "龚俊cos财神",
+      "onboard_time": 1707872852,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205516,
       "num": 205516,
       "word": "小尼手里到底剩了两张什么扑克牌",
@@ -4537,6 +4649,14 @@
       "onboard_time": 1707785852,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203204,
+      "num": 203204,
+      "word": "第一批等到主人的留守猫",
+      "onboard_time": 1707871289,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 203161,
@@ -4723,6 +4843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194916,
+      "num": 194916,
+      "word": "飞驰人生2票房破14亿",
+      "onboard_time": 1707867803,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194630,
       "num": 194630,
       "word": "大年初二",
@@ -4817,6 +4945,14 @@
       "onboard_time": 1707627511,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189554,
+      "num": 189554,
+      "word": "尔滨咱下个冬天再见",
+      "onboard_time": 1707871650,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 188590,
@@ -5019,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179675,
+      "num": 179675,
+      "word": "有基因缺陷会不会选择结婚生育",
+      "onboard_time": 1707869187,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179596,
       "num": 179596,
       "word": "不要再说你不会打麻将了",
@@ -5065,6 +5209,14 @@
       "onboard_time": 1707648569,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178503,
+      "num": 178503,
+      "word": "梨形身材就跳普拉提",
+      "onboard_time": 1707872554,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 177834,
@@ -5795,6 +5947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152802,
+      "num": 152802,
+      "word": "中国人拜的财神到底是谁",
+      "onboard_time": 1707869606,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152050,
       "num": 144778,
       "word": "我努力过无数次 机会只在一两次",
@@ -5832,6 +5992,14 @@
       "word": "今天破五",
       "onboard_time": 1707866962,
       "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151512,
+      "num": 151512,
+      "word": "选择性社交冷漠症",
+      "onboard_time": 1707869187,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -6113,6 +6281,14 @@
       "onboard_time": 1707810334,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142566,
+      "num": 142566,
+      "word": "大年初五破五迎福",
+      "onboard_time": 1707872554,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 141997,
@@ -6611,6 +6787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127805,
+      "num": 127805,
+      "word": "乾隆时期的发廊三色瓶",
+      "onboard_time": 1707868525,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127708,
       "num": 127708,
       "word": "狗狗在自己刚买的床睡着了",
@@ -6712,6 +6896,14 @@
       "word": "小尼任鲁豫开扇吓撒贝宁两跳",
       "onboard_time": 1707804157,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124635,
+      "num": 124635,
+      "word": "看韩国综艺的人深深懂了",
+      "onboard_time": 1707872913,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -6945,6 +7137,14 @@
       "onboard_time": 1707728313,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117611,
+      "num": 117611,
+      "word": "武财神关羽如何统一全国信仰",
+      "onboard_time": 1707872011,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 117437,
@@ -7267,6 +7467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108850,
+      "num": 108850,
+      "word": "初五迎财神也要送穷神",
+      "onboard_time": 1707872913,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108261,
       "num": 117846,
       "word": "延续80年的初一头碗饺子敬英烈",
@@ -7377,6 +7585,14 @@
       "onboard_time": 1707755552,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101973,
+      "num": 101973,
+      "word": "小狗严选 耶耶牌大毛毯",
+      "onboard_time": 1707868104,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 101229,
@@ -7497,6 +7713,14 @@
       "onboard_time": 1707622347,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92529,
+      "num": 92529,
+      "word": "一碗渔粉让日本爱上湖南味道",
+      "onboard_time": 1707868827,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 92393,
@@ -7849,14 +8073,6 @@
       "onboard_time": 1707859516,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 44858,
-      "num": 44858,
-      "word": "河北邢台一小区发生爆燃",
-      "onboard_time": 1707867142,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43448,
