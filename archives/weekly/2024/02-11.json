@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707914736652,
+  "endTime": 1707916717904,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 815456,
+      "num": 1017099,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1024253,
+      "num": 1024253,
+      "word": "范丞丞脏辫",
+      "onboard_time": 1707915278,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1021705,
       "num": 1021705,
       "word": "财神壁纸",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1707841294,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1009479,
+      "num": 1009479,
+      "word": "第二十条南京路演影院致歉",
+      "onboard_time": 1707914678,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 1006464,
@@ -1296,6 +1312,14 @@
       "word": "朱丹周一围情人节合照",
       "onboard_time": 1707911678,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 824220,
+      "num": 824220,
+      "word": "罗云熙探班陈飞宇",
+      "onboard_time": 1707914137,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2811,8 +2835,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 445523,
-      "num": 316977,
+      "raw_hot": 446375,
+      "num": 373412,
       "word": "新姑爷第一次上门压塌老丈人床",
       "onboard_time": 1707912459,
       "rank": 20,
@@ -3859,14 +3883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 318575,
-      "num": 318575,
-      "word": "罗云熙探班陈飞宇",
-      "onboard_time": 1707914137,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318000,
       "num": 318000,
       "word": "边伯贤泡泡",
@@ -4315,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272055,
+      "num": 272055,
+      "word": "周杰伦昆凌情人节一起打网球",
+      "onboard_time": 1707915695,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271325,
       "num": 249778,
       "word": "突然发现00后顾嘴不顾身",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1707576215,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265822,
+      "num": 265822,
+      "word": "日本鹿儿岛县樱岛火山喷发",
+      "onboard_time": 1707915639,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 264127,
@@ -5555,6 +5587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207006,
+      "num": 207006,
+      "word": "四川一火锅店将两天营收全部给员工",
+      "onboard_time": 1707914376,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207004,
       "num": 207004,
       "word": "张婧仪黑贝雷帽",
@@ -5569,6 +5609,14 @@
       "onboard_time": 1707830440,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206793,
+      "num": 428868,
+      "word": "2024春节档总票房已破50亿元",
+      "onboard_time": 1707915156,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206780,
@@ -7091,6 +7139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156674,
+      "num": 156674,
+      "word": "发现人类一个可爱的共同点",
+      "onboard_time": 1707915579,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156365,
       "num": 156365,
       "word": "猫真的是好爱干净的小动物",
@@ -7609,6 +7665,14 @@
       "onboard_time": 1707788073,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143332,
+      "num": 143332,
+      "word": "尼格买提自己变魔术没失手过",
+      "onboard_time": 1707914856,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 143203,
@@ -8651,6 +8715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118569,
+      "num": 118569,
+      "word": "酸奶真的助消化吗",
+      "onboard_time": 1707916356,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118485,
       "num": 118485,
       "word": "初五情人节 财神爷爱你",
@@ -8689,6 +8761,14 @@
       "onboard_time": 1707787657,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117233,
+      "num": 117233,
+      "word": "苏尔",
+      "onboard_time": 1707916356,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 117142,
@@ -8753,6 +8833,14 @@
       "onboard_time": 1707638373,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115441,
+      "num": 115441,
+      "word": "张小斐好蛊",
+      "onboard_time": 1707914079,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 115343,
@@ -8873,14 +8961,6 @@
       "onboard_time": 1707800376,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113046,
-      "num": 113046,
-      "word": "第二十条南京路演影院致歉",
-      "onboard_time": 1707914678,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 113033,
@@ -9027,20 +9107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109855,
-      "num": 109855,
-      "word": "四川一火锅店将两天营收全部给员工",
-      "onboard_time": 1707914376,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109806,
       "num": 109806,
       "word": "飞驰人生2票房破11亿",
       "onboard_time": 1707783147,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109502,
+      "num": 109502,
+      "word": "乌方称击沉俄黑海舰队一大型登陆舰",
+      "onboard_time": 1707916417,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 109297,
@@ -9097,14 +9177,6 @@
       "onboard_time": 1707909399,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107933,
-      "num": 107933,
-      "word": "张小斐好蛊",
-      "onboard_time": 1707914079,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 106914,
