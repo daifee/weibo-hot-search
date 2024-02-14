@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707938043048,
+  "endTime": 1707939247777,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -10099,6 +10099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67447,
+      "num": 60574,
+      "word": "香港偶遇虞书欣逛街",
+      "onboard_time": 1707937276,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63320,
       "num": 63320,
       "word": "求证cp等于be",
@@ -10337,14 +10345,6 @@
       "onboard_time": 1707602295,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 40789,
-      "num": 40789,
-      "word": "香港偶遇虞书欣逛街",
-      "onboard_time": 1707937276,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 39633,

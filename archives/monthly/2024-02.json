@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707938043048,
+  "endTime": 1707939247777,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -37531,6 +37531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67447,
+      "num": 60574,
+      "word": "香港偶遇虞书欣逛街",
+      "onboard_time": 1707937276,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66897,
       "num": 66897,
       "word": "马天宇说cp都是假的",
@@ -38441,14 +38449,6 @@
       "onboard_time": 1707602295,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 40789,
-      "num": 40789,
-      "word": "香港偶遇虞书欣逛街",
-      "onboard_time": 1707937276,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 40788,
