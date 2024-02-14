@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707898885794,
+  "endTime": 1707899655224,
   "band_list": [
     {
       "raw_hot": 5426257,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 411698,
+      "num": 554849,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555563,
+      "num": 555563,
+      "word": "财政部许愿池",
+      "onboard_time": 1707898474,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545029,
       "num": 300163,
       "word": "中国式令人窒息的母亲",
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414307,
+      "num": 221465,
+      "word": "今年微信拜年少了",
+      "onboard_time": 1707896375,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 410900,
       "num": 163726,
       "word": "韩媒 中国放烟花影响韩国空气质量",
@@ -513,14 +529,6 @@
       "onboard_time": 1707872913,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405306,
-      "num": 221465,
-      "word": "今年微信拜年少了",
-      "onboard_time": 1707896375,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 404360,
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371188,
+      "num": 333214,
+      "word": "韩寒回应是否有飞驰人生3",
+      "onboard_time": 1707897454,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 367654,
       "num": 367654,
       "word": "小伙情人节送女友2米高发财树和零食花",
       "onboard_time": 1707873872,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356130,
-      "num": 333214,
-      "word": "韩寒回应是否有飞驰人生3",
-      "onboard_time": 1707897454,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 356023,
@@ -651,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331653,
-      "num": 331653,
-      "word": "财政部许愿池",
-      "onboard_time": 1707898474,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317327,
       "num": 317327,
       "word": "王凯谈春晚和朱一龙陈伟霆合作",
@@ -681,6 +681,14 @@
       "onboard_time": 1707886831,
       "rank": 16,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 305294,
+      "num": 305294,
+      "word": "王鹤棣出发NBA",
+      "onboard_time": 1707898775,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 293065,
@@ -755,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273524,
+      "num": 273524,
+      "word": "8岁萌兰遇到5个月大的自己害羞羞",
+      "onboard_time": 1707895835,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273443,
       "num": 200220,
       "word": "男子酒醒发现身上4千多现金没了",
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 262635,
-      "num": 169358,
+      "num": 196730,
       "word": "00后亲戚都是自己找的",
       "onboard_time": 1707897275,
       "rank": 30,
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226502,
+      "num": 176500,
+      "word": "i人和e人果然是天生的",
+      "onboard_time": 1707899073,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224737,
       "num": 201527,
       "word": "文咏珊和老公现身机场",
@@ -913,14 +937,6 @@
       "onboard_time": 1707820599,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221660,
-      "num": 221660,
-      "word": "8岁萌兰遇到5个月大的自己害羞羞",
-      "onboard_time": 1707895835,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218977,
@@ -1083,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189648,
+      "num": 189648,
+      "word": "再就业男团春晚登台前的状态",
+      "onboard_time": 1707899551,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189574,
       "num": 189574,
       "word": "热辣滚烫春节档上半程票房冠军",
@@ -1179,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175343,
+      "num": 175343,
+      "word": "庐山回应游客疑不满长时间排队喊退票",
+      "onboard_time": 1707898353,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 174018,
       "num": 174018,
       "word": "TWS与IU音源榜单破表",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1707881251,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168391,
-      "num": 168391,
-      "word": "王鹤棣出发NBA",
-      "onboard_time": 1707898775,
-      "rank": 31,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 166420,
@@ -1315,14 +1339,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 153816,
-      "num": 153816,
-      "word": "庐山回应游客疑不满长时间排队喊退票",
-      "onboard_time": 1707898353,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "看心情吧",
@@ -1387,6 +1403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 143945,
+      "num": 143945,
+      "word": "别拿意大利人的火腿开玩笑",
+      "onboard_time": 1707897034,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142566,
       "num": 142566,
       "word": "大年初五破五迎福",
@@ -1403,12 +1427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140562,
-      "num": 140562,
-      "word": "别拿意大利人的火腿开玩笑",
-      "onboard_time": 1707897034,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "亲戚越来越少",
+      "onboard_time": 1707899196,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 139084,
@@ -1843,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62832,
+      "num": 716884,
+      "word": "锦绣中国年",
+      "onboard_time": 1707898596,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61790,
       "num": 95057,
       "word": "郑秀妍郑秀晶合照",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1707826234,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59469,
+      "num": 176562,
+      "word": "网络中国节",
+      "onboard_time": 1707899073,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56244,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1707830199,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28098,
-      "num": 716884,
-      "word": "锦绣中国年",
-      "onboard_time": 1707898596,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21421,
