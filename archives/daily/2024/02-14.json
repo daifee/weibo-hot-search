@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707913872531,
+  "endTime": 1707914736652,
   "band_list": [
     {
       "raw_hot": 5426257,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 783891,
+      "num": 815456,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1048332,
-      "num": 1048332,
+      "raw_hot": 1074101,
+      "num": 1074101,
       "word": "杜淳老婆王灿回怼网友恶评",
       "onboard_time": 1707910959,
       "rank": 3,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617146,
+      "num": 627801,
+      "word": "我在三线小城开婚介所年赚60万",
+      "onboard_time": 1707910537,
+      "rank": 9,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 597025,
       "num": 597025,
       "word": "杨紫看热辣滚烫看哭了",
@@ -523,14 +531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 517671,
-      "num": 627801,
-      "word": "我在三线小城开婚介所年赚60万",
-      "onboard_time": 1707910537,
-      "rank": 9,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 514733,
       "num": 514733,
       "word": "钟丽缇53岁身材",
@@ -585,6 +585,14 @@
       "onboard_time": 1707888631,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 474500,
+      "num": 474500,
+      "word": "ChatGPT有记忆了",
+      "onboard_time": 1707912575,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 472864,
@@ -643,7 +651,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441883,
+      "raw_hot": 445523,
       "num": 316977,
       "word": "新姑爷第一次上门压塌老丈人床",
       "onboard_time": 1707912459,
@@ -787,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387313,
-      "num": 387313,
-      "word": "ChatGPT有记忆了",
-      "onboard_time": 1707912575,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 381031,
       "num": 268615,
       "word": "狗狗第一次吃到剩饭香迷糊了",
@@ -923,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342648,
+      "num": 342648,
+      "word": "张凌赫帮粉丝选美甲",
+      "onboard_time": 1707912758,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342291,
       "num": 342291,
       "word": "2名游客擅自在道外滑野雪造成雪崩",
@@ -953,6 +961,22 @@
       "onboard_time": 1707898775,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 318575,
+      "num": 318575,
+      "word": "罗云熙探班陈飞宇",
+      "onboard_time": 1707914137,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318000,
+      "num": 318000,
+      "word": "边伯贤泡泡",
+      "onboard_time": 1707913237,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 317327,
@@ -1147,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253181,
-      "num": 317496,
-      "word": "张凌赫帮粉丝选美甲",
-      "onboard_time": 1707912758,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251201,
       "num": 251201,
       "word": "飞驰人生2暴风雪里赛车燃到了",
@@ -1264,14 +1280,6 @@
       "word": "文咏珊和老公现身机场",
       "onboard_time": 1707843387,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224716,
-      "num": 224716,
-      "word": "边伯贤泡泡",
-      "onboard_time": 1707913237,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -2147,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113046,
+      "num": 113046,
+      "word": "第二十条南京路演影院致歉",
+      "onboard_time": 1707914678,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112164,
       "num": 112164,
       "word": "没有什么比搞钱更重要",
@@ -2179,12 +2195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109855,
+      "num": 109855,
+      "word": "四川一火锅店将两天营收全部给员工",
+      "onboard_time": 1707914376,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "被路边的垃圾桶送花了",
       "onboard_time": 1707909399,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107933,
+      "num": 107933,
+      "word": "张小斐好蛊",
+      "onboard_time": 1707914079,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 106579,

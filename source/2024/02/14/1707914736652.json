@@ -1,0 +1,410 @@
+{
+  "runTime": 1707914736652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1915508,
+        "num": 1915508,
+        "word": "内娱体脂率最低的一对情侣",
+        "onboard_time": 1707907837,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1927630,
+        "num": 1554631,
+        "word": "王骁被骂",
+        "onboard_time": 1707905917,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35638,
+        "num": 1161059,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074101,
+        "num": 1074101,
+        "word": "杜淳老婆王灿回怼网友恶评",
+        "onboard_time": 1707910959,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845225,
+        "num": 845225,
+        "word": "舅舅的舅舅的舅舅叫什么",
+        "onboard_time": 1707900694,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1020479,
+        "num": 815456,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775512,
+        "num": 775512,
+        "word": "朱丹周一围情人节合照",
+        "onboard_time": 1707911678,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635527,
+        "num": 635527,
+        "word": "撒贝宁夫妇带孩子回老家过年",
+        "onboard_time": 1707909519,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617146,
+        "num": 617146,
+        "word": "我在三线小城开婚介所年赚60万",
+        "onboard_time": 1707910537,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 575516,
+        "num": 575516,
+        "word": "情人节好多人把花扔了",
+        "onboard_time": 1707906517,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520144,
+        "num": 520144,
+        "word": "预算200可以去哪个国家",
+        "onboard_time": 1707909519,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 827594,
+        "num": 511762,
+        "word": "钟楚曦侯雯元情人节官宣",
+        "onboard_time": 1707890314,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474500,
+        "num": 474500,
+        "word": "ChatGPT有记忆了",
+        "onboard_time": 1707912575,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430793,
+        "num": 430793,
+        "word": "钟丽缇53岁身材",
+        "onboard_time": 1707910959,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429843,
+        "num": 429843,
+        "word": "因几万彩礼谈不拢取消订婚",
+        "onboard_time": 1707901296,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364464,
+        "num": 364464,
+        "word": "林亦扬求婚成功",
+        "onboard_time": 1707911437,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514799,
+        "num": 361012,
+        "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+        "onboard_time": 1707901356,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342648,
+        "num": 342648,
+        "word": "张凌赫帮粉丝选美甲",
+        "onboard_time": 1707912758,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318575,
+        "num": 318575,
+        "word": "罗云熙探班陈飞宇",
+        "onboard_time": 1707914137,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318000,
+        "num": 318000,
+        "word": "边伯贤泡泡",
+        "onboard_time": 1707913237,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445523,
+        "num": 311402,
+        "word": "新姑爷第一次上门压塌老丈人床",
+        "onboard_time": 1707912459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299202,
+        "num": 299202,
+        "word": "哈拉木吉官宣恋情",
+        "onboard_time": 1707909038,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283178,
+        "num": 283178,
+        "word": "晚上有这3个习惯或会变胖变丑",
+        "onboard_time": 1707908677,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283047,
+        "num": 283047,
+        "word": "欧阳娜娜 她姐姐喜欢她",
+        "onboard_time": 1707903158,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265291,
+        "num": 265291,
+        "word": "农村大龄男开始迎娶二婚女",
+        "onboard_time": 1707903217,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239644,
+        "num": 239644,
+        "word": "情人节 相亲",
+        "onboard_time": 1707905312,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229086,
+        "num": 229086,
+        "word": "钟楚曦大唐狄公案的妆是自己画的",
+        "onboard_time": 1707906816,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204871,
+        "num": 204871,
+        "word": "张婧仪黑贝雷帽",
+        "onboard_time": 1707911800,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "财政部许愿池",
+        "onboard_time": 1707898474,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78440,
+        "num": 185870,
+        "word": "尔滨百年菜市场开始论个卖菜了",
+        "onboard_time": 1707903577,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177005,
+        "num": 177005,
+        "word": "杨紫黑色小香",
+        "onboard_time": 1707904061,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175669,
+        "num": 175669,
+        "word": "财政部许愿池里45%个人所得税是啥",
+        "onboard_time": 1707902916,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170308,
+        "num": 170308,
+        "word": "情人节礼物",
+        "onboard_time": 1707895776,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "在暴雪时分大结局",
+        "onboard_time": 1707904655,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152521,
+        "num": 152521,
+        "word": "五路财神",
+        "onboard_time": 1707888631,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146811,
+        "num": 146811,
+        "word": "魏大勋手上的青筋",
+        "onboard_time": 1707905377,
+        "rank": 35,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 144551,
+        "num": 144551,
+        "word": "刘谦尼格买提拥抱",
+        "onboard_time": 1707909819,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144085,
+        "num": 144085,
+        "word": "三岁以下小孩是不是对大小没概念",
+        "onboard_time": 1707907896,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138092,
+        "num": 138092,
+        "word": "贾玲路演被喊老公",
+        "onboard_time": 1707911259,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136061,
+        "num": 136061,
+        "word": "梨形是科学家眼中最健康的身材",
+        "onboard_time": 1707904177,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135354,
+        "num": 135354,
+        "word": "头一回见吃饺子还要吐籽",
+        "onboard_time": 1707910718,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117722,
+        "num": 117722,
+        "word": "旅游还健身",
+        "onboard_time": 1707905135,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117587,
+        "num": 117587,
+        "word": "今年微信拜年少了",
+        "onboard_time": 1707896375,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113046,
+        "num": 113046,
+        "word": "第二十条南京路演影院致歉",
+        "onboard_time": 1707914678,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111765,
+        "num": 111765,
+        "word": "尹子维疑再求婚徐冬冬",
+        "onboard_time": 1707901176,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110544,
+        "num": 110544,
+        "word": "没有什么比搞钱更重要",
+        "onboard_time": 1707911316,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109855,
+        "num": 109855,
+        "word": "四川一火锅店将两天营收全部给员工",
+        "onboard_time": 1707914376,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107933,
+        "num": 107933,
+        "word": "张小斐好蛊",
+        "onboard_time": 1707914079,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105794,
+        "num": 105794,
+        "word": "为什么留在老家的人更容易结婚生子",
+        "onboard_time": 1707904476,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "浙江姑娘回村跑步晒了条跑道火了",
+        "onboard_time": 1707903878,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造温暖和谐的社会氛围#"
+    }
+  }
+}
