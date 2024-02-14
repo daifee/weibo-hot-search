@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707910447264,
+  "endTime": 1707913872531,
   "band_list": [
     {
       "raw_hot": 5426257,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 571099,
+      "num": 783891,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048332,
+      "num": 1048332,
+      "word": "杜淳老婆王灿回怼网友恶评",
+      "onboard_time": 1707910959,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036918,
       "num": 1036918,
       "word": "第二十条连续票房逆跌",
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 828056,
+      "num": 828056,
+      "word": "朱丹周一围情人节合照",
+      "onboard_time": 1707911678,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816447,
       "num": 816447,
       "word": "尹子维疑再求婚徐冬冬",
@@ -307,12 +323,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 685789,
+      "num": 685789,
+      "word": "撒贝宁夫妇带孩子回老家过年",
+      "onboard_time": 1707909519,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685221,
       "num": 685221,
       "word": "陆虎陈曌旭情人节发糖",
       "onboard_time": 1707890015,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663695,
+      "num": 663695,
+      "word": "预算200可以去哪个国家",
+      "onboard_time": 1707909519,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 651231,
@@ -345,14 +377,6 @@
       "onboard_time": 1707874350,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605788,
-      "num": 605788,
-      "word": "撒贝宁夫妇带孩子回老家过年",
-      "onboard_time": 1707909519,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 597025,
@@ -499,6 +523,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 517671,
+      "num": 627801,
+      "word": "我在三线小城开婚介所年赚60万",
+      "onboard_time": 1707910537,
+      "rank": 9,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 514733,
+      "num": 514733,
+      "word": "钟丽缇53岁身材",
+      "onboard_time": 1707910959,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509315,
       "num": 349069,
       "word": "农村大龄男开始迎娶二婚女",
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441883,
+      "num": 316977,
+      "word": "新姑爷第一次上门压塌老丈人床",
+      "onboard_time": 1707912459,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440729,
       "num": 440729,
       "word": "沪上阿姨在港递交上市申请",
@@ -657,6 +705,14 @@
       "onboard_time": 1707893553,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417952,
+      "num": 417952,
+      "word": "林亦扬求婚成功",
+      "onboard_time": 1707911437,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 414307,
@@ -729,6 +785,14 @@
       "onboard_time": 1707902794,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387313,
+      "num": 387313,
+      "word": "ChatGPT有记忆了",
+      "onboard_time": 1707912575,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 381031,
@@ -881,14 +945,6 @@
       "onboard_time": 1707908677,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 325165,
-      "num": 349499,
-      "word": "预算200可以去哪个国家",
-      "onboard_time": 1707909519,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 324559,
@@ -1091,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253181,
+      "num": 317496,
+      "word": "张凌赫帮粉丝选美甲",
+      "onboard_time": 1707912758,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251201,
       "num": 251201,
       "word": "飞驰人生2暴风雪里赛车燃到了",
@@ -1203,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224716,
+      "num": 224716,
+      "word": "边伯贤泡泡",
+      "onboard_time": 1707913237,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222095,
       "num": 188641,
       "word": "暧昧期突然下头真的是绝杀",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1707901657,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207004,
+      "num": 207004,
+      "word": "张婧仪黑贝雷帽",
+      "onboard_time": 1707911800,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206602,
@@ -1771,6 +1851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144515,
+      "num": 144515,
+      "word": "贾玲路演被喊老公",
+      "onboard_time": 1707911259,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143945,
       "num": 143945,
       "word": "别拿意大利人的火腿开玩笑",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1707820905,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138434,
+      "num": 138434,
+      "word": "头一回见吃饺子还要吐籽",
+      "onboard_time": 1707910718,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136327,
@@ -1900,7 +1996,7 @@
     },
     {
       "raw_hot": 127304,
-      "num": 228788,
+      "num": 249387,
       "word": "尔滨百年菜市场开始论个卖菜了",
       "onboard_time": 1707903577,
       "rank": 29,
@@ -2051,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112164,
+      "num": 112164,
+      "word": "没有什么比搞钱更重要",
+      "onboard_time": 1707911316,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "广东千人英歌舞大场面",
@@ -2152,6 +2256,14 @@
       "word": "小狗严选 耶耶牌大毛毯",
       "onboard_time": 1707868104,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101930,
+      "num": 101930,
+      "word": "连猫都知道拜财神",
+      "onboard_time": 1707913416,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -2300,7 +2412,7 @@
     },
     {
       "raw_hot": 62832,
-      "num": 716884,
+      "num": 1350576,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
       "rank": 2,
