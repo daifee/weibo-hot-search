@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707927696624,
+  "endTime": 1707928592445,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -7043,6 +7043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 663568,
+      "num": 663568,
+      "word": "一男子被终身禁入成都熊猫基地",
+      "onboard_time": 1707916778,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662462,
       "num": 662462,
       "word": "玄彬孙艺珍方否认购新房",
@@ -7801,14 +7809,6 @@
       "onboard_time": 1707052230,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 609894,
-      "num": 609894,
-      "word": "一男子被终身禁入成都熊猫基地",
-      "onboard_time": 1707916778,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609298,
@@ -11803,6 +11803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408581,
+      "num": 408581,
+      "word": "接吻可能带来幽门螺杆菌感染风险",
+      "onboard_time": 1707925297,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 407883,
       "num": 407883,
       "word": "想缴偶然所得税",
@@ -14081,14 +14089,6 @@
       "onboard_time": 1706851476,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 331253,
-      "num": 331253,
-      "word": "接吻可能带来幽门螺杆菌感染风险",
-      "onboard_time": 1707925297,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 331189,
@@ -29827,20 +29827,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146435,
+      "num": 146435,
+      "word": "aespa活动新闻图",
+      "onboard_time": 1707926197,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146426,
       "num": 432667,
       "word": "爱马仕在所有地区强劲增长",
       "onboard_time": 1707527257,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146364,
-      "num": 146364,
-      "word": "aespa活动新闻图",
-      "onboard_time": 1707926197,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 146357,
@@ -32097,6 +32097,14 @@
       "onboard_time": 1707141873,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132290,
+      "num": 132290,
+      "word": "港媒曝尹子维送徐冬冬钻戒价值百万",
+      "onboard_time": 1707928291,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 132286,
@@ -36809,6 +36817,14 @@
       "onboard_time": 1707412523,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85275,
+      "num": 95658,
+      "word": "张颂文的温柔有种沉淀感",
+      "onboard_time": 1707928232,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84698,
