@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707939247777,
+  "endTime": 1707941864469,
   "band_list": [
     {
       "raw_hot": 949733,
@@ -497,6 +497,14 @@
       "onboard_time": 1707899073,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28049,
+      "num": 28049,
+      "word": "大醉之后喝白开水可解酒",
+      "onboard_time": 1707940276,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 10147,
