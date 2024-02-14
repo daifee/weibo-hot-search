@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707917639190,
+  "endTime": 1707920196805,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1961164,
+      "num": 1961164,
+      "word": "李金铭近照状态",
+      "onboard_time": 1707916778,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1956784,
       "num": 1956784,
       "word": "尼格买提问春晚还要重播几次",
@@ -473,6 +481,14 @@
       "onboard_time": 1707781585,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1520567,
+      "num": 1520567,
+      "word": "我们一起摇太阳宣布延后上映",
+      "onboard_time": 1707917857,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1518787,
@@ -1315,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 836791,
+      "num": 836791,
+      "word": "化妆师供不应求",
+      "onboard_time": 1707917137,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 828056,
       "num": 828056,
       "word": "朱丹周一围情人节合照",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1707652593,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 743777,
+      "num": 743777,
+      "word": "撒贝宁董卿给小尼施的法",
+      "onboard_time": 1707918937,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 743407,
@@ -1763,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669228,
+      "num": 669228,
+      "word": "贾玲 最美的盛开是反击",
+      "onboard_time": 1707917377,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 667410,
       "num": 667410,
       "word": "刘诗诗送杨幂刮刮乐",
@@ -1955,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619488,
+      "num": 666095,
+      "word": "日本鹿儿岛县樱岛火山喷发",
+      "onboard_time": 1707915639,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 619102,
       "num": 619102,
       "word": "焦裕禄次子焦跃进逝世",
@@ -2043,20 +2091,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 594115,
-      "num": 594115,
-      "word": "李金铭近照状态",
-      "onboard_time": 1707916778,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 593436,
       "num": 593436,
       "word": "不敢相信这是76岁人的状态",
       "onboard_time": 1707741392,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592909,
+      "num": 346553,
+      "word": "一男子被终身禁入成都熊猫基地",
+      "onboard_time": 1707916778,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592841,
@@ -2516,7 +2564,7 @@
     },
     {
       "raw_hot": 509315,
-      "num": 349069,
+      "num": 384939,
       "word": "农村大龄男开始迎娶二婚女",
       "onboard_time": 1707903217,
       "rank": 28,
@@ -2843,6 +2891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 446650,
+      "num": 446650,
+      "word": "曹颖13岁儿子颜值",
+      "onboard_time": 1707919480,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446375,
       "num": 373412,
       "word": "新姑爷第一次上门压塌老丈人床",
@@ -3041,14 +3097,6 @@
       "onboard_time": 1707818259,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 426071,
-      "num": 426071,
-      "word": "日本鹿儿岛县樱岛火山喷发",
-      "onboard_time": 1707915639,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 424451,
@@ -4011,14 +4059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304040,
-      "num": 304040,
-      "word": "一男子被终身禁入成都熊猫基地",
-      "onboard_time": 1707916778,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303250,
       "num": 284802,
       "word": "可乐喝多了身体会发生什么",
@@ -4891,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240665,
+      "num": 240665,
+      "word": "刘耀文路演",
+      "onboard_time": 1707919239,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240571,
       "num": 240571,
       "word": "春晚出图",
@@ -4985,6 +5033,14 @@
       "onboard_time": 1707745054,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 235321,
+      "num": 235321,
+      "word": "再听肖战献唱如愿依旧满满感动",
+      "onboard_time": 1707917257,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 235296,
@@ -5123,6 +5179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230513,
+      "num": 230513,
+      "word": "杨祐宁与老婆过情人节",
+      "onboard_time": 1707918820,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230403,
       "num": 230403,
       "word": "大侦探9首案概念海报",
@@ -5145,14 +5209,6 @@
       "onboard_time": 1707714270,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228963,
-      "num": 228963,
-      "word": "化妆师供不应求",
-      "onboard_time": 1707917137,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 228881,
@@ -5473,14 +5529,6 @@
       "onboard_time": 1707751236,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212124,
-      "num": 212124,
-      "word": "再听肖战献唱如愿依旧满满感动",
-      "onboard_time": 1707917257,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 211723,
@@ -6171,14 +6219,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 189140,
-      "num": 189140,
-      "word": "贾玲 最美的盛开是反击",
-      "onboard_time": 1707917377,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188723,
       "num": 188723,
       "word": "初五迎财神也要送穷神",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1707828398,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185306,
+      "num": 185306,
+      "word": "摇钱树长什么样",
+      "onboard_time": 1707919661,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185296,
@@ -6603,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173276,
+      "num": 173276,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 173073,
       "num": 173073,
       "word": "13岁的小猫宝宝",
@@ -6819,20 +6875,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168158,
+      "num": 168158,
+      "word": "乌方称击沉俄黑海舰队一大型登陆舰",
+      "onboard_time": 1707916417,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 168037,
       "num": 168037,
       "word": "为什么我们总是在等别人主动",
       "onboard_time": 1707837819,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167869,
-      "num": 167869,
-      "word": "乌方称击沉俄黑海舰队一大型登陆舰",
-      "onboard_time": 1707916417,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 167314,
@@ -7115,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159141,
+      "num": 159141,
+      "word": "八方游客聚西安齐诵将进酒",
+      "onboard_time": 1707919661,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158998,
       "num": 158998,
       "word": "美媒称苹果VisionPro还是原型机",
@@ -7377,6 +7441,14 @@
       "onboard_time": 1707649593,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152330,
+      "num": 152330,
+      "word": "郑钦文比赛",
+      "onboard_time": 1707918278,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152050,
@@ -8099,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135150,
+      "num": 135150,
+      "word": "勇士曾尝试交易詹姆斯",
+      "onboard_time": 1707919840,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134437,
       "num": 134437,
       "word": "大年初五祝你多财多亿",
@@ -8561,6 +8641,14 @@
       "onboard_time": 1707680417,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123265,
+      "num": 123265,
+      "word": "99老师画左乐了",
+      "onboard_time": 1707919778,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 123254,
@@ -9756,7 +9844,7 @@
     },
     {
       "raw_hot": 59469,
-      "num": 1249505,
+      "num": 1523755,
       "word": "网络中国节",
       "onboard_time": 1707554498,
       "rank": 2,
