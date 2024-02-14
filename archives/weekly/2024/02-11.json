@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707896037914,
+  "endTime": 1707898885794,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5426257,
+      "num": 5426257,
+      "word": "钟楚曦侯雯元情人节官宣",
+      "onboard_time": 1707890314,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4670663,
       "num": 4670663,
       "word": "春晚每一个走位都精心设计并被准确呈现",
       "onboard_time": 1707811294,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4295238,
-      "num": 4295238,
-      "word": "钟楚曦侯雯元情人节官宣",
-      "onboard_time": 1707890314,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 4051983,
@@ -137,6 +137,14 @@
       "onboard_time": 1707826478,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2453518,
+      "num": 411698,
+      "word": "钟楚曦侯雯元 大大方方",
+      "onboard_time": 1707897335,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2449118,
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 927194,
+      "num": 927194,
+      "word": "马上全世界都知道和睦要当小三了",
+      "onboard_time": 1707894453,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 925472,
       "num": 925472,
       "word": "杨幂礼服下面穿秋裤",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1707752975,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 761323,
-      "num": 761323,
-      "word": "马上全世界都知道和睦要当小三了",
-      "onboard_time": 1707894453,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 758832,
@@ -2836,7 +2844,7 @@
     },
     {
       "raw_hot": 420882,
-      "num": 361822,
+      "num": 411811,
       "word": "2011年周杰伦春晚好忙",
       "onboard_time": 1707893553,
       "rank": 13,
@@ -2897,6 +2905,14 @@
       "onboard_time": 1707699087,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405306,
+      "num": 221465,
+      "word": "今年微信拜年少了",
+      "onboard_time": 1707896375,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 404360,
@@ -3009,6 +3025,14 @@
       "onboard_time": 1707789330,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382069,
+      "num": 382069,
+      "word": "情人节礼物",
+      "onboard_time": 1707895776,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 381031,
@@ -3203,6 +3227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 356130,
+      "num": 333214,
+      "word": "韩寒回应是否有飞驰人生3",
+      "onboard_time": 1707897454,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356023,
       "num": 356023,
       "word": "杨蓉也嗑双北",
@@ -3315,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344287,
+      "num": 344287,
+      "word": "魏大勋夹子音",
+      "onboard_time": 1707896134,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343638,
       "num": 343638,
       "word": "艾尔海森",
@@ -3400,6 +3440,14 @@
       "word": "95后孙女给75岁奶奶染火龙果发色",
       "onboard_time": 1707806137,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331653,
+      "num": 331653,
+      "word": "财政部许愿池",
+      "onboard_time": 1707898474,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4057,6 +4105,14 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262635,
+      "num": 169358,
+      "word": "00后亲戚都是自己找的",
+      "onboard_time": 1707897275,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 261520,
@@ -4803,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221660,
+      "num": 221660,
+      "word": "8岁萌兰遇到5个月大的自己害羞羞",
+      "onboard_time": 1707895835,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220862,
       "num": 220862,
       "word": "贾玲不想让大家错过大张伟的歌",
@@ -4849,14 +4913,6 @@
       "onboard_time": 1707627931,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 218378,
-      "num": 218378,
-      "word": "情人节礼物",
-      "onboard_time": 1707895776,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 218081,
@@ -4929,6 +4985,14 @@
       "onboard_time": 1707560856,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213360,
+      "num": 213360,
+      "word": "鞠婧祎清透妆感",
+      "onboard_time": 1707898474,
+      "rank": 23,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 213322,
@@ -6203,6 +6267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 168391,
+      "num": 168391,
+      "word": "王鹤棣出发NBA",
+      "onboard_time": 1707898775,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 168329,
       "num": 168329,
       "word": "本以为是巴黎圣母院",
@@ -6683,6 +6755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153816,
+      "num": 153816,
+      "word": "庐山回应游客疑不满长时间排队喊退票",
+      "onboard_time": 1707898353,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "刘谦春晚 华丽的数学秀",
@@ -6849,6 +6929,14 @@
       "onboard_time": 1707714092,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 149641,
+      "num": 149641,
+      "word": "情人节文案",
+      "onboard_time": 1707896314,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 149595,
@@ -7153,6 +7241,14 @@
       "onboard_time": 1707754231,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140562,
+      "num": 140562,
+      "word": "别拿意大利人的火腿开玩笑",
+      "onboard_time": 1707897034,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 140370,
@@ -7531,6 +7627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130202,
+      "num": 130202,
+      "word": "失笑林一沈月情人节营业",
+      "onboard_time": 1707897516,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130176,
       "num": 130176,
       "word": "吴魏说林亦扬有家了",
@@ -7787,6 +7891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123642,
+      "num": 123642,
+      "word": "黑神话悟空 家庭伦理剧",
+      "onboard_time": 1707896375,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123617,
       "num": 123617,
       "word": "刘涛说现实中胡歌陈龙和繁花反差大",
@@ -7905,6 +8017,14 @@
       "onboard_time": 1707707973,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121139,
+      "num": 121139,
+      "word": "气球带着送妈妈的1000元现金飞走了",
+      "onboard_time": 1707896016,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120959,
@@ -8051,6 +8171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117093,
+      "num": 117093,
+      "word": "有钱人的快乐果然无法想象",
+      "onboard_time": 1707893251,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 116892,
       "num": 116892,
       "word": "把被套洗成发面馒头",
@@ -8161,14 +8289,6 @@
       "onboard_time": 1707567819,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114307,
-      "num": 114307,
-      "word": "有钱人的快乐果然无法想象",
-      "onboard_time": 1707893251,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 113765,
@@ -8531,14 +8651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101335,
-      "num": 101335,
-      "word": "8岁萌兰遇到5个月大的自己害羞羞",
-      "onboard_time": 1707895835,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101229,
       "num": 101229,
       "word": "wf2024冬",
@@ -8553,14 +8665,6 @@
       "onboard_time": 1707820361,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100733,
-      "num": 100733,
-      "word": "气球带着送妈妈的1000元现金飞走了",
-      "onboard_time": 1707896016,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100563,
@@ -9195,6 +9299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28098,
+      "num": 1225903,
+      "word": "锦绣中国年",
+      "onboard_time": 1707468450,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27593,
       "num": 1257084,
       "word": "龙的形象最早出现在哪里",
@@ -9273,14 +9385,6 @@
       "onboard_time": 1707680058,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19001,
-      "num": 1225903,
-      "word": "锦绣中国年",
-      "onboard_time": 1707468450,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18945,

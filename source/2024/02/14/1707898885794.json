@@ -1,0 +1,410 @@
+{
+  "runTime": 1707898885794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5426257,
+        "num": 5426257,
+        "word": "钟楚曦侯雯元情人节官宣",
+        "onboard_time": 1707890314,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927194,
+        "num": 927194,
+        "word": "马上全世界都知道和睦要当小三了",
+        "onboard_time": 1707894453,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28098,
+        "num": 716884,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650589,
+        "num": 650589,
+        "word": "热辣滚烫 自私又丰满的女性角色",
+        "onboard_time": 1707888272,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411811,
+        "num": 411811,
+        "word": "2011年周杰伦春晚好忙",
+        "onboard_time": 1707893553,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2453518,
+        "num": 411698,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410774,
+        "num": 410774,
+        "word": "魏晨吃了香菜味巧克力",
+        "onboard_time": 1707894273,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382069,
+        "num": 382069,
+        "word": "情人节礼物",
+        "onboard_time": 1707895776,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344287,
+        "num": 344287,
+        "word": "魏大勋夹子音",
+        "onboard_time": 1707896134,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333697,
+        "num": 333697,
+        "word": "五台山景区桶装水是从女厕所水管接的",
+        "onboard_time": 1707888570,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356130,
+        "num": 333214,
+        "word": "韩寒回应是否有飞驰人生3",
+        "onboard_time": 1707897454,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1007763,
+        "num": 333196,
+        "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
+        "onboard_time": 1707883892,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341468,
+        "num": 332992,
+        "word": "马思纯又美回来了",
+        "onboard_time": 1707894094,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332671,
+        "num": 332671,
+        "word": "乐莹被骚扰时镜头对准的是猥琐男",
+        "onboard_time": 1707875193,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331653,
+        "num": 331653,
+        "word": "财政部许愿池",
+        "onboard_time": 1707898474,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285429,
+        "num": 285429,
+        "word": "五路财神",
+        "onboard_time": 1707888631,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257645,
+        "num": 257645,
+        "word": "陆虎陈曌旭情人节发糖",
+        "onboard_time": 1707890015,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251948,
+        "num": 251948,
+        "word": "农村老人沉迷刷APP挣钱",
+        "onboard_time": 1707883892,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222983,
+        "num": 222983,
+        "word": "财政部评论区成许愿池",
+        "onboard_time": 1707879088,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221660,
+        "num": 221660,
+        "word": "8岁萌兰遇到5个月大的自己害羞羞",
+        "onboard_time": 1707895835,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405306,
+        "num": 221465,
+        "word": "今年微信拜年少了",
+        "onboard_time": 1707896375,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 298961,
+        "num": 220414,
+        "word": "狗狗第一次吃到剩饭香迷糊了",
+        "onboard_time": 1707893792,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218972,
+        "num": 218972,
+        "word": "钱辈请和我交往",
+        "onboard_time": 1707865818,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213360,
+        "num": 213360,
+        "word": "鞠婧祎清透妆感",
+        "onboard_time": 1707898474,
+        "rank": 23,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 201754,
+        "num": 201754,
+        "word": "中国式令人窒息的母亲",
+        "onboard_time": 1707884372,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196461,
+        "num": 196461,
+        "word": "大侦探9上来就是一个村",
+        "onboard_time": 1707892355,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185832,
+        "num": 185832,
+        "word": "美国副总统称已准备好接班",
+        "onboard_time": 1707885152,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185605,
+        "num": 185605,
+        "word": "迎财神",
+        "onboard_time": 1707865818,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64528,
+        "num": 175194,
+        "word": "传统纹样里的中式美学好绝",
+        "onboard_time": 1707877530,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 169371,
+        "word": "财政部邀大家打卡",
+        "onboard_time": 1707875911,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262635,
+        "num": 169358,
+        "word": "00后亲戚都是自己找的",
+        "onboard_time": 1707897275,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168391,
+        "num": 168391,
+        "word": "王鹤棣出发NBA",
+        "onboard_time": 1707898775,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 167876,
+        "num": 167876,
+        "word": "海清有两个神了",
+        "onboard_time": 1707885869,
+        "rank": 32,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 162783,
+        "num": 162783,
+        "word": "飞驰人生2暴风雪里赛车燃到了",
+        "onboard_time": 1707892651,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153816,
+        "num": 153816,
+        "word": "庐山回应游客疑不满长时间排队喊退票",
+        "onboard_time": 1707898353,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153218,
+        "num": 153218,
+        "word": "财政部许愿池留言超20万",
+        "onboard_time": 1707892893,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152448,
+        "num": 152448,
+        "word": "年会不能停",
+        "onboard_time": 1707891451,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149641,
+        "num": 149641,
+        "word": "情人节文案",
+        "onboard_time": 1707896314,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149041,
+        "num": 149041,
+        "word": "在县城开零食店春节能卖200万",
+        "onboard_time": 1707882572,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140562,
+        "num": 140562,
+        "word": "别拿意大利人的火腿开玩笑",
+        "onboard_time": 1707897034,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140014,
+        "num": 140014,
+        "word": "泰国偶遇钟楚曦侯雯元逛街",
+        "onboard_time": 1707886472,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137820,
+        "num": 137820,
+        "word": "派小轩 一场酣畅淋漓的同学聚会",
+        "onboard_time": 1707892474,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135312,
+        "num": 135312,
+        "word": "贾玲路演带的旧表是李焕英的",
+        "onboard_time": 1707885632,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130202,
+        "num": 130202,
+        "word": "失笑林一沈月情人节营业",
+        "onboard_time": 1707897516,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123642,
+        "num": 123642,
+        "word": "黑神话悟空 家庭伦理剧",
+        "onboard_time": 1707896375,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123441,
+        "num": 123441,
+        "word": "财神壁纸",
+        "onboard_time": 1707866542,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121139,
+        "num": 121139,
+        "word": "气球带着送妈妈的1000元现金飞走了",
+        "onboard_time": 1707896016,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120695,
+        "num": 120695,
+        "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
+        "onboard_time": 1707882511,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117093,
+        "num": 117093,
+        "word": "有钱人的快乐果然无法想象",
+        "onboard_time": 1707893251,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 116654,
+        "num": 116654,
+        "word": "赵露思在横店吃铁锅炖",
+        "onboard_time": 1707890314,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬拥政爱民拥军优属光荣传统#"
+    }
+  }
+}
