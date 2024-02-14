@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707932037730,
+  "endTime": 1707934928195,
   "band_list": [
     {
       "raw_hot": 949733,
@@ -203,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221570,
+      "num": 221570,
+      "word": "吴磊吻戏名场面又多了一个",
+      "onboard_time": 1707931466,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219776,
       "num": 219776,
       "word": "与凤行",
@@ -395,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108298,
-      "num": 108298,
-      "word": "吴磊吻戏名场面又多了一个",
-      "onboard_time": 1707931466,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106834,
       "num": 106834,
       "word": "张凌赫帮粉丝选美甲",
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102585,
+      "num": 88505,
+      "word": "李菲直播",
+      "onboard_time": 1707931045,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101189,
       "num": 101189,
       "word": "梨形是科学家眼中最健康的身材",
@@ -427,20 +435,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 88237,
-      "num": 88237,
-      "word": "李菲直播",
-      "onboard_time": 1707931045,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85500,
       "num": 101189,
       "word": "seventeen克拉日",
       "onboard_time": 1707922478,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76918,
+      "num": 61359,
+      "word": "航司建议从三亚返程避免直飞",
+      "onboard_time": 1707933501,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75197,
@@ -457,6 +465,22 @@
       "onboard_time": 1707930627,
       "rank": 44,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 57291,
+      "num": 57291,
+      "word": "体脂率才是最诚实的胖瘦衡量标准",
+      "onboard_time": 1707933140,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 38300,
+      "num": 38300,
+      "word": "吴磊直播间为赵今麦打圆场",
+      "onboard_time": 1707934823,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 29405,
