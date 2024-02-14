@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707928592445,
+  "endTime": 1707930943379,
   "band_list": [
     {
       "raw_hot": 949733,
@@ -43,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 718611,
+      "num": 718611,
+      "word": "一男子被终身禁入成都熊猫基地",
+      "onboard_time": 1707916778,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693802,
       "num": 693802,
       "word": "柯南情人节杀人事件",
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663568,
-      "num": 663568,
-      "word": "一男子被终身禁入成都熊猫基地",
-      "onboard_time": 1707916778,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 522729,
       "num": 522729,
       "word": "小尼把春晚梗带回家了",
@@ -89,6 +89,14 @@
       "onboard_time": 1707917857,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 461471,
+      "num": 461471,
+      "word": "接吻可能带来幽门螺杆菌感染风险",
+      "onboard_time": 1707925297,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 453009,
@@ -123,19 +131,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408581,
-      "num": 408581,
-      "word": "接吻可能带来幽门螺杆菌感染风险",
-      "onboard_time": 1707925297,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 401665,
       "num": 230827,
       "word": "张杰谢娜情人节发糖",
       "onboard_time": 1707923082,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391436,
+      "num": 391436,
+      "word": "授她以柄",
+      "onboard_time": 1707928830,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379042,
+      "num": 379042,
+      "word": "港媒曝尹子维送徐冬冬钻戒价值百万",
+      "onboard_time": 1707928291,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -307,19 +323,19 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 132290,
-      "num": 132290,
-      "word": "港媒曝尹子维送徐冬冬钻戒价值百万",
-      "onboard_time": 1707928291,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130312,
       "num": 130312,
       "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
       "onboard_time": 1707901356,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129539,
+      "num": 129539,
+      "word": "张颂文的温柔有种沉淀感",
+      "onboard_time": 1707928232,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -363,6 +379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 108233,
+      "num": 108233,
+      "word": "终于读懂了送东阳马生序",
+      "onboard_time": 1707929669,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106834,
       "num": 106834,
       "word": "张凌赫帮粉丝选美甲",
@@ -395,12 +419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85275,
-      "num": 95658,
-      "word": "张颂文的温柔有种沉淀感",
-      "onboard_time": 1707928232,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 75858,
+      "num": 75858,
+      "word": "不吃香菜其实是刻在基因里的",
+      "onboard_time": 1707930685,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75197,
@@ -415,6 +439,14 @@
       "num": 758924,
       "word": "网络中国节",
       "onboard_time": 1707899073,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7618,
+      "num": 487799,
+      "word": "锦绣中国年",
+      "onboard_time": 1707898596,
       "rank": 2,
       "category": "社会新闻"
     }
