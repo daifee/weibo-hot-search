@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707923846717,
+  "endTime": 1707924880049,
   "band_list": [
     {
       "raw_hot": 5426257,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111942,
+      "num": 1111942,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1707920495,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1074101,
       "num": 1074101,
       "word": "杜淳老婆王灿回怼网友恶评",
@@ -217,14 +225,6 @@
       "onboard_time": 1707870631,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1026637,
-      "num": 1026637,
-      "word": "柯南情人节杀人事件",
-      "onboard_time": 1707920495,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 1024253,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880343,
+      "num": 880343,
+      "word": "蔡徐坤清唱",
+      "onboard_time": 1707922658,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 867110,
       "num": 867110,
       "word": "美国副总统称已准备好接班",
@@ -377,6 +385,14 @@
       "onboard_time": 1707880532,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 776820,
+      "num": 416063,
+      "word": "张杰谢娜情人节发糖",
+      "onboard_time": 1707923082,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 772145,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 592909,
-      "num": 351590,
+      "num": 569959,
       "word": "一男子被终身禁入成都熊猫基地",
       "onboard_time": 1707916778,
       "rank": 24,
@@ -537,14 +553,6 @@
       "onboard_time": 1707906335,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 587552,
-      "num": 416063,
-      "word": "张杰谢娜情人节发糖",
-      "onboard_time": 1707923082,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 586033,
@@ -587,8 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557984,
-      "num": 557984,
+      "raw_hot": 564754,
+      "num": 564754,
       "word": "贾玲张小斐 珍贵的女性友谊",
       "onboard_time": 1707921277,
       "rank": 10,
@@ -673,14 +681,6 @@
       "onboard_time": 1707910959,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514193,
-      "num": 514193,
-      "word": "蔡徐坤清唱",
-      "onboard_time": 1707922658,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 509315,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466456,
+      "num": 576952,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 466057,
       "num": 466057,
       "word": "赵露思在横店吃铁锅炖",
@@ -793,14 +801,6 @@
       "onboard_time": 1707886472,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450968,
-      "num": 450968,
-      "word": "韩国与古巴建立外交关系",
-      "onboard_time": 1707919778,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 446375,
@@ -897,6 +897,14 @@
       "onboard_time": 1707826057,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410771,
+      "num": 410771,
+      "word": "张若昀魏晨最冷静的认亲",
+      "onboard_time": 1707923322,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 407883,
@@ -1163,6 +1171,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 299058,
+      "num": 299058,
+      "word": "口呼吸改善法拯救你的颜值",
+      "onboard_time": 1707921999,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 296112,
       "num": 700328,
       "word": "2024春节档总票房已破50亿元",
@@ -1315,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265225,
+      "num": 265225,
+      "word": "小尼把春晚梗带回家了",
+      "onboard_time": 1707924097,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262635,
       "num": 196730,
       "word": "00后亲戚都是自己找的",
@@ -1459,12 +1483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231687,
-      "num": 231687,
-      "word": "口呼吸改善法拯救你的颜值",
-      "onboard_time": 1707921999,
+      "raw_hot": 231542,
+      "num": 231542,
+      "word": "西村力营业",
+      "onboard_time": 1707924279,
       "rank": 31,
-      "category": "健康医疗"
+      "category": "艺人"
     },
     {
       "raw_hot": 230513,
@@ -1521,14 +1545,6 @@
       "onboard_time": 1707903878,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219674,
-      "num": 219674,
-      "word": "张若昀魏晨最冷静的认亲",
-      "onboard_time": 1707923322,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 218977,
@@ -1627,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204329,
+      "num": 204329,
+      "word": "白客社畜人夫感",
+      "onboard_time": 1707922899,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203204,
       "num": 203204,
       "word": "第一批等到主人的留守猫",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1707872554,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 199374,
+      "num": 199374,
+      "word": "刘耀文情人节自拍",
+      "onboard_time": 1707923682,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 198493,
@@ -1721,14 +1753,6 @@
       "onboard_time": 1707887852,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192911,
-      "num": 192911,
-      "word": "白客社畜人夫感",
-      "onboard_time": 1707922899,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 192586,
@@ -2075,14 +2099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161665,
-      "num": 161665,
-      "word": "刘耀文情人节自拍",
-      "onboard_time": 1707923682,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161276,
       "num": 161276,
       "word": "选择性社交冷漠症",
@@ -2211,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146915,
+      "num": 146915,
+      "word": "汽车各部位名称",
+      "onboard_time": 1707923800,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145708,
       "num": 145708,
       "word": "美国国会众议院通过对国土安全部长的弹劾",
@@ -2241,14 +2265,6 @@
       "onboard_time": 1707903217,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143846,
-      "num": 143846,
-      "word": "汽车各部位名称",
-      "onboard_time": 1707923800,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 143332,

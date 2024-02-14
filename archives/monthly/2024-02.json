@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707923846717,
+  "endTime": 1707924880049,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3379,6 +3379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1111942,
+      "num": 1111942,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1707920495,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1108411,
       "num": 1108411,
       "word": "五十度暴雪",
@@ -3841,14 +3849,6 @@
       "onboard_time": 1707665493,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1026637,
-      "num": 1026637,
-      "word": "柯南情人节杀人事件",
-      "onboard_time": 1707920495,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 1024253,
@@ -4761,6 +4761,14 @@
       "onboard_time": 1707352168,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 880343,
+      "num": 880343,
+      "word": "蔡徐坤清唱",
+      "onboard_time": 1707922658,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 880069,
@@ -5704,6 +5712,14 @@
       "word": "唐鹤德晒与张国荣合照庆生",
       "onboard_time": 1707131071,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 776820,
+      "num": 416063,
+      "word": "张杰谢娜情人节发糖",
+      "onboard_time": 1707923082,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -7980,7 +7996,7 @@
     },
     {
       "raw_hot": 592909,
-      "num": 351590,
+      "num": 569959,
       "word": "一男子被终身禁入成都熊猫基地",
       "onboard_time": 1707916778,
       "rank": 24,
@@ -8113,14 +8129,6 @@
       "onboard_time": 1707906335,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 587552,
-      "num": 416063,
-      "word": "张杰谢娜情人节发糖",
-      "onboard_time": 1707923082,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 586033,
@@ -8475,6 +8483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564754,
+      "num": 564754,
+      "word": "贾玲张小斐 珍贵的女性友谊",
+      "onboard_time": 1707921277,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 564442,
       "num": 564442,
       "word": "国乒确认釜山世乒赛名单",
@@ -8593,14 +8609,6 @@
       "onboard_time": 1707801037,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 557984,
-      "num": 557984,
-      "word": "贾玲张小斐 珍贵的女性友谊",
-      "onboard_time": 1707921277,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 557576,
@@ -9489,14 +9497,6 @@
       "onboard_time": 1707910959,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514193,
-      "num": 514193,
-      "word": "蔡徐坤清唱",
-      "onboard_time": 1707922658,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 513797,
@@ -10491,6 +10491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466456,
+      "num": 576952,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 466057,
       "num": 466057,
       "word": "赵露思在横店吃铁锅炖",
@@ -10713,14 +10721,6 @@
       "onboard_time": 1707010230,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 450968,
-      "num": 450968,
-      "word": "韩国与古巴建立外交关系",
-      "onboard_time": 1707919778,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 450511,
@@ -11729,6 +11729,14 @@
       "onboard_time": 1706953106,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410771,
+      "num": 410771,
+      "word": "张若昀魏晨最冷静的认亲",
+      "onboard_time": 1707923322,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 410374,
@@ -15379,6 +15387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299058,
+      "num": 299058,
+      "word": "口呼吸改善法拯救你的颜值",
+      "onboard_time": 1707921999,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 298840,
       "num": 298840,
       "word": "二月壁纸",
@@ -17009,6 +17025,14 @@
       "onboard_time": 1707571182,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265225,
+      "num": 265225,
+      "word": "小尼把春晚梗带回家了",
+      "onboard_time": 1707924097,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 265105,
@@ -19323,12 +19347,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 231687,
-      "num": 231687,
-      "word": "口呼吸改善法拯救你的颜值",
-      "onboard_time": 1707921999,
+      "raw_hot": 231542,
+      "num": 231542,
+      "word": "西村力营业",
+      "onboard_time": 1707924279,
       "rank": 31,
-      "category": "健康医疗"
+      "category": "艺人"
     },
     {
       "raw_hot": 231339,
@@ -20313,14 +20337,6 @@
       "onboard_time": 1707135932,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 219674,
-      "num": 219674,
-      "word": "张若昀魏晨最冷静的认亲",
-      "onboard_time": 1707923322,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 219621,
@@ -21971,6 +21987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204329,
+      "num": 204329,
+      "word": "白客社畜人夫感",
+      "onboard_time": 1707922899,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204165,
       "num": 204165,
       "word": "billkin福州演唱会",
@@ -22657,6 +22681,14 @@
       "onboard_time": 1707545194,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199374,
+      "num": 199374,
+      "word": "刘耀文情人节自拍",
+      "onboard_time": 1707923682,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 199338,
@@ -23497,14 +23529,6 @@
       "onboard_time": 1707659972,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192911,
-      "num": 192911,
-      "word": "白客社畜人夫感",
-      "onboard_time": 1707922899,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 192900,
@@ -27675,14 +27699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161665,
-      "num": 161665,
-      "word": "刘耀文情人节自拍",
-      "onboard_time": 1707923682,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161626,
       "num": 161626,
       "word": "一些四川人阴阳怪气的证据",
@@ -29635,6 +29651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146915,
+      "num": 146915,
+      "word": "汽车各部位名称",
+      "onboard_time": 1707923800,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146909,
       "num": 146909,
       "word": "陈泽钢铁侠",
@@ -30201,14 +30225,6 @@
       "onboard_time": 1707903217,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143846,
-      "num": 143846,
-      "word": "汽车各部位名称",
-      "onboard_time": 1707923800,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 143813,
