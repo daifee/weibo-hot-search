@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707892448331,
+  "endTime": 1707895034255,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1609246,
+      "num": 1341753,
+      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
+      "onboard_time": 1707883892,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1595540,
       "num": 1595540,
       "word": "贾玲兑现了30亿票房承诺",
@@ -529,14 +537,6 @@
       "onboard_time": 1707869488,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1341753,
-      "num": 1341753,
-      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
-      "onboard_time": 1707883892,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1324627,
@@ -2243,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523096,
+      "num": 378481,
+      "word": "魏晨吃了香菜味巧克力",
+      "onboard_time": 1707894273,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520770,
       "num": 520770,
       "word": "赵丽颖朱一龙知否对戏花絮",
@@ -2473,6 +2481,14 @@
       "onboard_time": 1707837637,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 471944,
+      "num": 471944,
+      "word": "大侦探9上来就是一个村",
+      "onboard_time": 1707892355,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 470217,
@@ -2979,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379891,
+      "num": 379891,
+      "word": "年会不能停",
+      "onboard_time": 1707891451,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 379135,
       "num": 247212,
       "word": "魏晨唱歌真好听",
@@ -3075,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368396,
+      "num": 368396,
+      "word": "马上全世界都知道和睦要当小三了",
+      "onboard_time": 1707894453,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368309,
       "num": 368309,
       "word": "孩子送上警车后她才发现自己后背全湿了",
@@ -3103,6 +3135,14 @@
       "num": 311263,
       "word": "马丽回应观众妈妈喜欢春晚上的鞋",
       "onboard_time": 1707586462,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 361822,
+      "num": 361822,
+      "word": "2011年周杰伦春晚好忙",
+      "onboard_time": 1707893553,
       "rank": 13,
       "category": "综艺"
     },
@@ -3193,6 +3233,14 @@
       "onboard_time": 1707885812,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 350448,
+      "num": 268615,
+      "word": "狗狗第一次吃到剩饭香迷糊了",
+      "onboard_time": 1707893792,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 349311,
@@ -3369,6 +3417,14 @@
       "onboard_time": 1707625288,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329116,
+      "num": 329116,
+      "word": "马思纯又美回来了",
+      "onboard_time": 1707894094,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 328915,
@@ -3745,14 +3801,6 @@
       "onboard_time": 1707883173,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279758,
-      "num": 279758,
-      "word": "年会不能停",
-      "onboard_time": 1707891451,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 278981,
@@ -4235,6 +4283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247174,
+      "num": 247174,
+      "word": "飞驰人生2暴风雪里赛车燃到了",
+      "onboard_time": 1707892651,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246376,
       "num": 246376,
       "word": "聚餐时桌子突然炸了全家人淡定举杯",
@@ -4489,6 +4545,14 @@
       "onboard_time": 1707635372,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 234388,
+      "num": 234388,
+      "word": "财政部许愿池留言超20万",
+      "onboard_time": 1707892893,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 233965,
@@ -4771,6 +4835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218977,
+      "num": 218977,
+      "word": "派小轩 一场酣畅淋漓的同学聚会",
+      "onboard_time": 1707892474,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218903,
       "num": 218903,
       "word": "海贼王动画",
@@ -4849,14 +4921,6 @@
       "onboard_time": 1707560856,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213501,
-      "num": 213501,
-      "word": "大侦探9上来就是一个村",
-      "onboard_time": 1707892355,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 213322,
@@ -5499,12 +5563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190364,
+      "num": 190364,
+      "word": "妈妈洗猫和洗衣服一样的手法",
+      "onboard_time": 1707892593,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "勇士战胜太阳",
       "onboard_time": 1707627511,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190093,
+      "num": 186039,
+      "word": "吴磊哭到青筋暴起",
+      "onboard_time": 1707892173,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 189574,
@@ -5617,14 +5697,6 @@
       "onboard_time": 1707636273,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 186039,
-      "num": 186039,
-      "word": "吴磊哭到青筋暴起",
-      "onboard_time": 1707892173,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 185901,
@@ -7923,6 +7995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117755,
+      "num": 117755,
+      "word": "情人节爱自己",
+      "onboard_time": 1707894874,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117611,
       "num": 117611,
       "word": "武财神关羽如何统一全国信仰",
@@ -8147,6 +8227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112600,
+      "num": 112600,
+      "word": "有钱人的快乐果然无法想象",
+      "onboard_time": 1707893251,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 112504,
       "num": 112504,
       "word": "我表弟写的寒假作业",
@@ -8265,6 +8353,14 @@
       "onboard_time": 1707808296,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109054,
+      "num": 109054,
+      "word": "情侣合影的正确打开方式",
+      "onboard_time": 1707894211,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108261,
@@ -8732,7 +8828,7 @@
     },
     {
       "raw_hot": 78013,
-      "num": 118438,
+      "num": 712855,
       "word": "传统纹样里的中式美学好绝",
       "onboard_time": 1707877530,
       "rank": 47,
@@ -8769,6 +8865,14 @@
       "onboard_time": 1707673101,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63777,
+      "num": 138818,
+      "word": "过年原来比想象中更好玩",
+      "onboard_time": 1707894631,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 63320,
