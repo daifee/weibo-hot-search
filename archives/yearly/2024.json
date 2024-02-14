@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1707909419159,
+  "endTime": 1707910447264,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 570069,
+      "num": 571099,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -1857,6 +1857,14 @@
       "onboard_time": 1705460487,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2231802,
+      "num": 2231802,
+      "word": "内娱体脂率最低的一对情侣",
+      "onboard_time": 1707907837,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2226568,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705883245,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2024807,
-      "num": 2024807,
-      "word": "白敬亭彩排衣服",
-      "onboard_time": 1707712832,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
