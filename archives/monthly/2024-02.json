@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707945343180,
+  "endTime": 1707946441210,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -36227,6 +36227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98723,
+      "num": 33707,
+      "word": "大醉之后喝白开水可解酒",
+      "onboard_time": 1707940276,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98523,
       "num": 98523,
       "word": "刘宇宁说春晚后台很欢乐",
@@ -36833,14 +36841,6 @@
       "onboard_time": 1707708275,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86595,
-      "num": 33707,
-      "word": "大醉之后喝白开水可解酒",
-      "onboard_time": 1707940276,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 86495,
@@ -37539,20 +37539,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67848,
+      "num": 26496,
+      "word": "吵架后亲姐把弟弟丢高速",
+      "onboard_time": 1707942618,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67447,
       "num": 60574,
       "word": "香港偶遇虞书欣逛街",
       "onboard_time": 1707937276,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67112,
-      "num": 25594,
-      "word": "吵架后亲姐把弟弟丢高速",
-      "onboard_time": 1707942618,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66897,
@@ -39203,6 +39203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23123,
+      "num": 20866,
+      "word": "春节期间每天三千多人去黄龙锻炼",
+      "onboard_time": 1707945135,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 22346,
       "num": 553629,
       "word": "元梦之星红包开撒",
@@ -39579,6 +39587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14709,
+      "num": 14709,
+      "word": "奶奶给我的零花钱越来越大",
+      "onboard_time": 1707944658,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14698,
       "num": 1361551,
       "word": "文化中国团圆年",
@@ -39667,14 +39683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13216,
-      "num": 13216,
-      "word": "春节期间每天三千多人去黄龙锻炼",
-      "onboard_time": 1707945135,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 13170,
       "num": 13170,
       "word": "00后女生花2万5为奶奶翻新漏雨旧屋",
@@ -39705,14 +39713,6 @@
       "onboard_time": 1706824516,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12468,
-      "num": 12468,
-      "word": "奶奶给我的零花钱越来越大",
-      "onboard_time": 1707944658,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 12415,
@@ -39753,6 +39753,14 @@
       "onboard_time": 1707080776,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11659,
+      "num": 11659,
+      "word": "浙江的农村究竟有多富",
+      "onboard_time": 1707946396,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11651,
