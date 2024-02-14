@@ -1,0 +1,410 @@
+{
+  "runTime": 1707945343180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 68070,
+        "num": 68070,
+        "word": "吴磊直播间为赵今麦打圆场",
+        "onboard_time": 1707934823,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65661,
+        "num": 65661,
+        "word": "内娱体脂率最低的一对情侣",
+        "onboard_time": 1707907837,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5065,
+        "num": 64943,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64367,
+        "num": 64367,
+        "word": "一男子被终身禁入成都熊猫基地",
+        "onboard_time": 1707916778,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61707,
+        "num": 61707,
+        "word": "农村大龄男开始迎娶二婚女",
+        "onboard_time": 1707903217,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61605,
+        "num": 61605,
+        "word": "港媒曝尹子维送徐冬冬钻戒价值百万",
+        "onboard_time": 1707928291,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51029,
+        "num": 51029,
+        "word": "张若昀魏晨最冷静的认亲",
+        "onboard_time": 1707923322,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49170,
+        "num": 49170,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36328,
+        "num": 36328,
+        "word": "李金铭近照状态",
+        "onboard_time": 1707916778,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34424,
+        "num": 34424,
+        "word": "曹颖13岁儿子颜值",
+        "onboard_time": 1707919480,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103708,
+        "num": 34079,
+        "word": "航司建议从三亚返程避免直飞",
+        "onboard_time": 1707933501,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86595,
+        "num": 33707,
+        "word": "大醉之后喝白开水可解酒",
+        "onboard_time": 1707940276,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42968,
+        "num": 33509,
+        "word": "香港偶遇虞书欣逛街",
+        "onboard_time": 1707937276,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33213,
+        "num": 33213,
+        "word": "侯雯元拍的钟楚曦",
+        "onboard_time": 1707921339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32516,
+        "num": 32516,
+        "word": "贾玲张小斐 珍贵的女性友谊",
+        "onboard_time": 1707921277,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31112,
+        "num": 31112,
+        "word": "舅舅的舅舅的舅舅叫什么",
+        "onboard_time": 1707900694,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28822,
+        "num": 28822,
+        "word": "授她以柄",
+        "onboard_time": 1707928830,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26407,
+        "num": 26407,
+        "word": "吴磊吻戏名场面又多了一个",
+        "onboard_time": 1707931466,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26747,
+        "num": 26285,
+        "word": "钟楚曦侯雯元情人节官宣",
+        "onboard_time": 1707890314,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25905,
+        "num": 25905,
+        "word": "小尼把春晚梗带回家了",
+        "onboard_time": 1707924097,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67112,
+        "num": 25594,
+        "word": "吵架后亲姐把弟弟丢高速",
+        "onboard_time": 1707942618,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54367,
+        "num": 25267,
+        "word": "王骁被骂",
+        "onboard_time": 1707905917,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29035,
+        "num": 24986,
+        "word": "酒肉情侣",
+        "onboard_time": 1707922420,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27506,
+        "num": 24635,
+        "word": "一岁半小宝贝凭本事拿到奶瓶",
+        "onboard_time": 1707930627,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 24478,
+        "num": 24478,
+        "word": "新姑爷第一次上门压塌老丈人床",
+        "onboard_time": 1707912459,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24184,
+        "num": 24184,
+        "word": "晚上有这3个习惯或会变胖变丑",
+        "onboard_time": 1707908677,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22902,
+        "num": 22902,
+        "word": "第二十条南京路演影院致歉",
+        "onboard_time": 1707914678,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21738,
+        "num": 21738,
+        "word": "终于读懂了送东阳马生序",
+        "onboard_time": 1707929669,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20492,
+        "num": 20492,
+        "word": "化妆师供不应求",
+        "onboard_time": 1707917137,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20254,
+        "num": 20254,
+        "word": "我们一起摇太阳宣布延后上映",
+        "onboard_time": 1707917857,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20118,
+        "num": 20118,
+        "word": "日本鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1707915639,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19925,
+        "num": 19925,
+        "word": "撒贝宁夫妇带孩子回老家过年",
+        "onboard_time": 1707909519,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19396,
+        "num": 19396,
+        "word": "张杰谢娜情人节发糖",
+        "onboard_time": 1707923082,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18841,
+        "num": 18841,
+        "word": "四川一火锅店将两天营收全部给员工",
+        "onboard_time": 1707914376,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18763,
+        "num": 18763,
+        "word": "不吃香菜其实是刻在基因里的",
+        "onboard_time": 1707930685,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 18311,
+        "word": "口呼吸改善法拯救你的颜值",
+        "onboard_time": 1707921999,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18278,
+        "num": 18278,
+        "word": "钟丽缇53岁身材",
+        "onboard_time": 1707910959,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18191,
+        "num": 18191,
+        "word": "蔡徐坤清唱",
+        "onboard_time": 1707922658,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18133,
+        "num": 18133,
+        "word": "接吻可能带来幽门螺杆菌感染风险",
+        "onboard_time": 1707925297,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16948,
+        "num": 16948,
+        "word": "体脂率才是最诚实的胖瘦衡量标准",
+        "onboard_time": 1707933140,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16889,
+        "num": 16889,
+        "word": "韩国与古巴建立外交关系",
+        "onboard_time": 1707919778,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 16429,
+        "num": 16429,
+        "word": "张颂文的温柔有种沉淀感",
+        "onboard_time": 1707928232,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16122,
+        "num": 16122,
+        "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+        "onboard_time": 1707901356,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16102,
+        "num": 16102,
+        "word": "柯南情人节杀人事件",
+        "onboard_time": 1707920495,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 14148,
+        "num": 14148,
+        "word": "贾玲 最美的盛开是反击",
+        "onboard_time": 1707917377,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14791,
+        "num": 13879,
+        "word": "热辣滚烫2024情人节档票房冠军",
+        "onboard_time": 1707925239,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13537,
+        "num": 13537,
+        "word": "我俩是不是天下第一好",
+        "onboard_time": 1707922899,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13216,
+        "num": 13216,
+        "word": "春节期间每天三千多人去黄龙锻炼",
+        "onboard_time": 1707945135,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12468,
+        "num": 12468,
+        "word": "奶奶给我的零花钱越来越大",
+        "onboard_time": 1707944658,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12314,
+        "num": 12314,
+        "word": "张凌赫帮粉丝选美甲",
+        "onboard_time": 1707912758,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造温暖和谐的社会氛围#"
+    }
+  }
+}
