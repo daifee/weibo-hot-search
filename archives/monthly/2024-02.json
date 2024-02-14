@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707874291534,
+  "endTime": 1707877350292,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2537985,
+      "num": 2537985,
+      "word": "迎财神",
+      "onboard_time": 1707865818,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2534675,
       "num": 2534675,
       "word": "檀健次居然rap了",
@@ -809,14 +817,6 @@
       "onboard_time": 1707485913,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2332917,
-      "num": 2332917,
-      "word": "迎财神",
-      "onboard_time": 1707865818,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 2332695,
@@ -1577,6 +1577,14 @@
       "onboard_time": 1706917345,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1693440,
+      "num": 1693440,
+      "word": "乐莹被骚扰时镜头对准的是猥琐男",
+      "onboard_time": 1707875193,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1692878,
@@ -3721,6 +3729,14 @@
       "onboard_time": 1707187590,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1013747,
+      "num": 1013747,
+      "word": "韩国队内讧",
+      "onboard_time": 1707873631,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1013562,
@@ -7291,6 +7307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619102,
+      "num": 619102,
+      "word": "焦裕禄次子焦跃进逝世",
+      "onboard_time": 1707874350,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616809,
       "num": 813068,
       "word": "副局长春节期间酒驾被查",
@@ -7657,14 +7681,6 @@
       "onboard_time": 1707729810,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 589552,
-      "num": 589552,
-      "word": "韩国队内讧",
-      "onboard_time": 1707873631,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 589432,
@@ -8723,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527112,
+      "num": 527112,
+      "word": "迪丽热巴于朦胧说悄悄话",
+      "onboard_time": 1707873931,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526088,
       "num": 5287271,
       "word": "北京台春晚好看",
@@ -9380,7 +9404,7 @@
     },
     {
       "raw_hot": 492202,
-      "num": 275557,
+      "num": 310875,
       "word": "高额彩礼之下重负的农村父母",
       "onboard_time": 1707871289,
       "rank": 20,
@@ -9833,6 +9857,14 @@
       "onboard_time": 1707663333,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 469796,
+      "num": 469796,
+      "word": "情人节骂醒恋爱脑销量暴增3倍",
+      "onboard_time": 1707876154,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469716,
@@ -11035,6 +11067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410840,
+      "num": 410840,
+      "word": "200万农村自建房入住体验",
+      "onboard_time": 1707873989,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 410374,
       "num": 410374,
       "word": "贾玲张小斐你们在这争1呢",
@@ -11089,6 +11129,14 @@
       "onboard_time": 1706837008,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407601,
+      "num": 407601,
+      "word": "看韩国综艺的人深深懂了",
+      "onboard_time": 1707872913,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 407541,
@@ -12211,6 +12259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 367654,
+      "num": 367654,
+      "word": "小伙情人节送女友2米高发财树和零食花",
+      "onboard_time": 1707873872,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367329,
       "num": 367329,
       "word": "A股呈现中期牛熊轮回长期逐步上升",
@@ -12681,6 +12737,14 @@
       "onboard_time": 1707226294,
       "rank": 38,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 353764,
+      "num": 353764,
+      "word": "大学生德华是玩梗也是认同",
+      "onboard_time": 1707873392,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 353419,
@@ -13628,7 +13692,7 @@
     },
     {
       "raw_hot": 321142,
-      "num": 1398596,
+      "num": 1726846,
       "word": "老照片里是一不小心就长大的我们",
       "onboard_time": 1707828398,
       "rank": 2,
@@ -13641,6 +13705,14 @@
       "onboard_time": 1707265048,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320148,
+      "num": 320148,
+      "word": "黑执事作者曾阻止真人版角色恋爱",
+      "onboard_time": 1707876090,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 320096,
@@ -14385,14 +14457,6 @@
       "onboard_time": 1706764173,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 302594,
-      "num": 302594,
-      "word": "看韩国综艺的人深深懂了",
-      "onboard_time": 1707872913,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 301821,
@@ -15153,6 +15217,14 @@
       "onboard_time": 1707048213,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281458,
+      "num": 281458,
+      "word": "财政部邀大家打卡",
+      "onboard_time": 1707875911,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281426,
@@ -18331,14 +18403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230172,
-      "num": 189100,
-      "word": "200万农村自建房入住体验",
-      "onboard_time": 1707873989,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230133,
       "num": 230133,
       "word": "腾讯正开发艾尔登法环手游",
@@ -19483,14 +19547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216496,
-      "num": 216496,
-      "word": "迪丽热巴于朦胧说悄悄话",
-      "onboard_time": 1707873931,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216445,
       "num": 216445,
       "word": "中国同23国全面互免签证",
@@ -20609,6 +20665,14 @@
       "onboard_time": 1707307834,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205325,
+      "num": 408404,
+      "word": "财神红包秒空月老红包无人领",
+      "onboard_time": 1707876032,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205258,
@@ -22091,6 +22155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 194016,
+      "num": 194016,
+      "word": "与凤行情人节MV",
+      "onboard_time": 1707877171,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193907,
       "num": 193907,
       "word": "主办方否认赛前知悉梅西缺赛",
@@ -22729,14 +22801,6 @@
       "onboard_time": 1707185670,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189751,
-      "num": 189751,
-      "word": "大学生德华是玩梗也是认同",
-      "onboard_time": 1707873392,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 189608,
@@ -24547,6 +24611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174018,
+      "num": 174018,
+      "word": "TWS与IU音源榜单破表",
+      "onboard_time": 1707873271,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173977,
       "num": 173977,
       "word": "Letme回应RNG输给iG",
@@ -26227,14 +26299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161027,
-      "num": 161027,
-      "word": "TWS与IU音源榜单破表",
-      "onboard_time": 1707873271,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 161015,
       "num": 161015,
       "word": "恋与深空有黎的冬天",
@@ -26817,14 +26881,6 @@
       "onboard_time": 1707048333,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156346,
-      "num": 156346,
-      "word": "小伙情人节送女友2米高发财树和零食花",
-      "onboard_time": 1707873872,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156330,
@@ -28755,6 +28811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142490,
+      "num": 142490,
+      "word": "怀特塞德退役",
+      "onboard_time": 1707875793,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142389,
       "num": 142389,
       "word": "财神爷儿子",
@@ -30051,6 +30115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133890,
+      "num": 133890,
+      "word": "可以拥有这个红包吗",
+      "onboard_time": 1707876932,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133884,
       "num": 133884,
       "word": "狗狗这一靠太好哭了",
@@ -31299,6 +31371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126088,
+      "num": 126088,
+      "word": "朋友圈迎财神了",
+      "onboard_time": 1707875971,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126011,
       "num": 126011,
       "word": "Flowers最佳流行表演",
@@ -31961,6 +32041,14 @@
       "onboard_time": 1707096088,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121054,
+      "num": 121054,
+      "word": "邓为红衣婚服路透",
+      "onboard_time": 1707877115,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 121043,
@@ -33227,6 +33315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111551,
+      "num": 111551,
+      "word": "广东千人英歌舞大场面",
+      "onboard_time": 1707877115,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 111129,
       "num": 111129,
       "word": "法越馨再拍肖战",
@@ -33747,6 +33843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106114,
+      "num": 106114,
+      "word": "五路财神是哪五路",
+      "onboard_time": 1707875730,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105969,
       "num": 105969,
       "word": "快递小哥铲雪挖百米通道送货",
@@ -33875,6 +33979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104075,
+      "num": 104075,
+      "word": "假期不代表我们要和家人零距离",
+      "onboard_time": 1707877290,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "偷偷藏不住版龙年纪念币",
@@ -33937,6 +34049,14 @@
       "onboard_time": 1707358171,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102951,
+      "num": 102951,
+      "word": "财神居然有那么多身份",
+      "onboard_time": 1707875010,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102921,
