@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707903312517,
+  "endTime": 1707905904746,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 2623831,
-      "num": 608529,
+      "num": 687001,
       "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
       "onboard_time": 1707901356,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2542489,
+      "num": 2542489,
+      "word": "舅舅的舅舅的舅舅叫什么",
+      "onboard_time": 1707900694,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2537985,
@@ -177,14 +185,6 @@
       "onboard_time": 1707881728,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2350998,
-      "num": 2350998,
-      "word": "舅舅的舅舅的舅舅叫什么",
-      "onboard_time": 1707900694,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 2341366,
@@ -801,6 +801,14 @@
       "onboard_time": 1707567696,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1152766,
+      "num": 1152766,
+      "word": "欧阳娜娜 她姐姐喜欢她",
+      "onboard_time": 1707903158,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1148953,
@@ -1771,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633511,
+      "num": 633511,
+      "word": "情人节礼物",
+      "onboard_time": 1707895776,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 633048,
       "num": 341448,
       "word": "三婚彩礼40万元村民认为一点不夸张",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1707800076,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581407,
-      "num": 581407,
-      "word": "情人节礼物",
-      "onboard_time": 1707895776,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 579871,
@@ -2371,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 509315,
+      "num": 276224,
+      "word": "农村大龄男开始迎娶二婚女",
+      "onboard_time": 1707903217,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509093,
       "num": 443185,
       "word": "苏醒廖语辰首次公开合照",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1707660154,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 494333,
+      "num": 494333,
+      "word": "檀健次张婧仪情人节拍立得",
+      "onboard_time": 1707902916,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 493350,
@@ -2561,6 +2585,14 @@
       "onboard_time": 1707892355,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470473,
+      "num": 276700,
+      "word": "因几万彩礼谈不拢取消订婚",
+      "onboard_time": 1707901296,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470217,
@@ -2811,14 +2843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428656,
-      "num": 276700,
-      "word": "因几万彩礼谈不拢取消订婚",
-      "onboard_time": 1707901296,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427363,
       "num": 481031,
       "word": "破五是要破什么",
@@ -3027,6 +3051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400693,
+      "num": 400693,
+      "word": "刘昊然十年前旧照",
+      "onboard_time": 1707902794,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399454,
       "num": 399454,
       "word": "贾玲下一部电影",
@@ -3075,6 +3107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 385254,
+      "num": 385254,
+      "word": "在暴雪时分大结局",
+      "onboard_time": 1707904655,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384422,
       "num": 384422,
       "word": "貂蝉吕布情限皮肤",
@@ -3121,6 +3161,14 @@
       "onboard_time": 1707891451,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 379473,
+      "num": 271668,
+      "word": "杨紫黑色小香",
+      "onboard_time": 1707904061,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379135,
@@ -3179,6 +3227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373568,
+      "num": 373568,
+      "word": "SuperJuniorDnE内地首封",
+      "onboard_time": 1707902738,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373004,
       "num": 373004,
       "word": "i人社交",
@@ -3235,8 +3291,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366742,
+      "num": 366742,
+      "word": "王铮亮和他五个第一次上春晚的兄弟",
+      "onboard_time": 1707902138,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366618,
-      "num": 366618,
+      "num": 500977,
       "word": "8岁萌兰遇到5个月大的自己害羞羞",
       "onboard_time": 1707895835,
       "rank": 46,
@@ -3249,6 +3313,14 @@
       "onboard_time": 1707703769,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364238,
+      "num": 364238,
+      "word": "为什么留在老家的人更容易结婚生子",
+      "onboard_time": 1707904476,
+      "rank": 17,
+      "category": "社会议题"
     },
     {
       "raw_hot": 364015,
@@ -3332,7 +3404,7 @@
     },
     {
       "raw_hot": 353170,
-      "num": 353170,
+      "num": 494471,
       "word": "董宇辉回村的生活有多惬意",
       "onboard_time": 1707900876,
       "rank": 13,
@@ -3563,14 +3635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325475,
-      "num": 325475,
-      "word": "王铮亮和他五个第一次上春晚的兄弟",
-      "onboard_time": 1707902138,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324559,
       "num": 324559,
       "word": "王鹤棣出发NBA",
@@ -3731,14 +3795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 303913,
-      "num": 303913,
-      "word": "刘昊然十年前旧照",
-      "onboard_time": 1707902794,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303250,
       "num": 284802,
       "word": "可乐喝多了身体会发生什么",
@@ -3777,14 +3833,6 @@
       "onboard_time": 1707800257,
       "rank": 26,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 296721,
-      "num": 296721,
-      "word": "SuperJuniorDnE内地首封",
-      "onboard_time": 1707902738,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 296062,
@@ -3865,14 +3913,6 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 286058,
-      "num": 286058,
-      "word": "檀健次张婧仪情人节拍立得",
-      "onboard_time": 1707902916,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 285836,
@@ -4163,6 +4203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 267814,
+      "num": 267814,
+      "word": "梨形是科学家眼中最健康的身材",
+      "onboard_time": 1707904177,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "妈妈问为什么不喜欢吃她做的饭",
@@ -4281,6 +4329,14 @@
       "onboard_time": 1707817538,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 258085,
+      "num": 258085,
+      "word": "爸妈吵架时小狗跑来躲进我的被窝里",
+      "onboard_time": 1707904295,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 257612,
@@ -4433,6 +4489,14 @@
       "onboard_time": 1707753631,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248893,
+      "num": 248893,
+      "word": "情人节 相亲",
+      "onboard_time": 1707905312,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 247780,
@@ -4987,6 +5051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220162,
+      "num": 220162,
+      "word": "浙江姑娘回村跑步晒了条跑道火了",
+      "onboard_time": 1707903878,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220088,
       "num": 220088,
       "word": "我觉得我现在强的可怕",
@@ -5161,14 +5233,6 @@
       "onboard_time": 1707556294,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211610,
-      "num": 211610,
-      "word": "欧阳娜娜 她姐姐喜欢她",
-      "onboard_time": 1707903158,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 211473,
@@ -5459,6 +5523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201590,
+      "num": 201590,
+      "word": "魏大勋手上的青筋",
+      "onboard_time": 1707905377,
+      "rank": 31,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 200732,
       "num": 200732,
       "word": "寒假作业is due",
@@ -5555,6 +5627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198526,
+      "num": 198526,
+      "word": "财政部许愿池里45%个人所得税是啥",
+      "onboard_time": 1707902916,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198493,
       "num": 198493,
       "word": "美国当前流感季已有1.5万人死亡",
@@ -5601,6 +5681,14 @@
       "onboard_time": 1707711451,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196673,
+      "num": 196673,
+      "word": "旅游还健身",
+      "onboard_time": 1707905135,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196518,
@@ -5752,14 +5840,6 @@
       "word": "广东人迎财神有多拼",
       "onboard_time": 1707881728,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190745,
-      "num": 190745,
-      "word": "农村大龄男开始迎娶二婚女",
-      "onboard_time": 1707903217,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6347,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169890,
+      "num": 169890,
+      "word": "湖人啦啦队挑战科目三",
+      "onboard_time": 1707905076,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169730,
       "num": 169730,
       "word": "雷佳音马丽 雷丽风行",
@@ -6409,6 +6497,14 @@
       "onboard_time": 1707722249,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 168407,
+      "num": 168407,
+      "word": "在暴雪时分直播",
+      "onboard_time": 1707903878,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 168329,
@@ -6947,14 +7043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151841,
-      "num": 151841,
-      "word": "财政部许愿池里45%个人所得税是啥",
-      "onboard_time": 1707902916,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 151722,
       "num": 151722,
       "word": "花钱买来短暂的亲情",
@@ -7267,6 +7355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143886,
+      "num": 143886,
+      "word": "年轻人求财方式",
+      "onboard_time": 1707903217,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143362,
       "num": 143362,
       "word": "克莱为留勇士愿当配角",
@@ -7297,6 +7393,14 @@
       "onboard_time": 1707810334,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142776,
+      "num": 142776,
+      "word": "贾玲路演现场拳击动作好帅",
+      "onboard_time": 1707903513,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 142566,
@@ -7899,6 +8003,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 127304,
+      "num": 202674,
+      "word": "尔滨百年菜市场开始论个卖菜了",
+      "onboard_time": 1707903577,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127293,
       "num": 127293,
       "word": "贵妇粉霜",
@@ -8049,6 +8161,14 @@
       "onboard_time": 1707680417,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123382,
+      "num": 123382,
+      "word": "妈妈逐渐扛出来一辆半挂小狗",
+      "onboard_time": 1707905557,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 123254,
@@ -8441,14 +8561,6 @@
       "onboard_time": 1707682037,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113689,
-      "num": 113689,
-      "word": "年轻人求财方式",
-      "onboard_time": 1707903217,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 113421,
@@ -9659,6 +9771,9 @@
     },
     {
       "word": "#弘扬拥政爱民拥军优属光荣传统#"
+    },
+    {
+      "word": "#营造温暖和谐的社会氛围#"
     }
   ]
 }
