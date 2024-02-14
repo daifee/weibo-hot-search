@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707877350292,
+  "endTime": 1707878027150,
   "band_list": [
     {
       "raw_hot": 2537985,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 804716,
+      "num": 804716,
+      "word": "情人节骂醒恋爱脑销量暴增3倍",
+      "onboard_time": 1707876154,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619102,
       "num": 619102,
       "word": "焦裕禄次子焦跃进逝世",
@@ -195,14 +203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 469796,
-      "num": 469796,
-      "word": "情人节骂醒恋爱脑销量暴增3倍",
-      "onboard_time": 1707876154,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456412,
       "num": 456412,
       "word": "甜馨回应压岁钱争议",
@@ -227,20 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422173,
+      "num": 422173,
+      "word": "200万农村自建房入住体验",
+      "onboard_time": 1707873989,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 415116,
+      "num": 415116,
+      "word": "黑执事作者曾阻止真人版角色恋爱",
+      "onboard_time": 1707876090,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 410900,
       "num": 163726,
       "word": "韩媒 中国放烟花影响韩国空气质量",
       "onboard_time": 1707826057,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410840,
-      "num": 410840,
-      "word": "200万农村自建房入住体验",
-      "onboard_time": 1707873989,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 407601,
@@ -305,14 +313,6 @@
       "onboard_time": 1707869308,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320148,
-      "num": 320148,
-      "word": "黑执事作者曾阻止真人版角色恋爱",
-      "onboard_time": 1707876090,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 314200,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206602,
+      "num": 206602,
+      "word": "与凤行情人节MV",
+      "onboard_time": 1707877171,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205325,
       "num": 408404,
       "word": "财神红包秒空月老红包无人领",
@@ -457,14 +465,6 @@
       "onboard_time": 1707809313,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194016,
-      "num": 194016,
-      "word": "与凤行情人节MV",
-      "onboard_time": 1707877171,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 189554,
@@ -513,6 +513,14 @@
       "onboard_time": 1707869187,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "邓为红衣婚服路透",
+      "onboard_time": 1707877115,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 174018,
@@ -571,6 +579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155457,
+      "num": 155457,
+      "word": "杨超越 我的歌不好看吗",
+      "onboard_time": 1707877712,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "看心情吧",
@@ -592,6 +608,14 @@
       "word": "大年初五",
       "onboard_time": 1707866060,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148244,
+      "num": 148244,
+      "word": "可以拥有这个红包吗",
+      "onboard_time": 1707876932,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -627,12 +651,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 133890,
-      "num": 133890,
-      "word": "可以拥有这个红包吗",
-      "onboard_time": 1707876932,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 138025,
+      "num": 138025,
+      "word": "美国国会众议院通过对国土安全部长的弹劾",
+      "onboard_time": 1707877470,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 131607,
@@ -667,14 +691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121054,
-      "num": 121054,
-      "word": "邓为红衣婚服路透",
-      "onboard_time": 1707877115,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120624,
       "num": 120624,
       "word": "进淄赶烤游客再次爆满",
@@ -707,6 +723,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117250,
+      "num": 117250,
+      "word": "热辣滚烫春节档上半程票房冠军",
+      "onboard_time": 1707877833,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "广东千人英歌舞大场面",
@@ -729,6 +753,14 @@
       "onboard_time": 1707828398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108450,
+      "num": 108450,
+      "word": "寒假作业is due",
+      "onboard_time": 1707877951,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 106579,
@@ -793,6 +825,14 @@
       "onboard_time": 1707868104,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100257,
+      "num": 100257,
+      "word": "子夜归情人节花絮好甜",
+      "onboard_time": 1707877951,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 99076,

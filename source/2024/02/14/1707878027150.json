@@ -1,0 +1,410 @@
+{
+  "runTime": 1707878027150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2349486,
+        "num": 2349486,
+        "word": "迎财神",
+        "onboard_time": 1707865818,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1765377,
+        "num": 1765377,
+        "word": "钱辈请和我交往",
+        "onboard_time": 1707865818,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64960,
+        "num": 1698091,
+        "word": "老照片里是一不小心就长大的我们",
+        "onboard_time": 1707828398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1684035,
+        "num": 1684035,
+        "word": "乐莹被骚扰时镜头对准的是猥琐男",
+        "onboard_time": 1707875193,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 981266,
+        "num": 981266,
+        "word": "微信开放情人节520红包",
+        "onboard_time": 1707869488,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 946758,
+        "num": 946758,
+        "word": "韩国队内讧",
+        "onboard_time": 1707873631,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941619,
+        "num": 941619,
+        "word": "财神壁纸",
+        "onboard_time": 1707866542,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 890719,
+        "num": 890719,
+        "word": "第二十条连续票房逆跌",
+        "onboard_time": 1707870631,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 804716,
+        "num": 804716,
+        "word": "情人节骂醒恋爱脑销量暴增3倍",
+        "onboard_time": 1707876154,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582033,
+        "num": 582033,
+        "word": "焦裕禄次子焦跃进逝世",
+        "onboard_time": 1707874350,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540201,
+        "num": 540201,
+        "word": "杜乐莹是怎么爱上昊坤的",
+        "onboard_time": 1707870688,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469104,
+        "num": 469104,
+        "word": "迪丽热巴于朦胧说悄悄话",
+        "onboard_time": 1707873931,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422173,
+        "num": 422173,
+        "word": "200万农村自建房入住体验",
+        "onboard_time": 1707873989,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415116,
+        "num": 415116,
+        "word": "黑执事作者曾阻止真人版角色恋爱",
+        "onboard_time": 1707876090,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198482,
+        "num": 397924,
+        "word": "财神红包秒空月老红包无人领",
+        "onboard_time": 1707876032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392626,
+        "num": 392626,
+        "word": "跑步的是贾玲瘦的是整个剧组",
+        "onboard_time": 1707838477,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384689,
+        "num": 384689,
+        "word": "看韩国综艺的人深深懂了",
+        "onboard_time": 1707872913,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346512,
+        "num": 346512,
+        "word": "大学生德华是玩梗也是认同",
+        "onboard_time": 1707873392,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337271,
+        "num": 337271,
+        "word": "treasure全团上恋综",
+        "onboard_time": 1707869246,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315740,
+        "num": 315740,
+        "word": "小伙情人节送女友2米高发财树和零食花",
+        "onboard_time": 1707873872,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319439,
+        "num": 305134,
+        "word": "高额彩礼之下重负的农村父母",
+        "onboard_time": 1707871289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269561,
+        "num": 269561,
+        "word": "财政部邀大家打卡",
+        "onboard_time": 1707875911,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250683,
+        "num": 250683,
+        "word": "龚俊cos财神",
+        "onboard_time": 1707872852,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249830,
+        "num": 249830,
+        "word": "朱广权 这三天我们都没笑",
+        "onboard_time": 1707832179,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206602,
+        "num": 206602,
+        "word": "与凤行情人节MV",
+        "onboard_time": 1707877171,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200886,
+        "num": 200886,
+        "word": "官方辟谣福州2.1亿元天价婚礼",
+        "onboard_time": 1707869426,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196414,
+        "num": 196414,
+        "word": "00后的亲戚关系全靠长辈维持",
+        "onboard_time": 1707868646,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176592,
+        "num": 176592,
+        "word": "姐姐抢走红包被弟弟抱起转圈圈",
+        "onboard_time": 1707869788,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174260,
+        "num": 174260,
+        "word": "邓为红衣婚服路透",
+        "onboard_time": 1707877115,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167581,
+        "num": 167581,
+        "word": "周深在春晚后台听见了大鱼",
+        "onboard_time": 1707869308,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166538,
+        "num": 166538,
+        "word": "杨紫看热辣滚烫看哭了",
+        "onboard_time": 1707835179,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160280,
+        "num": 160280,
+        "word": "梨形身材就跳普拉提",
+        "onboard_time": 1707872554,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157435,
+        "num": 157435,
+        "word": "第一批等到主人的留守猫",
+        "onboard_time": 1707871289,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155457,
+        "num": 155457,
+        "word": "杨超越 我的歌不好看吗",
+        "onboard_time": 1707877712,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154080,
+        "num": 154080,
+        "word": "TWS与IU音源榜单破表",
+        "onboard_time": 1707873271,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150072,
+        "num": 150072,
+        "word": "男子酒醒发现身上4千多现金没了",
+        "onboard_time": 1707837218,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148244,
+        "num": 148244,
+        "word": "可以拥有这个红包吗",
+        "onboard_time": 1707876932,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139142,
+        "num": 139142,
+        "word": "飞驰人生2票房破14亿",
+        "onboard_time": 1707867803,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138025,
+        "num": 138025,
+        "word": "美国国会众议院通过对国土安全部长的弹劾",
+        "onboard_time": 1707877470,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131442,
+        "num": 131442,
+        "word": "再也不敢相信口罩下的面孔了",
+        "onboard_time": 1707833620,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123569,
+        "num": 123569,
+        "word": "尔滨咱下个冬天再见",
+        "onboard_time": 1707871650,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122259,
+        "num": 122259,
+        "word": "贾玲回应电影热辣滚烫为何在广东取景",
+        "onboard_time": 1707867743,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118167,
+        "num": 118167,
+        "word": "怀特塞德退役",
+        "onboard_time": 1707875793,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117250,
+        "num": 117250,
+        "word": "热辣滚烫春节档上半程票房冠军",
+        "onboard_time": 1707877833,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109736,
+        "num": 109736,
+        "word": "星宇",
+        "onboard_time": 1707869847,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108450,
+        "num": 108450,
+        "word": "寒假作业is due",
+        "onboard_time": 1707877951,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108062,
+        "num": 108062,
+        "word": "广东千人英歌舞大场面",
+        "onboard_time": 1707877115,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101053,
+        "num": 101053,
+        "word": "小尼在新疆听到了朱广权的笑声",
+        "onboard_time": 1707835896,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 100257,
+        "word": "子夜归情人节花絮好甜",
+        "onboard_time": 1707877951,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98110,
+        "num": 98110,
+        "word": "朋友圈迎财神了",
+        "onboard_time": 1707875971,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
