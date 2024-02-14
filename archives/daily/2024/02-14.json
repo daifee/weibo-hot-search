@@ -1,7 +1,15 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707888876870,
+  "endTime": 1707891736374,
   "band_list": [
+    {
+      "raw_hot": 3793201,
+      "num": 3793201,
+      "word": "钟楚曦侯雯元情人节官宣",
+      "onboard_time": 1707890314,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2742175,
       "num": 2198553,
@@ -59,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1336073,
+      "num": 1336073,
+      "word": "热辣滚烫 自私又丰满的女性角色",
+      "onboard_time": 1707888272,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1321426,
       "num": 817568,
       "word": "上春山logo",
@@ -72,6 +88,14 @@
       "word": "江西彩礼高不借钱娶不到妻",
       "onboard_time": 1707883892,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1196924,
+      "num": 1196924,
+      "word": "女方要28.8万彩礼男方嫌贵别家出38.8万",
+      "onboard_time": 1707883892,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -185,6 +209,14 @@
       "onboard_time": 1707878490,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 685221,
+      "num": 685221,
+      "word": "陆虎陈曌旭情人节发糖",
+      "onboard_time": 1707890015,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 651231,
@@ -347,6 +379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455248,
+      "num": 290880,
+      "word": "泰国偶遇钟楚曦侯雯元逛街",
+      "onboard_time": 1707886472,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446740,
+      "num": 446740,
+      "word": "五台山景区桶装水是从女厕所水管接的",
+      "onboard_time": 1707888570,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440729,
       "num": 440729,
       "word": "沪上阿姨在港递交上市申请",
@@ -427,11 +475,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 398516,
-      "num": 290880,
-      "word": "泰国偶遇钟楚曦侯雯元逛街",
-      "onboard_time": 1707886472,
-      "rank": 21,
+      "raw_hot": 381203,
+      "num": 381203,
+      "word": "赵露思在横店吃铁锅炖",
+      "onboard_time": 1707890314,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -483,8 +531,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 344449,
-      "num": 344449,
+      "raw_hot": 347362,
+      "num": 347362,
       "word": "曝姆巴佩愿意加盟阿森纳",
       "onboard_time": 1707887852,
       "rank": 15,
@@ -497,14 +545,6 @@
       "onboard_time": 1707834280,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338652,
-      "num": 338652,
-      "word": "热辣滚烫 自私又丰满的女性角色",
-      "onboard_time": 1707888272,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 333659,
@@ -675,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241882,
+      "num": 241882,
+      "word": "朱志鑫卡点视频",
+      "onboard_time": 1707890073,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236866,
       "num": 236866,
       "word": "25岁新人翻拍父母25岁婚纱照",
@@ -737,6 +785,14 @@
       "onboard_time": 1707820599,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215998,
+      "num": 215998,
+      "word": "宫脇咲良中国首封",
+      "onboard_time": 1707889172,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215513,
@@ -809,6 +865,14 @@
       "onboard_time": 1707877115,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196948,
+      "num": 196948,
+      "word": "崔然竣杂志",
+      "onboard_time": 1707890857,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194916,
@@ -963,6 +1027,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170371,
+      "num": 170371,
+      "word": "这届年轻人的表白方式有多奇特",
+      "onboard_time": 1707891274,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169730,
+      "num": 169730,
+      "word": "雷佳音马丽 雷丽风行",
+      "onboard_time": 1707890191,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169141,
       "num": 169141,
       "word": "英雄联盟手游 情限抽奖",
@@ -971,12 +1051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166587,
+      "num": 166587,
+      "word": "年会不能停",
+      "onboard_time": 1707891451,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166420,
       "num": 166420,
       "word": "中国人拜的财神到底是谁",
       "onboard_time": 1707869606,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165508,
+      "num": 165508,
+      "word": "景区钢索桥侧翻多名游客倒挂空中",
+      "onboard_time": 1707890674,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165373,
@@ -1017,6 +1113,14 @@
       "onboard_time": 1707837819,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162119,
+      "num": 162119,
+      "word": "网友在财政部下的许愿很统一",
+      "onboard_time": 1707885812,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 161276,
@@ -1067,12 +1171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148763,
-      "num": 148763,
-      "word": "网友在财政部下的许愿很统一",
-      "onboard_time": 1707885812,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 148759,
+      "num": 148759,
+      "word": "浓眉20分14篮板",
+      "onboard_time": 1707891094,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 148244,
@@ -1099,14 +1203,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 143458,
-      "num": 143458,
-      "word": "五台山景区桶装水是从女厕所水管接的",
-      "onboard_time": 1707888570,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142566,
       "num": 142566,
       "word": "大年初五破五迎福",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1707875793,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139084,
+      "num": 139084,
+      "word": "古人是懂怎么迎财神的",
+      "onboard_time": 1707890432,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 138774,
@@ -1195,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122066,
+      "num": 122066,
+      "word": "3款马面裙发型教程",
+      "onboard_time": 1707891034,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121509,
       "num": 121509,
       "word": "2024说爱你",
@@ -1209,6 +1321,14 @@
       "onboard_time": 1707832479,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 119606,
+      "num": 119606,
+      "word": "龙年情侣照",
+      "onboard_time": 1707890551,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 119311,
@@ -1569,6 +1689,14 @@
       "onboard_time": 1707830199,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21421,
+      "num": 227419,
+      "word": "来元梦迎财神",
+      "onboard_time": 1707890314,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 18038,
