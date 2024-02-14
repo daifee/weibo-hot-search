@@ -1,0 +1,410 @@
+{
+  "runTime": 1707906865745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2439920,
+        "num": 2439920,
+        "word": "舅舅的舅舅的舅舅叫什么",
+        "onboard_time": 1707900694,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2425024,
+        "num": 2425024,
+        "word": "钟楚曦侯雯元情人节官宣",
+        "onboard_time": 1707890314,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100131,
+        "num": 1786309,
+        "word": "龙行龘龘前程朤朤",
+        "onboard_time": 1707879630,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1698002,
+        "num": 1698002,
+        "word": "王骁被骂",
+        "onboard_time": 1707905917,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1110667,
+        "num": 1110667,
+        "word": "欧阳娜娜 她姐姐喜欢她",
+        "onboard_time": 1707903158,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765827,
+        "num": 765827,
+        "word": "财政部许愿池",
+        "onboard_time": 1707898474,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287309,
+        "num": 649051,
+        "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+        "onboard_time": 1707901356,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525506,
+        "num": 525506,
+        "word": "为什么留在老家的人更容易结婚生子",
+        "onboard_time": 1707904476,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 218915,
+        "num": 523714,
+        "word": "8岁萌兰遇到5个月大的自己害羞羞",
+        "onboard_time": 1707895835,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256559,
+        "num": 523521,
+        "word": "董宇辉回村的生活有多惬意",
+        "onboard_time": 1707900876,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 523425,
+        "num": 523425,
+        "word": "尹子维疑再求婚徐冬冬",
+        "onboard_time": 1707901176,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1141710,
+        "num": 518665,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482616,
+        "num": 482616,
+        "word": "情人节 相亲",
+        "onboard_time": 1707905312,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402001,
+        "num": 402001,
+        "word": "在暴雪时分大结局",
+        "onboard_time": 1707904655,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457118,
+        "num": 392860,
+        "word": "情人节礼物",
+        "onboard_time": 1707895776,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364533,
+        "num": 364533,
+        "word": "魏大勋手上的青筋",
+        "onboard_time": 1707905377,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 344907,
+        "num": 344907,
+        "word": "刘昊然十年前旧照",
+        "onboard_time": 1707902794,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334737,
+        "num": 334737,
+        "word": "热辣滚烫 自私又丰满的女性角色",
+        "onboard_time": 1707888272,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298259,
+        "num": 298259,
+        "word": "SuperJuniorDnE内地首封",
+        "onboard_time": 1707902738,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296707,
+        "num": 296707,
+        "word": "金莎孙丞潇情人节发糖",
+        "onboard_time": 1707906335,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496818,
+        "num": 295428,
+        "word": "农村大龄男开始迎娶二婚女",
+        "onboard_time": 1707903217,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384804,
+        "num": 294619,
+        "word": "因几万彩礼谈不拢取消订婚",
+        "onboard_time": 1707901296,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313187,
+        "num": 292146,
+        "word": "杨紫黑色小香",
+        "onboard_time": 1707904061,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278011,
+        "num": 278011,
+        "word": "檀健次张婧仪情人节拍立得",
+        "onboard_time": 1707902916,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286145,
+        "num": 277818,
+        "word": "王铮亮和他五个第一次上春晚的兄弟",
+        "onboard_time": 1707902138,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275821,
+        "num": 275821,
+        "word": "旅游还健身",
+        "onboard_time": 1707905135,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258280,
+        "num": 258280,
+        "word": "梨形是科学家眼中最健康的身材",
+        "onboard_time": 1707904177,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 238902,
+        "num": 238902,
+        "word": "五路财神",
+        "onboard_time": 1707888631,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215828,
+        "num": 215828,
+        "word": "马上全世界都知道和睦要当小三了",
+        "onboard_time": 1707894453,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116487,
+        "num": 206994,
+        "word": "尔滨百年菜市场开始论个卖菜了",
+        "onboard_time": 1707903577,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206086,
+        "num": 206086,
+        "word": "爸妈吵架时小狗跑来躲进我的被窝里",
+        "onboard_time": 1707904295,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205967,
+        "num": 205967,
+        "word": "i人和e人果然是天生的",
+        "onboard_time": 1707899073,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200531,
+        "num": 200531,
+        "word": "在暴雪时分",
+        "onboard_time": 1707905795,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194622,
+        "num": 194622,
+        "word": "财政部许愿池里45%个人所得税是啥",
+        "onboard_time": 1707902916,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192527,
+        "num": 192527,
+        "word": "浙江姑娘回村跑步晒了条跑道火了",
+        "onboard_time": 1707903878,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171603,
+        "num": 171603,
+        "word": "乐莹被骚扰时镜头对准的是猥琐男",
+        "onboard_time": 1707875193,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167447,
+        "num": 167447,
+        "word": "今年微信拜年少了",
+        "onboard_time": 1707896375,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164834,
+        "num": 164834,
+        "word": "韩寒回应是否有飞驰人生3",
+        "onboard_time": 1707897454,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157316,
+        "num": 157316,
+        "word": "湖人啦啦队挑战科目三",
+        "onboard_time": 1707905076,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149307,
+        "num": 149307,
+        "word": "妈妈逐渐扛出来一辆半挂小狗",
+        "onboard_time": 1707905557,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148786,
+        "num": 148786,
+        "word": "钟楚曦大唐狄公案的妆是自己画的",
+        "onboard_time": 1707906816,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137328,
+        "num": 137328,
+        "word": "狗狗第一次吃到剩饭香迷糊了",
+        "onboard_time": 1707893792,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130366,
+        "num": 130366,
+        "word": "这是什么新型催婚方式",
+        "onboard_time": 1707906097,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126897,
+        "num": 126897,
+        "word": "情人节好多人把花扔了",
+        "onboard_time": 1707906517,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125403,
+        "num": 125403,
+        "word": "在暴雪时分直播",
+        "onboard_time": 1707903878,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124239,
+        "num": 124239,
+        "word": "大侦探9上来就是一个村",
+        "onboard_time": 1707892355,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122053,
+        "num": 122053,
+        "word": "穆里尼奥 拜仁",
+        "onboard_time": 1707906697,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119837,
+        "num": 119837,
+        "word": "贾玲路演现场拳击动作好帅",
+        "onboard_time": 1707903513,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118485,
+        "num": 118485,
+        "word": "初五情人节 财神爷爱你",
+        "onboard_time": 1707906816,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115665,
+        "num": 115665,
+        "word": "迎财神",
+        "onboard_time": 1707865818,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬拥政爱民拥军优属光荣传统#"
+    }
+  }
+}
