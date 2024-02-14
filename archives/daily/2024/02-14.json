@@ -1,6 +1,6 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707920196805,
+  "endTime": 1707921246668,
   "band_list": [
     {
       "raw_hot": 5426257,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 1017099,
+      "num": 1028920,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1378739,
+      "num": 1378739,
+      "word": "国台办强烈谴责台方驱离福建渔船",
+      "onboard_time": 1707920739,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1345091,
       "num": 1345091,
       "word": "微信开放情人节520红包",
@@ -145,6 +153,14 @@
       "onboard_time": 1707883892,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1276184,
+      "num": 1276184,
+      "word": "曹颖13岁儿子颜值",
+      "onboard_time": 1707919480,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1223775,
@@ -251,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 926148,
+      "num": 926148,
+      "word": "化妆师供不应求",
+      "onboard_time": 1707917137,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 896835,
       "num": 896835,
       "word": "情人节好多人把花扔了",
@@ -299,14 +323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 836791,
-      "num": 836791,
-      "word": "化妆师供不应求",
-      "onboard_time": 1707917137,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 828056,
       "num": 828056,
       "word": "朱丹周一围情人节合照",
@@ -339,8 +355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 743777,
-      "num": 743777,
+      "raw_hot": 772145,
+      "num": 772145,
       "word": "撒贝宁董卿给小尼施的法",
       "onboard_time": 1707918937,
       "rank": 7,
@@ -361,6 +377,14 @@
       "onboard_time": 1707909038,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736698,
+      "num": 736698,
+      "word": "贾玲 最美的盛开是反击",
+      "onboard_time": 1707917377,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 705845,
@@ -393,14 +417,6 @@
       "onboard_time": 1707890015,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669228,
-      "num": 669228,
-      "word": "贾玲 最美的盛开是反击",
-      "onboard_time": 1707917377,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 663695,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 509315,
-      "num": 384939,
+      "num": 447502,
       "word": "农村大龄男开始迎娶二婚女",
       "onboard_time": 1707903217,
       "rank": 28,
@@ -728,14 +744,6 @@
       "word": "泰国偶遇钟楚曦侯雯元逛街",
       "onboard_time": 1707886472,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 446650,
-      "num": 446650,
-      "word": "曹颖13岁儿子颜值",
-      "onboard_time": 1707919480,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -881,6 +889,14 @@
       "onboard_time": 1707902794,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385903,
+      "num": 385903,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 381031,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1707886831,
       "rank": 16,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 306217,
+      "num": 306217,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1707920495,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 296112,
@@ -1459,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211766,
+      "num": 211766,
+      "word": "票房",
+      "onboard_time": 1707921038,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210057,
       "num": 210057,
       "word": "四川一火锅店将两天营收全部给员工",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1707887852,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192586,
+      "num": 192586,
+      "word": "勇士曾尝试交易詹姆斯",
+      "onboard_time": 1707919840,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 190926,
@@ -1755,14 +1795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 173276,
-      "num": 173276,
-      "word": "韩国与古巴建立外交关系",
-      "onboard_time": 1707919778,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 172919,
       "num": 172919,
       "word": "孙千新中式马甲",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1707916959,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "唐毅新手眼妆教学",
+      "onboard_time": 1707920860,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 166420,
@@ -1979,8 +2019,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152330,
-      "num": 152330,
+      "raw_hot": 155165,
+      "num": 155165,
+      "word": "郭德纲岳云鹏郭麒麟聚会",
+      "onboard_time": 1707921158,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154086,
+      "num": 154086,
       "word": "郑钦文比赛",
       "onboard_time": 1707918278,
       "rank": 42,
@@ -2163,12 +2211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135150,
-      "num": 135150,
-      "word": "勇士曾尝试交易詹姆斯",
-      "onboard_time": 1707919840,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 135155,
+      "num": 135155,
+      "word": "这是筛选飞行员吗",
+      "onboard_time": 1707920620,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134437,

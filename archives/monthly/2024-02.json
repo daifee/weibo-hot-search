@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707920196805,
+  "endTime": 1707921246668,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 1017099,
+      "num": 1028920,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -2355,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378739,
+      "num": 1378739,
+      "word": "国台办强烈谴责台方驱离福建渔船",
+      "onboard_time": 1707920739,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1376336,
       "num": 1376336,
       "word": "国际米兰回应霍启刚",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1706746228,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1276184,
+      "num": 1276184,
+      "word": "曹颖13岁儿子颜值",
+      "onboard_time": 1707919480,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1275028,
@@ -4435,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 926148,
+      "num": 926148,
+      "word": "化妆师供不应求",
+      "onboard_time": 1707917137,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 925626,
       "num": 925626,
       "word": "安琪拉大招 水龙头",
@@ -5075,14 +5099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 836791,
-      "num": 836791,
-      "word": "化妆师供不应求",
-      "onboard_time": 1707917137,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 836274,
       "num": 836274,
       "word": "刘德华自曝曾有粉丝藏床下",
@@ -5715,6 +5731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 772145,
+      "num": 772145,
+      "word": "撒贝宁董卿给小尼施的法",
+      "onboard_time": 1707918937,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 769830,
       "num": 769830,
       "word": "张颂文 你心里不也骂了人家几小时",
@@ -5947,14 +5971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 743777,
-      "num": 743777,
-      "word": "撒贝宁董卿给小尼施的法",
-      "onboard_time": 1707918937,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 743407,
       "num": 743407,
       "word": "白敬亭掉粉",
@@ -6049,6 +6065,14 @@
       "onboard_time": 1706864614,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736698,
+      "num": 736698,
+      "word": "贾玲 最美的盛开是反击",
+      "onboard_time": 1707917377,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 734417,
@@ -6905,14 +6929,6 @@
       "onboard_time": 1707014370,
       "rank": 6,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 669228,
-      "num": 669228,
-      "word": "贾玲 最美的盛开是反击",
-      "onboard_time": 1707917377,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 667410,
@@ -9500,7 +9516,7 @@
     },
     {
       "raw_hot": 509315,
-      "num": 384939,
+      "num": 447502,
       "word": "农村大龄男开始迎娶二婚女",
       "onboard_time": 1707903217,
       "rank": 28,
@@ -10729,14 +10745,6 @@
       "onboard_time": 1707224732,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 446650,
-      "num": 446650,
-      "word": "曹颖13岁儿子颜值",
-      "onboard_time": 1707919480,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 446497,
@@ -12377,6 +12385,14 @@
       "onboard_time": 1707523954,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385903,
+      "num": 385903,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 385834,
@@ -15025,6 +15041,14 @@
       "onboard_time": 1706864614,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306217,
+      "num": 306217,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1707920495,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 306033,
@@ -23483,6 +23507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192586,
+      "num": 192586,
+      "word": "勇士曾尝试交易詹姆斯",
+      "onboard_time": 1707919840,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192581,
       "num": 192581,
       "word": "秦世纪",
@@ -25891,14 +25923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173276,
-      "num": 173276,
-      "word": "韩国与古巴建立外交关系",
-      "onboard_time": 1707919778,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 173185,
       "num": 173185,
       "word": "小沈阳 这场演唱会等了十五年",
@@ -26785,6 +26809,14 @@
       "onboard_time": 1706742740,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "唐毅新手眼妆教学",
+      "onboard_time": 1707920860,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 166778,
@@ -28363,6 +28395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155165,
+      "num": 155165,
+      "word": "郭德纲岳云鹏郭麒麟聚会",
+      "onboard_time": 1707921158,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155136,
       "num": 155136,
       "word": "无畏游走位首秀",
@@ -28513,6 +28553,14 @@
       "onboard_time": 1707803558,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154086,
+      "num": 154086,
+      "word": "郑钦文比赛",
+      "onboard_time": 1707918278,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 154068,
@@ -28745,14 +28793,6 @@
       "onboard_time": 1706789671,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152330,
-      "num": 152330,
-      "word": "郑钦文比赛",
-      "onboard_time": 1707918278,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 152317,
@@ -31395,12 +31435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135150,
-      "num": 135150,
-      "word": "勇士曾尝试交易詹姆斯",
-      "onboard_time": 1707919840,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 135155,
+      "num": 135155,
+      "word": "这是筛选飞行员吗",
+      "onboard_time": 1707920620,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 135089,

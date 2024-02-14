@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707920196805,
+  "endTime": 1707921246668,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2453518,
-      "num": 1017099,
+      "num": 1028920,
       "word": "钟楚曦侯雯元 大大方方",
       "onboard_time": 1707897335,
       "rank": 5,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378739,
+      "num": 1378739,
+      "word": "国台办强烈谴责台方驱离福建渔船",
+      "onboard_time": 1707920739,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1345091,
       "num": 1345091,
       "word": "微信开放情人节520红包",
@@ -649,6 +657,14 @@
       "onboard_time": 1707705451,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1276184,
+      "num": 1276184,
+      "word": "曹颖13岁儿子颜值",
+      "onboard_time": 1707919480,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1272465,
@@ -1203,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 926148,
+      "num": 926148,
+      "word": "化妆师供不应求",
+      "onboard_time": 1707917137,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 925472,
       "num": 925472,
       "word": "杨幂礼服下面穿秋裤",
@@ -1331,14 +1355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 836791,
-      "num": 836791,
-      "word": "化妆师供不应求",
-      "onboard_time": 1707917137,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 828056,
       "num": 828056,
       "word": "朱丹周一围情人节合照",
@@ -1459,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 772145,
+      "num": 772145,
+      "word": "撒贝宁董卿给小尼施的法",
+      "onboard_time": 1707918937,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758832,
       "num": 758832,
       "word": "魏晨回应杨紫给他投票",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1707652593,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 743777,
-      "num": 743777,
-      "word": "撒贝宁董卿给小尼施的法",
-      "onboard_time": 1707918937,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 743407,
@@ -1536,6 +1552,14 @@
       "word": "封神",
       "onboard_time": 1707737492,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 736698,
+      "num": 736698,
+      "word": "贾玲 最美的盛开是反击",
+      "onboard_time": 1707917377,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -1793,14 +1817,6 @@
       "onboard_time": 1707828639,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669228,
-      "num": 669228,
-      "word": "贾玲 最美的盛开是反击",
-      "onboard_time": 1707917377,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 667410,
@@ -2564,7 +2580,7 @@
     },
     {
       "raw_hot": 509315,
-      "num": 384939,
+      "num": 447502,
       "word": "农村大龄男开始迎娶二婚女",
       "onboard_time": 1707903217,
       "rank": 28,
@@ -2889,14 +2905,6 @@
       "onboard_time": 1707555696,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 446650,
-      "num": 446650,
-      "word": "曹颖13岁儿子颜值",
-      "onboard_time": 1707919480,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 446375,
@@ -3337,6 +3345,14 @@
       "onboard_time": 1707734672,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 385903,
+      "num": 385903,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 385776,
@@ -4041,6 +4057,14 @@
       "onboard_time": 1707653672,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306217,
+      "num": 306217,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1707920495,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 305826,
@@ -6123,6 +6147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192586,
+      "num": 192586,
+      "word": "勇士曾尝试交易詹姆斯",
+      "onboard_time": 1707919840,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192530,
       "num": 192530,
       "word": "文俊辉黄仁俊爬山搭子",
@@ -6651,14 +6683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173276,
-      "num": 173276,
-      "word": "韩国与古巴建立外交关系",
-      "onboard_time": 1707919778,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 173073,
       "num": 173073,
       "word": "13岁的小猫宝宝",
@@ -6913,6 +6937,14 @@
       "onboard_time": 1707817839,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "唐毅新手眼妆教学",
+      "onboard_time": 1707920860,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 166699,
@@ -7339,6 +7371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155165,
+      "num": 155165,
+      "word": "郭德纲岳云鹏郭麒麟聚会",
+      "onboard_time": 1707921158,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155085,
       "num": 155085,
       "word": "格林狂喷杜兰特",
@@ -7403,6 +7443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154086,
+      "num": 154086,
+      "word": "郑钦文比赛",
+      "onboard_time": 1707918278,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "刘谦春晚 华丽的数学秀",
@@ -7441,14 +7489,6 @@
       "onboard_time": 1707649593,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152330,
-      "num": 152330,
-      "word": "郑钦文比赛",
-      "onboard_time": 1707918278,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 152050,
@@ -8171,12 +8211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135150,
-      "num": 135150,
-      "word": "勇士曾尝试交易詹姆斯",
-      "onboard_time": 1707919840,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 135155,
+      "num": 135155,
+      "word": "这是筛选飞行员吗",
+      "onboard_time": 1707920620,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134437,

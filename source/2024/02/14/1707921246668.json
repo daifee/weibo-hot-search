@@ -1,0 +1,410 @@
+{
+  "runTime": 1707921246668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1946840,
+        "num": 1946840,
+        "word": "李金铭近照状态",
+        "onboard_time": 1707916778,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1416742,
+        "num": 1416742,
+        "word": "内娱体脂率最低的一对情侣",
+        "onboard_time": 1707907837,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55144,
+        "num": 1396582,
+        "word": "网络中国节",
+        "onboard_time": 1707899073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378739,
+        "num": 1378739,
+        "word": "国台办强烈谴责台方驱离福建渔船",
+        "onboard_time": 1707920739,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1309319,
+        "num": 1309319,
+        "word": "我们一起摇太阳宣布延后上映",
+        "onboard_time": 1707917857,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1276184,
+        "num": 1276184,
+        "word": "曹颖13岁儿子颜值",
+        "onboard_time": 1707919480,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028920,
+        "num": 1028920,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926148,
+        "num": 926148,
+        "word": "化妆师供不应求",
+        "onboard_time": 1707917137,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 772145,
+        "num": 772145,
+        "word": "撒贝宁董卿给小尼施的法",
+        "onboard_time": 1707918937,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736698,
+        "num": 736698,
+        "word": "贾玲 最美的盛开是反击",
+        "onboard_time": 1707917377,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 717572,
+        "num": 717572,
+        "word": "第二十条南京路演影院致歉",
+        "onboard_time": 1707914678,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 619987,
+        "num": 619987,
+        "word": "钟楚曦侯雯元情人节官宣",
+        "onboard_time": 1707890314,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548302,
+        "num": 548302,
+        "word": "日本鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1707915639,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 574892,
+        "num": 545965,
+        "word": "情人节好多人把花扔了",
+        "onboard_time": 1707906517,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535101,
+        "num": 535101,
+        "word": "舅舅的舅舅的舅舅叫什么",
+        "onboard_time": 1707900694,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457759,
+        "num": 457759,
+        "word": "范丞丞脏辫",
+        "onboard_time": 1707915278,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447502,
+        "num": 447502,
+        "word": "农村大龄男开始迎娶二婚女",
+        "onboard_time": 1707903217,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385903,
+        "num": 385903,
+        "word": "韩国与古巴建立外交关系",
+        "onboard_time": 1707919778,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 340341,
+        "num": 340341,
+        "word": "杜淳老婆王灿回怼网友恶评",
+        "onboard_time": 1707910959,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323932,
+        "num": 323932,
+        "word": "罗云熙探班陈飞宇",
+        "onboard_time": 1707914137,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1304668,
+        "num": 323632,
+        "word": "王骁被骂",
+        "onboard_time": 1707905917,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515423,
+        "num": 323527,
+        "word": "一男子被终身禁入成都熊猫基地",
+        "onboard_time": 1707916778,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323219,
+        "num": 323219,
+        "word": "朱丹周一围情人节合照",
+        "onboard_time": 1707911678,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309847,
+        "num": 309847,
+        "word": "因几万彩礼谈不拢取消订婚",
+        "onboard_time": 1707901296,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306217,
+        "num": 306217,
+        "word": "柯南情人节杀人事件",
+        "onboard_time": 1707920495,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 273384,
+        "num": 273384,
+        "word": "晚上有这3个习惯或会变胖变丑",
+        "onboard_time": 1707908677,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266538,
+        "num": 266538,
+        "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+        "onboard_time": 1707901356,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260980,
+        "num": 260980,
+        "word": "新姑爷第一次上门压塌老丈人床",
+        "onboard_time": 1707912459,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254505,
+        "num": 254505,
+        "word": "撒贝宁夫妇带孩子回老家过年",
+        "onboard_time": 1707909519,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224950,
+        "num": 224950,
+        "word": "刘耀文路演",
+        "onboard_time": 1707919239,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221837,
+        "num": 221837,
+        "word": "梨形是科学家眼中最健康的身材",
+        "onboard_time": 1707904177,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211766,
+        "num": 211766,
+        "word": "票房",
+        "onboard_time": 1707921038,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204336,
+        "num": 204336,
+        "word": "杨祐宁与老婆过情人节",
+        "onboard_time": 1707918820,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203573,
+        "num": 203573,
+        "word": "再听肖战献唱如愿依旧满满感动",
+        "onboard_time": 1707917257,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192586,
+        "num": 192586,
+        "word": "勇士曾尝试交易詹姆斯",
+        "onboard_time": 1707919840,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176203,
+        "num": 176203,
+        "word": "钟楚曦大唐狄公案的妆是自己画的",
+        "onboard_time": 1707906816,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174552,
+        "num": 174552,
+        "word": "欧阳娜娜 她姐姐喜欢她",
+        "onboard_time": 1707903158,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173809,
+        "num": 173809,
+        "word": "钟丽缇53岁身材",
+        "onboard_time": 1707910959,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166851,
+        "num": 166851,
+        "word": "唐毅新手眼妆教学",
+        "onboard_time": 1707920860,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160786,
+        "num": 160786,
+        "word": "四川一火锅店将两天营收全部给员工",
+        "onboard_time": 1707914376,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156431,
+        "num": 156431,
+        "word": "摇钱树长什么样",
+        "onboard_time": 1707919661,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155165,
+        "num": 155165,
+        "word": "郭德纲岳云鹏郭麒麟聚会",
+        "onboard_time": 1707921158,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154086,
+        "num": 154086,
+        "word": "郑钦文比赛",
+        "onboard_time": 1707918278,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197339,
+        "num": 153813,
+        "word": "周杰伦昆凌情人节一起打网球",
+        "onboard_time": 1707915695,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153053,
+        "num": 153053,
+        "word": "在暴雪时分大结局",
+        "onboard_time": 1707904655,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137403,
+        "num": 137403,
+        "word": "乌方称击沉俄黑海舰队一大型登陆舰",
+        "onboard_time": 1707916417,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135155,
+        "num": 135155,
+        "word": "这是筛选飞行员吗",
+        "onboard_time": 1707920620,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130213,
+        "num": 130213,
+        "word": "张凌赫帮粉丝选美甲",
+        "onboard_time": 1707912758,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128107,
+        "num": 128107,
+        "word": "我在三线小城开婚介所年赚60万",
+        "onboard_time": 1707910537,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 123834,
+        "num": 123834,
+        "word": "2024春节档总票房已破50亿元",
+        "onboard_time": 1707915156,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬拥政爱民拥军优属光荣传统#"
+    }
+  }
+}
