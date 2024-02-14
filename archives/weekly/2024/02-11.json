@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707902259382,
+  "endTime": 1707903312517,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2623831,
+      "num": 608529,
+      "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+      "onboard_time": 1707901356,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2537985,
       "num": 2537985,
       "word": "迎财神",
@@ -169,6 +177,14 @@
       "onboard_time": 1707881728,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2350998,
+      "num": 2350998,
+      "word": "舅舅的舅舅的舅舅叫什么",
+      "onboard_time": 1707900694,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2341366,
@@ -851,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1113209,
-      "num": 1113209,
-      "word": "舅舅的舅舅的舅舅叫什么",
-      "onboard_time": 1707900694,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1112509,
       "num": 1112509,
       "word": "贾玲芭莎力量感封面大片",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1707626789,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 968846,
-      "num": 395113,
-      "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
-      "onboard_time": 1707901356,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 965081,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1707817180,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816447,
+      "num": 816447,
+      "word": "尹子维疑再求婚徐冬冬",
+      "onboard_time": 1707901176,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 815894,
@@ -1723,14 +1731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 647754,
-      "num": 390310,
-      "word": "尹子维疑再求婚徐冬冬",
-      "onboard_time": 1707901176,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644573,
       "num": 644573,
       "word": "杨超越 我的歌不好看吗",
@@ -2027,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581407,
+      "num": 581407,
+      "word": "情人节礼物",
+      "onboard_time": 1707895776,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 579871,
       "num": 483899,
       "word": "贾玲说杨紫很仗义",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1707620310,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561966,
-      "num": 561966,
-      "word": "情人节礼物",
-      "onboard_time": 1707895776,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 560762,
@@ -2811,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428656,
+      "num": 276700,
+      "word": "因几万彩礼谈不拢取消订婚",
+      "onboard_time": 1707901296,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427363,
       "num": 481031,
       "word": "破五是要破什么",
@@ -2916,7 +2924,7 @@
     },
     {
       "raw_hot": 414307,
-      "num": 242502,
+      "num": 260117,
       "word": "今年微信拜年少了",
       "onboard_time": 1707896375,
       "rank": 20,
@@ -2969,6 +2977,14 @@
       "onboard_time": 1707699087,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405441,
+      "num": 405441,
+      "word": "i人和e人果然是天生的",
+      "onboard_time": 1707899073,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 404360,
@@ -3547,20 +3563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325475,
+      "num": 325475,
+      "word": "王铮亮和他五个第一次上春晚的兄弟",
+      "onboard_time": 1707902138,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324559,
       "num": 324559,
       "word": "王鹤棣出发NBA",
       "onboard_time": 1707898775,
       "rank": 31,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 323996,
-      "num": 323996,
-      "word": "i人和e人果然是天生的",
-      "onboard_time": 1707899073,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 322789,
@@ -3715,6 +3731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303913,
+      "num": 303913,
+      "word": "刘昊然十年前旧照",
+      "onboard_time": 1707902794,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303250,
       "num": 284802,
       "word": "可乐喝多了身体会发生什么",
@@ -3753,6 +3777,14 @@
       "onboard_time": 1707800257,
       "rank": 26,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 296721,
+      "num": 296721,
+      "word": "SuperJuniorDnE内地首封",
+      "onboard_time": 1707902738,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296062,
@@ -3833,6 +3865,14 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 286058,
+      "num": 286058,
+      "word": "檀健次张婧仪情人节拍立得",
+      "onboard_time": 1707902916,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 285836,
@@ -5075,6 +5115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212304,
+      "num": 212304,
+      "word": "巧克力远没有你想象的那么美好",
+      "onboard_time": 1707900936,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 212249,
       "num": 303166,
       "word": "女孩行李太重民警抄起就走俩人表情亮了",
@@ -5089,14 +5137,6 @@
       "onboard_time": 1707751236,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211790,
-      "num": 211790,
-      "word": "巧克力远没有你想象的那么美好",
-      "onboard_time": 1707900936,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 211723,
@@ -5121,6 +5161,14 @@
       "onboard_time": 1707556294,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211610,
+      "num": 211610,
+      "word": "欧阳娜娜 她姐姐喜欢她",
+      "onboard_time": 1707903158,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211473,
@@ -5155,14 +5203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210669,
-      "num": 210669,
-      "word": "王铮亮和他五个第一次上春晚的兄弟",
-      "onboard_time": 1707902138,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210399,
       "num": 210399,
       "word": "8只基金吸金3770亿元",
@@ -5177,6 +5217,14 @@
       "onboard_time": 1707834582,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209906,
+      "num": 209906,
+      "word": "钱从四面八方来",
+      "onboard_time": 1707901657,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 208982,
@@ -5353,14 +5401,6 @@
       "onboard_time": 1707880172,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203645,
-      "num": 203645,
-      "word": "因几万彩礼谈不拢取消订婚",
-      "onboard_time": 1707901296,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203624,
@@ -5555,14 +5595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196738,
-      "num": 196738,
-      "word": "钱从四面八方来",
-      "onboard_time": 1707901657,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196684,
       "num": 196684,
       "word": "马霍姆斯太牛了",
@@ -5720,6 +5752,14 @@
       "word": "广东人迎财神有多拼",
       "onboard_time": 1707881728,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190745,
+      "num": 190745,
+      "word": "农村大龄男开始迎娶二婚女",
+      "onboard_time": 1707903217,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6905,6 +6945,14 @@
       "onboard_time": 1707701612,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151841,
+      "num": 151841,
+      "word": "财政部许愿池里45%个人所得税是啥",
+      "onboard_time": 1707902916,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 151722,
@@ -8393,6 +8441,14 @@
       "onboard_time": 1707682037,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113689,
+      "num": 113689,
+      "word": "年轻人求财方式",
+      "onboard_time": 1707903217,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 113421,
