@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707950063130,
+  "endTime": 1707952764499,
   "band_list": [
     {
       "raw_hot": 949733,
@@ -179,6 +179,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324929,
+      "num": 324929,
+      "word": "航司建议从三亚返程避免直飞",
+      "onboard_time": 1707933501,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312164,
+      "num": 312164,
+      "word": "大年初六送穷",
+      "onboard_time": 1707952280,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297921,
       "num": 297921,
       "word": "口呼吸改善法拯救你的颜值",
@@ -219,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209900,
-      "num": 78917,
-      "word": "航司建议从三亚返程避免直飞",
-      "onboard_time": 1707933501,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 210221,
+      "num": 102239,
+      "word": "大醉之后喝白开水可解酒",
+      "onboard_time": 1707940276,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208121,
@@ -249,6 +265,14 @@
       "onboard_time": 1707925356,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191961,
+      "num": 191961,
+      "word": "吴磊直播间为赵今麦打圆场",
+      "onboard_time": 1707934823,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 188080,
@@ -281,14 +305,6 @@
       "onboard_time": 1707915278,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182541,
-      "num": 182541,
-      "word": "吴磊直播间为赵今麦打圆场",
-      "onboard_time": 1707934823,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 162865,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118852,
+      "num": 69073,
+      "word": "吵架后亲姐把弟弟丢高速",
+      "onboard_time": 1707942618,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118513,
       "num": 118513,
       "word": "钟丽缇53岁身材",
@@ -409,6 +433,14 @@
       "onboard_time": 1707915639,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 112540,
+      "num": 112540,
+      "word": "拜仁慕尼黑13年来首负意大利球队",
+      "onboard_time": 1707951800,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 109791,
@@ -451,12 +483,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 98723,
-      "num": 38332,
-      "word": "大醉之后喝白开水可解酒",
-      "onboard_time": 1707940276,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 101078,
+      "num": 101078,
+      "word": "秋瓷炫于晓光情人节大片",
+      "onboard_time": 1707946635,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 85500,
@@ -467,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 83406,
-      "num": 37992,
-      "word": "秋瓷炫于晓光情人节大片",
-      "onboard_time": 1707946635,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 82637,
+      "num": 82637,
+      "word": "秦霄贤情人节营业照",
+      "onboard_time": 1707952222,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 75197,
@@ -483,20 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67848,
-      "num": 37337,
-      "word": "吵架后亲姐把弟弟丢高速",
-      "onboard_time": 1707942618,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67447,
       "num": 60574,
       "word": "香港偶遇虞书欣逛街",
       "onboard_time": 1707937276,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67368,
+      "num": 67368,
+      "word": "浙江的农村究竟有多富",
+      "onboard_time": 1707946396,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62568,
@@ -507,28 +539,36 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 57291,
-      "num": 57291,
+      "raw_hot": 60796,
+      "num": 60796,
       "word": "体脂率才是最诚实的胖瘦衡量标准",
       "onboard_time": 1707933140,
       "rank": 33,
       "category": "运动健身"
     },
     {
-      "raw_hot": 42690,
-      "num": 28700,
+      "raw_hot": 52445,
+      "num": 52445,
       "word": "春节期间每天三千多人去黄龙锻炼",
       "onboard_time": 1707945135,
       "rank": 47,
       "category": "运动健身"
     },
     {
-      "raw_hot": 37946,
-      "num": 37333,
-      "word": "浙江的农村究竟有多富",
-      "onboard_time": 1707946396,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 46749,
+      "num": 46749,
+      "word": "巴黎圣日耳曼2比0皇家社会",
+      "onboard_time": 1707952222,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41341,
+      "num": 41341,
+      "word": "AR淘汰Spirit",
+      "onboard_time": 1707952641,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 29405,
@@ -547,7 +587,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10147,
+      "raw_hot": 11364,
       "num": 487799,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
