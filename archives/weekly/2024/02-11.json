@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707884442075,
+  "endTime": 1707885230263,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -99,6 +99,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 2742175,
+      "num": 2198553,
+      "word": "粉丝问白敬亭为什么穿黑色",
+      "onboard_time": 1707882811,
+      "rank": 1,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 2710018,
       "num": 2710018,
       "word": "已经会唱上春山了",
@@ -185,14 +193,6 @@
       "onboard_time": 1707792755,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2198553,
-      "num": 2198553,
-      "word": "粉丝问白敬亭为什么穿黑色",
-      "onboard_time": 1707882811,
-      "rank": 1,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 2190269,
@@ -976,6 +976,14 @@
       "word": "魏大勋临场反应",
       "onboard_time": 1707730712,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 960208,
+      "num": 425298,
+      "word": "上春山logo",
+      "onboard_time": 1707883892,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -2643,14 +2651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 425298,
-      "num": 425298,
-      "word": "上春山logo",
-      "onboard_time": 1707883892,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424451,
       "num": 424451,
       "word": "河北邢台一小区发生爆燃",
@@ -2707,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413809,
+      "num": 300163,
+      "word": "中国式令人窒息的母亲",
+      "onboard_time": 1707884372,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413794,
       "num": 481431,
       "word": "三年级小学生攒下70万压岁钱",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1707699087,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404360,
+      "num": 404360,
+      "word": "小龙糕",
+      "onboard_time": 1707744274,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 402418,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1707794255,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369464,
-      "num": 369464,
-      "word": "小龙糕",
-      "onboard_time": 1707744274,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 368309,
@@ -3427,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300227,
+      "num": 300227,
+      "word": "江西彩礼高不借钱娶不到妻",
+      "onboard_time": 1707883892,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299591,
       "num": 299591,
       "word": "装孕妇整了点炮的熊孩子家",
@@ -3875,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259368,
+      "num": 259368,
+      "word": "情头",
+      "onboard_time": 1707883770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258518,
       "num": 258518,
       "word": "热辣滚烫路演",
@@ -4193,6 +4217,14 @@
       "onboard_time": 1707703467,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239396,
+      "num": 239396,
+      "word": "农村老人沉迷刷APP挣钱",
+      "onboard_time": 1707883892,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239244,
@@ -4569,6 +4601,14 @@
       "onboard_time": 1707620787,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220070,
+      "num": 220070,
+      "word": "年轻人为什么反感被催婚",
+      "onboard_time": 1707884070,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 220040,
@@ -5099,14 +5139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197095,
-      "num": 197095,
-      "word": "中国式令人窒息的母亲",
-      "onboard_time": 1707884372,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "易烊千玺弹贝斯vlog",
@@ -5281,22 +5313,6 @@
       "onboard_time": 1707627511,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190200,
-      "num": 190200,
-      "word": "年轻人为什么反感被催婚",
-      "onboard_time": 1707884070,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 189802,
-      "num": 189802,
-      "word": "江西彩礼高不借钱娶不到妻",
-      "onboard_time": 1707883892,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189574,
@@ -5595,14 +5611,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 177324,
-      "num": 177324,
-      "word": "情头",
-      "onboard_time": 1707883770,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176363,
       "num": 176363,
       "word": "世界田联主席悼念基普图姆",
@@ -5649,14 +5657,6 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 175017,
-      "num": 175017,
-      "word": "农村老人沉迷刷APP挣钱",
-      "onboard_time": 1707883892,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174884,
@@ -5915,6 +5915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167158,
+      "num": 167158,
+      "word": "南来北往",
+      "onboard_time": 1707645450,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167149,
       "num": 582205,
       "word": "东北虎京京打针委屈找奶妈求抱抱",
@@ -5947,14 +5955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166327,
-      "num": 166327,
-      "word": "南来北往",
-      "onboard_time": 1707645450,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166039,
       "num": 166039,
       "word": "大衣肩上的扣子",
@@ -5969,6 +5969,14 @@
       "onboard_time": 1707650972,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165530,
+      "num": 165530,
+      "word": "好健康的母女关系",
+      "onboard_time": 1707884612,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 165519,
@@ -6025,6 +6033,14 @@
       "onboard_time": 1707880712,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163176,
+      "num": 163176,
+      "word": "赵丽颖红衣女战神造型",
+      "onboard_time": 1707884491,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162708,
@@ -6113,6 +6129,14 @@
       "onboard_time": 1707840635,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 159786,
+      "num": 159786,
+      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
+      "onboard_time": 1707882511,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159405,
@@ -6891,14 +6915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138067,
-      "num": 138067,
-      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
-      "onboard_time": 1707882511,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137667,
       "num": 137667,
       "word": "文班亚马盖帽三双",
@@ -6945,6 +6961,14 @@
       "onboard_time": 1707802235,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136327,
+      "num": 136327,
+      "word": "月老和财神相遇了",
+      "onboard_time": 1707884675,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 136285,
@@ -7363,6 +7387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124560,
+      "num": 124560,
+      "word": "新生与暮年一墙之隔同时跑赢死神",
+      "onboard_time": 1707884913,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124523,
       "num": 127018,
       "word": "杨舒予巴黎见",
@@ -7697,6 +7729,14 @@
       "onboard_time": 1707836440,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114984,
+      "num": 114984,
+      "word": "美国副总统称已准备好接班",
+      "onboard_time": 1707885152,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 114918,
@@ -8073,6 +8113,14 @@
       "onboard_time": 1707865520,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103393,
+      "num": 103393,
+      "word": "特斯拉皮卡离中国市场还有多远",
+      "onboard_time": 1707885211,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 102951,

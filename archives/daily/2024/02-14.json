@@ -1,7 +1,15 @@
 {
   "startTime": 1707841323393,
-  "endTime": 1707884442075,
+  "endTime": 1707885230263,
   "band_list": [
+    {
+      "raw_hot": 2742175,
+      "num": 2198553,
+      "word": "粉丝问白敬亭为什么穿黑色",
+      "onboard_time": 1707882811,
+      "rank": 1,
+      "category": "综艺,艺人"
+    },
     {
       "raw_hot": 2537985,
       "num": 2537985,
@@ -17,14 +25,6 @@
       "onboard_time": 1707881728,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2198553,
-      "num": 2198553,
-      "word": "粉丝问白敬亭为什么穿黑色",
-      "onboard_time": 1707882811,
-      "rank": 1,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1798747,
@@ -105,6 +105,14 @@
       "onboard_time": 1707841294,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 960208,
+      "num": 425298,
+      "word": "上春山logo",
+      "onboard_time": 1707883892,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 888787,
@@ -315,14 +323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 425298,
-      "num": 425298,
-      "word": "上春山logo",
-      "onboard_time": 1707883892,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424451,
       "num": 424451,
       "word": "河北邢台一小区发生爆燃",
@@ -335,6 +335,14 @@
       "num": 422173,
       "word": "200万农村自建房入住体验",
       "onboard_time": 1707873989,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 413809,
+      "num": 300163,
+      "word": "中国式令人窒息的母亲",
+      "onboard_time": 1707884372,
       "rank": 30,
       "category": "情感"
     },
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404360,
+      "num": 404360,
+      "word": "小龙糕",
+      "onboard_time": 1707883291,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402350,
       "num": 402350,
       "word": "贾玲回应电影热辣滚烫为何在广东取景",
@@ -369,14 +385,6 @@
       "onboard_time": 1707831939,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369464,
-      "num": 369464,
-      "word": "小龙糕",
-      "onboard_time": 1707883291,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 367654,
@@ -441,6 +449,14 @@
       "onboard_time": 1707869847,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 300227,
+      "num": 300227,
+      "word": "江西彩礼高不借钱娶不到妻",
+      "onboard_time": 1707883892,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285504,
@@ -531,11 +547,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259368,
+      "num": 259368,
+      "word": "情头",
+      "onboard_time": 1707883770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243710,
       "num": 243710,
       "word": "你收到的情人节玫瑰99%是假的",
       "onboard_time": 1707882932,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239396,
+      "num": 239396,
+      "word": "农村老人沉迷刷APP挣钱",
+      "onboard_time": 1707883892,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -592,6 +624,14 @@
       "word": "暧昧期突然下头真的是绝杀",
       "onboard_time": 1707820599,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 220070,
+      "num": 220070,
+      "word": "年轻人为什么反感被催婚",
+      "onboard_time": 1707884070,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -659,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197095,
-      "num": 197095,
-      "word": "中国式令人窒息的母亲",
-      "onboard_time": 1707884372,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194916,
       "num": 194916,
       "word": "飞驰人生2票房破14亿",
@@ -696,22 +728,6 @@
       "word": "广东人迎财神有多拼",
       "onboard_time": 1707881728,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190200,
-      "num": 190200,
-      "word": "年轻人为什么反感被催婚",
-      "onboard_time": 1707884070,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 189802,
-      "num": 189802,
-      "word": "江西彩礼高不借钱娶不到妻",
-      "onboard_time": 1707883892,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -787,22 +803,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 177324,
-      "num": 177324,
-      "word": "情头",
-      "onboard_time": 1707883770,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 175017,
-      "num": 175017,
-      "word": "农村老人沉迷刷APP挣钱",
-      "onboard_time": 1707883892,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174018,
       "num": 174018,
       "word": "TWS与IU音源榜单破表",
@@ -827,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167158,
+      "num": 167158,
+      "word": "南来北往",
+      "onboard_time": 1707884314,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166420,
       "num": 166420,
       "word": "中国人拜的财神到底是谁",
@@ -835,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165530,
+      "num": 165530,
+      "word": "好健康的母女关系",
+      "onboard_time": 1707884612,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163263,
       "num": 163263,
       "word": "拜财神刻入中国人DNA",
       "onboard_time": 1707880712,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163176,
+      "num": 163176,
+      "word": "赵丽颖红衣女战神造型",
+      "onboard_time": 1707884491,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162405,
@@ -865,6 +889,14 @@
       "onboard_time": 1707840635,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 159786,
+      "num": 159786,
+      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
+      "onboard_time": 1707882511,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158167,
@@ -947,12 +979,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138067,
-      "num": 138067,
-      "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
-      "onboard_time": 1707882511,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 136327,
+      "num": 136327,
+      "word": "月老和财神相遇了",
+      "onboard_time": 1707884675,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 134437,
@@ -979,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129001,
-      "num": 129001,
-      "word": "南来北往",
-      "onboard_time": 1707884314,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127805,
       "num": 127805,
       "word": "乾隆时期的发廊三色瓶",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1707875971,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124560,
+      "num": 124560,
+      "word": "新生与暮年一墙之隔同时跑赢死神",
+      "onboard_time": 1707884913,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122640,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1707884314,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114984,
+      "num": 114984,
+      "word": "美国副总统称已准备好接班",
+      "onboard_time": 1707885152,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 111551,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1707865520,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103393,
+      "num": 103393,
+      "word": "特斯拉皮卡离中国市场还有多远",
+      "onboard_time": 1707885211,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 103198,
