@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707921246668,
+  "endTime": 1707923846717,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3843,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026637,
+      "num": 1026637,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1707920495,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1024253,
       "num": 1024253,
       "word": "范丞丞脏辫",
@@ -4091,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 974325,
+      "num": 420819,
+      "word": "酒肉情侣",
+      "onboard_time": 1707922420,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 970722,
       "num": 970722,
       "word": "王一博与晗晗qvq网络纠纷案审理结果",
@@ -4271,6 +4287,14 @@
       "num": 951190,
       "word": "赵本山近照",
       "onboard_time": 1707635792,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 950323,
+      "num": 557545,
+      "word": "侯雯元拍的钟楚曦",
+      "onboard_time": 1707921339,
       "rank": 11,
       "category": "艺人"
     },
@@ -7956,7 +7980,7 @@
     },
     {
       "raw_hot": 592909,
-      "num": 346553,
+      "num": 351590,
       "word": "一男子被终身禁入成都熊猫基地",
       "onboard_time": 1707916778,
       "rank": 24,
@@ -8089,6 +8113,14 @@
       "onboard_time": 1707906335,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587552,
+      "num": 416063,
+      "word": "张杰谢娜情人节发糖",
+      "onboard_time": 1707923082,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 586033,
@@ -8561,6 +8593,14 @@
       "onboard_time": 1707801037,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 557984,
+      "num": 557984,
+      "word": "贾玲张小斐 珍贵的女性友谊",
+      "onboard_time": 1707921277,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 557576,
@@ -9451,6 +9491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514193,
+      "num": 514193,
+      "word": "蔡徐坤清唱",
+      "onboard_time": 1707922658,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 513797,
       "num": 513797,
       "word": "0713一次春晚三个感受",
@@ -9516,7 +9564,7 @@
     },
     {
       "raw_hot": 509315,
-      "num": 447502,
+      "num": 564087,
       "word": "农村大龄男开始迎娶二婚女",
       "onboard_time": 1707903217,
       "rank": 28,
@@ -10667,6 +10715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 450968,
+      "num": 450968,
+      "word": "韩国与古巴建立外交关系",
+      "onboard_time": 1707919778,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 450511,
       "num": 450511,
       "word": "杨幂 入梦风华",
@@ -11017,6 +11073,14 @@
       "onboard_time": 1707351988,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436706,
+      "num": 436706,
+      "word": "与凤行",
+      "onboard_time": 1707921818,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 436556,
@@ -12385,14 +12449,6 @@
       "onboard_time": 1707523954,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385903,
-      "num": 385903,
-      "word": "韩国与古巴建立外交关系",
-      "onboard_time": 1707919778,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 385834,
@@ -15043,14 +15099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306217,
-      "num": 306217,
-      "word": "柯南情人节杀人事件",
-      "onboard_time": 1707920495,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 306033,
       "num": 306033,
       "word": "腾讯视频9号开放日",
@@ -16435,6 +16483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275643,
+      "num": 275643,
+      "word": "我俩是不是天下第一好",
+      "onboard_time": 1707922899,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275600,
       "num": 275600,
       "word": "除了头孢吃了这些药也不能喝酒",
@@ -17729,6 +17785,14 @@
       "onboard_time": 1707132571,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252669,
+      "num": 252669,
+      "word": "郭德纲岳云鹏郭麒麟聚会",
+      "onboard_time": 1707921158,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 252653,
@@ -19259,6 +19323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231687,
+      "num": 231687,
+      "word": "口呼吸改善法拯救你的颜值",
+      "onboard_time": 1707921999,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231339,
       "num": 231339,
       "word": "阿娇 庆幸和你组成Twins",
@@ -20241,6 +20313,14 @@
       "onboard_time": 1707135932,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 219674,
+      "num": 219674,
+      "word": "张若昀魏晨最冷静的认亲",
+      "onboard_time": 1707923322,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 219621,
@@ -21297,6 +21377,14 @@
       "onboard_time": 1707806016,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208050,
+      "num": 208050,
+      "word": "别墅爆改地球仪",
+      "onboard_time": 1707921580,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 208031,
@@ -23409,6 +23497,14 @@
       "onboard_time": 1707659972,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192911,
+      "num": 192911,
+      "word": "白客社畜人夫感",
+      "onboard_time": 1707922899,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 192900,
@@ -26363,6 +26459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169892,
+      "num": 169892,
+      "word": "新兰only",
+      "onboard_time": 1707922362,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 169890,
       "num": 169890,
       "word": "湖人啦啦队挑战科目三",
@@ -26801,6 +26905,14 @@
       "onboard_time": 1707391651,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 167023,
+      "num": 167023,
+      "word": "seventeen克拉日",
+      "onboard_time": 1707922478,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167022,
@@ -27561,6 +27673,14 @@
       "onboard_time": 1707289287,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161665,
+      "num": 161665,
+      "word": "刘耀文情人节自拍",
+      "onboard_time": 1707923682,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 161626,
@@ -28393,14 +28513,6 @@
       "onboard_time": 1707024750,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155165,
-      "num": 155165,
-      "word": "郭德纲岳云鹏郭麒麟聚会",
-      "onboard_time": 1707921158,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 155136,
@@ -30089,6 +30201,14 @@
       "onboard_time": 1707903217,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143846,
+      "num": 143846,
+      "word": "汽车各部位名称",
+      "onboard_time": 1707923800,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 143813,
