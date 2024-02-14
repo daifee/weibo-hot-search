@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707873124916,
+  "endTime": 1707874291534,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1798747,
+      "num": 1798747,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1795940,
       "num": 1795940,
       "word": "大年初三睡到饱",
@@ -289,14 +297,6 @@
       "onboard_time": 1707806316,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1756654,
-      "num": 1756654,
-      "word": "钱辈请和我交往",
-      "onboard_time": 1707865818,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1751791,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1345091,
+      "num": 1345091,
+      "word": "微信开放情人节520红包",
+      "onboard_time": 1707869488,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1324627,
       "num": 1324627,
       "word": "贾玲为了形象保密尽量不出门",
@@ -529,14 +537,6 @@
       "onboard_time": 1707705451,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1306501,
-      "num": 1306501,
-      "word": "微信开放情人节520红包",
-      "onboard_time": 1707869488,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1272465,
@@ -859,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1036918,
+      "num": 1036918,
+      "word": "第二十条连续票房逆跌",
+      "onboard_time": 1707870631,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1027948,
       "num": 785002,
       "word": "泰国偶遇奚梦瑶和婆婆逛街",
       "onboard_time": 1707665493,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021705,
+      "num": 1021705,
+      "word": "财神壁纸",
+      "onboard_time": 1707866542,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1010388,
@@ -995,14 +1011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 933739,
-      "num": 933739,
-      "word": "第二十条连续票房逆跌",
-      "onboard_time": 1707870631,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 933388,
       "num": 933388,
       "word": "马思纯是周冬雨唯一的姐",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1707624930,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 901601,
-      "num": 901601,
-      "word": "财神壁纸",
-      "onboard_time": 1707866542,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 888497,
@@ -1107,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 840158,
+      "num": 840158,
+      "word": "杜乐莹是怎么爱上昊坤的",
+      "onboard_time": 1707870688,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 819907,
       "num": 819907,
       "word": "我要上春晚肯定就红了",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1707624689,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 794547,
-      "num": 794547,
-      "word": "杜乐莹是怎么爱上昊坤的",
-      "onboard_time": 1707870688,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 792125,
@@ -1755,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589552,
+      "num": 589552,
+      "word": "韩国队内讧",
+      "onboard_time": 1707873631,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589312,
       "num": 589312,
       "word": "热辣滚烫 不是减肥的故事",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1707748536,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 573143,
+      "num": 573143,
+      "word": "官方辟谣福州2.1亿元天价婚礼",
+      "onboard_time": 1707869426,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566343,
@@ -1969,14 +1985,6 @@
       "onboard_time": 1707729274,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 531255,
-      "num": 531255,
-      "word": "官方辟谣福州2.1亿元天价婚礼",
-      "onboard_time": 1707869426,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530707,
@@ -2163,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492202,
+      "num": 275557,
+      "word": "高额彩礼之下重负的农村父母",
+      "onboard_time": 1707871289,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489928,
       "num": 489928,
       "word": "张小斐 学人精",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1707743554,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 476823,
-      "num": 204977,
-      "word": "高额彩礼之下重负的农村父母",
-      "onboard_time": 1707871289,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476474,
@@ -2433,6 +2441,14 @@
       "onboard_time": 1707619828,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433654,
+      "num": 433654,
+      "word": "龚俊cos财神",
+      "onboard_time": 1707872852,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433358,
@@ -3163,6 +3179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 314200,
+      "num": 314200,
+      "word": "星宇",
+      "onboard_time": 1707869847,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1707710731,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 302594,
+      "num": 302594,
+      "word": "看韩国综艺的人深深懂了",
+      "onboard_time": 1707872913,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 300254,
@@ -3289,14 +3321,6 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291097,
-      "num": 291097,
-      "word": "星宇",
-      "onboard_time": 1707869847,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 288853,
@@ -3404,7 +3428,7 @@
     },
     {
       "raw_hot": 278458,
-      "num": 204545,
+      "num": 270508,
       "word": "00后的亲戚关系全靠长辈维持",
       "onboard_time": 1707868646,
       "rank": 21,
@@ -4027,6 +4051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235296,
+      "num": 235296,
+      "word": "姐姐抢走红包被弟弟抱起转圈圈",
+      "onboard_time": 1707869788,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235215,
       "num": 235215,
       "word": "贾玲称过去一年不快乐但值得",
@@ -4135,6 +4167,14 @@
       "num": 230364,
       "word": "新郎回应我们这边入赘很常见",
       "onboard_time": 1707656915,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 230172,
+      "num": 189100,
+      "word": "200万农村自建房入住体验",
+      "onboard_time": 1707873989,
       "rank": 30,
       "category": "情感"
     },
@@ -4339,6 +4379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216496,
+      "num": 216496,
+      "word": "迪丽热巴于朦胧说悄悄话",
+      "onboard_time": 1707873931,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216098,
       "num": 216098,
       "word": "贾玲战损版",
@@ -4457,14 +4505,6 @@
       "onboard_time": 1707624150,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210488,
-      "num": 204195,
-      "word": "姐姐抢走红包被弟弟抱起转圈圈",
-      "onboard_time": 1707869788,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210399,
@@ -4603,14 +4643,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 205661,
-      "num": 205661,
-      "word": "龚俊cos财神",
-      "onboard_time": 1707872852,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205516,
       "num": 205516,
       "word": "小尼手里到底剩了两张什么扑克牌",
@@ -4745,6 +4777,14 @@
       "onboard_time": 1707814601,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199662,
+      "num": 199662,
+      "word": "梨形身材就跳普拉提",
+      "onboard_time": 1707872554,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 199589,
@@ -4947,12 +4987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189751,
+      "num": 189751,
+      "word": "大学生德华是玩梗也是认同",
+      "onboard_time": 1707873392,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189554,
       "num": 189554,
       "word": "尔滨咱下个冬天再见",
       "onboard_time": 1707871650,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 188723,
+      "num": 188723,
+      "word": "初五迎财神也要送穷神",
+      "onboard_time": 1707872913,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 188590,
@@ -5209,14 +5265,6 @@
       "onboard_time": 1707648569,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178503,
-      "num": 178503,
-      "word": "梨形身材就跳普拉提",
-      "onboard_time": 1707872554,
-      "rank": 28,
-      "category": "运动健身"
     },
     {
       "raw_hot": 177834,
@@ -5531,6 +5579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 166420,
+      "num": 166420,
+      "word": "中国人拜的财神到底是谁",
+      "onboard_time": 1707869606,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166390,
       "num": 166390,
       "word": "国乒釜山第一练",
@@ -5649,6 +5705,22 @@
       "onboard_time": 1707823778,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161276,
+      "num": 161276,
+      "word": "选择性社交冷漠症",
+      "onboard_time": 1707869187,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161027,
+      "num": 161027,
+      "word": "TWS与IU音源榜单破表",
+      "onboard_time": 1707873271,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 160998,
@@ -5793,6 +5865,14 @@
       "onboard_time": 1707816824,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156346,
+      "num": 156346,
+      "word": "小伙情人节送女友2米高发财树和零食花",
+      "onboard_time": 1707873872,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156330,
@@ -5947,14 +6027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152802,
-      "num": 152802,
-      "word": "中国人拜的财神到底是谁",
-      "onboard_time": 1707869606,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152050,
       "num": 144778,
       "word": "我努力过无数次 机会只在一两次",
@@ -5992,14 +6064,6 @@
       "word": "今天破五",
       "onboard_time": 1707866962,
       "rank": 13,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 151512,
-      "num": 151512,
-      "word": "选择性社交冷漠症",
-      "onboard_time": 1707869187,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -6899,14 +6963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124635,
-      "num": 124635,
-      "word": "看韩国综艺的人深深懂了",
-      "onboard_time": 1707872913,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124523,
       "num": 127018,
       "word": "杨舒予巴黎见",
@@ -7097,6 +7153,14 @@
       "onboard_time": 1707726871,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119311,
+      "num": 119311,
+      "word": "当年轻人在饭桌上有一点点话语权",
+      "onboard_time": 1707872554,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 119222,
@@ -7467,14 +7531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108850,
-      "num": 108850,
-      "word": "初五迎财神也要送穷神",
-      "onboard_time": 1707872913,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108261,
       "num": 117846,
       "word": "延续80年的初一头碗饺子敬英烈",
@@ -7569,6 +7625,14 @@
       "onboard_time": 1707798456,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 103701,
+      "num": 103701,
+      "word": "魔术退役奥尼尔球衣",
+      "onboard_time": 1707874112,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103476,

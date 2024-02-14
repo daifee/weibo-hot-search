@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707873124916,
+  "endTime": 1707874291534,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1427,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1798747,
+      "num": 1798747,
+      "word": "钱辈请和我交往",
+      "onboard_time": 1707865818,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1795940,
       "num": 1795940,
       "word": "大年初三睡到饱",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1707130652,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1756654,
-      "num": 1756654,
-      "word": "钱辈请和我交往",
-      "onboard_time": 1707865818,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1753812,
@@ -2331,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1345091,
+      "num": 1345091,
+      "word": "微信开放情人节520红包",
+      "onboard_time": 1707869488,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1339319,
       "num": 1339319,
       "word": "华中农大黄某某被解聘",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1707475472,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1306501,
-      "num": 1306501,
-      "word": "微信开放情人节520红包",
-      "onboard_time": 1707869488,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1301722,
@@ -3619,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1036918,
+      "num": 1036918,
+      "word": "第二十条连续票房逆跌",
+      "onboard_time": 1707870631,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1033615,
       "num": 1033615,
       "word": "墨宝非宝能成为下一个顾漫吗",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1707434720,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1021705,
+      "num": 1021705,
+      "word": "财神壁纸",
+      "onboard_time": 1707866542,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1020563,
@@ -4187,14 +4203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 933739,
-      "num": 933739,
-      "word": "第二十条连续票房逆跌",
-      "onboard_time": 1707870631,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 933388,
       "num": 933388,
       "word": "马思纯是周冬雨唯一的姐",
@@ -4377,14 +4385,6 @@
       "onboard_time": 1706795611,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 901601,
-      "num": 901601,
-      "word": "财神壁纸",
-      "onboard_time": 1707866542,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 901558,
@@ -4811,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840158,
+      "num": 840158,
+      "word": "杜乐莹是怎么爱上昊坤的",
+      "onboard_time": 1707870688,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 839848,
       "num": 839848,
       "word": "何炅上春晚",
@@ -5217,14 +5225,6 @@
       "onboard_time": 1706780013,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 794547,
-      "num": 794547,
-      "word": "杜乐莹是怎么爱上昊坤的",
-      "onboard_time": 1707870688,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 794537,
@@ -7659,6 +7659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589552,
+      "num": 589552,
+      "word": "韩国队内讧",
+      "onboard_time": 1707873631,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589432,
       "num": 589432,
       "word": "龙年央视春晚第四次联排",
@@ -7857,6 +7865,14 @@
       "onboard_time": 1706780972,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573143,
+      "num": 573143,
+      "word": "官方辟谣福州2.1亿元天价婚礼",
+      "onboard_time": 1707869426,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573070,
@@ -8611,14 +8627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 531255,
-      "num": 531255,
-      "word": "官方辟谣福州2.1亿元天价婚礼",
-      "onboard_time": 1707869426,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530707,
       "num": 530707,
       "word": "小尼在新疆听到了朱广权的笑声",
@@ -9371,6 +9379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492202,
+      "num": 275557,
+      "word": "高额彩礼之下重负的农村父母",
+      "onboard_time": 1707871289,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491345,
       "num": 447812,
       "word": "齐思钧赵昭仪芒果年会主持人",
@@ -9681,14 +9697,6 @@
       "onboard_time": 1707118529,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 476823,
-      "num": 204977,
-      "word": "高额彩礼之下重负的农村父母",
-      "onboard_time": 1707871289,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476552,
@@ -10489,6 +10497,14 @@
       "onboard_time": 1707537456,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 433654,
+      "num": 433654,
+      "word": "龚俊cos财神",
+      "onboard_time": 1707872852,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433358,
@@ -13859,6 +13875,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 314200,
+      "num": 314200,
+      "word": "星宇",
+      "onboard_time": 1707869847,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314111,
       "num": 314111,
       "word": "杨幂雪中撑伞",
@@ -14363,6 +14387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302594,
+      "num": 302594,
+      "word": "看韩国综艺的人深深懂了",
+      "onboard_time": 1707872913,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301821,
       "num": 301821,
       "word": "彭昱畅和天津大爷一块跳水",
@@ -14801,14 +14833,6 @@
       "onboard_time": 1706933970,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291097,
-      "num": 291097,
-      "word": "星宇",
-      "onboard_time": 1707869847,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 290921,
@@ -15316,7 +15340,7 @@
     },
     {
       "raw_hot": 278458,
-      "num": 204545,
+      "num": 270508,
       "word": "00后的亲戚关系全靠长辈维持",
       "onboard_time": 1707868646,
       "rank": 21,
@@ -17907,6 +17931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235296,
+      "num": 235296,
+      "word": "姐姐抢走红包被弟弟抱起转圈圈",
+      "onboard_time": 1707869788,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235248,
       "num": 235248,
       "word": "周也林一含花吻",
@@ -18297,6 +18329,14 @@
       "onboard_time": 1706885613,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230172,
+      "num": 189100,
+      "word": "200万农村自建房入住体验",
+      "onboard_time": 1707873989,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 230133,
@@ -19443,6 +19483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216496,
+      "num": 216496,
+      "word": "迪丽热巴于朦胧说悄悄话",
+      "onboard_time": 1707873931,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216445,
       "num": 216445,
       "word": "中国同23国全面互免签证",
@@ -19897,14 +19945,6 @@
       "onboard_time": 1707301112,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210488,
-      "num": 204195,
-      "word": "姐姐抢走红包被弟弟抱起转圈圈",
-      "onboard_time": 1707869788,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210425,
@@ -20513,14 +20553,6 @@
       "onboard_time": 1706792553,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205661,
-      "num": 205661,
-      "word": "龚俊cos财神",
-      "onboard_time": 1707872852,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205578,
@@ -21377,6 +21409,14 @@
       "onboard_time": 1707362250,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199662,
+      "num": 199662,
+      "word": "梨形身材就跳普拉提",
+      "onboard_time": 1707872554,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 199589,
@@ -22691,6 +22731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189751,
+      "num": 189751,
+      "word": "大学生德华是玩梗也是认同",
+      "onboard_time": 1707873392,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189608,
       "num": 189608,
       "word": "WB战胜WE",
@@ -22817,6 +22865,14 @@
       "onboard_time": 1707551137,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188723,
+      "num": 188723,
+      "word": "初五迎财神也要送穷神",
+      "onboard_time": 1707872913,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 188684,
@@ -23921,14 +23977,6 @@
       "onboard_time": 1706758290,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 178503,
-      "num": 178503,
-      "word": "梨形身材就跳普拉提",
-      "onboard_time": 1707872554,
-      "rank": 28,
-      "category": "运动健身"
     },
     {
       "raw_hot": 178424,
@@ -25531,6 +25579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166420,
+      "num": 166420,
+      "word": "中国人拜的财神到底是谁",
+      "onboard_time": 1707869606,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166390,
       "num": 166390,
       "word": "国乒釜山第一练",
@@ -26147,6 +26203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161276,
+      "num": 161276,
+      "word": "选择性社交冷漠症",
+      "onboard_time": 1707869187,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161266,
       "num": 161266,
       "word": "NONO性侵案重启调查",
@@ -26161,6 +26225,14 @@
       "onboard_time": 1707318517,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161027,
+      "num": 161027,
+      "word": "TWS与IU音源榜单破表",
+      "onboard_time": 1707873271,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 161015,
@@ -26747,6 +26819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156346,
+      "num": 156346,
+      "word": "小伙情人节送女友2米高发财树和零食花",
+      "onboard_time": 1707873872,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156330,
       "num": 156330,
       "word": "范丞丞孙艺洲你俩有点暧昧了",
@@ -27259,14 +27339,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 152802,
-      "num": 152802,
-      "word": "中国人拜的财神到底是谁",
-      "onboard_time": 1707869606,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152763,
       "num": 152763,
       "word": "网友调侃邓紫棋上场时间比梅西多",
@@ -27416,14 +27488,6 @@
       "word": "今天破五",
       "onboard_time": 1707866962,
       "rank": 13,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 151512,
-      "num": 151512,
-      "word": "选择性社交冷漠症",
-      "onboard_time": 1707869187,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -31427,14 +31491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124635,
-      "num": 124635,
-      "word": "看韩国综艺的人深深懂了",
-      "onboard_time": 1707872913,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124603,
       "num": 124603,
       "word": "舌尖美食接龙",
@@ -32209,6 +32265,14 @@
       "onboard_time": 1707376889,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119311,
+      "num": 119311,
+      "word": "当年轻人在饭桌上有一点点话语权",
+      "onboard_time": 1707872554,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 119222,
@@ -33459,14 +33523,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 108850,
-      "num": 108850,
-      "word": "初五迎财神也要送穷神",
-      "onboard_time": 1707872913,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108709,
       "num": 108709,
       "word": "草木皆冰",
@@ -33832,6 +33888,14 @@
       "word": "拜仁vs门兴",
       "onboard_time": 1706975909,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103701,
+      "num": 103701,
+      "word": "魔术退役奥尼尔球衣",
+      "onboard_time": 1707874112,
+      "rank": 48,
       "category": "体育"
     },
     {
