@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707880755405,
+  "endTime": 1707881742901,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1083,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883598,
+      "num": 883598,
+      "word": "财政部评论区成许愿池",
+      "onboard_time": 1707879088,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 866710,
       "num": 866710,
       "word": "莫斯科交易所暂停股票交易",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1707696566,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 791392,
+      "num": 791392,
+      "word": "赵丽颖战损妆梦回楚乔",
+      "onboard_time": 1707880532,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 787591,
@@ -1563,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 644573,
+      "num": 644573,
+      "word": "杨超越 我的歌不好看吗",
+      "onboard_time": 1707877712,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639143,
       "num": 639143,
       "word": "老祖宗的审美",
@@ -1755,14 +1779,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 594966,
-      "num": 594966,
-      "word": "杨超越 我的歌不好看吗",
-      "onboard_time": 1707877712,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 593436,
       "num": 593436,
       "word": "不敢相信这是76岁人的状态",
@@ -1827,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 583558,
+      "num": 583558,
+      "word": "赵丽颖张碧晨五搭",
+      "onboard_time": 1707881070,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583125,
       "num": 314551,
       "word": "这6类微信红包千万别点开",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1707647012,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 576371,
+      "num": 604214,
+      "word": "财政部邀大家打卡",
+      "onboard_time": 1707875911,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576157,
@@ -2155,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507484,
+      "num": 507484,
+      "word": "高额彩礼之下重负的农村父母",
+      "onboard_time": 1707871289,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507435,
       "num": 507435,
       "word": "treasure全团上恋综",
@@ -2225,14 +2265,6 @@
       "onboard_time": 1707646834,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 492202,
-      "num": 490073,
-      "word": "高额彩礼之下重负的农村父母",
-      "onboard_time": 1707871289,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489928,
@@ -2321,14 +2353,6 @@
       "onboard_time": 1707837637,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 472805,
-      "num": 472805,
-      "word": "财政部评论区成许愿池",
-      "onboard_time": 1707879088,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 470217,
@@ -2441,6 +2465,14 @@
       "onboard_time": 1707799478,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440729,
+      "num": 440729,
+      "word": "沪上阿姨在港递交上市申请",
+      "onboard_time": 1707879749,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 440649,
@@ -2633,14 +2665,6 @@
       "onboard_time": 1707630812,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415991,
-      "num": 604214,
-      "word": "财政部邀大家打卡",
-      "onboard_time": 1707875911,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413794,
@@ -2915,14 +2939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365963,
-      "num": 365963,
-      "word": "赵丽颖战损妆梦回楚乔",
-      "onboard_time": 1707880532,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 364015,
       "num": 311263,
       "word": "马丽回应观众妈妈喜欢春晚上的鞋",
@@ -3011,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349311,
+      "num": 306492,
+      "word": "这届年轻人为啥要钱不要爱",
+      "onboard_time": 1707879030,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 349275,
       "num": 349275,
       "word": "超级碗",
@@ -3065,14 +3089,6 @@
       "onboard_time": 1707616827,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 343452,
-      "num": 294565,
-      "word": "这届年轻人为啥要钱不要爱",
-      "onboard_time": 1707879030,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 343281,
@@ -3313,6 +3329,14 @@
       "onboard_time": 1707608361,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309232,
+      "num": 208077,
+      "word": "网友模仿上春山",
+      "onboard_time": 1707881728,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 308669,
@@ -3681,14 +3705,6 @@
       "onboard_time": 1707696988,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269875,
-      "num": 269875,
-      "word": "沪上阿姨在港递交上市申请",
-      "onboard_time": 1707879749,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 269824,
@@ -4113,6 +4129,14 @@
       "onboard_time": 1707579991,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238779,
+      "num": 238779,
+      "word": "惠英红包 刘浩存钱",
+      "onboard_time": 1707881728,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 238347,
@@ -4883,6 +4907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200732,
+      "num": 200732,
+      "word": "寒假作业is due",
+      "onboard_time": 1707877951,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200716,
       "num": 200716,
       "word": "巧克力小狗",
@@ -5067,6 +5099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194397,
+      "num": 194397,
+      "word": "财神来到我家门",
+      "onboard_time": 1707880532,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193349,
       "num": 193349,
       "word": "李健愿天下有情人终成圆满",
@@ -5139,6 +5179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190926,
+      "num": 190926,
+      "word": "广东人迎财神有多拼",
+      "onboard_time": 1707881728,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190464,
       "num": 190464,
       "word": "马宁称中国足球裁判实现了小目标",
@@ -5153,6 +5201,14 @@
       "onboard_time": 1707627511,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189574,
+      "num": 189574,
+      "word": "热辣滚烫春节档上半程票房冠军",
+      "onboard_time": 1707877833,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 189554,
@@ -5243,14 +5299,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 186087,
-      "num": 186087,
-      "word": "热辣滚烫春节档上半程票房冠军",
-      "onboard_time": 1707877833,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185901,
       "num": 185901,
       "word": "今年过年直接掀桌了",
@@ -5272,22 +5320,6 @@
       "word": "终于明白为什么有人不想回家过年了",
       "onboard_time": 1707713851,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 185204,
-      "num": 185204,
-      "word": "寒假作业is due",
-      "onboard_time": 1707877951,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 184944,
-      "num": 184944,
-      "word": "财神来到我家门",
-      "onboard_time": 1707880532,
-      "rank": 35,
       "category": "情感"
     },
     {
@@ -5401,6 +5433,14 @@
       "onboard_time": 1707869187,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179631,
+      "num": 1462761,
+      "word": "龙行龘龘前程朤朤",
+      "onboard_time": 1707879630,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179596,
@@ -5699,12 +5739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169141,
+      "num": 169141,
+      "word": "英雄联盟手游 情限抽奖",
+      "onboard_time": 1707881251,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169037,
       "num": 169037,
       "word": "希望被人喜欢会让你变得软弱",
       "onboard_time": 1707664473,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168750,
+      "num": 168750,
+      "word": "冰雪大世界化了",
+      "onboard_time": 1707881551,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 168430,
@@ -5857,6 +5913,14 @@
       "onboard_time": 1707715232,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163263,
+      "num": 163263,
+      "word": "拜财神刻入中国人DNA",
+      "onboard_time": 1707880712,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 162708,
@@ -6321,14 +6385,6 @@
       "onboard_time": 1707818259,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 150024,
-      "num": 185050,
-      "word": "龙行龘龘前程朤朤",
-      "onboard_time": 1707879630,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149948,
@@ -6824,6 +6880,14 @@
       "word": "戏曲加武术给老外双重震撼",
       "onboard_time": 1707721050,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134437,
+      "num": 134437,
+      "word": "大年初五祝你多财多亿",
+      "onboard_time": 1707880773,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -7705,14 +7769,6 @@
       "onboard_time": 1707797433,
       "rank": 43,
       "category": "其它"
-    },
-    {
-      "raw_hot": 111597,
-      "num": 111597,
-      "word": "拜财神刻入中国人DNA",
-      "onboard_time": 1707880712,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 111551,
@@ -8752,6 +8808,9 @@
     },
     {
       "word": "#心系民生冷暖情牵万家灯火#"
+    },
+    {
+      "word": "#弘扬拥政爱民拥军优属光荣传统#"
     }
   ]
 }
