@@ -1,0 +1,410 @@
+{
+  "runTime": 1707917639190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928864,
+        "num": 1928864,
+        "word": "内娱体脂率最低的一对情侣",
+        "onboard_time": 1707907837,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1223775,
+        "num": 1223775,
+        "word": "第二十条南京路演影院致歉",
+        "onboard_time": 1707914678,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52664,
+        "num": 1069972,
+        "word": "网络中国节",
+        "onboard_time": 1707899073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1768944,
+        "num": 1035891,
+        "word": "王骁被骂",
+        "onboard_time": 1707905917,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 974327,
+        "num": 974327,
+        "word": "范丞丞脏辫",
+        "onboard_time": 1707915278,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1085619,
+        "num": 933191,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 882620,
+        "num": 882620,
+        "word": "罗云熙探班陈飞宇",
+        "onboard_time": 1707914137,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831513,
+        "num": 831513,
+        "word": "杜淳老婆王灿回怼网友恶评",
+        "onboard_time": 1707910959,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436186,
+        "num": 716563,
+        "word": "我在三线小城开婚介所年赚60万",
+        "onboard_time": 1707910537,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 296112,
+        "num": 700328,
+        "word": "2024春节档总票房已破50亿元",
+        "onboard_time": 1707915156,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696118,
+        "num": 696118,
+        "word": "舅舅的舅舅的舅舅叫什么",
+        "onboard_time": 1707900694,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 693211,
+        "num": 693211,
+        "word": "情人节好多人把花扔了",
+        "onboard_time": 1707906517,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 594115,
+        "num": 594115,
+        "word": "李金铭近照状态",
+        "onboard_time": 1707916778,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683347,
+        "num": 578170,
+        "word": "钟楚曦侯雯元情人节官宣",
+        "onboard_time": 1707890314,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426071,
+        "num": 426071,
+        "word": "日本鹿儿岛县樱岛火山喷发",
+        "onboard_time": 1707915639,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 579572,
+        "num": 419565,
+        "word": "朱丹周一围情人节合照",
+        "onboard_time": 1707911678,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408453,
+        "num": 408453,
+        "word": "因几万彩礼谈不拢取消订婚",
+        "onboard_time": 1707901296,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380538,
+        "num": 380538,
+        "word": "ChatGPT有记忆了",
+        "onboard_time": 1707912575,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 438752,
+        "num": 380081,
+        "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
+        "onboard_time": 1707901356,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378690,
+        "num": 378690,
+        "word": "周杰伦昆凌情人节一起打网球",
+        "onboard_time": 1707915695,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401828,
+        "num": 371200,
+        "word": "新姑爷第一次上门压塌老丈人床",
+        "onboard_time": 1707912459,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363557,
+        "num": 363557,
+        "word": "钟丽缇53岁身材",
+        "onboard_time": 1707910959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354337,
+        "num": 354337,
+        "word": "撒贝宁夫妇带孩子回老家过年",
+        "onboard_time": 1707909519,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305221,
+        "num": 305221,
+        "word": "预算200可以去哪个国家",
+        "onboard_time": 1707909519,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304040,
+        "num": 304040,
+        "word": "一男子被终身禁入成都熊猫基地",
+        "onboard_time": 1707916778,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283454,
+        "num": 283454,
+        "word": "农村大龄男开始迎娶二婚女",
+        "onboard_time": 1707903217,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270569,
+        "num": 270569,
+        "word": "张凌赫帮粉丝选美甲",
+        "onboard_time": 1707912758,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261449,
+        "num": 261449,
+        "word": "情人节 相亲",
+        "onboard_time": 1707905312,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256081,
+        "num": 256081,
+        "word": "边伯贤泡泡",
+        "onboard_time": 1707913237,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244643,
+        "num": 244643,
+        "word": "晚上有这3个习惯或会变胖变丑",
+        "onboard_time": 1707908677,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228963,
+        "num": 228963,
+        "word": "化妆师供不应求",
+        "onboard_time": 1707917137,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218357,
+        "num": 218357,
+        "word": "梨形是科学家眼中最健康的身材",
+        "onboard_time": 1707904177,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212124,
+        "num": 212124,
+        "word": "再听肖战献唱如愿依旧满满感动",
+        "onboard_time": 1707917257,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210057,
+        "num": 210057,
+        "word": "四川一火锅店将两天营收全部给员工",
+        "onboard_time": 1707914376,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208129,
+        "num": 208129,
+        "word": "钟楚曦大唐狄公案的妆是自己画的",
+        "onboard_time": 1707906816,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197125,
+        "num": 197125,
+        "word": "情人节快乐",
+        "onboard_time": 1707917318,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189140,
+        "num": 189140,
+        "word": "贾玲 最美的盛开是反击",
+        "onboard_time": 1707917377,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177364,
+        "num": 177364,
+        "word": "林亦扬求婚成功",
+        "onboard_time": 1707911437,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176718,
+        "num": 176718,
+        "word": "欧阳娜娜 她姐姐喜欢她",
+        "onboard_time": 1707903158,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167869,
+        "num": 167869,
+        "word": "乌方称击沉俄黑海舰队一大型登陆舰",
+        "onboard_time": 1707916417,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167271,
+        "num": 167271,
+        "word": "在暴雪时分大结局",
+        "onboard_time": 1707904655,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167167,
+        "num": 167167,
+        "word": "龙最多的地方在哪",
+        "onboard_time": 1707916959,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162944,
+        "num": 162944,
+        "word": "财政部许愿池里45%个人所得税是啥",
+        "onboard_time": 1707902916,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162769,
+        "num": 162769,
+        "word": "马斯克回应特斯拉员工车祸死亡事件",
+        "onboard_time": 1707916959,
+        "rank": 43,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 150355,
+        "num": 150355,
+        "word": "张婧仪黑贝雷帽",
+        "onboard_time": 1707911800,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145307,
+        "num": 145307,
+        "word": "财政部许愿池",
+        "onboard_time": 1707898474,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144045,
+        "num": 144045,
+        "word": "发现人类一个可爱的共同点",
+        "onboard_time": 1707915579,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141082,
+        "num": 141082,
+        "word": "酸奶真的助消化吗",
+        "onboard_time": 1707916356,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134663,
+        "num": 134663,
+        "word": "五路财神",
+        "onboard_time": 1707888631,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133300,
+        "num": 133300,
+        "word": "杨紫黑色小香",
+        "onboard_time": 1707904061,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造温暖和谐的社会氛围#"
+    }
+  }
+}
