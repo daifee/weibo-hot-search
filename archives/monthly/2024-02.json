@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707878027150,
+  "endTime": 1707880755405,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3171,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1122752,
+      "num": 1122752,
+      "word": "情人节骂醒恋爱脑销量暴增3倍",
+      "onboard_time": 1707876154,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1119862,
       "num": 1119862,
       "word": "大年初一醒来就被膈应了",
@@ -5091,14 +5099,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 804716,
-      "num": 804716,
-      "word": "情人节骂醒恋爱脑销量暴增3倍",
-      "onboard_time": 1707876154,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 804699,
       "num": 804699,
       "word": "大唐不夜城因人流量大取消今日演出",
@@ -6257,6 +6257,14 @@
       "onboard_time": 1707368129,
       "rank": 7,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 696661,
+      "num": 696661,
+      "word": "一宝 云陪产",
+      "onboard_time": 1707878490,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 694916,
@@ -7555,12 +7563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596533,
+      "num": 596533,
+      "word": "黑执事作者曾阻止真人版角色恋爱",
+      "onboard_time": 1707876090,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 595157,
       "num": 595157,
       "word": "真实胎动",
       "onboard_time": 1706771249,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 594966,
+      "num": 594966,
+      "word": "杨超越 我的歌不好看吗",
+      "onboard_time": 1707877712,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 594497,
@@ -9412,7 +9436,7 @@
     },
     {
       "raw_hot": 492202,
-      "num": 310875,
+      "num": 490073,
       "word": "高额彩礼之下重负的农村父母",
       "onboard_time": 1707871289,
       "rank": 20,
@@ -9817,6 +9841,14 @@
       "onboard_time": 1707837637,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472805,
+      "num": 472805,
+      "word": "财政部评论区成许愿池",
+      "onboard_time": 1707879088,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 472770,
@@ -10979,20 +11011,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415991,
+      "num": 604214,
+      "word": "财政部邀大家打卡",
+      "onboard_time": 1707875911,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415551,
       "num": 415551,
       "word": "要久久爱大结局",
       "onboard_time": 1707304413,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 415116,
-      "num": 415116,
-      "word": "黑执事作者曾阻止真人版角色恋爱",
-      "onboard_time": 1707876090,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 415014,
@@ -12331,6 +12363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365963,
+      "num": 365963,
+      "word": "赵丽颖战损妆梦回楚乔",
+      "onboard_time": 1707880532,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365675,
       "num": 365675,
       "word": "最苏的现偶男主",
@@ -13001,6 +13041,14 @@
       "onboard_time": 1707389733,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343452,
+      "num": 294565,
+      "word": "这届年轻人为啥要钱不要爱",
+      "onboard_time": 1707879030,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 343281,
@@ -15067,6 +15115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285188,
+      "num": 285188,
+      "word": "在暴雪时分情人节联姻局",
+      "onboard_time": 1707878910,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285080,
       "num": 285080,
       "word": "宋江入伍前最后一次活动",
@@ -15217,14 +15273,6 @@
       "onboard_time": 1707048213,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 281458,
-      "num": 281458,
-      "word": "财政部邀大家打卡",
-      "onboard_time": 1707875911,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281426,
@@ -15913,6 +15961,14 @@
       "onboard_time": 1707211950,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269875,
+      "num": 269875,
+      "word": "沪上阿姨在港递交上市申请",
+      "onboard_time": 1707879749,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 269824,
@@ -17843,6 +17899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236866,
+      "num": 236866,
+      "word": "25岁新人翻拍父母25岁婚纱照",
+      "onboard_time": 1707879212,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236798,
       "num": 236798,
       "word": "贝克汉姆被嘘",
@@ -18185,6 +18249,14 @@
       "onboard_time": 1707836440,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232887,
+      "num": 232887,
+      "word": "夫妻花7年包揽全部工作做出一部电影",
+      "onboard_time": 1707878551,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232862,
@@ -20811,6 +20883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204435,
+      "num": 204435,
+      "word": "时代少年团情人节新歌预告",
+      "onboard_time": 1707880172,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204374,
       "num": 204374,
       "word": "李沁曾舜晞七夜雪镜头",
@@ -21635,6 +21715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198493,
+      "num": 198493,
+      "word": "美国当前流感季已有1.5万人死亡",
+      "onboard_time": 1707878850,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198445,
       "num": 198445,
       "word": "杨博文元气男初",
@@ -21681,6 +21769,14 @@
       "onboard_time": 1707100292,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197817,
+      "num": 197817,
+      "word": "邓为红衣婚服路透",
+      "onboard_time": 1707877115,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 197619,
@@ -23267,6 +23363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186087,
+      "num": 186087,
+      "word": "热辣滚烫春节档上半程票房冠军",
+      "onboard_time": 1707877833,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185901,
       "num": 185901,
       "word": "今年过年直接掀桌了",
@@ -23355,11 +23459,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185204,
+      "num": 185204,
+      "word": "寒假作业is due",
+      "onboard_time": 1707877951,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184957,
       "num": 184957,
       "word": "原来不是没有年味了",
       "onboard_time": 1707206371,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 184944,
+      "num": 184944,
+      "word": "财神来到我家门",
+      "onboard_time": 1707880532,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -24561,14 +24681,6 @@
       "onboard_time": 1707135631,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174260,
-      "num": 174260,
-      "word": "邓为红衣婚服路透",
-      "onboard_time": 1707877115,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 174258,
@@ -27003,14 +27115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155457,
-      "num": 155457,
-      "word": "杨超越 我的歌不好看吗",
-      "onboard_time": 1707877712,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155320,
       "num": 155320,
       "word": "腹股沟拉伤自行愈合有多难",
@@ -28395,6 +28499,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 145708,
+      "num": 145708,
+      "word": "美国国会众议院通过对国土安全部长的弹劾",
+      "onboard_time": 1707877470,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 145704,
       "num": 145704,
       "word": "一年过2次的节日",
@@ -29529,14 +29641,6 @@
       "onboard_time": 1707281371,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138025,
-      "num": 138025,
-      "word": "美国国会众议院通过对国土安全部长的弹劾",
-      "onboard_time": 1707877470,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 137973,
@@ -30873,6 +30977,14 @@
       "onboard_time": 1707289350,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129763,
+      "num": 129763,
+      "word": "伦纳德缺席对阵勇士比赛",
+      "onboard_time": 1707880290,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 129724,
@@ -32619,14 +32731,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 117250,
-      "num": 117250,
-      "word": "热辣滚烫春节档上半程票房冠军",
-      "onboard_time": 1707877833,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117177,
       "num": 117177,
       "word": "龙年壁纸",
@@ -33339,6 +33443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111597,
+      "num": 111597,
+      "word": "拜财神刻入中国人DNA",
+      "onboard_time": 1707880712,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "广东千人英歌舞大场面",
@@ -33657,14 +33769,6 @@
       "onboard_time": 1707396271,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108450,
-      "num": 108450,
-      "word": "寒假作业is due",
-      "onboard_time": 1707877951,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 108315,
@@ -35289,6 +35393,14 @@
       "onboard_time": 1707276331,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78013,
+      "num": 118438,
+      "word": "传统纹样里的中式美学好绝",
+      "onboard_time": 1707877530,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77994,
