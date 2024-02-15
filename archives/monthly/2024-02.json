@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707985252335,
+  "endTime": 1707986080120,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2683,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1278686,
+      "num": 1278686,
+      "word": "哪个星座厌蠢症最强烈",
+      "onboard_time": 1707982892,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1276184,
       "num": 1276184,
       "word": "曹颖13岁儿子颜值",
@@ -3033,14 +3041,6 @@
       "onboard_time": 1706838689,
       "rank": 12,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1190953,
-      "num": 1190953,
-      "word": "哪个星座厌蠢症最强烈",
-      "onboard_time": 1707982892,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1189275,
@@ -7321,6 +7321,14 @@
       "onboard_time": 1707212133,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 659138,
+      "num": 659138,
+      "word": "金秀贤金智媛婚礼剧照",
+      "onboard_time": 1707985172,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 659132,
@@ -12380,7 +12388,7 @@
     },
     {
       "raw_hot": 402019,
-      "num": 264793,
+      "num": 271441,
       "word": "相亲对象的转账感觉负担好大",
       "onboard_time": 1707984032,
       "rank": 20,
@@ -13275,6 +13283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 374242,
+      "num": 374242,
+      "word": "赛琳娜ins感谢粉丝的配图被扒",
+      "onboard_time": 1707984090,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374229,
       "num": 374229,
       "word": "原来他就是刘耀文啊",
@@ -14147,14 +14163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349779,
-      "num": 349779,
-      "word": "赛琳娜ins感谢粉丝的配图被扒",
-      "onboard_time": 1707984090,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349739,
       "num": 349739,
       "word": "北京明确不安排一线教师寒假值班",
@@ -14537,6 +14545,14 @@
       "onboard_time": 1706710235,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334095,
+      "num": 334095,
+      "word": "女子东北开化后1天被迫干掉4斤大虾",
+      "onboard_time": 1707983190,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333659,
@@ -17067,6 +17083,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 276948,
+      "num": 276948,
+      "word": "摇太阳退出春节档",
+      "onboard_time": 1707984691,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276947,
       "num": 276947,
       "word": "薛之谦买菜帮助老人",
@@ -18051,14 +18075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259001,
-      "num": 259001,
-      "word": "女子东北开化后1天被迫干掉4斤大虾",
-      "onboard_time": 1707983190,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258765,
       "num": 258765,
       "word": "檀健次vlog里有魏大勋",
@@ -18889,6 +18905,14 @@
       "onboard_time": 1707014972,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246474,
+      "num": 246474,
+      "word": "苹果VisionPro遭遇退货潮",
+      "onboard_time": 1707984454,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 246458,
@@ -20619,14 +20643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224706,
-      "num": 224706,
-      "word": "金秀贤金智媛婚礼剧照",
-      "onboard_time": 1707985172,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224695,
       "num": 224695,
       "word": "花儿与少年5主题曲MV",
@@ -21707,14 +21723,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 213324,
-      "num": 213324,
-      "word": "苹果VisionPro遭遇退货潮",
-      "onboard_time": 1707984454,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "陈知易c",
@@ -22715,14 +22723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205070,
-      "num": 205070,
-      "word": "摇太阳退出春节档",
-      "onboard_time": 1707984691,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204980,
       "num": 204980,
       "word": "中国龙英文 loong",
@@ -22745,6 +22745,14 @@
       "onboard_time": 1707105753,
       "rank": 10,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 204920,
+      "num": 162288,
+      "word": "中文已经不是加密语言了",
+      "onboard_time": 1707985833,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 204808,
@@ -28641,6 +28649,14 @@
       "onboard_time": 1707823056,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162687,
+      "num": 162687,
+      "word": "相亲真的有感情吗",
+      "onboard_time": 1707985712,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 162538,
@@ -35619,6 +35635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117987,
+      "num": 117987,
+      "word": "拔完充电线再见又是一年",
+      "onboard_time": 1707985652,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117967,
       "num": 117967,
       "word": "山东舰实战化训练高燃大片",
@@ -36185,6 +36209,14 @@
       "onboard_time": 1707264508,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113538,
+      "num": 113538,
+      "word": "萨摩耶出淤泥而挑染",
+      "onboard_time": 1707985951,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 113485,

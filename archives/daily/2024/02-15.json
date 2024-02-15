@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707985252335,
+  "endTime": 1707986080120,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -67,20 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1278686,
+      "num": 1278686,
+      "word": "哪个星座厌蠢症最强烈",
+      "onboard_time": 1707982892,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1246714,
       "num": 987339,
       "word": "在场人员还原王骁被骂事件始末",
       "onboard_time": 1707953060,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1190953,
-      "num": 1190953,
-      "word": "哪个星座厌蠢症最强烈",
-      "onboard_time": 1707982892,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1181828,
@@ -315,6 +315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 659138,
+      "num": 659138,
+      "word": "金秀贤金智媛婚礼剧照",
+      "onboard_time": 1707985172,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 616277,
       "num": 616277,
       "word": "谢晖婚礼",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 402019,
-      "num": 264793,
+      "num": 271441,
       "word": "相亲对象的转账感觉负担好大",
       "onboard_time": 1707984032,
       "rank": 20,
@@ -619,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374242,
+      "num": 374242,
+      "word": "赛琳娜ins感谢粉丝的配图被扒",
+      "onboard_time": 1707984090,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373846,
       "num": 373846,
       "word": "张若昀魏晨最冷静的认亲",
@@ -683,14 +699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 349779,
-      "num": 349779,
-      "word": "赛琳娜ins感谢粉丝的配图被扒",
-      "onboard_time": 1707984090,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347336,
       "num": 347336,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -721,6 +729,14 @@
       "onboard_time": 1707914678,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 334095,
+      "num": 334095,
+      "word": "女子东北开化后1天被迫干掉4斤大虾",
+      "onboard_time": 1707983190,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331378,
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276948,
+      "num": 276948,
+      "word": "摇太阳退出春节档",
+      "onboard_time": 1707984691,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276771,
       "num": 276771,
       "word": "林孝埈武大靖500米晋级",
@@ -875,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259001,
-      "num": 259001,
-      "word": "女子东北开化后1天被迫干掉4斤大虾",
-      "onboard_time": 1707983190,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258765,
       "num": 258765,
       "word": "檀健次vlog里有魏大勋",
@@ -897,6 +913,14 @@
       "onboard_time": 1707965670,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246474,
+      "num": 246474,
+      "word": "苹果VisionPro遭遇退货潮",
+      "onboard_time": 1707984454,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 246458,
@@ -945,14 +969,6 @@
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224706,
-      "num": 224706,
-      "word": "金秀贤金智媛婚礼剧照",
-      "onboard_time": 1707985172,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 223355,
@@ -1027,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213324,
-      "num": 213324,
-      "word": "苹果VisionPro遭遇退货潮",
-      "onboard_time": 1707984454,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 209262,
       "num": 209262,
       "word": "再也不怕我妈催婚了",
@@ -1067,12 +1075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205070,
-      "num": 205070,
-      "word": "摇太阳退出春节档",
-      "onboard_time": 1707984691,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 204920,
+      "num": 162288,
+      "word": "中文已经不是加密语言了",
+      "onboard_time": 1707985833,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 200736,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1707917377,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162687,
+      "num": 162687,
+      "word": "相亲真的有感情吗",
+      "onboard_time": 1707985712,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 162433,
@@ -1715,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117987,
+      "num": 117987,
+      "word": "拔完充电线再见又是一年",
+      "onboard_time": 1707985652,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117330,
       "num": 117330,
       "word": "斯图尔特拳击尤班克斯",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1707971551,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113538,
+      "num": 113538,
+      "word": "萨摩耶出淤泥而挑染",
+      "onboard_time": 1707985951,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 112608,
