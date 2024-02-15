@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707996869517,
+  "endTime": 1708000209795,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -969,6 +969,14 @@
       "onboard_time": 1707227189,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2232213,
+      "num": 2232213,
+      "word": "贾玲 如果走位错了就把我打到那",
+      "onboard_time": 1707995616,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 2231802,
@@ -3459,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121671,
+      "num": 489651,
+      "word": "王灿说嫁给杜淳前已经财富自由",
+      "onboard_time": 1707997956,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1119862,
       "num": 1119862,
       "word": "大年初一醒来就被膈应了",
@@ -3745,6 +3761,14 @@
       "onboard_time": 1707394111,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1079936,
+      "num": 1079936,
+      "word": "对的不需要道歉",
+      "onboard_time": 1707997055,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1077455,
@@ -5001,14 +5025,6 @@
       "onboard_time": 1707392491,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 877671,
-      "num": 877671,
-      "word": "贾玲 如果走位错了就把我打到那",
-      "onboard_time": 1707995616,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 877428,
@@ -7475,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656482,
+      "num": 656482,
+      "word": "长相思2预计月底播出",
+      "onboard_time": 1707998377,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655982,
       "num": 655982,
       "word": "厚唇 大美女",
@@ -9299,6 +9323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543167,
+      "num": 543167,
+      "word": "徐梦洁去演短剧了",
+      "onboard_time": 1707995315,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542066,
       "num": 542066,
       "word": "准备和财神谈恋爱",
@@ -10179,14 +10211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501960,
-      "num": 501960,
-      "word": "徐梦洁去演短剧了",
-      "onboard_time": 1707995315,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 501922,
       "num": 358374,
       "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
@@ -10472,6 +10496,14 @@
       "word": "张小斐 学人精",
       "onboard_time": 1707836260,
       "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 489641,
+      "num": 489641,
+      "word": "贾玲14年前曾找减肥搭子",
+      "onboard_time": 1707998437,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -11809,6 +11841,14 @@
       "onboard_time": 1706852850,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429617,
+      "num": 429617,
+      "word": "王东连发五条微博怒斥妻子",
+      "onboard_time": 1707995073,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 428688,
@@ -13851,14 +13891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 364568,
-      "num": 364568,
-      "word": "王东连发五条微博怒斥妻子",
-      "onboard_time": 1707995073,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364344,
       "num": 364344,
       "word": "纪思清结婚",
@@ -14345,6 +14377,14 @@
       "onboard_time": 1707885812,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 350976,
+      "num": 312082,
+      "word": "檀健次分享朋友圈置顶内容",
+      "onboard_time": 1707997775,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350383,
@@ -15091,6 +15131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326618,
+      "num": 326618,
+      "word": "伏黑惠",
+      "onboard_time": 1707999694,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "曝湖人可能交易詹姆斯",
@@ -15193,6 +15241,14 @@
       "onboard_time": 1707481983,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323477,
+      "num": 277574,
+      "word": "突然好像没那么抵触相亲了",
+      "onboard_time": 1707996394,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 323461,
@@ -17987,6 +18043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265387,
+      "num": 265387,
+      "word": "婚姻凑活过不了一辈子",
+      "onboard_time": 1707997956,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -18881,14 +18945,6 @@
       "onboard_time": 1707892651,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251189,
-      "num": 251189,
-      "word": "突然好像没那么抵触相亲了",
-      "onboard_time": 1707996394,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 251161,
@@ -20075,6 +20131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235115,
+      "num": 235115,
+      "word": "手机充电一定要满充满放吗",
+      "onboard_time": 1707999158,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 234824,
       "num": 221175,
       "word": "会睡懒觉的人心血管更好",
@@ -20361,6 +20425,14 @@
       "onboard_time": 1706969794,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231953,
+      "num": 227134,
+      "word": "赵丽颖依然是求学路上的赶考生",
+      "onboard_time": 1707996813,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 231915,
@@ -20665,14 +20737,6 @@
       "onboard_time": 1706920948,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 227134,
-      "num": 227134,
-      "word": "赵丽颖依然是求学路上的赶考生",
-      "onboard_time": 1707996813,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 227083,
@@ -21257,6 +21321,14 @@
       "onboard_time": 1707717691,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220855,
+      "num": 220855,
+      "word": "李亚鹏妻子带女儿回娘家过年",
+      "onboard_time": 1707998136,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 220781,
@@ -26811,6 +26883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177953,
+      "num": 177953,
+      "word": "河南惊现贾玲分玲",
+      "onboard_time": 1707999997,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177834,
       "num": 177834,
       "word": "电子红包渐渐替代传统红包",
@@ -26985,6 +27065,14 @@
       "onboard_time": 1707012510,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "苏尔发文求助",
+      "onboard_time": 1707999515,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 176648,
@@ -27737,6 +27825,14 @@
       "onboard_time": 1706790155,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171054,
+      "num": 171054,
+      "word": "小短剧 弯道超车",
+      "onboard_time": 1707996636,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 171045,
@@ -29331,6 +29427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160775,
+      "num": 160775,
+      "word": "在妈妈怀里刚睡醒的小狗",
+      "onboard_time": 1707998795,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160760,
       "num": 160760,
       "word": "肖战张婧仪藏海传路透",
@@ -30819,6 +30923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149815,
+      "num": 149815,
+      "word": "热辣滚烫 女性健身面临的偏见",
+      "onboard_time": 1707997535,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149647,
       "num": 149647,
       "word": "科比8号雕像单手指天",
@@ -31187,6 +31299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147160,
+      "num": 147160,
+      "word": "英伟达创始人称必须学会计算机的时代过去了",
+      "onboard_time": 1708000116,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147118,
       "num": 147118,
       "word": "轻语的芈月",
@@ -31401,6 +31521,14 @@
       "onboard_time": 1707363991,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146247,
+      "num": 146247,
+      "word": "口蘑鲜汤面",
+      "onboard_time": 1707998550,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 146239,
@@ -31761,6 +31889,14 @@
       "onboard_time": 1707265770,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144038,
+      "num": 144038,
+      "word": "我在80年代当后妈",
+      "onboard_time": 1707998914,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 144028,
@@ -36123,14 +36259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 117781,
-      "num": 117781,
-      "word": "小短剧 弯道超车",
-      "onboard_time": 1707996636,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117720,
       "num": 117720,
       "word": "一起迎立春",
@@ -39265,6 +39393,14 @@
       "onboard_time": 1706904018,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73763,
+      "num": 132176,
+      "word": "王楚钦扣高球训练",
+      "onboard_time": 1707999938,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 73548,

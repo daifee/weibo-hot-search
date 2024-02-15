@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707996869517,
+  "endTime": 1708000209795,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -33,6 +33,14 @@
       "onboard_time": 1707979890,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2232213,
+      "num": 2232213,
+      "word": "贾玲 如果走位错了就把我打到那",
+      "onboard_time": 1707995616,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 2168799,
@@ -139,6 +147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1121671,
+      "num": 489651,
+      "word": "王灿说嫁给杜淳前已经财富自由",
+      "onboard_time": 1707997956,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1079936,
+      "num": 1079936,
+      "word": "对的不需要道歉",
+      "onboard_time": 1707997055,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1063637,
       "num": 1063637,
       "word": "何老师的脑洞我也是服了",
@@ -233,14 +257,6 @@
       "onboard_time": 1707952280,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877671,
-      "num": 877671,
-      "word": "贾玲 如果走位错了就把我打到那",
-      "onboard_time": 1707995616,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 867485,
@@ -435,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 656482,
+      "num": 656482,
+      "word": "长相思2预计月底播出",
+      "onboard_time": 1707998377,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 623433,
       "num": 623433,
       "word": "我使馆发布去巴厘岛安全提醒",
@@ -465,6 +489,14 @@
       "onboard_time": 1707964772,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 543167,
+      "num": 543167,
+      "word": "徐梦洁去演短剧了",
+      "onboard_time": 1707995315,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 541153,
@@ -555,20 +587,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 501960,
-      "num": 501960,
-      "word": "徐梦洁去演短剧了",
-      "onboard_time": 1707995315,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 500266,
       "num": 500266,
       "word": "历届春晚一等奖小品",
       "onboard_time": 1707960393,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 489641,
+      "num": 489641,
+      "word": "贾玲14年前曾找减肥搭子",
+      "onboard_time": 1707998437,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 484850,
@@ -657,6 +689,14 @@
       "onboard_time": 1707986972,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 429617,
+      "num": 429617,
+      "word": "王东连发五条微博怒斥妻子",
+      "onboard_time": 1707995073,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 427786,
@@ -859,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 364568,
-      "num": 364568,
-      "word": "王东连发五条微博怒斥妻子",
-      "onboard_time": 1707995073,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 357808,
       "num": 357808,
       "word": "婚姻给健康带来了什么",
@@ -889,6 +921,14 @@
       "onboard_time": 1707976052,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 350976,
+      "num": 312082,
+      "word": "檀健次分享朋友圈置顶内容",
+      "onboard_time": 1707997775,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347336,
@@ -929,6 +969,22 @@
       "onboard_time": 1707980192,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 326618,
+      "num": 326618,
+      "word": "伏黑惠",
+      "onboard_time": 1707999694,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 323477,
+      "num": 277574,
+      "word": "突然好像没那么抵触相亲了",
+      "onboard_time": 1707996394,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 316803,
@@ -1115,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265387,
+      "num": 265387,
+      "word": "婚姻凑活过不了一辈子",
+      "onboard_time": 1707997956,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264508,
       "num": 264508,
       "word": "全员加速中",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1707977489,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251189,
-      "num": 251189,
-      "word": "突然好像没那么抵触相亲了",
-      "onboard_time": 1707996394,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 250598,
@@ -1203,20 +1259,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235115,
+      "num": 235115,
+      "word": "手机充电一定要满充满放吗",
+      "onboard_time": 1707999158,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 231953,
+      "num": 227134,
+      "word": "赵丽颖依然是求学路上的赶考生",
+      "onboard_time": 1707996813,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231554,
       "num": 135584,
       "word": "大醉之后喝白开水可解酒",
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 227134,
-      "num": 227134,
-      "word": "赵丽颖依然是求学路上的赶考生",
-      "onboard_time": 1707996813,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 226493,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1707942618,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220855,
+      "num": 220855,
+      "word": "李亚鹏妻子带女儿回娘家过年",
+      "onboard_time": 1707998136,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 219776,
@@ -1635,6 +1707,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177953,
+      "num": 177953,
+      "word": "河南惊现贾玲分玲",
+      "onboard_time": 1707999997,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "苏尔发文求助",
+      "onboard_time": 1707999515,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175330,
       "num": 175330,
       "word": "李菲的小短剧",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1707963631,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171054,
+      "num": 171054,
+      "word": "小短剧 弯道超车",
+      "onboard_time": 1707996636,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 169250,
@@ -1747,6 +1843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160775,
+      "num": 160775,
+      "word": "在妈妈怀里刚睡醒的小狗",
+      "onboard_time": 1707998795,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159568,
       "num": 159568,
       "word": "高叶 你们不懂逗小狗的乐趣",
@@ -1811,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149815,
+      "num": 149815,
+      "word": "热辣滚烫 女性健身面临的偏见",
+      "onboard_time": 1707997535,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147693,
       "num": 147693,
       "word": "曝克林斯曼亲眼目睹韩国队内讧",
@@ -1819,12 +1931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147160,
+      "num": 147160,
+      "word": "英伟达创始人称必须学会计算机的时代过去了",
+      "onboard_time": 1708000116,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 146435,
       "num": 146435,
       "word": "aespa活动新闻图",
       "onboard_time": 1707926197,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146247,
+      "num": 146247,
+      "word": "口蘑鲜汤面",
+      "onboard_time": 1707998550,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 146063,
@@ -1849,6 +1977,14 @@
       "onboard_time": 1707972090,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144038,
+      "num": 144038,
+      "word": "我在80年代当后妈",
+      "onboard_time": 1707998914,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 143731,
@@ -2187,14 +2323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117781,
-      "num": 117781,
-      "word": "小短剧 弯道超车",
-      "onboard_time": 1707996636,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117330,
       "num": 117330,
       "word": "斯图尔特拳击尤班克斯",
@@ -2423,6 +2551,14 @@
       "num": 101160,
       "word": "勇士曾尝试交易詹姆斯",
       "onboard_time": 1707919840,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73763,
+      "num": 132176,
+      "word": "王楚钦扣高球训练",
+      "onboard_time": 1707999938,
       "rank": 49,
       "category": "体育"
     },
