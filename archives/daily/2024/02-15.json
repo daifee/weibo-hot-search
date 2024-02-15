@@ -1,7 +1,15 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707968043830,
+  "endTime": 1707970850809,
   "band_list": [
+    {
+      "raw_hot": 3340955,
+      "num": 350854,
+      "word": "网传白敬亭换衣服的原因",
+      "onboard_time": 1707968970,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2168799,
       "num": 423858,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1144838,
+      "num": 1144838,
+      "word": "杭州西湖2天捞起17部手机",
+      "onboard_time": 1707967531,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020365,
       "num": 735497,
       "word": "我感觉好像没有家了",
@@ -59,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953749,
+      "num": 748348,
+      "word": "普京称俄罗斯即将研制出癌症疫苗",
+      "onboard_time": 1707967411,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 949733,
       "num": 243020,
       "word": "王骁被骂",
@@ -73,6 +97,14 @@
       "onboard_time": 1707907837,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910084,
+      "num": 910084,
+      "word": "何老师的脑洞我也是服了",
+      "onboard_time": 1707966574,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 881672,
@@ -179,14 +211,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 577708,
-      "num": 409684,
-      "word": "何老师的脑洞我也是服了",
-      "onboard_time": 1707966574,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548496,
       "num": 548496,
       "word": "第二十条 校园暴力事件",
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492399,
+      "num": 492399,
+      "word": "谢晖婚礼",
+      "onboard_time": 1707969213,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484850,
       "num": 257011,
       "word": "30岁青年娶妻难疯进精神病院",
@@ -241,14 +273,6 @@
       "onboard_time": 1707925297,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 456624,
-      "num": 456624,
-      "word": "普京称俄罗斯即将研制出癌症疫苗",
-      "onboard_time": 1707967411,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 453009,
@@ -339,6 +363,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 397431,
+      "num": 242199,
+      "word": "情绪稳定的男生真的很加分",
+      "onboard_time": 1707967715,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387154,
       "num": 387154,
       "word": "斐玲 妈知道",
@@ -396,11 +428,19 @@
     },
     {
       "raw_hot": 366948,
-      "num": 271798,
+      "num": 360450,
       "word": "你们合不合适断联一下就知道了",
       "onboard_time": 1707958949,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349011,
+      "num": 349011,
+      "word": "贾玲第一个引体向上用了三十天",
+      "onboard_time": 1707970114,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 347336,
@@ -483,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268077,
+      "num": 268077,
+      "word": "韩国队内讧后WTT官方玩梗",
+      "onboard_time": 1707968248,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260589,
       "num": 260589,
       "word": "过年见一面老同学后劲太大了",
@@ -497,6 +545,14 @@
       "onboard_time": 1707965670,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246458,
+      "num": 246458,
+      "word": "为什么姥姥把房子留给了乐莹",
+      "onboard_time": 1707967472,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 245996,
@@ -515,20 +571,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234492,
+      "num": 234492,
+      "word": "婚姻给健康带来了什么",
+      "onboard_time": 1707969509,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231554,
       "num": 135584,
       "word": "大醉之后喝白开水可解酒",
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 226760,
-      "num": 226760,
-      "word": "杭州西湖2天捞起17部手机",
-      "onboard_time": 1707967531,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223355,
@@ -579,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213647,
+      "num": 213647,
+      "word": "林孝埈武大靖500米晋级",
+      "onboard_time": 1707969994,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210415,
+      "num": 184245,
+      "word": "范志毅控诉谢晖比赛前喝酒自己被骂",
+      "onboard_time": 1707969751,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208121,
       "num": 208121,
       "word": "化妆师供不应求",
@@ -601,6 +673,14 @@
       "onboard_time": 1707967173,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199455,
+      "num": 199455,
+      "word": "库里射程太离谱了",
+      "onboard_time": 1707968552,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 196996,
@@ -633,6 +713,14 @@
       "onboard_time": 1707957869,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192049,
+      "num": 192049,
+      "word": "热辣滚烫隐喻",
+      "onboard_time": 1707968071,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 188080,
@@ -675,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "全员加速中",
+      "onboard_time": 1707970472,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178947,
       "num": 178947,
       "word": "白色橄榄树",
@@ -697,14 +793,6 @@
       "onboard_time": 1707962853,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172596,
-      "num": 172596,
-      "word": "情绪稳定的男生真的很加分",
-      "onboard_time": 1707967715,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 172370,
@@ -731,20 +819,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168737,
-      "num": 168737,
+      "raw_hot": 169162,
+      "num": 169162,
       "word": "大唐不夜城千人再现春晚名场面",
       "onboard_time": 1707967472,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 163635,
-      "num": 163635,
-      "word": "为什么姥姥把房子留给了乐莹",
-      "onboard_time": 1707967472,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 162865,
@@ -955,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123997,
+      "num": 186150,
+      "word": "上班的我vs回家的我",
+      "onboard_time": 1707970354,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122979,
       "num": 122979,
       "word": "南京金逸影城向王骁和观众道歉",
@@ -1011,6 +1099,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 114122,
+      "num": 114122,
+      "word": "西安旅游把人都挤成肉夹馍了",
+      "onboard_time": 1707968611,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112608,
       "num": 112608,
       "word": "大年初六顺顺利利",
@@ -1051,12 +1147,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105607,
+      "num": 105607,
+      "word": "在暴雪时分亦果婚礼VCR",
+      "onboard_time": 1707969872,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105477,
       "num": 105477,
       "word": "罗云熙探班陈飞宇",
       "onboard_time": 1707914137,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104847,
+      "num": 104847,
+      "word": "2024春节档票房破60亿",
+      "onboard_time": 1707970832,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103255,
+      "num": 103255,
+      "word": "布克被驱逐",
+      "onboard_time": 1707970772,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102585,
@@ -1087,6 +1207,14 @@
       "num": 828414,
       "word": "2024春节档总票房已破50亿元",
       "onboard_time": 1707915156,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87182,
+      "num": 769781,
+      "word": "我与家人合个影",
+      "onboard_time": 1707969690,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1177,6 +1305,9 @@
     },
     {
       "word": "#营造温暖和谐的社会氛围#"
+    },
+    {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
     }
   ]
 }
