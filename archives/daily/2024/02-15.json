@@ -1,10 +1,10 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707960678426,
+  "endTime": 1707962699955,
   "band_list": [
     {
-      "raw_hot": 2074234,
-      "num": 395688,
+      "raw_hot": 2168799,
+      "num": 423858,
       "word": "白敬亭现场侧拍视频",
       "onboard_time": 1707956607,
       "rank": 10,
@@ -19,11 +19,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1123781,
-      "num": 243103,
+      "raw_hot": 1181828,
+      "num": 265304,
       "word": "白敬亭工作室公开招聘",
       "onboard_time": 1707959369,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1047014,
+      "num": 1047014,
+      "word": "杨玏王玉雯同游英国",
+      "onboard_time": 1707961770,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1707952280,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857097,
+      "num": 857097,
+      "word": "让侯雯元别蹲着拍了",
+      "onboard_time": 1707956848,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 836075,
@@ -123,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 668113,
-      "num": 393082,
-      "word": "让侯雯元别蹲着拍了",
-      "onboard_time": 1707956848,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 670797,
+      "num": 670797,
+      "word": "日本名义GDP跌出世界前三",
+      "onboard_time": 1707959190,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 611778,
@@ -155,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517237,
-      "num": 517237,
-      "word": "日本名义GDP跌出世界前三",
-      "onboard_time": 1707959190,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 502274,
       "num": 502274,
       "word": "我们一起摇太阳宣布延后上映",
@@ -187,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447334,
+      "num": 423075,
+      "word": "美国1天内发生2起枪击案",
+      "onboard_time": 1707957330,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 443879,
       "num": 413808,
       "word": "贾玲张小斐 珍贵的女性友谊",
       "onboard_time": 1707921277,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 427786,
+      "num": 422584,
+      "word": "赵丽颖主演票房突破30亿",
+      "onboard_time": 1707957452,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426069,
@@ -211,12 +235,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424237,
+      "num": 424237,
+      "word": "历届春晚一等奖小品",
+      "onboard_time": 1707960393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 422298,
+      "num": 422298,
+      "word": "春节在家发现被爱的痕迹",
+      "onboard_time": 1707959672,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411531,
       "num": 411531,
       "word": "授她以柄",
       "onboard_time": 1707928830,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404291,
+      "num": 404291,
+      "word": "我感觉好像没有家了",
+      "onboard_time": 1707961410,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401665,
@@ -243,14 +291,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 388892,
-      "num": 388892,
-      "word": "赵丽颖主演票房突破30亿",
-      "onboard_time": 1707957452,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 387154,
       "num": 387154,
       "word": "斐玲 妈知道",
@@ -259,20 +299,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 386678,
-      "num": 386678,
-      "word": "美国1天内发生2起枪击案",
-      "onboard_time": 1707957330,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 383111,
       "num": 383111,
       "word": "港媒曝尹子维送徐冬冬钻戒价值百万",
       "onboard_time": 1707928291,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381393,
+      "num": 381393,
+      "word": "新疆8分钟惊艳世界幕后的无名推手",
+      "onboard_time": 1707957569,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 373846,
@@ -291,8 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350057,
-      "num": 238417,
+      "raw_hot": 366948,
+      "num": 251328,
       "word": "你们合不合适断联一下就知道了",
       "onboard_time": 1707958949,
       "rank": 38,
@@ -321,14 +361,6 @@
       "onboard_time": 1707914678,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 318898,
-      "num": 318898,
-      "word": "新疆8分钟惊艳世界幕后的无名推手",
-      "onboard_time": 1707957569,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 311646,
@@ -395,14 +427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228694,
-      "num": 191706,
-      "word": "春节在家发现被爱的痕迹",
-      "onboard_time": 1707959672,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223355,
       "num": 223355,
       "word": "晚上有这3个习惯或会变胖变丑",
@@ -449,6 +473,14 @@
       "onboard_time": 1707960212,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204646,
+      "num": 204646,
+      "word": "经常肩膀酸痛的人试试这个",
+      "onboard_time": 1707961233,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 196996,
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172370,
+      "num": 172370,
+      "word": "联播主播怎么做到扫一眼急稿就播",
+      "onboard_time": 1707960273,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162865,
       "num": 162865,
       "word": "贾玲 最美的盛开是反击",
@@ -547,20 +587,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 153599,
-      "num": 153599,
-      "word": "历届春晚一等奖小品",
-      "onboard_time": 1707960393,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152228,
       "num": 152228,
       "word": "秦霄贤情人节营业照",
       "onboard_time": 1707952222,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151772,
+      "num": 151772,
+      "word": "开工大吉",
+      "onboard_time": 1707962491,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 147693,
@@ -577,6 +617,14 @@
       "onboard_time": 1707926197,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141741,
+      "num": 141741,
+      "word": "在暴雪时分",
+      "onboard_time": 1707961470,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 141721,
@@ -619,6 +667,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 133581,
+      "num": 133581,
+      "word": "农村孩子的童年游戏只剩玩手机",
+      "onboard_time": 1707962430,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131135,
       "num": 131135,
       "word": "终于读懂了送东阳马生序",
@@ -635,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129954,
-      "num": 129954,
-      "word": "联播主播怎么做到扫一眼急稿就播",
-      "onboard_time": 1707960273,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129539,
       "num": 129539,
       "word": "张颂文的温柔有种沉淀感",
@@ -657,6 +705,14 @@
       "onboard_time": 1707909519,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128390,
+      "num": 128390,
+      "word": "体脂率才是最诚实的胖瘦衡量标准",
+      "onboard_time": 1707933140,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 127188,
@@ -683,12 +739,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120318,
+      "num": 120318,
+      "word": "总看手机会加速得白内障吗",
+      "onboard_time": 1707962672,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118513,
       "num": 118513,
       "word": "钟丽缇53岁身材",
       "onboard_time": 1707910959,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117330,
+      "num": 117330,
+      "word": "斯图尔特拳击尤班克斯",
+      "onboard_time": 1707960812,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117171,
+      "num": 117171,
+      "word": "樊振东花式夸马龙",
+      "onboard_time": 1707962491,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116830,
@@ -721,14 +801,6 @@
       "onboard_time": 1707955766,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109895,
-      "num": 109895,
-      "word": "体脂率才是最诚实的胖瘦衡量标准",
-      "onboard_time": 1707933140,
-      "rank": 33,
-      "category": "运动健身"
     },
     {
       "raw_hot": 106834,
@@ -779,20 +851,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 100329,
+      "num": 828414,
+      "word": "2024春节档总票房已破50亿元",
+      "onboard_time": 1707915156,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85500,
       "num": 101189,
       "word": "seventeen克拉日",
       "onboard_time": 1707922478,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 84492,
-      "num": 828414,
-      "word": "2024春节档总票房已破50亿元",
-      "onboard_time": 1707915156,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75197,
