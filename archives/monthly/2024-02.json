@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708018433787,
+  "endTime": 1708021327395,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -22891,6 +22891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208115,
+      "num": 208115,
+      "word": "马丽主演电影票房破180亿",
+      "onboard_time": 1708017562,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208087,
       "num": 213706,
       "word": "中国历史上第一款流行色",
@@ -29689,14 +29697,6 @@
       "onboard_time": 1707108994,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161410,
-      "num": 161410,
-      "word": "马丽主演电影票房破180亿",
-      "onboard_time": 1708017562,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 161393,
@@ -39979,6 +39979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69149,
+      "num": 69149,
+      "word": "魏大勋表情包",
+      "onboard_time": 1708017743,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68766,
       "num": 2447774,
       "word": "人心火热温暖了回家路",
@@ -40121,14 +40129,6 @@
       "onboard_time": 1707314674,
       "rank": 26,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 63922,
-      "num": 63922,
-      "word": "魏大勋表情包",
-      "onboard_time": 1708017743,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 63905,
@@ -40787,6 +40787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45680,
+      "num": 45680,
+      "word": "哪些时候你觉得单身也挺好的",
+      "onboard_time": 1708018463,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45217,
       "num": 302693,
       "word": "山水终相见重逢就是年",
@@ -41041,6 +41049,14 @@
       "onboard_time": 1706916140,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39028,
+      "num": 39028,
+      "word": "阿瓦迪夫卡局势",
+      "onboard_time": 1708019361,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38872,

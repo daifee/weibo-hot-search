@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708018433787,
+  "endTime": 1708021327395,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -7275,6 +7275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208115,
+      "num": 208115,
+      "word": "马丽主演电影票房破180亿",
+      "onboard_time": 1708017562,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208100,
       "num": 208100,
       "word": "陈楚生现挂 岳云鹏笑场",
@@ -9241,14 +9249,6 @@
       "onboard_time": 1707987514,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 161410,
-      "num": 161410,
-      "word": "马丽主演电影票房破180亿",
-      "onboard_time": 1708017562,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 161393,
@@ -12595,6 +12595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69149,
+      "num": 69149,
+      "word": "魏大勋表情包",
+      "onboard_time": 1708017743,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68755,
       "num": 68755,
       "word": "曾黎穿马面裙过大年",
@@ -12625,14 +12633,6 @@
       "onboard_time": 1708000951,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63922,
-      "num": 63922,
-      "word": "魏大勋表情包",
-      "onboard_time": 1708017743,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 63320,
@@ -12827,6 +12827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 45680,
+      "num": 45680,
+      "word": "哪些时候你觉得单身也挺好的",
+      "onboard_time": 1708018463,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43448,
       "num": 43448,
       "word": "吴磊剧中打台球是来真的",
@@ -12881,6 +12889,14 @@
       "onboard_time": 1707713553,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39028,
+      "num": 39028,
+      "word": "阿瓦迪夫卡局势",
+      "onboard_time": 1708019361,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38872,
