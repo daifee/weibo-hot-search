@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707978908767,
+  "endTime": 1707981318068,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -217,6 +217,14 @@
       "onboard_time": 1707832179,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2286182,
+      "num": 387104,
+      "word": "马凡舒否认取关白敬亭",
+      "onboard_time": 1707979890,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2284004,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1707922420,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 968709,
+      "num": 968709,
+      "word": "何老师用九年凑齐了九宫格",
+      "onboard_time": 1707979830,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 965081,
@@ -2787,6 +2803,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 524097,
+      "num": 524097,
+      "word": "薛之谦飞驰人生2观后感",
+      "onboard_time": 1707980071,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 523667,
       "num": 339244,
       "word": "钟楚曦大唐狄公案的妆是自己画的",
@@ -3217,6 +3241,22 @@
       "onboard_time": 1707925297,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 460916,
+      "num": 384245,
+      "word": "王骁团队回应路演被骂",
+      "onboard_time": 1707979351,
+      "rank": 11,
+      "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 459745,
+      "num": 459745,
+      "word": "男子套圈套中十几只大鹅引热议",
+      "onboard_time": 1707978629,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456607,
@@ -3977,6 +4017,14 @@
       "onboard_time": 1707796296,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370360,
+      "num": 370360,
+      "word": "海南官方建议游客可乘船离岛",
+      "onboard_time": 1707978512,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 369600,
@@ -4763,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289833,
+      "num": 289833,
+      "word": "刘诗诗春晚候场嘟嘴照",
+      "onboard_time": 1707978212,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288853,
       "num": 288853,
       "word": "陈伟霆谈第七次上春晚很感恩",
@@ -5547,14 +5603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243934,
-      "num": 243934,
-      "word": "刘诗诗春晚候场嘟嘴照",
-      "onboard_time": 1707978212,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243694,
       "num": 243694,
       "word": "王源你到底拍了多少次",
@@ -5873,6 +5921,14 @@
       "onboard_time": 1707878551,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231655,
+      "num": 231655,
+      "word": "陈飞宇站姐澄清探班",
+      "onboard_time": 1707980553,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 231554,
@@ -6283,6 +6339,14 @@
       "category": "网红,综艺"
     },
     {
+      "raw_hot": 213163,
+      "num": 165155,
+      "word": "泰山景区今起暂停开放",
+      "onboard_time": 1707980192,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 212627,
       "num": 212627,
       "word": "时代少年团棉花娃娃",
@@ -6403,6 +6467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209262,
+      "num": 209262,
+      "word": "再也不怕我妈催婚了",
+      "onboard_time": 1707980249,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "迪丽热巴化身新疆推荐官",
@@ -6497,6 +6569,14 @@
       "onboard_time": 1707656970,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206767,
+      "num": 206767,
+      "word": "孙千人鱼线",
+      "onboard_time": 1707978929,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 206602,
@@ -7587,14 +7667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173623,
-      "num": 173623,
-      "word": "海南官方建议游客可乘船离岛",
-      "onboard_time": 1707978512,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 173478,
       "num": 148071,
       "word": "被堵在去丈母娘家路上只能吃泡面",
@@ -8299,14 +8371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156787,
-      "num": 156787,
-      "word": "男子套圈套中十几只大鹅引热议",
-      "onboard_time": 1707978629,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156769,
       "num": 156769,
       "word": "刘耀文爆改宣传卫衣",
@@ -8915,6 +8979,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143393,
+      "num": 143393,
+      "word": "97岁太奶怀抱不满1岁重孙好开心",
+      "onboard_time": 1707980969,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143362,
       "num": 143362,
       "word": "克莱为留勇士愿当配角",
@@ -8961,6 +9033,14 @@
       "onboard_time": 1707810334,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143025,
+      "num": 143025,
+      "word": "尔滨冰雕化成磨砂感",
+      "onboard_time": 1707980731,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 142776,
@@ -9121,6 +9201,14 @@
       "onboard_time": 1707788195,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139795,
+      "num": 139795,
+      "word": "克莱战术犯规",
+      "onboard_time": 1707979293,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 139651,
@@ -9979,6 +10067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121659,
+      "num": 121659,
+      "word": "张颂文情商",
+      "onboard_time": 1707981092,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121598,
       "num": 121598,
       "word": "我在八零年代当后妈",
@@ -10145,6 +10241,14 @@
       "onboard_time": 1707649174,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118683,
+      "num": 118683,
+      "word": "广西多地有震感",
+      "onboard_time": 1707980795,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118485,
@@ -10603,6 +10707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108644,
+      "num": 108644,
+      "word": "三亚返程机票价格破万",
+      "onboard_time": 1707980010,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 108261,
       "num": 117846,
       "word": "延续80年的初一头碗饺子敬英烈",
@@ -10857,6 +10969,14 @@
       "onboard_time": 1707877951,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99801,
+      "num": 99801,
+      "word": "三亚回程高峰预计持续到初十",
+      "onboard_time": 1707981270,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 99076,
