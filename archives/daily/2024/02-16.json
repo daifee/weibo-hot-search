@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708014085152,
+  "endTime": 1708014964936,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -35,8 +35,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 639582,
-      "num": 639582,
+      "raw_hot": 672778,
+      "num": 672778,
       "word": "受不了了好想偷了吗喽的人生",
       "onboard_time": 1708010378,
       "rank": 4,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471186,
+      "num": 471186,
+      "word": "中国海警依法外逼驱离菲船只",
+      "onboard_time": 1708011816,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 457627,
       "num": 457627,
       "word": "C罗 上座率3111",
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371936,
-      "num": 371936,
-      "word": "中国海警依法外逼驱离菲船只",
-      "onboard_time": 1708011816,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 354538,
       "num": 354538,
       "word": "徐梦洁回应演短剧",
@@ -129,6 +129,14 @@
       "onboard_time": 1707999158,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303049,
+      "num": 303049,
+      "word": "羽绒服先别收起来",
+      "onboard_time": 1708013071,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279809,
@@ -195,28 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183475,
-      "num": 183475,
+      "raw_hot": 183817,
+      "num": 183817,
       "word": "猫猫的失落是具象化的",
       "onboard_time": 1708011872,
       "rank": 25,
       "category": "幽默"
     },
     {
-      "raw_hot": 176903,
-      "num": 176903,
+      "raw_hot": 179505,
+      "num": 179505,
       "word": "神仙弟弟",
       "onboard_time": 1708011336,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175635,
-      "num": 175635,
-      "word": "羽绒服先别收起来",
-      "onboard_time": 1708013071,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175062,
@@ -307,8 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140506,
-      "num": 140506,
+      "raw_hot": 141527,
+      "num": 141527,
       "word": "胎儿石化",
       "onboard_time": 1707992073,
       "rank": 40,
@@ -377,6 +377,14 @@
       "onboard_time": 1707995073,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102324,
+      "num": 102324,
+      "word": "檀健次分享朋友圈置顶内容",
+      "onboard_time": 1707997775,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101751,
