@@ -1,0 +1,410 @@
+{
+  "runTime": 1708025633707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 311526,
+        "num": 311526,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177786,
+        "num": 177786,
+        "word": "为什么费列罗卖不动了",
+        "onboard_time": 1708006055,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2813,
+        "num": 117308,
+        "word": "我与家人合个影",
+        "onboard_time": 1707969690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "羽绒服先别收起来",
+        "onboard_time": 1708013071,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96884,
+        "num": 96884,
+        "word": "魏大勋被强制闭麦",
+        "onboard_time": 1708009054,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95522,
+        "num": 95522,
+        "word": "内娱95生最出圈的角色",
+        "onboard_time": 1708015048,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85258,
+        "num": 85258,
+        "word": "贾玲 如果走位错了就把我打到那",
+        "onboard_time": 1707995616,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77940,
+        "num": 77940,
+        "word": "马丽主演电影票房破180亿",
+        "onboard_time": 1708017562,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76697,
+        "num": 76697,
+        "word": "张艺兴旗下女团或即将出道",
+        "onboard_time": 1708008278,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75082,
+        "num": 75082,
+        "word": "中国海警依法外逼驱离菲船只",
+        "onboard_time": 1708011816,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146275,
+        "num": 68789,
+        "word": "春节第五天我偷跑出门开钟点房了",
+        "onboard_time": 1708005995,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61084,
+        "num": 61084,
+        "word": "孙千 外貌是最不应该去攻击的",
+        "onboard_time": 1708007619,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60480,
+        "num": 60480,
+        "word": "手机充电一定要满充满放吗",
+        "onboard_time": 1707999158,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53636,
+        "num": 53636,
+        "word": "C罗 上座率3111",
+        "onboard_time": 1708008518,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51137,
+        "num": 51137,
+        "word": "徐梦洁回应演短剧",
+        "onboard_time": 1708009054,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46687,
+        "num": 46687,
+        "word": "谢楠看到瘦下来的贾玲后一直发抖",
+        "onboard_time": 1707988293,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46390,
+        "num": 46390,
+        "word": "中方驳斥卡梅伦将红海和台湾海峡混为一谈",
+        "onboard_time": 1708005995,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40990,
+        "num": 40990,
+        "word": "杨幂朱一龙魏大勋魏晨同框",
+        "onboard_time": 1708006776,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38963,
+        "num": 38963,
+        "word": "受不了了好想偷了吗喽的人生",
+        "onboard_time": 1708010378,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37621,
+        "num": 37621,
+        "word": "贾玲14年前曾找减肥搭子",
+        "onboard_time": 1707998437,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37254,
+        "num": 37254,
+        "word": "ateez 抄袭",
+        "onboard_time": 1708011454,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34287,
+        "num": 34287,
+        "word": "突然好像没那么抵触相亲了",
+        "onboard_time": 1707996394,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33884,
+        "num": 33884,
+        "word": "贾玲 细腻的女性视角",
+        "onboard_time": 1707989251,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32093,
+        "num": 32093,
+        "word": "王灿说嫁给杜淳前已经财富自由",
+        "onboard_time": 1707997956,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29929,
+        "num": 29929,
+        "word": "叶经理可能是最了解张驰的人",
+        "onboard_time": 1708024398,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29844,
+        "num": 29844,
+        "word": "猫猫的失落是具象化的",
+        "onboard_time": 1708011872,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29386,
+        "num": 29386,
+        "word": "胎儿石化",
+        "onboard_time": 1707992073,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28819,
+        "num": 28819,
+        "word": "偶遇陈哲远",
+        "onboard_time": 1708009357,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28567,
+        "num": 28567,
+        "word": "钟楚曦侯雯元和网友打招呼",
+        "onboard_time": 1707988892,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28450,
+        "num": 28450,
+        "word": "孙悦隐退八年因为儿子复出",
+        "onboard_time": 1708003295,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28058,
+        "num": 28058,
+        "word": "魏大勋表情包",
+        "onboard_time": 1708017743,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28044,
+        "num": 28044,
+        "word": "回家穿搭是咋做到全国统一的",
+        "onboard_time": 1708003716,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27761,
+        "num": 27761,
+        "word": "肖战霍建华混合体",
+        "onboard_time": 1707992734,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27305,
+        "num": 27305,
+        "word": "豆瓣崩了",
+        "onboard_time": 1708010555,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27186,
+        "num": 27186,
+        "word": "三亚偶遇黄景瑜",
+        "onboard_time": 1708012234,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26418,
+        "num": 26418,
+        "word": "王东连发五条微博怒斥妻子",
+        "onboard_time": 1707995073,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26043,
+        "num": 26043,
+        "word": "杭州西湖暂别人山人海",
+        "onboard_time": 1708023679,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 25704,
+        "num": 25704,
+        "word": "刘维春晚只上了59秒",
+        "onboard_time": 1708002695,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25333,
+        "num": 25333,
+        "word": "吴磊哭到眼眶充血",
+        "onboard_time": 1708015769,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25039,
+        "num": 25039,
+        "word": "正当防卫为什么会被搬上大银幕",
+        "onboard_time": 1707994655,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24168,
+        "num": 24168,
+        "word": "阿瓦迪夫卡局势",
+        "onboard_time": 1708019361,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24166,
+        "num": 24166,
+        "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
+        "onboard_time": 1708004796,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23547,
+        "num": 23547,
+        "word": "伏黑惠",
+        "onboard_time": 1707999694,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 23408,
+        "num": 23408,
+        "word": "薛之谦AI",
+        "onboard_time": 1708025358,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22795,
+        "num": 22795,
+        "word": "檀健次分享朋友圈置顶内容",
+        "onboard_time": 1707997775,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21661,
+        "num": 22794,
+        "word": "苏袀禾回应撞脸肖战霍建华",
+        "onboard_time": 1708010796,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20064,
+        "num": 22782,
+        "word": "长相思2预计月底播出",
+        "onboard_time": 1707998377,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19780,
+        "num": 22779,
+        "word": "张颂文 治愈",
+        "onboard_time": 1708003178,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19394,
+        "num": 22768,
+        "word": "哪些时候你觉得单身也挺好的",
+        "onboard_time": 1708018463,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19311,
+        "num": 22765,
+        "word": "07年快男抗洪旧照",
+        "onboard_time": 1707994832,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

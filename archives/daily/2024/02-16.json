@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708024483379,
+  "endTime": 1708025633707,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -483,20 +483,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23608,
-      "num": 23608,
+      "raw_hot": 29929,
+      "num": 29929,
+      "word": "叶经理可能是最了解张驰的人",
+      "onboard_time": 1708024398,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 26043,
+      "num": 26043,
       "word": "杭州西湖暂别人山人海",
       "onboard_time": 1708023679,
       "rank": 45,
       "category": "旅游"
     },
     {
-      "raw_hot": 22176,
-      "num": 22176,
-      "word": "叶经理可能是最了解张驰的人",
-      "onboard_time": 1708024398,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 23408,
+      "num": 23408,
+      "word": "薛之谦AI",
+      "onboard_time": 1708025358,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 17855,

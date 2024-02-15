@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708024483379,
+  "endTime": 1708025633707,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -41443,6 +41443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29929,
+      "num": 29929,
+      "word": "叶经理可能是最了解张驰的人",
+      "onboard_time": 1708024398,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29917,
       "num": 194992,
       "word": "张雨绮发绮开得胜红包",
@@ -41587,6 +41595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26043,
+      "num": 26043,
+      "word": "杭州西湖暂别人山人海",
+      "onboard_time": 1708023679,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 25992,
       "num": 349417,
       "word": "春运路上被白象暖到了",
@@ -41707,20 +41723,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23608,
-      "num": 23608,
-      "word": "杭州西湖暂别人山人海",
-      "onboard_time": 1708023679,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 23431,
       "num": 263862,
       "word": "蛋仔群星祝福好有排面",
       "onboard_time": 1707390571,
       "rank": 39,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 23408,
+      "num": 23408,
+      "word": "薛之谦AI",
+      "onboard_time": 1708025358,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 23271,
@@ -41761,14 +41777,6 @@
       "onboard_time": 1706759731,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22176,
-      "num": 22176,
-      "word": "叶经理可能是最了解张驰的人",
-      "onboard_time": 1708024398,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 22084,
