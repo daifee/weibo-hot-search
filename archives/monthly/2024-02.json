@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708021327395,
+  "endTime": 1708022041266,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -40907,6 +40907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 41751,
+      "num": 41751,
+      "word": "阿瓦迪夫卡局势",
+      "onboard_time": 1708019361,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41700,
       "num": 42019,
       "word": "为什么流感发病48小时是黄金自救期",
@@ -41049,14 +41057,6 @@
       "onboard_time": 1706916140,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39028,
-      "num": 39028,
-      "word": "阿瓦迪夫卡局势",
-      "onboard_time": 1708019361,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38872,

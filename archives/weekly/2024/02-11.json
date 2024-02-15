@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708021327395,
+  "endTime": 1708022041266,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -12859,6 +12859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41751,
+      "num": 41751,
+      "word": "阿瓦迪夫卡局势",
+      "onboard_time": 1708019361,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41070,
       "num": 44429,
       "word": "刘畊宏给NBA球员送红包",
@@ -12889,14 +12897,6 @@
       "onboard_time": 1707713553,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39028,
-      "num": 39028,
-      "word": "阿瓦迪夫卡局势",
-      "onboard_time": 1708019361,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38872,

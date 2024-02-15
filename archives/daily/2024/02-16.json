@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708021327395,
+  "endTime": 1708022041266,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -459,8 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39028,
-      "num": 39028,
+      "raw_hot": 41751,
+      "num": 41751,
       "word": "阿瓦迪夫卡局势",
       "onboard_time": 1708019361,
       "rank": 43,
