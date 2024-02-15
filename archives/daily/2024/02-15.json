@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707993287693,
+  "endTime": 1707995722628,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -121,6 +121,14 @@
       "onboard_time": 1707959369,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1148482,
+      "num": 1148482,
+      "word": "肖战霍建华混合体",
+      "onboard_time": 1707992734,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1063637,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 826637,
+      "num": 826637,
+      "word": "贾玲问老公是哪个男孩喊的",
+      "onboard_time": 1707993575,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 820671,
       "num": 820671,
       "word": "李金铭近照状态",
@@ -297,6 +313,14 @@
       "onboard_time": 1707962790,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798666,
+      "num": 798666,
+      "word": "胎儿石化",
+      "onboard_time": 1707992073,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 787336,
@@ -347,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 697458,
+      "num": 697458,
+      "word": "印尼发生多起涉中国游客交通及溺水事故",
+      "onboard_time": 1707991713,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693802,
       "num": 693802,
       "word": "柯南情人节杀人事件",
@@ -377,14 +409,6 @@
       "onboard_time": 1707959190,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 642232,
-      "num": 642232,
-      "word": "印尼发生多起涉中国游客交通及溺水事故",
-      "onboard_time": 1707991713,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 623433,
@@ -472,6 +496,14 @@
       "word": "薛之谦飞驰人生2观后感",
       "onboard_time": 1707980071,
       "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 523560,
+      "num": 523560,
+      "word": "赵丽颖工作室感谢观众",
+      "onboard_time": 1707993513,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -627,14 +659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413789,
-      "num": 413789,
-      "word": "肖战霍建华混合体",
-      "onboard_time": 1707992734,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 411531,
       "num": 411531,
       "word": "授她以柄",
@@ -683,6 +707,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 398928,
+      "num": 398928,
+      "word": "07年快男抗洪旧照",
+      "onboard_time": 1707994832,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397431,
       "num": 262974,
       "word": "情绪稳定的男生真的很加分",
@@ -721,6 +753,14 @@
       "onboard_time": 1707963932,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375896,
+      "num": 375896,
+      "word": "咒术回战251",
+      "onboard_time": 1707993935,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 375672,
@@ -859,6 +899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 326624,
+      "num": 326624,
+      "word": "徐梦洁去演短剧了",
+      "onboard_time": 1707995315,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316803,
       "num": 316803,
       "word": "王俊凯去上班了",
@@ -873,6 +921,14 @@
       "onboard_time": 1707961233,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 316097,
+      "num": 316097,
+      "word": "正当防卫为什么会被搬上大银幕",
+      "onboard_time": 1707994655,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 315457,
@@ -900,7 +956,7 @@
     },
     {
       "raw_hot": 303403,
-      "num": 895280,
+      "num": 898235,
       "word": "春节档票房破60亿元",
       "onboard_time": 1707990993,
       "rank": 2,
@@ -995,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278556,
+      "num": 278556,
+      "word": "王东连发五条微博怒斥妻子",
+      "onboard_time": 1707995073,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276948,
       "num": 276948,
       "word": "摇太阳退出春节档",
@@ -1083,6 +1147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241453,
+      "num": 241453,
+      "word": "冰岛 雷克雅内斯半岛",
+      "onboard_time": 1707994175,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 237764,
       "num": 237764,
       "word": "热辣滚烫票房破20亿",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 226493,
+      "num": 226493,
+      "word": "粉丝拿刘德华30年前签名求鉴定",
+      "onboard_time": 1707994055,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 223355,
@@ -1251,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203678,
+      "num": 203678,
+      "word": "世界上的压力源你避开了99%",
+      "onboard_time": 1707992612,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203238,
       "num": 203238,
       "word": "凌晨四点妈妈不睡觉",
@@ -1291,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199655,
+      "num": 199655,
+      "word": "为什么总感觉和父辈的亲戚亲而不近",
+      "onboard_time": 1707993813,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199455,
       "num": 199455,
       "word": "库里射程太离谱了",
@@ -1307,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197081,
+      "num": 626611,
+      "word": "小姑娘练得满头汗笑着说喜欢舞狮",
+      "onboard_time": 1707990632,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196996,
       "num": 196996,
       "word": "热辣滚烫2024情人节档票房冠军",
@@ -1316,19 +1420,11 @@
     },
     {
       "raw_hot": 196660,
-      "num": 176215,
+      "num": 195945,
       "word": "建议直接送去大学深造",
       "onboard_time": 1707991354,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195839,
-      "num": 626611,
-      "word": "小姑娘练得满头汗笑着说喜欢舞狮",
-      "onboard_time": 1707990632,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194870,
@@ -1345,6 +1441,14 @@
       "onboard_time": 1707925356,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194203,
+      "num": 194203,
+      "word": "把脉",
+      "onboard_time": 1707994233,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193121,
@@ -1475,8 +1579,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175325,
-      "num": 175325,
+      "raw_hot": 175330,
+      "num": 175330,
       "word": "李菲的小短剧",
       "onboard_time": 1707992558,
       "rank": 31,
@@ -1547,20 +1651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167419,
+      "num": 167419,
+      "word": "孙艺洲 这把科目二刘显德没坐车里",
+      "onboard_time": 1707995194,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162865,
       "num": 162865,
       "word": "贾玲 最美的盛开是反击",
       "onboard_time": 1707917377,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162523,
-      "num": 162523,
-      "word": "世界上的压力源你避开了99%",
-      "onboard_time": 1707992612,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 162433,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1707973350,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162190,
+      "num": 162190,
+      "word": "宋家腾为白敬亭发声",
+      "onboard_time": 1707995676,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 161504,
@@ -1651,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148914,
+      "num": 148914,
+      "word": "林孝埈一起去米兰吧",
+      "onboard_time": 1707995434,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147693,
       "num": 147693,
       "word": "曝克林斯曼亲眼目睹韩国队内讧",
@@ -1713,6 +1833,14 @@
       "onboard_time": 1707980731,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142055,
+      "num": 142055,
+      "word": "贾玲 如果走位错了就把我打到那",
+      "onboard_time": 1707995616,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 141741,
@@ -1809,14 +1937,6 @@
       "onboard_time": 1707921580,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 131597,
-      "num": 131597,
-      "word": "胎儿石化",
-      "onboard_time": 1707992073,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 131135,
