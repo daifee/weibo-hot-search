@@ -1,0 +1,410 @@
+{
+  "runTime": 1707985252335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190953,
+        "num": 1190953,
+        "word": "哪个星座厌蠢症最强烈",
+        "onboard_time": 1707982892,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 925861,
+        "num": 925861,
+        "word": "具惠善时隔13年大学毕业",
+        "onboard_time": 1707981992,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 869127,
+        "word": "春节在家发现被爱的痕迹",
+        "onboard_time": 1707959672,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867485,
+        "num": 867485,
+        "word": "侯雯元汗流浃背了吧",
+        "onboard_time": 1707983312,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 813404,
+        "num": 813404,
+        "word": "董洁儿子15岁颜值",
+        "onboard_time": 1707982532,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740521,
+        "num": 740521,
+        "word": "何老师用九年凑齐了九宫格",
+        "onboard_time": 1707979830,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598228,
+        "num": 598228,
+        "word": "今年正月初六不用往外走了",
+        "onboard_time": 1707974072,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571050,
+        "num": 571050,
+        "word": "张小斐 半脸冷漠半脸心疼",
+        "onboard_time": 1707972811,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528374,
+        "num": 528374,
+        "word": "大S女儿骑马",
+        "onboard_time": 1707982589,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455322,
+        "num": 455322,
+        "word": "娜扎cos粉衣貂蝉",
+        "onboard_time": 1707982473,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1777091,
+        "num": 453711,
+        "word": "马凡舒否认取关白敬亭",
+        "onboard_time": 1707979890,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398523,
+        "num": 398523,
+        "word": "薛之谦飞驰人生2观后感",
+        "onboard_time": 1707980071,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375672,
+        "num": 375672,
+        "word": "吴磊和赵今麦你俩有点不像演的",
+        "onboard_time": 1707981511,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349779,
+        "num": 349779,
+        "word": "赛琳娜ins感谢粉丝的配图被扒",
+        "onboard_time": 1707984090,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331378,
+        "num": 331378,
+        "word": "泰山景区今起暂停开放",
+        "onboard_time": 1707980192,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 328603,
+        "num": 328603,
+        "word": "张颂文情商",
+        "onboard_time": 1707981092,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326588,
+        "num": 326588,
+        "word": "王骁团队回应路演被骂",
+        "onboard_time": 1707979351,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298837,
+        "num": 298837,
+        "word": "回村后吃到的高仿",
+        "onboard_time": 1707973534,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286668,
+        "num": 286668,
+        "word": "男子套圈套中十几只大鹅引热议",
+        "onboard_time": 1707978629,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269461,
+        "num": 269461,
+        "word": "飞驰人生2票房超前作",
+        "onboard_time": 1707976770,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402019,
+        "num": 264793,
+        "word": "相亲对象的转账感觉负担好大",
+        "onboard_time": 1707984032,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327421,
+        "num": 263727,
+        "word": "白敬亭工作室公开招聘",
+        "onboard_time": 1707959369,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259001,
+        "num": 259001,
+        "word": "女子东北开化后1天被迫干掉4斤大虾",
+        "onboard_time": 1707983190,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228436,
+        "num": 228436,
+        "word": "海南官方建议游客可乘船离岛",
+        "onboard_time": 1707978512,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 224706,
+        "num": 224706,
+        "word": "金秀贤金智媛婚礼剧照",
+        "onboard_time": 1707985172,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213324,
+        "num": 213324,
+        "word": "苹果VisionPro遭遇退货潮",
+        "onboard_time": 1707984454,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205070,
+        "num": 205070,
+        "word": "摇太阳退出春节档",
+        "onboard_time": 1707984691,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200209,
+        "num": 200209,
+        "word": "郭富城方媛敞篷车内合照",
+        "onboard_time": 1707982473,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164679,
+        "num": 197646,
+        "word": "河池地震",
+        "onboard_time": 1707977734,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151476,
+        "num": 197427,
+        "word": "97岁太奶怀抱不满1岁重孙好开心",
+        "onboard_time": 1707980969,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197269,
+        "num": 197269,
+        "word": "飞驰2破18亿主创秀十八般武艺",
+        "onboard_time": 1707983851,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188967,
+        "num": 188967,
+        "word": "蔡康永晒孙俪手写春联",
+        "onboard_time": 1707983433,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172862,
+        "num": 172862,
+        "word": "初六送穷鬼",
+        "onboard_time": 1707982473,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170062,
+        "num": 170062,
+        "word": "贾玲第一个引体向上用了三十天",
+        "onboard_time": 1707970114,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158019,
+        "num": 158019,
+        "word": "为什么纸片会像刀一样割伤手",
+        "onboard_time": 1707983911,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147060,
+        "num": 147060,
+        "word": "杨玏王玉雯同游英国",
+        "onboard_time": 1707961770,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145245,
+        "num": 145245,
+        "word": "陈飞宇站姐澄清探班",
+        "onboard_time": 1707980553,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139882,
+        "num": 139882,
+        "word": "杭州西湖2天捞起17部手机",
+        "onboard_time": 1707967531,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137893,
+        "num": 137893,
+        "word": "王者荣耀龙年春节",
+        "onboard_time": 1707984454,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131774,
+        "num": 131774,
+        "word": "iPhone进水的官方推荐处理方法",
+        "onboard_time": 1707971492,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123697,
+        "num": 123697,
+        "word": "拉肚子不等于吃坏了肚子",
+        "onboard_time": 1707975212,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120765,
+        "num": 120765,
+        "word": "30岁青年娶妻难疯进精神病院",
+        "onboard_time": 1707964714,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116196,
+        "num": 116196,
+        "word": "再也不怕我妈催婚了",
+        "onboard_time": 1707980249,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109815,
+        "num": 109815,
+        "word": "广西天峨县4.4级地震",
+        "onboard_time": 1707981753,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107512,
+        "num": 107512,
+        "word": "陈楚生献唱熊出没10主题曲",
+        "onboard_time": 1707981575,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107415,
+        "num": 107415,
+        "word": "油泼辣子冰激凌",
+        "onboard_time": 1707984990,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106547,
+        "num": 106547,
+        "word": "收割全国小学生的奥特曼卡片公司要上市了",
+        "onboard_time": 1707976172,
+        "rank": 46,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 102435,
+        "num": 102435,
+        "word": "热辣滚烫口碑票房双第一",
+        "onboard_time": 1707972333,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101140,
+        "num": 101140,
+        "word": "乐莹朋友圈 我就要独自美丽",
+        "onboard_time": 1707976052,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100706,
+        "num": 100706,
+        "word": "刘诗诗春晚候场嘟嘴照",
+        "onboard_time": 1707978212,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

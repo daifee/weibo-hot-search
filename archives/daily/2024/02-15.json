@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707982456729,
+  "endTime": 1707985252335,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2286182,
-      "num": 387104,
+      "num": 453711,
       "word": "马凡舒否认取关白敬亭",
       "onboard_time": 1707979890,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1707953060,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1190953,
+      "num": 1190953,
+      "word": "哪个星座厌蠢症最强烈",
+      "onboard_time": 1707982892,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1181828,
@@ -139,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 925861,
+      "num": 925861,
+      "word": "具惠善时隔13年大学毕业",
+      "onboard_time": 1707981992,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910286,
       "num": 910286,
       "word": "内娱体脂率最低的一对情侣",
@@ -153,6 +169,14 @@
       "onboard_time": 1707952280,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867485,
+      "num": 867485,
+      "word": "侯雯元汗流浃背了吧",
+      "onboard_time": 1707983312,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 862091,
@@ -192,6 +216,14 @@
       "word": "李金铭近照状态",
       "onboard_time": 1707916778,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 813404,
+      "num": 813404,
+      "word": "董洁儿子15岁颜值",
+      "onboard_time": 1707982532,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -331,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 528374,
+      "num": 528374,
+      "word": "大S女儿骑马",
+      "onboard_time": 1707982589,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528089,
       "num": 528089,
       "word": "拒绝过年给蹭饭亲戚买单",
@@ -419,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455322,
+      "num": 455322,
+      "word": "娜扎cos粉衣貂蝉",
+      "onboard_time": 1707982473,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 454598,
       "num": 454598,
       "word": "张远记了王栎鑫半年的仇",
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 422298,
-      "num": 422298,
+      "num": 869127,
       "word": "春节在家发现被爱的痕迹",
       "onboard_time": 1707959672,
       "rank": 30,
@@ -489,6 +537,14 @@
       "onboard_time": 1707928830,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402019,
+      "num": 264793,
+      "word": "相亲对象的转账感觉负担好大",
+      "onboard_time": 1707984032,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 401665,
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375672,
+      "num": 375672,
+      "word": "吴磊和赵今麦你俩有点不像演的",
+      "onboard_time": 1707981511,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373846,
       "num": 373846,
       "word": "张若昀魏晨最冷静的认亲",
@@ -619,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 349779,
+      "num": 349779,
+      "word": "赛琳娜ins感谢粉丝的配图被扒",
+      "onboard_time": 1707984090,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347336,
       "num": 347336,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -649,6 +721,14 @@
       "onboard_time": 1707914678,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331378,
+      "num": 331378,
+      "word": "泰山景区今起暂停开放",
+      "onboard_time": 1707980192,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 316803,
@@ -697,22 +777,6 @@
       "onboard_time": 1707921999,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 297640,
-      "num": 297640,
-      "word": "泰山景区今起暂停开放",
-      "onboard_time": 1707980192,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 297351,
-      "num": 297351,
-      "word": "具惠善时隔13年大学毕业",
-      "onboard_time": 1707981992,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 296780,
@@ -811,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259001,
+      "num": 259001,
+      "word": "女子东北开化后1天被迫干掉4斤大虾",
+      "onboard_time": 1707983190,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258765,
       "num": 258765,
       "word": "檀健次vlog里有魏大勋",
@@ -843,14 +915,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 244433,
-      "num": 244433,
-      "word": "吴磊和赵今麦你俩有点不像演的",
-      "onboard_time": 1707981511,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237764,
       "num": 237764,
       "word": "热辣滚烫票房破20亿",
@@ -881,6 +945,14 @@
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224706,
+      "num": 224706,
+      "word": "金秀贤金智媛婚礼剧照",
+      "onboard_time": 1707985172,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 223355,
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213324,
+      "num": 213324,
+      "word": "苹果VisionPro遭遇退货潮",
+      "onboard_time": 1707984454,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209262,
       "num": 209262,
       "word": "再也不怕我妈催婚了",
@@ -987,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205070,
+      "num": 205070,
+      "word": "摇太阳退出春节档",
+      "onboard_time": 1707984691,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200736,
       "num": 200736,
       "word": "库里空砍41分",
@@ -1011,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200209,
+      "num": 200209,
+      "word": "郭富城方媛敞篷车内合照",
+      "onboard_time": 1707982473,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199455,
       "num": 199455,
       "word": "库里射程太离谱了",
       "onboard_time": 1707968552,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197269,
+      "num": 197269,
+      "word": "飞驰2破18亿主创秀十八般武艺",
+      "onboard_time": 1707983851,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 196996,
@@ -1073,6 +1177,14 @@
       "onboard_time": 1707981753,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188967,
+      "num": 188967,
+      "word": "蔡康永晒孙俪手写春联",
+      "onboard_time": 1707983433,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188080,
@@ -1137,6 +1249,14 @@
       "onboard_time": 1707962853,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172862,
+      "num": 172862,
+      "word": "初六送穷鬼",
+      "onboard_time": 1707982473,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 172370,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1707962132,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158019,
+      "num": 158019,
+      "word": "为什么纸片会像刀一样割伤手",
+      "onboard_time": 1707983911,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157601,
@@ -1361,6 +1489,14 @@
       "onboard_time": 1707951800,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137893,
+      "num": 137893,
+      "word": "王者荣耀龙年春节",
+      "onboard_time": 1707984454,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 135432,
@@ -1633,6 +1769,14 @@
       "onboard_time": 1707980010,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107415,
+      "num": 107415,
+      "word": "油泼辣子冰激凌",
+      "onboard_time": 1707984990,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 106834,
