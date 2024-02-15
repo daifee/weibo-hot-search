@@ -1,0 +1,410 @@
+{
+  "runTime": 1707968043830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099209,
+        "num": 1099209,
+        "word": "杨玏王玉雯同游英国",
+        "onboard_time": 1707961770,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624158,
+        "num": 624158,
+        "word": "向佐当郭碧婷的人形雪橇犬",
+        "onboard_time": 1707962790,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80054,
+        "num": 578382,
+        "word": "2024春节档总票房已破50亿元",
+        "onboard_time": 1707915156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877987,
+        "num": 572867,
+        "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+        "onboard_time": 1707963029,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540821,
+        "num": 540821,
+        "word": "第二十条 校园暴力事件",
+        "onboard_time": 1707964772,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510355,
+        "num": 510355,
+        "word": "日本名义GDP跌出世界前三",
+        "onboard_time": 1707959190,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 501979,
+        "num": 501979,
+        "word": "让侯雯元别蹲着拍了",
+        "onboard_time": 1707956848,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456624,
+        "num": 456624,
+        "word": "普京称俄罗斯即将研制出癌症疫苗",
+        "onboard_time": 1707967411,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 439682,
+        "num": 439682,
+        "word": "马丽 捡到手机怎么还截屏",
+        "onboard_time": 1707958110,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436236,
+        "num": 436236,
+        "word": "大年初六送穷",
+        "onboard_time": 1707952280,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015484,
+        "num": 418900,
+        "word": "我感觉好像没有家了",
+        "onboard_time": 1707961410,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577708,
+        "num": 409684,
+        "word": "何老师的脑洞我也是服了",
+        "onboard_time": 1707966574,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376637,
+        "num": 376637,
+        "word": "春节返程",
+        "onboard_time": 1707963932,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354918,
+        "num": 354918,
+        "word": "林孝埈十四冬",
+        "onboard_time": 1707965131,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333988,
+        "num": 333988,
+        "word": "在场人员还原王骁被骂事件始末",
+        "onboard_time": 1707953060,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311077,
+        "num": 311077,
+        "word": "历届春晚一等奖小品",
+        "onboard_time": 1707960393,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308324,
+        "num": 308324,
+        "word": "三亚机票",
+        "onboard_time": 1707957030,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271798,
+        "num": 271798,
+        "word": "你们合不合适断联一下就知道了",
+        "onboard_time": 1707958949,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268686,
+        "num": 268686,
+        "word": "大年初六",
+        "onboard_time": 1707966574,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264757,
+        "num": 264757,
+        "word": "经常肩膀酸痛的人试试这个",
+        "onboard_time": 1707961233,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 806341,
+        "num": 258483,
+        "word": "白敬亭工作室公开招聘",
+        "onboard_time": 1707959369,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480864,
+        "num": 257011,
+        "word": "30岁青年娶妻难疯进精神病院",
+        "onboard_time": 1707964714,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296780,
+        "num": 254124,
+        "word": "六公主播人生路不熟",
+        "onboard_time": 1707967290,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247502,
+        "num": 247502,
+        "word": "赵丽颖主演票房突破30亿",
+        "onboard_time": 1707957452,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245057,
+        "num": 245057,
+        "word": "斐玲 妈知道",
+        "onboard_time": 1707954924,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226760,
+        "num": 226760,
+        "word": "杭州西湖2天捞起17部手机",
+        "onboard_time": 1707967531,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222935,
+        "num": 222935,
+        "word": "一人之下剧场版开播",
+        "onboard_time": 1707965552,
+        "rank": 26,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 222365,
+        "num": 222365,
+        "word": "一男子被终身禁入成都熊猫基地",
+        "onboard_time": 1707916778,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211412,
+        "num": 211412,
+        "word": "马思纯发了无修剧照",
+        "onboard_time": 1707953060,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200292,
+        "num": 200292,
+        "word": "檀健次龙年春晚幕后vlog",
+        "onboard_time": 1707967173,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183277,
+        "num": 183277,
+        "word": "麻油蒸蛋 荨麻疹",
+        "onboard_time": 1707954746,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178361,
+        "num": 178361,
+        "word": "开化了对东北来说意味着什么",
+        "onboard_time": 1707965733,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172596,
+        "num": 172596,
+        "word": "情绪稳定的男生真的很加分",
+        "onboard_time": 1707967715,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169289,
+        "num": 169289,
+        "word": "江南百景图闪退",
+        "onboard_time": 1707965670,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168737,
+        "num": 168737,
+        "word": "大唐不夜城千人再现春晚名场面",
+        "onboard_time": 1707967472,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163635,
+        "num": 163635,
+        "word": "为什么姥姥把房子留给了乐莹",
+        "onboard_time": 1707967472,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149214,
+        "num": 149214,
+        "word": "热辣滚烫两个乐莹都很棒",
+        "onboard_time": 1707964714,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146227,
+        "num": 146227,
+        "word": "被不被重视一眼就能看出来",
+        "onboard_time": 1707964834,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143585,
+        "num": 143585,
+        "word": "侯雯元拍的钟楚曦",
+        "onboard_time": 1707921339,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139701,
+        "num": 139701,
+        "word": "王者亚连落雪白狼皮肤",
+        "onboard_time": 1707962853,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133841,
+        "num": 133841,
+        "word": "春节在家发现被爱的痕迹",
+        "onboard_time": 1707959672,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128948,
+        "num": 128948,
+        "word": "快船vs勇士",
+        "onboard_time": 1707967592,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128124,
+        "num": 128124,
+        "word": "农村孩子的童年游戏只剩玩手机",
+        "onboard_time": 1707962430,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122266,
+        "num": 122266,
+        "word": "贾玲镜头语言",
+        "onboard_time": 1707957271,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115411,
+        "num": 115411,
+        "word": "每天万名游客打卡刘亦菲同款古村落",
+        "onboard_time": 1707957869,
+        "rank": 44,
+        "category": "作品衍生,旅游"
+      },
+      {
+        "raw_hot": 115073,
+        "num": 115073,
+        "word": "元气少女缘结神 咖啡店海报",
+        "onboard_time": 1707962132,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110770,
+        "num": 110770,
+        "word": "新疆8分钟惊艳世界幕后的无名推手",
+        "onboard_time": 1707957569,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108481,
+        "num": 108481,
+        "word": "总看手机会加速得白内障吗",
+        "onboard_time": 1707962672,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108010,
+        "num": 108010,
+        "word": "南京金逸影城向王骁和观众道歉",
+        "onboard_time": 1707966391,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103433,
+        "num": 103433,
+        "word": "过年第一次去对象家",
+        "onboard_time": 1707963631,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造温暖和谐的社会氛围#"
+    }
+  }
+}
