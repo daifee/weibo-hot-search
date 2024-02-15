@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707978128738,
+  "endTime": 1707978908767,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -403,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1741054,
+      "num": 1741054,
+      "word": "今年正月初六不用往外走了",
+      "onboard_time": 1707974072,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1701908,
       "num": 1701908,
       "word": "爸爸去哪儿阿拉蕾长大了",
       "onboard_time": 1707666453,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1695087,
-      "num": 1695087,
-      "word": "今年正月初六不用往外走了",
-      "onboard_time": 1707974072,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1693440,
@@ -1467,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 862091,
+      "num": 862091,
+      "word": "河池地震",
+      "onboard_time": 1707977734,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861123,
       "num": 552429,
       "word": "梅西超级碗广告",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1707616766,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699960,
+      "num": 699960,
+      "word": "飞驰人生2票房超前作",
+      "onboard_time": 1707976770,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 697657,
@@ -2411,14 +2427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 586906,
-      "num": 586906,
-      "word": "河池地震",
-      "onboard_time": 1707977734,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586033,
       "num": 586033,
       "word": "tws 注水",
@@ -2667,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541153,
+      "num": 541153,
+      "word": "收割全国小学生的奥特曼卡片公司要上市了",
+      "onboard_time": 1707976172,
+      "rank": 6,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 540167,
       "num": 540167,
       "word": "五台山景区桶装水是从女厕所水管接的",
@@ -2827,14 +2843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 517253,
-      "num": 517253,
-      "word": "飞驰人生2票房超前作",
-      "onboard_time": 1707976770,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 515950,
       "num": 515950,
       "word": "旅客带72斤新鲜水果入境被查",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1707869246,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 507390,
-      "num": 507390,
-      "word": "收割全国小学生的奥特曼卡片公司要上市了",
-      "onboard_time": 1707976172,
-      "rank": 6,
-      "category": "财经,动漫"
     },
     {
       "raw_hot": 506768,
@@ -4163,6 +4163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352236,
+      "num": 352236,
+      "word": "乐莹朋友圈 我就要独自美丽",
+      "onboard_time": 1707976052,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350981,
       "num": 350981,
       "word": "热辣滚烫票房破17亿",
@@ -4523,6 +4531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315457,
+      "num": 276565,
+      "word": "拉肚子不等于吃坏了肚子",
+      "onboard_time": 1707975212,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314708,
       "num": 314708,
       "word": "王楚钦希望世乒赛尽自己一份力",
@@ -4681,14 +4697,6 @@
       "onboard_time": 1707648812,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295960,
-      "num": 295960,
-      "word": "乐莹朋友圈 我就要独自美丽",
-      "onboard_time": 1707976052,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 295523,
@@ -4963,14 +4971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276565,
-      "num": 276565,
-      "word": "拉肚子不等于吃坏了肚子",
-      "onboard_time": 1707975212,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 276345,
       "num": 276345,
       "word": "优素福妈妈",
@@ -5243,6 +5243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258765,
+      "num": 258765,
+      "word": "檀健次vlog里有魏大勋",
+      "onboard_time": 1707977489,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258518,
       "num": 258518,
       "word": "热辣滚烫路演",
@@ -5289,14 +5297,6 @@
       "onboard_time": 1707907896,
       "rank": 26,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 257669,
-      "num": 257669,
-      "word": "檀健次vlog里有魏大勋",
-      "onboard_time": 1707977489,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 257612,
@@ -5544,6 +5544,14 @@
       "word": "各省春晚收视率",
       "onboard_time": 1707627391,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243934,
+      "num": 243934,
+      "word": "刘诗诗春晚候场嘟嘴照",
+      "onboard_time": 1707978212,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -6179,6 +6187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 218592,
+      "num": 218592,
+      "word": "张小斐扶贾玲",
+      "onboard_time": 1707978451,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218081,
       "num": 218081,
       "word": "汪新被甩",
@@ -6651,6 +6667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200736,
+      "num": 200736,
+      "word": "库里空砍41分",
+      "onboard_time": 1707978091,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200732,
       "num": 200732,
       "word": "寒假作业is due",
@@ -6945,6 +6969,14 @@
       "onboard_time": 1707887852,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193121,
+      "num": 193121,
+      "word": "工程T细胞杀癌能力提高100倍",
+      "onboard_time": 1707977133,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193058,
@@ -7555,6 +7587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173623,
+      "num": 173623,
+      "word": "海南官方建议游客可乘船离岛",
+      "onboard_time": 1707978512,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 173478,
       "num": 148071,
       "word": "被堵在去丈母娘家路上只能吃泡面",
@@ -7577,14 +7617,6 @@
       "onboard_time": 1707818738,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 172793,
-      "num": 172793,
-      "word": "工程T细胞杀癌能力提高100倍",
-      "onboard_time": 1707977133,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 172454,
@@ -8265,6 +8297,14 @@
       "onboard_time": 1707729029,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156787,
+      "num": 156787,
+      "word": "男子套圈套中十几只大鹅引热议",
+      "onboard_time": 1707978629,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156769,
@@ -10697,14 +10737,6 @@
       "onboard_time": 1707877290,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103768,
-      "num": 103768,
-      "word": "库里空砍41分",
-      "onboard_time": 1707978091,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 103701,

@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707978128738,
+  "endTime": 1707978908767,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1695087,
-      "num": 1695087,
+      "raw_hot": 1741054,
+      "num": 1741054,
       "word": "今年正月初六不用往外走了",
       "onboard_time": 1707974072,
       "rank": 46,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862091,
+      "num": 862091,
+      "word": "河池地震",
+      "onboard_time": 1707977734,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857097,
       "num": 857097,
       "word": "让侯雯元别蹲着拍了",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699960,
+      "num": 699960,
+      "word": "飞驰人生2票房超前作",
+      "onboard_time": 1707976770,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 693802,
       "num": 693802,
       "word": "柯南情人节杀人事件",
@@ -267,20 +283,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 586906,
-      "num": 586906,
-      "word": "河池地震",
-      "onboard_time": 1707977734,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 548496,
       "num": 548496,
       "word": "第二十条 校园暴力事件",
       "onboard_time": 1707964772,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 541153,
+      "num": 541153,
+      "word": "收割全国小学生的奥特曼卡片公司要上市了",
+      "onboard_time": 1707976172,
+      "rank": 6,
+      "category": "财经,动漫"
     },
     {
       "raw_hot": 537358,
@@ -321,22 +337,6 @@
       "onboard_time": 1707924097,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 517253,
-      "num": 517253,
-      "word": "飞驰人生2票房超前作",
-      "onboard_time": 1707976770,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 507390,
-      "num": 507390,
-      "word": "收割全国小学生的奥特曼卡片公司要上市了",
-      "onboard_time": 1707976172,
-      "rank": 6,
-      "category": "财经,动漫"
     },
     {
       "raw_hot": 505101,
@@ -555,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 352236,
+      "num": 352236,
+      "word": "乐莹朋友圈 我就要独自美丽",
+      "onboard_time": 1707976052,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 347336,
       "num": 347336,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -603,6 +611,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 315457,
+      "num": 276565,
+      "word": "拉肚子不等于吃坏了肚子",
+      "onboard_time": 1707975212,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311646,
       "num": 311646,
       "word": "王濛 永远不要小看每一分努力",
@@ -632,14 +648,6 @@
       "word": "六公主播人生路不熟",
       "onboard_time": 1707967290,
       "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 295960,
-      "num": 295960,
-      "word": "乐莹朋友圈 我就要独自美丽",
-      "onboard_time": 1707976052,
-      "rank": 17,
       "category": "电影"
     },
     {
@@ -683,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276565,
-      "num": 276565,
-      "word": "拉肚子不等于吃坏了肚子",
-      "onboard_time": 1707975212,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 272736,
       "num": 272736,
       "word": "吴磊直播间为赵今麦打圆场",
@@ -731,8 +731,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257669,
-      "num": 257669,
+      "raw_hot": 258765,
+      "num": 258765,
       "word": "檀健次vlog里有魏大勋",
       "onboard_time": 1707977489,
       "rank": 24,
@@ -761,6 +761,14 @@
       "onboard_time": 1707919778,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 243934,
+      "num": 243934,
+      "word": "刘诗诗春晚候场嘟嘴照",
+      "onboard_time": 1707978212,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 237764,
@@ -843,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218592,
+      "num": 218592,
+      "word": "张小斐扶贾玲",
+      "onboard_time": 1707978451,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208121,
       "num": 208121,
       "word": "化妆师供不应求",
@@ -857,6 +873,14 @@
       "onboard_time": 1707960212,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200736,
+      "num": 200736,
+      "word": "库里空砍41分",
+      "onboard_time": 1707978091,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 200667,
@@ -905,6 +929,14 @@
       "onboard_time": 1707925356,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193121,
+      "num": 193121,
+      "word": "工程T细胞杀癌能力提高100倍",
+      "onboard_time": 1707977133,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193058,
@@ -987,12 +1019,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172793,
-      "num": 172793,
-      "word": "工程T细胞杀癌能力提高100倍",
-      "onboard_time": 1707977133,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 173623,
+      "num": 173623,
+      "word": "海南官方建议游客可乘船离岛",
+      "onboard_time": 1707978512,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 172370,
@@ -1072,6 +1104,14 @@
       "word": "初六",
       "onboard_time": 1707975150,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156787,
+      "num": 156787,
+      "word": "男子套圈套中十几只大鹅引热议",
+      "onboard_time": 1707978629,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1473,14 +1513,6 @@
       "onboard_time": 1707914137,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103768,
-      "num": 103768,
-      "word": "库里空砍41分",
-      "onboard_time": 1707978091,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 102585,
