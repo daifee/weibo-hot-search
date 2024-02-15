@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707953653772,
+  "endTime": 1707959493675,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -345,6 +345,14 @@
       "onboard_time": 1707723448,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1810701,
+      "num": 385786,
+      "word": "白敬亭现场侧拍视频",
+      "onboard_time": 1707956607,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1798747,
@@ -712,6 +720,14 @@
       "word": "是赵丽颖啊",
       "onboard_time": 1707633091,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1246714,
+      "num": 853832,
+      "word": "在场人员还原王骁被骂事件始末",
+      "onboard_time": 1707953060,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -1315,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 881672,
+      "num": 881672,
+      "word": "大年初六送穷",
+      "onboard_time": 1707952280,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880343,
       "num": 880343,
       "word": "蔡徐坤清唱",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1707652950,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 841584,
-      "num": 841584,
-      "word": "大年初六送穷",
-      "onboard_time": 1707952280,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 840158,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1707619769,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 757095,
+      "num": 757095,
+      "word": "三亚机票",
+      "onboard_time": 1707957030,
+      "rank": 3,
+      "category": "旅游"
     },
     {
       "raw_hot": 752645,
@@ -2067,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620256,
+      "num": 620256,
+      "word": "马丽 捡到手机怎么还截屏",
+      "onboard_time": 1707958110,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 619488,
       "num": 666095,
       "word": "日本鹿儿岛县樱岛火山喷发",
@@ -2115,6 +2147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 611778,
+      "num": 611778,
+      "word": "麻油蒸蛋 荨麻疹",
+      "onboard_time": 1707954746,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1707608965,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 603770,
+      "num": 376011,
+      "word": "让侯雯元别蹲着拍了",
+      "onboard_time": 1707956848,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 596533,
@@ -2473,6 +2521,14 @@
       "onboard_time": 1707888570,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537358,
+      "num": 537358,
+      "word": "马思纯发了无修剧照",
+      "onboard_time": 1707953060,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 535299,
@@ -3411,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400642,
+      "num": 400642,
+      "word": "宁浩回应刘德华新片春节档遇冷",
+      "onboard_time": 1707956310,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399454,
       "num": 399454,
       "word": "贾玲下一部电影",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1707734672,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387154,
+      "num": 387154,
+      "word": "斐玲 妈知道",
+      "onboard_time": 1707954924,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385776,
@@ -3819,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346514,
+      "num": 346514,
+      "word": "都半熟了情绪还这么稳定",
+      "onboard_time": 1707954264,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345592,
       "num": 345592,
       "word": "你懂远嫁女儿的愧疚吗",
@@ -4027,6 +4107,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 323023,
+      "num": 323023,
+      "word": "赵丽颖主演票房突破30亿",
+      "onboard_time": 1707957452,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322789,
       "num": 322789,
       "word": "大年初三",
@@ -4099,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316837,
+      "num": 316837,
+      "word": "每天万名游客打卡刘亦菲同款古村落",
+      "onboard_time": 1707957869,
+      "rank": 15,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 316671,
       "num": 244964,
       "word": "前程朤朤怎么读",
@@ -4139,12 +4235,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 311646,
+      "num": 311646,
+      "word": "王濛 永远不要小看每一分努力",
+      "onboard_time": 1707956728,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
       "onboard_time": 1707608361,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310822,
+      "num": 310822,
+      "word": "贾玲镜头语言",
+      "onboard_time": 1707957271,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 310246,
+      "num": 161761,
+      "word": "白敬亭工作室公开招聘",
+      "onboard_time": 1707959369,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 308941,
@@ -4236,7 +4356,7 @@
     },
     {
       "raw_hot": 296112,
-      "num": 700328,
+      "num": 788969,
       "word": "2024春节档总票房已破50亿元",
       "onboard_time": 1707915156,
       "rank": 14,
@@ -4305,6 +4425,14 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290944,
+      "num": 290944,
+      "word": "美国1天内发生2起枪击案",
+      "onboard_time": 1707957330,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 288853,
@@ -4547,6 +4675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272736,
+      "num": 272736,
+      "word": "吴磊直播间为赵今麦打圆场",
+      "onboard_time": 1707934823,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272588,
       "num": 272588,
       "word": "农村堵成这样还是第一次",
@@ -4675,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264565,
+      "num": 264565,
+      "word": "新疆8分钟惊艳世界幕后的无名推手",
+      "onboard_time": 1707957569,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264127,
       "num": 264127,
       "word": "贾玲不觉得自己幽默是因为胖",
@@ -4697,6 +4841,14 @@
       "onboard_time": 1707793657,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260589,
+      "num": 260589,
+      "word": "过年见一面老同学后劲太大了",
+      "onboard_time": 1707953602,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 260279,
@@ -5131,6 +5283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237764,
+      "num": 237764,
+      "word": "热辣滚烫票房破20亿",
+      "onboard_time": 1707953542,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237610,
       "num": 237610,
       "word": "你爱上的人其实是你的性格",
@@ -5217,14 +5377,6 @@
       "onboard_time": 1707723149,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 234430,
-      "num": 234430,
-      "word": "吴磊直播间为赵今麦打圆场",
-      "onboard_time": 1707934823,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 234389,
@@ -5537,6 +5689,14 @@
       "onboard_time": 1707931466,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221266,
+      "num": 221266,
+      "word": "吵架后亲姐把弟弟丢高速",
+      "onboard_time": 1707942618,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220862,
@@ -6771,6 +6931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177800,
+      "num": 177800,
+      "word": "家里有个制造内耗的人才是最可怕的",
+      "onboard_time": 1707957869,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176363,
       "num": 176363,
       "word": "世界田联主席悼念基普图姆",
@@ -6913,6 +7081,14 @@
       "onboard_time": 1707908618,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172206,
+      "num": 172206,
+      "word": "白色橄榄树",
+      "onboard_time": 1707955586,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 172002,
@@ -7419,6 +7595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159568,
+      "num": 159568,
+      "word": "高叶 你们不懂逗小狗的乐趣",
+      "onboard_time": 1707955889,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159405,
       "num": 159405,
       "word": "以后春晚不许三个人一起上来了",
@@ -7561,6 +7745,14 @@
       "onboard_time": 1707819759,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156173,
+      "num": 156173,
+      "word": "秋瓷炫于晓光情人节大片",
+      "onboard_time": 1707946635,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155739,
@@ -7923,6 +8115,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 147693,
+      "num": 147693,
+      "word": "曝克林斯曼亲眼目睹韩国队内讧",
+      "onboard_time": 1707958893,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147552,
       "num": 147552,
       "word": "贾玲雷佳音爸爸客串热辣滚烫",
@@ -8105,14 +8305,6 @@
       "onboard_time": 1707833501,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143123,
-      "num": 135298,
-      "word": "马思纯发了无修剧照",
-      "onboard_time": 1707953060,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 143115,
@@ -8363,6 +8555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137922,
+      "num": 137922,
+      "word": "日本名义GDP跌出世界前三",
+      "onboard_time": 1707959190,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 137667,
       "num": 137667,
       "word": "文班亚马盖帽三双",
@@ -8523,14 +8723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133288,
-      "num": 92875,
-      "word": "吵架后亲姐把弟弟丢高速",
-      "onboard_time": 1707942618,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133205,
       "num": 133205,
       "word": "摇太阳男女主 没头脑和不高兴",
@@ -8627,6 +8819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131135,
+      "num": 131135,
+      "word": "终于读懂了送东阳马生序",
+      "onboard_time": 1707929669,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131004,
       "num": 131004,
       "word": "朱开爆料圣枪哥曾想退役",
@@ -8656,6 +8856,14 @@
       "word": "这是什么新型催婚方式",
       "onboard_time": 1707906097,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130332,
+      "num": 130332,
+      "word": "你们合不合适断联一下就知道了",
+      "onboard_time": 1707958949,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -8825,14 +9033,6 @@
       "onboard_time": 1707930685,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 127179,
-      "num": 127179,
-      "word": "在场人员还原王骁被骂事件始末",
-      "onboard_time": 1707953060,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 126991,
@@ -9073,14 +9273,6 @@
       "onboard_time": 1707886294,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121504,
-      "num": 121504,
-      "word": "秋瓷炫于晓光情人节大片",
-      "onboard_time": 1707946635,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121297,
@@ -9491,6 +9683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112608,
+      "num": 112608,
+      "word": "大年初六顺顺利利",
+      "onboard_time": 1707958291,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112504,
       "num": 112504,
       "word": "我表弟写的寒假作业",
@@ -9523,6 +9723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112334,
+      "num": 112334,
+      "word": "一岁半小宝贝凭本事拿到奶瓶",
+      "onboard_time": 1707930627,
+      "rank": 44,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 112309,
       "num": 112309,
       "word": "故宫美玉龙纹好惊艳",
@@ -9553,6 +9761,14 @@
       "onboard_time": 1707697588,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111944,
+      "num": 111944,
+      "word": "大学生走亲戚主打一个黔驴技穷",
+      "onboard_time": 1707955766,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 111798,
@@ -9611,20 +9827,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109791,
-      "num": 109791,
-      "word": "终于读懂了送东阳马生序",
-      "onboard_time": 1707929669,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109297,
       "num": 109297,
       "word": "打开红包结果里面是春节值班表",
       "onboard_time": 1707808296,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108409,
+      "num": 108409,
+      "word": "体脂率才是最诚实的胖瘦衡量标准",
+      "onboard_time": 1707933140,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108261,
@@ -9793,6 +10009,14 @@
       "onboard_time": 1707931045,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102197,
+      "num": 102197,
+      "word": "Fly在热辣滚烫里找到了共鸣",
+      "onboard_time": 1707959312,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 101973,
@@ -10139,14 +10363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73833,
-      "num": 73833,
-      "word": "体脂率才是最诚实的胖瘦衡量标准",
-      "onboard_time": 1707933140,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 72526,
       "num": 117727,
       "word": "中国女篮加油",
@@ -10201,14 +10417,6 @@
       "onboard_time": 1707468450,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62568,
-      "num": 62568,
-      "word": "一岁半小宝贝凭本事拿到奶瓶",
-      "onboard_time": 1707930627,
-      "rank": 44,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 61919,
@@ -10272,14 +10480,6 @@
       "word": "乐莹的头像也是这只狗",
       "onboard_time": 1707779962,
       "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 55802,
-      "num": 55802,
-      "word": "热辣滚烫票房破20亿",
-      "onboard_time": 1707953542,
-      "rank": 38,
       "category": "电影"
     },
     {
@@ -10401,14 +10601,6 @@
       "onboard_time": 1707859516,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 44812,
-      "num": 44812,
-      "word": "过年见一面老同学后劲太大了",
-      "onboard_time": 1707953602,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 43448,
