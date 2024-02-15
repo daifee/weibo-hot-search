@@ -1,0 +1,410 @@
+{
+  "runTime": 1708004109748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617643,
+        "num": 1617643,
+        "word": "贾玲 如果走位错了就把我打到那",
+        "onboard_time": 1707995616,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1614982,
+        "num": 1614982,
+        "word": "手机充电一定要满充满放吗",
+        "onboard_time": 1707999158,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17186,
+        "num": 1474096,
+        "word": "我与家人合个影",
+        "onboard_time": 1707969690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456483,
+        "num": 1456483,
+        "word": "刘维春晚只上了59秒",
+        "onboard_time": 1708002695,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1190147,
+        "num": 1190147,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1065801,
+        "num": 1065801,
+        "word": "王灿说嫁给杜淳前已经财富自由",
+        "onboard_time": 1707997956,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643057,
+        "num": 643057,
+        "word": "伏黑惠",
+        "onboard_time": 1707999694,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 638909,
+        "num": 638909,
+        "word": "对的不需要道歉",
+        "onboard_time": 1707997055,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 577225,
+        "num": 577225,
+        "word": "长相思2预计月底播出",
+        "onboard_time": 1707998377,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342239,
+        "num": 556469,
+        "word": "今年正月初六不用往外走了",
+        "onboard_time": 1707974072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546894,
+        "num": 546894,
+        "word": "谢楠看到瘦下来的贾玲后一直发抖",
+        "onboard_time": 1707988293,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490212,
+        "num": 490212,
+        "word": "顶顶好像潘粤明",
+        "onboard_time": 1708002937,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457828,
+        "num": 457828,
+        "word": "王一博衣服判官",
+        "onboard_time": 1708003178,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453301,
+        "num": 453301,
+        "word": "王东连发五条微博怒斥妻子",
+        "onboard_time": 1707995073,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436436,
+        "num": 436436,
+        "word": "肖战霍建华混合体",
+        "onboard_time": 1707992734,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410057,
+        "num": 410057,
+        "word": "英伟达创始人称必须学会计算机的时代过去了",
+        "onboard_time": 1708000116,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 407301,
+        "num": 407301,
+        "word": "张远眼睛到底是怎么变大的啊",
+        "onboard_time": 1708000236,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340940,
+        "num": 340940,
+        "word": "河南惊现贾玲分玲",
+        "onboard_time": 1707999997,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329226,
+        "num": 329226,
+        "word": "贾玲14年前曾找减肥搭子",
+        "onboard_time": 1707998437,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228288,
+        "num": 321952,
+        "word": "看电影时女子播放视频哄孩子",
+        "onboard_time": 1708002276,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498284,
+        "num": 321721,
+        "word": "孙悦隐退八年因为儿子复出",
+        "onboard_time": 1708003295,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318526,
+        "num": 318526,
+        "word": "徐梦洁去演短剧了",
+        "onboard_time": 1707995315,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271780,
+        "num": 271780,
+        "word": "贾玲 细腻的女性视角",
+        "onboard_time": 1707989251,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268709,
+        "num": 268709,
+        "word": "07年快男抗洪旧照",
+        "onboard_time": 1707994832,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262094,
+        "num": 262094,
+        "word": "突然好像没那么抵触相亲了",
+        "onboard_time": 1707996394,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240654,
+        "num": 240654,
+        "word": "胎儿石化",
+        "onboard_time": 1707992073,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 238998,
+        "num": 238998,
+        "word": "张颂文 治愈",
+        "onboard_time": 1708003178,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236385,
+        "num": 236385,
+        "word": "钟楚曦侯雯元和网友打招呼",
+        "onboard_time": 1707988892,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228440,
+        "num": 228440,
+        "word": "金秀贤金智媛婚礼剧照",
+        "onboard_time": 1707985172,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187364,
+        "num": 218102,
+        "word": "我使馆驳斥卡梅伦涉台湾海峡错误言论",
+        "onboard_time": 1708001977,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213694,
+        "num": 213694,
+        "word": "婚姻凑活过不了一辈子",
+        "onboard_time": 1707997956,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199390,
+        "num": 199390,
+        "word": "贾玲问老公是哪个男孩喊的",
+        "onboard_time": 1707993575,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219362,
+        "num": 199197,
+        "word": "侯雯元汗流浃背了吧",
+        "onboard_time": 1707983312,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198248,
+        "num": 198248,
+        "word": "薛之谦飞驰人生2观后感",
+        "onboard_time": 1707980071,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183741,
+        "num": 183741,
+        "word": "短剧",
+        "onboard_time": 1708000414,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177388,
+        "num": 177388,
+        "word": "正当防卫为什么会被搬上大银幕",
+        "onboard_time": 1707994655,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174838,
+        "num": 174838,
+        "word": "赵丽颖依然是求学路上的赶考生",
+        "onboard_time": 1707996813,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205198,
+        "num": 169564,
+        "word": "印尼发生多起涉中国游客交通及溺水事故",
+        "onboard_time": 1707991713,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162904,
+        "num": 162904,
+        "word": "姚明女儿13岁身高",
+        "onboard_time": 1707986432,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144309,
+        "num": 152852,
+        "word": "专家表示只搞钱不谈恋爱不可取",
+        "onboard_time": 1707987933,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163645,
+        "num": 152835,
+        "word": "檀健次分享朋友圈置顶内容",
+        "onboard_time": 1707997775,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151430,
+        "num": 151430,
+        "word": "张小斐 半脸冷漠半脸心疼",
+        "onboard_time": 1707972811,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149233,
+        "num": 149233,
+        "word": "王东",
+        "onboard_time": 1708003055,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147583,
+        "num": 147583,
+        "word": "苏尔发文求助",
+        "onboard_time": 1707999515,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138300,
+        "num": 138300,
+        "word": "第二十条张贵生丫丫戏外圆满了",
+        "onboard_time": 1708003836,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136535,
+        "num": 136535,
+        "word": "在妈妈怀里刚睡醒的小狗",
+        "onboard_time": 1707998795,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129764,
+        "num": 130952,
+        "word": "印尼",
+        "onboard_time": 1707989793,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130920,
+        "num": 130920,
+        "word": "世界上的压力源你避开了99%",
+        "onboard_time": 1707992612,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120964,
+        "num": 120964,
+        "word": "范丞丞挑战18秒模特pose",
+        "onboard_time": 1708001915,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93064,
+        "num": 116802,
+        "word": "回家穿搭是咋做到全国统一的",
+        "onboard_time": 1708003716,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

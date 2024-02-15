@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1708003126448,
+  "endTime": 1708004109748,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1614982,
+      "num": 1614982,
+      "word": "手机充电一定要满充满放吗",
+      "onboard_time": 1707999158,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1595724,
       "num": 1595724,
       "word": "杨玏王玉雯同游英国",
@@ -75,14 +83,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1509234,
-      "num": 1509234,
-      "word": "手机充电一定要满充满放吗",
-      "onboard_time": 1707999158,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1499292,
       "num": 1499292,
       "word": "杭州西湖2天捞起17部手机",
@@ -97,6 +97,14 @@
       "onboard_time": 1707988293,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1456483,
+      "num": 1456483,
+      "word": "刘维春晚只上了59秒",
+      "onboard_time": 1708002695,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1433909,
@@ -145,6 +153,14 @@
       "onboard_time": 1707985172,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1190147,
+      "num": 1190147,
+      "word": "薛之谦 盗摄",
+      "onboard_time": 1708003236,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 1181828,
@@ -475,14 +491,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 639102,
-      "num": 639102,
-      "word": "刘维春晚只上了59秒",
-      "onboard_time": 1708002695,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 623433,
       "num": 623433,
       "word": "我使馆发布去巴厘岛安全提醒",
@@ -635,6 +643,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498284,
+      "num": 321721,
+      "word": "孙悦隐退八年因为儿子复出",
+      "onboard_time": 1708003295,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 490212,
+      "num": 490212,
+      "word": "顶顶好像潘粤明",
+      "onboard_time": 1708002937,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484850,
       "num": 257011,
       "word": "30岁青年娶妻难疯进精神病院",
@@ -673,6 +697,14 @@
       "onboard_time": 1707978629,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457828,
+      "num": 457828,
+      "word": "王一博衣服判官",
+      "onboard_time": 1708003178,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 455322,
@@ -779,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410057,
+      "num": 410057,
+      "word": "英伟达创始人称必须学会计算机的时代过去了",
+      "onboard_time": 1708000116,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 406664,
       "num": 319353,
       "word": "农村妻跑族为何越来越多",
@@ -849,14 +889,6 @@
       "onboard_time": 1707957569,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378285,
-      "num": 378285,
-      "word": "英伟达创始人称必须学会计算机的时代过去了",
-      "onboard_time": 1708000116,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 376637,
@@ -1275,6 +1307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 238998,
+      "num": 238998,
+      "word": "张颂文 治愈",
+      "onboard_time": 1708003178,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238470,
       "num": 238470,
       "word": "赵丽颖依然是求学路上的赶考生",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228288,
+      "num": 321952,
+      "word": "看电影时女子播放视频哄孩子",
+      "onboard_time": 1708002276,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226493,
@@ -1667,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187364,
+      "num": 218102,
+      "word": "我使馆驳斥卡梅伦涉台湾海峡错误言论",
+      "onboard_time": 1708001977,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186463,
       "num": 186463,
       "word": "西村力营业",
@@ -1763,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175314,
-      "num": 175314,
-      "word": "我使馆驳斥卡梅伦涉台湾海峡错误言论",
-      "onboard_time": 1708001977,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 173827,
       "num": 173827,
       "word": "王者亚连落雪白狼皮肤",
@@ -1809,14 +1857,6 @@
       "onboard_time": 1707996636,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170202,
-      "num": 170202,
-      "word": "顶顶好像潘粤明",
-      "onboard_time": 1708002937,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 169552,
@@ -1995,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149233,
+      "num": 149233,
+      "word": "王东",
+      "onboard_time": 1708003055,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147693,
       "num": 147693,
       "word": "曝克林斯曼亲眼目睹韩国队内讧",
@@ -2115,14 +2163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140536,
-      "num": 140536,
-      "word": "看电影时女子播放视频哄孩子",
-      "onboard_time": 1708002276,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139795,
       "num": 139795,
       "word": "克莱战术犯规",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1707975690,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138300,
+      "num": 138300,
+      "word": "第二十条张贵生丫丫戏外圆满了",
+      "onboard_time": 1708003836,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 138286,
@@ -2329,14 +2377,6 @@
       "onboard_time": 1707970354,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123513,
-      "num": 123513,
-      "word": "王东",
-      "onboard_time": 1708003055,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 122979,
@@ -2604,7 +2644,7 @@
     },
     {
       "raw_hot": 99038,
-      "num": 1320734,
+      "num": 1474096,
       "word": "我与家人合个影",
       "onboard_time": 1707969690,
       "rank": 2,
@@ -2633,6 +2673,14 @@
       "onboard_time": 1707982292,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93064,
+      "num": 116802,
+      "word": "回家穿搭是咋做到全国统一的",
+      "onboard_time": 1708003716,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85500,
