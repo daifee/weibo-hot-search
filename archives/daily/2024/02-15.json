@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707962699955,
+  "endTime": 1707963803430,
   "band_list": [
     {
       "raw_hot": 2168799,
@@ -9,6 +9,14 @@
       "onboard_time": 1707956607,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1595724,
+      "num": 1595724,
+      "word": "杨玏王玉雯同游英国",
+      "onboard_time": 1707961770,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1246714,
@@ -24,14 +32,6 @@
       "word": "白敬亭工作室公开招聘",
       "onboard_time": 1707959369,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1047014,
-      "num": 1047014,
-      "word": "杨玏王玉雯同游英国",
-      "onboard_time": 1707961770,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -64,6 +64,14 @@
       "word": "大年初六送穷",
       "onboard_time": 1707952280,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859834,
+      "num": 717528,
+      "word": "我感觉好像没有家了",
+      "onboard_time": 1707961410,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 584372,
+      "num": 404625,
+      "word": "向佐当郭碧婷的人形雪橇犬",
+      "onboard_time": 1707962790,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537358,
       "num": 537358,
       "word": "马思纯发了无修剧照",
@@ -177,6 +193,14 @@
       "onboard_time": 1707917857,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 477713,
+      "num": 477713,
+      "word": "历届春晚一等奖小品",
+      "onboard_time": 1707960393,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 461471,
@@ -235,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424237,
-      "num": 424237,
-      "word": "历届春晚一等奖小品",
-      "onboard_time": 1707960393,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422298,
       "num": 422298,
       "word": "春节在家发现被爱的痕迹",
@@ -257,14 +273,6 @@
       "onboard_time": 1707928830,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404291,
-      "num": 404291,
-      "word": "我感觉好像没有家了",
-      "onboard_time": 1707961410,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401665,
@@ -387,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 286292,
+      "num": 173466,
+      "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+      "onboard_time": 1707963029,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272736,
       "num": 272736,
       "word": "吴磊直播间为赵今麦打圆场",
@@ -459,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215813,
+      "num": 215813,
+      "word": "开工大吉",
+      "onboard_time": 1707962491,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211407,
+      "num": 211407,
+      "word": "经常肩膀酸痛的人试试这个",
+      "onboard_time": 1707961233,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 208121,
       "num": 208121,
       "word": "化妆师供不应求",
@@ -475,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204646,
-      "num": 204646,
-      "word": "经常肩膀酸痛的人试试这个",
-      "onboard_time": 1707961233,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 196996,
       "num": 196996,
       "word": "热辣滚烫2024情人节档票房冠军",
       "onboard_time": 1707925239,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194870,
+      "num": 194870,
+      "word": "农村孩子的童年游戏只剩玩手机",
+      "onboard_time": 1707962430,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194426,
@@ -547,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173827,
+      "num": 173827,
+      "word": "王者亚连落雪白狼皮肤",
+      "onboard_time": 1707962853,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172370,
       "num": 172370,
       "word": "联播主播怎么做到扫一眼急稿就播",
@@ -595,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151772,
-      "num": 151772,
-      "word": "开工大吉",
-      "onboard_time": 1707962491,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147693,
       "num": 147693,
       "word": "曝克林斯曼亲眼目睹韩国队内讧",
@@ -617,6 +649,14 @@
       "onboard_time": 1707926197,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146063,
+      "num": 146063,
+      "word": "总看手机会加速得白内障吗",
+      "onboard_time": 1707962672,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141741,
@@ -643,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140062,
+      "num": 140062,
+      "word": "元气少女缘结神 咖啡店海报",
+      "onboard_time": 1707962132,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138286,
       "num": 138286,
       "word": "拜仁慕尼黑13年来首负意大利球队",
@@ -667,12 +715,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 133581,
-      "num": 133581,
-      "word": "农村孩子的童年游戏只剩玩手机",
-      "onboard_time": 1707962430,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 132860,
+      "num": 132860,
+      "word": "过年第一次去对象家",
+      "onboard_time": 1707963631,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 131135,
@@ -739,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120318,
-      "num": 120318,
-      "word": "总看手机会加速得白内障吗",
-      "onboard_time": 1707962672,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 120656,
+      "num": 120656,
+      "word": "樊振东花式夸马龙",
+      "onboard_time": 1707962491,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118513,
@@ -760,14 +808,6 @@
       "word": "斯图尔特拳击尤班克斯",
       "onboard_time": 1707960812,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117171,
-      "num": 117171,
-      "word": "樊振东花式夸马龙",
-      "onboard_time": 1707962491,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -851,7 +891,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 100329,
+      "raw_hot": 100478,
       "num": 828414,
       "word": "2024春节档总票房已破50亿元",
       "onboard_time": 1707915156,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707962699955,
+  "endTime": 1707963803430,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1707479622,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1595724,
+      "num": 1595724,
+      "word": "杨玏王玉雯同游英国",
+      "onboard_time": 1707961770,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1595648,
@@ -3795,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1047014,
-      "num": 1047014,
-      "word": "杨玏王玉雯同游英国",
-      "onboard_time": 1707961770,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1046831,
       "num": 1046831,
       "word": "春晚没有科目三",
@@ -5025,6 +5025,14 @@
       "onboard_time": 1707661831,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 859834,
+      "num": 717528,
+      "word": "我感觉好像没有家了",
+      "onboard_time": 1707961410,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859725,
@@ -8243,6 +8251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584372,
+      "num": 404625,
+      "word": "向佐当郭碧婷的人形雪橇犬",
+      "onboard_time": 1707962790,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583558,
       "num": 583558,
       "word": "赵丽颖张碧晨五搭",
@@ -10355,6 +10371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477713,
+      "num": 477713,
+      "word": "历届春晚一等奖小品",
+      "onboard_time": 1707960393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477103,
       "num": 300790,
       "word": "谁在消费3000元的美甲",
@@ -11515,14 +11539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424237,
-      "num": 424237,
-      "word": "历届春晚一等奖小品",
-      "onboard_time": 1707960393,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424182,
       "num": 424182,
       "word": "少爷和我",
@@ -12049,14 +12065,6 @@
       "onboard_time": 1707389855,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 404291,
-      "num": 404291,
-      "word": "我感觉好像没有家了",
-      "onboard_time": 1707961410,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404179,
@@ -16145,6 +16153,14 @@
       "onboard_time": 1707280651,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 286292,
+      "num": 173466,
+      "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+      "onboard_time": 1707963029,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285836,
@@ -20947,6 +20963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215813,
+      "num": 215813,
+      "word": "开工大吉",
+      "onboard_time": 1707962491,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215757,
       "num": 215757,
       "word": "金智媛金秀贤新剧首发预告",
@@ -21321,6 +21345,14 @@
       "onboard_time": 1706948908,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211407,
+      "num": 211407,
+      "word": "经常肩膀酸痛的人试试这个",
+      "onboard_time": 1707961233,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 211392,
@@ -22201,14 +22233,6 @@
       "onboard_time": 1707751117,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204646,
-      "num": 204646,
-      "word": "经常肩膀酸痛的人试试这个",
-      "onboard_time": 1707961233,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 204644,
@@ -23513,6 +23537,14 @@
       "onboard_time": 1707103709,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194870,
+      "num": 194870,
+      "word": "农村孩子的童年游戏只剩玩手机",
+      "onboard_time": 1707962430,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194861,
@@ -26289,6 +26321,14 @@
       "onboard_time": 1707201932,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173827,
+      "num": 173827,
+      "word": "王者亚连落雪白狼皮肤",
+      "onboard_time": 1707962853,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 173778,
@@ -29339,14 +29379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151772,
-      "num": 151772,
-      "word": "开工大吉",
-      "onboard_time": 1707962491,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151750,
       "num": 151750,
       "word": "繁花剧组将与谭爷爷一起春晚拜年",
@@ -30241,6 +30273,14 @@
       "onboard_time": 1706960972,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146063,
+      "num": 146063,
+      "word": "总看手机会加速得白内障吗",
+      "onboard_time": 1707962672,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146062,
@@ -31145,6 +31185,14 @@
       "onboard_time": 1707634532,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140062,
+      "num": 140062,
+      "word": "元气少女缘结神 咖啡店海报",
+      "onboard_time": 1707962132,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 139969,
@@ -32203,14 +32251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133581,
-      "num": 133581,
-      "word": "农村孩子的童年游戏只剩玩手机",
-      "onboard_time": 1707962430,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133494,
       "num": 746822,
       "word": "新春祝福",
@@ -32313,6 +32353,14 @@
       "onboard_time": 1707704191,
       "rank": 44,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 132860,
+      "num": 132860,
+      "word": "过年第一次去对象家",
+      "onboard_time": 1707963631,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 132810,
@@ -34275,6 +34323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120656,
+      "num": 120656,
+      "word": "樊振东花式夸马龙",
+      "onboard_time": 1707962491,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120636,
       "num": 120636,
       "word": "吴磊赵今麦沙发吻花絮",
@@ -34313,14 +34369,6 @@
       "onboard_time": 1706800953,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120318,
-      "num": 120318,
-      "word": "总看手机会加速得白内障吗",
-      "onboard_time": 1707962672,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120261,
@@ -34817,14 +34865,6 @@
       "onboard_time": 1706872294,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117171,
-      "num": 117171,
-      "word": "樊振东花式夸马龙",
-      "onboard_time": 1707962491,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 117142,
