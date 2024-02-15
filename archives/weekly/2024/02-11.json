@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707981318068,
+  "endTime": 1707982456729,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -593,6 +593,14 @@
       "onboard_time": 1707798515,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1433909,
+      "num": 1433909,
+      "word": "何老师用九年凑齐了九宫格",
+      "onboard_time": 1707979830,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1426930,
@@ -1217,14 +1225,6 @@
       "onboard_time": 1707922420,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 968709,
-      "num": 968709,
-      "word": "何老师用九年凑齐了九宫格",
-      "onboard_time": 1707979830,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 965081,
@@ -3251,8 +3251,8 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 459745,
-      "num": 459745,
+      "raw_hot": 460486,
+      "num": 460486,
       "word": "男子套圈套中十几只大鹅引热议",
       "onboard_time": 1707978629,
       "rank": 34,
@@ -4035,6 +4035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369498,
+      "num": 369498,
+      "word": "张颂文情商",
+      "onboard_time": 1707981092,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369061,
       "num": 369061,
       "word": "林孝埈十四冬",
@@ -4721,6 +4729,22 @@
       "onboard_time": 1707800257,
       "rank": 26,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 297640,
+      "num": 297640,
+      "word": "泰山景区今起暂停开放",
+      "onboard_time": 1707980192,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 297351,
+      "num": 297351,
+      "word": "具惠善时隔13年大学毕业",
+      "onboard_time": 1707981992,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 296780,
@@ -5595,6 +5619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244433,
+      "num": 244433,
+      "word": "吴磊和赵今麦你俩有点不像演的",
+      "onboard_time": 1707981511,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244417,
       "num": 244417,
       "word": "各省春晚收视率",
@@ -5753,6 +5785,14 @@
       "onboard_time": 1707879212,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236282,
+      "num": 236282,
+      "word": "陈飞宇站姐澄清探班",
+      "onboard_time": 1707980553,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 236204,
@@ -5921,14 +5961,6 @@
       "onboard_time": 1707878551,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231655,
-      "num": 231655,
-      "word": "陈飞宇站姐澄清探班",
-      "onboard_time": 1707980553,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 231554,
@@ -6291,6 +6323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215894,
+      "num": 215894,
+      "word": "97岁太奶怀抱不满1岁重孙好开心",
+      "onboard_time": 1707980969,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215513,
       "num": 215513,
       "word": "汪苏泷分享关于热辣滚烫的故事",
@@ -6337,14 +6377,6 @@
       "onboard_time": 1707801457,
       "rank": 32,
       "category": "网红,综艺"
-    },
-    {
-      "raw_hot": 213163,
-      "num": 165155,
-      "word": "泰山景区今起暂停开放",
-      "onboard_time": 1707980192,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 212627,
@@ -7137,6 +7169,14 @@
       "onboard_time": 1707595876,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "广西天峨县4.4级地震",
+      "onboard_time": 1707981753,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191156,
@@ -8979,14 +9019,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 143393,
-      "num": 143393,
-      "word": "97岁太奶怀抱不满1岁重孙好开心",
-      "onboard_time": 1707980969,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143362,
       "num": 143362,
       "word": "克莱为留勇士愿当配角",
@@ -9891,6 +9923,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 125198,
+      "num": 125198,
+      "word": "柯南2024剧场版正式预告",
+      "onboard_time": 1707981873,
+      "rank": 39,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 125144,
       "num": 125144,
       "word": "小尼任鲁豫开扇吓撒贝宁两跳",
@@ -10065,14 +10105,6 @@
       "onboard_time": 1707631772,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121659,
-      "num": 121659,
-      "word": "张颂文情商",
-      "onboard_time": 1707981092,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 121598,
@@ -10273,6 +10305,14 @@
       "onboard_time": 1707964653,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118040,
+      "num": 118040,
+      "word": "陈楚生献唱熊出没10主题曲",
+      "onboard_time": 1707981575,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 117999,
@@ -10827,6 +10867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105026,
+      "num": 105026,
+      "word": "三亚回程高峰预计持续到初十",
+      "onboard_time": 1707981270,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 104923,
       "num": 104923,
       "word": "新春幸福指南",
@@ -10971,14 +11019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99801,
-      "num": 99801,
-      "word": "三亚回程高峰预计持续到初十",
-      "onboard_time": 1707981270,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 99076,
       "num": 99076,
       "word": "摇太阳导演回应为何春节档上映",
@@ -11065,6 +11105,14 @@
       "onboard_time": 1707647554,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93361,
+      "num": 93361,
+      "word": "文咏珊做的红糖年糕",
+      "onboard_time": 1707982292,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 92874,

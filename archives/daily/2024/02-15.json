@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707981318068,
+  "endTime": 1707982456729,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1433909,
+      "num": 1433909,
+      "word": "何老师用九年凑齐了九宫格",
+      "onboard_time": 1707979830,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1246714,
       "num": 987339,
       "word": "在场人员还原王骁被骂事件始末",
@@ -105,14 +113,6 @@
       "onboard_time": 1707967411,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 968709,
-      "num": 968709,
-      "word": "何老师用九年凑齐了九宫格",
-      "onboard_time": 1707979830,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 960292,
@@ -411,8 +411,8 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 459745,
-      "num": 459745,
+      "raw_hot": 460486,
+      "num": 460486,
       "word": "男子套圈套中十几只大鹅引热议",
       "onboard_time": 1707978629,
       "rank": 34,
@@ -571,6 +571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 369498,
+      "num": 369498,
+      "word": "张颂文情商",
+      "onboard_time": 1707981092,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369061,
       "num": 369061,
       "word": "林孝埈十四冬",
@@ -689,6 +697,22 @@
       "onboard_time": 1707921999,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 297640,
+      "num": 297640,
+      "word": "泰山景区今起暂停开放",
+      "onboard_time": 1707980192,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 297351,
+      "num": 297351,
+      "word": "具惠善时隔13年大学毕业",
+      "onboard_time": 1707981992,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 296780,
@@ -819,6 +843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 244433,
+      "num": 244433,
+      "word": "吴磊和赵今麦你俩有点不像演的",
+      "onboard_time": 1707981511,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237764,
       "num": 237764,
       "word": "热辣滚烫票房破20亿",
@@ -827,20 +859,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236282,
+      "num": 236282,
+      "word": "陈飞宇站姐澄清探班",
+      "onboard_time": 1707980553,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236204,
       "num": 236204,
       "word": "猫猫一拳把蛋黄揍翻",
       "onboard_time": 1707973233,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231655,
-      "num": 231655,
-      "word": "陈飞宇站姐澄清探班",
-      "onboard_time": 1707980553,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 231554,
@@ -915,12 +947,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213163,
-      "num": 165155,
-      "word": "泰山景区今起暂停开放",
-      "onboard_time": 1707980192,
-      "rank": 31,
-      "category": "旅游"
+      "raw_hot": 215894,
+      "num": 215894,
+      "word": "97岁太奶怀抱不满1岁重孙好开心",
+      "onboard_time": 1707980969,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209262,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1707968071,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "广西天峨县4.4级地震",
+      "onboard_time": 1707981753,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188080,
@@ -1251,14 +1291,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 143393,
-      "num": 143393,
-      "word": "97岁太奶怀抱不满1岁重孙好开心",
-      "onboard_time": 1707980969,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143183,
       "num": 143183,
       "word": "巴音布鲁克唯一的海",
@@ -1451,6 +1483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125198,
+      "num": 125198,
+      "word": "柯南2024剧场版正式预告",
+      "onboard_time": 1707981873,
+      "rank": 39,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 124977,
       "num": 124977,
       "word": "1000米预赛林孝埈小组第一",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1707966391,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121659,
-      "num": 121659,
-      "word": "张颂文情商",
-      "onboard_time": 1707981092,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 121496,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1707964653,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118040,
+      "num": 118040,
+      "word": "陈楚生献唱熊出没10主题曲",
+      "onboard_time": 1707981575,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 117330,
@@ -1627,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105026,
+      "num": 105026,
+      "word": "三亚回程高峰预计持续到初十",
+      "onboard_time": 1707981270,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102585,
       "num": 93013,
       "word": "李菲直播",
@@ -1667,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99801,
-      "num": 99801,
-      "word": "三亚回程高峰预计持续到初十",
-      "onboard_time": 1707981270,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 99038,
       "num": 1016219,
       "word": "我与家人合个影",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1707977552,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93361,
+      "num": 93361,
+      "word": "文咏珊做的红糖年糕",
+      "onboard_time": 1707982292,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 85500,
