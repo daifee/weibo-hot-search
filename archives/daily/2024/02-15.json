@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707986080120,
+  "endTime": 1707988800276,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1207393,
+      "num": 1207393,
+      "word": "金秀贤金智媛婚礼剧照",
+      "onboard_time": 1707985172,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1181828,
       "num": 284060,
       "word": "白敬亭工作室公开招聘",
@@ -91,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1138589,
+      "num": 1138589,
+      "word": "姚明女儿13岁身高",
+      "onboard_time": 1707986432,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1063637,
       "num": 1063637,
       "word": "何老师的脑洞我也是服了",
       "onboard_time": 1707966574,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1047821,
+      "num": 1047821,
+      "word": "中文已经不是加密语言了",
+      "onboard_time": 1707985833,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1020365,
@@ -315,14 +339,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 659138,
-      "num": 659138,
-      "word": "金秀贤金智媛婚礼剧照",
-      "onboard_time": 1707985172,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 616277,
       "num": 616277,
       "word": "谢晖婚礼",
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474289,
+      "num": 474289,
+      "word": "女子东北开化后1天被迫干掉4斤大虾",
+      "onboard_time": 1707983190,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461471,
       "num": 461471,
       "word": "接吻可能带来幽门螺杆菌感染风险",
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 422298,
-      "num": 869127,
+      "num": 1070898,
       "word": "春节在家发现被爱的痕迹",
       "onboard_time": 1707959672,
       "rank": 30,
@@ -731,20 +755,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 334095,
-      "num": 334095,
-      "word": "女子东北开化后1天被迫干掉4斤大虾",
-      "onboard_time": 1707983190,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331378,
       "num": 331378,
       "word": "泰山景区今起暂停开放",
       "onboard_time": 1707980192,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 319196,
+      "num": 319196,
+      "word": "专注力退化 刷短视频倍速",
+      "onboard_time": 1707986972,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 316803,
@@ -795,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297732,
+      "num": 297732,
+      "word": "刘耀文天津",
+      "onboard_time": 1707986672,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296780,
       "num": 254124,
       "word": "六公主播人生路不熟",
@@ -843,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282009,
+      "num": 282009,
+      "word": "谢楠看到瘦下来的贾玲后一直发抖",
+      "onboard_time": 1707988293,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276948,
       "num": 276948,
       "word": "摇太阳退出春节档",
@@ -857,6 +897,14 @@
       "onboard_time": 1707969994,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272982,
+      "num": 272982,
+      "word": "王鹤棣抵达印第安纳",
+      "onboard_time": 1707988052,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 272736,
@@ -881,6 +929,14 @@
       "onboard_time": 1707966574,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266103,
+      "num": 266103,
+      "word": "苹果VisionPro遭遇退货潮",
+      "onboard_time": 1707984454,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 264508,
@@ -913,14 +969,6 @@
       "onboard_time": 1707965670,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246474,
-      "num": 246474,
-      "word": "苹果VisionPro遭遇退货潮",
-      "onboard_time": 1707984454,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 246458,
@@ -1035,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217135,
+      "num": 217135,
+      "word": "相亲真的有感情吗",
+      "onboard_time": 1707985712,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215894,
       "num": 215894,
       "word": "97岁太奶怀抱不满1岁重孙好开心",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1707980249,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209178,
+      "num": 209178,
+      "word": "鸭脖淋巴多是否会致癌",
+      "onboard_time": 1707986375,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208121,
@@ -1075,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204920,
-      "num": 162288,
-      "word": "中文已经不是加密语言了",
-      "onboard_time": 1707985833,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 204119,
+      "num": 204119,
+      "word": "贾玲带着热辣滚烫回家乡",
+      "onboard_time": 1707986792,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 200736,
@@ -1147,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "凌晨四点妈妈不睡觉",
+      "onboard_time": 1707986311,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194426,
       "num": 186637,
       "word": "华晨宇祝大家西施节快乐",
@@ -1203,12 +1275,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187557,
+      "num": 209318,
+      "word": "专家表示只搞钱不谈恋爱不可取",
+      "onboard_time": 1707987933,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186463,
       "num": 186463,
       "word": "西村力营业",
       "onboard_time": 1707924279,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185400,
+      "num": 185400,
+      "word": "降温",
+      "onboard_time": 1707986193,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185227,
@@ -1299,20 +1387,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 167799,
+      "num": 167799,
+      "word": "沈月 看书像吃保健品",
+      "onboard_time": 1707986551,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167610,
+      "num": 209244,
+      "word": "拔完充电线再见又是一年",
+      "onboard_time": 1707985652,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162865,
       "num": 162865,
       "word": "贾玲 最美的盛开是反击",
       "onboard_time": 1707917377,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162687,
-      "num": 162687,
-      "word": "相亲真的有感情吗",
-      "onboard_time": 1707985712,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 162433,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1707975150,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157445,
+      "num": 157445,
+      "word": "小米14Ultra正面渲染图曝光",
+      "onboard_time": 1707987514,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 156413,
@@ -1539,6 +1643,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 132705,
+      "num": 132705,
+      "word": "第二十条原型",
+      "onboard_time": 1707987333,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131135,
       "num": 131135,
       "word": "终于读懂了送东阳马生序",
@@ -1569,6 +1681,14 @@
       "onboard_time": 1707928232,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "贾玲拍拳赛上场爆哭",
+      "onboard_time": 1707986614,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 129477,
@@ -1691,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119777,
+      "num": 119777,
+      "word": "中式梦核",
+      "onboard_time": 1707987153,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118683,
       "num": 118683,
       "word": "广西多地有震感",
@@ -1729,14 +1857,6 @@
       "onboard_time": 1707981575,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117987,
-      "num": 117987,
-      "word": "拔完充电线再见又是一年",
-      "onboard_time": 1707985652,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117330,
@@ -1875,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102171,
+      "num": 102171,
+      "word": "WTT沙特大满贯2024",
+      "onboard_time": 1707986851,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101189,
       "num": 101189,
       "word": "梨形是科学家眼中最健康的身材",
@@ -1905,6 +2033,14 @@
       "onboard_time": 1707977552,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95620,
+      "num": 95620,
+      "word": "胖子不一定更抗冻",
+      "onboard_time": 1707988650,
+      "rank": 49,
+      "category": "运动健身,幽默"
     },
     {
       "raw_hot": 93361,
