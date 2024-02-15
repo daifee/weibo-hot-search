@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/16 00:21:25 ~ 2024/02/16 03:33:53
+本榜单时间：2024/02/16 00:21:25 ~ 2024/02/16 04:16:13
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ ateez 抄袭（热度：424956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6AI%23" target="weibo">
+薛之谦AI（热度：43034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%93%A6%E8%BF%AA%E5%A4%AB%E5%8D%A1%E5%B1%80%E5%8A%BF%23" target="weibo">
 阿瓦迪夫卡局势（热度：41751）
 </a>
@@ -383,12 +389,6 @@ ateez 抄袭（热度：424956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%9A%82%E5%88%AB%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23" target="weibo">
 杭州西湖暂别人山人海（热度：26043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6AI%23" target="weibo">
-薛之谦AI（热度：23408）
 </a>
 </li>
 

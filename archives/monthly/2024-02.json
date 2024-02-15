@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708025633707,
+  "endTime": 1708028173927,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -40875,6 +40875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43034,
+      "num": 43034,
+      "word": "薛之谦AI",
+      "onboard_time": 1708025358,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 42869,
       "num": 435222,
       "word": "蛋仔莓莓甜心兔",
@@ -41729,14 +41737,6 @@
       "onboard_time": 1707390571,
       "rank": 39,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 23408,
-      "num": 23408,
-      "word": "薛之谦AI",
-      "onboard_time": 1708025358,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 23271,

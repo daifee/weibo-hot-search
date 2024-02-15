@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708025633707,
+  "endTime": 1708028173927,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43034,
+      "num": 43034,
+      "word": "薛之谦AI",
+      "onboard_time": 1708025358,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 41751,
       "num": 41751,
       "word": "阿瓦迪夫卡局势",
@@ -497,14 +505,6 @@
       "onboard_time": 1708023679,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23408,
-      "num": 23408,
-      "word": "薛之谦AI",
-      "onboard_time": 1708025358,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 17855,
