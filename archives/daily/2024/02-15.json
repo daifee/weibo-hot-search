@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707975309673,
+  "endTime": 1707978128738,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -17,6 +17,14 @@
       "onboard_time": 1707956607,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1695087,
+      "num": 1695087,
+      "word": "今年正月初六不用往外走了",
+      "onboard_time": 1707974072,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1595724,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1181828,
-      "num": 277163,
+      "num": 284060,
       "word": "白敬亭工作室公开招聘",
       "onboard_time": 1707959369,
       "rank": 30,
@@ -137,6 +145,14 @@
       "onboard_time": 1707956848,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 844802,
+      "num": 844802,
+      "word": "回村后吃到的高仿",
+      "onboard_time": 1707973534,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 836075,
@@ -251,6 +267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 586906,
+      "num": 586906,
+      "word": "河池地震",
+      "onboard_time": 1707977734,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548496,
       "num": 548496,
       "word": "第二十条 校园暴力事件",
@@ -299,20 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520246,
-      "num": 520246,
-      "word": "今年正月初六不用往外走了",
-      "onboard_time": 1707974072,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 517253,
+      "num": 517253,
+      "word": "飞驰人生2票房超前作",
+      "onboard_time": 1707976770,
+      "rank": 5,
+      "category": "电影"
     },
     {
-      "raw_hot": 505726,
-      "num": 185923,
-      "word": "回村后吃到的高仿",
-      "onboard_time": 1707973534,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 507390,
+      "num": 507390,
+      "word": "收割全国小学生的奥特曼卡片公司要上市了",
+      "onboard_time": 1707976172,
+      "rank": 6,
+      "category": "财经,动漫"
     },
     {
       "raw_hot": 505101,
@@ -353,6 +377,14 @@
       "onboard_time": 1707925297,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 454598,
+      "num": 454598,
+      "word": "张远记了王栎鑫半年的仇",
+      "onboard_time": 1707975212,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 453009,
@@ -555,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316803,
+      "num": 316803,
+      "word": "王俊凯去上班了",
+      "onboard_time": 1707974970,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316114,
       "num": 316114,
       "word": "经常肩膀酸痛的人试试这个",
@@ -595,12 +635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293374,
-      "num": 293374,
-      "word": "王俊凯去上班了",
-      "onboard_time": 1707974970,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 295960,
+      "num": 295960,
+      "word": "乐莹朋友圈 我就要独自美丽",
+      "onboard_time": 1707976052,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 290774,
@@ -619,12 +659,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284107,
+      "num": 284107,
+      "word": "快船战胜勇士",
+      "onboard_time": 1707976408,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283757,
+      "num": 283757,
+      "word": "张杰从除夕锻炼到大年初六",
+      "onboard_time": 1707974734,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276771,
       "num": 276771,
       "word": "林孝埈武大靖500米晋级",
       "onboard_time": 1707969994,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276565,
+      "num": 276565,
+      "word": "拉肚子不等于吃坏了肚子",
+      "onboard_time": 1707975212,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 272736,
@@ -667,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257669,
+      "num": 257669,
+      "word": "檀健次vlog里有魏大勋",
+      "onboard_time": 1707977489,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250598,
       "num": 250598,
       "word": "江南百景图闪退",
@@ -691,14 +763,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 245252,
-      "num": 245252,
-      "word": "张杰从除夕锻炼到大年初六",
-      "onboard_time": 1707974734,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237764,
       "num": 237764,
       "word": "热辣滚烫票房破20亿",
@@ -721,14 +785,6 @@
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 229517,
-      "num": 229517,
-      "word": "张远记了王栎鑫半年的仇",
-      "onboard_time": 1707975212,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 223355,
@@ -801,6 +857,14 @@
       "onboard_time": 1707960212,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200667,
+      "num": 200667,
+      "word": "我在80年代当后妈男主",
+      "onboard_time": 1707975930,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 200292,
@@ -921,6 +985,14 @@
       "onboard_time": 1707962853,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172793,
+      "num": 172793,
+      "word": "工程T细胞杀癌能力提高100倍",
+      "onboard_time": 1707977133,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172370,
@@ -1067,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143731,
+      "num": 143731,
+      "word": "柯南剧场版平和上大分",
+      "onboard_time": 1707976650,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 143183,
       "num": 143183,
       "word": "巴音布鲁克唯一的海",
@@ -1107,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139651,
+      "num": 139651,
+      "word": "泰伦卢被驱逐",
+      "onboard_time": 1707975690,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138286,
       "num": 138286,
       "word": "拜仁慕尼黑13年来首负意大利球队",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1707929669,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131045,
+      "num": 131045,
+      "word": "张驰的复杂",
+      "onboard_time": 1707977311,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 130312,
@@ -1315,14 +1411,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 115133,
-      "num": 115133,
-      "word": "拉肚子不等于吃坏了肚子",
-      "onboard_time": 1707975212,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114025,
       "num": 114025,
       "word": "新疆乌什县4.7级地震",
@@ -1387,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103768,
+      "num": 103768,
+      "word": "库里空砍41分",
+      "onboard_time": 1707978091,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102585,
       "num": 93013,
       "word": "李菲直播",
@@ -1433,6 +1529,14 @@
       "onboard_time": 1707969690,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95626,
+      "num": 95626,
+      "word": "被十几年前的回忆整破防了",
+      "onboard_time": 1707977552,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 85500,
