@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707992331094,
+  "endTime": 1707993287693,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2748070,
-      "num": 514005,
+      "num": 614307,
       "word": "白敬亭 鬼畜区",
       "onboard_time": 1707989973,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 863980,
+      "num": 863980,
+      "word": "印尼",
+      "onboard_time": 1707989793,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 862091,
       "num": 862091,
       "word": "河池地震",
@@ -243,12 +251,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 841984,
-      "num": 841984,
-      "word": "印尼",
-      "onboard_time": 1707989793,
-      "rank": 3,
-      "category": "旅游"
+      "raw_hot": 844536,
+      "num": 844536,
+      "word": "吴尊纹身",
+      "onboard_time": 1707991115,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 836075,
@@ -371,6 +379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 642232,
+      "num": 642232,
+      "word": "印尼发生多起涉中国游客交通及溺水事故",
+      "onboard_time": 1707991713,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623433,
       "num": 623433,
       "word": "我使馆发布去巴厘岛安全提醒",
@@ -465,14 +481,6 @@
       "onboard_time": 1707924097,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510375,
-      "num": 510375,
-      "word": "吴尊纹身",
-      "onboard_time": 1707991115,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 505101,
@@ -619,12 +627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413789,
+      "num": 413789,
+      "word": "肖战霍建华混合体",
+      "onboard_time": 1707992734,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411531,
       "num": 411531,
       "word": "授她以柄",
       "onboard_time": 1707928830,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406664,
+      "num": 319353,
+      "word": "农村妻跑族为何越来越多",
+      "onboard_time": 1707991474,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402019,
@@ -723,20 +747,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 371069,
-      "num": 371069,
-      "word": "印尼发生多起涉中国游客交通及溺水事故",
-      "onboard_time": 1707991713,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370360,
       "num": 370360,
       "word": "海南官方建议游客可乘船离岛",
       "onboard_time": 1707978512,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 370221,
+      "num": 370221,
+      "word": "去黄才是变白的核心",
+      "onboard_time": 1707991115,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 369498,
@@ -811,14 +835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 344816,
-      "num": 182046,
-      "word": "去黄才是变白的核心",
-      "onboard_time": 1707991115,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 344696,
       "num": 344696,
       "word": "马立奥过年真的很开心",
@@ -881,6 +897,14 @@
       "onboard_time": 1707957271,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 303403,
+      "num": 895280,
+      "word": "春节档票房破60亿元",
+      "onboard_time": 1707990993,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297921,
@@ -1035,28 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251034,
-      "num": 251034,
-      "word": "农村妻跑族为何越来越多",
-      "onboard_time": 1707991474,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250598,
       "num": 250598,
       "word": "江南百景图闪退",
       "onboard_time": 1707965670,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249937,
-      "num": 895280,
-      "word": "春节档票房破60亿元",
-      "onboard_time": 1707990993,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246458,
@@ -1307,6 +1315,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196660,
+      "num": 176215,
+      "word": "建议直接送去大学深造",
+      "onboard_time": 1707991354,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 195839,
+      "num": 626611,
+      "word": "小姑娘练得满头汗笑着说喜欢舞狮",
+      "onboard_time": 1707990632,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194870,
       "num": 194870,
       "word": "农村孩子的童年游戏只剩玩手机",
@@ -1427,14 +1451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179528,
-      "num": 552329,
-      "word": "小姑娘练得满头汗笑着说喜欢舞狮",
-      "onboard_time": 1707990632,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179205,
       "num": 179205,
       "word": "梅西首发出战纽维尔老男孩",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1707965733,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175325,
+      "num": 175325,
+      "word": "李菲的小短剧",
+      "onboard_time": 1707992558,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 173827,
@@ -1507,14 +1531,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 168198,
-      "num": 168198,
-      "word": "建议直接送去大学深造",
-      "onboard_time": 1707991354,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167799,
       "num": 167799,
       "word": "沈月 看书像吃保健品",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1707917377,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162523,
+      "num": 162523,
+      "word": "世界上的压力源你避开了99%",
+      "onboard_time": 1707992612,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 162433,
@@ -1609,6 +1633,14 @@
       "onboard_time": 1707946635,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154461,
+      "num": 154461,
+      "word": "不带恨意的觉醒才是真正的自由",
+      "onboard_time": 1707992317,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 152228,
@@ -1779,6 +1811,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 131597,
+      "num": 131597,
+      "word": "胎儿石化",
+      "onboard_time": 1707992073,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131135,
       "num": 131135,
       "word": "终于读懂了送东阳马生序",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1707970832,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129358,
+      "num": 129358,
+      "word": "3个动作教你燃烧腹部脂肪",
+      "onboard_time": 1707992914,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 129065,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1707989554,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108879,
-      "num": 108879,
-      "word": "不带恨意的觉醒才是真正的自由",
-      "onboard_time": 1707992317,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 108644,
