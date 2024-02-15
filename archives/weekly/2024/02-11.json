@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707995722628,
+  "endTime": 1707996869517,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -105,6 +105,14 @@
       "onboard_time": 1707747878,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2976929,
+      "num": 505600,
+      "word": "宋家腾为白敬亭发声",
+      "onboard_time": 1707995676,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 2901318,
@@ -1171,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1043372,
+      "num": 1043372,
+      "word": "贾玲问老公是哪个男孩喊的",
+      "onboard_time": 1707993575,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1042838,
       "num": 1042838,
       "word": "上春山 逐帧分析",
@@ -1523,6 +1539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 877671,
+      "num": 877671,
+      "word": "贾玲 如果走位错了就把我打到那",
+      "onboard_time": 1707995616,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 867485,
       "num": 867485,
       "word": "侯雯元汗流浃背了吧",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1707911678,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 826637,
-      "num": 826637,
-      "word": "贾玲问老公是哪个男孩喊的",
-      "onboard_time": 1707993575,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 819907,
@@ -2160,6 +2176,14 @@
       "word": "陆虎陈曌旭情人节发糖",
       "onboard_time": 1707890015,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 682657,
+      "num": 682657,
+      "word": "07年快男抗洪旧照",
+      "onboard_time": 1707994832,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -3115,6 +3139,14 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 501960,
+      "num": 501960,
+      "word": "徐梦洁去演短剧了",
+      "onboard_time": 1707995315,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501922,
       "num": 358374,
       "word": "特朗普鼓励俄罗斯攻击拖欠会费的北约成员国",
@@ -3971,14 +4003,6 @@
       "category": "旅游,艺人"
     },
     {
-      "raw_hot": 398928,
-      "num": 398928,
-      "word": "07年快男抗洪旧照",
-      "onboard_time": 1707994832,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398044,
       "num": 398044,
       "word": "女儿在委屈诉苦",
@@ -4337,6 +4361,14 @@
       "onboard_time": 1707703769,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364568,
+      "num": 364568,
+      "word": "王东连发五条微博怒斥妻子",
+      "onboard_time": 1707995073,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 364015,
@@ -4715,14 +4747,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 326624,
-      "num": 326624,
-      "word": "徐梦洁去演短剧了",
-      "onboard_time": 1707995315,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -4948,7 +4972,7 @@
     },
     {
       "raw_hot": 303403,
-      "num": 898235,
+      "num": 943621,
       "word": "春节档票房破60亿元",
       "onboard_time": 1707990993,
       "rank": 2,
@@ -5281,14 +5305,6 @@
       "onboard_time": 1707804516,
       "rank": 30,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 278556,
-      "num": 278556,
-      "word": "王东连发五条微博怒斥妻子",
-      "onboard_time": 1707995073,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 278458,
@@ -5793,6 +5809,14 @@
       "onboard_time": 1707892651,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251189,
+      "num": 251189,
+      "word": "突然好像没那么抵触相亲了",
+      "onboard_time": 1707996394,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 251092,
@@ -6371,6 +6395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227134,
+      "num": 227134,
+      "word": "赵丽颖依然是求学路上的赶考生",
+      "onboard_time": 1707996813,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226604,
       "num": 226604,
       "word": "热辣滚烫广州路演",
@@ -6681,6 +6713,14 @@
       "onboard_time": 1707560856,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213441,
+      "num": 213441,
+      "word": "林孝埈一起去米兰吧",
+      "onboard_time": 1707995434,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 213360,
@@ -7323,6 +7363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197440,
+      "num": 197440,
+      "word": "建议直接送去大学深造",
+      "onboard_time": 1707991354,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197269,
       "num": 197269,
       "word": "飞驰2破18亿主创秀十八般武艺",
@@ -7377,14 +7425,6 @@
       "onboard_time": 1707711451,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196660,
-      "num": 195945,
-      "word": "建议直接送去大学深造",
-      "onboard_time": 1707991354,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 196518,
@@ -7651,6 +7691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 189057,
+      "num": 189057,
+      "word": "enhypen封面",
+      "onboard_time": 1707996336,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188967,
       "num": 188967,
       "word": "蔡康永晒孙俪手写春联",
@@ -7849,6 +7897,14 @@
       "onboard_time": 1707820121,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 182862,
+      "num": 182862,
+      "word": "不在外面和主人相认",
+      "onboard_time": 1707996394,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 182807,
@@ -8699,14 +8755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162190,
-      "num": 162190,
-      "word": "宋家腾为白敬亭发声",
-      "onboard_time": 1707995676,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162119,
       "num": 162119,
       "word": "网友在财政部下的许愿很统一",
@@ -9307,14 +9355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148914,
-      "num": 148914,
-      "word": "林孝埈一起去米兰吧",
-      "onboard_time": 1707995434,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148759,
       "num": 148759,
       "word": "浓眉20分14篮板",
@@ -9625,14 +9665,6 @@
       "onboard_time": 1707875793,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142055,
-      "num": 142055,
-      "word": "贾玲 如果走位错了就把我打到那",
-      "onboard_time": 1707995616,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 141997,
@@ -10897,6 +10929,14 @@
       "onboard_time": 1707728313,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "小短剧 弯道超车",
+      "onboard_time": 1707996636,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117611,
