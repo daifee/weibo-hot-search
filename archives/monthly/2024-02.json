@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1707989630171,
+  "endTime": 1707992331094,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -617,6 +617,14 @@
       "onboard_time": 1706873973,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2748070,
+      "num": 514005,
+      "word": "白敬亭 鬼畜区",
+      "onboard_time": 1707989973,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2742175,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1707117935,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1465589,
+      "num": 1465589,
+      "word": "谢楠看到瘦下来的贾玲后一直发抖",
+      "onboard_time": 1707988293,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 1464648,
@@ -3859,14 +3875,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 1052402,
-      "num": 1052402,
-      "word": "谢楠看到瘦下来的贾玲后一直发抖",
-      "onboard_time": 1707988293,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1050176,
       "num": 1050176,
       "word": "木村拓哉俩女儿颜值",
@@ -5291,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 841984,
+      "num": 841984,
+      "word": "印尼",
+      "onboard_time": 1707989793,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 840560,
       "num": 840560,
       "word": "迈阿密主帅称梅西弃赛是团队决定",
@@ -5849,6 +5865,14 @@
       "onboard_time": 1707829539,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 787336,
+      "num": 787336,
+      "word": "钟楚曦侯雯元和网友打招呼",
+      "onboard_time": 1707988892,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 787071,
@@ -7923,6 +7947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623433,
+      "num": 623433,
+      "word": "我使馆发布去巴厘岛安全提醒",
+      "onboard_time": 1707989432,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623330,
       "num": 623330,
       "word": "短发的韩素希",
@@ -9179,14 +9211,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 543640,
-      "num": 419963,
-      "word": "钟楚曦侯雯元和网友打招呼",
-      "onboard_time": 1707988892,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 543535,
       "num": 543535,
       "word": "当一个行业开始赚钱女性就被迫离开",
@@ -9921,6 +9945,14 @@
       "onboard_time": 1707435264,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 510375,
+      "num": 510375,
+      "word": "吴尊纹身",
+      "onboard_time": 1707991115,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 509722,
@@ -11555,6 +11587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436134,
+      "num": 436134,
+      "word": "专注力退化 刷短视频倍速",
+      "onboard_time": 1707986972,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 435641,
       "num": 435641,
       "word": "iPhone拍烟花模式",
@@ -12417,14 +12457,6 @@
       "onboard_time": 1707867743,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402283,
-      "num": 402283,
-      "word": "专注力退化 刷短视频倍速",
-      "onboard_time": 1707986972,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 402202,
@@ -13435,6 +13467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371069,
+      "num": 371069,
+      "word": "印尼发生多起涉中国游客交通及溺水事故",
+      "onboard_time": 1707991713,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371030,
       "num": 371030,
       "word": "印度外长说不应害怕中国",
@@ -14123,6 +14163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353300,
+      "num": 353300,
+      "word": "贾玲 细腻的女性视角",
+      "onboard_time": 1707989251,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353170,
       "num": 603500,
       "word": "董宇辉回村的生活有多惬意",
@@ -14353,6 +14401,14 @@
       "onboard_time": 1707816698,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344816,
+      "num": 182046,
+      "word": "去黄才是变白的核心",
+      "onboard_time": 1707991115,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 344696,
@@ -16739,6 +16795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283956,
+      "num": 283956,
+      "word": "专家表示只搞钱不谈恋爱不可取",
+      "onboard_time": 1707987933,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283848,
       "num": 283848,
       "word": "逆水寒白龙",
@@ -18747,6 +18811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 251034,
+      "num": 251034,
+      "word": "农村妻跑族为何越来越多",
+      "onboard_time": 1707991474,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250933,
       "num": 227741,
       "word": "单独饲养的魔鬼鱼莫名怀孕",
@@ -18825,6 +18897,14 @@
       "onboard_time": 1706835329,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249937,
+      "num": 895280,
+      "word": "春节档票房破60亿元",
+      "onboard_time": 1707990993,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249840,
@@ -19091,14 +19171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244938,
-      "num": 186803,
-      "word": "我使馆发布去巴厘岛安全提醒",
-      "onboard_time": 1707989432,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244930,
       "num": 244930,
       "word": "表姐要给舅舅改名叫招儿",
@@ -19329,14 +19401,6 @@
       "onboard_time": 1707104191,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241641,
-      "num": 241641,
-      "word": "专家表示只搞钱不谈恋爱不可取",
-      "onboard_time": 1707987933,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241594,
@@ -21905,6 +21969,14 @@
       "onboard_time": 1707056674,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211758,
+      "num": 211758,
+      "word": "文俊辉遇见彩虹",
+      "onboard_time": 1707991354,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211723,
@@ -25859,6 +25931,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183823,
+      "num": 183823,
+      "word": "贾玲偷的杨迪以前偷的题",
+      "onboard_time": 1707989373,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183820,
       "num": 128752,
       "word": "初代网红奶茶倒闭潮",
@@ -26323,6 +26403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179528,
+      "num": 552329,
+      "word": "小姑娘练得满头汗笑着说喜欢舞狮",
+      "onboard_time": 1707990632,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179431,
       "num": 179431,
       "word": "第二十条新浪扫楼",
@@ -26361,6 +26449,14 @@
       "onboard_time": 1707553297,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179205,
+      "num": 179205,
+      "word": "梅西首发出战纽维尔老男孩",
+      "onboard_time": 1707990575,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 179135,
@@ -27993,6 +28089,14 @@
       "onboard_time": 1706853153,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168198,
+      "num": 168198,
+      "word": "建议直接送去大学深造",
+      "onboard_time": 1707991354,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 168158,
@@ -31331,14 +31435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144916,
-      "num": 144916,
-      "word": "贾玲偷的杨迪以前偷的题",
-      "onboard_time": 1707989373,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144900,
       "num": 144900,
       "word": "浓眉三双",
@@ -32025,6 +32121,14 @@
       "onboard_time": 1706944289,
       "rank": 45,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 140617,
+      "num": 140617,
+      "word": "第二十条原型",
+      "onboard_time": 1707987333,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 140593,
@@ -32865,14 +32969,6 @@
       "onboard_time": 1706968411,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135721,
-      "num": 135721,
-      "word": "第二十条原型",
-      "onboard_time": 1707987333,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 135612,
@@ -35051,14 +35147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122701,
-      "num": 122701,
-      "word": "贾玲 细腻的女性视角",
-      "onboard_time": 1707989251,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "刘海很可爱的秘密",
@@ -36507,6 +36595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112863,
+      "num": 112863,
+      "word": "国足FIFA最新排名第88",
+      "onboard_time": 1707991891,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112848,
       "num": 112848,
       "word": "2023年微博热搜趋势报告",
@@ -36899,6 +36995,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109868,
+      "num": 109868,
+      "word": "当舞狮小狗遇到舞狮队时",
+      "onboard_time": 1707990513,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109806,
       "num": 109806,
       "word": "飞驰人生2票房破11亿",
@@ -36953,6 +37057,14 @@
       "onboard_time": 1707382110,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109665,
+      "num": 109665,
+      "word": "自己拉货赚猫粮的猫咪",
+      "onboard_time": 1707989554,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 109613,
@@ -37025,6 +37137,14 @@
       "onboard_time": 1706879133,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108879,
+      "num": 108879,
+      "word": "不带恨意的觉醒才是真正的自由",
+      "onboard_time": 1707992317,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 108709,
@@ -37425,14 +37545,6 @@
       "onboard_time": 1706785954,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104437,
-      "num": 104437,
-      "word": "自己拉货赚猫粮的猫咪",
-      "onboard_time": 1707989554,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 104213,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1707992331094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465589,
+        "num": 1465589,
+        "word": "谢楠看到瘦下来的贾玲后一直发抖",
+        "onboard_time": 1707988293,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1044224,
+        "num": 1044224,
+        "word": "中文已经不是加密语言了",
+        "onboard_time": 1707985833,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249937,
+        "num": 895280,
+        "word": "春节档票房破60亿元",
+        "onboard_time": 1707990993,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841984,
+        "num": 841984,
+        "word": "印尼",
+        "onboard_time": 1707989793,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 787336,
+        "num": 787336,
+        "word": "钟楚曦侯雯元和网友打招呼",
+        "onboard_time": 1707988892,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780847,
+        "num": 780847,
+        "word": "姚明女儿13岁身高",
+        "onboard_time": 1707986432,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717237,
+        "num": 717237,
+        "word": "金秀贤金智媛婚礼剧照",
+        "onboard_time": 1707985172,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623433,
+        "num": 623433,
+        "word": "我使馆发布去巴厘岛安全提醒",
+        "onboard_time": 1707989432,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179528,
+        "num": 552329,
+        "word": "小姑娘练得满头汗笑着说喜欢舞狮",
+        "onboard_time": 1707990632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487239,
+        "num": 514856,
+        "word": "今年正月初六不用往外走了",
+        "onboard_time": 1707974072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2748070,
+        "num": 514005,
+        "word": "白敬亭 鬼畜区",
+        "onboard_time": 1707989973,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510375,
+        "num": 510375,
+        "word": "吴尊纹身",
+        "onboard_time": 1707991115,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499612,
+        "num": 499612,
+        "word": "侯雯元汗流浃背了吧",
+        "onboard_time": 1707983312,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436134,
+        "num": 436134,
+        "word": "专注力退化 刷短视频倍速",
+        "onboard_time": 1707986972,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382226,
+        "num": 382226,
+        "word": "哪个星座厌蠢症最强烈",
+        "onboard_time": 1707982892,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373878,
+        "num": 373878,
+        "word": "张小斐 半脸冷漠半脸心疼",
+        "onboard_time": 1707972811,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371069,
+        "num": 371069,
+        "word": "印尼发生多起涉中国游客交通及溺水事故",
+        "onboard_time": 1707991713,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353300,
+        "num": 353300,
+        "word": "贾玲 细腻的女性视角",
+        "onboard_time": 1707989251,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327759,
+        "num": 327759,
+        "word": "何老师用九年凑齐了九宫格",
+        "onboard_time": 1707979830,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304386,
+        "num": 304386,
+        "word": "董洁儿子15岁颜值",
+        "onboard_time": 1707982532,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289026,
+        "num": 289026,
+        "word": "薛之谦飞驰人生2观后感",
+        "onboard_time": 1707980071,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283956,
+        "num": 283956,
+        "word": "专家表示只搞钱不谈恋爱不可取",
+        "onboard_time": 1707987933,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251034,
+        "num": 251034,
+        "word": "农村妻跑族为何越来越多",
+        "onboard_time": 1707991474,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244809,
+        "num": 244809,
+        "word": "具惠善时隔13年大学毕业",
+        "onboard_time": 1707981992,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237446,
+        "num": 237446,
+        "word": "女子东北开化后1天被迫干掉4斤大虾",
+        "onboard_time": 1707983190,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212203,
+        "num": 212203,
+        "word": "相亲对象的转账感觉负担好大",
+        "onboard_time": 1707984032,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211758,
+        "num": 211758,
+        "word": "文俊辉遇见彩虹",
+        "onboard_time": 1707991354,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193491,
+        "word": "白敬亭工作室公开招聘",
+        "onboard_time": 1707959369,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191970,
+        "num": 191970,
+        "word": "张颂文情商",
+        "onboard_time": 1707981092,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183823,
+        "num": 183823,
+        "word": "贾玲偷的杨迪以前偷的题",
+        "onboard_time": 1707989373,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344816,
+        "num": 182046,
+        "word": "去黄才是变白的核心",
+        "onboard_time": 1707991115,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179752,
+        "num": 179752,
+        "word": "凌晨四点妈妈不睡觉",
+        "onboard_time": 1707986311,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179205,
+        "num": 179205,
+        "word": "梅西首发出战纽维尔老男孩",
+        "onboard_time": 1707990575,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174826,
+        "num": 174826,
+        "word": "王鹤棣抵达印第安纳",
+        "onboard_time": 1707988052,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 168198,
+        "num": 168198,
+        "word": "建议直接送去大学深造",
+        "onboard_time": 1707991354,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167081,
+        "num": 167081,
+        "word": "赛琳娜ins感谢粉丝的配图被扒",
+        "onboard_time": 1707984090,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 162208,
+        "word": "娜扎cos粉衣貂蝉",
+        "onboard_time": 1707982473,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160895,
+        "num": 160895,
+        "word": "沈腾去范丞丞超话串门",
+        "onboard_time": 1707988952,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155129,
+        "num": 155129,
+        "word": "苹果VisionPro遭遇退货潮",
+        "onboard_time": 1707984454,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154138,
+        "num": 154138,
+        "word": "大S女儿骑马",
+        "onboard_time": 1707982589,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140617,
+        "num": 140617,
+        "word": "第二十条原型",
+        "onboard_time": 1707987333,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132303,
+        "num": 132303,
+        "word": "小米14Ultra正面渲染图曝光",
+        "onboard_time": 1707987514,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126261,
+        "num": 126261,
+        "word": "相亲真的有感情吗",
+        "onboard_time": 1707985712,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125828,
+        "num": 125828,
+        "word": "刘耀文天津",
+        "onboard_time": 1707986672,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117585,
+        "num": 117585,
+        "word": "吴磊和赵今麦你俩有点不像演的",
+        "onboard_time": 1707981511,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112863,
+        "num": 112863,
+        "word": "国足FIFA最新排名第88",
+        "onboard_time": 1707991891,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110385,
+        "num": 110385,
+        "word": "鸭脖淋巴多是否会致癌",
+        "onboard_time": 1707986375,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109868,
+        "num": 109868,
+        "word": "当舞狮小狗遇到舞狮队时",
+        "onboard_time": 1707990513,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109665,
+        "num": 109665,
+        "word": "自己拉货赚猫粮的猫咪",
+        "onboard_time": 1707989554,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108879,
+        "num": 108879,
+        "word": "不带恨意的觉醒才是真正的自由",
+        "onboard_time": 1707992317,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

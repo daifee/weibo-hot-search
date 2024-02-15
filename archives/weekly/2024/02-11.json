@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707989630171,
+  "endTime": 1707992331094,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -121,6 +121,14 @@
       "onboard_time": 1707808834,
       "rank": 1,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 2748070,
+      "num": 514005,
+      "word": "白敬亭 鬼畜区",
+      "onboard_time": 1707989973,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2742175,
@@ -584,6 +592,14 @@
       "word": "杨紫看热辣滚烫看哭了",
       "onboard_time": 1707835179,
       "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1465589,
+      "num": 1465589,
+      "word": "谢楠看到瘦下来的贾玲后一直发抖",
+      "onboard_time": 1707988293,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -1139,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1052402,
-      "num": 1052402,
-      "word": "谢楠看到瘦下来的贾玲后一直发抖",
-      "onboard_time": 1707988293,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1047821,
       "num": 1047821,
       "word": "中文已经不是加密语言了",
@@ -1595,6 +1603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 841984,
+      "num": 841984,
+      "word": "印尼",
+      "onboard_time": 1707989793,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 840158,
       "num": 840158,
       "word": "杜乐莹是怎么爱上昊坤的",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1707829539,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 787336,
+      "num": 787336,
+      "word": "钟楚曦侯雯元和网友打招呼",
+      "onboard_time": 1707988892,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 784784,
@@ -2323,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623433,
+      "num": 623433,
+      "word": "我使馆发布去巴厘岛安全提醒",
+      "onboard_time": 1707989432,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621422,
       "num": 621422,
       "word": "英国伦敦偶遇郭晶晶一家",
@@ -2739,14 +2771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 543640,
-      "num": 419963,
-      "word": "钟楚曦侯雯元和网友打招呼",
-      "onboard_time": 1707988892,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 542066,
       "num": 542066,
       "word": "准备和财神谈恋爱",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1707730475,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 510375,
+      "num": 510375,
+      "word": "吴尊纹身",
+      "onboard_time": 1707991115,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 509315,
@@ -3523,6 +3555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436134,
+      "num": 436134,
+      "word": "专注力退化 刷短视频倍速",
+      "onboard_time": 1707986972,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 435027,
       "num": 435027,
       "word": "蔡依林根本不够看",
@@ -3817,14 +3857,6 @@
       "onboard_time": 1707867743,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402283,
-      "num": 402283,
-      "word": "专注力退化 刷短视频倍速",
-      "onboard_time": 1707986972,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 402019,
@@ -4131,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371069,
+      "num": 371069,
+      "word": "印尼发生多起涉中国游客交通及溺水事故",
+      "onboard_time": 1707991713,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370863,
       "num": 370863,
       "word": "范丞丞说像是被昊然拍了两下屁股",
@@ -4331,6 +4371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 353300,
+      "num": 353300,
+      "word": "贾玲 细腻的女性视角",
+      "onboard_time": 1707989251,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353170,
       "num": 603500,
       "word": "董宇辉回村的生活有多惬意",
@@ -4433,6 +4481,14 @@
       "onboard_time": 1707816698,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344816,
+      "num": 182046,
+      "word": "去黄才是变白的核心",
+      "onboard_time": 1707991115,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 344696,
@@ -5067,6 +5123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283956,
+      "num": 283956,
+      "word": "专家表示只搞钱不谈恋爱不可取",
+      "onboard_time": 1707987933,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283757,
       "num": 283757,
       "word": "张杰从除夕锻炼到大年初六",
@@ -5651,6 +5715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251034,
+      "num": 251034,
+      "word": "农村妻跑族为何越来越多",
+      "onboard_time": 1707991474,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250933,
       "num": 227741,
       "word": "单独饲养的魔鬼鱼莫名怀孕",
@@ -5665,6 +5737,14 @@
       "onboard_time": 1707965670,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249937,
+      "num": 895280,
+      "word": "春节档票房破60亿元",
+      "onboard_time": 1707990993,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249681,
@@ -5745,14 +5825,6 @@
       "onboard_time": 1707736053,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244938,
-      "num": 186803,
-      "word": "我使馆发布去巴厘岛安全提醒",
-      "onboard_time": 1707989432,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244930,
@@ -5849,14 +5921,6 @@
       "onboard_time": 1707668009,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 241641,
-      "num": 241641,
-      "word": "专家表示只搞钱不谈恋爱不可取",
-      "onboard_time": 1707987933,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241181,
@@ -6577,6 +6641,14 @@
       "onboard_time": 1707751236,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211758,
+      "num": 211758,
+      "word": "文俊辉遇见彩虹",
+      "onboard_time": 1707991354,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211723,
@@ -7611,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183823,
+      "num": 183823,
+      "word": "贾玲偷的杨迪以前偷的题",
+      "onboard_time": 1707989373,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183690,
       "num": 183690,
       "word": "守护甜心 亚梦海报",
@@ -7763,12 +7843,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179528,
+      "num": 552329,
+      "word": "小姑娘练得满头汗笑着说喜欢舞狮",
+      "onboard_time": 1707990632,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179334,
       "num": 179334,
       "word": "不扫兴的父母有多难得",
       "onboard_time": 1707886711,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179205,
+      "num": 179205,
+      "word": "梅西首发出战纽维尔老男孩",
+      "onboard_time": 1707990575,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 178947,
@@ -8208,6 +8304,14 @@
       "word": "看得出来每一只小狗都不满意",
       "onboard_time": 1707657690,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168198,
+      "num": 168198,
+      "word": "建议直接送去大学深造",
+      "onboard_time": 1707991354,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -9227,14 +9331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144916,
-      "num": 144916,
-      "word": "贾玲偷的杨迪以前偷的题",
-      "onboard_time": 1707989373,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144899,
       "num": 144899,
       "word": "沈月vlog 电子布洛芬",
@@ -9475,6 +9571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140617,
+      "num": 140617,
+      "word": "第二十条原型",
+      "onboard_time": 1707987333,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140370,
       "num": 140370,
       "word": "最不像春节档的电影",
@@ -9705,14 +9809,6 @@
       "onboard_time": 1707834458,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 135721,
-      "num": 135721,
-      "word": "第二十条原型",
-      "onboard_time": 1707987333,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 135432,
@@ -10371,14 +10467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122701,
-      "num": 122701,
-      "word": "贾玲 细腻的女性视角",
-      "onboard_time": 1707989251,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122395,
       "num": 122395,
       "word": "冯骥才人民日报撰文谈春节",
@@ -10907,6 +10995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112863,
+      "num": 112863,
+      "word": "国足FIFA最新排名第88",
+      "onboard_time": 1707991891,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112796,
       "num": 112796,
       "word": "平遥古城有近4000处传统建筑",
@@ -11059,6 +11155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109868,
+      "num": 109868,
+      "word": "当舞狮小狗遇到舞狮队时",
+      "onboard_time": 1707990513,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109806,
       "num": 109806,
       "word": "飞驰人生2票房破11亿",
@@ -11067,12 +11171,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109665,
+      "num": 109665,
+      "word": "自己拉货赚猫粮的猫咪",
+      "onboard_time": 1707989554,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109297,
       "num": 109297,
       "word": "打开红包结果里面是春节值班表",
       "onboard_time": 1707808296,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108879,
+      "num": 108879,
+      "word": "不带恨意的觉醒才是真正的自由",
+      "onboard_time": 1707992317,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 108644,
@@ -11225,14 +11345,6 @@
       "onboard_time": 1707798456,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 104437,
-      "num": 104437,
-      "word": "自己拉货赚猫粮的猫咪",
-      "onboard_time": 1707989554,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 104075,
