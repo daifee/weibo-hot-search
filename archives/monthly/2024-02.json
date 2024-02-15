@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708036438071,
+  "endTime": 1708039094239,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -31739,6 +31739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146964,
+      "num": 93973,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 146933,
       "num": 146933,
       "word": "国足世界排名高于约旦",
@@ -34929,6 +34937,14 @@
       "onboard_time": 1707702991,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128303,
+      "num": 62863,
+      "word": "小县城私立中学为何备受家长追捧",
+      "onboard_time": 1708034597,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128291,
@@ -39139,6 +39155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91870,
+      "num": 62143,
+      "word": "不结婚痛苦的只是父母吗",
+      "onboard_time": 1708033096,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91750,
       "num": 91750,
       "word": "晋江年度报告",
@@ -39515,6 +39539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81568,
+      "num": 81568,
+      "word": "潘展乐100自夺金",
+      "onboard_time": 1708038621,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80992,
       "num": 80992,
       "word": "新能源车主返乡离充电桩5米趴窝了",
@@ -39729,14 +39761,6 @@
       "onboard_time": 1707325586,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 76900,
-      "num": 47862,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 76719,
@@ -39969,6 +39993,14 @@
       "onboard_time": 1707192510,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70000,
+      "num": 60946,
+      "word": "为什么我国心梗脑梗那么多",
+      "onboard_time": 1708035438,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69460,
@@ -40315,14 +40347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57163,
-      "num": 33153,
-      "word": "不结婚痛苦的只是父母吗",
-      "onboard_time": 1708033096,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 57153,
       "num": 199077,
       "word": "全职儿女梦中情职",
@@ -40467,19 +40491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53886,
-      "num": 33153,
-      "word": "小县城私立中学为何备受家长追捧",
-      "onboard_time": 1708034597,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53874,
       "num": 101601,
       "word": "好运2024",
       "onboard_time": 1707504681,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 53166,
+      "num": 53166,
+      "word": "回家过年被小城市的消费震惊到",
+      "onboard_time": 1708038018,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -40604,7 +40628,7 @@
     },
     {
       "raw_hot": 49866,
-      "num": 26345,
+      "num": 43637,
       "word": "邱泽许玮宁爆改龙珠",
       "onboard_time": 1708029375,
       "rank": 30,
@@ -41011,6 +41035,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 40968,
+      "num": 40968,
+      "word": "又幸福了小老棣",
+      "onboard_time": 1708029435,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40843,
       "num": 40843,
       "word": "林亦扬殷果第一次吵架",
@@ -41091,14 +41123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39089,
-      "num": 39089,
-      "word": "又幸福了小老棣",
-      "onboard_time": 1708029435,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39058,
       "num": 39058,
       "word": "小狗吸猫的时候跟人一样",
@@ -41113,6 +41137,22 @@
       "onboard_time": 1707592037,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38505,
+      "num": 38505,
+      "word": "陈都灵这次没演坏人",
+      "onboard_time": 1708037298,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38380,
+      "num": 38380,
+      "word": "放长假就感冒警惕周末病",
+      "onboard_time": 1708033637,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37959,
@@ -41635,14 +41675,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 26192,
-      "num": 26192,
-      "word": "为什么我国心梗脑梗那么多",
-      "onboard_time": 1708035438,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 26136,
       "num": 26136,
       "word": "坐小孩那桌",
@@ -41651,8 +41683,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26043,
-      "num": 26043,
+      "raw_hot": 26106,
+      "num": 26106,
       "word": "杭州西湖暂别人山人海",
       "onboard_time": 1708023679,
       "rank": 45,
@@ -41793,6 +41825,14 @@
       "onboard_time": 1707777377,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 22422,
+      "num": 24659,
+      "word": "没想到肌肉男有自己的年检",
+      "onboard_time": 1708032676,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 22346,
@@ -41937,22 +41977,6 @@
       "onboard_time": 1707944658,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19233,
-      "num": 19233,
-      "word": "没想到肌肉男有自己的年检",
-      "onboard_time": 1708032676,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 18949,
-      "num": 18949,
-      "word": "放长假就感冒警惕周末病",
-      "onboard_time": 1708033637,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18945,
