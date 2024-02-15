@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707964517560,
+  "endTime": 1707967205111,
   "band_list": [
     {
       "raw_hot": 2168799,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020365,
+      "num": 735497,
+      "word": "我感觉好像没有家了",
+      "onboard_time": 1707961410,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994346,
       "num": 994346,
       "word": "马丽 捡到手机怎么还截屏",
       "onboard_time": 1707958110,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 960292,
+      "num": 566029,
+      "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+      "onboard_time": 1707963029,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 949733,
@@ -64,14 +80,6 @@
       "word": "大年初六送穷",
       "onboard_time": 1707952280,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 866173,
-      "num": 735497,
-      "word": "我感觉好像没有家了",
-      "onboard_time": 1707961410,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 548496,
+      "num": 548496,
+      "word": "第二十条 校园暴力事件",
+      "onboard_time": 1707964772,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 537358,
       "num": 537358,
       "word": "马思纯发了无修剧照",
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517188,
-      "num": 378386,
-      "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
-      "onboard_time": 1707963029,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502274,
       "num": 502274,
       "word": "我们一起摇太阳宣布延后上映",
@@ -209,6 +217,14 @@
       "onboard_time": 1707960393,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484850,
+      "num": 252769,
+      "word": "30岁青年娶妻难疯进精神病院",
+      "onboard_time": 1707964714,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461471,
@@ -339,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369061,
+      "num": 369061,
+      "word": "林孝埈十四冬",
+      "onboard_time": 1707965131,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367282,
       "num": 367282,
       "word": "航司建议从三亚返程避免直飞",
@@ -379,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316114,
+      "num": 316114,
+      "word": "经常肩膀酸痛的人试试这个",
+      "onboard_time": 1707961233,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 311646,
       "num": 311646,
       "word": "王濛 永远不要小看每一分努力",
@@ -403,6 +435,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293976,
+      "num": 293976,
+      "word": "春节返程",
+      "onboard_time": 1707963932,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290483,
+      "num": 181260,
+      "word": "何老师的脑洞我也是服了",
+      "onboard_time": 1707966574,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272736,
       "num": 272736,
       "word": "吴磊直播间为赵今麦打圆场",
@@ -411,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270033,
+      "num": 270033,
+      "word": "大年初六",
+      "onboard_time": 1707966574,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260589,
       "num": 260589,
       "word": "过年见一面老同学后劲太大了",
       "onboard_time": 1707953602,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250598,
+      "num": 250598,
+      "word": "江南百景图闪退",
+      "onboard_time": 1707965670,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 245996,
@@ -443,20 +507,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228669,
-      "num": 228669,
-      "word": "经常肩膀酸痛的人试试这个",
-      "onboard_time": 1707961233,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 223355,
       "num": 223355,
       "word": "晚上有这3个习惯或会变胖变丑",
       "onboard_time": 1707908677,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222999,
+      "num": 222999,
+      "word": "一人之下剧场版开播",
+      "onboard_time": 1707965552,
+      "rank": 25,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 222444,
@@ -507,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199128,
-      "num": 199128,
-      "word": "春节返程",
-      "onboard_time": 1707963932,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196996,
       "num": 196996,
       "word": "热辣滚烫2024情人节档票房冠军",
@@ -537,6 +593,14 @@
       "onboard_time": 1707925356,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193532,
+      "num": 193532,
+      "word": "檀健次龙年春晚幕后vlog",
+      "onboard_time": 1707967173,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 193058,
@@ -579,12 +643,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183278,
+      "num": 183278,
+      "word": "热辣滚烫两个乐莹都很棒",
+      "onboard_time": 1707964714,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178947,
       "num": 178947,
       "word": "白色橄榄树",
       "onboard_time": 1707955586,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178801,
+      "num": 178801,
+      "word": "开化了对东北来说意味着什么",
+      "onboard_time": 1707965733,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 173827,
@@ -609,6 +689,14 @@
       "onboard_time": 1707963631,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169250,
+      "num": 169250,
+      "word": "被不被重视一眼就能看出来",
+      "onboard_time": 1707964834,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 162865,
@@ -689,6 +777,14 @@
       "onboard_time": 1707962672,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145936,
+      "num": 145936,
+      "word": "女子为亡弟追凶案嫌犯被审查起诉",
+      "onboard_time": 1707966153,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141741,
@@ -803,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122979,
+      "num": 122979,
+      "word": "南京金逸影城向王骁和观众道歉",
+      "onboard_time": 1707966391,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121496,
       "num": 121496,
       "word": "郭德纲岳云鹏郭麒麟聚会",
@@ -825,6 +929,14 @@
       "onboard_time": 1707910959,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118093,
+      "num": 118093,
+      "word": "湖人考虑引进布朗尼",
+      "onboard_time": 1707964653,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117330,

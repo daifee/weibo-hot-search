@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707964517560,
+  "endTime": 1707967205111,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1099,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1020365,
+      "num": 735497,
+      "word": "我感觉好像没有家了",
+      "onboard_time": 1707961410,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1013747,
       "num": 1013747,
       "word": "韩国队内讧",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1707730712,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 960292,
+      "num": 566029,
+      "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+      "onboard_time": 1707963029,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 959791,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1707824260,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 866173,
-      "num": 735497,
-      "word": "我感觉好像没有家了",
-      "onboard_time": 1707961410,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862534,
@@ -2515,6 +2523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 548496,
+      "num": 548496,
+      "word": "第二十条 校园暴力事件",
+      "onboard_time": 1707964772,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 546348,
       "num": 546348,
       "word": "山东人梗我真的笑不出来",
@@ -2689,14 +2705,6 @@
       "onboard_time": 1707897454,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 517188,
-      "num": 378386,
-      "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
-      "onboard_time": 1707963029,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515950,
@@ -2905,6 +2913,14 @@
       "onboard_time": 1707641492,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484850,
+      "num": 252769,
+      "word": "30岁青年娶妻难疯进精神病院",
+      "onboard_time": 1707964714,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481755,
@@ -3803,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369061,
+      "num": 369061,
+      "word": "林孝埈十四冬",
+      "onboard_time": 1707965131,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368309,
       "num": 368309,
       "word": "孩子送上警车后她才发现自己后背全湿了",
@@ -4291,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316114,
+      "num": 316114,
+      "word": "经常肩膀酸痛的人试试这个",
+      "onboard_time": 1707961233,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 316111,
       "num": 316111,
       "word": "长大后才知道自己是橄榄皮",
@@ -4475,6 +4507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293976,
+      "num": 293976,
+      "word": "春节返程",
+      "onboard_time": 1707963932,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293065,
       "num": 293065,
       "word": "原神",
@@ -4505,6 +4545,14 @@
       "onboard_time": 1707631531,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290483,
+      "num": 181260,
+      "word": "何老师的脑洞我也是服了",
+      "onboard_time": 1707966574,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 288853,
@@ -4784,6 +4832,14 @@
       "word": "男子下车就被侄女请去掌勺年夜饭",
       "onboard_time": 1707613950,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270033,
+      "num": 270033,
+      "word": "大年初六",
+      "onboard_time": 1707966574,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -5113,6 +5169,14 @@
       "onboard_time": 1707663635,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 250598,
+      "num": 250598,
+      "word": "江南百景图闪退",
+      "onboard_time": 1707965670,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 249681,
@@ -5611,14 +5675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228669,
-      "num": 228669,
-      "word": "经常肩膀酸痛的人试试这个",
-      "onboard_time": 1707961233,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 228188,
       "num": 228188,
       "word": "李雪琴预判了观众的提问",
@@ -5713,6 +5769,14 @@
       "onboard_time": 1707805354,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222999,
+      "num": 222999,
+      "word": "一人之下剧场版开播",
+      "onboard_time": 1707965552,
+      "rank": 25,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 222444,
@@ -6419,14 +6483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 199128,
-      "num": 199128,
-      "word": "春节返程",
-      "onboard_time": 1707963932,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198493,
       "num": 198493,
       "word": "美国当前流感季已有1.5万人死亡",
@@ -6569,6 +6625,14 @@
       "onboard_time": 1707880532,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193532,
+      "num": 193532,
+      "word": "檀健次龙年春晚幕后vlog",
+      "onboard_time": 1707967173,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 193349,
@@ -6875,6 +6939,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 183278,
+      "num": 183278,
+      "word": "热辣滚烫两个乐莹都很棒",
+      "onboard_time": 1707964714,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182968,
       "num": 182968,
       "word": "游客到杭州西湖要准备一元纸币",
@@ -7017,6 +7089,14 @@
       "onboard_time": 1707955586,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178801,
+      "num": 178801,
+      "word": "开化了对东北来说意味着什么",
+      "onboard_time": 1707965733,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 178754,
@@ -7345,6 +7425,14 @@
       "onboard_time": 1707750756,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169250,
+      "num": 169250,
+      "word": "被不被重视一眼就能看出来",
+      "onboard_time": 1707964834,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 169157,
@@ -8321,6 +8409,14 @@
       "onboard_time": 1707962672,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145936,
+      "num": 145936,
+      "word": "女子为亡弟追凶案嫌犯被审查起诉",
+      "onboard_time": 1707966153,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145842,
@@ -9347,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122979,
+      "num": 122979,
+      "word": "南京金逸影城向王骁和观众道歉",
+      "onboard_time": 1707966391,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122722,
       "num": 122722,
       "word": "摇太阳适合任何一个档期",
@@ -9569,6 +9673,14 @@
       "onboard_time": 1707906816,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118093,
+      "num": 118093,
+      "word": "湖人考虑引进布朗尼",
+      "onboard_time": 1707964653,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117999,
