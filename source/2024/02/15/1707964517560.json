@@ -1,0 +1,410 @@
+{
+  "runTime": 1707964517560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585129,
+        "num": 1585129,
+        "word": "杨玏王玉雯同游英国",
+        "onboard_time": 1707961770,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804070,
+        "num": 804070,
+        "word": "向佐当郭碧婷的人形雪橇犬",
+        "onboard_time": 1707962790,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99435,
+        "num": 736541,
+        "word": "2024春节档总票房已破50亿元",
+        "onboard_time": 1707915156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866173,
+        "num": 735497,
+        "word": "我感觉好像没有家了",
+        "onboard_time": 1707961410,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718849,
+        "num": 718849,
+        "word": "让侯雯元别蹲着拍了",
+        "onboard_time": 1707956848,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640405,
+        "num": 640405,
+        "word": "日本名义GDP跌出世界前三",
+        "onboard_time": 1707959190,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 515915,
+        "num": 515915,
+        "word": "马丽 捡到手机怎么还截屏",
+        "onboard_time": 1707958110,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500266,
+        "num": 500266,
+        "word": "历届春晚一等奖小品",
+        "onboard_time": 1707960393,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474109,
+        "num": 474109,
+        "word": "大年初六送穷",
+        "onboard_time": 1707952280,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402170,
+        "num": 402170,
+        "word": "春节在家发现被爱的痕迹",
+        "onboard_time": 1707959672,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2063748,
+        "num": 396191,
+        "word": "白敬亭现场侧拍视频",
+        "onboard_time": 1707956607,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534523,
+        "num": 385612,
+        "word": "在场人员还原王骁被骂事件始末",
+        "onboard_time": 1707953060,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 517188,
+        "num": 378386,
+        "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+        "onboard_time": 1707963029,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509481,
+        "num": 370004,
+        "word": "三亚机票",
+        "onboard_time": 1707957030,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 364357,
+        "num": 364357,
+        "word": "一男子被终身禁入成都熊猫基地",
+        "onboard_time": 1707916778,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354500,
+        "num": 354500,
+        "word": "赵丽颖主演票房突破30亿",
+        "onboard_time": 1707957452,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320108,
+        "num": 320108,
+        "word": "麻油蒸蛋 荨麻疹",
+        "onboard_time": 1707954746,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270753,
+        "num": 270753,
+        "word": "马思纯发了无修剧照",
+        "onboard_time": 1707953060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270673,
+        "num": 270673,
+        "word": "新疆8分钟惊艳世界幕后的无名推手",
+        "onboard_time": 1707957569,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262454,
+        "num": 262454,
+        "word": "美国1天内发生2起枪击案",
+        "onboard_time": 1707957330,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1100234,
+        "num": 258293,
+        "word": "白敬亭工作室公开招聘",
+        "onboard_time": 1707959369,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323323,
+        "num": 258208,
+        "word": "你们合不合适断联一下就知道了",
+        "onboard_time": 1707958949,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248274,
+        "num": 248274,
+        "word": "斐玲 妈知道",
+        "onboard_time": 1707954924,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228669,
+        "num": 228669,
+        "word": "经常肩膀酸痛的人试试这个",
+        "onboard_time": 1707961233,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 222444,
+        "num": 222444,
+        "word": "开工大吉",
+        "onboard_time": 1707962491,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209297,
+        "num": 209297,
+        "word": "侯雯元拍的钟楚曦",
+        "onboard_time": 1707921339,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200197,
+        "num": 200197,
+        "word": "每天万名游客打卡刘亦菲同款古村落",
+        "onboard_time": 1707957869,
+        "rank": 26,
+        "category": "作品衍生,旅游"
+      },
+      {
+        "raw_hot": 199128,
+        "num": 199128,
+        "word": "春节返程",
+        "onboard_time": 1707963932,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187834,
+        "num": 187834,
+        "word": "农村孩子的童年游戏只剩玩手机",
+        "onboard_time": 1707962430,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173554,
+        "num": 173554,
+        "word": "王者亚连落雪白狼皮肤",
+        "onboard_time": 1707962853,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183361,
+        "num": 173116,
+        "word": "钟楚曦侯雯元 大大方方",
+        "onboard_time": 1707897335,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172181,
+        "num": 172181,
+        "word": "过年第一次去对象家",
+        "onboard_time": 1707963631,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169956,
+        "num": 169956,
+        "word": "宁浩回应刘德华新片春节档遇冷",
+        "onboard_time": 1707956310,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165955,
+        "num": 165955,
+        "word": "过年见一面老同学后劲太大了",
+        "onboard_time": 1707953602,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158077,
+        "num": 158077,
+        "word": "元气少女缘结神 咖啡店海报",
+        "onboard_time": 1707962132,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156413,
+        "num": 156413,
+        "word": "大侦探",
+        "onboard_time": 1707963811,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149722,
+        "num": 149722,
+        "word": "家里有个制造内耗的人才是最可怕的",
+        "onboard_time": 1707957869,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143731,
+        "num": 143731,
+        "word": "吵架后亲姐把弟弟丢高速",
+        "onboard_time": 1707942618,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143427,
+        "num": 143427,
+        "word": "贾玲镜头语言",
+        "onboard_time": 1707957271,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138960,
+        "num": 138960,
+        "word": "联播主播怎么做到扫一眼急稿就播",
+        "onboard_time": 1707960273,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132171,
+        "num": 132171,
+        "word": "总看手机会加速得白内障吗",
+        "onboard_time": 1707962672,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131485,
+        "num": 131485,
+        "word": "王濛 永远不要小看每一分努力",
+        "onboard_time": 1707956728,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127262,
+        "num": 127262,
+        "word": "她是妈妈但更是她自己",
+        "onboard_time": 1707964051,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124131,
+        "num": 124131,
+        "word": "吴磊直播间为赵今麦打圆场",
+        "onboard_time": 1707934823,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121789,
+        "num": 121789,
+        "word": "内娱体脂率最低的一对情侣",
+        "onboard_time": 1707907837,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113785,
+        "num": 113785,
+        "word": "樊振东花式夸马龙",
+        "onboard_time": 1707962491,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110459,
+        "num": 110459,
+        "word": "都半熟了情绪还这么稳定",
+        "onboard_time": 1707954264,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107998,
+        "num": 107998,
+        "word": "体脂率才是最诚实的胖瘦衡量标准",
+        "onboard_time": 1707933140,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115538,
+        "num": 107950,
+        "word": "吴磊吻戏名场面又多了一个",
+        "onboard_time": 1707931466,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107775,
+        "num": 107775,
+        "word": "航司建议从三亚返程避免直飞",
+        "onboard_time": 1707933501,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造温暖和谐的社会氛围#"
+    }
+  }
+}
