@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708001099035,
+  "endTime": 1708003126448,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -571,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1509234,
+      "num": 1509234,
+      "word": "手机充电一定要满充满放吗",
+      "onboard_time": 1707999158,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1506976,
       "num": 1506976,
       "word": "董力阿拉蕾",
@@ -899,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1208795,
+      "num": 1208795,
+      "word": "王灿说嫁给杜淳前已经财富自由",
+      "onboard_time": 1707997956,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1207393,
       "num": 1207393,
       "word": "金秀贤金智媛婚礼剧照",
@@ -928,14 +944,6 @@
       "word": "白敬亭工作室公开招聘",
       "onboard_time": 1707959369,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1177638,
-      "num": 1177638,
-      "word": "王灿说嫁给杜淳前已经财富自由",
-      "onboard_time": 1707997956,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1947,6 +1955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 733431,
+      "num": 733431,
+      "word": "伏黑惠",
+      "onboard_time": 1707999694,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 732301,
       "num": 732301,
       "word": "天下足球删除梅西镜头",
@@ -2331,6 +2347,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 639102,
+      "num": 639102,
+      "word": "刘维春晚只上了59秒",
+      "onboard_time": 1708002695,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638105,
       "num": 357637,
       "word": "贾玲谈及赵英俊",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1707608965,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 600572,
-      "num": 600572,
-      "word": "伏黑惠",
-      "onboard_time": 1707999694,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 596533,
@@ -2907,14 +2923,6 @@
       "category": "财经,动漫"
     },
     {
-      "raw_hot": 540521,
-      "num": 540521,
-      "word": "手机充电一定要满充满放吗",
-      "onboard_time": 1707999158,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 540167,
       "num": 540167,
       "word": "五台山景区桶装水是从女厕所水管接的",
@@ -3225,6 +3233,14 @@
       "onboard_time": 1707960393,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499789,
+      "num": 499789,
+      "word": "王东连发五条微博怒斥妻子",
+      "onboard_time": 1707995073,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 497039,
@@ -3747,14 +3763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429617,
-      "num": 429617,
-      "word": "王东连发五条微博怒斥妻子",
-      "onboard_time": 1707995073,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427786,
       "num": 422584,
       "word": "赵丽颖主演票房突破30亿",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1707730773,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422513,
+      "num": 422513,
+      "word": "张远眼睛到底是怎么变大的啊",
+      "onboard_time": 1708000236,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 422298,
@@ -3881,6 +3897,14 @@
       "onboard_time": 1707630812,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415291,
+      "num": 415291,
+      "word": "河南惊现贾玲分玲",
+      "onboard_time": 1707999997,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 414307,
@@ -4203,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378285,
+      "num": 378285,
+      "word": "英伟达创始人称必须学会计算机的时代过去了",
+      "onboard_time": 1708000116,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 377688,
       "num": 377688,
       "word": "Jasper拜年照",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1707586462,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361893,
-      "num": 361893,
-      "word": "河南惊现贾玲分玲",
-      "onboard_time": 1707999997,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 361592,
@@ -4681,14 +4705,6 @@
       "onboard_time": 1707645391,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343266,
-      "num": 343266,
-      "word": "张远眼睛到底是怎么变大的啊",
-      "onboard_time": 1708000236,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 342648,
@@ -5457,14 +5473,6 @@
       "onboard_time": 1707969994,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276674,
-      "num": 276674,
-      "word": "英伟达创始人称必须学会计算机的时代过去了",
-      "onboard_time": 1708000116,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 276345,
@@ -6699,6 +6707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219045,
+      "num": 219045,
+      "word": "短剧",
+      "onboard_time": 1708000414,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218977,
       "num": 218977,
       "word": "派小轩 一场酣畅淋漓的同学聚会",
@@ -6993,14 +7009,6 @@
       "onboard_time": 1707639090,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208668,
-      "num": 208668,
-      "word": "短剧",
-      "onboard_time": 1708000414,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 208608,
@@ -8267,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175314,
+      "num": 175314,
+      "word": "我使馆驳斥卡梅伦涉台湾海峡错误言论",
+      "onboard_time": 1708001977,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174884,
       "num": 174884,
       "word": "为何越来越多年轻人断亲了",
@@ -8473,6 +8489,14 @@
       "onboard_time": 1707655652,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170202,
+      "num": 170202,
+      "word": "顶顶好像潘粤明",
+      "onboard_time": 1708002937,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 170201,
@@ -8915,6 +8939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161393,
+      "num": 161393,
+      "word": "白举纲逛春晚后台文创店",
+      "onboard_time": 1708001195,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161276,
       "num": 161276,
       "word": "选择性社交冷漠症",
@@ -9329,6 +9361,14 @@
       "onboard_time": 1707701612,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151746,
+      "num": 151746,
+      "word": "范丞丞挑战18秒模特pose",
+      "onboard_time": 1708001915,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 151722,
@@ -9929,6 +9969,14 @@
       "onboard_time": 1707987333,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140536,
+      "num": 140536,
+      "word": "看电影时女子播放视频哄孩子",
+      "onboard_time": 1708002276,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140370,
@@ -10779,6 +10827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123513,
+      "num": 123513,
+      "word": "王东",
+      "onboard_time": 1707730234,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123265,
       "num": 123265,
       "word": "99老师画左乐了",
@@ -11249,14 +11305,6 @@
       "onboard_time": 1707819935,
       "rank": 46,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 114402,
-      "num": 114402,
-      "word": "王东",
-      "onboard_time": 1707730234,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 114384,
