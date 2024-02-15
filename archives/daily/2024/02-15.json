@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707988800276,
+  "endTime": 1707989630171,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1218070,
+      "num": 1218070,
+      "word": "姚明女儿13岁身高",
+      "onboard_time": 1707986432,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1207393,
       "num": 1207393,
       "word": "金秀贤金智媛婚礼剧照",
@@ -99,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1138589,
-      "num": 1138589,
-      "word": "姚明女儿13岁身高",
-      "onboard_time": 1707986432,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1063637,
       "num": 1063637,
       "word": "何老师的脑洞我也是服了",
       "onboard_time": 1707966574,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1052402,
+      "num": 1052402,
+      "word": "谢楠看到瘦下来的贾玲后一直发抖",
+      "onboard_time": 1707988293,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 1047821,
@@ -363,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 543640,
+      "num": 419963,
+      "word": "钟楚曦侯雯元和网友打招呼",
+      "onboard_time": 1707988892,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541153,
       "num": 541153,
       "word": "收割全国小学生的奥特曼卡片公司要上市了",
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402283,
+      "num": 402283,
+      "word": "专注力退化 刷短视频倍速",
+      "onboard_time": 1707986972,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 402019,
       "num": 271441,
       "word": "相亲对象的转账感觉负担好大",
@@ -763,14 +787,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 319196,
-      "num": 319196,
-      "word": "专注力退化 刷短视频倍速",
-      "onboard_time": 1707986972,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 316803,
       "num": 316803,
       "word": "王俊凯去上班了",
@@ -835,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 292228,
+      "num": 292228,
+      "word": "王鹤棣抵达印第安纳",
+      "onboard_time": 1707988052,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 290774,
       "num": 290774,
       "word": "网评古装待播剧地位图",
@@ -849,6 +873,14 @@
       "onboard_time": 1707978212,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288271,
+      "num": 288271,
+      "word": "苹果VisionPro遭遇退货潮",
+      "onboard_time": 1707984454,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 284164,
@@ -875,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282009,
-      "num": 282009,
-      "word": "谢楠看到瘦下来的贾玲后一直发抖",
-      "onboard_time": 1707988293,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 276948,
       "num": 276948,
       "word": "摇太阳退出春节档",
@@ -897,14 +921,6 @@
       "onboard_time": 1707969994,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272982,
-      "num": 272982,
-      "word": "王鹤棣抵达印第安纳",
-      "onboard_time": 1707988052,
-      "rank": 19,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 272736,
@@ -929,14 +945,6 @@
       "onboard_time": 1707966574,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266103,
-      "num": 266103,
-      "word": "苹果VisionPro遭遇退货潮",
-      "onboard_time": 1707984454,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 264508,
@@ -985,6 +993,22 @@
       "onboard_time": 1707919778,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 244938,
+      "num": 186803,
+      "word": "我使馆发布去巴厘岛安全提醒",
+      "onboard_time": 1707989432,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241641,
+      "num": 241641,
+      "word": "专家表示只搞钱不谈恋爱不可取",
+      "onboard_time": 1707987933,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237764,
@@ -1147,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203238,
+      "num": 203238,
+      "word": "凌晨四点妈妈不睡觉",
+      "onboard_time": 1707986311,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200736,
       "num": 200736,
       "word": "库里空砍41分",
@@ -1211,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194774,
-      "num": 194774,
-      "word": "凌晨四点妈妈不睡觉",
-      "onboard_time": 1707986311,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194426,
       "num": 186637,
       "word": "华晨宇祝大家西施节快乐",
@@ -1267,20 +1291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188222,
+      "num": 188222,
+      "word": "沈腾去范丞丞超话串门",
+      "onboard_time": 1707988952,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188080,
       "num": 188080,
       "word": "我俩是不是天下第一好",
       "onboard_time": 1707922899,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187557,
-      "num": 209318,
-      "word": "专家表示只搞钱不谈恋爱不可取",
-      "onboard_time": 1707987933,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186463,
@@ -1427,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161504,
+      "num": 161504,
+      "word": "小米14Ultra正面渲染图曝光",
+      "onboard_time": 1707987514,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 159568,
       "num": 159568,
       "word": "高叶 你们不懂逗小狗的乐趣",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1707975150,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157445,
-      "num": 157445,
-      "word": "小米14Ultra正面渲染图曝光",
-      "onboard_time": 1707987514,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 156413,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1707966153,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144916,
+      "num": 144916,
+      "word": "贾玲偷的杨迪以前偷的题",
+      "onboard_time": 1707989373,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 144652,
@@ -1619,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135721,
+      "num": 135721,
+      "word": "第二十条原型",
+      "onboard_time": 1707987333,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135432,
       "num": 135432,
       "word": "布克被驱逐",
@@ -1641,14 +1681,6 @@
       "onboard_time": 1707921580,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 132705,
-      "num": 132705,
-      "word": "第二十条原型",
-      "onboard_time": 1707987333,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 131135,
@@ -1791,6 +1823,14 @@
       "num": 122979,
       "word": "南京金逸影城向王骁和观众道歉",
       "onboard_time": 1707966391,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 122701,
+      "num": 122701,
+      "word": "贾玲 细腻的女性视角",
+      "onboard_time": 1707989251,
       "rank": 42,
       "category": "电影"
     },
@@ -1969,6 +2009,14 @@
       "onboard_time": 1707981270,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 104437,
+      "num": 104437,
+      "word": "自己拉货赚猫粮的猫咪",
+      "onboard_time": 1707989554,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 102585,
