@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707970850809,
+  "endTime": 1707971630830,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1499292,
+      "num": 1499292,
+      "word": "杭州西湖2天捞起17部手机",
+      "onboard_time": 1707967531,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1246714,
       "num": 987339,
       "word": "在场人员还原王骁被骂事件始末",
@@ -43,12 +51,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1144838,
-      "num": 1144838,
-      "word": "杭州西湖2天捞起17部手机",
-      "onboard_time": 1707967531,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 1063637,
+      "num": 1063637,
+      "word": "何老师的脑洞我也是服了",
+      "onboard_time": 1707966574,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1020365,
@@ -67,20 +75,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 982790,
+      "num": 982790,
+      "word": "普京称俄罗斯即将研制出癌症疫苗",
+      "onboard_time": 1707967411,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 960292,
       "num": 572867,
       "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
       "onboard_time": 1707963029,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 953749,
-      "num": 748348,
-      "word": "普京称俄罗斯即将研制出癌症疫苗",
-      "onboard_time": 1707967411,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 949733,
@@ -97,14 +105,6 @@
       "onboard_time": 1707907837,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 910084,
-      "num": 910084,
-      "word": "何老师的脑洞我也是服了",
-      "onboard_time": 1707966574,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 881672,
@@ -203,6 +203,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 635992,
+      "num": 635992,
+      "word": "贾玲第一个引体向上用了三十天",
+      "onboard_time": 1707970114,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 616277,
+      "num": 616277,
+      "word": "谢晖婚礼",
+      "onboard_time": 1707969213,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611778,
       "num": 611778,
       "word": "麻油蒸蛋 荨麻疹",
@@ -249,14 +265,6 @@
       "onboard_time": 1707960393,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492399,
-      "num": 492399,
-      "word": "谢晖婚礼",
-      "onboard_time": 1707969213,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 484850,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 397431,
-      "num": 242199,
+      "num": 258653,
       "word": "情绪稳定的男生真的很加分",
       "onboard_time": 1707967715,
       "rank": 32,
@@ -435,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 349011,
-      "num": 349011,
-      "word": "贾玲第一个引体向上用了三十天",
-      "onboard_time": 1707970114,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 347336,
       "num": 347336,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -507,6 +507,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291151,
+      "num": 291151,
+      "word": "婚姻给健康带来了什么",
+      "onboard_time": 1707969509,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284164,
+      "num": 284164,
+      "word": "韩国队内讧后WTT官方玩梗",
+      "onboard_time": 1707968248,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276771,
+      "num": 276771,
+      "word": "林孝埈武大靖500米晋级",
+      "onboard_time": 1707969994,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272736,
       "num": 272736,
       "word": "吴磊直播间为赵今麦打圆场",
@@ -523,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268077,
-      "num": 268077,
-      "word": "韩国队内讧后WTT官方玩梗",
-      "onboard_time": 1707968248,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 264508,
+      "num": 264508,
+      "word": "全员加速中",
+      "onboard_time": 1707970472,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 260589,
@@ -569,14 +593,6 @@
       "onboard_time": 1707953542,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 234492,
-      "num": 234492,
-      "word": "婚姻给健康带来了什么",
-      "onboard_time": 1707969509,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 231554,
@@ -635,15 +651,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213647,
-      "num": 213647,
-      "word": "林孝埈武大靖500米晋级",
-      "onboard_time": 1707969994,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 210415,
+      "raw_hot": 219147,
       "num": 184245,
       "word": "范志毅控诉谢晖比赛前喝酒自己被骂",
       "onboard_time": 1707969751,
@@ -763,14 +771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182952,
-      "num": 182952,
-      "word": "全员加速中",
-      "onboard_time": 1707970472,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178947,
       "num": 178947,
       "word": "白色橄榄树",
@@ -825,6 +825,14 @@
       "onboard_time": 1707967472,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 167076,
+      "num": 167076,
+      "word": "马立奥过年真的很开心",
+      "onboard_time": 1707971314,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 162865,
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135432,
+      "num": 135432,
+      "word": "布克被驱逐",
+      "onboard_time": 1707970772,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133710,
       "num": 133710,
       "word": "四川一火锅店将两天营收全部给员工",
@@ -961,6 +977,14 @@
       "onboard_time": 1707921580,
       "rank": 39,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 133583,
+      "num": 133583,
+      "word": "iPhone进水的官方推荐处理方法",
+      "onboard_time": 1707971492,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 131135,
@@ -985,6 +1009,14 @@
       "onboard_time": 1707928232,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129477,
+      "num": 129477,
+      "word": "2024春节档票房破60亿",
+      "onboard_time": 1707970832,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129065,
@@ -1027,12 +1059,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126650,
+      "num": 126650,
+      "word": "西安旅游把人都挤成肉夹馍了",
+      "onboard_time": 1707968611,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126561,
       "num": 126561,
       "word": "票房",
       "onboard_time": 1707921038,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124041,
+      "num": 124041,
+      "word": "在暴雪时分亦果婚礼VCR",
+      "onboard_time": 1707969872,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 123997,
@@ -1099,12 +1147,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 114122,
-      "num": 114122,
-      "word": "西安旅游把人都挤成肉夹馍了",
-      "onboard_time": 1707968611,
-      "rank": 43,
-      "category": "旅游"
+      "raw_hot": 114025,
+      "num": 114025,
+      "word": "新疆乌什县4.7级地震",
+      "onboard_time": 1707971551,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112608,
@@ -1139,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106791,
+      "num": 106791,
+      "word": "NBA新秀榜文班亚马稳居第一",
+      "onboard_time": 1707971613,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106056,
       "num": 106056,
       "word": "大舞狮和小舞狮的互动有多萌",
@@ -1147,36 +1203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105607,
-      "num": 105607,
-      "word": "在暴雪时分亦果婚礼VCR",
-      "onboard_time": 1707969872,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105477,
       "num": 105477,
       "word": "罗云熙探班陈飞宇",
       "onboard_time": 1707914137,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104847,
-      "num": 104847,
-      "word": "2024春节档票房破60亿",
-      "onboard_time": 1707970832,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103255,
-      "num": 103255,
-      "word": "布克被驱逐",
-      "onboard_time": 1707970772,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 102585,
@@ -1211,8 +1243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87182,
-      "num": 769781,
+      "raw_hot": 97897,
+      "num": 1016219,
       "word": "我与家人合个影",
       "onboard_time": 1707969690,
       "rank": 2,
