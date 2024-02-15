@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708028173927,
+  "endTime": 1708029243101,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -41913,6 +41913,14 @@
       "onboard_time": 1707042991,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18612,
+      "num": 18612,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 18242,
