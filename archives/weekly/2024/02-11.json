@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708029243101,
+  "endTime": 1708031755163,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -12827,6 +12827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 46648,
+      "num": 19502,
+      "word": "邱泽许玮宁爆改龙珠",
+      "onboard_time": 1708029375,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45680,
       "num": 45680,
       "word": "哪些时候你觉得单身也挺好的",
@@ -12931,6 +12939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 35274,
+      "num": 35274,
+      "word": "又幸福了小老棣",
+      "onboard_time": 1708029435,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34658,
       "num": 34658,
       "word": "阿菲夫点球帽子戏法",
@@ -12993,6 +13009,14 @@
       "onboard_time": 1708024398,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27961,
+      "num": 27961,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 27593,
@@ -13089,14 +13113,6 @@
       "onboard_time": 1707596835,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18612,
-      "num": 18612,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 18038,

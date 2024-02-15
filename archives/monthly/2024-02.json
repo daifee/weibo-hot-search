@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708029243101,
+  "endTime": 1708031755163,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -40771,6 +40771,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 46648,
+      "num": 19502,
+      "word": "邱泽许玮宁爆改龙珠",
+      "onboard_time": 1708029375,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46229,
       "num": 46229,
       "word": "微博开新年",
@@ -41211,6 +41219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 35274,
+      "num": 35274,
+      "word": "又幸福了小老棣",
+      "onboard_time": 1708029435,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34860,
       "num": 26120,
       "word": "毛不易一开口舒服了",
@@ -41521,6 +41537,14 @@
       "onboard_time": 1707546154,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27961,
+      "num": 27961,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 27877,
@@ -41913,14 +41937,6 @@
       "onboard_time": 1707042991,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18612,
-      "num": 18612,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 18242,
