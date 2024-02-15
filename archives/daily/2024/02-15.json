@@ -1,6 +1,6 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707971630830,
+  "endTime": 1707974247906,
   "band_list": [
     {
       "raw_hot": 3340955,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1181828,
-      "num": 265304,
+      "num": 265783,
       "word": "白敬亭工作室公开招聘",
       "onboard_time": 1707959369,
       "rank": 30,
@@ -57,6 +57,14 @@
       "onboard_time": 1707966574,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1030665,
+      "num": 1030665,
+      "word": "张小斐 半脸冷漠半脸心疼",
+      "onboard_time": 1707972811,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1020365,
@@ -96,6 +104,14 @@
       "word": "王骁被骂",
       "onboard_time": 1707905917,
       "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 946140,
+      "num": 946140,
+      "word": "贾玲第一个引体向上用了三十天",
+      "onboard_time": 1707970114,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -139,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812990,
+      "num": 812990,
+      "word": "章子怡带孩子日本滑雪",
+      "onboard_time": 1707972932,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804070,
       "num": 804070,
       "word": "向佐当郭碧婷的人形雪橇犬",
       "onboard_time": 1707962790,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764202,
+      "num": 764202,
+      "word": "iPhone进水的官方推荐处理方法",
+      "onboard_time": 1707971492,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 757095,
@@ -203,14 +235,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 635992,
-      "num": 635992,
-      "word": "贾玲第一个引体向上用了三十天",
-      "onboard_time": 1707970114,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 616277,
       "num": 616277,
       "word": "谢晖婚礼",
@@ -251,6 +275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505101,
+      "num": 505101,
+      "word": "一人之下",
+      "onboard_time": 1707972392,
+      "rank": 9,
+      "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 502547,
+      "num": 502547,
+      "word": "热辣滚烫口碑票房双第一",
+      "onboard_time": 1707972333,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 502274,
       "num": 502274,
       "word": "我们一起摇太阳宣布延后上映",
@@ -273,6 +313,14 @@
       "onboard_time": 1707964714,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465963,
+      "num": 465963,
+      "word": "拒绝过年给蹭饭亲戚买单",
+      "onboard_time": 1707971734,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 461471,
@@ -339,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416822,
+      "num": 416822,
+      "word": "侃爷发文怼霉霉粉丝",
+      "onboard_time": 1707973052,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411531,
       "num": 411531,
       "word": "授她以柄",
@@ -372,7 +428,7 @@
     },
     {
       "raw_hot": 397431,
-      "num": 258653,
+      "num": 262974,
       "word": "情绪稳定的男生真的很加分",
       "onboard_time": 1707967715,
       "rank": 32,
@@ -443,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357808,
+      "num": 357808,
+      "word": "婚姻给健康带来了什么",
+      "onboard_time": 1707969509,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 347336,
       "num": 347336,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -457,6 +521,14 @@
       "onboard_time": 1707954264,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344696,
+      "num": 344696,
+      "word": "马立奥过年真的很开心",
+      "onboard_time": 1707971314,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 334875,
@@ -507,12 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 291151,
-      "num": 291151,
-      "word": "婚姻给健康带来了什么",
-      "onboard_time": 1707969509,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 293612,
+      "num": 173415,
+      "word": "回村后吃到的高仿",
+      "onboard_time": 1707973534,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 284164,
@@ -571,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247141,
+      "num": 247141,
+      "word": "网评古装待播剧地位图",
+      "onboard_time": 1707973470,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246458,
       "num": 246458,
       "word": "为什么姥姥把房子留给了乐莹",
@@ -593,6 +673,14 @@
       "onboard_time": 1707953542,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236204,
+      "num": 236204,
+      "word": "猫猫一拳把蛋黄揍翻",
+      "onboard_time": 1707973233,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 231554,
@@ -827,14 +915,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 167076,
-      "num": 167076,
-      "word": "马立奥过年真的很开心",
-      "onboard_time": 1707971314,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162865,
       "num": 162865,
       "word": "贾玲 最美的盛开是反击",
@@ -849,6 +929,14 @@
       "onboard_time": 1707912459,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162234,
+      "num": 162234,
+      "word": "八村垒36分",
+      "onboard_time": 1707973350,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 159568,
@@ -923,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144652,
+      "num": 144652,
+      "word": "大多数人一辈子都在追求优越感",
+      "onboard_time": 1707972090,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141741,
       "num": 141741,
       "word": "在暴雪时分",
@@ -945,6 +1041,14 @@
       "onboard_time": 1707918937,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140645,
+      "num": 140645,
+      "word": "飞驰人生2 真实",
+      "onboard_time": 1707973233,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 138286,
@@ -977,14 +1081,6 @@
       "onboard_time": 1707921580,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 133583,
-      "num": 133583,
-      "word": "iPhone进水的官方推荐处理方法",
-      "onboard_time": 1707971492,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 131135,
@@ -1043,6 +1139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 127831,
+      "num": 127831,
+      "word": "巴音布鲁克唯一的海",
+      "onboard_time": 1707973892,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127262,
       "num": 127262,
       "word": "她是妈妈但更是她自己",
@@ -1089,6 +1193,14 @@
       "onboard_time": 1707970354,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123504,
+      "num": 123504,
+      "word": "今年正月初六不用往外走了",
+      "onboard_time": 1707974072,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122979,
@@ -1219,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102322,
+      "num": 112757,
+      "word": "站在门槛后面的两只小奶狗",
+      "onboard_time": 1707974192,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102197,
       "num": 102197,
       "word": "Fly在热辣滚烫里找到了共鸣",
@@ -1243,7 +1363,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97897,
+      "raw_hot": 99038,
       "num": 1016219,
       "word": "我与家人合个影",
       "onboard_time": 1707969690,

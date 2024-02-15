@@ -1,0 +1,410 @@
+{
+  "runTime": 1707974247906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276748,
+        "num": 1276748,
+        "word": "杭州西湖2天捞起17部手机",
+        "onboard_time": 1707967531,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030665,
+        "num": 1030665,
+        "word": "张小斐 半脸冷漠半脸心疼",
+        "onboard_time": 1707972811,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99038,
+        "num": 979027,
+        "word": "我与家人合个影",
+        "onboard_time": 1707969690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946140,
+        "num": 946140,
+        "word": "贾玲第一个引体向上用了三十天",
+        "onboard_time": 1707970114,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 812990,
+        "num": 812990,
+        "word": "章子怡带孩子日本滑雪",
+        "onboard_time": 1707972932,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764202,
+        "num": 764202,
+        "word": "iPhone进水的官方推荐处理方法",
+        "onboard_time": 1707971492,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 580115,
+        "num": 580115,
+        "word": "何老师的脑洞我也是服了",
+        "onboard_time": 1707966574,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559646,
+        "num": 559646,
+        "word": "杨玏王玉雯同游英国",
+        "onboard_time": 1707961770,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551881,
+        "num": 551881,
+        "word": "普京称俄罗斯即将研制出癌症疫苗",
+        "onboard_time": 1707967411,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 505101,
+        "num": 505101,
+        "word": "一人之下",
+        "onboard_time": 1707972392,
+        "rank": 9,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 502547,
+        "num": 502547,
+        "word": "热辣滚烫口碑票房双第一",
+        "onboard_time": 1707972333,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465963,
+        "num": 465963,
+        "word": "拒绝过年给蹭饭亲戚买单",
+        "onboard_time": 1707971734,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421990,
+        "num": 421990,
+        "word": "谢晖婚礼",
+        "onboard_time": 1707969213,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416822,
+        "num": 416822,
+        "word": "侃爷发文怼霉霉粉丝",
+        "onboard_time": 1707973052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357808,
+        "num": 357808,
+        "word": "婚姻给健康带来了什么",
+        "onboard_time": 1707969509,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344696,
+        "num": 344696,
+        "word": "马立奥过年真的很开心",
+        "onboard_time": 1707971314,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316261,
+        "num": 316261,
+        "word": "你们合不合适断联一下就知道了",
+        "onboard_time": 1707958949,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305528,
+        "num": 305528,
+        "word": "让侯雯元别蹲着拍了",
+        "onboard_time": 1707956848,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275686,
+        "num": 275686,
+        "word": "马丽 捡到手机怎么还截屏",
+        "onboard_time": 1707958110,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266236,
+        "num": 266236,
+        "word": "女子为亡弟追凶24年曾和嫌疑人网聊3年",
+        "onboard_time": 1707963029,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590011,
+        "num": 265783,
+        "word": "白敬亭工作室公开招聘",
+        "onboard_time": 1707959369,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270973,
+        "num": 264807,
+        "word": "我感觉好像没有家了",
+        "onboard_time": 1707961410,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262974,
+        "num": 262974,
+        "word": "情绪稳定的男生真的很加分",
+        "onboard_time": 1707967715,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247141,
+        "num": 247141,
+        "word": "网评古装待播剧地位图",
+        "onboard_time": 1707973470,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236204,
+        "num": 236204,
+        "word": "猫猫一拳把蛋黄揍翻",
+        "onboard_time": 1707973233,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231662,
+        "num": 231662,
+        "word": "林孝埈武大靖500米晋级",
+        "onboard_time": 1707969994,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203861,
+        "num": 203861,
+        "word": "赵丽颖主演票房突破30亿",
+        "onboard_time": 1707957452,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194566,
+        "num": 194566,
+        "word": "三亚机票",
+        "onboard_time": 1707957030,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177676,
+        "num": 177676,
+        "word": "全员加速中",
+        "onboard_time": 1707970472,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110474,
+        "num": 173583,
+        "word": "上班的我vs回家的我",
+        "onboard_time": 1707970354,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353459,
+        "num": 173468,
+        "word": "30岁青年娶妻难疯进精神病院",
+        "onboard_time": 1707964714,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293612,
+        "num": 173415,
+        "word": "回村后吃到的高仿",
+        "onboard_time": 1707973534,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173308,
+        "num": 173308,
+        "word": "第二十条 校园暴力事件",
+        "onboard_time": 1707964772,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171052,
+        "num": 171052,
+        "word": "向佐当郭碧婷的人形雪橇犬",
+        "onboard_time": 1707962790,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163731,
+        "num": 163731,
+        "word": "六公主播人生路不熟",
+        "onboard_time": 1707967290,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162234,
+        "num": 162234,
+        "word": "八村垒36分",
+        "onboard_time": 1707973350,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144774,
+        "num": 144774,
+        "word": "麻油蒸蛋 荨麻疹",
+        "onboard_time": 1707954746,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144652,
+        "num": 144652,
+        "word": "大多数人一辈子都在追求优越感",
+        "onboard_time": 1707972090,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141884,
+        "num": 141884,
+        "word": "范志毅控诉谢晖比赛前喝酒自己被骂",
+        "onboard_time": 1707969751,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141475,
+        "num": 141475,
+        "word": "日本名义GDP跌出世界前三",
+        "onboard_time": 1707959190,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140645,
+        "num": 140645,
+        "word": "飞驰人生2 真实",
+        "onboard_time": 1707973233,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134944,
+        "num": 134944,
+        "word": "斐玲 妈知道",
+        "onboard_time": 1707954924,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "韩国队内讧后WTT官方玩梗",
+        "onboard_time": 1707968248,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128952,
+        "num": 128952,
+        "word": "为什么姥姥把房子留给了乐莹",
+        "onboard_time": 1707967472,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127831,
+        "num": 127831,
+        "word": "巴音布鲁克唯一的海",
+        "onboard_time": 1707973892,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126842,
+        "num": 126842,
+        "word": "马思纯发了无修剧照",
+        "onboard_time": 1707953060,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123504,
+        "num": 123504,
+        "word": "今年正月初六不用往外走了",
+        "onboard_time": 1707974072,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121333,
+        "num": 121333,
+        "word": "在场人员还原王骁被骂事件始末",
+        "onboard_time": 1707953060,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111139,
+        "num": 116460,
+        "word": "网传白敬亭换衣服的原因",
+        "onboard_time": 1707968970,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102322,
+        "num": 112757,
+        "word": "站在门槛后面的两只小奶狗",
+        "onboard_time": 1707974192,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造温暖和谐的社会氛围#"
+    }
+  }
+}
