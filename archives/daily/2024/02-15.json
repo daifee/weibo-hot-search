@@ -1,10 +1,10 @@
 {
   "startTime": 1707927696624,
-  "endTime": 1707959493675,
+  "endTime": 1707960678426,
   "band_list": [
     {
-      "raw_hot": 1810701,
-      "num": 385786,
+      "raw_hot": 2074234,
+      "num": 395688,
       "word": "白敬亭现场侧拍视频",
       "onboard_time": 1707956607,
       "rank": 10,
@@ -12,10 +12,26 @@
     },
     {
       "raw_hot": 1246714,
-      "num": 853832,
+      "num": 987339,
       "word": "在场人员还原王骁被骂事件始末",
       "onboard_time": 1707953060,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1123781,
+      "num": 243103,
+      "word": "白敬亭工作室公开招聘",
+      "onboard_time": 1707959369,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 994346,
+      "num": 994346,
+      "word": "马丽 捡到手机怎么还截屏",
+      "onboard_time": 1707958110,
+      "rank": 4,
       "category": "电影"
     },
     {
@@ -107,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 620256,
-      "num": 620256,
-      "word": "马丽 捡到手机怎么还截屏",
-      "onboard_time": 1707958110,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 668113,
+      "num": 393082,
+      "word": "让侯雯元别蹲着拍了",
+      "onboard_time": 1707956848,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 611778,
@@ -121,14 +137,6 @@
       "onboard_time": 1707954746,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 603770,
-      "num": 376011,
-      "word": "让侯雯元别蹲着拍了",
-      "onboard_time": 1707956848,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 537358,
@@ -145,6 +153,14 @@
       "onboard_time": 1707924097,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 517237,
+      "num": 517237,
+      "word": "日本名义GDP跌出世界前三",
+      "onboard_time": 1707959190,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 502274,
@@ -219,12 +235,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399090,
+      "num": 399090,
+      "word": "每天万名游客打卡刘亦菲同款古村落",
+      "onboard_time": 1707957869,
+      "rank": 15,
+      "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 388892,
+      "num": 388892,
+      "word": "赵丽颖主演票房突破30亿",
+      "onboard_time": 1707957452,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387154,
       "num": 387154,
       "word": "斐玲 妈知道",
       "onboard_time": 1707954924,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386678,
+      "num": 386678,
+      "word": "美国1天内发生2起枪击案",
+      "onboard_time": 1707957330,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 383111,
@@ -251,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350057,
+      "num": 238417,
+      "word": "你们合不合适断联一下就知道了",
+      "onboard_time": 1707958949,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 347336,
       "num": 347336,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -275,20 +323,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 323023,
-      "num": 323023,
-      "word": "赵丽颖主演票房突破30亿",
-      "onboard_time": 1707957452,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316837,
-      "num": 316837,
-      "word": "每天万名游客打卡刘亦菲同款古村落",
-      "onboard_time": 1707957869,
-      "rank": 15,
-      "category": "旅游,艺人"
+      "raw_hot": 318898,
+      "num": 318898,
+      "word": "新疆8分钟惊艳世界幕后的无名推手",
+      "onboard_time": 1707957569,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 311646,
@@ -307,14 +347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 310246,
-      "num": 161761,
-      "word": "白敬亭工作室公开招聘",
-      "onboard_time": 1707959369,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297921,
       "num": 297921,
       "word": "口呼吸改善法拯救你的颜值",
@@ -323,28 +355,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 290944,
-      "num": 290944,
-      "word": "美国1天内发生2起枪击案",
-      "onboard_time": 1707957330,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 272736,
       "num": 272736,
       "word": "吴磊直播间为赵今麦打圆场",
       "onboard_time": 1707934823,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264565,
-      "num": 264565,
-      "word": "新疆8分钟惊艳世界幕后的无名推手",
-      "onboard_time": 1707957569,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 260589,
@@ -377,6 +393,14 @@
       "onboard_time": 1707940276,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228694,
+      "num": 191706,
+      "word": "春节在家发现被爱的痕迹",
+      "onboard_time": 1707959672,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 223355,
@@ -419,6 +443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 205442,
+      "num": 205442,
+      "word": "初六还有哪些年俗",
+      "onboard_time": 1707960212,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196996,
       "num": 196996,
       "word": "热辣滚烫2024情人节档票房冠军",
@@ -433,6 +465,14 @@
       "onboard_time": 1707925356,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193058,
+      "num": 193058,
+      "word": "家里有个制造内耗的人才是最可怕的",
+      "onboard_time": 1707957869,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 188080,
@@ -467,16 +507,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 177800,
-      "num": 177800,
-      "word": "家里有个制造内耗的人才是最可怕的",
-      "onboard_time": 1707957869,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 172206,
-      "num": 172206,
+      "raw_hot": 178947,
+      "num": 178947,
       "word": "白色橄榄树",
       "onboard_time": 1707955586,
       "rank": 26,
@@ -513,6 +545,14 @@
       "onboard_time": 1707946635,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 153599,
+      "num": 153599,
+      "word": "历届春晚一等奖小品",
+      "onboard_time": 1707960393,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 152228,
@@ -563,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137922,
-      "num": 137922,
-      "word": "日本名义GDP跌出世界前三",
-      "onboard_time": 1707959190,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 133710,
       "num": 133710,
       "word": "四川一火锅店将两天营收全部给员工",
@@ -595,20 +627,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130332,
-      "num": 130332,
-      "word": "你们合不合适断联一下就知道了",
-      "onboard_time": 1707958949,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130312,
       "num": 130312,
       "word": "黄曦彦也被侯雯元钟楚曦官宣震惊到了",
       "onboard_time": 1707901356,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129954,
+      "num": 129954,
+      "word": "联播主播怎么做到扫一眼急稿就播",
+      "onboard_time": 1707960273,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129539,
@@ -691,8 +723,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108409,
-      "num": 108409,
+      "raw_hot": 109895,
+      "num": 109895,
       "word": "体脂率才是最诚实的胖瘦衡量标准",
       "onboard_time": 1707933140,
       "rank": 33,
@@ -705,6 +737,14 @@
       "onboard_time": 1707912758,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106056,
+      "num": 106056,
+      "word": "大舞狮和小舞狮的互动有多萌",
+      "onboard_time": 1707959792,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105477,
@@ -747,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84492,
+      "num": 828414,
+      "word": "2024春节档总票房已破50亿元",
+      "onboard_time": 1707915156,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75197,
       "num": 101160,
       "word": "勇士曾尝试交易詹姆斯",
@@ -769,14 +817,6 @@
       "onboard_time": 1707937276,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65468,
-      "num": 788969,
-      "word": "2024春节档总票房已破50亿元",
-      "onboard_time": 1707915156,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52757,
