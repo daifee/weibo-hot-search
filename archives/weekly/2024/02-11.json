@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1707974247906,
+  "endTime": 1707975309673,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1595230,
+      "num": 1595230,
+      "word": "张小斐 半脸冷漠半脸心疼",
+      "onboard_time": 1707972811,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1569503,
       "num": 1569503,
       "word": "甜馨 倒霉的一年也结束了",
@@ -836,7 +844,7 @@
     },
     {
       "raw_hot": 1181828,
-      "num": 265783,
+      "num": 277163,
       "word": "白敬亭工作室公开招聘",
       "onboard_time": 1707959369,
       "rank": 30,
@@ -1096,14 +1104,6 @@
       "word": "第二十条连续票房逆跌",
       "onboard_time": 1707870631,
       "rank": 4,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1030665,
-      "num": 1030665,
-      "word": "张小斐 半脸冷漠半脸心疼",
-      "onboard_time": 1707972811,
-      "rank": 1,
       "category": "电影"
     },
     {
@@ -2659,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536356,
+      "num": 536356,
+      "word": "热辣滚烫口碑票房双第一",
+      "onboard_time": 1707972333,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 535299,
       "num": 535299,
       "word": "惹了热爱对称的中国人",
@@ -2697,6 +2705,22 @@
       "onboard_time": 1707784349,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528089,
+      "num": 528089,
+      "word": "拒绝过年给蹭饭亲戚买单",
+      "onboard_time": 1707971734,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 527594,
+      "num": 527594,
+      "word": "侃爷发文怼霉霉粉丝",
+      "onboard_time": 1707973052,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 527554,
@@ -2769,6 +2793,14 @@
       "onboard_time": 1707796058,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 520246,
+      "num": 520246,
+      "word": "今年正月初六不用往外走了",
+      "onboard_time": 1707974072,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520033,
@@ -2867,20 +2899,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 505726,
+      "num": 185923,
+      "word": "回村后吃到的高仿",
+      "onboard_time": 1707973534,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 505101,
       "num": 505101,
       "word": "一人之下",
       "onboard_time": 1707972392,
       "rank": 9,
       "category": "动漫,电影"
-    },
-    {
-      "raw_hot": 502547,
-      "num": 502547,
-      "word": "热辣滚烫口碑票房双第一",
-      "onboard_time": 1707972333,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 501922,
@@ -3145,14 +3177,6 @@
       "onboard_time": 1707890314,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465963,
-      "num": 465963,
-      "word": "拒绝过年给蹭饭亲戚买单",
-      "onboard_time": 1707971734,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 461823,
@@ -3513,14 +3537,6 @@
       "onboard_time": 1707911437,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 416822,
-      "num": 416822,
-      "word": "侃爷发文怼霉霉粉丝",
-      "onboard_time": 1707973052,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 416013,
@@ -4651,12 +4667,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293612,
-      "num": 173415,
-      "word": "回村后吃到的高仿",
-      "onboard_time": 1707973534,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 293374,
+      "num": 293374,
+      "word": "王俊凯去上班了",
+      "onboard_time": 1707974970,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 293065,
@@ -4688,6 +4704,14 @@
       "word": "白敬亭宋家腾接机刘冠麟",
       "onboard_time": 1707631531,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 290774,
+      "num": 290774,
+      "word": "网评古装待播剧地位图",
+      "onboard_time": 1707973470,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -4969,6 +4993,14 @@
       "onboard_time": 1707722671,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271207,
+      "num": 271207,
+      "word": "国内外游客争相打卡迪丽热巴春晚舞台",
+      "onboard_time": 1707974371,
+      "rank": 22,
+      "category": "旅游,综艺"
     },
     {
       "raw_hot": 271154,
@@ -5379,14 +5411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 247141,
-      "num": 247141,
-      "word": "网评古装待播剧地位图",
-      "onboard_time": 1707973470,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246458,
       "num": 246458,
       "word": "为什么姥姥把房子留给了乐莹",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1707829238,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245252,
+      "num": 245252,
+      "word": "张杰从除夕锻炼到大年初六",
+      "onboard_time": 1707974734,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 245062,
@@ -5841,6 +5873,14 @@
       "onboard_time": 1707714270,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229517,
+      "num": 229517,
+      "word": "张远记了王栎鑫半年的仇",
+      "onboard_time": 1707975212,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 228881,
@@ -8115,6 +8155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157601,
+      "num": 157601,
+      "word": "初六",
+      "onboard_time": 1707975150,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157544,
       "num": 157544,
       "word": "肖战希望好好工作和多陪家人",
@@ -8771,6 +8819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143183,
+      "num": 143183,
+      "word": "巴音布鲁克唯一的海",
+      "onboard_time": 1707973892,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143115,
       "num": 143115,
       "word": "马嘉祺颐和园滑冰vlog",
@@ -8859,6 +8915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141079,
+      "num": 140645,
+      "word": "飞驰人生2 真实",
+      "onboard_time": 1707973233,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140990,
       "num": 140990,
       "word": "亲戚越来越少",
@@ -8897,14 +8961,6 @@
       "onboard_time": 1707754231,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140645,
-      "num": 140645,
-      "word": "飞驰人生2 真实",
-      "onboard_time": 1707973233,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 140370,
@@ -9459,14 +9515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127831,
-      "num": 127831,
-      "word": "巴音布鲁克唯一的海",
-      "onboard_time": 1707973892,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127805,
       "num": 127805,
       "word": "乾隆时期的发廊三色瓶",
@@ -9627,6 +9675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124977,
+      "num": 124977,
+      "word": "1000米预赛林孝埈小组第一",
+      "onboard_time": 1707974790,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124560,
       "num": 124560,
       "word": "新生与暮年一墙之隔同时跑赢死神",
@@ -9697,14 +9753,6 @@
       "onboard_time": 1707680417,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123504,
-      "num": 123504,
-      "word": "今年正月初六不用往外走了",
-      "onboard_time": 1707974072,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123265,
@@ -9971,6 +10019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118205,
+      "num": 118205,
+      "word": "拉塞尔17助攻创生涯新高",
+      "onboard_time": 1707974494,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118093,
       "num": 118093,
       "word": "湖人考虑引进布朗尼",
@@ -10121,6 +10177,14 @@
       "onboard_time": 1707836440,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115133,
+      "num": 115133,
+      "word": "拉肚子不等于吃坏了肚子",
+      "onboard_time": 1707975212,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114918,
