@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708035356045,
+  "endTime": 1708036438071,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -12563,6 +12563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76900,
+      "num": 47862,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 76453,
       "num": 344697,
       "word": "情人节关键时刻见实力",
@@ -12635,14 +12643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65436,
-      "num": 40217,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 63320,
       "num": 63320,
       "word": "求证cp等于be",
@@ -12691,6 +12691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57163,
+      "num": 33153,
+      "word": "不结婚痛苦的只是父母吗",
+      "onboard_time": 1708033096,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56244,
       "num": 49894,
       "word": "宋江ins粉丝破2100万",
@@ -12731,6 +12739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53886,
+      "num": 33153,
+      "word": "小县城私立中学为何备受家长追捧",
+      "onboard_time": 1708034597,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52757,
       "num": 52757,
       "word": "春节期间每天三千多人去黄龙锻炼",
@@ -12764,7 +12780,7 @@
     },
     {
       "raw_hot": 49866,
-      "num": 22951,
+      "num": 26345,
       "word": "邱泽许玮宁爆改龙珠",
       "onboard_time": 1708029375,
       "rank": 30,
@@ -12883,14 +12899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 42645,
-      "num": 29358,
-      "word": "不结婚痛苦的只是父母吗",
-      "onboard_time": 1708033096,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 41751,
       "num": 41751,
       "word": "阿瓦迪夫卡局势",
@@ -12931,20 +12939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39089,
+      "num": 39089,
+      "word": "又幸福了小老棣",
+      "onboard_time": 1708029435,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38872,
       "num": 38872,
       "word": "快乐老友记",
       "onboard_time": 1707592037,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38814,
-      "num": 38814,
-      "word": "又幸福了小老棣",
-      "onboard_time": 1708029435,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 37959,
@@ -13035,6 +13043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26192,
+      "num": 26192,
+      "word": "为什么我国心梗脑梗那么多",
+      "onboard_time": 1708035438,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26043,
       "num": 26043,
       "word": "杭州西湖暂别人山人海",
@@ -13057,14 +13073,6 @@
       "onboard_time": 1707777377,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 23118,
-      "num": 23118,
-      "word": "小县城私立中学为何备受家长追捧",
-      "onboard_time": 1708034597,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22017,
@@ -13123,6 +13131,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19233,
+      "num": 19233,
+      "word": "没想到肌肉男有自己的年检",
+      "onboard_time": 1708032676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18949,
+      "num": 18949,
+      "word": "放长假就感冒警惕周末病",
+      "onboard_time": 1708033637,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18945,
       "num": 18945,
       "word": "董宇辉北京台春晚拜年",
@@ -13137,14 +13161,6 @@
       "onboard_time": 1707852798,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17712,
-      "num": 17712,
-      "word": "没想到肌肉男有自己的年检",
-      "onboard_time": 1708032676,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 17134,
@@ -13177,14 +13193,6 @@
       "onboard_time": 1707676578,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16117,
-      "num": 16117,
-      "word": "放长假就感冒警惕周末病",
-      "onboard_time": 1708033637,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14534,

@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708035356045,
+  "endTime": 1708036438071,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76900,
+      "num": 47862,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 69149,
       "num": 69149,
       "word": "魏大勋表情包",
@@ -443,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 65436,
-      "num": 40217,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
+      "raw_hot": 57163,
+      "num": 33153,
+      "word": "不结婚痛苦的只是父母吗",
+      "onboard_time": 1708033096,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 56864,
@@ -459,8 +467,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53886,
+      "num": 33153,
+      "word": "小县城私立中学为何备受家长追捧",
+      "onboard_time": 1708034597,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49866,
-      "num": 22951,
+      "num": 26345,
       "word": "邱泽许玮宁爆改龙珠",
       "onboard_time": 1708029375,
       "rank": 30,
@@ -483,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 42645,
-      "num": 29358,
-      "word": "不结婚痛苦的只是父母吗",
-      "onboard_time": 1708033096,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 41751,
       "num": 41751,
       "word": "阿瓦迪夫卡局势",
@@ -499,8 +507,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 38814,
-      "num": 38814,
+      "raw_hot": 39089,
+      "num": 39089,
       "word": "又幸福了小老棣",
       "onboard_time": 1708029435,
       "rank": 12,
@@ -531,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26192,
+      "num": 26192,
+      "word": "为什么我国心梗脑梗那么多",
+      "onboard_time": 1708035438,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26043,
       "num": 26043,
       "word": "杭州西湖暂别人山人海",
@@ -539,12 +555,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 23118,
-      "num": 23118,
-      "word": "小县城私立中学为何备受家长追捧",
-      "onboard_time": 1708034597,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 19233,
+      "num": 19233,
+      "word": "没想到肌肉男有自己的年检",
+      "onboard_time": 1708032676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18949,
+      "num": 18949,
+      "word": "放长假就感冒警惕周末病",
+      "onboard_time": 1708033637,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17855,
@@ -553,22 +577,6 @@
       "onboard_time": 1707969690,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17712,
-      "num": 17712,
-      "word": "没想到肌肉男有自己的年检",
-      "onboard_time": 1708032676,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 16117,
-      "num": 16117,
-      "word": "放长假就感冒警惕周末病",
-      "onboard_time": 1708033637,
-      "rank": 37,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
