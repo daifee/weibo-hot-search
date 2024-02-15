@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708006549100,
+  "endTime": 1708007640379,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3256766,
+      "num": 3256766,
+      "word": "薛之谦 盗摄",
+      "onboard_time": 1708003236,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3200989,
       "num": 3200989,
       "word": "他换了三套衣服都没换你的",
@@ -87,14 +95,6 @@
       "num": 3167683,
       "word": "她不是变瘦了 她是变强了",
       "onboard_time": 1707623910,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 3159898,
-      "num": 3159898,
-      "word": "薛之谦 盗摄",
-      "onboard_time": 1708003236,
       "rank": 4,
       "category": "电影"
     },
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1272569,
+      "num": 1272569,
+      "word": "为什么费列罗卖不动了",
+      "onboard_time": 1708006055,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1272465,
       "num": 1272465,
       "word": "胡锡进 贾玲确实太牛了",
@@ -1307,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1002896,
+      "num": 1002896,
+      "word": "草莓盖浇饭",
+      "onboard_time": 1708004677,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 994720,
       "num": 994720,
       "word": "贾玲首次线下公开露面",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1707616467,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 939252,
-      "num": 939252,
-      "word": "草莓盖浇饭",
-      "onboard_time": 1708004677,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 938655,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1708004435,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814184,
+      "num": 814184,
+      "word": "杨幂朱一龙魏大勋魏晨同框",
+      "onboard_time": 1708006776,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 813404,
@@ -2787,6 +2803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 564045,
+      "num": 564045,
+      "word": "旁边是林孝埈",
+      "onboard_time": 1708005099,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562939,
       "num": 562939,
       "word": "飞驰人生2票房",
@@ -2900,7 +2924,7 @@
     },
     {
       "raw_hot": 548478,
-      "num": 457828,
+      "num": 484036,
       "word": "王一博衣服判官",
       "onboard_time": 1708003178,
       "rank": 12,
@@ -3635,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446358,
+      "num": 446358,
+      "word": "中方驳斥卡梅伦将红海和台湾海峡混为一谈",
+      "onboard_time": 1708005995,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 445158,
       "num": 445158,
       "word": "县城结婚压力大嫁妆多由男方出",
@@ -3777,14 +3809,6 @@
       "onboard_time": 1707747757,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 431603,
-      "num": 431603,
-      "word": "旁边是林孝埈",
-      "onboard_time": 1708005099,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 431283,
@@ -3945,6 +3969,14 @@
       "onboard_time": 1707911437,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417532,
+      "num": 294747,
+      "word": "春节第五天我偷跑出门开钟点房了",
+      "onboard_time": 1708005995,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 416013,
@@ -4249,6 +4281,14 @@
       "onboard_time": 1707893792,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380758,
+      "num": 380758,
+      "word": "尹正 在洗衣机里甩干太久迟到了",
+      "onboard_time": 1708004977,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 379992,
@@ -4563,14 +4603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 357459,
-      "num": 357459,
-      "word": "尹正 在洗衣机里甩干太久迟到了",
-      "onboard_time": 1708004977,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 356023,
       "num": 356023,
       "word": "杨蓉也嗑双北",
@@ -4641,14 +4673,6 @@
       "onboard_time": 1707976052,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 351587,
-      "num": 351587,
-      "word": "为什么费列罗卖不动了",
-      "onboard_time": 1708006055,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 350981,
@@ -4881,14 +4905,6 @@
       "onboard_time": 1707721589,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329797,
-      "num": 226612,
-      "word": "中方驳斥卡梅伦将红海和台湾海峡混为一谈",
-      "onboard_time": 1708005995,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 329532,
@@ -5249,14 +5265,6 @@
       "onboard_time": 1707738393,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 294747,
-      "num": 294747,
-      "word": "春节第五天我偷跑出门开钟点房了",
-      "onboard_time": 1708005995,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 294569,
@@ -6619,8 +6627,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226968,
-      "num": 226968,
+      "raw_hot": 227287,
+      "num": 227287,
       "word": "回家穿搭是咋做到全国统一的",
       "onboard_time": 1708003716,
       "rank": 49,
@@ -8123,6 +8131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183864,
+      "num": 183864,
+      "word": "为什么猪肉没有以前的好吃了",
+      "onboard_time": 1708004255,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183823,
       "num": 183823,
       "word": "贾玲偷的杨迪以前偷的题",
@@ -8257,14 +8273,6 @@
       "onboard_time": 1707646173,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179867,
-      "num": 179867,
-      "word": "为什么猪肉没有以前的好吃了",
-      "onboard_time": 1708004255,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 179727,
@@ -11051,6 +11059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121983,
+      "num": 121983,
+      "word": "孙千 外貌是最不应该去攻击的",
+      "onboard_time": 1708007619,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121902,
       "num": 121902,
       "word": "摇太阳 是撒糖不是撒盐",
@@ -11129,6 +11145,14 @@
       "onboard_time": 1707635792,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120909,
+      "num": 120909,
+      "word": "普通人做人生规划",
+      "onboard_time": 1708006776,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120867,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708006549100,
+  "endTime": 1708007640379,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3256766,
+      "num": 3256766,
+      "word": "薛之谦 盗摄",
+      "onboard_time": 1708003236,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3232200,
       "num": 3232200,
       "word": "郑钦文获澳网亚军",
@@ -903,14 +911,6 @@
       "num": 3167683,
       "word": "她不是变瘦了 她是变强了",
       "onboard_time": 1707623910,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 3159898,
-      "num": 3159898,
-      "word": "薛之谦 盗摄",
-      "onboard_time": 1708003236,
       "rank": 4,
       "category": "电影"
     },
