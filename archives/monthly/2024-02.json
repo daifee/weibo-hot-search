@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708010238838,
+  "endTime": 1708011243425,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1707643772,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1531097,
+      "num": 1531097,
+      "word": "魏大勋被强制闭麦",
+      "onboard_time": 1708009054,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1527612,
@@ -4913,14 +4921,6 @@
       "onboard_time": 1707906517,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 896785,
-      "num": 896785,
-      "word": "魏大勋被强制闭麦",
-      "onboard_time": 1708009054,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 896153,
@@ -8185,6 +8185,14 @@
       "onboard_time": 1706881713,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 619898,
+      "num": 496638,
+      "word": "春节第五天我偷跑出门开钟点房了",
+      "onboard_time": 1708005995,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 619488,
@@ -12363,14 +12371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 417695,
-      "num": 417695,
-      "word": "春节第五天我偷跑出门开钟点房了",
-      "onboard_time": 1708005995,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 416394,
       "num": 285463,
       "word": "雷军宣布卢伟冰将兼任小米品牌总经理",
@@ -12899,6 +12899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398623,
+      "num": 398623,
+      "word": "偶遇陈哲远",
+      "onboard_time": 1708009357,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398618,
       "num": 398618,
       "word": "四川通报一学生在校坠亡",
@@ -13001,6 +13009,14 @@
       "onboard_time": 1707390993,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395418,
+      "num": 395418,
+      "word": "徐梦洁回应演短剧",
+      "onboard_time": 1708009054,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 395017,
@@ -14393,14 +14409,6 @@
       "onboard_time": 1707059314,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 354863,
-      "num": 354863,
-      "word": "徐梦洁回应演短剧",
-      "onboard_time": 1708009054,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 354615,
@@ -17041,14 +17049,6 @@
       "onboard_time": 1706868811,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286577,
-      "num": 286577,
-      "word": "偶遇陈哲远",
-      "onboard_time": 1708009357,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 286543,
@@ -20875,6 +20875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228306,
+      "num": 228306,
+      "word": "受不了了好想偷了吗喽的人生",
+      "onboard_time": 1708010378,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228188,
       "num": 228188,
       "word": "李雪琴预判了观众的提问",
@@ -21033,6 +21041,14 @@
       "onboard_time": 1707286887,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 226170,
+      "num": 226170,
+      "word": "天亮了 爸你看到了吗",
+      "onboard_time": 1708010198,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 226031,
@@ -23515,6 +23531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203800,
+      "num": 203800,
+      "word": "异地恋是我怕你多了解一点会失望",
+      "onboard_time": 1708009595,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203702,
       "num": 203702,
       "word": "道英将solo出道",
@@ -24707,6 +24731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195687,
+      "num": 195687,
+      "word": "陈靖可人夫感",
+      "onboard_time": 1708010317,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195655,
       "num": 195655,
       "word": "普通人变优秀最直接的方法",
@@ -25467,14 +25499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191445,
-      "num": 191445,
-      "word": "异地恋是我怕你多了解一点会失望",
-      "onboard_time": 1708009595,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191417,
       "num": 511315,
       "word": "男子手写对联像行走的印刷机",
@@ -26161,6 +26185,14 @@
       "onboard_time": 1706772151,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186460,
+      "num": 186460,
+      "word": "苏袀禾回应撞脸肖战霍建华",
+      "onboard_time": 1708010796,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 186335,
@@ -29867,6 +29899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159367,
+      "num": 159367,
+      "word": "李艾 我的父亲和我像是同龄人",
+      "onboard_time": 1708011036,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159223,
       "num": 159223,
       "word": "十个勤天费加罗封面预告",
@@ -31625,14 +31665,6 @@
       "onboard_time": 1706879069,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146973,
-      "num": 146973,
-      "word": "天亮了 爸你看到了吗",
-      "onboard_time": 1708010198,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 146933,
@@ -34001,6 +34033,14 @@
       "onboard_time": 1707730712,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133147,
+      "num": 133147,
+      "word": "赵今麦一双好会爱人的眼睛",
+      "onboard_time": 1708011214,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133014,
