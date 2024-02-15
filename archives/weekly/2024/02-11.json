@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708007640379,
+  "endTime": 1708010238838,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -329,6 +329,14 @@
       "onboard_time": 1707699990,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2056374,
+      "num": 2056374,
+      "word": "为什么费列罗卖不动了",
+      "onboard_time": 1708006055,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 2053620,
@@ -793,14 +801,6 @@
       "onboard_time": 1707919480,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272569,
-      "num": 1272569,
-      "word": "为什么费列罗卖不动了",
-      "onboard_time": 1708006055,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 1272465,
@@ -1563,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 896785,
+      "num": 896785,
+      "word": "魏大勋被强制闭麦",
+      "onboard_time": 1708009054,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 888497,
       "num": 888497,
       "word": "糖送八大家是什么梗",
@@ -1667,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 859753,
+      "num": 859753,
+      "word": "张艺兴旗下女团或即将出道",
+      "onboard_time": 1708008278,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 859725,
       "num": 859725,
       "word": "全世界的脚都抬了起来",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1707652950,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 850618,
+      "num": 814184,
+      "word": "杨幂朱一龙魏大勋魏晨同框",
+      "onboard_time": 1708006776,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 844802,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1708004435,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814184,
-      "num": 814184,
-      "word": "杨幂朱一龙魏大勋魏晨同框",
-      "onboard_time": 1708006776,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 813404,
@@ -1881,6 +1897,14 @@
       "onboard_time": 1707735092,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 777578,
+      "num": 777578,
+      "word": "孙千 外貌是最不应该去攻击的",
+      "onboard_time": 1708007619,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 776820,
@@ -2385,6 +2409,14 @@
       "onboard_time": 1707877712,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 641396,
+      "num": 641396,
+      "word": "C罗 上座率3111",
+      "onboard_time": 1708008518,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 639143,
@@ -3971,8 +4003,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417532,
-      "num": 294747,
+      "raw_hot": 417695,
+      "num": 417695,
       "word": "春节第五天我偷跑出门开钟点房了",
       "onboard_time": 1708005995,
       "rank": 22,
@@ -4467,6 +4499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 370061,
+      "num": 370061,
+      "word": "第二十条",
+      "onboard_time": 1707638011,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 369600,
       "num": 369600,
       "word": "偶遇李湘带王诗龄逛商场",
@@ -4617,6 +4657,14 @@
       "onboard_time": 1707724291,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354863,
+      "num": 354863,
+      "word": "徐梦洁回应演短剧",
+      "onboard_time": 1708009054,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 354615,
@@ -5379,20 +5427,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 286577,
+      "num": 286577,
+      "word": "偶遇陈哲远",
+      "onboard_time": 1708009357,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285836,
       "num": 285836,
       "word": "巨蟹座的付出不是无条件的",
       "onboard_time": 1707823177,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 285570,
-      "num": 285570,
-      "word": "第二十条",
-      "onboard_time": 1707638011,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 285331,
@@ -5969,6 +6017,14 @@
       "onboard_time": 1707813878,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253674,
+      "num": 253674,
+      "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
+      "onboard_time": 1708004796,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 253619,
@@ -7115,14 +7171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209776,
-      "num": 209776,
-      "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
-      "onboard_time": 1708004796,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 209262,
       "num": 209262,
       "word": "再也不怕我妈催婚了",
@@ -7883,6 +7931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191445,
+      "num": 191445,
+      "word": "异地恋是我怕你多了解一点会失望",
+      "onboard_time": 1708009595,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191307,
       "num": 191307,
       "word": "广西天峨县4.4级地震",
@@ -8425,6 +8481,14 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175410,
+      "num": 175410,
+      "word": "河南人过年真的吃一桌凉菜吗",
+      "onboard_time": 1708008758,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 175343,
@@ -9451,6 +9515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153877,
+      "num": 153877,
+      "word": "模仿各大航空公司空乘",
+      "onboard_time": 1708008876,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "刘谦春晚 华丽的数学秀",
@@ -9744,6 +9816,14 @@
       "word": "贾玲雷佳音爸爸客串热辣滚烫",
       "onboard_time": 1707842010,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146973,
+      "num": 146973,
+      "word": "天亮了 爸你看到了吗",
+      "onboard_time": 1708010198,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -11057,14 +11137,6 @@
       "onboard_time": 1707906697,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121983,
-      "num": 121983,
-      "word": "孙千 外貌是最不应该去攻击的",
-      "onboard_time": 1708007619,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 121902,
