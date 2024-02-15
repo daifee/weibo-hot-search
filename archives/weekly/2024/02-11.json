@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708031755163,
+  "endTime": 1708032840170,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -12755,6 +12755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49866,
+      "num": 19502,
+      "word": "邱泽许玮宁爆改龙珠",
+      "onboard_time": 1708029375,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49545,
       "num": 64954,
       "word": "可怜的东西将上线",
@@ -12825,14 +12833,6 @@
       "onboard_time": 1707859516,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 46648,
-      "num": 19502,
-      "word": "邱泽许玮宁爆改龙珠",
-      "onboard_time": 1708029375,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 45680,
@@ -12923,6 +12923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38814,
+      "num": 38814,
+      "word": "又幸福了小老棣",
+      "onboard_time": 1708029435,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37959,
       "num": 37959,
       "word": "贾玲四秒转场",
@@ -12931,20 +12939,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36769,
+      "num": 36769,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 36566,
       "num": 42310,
       "word": "乙骨忧太好辣一男的",
       "onboard_time": 1707780683,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 35274,
-      "num": 35274,
-      "word": "又幸福了小老棣",
-      "onboard_time": 1708029435,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 34658,
@@ -13009,14 +13017,6 @@
       "onboard_time": 1708024398,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27961,
-      "num": 27961,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 27593,
@@ -13201,6 +13201,14 @@
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12373,
+      "num": 12373,
+      "word": "没想到肌肉男有自己的年检",
+      "onboard_time": 1708032676,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

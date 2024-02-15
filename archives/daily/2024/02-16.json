@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708031755163,
+  "endTime": 1708032840170,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -451,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46648,
+      "raw_hot": 49866,
       "num": 19502,
       "word": "邱泽许玮宁爆改龙珠",
       "onboard_time": 1708029375,
@@ -483,12 +483,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 35274,
-      "num": 35274,
+      "raw_hot": 38814,
+      "num": 38814,
       "word": "又幸福了小老棣",
       "onboard_time": 1708029435,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36769,
+      "num": 36769,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 35056,
@@ -515,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27961,
-      "num": 27961,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 26043,
       "num": 26043,
       "word": "杭州西湖暂别人山人海",
@@ -537,6 +537,14 @@
       "onboard_time": 1707969690,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12373,
+      "num": 12373,
+      "word": "没想到肌肉男有自己的年检",
+      "onboard_time": 1708032676,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
