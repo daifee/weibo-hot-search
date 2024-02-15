@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708032840170,
+  "endTime": 1708035356045,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -12635,6 +12635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65436,
+      "num": 40217,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 63320,
       "num": 63320,
       "word": "求证cp等于be",
@@ -12756,7 +12764,7 @@
     },
     {
       "raw_hot": 49866,
-      "num": 19502,
+      "num": 22951,
       "word": "邱泽许玮宁爆改龙珠",
       "onboard_time": 1708029375,
       "rank": 30,
@@ -12875,6 +12883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42645,
+      "num": 29358,
+      "word": "不结婚痛苦的只是父母吗",
+      "onboard_time": 1708033096,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41751,
       "num": 41751,
       "word": "阿瓦迪夫卡局势",
@@ -12937,14 +12953,6 @@
       "onboard_time": 1707688456,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36769,
-      "num": 36769,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 36566,
@@ -13051,6 +13059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23118,
+      "num": 23118,
+      "word": "小县城私立中学为何备受家长追捧",
+      "onboard_time": 1708034597,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22017,
       "num": 22017,
       "word": "北京台春晚全阵容",
@@ -13123,6 +13139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17712,
+      "num": 17712,
+      "word": "没想到肌肉男有自己的年检",
+      "onboard_time": 1708032676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17134,
       "num": 17134,
       "word": "压岁钱不能白发必须得听响",
@@ -13153,6 +13177,14 @@
       "onboard_time": 1707676578,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16117,
+      "num": 16117,
+      "word": "放长假就感冒警惕周末病",
+      "onboard_time": 1708033637,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14534,
@@ -13201,14 +13233,6 @@
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12373,
-      "num": 12373,
-      "word": "没想到肌肉男有自己的年检",
-      "onboard_time": 1708032676,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
