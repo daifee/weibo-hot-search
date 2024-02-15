@@ -1,0 +1,411 @@
+{
+  "startTime": 1708014085152,
+  "endTime": 1708014085152,
+  "band_list": [
+    {
+      "raw_hot": 2192350,
+      "num": 2192350,
+      "word": "薛之谦 盗摄",
+      "onboard_time": 1708003236,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1199972,
+      "num": 1199972,
+      "word": "魏大勋被强制闭麦",
+      "onboard_time": 1708009054,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 947723,
+      "num": 947723,
+      "word": "为什么费列罗卖不动了",
+      "onboard_time": 1708006055,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 866474,
+      "num": 441371,
+      "word": "春节第五天我偷跑出门开钟点房了",
+      "onboard_time": 1708005995,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 639582,
+      "num": 639582,
+      "word": "受不了了好想偷了吗喽的人生",
+      "onboard_time": 1708010378,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 565438,
+      "num": 565438,
+      "word": "贾玲 如果走位错了就把我打到那",
+      "onboard_time": 1707995616,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 531318,
+      "num": 531318,
+      "word": "张艺兴旗下女团或即将出道",
+      "onboard_time": 1708008278,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 515254,
+      "num": 515254,
+      "word": "孙千 外貌是最不应该去攻击的",
+      "onboard_time": 1708007619,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 507988,
+      "num": 507988,
+      "word": "三亚偶遇黄景瑜",
+      "onboard_time": 1708012234,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 457627,
+      "num": 457627,
+      "word": "C罗 上座率3111",
+      "onboard_time": 1708008518,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 424956,
+      "num": 424956,
+      "word": "ateez 抄袭",
+      "onboard_time": 1708011454,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 395198,
+      "num": 395198,
+      "word": "杨幂朱一龙魏大勋魏晨同框",
+      "onboard_time": 1708006776,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 371936,
+      "num": 371936,
+      "word": "中国海警依法外逼驱离菲船只",
+      "onboard_time": 1708011816,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 354538,
+      "num": 354538,
+      "word": "徐梦洁回应演短剧",
+      "onboard_time": 1708009054,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 318957,
+      "num": 318957,
+      "word": "偶遇陈哲远",
+      "onboard_time": 1708009357,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309859,
+      "num": 309859,
+      "word": "手机充电一定要满充满放吗",
+      "onboard_time": 1707999158,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 279809,
+      "num": 279809,
+      "word": "王灿说嫁给杜淳前已经财富自由",
+      "onboard_time": 1707997956,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262953,
+      "num": 262953,
+      "word": "第二十条",
+      "onboard_time": 1708009122,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 228654,
+      "num": 228654,
+      "word": "肖战霍建华混合体",
+      "onboard_time": 1707992734,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227974,
+      "num": 227974,
+      "word": "豆瓣崩了",
+      "onboard_time": 1708010555,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 214000,
+      "num": 214000,
+      "word": "谢楠看到瘦下来的贾玲后一直发抖",
+      "onboard_time": 1707988293,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202472,
+      "num": 202472,
+      "word": "中方驳斥卡梅伦将红海和台湾海峡混为一谈",
+      "onboard_time": 1708005995,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 196747,
+      "num": 196747,
+      "word": "天亮了 爸你看到了吗",
+      "onboard_time": 1708010198,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194428,
+      "num": 194428,
+      "word": "刘维春晚只上了59秒",
+      "onboard_time": 1708002695,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183475,
+      "num": 183475,
+      "word": "猫猫的失落是具象化的",
+      "onboard_time": 1708011872,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176903,
+      "num": 176903,
+      "word": "神仙弟弟",
+      "onboard_time": 1708011336,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175635,
+      "num": 175635,
+      "word": "羽绒服先别收起来",
+      "onboard_time": 1708013071,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175062,
+      "num": 175062,
+      "word": "草莓盖浇饭",
+      "onboard_time": 1708004677,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 164886,
+      "num": 164886,
+      "word": "贾玲 细腻的女性视角",
+      "onboard_time": 1707989251,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 163568,
+      "num": 163568,
+      "word": "王一博衣服判官",
+      "onboard_time": 1708003178,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155278,
+      "num": 155278,
+      "word": "赵今麦一双好会爱人的眼睛",
+      "onboard_time": 1708011214,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155139,
+      "num": 155139,
+      "word": "李艾 我的父亲和我像是同龄人",
+      "onboard_time": 1708011036,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153448,
+      "num": 153448,
+      "word": "孙悦隐退八年因为儿子复出",
+      "onboard_time": 1708003295,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153026,
+      "num": 153026,
+      "word": "苏袀禾回应撞脸肖战霍建华",
+      "onboard_time": 1708010796,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150187,
+      "num": 150187,
+      "word": "突然好像没那么抵触相亲了",
+      "onboard_time": 1707996394,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "河南人过年真的吃一桌凉菜吗",
+      "onboard_time": 1708008758,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 144328,
+      "num": 144328,
+      "word": "陈靖可人夫感",
+      "onboard_time": 1708010317,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142158,
+      "num": 142158,
+      "word": "钟楚曦侯雯元和网友打招呼",
+      "onboard_time": 1707988892,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140506,
+      "num": 140506,
+      "word": "胎儿石化",
+      "onboard_time": 1707992073,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 137321,
+      "num": 137321,
+      "word": "异地恋是我怕你多了解一点会失望",
+      "onboard_time": 1708009595,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135362,
+      "num": 141068,
+      "word": "旁边是林孝埈",
+      "onboard_time": 1708005099,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125322,
+      "num": 125322,
+      "word": "长相思2预计月底播出",
+      "onboard_time": 1707998377,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121867,
+      "num": 121867,
+      "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
+      "onboard_time": 1708004796,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 117570,
+      "num": 117570,
+      "word": "正当防卫为什么会被搬上大银幕",
+      "onboard_time": 1707994655,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 115259,
+      "num": 115259,
+      "word": "对的不需要道歉",
+      "onboard_time": 1707997055,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112304,
+      "num": 112304,
+      "word": "防晕车的方法",
+      "onboard_time": 1708011934,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 109986,
+      "num": 109986,
+      "word": "王东连发五条微博怒斥妻子",
+      "onboard_time": 1707995073,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101751,
+      "num": 101751,
+      "word": "伏黑惠",
+      "onboard_time": 1707999694,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 93142,
+      "num": 99638,
+      "word": "今年正月初六不用往外走了",
+      "onboard_time": 1707974072,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17855,
+      "num": 984996,
+      "word": "我与家人合个影",
+      "onboard_time": 1707969690,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  ]
+}
