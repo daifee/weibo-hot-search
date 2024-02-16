@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708100488227,
+  "endTime": 1708101349840,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -8643,6 +8643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 627162,
+      "num": 627162,
+      "word": "15岁初中生讲述为什么不爱读书",
+      "onboard_time": 1708093895,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 626909,
       "num": 626909,
       "word": "王者荣耀皮肤返场",
@@ -12097,14 +12105,6 @@
       "onboard_time": 1707464372,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 457619,
-      "num": 457619,
-      "word": "15岁初中生讲述为什么不爱读书",
-      "onboard_time": 1708093895,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 457052,
@@ -16851,6 +16851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314867,
+      "num": 311377,
+      "word": "联合国这么说",
+      "onboard_time": 1708097015,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314708,
       "num": 314708,
       "word": "王楚钦希望世乒赛尽自己一份力",
@@ -17009,14 +17017,6 @@
       "onboard_time": 1707397229,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 311377,
-      "num": 311377,
-      "word": "联合国这么说",
-      "onboard_time": 1708097015,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 311253,
@@ -17395,6 +17395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303487,
+      "num": 259130,
+      "word": "没见过全省一起被骗的",
+      "onboard_time": 1708097432,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303403,
       "num": 1133365,
       "word": "春节档票房破60亿元",
@@ -17489,6 +17497,14 @@
       "onboard_time": 1706764173,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302467,
+      "num": 263931,
+      "word": "春节吃太油喝茶可以刮油吗",
+      "onboard_time": 1708098635,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301821,
@@ -18113,14 +18129,6 @@
       "onboard_time": 1707539618,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289573,
-      "num": 259130,
-      "word": "没见过全省一起被骗的",
-      "onboard_time": 1708097432,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 289425,
@@ -19585,14 +19593,6 @@
       "onboard_time": 1708048232,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263931,
-      "num": 263931,
-      "word": "春节吃太油喝茶可以刮油吗",
-      "onboard_time": 1708098635,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 263528,

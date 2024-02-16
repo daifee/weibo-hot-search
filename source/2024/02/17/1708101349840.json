@@ -1,0 +1,410 @@
+{
+  "runTime": 1708101349840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1745079,
+        "num": 1745079,
+        "word": "盗摄元年",
+        "onboard_time": 1708096596,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1234104,
+        "num": 1234104,
+        "word": "年会不能停导演反对屏摄",
+        "onboard_time": 1708088676,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71684,
+        "num": 1071951,
+        "word": "十四冬参赛代表团入场主打国潮风",
+        "onboard_time": 1708091198,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045987,
+        "num": 1045987,
+        "word": "薛之谦转发再回应盗摄",
+        "onboard_time": 1708085015,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 901455,
+        "num": 901455,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 881375,
+        "num": 881375,
+        "word": "为什么杜乐莹跳楼没有死",
+        "onboard_time": 1708094493,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 627162,
+        "num": 627162,
+        "word": "15岁初中生讲述为什么不爱读书",
+        "onboard_time": 1708093895,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 504205,
+        "num": 504205,
+        "word": "南北",
+        "onboard_time": 1708094612,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 941587,
+        "num": 418243,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278606,
+        "num": 278606,
+        "word": "联合国教科文组织科普版权符号",
+        "onboard_time": 1708096475,
+        "rank": 9,
+        "category": "科学科普,电影"
+      },
+      {
+        "raw_hot": 600235,
+        "num": 278357,
+        "word": "不拔电器插头1年多交多少电费",
+        "onboard_time": 1708092577,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376824,
+        "num": 273395,
+        "word": "横店是缺演员吗",
+        "onboard_time": 1708084413,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353084,
+        "num": 270399,
+        "word": "林俊杰是黄老板演唱会嘉宾",
+        "onboard_time": 1708094857,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314867,
+        "num": 268786,
+        "word": "联合国这么说",
+        "onboard_time": 1708097015,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307047,
+        "num": 266418,
+        "word": "郑容和回春",
+        "onboard_time": 1708093715,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305720,
+        "num": 263536,
+        "word": "放过胡夏吧他看起来快碎了",
+        "onboard_time": 1708094914,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305088,
+        "num": 259722,
+        "word": "刘亦菲白色吊带裙",
+        "onboard_time": 1708080333,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302467,
+        "num": 255650,
+        "word": "春节吃太油喝茶可以刮油吗",
+        "onboard_time": 1708098635,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300682,
+        "num": 253035,
+        "word": "娱超人向薛之谦道歉",
+        "onboard_time": 1708086574,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252435,
+        "num": 252435,
+        "word": "韩国五大医院医生集体辞职抗议医学院扩招",
+        "onboard_time": 1708083094,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 452361,
+        "num": 251678,
+        "word": "吃的干净真的会瘦",
+        "onboard_time": 1708095213,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303487,
+        "num": 250302,
+        "word": "没见过全省一起被骗的",
+        "onboard_time": 1708097432,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271592,
+        "num": 248997,
+        "word": "惠英红评论刘亦菲",
+        "onboard_time": 1708095395,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247638,
+        "num": 247638,
+        "word": "南波万的友情",
+        "onboard_time": 1708100070,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235196,
+        "num": 235196,
+        "word": "双鱼座生日快乐",
+        "onboard_time": 1708095996,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198132,
+        "num": 198132,
+        "word": "田曦薇超话换头像",
+        "onboard_time": 1708090414,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195435,
+        "num": 195435,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180682,
+        "num": 180682,
+        "word": "阿姨 完蛋真碰到穷鬼了",
+        "onboard_time": 1708095937,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159280,
+        "num": 175643,
+        "word": "福岛核污水泄漏系因忘关手动阀门",
+        "onboard_time": 1708088196,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108681,
+        "num": 174675,
+        "word": "胖东来发布情况说明",
+        "onboard_time": 1708091198,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174204,
+        "num": 174204,
+        "word": "邱淑贞拍的女儿沈月",
+        "onboard_time": 1708084593,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170052,
+        "num": 170052,
+        "word": "大过年男朋友爸爸打电话教训我",
+        "onboard_time": 1708092757,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159641,
+        "num": 159641,
+        "word": "文韬全员加速中加速成功",
+        "onboard_time": 1708091375,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158076,
+        "num": 158076,
+        "word": "我爱丑猫",
+        "onboard_time": 1708095874,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147209,
+        "num": 147209,
+        "word": "过年采访我的丁克舅舅",
+        "onboard_time": 1708086213,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140705,
+        "num": 140705,
+        "word": "蒲熠星被认证巅峰玩家",
+        "onboard_time": 1708094797,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140333,
+        "num": 140333,
+        "word": "鹅 我命由我不由天",
+        "onboard_time": 1708096176,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125229,
+        "num": 125229,
+        "word": "一个心理医生告诫的冷知识",
+        "onboard_time": 1708093895,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110601,
+        "num": 110601,
+        "word": "刘诗诗没认出来马思纯",
+        "onboard_time": 1708083396,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106959,
+        "num": 106959,
+        "word": "陆虎悬着的心终于死了",
+        "onboard_time": 1708091315,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96684,
+        "num": 96684,
+        "word": "中国居然有这么多县城没有网约车",
+        "onboard_time": 1708083934,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95531,
+        "num": 95531,
+        "word": "男朋友第一次上门带的礼物",
+        "onboard_time": 1708093835,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94821,
+        "num": 94821,
+        "word": "李菲 授她以柄",
+        "onboard_time": 1708094195,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94238,
+        "num": 94238,
+        "word": "婚姻最可怕的是内耗",
+        "onboard_time": 1708090715,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92866,
+        "num": 92866,
+        "word": "张小斐 一个演员的敏感力",
+        "onboard_time": 1708081889,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85107,
+        "num": 85107,
+        "word": "中国台球队队长林亦扬",
+        "onboard_time": 1708087834,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83876,
+        "num": 83876,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82607,
+        "num": 82607,
+        "word": "屏摄",
+        "onboard_time": 1708092815,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79959,
+        "num": 79959,
+        "word": "李慕白 赵丽颖第二十条的表演很成功",
+        "onboard_time": 1708090656,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79250,
+        "num": 79250,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年展信舒颜见字如晤#"
+    }
+  }
+}
