@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708047025806,
+  "endTime": 1708049021782,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1699,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2336751,
+      "num": 2336751,
+      "word": "贾玲发文",
+      "onboard_time": 1704939148,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2334630,
       "num": 1307515,
       "word": "刘谦耍大牌",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1707792395,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2185050,
-      "num": 1154531,
-      "word": "贾玲发文",
-      "onboard_time": 1704939148,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 2178207,

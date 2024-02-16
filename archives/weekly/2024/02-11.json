@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708047025806,
+  "endTime": 1708049021782,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -233,6 +233,14 @@
       "onboard_time": 1707740614,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2336751,
+      "num": 2336751,
+      "word": "贾玲发文",
+      "onboard_time": 1708046131,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 2304847,
@@ -1043,14 +1051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1154531,
-      "num": 1154531,
-      "word": "贾玲发文",
-      "onboard_time": 1708046131,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1153357,
       "num": 449297,
       "word": "贾玲太美了",
@@ -1652,7 +1652,7 @@
     },
     {
       "raw_hot": 866474,
-      "num": 496638,
+      "num": 534320,
       "word": "春节第五天我偷跑出门开钟点房了",
       "onboard_time": 1708005995,
       "rank": 22,
@@ -1905,6 +1905,14 @@
       "onboard_time": 1707988892,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 786062,
+      "num": 786062,
+      "word": "大年初七",
+      "onboard_time": 1708039640,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784784,
@@ -2177,14 +2185,6 @@
       "onboard_time": 1707784228,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 716966,
-      "num": 716966,
-      "word": "大年初七",
-      "onboard_time": 1708039640,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 716655,
@@ -2523,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632985,
+      "num": 632985,
+      "word": "今年的婚催得比往年更猛烈一些",
+      "onboard_time": 1708045529,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632349,
       "num": 632349,
       "word": "爸妈给解清帅26个红包",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1707834280,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628172,
+      "num": 628172,
+      "word": "一宝妈妈产子",
+      "onboard_time": 1708047029,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 624418,
@@ -3547,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 476853,
+      "num": 476853,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 476474,
       "num": 476474,
       "word": "杨迪 我好骄傲这是我朋友拍出的电影",
@@ -3793,6 +3817,14 @@
       "onboard_time": 1708005995,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 446154,
+      "num": 446154,
+      "word": "三种花色的咪咪不一定是三花",
+      "onboard_time": 1708046370,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 445158,
@@ -4115,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418280,
+      "num": 418280,
+      "word": "特朗普将接受刑事审判",
+      "onboard_time": 1708045529,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 417952,
       "num": 417952,
       "word": "林亦扬求婚成功",
@@ -4217,6 +4257,14 @@
       "onboard_time": 1707872913,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406705,
+      "num": 278102,
+      "word": "女子泡影院一天看完春节档电影患青光眼",
+      "onboard_time": 1708044328,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406664,
@@ -4353,14 +4401,6 @@
       "onboard_time": 1707967715,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 397374,
-      "num": 268210,
-      "word": "女子泡影院一天看完春节档电影患青光眼",
-      "onboard_time": 1708044328,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395418,
@@ -4875,6 +4915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351870,
+      "num": 351870,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350981,
       "num": 350981,
       "word": "热辣滚烫票房破17亿",
@@ -5185,6 +5233,14 @@
       "onboard_time": 1707828398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320268,
+      "num": 320268,
+      "word": "孙颖莎1比3穆克吉",
+      "onboard_time": 1708048771,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 319494,
@@ -5603,22 +5659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285806,
-      "num": 285806,
-      "word": "特朗普将接受刑事审判",
-      "onboard_time": 1708045529,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 285664,
-      "num": 179837,
-      "word": "三种花色的咪咪不一定是三花",
-      "onboard_time": 1708046370,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1707997956,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281621,
+      "num": 281621,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 280914,
@@ -5891,14 +5939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272027,
-      "num": 272027,
-      "word": "Sora",
-      "onboard_time": 1708046309,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 271325,
       "num": 249778,
       "word": "突然发现00后顾嘴不顾身",
@@ -6043,12 +6083,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "今年的婚催得比往年更猛烈一些",
-      "onboard_time": 1708045529,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 263951,
+      "num": 172089,
+      "word": "不戴珍珠耳环的少女",
+      "onboard_time": 1708048232,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 262635,
@@ -6987,6 +7027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222441,
+      "num": 222441,
+      "word": "暴瘦后身体会发生哪些变化",
+      "onboard_time": 1708046489,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222248,
       "num": 222248,
       "word": "00后的消费",
@@ -7707,6 +7755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200958,
+      "num": 200958,
+      "word": "你写的vs人民日报写的",
+      "onboard_time": 1708044990,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200736,
       "num": 200736,
       "word": "库里空砍41分",
@@ -8187,14 +8243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190611,
-      "num": 190611,
-      "word": "你写的vs人民日报写的",
-      "onboard_time": 1708044990,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 190464,
       "num": 190464,
       "word": "马宁称中国足球裁判实现了小目标",
@@ -8547,6 +8595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181456,
+      "num": 181456,
+      "word": "大年初七不教训孩子",
+      "onboard_time": 1708046549,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181344,
       "num": 181344,
       "word": "端来把棉花狗烦死的父母爱情",
@@ -8689,6 +8745,14 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177214,
+      "num": 177214,
+      "word": "王鹤棣哈利伯顿球局",
+      "onboard_time": 1708047391,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 176663,
@@ -9787,14 +9851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154422,
-      "num": 154422,
-      "word": "暴瘦后身体会发生哪些变化",
-      "onboard_time": 1708046489,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "基普图姆 马拉松世界纪录保持者",
@@ -10787,6 +10843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135016,
+      "num": 135016,
+      "word": "第二十条 秋菊打官司",
+      "onboard_time": 1708048412,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134437,
       "num": 134437,
       "word": "大年初五祝你多财多亿",
@@ -11001,14 +11065,6 @@
       "onboard_time": 1707663215,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129853,
-      "num": 129853,
-      "word": "大年初七不教训孩子",
-      "onboard_time": 1708046549,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129763,
@@ -11523,6 +11579,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 121292,
+      "num": 121292,
+      "word": "国乒女团vs印度对阵名单",
+      "onboard_time": 1708048289,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121232,
       "num": 121232,
       "word": "迪拜地标建筑上空惊现中国飞龙",
@@ -11673,6 +11737,14 @@
       "onboard_time": 1707649174,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "明星大侦探",
+      "onboard_time": 1708048893,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 118683,
@@ -12131,6 +12203,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 111705,
+      "num": 111705,
+      "word": "刘德华红毯先生成都路演",
+      "onboard_time": 1708048112,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "广东千人英歌舞大场面",
@@ -12483,6 +12563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101490,
+      "num": 101490,
+      "word": "新的一年好好爱自己",
+      "onboard_time": 1708048472,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101229,
       "num": 101229,
       "word": "wf2024冬",
@@ -12545,14 +12633,6 @@
       "onboard_time": 1707631531,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98042,
-      "num": 98042,
-      "word": "这些都属于盗摄",
-      "onboard_time": 1708046849,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 97659,
@@ -12753,14 +12833,6 @@
       "onboard_time": 1707574542,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87755,
-      "num": 87755,
-      "word": "国乒女团vs印度",
-      "onboard_time": 1708046968,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 87103,

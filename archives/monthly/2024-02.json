@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708047025806,
+  "endTime": 1708049021782,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -897,6 +897,14 @@
       "onboard_time": 1707740614,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2336751,
+      "num": 2336751,
+      "word": "贾玲发文",
+      "onboard_time": 1708046131,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 2334630,
@@ -3323,14 +3331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1154531,
-      "num": 1154531,
-      "word": "贾玲发文",
-      "onboard_time": 1708046131,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1154060,
       "num": 1154060,
       "word": "朱一龙好帅",
@@ -5204,7 +5204,7 @@
     },
     {
       "raw_hot": 866474,
-      "num": 496638,
+      "num": 534320,
       "word": "春节第五天我偷跑出门开钟点房了",
       "onboard_time": 1708005995,
       "rank": 22,
@@ -6043,6 +6043,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 786062,
+      "num": 786062,
+      "word": "大年初七",
+      "onboard_time": 1708039640,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784784,
       "num": 784784,
       "word": "秋瓷炫和公公一起贴对联",
@@ -6865,14 +6873,6 @@
       "onboard_time": 1707784228,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 716966,
-      "num": 716966,
-      "word": "大年初七",
-      "onboard_time": 1708039640,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 716655,
@@ -8035,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632985,
+      "num": 632985,
+      "word": "今年的婚催得比往年更猛烈一些",
+      "onboard_time": 1708045529,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632716,
       "num": 632716,
       "word": "美甲 约不上",
@@ -8121,6 +8129,14 @@
       "onboard_time": 1707834280,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628172,
+      "num": 628172,
+      "word": "一宝妈妈产子",
+      "onboard_time": 1708047029,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 628081,
@@ -11011,6 +11027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 476853,
+      "num": 476853,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 476552,
       "num": 476552,
       "word": "湛江加塞奔驰车内监控曝光",
@@ -11657,6 +11681,14 @@
       "onboard_time": 1708005995,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 446154,
+      "num": 446154,
+      "word": "三种花色的咪咪不一定是三花",
+      "onboard_time": 1708046370,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 445659,
@@ -12467,6 +12499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 418280,
+      "num": 418280,
+      "word": "特朗普将接受刑事审判",
+      "onboard_time": 1708045529,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 417952,
       "num": 417952,
       "word": "林亦扬求婚成功",
@@ -12745,6 +12785,14 @@
       "onboard_time": 1707525756,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406705,
+      "num": 278102,
+      "word": "女子泡影院一天看完春节档电影患青光眼",
+      "onboard_time": 1708044328,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406664,
@@ -13081,14 +13129,6 @@
       "onboard_time": 1707967715,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 397374,
-      "num": 268210,
-      "word": "女子泡影院一天看完春节档电影患青光眼",
-      "onboard_time": 1708044328,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397220,
@@ -14667,6 +14707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351870,
+      "num": 351870,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351836,
       "num": 351836,
       "word": "杨紫追星投票把电话费投光了",
@@ -15681,6 +15729,14 @@
       "onboard_time": 1707828398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320268,
+      "num": 320268,
+      "word": "孙颖莎1比3穆克吉",
+      "onboard_time": 1708048771,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 320167,
@@ -17235,28 +17291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285806,
-      "num": 285806,
-      "word": "特朗普将接受刑事审判",
-      "onboard_time": 1708045529,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 285742,
       "num": 285742,
       "word": "飞驰人生2穿越5年的回望",
       "onboard_time": 1707552096,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 285664,
-      "num": 179837,
-      "word": "三种花色的咪咪不一定是三花",
-      "onboard_time": 1708046370,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 285188,
@@ -17441,6 +17481,14 @@
       "onboard_time": 1706784872,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281621,
+      "num": 281621,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 281579,
@@ -18059,14 +18107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272027,
-      "num": 272027,
-      "word": "Sora",
-      "onboard_time": 1708046309,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 272014,
       "num": 262534,
       "word": "丁克家庭要给亲戚小孩红包吗",
@@ -18499,12 +18539,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "今年的婚催得比往年更猛烈一些",
-      "onboard_time": 1708045529,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 263951,
+      "num": 172089,
+      "word": "不戴珍珠耳环的少女",
+      "onboard_time": 1708048232,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 263528,
@@ -21571,6 +21611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222441,
+      "num": 222441,
+      "word": "暴瘦后身体会发生哪些变化",
+      "onboard_time": 1708046489,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222432,
       "num": 222432,
       "word": "王羽佳获格莱美奖",
@@ -24163,6 +24211,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 200958,
+      "num": 200958,
+      "word": "你写的vs人民日报写的",
+      "onboard_time": 1708044990,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200844,
       "num": 200844,
       "word": "网络视听盛典红毯",
@@ -25795,14 +25851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190611,
-      "num": 190611,
-      "word": "你写的vs人民日报写的",
-      "onboard_time": 1708044990,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 190575,
       "num": 190575,
       "word": "一见钟情后的暧昧拉扯好上头",
@@ -26971,6 +27019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181456,
+      "num": 181456,
+      "word": "大年初七不教训孩子",
+      "onboard_time": 1708046549,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181350,
       "num": 181350,
       "word": "71岁阿婆成榜一大妈后拿不出看病钱",
@@ -27513,6 +27569,14 @@
       "onboard_time": 1707448769,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177214,
+      "num": 177214,
+      "word": "王鹤棣哈利伯顿球局",
+      "onboard_time": 1708047391,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 177169,
@@ -30883,14 +30947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154422,
-      "num": 154422,
-      "word": "暴瘦后身体会发生哪些变化",
-      "onboard_time": 1708046489,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154166,
       "num": 191565,
       "word": "法国巴黎一火车站发生袭击事件",
@@ -34027,6 +34083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135016,
+      "num": 135016,
+      "word": "第二十条 秋菊打官司",
+      "onboard_time": 1708048412,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134989,
       "num": 134989,
       "word": "狗狗演员现场表演假死",
@@ -34937,14 +35001,6 @@
       "onboard_time": 1707221611,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 129853,
-      "num": 129853,
-      "word": "大年初七不教训孩子",
-      "onboard_time": 1708046549,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129811,
@@ -36331,6 +36387,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 121292,
+      "num": 121292,
+      "word": "国乒女团vs印度对阵名单",
+      "onboard_time": 1708048289,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121274,
       "num": 121274,
       "word": "乔杉演贾玲前男友",
@@ -36785,6 +36849,14 @@
       "onboard_time": 1707649174,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "明星大侦探",
+      "onboard_time": 1708048893,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 118683,
@@ -37827,6 +37899,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 111705,
+      "num": 111705,
+      "word": "刘德华红毯先生成都路演",
+      "onboard_time": 1708048112,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111655,
       "num": 221086,
       "word": "不容易的除冰人",
@@ -38795,6 +38875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101490,
+      "num": 101490,
+      "word": "新的一年好好爱自己",
+      "onboard_time": 1708048472,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101484,
       "num": 101484,
       "word": "理想汽车发4至8个月年终奖",
@@ -38993,14 +39081,6 @@
       "onboard_time": 1706968715,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98042,
-      "num": 98042,
-      "word": "这些都属于盗摄",
-      "onboard_time": 1708046849,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 97736,
@@ -39609,14 +39689,6 @@
       "onboard_time": 1706922510,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87755,
-      "num": 87755,
-      "word": "国乒女团vs印度",
-      "onboard_time": 1708046968,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 87134,
