@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708068837558,
+  "endTime": 1708071652300,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -65,6 +65,14 @@
       "onboard_time": 1708041686,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1381429,
+      "num": 1381429,
+      "word": "为什么阴干的衣服有臭味",
+      "onboard_time": 1708067251,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1206439,
@@ -139,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 899589,
+      "num": 425172,
+      "word": "老百姓为什么不愿意贷款买房了",
+      "onboard_time": 1708067489,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 866474,
       "num": 598179,
       "word": "春节第五天我偷跑出门开钟点房了",
@@ -193,6 +209,14 @@
       "onboard_time": 1708044567,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 749638,
+      "num": 749638,
+      "word": "刘宇宁田曦薇 风月不相关",
+      "onboard_time": 1708067551,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 749233,
@@ -251,14 +275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 669926,
-      "num": 669926,
-      "word": "刘宇宁田曦薇 风月不相关",
-      "onboard_time": 1708067551,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 668434,
       "num": 668434,
       "word": "I NEED U",
@@ -273,14 +289,6 @@
       "onboard_time": 1708056811,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 663114,
-      "num": 663114,
-      "word": "为什么阴干的衣服有臭味",
-      "onboard_time": 1708067251,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 662589,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 520042,
+      "num": 520042,
+      "word": "飞驰人生2观众满意度第一",
+      "onboard_time": 1708068691,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 515497,
       "num": 515497,
       "word": "Sora",
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446390,
+      "num": 373732,
+      "word": "在暴雪时分豆瓣开分6.9",
+      "onboard_time": 1708070490,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446154,
       "num": 446154,
       "word": "三种花色的咪咪不一定是三花",
@@ -507,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 425172,
-      "num": 425172,
-      "word": "老百姓为什么不愿意贷款买房了",
-      "onboard_time": 1708067489,
-      "rank": 23,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 424956,
       "num": 424956,
       "word": "ateez 抄袭",
@@ -529,6 +545,14 @@
       "onboard_time": 1708045529,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 421185,
+      "num": 373671,
+      "word": "二刷热辣滚烫发现的隐藏彩蛋",
+      "onboard_time": 1708068871,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 413265,
@@ -569,6 +593,14 @@
       "onboard_time": 1708006776,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373548,
+      "num": 373548,
+      "word": "混合接力黑龙江队被取消成绩",
+      "onboard_time": 1708067310,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 367682,
@@ -635,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326248,
-      "num": 326248,
-      "word": "混合接力黑龙江队被取消成绩",
-      "onboard_time": 1708067310,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 320656,
+      "num": 320656,
+      "word": "要久久爱豆瓣开分7.2",
+      "onboard_time": 1708070910,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 319618,
@@ -715,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294866,
+      "num": 294866,
+      "word": "杭州男子一条鱼卖了37万",
+      "onboard_time": 1708070191,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294435,
       "num": 294435,
       "word": "手机号码关联了多少互联网账号",
@@ -737,6 +777,14 @@
       "onboard_time": 1708050512,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282710,
+      "num": 179891,
+      "word": "萨摩怒和萨摩耶",
+      "onboard_time": 1708070793,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 279809,
@@ -840,6 +888,14 @@
       "word": "于正戴翡翠",
       "onboard_time": 1708061375,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232021,
+      "num": 232021,
+      "word": "王家卫查户口式选演员",
+      "onboard_time": 1708070370,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -947,12 +1003,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 208884,
-      "num": 208884,
-      "word": "飞驰人生2观众满意度第一",
-      "onboard_time": 1708068691,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 209092,
+      "num": 209092,
+      "word": "ENHYPEN歌词分配",
+      "onboard_time": 1708071153,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 208115,
@@ -1027,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200477,
+      "num": 200477,
+      "word": "贾玲张小斐从籍籍无名到人声鼎沸",
+      "onboard_time": 1708068570,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199128,
       "num": 199128,
       "word": "OpenAI首个视频生成模型发布",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1708067251,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194485,
+      "num": 179866,
+      "word": "梨型身材全面瘦腿",
+      "onboard_time": 1708071450,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 194428,
@@ -1195,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179626,
+      "num": 179626,
+      "word": "胖东来回应员工悄悄尝面",
+      "onboard_time": 1708069352,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179505,
       "num": 179505,
       "word": "神仙弟弟",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1708056511,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170935,
+      "num": 170935,
+      "word": "金毛 我遇到伯恩山啦",
+      "onboard_time": 1708071271,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 168655,
@@ -1339,6 +1427,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 157737,
+      "num": 157737,
+      "word": "于适飞驰人生27秒卡点视频",
+      "onboard_time": 1708071210,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157665,
       "num": 157665,
       "word": "大年初七庆人日",
@@ -1371,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154093,
-      "num": 154093,
-      "word": "贾玲张小斐从籍籍无名到人声鼎沸",
-      "onboard_time": 1708068570,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153591,
       "num": 153591,
       "word": "姆巴佩与皇马达成口头协议",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1708048412,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150895,
+      "num": 150895,
+      "word": "鱼骨婚纱",
+      "onboard_time": 1708070010,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 150348,
@@ -1451,12 +1547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145517,
+      "num": 145517,
+      "word": "国羽女团2比3日本",
+      "onboard_time": 1708071391,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "陈靖可人夫感",
       "onboard_time": 1708010317,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143875,
+      "num": 143875,
+      "word": "黑执事 夏尔塞巴斯爆改",
+      "onboard_time": 1708068811,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 143510,
@@ -1513,14 +1625,6 @@
       "onboard_time": 1708050629,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137665,
-      "num": 137665,
-      "word": "黑执事 夏尔塞巴斯爆改",
-      "onboard_time": 1708068811,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 137628,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1708038621,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127480,
+      "num": 127480,
+      "word": "两个小宝贝动作神同步了",
+      "onboard_time": 1708071332,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 126742,
@@ -1731,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110761,
+      "num": 110761,
+      "word": "雄鹿这也敢输",
+      "onboard_time": 1708070793,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110243,
       "num": 110243,
       "word": "返程后备箱",
@@ -1761,6 +1881,14 @@
       "onboard_time": 1708054356,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105809,
+      "num": 1216035,
+      "word": "十四冬开幕式剧透来了",
+      "onboard_time": 1708053752,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103966,
@@ -1857,14 +1985,6 @@
       "onboard_time": 1708039460,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69842,
-      "num": 884367,
-      "word": "十四冬开幕式剧透来了",
-      "onboard_time": 1708053752,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69149,
