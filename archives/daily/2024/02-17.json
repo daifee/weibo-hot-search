@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708103697496,
+  "endTime": 1708104833012,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -99,20 +99,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 428971,
+      "num": 428971,
+      "word": "南波万的友情",
+      "onboard_time": 1708100070,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386251,
       "num": 386251,
       "word": "联合国教科文组织科普版权符号",
       "onboard_time": 1708096475,
       "rank": 9,
       "category": "科学科普,电影"
-    },
-    {
-      "raw_hot": 377577,
-      "num": 377577,
-      "word": "南波万的友情",
-      "onboard_time": 1708100070,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 374132,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59899,
+      "num": 59899,
+      "word": "飞驰人生2神级转场",
+      "onboard_time": 1708104143,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56831,
       "num": 56831,
       "word": "苏醒夫妇新加坡度假",
@@ -411,7 +419,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36890,
+      "raw_hot": 50453,
       "num": 51802,
       "word": "春节回家发现未婚适龄女性比已婚的还多",
       "onboard_time": 1708086213,

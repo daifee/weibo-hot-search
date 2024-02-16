@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708103697496,
+  "endTime": 1708104833012,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -4707,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428971,
+      "num": 428971,
+      "word": "南波万的友情",
+      "onboard_time": 1708100070,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427786,
       "num": 422584,
       "word": "赵丽颖主演票房突破30亿",
@@ -5297,14 +5305,6 @@
       "onboard_time": 1707634833,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377577,
-      "num": 377577,
-      "word": "南波万的友情",
-      "onboard_time": 1708100070,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 377367,
@@ -15313,6 +15313,14 @@
       "onboard_time": 1708029435,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59899,
+      "num": 59899,
+      "word": "飞驰人生2神级转场",
+      "onboard_time": 1708104143,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 59469,

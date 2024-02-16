@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708103697496,
+  "endTime": 1708104833012,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -12819,6 +12819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428971,
+      "num": 428971,
+      "word": "南波万的友情",
+      "onboard_time": 1708100070,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428688,
       "num": 191687,
       "word": "宋茜青花瓷 大气",
@@ -14481,14 +14489,6 @@
       "onboard_time": 1707634833,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377577,
-      "num": 377577,
-      "word": "南波万的友情",
-      "onboard_time": 1708100070,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 377463,
@@ -42864,6 +42864,14 @@
       "word": "沈腾 皮都展开了",
       "onboard_time": 1707512056,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 59899,
+      "num": 59899,
+      "word": "飞驰人生2神级转场",
+      "onboard_time": 1708104143,
+      "rank": 37,
       "category": "电影"
     },
     {
