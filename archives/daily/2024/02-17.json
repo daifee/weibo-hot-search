@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708112026064,
+  "endTime": 1708114646121,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -449,6 +449,22 @@
       "onboard_time": 1708086393,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23056,
+      "num": 23056,
+      "word": "兰博基尼回村撞报废车主否认车是租的",
+      "onboard_time": 1708112056,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15671,
+      "num": 15671,
+      "word": "宋茜明媚的老公姐",
+      "onboard_time": 1708111696,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 14796,
