@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708101349840,
+  "endTime": 1708103697496,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -14483,6 +14483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377577,
+      "num": 377577,
+      "word": "南波万的友情",
+      "onboard_time": 1708100070,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377463,
       "num": 377463,
       "word": "你没减抑郁吧",
@@ -20201,14 +20209,6 @@
       "onboard_time": 1707272612,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255280,
-      "num": 255280,
-      "word": "南波万的友情",
-      "onboard_time": 1708100070,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 255025,
