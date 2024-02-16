@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708097660716,
+  "endTime": 1708100488227,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1449,6 +1449,14 @@
       "onboard_time": 1706938889,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1919367,
+      "num": 1919367,
+      "word": "盗摄元年",
+      "onboard_time": 1708096596,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1919345,
@@ -7123,14 +7131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 723914,
-      "num": 413945,
-      "word": "盗摄元年",
-      "onboard_time": 1708096596,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 723182,
       "num": 723182,
       "word": "男生误食椰子片被卡重庆民警火速送医",
@@ -12099,6 +12099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457619,
+      "num": 457619,
+      "word": "15岁初中生讲述为什么不爱读书",
+      "onboard_time": 1708093895,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 457052,
       "num": 457052,
       "word": "白敬亭开了咖啡店",
@@ -17003,6 +17011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 311377,
+      "num": 311377,
+      "word": "联合国这么说",
+      "onboard_time": 1708097015,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -18097,6 +18113,14 @@
       "onboard_time": 1707539618,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289573,
+      "num": 259130,
+      "word": "没见过全省一起被骗的",
+      "onboard_time": 1708097432,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 289425,
@@ -19563,6 +19587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263931,
+      "num": 263931,
+      "word": "春节吃太油喝茶可以刮油吗",
+      "onboard_time": 1708098635,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 263528,
       "num": 263528,
       "word": "种地吧直播预告",
@@ -20171,6 +20203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255280,
+      "num": 255280,
+      "word": "南波万的友情",
+      "onboard_time": 1708100070,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255025,
       "num": 255025,
       "word": "腐乳在海外爆火",
@@ -20409,14 +20449,6 @@
       "onboard_time": 1707398673,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251506,
-      "num": 272651,
-      "word": "15岁初中生讲述为什么不爱读书",
-      "onboard_time": 1708093895,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 251425,
@@ -20873,14 +20905,6 @@
       "onboard_time": 1707469711,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244590,
-      "num": 244590,
-      "word": "联合国这么说",
-      "onboard_time": 1708097015,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244548,
@@ -31489,14 +31513,6 @@
       "onboard_time": 1707916959,
       "rank": 43,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 162722,
-      "num": 162722,
-      "word": "没见过全省一起被骗的",
-      "onboard_time": 1708097432,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 162708,

@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708097660716,
+  "endTime": 1708100488227,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -465,6 +465,14 @@
       "onboard_time": 1707747577,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1919367,
+      "num": 1919367,
+      "word": "盗摄元年",
+      "onboard_time": 1708096596,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1881679,
@@ -2507,14 +2515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 723914,
-      "num": 413945,
-      "word": "盗摄元年",
-      "onboard_time": 1708096596,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 723182,
       "num": 723182,
       "word": "男生误食椰子片被卡重庆民警火速送医",
@@ -4411,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 457619,
+      "num": 457619,
+      "word": "15岁初中生讲述为什么不爱读书",
+      "onboard_time": 1708093895,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 456607,
       "num": 456607,
       "word": "章若楠春晚上场前10分钟",
@@ -6227,6 +6235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311377,
+      "num": 311377,
+      "word": "联合国这么说",
+      "onboard_time": 1708097015,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
@@ -6545,6 +6561,14 @@
       "onboard_time": 1707978212,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289573,
+      "num": 259130,
+      "word": "没见过全省一起被骗的",
+      "onboard_time": 1708097432,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 288853,
@@ -7107,6 +7131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263931,
+      "num": 263931,
+      "word": "春节吃太油喝茶可以刮油吗",
+      "onboard_time": 1708098635,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 262635,
       "num": 196730,
       "word": "00后亲戚都是自己找的",
@@ -7267,6 +7299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255280,
+      "num": 255280,
+      "word": "南波万的友情",
+      "onboard_time": 1708100070,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254262,
       "num": 219650,
       "word": "艾伦三笠结婚设定",
@@ -7353,14 +7393,6 @@
       "onboard_time": 1707666453,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 251506,
-      "num": 272651,
-      "word": "15岁初中生讲述为什么不爱读书",
-      "onboard_time": 1708093895,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 251425,
@@ -7513,14 +7545,6 @@
       "onboard_time": 1707789330,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244590,
-      "num": 244590,
-      "word": "联合国这么说",
-      "onboard_time": 1708097015,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244417,
@@ -11153,14 +11177,6 @@
       "onboard_time": 1707916959,
       "rank": 43,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 162722,
-      "num": 162722,
-      "word": "没见过全省一起被骗的",
-      "onboard_time": 1708097432,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 162708,
