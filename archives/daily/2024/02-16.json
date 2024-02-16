@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708071652300,
+  "endTime": 1708072487680,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1107620,
+      "num": 1107620,
+      "word": "六公主评盗摄现象",
+      "onboard_time": 1708071750,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1013885,
       "num": 1013885,
       "word": "孙颖莎1比3穆克吉",
@@ -147,7 +155,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 899589,
+      "raw_hot": 942565,
       "num": 425172,
       "word": "老百姓为什么不愿意贷款买房了",
       "onboard_time": 1708067489,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651000,
+      "num": 651000,
+      "word": "飞驰人生2观众满意度第一",
+      "onboard_time": 1708068691,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 638185,
       "num": 638185,
       "word": "12306抢票",
@@ -411,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 520042,
-      "num": 520042,
-      "word": "飞驰人生2观众满意度第一",
-      "onboard_time": 1708068691,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 519026,
+      "num": 519026,
+      "word": "在暴雪时分豆瓣开分6.9",
+      "onboard_time": 1708070490,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 515497,
@@ -489,14 +505,6 @@
       "onboard_time": 1708008518,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446390,
-      "num": 373732,
-      "word": "在暴雪时分豆瓣开分6.9",
-      "onboard_time": 1708070490,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 446154,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356249,
+      "num": 356249,
+      "word": "要久久爱豆瓣开分7.2",
+      "onboard_time": 1708070910,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354538,
       "num": 354538,
       "word": "徐梦洁回应演短剧",
@@ -659,20 +675,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 338833,
+      "num": 338833,
+      "word": "萨摩怒和萨摩耶",
+      "onboard_time": 1708070793,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332593,
       "num": 332593,
       "word": "陈赫一家马尔代夫度假",
       "onboard_time": 1708063953,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320656,
-      "num": 320656,
-      "word": "要久久爱豆瓣开分7.2",
-      "onboard_time": 1708070910,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 319618,
@@ -779,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282710,
-      "num": 179891,
-      "word": "萨摩怒和萨摩耶",
-      "onboard_time": 1708070793,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279809,
       "num": 279809,
       "word": "王灿说嫁给杜淳前已经财富自由",
@@ -809,6 +817,14 @@
       "onboard_time": 1708049492,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264993,
+      "num": 264993,
+      "word": "于适飞驰人生27秒卡点视频",
+      "onboard_time": 1708071210,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 263951,
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229616,
+      "num": 229616,
+      "word": "窝囊废是雷佳音的统治区",
+      "onboard_time": 1708071992,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228654,
       "num": 228654,
       "word": "肖战霍建华混合体",
@@ -921,6 +945,14 @@
       "onboard_time": 1708010555,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 223977,
+      "num": 211472,
+      "word": "梨型身材全面瘦腿",
+      "onboard_time": 1708071450,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 222441,
@@ -969,6 +1001,22 @@
       "onboard_time": 1708064970,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216325,
+      "num": 216325,
+      "word": "鱼骨婚纱",
+      "onboard_time": 1708070010,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 214555,
+      "num": 214555,
+      "word": "李武军",
+      "onboard_time": 1708071872,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 214000,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1708067251,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194485,
-      "num": 179866,
-      "word": "梨型身材全面瘦腿",
-      "onboard_time": 1708071450,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 194428,
@@ -1419,20 +1459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159112,
+      "num": 159112,
+      "word": "国羽女团2比3日本",
+      "onboard_time": 1708071391,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158220,
       "num": 158220,
       "word": "为什么切石膏不会伤到皮肤",
       "onboard_time": 1708061072,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 157737,
-      "num": 157737,
-      "word": "于适飞驰人生27秒卡点视频",
-      "onboard_time": 1708071210,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 157665,
@@ -1499,14 +1539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150895,
-      "num": 150895,
-      "word": "鱼骨婚纱",
-      "onboard_time": 1708070010,
-      "rank": 40,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 150348,
       "num": 150348,
       "word": "明星大侦探",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1708062271,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145517,
-      "num": 145517,
-      "word": "国羽女团2比3日本",
-      "onboard_time": 1708071391,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 144328,

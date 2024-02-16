@@ -1,0 +1,410 @@
+{
+  "runTime": 1708072487680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324053,
+        "num": 1324053,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1260427,
+        "num": 1260427,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99546,
+        "num": 1130451,
+        "word": "十四冬开幕式剧透来了",
+        "onboard_time": 1708053752,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107620,
+        "num": 1107620,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 733386,
+        "num": 733386,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 700940,
+        "num": 700940,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651000,
+        "num": 651000,
+        "word": "飞驰人生2观众满意度第一",
+        "onboard_time": 1708068691,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519026,
+        "num": 519026,
+        "word": "在暴雪时分豆瓣开分6.9",
+        "onboard_time": 1708070490,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370616,
+        "num": 370616,
+        "word": "混合接力黑龙江队被取消成绩",
+        "onboard_time": 1708067310,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432428,
+        "num": 370530,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1233720,
+        "num": 367353,
+        "word": "为什么阴干的衣服有臭味",
+        "onboard_time": 1708067251,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 942565,
+        "num": 365684,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 649568,
+        "num": 362067,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410519,
+        "num": 360842,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376867,
+        "num": 357870,
+        "word": "二刷热辣滚烫发现的隐藏彩蛋",
+        "onboard_time": 1708068871,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356249,
+        "num": 356249,
+        "word": "要久久爱豆瓣开分7.2",
+        "onboard_time": 1708070910,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338833,
+        "num": 338833,
+        "word": "萨摩怒和萨摩耶",
+        "onboard_time": 1708070793,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312134,
+        "num": 312134,
+        "word": "吴京与家人新加坡过春节",
+        "onboard_time": 1708063053,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290556,
+        "num": 290556,
+        "word": "杭州男子一条鱼卖了37万",
+        "onboard_time": 1708070191,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287051,
+        "num": 287051,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264993,
+        "num": 264993,
+        "word": "于适飞驰人生27秒卡点视频",
+        "onboard_time": 1708071210,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261161,
+        "num": 261161,
+        "word": "农村婚恋市场一动一不动成标配",
+        "onboard_time": 1708062632,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257979,
+        "num": 257979,
+        "word": "十个勤天费加罗男士瑞雪封面",
+        "onboard_time": 1708067251,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255726,
+        "num": 255726,
+        "word": "玲姐 我有点想看哎",
+        "onboard_time": 1708066291,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229616,
+        "num": 229616,
+        "word": "窝囊废是雷佳音的统治区",
+        "onboard_time": 1708071992,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228707,
+        "num": 228707,
+        "word": "伊能静儿子最新女装照",
+        "onboard_time": 1708062093,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225387,
+        "num": 225387,
+        "word": "用完的唇膏口红不要扔",
+        "onboard_time": 1708065993,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 216325,
+        "num": 216325,
+        "word": "鱼骨婚纱",
+        "onboard_time": 1708070010,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 214555,
+        "num": 214555,
+        "word": "李武军",
+        "onboard_time": 1708071872,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212383,
+        "num": 212383,
+        "word": "王家卫查户口式选演员",
+        "onboard_time": 1708070370,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223977,
+        "num": 211472,
+        "word": "梨型身材全面瘦腿",
+        "onboard_time": 1708071450,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 210561,
+        "num": 210561,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176463,
+        "num": 176463,
+        "word": "贾玲张小斐从籍籍无名到人声鼎沸",
+        "onboard_time": 1708068570,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168931,
+        "num": 168931,
+        "word": "ENHYPEN歌词分配",
+        "onboard_time": 1708071153,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166598,
+        "num": 166598,
+        "word": "钟楚曦侯雯元喝同一瓶水",
+        "onboard_time": 1708061375,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164094,
+        "num": 164094,
+        "word": "任子威被撞",
+        "onboard_time": 1708058373,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160903,
+        "num": 160903,
+        "word": "金毛 我遇到伯恩山啦",
+        "onboard_time": 1708071271,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159112,
+        "num": 159112,
+        "word": "国羽女团2比3日本",
+        "onboard_time": 1708071391,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148458,
+        "num": 148458,
+        "word": "胖东来回应员工悄悄尝面",
+        "onboard_time": 1708069352,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139777,
+        "num": 139777,
+        "word": "刘雯井柏然机场同框",
+        "onboard_time": 1708065272,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133887,
+        "num": 133887,
+        "word": "热辣滚烫乐莹查男友手机",
+        "onboard_time": 1708060353,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131694,
+        "num": 131694,
+        "word": "杭州全家11口第5年旅行过年",
+        "onboard_time": 1708066713,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128592,
+        "num": 128592,
+        "word": "I NEED U",
+        "onboard_time": 1708060596,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128535,
+        "num": 128535,
+        "word": "海南一游客退房时被要求擦马桶",
+        "onboard_time": 1708057953,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124916,
+        "num": 124916,
+        "word": "一想到即将上班就浑身难受",
+        "onboard_time": 1708067251,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123320,
+        "num": 123320,
+        "word": "原生家庭的痛真的很难自愈",
+        "onboard_time": 1708067251,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120686,
+        "num": 120686,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119162,
+        "num": 119162,
+        "word": "两个小宝贝动作神同步了",
+        "onboard_time": 1708071332,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 117892,
+        "word": "黑执事 夏尔塞巴斯爆改",
+        "onboard_time": 1708068811,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105361,
+        "num": 105361,
+        "word": "百余位明星曾发出拒绝电影盗摄倡议",
+        "onboard_time": 1708053511,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}
