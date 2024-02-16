@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708061647001,
+  "endTime": 1708064499840,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -67,20 +67,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1206439,
+      "num": 627857,
+      "word": "白敬亭想尝试电影拍摄",
+      "onboard_time": 1708059152,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1199972,
       "num": 1199972,
       "word": "魏大勋被强制闭麦",
       "onboard_time": 1708009054,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1198899,
-      "num": 618218,
-      "word": "白敬亭想尝试电影拍摄",
-      "onboard_time": 1708059152,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1183592,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 964223,
+      "num": 964223,
+      "word": "薛之谦版权意识",
+      "onboard_time": 1708061375,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 947723,
       "num": 947723,
       "word": "为什么费列罗卖不动了",
@@ -137,6 +145,14 @@
       "onboard_time": 1708005995,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 862909,
+      "num": 862909,
+      "word": "伊能静儿子最新女装照",
+      "onboard_time": 1708062093,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 842138,
@@ -211,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 668434,
+      "num": 668434,
+      "word": "I NEED U",
+      "onboard_time": 1708060596,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 667941,
       "num": 571530,
       "word": "律师谈薛之谦被指盗摄",
@@ -243,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616518,
-      "num": 616518,
-      "word": "I NEED U",
-      "onboard_time": 1708060596,
-      "rank": 49,
-      "category": "音乐"
+      "raw_hot": 615668,
+      "num": 615668,
+      "word": "钟楚曦侯雯元喝同一瓶水",
+      "onboard_time": 1708061375,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 606339,
@@ -291,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557258,
+      "num": 557258,
+      "word": "吴京与家人新加坡过春节",
+      "onboard_time": 1708063053,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556223,
       "num": 556223,
       "word": "春断食",
@@ -305,6 +337,14 @@
       "onboard_time": 1708053210,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 552561,
+      "num": 552561,
+      "word": "热辣滚烫乐莹查男友手机",
+      "onboard_time": 1708060353,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 531318,
@@ -443,20 +483,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 417182,
-      "num": 417182,
-      "word": "热辣滚烫乐莹查男友手机",
-      "onboard_time": 1708060353,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 413265,
       "num": 413265,
       "word": "国乒女团vs印度",
       "onboard_time": 1708046968,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412929,
+      "num": 412929,
+      "word": "农村婚恋市场一动一不动成标配",
+      "onboard_time": 1708062632,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408002,
@@ -515,12 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 360748,
-      "num": 297986,
-      "word": "薛之谦版权意识",
-      "onboard_time": 1708061375,
-      "rank": 22,
-      "category": "电影"
+      "raw_hot": 362052,
+      "num": 362052,
+      "word": "王珞丹过年被催婚",
+      "onboard_time": 1708061852,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 354538,
@@ -531,7 +571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323336,
+      "raw_hot": 352515,
       "num": 323336,
       "word": "褪黑素只有2类人适用",
       "onboard_time": 1708059994,
@@ -593,6 +633,22 @@
       "onboard_time": 1708053687,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295020,
+      "num": 295020,
+      "word": "小S二女儿大片",
+      "onboard_time": 1708063772,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286540,
+      "num": 286540,
+      "word": "不自觉摸脸是身体在安抚自己",
+      "onboard_time": 1708060893,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 284545,
@@ -683,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247489,
-      "num": 247489,
-      "word": "不自觉摸脸是身体在安抚自己",
-      "onboard_time": 1708060893,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241944,
       "num": 241944,
       "word": "孙阳微博评论区",
@@ -721,6 +769,14 @@
       "onboard_time": 1708060471,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229885,
+      "num": 229885,
+      "word": "手机号码关联了多少互联网账号",
+      "onboard_time": 1708063594,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 228654,
@@ -755,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218912,
+      "num": 206537,
+      "word": "乔丹儿子和皮蓬前妻复合",
+      "onboard_time": 1708063353,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 218075,
       "num": 218075,
       "word": "从西安回来才知道的血泪教训",
@@ -787,6 +851,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 210156,
+      "num": 210156,
+      "word": "陈赫一家马尔代夫度假",
+      "onboard_time": 1708063953,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208115,
       "num": 208115,
       "word": "马丽主演电影票房破180亿",
@@ -801,6 +873,14 @@
       "onboard_time": 1708049613,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204655,
+      "num": 204655,
+      "word": "胖东来",
+      "onboard_time": 1708063534,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202472,
@@ -859,14 +939,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 198976,
-      "num": 198976,
-      "word": "钟楚曦侯雯元喝同一瓶水",
-      "onboard_time": 1708061375,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198513,
       "num": 198513,
       "word": "会装睡且能听懂人话的狗狗",
@@ -907,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194262,
+      "num": 194262,
+      "word": "过完年的戒断反应",
+      "onboard_time": 1708061972,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192711,
       "num": 192711,
       "word": "勇士终于变阵了",
@@ -929,6 +1009,14 @@
       "onboard_time": 1708056390,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190997,
+      "num": 190997,
+      "word": "初七",
+      "onboard_time": 1708063772,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 187950,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1708050812,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166905,
+      "num": 166905,
+      "word": "刘嘉玲说桃花是和张国荣的一种联系",
+      "onboard_time": 1708062753,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165041,
@@ -1193,6 +1289,22 @@
       "onboard_time": 1708008758,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147190,
+      "num": 147190,
+      "word": "萨摩耶演我晕车",
+      "onboard_time": 1708063233,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147046,
+      "num": 147046,
+      "word": "世界之外",
+      "onboard_time": 1708062271,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 144328,
@@ -1353,6 +1465,14 @@
       "onboard_time": 1707998377,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122482,
+      "num": 122482,
+      "word": "贾玲雷佳音他追她逃",
+      "onboard_time": 1708064432,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 121867,
