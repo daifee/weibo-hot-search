@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708089527333,
+  "endTime": 1708090440496,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -689,6 +689,14 @@
       "onboard_time": 1707840814,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1512624,
+      "num": 1512624,
+      "word": "年会不能停导演反对屏摄",
+      "onboard_time": 1708088676,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1506976,
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 1056162,
-      "num": 888966,
+      "num": 975497,
       "word": "娱超人向薛之谦道歉",
       "onboard_time": 1708086574,
       "rank": 44,
@@ -1865,14 +1873,6 @@
       "onboard_time": 1708005995,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 866246,
-      "num": 866246,
-      "word": "年会不能停导演反对屏摄",
-      "onboard_time": 1708088676,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 863980,
@@ -2819,6 +2819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 653888,
+      "num": 653888,
+      "word": "麻子和尤芳吟结婚了",
+      "onboard_time": 1708088494,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 653276,
       "num": 653276,
       "word": "海南一游客退房时被要求擦马桶",
@@ -3571,14 +3579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 539466,
-      "num": 539466,
-      "word": "麻子和尤芳吟结婚了",
-      "onboard_time": 1708088494,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 537358,
       "num": 537358,
       "word": "马思纯发了无修剧照",
@@ -3609,6 +3609,14 @@
       "onboard_time": 1707729274,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 531121,
+      "num": 531121,
+      "word": "苏醒夫妇新加坡度假",
+      "onboard_time": 1708087479,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 530707,
@@ -3673,14 +3681,6 @@
       "onboard_time": 1707873931,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525637,
-      "num": 525637,
-      "word": "苏醒夫妇新加坡度假",
-      "onboard_time": 1708087479,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 525506,
@@ -3963,6 +3963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495688,
+      "num": 495688,
+      "word": "春节回家发现未婚适龄女性比已婚的还多",
+      "onboard_time": 1708086213,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494333,
       "num": 494333,
       "word": "檀健次张婧仪情人节拍立得",
@@ -4099,14 +4107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 477791,
-      "num": 477791,
-      "word": "春节回家发现未婚适龄女性比已婚的还多",
-      "onboard_time": 1708086213,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 476474,
       "num": 476474,
       "word": "杨迪 我好骄傲这是我朋友拍出的电影",
@@ -4241,6 +4241,14 @@
       "onboard_time": 1707890314,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465858,
+      "num": 465858,
+      "word": "中国台球队队长林亦扬",
+      "onboard_time": 1708087834,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 461823,
@@ -4849,14 +4857,6 @@
       "onboard_time": 1707991474,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405671,
-      "num": 405671,
-      "word": "中国台球队队长林亦扬",
-      "onboard_time": 1708087834,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 405549,
@@ -5771,6 +5771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336392,
+      "num": 336392,
+      "word": "福岛核污水泄漏系因忘关手动阀门",
+      "onboard_time": 1708088196,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 333659,
       "num": 333659,
       "word": "周深在春晚后台听见了大鱼",
@@ -6043,20 +6051,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313006,
+      "num": 313006,
+      "word": "龙猫不能水洗的原因",
+      "onboard_time": 1708088554,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "春节假期余额只剩两天",
       "onboard_time": 1708041085,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312397,
-      "num": 312397,
-      "word": "龙猫不能水洗的原因",
-      "onboard_time": 1708088554,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 311646,
@@ -6291,6 +6299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294563,
+      "num": 294563,
+      "word": "山西一警察庙会上竟多次成功偷手机",
+      "onboard_time": 1708086155,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294452,
       "num": 239083,
       "word": "斐玲",
@@ -6321,14 +6337,6 @@
       "onboard_time": 1707632014,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292965,
-      "num": 292965,
-      "word": "山西一警察庙会上竟多次成功偷手机",
-      "onboard_time": 1708086155,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292228,
@@ -6915,6 +6923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261765,
+      "num": 261765,
+      "word": "孙千演的陶姝娜是A班袁湘琴",
+      "onboard_time": 1708089092,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261520,
       "num": 261520,
       "word": "开40万国产新能源回村亲戚笑买了杂牌",
@@ -7097,14 +7113,6 @@
       "onboard_time": 1708004796,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 253632,
-      "num": 253632,
-      "word": "福岛核污水泄漏系因忘关手动阀门",
-      "onboard_time": 1708088196,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 253619,
@@ -7561,6 +7569,14 @@
       "onboard_time": 1707579933,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235557,
+      "num": 235557,
+      "word": "冰岛偶遇by2",
+      "onboard_time": 1708089637,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 235503,
@@ -8547,14 +8563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208088,
-      "num": 208088,
-      "word": "孙千演的陶姝娜是A班袁湘琴",
-      "onboard_time": 1708089092,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208087,
       "num": 213706,
       "word": "中国历史上第一款流行色",
@@ -9185,6 +9193,14 @@
       "onboard_time": 1708083934,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196873,
+      "num": 196873,
+      "word": "硬控亲戚40秒",
+      "onboard_time": 1708088975,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 196684,
@@ -12787,6 +12803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129396,
+      "num": 129396,
+      "word": "田曦薇超话换头像",
+      "onboard_time": 1708090414,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129358,
       "num": 129358,
       "word": "3个动作教你燃烧腹部脂肪",
@@ -13009,6 +13033,14 @@
       "onboard_time": 1707894211,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126902,
+      "num": 126902,
+      "word": "女子带礼盒拜年10天后又回自己手里",
+      "onboard_time": 1708089397,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126742,
@@ -13339,14 +13371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121317,
-      "num": 121317,
-      "word": "女子带礼盒拜年10天后又回自己手里",
-      "onboard_time": 1708089397,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121297,
       "num": 121297,
       "word": "李贺为什么叫诗鬼",
@@ -13441,14 +13465,6 @@
       "onboard_time": 1707689356,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119963,
-      "num": 119963,
-      "word": "硬控亲戚40秒",
-      "onboard_time": 1708088975,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 119892,
@@ -15235,6 +15251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34434,
+      "num": 1262030,
+      "word": "古人如何玩转冰雪运动",
+      "onboard_time": 1708074572,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33899,
       "num": 33899,
       "word": "贾玲电影里的对手是拳击冠军",
@@ -15289,14 +15313,6 @@
       "onboard_time": 1708024398,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29253,
-      "num": 1116649,
-      "word": "古人如何玩转冰雪运动",
-      "onboard_time": 1708074572,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27593,

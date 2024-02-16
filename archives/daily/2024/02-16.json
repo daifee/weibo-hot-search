@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708089527333,
+  "endTime": 1708090440496,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -97,6 +97,14 @@
       "onboard_time": 1708075831,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1512624,
+      "num": 1512624,
+      "word": "年会不能停导演反对屏摄",
+      "onboard_time": 1708088676,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1502779,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1056162,
-      "num": 888966,
+      "num": 975497,
       "word": "娱超人向薛之谦道歉",
       "onboard_time": 1708086574,
       "rank": 44,
@@ -257,14 +265,6 @@
       "onboard_time": 1708005995,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 866246,
-      "num": 866246,
-      "word": "年会不能停导演反对屏摄",
-      "onboard_time": 1708088676,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 862909,
@@ -459,6 +459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 653888,
+      "num": 653888,
+      "word": "麻子和尤芳吟结婚了",
+      "onboard_time": 1708088494,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 653276,
       "num": 653276,
       "word": "海南一游客退房时被要求擦马桶",
@@ -579,14 +587,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 539466,
-      "num": 539466,
-      "word": "麻子和尤芳吟结婚了",
-      "onboard_time": 1708088494,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 531318,
       "num": 531318,
       "word": "张艺兴旗下女团或即将出道",
@@ -595,8 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525637,
-      "num": 525637,
+      "raw_hot": 531121,
+      "num": 531121,
       "word": "苏醒夫妇新加坡度假",
       "onboard_time": 1708087479,
       "rank": 26,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495688,
+      "num": 495688,
+      "word": "春节回家发现未婚适龄女性比已婚的还多",
+      "onboard_time": 1708086213,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493228,
       "num": 493228,
       "word": "国乒女团3比2印度",
@@ -683,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 477791,
-      "num": 477791,
-      "word": "春节回家发现未婚适龄女性比已婚的还多",
-      "onboard_time": 1708086213,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471621,
       "num": 471621,
       "word": "新能源车主称海南出岛船票已等6天",
@@ -705,6 +705,14 @@
       "onboard_time": 1708011816,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 465858,
+      "num": 465858,
+      "word": "中国台球队队长林亦扬",
+      "onboard_time": 1708087834,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 459372,
@@ -809,14 +817,6 @@
       "onboard_time": 1708044328,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405671,
-      "num": 405671,
-      "word": "中国台球队队长林亦扬",
-      "onboard_time": 1708087834,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 399737,
@@ -939,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336392,
+      "num": 336392,
+      "word": "福岛核污水泄漏系因忘关手动阀门",
+      "onboard_time": 1708088196,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 332593,
       "num": 332593,
       "word": "陈赫一家马尔代夫度假",
@@ -987,20 +995,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313006,
+      "num": 313006,
+      "word": "龙猫不能水洗的原因",
+      "onboard_time": 1708088554,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "春节假期余额只剩两天",
       "onboard_time": 1708041085,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312397,
-      "num": 312397,
-      "word": "龙猫不能水洗的原因",
-      "onboard_time": 1708088554,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 309859,
@@ -1067,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294563,
+      "num": 294563,
+      "word": "山西一警察庙会上竟多次成功偷手机",
+      "onboard_time": 1708086155,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294435,
       "num": 294435,
       "word": "手机号码关联了多少互联网账号",
       "onboard_time": 1708063594,
       "rank": 25,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 292965,
-      "num": 292965,
-      "word": "山西一警察庙会上竟多次成功偷手机",
-      "onboard_time": 1708086155,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288722,
@@ -1179,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261765,
+      "num": 261765,
+      "word": "孙千演的陶姝娜是A班袁湘琴",
+      "onboard_time": 1708089092,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259579,
       "num": 259579,
       "word": "谷爱凌U池世界杯夺冠",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1708049253,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253632,
-      "num": 253632,
-      "word": "福岛核污水泄漏系因忘关手动阀门",
-      "onboard_time": 1708088196,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 251425,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1708061375,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235557,
+      "num": 235557,
+      "word": "冰岛偶遇by2",
+      "onboard_time": 1708089637,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 232647,
@@ -1467,14 +1483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208088,
-      "num": 208088,
-      "word": "孙千演的陶姝娜是A班袁湘琴",
-      "onboard_time": 1708089092,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205876,
       "num": 205876,
       "word": "釜山世乒赛",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1708083934,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196873,
+      "num": 196873,
+      "word": "硬控亲戚40秒",
+      "onboard_time": 1708088975,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 196747,
@@ -2339,6 +2355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 129396,
+      "num": 129396,
+      "word": "田曦薇超话换头像",
+      "onboard_time": 1708090414,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128948,
       "num": 128948,
       "word": "春节返程让人泪目的离别瞬间",
@@ -2393,6 +2417,14 @@
       "onboard_time": 1708080448,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126902,
+      "num": 126902,
+      "word": "女子带礼盒拜年10天后又回自己手里",
+      "onboard_time": 1708089397,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126742,
@@ -2459,28 +2491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121317,
-      "num": 121317,
-      "word": "女子带礼盒拜年10天后又回自己手里",
-      "onboard_time": 1708089397,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "国乒女团vs印度对阵名单",
       "onboard_time": 1708048289,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119963,
-      "num": 119963,
-      "word": "硬控亲戚40秒",
-      "onboard_time": 1708088975,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 119695,
@@ -2811,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34434,
+      "num": 1262030,
+      "word": "古人如何玩转冰雪运动",
+      "onboard_time": 1708074572,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30046,
       "num": 35039,
       "word": "张颂文 治愈",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1708024398,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29253,
-      "num": 1116649,
-      "word": "古人如何玩转冰雪运动",
-      "onboard_time": 1708074572,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26106,
