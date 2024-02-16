@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708090440496,
+  "endTime": 1708092975869,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -129,6 +129,14 @@
       "onboard_time": 1707798036,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2871174,
+      "num": 2871174,
+      "word": "年会不能停导演反对屏摄",
+      "onboard_time": 1708088676,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 2847937,
@@ -689,14 +697,6 @@
       "onboard_time": 1707840814,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1512624,
-      "num": 1512624,
-      "word": "年会不能停导演反对屏摄",
-      "onboard_time": 1708088676,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 1506976,
@@ -1787,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910633,
+      "num": 910633,
+      "word": "文韬全员加速中加速成功",
+      "onboard_time": 1708091375,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 909983,
       "num": 909983,
       "word": "库里绝杀",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1708083934,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840871,
+      "num": 840871,
+      "word": "福岛核污水泄漏系因忘关手动阀门",
+      "onboard_time": 1708088196,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 840158,
@@ -2667,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682940,
+      "num": 682940,
+      "word": "田曦薇超话换头像",
+      "onboard_time": 1708090414,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 682657,
       "num": 682657,
       "word": "07年快男抗洪旧照",
@@ -3329,6 +3353,14 @@
       "onboard_time": 1708015048,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 568589,
+      "num": 556910,
+      "word": "陆虎悬着的心终于死了",
+      "onboard_time": 1708091315,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 566343,
@@ -4104,6 +4136,14 @@
       "word": "票房",
       "onboard_time": 1707743554,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 476921,
+      "num": 476921,
+      "word": "李慕白 赵丽颖第二十条的表演很成功",
+      "onboard_time": 1708090656,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -5771,12 +5811,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 336392,
-      "num": 336392,
-      "word": "福岛核污水泄漏系因忘关手动阀门",
-      "onboard_time": 1708088196,
-      "rank": 24,
-      "category": "国外时政"
+      "raw_hot": 337606,
+      "num": 337606,
+      "word": "胖东来发布情况说明",
+      "onboard_time": 1708091198,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333659,
@@ -6185,6 +6225,14 @@
       "onboard_time": 1707710731,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 301806,
+      "num": 301806,
+      "word": "冰岛偶遇by2",
+      "onboard_time": 1708089637,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 300254,
@@ -6643,6 +6691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276893,
+      "num": 276893,
+      "word": "不拔电器插头1年多交多少电费",
+      "onboard_time": 1708092577,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276771,
       "num": 276771,
       "word": "林孝埈武大靖500米晋级",
@@ -6857,6 +6913,14 @@
       "onboard_time": 1708084413,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267377,
+      "num": 267377,
+      "word": "婚姻最可怕的是内耗",
+      "onboard_time": 1708090715,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 266500,
@@ -7571,14 +7635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235557,
-      "num": 235557,
-      "word": "冰岛偶遇by2",
-      "onboard_time": 1708089637,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235503,
       "num": 235503,
       "word": "6种人最易得肾结石",
@@ -7616,6 +7672,14 @@
       "word": "贾玲称过去一年不快乐但值得",
       "onboard_time": 1707672442,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 234827,
+      "num": 234827,
+      "word": "吴京 镖人风起大漠",
+      "onboard_time": 1708091912,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -7785,6 +7849,14 @@
       "onboard_time": 1708060471,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230676,
+      "num": 230676,
+      "word": "警察在庙会假装偷手机警示游客",
+      "onboard_time": 1708086155,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230587,
@@ -8177,6 +8249,14 @@
       "onboard_time": 1707978451,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218163,
+      "num": 218163,
+      "word": "大过年男朋友爸爸打电话教训我",
+      "onboard_time": 1708092757,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 218081,
@@ -9187,6 +9267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196928,
+      "num": 196928,
+      "word": "刘铮炮轰中国台北男篮",
+      "onboard_time": 1708091675,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196900,
       "num": 196900,
       "word": "樊振东开门红",
@@ -10091,6 +10179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177135,
+      "num": 177135,
+      "word": "屏摄",
+      "onboard_time": 1708092815,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177094,
       "num": 177094,
       "word": "守护甜心 幼儿园主题周边",
@@ -10371,6 +10467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170841,
+      "num": 170841,
+      "word": "60岁倪夏莲vs15岁张本美和",
+      "onboard_time": 1708091077,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170709,
       "num": 170709,
       "word": "长大了终于可以欺负小孩了",
@@ -10433,6 +10537,14 @@
       "onboard_time": 1707657933,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170052,
+      "num": 170052,
+      "word": "他不听命于杜康",
+      "onboard_time": 1708090956,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 170041,
@@ -11043,6 +11155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159938,
+      "num": 159938,
+      "word": "孙千醉酒戏",
+      "onboard_time": 1708091375,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159848,
       "num": 159848,
       "word": "黄鹤楼连续第四天发提醒",
@@ -11105,6 +11225,14 @@
       "onboard_time": 1707714270,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158794,
+      "num": 158794,
+      "word": "女子带礼盒拜年10天后又回自己手里",
+      "onboard_time": 1708089397,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158494,
@@ -11257,6 +11385,14 @@
       "onboard_time": 1707915579,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156653,
+      "num": 969567,
+      "word": "十四冬参赛代表团入场主打国潮风",
+      "onboard_time": 1708091198,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156365,
@@ -12803,14 +12939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129396,
-      "num": 129396,
-      "word": "田曦薇超话换头像",
-      "onboard_time": 1708090414,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129358,
       "num": 129358,
       "word": "3个动作教你燃烧腹部脂肪",
@@ -13033,14 +13161,6 @@
       "onboard_time": 1707894211,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126902,
-      "num": 126902,
-      "word": "女子带礼盒拜年10天后又回自己手里",
-      "onboard_time": 1708089397,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126742,

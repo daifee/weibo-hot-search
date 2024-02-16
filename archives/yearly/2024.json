@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708090440496,
+  "endTime": 1708092975869,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1704275973,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2871174,
+      "num": 2871174,
+      "word": "年会不能停导演反对屏摄",
+      "onboard_time": 1708088676,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 2847937,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708006055,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2054749,
-      "num": 2054749,
-      "word": "奔驰车主加塞砸车被拘10日",
-      "onboard_time": 1706689413,
-      "rank": 5,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
