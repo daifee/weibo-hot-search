@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708104833012,
+  "endTime": 1708107679886,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -283,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158472,
+      "num": 158472,
+      "word": "王劲松王鹤润演父女",
+      "onboard_time": 1708104861,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141256,
       "num": 141256,
       "word": "一个心理医生告诫的冷知识",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 114903,
-      "num": 193198,
+      "num": 223887,
       "word": "胖东来发布情况说明",
       "onboard_time": 1708091198,
       "rank": 29,
@@ -419,11 +427,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50453,
-      "num": 51802,
+      "raw_hot": 53254,
+      "num": 53254,
       "word": "春节回家发现未婚适龄女性比已婚的还多",
       "onboard_time": 1708086213,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36510,
+      "num": 36221,
+      "word": "全员加速中",
+      "onboard_time": 1708086393,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14796,
+      "num": 330073,
+      "word": "网络中国节",
+      "onboard_time": 1708090956,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
