@@ -1,14 +1,22 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708050847636,
+  "endTime": 1708053558583,
   "band_list": [
     {
-      "raw_hot": 2722790,
-      "num": 2722790,
+      "raw_hot": 2760141,
+      "num": 2760141,
       "word": "贾玲发文",
       "onboard_time": 1708046131,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2405251,
+      "num": 2405251,
+      "word": "薛之谦回应盗摄",
+      "onboard_time": 1708049731,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2192350,
@@ -19,12 +27,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2189261,
-      "num": 2189261,
-      "word": "薛之谦回应盗摄",
-      "onboard_time": 1708049731,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 1647418,
+      "num": 1647418,
+      "word": "贾玲下个作品马上开机",
+      "onboard_time": 1708049671,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 1502779,
@@ -51,12 +59,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1015407,
-      "num": 1015407,
-      "word": "贾玲下个作品马上开机",
-      "onboard_time": 1708049671,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 1085643,
+      "num": 1085643,
+      "word": "买不到返程车票不能按时上班算旷工吗",
+      "onboard_time": 1708050812,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1013885,
@@ -123,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 640107,
+      "num": 640107,
+      "word": "江西警方通报电影院吵架打人事件",
+      "onboard_time": 1708050752,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571587,
       "num": 571587,
       "word": "内娱95生最出圈的角色",
@@ -139,12 +155,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 556223,
+      "num": 556223,
+      "word": "春断食",
+      "onboard_time": 1708049492,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 531318,
       "num": 531318,
       "word": "张艺兴旗下女团或即将出道",
       "onboard_time": 1708008278,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521241,
+      "num": 521241,
+      "word": "印度女团打法有点东西",
+      "onboard_time": 1708051288,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 515497,
@@ -193,14 +225,6 @@
       "onboard_time": 1708011816,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 466775,
-      "num": 466775,
-      "word": "春断食",
-      "onboard_time": 1708049492,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 459037,
@@ -307,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341373,
+      "num": 341373,
+      "word": "高考数学无耻得分法",
+      "onboard_time": 1708052731,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 318957,
       "num": 318957,
       "word": "偶遇陈哲远",
@@ -331,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 308679,
+      "num": 308679,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305720,
       "num": 305720,
       "word": "看电影拍照发朋友圈算盗摄吗",
@@ -339,11 +379,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 281621,
-      "num": 281621,
-      "word": "国乒女团vs印度",
-      "onboard_time": 1708046968,
-      "rank": 49,
+      "raw_hot": 304502,
+      "num": 304502,
+      "word": "大张伟只为自己开的花",
+      "onboard_time": 1708049431,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 284545,
+      "num": 284545,
+      "word": "摆拍失联闹剧的台网红下跪道歉",
+      "onboard_time": 1708050512,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280426,
+      "num": 280426,
+      "word": "王艺迪0比3阿库拉",
+      "onboard_time": 1708053210,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -353,6 +409,14 @@
       "onboard_time": 1707997956,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276000,
+      "num": 276000,
+      "word": "方时赫为enhypen亲自编曲",
+      "onboard_time": 1708052488,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 266332,
@@ -403,11 +467,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231985,
-      "num": 231985,
-      "word": "大张伟只为自己开的花",
-      "onboard_time": 1708049431,
-      "rank": 37,
+      "raw_hot": 237028,
+      "num": 237028,
+      "word": "百余位明星曾发出拒绝电影盗摄倡议",
+      "onboard_time": 1708053511,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -449,6 +513,14 @@
       "onboard_time": 1707988293,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213961,
+      "num": 205904,
+      "word": "梅西第60分钟被换下",
+      "onboard_time": 1708053210,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 211035,
@@ -497,6 +569,14 @@
       "onboard_time": 1708049554,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 198020,
+      "num": 198020,
+      "word": "一个穴位养好皮肤",
+      "onboard_time": 1708050752,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196747,
@@ -571,11 +651,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 167453,
-      "num": 167453,
-      "word": "摆拍失联闹剧的台网红下跪道歉",
-      "onboard_time": 1708050512,
-      "rank": 35,
+      "raw_hot": 168405,
+      "num": 168405,
+      "word": "买不到车票",
+      "onboard_time": 1708050812,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -617,14 +697,6 @@
       "onboard_time": 1708040666,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156011,
-      "num": 156011,
-      "word": "买不到返程车票不能按时上班算旷工吗",
-      "onboard_time": 1708050812,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155278,
@@ -771,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132515,
+      "num": 132515,
+      "word": "王曼昱3比1巴特拉",
+      "onboard_time": 1708051352,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131294,
       "num": 131294,
       "word": "不结婚痛苦的只是父母吗",
@@ -779,20 +859,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130442,
-      "num": 130442,
-      "word": "一个穴位养好皮肤",
-      "onboard_time": 1708050752,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128866,
       "num": 128866,
       "word": "2024春节档票房进入影史前二",
       "onboard_time": 1708041325,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128058,
+      "num": 128058,
+      "word": "AI 文字生成视频",
+      "onboard_time": 1708052014,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 127801,
@@ -811,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122675,
-      "num": 122675,
-      "word": "江西警方通报电影院吵架打人事件",
-      "onboard_time": 1708050752,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121867,
       "num": 121867,
       "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
@@ -835,12 +907,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119936,
-      "num": 119936,
-      "word": "买不到车票",
-      "onboard_time": 1708050812,
-      "rank": 49,
+      "raw_hot": 119695,
+      "num": 119695,
+      "word": "年过完了要离开家了",
+      "onboard_time": 1708051409,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118179,
+      "num": 118179,
+      "word": "初七不出门",
+      "onboard_time": 1708053451,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117938,
+      "num": 117938,
+      "word": "过年回家的狗狗都在干什么",
+      "onboard_time": 1708052852,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 117570,
@@ -1132,7 +1220,7 @@
     },
     {
       "raw_hot": 17855,
-      "num": 1540173,
+      "num": 1991912,
       "word": "我与家人合个影",
       "onboard_time": 1707969690,
       "rank": 2,
@@ -1142,6 +1230,9 @@
   "hotgov_list": [
     {
       "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    },
+    {
+      "word": "#要把握传承和创新的关系#"
     }
   ]
 }
