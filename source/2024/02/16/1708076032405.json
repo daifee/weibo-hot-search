@@ -1,0 +1,410 @@
+{
+  "runTime": 1708076032405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1953924,
+        "num": 1953924,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1424498,
+        "num": 1424498,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7909,
+        "num": 1203839,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094467,
+        "num": 1094467,
+        "word": "海底捞回应女主播在包厢拍不雅照",
+        "onboard_time": 1708072772,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986459,
+        "num": 986459,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 818976,
+        "num": 818976,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730117,
+        "num": 730117,
+        "word": "小S二女儿偶像是张元英",
+        "onboard_time": 1708073850,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554290,
+        "num": 554290,
+        "word": "吕修诚缝了16针",
+        "onboard_time": 1708074753,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434252,
+        "num": 434252,
+        "word": "飞驰人生2观众满意度第一",
+        "onboard_time": 1708068691,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388005,
+        "num": 388005,
+        "word": "在暴雪时分豆瓣开分6.9",
+        "onboard_time": 1708070490,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 798757,
+        "num": 385391,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 480520,
+        "num": 383553,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459079,
+        "num": 381239,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368148,
+        "num": 368148,
+        "word": "IU新歌孢子MV",
+        "onboard_time": 1708074871,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366681,
+        "num": 366681,
+        "word": "于适飞驰人生27秒卡点视频",
+        "onboard_time": 1708071210,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356487,
+        "num": 356487,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339087,
+        "num": 339087,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336573,
+        "num": 336573,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333139,
+        "num": 333139,
+        "word": "为什么阴干的衣服有臭味",
+        "onboard_time": 1708067251,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 330930,
+        "num": 330930,
+        "word": "杨超越 无名之辈2",
+        "onboard_time": 1708072591,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308700,
+        "num": 308700,
+        "word": "天津景区男厕改女厕男子带队闯入",
+        "onboard_time": 1708073908,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242129,
+        "num": 242129,
+        "word": "毛晓彤36岁生日照",
+        "onboard_time": 1708075354,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234951,
+        "num": 234951,
+        "word": "杭州男子一条鱼卖了37万",
+        "onboard_time": 1708070191,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230098,
+        "num": 230098,
+        "word": "萨摩怒和萨摩耶",
+        "onboard_time": 1708070793,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222837,
+        "num": 222837,
+        "word": "乐莹被恶剪是贾玲亲身经历",
+        "onboard_time": 1708074152,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221136,
+        "num": 221136,
+        "word": "文旅局回应海南一游客退房时被要求擦马桶",
+        "onboard_time": 1708072889,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212424,
+        "num": 212424,
+        "word": "这类人群不能多吃车厘子",
+        "onboard_time": 1708075292,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198237,
+        "num": 198237,
+        "word": "二刷热辣滚烫发现的隐藏彩蛋",
+        "onboard_time": 1708068871,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190068,
+        "num": 190068,
+        "word": "本来在家过年被老公接走了",
+        "onboard_time": 1708072649,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176955,
+        "num": 176955,
+        "word": "混合接力黑龙江队被取消成绩",
+        "onboard_time": 1708067310,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212581,
+        "num": 173019,
+        "word": "为什么乐莹身边全是坏人",
+        "onboard_time": 1708075170,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168252,
+        "num": 168252,
+        "word": "耐克将裁员约2%",
+        "onboard_time": 1708074028,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163780,
+        "num": 163780,
+        "word": "魔卡少女樱 狼樱发糖",
+        "onboard_time": 1708074932,
+        "rank": 32,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 160670,
+        "num": 160670,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123881,
+        "num": 158951,
+        "word": "王家卫查户口式选演员",
+        "onboard_time": 1708070370,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158760,
+        "num": 158760,
+        "word": "窝囊废是雷佳音的统治区",
+        "onboard_time": 1708071992,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158512,
+        "num": 158512,
+        "word": "一些人开始逃离一线城市了",
+        "onboard_time": 1708075651,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157717,
+        "num": 157717,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153065,
+        "num": 153065,
+        "word": "要久久爱豆瓣开分7.2",
+        "onboard_time": 1708070910,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151832,
+        "num": 151832,
+        "word": "胡锡进谈OpenAI Sora",
+        "onboard_time": 1708075532,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146832,
+        "num": 146832,
+        "word": "吴京与家人新加坡过春节",
+        "onboard_time": 1708063053,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143286,
+        "num": 143286,
+        "word": "钟楚曦侯雯元喝同一瓶水",
+        "onboard_time": 1708061375,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139958,
+        "num": 139958,
+        "word": "普京催生每个家庭至少两个孩子",
+        "onboard_time": 1708075831,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138536,
+        "num": 138536,
+        "word": "任子威被撞",
+        "onboard_time": 1708058373,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122624,
+        "num": 122624,
+        "word": "KCON两日阵容",
+        "onboard_time": 1708074453,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122328,
+        "num": 122328,
+        "word": "吕玲玲郝秀萍 如我在诉的坚持",
+        "onboard_time": 1708075472,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121925,
+        "num": 121925,
+        "word": "避险式断亲",
+        "onboard_time": 1708074272,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121386,
+        "num": 121386,
+        "word": "没必要为别人的失望负责任",
+        "onboard_time": 1708075952,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113586,
+        "num": 113586,
+        "word": "玲姐 我有点想看哎",
+        "onboard_time": 1708066291,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112182,
+        "num": 112182,
+        "word": "十四冬开幕式亮点揭秘",
+        "onboard_time": 1708075170,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年展信舒颜见字如晤#"
+    }
+  }
+}
