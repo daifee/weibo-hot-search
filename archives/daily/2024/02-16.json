@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708053558583,
+  "endTime": 1708054524339,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1310635,
+      "num": 1310635,
+      "word": "李钟硕鼻子",
+      "onboard_time": 1708053572,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1199972,
       "num": 1199972,
       "word": "魏大勋被强制闭麦",
@@ -59,8 +67,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1085643,
-      "num": 1085643,
+      "raw_hot": 1136020,
+      "num": 1136020,
       "word": "买不到返程车票不能按时上班算旷工吗",
       "onboard_time": 1708050812,
       "rank": 37,
@@ -107,12 +115,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 765440,
+      "num": 765440,
+      "word": "林孝埈黄牌",
+      "onboard_time": 1708053872,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 750052,
       "num": 750052,
       "word": "钟楚曦侯雯元一起回国",
       "onboard_time": 1708044567,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694042,
+      "num": 694042,
+      "word": "江西警方通报电影院吵架打人事件",
+      "onboard_time": 1708050752,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672778,
@@ -131,12 +155,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 640107,
-      "num": 640107,
-      "word": "江西警方通报电影院吵架打人事件",
-      "onboard_time": 1708050752,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 630901,
+      "num": 630901,
+      "word": "百余位明星曾发出拒绝电影盗摄倡议",
+      "onboard_time": 1708053511,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 571587,
@@ -161,6 +185,22 @@
       "onboard_time": 1708049492,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 555811,
+      "num": 555811,
+      "word": "王艺迪0比3阿库拉",
+      "onboard_time": 1708053210,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 551435,
+      "num": 551435,
+      "word": "高考数学无耻得分法",
+      "onboard_time": 1708052731,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 531318,
@@ -201,6 +241,22 @@
       "onboard_time": 1708012234,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499144,
+      "num": 499144,
+      "word": "梅西第60分钟被换下",
+      "onboard_time": 1708053210,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 495281,
+      "num": 495281,
+      "word": "白敬亭聊南来北往中的东北话",
+      "onboard_time": 1708053572,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 491280,
@@ -307,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390863,
+      "num": 390863,
+      "word": "初七不出门",
+      "onboard_time": 1708053451,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367682,
       "num": 367682,
       "word": "贾玲 能拯救我的只有我自己",
@@ -329,14 +393,6 @@
       "onboard_time": 1708009054,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341373,
-      "num": 341373,
-      "word": "高考数学无耻得分法",
-      "onboard_time": 1708052731,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 318957,
@@ -363,8 +419,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 308679,
-      "num": 308679,
+      "raw_hot": 309702,
+      "num": 309702,
       "word": "国乒女团vs印度",
       "onboard_time": 1708046968,
       "rank": 49,
@@ -387,20 +443,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303310,
+      "num": 303310,
+      "word": "孙龙兔子战术",
+      "onboard_time": 1708053687,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284545,
       "num": 284545,
       "word": "摆拍失联闹剧的台网红下跪道歉",
       "onboard_time": 1708050512,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280426,
-      "num": 280426,
-      "word": "王艺迪0比3阿库拉",
-      "onboard_time": 1708053210,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 279809,
@@ -467,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237028,
-      "num": 237028,
-      "word": "百余位明星曾发出拒绝电影盗摄倡议",
-      "onboard_time": 1708053511,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 228654,
       "num": 228654,
       "word": "肖战霍建华混合体",
@@ -515,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213961,
-      "num": 205904,
-      "word": "梅西第60分钟被换下",
-      "onboard_time": 1708053210,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211035,
       "num": 211035,
       "word": "王鹤棣哈利伯顿球局",
@@ -561,6 +601,14 @@
       "onboard_time": 1708044990,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200599,
+      "num": 200599,
+      "word": "盗摄",
+      "onboard_time": 1708053930,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 199128,
@@ -859,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128937,
+      "num": 128937,
+      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+      "onboard_time": 1708054233,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128866,
       "num": 128866,
       "word": "2024春节档票房进入影史前二",
@@ -913,14 +969,6 @@
       "onboard_time": 1708051409,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118179,
-      "num": 118179,
-      "word": "初七不出门",
-      "onboard_time": 1708053451,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117938,
@@ -1009,6 +1057,22 @@
       "onboard_time": 1708042767,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108773,
+      "num": 108773,
+      "word": "抱抱贾玲",
+      "onboard_time": 1708054356,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104343,
+      "num": 1670432,
+      "word": "一图看懂开车回家要注意啥",
+      "onboard_time": 1708053813,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103966,
