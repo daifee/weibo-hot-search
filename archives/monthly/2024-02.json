@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708118074863,
+  "endTime": 1708119237140,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -44507,8 +44507,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21972,
-      "num": 17985,
+      "raw_hot": 21978,
+      "num": 18326,
       "word": "一百多年前的猫奴",
       "onboard_time": 1708115419,
       "rank": 46,
@@ -44859,6 +44859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14674,
+      "num": 14674,
+      "word": "人在不清醒的时候都说过什么怪话",
+      "onboard_time": 1708117396,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14534,
       "num": 16630,
       "word": "女明星出圈春晚造型",
@@ -44995,20 +45003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12167,
-      "num": 12167,
-      "word": "人在不清醒的时候都说过什么怪话",
-      "onboard_time": 1708117396,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12158,
       "num": 14625,
       "word": "新年祝福接龙",
       "onboard_time": 1707168436,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11909,
+      "num": 11909,
+      "word": "为救同学挡8刀的女孩成为反诈民警",
+      "onboard_time": 1708118955,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 11868,

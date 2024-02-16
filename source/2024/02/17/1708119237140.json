@@ -1,0 +1,410 @@
+{
+  "runTime": 1708119237140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 129819,
+        "num": 129819,
+        "word": "盗摄元年",
+        "onboard_time": 1708096596,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90236,
+        "num": 90236,
+        "word": "薛之谦转发再回应盗摄",
+        "onboard_time": 1708085015,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9450,
+        "num": 88352,
+        "word": "网络中国节",
+        "onboard_time": 1708090956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87221,
+        "num": 87221,
+        "word": "为什么杜乐莹跳楼没有死",
+        "onboard_time": 1708094493,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79835,
+        "num": 79835,
+        "word": "过年采访我的丁克舅舅",
+        "onboard_time": 1708086213,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78875,
+        "num": 78875,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101103,
+        "num": 77408,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72120,
+        "num": 72120,
+        "word": "张小斐主演票房破90亿",
+        "onboard_time": 1708110257,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62873,
+        "num": 62873,
+        "word": "15岁初中生讲述为什么不爱读书",
+        "onboard_time": 1708093895,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33627,
+        "num": 55512,
+        "word": "胖东来发布情况说明",
+        "onboard_time": 1708091198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76892,
+        "num": 54074,
+        "word": "不拔电器插头1年多交多少电费",
+        "onboard_time": 1708092577,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73138,
+        "num": 53572,
+        "word": "韩国五大医院医生集体辞职抗议医学院扩招",
+        "onboard_time": 1708083094,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 51233,
+        "num": 51233,
+        "word": "放过胡夏吧他看起来快碎了",
+        "onboard_time": 1708094914,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48668,
+        "num": 48668,
+        "word": "年会不能停导演反对屏摄",
+        "onboard_time": 1708088676,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42347,
+        "num": 42347,
+        "word": "邱淑贞拍的女儿沈月",
+        "onboard_time": 1708084593,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40252,
+        "num": 40252,
+        "word": "娱超人向薛之谦道歉",
+        "onboard_time": 1708086574,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39397,
+        "num": 39397,
+        "word": "横店是缺演员吗",
+        "onboard_time": 1708084413,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29641,
+        "num": 32249,
+        "word": "春节吃太油喝茶可以刮油吗",
+        "onboard_time": 1708098635,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25334,
+        "num": 31539,
+        "word": "春节回家发现未婚适龄女性比已婚的还多",
+        "onboard_time": 1708086213,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23477,
+        "num": 31380,
+        "word": "王劲松王鹤润演父女",
+        "onboard_time": 1708104861,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31313,
+        "num": 31313,
+        "word": "没见过全省一起被骗的",
+        "onboard_time": 1708097432,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29814,
+        "num": 29814,
+        "word": "大过年男朋友爸爸打电话教训我",
+        "onboard_time": 1708092757,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27163,
+        "num": 27163,
+        "word": "惠英红评论刘亦菲",
+        "onboard_time": 1708095395,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25884,
+        "num": 25884,
+        "word": "吃的干净真的会瘦",
+        "onboard_time": 1708095213,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22820,
+        "num": 22820,
+        "word": "一个心理医生告诫的冷知识",
+        "onboard_time": 1708093895,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20833,
+        "num": 20833,
+        "word": "男朋友第一次上门带的礼物",
+        "onboard_time": 1708093835,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20828,
+        "num": 20828,
+        "word": "南波万的友情",
+        "onboard_time": 1708100070,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20621,
+        "num": 20621,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19668,
+        "num": 19668,
+        "word": "阿姨 完蛋真碰到穷鬼了",
+        "onboard_time": 1708095937,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18711,
+        "num": 18711,
+        "word": "福岛核污水泄漏系因忘关手动阀门",
+        "onboard_time": 1708088196,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28400,
+        "num": 18611,
+        "word": "兰博基尼回村撞报废车主否认车是租的",
+        "onboard_time": 1708112056,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21978,
+        "num": 18326,
+        "word": "一百多年前的猫奴",
+        "onboard_time": 1708115419,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17285,
+        "num": 17285,
+        "word": "中国居然有这么多县城没有网约车",
+        "onboard_time": 1708083934,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16186,
+        "num": 16186,
+        "word": "刘亦菲白色吊带裙",
+        "onboard_time": 1708080333,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15990,
+        "num": 15990,
+        "word": "双鱼座生日快乐",
+        "onboard_time": 1708095996,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15672,
+        "num": 15672,
+        "word": "林俊杰是黄老板演唱会嘉宾",
+        "onboard_time": 1708094857,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15591,
+        "num": 15591,
+        "word": "田曦薇超话换头像",
+        "onboard_time": 1708090414,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15242,
+        "num": 15242,
+        "word": "陆虎悬着的心终于死了",
+        "onboard_time": 1708091315,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15033,
+        "num": 15033,
+        "word": "苏醒夫妇新加坡度假",
+        "onboard_time": 1708087479,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14955,
+        "num": 14955,
+        "word": "郑容和回春",
+        "onboard_time": 1708093715,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14888,
+        "num": 14888,
+        "word": "婚姻最可怕的是内耗",
+        "onboard_time": 1708090715,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14674,
+        "num": 14674,
+        "word": "人在不清醒的时候都说过什么怪话",
+        "onboard_time": 1708117396,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14226,
+        "num": 14226,
+        "word": "刘诗诗没认出来马思纯",
+        "onboard_time": 1708083396,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14198,
+        "num": 14198,
+        "word": "张小斐 一个演员的敏感力",
+        "onboard_time": 1708081889,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11959,
+        "num": 11959,
+        "word": "屏摄",
+        "onboard_time": 1708092815,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11959,
+        "num": 11959,
+        "word": "联合国这么说",
+        "onboard_time": 1708097015,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11909,
+        "num": 11909,
+        "word": "为救同学挡8刀的女孩成为反诈民警",
+        "onboard_time": 1708118955,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 11888,
+        "num": 11888,
+        "word": "南北",
+        "onboard_time": 1708094612,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8425,
+        "num": 11386,
+        "word": "十四冬参赛代表团入场主打国潮风",
+        "onboard_time": 1708091198,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9243,
+        "num": 11337,
+        "word": "联合国教科文组织科普版权符号",
+        "onboard_time": 1708096475,
+        "rank": 49,
+        "category": "科学科普,电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年展信舒颜见字如晤#"
+    }
+  }
+}
