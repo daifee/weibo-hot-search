@@ -1,0 +1,410 @@
+{
+  "runTime": 1708082013737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2301390,
+        "num": 2301390,
+        "word": "刘亦菲白色吊带裙",
+        "onboard_time": 1708080333,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1629425,
+        "num": 1629425,
+        "word": "普京催生每个家庭至少两个孩子",
+        "onboard_time": 1708075831,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11121,
+        "num": 1418128,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342305,
+        "num": 1342305,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1030542,
+        "num": 1030542,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 676487,
+        "num": 676487,
+        "word": "主办方称赛前15分钟得知梅西缺阵",
+        "onboard_time": 1708078229,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643071,
+        "num": 643071,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 607014,
+        "num": 607014,
+        "word": "任子威给林孝埈递外套",
+        "onboard_time": 1708076910,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218909,
+        "num": 590095,
+        "word": "杭州将建比4个西溪湿地还大的湿地公园",
+        "onboard_time": 1708076671,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 590006,
+        "num": 590006,
+        "word": "返程后备箱塞了7个烂石榴但全是爱",
+        "onboard_time": 1708077028,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619391,
+        "num": 573002,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519514,
+        "num": 519514,
+        "word": "要久久爱官博发文",
+        "onboard_time": 1708079790,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481135,
+        "num": 481135,
+        "word": "乐莹被恶剪是贾玲亲身经历",
+        "onboard_time": 1708074152,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369402,
+        "num": 369402,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353716,
+        "num": 353716,
+        "word": "小S二女儿偶像是张元英",
+        "onboard_time": 1708073850,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349973,
+        "num": 349973,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 326600,
+        "num": 326600,
+        "word": "昆山反杀案主办检察官评第二十条",
+        "onboard_time": 1708077868,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306221,
+        "num": 306221,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296885,
+        "num": 296885,
+        "word": "为什么乐莹身边全是坏人",
+        "onboard_time": 1708075170,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271871,
+        "num": 271871,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288722,
+        "num": 270094,
+        "word": "当代95后开始整顿虚岁",
+        "onboard_time": 1708079914,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266807,
+        "num": 266807,
+        "word": "马丽 今天李茂娟回家了吗",
+        "onboard_time": 1708081291,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248256,
+        "num": 248256,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219355,
+        "num": 219355,
+        "word": "SMTOWN合作舞台",
+        "onboard_time": 1708081471,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214331,
+        "num": 214331,
+        "word": "杭州男子一条鱼卖了37万",
+        "onboard_time": 1708070191,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199359,
+        "num": 199359,
+        "word": "IU新歌孢子MV",
+        "onboard_time": 1708074871,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187417,
+        "num": 187417,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187181,
+        "num": 187181,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179936,
+        "num": 179936,
+        "word": "天津景区男厕改女厕男子带队闯入",
+        "onboard_time": 1708073908,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 179732,
+        "word": "爸妈塞的行李箱",
+        "onboard_time": 1708077632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186246,
+        "num": 179707,
+        "word": "猫 不是说人生没有那么多观众吗",
+        "onboard_time": 1708081412,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179633,
+        "num": 179633,
+        "word": "飞驰人生2观众满意度第一",
+        "onboard_time": 1708068691,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173714,
+        "num": 173714,
+        "word": "一些人开始逃离一线城市了",
+        "onboard_time": 1708075651,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172811,
+        "num": 172811,
+        "word": "中国式催婚的意义",
+        "onboard_time": 1708078652,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168262,
+        "num": 168262,
+        "word": "吕修诚缝了16针",
+        "onboard_time": 1708074753,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166992,
+        "num": 166992,
+        "word": "为什么阴干的衣服有臭味",
+        "onboard_time": 1708067251,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "孟菀青当妈 乳腺通畅",
+        "onboard_time": 1708077390,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160594,
+        "num": 160594,
+        "word": "张小斐 一个演员的敏感力",
+        "onboard_time": 1708081889,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159848,
+        "num": 159848,
+        "word": "黄鹤楼连续第四天发提醒",
+        "onboard_time": 1708081652,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157142,
+        "num": 157142,
+        "word": "十个勤天杂志",
+        "onboard_time": 1708080214,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143170,
+        "num": 143170,
+        "word": "在暴雪时分豆瓣开分6.9",
+        "onboard_time": 1708070490,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142205,
+        "num": 142205,
+        "word": "杨超越 无名之辈2",
+        "onboard_time": 1708072591,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137169,
+        "num": 137169,
+        "word": "最强大脑",
+        "onboard_time": 1708081171,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135992,
+        "num": 135992,
+        "word": "毛晓彤36岁生日照",
+        "onboard_time": 1708075354,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 133059,
+        "word": "魔卡少女樱 狼樱发糖",
+        "onboard_time": 1708074932,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 127437,
+        "num": 127437,
+        "word": "国乒男团vs比利时",
+        "onboard_time": 1708080448,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126581,
+        "num": 126581,
+        "word": "这类人群不能多吃车厘子",
+        "onboard_time": 1708075292,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124209,
+        "num": 124209,
+        "word": "我国大部地区剧烈降温",
+        "onboard_time": 1708081774,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114913,
+        "num": 114913,
+        "word": "二刷热辣滚烫发现的隐藏彩蛋",
+        "onboard_time": 1708068871,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114279,
+        "num": 114279,
+        "word": "守护甜心 幼儿园主题周边",
+        "onboard_time": 1708081953,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年展信舒颜见字如晤#"
+    }
+  }
+}
