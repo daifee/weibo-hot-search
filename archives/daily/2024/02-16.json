@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708045868068,
+  "endTime": 1708047025806,
   "band_list": [
     {
       "raw_hot": 2192350,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1154531,
+      "num": 1154531,
+      "word": "贾玲发文",
+      "onboard_time": 1708046131,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 947723,
       "num": 947723,
       "word": "为什么费列罗卖不动了",
@@ -36,19 +44,27 @@
     },
     {
       "raw_hot": 866474,
-      "num": 441371,
+      "num": 457225,
       "word": "春节第五天我偷跑出门开钟点房了",
       "onboard_time": 1708005995,
       "rank": 10,
       "category": "情感"
     },
     {
-      "raw_hot": 698532,
-      "num": 698532,
+      "raw_hot": 750052,
+      "num": 750052,
       "word": "钟楚曦侯雯元一起回国",
       "onboard_time": 1708044567,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 716966,
+      "num": 716966,
+      "word": "大年初七",
+      "onboard_time": 1708039640,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672778,
@@ -59,16 +75,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 597255,
-      "num": 597255,
-      "word": "大年初七",
-      "onboard_time": 1708039640,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 583320,
-      "num": 583320,
+      "raw_hot": 662589,
+      "num": 662589,
       "word": "苹果停止签署iOS17.3",
       "onboard_time": 1708044029,
       "rank": 5,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471621,
+      "num": 471621,
+      "word": "新能源车主称海南出岛船票已等6天",
+      "onboard_time": 1708043068,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471186,
       "num": 471186,
       "word": "中国海警依法外逼驱离菲船只",
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 437199,
-      "num": 437199,
-      "word": "新能源车主称海南出岛船票已等6天",
-      "onboard_time": 1708043068,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 429480,
+      "num": 429480,
+      "word": "陈都灵李公子30秒文学",
+      "onboard_time": 1708042048,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 424956,
@@ -161,14 +177,6 @@
       "onboard_time": 1708011454,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423344,
-      "num": 423344,
-      "word": "陈都灵李公子30秒文学",
-      "onboard_time": 1708042048,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 408002,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 397374,
-      "num": 227468,
+      "num": 268210,
       "word": "女子泡影院一天看完春节档电影患青光眼",
       "onboard_time": 1708044328,
       "rank": 20,
@@ -195,20 +203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367682,
+      "num": 367682,
+      "word": "贾玲 能拯救我的只有我自己",
+      "onboard_time": 1708044990,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 363657,
       "num": 363657,
       "word": "生孩子的气让孩子无气可生",
       "onboard_time": 1708028475,
       "rank": 38,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 360151,
-      "num": 360151,
-      "word": "贾玲 能拯救我的只有我自己",
-      "onboard_time": 1708044990,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 354538,
@@ -251,12 +259,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285806,
+      "num": 285806,
+      "word": "特朗普将接受刑事审判",
+      "onboard_time": 1708045529,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 285664,
+      "num": 179837,
+      "word": "三种花色的咪咪不一定是三花",
+      "onboard_time": 1708046370,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279809,
       "num": 279809,
       "word": "王灿说嫁给杜淳前已经财富自由",
       "onboard_time": 1707997956,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272027,
+      "num": 272027,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 263948,
+      "num": 263948,
+      "word": "今年的婚催得比往年更猛烈一些",
+      "onboard_time": 1708045529,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 262953,
@@ -289,6 +329,14 @@
       "onboard_time": 1708010555,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 220947,
+      "num": 220947,
+      "word": "大侦探魏晨摊牌",
+      "onboard_time": 1708045168,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 214000,
@@ -331,11 +379,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190611,
+      "num": 190611,
+      "word": "你写的vs人民日报写的",
+      "onboard_time": 1708044990,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185487,
       "num": 185487,
       "word": "中国队时隔9年再夺100自金牌",
       "onboard_time": 1708041747,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184652,
+      "num": 184652,
+      "word": "孙悦隐退八年因为儿子复出",
+      "onboard_time": 1708003295,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -355,28 +419,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178671,
-      "num": 178671,
-      "word": "孙悦隐退八年因为儿子复出",
-      "onboard_time": 1708003295,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175062,
       "num": 175062,
       "word": "草莓盖浇饭",
       "onboard_time": 1708004677,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174880,
-      "num": 174880,
-      "word": "大侦探魏晨摊牌",
-      "onboard_time": 1708045168,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 164886,
@@ -403,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157804,
-      "num": 157804,
-      "word": "你写的vs人民日报写的",
-      "onboard_time": 1708044990,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 157665,
+      "num": 157665,
+      "word": "大年初七庆人日",
+      "onboard_time": 1708046131,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156464,
@@ -433,6 +481,22 @@
       "onboard_time": 1708011036,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154422,
+      "num": 154422,
+      "word": "暴瘦后身体会发生哪些变化",
+      "onboard_time": 1708046489,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153184,
+      "num": 153184,
+      "word": "南来北往",
+      "onboard_time": 1708045768,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 153026,
@@ -467,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143772,
-      "num": 143772,
-      "word": "特朗普将接受刑事审判",
-      "onboard_time": 1708045529,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 142993,
       "num": 142993,
       "word": "济南兴洲解散",
@@ -499,14 +555,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 138776,
-      "num": 138776,
-      "word": "今年的婚催得比往年更猛烈一些",
-      "onboard_time": 1708045529,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137321,
       "num": 137321,
       "word": "异地恋是我怕你多了解一点会失望",
@@ -529,6 +577,14 @@
       "onboard_time": 1708033096,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129853,
+      "num": 129853,
+      "word": "大年初七不教训孩子",
+      "onboard_time": 1708046549,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128866,
@@ -569,6 +625,14 @@
       "onboard_time": 1707994655,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115671,
+      "num": 115671,
+      "word": "李菲古装剧",
+      "onboard_time": 1708046252,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115259,
@@ -651,12 +715,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 98056,
-      "num": 98056,
-      "word": "南来北往",
-      "onboard_time": 1708045768,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 98042,
+      "num": 98042,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 97659,
@@ -705,6 +769,14 @@
       "onboard_time": 1708038018,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87755,
+      "num": 87755,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79968,

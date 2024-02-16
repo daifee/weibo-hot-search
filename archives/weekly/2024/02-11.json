@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708045868068,
+  "endTime": 1708047025806,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1043,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1154531,
+      "num": 1154531,
+      "word": "贾玲发文",
+      "onboard_time": 1708046131,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1153357,
       "num": 449297,
       "word": "贾玲太美了",
@@ -1979,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750052,
+      "num": 750052,
+      "word": "钟楚曦侯雯元一起回国",
+      "onboard_time": 1708044567,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747423,
       "num": 747423,
       "word": "贾玲芭莎 健康自信的美",
@@ -2163,6 +2179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 716966,
+      "num": 716966,
+      "word": "大年初七",
+      "onboard_time": 1708039640,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716655,
       "num": 687566,
       "word": "魏大勋上春山表情包",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1707976770,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 698532,
-      "num": 698532,
-      "word": "钟楚曦侯雯元一起回国",
-      "onboard_time": 1708044567,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 697657,
@@ -2393,6 +2409,14 @@
       "onboard_time": 1707909519,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 662589,
+      "num": 662589,
+      "word": "苹果停止签署iOS17.3",
+      "onboard_time": 1708044029,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 658746,
@@ -2691,14 +2715,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 597255,
-      "num": 597255,
-      "word": "大年初七",
-      "onboard_time": 1708039640,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 596533,
       "num": 596533,
       "word": "黑执事作者曾阻止真人版角色恋爱",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1707881070,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 583320,
-      "num": 583320,
-      "word": "苹果停止签署iOS17.3",
-      "onboard_time": 1708044029,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 583125,
@@ -3595,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471621,
+      "num": 471621,
+      "word": "新能源车主称海南出岛船票已等6天",
+      "onboard_time": 1708043068,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471326,
       "num": 471326,
       "word": "魏大勋手上的青筋",
@@ -3867,14 +3883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 437199,
-      "num": 437199,
-      "word": "新能源车主称海南出岛船票已等6天",
-      "onboard_time": 1708043068,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436706,
       "num": 436706,
       "word": "与凤行",
@@ -3971,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429480,
+      "num": 429480,
+      "word": "陈都灵李公子30秒文学",
+      "onboard_time": 1708042048,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427786,
       "num": 422584,
       "word": "赵丽颖主演票房突破30亿",
@@ -4033,14 +4049,6 @@
       "onboard_time": 1707730773,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 423344,
-      "num": 423344,
-      "word": "陈都灵李公子30秒文学",
-      "onboard_time": 1708042048,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 422513,
@@ -4348,7 +4356,7 @@
     },
     {
       "raw_hot": 397374,
-      "num": 227468,
+      "num": 268210,
       "word": "女子泡影院一天看完春节档电影患青光眼",
       "onboard_time": 1708044328,
       "rank": 20,
@@ -4675,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367682,
+      "num": 367682,
+      "word": "贾玲 能拯救我的只有我自己",
+      "onboard_time": 1708044990,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 367654,
       "num": 367654,
       "word": "小伙情人节送女友2米高发财树和零食花",
@@ -4752,14 +4768,6 @@
       "word": "听障粉丝见赵丽颖激动落泪",
       "onboard_time": 1707707312,
       "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 360151,
-      "num": 360151,
-      "word": "贾玲 能拯救我的只有我自己",
-      "onboard_time": 1708044990,
-      "rank": 14,
       "category": "电影"
     },
     {
@@ -5595,6 +5603,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285806,
+      "num": 285806,
+      "word": "特朗普将接受刑事审判",
+      "onboard_time": 1708045529,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 285664,
+      "num": 179837,
+      "word": "三种花色的咪咪不一定是三花",
+      "onboard_time": 1708046370,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285331,
       "num": 285331,
       "word": "时代少年团 新四大CP",
@@ -5867,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272027,
+      "num": 272027,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 271325,
       "num": 249778,
       "word": "突然发现00后顾嘴不顾身",
@@ -6009,6 +6041,14 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263948,
+      "num": 263948,
+      "word": "今年的婚催得比往年更猛烈一些",
+      "onboard_time": 1708045529,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 262635,
@@ -7001,6 +7041,14 @@
       "onboard_time": 1707942618,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220947,
+      "num": 220947,
+      "word": "大侦探魏晨摊牌",
+      "onboard_time": 1708045168,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 220862,
@@ -8139,6 +8187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190611,
+      "num": 190611,
+      "word": "你写的vs人民日报写的",
+      "onboard_time": 1708044990,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 190464,
       "num": 190464,
       "word": "马宁称中国足球裁判实现了小目标",
@@ -8721,14 +8777,6 @@
       "onboard_time": 1707633150,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 174880,
-      "num": 174880,
-      "word": "大侦探魏晨摊牌",
-      "onboard_time": 1708045168,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 174870,
@@ -9547,12 +9595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157804,
-      "num": 157804,
-      "word": "你写的vs人民日报写的",
-      "onboard_time": 1708044990,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 157665,
+      "num": 157665,
+      "word": "大年初七庆人日",
+      "onboard_time": 1708046131,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157601,
@@ -9737,6 +9785,14 @@
       "onboard_time": 1707639271,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154422,
+      "num": 154422,
+      "word": "暴瘦后身体会发生哪些变化",
+      "onboard_time": 1708046489,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154154,
@@ -10259,14 +10315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143772,
-      "num": 143772,
-      "word": "特朗普将接受刑事审判",
-      "onboard_time": 1708045529,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 143731,
       "num": 143731,
       "word": "柯南剧场版平和上大分",
@@ -10553,14 +10601,6 @@
       "onboard_time": 1707618448,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138776,
-      "num": 138776,
-      "word": "今年的婚催得比往年更猛烈一些",
-      "onboard_time": 1708045529,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 138760,
@@ -10961,6 +11001,14 @@
       "onboard_time": 1707663215,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129853,
+      "num": 129853,
+      "word": "大年初七不教训孩子",
+      "onboard_time": 1708046549,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129763,
@@ -11771,6 +11819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115671,
+      "num": 115671,
+      "word": "李菲古装剧",
+      "onboard_time": 1708046252,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115532,
       "num": 123897,
       "word": "杜兰特说库里是历史最强控卫",
@@ -12491,6 +12547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98042,
+      "num": 98042,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97659,
       "num": 97659,
       "word": "姆巴佩赛季结束后离开巴黎",
@@ -12689,6 +12753,14 @@
       "onboard_time": 1707574542,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87755,
+      "num": 87755,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87103,
