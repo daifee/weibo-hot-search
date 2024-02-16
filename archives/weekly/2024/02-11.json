@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708054524339,
+  "endTime": 1708057184228,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -427,6 +427,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1842785,
+      "num": 1842785,
+      "word": "初七不出门",
+      "onboard_time": 1708053451,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1829892,
+      "num": 1829892,
+      "word": "李钟硕鼻子",
+      "onboard_time": 1708053572,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1798747,
       "num": 1798747,
       "word": "钱辈请和我交往",
@@ -825,14 +841,6 @@
       "onboard_time": 1707705451,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1310635,
-      "num": 1310635,
-      "word": "李钟硕鼻子",
-      "onboard_time": 1708053572,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1278686,
@@ -2107,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 738428,
+      "num": 738428,
+      "word": "百余位明星曾发出拒绝电影盗摄倡议",
+      "onboard_time": 1708053511,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 738382,
       "num": 738382,
       "word": "哈拉木吉官宣恋情",
@@ -2515,6 +2531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 653187,
+      "num": 653187,
+      "word": "高考数学无耻得分法",
+      "onboard_time": 1708052731,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 651231,
       "num": 651231,
       "word": "农村老人沉迷刷APP挣钱",
@@ -2608,14 +2632,6 @@
       "word": "马丽演技",
       "onboard_time": 1707651032,
       "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 630901,
-      "num": 630901,
-      "word": "百余位明星曾发出拒绝电影盗摄倡议",
-      "onboard_time": 1708053511,
-      "rank": 24,
       "category": "电影"
     },
     {
@@ -2771,6 +2787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 606339,
+      "num": 606339,
+      "word": "白敬亭聊南来北往中的东北话",
+      "onboard_time": 1708053572,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 604688,
       "num": 604688,
       "word": "灵隐寺半夜排队人挤人",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1707832479,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 592438,
+      "num": 592438,
+      "word": "梅西第60分钟被换下",
+      "onboard_time": 1708053210,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 592391,
@@ -3097,14 +3129,6 @@
       "onboard_time": 1707738815,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551435,
-      "num": 551435,
-      "word": "高考数学无耻得分法",
-      "onboard_time": 1708052731,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 551109,
@@ -3531,14 +3555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499144,
-      "num": 499144,
-      "word": "梅西第60分钟被换下",
-      "onboard_time": 1708053210,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 497039,
       "num": 497039,
       "word": "春节档票房",
@@ -3563,14 +3579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 495281,
-      "num": 495281,
-      "word": "白敬亭聊南来北往中的东北话",
-      "onboard_time": 1708053572,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494333,
       "num": 494333,
       "word": "檀健次张婧仪情人节拍立得",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1707905312,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492110,
+      "num": 492110,
+      "word": "马琳直拍",
+      "onboard_time": 1708054829,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 491280,
@@ -4523,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 395712,
+      "num": 327687,
+      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+      "onboard_time": 1708054233,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395418,
       "num": 395418,
       "word": "徐梦洁回应演短剧",
@@ -4537,14 +4561,6 @@
       "onboard_time": 1707806376,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 390863,
-      "num": 390863,
-      "word": "初七不出门",
-      "onboard_time": 1708053451,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389728,
@@ -4585,6 +4601,14 @@
       "onboard_time": 1707733172,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 383349,
+      "num": 383349,
+      "word": "12306抢票",
+      "onboard_time": 1708056153,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383111,
@@ -4921,6 +4945,14 @@
       "onboard_time": 1708028475,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 362746,
+      "num": 362746,
+      "word": "贾玲镜头下都是人而不是符号",
+      "onboard_time": 1708054771,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 361592,
@@ -5467,6 +5499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313406,
+      "num": 313406,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "春节假期余额只剩两天",
@@ -5497,14 +5537,6 @@
       "onboard_time": 1707957271,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 309702,
-      "num": 309702,
-      "word": "国乒女团vs印度",
-      "onboard_time": 1708046968,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 308941,
@@ -6299,6 +6331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258579,
+      "num": 258579,
+      "word": "刘松仁宣布不再拍戏",
+      "onboard_time": 1708056872,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258518,
       "num": 258518,
       "word": "热辣滚烫路演",
@@ -6528,6 +6568,14 @@
       "word": "贾玲说李雪琴和乔杉拍卧室戏很大胆",
       "onboard_time": 1707753631,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 248001,
+      "num": 248001,
+      "word": "看电影并不是中间位置最好",
+      "onboard_time": 1708056872,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -7363,6 +7411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218075,
+      "num": 218075,
+      "word": "从西安回来才知道的血泪教训",
+      "onboard_time": 1708055312,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 218012,
       "num": 218012,
       "word": "飞驰人生2比1升级了哪些",
@@ -7496,6 +7552,14 @@
       "word": "印尼一球员比赛时被闪电击中后身亡",
       "onboard_time": 1707751236,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212032,
+      "num": 212032,
+      "word": "釜山世乒赛团体赛",
+      "onboard_time": 1708055011,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -7883,6 +7947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203622,
+      "num": 203622,
+      "word": "律师谈薛之谦被指盗摄",
+      "onboard_time": 1708056811,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203238,
       "num": 203238,
       "word": "凌晨四点妈妈不睡觉",
@@ -8123,6 +8195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 198513,
+      "num": 198513,
+      "word": "会装睡且能听懂人话的狗狗",
+      "onboard_time": 1708054771,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198493,
       "num": 198493,
       "word": "美国当前流感季已有1.5万人死亡",
@@ -8233,6 +8313,14 @@
       "onboard_time": 1707788671,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196238,
+      "num": 196238,
+      "word": "王曼昱3比1巴特拉",
+      "onboard_time": 1708051352,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 195993,
@@ -8451,6 +8539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191026,
+      "num": 191026,
+      "word": "孙颖莎3比1巴特拉",
+      "onboard_time": 1708056390,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190926,
       "num": 190926,
       "word": "广东人迎财神有多拼",
@@ -8552,6 +8648,14 @@
       "word": "千元羽绒服被姥姥家火炕烙糊",
       "onboard_time": 1707781465,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187950,
+      "num": 1834715,
+      "word": "一图看懂开车回家要注意啥",
+      "onboard_time": 1708053813,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -8697,6 +8801,14 @@
       "onboard_time": 1707925654,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183870,
+      "num": 183870,
+      "word": "谷爱凌U池世界杯夺冠",
+      "onboard_time": 1708056694,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 183864,
@@ -8899,6 +9011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179395,
+      "num": 179395,
+      "word": "果粉们开始大批退货VisionPro",
+      "onboard_time": 1708056571,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179334,
       "num": 179334,
       "word": "不扫兴的父母有多难得",
@@ -8929,6 +9049,14 @@
       "onboard_time": 1707965733,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178779,
+      "num": 178779,
+      "word": "短道速滑",
+      "onboard_time": 1708054592,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 178754,
@@ -9507,6 +9635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166308,
+      "num": 166308,
+      "word": "极兔快递股价跳水",
+      "onboard_time": 1708056511,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166039,
       "num": 166039,
       "word": "大衣肩上的扣子",
@@ -9771,6 +9907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159821,
+      "num": 159821,
+      "word": "男子1500米孙龙夺冠",
+      "onboard_time": 1708054711,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159568,
       "num": 159568,
       "word": "高叶 你们不懂逗小狗的乐趣",
@@ -9865,6 +10009,14 @@
       "onboard_time": 1707983911,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 157877,
+      "num": 157877,
+      "word": "国乒女团两度落后两度扳平",
+      "onboard_time": 1708056751,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 157826,
@@ -11203,14 +11355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132515,
-      "num": 132515,
-      "word": "王曼昱3比1巴特拉",
-      "onboard_time": 1708051352,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132375,
       "num": 132375,
       "word": "猫猫财神",
@@ -11331,6 +11475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129785,
+      "num": 129785,
+      "word": "Sora当前存在的弱点",
+      "onboard_time": 1708056931,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 129763,
       "num": 129763,
       "word": "伦纳德缺席对阵勇士比赛",
@@ -11385,14 +11537,6 @@
       "onboard_time": 1707967592,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128937,
-      "num": 128937,
-      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
-      "onboard_time": 1708054233,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128866,
@@ -11571,6 +11715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126714,
+      "num": 126714,
+      "word": "汤普森生涯15000分",
+      "onboard_time": 1708056091,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126650,
       "num": 126650,
       "word": "西安旅游把人都挤成肉夹馍了",
@@ -11681,6 +11833,14 @@
       "onboard_time": 1707664654,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124459,
+      "num": 124459,
+      "word": "机械姬",
+      "onboard_time": 1708057171,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 124323,
@@ -12753,14 +12913,6 @@
       "onboard_time": 1707798456,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 104343,
-      "num": 1670432,
-      "word": "一图看懂开车回家要注意啥",
-      "onboard_time": 1708053813,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104075,

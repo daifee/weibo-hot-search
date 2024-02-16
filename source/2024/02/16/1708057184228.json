@@ -1,0 +1,410 @@
+{
+  "runTime": 1708057184228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2161867,
+        "num": 2161867,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1842785,
+        "num": 1842785,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187950,
+        "num": 1834715,
+        "word": "一图看懂开车回家要注意啥",
+        "onboard_time": 1708053813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1829892,
+        "num": 1829892,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1426882,
+        "num": 1426882,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 820715,
+        "num": 820715,
+        "word": "贾玲下个作品马上开机",
+        "onboard_time": 1708049671,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 738428,
+        "num": 738428,
+        "word": "百余位明星曾发出拒绝电影盗摄倡议",
+        "onboard_time": 1708053511,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 697135,
+        "num": 697135,
+        "word": "林孝埈黄牌",
+        "onboard_time": 1708053872,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653187,
+        "num": 653187,
+        "word": "高考数学无耻得分法",
+        "onboard_time": 1708052731,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 878241,
+        "num": 649650,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 606339,
+        "num": 606339,
+        "word": "白敬亭聊南来北往中的东北话",
+        "onboard_time": 1708053572,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602059,
+        "num": 602059,
+        "word": "买不到返程车票不能按时上班算旷工吗",
+        "onboard_time": 1708050812,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592438,
+        "num": 592438,
+        "word": "梅西第60分钟被换下",
+        "onboard_time": 1708053210,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534125,
+        "num": 534125,
+        "word": "一宝妈妈产子",
+        "onboard_time": 1708047029,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 492110,
+        "num": 492110,
+        "word": "马琳直拍",
+        "onboard_time": 1708054829,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398129,
+        "num": 398129,
+        "word": "江西警方通报电影院吵架打人事件",
+        "onboard_time": 1708050752,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383349,
+        "num": 383349,
+        "word": "12306抢票",
+        "onboard_time": 1708056153,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362746,
+        "num": 362746,
+        "word": "贾玲镜头下都是人而不是符号",
+        "onboard_time": 1708054771,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352707,
+        "num": 352707,
+        "word": "糖尿病一般不是吃糖吃出来的",
+        "onboard_time": 1708041686,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337472,
+        "num": 337472,
+        "word": "印度女团打法有点东西",
+        "onboard_time": 1708051288,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395712,
+        "num": 327687,
+        "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+        "onboard_time": 1708054233,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313406,
+        "num": 313406,
+        "word": "国乒女团vs印度",
+        "onboard_time": 1708046968,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300722,
+        "num": 300722,
+        "word": "王艺迪0比3阿库拉",
+        "onboard_time": 1708053210,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258579,
+        "num": 258579,
+        "word": "刘松仁宣布不再拍戏",
+        "onboard_time": 1708056872,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248001,
+        "num": 248001,
+        "word": "看电影并不是中间位置最好",
+        "onboard_time": 1708056872,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247169,
+        "num": 247169,
+        "word": "魏大勋被强制闭麦",
+        "onboard_time": 1708009054,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235022,
+        "num": 235022,
+        "word": "孙颖莎1比3穆克吉",
+        "onboard_time": 1708048771,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229817,
+        "num": 229817,
+        "word": "这些都属于盗摄",
+        "onboard_time": 1708046849,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228510,
+        "num": 228510,
+        "word": "方时赫为enhypen亲自编曲",
+        "onboard_time": 1708052488,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218075,
+        "num": 218075,
+        "word": "从西安回来才知道的血泪教训",
+        "onboard_time": 1708055312,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 212032,
+        "num": 212032,
+        "word": "釜山世乒赛团体赛",
+        "onboard_time": 1708055011,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203622,
+        "num": 203622,
+        "word": "律师谈薛之谦被指盗摄",
+        "onboard_time": 1708056811,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198513,
+        "num": 198513,
+        "word": "会装睡且能听懂人话的狗狗",
+        "onboard_time": 1708054771,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197589,
+        "num": 197589,
+        "word": "钟楚曦侯雯元一起回国",
+        "onboard_time": 1708044567,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196238,
+        "num": 196238,
+        "word": "王曼昱3比1巴特拉",
+        "onboard_time": 1708051352,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191026,
+        "num": 191026,
+        "word": "孙颖莎3比1巴特拉",
+        "onboard_time": 1708056390,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183870,
+        "num": 183870,
+        "word": "谷爱凌U池世界杯夺冠",
+        "onboard_time": 1708056694,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179395,
+        "num": 179395,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178779,
+        "num": 178779,
+        "word": "短道速滑",
+        "onboard_time": 1708054592,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175408,
+        "num": 175408,
+        "word": "春断食",
+        "onboard_time": 1708049492,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169361,
+        "num": 169361,
+        "word": "孙龙兔子战术",
+        "onboard_time": 1708053687,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166308,
+        "num": 166308,
+        "word": "极兔快递股价跳水",
+        "onboard_time": 1708056511,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159821,
+        "num": 159821,
+        "word": "男子1500米孙龙夺冠",
+        "onboard_time": 1708054711,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159151,
+        "num": 159151,
+        "word": "猫猫因分赃不均不肯相让",
+        "onboard_time": 1708049911,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157877,
+        "num": 157877,
+        "word": "国乒女团两度落后两度扳平",
+        "onboard_time": 1708056751,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145675,
+        "num": 145675,
+        "word": "摆拍失联闹剧的台网红下跪道歉",
+        "onboard_time": 1708050512,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134158,
+        "num": 134158,
+        "word": "大张伟只为自己开的花",
+        "onboard_time": 1708049431,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129785,
+        "num": 129785,
+        "word": "Sora当前存在的弱点",
+        "onboard_time": 1708056931,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126714,
+        "num": 126714,
+        "word": "汤普森生涯15000分",
+        "onboard_time": 1708056091,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124459,
+        "num": 124459,
+        "word": "机械姬",
+        "onboard_time": 1708057171,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}
