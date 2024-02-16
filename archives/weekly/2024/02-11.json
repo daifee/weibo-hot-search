@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708057184228,
+  "endTime": 1708058115213,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2158838,
+      "num": 2158838,
+      "word": "初七不出门",
+      "onboard_time": 1708053451,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2110810,
       "num": 1601619,
       "word": "春山学是什么梗",
@@ -425,14 +433,6 @@
       "onboard_time": 1707723448,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1842785,
-      "num": 1842785,
-      "word": "初七不出门",
-      "onboard_time": 1708053451,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1829892,
@@ -2043,6 +2043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 762444,
+      "num": 762444,
+      "word": "刘松仁宣布不再拍戏",
+      "onboard_time": 1708056872,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758832,
       "num": 758832,
       "word": "魏晨回应杨紫给他投票",
@@ -2451,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 671137,
+      "num": 671137,
+      "word": "高考数学无耻得分法",
+      "onboard_time": 1708052731,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 671051,
       "num": 671051,
       "word": "丁程鑫微信好友第六位是王源",
@@ -2531,14 +2547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 653187,
-      "num": 653187,
-      "word": "高考数学无耻得分法",
-      "onboard_time": 1708052731,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 651231,
       "num": 651231,
       "word": "农村老人沉迷刷APP挣钱",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1707644370,
       "rank": 15,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 638185,
+      "num": 638185,
+      "word": "12306抢票",
+      "onboard_time": 1708056153,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638105,
@@ -2819,6 +2835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 602153,
+      "num": 602153,
+      "word": "梅西第60分钟被换下",
+      "onboard_time": 1708053210,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596533,
       "num": 596533,
       "word": "黑执事作者曾阻止真人版角色恋爱",
@@ -2841,14 +2865,6 @@
       "onboard_time": 1707832479,
       "rank": 13,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 592438,
-      "num": 592438,
-      "word": "梅西第60分钟被换下",
-      "onboard_time": 1708053210,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 592391,
@@ -3001,6 +3017,14 @@
       "onboard_time": 1707703171,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565392,
+      "num": 565392,
+      "word": "马琳直拍",
+      "onboard_time": 1708054829,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 564754,
@@ -3555,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498132,
+      "num": 498132,
+      "word": "律师谈薛之谦被指盗摄",
+      "onboard_time": 1708056811,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 497039,
       "num": 497039,
       "word": "春节档票房",
@@ -3601,14 +3633,6 @@
       "onboard_time": 1707905312,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 492110,
-      "num": 492110,
-      "word": "马琳直拍",
-      "onboard_time": 1708054829,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 491280,
@@ -4331,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413265,
+      "num": 413265,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411531,
       "num": 411531,
       "word": "授她以柄",
@@ -4499,6 +4531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399737,
+      "num": 369788,
+      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+      "onboard_time": 1708054233,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399454,
       "num": 399454,
       "word": "贾玲下一部电影",
@@ -4539,14 +4579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 395712,
-      "num": 327687,
-      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
-      "onboard_time": 1708054233,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395418,
       "num": 395418,
       "word": "徐梦洁回应演短剧",
@@ -4579,6 +4611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387660,
+      "num": 387660,
+      "word": "果粉们开始大批退货VisionPro",
+      "onboard_time": 1708056571,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 387154,
       "num": 387154,
       "word": "斐玲 妈知道",
@@ -4601,14 +4641,6 @@
       "onboard_time": 1707733172,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 383349,
-      "num": 383349,
-      "word": "12306抢票",
-      "onboard_time": 1708056153,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383111,
@@ -5475,6 +5507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314943,
+      "num": 314943,
+      "word": "看电影并不是中间位置最好",
+      "onboard_time": 1708056872,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 314708,
       "num": 314708,
       "word": "王楚钦希望世乒赛尽自己一份力",
@@ -5497,14 +5537,6 @@
       "onboard_time": 1707869847,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 313406,
-      "num": 313406,
-      "word": "国乒女团vs印度",
-      "onboard_time": 1708046968,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 313004,
@@ -6315,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259579,
+      "num": 259579,
+      "word": "谷爱凌U池世界杯夺冠",
+      "onboard_time": 1708056694,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259368,
       "num": 259368,
       "word": "情头",
@@ -6329,14 +6369,6 @@
       "onboard_time": 1707977489,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258579,
-      "num": 258579,
-      "word": "刘松仁宣布不再拍戏",
-      "onboard_time": 1708056872,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 258518,
@@ -6507,6 +6539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 251425,
+      "num": 251425,
+      "word": "国乒女团两度落后两度扳平",
+      "onboard_time": 1708056751,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251201,
       "num": 251201,
       "word": "飞驰人生2暴风雪里赛车燃到了",
@@ -6568,14 +6608,6 @@
       "word": "贾玲说李雪琴和乔杉拍卧室戏很大胆",
       "onboard_time": 1707753631,
       "rank": 21,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 248001,
-      "num": 248001,
-      "word": "看电影并不是中间位置最好",
-      "onboard_time": 1708056872,
-      "rank": 24,
       "category": "电影"
     },
     {
@@ -7947,14 +7979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203622,
-      "num": 203622,
-      "word": "律师谈薛之谦被指盗摄",
-      "onboard_time": 1708056811,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203238,
       "num": 203238,
       "word": "凌晨四点妈妈不睡觉",
@@ -7995,11 +8019,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202052,
+      "num": 202052,
+      "word": "王曼昱3比1巴特拉",
+      "onboard_time": 1708051352,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201940,
       "num": 201940,
       "word": "张小斐好酷",
       "onboard_time": 1707738935,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 201793,
+      "num": 201793,
+      "word": "机械姬",
+      "onboard_time": 1708057171,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -8313,14 +8353,6 @@
       "onboard_time": 1707788671,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196238,
-      "num": 196238,
-      "word": "王曼昱3比1巴特拉",
-      "onboard_time": 1708051352,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 195993,
@@ -8803,14 +8835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183870,
-      "num": 183870,
-      "word": "谷爱凌U池世界杯夺冠",
-      "onboard_time": 1708056694,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183864,
       "num": 183864,
       "word": "为什么猪肉没有以前的好吃了",
@@ -9009,14 +9033,6 @@
       "onboard_time": 1708011336,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179395,
-      "num": 179395,
-      "word": "果粉们开始大批退货VisionPro",
-      "onboard_time": 1708056571,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 179334,
@@ -9323,6 +9339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171020,
+      "num": 171020,
+      "word": "极兔快递股价跳水",
+      "onboard_time": 1708056511,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170709,
       "num": 170709,
       "word": "长大了终于可以欺负小孩了",
@@ -9483,6 +9507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168655,
+      "num": 168655,
+      "word": "十四冬短道速滑众星云集",
+      "onboard_time": 1708057294,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168430,
       "num": 168430,
       "word": "8个好习惯让你越活越年轻",
@@ -9635,14 +9667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166308,
-      "num": 166308,
-      "word": "极兔快递股价跳水",
-      "onboard_time": 1708056511,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 166039,
       "num": 166039,
       "word": "大衣肩上的扣子",
@@ -9712,6 +9736,14 @@
       "word": "北京国安官宣5名球员加盟",
       "onboard_time": 1707907294,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165041,
+      "num": 165041,
+      "word": "乒乓球",
+      "onboard_time": 1708057953,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -10009,14 +10041,6 @@
       "onboard_time": 1707983911,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 157877,
-      "num": 157877,
-      "word": "国乒女团两度落后两度扳平",
-      "onboard_time": 1708056751,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 157826,
@@ -11187,6 +11211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136332,
+      "num": 136332,
+      "word": "勇士vs爵士",
+      "onboard_time": 1708057953,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136327,
       "num": 136327,
       "word": "月老和财神相遇了",
@@ -11225,6 +11257,14 @@
       "onboard_time": 1707834458,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135724,
+      "num": 135724,
+      "word": "海南一游客退房时被要求擦马桶",
+      "onboard_time": 1708057953,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135432,
@@ -11833,14 +11873,6 @@
       "onboard_time": 1707664654,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124459,
-      "num": 124459,
-      "word": "机械姬",
-      "onboard_time": 1708057171,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 124323,

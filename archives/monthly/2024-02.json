@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708057184228,
+  "endTime": 1708058115213,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2158838,
+      "num": 2158838,
+      "word": "初七不出门",
+      "onboard_time": 1708053451,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2157942,
       "num": 1088756,
       "word": "魏晨魏大勋白敬亭帅了一下又一下",
@@ -1496,14 +1504,6 @@
       "word": "我的婚礼取消了这七个环节",
       "onboard_time": 1706836530,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1842785,
-      "num": 1842785,
-      "word": "初七不出门",
-      "onboard_time": 1708053451,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6347,6 +6347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 762444,
+      "num": 762444,
+      "word": "刘松仁宣布不再拍戏",
+      "onboard_time": 1708056872,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761830,
       "num": 761830,
       "word": "你的微信聊天记录值多少钱",
@@ -7539,6 +7547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 671137,
+      "num": 671137,
+      "word": "高考数学无耻得分法",
+      "onboard_time": 1708052731,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 671051,
       "num": 671051,
       "word": "丁程鑫微信好友第六位是王源",
@@ -7761,14 +7777,6 @@
       "onboard_time": 1707493268,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 653187,
-      "num": 653187,
-      "word": "高考数学无耻得分法",
-      "onboard_time": 1708052731,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 651231,
@@ -8017,6 +8025,14 @@
       "onboard_time": 1707533798,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638185,
+      "num": 638185,
+      "word": "12306抢票",
+      "onboard_time": 1708056153,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638111,
@@ -8595,6 +8611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 602153,
+      "num": 602153,
+      "word": "梅西第60分钟被换下",
+      "onboard_time": 1708053210,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601025,
       "num": 601025,
       "word": "终于等到肖战",
@@ -8697,14 +8721,6 @@
       "onboard_time": 1707531760,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 592438,
-      "num": 592438,
-      "word": "梅西第60分钟被换下",
-      "onboard_time": 1708053210,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 592391,
@@ -9177,6 +9193,14 @@
       "onboard_time": 1707703171,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565392,
+      "num": 565392,
+      "word": "马琳直拍",
+      "onboard_time": 1708054829,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 564754,
@@ -10675,6 +10699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498132,
+      "num": 498132,
+      "word": "律师谈薛之谦被指盗摄",
+      "onboard_time": 1708056811,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 497754,
       "num": 497754,
       "word": "仙剑四豆瓣开分4.2",
@@ -10809,14 +10841,6 @@
       "onboard_time": 1707905312,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 492110,
-      "num": 492110,
-      "word": "马琳直拍",
-      "onboard_time": 1708054829,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 491345,
@@ -12771,6 +12795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413265,
+      "num": 413265,
+      "word": "国乒女团vs印度",
+      "onboard_time": 1708046968,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412091,
       "num": 412091,
       "word": "时代少年团王者技术",
@@ -13171,6 +13203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399737,
+      "num": 369788,
+      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+      "onboard_time": 1708054233,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399454,
       "num": 399454,
       "word": "贾玲下一部电影",
@@ -13304,14 +13344,6 @@
       "word": "花花",
       "onboard_time": 1707526537,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395712,
-      "num": 327687,
-      "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
-      "onboard_time": 1708054233,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -13539,6 +13571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387660,
+      "num": 387660,
+      "word": "果粉们开始大批退货VisionPro",
+      "onboard_time": 1708056571,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 387518,
       "num": 387518,
       "word": "程潇琉璃龙女妆",
@@ -13680,14 +13720,6 @@
       "word": "韩籍博士称中国电子支付需改进",
       "onboard_time": 1707029067,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383349,
-      "num": 383349,
-      "word": "12306抢票",
-      "onboard_time": 1708056153,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -16139,6 +16171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314943,
+      "num": 314943,
+      "word": "看电影并不是中间位置最好",
+      "onboard_time": 1708056872,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 314708,
       "num": 314708,
       "word": "王楚钦希望世乒赛尽自己一份力",
@@ -16201,14 +16241,6 @@
       "onboard_time": 1707396453,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313406,
-      "num": 313406,
-      "word": "国乒女团vs印度",
-      "onboard_time": 1708046968,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 313328,
@@ -18955,6 +18987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259579,
+      "num": 259579,
+      "word": "谷爱凌U池世界杯夺冠",
+      "onboard_time": 1708056694,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259368,
       "num": 259368,
       "word": "情头",
@@ -19001,14 +19041,6 @@
       "onboard_time": 1706922330,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258579,
-      "num": 258579,
-      "word": "刘松仁宣布不再拍戏",
-      "onboard_time": 1708056872,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 258518,
@@ -19563,6 +19595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251425,
+      "num": 251425,
+      "word": "国乒女团两度落后两度扳平",
+      "onboard_time": 1708056751,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251312,
       "num": 251312,
       "word": "梅西替补",
@@ -19769,14 +19809,6 @@
       "onboard_time": 1706779230,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248001,
-      "num": 248001,
-      "word": "看电影并不是中间位置最好",
-      "onboard_time": 1708056872,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 247780,
@@ -24067,14 +24099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203622,
-      "num": 203622,
-      "word": "律师谈薛之谦被指盗摄",
-      "onboard_time": 1708056811,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203589,
       "num": 203589,
       "word": "山东春晚",
@@ -24259,6 +24283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202052,
+      "num": 202052,
+      "word": "王曼昱3比1巴特拉",
+      "onboard_time": 1708051352,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201996,
       "num": 201996,
       "word": "成毅星星铆钉皮衣",
@@ -24321,6 +24353,14 @@
       "onboard_time": 1707279213,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 201793,
+      "num": 201793,
+      "word": "机械姬",
+      "onboard_time": 1708057171,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 201721,
@@ -25185,14 +25225,6 @@
       "onboard_time": 1707788671,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196238,
-      "num": 196238,
-      "word": "王曼昱3比1巴特拉",
-      "onboard_time": 1708051352,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 196166,
@@ -27051,14 +27083,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 183870,
-      "num": 183870,
-      "word": "谷爱凌U池世界杯夺冠",
-      "onboard_time": 1708056694,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183864,
       "num": 183864,
       "word": "为什么猪肉没有以前的好吃了",
@@ -27577,14 +27601,6 @@
       "onboard_time": 1706756191,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179395,
-      "num": 179395,
-      "word": "果粉们开始大批退货VisionPro",
-      "onboard_time": 1708056571,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 179376,
@@ -28779,6 +28795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171020,
+      "num": 171020,
+      "word": "极兔快递股价跳水",
+      "onboard_time": 1708056511,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170961,
       "num": 170961,
       "word": "高叶理解的红气养人",
@@ -29235,6 +29259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168655,
+      "num": 168655,
+      "word": "十四冬短道速滑众星云集",
+      "onboard_time": 1708057294,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168468,
       "num": 168468,
       "word": "春节美甲部分店铺限制团购",
@@ -29619,14 +29651,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 166308,
-      "num": 166308,
-      "word": "极兔快递股价跳水",
-      "onboard_time": 1708056511,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 166226,
       "num": 166226,
       "word": "秦岚评价迪丽热巴",
@@ -29832,6 +29856,14 @@
       "word": "冰墩墩我想你了",
       "onboard_time": 1707004105,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165041,
+      "num": 165041,
+      "word": "乒乓球",
+      "onboard_time": 1708057953,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -30801,14 +30833,6 @@
       "onboard_time": 1707286170,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157877,
-      "num": 157877,
-      "word": "国乒女团两度落后两度扳平",
-      "onboard_time": 1708056751,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 157855,
@@ -34259,6 +34283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136332,
+      "num": 136332,
+      "word": "勇士vs爵士",
+      "onboard_time": 1708057953,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136327,
       "num": 136327,
       "word": "月老和财神相遇了",
@@ -34385,6 +34417,14 @@
       "onboard_time": 1706968411,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135724,
+      "num": 135724,
+      "word": "海南一游客退房时被要求擦马桶",
+      "onboard_time": 1708057953,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135612,
@@ -36345,14 +36385,6 @@
       "onboard_time": 1707206188,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 124459,
-      "num": 124459,
-      "word": "机械姬",
-      "onboard_time": 1708057171,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 124400,
