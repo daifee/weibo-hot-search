@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708125379485,
+  "endTime": 1708126432480,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -75,20 +75,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 589411,
+      "num": 589411,
+      "word": "母亲连夜杀10只鸡分给返程儿女",
+      "onboard_time": 1708119135,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546765,
       "num": 263280,
       "word": "吃的干净真的会瘦",
       "onboard_time": 1708095213,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 477422,
-      "num": 477422,
-      "word": "母亲连夜杀10只鸡分给返程儿女",
-      "onboard_time": 1708119135,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458363,
@@ -105,6 +105,14 @@
       "onboard_time": 1708084413,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 434348,
+      "num": 434348,
+      "word": "为救同学挡8刀的女孩成为反诈民警",
+      "onboard_time": 1708118955,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 428971,
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325821,
-      "num": 325821,
-      "word": "为救同学挡8刀的女孩成为反诈民警",
-      "onboard_time": 1708118955,
-      "rank": 46,
-      "category": "社会正能量"
+      "raw_hot": 349437,
+      "num": 349437,
+      "word": "大年初八",
+      "onboard_time": 1708125322,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 314867,
@@ -195,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 300364,
+      "num": 300364,
+      "word": "过年采访我的丁克舅舅",
+      "onboard_time": 1708086213,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272857,
       "num": 272857,
       "word": "韩国五大医院医生集体辞职抗议医学院扩招",
@@ -208,14 +224,6 @@
       "word": "双鱼座生日快乐",
       "onboard_time": 1708095996,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 235394,
-      "num": 235394,
-      "word": "过年采访我的丁克舅舅",
-      "onboard_time": 1708086213,
-      "rank": 33,
       "category": "情感"
     },
     {
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185612,
+      "num": 185612,
+      "word": "张小斐主演票房破90亿",
+      "onboard_time": 1708110257,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185512,
       "num": 185512,
       "word": "阿姨 完蛋真碰到穷鬼了",
@@ -281,6 +297,14 @@
       "onboard_time": 1708084593,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164205,
+      "num": 164205,
+      "word": "红毯先生退出春节档",
+      "onboard_time": 1708126222,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 163676,
@@ -307,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152164,
-      "num": 149604,
-      "word": "张小斐主演票房破90亿",
-      "onboard_time": 1708110257,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141256,
       "num": 141256,
       "word": "一个心理医生告诫的冷知识",
@@ -337,6 +353,14 @@
       "onboard_time": 1708083396,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126799,
+      "num": 126799,
+      "word": "春节假期最后一天",
+      "onboard_time": 1708125322,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126510,
@@ -363,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121231,
+      "num": 121231,
+      "word": "中美慕尼黑举行会见",
+      "onboard_time": 1708125020,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114903,
       "num": 223887,
       "word": "胖东来发布情况说明",
       "onboard_time": 1708091198,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112039,
+      "num": 78949,
+      "word": "郑渊洁父亲逝世",
+      "onboard_time": 1708125619,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 105422,
@@ -385,6 +425,14 @@
       "onboard_time": 1708087834,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99629,
+      "num": 99629,
+      "word": "胡锡进谈梅西香港行主办方改口",
+      "onboard_time": 1708125562,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99557,
@@ -411,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94904,
+      "num": 94904,
+      "word": "春节回家发现未婚适龄女性比已婚的还多",
+      "onboard_time": 1708086213,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92866,
       "num": 92866,
       "word": "张小斐 一个演员的敏感力",
@@ -427,12 +483,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83543,
-      "num": 83543,
-      "word": "春节回家发现未婚适龄女性比已婚的还多",
-      "onboard_time": 1708086213,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 84497,
+      "num": 84497,
+      "word": "董志豪200蛙夺冠",
+      "onboard_time": 1708124839,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 80131,
@@ -443,28 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74466,
-      "num": 74466,
-      "word": "董志豪200蛙夺冠",
-      "onboard_time": 1708124839,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72923,
-      "num": 72923,
+      "raw_hot": 79268,
+      "num": 79268,
       "word": "兰博基尼回村撞报废车主否认车是租的",
       "onboard_time": 1708112056,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67361,
-      "num": 67361,
-      "word": "大年初八",
+      "raw_hot": 71764,
+      "num": 71764,
+      "word": "潘展乐3冠王",
       "onboard_time": 1708125322,
-      "rank": 24,
-      "category": "情感"
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71185,
+      "num": 71185,
+      "word": "马思纯天选疼痛文学女主",
+      "onboard_time": 1708126039,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 64869,
@@ -491,32 +547,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45331,
-      "num": 45331,
-      "word": "春节假期最后一天",
-      "onboard_time": 1708125322,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43398,
-      "num": 43398,
-      "word": "中美慕尼黑举行会见",
-      "onboard_time": 1708125020,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 40474,
-      "num": 40474,
+      "raw_hot": 44884,
+      "num": 44884,
       "word": "一百多年前的猫奴",
       "onboard_time": 1708115419,
       "rank": 46,
       "category": "幽默"
     },
     {
-      "raw_hot": 37134,
-      "num": 37134,
+      "raw_hot": 39905,
+      "num": 39905,
       "word": "林亦扬殷果打火机许愿",
       "onboard_time": 1708122377,
       "rank": 43,
@@ -531,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32542,
-      "num": 32542,
-      "word": "潘展乐3冠王",
-      "onboard_time": 1708125322,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 24654,
+      "num": 442354,
+      "word": "网络中国节",
+      "onboard_time": 1708090956,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20626,
@@ -545,14 +585,6 @@
       "onboard_time": 1708117396,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19996,
-      "num": 331884,
-      "word": "网络中国节",
-      "onboard_time": 1708090956,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15882,
