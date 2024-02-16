@@ -1,0 +1,410 @@
+{
+  "runTime": 1708075012637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2210275,
+        "num": 2210275,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1381415,
+        "num": 1381415,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4865,
+        "num": 1105961,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964756,
+        "num": 964756,
+        "word": "海底捞回应女主播在包厢拍不雅照",
+        "onboard_time": 1708072772,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929596,
+        "num": 929596,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715572,
+        "num": 715572,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572360,
+        "num": 572360,
+        "word": "小S二女儿偶像是张元英",
+        "onboard_time": 1708073850,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547915,
+        "num": 547915,
+        "word": "飞驰人生2观众满意度第一",
+        "onboard_time": 1708068691,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461132,
+        "num": 461132,
+        "word": "在暴雪时分豆瓣开分6.9",
+        "onboard_time": 1708070490,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249435,
+        "num": 249435,
+        "word": "混合接力黑龙江队被取消成绩",
+        "onboard_time": 1708067310,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29253,
+        "num": 249232,
+        "word": "古人如何玩转冰雪运动",
+        "onboard_time": 1708074572,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766563,
+        "num": 249041,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 530510,
+        "num": 248988,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510536,
+        "num": 248638,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457104,
+        "num": 248563,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441427,
+        "num": 248219,
+        "word": "为什么阴干的衣服有臭味",
+        "onboard_time": 1708067251,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 371453,
+        "num": 248046,
+        "word": "于适飞驰人生27秒卡点视频",
+        "onboard_time": 1708071210,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360018,
+        "num": 247855,
+        "word": "杨超越 无名之辈2",
+        "onboard_time": 1708072591,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436465,
+        "num": 247673,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347454,
+        "num": 247445,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282771,
+        "num": 247125,
+        "word": "杭州男子一条鱼卖了37万",
+        "onboard_time": 1708070191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260658,
+        "num": 246845,
+        "word": "天津景区男厕改女厕男子带队闯入",
+        "onboard_time": 1708073908,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246840,
+        "num": 246840,
+        "word": "二刷热辣滚烫发现的隐藏彩蛋",
+        "onboard_time": 1708068871,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245605,
+        "num": 245605,
+        "word": "萨摩怒和萨摩耶",
+        "onboard_time": 1708070793,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231853,
+        "num": 231853,
+        "word": "文旅局回应海南一游客退房时被要求擦马桶",
+        "onboard_time": 1708072889,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230059,
+        "num": 230059,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223528,
+        "num": 223528,
+        "word": "吕修诚缝了16针",
+        "onboard_time": 1708074753,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193664,
+        "num": 193664,
+        "word": "要久久爱豆瓣开分7.2",
+        "onboard_time": 1708070910,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190109,
+        "num": 190109,
+        "word": "窝囊废是雷佳音的统治区",
+        "onboard_time": 1708071992,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144640,
+        "num": 182417,
+        "word": "王家卫查户口式选演员",
+        "onboard_time": 1708070370,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205848,
+        "num": 182133,
+        "word": "本来在家过年被老公接走了",
+        "onboard_time": 1708072649,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180632,
+        "num": 180632,
+        "word": "耐克将裁员约2%",
+        "onboard_time": 1708074028,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170272,
+        "num": 170272,
+        "word": "吴京与家人新加坡过春节",
+        "onboard_time": 1708063053,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165251,
+        "num": 165251,
+        "word": "KCON两日阵容",
+        "onboard_time": 1708074453,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163870,
+        "num": 163870,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "IU新歌孢子MV",
+        "onboard_time": 1708074871,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156970,
+        "num": 156970,
+        "word": "钟楚曦侯雯元喝同一瓶水",
+        "onboard_time": 1708061375,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147751,
+        "num": 147751,
+        "word": "梨型身材全面瘦腿",
+        "onboard_time": 1708071450,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131369,
+        "num": 131369,
+        "word": "任子威被撞",
+        "onboard_time": 1708058373,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129334,
+        "num": 129334,
+        "word": "农村婚恋市场一动一不动成标配",
+        "onboard_time": 1708062632,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65784,
+        "num": 129157,
+        "word": "十四冬开幕式剧透来了",
+        "onboard_time": 1708053752,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "伊能静儿子最新女装照",
+        "onboard_time": 1708062093,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125784,
+        "num": 125784,
+        "word": "国羽女团2比3日本",
+        "onboard_time": 1708071391,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125274,
+        "num": 125274,
+        "word": "玲姐 我有点想看哎",
+        "onboard_time": 1708066291,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121990,
+        "num": 121990,
+        "word": "乐莹被恶剪是贾玲亲身经历",
+        "onboard_time": 1708074152,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121632,
+        "num": 121632,
+        "word": "十个勤天费加罗男士瑞雪封面",
+        "onboard_time": 1708067251,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118164,
+        "num": 118164,
+        "word": "用完的唇膏口红不要扔",
+        "onboard_time": 1708065993,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 116053,
+        "num": 116053,
+        "word": "ENHYPEN歌词分配",
+        "onboard_time": 1708071153,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116027,
+        "num": 116027,
+        "word": "避险式断亲",
+        "onboard_time": 1708074272,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115828,
+        "num": 115828,
+        "word": "鱼骨婚纱",
+        "onboard_time": 1708070010,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把握传承和创新的关系#"
+    }
+  }
+}

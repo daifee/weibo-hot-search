@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708072487680,
+  "endTime": 1708075012637,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1987,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2210275,
+      "num": 2210275,
+      "word": "六公主评盗摄现象",
+      "onboard_time": 1708071750,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2205714,
       "num": 2205714,
       "word": "元宵晚会 上春山",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704283411,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2051892,
-      "num": 2051892,
-      "word": "春晚收视率破30%",
-      "onboard_time": 1707493514,
-      "rank": 15,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
