@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708049021782,
+  "endTime": 1708050136160,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2722790,
+      "num": 2722790,
+      "word": "贾玲发文",
+      "onboard_time": 1708046131,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2720827,
       "num": 1836719,
       "word": "中国足协已暂停与阿根廷足协合作",
@@ -897,14 +905,6 @@
       "onboard_time": 1707740614,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2336751,
-      "num": 2336751,
-      "word": "贾玲发文",
-      "onboard_time": 1708046131,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 2334630,
@@ -3595,6 +3595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1111232,
+      "num": 1111232,
+      "word": "一宝妈妈产子",
+      "onboard_time": 1708047029,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1108411,
       "num": 1108411,
       "word": "五十度暴雪",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1707626789,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 986790,
+      "num": 986790,
+      "word": "孙颖莎1比3穆克吉",
+      "onboard_time": 1708048771,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 986429,
@@ -6073,6 +6089,14 @@
       "onboard_time": 1707102812,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783083,
+      "num": 783083,
+      "word": "今年的婚催得比往年更猛烈一些",
+      "onboard_time": 1708045529,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 782947,
@@ -8035,14 +8059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632985,
-      "num": 632985,
-      "word": "今年的婚催得比往年更猛烈一些",
-      "onboard_time": 1708045529,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 632716,
       "num": 632716,
       "word": "美甲 约不上",
@@ -8129,14 +8145,6 @@
       "onboard_time": 1707834280,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628172,
-      "num": 628172,
-      "word": "一宝妈妈产子",
-      "onboard_time": 1708047029,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 628081,
@@ -10043,6 +10051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521985,
+      "num": 521985,
+      "word": "薛之谦回应盗摄",
+      "onboard_time": 1708049731,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521541,
       "num": 521541,
       "word": "赵露思吊带丝绸裙",
@@ -10819,6 +10835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486042,
+      "num": 486042,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 485515,
       "num": 485515,
       "word": "香港特区政府回应梅西缺战",
@@ -11025,14 +11049,6 @@
       "onboard_time": 1707118529,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 476853,
-      "num": 476853,
-      "word": "Sora",
-      "onboard_time": 1708046309,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 476552,
@@ -12211,6 +12227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427075,
+      "num": 427075,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 426938,
       "num": 426938,
       "word": "张小斐送过贾玲一朵小红花",
@@ -12329,6 +12353,14 @@
       "onboard_time": 1706773531,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423183,
+      "num": 423183,
+      "word": "特朗普将接受刑事审判",
+      "onboard_time": 1708045529,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 423140,
@@ -12497,14 +12529,6 @@
       "onboard_time": 1707090327,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 418280,
-      "num": 418280,
-      "word": "特朗普将接受刑事审判",
-      "onboard_time": 1708045529,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 417952,
@@ -12788,7 +12812,7 @@
     },
     {
       "raw_hot": 406705,
-      "num": 278102,
+      "num": 305258,
       "word": "女子泡影院一天看完春节档电影患青光眼",
       "onboard_time": 1708044328,
       "rank": 20,
@@ -14299,6 +14323,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 363613,
+      "num": 363613,
+      "word": "贾玲下个作品马上开机",
+      "onboard_time": 1708049671,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 363386,
       "num": 363386,
       "word": "请和我的老公结婚第12集",
@@ -14704,14 +14736,6 @@
       "word": "金像奖提名",
       "onboard_time": 1707204451,
       "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 351870,
-      "num": 351870,
-      "word": "这些都属于盗摄",
-      "onboard_time": 1708046849,
-      "rank": 45,
       "category": "电影"
     },
     {
@@ -15731,14 +15755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320268,
-      "num": 320268,
-      "word": "孙颖莎1比3穆克吉",
-      "onboard_time": 1708048771,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
@@ -16097,6 +16113,14 @@
       "onboard_time": 1708041085,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312869,
+      "num": 312869,
+      "word": "春断食",
+      "onboard_time": 1708049492,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 312698,
@@ -22011,6 +22035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 219534,
+      "num": 219534,
+      "word": "丫丫吃上饺子",
+      "onboard_time": 1708049492,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219510,
       "num": 219510,
       "word": "白敬亭北京小爷上身",
@@ -22755,6 +22787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211035,
+      "num": 211035,
+      "word": "王鹤棣哈利伯顿球局",
+      "onboard_time": 1708047391,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 210947,
       "num": 210947,
       "word": "爸爸在家里安了个升降机",
@@ -23419,6 +23459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205876,
+      "num": 205876,
+      "word": "釜山世乒赛",
+      "onboard_time": 1708049613,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205835,
       "num": 205835,
       "word": "白敬亭红葫芦背包",
@@ -23609,6 +23657,14 @@
       "onboard_time": 1707052595,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204808,
+      "num": 204808,
+      "word": "一提两箱",
+      "onboard_time": 1708049253,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 204805,
@@ -24537,6 +24593,14 @@
       "onboard_time": 1707813519,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199128,
+      "num": 199128,
+      "word": "OpenAI首个视频生成模型发布",
+      "onboard_time": 1708049554,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 199076,
@@ -27571,14 +27635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177214,
-      "num": 177214,
-      "word": "王鹤棣哈利伯顿球局",
-      "onboard_time": 1708047391,
-      "rank": 29,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 177169,
       "num": 177169,
       "word": "减到什么程度才算减肥成功",
@@ -28289,6 +28345,14 @@
       "onboard_time": 1707963631,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172153,
+      "num": 172153,
+      "word": "大张伟只为自己开的花",
+      "onboard_time": 1708049431,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 172002,
@@ -29585,6 +29649,14 @@
       "onboard_time": 1706742740,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164392,
+      "num": 164392,
+      "word": "猫猫因分赃不均不肯相让",
+      "onboard_time": 1708049911,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 164373,
@@ -31259,6 +31331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152067,
+      "num": 152067,
+      "word": "第二十条 秋菊打官司",
+      "onboard_time": 1708048412,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152050,
       "num": 144778,
       "word": "我努力过无数次 机会只在一两次",
@@ -32307,6 +32387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145674,
+      "num": 145674,
+      "word": "明星大侦探",
+      "onboard_time": 1708048893,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145660,
       "num": 145660,
       "word": "奶奶这不是你的梦中情孙吗",
@@ -32649,6 +32737,14 @@
       "onboard_time": 1707269790,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143510,
+      "num": 143510,
+      "word": "勇士三次犯规漏吹",
+      "onboard_time": 1708049492,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 143375,
@@ -33443,6 +33539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138757,
+      "num": 138757,
+      "word": "姆巴佩与皇马达成口头协议",
+      "onboard_time": 1708050028,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138592,
       "num": 197063,
       "word": "女孩不回家过年立省一万",
@@ -34081,14 +34185,6 @@
       "onboard_time": 1707025591,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135016,
-      "num": 135016,
-      "word": "第二十条 秋菊打官司",
-      "onboard_time": 1708048412,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 134989,
@@ -36849,14 +36945,6 @@
       "onboard_time": 1707649174,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118728,
-      "num": 118728,
-      "word": "明星大侦探",
-      "onboard_time": 1708048893,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 118683,

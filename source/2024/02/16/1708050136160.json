@@ -1,0 +1,410 @@
+{
+  "runTime": 1708050136160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2722790,
+        "num": 2722790,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1519576,
+        "num": 1519576,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17782,
+        "num": 1259384,
+        "word": "我与家人合个影",
+        "onboard_time": 1707969690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111232,
+        "num": 1111232,
+        "word": "一宝妈妈产子",
+        "onboard_time": 1708047029,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 986790,
+        "num": 986790,
+        "word": "孙颖莎1比3穆克吉",
+        "onboard_time": 1708048771,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915059,
+        "num": 915059,
+        "word": "糖尿病一般不是吃糖吃出来的",
+        "onboard_time": 1708041686,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 783083,
+        "num": 783083,
+        "word": "今年的婚催得比往年更猛烈一些",
+        "onboard_time": 1708045529,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 769774,
+        "num": 769774,
+        "word": "大年初七",
+        "onboard_time": 1708039640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570309,
+        "num": 570309,
+        "word": "钟楚曦侯雯元一起回国",
+        "onboard_time": 1708044567,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527082,
+        "num": 527082,
+        "word": "魏大勋被强制闭麦",
+        "onboard_time": 1708009054,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660712,
+        "num": 524542,
+        "word": "春节第五天我偷跑出门开钟点房了",
+        "onboard_time": 1708005995,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521985,
+        "num": 521985,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486042,
+        "num": 486042,
+        "word": "Sora",
+        "onboard_time": 1708046309,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 475771,
+        "num": 475771,
+        "word": "苹果停止签署iOS17.3",
+        "onboard_time": 1708044029,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 431812,
+        "num": 431812,
+        "word": "三种花色的咪咪不一定是三花",
+        "onboard_time": 1708046370,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427075,
+        "num": 427075,
+        "word": "这些都属于盗摄",
+        "onboard_time": 1708046849,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423183,
+        "num": 423183,
+        "word": "特朗普将接受刑事审判",
+        "onboard_time": 1708045529,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363613,
+        "num": 363613,
+        "word": "贾玲下个作品马上开机",
+        "onboard_time": 1708049671,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332230,
+        "num": 332230,
+        "word": "为什么费列罗卖不动了",
+        "onboard_time": 1708006055,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312869,
+        "num": 312869,
+        "word": "春断食",
+        "onboard_time": 1708049492,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 365289,
+        "num": 305258,
+        "word": "女子泡影院一天看完春节档电影患青光眼",
+        "onboard_time": 1708044328,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278579,
+        "num": 278579,
+        "word": "陈都灵李公子30秒文学",
+        "onboard_time": 1708042048,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263937,
+        "num": 263937,
+        "word": "新能源车主称海南出岛船票已等6天",
+        "onboard_time": 1708043068,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231171,
+        "num": 231171,
+        "word": "看电影拍照发朋友圈算盗摄吗",
+        "onboard_time": 1708041085,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219534,
+        "num": 219534,
+        "word": "丫丫吃上饺子",
+        "onboard_time": 1708049492,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217933,
+        "num": 217933,
+        "word": "暴瘦后身体会发生哪些变化",
+        "onboard_time": 1708046489,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211035,
+        "num": 211035,
+        "word": "王鹤棣哈利伯顿球局",
+        "onboard_time": 1708047391,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 205876,
+        "num": 205876,
+        "word": "釜山世乒赛",
+        "onboard_time": 1708049613,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204808,
+        "num": 204808,
+        "word": "一提两箱",
+        "onboard_time": 1708049253,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199128,
+        "num": 199128,
+        "word": "OpenAI首个视频生成模型发布",
+        "onboard_time": 1708049554,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198797,
+        "num": 198797,
+        "word": "内娱95生最出圈的角色",
+        "onboard_time": 1708015048,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197598,
+        "num": 197598,
+        "word": "贾玲 能拯救我的只有我自己",
+        "onboard_time": 1708044990,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193015,
+        "num": 193015,
+        "word": "你写的vs人民日报写的",
+        "onboard_time": 1708044990,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183629,
+        "num": 183629,
+        "word": "国乒女团vs印度",
+        "onboard_time": 1708046968,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178323,
+        "num": 178323,
+        "word": "郑润泽发文",
+        "onboard_time": 1708039640,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176803,
+        "num": 176803,
+        "word": "大年初七不教训孩子",
+        "onboard_time": 1708046549,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175319,
+        "num": 175319,
+        "word": "特朗普回应普京选拜登",
+        "onboard_time": 1708039281,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172153,
+        "num": 172153,
+        "word": "大张伟只为自己开的花",
+        "onboard_time": 1708049431,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164392,
+        "num": 164392,
+        "word": "猫猫因分赃不均不肯相让",
+        "onboard_time": 1708049911,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152067,
+        "num": 152067,
+        "word": "第二十条 秋菊打官司",
+        "onboard_time": 1708048412,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145674,
+        "num": 145674,
+        "word": "明星大侦探",
+        "onboard_time": 1708048893,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143510,
+        "num": 143510,
+        "word": "勇士三次犯规漏吹",
+        "onboard_time": 1708049492,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138757,
+        "num": 138757,
+        "word": "姆巴佩与皇马达成口头协议",
+        "onboard_time": 1708050028,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 135415,
+        "word": "大侦探魏晨摊牌",
+        "onboard_time": 1708045168,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133734,
+        "num": 133734,
+        "word": "孙悦隐退八年因为儿子复出",
+        "onboard_time": 1708003295,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132975,
+        "num": 132975,
+        "word": "羽绒服先别收起来",
+        "onboard_time": 1708013071,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131193,
+        "num": 131193,
+        "word": "孙千 外貌是最不应该去攻击的",
+        "onboard_time": 1708007619,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129952,
+        "num": 129952,
+        "word": "中国队时隔9年再夺100自金牌",
+        "onboard_time": 1708041747,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121105,
+        "num": 121105,
+        "word": "马丽主演电影票房破180亿",
+        "onboard_time": 1708017562,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120804,
+        "num": 120804,
+        "word": "小龙糕",
+        "onboard_time": 1708040666,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}
