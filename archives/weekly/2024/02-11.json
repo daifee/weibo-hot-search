@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708060621756,
+  "endTime": 1708061647001,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -289,6 +289,14 @@
       "onboard_time": 1707907837,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2221459,
+      "num": 2221459,
+      "word": "胖东来员工被曝悄悄尝面",
+      "onboard_time": 1708059211,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2212349,
@@ -601,14 +609,6 @@
       "onboard_time": 1707745054,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1564918,
-      "num": 1564918,
-      "word": "胖东来员工被曝悄悄尝面",
-      "onboard_time": 1708059211,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1534477,
@@ -1019,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1198899,
+      "num": 618218,
+      "word": "白敬亭想尝试电影拍摄",
+      "onboard_time": 1708059152,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1183592,
       "num": 1183592,
       "word": "一宝妈妈产子",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1707838477,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1161085,
+      "num": 1161085,
+      "word": "果粉们开始大批退货VisionPro",
+      "onboard_time": 1708056571,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 1156984,
@@ -1339,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1042007,
-      "num": 1042007,
-      "word": "果粉们开始大批退货VisionPro",
-      "onboard_time": 1708056571,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1036918,
       "num": 1036918,
       "word": "第二十条连续票房逆跌",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1707742474,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 937845,
-      "num": 573017,
-      "word": "白敬亭想尝试电影拍摄",
-      "onboard_time": 1708059152,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 933388,
@@ -2524,7 +2524,7 @@
     },
     {
       "raw_hot": 667941,
-      "num": 570871,
+      "num": 571530,
       "word": "律师谈薛之谦被指盗摄",
       "onboard_time": 1708056811,
       "rank": 31,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1707616827,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 653276,
+      "num": 653276,
+      "word": "海南一游客退房时被要求擦马桶",
+      "onboard_time": 1708057953,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651231,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1707740919,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616518,
+      "num": 616518,
+      "word": "I NEED U",
+      "onboard_time": 1708060596,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 616277,
@@ -3040,14 +3056,6 @@
       "word": "官方辟谣福州2.1亿元天价婚礼",
       "onboard_time": 1707869426,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573115,
-      "num": 573115,
-      "word": "海南一游客退房时被要求擦马桶",
-      "onboard_time": 1708057953,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4379,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417182,
+      "num": 417182,
+      "word": "热辣滚烫乐莹查男友手机",
+      "onboard_time": 1708060353,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 416013,
       "num": 416013,
       "word": "王鹤棣虽然没上春晚但梗上了",
@@ -5043,6 +5059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360748,
+      "num": 297986,
+      "word": "薛之谦版权意识",
+      "onboard_time": 1708061375,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360462,
       "num": 360462,
       "word": "听障粉丝见赵丽颖激动落泪",
@@ -5433,6 +5457,14 @@
       "onboard_time": 1707898775,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 323336,
+      "num": 323336,
+      "word": "褪黑素只有2类人适用",
+      "onboard_time": 1708059994,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 322789,
@@ -6523,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253972,
+      "num": 253972,
+      "word": "贾玲变装转场",
+      "onboard_time": 1708060713,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253749,
       "num": 253749,
       "word": "一提两箱",
@@ -6673,6 +6713,14 @@
       "onboard_time": 1707804759,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247489,
+      "num": 247489,
+      "word": "不自觉摸脸是身体在安抚自己",
+      "onboard_time": 1708060893,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 246458,
@@ -6857,6 +6905,14 @@
       "onboard_time": 1707657515,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240092,
+      "num": 240092,
+      "word": "于正戴翡翠",
+      "onboard_time": 1708061375,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239745,
@@ -7145,6 +7201,14 @@
       "onboard_time": 1707664831,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230718,
+      "num": 230718,
+      "word": "全员加速中是懂剧透的",
+      "onboard_time": 1708060471,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 230587,
@@ -8067,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202299,
+      "num": 202299,
+      "word": "全员加速中加速启航海报",
+      "onboard_time": 1708061435,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202083,
       "num": 202083,
       "word": "原来真的有月老在忙着牵线",
@@ -8291,6 +8363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 198976,
+      "num": 198976,
+      "word": "钟楚曦侯雯元喝同一瓶水",
+      "onboard_time": 1708061375,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198513,
       "num": 198513,
       "word": "会装睡且能听懂人话的狗狗",
@@ -8323,6 +8403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197830,
+      "num": 197830,
+      "word": "昨天什么克莱今天什么克莱",
+      "onboard_time": 1708060050,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197817,
       "num": 197817,
       "word": "邓为红衣婚服路透",
@@ -8337,14 +8425,6 @@
       "onboard_time": 1707991354,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197315,
-      "num": 197315,
-      "word": "褪黑素只有2类人适用",
-      "onboard_time": 1708059994,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197269,
@@ -8409,14 +8489,6 @@
       "onboard_time": 1707713913,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196514,
-      "num": 196514,
-      "word": "热辣滚烫乐莹查男友手机",
-      "onboard_time": 1708060353,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 196256,
@@ -8641,6 +8713,14 @@
       "onboard_time": 1707577838,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191109,
+      "num": 191109,
+      "word": "哈尔滨冰雪大世界正式闭园",
+      "onboard_time": 1708060113,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 191026,
@@ -8955,14 +9035,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 183434,
-      "num": 183434,
-      "word": "哈尔滨冰雪大世界正式闭园",
-      "onboard_time": 1708060113,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 183278,
       "num": 183278,
       "word": "热辣滚烫两个乐莹都很棒",
@@ -9033,14 +9105,6 @@
       "onboard_time": 1707698909,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 181768,
-      "num": 181768,
-      "word": "昨天什么克莱今天什么克莱",
-      "onboard_time": 1708060050,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 181456,
@@ -10139,6 +10203,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158220,
+      "num": 158220,
+      "word": "为什么切石膏不会伤到皮肤",
+      "onboard_time": 1708061072,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 158167,
       "num": 158167,
       "word": "凌晨2点的哈尔滨什么样",
@@ -10416,14 +10488,6 @@
       "word": "刘谦春晚 华丽的数学秀",
       "onboard_time": 1707640532,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 153449,
-      "num": 153449,
-      "word": "全员加速中是懂剧透的",
-      "onboard_time": 1708060471,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -11171,6 +11235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139875,
+      "num": 139875,
+      "word": "檀健次rua羊驼",
+      "onboard_time": 1708061310,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139795,
       "num": 139795,
       "word": "克莱战术犯规",
@@ -11441,14 +11513,6 @@
       "onboard_time": 1707920620,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135149,
-      "num": 135149,
-      "word": "I NEED U",
-      "onboard_time": 1708060596,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 134437,
