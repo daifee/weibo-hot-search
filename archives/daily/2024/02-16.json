@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708087528074,
+  "endTime": 1708089527333,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -204,11 +204,19 @@
     },
     {
       "raw_hot": 1073976,
-      "num": 527955,
+      "num": 719389,
       "word": "韩国五大医院医生集体辞职抗议医学院扩招",
       "onboard_time": 1708083094,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1056162,
+      "num": 888966,
+      "word": "娱超人向薛之谦道歉",
+      "onboard_time": 1708086574,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1013885,
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 866246,
+      "num": 866246,
+      "word": "年会不能停导演反对屏摄",
+      "onboard_time": 1708088676,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 862909,
       "num": 862909,
       "word": "伊能静儿子最新女装照",
@@ -259,20 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 855367,
-      "num": 855367,
-      "word": "娱超人向薛之谦道歉",
-      "onboard_time": 1708086574,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 842138,
       "num": 842138,
       "word": "刘松仁宣布不再拍戏",
       "onboard_time": 1708056872,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 841299,
+      "num": 841299,
+      "word": "中国居然有这么多县城没有网约车",
+      "onboard_time": 1708083934,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814858,
@@ -297,6 +313,14 @@
       "onboard_time": 1708045529,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 777517,
+      "num": 777517,
+      "word": "过年采访我的丁克舅舅",
+      "onboard_time": 1708086213,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 765440,
@@ -523,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 562449,
-      "num": 443825,
-      "word": "过年采访我的丁克舅舅",
-      "onboard_time": 1708086213,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 556223,
       "num": 556223,
       "word": "春断食",
@@ -555,14 +571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 550400,
-      "num": 550400,
-      "word": "中国居然有这么多县城没有网约车",
-      "onboard_time": 1708083934,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 545315,
       "num": 545315,
       "word": "十个勤天费加罗男士瑞雪封面",
@@ -571,11 +579,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 539466,
+      "num": 539466,
+      "word": "麻子和尤芳吟结婚了",
+      "onboard_time": 1708088494,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531318,
       "num": 531318,
       "word": "张艺兴旗下女团或即将出道",
       "onboard_time": 1708008278,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 525637,
+      "num": 525637,
+      "word": "苏醒夫妇新加坡度假",
+      "onboard_time": 1708087479,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -657,6 +681,14 @@
       "onboard_time": 1708074152,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 477791,
+      "num": 477791,
+      "word": "春节回家发现未婚适龄女性比已婚的还多",
+      "onboard_time": 1708086213,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471621,
@@ -747,14 +779,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 421959,
-      "num": 421959,
-      "word": "春节回家发现未婚适龄女性比已婚的还多",
-      "onboard_time": 1708086213,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421185,
       "num": 373671,
       "word": "二刷热辣滚烫发现的隐藏彩蛋",
@@ -785,6 +809,14 @@
       "onboard_time": 1708044328,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405671,
+      "num": 405671,
+      "word": "中国台球队队长林亦扬",
+      "onboard_time": 1708087834,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 399737,
@@ -963,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312397,
+      "num": 312397,
+      "word": "龙猫不能水洗的原因",
+      "onboard_time": 1708088554,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309859,
       "num": 309859,
       "word": "手机充电一定要满充满放吗",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1708063594,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 292965,
+      "num": 292965,
+      "word": "山西一警察庙会上竟多次成功偷手机",
+      "onboard_time": 1708086155,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288722,
@@ -1155,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253632,
+      "num": 253632,
+      "word": "福岛核污水泄漏系因忘关手动阀门",
+      "onboard_time": 1708088196,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 251425,
       "num": 251425,
       "word": "国乒女团两度落后两度扳平",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1708061375,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232647,
+      "num": 232647,
+      "word": "照明商店",
+      "onboard_time": 1708087896,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 232021,
@@ -1281,14 +1345,6 @@
       "onboard_time": 1708085494,
       "rank": 25,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 221063,
-      "num": 221063,
-      "word": "苏醒夫妇新加坡度假",
-      "onboard_time": 1708087479,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 220947,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1708017562,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208088,
+      "num": 208088,
+      "word": "孙千演的陶姝娜是A班袁湘琴",
+      "onboard_time": 1708089092,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 205876,
@@ -1971,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157174,
+      "num": 157174,
+      "word": "建议直接给水哥困难模式",
+      "onboard_time": 1708088432,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157142,
       "num": 157142,
       "word": "十个勤天杂志",
@@ -2035,20 +2107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153173,
-      "num": 153173,
-      "word": "山西一警察庙会上竟多次成功偷手机",
-      "onboard_time": 1708086155,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153026,
       "num": 153026,
       "word": "苏袀禾回应撞脸肖战霍建华",
       "onboard_time": 1708010796,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152197,
+      "num": 152197,
+      "word": "国乒男团3比0比利时",
+      "onboard_time": 1708087775,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 152067,
@@ -2267,6 +2339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 128948,
+      "num": 128948,
+      "word": "春节返程让人泪目的离别瞬间",
+      "onboard_time": 1708088135,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128866,
       "num": 128866,
       "word": "2024春节档票房进入影史前二",
@@ -2379,12 +2459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121317,
+      "num": 121317,
+      "word": "女子带礼盒拜年10天后又回自己手里",
+      "onboard_time": 1708089397,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "国乒女团vs印度对阵名单",
       "onboard_time": 1708048289,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119963,
+      "num": 119963,
+      "word": "硬控亲戚40秒",
+      "onboard_time": 1708088975,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 119695,
@@ -2732,7 +2828,7 @@
     },
     {
       "raw_hot": 29253,
-      "num": 249232,
+      "num": 1116649,
       "word": "古人如何玩转冰雪运动",
       "onboard_time": 1708074572,
       "rank": 10,

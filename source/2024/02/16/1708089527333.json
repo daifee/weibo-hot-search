@@ -1,0 +1,410 @@
+{
+  "runTime": 1708089527333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899551,
+        "num": 1899551,
+        "word": "薛之谦转发再回应盗摄",
+        "onboard_time": 1708085015,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1335394,
+        "num": 1335394,
+        "word": "横店是缺演员吗",
+        "onboard_time": 1708084413,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16232,
+        "num": 1116649,
+        "word": "古人如何玩转冰雪运动",
+        "onboard_time": 1708074572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054635,
+        "num": 1054635,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 904972,
+        "num": 904972,
+        "word": "刘亦菲白色吊带裙",
+        "onboard_time": 1708080333,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1056162,
+        "num": 888966,
+        "word": "娱超人向薛之谦道歉",
+        "onboard_time": 1708086574,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866246,
+        "num": 866246,
+        "word": "年会不能停导演反对屏摄",
+        "onboard_time": 1708088676,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 841299,
+        "num": 841299,
+        "word": "中国居然有这么多县城没有网约车",
+        "onboard_time": 1708083934,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802396,
+        "num": 802396,
+        "word": "邱淑贞拍的女儿沈月",
+        "onboard_time": 1708084593,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777517,
+        "num": 777517,
+        "word": "过年采访我的丁克舅舅",
+        "onboard_time": 1708086213,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 719389,
+        "num": 719389,
+        "word": "韩国五大医院医生集体辞职抗议医学院扩招",
+        "onboard_time": 1708083094,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 653485,
+        "num": 653485,
+        "word": "刘诗诗没认出来马思纯",
+        "onboard_time": 1708083396,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539466,
+        "num": 539466,
+        "word": "麻子和尤芳吟结婚了",
+        "onboard_time": 1708088494,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525637,
+        "num": 525637,
+        "word": "苏醒夫妇新加坡度假",
+        "onboard_time": 1708087479,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491192,
+        "num": 491192,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477791,
+        "num": 477791,
+        "word": "春节回家发现未婚适龄女性比已婚的还多",
+        "onboard_time": 1708086213,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450540,
+        "num": 450540,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405671,
+        "num": 405671,
+        "word": "中国台球队队长林亦扬",
+        "onboard_time": 1708087834,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387693,
+        "num": 387693,
+        "word": "全员加速中",
+        "onboard_time": 1708086393,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 329712,
+        "word": "普京催生每个家庭至少两个孩子",
+        "onboard_time": 1708075831,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 312397,
+        "num": 312397,
+        "word": "龙猫不能水洗的原因",
+        "onboard_time": 1708088554,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306230,
+        "num": 306230,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292965,
+        "num": 292965,
+        "word": "山西一警察庙会上竟多次成功偷手机",
+        "onboard_time": 1708086155,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290783,
+        "num": 290783,
+        "word": "张小斐 一个演员的敏感力",
+        "onboard_time": 1708081889,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253632,
+        "num": 253632,
+        "word": "福岛核污水泄漏系因忘关手动阀门",
+        "onboard_time": 1708088196,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252981,
+        "num": 252981,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232647,
+        "num": 232647,
+        "word": "照明商店",
+        "onboard_time": 1708087896,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230742,
+        "num": 230742,
+        "word": "法律上没有盗摄这一说法",
+        "onboard_time": 1708082012,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208289,
+        "num": 208289,
+        "word": "恋人最舒服的相处方式",
+        "onboard_time": 1708084713,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208088,
+        "num": 208088,
+        "word": "孙千演的陶姝娜是A班袁湘琴",
+        "onboard_time": 1708089092,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205517,
+        "num": 205517,
+        "word": "我必须主动学习",
+        "onboard_time": 1708084413,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200059,
+        "num": 200059,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194214,
+        "num": 194214,
+        "word": "春天排肝毒",
+        "onboard_time": 1708083752,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183379,
+        "num": 183379,
+        "word": "返程后备箱塞了7个烂石榴但全是爱",
+        "onboard_time": 1708077028,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176448,
+        "num": 176448,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170264,
+        "num": 170264,
+        "word": "当我穿了双旧鞋去爬山",
+        "onboard_time": 1708086933,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157174,
+        "num": 157174,
+        "word": "建议直接给水哥困难模式",
+        "onboard_time": 1708088432,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157157,
+        "num": 157157,
+        "word": "俄反对派人士纳瓦利内狱中死亡",
+        "onboard_time": 1708085494,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155230,
+        "num": 155230,
+        "word": "小S二女儿偶像是张元英",
+        "onboard_time": 1708073850,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152197,
+        "num": 152197,
+        "word": "国乒男团3比0比利时",
+        "onboard_time": 1708087775,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142441,
+        "num": 142441,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141710,
+        "num": 141710,
+        "word": "SMTOWN合作舞台",
+        "onboard_time": 1708081471,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137043,
+        "num": 137043,
+        "word": "为什么乐莹身边全是坏人",
+        "onboard_time": 1708075170,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128948,
+        "num": 128948,
+        "word": "春节返程让人泪目的离别瞬间",
+        "onboard_time": 1708088135,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128628,
+        "num": 128628,
+        "word": "任子威给林孝埈递外套",
+        "onboard_time": 1708076910,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128411,
+        "num": 128411,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 125826,
+        "num": 125826,
+        "word": "要久久爱官博发文",
+        "onboard_time": 1708079790,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121317,
+        "num": 121317,
+        "word": "女子带礼盒拜年10天后又回自己手里",
+        "onboard_time": 1708089397,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119963,
+        "num": 119963,
+        "word": "硬控亲戚40秒",
+        "onboard_time": 1708088975,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114744,
+        "num": 114744,
+        "word": "猫 不是说人生没有那么多观众吗",
+        "onboard_time": 1708081412,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把握传承和创新的关系#"
+    }
+  }
+}
