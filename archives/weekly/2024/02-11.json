@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708076032405,
+  "endTime": 1708078725837,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1171,6 +1171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1148134,
+      "num": 1148134,
+      "word": "普京催生每个家庭至少两个孩子",
+      "onboard_time": 1708075831,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1146406,
+      "num": 1146406,
+      "word": "粉丝模仿薛之谦晒盗摄图",
+      "onboard_time": 1708073672,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1144562,
       "num": 1144562,
       "word": "沈腾马丽 偷偷藏不住",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1707626789,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 986459,
-      "num": 986459,
-      "word": "粉丝模仿薛之谦晒盗摄图",
-      "onboard_time": 1708073672,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 982790,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1707898474,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814858,
+      "num": 814858,
+      "word": "任子威给林孝埈递外套",
+      "onboard_time": 1708076910,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 814188,
@@ -2827,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629268,
+      "num": 554290,
+      "word": "吕修诚缝了16针",
+      "onboard_time": 1708074753,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628760,
       "num": 628760,
       "word": "为什么过年期间那么容易分手",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1707837580,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 554290,
-      "num": 554290,
-      "word": "吕修诚缝了16针",
-      "onboard_time": 1708074753,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 553759,
@@ -4017,6 +4033,14 @@
       "onboard_time": 1707663333,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 469761,
+      "num": 469761,
+      "word": "返程后备箱塞了7个烂石榴但全是爱",
+      "onboard_time": 1708077028,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469716,
@@ -5571,6 +5595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333939,
+      "num": 333939,
+      "word": "乐莹被恶剪是贾玲亲身经历",
+      "onboard_time": 1708074152,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333659,
       "num": 333659,
       "word": "周深在春晚后台听见了大鱼",
@@ -5665,6 +5697,14 @@
       "onboard_time": 1707552454,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324783,
+      "num": 324783,
+      "word": "天津景区男厕改女厕男子带队闯入",
+      "onboard_time": 1708073908,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324559,
@@ -5873,14 +5913,6 @@
       "onboard_time": 1707886831,
       "rank": 16,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 308700,
-      "num": 308700,
-      "word": "天津景区男厕改女厕男子带队闯入",
-      "onboard_time": 1708073908,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308669,
@@ -6955,6 +6987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248184,
+      "num": 248184,
+      "word": "为什么乐莹身边全是坏人",
+      "onboard_time": 1708075170,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247780,
       "num": 247780,
       "word": "潘展乐打破世界纪录",
@@ -7395,6 +7435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233639,
+      "num": 233639,
+      "word": "昆山反杀案主办检察官评第二十条",
+      "onboard_time": 1708077868,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 233569,
       "num": 233569,
       "word": "李会琴 文案",
@@ -7675,14 +7723,6 @@
       "category": "动漫,电影"
     },
     {
-      "raw_hot": 222837,
-      "num": 222837,
-      "word": "乐莹被恶剪是贾玲亲身经历",
-      "onboard_time": 1708074152,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222444,
       "num": 222444,
       "word": "开工大吉",
@@ -7923,6 +7963,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 216130,
+      "num": 216130,
+      "word": "主办方称赛前15分钟得知梅西缺阵",
+      "onboard_time": 1708078229,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216098,
       "num": 216098,
       "word": "贾玲战损版",
@@ -8011,20 +8059,20 @@
       "category": "网红,综艺"
     },
     {
+      "raw_hot": 213064,
+      "num": 446504,
+      "word": "杭州将建比4个西溪湿地还大的湿地公园",
+      "onboard_time": 1708076671,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 212627,
       "num": 212627,
       "word": "时代少年团棉花娃娃",
       "onboard_time": 1707804997,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212581,
-      "num": 173019,
-      "word": "为什么乐莹身边全是坏人",
-      "onboard_time": 1708075170,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 212424,
@@ -8177,6 +8225,14 @@
       "onboard_time": 1707901657,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209694,
+      "num": 209694,
+      "word": "孟菀青当妈 乳腺通畅",
+      "onboard_time": 1708077390,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 209262,
@@ -9379,6 +9435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 185522,
+      "num": 185522,
+      "word": "一些人开始逃离一线城市了",
+      "onboard_time": 1708075651,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185487,
       "num": 185487,
       "word": "中国队时隔9年再夺100自金牌",
@@ -9849,6 +9913,14 @@
       "onboard_time": 1707704729,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 174290,
+      "num": 174290,
+      "word": "魔卡少女樱 狼樱发糖",
+      "onboard_time": 1708074932,
+      "rank": 32,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 174018,
@@ -10435,14 +10507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163780,
-      "num": 163780,
-      "word": "魔卡少女樱 狼樱发糖",
-      "onboard_time": 1708074932,
-      "rank": 32,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 163263,
       "num": 163263,
       "word": "拜财神刻入中国人DNA",
@@ -10673,14 +10737,6 @@
       "onboard_time": 1707714270,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 158512,
-      "num": 158512,
-      "word": "一些人开始逃离一线城市了",
-      "onboard_time": 1708075651,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158494,
@@ -11275,6 +11331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148437,
+      "num": 148437,
+      "word": "水哥试图教会朱丹魔方",
+      "onboard_time": 1708077814,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148244,
       "num": 148244,
       "word": "可以拥有这个红包吗",
@@ -11769,14 +11833,6 @@
       "onboard_time": 1707643833,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139958,
-      "num": 139958,
-      "word": "普京催生每个家庭至少两个孩子",
-      "onboard_time": 1708075831,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 139908,
@@ -12691,6 +12747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123793,
+      "num": 123793,
+      "word": "被小狗的大尾巴扫了一路",
+      "onboard_time": 1708078170,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123713,
       "num": 123713,
       "word": "TWICE回归概念预告照",
@@ -13267,6 +13331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114068,
+      "num": 114068,
+      "word": "大唐不夜城客流车流已饱和建议错峰",
+      "onboard_time": 1708076490,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 114025,
       "num": 114025,
       "word": "新疆乌什县4.7级地震",
@@ -13745,6 +13817,14 @@
       "onboard_time": 1708053752,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105627,
+      "num": 105627,
+      "word": "中国式催婚的意义",
+      "onboard_time": 1708078652,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105249,
@@ -14369,6 +14449,14 @@
       "onboard_time": 1708000951,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64177,
+      "num": 378541,
+      "word": "爸妈塞的行李箱",
+      "onboard_time": 1708077632,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63320,
