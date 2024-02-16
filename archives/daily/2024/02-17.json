@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708110910135,
+  "endTime": 1708112026064,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152164,
+      "num": 100096,
+      "word": "张小斐主演票房破90亿",
+      "onboard_time": 1708110257,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141256,
       "num": 141256,
       "word": "一个心理医生告诫的冷知识",
@@ -361,14 +369,6 @@
       "onboard_time": 1708087834,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100096,
-      "num": 100096,
-      "word": "张小斐主演票房破90亿",
-      "onboard_time": 1708110257,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 99557,
@@ -456,6 +456,14 @@
       "word": "网络中国节",
       "onboard_time": 1708090956,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11868,
+      "num": 19933,
+      "word": "警察用行动表示你的手机太好偷",
+      "onboard_time": 1708111998,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
