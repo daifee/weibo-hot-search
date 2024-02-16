@@ -1,0 +1,410 @@
+{
+  "runTime": 1708065357990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956600,
+        "num": 1956600,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323930,
+        "num": 1323930,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122049,
+        "num": 1059047,
+        "word": "一图看懂开车回家要注意啥",
+        "onboard_time": 1708053813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970288,
+        "num": 970288,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 828579,
+        "num": 828579,
+        "word": "伊能静儿子最新女装照",
+        "onboard_time": 1708062093,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 721375,
+        "num": 721375,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657105,
+        "num": 657105,
+        "word": "任子威被撞",
+        "onboard_time": 1708058373,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646785,
+        "num": 646785,
+        "word": "吴京与家人新加坡过春节",
+        "onboard_time": 1708063053,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632972,
+        "num": 632972,
+        "word": "I NEED U",
+        "onboard_time": 1708060596,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 594136,
+        "num": 594136,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1126650,
+        "num": 593293,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582907,
+        "num": 582907,
+        "word": "钟楚曦侯雯元喝同一瓶水",
+        "onboard_time": 1708061375,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551283,
+        "num": 551283,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 534000,
+        "num": 534000,
+        "word": "农村婚恋市场一动一不动成标配",
+        "onboard_time": 1708062632,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516415,
+        "num": 516415,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451651,
+        "num": 451651,
+        "word": "热辣滚烫乐莹查男友手机",
+        "onboard_time": 1708060353,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383328,
+        "num": 383328,
+        "word": "海南一游客退房时被要求擦马桶",
+        "onboard_time": 1708057953,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314661,
+        "num": 314661,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311380,
+        "num": 311380,
+        "word": "陈赫一家马尔代夫度假",
+        "onboard_time": 1708063953,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310708,
+        "num": 310708,
+        "word": "刘松仁宣布不再拍戏",
+        "onboard_time": 1708056872,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347486,
+        "num": 309033,
+        "word": "褪黑素只有2类人适用",
+        "onboard_time": 1708059994,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306247,
+        "num": 306247,
+        "word": "王珞丹过年被催婚",
+        "onboard_time": 1708061852,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294435,
+        "num": 294435,
+        "word": "手机号码关联了多少互联网账号",
+        "onboard_time": 1708063594,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 271696,
+        "num": 271696,
+        "word": "小S二女儿大片",
+        "onboard_time": 1708063772,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245850,
+        "num": 245850,
+        "word": "贾玲下个作品马上开机",
+        "onboard_time": 1708049671,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227160,
+        "num": 227160,
+        "word": "不自觉摸脸是身体在安抚自己",
+        "onboard_time": 1708060893,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207221,
+        "num": 207221,
+        "word": "刘雯井柏然机场同框",
+        "onboard_time": 1708065272,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204581,
+        "num": 204581,
+        "word": "乔丹儿子和皮蓬前妻复合",
+        "onboard_time": 1708063353,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "金晨训狗",
+        "onboard_time": 1708064970,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 200474,
+        "word": "龙标一出就不能再对着电影屏幕拍摄了",
+        "onboard_time": 1708064911,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199415,
+        "num": 199415,
+        "word": "一宝妈妈产子",
+        "onboard_time": 1708047029,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197707,
+        "num": 197707,
+        "word": "胖东来",
+        "onboard_time": 1708063534,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187672,
+        "num": 187672,
+        "word": "过完年的戒断反应",
+        "onboard_time": 1708061972,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186029,
+        "num": 186029,
+        "word": "贾玲雷佳音他追她逃",
+        "onboard_time": 1708064432,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178564,
+        "num": 178564,
+        "word": "国乒女团3比2印度",
+        "onboard_time": 1708058433,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174184,
+        "num": 174184,
+        "word": "韩素希跳drama",
+        "onboard_time": 1708058433,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173900,
+        "num": 173900,
+        "word": "12306抢票",
+        "onboard_time": 1708056153,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164972,
+        "num": 164972,
+        "word": "贾玲变装转场",
+        "onboard_time": 1708060713,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156803,
+        "num": 156803,
+        "word": "高考数学无耻得分法",
+        "onboard_time": 1708052731,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153869,
+        "num": 153869,
+        "word": "买不到返程车票不能按时上班算旷工吗",
+        "onboard_time": 1708050812,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143948,
+        "num": 143948,
+        "word": "百余位明星曾发出拒绝电影盗摄倡议",
+        "onboard_time": 1708053511,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141247,
+        "num": 141247,
+        "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+        "onboard_time": 1708054233,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "全员加速中是懂剧透的",
+        "onboard_time": 1708060471,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138867,
+        "num": 138867,
+        "word": "律师谈薛之谦被指盗摄",
+        "onboard_time": 1708056811,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133895,
+        "num": 133895,
+        "word": "糖尿病一般不是吃糖吃出来的",
+        "onboard_time": 1708041686,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133013,
+        "num": 133013,
+        "word": "萨摩耶演我晕车",
+        "onboard_time": 1708063233,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126742,
+        "num": 126742,
+        "word": "至始至终我都只想要一个拥抱",
+        "onboard_time": 1708065272,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125491,
+        "num": 125491,
+        "word": "刘嘉玲说桃花是和张国荣的一种联系",
+        "onboard_time": 1708062753,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122174,
+        "num": 122174,
+        "word": "林孝埈黄牌",
+        "onboard_time": 1708053872,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117902,
+        "num": 117902,
+        "word": "钟楚曦侯雯元一起回国",
+        "onboard_time": 1708044567,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

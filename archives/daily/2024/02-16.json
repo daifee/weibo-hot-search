@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708064499840,
+  "endTime": 1708065357990,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -123,8 +123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 964223,
-      "num": 964223,
+      "raw_hot": 970288,
+      "num": 970288,
       "word": "薛之谦版权意识",
       "onboard_time": 1708061375,
       "rank": 22,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646785,
+      "num": 646785,
+      "word": "吴京与家人新加坡过春节",
+      "onboard_time": 1708063053,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638185,
       "num": 638185,
       "word": "12306抢票",
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 557258,
-      "num": 557258,
-      "word": "吴京与家人新加坡过春节",
-      "onboard_time": 1708063053,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 556223,
       "num": 556223,
       "word": "春断食",
@@ -345,6 +345,14 @@
       "onboard_time": 1708060353,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 534000,
+      "num": 534000,
+      "word": "农村婚恋市场一动一不动成标配",
+      "onboard_time": 1708062632,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531318,
@@ -491,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 412929,
-      "num": 412929,
-      "word": "农村婚恋市场一动一不动成标配",
-      "onboard_time": 1708062632,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408002,
       "num": 408002,
       "word": "特朗普回应普京选拜登",
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311380,
+      "num": 311380,
+      "word": "陈赫一家马尔代夫度假",
+      "onboard_time": 1708063953,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309859,
       "num": 309859,
       "word": "手机充电一定要满充满放吗",
@@ -641,6 +649,14 @@
       "onboard_time": 1708063772,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294435,
+      "num": 294435,
+      "word": "手机号码关联了多少互联网账号",
+      "onboard_time": 1708063594,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 286540,
@@ -771,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229885,
-      "num": 229885,
-      "word": "手机号码关联了多少互联网账号",
-      "onboard_time": 1708063594,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 228654,
       "num": 228654,
       "word": "肖战霍建华混合体",
@@ -851,20 +859,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 210156,
-      "num": 210156,
-      "word": "陈赫一家马尔代夫度假",
-      "onboard_time": 1708063953,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208115,
       "num": 208115,
       "word": "马丽主演电影票房破180亿",
       "onboard_time": 1708017562,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "刘雯井柏然机场同框",
+      "onboard_time": 1708065272,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 205876,
@@ -881,6 +889,14 @@
       "onboard_time": 1708063534,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202781,
+      "num": 202781,
+      "word": "金晨训狗",
+      "onboard_time": 1708064970,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202472,
@@ -963,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197191,
+      "num": 200474,
+      "word": "龙标一出就不能再对着电影屏幕拍摄了",
+      "onboard_time": 1708064911,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196747,
       "num": 196747,
       "word": "天亮了 爸你看到了吗",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1708053813,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186029,
+      "num": 186029,
+      "word": "贾玲雷佳音他追她逃",
+      "onboard_time": 1708064432,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 185487,
@@ -1451,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126742,
+      "num": 126742,
+      "word": "至始至终我都只想要一个拥抱",
+      "onboard_time": 1708065272,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126714,
       "num": 126714,
       "word": "汤普森生涯15000分",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1707998377,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122482,
-      "num": 122482,
-      "word": "贾玲雷佳音他追她逃",
-      "onboard_time": 1708064432,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 121867,

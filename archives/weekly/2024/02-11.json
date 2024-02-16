@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708064499840,
+  "endTime": 1708065357990,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1475,19 +1475,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 970288,
+      "num": 970288,
+      "word": "薛之谦版权意识",
+      "onboard_time": 1708061375,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 965081,
       "num": 965081,
       "word": "贾玲谈未来体型管理",
       "onboard_time": 1707609386,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 964223,
-      "num": 964223,
-      "word": "薛之谦版权意识",
-      "onboard_time": 1708061375,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -2635,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646785,
+      "num": 646785,
+      "word": "吴京与家人新加坡过春节",
+      "onboard_time": 1708063053,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644573,
       "num": 644573,
       "word": "杨超越 我的歌不好看吗",
@@ -3171,14 +3179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 557258,
-      "num": 557258,
-      "word": "吴京与家人新加坡过春节",
-      "onboard_time": 1708063053,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 556952,
       "num": 556952,
       "word": "已婚已育的中年女性决定过年谁家也不回",
@@ -3369,6 +3369,14 @@
       "onboard_time": 1707729274,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 534000,
+      "num": 534000,
+      "word": "农村婚恋市场一动一不动成标配",
+      "onboard_time": 1708062632,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530707,
@@ -4465,14 +4473,6 @@
       "onboard_time": 1708046968,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412929,
-      "num": 412929,
-      "word": "农村婚恋市场一动一不动成标配",
-      "onboard_time": 1708062632,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411531,
@@ -5675,6 +5675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311380,
+      "num": 311380,
+      "word": "陈赫一家马尔代夫度假",
+      "onboard_time": 1708063953,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311073,
       "num": 240570,
       "word": "一天1000条小金龙不够卖",
@@ -5881,6 +5889,14 @@
       "onboard_time": 1707748719,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 294435,
+      "num": 294435,
+      "word": "手机号码关联了多少互联网账号",
+      "onboard_time": 1708063594,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 293065,
@@ -7291,14 +7307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229885,
-      "num": 229885,
-      "word": "手机号码关联了多少互联网账号",
-      "onboard_time": 1708063594,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 229699,
       "num": 229699,
       "word": "闺蜜和我对象结婚我当伴娘",
@@ -7859,14 +7867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 210156,
-      "num": 210156,
-      "word": "陈赫一家马尔代夫度假",
-      "onboard_time": 1708063953,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210123,
       "num": 210123,
       "word": "热辣滚烫票房破15亿",
@@ -7977,6 +7977,14 @@
       "onboard_time": 1707664654,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "刘雯井柏然机场同框",
+      "onboard_time": 1708065272,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207106,
@@ -8201,6 +8209,14 @@
       "onboard_time": 1707695184,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202781,
+      "num": 202781,
+      "word": "金晨训狗",
+      "onboard_time": 1708064970,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202530,
@@ -8504,6 +8520,14 @@
       "word": "飞驰2破18亿主创秀十八般武艺",
       "onboard_time": 1707983851,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197191,
+      "num": 200474,
+      "word": "龙标一出就不能再对着电影屏幕拍摄了",
+      "onboard_time": 1708064911,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -9017,6 +9041,14 @@
       "onboard_time": 1707636273,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 186029,
+      "num": 186029,
+      "word": "贾玲雷佳音他追她逃",
+      "onboard_time": 1708064432,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 185901,
@@ -12083,6 +12115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126742,
+      "num": 126742,
+      "word": "至始至终我都只想要一个拥抱",
+      "onboard_time": 1708065272,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126714,
       "num": 126714,
       "word": "汤普森生涯15000分",
@@ -12303,14 +12343,6 @@
       "num": 122722,
       "word": "摇太阳适合任何一个档期",
       "onboard_time": 1707831219,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 122482,
-      "num": 122482,
-      "word": "贾玲雷佳音他追她逃",
-      "onboard_time": 1708064432,
       "rank": 48,
       "category": "电影"
     },

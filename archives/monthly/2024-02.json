@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708064499840,
+  "endTime": 1708065357990,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -4483,6 +4483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 970288,
+      "num": 970288,
+      "word": "薛之谦版权意识",
+      "onboard_time": 1708061375,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 967786,
       "num": 967786,
       "word": "方媛曾承认自己花心",
@@ -4521,14 +4529,6 @@
       "onboard_time": 1706858071,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 964223,
-      "num": 964223,
-      "word": "薛之谦版权意识",
-      "onboard_time": 1708061375,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 963006,
@@ -7963,6 +7963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646785,
+      "num": 646785,
+      "word": "吴京与家人新加坡过春节",
+      "onboard_time": 1708063053,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646659,
       "num": 646659,
       "word": "全程还原奔驰男下车后1分钟",
@@ -9443,14 +9451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557258,
-      "num": 557258,
-      "word": "吴京与家人新加坡过春节",
-      "onboard_time": 1708063053,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 557254,
       "num": 557254,
       "word": "十个勤天直播",
@@ -9977,6 +9977,14 @@
       "onboard_time": 1706958870,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534000,
+      "num": 534000,
+      "word": "农村婚恋市场一动一不动成标配",
+      "onboard_time": 1708062632,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533159,
@@ -12905,14 +12913,6 @@
       "onboard_time": 1708046968,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412929,
-      "num": 412929,
-      "word": "农村婚恋市场一动一不动成标配",
-      "onboard_time": 1708062632,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412091,
@@ -16451,6 +16451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 311380,
+      "num": 311380,
+      "word": "陈赫一家马尔代夫度假",
+      "onboard_time": 1708063953,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "金鹤龙给杨幂化妆",
@@ -17209,6 +17217,14 @@
       "onboard_time": 1707189267,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294435,
+      "num": 294435,
+      "word": "手机号码关联了多少互联网账号",
+      "onboard_time": 1708063594,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 294008,
@@ -21451,14 +21467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229885,
-      "num": 229885,
-      "word": "手机号码关联了多少互联网账号",
-      "onboard_time": 1708063594,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 229699,
       "num": 229699,
       "word": "闺蜜和我对象结婚我当伴娘",
@@ -23299,14 +23307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210156,
-      "num": 210156,
-      "word": "陈赫一家马尔代夫度假",
-      "onboard_time": 1708063953,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210123,
       "num": 210123,
       "word": "热辣滚烫票房破15亿",
@@ -23681,6 +23681,14 @@
       "onboard_time": 1707664654,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "刘雯井柏然机场同框",
+      "onboard_time": 1708065272,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207138,
@@ -24377,6 +24385,14 @@
       "onboard_time": 1707472111,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202781,
+      "num": 202781,
+      "word": "金晨训狗",
+      "onboard_time": 1708064970,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202692,
@@ -25288,6 +25304,14 @@
       "word": "飞驰2破18亿主创秀十八般武艺",
       "onboard_time": 1707983851,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197191,
+      "num": 200474,
+      "word": "龙标一出就不能再对着电影屏幕拍摄了",
+      "onboard_time": 1708064911,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -27089,6 +27113,14 @@
       "onboard_time": 1706793272,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186029,
+      "num": 186029,
+      "word": "贾玲雷佳音他追她逃",
+      "onboard_time": 1708064432,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 185901,
@@ -36291,6 +36323,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126742,
+      "num": 126742,
+      "word": "至始至终我都只想要一个拥抱",
+      "onboard_time": 1708065272,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126714,
       "num": 126714,
       "word": "汤普森生涯15000分",
@@ -36985,14 +37025,6 @@
       "onboard_time": 1707118173,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 122482,
-      "num": 122482,
-      "word": "贾玲雷佳音他追她逃",
-      "onboard_time": 1708064432,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 122457,
