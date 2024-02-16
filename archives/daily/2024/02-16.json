@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708096683093,
+  "endTime": 1708097660716,
   "band_list": [
     {
       "raw_hot": 3306882,
@@ -123,6 +123,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1370110,
+      "num": 1370110,
+      "word": "为什么杜乐莹跳楼没有死",
+      "onboard_time": 1708094493,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1342305,
       "num": 1342305,
       "word": "粉丝模仿薛之谦晒盗摄图",
@@ -131,12 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1300537,
-      "num": 1300537,
-      "word": "为什么杜乐莹跳楼没有死",
-      "onboard_time": 1708094493,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 1300099,
+      "num": 1300099,
+      "word": "南北",
+      "onboard_time": 1708094612,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1281903,
@@ -153,14 +161,6 @@
       "onboard_time": 1708083396,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1262218,
-      "num": 1262218,
-      "word": "南北",
-      "onboard_time": 1708094612,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1206439,
@@ -331,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 837115,
+      "num": 837115,
+      "word": "林俊杰是黄老板演唱会嘉宾",
+      "onboard_time": 1708094857,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 814858,
       "num": 814858,
       "word": "任子威给林孝埈递外套",
@@ -361,14 +369,6 @@
       "onboard_time": 1708086213,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 769661,
-      "num": 769661,
-      "word": "林俊杰是黄老板演唱会嘉宾",
-      "onboard_time": 1708094857,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 765440,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723914,
+      "num": 413945,
+      "word": "盗摄元年",
+      "onboard_time": 1708096596,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 712073,
       "num": 712073,
       "word": "吴京与家人新加坡过春节",
@@ -475,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 686141,
+      "num": 409254,
+      "word": "放过胡夏吧他看起来快碎了",
+      "onboard_time": 1708094914,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 676487,
       "num": 676487,
       "word": "主办方称赛前15分钟得知梅西缺阵",
@@ -497,14 +513,6 @@
       "onboard_time": 1708010378,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 671394,
-      "num": 371006,
-      "word": "放过胡夏吧他看起来快碎了",
-      "onboard_time": 1708094914,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 671137,
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629371,
+      "num": 336608,
+      "word": "惠英红评论刘亦菲",
+      "onboard_time": 1708095395,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629268,
       "num": 554290,
       "word": "吕修诚缝了16针",
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606014,
+      "num": 336284,
+      "word": "吃的干净真的会瘦",
+      "onboard_time": 1708095213,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 602153,
       "num": 602153,
       "word": "梅西第60分钟被换下",
@@ -609,14 +633,6 @@
       "onboard_time": 1708086393,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 585329,
-      "num": 336608,
-      "word": "惠英红评论刘亦菲",
-      "onboard_time": 1708095395,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 571587,
@@ -641,14 +657,6 @@
       "onboard_time": 1708054829,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 560997,
-      "num": 336284,
-      "word": "吃的干净真的会瘦",
-      "onboard_time": 1708095213,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 556223,
@@ -889,6 +897,14 @@
       "onboard_time": 1708045529,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 422462,
+      "num": 422462,
+      "word": "联合国教科文组织科普版权符号",
+      "onboard_time": 1708096475,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 421185,
@@ -1243,8 +1259,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287638,
-      "num": 287638,
+      "raw_hot": 288425,
+      "num": 288425,
       "word": "蒲熠星被认证巅峰玩家",
       "onboard_time": 1708094797,
       "rank": 26,
@@ -1283,12 +1299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278625,
+      "num": 278625,
+      "word": "双鱼座生日快乐",
+      "onboard_time": 1708095996,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276000,
       "num": 276000,
       "word": "方时赫为enhypen亲自编曲",
       "onboard_time": 1708052488,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 268856,
+      "num": 268856,
+      "word": "阿姨 完蛋真碰到穷鬼了",
+      "onboard_time": 1708095937,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 267409,
@@ -1379,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251506,
+      "num": 272651,
+      "word": "15岁初中生讲述为什么不爱读书",
+      "onboard_time": 1708093895,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 251425,
       "num": 251425,
       "word": "国乒女团两度落后两度扳平",
@@ -1395,12 +1435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249891,
-      "num": 249891,
-      "word": "阿姨 完蛋真碰到穷鬼了",
-      "onboard_time": 1708095937,
+      "raw_hot": 244590,
+      "num": 244590,
+      "word": "联合国这么说",
+      "onboard_time": 1708097015,
       "rank": 32,
-      "category": "幽默"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242129,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1708072889,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231130,
+      "num": 231130,
+      "word": "鹅 我命由我不由天",
+      "onboard_time": 1708096176,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 230718,
@@ -1553,22 +1601,6 @@
       "onboard_time": 1708045168,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220566,
-      "num": 220566,
-      "word": "联合国教科文组织科普版权符号",
-      "onboard_time": 1708096475,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 219540,
-      "num": 219540,
-      "word": "15岁初中生讲述为什么不爱读书",
-      "onboard_time": 1708093895,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 218912,
@@ -1715,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204546,
-      "num": 204546,
-      "word": "鹅 我命由我不由天",
-      "onboard_time": 1708096176,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202472,
       "num": 202472,
       "word": "中方驳斥卡梅伦将红海和台湾海峡混为一谈",
@@ -1792,6 +1816,14 @@
       "word": "会装睡且能听懂人话的狗狗",
       "onboard_time": 1708054771,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 198368,
+      "num": 198368,
+      "word": "我爱丑猫",
+      "onboard_time": 1708095874,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -1996,7 +2028,7 @@
     },
     {
       "raw_hot": 182760,
-      "num": 1366267,
+      "num": 1410819,
       "word": "十四冬参赛代表团入场主打国潮风",
       "onboard_time": 1708091198,
       "rank": 2,
@@ -2017,14 +2049,6 @@
       "onboard_time": 1708074028,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179676,
-      "num": 179676,
-      "word": "双鱼座生日快乐",
-      "onboard_time": 1708095996,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 179626,
@@ -2139,14 +2163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169707,
-      "num": 169707,
-      "word": "我爱丑猫",
-      "onboard_time": 1708095874,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169138,
       "num": 169138,
       "word": "延安电影院偶遇吴磊",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1708095337,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 167786,
-      "num": 167786,
-      "word": "盗摄元年",
-      "onboard_time": 1708096596,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167247,
@@ -2241,6 +2249,14 @@
       "onboard_time": 1708003178,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162722,
+      "num": 162722,
+      "word": "没见过全省一起被骗的",
+      "onboard_time": 1708097432,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 162195,
