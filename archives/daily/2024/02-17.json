@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708114646121,
+  "endTime": 1708115662881,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -451,7 +451,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23056,
+      "raw_hot": 34618,
       "num": 23056,
       "word": "兰博基尼回村撞报废车主否认车是租的",
       "onboard_time": 1708112056,
@@ -473,6 +473,14 @@
       "onboard_time": 1708090956,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14537,
+      "num": 17185,
+      "word": "一百多年前的猫奴",
+      "onboard_time": 1708115419,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 11868,
