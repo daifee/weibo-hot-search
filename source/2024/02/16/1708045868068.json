@@ -1,0 +1,410 @@
+{
+  "runTime": 1708045868068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1502779,
+        "num": 1502779,
+        "word": "糖尿病一般不是吃糖吃出来的",
+        "onboard_time": 1708041686,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 808248,
+        "num": 808248,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13833,
+        "num": 707322,
+        "word": "我与家人合个影",
+        "onboard_time": 1707969690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698532,
+        "num": 698532,
+        "word": "钟楚曦侯雯元一起回国",
+        "onboard_time": 1708044567,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597255,
+        "num": 597255,
+        "word": "大年初七",
+        "onboard_time": 1708039640,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583320,
+        "num": 583320,
+        "word": "苹果停止签署iOS17.3",
+        "onboard_time": 1708044029,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 557825,
+        "num": 557825,
+        "word": "为什么费列罗卖不动了",
+        "onboard_time": 1708006055,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 556362,
+        "num": 556362,
+        "word": "魏大勋被强制闭麦",
+        "onboard_time": 1708009054,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442371,
+        "num": 442371,
+        "word": "郑润泽发文",
+        "onboard_time": 1708039640,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437199,
+        "num": 437199,
+        "word": "新能源车主称海南出岛船票已等6天",
+        "onboard_time": 1708043068,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756551,
+        "num": 430843,
+        "word": "春节第五天我偷跑出门开钟点房了",
+        "onboard_time": 1708005995,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423344,
+        "num": 423344,
+        "word": "陈都灵李公子30秒文学",
+        "onboard_time": 1708042048,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408002,
+        "num": 408002,
+        "word": "特朗普回应普京选拜登",
+        "onboard_time": 1708039281,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 363657,
+        "num": 363657,
+        "word": "生孩子的气让孩子无气可生",
+        "onboard_time": 1708028475,
+        "rank": 13,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 360151,
+        "num": 360151,
+        "word": "贾玲 能拯救我的只有我自己",
+        "onboard_time": 1708044990,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320816,
+        "num": 320816,
+        "word": "内娱95生最出圈的角色",
+        "onboard_time": 1708015048,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313004,
+        "num": 313004,
+        "word": "春节假期余额只剩两天",
+        "onboard_time": 1708041085,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305720,
+        "num": 305720,
+        "word": "看电影拍照发朋友圈算盗摄吗",
+        "onboard_time": 1708041085,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262718,
+        "num": 262718,
+        "word": "贾玲14年前曾找减肥搭子",
+        "onboard_time": 1707998437,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239418,
+        "num": 239418,
+        "word": "羽绒服先别收起来",
+        "onboard_time": 1708013071,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397374,
+        "num": 227468,
+        "word": "女子泡影院一天看完春节档电影患青光眼",
+        "onboard_time": 1708044328,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196673,
+        "num": 196673,
+        "word": "孙千 外貌是最不应该去攻击的",
+        "onboard_time": 1708007619,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185487,
+        "num": 185487,
+        "word": "中国队时隔9年再夺100自金牌",
+        "onboard_time": 1708041747,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178671,
+        "num": 178671,
+        "word": "孙悦隐退八年因为儿子复出",
+        "onboard_time": 1708003295,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174880,
+        "num": 174880,
+        "word": "大侦探魏晨摊牌",
+        "onboard_time": 1708045168,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174377,
+        "num": 174377,
+        "word": "马丽主演电影票房破180亿",
+        "onboard_time": 1708017562,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160689,
+        "num": 160689,
+        "word": "小县城私立中学为何备受家长追捧",
+        "onboard_time": 1708034597,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159739,
+        "num": 159739,
+        "word": "刘维春晚只上了59秒",
+        "onboard_time": 1708002695,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157804,
+        "num": 157804,
+        "word": "你写的vs人民日报写的",
+        "onboard_time": 1708044990,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157137,
+        "num": 157137,
+        "word": "张艺兴旗下女团或即将出道",
+        "onboard_time": 1708008278,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156464,
+        "num": 156464,
+        "word": "小龙糕",
+        "onboard_time": 1708040666,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151139,
+        "num": 151139,
+        "word": "杨幂朱一龙魏大勋魏晨同框",
+        "onboard_time": 1708006776,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "特朗普将接受刑事审判",
+        "onboard_time": 1708045529,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 142993,
+        "word": "济南兴洲解散",
+        "onboard_time": 1708039640,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138776,
+        "num": 138776,
+        "word": "今年的婚催得比往年更猛烈一些",
+        "onboard_time": 1708045529,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134951,
+        "num": 134951,
+        "word": "三亚偶遇黄景瑜",
+        "onboard_time": 1708012234,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131294,
+        "num": 131294,
+        "word": "不结婚痛苦的只是父母吗",
+        "onboard_time": 1708033096,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128866,
+        "num": 128866,
+        "word": "2024春节档票房进入影史前二",
+        "onboard_time": 1708041325,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113023,
+        "num": 113023,
+        "word": "泉州踩街",
+        "onboard_time": 1708040062,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110243,
+        "num": 110243,
+        "word": "返程后备箱",
+        "onboard_time": 1708043668,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109040,
+        "num": 109040,
+        "word": "中国队女子自由泳接力再夺一金",
+        "onboard_time": 1708042767,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103966,
+        "num": 103966,
+        "word": "加里纳利加盟雄鹿",
+        "onboard_time": 1708045350,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99476,
+        "num": 99476,
+        "word": "贾玲 如果走位错了就把我打到那",
+        "onboard_time": 1707995616,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98056,
+        "num": 98056,
+        "word": "南来北往",
+        "onboard_time": 1708045768,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97659,
+        "num": 97659,
+        "word": "姆巴佩赛季结束后离开巴黎",
+        "onboard_time": 1708039824,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97256,
+        "num": 97256,
+        "word": "中国姑娘们比赛反超第一看得太爽",
+        "onboard_time": 1708042826,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95746,
+        "num": 95746,
+        "word": "各省的山",
+        "onboard_time": 1708044147,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94055,
+        "num": 94055,
+        "word": "微信语音弹琴",
+        "onboard_time": 1708043367,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92881,
+        "num": 92881,
+        "word": "胎儿石化",
+        "onboard_time": 1707992073,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92058,
+        "num": 92058,
+        "word": "回家过年被小城市的消费震惊到",
+        "onboard_time": 1708038018,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

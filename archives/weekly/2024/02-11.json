@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708040061545,
+  "endTime": 1708045868068,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -609,6 +609,14 @@
       "onboard_time": 1707696750,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1502779,
+      "num": 1502779,
+      "word": "糖尿病一般不是吃糖吃出来的",
+      "onboard_time": 1708041686,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1499292,
@@ -2227,6 +2235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 698532,
+      "num": 698532,
+      "word": "钟楚曦侯雯元一起回国",
+      "onboard_time": 1708044567,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697657,
       "num": 544123,
       "word": "刘能儿子",
@@ -2675,6 +2691,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 597255,
+      "num": 597255,
+      "word": "大年初七",
+      "onboard_time": 1708039640,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596533,
       "num": 596533,
       "word": "黑执事作者曾阻止真人版角色恋爱",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1707881070,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 583320,
+      "num": 583320,
+      "word": "苹果停止签署iOS17.3",
+      "onboard_time": 1708044029,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 583125,
@@ -3763,6 +3795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442371,
+      "num": 442371,
+      "word": "郑润泽发文",
+      "onboard_time": 1708039640,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441948,
       "num": 382989,
       "word": "别让肝脏变得黏糊糊",
@@ -3825,6 +3865,14 @@
       "onboard_time": 1707636330,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 437199,
+      "num": 437199,
+      "word": "新能源车主称海南出岛船票已等6天",
+      "onboard_time": 1708043068,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436706,
@@ -3987,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423344,
+      "num": 423344,
+      "word": "陈都灵李公子30秒文学",
+      "onboard_time": 1708042048,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422513,
       "num": 422513,
       "word": "张远眼睛到底是怎么变大的啊",
@@ -4129,6 +4185,14 @@
       "onboard_time": 1707717509,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408002,
+      "num": 408002,
+      "word": "特朗普回应普京选拜登",
+      "onboard_time": 1708039281,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 407883,
@@ -4281,6 +4345,14 @@
       "onboard_time": 1707967715,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 397374,
+      "num": 227468,
+      "word": "女子泡影院一天看完春节档电影患青光眼",
+      "onboard_time": 1708044328,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395418,
@@ -4659,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363657,
+      "num": 363657,
+      "word": "生孩子的气让孩子无气可生",
+      "onboard_time": 1708028475,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 361592,
       "num": 589852,
       "word": "22岁华人女孩独自雪山徒步不幸遇难",
@@ -4672,6 +4752,14 @@
       "word": "听障粉丝见赵丽颖激动落泪",
       "onboard_time": 1707707312,
       "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 360151,
+      "num": 360151,
+      "word": "贾玲 能拯救我的只有我自己",
+      "onboard_time": 1708044990,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -5203,6 +5291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313004,
+      "num": 313004,
+      "word": "春节假期余额只剩两天",
+      "onboard_time": 1708041085,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311646,
       "num": 311646,
       "word": "王濛 永远不要小看每一分努力",
@@ -5257,6 +5353,14 @@
       "onboard_time": 1707791374,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305720,
+      "num": 305720,
+      "word": "看电影拍照发朋友圈算盗摄吗",
+      "onboard_time": 1708041085,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 304114,
@@ -5905,14 +6009,6 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 262826,
-      "num": 262826,
-      "word": "大年初七",
-      "onboard_time": 1708039640,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262635,
@@ -7963,14 +8059,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 192683,
-      "num": 124798,
-      "word": "生孩子的气让孩子无气可生",
-      "onboard_time": 1708028475,
-      "rank": 38,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 192666,
       "num": 150367,
       "word": "村里人对大学生的误解",
@@ -8249,6 +8337,14 @@
       "onboard_time": 1707828398,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185487,
+      "num": 185487,
+      "word": "中国队时隔9年再夺100自金牌",
+      "onboard_time": 1708041747,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 185400,
@@ -8625,6 +8721,14 @@
       "onboard_time": 1707633150,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174880,
+      "num": 174880,
+      "word": "大侦探魏晨摊牌",
+      "onboard_time": 1708045168,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 174870,
@@ -9307,6 +9411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160689,
+      "num": 160689,
+      "word": "小县城私立中学为何备受家长追捧",
+      "onboard_time": 1708034597,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160092,
       "num": 160092,
       "word": "刘德华说从来没争过番位",
@@ -9433,6 +9545,14 @@
       "onboard_time": 1707698130,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157804,
+      "num": 157804,
+      "word": "你写的vs人民日报写的",
+      "onboard_time": 1708044990,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 157601,
@@ -9859,14 +9979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149452,
-      "num": 90333,
-      "word": "小县城私立中学为何备受家长追捧",
-      "onboard_time": 1708034597,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149420,
       "num": 149420,
       "word": "沈眉庄温太医重聚",
@@ -10147,6 +10259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143772,
+      "num": 143772,
+      "word": "特朗普将接受刑事审判",
+      "onboard_time": 1708045529,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143731,
       "num": 143731,
       "word": "柯南剧场版平和上大分",
@@ -10209,6 +10329,14 @@
       "onboard_time": 1707980731,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142993,
+      "num": 142993,
+      "word": "济南兴洲解散",
+      "onboard_time": 1708039640,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 142776,
@@ -10425,6 +10553,14 @@
       "onboard_time": 1707618448,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138776,
+      "num": 138776,
+      "word": "今年的婚催得比往年更猛烈一些",
+      "onboard_time": 1708045529,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 138760,
@@ -10755,6 +10891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131294,
+      "num": 131294,
+      "word": "不结婚痛苦的只是父母吗",
+      "onboard_time": 1708033096,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131135,
       "num": 131135,
       "word": "终于读懂了送东阳马生序",
@@ -10873,6 +11017,14 @@
       "onboard_time": 1707967592,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128866,
+      "num": 128866,
+      "word": "2024春节档票房进入影史前二",
+      "onboard_time": 1708041325,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 128717,
@@ -11771,6 +11923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113023,
+      "num": 113023,
+      "word": "泉州踩街",
+      "onboard_time": 1708040062,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112937,
       "num": 112937,
       "word": "猫猫的绝对音感",
@@ -11931,6 +12091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110243,
+      "num": 110243,
+      "word": "返程后备箱",
+      "onboard_time": 1708043668,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110186,
       "num": 110186,
       "word": "林青霞关注王祖贤超话",
@@ -11993,6 +12161,14 @@
       "onboard_time": 1707808296,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109040,
+      "num": 109040,
+      "word": "中国队女子自由泳接力再夺一金",
+      "onboard_time": 1708042767,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 108644,
@@ -12147,20 +12323,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 104402,
-      "num": 104402,
-      "word": "特朗普回应普京选拜登",
-      "onboard_time": 1708039281,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 104075,
       "num": 104075,
       "word": "假期不代表我们要和家人零距离",
       "onboard_time": 1707877290,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103966,
+      "num": 103966,
+      "word": "加里纳利加盟雄鹿",
+      "onboard_time": 1708045350,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 103701,
@@ -12315,6 +12491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97659,
+      "num": 97659,
+      "word": "姆巴佩赛季结束后离开巴黎",
+      "onboard_time": 1708039824,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97256,
+      "num": 97256,
+      "word": "中国姑娘们比赛反超第一看得太爽",
+      "onboard_time": 1708042826,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97197,
       "num": 97197,
       "word": "湖人买断市场的神",
@@ -12329,6 +12521,14 @@
       "onboard_time": 1707709471,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95746,
+      "num": 95746,
+      "word": "各省的山",
+      "onboard_time": 1708044147,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 95714,
@@ -12361,6 +12561,14 @@
       "onboard_time": 1707585024,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94055,
+      "num": 94055,
+      "word": "微信语音弹琴",
+      "onboard_time": 1708043367,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 93928,
@@ -12427,11 +12635,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91870,
-      "num": 89174,
-      "word": "不结婚痛苦的只是父母吗",
-      "onboard_time": 1708033096,
-      "rank": 20,
+      "raw_hot": 92058,
+      "num": 92058,
+      "word": "回家过年被小城市的消费震惊到",
+      "onboard_time": 1708038018,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -12513,14 +12721,6 @@
       "onboard_time": 1707572259,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85960,
-      "num": 85960,
-      "word": "回家过年被小城市的消费震惊到",
-      "onboard_time": 1708038018,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 83597,
@@ -12641,14 +12841,6 @@
       "onboard_time": 1708039460,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74291,
-      "num": 74291,
-      "word": "郑润泽发文",
-      "onboard_time": 1708039640,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 73763,
@@ -12795,14 +12987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 54951,
-      "num": 54951,
-      "word": "姆巴佩赛季结束后离开巴黎",
-      "onboard_time": 1708039824,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54840,
       "num": 132821,
       "word": "飞驰人生2是韩导写的新疆攻略",
@@ -12817,14 +13001,6 @@
       "onboard_time": 1707691338,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 52772,
-      "num": 52772,
-      "word": "济南兴洲解散",
-      "onboard_time": 1708039640,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 52757,
