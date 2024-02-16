@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708122842986,
+  "endTime": 1708125379485,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -4219,6 +4219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 477422,
+      "num": 477422,
+      "word": "母亲连夜杀10只鸡分给返程儿女",
+      "onboard_time": 1708119135,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476921,
       "num": 476921,
       "word": "李慕白 赵丽颖第二十条的表演很成功",
@@ -6035,6 +6043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325821,
+      "num": 325821,
+      "word": "为救同学挡8刀的女孩成为反诈民警",
+      "onboard_time": 1708118955,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -7145,14 +7161,6 @@
       "onboard_time": 1708048232,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263656,
-      "num": 263656,
-      "word": "母亲连夜杀10只鸡分给返程儿女",
-      "onboard_time": 1708119135,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262635,
@@ -11667,14 +11675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155327,
-      "num": 155327,
-      "word": "为救同学挡8刀的女孩成为反诈民警",
-      "onboard_time": 1708118955,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 155278,
       "num": 155278,
       "word": "赵今麦一双好会爱人的眼睛",
@@ -11860,7 +11860,7 @@
     },
     {
       "raw_hot": 152164,
-      "num": 100096,
+      "num": 149604,
       "word": "张小斐主演票房破90亿",
       "onboard_time": 1708110257,
       "rank": 11,
@@ -15243,12 +15243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74466,
+      "num": 74466,
+      "word": "董志豪200蛙夺冠",
+      "onboard_time": 1708124839,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73763,
       "num": 132176,
       "word": "王楚钦扣高球训练",
       "onboard_time": 1707999938,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72923,
+      "num": 72923,
+      "word": "兰博基尼回村撞报废车主否认车是租的",
+      "onboard_time": 1708112056,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72526,
@@ -15299,11 +15315,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67361,
+      "num": 67361,
+      "word": "大年初八",
+      "onboard_time": 1708125322,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66206,
       "num": 118167,
       "word": "孙颖莎 放高球训练",
       "onboard_time": 1708000951,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64869,
+      "num": 64869,
+      "word": "游泳世锦赛",
+      "onboard_time": 1708124780,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -15531,6 +15563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45331,
+      "num": 45331,
+      "word": "春节假期最后一天",
+      "onboard_time": 1708125322,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45245,
       "num": 45245,
       "word": "陈都灵这次没演坏人",
@@ -15553,6 +15593,14 @@
       "onboard_time": 1707866363,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 43398,
+      "num": 43398,
+      "word": "中美慕尼黑举行会见",
+      "onboard_time": 1708125020,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43325,
@@ -15603,6 +15651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 40474,
+      "num": 40474,
+      "word": "一百多年前的猫奴",
+      "onboard_time": 1708115419,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40296,
       "num": 40296,
       "word": "放长假就感冒警惕周末病",
@@ -15635,20 +15691,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37134,
+      "num": 37134,
+      "word": "林亦扬殷果打火机许愿",
+      "onboard_time": 1708122377,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36566,
       "num": 42310,
       "word": "乙骨忧太好辣一男的",
       "onboard_time": 1707780683,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 35086,
-      "num": 25391,
-      "word": "兰博基尼回村撞报废车主否认车是租的",
-      "onboard_time": 1708112056,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34658,
@@ -15681,6 +15737,14 @@
       "onboard_time": 1707594618,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32542,
+      "num": 32542,
+      "word": "潘展乐3冠王",
+      "onboard_time": 1708125322,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 31573,
@@ -15753,14 +15817,6 @@
       "onboard_time": 1707777377,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22920,
-      "num": 22920,
-      "word": "一百多年前的猫奴",
-      "onboard_time": 1708115419,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 22422,
@@ -15841,14 +15897,6 @@
       "onboard_time": 1707596835,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18618,
-      "num": 18618,
-      "word": "林亦扬殷果打火机许愿",
-      "onboard_time": 1708122377,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 18038,
