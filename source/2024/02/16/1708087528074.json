@@ -1,0 +1,410 @@
+{
+  "runTime": 1708087528074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2449773,
+        "num": 2449773,
+        "word": "薛之谦转发再回应盗摄",
+        "onboard_time": 1708085015,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1724510,
+        "num": 1724510,
+        "word": "横店是缺演员吗",
+        "onboard_time": 1708084413,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12158,
+        "num": 1325251,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224213,
+        "num": 1224213,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1040693,
+        "num": 1040693,
+        "word": "邱淑贞拍的女儿沈月",
+        "onboard_time": 1708084593,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002673,
+        "num": 1002673,
+        "word": "刘诗诗没认出来马思纯",
+        "onboard_time": 1708083396,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 893891,
+        "num": 893891,
+        "word": "刘亦菲白色吊带裙",
+        "onboard_time": 1708080333,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855367,
+        "num": 855367,
+        "word": "娱超人向薛之谦道歉",
+        "onboard_time": 1708086574,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550400,
+        "num": 550400,
+        "word": "中国居然有这么多县城没有网约车",
+        "onboard_time": 1708083934,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447401,
+        "num": 447401,
+        "word": "普京催生每个家庭至少两个孩子",
+        "onboard_time": 1708075831,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1073976,
+        "num": 446597,
+        "word": "韩国五大医院医生集体辞职抗议医学院扩招",
+        "onboard_time": 1708083094,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 600161,
+        "num": 445648,
+        "word": "全员加速中",
+        "onboard_time": 1708086393,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717899,
+        "num": 444326,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 562449,
+        "num": 443825,
+        "word": "过年采访我的丁克舅舅",
+        "onboard_time": 1708086213,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553073,
+        "num": 442290,
+        "word": "法律上没有盗摄这一说法",
+        "onboard_time": 1708082012,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441761,
+        "num": 441761,
+        "word": "张小斐 一个演员的敏感力",
+        "onboard_time": 1708081889,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434829,
+        "num": 434829,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421959,
+        "num": 421959,
+        "word": "春节回家发现未婚适龄女性比已婚的还多",
+        "onboard_time": 1708086213,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420878,
+        "num": 420878,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391948,
+        "num": 391948,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265288,
+        "num": 265288,
+        "word": "返程后备箱塞了7个烂石榴但全是爱",
+        "onboard_time": 1708077028,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263663,
+        "num": 263663,
+        "word": "王楚钦3比0拉森福斯",
+        "onboard_time": 1708085553,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243936,
+        "num": 243936,
+        "word": "我必须主动学习",
+        "onboard_time": 1708084413,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266530,
+        "num": 238408,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232204,
+        "num": 232204,
+        "word": "春天排肝毒",
+        "onboard_time": 1708083752,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221344,
+        "num": 221344,
+        "word": "俄反对派人士纳瓦利内狱中死亡",
+        "onboard_time": 1708085494,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221063,
+        "num": 221063,
+        "word": "苏醒夫妇新加坡度假",
+        "onboard_time": 1708087479,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211763,
+        "num": 211763,
+        "word": "SMTOWN合作舞台",
+        "onboard_time": 1708081471,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208602,
+        "num": 208602,
+        "word": "恋人最舒服的相处方式",
+        "onboard_time": 1708084713,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189879,
+        "num": 189879,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183321,
+        "num": 183321,
+        "word": "当我穿了双旧鞋去爬山",
+        "onboard_time": 1708086933,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177549,
+        "num": 177549,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173772,
+        "num": 173772,
+        "word": "马丽 今天李茂娟回家了吗",
+        "onboard_time": 1708081291,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171125,
+        "num": 171125,
+        "word": "要久久爱官博发文",
+        "onboard_time": 1708079790,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170321,
+        "num": 170321,
+        "word": "猫 不是说人生没有那么多观众吗",
+        "onboard_time": 1708081412,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167253,
+        "num": 167253,
+        "word": "小S二女儿偶像是张元英",
+        "onboard_time": 1708073850,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155774,
+        "num": 155774,
+        "word": "檀健次穿唐装",
+        "onboard_time": 1708083330,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154189,
+        "num": 154189,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153910,
+        "num": 153910,
+        "word": "延安电影院偶遇吴磊",
+        "onboard_time": 1708086034,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153173,
+        "num": 153173,
+        "word": "山西一警察庙会上竟多次成功偷手机",
+        "onboard_time": 1708086155,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150429,
+        "num": 150429,
+        "word": "当代95后开始整顿虚岁",
+        "onboard_time": 1708079914,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147422,
+        "num": 147422,
+        "word": "守护甜心 幼儿园主题周边",
+        "onboard_time": 1708081953,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147070,
+        "num": 147070,
+        "word": "为什么乐莹身边全是坏人",
+        "onboard_time": 1708075170,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145668,
+        "num": 145668,
+        "word": "任子威给林孝埈递外套",
+        "onboard_time": 1708076910,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142115,
+        "num": 142115,
+        "word": "樊振东开门红",
+        "onboard_time": 1708083934,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140553,
+        "num": 140553,
+        "word": "乐莹被恶剪是贾玲亲身经历",
+        "onboard_time": 1708074152,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139977,
+        "num": 139977,
+        "word": "杭州男子一条鱼卖了37万",
+        "onboard_time": 1708070191,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139311,
+        "num": 139311,
+        "word": "罗云熙水龙吟青衣路透",
+        "onboard_time": 1708083213,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124224,
+        "num": 124224,
+        "word": "IU新歌孢子MV",
+        "onboard_time": 1708074871,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124060,
+        "num": 124060,
+        "word": "我国大部地区剧烈降温",
+        "onboard_time": 1708081774,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把握传承和创新的关系#"
+    }
+  }
+}

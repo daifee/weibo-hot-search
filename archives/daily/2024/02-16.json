@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708086617672,
+  "endTime": 1708087528074,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -11,20 +11,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2449773,
+      "num": 2449773,
+      "word": "薛之谦转发再回应盗摄",
+      "onboard_time": 1708085015,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2405251,
       "num": 2405251,
       "word": "薛之谦回应盗摄",
       "onboard_time": 1708049731,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2383335,
-      "num": 2383335,
-      "word": "薛之谦转发再回应盗摄",
-      "onboard_time": 1708085015,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 2301390,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1698032,
-      "num": 1698032,
+      "raw_hot": 1724510,
+      "num": 1724510,
       "word": "横店是缺演员吗",
       "onboard_time": 1708084413,
       "rank": 1,
@@ -203,7 +203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1024413,
+      "raw_hot": 1073976,
       "num": 527955,
       "word": "韩国五大医院医生集体辞职抗议医学院扩招",
       "onboard_time": 1708083094,
@@ -257,6 +257,14 @@
       "onboard_time": 1708062093,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 855367,
+      "num": 855367,
+      "word": "娱超人向薛之谦道歉",
+      "onboard_time": 1708086574,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 842138,
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600161,
+      "num": 445648,
+      "word": "全员加速中",
+      "onboard_time": 1708086393,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571587,
       "num": 571587,
       "word": "内娱95生最出圈的角色",
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 562449,
+      "num": 443825,
+      "word": "过年采访我的丁克舅舅",
+      "onboard_time": 1708086213,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556223,
       "num": 556223,
       "word": "春断食",
@@ -529,6 +553,14 @@
       "onboard_time": 1708060353,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 550400,
+      "num": 550400,
+      "word": "中国居然有这么多县城没有网约车",
+      "onboard_time": 1708083934,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545315,
@@ -707,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424595,
-      "num": 424595,
-      "word": "中国居然有这么多县城没有网约车",
-      "onboard_time": 1708083934,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423183,
       "num": 423183,
       "word": "特朗普将接受刑事审判",
       "onboard_time": 1708045529,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 421959,
+      "num": 421959,
+      "word": "春节回家发现未婚适龄女性比已婚的还多",
+      "onboard_time": 1708086213,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421185,
@@ -809,14 +841,6 @@
       "onboard_time": 1708028475,
       "rank": 38,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 362930,
-      "num": 194920,
-      "word": "过年采访我的丁克舅舅",
-      "onboard_time": 1708086213,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 362746,
@@ -1115,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254515,
-      "num": 193767,
-      "word": "春节回家发现未婚适龄女性比已婚的还多",
-      "onboard_time": 1708086213,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253972,
       "num": 253972,
       "word": "贾玲变装转场",
@@ -1259,6 +1275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221344,
+      "num": 221344,
+      "word": "俄反对派人士纳瓦利内狱中死亡",
+      "onboard_time": 1708085494,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 221063,
+      "num": 221063,
+      "word": "苏醒夫妇新加坡度假",
+      "onboard_time": 1708087479,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220947,
       "num": 220947,
       "word": "大侦探魏晨摊牌",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1708076671,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 218733,
-      "num": 218733,
-      "word": "俄反对派人士纳瓦利内狱中死亡",
-      "onboard_time": 1708085494,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 218075,
@@ -1433,14 +1457,6 @@
       "onboard_time": 1708051352,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201994,
-      "num": 201994,
-      "word": "全员加速中",
-      "onboard_time": 1708086393,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 201793,
@@ -1664,6 +1680,14 @@
       "word": "猫猫的失落是具象化的",
       "onboard_time": 1708011872,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 183321,
+      "num": 183321,
+      "word": "当我穿了双旧鞋去爬山",
+      "onboard_time": 1708086933,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -2011,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153173,
+      "num": 153173,
+      "word": "山西一警察庙会上竟多次成功偷手机",
+      "onboard_time": 1708086155,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153026,
       "num": 153026,
       "word": "苏袀禾回应撞脸肖战霍建华",
@@ -2041,14 +2073,6 @@
       "onboard_time": 1708082432,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150587,
-      "num": 150587,
-      "word": "娱超人向薛之谦道歉",
-      "onboard_time": 1708086574,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 150348,
@@ -2739,7 +2763,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11121,
+      "raw_hot": 12158,
       "num": 1442336,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
