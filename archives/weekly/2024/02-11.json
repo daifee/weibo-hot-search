@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708067779871,
+  "endTime": 1708068837558,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 1206439,
-      "num": 627857,
+      "num": 631070,
       "word": "白敬亭想尝试电影拍摄",
       "onboard_time": 1708059152,
       "rank": 10,
@@ -2132,7 +2132,7 @@
     },
     {
       "raw_hot": 749233,
-      "num": 534000,
+      "num": 592263,
       "word": "农村婚恋市场一动一不动成标配",
       "onboard_time": 1708062632,
       "rank": 16,
@@ -2459,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690088,
+      "num": 690088,
+      "word": "玲姐 我有点想看哎",
+      "onboard_time": 1708066291,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 686282,
       "num": 686282,
       "word": "等红绿灯偶遇赵丽颖",
@@ -2555,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669926,
+      "num": 669926,
+      "word": "刘宇宁田曦薇 风月不相关",
+      "onboard_time": 1708067551,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 668434,
       "num": 668434,
       "word": "I NEED U",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1707909519,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 663114,
+      "num": 663114,
+      "word": "为什么阴干的衣服有臭味",
+      "onboard_time": 1708067251,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 662589,
@@ -2705,14 +2729,6 @@
       "onboard_time": 1707792633,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 634476,
-      "num": 634476,
-      "word": "玲姐 我有点想看哎",
-      "onboard_time": 1708066291,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 633511,
@@ -3305,6 +3321,14 @@
       "onboard_time": 1707799599,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 545315,
+      "num": 545315,
+      "word": "十个勤天费加罗男士瑞雪封面",
+      "onboard_time": 1708067251,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 545029,
@@ -4339,6 +4363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 425172,
+      "num": 425172,
+      "word": "老百姓为什么不愿意贷款买房了",
+      "onboard_time": 1708067489,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 424956,
       "num": 424956,
       "word": "ateez 抄袭",
@@ -4729,14 +4761,6 @@
       "onboard_time": 1707734672,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 389119,
-      "num": 389119,
-      "word": "十个勤天费加罗男士瑞雪封面",
-      "onboard_time": 1708067251,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 387154,
@@ -5523,6 +5547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326248,
+      "num": 326248,
+      "word": "混合接力黑龙江队被取消成绩",
+      "onboard_time": 1708067310,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325485,
       "num": 325485,
       "word": "尼格买提有人陪你了",
@@ -5865,14 +5897,6 @@
       "onboard_time": 1708002276,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296991,
-      "num": 195003,
-      "word": "为什么阴干的衣服有臭味",
-      "onboard_time": 1708067251,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 296780,
@@ -6297,14 +6321,6 @@
       "onboard_time": 1707835896,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 275040,
-      "num": 275040,
-      "word": "老百姓为什么不愿意贷款买房了",
-      "onboard_time": 1708067489,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 274829,
@@ -7884,7 +7900,7 @@
     },
     {
       "raw_hot": 211498,
-      "num": 194467,
+      "num": 208796,
       "word": "杭州全家11口第5年旅行过年",
       "onboard_time": 1708066713,
       "rank": 31,
@@ -7993,6 +8009,14 @@
       "onboard_time": 1707639090,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208884,
+      "num": 208884,
+      "word": "飞驰人生2观众满意度第一",
+      "onboard_time": 1708068691,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 208608,
@@ -8145,14 +8169,6 @@
       "onboard_time": 1707698070,
       "rank": 25,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 205665,
-      "num": 205665,
-      "word": "混合接力黑龙江队被取消成绩",
-      "onboard_time": 1708067310,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 205516,
@@ -8691,12 +8707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195030,
-      "num": 195030,
-      "word": "刘宇宁田曦薇 风月不相关",
-      "onboard_time": 1708067551,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 195232,
+      "num": 195232,
+      "word": "原生家庭的痛真的很难自愈",
+      "onboard_time": 1708067251,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 194916,
@@ -9601,14 +9617,6 @@
       "onboard_time": 1707704729,
       "rank": 29,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 174189,
-      "num": 174189,
-      "word": "原生家庭的痛真的很难自愈",
-      "onboard_time": 1708067251,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 174018,
@@ -10683,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154093,
+      "num": 154093,
+      "word": "贾玲张小斐从籍籍无名到人声鼎沸",
+      "onboard_time": 1708068570,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154086,
       "num": 154086,
       "word": "郑钦文比赛",
@@ -11307,6 +11323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142807,
+      "num": 142807,
+      "word": "克林斯曼下课",
+      "onboard_time": 1708067733,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142776,
       "num": 142776,
       "word": "贾玲路演现场拳击动作好帅",
@@ -11609,6 +11633,14 @@
       "onboard_time": 1707794617,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137665,
+      "num": 137665,
+      "word": "黑执事 夏尔塞巴斯爆改",
+      "onboard_time": 1708068811,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 137628,
@@ -12273,14 +12305,6 @@
       "onboard_time": 1707875971,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126057,
-      "num": 126057,
-      "word": "克林斯曼下课",
-      "onboard_time": 1708067733,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 125960,
@@ -13968,6 +13992,14 @@
       "word": "浙江的农村究竟有多富",
       "onboard_time": 1707946396,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69842,
+      "num": 884367,
+      "word": "十四冬开幕式剧透来了",
+      "onboard_time": 1708053752,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
