@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708058115213,
+  "endTime": 1708060621756,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1564918,
+      "num": 1564918,
+      "word": "胖东来员工被曝悄悄尝面",
+      "onboard_time": 1708059211,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1534477,
       "num": 1534477,
       "word": "贾玲和杨迪聊天五小时菜一口没动",
@@ -1155,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130353,
+      "num": 1130353,
+      "word": "任子威被撞",
+      "onboard_time": 1708058373,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1122752,
       "num": 1122752,
       "word": "情人节骂醒恋爱脑销量暴增3倍",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1707725912,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1042007,
+      "num": 1042007,
+      "word": "果粉们开始大批退货VisionPro",
+      "onboard_time": 1708056571,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 1036918,
@@ -1571,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 937845,
+      "num": 573017,
+      "word": "白敬亭想尝试电影拍摄",
+      "onboard_time": 1708059152,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 933388,
       "num": 933388,
       "word": "马思纯是周冬雨唯一的姐",
@@ -1811,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842138,
+      "num": 842138,
+      "word": "刘松仁宣布不再拍戏",
+      "onboard_time": 1708056872,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840158,
       "num": 840158,
       "word": "杜乐莹是怎么爱上昊坤的",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1707971492,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 762444,
-      "num": 762444,
-      "word": "刘松仁宣布不再拍戏",
-      "onboard_time": 1708056872,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 758832,
@@ -2489,6 +2521,14 @@
       "onboard_time": 1707828639,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667941,
+      "num": 570871,
+      "word": "律师谈薛之谦被指盗摄",
+      "onboard_time": 1708056811,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 667410,
@@ -3000,6 +3040,14 @@
       "word": "官方辟谣福州2.1亿元天价婚礼",
       "onboard_time": 1707869426,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573115,
+      "num": 573115,
+      "word": "海南一游客退房时被要求擦马桶",
+      "onboard_time": 1708057953,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3579,14 +3627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498132,
-      "num": 498132,
-      "word": "律师谈薛之谦被指盗摄",
-      "onboard_time": 1708056811,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 497039,
       "num": 497039,
       "word": "春节档票房",
@@ -3625,6 +3665,14 @@
       "onboard_time": 1707646834,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493228,
+      "num": 493228,
+      "word": "国乒女团3比2印度",
+      "onboard_time": 1708058433,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 492524,
@@ -3993,6 +4041,14 @@
       "onboard_time": 1707742654,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443770,
+      "num": 443770,
+      "word": "韩素希跳drama",
+      "onboard_time": 1708058433,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 443356,
@@ -4609,14 +4665,6 @@
       "onboard_time": 1707734672,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 387660,
-      "num": 387660,
-      "word": "果粉们开始大批退货VisionPro",
-      "onboard_time": 1708056571,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 387154,
@@ -5419,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319618,
+      "num": 319618,
+      "word": "看电影并不是中间位置最好",
+      "onboard_time": 1708056872,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319494,
       "num": 175690,
       "word": "哈药六厂为什么是东北卢浮宫",
@@ -5505,14 +5561,6 @@
       "onboard_time": 1707975212,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 314943,
-      "num": 314943,
-      "word": "看电影并不是中间位置最好",
-      "onboard_time": 1708056872,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 314708,
@@ -6737,6 +6785,14 @@
       "onboard_time": 1707793176,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 241944,
+      "num": 241944,
+      "word": "孙阳微博评论区",
+      "onboard_time": 1708058314,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241882,
@@ -8283,6 +8339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197315,
+      "num": 197315,
+      "word": "褪黑素只有2类人适用",
+      "onboard_time": 1708059994,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197269,
       "num": 197269,
       "word": "飞驰2破18亿主创秀十八般武艺",
@@ -8345,6 +8409,14 @@
       "onboard_time": 1707713913,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196514,
+      "num": 196514,
+      "word": "热辣滚烫乐莹查男友手机",
+      "onboard_time": 1708060353,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 196256,
@@ -8835,6 +8907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184681,
+      "num": 184681,
+      "word": "勇士战胜爵士",
+      "onboard_time": 1708059693,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183864,
       "num": 183864,
       "word": "为什么猪肉没有以前的好吃了",
@@ -8873,6 +8953,14 @@
       "onboard_time": 1707726032,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 183434,
+      "num": 183434,
+      "word": "哈尔滨冰雪大世界正式闭园",
+      "onboard_time": 1708060113,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 183278,
@@ -8945,6 +9033,14 @@
       "onboard_time": 1707698909,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181768,
+      "num": 181768,
+      "word": "昨天什么克莱今天什么克莱",
+      "onboard_time": 1708060050,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 181456,
@@ -9081,6 +9177,14 @@
       "onboard_time": 1707707432,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178750,
+      "num": 178750,
+      "word": "王曼昱独得两分",
+      "onboard_time": 1708058853,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178650,
@@ -9265,6 +9369,14 @@
       "onboard_time": 1707732992,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172889,
+      "num": 172889,
+      "word": "宋亚轩非我不可预告",
+      "onboard_time": 1708059334,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172862,
@@ -9747,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165010,
+      "num": 165010,
+      "word": "湖南衡阳一饭店起火14人送医",
+      "onboard_time": 1708059091,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164982,
       "num": 164982,
       "word": "沈腾 巴音布鲁克之王",
@@ -9833,6 +9953,14 @@
       "onboard_time": 1707973350,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162195,
+      "num": 162195,
+      "word": "春节吃多消化不良怎么办",
+      "onboard_time": 1708059273,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162119,
@@ -10288,6 +10416,14 @@
       "word": "刘谦春晚 华丽的数学秀",
       "onboard_time": 1707640532,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153449,
+      "num": 153449,
+      "word": "全员加速中是懂剧透的",
+      "onboard_time": 1708060471,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -11163,6 +11299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137628,
+      "num": 137628,
+      "word": "国乒女团险胜",
+      "onboard_time": 1708058853,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137577,
       "num": 137577,
       "word": "网络间谍是如何有机可乘的",
@@ -11259,12 +11403,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135724,
-      "num": 135724,
-      "word": "海南一游客退房时被要求擦马桶",
-      "onboard_time": 1708057953,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 135541,
+      "num": 135541,
+      "word": "汤普森35分",
+      "onboard_time": 1708059572,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135432,
@@ -11297,6 +11441,14 @@
       "onboard_time": 1707920620,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135149,
+      "num": 135149,
+      "word": "I NEED U",
+      "onboard_time": 1708060596,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 134437,

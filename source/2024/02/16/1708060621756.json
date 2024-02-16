@@ -1,0 +1,410 @@
+{
+  "runTime": 1708060621756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887148,
+        "num": 1887148,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1687470,
+        "num": 1687470,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128532,
+        "num": 1579352,
+        "word": "一图看懂开车回家要注意啥",
+        "onboard_time": 1708053813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564918,
+        "num": 1564918,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233764,
+        "num": 1233764,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1130353,
+        "num": 1130353,
+        "word": "任子威被撞",
+        "onboard_time": 1708058373,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1052757,
+        "num": 1052757,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1042007,
+        "num": 1042007,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 842138,
+        "num": 842138,
+        "word": "刘松仁宣布不再拍戏",
+        "onboard_time": 1708056872,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573115,
+        "num": 573115,
+        "word": "海南一游客退房时被要求擦马桶",
+        "onboard_time": 1708057953,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937845,
+        "num": 573017,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 667941,
+        "num": 570871,
+        "word": "律师谈薛之谦被指盗摄",
+        "onboard_time": 1708056811,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 567168,
+        "num": 567168,
+        "word": "12306抢票",
+        "onboard_time": 1708056153,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528888,
+        "num": 528888,
+        "word": "贾玲下个作品马上开机",
+        "onboard_time": 1708049671,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493228,
+        "num": 493228,
+        "word": "国乒女团3比2印度",
+        "onboard_time": 1708058433,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443770,
+        "num": 443770,
+        "word": "韩素希跳drama",
+        "onboard_time": 1708058433,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555860,
+        "num": 425161,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377719,
+        "num": 377719,
+        "word": "百余位明星曾发出拒绝电影盗摄倡议",
+        "onboard_time": 1708053511,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359703,
+        "num": 359703,
+        "word": "一宝妈妈产子",
+        "onboard_time": 1708047029,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 338246,
+        "num": 338246,
+        "word": "高考数学无耻得分法",
+        "onboard_time": 1708052731,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 319618,
+        "num": 319618,
+        "word": "看电影并不是中间位置最好",
+        "onboard_time": 1708056872,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283798,
+        "num": 283798,
+        "word": "白敬亭聊南来北往中的东北话",
+        "onboard_time": 1708053572,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277315,
+        "num": 277315,
+        "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+        "onboard_time": 1708054233,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265944,
+        "num": 265944,
+        "word": "糖尿病一般不是吃糖吃出来的",
+        "onboard_time": 1708041686,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256353,
+        "num": 256353,
+        "word": "林孝埈黄牌",
+        "onboard_time": 1708053872,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245482,
+        "num": 245482,
+        "word": "梅西第60分钟被换下",
+        "onboard_time": 1708053210,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241944,
+        "num": 241944,
+        "word": "孙阳微博评论区",
+        "onboard_time": 1708058314,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235707,
+        "num": 235707,
+        "word": "贾玲镜头下都是人而不是符号",
+        "onboard_time": 1708054771,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213686,
+        "num": 213686,
+        "word": "买不到返程车票不能按时上班算旷工吗",
+        "onboard_time": 1708050812,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 201848,
+        "word": "马琳直拍",
+        "onboard_time": 1708054829,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197315,
+        "num": 197315,
+        "word": "褪黑素只有2类人适用",
+        "onboard_time": 1708059994,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196514,
+        "num": 196514,
+        "word": "热辣滚烫乐莹查男友手机",
+        "onboard_time": 1708060353,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184681,
+        "num": 184681,
+        "word": "勇士战胜爵士",
+        "onboard_time": 1708059693,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183434,
+        "num": 183434,
+        "word": "哈尔滨冰雪大世界正式闭园",
+        "onboard_time": 1708060113,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 182682,
+        "num": 182682,
+        "word": "机械姬",
+        "onboard_time": 1708057171,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181768,
+        "num": 181768,
+        "word": "昨天什么克莱今天什么克莱",
+        "onboard_time": 1708060050,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178750,
+        "num": 178750,
+        "word": "王曼昱独得两分",
+        "onboard_time": 1708058853,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172889,
+        "num": 172889,
+        "word": "宋亚轩非我不可预告",
+        "onboard_time": 1708059334,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169688,
+        "num": 169688,
+        "word": "魏大勋被强制闭麦",
+        "onboard_time": 1708009054,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165010,
+        "num": 165010,
+        "word": "湖南衡阳一饭店起火14人送医",
+        "onboard_time": 1708059091,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 163375,
+        "word": "方时赫为enhypen亲自编曲",
+        "onboard_time": 1708052488,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162195,
+        "num": 162195,
+        "word": "春节吃多消化不良怎么办",
+        "onboard_time": 1708059273,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153449,
+        "num": 153449,
+        "word": "全员加速中是懂剧透的",
+        "onboard_time": 1708060471,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153309,
+        "num": 153309,
+        "word": "谷爱凌U池世界杯夺冠",
+        "onboard_time": 1708056694,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152174,
+        "num": 152174,
+        "word": "会装睡且能听懂人话的狗狗",
+        "onboard_time": 1708054771,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148586,
+        "num": 148586,
+        "word": "江西警方通报电影院吵架打人事件",
+        "onboard_time": 1708050752,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145076,
+        "num": 145076,
+        "word": "钟楚曦侯雯元一起回国",
+        "onboard_time": 1708044567,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137628,
+        "num": 137628,
+        "word": "国乒女团险胜",
+        "onboard_time": 1708058853,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135541,
+        "num": 135541,
+        "word": "汤普森35分",
+        "onboard_time": 1708059572,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135149,
+        "num": 135149,
+        "word": "I NEED U",
+        "onboard_time": 1708060596,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把握传承和创新的关系#"
+    }
+  }
+}
