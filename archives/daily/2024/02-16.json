@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708078725837,
+  "endTime": 1708079703856,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -75,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1480585,
+      "num": 1480585,
+      "word": "普京催生每个家庭至少两个孩子",
+      "onboard_time": 1708075831,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1381429,
       "num": 1381429,
       "word": "为什么阴干的衣服有臭味",
@@ -113,14 +121,6 @@
       "onboard_time": 1708056571,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1148134,
-      "num": 1148134,
-      "word": "普京催生每个家庭至少两个孩子",
-      "onboard_time": 1708075831,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1146406,
@@ -467,11 +467,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524498,
+      "num": 524498,
+      "word": "返程后备箱塞了7个烂石榴但全是爱",
+      "onboard_time": 1708077028,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521241,
       "num": 521241,
       "word": "印度女团打法有点东西",
       "onboard_time": 1708051288,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 520034,
+      "num": 520034,
+      "word": "主办方称赛前15分钟得知梅西缺阵",
+      "onboard_time": 1708078229,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -537,14 +553,6 @@
       "onboard_time": 1708011816,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 469761,
-      "num": 469761,
-      "word": "返程后备箱塞了7个烂石榴但全是爱",
-      "onboard_time": 1708077028,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459037,
@@ -616,6 +624,14 @@
       "word": "二刷热辣滚烫发现的隐藏彩蛋",
       "onboard_time": 1708068871,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 419757,
+      "num": 419757,
+      "word": "乐莹被恶剪是贾玲亲身经历",
+      "onboard_time": 1708074152,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -763,14 +779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333939,
-      "num": 333939,
-      "word": "乐莹被恶剪是贾玲亲身经历",
-      "onboard_time": 1708074152,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 332593,
       "num": 332593,
       "word": "陈赫一家马尔代夫度假",
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321707,
+      "num": 321707,
+      "word": "为什么乐莹身边全是坏人",
+      "onboard_time": 1708075170,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319618,
       "num": 319618,
       "word": "看电影并不是中间位置最好",
@@ -801,6 +817,14 @@
       "onboard_time": 1708009357,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318536,
+      "num": 318536,
+      "word": "昆山反杀案主办检察官评第二十条",
+      "onboard_time": 1708077868,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 313004,
@@ -971,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248184,
-      "num": 248184,
-      "word": "为什么乐莹身边全是坏人",
-      "onboard_time": 1708075170,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 242129,
       "num": 242129,
       "word": "毛晓彤36岁生日照",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1708061375,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233639,
-      "num": 233639,
-      "word": "昆山反杀案主办检察官评第二十条",
-      "onboard_time": 1708077868,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 232021,
@@ -1131,12 +1139,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 216130,
-      "num": 216130,
-      "word": "主办方称赛前15分钟得知梅西缺阵",
-      "onboard_time": 1708078229,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 215868,
+      "num": 215868,
+      "word": "孟菀青当妈 乳腺通畅",
+      "onboard_time": 1708077390,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 214555,
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 213064,
-      "num": 446504,
+      "num": 521935,
       "word": "杭州将建比4个西溪湿地还大的湿地公园",
       "onboard_time": 1708076671,
       "rank": 8,
@@ -1193,14 +1201,6 @@
       "onboard_time": 1708047391,
       "rank": 29,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 209694,
-      "num": 209694,
-      "word": "孟菀青当妈 乳腺通畅",
-      "onboard_time": 1708077390,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 209092,
@@ -1411,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188747,
+      "num": 188747,
+      "word": "一些人开始逃离一线城市了",
+      "onboard_time": 1708075651,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187950,
       "num": 1834715,
       "word": "一图看懂开车回家要注意啥",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1708064432,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185522,
-      "num": 185522,
-      "word": "一些人开始逃离一线城市了",
-      "onboard_time": 1708075651,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185487,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1708011872,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183244,
+      "num": 183244,
+      "word": "中国式催婚的意义",
+      "onboard_time": 1708078652,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 181456,
@@ -1643,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160367,
+      "num": 160367,
+      "word": "水哥试图教会朱丹魔方",
+      "onboard_time": 1708077814,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159821,
       "num": 159821,
       "word": "男子1500米孙龙夺冠",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1707996394,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148437,
-      "num": 148437,
-      "word": "水哥试图教会朱丹魔方",
-      "onboard_time": 1708077814,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 148209,
@@ -1939,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128220,
+      "num": 128220,
+      "word": "被小狗的大尾巴扫了一路",
+      "onboard_time": 1708078170,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128058,
       "num": 128058,
       "word": "AI 文字生成视频",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1707998377,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123793,
-      "num": 123793,
-      "word": "被小狗的大尾巴扫了一路",
-      "onboard_time": 1708078170,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 122328,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1707994655,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117233,
+      "num": 117233,
+      "word": "故宫粉笺龙纹太美了",
+      "onboard_time": 1708079011,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 115671,
@@ -2171,20 +2187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105627,
-      "num": 105627,
-      "word": "中国式催婚的意义",
-      "onboard_time": 1708078652,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103966,
       "num": 103966,
       "word": "加里纳利加盟雄鹿",
       "onboard_time": 1708045350,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103887,
+      "num": 103887,
+      "word": "周鸿祎称Sora对电影工业不是打击",
+      "onboard_time": 1708079552,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 102324,
@@ -2251,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92169,
+      "num": 398281,
+      "word": "爸妈塞的行李箱",
+      "onboard_time": 1708077632,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92058,
       "num": 92058,
       "word": "回家过年被小城市的消费震惊到",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1708017743,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 64177,
-      "num": 378541,
-      "word": "爸妈塞的行李箱",
-      "onboard_time": 1708077632,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61462,
@@ -2411,8 +2427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10091,
-      "num": 1225402,
+      "raw_hot": 10893,
+      "num": 1320014,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
       "rank": 2,
