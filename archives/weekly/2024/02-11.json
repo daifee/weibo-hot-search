@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708108443332,
+  "endTime": 1708110910135,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -14841,6 +14841,14 @@
       "onboard_time": 1707877951,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100096,
+      "num": 100096,
+      "word": "张小斐主演票房破90亿",
+      "onboard_time": 1708110257,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 99076,
