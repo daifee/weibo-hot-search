@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708115662881,
+  "endTime": 1708118074863,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -15627,20 +15627,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 35086,
+      "num": 23056,
+      "word": "兰博基尼回村撞报废车主否认车是租的",
+      "onboard_time": 1708112056,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34658,
       "num": 34658,
       "word": "阿菲夫点球帽子戏法",
       "onboard_time": 1707606858,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34618,
-      "num": 23056,
-      "word": "兰博基尼回村撞报废车主否认车是租的",
-      "onboard_time": 1708112056,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34434,
@@ -15755,6 +15755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21972,
+      "num": 17985,
+      "word": "一百多年前的猫奴",
+      "onboard_time": 1708115419,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21421,
       "num": 280907,
       "word": "来元梦迎财神",
@@ -15859,14 +15867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14537,
-      "num": 17185,
-      "word": "一百多年前的猫奴",
-      "onboard_time": 1708115419,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14534,
       "num": 16630,
       "word": "女明星出圈春晚造型",
@@ -15913,6 +15913,14 @@
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12167,
+      "num": 12167,
+      "word": "人在不清醒的时候都说过什么怪话",
+      "onboard_time": 1708117396,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 11868,

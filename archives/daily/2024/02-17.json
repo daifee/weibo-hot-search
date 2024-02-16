@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708115662881,
+  "endTime": 1708118074863,
   "band_list": [
     {
       "raw_hot": 1919367,
@@ -451,12 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34618,
+      "raw_hot": 35086,
       "num": 23056,
       "word": "兰博基尼回村撞报废车主否认车是租的",
       "onboard_time": 1708112056,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21972,
+      "num": 17985,
+      "word": "一百多年前的猫奴",
+      "onboard_time": 1708115419,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 15671,
@@ -475,10 +483,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14537,
-      "num": 17185,
-      "word": "一百多年前的猫奴",
-      "onboard_time": 1708115419,
+      "raw_hot": 12167,
+      "num": 12167,
+      "word": "人在不清醒的时候都说过什么怪话",
+      "onboard_time": 1708117396,
       "rank": 46,
       "category": "幽默"
     },
