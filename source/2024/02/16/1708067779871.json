@@ -1,0 +1,410 @@
+{
+  "runTime": 1708067779871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716079,
+        "num": 1716079,
+        "word": "胖东来员工被曝悄悄尝面",
+        "onboard_time": 1708059211,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304984,
+        "num": 1304984,
+        "word": "贾玲发文",
+        "onboard_time": 1708046131,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107029,
+        "num": 982552,
+        "word": "一图看懂开车回家要注意啥",
+        "onboard_time": 1708053813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802471,
+        "num": 802471,
+        "word": "薛之谦版权意识",
+        "onboard_time": 1708061375,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 712073,
+        "num": 712073,
+        "word": "吴京与家人新加坡过春节",
+        "onboard_time": 1708063053,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690813,
+        "num": 690813,
+        "word": "伊能静儿子最新女装照",
+        "onboard_time": 1708062093,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672047,
+        "num": 672047,
+        "word": "李钟硕鼻子",
+        "onboard_time": 1708053572,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634476,
+        "num": 634476,
+        "word": "玲姐 我有点想看哎",
+        "onboard_time": 1708066291,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500589,
+        "num": 500589,
+        "word": "薛之谦回应盗摄",
+        "onboard_time": 1708049731,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433054,
+        "num": 433054,
+        "word": "任子威被撞",
+        "onboard_time": 1708058373,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1022774,
+        "num": 422956,
+        "word": "白敬亭想尝试电影拍摄",
+        "onboard_time": 1708059152,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 749233,
+        "num": 419173,
+        "word": "农村婚恋市场一动一不动成标配",
+        "onboard_time": 1708062632,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412355,
+        "num": 412355,
+        "word": "钟楚曦侯雯元喝同一瓶水",
+        "onboard_time": 1708061375,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389119,
+        "num": 389119,
+        "word": "十个勤天费加罗男士瑞雪封面",
+        "onboard_time": 1708067251,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389003,
+        "num": 389003,
+        "word": "果粉们开始大批退货VisionPro",
+        "onboard_time": 1708056571,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 362555,
+        "num": 362555,
+        "word": "刘雯井柏然机场同框",
+        "onboard_time": 1708065272,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332806,
+        "num": 332806,
+        "word": "海南一游客退房时被要求擦马桶",
+        "onboard_time": 1708057953,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332593,
+        "num": 332593,
+        "word": "陈赫一家马尔代夫度假",
+        "onboard_time": 1708063953,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326942,
+        "num": 326942,
+        "word": "I NEED U",
+        "onboard_time": 1708060596,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325020,
+        "num": 325020,
+        "word": "初七不出门",
+        "onboard_time": 1708053451,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309198,
+        "num": 309198,
+        "word": "用完的唇膏口红不要扔",
+        "onboard_time": 1708065993,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 290917,
+        "num": 290917,
+        "word": "热辣滚烫乐莹查男友手机",
+        "onboard_time": 1708060353,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281220,
+        "num": 281220,
+        "word": "手机号码关联了多少互联网账号",
+        "onboard_time": 1708063594,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 275040,
+        "num": 275040,
+        "word": "老百姓为什么不愿意贷款买房了",
+        "onboard_time": 1708067489,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 256831,
+        "num": 256831,
+        "word": "薛之谦 盗摄",
+        "onboard_time": 1708003236,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254547,
+        "num": 254547,
+        "word": "刘松仁宣布不再拍戏",
+        "onboard_time": 1708056872,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222060,
+        "num": 222060,
+        "word": "章若楠古早校服照",
+        "onboard_time": 1708066052,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217455,
+        "num": 217455,
+        "word": "金晨训狗",
+        "onboard_time": 1708064970,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205665,
+        "num": 205665,
+        "word": "混合接力黑龙江队被取消成绩",
+        "onboard_time": 1708067310,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195030,
+        "num": 195030,
+        "word": "刘宇宁田曦薇 风月不相关",
+        "onboard_time": 1708067551,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296991,
+        "num": 195003,
+        "word": "为什么阴干的衣服有臭味",
+        "onboard_time": 1708067251,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211498,
+        "num": 194467,
+        "word": "杭州全家11口第5年旅行过年",
+        "onboard_time": 1708066713,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193013,
+        "num": 193013,
+        "word": "小S二女儿大片",
+        "onboard_time": 1708063772,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193274,
+        "num": 192161,
+        "word": "不自觉摸脸是身体在安抚自己",
+        "onboard_time": 1708060893,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190740,
+        "num": 190740,
+        "word": "一想到即将上班就浑身难受",
+        "onboard_time": 1708067251,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184774,
+        "num": 184774,
+        "word": "贾玲下个作品马上开机",
+        "onboard_time": 1708049671,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179188,
+        "num": 179188,
+        "word": "飞驰人生2票房破20亿",
+        "onboard_time": 1708065569,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174189,
+        "num": 174189,
+        "word": "原生家庭的痛真的很难自愈",
+        "onboard_time": 1708067251,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153345,
+        "num": 153345,
+        "word": "龙标一出就不能再对着电影屏幕拍摄了",
+        "onboard_time": 1708064911,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148201,
+        "num": 151734,
+        "word": "胖东来",
+        "onboard_time": 1708063534,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158128,
+        "num": 151132,
+        "word": "王珞丹过年被催婚",
+        "onboard_time": 1708061852,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150169,
+        "num": 150169,
+        "word": "一宝妈妈产子",
+        "onboard_time": 1708047029,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150090,
+        "num": 150090,
+        "word": "褪黑素只有2类人适用",
+        "onboard_time": 1708059994,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143719,
+        "num": 143719,
+        "word": "过完年的戒断反应",
+        "onboard_time": 1708061972,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141750,
+        "num": 141750,
+        "word": "乔丹儿子和皮蓬前妻复合",
+        "onboard_time": 1708063353,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 138740,
+        "num": 138740,
+        "word": "高考数学无耻得分法",
+        "onboard_time": 1708052731,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 137599,
+        "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
+        "onboard_time": 1708054233,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132802,
+        "num": 132802,
+        "word": "韩素希跳drama",
+        "onboard_time": 1708058433,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130458,
+        "num": 130458,
+        "word": "国乒女团3比2印度",
+        "onboard_time": 1708058433,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126057,
+        "num": 126057,
+        "word": "克林斯曼下课",
+        "onboard_time": 1708067733,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化离不开优秀传统文化的继承和弘扬#"
+    }
+  }
+}

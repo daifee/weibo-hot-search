@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708065357990,
+  "endTime": 1708067779871,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -195,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749233,
+      "num": 534000,
+      "word": "农村婚恋市场一动一不动成标配",
+      "onboard_time": 1708062632,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738428,
       "num": 738428,
       "word": "百余位明星曾发出拒绝电影盗摄倡议",
       "onboard_time": 1708053511,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 712073,
+      "num": 712073,
+      "word": "吴京与家人新加坡过春节",
+      "onboard_time": 1708063053,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 694042,
@@ -259,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646785,
-      "num": 646785,
-      "word": "吴京与家人新加坡过春节",
-      "onboard_time": 1708063053,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 638185,
       "num": 638185,
       "word": "12306抢票",
       "onboard_time": 1708056153,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634476,
+      "num": 634476,
+      "word": "玲姐 我有点想看哎",
+      "onboard_time": 1708066291,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 615668,
@@ -345,14 +361,6 @@
       "onboard_time": 1708060353,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 534000,
-      "num": 534000,
-      "word": "农村婚恋市场一动一不动成标配",
-      "onboard_time": 1708062632,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531318,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389119,
+      "num": 389119,
+      "word": "十个勤天费加罗男士瑞雪封面",
+      "onboard_time": 1708067251,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 367682,
       "num": 367682,
       "word": "贾玲 能拯救我的只有我自己",
@@ -553,6 +569,14 @@
       "onboard_time": 1708054771,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 362555,
+      "num": 362555,
+      "word": "刘雯井柏然机场同框",
+      "onboard_time": 1708065272,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 362052,
@@ -579,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 332593,
+      "num": 332593,
+      "word": "陈赫一家马尔代夫度假",
+      "onboard_time": 1708063953,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319618,
       "num": 319618,
       "word": "看电影并不是中间位置最好",
@@ -603,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311380,
-      "num": 311380,
-      "word": "陈赫一家马尔代夫度假",
-      "onboard_time": 1708063953,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309859,
       "num": 309859,
       "word": "手机充电一定要满充满放吗",
       "onboard_time": 1707999158,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 309198,
+      "num": 309198,
+      "word": "用完的唇膏口红不要扔",
+      "onboard_time": 1708065993,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 305720,
@@ -641,6 +673,14 @@
       "onboard_time": 1708053687,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296991,
+      "num": 195003,
+      "word": "为什么阴干的衣服有臭味",
+      "onboard_time": 1708067251,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 295020,
@@ -689,6 +729,14 @@
       "onboard_time": 1708052488,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 275040,
+      "num": 275040,
+      "word": "老百姓为什么不愿意贷款买房了",
+      "onboard_time": 1708067489,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 266332,
@@ -811,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222060,
+      "num": 222060,
+      "word": "章若楠古早校服照",
+      "onboard_time": 1708066052,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220947,
       "num": 220947,
       "word": "大侦探魏晨摊牌",
@@ -835,6 +891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 217455,
+      "num": 217455,
+      "word": "金晨训狗",
+      "onboard_time": 1708064970,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214000,
       "num": 214000,
       "word": "谢楠看到瘦下来的贾玲后一直发抖",
@@ -849,6 +913,14 @@
       "onboard_time": 1708055011,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211498,
+      "num": 194467,
+      "word": "杭州全家11口第5年旅行过年",
+      "onboard_time": 1708066713,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 211035,
@@ -867,19 +939,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207221,
-      "num": 207221,
-      "word": "刘雯井柏然机场同框",
-      "onboard_time": 1708065272,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205876,
       "num": 205876,
       "word": "釜山世乒赛",
       "onboard_time": 1708049613,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205665,
+      "num": 205665,
+      "word": "混合接力黑龙江队被取消成绩",
+      "onboard_time": 1708067310,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -889,14 +961,6 @@
       "onboard_time": 1708063534,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202781,
-      "num": 202781,
-      "word": "金晨训狗",
-      "onboard_time": 1708064970,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 202472,
@@ -995,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195030,
+      "num": 195030,
+      "word": "刘宇宁田曦薇 风月不相关",
+      "onboard_time": 1708067551,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194428,
       "num": 194428,
       "word": "刘维春晚只上了59秒",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1708063772,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190740,
+      "num": 190740,
+      "word": "一想到即将上班就浑身难受",
+      "onboard_time": 1708067251,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 187950,
@@ -1107,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179188,
+      "num": 179188,
+      "word": "飞驰人生2票房破20亿",
+      "onboard_time": 1708065569,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178779,
       "num": 178779,
       "word": "短道速滑",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1708004677,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174189,
+      "num": 174189,
+      "word": "原生家庭的痛真的很难自愈",
+      "onboard_time": 1708067251,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 172889,
@@ -1496,6 +1592,14 @@
       "word": "汤普森生涯15000分",
       "onboard_time": 1708056091,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126057,
+      "num": 126057,
+      "word": "克林斯曼下课",
+      "onboard_time": 1708067733,
+      "rank": 49,
       "category": "体育"
     },
     {
