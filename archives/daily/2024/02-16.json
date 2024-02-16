@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708050136160,
+  "endTime": 1708050847636,
   "band_list": [
     {
       "raw_hot": 2722790,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2189261,
+      "num": 2189261,
+      "word": "薛之谦回应盗摄",
+      "onboard_time": 1708049731,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1502779,
       "num": 1502779,
       "word": "糖尿病一般不是吃糖吃出来的",
@@ -35,16 +43,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1111232,
-      "num": 1111232,
+      "raw_hot": 1183592,
+      "num": 1183592,
       "word": "一宝妈妈产子",
       "onboard_time": 1708047029,
       "rank": 7,
       "category": "网红"
     },
     {
-      "raw_hot": 986790,
-      "num": 986790,
+      "raw_hot": 1015407,
+      "num": 1015407,
+      "word": "贾玲下个作品马上开机",
+      "onboard_time": 1708049671,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1013885,
+      "num": 1013885,
       "word": "孙颖莎1比3穆克吉",
       "onboard_time": 1708048771,
       "rank": 18,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 866474,
-      "num": 534320,
+      "num": 598179,
       "word": "春节第五天我偷跑出门开钟点房了",
       "onboard_time": 1708005995,
       "rank": 10,
@@ -131,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 521985,
-      "num": 521985,
-      "word": "薛之谦回应盗摄",
-      "onboard_time": 1708049731,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 515497,
+      "num": 515497,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 515254,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486042,
-      "num": 486042,
-      "word": "Sora",
-      "onboard_time": 1708046309,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 471621,
       "num": 471621,
       "word": "新能源车主称海南出岛船票已等6天",
@@ -185,6 +193,22 @@
       "onboard_time": 1708011816,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 466775,
+      "num": 466775,
+      "word": "春断食",
+      "onboard_time": 1708049492,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 459037,
+      "num": 459037,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 457627,
@@ -217,14 +241,6 @@
       "onboard_time": 1708042048,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427075,
-      "num": 427075,
-      "word": "这些都属于盗摄",
-      "onboard_time": 1708046849,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 424956,
@@ -283,14 +299,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 363613,
-      "num": 363613,
-      "word": "贾玲下个作品马上开机",
-      "onboard_time": 1708049671,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 354538,
       "num": 354538,
       "word": "徐梦洁回应演短剧",
@@ -313,14 +321,6 @@
       "onboard_time": 1708041085,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312869,
-      "num": 312869,
-      "word": "春断食",
-      "onboard_time": 1708049492,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 309859,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266332,
+      "num": 266332,
+      "word": "丫丫吃上饺子",
+      "onboard_time": 1708049492,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263951,
       "num": 172089,
       "word": "不戴珍珠耳环的少女",
@@ -377,6 +385,30 @@
       "onboard_time": 1707998437,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253749,
+      "num": 253749,
+      "word": "一提两箱",
+      "onboard_time": 1708049253,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 241190,
+      "num": 241190,
+      "word": "猫猫因分赃不均不肯相让",
+      "onboard_time": 1708049911,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231985,
+      "num": 231985,
+      "word": "大张伟只为自己开的花",
+      "onboard_time": 1708049431,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 228654,
@@ -411,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219534,
-      "num": 219534,
-      "word": "丫丫吃上饺子",
-      "onboard_time": 1708049492,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214000,
       "num": 214000,
       "word": "谢楠看到瘦下来的贾玲后一直发抖",
@@ -449,14 +473,6 @@
       "onboard_time": 1708049613,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204808,
-      "num": 204808,
-      "word": "一提两箱",
-      "onboard_time": 1708049253,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 202472,
@@ -497,6 +513,14 @@
       "onboard_time": 1708002695,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192711,
+      "num": 192711,
+      "word": "勇士终于变阵了",
+      "onboard_time": 1708050210,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 185487,
@@ -547,12 +571,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172153,
-      "num": 172153,
-      "word": "大张伟只为自己开的花",
-      "onboard_time": 1708049431,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 167453,
+      "num": 167453,
+      "word": "摆拍失联闹剧的台网红下跪道歉",
+      "onboard_time": 1708050512,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164886,
@@ -561,14 +585,6 @@
       "onboard_time": 1707989251,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164392,
-      "num": 164392,
-      "word": "猫猫因分赃不均不肯相让",
-      "onboard_time": 1708049911,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 163568,
@@ -603,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156011,
+      "num": 156011,
+      "word": "买不到返程车票不能按时上班算旷工吗",
+      "onboard_time": 1708050812,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155278,
       "num": 155278,
       "word": "赵今麦一双好会爱人的眼睛",
@@ -617,6 +641,14 @@
       "onboard_time": 1708011036,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153591,
+      "num": 153591,
+      "word": "姆巴佩与皇马达成口头协议",
+      "onboard_time": 1708050028,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153184,
@@ -643,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "明星大侦探",
+      "onboard_time": 1708048893,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150187,
       "num": 150187,
       "word": "突然好像没那么抵触相亲了",
@@ -657,14 +697,6 @@
       "onboard_time": 1708008758,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145674,
-      "num": 145674,
-      "word": "明星大侦探",
-      "onboard_time": 1708048893,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 144328,
@@ -707,12 +739,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 138757,
-      "num": 138757,
-      "word": "姆巴佩与皇马达成口头协议",
-      "onboard_time": 1708050028,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 139493,
+      "num": 139493,
+      "word": "孙千陈靖可cp感",
+      "onboard_time": 1708050629,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137577,
+      "num": 137577,
+      "word": "网络间谍是如何有机可乘的",
+      "onboard_time": 1708050390,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137321,
@@ -739,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130442,
+      "num": 130442,
+      "word": "一个穴位养好皮肤",
+      "onboard_time": 1708050752,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128866,
       "num": 128866,
       "word": "2024春节档票房进入影史前二",
@@ -763,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122675,
+      "num": 122675,
+      "word": "江西警方通报电影院吵架打人事件",
+      "onboard_time": 1708050752,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121867,
       "num": 121867,
       "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
@@ -777,6 +833,14 @@
       "onboard_time": 1708048289,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119936,
+      "num": 119936,
+      "word": "买不到车票",
+      "onboard_time": 1708050812,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117570,
@@ -1068,7 +1132,7 @@
     },
     {
       "raw_hot": 17855,
-      "num": 1259384,
+      "num": 1540173,
       "word": "我与家人合个影",
       "onboard_time": 1707969690,
       "rank": 2,

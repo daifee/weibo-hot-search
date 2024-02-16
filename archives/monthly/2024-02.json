@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708050136160,
+  "endTime": 1708050847636,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1040,6 +1040,14 @@
       "word": "王东承认家暴",
       "onboard_time": 1707792395,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2189261,
+      "num": 2189261,
+      "word": "薛之谦回应盗摄",
+      "onboard_time": 1708049731,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -3163,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1183592,
+      "num": 1183592,
+      "word": "一宝妈妈产子",
+      "onboard_time": 1708047029,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1183156,
       "num": 1183156,
       "word": "贾玲建议女生朋友关注当下远离糟心事",
@@ -3593,14 +3609,6 @@
       "onboard_time": 1707920495,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1111232,
-      "num": 1111232,
-      "word": "一宝妈妈产子",
-      "onboard_time": 1708047029,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 1108411,
@@ -4147,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1015407,
+      "num": 1015407,
+      "word": "贾玲下个作品马上开机",
+      "onboard_time": 1708049671,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1014163,
       "num": 1014163,
       "word": "一姐不一了",
@@ -4161,6 +4177,14 @@
       "onboard_time": 1707187590,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1013885,
+      "num": 1013885,
+      "word": "孙颖莎1比3穆克吉",
+      "onboard_time": 1708048771,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 1013747,
@@ -4329,14 +4353,6 @@
       "onboard_time": 1707626789,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 986790,
-      "num": 986790,
-      "word": "孙颖莎1比3穆克吉",
-      "onboard_time": 1708048771,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 986429,
@@ -5220,7 +5236,7 @@
     },
     {
       "raw_hot": 866474,
-      "num": 534320,
+      "num": 598179,
       "word": "春节第五天我偷跑出门开钟点房了",
       "onboard_time": 1708005995,
       "rank": 22,
@@ -10051,14 +10067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 521985,
-      "num": 521985,
-      "word": "薛之谦回应盗摄",
-      "onboard_time": 1708049731,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 521541,
       "num": 521541,
       "word": "赵露思吊带丝绸裙",
@@ -10185,6 +10193,14 @@
       "onboard_time": 1707347600,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 515497,
+      "num": 515497,
+      "word": "Sora",
+      "onboard_time": 1708046309,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 515454,
@@ -10835,14 +10851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486042,
-      "num": 486042,
-      "word": "Sora",
-      "onboard_time": 1708046309,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 485515,
       "num": 485515,
       "word": "香港特区政府回应梅西缺战",
@@ -11299,6 +11307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466775,
+      "num": 466775,
+      "word": "春断食",
+      "onboard_time": 1708049492,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 466456,
       "num": 576952,
       "word": "韩国与古巴建立外交关系",
@@ -11424,6 +11440,14 @@
       "word": "电影西游记真假美猴王官宣",
       "onboard_time": 1707015450,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 459037,
+      "num": 459037,
+      "word": "这些都属于盗摄",
+      "onboard_time": 1708046849,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -12225,14 +12249,6 @@
       "onboard_time": 1707530441,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 427075,
-      "num": 427075,
-      "word": "这些都属于盗摄",
-      "onboard_time": 1708046849,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 426938,
@@ -14323,14 +14339,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 363613,
-      "num": 363613,
-      "word": "贾玲下个作品马上开机",
-      "onboard_time": 1708049671,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 363386,
       "num": 363386,
       "word": "请和我的老公结婚第12集",
@@ -16113,14 +16121,6 @@
       "onboard_time": 1708041085,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312869,
-      "num": 312869,
-      "word": "春断食",
-      "onboard_time": 1708049492,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 312698,
@@ -18475,6 +18475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266332,
+      "num": 266332,
+      "word": "丫丫吃上饺子",
+      "onboard_time": 1708049492,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266143,
       "num": 240042,
       "word": "小朋友以为叫一声舅舅给一张压岁钱",
@@ -19217,6 +19225,14 @@
       "onboard_time": 1707813878,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253749,
+      "num": 253749,
+      "word": "一提两箱",
+      "onboard_time": 1708049253,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 253674,
@@ -20059,6 +20075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241190,
+      "num": 241190,
+      "word": "猫猫因分赃不均不肯相让",
+      "onboard_time": 1708049911,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241181,
       "num": 219307,
       "word": "去女友家还要跟狗狗装不熟",
@@ -20897,6 +20921,14 @@
       "onboard_time": 1707376593,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231985,
+      "num": 231985,
+      "word": "大张伟只为自己开的花",
+      "onboard_time": 1708049431,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 231959,
@@ -22033,14 +22065,6 @@
       "onboard_time": 1706882492,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219534,
-      "num": 219534,
-      "word": "丫丫吃上饺子",
-      "onboard_time": 1708049492,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219510,
@@ -23657,14 +23681,6 @@
       "onboard_time": 1707052595,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204808,
-      "num": 204808,
-      "word": "一提两箱",
-      "onboard_time": 1708049253,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 204805,
@@ -25569,6 +25585,14 @@
       "onboard_time": 1706840310,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192711,
+      "num": 192711,
+      "word": "勇士终于变阵了",
+      "onboard_time": 1708050210,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 192666,
@@ -28347,14 +28371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172153,
-      "num": 172153,
-      "word": "大张伟只为自己开的花",
-      "onboard_time": 1708049431,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172002,
       "num": 172002,
       "word": "新年第一天就被自己穷笑了",
@@ -29107,6 +29123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167453,
+      "num": 167453,
+      "word": "摆拍失联闹剧的台网红下跪道歉",
+      "onboard_time": 1708050512,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167423,
       "num": 183561,
       "word": "扩大部分国家人员免签入境海南事由",
@@ -29649,14 +29673,6 @@
       "onboard_time": 1706742740,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164392,
-      "num": 164392,
-      "word": "猫猫因分赃不均不肯相让",
-      "onboard_time": 1708049911,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 164373,
@@ -30755,6 +30771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156011,
+      "num": 156011,
+      "word": "买不到返程车票不能按时上班算旷工吗",
+      "onboard_time": 1708050812,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155960,
       "num": 155960,
       "word": "过年要压岁钱的狠人行为",
@@ -31163,6 +31187,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 153591,
+      "num": 153591,
+      "word": "姆巴佩与皇马达成口头协议",
+      "onboard_time": 1708050028,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "刘谦春晚 华丽的数学秀",
@@ -31569,6 +31601,14 @@
       "onboard_time": 1707472950,
       "rank": 41,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "明星大侦探",
+      "onboard_time": 1708048893,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 150294,
@@ -32385,14 +32425,6 @@
       "onboard_time": 1706858973,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145674,
-      "num": 145674,
-      "word": "明星大侦探",
-      "onboard_time": 1708048893,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 145660,
@@ -33379,6 +33411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139493,
+      "num": 139493,
+      "word": "孙千陈靖可cp感",
+      "onboard_time": 1708050629,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139460,
       "num": 139460,
       "word": "90后上海民警春运快闪MV",
@@ -33537,14 +33577,6 @@
       "onboard_time": 1707635189,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138757,
-      "num": 138757,
-      "word": "姆巴佩与皇马达成口头协议",
-      "onboard_time": 1708050028,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 138592,
@@ -33753,6 +33785,14 @@
       "onboard_time": 1707326307,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137577,
+      "num": 137577,
+      "word": "网络间谍是如何有机可乘的",
+      "onboard_time": 1708050390,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137563,
@@ -34977,6 +35017,14 @@
       "onboard_time": 1706856812,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130442,
+      "num": 130442,
+      "word": "一个穴位养好皮肤",
+      "onboard_time": 1708050752,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130366,
@@ -36283,6 +36331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122675,
+      "num": 122675,
+      "word": "江西警方通报电影院吵架打人事件",
+      "onboard_time": 1708050752,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "刘海很可爱的秘密",
@@ -36720,6 +36776,14 @@
       "word": "重庆姐弟坠亡案母亲和外婆祭奠孩子",
       "onboard_time": 1706704112,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119936,
+      "num": 119936,
+      "word": "买不到车票",
+      "onboard_time": 1708050812,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
