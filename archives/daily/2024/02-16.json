@@ -1,6 +1,6 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708083311494,
+  "endTime": 1708086617672,
   "band_list": [
     {
       "raw_hot": 2760141,
@@ -17,6 +17,14 @@
       "onboard_time": 1708049731,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2383335,
+      "num": 2383335,
+      "word": "薛之谦转发再回应盗摄",
+      "onboard_time": 1708085015,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2301390,
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1698032,
+      "num": 1698032,
+      "word": "横店是缺演员吗",
+      "onboard_time": 1708084413,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1647418,
       "num": 1647418,
       "word": "贾玲下个作品马上开机",
@@ -115,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1274167,
+      "num": 1274167,
+      "word": "刘诗诗没认出来马思纯",
+      "onboard_time": 1708083396,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1206439,
       "num": 631070,
       "word": "白敬亭想尝试电影拍摄",
@@ -147,6 +171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1142603,
+      "num": 1142603,
+      "word": "邱淑贞拍的女儿沈月",
+      "onboard_time": 1708084593,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1136020,
       "num": 1136020,
       "word": "买不到返程车票不能按时上班算旷工吗",
@@ -169,6 +201,14 @@
       "onboard_time": 1708072772,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024413,
+      "num": 527955,
+      "word": "韩国五大医院医生集体辞职抗议医学院扩招",
+      "onboard_time": 1708083094,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1013885,
@@ -667,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424595,
+      "num": 424595,
+      "word": "中国居然有这么多县城没有网约车",
+      "onboard_time": 1708083934,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423183,
       "num": 423183,
       "word": "特朗普将接受刑事审判",
@@ -761,6 +809,14 @@
       "onboard_time": 1708028475,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 362930,
+      "num": 194920,
+      "word": "过年采访我的丁克舅舅",
+      "onboard_time": 1708086213,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 362746,
@@ -907,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304620,
+      "num": 304620,
+      "word": "王楚钦3比0拉森福斯",
+      "onboard_time": 1708085553,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304502,
       "num": 304502,
       "word": "大张伟只为自己开的花",
@@ -955,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287511,
+      "num": 276215,
+      "word": "恋人最舒服的相处方式",
+      "onboard_time": 1708084713,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286540,
       "num": 286540,
       "word": "不自觉摸脸是身体在安抚自己",
@@ -985,6 +1057,14 @@
       "onboard_time": 1708052488,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267409,
+      "num": 267409,
+      "word": "我必须主动学习",
+      "onboard_time": 1708084413,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 266332,
@@ -1035,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254515,
+      "num": 193767,
+      "word": "春节回家发现未婚适龄女性比已婚的还多",
+      "onboard_time": 1708086213,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253972,
       "num": 253972,
       "word": "贾玲变装转场",
@@ -1065,6 +1153,14 @@
       "onboard_time": 1708075354,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242056,
+      "num": 242056,
+      "word": "春天排肝毒",
+      "onboard_time": 1708083752,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 241944,
@@ -1185,6 +1281,14 @@
       "onboard_time": 1708076671,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 218733,
+      "num": 218733,
+      "word": "俄反对派人士纳瓦利内狱中死亡",
+      "onboard_time": 1708085494,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 218075,
@@ -1331,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201994,
+      "num": 201994,
+      "word": "全员加速中",
+      "onboard_time": 1708086393,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201793,
       "num": 201793,
       "word": "机械姬",
@@ -1409,6 +1521,14 @@
       "onboard_time": 1708064911,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196900,
+      "num": 196900,
+      "word": "樊振东开门红",
+      "onboard_time": 1708083934,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 196747,
@@ -1635,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171074,
+      "num": 171074,
+      "word": "檀健次穿唐装",
+      "onboard_time": 1708083330,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171020,
       "num": 171020,
       "word": "极兔快递股价跳水",
@@ -1649,6 +1777,14 @@
       "onboard_time": 1708071271,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169138,
+      "num": 169138,
+      "word": "延安电影院偶遇吴磊",
+      "onboard_time": 1708086034,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 168655,
@@ -1739,20 +1875,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 161383,
+      "num": 161383,
+      "word": "今日说法解读第二十条",
+      "onboard_time": 1708085015,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161143,
       "num": 161143,
       "word": "黑执事 乙游画风",
       "onboard_time": 1708082192,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 161112,
-      "num": 161112,
-      "word": "韩国五大医院医生集体辞职抗议医学院扩招",
-      "onboard_time": 1708083094,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 160689,
@@ -1851,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155044,
+      "num": 155044,
+      "word": "罗云熙水龙吟青衣路透",
+      "onboard_time": 1708083213,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153591,
       "num": 153591,
       "word": "姆巴佩与皇马达成口头协议",
@@ -1897,6 +2041,14 @@
       "onboard_time": 1708082432,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150587,
+      "num": 150587,
+      "word": "娱超人向薛之谦道歉",
+      "onboard_time": 1708086574,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 150348,
@@ -2217,14 +2369,6 @@
       "onboard_time": 1708051409,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118540,
-      "num": 118540,
-      "word": "罗云熙水龙吟青衣路透",
-      "onboard_time": 1708083213,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 117938,
@@ -2596,7 +2740,7 @@
     },
     {
       "raw_hot": 11121,
-      "num": 1418128,
+      "num": 1442336,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
       "rank": 2,
