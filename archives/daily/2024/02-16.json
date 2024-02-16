@@ -1,10 +1,10 @@
 {
   "startTime": 1708014085152,
-  "endTime": 1708092975869,
+  "endTime": 1708094055799,
   "band_list": [
     {
-      "raw_hot": 2871174,
-      "num": 2871174,
+      "raw_hot": 3306882,
+      "num": 3306882,
       "word": "年会不能停导演反对屏摄",
       "onboard_time": 1708088676,
       "rank": 6,
@@ -251,6 +251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 947098,
+      "num": 536370,
+      "word": "不拔电器插头1年多交多少电费",
+      "onboard_time": 1708092577,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942565,
       "num": 425172,
       "word": "老百姓为什么不愿意贷款买房了",
@@ -379,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 734227,
+      "num": 734227,
+      "word": "陆虎悬着的心终于死了",
+      "onboard_time": 1708091315,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 730117,
       "num": 730117,
       "word": "小S二女儿偶像是张元英",
@@ -392,6 +408,14 @@
       "word": "吴京与家人新加坡过春节",
       "onboard_time": 1708063053,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698258,
+      "num": 682940,
+      "word": "田曦薇超话换头像",
+      "onboard_time": 1708090414,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -417,14 +441,6 @@
       "onboard_time": 1708066291,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 682940,
-      "num": 682940,
-      "word": "田曦薇超话换头像",
-      "onboard_time": 1708090414,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 676487,
@@ -561,14 +577,6 @@
       "onboard_time": 1708015048,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 568589,
-      "num": 556910,
-      "word": "陆虎悬着的心终于死了",
-      "onboard_time": 1708091315,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 565438,
@@ -843,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411223,
+      "num": 411223,
+      "word": "郑容和回春",
+      "onboard_time": 1708093715,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408002,
       "num": 408002,
       "word": "特朗普回应普京选拜登",
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404901,
+      "num": 404901,
+      "word": "大过年男朋友爸爸打电话教训我",
+      "onboard_time": 1708092757,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 399737,
       "num": 369788,
       "word": "妻子不敢掉头喊饮酒丈夫帮忙被查",
@@ -873,6 +897,14 @@
       "onboard_time": 1708006776,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378247,
+      "num": 378247,
+      "word": "屏摄",
+      "onboard_time": 1708092815,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373548,
@@ -1179,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276893,
-      "num": 276893,
-      "word": "不拔电器插头1年多交多少电费",
-      "onboard_time": 1708092577,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276000,
       "num": 276000,
       "word": "方时赫为enhypen亲自编曲",
@@ -1291,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250801,
+      "num": 250801,
+      "word": "吴京 镖人风起大漠",
+      "onboard_time": 1708091912,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242129,
       "num": 242129,
       "word": "毛晓彤36岁生日照",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1708061375,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234827,
-      "num": 234827,
-      "word": "吴京 镖人风起大漠",
-      "onboard_time": 1708091912,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 232647,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1708076671,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 218163,
-      "num": 218163,
-      "word": "大过年男朋友爸爸打电话教训我",
-      "onboard_time": 1708092757,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 218075,
@@ -1787,6 +1803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189915,
+      "num": 189915,
+      "word": "男朋友第一次上门带的礼物",
+      "onboard_time": 1708093835,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188747,
       "num": 188747,
       "word": "一些人开始逃离一线城市了",
@@ -1859,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182760,
+      "num": 1237003,
+      "word": "十四冬参赛代表团入场主打国潮风",
+      "onboard_time": 1708091198,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "大年初七不教训孩子",
@@ -1913,14 +1945,6 @@
       "onboard_time": 1708058853,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177135,
-      "num": 177135,
-      "word": "屏摄",
-      "onboard_time": 1708092815,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177094,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1708086034,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169094,
+      "num": 169094,
+      "word": "一个心理医生告诫的冷知识",
+      "onboard_time": 1708093895,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 168655,
@@ -2195,14 +2227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156653,
-      "num": 969567,
-      "word": "十四冬参赛代表团入场主打国潮风",
-      "onboard_time": 1708091198,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156464,
       "num": 156464,
       "word": "小龙糕",
@@ -2323,6 +2347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 147661,
+      "num": 147661,
+      "word": "狗界也有自己的燃冬",
+      "onboard_time": 1708093177,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147190,
       "num": 147190,
       "word": "萨摩耶演我晕车",
@@ -2395,6 +2427,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139974,
+      "num": 139974,
+      "word": "林亦扬殷果新人上门",
+      "onboard_time": 1708093835,
+      "rank": 46,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 139875,
       "num": 139875,
       "word": "檀健次rua羊驼",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1708081171,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137007,
+      "num": 137007,
+      "word": "15岁初中生讲述为什么不爱读书",
+      "onboard_time": 1708093895,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 136332,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1708071332,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127470,
+      "num": 127470,
+      "word": "恋与深空 小孩瘾犯了",
+      "onboard_time": 1708093774,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 127437,
