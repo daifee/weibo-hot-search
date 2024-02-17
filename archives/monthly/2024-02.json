@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708186833615,
+  "endTime": 1708187675980,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -11091,6 +11091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528999,
+      "num": 528999,
+      "word": "张艺谋让高叶多拍好戏",
+      "onboard_time": 1708184971,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 528853,
       "num": 528853,
       "word": "打玻尿酸 馒化",
@@ -11793,14 +11801,6 @@
       "onboard_time": 1707525216,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 500690,
-      "num": 500690,
-      "word": "张艺谋让高叶多拍好戏",
-      "onboard_time": 1708184971,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 500505,
@@ -24635,6 +24635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219954,
+      "num": 219954,
+      "word": "年会不能停 超出对爆米花电影的期待",
+      "onboard_time": 1708183653,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219950,
       "num": 219950,
       "word": "春楠拍赵丽颖",
@@ -27097,14 +27105,6 @@
       "onboard_time": 1707134431,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201896,
-      "num": 201896,
-      "word": "年会不能停 超出对爆米花电影的期待",
-      "onboard_time": 1708183653,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 201808,
@@ -30820,7 +30820,7 @@
     },
     {
       "raw_hot": 178821,
-      "num": 161103,
+      "num": 168956,
       "word": "海口回应被指过海效率低",
       "onboard_time": 1708183893,
       "rank": 46,
@@ -33617,6 +33617,14 @@
       "onboard_time": 1707709831,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162251,
+      "num": 162251,
+      "word": "高叶说赵丽颖让她心疼心碎",
+      "onboard_time": 1708186471,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 162234,
@@ -36961,14 +36969,6 @@
       "onboard_time": 1707835179,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143052,
-      "num": 143052,
-      "word": "高叶说赵丽颖让她心疼心碎",
-      "onboard_time": 1708186471,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 143041,
@@ -42555,6 +42555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112134,
+      "num": 112134,
+      "word": "殷果的人设为什么是樱桃",
+      "onboard_time": 1708187607,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112009,
       "num": 112009,
       "word": "WB 稳稳的幸福",
@@ -44393,6 +44401,14 @@
       "onboard_time": 1707151285,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89679,
+      "num": 89679,
+      "word": "学习贾玲的健身减肥动力",
+      "onboard_time": 1708187305,
+      "rank": 45,
+      "category": "运动健身,作品衍生"
     },
     {
       "raw_hot": 89664,
