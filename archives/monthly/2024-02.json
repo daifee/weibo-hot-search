@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708168389473,
+  "endTime": 1708169632784,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2819,6 +2819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1339646,
+      "num": 1339646,
+      "word": "白敬亭跳的是科目三吗",
+      "onboard_time": 1708164571,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1339319,
       "num": 1339319,
       "word": "华中农大黄某某被解聘",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1707557796,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1326174,
-      "num": 1326174,
-      "word": "白敬亭跳的是科目三吗",
-      "onboard_time": 1708164571,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1324627,
@@ -3601,6 +3601,14 @@
       "onboard_time": 1707229354,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1159124,
+      "num": 1159124,
+      "word": "赵今麦发了30多张自拍",
+      "onboard_time": 1708166912,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1156984,
@@ -6171,6 +6179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 819008,
+      "num": 819008,
+      "word": "沈腾自编自导自演新电影",
+      "onboard_time": 1708166492,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 817049,
       "num": 817049,
       "word": "劝人多睡的医生自己在熬夜",
@@ -6827,14 +6843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 771216,
-      "num": 771216,
-      "word": "赵今麦发了30多张自拍",
-      "onboard_time": 1708166912,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 769830,
       "num": 769830,
       "word": "张颂文 你心里不也骂了人家几小时",
@@ -6865,6 +6873,14 @@
       "onboard_time": 1707485562,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 766510,
+      "num": 766510,
+      "word": "炎亚纶 感谢法官让我能海外工作",
+      "onboard_time": 1708165652,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 765440,
@@ -7081,14 +7097,6 @@
       "onboard_time": 1707042391,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 748810,
-      "num": 748810,
-      "word": "炎亚纶 感谢法官让我能海外工作",
-      "onboard_time": 1708165652,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 748025,
@@ -7363,6 +7371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 729727,
+      "num": 729727,
+      "word": "周杰伦昆凌看霉霉演唱会",
+      "onboard_time": 1708167691,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 728800,
       "num": 728800,
       "word": "飞驰人生2 好看",
@@ -7505,14 +7521,6 @@
       "onboard_time": 1707402517,
       "rank": 31,
       "category": "剧集,体育"
-    },
-    {
-      "raw_hot": 721177,
-      "num": 721177,
-      "word": "沈腾自编自导自演新电影",
-      "onboard_time": 1708166492,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 720747,
@@ -10467,6 +10475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548280,
+      "num": 548280,
+      "word": "结婚这么好还用催吗",
+      "onboard_time": 1708166013,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 547639,
       "num": 547639,
       "word": "刘诗诗也穿了唐装",
@@ -11649,14 +11665,6 @@
       "onboard_time": 1707319657,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 498976,
-      "num": 498976,
-      "word": "周杰伦昆凌看霉霉演唱会",
-      "onboard_time": 1708167691,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 498404,
@@ -14395,14 +14403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 400324,
-      "num": 400324,
-      "word": "结婚这么好还用催吗",
-      "onboard_time": 1708166013,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 399839,
       "num": 399839,
       "word": "男子宴席收到工作信息后醉酒捅死领导",
@@ -15316,7 +15316,7 @@
     },
     {
       "raw_hot": 373291,
-      "num": 196352,
+      "num": 335821,
       "word": "亲友回应傅园慧被勒索",
       "onboard_time": 1708166431,
       "rank": 30,
@@ -23763,6 +23763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223630,
+      "num": 201182,
+      "word": "韩路 小医院看小病都这么不靠谱",
+      "onboard_time": 1708168353,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223482,
       "num": 223482,
       "word": "B太测评卫生巾",
@@ -24929,6 +24937,14 @@
       "onboard_time": 1706883515,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213270,
+      "num": 213270,
+      "word": "孙千陈靖可认领cp名",
+      "onboard_time": 1708168773,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213225,
@@ -26337,6 +26353,14 @@
       "onboard_time": 1707114872,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203498,
+      "num": 203498,
+      "word": "飞驰人生2催泪台词",
+      "onboard_time": 1708168833,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 203411,
@@ -28617,6 +28641,14 @@
       "onboard_time": 1708067251,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190738,
+      "num": 190738,
+      "word": "于适飞驰人生细节",
+      "onboard_time": 1708168833,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 190713,
@@ -35419,12 +35451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147517,
+      "num": 147517,
+      "word": "陈楚生笑点不断",
+      "onboard_time": 1708169434,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147500,
       "num": 147500,
       "word": "库里11记三分",
       "onboard_time": 1707446486,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147398,
+      "num": 147398,
+      "word": "豆豆的手印",
+      "onboard_time": 1708169254,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 147358,
@@ -35907,6 +35955,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 145136,
+      "num": 656673,
+      "word": "雪崩后交警救出小朋友暖心安慰",
+      "onboard_time": 1708163438,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145077,
       "num": 145077,
       "word": "刘耀文多喝奶茶",
@@ -36195,6 +36251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143525,
+      "num": 143525,
+      "word": "怕一觉醒来就要上班",
+      "onboard_time": 1708169076,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143510,
       "num": 143510,
       "word": "勇士三次犯规漏吹",
@@ -36305,14 +36369,6 @@
       "onboard_time": 1707176605,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142911,
-      "num": 656673,
-      "word": "雪崩后交警救出小朋友暖心安慰",
-      "onboard_time": 1708163438,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142868,
@@ -37803,12 +37859,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134853,
+      "num": 497600,
+      "word": "男子返工路上拆出淘宝1888元红包",
+      "onboard_time": 1708167633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134827,
       "num": 492508,
       "word": "小孩姐帮奶奶拆出1888元大红包",
       "onboard_time": 1707294391,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134756,
+      "num": 134756,
+      "word": "洗发水测评合集",
+      "onboard_time": 1708168893,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 134731,
@@ -39193,14 +39265,6 @@
       "onboard_time": 1707705091,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 127282,
-      "num": 127282,
-      "word": "韩路 小医院看小病都这么不靠谱",
-      "onboard_time": 1708168353,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127262,
@@ -45049,14 +45113,6 @@
       "onboard_time": 1708029375,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49812,
-      "num": 497600,
-      "word": "男子返工路上拆出淘宝1888元红包",
-      "onboard_time": 1708167633,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49732,

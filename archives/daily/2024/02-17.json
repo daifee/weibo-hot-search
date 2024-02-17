@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708168389473,
+  "endTime": 1708169632784,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -115,8 +115,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1326174,
-      "num": 1326174,
+      "raw_hot": 1339646,
+      "num": 1339646,
       "word": "白敬亭跳的是科目三吗",
       "onboard_time": 1708164571,
       "rank": 22,
@@ -161,6 +161,14 @@
       "onboard_time": 1708135649,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1159124,
+      "num": 1159124,
+      "word": "赵今麦发了30多张自拍",
+      "onboard_time": 1708166912,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1120924,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 819008,
+      "num": 819008,
+      "word": "沈腾自编自导自演新电影",
+      "onboard_time": 1708166492,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 815449,
       "num": 815449,
       "word": "吉林文旅",
@@ -339,12 +355,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 771216,
-      "num": 771216,
-      "word": "赵今麦发了30多张自拍",
-      "onboard_time": 1708166912,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 766510,
+      "num": 766510,
+      "word": "炎亚纶 感谢法官让我能海外工作",
+      "onboard_time": 1708165652,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 750417,
@@ -353,14 +369,6 @@
       "onboard_time": 1708131569,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 748810,
-      "num": 748810,
-      "word": "炎亚纶 感谢法官让我能海外工作",
-      "onboard_time": 1708165652,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 748025,
@@ -379,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729727,
+      "num": 729727,
+      "word": "周杰伦昆凌看霉霉演唱会",
+      "onboard_time": 1708167691,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 727542,
       "num": 727542,
       "word": "南北",
       "onboard_time": 1708094612,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 721177,
-      "num": 721177,
-      "word": "沈腾自编自导自演新电影",
-      "onboard_time": 1708166492,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 703482,
@@ -523,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 548280,
+      "num": 548280,
+      "word": "结婚这么好还用催吗",
+      "onboard_time": 1708166013,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546765,
       "num": 263280,
       "word": "吃的干净真的会瘦",
@@ -577,14 +593,6 @@
       "onboard_time": 1708144052,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 498976,
-      "num": 498976,
-      "word": "周杰伦昆凌看霉霉演唱会",
-      "onboard_time": 1708167691,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 487276,
@@ -747,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 400324,
-      "num": 400324,
-      "word": "结婚这么好还用催吗",
-      "onboard_time": 1708166013,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 391365,
       "num": 391365,
       "word": "宋亚轩第一次一个人领奖",
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 373291,
-      "num": 196352,
+      "num": 335821,
       "word": "亲友回应傅园慧被勒索",
       "onboard_time": 1708166431,
       "rank": 30,
@@ -1243,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223630,
+      "num": 201182,
+      "word": "韩路 小医院看小病都这么不靠谱",
+      "onboard_time": 1708168353,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223314,
       "num": 220526,
       "word": "5000一碗的食神炒饭",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1708131449,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 213270,
+      "num": 213270,
+      "word": "孙千陈靖可认领cp名",
+      "onboard_time": 1708168773,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212064,
@@ -1384,6 +1400,14 @@
       "word": "八戒之天蓬下界宣布延后上映",
       "onboard_time": 1708145971,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203498,
+      "num": 203498,
+      "word": "飞驰人生2催泪台词",
+      "onboard_time": 1708168833,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1529,6 +1553,14 @@
       "onboard_time": 1708138713,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190738,
+      "num": 190738,
+      "word": "于适飞驰人生细节",
+      "onboard_time": 1708168833,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 190442,
@@ -1883,6 +1915,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147517,
+      "num": 147517,
+      "word": "陈楚生笑点不断",
+      "onboard_time": 1708169434,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147398,
+      "num": 147398,
+      "word": "豆豆的手印",
+      "onboard_time": 1708169254,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146335,
       "num": 146335,
       "word": "地下室改造后能有多绝",
@@ -1899,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145136,
+      "num": 656673,
+      "word": "雪崩后交警救出小朋友暖心安慰",
+      "onboard_time": 1708163438,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144569,
       "num": 144569,
       "word": "开工红包该不该给",
@@ -1907,12 +1963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142911,
-      "num": 656673,
-      "word": "雪崩后交警救出小朋友暖心安慰",
-      "onboard_time": 1708163438,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 143525,
+      "num": 143525,
+      "word": "怕一觉醒来就要上班",
+      "onboard_time": 1708169076,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 141981,
@@ -1979,6 +2035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134853,
+      "num": 497600,
+      "word": "男子返工路上拆出淘宝1888元红包",
+      "onboard_time": 1708167633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134756,
+      "num": 134756,
+      "word": "洗发水测评合集",
+      "onboard_time": 1708168893,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 134731,
       "num": 134731,
       "word": "2024NBA全明星",
@@ -2033,14 +2105,6 @@
       "onboard_time": 1708150710,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127282,
-      "num": 127282,
-      "word": "韩路 小医院看小病都这么不靠谱",
-      "onboard_time": 1708168353,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127198,
@@ -2331,14 +2395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49812,
-      "num": 497600,
-      "word": "男子返工路上拆出淘宝1888元红包",
-      "onboard_time": 1708167633,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44884,
       "num": 44884,
       "word": "一百多年前的猫奴",
@@ -2404,7 +2460,7 @@
     },
     {
       "raw_hot": 7518,
-      "num": 1177887,
+      "num": 1197350,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
       "rank": 2,
