@@ -1,0 +1,410 @@
+{
+  "runTime": 1708158837668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651628,
+        "num": 1651628,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1490876,
+        "num": 1490876,
+        "word": "孙颖莎爆冷输印度选手",
+        "onboard_time": 1708157249,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18491,
+        "num": 1265574,
+        "word": "锦绣中国",
+        "onboard_time": 1708158690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201374,
+        "num": 1201374,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 934049,
+        "num": 934049,
+        "word": "国家免费补课平台",
+        "onboard_time": 1708153709,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 732056,
+        "num": 732056,
+        "word": "其实我不爱吃牛蛙",
+        "onboard_time": 1708154371,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 657050,
+        "num": 657050,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 639155,
+        "num": 639155,
+        "word": "余景天秒删",
+        "onboard_time": 1708148614,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581788,
+        "num": 581788,
+        "word": "傅园慧长白山发博求助",
+        "onboard_time": 1708137213,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535515,
+        "num": 535515,
+        "word": "六公主重播封神第一部",
+        "onboard_time": 1708156111,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 562586,
+        "num": 534750,
+        "word": "白敬亭你好星期六发带剧照",
+        "onboard_time": 1708139731,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512927,
+        "num": 512927,
+        "word": "巴黎妹子来中国一个月后的感想",
+        "onboard_time": 1708153528,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456577,
+        "num": 456577,
+        "word": "赵露思上学时期旧照",
+        "onboard_time": 1708155811,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430675,
+        "num": 430675,
+        "word": "女人不能坐器材箱规矩被打破",
+        "onboard_time": 1708150774,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 404819,
+        "num": 404819,
+        "word": "大龄未婚农村男性不再焦虑婚姻",
+        "onboard_time": 1708150054,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4112,
+        "num": 393916,
+        "word": "网络中国节",
+        "onboard_time": 1708090956,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386223,
+        "num": 386223,
+        "word": "明年不会来你家了",
+        "onboard_time": 1708147473,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362228,
+        "num": 362228,
+        "word": "侯雯元录综艺背了钟楚曦的包",
+        "onboard_time": 1708150710,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347259,
+        "num": 347259,
+        "word": "切尔诺贝利的狼已进化出抗癌能力",
+        "onboard_time": 1708143754,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323039,
+        "num": 323039,
+        "word": "马丽早期写真照",
+        "onboard_time": 1708153652,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388321,
+        "num": 314890,
+        "word": "车厘子降价我怎么还是买不起",
+        "onboard_time": 1708156950,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304907,
+        "num": 304907,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708149391,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261035,
+        "num": 261035,
+        "word": "买衣服觉得贵被店员瞧不起",
+        "onboard_time": 1708156650,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240058,
+        "num": 240058,
+        "word": "亚洲超星团 元英药房",
+        "onboard_time": 1708156890,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235457,
+        "num": 235457,
+        "word": "iPhone16或垂直排列摄像头",
+        "onboard_time": 1708140454,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226707,
+        "num": 226707,
+        "word": "不想上班不想上班",
+        "onboard_time": 1708153951,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223080,
+        "num": 223080,
+        "word": "热辣滚烫春节档冠军",
+        "onboard_time": 1708157550,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214208,
+        "num": 214208,
+        "word": "公式化的朋友圈",
+        "onboard_time": 1708149155,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211242,
+        "num": 211242,
+        "word": "任子威回应混合接力判罚",
+        "onboard_time": 1708154371,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179006,
+        "num": 207126,
+        "word": "喝茶能刮油减肥是真的吗",
+        "onboard_time": 1708155990,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107853,
+        "num": 203596,
+        "word": "离家的行囊满是爱和牵挂",
+        "onboard_time": 1708156411,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361653,
+        "num": 203409,
+        "word": "小哥纹身来改变鼻子形状",
+        "onboard_time": 1708157131,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203137,
+        "num": 203137,
+        "word": "肖战米兰大屏应援",
+        "onboard_time": 1708156590,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137331,
+        "num": 198257,
+        "word": "今年春晚后劲真大",
+        "onboard_time": 1708145912,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197078,
+        "num": 197078,
+        "word": "赵今麦哈尔滨拍戏",
+        "onboard_time": 1708153951,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193087,
+        "num": 193087,
+        "word": "薛之谦屏摄争议",
+        "onboard_time": 1708152752,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186357,
+        "num": 186357,
+        "word": "机票太贵了回不了学校",
+        "onboard_time": 1708135349,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176321,
+        "num": 176321,
+        "word": "起猛了看到两坨肉在打架",
+        "onboard_time": 1708156650,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152825,
+        "num": 175852,
+        "word": "吉林文旅回应傅园慧求助",
+        "onboard_time": 1708142613,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125251,
+        "num": 175452,
+        "word": "农村未成年人的手机之困",
+        "onboard_time": 1708158212,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175394,
+        "num": 175394,
+        "word": "热辣滚烫 重重拿起又轻轻放下",
+        "onboard_time": 1708158750,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170473,
+        "num": 170473,
+        "word": "嘴唇起泡是病毒感染",
+        "onboard_time": 1708146752,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166404,
+        "num": 166404,
+        "word": "王鹤棣破中国明星名人赛历史记录",
+        "onboard_time": 1708138172,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 124474,
+        "num": 163832,
+        "word": "一家人旅游摆摊玩3天赚1000多元",
+        "onboard_time": 1708143992,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162564,
+        "num": 162564,
+        "word": "余景天连发两条微博回应",
+        "onboard_time": 1708155930,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157816,
+        "num": 157816,
+        "word": "杭州一箱坚果过年10日游",
+        "onboard_time": 1708155571,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150799,
+        "num": 150799,
+        "word": "汪苏泷 站好最后一班岗",
+        "onboard_time": 1708156950,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148659,
+        "num": 148659,
+        "word": "年后减肥操",
+        "onboard_time": 1708157614,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 145191,
+        "num": 145191,
+        "word": "一生自省的中国人",
+        "onboard_time": 1708157909,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139886,
+        "num": 139886,
+        "word": "一想到要上班的我",
+        "onboard_time": 1708158212,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
