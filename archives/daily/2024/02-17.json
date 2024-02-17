@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708144549262,
+  "endTime": 1708146939063,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1398852,
+      "num": 1398852,
+      "word": "贾玲高马尾帅上了另一个level",
+      "onboard_time": 1708143093,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1383191,
       "num": 1383191,
       "word": "红毯先生退出春节档",
@@ -65,6 +73,14 @@
       "onboard_time": 1708140454,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1228487,
+      "num": 1228487,
+      "word": "切尔诺贝利的狼已进化出抗癌能力",
+      "onboard_time": 1708143754,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1178149,
@@ -155,6 +171,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 852424,
+      "num": 852424,
+      "word": "吉林文旅回应傅园慧求助",
+      "onboard_time": 1708142613,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831162,
       "num": 831162,
       "word": "贾玲汪东城早期综艺画面",
@@ -179,20 +203,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 808479,
-      "num": 808479,
-      "word": "贾玲高马尾帅上了另一个level",
-      "onboard_time": 1708143093,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 750525,
-      "num": 750525,
-      "word": "吉林文旅回应傅园慧求助",
-      "onboard_time": 1708142613,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 800204,
+      "num": 800204,
+      "word": "沈月一个人就是一个团队",
+      "onboard_time": 1708142432,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 750417,
@@ -217,14 +233,6 @@
       "onboard_time": 1708094612,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 710394,
-      "num": 710394,
-      "word": "沈月一个人就是一个团队",
-      "onboard_time": 1708142432,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 703482,
@@ -265,6 +273,14 @@
       "onboard_time": 1708134809,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 661303,
+      "num": 661303,
+      "word": "我也退出春节档了",
+      "onboard_time": 1708146333,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 654302,
@@ -347,11 +363,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532976,
+      "num": 532976,
+      "word": "春节档还剩四部电影在映",
+      "onboard_time": 1708145492,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 511425,
       "num": 511425,
       "word": "肖战龙年开工照",
       "onboard_time": 1708138293,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 489777,
+      "num": 489777,
+      "word": "王一博与穿山甲合照",
+      "onboard_time": 1708144052,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1708094857,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 448467,
+      "num": 448467,
+      "word": "因为不想上班在返程高铁上流泪",
+      "onboard_time": 1708143272,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 444370,
@@ -403,28 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425153,
-      "num": 425153,
-      "word": "因为不想上班在返程高铁上流泪",
-      "onboard_time": 1708143272,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 421798,
       "num": 421798,
       "word": "王鹤棣出战全明星名人赛",
       "onboard_time": 1708127364,
       "rank": 13,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 416621,
-      "num": 416621,
-      "word": "王一博与穿山甲合照",
-      "onboard_time": 1708144052,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 414610,
@@ -451,6 +475,14 @@
       "category": "科学科普,电影"
     },
     {
+      "raw_hot": 385341,
+      "num": 385341,
+      "word": "一家人旅游摆摊玩3天赚1000多元",
+      "onboard_time": 1708143992,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374132,
       "num": 260445,
       "word": "惠英红评论刘亦菲",
@@ -475,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358631,
-      "num": 358631,
-      "word": "切尔诺贝利的狼已进化出抗癌能力",
-      "onboard_time": 1708143754,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349437,
       "num": 349437,
       "word": "大年初八",
@@ -491,12 +515,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342566,
+      "num": 342566,
+      "word": "声生不息",
+      "onboard_time": 1708143933,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333745,
       "num": 333745,
       "word": "男子500米孙龙夺冠",
       "onboard_time": 1708141414,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328136,
+      "num": 328136,
+      "word": "今年春晚后劲真大",
+      "onboard_time": 1708145912,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 320780,
@@ -699,6 +739,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238851,
+      "num": 238851,
+      "word": "大过年和我妈决裂",
+      "onboard_time": 1708145374,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 237486,
+      "num": 209887,
+      "word": "这腰腹瘦得易如反掌",
+      "onboard_time": 1708146092,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 233597,
       "num": 233597,
       "word": "吉林短道速滑",
@@ -747,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221014,
+      "num": 208517,
+      "word": "嘴唇起泡是病毒感染",
+      "onboard_time": 1708146752,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220101,
       "num": 220101,
       "word": "福岛核污水泄漏系因忘关手动阀门",
       "onboard_time": 1708088196,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 218348,
+      "num": 218348,
+      "word": "王鹤棣21分钟砍18分",
+      "onboard_time": 1708145852,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 215030,
@@ -795,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203693,
+      "num": 203693,
+      "word": "八戒之天蓬下界宣布延后上映",
+      "onboard_time": 1708145971,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203056,
       "num": 203056,
       "word": "薛之谦版权意识",
@@ -825,14 +905,6 @@
       "onboard_time": 1708134269,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196664,
-      "num": 196664,
-      "word": "声生不息",
-      "onboard_time": 1708143933,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 193674,
@@ -899,6 +971,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 188696,
+      "num": 188696,
+      "word": "热辣滚烫伏笔",
+      "onboard_time": 1708146033,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188438,
       "num": 188438,
       "word": "返程 堵车",
@@ -907,12 +987,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187299,
+      "num": 187299,
+      "word": "代号鸢",
+      "onboard_time": 1708145553,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185512,
       "num": 185512,
       "word": "阿姨 完蛋真碰到穷鬼了",
       "onboard_time": 1708095937,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182548,
+      "num": 190459,
+      "word": "王楚钦3比0佩雷拉",
+      "onboard_time": 1708145614,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 178621,
@@ -971,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166222,
-      "num": 166222,
-      "word": "一家人旅游摆摊玩3天赚1000多元",
-      "onboard_time": 1708143992,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165726,
       "num": 165726,
       "word": "肾炎尿蛋白 白醋泡冰糖",
@@ -1008,6 +1096,14 @@
       "word": "中国接力队让解说高喊帅呆了",
       "onboard_time": 1708132710,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159574,
+      "num": 159574,
+      "word": "王曼昱3比0马格迪耶娃",
+      "onboard_time": 1708145132,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1065,6 +1161,14 @@
       "onboard_time": 1708141351,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146652,
+      "num": 146652,
+      "word": "当留守猫咪突然见到主人后",
+      "onboard_time": 1708146810,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 141661,
@@ -1420,6 +1524,9 @@
     },
     {
       "word": "#文化中国团圆年#"
+    },
+    {
+      "word": "#总书记殷殷嘱托饱含温情#"
     }
   ]
 }
