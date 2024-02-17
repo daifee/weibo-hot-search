@@ -1,0 +1,410 @@
+{
+  "runTime": 1708136469511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888088,
+        "num": 1888088,
+        "word": "一家五口三亚旅游准备回家高铁无票机票一张近两万",
+        "onboard_time": 1708128988,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043743,
+        "num": 1043743,
+        "word": "胖东来未按标准试吃员工被开除",
+        "onboard_time": 1708131993,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41777,
+        "num": 926129,
+        "word": "网络中国节",
+        "onboard_time": 1708090956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874728,
+        "num": 874728,
+        "word": "红毯先生退出春节档",
+        "onboard_time": 1708126222,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 853136,
+        "num": 853136,
+        "word": "王鹤棣半节连得8分",
+        "onboard_time": 1708132471,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 831162,
+        "num": 831162,
+        "word": "贾玲汪东城早期综艺画面",
+        "onboard_time": 1708129832,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825416,
+        "num": 825416,
+        "word": "毕志飞想请薛之谦出演电影屏摄",
+        "onboard_time": 1708134932,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 669304,
+        "num": 669304,
+        "word": "面试就是在筛掉配得感低的人",
+        "onboard_time": 1708127424,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 640880,
+        "num": 640880,
+        "word": "一年八班秦朗",
+        "onboard_time": 1708134809,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622076,
+        "num": 622076,
+        "word": "母亲连夜杀10只鸡分给返程儿女",
+        "onboard_time": 1708119135,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632392,
+        "num": 621847,
+        "word": "机票太贵了回不了学校",
+        "onboard_time": 1708135349,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 621066,
+        "num": 621066,
+        "word": "小学生寒假作业落巴黎被热心人带回",
+        "onboard_time": 1708131750,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593648,
+        "num": 593648,
+        "word": "炎亚纶花150万元解除出境限制",
+        "onboard_time": 1708135649,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552963,
+        "num": 552963,
+        "word": "林孝埈泪洒十四冬赛场",
+        "onboard_time": 1708131569,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442697,
+        "num": 442697,
+        "word": "iPhone降价促销依然卖不动",
+        "onboard_time": 1708129227,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 440421,
+        "num": 440421,
+        "word": "王鹤棣与队友撞胸庆祝",
+        "onboard_time": 1708134150,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 418785,
+        "num": 418785,
+        "word": "一家人旅游未买5万手镯被赶下车",
+        "onboard_time": 1708127364,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 364372,
+        "num": 364372,
+        "word": "为什么杜乐莹跳楼没有死",
+        "onboard_time": 1708094493,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363375,
+        "num": 363375,
+        "word": "撤档",
+        "onboard_time": 1708126942,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360945,
+        "num": 360945,
+        "word": "高叶说赵丽颖是小女孩",
+        "onboard_time": 1708130549,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324090,
+        "num": 324090,
+        "word": "盗摄元年",
+        "onboard_time": 1708096596,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283897,
+        "num": 283897,
+        "word": "伦敦地铁偶遇费翔",
+        "onboard_time": 1708134572,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279310,
+        "num": 279310,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270418,
+        "num": 270418,
+        "word": "不拔电器插头1年多交多少电费",
+        "onboard_time": 1708092577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268117,
+        "num": 268117,
+        "word": "特朗普被罚3.5亿美元",
+        "onboard_time": 1708129227,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240468,
+        "num": 240468,
+        "word": "薛之谦转发再回应盗摄",
+        "onboard_time": 1708085015,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216303,
+        "num": 216303,
+        "word": "谁把中国女乒惊出一身冷汗",
+        "onboard_time": 1708133731,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210195,
+        "num": 210195,
+        "word": "云南文旅",
+        "onboard_time": 1708133670,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 209212,
+        "num": 209212,
+        "word": "刘宇宁最想参加的综艺",
+        "onboard_time": 1708131869,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205685,
+        "num": 205685,
+        "word": "我会不顾一切救她 因为她是我自己",
+        "onboard_time": 1708133550,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 237145,
+        "num": 205303,
+        "word": "妈妈为全家11人准备晚饭",
+        "onboard_time": 1708135954,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204441,
+        "num": 204441,
+        "word": "十四冬",
+        "onboard_time": 1708135954,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194769,
+        "num": 194769,
+        "word": "因为王鹤棣第一次看NBA",
+        "onboard_time": 1708132113,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 191961,
+        "num": 191961,
+        "word": "东北天然大冰箱快扛不住了",
+        "onboard_time": 1708135290,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190442,
+        "num": 190442,
+        "word": "和老板要开工红包的正确姿势",
+        "onboard_time": 1708135954,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187284,
+        "num": 187284,
+        "word": "开了12个小时车开不出安徽",
+        "onboard_time": 1708134269,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176517,
+        "num": 176517,
+        "word": "看电影拍摄发朋友圈",
+        "onboard_time": 1708132651,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166376,
+        "num": 166376,
+        "word": "南北cp",
+        "onboard_time": 1708130428,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152947,
+        "num": 152947,
+        "word": "年会不能停导演反对屏摄",
+        "onboard_time": 1708088676,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148477,
+        "num": 148477,
+        "word": "苹果首个银行木马被曝光",
+        "onboard_time": 1708136192,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145504,
+        "num": 145504,
+        "word": "惠英红评论刘亦菲",
+        "onboard_time": 1708095395,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139559,
+        "num": 139559,
+        "word": "热辣滚烫 最喜欢这张图的表达",
+        "onboard_time": 1708128567,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137754,
+        "num": 137754,
+        "word": "孙悟空被压了几百年都没有黑化",
+        "onboard_time": 1708128446,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135054,
+        "num": 135054,
+        "word": "00后相亲 拘谨的放肆感",
+        "onboard_time": 1708126523,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133201,
+        "num": 133201,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130493,
+        "num": 130493,
+        "word": "为什么当代年轻人结婚越来越晚",
+        "onboard_time": 1708128146,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130315,
+        "num": 130315,
+        "word": "返程 堵车",
+        "onboard_time": 1708135592,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129389,
+        "num": 129389,
+        "word": "中国接力队让解说高喊帅呆了",
+        "onboard_time": 1708132710,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121585,
+        "num": 121585,
+        "word": "大年初八要顺星",
+        "onboard_time": 1708134510,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119134,
+        "num": 119134,
+        "word": "没见过全省一起被骗的",
+        "onboard_time": 1708097432,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把握传承和创新的关系#"
+    }
+  }
+}

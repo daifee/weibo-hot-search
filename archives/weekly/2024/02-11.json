@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708135325637,
+  "endTime": 1708136469511,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1499,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1043743,
+      "num": 1043743,
+      "word": "胖东来未按标准试吃员工被开除",
+      "onboard_time": 1708131993,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043372,
       "num": 1043372,
       "word": "贾玲问老公是哪个男孩喊的",
@@ -1811,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 925687,
-      "num": 925687,
-      "word": "胖东来未按标准试吃员工被开除",
-      "onboard_time": 1708131993,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 925472,
       "num": 925472,
       "word": "杨幂礼服下面穿秋裤",
@@ -2027,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 853136,
+      "num": 853136,
+      "word": "王鹤棣半节连得8分",
+      "onboard_time": 1708132471,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 852687,
       "num": 852687,
       "word": "红毯先生 暴打资方",
@@ -2099,6 +2107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 831162,
+      "num": 831162,
+      "word": "贾玲汪东城早期综艺画面",
+      "onboard_time": 1708129832,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828056,
       "num": 828056,
       "word": "朱丹周一围情人节合照",
@@ -2107,12 +2123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827230,
-      "num": 827230,
-      "word": "王鹤棣半节连得8分",
-      "onboard_time": 1708132471,
-      "rank": 14,
-      "category": "艺人,体育"
+      "raw_hot": 825416,
+      "num": 825416,
+      "word": "毕志飞想请薛之谦出演电影屏摄",
+      "onboard_time": 1708134932,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 819907,
@@ -2473,14 +2489,6 @@
       "onboard_time": 1707917377,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 736692,
-      "num": 736692,
-      "word": "贾玲汪东城早期综艺画面",
-      "onboard_time": 1708129832,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 734227,
@@ -3051,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640880,
+      "num": 640880,
+      "word": "一年八班秦朗",
+      "onboard_time": 1708134809,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 639143,
       "num": 639143,
       "word": "老祖宗的审美",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1707732632,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632392,
+      "num": 621847,
+      "word": "机票太贵了回不了学校",
+      "onboard_time": 1708135349,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 632349,
@@ -3377,6 +3401,14 @@
       "onboard_time": 1707876090,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 593648,
+      "num": 593648,
+      "word": "炎亚纶花150万元解除出境限制",
+      "onboard_time": 1708135649,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 593436,
@@ -4689,6 +4721,14 @@
       "onboard_time": 1707818197,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440421,
+      "num": 440421,
+      "word": "王鹤棣与队友撞胸庆祝",
+      "onboard_time": 1708134150,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 439351,
@@ -6147,14 +6187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330166,
-      "num": 330166,
-      "word": "王鹤棣与队友撞胸庆祝",
-      "onboard_time": 1708134150,
-      "rank": 17,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 329532,
       "num": 329532,
       "word": "库里太牛了",
@@ -6883,6 +6915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283897,
+      "num": 283897,
+      "word": "伦敦地铁偶遇费翔",
+      "onboard_time": 1708134572,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283757,
       "num": 283757,
       "word": "张杰从除夕锻炼到大年初六",
@@ -7467,28 +7507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255970,
-      "num": 255970,
-      "word": "一年八班秦朗",
-      "onboard_time": 1708134809,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255764,
       "num": 255764,
       "word": "檀健次说今年会播出三部作品",
       "onboard_time": 1707715710,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254749,
-      "num": 233370,
-      "word": "毕志飞想请薛之谦出演电影屏摄",
-      "onboard_time": 1708134932,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 254262,
@@ -7971,6 +7995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237145,
+      "num": 205303,
+      "word": "妈妈为全家11人准备晚饭",
+      "onboard_time": 1708135954,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 236866,
       "num": 236866,
       "word": "25岁新人翻拍父母25岁婚纱照",
@@ -8129,14 +8161,6 @@
       "onboard_time": 1707899551,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233579,
-      "num": 233579,
-      "word": "伦敦地铁偶遇费翔",
-      "onboard_time": 1708134572,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 233569,
@@ -9187,6 +9211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205685,
+      "num": 205685,
+      "word": "我会不顾一切救她 因为她是我自己",
+      "onboard_time": 1708133550,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205684,
       "num": 205684,
       "word": "詹姆斯霉霉观战超级碗",
@@ -9257,6 +9289,14 @@
       "onboard_time": 1707644791,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204441,
+      "num": 204441,
+      "word": "十四冬",
+      "onboard_time": 1708135954,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 204435,
@@ -9979,6 +10019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191961,
+      "num": 191961,
+      "word": "东北天然大冰箱快扛不住了",
+      "onboard_time": 1708135290,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191550,
       "num": 191550,
       "word": "马斯克将用X取代移动通信",
@@ -10049,6 +10097,14 @@
       "onboard_time": 1707611310,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190442,
+      "num": 190442,
+      "word": "和老板要开工红包的正确姿势",
+      "onboard_time": 1708135954,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 190364,
@@ -11451,14 +11507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164274,
-      "num": 164274,
-      "word": "我会不顾一切救她 因为她是我自己",
-      "onboard_time": 1708133550,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 163263,
       "num": 163263,
       "word": "拜财神刻入中国人DNA",
@@ -12433,6 +12481,14 @@
       "onboard_time": 1707635912,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148477,
+      "num": 148477,
+      "word": "苹果首个银行木马被曝光",
+      "onboard_time": 1708136192,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 148244,
@@ -13456,6 +13512,14 @@
       "word": "这是什么新型催婚方式",
       "onboard_time": 1707906097,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130315,
+      "num": 130315,
+      "word": "返程 堵车",
+      "onboard_time": 1708135592,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -14649,14 +14713,6 @@
       "onboard_time": 1707728851,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112912,
-      "num": 112912,
-      "word": "东北天然大冰箱快扛不住了",
-      "onboard_time": 1708135290,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112863,
