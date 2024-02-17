@@ -1,0 +1,410 @@
+{
+  "runTime": 1708179337504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2676260,
+        "num": 2676260,
+        "word": "对傅园慧加价黑车司机被罚3万元",
+        "onboard_time": 1708175974,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2401895,
+        "num": 2401895,
+        "word": "贾玲大波浪",
+        "onboard_time": 1708175555,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9894,
+        "num": 1629292,
+        "word": "网络中国节",
+        "onboard_time": 1708090956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345103,
+        "num": 1345103,
+        "word": "12306称车库的车都开出去了",
+        "onboard_time": 1708176034,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158752,
+        "num": 1158752,
+        "word": "白敬亭秒认出王嘉尔井柏然",
+        "onboard_time": 1708177778,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 912107,
+        "num": 912107,
+        "word": "优质朋友圈背景图",
+        "onboard_time": 1708176094,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 703778,
+        "num": 703778,
+        "word": "乙骨忧太也被腰斩",
+        "onboard_time": 1708174593,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 671037,
+        "num": 671037,
+        "word": "海南离岛严重拥堵有人排14小时上船",
+        "onboard_time": 1708173814,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607810,
+        "num": 607810,
+        "word": "央视网评论傅园慧求助",
+        "onboard_time": 1708162593,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572264,
+        "num": 572264,
+        "word": "魏晨你咋在这",
+        "onboard_time": 1708170693,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518960,
+        "num": 518960,
+        "word": "今年上班251天",
+        "onboard_time": 1708173273,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497539,
+        "num": 497539,
+        "word": "魏大勋 韦一敏效应",
+        "onboard_time": 1708173933,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497032,
+        "num": 497032,
+        "word": "官方通报傅园慧包车被勒索",
+        "onboard_time": 1708175794,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 471573,
+        "num": 471573,
+        "word": "赵今麦发了30多张自拍",
+        "onboard_time": 1708166912,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449246,
+        "num": 449246,
+        "word": "王安宇男友照",
+        "onboard_time": 1708172315,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446228,
+        "num": 446228,
+        "word": "女子输错导航被丈夫怒抛高速",
+        "onboard_time": 1708177474,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390248,
+        "num": 390248,
+        "word": "白敬亭跳的是科目三吗",
+        "onboard_time": 1708164571,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383774,
+        "num": 383774,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 347227,
+        "num": 347227,
+        "word": "成毅披发",
+        "onboard_time": 1708172493,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323375,
+        "num": 323375,
+        "word": "杨紫国色芳华路透",
+        "onboard_time": 1708179096,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371554,
+        "num": 310134,
+        "word": "大年初四为了谈结婚请客的事吵架",
+        "onboard_time": 1708176094,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294008,
+        "num": 294008,
+        "word": "孙楠回应当年歌手退赛",
+        "onboard_time": 1708170271,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288826,
+        "num": 288826,
+        "word": "孙千陈靖可新中式情侣装",
+        "onboard_time": 1708171110,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288085,
+        "num": 288085,
+        "word": "NBA官方发了王鹤棣",
+        "onboard_time": 1708171231,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 284832,
+        "num": 284832,
+        "word": "白鹿薄荷雪媚娘",
+        "onboard_time": 1708179153,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265320,
+        "num": 265320,
+        "word": "小龙糕",
+        "onboard_time": 1708175074,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263460,
+        "num": 263460,
+        "word": "因为迟到没拿到开工红包",
+        "onboard_time": 1708177474,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263055,
+        "num": 263055,
+        "word": "孙颖莎爆冷输球的原因在哪里",
+        "onboard_time": 1708174535,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260869,
+        "num": 260869,
+        "word": "过完年 失落感",
+        "onboard_time": 1708177356,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 251880,
+        "word": "十四冬点火超燃瞬间",
+        "onboard_time": 1708177896,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245388,
+        "num": 245388,
+        "word": "准备一年只为这一分钟",
+        "onboard_time": 1708175735,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240822,
+        "num": 240822,
+        "word": "车厘子价格膝盖斩背后的真相",
+        "onboard_time": 1708174234,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237872,
+        "num": 237872,
+        "word": "飞驰人生2被删减剧情",
+        "onboard_time": 1708160854,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220022,
+        "num": 220022,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220004,
+        "num": 220004,
+        "word": "周杰伦昆凌看霉霉演唱会",
+        "onboard_time": 1708167691,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206137,
+        "num": 206137,
+        "word": "电影票背面规定了不能盗摄",
+        "onboard_time": 1708178074,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205790,
+        "num": 205790,
+        "word": "陈好是王星越大学班主任",
+        "onboard_time": 1708178376,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202163,
+        "num": 202163,
+        "word": "萨拉赫助攻",
+        "onboard_time": 1708178916,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197542,
+        "num": 197542,
+        "word": "吴世勋中国杂志销量",
+        "onboard_time": 1708173391,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190977,
+        "num": 190977,
+        "word": "在家唯唯诺诺 在外重拳出击",
+        "onboard_time": 1708176455,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184718,
+        "num": 184718,
+        "word": "创造营亚洲第一次公演",
+        "onboard_time": 1708173032,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174047,
+        "num": 174047,
+        "word": "傅园慧乘坐车辆无相关营运手续",
+        "onboard_time": 1708179036,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 168776,
+        "num": 168776,
+        "word": "如果猫不小心被关在门外",
+        "onboard_time": 1708174112,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166524,
+        "num": 166524,
+        "word": "小辣 我已经是大人了",
+        "onboard_time": 1708178316,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164843,
+        "num": 164843,
+        "word": "哪个是张大勋",
+        "onboard_time": 1708178555,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155798,
+        "num": 155798,
+        "word": "不想上班",
+        "onboard_time": 1708176874,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155271,
+        "num": 155271,
+        "word": "王安宇太好梦了",
+        "onboard_time": 1708174234,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 152785,
+        "word": "吃过必念念不忘的牛奶鸡蛋醪糟",
+        "onboard_time": 1708178794,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146150,
+        "num": 146150,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145539,
+        "num": 145539,
+        "word": "Sora",
+        "onboard_time": 1708179217,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
