@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708158837668,
+  "endTime": 1708161346472,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -233,6 +233,14 @@
       "onboard_time": 1707897335,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2452767,
+      "num": 2452767,
+      "word": "孙颖莎爆冷输印度选手",
+      "onboard_time": 1708157249,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 2449773,
@@ -801,14 +809,6 @@
       "onboard_time": 1707718109,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1490876,
-      "num": 1490876,
-      "word": "孙颖莎爆冷输印度选手",
-      "onboard_time": 1708157249,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1484340,
@@ -1987,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 908541,
+      "num": 908541,
+      "word": "官方称将对勒索傅园慧司机严厉惩处",
+      "onboard_time": 1708159052,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 897244,
       "num": 897244,
       "word": "一家人旅游未买5万手镯被赶下车",
@@ -2427,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786477,
+      "num": 786477,
+      "word": "其实我不爱吃牛蛙",
+      "onboard_time": 1708154371,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 786062,
       "num": 786062,
       "word": "大年初七",
@@ -2689,14 +2705,6 @@
       "onboard_time": 1707796116,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 732056,
-      "num": 732056,
-      "word": "其实我不爱吃牛蛙",
-      "onboard_time": 1708154371,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 730339,
@@ -3275,6 +3283,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 638577,
+      "num": 638577,
+      "word": "农村未成年人的手机之困",
+      "onboard_time": 1708158212,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638185,
       "num": 638185,
       "word": "12306抢票",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1707869426,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571980,
+      "num": 567142,
+      "word": "热辣滚烫 重重拿起又轻轻放下",
+      "onboard_time": 1708158750,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 571587,
@@ -4513,6 +4537,14 @@
       "onboard_time": 1707905312,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491545,
+      "num": 491545,
+      "word": "飞驰人生2被删减剧情",
+      "onboard_time": 1708160854,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 491280,
@@ -5419,6 +5451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411153,
+      "num": 411153,
+      "word": "张杰辟谣官宣演唱会",
+      "onboard_time": 1708159712,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 410771,
       "num": 410771,
       "word": "张若昀魏晨最冷静的认亲",
@@ -5675,6 +5715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391077,
+      "num": 314890,
+      "word": "车厘子降价我怎么还是买不起",
+      "onboard_time": 1708156950,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389728,
       "num": 389728,
       "word": "圆顺",
@@ -5689,14 +5737,6 @@
       "onboard_time": 1707734672,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 388321,
-      "num": 314890,
-      "word": "车厘子降价我怎么还是买不起",
-      "onboard_time": 1708156950,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 387154,
@@ -5724,7 +5764,7 @@
     },
     {
       "raw_hot": 384324,
-      "num": 215736,
+      "num": 290361,
       "word": "小哥纹身来改变鼻子形状",
       "onboard_time": 1708157131,
       "rank": 30,
@@ -7275,6 +7315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 286597,
+      "num": 286597,
+      "word": "张杰谢娜带娃度假",
+      "onboard_time": 1708161032,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286540,
       "num": 286540,
       "word": "不自觉摸脸是身体在安抚自己",
@@ -7945,6 +7993,14 @@
       "onboard_time": 1707801274,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257035,
+      "num": 257035,
+      "word": "大梦归离杀青",
+      "onboard_time": 1708160131,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 256859,
@@ -8929,6 +8985,14 @@
       "onboard_time": 1708003716,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227260,
+      "num": 187388,
+      "word": "一出生就是陈皮",
+      "onboard_time": 1708160370,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 226604,
@@ -11075,6 +11139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184727,
+      "num": 184727,
+      "word": "假期真的越久越好吗",
+      "onboard_time": 1708160072,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184681,
       "num": 184681,
       "word": "勇士战胜爵士",
@@ -11112,6 +11184,14 @@
       "word": "守护甜心 亚梦海报",
       "onboard_time": 1707820057,
       "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 183656,
+      "num": 183656,
+      "word": "黑执事画风 悬着的心死了",
+      "onboard_time": 1708159832,
+      "rank": 34,
       "category": "动漫"
     },
     {
@@ -11419,6 +11499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178600,
+      "num": 178600,
+      "word": "傅园慧称问题已解决",
+      "onboard_time": 1708141351,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178389,
       "num": 178389,
       "word": "潘展乐送韩国对手新年礼物",
@@ -11433,6 +11521,14 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "王鹤棣遗憾没得20分",
+      "onboard_time": 1708159591,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 177095,
@@ -11537,14 +11633,6 @@
       "onboard_time": 1708008758,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175394,
-      "num": 175394,
-      "word": "热辣滚烫 重重拿起又轻轻放下",
-      "onboard_time": 1708158750,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 175343,
@@ -12939,6 +13027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154214,
+      "num": 154214,
+      "word": "裴珠泫给粉丝唱粤语歌",
+      "onboard_time": 1708160971,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "基普图姆 马拉松世界纪录保持者",
@@ -13091,6 +13187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151527,
+      "num": 151527,
+      "word": "飞驰人生2 一爽到底",
+      "onboard_time": 1708160491,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151513,
       "num": 151513,
       "word": "今天破五",
@@ -13161,6 +13265,14 @@
       "onboard_time": 1707813700,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150683,
+      "num": 150683,
+      "word": "陈都灵捧花杀青照",
+      "onboard_time": 1708161091,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 150438,
@@ -13361,14 +13473,6 @@
       "onboard_time": 1707842010,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147224,
-      "num": 147224,
-      "word": "傅园慧称问题已解决",
-      "onboard_time": 1708141351,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 147190,
@@ -14771,6 +14875,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 126513,
+      "num": 126513,
+      "word": "漂白路透",
+      "onboard_time": 1708160669,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126156,
       "num": 126156,
       "word": "春晚广告好多",
@@ -14833,14 +14945,6 @@
       "onboard_time": 1707727051,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 125251,
-      "num": 175452,
-      "word": "农村未成年人的手机之困",
-      "onboard_time": 1708158212,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125198,
@@ -16443,6 +16547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90063,
+      "num": 1265574,
+      "word": "锦绣中国",
+      "onboard_time": 1708158690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90012,
       "num": 578923,
       "word": "田曦薇cos西施乘鲤谣",
@@ -17267,14 +17379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18491,
-      "num": 1265574,
-      "word": "锦绣中国",
-      "onboard_time": 1708158690,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18038,
       "num": 20366,
       "word": "韩明暗线",
@@ -17426,6 +17530,9 @@
     },
     {
       "word": "#总书记殷殷嘱托饱含温情#"
+    },
+    {
+      "word": "#佳句里凝练着中国人的智慧和风骨#"
     }
   ]
 }

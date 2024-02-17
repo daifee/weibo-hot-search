@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708158837668,
+  "endTime": 1708161346472,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -17,6 +17,14 @@
       "onboard_time": 1708135349,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2452767,
+      "num": 2452767,
+      "word": "孙颖莎爆冷输印度选手",
+      "onboard_time": 1708157249,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 2364769,
@@ -65,14 +73,6 @@
       "onboard_time": 1708139731,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1490876,
-      "num": 1490876,
-      "word": "孙颖莎爆冷输印度选手",
-      "onboard_time": 1708157249,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1451356,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 908541,
+      "num": 908541,
+      "word": "官方称将对勒索傅园慧司机严厉惩处",
+      "onboard_time": 1708159052,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 897244,
       "num": 897244,
       "word": "一家人旅游未买5万手镯被赶下车",
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786477,
+      "num": 786477,
+      "word": "其实我不爱吃牛蛙",
+      "onboard_time": 1708154371,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 776263,
       "num": 776263,
       "word": "嘴唇起泡是病毒感染",
@@ -297,14 +313,6 @@
       "onboard_time": 1708150710,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 732056,
-      "num": 732056,
-      "word": "其实我不爱吃牛蛙",
-      "onboard_time": 1708154371,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 727542,
@@ -371,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 638577,
+      "num": 638577,
+      "word": "农村未成年人的手机之困",
+      "onboard_time": 1708158212,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629067,
       "num": 465537,
       "word": "妈妈为全家11人准备晚饭",
@@ -393,6 +409,14 @@
       "onboard_time": 1708129227,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 571980,
+      "num": 567142,
+      "word": "热辣滚烫 重重拿起又轻轻放下",
+      "onboard_time": 1708158750,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 557729,
@@ -481,6 +505,14 @@
       "onboard_time": 1708144052,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491545,
+      "num": 491545,
+      "word": "飞驰人生2被删减剧情",
+      "onboard_time": 1708160854,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 487276,
@@ -611,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 411153,
+      "num": 411153,
+      "word": "张杰辟谣官宣演唱会",
+      "onboard_time": 1708159712,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 405082,
       "num": 405082,
       "word": "种地吧后陡门村晚",
@@ -627,7 +667,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388321,
+      "raw_hot": 391077,
       "num": 314890,
       "word": "车厘子降价我怎么还是买不起",
       "onboard_time": 1708156950,
@@ -644,7 +684,7 @@
     },
     {
       "raw_hot": 384324,
-      "num": 215736,
+      "num": 290361,
       "word": "小哥纹身来改变鼻子形状",
       "onboard_time": 1708157131,
       "rank": 30,
@@ -827,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286597,
+      "num": 286597,
+      "word": "张杰谢娜带娃度假",
+      "onboard_time": 1708161032,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283897,
       "num": 283897,
       "word": "伦敦地铁偶遇费翔",
@@ -873,6 +921,14 @@
       "onboard_time": 1708141774,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257035,
+      "num": 257035,
+      "word": "大梦归离杀青",
+      "onboard_time": 1708160131,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 251322,
@@ -1008,6 +1064,14 @@
       "word": "孙悟空被压了几百年都没有黑化",
       "onboard_time": 1708128446,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 227260,
+      "num": 187388,
+      "word": "一出生就是陈皮",
+      "onboard_time": 1708160370,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -1291,6 +1355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184727,
+      "num": 184727,
+      "word": "假期真的越久越好吗",
+      "onboard_time": 1708160072,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183656,
+      "num": 183656,
+      "word": "黑执事画风 悬着的心死了",
+      "onboard_time": 1708159832,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182548,
       "num": 190459,
       "word": "王楚钦3比0佩雷拉",
@@ -1315,12 +1395,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 178600,
+      "num": 178600,
+      "word": "傅园慧称问题已解决",
+      "onboard_time": 1708141351,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178389,
       "num": 178389,
       "word": "潘展乐送韩国对手新年礼物",
       "onboard_time": 1708142912,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "王鹤棣遗憾没得20分",
+      "onboard_time": 1708159591,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 177095,
@@ -1353,14 +1449,6 @@
       "onboard_time": 1708127364,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175394,
-      "num": 175394,
-      "word": "热辣滚烫 重重拿起又轻轻放下",
-      "onboard_time": 1708158750,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 174204,
@@ -1491,6 +1579,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154214,
+      "num": 154214,
+      "word": "裴珠泫给粉丝唱粤语歌",
+      "onboard_time": 1708160971,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151527,
+      "num": 151527,
+      "word": "飞驰人生2 一爽到底",
+      "onboard_time": 1708160491,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150683,
+      "num": 150683,
+      "word": "陈都灵捧花杀青照",
+      "onboard_time": 1708161091,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149590,
       "num": 149590,
       "word": "蒲熠星在线进中止间休息第一人",
@@ -1529,14 +1641,6 @@
       "onboard_time": 1708129530,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147224,
-      "num": 147224,
-      "word": "傅园慧称问题已解决",
-      "onboard_time": 1708141351,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 145191,
@@ -1675,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126513,
+      "num": 126513,
+      "word": "漂白路透",
+      "onboard_time": 1708160669,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126510,
       "num": 126510,
       "word": "李菲 授她以柄",
@@ -1697,14 +1809,6 @@
       "onboard_time": 1708091315,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125251,
-      "num": 175452,
-      "word": "农村未成年人的手机之困",
-      "onboard_time": 1708158212,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122276,
@@ -1835,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90063,
+      "num": 1265574,
+      "word": "锦绣中国",
+      "onboard_time": 1708158690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89256,
       "num": 112601,
       "word": "检察官亲身讲述工作日常有多惊险",
@@ -1955,14 +2067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18491,
-      "num": 1265574,
-      "word": "锦绣中国",
-      "onboard_time": 1708158690,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15882,
       "num": 18128,
       "word": "水獭被渔网缠住只露个小屁股在外",
@@ -1999,6 +2103,9 @@
     },
     {
       "word": "#总书记殷殷嘱托饱含温情#"
+    },
+    {
+      "word": "#佳句里凝练着中国人的智慧和风骨#"
     }
   ]
 }
