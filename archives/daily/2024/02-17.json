@@ -1,7 +1,15 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708139890226,
+  "endTime": 1708140915426,
   "band_list": [
+    {
+      "raw_hot": 2966318,
+      "num": 2966318,
+      "word": "傅园慧长白山发博求助",
+      "onboard_time": 1708137213,
+      "rank": 44,
+      "category": "体育"
+    },
     {
       "raw_hot": 2689561,
       "num": 2689561,
@@ -9,14 +17,6 @@
       "onboard_time": 1708135349,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2583836,
-      "num": 2583836,
-      "word": "傅园慧长白山发博求助",
-      "onboard_time": 1708137213,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 2066829,
@@ -33,6 +33,14 @@
       "onboard_time": 1708096596,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1694873,
+      "num": 473020,
+      "word": "白敬亭你好星期六发带剧照",
+      "onboard_time": 1708139731,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1451356,
@@ -67,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1072563,
-      "num": 1072563,
+      "raw_hot": 1120924,
+      "num": 1120924,
       "word": "王鹤棣破中国明星名人赛历史记录",
       "onboard_time": 1708138172,
       "rank": 4,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 629067,
-      "num": 444472,
+      "num": 465537,
       "word": "妈妈为全家11人准备晚饭",
       "onboard_time": 1708135954,
       "rank": 30,
@@ -235,6 +243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 579639,
+      "num": 579639,
+      "word": "日本男子被同事推入15米深山谷",
+      "onboard_time": 1708139311,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546765,
       "num": 263280,
       "word": "吃的干净真的会瘦",
@@ -249,6 +265,14 @@
       "onboard_time": 1708130549,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 533915,
+      "num": 533915,
+      "word": "吉林文旅",
+      "onboard_time": 1708139851,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 519097,
@@ -291,14 +315,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 437327,
-      "num": 437327,
-      "word": "白敬亭你好星期六发带剧照",
-      "onboard_time": 1708139731,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434348,
       "num": 434348,
       "word": "为救同学挡8刀的女孩成为反诈民警",
@@ -321,6 +337,14 @@
       "onboard_time": 1708127364,
       "rank": 13,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 415894,
+      "num": 415894,
+      "word": "男子记错开工时间提前1天上班",
+      "onboard_time": 1708139194,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414610,
@@ -377,6 +401,14 @@
       "onboard_time": 1708097015,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308308,
+      "num": 308308,
+      "word": "iPhone16或垂直排列摄像头",
+      "onboard_time": 1708140454,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 305720,
@@ -459,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251322,
+      "num": 251322,
+      "word": "孙龙回应兔子战术",
+      "onboard_time": 1708140033,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250483,
       "num": 250483,
       "word": "喝茶刮油其实刮的大多是水",
@@ -473,6 +513,14 @@
       "onboard_time": 1708133731,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247615,
+      "num": 247615,
+      "word": "5个部位疼或是心梗前兆",
+      "onboard_time": 1708139731,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244467,
@@ -507,11 +555,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 241125,
-      "num": 241125,
-      "word": "男子记错开工时间提前1天上班",
-      "onboard_time": 1708139194,
-      "rank": 24,
+      "raw_hot": 237560,
+      "num": 237560,
+      "word": "顶流胖东来走不出河南",
+      "onboard_time": 1708139793,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -529,14 +577,6 @@
       "onboard_time": 1708128446,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 227629,
-      "num": 217564,
-      "word": "日本男子被同事推入15米深山谷",
-      "onboard_time": 1708139311,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225383,
@@ -675,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191020,
+      "num": 191020,
+      "word": "孙龙",
+      "onboard_time": 1708140812,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190442,
       "num": 190442,
       "word": "和老板要开工红包的正确姿势",
@@ -699,12 +747,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "你吃的小鱼干是足疗店退休的小鱼吗",
+      "onboard_time": 1708140271,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185512,
       "num": 185512,
       "word": "阿姨 完蛋真碰到穷鬼了",
       "onboard_time": 1708095937,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178621,
+      "num": 178621,
+      "word": "一套动作缓解久坐疲劳",
+      "onboard_time": 1708140089,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 177095,
@@ -803,28 +867,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 148131,
+      "num": 148131,
+      "word": "女子回家过年无聊摆摊卖鸡爪",
+      "onboard_time": 1708137812,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148120,
       "num": 148120,
       "word": "开工大吉",
       "onboard_time": 1708129530,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144762,
-      "num": 144762,
-      "word": "5个部位疼或是心梗前兆",
-      "onboard_time": 1708139731,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142927,
-      "num": 142927,
-      "word": "女子回家过年无聊摆摊卖鸡爪",
-      "onboard_time": 1708137812,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141256,
@@ -859,20 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133991,
-      "num": 133991,
-      "word": "顶流胖东来走不出河南",
-      "onboard_time": 1708139793,
+      "raw_hot": 134651,
+      "num": 134651,
+      "word": "张艺兴女团正面照",
+      "onboard_time": 1708140873,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130568,
-      "num": 130568,
-      "word": "吉林文旅",
-      "onboard_time": 1708139851,
-      "rank": 49,
-      "category": "旅游"
+      "category": "艺人"
     },
     {
       "raw_hot": 129455,
@@ -1160,6 +1208,14 @@
       "word": "警察用行动表示你的手机太好偷",
       "onboard_time": 1708111998,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9702,
+      "num": 1635458,
+      "word": "春节返程让人泪目的离别瞬间",
+      "onboard_time": 1708088135,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
