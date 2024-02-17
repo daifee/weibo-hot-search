@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708151643872,
+  "endTime": 1708154082815,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -57,6 +57,14 @@
       "onboard_time": 1708139731,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1673361,
+      "num": 1673361,
+      "word": "第一批开电动爹回家的人后悔了",
+      "onboard_time": 1708149571,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 1451356,
@@ -153,14 +161,6 @@
       "onboard_time": 1708149155,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 988994,
-      "num": 988994,
-      "word": "第一批开电动爹回家的人后悔了",
-      "onboard_time": 1708149571,
-      "rank": 7,
-      "category": "汽车"
     },
     {
       "raw_hot": 951823,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745572,
+      "num": 745572,
+      "word": "侯雯元录综艺背了钟楚曦的包",
+      "onboard_time": 1708150710,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 727542,
       "num": 727542,
       "word": "南北",
@@ -355,12 +363,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 581213,
-      "num": 581213,
-      "word": "侯雯元录综艺背了钟楚曦的包",
-      "onboard_time": 1708150710,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 615978,
+      "num": 615978,
+      "word": "女人不能坐器材箱规矩被打破",
+      "onboard_time": 1708150774,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 557729,
@@ -483,6 +491,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 437502,
+      "num": 437502,
+      "word": "薛之谦屏摄争议",
+      "onboard_time": 1708152752,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434348,
       "num": 434348,
       "word": "为救同学挡8刀的女孩成为反诈民警",
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335436,
+      "num": 316842,
+      "word": "大龄未婚农村男性不再焦虑婚姻",
+      "onboard_time": 1708150054,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333745,
       "num": 333745,
       "word": "男子500米孙龙夺冠",
@@ -611,27 +635,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326647,
-      "num": 316842,
-      "word": "大龄未婚农村男性不再焦虑婚姻",
-      "onboard_time": 1708150054,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320780,
       "num": 320780,
       "word": "贾玲 女导演的力量",
       "onboard_time": 1708143212,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 319045,
-      "num": 319045,
-      "word": "女人不能坐器材箱规矩被打破",
-      "onboard_time": 1708150774,
-      "rank": 47,
       "category": "电影"
     },
     {
@@ -747,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266292,
+      "num": 178273,
+      "word": "巴黎妹子来中国一个月后的感想",
+      "onboard_time": 1708153528,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265943,
       "num": 265943,
       "word": "你吃的小鱼干是足疗店退休的小鱼吗",
@@ -777,6 +793,14 @@
       "onboard_time": 1708137450,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 249572,
+      "num": 249572,
+      "word": "马丽早期写真照",
+      "onboard_time": 1708153652,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 248426,
@@ -848,6 +872,14 @@
       "word": "十个勤天",
       "onboard_time": 1708144052,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236494,
+      "num": 236494,
+      "word": "这是我的岛",
+      "onboard_time": 1708151913,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -947,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212056,
+      "num": 175298,
+      "word": "贾玲电影视角",
+      "onboard_time": 1708153833,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207041,
       "num": 207041,
       "word": "当留守猫咪突然见到主人后",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1708143451,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197754,
+      "num": 197754,
+      "word": "国家免费补课平台",
+      "onboard_time": 1708153709,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 196779,
@@ -1291,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150472,
+      "num": 150472,
+      "word": "不想上班不想上班",
+      "onboard_time": 1708153951,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149287,
       "num": 149287,
       "word": "郑渊洁父亲逝世",
@@ -1339,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138408,
+      "num": 138408,
+      "word": "高铁上遇到不文明现象怎么办",
+      "onboard_time": 1708152030,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137582,
       "num": 137582,
       "word": "大年初八要顺星",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1708137031,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137252,
+      "num": 137252,
+      "word": "赵今麦哈尔滨拍戏",
+      "onboard_time": 1708153951,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134731,
@@ -1371,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132166,
+      "num": 132166,
+      "word": "夏以昼 感觉哥会有晨练的习惯",
+      "onboard_time": 1708152632,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 129455,
       "num": 129455,
       "word": "男朋友第一次上门带的礼物",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1708127785,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "撤档元年",
+      "onboard_time": 1708151553,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 127728,
@@ -1459,20 +1547,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 120410,
-      "num": 120410,
-      "word": "撤档元年",
-      "onboard_time": 1708151553,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117826,
       "num": 117826,
       "word": "粉笔模考 主打陪伴",
       "onboard_time": 1708148973,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116453,
+      "num": 116453,
+      "word": "声生不息家年华收官",
+      "onboard_time": 1708152091,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 114903,
@@ -1561,6 +1649,14 @@
       "onboard_time": 1708081889,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89256,
+      "num": 112601,
+      "word": "检察官亲身讲述工作日常有多惊险",
+      "onboard_time": 1708152271,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84687,

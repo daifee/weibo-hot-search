@@ -1,0 +1,410 @@
+{
+  "runTime": 1708154082815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673361,
+        "num": 1673361,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1659675,
+        "num": 1659675,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26879,
+        "num": 1288786,
+        "word": "春节返程让人泪目的离别瞬间",
+        "onboard_time": 1708088135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128625,
+        "num": 1128625,
+        "word": "余景天秒删",
+        "onboard_time": 1708148614,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960595,
+        "num": 960595,
+        "word": "明年不会来你家了",
+        "onboard_time": 1708147473,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 831468,
+        "num": 831468,
+        "word": "傅园慧长白山发博求助",
+        "onboard_time": 1708137213,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745572,
+        "num": 745572,
+        "word": "侯雯元录综艺背了钟楚曦的包",
+        "onboard_time": 1708150710,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699149,
+        "num": 699149,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 615978,
+        "num": 615978,
+        "word": "女人不能坐器材箱规矩被打破",
+        "onboard_time": 1708150774,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563948,
+        "num": 563948,
+        "word": "公式化的朋友圈",
+        "onboard_time": 1708149155,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 676090,
+        "num": 545339,
+        "word": "白敬亭你好星期六发带剧照",
+        "onboard_time": 1708139731,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495296,
+        "num": 495296,
+        "word": "切尔诺贝利的狼已进化出抗癌能力",
+        "onboard_time": 1708143754,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470296,
+        "num": 470296,
+        "word": "iPhone16或垂直排列摄像头",
+        "onboard_time": 1708140454,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 437502,
+        "num": 437502,
+        "word": "薛之谦屏摄争议",
+        "onboard_time": 1708152752,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 400176,
+        "num": 400176,
+        "word": "机票太贵了回不了学校",
+        "onboard_time": 1708135349,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389417,
+        "num": 389417,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708149391,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386700,
+        "num": 386700,
+        "word": "吉林文旅回应傅园慧求助",
+        "onboard_time": 1708142613,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357182,
+        "num": 357182,
+        "word": "嘴唇起泡是病毒感染",
+        "onboard_time": 1708146752,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292041,
+        "num": 292041,
+        "word": "汪苏泷声生不息音源冠军",
+        "onboard_time": 1708149092,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264544,
+        "num": 264544,
+        "word": "春节档还剩四部电影在映",
+        "onboard_time": 1708145492,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335436,
+        "num": 260414,
+        "word": "大龄未婚农村男性不再焦虑婚姻",
+        "onboard_time": 1708150054,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272581,
+        "num": 256924,
+        "word": "宋亚轩第一次一个人领奖",
+        "onboard_time": 1708147594,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249572,
+        "num": 249572,
+        "word": "马丽早期写真照",
+        "onboard_time": 1708153652,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236494,
+        "num": 236494,
+        "word": "这是我的岛",
+        "onboard_time": 1708151913,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236230,
+        "num": 236230,
+        "word": "王鹤棣破中国明星名人赛历史记录",
+        "onboard_time": 1708138172,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 230326,
+        "num": 230326,
+        "word": "沈月一个人就是一个团队",
+        "onboard_time": 1708142432,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227547,
+        "num": 227547,
+        "word": "张艺兴女团正面照",
+        "onboard_time": 1708140873,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197754,
+        "num": 197754,
+        "word": "国家免费补课平台",
+        "onboard_time": 1708153709,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197553,
+        "num": 197553,
+        "word": "今年春晚后劲真大",
+        "onboard_time": 1708145912,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181349,
+        "num": 181349,
+        "word": "一家人旅游摆摊玩3天赚1000多元",
+        "onboard_time": 1708143992,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266292,
+        "num": 178273,
+        "word": "巴黎妹子来中国一个月后的感想",
+        "onboard_time": 1708153528,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212056,
+        "num": 175298,
+        "word": "贾玲电影视角",
+        "onboard_time": 1708153833,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171938,
+        "num": 171938,
+        "word": "因为不想上班在返程高铁上流泪",
+        "onboard_time": 1708143272,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158268,
+        "num": 158268,
+        "word": "毕志飞想请薛之谦出演电影屏摄",
+        "onboard_time": 1708134932,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157252,
+        "num": 157252,
+        "word": "红毯先生上映7天票房仅8000万元",
+        "onboard_time": 1708140993,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155249,
+        "num": 155249,
+        "word": "王一博与穿山甲合照",
+        "onboard_time": 1708144052,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150472,
+        "num": 150472,
+        "word": "不想上班不想上班",
+        "onboard_time": 1708153951,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139092,
+        "num": 139092,
+        "word": "5000一碗的食神炒饭",
+        "onboard_time": 1708147594,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138698,
+        "num": 138698,
+        "word": "日本男子被同事推入15米深山谷",
+        "onboard_time": 1708139311,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102775,
+        "num": 138412,
+        "word": "日本男篮渴望复仇中国男篮",
+        "onboard_time": 1708150352,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138408,
+        "num": 138408,
+        "word": "高铁上遇到不文明现象怎么办",
+        "onboard_time": 1708152030,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "赵今麦哈尔滨拍戏",
+        "onboard_time": 1708153951,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134506,
+        "num": 134506,
+        "word": "当留守猫咪突然见到主人后",
+        "onboard_time": 1708146810,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134285,
+        "num": 134285,
+        "word": "公交车上偶遇礼貌小狗",
+        "onboard_time": 1708150591,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132166,
+        "num": 132166,
+        "word": "夏以昼 感觉哥会有晨练的习惯",
+        "onboard_time": 1708152632,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128013,
+        "num": 128013,
+        "word": "撤档元年",
+        "onboard_time": 1708151553,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118718,
+        "num": 118718,
+        "word": "肖战龙年开工照",
+        "onboard_time": 1708138293,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116453,
+        "num": 116453,
+        "word": "声生不息家年华收官",
+        "onboard_time": 1708152091,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115074,
+        "num": 115074,
+        "word": "孙千松弛美学",
+        "onboard_time": 1708149332,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89256,
+        "num": 112601,
+        "word": "检察官亲身讲述工作日常有多惊险",
+        "onboard_time": 1708152271,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记殷殷嘱托饱含温情#"
+    }
+  }
+}
