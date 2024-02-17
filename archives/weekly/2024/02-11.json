@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708133381572,
+  "endTime": 1708135325637,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -1811,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 925687,
+      "num": 925687,
+      "word": "胖东来未按标准试吃员工被开除",
+      "onboard_time": 1708131993,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 925472,
       "num": 925472,
       "word": "杨幂礼服下面穿秋裤",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1707911678,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827230,
+      "num": 827230,
+      "word": "王鹤棣半节连得8分",
+      "onboard_time": 1708132471,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 819907,
@@ -2672,6 +2688,14 @@
       "word": "小伙开兰博基尼回村出事故撞报废",
       "onboard_time": 1707711389,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703482,
+      "num": 703482,
+      "word": "小学生寒假作业落巴黎被热心人带回",
+      "onboard_time": 1708131750,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3763,14 +3787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537647,
-      "num": 537647,
-      "word": "小学生寒假作业落巴黎被热心人带回",
-      "onboard_time": 1708131750,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 537358,
       "num": 537358,
       "word": "马思纯发了无修剧照",
@@ -4515,14 +4531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457860,
-      "num": 457860,
-      "word": "王鹤棣半节连得8分",
-      "onboard_time": 1708132471,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 456607,
       "num": 456607,
       "word": "章若楠春晚上场前10分钟",
@@ -4985,14 +4993,6 @@
       "onboard_time": 1707833980,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418586,
-      "num": 418586,
-      "word": "胖东来未按标准试吃员工被开除",
-      "onboard_time": 1708131993,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417952,
@@ -6145,6 +6145,14 @@
       "onboard_time": 1707721589,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330166,
+      "num": 330166,
+      "word": "王鹤棣与队友撞胸庆祝",
+      "onboard_time": 1708134150,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 329532,
@@ -7459,12 +7467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255970,
+      "num": 255970,
+      "word": "一年八班秦朗",
+      "onboard_time": 1708134809,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255764,
       "num": 255764,
       "word": "檀健次说今年会播出三部作品",
       "onboard_time": 1707715710,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254749,
+      "num": 233370,
+      "word": "毕志飞想请薛之谦出演电影屏摄",
+      "onboard_time": 1708134932,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 254262,
@@ -7633,6 +7657,14 @@
       "onboard_time": 1707753631,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248426,
+      "num": 248426,
+      "word": "谁把中国女乒惊出一身冷汗",
+      "onboard_time": 1708133731,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 247780,
@@ -7816,6 +7848,14 @@
       "word": "冰岛 雷克雅内斯半岛",
       "onboard_time": 1707994175,
       "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 241419,
+      "num": 241419,
+      "word": "云南文旅",
+      "onboard_time": 1708133670,
+      "rank": 23,
       "category": "旅游"
     },
     {
@@ -8091,6 +8131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233579,
+      "num": 233579,
+      "word": "伦敦地铁偶遇费翔",
+      "onboard_time": 1708134572,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233569,
       "num": 233569,
       "word": "李会琴 文案",
@@ -8105,6 +8153,14 @@
       "onboard_time": 1707649830,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 233111,
+      "num": 233111,
+      "word": "刘宇宁最想参加的综艺",
+      "onboard_time": 1708131869,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232967,
@@ -9163,6 +9219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204989,
+      "num": 204989,
+      "word": "看电影拍摄发朋友圈",
+      "onboard_time": 1708132651,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204686,
       "num": 204686,
       "word": "第二十条有自己的燃冬",
@@ -9673,6 +9737,14 @@
       "onboard_time": 1708088975,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196779,
+      "num": 196779,
+      "word": "开了12个小时车开不出安徽",
+      "onboard_time": 1708134269,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196684,
@@ -10571,6 +10643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177095,
+      "num": 177095,
+      "word": "热辣滚烫 最喜欢这张图的表达",
+      "onboard_time": 1708128567,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177094,
       "num": 177094,
       "word": "守护甜心 幼儿园主题周边",
@@ -10627,14 +10707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175781,
-      "num": 175781,
-      "word": "刘宇宁最想参加的综艺",
-      "onboard_time": 1708131869,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175611,
       "num": 175611,
       "word": "周深收视又登顶了",
@@ -10689,14 +10761,6 @@
       "onboard_time": 1707733232,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174759,
-      "num": 174759,
-      "word": "热辣滚烫 最喜欢这张图的表达",
-      "onboard_time": 1708128567,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 174568,
@@ -10761,6 +10825,14 @@
       "onboard_time": 1707785732,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173694,
+      "num": 173694,
+      "word": "南北cp",
+      "onboard_time": 1708130428,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 173478,
@@ -11259,6 +11331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 165726,
+      "num": 165726,
+      "word": "肾炎尿蛋白 白醋泡冰糖",
+      "onboard_time": 1708134089,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165575,
       "num": 165575,
       "word": "弟弟妹妹都不放过",
@@ -11371,12 +11451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163798,
-      "num": 163798,
-      "word": "看电影拍摄发朋友圈",
-      "onboard_time": 1708132651,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 164274,
+      "num": 164274,
+      "word": "我会不顾一切救她 因为她是我自己",
+      "onboard_time": 1708133550,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 163263,
@@ -11833,14 +11913,6 @@
       "onboard_time": 1707710374,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156682,
-      "num": 156682,
-      "word": "南北cp",
-      "onboard_time": 1708130428,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 156674,
@@ -13025,6 +13097,14 @@
       "onboard_time": 1708058853,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137582,
+      "num": 137582,
+      "word": "大年初八要顺星",
+      "onboard_time": 1708134510,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137577,
@@ -14569,6 +14649,14 @@
       "onboard_time": 1707728851,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112912,
+      "num": 112912,
+      "word": "东北天然大冰箱快扛不住了",
+      "onboard_time": 1708135290,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112863,

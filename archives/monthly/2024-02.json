@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708133381572,
+  "endTime": 1708135325637,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -5043,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 925687,
+      "num": 925687,
+      "word": "胖东来未按标准试吃员工被开除",
+      "onboard_time": 1708131993,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 925626,
       "num": 925626,
       "word": "安琪拉大招 水龙头",
@@ -5889,6 +5897,14 @@
       "onboard_time": 1707911678,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827230,
+      "num": 827230,
+      "word": "王鹤棣半节连得8分",
+      "onboard_time": 1708132471,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 826816,
@@ -7441,6 +7457,14 @@
       "onboard_time": 1707180333,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 703482,
+      "num": 703482,
+      "word": "小学生寒假作业落巴黎被热心人带回",
+      "onboard_time": 1708131750,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703336,
@@ -10307,14 +10331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537647,
-      "num": 537647,
-      "word": "小学生寒假作业落巴黎被热心人带回",
-      "onboard_time": 1708131750,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 537358,
       "num": 537358,
       "word": "马思纯发了无修剧照",
@@ -12203,14 +12219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 457860,
-      "num": 457860,
-      "word": "王鹤棣半节连得8分",
-      "onboard_time": 1708132471,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 457052,
       "num": 457052,
       "word": "白敬亭开了咖啡店",
@@ -13313,14 +13321,6 @@
       "onboard_time": 1707833980,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418586,
-      "num": 418586,
-      "word": "胖东来未按标准试吃员工被开除",
-      "onboard_time": 1708131993,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 418406,
@@ -16337,6 +16337,14 @@
       "onboard_time": 1707145654,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 330166,
+      "num": 330166,
+      "word": "王鹤棣与队友撞胸庆祝",
+      "onboard_time": 1708134150,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 330150,
@@ -20299,6 +20307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255970,
+      "num": 255970,
+      "word": "一年八班秦朗",
+      "onboard_time": 1708134809,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255924,
       "num": 255924,
       "word": "知否未播花絮",
@@ -20385,6 +20401,14 @@
       "onboard_time": 1707446188,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254749,
+      "num": 233370,
+      "word": "毕志飞想请薛之谦出演电影屏摄",
+      "onboard_time": 1708134932,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 254590,
@@ -20817,6 +20841,14 @@
       "onboard_time": 1707295772,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248426,
+      "num": 248426,
+      "word": "谁把中国女乒惊出一身冷汗",
+      "onboard_time": 1708133731,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 248350,
@@ -21304,6 +21336,14 @@
       "word": "冰岛 雷克雅内斯半岛",
       "onboard_time": 1707994175,
       "rank": 27,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 241419,
+      "num": 241419,
+      "word": "云南文旅",
+      "onboard_time": 1708133670,
+      "rank": 23,
       "category": "旅游"
     },
     {
@@ -22027,6 +22067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233579,
+      "num": 233579,
+      "word": "伦敦地铁偶遇费翔",
+      "onboard_time": 1708134572,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233569,
       "num": 233569,
       "word": "李会琴 文案",
@@ -22065,6 +22113,14 @@
       "onboard_time": 1707649830,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 233111,
+      "num": 233111,
+      "word": "刘宇宁最想参加的综艺",
+      "onboard_time": 1708131869,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232967,
@@ -25115,6 +25171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204989,
+      "num": 204989,
+      "word": "看电影拍摄发朋友圈",
+      "onboard_time": 1708132651,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204980,
       "num": 204980,
       "word": "中国龙英文 loong",
@@ -26489,6 +26553,14 @@
       "onboard_time": 1708088975,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196779,
+      "num": 196779,
+      "word": "开了12个小时车开不出安徽",
+      "onboard_time": 1708134269,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196728,
@@ -29419,6 +29491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177095,
+      "num": 177095,
+      "word": "热辣滚烫 最喜欢这张图的表达",
+      "onboard_time": 1708128567,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177094,
       "num": 177094,
       "word": "守护甜心 幼儿园主题周边",
@@ -29611,14 +29691,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 175781,
-      "num": 175781,
-      "word": "刘宇宁最想参加的综艺",
-      "onboard_time": 1708131869,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175751,
       "num": 175751,
       "word": "e人的升级版是过年e人",
@@ -29721,14 +29793,6 @@
       "onboard_time": 1706834192,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174759,
-      "num": 174759,
-      "word": "热辣滚烫 最喜欢这张图的表达",
-      "onboard_time": 1708128567,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 174717,
@@ -29961,6 +30025,14 @@
       "onboard_time": 1706783071,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173694,
+      "num": 173694,
+      "word": "南北cp",
+      "onboard_time": 1708130428,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 173551,
@@ -31307,6 +31379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165726,
+      "num": 165726,
+      "word": "肾炎尿蛋白 白醋泡冰糖",
+      "onboard_time": 1708134089,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165644,
       "num": 180785,
       "word": "终于理解我妈了",
@@ -31579,6 +31659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164274,
+      "num": 164274,
+      "word": "我会不顾一切救她 因为她是我自己",
+      "onboard_time": 1708133550,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 164149,
       "num": 162609,
       "word": "于正盛赞卢昱晓",
@@ -31625,14 +31713,6 @@
       "onboard_time": 1706852793,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 163798,
-      "num": 163798,
-      "word": "看电影拍摄发朋友圈",
-      "onboard_time": 1708132651,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 163581,
@@ -32721,14 +32801,6 @@
       "onboard_time": 1707710374,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156682,
-      "num": 156682,
-      "word": "南北cp",
-      "onboard_time": 1708130428,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 156674,
@@ -35937,6 +36009,14 @@
       "onboard_time": 1708058853,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137582,
+      "num": 137582,
+      "word": "大年初八要顺星",
+      "onboard_time": 1708134510,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137577,
@@ -40121,6 +40201,14 @@
       "onboard_time": 1707728851,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112912,
+      "num": 112912,
+      "word": "东北天然大冰箱快扛不住了",
+      "onboard_time": 1708135290,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112900,
