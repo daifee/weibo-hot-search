@@ -1,0 +1,410 @@
+{
+  "runTime": 1708133381572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2066829,
+        "num": 2066829,
+        "word": "一家五口三亚旅游准备回家高铁无票机票一张近两万",
+        "onboard_time": 1708128988,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245574,
+        "num": 1245574,
+        "word": "红毯先生退出春节档",
+        "onboard_time": 1708126222,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40987,
+        "num": 903294,
+        "word": "网络中国节",
+        "onboard_time": 1708090956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854962,
+        "num": 854962,
+        "word": "面试就是在筛掉配得感低的人",
+        "onboard_time": 1708127424,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 750417,
+        "num": 750417,
+        "word": "林孝埈泪洒十四冬赛场",
+        "onboard_time": 1708131569,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736692,
+        "num": 736692,
+        "word": "贾玲汪东城早期综艺画面",
+        "onboard_time": 1708129832,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689975,
+        "num": 689975,
+        "word": "一家人旅游未买5万手镯被赶下车",
+        "onboard_time": 1708127364,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 670127,
+        "num": 670127,
+        "word": "母亲连夜杀10只鸡分给返程儿女",
+        "onboard_time": 1708119135,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654302,
+        "num": 654302,
+        "word": "iPhone降价促销依然卖不动",
+        "onboard_time": 1708129227,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 595249,
+        "num": 595249,
+        "word": "特朗普被罚3.5亿美元",
+        "onboard_time": 1708129227,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 537647,
+        "num": 537647,
+        "word": "小学生寒假作业落巴黎被热心人带回",
+        "onboard_time": 1708131750,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534031,
+        "num": 534031,
+        "word": "高叶说赵丽颖是小女孩",
+        "onboard_time": 1708130549,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519097,
+        "num": 519097,
+        "word": "撤档",
+        "onboard_time": 1708126942,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504353,
+        "num": 504353,
+        "word": "为什么杜乐莹跳楼没有死",
+        "onboard_time": 1708094493,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 457860,
+        "num": 457860,
+        "word": "王鹤棣半节连得8分",
+        "onboard_time": 1708132471,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 418586,
+        "num": 418586,
+        "word": "胖东来未按标准试吃员工被开除",
+        "onboard_time": 1708131993,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397475,
+        "num": 397475,
+        "word": "盗摄元年",
+        "onboard_time": 1708096596,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394376,
+        "num": 394376,
+        "word": "不拔电器插头1年多交多少电费",
+        "onboard_time": 1708092577,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376210,
+        "num": 376210,
+        "word": "00后相亲 拘谨的放肆感",
+        "onboard_time": 1708126523,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291114,
+        "num": 291114,
+        "word": "薛之谦转发再回应盗摄",
+        "onboard_time": 1708085015,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289660,
+        "num": 289660,
+        "word": "因为王鹤棣第一次看NBA",
+        "onboard_time": 1708132113,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 255113,
+        "num": 255113,
+        "word": "六公主评盗摄现象",
+        "onboard_time": 1708071750,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229498,
+        "num": 229498,
+        "word": "孙悟空被压了几百年都没有黑化",
+        "onboard_time": 1708128446,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208362,
+        "num": 208362,
+        "word": "年会不能停导演反对屏摄",
+        "onboard_time": 1708088676,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190335,
+        "num": 190335,
+        "word": "没见过全省一起被骗的",
+        "onboard_time": 1708097432,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283646,
+        "num": 188737,
+        "word": "王鹤棣出战全明星名人赛",
+        "onboard_time": 1708127364,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 186139,
+        "num": 186139,
+        "word": "为什么当代年轻人结婚越来越晚",
+        "onboard_time": 1708128146,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183080,
+        "num": 183080,
+        "word": "粉丝模仿薛之谦晒盗摄图",
+        "onboard_time": 1708073672,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177938,
+        "num": 177938,
+        "word": "惠英红评论刘亦菲",
+        "onboard_time": 1708095395,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177818,
+        "num": 177818,
+        "word": "张小斐主演票房破90亿",
+        "onboard_time": 1708110257,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268805,
+        "num": 177782,
+        "word": "王鹤棣23号球衣致敬詹姆斯",
+        "onboard_time": 1708130730,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 177031,
+        "num": 177031,
+        "word": "为救同学挡8刀的女孩成为反诈民警",
+        "onboard_time": 1708118955,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175781,
+        "num": 175781,
+        "word": "刘宇宁最想参加的综艺",
+        "onboard_time": 1708131869,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163798,
+        "num": 163798,
+        "word": "看电影拍摄发朋友圈",
+        "onboard_time": 1708132651,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161809,
+        "num": 161809,
+        "word": "中国接力队让解说高喊帅呆了",
+        "onboard_time": 1708132710,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161695,
+        "num": 161695,
+        "word": "大年初八",
+        "onboard_time": 1708125322,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160741,
+        "num": 160741,
+        "word": "热辣滚烫 最喜欢这张图的表达",
+        "onboard_time": 1708128567,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160552,
+        "num": 160552,
+        "word": "王鹤棣NBA名人赛红毯",
+        "onboard_time": 1708131449,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 156682,
+        "num": 156682,
+        "word": "南北cp",
+        "onboard_time": 1708130428,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151077,
+        "num": 151077,
+        "word": "中国选手超级逆转夺冠过程太帅了",
+        "onboard_time": 1708127364,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150565,
+        "num": 150565,
+        "word": "要上班了",
+        "onboard_time": 1708128748,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148786,
+        "num": 148786,
+        "word": "大过年男朋友爸爸打电话教训我",
+        "onboard_time": 1708092757,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133493,
+        "num": 133493,
+        "word": "上大学后家乡只有冬夏再无春秋",
+        "onboard_time": 1708130669,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128406,
+        "num": 128406,
+        "word": "过年采访我的丁克舅舅",
+        "onboard_time": 1708086213,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126899,
+        "num": 126899,
+        "word": "开工大吉",
+        "onboard_time": 1708129530,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119937,
+        "num": 119937,
+        "word": "郑渊洁父亲逝世",
+        "onboard_time": 1708125619,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 116085,
+        "num": 116085,
+        "word": "横店是缺演员吗",
+        "onboard_time": 1708084413,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114239,
+        "num": 114239,
+        "word": "邱淑贞拍的女儿沈月",
+        "onboard_time": 1708084593,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113503,
+        "num": 113503,
+        "word": "干预别人的命运会沾上太多的因果",
+        "onboard_time": 1708130970,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113483,
+        "num": 113483,
+        "word": "拔下充电器意识到又要离家了",
+        "onboard_time": 1708127785,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年展信舒颜见字如晤#"
+    }
+  }
+}
