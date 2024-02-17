@@ -1,0 +1,410 @@
+{
+  "runTime": 1708151643872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2026903,
+        "num": 2026903,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1740316,
+        "num": 1740316,
+        "word": "余景天秒删",
+        "onboard_time": 1708148614,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29487,
+        "num": 1462491,
+        "word": "春节返程让人泪目的离别瞬间",
+        "onboard_time": 1708088135,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368874,
+        "num": 1368874,
+        "word": "明年不会来你家了",
+        "onboard_time": 1708147473,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1143594,
+        "num": 1143594,
+        "word": "傅园慧长白山发博求助",
+        "onboard_time": 1708137213,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 988994,
+        "num": 988994,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 859378,
+        "num": 859378,
+        "word": "公式化的朋友圈",
+        "onboard_time": 1708149155,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 820065,
+        "num": 820065,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 717436,
+        "num": 717436,
+        "word": "嘴唇起泡是病毒感染",
+        "onboard_time": 1708146752,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 581213,
+        "num": 581213,
+        "word": "侯雯元录综艺背了钟楚曦的包",
+        "onboard_time": 1708150710,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783144,
+        "num": 568755,
+        "word": "白敬亭你好星期六发带剧照",
+        "onboard_time": 1708139731,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690199,
+        "num": 551514,
+        "word": "切尔诺贝利的狼已进化出抗癌能力",
+        "onboard_time": 1708143754,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600549,
+        "num": 546686,
+        "word": "机票太贵了回不了学校",
+        "onboard_time": 1708135349,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 532173,
+        "num": 532173,
+        "word": "iPhone16或垂直排列摄像头",
+        "onboard_time": 1708140454,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 412535,
+        "num": 412535,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708149391,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407298,
+        "num": 407298,
+        "word": "汪苏泷声生不息音源冠军",
+        "onboard_time": 1708149092,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383116,
+        "num": 383116,
+        "word": "春节档还剩四部电影在映",
+        "onboard_time": 1708145492,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374773,
+        "num": 374773,
+        "word": "吉林文旅回应傅园慧求助",
+        "onboard_time": 1708142613,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372935,
+        "num": 372935,
+        "word": "宋亚轩第一次一个人领奖",
+        "onboard_time": 1708147594,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319045,
+        "num": 319045,
+        "word": "女人不能坐器材箱规矩被打破",
+        "onboard_time": 1708150774,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326647,
+        "num": 316842,
+        "word": "大龄未婚农村男性不再焦虑婚姻",
+        "onboard_time": 1708150054,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310955,
+        "num": 310955,
+        "word": "王鹤棣破中国明星名人赛历史记录",
+        "onboard_time": 1708138172,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 305739,
+        "num": 305739,
+        "word": "张艺兴女团正面照",
+        "onboard_time": 1708140873,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266572,
+        "num": 266572,
+        "word": "沈月一个人就是一个团队",
+        "onboard_time": 1708142432,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255347,
+        "num": 255347,
+        "word": "今年春晚后劲真大",
+        "onboard_time": 1708145912,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252767,
+        "num": 252767,
+        "word": "王一博与穿山甲合照",
+        "onboard_time": 1708144052,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243870,
+        "num": 243870,
+        "word": "一家人旅游摆摊玩3天赚1000多元",
+        "onboard_time": 1708143992,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198438,
+        "num": 198438,
+        "word": "毕志飞想请薛之谦出演电影屏摄",
+        "onboard_time": 1708134932,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193985,
+        "num": 193985,
+        "word": "5000一碗的食神炒饭",
+        "onboard_time": 1708147594,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171880,
+        "num": 190491,
+        "word": "日本男子被同事推入15米深山谷",
+        "onboard_time": 1708139311,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187383,
+        "num": 187383,
+        "word": "因为不想上班在返程高铁上流泪",
+        "onboard_time": 1708143272,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183143,
+        "num": 183143,
+        "word": "红毯先生上映7天票房仅8000万元",
+        "onboard_time": 1708140993,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180412,
+        "num": 180412,
+        "word": "这腰腹瘦得易如反掌",
+        "onboard_time": 1708146092,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165102,
+        "num": 165102,
+        "word": "孙千松弛美学",
+        "onboard_time": 1708149332,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163758,
+        "num": 163758,
+        "word": "日本男篮渴望复仇中国男篮",
+        "onboard_time": 1708150352,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163469,
+        "num": 163469,
+        "word": "公交车上偶遇礼貌小狗",
+        "onboard_time": 1708150591,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161110,
+        "num": 161110,
+        "word": "红毯先生",
+        "onboard_time": 1708151311,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157704,
+        "num": 157704,
+        "word": "陈靖可考古",
+        "onboard_time": 1708147050,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155149,
+        "num": 155149,
+        "word": "王鹤棣21分钟砍18分",
+        "onboard_time": 1708145852,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 141688,
+        "word": "任子威林孝埈前二进决赛",
+        "onboard_time": 1708143451,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138121,
+        "num": 138121,
+        "word": "肖战龙年开工照",
+        "onboard_time": 1708138293,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129394,
+        "num": 129394,
+        "word": "当留守猫咪突然见到主人后",
+        "onboard_time": 1708146810,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129389,
+        "num": 129389,
+        "word": "电影撤档最多春节档",
+        "onboard_time": 1708148550,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128699,
+        "num": 128699,
+        "word": "名侦探学院要做就做南波万",
+        "onboard_time": 1708147171,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127728,
+        "num": 127728,
+        "word": "烟火人家",
+        "onboard_time": 1708150710,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123773,
+        "num": 123773,
+        "word": "大过年和我妈决裂",
+        "onboard_time": 1708145374,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123650,
+        "num": 123650,
+        "word": "易烊千玺dv感随拍",
+        "onboard_time": 1708147232,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121230,
+        "num": 121230,
+        "word": "热辣滚烫伏笔",
+        "onboard_time": 1708146033,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120410,
+        "num": 120410,
+        "word": "撤档元年",
+        "onboard_time": 1708151553,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109162,
+        "num": 109162,
+        "word": "一家五口三亚旅游准备回家高铁无票机票一张近两万",
+        "onboard_time": 1708128988,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记殷殷嘱托饱含温情#"
+    }
+  }
+}
