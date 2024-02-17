@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708179337504,
+  "endTime": 1708180515376,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -963,12 +963,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1380466,
+      "num": 1380466,
+      "word": "白敬亭秒认出王嘉尔井柏然",
+      "onboard_time": 1708177778,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1378739,
       "num": 1378739,
       "word": "国台办强烈谴责台方驱离福建渔船",
       "onboard_time": 1707920739,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1372324,
+      "num": 1372324,
+      "word": "12306称车库的车都开出去了",
+      "onboard_time": 1708176034,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1370110,
@@ -985,14 +1001,6 @@
       "onboard_time": 1708147473,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1345103,
-      "num": 1345103,
-      "word": "12306称车库的车都开出去了",
-      "onboard_time": 1708176034,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1345091,
@@ -1379,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1158752,
-      "num": 1158752,
-      "word": "白敬亭秒认出王嘉尔井柏然",
-      "onboard_time": 1708177778,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1156984,
       "num": 1156984,
       "word": "豆瓣崩了",
@@ -1713,6 +1713,14 @@
       "onboard_time": 1707725912,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1040746,
+      "num": 1040746,
+      "word": "优质朋友圈背景图",
+      "onboard_time": 1708176094,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 1036918,
@@ -2057,14 +2065,6 @@
       "onboard_time": 1707656493,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 912107,
-      "num": 912107,
-      "word": "优质朋友圈背景图",
-      "onboard_time": 1708176094,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 910633,
@@ -2849,6 +2849,14 @@
       "onboard_time": 1707917377,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 736659,
+      "num": 546855,
+      "word": "何老师给白敬亭擦脸",
+      "onboard_time": 1708179635,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 734227,
@@ -4051,6 +4059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 559744,
+      "num": 559744,
+      "word": "女子输错导航被丈夫怒抛高速",
+      "onboard_time": 1708177474,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558105,
       "num": 335056,
       "word": "春节期间被男朋友断崖式分手",
@@ -5091,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456725,
+      "num": 456725,
+      "word": "杨紫国色芳华路透",
+      "onboard_time": 1708179096,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456607,
       "num": 456607,
       "word": "章若楠春晚上场前10分钟",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1708005995,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 446228,
-      "num": 446228,
-      "word": "女子输错导航被丈夫怒抛高速",
-      "onboard_time": 1708177474,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446154,
@@ -5649,6 +5665,14 @@
       "onboard_time": 1707911437,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417136,
+      "num": 417136,
+      "word": "迪丽热巴最美的石榴花特效",
+      "onboard_time": 1708179696,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 416013,
@@ -6411,6 +6435,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 363432,
+      "num": 332098,
+      "word": "手机电量显示本是一场骗局",
+      "onboard_time": 1708179755,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 362746,
       "num": 362746,
       "word": "贾玲镜头下都是人而不是符号",
@@ -6691,6 +6723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344433,
+      "num": 344433,
+      "word": "白鹿薄荷雪媚娘",
+      "onboard_time": 1708179153,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344287,
       "num": 344287,
       "word": "魏大勋夹子音",
@@ -6817,6 +6857,14 @@
       "onboard_time": 1708141414,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333680,
+      "num": 333680,
+      "word": "陈好是王星越大学班主任",
+      "onboard_time": 1708178376,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 333659,
@@ -6953,14 +7001,6 @@
       "onboard_time": 1707898775,
       "rank": 31,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 323375,
-      "num": 323375,
-      "word": "杨紫国色芳华路透",
-      "onboard_time": 1708179096,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 322789,
@@ -7257,6 +7297,14 @@
       "onboard_time": 1708130730,
       "rank": 18,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 304962,
+      "num": 304962,
+      "word": "电影票背面规定了不能盗摄",
+      "onboard_time": 1708178074,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 304620,
@@ -7683,14 +7731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284832,
-      "num": 284832,
-      "word": "白鹿薄荷雪媚娘",
-      "onboard_time": 1708179153,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284562,
       "num": 284562,
       "word": "上帝怕人类跑进两小时",
@@ -7809,6 +7849,14 @@
       "onboard_time": 1707883173,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280435,
+      "num": 280435,
+      "word": "过完年 失落感",
+      "onboard_time": 1708177356,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 278981,
@@ -8233,14 +8281,6 @@
       "onboard_time": 1707793657,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260869,
-      "num": 260869,
-      "word": "过完年 失落感",
-      "onboard_time": 1708177356,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 260589,
@@ -8688,6 +8728,14 @@
       "word": "过年最讨厌的就是炫耀",
       "onboard_time": 1707789330,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244587,
+      "num": 244587,
+      "word": "稳定的情绪和爱无法共存",
+      "onboard_time": 1708179755,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -10347,14 +10395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206137,
-      "num": 206137,
-      "word": "电影票背面规定了不能盗摄",
-      "onboard_time": 1708178074,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206017,
       "num": 206017,
       "word": "第二十条票房突破5亿",
@@ -10377,14 +10417,6 @@
       "onboard_time": 1708072649,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205790,
-      "num": 205790,
-      "word": "陈好是王星越大学班主任",
-      "onboard_time": 1708178376,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 205685,
@@ -10545,6 +10577,14 @@
       "onboard_time": 1708168833,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203256,
+      "num": 203256,
+      "word": "我变得越来越像我妈了",
+      "onboard_time": 1708180115,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 203238,
@@ -11883,6 +11923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182163,
+      "num": 182163,
+      "word": "新年战袍马面裙卖爆了",
+      "onboard_time": 1708179755,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 181975,
       "num": 181975,
       "word": "马丽雷佳音承包笑点",
@@ -12105,6 +12153,14 @@
       "onboard_time": 1708142912,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178320,
+      "num": 178320,
+      "word": "沈腾方辟谣新电影",
+      "onboard_time": 1708179399,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 177834,
@@ -12545,6 +12601,14 @@
       "onboard_time": 1707656732,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170032,
+      "num": 170032,
+      "word": "春节前和春节后老人的对比",
+      "onboard_time": 1708179574,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 169892,
@@ -15612,7 +15676,7 @@
     },
     {
       "raw_hot": 127012,
-      "num": 251880,
+      "num": 253477,
       "word": "十四冬点火超燃瞬间",
       "onboard_time": 1708177896,
       "rank": 29,
@@ -18389,6 +18453,9 @@
     },
     {
       "word": "#佳句里凝练着中国人的智慧和风骨#"
+    },
+    {
+      "word": "#习近平向非洲联盟峰会致贺电#"
     }
   ]
 }
