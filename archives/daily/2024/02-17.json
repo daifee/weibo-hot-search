@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708175821763,
+  "endTime": 1708176852434,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -73,6 +73,14 @@
       "onboard_time": 1708148614,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1762720,
+      "num": 1762720,
+      "word": "贾玲大波浪",
+      "onboard_time": 1708175555,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 1750519,
@@ -153,6 +161,14 @@
       "onboard_time": 1708143754,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1204355,
+      "num": 1204355,
+      "word": "对傅园慧加价黑车司机被罚3万元",
+      "onboard_time": 1708175974,
+      "rank": 1,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1178149,
@@ -283,6 +299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 855824,
+      "num": 855824,
+      "word": "乙骨忧太也被腰斩",
+      "onboard_time": 1708174593,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 854962,
       "num": 854962,
       "word": "面试就是在筛掉配得感低的人",
@@ -305,6 +329,14 @@
       "onboard_time": 1708142613,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851392,
+      "num": 851392,
+      "word": "官方通报傅园慧包车被勒索",
+      "onboard_time": 1708175794,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 840386,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791282,
+      "num": 791282,
+      "word": "今年上班251天",
+      "onboard_time": 1708173273,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786477,
       "num": 786477,
       "word": "其实我不爱吃牛蛙",
@@ -385,14 +425,6 @@
       "onboard_time": 1708146752,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 771887,
-      "num": 771887,
-      "word": "今年上班251天",
-      "onboard_time": 1708173273,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 766510,
@@ -441,6 +473,14 @@
       "onboard_time": 1708094612,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 715643,
+      "num": 715643,
+      "word": "海南离岛严重拥堵有人排14小时上船",
+      "onboard_time": 1708173814,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703482,
@@ -507,14 +547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 640349,
-      "num": 640349,
-      "word": "乙骨忧太也被腰斩",
-      "onboard_time": 1708174593,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 637793,
       "num": 637793,
       "word": "蒲熠星告别名侦探学院",
@@ -537,14 +569,6 @@
       "onboard_time": 1708093895,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 623651,
-      "num": 623651,
-      "word": "海南离岛严重拥堵有人排14小时上船",
-      "onboard_time": 1708173814,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 620623,
@@ -673,14 +697,6 @@
       "onboard_time": 1708144052,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491252,
-      "num": 491252,
-      "word": "贾玲大波浪",
-      "onboard_time": 1708175555,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 487276,
@@ -899,6 +915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 382949,
+      "num": 382949,
+      "word": "12306称车库的车都开出去了",
+      "onboard_time": 1708176034,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374132,
       "num": 260445,
       "word": "惠英红评论刘亦菲",
@@ -923,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356613,
+      "num": 356613,
+      "word": "小龙糕",
+      "onboard_time": 1708175074,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349437,
       "num": 349437,
       "word": "大年初八",
@@ -937,6 +969,14 @@
       "onboard_time": 1708143933,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342011,
+      "num": 332186,
+      "word": "孙颖莎爆冷输球的原因在哪里",
+      "onboard_time": 1708174535,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 333745,
@@ -955,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 330042,
-      "num": 309529,
-      "word": "孙颖莎爆冷输球的原因在哪里",
-      "onboard_time": 1708174535,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329352,
       "num": 329352,
       "word": "第二十条票房破13亿",
@@ -977,22 +1009,6 @@
       "onboard_time": 1708145912,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326252,
-      "num": 212202,
-      "word": "官方通报傅园慧包车被勒索",
-      "onboard_time": 1708175794,
-      "rank": 30,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 323101,
-      "num": 323101,
-      "word": "小龙糕",
-      "onboard_time": 1708175074,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 320780,
@@ -1107,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297577,
+      "num": 297577,
+      "word": "优质朋友圈背景图",
+      "onboard_time": 1708176094,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294987,
       "num": 294987,
       "word": "顶流胖东来走不出河南",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1708166133,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 252652,
+      "num": 234362,
+      "word": "准备一年只为这一分钟",
+      "onboard_time": 1708175735,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 251322,
@@ -1356,7 +1388,7 @@
     },
     {
       "raw_hot": 233124,
-      "num": 233124,
+      "num": 236824,
       "word": "十四冬开幕式",
       "onboard_time": 1708170871,
       "rank": 25,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1708157550,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222934,
+      "num": 222934,
+      "word": "王安宇太好梦了",
+      "onboard_time": 1708174234,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 222304,
@@ -1635,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202073,
+      "num": 202073,
+      "word": "在家唯唯诺诺 在外重拳出击",
+      "onboard_time": 1708176455,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200688,
       "num": 200688,
       "word": "明天要上班",
@@ -1715,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193219,
+      "num": 193219,
+      "word": "乌军从阿夫杰耶夫卡撤军",
+      "onboard_time": 1708176157,
+      "rank": 36,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 193019,
       "num": 193019,
       "word": "大过年男朋友爸爸打电话教训我",
@@ -1777,14 +1833,6 @@
       "onboard_time": 1708137213,
       "rank": 34,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 190216,
-      "num": 190216,
-      "word": "王安宇太好梦了",
-      "onboard_time": 1708174234,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 189209,
@@ -1939,14 +1987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171876,
-      "num": 171876,
-      "word": "准备一年只为这一分钟",
-      "onboard_time": 1708175735,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168758,
       "num": 168758,
       "word": "泰国蛇形雕塑",
@@ -1971,6 +2011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165718,
+      "num": 165718,
+      "word": "南来北往",
+      "onboard_time": 1708176396,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165528,
       "num": 165528,
       "word": "电影撤档最多春节档",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1708143571,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164423,
+      "num": 164423,
+      "word": "什么是好的申论",
+      "onboard_time": 1708175132,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 163942,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1708150591,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161910,
+      "num": 161910,
+      "word": "热辣滚烫票房破27亿",
+      "onboard_time": 1708175915,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 161809,
@@ -2115,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150947,
-      "num": 150947,
-      "word": "什么是好的申论",
-      "onboard_time": 1708175132,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 149590,
       "num": 149590,
       "word": "蒲熠星在线进中止间休息第一人",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1708175194,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145450,
+      "num": 145450,
+      "word": "大年初四为了谈结婚请客的事吵架",
+      "onboard_time": 1708176094,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 145191,
