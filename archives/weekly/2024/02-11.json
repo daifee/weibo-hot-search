@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708183002168,
+  "endTime": 1708184051589,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -2347,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841362,
+      "num": 841362,
+      "word": "男版四大甜妹",
+      "onboard_time": 1708181916,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 841299,
       "num": 841299,
       "word": "中国居然有这么多县城没有网约车",
@@ -2721,6 +2729,14 @@
       "onboard_time": 1707619769,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 757278,
+      "num": 757278,
+      "word": "iPad的生产力远比你想象的要大",
+      "onboard_time": 1708182215,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 757095,
@@ -3379,14 +3395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 661553,
-      "num": 661553,
-      "word": "男版四大甜妹",
-      "onboard_time": 1708181916,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 658746,
       "num": 658746,
       "word": "汕头烟花",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1708053210,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 600982,
+      "num": 600982,
+      "word": "今年还有4次调休",
+      "onboard_time": 1708181618,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600161,
@@ -5587,6 +5603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423287,
+      "num": 423287,
+      "word": "你好星期六下期有谭松韵王栎鑫",
+      "onboard_time": 1708182874,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423183,
       "num": 423183,
       "word": "特朗普将接受刑事审判",
@@ -5995,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398616,
+      "num": 398616,
+      "word": "陈丽君生图",
+      "onboard_time": 1708181495,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 398044,
       "num": 398044,
       "word": "女儿在委屈诉苦",
@@ -6041,14 +6073,6 @@
       "onboard_time": 1708156950,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 389906,
-      "num": 389906,
-      "word": "陈丽君生图",
-      "onboard_time": 1708181495,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 389728,
@@ -6121,6 +6145,14 @@
       "onboard_time": 1707789330,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382467,
+      "num": 303655,
+      "word": "结婚是找能玩一辈子的朋友",
+      "onboard_time": 1708182935,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 381393,
@@ -6289,14 +6321,6 @@
       "onboard_time": 1708067310,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 373159,
-      "num": 373159,
-      "word": "iPad的生产力远比你想象的要大",
-      "onboard_time": 1708182215,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 373004,
@@ -6537,14 +6561,6 @@
       "onboard_time": 1707645032,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358739,
-      "num": 358739,
-      "word": "今年还有4次调休",
-      "onboard_time": 1708181618,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357808,
@@ -7851,14 +7867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283710,
-      "num": 283710,
-      "word": "你好星期六下期有谭松韵王栎鑫",
-      "onboard_time": 1708182874,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283405,
       "num": 283405,
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
@@ -8033,6 +8041,14 @@
       "onboard_time": 1707969994,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276700,
+      "num": 276700,
+      "word": "白敬亭描述最像何炅的物品",
+      "onboard_time": 1708183295,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 276345,
@@ -10091,6 +10107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212860,
+      "num": 212860,
+      "word": "山东有个被严重低估的海鲜城市",
+      "onboard_time": 1708182935,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 212802,
       "num": 212802,
       "word": "如果猫不小心被关在门外",
@@ -10768,6 +10792,14 @@
       "word": "张小斐好酷",
       "onboard_time": 1707738935,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 201896,
+      "num": 201896,
+      "word": "年会不能停 超出对爆米花电影的期待",
+      "onboard_time": 1708183653,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -12571,14 +12603,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 171475,
-      "num": 171475,
-      "word": "山东有个被严重低估的海鲜城市",
-      "onboard_time": 1708182935,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 171074,
       "num": 171074,
       "word": "檀健次穿唐装",
@@ -13121,14 +13145,6 @@
       "onboard_time": 1707907294,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165165,
-      "num": 165165,
-      "word": "结婚是找能玩一辈子的朋友",
-      "onboard_time": 1708182935,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 165041,
@@ -13761,6 +13777,14 @@
       "onboard_time": 1708176874,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155763,
+      "num": 155763,
+      "word": "海口回应被指过海效率低",
+      "onboard_time": 1708183893,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155739,
