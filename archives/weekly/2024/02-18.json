@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708211760212,
+  "endTime": 1708212835407,
   "band_list": [
     {
       "raw_hot": 1253214,
@@ -67,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 526931,
+      "num": 526931,
+      "word": "对台方无视大陆渔民生命安全决不容忍",
+      "onboard_time": 1708211241,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 505163,
       "num": 505163,
       "word": "白敬亭秒认出王嘉尔井柏然",
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420181,
+      "num": 420181,
+      "word": "专家谈胖东来开除当事员工",
+      "onboard_time": 1708203496,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418536,
       "num": 418536,
       "word": "年会不能停 超出对爆米花电影的期待",
       "onboard_time": 1708183653,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 373131,
-      "num": 373131,
-      "word": "专家谈胖东来开除当事员工",
-      "onboard_time": 1708203496,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340198,
@@ -121,6 +129,22 @@
       "onboard_time": 1708183295,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327115,
+      "num": 287081,
+      "word": "女子输错导航被丈夫怒抛高速",
+      "onboard_time": 1708177474,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305951,
+      "num": 187926,
+      "word": "傅园慧求助事件司机未取得从业资格",
+      "onboard_time": 1708211904,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 303535,
@@ -153,14 +177,6 @@
       "onboard_time": 1708182935,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 287081,
-      "num": 287081,
-      "word": "女子输错导航被丈夫怒抛高速",
-      "onboard_time": 1708177474,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272047,
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193383,
+      "num": 193383,
+      "word": "龙年开工第一天",
+      "onboard_time": 1708211662,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189562,
       "num": 189562,
       "word": "陈都灵早期cos",
@@ -291,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152147,
+      "num": 152147,
+      "word": "今年上班251天",
+      "onboard_time": 1708173273,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149830,
       "num": 149830,
       "word": "金晨汗流浃背了吧",
@@ -313,14 +345,6 @@
       "onboard_time": 1708167691,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141008,
-      "num": 141008,
-      "word": "对台方无视大陆渔民生命安全决不容忍",
-      "onboard_time": 1708211241,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140000,
@@ -361,14 +385,6 @@
       "onboard_time": 1708170271,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118260,
-      "num": 118260,
-      "word": "今年上班251天",
-      "onboard_time": 1708173273,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115391,
@@ -419,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99762,
+      "num": 99762,
+      "word": "曼城1比1切尔西",
+      "onboard_time": 1708211904,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99171,
       "num": 99171,
       "word": "大年初四为了谈结婚请客的事吵架",
@@ -443,8 +467,32 @@
       "category": "运动健身,作品衍生"
     },
     {
-      "raw_hot": 68895,
-      "num": 68895,
+      "raw_hot": 87429,
+      "num": 87429,
+      "word": "卜凡的卜原来是卜卦的卜",
+      "onboard_time": 1708212741,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81219,
+      "num": 81219,
+      "word": "中国队4x100自由泳混合接力夺金",
+      "onboard_time": 1708212505,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79838,
+      "num": 79838,
+      "word": "床上充电时间",
+      "onboard_time": 1708212205,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76751,
+      "num": 76751,
       "word": "大学生为祖父母劈柴700多斤",
       "onboard_time": 1708206496,
       "rank": 30,
@@ -459,28 +507,52 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52184,
-      "num": 52184,
-      "word": "龙年开工第一天",
-      "onboard_time": 1708211662,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 51501,
+      "num": 51501,
+      "word": "库里三分对决约内斯库",
+      "onboard_time": 1708212444,
+      "rank": 39,
+      "category": "体育"
     },
     {
-      "raw_hot": 42463,
-      "num": 42463,
+      "raw_hot": 50041,
+      "num": 50041,
       "word": "返程前最后一餐吃什么",
       "onboard_time": 1708210940,
       "rank": 33,
       "category": "美食"
     },
     {
-      "raw_hot": 35356,
-      "num": 35356,
+      "raw_hot": 46828,
+      "num": 46828,
+      "word": "明天要上班",
+      "onboard_time": 1708167993,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44716,
+      "num": 44716,
+      "word": "伯恩利0比5阿森纳",
+      "onboard_time": 1708212205,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43951,
+      "num": 43951,
       "word": "在家唯唯诺诺 在外重拳出击",
       "onboard_time": 1708176455,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42107,
+      "num": 42107,
+      "word": "正月初九拜天公",
+      "onboard_time": 1708212803,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 34647,
@@ -515,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24461,
+      "num": 480783,
+      "word": "感受祖国各地的新春新事",
+      "onboard_time": 1708176094,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23736,
       "num": 29550,
       "word": "第60届慕尼黑安全会议",
@@ -529,14 +609,6 @@
       "onboard_time": 1708196657,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17374,
-      "num": 435407,
-      "word": "感受祖国各地的新春新事",
-      "onboard_time": 1708176094,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15732,
