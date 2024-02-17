@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708187675980,
+  "endTime": 1708190194736,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -14051,6 +14051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418536,
+      "num": 418536,
+      "word": "年会不能停 超出对爆米花电影的期待",
+      "onboard_time": 1708183653,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 418406,
       "num": 418406,
       "word": "Letme想卸任RNG教练",
@@ -19355,6 +19363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 287859,
+      "num": 287859,
+      "word": "内娱爆改天花板",
+      "onboard_time": 1708187848,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287586,
       "num": 287586,
       "word": "55岁收到83岁妈妈的压岁钱",
@@ -24632,14 +24648,6 @@
       "word": "赵丽颖 郝秀萍跳楼戏",
       "onboard_time": 1707632310,
       "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 219954,
-      "num": 219954,
-      "word": "年会不能停 超出对爆米花电影的期待",
-      "onboard_time": 1708183653,
-      "rank": 36,
       "category": "电影"
     },
     {
@@ -32793,6 +32801,14 @@
       "onboard_time": 1708081774,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167224,
+      "num": 167224,
+      "word": "王心凌发长文告别声生不息",
+      "onboard_time": 1708189824,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 167167,
@@ -41603,6 +41619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117874,
+      "num": 117874,
+      "word": "金晨汗流浃背了吧",
+      "onboard_time": 1708188504,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117865,
       "num": 117865,
       "word": "霉霉东京演唱会",
@@ -41945,6 +41969,14 @@
       "onboard_time": 1707914079,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115391,
+      "num": 115391,
+      "word": "殷果的人设为什么是樱桃",
+      "onboard_time": 1708187607,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 115343,
@@ -42553,14 +42585,6 @@
       "onboard_time": 1707312577,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112134,
-      "num": 112134,
-      "word": "殷果的人设为什么是樱桃",
-      "onboard_time": 1708187607,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 112009,
