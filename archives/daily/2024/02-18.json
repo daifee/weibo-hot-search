@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708204476291,
+  "endTime": 1708205638792,
   "band_list": [
     {
       "raw_hot": 1253214,
@@ -427,6 +427,14 @@
       "category": "运动健身,作品衍生"
     },
     {
+      "raw_hot": 76812,
+      "num": 41836,
+      "word": "专家谈胖东来开除当事员工",
+      "onboard_time": 1708203496,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60791,
       "num": 60791,
       "word": "热辣滚烫取景地",
@@ -449,14 +457,6 @@
       "onboard_time": 1708195098,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27236,
-      "num": 27236,
-      "word": "专家谈胖东来开除当事员工",
-      "onboard_time": 1708203496,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25428,
@@ -507,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10055,
+      "raw_hot": 10816,
       "num": 14934,
       "word": "姚玉玲贾金龙看对眼了",
       "onboard_time": 1708203795,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10211,
+      "num": 12792,
+      "word": "卡皮巴拉型小狗",
+      "onboard_time": 1708204754,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 6785,
