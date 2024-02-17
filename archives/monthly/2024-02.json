@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708143757128,
+  "endTime": 1708144549262,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1756,7 +1756,7 @@
     },
     {
       "raw_hot": 1750519,
-      "num": 555054,
+      "num": 625519,
       "word": "白敬亭你好星期六发带剧照",
       "onboard_time": 1708139731,
       "rank": 13,
@@ -2849,6 +2849,14 @@
       "onboard_time": 1707705451,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1311023,
+      "num": 1311023,
+      "word": "iPhone16或垂直排列摄像头",
+      "onboard_time": 1708140454,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 1309301,
@@ -4025,14 +4033,6 @@
       "onboard_time": 1707828639,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1089215,
-      "num": 1089215,
-      "word": "iPhone16或垂直排列摄像头",
-      "onboard_time": 1708140454,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 1089002,
@@ -6155,6 +6155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 808479,
+      "num": 808479,
+      "word": "贾玲高马尾帅上了另一个level",
+      "onboard_time": 1708143093,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 808318,
       "num": 622950,
       "word": "霍启刚称梅西事件牵涉重大公众利益",
@@ -6859,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750525,
+      "num": 750525,
+      "word": "吉林文旅回应傅园慧求助",
+      "onboard_time": 1708142613,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750417,
       "num": 750417,
       "word": "林孝埈泪洒十四冬赛场",
@@ -7465,6 +7481,14 @@
       "onboard_time": 1707457652,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 710394,
+      "num": 710394,
+      "word": "沈月一个人就是一个团队",
+      "onboard_time": 1708142432,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 707710,
@@ -10179,6 +10203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 550620,
+      "num": 550620,
+      "word": "撤档",
+      "onboard_time": 1708126942,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 550317,
       "num": 550317,
       "word": "娃娃机里的玩偶为啥不能放床头",
@@ -10329,6 +10361,14 @@
       "onboard_time": 1706713294,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543295,
+      "num": 463612,
+      "word": "红毯先生上映7天票房仅8000万元",
+      "onboard_time": 1708140993,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 543167,
@@ -10513,14 +10553,6 @@
       "onboard_time": 1707201869,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 535632,
-      "num": 535632,
-      "word": "撤档",
-      "onboard_time": 1708126942,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 535299,
@@ -11579,14 +11611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490732,
-      "num": 490732,
-      "word": "沈月一个人就是一个团队",
-      "onboard_time": 1708142432,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 490385,
       "num": 490385,
       "word": "张波叶诚尘一审互咬二审互助",
@@ -12241,14 +12265,6 @@
       "onboard_time": 1707536138,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463612,
-      "num": 463612,
-      "word": "红毯先生上映7天票房仅8000万元",
-      "onboard_time": 1708140993,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 461823,
@@ -13227,6 +13243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425153,
+      "num": 425153,
+      "word": "因为不想上班在返程高铁上流泪",
+      "onboard_time": 1708143272,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 424956,
       "num": 424956,
       "word": "ateez 抄袭",
@@ -13521,6 +13545,14 @@
       "onboard_time": 1707282571,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 416621,
+      "num": 416621,
+      "word": "王一博与穿山甲合照",
+      "onboard_time": 1708144052,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 416394,
@@ -14091,14 +14123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 399445,
-      "num": 260868,
-      "word": "因为不想上班在返程高铁上流泪",
-      "onboard_time": 1708143272,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 399090,
       "num": 399090,
       "word": "每天万名游客打卡刘亦菲同款古村落",
@@ -14193,14 +14217,6 @@
       "onboard_time": 1707576100,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396749,
-      "num": 396749,
-      "word": "吉林文旅回应傅园慧求助",
-      "onboard_time": 1708142613,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396659,
@@ -15555,20 +15571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359058,
-      "num": 359058,
-      "word": "贾玲高马尾帅上了另一个level",
-      "onboard_time": 1708143093,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 359016,
       "num": 359016,
       "word": "魏大勋 电子老公",
       "onboard_time": 1707296430,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358631,
+      "num": 358631,
+      "word": "切尔诺贝利的狼已进化出抗癌能力",
+      "onboard_time": 1708143754,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358560,
@@ -16931,6 +16947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320780,
+      "num": 320780,
+      "word": "贾玲 女导演的力量",
+      "onboard_time": 1708143212,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
@@ -18185,14 +18209,6 @@
       "onboard_time": 1708086155,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294472,
-      "num": 294472,
-      "word": "贾玲 女导演的力量",
-      "onboard_time": 1708143212,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 294452,
@@ -26515,6 +26531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "任子威林孝埈前二进决赛",
+      "onboard_time": 1708143451,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198895,
       "num": 1074941,
       "word": "央视经典之夜",
@@ -26873,6 +26897,14 @@
       "onboard_time": 1707711451,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196664,
+      "num": 196664,
+      "word": "声生不息",
+      "onboard_time": 1706935110,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 196518,
@@ -27401,14 +27433,6 @@
       "onboard_time": 1707742535,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193328,
-      "num": 193328,
-      "word": "声生不息",
-      "onboard_time": 1706935110,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 193202,
@@ -31675,6 +31699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166222,
+      "num": 166222,
+      "word": "一家人旅游摆摊玩3天赚1000多元",
+      "onboard_time": 1708143992,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166116,
       "num": 166116,
       "word": "EVNNE音银一位",
@@ -31907,6 +31939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164992,
+      "num": 164992,
+      "word": "就是32返程也会哭啊",
+      "onboard_time": 1708143571,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164926,
       "num": 164926,
       "word": "拒绝长辈的红包会有什么下场",
@@ -31931,28 +31971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164774,
-      "num": 164774,
-      "word": "任子威林孝埈前二进决赛",
-      "onboard_time": 1708143451,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164729,
       "num": 164729,
       "word": "杨紫杀青vlog",
       "onboard_time": 1707313896,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164712,
-      "num": 164712,
-      "word": "就是32返程也会哭啊",
-      "onboard_time": 1708143571,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 164689,
@@ -35640,6 +35664,14 @@
       "word": "年前几天上班反而是最开心的",
       "onboard_time": 1707399215,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141661,
+      "num": 141661,
+      "word": "小朋友的语言真的好可爱",
+      "onboard_time": 1708144052,
+      "rank": 46,
       "category": "情感"
     },
     {
