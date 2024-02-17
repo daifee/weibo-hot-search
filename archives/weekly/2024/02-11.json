@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708180515376,
+  "endTime": 1708183002168,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -681,6 +681,14 @@
       "onboard_time": 1707702629,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1637434,
+      "num": 1637434,
+      "word": "何老师给白敬亭擦脸",
+      "onboard_time": 1708179635,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1635463,
@@ -2851,14 +2859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 736659,
-      "num": 546855,
-      "word": "何老师给白敬亭擦脸",
-      "onboard_time": 1708179635,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 734227,
       "num": 734227,
       "word": "陆虎悬着的心终于死了",
@@ -3377,6 +3377,14 @@
       "onboard_time": 1708044029,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 661553,
+      "num": 661553,
+      "word": "男版四大甜妹",
+      "onboard_time": 1708181916,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 658746,
@@ -4307,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538764,
+      "num": 538764,
+      "word": "电影票背面规定了不能盗摄",
+      "onboard_time": 1708178074,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 537358,
       "num": 537358,
       "word": "马思纯发了无修剧照",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1707904476,
       "rank": 17,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 524645,
+      "num": 524645,
+      "word": "李云霄哭了",
+      "onboard_time": 1708180535,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 524097,
@@ -4705,6 +4729,14 @@
       "onboard_time": 1707995073,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499618,
+      "num": 356310,
+      "word": "手机电量显示本是一场骗局",
+      "onboard_time": 1708179755,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 497539,
@@ -5667,8 +5699,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417136,
-      "num": 417136,
+      "raw_hot": 417305,
+      "num": 417305,
       "word": "迪丽热巴最美的石榴花特效",
       "onboard_time": 1708179696,
       "rank": 15,
@@ -6011,6 +6043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 389906,
+      "num": 389906,
+      "word": "陈丽君生图",
+      "onboard_time": 1708181495,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389728,
       "num": 389728,
       "word": "圆顺",
@@ -6251,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373159,
+      "num": 373159,
+      "word": "iPad的生产力远比你想象的要大",
+      "onboard_time": 1708182215,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 373004,
       "num": 373004,
       "word": "i人社交",
@@ -6435,14 +6483,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 363432,
-      "num": 332098,
-      "word": "手机电量显示本是一场骗局",
-      "onboard_time": 1708179755,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 362746,
       "num": 362746,
       "word": "贾玲镜头下都是人而不是符号",
@@ -6497,6 +6537,14 @@
       "onboard_time": 1707645032,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358739,
+      "num": 358739,
+      "word": "今年还有4次调休",
+      "onboard_time": 1708181618,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357808,
@@ -6777,6 +6825,14 @@
       "onboard_time": 1707633150,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342315,
+      "num": 342315,
+      "word": "贾玲吃减脂餐的感受",
+      "onboard_time": 1708181016,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 342011,
@@ -7299,14 +7355,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 304962,
-      "num": 304962,
-      "word": "电影票背面规定了不能盗摄",
-      "onboard_time": 1708178074,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 304620,
       "num": 304620,
       "word": "王楚钦3比0拉森福斯",
@@ -7491,6 +7539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295021,
+      "num": 295021,
+      "word": "陈都灵早期cos",
+      "onboard_time": 1708182455,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295020,
       "num": 295020,
       "word": "小S二女儿大片",
@@ -7593,6 +7649,14 @@
       "onboard_time": 1708153951,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290831,
+      "num": 290831,
+      "word": "王鹤棣发文谈NBA名人赛",
+      "onboard_time": 1708180535,
+      "rank": 26,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 290812,
@@ -7787,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283710,
+      "num": 283710,
+      "word": "你好星期六下期有谭松韵王栎鑫",
+      "onboard_time": 1708182874,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283405,
       "num": 283405,
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
@@ -7977,6 +8049,14 @@
       "onboard_time": 1708052488,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 275832,
+      "num": 275832,
+      "word": "这种报复性熬夜越想戒越戒不掉",
+      "onboard_time": 1708181075,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 275821,
@@ -10459,6 +10539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205153,
+      "num": 205153,
+      "word": "我变得越来越像我妈了",
+      "onboard_time": 1708180115,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204989,
       "num": 204989,
       "word": "看电影拍摄发朋友圈",
@@ -10577,14 +10665,6 @@
       "onboard_time": 1708168833,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203256,
-      "num": 203256,
-      "word": "我变得越来越像我妈了",
-      "onboard_time": 1708180115,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 203238,
@@ -11307,6 +11387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 192876,
+      "num": 192876,
+      "word": "原生家庭真的会让人窒息",
+      "onboard_time": 1708182034,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192711,
       "num": 192711,
       "word": "勇士终于变阵了",
@@ -11915,6 +12003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182449,
+      "num": 182449,
+      "word": "第二十条彩蛋细节",
+      "onboard_time": 1708182571,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182341,
       "num": 182341,
       "word": "斐玲试剂",
@@ -12475,6 +12571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171475,
+      "num": 171475,
+      "word": "山东有个被严重低估的海鲜城市",
+      "onboard_time": 1708182935,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 171074,
       "num": 171074,
       "word": "檀健次穿唐装",
@@ -12585,6 +12689,14 @@
       "onboard_time": 1707657933,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170124,
+      "num": 170124,
+      "word": "热辣滚烫不是励志减肥的电影",
+      "onboard_time": 1708182397,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 170052,
@@ -13009,6 +13121,14 @@
       "onboard_time": 1707907294,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165165,
+      "num": 165165,
+      "word": "结婚是找能玩一辈子的朋友",
+      "onboard_time": 1708182935,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 165041,
@@ -15676,7 +15796,7 @@
     },
     {
       "raw_hot": 127012,
-      "num": 253477,
+      "num": 276497,
       "word": "十四冬点火超燃瞬间",
       "onboard_time": 1708177896,
       "rank": 29,
