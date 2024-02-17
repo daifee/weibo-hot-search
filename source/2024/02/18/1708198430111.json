@@ -1,0 +1,410 @@
+{
+  "runTime": 1708198430111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165596,
+        "num": 165596,
+        "word": "何老师给白敬亭擦脸",
+        "onboard_time": 1708179635,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133028,
+        "num": 133028,
+        "word": "对傅园慧加价黑车司机被罚3万元",
+        "onboard_time": 1708175974,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 8902,
+        "num": 115804,
+        "word": "感受祖国各地的新春新事",
+        "onboard_time": 1708176094,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114421,
+        "num": 114421,
+        "word": "贾玲大波浪",
+        "onboard_time": 1708175555,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88958,
+        "num": 88958,
+        "word": "iPad的生产力远比你想象的要大",
+        "onboard_time": 1708182215,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82578,
+        "num": 82578,
+        "word": "优质朋友圈背景图",
+        "onboard_time": 1708176094,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78108,
+        "num": 78108,
+        "word": "白敬亭秒认出王嘉尔井柏然",
+        "onboard_time": 1708177778,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77548,
+        "num": 77548,
+        "word": "王心凌发长文告别声生不息",
+        "onboard_time": 1708189824,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65422,
+        "num": 65422,
+        "word": "乙骨忧太也被腰斩",
+        "onboard_time": 1708174593,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 62141,
+        "num": 62141,
+        "word": "张艺谋让高叶多拍好戏",
+        "onboard_time": 1708184971,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104907,
+        "num": 62080,
+        "word": "12306称车库的车都开出去了",
+        "onboard_time": 1708176034,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60950,
+        "num": 60950,
+        "word": "内娱爆改天花板",
+        "onboard_time": 1708187848,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58066,
+        "num": 58066,
+        "word": "这种报复性熬夜越想戒越戒不掉",
+        "onboard_time": 1708181075,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56371,
+        "num": 56371,
+        "word": "男版四大甜妹",
+        "onboard_time": 1708181916,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50900,
+        "num": 50900,
+        "word": "今年还有4次调休",
+        "onboard_time": 1708181618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50111,
+        "num": 50111,
+        "word": "海口回应被指过海效率低",
+        "onboard_time": 1708183893,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45478,
+        "num": 45478,
+        "word": "女子输错导航被丈夫怒抛高速",
+        "onboard_time": 1708177474,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44088,
+        "num": 44088,
+        "word": "热辣滚烫取景地",
+        "onboard_time": 1708193599,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37507,
+        "num": 37507,
+        "word": "金晨汗流浃背了吧",
+        "onboard_time": 1708188504,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33085,
+        "num": 33085,
+        "word": "年会不能停 超出对爆米花电影的期待",
+        "onboard_time": 1708183653,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48031,
+        "num": 32888,
+        "word": "手机电量显示本是一场骗局",
+        "onboard_time": 1708179755,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31540,
+        "num": 31540,
+        "word": "结婚是找能玩一辈子的朋友",
+        "onboard_time": 1708182935,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30967,
+        "num": 30967,
+        "word": "周杰伦昆凌看霉霉演唱会",
+        "onboard_time": 1708167691,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29230,
+        "num": 29230,
+        "word": "孙楠回应当年歌手退赛",
+        "onboard_time": 1708170271,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28831,
+        "num": 28831,
+        "word": "马思纯孙千你俩有点暧昧了",
+        "onboard_time": 1708195098,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27381,
+        "num": 27381,
+        "word": "陈都灵早期cos",
+        "onboard_time": 1708182455,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25952,
+        "num": 25952,
+        "word": "大年初四为了谈结婚请客的事吵架",
+        "onboard_time": 1708176094,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25412,
+        "num": 25412,
+        "word": "高叶说赵丽颖让她心疼心碎",
+        "onboard_time": 1708186471,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24367,
+        "num": 24367,
+        "word": "吴世勋中国杂志销量",
+        "onboard_time": 1708173391,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24239,
+        "num": 24239,
+        "word": "魏晨你咋在这",
+        "onboard_time": 1708170693,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23739,
+        "num": 23739,
+        "word": "白敬亭描述最像何炅的物品",
+        "onboard_time": 1708183295,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23227,
+        "num": 23227,
+        "word": "海南离岛严重拥堵有人排14小时上船",
+        "onboard_time": 1708173814,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22977,
+        "num": 22977,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22402,
+        "num": 22402,
+        "word": "孙千陈靖可新中式情侣装",
+        "onboard_time": 1708171110,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22173,
+        "num": 22173,
+        "word": "赵今麦发了30多张自拍",
+        "onboard_time": 1708166912,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21806,
+        "num": 21806,
+        "word": "杨紫国色芳华路透",
+        "onboard_time": 1708179096,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20634,
+        "num": 20634,
+        "word": "官方通报傅园慧包车被勒索",
+        "onboard_time": 1708175794,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 20570,
+        "num": 20570,
+        "word": "山东有个被严重低估的海鲜城市",
+        "onboard_time": 1708182935,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 20128,
+        "num": 20128,
+        "word": "陈丽君生图",
+        "onboard_time": 1708181495,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17142,
+        "num": 19552,
+        "word": "今年上班251天",
+        "onboard_time": 1708173273,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19400,
+        "num": 19400,
+        "word": "电影票背面规定了不能盗摄",
+        "onboard_time": 1708178074,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19254,
+        "num": 19254,
+        "word": "殷果的人设为什么是樱桃",
+        "onboard_time": 1708187607,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19096,
+        "num": 19096,
+        "word": "王鹤棣发文谈NBA名人赛",
+        "onboard_time": 1708180535,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 18749,
+        "num": 18749,
+        "word": "汪苏泷幕后",
+        "onboard_time": 1708196657,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18451,
+        "num": 18451,
+        "word": "小龙糕",
+        "onboard_time": 1708175074,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17755,
+        "num": 17755,
+        "word": "学习贾玲的健身减肥动力",
+        "onboard_time": 1708187305,
+        "rank": 45,
+        "category": "运动健身,作品衍生"
+      },
+      {
+        "raw_hot": 16612,
+        "num": 17754,
+        "word": "迪丽热巴最美的石榴花特效",
+        "onboard_time": 1708179696,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17754,
+        "num": 17753,
+        "word": "NBA官方发了王鹤棣",
+        "onboard_time": 1708171231,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 15732,
+        "num": 17751,
+        "word": "收拾行李出门时小狗哭了",
+        "onboard_time": 1708197976,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15244,
+        "num": 17737,
+        "word": "第60届慕尼黑安全会议",
+        "onboard_time": 1708192041,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#佳句里凝练着中国人的智慧和风骨#"
+    }
+  }
+}
