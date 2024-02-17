@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/01 00:20:11 ~ 2024/02/17 10:21:09
+本榜单时间：2024/02/01 00:20:11 ~ 2024/02/17 10:33:53
 </p>
 </blockquote>
 <p>
@@ -1965,6 +1965,12 @@ A股三大股指全部翻红（热度：1458694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%A5%A8%E5%A4%AA%E8%B4%B5%E4%BA%86%E5%9B%9E%E4%B8%8D%E4%BA%86%E5%AD%A6%E6%A0%A1%23" target="weibo">
+机票太贵了回不了学校（热度：1386602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E9%80%80%E5%87%BA%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
 红毯先生退出春节档（热度：1383191）
 </a>
@@ -2603,6 +2609,12 @@ iPhone工作日闹钟今天没响（热度：1193157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%BE%90%E8%80%81%E5%A4%AA%E7%96%91%E6%B6%89%E5%A5%97%E7%89%8C%23" target="weibo">
 交警回应网传徐老太疑涉套牌（热度：1169126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%8A%B1150%E4%B8%87%E5%85%83%E8%A7%A3%E9%99%A4%E5%87%BA%E5%A2%83%E9%99%90%E5%88%B6%23" target="weibo">
+炎亚纶花150万元解除出境限制（热度：1167151）
 </a>
 </li>
 
@@ -3627,6 +3639,12 @@ A股千股跌停（热度：959911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%BF%97%E9%A3%9E%E6%83%B3%E8%AF%B7%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%87%BA%E6%BC%94%E7%94%B5%E5%BD%B1%E5%B1%8F%E6%91%84%23" target="weibo">
+毕志飞想请薛之谦出演电影屏摄（热度：951823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9C%8B%E4%BB%8E3000%E5%85%83%E6%B6%A8%E5%88%B0%E4%BA%868000%E5%85%83%23" target="weibo">
 眼看从3000元涨到了8000元（热度：951248）
 </a>
@@ -4451,12 +4469,6 @@ A股创业板指跌至3%（热度：876304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B5%E7%B2%89%E4%B8%9D%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%913%E5%B9%B4%23" target="weibo">
 韩国男星性侵粉丝判有期徒刑3年（热度：826816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%BF%97%E9%A3%9E%E6%83%B3%E8%AF%B7%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%87%BA%E6%BC%94%E7%94%B5%E5%BD%B1%E5%B1%8F%E6%91%84%23" target="weibo">
-毕志飞想请薛之谦出演电影屏摄（热度：825416）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ AD钙奶姐（热度：678311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%97%A0%E8%80%BB%E5%BE%97%E5%88%86%E6%B3%95%23" target="weibo">
 高考数学无耻得分法（热度：671137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E7%AC%AC%E5%85%AD%E4%BD%8D%E6%98%AF%E7%8E%8B%E6%BA%90%23" target="weibo">
-丁程鑫微信好友第六位是王源（热度：671051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%B1%82%E5%A9%9A%E5%A5%BD%E6%8A%93%E9%A9%AC%23" target="weibo">
-谢娜求婚好抓马（热度：670803）
 </a>
 </li>
 

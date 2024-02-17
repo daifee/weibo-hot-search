@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708136469511,
+  "endTime": 1708137233269,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2603,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1386602,
+      "num": 1386602,
+      "word": "机票太贵了回不了学校",
+      "onboard_time": 1708135349,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1383191,
       "num": 1383191,
       "word": "红毯先生退出春节档",
@@ -3457,6 +3465,14 @@
       "onboard_time": 1707015691,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1167151,
+      "num": 1167151,
+      "word": "炎亚纶花150万元解除出境限制",
+      "onboard_time": 1708135649,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1164744,
@@ -4819,6 +4835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951823,
+      "num": 951823,
+      "word": "毕志飞想请薛之谦出演电影屏摄",
+      "onboard_time": 1708134932,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 951248,
       "num": 951248,
       "word": "眼看从3000元涨到了8000元",
@@ -5921,14 +5945,6 @@
       "onboard_time": 1706935349,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 825416,
-      "num": 825416,
-      "word": "毕志飞想请薛之谦出演电影屏摄",
-      "onboard_time": 1708134932,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 824855,
@@ -8099,6 +8115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 664295,
+      "num": 664295,
+      "word": "一年八班秦朗",
+      "onboard_time": 1708134809,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 664140,
       "num": 664140,
       "word": "官方通报湖北交运集团总经理除雪期间休假",
@@ -8443,14 +8467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 640880,
-      "num": 640880,
-      "word": "一年八班秦朗",
-      "onboard_time": 1708134809,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 640864,
       "num": 640864,
       "word": "韩如雪否认知三当三",
@@ -8657,14 +8673,6 @@
       "onboard_time": 1706793512,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 632392,
-      "num": 621847,
-      "word": "机票太贵了回不了学校",
-      "onboard_time": 1708135349,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 632349,
@@ -9233,14 +9241,6 @@
       "onboard_time": 1706953829,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593648,
-      "num": 593648,
-      "word": "炎亚纶花150万元解除出境限制",
-      "onboard_time": 1708135649,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 593436,
@@ -16075,6 +16075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340992,
+      "num": 340992,
+      "word": "你好星期六全员晒最后一天假期计划",
+      "onboard_time": 1708136491,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340757,
       "num": 326818,
       "word": "真正聪明的人都有一种钝感力",
@@ -16449,6 +16457,14 @@
       "onboard_time": 1707145293,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328957,
+      "num": 205303,
+      "word": "妈妈为全家11人准备晚饭",
+      "onboard_time": 1708135954,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 328912,
@@ -21203,6 +21219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243478,
+      "num": 243478,
+      "word": "苹果首个银行木马被曝光",
+      "onboard_time": 1708136192,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 243457,
       "num": 243457,
       "word": "无畏辅助",
@@ -21705,14 +21729,6 @@
       "onboard_time": 1706778271,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237145,
-      "num": 205303,
-      "word": "妈妈为全家11人准备晚饭",
-      "onboard_time": 1708135954,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 237141,
@@ -27739,6 +27755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190305,
+      "num": 176470,
+      "word": "王鹤棣四分球",
+      "onboard_time": 1708137213,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "勇士战胜太阳",
@@ -32483,6 +32507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158632,
+      "num": 158632,
+      "word": "返程 堵车",
+      "onboard_time": 1708135592,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158612,
       "num": 158612,
       "word": "花100多理一次发这个价位合理吗",
@@ -34129,14 +34161,6 @@
       "onboard_time": 1706944112,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 148477,
-      "num": 148477,
-      "word": "苹果首个银行木马被曝光",
-      "onboard_time": 1708136192,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 148465,
@@ -36115,6 +36139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137299,
+      "num": 137299,
+      "word": "陈泽秦霄贤合照",
+      "onboard_time": 1708137031,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137219,
       "num": 137219,
       "word": "WBG战胜RNG",
@@ -36417,6 +36449,14 @@
       "onboard_time": 1706968411,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135732,
+      "num": 135732,
+      "word": "傅园慧长白山发博求助",
+      "onboard_time": 1708137213,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 135612,
@@ -37355,14 +37395,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 130315,
-      "num": 130315,
-      "word": "返程 堵车",
-      "onboard_time": 1708135592,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130292,
       "num": 130292,
       "word": "官方通报宁夏一化工厂燃爆事故",
@@ -38251,6 +38283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125834,
+      "num": 125834,
+      "word": "章昊直播",
+      "onboard_time": 1708136973,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125762,
       "num": 116725,
       "word": "孟鹤堂周九良小品",
@@ -38641,6 +38681,14 @@
       "onboard_time": 1707369149,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123349,
+      "num": 123349,
+      "word": "乡巴佬卤蛋",
+      "onboard_time": 1708136611,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 123265,
