@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708154082815,
+  "endTime": 1708155230952,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1555,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1862989,
+      "num": 1862989,
+      "word": "第一批开电动爹回家的人后悔了",
+      "onboard_time": 1708149571,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1858237,
       "num": 724091,
       "word": "小黑粉",
@@ -1772,7 +1780,7 @@
     },
     {
       "raw_hot": 1750519,
-      "num": 625519,
+      "num": 636012,
       "word": "白敬亭你好星期六发带剧照",
       "onboard_time": 1708139731,
       "rank": 13,
@@ -1905,14 +1913,6 @@
       "onboard_time": 1707807815,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1673361,
-      "num": 1673361,
-      "word": "第一批开电动爹回家的人后悔了",
-      "onboard_time": 1708149571,
-      "rank": 7,
-      "category": "汽车"
     },
     {
       "raw_hot": 1658713,
@@ -7843,6 +7843,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 688287,
+      "num": 688287,
+      "word": "国家免费补课平台",
+      "onboard_time": 1708153709,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 687062,
       "num": 600028,
       "word": "魔术 分秒不差",
@@ -8353,6 +8361,14 @@
       "onboard_time": 1707658111,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 658292,
+      "num": 658292,
+      "word": "女人不能坐器材箱规矩被打破",
+      "onboard_time": 1708150774,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 657295,
@@ -9105,14 +9121,6 @@
       "onboard_time": 1706759972,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615978,
-      "num": 615978,
-      "word": "女人不能坐器材箱规矩被打破",
-      "onboard_time": 1708150774,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 615930,
@@ -12483,6 +12491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 458348,
+      "num": 458348,
+      "word": "马丽早期写真照",
+      "onboard_time": 1708153652,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457052,
       "num": 457052,
       "word": "白敬亭开了咖啡店",
@@ -15459,6 +15475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365073,
+      "num": 200963,
+      "word": "巴黎妹子来中国一个月后的感想",
+      "onboard_time": 1708153528,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364997,
       "num": 419972,
       "word": "多面吴谢宇",
@@ -16451,20 +16475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336498,
+      "num": 316842,
+      "word": "大龄未婚农村男性不再焦虑婚姻",
+      "onboard_time": 1708150054,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335827,
       "num": 188299,
       "word": "肖战声线感染力",
       "onboard_time": 1706967992,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335436,
-      "num": 316842,
-      "word": "大龄未婚农村男性不再焦虑婚姻",
-      "onboard_time": 1708150054,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334754,
@@ -17755,6 +17779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 306837,
+      "num": 306837,
+      "word": "任子威回应混合接力判罚",
+      "onboard_time": 1708154371,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306395,
       "num": 279494,
       "word": "异人之下2官宣",
@@ -18579,6 +18611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290958,
+      "num": 290958,
+      "word": "不想上班不想上班",
+      "onboard_time": 1708153951,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290921,
       "num": 290921,
       "word": "被父母催婚整崩溃了",
@@ -18705,6 +18745,14 @@
       "onboard_time": 1708079914,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288448,
+      "num": 288448,
+      "word": "赵今麦哈尔滨拍戏",
+      "onboard_time": 1708153951,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 288425,
@@ -20035,14 +20083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266292,
-      "num": 178273,
-      "word": "巴黎妹子来中国一个月后的感想",
-      "onboard_time": 1708153528,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266143,
       "num": 240042,
       "word": "小朋友以为叫一声舅舅给一张压岁钱",
@@ -21195,14 +21235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249572,
-      "num": 249572,
-      "word": "马丽早期写真照",
-      "onboard_time": 1708153652,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249541,
       "num": 249541,
       "word": "LNG 幽默",
@@ -21417,6 +21449,14 @@
       "onboard_time": 1706768669,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245895,
+      "num": 245895,
+      "word": "其实我不爱吃牛蛙",
+      "onboard_time": 1708154371,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 245631,
@@ -24692,7 +24732,7 @@
     },
     {
       "raw_hot": 212056,
-      "num": 175298,
+      "num": 197374,
       "word": "贾玲电影视角",
       "onboard_time": 1708153833,
       "rank": 31,
@@ -26937,14 +26977,6 @@
       "onboard_time": 1708082794,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197754,
-      "num": 197754,
-      "word": "国家免费补课平台",
-      "onboard_time": 1708153709,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 197619,
@@ -34411,14 +34443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150472,
-      "num": 150472,
-      "word": "不想上班不想上班",
-      "onboard_time": 1708153951,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150438,
       "num": 150438,
       "word": "熊出没",
@@ -34577,6 +34601,14 @@
       "onboard_time": 1707896314,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149590,
+      "num": 149590,
+      "word": "蒲熠星在线进中止间休息第一人",
+      "onboard_time": 1708155153,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149527,
@@ -36785,14 +36817,6 @@
       "onboard_time": 1708137031,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137252,
-      "num": 137252,
-      "word": "赵今麦哈尔滨拍戏",
-      "onboard_time": 1708153951,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 137219,
