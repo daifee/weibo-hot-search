@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708161346472,
+  "endTime": 1708162450056,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2501889,
+      "num": 2501889,
+      "word": "孙颖莎爆冷输印度选手",
+      "onboard_time": 1708157249,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2489557,
       "num": 2489557,
       "word": "白敬亭",
@@ -233,14 +241,6 @@
       "onboard_time": 1707897335,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2452767,
-      "num": 2452767,
-      "word": "孙颖莎爆冷输印度选手",
-      "onboard_time": 1708157249,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 2449773,
@@ -1299,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1166959,
+      "num": 1166959,
+      "word": "飞驰人生2被删减剧情",
+      "onboard_time": 1708160854,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1161085,
       "num": 1161085,
       "word": "果粉们开始大批退货VisionPro",
@@ -2235,6 +2243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 840386,
+      "num": 840386,
+      "word": "张杰谢娜带娃度假",
+      "onboard_time": 1708161032,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840158,
       "num": 840158,
       "word": "杜乐莹是怎么爱上昊坤的",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1707972932,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 810062,
+      "num": 810062,
+      "word": "农村未成年人的手机之困",
+      "onboard_time": 1708158212,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807590,
@@ -3281,14 +3305,6 @@
       "onboard_time": 1707644370,
       "rank": 15,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 638577,
-      "num": 638577,
-      "word": "农村未成年人的手机之困",
-      "onboard_time": 1708158212,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638185,
@@ -4537,14 +4553,6 @@
       "onboard_time": 1707905312,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 491545,
-      "num": 491545,
-      "word": "飞驰人生2被删减剧情",
-      "onboard_time": 1708160854,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 491280,
@@ -6595,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330190,
+      "num": 261219,
+      "word": "一出生就是陈皮",
+      "onboard_time": 1708160370,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329532,
       "num": 329532,
       "word": "库里太牛了",
@@ -7027,6 +7043,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 300310,
+      "num": 300310,
+      "word": "大梦归离杀青",
+      "onboard_time": 1708160131,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300254,
       "num": 278132,
       "word": "全村小孩挨家挨户拜年大人封2元利是",
@@ -7313,14 +7337,6 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 286597,
-      "num": 286597,
-      "word": "张杰谢娜带娃度假",
-      "onboard_time": 1708161032,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 286540,
@@ -7835,6 +7851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264289,
+      "num": 264289,
+      "word": "米兰时装周嘉宾名单",
+      "onboard_time": 1708161632,
+      "rank": 19,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 264127,
       "num": 264127,
       "word": "贾玲不觉得自己幽默是因为胖",
@@ -7993,14 +8017,6 @@
       "onboard_time": 1707801274,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257035,
-      "num": 257035,
-      "word": "大梦归离杀青",
-      "onboard_time": 1708160131,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 256859,
@@ -8987,14 +9003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227260,
-      "num": 187388,
-      "word": "一出生就是陈皮",
-      "onboard_time": 1708160370,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 226604,
       "num": 226604,
       "word": "热辣滚烫广州路演",
@@ -9691,6 +9699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209803,
+      "num": 209803,
+      "word": "眼泪女王",
+      "onboard_time": 1708161991,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209313,
       "num": 209313,
       "word": "余景天连发两条微博回应",
@@ -10347,6 +10363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198541,
+      "num": 198541,
+      "word": "假期真的越久越好吗",
+      "onboard_time": 1708160072,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198513,
       "num": 198513,
       "word": "会装睡且能听懂人话的狗狗",
@@ -10633,6 +10657,14 @@
       "onboard_time": 1708005336,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193939,
+      "num": 193939,
+      "word": "陈都灵捧花杀青照",
+      "onboard_time": 1708161091,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 193349,
@@ -11043,6 +11075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186656,
+      "num": 186656,
+      "word": "王鹤棣遗憾没得20分",
+      "onboard_time": 1708159591,
+      "rank": 37,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 186531,
       "num": 186531,
       "word": "冰雪大世界化了",
@@ -11137,14 +11177,6 @@
       "onboard_time": 1707925654,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184727,
-      "num": 184727,
-      "word": "假期真的越久越好吗",
-      "onboard_time": 1708160072,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 184681,
@@ -11521,14 +11553,6 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177688,
-      "num": 177688,
-      "word": "王鹤棣遗憾没得20分",
-      "onboard_time": 1708159591,
-      "rank": 37,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 177095,
@@ -13155,6 +13179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151874,
+      "num": 198974,
+      "word": "马面裙成龙年春节穿搭爆款",
+      "onboard_time": 1708161991,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 151832,
       "num": 151832,
       "word": "胡锡进谈OpenAI Sora",
@@ -13219,6 +13251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151056,
+      "num": 151056,
+      "word": "手机充电时先插哪一头",
+      "onboard_time": 1708161870,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150855,
       "num": 150855,
       "word": "在人间 项目介绍",
@@ -13265,14 +13305,6 @@
       "onboard_time": 1707813700,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150683,
-      "num": 150683,
-      "word": "陈都灵捧花杀青照",
-      "onboard_time": 1708161091,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 150438,
@@ -13640,6 +13672,14 @@
       "word": "大多数人一辈子都在追求优越感",
       "onboard_time": 1707972090,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144569,
+      "num": 144569,
+      "word": "开工红包该不该给",
+      "onboard_time": 1708162109,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -16625,6 +16665,14 @@
       "onboard_time": 1707572259,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84665,
+      "num": 153439,
+      "word": "库里视频回应网友9月中国行",
+      "onboard_time": 1708162290,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 84497,

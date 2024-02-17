@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708161346472,
+  "endTime": 1708162450056,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -19,8 +19,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2452767,
-      "num": 2452767,
+      "raw_hot": 2501889,
+      "num": 2501889,
       "word": "孙颖莎爆冷输印度选手",
       "onboard_time": 1708157249,
       "rank": 7,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1166959,
+      "num": 1166959,
+      "word": "飞驰人生2被删减剧情",
+      "onboard_time": 1708160854,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1120924,
       "num": 1120924,
       "word": "王鹤棣破中国明星名人赛历史记录",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840386,
+      "num": 840386,
+      "word": "张杰谢娜带娃度假",
+      "onboard_time": 1708161032,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 831162,
       "num": 831162,
       "word": "贾玲汪东城早期综艺画面",
@@ -265,6 +281,14 @@
       "onboard_time": 1708139851,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 810062,
+      "num": 810062,
+      "word": "农村未成年人的手机之困",
+      "onboard_time": 1708158212,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 800204,
@@ -377,14 +401,6 @@
       "onboard_time": 1708129227,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 638577,
-      "num": 638577,
-      "word": "农村未成年人的手机之困",
-      "onboard_time": 1708158212,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629067,
@@ -505,14 +521,6 @@
       "onboard_time": 1708144052,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491545,
-      "num": 491545,
-      "word": "飞驰人生2被删减剧情",
-      "onboard_time": 1708160854,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 487276,
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330190,
+      "num": 261219,
+      "word": "一出生就是陈皮",
+      "onboard_time": 1708160370,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328136,
       "num": 328136,
       "word": "今年春晚后劲真大",
@@ -835,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 300310,
+      "num": 300310,
+      "word": "大梦归离杀青",
+      "onboard_time": 1708160131,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294987,
       "num": 294987,
       "word": "顶流胖东来走不出河南",
@@ -865,14 +889,6 @@
       "onboard_time": 1708153951,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286597,
-      "num": 286597,
-      "word": "张杰谢娜带娃度假",
-      "onboard_time": 1708161032,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 283897,
@@ -915,20 +931,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264289,
+      "num": 264289,
+      "word": "米兰时装周嘉宾名单",
+      "onboard_time": 1708161632,
+      "rank": 19,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 259486,
       "num": 259486,
       "word": "格林威治",
       "onboard_time": 1708141774,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257035,
-      "num": 257035,
-      "word": "大梦归离杀青",
-      "onboard_time": 1708160131,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 251322,
@@ -1067,14 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227260,
-      "num": 187388,
-      "word": "一出生就是陈皮",
-      "onboard_time": 1708160370,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 225383,
       "num": 225383,
       "word": "孩子落水被救母亲买新衣上门感谢",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1708153833,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209803,
+      "num": 209803,
+      "word": "眼泪女王",
+      "onboard_time": 1708161991,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 209313,
@@ -1251,12 +1267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198541,
+      "num": 198541,
+      "word": "假期真的越久越好吗",
+      "onboard_time": 1708160072,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196779,
       "num": 196779,
       "word": "开了12个小时车开不出安徽",
       "onboard_time": 1708134269,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193939,
+      "num": 193939,
+      "word": "陈都灵捧花杀青照",
+      "onboard_time": 1708161091,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 193674,
@@ -1347,20 +1379,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186656,
+      "num": 186656,
+      "word": "王鹤棣遗憾没得20分",
+      "onboard_time": 1708159591,
+      "rank": 37,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 185512,
       "num": 185512,
       "word": "阿姨 完蛋真碰到穷鬼了",
       "onboard_time": 1708095937,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184727,
-      "num": 184727,
-      "word": "假期真的越久越好吗",
-      "onboard_time": 1708160072,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 183656,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1708142912,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177688,
-      "num": 177688,
-      "word": "王鹤棣遗憾没得20分",
-      "onboard_time": 1708159591,
-      "rank": 37,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 177095,
@@ -1587,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151874,
+      "num": 198974,
+      "word": "马面裙成龙年春节穿搭爆款",
+      "onboard_time": 1708161991,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 151527,
       "num": 151527,
       "word": "飞驰人生2 一爽到底",
@@ -1595,12 +1627,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150683,
-      "num": 150683,
-      "word": "陈都灵捧花杀青照",
-      "onboard_time": 1708161091,
+      "raw_hot": 151056,
+      "num": 151056,
+      "word": "手机充电时先插哪一头",
+      "onboard_time": 1708161870,
       "rank": 42,
-      "category": "剧集"
+      "category": "数码"
     },
     {
       "raw_hot": 149590,
@@ -1648,6 +1680,14 @@
       "word": "一生自省的中国人",
       "onboard_time": 1708157909,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144569,
+      "num": 144569,
+      "word": "开工红包该不该给",
+      "onboard_time": 1708162109,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -1961,6 +2001,14 @@
       "onboard_time": 1708092815,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84665,
+      "num": 153439,
+      "word": "库里视频回应网友9月中国行",
+      "onboard_time": 1708162290,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 84497,
