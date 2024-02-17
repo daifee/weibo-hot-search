@@ -1,0 +1,410 @@
+{
+  "runTime": 1708173779199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418470,
+        "num": 1418470,
+        "word": "魏晨你咋在这",
+        "onboard_time": 1708170693,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1039222,
+        "num": 1039222,
+        "word": "赵今麦发了30多张自拍",
+        "onboard_time": 1708166912,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6706,
+        "num": 921465,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359715,
+        "num": 917383,
+        "word": "央视网评论傅园慧求助",
+        "onboard_time": 1708162593,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 908080,
+        "num": 908080,
+        "word": "孙楠回应当年歌手退赛",
+        "onboard_time": 1708170271,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 759829,
+        "num": 759829,
+        "word": "王安宇男友照",
+        "onboard_time": 1708172315,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707990,
+        "num": 707990,
+        "word": "白敬亭跳的是科目三吗",
+        "onboard_time": 1708164571,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673232,
+        "num": 673232,
+        "word": "成毅披发",
+        "onboard_time": 1708172493,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 574031,
+        "num": 574031,
+        "word": "网红店攻占县城",
+        "onboard_time": 1708169971,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550876,
+        "num": 550876,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 473308,
+        "num": 473308,
+        "word": "NBA官方发了王鹤棣",
+        "onboard_time": 1708171231,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 398887,
+        "num": 398887,
+        "word": "周杰伦昆凌看霉霉演唱会",
+        "onboard_time": 1708167691,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373734,
+        "num": 373734,
+        "word": "孙千陈靖可新中式情侣装",
+        "onboard_time": 1708171110,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358416,
+        "num": 358416,
+        "word": "旅客买短乘长致严重超员列车员报警",
+        "onboard_time": 1708163971,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20838,
+        "num": 351467,
+        "word": "好六同款开年装备淘宝上新",
+        "onboard_time": 1708171652,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345264,
+        "num": 345264,
+        "word": "亲友回应傅园慧被勒索",
+        "onboard_time": 1708166431,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334763,
+        "num": 334763,
+        "word": "飞驰人生2被删减剧情",
+        "onboard_time": 1708160854,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314672,
+        "num": 314672,
+        "word": "其实我不爱吃牛蛙",
+        "onboard_time": 1708154371,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313649,
+        "num": 313649,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282640,
+        "num": 282640,
+        "word": "创造营亚洲第一次公演",
+        "onboard_time": 1708173032,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259430,
+        "num": 259430,
+        "word": "吴世勋中国杂志销量",
+        "onboard_time": 1708173391,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216021,
+        "num": 216021,
+        "word": "父母健在说明你的福报很大",
+        "onboard_time": 1708168292,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213381,
+        "num": 213381,
+        "word": "官方称将对勒索傅园慧司机严厉惩处",
+        "onboard_time": 1708159052,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404042,
+        "num": 212667,
+        "word": "炎亚纶 感谢法官让我能海外工作",
+        "onboard_time": 1708165652,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210993,
+        "num": 210993,
+        "word": "孙颖莎爆冷输印度选手",
+        "onboard_time": 1708157249,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207936,
+        "num": 207936,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186994,
+        "num": 186994,
+        "word": "热辣滚烫 重重拿起又轻轻放下",
+        "onboard_time": 1708158750,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180848,
+        "num": 180848,
+        "word": "十四冬开幕式",
+        "onboard_time": 1708170871,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179734,
+        "num": 179734,
+        "word": "单依纯真大学生记忆力",
+        "onboard_time": 1708170813,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176412,
+        "num": 176412,
+        "word": "张杰谢娜带娃度假",
+        "onboard_time": 1708161032,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176262,
+        "num": 176262,
+        "word": "孙千陈靖可认领cp名",
+        "onboard_time": 1708168773,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174178,
+        "num": 174178,
+        "word": "开工前防脱发喷雾已卖4万份",
+        "onboard_time": 1708171771,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169885,
+        "num": 169885,
+        "word": "今年上班251天",
+        "onboard_time": 1708173273,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167054,
+        "num": 167054,
+        "word": "蒲熠星告别名侦探学院",
+        "onboard_time": 1708164274,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163942,
+        "num": 163942,
+        "word": "李响 什么人适合学习舞蹈",
+        "onboard_time": 1708172431,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 162974,
+        "num": 162974,
+        "word": "韩路 小医院看小病都这么不靠谱",
+        "onboard_time": 1708168353,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 613797,
+        "num": 159957,
+        "word": "沈腾自编自导自演新电影",
+        "onboard_time": 1708166492,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141806,
+        "num": 141806,
+        "word": "姆巴佩将放弃超1亿欧奖金",
+        "onboard_time": 1708164029,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140482,
+        "num": 140482,
+        "word": "小狗应该觉得自己也是一个小盆友吧",
+        "onboard_time": 1708169733,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136643,
+        "num": 136643,
+        "word": "国家免费补课平台",
+        "onboard_time": 1708153709,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135741,
+        "num": 135741,
+        "word": "明天要上班",
+        "onboard_time": 1708167993,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132695,
+        "num": 132695,
+        "word": "车厘子降价我怎么还是买不起",
+        "onboard_time": 1708156950,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129542,
+        "num": 129542,
+        "word": "豆豆的手印",
+        "onboard_time": 1708169254,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127328,
+        "num": 127328,
+        "word": "魔卡少女樱 老画风绝美",
+        "onboard_time": 1708172253,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124614,
+        "num": 124614,
+        "word": "空中视角看十四冬主会场",
+        "onboard_time": 1708173214,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122000,
+        "num": 122000,
+        "word": "农村未成年人的手机之困",
+        "onboard_time": 1708158212,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121901,
+        "num": 121901,
+        "word": "孙千马思纯合照",
+        "onboard_time": 1708170210,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116835,
+        "num": 116835,
+        "word": "祝你过上这样的生活",
+        "onboard_time": 1708173692,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116747,
+        "num": 116747,
+        "word": "陈楚生笑点不断",
+        "onboard_time": 1708169434,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113229,
+        "num": 113229,
+        "word": "于适飞驰人生细节",
+        "onboard_time": 1708168833,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#佳句里凝练着中国人的智慧和风骨#"
+    }
+  }
+}
