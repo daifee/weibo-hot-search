@@ -1,0 +1,410 @@
+{
+  "runTime": 1708165004763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2634517,
+        "num": 2634517,
+        "word": "央视网评论傅园慧求助",
+        "onboard_time": 1708162593,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1355110,
+        "num": 1355110,
+        "word": "孙颖莎爆冷输印度选手",
+        "onboard_time": 1708157249,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6566,
+        "num": 1177887,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169807,
+        "num": 1169807,
+        "word": "飞驰人生2被删减剧情",
+        "onboard_time": 1708160854,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 864861,
+        "num": 864861,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 782241,
+        "num": 782241,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750544,
+        "num": 750544,
+        "word": "国家免费补课平台",
+        "onboard_time": 1708153709,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 638808,
+        "num": 638808,
+        "word": "官方称将对勒索傅园慧司机严厉惩处",
+        "onboard_time": 1708159052,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113032,
+        "num": 616195,
+        "word": "雪崩后交警救出小朋友暖心安慰",
+        "onboard_time": 1708163438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155271,
+        "num": 613890,
+        "word": "中医学生地铁里妙手施针救醒晕倒女子",
+        "onboard_time": 1708163438,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 613144,
+        "num": 613144,
+        "word": "其实我不爱吃牛蛙",
+        "onboard_time": 1708154371,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550770,
+        "num": 550770,
+        "word": "张杰谢娜带娃度假",
+        "onboard_time": 1708161032,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542281,
+        "num": 542281,
+        "word": "农村未成年人的手机之困",
+        "onboard_time": 1708158212,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500670,
+        "num": 500670,
+        "word": "蒲熠星告别名侦探学院",
+        "onboard_time": 1708164274,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455315,
+        "num": 455315,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434366,
+        "num": 434366,
+        "word": "白敬亭金晨反应力",
+        "onboard_time": 1708162712,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400913,
+        "num": 400913,
+        "word": "旅客买短乘长致严重超员列车员报警",
+        "onboard_time": 1708163971,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396006,
+        "num": 396006,
+        "word": "热辣滚烫 重重拿起又轻轻放下",
+        "onboard_time": 1708158750,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329352,
+        "num": 329352,
+        "word": "第二十条票房破13亿",
+        "onboard_time": 1708163010,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323030,
+        "num": 323030,
+        "word": "明年不会来你家了",
+        "onboard_time": 1708147473,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318346,
+        "num": 318346,
+        "word": "姆巴佩将放弃超1亿欧奖金",
+        "onboard_time": 1708164029,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316578,
+        "num": 316578,
+        "word": "米兰时装周嘉宾名单",
+        "onboard_time": 1708161632,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 283695,
+        "num": 283695,
+        "word": "白敬亭跳的是科目三吗",
+        "onboard_time": 1708164571,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266025,
+        "num": 266025,
+        "word": "一出生就是陈皮",
+        "onboard_time": 1708160370,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279120,
+        "num": 260861,
+        "word": "金晨卷发",
+        "onboard_time": 1708163852,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247457,
+        "num": 247457,
+        "word": "不想工作但是很穷",
+        "onboard_time": 1708163310,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278983,
+        "num": 243833,
+        "word": "白敬亭你好星期六发带剧照",
+        "onboard_time": 1708139731,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237962,
+        "num": 237962,
+        "word": "余景天秒删",
+        "onboard_time": 1708148614,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431278,
+        "num": 237149,
+        "word": "傅园慧长白山发博求助",
+        "onboard_time": 1708137213,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230980,
+        "num": 230980,
+        "word": "小哥纹身来改变鼻子形状",
+        "onboard_time": 1708157131,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 228742,
+        "num": 228742,
+        "word": "车厘子降价我怎么还是买不起",
+        "onboard_time": 1708156950,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225811,
+        "num": 225811,
+        "word": "原来猫猫能听懂别人说他们丑",
+        "onboard_time": 1708164029,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195529,
+        "num": 195529,
+        "word": "大梦归离杀青",
+        "onboard_time": 1708160131,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193052,
+        "num": 193052,
+        "word": "赵露思上学时期旧照",
+        "onboard_time": 1708155811,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 192347,
+        "word": "傅园慧称问题已解决",
+        "onboard_time": 1708141351,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181575,
+        "num": 181575,
+        "word": "回趟家把自信又变成了自卑",
+        "onboard_time": 1708162830,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180719,
+        "num": 180719,
+        "word": "侯雯元录综艺背了钟楚曦的包",
+        "onboard_time": 1708150710,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177787,
+        "num": 177787,
+        "word": "马面裙成龙年春节穿搭爆款",
+        "onboard_time": 1708161991,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 166300,
+        "num": 166300,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708149391,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160296,
+        "num": 160296,
+        "word": "长假可能让人更易焦虑",
+        "onboard_time": 1708164513,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159317,
+        "num": 159317,
+        "word": "切尔诺贝利的狼已进化出抗癌能力",
+        "onboard_time": 1708143754,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "手机充电时先插哪一头",
+        "onboard_time": 1708161870,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155138,
+        "num": 155138,
+        "word": "以防有人不会区分水獭和海獭",
+        "onboard_time": 1708163733,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156097,
+        "num": 154218,
+        "word": "张杰辟谣官宣演唱会",
+        "onboard_time": 1708159712,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "大龄未婚农村男性不再焦虑婚姻",
+        "onboard_time": 1708150054,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143073,
+        "num": 143073,
+        "word": "王鹤棣遗憾没得20分",
+        "onboard_time": 1708159591,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 141964,
+        "num": 141964,
+        "word": "黑执事画风 悬着的心死了",
+        "onboard_time": 1708159832,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 139237,
+        "num": 139237,
+        "word": "地下室改造后能有多绝",
+        "onboard_time": 1708164391,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138842,
+        "num": 138842,
+        "word": "眼泪女王",
+        "onboard_time": 1708161991,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128346,
+        "num": 128346,
+        "word": "陈都灵捧花杀青照",
+        "onboard_time": 1708161091,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}

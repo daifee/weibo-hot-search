@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708162450056,
+  "endTime": 1708165004763,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -193,6 +193,14 @@
       "onboard_time": 1708135349,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2634517,
+      "num": 2634517,
+      "word": "央视网评论傅园慧求助",
+      "onboard_time": 1708162593,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2623831,
@@ -1283,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1169807,
+      "num": 1169807,
+      "word": "飞驰人生2被删减剧情",
+      "onboard_time": 1708160854,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1169127,
       "num": 1169127,
       "word": "跑步的是贾玲瘦的是整个剧组",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1708135649,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1166959,
-      "num": 1166959,
-      "word": "飞驰人生2被删减剧情",
-      "onboard_time": 1708160854,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1161085,
@@ -4459,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500670,
+      "num": 500670,
+      "word": "蒲熠星告别名侦探学院",
+      "onboard_time": 1708164274,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500505,
       "num": 410666,
       "word": "魏晨督促白敬亭魏大勋排练",
@@ -5147,6 +5163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434366,
+      "num": 434366,
+      "word": "白敬亭金晨反应力",
+      "onboard_time": 1708162712,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434348,
       "num": 434348,
       "word": "为救同学挡8刀的女孩成为反诈民警",
@@ -5632,6 +5656,14 @@
       "word": "大年初三主打一个好好休息",
       "onboard_time": 1707699087,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400913,
+      "num": 400913,
+      "word": "旅客买短乘长致严重超员列车员报警",
+      "onboard_time": 1708163971,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -6604,7 +6636,7 @@
     },
     {
       "raw_hot": 330190,
-      "num": 261219,
+      "num": 266025,
       "word": "一出生就是陈皮",
       "onboard_time": 1708160370,
       "rank": 30,
@@ -6617,6 +6649,14 @@
       "onboard_time": 1707625288,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329352,
+      "num": 329352,
+      "word": "第二十条票房破13亿",
+      "onboard_time": 1708163010,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 328680,
@@ -6755,6 +6795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318346,
+      "num": 318346,
+      "word": "姆巴佩将放弃超1亿欧奖金",
+      "onboard_time": 1708164029,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318000,
       "num": 318000,
       "word": "边伯贤泡泡",
@@ -6785,6 +6833,14 @@
       "onboard_time": 1707750580,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316578,
+      "num": 316578,
+      "word": "米兰时装周嘉宾名单",
+      "onboard_time": 1708161632,
+      "rank": 19,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 316114,
@@ -7427,6 +7483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283695,
+      "num": 283695,
+      "word": "白敬亭跳的是科目三吗",
+      "onboard_time": 1708164571,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283405,
       "num": 283405,
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
@@ -7481,6 +7545,14 @@
       "onboard_time": 1707883173,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279120,
+      "num": 260861,
+      "word": "金晨卷发",
+      "onboard_time": 1708163852,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278981,
@@ -7849,14 +7921,6 @@
       "onboard_time": 1708081412,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264289,
-      "num": 264289,
-      "word": "米兰时装周嘉宾名单",
-      "onboard_time": 1708161632,
-      "rank": 19,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 264127,
@@ -8257,6 +8321,14 @@
       "onboard_time": 1707804759,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247457,
+      "num": 247457,
+      "word": "不想工作但是很穷",
+      "onboard_time": 1708163310,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 246630,
@@ -9025,6 +9097,14 @@
       "onboard_time": 1708010198,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225811,
+      "num": 225811,
+      "word": "原来猫猫能听懂别人说他们丑",
+      "onboard_time": 1708164029,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 225766,
@@ -10755,6 +10835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192347,
+      "num": 192347,
+      "word": "傅园慧称问题已解决",
+      "onboard_time": 1708141351,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192215,
       "num": 192215,
       "word": "宠娃奶奶给4岁孙女做50条新裙子",
@@ -11331,6 +11419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181575,
+      "num": 181575,
+      "word": "回趟家把自信又变成了自卑",
+      "onboard_time": 1708162830,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "大年初七不教训孩子",
@@ -11531,14 +11627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178600,
-      "num": 178600,
-      "word": "傅园慧称问题已解决",
-      "onboard_time": 1708141351,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178389,
       "num": 178389,
       "word": "潘展乐送韩国对手新年礼物",
@@ -11553,6 +11641,14 @@
       "onboard_time": 1707637711,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177787,
+      "num": 198974,
+      "word": "马面裙成龙年春节穿搭爆款",
+      "onboard_time": 1708161991,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 177095,
@@ -12619,6 +12715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160296,
+      "num": 160296,
+      "word": "长假可能让人更易焦虑",
+      "onboard_time": 1708164513,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160092,
       "num": 160092,
       "word": "刘德华说从来没争过番位",
@@ -12761,6 +12865,14 @@
       "onboard_time": 1708130669,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158305,
+      "num": 158305,
+      "word": "手机充电时先插哪一头",
+      "onboard_time": 1708161870,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 158302,
@@ -12971,12 +13083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155271,
+      "num": 613890,
+      "word": "中医学生地铁里妙手施针救醒晕倒女子",
+      "onboard_time": 1708163438,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 155201,
       "num": 155201,
       "word": "过年回村的狗狗被当地土著排挤",
       "onboard_time": 1707829060,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155138,
+      "num": 155138,
+      "word": "以防有人不会区分水獭和海獭",
+      "onboard_time": 1708163733,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 155085,
@@ -13179,14 +13307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151874,
-      "num": 198974,
-      "word": "马面裙成龙年春节穿搭爆款",
-      "onboard_time": 1708161991,
-      "rank": 28,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 151832,
       "num": 151832,
       "word": "胡锡进谈OpenAI Sora",
@@ -13249,14 +13369,6 @@
       "onboard_time": 1707646289,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151056,
-      "num": 151056,
-      "word": "手机充电时先插哪一头",
-      "onboard_time": 1708161870,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 150855,
@@ -14057,6 +14169,14 @@
       "onboard_time": 1707722851,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139237,
+      "num": 139237,
+      "word": "地下室改造后能有多绝",
+      "onboard_time": 1708164391,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 139180,
@@ -15777,6 +15897,14 @@
       "onboard_time": 1707818259,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113032,
+      "num": 616195,
+      "word": "雪崩后交警救出小朋友暖心安慰",
+      "onboard_time": 1708163438,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113023,
