@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708208304252,
+  "endTime": 1708209251803,
   "band_list": [
     {
       "raw_hot": 1253214,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181022,
+      "num": 181022,
+      "word": "专家谈胖东来开除当事员工",
+      "onboard_time": 1708203496,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178821,
       "num": 168956,
       "word": "海口回应被指过海效率低",
@@ -305,14 +313,6 @@
       "onboard_time": 1708167691,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144314,
-      "num": 144314,
-      "word": "专家谈胖东来开除当事员工",
-      "onboard_time": 1708203496,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140000,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30470,
+      "num": 24527,
+      "word": "大学生为祖父母劈柴700多斤",
+      "onboard_time": 1708206496,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25428,
       "num": 48653,
       "word": "十四冬开幕式今日举行",
@@ -473,14 +481,6 @@
       "onboard_time": 1708192041,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 23078,
-      "num": 20107,
-      "word": "大学生为祖父母劈柴700多斤",
-      "onboard_time": 1708206496,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19659,
@@ -499,28 +499,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13097,
-      "num": 18979,
+      "raw_hot": 15373,
+      "num": 22065,
+      "word": "王鹤棣名人赛G社生图",
+      "onboard_time": 1708207396,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14761,
+      "num": 22072,
       "word": "姚玉玲贾金龙看对眼了",
       "onboard_time": 1708203795,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 13039,
-      "num": 18976,
+      "raw_hot": 14378,
+      "num": 22062,
       "word": "卡皮巴拉型小狗",
       "onboard_time": 1708204754,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12962,
-      "num": 18970,
-      "word": "王鹤棣名人赛G社生图",
-      "onboard_time": 1708207396,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12654,
