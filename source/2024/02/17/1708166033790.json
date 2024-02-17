@@ -1,0 +1,410 @@
+{
+  "runTime": 1708166033790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2707577,
+        "num": 2707577,
+        "word": "央视网评论傅园慧求助",
+        "onboard_time": 1708162593,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1065278,
+        "num": 1065278,
+        "word": "孙颖莎爆冷输印度选手",
+        "onboard_time": 1708157249,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7344,
+        "num": 1042368,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037013,
+        "num": 1037013,
+        "word": "飞驰人生2被删减剧情",
+        "onboard_time": 1708160854,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 796143,
+        "num": 796143,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 759844,
+        "num": 759844,
+        "word": "旅客买短乘长致严重超员列车员报警",
+        "onboard_time": 1708163971,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700024,
+        "num": 700024,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 670879,
+        "num": 670879,
+        "word": "国家免费补课平台",
+        "onboard_time": 1708153709,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119356,
+        "num": 656673,
+        "word": "雪崩后交警救出小朋友暖心安慰",
+        "onboard_time": 1708163438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180857,
+        "num": 648527,
+        "word": "中医学生地铁里妙手施针救醒晕倒女子",
+        "onboard_time": 1708163438,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 646839,
+        "num": 646839,
+        "word": "白敬亭跳的是科目三吗",
+        "onboard_time": 1708164571,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637793,
+        "num": 637793,
+        "word": "蒲熠星告别名侦探学院",
+        "onboard_time": 1708164274,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619636,
+        "num": 619636,
+        "word": "其实我不爱吃牛蛙",
+        "onboard_time": 1708154371,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490378,
+        "num": 490378,
+        "word": "官方称将对勒索傅园慧司机严厉惩处",
+        "onboard_time": 1708159052,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461834,
+        "num": 461834,
+        "word": "张杰谢娜带娃度假",
+        "onboard_time": 1708161032,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426747,
+        "num": 426747,
+        "word": "姆巴佩将放弃超1亿欧奖金",
+        "onboard_time": 1708164029,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424234,
+        "num": 424234,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371058,
+        "num": 371058,
+        "word": "农村未成年人的手机之困",
+        "onboard_time": 1708158212,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347112,
+        "num": 347112,
+        "word": "热辣滚烫 重重拿起又轻轻放下",
+        "onboard_time": 1708158750,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312440,
+        "num": 312440,
+        "word": "白敬亭金晨反应力",
+        "onboard_time": 1708162712,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288735,
+        "num": 288735,
+        "word": "第二十条票房破13亿",
+        "onboard_time": 1708163010,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254394,
+        "num": 254394,
+        "word": "明年不会来你家了",
+        "onboard_time": 1708147473,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249424,
+        "num": 249424,
+        "word": "炎亚纶 感谢法官让我能海外工作",
+        "onboard_time": 1708165652,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241710,
+        "num": 241710,
+        "word": "长假可能让人更易焦虑",
+        "onboard_time": 1708164513,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306644,
+        "num": 235893,
+        "word": "金晨卷发",
+        "onboard_time": 1708163852,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226136,
+        "num": 226136,
+        "word": "不想工作但是很穷",
+        "onboard_time": 1708163310,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223157,
+        "num": 223157,
+        "word": "原来猫猫能听懂别人说他们丑",
+        "onboard_time": 1708164029,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214212,
+        "num": 214212,
+        "word": "余景天秒删",
+        "onboard_time": 1708148614,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209065,
+        "num": 209065,
+        "word": "一出生就是陈皮",
+        "onboard_time": 1708160370,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200191,
+        "num": 200191,
+        "word": "傅园慧称问题已解决",
+        "onboard_time": 1708141351,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198476,
+        "num": 198476,
+        "word": "车厘子降价我怎么还是买不起",
+        "onboard_time": 1708156950,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197786,
+        "num": 197786,
+        "word": "白敬亭你好星期六发带剧照",
+        "onboard_time": 1708139731,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193571,
+        "num": 193571,
+        "word": "米兰时装周嘉宾名单",
+        "onboard_time": 1708161632,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180113,
+        "num": 180113,
+        "word": "小哥纹身来改变鼻子形状",
+        "onboard_time": 1708157131,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 171511,
+        "num": 171511,
+        "word": "侯雯元录综艺背了钟楚曦的包",
+        "onboard_time": 1708150710,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170341,
+        "num": 170341,
+        "word": "回趟家把自信又变成了自卑",
+        "onboard_time": 1708162830,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169002,
+        "num": 169002,
+        "word": "赵露思上学时期旧照",
+        "onboard_time": 1708155811,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168758,
+        "num": 168758,
+        "word": "泰国蛇形雕塑",
+        "onboard_time": 1708165173,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167008,
+        "num": 167008,
+        "word": "手机充电时先插哪一头",
+        "onboard_time": 1708161870,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158285,
+        "num": 158285,
+        "word": "大梦归离杀青",
+        "onboard_time": 1708160131,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146335,
+        "num": 146335,
+        "word": "地下室改造后能有多绝",
+        "onboard_time": 1708164391,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141068,
+        "num": 141068,
+        "word": "马面裙成龙年春节穿搭爆款",
+        "onboard_time": 1708161991,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139521,
+        "num": 139521,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708149391,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131781,
+        "num": 131781,
+        "word": "大龄未婚农村男性不再焦虑婚姻",
+        "onboard_time": 1708150054,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127681,
+        "num": 127681,
+        "word": "结婚这么好还用催吗",
+        "onboard_time": 1708166013,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413110,
+        "num": 127662,
+        "word": "傅园慧长白山发博求助",
+        "onboard_time": 1708137213,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127475,
+        "num": 127475,
+        "word": "切尔诺贝利的狼已进化出抗癌能力",
+        "onboard_time": 1708143754,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125971,
+        "num": 125971,
+        "word": "黑执事画风 悬着的心死了",
+        "onboard_time": 1708159832,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 121608,
+        "num": 121608,
+        "word": "赵今麦哈尔滨拍戏",
+        "onboard_time": 1708153951,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120536,
+        "num": 120536,
+        "word": "王鹤棣遗憾没得20分",
+        "onboard_time": 1708159591,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
