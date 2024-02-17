@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708173779199,
+  "endTime": 1708175821763,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2233,6 +2233,14 @@
       "onboard_time": 1707098132,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1544318,
+      "num": 1544318,
+      "word": "王安宇男友照",
+      "onboard_time": 1708172315,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1543934,
@@ -5099,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942156,
+      "num": 942156,
+      "word": "魏大勋  韦一敏效应",
+      "onboard_time": 1708173933,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 942092,
       "num": 942092,
       "word": "客服回应梅西仍为蒙牛代言人",
@@ -6859,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 771887,
+      "num": 771887,
+      "word": "今年上班251天",
+      "onboard_time": 1708173273,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769830,
       "num": 769830,
       "word": "张颂文 你心里不也骂了人家几小时",
@@ -6953,14 +6977,6 @@
       "onboard_time": 1707121771,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 759829,
-      "num": 759829,
-      "word": "王安宇男友照",
-      "onboard_time": 1708172315,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 759339,
@@ -8779,6 +8795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640349,
+      "num": 640349,
+      "word": "乙骨忧太也被腰斩",
+      "onboard_time": 1708174593,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 639593,
       "num": 639593,
       "word": "马斯克被曝与特斯拉董事一起吸毒",
@@ -9145,6 +9169,14 @@
       "onboard_time": 1707829060,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623651,
+      "num": 623651,
+      "word": "海南离岛严重拥堵有人排14小时上船",
+      "onboard_time": 1708173814,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623433,
@@ -10273,6 +10305,14 @@
       "onboard_time": 1706958750,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556915,
+      "num": 556915,
+      "word": "NBA官方发了王鹤棣",
+      "onboard_time": 1708171231,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 556223,
@@ -11891,6 +11931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491252,
+      "num": 491252,
+      "word": "贾玲大波浪",
+      "onboard_time": 1708175555,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 490385,
       "num": 490385,
       "word": "张波叶诚尘一审互咬二审互助",
@@ -12345,14 +12393,6 @@
       "onboard_time": 1706943870,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473308,
-      "num": 473308,
-      "word": "NBA官方发了王鹤棣",
-      "onboard_time": 1708171231,
-      "rank": 16,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 472864,
@@ -14513,6 +14553,14 @@
       "onboard_time": 1707275129,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398770,
+      "num": 398770,
+      "word": "吴世勋中国杂志销量",
+      "onboard_time": 1708173391,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398623,
@@ -16963,6 +17011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330042,
+      "num": 309529,
+      "word": "孙颖莎爆冷输球的原因在哪里",
+      "onboard_time": 1708174535,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329798,
       "num": 329798,
       "word": "回南天",
@@ -17137,6 +17193,14 @@
       "onboard_time": 1708077868,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 326252,
+      "num": 212202,
+      "word": "官方通报傅园慧包车被勒索",
+      "onboard_time": 1708175794,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 326098,
@@ -19707,6 +19771,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 277168,
+      "num": 277168,
+      "word": "车厘子价格膝盖斩背后的真相",
+      "onboard_time": 1708174234,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 276948,
       "num": 276948,
       "word": "摇太阳退出春节档",
@@ -20753,14 +20825,6 @@
       "onboard_time": 1708141774,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259430,
-      "num": 259430,
-      "word": "吴世勋中国杂志销量",
-      "onboard_time": 1708173391,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259368,
@@ -23339,6 +23403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229532,
+      "num": 229532,
+      "word": "第十四届全国冬季运动会开幕",
+      "onboard_time": 1708174894,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229409,
       "num": 229409,
       "word": "热辣滚烫不是讲减重的电影",
@@ -25051,6 +25123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212802,
+      "num": 212802,
+      "word": "如果猫不小心被关在门外",
+      "onboard_time": 1708174112,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212708,
       "num": 212708,
       "word": "马立奥 冬日宅家很适合学习英语",
@@ -26577,6 +26657,14 @@
       "onboard_time": 1707099689,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202567,
+      "num": 202567,
+      "word": "王源串糖葫芦",
+      "onboard_time": 1708174772,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202533,
@@ -28825,6 +28913,14 @@
       "onboard_time": 1707627511,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190216,
+      "num": 190216,
+      "word": "王安宇太好梦了",
+      "onboard_time": 1708174234,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190182,
@@ -31499,6 +31595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171876,
+      "num": 171876,
+      "word": "准备一年只为这一分钟",
+      "onboard_time": 1708175735,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171784,
       "num": 171784,
       "word": "在暴雪时分集集吻",
@@ -31849,14 +31953,6 @@
       "onboard_time": 1707905076,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169885,
-      "num": 169885,
-      "word": "今年上班251天",
-      "onboard_time": 1708173273,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169801,
@@ -35035,6 +35131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150947,
+      "num": 150947,
+      "word": "什么是好的申论",
+      "onboard_time": 1708175132,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150855,
       "num": 150855,
       "word": "在人间 项目介绍",
@@ -35905,6 +36009,14 @@
       "onboard_time": 1707731794,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146137,
+      "num": 146137,
+      "word": "隋文静等运动员入场全场鼓掌",
+      "onboard_time": 1708175194,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 146114,
@@ -40387,6 +40499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121627,
+      "num": 121627,
+      "word": "有惊人绘画天赋的自闭症男孩",
+      "onboard_time": 1708175677,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121598,
       "num": 121598,
       "word": "我在八零年代当后妈",
@@ -40657,6 +40777,14 @@
       "onboard_time": 1707704911,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120104,
+      "num": 120104,
+      "word": "祝你过上这样的生活",
+      "onboard_time": 1708173692,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 120047,
@@ -41249,14 +41377,6 @@
       "onboard_time": 1706775628,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116835,
-      "num": 116835,
-      "word": "祝你过上这样的生活",
-      "onboard_time": 1708173692,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 116702,

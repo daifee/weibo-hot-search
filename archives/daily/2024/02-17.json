@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708173779199,
+  "endTime": 1708175821763,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -81,6 +81,14 @@
       "onboard_time": 1708139731,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1544318,
+      "num": 1544318,
+      "word": "王安宇男友照",
+      "onboard_time": 1708172315,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1451356,
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 942156,
+      "num": 942156,
+      "word": "魏大勋  韦一敏效应",
+      "onboard_time": 1708173933,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 941587,
       "num": 726583,
       "word": "粉丝模仿薛之谦晒盗摄图",
@@ -371,19 +387,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 771887,
+      "num": 771887,
+      "word": "今年上班251天",
+      "onboard_time": 1708173273,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766510,
       "num": 766510,
       "word": "炎亚纶 感谢法官让我能海外工作",
       "onboard_time": 1708165652,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 759829,
-      "num": 759829,
-      "word": "王安宇男友照",
-      "onboard_time": 1708172315,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -491,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 640349,
+      "num": 640349,
+      "word": "乙骨忧太也被腰斩",
+      "onboard_time": 1708174593,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 637793,
       "num": 637793,
       "word": "蒲熠星告别名侦探学院",
@@ -513,6 +537,14 @@
       "onboard_time": 1708093895,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 623651,
+      "num": 623651,
+      "word": "海南离岛严重拥堵有人排14小时上船",
+      "onboard_time": 1708173814,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620623,
@@ -545,6 +577,14 @@
       "onboard_time": 1708141712,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556915,
+      "num": 556915,
+      "word": "NBA官方发了王鹤棣",
+      "onboard_time": 1708171231,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 550620,
@@ -635,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491252,
+      "num": 491252,
+      "word": "贾玲大波浪",
+      "onboard_time": 1708175555,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 487276,
       "num": 487276,
       "word": "汪苏泷声生不息音源冠军",
       "onboard_time": 1708149092,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473308,
-      "num": 473308,
-      "word": "NBA官方发了王鹤棣",
-      "onboard_time": 1708171231,
-      "rank": 16,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 472565,
@@ -819,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398770,
+      "num": 398770,
+      "word": "吴世勋中国杂志销量",
+      "onboard_time": 1708173391,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 391365,
       "num": 391365,
       "word": "宋亚轩第一次一个人领奖",
@@ -907,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 330042,
+      "num": 309529,
+      "word": "孙颖莎爆冷输球的原因在哪里",
+      "onboard_time": 1708174535,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329352,
       "num": 329352,
       "word": "第二十条票房破13亿",
@@ -921,6 +977,22 @@
       "onboard_time": 1708145912,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326252,
+      "num": 212202,
+      "word": "官方通报傅园慧包车被勒索",
+      "onboard_time": 1708175794,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 323101,
+      "num": 323101,
+      "word": "小龙糕",
+      "onboard_time": 1708175074,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 320780,
@@ -1099,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277168,
+      "num": 277168,
+      "word": "车厘子价格膝盖斩背后的真相",
+      "onboard_time": 1708174234,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272857,
       "num": 272857,
       "word": "韩国五大医院医生集体辞职抗议医学院扩招",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1708141774,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259430,
-      "num": 259430,
-      "word": "吴世勋中国杂志销量",
-      "onboard_time": 1708173391,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257307,
@@ -1307,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229532,
+      "num": 229532,
+      "word": "第十四届全国冬季运动会开幕",
+      "onboard_time": 1708174894,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225811,
       "num": 225811,
       "word": "原来猫猫能听懂别人说他们丑",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1708168773,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212802,
+      "num": 212802,
+      "word": "如果猫不小心被关在门外",
+      "onboard_time": 1708174112,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 212064,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1708061375,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202567,
+      "num": 202567,
+      "word": "王源串糖葫芦",
+      "onboard_time": 1708174772,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 200688,
@@ -1681,6 +1777,14 @@
       "onboard_time": 1708137213,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 190216,
+      "num": 190216,
+      "word": "王安宇太好梦了",
+      "onboard_time": 1708174234,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 189209,
@@ -1835,12 +1939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169885,
-      "num": 169885,
-      "word": "今年上班251天",
-      "onboard_time": 1708173273,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 171876,
+      "num": 171876,
+      "word": "准备一年只为这一分钟",
+      "onboard_time": 1708175735,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 168758,
@@ -2011,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150947,
+      "num": 150947,
+      "word": "什么是好的申论",
+      "onboard_time": 1708175132,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149590,
       "num": 149590,
       "word": "蒲熠星在线进中止间休息第一人",
@@ -2065,6 +2177,14 @@
       "onboard_time": 1708164391,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146137,
+      "num": 146137,
+      "word": "隋文静等运动员入场全场鼓掌",
+      "onboard_time": 1708175194,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 145191,
@@ -2323,12 +2443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121627,
+      "num": 121627,
+      "word": "有惊人绘画天赋的自闭症男孩",
+      "onboard_time": 1708175677,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121231,
       "num": 121231,
       "word": "中美慕尼黑举行会见",
       "onboard_time": 1708125020,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120104,
+      "num": 120104,
+      "word": "祝你过上这样的生活",
+      "onboard_time": 1708173692,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 118799,
@@ -2345,14 +2481,6 @@
       "onboard_time": 1708148973,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116835,
-      "num": 116835,
-      "word": "祝你过上这样的生活",
-      "onboard_time": 1708173692,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 116453,
@@ -2643,7 +2771,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7686,
+      "raw_hot": 8486,
       "num": 1207177,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
