@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708148051460,
+  "endTime": 1708150871132,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1691,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2364769,
+      "num": 2364769,
+      "word": "我也退出春节档了",
+      "onboard_time": 1708146333,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2357336,
       "num": 1535049,
       "word": "张天爱 神经病",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1704248549,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2250087,
-      "num": 2250087,
-      "word": "我也退出春节档了",
-      "onboard_time": 1708146333,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2249156,

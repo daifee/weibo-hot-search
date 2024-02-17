@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708148051460,
+  "endTime": 1708150871132,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -19,8 +19,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2250087,
-      "num": 2250087,
+      "raw_hot": 2364769,
+      "num": 2364769,
       "word": "我也退出春节档了",
       "onboard_time": 1708146333,
       "rank": 7,
@@ -41,6 +41,14 @@
       "onboard_time": 1708096596,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1833098,
+      "num": 1833098,
+      "word": "余景天秒删",
+      "onboard_time": 1708148614,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1750519,
@@ -115,6 +123,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1069815,
+      "num": 479915,
+      "word": "明年不会来你家了",
+      "onboard_time": 1708147473,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1043743,
       "num": 1043743,
       "word": "胖东来未按标准试吃员工被开除",
@@ -129,6 +145,14 @@
       "onboard_time": 1708094493,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 994394,
+      "num": 994394,
+      "word": "公式化的朋友圈",
+      "onboard_time": 1708149155,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 951823,
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776263,
+      "num": 776263,
+      "word": "嘴唇起泡是病毒感染",
+      "onboard_time": 1708146752,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 750417,
       "num": 750417,
       "word": "林孝埈泪洒十四冬赛场",
@@ -275,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666092,
+      "num": 666092,
+      "word": "第一批开电动爹回家的人后悔了",
+      "onboard_time": 1708149571,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 664295,
       "num": 664295,
       "word": "一年八班秦朗",
@@ -289,14 +329,6 @@
       "onboard_time": 1708129227,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 634731,
-      "num": 634731,
-      "word": "嘴唇起泡是病毒感染",
-      "onboard_time": 1708146752,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 629067,
@@ -395,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487276,
+      "num": 487276,
+      "word": "汪苏泷声生不息音源冠军",
+      "onboard_time": 1708149092,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472565,
       "num": 472565,
       "word": "一家人旅游摆摊玩3天赚1000多元",
@@ -467,6 +507,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 417487,
+      "num": 417487,
+      "word": "热辣滚烫票房",
+      "onboard_time": 1708149391,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414610,
       "num": 414610,
       "word": "00后相亲 拘谨的放肆感",
@@ -479,6 +527,14 @@
       "num": 405082,
       "word": "种地吧后陡门村晚",
       "onboard_time": 1708142613,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391365,
+      "num": 391365,
+      "word": "宋亚轩第一次一个人领奖",
+      "onboard_time": 1708147594,
       "rank": 17,
       "category": "综艺"
     },
@@ -513,14 +569,6 @@
       "onboard_time": 1708080333,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355874,
-      "num": 355874,
-      "word": "宋亚轩第一次一个人领奖",
-      "onboard_time": 1708147594,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 349437,
@@ -891,6 +939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205159,
+      "num": 205159,
+      "word": "大龄未婚农村男性不再焦虑婚姻",
+      "onboard_time": 1708150054,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204989,
       "num": 204989,
       "word": "看电影拍摄发朋友圈",
@@ -1051,20 +1107,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184463,
-      "num": 184463,
-      "word": "明年不会来你家了",
-      "onboard_time": 1708147473,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182548,
       "num": 190459,
       "word": "王楚钦3比0佩雷拉",
       "onboard_time": 1708145614,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179048,
+      "num": 179048,
+      "word": "孙千松弛美学",
+      "onboard_time": 1708149332,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 178621,
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175470,
+      "num": 175470,
+      "word": "侯雯元录综艺背了钟楚曦的包",
+      "onboard_time": 1708150710,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174204,
       "num": 174204,
       "word": "邱淑贞拍的女儿沈月",
@@ -1131,6 +1195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165528,
+      "num": 165528,
+      "word": "电影撤档最多春节档",
+      "onboard_time": 1708148550,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164992,
       "num": 164992,
       "word": "就是32返程也会哭啊",
@@ -1152,6 +1224,14 @@
       "word": "中国接力队让解说高喊帅呆了",
       "onboard_time": 1708132710,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160675,
+      "num": 160675,
+      "word": "日本男篮渴望复仇中国男篮",
+      "onboard_time": 1708150352,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1291,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "猫猫托梦",
+      "onboard_time": 1708149510,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126799,
       "num": 126799,
       "word": "春节假期最后一天",
@@ -1323,6 +1411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125451,
+      "num": 125451,
+      "word": "烟火人家",
+      "onboard_time": 1708150710,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123065,
+      "num": 123065,
+      "word": "公交车上偶遇礼貌小狗",
+      "onboard_time": 1708150591,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122276,
       "num": 122276,
       "word": "中国居然有这么多县城没有网约车",
@@ -1337,6 +1441,22 @@
       "onboard_time": 1708125020,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119924,
+      "num": 119924,
+      "word": "女人不能坐器材箱规矩被打破",
+      "onboard_time": 1708150774,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117826,
+      "num": 117826,
+      "word": "粉笔模考 主打陪伴",
+      "onboard_time": 1708148973,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 114903,
