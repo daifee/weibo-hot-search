@@ -1,6 +1,6 @@
 {
   "startTime": 1707582049910,
-  "endTime": 1708146939063,
+  "endTime": 1708148051460,
   "band_list": [
     {
       "raw_hot": 14498230,
@@ -311,6 +311,14 @@
       "num": 2284004,
       "word": "上一个穿错衣服的去甘露寺了",
       "onboard_time": 1707801518,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2250087,
+      "num": 2250087,
+      "word": "我也退出春节档了",
+      "onboard_time": 1708146333,
       "rank": 7,
       "category": "作品衍生"
     },
@@ -3091,14 +3099,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 661303,
-      "num": 661303,
-      "word": "我也退出春节档了",
-      "onboard_time": 1708146333,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 658746,
       "num": 658746,
       "word": "汕头烟花",
@@ -3225,6 +3225,14 @@
       "onboard_time": 1707792633,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 634731,
+      "num": 634731,
+      "word": "嘴唇起泡是病毒感染",
+      "onboard_time": 1708146752,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 633511,
@@ -3867,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 548503,
+      "num": 548503,
+      "word": "春节档还剩四部电影在映",
+      "onboard_time": 1708145492,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 548496,
       "num": 548496,
       "word": "第二十条 校园暴力事件",
@@ -4001,14 +4017,6 @@
       "onboard_time": 1708130549,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532976,
-      "num": 532976,
-      "word": "春节档还剩四部电影在映",
-      "onboard_time": 1708145492,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 531121,
@@ -4315,6 +4323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 501864,
+      "num": 501864,
+      "word": "王一博与穿山甲合照",
+      "onboard_time": 1708144052,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500505,
       "num": 410666,
       "word": "魏晨督促白敬亭魏大勋排练",
@@ -4433,14 +4449,6 @@
       "onboard_time": 1707836260,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 489777,
-      "num": 489777,
-      "word": "王一博与穿山甲合照",
-      "onboard_time": 1708144052,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 488995,
@@ -4577,6 +4585,14 @@
       "onboard_time": 1707837637,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472565,
+      "num": 472565,
+      "word": "一家人旅游摆摊玩3天赚1000多元",
+      "onboard_time": 1708143992,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471944,
@@ -5555,14 +5571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 385341,
-      "num": 385341,
-      "word": "一家人旅游摆摊玩3天赚1000多元",
-      "onboard_time": 1708143992,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384422,
       "num": 384422,
       "word": "貂蝉吕布情限皮肤",
@@ -6032,6 +6040,14 @@
       "word": "杨蓉也嗑双北",
       "onboard_time": 1707869368,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355874,
+      "num": 355874,
+      "word": "宋亚轩第一次一个人领奖",
+      "onboard_time": 1708147594,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -6809,6 +6825,14 @@
       "onboard_time": 1708089637,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300921,
+      "num": 300921,
+      "word": "这腰腹瘦得易如反掌",
+      "onboard_time": 1708146092,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 300254,
@@ -7979,6 +8003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246630,
+      "num": 246630,
+      "word": "大过年和我妈决裂",
+      "onboard_time": 1708145374,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246458,
       "num": 246458,
       "word": "为什么姥姥把房子留给了乐莹",
@@ -8089,6 +8121,14 @@
       "onboard_time": 1707909819,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243023,
+      "num": 243023,
+      "word": "王鹤棣21分钟砍18分",
+      "onboard_time": 1708145852,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 242383,
@@ -8259,14 +8299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238851,
-      "num": 238851,
-      "word": "大过年和我妈决裂",
-      "onboard_time": 1708145374,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238470,
       "num": 238470,
       "word": "赵丽颖依然是求学路上的赶考生",
@@ -8305,14 +8337,6 @@
       "onboard_time": 1707783689,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237486,
-      "num": 209887,
-      "word": "这腰腹瘦得易如反掌",
-      "onboard_time": 1708146092,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 236866,
@@ -8409,6 +8433,14 @@
       "onboard_time": 1707723149,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234480,
+      "num": 234480,
+      "word": "陈靖可考古",
+      "onboard_time": 1708147050,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 234389,
@@ -8811,6 +8843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223314,
+      "num": 220526,
+      "word": "5000一碗的食神炒饭",
+      "onboard_time": 1708147594,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 223084,
       "num": 211023,
       "word": "热辣滚烫 心灵觉醒自我救赎",
@@ -8891,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221694,
+      "num": 221694,
+      "word": "名侦探学院要做就做南波万",
+      "onboard_time": 1708147171,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221570,
       "num": 221570,
       "word": "吴磊吻戏名场面又多了一个",
@@ -8913,14 +8961,6 @@
       "onboard_time": 1707942618,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221014,
-      "num": 208517,
-      "word": "嘴唇起泡是病毒感染",
-      "onboard_time": 1708146752,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 220947,
@@ -9033,14 +9073,6 @@
       "onboard_time": 1707978451,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 218348,
-      "num": 218348,
-      "word": "王鹤棣21分钟砍18分",
-      "onboard_time": 1708145852,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 218081,
@@ -9483,6 +9515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207041,
+      "num": 207041,
+      "word": "当留守猫咪突然见到主人后",
+      "onboard_time": 1708146810,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207004,
       "num": 207004,
       "word": "张婧仪黑贝雷帽",
@@ -9721,6 +9761,14 @@
       "onboard_time": 1707986311,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203224,
+      "num": 203224,
+      "word": "易烊千玺dv感随拍",
+      "onboard_time": 1708147232,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203204,
@@ -10547,6 +10595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 189209,
+      "num": 189209,
+      "word": "热辣滚烫伏笔",
+      "onboard_time": 1708146033,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189057,
       "num": 189057,
       "word": "enhypen封面",
@@ -10577,14 +10633,6 @@
       "onboard_time": 1707872913,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188696,
-      "num": 188696,
-      "word": "热辣滚烫伏笔",
-      "onboard_time": 1708146033,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 188590,
@@ -10801,6 +10849,14 @@
       "onboard_time": 1708059693,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184463,
+      "num": 184463,
+      "word": "明年不会来你家了",
+      "onboard_time": 1708147473,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 183864,
@@ -13049,14 +13105,6 @@
       "onboard_time": 1707699087,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146652,
-      "num": 146652,
-      "word": "当留守猫咪突然见到主人后",
-      "onboard_time": 1708146810,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 146435,
