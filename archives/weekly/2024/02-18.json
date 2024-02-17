@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708205638792,
+  "endTime": 1708208304252,
   "band_list": [
     {
       "raw_hot": 1253214,
@@ -307,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144314,
+      "num": 144314,
+      "word": "专家谈胖东来开除当事员工",
+      "onboard_time": 1708203496,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140000,
       "num": 140000,
       "word": "第一批开电动爹回家的人后悔了",
@@ -427,14 +435,6 @@
       "category": "运动健身,作品衍生"
     },
     {
-      "raw_hot": 76812,
-      "num": 41836,
-      "word": "专家谈胖东来开除当事员工",
-      "onboard_time": 1708203496,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60791,
       "num": 60791,
       "word": "热辣滚烫取景地",
@@ -475,6 +475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23078,
+      "num": 20107,
+      "word": "大学生为祖父母劈柴700多斤",
+      "onboard_time": 1708206496,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19659,
       "num": 19659,
       "word": "汪苏泷幕后",
@@ -491,6 +499,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13097,
+      "num": 18979,
+      "word": "姚玉玲贾金龙看对眼了",
+      "onboard_time": 1708203795,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13039,
+      "num": 18976,
+      "word": "卡皮巴拉型小狗",
+      "onboard_time": 1708204754,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12962,
+      "num": 18970,
+      "word": "王鹤棣名人赛G社生图",
+      "onboard_time": 1708207396,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12654,
       "num": 14204,
       "word": "沈月Vlog",
@@ -505,22 +537,6 @@
       "onboard_time": 1708176094,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10816,
-      "num": 14934,
-      "word": "姚玉玲贾金龙看对眼了",
-      "onboard_time": 1708203795,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 10211,
-      "num": 12792,
-      "word": "卡皮巴拉型小狗",
-      "onboard_time": 1708204754,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 6785,
