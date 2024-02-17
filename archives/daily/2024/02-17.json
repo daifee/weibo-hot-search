@@ -1,6 +1,6 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708169632784,
+  "endTime": 1708172902858,
   "band_list": [
     {
       "raw_hot": 2966318,
@@ -113,6 +113,14 @@
       "onboard_time": 1708147473,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1350968,
+      "num": 1350968,
+      "word": "魏晨你咋在这",
+      "onboard_time": 1708170693,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1339646,
@@ -249,6 +257,14 @@
       "onboard_time": 1708127364,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 893130,
+      "num": 893130,
+      "word": "孙楠回应当年歌手退赛",
+      "onboard_time": 1708170271,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 854962,
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505181,
+      "num": 505181,
+      "word": "网红店攻占县城",
+      "onboard_time": 1708169971,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501864,
       "num": 501864,
       "word": "王一博与穿山甲合照",
@@ -633,6 +657,14 @@
       "onboard_time": 1708155811,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453408,
+      "num": 453408,
+      "word": "成毅披发",
+      "onboard_time": 1708172493,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448467,
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429196,
+      "num": 429196,
+      "word": "亲友回应傅园慧被勒索",
+      "onboard_time": 1708166431,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428971,
       "num": 428971,
       "word": "南波万的友情",
@@ -699,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427273,
+      "num": 427273,
+      "word": "孙千陈靖可新中式情侣装",
+      "onboard_time": 1708171110,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426747,
       "num": 426747,
       "word": "姆巴佩将放弃超1亿欧奖金",
       "onboard_time": 1708164029,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422107,
+      "num": 422107,
+      "word": "NBA官方发了王鹤棣",
+      "onboard_time": 1708171231,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 421798,
@@ -793,14 +849,6 @@
       "onboard_time": 1708095395,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373291,
-      "num": 335821,
-      "word": "亲友回应傅园慧被勒索",
-      "onboard_time": 1708166431,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 362903,
@@ -979,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298860,
+      "num": 298860,
+      "word": "王安宇男友照",
+      "onboard_time": 1708172315,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294987,
       "num": 294987,
       "word": "顶流胖东来走不出河南",
@@ -1139,6 +1195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 243819,
+      "num": 243819,
+      "word": "开工前防脱发喷雾已卖4万份",
+      "onboard_time": 1708171771,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243478,
       "num": 243478,
       "word": "苹果首个银行木马被曝光",
@@ -1200,6 +1264,14 @@
       "word": "吉林短道速滑",
       "onboard_time": 1708141594,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233124,
+      "num": 233124,
+      "word": "十四冬开幕式",
+      "onboard_time": 1708170871,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1291,6 +1363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 217762,
+      "num": 217762,
+      "word": "父母健在说明你的福报很大",
+      "onboard_time": 1708168292,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "魏大勋晒库存照",
@@ -1345,6 +1425,14 @@
       "onboard_time": 1708161991,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209429,
+      "num": 209429,
+      "word": "单依纯真大学生记忆力",
+      "onboard_time": 1708170813,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 209313,
@@ -1811,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161561,
+      "num": 161561,
+      "word": "豆豆的手印",
+      "onboard_time": 1708169254,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161110,
       "num": 161110,
       "word": "红毯先生",
@@ -1875,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151456,
+      "num": 151456,
+      "word": "孙千马思纯合照",
+      "onboard_time": 1708170210,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149590,
       "num": 149590,
       "word": "蒲熠星在线进中止间休息第一人",
@@ -1921,14 +2025,6 @@
       "onboard_time": 1708169434,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147398,
-      "num": 147398,
-      "word": "豆豆的手印",
-      "onboard_time": 1708169254,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 146335,
@@ -2001,6 +2097,14 @@
       "onboard_time": 1708093895,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141144,
+      "num": 141144,
+      "word": "李响 什么人适合学习舞蹈",
+      "onboard_time": 1708172431,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 139886,
@@ -2163,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122569,
+      "num": 122569,
+      "word": "小狗应该觉得自己也是一个小盆友吧",
+      "onboard_time": 1708169733,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122276,
       "num": 122276,
       "word": "中国居然有这么多县城没有网约车",
@@ -2225,6 +2337,30 @@
       "onboard_time": 1708112056,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113116,
+      "num": 113116,
+      "word": "谭维维周深献声的听障家庭收到人工耳蜗捐赠",
+      "onboard_time": 1708170451,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112769,
+      "num": 112769,
+      "word": "阿尼亚cos 好还原",
+      "onboard_time": 1708170392,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 112630,
+      "num": 112630,
+      "word": "魔卡少女樱 老画风绝美",
+      "onboard_time": 1708172253,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 107853,
@@ -2451,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14826,
+      "num": 427888,
+      "word": "好六同款开年装备淘宝上新",
+      "onboard_time": 1708171652,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 11868,
       "num": 19933,
       "word": "警察用行动表示你的手机太好偷",
@@ -2459,8 +2603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7518,
-      "num": 1197350,
+      "raw_hot": 7686,
+      "num": 1207177,
       "word": "锦绣中国年",
       "onboard_time": 1707898596,
       "rank": 2,

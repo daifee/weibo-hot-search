@@ -1,0 +1,410 @@
+{
+  "runTime": 1708172902858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526900,
+        "num": 1526900,
+        "word": "央视网评论傅园慧求助",
+        "onboard_time": 1708162593,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1350968,
+        "num": 1350968,
+        "word": "魏晨你咋在这",
+        "onboard_time": 1708170693,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7686,
+        "num": 1207177,
+        "word": "锦绣中国年",
+        "onboard_time": 1707898596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086147,
+        "num": 1086147,
+        "word": "赵今麦发了30多张自拍",
+        "onboard_time": 1708166912,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 893130,
+        "num": 893130,
+        "word": "孙楠回应当年歌手退赛",
+        "onboard_time": 1708170271,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832657,
+        "num": 832657,
+        "word": "白敬亭跳的是科目三吗",
+        "onboard_time": 1708164571,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670546,
+        "num": 670546,
+        "word": "沈腾自编自导自演新电影",
+        "onboard_time": 1708166492,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 580438,
+        "num": 580438,
+        "word": "第一批开电动爹回家的人后悔了",
+        "onboard_time": 1708149571,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 513257,
+        "num": 513257,
+        "word": "结婚这么好还用催吗",
+        "onboard_time": 1708166013,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 505181,
+        "num": 505181,
+        "word": "网红店攻占县城",
+        "onboard_time": 1708169971,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499765,
+        "num": 499765,
+        "word": "周杰伦昆凌看霉霉演唱会",
+        "onboard_time": 1708167691,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 472999,
+        "num": 472999,
+        "word": "炎亚纶 感谢法官让我能海外工作",
+        "onboard_time": 1708165652,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453408,
+        "num": 453408,
+        "word": "成毅披发",
+        "onboard_time": 1708172493,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429196,
+        "num": 429196,
+        "word": "亲友回应傅园慧被勒索",
+        "onboard_time": 1708166431,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14826,
+        "num": 427888,
+        "word": "好六同款开年装备淘宝上新",
+        "onboard_time": 1708171652,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427273,
+        "num": 427273,
+        "word": "孙千陈靖可新中式情侣装",
+        "onboard_time": 1708171110,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422107,
+        "num": 422107,
+        "word": "NBA官方发了王鹤棣",
+        "onboard_time": 1708171231,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 409621,
+        "num": 409621,
+        "word": "飞驰人生2被删减剧情",
+        "onboard_time": 1708160854,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392912,
+        "num": 392912,
+        "word": "旅客买短乘长致严重超员列车员报警",
+        "onboard_time": 1708163971,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364767,
+        "num": 364767,
+        "word": "其实我不爱吃牛蛙",
+        "onboard_time": 1708154371,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330673,
+        "num": 330673,
+        "word": "我也退出春节档了",
+        "onboard_time": 1708146333,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298860,
+        "num": 298860,
+        "word": "王安宇男友照",
+        "onboard_time": 1708172315,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285701,
+        "num": 285701,
+        "word": "贾玲高马尾帅上了另一个level",
+        "onboard_time": 1708143093,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243819,
+        "num": 243819,
+        "word": "开工前防脱发喷雾已卖4万份",
+        "onboard_time": 1708171771,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242774,
+        "num": 242774,
+        "word": "孙颖莎爆冷输印度选手",
+        "onboard_time": 1708157249,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233124,
+        "num": 233124,
+        "word": "十四冬开幕式",
+        "onboard_time": 1708170871,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217762,
+        "num": 217762,
+        "word": "父母健在说明你的福报很大",
+        "onboard_time": 1708168292,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217319,
+        "num": 217319,
+        "word": "官方称将对勒索傅园慧司机严厉惩处",
+        "onboard_time": 1708159052,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209429,
+        "num": 209429,
+        "word": "单依纯真大学生记忆力",
+        "onboard_time": 1708170813,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207899,
+        "num": 207899,
+        "word": "热辣滚烫 重重拿起又轻轻放下",
+        "onboard_time": 1708158750,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205895,
+        "num": 205895,
+        "word": "孙千陈靖可认领cp名",
+        "onboard_time": 1708168773,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188689,
+        "num": 188689,
+        "word": "张杰谢娜带娃度假",
+        "onboard_time": 1708161032,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188082,
+        "num": 188082,
+        "word": "韩路 小医院看小病都这么不靠谱",
+        "onboard_time": 1708168353,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187458,
+        "num": 187458,
+        "word": "蒲熠星告别名侦探学院",
+        "onboard_time": 1708164274,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168614,
+        "num": 168614,
+        "word": "姆巴佩将放弃超1亿欧奖金",
+        "onboard_time": 1708164029,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161940,
+        "num": 161940,
+        "word": "国家免费补课平台",
+        "onboard_time": 1708153709,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161561,
+        "num": 161561,
+        "word": "豆豆的手印",
+        "onboard_time": 1708169254,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151456,
+        "num": 151456,
+        "word": "孙千马思纯合照",
+        "onboard_time": 1708170210,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150743,
+        "num": 150743,
+        "word": "明天要上班",
+        "onboard_time": 1708167993,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149224,
+        "num": 149224,
+        "word": "车厘子降价我怎么还是买不起",
+        "onboard_time": 1708156950,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141144,
+        "num": 141144,
+        "word": "李响 什么人适合学习舞蹈",
+        "onboard_time": 1708172431,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129939,
+        "num": 129939,
+        "word": "长假可能让人更易焦虑",
+        "onboard_time": 1708164513,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128439,
+        "num": 128439,
+        "word": "农村未成年人的手机之困",
+        "onboard_time": 1708158212,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126501,
+        "num": 126501,
+        "word": "陈楚生笑点不断",
+        "onboard_time": 1708169434,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125006,
+        "num": 125006,
+        "word": "于适飞驰人生细节",
+        "onboard_time": 1708168833,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122569,
+        "num": 122569,
+        "word": "小狗应该觉得自己也是一个小盆友吧",
+        "onboard_time": 1708169733,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113116,
+        "num": 113116,
+        "word": "谭维维周深献声的听障家庭收到人工耳蜗捐赠",
+        "onboard_time": 1708170451,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112769,
+        "num": 112769,
+        "word": "阿尼亚cos 好还原",
+        "onboard_time": 1708170392,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112630,
+        "num": 112630,
+        "word": "魔卡少女樱 老画风绝美",
+        "onboard_time": 1708172253,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108860,
+        "num": 108860,
+        "word": "中医学生地铁里妙手施针救醒晕倒女子",
+        "onboard_time": 1708163438,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
