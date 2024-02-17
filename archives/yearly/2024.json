@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708137233269,
+  "endTime": 1708139890226,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2689561,
+      "num": 2689561,
+      "word": "机票太贵了回不了学校",
+      "onboard_time": 1708135349,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2684505,
       "num": 2611634,
       "word": "同时得罪了东北人和南方人",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1706083530,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2583836,
+      "num": 2583836,
+      "word": "傅园慧长白山发博求助",
+      "onboard_time": 1708137213,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 2583114,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1706423191,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 2066829,
-      "num": 2066829,
-      "word": "一家五口三亚旅游准备回家高铁无票机票一张近两万",
-      "onboard_time": 1708128988,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2060984,
-      "num": 2060984,
-      "word": "我国将遭遇2008年以来最复杂春运天气",
-      "onboard_time": 1706569701,
-      "rank": 21,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

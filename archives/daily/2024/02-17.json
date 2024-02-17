@@ -1,7 +1,23 @@
 {
   "startTime": 1708100488227,
-  "endTime": 1708137233269,
+  "endTime": 1708139890226,
   "band_list": [
+    {
+      "raw_hot": 2689561,
+      "num": 2689561,
+      "word": "机票太贵了回不了学校",
+      "onboard_time": 1708135349,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 2583836,
+      "num": 2583836,
+      "word": "傅园慧长白山发博求助",
+      "onboard_time": 1708137213,
+      "rank": 44,
+      "category": "体育"
+    },
     {
       "raw_hot": 2066829,
       "num": 2066829,
@@ -27,14 +43,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1386602,
-      "num": 1386602,
-      "word": "机票太贵了回不了学校",
-      "onboard_time": 1708135349,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1383191,
       "num": 1383191,
       "word": "红毯先生退出春节档",
@@ -57,6 +65,14 @@
       "onboard_time": 1708135649,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1072563,
+      "num": 1072563,
+      "word": "王鹤棣破中国明星名人赛历史记录",
+      "onboard_time": 1708138172,
+      "rank": 4,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1043743,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703464,
+      "num": 703464,
+      "word": "你好星期六全员晒最后一天假期计划",
+      "onboard_time": 1708136491,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 692847,
       "num": 407666,
       "word": "不拔电器插头1年多交多少电费",
@@ -185,6 +209,14 @@
       "onboard_time": 1708129227,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 629067,
+      "num": 444472,
+      "word": "妈妈为全家11人准备晚饭",
+      "onboard_time": 1708135954,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 627162,
@@ -227,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511425,
+      "num": 511425,
+      "word": "肖战龙年开工照",
+      "onboard_time": 1708138293,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458363,
       "num": 376883,
       "word": "林俊杰是黄老板演唱会嘉宾",
@@ -249,6 +289,14 @@
       "onboard_time": 1708134150,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 437327,
+      "num": 437327,
+      "word": "白敬亭你好星期六发带剧照",
+      "onboard_time": 1708139731,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 434348,
@@ -321,22 +369,6 @@
       "onboard_time": 1708125322,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 340992,
-      "num": 340992,
-      "word": "你好星期六全员晒最后一天假期计划",
-      "onboard_time": 1708136491,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 328957,
-      "num": 205303,
-      "word": "妈妈为全家11人准备晚饭",
-      "onboard_time": 1708135954,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 314867,
@@ -427,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250483,
+      "num": 250483,
+      "word": "喝茶刮油其实刮的大多是水",
+      "onboard_time": 1708137450,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248426,
       "num": 248426,
       "word": "谁把中国女乒惊出一身冷汗",
       "onboard_time": 1708133731,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244467,
+      "num": 244467,
+      "word": "乡巴佬卤蛋",
+      "onboard_time": 1708136611,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 243478,
@@ -459,6 +507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 241125,
+      "num": 241125,
+      "word": "男子记错开工时间提前1天上班",
+      "onboard_time": 1708139194,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233111,
       "num": 233111,
       "word": "刘宇宁最想参加的综艺",
@@ -473,6 +529,22 @@
       "onboard_time": 1708128446,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227629,
+      "num": 217564,
+      "word": "日本男子被同事推入15米深山谷",
+      "onboard_time": 1708139311,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225383,
+      "num": 225383,
+      "word": "孩子落水被救母亲买新衣上门感谢",
+      "onboard_time": 1708137629,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 222304,
@@ -497,6 +569,14 @@
       "onboard_time": 1708131449,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 212064,
+      "num": 212064,
+      "word": "原来医生最希望病人早出院",
+      "onboard_time": 1708139251,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 205685,
@@ -571,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192441,
+      "num": 192441,
+      "word": "离家那一刻",
+      "onboard_time": 1708138952,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191961,
       "num": 191961,
       "word": "东北天然大冰箱快扛不住了",
       "onboard_time": 1708135290,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191636,
+      "num": 191636,
+      "word": "你好星期六",
+      "onboard_time": 1708138713,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 190442,
@@ -593,6 +689,14 @@
       "onboard_time": 1708137213,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 188438,
+      "num": 188438,
+      "word": "返程 堵车",
+      "onboard_time": 1708135592,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 185512,
@@ -667,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158632,
-      "num": 158632,
-      "word": "返程 堵车",
-      "onboard_time": 1708135592,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158484,
       "num": 158484,
       "word": "鹅 我命由我不由天",
@@ -715,6 +811,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144762,
+      "num": 144762,
+      "word": "5个部位疼或是心梗前兆",
+      "onboard_time": 1708139731,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142927,
+      "num": 142927,
+      "word": "女子回家过年无聊摆摊卖鸡爪",
+      "onboard_time": 1708137812,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141256,
       "num": 141256,
       "word": "一个心理医生告诫的冷知识",
@@ -739,20 +851,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135732,
-      "num": 135732,
-      "word": "傅园慧长白山发博求助",
-      "onboard_time": 1708137213,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134731,
       "num": 134731,
       "word": "2024NBA全明星",
       "onboard_time": 1708129227,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133991,
+      "num": 133991,
+      "word": "顶流胖东来走不出河南",
+      "onboard_time": 1708139793,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130568,
+      "num": 130568,
+      "word": "吉林文旅",
+      "onboard_time": 1708139851,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 129455,
@@ -809,14 +929,6 @@
       "onboard_time": 1708091315,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123349,
-      "num": 123349,
-      "word": "乡巴佬卤蛋",
-      "onboard_time": 1708136611,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 122276,
@@ -996,7 +1108,7 @@
     },
     {
       "raw_hot": 41777,
-      "num": 1017676,
+      "num": 1702388,
       "word": "网络中国节",
       "onboard_time": 1708090956,
       "rank": 2,
