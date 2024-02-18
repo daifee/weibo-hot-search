@@ -1,0 +1,411 @@
+{
+  "startTime": 1708273241489,
+  "endTime": 1708273241489,
+  "band_list": [
+    {
+      "raw_hot": 2305961,
+      "num": 678594,
+      "word": "女老师被丈夫举报出轨16岁学生",
+      "onboard_time": 1708268617,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1716207,
+      "num": 1716207,
+      "word": "太古里牵手门女当事人直播间被封",
+      "onboard_time": 1708268977,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861109,
+      "num": 861109,
+      "word": "周杰伦 我只看我想看的",
+      "onboard_time": 1708267176,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 595302,
+      "num": 595302,
+      "word": "吴尊感谢昆凌给的霉霉演唱会门票",
+      "onboard_time": 1708267713,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 585583,
+      "num": 585583,
+      "word": "巴音布鲁克之王",
+      "onboard_time": 1708264475,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 544423,
+      "num": 544423,
+      "word": "范丞丞四年前考赛车执照的照片",
+      "onboard_time": 1708266157,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 495763,
+      "num": 495763,
+      "word": "张婧仪女教师",
+      "onboard_time": 1708272029,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 494255,
+      "num": 463196,
+      "word": "白敬亭工作人员说魏大勋掉扇子",
+      "onboard_time": 1708242575,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 481120,
+      "num": 481120,
+      "word": "曹县卖了3亿的马面裙依然供不应求",
+      "onboard_time": 1708265195,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 460129,
+      "num": 460129,
+      "word": "秦朗舅舅",
+      "onboard_time": 1708262796,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417916,
+      "num": 417916,
+      "word": "范丞丞 你们别告诉腾哥",
+      "onboard_time": 1708268857,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 406251,
+      "num": 406251,
+      "word": "成都一家三口共花不到两千离开海南",
+      "onboard_time": 1708269157,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389769,
+      "num": 389769,
+      "word": "大过年的 离婚AA制",
+      "onboard_time": 1708268018,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 335571,
+      "num": 335571,
+      "word": "本周狗屎运最旺星座",
+      "onboard_time": 1708268557,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 328349,
+      "num": 328349,
+      "word": "为什么卫生巾广告用蓝色液体",
+      "onboard_time": 1708258535,
+      "rank": 16,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 314409,
+      "num": 314409,
+      "word": "瑞幸9.9元一杯活动缩水",
+      "onboard_time": 1708242933,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 262375,
+      "num": 262375,
+      "word": "正式确诊为魏晨",
+      "onboard_time": 1708254515,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259928,
+      "num": 259928,
+      "word": "刘浩存开工素颜照",
+      "onboard_time": 1708265195,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240205,
+      "num": 240205,
+      "word": "前女友控诉卜凡家暴",
+      "onboard_time": 1708259913,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209687,
+      "num": 209687,
+      "word": "乐莹抽烟",
+      "onboard_time": 1708254275,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206443,
+      "num": 175251,
+      "word": "前女友爆料卜凡的狗被毒死",
+      "onboard_time": 1708268494,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204731,
+      "num": 174716,
+      "word": "贾乃亮认不出黄晓明五官图",
+      "onboard_time": 1708266456,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191961,
+      "num": 174484,
+      "word": "飞驰2破25亿全员呼应上了",
+      "onboard_time": 1708261835,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186589,
+      "num": 186589,
+      "word": "一女子在银行着急办业务跪求他人换号无人同意",
+      "onboard_time": 1708264295,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184686,
+      "num": 465630,
+      "word": "当97岁奶奶没戴假牙吃草莓",
+      "onboard_time": 1708259552,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182009,
+      "num": 182009,
+      "word": "高三班主任被曝办公室强吻女学生",
+      "onboard_time": 1708235732,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175800,
+      "num": 175800,
+      "word": "夫妻俩花5000块从海南回杭州",
+      "onboard_time": 1708269755,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173053,
+      "num": 173053,
+      "word": "感觉开放式工位真的很窒息",
+      "onboard_time": 1708266874,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 167035,
+      "num": 167035,
+      "word": "游客与傅园慧经历相似却维权失败",
+      "onboard_time": 1708264475,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 161940,
+      "num": 161940,
+      "word": "为什么减脂人群偏爱西兰花",
+      "onboard_time": 1708265258,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 152332,
+      "num": 152332,
+      "word": "天蝎座不允许自己成为感情的附庸",
+      "onboard_time": 1708261113,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 142898,
+      "num": 142898,
+      "word": "马思纯两年前vs现在",
+      "onboard_time": 1708269995,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140890,
+      "num": 140890,
+      "word": "相亲遇到美颜过度的男生",
+      "onboard_time": 1708264475,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132335,
+      "num": 132335,
+      "word": "为什么我不喜欢跟爸妈待在一起",
+      "onboard_time": 1708265674,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131105,
+      "num": 131105,
+      "word": "咒术回战全员死亡",
+      "onboard_time": 1708247134,
+      "rank": 36,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 126272,
+      "num": 126272,
+      "word": "aespa美得有点过分了",
+      "onboard_time": 1708261594,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 122057,
+      "num": 122057,
+      "word": "蔡文静好港",
+      "onboard_time": 1708270715,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121961,
+      "num": 121961,
+      "word": "第一拨靠Sora赚钱的人已经出现了",
+      "onboard_time": 1708263515,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 118466,
+      "num": 118466,
+      "word": "邓为杀青哭了",
+      "onboard_time": 1708253554,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115931,
+      "num": 115931,
+      "word": "孙阳直播",
+      "onboard_time": 1708271194,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113027,
+      "num": 113027,
+      "word": "夏之光 看哪位要我这只狗",
+      "onboard_time": 1708262436,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110163,
+      "num": 110163,
+      "word": "头一次见3000毫升的点滴",
+      "onboard_time": 1708264593,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109721,
+      "num": 109721,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93432,
+      "num": 93432,
+      "word": "亲爱的她确认引进内地",
+      "onboard_time": 1708259612,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 89034,
+      "num": 89034,
+      "word": "马思纯减肥Vlog",
+      "onboard_time": 1708254875,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88777,
+      "num": 88777,
+      "word": "乳糖不耐受人群如何科学喝奶",
+      "onboard_time": 1708272750,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88602,
+      "num": 169900,
+      "word": "女飞行员执行任务前笑着拍遗照",
+      "onboard_time": 1708261476,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86164,
+      "num": 86164,
+      "word": "田嘉瑞战损妆",
+      "onboard_time": 1708272932,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84122,
+      "num": 84122,
+      "word": "林孝埈摔出赛道没有回放",
+      "onboard_time": 1708251757,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52886,
+      "num": 707096,
+      "word": "新春第一会为啥聚焦人才",
+      "onboard_time": 1708263876,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  ]
+}
