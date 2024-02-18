@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708277634628,
+  "endTime": 1708280380948,
   "band_list": [
     {
       "raw_hot": 2305961,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144736,
+      "num": 111438,
+      "word": "摔跤吧爸爸主演发文悼念",
+      "onboard_time": 1708276643,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142898,
       "num": 142898,
       "word": "马思纯两年前vs现在",
@@ -371,19 +379,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98759,
+      "num": 98759,
+      "word": "汤唯老公姐",
+      "onboard_time": 1708279458,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93432,
       "num": 93432,
       "word": "亲爱的她确认引进内地",
       "onboard_time": 1708259612,
       "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 92732,
-      "num": 87361,
-      "word": "摔跤吧爸爸主演发文悼念",
-      "onboard_time": 1708276643,
-      "rank": 25,
       "category": "电影"
     },
     {
