@@ -1,10 +1,10 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708229976544,
+  "endTime": 1708230837182,
   "band_list": [
     {
-      "raw_hot": 2847496,
-      "num": 2847496,
+      "raw_hot": 2989681,
+      "num": 2989681,
       "word": "贾玲大波浪晚礼服",
       "onboard_time": 1708227155,
       "rank": 36,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1953632,
+      "num": 1953632,
+      "word": "1家5口从三亚飞回新疆要花10万",
+      "onboard_time": 1708226912,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1891199,
       "num": 1891199,
       "word": "虞书欣父母退出涉诈骗公司",
@@ -27,16 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1723354,
-      "num": 1723354,
-      "word": "1家5口从三亚飞回新疆要花10万",
-      "onboard_time": 1708226912,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1690722,
-      "num": 1690722,
+      "raw_hot": 1785996,
+      "num": 1785996,
       "word": "内娱大冰",
       "onboard_time": 1708227934,
       "rank": 4,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 881648,
+      "num": 597383,
+      "word": "傲娇美 殷世航",
+      "onboard_time": 1708228595,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 851645,
       "num": 851645,
       "word": "对傅园慧加价黑车司机被罚3万元",
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 696805,
+      "num": 560082,
+      "word": "卜凡回应卜卦",
+      "onboard_time": 1708229615,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688142,
       "num": 688142,
       "word": "iPad的生产力远比你想象的要大",
@@ -217,14 +233,6 @@
       "onboard_time": 1708215811,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 645173,
-      "num": 455734,
-      "word": "傲娇美 殷世航",
-      "onboard_time": 1708228595,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 635759,
@@ -259,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 616759,
+      "num": 616759,
+      "word": "12306候补",
+      "onboard_time": 1708227274,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 612756,
       "num": 612756,
       "word": "苹果可折叠iPhone开发暂停",
@@ -273,14 +289,6 @@
       "onboard_time": 1708221212,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 577554,
-      "num": 577554,
-      "word": "12306候补",
-      "onboard_time": 1708227274,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 543844,
@@ -299,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 538734,
+      "num": 538734,
+      "word": "找工作",
+      "onboard_time": 1708227934,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 528999,
       "num": 528999,
       "word": "张艺谋让高叶多拍好戏",
@@ -313,6 +329,14 @@
       "onboard_time": 1708223374,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508955,
+      "num": 508955,
+      "word": "全智贤出国机场图",
+      "onboard_time": 1708227994,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 505163,
@@ -339,6 +363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 480797,
+      "num": 480797,
+      "word": "满江红编剧 盗摄是有问题的",
+      "onboard_time": 1708229496,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "开工大吉",
@@ -353,14 +385,6 @@
       "onboard_time": 1708176094,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 466199,
-      "num": 339481,
-      "word": "全智贤出国机场图",
-      "onboard_time": 1708227994,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 451672,
@@ -411,12 +435,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388224,
-      "num": 388224,
-      "word": "找工作",
-      "onboard_time": 1708227934,
-      "rank": 13,
-      "category": "情感"
+      "raw_hot": 388104,
+      "num": 325347,
+      "word": "女子春运换乘5次省4000元",
+      "onboard_time": 1708228534,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384402,
@@ -491,16 +515,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325347,
-      "num": 325347,
-      "word": "女子春运换乘5次省4000元",
-      "onboard_time": 1708228534,
-      "rank": 22,
+      "raw_hot": 321261,
+      "num": 321261,
+      "word": "沙尘暴",
+      "onboard_time": 1708228957,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314988,
-      "num": 314988,
+      "raw_hot": 318499,
+      "num": 318499,
       "word": "中国海警在厦金海域开展执法巡查行动",
       "onboard_time": 1708228174,
       "rank": 24,
@@ -513,14 +537,6 @@
       "onboard_time": 1708226495,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305627,
-      "num": 305627,
-      "word": "满江红编剧 盗摄是有问题的",
-      "onboard_time": 1708229496,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 304423,
@@ -561,6 +577,14 @@
       "onboard_time": 1708181495,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 295019,
+      "num": 244345,
+      "word": "如果杜乐莹没有离开昊坤",
+      "onboard_time": 1708229554,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 293312,
@@ -611,14 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274187,
-      "num": 274187,
-      "word": "沙尘暴",
-      "onboard_time": 1708228957,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273769,
       "num": 273769,
       "word": "床上充电时间",
@@ -649,14 +665,6 @@
       "onboard_time": 1708174593,
       "rank": 15,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 258234,
-      "num": 258234,
-      "word": "卜凡回应卜卦",
-      "onboard_time": 1708229615,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 253743,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221598,
+      "num": 221598,
+      "word": "去新加坡旅游到底有多贵",
+      "onboard_time": 1708230337,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 217299,
       "num": 217299,
       "word": "夏之光演技",
@@ -787,8 +803,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208248,
-      "num": 208248,
+      "raw_hot": 216754,
+      "num": 216754,
       "word": "咒术回战 一款水果忍者",
       "onboard_time": 1708228656,
       "rank": 36,
@@ -899,12 +915,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192628,
-      "num": 192628,
-      "word": "如果杜乐莹没有离开昊坤",
-      "onboard_time": 1708229554,
+      "raw_hot": 192259,
+      "num": 192259,
+      "word": "杰伦布朗是懂人情世故的",
+      "onboard_time": 1708230516,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192119,
+      "num": 192119,
+      "word": "麦克朗卫冕扣篮大赛冠军",
+      "onboard_time": 1708230337,
       "rank": 39,
-      "category": "电影"
+      "category": "体育"
     },
     {
       "raw_hot": 191962,
@@ -923,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186094,
+      "num": 186094,
+      "word": "国际金价下跌为何国内金价坚挺",
+      "onboard_time": 1708230816,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185266,
       "num": 185266,
       "word": "安检仪里的返程行李箱",
@@ -931,12 +963,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183746,
+      "num": 183746,
+      "word": "小狗堵车堵得都哭了",
+      "onboard_time": 1708230457,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183464,
       "num": 183464,
       "word": "我们一起摇太阳紧急撤档背后",
       "onboard_time": 1708219831,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182298,
+      "num": 182298,
+      "word": "23岁猫咪相当于人类百岁老人了",
+      "onboard_time": 1708230457,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182282,
+      "num": 182282,
+      "word": "谷爱凌背靠背夺金",
+      "onboard_time": 1708230337,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 180125,
@@ -955,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174851,
+      "num": 174851,
+      "word": "光与夜之恋主线",
+      "onboard_time": 1708230757,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170587,
       "num": 170587,
       "word": "魏晨你咋在这",
       "onboard_time": 1708170693,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168202,
+      "num": 168202,
+      "word": "鸣潮奏鸣测试",
+      "onboard_time": 1708228716,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 166028,
@@ -1163,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121809,
+      "num": 513316,
+      "word": "五个龙放一块到底念啥",
+      "onboard_time": 1708228834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119163,
       "num": 119163,
       "word": "林高远3比1苏迪",
@@ -1195,20 +1275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110294,
+      "num": 1863583,
+      "word": "开年第一弹智造业强省",
+      "onboard_time": 1708228716,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109701,
       "num": 109701,
       "word": "吴世勋中国杂志销量",
       "onboard_time": 1708173391,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106917,
-      "num": 1756443,
-      "word": "开年第一弹智造业强省",
-      "onboard_time": 1708228716,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106289,
@@ -1288,14 +1368,6 @@
       "word": "大学生为祖父母劈柴700多斤",
       "onboard_time": 1708206496,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65073,
-      "num": 380928,
-      "word": "五个龙放一块到底念啥",
-      "onboard_time": 1708228834,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
