@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708223032395,
+  "endTime": 1708223697127,
   "band_list": [
     {
       "raw_hot": 1616741,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1572171,
-      "num": 511777,
+      "raw_hot": 1577161,
+      "num": 529371,
       "word": "白敬亭泪痣",
       "onboard_time": 1708220132,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1489494,
-      "num": 659854,
+      "num": 741003,
       "word": "摔跤吧爸爸小芭比塔演员去世",
       "onboard_time": 1708221093,
       "rank": 3,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722997,
+      "num": 722997,
+      "word": "甘肃超2万名旅客滞留",
+      "onboard_time": 1708221212,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706045,
       "num": 706045,
       "word": "男版四大甜妹",
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626738,
+      "num": 626738,
+      "word": "ZICO向所有爱豆道歉",
+      "onboard_time": 1708221933,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 620067,
       "num": 620067,
       "word": "薛之谦演唱会迟到",
@@ -155,8 +171,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 608678,
-      "num": 608678,
+      "raw_hot": 611169,
+      "num": 611169,
       "word": "A股",
       "onboard_time": 1708221212,
       "rank": 7,
@@ -187,14 +203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 518683,
-      "num": 518683,
-      "word": "ZICO向所有爱豆道歉",
-      "onboard_time": 1708221933,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 505163,
       "num": 505163,
       "word": "白敬亭秒认出王嘉尔井柏然",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 483025,
-      "num": 330008,
+      "num": 330927,
       "word": "五官逐渐变得耐看的六种方法",
       "onboard_time": 1708221212,
       "rank": 20,
@@ -233,14 +241,6 @@
       "onboard_time": 1708176094,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 454131,
-      "num": 454131,
-      "word": "甘肃超2万名旅客滞留",
-      "onboard_time": 1708221212,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451672,
@@ -265,6 +265,14 @@
       "onboard_time": 1708213047,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 435601,
+      "num": 435601,
+      "word": "今天正式退出春节档",
+      "onboard_time": 1708222233,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420181,
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333632,
+      "num": 333632,
+      "word": "庄达菲刘恋赵梦同游曼谷",
+      "onboard_time": 1708222774,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333624,
       "num": 291523,
       "word": "白敬亭描述最像何炅的物品",
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301758,
-      "num": 301758,
-      "word": "庄达菲刘恋赵梦同游曼谷",
-      "onboard_time": 1708222774,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297867,
       "num": 297867,
       "word": "陈丽君生图",
@@ -403,8 +411,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279887,
-      "num": 279887,
+      "raw_hot": 287548,
+      "num": 287548,
       "word": "小镇超市为何能开20年",
       "onboard_time": 1708219652,
       "rank": 41,
@@ -425,14 +433,6 @@
       "onboard_time": 1708178074,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 268827,
-      "num": 268827,
-      "word": "今天正式退出春节档",
-      "onboard_time": 1708222233,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268538,
@@ -473,6 +473,14 @@
       "onboard_time": 1708219351,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247742,
+      "num": 247742,
+      "word": "王鹤棣NBA休息室合影",
+      "onboard_time": 1708223613,
+      "rank": 26,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 244249,
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205306,
+      "num": 205306,
+      "word": "NBA全明星",
+      "onboard_time": 1708222951,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204385,
       "num": 204385,
       "word": "山东有个被严重低估的海鲜城市",
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195297,
+      "num": 195297,
+      "word": "AI手机",
+      "onboard_time": 1708222774,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194681,
       "num": 194681,
       "word": "迪丽热巴最美的石榴花特效",
@@ -595,20 +619,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192156,
-      "num": 192156,
+      "raw_hot": 192646,
+      "num": 192646,
       "word": "春节假期A股利好不断",
       "onboard_time": 1708222652,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 192083,
-      "num": 192083,
-      "word": "AI手机",
-      "onboard_time": 1708222774,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 189562,
@@ -617,6 +633,14 @@
       "onboard_time": 1708182455,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "贾玲热辣滚烫热辣蜕变曲MV",
+      "onboard_time": 1708223374,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 185266,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173847,
+      "num": 173847,
+      "word": "医生建议节后这些症状要就医",
+      "onboard_time": 1708223613,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170587,
       "num": 170587,
       "word": "魏晨你咋在这",
@@ -667,20 +699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165615,
+      "num": 165615,
+      "word": "2024龙年开工大吉",
+      "onboard_time": 1708222889,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165069,
       "num": 165069,
       "word": "返程原本9小时路程开了28小时",
       "onboard_time": 1708213526,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164873,
-      "num": 164873,
-      "word": "NBA全明星",
-      "onboard_time": 1708222951,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 162251,
@@ -691,20 +723,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161998,
+      "num": 161998,
+      "word": "UFC",
+      "onboard_time": 1708222831,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161103,
       "num": 161102,
       "word": "孙千陈靖可新中式情侣装",
       "onboard_time": 1708171110,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159076,
-      "num": 159076,
-      "word": "2024龙年开工大吉",
-      "onboard_time": 1708222889,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 158342,
@@ -737,14 +769,6 @@
       "onboard_time": 1708173273,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151599,
-      "num": 151599,
-      "word": "UFC",
-      "onboard_time": 1708222831,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 149830,

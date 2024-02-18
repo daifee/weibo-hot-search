@@ -1,0 +1,410 @@
+{
+  "runTime": 1708223697127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294056,
+        "num": 1294056,
+        "word": "昨晚失眠",
+        "onboard_time": 1708215752,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 770567,
+        "num": 770567,
+        "word": "卜凡的卜原来是卜卦的卜",
+        "onboard_time": 1708212741,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31164,
+        "num": 744948,
+        "word": "感受祖国各地的新春新事",
+        "onboard_time": 1708176094,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1453486,
+        "num": 741003,
+        "word": "摔跤吧爸爸小芭比塔演员去世",
+        "onboard_time": 1708221093,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 722997,
+        "num": 722997,
+        "word": "甘肃超2万名旅客滞留",
+        "onboard_time": 1708221212,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717978,
+        "num": 717978,
+        "word": "贾玲大波浪",
+        "onboard_time": 1708175555,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 626738,
+        "num": 626738,
+        "word": "ZICO向所有爱豆道歉",
+        "onboard_time": 1708221933,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 611169,
+        "num": 611169,
+        "word": "A股",
+        "onboard_time": 1708221212,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 596671,
+        "num": 596671,
+        "word": "薛之谦演唱会迟到",
+        "onboard_time": 1708219052,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 545086,
+        "num": 545086,
+        "word": "苹果可折叠iPhone开发暂停",
+        "onboard_time": 1708217191,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1577161,
+        "num": 529371,
+        "word": "白敬亭泪痣",
+        "onboard_time": 1708220132,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507642,
+        "num": 507642,
+        "word": "周杰伦感谢霉霉给的演唱会门票",
+        "onboard_time": 1708213886,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 439472,
+        "num": 439472,
+        "word": "12306称车库的车都开出去了",
+        "onboard_time": 1708176034,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435601,
+        "num": 435601,
+        "word": "今天正式退出春节档",
+        "onboard_time": 1708222233,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368322,
+        "num": 368322,
+        "word": "俄军已完全控制阿夫杰耶夫卡",
+        "onboard_time": 1708215811,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 509866,
+        "num": 364274,
+        "word": "何老师给白敬亭擦脸",
+        "onboard_time": 1708179635,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345962,
+        "num": 345962,
+        "word": "想请假",
+        "onboard_time": 1708216112,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345645,
+        "num": 345645,
+        "word": "魅族转型AI停止传统手机项目",
+        "onboard_time": 1708220430,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 338949,
+        "num": 338949,
+        "word": "今年还有4次调休",
+        "onboard_time": 1708181618,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333632,
+        "num": 333632,
+        "word": "庄达菲刘恋赵梦同游曼谷",
+        "onboard_time": 1708222774,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455811,
+        "num": 330927,
+        "word": "五官逐渐变得耐看的六种方法",
+        "onboard_time": 1708221212,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 313962,
+        "num": 313962,
+        "word": "赵丽颖巴黎逛街",
+        "onboard_time": 1708216171,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308533,
+        "num": 308533,
+        "word": "闹钟没响",
+        "onboard_time": 1708214550,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296135,
+        "num": 296135,
+        "word": "开工红包就四百老板是不是太抠门了",
+        "onboard_time": 1708213047,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287548,
+        "num": 287548,
+        "word": "小镇超市为何能开20年",
+        "onboard_time": 1708219652,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276061,
+        "num": 276061,
+        "word": "我爸的狗和他长得越来越像了",
+        "onboard_time": 1708218030,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247742,
+        "num": 247742,
+        "word": "王鹤棣NBA休息室合影",
+        "onboard_time": 1708223613,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 243331,
+        "num": 243331,
+        "word": "开工大吉",
+        "onboard_time": 1708215932,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242382,
+        "num": 242382,
+        "word": "三亚出岛难",
+        "onboard_time": 1708218931,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237395,
+        "num": 237395,
+        "word": "傅园慧求助事件司机未取得从业资格",
+        "onboard_time": 1708211904,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228865,
+        "num": 228865,
+        "word": "一张照片宣布开工",
+        "onboard_time": 1708217128,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225506,
+        "num": 225506,
+        "word": "春节后上班第一天的状态",
+        "onboard_time": 1708219351,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205306,
+        "num": 205306,
+        "word": "NBA全明星",
+        "onboard_time": 1708222951,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195297,
+        "num": 195297,
+        "word": "AI手机",
+        "onboard_time": 1708222774,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192646,
+        "num": 192646,
+        "word": "春节假期A股利好不断",
+        "onboard_time": 1708222652,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192162,
+        "num": 192162,
+        "word": "章昊泡泡",
+        "onboard_time": 1708220974,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191172,
+        "num": 191172,
+        "word": "樊振东3比0马乔里斯",
+        "onboard_time": 1708222291,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187685,
+        "num": 187685,
+        "word": "贾玲热辣滚烫热辣蜕变曲MV",
+        "onboard_time": 1708223374,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176951,
+        "num": 176951,
+        "word": "手机电量显示本是一场骗局",
+        "onboard_time": 1708179755,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173847,
+        "num": 173847,
+        "word": "医生建议节后这些症状要就医",
+        "onboard_time": 1708223613,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165615,
+        "num": 165615,
+        "word": "2024龙年开工大吉",
+        "onboard_time": 1708222889,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 161998,
+        "word": "UFC",
+        "onboard_time": 1708222831,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161408,
+        "num": 161408,
+        "word": "女子输错导航被丈夫怒抛高速",
+        "onboard_time": 1708177474,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159696,
+        "num": 159696,
+        "word": "对台方无视大陆渔民生命安全决不容忍",
+        "onboard_time": 1708211241,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155476,
+        "num": 155476,
+        "word": "送完礼感觉家里干净多了",
+        "onboard_time": 1708215628,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154502,
+        "num": 154502,
+        "word": "上学累还是上班累",
+        "onboard_time": 1708215088,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149035,
+        "num": 149035,
+        "word": "男子堵在高速满山坡抓鸡",
+        "onboard_time": 1708217013,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142876,
+        "num": 142876,
+        "word": "沈腾杨洋军艺校草合成照",
+        "onboard_time": 1708219231,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139886,
+        "num": 139886,
+        "word": "特斯拉回应Cybertruck淋雨后生锈",
+        "onboard_time": 1708221093,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139254,
+        "num": 139254,
+        "word": "黑龙江曹园事件最新进展",
+        "onboard_time": 1708215391,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
