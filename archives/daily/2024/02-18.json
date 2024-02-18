@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708240655958,
+  "endTime": 1708241628863,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1618052,
+      "num": 1618052,
+      "word": "丢寒假作业的秦朗家人回应",
+      "onboard_time": 1708238434,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1616741,
       "num": 1616741,
       "word": "昨晚失眠",
@@ -89,6 +97,14 @@
       "onboard_time": 1708221093,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1292108,
+      "num": 1292108,
+      "word": "贾玲仪态",
+      "onboard_time": 1708239935,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1262471,
@@ -155,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1074027,
-      "num": 1074027,
-      "word": "丢寒假作业的秦朗家人回应",
-      "onboard_time": 1708238434,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 966762,
       "num": 966762,
       "word": "今年还有4次调休",
@@ -217,14 +225,6 @@
       "onboard_time": 1708213886,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 833662,
-      "num": 833662,
-      "word": "贾玲仪态",
-      "onboard_time": 1708239935,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 823400,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 463672,
+      "num": 463672,
+      "word": "王鹤棣见到库里了",
+      "onboard_time": 1708240410,
+      "rank": 19,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 451672,
       "num": 451672,
       "word": "你好星期六下期有谭松韵王栎鑫",
@@ -513,6 +521,22 @@
       "onboard_time": 1708213047,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 438391,
+      "num": 438391,
+      "word": "谷爱凌夺冠后要去做作业",
+      "onboard_time": 1708239272,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 435807,
+      "num": 311386,
+      "word": "迪丽热巴狗耳朵开工照",
+      "onboard_time": 1708240175,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 431027,
@@ -547,8 +571,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 408630,
-      "num": 408630,
+      "raw_hot": 411283,
+      "num": 411283,
       "word": "年轻人为什么开始爱买黄金",
       "onboard_time": 1708235193,
       "rank": 28,
@@ -593,6 +617,14 @@
       "onboard_time": 1708238015,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375631,
+      "num": 243110,
+      "word": "詹姆斯点赞女主播辣照",
+      "onboard_time": 1708240894,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 372004,
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305568,
+      "num": 305568,
+      "word": "许光汉道枝骏佑新片剧照",
+      "onboard_time": 1708241194,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 304423,
       "num": 304423,
       "word": "颜沁退团",
@@ -763,14 +803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 294786,
-      "num": 294786,
-      "word": "谷爱凌夺冠后要去做作业",
-      "onboard_time": 1708239272,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293312,
       "num": 293312,
       "word": "送完礼感觉家里干净多了",
@@ -803,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286782,
-      "num": 286782,
-      "word": "王鹤棣见到库里了",
-      "onboard_time": 1708240410,
-      "rank": 19,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 281225,
       "num": 281225,
       "word": "赵今麦一天告别两个角色",
@@ -833,6 +857,14 @@
       "onboard_time": 1708225776,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274008,
+      "num": 274008,
+      "word": "江苏海安一工厂发生爆炸有伤亡",
+      "onboard_time": 1708239692,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273769,
@@ -859,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268144,
+      "num": 268144,
+      "word": "宝马确认发生数据泄露事件",
+      "onboard_time": 1708240653,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 267870,
       "num": 267870,
       "word": "小狗堵车堵得都哭了",
@@ -873,6 +913,14 @@
       "onboard_time": 1708174593,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 257208,
+      "num": 257208,
+      "word": "咏春拳的创始人是严咏春女士",
+      "onboard_time": 1708239755,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 253743,
@@ -919,14 +967,6 @@
       "num": 244249,
       "word": "新疆沙尘暴",
       "onboard_time": 1708217251,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242147,
-      "num": 242147,
-      "word": "江苏海安一工厂发生爆炸有伤亡",
-      "onboard_time": 1708239692,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -1019,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222767,
-      "num": 222767,
-      "word": "咏春拳的创始人是严咏春女士",
-      "onboard_time": 1708239755,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 222736,
       "num": 222736,
       "word": "章昊泡泡",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1708233693,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211007,
-      "num": 211007,
-      "word": "迪丽热巴狗耳朵开工照",
-      "onboard_time": 1708240175,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 206101,
@@ -1243,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187241,
+      "num": 187241,
+      "word": "尔滨返程机票一票难求",
+      "onboard_time": 1708238434,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185266,
       "num": 185266,
       "word": "安检仪里的返程行李箱",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1708170693,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169360,
-      "num": 169360,
-      "word": "尔滨返程机票一票难求",
-      "onboard_time": 1708238434,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 168202,
@@ -1419,6 +1443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155560,
+      "num": 155560,
+      "word": "朱婷未进集训名单",
+      "onboard_time": 1708241374,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155438,
       "num": 168680,
       "word": "春节假期国内游客花了6326亿",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1708238973,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151136,
+      "num": 151136,
+      "word": "时代少年团被电子鞭炮吓到",
+      "onboard_time": 1708241374,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 149830,
@@ -1683,6 +1723,14 @@
       "category": "运动健身,作品衍生"
     },
     {
+      "raw_hot": 86250,
+      "num": 1398198,
+      "word": "龙年开工一起振奋龙马精神",
+      "onboard_time": 1708240473,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81219,
       "num": 81219,
       "word": "中国队4x100自由泳混合接力夺金",
@@ -1771,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35311,
+      "num": 330498,
+      "word": "带娃和citywalk适配满分",
+      "onboard_time": 1708240115,
+      "rank": 34,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 34647,
       "num": 161104,
       "word": "十四冬点火超燃瞬间",
@@ -1795,28 +1851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32302,
-      "num": 201318,
-      "word": "带娃和citywalk适配满分",
-      "onboard_time": 1708240115,
-      "rank": 34,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 29823,
       "num": 29823,
       "word": "王鹤棣名人赛G社生图",
       "onboard_time": 1708207396,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26913,
-      "num": 1244399,
-      "word": "龙年开工一起振奋龙马精神",
-      "onboard_time": 1708240473,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25428,
@@ -1892,6 +1932,9 @@
     },
     {
       "word": "#文化中国团圆年#"
+    },
+    {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
     }
   ]
 }

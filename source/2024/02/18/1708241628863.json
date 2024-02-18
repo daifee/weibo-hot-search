@@ -1,0 +1,410 @@
+{
+  "runTime": 1708241628863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110257,
+        "num": 2110257,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618052,
+        "num": 1618052,
+        "word": "丢寒假作业的秦朗家人回应",
+        "onboard_time": 1708238434,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86250,
+        "num": 1398198,
+        "word": "龙年开工一起振奋龙马精神",
+        "onboard_time": 1708240473,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292108,
+        "num": 1292108,
+        "word": "贾玲仪态",
+        "onboard_time": 1708239935,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1276350,
+        "num": 1276350,
+        "word": "马丽测评了14条光腿神器",
+        "onboard_time": 1708234055,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692437,
+        "num": 692437,
+        "word": "内娱大冰",
+        "onboard_time": 1708227934,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684003,
+        "num": 684003,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 604474,
+        "num": 604474,
+        "word": "贾玲大波浪晚礼服",
+        "onboard_time": 1708227155,
+        "rank": 7,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 530226,
+        "num": 530226,
+        "word": "把掰了四年的朋友微博看完了",
+        "onboard_time": 1708234176,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463672,
+        "num": 463672,
+        "word": "王鹤棣见到库里了",
+        "onboard_time": 1708240410,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 597382,
+        "num": 463242,
+        "word": "1家5口从三亚飞回新疆要花10万",
+        "onboard_time": 1708226912,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553722,
+        "num": 461959,
+        "word": "李雪琴P图贾玲都等瘦了",
+        "onboard_time": 1708235912,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473485,
+        "num": 461114,
+        "word": "虞书欣父母退出涉诈骗公司",
+        "onboard_time": 1708224513,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459844,
+        "num": 459844,
+        "word": "马丽以为mary饺是沈腾送的",
+        "onboard_time": 1708237773,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438391,
+        "num": 438391,
+        "word": "谷爱凌夺冠后要去做作业",
+        "onboard_time": 1708239272,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411283,
+        "num": 411283,
+        "word": "年轻人为什么开始爱买黄金",
+        "onboard_time": 1708235193,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 390409,
+        "num": 390409,
+        "word": "YouTube前CEO之子在校突然身亡",
+        "onboard_time": 1708235912,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351486,
+        "num": 351486,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35311,
+        "num": 330498,
+        "word": "带娃和citywalk适配满分",
+        "onboard_time": 1708240115,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 311790,
+        "num": 311790,
+        "word": "贾玲式取名",
+        "onboard_time": 1708238015,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 435807,
+        "num": 311386,
+        "word": "迪丽热巴狗耳朵开工照",
+        "onboard_time": 1708240175,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305568,
+        "num": 305568,
+        "word": "许光汉道枝骏佑新片剧照",
+        "onboard_time": 1708241194,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274008,
+        "num": 274008,
+        "word": "江苏海安一工厂发生爆炸有伤亡",
+        "onboard_time": 1708239692,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271429,
+        "num": 271429,
+        "word": "上班第一天确诊节后综合征",
+        "onboard_time": 1708233994,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268144,
+        "num": 268144,
+        "word": "宝马确认发生数据泄露事件",
+        "onboard_time": 1708240653,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 294244,
+        "num": 265735,
+        "word": "卜凡回应卜卦",
+        "onboard_time": 1708229615,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263161,
+        "num": 263161,
+        "word": "傲娇美 殷世航",
+        "onboard_time": 1708228595,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261781,
+        "num": 261781,
+        "word": "白敬亭泪痣",
+        "onboard_time": 1708220132,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257208,
+        "num": 257208,
+        "word": "咏春拳的创始人是严咏春女士",
+        "onboard_time": 1708239755,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 243988,
+        "num": 243988,
+        "word": "千万别随便跟陌生人的车",
+        "onboard_time": 1708238734,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375631,
+        "num": 243110,
+        "word": "詹姆斯点赞女主播辣照",
+        "onboard_time": 1708240894,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238327,
+        "num": 238327,
+        "word": "因为高速太堵跟领导请假被拒了",
+        "onboard_time": 1708232856,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187241,
+        "num": 187241,
+        "word": "尔滨返程机票一票难求",
+        "onboard_time": 1708238434,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184463,
+        "num": 184463,
+        "word": "赵今麦一天告别两个角色",
+        "onboard_time": 1708236274,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181160,
+        "num": 181160,
+        "word": "国际金价下跌为何国内金价坚挺",
+        "onboard_time": 1708230816,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179744,
+        "num": 179744,
+        "word": "齐司礼 丑卡",
+        "onboard_time": 1708234296,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177340,
+        "num": 177340,
+        "word": "12306候补",
+        "onboard_time": 1708227274,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176366,
+        "num": 176366,
+        "word": "摔跤吧爸爸小芭比塔演员去世",
+        "onboard_time": 1708221093,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175940,
+        "num": 175940,
+        "word": "全智贤出国机场图",
+        "onboard_time": 1708227994,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158685,
+        "num": 158685,
+        "word": "满江红编剧 盗摄是有问题的",
+        "onboard_time": 1708229496,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158372,
+        "num": 158372,
+        "word": "硅谷再现杀妻案",
+        "onboard_time": 1708224994,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "去新加坡旅游到底有多贵",
+        "onboard_time": 1708230337,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157230,
+        "num": 157230,
+        "word": "第一次用愚蠢来形容一个烟花",
+        "onboard_time": 1708230936,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155560,
+        "num": 155560,
+        "word": "朱婷未进集训名单",
+        "onboard_time": 1708241374,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153728,
+        "num": 153728,
+        "word": "杨幂开年高定",
+        "onboard_time": 1708233157,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151196,
+        "num": 151196,
+        "word": "小米北京昌平智能工厂正式落成投产",
+        "onboard_time": 1708238973,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151136,
+        "num": 151136,
+        "word": "时代少年团被电子鞭炮吓到",
+        "onboard_time": 1708241374,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148432,
+        "num": 148432,
+        "word": "张雪峰晒开工红包",
+        "onboard_time": 1708237472,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133005,
+        "num": 133005,
+        "word": "赵今麦张凌赫面纱吻镜头",
+        "onboard_time": 1708231295,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131709,
+        "num": 131709,
+        "word": "孩子有点知识但是学杂了",
+        "onboard_time": 1708235193,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  }
+}
