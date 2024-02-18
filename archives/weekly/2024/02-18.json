@@ -1,7 +1,15 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708218931191,
+  "endTime": 1708220084809,
   "band_list": [
+    {
+      "raw_hot": 1616741,
+      "num": 1616741,
+      "word": "昨晚失眠",
+      "onboard_time": 1708215752,
+      "rank": 3,
+      "category": "情感"
+    },
     {
       "raw_hot": 1262471,
       "num": 1262471,
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088751,
+      "num": 1088751,
+      "word": "想请假",
+      "onboard_time": 1708216112,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 966762,
       "num": 966762,
       "word": "今年还有4次调休",
@@ -35,24 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 966457,
-      "num": 966457,
-      "word": "昨晚失眠",
-      "onboard_time": 1708215752,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 938123,
-      "num": 938123,
-      "word": "想请假",
-      "onboard_time": 1708216112,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 915104,
-      "num": 915104,
+      "raw_hot": 916967,
+      "num": 916967,
       "word": "卜凡的卜原来是卜卦的卜",
       "onboard_time": 1708212741,
       "rank": 25,
@@ -107,6 +107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 663146,
+      "num": 663146,
+      "word": "俄军已完全控制阿夫杰耶夫卡",
+      "onboard_time": 1708215811,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 632792,
       "num": 632792,
       "word": "一张照片宣布开工",
@@ -115,12 +123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 587109,
-      "num": 587109,
-      "word": "俄军已完全控制阿夫杰耶夫卡",
-      "onboard_time": 1708215811,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 572855,
+      "num": 572855,
+      "word": "苹果可折叠iPhone开发暂停",
+      "onboard_time": 1708217191,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 543844,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 444090,
-      "num": 318450,
+      "num": 343341,
       "word": "开工红包就四百老板是不是太抠门了",
       "onboard_time": 1708213047,
       "rank": 20,
@@ -219,12 +227,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 396756,
+      "num": 396756,
+      "word": "我爸的狗和他长得越来越像了",
+      "onboard_time": 1708218030,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384402,
       "num": 384402,
       "word": "堵车",
       "onboard_time": 1708214968,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 370572,
+      "num": 370572,
+      "word": "薛之谦演唱会迟到",
+      "onboard_time": 1708219052,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 354462,
@@ -251,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332009,
-      "num": 332009,
-      "word": "苹果可折叠iPhone开发暂停",
-      "onboard_time": 1708217191,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 327115,
       "num": 287081,
       "word": "女子输错导航被丈夫怒抛高速",
@@ -281,6 +297,14 @@
       "onboard_time": 1708179755,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303140,
+      "num": 303140,
+      "word": "三亚出岛难",
+      "onboard_time": 1708218931,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297867,
@@ -331,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268538,
+      "num": 268538,
+      "word": "朋友圈传播盗摄会构成侵权",
+      "onboard_time": 1708217731,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -345,6 +377,14 @@
       "onboard_time": 1708181016,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247031,
+      "num": 247031,
+      "word": "春节后上班第一天的状态",
+      "onboard_time": 1708219351,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 244249,
@@ -371,12 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224925,
-      "num": 224925,
-      "word": "我爸的狗和他长得越来越像了",
-      "onboard_time": 1708218030,
+      "raw_hot": 227125,
+      "num": 227125,
+      "word": "中国资产假期全线大涨",
+      "onboard_time": 1708219171,
       "rank": 31,
-      "category": "幽默"
+      "category": "财经"
+    },
+    {
+      "raw_hot": 225088,
+      "num": 225088,
+      "word": "沈腾杨洋军艺校草合成照",
+      "onboard_time": 1708219231,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 221963,
@@ -419,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196466,
-      "num": 196466,
-      "word": "朋友圈传播盗摄会构成侵权",
-      "onboard_time": 1708217731,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 195808,
       "num": 195808,
       "word": "多名网友拍下新疆特强沙尘暴",
@@ -457,6 +497,22 @@
       "onboard_time": 1708182455,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185461,
+      "num": 185461,
+      "word": "小镇超市为何能开20年",
+      "onboard_time": 1708219652,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185266,
+      "num": 185266,
+      "word": "安检仪里的返程行李箱",
+      "onboard_time": 1708218574,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180125,
@@ -571,8 +627,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140581,
-      "num": 140581,
+      "raw_hot": 143603,
+      "num": 143603,
+      "word": "我们一起摇太阳紧急撤档背后",
+      "onboard_time": 1708219831,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141344,
+      "num": 141344,
       "word": "陈楚生以为要拿一个不回头奖",
       "onboard_time": 1708213829,
       "rank": 45,
@@ -585,14 +649,6 @@
       "onboard_time": 1708149571,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 139233,
-      "num": 139233,
-      "word": "安检仪里的返程行李箱",
-      "onboard_time": 1708218574,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136966,
@@ -755,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53813,
+      "num": 1097360,
+      "word": "感受祖国各地的新春新事",
+      "onboard_time": 1708176094,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51501,
       "num": 51501,
       "word": "库里三分对决约内斯库",
@@ -769,14 +833,6 @@
       "onboard_time": 1708210940,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 48371,
-      "num": 966541,
-      "word": "感受祖国各地的新春新事",
-      "onboard_time": 1708176094,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46828,
