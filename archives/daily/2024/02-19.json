@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708287457302,
+  "endTime": 1708288524104,
   "band_list": [
     {
       "raw_hot": 2305961,
@@ -459,8 +459,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28861,
-      "num": 22796,
+      "raw_hot": 29111,
+      "num": 29111,
       "word": "丁程鑫录综艺受伤",
       "onboard_time": 1708286896,
       "rank": 25,
@@ -483,8 +483,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 13084,
-      "num": 14504,
+      "raw_hot": 15642,
+      "num": 15642,
       "word": "金地雄泡泡 事必归正",
       "onboard_time": 1708287317,
       "rank": 46,
@@ -497,6 +497,22 @@
       "onboard_time": 1708285756,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 11548,
+      "num": 14168,
+      "word": "车开久了总会疯几个",
+      "onboard_time": 1708286236,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 10362,
+      "num": 14165,
+      "word": "女子跳河轻生2市民奋力救回",
+      "onboard_time": 1708288516,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [

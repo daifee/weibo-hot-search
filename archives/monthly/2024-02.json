@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708287457302,
+  "endTime": 1708288524104,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -49563,8 +49563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28861,
-      "num": 22796,
+      "raw_hot": 29111,
+      "num": 29111,
       "word": "丁程鑫录综艺受伤",
       "onboard_time": 1708286896,
       "rank": 25,
@@ -50267,6 +50267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15642,
+      "num": 15642,
+      "word": "金地雄泡泡 事必归正",
+      "onboard_time": 1708287317,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
@@ -50419,14 +50427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13084,
-      "num": 14504,
-      "word": "金地雄泡泡 事必归正",
-      "onboard_time": 1708287317,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 12654,
       "num": 14204,
       "word": "沈月Vlog",
@@ -50515,6 +50515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 11548,
+      "num": 14168,
+      "word": "车开久了总会疯几个",
+      "onboard_time": 1708286236,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 11410,
       "num": 615326,
       "word": "我们的文化中国年",
@@ -50545,6 +50553,14 @@
       "onboard_time": 1706734096,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10362,
+      "num": 14165,
+      "word": "女子跳河轻生2市民奋力救回",
+      "onboard_time": 1708288516,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 10350,
