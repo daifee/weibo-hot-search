@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708292034479,
+  "endTime": 1708294651632,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -47747,6 +47747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72895,
+      "num": 55449,
+      "word": "95后男生钟楼摆摊拍照3天赚1800",
+      "onboard_time": 1708288636,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72788,
       "num": 1575729,
       "word": "今年回家新气象",
@@ -48745,14 +48753,6 @@
       "onboard_time": 1707002962,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 46200,
-      "num": 42438,
-      "word": "95后男生钟楼摆摊拍照3天赚1800",
-      "onboard_time": 1708288636,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45716,
@@ -50235,6 +50235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16191,
+      "num": 16191,
+      "word": "建议把上班改成熬班",
+      "onboard_time": 1708292535,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16163,
       "num": 17713,
       "word": "热辣滚烫预售开启",
@@ -50353,6 +50361,14 @@
       "onboard_time": 1706819537,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13846,
+      "num": 16168,
+      "word": "喷出门被人追着问的香水",
+      "onboard_time": 1708290196,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 13615,
@@ -50481,14 +50497,6 @@
       "onboard_time": 1707168436,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11982,
-      "num": 13499,
-      "word": "喷出门被人追着问的香水",
-      "onboard_time": 1708290196,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 11868,
