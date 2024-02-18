@@ -1,0 +1,410 @@
+{
+  "runTime": 1708226250781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1999786,
+        "num": 1999786,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1891199,
+        "num": 1891199,
+        "word": "虞书欣父母退出涉诈骗公司",
+        "onboard_time": 1708224513,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24189,
+        "num": 1332955,
+        "word": "感受祖国各地的新春新事",
+        "onboard_time": 1708176094,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231981,
+        "num": 1231981,
+        "word": "甘肃超2万名旅客滞留",
+        "onboard_time": 1708221212,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104128,
+        "num": 1104128,
+        "word": "今天正式退出春节档",
+        "onboard_time": 1708222233,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093258,
+        "num": 1093258,
+        "word": "硅谷再现杀妻案",
+        "onboard_time": 1708224994,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066915,
+        "num": 1066915,
+        "word": "摔跤吧爸爸小芭比塔演员去世",
+        "onboard_time": 1708221093,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 773771,
+        "num": 773771,
+        "word": "专家说上班第一天少干活儿",
+        "onboard_time": 1708224092,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 646325,
+        "num": 646325,
+        "word": "昨晚失眠",
+        "onboard_time": 1708215752,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 640179,
+        "num": 640179,
+        "word": "卜凡的卜原来是卜卦的卜",
+        "onboard_time": 1708212741,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1249415,
+        "num": 630895,
+        "word": "白敬亭泪痣",
+        "onboard_time": 1708220132,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588683,
+        "num": 588683,
+        "word": "A股",
+        "onboard_time": 1708221212,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 515113,
+        "num": 515113,
+        "word": "贾玲热辣滚烫热辣蜕变曲MV",
+        "onboard_time": 1708223374,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480629,
+        "num": 480629,
+        "word": "周杰伦感谢霉霉给的演唱会门票",
+        "onboard_time": 1708213886,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 443169,
+        "num": 443169,
+        "word": "ZICO向所有爱豆道歉",
+        "onboard_time": 1708221933,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97501,
+        "num": 412544,
+        "word": "什么才是可街可赛可玩的超跑",
+        "onboard_time": 1708223792,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 408551,
+        "num": 408551,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385833,
+        "num": 385833,
+        "word": "薛之谦演唱会迟到",
+        "onboard_time": 1708219052,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360921,
+        "num": 360921,
+        "word": "12306称车库的车都开出去了",
+        "onboard_time": 1708176034,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340433,
+        "num": 340433,
+        "word": "利拉德卫冕三分大赛冠军",
+        "onboard_time": 1708225295,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405094,
+        "num": 339881,
+        "word": "五官逐渐变得耐看的六种方法",
+        "onboard_time": 1708221212,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 328388,
+        "num": 328388,
+        "word": "医生建议节后这些症状要就医",
+        "onboard_time": 1708223613,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327276,
+        "num": 327276,
+        "word": "贾玲大波浪",
+        "onboard_time": 1708175555,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303672,
+        "num": 303672,
+        "word": "苹果可折叠iPhone开发暂停",
+        "onboard_time": 1708217191,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289752,
+        "num": 289752,
+        "word": "何老师给白敬亭擦脸",
+        "onboard_time": 1708179635,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272984,
+        "num": 272984,
+        "word": "庄达菲刘恋赵梦同游曼谷",
+        "onboard_time": 1708222774,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260719,
+        "num": 260719,
+        "word": "魅族转型AI停止传统手机项目",
+        "onboard_time": 1708220430,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258561,
+        "num": 258561,
+        "word": "贾玲写的第一首歌",
+        "onboard_time": 1708223969,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240736,
+        "num": 240736,
+        "word": "度华年官宣杀青",
+        "onboard_time": 1708225351,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206811,
+        "num": 224950,
+        "word": "王鹤棣NBA休息室合影",
+        "onboard_time": 1708223613,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 223966,
+        "num": 223966,
+        "word": "赵丽颖巴黎逛街",
+        "onboard_time": 1708216171,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223747,
+        "num": 223747,
+        "word": "宝宝说想当中国人",
+        "onboard_time": 1708225776,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220083,
+        "num": 220083,
+        "word": "开工红包就四百老板是不是太抠门了",
+        "onboard_time": 1708213047,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199145,
+        "num": 199145,
+        "word": "江苏卫视长风渡定档",
+        "onboard_time": 1708225711,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199017,
+        "num": 199017,
+        "word": "今年还有4次调休",
+        "onboard_time": 1708181618,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198308,
+        "num": 198308,
+        "word": "机构称2024年是A股新一轮的牛市起点",
+        "onboard_time": 1708225351,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196366,
+        "num": 196366,
+        "word": "小镇超市为何能开20年",
+        "onboard_time": 1708219652,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194984,
+        "num": 194984,
+        "word": "魔卡少女樱 大道寺知世",
+        "onboard_time": 1708224813,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191962,
+        "num": 191962,
+        "word": "节后综合征",
+        "onboard_time": 1708225232,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188579,
+        "num": 188579,
+        "word": "开工大吉",
+        "onboard_time": 1708215932,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178431,
+        "num": 178431,
+        "word": "俄军已完全控制阿夫杰耶夫卡",
+        "onboard_time": 1708215811,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172581,
+        "num": 172581,
+        "word": "NBA全明星",
+        "onboard_time": 1708222951,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159576,
+        "num": 159576,
+        "word": "傅园慧求助事件司机未取得从业资格",
+        "onboard_time": 1708211904,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147342,
+        "num": 147342,
+        "word": "三亚出岛难",
+        "onboard_time": 1708218931,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146557,
+        "num": 146557,
+        "word": "七星彩",
+        "onboard_time": 1708224813,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "章昊泡泡",
+        "onboard_time": 1708220974,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134336,
+        "num": 134336,
+        "word": "2024龙年开工大吉",
+        "onboard_time": 1708222889,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125903,
+        "num": 125903,
+        "word": "我爸的狗和他长得越来越像了",
+        "onboard_time": 1708218030,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124297,
+        "num": 124297,
+        "word": "想请假",
+        "onboard_time": 1708216112,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119163,
+        "num": 119163,
+        "word": "林高远3比1苏迪",
+        "onboard_time": 1708224572,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化中国团圆年#"
+    }
+  }
+}
