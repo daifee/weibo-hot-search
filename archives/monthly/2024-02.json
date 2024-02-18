@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708226250781,
+  "endTime": 1708227327077,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1059,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2261425,
+      "num": 2261425,
+      "word": "两个贾玲对唱",
+      "onboard_time": 1708223911,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2244352,
       "num": 2244352,
       "word": "叶府婚宴",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1707820477,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1999786,
-      "num": 1999786,
-      "word": "两个贾玲对唱",
-      "onboard_time": 1708223911,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1985286,
@@ -2091,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1626080,
+      "num": 1626080,
+      "word": "硅谷再现杀妻案",
+      "onboard_time": 1708224994,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1621164,
       "num": 1621164,
       "word": "原来公司真的会裁掉销冠",
@@ -2220,7 +2228,7 @@
     },
     {
       "raw_hot": 1577161,
-      "num": 630895,
+      "num": 886610,
       "word": "白敬亭泪痣",
       "onboard_time": 1708220132,
       "rank": 10,
@@ -3619,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173753,
+      "num": 1173753,
+      "word": "专家说上班第一天少干活儿",
+      "onboard_time": 1708224092,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1172853,
       "num": 1172853,
       "word": "将进酒回来了",
@@ -4209,14 +4225,6 @@
       "onboard_time": 1707489778,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1093258,
-      "num": 1093258,
-      "word": "硅谷再现杀妻案",
-      "onboard_time": 1708224994,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1092668,
@@ -5579,6 +5587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 895639,
+      "num": 895639,
+      "word": "大梦归离官宣",
+      "onboard_time": 1708226372,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 895170,
       "num": 895170,
       "word": "领导三年压力走了13个人",
@@ -5609,6 +5625,14 @@
       "onboard_time": 1707377970,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 889156,
+      "num": 889156,
+      "word": "一切都来得及 记得爱自己",
+      "onboard_time": 1708224333,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 888497,
@@ -7025,14 +7049,6 @@
       "onboard_time": 1707481674,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 773771,
-      "num": 773771,
-      "word": "专家说上班第一天少干活儿",
-      "onboard_time": 1708224092,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 773594,
@@ -9145,6 +9161,14 @@
       "onboard_time": 1707056434,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635759,
+      "num": 635759,
+      "word": "库里29分",
+      "onboard_time": 1708226256,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 634849,
@@ -12444,7 +12468,7 @@
     },
     {
       "raw_hot": 483025,
-      "num": 339881,
+      "num": 360127,
       "word": "五官逐渐变得耐看的六种方法",
       "onboard_time": 1708221212,
       "rank": 20,
@@ -14569,14 +14593,6 @@
       "onboard_time": 1706837008,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408551,
-      "num": 408551,
-      "word": "一切都来得及 记得爱自己",
-      "onboard_time": 1708224333,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 408260,
@@ -18419,6 +18435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310531,
+      "num": 360166,
+      "word": "库里三分的神",
+      "onboard_time": 1708226495,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310085,
       "num": 310085,
       "word": "男子嫌老婆花钱多看到购物袋后破防",
@@ -20179,6 +20203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278897,
+      "num": 278897,
+      "word": "宝宝说想当中国人",
+      "onboard_time": 1708225776,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278841,
       "num": 278841,
       "word": "春晚幕后纪录片公布",
@@ -20489,6 +20521,14 @@
       "onboard_time": 1707835896,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275581,
+      "num": 275581,
+      "word": "贾玲写的第一首歌",
+      "onboard_time": 1708223969,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 275318,
@@ -21465,14 +21505,6 @@
       "onboard_time": 1706922330,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258561,
-      "num": 258561,
-      "word": "贾玲写的第一首歌",
-      "onboard_time": 1708223969,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 258518,
@@ -22865,6 +22897,14 @@
       "onboard_time": 1706835273,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 241550,
+      "num": 241550,
+      "word": "江苏卫视长风渡定档",
+      "onboard_time": 1708225711,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 241453,
@@ -24595,14 +24635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223747,
-      "num": 223747,
-      "word": "宝宝说想当中国人",
-      "onboard_time": 1708225776,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223662,
       "num": 205765,
       "word": "白客 娱乐圈知名Beta",
@@ -26147,6 +26179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210250,
+      "num": 210250,
+      "word": "1家5口从三亚飞回新疆要花10万",
+      "onboard_time": 1708226912,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210211,
       "num": 210211,
       "word": "朱志鑫Baggy Jeans混剪",
@@ -26953,6 +26993,14 @@
       "onboard_time": 1706774909,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205210,
+      "num": 205210,
+      "word": "春节档为何出现罕见撤档潮",
+      "onboard_time": 1708227031,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 205153,
@@ -28081,14 +28129,6 @@
       "onboard_time": 1707813519,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 199145,
-      "num": 199145,
-      "word": "江苏卫视长风渡定档",
-      "onboard_time": 1708225711,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 199128,
@@ -29697,6 +29737,14 @@
       "onboard_time": 1707061592,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190487,
+      "num": 190487,
+      "word": "贾玲大波浪晚礼服",
+      "onboard_time": 1708227155,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190464,
@@ -36155,6 +36203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150721,
+      "num": 150721,
+      "word": "扣篮大赛",
+      "onboard_time": 1708227090,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "工会回应副主席被曝不雅聊天",
@@ -39483,6 +39539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132721,
+      "num": 132721,
+      "word": "12306候补",
+      "onboard_time": 1708227274,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132688,
       "num": 132688,
       "word": "管泽元解说米勒比赛",
@@ -42323,6 +42387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117356,
+      "num": 412544,
+      "word": "什么才是可街可赛可玩的超跑",
+      "onboard_time": 1708223792,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117330,
       "num": 117330,
       "word": "斯图尔特拳击尤班克斯",
@@ -44499,14 +44571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97501,
-      "num": 412544,
-      "word": "什么才是可街可赛可玩的超跑",
-      "onboard_time": 1708223792,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 97334,
       "num": 185424,
       "word": "听完这搓澡教学更不敢去了",
@@ -46388,7 +46452,7 @@
     },
     {
       "raw_hot": 53813,
-      "num": 1332955,
+      "num": 1723992,
       "word": "感受祖国各地的新春新事",
       "onboard_time": 1708176094,
       "rank": 2,
