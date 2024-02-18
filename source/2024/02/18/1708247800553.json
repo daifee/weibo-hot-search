@@ -1,0 +1,410 @@
+{
+  "runTime": 1708247800553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2182519,
+        "num": 2182519,
+        "word": "林孝埈刘少昂摔出赛道",
+        "onboard_time": 1708245816,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1457304,
+        "num": 1457304,
+        "word": "徐冬冬尹子维订婚",
+        "onboard_time": 1708244855,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70496,
+        "num": 1116197,
+        "word": "开年第一弹智造业强省",
+        "onboard_time": 1708228716,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033699,
+        "num": 1033699,
+        "word": "10岁男孩被窜出的烟花炸伤身亡",
+        "onboard_time": 1708243895,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955613,
+        "num": 955613,
+        "word": "丢寒假作业的秦朗家人回应",
+        "onboard_time": 1708238434,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823282,
+        "num": 823282,
+        "word": "贾玲仪态",
+        "onboard_time": 1708239935,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 795868,
+        "num": 795868,
+        "word": "咒术回战全员死亡",
+        "onboard_time": 1708247134,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 748866,
+        "num": 748866,
+        "word": "薛之谦 你们人类有两幅面孔",
+        "onboard_time": 1708242394,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 699407,
+        "num": 699407,
+        "word": "开工首日iPhone15降至4588元",
+        "onboard_time": 1708243475,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 557904,
+        "num": 557904,
+        "word": "考研成绩倒计时",
+        "onboard_time": 1708242994,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2160403,
+        "num": 543482,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 960451,
+        "num": 534063,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523341,
+        "num": 523341,
+        "word": "马丽测评了14条光腿神器",
+        "onboard_time": 1708234055,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498003,
+        "num": 498003,
+        "word": "粉丝给迪丽热巴P的簪花照",
+        "onboard_time": 1708244313,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430651,
+        "num": 430651,
+        "word": "内娱大冰",
+        "onboard_time": 1708227934,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430039,
+        "num": 430039,
+        "word": "贾玲马丽之间的惺惺相惜",
+        "onboard_time": 1708243294,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425145,
+        "num": 425145,
+        "word": "高伟光梁靖康 哑舍",
+        "onboard_time": 1708246476,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407124,
+        "num": 407124,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367817,
+        "num": 367817,
+        "word": "江苏海安工厂爆炸已致3人死亡2人失联",
+        "onboard_time": 1708243953,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 320515,
+        "num": 320515,
+        "word": "把掰了四年的朋友微博看完了",
+        "onboard_time": 1708234176,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 776083,
+        "num": 318236,
+        "word": "瑞幸9.9元一杯活动缩水",
+        "onboard_time": 1708242933,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 401876,
+        "num": 317375,
+        "word": "金毛偷咬彩票意外刮中1000元",
+        "onboard_time": 1708245336,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376575,
+        "num": 316642,
+        "word": "黄景瑜你拿喉结干什么",
+        "onboard_time": 1708245517,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315854,
+        "num": 315854,
+        "word": "亲爱的 还有另一半呢",
+        "onboard_time": 1708243053,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267673,
+        "num": 267673,
+        "word": "孙龙三冠王",
+        "onboard_time": 1708245933,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266376,
+        "num": 266376,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258280,
+        "num": 258280,
+        "word": "张拿铁飙英文管理奶奶",
+        "onboard_time": 1708244914,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250075,
+        "num": 250075,
+        "word": "虞书欣父母退出涉诈骗公司",
+        "onboard_time": 1708224513,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241858,
+        "num": 241858,
+        "word": "韩天宇被PEN",
+        "onboard_time": 1708244557,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229338,
+        "num": 241501,
+        "word": "新疆现大片七彩祥云",
+        "onboard_time": 1708246233,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 241158,
+        "num": 241158,
+        "word": "1家5口从三亚飞回新疆要花10万",
+        "onboard_time": 1708226912,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236464,
+        "num": 236464,
+        "word": "孙龙1000米夺冠",
+        "onboard_time": 1708246416,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221118,
+        "num": 221118,
+        "word": "王鹤棣见到库里了",
+        "onboard_time": 1708240410,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 213620,
+        "num": 213620,
+        "word": "李雪琴P图贾玲都等瘦了",
+        "onboard_time": 1708235912,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209529,
+        "num": 209529,
+        "word": "西安大唐不夜城成全国客流量前十商圈",
+        "onboard_time": 1708247254,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198478,
+        "num": 198478,
+        "word": "上班前3天不宜安排高强度工作",
+        "onboard_time": 1708247016,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197783,
+        "num": 197783,
+        "word": "这个班真就非上不可吗",
+        "onboard_time": 1708242575,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187115,
+        "num": 187115,
+        "word": "女儿舍不得父母返程时真情流泪",
+        "onboard_time": 1708243235,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184720,
+        "num": 184720,
+        "word": "贾玲写的第一首歌",
+        "onboard_time": 1708223969,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182879,
+        "num": 182879,
+        "word": "卜凡回应卜卦",
+        "onboard_time": 1708229615,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182165,
+        "num": 182165,
+        "word": "手机充完电要不要拔插头",
+        "onboard_time": 1708246176,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176905,
+        "num": 176905,
+        "word": "男子烧灶膛火中窜出一只动物",
+        "onboard_time": 1708246775,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172088,
+        "num": 172088,
+        "word": "开工红包",
+        "onboard_time": 1708247613,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170738,
+        "num": 170738,
+        "word": "开工第一天我把工位换新了",
+        "onboard_time": 1708245336,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156005,
+        "num": 156005,
+        "word": "舅舅买试卷送丢寒假作业的秦朗",
+        "onboard_time": 1708242334,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154560,
+        "num": 154560,
+        "word": "谷爱凌夺冠后要去做作业",
+        "onboard_time": 1708239272,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149597,
+        "num": 149597,
+        "word": "詹姆斯点赞女主播辣照",
+        "onboard_time": 1708240894,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "面试密码",
+        "onboard_time": 1708247734,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138099,
+        "num": 138099,
+        "word": "朱婷未进集训名单",
+        "onboard_time": 1708241374,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136201,
+        "num": 136201,
+        "word": "追星的必要性",
+        "onboard_time": 1708247734,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向非洲联盟峰会致贺电#"
+    }
+  }
+}

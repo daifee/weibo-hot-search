@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708245378904,
+  "endTime": 1708247800553,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2385481,
-      "num": 461108,
+      "num": 543482,
       "word": "白敬亭工作人员说魏大勋掉扇子",
       "onboard_time": 1708242575,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1708223911,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2182519,
+      "num": 2182519,
+      "word": "林孝埈刘少昂摔出赛道",
+      "onboard_time": 1708245816,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1972230,
@@ -107,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1457304,
+      "num": 1457304,
+      "word": "徐冬冬尹子维订婚",
+      "onboard_time": 1708244855,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1292108,
       "num": 1292108,
       "word": "贾玲仪态",
@@ -177,6 +193,14 @@
       "onboard_time": 1708216112,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1033699,
+      "num": 1033699,
+      "word": "10岁男孩被窜出的烟花炸伤身亡",
+      "onboard_time": 1708243895,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991147,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795868,
+      "num": 795868,
+      "word": "咒术回战全员死亡",
+      "onboard_time": 1708247134,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 784714,
       "num": 652897,
       "word": "12306称车库的车都开出去了",
@@ -321,6 +353,14 @@
       "onboard_time": 1708181916,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 699407,
+      "num": 699407,
+      "word": "开工首日iPhone15降至4588元",
+      "onboard_time": 1708243475,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 688142,
@@ -419,14 +459,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 577072,
-      "num": 271401,
-      "word": "10岁男孩被窜出的烟花炸伤身亡",
-      "onboard_time": 1708243895,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565743,
       "num": 565743,
       "word": "考研成绩倒计时",
@@ -465,14 +497,6 @@
       "onboard_time": 1708184971,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 521055,
-      "num": 521055,
-      "word": "徐冬冬尹子维订婚",
-      "onboard_time": 1708244855,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 518945,
@@ -515,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498003,
+      "num": 498003,
+      "word": "粉丝给迪丽热巴P的簪花照",
+      "onboard_time": 1708244313,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489373,
       "num": 489373,
       "word": "黑龙江曹园事件最新进展",
       "onboard_time": 1708215391,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484587,
-      "num": 424973,
-      "word": "粉丝给迪丽热巴P的簪花照",
-      "onboard_time": 1708244313,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 483025,
@@ -564,19 +588,11 @@
     },
     {
       "raw_hot": 468124,
-      "num": 405946,
+      "num": 430039,
       "word": "贾玲马丽之间的惺惺相惜",
       "onboard_time": 1708243294,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464854,
-      "num": 332135,
-      "word": "开工首日iPhone15降至4588元",
-      "onboard_time": 1708243475,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 463672,
@@ -635,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 425145,
+      "num": 425145,
+      "word": "高伟光梁靖康 哑舍",
+      "onboard_time": 1708246476,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -665,6 +689,14 @@
       "onboard_time": 1708243053,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 401876,
+      "num": 317375,
+      "word": "金毛偷咬彩票意外刮中1000元",
+      "onboard_time": 1708245336,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400946,
@@ -707,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376575,
+      "num": 316642,
+      "word": "黄景瑜你拿喉结干什么",
+      "onboard_time": 1708245517,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375631,
       "num": 351517,
       "word": "詹姆斯点赞女主播辣照",
@@ -723,6 +763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 367817,
+      "num": 367817,
+      "word": "江苏海安工厂爆炸已致3人死亡2人失联",
+      "onboard_time": 1708243953,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 363745,
       "num": 298986,
       "word": "开工第一件事换头像",
@@ -737,14 +785,6 @@
       "onboard_time": 1708220430,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 359598,
-      "num": 359598,
-      "word": "江苏海安工厂爆炸已致3人死亡2人失联",
-      "onboard_time": 1708243953,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 358962,
@@ -1035,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267673,
+      "num": 267673,
+      "word": "孙龙三冠王",
+      "onboard_time": 1708245933,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1708242575,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258280,
+      "num": 258280,
+      "word": "张拿铁飙英文管理奶奶",
+      "onboard_time": 1708244914,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 257208,
@@ -1131,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236464,
+      "num": 236464,
+      "word": "孙龙1000米夺冠",
+      "onboard_time": 1708246416,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234932,
       "num": 234932,
       "word": "这种报复性熬夜越想戒越戒不掉",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1708222291,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229338,
+      "num": 241501,
+      "word": "新疆现大片七彩祥云",
+      "onboard_time": 1708246233,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 228391,
@@ -1227,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218356,
-      "num": 218356,
-      "word": "张拿铁飙英文管理奶奶",
-      "onboard_time": 1708244914,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 217663,
       "num": 217663,
       "word": "高叶演技",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1708243235,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209529,
+      "num": 209529,
+      "word": "西安大唐不夜城成全国客流量前十商圈",
+      "onboard_time": 1708247254,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 206101,
@@ -1345,6 +1417,14 @@
       "onboard_time": 1708242153,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 198478,
+      "num": 198478,
+      "word": "上班前3天不宜安排高强度工作",
+      "onboard_time": 1708247016,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 198308,
@@ -1483,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182165,
+      "num": 182165,
+      "word": "手机充完电要不要拔插头",
+      "onboard_time": 1708246176,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 180125,
       "num": 180125,
       "word": "詹姆斯缺席全明星训练和媒体日",
@@ -1515,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176905,
+      "num": 176905,
+      "word": "男子烧灶膛火中窜出一只动物",
+      "onboard_time": 1708246775,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174714,
       "num": 174714,
       "word": "张雪峰晒开工红包",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1708245336,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172088,
+      "num": 172088,
+      "word": "开工红包",
+      "onboard_time": 1708247613,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 170587,
@@ -1715,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149375,
-      "num": 149375,
-      "word": "金毛偷咬彩票意外刮中1000元",
-      "onboard_time": 1708245336,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149297,
       "num": 149297,
       "word": "小龙糕",
@@ -1753,6 +1849,14 @@
       "onboard_time": 1708224813,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142802,
+      "num": 142802,
+      "word": "面试密码",
+      "onboard_time": 1708247734,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 141344,
@@ -1793,6 +1897,14 @@
       "onboard_time": 1708175794,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 136201,
+      "num": 136201,
+      "word": "追星的必要性",
+      "onboard_time": 1708247734,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 130522,
