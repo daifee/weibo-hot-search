@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708251480789,
+  "endTime": 1708252434746,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2385481,
-      "num": 598693,
+      "num": 671940,
       "word": "白敬亭工作人员说魏大勋掉扇子",
       "onboard_time": 1708242575,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1818085,
+      "num": 1818085,
+      "word": "特朗普卖鞋",
+      "onboard_time": 1708249293,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1785996,
       "num": 1785996,
       "word": "内娱大冰",
@@ -115,14 +123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1477075,
-      "num": 1477075,
-      "word": "特朗普卖鞋",
-      "onboard_time": 1708249293,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1457304,
       "num": 1457304,
       "word": "徐冬冬尹子维订婚",
@@ -137,6 +137,14 @@
       "onboard_time": 1708239935,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1266179,
+      "num": 666757,
+      "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
+      "onboard_time": 1708250313,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1262471,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 884899,
-      "num": 621450,
+      "num": 703777,
       "word": "瑞幸9.9元一杯活动缩水",
       "onboard_time": 1708242933,
       "rank": 20,
@@ -320,14 +328,6 @@
       "word": "卜凡回应卜卦",
       "onboard_time": 1708229615,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 790823,
-      "num": 569332,
-      "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
-      "onboard_time": 1708250313,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -403,6 +403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 657999,
+      "num": 657999,
+      "word": "迪丽热巴 推理吧2",
+      "onboard_time": 1708251513,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642349,
       "num": 642349,
       "word": "女子春运换乘5次省4000元",
@@ -441,6 +449,14 @@
       "onboard_time": 1708219052,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 617469,
+      "num": 617469,
+      "word": "金发Winter",
+      "onboard_time": 1708250554,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 616759,
@@ -483,6 +499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 579195,
+      "num": 579195,
+      "word": "李勤勤收养周海媚爱犬",
+      "onboard_time": 1708249895,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565743,
       "num": 565743,
       "word": "考研成绩倒计时",
@@ -497,14 +521,6 @@
       "onboard_time": 1708227934,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 546448,
-      "num": 546448,
-      "word": "李勤勤收养周海媚爱犬",
-      "onboard_time": 1708249895,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 543844,
@@ -561,6 +577,14 @@
       "onboard_time": 1708227994,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508215,
+      "num": 508215,
+      "word": "林孝埈摔出赛道没有回放",
+      "onboard_time": 1708251757,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 505163,
@@ -715,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 415101,
-      "num": 415101,
-      "word": "金发Winter",
-      "onboard_time": 1708250554,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 411283,
       "num": 411283,
       "word": "年轻人为什么开始爱买黄金",
@@ -779,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382499,
+      "num": 382499,
+      "word": "吉林队5000米接力夺冠",
+      "onboard_time": 1708251634,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380270,
       "num": 380270,
       "word": "贾玲式取名",
@@ -819,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 361220,
+      "num": 361220,
+      "word": "高合",
+      "onboard_time": 1708251155,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 360019,
       "num": 360019,
       "word": "魅族转型AI停止传统手机项目",
@@ -841,6 +873,14 @@
       "onboard_time": 1708215088,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346394,
+      "num": 346394,
+      "word": "热辣滚烫票房破28亿",
+      "onboard_time": 1708250435,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 345419,
@@ -907,20 +947,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 321686,
+      "num": 321686,
+      "word": "新疆一干部防疫严峻期盗卖1.5万套防护服",
+      "onboard_time": 1708248693,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321261,
       "num": 321261,
       "word": "沙尘暴",
       "onboard_time": 1708228957,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320618,
-      "num": 320618,
-      "word": "热辣滚烫票房破28亿",
-      "onboard_time": 1708250435,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 312434,
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290264,
-      "num": 290264,
-      "word": "新疆一干部防疫严峻期盗卖1.5万套防护服",
-      "onboard_time": 1708248693,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288252,
       "num": 288252,
       "word": "韩天宇被PEN",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1708219652,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284696,
+      "num": 284696,
+      "word": "aespa复古解构风",
+      "onboard_time": 1708251271,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 281225,
@@ -1307,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237504,
+      "num": 679012,
+      "word": "女儿舍不得父母返程时真情流泪",
+      "onboard_time": 1708243235,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236464,
       "num": 236464,
       "word": "孙龙1000米夺冠",
@@ -1331,20 +1379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233068,
+      "num": 233068,
+      "word": "客服回应瑞幸9.9元活动被指缩水",
+      "onboard_time": 1708250614,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230913,
       "num": 230913,
       "word": "樊振东3比0马乔里斯",
       "onboard_time": 1708222291,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229730,
-      "num": 229730,
-      "word": "客服回应瑞幸9.9元活动被指缩水",
-      "onboard_time": 1708250614,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 228391,
@@ -1403,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224300,
+      "num": 224300,
+      "word": "改善全身体态 踮脚靠墙站",
+      "onboard_time": 1708250372,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 222736,
       "num": 222736,
       "word": "章昊泡泡",
@@ -1459,6 +1515,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 213537,
+      "num": 213537,
+      "word": "不要学姐姐 你没有开明的爸妈",
+      "onboard_time": 1708252416,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213252,
       "num": 213252,
       "word": "路阳 拒绝盗摄是小学生都懂的道理",
@@ -1473,22 +1537,6 @@
       "onboard_time": 1708249655,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210025,
-      "num": 592924,
-      "word": "女儿舍不得父母返程时真情流泪",
-      "onboard_time": 1708243235,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208116,
-      "num": 208116,
-      "word": "改善全身体态 踮脚靠墙站",
-      "onboard_time": 1708250372,
-      "rank": 42,
-      "category": "运动健身"
     },
     {
       "raw_hot": 206101,
@@ -1579,28 +1627,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196207,
-      "num": 196207,
-      "word": "aespa复古解构风",
-      "onboard_time": 1708251271,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195808,
       "num": 195808,
       "word": "多名网友拍下新疆特强沙尘暴",
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195454,
-      "num": 195454,
-      "word": "高合",
-      "onboard_time": 1708251155,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 195297,
@@ -1819,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169925,
+      "num": 688205,
+      "word": "男子驾车昏迷民警手撕车窗救人",
+      "onboard_time": 1708249895,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 168202,
       "num": 168202,
       "word": "鸣潮奏鸣测试",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1708166912,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165888,
-      "num": 617180,
-      "word": "男子驾车昏迷民警手撕车窗救人",
-      "onboard_time": 1708249895,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 165615,
