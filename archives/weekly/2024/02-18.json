@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708280380948,
+  "endTime": 1708281252040,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -2979,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109976,
+      "num": 109976,
+      "word": "汤唯老公姐",
+      "onboard_time": 1708279458,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109701,
       "num": 109701,
       "word": "吴世勋中国杂志销量",
@@ -3049,14 +3057,6 @@
       "onboard_time": 1708176094,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98759,
-      "num": 98759,
-      "word": "汤唯老公姐",
-      "onboard_time": 1708279458,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 93486,
