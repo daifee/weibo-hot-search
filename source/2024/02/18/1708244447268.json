@@ -1,0 +1,410 @@
+{
+  "runTime": 1708244447268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1939877,
+        "num": 1939877,
+        "word": "丢寒假作业的秦朗家人回应",
+        "onboard_time": 1708238434,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138736,
+        "num": 1138736,
+        "word": "贾玲仪态",
+        "onboard_time": 1708239935,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51254,
+        "num": 973879,
+        "word": "开年第一弹智造业强省",
+        "onboard_time": 1708228716,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309057,
+        "num": 955620,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892097,
+        "num": 892097,
+        "word": "薛之谦 你们人类有两幅面孔",
+        "onboard_time": 1708242394,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 773831,
+        "num": 773831,
+        "word": "马丽测评了14条光腿神器",
+        "onboard_time": 1708234055,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607271,
+        "num": 607271,
+        "word": "谷爱凌夺冠后要去做作业",
+        "onboard_time": 1708239272,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604646,
+        "num": 604646,
+        "word": "内娱大冰",
+        "onboard_time": 1708227934,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542251,
+        "num": 542251,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432922,
+        "num": 432922,
+        "word": "考研成绩倒计时",
+        "onboard_time": 1708242994,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2056239,
+        "num": 432719,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430565,
+        "num": 430565,
+        "word": "虞书欣父母退出涉诈骗公司",
+        "onboard_time": 1708224513,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389269,
+        "num": 389269,
+        "word": "王鹤棣见到库里了",
+        "onboard_time": 1708240410,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 377867,
+        "num": 377867,
+        "word": "把掰了四年的朋友微博看完了",
+        "onboard_time": 1708234176,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376508,
+        "num": 376508,
+        "word": "贾玲马丽之间的惺惺相惜",
+        "onboard_time": 1708243294,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365350,
+        "num": 365350,
+        "word": "亲爱的 还有另一半呢",
+        "onboard_time": 1708243053,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361433,
+        "num": 361433,
+        "word": "1家5口从三亚飞回新疆要花10万",
+        "onboard_time": 1708226912,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358962,
+        "num": 358962,
+        "word": "朱婷未进集训名单",
+        "onboard_time": 1708241374,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355119,
+        "num": 355119,
+        "word": "李雪琴P图贾玲都等瘦了",
+        "onboard_time": 1708235912,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351517,
+        "num": 351517,
+        "word": "詹姆斯点赞女主播辣照",
+        "onboard_time": 1708240894,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 880497,
+        "num": 347375,
+        "word": "瑞幸9.9元一杯活动缩水",
+        "onboard_time": 1708242933,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375225,
+        "num": 331534,
+        "word": "迪丽热巴狗耳朵开工照",
+        "onboard_time": 1708240175,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357686,
+        "num": 327387,
+        "word": "开工首日iPhone15降至4588元",
+        "onboard_time": 1708243475,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 311425,
+        "num": 311425,
+        "word": "年轻人为什么开始爱买黄金",
+        "onboard_time": 1708235193,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305058,
+        "num": 305058,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268010,
+        "num": 268010,
+        "word": "舅舅买试卷送丢寒假作业的秦朗",
+        "onboard_time": 1708242334,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267102,
+        "num": 267102,
+        "word": "卜凡回应卜卦",
+        "onboard_time": 1708229615,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263616,
+        "num": 263616,
+        "word": "这个班真就非上不可吗",
+        "onboard_time": 1708242575,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253664,
+        "num": 253664,
+        "word": "马丽以为mary饺是沈腾送的",
+        "onboard_time": 1708237773,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199550,
+        "num": 244828,
+        "word": "1个八段锦动作改善节后疲乏",
+        "onboard_time": 1708242153,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 286823,
+        "num": 244590,
+        "word": "10岁男孩被窜出的烟花炸伤身亡",
+        "onboard_time": 1708243895,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237008,
+        "num": 237008,
+        "word": "宝马确认发生数据泄露事件",
+        "onboard_time": 1708240653,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225111,
+        "num": 225111,
+        "word": "许光汉道枝骏佑新片剧照",
+        "onboard_time": 1708241194,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222816,
+        "num": 222816,
+        "word": "林孝埈1000米小组第一",
+        "onboard_time": 1708244197,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217663,
+        "num": 217663,
+        "word": "高叶演技",
+        "onboard_time": 1708243352,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217051,
+        "num": 217051,
+        "word": "YouTube前CEO之子在校突然身亡",
+        "onboard_time": 1708235912,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 211624,
+        "word": "贾玲大波浪晚礼服",
+        "onboard_time": 1708227155,
+        "rank": 36,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 210025,
+        "num": 210025,
+        "word": "女儿舍不得父母返程时真情流泪",
+        "onboard_time": 1708243235,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196063,
+        "num": 196063,
+        "word": "江苏海安工厂爆炸已致3人死亡2人失联",
+        "onboard_time": 1708243953,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 182226,
+        "num": 182226,
+        "word": "江苏海安一工厂发生爆炸有伤亡",
+        "onboard_time": 1708239692,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178436,
+        "num": 178436,
+        "word": "秀智金宇彬新戏路透",
+        "onboard_time": 1708243173,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174194,
+        "num": 174194,
+        "word": "财神爷摆件成了我开工搭子",
+        "onboard_time": 1708242153,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167833,
+        "num": 167833,
+        "word": "因为高速太堵跟领导请假被拒了",
+        "onboard_time": 1708232856,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166782,
+        "num": 166782,
+        "word": "粉丝给迪丽热巴P的簪花照",
+        "onboard_time": 1708244313,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164550,
+        "num": 164550,
+        "word": "爱其实是很奢侈的东西",
+        "onboard_time": 1708242211,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155520,
+        "num": 155520,
+        "word": "咏春拳的创始人是严咏春女士",
+        "onboard_time": 1708239755,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150513,
+        "num": 150513,
+        "word": "傲娇美 殷世航",
+        "onboard_time": 1708228595,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146587,
+        "num": 146587,
+        "word": "白敬亭泪痣",
+        "onboard_time": 1708220132,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146153,
+        "num": 146153,
+        "word": "我是千年来打铁花第一个女传人",
+        "onboard_time": 1708244256,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143190,
+        "num": 143190,
+        "word": "短道速滑",
+        "onboard_time": 1708244435,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  }
+}
