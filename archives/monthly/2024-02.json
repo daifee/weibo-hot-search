@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708276570031,
+  "endTime": 1708277634628,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -17939,6 +17939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342277,
+      "num": 342277,
+      "word": "前女友爆料卜凡的狗被毒死",
+      "onboard_time": 1708268494,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342011,
       "num": 332186,
       "word": "孙颖莎爆冷输球的原因在哪里",
@@ -18121,14 +18129,6 @@
       "onboard_time": 1706710235,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334335,
-      "num": 334335,
-      "word": "前女友爆料卜凡的狗被毒死",
-      "onboard_time": 1708268494,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 333745,
@@ -46819,6 +46819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92732,
+      "num": 87361,
+      "word": "摔跤吧爸爸主演发文悼念",
+      "onboard_time": 1708276643,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92725,
       "num": 92487,
       "word": "这是龙王结婚吗",
@@ -48075,6 +48083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63036,
+      "num": 63036,
+      "word": "金晨穿睡衣拖鞋跳舞",
+      "onboard_time": 1708276405,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62205,
       "num": 62205,
       "word": "车厘子的正确吃法",
@@ -48377,14 +48393,6 @@
       "onboard_time": 1708176094,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53176,
-      "num": 53176,
-      "word": "金晨穿睡衣拖鞋跳舞",
-      "onboard_time": 1708276405,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 52757,
@@ -49041,6 +49049,14 @@
       "onboard_time": 1706810059,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39474,
+      "num": 51881,
+      "word": "侯明昊水中半裸海报",
+      "onboard_time": 1708277481,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 39207,
