@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708234433665,
+  "endTime": 1708237259849,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -17,6 +17,14 @@
       "onboard_time": 1708223911,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1972230,
+      "num": 1972230,
+      "word": "马丽测评了14条光腿神器",
+      "onboard_time": 1708234055,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1953632,
@@ -41,6 +49,14 @@
       "onboard_time": 1708227934,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1780729,
+      "num": 1780729,
+      "word": "高三班主任被曝办公室强吻女学生",
+      "onboard_time": 1708235732,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1626080,
@@ -187,6 +203,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 841153,
+      "num": 434255,
+      "word": "李雪琴P图贾玲都等瘦了",
+      "onboard_time": 1708235912,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 823400,
+      "num": 823400,
+      "word": "把掰了四年的朋友微博看完了",
+      "onboard_time": 1708234176,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 811119,
       "num": 811119,
       "word": "满江红编剧 盗摄是有问题的",
@@ -323,14 +355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 605306,
-      "num": 542434,
-      "word": "马丽测评了14条光腿神器",
-      "onboard_time": 1708234055,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 562294,
       "num": 562294,
       "word": "找工作",
@@ -355,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 540635,
+      "num": 433263,
+      "word": "YouTube前CEO之子在校突然身亡",
+      "onboard_time": 1708235912,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 528999,
       "num": 528999,
       "word": "张艺谋让高叶多拍好戏",
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 515340,
-      "num": 302183,
+      "num": 331932,
       "word": "因为高速太堵跟领导请假被拒了",
       "onboard_time": 1708232856,
       "rank": 30,
@@ -467,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425739,
+      "num": 425739,
+      "word": "齐司礼 丑卡",
+      "onboard_time": 1708234296,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 391168,
-      "num": 304534,
+      "num": 316068,
       "word": "第一次用愚蠢来形容一个烟花",
       "onboard_time": 1708230936,
       "rank": 23,
@@ -537,6 +577,14 @@
       "onboard_time": 1708215088,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345419,
+      "num": 309713,
+      "word": "唐九洲拿到了主持人合格证",
+      "onboard_time": 1708234535,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 340433,
@@ -643,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298952,
+      "num": 298952,
+      "word": "贾玲写的第一首歌",
+      "onboard_time": 1708223969,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 297867,
       "num": 297867,
       "word": "陈丽君生图",
@@ -667,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288878,
-      "num": 288878,
-      "word": "贾玲写的第一首歌",
-      "onboard_time": 1708223969,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 287859,
       "num": 287859,
       "word": "内娱爆改天花板",
@@ -697,6 +745,14 @@
       "onboard_time": 1708219652,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281225,
+      "num": 281225,
+      "word": "赵今麦一天告别两个角色",
+      "onboard_time": 1708236274,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 281071,
@@ -745,6 +801,14 @@
       "onboard_time": 1708230457,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267003,
+      "num": 267003,
+      "word": "上班第一天确诊节后综合征",
+      "onboard_time": 1708233994,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266909,
@@ -867,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225380,
+      "num": 254601,
+      "word": "年轻人为什么开始爱买黄金",
+      "onboard_time": 1708235193,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225088,
       "num": 225088,
       "word": "沈腾杨洋军艺校草合成照",
@@ -907,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218454,
+      "num": 171702,
+      "word": "偷感",
+      "onboard_time": 1708234891,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217299,
       "num": 217299,
       "word": "夏之光演技",
@@ -931,14 +1011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209370,
-      "num": 209370,
-      "word": "把掰了四年的朋友微博看完了",
-      "onboard_time": 1708234176,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205306,
       "num": 205306,
       "word": "NBA全明星",
@@ -953,14 +1025,6 @@
       "onboard_time": 1708227031,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204593,
-      "num": 204593,
-      "word": "齐司礼 丑卡",
-      "onboard_time": 1708234296,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 204385,
@@ -1107,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182545,
+      "num": 182545,
+      "word": "孩子有点知识但是学杂了",
+      "onboard_time": 1708235193,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182298,
       "num": 182298,
       "word": "23岁猫咪相当于人类百岁老人了",
@@ -1137,14 +1209,6 @@
       "onboard_time": 1708183893,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177248,
-      "num": 200992,
-      "word": "上班第一天确诊节后综合征",
-      "onboard_time": 1708233994,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 176998,
@@ -1339,12 +1403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136601,
+      "num": 136601,
+      "word": "春节假期国内游人次达4.74亿",
+      "onboard_time": 1708237171,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "官方通报傅园慧包车被勒索",
       "onboard_time": 1708175794,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 130586,
+      "num": 152458,
+      "word": "春节假期国内游客花了6326亿",
+      "onboard_time": 1708236993,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130522,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1708173391,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106390,
+      "num": 106390,
+      "word": "申裕斌0比3迪亚兹",
+      "onboard_time": 1708235854,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106289,

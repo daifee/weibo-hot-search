@@ -1,0 +1,410 @@
+{
+  "runTime": 1708237259849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972230,
+        "num": 1972230,
+        "word": "马丽测评了14条光腿神器",
+        "onboard_time": 1708234055,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1780729,
+        "num": 1780729,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63268,
+        "num": 1452282,
+        "word": "开年第一弹智造业强省",
+        "onboard_time": 1708228716,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419765,
+        "num": 1419765,
+        "word": "贾玲大波浪晚礼服",
+        "onboard_time": 1708227155,
+        "rank": 3,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 1156588,
+        "num": 1156588,
+        "word": "1家5口从三亚飞回新疆要花10万",
+        "onboard_time": 1708226912,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982132,
+        "num": 982132,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 939308,
+        "num": 939308,
+        "word": "内娱大冰",
+        "onboard_time": 1708227934,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823400,
+        "num": 823400,
+        "word": "把掰了四年的朋友微博看完了",
+        "onboard_time": 1708234176,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 650756,
+        "num": 650756,
+        "word": "虞书欣父母退出涉诈骗公司",
+        "onboard_time": 1708224513,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436190,
+        "num": 436190,
+        "word": "腾讯小米为员工发开工红包",
+        "onboard_time": 1708231116,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 841153,
+        "num": 434255,
+        "word": "李雪琴P图贾玲都等瘦了",
+        "onboard_time": 1708235912,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540635,
+        "num": 433263,
+        "word": "YouTube前CEO之子在校突然身亡",
+        "onboard_time": 1708235912,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 446625,
+        "num": 432225,
+        "word": "卜凡回应卜卦",
+        "onboard_time": 1708229615,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429733,
+        "num": 429733,
+        "word": "国际金价下跌为何国内金价坚挺",
+        "onboard_time": 1708230816,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 425739,
+        "num": 425739,
+        "word": "齐司礼 丑卡",
+        "onboard_time": 1708234296,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417036,
+        "num": 417036,
+        "word": "杨幂开年高定",
+        "onboard_time": 1708233157,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409527,
+        "num": 409527,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407608,
+        "num": 407608,
+        "word": "傲娇美 殷世航",
+        "onboard_time": 1708228595,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 343030,
+        "num": 343030,
+        "word": "去新加坡旅游到底有多贵",
+        "onboard_time": 1708230337,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 257315,
+        "num": 342083,
+        "word": "硅谷再现杀妻案",
+        "onboard_time": 1708224994,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403529,
+        "num": 331932,
+        "word": "因为高速太堵跟领导请假被拒了",
+        "onboard_time": 1708232856,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388855,
+        "num": 324533,
+        "word": "满江红编剧 盗摄是有问题的",
+        "onboard_time": 1708229496,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360790,
+        "num": 316068,
+        "word": "第一次用愚蠢来形容一个烟花",
+        "onboard_time": 1708230936,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345419,
+        "num": 309713,
+        "word": "唐九洲拿到了主持人合格证",
+        "onboard_time": 1708234535,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308158,
+        "num": 308158,
+        "word": "白敬亭泪痣",
+        "onboard_time": 1708220132,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298952,
+        "num": 298952,
+        "word": "贾玲写的第一首歌",
+        "onboard_time": 1708223969,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281225,
+        "num": 281225,
+        "word": "赵今麦一天告别两个角色",
+        "onboard_time": 1708236274,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267003,
+        "num": 267003,
+        "word": "上班第一天确诊节后综合征",
+        "onboard_time": 1708233994,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225380,
+        "num": 254601,
+        "word": "年轻人为什么开始爱买黄金",
+        "onboard_time": 1708235193,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218930,
+        "num": 252470,
+        "word": "女子春运换乘5次省4000元",
+        "onboard_time": 1708228534,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252034,
+        "num": 252034,
+        "word": "摔跤吧爸爸小芭比塔演员去世",
+        "onboard_time": 1708221093,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242146,
+        "num": 242146,
+        "word": "全智贤出国机场图",
+        "onboard_time": 1708227994,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235424,
+        "num": 235424,
+        "word": "赵今麦张凌赫面纱吻镜头",
+        "onboard_time": 1708231295,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182545,
+        "num": 182545,
+        "word": "孩子有点知识但是学杂了",
+        "onboard_time": 1708235193,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171782,
+        "num": 171782,
+        "word": "找工作",
+        "onboard_time": 1708227934,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218454,
+        "num": 171702,
+        "word": "偷感",
+        "onboard_time": 1708234891,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189122,
+        "num": 169894,
+        "word": "贾玲热辣滚烫热辣蜕变曲MV",
+        "onboard_time": 1708223374,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164610,
+        "num": 164610,
+        "word": "代号鸢孔融",
+        "onboard_time": 1708233033,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154157,
+        "num": 154157,
+        "word": "专家说上班第一天少干活儿",
+        "onboard_time": 1708224092,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130586,
+        "num": 152458,
+        "word": "春节假期国内游客花了6326亿",
+        "onboard_time": 1708236993,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179990,
+        "num": 149784,
+        "word": "周杰伦感谢霉霉给的演唱会门票",
+        "onboard_time": 1708213886,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172850,
+        "num": 146574,
+        "word": "大梦归离官宣",
+        "onboard_time": 1708226372,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161731,
+        "num": 142392,
+        "word": "卜凡的卜原来是卜卦的卜",
+        "onboard_time": 1708212741,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142250,
+        "num": 142250,
+        "word": "开工第一件事换头像",
+        "onboard_time": 1708231295,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 136943,
+        "word": "小狗堵车堵得都哭了",
+        "onboard_time": 1708230457,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136601,
+        "num": 136601,
+        "word": "春节假期国内游人次达4.74亿",
+        "onboard_time": 1708237171,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "五官逐渐变得耐看的六种方法",
+        "onboard_time": 1708221212,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 122240,
+        "word": "12306候补",
+        "onboard_time": 1708227274,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110938,
+        "num": 110938,
+        "word": "中国海警在厦金海域开展执法巡查行动",
+        "onboard_time": 1708228174,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 106390,
+        "num": 106390,
+        "word": "申裕斌0比3迪亚兹",
+        "onboard_time": 1708235854,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#佳句里凝练着中国人的智慧和风骨#"
+    }
+  }
+}
