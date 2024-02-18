@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708283593172,
+  "endTime": 1708284831180,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -49827,6 +49827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23091,
+      "num": 23091,
+      "word": "宝宝1岁生日电子抓周",
+      "onboard_time": 1708282337,
+      "rank": 40,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 22422,
       "num": 24659,
       "word": "没想到肌肉男有自己的年检",
@@ -49865,14 +49873,6 @@
       "onboard_time": 1706759731,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22125,
-      "num": 22125,
-      "word": "宝宝1岁生日电子抓周",
-      "onboard_time": 1708282337,
-      "rank": 40,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 22084,
@@ -50177,6 +50177,14 @@
       "onboard_time": 1707255495,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 16572,
+      "num": 17804,
+      "word": "5招提高睡眠质量",
+      "onboard_time": 1708283777,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16567,
