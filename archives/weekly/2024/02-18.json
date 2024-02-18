@@ -1,7 +1,15 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708227327077,
+  "endTime": 1708229976544,
   "band_list": [
+    {
+      "raw_hot": 2847496,
+      "num": 2847496,
+      "word": "贾玲大波浪晚礼服",
+      "onboard_time": 1708227155,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
     {
       "raw_hot": 2261425,
       "num": 2261425,
@@ -16,6 +24,22 @@
       "word": "虞书欣父母退出涉诈骗公司",
       "onboard_time": 1708224513,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1723354,
+      "num": 1723354,
+      "word": "1家5口从三亚飞回新疆要花10万",
+      "onboard_time": 1708226912,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1690722,
+      "num": 1690722,
+      "word": "内娱大冰",
+      "onboard_time": 1708227934,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -83,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1197299,
+      "num": 1197299,
+      "word": "大梦归离官宣",
+      "onboard_time": 1708226372,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1173753,
       "num": 1173753,
       "word": "专家说上班第一天少干活儿",
@@ -121,14 +153,6 @@
       "onboard_time": 1708212741,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 895639,
-      "num": 895639,
-      "word": "大梦归离官宣",
-      "onboard_time": 1708226372,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 889156,
@@ -195,6 +219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 645173,
+      "num": 455734,
+      "word": "傲娇美 殷世航",
+      "onboard_time": 1708228595,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 635759,
       "num": 635759,
       "word": "库里29分",
@@ -241,6 +273,14 @@
       "onboard_time": 1708221212,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 577554,
+      "num": 577554,
+      "word": "12306候补",
+      "onboard_time": 1708227274,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 543844,
@@ -315,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 466199,
+      "num": 339481,
+      "word": "全智贤出国机场图",
+      "onboard_time": 1708227994,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451672,
       "num": 451672,
       "word": "你好星期六下期有谭松韵王栎鑫",
@@ -361,6 +409,14 @@
       "onboard_time": 1708218030,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388224,
+      "num": 388224,
+      "word": "找工作",
+      "onboard_time": 1708227934,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 384402,
@@ -435,12 +491,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325347,
+      "num": 325347,
+      "word": "女子春运换乘5次省4000元",
+      "onboard_time": 1708228534,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314988,
+      "num": 314988,
+      "word": "中国海警在厦金海域开展执法巡查行动",
+      "onboard_time": 1708228174,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 310531,
       "num": 360166,
       "word": "库里三分的神",
       "onboard_time": 1708226495,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305627,
+      "num": 305627,
+      "word": "满江红编剧 盗摄是有问题的",
+      "onboard_time": 1708229496,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 304423,
@@ -467,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300718,
+      "num": 300718,
+      "word": "扣篮大赛",
+      "onboard_time": 1708227090,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297867,
       "num": 297867,
       "word": "陈丽君生图",
@@ -481,6 +569,14 @@
       "onboard_time": 1708215628,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288878,
+      "num": 288878,
+      "word": "贾玲写的第一首歌",
+      "onboard_time": 1708223969,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 287859,
@@ -515,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 275581,
-      "num": 275581,
-      "word": "贾玲写的第一首歌",
-      "onboard_time": 1708223969,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 274187,
+      "num": 274187,
+      "word": "沙尘暴",
+      "onboard_time": 1708228957,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273769,
@@ -553,6 +649,14 @@
       "onboard_time": 1708174593,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 258234,
+      "num": 258234,
+      "word": "卜凡回应卜卦",
+      "onboard_time": 1708229615,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 253743,
@@ -635,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228391,
+      "num": 228391,
+      "word": "张凌赫发文告别裴文宣",
+      "onboard_time": 1708229014,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227125,
       "num": 227125,
       "word": "中国资产假期全线大涨",
@@ -675,12 +787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210250,
-      "num": 210250,
-      "word": "1家5口从三亚飞回新疆要花10万",
-      "onboard_time": 1708226912,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 208248,
+      "num": 208248,
+      "word": "咒术回战 一款水果忍者",
+      "onboard_time": 1708228656,
+      "rank": 36,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 205306,
@@ -713,6 +825,14 @@
       "onboard_time": 1708180535,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202131,
+      "num": 202131,
+      "word": "库里战胜约内斯库",
+      "onboard_time": 1708229615,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 200847,
@@ -779,20 +899,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192628,
+      "num": 192628,
+      "word": "如果杜乐莹没有离开昊坤",
+      "onboard_time": 1708229554,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191962,
       "num": 191962,
       "word": "节后综合征",
       "onboard_time": 1708225232,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190487,
-      "num": 190487,
-      "word": "贾玲大波浪晚礼服",
-      "onboard_time": 1708227155,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189562,
@@ -883,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161387,
+      "num": 161387,
+      "word": "开工利是",
+      "onboard_time": 1708227755,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161103,
       "num": 161102,
       "word": "孙千陈靖可新中式情侣装",
@@ -897,6 +1025,14 @@
       "onboard_time": 1708179096,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158330,
+      "num": 158330,
+      "word": "聪明人都是选择什么时候返程",
+      "onboard_time": 1708227574,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 156563,
@@ -921,14 +1057,6 @@
       "onboard_time": 1708173273,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150721,
-      "num": 150721,
-      "word": "扣篮大赛",
-      "onboard_time": 1708227090,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 149830,
@@ -1011,14 +1139,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 132721,
-      "num": 132721,
-      "word": "12306候补",
-      "onboard_time": 1708227274,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 130522,
       "num": 130522,
       "word": "王鹤棣发文谈NBA名人赛",
@@ -1081,6 +1201,14 @@
       "onboard_time": 1708173391,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106917,
+      "num": 1756443,
+      "word": "开年第一弹智造业强省",
+      "onboard_time": 1708228716,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106289,
@@ -1163,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65073,
+      "num": 380928,
+      "word": "五个龙放一块到底念啥",
+      "onboard_time": 1708228834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60791,
       "num": 60791,
       "word": "热辣滚烫取景地",
@@ -1241,6 +1377,14 @@
       "onboard_time": 1708195098,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32570,
+      "num": 167344,
+      "word": "一组春节数据看活力中国",
+      "onboard_time": 1708229313,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29823,
