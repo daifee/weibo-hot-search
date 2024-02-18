@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708252434746,
+  "endTime": 1708254794354,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2385481,
-      "num": 671940,
+      "num": 694354,
       "word": "白敬亭工作人员说魏大勋掉扇子",
       "onboard_time": 1708242575,
       "rank": 10,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1266179,
-      "num": 666757,
+      "num": 799575,
       "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
       "onboard_time": 1708250313,
       "rank": 11,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943279,
+      "num": 943279,
+      "word": "高合",
+      "onboard_time": 1708251155,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 916967,
       "num": 916967,
       "word": "卜凡的卜原来是卜卦的卜",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 884899,
-      "num": 703777,
+      "num": 712012,
       "word": "瑞幸9.9元一杯活动缩水",
       "onboard_time": 1708242933,
       "rank": 20,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735262,
+      "num": 735262,
+      "word": "林孝埈摔出赛道没有回放",
+      "onboard_time": 1708251757,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 724091,
       "num": 724091,
       "word": "腾讯小米为员工发开工红包",
@@ -387,12 +403,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 692636,
+      "num": 692636,
+      "word": "热辣滚烫票房破28亿",
+      "onboard_time": 1708250435,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 688142,
       "num": 688142,
       "word": "iPad的生产力远比你想象的要大",
       "onboard_time": 1708182215,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 667439,
+      "num": 667439,
+      "word": "邓为杀青哭了",
+      "onboard_time": 1708253554,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 663146,
@@ -539,11 +571,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 535685,
+      "num": 535685,
+      "word": "高合停工6个月",
+      "onboard_time": 1708252476,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 528999,
       "num": 528999,
       "word": "张艺谋让高叶多拍好戏",
       "onboard_time": 1708184971,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 520847,
+      "num": 520847,
+      "word": "乐莹抽烟",
+      "onboard_time": 1708254275,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -577,14 +625,6 @@
       "onboard_time": 1708227994,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508215,
-      "num": 508215,
-      "word": "林孝埈摔出赛道没有回放",
-      "onboard_time": 1708251757,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 505163,
@@ -739,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 413162,
+      "num": 413162,
+      "word": "不要学姐姐 你没有开明的爸妈",
+      "onboard_time": 1708252416,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411283,
       "num": 411283,
       "word": "年轻人为什么开始爱买黄金",
@@ -843,14 +891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 361220,
-      "num": 361220,
-      "word": "高合",
-      "onboard_time": 1708251155,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 360019,
       "num": 360019,
       "word": "魅族转型AI停止传统手机项目",
@@ -873,14 +913,6 @@
       "onboard_time": 1708215088,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 346394,
-      "num": 346394,
-      "word": "热辣滚烫票房破28亿",
-      "onboard_time": 1708250435,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 345419,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324200,
+      "num": 324200,
+      "word": "星巴克回应推出红烧肉拿铁",
+      "onboard_time": 1708252715,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 322422,
       "num": 322422,
       "word": "中国海警在厦金海域开展执法巡查行动",
@@ -961,6 +1001,14 @@
       "onboard_time": 1708228957,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314775,
+      "num": 314775,
+      "word": "正式确诊为魏晨",
+      "onboard_time": 1708254515,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312434,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1708227090,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299449,
+      "num": 694773,
+      "word": "女儿舍不得父母返程时真情流泪",
+      "onboard_time": 1708243235,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298952,
@@ -1275,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248752,
+      "num": 248752,
+      "word": "工作量多可能是工位的问题",
+      "onboard_time": 1708252832,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248539,
       "num": 248539,
       "word": "春节后上班第一天的状态",
@@ -1347,14 +1411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237504,
-      "num": 679012,
-      "word": "女儿舍不得父母返程时真情流泪",
-      "onboard_time": 1708243235,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236464,
       "num": 236464,
       "word": "孙龙1000米夺冠",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1708250614,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232305,
+      "num": 232305,
+      "word": "西安发现1700余座汉长安城平民墓葬",
+      "onboard_time": 1708253735,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 230913,
@@ -1507,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217016,
+      "num": 217016,
+      "word": "司机 她怎么敢的啊",
+      "onboard_time": 1708254632,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216754,
       "num": 216754,
       "word": "咒术回战 一款水果忍者",
@@ -1515,20 +1587,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 213537,
-      "num": 213537,
-      "word": "不要学姐姐 你没有开明的爸妈",
-      "onboard_time": 1708252416,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213252,
       "num": 213252,
       "word": "路阳 拒绝盗摄是小学生都懂的道理",
       "onboard_time": 1708233693,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212892,
+      "num": 212892,
+      "word": "关晓彤短发侧颜",
+      "onboard_time": 1708253074,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210276,
@@ -1627,6 +1699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 196537,
+      "num": 196537,
+      "word": "丢脸就算了还丢了两次",
+      "onboard_time": 1708253497,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195808,
       "num": 195808,
       "word": "多名网友拍下新疆特强沙尘暴",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1708179696,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194437,
+      "num": 194437,
+      "word": "网传推理吧2阵容",
+      "onboard_time": 1708254632,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193383,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1708250854,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186522,
+      "num": 186522,
+      "word": "王一博龙年第一跳",
+      "onboard_time": 1708254515,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 186478,
@@ -1852,7 +1948,7 @@
     },
     {
       "raw_hot": 169925,
-      "num": 688205,
+      "num": 697710,
       "word": "男子驾车昏迷民警手撕车窗救人",
       "onboard_time": 1708249895,
       "rank": 8,
@@ -1969,6 +2065,14 @@
       "onboard_time": 1708245089,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158961,
+      "num": 158961,
+      "word": "当小狗看到小主人摔倒后",
+      "onboard_time": 1708253794,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 158342,
