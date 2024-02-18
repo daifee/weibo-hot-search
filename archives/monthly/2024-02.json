@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708288524104,
+  "endTime": 1708290846146,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -49507,6 +49507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29954,
+      "num": 29954,
+      "word": "95后男生钟楼摆摊拍照3天赚1800",
+      "onboard_time": 1708288636,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29929,
       "num": 29929,
       "word": "叶经理可能是最了解张驰的人",
@@ -50219,6 +50227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 16191,
+      "num": 16191,
+      "word": "金地雄泡泡 事必归正",
+      "onboard_time": 1708287317,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16163,
       "num": 17713,
       "word": "热辣滚烫预售开启",
@@ -50263,14 +50279,6 @@
       "num": 15671,
       "word": "宋茜明媚的老公姐",
       "onboard_time": 1708111696,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 15642,
-      "num": 15642,
-      "word": "金地雄泡泡 事必归正",
-      "onboard_time": 1708287317,
       "rank": 46,
       "category": "艺人"
     },
@@ -50523,6 +50531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 11428,
+      "num": 13315,
+      "word": "喷出门被人追着问的香水",
+      "onboard_time": 1708290196,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 11410,
       "num": 615326,
       "word": "我们的文化中国年",
@@ -50569,6 +50585,14 @@
       "onboard_time": 1706995995,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10160,
+      "num": 13286,
+      "word": "Sora背后团队曝光",
+      "onboard_time": 1708290017,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 9687,
