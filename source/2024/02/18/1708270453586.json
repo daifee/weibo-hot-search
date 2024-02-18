@@ -1,0 +1,410 @@
+{
+  "runTime": 1708270453586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1999851,
+        "num": 1999851,
+        "word": "女老师被丈夫举报出轨16岁学生",
+        "onboard_time": 1708268617,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267245,
+        "num": 1267245,
+        "word": "秦朗舅舅",
+        "onboard_time": 1708262796,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73087,
+        "num": 1102073,
+        "word": "新春第一会为啥聚焦人才",
+        "onboard_time": 1708263876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036408,
+        "num": 1036408,
+        "word": "周杰伦 我只看我想看的",
+        "onboard_time": 1708267176,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 873932,
+        "num": 873932,
+        "word": "巴音布鲁克之王",
+        "onboard_time": 1708264475,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779099,
+        "num": 779099,
+        "word": "吴尊感谢昆凌给的霉霉演唱会门票",
+        "onboard_time": 1708267713,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 671252,
+        "num": 671252,
+        "word": "曹县卖了3亿的马面裙依然供不应求",
+        "onboard_time": 1708265195,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 633449,
+        "num": 633449,
+        "word": "范丞丞四年前考赛车执照的照片",
+        "onboard_time": 1708266157,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552189,
+        "num": 552189,
+        "word": "为什么卫生巾广告用蓝色液体",
+        "onboard_time": 1708258535,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 317197,
+        "num": 548338,
+        "word": "当97岁奶奶没戴假牙吃草莓",
+        "onboard_time": 1708259552,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767425,
+        "num": 548138,
+        "word": "太古里牵手门女当事人直播间被封",
+        "onboard_time": 1708268977,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637468,
+        "num": 547641,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546956,
+        "num": 546956,
+        "word": "正式确诊为魏晨",
+        "onboard_time": 1708254515,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 527870,
+        "num": 527870,
+        "word": "大过年的 离婚AA制",
+        "onboard_time": 1708268018,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495517,
+        "num": 495517,
+        "word": "本周狗屎运最旺星座",
+        "onboard_time": 1708268557,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464213,
+        "num": 464213,
+        "word": "贾乃亮认不出黄晓明五官图",
+        "onboard_time": 1708266456,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461028,
+        "num": 461028,
+        "word": "游客与傅园慧经历相似却维权失败",
+        "onboard_time": 1708264475,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 432354,
+        "num": 432354,
+        "word": "刘浩存开工素颜照",
+        "onboard_time": 1708265195,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430705,
+        "num": 430705,
+        "word": "乐莹抽烟",
+        "onboard_time": 1708254275,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389384,
+        "num": 389384,
+        "word": "一女子在银行着急办业务跪求他人换号无人同意",
+        "onboard_time": 1708264295,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363786,
+        "num": 363786,
+        "word": "范丞丞 你们别告诉腾哥",
+        "onboard_time": 1708268857,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349830,
+        "num": 349830,
+        "word": "瑞幸9.9元一杯活动缩水",
+        "onboard_time": 1708242933,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342811,
+        "num": 342811,
+        "word": "飞驰2破25亿全员呼应上了",
+        "onboard_time": 1708261835,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305846,
+        "num": 305846,
+        "word": "为什么减脂人群偏爱西兰花",
+        "onboard_time": 1708265258,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273680,
+        "num": 273680,
+        "word": "成都一家三口共花不到两千离开海南",
+        "onboard_time": 1708269157,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286511,
+        "num": 271312,
+        "word": "前女友控诉卜凡家暴",
+        "onboard_time": 1708259913,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265575,
+        "num": 265575,
+        "word": "第一拨靠Sora赚钱的人已经出现了",
+        "onboard_time": 1708263515,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235536,
+        "num": 235536,
+        "word": "制片人说赵今麦五页纸不卡词",
+        "onboard_time": 1708260154,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228687,
+        "num": 228687,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114940,
+        "num": 215202,
+        "word": "女飞行员执行任务前笑着拍遗照",
+        "onboard_time": 1708261476,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213055,
+        "num": 213055,
+        "word": "感觉开放式工位真的很窒息",
+        "onboard_time": 1708266874,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211765,
+        "num": 211765,
+        "word": "前女友爆料卜凡的狗被毒死",
+        "onboard_time": 1708268494,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205866,
+        "num": 205866,
+        "word": "咒术回战全员死亡",
+        "onboard_time": 1708247134,
+        "rank": 32,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 199701,
+        "num": 199701,
+        "word": "头一次见3000毫升的点滴",
+        "onboard_time": 1708264593,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199472,
+        "num": 199472,
+        "word": "夏之光 看哪位要我这只狗",
+        "onboard_time": 1708262436,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197972,
+        "num": 197972,
+        "word": "相亲遇到美颜过度的男生",
+        "onboard_time": 1708264475,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185317,
+        "num": 185317,
+        "word": "为什么我不喜欢跟爸妈待在一起",
+        "onboard_time": 1708265674,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182847,
+        "num": 182847,
+        "word": "马思纯两年前vs现在",
+        "onboard_time": 1708269995,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "aespa美得有点过分了",
+        "onboard_time": 1708261594,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178904,
+        "num": 178904,
+        "word": "天蝎座不允许自己成为感情的附庸",
+        "onboard_time": 1708261113,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162065,
+        "num": 162065,
+        "word": "邓为杀青哭了",
+        "onboard_time": 1708253554,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153276,
+        "num": 153276,
+        "word": "影响非常严重体",
+        "onboard_time": 1708266874,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142485,
+        "num": 142485,
+        "word": "马思纯减肥Vlog",
+        "onboard_time": 1708254875,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136130,
+        "num": 136130,
+        "word": "王俊凯祝大家快乐搬砖",
+        "onboard_time": 1708266874,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132427,
+        "num": 132427,
+        "word": "仙逆24集",
+        "onboard_time": 1708263215,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 127975,
+        "word": "亲爱的她确认引进内地",
+        "onboard_time": 1708259612,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124416,
+        "num": 124416,
+        "word": "上班摸鱼最好选上午",
+        "onboard_time": 1708265556,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123520,
+        "num": 123520,
+        "word": "林亦扬殷果圆满了",
+        "onboard_time": 1708264116,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120510,
+        "num": 120510,
+        "word": "夫妻俩花5000块从海南回杭州",
+        "onboard_time": 1708269755,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95039,
+        "num": 116936,
+        "word": "林孝埈摔出赛道没有回放",
+        "onboard_time": 1708251757,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  }
+}
