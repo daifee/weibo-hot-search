@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708212835407,
+  "endTime": 1708218931191,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3155,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1262471,
+      "num": 1262471,
+      "word": "闹钟没响",
+      "onboard_time": 1708214550,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1260129,
       "num": 610152,
       "word": "马凡舒实在美丽",
@@ -4883,6 +4891,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 966762,
+      "num": 966762,
+      "word": "今年还有4次调休",
+      "onboard_time": 1708181618,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 966457,
+      "num": 966457,
+      "word": "昨晚失眠",
+      "onboard_time": 1708215752,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 965204,
       "num": 965204,
       "word": "鹅鹅鹅优雅又可爱",
@@ -5179,6 +5203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 938123,
+      "num": 938123,
+      "word": "想请假",
+      "onboard_time": 1708216112,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 937398,
       "num": 937398,
       "word": "贵州双色球6.8亿巨奖系一人独中",
@@ -5361,6 +5393,14 @@
       "onboard_time": 1707350065,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 915104,
+      "num": 915104,
+      "word": "卜凡的卜原来是卜卦的卜",
+      "onboard_time": 1708212741,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 912991,
@@ -5985,6 +6025,14 @@
       "onboard_time": 1707273990,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 850181,
+      "num": 850181,
+      "word": "周杰伦感谢霉霉给的演唱会门票",
+      "onboard_time": 1708213886,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 847197,
@@ -6905,6 +6953,14 @@
       "onboard_time": 1706930188,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774647,
+      "num": 774647,
+      "word": "赵丽颖巴黎逛街",
+      "onboard_time": 1708216171,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 773951,
@@ -8035,14 +8091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692842,
-      "num": 692842,
-      "word": "今年还有4次调休",
-      "onboard_time": 1708181618,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 692380,
       "num": 656512,
       "word": "网友解密刘谦魔术公式",
@@ -9075,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632792,
+      "num": 632792,
+      "word": "一张照片宣布开工",
+      "onboard_time": 1708217128,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 632716,
       "num": 632716,
       "word": "美甲 约不上",
@@ -9825,6 +9881,14 @@
       "onboard_time": 1707906335,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587109,
+      "num": 587109,
+      "word": "俄军已完全控制阿夫杰耶夫卡",
+      "onboard_time": 1708215811,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 586033,
@@ -10723,6 +10787,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 543844,
+      "num": 543844,
+      "word": "傅园慧求助事件司机未取得从业资格",
+      "onboard_time": 1708211904,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543535,
       "num": 543535,
       "word": "当一个行业开始赚钱女性就被迫离开",
@@ -10761,6 +10833,14 @@
       "onboard_time": 1707995315,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542952,
+      "num": 542952,
+      "word": "对台方无视大陆渔民生命安全决不容忍",
+      "onboard_time": 1708211241,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 542066,
@@ -11169,14 +11249,6 @@
       "onboard_time": 1707873931,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 526931,
-      "num": 526931,
-      "word": "对台方无视大陆渔民生命安全决不容忍",
-      "onboard_time": 1708211241,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 526088,
@@ -12107,6 +12179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 489373,
+      "num": 489373,
+      "word": "黑龙江曹园事件最新进展",
+      "onboard_time": 1708215391,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489127,
       "num": 489127,
       "word": "章若楠小品剧本",
@@ -12433,6 +12513,14 @@
       "onboard_time": 1706783851,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476479,
+      "num": 476479,
+      "word": "开工大吉",
+      "onboard_time": 1707962491,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 476474,
@@ -13107,6 +13195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 446626,
+      "num": 446626,
+      "word": "外地女婿过年统一姿势",
+      "onboard_time": 1708213406,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446497,
       "num": 446497,
       "word": "九重紫官宣阵容",
@@ -13169,6 +13265,14 @@
       "onboard_time": 1707742654,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444090,
+      "num": 318450,
+      "word": "开工红包就四百老板是不是太抠门了",
+      "onboard_time": 1708213047,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 443910,
@@ -15203,6 +15307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 384402,
+      "num": 384402,
+      "word": "堵车",
+      "onboard_time": 1708214968,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384324,
       "num": 290361,
       "word": "小哥纹身来改变鼻子形状",
@@ -16395,6 +16507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354462,
+      "num": 314562,
+      "word": "上学累还是上班累",
+      "onboard_time": 1708215088,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354212,
       "num": 354212,
       "word": "雷佳音看到瘦身后的贾玲红了眼眶",
@@ -17129,6 +17249,14 @@
       "onboard_time": 1707806137,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332009,
+      "num": 332009,
+      "word": "苹果可折叠iPhone开发暂停",
+      "onboard_time": 1708217191,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 331897,
@@ -18371,14 +18499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305951,
-      "num": 187926,
-      "word": "傅园慧求助事件司机未取得从业资格",
-      "onboard_time": 1708211904,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305863,
       "num": 305863,
       "word": "高至霆 黑月光",
@@ -18489,6 +18609,14 @@
       "onboard_time": 1708049431,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 304423,
+      "num": 304423,
+      "word": "颜沁退团",
+      "onboard_time": 1708214008,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 304225,
@@ -19017,6 +19145,14 @@
       "onboard_time": 1707468029,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293312,
+      "num": 293312,
+      "word": "送完礼感觉家里干净多了",
+      "onboard_time": 1708215628,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 293065,
@@ -20225,6 +20361,14 @@
       "onboard_time": 1707396751,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273769,
+      "num": 273769,
+      "word": "床上充电时间",
+      "onboard_time": 1708212205,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 273738,
@@ -22283,6 +22427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244249,
+      "num": 244249,
+      "word": "新疆沙尘暴",
+      "onboard_time": 1708217251,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244240,
       "num": 244240,
       "word": "宋茜簪花图是AI合成的",
@@ -24067,6 +24219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224925,
+      "num": 224925,
+      "word": "我爸的狗和他长得越来越像了",
+      "onboard_time": 1708218030,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224885,
       "num": 224885,
       "word": "怕媳妇嫌弃而狂洗脸的小哥回家了",
@@ -24323,14 +24483,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 222444,
-      "num": 222444,
-      "word": "开工大吉",
-      "onboard_time": 1707962491,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222441,
       "num": 222441,
       "word": "暴瘦后身体会发生哪些变化",
@@ -24408,6 +24560,14 @@
       "word": "女子铁锹劝架袋鼠被停职2天",
       "onboard_time": 1707827618,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221963,
+      "num": 221963,
+      "word": "男子堵在高速满山坡抓鸡",
+      "onboard_time": 1708217013,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -27315,6 +27475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200847,
+      "num": 200847,
+      "word": "2025春节倒计时346天",
+      "onboard_time": 1708213105,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200844,
       "num": 200844,
       "word": "网络视听盛典红毯",
@@ -28099,6 +28267,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 196466,
+      "num": 196466,
+      "word": "朋友圈传播盗摄会构成侵权",
+      "onboard_time": 1708217731,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196423,
       "num": 196423,
       "word": "LPL选手龙的传人",
@@ -28209,6 +28385,14 @@
       "onboard_time": 1707044250,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195808,
+      "num": 195808,
+      "word": "多名网友拍下新疆特强沙尘暴",
+      "onboard_time": 1708214911,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195743,
@@ -30657,6 +30841,14 @@
       "onboard_time": 1707106411,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180125,
+      "num": 180125,
+      "word": "詹姆斯缺席全明星训练和媒体日",
+      "onboard_time": 1708217671,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 180049,
@@ -33297,6 +33489,14 @@
       "onboard_time": 1707004105,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165069,
+      "num": 165069,
+      "word": "返程原本9小时路程开了28小时",
+      "onboard_time": 1708213526,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165041,
@@ -35955,6 +36155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148775,
+      "num": 148775,
+      "word": "大年初九",
+      "onboard_time": 1708213886,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148759,
       "num": 148759,
       "word": "浓眉20分14篮板",
@@ -37475,6 +37683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140581,
+      "num": 140581,
+      "word": "陈楚生以为要拿一个不回头奖",
+      "onboard_time": 1708213829,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140555,
       "num": 140555,
       "word": "王者龙限设计纪录片",
@@ -37745,6 +37961,14 @@
       "onboard_time": 1707108811,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139233,
+      "num": 139233,
+      "word": "安检仪里的返程行李箱",
+      "onboard_time": 1708218574,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139229,
@@ -38209,6 +38433,14 @@
       "onboard_time": 1707816466,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136882,
+      "num": 136882,
+      "word": "开学焦虑症",
+      "onboard_time": 1708215270,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 136774,
@@ -39897,6 +40129,14 @@
       "onboard_time": 1706930912,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127544,
+      "num": 127544,
+      "word": "2024假期",
+      "onboard_time": 1708215029,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 127480,
@@ -44539,14 +44779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87429,
-      "num": 87429,
-      "word": "卜凡的卜原来是卜卦的卜",
-      "onboard_time": 1708212741,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 87134,
       "num": 89984,
       "word": "2024LCK",
@@ -44865,14 +45097,6 @@
       "onboard_time": 1708035438,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 79838,
-      "num": 79838,
-      "word": "床上充电时间",
-      "onboard_time": 1708212205,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 79567,
@@ -46043,6 +46267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48371,
+      "num": 966541,
+      "word": "感受祖国各地的新春新事",
+      "onboard_time": 1708176094,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48366,
       "num": 48366,
       "word": "金晨70年代柜姐妆造",
@@ -47145,14 +47377,6 @@
       "onboard_time": 1707495053,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24461,
-      "num": 480783,
-      "word": "感受祖国各地的新春新事",
-      "onboard_time": 1708176094,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24433,
