@@ -1,0 +1,410 @@
+{
+  "runTime": 1708233322862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2717515,
+        "num": 2717515,
+        "word": "贾玲大波浪晚礼服",
+        "onboard_time": 1708227155,
+        "rank": 0,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 1679007,
+        "num": 1679007,
+        "word": "1家5口从三亚飞回新疆要花10万",
+        "onboard_time": 1708226912,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92450,
+        "num": 1654807,
+        "word": "开年第一弹智造业强省",
+        "onboard_time": 1708228716,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1650606,
+        "num": 1650606,
+        "word": "内娱大冰",
+        "onboard_time": 1708227934,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1289578,
+        "num": 1289578,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 987159,
+        "num": 987159,
+        "word": "虞书欣父母退出涉诈骗公司",
+        "onboard_time": 1708224513,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795991,
+        "num": 795991,
+        "word": "卜凡回应卜卦",
+        "onboard_time": 1708229615,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736793,
+        "num": 736793,
+        "word": "国际金价下跌为何国内金价坚挺",
+        "onboard_time": 1708230816,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 682562,
+        "num": 682562,
+        "word": "腾讯小米为员工发开工红包",
+        "onboard_time": 1708231116,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 679815,
+        "num": 679815,
+        "word": "硅谷再现杀妻案",
+        "onboard_time": 1708224994,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749704,
+        "num": 662320,
+        "word": "满江红编剧 盗摄是有问题的",
+        "onboard_time": 1708229496,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 725017,
+        "num": 658953,
+        "word": "傲娇美 殷世航",
+        "onboard_time": 1708228595,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 642349,
+        "num": 642349,
+        "word": "女子春运换乘5次省4000元",
+        "onboard_time": 1708228534,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574660,
+        "num": 574660,
+        "word": "大梦归离官宣",
+        "onboard_time": 1708226372,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562294,
+        "num": 562294,
+        "word": "找工作",
+        "onboard_time": 1708227934,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568190,
+        "num": 545549,
+        "word": "白敬亭泪痣",
+        "onboard_time": 1708220132,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494910,
+        "num": 494910,
+        "word": "摔跤吧爸爸小芭比塔演员去世",
+        "onboard_time": 1708221093,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486708,
+        "num": 486708,
+        "word": "专家说上班第一天少干活儿",
+        "onboard_time": 1708224092,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412790,
+        "num": 412790,
+        "word": "12306候补",
+        "onboard_time": 1708227274,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322422,
+        "num": 322422,
+        "word": "中国海警在厦金海域开展执法巡查行动",
+        "onboard_time": 1708228174,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 488629,
+        "num": 318781,
+        "word": "全智贤出国机场图",
+        "onboard_time": 1708227994,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471410,
+        "num": 315002,
+        "word": "赵今麦张凌赫面纱吻镜头",
+        "onboard_time": 1708231295,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406596,
+        "num": 310635,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391168,
+        "num": 304534,
+        "word": "第一次用愚蠢来形容一个烟花",
+        "onboard_time": 1708230936,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363745,
+        "num": 298986,
+        "word": "开工第一件事换头像",
+        "onboard_time": 1708231295,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330446,
+        "num": 297242,
+        "word": "杨幂开年高定",
+        "onboard_time": 1708233157,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292485,
+        "num": 292485,
+        "word": "周杰伦感谢霉霉给的演唱会门票",
+        "onboard_time": 1708213886,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278827,
+        "num": 278827,
+        "word": "去新加坡旅游到底有多贵",
+        "onboard_time": 1708230337,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 267870,
+        "num": 267870,
+        "word": "小狗堵车堵得都哭了",
+        "onboard_time": 1708230457,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251906,
+        "num": 251906,
+        "word": "代号鸢孔融",
+        "onboard_time": 1708233033,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362055,
+        "num": 250040,
+        "word": "因为高速太堵跟领导请假被拒了",
+        "onboard_time": 1708232856,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285028,
+        "num": 246913,
+        "word": "贾玲写的第一首歌",
+        "onboard_time": 1708223969,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258478,
+        "num": 244536,
+        "word": "贾玲热辣滚烫热辣蜕变曲MV",
+        "onboard_time": 1708223374,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257345,
+        "num": 240646,
+        "word": "如果杜乐莹没有离开昊坤",
+        "onboard_time": 1708229554,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238035,
+        "num": 238035,
+        "word": "光与夜之恋主线",
+        "onboard_time": 1708230757,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227037,
+        "num": 227037,
+        "word": "今夜星光灿烂",
+        "onboard_time": 1708232974,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225041,
+        "num": 225041,
+        "word": "大梦归离定妆照",
+        "onboard_time": 1708232555,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221784,
+        "num": 221784,
+        "word": "陈楚生命运的齿轮还在继续转动",
+        "onboard_time": 1708232376,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216200,
+        "num": 216200,
+        "word": "甘肃超2万名旅客滞留",
+        "onboard_time": 1708221212,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197181,
+        "num": 212950,
+        "word": "沙尘暴",
+        "onboard_time": 1708228957,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212768,
+        "num": 212768,
+        "word": "五官逐渐变得耐看的六种方法",
+        "onboard_time": 1708221212,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 201419,
+        "num": 201419,
+        "word": "张小彦 你以后好自为之",
+        "onboard_time": 1708232856,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195701,
+        "num": 195701,
+        "word": "ZICO向所有爱豆道歉",
+        "onboard_time": 1708221933,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185129,
+        "num": 185129,
+        "word": "咒术回战 一款水果忍者",
+        "onboard_time": 1708228656,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 176998,
+        "num": 176998,
+        "word": "我超爱躺在床上",
+        "onboard_time": 1708231416,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175933,
+        "num": 175933,
+        "word": "卜凡的卜原来是卜卦的卜",
+        "onboard_time": 1708212741,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168503,
+        "num": 168503,
+        "word": "谷爱凌背靠背夺金",
+        "onboard_time": 1708230337,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 161990,
+        "word": "23岁猫咪相当于人类百岁老人了",
+        "onboard_time": 1708230457,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158196,
+        "num": 158196,
+        "word": "杰伦布朗是懂人情世故的",
+        "onboard_time": 1708230516,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150225,
+        "num": 150225,
+        "word": "今天正式退出春节档",
+        "onboard_time": 1708222233,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向非洲联盟峰会致贺电#"
+    }
+  }
+}

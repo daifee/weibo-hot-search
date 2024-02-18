@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708230837182,
+  "endTime": 1708233322862,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 881648,
-      "num": 597383,
+      "num": 658953,
       "word": "傲娇美 殷世航",
       "onboard_time": 1708228595,
       "rank": 12,
@@ -187,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 795991,
+      "num": 795991,
+      "word": "卜凡回应卜卦",
+      "onboard_time": 1708229615,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784714,
       "num": 652897,
       "word": "12306称车库的车都开出去了",
@@ -203,20 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749704,
+      "num": 662320,
+      "word": "满江红编剧 盗摄是有问题的",
+      "onboard_time": 1708229496,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 736793,
+      "num": 736793,
+      "word": "国际金价下跌为何国内金价坚挺",
+      "onboard_time": 1708230816,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 706045,
       "num": 706045,
       "word": "男版四大甜妹",
       "onboard_time": 1708181916,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 696805,
-      "num": 560082,
-      "word": "卜凡回应卜卦",
-      "onboard_time": 1708229615,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 688142,
@@ -227,12 +243,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 682562,
+      "num": 682562,
+      "word": "腾讯小米为员工发开工红包",
+      "onboard_time": 1708231116,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 663146,
       "num": 663146,
       "word": "俄军已完全控制阿夫杰耶夫卡",
       "onboard_time": 1708215811,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 642349,
+      "num": 642349,
+      "word": "女子春运换乘5次省4000元",
+      "onboard_time": 1708228534,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635759,
@@ -291,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 562294,
+      "num": 562294,
+      "word": "找工作",
+      "onboard_time": 1708227934,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 543844,
       "num": 543844,
       "word": "傅园慧求助事件司机未取得从业资格",
@@ -305,14 +345,6 @@
       "onboard_time": 1708211241,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 538734,
-      "num": 538734,
-      "word": "找工作",
-      "onboard_time": 1708227934,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 528999,
@@ -363,20 +395,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 480797,
-      "num": 480797,
-      "word": "满江红编剧 盗摄是有问题的",
-      "onboard_time": 1708229496,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "开工大吉",
       "onboard_time": 1708215932,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 471410,
+      "num": 315002,
+      "word": "赵今麦张凌赫面纱吻镜头",
+      "onboard_time": 1708231295,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 468616,
@@ -435,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388104,
-      "num": 325347,
-      "word": "女子春运换乘5次省4000元",
-      "onboard_time": 1708228534,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 391168,
+      "num": 304534,
+      "word": "第一次用愚蠢来形容一个烟花",
+      "onboard_time": 1708230936,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 384402,
@@ -449,6 +481,22 @@
       "onboard_time": 1708214968,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 363745,
+      "num": 298986,
+      "word": "开工第一件事换头像",
+      "onboard_time": 1708231295,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 362055,
+      "num": 250040,
+      "word": "因为高速太堵跟领导请假被拒了",
+      "onboard_time": 1708232856,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 360019,
@@ -499,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330446,
+      "num": 297242,
+      "word": "杨幂开年高定",
+      "onboard_time": 1708233157,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328388,
       "num": 328388,
       "word": "医生建议节后这些症状要就医",
@@ -515,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322422,
+      "num": 322422,
+      "word": "中国海警在厦金海域开展执法巡查行动",
+      "onboard_time": 1708228174,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 321261,
       "num": 321261,
       "word": "沙尘暴",
       "onboard_time": 1708228957,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318499,
-      "num": 318499,
-      "word": "中国海警在厦金海域开展执法巡查行动",
-      "onboard_time": 1708228174,
-      "rank": 24,
-      "category": "军事"
     },
     {
       "raw_hot": 310531,
@@ -635,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278827,
+      "num": 278827,
+      "word": "去新加坡旅游到底有多贵",
+      "onboard_time": 1708230337,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 273769,
       "num": 273769,
       "word": "床上充电时间",
@@ -659,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267870,
+      "num": 267870,
+      "word": "小狗堵车堵得都哭了",
+      "onboard_time": 1708230457,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -673,6 +745,14 @@
       "onboard_time": 1708221933,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251906,
+      "num": 251906,
+      "word": "代号鸢孔融",
+      "onboard_time": 1708233033,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 249046,
@@ -723,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238035,
+      "num": 238035,
+      "word": "光与夜之恋主线",
+      "onboard_time": 1708230757,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234932,
       "num": 234932,
       "word": "这种报复性熬夜越想戒越戒不掉",
@@ -763,12 +851,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227037,
+      "num": 227037,
+      "word": "今夜星光灿烂",
+      "onboard_time": 1708232974,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225088,
       "num": 225088,
       "word": "沈腾杨洋军艺校草合成照",
       "onboard_time": 1708219231,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225041,
+      "num": 225041,
+      "word": "大梦归离定妆照",
+      "onboard_time": 1708232555,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 222736,
@@ -787,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221598,
-      "num": 221598,
-      "word": "去新加坡旅游到底有多贵",
-      "onboard_time": 1708230337,
-      "rank": 33,
-      "category": "旅游"
+      "raw_hot": 221784,
+      "num": 221784,
+      "word": "陈楚生命运的齿轮还在继续转动",
+      "onboard_time": 1708232376,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 217299,
@@ -849,6 +953,14 @@
       "onboard_time": 1708229615,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201419,
+      "num": 201419,
+      "word": "张小彦 你以后好自为之",
+      "onboard_time": 1708232856,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 200847,
@@ -947,28 +1059,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186094,
-      "num": 186094,
-      "word": "国际金价下跌为何国内金价坚挺",
-      "onboard_time": 1708230816,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 185266,
       "num": 185266,
       "word": "安检仪里的返程行李箱",
       "onboard_time": 1708218574,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183746,
-      "num": 183746,
-      "word": "小狗堵车堵得都哭了",
-      "onboard_time": 1708230457,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 183464,
@@ -1011,12 +1107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174851,
-      "num": 174851,
-      "word": "光与夜之恋主线",
-      "onboard_time": 1708230757,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 176998,
+      "num": 176998,
+      "word": "我超爱躺在床上",
+      "onboard_time": 1708231416,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 170587,
