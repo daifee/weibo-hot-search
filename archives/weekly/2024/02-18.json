@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708263246148,
+  "endTime": 1708265723298,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -41,6 +41,14 @@
       "onboard_time": 1708245816,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2168205,
+      "num": 2168205,
+      "word": "秦朗舅舅",
+      "onboard_time": 1708262796,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1972230,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795920,
+      "num": 795920,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 784714,
       "num": 652897,
       "word": "12306称车库的车都开出去了",
@@ -401,14 +417,6 @@
       "onboard_time": 1708251757,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 733116,
-      "num": 733116,
-      "word": "制片人说赵今麦五页纸不卡词",
-      "onboard_time": 1708260154,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 724091,
@@ -457,6 +465,14 @@
       "onboard_time": 1708250435,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 689549,
+      "num": 689549,
+      "word": "前女友控诉卜凡家暴",
+      "onboard_time": 1708259913,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 688142,
@@ -587,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 588290,
+      "num": 588290,
+      "word": "飞驰2破25亿全员呼应上了",
+      "onboard_time": 1708261835,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 587697,
       "num": 641290,
       "word": "YouTube前CEO之子在校突然身亡",
@@ -619,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 561549,
+      "num": 432234,
+      "word": "巴音布鲁克之王",
+      "onboard_time": 1708264475,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549759,
       "num": 549759,
       "word": "马思纯减肥Vlog",
@@ -633,14 +665,6 @@
       "onboard_time": 1708211904,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 543146,
-      "num": 543146,
-      "word": "前女友控诉卜凡家暴",
-      "onboard_time": 1708259913,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 542952,
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515653,
+      "num": 430143,
+      "word": "夏之光 看哪位要我这只狗",
+      "onboard_time": 1708262436,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515340,
       "num": 331932,
       "word": "因为高速太堵跟领导请假被拒了",
@@ -705,14 +737,6 @@
       "onboard_time": 1708227994,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 506632,
-      "num": 385237,
-      "word": "飞驰2破25亿全员呼应上了",
-      "onboard_time": 1708261835,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 505163,
@@ -795,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466203,
+      "num": 428805,
+      "word": "第一拨靠Sora赚钱的人已经出现了",
+      "onboard_time": 1708263515,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 463672,
       "num": 463672,
       "word": "王鹤棣见到库里了",
@@ -833,6 +865,14 @@
       "onboard_time": 1708252416,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 436610,
+      "num": 436610,
+      "word": "女飞行员执行任务前笑着拍遗照",
+      "onboard_time": 1708261476,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435807,
@@ -931,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394381,
+      "num": 394381,
+      "word": "aespa美得有点过分了",
+      "onboard_time": 1708261594,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 391168,
       "num": 316068,
       "word": "第一次用愚蠢来形容一个烟花",
@@ -955,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 382182,
-      "num": 346326,
-      "word": "aespa美得有点过分了",
-      "onboard_time": 1708261594,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 380270,
       "num": 380270,
       "word": "贾玲式取名",
@@ -977,6 +1017,14 @@
       "onboard_time": 1708254632,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 375844,
+      "num": 307143,
+      "word": "相亲遇到美颜过度的男生",
+      "onboard_time": 1708264475,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 375631,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1708231295,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 363434,
+      "num": 426215,
+      "word": "游客与傅园慧经历相似却维权失败",
+      "onboard_time": 1708264475,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 360019,
@@ -1059,12 +1115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334568,
-      "num": 248705,
-      "word": "夏之光 看哪位要我这只狗",
-      "onboard_time": 1708262436,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 340131,
+      "num": 301417,
+      "word": "曹县卖了3亿的马面裙依然供不应求",
+      "onboard_time": 1708265195,
+      "rank": 22,
+      "category": "时尚"
     },
     {
       "raw_hot": 333632,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1708228174,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 322092,
+      "num": 214132,
+      "word": "头一次见3000毫升的点滴",
+      "onboard_time": 1708264593,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 321686,
@@ -1192,14 +1256,6 @@
       "word": "三亚出岛难",
       "onboard_time": 1708218931,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300775,
-      "num": 300775,
-      "word": "女飞行员执行任务前笑着拍遗照",
-      "onboard_time": 1708261476,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1288,6 +1344,14 @@
       "word": "小镇超市为何能开20年",
       "onboard_time": 1708219652,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287470,
+      "num": 287470,
+      "word": "一女子在银行着急办业务跪求他人换号无人同意",
+      "onboard_time": 1708264295,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1483,6 +1547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249213,
+      "num": 249213,
+      "word": "林亦扬殷果圆满了",
+      "onboard_time": 1708264116,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249046,
       "num": 249046,
       "word": "贾玲吃减脂餐的感受",
@@ -1635,6 +1707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227666,
+      "num": 227666,
+      "word": "刘浩存开工素颜照",
+      "onboard_time": 1708265195,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227222,
       "num": 227222,
       "word": "男孩被烟花炸伤不幸身亡家属发声",
@@ -1747,19 +1827,19 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 215537,
-      "num": 215537,
-      "word": "秦朗舅舅",
-      "onboard_time": 1708262796,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213252,
       "num": 213252,
       "word": "路阳 拒绝盗摄是小学生都懂的道理",
       "onboard_time": 1708233693,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 212941,
+      "num": 212941,
+      "word": "孙艺洲 十字绣都没显德秀",
+      "onboard_time": 1708264956,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -1793,6 +1873,14 @@
       "onboard_time": 1708249655,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209267,
+      "num": 209267,
+      "word": "为什么减脂人群偏爱西兰花",
+      "onboard_time": 1708265258,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 207344,
@@ -2099,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "仙逆24集",
+      "onboard_time": 1708263215,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183843,
       "num": 183843,
       "word": "OPPO回应暂停折叠屏项目",
@@ -2153,6 +2249,14 @@
       "onboard_time": 1708217671,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179945,
+      "num": 969369,
+      "word": "新春第一会为啥聚焦人才",
+      "onboard_time": 1708263876,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178821,
@@ -2225,6 +2329,14 @@
       "onboard_time": 1708228716,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167993,
+      "num": 167993,
+      "word": "孙颖莎说团体赛团结最重要",
+      "onboard_time": 1708264475,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166563,
@@ -2507,6 +2619,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144080,
+      "num": 144080,
+      "word": "为什么我不喜欢跟爸妈待在一起",
+      "onboard_time": 1708265674,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144014,
+      "num": 144014,
+      "word": "为什么宇宙随时可能会终结",
+      "onboard_time": 1708265556,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 142016,
+      "num": 142016,
+      "word": "上班摸鱼最好选上午",
+      "onboard_time": 1708265556,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141344,
       "num": 141344,
       "word": "陈楚生以为要拿一个不回头奖",
@@ -2545,14 +2681,6 @@
       "onboard_time": 1708175794,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 132440,
-      "num": 132440,
-      "word": "仙逆24集",
-      "onboard_time": 1708263215,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 130522,
