@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708247800553,
+  "endTime": 1708248845406,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 2385481,
-      "num": 543482,
+      "num": 598693,
       "word": "白敬亭工作人员说魏大勋掉扇子",
       "onboard_time": 1708242575,
       "rank": 10,
@@ -3419,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1242489,
+      "num": 1242489,
+      "word": "咒术回战全员死亡",
+      "onboard_time": 1708247134,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1241967,
       "num": 1241967,
       "word": "垫底辣孩 安徽省服更有性价比",
@@ -4083,6 +4091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122743,
+      "num": 1122743,
+      "word": "10岁男孩被窜出的烟花炸伤身亡",
+      "onboard_time": 1708243895,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1120924,
       "num": 1120924,
       "word": "王鹤棣破中国明星名人赛历史记录",
@@ -4673,14 +4689,6 @@
       "onboard_time": 1707870631,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1033699,
-      "num": 1033699,
-      "word": "10岁男孩被窜出的烟花炸伤身亡",
-      "onboard_time": 1708243895,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1033615,
@@ -6891,14 +6899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 795868,
-      "num": 795868,
-      "word": "咒术回战全员死亡",
-      "onboard_time": 1708247134,
-      "rank": 6,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 795278,
       "num": 631121,
       "word": "微博崩了",
@@ -7257,6 +7257,14 @@
       "onboard_time": 1707388053,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769630,
+      "num": 769630,
+      "word": "高伟光梁靖康 哑舍",
+      "onboard_time": 1708246476,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 769202,
@@ -8107,6 +8115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 708084,
+      "num": 708084,
+      "word": "开工首日iPhone15降至4588元",
+      "onboard_time": 1708243475,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 707710,
       "num": 707710,
       "word": "乳糖不耐受的典型症状",
@@ -8233,14 +8249,6 @@
       "onboard_time": 1707976770,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 699407,
-      "num": 699407,
-      "word": "开工首日iPhone15降至4588元",
-      "onboard_time": 1708243475,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 698325,
@@ -14179,6 +14187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429375,
+      "num": 429375,
+      "word": "黄景瑜你拿喉结干什么",
+      "onboard_time": 1708245517,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429196,
       "num": 429196,
       "word": "亲友回应傅园慧被勒索",
@@ -14337,14 +14353,6 @@
       "onboard_time": 1708234296,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 425145,
-      "num": 425145,
-      "word": "高伟光梁靖康 哑舍",
-      "onboard_time": 1708246476,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 424956,
@@ -14835,6 +14843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 411156,
+      "num": 317375,
+      "word": "金毛偷咬彩票意外刮中1000元",
+      "onboard_time": 1708245336,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411153,
       "num": 411153,
       "word": "张杰辟谣官宣演唱会",
@@ -15161,14 +15177,6 @@
       "onboard_time": 1707301952,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401876,
-      "num": 317375,
-      "word": "金毛偷咬彩票意外刮中1000元",
-      "onboard_time": 1708245336,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401858,
@@ -16113,14 +16121,6 @@
       "onboard_time": 1707963932,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376575,
-      "num": 316642,
-      "word": "黄景瑜你拿喉结干什么",
-      "onboard_time": 1708245517,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 376474,
@@ -20187,6 +20187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 288252,
+      "num": 288252,
+      "word": "韩天宇被PEN",
+      "onboard_time": 1708244557,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287859,
       "num": 287859,
       "word": "内娱爆改天花板",
@@ -21347,14 +21355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269898,
-      "num": 269898,
-      "word": "韩天宇被PEN",
-      "onboard_time": 1708244557,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269887,
       "num": 269887,
       "word": "日食记 把子肉",
@@ -21409,6 +21409,14 @@
       "onboard_time": 1706962770,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269093,
+      "num": 269093,
+      "word": "檀健次新片被导演要求不许养眼",
+      "onboard_time": 1708247853,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 268983,
@@ -22619,6 +22627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 252289,
+      "num": 252289,
+      "word": "上班前3天不宜安排高强度工作",
+      "onboard_time": 1708247016,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 252072,
       "num": 301333,
       "word": "各个器官疾病引起疼痛的大致范围",
@@ -23145,6 +23161,14 @@
       "onboard_time": 1707479012,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244855,
+      "num": 244855,
+      "word": "西安大唐不夜城成全国客流量前十商圈",
+      "onboard_time": 1708247254,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 244797,
@@ -23785,6 +23809,14 @@
       "onboard_time": 1707953542,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237727,
+      "num": 601626,
+      "word": "新疆现大片七彩祥云",
+      "onboard_time": 1708246233,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 237625,
@@ -24705,14 +24737,6 @@
       "onboard_time": 1707577597,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 229338,
-      "num": 241501,
-      "word": "新疆现大片七彩祥云",
-      "onboard_time": 1708246233,
-      "rank": 29,
-      "category": "旅游"
     },
     {
       "raw_hot": 228919,
@@ -26931,14 +26955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209529,
-      "num": 209529,
-      "word": "西安大唐不夜城成全国客流量前十商圈",
-      "onboard_time": 1708247254,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 209429,
       "num": 209429,
       "word": "单依纯真大学生记忆力",
@@ -28395,6 +28411,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 201337,
+      "num": 201337,
+      "word": "开工红包",
+      "onboard_time": 1708247613,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201318,
       "num": 201318,
       "word": "A股兔年最后一个交易日",
@@ -28953,14 +28977,6 @@
       "onboard_time": 1707878850,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198478,
-      "num": 198478,
-      "word": "上班前3天不宜安排高强度工作",
-      "onboard_time": 1708247016,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 198445,
@@ -30259,6 +30275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191788,
+      "num": 191788,
+      "word": "自热火锅为何不火了",
+      "onboard_time": 1708248334,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191758,
       "num": 191758,
       "word": "BLG零封EDG",
@@ -30875,6 +30899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187817,
+      "num": 187817,
+      "word": "面试密码",
+      "onboard_time": 1708247734,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187805,
       "num": 187805,
       "word": "全明星",
@@ -31105,6 +31137,14 @@
       "onboard_time": 1706772151,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "男子烧灶膛火中窜出一只动物",
+      "onboard_time": 1708246775,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186460,
@@ -31691,6 +31731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182532,
+      "num": 182532,
+      "word": "手机充完电要不要拔插头",
+      "onboard_time": 1708246176,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182505,
       "num": 182505,
       "word": "成韩彬把章昊整害羞了",
@@ -31761,14 +31809,6 @@
       "onboard_time": 1706746173,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182165,
-      "num": 182165,
-      "word": "手机充完电要不要拔插头",
-      "onboard_time": 1708246176,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 182163,
@@ -32531,14 +32571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176905,
-      "num": 176905,
-      "word": "男子烧灶膛火中窜出一只动物",
-      "onboard_time": 1708246775,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176864,
       "num": 169398,
       "word": "春晚节目单喜人含量好高",
@@ -33289,14 +33321,6 @@
       "onboard_time": 1707963631,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172088,
-      "num": 172088,
-      "word": "开工红包",
-      "onboard_time": 1708247613,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 172002,
@@ -34347,6 +34371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166563,
+      "num": 166563,
+      "word": "追星的必要性",
+      "onboard_time": 1708247734,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166525,
       "num": 166525,
       "word": "球队回应梅西未出席表演赛",
@@ -34945,6 +34977,14 @@
       "onboard_time": 1707561636,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163371,
+      "num": 163371,
+      "word": "养猫千日用猫一时有实例了",
+      "onboard_time": 1708247674,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 163314,
@@ -38027,6 +38067,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 145726,
+      "num": 145726,
+      "word": "新疆一干部防疫严峻期盗卖1.5万套防护服",
+      "onboard_time": 1708248693,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145708,
       "num": 145708,
       "word": "美国国会众议院通过对国土安全部长的弹劾",
@@ -38561,14 +38609,6 @@
       "onboard_time": 1708067733,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142802,
-      "num": 142802,
-      "word": "面试密码",
-      "onboard_time": 1708247734,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 142776,
@@ -39801,14 +39841,6 @@
       "onboard_time": 1707460835,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136201,
-      "num": 136201,
-      "word": "追星的必要性",
-      "onboard_time": 1708247734,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 136183,
