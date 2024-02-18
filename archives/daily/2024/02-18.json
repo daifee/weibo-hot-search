@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708256046097,
+  "endTime": 1708259324352,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1363531,
+      "num": 1363531,
+      "word": "正式确诊为魏晨",
+      "onboard_time": 1708254515,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1292108,
       "num": 1292108,
       "word": "贾玲仪态",
@@ -257,14 +265,6 @@
       "onboard_time": 1708181618,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957971,
-      "num": 957971,
-      "word": "正式确诊为魏晨",
-      "onboard_time": 1708254515,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 916967,
@@ -435,6 +435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 671484,
+      "num": 671484,
+      "word": "开心消消乐崩了",
+      "onboard_time": 1708256193,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 667439,
       "num": 667439,
       "word": "邓为杀青哭了",
@@ -481,6 +489,14 @@
       "onboard_time": 1708217128,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 627291,
+      "num": 429860,
+      "word": "为什么卫生巾广告用蓝色液体",
+      "onboard_time": 1708258535,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 626738,
@@ -603,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 519561,
+      "num": 519561,
+      "word": "人民网评飞驰人生2",
+      "onboard_time": 1708256671,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 518945,
       "num": 518945,
       "word": "马丽以为mary饺是沈腾送的",
@@ -641,6 +665,14 @@
       "onboard_time": 1708177778,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502355,
+      "num": 502355,
+      "word": "马思纯减肥Vlog",
+      "onboard_time": 1708254875,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 498003,
@@ -811,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405418,
+      "num": 405418,
+      "word": "西安发现1700余座汉长安城平民墓葬",
+      "onboard_time": 1708253735,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 405210,
       "num": 405210,
       "word": "亲爱的 还有另一半呢",
@@ -867,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376936,
+      "num": 342954,
+      "word": "司机 她怎么敢的啊",
+      "onboard_time": 1708254632,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 375631,
       "num": 351517,
       "word": "詹姆斯点赞女主播辣照",
@@ -896,14 +944,6 @@
       "word": "开工第一件事换头像",
       "onboard_time": 1708231295,
       "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 361118,
-      "num": 244307,
-      "word": "司机 她怎么敢的啊",
-      "onboard_time": 1708254632,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -1059,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303756,
+      "num": 694773,
+      "word": "女儿舍不得父母返程时真情流泪",
+      "onboard_time": 1708243235,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303535,
       "num": 249023,
       "word": "手机电量显示本是一场骗局",
@@ -1083,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299449,
-      "num": 694773,
-      "word": "女儿舍不得父母返程时真情流泪",
-      "onboard_time": 1708243235,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298952,
       "num": 298952,
       "word": "贾玲写的第一首歌",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1708181495,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 297715,
-      "num": 297715,
-      "word": "马思纯减肥Vlog",
-      "onboard_time": 1708254875,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 295019,
@@ -1131,20 +1163,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293302,
-      "num": 293302,
-      "word": "西安发现1700余座汉长安城平民墓葬",
-      "onboard_time": 1708253735,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 291779,
       "num": 291779,
       "word": "教育局回应陕西一班主任猥亵女生",
       "onboard_time": 1708248934,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291193,
+      "num": 291193,
+      "word": "恋与深空 夏以昼",
+      "onboard_time": 1708256914,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 288252,
@@ -1323,6 +1355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 257871,
+      "num": 257871,
+      "word": "贾玲真正厉害的一点",
+      "onboard_time": 1708256016,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257208,
       "num": 257208,
       "word": "咏春拳的创始人是严咏春女士",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1708221933,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253041,
+      "num": 345449,
+      "word": "张本智和3比2林昀儒",
+      "onboard_time": 1708256136,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 252650,
@@ -1457,6 +1505,14 @@
       "onboard_time": 1708181075,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234516,
+      "num": 234516,
+      "word": "日本男团3比1中国台北",
+      "onboard_time": 1708257816,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 233583,
@@ -1675,12 +1731,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203123,
+      "num": 203123,
+      "word": "热辣滚烫到底提前策划了多少物料",
+      "onboard_time": 1708257453,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202131,
       "num": 202131,
       "word": "库里战胜约内斯库",
       "onboard_time": 1708229615,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201626,
+      "num": 201626,
+      "word": "殷世航否认恋情",
+      "onboard_time": 1708258715,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 201419,
@@ -1731,6 +1803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197173,
+      "num": 197173,
+      "word": "陈靖可孙千大手包小手",
+      "onboard_time": 1708257092,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196537,
       "num": 196537,
       "word": "丢脸就算了还丢了两次",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1708224813,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 194801,
+      "num": 343333,
+      "word": "陈梦3比1张璇",
+      "onboard_time": 1708258412,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 194681,
@@ -1857,6 +1945,14 @@
       "onboard_time": 1708246775,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186451,
+      "num": 249063,
+      "word": "孙颖莎3比0肖瑶茜",
+      "onboard_time": 1708256734,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 185266,
@@ -2043,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162810,
+      "num": 162810,
+      "word": "妈主外 爸主拖后腿",
+      "onboard_time": 1708258232,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162585,
       "num": 162585,
       "word": "我是千年来打铁花第一个女传人",
@@ -2171,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150849,
+      "num": 150849,
+      "word": "90后的青春是什么样的",
+      "onboard_time": 1708258655,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149830,
       "num": 149830,
       "word": "金晨汗流浃背了吧",
@@ -2203,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148104,
+      "num": 148104,
+      "word": "OPPO回应暂停折叠屏项目",
+      "onboard_time": 1708259073,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146557,
       "num": 146557,
       "word": "七星彩",
@@ -2211,12 +2331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144028,
-      "num": 144028,
-      "word": "贾玲真正厉害的一点",
-      "onboard_time": 1708256016,
+      "raw_hot": 144835,
+      "num": 144835,
+      "word": "姥姥接不到电话的原因",
+      "onboard_time": 1708258353,
       "rank": 49,
-      "category": "电影"
+      "category": "情感"
     },
     {
       "raw_hot": 141344,
@@ -2283,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125916,
+      "num": 1016213,
+      "word": "2024春节档电影票房创纪录",
+      "onboard_time": 1708240294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121809,
       "num": 513316,
       "word": "五个龙放一块到底念啥",
@@ -2321,6 +2449,14 @@
       "onboard_time": 1708187607,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115379,
+      "num": 247994,
+      "word": "00后海警说主打的就是能扛",
+      "onboard_time": 1708257753,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 110294,
@@ -2497,14 +2633,6 @@
       "onboard_time": 1708212803,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40106,
-      "num": 273744,
-      "word": "2024春节档电影票房创纪录",
-      "onboard_time": 1708240294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35311,
