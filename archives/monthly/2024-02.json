@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708260198645,
+  "endTime": 1708262329281,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2547,6 +2547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1500864,
+      "num": 1348556,
+      "word": "为什么卫生巾广告用蓝色液体",
+      "onboard_time": 1708258535,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1499292,
       "num": 1499292,
       "word": "杭州西湖2天捞起17部手机",
@@ -2993,14 +3001,6 @@
       "onboard_time": 1706963733,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1348556,
-      "num": 1348556,
-      "word": "为什么卫生巾广告用蓝色液体",
-      "onboard_time": 1708258535,
-      "rank": 11,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1347948,
@@ -7275,6 +7275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 772996,
+      "num": 772996,
+      "word": "当97岁奶奶没戴假牙吃草莓",
+      "onboard_time": 1708259552,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772879,
       "num": 772879,
       "word": "叶舒华因健康原因暂停所有活动",
@@ -8763,6 +8771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 671577,
+      "num": 418370,
+      "word": "亲爱的她确认引进内地",
+      "onboard_time": 1708259612,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671502,
       "num": 671502,
       "word": "母亲连夜杀10只鸡分给返程儿女",
@@ -9443,6 +9459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636857,
+      "num": 636857,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635810,
       "num": 635810,
       "word": "湖北暴雪",
@@ -9905,6 +9929,14 @@
       "onboard_time": 1707998437,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 613260,
+      "num": 613260,
+      "word": "林允钻石背链",
+      "onboard_time": 1708260872,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612756,
@@ -11297,6 +11329,14 @@
       "onboard_time": 1707995315,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543146,
+      "num": 543146,
+      "word": "前女友控诉卜凡家暴",
+      "onboard_time": 1708259913,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 542952,
@@ -13089,6 +13129,14 @@
       "onboard_time": 1707709657,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474659,
+      "num": 318797,
+      "word": "天蝎座不允许自己成为感情的附庸",
+      "onboard_time": 1708261113,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 474538,
@@ -17883,14 +17931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334120,
-      "num": 334120,
-      "word": "前女友控诉卜凡家暴",
-      "onboard_time": 1708259913,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333745,
       "num": 333745,
       "word": "男子500米孙龙夺冠",
@@ -18713,6 +18753,14 @@
       "onboard_time": 1707913237,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317604,
+      "num": 317604,
+      "word": "飞驰2破25亿全员呼应上了",
+      "onboard_time": 1708261835,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 317327,
@@ -20648,14 +20696,6 @@
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
       "onboard_time": 1707815856,
       "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 283161,
-      "num": 283161,
-      "word": "亲爱的她确认引进内地",
-      "onboard_time": 1708259612,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -23443,6 +23483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245018,
+      "num": 235771,
+      "word": "aespa美得有点过分了",
+      "onboard_time": 1708261594,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244930,
       "num": 244930,
       "word": "表姐要给舅舅改名叫招儿",
@@ -23929,6 +23977,14 @@
       "onboard_time": 1707292651,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240291,
+      "num": 319638,
+      "word": "日本男团3比1中国台北",
+      "onboard_time": 1708257816,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 240092,
@@ -24449,14 +24505,6 @@
       "onboard_time": 1707544356,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234516,
-      "num": 307855,
-      "word": "日本男团3比1中国台北",
-      "onboard_time": 1708257816,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 234480,
@@ -27115,6 +27163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211221,
+      "num": 211221,
+      "word": "罗渽民银发",
+      "onboard_time": 1708259733,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211198,
       "num": 211198,
       "word": "第一年在婆家过年",
@@ -27641,14 +27697,6 @@
       "onboard_time": 1706876554,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207130,
-      "num": 207130,
-      "word": "罗渽民银发",
-      "onboard_time": 1708259733,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207106,
@@ -29033,6 +29081,14 @@
       "onboard_time": 1707967173,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200248,
+      "num": 230677,
+      "word": "球迷用中文喊C罗得到回应",
+      "onboard_time": 1708260692,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 200209,
@@ -31763,6 +31819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185261,
+      "num": 226988,
+      "word": "女飞行员执行任务前笑着拍遗照",
+      "onboard_time": 1708261476,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185227,
       "num": 185227,
       "word": "黄子弘凡直播",
@@ -31800,6 +31864,14 @@
       "word": "当两只狗狗共用一个碗",
       "onboard_time": 1707404014,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184718,
+      "num": 184718,
+      "word": "鱼 没想到还能用上智能家居",
+      "onboard_time": 1708259972,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -35723,14 +35795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161522,
-      "num": 161522,
-      "word": "鱼 没想到还能用上智能家居",
-      "onboard_time": 1708259972,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161504,
       "num": 161504,
       "word": "小米14Ultra正面渲染图曝光",
@@ -36923,14 +36987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154858,
-      "num": 224913,
-      "word": "当97岁奶奶没戴假牙吃草莓",
-      "onboard_time": 1708259552,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154810,
       "num": 154810,
       "word": "亚冠",
@@ -37307,6 +37363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152618,
+      "num": 152618,
+      "word": "仙逆年番海报上线",
+      "onboard_time": 1708261774,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152423,
       "num": 152423,
       "word": "我家公子会插秧了",
@@ -37625,14 +37689,6 @@
       "onboard_time": 1706785350,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150465,
-      "num": 150465,
-      "word": "制片人说赵今麦五页纸不卡词",
-      "onboard_time": 1708260154,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 150438,

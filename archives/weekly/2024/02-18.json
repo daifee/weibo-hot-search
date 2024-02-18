@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708260198645,
+  "endTime": 1708262329281,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1500864,
+      "num": 1348556,
+      "word": "为什么卫生巾广告用蓝色液体",
+      "onboard_time": 1708258535,
+      "rank": 11,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1489494,
       "num": 1066915,
       "word": "摔跤吧爸爸小芭比塔演员去世",
@@ -145,14 +153,6 @@
       "onboard_time": 1708254515,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1348556,
-      "num": 1348556,
-      "word": "为什么卫生巾广告用蓝色液体",
-      "onboard_time": 1708258535,
-      "rank": 11,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1292108,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772996,
+      "num": 772996,
+      "word": "当97岁奶奶没戴假牙吃草莓",
+      "onboard_time": 1708259552,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735262,
       "num": 735262,
       "word": "林孝埈摔出赛道没有回放",
@@ -443,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 671577,
+      "num": 418370,
+      "word": "亲爱的她确认引进内地",
+      "onboard_time": 1708259612,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671484,
       "num": 671484,
       "word": "开心消消乐崩了",
@@ -481,6 +497,14 @@
       "onboard_time": 1708228534,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636857,
+      "num": 636857,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 635759,
@@ -529,6 +553,14 @@
       "onboard_time": 1708227274,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 613260,
+      "num": 613260,
+      "word": "林允钻石背链",
+      "onboard_time": 1708260872,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612756,
@@ -601,6 +633,14 @@
       "onboard_time": 1708211904,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 543146,
+      "num": 543146,
+      "word": "前女友控诉卜凡家暴",
+      "onboard_time": 1708259913,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 542952,
@@ -712,6 +752,14 @@
       "word": "开工大吉",
       "onboard_time": 1708215932,
       "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 474659,
+      "num": 318797,
+      "word": "天蝎座不允许自己成为感情的附庸",
+      "onboard_time": 1708261113,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -995,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334120,
-      "num": 334120,
-      "word": "前女友控诉卜凡家暴",
-      "onboard_time": 1708259913,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333632,
       "num": 333632,
       "word": "庄达菲刘恋赵梦同游曼谷",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1708228957,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317604,
+      "num": 317604,
+      "word": "飞驰2破25亿全员呼应上了",
+      "onboard_time": 1708261835,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 312434,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1708251271,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283161,
-      "num": 283161,
-      "word": "亲爱的她确认引进内地",
-      "onboard_time": 1708259612,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 281225,
@@ -1459,6 +1499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245018,
+      "num": 235771,
+      "word": "aespa美得有点过分了",
+      "onboard_time": 1708261594,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244855,
       "num": 244855,
       "word": "西安大唐不夜城成全国客流量前十商圈",
@@ -1499,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240291,
+      "num": 319638,
+      "word": "日本男团3比1中国台北",
+      "onboard_time": 1708257816,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "光与夜之恋主线",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1708181075,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 234516,
-      "num": 307855,
-      "word": "日本男团3比1中国台北",
-      "onboard_time": 1708257816,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 233583,
@@ -1707,19 +1755,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211221,
+      "num": 211221,
+      "word": "罗渽民银发",
+      "onboard_time": 1708259733,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210276,
       "num": 210276,
       "word": "汪苏泷给马丽贾玲刘德华送手链",
       "onboard_time": 1708249655,
       "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207130,
-      "num": 207130,
-      "word": "罗渽民银发",
-      "onboard_time": 1708259733,
-      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -1809,6 +1857,14 @@
       "onboard_time": 1708213105,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200248,
+      "num": 230677,
+      "word": "球迷用中文喊C罗得到回应",
+      "onboard_time": 1708260692,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 199550,
@@ -1993,6 +2049,22 @@
       "onboard_time": 1708218574,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185261,
+      "num": 226988,
+      "word": "女飞行员执行任务前笑着拍遗照",
+      "onboard_time": 1708261476,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184718,
+      "num": 184718,
+      "word": "鱼 没想到还能用上智能家居",
+      "onboard_time": 1708259972,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 183843,
@@ -2211,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161522,
-      "num": 161522,
-      "word": "鱼 没想到还能用上智能家居",
-      "onboard_time": 1708259972,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161387,
       "num": 161387,
       "word": "开工利是",
@@ -2299,20 +2363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154858,
-      "num": 224913,
-      "word": "当97岁奶奶没戴假牙吃草莓",
-      "onboard_time": 1708259552,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154757,
       "num": 154757,
       "word": "央视网评论傅园慧求助",
       "onboard_time": 1708162593,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152618,
+      "num": 152618,
+      "word": "仙逆年番海报上线",
+      "onboard_time": 1708261774,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 152147,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1708258655,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150465,
-      "num": 150465,
-      "word": "制片人说赵今麦五页纸不卡词",
-      "onboard_time": 1708260154,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 149830,
