@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708259324352,
+  "endTime": 1708260198645,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1706963733,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1348556,
+      "num": 1348556,
+      "word": "为什么卫生巾广告用蓝色液体",
+      "onboard_time": 1708258535,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1347948,
@@ -9627,14 +9635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 627291,
-      "num": 429860,
-      "word": "为什么卫生巾广告用蓝色液体",
-      "onboard_time": 1708258535,
-      "rank": 11,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 627162,
       "num": 627162,
       "word": "15岁初中生讲述为什么不爱读书",
@@ -11123,6 +11123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549759,
+      "num": 549759,
+      "word": "马思纯减肥Vlog",
+      "onboard_time": 1708254875,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549660,
       "num": 549660,
       "word": "孙龙",
@@ -12329,14 +12337,6 @@
       "onboard_time": 1707298950,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502355,
-      "num": 502355,
-      "word": "马思纯减肥Vlog",
-      "onboard_time": 1708254875,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 501922,
@@ -14859,6 +14859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415402,
+      "num": 415402,
+      "word": "西安发现1700余座汉长安城平民墓葬",
+      "onboard_time": 1708253735,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 415291,
       "num": 415291,
       "word": "河南惊现贾玲分玲",
@@ -15201,14 +15209,6 @@
       "onboard_time": 1707899073,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 405418,
-      "num": 405418,
-      "word": "西安发现1700余座汉长安城平民墓葬",
-      "onboard_time": 1708253735,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 405210,
@@ -17881,6 +17881,14 @@
       "onboard_time": 1706710235,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334120,
+      "num": 334120,
+      "word": "前女友控诉卜凡家暴",
+      "onboard_time": 1708259913,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 333745,
@@ -20643,6 +20651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283161,
+      "num": 283161,
+      "word": "亲爱的她确认引进内地",
+      "onboard_time": 1708259612,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 283034,
       "num": 351333,
       "word": "巨蟹座是非常看重眼缘的",
@@ -21667,6 +21683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268858,
+      "num": 268858,
+      "word": "贾玲真正厉害的一点",
+      "onboard_time": 1708256016,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268856,
       "num": 268856,
       "word": "阿姨 完蛋真碰到穷鬼了",
@@ -22417,14 +22441,6 @@
       "onboard_time": 1707298411,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 257871,
-      "num": 257871,
-      "word": "贾玲真正厉害的一点",
-      "onboard_time": 1708256016,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 257766,
@@ -24436,7 +24452,7 @@
     },
     {
       "raw_hot": 234516,
-      "num": 234516,
+      "num": 307855,
       "word": "日本男团3比1中国台北",
       "onboard_time": 1708257816,
       "rank": 31,
@@ -25433,6 +25449,14 @@
       "onboard_time": 1706864373,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224910,
+      "num": 224910,
+      "word": "殷世航否认恋情",
+      "onboard_time": 1708258715,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 224885,
@@ -27619,6 +27643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207130,
+      "num": 207130,
+      "word": "罗渽民银发",
+      "onboard_time": 1708259733,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207106,
       "num": 207106,
       "word": "飞驰人生2",
@@ -27873,6 +27905,14 @@
       "onboard_time": 1706753434,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205759,
+      "num": 205759,
+      "word": "热辣滚烫到底提前策划了多少物料",
+      "onboard_time": 1708257453,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 205691,
@@ -28387,14 +28427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203123,
-      "num": 203123,
-      "word": "热辣滚烫到底提前策划了多少物料",
-      "onboard_time": 1708257453,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202954,
       "num": 198566,
       "word": "凤凰传奇串烧",
@@ -28697,14 +28729,6 @@
       "onboard_time": 1707574542,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201626,
-      "num": 201626,
-      "word": "殷世航否认恋情",
-      "onboard_time": 1708258715,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 201573,
@@ -31323,6 +31347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187410,
+      "num": 187410,
+      "word": "三亚游客迂回出岛",
+      "onboard_time": 1708259494,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187368,
       "num": 187368,
       "word": "林更新透露与凤行播出时间",
@@ -31865,6 +31897,14 @@
       "onboard_time": 1708004255,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 183843,
+      "num": 183843,
+      "word": "OPPO回应暂停折叠屏项目",
+      "onboard_time": 1708259073,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 183823,
@@ -35683,6 +35723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161522,
+      "num": 161522,
+      "word": "鱼 没想到还能用上智能家居",
+      "onboard_time": 1708259972,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161504,
       "num": 161504,
       "word": "小米14Ultra正面渲染图曝光",
@@ -36523,6 +36571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156839,
+      "num": 1259273,
+      "word": "2024春节档电影票房创纪录",
+      "onboard_time": 1708240294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156809,
       "num": 156809,
       "word": "肖战新年vlog生活气息拉满",
@@ -36865,6 +36921,14 @@
       "onboard_time": 1707814536,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154858,
+      "num": 224913,
+      "word": "当97岁奶奶没戴假牙吃草莓",
+      "onboard_time": 1708259552,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154810,
@@ -37563,6 +37627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150465,
+      "num": 150465,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150438,
       "num": 150438,
       "word": "熊出没",
@@ -38001,14 +38073,6 @@
       "onboard_time": 1708137812,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148104,
-      "num": 148104,
-      "word": "OPPO回应暂停折叠屏项目",
-      "onboard_time": 1708259073,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 148046,
@@ -38737,6 +38801,14 @@
       "onboard_time": 1707367468,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 144538,
+      "num": 144538,
+      "word": "刘同 发现联通其他套餐都比我的划算",
+      "onboard_time": 1708259612,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 144515,
@@ -42280,14 +42352,6 @@
       "word": "龙在中国人心中的意义",
       "onboard_time": 1707703531,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125916,
-      "num": 1016213,
-      "word": "2024春节档电影票房创纪录",
-      "onboard_time": 1708240294,
-      "rank": 22,
       "category": "社会新闻"
     },
     {

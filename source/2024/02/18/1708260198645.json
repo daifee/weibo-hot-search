@@ -1,0 +1,410 @@
+{
+  "runTime": 1708260198645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471094,
+        "num": 1471094,
+        "word": "乐莹抽烟",
+        "onboard_time": 1708254275,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1348556,
+        "num": 1348556,
+        "word": "为什么卫生巾广告用蓝色液体",
+        "onboard_time": 1708258535,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156839,
+        "num": 1259273,
+        "word": "2024春节档电影票房创纪录",
+        "onboard_time": 1708240294,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257199,
+        "num": 1257199,
+        "word": "正式确诊为魏晨",
+        "onboard_time": 1708254515,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593709,
+        "num": 593709,
+        "word": "开心消消乐崩了",
+        "onboard_time": 1708256193,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 564679,
+        "num": 564679,
+        "word": "瑞幸9.9元一杯活动缩水",
+        "onboard_time": 1708242933,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 549759,
+        "num": 549759,
+        "word": "马思纯减肥Vlog",
+        "onboard_time": 1708254875,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499600,
+        "num": 499600,
+        "word": "人民网评飞驰人生2",
+        "onboard_time": 1708256671,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383515,
+        "num": 496023,
+        "word": "林孝埈摔出赛道没有回放",
+        "onboard_time": 1708251757,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296338,
+        "num": 492249,
+        "word": "女儿舍不得父母返程时真情流泪",
+        "onboard_time": 1708243235,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924035,
+        "num": 488355,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515647,
+        "num": 478401,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478144,
+        "num": 478144,
+        "word": "特朗普卖鞋",
+        "onboard_time": 1708249293,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436149,
+        "num": 436149,
+        "word": "咒术回战全员死亡",
+        "onboard_time": 1708247134,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 415402,
+        "num": 415402,
+        "word": "西安发现1700余座汉长安城平民墓葬",
+        "onboard_time": 1708253735,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 369157,
+        "num": 369157,
+        "word": "邓为杀青哭了",
+        "onboard_time": 1708253554,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334120,
+        "num": 334120,
+        "word": "前女友控诉卜凡家暴",
+        "onboard_time": 1708259913,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312413,
+        "num": 312413,
+        "word": "贾玲仪态",
+        "onboard_time": 1708239935,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233251,
+        "num": 307855,
+        "word": "日本男团3比1中国台北",
+        "onboard_time": 1708257816,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218160,
+        "num": 307560,
+        "word": "张本智和3比2林昀儒",
+        "onboard_time": 1708256136,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376509,
+        "num": 307520,
+        "word": "司机 她怎么敢的啊",
+        "onboard_time": 1708254632,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307415,
+        "num": 307415,
+        "word": "不要学姐姐 你没有开明的爸妈",
+        "onboard_time": 1708252416,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283161,
+        "num": 283161,
+        "word": "亲爱的她确认引进内地",
+        "onboard_time": 1708259612,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280028,
+        "num": 280028,
+        "word": "迪丽热巴 推理吧2",
+        "onboard_time": 1708251513,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268858,
+        "num": 268858,
+        "word": "贾玲真正厉害的一点",
+        "onboard_time": 1708256016,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251883,
+        "num": 251883,
+        "word": "高合",
+        "onboard_time": 1708251155,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237057,
+        "num": 237057,
+        "word": "热辣滚烫票房破28亿",
+        "onboard_time": 1708250435,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179609,
+        "num": 225362,
+        "word": "金毛偷咬彩票意外刮中1000元",
+        "onboard_time": 1708245336,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170749,
+        "num": 224928,
+        "word": "林孝埈刘少昂摔出赛道",
+        "onboard_time": 1708245816,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154858,
+        "num": 224913,
+        "word": "当97岁奶奶没戴假牙吃草莓",
+        "onboard_time": 1708259552,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224910,
+        "num": 224910,
+        "word": "殷世航否认恋情",
+        "onboard_time": 1708258715,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210183,
+        "num": 210183,
+        "word": "高合停工6个月",
+        "onboard_time": 1708252476,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207130,
+        "num": 207130,
+        "word": "罗渽民银发",
+        "onboard_time": 1708259733,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205759,
+        "num": 205759,
+        "word": "热辣滚烫到底提前策划了多少物料",
+        "onboard_time": 1708257453,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187410,
+        "num": 187410,
+        "word": "三亚游客迂回出岛",
+        "onboard_time": 1708259494,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 186780,
+        "num": 186780,
+        "word": "高伟光梁靖康 哑舍",
+        "onboard_time": 1708246476,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184413,
+        "num": 184413,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183938,
+        "num": 183938,
+        "word": "徐冬冬尹子维订婚",
+        "onboard_time": 1708244855,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183843,
+        "num": 183843,
+        "word": "OPPO回应暂停折叠屏项目",
+        "onboard_time": 1708259073,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176236,
+        "num": 176236,
+        "word": "陈靖可孙千大手包小手",
+        "onboard_time": 1708257092,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176025,
+        "num": 176025,
+        "word": "王一博龙年第一跳",
+        "onboard_time": 1708254515,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172318,
+        "num": 172318,
+        "word": "李勤勤收养周海媚爱犬",
+        "onboard_time": 1708249895,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 161522,
+        "word": "鱼 没想到还能用上智能家居",
+        "onboard_time": 1708259972,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 552384,
+        "num": 158754,
+        "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
+        "onboard_time": 1708250313,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155407,
+        "num": 155407,
+        "word": "薛之谦 你们人类有两幅面孔",
+        "onboard_time": 1708242394,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150465,
+        "num": 150465,
+        "word": "制片人说赵今麦五页纸不卡词",
+        "onboard_time": 1708260154,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147981,
+        "num": 147981,
+        "word": "陈梦3比1张璇",
+        "onboard_time": 1708258412,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144538,
+        "num": 144538,
+        "word": "刘同 发现联通其他套餐都比我的划算",
+        "onboard_time": 1708259612,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143168,
+        "num": 143168,
+        "word": "aespa复古解构风",
+        "onboard_time": 1708251271,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139747,
+        "num": 139747,
+        "word": "孙颖莎3比0肖瑶茜",
+        "onboard_time": 1708256734,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  }
+}

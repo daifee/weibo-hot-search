@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708259324352,
+  "endTime": 1708260198645,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -145,6 +145,14 @@
       "onboard_time": 1708254515,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1348556,
+      "num": 1348556,
+      "word": "为什么卫生巾广告用蓝色液体",
+      "onboard_time": 1708258535,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1292108,
@@ -491,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 627291,
-      "num": 429860,
-      "word": "为什么卫生巾广告用蓝色液体",
-      "onboard_time": 1708258535,
-      "rank": 11,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 626738,
       "num": 626738,
       "word": "ZICO向所有爱豆道歉",
@@ -587,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 549759,
+      "num": 549759,
+      "word": "马思纯减肥Vlog",
+      "onboard_time": 1708254875,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543844,
       "num": 543844,
       "word": "傅园慧求助事件司机未取得从业资格",
@@ -665,14 +673,6 @@
       "onboard_time": 1708177778,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502355,
-      "num": 502355,
-      "word": "马思纯减肥Vlog",
-      "onboard_time": 1708254875,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 498003,
@@ -827,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 415402,
+      "num": 415402,
+      "word": "西安发现1700余座汉长安城平民墓葬",
+      "onboard_time": 1708253735,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 411283,
       "num": 411283,
       "word": "年轻人为什么开始爱买黄金",
@@ -841,14 +849,6 @@
       "onboard_time": 1708245336,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405418,
-      "num": 405418,
-      "word": "西安发现1700余座汉长安城平民墓葬",
-      "onboard_time": 1708253735,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 405210,
@@ -993,6 +993,14 @@
       "onboard_time": 1708189824,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334120,
+      "num": 334120,
+      "word": "前女友控诉卜凡家暴",
+      "onboard_time": 1708259913,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 333632,
@@ -1219,6 +1227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283161,
+      "num": 283161,
+      "word": "亲爱的她确认引进内地",
+      "onboard_time": 1708259612,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281225,
       "num": 281225,
       "word": "赵今麦一天告别两个角色",
@@ -1280,6 +1296,14 @@
       "word": "檀健次新片被导演要求不许养眼",
       "onboard_time": 1708247853,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 268858,
+      "num": 268858,
+      "word": "贾玲真正厉害的一点",
+      "onboard_time": 1708256016,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -1353,14 +1377,6 @@
       "onboard_time": 1708244914,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 257871,
-      "num": 257871,
-      "word": "贾玲真正厉害的一点",
-      "onboard_time": 1708256016,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 257208,
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 234516,
-      "num": 234516,
+      "num": 307855,
       "word": "日本男团3比1中国台北",
       "onboard_time": 1708257816,
       "rank": 31,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1708232555,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224910,
+      "num": 224910,
+      "word": "殷世航否认恋情",
+      "onboard_time": 1708258715,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 224300,
@@ -1691,12 +1715,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207130,
+      "num": 207130,
+      "word": "罗渽民银发",
+      "onboard_time": 1708259733,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206101,
       "num": 206101,
       "word": "春节假期国内游人次达4.74亿",
       "onboard_time": 1708237171,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205759,
+      "num": 205759,
+      "word": "热辣滚烫到底提前策划了多少物料",
+      "onboard_time": 1708257453,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 205306,
@@ -1731,28 +1771,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203123,
-      "num": 203123,
-      "word": "热辣滚烫到底提前策划了多少物料",
-      "onboard_time": 1708257453,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202131,
       "num": 202131,
       "word": "库里战胜约内斯库",
       "onboard_time": 1708229615,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201626,
-      "num": 201626,
-      "word": "殷世航否认恋情",
-      "onboard_time": 1708258715,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 201419,
@@ -1923,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187410,
+      "num": 187410,
+      "word": "三亚游客迂回出岛",
+      "onboard_time": 1708259494,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187241,
       "num": 187241,
       "word": "尔滨返程机票一票难求",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1708218574,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183843,
+      "num": 183843,
+      "word": "OPPO回应暂停折叠屏项目",
+      "onboard_time": 1708259073,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 183464,
@@ -2171,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161522,
+      "num": 161522,
+      "word": "鱼 没想到还能用上智能家居",
+      "onboard_time": 1708259972,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161387,
       "num": 161387,
       "word": "开工利是",
@@ -2227,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156839,
+      "num": 1259273,
+      "word": "2024春节档电影票房创纪录",
+      "onboard_time": 1708240294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156563,
       "num": 156563,
       "word": "特斯拉回应Cybertruck淋雨后生锈",
@@ -2240,6 +2296,14 @@
       "word": "春节假期国内游客花了6326亿",
       "onboard_time": 1708236993,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154858,
+      "num": 224913,
+      "word": "当97岁奶奶没戴假牙吃草莓",
+      "onboard_time": 1708259552,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2283,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150465,
+      "num": 150465,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149830,
       "num": 149830,
       "word": "金晨汗流浃背了吧",
@@ -2315,14 +2387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148104,
-      "num": 148104,
-      "word": "OPPO回应暂停折叠屏项目",
-      "onboard_time": 1708259073,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 146557,
       "num": 146557,
       "word": "七星彩",
@@ -2337,6 +2401,14 @@
       "onboard_time": 1708258353,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144538,
+      "num": 144538,
+      "word": "刘同 发现联通其他套餐都比我的划算",
+      "onboard_time": 1708259612,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 141344,
@@ -2401,14 +2473,6 @@
       "onboard_time": 1708215029,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125916,
-      "num": 1016213,
-      "word": "2024春节档电影票房创纪录",
-      "onboard_time": 1708240294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121809,
