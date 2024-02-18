@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708248845406,
+  "endTime": 1708251480789,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -113,6 +113,14 @@
       "onboard_time": 1708221093,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1477075,
+      "num": 1477075,
+      "word": "特朗普卖鞋",
+      "onboard_time": 1708249293,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1457304,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 884899,
-      "num": 347375,
+      "num": 621450,
       "word": "瑞幸9.9元一杯活动缩水",
       "onboard_time": 1708242933,
       "rank": 20,
@@ -283,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 836272,
+      "num": 836272,
+      "word": "高伟光梁靖康 哑舍",
+      "onboard_time": 1708246476,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 823400,
       "num": 823400,
       "word": "把掰了四年的朋友微博看完了",
@@ -304,6 +320,14 @@
       "word": "卜凡回应卜卦",
       "onboard_time": 1708229615,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 790823,
+      "num": 569332,
+      "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
+      "onboard_time": 1708250313,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -329,14 +353,6 @@
       "onboard_time": 1708216171,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 769630,
-      "num": 769630,
-      "word": "高伟光梁靖康 哑舍",
-      "onboard_time": 1708246476,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 724091,
@@ -483,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 546448,
+      "num": 546448,
+      "word": "李勤勤收养周海媚爱犬",
+      "onboard_time": 1708249895,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543844,
       "num": 543844,
       "word": "傅园慧求助事件司机未取得从业资格",
@@ -553,6 +577,14 @@
       "onboard_time": 1708244313,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489710,
+      "num": 489710,
+      "word": "金晨20岁至31岁颜值变化",
+      "onboard_time": 1708249293,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 489373,
@@ -681,6 +713,14 @@
       "onboard_time": 1708183653,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415101,
+      "num": 415101,
+      "word": "金发Winter",
+      "onboard_time": 1708250554,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 411283,
@@ -875,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320618,
+      "num": 320618,
+      "word": "热辣滚烫票房破28亿",
+      "onboard_time": 1708250435,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 312434,
+      "num": 601626,
+      "word": "新疆现大片七彩祥云",
+      "onboard_time": 1708246233,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 310531,
       "num": 360166,
       "word": "库里三分的神",
@@ -963,6 +1019,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291779,
+      "num": 291779,
+      "word": "教育局回应陕西一班主任猥亵女生",
+      "onboard_time": 1708248934,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290264,
+      "num": 290264,
+      "word": "新疆一干部防疫严峻期盗卖1.5万套防护服",
+      "onboard_time": 1708248693,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288252,
       "num": 288252,
       "word": "韩天宇被PEN",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1708212205,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273295,
+      "num": 273295,
+      "word": "谷爱凌追平男子世界纪录",
+      "onboard_time": 1708249771,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 272047,
@@ -1131,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252650,
+      "num": 252650,
+      "word": "热辣滚烫 真正的伤痛往往不见血",
+      "onboard_time": 1708250736,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252289,
       "num": 252289,
       "word": "上班前3天不宜安排高强度工作",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1708223613,
       "rank": 26,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 245703,
+      "num": 245703,
+      "word": "自热火锅为何不火了",
+      "onboard_time": 1708248334,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 244855,
@@ -1211,14 +1307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237727,
-      "num": 601626,
-      "word": "新疆现大片七彩祥云",
-      "onboard_time": 1708246233,
-      "rank": 29,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 236464,
       "num": 236464,
       "word": "孙龙1000米夺冠",
@@ -1251,12 +1339,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229730,
+      "num": 229730,
+      "word": "客服回应瑞幸9.9元活动被指缩水",
+      "onboard_time": 1708250614,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228391,
       "num": 228391,
       "word": "张凌赫发文告别裴文宣",
       "onboard_time": 1708229014,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228280,
+      "num": 228280,
+      "word": "HMA红毯",
+      "onboard_time": 1708249535,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 227222,
+      "num": 227222,
+      "word": "男孩被烟花炸伤不幸身亡家属发声",
+      "onboard_time": 1708249835,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227125,
@@ -1355,12 +1467,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210276,
+      "num": 210276,
+      "word": "汪苏泷给马丽贾玲刘德华送手链",
+      "onboard_time": 1708249655,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210025,
-      "num": 210025,
+      "num": 592924,
       "word": "女儿舍不得父母返程时真情流泪",
       "onboard_time": 1708243235,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208116,
+      "num": 208116,
+      "word": "改善全身体态 踮脚靠墙站",
+      "onboard_time": 1708250372,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 206101,
@@ -1451,12 +1579,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 196207,
+      "num": 196207,
+      "word": "aespa复古解构风",
+      "onboard_time": 1708251271,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195808,
       "num": 195808,
       "word": "多名网友拍下新疆特强沙尘暴",
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195454,
+      "num": 195454,
+      "word": "高合",
+      "onboard_time": 1708251155,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 195297,
@@ -1523,14 +1667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191788,
-      "num": 191788,
-      "word": "自热火锅为何不火了",
-      "onboard_time": 1708248334,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 189562,
       "num": 189562,
       "word": "陈都灵早期cos",
@@ -1553,6 +1689,14 @@
       "onboard_time": 1708238434,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187056,
+      "num": 187056,
+      "word": "黑龙江队女子3000米接力冠军",
+      "onboard_time": 1708250854,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 186478,
@@ -1697,6 +1841,14 @@
       "onboard_time": 1708166912,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165888,
+      "num": 617180,
+      "word": "男子驾车昏迷民警手撕车窗救人",
+      "onboard_time": 1708249895,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 165615,
@@ -1889,14 +2041,6 @@
       "onboard_time": 1708224813,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145726,
-      "num": 145726,
-      "word": "新疆一干部防疫严峻期盗卖1.5万套防护服",
-      "onboard_time": 1708248693,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141344,

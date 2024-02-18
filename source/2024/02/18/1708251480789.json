@@ -1,0 +1,410 @@
+{
+  "runTime": 1708251480789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486988,
+        "num": 1486988,
+        "word": "林孝埈刘少昂摔出赛道",
+        "onboard_time": 1708245816,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1477075,
+        "num": 1477075,
+        "word": "特朗普卖鞋",
+        "onboard_time": 1708249293,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61937,
+        "num": 1187139,
+        "word": "开年第一弹智造业强省",
+        "onboard_time": 1708228716,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146259,
+        "num": 1146259,
+        "word": "咒术回战全员死亡",
+        "onboard_time": 1708247134,
+        "rank": 3,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 836272,
+        "num": 836272,
+        "word": "高伟光梁靖康 哑舍",
+        "onboard_time": 1708246476,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 820358,
+        "num": 820358,
+        "word": "徐冬冬尹子维订婚",
+        "onboard_time": 1708244855,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741503,
+        "num": 741503,
+        "word": "贾玲仪态",
+        "onboard_time": 1708239935,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 621450,
+        "num": 621450,
+        "word": "瑞幸9.9元一杯活动缩水",
+        "onboard_time": 1708242933,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165888,
+        "num": 617180,
+        "word": "男子驾车昏迷民警手撕车窗救人",
+        "onboard_time": 1708249895,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 181467,
+        "num": 592924,
+        "word": "女儿舍不得父母返程时真情流泪",
+        "onboard_time": 1708243235,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1730385,
+        "num": 578621,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790823,
+        "num": 569332,
+        "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
+        "onboard_time": 1708250313,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 784993,
+        "num": 547430,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546448,
+        "num": 546448,
+        "word": "李勤勤收养周海媚爱犬",
+        "onboard_time": 1708249895,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498601,
+        "num": 498601,
+        "word": "开工首日iPhone15降至4588元",
+        "onboard_time": 1708243475,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 489710,
+        "num": 489710,
+        "word": "金晨20岁至31岁颜值变化",
+        "onboard_time": 1708249293,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415101,
+        "num": 415101,
+        "word": "金发Winter",
+        "onboard_time": 1708250554,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407767,
+        "num": 407767,
+        "word": "薛之谦 你们人类有两幅面孔",
+        "onboard_time": 1708242394,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379061,
+        "num": 379061,
+        "word": "马丽测评了14条光腿神器",
+        "onboard_time": 1708234055,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335628,
+        "num": 335628,
+        "word": "丢寒假作业的秦朗家人回应",
+        "onboard_time": 1708238434,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358992,
+        "num": 329317,
+        "word": "黄景瑜你拿喉结干什么",
+        "onboard_time": 1708245517,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320618,
+        "num": 320618,
+        "word": "热辣滚烫票房破28亿",
+        "onboard_time": 1708250435,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312434,
+        "num": 312434,
+        "word": "新疆现大片七彩祥云",
+        "onboard_time": 1708246233,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 291779,
+        "num": 291779,
+        "word": "教育局回应陕西一班主任猥亵女生",
+        "onboard_time": 1708248934,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290264,
+        "num": 290264,
+        "word": "新疆一干部防疫严峻期盗卖1.5万套防护服",
+        "onboard_time": 1708248693,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318703,
+        "num": 281828,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273295,
+        "num": 273295,
+        "word": "谷爱凌追平男子世界纪录",
+        "onboard_time": 1708249771,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273124,
+        "num": 273124,
+        "word": "粉丝给迪丽热巴P的簪花照",
+        "onboard_time": 1708244313,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272930,
+        "num": 272930,
+        "word": "金毛偷咬彩票意外刮中1000元",
+        "onboard_time": 1708245336,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261841,
+        "num": 261841,
+        "word": "韩天宇被PEN",
+        "onboard_time": 1708244557,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259094,
+        "num": 259094,
+        "word": "内娱大冰",
+        "onboard_time": 1708227934,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252958,
+        "num": 252958,
+        "word": "贾玲马丽之间的惺惺相惜",
+        "onboard_time": 1708243294,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252650,
+        "num": 252650,
+        "word": "热辣滚烫 真正的伤痛往往不见血",
+        "onboard_time": 1708250736,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245703,
+        "num": 245703,
+        "word": "自热火锅为何不火了",
+        "onboard_time": 1708248334,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 935159,
+        "num": 245535,
+        "word": "10岁男孩被窜出的烟花炸伤身亡",
+        "onboard_time": 1708243895,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236179,
+        "num": 236179,
+        "word": "檀健次新片被导演要求不许养眼",
+        "onboard_time": 1708247853,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229730,
+        "num": 229730,
+        "word": "客服回应瑞幸9.9元活动被指缩水",
+        "onboard_time": 1708250614,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228280,
+        "num": 228280,
+        "word": "HMA红毯",
+        "onboard_time": 1708249535,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227222,
+        "num": 227222,
+        "word": "男孩被烟花炸伤不幸身亡家属发声",
+        "onboard_time": 1708249835,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213356,
+        "num": 213356,
+        "word": "上班前3天不宜安排高强度工作",
+        "onboard_time": 1708247016,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210276,
+        "num": 210276,
+        "word": "汪苏泷给马丽贾玲刘德华送手链",
+        "onboard_time": 1708249655,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208474,
+        "num": 208474,
+        "word": "一切都来得及 记得爱自己",
+        "onboard_time": 1708224333,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208116,
+        "num": 208116,
+        "word": "改善全身体态 踮脚靠墙站",
+        "onboard_time": 1708250372,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196207,
+        "num": 196207,
+        "word": "aespa复古解构风",
+        "onboard_time": 1708251271,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195454,
+        "num": 195454,
+        "word": "高合",
+        "onboard_time": 1708251155,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191562,
+        "num": 191562,
+        "word": "考研成绩倒计时",
+        "onboard_time": 1708242994,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187056,
+        "num": 187056,
+        "word": "黑龙江队女子3000米接力冠军",
+        "onboard_time": 1708250854,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184477,
+        "num": 184477,
+        "word": "面试密码",
+        "onboard_time": 1708247734,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177445,
+        "num": 177445,
+        "word": "把掰了四年的朋友微博看完了",
+        "onboard_time": 1708234176,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156743,
+        "num": 156743,
+        "word": "贾玲写的第一首歌",
+        "onboard_time": 1708223969,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向非洲联盟峰会致贺电#"
+    }
+  }
+}
