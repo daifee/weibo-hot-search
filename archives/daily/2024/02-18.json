@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708262329281,
+  "endTime": 1708263246148,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963938,
+      "num": 963938,
+      "word": "当97岁奶奶没戴假牙吃草莓",
+      "onboard_time": 1708259552,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916967,
       "num": 916967,
       "word": "卜凡的卜原来是卜卦的卜",
@@ -387,20 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 772996,
-      "num": 772996,
-      "word": "当97岁奶奶没戴假牙吃草莓",
-      "onboard_time": 1708259552,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735262,
       "num": 735262,
       "word": "林孝埈摔出赛道没有回放",
       "onboard_time": 1708251757,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 733116,
+      "num": 733116,
+      "word": "制片人说赵今麦五页纸不卡词",
+      "onboard_time": 1708260154,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 724091,
@@ -417,6 +425,14 @@
       "onboard_time": 1708244197,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 708848,
+      "num": 708848,
+      "word": "亲爱的她确认引进内地",
+      "onboard_time": 1708259612,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 708084,
@@ -449,14 +465,6 @@
       "onboard_time": 1708182215,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 671577,
-      "num": 418370,
-      "word": "亲爱的她确认引进内地",
-      "onboard_time": 1708259612,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 671484,
@@ -497,14 +505,6 @@
       "onboard_time": 1708228534,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636857,
-      "num": 636857,
-      "word": "制片人说赵今麦五页纸不卡词",
-      "onboard_time": 1708260154,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 635759,
@@ -705,6 +705,14 @@
       "onboard_time": 1708227994,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506632,
+      "num": 385237,
+      "word": "飞驰2破25亿全员呼应上了",
+      "onboard_time": 1708261835,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 505163,
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382182,
+      "num": 346326,
+      "word": "aespa美得有点过分了",
+      "onboard_time": 1708261594,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 380270,
       "num": 380270,
       "word": "贾玲式取名",
@@ -1043,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334568,
+      "num": 248705,
+      "word": "夏之光 看哪位要我这只狗",
+      "onboard_time": 1708262436,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333632,
       "num": 333632,
       "word": "庄达菲刘恋赵梦同游曼谷",
@@ -1107,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317604,
-      "num": 317604,
-      "word": "飞驰2破25亿全员呼应上了",
-      "onboard_time": 1708261835,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 312434,
       "num": 601626,
       "word": "新疆现大片七彩祥云",
@@ -1176,6 +1192,14 @@
       "word": "三亚出岛难",
       "onboard_time": 1708218931,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300775,
+      "num": 300775,
+      "word": "女飞行员执行任务前笑着拍遗照",
+      "onboard_time": 1708261476,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1499,14 +1523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 245018,
-      "num": 235771,
-      "word": "aespa美得有点过分了",
-      "onboard_time": 1708261594,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 244855,
       "num": 244855,
       "word": "西安大唐不夜城成全国客流量前十商圈",
@@ -1731,6 +1747,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 215537,
+      "num": 215537,
+      "word": "秦朗舅舅",
+      "onboard_time": 1708262796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213252,
       "num": 213252,
       "word": "路阳 拒绝盗摄是小学生都懂的道理",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1708249655,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207344,
+      "num": 230677,
+      "word": "球迷用中文喊C罗得到回应",
+      "onboard_time": 1708260692,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 206101,
@@ -1859,20 +1891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200248,
-      "num": 230677,
-      "word": "球迷用中文喊C罗得到回应",
-      "onboard_time": 1708260692,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199550,
       "num": 272052,
       "word": "1个八段锦动作改善节后疲乏",
       "onboard_time": 1708242153,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 199515,
+      "num": 199515,
+      "word": "章昊 无情的点头机器",
+      "onboard_time": 1708262555,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 198308,
@@ -1995,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189359,
+      "num": 189359,
+      "word": "珉佑直播",
+      "onboard_time": 1708262616,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187817,
       "num": 187817,
       "word": "面试密码",
@@ -2048,14 +2088,6 @@
       "word": "安检仪里的返程行李箱",
       "onboard_time": 1708218574,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185261,
-      "num": 226988,
-      "word": "女飞行员执行任务前笑着拍遗照",
-      "onboard_time": 1708261476,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2209,6 +2241,14 @@
       "onboard_time": 1708255953,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166084,
+      "num": 147090,
+      "word": "李兰迪开工素颜照",
+      "onboard_time": 1708262916,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 166028,
@@ -2505,6 +2545,14 @@
       "onboard_time": 1708175794,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 132440,
+      "num": 132440,
+      "word": "仙逆24集",
+      "onboard_time": 1708263215,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 130522,

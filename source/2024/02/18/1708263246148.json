@@ -1,0 +1,410 @@
+{
+  "runTime": 1708263246148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168868,
+        "num": 1168868,
+        "word": "正式确诊为魏晨",
+        "onboard_time": 1708254515,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 963938,
+        "num": 963938,
+        "word": "当97岁奶奶没戴假牙吃草莓",
+        "onboard_time": 1708259552,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21117,
+        "num": 768192,
+        "word": "龙年开工一起振奋龙马精神",
+        "onboard_time": 1708240473,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417358,
+        "num": 757781,
+        "word": "为什么卫生巾广告用蓝色液体",
+        "onboard_time": 1708258535,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1053220,
+        "num": 748075,
+        "word": "乐莹抽烟",
+        "onboard_time": 1708254275,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 733116,
+        "num": 733116,
+        "word": "制片人说赵今麦五页纸不卡词",
+        "onboard_time": 1708260154,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 708848,
+        "num": 708848,
+        "word": "亲爱的她确认引进内地",
+        "onboard_time": 1708259612,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 558311,
+        "num": 558311,
+        "word": "林允钻石背链",
+        "onboard_time": 1708260872,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413970,
+        "num": 413970,
+        "word": "瑞幸9.9元一杯活动缩水",
+        "onboard_time": 1708242933,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 314538,
+        "num": 411120,
+        "word": "林孝埈摔出赛道没有回放",
+        "onboard_time": 1708251757,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 856758,
+        "num": 395505,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506632,
+        "num": 385237,
+        "word": "飞驰2破25亿全员呼应上了",
+        "onboard_time": 1708261835,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480370,
+        "num": 368415,
+        "word": "前女友控诉卜凡家暴",
+        "onboard_time": 1708259913,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367120,
+        "num": 367120,
+        "word": "特朗普卖鞋",
+        "onboard_time": 1708249293,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 366638,
+        "num": 366638,
+        "word": "咒术回战全员死亡",
+        "onboard_time": 1708247134,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 388304,
+        "num": 347874,
+        "word": "马思纯减肥Vlog",
+        "onboard_time": 1708254875,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382182,
+        "num": 346326,
+        "word": "aespa美得有点过分了",
+        "onboard_time": 1708261594,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320522,
+        "num": 320522,
+        "word": "高三班主任被曝办公室强吻女学生",
+        "onboard_time": 1708235732,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300775,
+        "num": 300775,
+        "word": "女飞行员执行任务前笑着拍遗照",
+        "onboard_time": 1708261476,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256709,
+        "num": 256709,
+        "word": "开心消消乐崩了",
+        "onboard_time": 1708256193,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 462539,
+        "num": 253148,
+        "word": "天蝎座不允许自己成为感情的附庸",
+        "onboard_time": 1708261113,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334568,
+        "num": 248705,
+        "word": "夏之光 看哪位要我这只狗",
+        "onboard_time": 1708262436,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328140,
+        "num": 238279,
+        "word": "人民网评飞驰人生2",
+        "onboard_time": 1708256671,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227402,
+        "num": 227402,
+        "word": "不要学姐姐 你没有开明的爸妈",
+        "onboard_time": 1708252416,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215561,
+        "num": 215561,
+        "word": "日本男团3比1中国台北",
+        "onboard_time": 1708257816,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234156,
+        "num": 215551,
+        "word": "邓为杀青哭了",
+        "onboard_time": 1708253554,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219447,
+        "num": 215551,
+        "word": "贾玲真正厉害的一点",
+        "onboard_time": 1708256016,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215537,
+        "num": 215537,
+        "word": "秦朗舅舅",
+        "onboard_time": 1708262796,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207489,
+        "num": 207489,
+        "word": "迪丽热巴 推理吧2",
+        "onboard_time": 1708251513,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207344,
+        "num": 207344,
+        "word": "球迷用中文喊C罗得到回应",
+        "onboard_time": 1708260692,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203243,
+        "num": 203243,
+        "word": "贾玲仪态",
+        "onboard_time": 1708239935,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199515,
+        "num": 199515,
+        "word": "章昊 无情的点头机器",
+        "onboard_time": 1708262555,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195447,
+        "num": 195447,
+        "word": "林孝埈刘少昂摔出赛道",
+        "onboard_time": 1708245816,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 194439,
+        "word": "司机 她怎么敢的啊",
+        "onboard_time": 1708254632,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189359,
+        "num": 189359,
+        "word": "珉佑直播",
+        "onboard_time": 1708262616,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176693,
+        "num": 176693,
+        "word": "罗渽民银发",
+        "onboard_time": 1708259733,
+        "rank": 35,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 174830,
+        "num": 174830,
+        "word": "热辣滚烫到底提前策划了多少物料",
+        "onboard_time": 1708257453,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167568,
+        "num": 167568,
+        "word": "鱼 没想到还能用上智能家居",
+        "onboard_time": 1708259972,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158610,
+        "num": 158610,
+        "word": "三亚游客迂回出岛",
+        "onboard_time": 1708259494,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147284,
+        "num": 147284,
+        "word": "西安发现1700余座汉长安城平民墓葬",
+        "onboard_time": 1708253735,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166084,
+        "num": 147090,
+        "word": "李兰迪开工素颜照",
+        "onboard_time": 1708262916,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164583,
+        "num": 144708,
+        "word": "两个贾玲对唱",
+        "onboard_time": 1708223911,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163832,
+        "num": 144315,
+        "word": "王一博龙年第一跳",
+        "onboard_time": 1708254515,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156486,
+        "num": 142583,
+        "word": "热辣滚烫票房破28亿",
+        "onboard_time": 1708250435,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141742,
+        "num": 141742,
+        "word": "徐冬冬尹子维订婚",
+        "onboard_time": 1708244855,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136694,
+        "num": 136694,
+        "word": "金毛偷咬彩票意外刮中1000元",
+        "onboard_time": 1708245336,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136174,
+        "num": 136174,
+        "word": "高合",
+        "onboard_time": 1708251155,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135852,
+        "num": 135852,
+        "word": "仙逆年番海报上线",
+        "onboard_time": 1708261774,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132440,
+        "num": 132440,
+        "word": "仙逆24集",
+        "onboard_time": 1708263215,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127321,
+        "num": 127321,
+        "word": "女儿舍不得父母返程时真情流泪",
+        "onboard_time": 1708243235,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  }
+}
