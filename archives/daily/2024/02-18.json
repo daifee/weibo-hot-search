@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708233322862,
+  "endTime": 1708234433665,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -187,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 811119,
+      "num": 811119,
+      "word": "满江红编剧 盗摄是有问题的",
+      "onboard_time": 1708229496,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 795991,
       "num": 795991,
       "word": "卜凡回应卜卦",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775634,
+      "num": 775634,
+      "word": "国际金价下跌为何国内金价坚挺",
+      "onboard_time": 1708230816,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 774647,
       "num": 774647,
       "word": "赵丽颖巴黎逛街",
@@ -211,20 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 749704,
-      "num": 662320,
-      "word": "满江红编剧 盗摄是有问题的",
-      "onboard_time": 1708229496,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 736793,
-      "num": 736793,
-      "word": "国际金价下跌为何国内金价坚挺",
-      "onboard_time": 1708230816,
-      "rank": 40,
-      "category": "财经"
+      "raw_hot": 724091,
+      "num": 724091,
+      "word": "腾讯小米为员工发开工红包",
+      "onboard_time": 1708231116,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 706045,
@@ -241,14 +249,6 @@
       "onboard_time": 1708182215,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 682562,
-      "num": 682562,
-      "word": "腾讯小米为员工发开工红包",
-      "onboard_time": 1708231116,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 663146,
@@ -323,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 605306,
+      "num": 542434,
+      "word": "马丽测评了14条光腿神器",
+      "onboard_time": 1708234055,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562294,
       "num": 562294,
       "word": "找工作",
@@ -353,6 +361,14 @@
       "onboard_time": 1708184971,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 515340,
+      "num": 302183,
+      "word": "因为高速太堵跟领导请假被拒了",
+      "onboard_time": 1708232856,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 515113,
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 431027,
+      "num": 431027,
+      "word": "杨幂开年高定",
+      "onboard_time": 1708233157,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -483,20 +507,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372004,
+      "num": 372004,
+      "word": "去新加坡旅游到底有多贵",
+      "onboard_time": 1708230337,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 363745,
       "num": 298986,
       "word": "开工第一件事换头像",
       "onboard_time": 1708231295,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362055,
-      "num": 250040,
-      "word": "因为高速太堵跟领导请假被拒了",
-      "onboard_time": 1708232856,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 360019,
@@ -545,14 +569,6 @@
       "onboard_time": 1708183295,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330446,
-      "num": 297242,
-      "word": "杨幂开年高定",
-      "onboard_time": 1708233157,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 328388,
@@ -683,20 +699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281071,
+      "num": 281071,
+      "word": "代号鸢孔融",
+      "onboard_time": 1708233033,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278897,
       "num": 278897,
       "word": "宝宝说想当中国人",
       "onboard_time": 1708225776,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278827,
-      "num": 278827,
-      "word": "去新加坡旅游到底有多贵",
-      "onboard_time": 1708230337,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 273769,
@@ -745,14 +761,6 @@
       "onboard_time": 1708221933,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251906,
-      "num": 251906,
-      "word": "代号鸢孔融",
-      "onboard_time": 1708233033,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 249046,
@@ -915,6 +923,22 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 213252,
+      "num": 213252,
+      "word": "路阳 拒绝盗摄是小学生都懂的道理",
+      "onboard_time": 1708233693,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 209370,
+      "num": 209370,
+      "word": "把掰了四年的朋友微博看完了",
+      "onboard_time": 1708234176,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205306,
       "num": 205306,
       "word": "NBA全明星",
@@ -929,6 +953,14 @@
       "onboard_time": 1708227031,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204593,
+      "num": 204593,
+      "word": "齐司礼 丑卡",
+      "onboard_time": 1708234296,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 204385,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1708183893,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177248,
+      "num": 200992,
+      "word": "上班第一天确诊节后综合征",
+      "onboard_time": 1708233994,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176998,

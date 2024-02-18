@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708233322862,
+  "endTime": 1708234433665,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -6547,6 +6547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811119,
+      "num": 811119,
+      "word": "满江红编剧 盗摄是有问题的",
+      "onboard_time": 1708229496,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 810263,
       "num": 810263,
       "word": "财阀家的女爱豆",
@@ -7067,6 +7075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 775634,
+      "num": 775634,
+      "word": "国际金价下跌为何国内金价坚挺",
+      "onboard_time": 1708230816,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 774713,
       "num": 774713,
       "word": "2女孩疑遭人拐卖上高速呼喊求助",
@@ -7355,14 +7371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 749704,
-      "num": 662320,
-      "word": "满江红编剧 盗摄是有问题的",
-      "onboard_time": 1708229496,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 749638,
       "num": 749638,
       "word": "刘宇宁田曦薇 风月不相关",
@@ -7561,14 +7569,6 @@
       "onboard_time": 1706864614,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736793,
-      "num": 736793,
-      "word": "国际金价下跌为何国内金价坚挺",
-      "onboard_time": 1708230816,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 736698,
@@ -7785,6 +7785,14 @@
       "onboard_time": 1708093715,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 724091,
+      "num": 724091,
+      "word": "腾讯小米为员工发开工红包",
+      "onboard_time": 1708231116,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 723182,
@@ -8377,14 +8385,6 @@
       "onboard_time": 1707994832,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 682562,
-      "num": 682562,
-      "word": "腾讯小米为员工发开工红包",
-      "onboard_time": 1708231116,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 682366,
@@ -9793,6 +9793,14 @@
       "onboard_time": 1707229472,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 605306,
+      "num": 542434,
+      "word": "马丽测评了14条光腿神器",
+      "onboard_time": 1708234055,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 605009,
@@ -11761,6 +11769,14 @@
       "onboard_time": 1706928210,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515340,
+      "num": 302183,
+      "word": "因为高速太堵跟领导请假被拒了",
+      "onboard_time": 1708232856,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 515321,
@@ -13939,6 +13955,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 431027,
+      "num": 431027,
+      "word": "杨幂开年高定",
+      "onboard_time": 1708233157,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 430337,
       "num": 430337,
       "word": "叶舒华回归期第五次健康声明",
@@ -16027,6 +16051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372004,
+      "num": 372004,
+      "word": "去新加坡旅游到底有多贵",
+      "onboard_time": 1708230337,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 371554,
       "num": 310134,
       "word": "大年初四为了谈结婚请客的事吵架",
@@ -16457,14 +16489,6 @@
       "onboard_time": 1707013651,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362055,
-      "num": 250040,
-      "word": "因为高速太堵跟领导请假被拒了",
-      "onboard_time": 1708232856,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 362052,
@@ -17625,14 +17649,6 @@
       "onboard_time": 1707239904,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330446,
-      "num": 297242,
-      "word": "杨幂开年高定",
-      "onboard_time": 1708233157,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 330390,
@@ -20219,6 +20235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281071,
+      "num": 281071,
+      "word": "代号鸢孔融",
+      "onboard_time": 1708233033,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281035,
       "num": 231526,
       "word": "风月不相关 刘宇宁田曦薇",
@@ -20393,14 +20417,6 @@
       "onboard_time": 1707812979,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278827,
-      "num": 278827,
-      "word": "去新加坡旅游到底有多贵",
-      "onboard_time": 1708230337,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 278820,
@@ -22249,14 +22265,6 @@
       "onboard_time": 1707666453,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 251906,
-      "num": 251906,
-      "word": "代号鸢孔融",
-      "onboard_time": 1708233033,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 251737,
@@ -26091,6 +26099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213252,
+      "num": 213252,
+      "word": "路阳 拒绝盗摄是小学生都懂的道理",
+      "onboard_time": 1708233693,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213225,
       "num": 210502,
       "word": "吴磊王星越情头",
@@ -26521,6 +26537,14 @@
       "onboard_time": 1707229292,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209370,
+      "num": 209370,
+      "word": "把掰了四年的朋友微博看完了",
+      "onboard_time": 1708234176,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 209313,
@@ -27353,6 +27377,14 @@
       "onboard_time": 1707038071,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204593,
+      "num": 204593,
+      "word": "齐司礼 丑卡",
+      "onboard_time": 1708234296,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 204544,
@@ -31977,6 +32009,14 @@
       "onboard_time": 1707448769,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177248,
+      "num": 200992,
+      "word": "上班第一天确诊节后综合征",
+      "onboard_time": 1708233994,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177169,
