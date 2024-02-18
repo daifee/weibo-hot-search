@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708254794354,
+  "endTime": 1708256046097,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1874901,
+      "num": 1874901,
+      "word": "乐莹抽烟",
+      "onboard_time": 1708254275,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1818085,
       "num": 1818085,
       "word": "特朗普卖鞋",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1266179,
-      "num": 799575,
+      "num": 982583,
       "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
       "onboard_time": 1708250313,
       "rank": 11,
@@ -203,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1142608,
+      "num": 1142608,
+      "word": "高合",
+      "onboard_time": 1708251155,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1122743,
       "num": 1122743,
       "word": "10岁男孩被窜出的烟花炸伤身亡",
@@ -243,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943279,
-      "num": 943279,
-      "word": "高合",
-      "onboard_time": 1708251155,
-      "rank": 44,
-      "category": "汽车"
+      "raw_hot": 957971,
+      "num": 957971,
+      "word": "正式确诊为魏晨",
+      "onboard_time": 1708254515,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 916967,
@@ -587,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 520847,
-      "num": 520847,
-      "word": "乐莹抽烟",
-      "onboard_time": 1708254275,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 518945,
       "num": 518945,
       "word": "马丽以为mary饺是沈腾送的",
@@ -731,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 439863,
+      "num": 439863,
+      "word": "不要学姐姐 你没有开明的爸妈",
+      "onboard_time": 1708252416,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 435807,
       "num": 331534,
       "word": "迪丽热巴狗耳朵开工照",
@@ -777,14 +793,6 @@
       "onboard_time": 1708183653,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 413162,
-      "num": 413162,
-      "word": "不要学姐姐 你没有开明的爸妈",
-      "onboard_time": 1708252416,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 411283,
@@ -888,6 +896,14 @@
       "word": "开工第一件事换头像",
       "onboard_time": 1708231295,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 361118,
+      "num": 244307,
+      "word": "司机 她怎么敢的啊",
+      "onboard_time": 1708254632,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314775,
-      "num": 314775,
-      "word": "正式确诊为魏晨",
-      "onboard_time": 1708254515,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 312434,
       "num": 601626,
       "word": "新疆现大片七彩祥云",
@@ -1099,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297715,
+      "num": 297715,
+      "word": "马思纯减肥Vlog",
+      "onboard_time": 1708254875,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295019,
       "num": 244345,
       "word": "如果杜乐莹没有离开昊坤",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1708215628,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293302,
+      "num": 293302,
+      "word": "西安发现1700余座汉长安城平民墓葬",
+      "onboard_time": 1708253735,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 291779,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1708174593,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 266121,
+      "num": 266121,
+      "word": "王一博龙年第一跳",
+      "onboard_time": 1708254515,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 263616,
@@ -1443,14 +1475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 232305,
-      "num": 232305,
-      "word": "西安发现1700余座汉长安城平民墓葬",
-      "onboard_time": 1708253735,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 230913,
       "num": 230913,
       "word": "樊振东3比0马乔里斯",
@@ -1571,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217016,
-      "num": 217016,
-      "word": "司机 她怎么敢的啊",
-      "onboard_time": 1708254632,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216754,
       "num": 216754,
       "word": "咒术回战 一款水果忍者",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1708253074,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211327,
+      "num": 211327,
+      "word": "吴磊发文告别林亦扬",
+      "onboard_time": 1708254934,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 210276,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1708247613,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200904,
+      "num": 200904,
+      "word": "格林威治领奖台直拍",
+      "onboard_time": 1708255535,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 200847,
@@ -1819,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186522,
-      "num": 186522,
-      "word": "王一博龙年第一跳",
-      "onboard_time": 1708254515,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186478,
       "num": 186478,
       "word": "男子烧灶膛火中窜出一只动物",
@@ -1968,6 +1992,14 @@
       "word": "追星的必要性",
       "onboard_time": 1708247734,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166440,
+      "num": 166440,
+      "word": "花500元改造工位同事笑我倒贴上班",
+      "onboard_time": 1708255953,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -2177,6 +2209,14 @@
       "onboard_time": 1708224813,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144028,
+      "num": 144028,
+      "word": "贾玲真正厉害的一点",
+      "onboard_time": 1708256016,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 141344,

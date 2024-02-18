@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708254794354,
+  "endTime": 1708256046097,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1640,6 +1640,14 @@
       "word": "贾玲哭了",
       "onboard_time": 1707723448,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1874901,
+      "num": 1874901,
+      "word": "乐莹抽烟",
+      "onboard_time": 1708254275,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -3284,7 +3292,7 @@
     },
     {
       "raw_hot": 1266179,
-      "num": 799575,
+      "num": 982583,
       "word": "男歌手父亲吸入鞭炮烟气喘发作去世",
       "onboard_time": 1708250313,
       "rank": 11,
@@ -4001,6 +4009,14 @@
       "onboard_time": 1706975010,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1142608,
+      "num": 1142608,
+      "word": "高合",
+      "onboard_time": 1708251155,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 1142603,
@@ -5203,6 +5219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 957971,
+      "num": 957971,
+      "word": "正式确诊为魏晨",
+      "onboard_time": 1708254515,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 957512,
       "num": 957512,
       "word": "范丞丞科目一考了好几次",
@@ -5361,14 +5385,6 @@
       "onboard_time": 1707208773,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943279,
-      "num": 943279,
-      "word": "高合",
-      "onboard_time": 1708251155,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 942565,
@@ -11851,14 +11867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 520847,
-      "num": 520847,
-      "word": "乐莹抽烟",
-      "onboard_time": 1708254275,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 520770,
       "num": 520770,
       "word": "赵丽颖朱一龙知否对戏花絮",
@@ -13963,6 +13971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439863,
+      "num": 439863,
+      "word": "不要学姐姐 你没有开明的爸妈",
+      "onboard_time": 1708252416,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 439351,
       "num": 439351,
       "word": "摇太阳 被低估",
@@ -14905,14 +14921,6 @@
       "onboard_time": 1708046968,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413162,
-      "num": 413162,
-      "word": "不要学姐姐 你没有开明的爸妈",
-      "onboard_time": 1708252416,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 412091,
@@ -16899,6 +16907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361118,
+      "num": 244307,
+      "word": "司机 她怎么敢的啊",
+      "onboard_time": 1708254632,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360868,
       "num": 957750,
       "word": "大年初一",
@@ -18795,14 +18811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314775,
-      "num": 314775,
-      "word": "正式确诊为魏晨",
-      "onboard_time": 1708254515,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 314708,
       "num": 314708,
       "word": "王楚钦希望世乒赛尽自己一份力",
@@ -19731,6 +19739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297715,
+      "num": 297715,
+      "word": "马思纯减肥Vlog",
+      "onboard_time": 1708254875,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297463,
       "num": 321952,
       "word": "看电影时女子播放视频哄孩子",
@@ -19961,6 +19977,14 @@
       "onboard_time": 1708215628,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293302,
+      "num": 293302,
+      "word": "西安发现1700余座汉长安城平民墓葬",
+      "onboard_time": 1708253735,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 293065,
@@ -21817,6 +21841,14 @@
       "onboard_time": 1707715651,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266121,
+      "num": 266121,
+      "word": "王一博龙年第一跳",
+      "onboard_time": 1708254515,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 265943,
@@ -24675,14 +24707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 232305,
-      "num": 232305,
-      "word": "西安发现1700余座汉长安城平民墓葬",
-      "onboard_time": 1708253735,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 232128,
       "num": 232128,
       "word": "大侦探9首案预告",
@@ -26363,14 +26387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217016,
-      "num": 217016,
-      "word": "司机 她怎么敢的啊",
-      "onboard_time": 1708254632,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216940,
       "num": 216940,
       "word": "Scout 阿卡丽",
@@ -27009,6 +27025,14 @@
       "onboard_time": 1706878953,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211327,
+      "num": 211327,
+      "word": "吴磊发文告别林亦扬",
+      "onboard_time": 1708254934,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 211198,
@@ -28729,6 +28753,14 @@
       "onboard_time": 1708044990,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200904,
+      "num": 200904,
+      "word": "格林威治领奖台直拍",
+      "onboard_time": 1708255535,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 200847,
@@ -31393,14 +31425,6 @@
       "onboard_time": 1707881551,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 186522,
-      "num": 186522,
-      "word": "王一博龙年第一跳",
-      "onboard_time": 1708254515,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 186514,
@@ -34681,6 +34705,14 @@
       "onboard_time": 1707233253,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166440,
+      "num": 166440,
+      "word": "花500元改造工位同事笑我倒贴上班",
+      "onboard_time": 1708255953,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 166427,
@@ -38649,6 +38681,14 @@
       "onboard_time": 1707664413,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 144028,
+      "num": 144028,
+      "word": "贾玲真正厉害的一点",
+      "onboard_time": 1708256016,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 144026,
