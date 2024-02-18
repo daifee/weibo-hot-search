@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708220084809,
+  "endTime": 1708223032395,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1572171,
+      "num": 511777,
+      "word": "白敬亭泪痣",
+      "onboard_time": 1708220132,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1569503,
       "num": 1569503,
       "word": "甜馨 倒霉的一年也结束了",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1707718109,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1489494,
+      "num": 659854,
+      "word": "摔跤吧爸爸小芭比塔演员去世",
+      "onboard_time": 1708221093,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1489068,
@@ -9387,6 +9403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 620067,
+      "num": 620067,
+      "word": "薛之谦演唱会迟到",
+      "onboard_time": 1708219052,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 619488,
       "num": 666095,
       "word": "日本鹿儿岛县樱岛火山喷发",
@@ -9497,6 +9521,14 @@
       "onboard_time": 1707998437,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 612756,
+      "num": 612756,
+      "word": "苹果可折叠iPhone开发暂停",
+      "onboard_time": 1708217191,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 611778,
@@ -10129,14 +10161,6 @@
       "onboard_time": 1707481249,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572855,
-      "num": 572855,
-      "word": "苹果可折叠iPhone开发暂停",
-      "onboard_time": 1708217191,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 572836,
@@ -11491,6 +11515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518683,
+      "num": 518683,
+      "word": "ZICO向所有爱豆道歉",
+      "onboard_time": 1708221933,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 517901,
       "num": 517901,
       "word": "新女婿拜丈人送300元茅台平替",
@@ -12355,6 +12387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483025,
+      "num": 330008,
+      "word": "五官逐渐变得耐看的六种方法",
+      "onboard_time": 1708221212,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 482829,
       "num": 482829,
       "word": "张小斐 一个演员的敏感力",
@@ -13049,6 +13089,14 @@
       "onboard_time": 1707975212,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454131,
+      "num": 454131,
+      "word": "甘肃超2万名旅客滞留",
+      "onboard_time": 1708221212,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453619,
@@ -15843,14 +15891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370572,
-      "num": 370572,
-      "word": "薛之谦演唱会迟到",
-      "onboard_time": 1708219052,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 370519,
       "num": 370519,
       "word": "武汉铁路建议不要贸然前往火车站",
@@ -16305,6 +16345,14 @@
       "onboard_time": 1706787331,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360019,
+      "num": 360019,
+      "word": "魅族转型AI停止传统手机项目",
+      "onboard_time": 1708220430,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 360018,
@@ -18795,6 +18843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301758,
+      "num": 301758,
+      "word": "庄达菲刘恋赵梦同游曼谷",
+      "onboard_time": 1708222774,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301705,
       "num": 301705,
       "word": "说唱歌手格莱美拿奖后被逮捕",
@@ -19979,6 +20035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 279887,
+      "num": 279887,
+      "word": "小镇超市为何能开20年",
+      "onboard_time": 1708219652,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279834,
       "num": 279834,
       "word": "王者荣耀孙尚香新皮肤",
@@ -20753,6 +20817,14 @@
       "onboard_time": 1708095937,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268827,
+      "num": 268827,
+      "word": "今天正式退出春节档",
+      "onboard_time": 1708222233,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268823,
@@ -21731,6 +21803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253743,
+      "num": 249928,
+      "word": "要带女朋友回家 家人的极限操作",
+      "onboard_time": 1708221933,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253674,
       "num": 253674,
       "word": "杭州老饭店一天吃掉西湖醋鱼1000条",
@@ -22131,6 +22211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248539,
+      "num": 248539,
+      "word": "春节后上班第一天的状态",
+      "onboard_time": 1708219351,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248483,
       "num": 248483,
       "word": "已经有一批回家的人又逃回去了",
@@ -22225,14 +22313,6 @@
       "onboard_time": 1707480163,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 247031,
-      "num": 247031,
-      "word": "春节后上班第一天的状态",
-      "onboard_time": 1708219351,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 247024,
@@ -23771,6 +23851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230913,
+      "num": 230913,
+      "word": "樊振东3比0马乔里斯",
+      "onboard_time": 1708222291,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230811,
       "num": 230811,
       "word": "嗑瓜子上火是因为直接用嘴嗑",
@@ -24512,6 +24600,14 @@
       "word": "王安宇太好梦了",
       "onboard_time": 1708174234,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222736,
+      "num": 222736,
+      "word": "章昊泡泡",
+      "onboard_time": 1708220974,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -29171,6 +29267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192156,
+      "num": 192156,
+      "word": "春节假期A股利好不断",
+      "onboard_time": 1708222652,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 192083,
+      "num": 192083,
+      "word": "AI手机",
+      "onboard_time": 1708222774,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192066,
       "num": 145117,
       "word": "街舞少年",
@@ -30211,14 +30323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185461,
-      "num": 185461,
-      "word": "小镇超市为何能开20年",
-      "onboard_time": 1708219652,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185425,
       "num": 185425,
       "word": "FPX战胜EDG",
@@ -30521,6 +30625,14 @@
       "onboard_time": 1707294031,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183464,
+      "num": 183464,
+      "word": "我们一起摇太阳紧急撤档背后",
+      "onboard_time": 1708219831,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 183439,
@@ -33595,6 +33707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164873,
+      "num": 164873,
+      "word": "NBA全明星",
+      "onboard_time": 1708222951,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164869,
       "num": 164869,
       "word": "央视龙年春晚节目海报",
@@ -34499,6 +34619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159076,
+      "num": 159076,
+      "word": "2024龙年开工大吉",
+      "onboard_time": 1708222889,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159027,
       "num": 159027,
       "word": "GOODBAI牛仔外套抽检不合格",
@@ -34937,6 +35065,14 @@
       "onboard_time": 1706790871,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156563,
+      "num": 156563,
+      "word": "特斯拉回应Cybertruck淋雨后生锈",
+      "onboard_time": 1708221093,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 156398,
@@ -35745,6 +35881,14 @@
       "onboard_time": 1706839349,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151599,
+      "num": 151599,
+      "word": "UFC",
+      "onboard_time": 1708222831,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151531,
@@ -37193,14 +37337,6 @@
       "onboard_time": 1707976650,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 143603,
-      "num": 143603,
-      "word": "我们一起摇太阳紧急撤档背后",
-      "onboard_time": 1708219831,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 143562,

@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708220084809,
+  "endTime": 1708223032395,
   "band_list": [
     {
       "raw_hot": 1616741,
@@ -9,6 +9,22 @@
       "onboard_time": 1708215752,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1572171,
+      "num": 511777,
+      "word": "白敬亭泪痣",
+      "onboard_time": 1708220132,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1489494,
+      "num": 659854,
+      "word": "摔跤吧爸爸小芭比塔演员去世",
+      "onboard_time": 1708221093,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1262471,
@@ -123,12 +139,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 572855,
-      "num": 572855,
+      "raw_hot": 620067,
+      "num": 620067,
+      "word": "薛之谦演唱会迟到",
+      "onboard_time": 1708219052,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 612756,
+      "num": 612756,
       "word": "苹果可折叠iPhone开发暂停",
       "onboard_time": 1708217191,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 608678,
+      "num": 608678,
+      "word": "A股",
+      "onboard_time": 1708221212,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 543844,
@@ -155,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 518683,
+      "num": 518683,
+      "word": "ZICO向所有爱豆道歉",
+      "onboard_time": 1708221933,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 505163,
       "num": 505163,
       "word": "白敬亭秒认出王嘉尔井柏然",
@@ -171,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483025,
+      "num": 330008,
+      "word": "五官逐渐变得耐看的六种方法",
+      "onboard_time": 1708221212,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "开工大吉",
@@ -185,6 +233,14 @@
       "onboard_time": 1708176094,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454131,
+      "num": 454131,
+      "word": "甘肃超2万名旅客滞留",
+      "onboard_time": 1708221212,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451672,
@@ -243,12 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 370572,
-      "num": 370572,
-      "word": "薛之谦演唱会迟到",
-      "onboard_time": 1708219052,
+      "raw_hot": 360019,
+      "num": 360019,
+      "word": "魅族转型AI停止传统手机项目",
+      "onboard_time": 1708220430,
       "rank": 18,
-      "category": "演出"
+      "category": "数码"
     },
     {
       "raw_hot": 354462,
@@ -307,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301758,
+      "num": 301758,
+      "word": "庄达菲刘恋赵梦同游曼谷",
+      "onboard_time": 1708222774,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297867,
       "num": 297867,
       "word": "陈丽君生图",
@@ -339,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279887,
+      "num": 279887,
+      "word": "小镇超市为何能开20年",
+      "onboard_time": 1708219652,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273769,
       "num": 273769,
       "word": "床上充电时间",
@@ -353,6 +425,14 @@
       "onboard_time": 1708178074,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268827,
+      "num": 268827,
+      "word": "今天正式退出春节档",
+      "onboard_time": 1708222233,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268538,
@@ -371,6 +451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 253743,
+      "num": 249928,
+      "word": "要带女朋友回家 家人的极限操作",
+      "onboard_time": 1708221933,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249046,
       "num": 249046,
       "word": "贾玲吃减脂餐的感受",
@@ -379,8 +467,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 247031,
-      "num": 247031,
+      "raw_hot": 248539,
+      "num": 248539,
       "word": "春节后上班第一天的状态",
       "onboard_time": 1708219351,
       "rank": 27,
@@ -411,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230913,
+      "num": 230913,
+      "word": "樊振东3比0马乔里斯",
+      "onboard_time": 1708222291,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227125,
       "num": 227125,
       "word": "中国资产假期全线大涨",
@@ -425,6 +521,14 @@
       "onboard_time": 1708219231,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222736,
+      "num": 222736,
+      "word": "章昊泡泡",
+      "onboard_time": 1708220974,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 221963,
@@ -491,6 +595,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192156,
+      "num": 192156,
+      "word": "春节假期A股利好不断",
+      "onboard_time": 1708222652,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 192083,
+      "num": 192083,
+      "word": "AI手机",
+      "onboard_time": 1708222774,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189562,
       "num": 189562,
       "word": "陈都灵早期cos",
@@ -499,20 +619,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185461,
-      "num": 185461,
-      "word": "小镇超市为何能开20年",
-      "onboard_time": 1708219652,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185266,
       "num": 185266,
       "word": "安检仪里的返程行李箱",
       "onboard_time": 1708218574,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183464,
+      "num": 183464,
+      "word": "我们一起摇太阳紧急撤档背后",
+      "onboard_time": 1708219831,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 180125,
@@ -555,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164873,
+      "num": 164873,
+      "word": "NBA全明星",
+      "onboard_time": 1708222951,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162251,
       "num": 162251,
       "word": "高叶说赵丽颖让她心疼心碎",
@@ -571,12 +699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159076,
+      "num": 159076,
+      "word": "2024龙年开工大吉",
+      "onboard_time": 1708222889,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158342,
       "num": 158342,
       "word": "杨紫国色芳华路透",
       "onboard_time": 1708179096,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156563,
+      "num": 156563,
+      "word": "特斯拉回应Cybertruck淋雨后生锈",
+      "onboard_time": 1708221093,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 154757,
@@ -593,6 +737,14 @@
       "onboard_time": 1708173273,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151599,
+      "num": 151599,
+      "word": "UFC",
+      "onboard_time": 1708222831,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149830,
@@ -625,14 +777,6 @@
       "onboard_time": 1708213886,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143603,
-      "num": 143603,
-      "word": "我们一起摇太阳紧急撤档背后",
-      "onboard_time": 1708219831,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 141344,
