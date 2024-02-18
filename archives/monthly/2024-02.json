@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708238033778,
+  "endTime": 1708240655958,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -915,6 +915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 2415461,
+      "num": 2415461,
+      "word": "高三班主任被曝办公室强吻女学生",
+      "onboard_time": 1708235732,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2415304,
       "num": 2415304,
       "word": "鲁AK66M7",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1708223911,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2259342,
-      "num": 2259342,
-      "word": "高三班主任被曝办公室强吻女学生",
-      "onboard_time": 1708235732,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2244352,
@@ -4419,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1074027,
+      "num": 1074027,
+      "word": "丢寒假作业的秦朗家人回应",
+      "onboard_time": 1708238434,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1073976,
       "num": 719389,
       "word": "韩国五大医院医生集体辞职抗议医学院扩招",
@@ -6337,6 +6345,14 @@
       "onboard_time": 1708163971,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833662,
+      "num": 833662,
+      "word": "贾玲仪态",
+      "onboard_time": 1708239935,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 832963,
@@ -10116,7 +10132,7 @@
     },
     {
       "raw_hot": 587697,
-      "num": 587697,
+      "num": 641290,
       "word": "YouTube前CEO之子在校突然身亡",
       "onboard_time": 1708235912,
       "rank": 11,
@@ -11721,6 +11737,14 @@
       "onboard_time": 1708070490,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518945,
+      "num": 518945,
+      "word": "马丽以为mary饺是沈腾送的",
+      "onboard_time": 1708237773,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 517901,
@@ -14763,6 +14787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408630,
+      "num": 408630,
+      "word": "年轻人为什么开始爱买黄金",
+      "onboard_time": 1708235193,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 408260,
       "num": 333445,
       "word": "男朋友第一次上门带的礼物",
@@ -15033,6 +15065,14 @@
       "onboard_time": 1706933731,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400946,
+      "num": 400946,
+      "word": "上班第一天确诊节后综合征",
+      "onboard_time": 1708233994,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 400904,
@@ -15769,6 +15809,14 @@
       "onboard_time": 1706710354,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380270,
+      "num": 380270,
+      "word": "贾玲式取名",
+      "onboard_time": 1708238015,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 379992,
@@ -19115,14 +19163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 302904,
-      "num": 302904,
-      "word": "上班第一天确诊节后综合征",
-      "onboard_time": 1708233994,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 302798,
       "num": 302798,
       "word": "杭州巨响",
@@ -19489,6 +19529,14 @@
       "onboard_time": 1708070191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294786,
+      "num": 294786,
+      "word": "谷爱凌夺冠后要去做作业",
+      "onboard_time": 1708239272,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 294634,
@@ -20001,6 +20049,14 @@
       "onboard_time": 1707667051,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 286782,
+      "num": 286782,
+      "word": "王鹤棣见到库里了",
+      "onboard_time": 1708240410,
+      "rank": 19,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 286707,
@@ -21643,14 +21699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 260404,
-      "num": 260404,
-      "word": "贾玲式取名",
-      "onboard_time": 1708238015,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 260374,
       "num": 260374,
       "word": "创造营",
@@ -22923,6 +22971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244386,
+      "num": 244386,
+      "word": "千万别随便跟陌生人的车",
+      "onboard_time": 1708238734,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244260,
       "num": 244260,
       "word": "川渝春晚",
@@ -23080,6 +23136,14 @@
       "word": "6大人8孩子吃火锅一起一氧化碳中毒",
       "onboard_time": 1706733017,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242147,
+      "num": 242147,
+      "word": "江苏海安一工厂发生爆炸有伤亡",
+      "onboard_time": 1708239692,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -23513,14 +23577,6 @@
       "onboard_time": 1706929830,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237575,
-      "num": 254601,
-      "word": "年轻人为什么开始爱买黄金",
-      "onboard_time": 1708235193,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 237527,
@@ -25043,6 +25099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222767,
+      "num": 222767,
+      "word": "咏春拳的创始人是严咏春女士",
+      "onboard_time": 1708239755,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 222736,
       "num": 222736,
       "word": "章昊泡泡",
@@ -25441,14 +25505,6 @@
       "onboard_time": 1707234151,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219947,
-      "num": 219947,
-      "word": "马丽以为mary饺是沈腾送的",
-      "onboard_time": 1708237773,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 219923,
@@ -26449,6 +26505,14 @@
       "onboard_time": 1708047391,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 211007,
+      "num": 211007,
+      "word": "迪丽热巴狗耳朵开工照",
+      "onboard_time": 1708240175,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210947,
@@ -33411,6 +33475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169360,
+      "num": 169360,
+      "word": "尔滨返程机票一票难求",
+      "onboard_time": 1708238434,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 169347,
       "num": 169347,
       "word": "王者春节发癫版宣传片",
@@ -36545,6 +36617,14 @@
       "onboard_time": 1707866962,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151487,
+      "num": 151487,
+      "word": "小米北京昌平智能工厂正式落成投产",
+      "onboard_time": 1708238973,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 151468,
@@ -47531,6 +47611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40106,
+      "num": 273744,
+      "word": "2024春节档电影票房创纪录",
+      "onboard_time": 1708240294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39905,
       "num": 39905,
       "word": "林亦扬殷果打火机许愿",
@@ -47891,6 +47979,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 32302,
+      "num": 201318,
+      "word": "带娃和citywalk适配满分",
+      "onboard_time": 1708240115,
+      "rank": 34,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 32110,
       "num": 335589,
       "word": "大年初一来元梦领红包",
@@ -48145,6 +48241,14 @@
       "onboard_time": 1706954669,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26913,
+      "num": 1244399,
+      "word": "龙年开工一起振奋龙马精神",
+      "onboard_time": 1708240473,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26485,
