@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708306341618,
+  "endTime": 1708309430494,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1331,6 +1331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2053756,
+      "num": 2053756,
+      "word": "格力集团迎来新董事长",
+      "onboard_time": 1708306532,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2053620,
       "num": 2053620,
       "word": "双魏",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1706791294,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1891402,
+      "num": 1891402,
+      "word": "吴尊评论",
+      "onboard_time": 1708305271,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1891199,
@@ -3987,6 +4003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1151275,
+      "num": 1151275,
+      "word": "车厘子到底是不是大号樱桃",
+      "onboard_time": 1708303414,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1150739,
       "num": 927222,
       "word": "刘谦鼻子",
@@ -4120,6 +4144,14 @@
       "word": "买不到返程车票不能按时上班算旷工吗",
       "onboard_time": 1708050812,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135293,
+      "num": 1135293,
+      "word": "胖东来未按标准试吃员工已不再开除",
+      "onboard_time": 1708307248,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -7363,6 +7395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773969,
+      "num": 773969,
+      "word": "王鹤棣与詹姆斯见面",
+      "onboard_time": 1708307672,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 773951,
       "num": 627909,
       "word": "男人至死是少年",
@@ -9243,14 +9283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 653883,
-      "num": 653883,
-      "word": "车厘子到底是不是大号樱桃",
-      "onboard_time": 1708303414,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 653331,
       "num": 653331,
       "word": "古巨基苏有朋眼神拉丝",
@@ -10211,6 +10243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604818,
+      "num": 604818,
+      "word": "胖东来13页报告调查员工试吃事件",
+      "onboard_time": 1708307672,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604688,
       "num": 604688,
       "word": "灵隐寺半夜排队人挤人",
@@ -10723,6 +10763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 575701,
+      "num": 575701,
+      "word": "自热火锅为什么失宠了",
+      "onboard_time": 1708306232,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 575530,
       "num": 575530,
       "word": "一女子在银行着急办业务跪求他人换号无人同意",
@@ -11105,14 +11153,6 @@
       "onboard_time": 1707120630,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 557725,
-      "num": 419929,
-      "word": "吴尊评论",
-      "onboard_time": 1708305271,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 557576,
@@ -11764,7 +11804,7 @@
     },
     {
       "raw_hot": 534367,
-      "num": 419947,
+      "num": 525909,
       "word": "官方回应与傅园慧经历相似却维权失败",
       "onboard_time": 1708305033,
       "rank": 41,
@@ -16427,6 +16467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 381025,
+      "num": 381025,
+      "word": "王鹤棣晒与哈利伯顿合影",
+      "onboard_time": 1708306532,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380923,
       "num": 380923,
       "word": "朱丹官宣加盟最强大脑",
@@ -17657,6 +17705,14 @@
       "onboard_time": 1707900876,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 353050,
+      "num": 353050,
+      "word": "原子弹爆炸后她驾机2次冲向蘑菇云",
+      "onboard_time": 1708303414,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 352515,
@@ -19611,6 +19667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308104,
+      "num": 290752,
+      "word": "秒睡小技巧",
+      "onboard_time": 1708305455,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 308073,
       "num": 308073,
       "word": "朱一龙属龙上龙年春晚",
@@ -20657,14 +20721,6 @@
       "onboard_time": 1707973470,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290752,
-      "num": 290752,
-      "word": "秒睡小技巧",
-      "onboard_time": 1708305455,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 290595,
@@ -21953,6 +22009,14 @@
       "onboard_time": 1707613950,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270819,
+      "num": 270819,
+      "word": "华为官宣Pocket2发布会",
+      "onboard_time": 1708306711,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 270733,
@@ -23667,6 +23731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247608,
+      "num": 247608,
+      "word": "王鹤棣嘴角比AK还难压",
+      "onboard_time": 1708307193,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247458,
       "num": 179471,
       "word": "为何现在的草莓越来越难吃了",
@@ -24929,6 +25001,14 @@
       "onboard_time": 1706777369,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233998,
+      "num": 233998,
+      "word": "张元英美照",
+      "onboard_time": 1708307971,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233965,
@@ -27177,6 +27257,14 @@
       "onboard_time": 1707266911,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214775,
+      "num": 214775,
+      "word": "马面裙发型",
+      "onboard_time": 1708306532,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 214749,
@@ -29793,6 +29881,14 @@
       "onboard_time": 1706846430,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198760,
+      "num": 198760,
+      "word": "胖东来重新决议尝面事件",
+      "onboard_time": 1708309052,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198751,
@@ -35267,6 +35363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167070,
+      "num": 167070,
+      "word": "全国温差90度",
+      "onboard_time": 1708308873,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167063,
       "num": 167063,
       "word": "比亚迪1月销售201493辆",
@@ -40355,6 +40459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139556,
+      "num": 139556,
+      "word": "NBA",
+      "onboard_time": 1707625893,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139499,
       "num": 139499,
       "word": "黄瀛子蒋翼床上吻",
@@ -41185,14 +41297,6 @@
       "onboard_time": 1707312515,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135388,
-      "num": 135388,
-      "word": "自热火锅为什么失宠了",
-      "onboard_time": 1708306232,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 135382,
@@ -44011,14 +44115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120259,
-      "num": 120259,
-      "word": "NBA",
-      "onboard_time": 1707625893,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120249,
       "num": 120249,
       "word": "养猫人收拾行李总共分几步",
@@ -44473,6 +44569,14 @@
       "onboard_time": 1707351268,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117833,
+      "num": 117833,
+      "word": "龙年A股高开",
+      "onboard_time": 1708309229,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 117826,
@@ -47505,6 +47609,14 @@
       "onboard_time": 1707412523,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85636,
+      "num": 379139,
+      "word": "淘宝开工免单",
+      "onboard_time": 1708308029,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 84698,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1708309430494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2053756,
+        "num": 2053756,
+        "word": "格力集团迎来新董事长",
+        "onboard_time": 1708306532,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1891402,
+        "num": 1891402,
+        "word": "吴尊评论",
+        "onboard_time": 1708305271,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128438,
+        "num": 1212353,
+        "word": "春节假期国内游4.74亿人次",
+        "onboard_time": 1708264714,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151275,
+        "num": 1151275,
+        "word": "车厘子到底是不是大号樱桃",
+        "onboard_time": 1708303414,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1135293,
+        "num": 1135293,
+        "word": "胖东来未按标准试吃员工已不再开除",
+        "onboard_time": 1708307248,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083293,
+        "num": 1083293,
+        "word": "iPhone16Pro高清渲染图",
+        "onboard_time": 1708301971,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 773969,
+        "num": 773969,
+        "word": "王鹤棣与詹姆斯见面",
+        "onboard_time": 1708307672,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 668032,
+        "num": 668032,
+        "word": "吴尊感谢昆凌给的霉霉演唱会门票",
+        "onboard_time": 1708267713,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 604818,
+        "num": 604818,
+        "word": "胖东来13页报告调查员工试吃事件",
+        "onboard_time": 1708307672,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575701,
+        "num": 575701,
+        "word": "自热火锅为什么失宠了",
+        "onboard_time": 1708306232,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 541504,
+        "num": 541504,
+        "word": "苏醒半个娱乐圈的人脉终于用上了",
+        "onboard_time": 1708304194,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525909,
+        "num": 525909,
+        "word": "官方回应与傅园慧经历相似却维权失败",
+        "onboard_time": 1708305033,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 466508,
+        "num": 466508,
+        "word": "复工第一天在出租屋哭了很久",
+        "onboard_time": 1708300351,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381025,
+        "num": 381025,
+        "word": "王鹤棣晒与哈利伯顿合影",
+        "onboard_time": 1708306532,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85636,
+        "num": 379139,
+        "word": "淘宝开工免单",
+        "onboard_time": 1708308029,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 378239,
+        "num": 378239,
+        "word": "周杰伦 我只看我想看的",
+        "onboard_time": 1708267176,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362861,
+        "num": 362861,
+        "word": "武汉中小学延迟开学",
+        "onboard_time": 1708297401,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353050,
+        "num": 353050,
+        "word": "原子弹爆炸后她驾机2次冲向蘑菇云",
+        "onboard_time": 1708303414,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345763,
+        "num": 345763,
+        "word": "A股",
+        "onboard_time": 1708306773,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270819,
+        "num": 270819,
+        "word": "华为官宣Pocket2发布会",
+        "onboard_time": 1708306711,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 394320,
+        "num": 268322,
+        "word": "27岁了好像还没成为合格的大人",
+        "onboard_time": 1708304133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308104,
+        "num": 260865,
+        "word": "秒睡小技巧",
+        "onboard_time": 1708305455,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290428,
+        "num": 258223,
+        "word": "没想到相亲相到了初恋",
+        "onboard_time": 1708304133,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247608,
+        "num": 247608,
+        "word": "王鹤棣嘴角比AK还难压",
+        "onboard_time": 1708307193,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233998,
+        "num": 233998,
+        "word": "张元英美照",
+        "onboard_time": 1708307971,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216725,
+        "num": 216725,
+        "word": "杭州紫萱因为贾玲爱上拳击",
+        "onboard_time": 1708299387,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214775,
+        "num": 214775,
+        "word": "马面裙发型",
+        "onboard_time": 1708306532,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 207405,
+        "num": 207405,
+        "word": "雨水",
+        "onboard_time": 1708298605,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205565,
+        "num": 205565,
+        "word": "曹县卖了3亿的马面裙依然供不应求",
+        "onboard_time": 1708265195,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 198760,
+        "num": 198760,
+        "word": "胖东来重新决议尝面事件",
+        "onboard_time": 1708309052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185126,
+        "num": 185126,
+        "word": "Jennie薄纱褶皱黑裙",
+        "onboard_time": 1708303292,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180558,
+        "num": 180558,
+        "word": "尹正 五年前钢管舞五年后原地杵",
+        "onboard_time": 1708302211,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176764,
+        "num": 176764,
+        "word": "成都一家三口共花不到两千离开海南",
+        "onboard_time": 1708269157,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172851,
+        "num": 172851,
+        "word": "前女友爆料卜凡的狗被毒死",
+        "onboard_time": 1708268494,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168362,
+        "num": 168362,
+        "word": "范丞丞 你们别告诉腾哥",
+        "onboard_time": 1708268857,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167070,
+        "num": 167070,
+        "word": "全国温差90度",
+        "onboard_time": 1708308873,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163284,
+        "num": 163284,
+        "word": "陈靖可 内娱又多了一位百灵鸟",
+        "onboard_time": 1708301012,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158204,
+        "num": 158204,
+        "word": "大过年的 离婚AA制",
+        "onboard_time": 1708268018,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152085,
+        "num": 152085,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149588,
+        "num": 149588,
+        "word": "野狼看到无人机秒变二哈",
+        "onboard_time": 1708306232,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148772,
+        "num": 148772,
+        "word": "经常请吃饭的善良阿姨",
+        "onboard_time": 1708303173,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144932,
+        "num": 144932,
+        "word": "巴音布鲁克之王",
+        "onboard_time": 1708264475,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139556,
+        "num": 139556,
+        "word": "NBA",
+        "onboard_time": 1708307971,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135726,
+        "num": 135726,
+        "word": "有一种不健康的习惯叫穷思竭虑",
+        "onboard_time": 1708301670,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131142,
+        "num": 131142,
+        "word": "王者新英雄大司命",
+        "onboard_time": 1708301670,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123741,
+        "num": 123741,
+        "word": "沈腾 素材给了剩下的你们发挥",
+        "onboard_time": 1708303355,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117833,
+        "num": 117833,
+        "word": "龙年A股高开",
+        "onboard_time": 1708309229,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115724,
+        "num": 115724,
+        "word": "世锦赛中国队23金8银2铜收官",
+        "onboard_time": 1708303833,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104233,
+        "num": 104233,
+        "word": "詹姆斯不确定是否举办退役巡演",
+        "onboard_time": 1708302152,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103887,
+        "num": 103887,
+        "word": "Wendy将3月12日回归",
+        "onboard_time": 1708305933,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地成为群众致富乡村振兴的金山银山#"
+    }
+  }
+}
