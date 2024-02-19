@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708374858911,
+  "endTime": 1708377344882,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -49955,6 +49955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80105,
+      "num": 40210,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79968,
       "num": 79968,
       "word": "为什么我国心梗脑梗那么多",
@@ -52331,6 +52339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24990,
+      "num": 24990,
+      "word": "王鹤棣发文告别NBA全明星",
+      "onboard_time": 1708375576,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 24887,
       "num": 24887,
       "word": "春晚分会场",
@@ -52603,14 +52619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19611,
-      "num": 19611,
-      "word": "女子吐槽高铁上不售卖卫生巾",
-      "onboard_time": 1708374017,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19300,
       "num": 20887,
       "word": "奶奶给我的零花钱越来越大",
@@ -52681,6 +52689,14 @@
       "onboard_time": 1707567340,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17535,
+      "num": 17535,
+      "word": "金秀贤金智媛眼泪女王吻戏",
+      "onboard_time": 1708374136,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 17368,
@@ -52923,20 +52939,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14568,
-      "num": 14568,
-      "word": "金秀贤金智媛眼泪女王吻戏",
-      "onboard_time": 1708374136,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14534,
       "num": 16630,
       "word": "女明星出圈春晚造型",
       "onboard_time": 1707684975,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14502,
+      "num": 14502,
+      "word": "西安中小学开学时间调整",
+      "onboard_time": 1708374675,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 14378,
@@ -53017,6 +53033,14 @@
       "onboard_time": 1707423376,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13204,
+      "num": 13204,
+      "word": "爆改妆",
+      "onboard_time": 1708376174,
+      "rank": 47,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 13170,
@@ -53113,14 +53137,6 @@
       "onboard_time": 1707080776,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 11672,
-      "num": 11672,
-      "word": "西安中小学开学时间调整",
-      "onboard_time": 1708374675,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 11651,
