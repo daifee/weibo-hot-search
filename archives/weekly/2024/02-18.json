@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708299328820,
+  "endTime": 1708305151069,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1543649,
+      "num": 1543649,
+      "word": "iPhone16Pro高清渲染图",
+      "onboard_time": 1708301971,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1500864,
       "num": 1348556,
       "word": "为什么卫生巾广告用蓝色液体",
@@ -169,6 +177,14 @@
       "onboard_time": 1708244855,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1434927,
+      "num": 1434927,
+      "word": "雨水",
+      "onboard_time": 1708298605,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1363531,
@@ -267,6 +283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1125308,
+      "num": 1125308,
+      "word": "复工第一天在出租屋哭了很久",
+      "onboard_time": 1708300351,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1122743,
       "num": 1122743,
       "word": "10岁男孩被窜出的烟花炸伤身亡",
@@ -297,6 +321,14 @@
       "onboard_time": 1708216112,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1085355,
+      "num": 1085355,
+      "word": "武汉中小学延迟开学",
+      "onboard_time": 1708297401,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991147,
@@ -683,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597595,
+      "num": 597595,
+      "word": "成都一家三口共花不到两千离开海南",
+      "onboard_time": 1708269157,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590166,
       "num": 590166,
       "word": "大过年的 离婚AA制",
@@ -699,12 +739,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 583462,
-      "num": 583462,
-      "word": "成都一家三口共花不到两千离开海南",
-      "onboard_time": 1708269157,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 580944,
+      "num": 580944,
+      "word": "尹正 五年前钢管舞五年后原地杵",
+      "onboard_time": 1708302211,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 579195,
@@ -859,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504803,
+      "num": 504803,
+      "word": "苏醒半个娱乐圈的人脉终于用上了",
+      "onboard_time": 1708304194,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498003,
       "num": 498003,
       "word": "粉丝给迪丽热巴P的簪花照",
@@ -873,14 +921,6 @@
       "onboard_time": 1708268557,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 495491,
-      "num": 252455,
-      "word": "武汉中小学延迟开学",
-      "onboard_time": 1708297401,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489710,
@@ -955,6 +995,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 455959,
+      "num": 320238,
+      "word": "车厘子到底是不是大号樱桃",
+      "onboard_time": 1708303414,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 451672,
       "num": 451672,
       "word": "你好星期六下期有谭松韵王栎鑫",
@@ -1003,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435376,
+      "num": 435376,
+      "word": "原子弹爆炸后她架机2次冲向蘑菇云",
+      "onboard_time": 1708303414,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 431027,
       "num": 431027,
       "word": "杨幂开年高定",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1708245517,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427563,
+      "num": 427563,
+      "word": "巴西总统称以色列实施种族灭绝",
+      "onboard_time": 1708301792,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 425739,
@@ -1075,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409312,
+      "num": 409312,
+      "word": "杭州紫萱因为贾玲爱上拳击",
+      "onboard_time": 1708299387,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405210,
       "num": 405210,
       "word": "亲爱的 还有另一半呢",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1708251634,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380656,
+      "num": 380656,
+      "word": "Jennie薄纱褶皱黑裙",
+      "onboard_time": 1708303292,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 380270,
@@ -1211,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351214,
+      "num": 215344,
+      "word": "经常请吃饭的善良阿姨",
+      "onboard_time": 1708303173,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350026,
       "num": 350026,
       "word": "为什么减脂人群偏爱西兰花",
@@ -1251,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338655,
+      "num": 338655,
+      "word": "陈靖可 内娱又多了一位百灵鸟",
+      "onboard_time": 1708301012,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333632,
       "num": 333632,
       "word": "庄达菲刘恋赵梦同游曼谷",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1708177474,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324718,
+      "num": 319971,
+      "word": "27岁了好像还没成为合格的大人",
+      "onboard_time": 1708304133,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 324200,
@@ -1323,6 +1427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320846,
+      "num": 320846,
+      "word": "95后男生钟楼摆摊拍照3天赚1800",
+      "onboard_time": 1708288636,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314849,
+      "num": 314849,
+      "word": "没想到相亲相到了初恋",
+      "onboard_time": 1708304133,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312434,
       "num": 601626,
       "word": "新疆现大片七彩祥云",
@@ -1331,20 +1451,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 311083,
+      "num": 311083,
+      "word": "沈腾 素材给了剩下的你们发挥",
+      "onboard_time": 1708303355,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310531,
       "num": 360166,
       "word": "库里三分的神",
       "onboard_time": 1708226495,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306321,
-      "num": 250696,
-      "word": "95后男生钟楼摆摊拍照3天赚1800",
-      "onboard_time": 1708288636,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305568,
@@ -1603,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267662,
+      "num": 267662,
+      "word": "有一种不健康的习惯叫穷思竭虑",
+      "onboard_time": 1708301670,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -1784,6 +1912,14 @@
       "word": "孙龙1000米夺冠",
       "onboard_time": 1708246416,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236275,
+      "num": 236275,
+      "word": "世锦赛中国队23金8银2铜收官",
+      "onboard_time": 1708303833,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1979,6 +2115,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214357,
+      "num": 214357,
+      "word": "詹姆斯不确定是否举办退役巡演",
+      "onboard_time": 1708302152,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214065,
+      "num": 214065,
+      "word": "大年初十",
+      "onboard_time": 1708304133,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213808,
       "num": 213808,
       "word": "为什么我不喜欢跟爸妈待在一起",
@@ -2033,14 +2185,6 @@
       "onboard_time": 1708260692,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206134,
-      "num": 206134,
-      "word": "雨水",
-      "onboard_time": 1708298605,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206101,
@@ -2403,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182216,
+      "num": 182216,
+      "word": "王者新英雄大司命",
+      "onboard_time": 1708301670,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180125,
       "num": 180125,
       "word": "詹姆斯缺席全明星训练和媒体日",
@@ -2707,6 +2859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156007,
+      "num": 156007,
+      "word": "淄博烧烤今年还火吗",
+      "onboard_time": 1708303656,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155438,
       "num": 168680,
       "word": "春节假期国内游客花了6326亿",
@@ -2721,6 +2881,14 @@
       "onboard_time": 1708162593,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153980,
+      "num": 153980,
+      "word": "官方回应与傅园慧经历相似却维权失败",
+      "onboard_time": 1708305033,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 152618,
@@ -2811,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145151,
+      "num": 145151,
+      "word": "今天雨水",
+      "onboard_time": 1708304853,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145098,
       "num": 145098,
       "word": "马面裙成爆款新春战袍",
@@ -2859,12 +3035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140220,
+      "num": 140220,
+      "word": "穿光腿神器要确保给脚趾留足空间",
+      "onboard_time": 1708298062,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140000,
       "num": 140000,
       "word": "第一批开电动爹回家的人后悔了",
       "onboard_time": 1708149571,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137261,
+      "num": 137261,
+      "word": "票房",
+      "onboard_time": 1708303716,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 136966,
@@ -2889,6 +3081,14 @@
       "onboard_time": 1708175794,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 134972,
+      "num": 134972,
+      "word": "EDG阵容",
+      "onboard_time": 1708302452,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 134792,
@@ -3001,14 +3201,6 @@
       "onboard_time": 1708257753,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 114760,
-      "num": 114760,
-      "word": "穿光腿神器要确保给脚趾留足空间",
-      "onboard_time": 1708298062,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 110294,
@@ -3273,6 +3465,14 @@
       "onboard_time": 1708282337,
       "rank": 40,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 38470,
+      "num": 1161997,
+      "word": "春节假期国内游4.74亿人次",
+      "onboard_time": 1708264714,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35311,
