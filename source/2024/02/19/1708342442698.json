@@ -1,0 +1,410 @@
+{
+  "runTime": 1708342442698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392194,
+        "num": 1943022,
+        "word": "周杰伦 有狗还在吠代表你还是行的",
+        "onboard_time": 1708336419,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2613465,
+        "num": 1860349,
+        "word": "女子称私照被恶意拼接为出轨女教师",
+        "onboard_time": 1708338937,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 1675513,
+        "word": "一条微博总结春节假期",
+        "onboard_time": 1708335576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7062375,
+        "num": 1492069,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1412970,
+        "num": 1425173,
+        "word": "律师谈女教师出轨16岁高中生",
+        "onboard_time": 1708339836,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332621,
+        "num": 1332621,
+        "word": "白鹿和替身合照",
+        "onboard_time": 1708340137,
+        "rank": 5,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 831356,
+        "num": 831356,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 826909,
+        "num": 826909,
+        "word": "王俊凯王源 扫鼠岭",
+        "onboard_time": 1708340920,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134881,
+        "num": 812138,
+        "word": "这一刻姥姥也在想念她的孩子吧",
+        "onboard_time": 1708333300,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451105,
+        "num": 754036,
+        "word": "女生撸铁一年半穿婚纱秀肱二头肌",
+        "onboard_time": 1708336235,
+        "rank": 9,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 1293382,
+        "num": 708062,
+        "word": "胡夏 爱你的事当做秘密",
+        "onboard_time": 1708336358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873579,
+        "num": 661207,
+        "word": "梅西",
+        "onboard_time": 1708341035,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637100,
+        "num": 637100,
+        "word": "曝光别人聊天记录违法吗",
+        "onboard_time": 1708339661,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621184,
+        "num": 621184,
+        "word": "刘雨欣家被偷空",
+        "onboard_time": 1708325438,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541285,
+        "num": 541285,
+        "word": "贾静雯回应女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1708338101,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491824,
+        "num": 491824,
+        "word": "妈妈一怒之下撤回了一个弟弟",
+        "onboard_time": 1708330121,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424757,
+        "num": 424757,
+        "word": "湖北21岁晨跑女孩遇害案凶手被执行死刑",
+        "onboard_time": 1708339363,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361951,
+        "num": 361951,
+        "word": "秦海璐炸毛了",
+        "onboard_time": 1708338937,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368272,
+        "num": 358390,
+        "word": "刘雨欣 没绿卡没换国籍",
+        "onboard_time": 1708342237,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334642,
+        "num": 334642,
+        "word": "热辣滚烫进入中国影史票房TOP20",
+        "onboard_time": 1708342118,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380041,
+        "num": 334339,
+        "word": "女子离婚冷静期第13天倒在丈夫刀下",
+        "onboard_time": 1708337378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333983,
+        "num": 333983,
+        "word": "庞博回复徐志胜",
+        "onboard_time": 1708341936,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296547,
+        "num": 296547,
+        "word": "鲍师傅门店回应把龙拼成dargon",
+        "onboard_time": 1708334739,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 293925,
+        "num": 293925,
+        "word": "为什么上班久了容易抑郁",
+        "onboard_time": 1708337320,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278854,
+        "num": 278854,
+        "word": "马思纯称160斤时曾自卑到谷底",
+        "onboard_time": 1708336306,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263703,
+        "num": 263703,
+        "word": "你吃过鲍师傅吗",
+        "onboard_time": 1708333779,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317472,
+        "num": 259423,
+        "word": "徐志胜的经纪人是庞博",
+        "onboard_time": 1708331560,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253490,
+        "num": 253490,
+        "word": "春节后上班第一天民政局遇离婚潮",
+        "onboard_time": 1708339836,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248787,
+        "num": 248787,
+        "word": "寒假作业落巴黎事件舅舅账号被禁",
+        "onboard_time": 1708331623,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241028,
+        "num": 241028,
+        "word": "唐诗逸 非常有幸学习咏春",
+        "onboard_time": 1708340500,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428960,
+        "num": 240748,
+        "word": "公司缴社保与个人缴社保的退休金差距",
+        "onboard_time": 1708341398,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 232304,
+        "num": 232304,
+        "word": "警方通报女网红在海底捞做不雅行为",
+        "onboard_time": 1708324598,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229288,
+        "num": 229288,
+        "word": "女子5楼新房被6楼邻居给装修了",
+        "onboard_time": 1708333300,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227560,
+        "num": 227560,
+        "word": "宫脇咲良好美",
+        "onboard_time": 1708339295,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209504,
+        "num": 209504,
+        "word": "男子曝妻子虐待婆婆致死",
+        "onboard_time": 1708321534,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196650,
+        "num": 196650,
+        "word": "张颂文狂飙后首部电视剧",
+        "onboard_time": 1708331200,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185831,
+        "num": 185831,
+        "word": "徐冬冬婚礼喝椰汁",
+        "onboard_time": 1708321716,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184659,
+        "num": 184659,
+        "word": "颜宁",
+        "onboard_time": 1708326635,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "比亚迪价格",
+        "onboard_time": 1708333660,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163792,
+        "num": 163792,
+        "word": "烫面半烫面死面发面的区别和用途",
+        "onboard_time": 1708340859,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28248,
+        "num": 163290,
+        "word": "电车比油车价格还低了",
+        "onboard_time": 1708338282,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163280,
+        "num": 163280,
+        "word": "种地吧",
+        "onboard_time": 1708328379,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153422,
+        "num": 153422,
+        "word": "当时有点装没好意思要",
+        "onboard_time": 1708342056,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152167,
+        "num": 152167,
+        "word": "小狗在下雪的院子里睡了一觉",
+        "onboard_time": 1708342001,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147958,
+        "num": 147958,
+        "word": "同事用了一个多月的极简水杯",
+        "onboard_time": 1708330181,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147770,
+        "num": 147770,
+        "word": "奶香奶香的猫咪",
+        "onboard_time": 1708341876,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147043,
+        "num": 147043,
+        "word": "官方回应傅园慧求助2小时解决",
+        "onboard_time": 1708338518,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143879,
+        "num": 143879,
+        "word": "LESSERAFIM空降",
+        "onboard_time": 1708337861,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140885,
+        "num": 140885,
+        "word": "贾玲不沉浸在奇迹里",
+        "onboard_time": 1708339059,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133074,
+        "num": 133074,
+        "word": "17岁女孩误喝防冻液致多器官衰竭",
+        "onboard_time": 1708326097,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}
