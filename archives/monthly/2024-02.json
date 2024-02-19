@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708323784806,
+  "endTime": 1708324516251,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -155,20 +155,20 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 8720278,
+      "num": 8720278,
+      "word": "已暂停被举报出轨学生女教师工作",
+      "onboard_time": 1708319436,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8408299,
       "num": 8408299,
       "word": "贾玲腹肌",
       "onboard_time": 1707536076,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8136984,
-      "num": 8136984,
-      "word": "已暂停被举报出轨学生女教师工作",
-      "onboard_time": 1708319436,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8062954,
@@ -3419,6 +3419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1267195,
+      "num": 1267195,
+      "word": "男子曝妻子虐待婆婆致死",
+      "onboard_time": 1708321534,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1266348,
       "num": 1266348,
       "word": "肖战龙头帽",
@@ -5235,14 +5243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 984709,
-      "num": 984709,
-      "word": "男子曝妻子虐待婆婆致死",
-      "onboard_time": 1708321534,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 982790,
       "num": 982790,
       "word": "普京称俄罗斯即将研制出癌症疫苗",
@@ -6001,6 +6001,14 @@
       "onboard_time": 1708224333,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 888939,
+      "num": 888939,
+      "word": "徐冬冬婚礼喝椰汁",
+      "onboard_time": 1708321716,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 888497,
@@ -7281,14 +7289,6 @@
       "onboard_time": 1707141331,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 788904,
-      "num": 788904,
-      "word": "徐冬冬婚礼喝椰汁",
-      "onboard_time": 1708321716,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 788307,
@@ -17115,6 +17115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 370851,
+      "num": 370851,
+      "word": "孙千老公妹",
+      "onboard_time": 1708319074,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370577,
       "num": 370577,
       "word": "大年初五初六看大侦探",
@@ -17347,14 +17355,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 366239,
-      "num": 366239,
-      "word": "孙千老公妹",
-      "onboard_time": 1708319074,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 366187,
       "num": 366187,
       "word": "暗送邱波",
@@ -17384,6 +17384,14 @@
       "word": "男子反诈意识强中奖汽车后反教育客服",
       "onboard_time": 1707530800,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365694,
+      "num": 365694,
+      "word": "胖东来要求保洁员工写PPT汇报",
+      "onboard_time": 1708321418,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -18692,7 +18700,7 @@
     },
     {
       "raw_hot": 331811,
-      "num": 315523,
+      "num": 317598,
       "word": "飞驰人生2刘昊然的出场",
       "onboard_time": 1708320755,
       "rank": 45,
@@ -19939,14 +19947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307747,
-      "num": 307747,
-      "word": "胖东来要求保洁员工写PPT汇报",
-      "onboard_time": 1708321418,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307607,
       "num": 307607,
       "word": "开端会有第二部",
@@ -20617,6 +20617,14 @@
       "onboard_time": 1707390631,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295584,
+      "num": 295584,
+      "word": "贾玲捧脸公式照",
+      "onboard_time": 1708322857,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 295523,
@@ -22729,14 +22737,6 @@
       "onboard_time": 1707277412,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264844,
-      "num": 264844,
-      "word": "贾玲捧脸公式照",
-      "onboard_time": 1708322857,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 264832,
@@ -25867,6 +25867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229888,
+      "num": 229888,
+      "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
+      "onboard_time": 1708322795,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229699,
       "num": 229699,
       "word": "闺蜜和我对象结婚我当伴娘",
@@ -27745,6 +27753,14 @@
       "onboard_time": 1708265674,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213621,
+      "num": 213621,
+      "word": "第二十条票房破15亿",
+      "onboard_time": 1708324236,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 213529,
@@ -29995,14 +30011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200445,
-      "num": 200445,
-      "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
-      "onboard_time": 1708322795,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200411,
       "num": 200411,
       "word": "学姐很漂亮漫画",
@@ -31571,6 +31579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192330,
+      "num": 192330,
+      "word": "孙千与路人撞衫了",
+      "onboard_time": 1708324117,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192309,
       "num": 192309,
       "word": "成毅杂志",
@@ -32281,6 +32297,14 @@
       "onboard_time": 1707020731,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188150,
+      "num": 188150,
+      "word": "唐嫣红秀封面",
+      "onboard_time": 1708323519,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188038,
@@ -34867,6 +34891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172280,
+      "num": 172280,
+      "word": "育儿嫂休假结束宝宝反应亮了",
+      "onboard_time": 1708320155,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 172235,
       "num": 172235,
       "word": "鸣潮鉴心",
@@ -36481,14 +36513,6 @@
       "onboard_time": 1707715232,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164445,
-      "num": 164445,
-      "word": "育儿嫂休假结束宝宝反应亮了",
-      "onboard_time": 1708320155,
-      "rank": 37,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 164423,
@@ -40187,14 +40211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144235,
-      "num": 144235,
-      "word": "唐嫣红秀封面",
-      "onboard_time": 1708323519,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 144180,
       "num": 144180,
       "word": "东北人的活儿是从小就培养的",
@@ -43585,6 +43601,14 @@
       "onboard_time": 1708056091,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126699,
+      "num": 126699,
+      "word": "小县城买一套房要花10年",
+      "onboard_time": 1708324416,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126662,
@@ -47441,6 +47465,14 @@
       "onboard_time": 1708125562,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99598,
+      "num": 99598,
+      "word": "硕士老爸辅导儿子作业气到眼睛漏水",
+      "onboard_time": 1708324416,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99214,

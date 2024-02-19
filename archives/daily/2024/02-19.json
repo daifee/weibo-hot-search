@@ -1,10 +1,10 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708323784806,
+  "endTime": 1708324516251,
   "band_list": [
     {
-      "raw_hot": 8136984,
-      "num": 8136984,
+      "raw_hot": 8720278,
+      "num": 8720278,
       "word": "已暂停被举报出轨学生女教师工作",
       "onboard_time": 1708319436,
       "rank": 3,
@@ -115,6 +115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1267195,
+      "num": 1267195,
+      "word": "男子曝妻子虐待婆婆致死",
+      "onboard_time": 1708321534,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1223193,
       "num": 1223193,
       "word": "苏醒半个娱乐圈的人脉终于用上了",
@@ -163,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 984709,
-      "num": 984709,
-      "word": "男子曝妻子虐待婆婆致死",
-      "onboard_time": 1708321534,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "贵州山火",
@@ -187,6 +187,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 888939,
+      "num": 888939,
+      "word": "徐冬冬婚礼喝椰汁",
+      "onboard_time": 1708321716,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861109,
       "num": 861109,
       "word": "周杰伦 我只看我想看的",
@@ -201,14 +209,6 @@
       "onboard_time": 1708314034,
       "rank": 6,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 788904,
-      "num": 788904,
-      "word": "徐冬冬婚礼喝椰汁",
-      "onboard_time": 1708321716,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 779960,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370851,
+      "num": 370851,
+      "word": "孙千老公妹",
+      "onboard_time": 1708319074,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368373,
       "num": 318751,
       "word": "原谅就是背刺小时候哭泣的自己",
@@ -491,12 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 366239,
-      "num": 366239,
-      "word": "孙千老公妹",
-      "onboard_time": 1708319074,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 365694,
+      "num": 365694,
+      "word": "胖东来要求保洁员工写PPT汇报",
+      "onboard_time": 1708321418,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359279,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 331811,
-      "num": 315523,
+      "num": 317598,
       "word": "飞驰人生2刘昊然的出场",
       "onboard_time": 1708320755,
       "rank": 45,
@@ -635,14 +643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 307747,
-      "num": 307747,
-      "word": "胖东来要求保洁员工写PPT汇报",
-      "onboard_time": 1708321418,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305524,
       "num": 204684,
       "word": "妈妈悄悄买下一座房子",
@@ -665,6 +665,14 @@
       "onboard_time": 1708310370,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295584,
+      "num": 295584,
+      "word": "贾玲捧脸公式照",
+      "onboard_time": 1708322857,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 286625,
@@ -713,14 +721,6 @@
       "onboard_time": 1708301670,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264844,
-      "num": 264844,
-      "word": "贾玲捧脸公式照",
-      "onboard_time": 1708322857,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 262375,
@@ -819,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229888,
+      "num": 229888,
+      "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
+      "onboard_time": 1708322795,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220488,
       "num": 324013,
       "word": "7.98万的比亚迪让燃油车慌了",
@@ -873,6 +881,14 @@
       "onboard_time": 1708304133,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213621,
+      "num": 213621,
+      "word": "第二十条票房破15亿",
+      "onboard_time": 1708324236,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 212736,
@@ -947,20 +963,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200445,
-      "num": 200445,
-      "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
-      "onboard_time": 1708322795,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196626,
       "num": 176899,
       "word": "王鹤棣晒詹姆斯签名球衣",
       "onboard_time": 1708310312,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 192330,
+      "num": 192330,
+      "word": "孙千与路人撞衫了",
+      "onboard_time": 1708324117,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191961,
@@ -976,6 +992,14 @@
       "word": "鞠婧祎玫瑰发饰",
       "onboard_time": 1708320455,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188150,
+      "num": 188150,
+      "word": "唐嫣红秀封面",
+      "onboard_time": 1708323519,
+      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -1051,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172280,
+      "num": 172280,
+      "word": "育儿嫂休假结束宝宝反应亮了",
+      "onboard_time": 1708320155,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 171999,
       "num": 171999,
       "word": "Sora",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1708306232,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164445,
-      "num": 164445,
-      "word": "育儿嫂休假结束宝宝反应亮了",
-      "onboard_time": 1708320155,
-      "rank": 37,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 161940,
@@ -1251,14 +1275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144235,
-      "num": 144235,
-      "word": "唐嫣红秀封面",
-      "onboard_time": 1708323519,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 142898,
       "num": 142898,
       "word": "马思纯两年前vs现在",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1708312594,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126699,
+      "num": 126699,
+      "word": "小县城买一套房要花10年",
+      "onboard_time": 1708324416,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126272,
@@ -1472,6 +1496,14 @@
       "word": "5架国产飞机新年组团出国门",
       "onboard_time": 1708317159,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99598,
+      "num": 99598,
+      "word": "硕士老爸辅导儿子作业气到眼睛漏水",
+      "onboard_time": 1708324416,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
