@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/01 00:20:11 ~ 2024/02/19 11:34:13
+本榜单时间：2024/02/01 00:20:11 ~ 2024/02/19 12:20:38
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E5%90%AB%E7%9D%80%E7%9C%BC%E6%B3%AA%E7%A6%BB%E5%BC%80%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%23" target="weibo">
 刘谦含着眼泪离开春晚舞台（热度：3491240）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+女教师被举报出轨高中生未被停职（热度：3446954）
 </a>
 </li>
 
@@ -1283,12 +1289,6 @@ TFBOYS都这么大了（热度：2283638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1C%E4%BD%8D%23" target="weibo">
 花花C位（热度：1864859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
-女教师被举报出轨高中生未被停职（热度：1862994）
 </a>
 </li>
 
@@ -2853,6 +2853,12 @@ iPhone工作日闹钟今天没响（热度：1193157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E5%AD%A6%E7%94%9F%23" target="weibo">
+教育局回应女教师被举报出轨学生（热度：1190166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E7%98%A6%E4%BA%86%23" target="weibo">
 韩红瘦了（热度：1189275）
 </a>
@@ -3047,6 +3053,12 @@ iPhone工作日闹钟今天没响（热度：1193157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E9%BC%BB%E5%AD%90%23" target="weibo">
 刘谦鼻子（热度：1150739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%87%A4%E7%A5%A5%E8%A2%AB%E6%8C%87%E6%B8%85%E6%B4%97%E6%89%8B%E9%95%AF%E6%95%85%E6%84%8F%E8%B9%AD%E6%8E%89logo%23" target="weibo">
+老凤祥被指清洗手镯故意蹭掉logo（热度：1149959）
 </a>
 </li>
 
@@ -4137,6 +4149,12 @@ A股三大股指遭遇重挫（热度：949146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E4%B8%AD%E5%9B%BD%E6%B6%A8%E4%BB%B7%23" target="weibo">
+LV中国涨价（热度：948017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E5%A4%A7%E5%86%B0%E4%B8%8A%E5%8F%B0%E4%BA%86%E5%90%97%23" target="weibo">
 是大冰上台了吗（热度：947768）
 </a>
@@ -4361,6 +4379,12 @@ A股三大股指遭遇重挫（热度：949146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
 苏醒瘦了好多（热度：912954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%82%B9%E8%AF%84%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%85%A8%E6%98%8E%E6%98%9F%E8%B5%9B%23" target="weibo">
+人民日报点评王鹤棣全明星赛（热度：912233）
 </a>
 </li>
 
@@ -5159,6 +5183,12 @@ A股创业板指跌至3%（热度：876304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%97%A5%E6%9C%AC%E6%BB%91%E9%9B%AA%23" target="weibo">
 章子怡带孩子日本滑雪（热度：812990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%8D%E5%86%8D%E6%A0%87%E6%B3%A8%E5%BC%80%E8%A2%8B%E5%8D%B3%E9%A3%9F%23" target="weibo">
+山姆回应三文鱼不再标注开袋即食（热度：811669）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ iPad的生产力远比你想象的要大（热度：757278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%B9%B2%E9%83%A8%E6%B6%89%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E8%A2%AB%E5%85%8D%E8%81%8C%23" target="weibo">
 女干部涉不雅聊天被免职（热度：734417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86%23" target="weibo">
-陆虎悬着的心终于死了（热度：734227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%BA%E6%8F%90%E9%AB%98%E7%9B%B8%E4%BA%B2%E6%88%90%E5%8A%9F%E7%8E%87%E5%BC%80%E5%A7%8B%E5%8C%96%E5%A6%86%23" target="weibo">
-男生为提高相亲成功率开始化妆（热度：734142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A021%E5%B2%81%E7%94%B7%E5%AD%90%E9%A2%86%E5%85%BB5%E5%B2%81%E5%A5%B3%E5%AD%A9%23" target="weibo">
-官方回应网传21岁男子领养5岁女孩（热度：733638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8F%E9%BB%91%E6%83%A0%23" target="weibo">
-伏黑惠（热度：733431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%A5%E8%81%94%E6%98%AF%E7%99%BD%E8%89%B2%E7%9A%84%23" target="weibo">
-韩国春联是白色的（热度：732958）
 </a>
 </li>
 
