@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708317237487,
+  "endTime": 1708319820525,
   "band_list": [
     {
       "raw_hot": 3461787,
@@ -27,20 +27,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1972023,
+      "num": 1972023,
+      "word": "老凤祥被指清洗手镯故意蹭掉logo",
+      "onboard_time": 1708314517,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1891402,
       "num": 1891402,
       "word": "吴尊评论",
       "onboard_time": 1708305271,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1719930,
-      "num": 1719930,
-      "word": "老凤祥被指清洗手镯故意蹭掉logo",
-      "onboard_time": 1708314517,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1716207,
@@ -83,6 +83,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1342674,
+      "num": 1342674,
+      "word": "已暂停被举报出轨学生女教师工作",
+      "onboard_time": 1708319436,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1335419,
+      "num": 1335419,
+      "word": "教育局回应女教师被举报出轨学生",
+      "onboard_time": 1708314215,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1319821,
       "num": 1319821,
       "word": "比亚迪降价",
@@ -99,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1190166,
-      "num": 1190166,
-      "word": "教育局回应女教师被举报出轨学生",
-      "onboard_time": 1708314215,
-      "rank": 1,
-      "category": "社会新闻,教育"
+      "raw_hot": 1172059,
+      "num": 1172059,
+      "word": "人民日报点评王鹤棣全明星赛",
+      "onboard_time": 1708314937,
+      "rank": 5,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1151275,
@@ -121,14 +137,6 @@
       "onboard_time": 1708300351,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1095242,
-      "num": 1095242,
-      "word": "人民日报点评王鹤棣全明星赛",
-      "onboard_time": 1708314937,
-      "rank": 5,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1085355,
@@ -275,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 552478,
+      "num": 320783,
+      "word": "40岁我从体制内辞职2次",
+      "onboard_time": 1708318294,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544423,
       "num": 544423,
       "word": "范丞丞四年前考赛车执照的照片",
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430820,
+      "num": 430820,
+      "word": "西虹市首富或将按原剧本重拍",
+      "onboard_time": 1708319493,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427563,
       "num": 427563,
       "word": "巴西总统称以色列实施种族灭绝",
@@ -425,6 +449,14 @@
       "onboard_time": 1708303292,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368373,
+      "num": 317916,
+      "word": "原谅就是背刺小时候哭泣的自己",
+      "onboard_time": 1708316799,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 359279,
@@ -555,6 +587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 302149,
+      "num": 302149,
+      "word": "大侦探",
+      "onboard_time": 1708318294,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297145,
       "num": 297145,
       "word": "恋与深空徽章",
@@ -643,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245236,
+      "num": 245236,
+      "word": "孙千老公妹",
+      "onboard_time": 1708319074,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243948,
       "num": 243948,
       "word": "投资者50万买基金亏30%起诉代销行",
@@ -659,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240701,
+      "num": 240701,
+      "word": "静坐4小时就可能长血栓",
+      "onboard_time": 1708319254,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240205,
       "num": 240205,
       "word": "前女友控诉卜凡家暴",
       "onboard_time": 1708259913,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239956,
+      "num": 239956,
+      "word": "张小彦终于开始追妻了",
+      "onboard_time": 1708317635,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 239819,
@@ -715,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218908,
+      "num": 218908,
+      "word": "杭州再建新大学",
+      "onboard_time": 1708317878,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214983,
       "num": 214983,
       "word": "摔跤吧爸爸主演发文悼念",
@@ -745,14 +817,6 @@
       "onboard_time": 1708254275,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208476,
-      "num": 208476,
-      "word": "原谅就是背刺小时候哭泣的自己",
-      "onboard_time": 1708316799,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 207439,
@@ -803,6 +867,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190662,
+      "num": 190662,
+      "word": "云秀行官微",
+      "onboard_time": 1708319317,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190458,
+      "num": 190458,
+      "word": "孙颖莎3比0纳吉瓦拉迪",
+      "onboard_time": 1708319673,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187084,
       "num": 187084,
       "word": "詹姆斯戴皇冠出场",
@@ -835,6 +915,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180839,
+      "num": 180839,
+      "word": "贾玲热辣滚烫的幕后记录",
+      "onboard_time": 1708318122,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180439,
+      "num": 180439,
+      "word": "于正春节瘦了8斤",
+      "onboard_time": 1708317815,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175800,
       "num": 175800,
       "word": "夫妻俩花5000块从海南回杭州",
@@ -849,6 +945,22 @@
       "onboard_time": 1708316435,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173259,
+      "num": 173259,
+      "word": "年会不能停延长上映至3月28日",
+      "onboard_time": 1708319554,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172091,
+      "num": 172091,
+      "word": "被别人的订婚氛围幸福到了",
+      "onboard_time": 1708319554,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 171999,
@@ -923,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156076,
+      "num": 156076,
+      "word": "关于贾玲的一场冒险",
+      "onboard_time": 1708317635,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156007,
       "num": 156007,
       "word": "淄博烧烤今年还火吗",
@@ -995,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145570,
+      "num": 145570,
+      "word": "利拉德被球迷狂嘘",
+      "onboard_time": 1708318718,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145380,
       "num": 145380,
       "word": "魏大勋扶额苦笑但夹子音",
@@ -1009,6 +1137,14 @@
       "onboard_time": 1708304853,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145143,
+      "num": 145143,
+      "word": "猫咪这样就证明不是虚胖",
+      "onboard_time": 1708317938,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 144242,
@@ -1203,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102015,
+      "num": 1641684,
+      "word": "5架国产飞机新年组团出国门",
+      "onboard_time": 1708317159,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93432,
       "num": 93432,
       "word": "亲爱的她确认引进内地",
@@ -1385,14 +1529,6 @@
       "onboard_time": 1708290017,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 6164,
-      "num": 1328224,
-      "word": "5架国产飞机新年组团出国门",
-      "onboard_time": 1708317159,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1401,6 +1537,9 @@
     },
     {
       "word": "#怎样理解江山就是人民#"
+    },
+    {
+      "word": "#提高新闻舆论传播力引导力影响力公信力#"
     }
   ]
 }
