@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708352219124,
+  "endTime": 1708353235005,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -35,7 +35,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 3534913,
+      "raw_hot": 3606889,
       "num": 1116124,
       "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
       "onboard_time": 1708347699,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2346866,
+      "num": 481615,
+      "word": "常州案例 女班主任获刑3年",
+      "onboard_time": 1708350280,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2305961,
       "num": 678594,
       "word": "女老师被丈夫举报出轨16岁学生",
@@ -97,14 +105,6 @@
       "onboard_time": 1708330121,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2225949,
-      "num": 458713,
-      "word": "常州案例 女班主任获刑3年",
-      "onboard_time": 1708350280,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 2176359,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966502,
+      "num": 966502,
+      "word": "鲁豫 贾玲没变只是做回自己",
+      "onboard_time": 1708351242,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 948017,
       "num": 948017,
       "word": "LV中国涨价",
@@ -403,8 +411,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 847191,
-      "num": 847191,
+      "raw_hot": 849039,
+      "num": 849039,
       "word": "贾玲怕拍戏打扰群众上门发礼物",
       "onboard_time": 1708351065,
       "rank": 10,
@@ -473,14 +481,6 @@
       "onboard_time": 1708306232,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 745722,
-      "num": 745722,
-      "word": "鲁豫 贾玲没变只是做回自己",
-      "onboard_time": 1708351242,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 683380,
@@ -657,6 +657,14 @@
       "onboard_time": 1708272029,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 553149,
+      "num": 553149,
+      "word": "梅西澄清视频剪辑痕迹明显",
+      "onboard_time": 1708352563,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 552478,
@@ -915,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401210,
+      "num": 401210,
+      "word": "上海飞大阪机票仅8元",
+      "onboard_time": 1708352442,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 394354,
       "num": 394354,
       "word": "第一拨靠Sora赚钱的人已经出现了",
@@ -1027,6 +1043,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355972,
+      "num": 355972,
+      "word": "不要有休息羞耻",
+      "onboard_time": 1708351723,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 353885,
+      "num": 353885,
+      "word": "电脑1年不关机会影响使用寿命吗",
+      "onboard_time": 1708350523,
+      "rank": 32,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 353050,
       "num": 353050,
       "word": "原子弹爆炸后她驾机2次冲向蘑菇云",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1708306773,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 342790,
+      "num": 342790,
+      "word": "那年我双手插兜",
+      "onboard_time": 1708352683,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 342277,
@@ -1331,14 +1371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 273317,
-      "num": 273317,
-      "word": "不要有休息羞耻",
-      "onboard_time": 1708351723,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272829,
       "num": 272829,
       "word": "世锦赛中国队23金8银2铜收官",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1708339295,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 269027,
-      "num": 269027,
-      "word": "电脑1年不关机会影响使用寿命吗",
-      "onboard_time": 1708350523,
-      "rank": 32,
-      "category": "数码,科学科普"
     },
     {
       "raw_hot": 267662,
@@ -1555,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236788,
+      "num": 236788,
+      "word": "真正能帮助女人稳固家庭地位的是什么",
+      "onboard_time": 1708352801,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233695,
       "num": 233695,
       "word": "林亦扬结局",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1708322795,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227254,
+      "num": 227254,
+      "word": "刘宇宁十分钟整了伤痛文学",
+      "onboard_time": 1708352983,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 227118,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1708316017,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186860,
+      "num": 186860,
+      "word": "本人今后的人生态度",
+      "onboard_time": 1708352801,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 186566,
@@ -2841,6 +2889,14 @@
       "onboard_time": 1708251757,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74426,
+      "num": 1117110,
+      "word": "这就是春天里的中国",
+      "onboard_time": 1708352442,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74213,
