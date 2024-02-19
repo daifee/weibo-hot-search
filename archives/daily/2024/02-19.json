@@ -1,10 +1,10 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708320855924,
+  "endTime": 1708323784806,
   "band_list": [
     {
-      "raw_hot": 4334523,
-      "num": 4334523,
+      "raw_hot": 8136984,
+      "num": 8136984,
       "word": "已暂停被举报出轨学生女教师工作",
       "onboard_time": 1708319436,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1373650,
+      "num": 1373650,
+      "word": "西虹市首富或将按原剧本重拍",
+      "onboard_time": 1708319493,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1355894,
       "num": 1355894,
       "word": "李思思复工",
@@ -105,14 +113,6 @@
       "onboard_time": 1708309651,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1246954,
-      "num": 1246954,
-      "word": "西虹市首富或将按原剧本重拍",
-      "onboard_time": 1708319493,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 1223193,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984709,
+      "num": 984709,
+      "word": "男子曝妻子虐待婆婆致死",
+      "onboard_time": 1708321534,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "贵州山火",
@@ -195,6 +203,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 788904,
+      "num": 788904,
+      "word": "徐冬冬婚礼喝椰汁",
+      "onboard_time": 1708321716,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 779960,
       "num": 779960,
       "word": "王鹤棣与詹姆斯见面",
@@ -217,6 +233,14 @@
       "onboard_time": 1708306232,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 673563,
+      "num": 673563,
+      "word": "邓为代言CT",
+      "onboard_time": 1708322375,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 668032,
@@ -419,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 392223,
+      "num": 320832,
+      "word": "静坐4小时就可能长血栓",
+      "onboard_time": 1708319254,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 389769,
       "num": 389769,
       "word": "大过年的 离婚AA制",
@@ -459,8 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 359723,
-      "num": 359723,
+      "raw_hot": 366239,
+      "num": 366239,
       "word": "孙千老公妹",
       "onboard_time": 1708319074,
       "rank": 26,
@@ -531,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331811,
+      "num": 315523,
+      "word": "飞驰人生2刘昊然的出场",
+      "onboard_time": 1708320755,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328349,
       "num": 328349,
       "word": "为什么卫生巾广告用蓝色液体",
@@ -553,14 +593,6 @@
       "onboard_time": 1708288636,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320832,
-      "num": 320832,
-      "word": "静坐4小时就可能长血栓",
-      "onboard_time": 1708319254,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 314849,
@@ -601,6 +633,22 @@
       "onboard_time": 1708305455,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 307747,
+      "num": 307747,
+      "word": "胖东来要求保洁员工写PPT汇报",
+      "onboard_time": 1708321418,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305524,
+      "num": 204684,
+      "word": "妈妈悄悄买下一座房子",
+      "onboard_time": 1708320815,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 302149,
@@ -665,6 +713,14 @@
       "onboard_time": 1708301670,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264844,
+      "num": 264844,
+      "word": "贾玲捧脸公式照",
+      "onboard_time": 1708322857,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 262375,
@@ -843,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208808,
+      "num": 208808,
+      "word": "贾玲热辣滚烫的幕后记录",
+      "onboard_time": 1708318122,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207439,
       "num": 207439,
       "word": "感觉开放式工位真的很窒息",
@@ -881,6 +945,14 @@
       "onboard_time": 1708257453,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200445,
+      "num": 200445,
+      "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
+      "onboard_time": 1708322795,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196626,
@@ -939,20 +1011,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180839,
-      "num": 180839,
-      "word": "贾玲热辣滚烫的幕后记录",
-      "onboard_time": 1708318122,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "于正春节瘦了8斤",
       "onboard_time": 1708317815,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179831,
+      "num": 179831,
+      "word": "aespa2024巡演日程",
+      "onboard_time": 1708321234,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 175800,
@@ -1027,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164445,
+      "num": 164445,
+      "word": "育儿嫂休假结束宝宝反应亮了",
+      "onboard_time": 1708320155,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 161940,
       "num": 161940,
       "word": "为什么减脂人群偏爱西兰花",
@@ -1035,28 +1115,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 160911,
-      "num": 160911,
-      "word": "育儿嫂休假结束宝宝反应亮了",
-      "onboard_time": 1708320155,
-      "rank": 37,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 157600,
       "num": 371025,
       "word": "公路高铁3月1日即将进站",
       "onboard_time": 1708314453,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157324,
-      "num": 157324,
-      "word": "妈妈悄悄买下一座房子",
-      "onboard_time": 1708320815,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 156084,
@@ -1187,6 +1251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144235,
+      "num": 144235,
+      "word": "唐嫣红秀封面",
+      "onboard_time": 1708323519,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142898,
       "num": 142898,
       "word": "马思纯两年前vs现在",
@@ -1235,14 +1307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135049,
-      "num": 135049,
-      "word": "飞驰人生2刘昊然的出场",
-      "onboard_time": 1708320755,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134972,
       "num": 134972,
       "word": "EDG阵容",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1708265674,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131462,
+      "num": 131462,
+      "word": "CBA主帅输球后不再接受采访",
+      "onboard_time": 1708321176,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 131056,
@@ -1331,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116174,
+      "num": 116174,
+      "word": "小猫微表情写满了拒绝",
+      "onboard_time": 1708323036,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115931,
       "num": 115931,
       "word": "孙阳直播",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1708260154,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107998,
+      "num": 107998,
+      "word": "林孝埈和粉丝打招呼",
+      "onboard_time": 1708322493,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 102015,
