@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708324516251,
+  "endTime": 1708327056887,
   "band_list": [
     {
       "raw_hot": 8720278,
@@ -17,6 +17,14 @@
       "onboard_time": 1708312473,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3367948,
+      "num": 3367948,
+      "word": "刘雨欣家被偷空",
+      "onboard_time": 1708325438,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2305961,
@@ -113,6 +121,14 @@
       "onboard_time": 1708309651,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1314954,
+      "num": 1314954,
+      "word": "警方通报女网红在海底捞做不雅行为",
+      "onboard_time": 1708324598,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1267195,
@@ -435,12 +451,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397266,
+      "num": 280480,
+      "word": "北京一老破小2%份额变卖2.62万元",
+      "onboard_time": 1708324536,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394354,
       "num": 394354,
       "word": "第一拨靠Sora赚钱的人已经出现了",
       "onboard_time": 1708263515,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 394051,
+      "num": 192336,
+      "word": "小县城买一套房要花10年",
+      "onboard_time": 1708324416,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392223,
@@ -465,6 +497,14 @@
       "onboard_time": 1708314273,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 386193,
+      "num": 277661,
+      "word": "17岁女孩误喝防冻液致多器官衰竭",
+      "onboard_time": 1708326097,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381025,
@@ -595,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322428,
+      "num": 191510,
+      "word": "蔡依林Valentino品牌代言人",
+      "onboard_time": 1708325920,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320846,
       "num": 320846,
       "word": "95后男生钟楼摆摊拍照3天赚1800",
@@ -683,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281153,
+      "num": 281153,
+      "word": "颜宁",
+      "onboard_time": 1708326635,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278331,
       "num": 278331,
       "word": "华为官宣Pocket2发布会",
       "onboard_time": 1708306711,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 273637,
+      "num": 189562,
+      "word": "硕士老爸辅导儿子作业气到眼睛漏水",
+      "onboard_time": 1708324416,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272829,
@@ -705,6 +769,14 @@
       "onboard_time": 1708311452,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271973,
+      "num": 161059,
+      "word": "猫 我可不想脏了我的白手套",
+      "onboard_time": 1708326397,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 271549,
@@ -859,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216518,
+      "num": 216518,
+      "word": "唐嫣红秀封面",
+      "onboard_time": 1708323519,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214983,
       "num": 214983,
       "word": "摔跤吧爸爸主演发文悼念",
@@ -971,6 +1051,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 192871,
+      "num": 161029,
+      "word": "恋与深空Q版",
+      "onboard_time": 1708326457,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192330,
       "num": 192330,
       "word": "孙千与路人撞衫了",
@@ -992,14 +1080,6 @@
       "word": "鞠婧祎玫瑰发饰",
       "onboard_time": 1708320455,
       "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188150,
-      "num": 188150,
-      "word": "唐嫣红秀封面",
-      "onboard_time": 1708323519,
-      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -1267,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144922,
+      "num": 144922,
+      "word": "Sora概念股大涨",
+      "onboard_time": 1708326097,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144242,
       "num": 144242,
       "word": "龙年A股高开",
@@ -1291,6 +1379,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 141385,
+      "num": 141385,
+      "word": "东方甄选回应被指超量使用虾药",
+      "onboard_time": 1708326519,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140220,
       "num": 140220,
       "word": "穿光腿神器要确保给脚趾留足空间",
@@ -1313,6 +1409,14 @@
       "onboard_time": 1708264714,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137283,
+      "num": 137283,
+      "word": "包烧麦",
+      "onboard_time": 1708326097,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 137261,
@@ -1377,14 +1481,6 @@
       "onboard_time": 1708312594,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126699,
-      "num": 126699,
-      "word": "小县城买一套房要花10年",
-      "onboard_time": 1708324416,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126272,
@@ -1475,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109865,
+      "num": 109865,
+      "word": "代号鸢 孔融",
+      "onboard_time": 1708325557,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109721,
       "num": 109721,
       "word": "制片人说赵今麦五页纸不卡词",
@@ -1496,14 +1600,6 @@
       "word": "5架国产飞机新年组团出国门",
       "onboard_time": 1708317159,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99598,
-      "num": 99598,
-      "word": "硕士老爸辅导儿子作业气到眼睛漏水",
-      "onboard_time": 1708324416,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
