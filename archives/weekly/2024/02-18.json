@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708380993303,
+  "endTime": 1708382066617,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -4795,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156592,
+      "num": 156592,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156563,
       "num": 156563,
       "word": "特斯拉回应Cybertruck淋雨后生锈",
@@ -5387,14 +5395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 123463,
-      "num": 123463,
-      "word": "女子吐槽高铁上不售卖卫生巾",
-      "onboard_time": 1708374017,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122542,
       "num": 122542,
       "word": "江疏影开工晒吃粥底火锅",
@@ -5731,6 +5731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 63344,
+      "num": 43927,
+      "word": "北漂女子自嘲回老家像乡下人进城",
+      "onboard_time": 1708378755,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63036,
       "num": 63036,
       "word": "金晨穿睡衣拖鞋跳舞",
@@ -5803,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45335,
+      "num": 45335,
+      "word": "南来北往剧情坐高铁了",
+      "onboard_time": 1708378215,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44716,
       "num": 44716,
       "word": "伯恩利0比5阿森纳",
@@ -5811,20 +5827,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43955,
-      "num": 25730,
-      "word": "北漂女子自嘲回老家像乡下人进城",
-      "onboard_time": 1708378755,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43951,
       "num": 43951,
       "word": "在家唯唯诺诺 在外重拳出击",
       "onboard_time": 1708176455,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42954,
+      "num": 42954,
+      "word": "夜间出现5种情况或是疾病信号",
+      "onboard_time": 1708369697,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42107,
@@ -5857,14 +5873,6 @@
       "onboard_time": 1708338282,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37428,
-      "num": 37128,
-      "word": "夜间出现5种情况或是疾病信号",
-      "onboard_time": 1708369697,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35393,
@@ -5915,14 +5923,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 29986,
-      "num": 29986,
-      "word": "南来北往剧情坐高铁了",
-      "onboard_time": 1708378215,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29823,
       "num": 29823,
       "word": "王鹤棣名人赛G社生图",
@@ -5955,20 +5955,20 @@
       "category": "数码,科学科普"
     },
     {
+      "raw_hot": 23916,
+      "num": 23916,
+      "word": "金秀贤金智媛眼泪女王吻戏",
+      "onboard_time": 1708374136,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23736,
       "num": 29550,
       "word": "第60届慕尼黑安全会议",
       "onboard_time": 1708192041,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 20782,
-      "num": 20782,
-      "word": "金秀贤金智媛眼泪女王吻戏",
-      "onboard_time": 1708374136,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 19659,
@@ -5979,8 +5979,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17147,
-      "num": 17147,
+      "raw_hot": 18707,
+      "num": 18707,
       "word": "西安中小学开学时间调整",
       "onboard_time": 1708374675,
       "rank": 49,
