@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708349642197,
+  "endTime": 1708352219124,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -35,6 +35,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 3534913,
+      "num": 1116124,
+      "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
+      "onboard_time": 1708347699,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3461787,
       "num": 3461787,
       "word": "女教师被举报出轨高中生未被停职",
@@ -49,14 +57,6 @@
       "onboard_time": 1708325438,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2671275,
-      "num": 870166,
-      "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
-      "onboard_time": 1708347699,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2670562,
@@ -97,6 +97,14 @@
       "onboard_time": 1708330121,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2225949,
+      "num": 458713,
+      "word": "常州案例 女班主任获刑3年",
+      "onboard_time": 1708350280,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 2176359,
@@ -299,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1111928,
+      "num": 1111928,
+      "word": "华莱士 出餐",
+      "onboard_time": 1708349502,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1085355,
       "num": 1085355,
       "word": "武汉中小学延迟开学",
       "onboard_time": 1708297401,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084131,
+      "num": 1084131,
+      "word": "梅西 双手插兜",
+      "onboard_time": 1708350280,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1058216,
@@ -363,12 +387,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 880516,
+      "num": 880516,
+      "word": "东方甄选报警",
+      "onboard_time": 1708350882,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 861109,
       "num": 861109,
       "word": "周杰伦 我只看我想看的",
       "onboard_time": 1708267176,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 847191,
+      "num": 847191,
+      "word": "贾玲怕拍戏打扰群众上门发礼物",
+      "onboard_time": 1708351065,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 841971,
+      "num": 841971,
+      "word": "上海梅西",
+      "onboard_time": 1708349265,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 826909,
@@ -427,6 +475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 745722,
+      "num": 745722,
+      "word": "鲁豫 贾玲没变只是做回自己",
+      "onboard_time": 1708351242,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683380,
       "num": 683380,
       "word": "17岁女孩误喝防冻液致多器官衰竭",
@@ -459,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 671966,
-      "num": 671966,
-      "word": "上海梅西",
-      "onboard_time": 1708349265,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 668032,
       "num": 668032,
       "word": "吴尊感谢昆凌给的霉霉演唱会门票",
@@ -481,6 +529,14 @@
       "onboard_time": 1708309052,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654925,
+      "num": 654925,
+      "word": "内收肌炎症",
+      "onboard_time": 1708350699,
+      "rank": 14,
+      "category": "体育,健康医疗"
     },
     {
       "raw_hot": 639240,
@@ -955,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359347,
+      "num": 359347,
+      "word": "唐嫣新发色",
+      "onboard_time": 1708351002,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 359279,
       "num": 359279,
       "word": "一女子在银行着急办业务跪求他人换号无人同意",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1708344401,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339607,
+      "num": 339607,
+      "word": "小龙糕",
+      "onboard_time": 1708350641,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 338655,
@@ -1163,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303069,
+      "num": 303069,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1708351065,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302149,
       "num": 302149,
       "word": "大侦探",
@@ -1251,6 +1331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 273317,
+      "num": 273317,
+      "word": "不要有休息羞耻",
+      "onboard_time": 1708351723,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272829,
       "num": 272829,
       "word": "世锦赛中国队23金8银2铜收官",
@@ -1281,6 +1369,14 @@
       "onboard_time": 1708339295,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269027,
+      "num": 269027,
+      "word": "电脑1年不关机会影响使用寿命吗",
+      "onboard_time": 1708350523,
+      "rank": 32,
+      "category": "数码,科学科普"
     },
     {
       "raw_hot": 267662,
@@ -1867,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181506,
+      "num": 181506,
+      "word": "EDG春季赛六连败",
+      "onboard_time": 1708351363,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181239,
       "num": 181239,
       "word": "热辣滚烫结局 经典镜头",
@@ -1891,20 +1995,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179542,
+      "num": 179542,
+      "word": "手镯logo被蹭掉事件当事人发声",
+      "onboard_time": 1708349804,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179340,
       "num": 1814405,
       "word": "一条微博总结春节假期",
       "onboard_time": 1708335576,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179319,
-      "num": 179319,
-      "word": "华莱士 出餐",
-      "onboard_time": 1708349502,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 178626,
@@ -2724,7 +2828,7 @@
     },
     {
       "raw_hot": 85808,
-      "num": 85808,
+      "num": 193433,
       "word": "准备好拥抱春天了吗",
       "onboard_time": 1708298725,
       "rank": 32,
@@ -2819,6 +2923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35393,
+      "num": 1117473,
+      "word": "长三角晒2023年经济发展成绩单",
+      "onboard_time": 1708351841,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16572,
       "num": 17804,
       "word": "5招提高睡眠质量",
@@ -2884,6 +2996,9 @@
     },
     {
       "word": "#提高新闻舆论传播力引导力影响力公信力#"
+    },
+    {
+      "word": "#百年大党不懈奋斗淬炼的鲜明品格是什么#"
     }
   ]
 }
