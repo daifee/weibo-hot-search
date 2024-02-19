@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708335263141,
+  "endTime": 1708337935622,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1682848,
+      "num": 1682848,
+      "word": "周杰伦 有狗还在吠代表你还是行的",
+      "onboard_time": 1708336419,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1626080,
       "num": 1626080,
       "word": "硅谷再现杀妻案",
@@ -233,6 +241,14 @@
       "onboard_time": 1708307248,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1535203,
+      "num": 569595,
+      "word": "胡夏 爱你的事当做秘密",
+      "onboard_time": 1708336358,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1500864,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 821188,
-      "num": 303566,
+      "num": 357005,
       "word": "你吃过鲍师傅吗",
       "onboard_time": 1708333779,
       "rank": 30,
@@ -1115,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548579,
+      "num": 548579,
+      "word": "李昊直播",
+      "onboard_time": 1708335278,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547135,
       "num": 485811,
       "word": "同事用了一个多月的极简水杯",
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506121,
+      "num": 352638,
+      "word": "鲍师傅门店回应把龙拼成dargon",
+      "onboard_time": 1708334739,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 505163,
       "num": 505163,
       "word": "白敬亭秒认出王嘉尔井柏然",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1708268557,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492267,
+      "num": 492267,
+      "word": "马思纯称160斤时曾自卑到谷底",
+      "onboard_time": 1708336306,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 489710,
@@ -1419,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 438329,
+      "num": 600852,
+      "word": "女生撸铁一年半穿婚纱秀肱二头肌",
+      "onboard_time": 1708336235,
+      "rank": 9,
+      "category": "社会新闻,运动健身"
+    },
+    {
       "raw_hot": 436610,
       "num": 436610,
       "word": "女飞行员执行任务前笑着拍遗照",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1708304133,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 413098,
+      "num": 413098,
+      "word": "赵小童 机场",
+      "onboard_time": 1708336478,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 411283,
@@ -1707,6 +1763,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 366638,
+      "num": 349713,
+      "word": "女子离婚冷静期第13天倒在丈夫刀下",
+      "onboard_time": 1708337378,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365694,
       "num": 365694,
       "word": "胖东来要求保洁员工写PPT汇报",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1708225295,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340407,
+      "num": 340407,
+      "word": "为什么上班久了容易抑郁",
+      "onboard_time": 1708337320,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 340198,
@@ -2163,6 +2235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287854,
+      "num": 287854,
+      "word": "纪委回应男子举报妻子与副镇长非法同居",
+      "onboard_time": 1708335522,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287690,
       "num": 220291,
       "word": "结婚是找能玩一辈子的朋友",
@@ -2201,14 +2281,6 @@
       "onboard_time": 1708251271,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283699,
-      "num": 283699,
-      "word": "鲍师傅门店回应把龙拼成dargon",
-      "onboard_time": 1708334739,
-      "rank": 22,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 283597,
@@ -2483,6 +2555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249617,
+      "num": 249617,
+      "word": "韩网热议许允真回归造型",
+      "onboard_time": 1708336119,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249302,
       "num": 249302,
       "word": "王鹤棣嘴角比AK还难压",
@@ -2540,7 +2620,7 @@
     },
     {
       "raw_hot": 247229,
-      "num": 247229,
+      "num": 254538,
       "word": "女司机遭抢劫误撞死劫匪被判正当防卫",
       "onboard_time": 1708328559,
       "rank": 22,
@@ -3041,6 +3121,14 @@
       "onboard_time": 1708318122,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207530,
+      "num": 207530,
+      "word": "国台办再就渔船遇难事件发声",
+      "onboard_time": 1708337256,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207344,
@@ -3708,7 +3796,7 @@
     },
     {
       "raw_hot": 170517,
-      "num": 170517,
+      "num": 614340,
       "word": "这一刻姥姥也在想念她的孩子吧",
       "onboard_time": 1708333300,
       "rank": 36,
@@ -3721,6 +3809,14 @@
       "onboard_time": 1708249895,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 169438,
+      "num": 169438,
+      "word": "韦世豪 成都",
+      "onboard_time": 1708336959,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 168369,
@@ -3747,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167602,
+      "num": 167602,
+      "word": "LESSERAFIM空降",
+      "onboard_time": 1708337861,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167306,
       "num": 167306,
       "word": "闺蜜和只见过两面的人订婚了",
@@ -3771,6 +3875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166527,
+      "num": 1694903,
+      "word": "一条微博总结春节假期",
+      "onboard_time": 1708335576,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166462,
       "num": 166462,
       "word": "人民选择奖",
@@ -3793,6 +3905,14 @@
       "onboard_time": 1708262916,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166037,
+      "num": 166037,
+      "word": "爱发疯的打工人工位长这样",
+      "onboard_time": 1708336539,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 166028,
@@ -4187,6 +4307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 144959,
+      "num": 144959,
+      "word": "总会有一只天降小猫也来选择你的",
+      "onboard_time": 1708337801,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144922,
       "num": 144922,
       "word": "Sora概念股大涨",
@@ -4289,6 +4417,14 @@
       "onboard_time": 1708329942,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138749,
+      "num": 138749,
+      "word": "Switch2跳票致任天堂股价大跌",
+      "onboard_time": 1708336721,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 138649,
