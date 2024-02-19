@@ -1,0 +1,410 @@
+{
+  "runTime": 1708345890440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1858615,
+        "num": 1858615,
+        "word": "刘雨欣 没绿卡没换国籍",
+        "onboard_time": 1708342237,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1596298,
+        "num": 1596298,
+        "word": "杨迪爆改",
+        "onboard_time": 1708344698,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121764,
+        "num": 1271697,
+        "word": "一条微博总结春节假期",
+        "onboard_time": 1708335576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4056610,
+        "num": 1218064,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095130,
+        "num": 1095130,
+        "word": "周杰伦 有狗还在吠代表你还是行的",
+        "onboard_time": 1708336419,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1090524,
+        "num": 1090524,
+        "word": "白鹿和替身合照",
+        "onboard_time": 1708340137,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2402691,
+        "num": 1055521,
+        "word": "曝光别人聊天记录违法吗",
+        "onboard_time": 1708339661,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765230,
+        "num": 765230,
+        "word": "想看BTS退伍结果注册成了士兵",
+        "onboard_time": 1708343435,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606440,
+        "num": 606440,
+        "word": "00后真是各过各的啊",
+        "onboard_time": 1708343680,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 572247,
+        "num": 572247,
+        "word": "湖北21岁晨跑女孩遇害案凶手被执行死刑",
+        "onboard_time": 1708339363,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997698,
+        "num": 571464,
+        "word": "聊天记录PDF 吃瓜传播逻辑",
+        "onboard_time": 1708345178,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 754597,
+        "num": 570647,
+        "word": "梅西",
+        "onboard_time": 1708341035,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754209,
+        "num": 568725,
+        "word": "胡夏 爱你的事当做秘密",
+        "onboard_time": 1708336358,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716018,
+        "num": 567396,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 682502,
+        "num": 567220,
+        "word": "热辣滚烫进入中国影史票房TOP20",
+        "onboard_time": 1708342118,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 678699,
+        "num": 565538,
+        "word": "庞博回复徐志胜",
+        "onboard_time": 1708341936,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564794,
+        "num": 564794,
+        "word": "王俊凯王源 扫鼠岭",
+        "onboard_time": 1708340920,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461356,
+        "num": 461356,
+        "word": "再来十次大姨妈就过年了",
+        "onboard_time": 1708344996,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421860,
+        "num": 421860,
+        "word": "鲍师傅门店回应把龙拼成dargon",
+        "onboard_time": 1708334739,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 389203,
+        "num": 389203,
+        "word": "妈妈一怒之下撤回了一个弟弟",
+        "onboard_time": 1708330121,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491266,
+        "num": 384257,
+        "word": "公司缴社保与个人缴社保的退休金差距",
+        "onboard_time": 1708341398,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 403745,
+        "num": 373428,
+        "word": "杨紫演长相思沟通半年才定下来",
+        "onboard_time": 1708342954,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360005,
+        "num": 360005,
+        "word": "春节后上班第一天民政局遇离婚潮",
+        "onboard_time": 1708339836,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376141,
+        "num": 357976,
+        "word": "邓为演涂山璟是试戏试上的",
+        "onboard_time": 1708342721,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345514,
+        "num": 345514,
+        "word": "女生撸铁一年半穿婚纱秀肱二头肌",
+        "onboard_time": 1708336235,
+        "rank": 24,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 349127,
+        "num": 342303,
+        "word": "贾静雯回应女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1708338101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320435,
+        "num": 320435,
+        "word": "女子离婚冷静期第13天倒在丈夫刀下",
+        "onboard_time": 1708337378,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315328,
+        "num": 315328,
+        "word": "赵丽颖孙千撞衫",
+        "onboard_time": 1708344401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314317,
+        "num": 314317,
+        "word": "车主曝42万奔驰新车开20公里油门失灵",
+        "onboard_time": 1708344637,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 313375,
+        "num": 313375,
+        "word": "刘雨欣家被偷空",
+        "onboard_time": 1708325438,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293006,
+        "num": 293006,
+        "word": "陈都灵程潇你俩有点暧昧了",
+        "onboard_time": 1708344035,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244217,
+        "num": 244217,
+        "word": "警方通报女网红在海底捞做不雅行为",
+        "onboard_time": 1708324598,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 201137,
+        "word": "EDG对战WE",
+        "onboard_time": 1708344939,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198812,
+        "num": 198812,
+        "word": "你吃过鲍师傅吗",
+        "onboard_time": 1708333779,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 185220,
+        "word": "寒假作业落巴黎事件舅舅账号被禁",
+        "onboard_time": 1708331623,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 179311,
+        "word": "马思纯称160斤时曾自卑到谷底",
+        "onboard_time": 1708336306,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176763,
+        "num": 176763,
+        "word": "不到一天四家车企宣布降价",
+        "onboard_time": 1708342539,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170954,
+        "num": 170954,
+        "word": "春楠拍唐嫣",
+        "onboard_time": 1708342657,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161443,
+        "num": 161443,
+        "word": "魏晨喊话广大网友来河北",
+        "onboard_time": 1708345236,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160891,
+        "num": 160891,
+        "word": "女子5楼新房被6楼邻居给装修了",
+        "onboard_time": 1708333300,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149048,
+        "num": 149048,
+        "word": "为什么上班久了容易抑郁",
+        "onboard_time": 1708337320,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145682,
+        "num": 145682,
+        "word": "张颂文狂飙后首部电视剧",
+        "onboard_time": 1708331200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139279,
+        "num": 139279,
+        "word": "徐冬冬婚礼喝椰汁",
+        "onboard_time": 1708321716,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137027,
+        "num": 137027,
+        "word": "宫脇咲良好美",
+        "onboard_time": 1708339295,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134975,
+        "num": 134975,
+        "word": "热辣滚烫票房破29亿",
+        "onboard_time": 1708343801,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133302,
+        "num": 133302,
+        "word": "唐朝若是有网友 唐诗何止三百首",
+        "onboard_time": 1708344996,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130142,
+        "num": 130142,
+        "word": "男子曝妻子虐待婆婆致死",
+        "onboard_time": 1708321534,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128822,
+        "num": 128822,
+        "word": "同事用了一个多月的极简水杯",
+        "onboard_time": 1708330181,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128697,
+        "num": 128697,
+        "word": "汪苏泷镜头下的声生不息全员",
+        "onboard_time": 1708345839,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128680,
+        "num": 128680,
+        "word": "秦海璐炸毛了",
+        "onboard_time": 1708338937,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高新闻舆论传播力引导力影响力公信力#"
+    }
+  }
+}
