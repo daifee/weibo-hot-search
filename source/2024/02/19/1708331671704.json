@@ -1,0 +1,410 @@
+{
+  "runTime": 1708331671704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12343812,
+        "num": 12343812,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5809310,
+        "num": 5809310,
+        "word": "已暂停被举报出轨学生女教师工作",
+        "onboard_time": 1708319436,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3531,
+        "num": 3312439,
+        "word": "新春第一会为啥聚焦人才",
+        "onboard_time": 1708263876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1682695,
+        "num": 1682695,
+        "word": "刘雨欣家被偷空",
+        "onboard_time": 1708325438,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1638666,
+        "num": 1638666,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1054017,
+        "num": 1054017,
+        "word": "妈妈一怒之下撤回了一个弟弟",
+        "onboard_time": 1708330121,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 702110,
+        "num": 702110,
+        "word": "警方通报女网红在海底捞做不雅行为",
+        "onboard_time": 1708324598,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565521,
+        "num": 565521,
+        "word": "种地吧",
+        "onboard_time": 1708328379,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535774,
+        "num": 535774,
+        "word": "男子曝妻子虐待婆婆致死",
+        "onboard_time": 1708321534,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522650,
+        "num": 522650,
+        "word": "17岁女孩误喝防冻液致多器官衰竭",
+        "onboard_time": 1708326097,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547135,
+        "num": 485811,
+        "word": "同事用了一个多月的极简水杯",
+        "onboard_time": 1708330181,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432243,
+        "num": 432243,
+        "word": "颜宁",
+        "onboard_time": 1708326635,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384209,
+        "num": 384209,
+        "word": "张颂文狂飙后首部电视剧",
+        "onboard_time": 1708331200,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378826,
+        "num": 378826,
+        "word": "西虹市首富或将按原剧本重拍",
+        "onboard_time": 1708319493,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66458,
+        "num": 377987,
+        "word": "5架国产飞机新年组团出国门",
+        "onboard_time": 1708317159,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377936,
+        "num": 377936,
+        "word": "徐冬冬婚礼喝椰汁",
+        "onboard_time": 1708321716,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341661,
+        "num": 341661,
+        "word": "江西男子举报妻子与副镇长非法同居",
+        "onboard_time": 1708330781,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379926,
+        "num": 329767,
+        "word": "姚安娜新剧搭档张颂文",
+        "onboard_time": 1708329157,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287983,
+        "num": 287983,
+        "word": "甜馨 奇奇怪怪的动物我最喜欢啦",
+        "onboard_time": 1708331140,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273450,
+        "num": 273450,
+        "word": "节后瘦腰一定不要忽视腹压",
+        "onboard_time": 1708329942,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 257270,
+        "num": 257270,
+        "word": "猫 我可不想脏了我的白手套",
+        "onboard_time": 1708326397,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248911,
+        "num": 248911,
+        "word": "徐志胜的经纪人是庞博",
+        "onboard_time": 1708331560,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239718,
+        "num": 239718,
+        "word": "女司机遭抢劫误撞死劫匪被判正当防卫",
+        "onboard_time": 1708328559,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235183,
+        "num": 235183,
+        "word": "小县城买一套房要花10年",
+        "onboard_time": 1708324416,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230308,
+        "num": 230308,
+        "word": "老凤祥被指清洗手镯故意蹭掉logo",
+        "onboard_time": 1708314517,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230016,
+        "num": 230016,
+        "word": "A股逾200只个股涨停",
+        "onboard_time": 1708329520,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204282,
+        "num": 204282,
+        "word": "养成易瘦体质的5个习惯",
+        "onboard_time": 1708330181,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204192,
+        "num": 204192,
+        "word": "山河大学的意义",
+        "onboard_time": 1708327960,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195052,
+        "num": 195052,
+        "word": "沈腾马丽2015年的小品",
+        "onboard_time": 1708330900,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189023,
+        "num": 189023,
+        "word": "蔡依林Valentino品牌代言人",
+        "onboard_time": 1708325920,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188622,
+        "num": 188622,
+        "word": "曝姆巴佩已与皇马签约5年",
+        "onboard_time": 1708327656,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182700,
+        "num": 182700,
+        "word": "姥姥的外孙",
+        "onboard_time": 1708329697,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180178,
+        "num": 180178,
+        "word": "北京一老破小2%份额变卖2.62万元",
+        "onboard_time": 1708324536,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169602,
+        "num": 169602,
+        "word": "胖东来要求保洁员工写PPT汇报",
+        "onboard_time": 1708321418,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "女性生来就有爱人的天赋",
+        "onboard_time": 1708329398,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157874,
+        "num": 157874,
+        "word": "十个勤天直播",
+        "onboard_time": 1708330121,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153300,
+        "num": 153300,
+        "word": "静坐4小时就可能长血栓",
+        "onboard_time": 1708319254,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151383,
+        "num": 151383,
+        "word": "硕士老爸辅导儿子作业气到眼睛漏水",
+        "onboard_time": 1708324416,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149610,
+        "num": 149610,
+        "word": "不要通过自毁报复父母",
+        "onboard_time": 1708330239,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146125,
+        "num": 146125,
+        "word": "闺蜜和只见过两面的人订婚了",
+        "onboard_time": 1708329999,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145078,
+        "num": 145078,
+        "word": "凌晨5点你楼上的邻居",
+        "onboard_time": 1708330181,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141102,
+        "num": 141102,
+        "word": "东方甄选回应被指超量使用虾药",
+        "onboard_time": 1708326519,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139826,
+        "num": 139826,
+        "word": "油泼面不要辣子",
+        "onboard_time": 1708330839,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134371,
+        "num": 134371,
+        "word": "贾玲捧脸公式照",
+        "onboard_time": 1708322857,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 133927,
+        "word": "热辣滚烫 温和的女性电影",
+        "onboard_time": 1708328739,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "五菱跟进比亚迪价格战",
+        "onboard_time": 1708329942,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127630,
+        "num": 127630,
+        "word": "比亚迪降价",
+        "onboard_time": 1708309651,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127294,
+        "num": 127294,
+        "word": "贾玲热辣滚烫的幕后记录",
+        "onboard_time": 1708318122,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126461,
+        "num": 126461,
+        "word": "寒假作业落巴黎事件舅舅账号被禁",
+        "onboard_time": 1708331623,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116204,
+        "num": 116204,
+        "word": "猫比我去过的国家还多",
+        "onboard_time": 1708331623,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}
