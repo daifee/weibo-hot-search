@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708346813719,
+  "endTime": 1708348747049,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -19,12 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3688012,
+      "raw_hot": 4385432,
       "num": 3688012,
       "word": "聊天记录PDF 吃瓜传播逻辑",
       "onboard_time": 1708345178,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 4058932,
+      "num": 4058932,
+      "word": "梅西回应",
+      "onboard_time": 1708348178,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3461787,
@@ -99,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1982628,
+      "num": 848465,
+      "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
+      "onboard_time": 1708347699,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1972023,
       "num": 1972023,
       "word": "老凤祥被指清洗手镯故意蹭掉logo",
@@ -161,6 +177,14 @@
       "onboard_time": 1708307248,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1551768,
+      "num": 661207,
+      "word": "梅西",
+      "onboard_time": 1708341035,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 1434927,
@@ -235,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1256925,
+      "num": 1256925,
+      "word": "再来十次大姨妈就过年了",
+      "onboard_time": 1708344996,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1223193,
       "num": 1223193,
       "word": "苏醒半个娱乐圈的人脉终于用上了",
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1001169,
-      "num": 1001169,
-      "word": "再来十次大姨妈就过年了",
-      "onboard_time": 1708344996,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 977207,
       "num": 977207,
       "word": "贵州山火",
@@ -329,14 +353,6 @@
       "onboard_time": 1708321716,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 873579,
-      "num": 661207,
-      "word": "梅西",
-      "onboard_time": 1708341035,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 861109,
@@ -449,6 +465,14 @@
       "onboard_time": 1708309052,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639240,
+      "num": 639240,
+      "word": "毛不易 有时间生孩子都不错了",
+      "onboard_time": 1708345899,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 619099,
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459400,
+      "num": 459400,
+      "word": "梅西说对中国球迷有特殊感情",
+      "onboard_time": 1708348420,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451105,
       "num": 754036,
       "word": "女生撸铁一年半穿婚纱秀肱二头肌",
@@ -891,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363485,
-      "num": 303101,
-      "word": "毛不易 有时间生孩子都不错了",
-      "onboard_time": 1708345899,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 360005,
       "num": 360005,
       "word": "春节后上班第一天民政局遇离婚潮",
@@ -923,6 +947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351973,
+      "num": 351973,
+      "word": "内娱有自己的纯元皇后",
+      "onboard_time": 1708348005,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351214,
       "num": 252998,
       "word": "经常请吃饭的善良阿姨",
@@ -945,6 +977,14 @@
       "onboard_time": 1708313670,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346804,
+      "num": 324760,
+      "word": "车主曝42万奔驰新车开20公里油门失灵",
+      "onboard_time": 1708344637,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 345763,
@@ -977,14 +1017,6 @@
       "onboard_time": 1708301012,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337627,
-      "num": 314317,
-      "word": "车主曝42万奔驰新车开20公里油门失灵",
-      "onboard_time": 1708344637,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 335571,
@@ -1459,6 +1491,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 221391,
+      "num": 221391,
+      "word": "EDG对战WE",
+      "onboard_time": 1708344939,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220488,
       "num": 324013,
       "word": "7.98万的比亚迪让燃油车慌了",
@@ -1595,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205084,
+      "num": 205084,
+      "word": "高合将关闭所有售前门店",
+      "onboard_time": 1708347460,
+      "rank": 36,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 205071,
       "num": 205071,
       "word": "利拉德全明星MVP",
@@ -1617,14 +1665,6 @@
       "onboard_time": 1708257453,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201137,
-      "num": 201137,
-      "word": "EDG对战WE",
-      "onboard_time": 1708344939,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 200193,
@@ -1739,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187086,
+      "num": 187086,
+      "word": "陈靖可精神状态",
+      "onboard_time": 1708346559,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187084,
       "num": 187084,
       "word": "詹姆斯戴皇冠出场",
@@ -1771,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184495,
+      "num": 184495,
+      "word": "4个动作减掉腹部脂肪",
+      "onboard_time": 1708347038,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 182216,
       "num": 182216,
       "word": "王者新英雄大司命",
@@ -1779,19 +1835,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181239,
+      "num": 181239,
+      "word": "热辣滚烫结局 经典镜头",
+      "onboard_time": 1708347878,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "于正春节瘦了8斤",
       "onboard_time": 1708317815,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 179850,
-      "num": 179850,
-      "word": "陈靖可精神状态",
-      "onboard_time": 1708346559,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1809,6 +1865,14 @@
       "onboard_time": 1708335576,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178626,
+      "num": 178626,
+      "word": "王鹤棣的脚42.5码",
+      "onboard_time": 1708347279,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 177619,

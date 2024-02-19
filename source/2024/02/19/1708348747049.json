@@ -1,0 +1,410 @@
+{
+  "runTime": 1708348747049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4058932,
+        "num": 4058932,
+        "word": "梅西回应",
+        "onboard_time": 1708348178,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2386167,
+        "num": 2386167,
+        "word": "杨迪爆改",
+        "onboard_time": 1708344698,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143056,
+        "num": 1794021,
+        "word": "一条微博总结春节假期",
+        "onboard_time": 1708335576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4385432,
+        "num": 1535605,
+        "word": "聊天记录PDF 吃瓜传播逻辑",
+        "onboard_time": 1708345178,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3645267,
+        "num": 1532049,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256925,
+        "num": 1256925,
+        "word": "再来十次大姨妈就过年了",
+        "onboard_time": 1708344996,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 869670,
+        "num": 869670,
+        "word": "刘雨欣 没绿卡没换国籍",
+        "onboard_time": 1708342237,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1982628,
+        "num": 848465,
+        "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
+        "onboard_time": 1708347699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804511,
+        "num": 804511,
+        "word": "周杰伦 有狗还在吠代表你还是行的",
+        "onboard_time": 1708336419,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 677890,
+        "num": 677890,
+        "word": "白鹿和替身合照",
+        "onboard_time": 1708340137,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1332971,
+        "num": 662219,
+        "word": "曝光别人聊天记录违法吗",
+        "onboard_time": 1708339661,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639240,
+        "num": 639240,
+        "word": "毛不易 有时间生孩子都不错了",
+        "onboard_time": 1708345899,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525854,
+        "num": 525854,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488115,
+        "num": 488115,
+        "word": "想看BTS退伍结果注册成了士兵",
+        "onboard_time": 1708343435,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486962,
+        "num": 486962,
+        "word": "00后真是各过各的啊",
+        "onboard_time": 1708343680,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471798,
+        "num": 471798,
+        "word": "胡夏 爱你的事当做秘密",
+        "onboard_time": 1708336358,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 462488,
+        "num": 462488,
+        "word": "热辣滚烫进入中国影史票房TOP20",
+        "onboard_time": 1708342118,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459400,
+        "num": 459400,
+        "word": "梅西说对中国球迷有特殊感情",
+        "onboard_time": 1708348420,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351973,
+        "num": 351973,
+        "word": "内娱有自己的纯元皇后",
+        "onboard_time": 1708348005,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327727,
+        "num": 327727,
+        "word": "鲍师傅门店回应把龙拼成dargon",
+        "onboard_time": 1708334739,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1551768,
+        "num": 326764,
+        "word": "梅西",
+        "onboard_time": 1708341035,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366228,
+        "num": 325990,
+        "word": "公司缴社保与个人缴社保的退休金差距",
+        "onboard_time": 1708341398,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 346804,
+        "num": 324760,
+        "word": "车主曝42万奔驰新车开20公里油门失灵",
+        "onboard_time": 1708344637,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 337640,
+        "num": 323924,
+        "word": "庞博回复徐志胜",
+        "onboard_time": 1708341936,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323544,
+        "num": 323544,
+        "word": "女子离婚冷静期第13天倒在丈夫刀下",
+        "onboard_time": 1708337378,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299737,
+        "num": 299737,
+        "word": "王俊凯王源 扫鼠岭",
+        "onboard_time": 1708340920,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299704,
+        "num": 299704,
+        "word": "赵丽颖孙千撞衫",
+        "onboard_time": 1708344401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293360,
+        "num": 293360,
+        "word": "湖北21岁晨跑女孩遇害案凶手被执行死刑",
+        "onboard_time": 1708339363,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279951,
+        "num": 279951,
+        "word": "邓为演涂山璟是试戏试上的",
+        "onboard_time": 1708342721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227741,
+        "num": 227741,
+        "word": "春节后上班第一天民政局遇离婚潮",
+        "onboard_time": 1708339836,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238290,
+        "num": 225545,
+        "word": "杨紫演长相思沟通半年才定下来",
+        "onboard_time": 1708342954,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221391,
+        "num": 221391,
+        "word": "EDG对战WE",
+        "onboard_time": 1708344939,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217540,
+        "num": 217540,
+        "word": "警方通报女网红在海底捞做不雅行为",
+        "onboard_time": 1708324598,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213468,
+        "num": 213468,
+        "word": "娜扎丞磊合照",
+        "onboard_time": 1708345899,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213456,
+        "num": 213456,
+        "word": "刘雨欣家被偷空",
+        "onboard_time": 1708325438,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210249,
+        "num": 210249,
+        "word": "贾静雯回应女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1708338101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205084,
+        "num": 205084,
+        "word": "高合将关闭所有售前门店",
+        "onboard_time": 1708347460,
+        "rank": 36,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 188633,
+        "num": 188633,
+        "word": "你吃过鲍师傅吗",
+        "onboard_time": 1708333779,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187086,
+        "num": 187086,
+        "word": "陈靖可精神状态",
+        "onboard_time": 1708346559,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187053,
+        "num": 187053,
+        "word": "妈妈一怒之下撤回了一个弟弟",
+        "onboard_time": 1708330121,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184495,
+        "num": 184495,
+        "word": "4个动作减掉腹部脂肪",
+        "onboard_time": 1708347038,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181239,
+        "num": 181239,
+        "word": "热辣滚烫结局 经典镜头",
+        "onboard_time": 1708347878,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179103,
+        "num": 179103,
+        "word": "陈都灵程潇你俩有点暧昧了",
+        "onboard_time": 1708344035,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178626,
+        "num": 178626,
+        "word": "王鹤棣的脚42.5码",
+        "onboard_time": 1708347279,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 154526,
+        "num": 154526,
+        "word": "马思纯称160斤时曾自卑到谷底",
+        "onboard_time": 1708336306,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149313,
+        "num": 149313,
+        "word": "女生撸铁一年半穿婚纱秀肱二头肌",
+        "onboard_time": 1708336235,
+        "rank": 45,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 148067,
+        "num": 148067,
+        "word": "女子5楼新房被6楼邻居给装修了",
+        "onboard_time": 1708333300,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142832,
+        "num": 142832,
+        "word": "寒假作业落巴黎事件舅舅账号被禁",
+        "onboard_time": 1708331623,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134907,
+        "num": 134907,
+        "word": "张若昀射箭名场面又多一个",
+        "onboard_time": 1708346320,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132810,
+        "num": 132810,
+        "word": "不到一天四家车企宣布降价",
+        "onboard_time": 1708342539,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}
