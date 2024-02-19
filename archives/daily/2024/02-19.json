@@ -1,7 +1,15 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708319820525,
+  "endTime": 1708320855924,
   "band_list": [
+    {
+      "raw_hot": 4334523,
+      "num": 4334523,
+      "word": "已暂停被举报出轨学生女教师工作",
+      "onboard_time": 1708319436,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3461787,
       "num": 3461787,
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1342674,
-      "num": 1342674,
-      "word": "已暂停被举报出轨学生女教师工作",
-      "onboard_time": 1708319436,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1335419,
       "num": 1335419,
       "word": "教育局回应女教师被举报出轨学生",
@@ -105,6 +105,14 @@
       "onboard_time": 1708309651,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1246954,
+      "num": 1246954,
+      "word": "西虹市首富或将按原剧本重拍",
+      "onboard_time": 1708319493,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 1223193,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 552478,
-      "num": 320783,
+      "num": 323156,
       "word": "40岁我从体制内辞职2次",
       "onboard_time": 1708318294,
       "rank": 20,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430820,
-      "num": 430820,
-      "word": "西虹市首富或将按原剧本重拍",
-      "onboard_time": 1708319493,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 427563,
       "num": 427563,
       "word": "巴西总统称以色列实施种族灭绝",
@@ -452,11 +452,19 @@
     },
     {
       "raw_hot": 368373,
-      "num": 317916,
+      "num": 318751,
       "word": "原谅就是背刺小时候哭泣的自己",
       "onboard_time": 1708316799,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359723,
+      "num": 359723,
+      "word": "孙千老公妹",
+      "onboard_time": 1708319074,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359279,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320832,
+      "num": 320832,
+      "word": "静坐4小时就可能长血栓",
+      "onboard_time": 1708319254,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314849,
       "num": 314849,
       "word": "没想到相亲相到了初恋",
@@ -635,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271549,
+      "num": 271549,
+      "word": "云秀行官微",
+      "onboard_time": 1708319317,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267662,
       "num": 267662,
       "word": "有一种不健康的习惯叫穷思竭虑",
@@ -683,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245236,
-      "num": 245236,
-      "word": "孙千老公妹",
-      "onboard_time": 1708319074,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243948,
       "num": 243948,
       "word": "投资者50万买基金亏30%起诉代销行",
@@ -705,14 +721,6 @@
       "onboard_time": 1708312531,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240701,
-      "num": 240701,
-      "word": "静坐4小时就可能长血栓",
-      "onboard_time": 1708319254,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 240205,
@@ -811,6 +819,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212736,
+      "num": 209749,
+      "word": "被别人的订婚氛围幸福到了",
+      "onboard_time": 1708319554,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210497,
+      "num": 210497,
+      "word": "严浩翔非我不可剧情版预告",
+      "onboard_time": 1708320332,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209687,
       "num": 209687,
       "word": "乐莹抽烟",
@@ -825,6 +849,14 @@
       "onboard_time": 1708266874,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206946,
+      "num": 323676,
+      "word": "孙颖莎3比0纳吉瓦拉迪",
+      "onboard_time": 1708319673,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 205071,
@@ -867,20 +899,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190662,
-      "num": 190662,
-      "word": "云秀行官微",
-      "onboard_time": 1708319317,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190458,
-      "num": 190458,
-      "word": "孙颖莎3比0纳吉瓦拉迪",
-      "onboard_time": 1708319673,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 191323,
+      "num": 191323,
+      "word": "鞠婧祎玫瑰发饰",
+      "onboard_time": 1708320455,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187084,
@@ -955,14 +979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172091,
-      "num": 172091,
-      "word": "被别人的订婚氛围幸福到了",
-      "onboard_time": 1708319554,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171999,
       "num": 171999,
       "word": "Sora",
@@ -1019,12 +1035,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160911,
+      "num": 160911,
+      "word": "育儿嫂休假结束宝宝反应亮了",
+      "onboard_time": 1708320155,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 157600,
       "num": 371025,
       "word": "公路高铁3月1日即将进站",
       "onboard_time": 1708314453,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157324,
+      "num": 157324,
+      "word": "妈妈悄悄买下一座房子",
+      "onboard_time": 1708320815,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 156084,
@@ -1200,6 +1232,14 @@
       "word": "票房",
       "onboard_time": 1708303716,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 135049,
+      "num": 135049,
+      "word": "飞驰人生2刘昊然的出场",
+      "onboard_time": 1708320755,
+      "rank": 45,
       "category": "电影"
     },
     {
