@@ -1,0 +1,410 @@
+{
+  "runTime": 1708341279104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7921392,
+        "num": 7921392,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2439824,
+        "num": 2439824,
+        "word": "女子称私照被恶意拼接为出轨女教师",
+        "onboard_time": 1708338937,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143679,
+        "num": 1814405,
+        "word": "一条微博总结春节假期",
+        "onboard_time": 1708335576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1509965,
+        "num": 1509965,
+        "word": "周杰伦 有狗还在吠代表你还是行的",
+        "onboard_time": 1708336419,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1377281,
+        "num": 1377281,
+        "word": "律师谈女教师出轨16岁高中生",
+        "onboard_time": 1708339836,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976354,
+        "num": 976354,
+        "word": "白鹿和替身合照",
+        "onboard_time": 1708340137,
+        "rank": 5,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 961505,
+        "num": 961505,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 704066,
+        "num": 704066,
+        "word": "刘雨欣家被偷空",
+        "onboard_time": 1708325438,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122885,
+        "num": 679025,
+        "word": "这一刻姥姥也在想念她的孩子吧",
+        "onboard_time": 1708333300,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415491,
+        "num": 676071,
+        "word": "女生撸铁一年半穿婚纱秀肱二头肌",
+        "onboard_time": 1708336235,
+        "rank": 9,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 1596266,
+        "num": 675821,
+        "word": "胡夏 爱你的事当做秘密",
+        "onboard_time": 1708336358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674871,
+        "num": 674871,
+        "word": "妈妈一怒之下撤回了一个弟弟",
+        "onboard_time": 1708330121,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27228,
+        "num": 624855,
+        "word": "电车比油车价格还低了",
+        "onboard_time": 1708338282,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 619099,
+        "num": 619099,
+        "word": "贾静雯回应女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1708338101,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448596,
+        "num": 448596,
+        "word": "王俊凯王源 扫鼠岭",
+        "onboard_time": 1708340920,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418996,
+        "num": 418996,
+        "word": "秦海璐炸毛了",
+        "onboard_time": 1708338937,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383752,
+        "num": 383752,
+        "word": "湖北21岁晨跑女孩遇害案凶手被执行死刑",
+        "onboard_time": 1708339363,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354643,
+        "num": 354643,
+        "word": "马思纯称160斤时曾自卑到谷底",
+        "onboard_time": 1708336306,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339383,
+        "num": 339383,
+        "word": "徐志胜的经纪人是庞博",
+        "onboard_time": 1708331560,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311662,
+        "num": 311662,
+        "word": "为什么上班久了容易抑郁",
+        "onboard_time": 1708337320,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 533820,
+        "num": 311488,
+        "word": "曝光别人聊天记录违法吗",
+        "onboard_time": 1708339661,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415617,
+        "num": 311193,
+        "word": "女子离婚冷静期第13天倒在丈夫刀下",
+        "onboard_time": 1708337378,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350002,
+        "num": 310808,
+        "word": "你吃过鲍师傅吗",
+        "onboard_time": 1708333779,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 339772,
+        "num": 310010,
+        "word": "鲍师傅门店回应把龙拼成dargon",
+        "onboard_time": 1708334739,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 309994,
+        "num": 309994,
+        "word": "寒假作业落巴黎事件舅舅账号被禁",
+        "onboard_time": 1708331623,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270688,
+        "num": 270688,
+        "word": "警方通报女网红在海底捞做不雅行为",
+        "onboard_time": 1708324598,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269196,
+        "num": 269196,
+        "word": "宫脇咲良好美",
+        "onboard_time": 1708339295,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268400,
+        "num": 268400,
+        "word": "男子曝妻子虐待婆婆致死",
+        "onboard_time": 1708321534,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262017,
+        "num": 262017,
+        "word": "女子5楼新房被6楼邻居给装修了",
+        "onboard_time": 1708333300,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234863,
+        "num": 234863,
+        "word": "张颂文狂飙后首部电视剧",
+        "onboard_time": 1708331200,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247132,
+        "num": 232016,
+        "word": "唐诗逸 非常有幸学习咏春",
+        "onboard_time": 1708340500,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227983,
+        "num": 227983,
+        "word": "春节后上班第一天民政局遇离婚潮",
+        "onboard_time": 1708339836,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223515,
+        "num": 223515,
+        "word": "官方回应傅园慧求助2小时解决",
+        "onboard_time": 1708338518,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221495,
+        "num": 221495,
+        "word": "颜宁",
+        "onboard_time": 1708326635,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205336,
+        "num": 205336,
+        "word": "徐冬冬婚礼喝椰汁",
+        "onboard_time": 1708321716,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190510,
+        "num": 190510,
+        "word": "灵机一动在公司用养生壶煮火锅",
+        "onboard_time": 1708339474,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189331,
+        "num": 189331,
+        "word": "梅西",
+        "onboard_time": 1708341035,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184495,
+        "num": 184495,
+        "word": "比亚迪价格",
+        "onboard_time": 1708333660,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179855,
+        "num": 179855,
+        "word": "种地吧",
+        "onboard_time": 1708328379,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175142,
+        "num": 175142,
+        "word": "纪委回应男子举报妻子与副镇长非法同居",
+        "onboard_time": 1708335522,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173678,
+        "num": 173678,
+        "word": "同事用了一个多月的极简水杯",
+        "onboard_time": 1708330181,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173462,
+        "num": 173462,
+        "word": "国台办再就渔船遇难事件发声",
+        "onboard_time": 1708337256,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173052,
+        "num": 173052,
+        "word": "LESSERAFIM空降",
+        "onboard_time": 1708337861,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162212,
+        "num": 162212,
+        "word": "赵小童 机场",
+        "onboard_time": 1708336478,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160885,
+        "num": 160885,
+        "word": "贾玲不沉浸在奇迹里",
+        "onboard_time": 1708339059,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158744,
+        "num": 158744,
+        "word": "目中无人2群演的头被踩进地板里",
+        "onboard_time": 1708339000,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156671,
+        "num": 156671,
+        "word": "17岁女孩误喝防冻液致多器官衰竭",
+        "onboard_time": 1708326097,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149055,
+        "num": 149055,
+        "word": "西虹市首富或将按原剧本重拍",
+        "onboard_time": 1708319493,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146172,
+        "num": 146172,
+        "word": "饭桌判官",
+        "onboard_time": 1708340137,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142152,
+        "num": 142152,
+        "word": "烫面半烫面死面发面的区别和用途",
+        "onboard_time": 1708340859,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}
