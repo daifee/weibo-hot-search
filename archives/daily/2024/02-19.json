@@ -1,10 +1,10 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708316438634,
+  "endTime": 1708317237487,
   "band_list": [
     {
-      "raw_hot": 3446954,
-      "num": 3446954,
+      "raw_hot": 3461787,
+      "num": 3461787,
       "word": "女教师被举报出轨高中生未被停职",
       "onboard_time": 1708312473,
       "rank": 30,
@@ -33,6 +33,14 @@
       "onboard_time": 1708305271,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1719930,
+      "num": 1719930,
+      "word": "老凤祥被指清洗手镯故意蹭掉logo",
+      "onboard_time": 1708314517,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1716207,
@@ -107,20 +115,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1149959,
-      "num": 769811,
-      "word": "老凤祥被指清洗手镯故意蹭掉logo",
-      "onboard_time": 1708314517,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1125308,
       "num": 1125308,
       "word": "复工第一天在出租屋哭了很久",
       "onboard_time": 1708300351,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1095242,
+      "num": 1095242,
+      "word": "人民日报点评王鹤棣全明星赛",
+      "onboard_time": 1708314937,
+      "rank": 5,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1085355,
@@ -155,14 +163,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 912233,
-      "num": 912233,
-      "word": "人民日报点评王鹤棣全明星赛",
-      "onboard_time": 1708314937,
-      "rank": 5,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 861109,
       "num": 861109,
       "word": "周杰伦 我只看我想看的",
@@ -171,8 +171,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 811669,
-      "num": 811669,
+      "raw_hot": 817398,
+      "num": 817398,
       "word": "山姆回应三文鱼不再标注开袋即食",
       "onboard_time": 1708314034,
       "rank": 6,
@@ -187,19 +187,19 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 779205,
+      "num": 779205,
+      "word": "小城市为什么越来越多咖啡馆",
+      "onboard_time": 1708314034,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 757862,
       "num": 757862,
       "word": "自热火锅为什么失宠了",
       "onboard_time": 1708306232,
       "rank": 44,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 675480,
-      "num": 675480,
-      "word": "小城市为什么越来越多咖啡馆",
-      "onboard_time": 1708314034,
-      "rank": 12,
       "category": "美食"
     },
     {
@@ -339,20 +339,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 460556,
+      "num": 370019,
+      "word": "感觉这个弟弟快要碎了",
+      "onboard_time": 1708314034,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460129,
       "num": 460129,
       "word": "秦朗舅舅",
       "onboard_time": 1708262796,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455710,
-      "num": 370019,
-      "word": "感觉这个弟弟快要碎了",
-      "onboard_time": 1708314034,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 427563,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387800,
+      "num": 387800,
+      "word": "贾玲 优秀的项目负责人",
+      "onboard_time": 1708314273,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 381025,
       "num": 381025,
       "word": "王鹤棣晒与哈利伯顿合影",
@@ -417,14 +425,6 @@
       "onboard_time": 1708303292,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373488,
-      "num": 373488,
-      "word": "贾玲 优秀的项目负责人",
-      "onboard_time": 1708314273,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 359279,
@@ -531,6 +531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 313700,
+      "num": 313700,
+      "word": "卜凡山东话算卦还倒贴99",
+      "onboard_time": 1708315777,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311083,
       "num": 311083,
       "word": "沈腾 素材给了剩下的你们发挥",
@@ -553,6 +561,14 @@
       "onboard_time": 1708310370,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286625,
+      "num": 286625,
+      "word": "NBA全明星得分首次破200",
+      "onboard_time": 1708316435,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 278331,
@@ -643,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242592,
-      "num": 242592,
-      "word": "卜凡山东话算卦还倒贴99",
-      "onboard_time": 1708315777,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240205,
       "num": 240205,
       "word": "前女友控诉卜凡家暴",
@@ -739,12 +747,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208476,
+      "num": 208476,
+      "word": "原谅就是背刺小时候哭泣的自己",
+      "onboard_time": 1708316799,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207439,
       "num": 207439,
       "word": "感觉开放式工位真的很窒息",
       "onboard_time": 1708266874,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205071,
+      "num": 205071,
+      "word": "利拉德全明星MVP",
+      "onboard_time": 1708316318,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 204731,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173978,
+      "num": 173978,
+      "word": "利拉德39分",
+      "onboard_time": 1708316435,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171999,
       "num": 171999,
       "word": "Sora",
@@ -827,12 +859,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 171508,
+      "num": 171508,
+      "word": "窝囊废文学成为全新流行趋势",
+      "onboard_time": 1708315598,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167035,
       "num": 167035,
       "word": "游客与傅园慧经历相似却维权失败",
       "onboard_time": 1708264475,
       "rank": 30,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 166880,
+      "num": 166880,
+      "word": "东部全明星战胜西部全明星",
+      "onboard_time": 1708316736,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "人民选择奖",
+      "onboard_time": 1708316918,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164841,
@@ -849,14 +905,6 @@
       "onboard_time": 1708265258,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160882,
-      "num": 160882,
-      "word": "利拉德全明星MVP",
-      "onboard_time": 1708316318,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 157600,
@@ -899,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151849,
+      "num": 410260,
+      "word": "小米14Ultra进光量超苹果100%",
+      "onboard_time": 1708314153,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151630,
       "num": 151630,
       "word": "胡先煦拍的丁达尔效应",
@@ -931,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146254,
-      "num": 146254,
-      "word": "窝囊废文学成为全新流行趋势",
-      "onboard_time": 1708315598,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145696,
       "num": 145696,
       "word": "东部明星队半场104分",
@@ -969,14 +1017,6 @@
       "onboard_time": 1708309229,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144129,
-      "num": 410260,
-      "word": "小米14Ultra进光量超苹果100%",
-      "onboard_time": 1708314153,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 142898,
@@ -1345,6 +1385,14 @@
       "onboard_time": 1708290017,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 6164,
+      "num": 1328224,
+      "word": "5架国产飞机新年组团出国门",
+      "onboard_time": 1708317159,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

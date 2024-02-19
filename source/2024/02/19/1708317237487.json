@@ -1,0 +1,410 @@
+{
+  "runTime": 1708317237487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3461787,
+        "num": 3461787,
+        "word": "女教师被举报出轨高中生未被停职",
+        "onboard_time": 1708312473,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1719930,
+        "num": 1719930,
+        "word": "老凤祥被指清洗手镯故意蹭掉logo",
+        "onboard_time": 1708314517,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6164,
+        "num": 1328224,
+        "word": "5架国产飞机新年组团出国门",
+        "onboard_time": 1708317159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107855,
+        "num": 1107855,
+        "word": "教育局回应女教师被举报出轨学生",
+        "onboard_time": 1708314215,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1095242,
+        "num": 1095242,
+        "word": "人民日报点评王鹤棣全明星赛",
+        "onboard_time": 1708314937,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 901203,
+        "num": 901203,
+        "word": "格力集团迎来新董事长",
+        "onboard_time": 1708306532,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 898288,
+        "num": 898288,
+        "word": "LV中国涨价",
+        "onboard_time": 1708313552,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 817398,
+        "num": 817398,
+        "word": "山姆回应三文鱼不再标注开袋即食",
+        "onboard_time": 1708314034,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 779205,
+        "num": 779205,
+        "word": "小城市为什么越来越多咖啡馆",
+        "onboard_time": 1708314034,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 710294,
+        "num": 710294,
+        "word": "李思思复工",
+        "onboard_time": 1708311213,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679806,
+        "num": 679806,
+        "word": "胖东来未按标准试吃员工已不再开除",
+        "onboard_time": 1708307248,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663720,
+        "num": 663720,
+        "word": "比亚迪降价",
+        "onboard_time": 1708309651,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13747,
+        "num": 657759,
+        "word": "新春第一会为啥聚焦人才",
+        "onboard_time": 1708263876,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653562,
+        "num": 653562,
+        "word": "吴尊评论",
+        "onboard_time": 1708305271,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 516210,
+        "num": 516210,
+        "word": "大理寺少卿游定档",
+        "onboard_time": 1708310857,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505709,
+        "num": 505709,
+        "word": "车厘子到底是不是大号樱桃",
+        "onboard_time": 1708303414,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 457085,
+        "num": 457085,
+        "word": "山东人的炸藕盒开始长毛了",
+        "onboard_time": 1708314215,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454443,
+        "num": 454443,
+        "word": "iPhone16Pro高清渲染图",
+        "onboard_time": 1708301971,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 387800,
+        "num": 387800,
+        "word": "贾玲 优秀的项目负责人",
+        "onboard_time": 1708314273,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65304,
+        "num": 385325,
+        "word": "春节假期国内游4.74亿人次",
+        "onboard_time": 1708264714,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460556,
+        "num": 360797,
+        "word": "感觉这个弟弟快要碎了",
+        "onboard_time": 1708314034,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423991,
+        "num": 352685,
+        "word": "赵露思性感辣妹妆",
+        "onboard_time": 1708314813,
+        "rank": 21,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 84162,
+        "num": 333064,
+        "word": "公路高铁3月1日即将进站",
+        "onboard_time": 1708314453,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330523,
+        "num": 330523,
+        "word": "吴尊感谢昆凌给的霉霉演唱会门票",
+        "onboard_time": 1708267713,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151849,
+        "num": 319138,
+        "word": "小米14Ultra进光量超苹果100%",
+        "onboard_time": 1708314153,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 313700,
+        "num": 313700,
+        "word": "卜凡山东话算卦还倒贴99",
+        "onboard_time": 1708315777,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286625,
+        "num": 286625,
+        "word": "NBA全明星得分首次破200",
+        "onboard_time": 1708316435,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280629,
+        "num": 280629,
+        "word": "王鹤棣与詹姆斯见面",
+        "onboard_time": 1708307672,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 267881,
+        "num": 267881,
+        "word": "贵州山火",
+        "onboard_time": 1708310857,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267837,
+        "num": 267837,
+        "word": "人民网评农村出现以家庭为单位断亲",
+        "onboard_time": 1708310312,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242189,
+        "num": 242189,
+        "word": "自热火锅为什么失宠了",
+        "onboard_time": 1708306232,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237897,
+        "num": 237897,
+        "word": "全国温差90度",
+        "onboard_time": 1708308873,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221191,
+        "num": 221191,
+        "word": "周杰伦 我只看我想看的",
+        "onboard_time": 1708267176,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208476,
+        "num": 208476,
+        "word": "原谅就是背刺小时候哭泣的自己",
+        "onboard_time": 1708316799,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206955,
+        "num": 206955,
+        "word": "徐冬冬的戒指好大",
+        "onboard_time": 1708309831,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205071,
+        "num": 205071,
+        "word": "利拉德全明星MVP",
+        "onboard_time": 1708316318,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177760,
+        "num": 177760,
+        "word": "苏醒半个娱乐圈的人脉终于用上了",
+        "onboard_time": 1708304194,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173978,
+        "num": 173978,
+        "word": "利拉德39分",
+        "onboard_time": 1708316435,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171508,
+        "num": 171508,
+        "word": "窝囊废文学成为全新流行趋势",
+        "onboard_time": 1708315598,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59665,
+        "num": 167885,
+        "word": "贵州毕节山火扑救仍在继续",
+        "onboard_time": 1708310552,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167682,
+        "num": 167682,
+        "word": "王鹤棣晒詹姆斯签名球衣",
+        "onboard_time": 1708310312,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 166880,
+        "num": 166880,
+        "word": "东部全明星战胜西部全明星",
+        "onboard_time": 1708316736,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166462,
+        "num": 166462,
+        "word": "人民选择奖",
+        "onboard_time": 1708316918,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165913,
+        "num": 165913,
+        "word": "仙台有树杀青",
+        "onboard_time": 1708311272,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "詹姆斯戴皇冠出场",
+        "onboard_time": 1708316017,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158512,
+        "num": 158512,
+        "word": "27岁了好像还没成为合格的大人",
+        "onboard_time": 1708304133,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149919,
+        "num": 149919,
+        "word": "张元英美照",
+        "onboard_time": 1708307971,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147563,
+        "num": 147563,
+        "word": "没想到相亲相到了初恋",
+        "onboard_time": 1708304133,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147522,
+        "num": 147522,
+        "word": "胖东来重新决议尝面事件",
+        "onboard_time": 1708309052,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143090,
+        "num": 143090,
+        "word": "投资者50万买基金亏30%起诉代销行",
+        "onboard_time": 1708309772,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}

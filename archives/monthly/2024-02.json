@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708316438634,
+  "endTime": 1708317237487,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -419,8 +419,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3446954,
-      "num": 3446954,
+      "raw_hot": 3461787,
+      "num": 3461787,
       "word": "女教师被举报出轨高中生未被停职",
       "onboard_time": 1708312473,
       "rank": 30,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1708084413,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1719930,
+      "num": 1719930,
+      "word": "老凤祥被指清洗手镯故意蹭掉logo",
+      "onboard_time": 1708314517,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1716207,
@@ -4059,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1149959,
-      "num": 769811,
-      "word": "老凤祥被指清洗手镯故意蹭掉logo",
-      "onboard_time": 1708314517,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1148953,
       "num": 1148953,
       "word": "演员王东回应妻子在救助站过年",
@@ -4497,6 +4497,14 @@
       "onboard_time": 1707366390,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1095242,
+      "num": 1095242,
+      "word": "人民日报点评王鹤棣全明星赛",
+      "onboard_time": 1708314937,
+      "rank": 5,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1094682,
@@ -5827,14 +5835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 912233,
-      "num": 912233,
-      "word": "人民日报点评王鹤棣全明星赛",
-      "onboard_time": 1708314937,
-      "rank": 5,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 910642,
       "num": 910642,
       "word": "36岁的释小龙",
@@ -6803,6 +6803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 817398,
+      "num": 817398,
+      "word": "山姆回应三文鱼不再标注开袋即食",
+      "onboard_time": 1708314034,
+      "rank": 6,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 817049,
       "num": 817049,
       "word": "劝人多睡的医生自己在熬夜",
@@ -6897,14 +6905,6 @@
       "onboard_time": 1707972932,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811669,
-      "num": 811669,
-      "word": "山姆回应三文鱼不再标注开袋即食",
-      "onboard_time": 1708314034,
-      "rank": 6,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 811119,
@@ -7409,6 +7409,14 @@
       "onboard_time": 1708307672,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 779205,
+      "num": 779205,
+      "word": "小城市为什么越来越多咖啡馆",
+      "onboard_time": 1708314034,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 777578,
@@ -8969,14 +8977,6 @@
       "onboard_time": 1707277830,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 675480,
-      "num": 675480,
-      "word": "小城市为什么越来越多咖啡馆",
-      "onboard_time": 1708314034,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 674800,
@@ -13907,6 +13907,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 460556,
+      "num": 370019,
+      "word": "感觉这个弟弟快要碎了",
+      "onboard_time": 1708314034,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460486,
       "num": 460486,
       "word": "男子套圈套中十几只大鹅引热议",
@@ -14025,14 +14033,6 @@
       "onboard_time": 1707568419,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 455710,
-      "num": 370019,
-      "word": "感觉这个弟弟快要碎了",
-      "onboard_time": 1708314034,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 455428,
@@ -16355,6 +16355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387800,
+      "num": 387800,
+      "word": "贾玲 优秀的项目负责人",
+      "onboard_time": 1708314273,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387518,
       "num": 387518,
       "word": "程潇琉璃龙女妆",
@@ -16945,14 +16953,6 @@
       "onboard_time": 1708067310,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 373488,
-      "num": 373488,
-      "word": "贾玲 优秀的项目负责人",
-      "onboard_time": 1708314273,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 373127,
@@ -19531,6 +19531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313700,
+      "num": 313700,
+      "word": "卜凡山东话算卦还倒贴99",
+      "onboard_time": 1708315777,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313425,
       "num": 313425,
       "word": "一家4口回老家过年住酒店不住家",
@@ -21121,6 +21129,14 @@
       "onboard_time": 1706868811,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286625,
+      "num": 286625,
+      "word": "NBA全明星得分首次破200",
+      "onboard_time": 1708316435,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 286543,
@@ -24377,14 +24393,6 @@
       "onboard_time": 1707228156,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242592,
-      "num": 242592,
-      "word": "卜凡山东话算卦还倒贴99",
-      "onboard_time": 1708315777,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 242391,
@@ -28259,6 +28267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208476,
+      "num": 208476,
+      "word": "原谅就是背刺小时候哭泣的自己",
+      "onboard_time": 1708316799,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208418,
       "num": 208418,
       "word": "seventeen特典",
@@ -28889,6 +28905,14 @@
       "onboard_time": 1706875292,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205071,
+      "num": 205071,
+      "word": "利拉德全明星MVP",
+      "onboard_time": 1708316318,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 204989,
@@ -34371,6 +34395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173978,
+      "num": 173978,
+      "word": "利拉德39分",
+      "onboard_time": 1708316435,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173977,
       "num": 173977,
       "word": "Letme回应RNG输给iG",
@@ -34761,6 +34793,14 @@
       "onboard_time": 1707540277,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171508,
+      "num": 171508,
+      "word": "窝囊废文学成为全新流行趋势",
+      "onboard_time": 1708315598,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 171191,
@@ -35667,6 +35707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166880,
+      "num": 166880,
+      "word": "东部全明星战胜西部全明星",
+      "onboard_time": 1708316736,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166851,
       "num": 166851,
       "word": "唐毅新手眼妆教学",
@@ -35777,6 +35825,14 @@
       "onboard_time": 1707233253,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "人民选择奖",
+      "onboard_time": 1708316918,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166440,
@@ -36833,14 +36889,6 @@
       "onboard_time": 1707556655,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160882,
-      "num": 160882,
-      "word": "利拉德全明星MVP",
-      "onboard_time": 1708316318,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 160841,
@@ -38363,6 +38411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151849,
+      "num": 410260,
+      "word": "小米14Ultra进光量超苹果100%",
+      "onboard_time": 1708314153,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151832,
       "num": 151832,
       "word": "胡锡进谈OpenAI Sora",
@@ -39459,14 +39515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146254,
-      "num": 146254,
-      "word": "窝囊废文学成为全新流行趋势",
-      "onboard_time": 1708315598,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146247,
       "num": 146247,
       "word": "口蘑鲜汤面",
@@ -39921,14 +39969,6 @@
       "onboard_time": 1707265770,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144129,
-      "num": 410260,
-      "word": "小米14Ultra进光量超苹果100%",
-      "onboard_time": 1708314153,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 144038,
@@ -51377,6 +51417,14 @@
       "onboard_time": 1707292290,
       "rank": 26,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 6164,
+      "num": 1328224,
+      "word": "5架国产飞机新年组团出国门",
+      "onboard_time": 1708317159,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4833,
