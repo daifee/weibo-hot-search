@@ -1,0 +1,410 @@
+{
+  "runTime": 1708306341618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600731,
+        "num": 1600731,
+        "word": "iPhone16Pro高清渲染图",
+        "onboard_time": 1708301971,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1413149,
+        "num": 1413149,
+        "word": "雨水",
+        "onboard_time": 1708298605,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137439,
+        "num": 1244721,
+        "word": "春节假期国内游4.74亿人次",
+        "onboard_time": 1708264714,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223193,
+        "num": 1223193,
+        "word": "苏醒半个娱乐圈的人脉终于用上了",
+        "onboard_time": 1708304194,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 986623,
+        "num": 986623,
+        "word": "复工第一天在出租屋哭了很久",
+        "onboard_time": 1708300351,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 695893,
+        "num": 695893,
+        "word": "武汉中小学延迟开学",
+        "onboard_time": 1708297401,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654017,
+        "num": 654017,
+        "word": "吴尊感谢昆凌给的霉霉演唱会门票",
+        "onboard_time": 1708267713,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 653883,
+        "num": 653883,
+        "word": "车厘子到底是不是大号樱桃",
+        "onboard_time": 1708303414,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 595646,
+        "num": 595646,
+        "word": "原子弹爆炸后她架机2次冲向蘑菇云",
+        "onboard_time": 1708303414,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424209,
+        "num": 424209,
+        "word": "成都一家三口共花不到两千离开海南",
+        "onboard_time": 1708269157,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534367,
+        "num": 419947,
+        "word": "官方回应与傅园慧经历相似却维权失败",
+        "onboard_time": 1708305033,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 557725,
+        "num": 419929,
+        "word": "吴尊评论",
+        "onboard_time": 1708305271,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400482,
+        "num": 400482,
+        "word": "杭州紫萱因为贾玲爱上拳击",
+        "onboard_time": 1708299387,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396478,
+        "num": 396478,
+        "word": "曹县卖了3亿的马面裙依然供不应求",
+        "onboard_time": 1708265195,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 393705,
+        "num": 393705,
+        "word": "周杰伦 我只看我想看的",
+        "onboard_time": 1708267176,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373628,
+        "num": 373628,
+        "word": "尹正 五年前钢管舞五年后原地杵",
+        "onboard_time": 1708302211,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369802,
+        "num": 369802,
+        "word": "Jennie薄纱褶皱黑裙",
+        "onboard_time": 1708303292,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327816,
+        "num": 327816,
+        "word": "巴西总统称以色列实施种族灭绝",
+        "onboard_time": 1708301792,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 304085,
+        "num": 304085,
+        "word": "大过年的 离婚AA制",
+        "onboard_time": 1708268018,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297927,
+        "num": 297927,
+        "word": "陈靖可 内娱又多了一位百灵鸟",
+        "onboard_time": 1708301012,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415277,
+        "num": 295822,
+        "word": "27岁了好像还没成为合格的大人",
+        "onboard_time": 1708304133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305488,
+        "num": 294958,
+        "word": "没想到相亲相到了初恋",
+        "onboard_time": 1708304133,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290752,
+        "num": 290752,
+        "word": "秒睡小技巧",
+        "onboard_time": 1708305455,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283427,
+        "num": 283427,
+        "word": "第一拨靠Sora赚钱的人已经出现了",
+        "onboard_time": 1708263515,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272829,
+        "num": 272829,
+        "word": "世锦赛中国队23金8银2铜收官",
+        "onboard_time": 1708303833,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252998,
+        "num": 252998,
+        "word": "经常请吃饭的善良阿姨",
+        "onboard_time": 1708303173,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239904,
+        "num": 239904,
+        "word": "沈腾 素材给了剩下的你们发挥",
+        "onboard_time": 1708303355,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232514,
+        "num": 232514,
+        "word": "有一种不健康的习惯叫穷思竭虑",
+        "onboard_time": 1708301670,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239325,
+        "num": 231368,
+        "word": "范丞丞 你们别告诉腾哥",
+        "onboard_time": 1708268857,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215939,
+        "num": 215939,
+        "word": "95后男生钟楼摆摊拍照3天赚1800",
+        "onboard_time": 1708288636,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101730,
+        "num": 210889,
+        "word": "太古里牵手门女当事人直播间被封",
+        "onboard_time": 1708268977,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204865,
+        "num": 204865,
+        "word": "巴音布鲁克之王",
+        "onboard_time": 1708264475,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201164,
+        "num": 201164,
+        "word": "白敬亭工作人员说魏大勋掉扇子",
+        "onboard_time": 1708242575,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194745,
+        "num": 194745,
+        "word": "前女友爆料卜凡的狗被毒死",
+        "onboard_time": 1708268494,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180791,
+        "num": 180791,
+        "word": "一女子在银行着急办业务跪求他人换号无人同意",
+        "onboard_time": 1708264295,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177107,
+        "num": 177107,
+        "word": "感觉开放式工位真的很窒息",
+        "onboard_time": 1708266874,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173089,
+        "num": 173089,
+        "word": "詹姆斯不确定是否举办退役巡演",
+        "onboard_time": 1708302152,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164841,
+        "num": 164841,
+        "word": "野狼看到无人机秒变二哈",
+        "onboard_time": 1708306232,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 160693,
+        "word": "王者新英雄大司命",
+        "onboard_time": 1708301670,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150157,
+        "num": 150157,
+        "word": "Wendy将3月12日回归",
+        "onboard_time": 1708305933,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149467,
+        "num": 149467,
+        "word": "大年初十",
+        "onboard_time": 1708304133,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146612,
+        "num": 146612,
+        "word": "赵今麦对小果的爱仅自己可见",
+        "onboard_time": 1708305631,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142268,
+        "num": 142268,
+        "word": "秦朗舅舅",
+        "onboard_time": 1708262796,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136190,
+        "num": 136190,
+        "word": "热辣滚烫到底提前策划了多少物料",
+        "onboard_time": 1708257453,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135388,
+        "num": 135388,
+        "word": "自热火锅为什么失宠了",
+        "onboard_time": 1708306232,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131056,
+        "num": 131056,
+        "word": "收拾行李时猫在干嘛",
+        "onboard_time": 1708305873,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124949,
+        "num": 124949,
+        "word": "摔跤吧爸爸主演发文悼念",
+        "onboard_time": 1708276643,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124787,
+        "num": 124787,
+        "word": "神十七乘组在太空家园过春节",
+        "onboard_time": 1708305933,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124609,
+        "num": 124609,
+        "word": "相亲遇到美颜过度的男生",
+        "onboard_time": 1708264475,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124525,
+        "num": 124525,
+        "word": "EDG阵容",
+        "onboard_time": 1708302452,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}
