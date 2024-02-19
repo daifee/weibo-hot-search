@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708310069203,
+  "endTime": 1708312705528,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1572865,
+      "num": 1572865,
+      "word": "胖东来未按标准试吃员工已不再开除",
+      "onboard_time": 1708307248,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1500864,
       "num": 1348556,
       "word": "为什么卫生巾广告用蓝色液体",
@@ -203,20 +211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1409448,
-      "num": 1409448,
-      "word": "胖东来未按标准试吃员工已不再开除",
-      "onboard_time": 1708307248,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1363531,
       "num": 1363531,
       "word": "正式确诊为魏晨",
       "onboard_time": 1708254515,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1336598,
+      "num": 1336598,
+      "word": "李思思复工",
+      "onboard_time": 1708311213,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1292108,
@@ -265,6 +273,14 @@
       "onboard_time": 1708247134,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1238239,
+      "num": 1238239,
+      "word": "比亚迪降价",
+      "onboard_time": 1708309651,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 1231981,
@@ -371,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058216,
+      "num": 1058216,
+      "word": "大理寺少卿游定档",
+      "onboard_time": 1708310857,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 991147,
       "num": 991147,
       "word": "薛之谦 你们人类有两幅面孔",
       "onboard_time": 1708242394,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 977207,
+      "num": 977207,
+      "word": "贵州山火",
+      "onboard_time": 1708310857,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 966762,
@@ -657,6 +689,14 @@
       "onboard_time": 1708253554,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 665520,
+      "num": 665520,
+      "word": "胖东来重新决议尝面事件",
+      "onboard_time": 1708309052,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663146,
@@ -1019,6 +1059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 482689,
+      "num": 482689,
+      "word": "徐冬冬的戒指好大",
+      "onboard_time": 1708309831,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "开工大吉",
@@ -1219,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 404344,
+      "num": 404344,
+      "word": "全国温差90度",
+      "onboard_time": 1708308873,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400946,
       "num": 400946,
       "word": "上班第一天确诊节后综合征",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1708254632,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376203,
+      "num": 376203,
+      "word": "人民网评农村出现以家庭为单位断亲",
+      "onboard_time": 1708310312,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375844,
@@ -1491,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321625,
+      "num": 321625,
+      "word": "仙台有树杀青",
+      "onboard_time": 1708311272,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321261,
       "num": 321261,
       "word": "沙尘暴",
@@ -1619,6 +1691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297145,
+      "num": 297145,
+      "word": "恋与深空徽章",
+      "onboard_time": 1708310370,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295019,
       "num": 244345,
       "word": "如果杜乐莹没有离开昊坤",
@@ -1651,14 +1731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290093,
-      "num": 290093,
-      "word": "比亚迪降价",
-      "onboard_time": 1708309651,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 288252,
       "num": 288252,
       "word": "韩天宇被PEN",
@@ -1688,6 +1760,14 @@
       "word": "小镇超市为何能开20年",
       "onboard_time": 1708219652,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284739,
+      "num": 217422,
+      "word": "女教师被举报出轨高中生未被停职",
+      "onboard_time": 1708312473,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1763,20 +1843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272174,
+      "num": 272174,
+      "word": "朱正廷烧麦判官",
+      "onboard_time": 1708311452,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272047,
       "num": 272047,
       "word": "电影票背面规定了不能盗摄",
       "onboard_time": 1708178074,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 269831,
-      "num": 269831,
-      "word": "胖东来重新决议尝面事件",
-      "onboard_time": 1708309052,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269093,
@@ -1883,6 +1963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 256701,
+      "num": 256701,
+      "word": "贵州毕节山火扑救仍在继续",
+      "onboard_time": 1708310552,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253743,
       "num": 249928,
       "word": "要带女朋友回家 家人的极限操作",
@@ -1963,6 +2051,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 247291,
+      "num": 247291,
+      "word": "李勤勤发文回应收养周海媚爱犬",
+      "onboard_time": 1708310492,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245703,
       "num": 245703,
       "word": "自热火锅为何不火了",
@@ -1993,6 +2089,14 @@
       "onboard_time": 1708217251,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243948,
+      "num": 243948,
+      "word": "投资者50万买基金亏30%起诉代销行",
+      "onboard_time": 1708309772,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 241550,
@@ -2041,14 +2145,6 @@
       "onboard_time": 1708246416,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235990,
-      "num": 235990,
-      "word": "全国温差90度",
-      "onboard_time": 1708308873,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234932,
@@ -2193,6 +2289,14 @@
       "onboard_time": 1708306532,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 219176,
+      "num": 219176,
+      "word": "有没有人救救朱正廷",
+      "onboard_time": 1708310730,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 218454,
@@ -2441,6 +2545,14 @@
       "onboard_time": 1708257092,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196626,
+      "num": 176899,
+      "word": "王鹤棣晒詹姆斯签名球衣",
+      "onboard_time": 1708310312,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 196537,
@@ -2731,6 +2843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176950,
+      "num": 176950,
+      "word": "官方通报贵州山火",
+      "onboard_time": 1708312531,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176920,
       "num": 176920,
       "word": "上班摸鱼最好选上午",
@@ -2771,6 +2891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171999,
+      "num": 171999,
+      "word": "Sora",
+      "onboard_time": 1708179217,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 171581,
       "num": 171581,
       "word": "影响非常严重体",
@@ -2801,6 +2929,14 @@
       "onboard_time": 1708249895,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 169613,
+      "num": 324013,
+      "word": "7.98万的比亚迪让燃油车慌了",
+      "onboard_time": 1708310492,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 168202,
@@ -2931,14 +3067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161425,
-      "num": 161425,
-      "word": "徐冬冬的戒指好大",
-      "onboard_time": 1708309831,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161387,
       "num": 161387,
       "word": "开工利是",
@@ -3051,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151630,
+      "num": 151630,
+      "word": "胡先煦拍的丁达尔效应",
+      "onboard_time": 1708309711,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151487,
       "num": 151487,
       "word": "小米北京昌平智能工厂正式落成投产",
@@ -3113,6 +3249,14 @@
       "onboard_time": 1708213886,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148316,
+      "num": 148316,
+      "word": "杨鸣分享创造辽篮奇迹的关键",
+      "onboard_time": 1708311573,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 146612,
@@ -3291,22 +3435,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132802,
-      "num": 132802,
-      "word": "胡先煦拍的丁达尔效应",
-      "onboard_time": 1708309711,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 131622,
-      "num": 131622,
-      "word": "投资者50万买基金亏30%起诉代销行",
-      "onboard_time": 1708309772,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131056,
       "num": 131056,
       "word": "收拾行李时猫在干嘛",
@@ -3345,6 +3473,14 @@
       "onboard_time": 1708305933,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123138,
+      "num": 123138,
+      "word": "在狗狗的眼神中看到了担心",
+      "onboard_time": 1708312594,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 122542,
@@ -3465,14 +3601,6 @@
       "onboard_time": 1708235854,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106289,
-      "num": 106289,
-      "word": "Sora",
-      "onboard_time": 1708179217,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 104893,
@@ -3611,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54373,
+      "num": 413439,
+      "word": "余承东是懂时尚的",
+      "onboard_time": 1708309951,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53813,
       "num": 1723992,
       "word": "感受祖国各地的新春新事",
@@ -3641,14 +3777,6 @@
       "onboard_time": 1708210940,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 46908,
-      "num": 125045,
-      "word": "余承东是懂时尚的",
-      "onboard_time": 1708309951,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 46828,
