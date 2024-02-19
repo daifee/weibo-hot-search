@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708348747049,
+  "endTime": 1708349642197,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -9,6 +9,14 @@
       "onboard_time": 1708328198,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10181886,
+      "num": 10181886,
+      "word": "梅西回应",
+      "onboard_time": 1708348178,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 8720278,
@@ -27,14 +35,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 4058932,
-      "num": 4058932,
-      "word": "梅西回应",
-      "onboard_time": 1708348178,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3461787,
       "num": 3461787,
       "word": "女教师被举报出轨高中生未被停职",
@@ -49,6 +49,14 @@
       "onboard_time": 1708325438,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2671275,
+      "num": 870166,
+      "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
+      "onboard_time": 1708347699,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2670562,
@@ -105,14 +113,6 @@
       "onboard_time": 1708336419,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1982628,
-      "num": 848465,
-      "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
-      "onboard_time": 1708347699,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1972023,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886817,
+      "num": 886817,
+      "word": "梅西说对中国球迷有特殊感情",
+      "onboard_time": 1708348420,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 861109,
       "num": 861109,
       "word": "周杰伦 我只看我想看的",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671966,
+      "num": 671966,
+      "word": "上海梅西",
+      "onboard_time": 1708349265,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 668032,
       "num": 668032,
       "word": "吴尊感谢昆凌给的霉霉演唱会门票",
@@ -473,6 +489,14 @@
       "onboard_time": 1708345899,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 621967,
+      "num": 621967,
+      "word": "内娱有自己的纯元皇后",
+      "onboard_time": 1708348005,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 619099,
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459400,
-      "num": 459400,
-      "word": "梅西说对中国球迷有特殊感情",
-      "onboard_time": 1708348420,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 451105,
       "num": 754036,
       "word": "女生撸铁一年半穿婚纱秀肱二头肌",
@@ -867,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389339,
+      "num": 389339,
+      "word": "孙艺洲 演傻子怎么还有统治区",
+      "onboard_time": 1708349265,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387800,
       "num": 387800,
       "word": "贾玲 优秀的项目负责人",
@@ -945,14 +969,6 @@
       "onboard_time": 1708303414,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 351973,
-      "num": 351973,
-      "word": "内娱有自己的纯元皇后",
-      "onboard_time": 1708348005,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 351214,
@@ -1291,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263360,
+      "num": 263360,
+      "word": "WE战胜EDG",
+      "onboard_time": 1708349625,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262375,
       "num": 262375,
       "word": "正式确诊为魏晨",
@@ -1312,6 +1336,14 @@
       "word": "吴尊 公关票也会放价格",
       "onboard_time": 1708333480,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257133,
+      "num": 257133,
+      "word": "杨幂祝黄明昊郭采洁生日快乐",
+      "onboard_time": 1708348784,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1865,6 +1897,14 @@
       "onboard_time": 1708335576,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179319,
+      "num": 179319,
+      "word": "华莱士 出餐",
+      "onboard_time": 1708349502,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 178626,
