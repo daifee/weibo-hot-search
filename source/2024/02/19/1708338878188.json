@@ -1,0 +1,410 @@
+{
+  "runTime": 1708338878188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8145287,
+        "num": 8145287,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2031252,
+        "num": 2031252,
+        "word": "周杰伦 有狗还在吠代表你还是行的",
+        "onboard_time": 1708336419,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179340,
+        "num": 1411045,
+        "word": "一条微博总结春节假期",
+        "onboard_time": 1708335576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180717,
+        "num": 1180717,
+        "word": "妈妈一怒之下撤回了一个弟弟",
+        "onboard_time": 1708330121,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 889555,
+        "num": 889555,
+        "word": "刘雨欣家被偷空",
+        "onboard_time": 1708325438,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842667,
+        "num": 842667,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 636280,
+        "num": 636280,
+        "word": "寒假作业落巴黎事件舅舅账号被禁",
+        "onboard_time": 1708331623,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518474,
+        "num": 518474,
+        "word": "徐志胜的经纪人是庞博",
+        "onboard_time": 1708331560,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127054,
+        "num": 517031,
+        "word": "这一刻姥姥也在想念她的孩子吧",
+        "onboard_time": 1708333300,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434115,
+        "num": 515839,
+        "word": "女生撸铁一年半穿婚纱秀肱二头肌",
+        "onboard_time": 1708336235,
+        "rank": 9,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 1660430,
+        "num": 513571,
+        "word": "胡夏 爱你的事当做秘密",
+        "onboard_time": 1708336358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1443229,
+        "num": 509625,
+        "word": "已暂停被举报出轨学生女教师工作",
+        "onboard_time": 1708319436,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509512,
+        "num": 509512,
+        "word": "马思纯称160斤时曾自卑到谷底",
+        "onboard_time": 1708336306,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450382,
+        "num": 450382,
+        "word": "女子5楼新房被6楼邻居给装修了",
+        "onboard_time": 1708333300,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432191,
+        "num": 432191,
+        "word": "贾静雯回应女儿梧桐妹戴唇环舌环",
+        "onboard_time": 1708338101,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401324,
+        "num": 401324,
+        "word": "为什么上班久了容易抑郁",
+        "onboard_time": 1708337320,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387637,
+        "num": 387637,
+        "word": "男子曝妻子虐待婆婆致死",
+        "onboard_time": 1708321534,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368979,
+        "num": 368979,
+        "word": "比亚迪价格",
+        "onboard_time": 1708333660,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362866,
+        "num": 362866,
+        "word": "张颂文狂飙后首部电视剧",
+        "onboard_time": 1708331200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346632,
+        "num": 346632,
+        "word": "警方通报女网红在海底捞做不雅行为",
+        "onboard_time": 1708324598,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564766,
+        "num": 334824,
+        "word": "你吃过鲍师傅吗",
+        "onboard_time": 1708333779,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 474041,
+        "num": 332404,
+        "word": "鲍师傅门店回应把龙拼成dargon",
+        "onboard_time": 1708334739,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 435756,
+        "num": 317528,
+        "word": "女子离婚冷静期第13天倒在丈夫刀下",
+        "onboard_time": 1708337378,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301021,
+        "num": 301021,
+        "word": "赵小童 机场",
+        "onboard_time": 1708336478,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282405,
+        "num": 282405,
+        "word": "纪委回应男子举报妻子与副镇长非法同居",
+        "onboard_time": 1708335522,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264104,
+        "num": 264104,
+        "word": "李昊直播",
+        "onboard_time": 1708335278,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251375,
+        "num": 251375,
+        "word": "徐冬冬婚礼喝椰汁",
+        "onboard_time": 1708321716,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248588,
+        "num": 248588,
+        "word": "LESSERAFIM空降",
+        "onboard_time": 1708337861,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244445,
+        "num": 244445,
+        "word": "颜宁",
+        "onboard_time": 1708326635,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241940,
+        "num": 241940,
+        "word": "种地吧",
+        "onboard_time": 1708328379,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233840,
+        "num": 233840,
+        "word": "17岁女孩误喝防冻液致多器官衰竭",
+        "onboard_time": 1708326097,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232820,
+        "num": 232820,
+        "word": "国台办再就渔船遇难事件发声",
+        "onboard_time": 1708337256,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217964,
+        "num": 217964,
+        "word": "同事用了一个多月的极简水杯",
+        "onboard_time": 1708330181,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215501,
+        "num": 215501,
+        "word": "韩网热议许允真回归造型",
+        "onboard_time": 1708336119,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203434,
+        "num": 203434,
+        "word": "韩国研发出粉红色牛肉大米",
+        "onboard_time": 1708334200,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 38424,
+        "num": 197640,
+        "word": "电车比油车价格还低了",
+        "onboard_time": 1708338282,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195441,
+        "num": 195441,
+        "word": "官方回应傅园慧求助2小时解决",
+        "onboard_time": 1708338518,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190505,
+        "num": 190505,
+        "word": "爱发疯的打工人工位长这样",
+        "onboard_time": 1708336539,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186516,
+        "num": 186516,
+        "word": "西虹市首富或将按原剧本重拍",
+        "onboard_time": 1708319493,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183448,
+        "num": 183448,
+        "word": "范丞丞夏梦 新剧",
+        "onboard_time": 1708333480,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168911,
+        "num": 168911,
+        "word": "韦世豪 成都",
+        "onboard_time": 1708336959,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166805,
+        "num": 166805,
+        "word": "胖东来",
+        "onboard_time": 1708333961,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157545,
+        "num": 157545,
+        "word": "痛经喝煎荷包蛋冲红米酒做法",
+        "onboard_time": 1708338101,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154508,
+        "num": 154508,
+        "word": "郭敬明和大梦归离再见",
+        "onboard_time": 1708338818,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "小县城买一套房要花10年",
+        "onboard_time": 1708324416,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144420,
+        "num": 144420,
+        "word": "女司机遭抢劫误撞死劫匪被判正当防卫",
+        "onboard_time": 1708328559,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141858,
+        "num": 141858,
+        "word": "吴尊 公关票也会放价格",
+        "onboard_time": 1708333480,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141494,
+        "num": 141494,
+        "word": "甜馨 奇奇怪怪的动物我最喜欢啦",
+        "onboard_time": 1708331140,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139415,
+        "num": 139415,
+        "word": "娱乐圈有自己的少爷和我",
+        "onboard_time": 1708334802,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137393,
+        "num": 137393,
+        "word": "王鹤棣鼻子转球",
+        "onboard_time": 1708333899,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高新闻舆论传播力引导力影响力公信力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708337935622,
+  "endTime": 1708338878188,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1427,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2031252,
+      "num": 2031252,
+      "word": "周杰伦 有狗还在吠代表你还是行的",
+      "onboard_time": 1708336419,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2028313,
       "num": 2028313,
       "word": "武汉暴雪",
@@ -2123,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1682848,
-      "num": 1682848,
-      "word": "周杰伦 有狗还在吠代表你还是行的",
-      "onboard_time": 1708336419,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1679212,
       "num": 1679212,
       "word": "白头发可能是身体给你的警报",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1707807815,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1660430,
+      "num": 569595,
+      "word": "胡夏 爱你的事当做秘密",
+      "onboard_time": 1708336358,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1658713,
@@ -2529,14 +2537,6 @@
       "onboard_time": 1706862693,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1535203,
-      "num": 569595,
-      "word": "胡夏 爱你的事当做秘密",
-      "onboard_time": 1708336358,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1534477,
@@ -12763,6 +12763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509512,
+      "num": 509512,
+      "word": "马思纯称160斤时曾自卑到谷底",
+      "onboard_time": 1708336306,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509315,
       "num": 564087,
       "word": "农村大龄男开始迎娶二婚女",
@@ -13257,14 +13265,6 @@
       "onboard_time": 1707905312,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 492267,
-      "num": 492267,
-      "word": "马思纯称160斤时曾自卑到谷底",
-      "onboard_time": 1708336306,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 491345,
@@ -14835,6 +14835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435756,
+      "num": 349713,
+      "word": "女子离婚冷静期第13天倒在丈夫刀下",
+      "onboard_time": 1708337378,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435641,
       "num": 435641,
       "word": "iPhone拍烟花模式",
@@ -14937,6 +14945,14 @@
       "onboard_time": 1707572498,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432191,
+      "num": 432191,
+      "word": "贾静雯回应女儿梧桐妹戴唇环舌环",
+      "onboard_time": 1708338101,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 432182,
@@ -16113,6 +16129,14 @@
       "onboard_time": 1707117093,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401324,
+      "num": 401324,
+      "word": "为什么上班久了容易抑郁",
+      "onboard_time": 1708337320,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 401285,
@@ -17539,14 +17563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366638,
-      "num": 349713,
-      "word": "女子离婚冷静期第13天倒在丈夫刀下",
-      "onboard_time": 1708337378,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366618,
       "num": 591982,
       "word": "8岁萌兰遇到5个月大的自己害羞羞",
@@ -18649,14 +18665,6 @@
       "onboard_time": 1708225295,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340407,
-      "num": 340407,
-      "word": "为什么上班久了容易抑郁",
-      "onboard_time": 1708337320,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 340198,
@@ -24315,6 +24323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248588,
+      "num": 248588,
+      "word": "LESSERAFIM空降",
+      "onboard_time": 1708337861,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248539,
       "num": 248539,
       "word": "春节后上班第一天的状态",
@@ -25889,6 +25905,14 @@
       "onboard_time": 1707210092,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232820,
+      "num": 232820,
+      "word": "国台办再就渔船遇难事件发声",
+      "onboard_time": 1708337256,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232787,
@@ -29011,14 +29035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207530,
-      "num": 207530,
-      "word": "国台办再就渔船遇难事件发声",
-      "onboard_time": 1708337256,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 207344,
       "num": 230677,
       "word": "球迷用中文喊C罗得到回应",
@@ -31299,6 +31315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195441,
+      "num": 195441,
+      "word": "官方回应傅园慧求助2小时解决",
+      "onboard_time": 1708338518,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195365,
       "num": 177633,
       "word": "方圆脸一周不重复发型教程",
@@ -32353,6 +32377,14 @@
       "onboard_time": 1707061592,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190505,
+      "num": 190505,
+      "word": "爱发疯的打工人工位长这样",
+      "onboard_time": 1708336539,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 190464,
@@ -34113,6 +34145,14 @@
       "onboard_time": 1707273392,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179340,
+      "num": 1694903,
+      "word": "一条微博总结春节假期",
+      "onboard_time": 1708335576,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179334,
@@ -36291,14 +36331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167602,
-      "num": 167602,
-      "word": "LESSERAFIM空降",
-      "onboard_time": 1708337861,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167423,
       "num": 183561,
       "word": "扩大部分国家人员免签入境海南事由",
@@ -36515,14 +36547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166527,
-      "num": 1694903,
-      "word": "一条微博总结春节假期",
-      "onboard_time": 1708335576,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166525,
       "num": 166525,
       "word": "球队回应梅西未出席表演赛",
@@ -36641,14 +36665,6 @@
       "onboard_time": 1707748297,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 166037,
-      "num": 166037,
-      "word": "爱发疯的打工人工位长这样",
-      "onboard_time": 1708336539,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 166034,
@@ -38235,6 +38251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157545,
+      "num": 157545,
+      "word": "痛经喝煎荷包蛋冲红米酒做法",
+      "onboard_time": 1708338101,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157544,
       "num": 157544,
       "word": "肖战希望好好工作和多陪家人",
@@ -38753,6 +38777,14 @@
       "onboard_time": 1706777433,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154508,
+      "num": 154508,
+      "word": "郭敬明和大梦归离再见",
+      "onboard_time": 1708338818,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 154487,
@@ -50857,6 +50889,14 @@
       "onboard_time": 1708282337,
       "rank": 40,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 38424,
+      "num": 197640,
+      "word": "电车比油车价格还低了",
+      "onboard_time": 1708338282,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 37959,
