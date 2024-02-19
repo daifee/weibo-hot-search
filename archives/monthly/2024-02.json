@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708359797302,
+  "endTime": 1708360696340,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3803,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1240007,
+      "num": 345365,
+      "word": "女教师",
+      "onboard_time": 1708356936,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1235041,
       "num": 1235041,
       "word": "张颂文 上你个头我要过年",
@@ -4593,14 +4601,6 @@
       "onboard_time": 1707489531,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1107373,
-      "num": 305960,
-      "word": "女教师",
-      "onboard_time": 1708356936,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1106985,
@@ -17827,6 +17827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 367857,
+      "num": 367857,
+      "word": "陈都灵首部古偶女主",
+      "onboard_time": 1708357479,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367817,
       "num": 367817,
       "word": "江苏海安工厂爆炸已致3人死亡2人失联",
@@ -21537,14 +21545,6 @@
       "onboard_time": 1707269069,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292405,
-      "num": 292405,
-      "word": "陈都灵首部古偶女主",
-      "onboard_time": 1708357479,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 292228,
@@ -49073,6 +49073,14 @@
       "onboard_time": 1707064228,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96318,
+      "num": 96318,
+      "word": "这一刻王鹤棣等了14年",
+      "onboard_time": 1708359811,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 96256,

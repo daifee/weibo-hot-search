@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708359797302,
+  "endTime": 1708360696340,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107373,
-      "num": 305960,
+      "raw_hot": 1240007,
+      "num": 345365,
       "word": "女教师",
       "onboard_time": 1708356936,
       "rank": 15,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 870273,
-      "num": 295791,
+      "num": 312769,
       "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
       "onboard_time": 1708354362,
       "rank": 18,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367857,
+      "num": 367857,
+      "word": "陈都灵首部古偶女主",
+      "onboard_time": 1708357479,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359201,
       "num": 359201,
       "word": "白鹿和替身合照",
@@ -131,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330323,
+      "num": 330323,
+      "word": "贾玲怕拍戏打扰群众上门发礼物",
+      "onboard_time": 1708351065,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323285,
       "num": 323285,
       "word": "邓为秒删",
       "onboard_time": 1708327598,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 308237,
-      "num": 308237,
-      "word": "贾玲怕拍戏打扰群众上门发礼物",
-      "onboard_time": 1708351065,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 300518,
@@ -163,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292405,
-      "num": 292405,
-      "word": "陈都灵首部古偶女主",
-      "onboard_time": 1708357479,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283057,
       "num": 283057,
       "word": "梅西 双手插兜",
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250487,
+      "num": 250487,
+      "word": "东方甄选报警",
+      "onboard_time": 1708350882,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249736,
       "num": 249736,
       "word": "热辣滚烫进入中国影史票房TOP20",
@@ -201,14 +209,6 @@
       "onboard_time": 1708341398,
       "rank": 25,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 232327,
-      "num": 232327,
-      "word": "东方甄选报警",
-      "onboard_time": 1708350882,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 217853,
@@ -385,6 +385,14 @@
       "onboard_time": 1708351065,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96318,
+      "num": 96318,
+      "word": "这一刻王鹤棣等了14年",
+      "onboard_time": 1708359811,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 93339,
