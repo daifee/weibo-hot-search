@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708327056887,
+  "endTime": 1708328040190,
   "band_list": [
     {
       "raw_hot": 8720278,
@@ -243,12 +243,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 766083,
+      "num": 442860,
+      "word": "邓为秒删",
+      "onboard_time": 1708327598,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 757862,
       "num": 757862,
       "word": "自热火锅为什么失宠了",
       "onboard_time": 1708306232,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 683380,
+      "num": 683380,
+      "word": "17岁女孩误喝防冻液致多器官衰竭",
+      "onboard_time": 1708326097,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673563,
@@ -312,6 +328,14 @@
       "word": "尹正 五年前钢管舞五年后原地杵",
       "onboard_time": 1708302211,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 572790,
+      "num": 572790,
+      "word": "颜宁",
+      "onboard_time": 1708326635,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -427,6 +451,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 426760,
+      "num": 192336,
+      "word": "小县城买一套房要花10年",
+      "onboard_time": 1708324416,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426520,
+      "num": 426520,
+      "word": "北京一老破小2%份额变卖2.62万元",
+      "onboard_time": 1708324536,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417916,
       "num": 417916,
       "word": "范丞丞 你们别告诉腾哥",
@@ -451,28 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 397266,
-      "num": 280480,
-      "word": "北京一老破小2%份额变卖2.62万元",
-      "onboard_time": 1708324536,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394354,
       "num": 394354,
       "word": "第一拨靠Sora赚钱的人已经出现了",
       "onboard_time": 1708263515,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 394051,
-      "num": 192336,
-      "word": "小县城买一套房要花10年",
-      "onboard_time": 1708324416,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392223,
@@ -497,14 +521,6 @@
       "onboard_time": 1708314273,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 386193,
-      "num": 277661,
-      "word": "17岁女孩误喝防冻液致多器官衰竭",
-      "onboard_time": 1708326097,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381025,
@@ -627,6 +643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 327900,
+      "num": 187797,
+      "word": "猫 我可不想脏了我的白手套",
+      "onboard_time": 1708326397,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324160,
       "num": 324160,
       "word": "仙台有树杀青",
@@ -723,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288955,
+      "num": 189562,
+      "word": "硕士老爸辅导儿子作业气到眼睛漏水",
+      "onboard_time": 1708324416,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286625,
       "num": 286625,
       "word": "NBA全明星得分首次破200",
@@ -731,28 +763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281153,
-      "num": 281153,
-      "word": "颜宁",
-      "onboard_time": 1708326635,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 278331,
       "num": 278331,
       "word": "华为官宣Pocket2发布会",
       "onboard_time": 1708306711,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 273637,
-      "num": 189562,
-      "word": "硕士老爸辅导儿子作业气到眼睛漏水",
-      "onboard_time": 1708324416,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272829,
@@ -769,14 +785,6 @@
       "onboard_time": 1708311452,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271973,
-      "num": 161059,
-      "word": "猫 我可不想脏了我的白手套",
-      "onboard_time": 1708326397,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 271549,
@@ -979,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210502,
+      "num": 210502,
+      "word": "东方甄选回应被指超量使用虾药",
+      "onboard_time": 1708326519,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 210497,
       "num": 210497,
       "word": "严浩翔非我不可剧情版预告",
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 192871,
-      "num": 161029,
+      "num": 163535,
       "word": "恋与深空Q版",
       "onboard_time": 1708326457,
       "rank": 31,
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151222,
+      "num": 151222,
+      "word": "山河大学的意义",
+      "onboard_time": 1708327960,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150157,
       "num": 150157,
       "word": "Wendy将3月12日回归",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1708313310,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 141385,
-      "num": 141385,
-      "word": "东方甄选回应被指超量使用虾药",
-      "onboard_time": 1708326519,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 140220,
@@ -1483,12 +1499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128954,
+      "num": 128954,
+      "word": "民警跳进水库砸窗救出落水司机",
+      "onboard_time": 1708327476,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "aespa美得有点过分了",
       "onboard_time": 1708261594,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125741,
+      "num": 125741,
+      "word": "曝姆巴佩已与皇马签约5年",
+      "onboard_time": 1708327656,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 124787,
@@ -1523,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116623,
+      "num": 116623,
+      "word": "穿礼服也不能阻止贾玲打拳",
+      "onboard_time": 1708327838,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116174,
       "num": 116174,
       "word": "小猫微表情写满了拒绝",
@@ -1553,6 +1593,22 @@
       "onboard_time": 1708262436,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112757,
+      "num": 112757,
+      "word": "孙千解释疯狂的麦姬",
+      "onboard_time": 1708327897,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110425,
+      "num": 110425,
+      "word": "小孩子的语言有多可爱",
+      "onboard_time": 1708327357,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 110163,
@@ -1596,7 +1652,7 @@
     },
     {
       "raw_hot": 102015,
-      "num": 1641684,
+      "num": 1786494,
       "word": "5架国产飞机新年组团出国门",
       "onboard_time": 1708317159,
       "rank": 2,
