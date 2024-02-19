@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708309430494,
+  "endTime": 1708310069203,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1203,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2176359,
+      "num": 2176359,
+      "word": "格力集团迎来新董事长",
+      "onboard_time": 1708306532,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2173930,
       "num": 2173930,
       "word": "梅西爽约突破商业底线",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1708006055,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2053756,
-      "num": 2053756,
-      "word": "格力集团迎来新董事长",
-      "onboard_time": 1708306532,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 2053620,
@@ -2835,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1409448,
+      "num": 1409448,
+      "word": "胖东来未按标准试吃员工已不再开除",
+      "onboard_time": 1708307248,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1409446,
       "num": 1409446,
       "word": "投资人希望郑爽承担千万AI换脸费",
@@ -4144,14 +4152,6 @@
       "word": "买不到返程车票不能按时上班算旷工吗",
       "onboard_time": 1708050812,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1135293,
-      "num": 1135293,
-      "word": "胖东来未按标准试吃员工已不再开除",
-      "onboard_time": 1708307248,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -7323,6 +7323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 779960,
+      "num": 779960,
+      "word": "王鹤棣与詹姆斯见面",
+      "onboard_time": 1708307672,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 777578,
       "num": 777578,
       "word": "孙千 外貌是最不应该去攻击的",
@@ -7393,14 +7401,6 @@
       "onboard_time": 1708216171,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 773969,
-      "num": 773969,
-      "word": "王鹤棣与詹姆斯见面",
-      "onboard_time": 1708307672,
-      "rank": 6,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 773951,
@@ -7577,6 +7577,14 @@
       "onboard_time": 1706839709,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757862,
+      "num": 757862,
+      "word": "自热火锅为什么失宠了",
+      "onboard_time": 1708306232,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 757278,
@@ -10761,14 +10769,6 @@
       "onboard_time": 1707784171,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 575701,
-      "num": 575701,
-      "word": "自热火锅为什么失宠了",
-      "onboard_time": 1708306232,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 575530,
@@ -20739,6 +20739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290093,
+      "num": 290093,
+      "word": "比亚迪降价",
+      "onboard_time": 1708309651,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 289972,
       "num": 289972,
       "word": "岳云鹏春晚的包袱是潘长江写的",
@@ -21467,6 +21475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278331,
+      "num": 278331,
+      "word": "华为官宣Pocket2发布会",
+      "onboard_time": 1708306711,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 278326,
       "num": 255452,
       "word": "回家的行李箱越来越轻了",
@@ -22011,14 +22027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270819,
-      "num": 270819,
-      "word": "华为官宣Pocket2发布会",
-      "onboard_time": 1708306711,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 270733,
       "num": 270733,
       "word": "被困湖北高速急哭的女车主获河南小伙救援",
@@ -22081,6 +22089,14 @@
       "onboard_time": 1707211950,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269831,
+      "num": 269831,
+      "word": "胖东来重新决议尝面事件",
+      "onboard_time": 1708309052,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269824,
@@ -23627,6 +23643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249302,
+      "num": 249302,
+      "word": "王鹤棣嘴角比AK还难压",
+      "onboard_time": 1708307193,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249213,
       "num": 249213,
       "word": "林亦扬殷果圆满了",
@@ -23729,14 +23753,6 @@
       "onboard_time": 1707804759,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247608,
-      "num": 247608,
-      "word": "王鹤棣嘴角比AK还难压",
-      "onboard_time": 1708307193,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 247458,
@@ -24603,6 +24619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237765,
+      "num": 237765,
+      "word": "张元英美照",
+      "onboard_time": 1708307971,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237764,
       "num": 237764,
       "word": "热辣滚烫票房破20亿",
@@ -24792,6 +24816,14 @@
       "word": "当中英双语念出李清照的词",
       "onboard_time": 1707659917,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235990,
+      "num": 235990,
+      "word": "全国温差90度",
+      "onboard_time": 1708308873,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -25001,14 +25033,6 @@
       "onboard_time": 1706777369,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233998,
-      "num": 233998,
-      "word": "张元英美照",
-      "onboard_time": 1708307971,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 233965,
@@ -26555,6 +26579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220421,
+      "num": 220421,
+      "word": "马面裙发型",
+      "onboard_time": 1708306532,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 220390,
       "num": 220390,
       "word": "最高检再评第二十条",
@@ -27257,14 +27289,6 @@
       "onboard_time": 1707266911,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214775,
-      "num": 214775,
-      "word": "马面裙发型",
-      "onboard_time": 1708306532,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 214749,
@@ -29881,14 +29905,6 @@
       "onboard_time": 1706846430,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198760,
-      "num": 198760,
-      "word": "胖东来重新决议尝面事件",
-      "onboard_time": 1708309052,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198751,
@@ -35363,14 +35379,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 167070,
-      "num": 167070,
-      "word": "全国温差90度",
-      "onboard_time": 1708308873,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167063,
       "num": 167063,
       "word": "比亚迪1月销售201493辆",
@@ -36465,6 +36473,14 @@
       "onboard_time": 1708082252,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 161425,
+      "num": 161425,
+      "word": "徐冬冬的戒指好大",
+      "onboard_time": 1708309831,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161393,
@@ -39603,6 +39619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144242,
+      "num": 144242,
+      "word": "龙年A股高开",
+      "onboard_time": 1708309229,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144180,
       "num": 144180,
       "word": "东北人的活儿是从小就培养的",
@@ -40892,7 +40916,7 @@
     },
     {
       "raw_hot": 137439,
-      "num": 1244721,
+      "num": 1410549,
       "word": "春节假期国内游4.74亿人次",
       "onboard_time": 1708264714,
       "rank": 2,
@@ -41747,6 +41771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132802,
+      "num": 132802,
+      "word": "胡先煦拍的丁达尔效应",
+      "onboard_time": 1708309711,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132774,
       "num": 132774,
       "word": "不要把压岁钱交给他们",
@@ -42025,6 +42057,14 @@
       "onboard_time": 1707444929,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131622,
+      "num": 131622,
+      "word": "投资者50万买基金亏30%起诉代销行",
+      "onboard_time": 1708309772,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 131613,
@@ -44571,14 +44611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 117833,
-      "num": 117833,
-      "word": "龙年A股高开",
-      "onboard_time": 1708309229,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 117826,
       "num": 117826,
       "word": "粉笔模考 主打陪伴",
@@ -45089,6 +45121,14 @@
       "onboard_time": 1706839228,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114207,
+      "num": 379139,
+      "word": "淘宝开工免单",
+      "onboard_time": 1708308029,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 114068,
@@ -47611,14 +47651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85636,
-      "num": 379139,
-      "word": "淘宝开工免单",
-      "onboard_time": 1708308029,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 84698,
       "num": 357641,
       "word": "羡慕长沙打工人的精神状态",
@@ -49169,6 +49201,14 @@
       "onboard_time": 1707607041,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46908,
+      "num": 125045,
+      "word": "余承东是懂时尚的",
+      "onboard_time": 1708309951,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 46902,
