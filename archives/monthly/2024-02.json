@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708377344882,
+  "endTime": 1708378451561,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -48779,6 +48779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100865,
+      "num": 40210,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100809,
       "num": 927784,
       "word": "春晚小米汽车亮了",
@@ -49952,14 +49960,6 @@
       "word": "全球同庆中国年",
       "onboard_time": 1707621812,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80105,
-      "num": 40210,
-      "word": "女子吐槽高铁上不售卖卫生巾",
-      "onboard_time": 1708374017,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -52915,6 +52915,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 15152,
+      "num": 15152,
+      "word": "西安中小学开学时间调整",
+      "onboard_time": 1708374675,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 14832,
       "num": 19456,
       "word": "约旦晋级亚洲杯四强",
@@ -52945,14 +52953,6 @@
       "onboard_time": 1707684975,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14502,
-      "num": 14502,
-      "word": "西安中小学开学时间调整",
-      "onboard_time": 1708374675,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 14378,
@@ -53161,6 +53161,14 @@
       "onboard_time": 1708286236,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11424,
+      "num": 11424,
+      "word": "南来北往剧情坐高铁了",
+      "onboard_time": 1708378215,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 11410,

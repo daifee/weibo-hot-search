@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708377344882,
+  "endTime": 1708378451561,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100865,
+      "num": 40210,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98611,
       "num": 98611,
       "word": "请和我的老公结婚",
@@ -409,14 +417,6 @@
       "onboard_time": 1708352983,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80105,
-      "num": 40210,
-      "word": "女子吐槽高铁上不售卖卫生巾",
-      "onboard_time": 1708374017,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59751,
@@ -499,8 +499,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14502,
-      "num": 14502,
+      "raw_hot": 15152,
+      "num": 15152,
       "word": "西安中小学开学时间调整",
       "onboard_time": 1708374675,
       "rank": 49,
@@ -521,6 +521,14 @@
       "onboard_time": 1708351841,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11424,
+      "num": 11424,
+      "word": "南来北往剧情坐高铁了",
+      "onboard_time": 1708378215,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
