@@ -1,0 +1,410 @@
+{
+  "runTime": 1708364035041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 914841,
+        "num": 914841,
+        "word": "梅西回应",
+        "onboard_time": 1708348178,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635798,
+        "num": 635798,
+        "word": "白鹿替身发文",
+        "onboard_time": 1708357179,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21013,
+        "num": 433792,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1708352442,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148745,
+        "num": 433286,
+        "word": "学校通报女教师出轨高中生",
+        "onboard_time": 1708328198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414753,
+        "num": 414753,
+        "word": "东方甄选报警",
+        "onboard_time": 1708350882,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366238,
+        "num": 366238,
+        "word": "上海飞大阪机票仅8元",
+        "onboard_time": 1708352442,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 800209,
+        "num": 356957,
+        "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
+        "onboard_time": 1708354362,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345872,
+        "num": 345872,
+        "word": "梅西13天3次回应均未道歉",
+        "onboard_time": 1708355920,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293310,
+        "num": 293310,
+        "word": "小学老师群发寒假作业烂尾预警",
+        "onboard_time": 1708354839,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264831,
+        "num": 264831,
+        "word": "周杰伦 有狗还在吠代表你还是行的",
+        "onboard_time": 1708336419,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 876671,
+        "num": 264321,
+        "word": "女教师",
+        "onboard_time": 1708356936,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261133,
+        "num": 261133,
+        "word": "陈都灵首部古偶女主",
+        "onboard_time": 1708357479,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247521,
+        "num": 247521,
+        "word": "内娱有自己的纯元皇后",
+        "onboard_time": 1708348005,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202960,
+        "num": 202960,
+        "word": "杨迪爆改",
+        "onboard_time": 1708344698,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 177481,
+        "num": 177481,
+        "word": "邓为秒删",
+        "onboard_time": 1708327598,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174072,
+        "num": 174072,
+        "word": "贾玲怕拍戏打扰群众上门发礼物",
+        "onboard_time": 1708351065,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142011,
+        "num": 142011,
+        "word": "热辣滚烫进入中国影史票房TOP20",
+        "onboard_time": 1708342118,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140451,
+        "num": 140451,
+        "word": "毛不易 有时间生孩子都不错了",
+        "onboard_time": 1708345899,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139517,
+        "num": 139517,
+        "word": "白鹿和替身合照",
+        "onboard_time": 1708340137,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 120201,
+        "word": "梅西澄清视频剪辑痕迹明显",
+        "onboard_time": 1708352563,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450978,
+        "num": 112387,
+        "word": "常州案例 女班主任获刑3年",
+        "onboard_time": 1708350280,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139020,
+        "num": 111875,
+        "word": "胡夏 爱你的事当做秘密",
+        "onboard_time": 1708336358,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103296,
+        "num": 103296,
+        "word": "刘雨欣 没绿卡没换国籍",
+        "onboard_time": 1708342237,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99844,
+        "num": 99844,
+        "word": "公司缴社保与个人缴社保的退休金差距",
+        "onboard_time": 1708341398,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 98855,
+        "num": 98855,
+        "word": "女子离婚冷静期第13天倒在丈夫刀下",
+        "onboard_time": 1708337378,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96979,
+        "num": 96979,
+        "word": "这就是二月天杨柳醉春烟",
+        "onboard_time": 1708358615,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 90757,
+        "num": 90757,
+        "word": "梅西 双手插兜",
+        "onboard_time": 1708350280,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85866,
+        "num": 85866,
+        "word": "想看BTS退伍结果注册成了士兵",
+        "onboard_time": 1708343435,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82269,
+        "num": 82269,
+        "word": "鲁豫 贾玲没变只是做回自己",
+        "onboard_time": 1708351242,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81671,
+        "num": 81671,
+        "word": "梅西说对中国球迷有特殊感情",
+        "onboard_time": 1708348420,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78577,
+        "num": 78577,
+        "word": "上海梅西",
+        "onboard_time": 1708349265,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73138,
+        "num": 73138,
+        "word": "曝光别人聊天记录违法吗",
+        "onboard_time": 1708339661,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71056,
+        "num": 71056,
+        "word": "00后真是各过各的啊",
+        "onboard_time": 1708343680,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65640,
+        "num": 65640,
+        "word": "复工后和男朋友说不想上班",
+        "onboard_time": 1708354898,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64726,
+        "num": 64726,
+        "word": "这一刻王鹤棣等了14年",
+        "onboard_time": 1708359811,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 62369,
+        "num": 62369,
+        "word": "大侦探沉默的三面羊场景大揭秘",
+        "onboard_time": 1708356339,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61551,
+        "num": 61551,
+        "word": "再来十次大姨妈就过年了",
+        "onboard_time": 1708344996,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61386,
+        "num": 61386,
+        "word": "不要有休息羞耻",
+        "onboard_time": 1708351723,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60927,
+        "num": 60927,
+        "word": "胡锡进称接受梅西这番解释",
+        "onboard_time": 1708353283,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56181,
+        "num": 56181,
+        "word": "小龙糕",
+        "onboard_time": 1708350641,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51958,
+        "num": 51958,
+        "word": "庞博回复徐志胜",
+        "onboard_time": 1708341936,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49657,
+        "num": 49657,
+        "word": "梅西ins",
+        "onboard_time": 1708353939,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49196,
+        "num": 49196,
+        "word": "王俊凯王源 扫鼠岭",
+        "onboard_time": 1708340920,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48296,
+        "num": 48296,
+        "word": "邓为演涂山璟是试戏试上的",
+        "onboard_time": 1708342721,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48025,
+        "num": 48025,
+        "word": "朱一龙被推荐演知否幕后故事",
+        "onboard_time": 1708356702,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47479,
+        "num": 47479,
+        "word": "梅西",
+        "onboard_time": 1708341035,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44137,
+        "num": 44137,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1708351065,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38481,
+        "num": 44132,
+        "word": "杨紫演长相思沟通半年才定下来",
+        "onboard_time": 1708342954,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38077,
+        "num": 44127,
+        "word": "杨幂祝黄明昊郭采洁生日快乐",
+        "onboard_time": 1708348784,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34865,
+        "num": 44120,
+        "word": "医生称内收肌是否治愈取决于主观感受",
+        "onboard_time": 1708355677,
+        "rank": 49,
+        "category": "体育,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#百年大党不懈奋斗淬炼的鲜明品格是什么#"
+    }
+  }
+}

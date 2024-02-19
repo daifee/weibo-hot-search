@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708362953539,
+  "endTime": 1708364035041,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293310,
+      "num": 293310,
+      "word": "小学老师群发寒假作业烂尾预警",
+      "onboard_time": 1708354839,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283057,
       "num": 283057,
       "word": "梅西 双手插兜",
@@ -209,14 +217,6 @@
       "onboard_time": 1708341398,
       "rank": 25,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 236418,
-      "num": 236418,
-      "word": "小学老师群发寒假作业烂尾预警",
-      "onboard_time": 1708354839,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 217853,
@@ -425,6 +425,14 @@
       "onboard_time": 1708342954,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38077,
+      "num": 44127,
+      "word": "杨幂祝黄明昊郭采洁生日快乐",
+      "onboard_time": 1708348784,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

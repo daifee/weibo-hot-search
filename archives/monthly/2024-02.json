@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708362953539,
+  "endTime": 1708364035041,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -21451,6 +21451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293310,
+      "num": 293310,
+      "word": "小学老师群发寒假作业烂尾预警",
+      "onboard_time": 1708354839,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293065,
       "num": 396765,
       "word": "原神",
@@ -25961,14 +25969,6 @@
       "onboard_time": 1707228933,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 236418,
-      "num": 236418,
-      "word": "小学老师群发寒假作业烂尾预警",
-      "onboard_time": 1708354839,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 236403,
