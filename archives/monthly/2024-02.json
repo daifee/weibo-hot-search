@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708353235005,
+  "endTime": 1708355877330,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -545,6 +545,14 @@
       "onboard_time": 1708003236,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3226852,
+      "num": 1000208,
+      "word": "女教师丈夫",
+      "onboard_time": 1708354120,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3200989,
@@ -7243,6 +7251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 806861,
+      "num": 806861,
+      "word": "梅西澄清视频剪辑痕迹明显",
+      "onboard_time": 1708352563,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 805628,
       "num": 805628,
       "word": "为什么只有中国医生擅长取鱼刺",
@@ -7321,6 +7337,14 @@
       "onboard_time": 1707462629,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 800360,
+      "num": 512775,
+      "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
+      "onboard_time": 1708354362,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 800301,
@@ -11755,14 +11779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 553149,
-      "num": 553149,
-      "word": "梅西澄清视频剪辑痕迹明显",
-      "onboard_time": 1708352563,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 553063,
       "num": 553063,
       "word": "奇瑞",
@@ -12793,6 +12809,14 @@
       "onboard_time": 1706921671,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517494,
+      "num": 517494,
+      "word": "上海飞大阪机票仅8元",
+      "onboard_time": 1708352442,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 517328,
@@ -14739,6 +14763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445261,
+      "num": 445261,
+      "word": "胡锡进称接受梅西这番解释",
+      "onboard_time": 1708353283,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445158,
       "num": 445158,
       "word": "县城结婚压力大嫁妆多由男方出",
@@ -16393,14 +16425,6 @@
       "onboard_time": 1706933731,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401210,
-      "num": 401210,
-      "word": "上海飞大阪机票仅8元",
-      "onboard_time": 1708352442,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 400946,
@@ -18097,6 +18121,14 @@
       "onboard_time": 1707443846,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360716,
+      "num": 360716,
+      "word": "梅西ins",
+      "onboard_time": 1708353939,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 360462,
@@ -20024,6 +20056,14 @@
       "word": "王俊凯去上班了",
       "onboard_time": 1707974970,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316696,
+      "num": 316696,
+      "word": "刘宇宁十分钟整了伤痛文学",
+      "onboard_time": 1708352983,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -23059,6 +23099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 269364,
+      "num": 247627,
+      "word": "复工后和男朋友说不想上班",
+      "onboard_time": 1708354898,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269283,
       "num": 269283,
       "word": "周星驰 金猪玉叶",
@@ -25019,6 +25067,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 244838,
+      "num": 244838,
+      "word": "博主回应称巴黎捡到的作业已送还",
+      "onboard_time": 1708353640,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244797,
       "num": 244797,
       "word": "孙千新中式马甲",
@@ -26795,14 +26851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227254,
-      "num": 227254,
-      "word": "刘宇宁十分钟整了伤痛文学",
-      "onboard_time": 1708352983,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227222,
       "num": 227222,
       "word": "男孩被烟花炸伤不幸身亡家属发声",
@@ -28465,6 +28513,14 @@
       "onboard_time": 1707266911,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214757,
+      "num": 214757,
+      "word": "小学老师群发寒假作业烂尾预警",
+      "onboard_time": 1708354839,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 214749,
@@ -33987,6 +34043,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 183561,
+      "num": 183561,
+      "word": "医生称内收肌是否治愈取决于主观感受",
+      "onboard_time": 1708355677,
+      "rank": 42,
+      "category": "体育,健康医疗"
+    },
+    {
       "raw_hot": 183552,
       "num": 183552,
       "word": "XYG对战WB",
@@ -36947,6 +37011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166967,
+      "num": 166967,
+      "word": "梅西沙特第一场",
+      "onboard_time": 1708354182,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166905,
       "num": 166905,
       "word": "刘嘉玲说桃花是和张国荣的一种联系",
@@ -38561,6 +38633,14 @@
       "onboard_time": 1707195031,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158451,
+      "num": 158451,
+      "word": "梅西 预告",
+      "onboard_time": 1708355379,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 158444,
@@ -48331,6 +48411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104638,
+      "num": 1117110,
+      "word": "这就是春天里的中国",
+      "onboard_time": 1708352442,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104551,
       "num": 104551,
       "word": "被拒绝也没关系",
@@ -50049,14 +50137,6 @@
       "onboard_time": 1707568959,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 74426,
-      "num": 1117110,
-      "word": "这就是春天里的中国",
-      "onboard_time": 1708352442,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74413,
