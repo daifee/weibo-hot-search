@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708364035041,
+  "endTime": 1708366917723,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -52049,6 +52049,14 @@
       "onboard_time": 1707606560,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30840,
+      "num": 30840,
+      "word": "巨人新周边 美得不敢认",
+      "onboard_time": 1708365441,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 30837,
