@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708370065203,
+  "endTime": 1708371244295,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34344,
+      "num": 34344,
+      "word": "夜间出现5种情况或是疾病信号",
+      "onboard_time": 1708369697,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31539,
       "num": 31539,
       "word": "巨人新周边 美得不敢认",
@@ -457,14 +465,6 @@
       "onboard_time": 1708367180,
       "rank": 48,
       "category": "数码,科学科普"
-    },
-    {
-      "raw_hot": 21496,
-      "num": 21496,
-      "word": "夜间出现5种情况或是疾病信号",
-      "onboard_time": 1708369697,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13083,
