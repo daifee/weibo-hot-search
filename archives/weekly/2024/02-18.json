@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708334271409,
+  "endTime": 1708335263141,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2263562,
+      "num": 2263562,
+      "word": "妈妈一怒之下撤回了一个弟弟",
+      "onboard_time": 1708330121,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2261425,
       "num": 2261425,
       "word": "两个贾玲对唱",
@@ -97,14 +105,6 @@
       "onboard_time": 1708306532,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2031543,
-      "num": 2031543,
-      "word": "妈妈一怒之下撤回了一个弟弟",
-      "onboard_time": 1708330121,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1972230,
@@ -627,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 821188,
+      "num": 303566,
+      "word": "你吃过鲍师傅吗",
+      "onboard_time": 1708333779,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 817398,
       "num": 817398,
       "word": "山姆回应三文鱼不再标注开袋即食",
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552322,
+      "num": 552322,
+      "word": "女子5楼新房被6楼邻居给装修了",
+      "onboard_time": 1708333300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549759,
       "num": 549759,
       "word": "马思纯减肥Vlog",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1708330181,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546400,
+      "num": 546400,
+      "word": "比亚迪价格",
+      "onboard_time": 1708333660,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 543844,
@@ -1385,14 +1409,6 @@
       "onboard_time": 1708213047,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 443713,
-      "num": 443713,
-      "word": "比亚迪价格",
-      "onboard_time": 1708333660,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 439863,
@@ -1859,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326018,
+      "num": 326018,
+      "word": "范丞丞夏梦 新剧",
+      "onboard_time": 1708333480,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324200,
       "num": 324200,
       "word": "星巴克回应推出红烧肉拿铁",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1708288636,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317319,
-      "num": 317319,
-      "word": "范丞丞夏梦 新剧",
-      "onboard_time": 1708333480,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 314849,
@@ -2107,14 +2123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293113,
-      "num": 293113,
-      "word": "女子5楼新房被6楼邻居给装修了",
-      "onboard_time": 1708333300,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291779,
       "num": 291779,
       "word": "教育局回应陕西一班主任猥亵女生",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1708256914,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291058,
-      "num": 201734,
-      "word": "你吃过鲍师傅吗",
-      "onboard_time": 1708333779,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 288955,
@@ -2187,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285565,
+      "num": 285565,
+      "word": "节后瘦腰一定不要忽视腹压",
+      "onboard_time": 1708329942,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 284696,
       "num": 284696,
       "word": "aespa复古解构风",
@@ -2195,12 +2203,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 281645,
-      "num": 281645,
-      "word": "节后瘦腰一定不要忽视腹压",
-      "onboard_time": 1708329942,
-      "rank": 17,
-      "category": "运动健身"
+      "raw_hot": 283699,
+      "num": 283699,
+      "word": "鲍师傅门店回应把龙拼成dargon",
+      "onboard_time": 1708334739,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 283597,
+      "num": 283597,
+      "word": "阴阳师",
+      "onboard_time": 1708333063,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 281225,
@@ -2363,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267387,
+      "num": 267387,
+      "word": "韩国研发出粉红色牛肉大米",
+      "onboard_time": 1708334200,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -2379,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264812,
-      "num": 264812,
-      "word": "阴阳师",
-      "onboard_time": 1708333063,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 264399,
       "num": 264399,
       "word": "沈腾马丽2015年的小品",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1708242575,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258541,
+      "num": 258541,
+      "word": "吴尊 公关票也会放价格",
+      "onboard_time": 1708333480,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 258280,
@@ -2715,6 +2739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227118,
+      "num": 227118,
+      "word": "胖东来",
+      "onboard_time": 1708333961,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227037,
       "num": 227037,
       "word": "今夜星光灿烂",
@@ -2779,20 +2811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222038,
-      "num": 222038,
-      "word": "吴尊 公关票也会放价格",
-      "onboard_time": 1708333480,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221963,
       "num": 221963,
       "word": "男子堵在高速满山坡抓鸡",
       "onboard_time": 1708217013,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221874,
+      "num": 221874,
+      "word": "王鹤棣鼻子转球",
+      "onboard_time": 1708333899,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 221784,
@@ -3123,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200193,
+      "num": 200193,
+      "word": "LESSERAFIM回归新歌MV",
+      "onboard_time": 1708334559,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200149,
       "num": 200149,
       "word": "姥姥的外孙",
@@ -3147,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198621,
+      "num": 198621,
+      "word": "娱乐圈有自己的少爷和我",
+      "onboard_time": 1708334802,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198308,
       "num": 198308,
       "word": "机构称2024年是A股新一轮的牛市起点",
@@ -3161,6 +3209,14 @@
       "onboard_time": 1708257092,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197173,
+      "num": 197173,
+      "word": "EasyMV",
+      "onboard_time": 1708335158,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 196626,
@@ -3363,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186566,
+      "num": 186566,
+      "word": "过年独自留守13天的猫把家废了",
+      "onboard_time": 1708333004,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186478,
       "num": 186478,
       "word": "男子烧灶膛火中窜出一只动物",
@@ -3417,14 +3481,6 @@
       "onboard_time": 1708259073,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 183737,
-      "num": 183737,
-      "word": "过年独自留守13天的猫把家废了",
-      "onboard_time": 1708333004,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 183464,
@@ -3523,14 +3579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178817,
-      "num": 178817,
-      "word": "胖东来",
-      "onboard_time": 1708333961,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178436,
       "num": 178436,
       "word": "秀智金宇彬新戏路透",
@@ -3561,14 +3609,6 @@
       "onboard_time": 1708269755,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175480,
-      "num": 175480,
-      "word": "王鹤棣鼻子转球",
-      "onboard_time": 1708333899,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 174714,
@@ -4251,6 +4291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138649,
+      "num": 138649,
+      "word": "过年听到的八卦有多炸裂",
+      "onboard_time": 1708334439,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137439,
       "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
@@ -4329,6 +4377,14 @@
       "onboard_time": 1708330239,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "许昕说和马龙搭档争执最多",
+      "onboard_time": 1708334319,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131462,
@@ -4513,14 +4569,6 @@
       "onboard_time": 1708308029,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 112850,
-      "num": 112850,
-      "word": "韩国研发出粉红色牛肉大米",
-      "onboard_time": 1708334200,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 112757,

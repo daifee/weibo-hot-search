@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708334271409,
+  "endTime": 1708335263141,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1131,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2263562,
+      "num": 2263562,
+      "word": "妈妈一怒之下撤回了一个弟弟",
+      "onboard_time": 1708330121,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2261425,
       "num": 2261425,
       "word": "两个贾玲对唱",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1707461313,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2031543,
-      "num": 2031543,
-      "word": "妈妈一怒之下撤回了一个弟弟",
-      "onboard_time": 1708330121,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 2028313,
@@ -6859,6 +6859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821188,
+      "num": 303566,
+      "word": "你吃过鲍师傅吗",
+      "onboard_time": 1708333779,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 820883,
       "num": 820883,
       "word": "迪丽热巴 新疆的石榴花",
@@ -11563,6 +11571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552322,
+      "num": 552322,
+      "word": "女子5楼新房被6楼邻居给装修了",
+      "onboard_time": 1708333300,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552246,
       "num": 455315,
       "word": "贵州住宅火灾事件死者儿子曾举报小区消防",
@@ -11689,6 +11705,14 @@
       "onboard_time": 1708330181,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546400,
+      "num": 546400,
+      "word": "比亚迪价格",
+      "onboard_time": 1708333660,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 546348,
@@ -14457,14 +14481,6 @@
       "onboard_time": 1708058433,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 443713,
-      "num": 443713,
-      "word": "比亚迪价格",
-      "onboard_time": 1708333660,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 443497,
@@ -19139,6 +19155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326018,
+      "num": 326018,
+      "word": "范丞丞夏梦 新剧",
+      "onboard_time": 1708333480,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326010,
       "num": 306335,
       "word": "菏泽牡丹南路派出所所长被停职",
@@ -19569,14 +19593,6 @@
       "onboard_time": 1707881972,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317319,
-      "num": 317319,
-      "word": "范丞丞夏梦 新剧",
-      "onboard_time": 1708333480,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 316819,
@@ -20939,14 +20955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293113,
-      "num": 293113,
-      "word": "女子5楼新房被6楼邻居给装修了",
-      "onboard_time": 1708333300,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293065,
       "num": 396765,
       "word": "原神",
@@ -21145,14 +21153,6 @@
       "onboard_time": 1708256914,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291058,
-      "num": 201734,
-      "word": "你吃过鲍师傅吗",
-      "onboard_time": 1708333779,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 290958,
@@ -21475,6 +21475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285565,
+      "num": 285565,
+      "word": "节后瘦腰一定不要忽视腹压",
+      "onboard_time": 1708329942,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 285188,
       "num": 285188,
       "word": "在暴雪时分情人节联姻局",
@@ -21595,6 +21603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283699,
+      "num": 283699,
+      "word": "鲍师傅门店回应把龙拼成dargon",
+      "onboard_time": 1708334739,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 283405,
       "num": 283405,
       "word": "李雪琴曾为贾玲和杜乐莹爆哭",
@@ -21689,14 +21705,6 @@
       "onboard_time": 1706784872,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281645,
-      "num": 281645,
-      "word": "节后瘦腰一定不要忽视腹压",
-      "onboard_time": 1708329942,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 281579,
@@ -22835,6 +22843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267387,
+      "num": 267387,
+      "word": "韩国研发出粉红色牛肉大米",
+      "onboard_time": 1708334200,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 267377,
       "num": 267377,
       "word": "婚姻最可怕的是内耗",
@@ -23329,6 +23345,14 @@
       "onboard_time": 1706922330,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258541,
+      "num": 258541,
+      "word": "吴尊 公关票也会放价格",
+      "onboard_time": 1708333480,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 258518,
@@ -26315,6 +26339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227118,
+      "num": 227118,
+      "word": "胖东来",
+      "onboard_time": 1708063534,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227083,
       "num": 227083,
       "word": "痛失广东市场",
@@ -26923,14 +26955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222038,
-      "num": 222038,
-      "word": "吴尊 公关票也会放价格",
-      "onboard_time": 1708333480,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221967,
       "num": 221967,
       "word": "女子铁锹劝架袋鼠被停职2天",
@@ -26953,6 +26977,14 @@
       "onboard_time": 1706768428,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221874,
+      "num": 221874,
+      "word": "王鹤棣鼻子转球",
+      "onboard_time": 1708333899,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 221784,
@@ -29443,14 +29475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204655,
-      "num": 204655,
-      "word": "胖东来",
-      "onboard_time": 1708063534,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204646,
       "num": 648527,
       "word": "中医学生地铁里妙手施针救醒晕倒女子",
@@ -30339,6 +30363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200193,
+      "num": 200193,
+      "word": "LESSERAFIM回归新歌MV",
+      "onboard_time": 1708334559,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200191,
       "num": 200191,
       "word": "傅园慧称问题已解决",
@@ -30627,6 +30659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198621,
+      "num": 198621,
+      "word": "娱乐圈有自己的少爷和我",
+      "onboard_time": 1708334802,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198541,
       "num": 198541,
       "word": "假期真的越久越好吗",
@@ -30841,6 +30881,14 @@
       "onboard_time": 1708257092,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197173,
+      "num": 197173,
+      "word": "EasyMV",
+      "onboard_time": 1708335158,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 197125,
@@ -32891,6 +32939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186566,
+      "num": 186566,
+      "word": "过年独自留守13天的猫把家废了",
+      "onboard_time": 1708333004,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186540,
       "num": 186540,
       "word": "万茜春晚搭档张艺兴",
@@ -33329,14 +33385,6 @@
       "onboard_time": 1707368491,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183737,
-      "num": 183737,
-      "word": "过年独自留守13天的猫把家废了",
-      "onboard_time": 1708333004,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 183702,
@@ -34665,14 +34713,6 @@
       "onboard_time": 1707640712,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 175480,
-      "num": 175480,
-      "word": "王鹤棣鼻子转球",
-      "onboard_time": 1708333899,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 175410,
@@ -41643,6 +41683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138649,
+      "num": 138649,
+      "word": "过年听到的八卦有多炸裂",
+      "onboard_time": 1708334439,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138592,
       "num": 197063,
       "word": "女孩不回家过年立省一万",
@@ -42713,6 +42761,14 @@
       "onboard_time": 1708330239,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "许昕说和马龙搭档争执最多",
+      "onboard_time": 1708334319,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 133014,
@@ -46433,14 +46489,6 @@
       "onboard_time": 1707991891,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112850,
-      "num": 112850,
-      "word": "韩国研发出粉红色牛肉大米",
-      "onboard_time": 1708334200,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 112848,
