@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708378451561,
+  "endTime": 1708380993303,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -347,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123463,
+      "num": 123463,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117882,
       "num": 117882,
       "word": "王俊凯王源 扫鼠岭",
@@ -377,14 +385,6 @@
       "onboard_time": 1708342721,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100865,
-      "num": 40210,
-      "word": "女子吐槽高铁上不售卖卫生巾",
-      "onboard_time": 1708374017,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98611,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43955,
+      "num": 25730,
+      "word": "北漂女子自嘲回老家像乡下人进城",
+      "onboard_time": 1708378755,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38077,
       "num": 44127,
       "word": "杨幂祝黄明昊郭采洁生日快乐",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 37428,
-      "num": 34344,
+      "num": 37128,
       "word": "夜间出现5种情况或是疾病信号",
       "onboard_time": 1708369697,
       "rank": 42,
@@ -473,6 +481,14 @@
       "onboard_time": 1708365441,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 29986,
+      "num": 29986,
+      "word": "南来北往剧情坐高铁了",
+      "onboard_time": 1708378215,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 24990,
@@ -491,16 +507,16 @@
       "category": "数码,科学科普"
     },
     {
-      "raw_hot": 17535,
-      "num": 17535,
+      "raw_hot": 20782,
+      "num": 20782,
       "word": "金秀贤金智媛眼泪女王吻戏",
       "onboard_time": 1708374136,
       "rank": 42,
       "category": "剧集"
     },
     {
-      "raw_hot": 15152,
-      "num": 15152,
+      "raw_hot": 17147,
+      "num": 17147,
       "word": "西安中小学开学时间调整",
       "onboard_time": 1708374675,
       "rank": 49,
@@ -521,14 +537,6 @@
       "onboard_time": 1708351841,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11424,
-      "num": 11424,
-      "word": "南来北往剧情坐高铁了",
-      "onboard_time": 1708378215,
-      "rank": 48,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
