@@ -1,7 +1,15 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708328040190,
+  "endTime": 1708330919073,
   "band_list": [
+    {
+      "raw_hot": 10935261,
+      "num": 10935261,
+      "word": "学校通报女教师出轨高中生",
+      "onboard_time": 1708328198,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 8720278,
       "num": 8720278,
@@ -56,6 +64,14 @@
       "word": "吴尊评论",
       "onboard_time": 1708305271,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1880394,
+      "num": 1880394,
+      "word": "邓为秒删",
+      "onboard_time": 1708327598,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -243,14 +259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 766083,
-      "num": 442860,
-      "word": "邓为秒删",
-      "onboard_time": 1708327598,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 757862,
       "num": 757862,
       "word": "自热火锅为什么失宠了",
@@ -265,6 +273,14 @@
       "onboard_time": 1708326097,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678322,
+      "num": 186776,
+      "word": "妈妈一怒之下撤回了一个弟弟",
+      "onboard_time": 1708330121,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 673563,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549951,
+      "num": 549951,
+      "word": "种地吧",
+      "onboard_time": 1708328379,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544423,
       "num": 544423,
       "word": "范丞丞四年前考赛车执照的照片",
@@ -385,6 +409,14 @@
       "onboard_time": 1708308873,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513270,
+      "num": 452707,
+      "word": "同事用了一个多月的极简水杯",
+      "onboard_time": 1708330181,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 494255,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 426760,
-      "num": 192336,
+      "num": 225986,
       "word": "小县城买一套房要花10年",
       "onboard_time": 1708324416,
       "rank": 40,
@@ -489,6 +521,14 @@
       "onboard_time": 1708299387,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 401503,
+      "num": 401503,
+      "word": "姚安娜新剧搭档张颂文",
+      "onboard_time": 1708329157,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 394354,
@@ -644,7 +684,7 @@
     },
     {
       "raw_hot": 327900,
-      "num": 187797,
+      "num": 226561,
       "word": "猫 我可不想脏了我的白手套",
       "onboard_time": 1708326397,
       "rank": 30,
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 322428,
-      "num": 191510,
+      "num": 202740,
       "word": "蔡依林Valentino品牌代言人",
       "onboard_time": 1708325920,
       "rank": 21,
@@ -704,6 +744,14 @@
       "word": "沈腾 素材给了剩下的你们发挥",
       "onboard_time": 1708303355,
       "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 309493,
+      "num": 309493,
+      "word": "热辣滚烫 温和的女性电影",
+      "onboard_time": 1708328739,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -843,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244897,
+      "num": 244897,
+      "word": "A股逾200只个股涨停",
+      "onboard_time": 1708329520,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 243948,
       "num": 243948,
       "word": "投资者50万买基金亏30%起诉代销行",
@@ -857,6 +913,14 @@
       "onboard_time": 1708312531,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241149,
+      "num": 241149,
+      "word": "节后瘦腰一定不要忽视腹压",
+      "onboard_time": 1708329942,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 240205,
@@ -891,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236529,
+      "num": 225688,
+      "word": "女司机遭抢劫误撞死劫匪被判正当防卫",
+      "onboard_time": 1708328559,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233695,
       "num": 233695,
       "word": "林亦扬结局",
@@ -905,6 +977,22 @@
       "onboard_time": 1708322795,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226954,
+      "num": 226954,
+      "word": "山河大学的意义",
+      "onboard_time": 1708327960,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 225299,
+      "num": 225299,
+      "word": "养成易瘦体质的5个习惯",
+      "onboard_time": 1708330181,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220488,
@@ -929,6 +1017,14 @@
       "onboard_time": 1708310730,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219075,
+      "num": 219075,
+      "word": "女性生来就有爱人的天赋",
+      "onboard_time": 1708329398,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 218908,
@@ -1059,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200149,
+      "num": 200149,
+      "word": "姥姥的外孙",
+      "onboard_time": 1708329697,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196626,
       "num": 176899,
       "word": "王鹤棣晒詹姆斯签名球衣",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1708320455,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188868,
+      "num": 188868,
+      "word": "十个勤天直播",
+      "onboard_time": 1708330121,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 187084,
@@ -1147,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178895,
+      "num": 178895,
+      "word": "曝姆巴佩已与皇马签约5年",
+      "onboard_time": 1708327656,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175800,
       "num": 175800,
       "word": "夫妻俩花5000块从海南回杭州",
@@ -1193,6 +1313,14 @@
       "onboard_time": 1708315598,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168369,
+      "num": 168369,
+      "word": "凌晨5点你楼上的邻居",
+      "onboard_time": 1708330181,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 167035,
@@ -1275,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154632,
+      "num": 154632,
+      "word": "不要通过自毁报复父母",
+      "onboard_time": 1708330239,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152332,
       "num": 152332,
       "word": "天蝎座不允许自己成为感情的附庸",
@@ -1297,14 +1433,6 @@
       "onboard_time": 1708309711,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151222,
-      "num": 151222,
-      "word": "山河大学的意义",
-      "onboard_time": 1708327960,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 150157,
@@ -1419,6 +1547,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139519,
+      "num": 139519,
+      "word": "油泼面不要辣子",
+      "onboard_time": 1708330839,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 139185,
+      "num": 139185,
+      "word": "五菱跟进比亚迪价格战",
+      "onboard_time": 1708329942,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 138894,
+      "num": 138894,
+      "word": "江西男子举报妻子与副镇长非法同居",
+      "onboard_time": 1708330781,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137439,
       "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
@@ -1457,6 +1609,14 @@
       "onboard_time": 1708272750,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133133,
+      "num": 133133,
+      "word": "这样的猫猫民宿我能天天去",
+      "onboard_time": 1708330239,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 132721,
@@ -1507,20 +1667,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 128895,
+      "num": 128895,
+      "word": "闺蜜和只见过两面的人订婚了",
+      "onboard_time": 1708329999,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "aespa美得有点过分了",
       "onboard_time": 1708261594,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125741,
-      "num": 125741,
-      "word": "曝姆巴佩已与皇马签约5年",
-      "onboard_time": 1708327656,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 124787,
@@ -1547,12 +1707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119972,
+      "num": 125817,
+      "word": "上海市第二中学通报",
+      "onboard_time": 1708329456,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118466,
       "num": 118466,
       "word": "邓为杀青哭了",
       "onboard_time": 1708253554,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118158,
+      "num": 118158,
+      "word": "沈腾马丽2015年的小品",
+      "onboard_time": 1708330900,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 116623,
@@ -1652,7 +1828,7 @@
     },
     {
       "raw_hot": 102015,
-      "num": 1786494,
+      "num": 2858700,
       "word": "5架国产飞机新年组团出国门",
       "onboard_time": 1708317159,
       "rank": 2,
