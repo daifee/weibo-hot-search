@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708356945394,
+  "endTime": 1708359797302,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -465,6 +465,14 @@
       "onboard_time": 1707522630,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3474203,
+      "num": 295694,
+      "word": "女教师聊天记录",
+      "onboard_time": 1708357117,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3461787,
@@ -3571,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1268746,
+      "num": 1268746,
+      "word": "白鹿替身发文",
+      "onboard_time": 1708357179,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1267195,
       "num": 1267195,
       "word": "男子曝妻子虐待婆婆致死",
@@ -4577,6 +4593,14 @@
       "onboard_time": 1707489531,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1107373,
+      "num": 305960,
+      "word": "女教师",
+      "onboard_time": 1708356936,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1106985,
@@ -6403,20 +6427,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 870273,
+      "num": 512775,
+      "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
+      "onboard_time": 1708354362,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868487,
       "num": 868487,
       "word": "肖战演讲",
       "onboard_time": 1706969556,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 868285,
-      "num": 512775,
-      "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
-      "onboard_time": 1708354362,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 868093,
@@ -10331,6 +10355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625939,
+      "num": 625939,
+      "word": "梅西13天3次回应均未道歉",
+      "onboard_time": 1708355920,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625316,
       "num": 419511,
       "word": "终于等到汪苏泷",
@@ -11521,6 +11553,14 @@
       "onboard_time": 1706949868,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562792,
+      "num": 562792,
+      "word": "上海飞大阪机票仅8元",
+      "onboard_time": 1708352442,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 562757,
@@ -12809,14 +12849,6 @@
       "onboard_time": 1706921671,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517494,
-      "num": 517494,
-      "word": "上海飞大阪机票仅8元",
-      "onboard_time": 1708352442,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 517328,
@@ -17387,14 +17419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376723,
-      "num": 376723,
-      "word": "梅西13天3次回应均未道歉",
-      "onboard_time": 1708355920,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376637,
       "num": 376637,
       "word": "春节返程",
@@ -21515,6 +21539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292405,
+      "num": 292405,
+      "word": "陈都灵首部古偶女主",
+      "onboard_time": 1708357479,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292228,
       "num": 292228,
       "word": "王鹤棣抵达印第安纳",
@@ -24665,14 +24697,6 @@
       "onboard_time": 1708355677,
       "rank": 42,
       "category": "体育,健康医疗"
-    },
-    {
-      "raw_hot": 250342,
-      "num": 250342,
-      "word": "女教师",
-      "onboard_time": 1708356936,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250181,
@@ -40513,6 +40537,14 @@
       "onboard_time": 1706944112,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148535,
+      "num": 148535,
+      "word": "这就是二月天杨柳醉春烟",
+      "onboard_time": 1708358615,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 148465,
