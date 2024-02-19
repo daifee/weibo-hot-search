@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708312705528,
+  "endTime": 1708313653321,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1699,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1862994,
+      "num": 1862994,
+      "word": "女教师被举报出轨高中生未被停职",
+      "onboard_time": 1708312473,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1862989,
       "num": 1862989,
       "word": "第一批开电动爹回家的人后悔了",
@@ -3059,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1355894,
+      "num": 1355894,
+      "word": "李思思复工",
+      "onboard_time": 1708311213,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1350320,
       "num": 1350320,
       "word": "马宁 尺度",
@@ -3107,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1336598,
-      "num": 1336598,
-      "word": "李思思复工",
-      "onboard_time": 1708311213,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1330267,
       "num": 926047,
       "word": "男子被堵高速6天5夜吃光年货",
@@ -3161,6 +3169,14 @@
       "onboard_time": 1707783750,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1319821,
+      "num": 1319821,
+      "word": "比亚迪降价",
+      "onboard_time": 1708309651,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 1319142,
@@ -3569,14 +3585,6 @@
       "onboard_time": 1707574240,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1238239,
-      "num": 1238239,
-      "word": "比亚迪降价",
-      "onboard_time": 1708309651,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 1235041,
@@ -12339,6 +12347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516039,
+      "num": 516039,
+      "word": "全国温差90度",
+      "onboard_time": 1708308873,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515986,
       "num": 506070,
       "word": "肾不好嘴唇和眼圈会发黑",
@@ -13129,6 +13145,14 @@
       "onboard_time": 1706932830,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487403,
+      "num": 487403,
+      "word": "人民网评农村出现以家庭为单位断亲",
+      "onboard_time": 1708310312,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487357,
@@ -15667,14 +15691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 404344,
-      "num": 404344,
-      "word": "全国温差90度",
-      "onboard_time": 1708308873,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404179,
       "num": 404179,
       "word": "迪丽热巴成都",
@@ -16737,14 +16753,6 @@
       "onboard_time": 1706711614,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376203,
-      "num": 376203,
-      "word": "人民网评农村出现以家庭为单位断亲",
-      "onboard_time": 1708310312,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375896,
@@ -18883,6 +18891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 324160,
+      "num": 324160,
+      "word": "仙台有树杀青",
+      "onboard_time": 1708311272,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324082,
       "num": 324082,
       "word": "Jennie对卡皮巴拉是真心的",
@@ -19025,14 +19041,6 @@
       "onboard_time": 1708248693,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321625,
-      "num": 321625,
-      "word": "仙台有树杀青",
-      "onboard_time": 1708311272,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 321461,
@@ -21097,14 +21105,6 @@
       "onboard_time": 1707004707,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284739,
-      "num": 217422,
-      "word": "女教师被举报出轨高中生未被停职",
-      "onboard_time": 1708312473,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284696,
@@ -24235,6 +24235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243556,
+      "num": 243556,
+      "word": "官方通报贵州山火",
+      "onboard_time": 1708312531,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243478,
       "num": 243478,
       "word": "苹果首个银行木马被曝光",
@@ -26673,6 +26681,14 @@
       "onboard_time": 1707125012,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220488,
+      "num": 324013,
+      "word": "7.98万的比亚迪让燃油车慌了",
+      "onboard_time": 1708310492,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 220421,
@@ -33771,14 +33787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176950,
-      "num": 176950,
-      "word": "官方通报贵州山火",
-      "onboard_time": 1708312531,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176920,
       "num": 176920,
       "word": "上班摸鱼最好选上午",
@@ -34547,6 +34555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172021,
+      "num": 172021,
+      "word": "LV中国涨价",
+      "onboard_time": 1708313552,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 172002,
       "num": 172002,
       "word": "新年第一天就被自己穷笑了",
@@ -35009,14 +35025,6 @@
       "onboard_time": 1706764592,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169613,
-      "num": 324013,
-      "word": "7.98万的比亚迪让燃油车慌了",
-      "onboard_time": 1708310492,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 169583,
@@ -39459,6 +39467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145696,
+      "num": 145696,
+      "word": "东部明星队半场104分",
+      "onboard_time": 1708313073,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145660,
       "num": 145660,
       "word": "奶奶这不是你的梦中情孙吗",
@@ -40073,6 +40089,14 @@
       "onboard_time": 1707224254,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142689,
+      "num": 142689,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1708313310,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 142597,
@@ -41052,7 +41076,7 @@
     },
     {
       "raw_hot": 137439,
-      "num": 1410549,
+      "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
       "onboard_time": 1708264714,
       "rank": 2,
@@ -42297,6 +42321,14 @@
       "onboard_time": 1707655472,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130864,
+      "num": 130864,
+      "word": "在狗狗的眼神中看到了担心",
+      "onboard_time": 1708312594,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 130857,
@@ -43769,14 +43801,6 @@
       "onboard_time": 1707555873,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123138,
-      "num": 123138,
-      "word": "在狗狗的眼神中看到了担心",
-      "onboard_time": 1708312594,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 123120,
@@ -48627,6 +48651,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 64071,
+      "num": 413439,
+      "word": "余承东是懂时尚的",
+      "onboard_time": 1708309951,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 63905,
       "num": 63905,
       "word": "这3处青筋异常凸起要留意",
@@ -48977,14 +49009,6 @@
       "onboard_time": 1707691338,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 54373,
-      "num": 413439,
-      "word": "余承东是懂时尚的",
-      "onboard_time": 1708309951,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 54355,

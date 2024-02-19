@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708312705528,
+  "endTime": 1708313653321,
   "band_list": [
     {
       "raw_hot": 2989681,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1862994,
+      "num": 1862994,
+      "word": "女教师被举报出轨高中生未被停职",
+      "onboard_time": 1708312473,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1818085,
       "num": 1818085,
       "word": "特朗普卖鞋",
@@ -219,12 +227,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1336598,
-      "num": 1336598,
+      "raw_hot": 1355894,
+      "num": 1355894,
       "word": "李思思复工",
       "onboard_time": 1708311213,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1319821,
+      "num": 1319821,
+      "word": "比亚迪降价",
+      "onboard_time": 1708309651,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 1292108,
@@ -273,14 +289,6 @@
       "onboard_time": 1708247134,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1238239,
-      "num": 1238239,
-      "word": "比亚迪降价",
-      "onboard_time": 1708309651,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 1231981,
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516039,
+      "num": 516039,
+      "word": "全国温差90度",
+      "onboard_time": 1708308873,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515340,
       "num": 331932,
       "word": "因为高速太堵跟领导请假被拒了",
@@ -1048,6 +1064,14 @@
       "word": "黑龙江曹园事件最新进展",
       "onboard_time": 1708215391,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487403,
+      "num": 487403,
+      "word": "人民网评农村出现以家庭为单位断亲",
+      "onboard_time": 1708310312,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1267,14 +1291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 404344,
-      "num": 404344,
-      "word": "全国温差90度",
-      "onboard_time": 1708308873,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400946,
       "num": 400946,
       "word": "上班第一天确诊节后综合征",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1708254632,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376203,
-      "num": 376203,
-      "word": "人民网评农村出现以家庭为单位断亲",
-      "onboard_time": 1708310312,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375844,
@@ -1531,6 +1539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 324160,
+      "num": 324160,
+      "word": "仙台有树杀青",
+      "onboard_time": 1708311272,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322422,
       "num": 322422,
       "word": "中国海警在厦金海域开展执法巡查行动",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1708248693,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321625,
-      "num": 321625,
-      "word": "仙台有树杀青",
-      "onboard_time": 1708311272,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 321261,
@@ -1760,14 +1768,6 @@
       "word": "小镇超市为何能开20年",
       "onboard_time": 1708219652,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284739,
-      "num": 217422,
-      "word": "女教师被举报出轨高中生未被停职",
-      "onboard_time": 1708312473,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 243556,
+      "num": 243556,
+      "word": "官方通报贵州山火",
+      "onboard_time": 1708312531,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241550,
       "num": 241550,
       "word": "江苏卫视长风渡定档",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1708232376,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220488,
+      "num": 324013,
+      "word": "7.98万的比亚迪让燃油车慌了",
+      "onboard_time": 1708310492,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 220421,
@@ -2843,14 +2859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176950,
-      "num": 176950,
-      "word": "官方通报贵州山火",
-      "onboard_time": 1708312531,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176920,
       "num": 176920,
       "word": "上班摸鱼最好选上午",
@@ -2891,6 +2899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172021,
+      "num": 172021,
+      "word": "LV中国涨价",
+      "onboard_time": 1708313552,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 171999,
       "num": 171999,
       "word": "Sora",
@@ -2929,14 +2945,6 @@
       "onboard_time": 1708249895,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 169613,
-      "num": 324013,
-      "word": "7.98万的比亚迪让燃油车慌了",
-      "onboard_time": 1708310492,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 168202,
@@ -3275,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145696,
+      "num": 145696,
+      "word": "东部明星队半场104分",
+      "onboard_time": 1708313073,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145380,
       "num": 145380,
       "word": "魏大勋扶额苦笑但夹子音",
@@ -3339,6 +3355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 142689,
+      "num": 142689,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1708313310,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 141344,
       "num": 141344,
       "word": "陈楚生以为要拿一个不回头奖",
@@ -3372,7 +3396,7 @@
     },
     {
       "raw_hot": 137439,
-      "num": 1410549,
+      "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
       "onboard_time": 1708264714,
       "rank": 2,
@@ -3443,6 +3467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130864,
+      "num": 130864,
+      "word": "在狗狗的眼神中看到了担心",
+      "onboard_time": 1708312594,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130522,
       "num": 130522,
       "word": "王鹤棣发文谈NBA名人赛",
@@ -3473,14 +3505,6 @@
       "onboard_time": 1708305933,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123138,
-      "num": 123138,
-      "word": "在狗狗的眼神中看到了担心",
-      "onboard_time": 1708312594,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 122542,
@@ -3715,6 +3739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64071,
+      "num": 413439,
+      "word": "余承东是懂时尚的",
+      "onboard_time": 1708309951,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 63036,
       "num": 63036,
       "word": "金晨穿睡衣拖鞋跳舞",
@@ -3737,14 +3769,6 @@
       "onboard_time": 1708286896,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54373,
-      "num": 413439,
-      "word": "余承东是懂时尚的",
-      "onboard_time": 1708309951,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 53813,

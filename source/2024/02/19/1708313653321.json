@@ -1,0 +1,410 @@
+{
+  "runTime": 1708313653321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1862994,
+        "num": 1862994,
+        "word": "女教师被举报出轨高中生未被停职",
+        "onboard_time": 1708312473,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1594486,
+        "num": 1594486,
+        "word": "格力集团迎来新董事长",
+        "onboard_time": 1708306532,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77406,
+        "num": 1456232,
+        "word": "春节假期国内游4.74亿人次",
+        "onboard_time": 1708264714,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410904,
+        "num": 1410904,
+        "word": "胖东来未按标准试吃员工已不再开除",
+        "onboard_time": 1708307248,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355894,
+        "num": 1355894,
+        "word": "李思思复工",
+        "onboard_time": 1708311213,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1319821,
+        "num": 1319821,
+        "word": "比亚迪降价",
+        "onboard_time": 1708309651,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1128669,
+        "num": 1128669,
+        "word": "吴尊评论",
+        "onboard_time": 1708305271,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 862875,
+        "num": 862875,
+        "word": "贵州山火",
+        "onboard_time": 1708310857,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850560,
+        "num": 850560,
+        "word": "大理寺少卿游定档",
+        "onboard_time": 1708310857,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 757129,
+        "num": 757129,
+        "word": "车厘子到底是不是大号樱桃",
+        "onboard_time": 1708303414,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 636152,
+        "num": 636152,
+        "word": "iPhone16Pro高清渲染图",
+        "onboard_time": 1708301971,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 584880,
+        "num": 584880,
+        "word": "胖东来重新决议尝面事件",
+        "onboard_time": 1708309052,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529992,
+        "num": 529992,
+        "word": "自热火锅为什么失宠了",
+        "onboard_time": 1708306232,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 516039,
+        "num": 516039,
+        "word": "全国温差90度",
+        "onboard_time": 1708308873,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487403,
+        "num": 487403,
+        "word": "人民网评农村出现以家庭为单位断亲",
+        "onboard_time": 1708310312,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478022,
+        "num": 478022,
+        "word": "吴尊感谢昆凌给的霉霉演唱会门票",
+        "onboard_time": 1708267713,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 463482,
+        "num": 463482,
+        "word": "王鹤棣与詹姆斯见面",
+        "onboard_time": 1708307672,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 436593,
+        "num": 436593,
+        "word": "徐冬冬的戒指好大",
+        "onboard_time": 1708309831,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324160,
+        "num": 324160,
+        "word": "仙台有树杀青",
+        "onboard_time": 1708311272,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308308,
+        "num": 308308,
+        "word": "周杰伦 我只看我想看的",
+        "onboard_time": 1708267176,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285323,
+        "num": 285323,
+        "word": "苏醒半个娱乐圈的人脉终于用上了",
+        "onboard_time": 1708304194,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243556,
+        "num": 243556,
+        "word": "官方通报贵州山火",
+        "onboard_time": 1708312531,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223689,
+        "num": 223689,
+        "word": "朱正廷烧麦判官",
+        "onboard_time": 1708311452,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218249,
+        "num": 218249,
+        "word": "李勤勤发文回应收养周海媚爱犬",
+        "onboard_time": 1708310492,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217877,
+        "num": 217877,
+        "word": "投资者50万买基金亏30%起诉代销行",
+        "onboard_time": 1708309772,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212771,
+        "num": 212771,
+        "word": "27岁了好像还没成为合格的大人",
+        "onboard_time": 1708304133,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199600,
+        "num": 199600,
+        "word": "张元英美照",
+        "onboard_time": 1708307971,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200227,
+        "num": 193996,
+        "word": "有没有人救救朱正廷",
+        "onboard_time": 1708310730,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182613,
+        "num": 182613,
+        "word": "贵州毕节山火扑救仍在继续",
+        "onboard_time": 1708310552,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177179,
+        "num": 177179,
+        "word": "官方回应与傅园慧经历相似却维权失败",
+        "onboard_time": 1708305033,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 176370,
+        "word": "王鹤棣晒詹姆斯签名球衣",
+        "onboard_time": 1708310312,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 172021,
+        "num": 172021,
+        "word": "LV中国涨价",
+        "onboard_time": 1708313552,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 170998,
+        "num": 170998,
+        "word": "没想到相亲相到了初恋",
+        "onboard_time": 1708304133,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160765,
+        "num": 160765,
+        "word": "Sora",
+        "onboard_time": 1708310191,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146318,
+        "num": 146318,
+        "word": "恋与深空徽章",
+        "onboard_time": 1708310370,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145696,
+        "num": 145696,
+        "word": "东部明星队半场104分",
+        "onboard_time": 1708313073,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142689,
+        "num": 142689,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1708313310,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 220488,
+        "num": 142664,
+        "word": "7.98万的比亚迪让燃油车慌了",
+        "onboard_time": 1708310492,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 141813,
+        "word": "复工第一天在出租屋哭了很久",
+        "onboard_time": 1708300351,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138299,
+        "num": 138299,
+        "word": "秒睡小技巧",
+        "onboard_time": 1708305455,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136357,
+        "num": 136357,
+        "word": "尹正 五年前钢管舞五年后原地杵",
+        "onboard_time": 1708302211,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133903,
+        "num": 133903,
+        "word": "王鹤棣晒与哈利伯顿合影",
+        "onboard_time": 1708306532,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 130864,
+        "num": 130864,
+        "word": "在狗狗的眼神中看到了担心",
+        "onboard_time": 1708312594,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127360,
+        "num": 127360,
+        "word": "杨鸣分享创造辽篮奇迹的关键",
+        "onboard_time": 1708311573,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126929,
+        "num": 126929,
+        "word": "马面裙发型",
+        "onboard_time": 1708306532,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 115681,
+        "word": "武汉中小学延迟开学",
+        "onboard_time": 1708297401,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64071,
+        "num": 112088,
+        "word": "余承东是懂时尚的",
+        "onboard_time": 1708309951,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118576,
+        "num": 111898,
+        "word": "王鹤棣嘴角比AK还难压",
+        "onboard_time": 1708307193,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111653,
+        "num": 111653,
+        "word": "Jennie薄纱褶皱黑裙",
+        "onboard_time": 1708303292,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111588,
+        "num": 111588,
+        "word": "华为官宣Pocket2发布会",
+        "onboard_time": 1708306711,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#怎样理解江山就是人民#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/18 00:20:33 ~ 2024/02/19 11:18:25
+本榜单时间：2024/02/18 00:20:33 ~ 2024/02/19 11:34:13
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+女教师被举报出轨高中生未被停职（热度：1862994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%96%E9%9E%8B%23" target="weibo">
 特朗普卖鞋（热度：1818085）
 </a>
@@ -178,7 +184,13 @@ iPhone16Pro高清渲染图（热度：1600731）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%80%9D%E5%A4%8D%E5%B7%A5%23" target="weibo">
-李思思复工（热度：1336598）
+李思思复工（热度：1355894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%99%8D%E4%BB%B7%23" target="weibo">
+比亚迪降价（热度：1319821）
 </a>
 </li>
 
@@ -215,12 +227,6 @@ iPhone16Pro高清渲染图（热度：1600731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E5%85%A8%E5%91%98%E6%AD%BB%E4%BA%A1%23" target="weibo">
 咒术回战全员死亡（热度：1242489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%99%8D%E4%BB%B7%23" target="weibo">
-比亚迪降价（热度：1238239）
 </a>
 </li>
 
@@ -747,6 +753,12 @@ YouTube前CEO之子在校突然身亡（热度：587697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B8%A9%E5%B7%AE90%E5%BA%A6%23" target="weibo">
+全国温差90度（热度：516039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E9%AB%98%E9%80%9F%E5%A4%AA%E5%A0%B5%E8%B7%9F%E9%A2%86%E5%AF%BC%E8%AF%B7%E5%81%87%E8%A2%AB%E6%8B%92%E4%BA%86%23" target="weibo">
 因为高速太堵跟领导请假被拒了（热度：515340）
 </a>
@@ -797,6 +809,12 @@ YouTube前CEO之子在校突然身亡（热度：587697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%9B%B9%E5%9B%AD%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
 黑龙江曹园事件最新进展（热度：489373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E6%96%AD%E4%BA%B2%23" target="weibo">
+人民网评农村出现以家庭为单位断亲（热度：487403）
 </a>
 </li>
 
@@ -963,12 +981,6 @@ YouTube前CEO之子在校突然身亡（热度：587697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B8%A9%E5%B7%AE90%E5%BA%A6%23" target="weibo">
-全国温差90度（热度：404344）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%A1%AE%E8%AF%8A%E8%8A%82%E5%90%8E%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
 上班第一天确诊节后综合征（热度：400946）
 </a>
@@ -1025,12 +1037,6 @@ Jennie薄纱褶皱黑裙（热度：380656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%20%E5%A5%B9%E6%80%8E%E4%B9%88%E6%95%A2%E7%9A%84%E5%95%8A%23" target="weibo">
 司机 她怎么敢的啊（热度：376936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%86%9C%E6%9D%91%E5%87%BA%E7%8E%B0%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E6%96%AD%E4%BA%B2%23" target="weibo">
-人民网评农村出现以家庭为单位断亲（热度：376203）
 </a>
 </li>
 
@@ -1161,6 +1167,12 @@ Jennie薄纱褶皱黑裙（热度：380656）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E6%9D%80%E9%9D%92%23" target="weibo">
+仙台有树杀青（热度：324160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9C%A8%E5%8E%A6%E9%87%91%E6%B5%B7%E5%9F%9F%E5%BC%80%E5%B1%95%E6%89%A7%E6%B3%95%E5%B7%A1%E6%9F%A5%E8%A1%8C%E5%8A%A8%23" target="weibo">
 中国海警在厦金海域开展执法巡查行动（热度：322422）
 </a>
@@ -1175,12 +1187,6 @@ Jennie薄纱褶皱黑裙（热度：380656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%80%E5%B9%B2%E9%83%A8%E9%98%B2%E7%96%AB%E4%B8%A5%E5%B3%BB%E6%9C%9F%E7%9B%97%E5%8D%961.5%E4%B8%87%E5%A5%97%E9%98%B2%E6%8A%A4%E6%9C%8D%23" target="weibo">
 新疆一干部防疫严峻期盗卖1.5万套防护服（热度：321686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E6%9D%80%E9%9D%92%23" target="weibo">
-仙台有树杀青（热度：321625）
 </a>
 </li>
 
@@ -1331,12 +1337,6 @@ Jennie薄纱褶皱黑裙（热度：380656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%87%E8%B6%85%E5%B8%82%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BC%8020%E5%B9%B4%23" target="weibo">
 小镇超市为何能开20年（热度：287548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E9%AB%98%E4%B8%AD%E7%94%9F%E6%9C%AA%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
-女教师被举报出轨高中生未被停职（热度：284739）
 </a>
 </li>
 
@@ -1587,6 +1587,12 @@ aespa复古解构风（热度：284696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%23" target="weibo">
+官方通报贵州山火（热度：243556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%AE%9A%E6%A1%A3%23" target="weibo">
 江苏卫视长风渡定档（热度：241550）
 </a>
@@ -1721,6 +1727,12 @@ HMA红毯（热度：228280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%91%BD%E8%BF%90%E7%9A%84%E9%BD%BF%E8%BD%AE%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%E8%BD%AC%E5%8A%A8%23" target="weibo">
 陈楚生命运的齿轮还在继续转动（热度：221784）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%237.98%E4%B8%87%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AE%A9%E7%87%83%E6%B2%B9%E8%BD%A6%E6%85%8C%E4%BA%86%23" target="weibo">
+7.98万的比亚迪让燃油车慌了（热度：220488）
 </a>
 </li>
 
@@ -2145,12 +2157,6 @@ OPPO回应暂停折叠屏项目（热度：183843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B4%B5%E5%B7%9E%E5%B1%B1%E7%81%AB%23" target="weibo">
-官方通报贵州山火（热度：176950）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E6%9C%80%E5%A5%BD%E9%80%89%E4%B8%8A%E5%8D%88%23" target="weibo">
 上班摸鱼最好选上午（热度：176920）
 </a>
@@ -2181,6 +2187,12 @@ OPPO回应暂停折叠屏项目（热度：183843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E4%B8%AD%E5%9B%BD%E6%B6%A8%E4%BB%B7%23" target="weibo">
+LV中国涨价（热度：172021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Sora%23" target="weibo">
 Sora（热度：171999）
 </a>
@@ -2207,12 +2219,6 @@ Sora（热度：171999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%98%8F%E8%BF%B7%E6%B0%91%E8%AD%A6%E6%89%8B%E6%92%95%E8%BD%A6%E7%AA%97%E6%95%91%E4%BA%BA%23" target="weibo">
 男子驾车昏迷民警手撕车窗救人（热度：169925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%237.98%E4%B8%87%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%AE%A9%E7%87%83%E6%B2%B9%E8%BD%A6%E6%85%8C%E4%BA%86%23" target="weibo">
-7.98万的比亚迪让燃油车慌了（热度：169613）
 </a>
 </li>
 
@@ -2469,6 +2475,12 @@ Wendy将3月12日回归（热度：150157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%98%8E%E6%98%9F%E9%98%9F%E5%8D%8A%E5%9C%BA104%E5%88%86%23" target="weibo">
+东部明星队半场104分（热度：145696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%89%B6%E9%A2%9D%E8%8B%A6%E7%AC%91%E4%BD%86%E5%A4%B9%E5%AD%90%E9%9F%B3%23" target="weibo">
 魏大勋扶额苦笑但夹子音（热度：145380）
 </a>
@@ -2513,6 +2525,12 @@ Wendy将3月12日回归（热度：150157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%87%E5%AE%99%E9%9A%8F%E6%97%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E7%BB%88%E7%BB%93%23" target="weibo">
 为什么宇宙随时可能会终结（热度：144014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+俄乌局势新进展（热度：142689）
 </a>
 </li>
 
@@ -2595,6 +2613,12 @@ EDG阵容（热度：134972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8B%97%E7%8B%97%E7%9A%84%E7%9C%BC%E7%A5%9E%E4%B8%AD%E7%9C%8B%E5%88%B0%E4%BA%86%E6%8B%85%E5%BF%83%23" target="weibo">
+在狗狗的眼神中看到了担心（热度：130864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%91%E6%96%87%E8%B0%88NBA%E5%90%8D%E4%BA%BA%E8%B5%9B%23" target="weibo">
 王鹤棣发文谈NBA名人赛（热度：130522）
 </a>
@@ -2615,12 +2639,6 @@ EDG阵容（热度：134972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%AE%B6%E5%9B%AD%E8%BF%87%E6%98%A5%E8%8A%82%23" target="weibo">
 神十七乘组在太空家园过春节（热度：124787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8B%97%E7%8B%97%E7%9A%84%E7%9C%BC%E7%A5%9E%E4%B8%AD%E7%9C%8B%E5%88%B0%E4%BA%86%E6%8B%85%E5%BF%83%23" target="weibo">
-在狗狗的眼神中看到了担心（热度：123138）
 </a>
 </li>
 
@@ -2799,6 +2817,12 @@ NBA官方发了王鹤棣（热度：93486）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%98%AF%E6%87%82%E6%97%B6%E5%B0%9A%E7%9A%84%23" target="weibo">
+余承东是懂时尚的（热度：64071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%A9%BF%E7%9D%A1%E8%A1%A3%E6%8B%96%E9%9E%8B%E8%B7%B3%E8%88%9E%23" target="weibo">
 金晨穿睡衣拖鞋跳舞（热度：63036）
 </a>
@@ -2813,12 +2837,6 @@ NBA官方发了王鹤棣（热度：93486）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BD%95%E7%BB%BC%E8%89%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
 丁程鑫录综艺受伤（热度：58212）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%98%AF%E6%87%82%E6%97%B6%E5%B0%9A%E7%9A%84%23" target="weibo">
-余承东是懂时尚的（热度：54373）
 </a>
 </li>
 
