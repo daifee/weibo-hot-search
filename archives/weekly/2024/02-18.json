@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708384594966,
+  "endTime": 1708385643561,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -563,6 +563,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1170391,
+      "num": 512775,
+      "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
+      "onboard_time": 1708354362,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1151275,
       "num": 1151275,
       "word": "车厘子到底是不是大号樱桃",
@@ -673,14 +681,6 @@
       "onboard_time": 1708242394,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 990840,
-      "num": 512775,
-      "word": "律师称出轨女教师丈夫或涉嫌侮辱罪",
-      "onboard_time": 1708354362,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 977207,
@@ -1643,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484023,
+      "num": 484023,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483025,
       "num": 360127,
       "word": "五官逐渐变得耐看的六种方法",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1708182874,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451314,
+      "num": 451314,
+      "word": "iPhone16Pro新配色",
+      "onboard_time": 1708384343,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 451105,
@@ -1947,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401540,
+      "num": 401540,
+      "word": "小学老师群发寒假作业烂尾预警",
+      "onboard_time": 1708354839,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 401503,
       "num": 401503,
       "word": "姚安娜新剧搭档张颂文",
@@ -2001,14 +2025,6 @@
       "onboard_time": 1708230936,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389864,
-      "num": 389864,
-      "word": "女子吐槽高铁上不售卖卫生巾",
-      "onboard_time": 1708374017,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389339,
@@ -2105,14 +2121,6 @@
       "onboard_time": 1708230337,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 370964,
-      "num": 370964,
-      "word": "小学老师群发寒假作业烂尾预警",
-      "onboard_time": 1708354839,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 370851,
@@ -2339,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335370,
+      "num": 224466,
+      "word": "怎么轮到结婚就开始让我凑合了",
+      "onboard_time": 1708384281,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 333632,
       "num": 333632,
       "word": "庄达菲刘恋赵梦同游曼谷",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1708352983,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315329,
+      "num": 220567,
+      "word": "打一肚子腹稿结果亲戚降级了",
+      "onboard_time": 1708382659,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 314849,
@@ -3331,6 +3355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232359,
+      "num": 157418,
+      "word": "为啥现在男生不追女生了",
+      "onboard_time": 1708383681,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230913,
       "num": 230913,
       "word": "樊振东3比0马乔里斯",
@@ -3361,6 +3393,14 @@
       "onboard_time": 1708249535,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227619,
+      "num": 227619,
+      "word": "南来北往剧情坐高铁了",
+      "onboard_time": 1708378215,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 227222,
@@ -3569,6 +3609,14 @@
       "onboard_time": 1708228656,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 216690,
+      "num": 216690,
+      "word": "秦朗丢寒假作业事件大结局",
+      "onboard_time": 1708384946,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216518,
@@ -4179,14 +4227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184657,
-      "num": 184657,
-      "word": "南来北往剧情坐高铁了",
-      "onboard_time": 1708378215,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184519,
       "num": 184519,
       "word": "仙逆24集",
@@ -4555,6 +4595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167028,
+      "num": 167028,
+      "word": "梅西3次表示希望再来中国",
+      "onboard_time": 1708383681,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166967,
       "num": 166967,
       "word": "梅西沙特第一场",
@@ -4851,14 +4899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154923,
-      "num": 154923,
-      "word": "打一肚子腹稿结果亲戚降级了",
-      "onboard_time": 1708382659,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154757,
       "num": 154757,
       "word": "央视网评论傅园慧求助",
@@ -5017,6 +5057,22 @@
       "onboard_time": 1708341876,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147704,
+      "num": 147704,
+      "word": "博主称梅西澄清视频字幕翻译错了",
+      "onboard_time": 1708384281,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146792,
+      "num": 146792,
+      "word": "北漂女子自嘲回老家像乡下人进城",
+      "onboard_time": 1708378755,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146612,
@@ -5227,14 +5283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137933,
-      "num": 96027,
-      "word": "为啥现在男生不追女生了",
-      "onboard_time": 1708383681,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137439,
       "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
@@ -5409,14 +5457,6 @@
       "onboard_time": 1708215029,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125602,
-      "num": 95869,
-      "word": "北漂女子自嘲回老家像乡下人进城",
-      "onboard_time": 1708378755,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124787,
@@ -5643,6 +5683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102032,
+      "num": 102032,
+      "word": "突然就学会化妆了",
+      "onboard_time": 1708384763,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 102015,
       "num": 2858700,
       "word": "5架国产飞机新年组团出国门",
@@ -5723,14 +5771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 86022,
-      "num": 86022,
-      "word": "怎么轮到结婚就开始让我凑合了",
-      "onboard_time": 1708384281,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85808,
       "num": 193433,
       "word": "准备好拥抱春天了吗",
@@ -5739,12 +5779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81744,
-      "num": 81744,
-      "word": "梅西3次表示希望再来中国",
-      "onboard_time": 1708383681,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 83621,
+      "num": 83621,
+      "word": "EDG倒数第一",
+      "onboard_time": 1708385367,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83587,
+      "num": 83587,
+      "word": "夜间出现5种情况或是疾病信号",
+      "onboard_time": 1708369697,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81219,
@@ -5763,28 +5811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76627,
-      "num": 76627,
-      "word": "夜间出现5种情况或是疾病信号",
-      "onboard_time": 1708369697,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 74213,
       "num": 74213,
       "word": "建议把上班改成熬班",
       "onboard_time": 1708292535,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66252,
-      "num": 66252,
-      "word": "iPhone16Pro新配色",
-      "onboard_time": 1708384343,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 64071,
@@ -5801,14 +5833,6 @@
       "onboard_time": 1708276405,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61271,
-      "num": 61271,
-      "word": "博主称梅西澄清视频字幕翻译错了",
-      "onboard_time": 1708384281,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 60791,
@@ -5891,6 +5915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43862,
+      "num": 1117473,
+      "word": "长三角晒2023年经济发展成绩单",
+      "onboard_time": 1708351841,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42107,
       "num": 42107,
       "word": "正月初九拜天公",
@@ -5921,14 +5953,6 @@
       "onboard_time": 1708338282,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 35393,
-      "num": 1117473,
-      "word": "长三角晒2023年经济发展成绩单",
-      "onboard_time": 1708351841,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35311,
