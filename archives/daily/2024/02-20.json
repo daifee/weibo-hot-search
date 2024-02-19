@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708367634033,
+  "endTime": 1708370065203,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96534,
+      "num": 96534,
+      "word": "在暴雪时分有26场吻戏",
+      "onboard_time": 1708368018,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96318,
       "num": 96318,
       "word": "这一刻王鹤棣等了14年",
@@ -443,12 +451,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24521,
+      "raw_hot": 24525,
       "num": 25766,
       "word": "42个iPhone隐藏功能",
       "onboard_time": 1708367180,
       "rank": 48,
       "category": "数码,科学科普"
+    },
+    {
+      "raw_hot": 21496,
+      "num": 21496,
+      "word": "夜间出现5种情况或是疾病信号",
+      "onboard_time": 1708369697,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13083,

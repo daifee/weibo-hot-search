@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708367634033,
+  "endTime": 1708370065203,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -49059,6 +49059,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96534,
+      "num": 96534,
+      "word": "在暴雪时分有26场吻戏",
+      "onboard_time": 1708368018,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96361,
       "num": 96361,
       "word": "黄子佼性骚扰受害者发声",
@@ -52331,7 +52339,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24521,
+      "raw_hot": 24525,
       "num": 25766,
       "word": "42个iPhone隐藏功能",
       "onboard_time": 1708367180,
@@ -52481,6 +52489,14 @@
       "onboard_time": 1706868153,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21496,
+      "num": 21496,
+      "word": "夜间出现5种情况或是疾病信号",
+      "onboard_time": 1708369697,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21421,
