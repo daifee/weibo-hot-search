@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708345890440,
+  "endTime": 1708346813719,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -731,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3688012,
+      "num": 3688012,
+      "word": "聊天记录PDF 吃瓜传播逻辑",
+      "onboard_time": 1708345178,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 3675516,
       "num": 3675516,
       "word": "三天60亿",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1704766651,
       "rank": 0,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 2670562,
+      "num": 2670562,
+      "word": "杨迪爆改",
+      "onboard_time": 1708344698,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2653997,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1705044332,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2144782,
-      "num": 2144782,
-      "word": "专家称年轻人不生娃的思维是正确的",
-      "onboard_time": 1705644207,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2143839,
-      "num": 2143839,
-      "word": "新疆分会场像开了倍速",
-      "onboard_time": 1707492674,
-      "rank": 35,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

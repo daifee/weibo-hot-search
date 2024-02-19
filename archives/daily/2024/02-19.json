@@ -1,6 +1,6 @@
 {
   "startTime": 1708273241489,
-  "endTime": 1708345890440,
+  "endTime": 1708346813719,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3688012,
+      "num": 3688012,
+      "word": "聊天记录PDF 吃瓜传播逻辑",
+      "onboard_time": 1708345178,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 3461787,
       "num": 3461787,
       "word": "女教师被举报出轨高中生未被停职",
@@ -33,6 +41,14 @@
       "onboard_time": 1708325438,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2670562,
+      "num": 2670562,
+      "word": "杨迪爆改",
+      "onboard_time": 1708344698,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2613465,
@@ -137,14 +153,6 @@
       "onboard_time": 1708301971,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1596298,
-      "num": 1596298,
-      "word": "杨迪爆改",
-      "onboard_time": 1708344698,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1572865,
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 997698,
-      "num": 571464,
-      "word": "聊天记录PDF 吃瓜传播逻辑",
-      "onboard_time": 1708345178,
-      "rank": 10,
-      "category": "互联网"
+      "raw_hot": 1001169,
+      "num": 1001169,
+      "word": "再来十次大姨妈就过年了",
+      "onboard_time": 1708344996,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 977207,
@@ -683,14 +691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 461356,
-      "num": 461356,
-      "word": "再来十次大姨妈就过年了",
-      "onboard_time": 1708344996,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 460556,
       "num": 370019,
       "word": "感觉这个弟弟快要碎了",
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363485,
+      "num": 303101,
+      "word": "毛不易 有时间生孩子都不错了",
+      "onboard_time": 1708345899,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360005,
       "num": 360005,
       "word": "春节后上班第一天民政局遇离婚潮",
@@ -955,12 +963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340003,
+      "num": 315328,
+      "word": "赵丽颖孙千撞衫",
+      "onboard_time": 1708344401,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338655,
       "num": 338655,
       "word": "陈靖可 内娱又多了一位百灵鸟",
       "onboard_time": 1708301012,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337627,
+      "num": 314317,
+      "word": "车主曝42万奔驰新车开20公里油门失灵",
+      "onboard_time": 1708344637,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 335571,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323974,
+      "num": 280671,
+      "word": "娜扎丞磊合照",
+      "onboard_time": 1708345899,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322428,
       "num": 202740,
       "word": "蔡依林Valentino品牌代言人",
@@ -1027,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315328,
-      "num": 315328,
-      "word": "赵丽颖孙千撞衫",
-      "onboard_time": 1708344401,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314849,
       "num": 314849,
       "word": "没想到相亲相到了初恋",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1708242933,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 314317,
-      "num": 314317,
-      "word": "车主曝42万奔驰新车开20公里油门失灵",
-      "onboard_time": 1708344637,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 313700,
@@ -1675,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191386,
+      "num": 191386,
+      "word": "汪苏泷镜头下的声生不息全员",
+      "onboard_time": 1708345839,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191323,
       "num": 191323,
       "word": "鞠婧祎玫瑰发饰",
@@ -1763,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179850,
+      "num": 179850,
+      "word": "陈靖可精神状态",
+      "onboard_time": 1708346559,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179831,
       "num": 179831,
       "word": "aespa2024巡演日程",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1708335576,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177619,
+      "num": 145459,
+      "word": "张若昀射箭名场面又多一个",
+      "onboard_time": 1708346320,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 176763,
@@ -2211,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139547,
+      "num": 139547,
+      "word": "女生觉醒的第一步",
+      "onboard_time": 1708345720,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "五菱跟进比亚迪价格战",
@@ -2363,12 +2411,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 128697,
-      "num": 128697,
-      "word": "汪苏泷镜头下的声生不息全员",
-      "onboard_time": 1708345839,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 127758,
+      "num": 127758,
+      "word": "拎出一只小狗头",
+      "onboard_time": 1708346081,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126272,
