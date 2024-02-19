@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708373860603,
+  "endTime": 1708374858911,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -5939,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19611,
+      "num": 19611,
+      "word": "女子吐槽高铁上不售卖卫生巾",
+      "onboard_time": 1708374017,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16572,
       "num": 17804,
       "word": "5招提高睡眠质量",
@@ -5979,6 +5987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14568,
+      "num": 14568,
+      "word": "金秀贤金智媛眼泪女王吻戏",
+      "onboard_time": 1708374136,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14378,
       "num": 22062,
       "word": "卡皮巴拉型小狗",
@@ -6001,6 +6017,14 @@
       "onboard_time": 1708285756,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 11672,
+      "num": 11672,
+      "word": "西安中小学开学时间调整",
+      "onboard_time": 1708374675,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 11548,
