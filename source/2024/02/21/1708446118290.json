@@ -1,0 +1,410 @@
+{
+  "runTime": 1708446118290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1961681,
+        "num": 1961681,
+        "word": "央视网评秦朗丢寒假作业事件",
+        "onboard_time": 1708440879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1622760,
+        "num": 1622760,
+        "word": "许凯报警",
+        "onboard_time": 1708437219,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80589,
+        "num": 1601369,
+        "word": "5个寒潮防范要点",
+        "onboard_time": 1708437521,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591050,
+        "num": 1591050,
+        "word": "肖战 请不要再蹲守了",
+        "onboard_time": 1708441478,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1052871,
+        "num": 1052871,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660541,
+        "num": 660541,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615860,
+        "num": 615860,
+        "word": "背薄真的显年轻",
+        "onboard_time": 1708440638,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 516169,
+        "num": 516169,
+        "word": "冻雨",
+        "onboard_time": 1708439621,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436452,
+        "num": 436452,
+        "word": "贵州山火",
+        "onboard_time": 1708442259,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430745,
+        "num": 430745,
+        "word": "刘涛演妈祖 掷圣杯",
+        "onboard_time": 1708438002,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494264,
+        "num": 422678,
+        "word": "钱学森写在香烟纸上的求救信",
+        "onboard_time": 1708441360,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460677,
+        "num": 415053,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 382271,
+        "num": 382271,
+        "word": "不化妆素颜出门怎么变好看",
+        "onboard_time": 1708439981,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 381802,
+        "num": 381802,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367457,
+        "num": 367457,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363344,
+        "num": 363344,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 341409,
+        "num": 341409,
+        "word": "目前票房前6都是跨界导演",
+        "onboard_time": 1708445254,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312819,
+        "num": 312819,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 279341,
+        "num": 279341,
+        "word": "胡夏为异地情侣唱小宇",
+        "onboard_time": 1708443695,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256934,
+        "num": 256934,
+        "word": "四六级成绩倒计时",
+        "onboard_time": 1708439741,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 353261,
+        "num": 255239,
+        "word": "毕业工作四年只存了4w块钱",
+        "onboard_time": 1708433980,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237267,
+        "num": 237267,
+        "word": "贾玲有七部待播作品",
+        "onboard_time": 1708432780,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198518,
+        "num": 198518,
+        "word": "喜剧演员是对他最大的误解",
+        "onboard_time": 1708444596,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179463,
+        "num": 179463,
+        "word": "后车想破头也不知道堵车原因是800只鹅",
+        "onboard_time": 1708442259,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169753,
+        "num": 169753,
+        "word": "原来孙艺洲这么会开车",
+        "onboard_time": 1708440221,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167895,
+        "num": 167895,
+        "word": "南京打雷",
+        "onboard_time": 1708442854,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165281,
+        "num": 165281,
+        "word": "肖战工作室倡议书",
+        "onboard_time": 1708441057,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154219,
+        "num": 154219,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149346,
+        "num": 149346,
+        "word": "贵州普安山火已致2人遇难",
+        "onboard_time": 1708444296,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144066,
+        "num": 144066,
+        "word": "杨紫热辣红唇妆",
+        "onboard_time": 1708431878,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139761,
+        "num": 139761,
+        "word": "工位越乱的员工稳定性越好",
+        "onboard_time": 1708431579,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127234,
+        "num": 127234,
+        "word": "张佳宁点不掉的痣",
+        "onboard_time": 1708434160,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 126210,
+        "word": "考研成绩",
+        "onboard_time": 1708419582,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125135,
+        "num": 125135,
+        "word": "授她以柄",
+        "onboard_time": 1708429892,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122862,
+        "num": 122862,
+        "word": "姆巴佩同意加盟皇马",
+        "onboard_time": 1708441057,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121082,
+        "num": 121082,
+        "word": "我好像连一万块都很难存下来",
+        "onboard_time": 1708430433,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "从没想过雪地靴还有这种烂法",
+        "onboard_time": 1708440458,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114021,
+        "num": 114021,
+        "word": "百元之恋导演编剧祝贺贾玲",
+        "onboard_time": 1708420898,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110684,
+        "num": 110684,
+        "word": "妈妈让我工作后每月给家里转三千",
+        "onboard_time": 1708430433,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105640,
+        "num": 105640,
+        "word": "杨紫方否认演竹书谣",
+        "onboard_time": 1708438905,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105017,
+        "num": 105017,
+        "word": "努力凑够400万可怜可怜他",
+        "onboard_time": 1708425218,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88011,
+        "num": 102343,
+        "word": "每天敷面膜不如改善体质",
+        "onboard_time": 1708428215,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 102112,
+        "num": 102112,
+        "word": "江西菜是预制菜鄙视链的顶端",
+        "onboard_time": 1708435416,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101355,
+        "num": 101355,
+        "word": "久酷首播",
+        "onboard_time": 1708441478,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96403,
+        "num": 96403,
+        "word": "清华大学教授称我们的教育没有教孩子如何开心",
+        "onboard_time": 1708422095,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92253,
+        "num": 96403,
+        "word": "郑钦文医疗暂停",
+        "onboard_time": 1708439383,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86228,
+        "num": 96403,
+        "word": "刘亦菲阿布扎比新拍摄",
+        "onboard_time": 1708435478,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81491,
+        "num": 96402,
+        "word": "乐莹跳楼戏拍了72遍用了第72条",
+        "onboard_time": 1708417840,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81091,
+        "num": 96401,
+        "word": "Ricky最新Challenge",
+        "onboard_time": 1708441901,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78660,
+        "num": 96401,
+        "word": "北京下雪",
+        "onboard_time": 1708423481,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是马克思主义中国化时代化#"
+    }
+  }
+}
