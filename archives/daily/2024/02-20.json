@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708420629758,
+  "endTime": 1708421651696,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -27,6 +27,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 4580625,
+      "num": 4580625,
+      "word": "乐华为王一博报警",
+      "onboard_time": 1708419280,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4476995,
       "num": 4476995,
       "word": "多部门已介入核查柳鑫宇自曝事件",
@@ -41,14 +49,6 @@
       "onboard_time": 1708395092,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3516974,
-      "num": 3516974,
-      "word": "乐华为王一博报警",
-      "onboard_time": 1708419280,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 3474203,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1079717,
+      "num": 1079717,
+      "word": "李湘王岳伦成立新公司",
+      "onboard_time": 1708420780,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1067964,
       "num": 1067964,
       "word": "淘宝逐步开放微信支付",
@@ -313,6 +321,14 @@
       "onboard_time": 1708384343,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 896612,
+      "num": 896612,
+      "word": "柳鑫宇亮相十四冬花滑训练",
+      "onboard_time": 1708417181,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 894734,
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 786172,
-      "num": 786172,
-      "word": "柳鑫宇亮相十四冬花滑训练",
-      "onboard_time": 1708417181,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 767563,
       "num": 513155,
       "word": "女教师出轨事件",
@@ -403,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 740036,
+      "num": 740036,
+      "word": "柳鑫宇本人账号发声",
+      "onboard_time": 1708421081,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 733269,
       "num": 733269,
       "word": "五年期LPR报价下调",
@@ -419,8 +435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 697050,
-      "num": 697050,
+      "raw_hot": 711770,
+      "num": 711770,
       "word": "考研成绩",
       "onboard_time": 1708419582,
       "rank": 9,
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556778,
+      "num": 556778,
+      "word": "IU新歌",
+      "onboard_time": 1708420657,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 553521,
       "num": 553521,
       "word": "东方甄选报警",
@@ -691,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427380,
+      "num": 239369,
+      "word": "董路 梅西的事没那么复杂",
+      "onboard_time": 1708421139,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426540,
       "num": 426540,
       "word": "种地吧2定档",
@@ -763,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 395588,
+      "num": 395588,
+      "word": "文旅局称没有邀请男网红扮游神",
+      "onboard_time": 1708420479,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388541,
       "num": 388541,
       "word": "贾玲怕拍戏打扰群众上门发礼物",
@@ -809,6 +849,14 @@
       "onboard_time": 1708407765,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375616,
+      "num": 375616,
+      "word": "酱园弄豆瓣演员表更新",
+      "onboard_time": 1708420180,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 370111,
@@ -1003,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284636,
+      "num": 284636,
+      "word": "大学生被锁菜鸟驿站有多好笑",
+      "onboard_time": 1708418079,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283057,
       "num": 283057,
       "word": "梅西 双手插兜",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1708418140,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 264108,
-      "num": 264108,
-      "word": "大学生被锁菜鸟驿站有多好笑",
-      "onboard_time": 1708418079,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 260532,
@@ -1163,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242832,
+      "num": 242832,
+      "word": "百元之恋导演编剧祝贺贾玲",
+      "onboard_time": 1708420898,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241102,
       "num": 241102,
       "word": "许昕替老婆追星毛不易",
@@ -1227,14 +1283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225967,
-      "num": 225967,
-      "word": "酱园弄豆瓣演员表更新",
-      "onboard_time": 1708420180,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220480,
       "num": 220480,
       "word": "逆水寒手游",
@@ -1297,6 +1345,22 @@
       "onboard_time": 1708384763,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 213802,
+      "num": 213802,
+      "word": "事业脑谈恋爱 恋爱脑搞事业",
+      "onboard_time": 1708421317,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211321,
+      "num": 211321,
+      "word": "高校回应导师被曝与女学生有不当关系",
+      "onboard_time": 1708421139,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210370,
@@ -1411,6 +1475,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "十四冬 吉林队",
+      "onboard_time": 1708421379,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189629,
+      "num": 189629,
+      "word": "德国传奇球星布雷默去世",
+      "onboard_time": 1708420002,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189619,
       "num": 189619,
       "word": "大理寺少卿游今日开播",
@@ -1467,6 +1547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182842,
+      "num": 182842,
+      "word": "打工人该用哪种午睡姿势",
+      "onboard_time": 1708420718,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178929,
       "num": 178929,
       "word": "武汉打雷",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1708356702,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178527,
+      "num": 178527,
+      "word": "川崎前锋vs山东泰山",
+      "onboard_time": 1708418560,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 177555,
@@ -1571,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170509,
-      "num": 170509,
-      "word": "德国传奇球星布雷默去世",
-      "onboard_time": 1708420002,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167697,
       "num": 167697,
       "word": "沈月拯救我自拍技术",
@@ -1609,6 +1697,14 @@
       "onboard_time": 1708415618,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161407,
+      "num": 161407,
+      "word": "男子村里吃席碰上预制菜还要自己拆包装",
+      "onboard_time": 1708421017,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160460,
@@ -1761,14 +1857,6 @@
       "onboard_time": 1708353939,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143023,
-      "num": 143023,
-      "word": "文旅局称没有邀请男网红扮游神",
-      "onboard_time": 1708420479,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142888,
@@ -2044,7 +2132,7 @@
     },
     {
       "raw_hot": 81875,
-      "num": 2818423,
+      "num": 2926799,
       "word": "新春第一会省委书记们最关心什么事",
       "onboard_time": 1708405361,
       "rank": 2,
@@ -2089,6 +2177,14 @@
       "onboard_time": 1708342954,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43761,
+      "num": 326959,
+      "word": "手机拍照都大模型了",
+      "onboard_time": 1708420780,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 38077,

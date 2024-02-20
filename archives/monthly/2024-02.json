@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708420629758,
+  "endTime": 1708421651696,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4580625,
+      "num": 4580625,
+      "word": "乐华为王一博报警",
+      "onboard_time": 1708419280,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4476995,
       "num": 4476995,
       "word": "多部门已介入核查柳鑫宇自曝事件",
@@ -496,14 +504,6 @@
       "word": "杨波朋友圈",
       "onboard_time": 1707037529,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3516974,
-      "num": 3516974,
-      "word": "乐华为王一博报警",
-      "onboard_time": 1708419280,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -5075,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1079717,
+      "num": 1079717,
+      "word": "李湘王岳伦成立新公司",
+      "onboard_time": 1708420780,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1077455,
       "num": 1077455,
       "word": "车银优边抽烟边落泪",
@@ -6425,6 +6433,14 @@
       "onboard_time": 1707906517,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 896612,
+      "num": 896612,
+      "word": "柳鑫宇亮相十四冬花滑训练",
+      "onboard_time": 1708417181,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 896153,
@@ -7907,14 +7923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 786172,
-      "num": 786172,
-      "word": "柳鑫宇亮相十四冬花滑训练",
-      "onboard_time": 1708417181,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 786062,
       "num": 786062,
       "word": "大年初七",
@@ -8571,6 +8579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 740036,
+      "num": 740036,
+      "word": "柳鑫宇本人账号发声",
+      "onboard_time": 1708421081,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 739728,
       "num": 685620,
       "word": "刘雯带井柏然回老家",
@@ -9075,6 +9091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 711770,
+      "num": 711770,
+      "word": "考研成绩",
+      "onboard_time": 1708419582,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 711762,
       "num": 711762,
       "word": "看心情吧",
@@ -9289,14 +9313,6 @@
       "onboard_time": 1708264475,
       "rank": 14,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 697050,
-      "num": 697050,
-      "word": "考研成绩",
-      "onboard_time": 1708419582,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 696772,
@@ -12209,6 +12225,14 @@
       "onboard_time": 1708171231,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 556778,
+      "num": 556778,
+      "word": "IU新歌",
+      "onboard_time": 1708420657,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 556223,
@@ -15987,6 +16011,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 427380,
+      "num": 239369,
+      "word": "董路 梅西的事没那么复杂",
+      "onboard_time": 1708421139,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427363,
       "num": 481031,
       "word": "破五是要破什么",
@@ -17323,6 +17355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 395588,
+      "num": 395588,
+      "word": "文旅局称没有邀请男网红扮游神",
+      "onboard_time": 1708420479,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395572,
       "num": 395572,
       "word": "孔刘帮李栋旭走出低谷期",
@@ -18145,6 +18185,14 @@
       "onboard_time": 1708240894,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375616,
+      "num": 375616,
+      "word": "酱园弄豆瓣演员表更新",
+      "onboard_time": 1708420180,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 375557,
@@ -22875,6 +22923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284636,
+      "num": 284636,
+      "word": "大学生被锁菜鸟驿站有多好笑",
+      "onboard_time": 1708418079,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 284562,
       "num": 284562,
       "word": "上帝怕人类跑进两小时",
@@ -24433,14 +24489,6 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 264108,
-      "num": 264108,
-      "word": "大学生被锁菜鸟驿站有多好笑",
-      "onboard_time": 1708418079,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 264007,
@@ -26299,6 +26347,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 242832,
+      "num": 242832,
+      "word": "百元之恋导演编剧祝贺贾玲",
+      "onboard_time": 1708420898,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242693,
       "num": 242693,
       "word": "要久久刀",
@@ -28067,14 +28123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225967,
-      "num": 225967,
-      "word": "酱园弄豆瓣演员表更新",
-      "onboard_time": 1708420180,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -29747,6 +29795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213802,
+      "num": 213802,
+      "word": "事业脑谈恋爱 恋爱脑搞事业",
+      "onboard_time": 1708421317,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213621,
       "num": 213621,
       "word": "第二十条票房破15亿",
@@ -30073,6 +30129,14 @@
       "onboard_time": 1708254934,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211321,
+      "num": 211321,
+      "word": "高校回应导师被曝与女学生有不当关系",
+      "onboard_time": 1708421139,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211221,
@@ -34147,6 +34211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "十四冬 吉林队",
+      "onboard_time": 1708421379,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190182,
       "num": 190182,
       "word": "谷江山关于成真",
@@ -34225,6 +34297,14 @@
       "onboard_time": 1707185670,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189629,
+      "num": 189629,
+      "word": "德国传奇球星布雷默去世",
+      "onboard_time": 1708420002,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189619,
@@ -35451,6 +35531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182842,
+      "num": 182842,
+      "word": "打工人该用哪种午睡姿势",
+      "onboard_time": 1708420718,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182833,
       "num": 182833,
       "word": "一诺空降粉丝群",
@@ -36177,6 +36265,14 @@
       "onboard_time": 1706758290,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 178527,
+      "num": 178527,
+      "word": "川崎前锋vs山东泰山",
+      "onboard_time": 1708418560,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 178436,
@@ -37649,14 +37745,6 @@
       "onboard_time": 1707358590,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170509,
-      "num": 170509,
-      "word": "德国传奇球星布雷默去世",
-      "onboard_time": 1708420002,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 170387,
@@ -39489,6 +39577,14 @@
       "onboard_time": 1708345236,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161407,
+      "num": 161407,
+      "word": "男子村里吃席碰上预制菜还要自己拆包装",
+      "onboard_time": 1708421017,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161393,
@@ -43169,14 +43265,6 @@
       "onboard_time": 1707980731,
       "rank": 35,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 143023,
-      "num": 143023,
-      "word": "文旅局称没有邀请男网红扮游神",
-      "onboard_time": 1708420479,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142993,
@@ -51420,7 +51508,7 @@
     },
     {
       "raw_hot": 81875,
-      "num": 2818423,
+      "num": 2926799,
       "word": "新春第一会省委书记们最关心什么事",
       "onboard_time": 1708405361,
       "rank": 2,
@@ -52969,6 +53057,14 @@
       "onboard_time": 1707511576,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43761,
+      "num": 326959,
+      "word": "手机拍照都大模型了",
+      "onboard_time": 1708420780,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 43448,
