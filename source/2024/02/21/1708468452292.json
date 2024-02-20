@@ -1,0 +1,410 @@
+{
+  "runTime": 1708468452292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 324058,
+        "num": 324058,
+        "word": "上海暴雨",
+        "onboard_time": 1708463356,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274211,
+        "num": 274211,
+        "word": "央视网评秦朗丢寒假作业事件",
+        "onboard_time": 1708440879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21349,
+        "num": 170409,
+        "word": "航天员拍摄的蔚蓝地球",
+        "onboard_time": 1708437273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169516,
+        "num": 169516,
+        "word": "肖战 请不要再蹲守了",
+        "onboard_time": 1708441478,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143998,
+        "num": 143998,
+        "word": "目前票房前6都是跨界导演",
+        "onboard_time": 1708445254,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 132383,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124794,
+        "num": 124794,
+        "word": "许凯报警",
+        "onboard_time": 1708437219,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114004,
+        "num": 114004,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103260,
+        "num": 103260,
+        "word": "后车想破头也不知道堵车原因是800只鹅",
+        "onboard_time": 1708442259,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80290,
+        "num": 80290,
+        "word": "冻雨",
+        "onboard_time": 1708439621,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111237,
+        "num": 77267,
+        "word": "当哈尔滨收起来玩具后的本地人",
+        "onboard_time": 1708447351,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97957,
+        "num": 76163,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 87872,
+        "num": 74355,
+        "word": "中国女游客泰国搭摩托车险遭司机强暴",
+        "onboard_time": 1708448065,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68449,
+        "num": 68449,
+        "word": "贾玲第一次正视自己的才华",
+        "onboard_time": 1708453758,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63936,
+        "num": 63936,
+        "word": "刘涛演妈祖 掷圣杯",
+        "onboard_time": 1708438002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52511,
+        "num": 52511,
+        "word": "明星后援会是怎么运作的",
+        "onboard_time": 1708466057,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50766,
+        "num": 50766,
+        "word": "背薄真的显年轻",
+        "onboard_time": 1708440638,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 48208,
+        "num": 48208,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44959,
+        "num": 44959,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37659,
+        "num": 37659,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 62150,
+        "num": 37446,
+        "word": "毕业工作四年只存了4w块钱",
+        "onboard_time": 1708433980,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45773,
+        "num": 36000,
+        "word": "贾玲有七部待播作品",
+        "onboard_time": 1708432780,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41152,
+        "num": 34621,
+        "word": "妈妈让我工作后每月给家里转三千",
+        "onboard_time": 1708430433,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30928,
+        "num": 30928,
+        "word": "曼谷偶遇刘恋庄达菲",
+        "onboard_time": 1708449323,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28293,
+        "num": 28293,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 27654,
+        "num": 27654,
+        "word": "十年前抽过的烟至今还在伤害免疫系统",
+        "onboard_time": 1708458557,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27412,
+        "num": 27412,
+        "word": "钱学森写在香烟纸上的求救信",
+        "onboard_time": 1708441360,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27112,
+        "num": 27112,
+        "word": "以为大家开玩笑的你家是真有",
+        "onboard_time": 1708459396,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26296,
+        "num": 26296,
+        "word": "工位越乱的员工稳定性越好",
+        "onboard_time": 1708431579,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25841,
+        "num": 25841,
+        "word": "喜剧演员是对他最大的误解",
+        "onboard_time": 1708444596,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24192,
+        "num": 24192,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23921,
+        "num": 23921,
+        "word": "原来孙艺洲这么会开车",
+        "onboard_time": 1708440221,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23695,
+        "num": 23695,
+        "word": "四六级成绩倒计时",
+        "onboard_time": 1708439741,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23057,
+        "num": 23057,
+        "word": "我好像连一万块都很难存下来",
+        "onboard_time": 1708430433,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22201,
+        "num": 22201,
+        "word": "贵州山火",
+        "onboard_time": 1708442259,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21196,
+        "num": 21196,
+        "word": "不化妆素颜出门怎么变好看",
+        "onboard_time": 1708439981,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 21184,
+        "num": 21184,
+        "word": "肖战工作室倡议书",
+        "onboard_time": 1708441057,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20954,
+        "num": 20954,
+        "word": "男子游神现场cos赵世子被马夫鞭打",
+        "onboard_time": 1708457237,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20481,
+        "num": 20481,
+        "word": "姆巴佩签字费达1.5亿欧",
+        "onboard_time": 1708467677,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20259,
+        "num": 20259,
+        "word": "张佳宁点不掉的痣",
+        "onboard_time": 1708434160,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19216,
+        "num": 19216,
+        "word": "狗狗的耳朵一只站岗一只稍息",
+        "onboard_time": 1708450283,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18984,
+        "num": 18984,
+        "word": "江西菜是预制菜鄙视链的顶端",
+        "onboard_time": 1708435416,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18695,
+        "num": 18695,
+        "word": "贵州普安山火已致2人遇难",
+        "onboard_time": 1708444296,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18568,
+        "num": 18568,
+        "word": "韩素希腰部纹身含义",
+        "onboard_time": 1708453640,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18126,
+        "num": 18126,
+        "word": "生死面前什么是更好的抉择",
+        "onboard_time": 1708463297,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17521,
+        "num": 17521,
+        "word": "胖东来回应看完电影不满意可退半价",
+        "onboard_time": 1708450462,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16947,
+        "num": 16947,
+        "word": "努力凑够400万可怜可怜他",
+        "onboard_time": 1708425218,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16940,
+        "num": 16940,
+        "word": "济南的雪盐里盐气的",
+        "onboard_time": 1708468158,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15738,
+        "num": 16932,
+        "word": "知道许昕家缺什么了缺观众席",
+        "onboard_time": 1708458018,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15455,
+        "num": 16923,
+        "word": "百元之恋导演编剧祝贺贾玲",
+        "onboard_time": 1708420898,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}
