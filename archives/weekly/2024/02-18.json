@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708447000471,
+  "endTime": 1708449308618,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1379,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 780059,
+      "num": 780059,
+      "word": "目前票房前6都是跨界导演",
+      "onboard_time": 1708445254,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 779960,
       "num": 779960,
       "word": "王鹤棣与詹姆斯见面",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1708423597,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 715435,
-      "num": 715435,
-      "word": "目前票房前6都是跨界导演",
-      "onboard_time": 1708445254,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 713480,
@@ -6683,6 +6683,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 169717,
+      "num": 169717,
+      "word": "中国女游客泰国搭摩托车险遭司机强暴",
+      "onboard_time": 1708448065,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169438,
       "num": 169438,
       "word": "韦世豪 成都",
@@ -8091,6 +8099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109336,
+      "num": 109336,
+      "word": "当哈尔滨收起来玩具后的本地人",
+      "onboard_time": 1708447351,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108008,
       "num": 125011,
       "word": "民警人工导航解救沙尘暴被困车辆",
@@ -8347,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57318,
+      "num": 57318,
+      "word": "西村力DANIELLE Challenge",
+      "onboard_time": 1708447528,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56316,
       "num": 2122258,
       "word": "长三角的新春第一会都在拼什么",
@@ -8369,6 +8393,14 @@
       "onboard_time": 1708298725,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52724,
+      "num": 52724,
+      "word": "我在橙色巴黎走哪算哪",
+      "onboard_time": 1708449024,
+      "rank": 41,
+      "category": "旅游,网红"
     },
     {
       "raw_hot": 51501,

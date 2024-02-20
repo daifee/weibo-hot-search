@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708447000471,
+  "endTime": 1708449308618,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 715435,
-      "num": 715435,
+      "raw_hot": 780059,
+      "num": 780059,
       "word": "目前票房前6都是跨界导演",
       "onboard_time": 1708445254,
       "rank": 16,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169717,
+      "num": 169717,
+      "word": "中国女游客泰国搭摩托车险遭司机强暴",
+      "onboard_time": 1708448065,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167895,
       "num": 167895,
       "word": "南京打雷",
@@ -307,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109336,
+      "num": 109336,
+      "word": "当哈尔滨收起来玩具后的本地人",
+      "onboard_time": 1708447351,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105640,
       "num": 105640,
       "word": "杨紫方否认演竹书谣",
@@ -417,6 +433,22 @@
       "onboard_time": 1708431697,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57318,
+      "num": 57318,
+      "word": "西村力DANIELLE Challenge",
+      "onboard_time": 1708447528,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52724,
+      "num": 52724,
+      "word": "我在橙色巴黎走哪算哪",
+      "onboard_time": 1708449024,
+      "rank": 41,
+      "category": "旅游,网红"
     }
   ],
   "hotgov_list": [
