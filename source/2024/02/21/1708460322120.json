@@ -1,0 +1,410 @@
+{
+  "runTime": 1708460322120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 145099,
+        "num": 145099,
+        "word": "央视网评秦朗丢寒假作业事件",
+        "onboard_time": 1708440879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106500,
+        "num": 106500,
+        "word": "许凯报警",
+        "onboard_time": 1708437219,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14196,
+        "num": 100658,
+        "word": "航天员拍摄的蔚蓝地球",
+        "onboard_time": 1708437273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121616,
+        "num": 100167,
+        "word": "肖战 请不要再蹲守了",
+        "onboard_time": 1708441478,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99522,
+        "num": 99522,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75105,
+        "num": 75105,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71705,
+        "num": 71705,
+        "word": "目前票房前6都是跨界导演",
+        "onboard_time": 1708445254,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62500,
+        "num": 62500,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55262,
+        "num": 55262,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50361,
+        "num": 50361,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 9,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 72849,
+        "num": 49808,
+        "word": "贾玲第一次正视自己的才华",
+        "onboard_time": 1708453758,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47192,
+        "num": 47192,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 43870,
+        "num": 43870,
+        "word": "背薄真的显年轻",
+        "onboard_time": 1708440638,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 42320,
+        "num": 42320,
+        "word": "冻雨",
+        "onboard_time": 1708439621,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41244,
+        "num": 41244,
+        "word": "刘涛演妈祖 掷圣杯",
+        "onboard_time": 1708438002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40775,
+        "num": 40775,
+        "word": "中国女游客泰国搭摩托车险遭司机强暴",
+        "onboard_time": 1708448065,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38117,
+        "num": 38117,
+        "word": "当哈尔滨收起来玩具后的本地人",
+        "onboard_time": 1708447351,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31333,
+        "num": 31333,
+        "word": "后车想破头也不知道堵车原因是800只鹅",
+        "onboard_time": 1708442259,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31221,
+        "num": 31221,
+        "word": "韩素希腰部纹身含义",
+        "onboard_time": 1708453640,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30522,
+        "num": 30522,
+        "word": "十年前抽过的烟至今还在伤害免疫系统",
+        "onboard_time": 1708458557,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34295,
+        "num": 30023,
+        "word": "毕业工作四年只存了4w块钱",
+        "onboard_time": 1708433980,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28432,
+        "num": 28432,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27822,
+        "num": 27822,
+        "word": "贾玲有七部待播作品",
+        "onboard_time": 1708432780,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26209,
+        "num": 26209,
+        "word": "曼谷偶遇刘恋庄达菲",
+        "onboard_time": 1708449323,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23905,
+        "num": 23905,
+        "word": "贵州山火",
+        "onboard_time": 1708442259,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23432,
+        "num": 23432,
+        "word": "四六级成绩倒计时",
+        "onboard_time": 1708439741,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23100,
+        "num": 23100,
+        "word": "妈妈让我工作后每月给家里转三千",
+        "onboard_time": 1708430433,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21406,
+        "num": 21406,
+        "word": "虞书欣兔塑",
+        "onboard_time": 1708452381,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20975,
+        "num": 20975,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 18482,
+        "num": 20324,
+        "word": "钱学森写在香烟纸上的求救信",
+        "onboard_time": 1708441360,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20044,
+        "num": 20044,
+        "word": "男子游神现场cos赵世子被马夫鞭打",
+        "onboard_time": 1708457237,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18966,
+        "num": 18966,
+        "word": "肖战工作室倡议书",
+        "onboard_time": 1708441057,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18607,
+        "num": 18607,
+        "word": "我好像连一万块都很难存下来",
+        "onboard_time": 1708430433,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18227,
+        "num": 18227,
+        "word": "百元之恋导演编剧祝贺贾玲",
+        "onboard_time": 1708420898,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18185,
+        "num": 18185,
+        "word": "工位越乱的员工稳定性越好",
+        "onboard_time": 1708431579,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16799,
+        "num": 16799,
+        "word": "贵州普安山火已致2人遇难",
+        "onboard_time": 1708444296,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15513,
+        "num": 15513,
+        "word": "以为大家开玩笑的你家是真有",
+        "onboard_time": 1708459396,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15288,
+        "num": 15288,
+        "word": "时代少年团开通B站账号",
+        "onboard_time": 1708431697,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14926,
+        "num": 14926,
+        "word": "张佳宁点不掉的痣",
+        "onboard_time": 1708434160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14707,
+        "num": 14707,
+        "word": "江西菜是预制菜鄙视链的顶端",
+        "onboard_time": 1708435416,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14649,
+        "num": 14649,
+        "word": "原来孙艺洲这么会开车",
+        "onboard_time": 1708440221,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14579,
+        "num": 14579,
+        "word": "喜剧演员是对他最大的误解",
+        "onboard_time": 1708444596,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14313,
+        "num": 14575,
+        "word": "不化妆素颜出门怎么变好看",
+        "onboard_time": 1708439981,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14045,
+        "num": 14573,
+        "word": "知道许昕家缺什么了缺观众席",
+        "onboard_time": 1708458018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13695,
+        "num": 14569,
+        "word": "乐莹跳楼戏拍了72遍用了第72条",
+        "onboard_time": 1708417840,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12964,
+        "num": 14562,
+        "word": "考研成绩",
+        "onboard_time": 1708419582,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12815,
+        "num": 14558,
+        "word": "胖东来回应看完电影不满意可退半价",
+        "onboard_time": 1708450462,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12621,
+        "num": 14553,
+        "word": "狗狗的耳朵一只站岗一只稍息",
+        "onboard_time": 1708450283,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12000,
+        "num": 14550,
+        "word": "努力凑够400万可怜可怜他",
+        "onboard_time": 1708425218,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11823,
+        "num": 14546,
+        "word": "授她以柄",
+        "onboard_time": 1708429892,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是马克思主义中国化时代化#"
+    }
+  }
+}
