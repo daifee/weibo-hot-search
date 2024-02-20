@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708410158023,
+  "endTime": 1708410856083,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1832,6 +1832,14 @@
       "word": "韩国大批医生集体辞职",
       "onboard_time": 1708402718,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1895822,
+      "num": 1895822,
+      "word": "警方回应上海出轨女教师丈夫笔录流出",
+      "onboard_time": 1708409201,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -5257,14 +5265,6 @@
       "onboard_time": 1707725912,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1041398,
-      "num": 1041398,
-      "word": "警方回应上海出轨女教师丈夫笔录流出",
-      "onboard_time": 1708409201,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1040746,
@@ -11401,6 +11401,14 @@
       "onboard_time": 1708235912,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 586662,
+      "num": 225354,
+      "word": "乐华公布王一博维权案进展",
+      "onboard_time": 1708410760,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 586033,
@@ -24155,6 +24163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263642,
+      "num": 263642,
+      "word": "MCN公司回应男网红cos游神赵世子",
+      "onboard_time": 1708409741,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263616,
       "num": 263616,
       "word": "这个班真就非上不可吗",
@@ -25057,6 +25073,14 @@
       "onboard_time": 1706794954,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252467,
+      "num": 252467,
+      "word": "农村老人看电视越来越难",
+      "onboard_time": 1708409138,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252362,
@@ -26123,6 +26147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241245,
+      "num": 241245,
+      "word": "恋爱元年",
+      "onboard_time": 1708410340,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241235,
       "num": 241235,
       "word": "繁花里唯一和胡歌有吻戏的人",
@@ -26785,6 +26817,14 @@
       "onboard_time": 1706792674,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234972,
+      "num": 234972,
+      "word": "富士发布会",
+      "onboard_time": 1708408421,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 234824,
@@ -28019,14 +28059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223816,
-      "num": 223816,
-      "word": "富士发布会",
-      "onboard_time": 1708408421,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 223810,
       "num": 223810,
       "word": "马斯克回应与董事一起吸毒",
@@ -28537,6 +28569,14 @@
       "onboard_time": 1707161297,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220201,
+      "num": 220201,
+      "word": "狠下心来学习",
+      "onboard_time": 1708407639,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 220162,
@@ -29537,14 +29577,6 @@
       "onboard_time": 1708075292,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212421,
-      "num": 212421,
-      "word": "狠下心来学习",
-      "onboard_time": 1708407639,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 212419,
@@ -30737,6 +30769,14 @@
       "onboard_time": 1706875292,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205108,
+      "num": 205108,
+      "word": "韩维辰cha科目三",
+      "onboard_time": 1708410219,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205084,
@@ -31993,14 +32033,6 @@
       "onboard_time": 1707059197,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198981,
-      "num": 198981,
-      "word": "农村老人看电视越来越难",
-      "onboard_time": 1708409138,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198943,
@@ -35019,6 +35051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183128,
+      "num": 183128,
+      "word": "每天吃一瓣大蒜身体会有什么变化",
+      "onboard_time": 1708410400,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183093,
       "num": 183093,
       "word": "春运返程火车票今天开抢",
@@ -37161,14 +37201,6 @@
       "onboard_time": 1706796571,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170785,
-      "num": 170785,
-      "word": "MCN公司回应男网红cos游神赵世子",
-      "onboard_time": 1708409741,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170773,
@@ -40843,6 +40875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151876,
+      "num": 151876,
+      "word": "苏翊鸣训练帅到飞起",
+      "onboard_time": 1708410519,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151849,
       "num": 410260,
       "word": "小米14Ultra进光量超苹果100%",
@@ -42649,6 +42689,14 @@
       "onboard_time": 1708049492,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143500,
+      "num": 143500,
+      "word": "伯恩山一怒之下耍大脚",
+      "onboard_time": 1708410160,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 143375,
@@ -45249,6 +45297,14 @@
       "onboard_time": 1707906097,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130353,
+      "num": 130353,
+      "word": "女教师出轨事件不能有强弱逻辑",
+      "onboard_time": 1708410819,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130346,
@@ -51747,6 +51803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61621,
+      "num": 2781833,
+      "word": "新春第一会省委书记们最关心什么事",
+      "onboard_time": 1708405361,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61617,
       "num": 87133,
       "word": "老人门前空地被儿女归来的车填满",
@@ -54096,14 +54160,6 @@
       "word": "除夕浙江服务区免费为返乡人员提供年夜饭",
       "onboard_time": 1707423376,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13242,
-      "num": 2781833,
-      "word": "新春第一会省委书记们最关心什么事",
-      "onboard_time": 1708405361,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
