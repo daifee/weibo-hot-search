@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708454113618,
+  "endTime": 1708456436432,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -8331,6 +8331,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73496,
+      "num": 73496,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68339,
+      "num": 68339,
+      "word": "韩素希腰部纹身含义",
+      "onboard_time": 1708453640,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64071,
       "num": 413439,
       "word": "余承东是懂时尚的",
@@ -8360,14 +8376,6 @@
       "word": "张婧仪手机壁纸是爱财爱己",
       "onboard_time": 1708371497,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 59053,
-      "num": 59053,
-      "word": "韩素希腰部纹身含义",
-      "onboard_time": 1708453640,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -8569,14 +8577,6 @@
       "onboard_time": 1708229313,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32393,
-      "num": 32393,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 31539,

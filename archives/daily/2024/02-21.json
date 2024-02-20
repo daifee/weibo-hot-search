@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708454113618,
+  "endTime": 1708456436432,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73496,
+      "num": 73496,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68563,
       "num": 68563,
       "word": "时代少年团开通B站账号",
@@ -451,8 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59053,
-      "num": 59053,
+      "raw_hot": 68339,
+      "num": 68339,
       "word": "韩素希腰部纹身含义",
       "onboard_time": 1708453640,
       "rank": 19,
@@ -505,14 +513,6 @@
       "onboard_time": 1708450283,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 32393,
-      "num": 32393,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 22984,
