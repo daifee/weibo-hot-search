@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708391412154,
+  "endTime": 1708392579578,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1454066,
+      "num": 1454066,
+      "word": "梅西3次表示希望再来中国",
+      "onboard_time": 1708383681,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1434927,
       "num": 1434927,
       "word": "雨水",
@@ -417,14 +425,6 @@
       "onboard_time": 1708311213,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1353456,
-      "num": 1353456,
-      "word": "梅西3次表示希望再来中国",
-      "onboard_time": 1708383681,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 1335419,
@@ -553,6 +553,14 @@
       "onboard_time": 1708221212,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1228174,
+      "num": 1228174,
+      "word": "吵了一整年要离职的你",
+      "onboard_time": 1708388855,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1223193,
@@ -691,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1025648,
-      "num": 1025648,
-      "word": "吵了一整年要离职的你",
-      "onboard_time": 1708388855,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1022440,
       "num": 1022440,
       "word": "寒假作业落巴黎事件舅舅账号被禁",
@@ -833,6 +833,14 @@
       "onboard_time": 1708350882,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 877786,
+      "num": 877786,
+      "word": "官方回应10岁男孩遭烟花炸伤身亡",
+      "onboard_time": 1708390894,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851645,
@@ -1555,6 +1563,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 534256,
+      "num": 534256,
+      "word": "赵世子",
+      "onboard_time": 1708391135,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528999,
       "num": 528999,
       "word": "张艺谋让高叶多拍好戏",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1708309831,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 479720,
+      "num": 479720,
+      "word": "梅西代言的赤水河酒已下架",
+      "onboard_time": 1708391198,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 478927,
@@ -2531,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319132,
-      "num": 319132,
-      "word": "官方回应10岁男孩遭烟花炸伤身亡",
-      "onboard_time": 1708390894,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316696,
       "num": 316696,
       "word": "刘宇宁十分钟整了伤痛文学",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1708315777,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312711,
+      "num": 312711,
+      "word": "身体有这8个特征更容易长寿",
+      "onboard_time": 1708391198,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 312434,
@@ -3323,6 +3347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241102,
+      "num": 241102,
+      "word": "许昕替老婆追星毛不易",
+      "onboard_time": 1708388553,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240736,
       "num": 240736,
       "word": "度华年官宣杀青",
@@ -3417,14 +3449,6 @@
       "onboard_time": 1708337256,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232817,
-      "num": 232817,
-      "word": "许昕替老婆追星毛不易",
-      "onboard_time": 1708388553,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 230913,
@@ -3771,14 +3795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211444,
-      "num": 211444,
-      "word": "赵世子",
-      "onboard_time": 1708391135,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211327,
       "num": 211327,
       "word": "吴磊发文告别林亦扬",
@@ -3899,14 +3915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204786,
-      "num": 204786,
-      "word": "梅西代言的赤水河酒已下架",
-      "onboard_time": 1708391198,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204385,
       "num": 204385,
       "word": "山东有个被严重低估的海鲜城市",
@@ -3931,6 +3939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202338,
+      "num": 202338,
+      "word": "赵露思新中式妆造",
+      "onboard_time": 1708388796,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 202131,
       "num": 202131,
       "word": "库里战胜约内斯库",
@@ -3953,6 +3969,14 @@
       "onboard_time": 1708247613,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201208,
+      "num": 201208,
+      "word": "开学",
+      "onboard_time": 1708391315,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 200904,
@@ -4073,14 +4097,6 @@
       "onboard_time": 1708222774,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 195041,
-      "num": 195041,
-      "word": "赵露思新中式妆造",
-      "onboard_time": 1708388796,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194984,
@@ -4235,6 +4251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188504,
+      "num": 188504,
+      "word": "带薪健身",
+      "onboard_time": 1708391914,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188348,
       "num": 188348,
       "word": "东方甄选试水小时达",
@@ -4329,6 +4353,14 @@
       "onboard_time": 1708256734,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185310,
+      "num": 185310,
+      "word": "C口AirPods或年内推出",
+      "onboard_time": 1708391074,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 185266,
@@ -4491,14 +4523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179506,
-      "num": 179506,
-      "word": "身体有这8个特征更容易长寿",
-      "onboard_time": 1708391198,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 179340,
       "num": 1814405,
       "word": "一条微博总结春节假期",
@@ -4579,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175003,
+      "num": 208795,
+      "word": "98岁奶奶不舍孙子返程哭得像小孩",
+      "onboard_time": 1708386507,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174714,
       "num": 174714,
       "word": "张雪峰晒开工红包",
@@ -4649,14 +4681,6 @@
       "onboard_time": 1708179217,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 171643,
-      "num": 206878,
-      "word": "98岁奶奶不舍孙子返程哭得像小孩",
-      "onboard_time": 1708386507,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171581,
@@ -4737,14 +4761,6 @@
       "onboard_time": 1708330181,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168259,
-      "num": 168259,
-      "word": "开学",
-      "onboard_time": 1708391315,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 168202,
@@ -5123,14 +5139,6 @@
       "category": "运动健身,健康医疗"
     },
     {
-      "raw_hot": 153527,
-      "num": 153527,
-      "word": "C口AirPods或年内推出",
-      "onboard_time": 1708391074,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 153422,
       "num": 153422,
       "word": "当时有点装没好意思要",
@@ -5240,6 +5248,14 @@
       "word": "大年初九",
       "onboard_time": 1708213886,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148742,
+      "num": 148742,
+      "word": "过年好似是做了一场热闹的梦",
+      "onboard_time": 1708391733,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -5459,6 +5475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138996,
+      "num": 138996,
+      "word": "EDG倒数第一",
+      "onboard_time": 1708385367,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138749,
       "num": 138749,
       "word": "Switch2跳票致任天堂股价大跌",
@@ -5617,6 +5641,14 @@
       "onboard_time": 1708180535,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 130218,
+      "num": 130218,
+      "word": "南部战区回应菲炒作所谓联合空中巡逻",
+      "onboard_time": 1708392394,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128954,
@@ -5924,7 +5956,7 @@
     },
     {
       "raw_hot": 90797,
-      "num": 1403040,
+      "num": 1428779,
       "word": "长三角晒2023年经济发展成绩单",
       "onboard_time": 1708351841,
       "rank": 2,
@@ -5969,14 +6001,6 @@
       "onboard_time": 1708298725,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83621,
-      "num": 83621,
-      "word": "EDG倒数第一",
-      "onboard_time": 1708385367,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 83587,

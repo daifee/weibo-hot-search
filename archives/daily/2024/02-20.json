@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708391412154,
+  "endTime": 1708392579578,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -51,8 +51,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1353456,
-      "num": 1353456,
+      "raw_hot": 1454066,
+      "num": 1454066,
       "word": "梅西3次表示希望再来中国",
       "onboard_time": 1708383681,
       "rank": 27,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1025648,
-      "num": 1025648,
+      "raw_hot": 1228174,
+      "num": 1228174,
       "word": "吵了一整年要离职的你",
       "onboard_time": 1708388855,
       "rank": 4,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 893929,
-      "num": 319012,
+      "num": 335605,
       "word": "常州案例 女班主任获刑3年",
       "onboard_time": 1708350280,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 877786,
+      "num": 877786,
+      "word": "官方回应10岁男孩遭烟花炸伤身亡",
+      "onboard_time": 1708390894,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674760,
@@ -171,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 534256,
+      "num": 534256,
+      "word": "赵世子",
+      "onboard_time": 1708391135,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497504,
       "num": 497504,
       "word": "内娱有自己的纯元皇后",
@@ -185,6 +201,14 @@
       "onboard_time": 1708374017,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479720,
+      "num": 479720,
+      "word": "梅西代言的赤水河酒已下架",
+      "onboard_time": 1708391198,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 415386,
@@ -211,8 +235,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 371820,
-      "num": 371820,
+      "raw_hot": 384264,
+      "num": 384264,
       "word": "贾玲怕拍戏打扰群众上门发礼物",
       "onboard_time": 1708351065,
       "rank": 14,
@@ -251,20 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 319132,
-      "num": 319132,
-      "word": "官方回应10岁男孩遭烟花炸伤身亡",
-      "onboard_time": 1708390894,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315066,
       "num": 315066,
       "word": "老板路过看到我的工位沉默了",
       "onboard_time": 1708387654,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312711,
+      "num": 312711,
+      "word": "身体有这8个特征更容易长寿",
+      "onboard_time": 1708391198,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300518,
@@ -307,20 +331,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241102,
+      "num": 241102,
+      "word": "许昕替老婆追星毛不易",
+      "onboard_time": 1708388553,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239533,
       "num": 239533,
       "word": "公司缴社保与个人缴社保的退休金差距",
       "onboard_time": 1708341398,
       "rank": 25,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 232817,
-      "num": 232817,
-      "word": "许昕替老婆追星毛不易",
-      "onboard_time": 1708388553,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 227619,
@@ -355,28 +379,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 211444,
-      "num": 211444,
-      "word": "赵世子",
-      "onboard_time": 1708391135,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204786,
-      "num": 204786,
-      "word": "梅西代言的赤水河酒已下架",
-      "onboard_time": 1708391198,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203505,
       "num": 203505,
       "word": "刚知道妈妈是大小姐",
       "onboard_time": 1708385668,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202338,
+      "num": 202338,
+      "word": "赵露思新中式妆造",
+      "onboard_time": 1708388796,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201208,
+      "num": 201208,
+      "word": "开学",
+      "onboard_time": 1708391315,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 200080,
@@ -387,12 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195041,
-      "num": 195041,
-      "word": "赵露思新中式妆造",
-      "onboard_time": 1708388796,
-      "rank": 34,
-      "category": "作品衍生,时尚"
+      "raw_hot": 188504,
+      "num": 188504,
+      "word": "带薪健身",
+      "onboard_time": 1708391914,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 188348,
@@ -411,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179506,
-      "num": 179506,
-      "word": "身体有这8个特征更容易长寿",
-      "onboard_time": 1708391198,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 185310,
+      "num": 185310,
+      "word": "C口AirPods或年内推出",
+      "onboard_time": 1708391074,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 178929,
@@ -435,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175003,
+      "num": 208795,
+      "word": "98岁奶奶不舍孙子返程哭得像小孩",
+      "onboard_time": 1708386507,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172234,
       "num": 172234,
       "word": "车企价格战",
@@ -451,28 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171643,
-      "num": 206878,
-      "word": "98岁奶奶不舍孙子返程哭得像小孩",
-      "onboard_time": 1708386507,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170842,
       "num": 170842,
       "word": "北漂女子自嘲回老家像乡下人进城",
       "onboard_time": 1708378755,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168259,
-      "num": 168259,
-      "word": "开学",
-      "onboard_time": 1708391315,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 167622,
@@ -515,19 +531,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153527,
-      "num": 153527,
-      "word": "C口AirPods或年内推出",
-      "onboard_time": 1708391074,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 150476,
       "num": 150476,
       "word": "大象扣下甘蔗作为买路钱",
       "onboard_time": 1708387833,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148742,
+      "num": 148742,
+      "word": "过年好似是做了一场热闹的梦",
+      "onboard_time": 1708391733,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -571,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138996,
+      "num": 138996,
+      "word": "EDG倒数第一",
+      "onboard_time": 1708385367,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138007,
       "num": 138007,
       "word": "00后真是各过各的啊",
@@ -601,6 +625,14 @@
       "onboard_time": 1708339661,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130218,
+      "num": 130218,
+      "word": "南部战区回应菲炒作所谓联合空中巡逻",
+      "onboard_time": 1708392394,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129863,
@@ -692,19 +724,11 @@
     },
     {
       "raw_hot": 90797,
-      "num": 1403040,
+      "num": 1428779,
       "word": "长三角晒2023年经济发展成绩单",
       "onboard_time": 1708351841,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83621,
-      "num": 83621,
-      "word": "EDG倒数第一",
-      "onboard_time": 1708385367,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 83587,
