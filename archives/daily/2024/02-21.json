@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708446118290,
+  "endTime": 1708447000471,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -33,6 +33,14 @@
       "onboard_time": 1708430136,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715435,
+      "num": 715435,
+      "word": "目前票房前6都是跨界导演",
+      "onboard_time": 1708445254,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 660541,
@@ -129,14 +137,6 @@
       "onboard_time": 1708433980,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 341409,
-      "num": 341409,
-      "word": "目前票房前6都是跨界导演",
-      "onboard_time": 1708445254,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 312819,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121230,
+      "num": 121230,
+      "word": "妈妈让我工作后每月给家里转三千",
+      "onboard_time": 1708430433,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121082,
       "num": 121082,
       "word": "我好像连一万块都很难存下来",
@@ -297,14 +305,6 @@
       "onboard_time": 1708420898,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 110684,
-      "num": 110684,
-      "word": "妈妈让我工作后每月给家里转三千",
-      "onboard_time": 1708430433,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 105640,
@@ -401,11 +401,30 @@
       "onboard_time": 1708423481,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76521,
+      "num": 76521,
+      "word": "丞磊下水捞周也",
+      "onboard_time": 1708425579,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68563,
+      "num": 68563,
+      "word": "时代少年团开通B站账号",
+      "onboard_time": 1708431697,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
     {
       "word": "#什么是马克思主义中国化时代化#"
+    },
+    {
+      "word": "#中央全面深化改革委员会第四次会议#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708446118290,
+  "endTime": 1708447000471,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -9225,6 +9225,14 @@
       "onboard_time": 1708173814,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715435,
+      "num": 715435,
+      "word": "目前票房前6都是跨界导演",
+      "onboard_time": 1708445254,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 715181,
@@ -20121,14 +20129,6 @@
       "onboard_time": 1707039631,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 341409,
-      "num": 341409,
-      "word": "目前票房前6都是跨界导演",
-      "onboard_time": 1708445254,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 341327,
