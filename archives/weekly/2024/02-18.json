@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708464862558,
+  "endTime": 1708467376319,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -3299,6 +3299,14 @@
       "category": "数码,科学科普"
     },
     {
+      "raw_hot": 353395,
+      "num": 353395,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353050,
       "num": 353050,
       "word": "原子弹爆炸后她驾机2次冲向蘑菇云",
@@ -5913,14 +5921,6 @@
       "onboard_time": 1708230337,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192113,
-      "num": 192113,
-      "word": "上海暴雨",
-      "onboard_time": 1708463356,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191962,
@@ -8547,6 +8547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35376,
+      "num": 35376,
+      "word": "明星后援会是怎么运作的",
+      "onboard_time": 1708466057,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35311,
       "num": 330498,
       "word": "带娃和citywalk适配满分",
@@ -8651,20 +8659,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23560,
+      "num": 23560,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22984,
       "num": 277852,
       "word": "航天员拍摄的蔚蓝地球",
       "onboard_time": 1708437273,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21943,
-      "num": 21943,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 21213,
@@ -8689,6 +8697,14 @@
       "onboard_time": 1708374675,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18510,
+      "num": 18510,
+      "word": "生死面前什么是更好的抉择",
+      "onboard_time": 1708463297,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16572,
@@ -8740,19 +8756,11 @@
     },
     {
       "raw_hot": 14045,
-      "num": 14882,
+      "num": 15083,
       "word": "知道许昕家缺什么了缺观众席",
       "onboard_time": 1708458018,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13858,
-      "num": 13858,
-      "word": "生死面前什么是更好的抉择",
-      "onboard_time": 1708463297,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13204,
@@ -8764,7 +8772,7 @@
     },
     {
       "raw_hot": 12989,
-      "num": 14904,
+      "num": 15086,
       "word": "周洁琼谈吴镇宇的教导",
       "onboard_time": 1708460776,
       "rank": 43,

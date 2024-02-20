@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708464862558,
+  "endTime": 1708467376319,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -19603,6 +19603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353395,
+      "num": 353395,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353300,
       "num": 353300,
       "word": "贾玲 细腻的女性视角",
@@ -34481,14 +34489,6 @@
       "onboard_time": 1708230337,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192113,
-      "num": 192113,
-      "word": "上海暴雨",
-      "onboard_time": 1708463356,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192066,
@@ -54419,6 +54419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 35376,
+      "num": 35376,
+      "word": "明星后援会是怎么运作的",
+      "onboard_time": 1708466057,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35311,
       "num": 330498,
       "word": "带娃和citywalk适配满分",
@@ -55043,6 +55051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23560,
+      "num": 23560,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23431,
       "num": 263862,
       "word": "蛋仔群星祝福好有排面",
@@ -55129,14 +55145,6 @@
       "onboard_time": 1707595934,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21943,
-      "num": 21943,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 21530,
@@ -55289,6 +55297,14 @@
       "onboard_time": 1707042991,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18510,
+      "num": 18510,
+      "word": "生死面前什么是更好的抉择",
+      "onboard_time": 1708463297,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18242,
@@ -55596,7 +55612,7 @@
     },
     {
       "raw_hot": 14045,
-      "num": 14882,
+      "num": 15083,
       "word": "知道许昕家缺什么了缺观众席",
       "onboard_time": 1708458018,
       "rank": 43,
@@ -55609,14 +55625,6 @@
       "onboard_time": 1706819537,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13858,
-      "num": 13858,
-      "word": "生死面前什么是更好的抉择",
-      "onboard_time": 1708463297,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13615,
@@ -55708,7 +55716,7 @@
     },
     {
       "raw_hot": 12989,
-      "num": 14904,
+      "num": 15086,
       "word": "周洁琼谈吴镇宇的教导",
       "onboard_time": 1708460776,
       "rank": 43,
