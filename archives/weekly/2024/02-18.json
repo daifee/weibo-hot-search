@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708436044637,
+  "endTime": 1708438567925,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -169,6 +169,14 @@
       "onboard_time": 1708338937,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2552082,
+      "num": 2552082,
+      "word": "许凯报警",
+      "onboard_time": 1708437219,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2415461,
@@ -1411,6 +1419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 752673,
+      "num": 302058,
+      "word": "毕业工作四年只存了4w块钱",
+      "onboard_time": 1708433980,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 749824,
       "num": 749824,
       "word": "飞驰2破25亿全员呼应上了",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1708423720,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 727642,
-      "num": 302058,
-      "word": "毕业工作四年只存了4w块钱",
-      "onboard_time": 1708433980,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 726729,
@@ -2371,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487144,
+      "num": 487144,
+      "word": "北京下雪",
+      "onboard_time": 1708423481,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485480,
       "num": 485480,
       "word": "种地吧监工直播",
@@ -2497,14 +2513,6 @@
       "onboard_time": 1708336235,
       "rank": 9,
       "category": "社会新闻,运动健身"
-    },
-    {
-      "raw_hot": 449670,
-      "num": 449670,
-      "word": "北京下雪",
-      "onboard_time": 1708423481,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446626,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1708214968,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 384200,
+      "num": 384200,
+      "word": "刘涛演妈祖 掷圣杯",
+      "onboard_time": 1708438002,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 382987,
@@ -4211,6 +4227,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 266995,
+      "num": 239861,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -4659,6 +4683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238566,
+      "num": 238566,
+      "word": "孙千陈靖可模仿朱迪尼克",
+      "onboard_time": 1708436739,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "光与夜之恋主线",
@@ -5035,6 +5067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219799,
+      "num": 219799,
+      "word": "当我没工作vs当我有工作",
+      "onboard_time": 1708437581,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219176,
       "num": 219176,
       "word": "有没有人救救朱正廷",
@@ -5211,6 +5251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211839,
+      "num": 211839,
+      "word": "同事工位的摆件是财神爷",
+      "onboard_time": 1708436258,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211327,
       "num": 211327,
       "word": "吴磊发文告别林亦扬",
@@ -5305,6 +5353,14 @@
       "onboard_time": 1708319673,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206340,
+      "num": 206340,
+      "word": "10斤的猫9斤的气场",
+      "onboard_time": 1708436558,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 206101,
@@ -5505,6 +5561,14 @@
       "onboard_time": 1708262555,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "为什么我们这代人存不下钱",
+      "onboard_time": 1708437939,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 198621,
@@ -6195,6 +6259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178244,
+      "num": 178244,
+      "word": "王楚钦柔韧度",
+      "onboard_time": 1708437040,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177619,
       "num": 145459,
       "word": "张若昀射箭名场面又多一个",
@@ -6601,14 +6673,6 @@
       "onboard_time": 1708213526,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164884,
-      "num": 164884,
-      "word": "江西菜是预制菜鄙视链的顶端",
-      "onboard_time": 1708435416,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 164841,
@@ -7099,6 +7163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147913,
+      "num": 147913,
+      "word": "周鸿祎称Sora造成的轰动效果远超GPT",
+      "onboard_time": 1708438244,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147847,
       "num": 147847,
       "word": "全员加速中广东路透",
@@ -7259,6 +7331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143548,
+      "num": 143548,
+      "word": "龙行龘龘前程朤朤",
+      "onboard_time": 1708215692,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143500,
       "num": 143500,
       "word": "伯恩山一怒之下耍大脚",
@@ -7395,6 +7475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137677,
+      "num": 137677,
+      "word": "第二十条",
+      "onboard_time": 1708436500,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137439,
       "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
@@ -7417,14 +7505,6 @@
       "onboard_time": 1708303716,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136966,
-      "num": 136966,
-      "word": "龙行龘龘前程朤朤",
-      "onboard_time": 1708215692,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 136882,
@@ -7753,6 +7833,14 @@
       "onboard_time": 1708327897,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111084,
+      "num": 1821240,
+      "word": "5个寒潮防范要点",
+      "onboard_time": 1708437521,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110548,
@@ -8398,6 +8486,9 @@
     },
     {
       "word": "#粤港澳大湾区如何把握大机遇#"
+    },
+    {
+      "word": "#什么是马克思主义中国化时代化#"
     }
   ]
 }

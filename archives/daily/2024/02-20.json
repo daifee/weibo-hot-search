@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708436044637,
+  "endTime": 1708438567925,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -89,6 +89,14 @@
       "onboard_time": 1708354120,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2552082,
+      "num": 2552082,
+      "word": "许凯报警",
+      "onboard_time": 1708437219,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2352369,
@@ -523,6 +531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 752673,
+      "num": 302058,
+      "word": "毕业工作四年只存了4w块钱",
+      "onboard_time": 1708433980,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 733269,
       "num": 733269,
       "word": "五年期LPR报价下调",
@@ -537,14 +553,6 @@
       "onboard_time": 1708423720,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 727642,
-      "num": 302058,
-      "word": "毕业工作四年只存了4w块钱",
-      "onboard_time": 1708433980,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 726729,
@@ -843,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 487144,
+      "num": 487144,
+      "word": "北京下雪",
+      "onboard_time": 1708423481,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485480,
       "num": 485480,
       "word": "种地吧监工直播",
@@ -865,14 +881,6 @@
       "onboard_time": 1708417181,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 449670,
-      "num": 449670,
-      "word": "北京下雪",
-      "onboard_time": 1708423481,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444004,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1708352563,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384200,
+      "num": 384200,
+      "word": "刘涛演妈祖 掷圣杯",
+      "onboard_time": 1708438002,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 382987,
@@ -1459,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266995,
+      "num": 239861,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265362,
       "num": 265362,
       "word": "Kpop可汗大点兵",
@@ -1627,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238566,
+      "num": 238566,
+      "word": "孙千陈靖可模仿朱迪尼克",
+      "onboard_time": 1708436739,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235187,
       "num": 235187,
       "word": "种地吧2宣传片",
@@ -1755,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219799,
+      "num": 219799,
+      "word": "当我没工作vs当我有工作",
+      "onboard_time": 1708437581,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217853,
       "num": 217853,
       "word": "复工后和男朋友说不想上班",
@@ -1795,6 +1835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 211839,
+      "num": 211839,
+      "word": "同事工位的摆件是财神爷",
+      "onboard_time": 1708436258,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210370,
       "num": 210370,
       "word": "游神",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1708412495,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206340,
+      "num": 206340,
+      "word": "10斤的猫9斤的气场",
+      "onboard_time": 1708436558,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 205108,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1708386267,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "为什么我们这代人存不下钱",
+      "onboard_time": 1708437939,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 198351,
@@ -2099,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178244,
+      "num": 178244,
+      "word": "王楚钦柔韧度",
+      "onboard_time": 1708437040,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177555,
       "num": 177555,
       "word": "广东最低温将破0",
@@ -2259,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164884,
-      "num": 164884,
-      "word": "江西菜是预制菜鄙视链的顶端",
-      "onboard_time": 1708435416,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 160460,
       "num": 160460,
       "word": "一年期LPR维持不变",
@@ -2395,6 +2459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147913,
+      "num": 147913,
+      "word": "周鸿祎称Sora造成的轰动效果远超GPT",
+      "onboard_time": 1708438244,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147847,
       "num": 147847,
       "word": "全员加速中广东路透",
@@ -2425,6 +2497,14 @@
       "onboard_time": 1708428634,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143548,
+      "num": 143548,
+      "word": "龙行龘龘前程朤朤",
+      "onboard_time": 1708436086,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143500,
@@ -2513,6 +2593,14 @@
       "onboard_time": 1708343680,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137677,
+      "num": 137677,
+      "word": "第二十条",
+      "onboard_time": 1708436500,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 137276,
@@ -2616,6 +2704,14 @@
       "word": "当打铁花遇上火凤凰氛围感拉满",
       "onboard_time": 1708417660,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111084,
+      "num": 1821240,
+      "word": "5个寒潮防范要点",
+      "onboard_time": 1708437521,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2860,6 +2956,9 @@
     },
     {
       "word": "#粤港澳大湾区如何把握大机遇#"
+    },
+    {
+      "word": "#什么是马克思主义中国化时代化#"
     }
   ]
 }

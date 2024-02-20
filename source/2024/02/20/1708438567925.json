@@ -1,0 +1,410 @@
+{
+  "runTime": 1708438567925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2716521,
+        "num": 2716521,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2552082,
+        "num": 2552082,
+        "word": "许凯报警",
+        "onboard_time": 1708437219,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111084,
+        "num": 1821240,
+        "word": "5个寒潮防范要点",
+        "onboard_time": 1708437521,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479948,
+        "num": 1479948,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845161,
+        "num": 845161,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 654306,
+        "num": 654306,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 645173,
+        "num": 645173,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566413,
+        "num": 566413,
+        "word": "张佳宁点不掉的痣",
+        "onboard_time": 1708434160,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557279,
+        "num": 557279,
+        "word": "清华大学教授称我们的教育没有教孩子如何开心",
+        "onboard_time": 1708422095,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 487144,
+        "num": 487144,
+        "word": "北京下雪",
+        "onboard_time": 1708423481,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576461,
+        "num": 479131,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 414098,
+        "num": 414098,
+        "word": "杨紫热辣红唇妆",
+        "onboard_time": 1708431878,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403312,
+        "num": 403312,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398856,
+        "num": 398856,
+        "word": "办公室打电话羞耻",
+        "onboard_time": 1708433799,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384200,
+        "num": 384200,
+        "word": "刘涛演妈祖 掷圣杯",
+        "onboard_time": 1708438002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364574,
+        "num": 364574,
+        "word": "刘亦菲阿布扎比新拍摄",
+        "onboard_time": 1708435478,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322995,
+        "num": 322995,
+        "word": "考研成绩",
+        "onboard_time": 1708419582,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309850,
+        "num": 309850,
+        "word": "文旅局称没有邀请男网红扮游神",
+        "onboard_time": 1708420479,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261115,
+        "num": 261115,
+        "word": "百元之恋导演编剧祝贺贾玲",
+        "onboard_time": 1708420898,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243704,
+        "num": 243704,
+        "word": "iG零封BLG",
+        "onboard_time": 1708433617,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 790798,
+        "num": 243297,
+        "word": "贾玲有七部待播作品",
+        "onboard_time": 1708432780,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 752673,
+        "num": 241960,
+        "word": "毕业工作四年只存了4w块钱",
+        "onboard_time": 1708433980,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283170,
+        "num": 240934,
+        "word": "工位越乱的员工稳定性越好",
+        "onboard_time": 1708431579,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266995,
+        "num": 239861,
+        "word": "江西菜是预制菜鄙视链的顶端",
+        "onboard_time": 1708435416,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265553,
+        "num": 238648,
+        "word": "我好像连一万块都很难存下来",
+        "onboard_time": 1708430433,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238566,
+        "num": 238566,
+        "word": "孙千陈靖可模仿朱迪尼克",
+        "onboard_time": 1708436739,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236714,
+        "num": 236714,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226227,
+        "num": 226227,
+        "word": "每天敷面膜不如改善体质",
+        "onboard_time": 1708428215,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219799,
+        "num": 219799,
+        "word": "当我没工作vs当我有工作",
+        "onboard_time": 1708437581,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215576,
+        "num": 215576,
+        "word": "乐莹跳楼戏拍了72遍用了第72条",
+        "onboard_time": 1708417840,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211839,
+        "num": 211839,
+        "word": "同事工位的摆件是财神爷",
+        "onboard_time": 1708436258,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206340,
+        "num": 206340,
+        "word": "10斤的猫9斤的气场",
+        "onboard_time": 1708436558,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203568,
+        "num": 203568,
+        "word": "努力凑够400万可怜可怜他",
+        "onboard_time": 1708425218,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199176,
+        "num": 199176,
+        "word": "为什么我们这代人存不下钱",
+        "onboard_time": 1708437939,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193593,
+        "num": 193593,
+        "word": "妈妈让我工作后每月给家里转三千",
+        "onboard_time": 1708430433,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191575,
+        "num": 191575,
+        "word": "时代少年团开通B站账号",
+        "onboard_time": 1708431697,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183641,
+        "num": 183641,
+        "word": "授她以柄",
+        "onboard_time": 1708429892,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181835,
+        "num": 181835,
+        "word": "考研成绩2月26日可查",
+        "onboard_time": 1708433197,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179667,
+        "num": 179667,
+        "word": "李湘王岳伦成立新公司",
+        "onboard_time": 1708420780,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178244,
+        "num": 178244,
+        "word": "王楚钦柔韧度",
+        "onboard_time": 1708437040,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171780,
+        "num": 171780,
+        "word": "丞磊下水捞周也",
+        "onboard_time": 1708425579,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157022,
+        "num": 157022,
+        "word": "双子座其实还蛮单纯的",
+        "onboard_time": 1708429055,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 153750,
+        "num": 153750,
+        "word": "热辣滚烫的真正价值所在",
+        "onboard_time": 1708434398,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152783,
+        "num": 152783,
+        "word": "原来真的会有大侠从天而降来救你",
+        "onboard_time": 1708424076,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147913,
+        "num": 147913,
+        "word": "周鸿祎称Sora造成的轰动效果远超GPT",
+        "onboard_time": 1708438244,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145704,
+        "num": 145704,
+        "word": "淘宝逐步开放微信支付",
+        "onboard_time": 1708415319,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143548,
+        "num": 143548,
+        "word": "龙行龘龘前程朤朤",
+        "onboard_time": 1708436086,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137677,
+        "num": 137677,
+        "word": "第二十条",
+        "onboard_time": 1708436500,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134592,
+        "num": 134592,
+        "word": "卡琳娜和揉西 汉服合照",
+        "onboard_time": 1708421738,
+        "rank": 48,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 133532,
+        "num": 133532,
+        "word": "李宇春抢票",
+        "onboard_time": 1708432357,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是马克思主义中国化时代化#"
+    }
+  }
+}
