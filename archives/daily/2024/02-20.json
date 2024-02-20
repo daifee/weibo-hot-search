@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708413408703,
+  "endTime": 1708414447386,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3040755,
+      "raw_hot": 3257290,
       "num": 3040755,
       "word": "警方回应上海出轨女教师丈夫笔录流出",
       "onboard_time": 1708409201,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1851295,
+      "num": 1851295,
+      "word": "乐华公布王一博维权案进展",
+      "onboard_time": 1708410760,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1815663,
       "num": 664751,
       "word": "学校通报女教师出轨高中生",
@@ -139,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1559126,
+      "num": 392677,
+      "word": "疑似出轨学生女教师丈夫问话笔录流出",
+      "onboard_time": 1708413095,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1485625,
       "num": 1485625,
       "word": "梅西3次表示希望再来中国",
       "onboard_time": 1708383681,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1480016,
+      "num": 1480016,
+      "word": "女教师出轨事件不能有强弱逻辑",
+      "onboard_time": 1708410819,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1413463,
@@ -177,14 +201,6 @@
       "onboard_time": 1708395270,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1332521,
-      "num": 1332521,
-      "word": "乐华公布王一博维权案进展",
-      "onboard_time": 1708410760,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1309478,
@@ -224,14 +240,6 @@
       "word": "女教师",
       "onboard_time": 1708356936,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 977608,
-      "num": 977608,
-      "word": "女教师出轨事件不能有强弱逻辑",
-      "onboard_time": 1708410819,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -337,6 +345,14 @@
       "onboard_time": 1708402300,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 675997,
+      "num": 675997,
+      "word": "Uzi加盟LZG",
+      "onboard_time": 1708413160,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 674760,
@@ -499,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 490266,
+      "num": 392652,
+      "word": "下月要还的房贷会立刻减少吗",
+      "onboard_time": 1708412561,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 485480,
       "num": 485480,
       "word": "种地吧监工直播",
@@ -587,8 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392042,
-      "num": 271889,
+      "raw_hot": 395781,
+      "num": 311906,
       "word": "每天吃一瓣大蒜身体会有什么变化",
       "onboard_time": 1708410400,
       "rank": 37,
@@ -659,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349916,
+      "num": 349916,
+      "word": "农村老人看电视越来越难",
+      "onboard_time": 1708409138,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348878,
       "num": 348878,
       "word": "赵露思薛佳凝聚餐吃铁锅炖",
@@ -681,6 +713,14 @@
       "onboard_time": 1708396596,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 339226,
+      "num": 339226,
+      "word": "诽谤王一博网民手写信道歉",
+      "onboard_time": 1708413875,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 323965,
@@ -707,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317358,
+      "num": 317358,
+      "word": "红楼梦 抢票",
+      "onboard_time": 1708413760,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 315066,
       "num": 315066,
       "word": "老板路过看到我的工位沉默了",
@@ -715,12 +763,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 310879,
-      "num": 310879,
-      "word": "农村老人看电视越来越难",
-      "onboard_time": 1708409138,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 313424,
+      "num": 313424,
+      "word": "吴磊一杆长台镜头打了38次",
+      "onboard_time": 1708412740,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 309275,
+      "num": 309275,
+      "word": "刘恋做甲方乙得很明显",
+      "onboard_time": 1708412860,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 308967,
@@ -729,14 +785,6 @@
       "onboard_time": 1708395216,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306146,
-      "num": 306146,
-      "word": "下月要还的房贷会立刻减少吗",
-      "onboard_time": 1708412561,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 304093,
@@ -763,6 +811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 298289,
+      "num": 240176,
+      "word": "因为不想回国被妈妈拉黑了",
+      "onboard_time": 1708413995,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298212,
       "num": 298212,
       "word": "适合隐晦公布恋情的文案",
@@ -777,14 +833,6 @@
       "onboard_time": 1708407940,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 293876,
-      "num": 293876,
-      "word": "吴磊一杆长台镜头打了38次",
-      "onboard_time": 1708412740,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 292466,
@@ -819,20 +867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279514,
-      "num": 227141,
-      "word": "疑似出轨学生女教师丈夫问话笔录流出",
-      "onboard_time": 1708413095,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278269,
       "num": 278269,
       "word": "妈妈我能不能拆开这箱奶",
       "onboard_time": 1708398815,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277217,
+      "num": 277217,
+      "word": "五条悟 富家公子哥",
+      "onboard_time": 1708412618,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 275496,
@@ -931,6 +979,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 238439,
+      "num": 238439,
+      "word": "枭起青壤 男主",
+      "onboard_time": 1708414118,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235187,
       "num": 235187,
       "word": "种地吧2宣传片",
@@ -955,14 +1011,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 230735,
-      "num": 230735,
-      "word": "刘恋做甲方乙得很明显",
-      "onboard_time": 1708412860,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 227619,
       "num": 227619,
       "word": "南来北往剧情坐高铁了",
@@ -979,28 +1027,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227339,
-      "num": 227339,
-      "word": "Uzi加盟LZG",
-      "onboard_time": 1708413160,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 226871,
       "num": 226871,
       "word": "二月天杨柳醉春烟",
       "onboard_time": 1708402477,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221610,
-      "num": 221610,
-      "word": "五条悟 富家公子哥",
-      "onboard_time": 1708412618,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 220480,
@@ -1235,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176975,
+      "num": 176975,
+      "word": "火灾丧命的人不是先被烧死的",
+      "onboard_time": 1708412197,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 176535,
       "num": 176535,
       "word": "李月汝加盟洛杉矶火花",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1708394552,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174169,
-      "num": 174169,
-      "word": "火灾丧命的人不是先被烧死的",
-      "onboard_time": 1708412197,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 173910,
@@ -1475,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143241,
+      "num": 143241,
+      "word": "刘翔 哥来看看你",
+      "onboard_time": 1708414416,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142888,
       "num": 142888,
       "word": "一元店商业模式创始人去世",
@@ -1489,6 +1529,22 @@
       "onboard_time": 1708349265,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142320,
+      "num": 142320,
+      "word": "没有一对情侣能逃过网络劝分",
+      "onboard_time": 1708414061,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141595,
+      "num": 141595,
+      "word": "吴磊林亦扬专访",
+      "onboard_time": 1708413520,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 140161,
