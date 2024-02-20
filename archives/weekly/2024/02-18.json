@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708414447386,
+  "endTime": 1708417260874,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -33,6 +33,14 @@
       "onboard_time": 1708319436,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6084466,
+      "num": 6084466,
+      "word": "柳鑫宇发声",
+      "onboard_time": 1708414596,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 5485734,
@@ -112,6 +120,14 @@
       "word": "警方回应上海出轨女教师丈夫笔录流出",
       "onboard_time": 1708409201,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3206281,
+      "num": 1702669,
+      "word": "疑似出轨学生女教师丈夫问话笔录流出",
+      "onboard_time": 1708413095,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -241,6 +257,14 @@
       "onboard_time": 1708306532,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2110449,
+      "num": 2110449,
+      "word": "王一博",
+      "onboard_time": 1708416218,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2031252,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1661463,
+      "num": 960496,
+      "word": "上海女教师丈夫准备离婚",
+      "onboard_time": 1708415260,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1660430,
       "num": 708062,
       "word": "胡夏 爱你的事当做秘密",
@@ -440,14 +472,6 @@
       "word": "胖东来未按标准试吃员工已不再开除",
       "onboard_time": 1708307248,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1559126,
-      "num": 392677,
-      "word": "疑似出轨学生女教师丈夫问话笔录流出",
-      "onboard_time": 1708413095,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -883,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964726,
+      "num": 964726,
+      "word": "淘宝逐步开放微信支付",
+      "onboard_time": 1708415319,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 963938,
       "num": 963938,
       "word": "当97岁奶奶没戴假牙吃草莓",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1708216171,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767563,
+      "num": 513155,
+      "word": "女教师出轨事件",
+      "onboard_time": 1708415917,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766429,
@@ -1683,6 +1723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 586729,
+      "num": 586729,
+      "word": "阿沁离开飞儿乐团",
+      "onboard_time": 1708414717,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 584980,
       "num": 584980,
       "word": "打一肚子腹稿结果亲戚降级了",
@@ -1771,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563639,
+      "num": 563639,
+      "word": "枭起青壤 男主",
+      "onboard_time": 1708414118,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562294,
       "num": 562294,
       "word": "找工作",
@@ -1785,6 +1841,14 @@
       "onboard_time": 1708272029,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 557507,
+      "num": 408724,
+      "word": "专家称现在不买房五年又白忙",
+      "onboard_time": 1708414835,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552478,
@@ -1883,6 +1947,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 531886,
+      "num": 531886,
+      "word": "下月要还的房贷会立刻减少吗",
+      "onboard_time": 1708412561,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 528999,
       "num": 528999,
       "word": "张艺谋让高叶多拍好戏",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1708237773,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518294,
+      "num": 518294,
+      "word": "红楼梦 抢票",
+      "onboard_time": 1708413760,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 516039,
@@ -1987,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504385,
+      "num": 504385,
+      "word": "你们以为的甜 都是我们的剧本",
+      "onboard_time": 1708415260,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 499770,
       "num": 499770,
       "word": "江西男子举报妻子与副镇长非法同居",
@@ -2017,14 +2105,6 @@
       "onboard_time": 1708341398,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 490266,
-      "num": 392652,
-      "word": "下月要还的房贷会立刻减少吗",
-      "onboard_time": 1708412561,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 489710,
@@ -2299,6 +2379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 425316,
+      "num": 425316,
+      "word": "刘翔 哥来看看你",
+      "onboard_time": 1708414416,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -2385,6 +2473,14 @@
       "onboard_time": 1708245336,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410565,
+      "num": 410565,
+      "word": "教育局再回应女教师被曝出轨学生",
+      "onboard_time": 1708416518,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 409312,
@@ -2673,6 +2769,14 @@
       "onboard_time": 1708231295,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361890,
+      "num": 361890,
+      "word": "因为不想回国被妈妈拉黑了",
+      "onboard_time": 1708413995,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 360716,
@@ -3027,14 +3131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317358,
-      "num": 317358,
-      "word": "红楼梦 抢票",
-      "onboard_time": 1708413760,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 316696,
       "num": 316696,
       "word": "刘宇宁十分钟整了伤痛文学",
@@ -3235,14 +3331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 298289,
-      "num": 240176,
-      "word": "因为不想回国被妈妈拉黑了",
-      "onboard_time": 1708413995,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 298212,
       "num": 298212,
       "word": "适合隐晦公布恋情的文案",
@@ -3264,6 +3352,14 @@
       "word": "恋与深空徽章",
       "onboard_time": 1708310370,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297050,
+      "num": 297050,
+      "word": "阴阳师初音未来联动",
+      "onboard_time": 1708416157,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -3499,6 +3595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274230,
+      "num": 274230,
+      "word": "苹果2026年或将销售可折叠iPhone",
+      "onboard_time": 1708415735,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 274008,
       "num": 274008,
       "word": "江苏海安一工厂发生爆炸有伤亡",
@@ -3689,6 +3793,14 @@
       "onboard_time": 1708349625,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 260532,
+      "num": 260532,
+      "word": "柳鑫宇王诗玥 CP",
+      "onboard_time": 1708414899,
+      "rank": 28,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 258541,
@@ -4011,14 +4123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238439,
-      "num": 238439,
-      "word": "枭起青壤 男主",
-      "onboard_time": 1708414118,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "光与夜之恋主线",
@@ -4331,6 +4435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 220049,
+      "num": 220049,
+      "word": "没有一对情侣能逃过网络劝分",
+      "onboard_time": 1708414061,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219176,
       "num": 219176,
       "word": "有没有人救救朱正廷",
@@ -4619,6 +4731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205500,
+      "num": 205500,
+      "word": "柳鑫宇亮相十四冬花滑训练",
+      "onboard_time": 1708417181,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205306,
       "num": 205306,
       "word": "NBA全明星",
@@ -4857,6 +4977,14 @@
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195599,
+      "num": 195599,
+      "word": "贾玲首次谈崩溃",
+      "onboard_time": 1708417181,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 195297,
@@ -5659,6 +5787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166657,
+      "num": 166657,
+      "word": "大公司垄断下 糊团做出的努力",
+      "onboard_time": 1708415618,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166563,
       "num": 166563,
       "word": "追星的必要性",
@@ -6339,14 +6475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143241,
-      "num": 143241,
-      "word": "刘翔 哥来看看你",
-      "onboard_time": 1708414416,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142888,
       "num": 142888,
       "word": "一元店商业模式创始人去世",
@@ -6361,14 +6489,6 @@
       "onboard_time": 1708313310,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 142320,
-      "num": 142320,
-      "word": "没有一对情侣能逃过网络劝分",
-      "onboard_time": 1708414061,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 141595,

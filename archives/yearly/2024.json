@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708414447386,
+  "endTime": 1708417260874,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -465,6 +465,14 @@
       "onboard_time": 1704804513,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6084466,
+      "num": 6084466,
+      "word": "柳鑫宇发声",
+      "onboard_time": 1708414596,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 5860108,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1706349931,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3206281,
+      "num": 1702669,
+      "word": "疑似出轨学生女教师丈夫问话笔录流出",
+      "onboard_time": 1708413095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3200989,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1707127953,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2170273,
-      "num": 2170273,
-      "word": "张拿铁人设崩塌",
-      "onboard_time": 1705494388,
-      "rank": 31,
-      "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 2168799,
-      "num": 423858,
-      "word": "白敬亭现场侧拍视频",
-      "onboard_time": 1707956607,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

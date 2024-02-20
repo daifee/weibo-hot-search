@@ -1,0 +1,410 @@
+{
+  "runTime": 1708417260874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6084466,
+        "num": 6084466,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 2110449,
+        "num": 2110449,
+        "word": "王一博",
+        "onboard_time": 1708416218,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77149,
+        "num": 1705042,
+        "word": "新春第一会省委书记们最关心什么事",
+        "onboard_time": 1708405361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3206281,
+        "num": 1702669,
+        "word": "疑似出轨学生女教师丈夫问话笔录流出",
+        "onboard_time": 1708413095,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1573872,
+        "num": 1573872,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 964726,
+        "num": 964726,
+        "word": "淘宝逐步开放微信支付",
+        "onboard_time": 1708415319,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1661463,
+        "num": 960496,
+        "word": "上海女教师丈夫准备离婚",
+        "onboard_time": 1708415260,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235093,
+        "num": 887904,
+        "word": "乐华公布王一博维权案进展",
+        "onboard_time": 1708410760,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586729,
+        "num": 586729,
+        "word": "阿沁离开飞儿乐团",
+        "onboard_time": 1708414717,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 563639,
+        "num": 563639,
+        "word": "枭起青壤 男主",
+        "onboard_time": 1708414118,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1929713,
+        "num": 555286,
+        "word": "王诗玥声明柳鑫宇被盗号",
+        "onboard_time": 1708406319,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1099587,
+        "num": 546494,
+        "word": "女教师出轨事件不能有强弱逻辑",
+        "onboard_time": 1708410819,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531886,
+        "num": 531886,
+        "word": "下月要还的房贷会立刻减少吗",
+        "onboard_time": 1708412561,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 518294,
+        "num": 518294,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1708413760,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 767563,
+        "num": 513155,
+        "word": "女教师出轨事件",
+        "onboard_time": 1708415917,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504385,
+        "num": 504385,
+        "word": "你们以为的甜 都是我们的剧本",
+        "onboard_time": 1708415260,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 487810,
+        "num": 487810,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453658,
+        "num": 453658,
+        "word": "Uzi加盟LZG",
+        "onboard_time": 1708413160,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 425316,
+        "num": 425316,
+        "word": "刘翔 哥来看看你",
+        "onboard_time": 1708414416,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410565,
+        "num": 410565,
+        "word": "教育局再回应女教师被曝出轨学生",
+        "onboard_time": 1708416518,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 557507,
+        "num": 408724,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361890,
+        "num": 361890,
+        "word": "因为不想回国被妈妈拉黑了",
+        "onboard_time": 1708413995,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328952,
+        "num": 328952,
+        "word": "肯德基回应全面开收打包费",
+        "onboard_time": 1708407883,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297639,
+        "num": 297639,
+        "word": "MCN公司回应男网红cos游神赵世子",
+        "onboard_time": 1708409741,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297050,
+        "num": 297050,
+        "word": "阴阳师初音未来联动",
+        "onboard_time": 1708416157,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274230,
+        "num": 274230,
+        "word": "苹果2026年或将销售可折叠iPhone",
+        "onboard_time": 1708415735,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268314,
+        "num": 268314,
+        "word": "韩国大批医生集体辞职",
+        "onboard_time": 1708402718,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265583,
+        "num": 265583,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260532,
+        "num": 260532,
+        "word": "柳鑫宇王诗玥 CP",
+        "onboard_time": 1708414899,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 118354,
+        "num": 230307,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220049,
+        "num": 220049,
+        "word": "没有一对情侣能逃过网络劝分",
+        "onboard_time": 1708414061,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218818,
+        "num": 218818,
+        "word": "每天吃一瓣大蒜身体会有什么变化",
+        "onboard_time": 1708410400,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210045,
+        "num": 210045,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205500,
+        "num": 205500,
+        "word": "柳鑫宇亮相十四冬花滑训练",
+        "onboard_time": 1708417181,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204688,
+        "num": 204688,
+        "word": "种地吧2定档",
+        "onboard_time": 1708411359,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201779,
+        "num": 201779,
+        "word": "汤唯的自拍技术",
+        "onboard_time": 1708412495,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195599,
+        "num": 195599,
+        "word": "贾玲首次谈崩溃",
+        "onboard_time": 1708417181,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "2万多游客滞留5万人小县倾城接待",
+        "onboard_time": 1708403681,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192131,
+        "num": 192131,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190188,
+        "num": 190188,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187408,
+        "num": 187408,
+        "word": "农村老人看电视越来越难",
+        "onboard_time": 1708409138,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182787,
+        "num": 182787,
+        "word": "梅西本人已在中国注册姓名商标",
+        "onboard_time": 1708401640,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169656,
+        "num": 169656,
+        "word": "五条悟 富家公子哥",
+        "onboard_time": 1708412618,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166657,
+        "num": 166657,
+        "word": "大公司垄断下 糊团做出的努力",
+        "onboard_time": 1708415618,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166154,
+        "num": 166154,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163550,
+        "num": 163550,
+        "word": "吴磊一杆长台镜头打了38次",
+        "onboard_time": 1708412740,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160609,
+        "num": 160609,
+        "word": "广东最低温将破0",
+        "onboard_time": 1708411835,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157510,
+        "num": 157510,
+        "word": "刘恋做甲方乙得很明显",
+        "onboard_time": 1708412860,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148547,
+        "num": 148547,
+        "word": "生娃后我从母亲的女儿变成儿媳",
+        "onboard_time": 1708405001,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147457,
+        "num": 147457,
+        "word": "陈卓璇报平安",
+        "onboard_time": 1708408058,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}
