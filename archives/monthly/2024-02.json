@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708418077481,
+  "endTime": 1708420629758,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -496,6 +496,14 @@
       "word": "杨波朋友圈",
       "onboard_time": 1707037529,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3516974,
+      "num": 3516974,
+      "word": "乐华为王一博报警",
+      "onboard_time": 1708419280,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -5155,6 +5163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1067964,
+      "num": 1067964,
+      "word": "淘宝逐步开放微信支付",
+      "onboard_time": 1708415319,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1066148,
       "num": 1066148,
       "word": "浦发银行不发年终奖发一封家书",
@@ -5787,14 +5803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 964726,
-      "num": 964726,
-      "word": "淘宝逐步开放微信支付",
-      "onboard_time": 1708415319,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 964519,
       "num": 745409,
       "word": "郑爽境内外资产单一项就超过2.3亿",
@@ -6233,6 +6241,14 @@
       "onboard_time": 1707580952,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 920880,
+      "num": 920880,
+      "word": "专家称现在不买房五年又白忙",
+      "onboard_time": 1708414835,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 920743,
@@ -6889,6 +6905,14 @@
       "onboard_time": 1707835360,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 859226,
+      "num": 859226,
+      "word": "乐莹跳楼戏拍了72遍用了第72条",
+      "onboard_time": 1708417840,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 857732,
@@ -7881,6 +7905,14 @@
       "onboard_time": 1708154371,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 786172,
+      "num": 786172,
+      "word": "柳鑫宇亮相十四冬花滑训练",
+      "onboard_time": 1708417181,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 786062,
@@ -9257,6 +9289,14 @@
       "onboard_time": 1708264475,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 697050,
+      "num": 697050,
+      "word": "考研成绩",
+      "onboard_time": 1708419582,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 696772,
@@ -11411,6 +11451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590639,
+      "num": 590639,
+      "word": "贾玲穿搭",
+      "onboard_time": 1708418740,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590259,
       "num": 673056,
       "word": "美军空袭伊拉克叙利亚",
@@ -11713,14 +11761,6 @@
       "onboard_time": 1707784171,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 576013,
-      "num": 576013,
-      "word": "专家称现在不买房五年又白忙",
-      "onboard_time": 1708414835,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575530,
@@ -16323,14 +16363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 419642,
-      "num": 419642,
-      "word": "乐莹跳楼戏拍了72遍用了第72条",
-      "onboard_time": 1708417840,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 419564,
       "num": 419564,
       "word": "在暴雪时分 洗衣房告白",
@@ -16889,14 +16921,6 @@
       "onboard_time": 1706935591,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404628,
-      "num": 404628,
-      "word": "柳鑫宇亮相十四冬花滑训练",
-      "onboard_time": 1708417181,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 404360,
@@ -18625,6 +18649,14 @@
       "onboard_time": 1706839589,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365446,
+      "num": 365446,
+      "word": "律师解读柳鑫宇自曝事件",
+      "onboard_time": 1708418678,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 365370,
@@ -21875,6 +21907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299568,
+      "num": 299568,
+      "word": "恋与深空性转",
+      "onboard_time": 1708418200,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299239,
       "num": 299239,
       "word": "时代少年团 王者荣耀表演赛",
@@ -24315,6 +24355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265362,
+      "num": 265362,
+      "word": "Kpop可汗大点兵",
+      "onboard_time": 1708418140,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265105,
       "num": 265105,
       "word": "17厘米的增高鞋",
@@ -24385,6 +24433,14 @@
       "onboard_time": 1707637953,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 264108,
+      "num": 264108,
+      "word": "大学生被锁菜鸟驿站有多好笑",
+      "onboard_time": 1708418079,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 264007,
@@ -25409,6 +25465,14 @@
       "onboard_time": 1707038253,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251304,
+      "num": 251304,
+      "word": "陈星旭或演枭起青壤",
+      "onboard_time": 1708420060,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 251231,
@@ -28001,6 +28065,14 @@
       "onboard_time": 1707043413,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225967,
+      "num": 225967,
+      "word": "酱园弄豆瓣演员表更新",
+      "onboard_time": 1708420180,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 225836,
@@ -32811,6 +32883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196168,
+      "num": 196168,
+      "word": "NCTdream 梦秀3",
+      "onboard_time": 1708420118,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196166,
       "num": 196166,
       "word": "张新成书法",
@@ -37571,6 +37651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170509,
+      "num": 170509,
+      "word": "德国传奇球星布雷默去世",
+      "onboard_time": 1708420002,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170387,
       "num": 170387,
       "word": "丞磊公主抱周也",
@@ -38152,6 +38240,14 @@
       "word": "沈月 看书像吃保健品",
       "onboard_time": 1707986551,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167697,
+      "num": 167697,
+      "word": "沈月拯救我自拍技术",
+      "onboard_time": 1708419160,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -39865,6 +39961,14 @@
       "onboard_time": 1708339000,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158642,
+      "num": 158642,
+      "word": "山东泰山首发",
+      "onboard_time": 1708418919,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 158634,
@@ -43065,6 +43169,14 @@
       "onboard_time": 1707980731,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 143023,
+      "num": 143023,
+      "word": "文旅局称没有邀请男网红扮游神",
+      "onboard_time": 1708420479,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142993,

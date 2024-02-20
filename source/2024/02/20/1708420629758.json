@@ -1,0 +1,410 @@
+{
+  "runTime": 1708420629758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7346581,
+        "num": 7346581,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 3516974,
+        "num": 3516974,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63828,
+        "num": 2180590,
+        "word": "新春第一会省委书记们最关心什么事",
+        "onboard_time": 1708405361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1670373,
+        "num": 1670373,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1067964,
+        "num": 1067964,
+        "word": "淘宝逐步开放微信支付",
+        "onboard_time": 1708415319,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 920880,
+        "num": 920880,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862128,
+        "num": 862128,
+        "word": "乐华公布王一博维权案进展",
+        "onboard_time": 1708410760,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859226,
+        "num": 859226,
+        "word": "乐莹跳楼戏拍了72遍用了第72条",
+        "onboard_time": 1708417840,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 786172,
+        "num": 786172,
+        "word": "柳鑫宇亮相十四冬花滑训练",
+        "onboard_time": 1708417181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697050,
+        "num": 697050,
+        "word": "考研成绩",
+        "onboard_time": 1708419582,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1827924,
+        "num": 684052,
+        "word": "王诗玥声明柳鑫宇被盗号",
+        "onboard_time": 1708406319,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 590639,
+        "num": 590639,
+        "word": "贾玲穿搭",
+        "onboard_time": 1708418740,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495034,
+        "num": 495034,
+        "word": "你们以为的甜 都是我们的剧本",
+        "onboard_time": 1708415260,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 403139,
+        "num": 403139,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365446,
+        "num": 365446,
+        "word": "律师解读柳鑫宇自曝事件",
+        "onboard_time": 1708418678,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350767,
+        "num": 350767,
+        "word": "刘翔 哥来看看你",
+        "onboard_time": 1708414416,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335806,
+        "num": 335806,
+        "word": "贾玲首次谈崩溃",
+        "onboard_time": 1708417181,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324240,
+        "num": 324240,
+        "word": "阿沁离开飞儿乐团",
+        "onboard_time": 1708414717,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317171,
+        "num": 317171,
+        "word": "枭起青壤 男主",
+        "onboard_time": 1708414118,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308350,
+        "num": 308350,
+        "word": "Uzi加盟LZG",
+        "onboard_time": 1708413160,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2034617,
+        "num": 306012,
+        "word": "王一博",
+        "onboard_time": 1708416218,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299568,
+        "num": 299568,
+        "word": "恋与深空性转",
+        "onboard_time": 1708418200,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288662,
+        "num": 288662,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1708413760,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281198,
+        "num": 281198,
+        "word": "因为不想回国被妈妈拉黑了",
+        "onboard_time": 1708413995,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265362,
+        "num": 265362,
+        "word": "Kpop可汗大点兵",
+        "onboard_time": 1708418140,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264108,
+        "num": 264108,
+        "word": "大学生被锁菜鸟驿站有多好笑",
+        "onboard_time": 1708418079,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251304,
+        "num": 251304,
+        "word": "陈星旭或演枭起青壤",
+        "onboard_time": 1708420060,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225967,
+        "num": 225967,
+        "word": "酱园弄豆瓣演员表更新",
+        "onboard_time": 1708420180,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208676,
+        "num": 208676,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86015,
+        "num": 205199,
+        "word": "当打铁花遇上火凤凰氛围感拉满",
+        "onboard_time": 1708417660,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203851,
+        "num": 203851,
+        "word": "MCN公司回应男网红cos游神赵世子",
+        "onboard_time": 1708409741,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196168,
+        "num": 196168,
+        "word": "NCTdream 梦秀3",
+        "onboard_time": 1708420118,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195332,
+        "num": 195332,
+        "word": "下月要还的房贷会立刻减少吗",
+        "onboard_time": 1708412561,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185241,
+        "num": 185241,
+        "word": "苹果2026年或将销售可折叠iPhone",
+        "onboard_time": 1708415735,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175959,
+        "num": 175959,
+        "word": "梅西本人已在中国注册姓名商标",
+        "onboard_time": 1708401640,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172462,
+        "num": 172462,
+        "word": "每天吃一瓣大蒜身体会有什么变化",
+        "onboard_time": 1708410400,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170509,
+        "num": 170509,
+        "word": "德国传奇球星布雷默去世",
+        "onboard_time": 1708420002,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167697,
+        "num": 167697,
+        "word": "沈月拯救我自拍技术",
+        "onboard_time": 1708419160,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162804,
+        "num": 162804,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159518,
+        "num": 159518,
+        "word": "肯德基回应全面开收打包费",
+        "onboard_time": 1708407883,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158642,
+        "num": 158642,
+        "word": "山东泰山首发",
+        "onboard_time": 1708418919,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153489,
+        "num": 153489,
+        "word": "韩国大批医生集体辞职",
+        "onboard_time": 1708402718,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148413,
+        "num": 148413,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143023,
+        "num": 143023,
+        "word": "文旅局称没有邀请男网红扮游神",
+        "onboard_time": 1708420479,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142040,
+        "num": 142040,
+        "word": "没有一对情侣能逃过网络劝分",
+        "onboard_time": 1708414061,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141843,
+        "num": 141843,
+        "word": "亚冠",
+        "onboard_time": 1708419340,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140591,
+        "num": 140591,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138012,
+        "num": 138012,
+        "word": "2万多游客滞留5万人小县倾城接待",
+        "onboard_time": 1708403681,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133797,
+        "num": 133797,
+        "word": "梅西3次表示希望再来中国",
+        "onboard_time": 1708383681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129776,
+        "num": 129776,
+        "word": "种地吧2定档",
+        "onboard_time": 1708411359,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#百年大党不懈奋斗淬炼的鲜明品格是什么#"
+    }
+  }
+}
