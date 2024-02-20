@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708395675641,
+  "endTime": 1708396444936,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -35,11 +35,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1945307,
+      "num": 1945307,
+      "word": "出轨女教师若离婚或需承担精神赔偿",
+      "onboard_time": 1708395092,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1815663,
       "num": 664751,
       "word": "学校通报女教师出轨高中生",
       "onboard_time": 1708328198,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1687965,
+      "num": 1687965,
+      "word": "年终奖7200元不够春节给压岁钱",
+      "onboard_time": 1708393595,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -51,12 +67,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1508236,
-      "num": 1508236,
-      "word": "年终奖7200元不够春节给压岁钱",
-      "onboard_time": 1708393595,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 1515908,
+      "num": 1515908,
+      "word": "房贷又要降了",
+      "onboard_time": 1708394735,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 1485625,
@@ -113,6 +129,14 @@
       "onboard_time": 1708356936,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095849,
+      "num": 1095849,
+      "word": "这个杀手不太冷 抄袭",
+      "onboard_time": 1708395270,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 929907,
@@ -179,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 653702,
-      "num": 653702,
-      "word": "房贷又要降了",
-      "onboard_time": 1708394735,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 625939,
       "num": 625939,
       "word": "梅西13天3次回应均未道歉",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603048,
+      "num": 603048,
+      "word": "开工3天痔疮膏销量翻3倍",
+      "onboard_time": 1708394916,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584980,
       "num": 584980,
       "word": "打一肚子腹稿结果亲戚降级了",
@@ -217,6 +241,14 @@
       "onboard_time": 1708344698,
       "rank": 5,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 575822,
+      "num": 575822,
+      "word": "周杰伦霉霉演唱会风波",
+      "onboard_time": 1708395575,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 553521,
@@ -257,14 +289,6 @@
       "onboard_time": 1708374017,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460304,
-      "num": 460304,
-      "word": "这个杀手不太冷 抄袭",
-      "onboard_time": 1708395270,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 415386,
@@ -315,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362193,
-      "num": 362193,
-      "word": "出轨女教师若离婚或需承担精神赔偿",
-      "onboard_time": 1708395092,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359201,
       "num": 359201,
       "word": "白鹿和替身合照",
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304093,
+      "num": 304093,
+      "word": "爸爸吃薯片吃出金手串高兴坏了",
+      "onboard_time": 1708393293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300518,
       "num": 300518,
       "word": "鲁豫 贾玲没变只是做回自己",
@@ -363,20 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296089,
-      "num": 296089,
-      "word": "开工3天痔疮膏销量翻3倍",
-      "onboard_time": 1708394916,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 298212,
+      "num": 298212,
+      "word": "适合隐晦公布恋情的文案",
+      "onboard_time": 1708393111,
+      "rank": 47,
+      "category": "情感"
     },
     {
-      "raw_hot": 287289,
-      "num": 287289,
-      "word": "爸爸吃薯片吃出金手串高兴坏了",
-      "onboard_time": 1708393293,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 285546,
+      "num": 285546,
+      "word": "陈靖可早期ins",
+      "onboard_time": 1708395216,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 283057,
@@ -387,12 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270476,
-      "num": 270476,
+      "raw_hot": 280884,
+      "num": 280884,
       "word": "八段锦12分钟完整口令版",
       "onboard_time": 1708394735,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 261305,
+      "num": 261305,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258731,
@@ -419,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241941,
-      "num": 241941,
-      "word": "适合隐晦公布恋情的文案",
-      "onboard_time": 1708393111,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241102,
       "num": 241102,
       "word": "许昕替老婆追星毛不易",
@@ -441,6 +465,14 @@
       "onboard_time": 1708341398,
       "rank": 25,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 233866,
+      "num": 233866,
+      "word": "拳击成年轻人开工运动新宠",
+      "onboard_time": 1708395575,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 227619,
@@ -473,6 +505,22 @@
       "onboard_time": 1708384763,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210178,
+      "num": 210178,
+      "word": "LPR",
+      "onboard_time": 1708395873,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 208308,
+      "num": 208308,
+      "word": "100万房贷30年少还5.2万",
+      "onboard_time": 1708396054,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203505,
@@ -537,14 +585,6 @@
       "onboard_time": 1708386930,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186100,
-      "num": 186100,
-      "word": "陈靖可早期ins",
-      "onboard_time": 1708395216,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 185310,
@@ -635,22 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167078,
-      "num": 167078,
-      "word": "周杰伦霉霉演唱会风波",
-      "onboard_time": 1708395575,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 161334,
-      "num": 161334,
-      "word": "拳击成年轻人开工运动新宠",
-      "onboard_time": 1708395575,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 160460,
       "num": 160460,
       "word": "一年期LPR维持不变",
@@ -667,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157687,
-      "num": 157687,
-      "word": "海南为何迟迟不建跨海大桥",
-      "onboard_time": 1708394974,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157473,
       "num": 157473,
       "word": "苹果AppStore再现假冒钱包应用",
@@ -683,12 +699,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 157229,
+      "num": 157229,
+      "word": "信用卡发卡量连续4季度下降",
+      "onboard_time": 1708395335,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154234,
       "num": 154234,
       "word": "打雷",
       "onboard_time": 1708387535,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "热辣滚烫 朴素的女性主体性",
+      "onboard_time": 1708396054,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 150476,
@@ -723,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144474,
+      "num": 144474,
+      "word": "欧盟正式调查TikTok",
+      "onboard_time": 1708396295,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143946,
       "num": 143946,
       "word": "Burberry秋冬大秀",
@@ -745,14 +785,6 @@
       "onboard_time": 1708349265,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139820,
-      "num": 139820,
-      "word": "信用卡发卡量连续4季度下降",
-      "onboard_time": 1708395335,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 139414,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "福建游神",
+      "onboard_time": 1708396417,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117882,
       "num": 117882,
       "word": "王俊凯王源 扫鼠岭",
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 90797,
-      "num": 1428779,
+      "num": 1525934,
       "word": "长三角晒2023年经济发展成绩单",
       "onboard_time": 1708351841,
       "rank": 2,

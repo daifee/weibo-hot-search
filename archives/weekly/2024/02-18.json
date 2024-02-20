@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708395675641,
+  "endTime": 1708396444936,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1945307,
+      "num": 1945307,
+      "word": "出轨女教师若离婚或需承担精神赔偿",
+      "onboard_time": 1708395092,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1939877,
       "num": 1939877,
       "word": "丢寒假作业的秦朗家人回应",
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1687965,
+      "num": 1687965,
+      "word": "年终奖7200元不够春节给压岁钱",
+      "onboard_time": 1708393595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1660430,
       "num": 708062,
       "word": "胡夏 爱你的事当做秘密",
@@ -355,12 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1508236,
-      "num": 1508236,
-      "word": "年终奖7200元不够春节给压岁钱",
-      "onboard_time": 1708393595,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 1515908,
+      "num": 1515908,
+      "word": "房贷又要降了",
+      "onboard_time": 1708394735,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 1500864,
@@ -673,6 +689,14 @@
       "onboard_time": 1708222233,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095849,
+      "num": 1095849,
+      "word": "这个杀手不太冷 抄袭",
+      "onboard_time": 1708395270,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 1088751,
@@ -1243,14 +1267,6 @@
       "category": "体育,健康医疗"
     },
     {
-      "raw_hot": 653702,
-      "num": 653702,
-      "word": "房贷又要降了",
-      "onboard_time": 1708394735,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 642349,
       "num": 642349,
       "word": "女子春运换乘5次省4000元",
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603048,
+      "num": 603048,
+      "word": "开工3天痔疮膏销量翻3倍",
+      "onboard_time": 1708394916,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597595,
       "num": 597595,
       "word": "成都一家三口共花不到两千离开海南",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1708249895,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575822,
+      "num": 575822,
+      "word": "周杰伦霉霉演唱会风波",
+      "onboard_time": 1708395575,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 575530,
@@ -1873,14 +1905,6 @@
       "onboard_time": 1708314034,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 460304,
-      "num": 460304,
-      "word": "这个杀手不太冷 抄袭",
-      "onboard_time": 1708395270,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 451672,
@@ -2315,14 +2339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362193,
-      "num": 362193,
-      "word": "出轨女教师若离婚或需承担精神赔偿",
-      "onboard_time": 1708395092,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360716,
       "num": 360716,
       "word": "梅西ins",
@@ -2731,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304093,
+      "num": 304093,
+      "word": "爸爸吃薯片吃出金手串高兴坏了",
+      "onboard_time": 1708393293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303756,
       "num": 694773,
       "word": "女儿舍不得父母返程时真情流泪",
@@ -2787,6 +2811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298212,
+      "num": 298212,
+      "word": "适合隐晦公布恋情的文案",
+      "onboard_time": 1708393111,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297867,
       "num": 297867,
       "word": "陈丽君生图",
@@ -2801,14 +2833,6 @@
       "onboard_time": 1708310370,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296089,
-      "num": 296089,
-      "word": "开工3天痔疮膏销量翻3倍",
-      "onboard_time": 1708394916,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295584,
@@ -2915,14 +2939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287289,
-      "num": 287289,
-      "word": "爸爸吃薯片吃出金手串高兴坏了",
-      "onboard_time": 1708393293,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286625,
       "num": 286625,
       "word": "NBA全明星得分首次破200",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1708329942,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 285546,
+      "num": 285546,
+      "word": "陈靖可早期ins",
+      "onboard_time": 1708395216,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 284696,
@@ -2969,6 +2993,14 @@
       "onboard_time": 1708233033,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280884,
+      "num": 280884,
+      "word": "八段锦12分钟完整口令版",
+      "onboard_time": 1708394735,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 279906,
@@ -3049,14 +3081,6 @@
       "onboard_time": 1708319317,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270476,
-      "num": 270476,
-      "word": "八段锦12分钟完整口令版",
-      "onboard_time": 1708394735,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 269364,
@@ -3185,6 +3209,14 @@
       "onboard_time": 1708349625,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261305,
+      "num": 261305,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258541,
@@ -3427,14 +3459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241941,
-      "num": 241941,
-      "word": "适合隐晦公布恋情的文案",
-      "onboard_time": 1708393111,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241550,
       "num": 241550,
       "word": "江苏卫视长风渡定档",
@@ -3513,6 +3537,14 @@
       "onboard_time": 1708181075,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233866,
+      "num": 233866,
+      "word": "拳击成年轻人开工运动新宠",
+      "onboard_time": 1708395575,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 233695,
@@ -3931,6 +3963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210178,
+      "num": 210178,
+      "word": "LPR",
+      "onboard_time": 1708395873,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210087,
       "num": 210087,
       "word": "大侦探沉默的三面羊场景大揭秘",
@@ -3945,6 +3985,14 @@
       "onboard_time": 1708318122,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208308,
+      "num": 208308,
+      "word": "100万房贷30年少还5.2万",
+      "onboard_time": 1708396054,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207344,
@@ -4459,14 +4507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186100,
-      "num": 186100,
-      "word": "陈靖可早期ins",
-      "onboard_time": 1708395216,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -4915,14 +4955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167078,
-      "num": 167078,
-      "word": "周杰伦霉霉演唱会风波",
-      "onboard_time": 1708395575,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 166967,
       "num": 166967,
       "word": "梅西沙特第一场",
@@ -5083,14 +5115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161334,
-      "num": 161334,
-      "word": "拳击成年轻人开工运动新宠",
-      "onboard_time": 1708395575,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 161103,
       "num": 161102,
       "word": "孙千陈靖可新中式情侣装",
@@ -5171,14 +5195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157687,
-      "num": 157687,
-      "word": "海南为何迟迟不建跨海大桥",
-      "onboard_time": 1708394974,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157600,
       "num": 371025,
       "word": "公路高铁3月1日即将进站",
@@ -5201,6 +5217,14 @@
       "onboard_time": 1708386149,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 157229,
+      "num": 157229,
+      "word": "信用卡发卡量连续4季度下降",
+      "onboard_time": 1708395335,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 156839,
@@ -5361,6 +5385,14 @@
       "onboard_time": 1708258655,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "热辣滚烫 朴素的女性主体性",
+      "onboard_time": 1708396054,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 150476,
@@ -5539,6 +5571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144474,
+      "num": 144474,
+      "word": "欧盟正式调查TikTok",
+      "onboard_time": 1708396295,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144242,
       "num": 144242,
       "word": "龙年A股高开",
@@ -5609,14 +5649,6 @@
       "onboard_time": 1708330839,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139820,
-      "num": 139820,
-      "word": "信用卡发卡量连续4季度下降",
-      "onboard_time": 1708395335,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 139556,
@@ -5899,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "福建游神",
+      "onboard_time": 1708396417,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119972,
       "num": 125817,
       "word": "上海市第二中学通报",
@@ -6148,7 +6188,7 @@
     },
     {
       "raw_hot": 90797,
-      "num": 1428779,
+      "num": 1525934,
       "word": "长三角晒2023年经济发展成绩单",
       "onboard_time": 1708351841,
       "rank": 2,
