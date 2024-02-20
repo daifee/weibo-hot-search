@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708435210516,
+  "endTime": 1708436044637,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955583,
+      "num": 955583,
+      "word": "张佳宁点不掉的痣",
+      "onboard_time": 1708434160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 948017,
       "num": 948017,
       "word": "LV中国涨价",
@@ -1411,14 +1419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 747502,
-      "num": 607597,
-      "word": "张佳宁点不掉的痣",
-      "onboard_time": 1708434160,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 735262,
       "num": 735262,
       "word": "林孝埈摔出赛道没有回放",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1708423720,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 727642,
+      "num": 302058,
+      "word": "毕业工作四年只存了4w块钱",
+      "onboard_time": 1708433980,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 726729,
@@ -1833,14 +1841,6 @@
       "onboard_time": 1708391135,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608031,
-      "num": 302058,
-      "word": "毕业工作四年只存了4w块钱",
-      "onboard_time": 1708433980,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 607271,
@@ -2843,6 +2843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 400388,
+      "num": 400388,
+      "word": "办公室打电话羞耻",
+      "onboard_time": 1708433799,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399354,
       "num": 399354,
       "word": "MCN公司回应男网红cos游神赵世子",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1708319254,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 392108,
+      "num": 392108,
+      "word": "刘亦菲阿布扎比新拍摄",
+      "onboard_time": 1708435478,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 391168,
@@ -3153,14 +3169,6 @@
       "onboard_time": 1708241374,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358261,
-      "num": 358261,
-      "word": "办公室打电话羞耻",
-      "onboard_time": 1708433799,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 355972,
@@ -4251,6 +4259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263043,
+      "num": 263043,
+      "word": "热辣滚烫的真正价值所在",
+      "onboard_time": 1708434398,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262929,
       "num": 262929,
       "word": "双子座其实还蛮单纯的",
@@ -4259,8 +4275,8 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 261591,
-      "num": 261591,
+      "raw_hot": 262240,
+      "num": 262240,
       "word": "考研成绩2月26日可查",
       "onboard_time": 1708433197,
       "rank": 28,
@@ -4865,14 +4881,6 @@
       "onboard_time": 1708402477,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226367,
-      "num": 226367,
-      "word": "热辣滚烫的真正价值所在",
-      "onboard_time": 1708434398,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 225821,
@@ -6593,6 +6601,14 @@
       "onboard_time": 1708213526,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 164841,

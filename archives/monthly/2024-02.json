@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708435210516,
+  "endTime": 1708436044637,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -5955,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 955583,
+      "num": 955583,
+      "word": "张佳宁点不掉的痣",
+      "onboard_time": 1708434160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954963,
       "num": 954963,
       "word": "长相思吧官博发长文",
@@ -8595,14 +8603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747502,
-      "num": 607597,
-      "word": "张佳宁点不掉的痣",
-      "onboard_time": 1708434160,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 747423,
       "num": 747423,
       "word": "贾玲芭莎 健康自信的美",
@@ -8961,6 +8961,14 @@
       "onboard_time": 1707043833,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 727642,
+      "num": 302058,
+      "word": "毕业工作四年只存了4w块钱",
+      "onboard_time": 1708433980,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 726729,
@@ -11241,14 +11249,6 @@
       "onboard_time": 1707665912,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608031,
-      "num": 302058,
-      "word": "毕业工作四年只存了4w块钱",
-      "onboard_time": 1708433980,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 607951,
@@ -17379,6 +17379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400388,
+      "num": 400388,
+      "word": "办公室打电话羞耻",
+      "onboard_time": 1708433799,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399839,
       "num": 399839,
       "word": "男子宴席收到工作信息后醉酒捅死领导",
@@ -17689,6 +17697,14 @@
       "onboard_time": 1707352051,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392108,
+      "num": 392108,
+      "word": "刘亦菲阿布扎比新拍摄",
+      "onboard_time": 1708435478,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 392067,
@@ -19233,14 +19249,6 @@
       "onboard_time": 1707367532,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358261,
-      "num": 358261,
-      "word": "办公室打电话羞耻",
-      "onboard_time": 1708433799,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 357808,
@@ -24867,6 +24875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263043,
+      "num": 263043,
+      "word": "热辣滚烫的真正价值所在",
+      "onboard_time": 1708434398,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262937,
       "num": 262937,
       "word": "乐华后辈探访王一博",
@@ -24931,6 +24947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262240,
+      "num": 262240,
+      "word": "考研成绩2月26日可查",
+      "onboard_time": 1708433197,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 261926,
       "num": 261926,
       "word": "拔鱼刺挂口腔科是错误的",
@@ -24945,14 +24969,6 @@
       "onboard_time": 1708089092,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261591,
-      "num": 261591,
-      "word": "考研成绩2月26日可查",
-      "onboard_time": 1708433197,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 261520,
@@ -28481,14 +28497,6 @@
       "onboard_time": 1707994055,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226367,
-      "num": 226367,
-      "word": "热辣滚烫的真正价值所在",
-      "onboard_time": 1708434398,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 226192,
@@ -39497,6 +39505,14 @@
       "onboard_time": 1707468450,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 164869,
