@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708453402924,
+  "endTime": 1708454113618,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86114,
+      "num": 86114,
+      "word": "虞书欣兔塑",
+      "onboard_time": 1708452381,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81491,
       "num": 96402,
       "word": "乐莹跳楼戏拍了72遍用了第72条",
@@ -435,19 +443,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72500,
-      "num": 72500,
-      "word": "虞书欣兔塑",
-      "onboard_time": 1708452381,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68563,
       "num": 68563,
       "word": "时代少年团开通B站账号",
       "onboard_time": 1708431697,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59053,
+      "num": 59053,
+      "word": "韩素希腰部纹身含义",
+      "onboard_time": 1708453640,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -499,7 +507,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20073,
+      "raw_hot": 32393,
+      "num": 32393,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22984,
       "num": 277852,
       "word": "航天员拍摄的蔚蓝地球",
       "onboard_time": 1708437273,
