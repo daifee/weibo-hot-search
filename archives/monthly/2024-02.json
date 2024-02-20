@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708396444936,
+  "endTime": 1708399094916,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -441,6 +441,14 @@
       "onboard_time": 1707444567,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3599437,
+      "num": 3599437,
+      "word": "出轨女教师若离婚或需承担精神赔偿",
+      "onboard_time": 1708395092,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3566728,
@@ -1059,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2385094,
+      "num": 2385094,
+      "word": "柳鑫宇ins",
+      "onboard_time": 1708397317,
+      "rank": 1,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2385006,
       "num": 2385006,
       "word": "秦朗舅舅",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1708223911,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2260347,
+      "num": 2260347,
+      "word": "房贷又要降了",
+      "onboard_time": 1708394735,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 2244352,
@@ -1664,14 +1688,6 @@
       "word": "快递停运时间",
       "onboard_time": 1706754330,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1945307,
-      "num": 1945307,
-      "word": "出轨女教师若离婚或需承担精神赔偿",
-      "onboard_time": 1708395092,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2731,14 +2747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1515908,
-      "num": 1515908,
-      "word": "房贷又要降了",
-      "onboard_time": 1708394735,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1515310,
       "num": 1515310,
       "word": "谷爱凌因比赛取消摘银",
@@ -3321,6 +3329,14 @@
       "onboard_time": 1707492857,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1346556,
+      "num": 1346556,
+      "word": "这个杀手不太冷 抄袭",
+      "onboard_time": 1708395270,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 1345091,
@@ -4787,14 +4803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1095849,
-      "num": 1095849,
-      "word": "这个杀手不太冷 抄袭",
-      "onboard_time": 1708395270,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1095668,
       "num": 1095668,
       "word": "公司没人了",
@@ -5867,6 +5875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 945816,
+      "num": 945816,
+      "word": "周杰伦霉霉演唱会风波",
+      "onboard_time": 1708395575,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 945215,
       "num": 945215,
       "word": "海清有两个神了",
@@ -6712,6 +6728,14 @@
       "word": "李庚希回应摇太阳排片少",
       "onboard_time": 1707661831,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 860035,
+      "num": 860035,
+      "word": "热辣滚烫与贾玲消失这一年",
+      "onboard_time": 1708398094,
+      "rank": 7,
       "category": "电影"
     },
     {
@@ -8289,6 +8313,14 @@
       "onboard_time": 1707652593,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 745293,
+      "num": 745293,
+      "word": "100万房贷30年少还5.2万",
+      "onboard_time": 1708396054,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744701,
@@ -10483,6 +10515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626109,
+      "num": 626109,
+      "word": "吕克贝松 广末凉子",
+      "onboard_time": 1708397735,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625939,
       "num": 625939,
       "word": "梅西13天3次回应均未道歉",
@@ -11355,6 +11395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 579458,
+      "num": 579458,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579195,
       "num": 579195,
       "word": "李勤勤收养周海媚爱犬",
@@ -11425,14 +11473,6 @@
       "onboard_time": 1707784171,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 575822,
-      "num": 575822,
-      "word": "周杰伦霉霉演唱会风波",
-      "onboard_time": 1708395575,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 575530,
@@ -12049,6 +12089,14 @@
       "onboard_time": 1707273931,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551360,
+      "num": 551360,
+      "word": "突然告诉家人朋友领证了",
+      "onboard_time": 1708396956,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 551109,
@@ -19275,6 +19323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339750,
+      "num": 339750,
+      "word": "四六级成绩什么时候出",
+      "onboard_time": 1708396596,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 339500,
       "num": 625950,
       "word": "西安要被南京小孩哥夸脸红了",
@@ -20251,6 +20307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318498,
+      "num": 318498,
+      "word": "星巴克红烧肉拿铁一杯68元",
+      "onboard_time": 1708397497,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 318326,
       "num": 318326,
       "word": "贺峻霖考试成绩出来了",
@@ -20721,6 +20785,14 @@
       "onboard_time": 1708065993,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 308967,
+      "num": 308967,
+      "word": "陈靖可早期ins",
+      "onboard_time": 1708395216,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 308941,
@@ -21289,6 +21361,14 @@
       "onboard_time": 1708227090,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300378,
+      "num": 300378,
+      "word": "欧盟正式调查TikTok",
+      "onboard_time": 1708396295,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 300310,
@@ -22219,14 +22299,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 285546,
-      "num": 285546,
-      "word": "陈靖可早期ins",
-      "onboard_time": 1708395216,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285188,
       "num": 285188,
       "word": "在暴雪时分情人节联姻局",
@@ -23131,6 +23203,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 272893,
+      "num": 272893,
+      "word": "考公正在成为印度年轻人的执念",
+      "onboard_time": 1708398336,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272890,
       "num": 221184,
       "word": "王珞丹同一件礼服12年前后对比",
@@ -23945,14 +24025,6 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261305,
-      "num": 261305,
-      "word": "海南为何迟迟不建跨海大桥",
-      "onboard_time": 1708394974,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261082,
@@ -29683,14 +29755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208308,
-      "num": 208308,
-      "word": "100万房贷30年少还5.2万",
-      "onboard_time": 1708396054,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208283,
       "num": 208283,
       "word": "今天是2030年前最后一个年三十",
@@ -29929,6 +29993,14 @@
       "onboard_time": 1708319673,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206945,
+      "num": 206945,
+      "word": "70岁大爷坚持健身45年头发乌黑浓密",
+      "onboard_time": 1708398879,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206855,
@@ -33401,6 +33473,14 @@
       "onboard_time": 1706778330,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189604,
+      "num": 189604,
+      "word": "中国男篮14人名单",
+      "onboard_time": 1708397854,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 189574,
@@ -38099,6 +38179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164240,
+      "num": 164240,
+      "word": "房贷利率降8次贷款百万少还19万",
+      "onboard_time": 1708398879,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164149,
       "num": 162609,
       "word": "于正盛赞卢昱晓",
@@ -38907,6 +38995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159810,
+      "num": 159810,
+      "word": "妈妈我能不能拆开这箱奶",
+      "onboard_time": 1708398815,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159574,
       "num": 159574,
       "word": "王曼昱3比0马格迪耶娃",
@@ -39369,6 +39465,22 @@
       "onboard_time": 1707261082,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157390,
+      "num": 157390,
+      "word": "棉条之火",
+      "onboard_time": 1708398517,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157312,
+      "num": 157312,
+      "word": "早春穿搭",
+      "onboard_time": 1708398094,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 157229,
@@ -41921,14 +42033,6 @@
       "onboard_time": 1707801037,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144474,
-      "num": 144474,
-      "word": "欧盟正式调查TikTok",
-      "onboard_time": 1708396295,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 144355,
@@ -45961,6 +46065,14 @@
       "onboard_time": 1707375930,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "同事带来的神奇土特产",
+      "onboard_time": 1708392453,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 124105,
@@ -50004,7 +50116,7 @@
     },
     {
       "raw_hot": 90797,
-      "num": 1525934,
+      "num": 2287513,
       "word": "长三角晒2023年经济发展成绩单",
       "onboard_time": 1708351841,
       "rank": 2,
