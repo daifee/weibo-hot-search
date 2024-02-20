@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708399094916,
+  "endTime": 1708400095886,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -281,6 +281,14 @@
       "onboard_time": 1707890314,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5315521,
+      "num": 5315521,
+      "word": "柳鑫宇ins",
+      "onboard_time": 1708397317,
+      "rank": 1,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 5149167,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1708242575,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2385094,
-      "num": 2385094,
-      "word": "柳鑫宇ins",
-      "onboard_time": 1708397317,
-      "rank": 1,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 2385006,
@@ -6243,6 +6243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 904837,
+      "num": 904837,
+      "word": "刘雯寸头",
+      "onboard_time": 1708399236,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 902129,
       "num": 902129,
       "word": "河南暴雪有人在高速堵车超10公里",
@@ -6321,6 +6329,14 @@
       "onboard_time": 1707377970,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 891335,
+      "num": 891335,
+      "word": "热辣滚烫与贾玲消失这一年",
+      "onboard_time": 1708398094,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 889156,
@@ -6728,14 +6744,6 @@
       "word": "李庚希回应摇太阳排片少",
       "onboard_time": 1707661831,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 860035,
-      "num": 860035,
-      "word": "热辣滚烫与贾玲消失这一年",
-      "onboard_time": 1708398094,
-      "rank": 7,
       "category": "电影"
     },
     {
@@ -7369,6 +7377,14 @@
       "onboard_time": 1707386610,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 808278,
+      "num": 808278,
+      "word": "考公正在成为印度年轻人的执念",
+      "onboard_time": 1708398336,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807590,
@@ -8019,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766429,
+      "num": 766429,
+      "word": "100万房贷30年少还5.2万",
+      "onboard_time": 1708396054,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765440,
       "num": 765440,
       "word": "林孝埈黄牌",
@@ -8313,14 +8337,6 @@
       "onboard_time": 1707652593,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 745293,
-      "num": 745293,
-      "word": "100万房贷30年少还5.2万",
-      "onboard_time": 1708396054,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 744701,
@@ -10987,6 +11003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602371,
+      "num": 602371,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602153,
       "num": 602153,
       "word": "梅西第60分钟被换下",
@@ -11395,14 +11419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 579458,
-      "num": 579458,
-      "word": "海南为何迟迟不建跨海大桥",
-      "onboard_time": 1708394974,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579195,
       "num": 579195,
       "word": "李勤勤收养周海媚爱犬",
@@ -11617,6 +11633,14 @@
       "onboard_time": 1708015048,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 570009,
+      "num": 570009,
+      "word": "突然告诉家人朋友领证了",
+      "onboard_time": 1708396956,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 569443,
@@ -12089,14 +12113,6 @@
       "onboard_time": 1707273931,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551360,
-      "num": 551360,
-      "word": "突然告诉家人朋友领证了",
-      "onboard_time": 1708396956,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 551109,
@@ -19995,6 +20011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323965,
+      "num": 318498,
+      "word": "星巴克红烧肉拿铁一杯68元",
+      "onboard_time": 1708397497,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 323778,
       "num": 323778,
       "word": "朴灿烈将出演网飞新剧",
@@ -20049,6 +20073,14 @@
       "onboard_time": 1707405214,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323187,
+      "num": 323187,
+      "word": "70岁大爷坚持健身45年头发乌黑浓密",
+      "onboard_time": 1708398879,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323087,
@@ -20305,14 +20337,6 @@
       "onboard_time": 1707025954,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318498,
-      "num": 318498,
-      "word": "星巴克红烧肉拿铁一杯68元",
-      "onboard_time": 1708397497,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 318326,
@@ -21281,6 +21305,14 @@
       "onboard_time": 1706764173,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302544,
+      "num": 302544,
+      "word": "原来去年楼下跑步的女生是贾玲",
+      "onboard_time": 1708399657,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 302467,
@@ -22819,6 +22851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278269,
+      "num": 278269,
+      "word": "妈妈我能不能拆开这箱奶",
+      "onboard_time": 1708398815,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278266,
       "num": 278266,
       "word": "飞驰人生2比1好看",
@@ -23059,6 +23099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275496,
+      "num": 275496,
+      "word": "房贷利率降8次贷款百万少还19万",
+      "onboard_time": 1708398879,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 275318,
       "num": 275318,
       "word": "木村拓哉发微博",
@@ -23201,14 +23249,6 @@
       "onboard_time": 1707229955,
       "rank": 43,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 272893,
-      "num": 272893,
-      "word": "考公正在成为印度年轻人的执念",
-      "onboard_time": 1708398336,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272890,
@@ -29995,14 +30035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206945,
-      "num": 206945,
-      "word": "70岁大爷坚持健身45年头发乌黑浓密",
-      "onboard_time": 1708398879,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206855,
       "num": 137966,
       "word": "不敢想嘘嘘该有多幸福",
@@ -30873,6 +30905,14 @@
       "onboard_time": 1707189449,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "惠英红刘浩存新片预告",
+      "onboard_time": 1708399417,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 202354,
@@ -38179,14 +38219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 164240,
-      "num": 164240,
-      "word": "房贷利率降8次贷款百万少还19万",
-      "onboard_time": 1708398879,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 164149,
       "num": 162609,
       "word": "于正盛赞卢昱晓",
@@ -38995,14 +39027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159810,
-      "num": 159810,
-      "word": "妈妈我能不能拆开这箱奶",
-      "onboard_time": 1708398815,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159574,
       "num": 159574,
       "word": "王曼昱3比0马格迪耶娃",
@@ -39251,6 +39275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158299,
+      "num": 158299,
+      "word": "棉条之火",
+      "onboard_time": 1708398517,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158220,
       "num": 158220,
       "word": "为什么切石膏不会伤到皮肤",
@@ -39465,14 +39497,6 @@
       "onboard_time": 1707261082,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157390,
-      "num": 157390,
-      "word": "棉条之火",
-      "onboard_time": 1708398517,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 157312,
@@ -42659,6 +42683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141029,
+      "num": 141029,
+      "word": "派出所回应父亲把3岁孩子扔下楼",
+      "onboard_time": 1708399957,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140990,
       "num": 140990,
       "word": "亲戚越来越少",
@@ -45145,6 +45177,14 @@
       "onboard_time": 1707091167,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128521,
+      "num": 128521,
+      "word": "女儿出嫁父亲边帮亲戚打包边哭",
+      "onboard_time": 1708400017,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128472,

@@ -1,7 +1,15 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708399094916,
+  "endTime": 1708400095886,
   "band_list": [
+    {
+      "raw_hot": 5315521,
+      "num": 5315521,
+      "word": "柳鑫宇ins",
+      "onboard_time": 1708397317,
+      "rank": 1,
+      "category": "体育,艺人"
+    },
     {
       "raw_hot": 3599437,
       "num": 3599437,
@@ -25,14 +33,6 @@
       "onboard_time": 1708354120,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2385094,
-      "num": 2385094,
-      "word": "柳鑫宇ins",
-      "onboard_time": 1708397317,
-      "rank": 1,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 2260347,
@@ -171,12 +171,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 904837,
+      "num": 904837,
+      "word": "刘雯寸头",
+      "onboard_time": 1708399236,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 893929,
       "num": 335605,
       "word": "常州案例 女班主任获刑3年",
       "onboard_time": 1708350280,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 891335,
+      "num": 891335,
+      "word": "热辣滚烫与贾玲消失这一年",
+      "onboard_time": 1708398094,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 877786,
@@ -187,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 860035,
-      "num": 860035,
-      "word": "热辣滚烫与贾玲消失这一年",
-      "onboard_time": 1708398094,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 808278,
+      "num": 808278,
+      "word": "考公正在成为印度年轻人的执念",
+      "onboard_time": 1708398336,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 796756,
@@ -203,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745293,
-      "num": 745293,
+      "raw_hot": 766429,
+      "num": 766429,
       "word": "100万房贷30年少还5.2万",
       "onboard_time": 1708396054,
       "rank": 32,
@@ -267,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602371,
+      "num": 602371,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584980,
       "num": 584980,
       "word": "打一肚子腹稿结果亲戚降级了",
       "onboard_time": 1708382659,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 579458,
-      "num": 579458,
-      "word": "海南为何迟迟不建跨海大桥",
-      "onboard_time": 1708394974,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575998,
@@ -291,20 +307,20 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 570009,
+      "num": 570009,
+      "word": "突然告诉家人朋友领证了",
+      "onboard_time": 1708396956,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553521,
       "num": 553521,
       "word": "东方甄选报警",
       "onboard_time": 1708350882,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 551360,
-      "num": 551360,
-      "word": "突然告诉家人朋友领证了",
-      "onboard_time": 1708396956,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 538969,
@@ -411,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323965,
+      "num": 318498,
+      "word": "星巴克红烧肉拿铁一杯68元",
+      "onboard_time": 1708397497,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 323285,
       "num": 323285,
       "word": "邓为秒删",
@@ -419,12 +443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 318498,
-      "num": 318498,
-      "word": "星巴克红烧肉拿铁一杯68元",
-      "onboard_time": 1708397497,
-      "rank": 22,
-      "category": "美食"
+      "raw_hot": 323187,
+      "num": 323187,
+      "word": "70岁大爷坚持健身45年头发乌黑浓密",
+      "onboard_time": 1708398879,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315066,
@@ -449,6 +473,14 @@
       "onboard_time": 1708393293,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302544,
+      "num": 302544,
+      "word": "原来去年楼下跑步的女生是贾玲",
+      "onboard_time": 1708399657,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 300518,
@@ -491,12 +523,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 272893,
-      "num": 272893,
-      "word": "考公正在成为印度年轻人的执念",
-      "onboard_time": 1708398336,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 278269,
+      "num": 278269,
+      "word": "妈妈我能不能拆开这箱奶",
+      "onboard_time": 1708398815,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 275496,
+      "num": 275496,
+      "word": "房贷利率降8次贷款百万少还19万",
+      "onboard_time": 1708398879,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 258731,
@@ -587,20 +627,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 206945,
-      "num": 206945,
-      "word": "70岁大爷坚持健身45年头发乌黑浓密",
-      "onboard_time": 1708398879,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203505,
       "num": 203505,
       "word": "刚知道妈妈是大小姐",
       "onboard_time": 1708385668,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "惠英红刘浩存新片预告",
+      "onboard_time": 1708399417,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 202338,
@@ -755,28 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164240,
-      "num": 164240,
-      "word": "房贷利率降8次贷款百万少还19万",
-      "onboard_time": 1708398879,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 160460,
       "num": 160460,
       "word": "一年期LPR维持不变",
       "onboard_time": 1708394312,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 159810,
-      "num": 159810,
-      "word": "妈妈我能不能拆开这箱奶",
-      "onboard_time": 1708398815,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 159138,
@@ -787,20 +811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158299,
+      "num": 158299,
+      "word": "棉条之火",
+      "onboard_time": 1708398517,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157473,
       "num": 157473,
       "word": "苹果AppStore再现假冒钱包应用",
       "onboard_time": 1708386149,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 157390,
-      "num": 157390,
-      "word": "棉条之火",
-      "onboard_time": 1708398517,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 157312,
@@ -891,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141029,
+      "num": 141029,
+      "word": "派出所回应父亲把3岁孩子扔下楼",
+      "onboard_time": 1708399957,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139414,
       "num": 139414,
       "word": "再来十次大姨妈就过年了",
@@ -961,6 +993,14 @@
       "onboard_time": 1708350641,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128521,
+      "num": 128521,
+      "word": "女儿出嫁父亲边帮亲戚打包边哭",
+      "onboard_time": 1708400017,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124146,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1708400095886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5315521,
+        "num": 5315521,
+        "word": "柳鑫宇ins",
+        "onboard_time": 1708397317,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 3395661,
+        "num": 3395661,
+        "word": "出轨女教师若离婚或需承担精神赔偿",
+        "onboard_time": 1708395092,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37201,
+        "num": 2068688,
+        "word": "长三角晒2023年经济发展成绩单",
+        "onboard_time": 1708351841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1862177,
+        "num": 1862177,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1225654,
+        "num": 1225654,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1091821,
+        "num": 1091821,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916850,
+        "num": 916850,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 904837,
+        "num": 904837,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 891335,
+        "num": 891335,
+        "word": "热辣滚烫与贾玲消失这一年",
+        "onboard_time": 1708398094,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 808278,
+        "num": 808278,
+        "word": "考公正在成为印度年轻人的执念",
+        "onboard_time": 1708398336,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766429,
+        "num": 766429,
+        "word": "100万房贷30年少还5.2万",
+        "onboard_time": 1708396054,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 625043,
+        "num": 625043,
+        "word": "吕克贝松 广末凉子",
+        "onboard_time": 1708397735,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602371,
+        "num": 602371,
+        "word": "海南为何迟迟不建跨海大桥",
+        "onboard_time": 1708394974,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570009,
+        "num": 570009,
+        "word": "突然告诉家人朋友领证了",
+        "onboard_time": 1708396956,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524241,
+        "num": 524241,
+        "word": "梅西3次表示希望再来中国",
+        "onboard_time": 1708383681,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470359,
+        "num": 470359,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 444762,
+        "num": 444762,
+        "word": "秦朗丢寒假作业事件大结局",
+        "onboard_time": 1708384946,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439173,
+        "num": 439173,
+        "word": "开工3天痔疮膏销量翻3倍",
+        "onboard_time": 1708394916,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396702,
+        "num": 396702,
+        "word": "白鹿替身发文",
+        "onboard_time": 1708357179,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345474,
+        "num": 345474,
+        "word": "小夫妻抱婴儿乘高铁站8个多小时",
+        "onboard_time": 1708392872,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323187,
+        "num": 323187,
+        "word": "70岁大爷坚持健身45年头发乌黑浓密",
+        "onboard_time": 1708398879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322199,
+        "num": 322199,
+        "word": "全智贤汤唯贴贴",
+        "onboard_time": 1708387711,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303467,
+        "num": 303467,
+        "word": "四六级成绩什么时候出",
+        "onboard_time": 1708396596,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302544,
+        "num": 302544,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287376,
+        "num": 287376,
+        "word": "怎么轮到结婚就开始让我凑合了",
+        "onboard_time": 1708384281,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278269,
+        "num": 278269,
+        "word": "妈妈我能不能拆开这箱奶",
+        "onboard_time": 1708398815,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275496,
+        "num": 275496,
+        "word": "房贷利率降8次贷款百万少还19万",
+        "onboard_time": 1708398879,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323965,
+        "num": 270835,
+        "word": "星巴克红烧肉拿铁一杯68元",
+        "onboard_time": 1708397497,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265930,
+        "num": 265930,
+        "word": "降息",
+        "onboard_time": 1708393535,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255441,
+        "num": 255441,
+        "word": "陈靖可早期ins",
+        "onboard_time": 1708395216,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238134,
+        "num": 238134,
+        "word": "欧盟正式调查TikTok",
+        "onboard_time": 1708396295,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210431,
+        "num": 210431,
+        "word": "赵世子",
+        "onboard_time": 1708391135,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202392,
+        "num": 202392,
+        "word": "惠英红刘浩存新片预告",
+        "onboard_time": 1708399417,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195815,
+        "num": 195815,
+        "word": "贾玲怕拍戏打扰群众上门发礼物",
+        "onboard_time": 1708351065,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182459,
+        "num": 182459,
+        "word": "种地吧监工直播",
+        "onboard_time": 1708393351,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180877,
+        "num": 180877,
+        "word": "梅西代言的赤水河酒已下架",
+        "onboard_time": 1708391198,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 175025,
+        "word": "身体有这8个特征更容易长寿",
+        "onboard_time": 1708391198,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172957,
+        "num": 172957,
+        "word": "上海飞大阪机票仅8元",
+        "onboard_time": 1708352442,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171238,
+        "num": 171238,
+        "word": "为啥现在男生不追女生了",
+        "onboard_time": 1708383681,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168740,
+        "num": 168740,
+        "word": "中国男篮14人名单",
+        "onboard_time": 1708397854,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167139,
+        "num": 167139,
+        "word": "女子吐槽高铁上不售卖卫生巾",
+        "onboard_time": 1708374017,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166587,
+        "num": 166587,
+        "word": "吵了一整年要离职的你",
+        "onboard_time": 1708388855,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164385,
+        "num": 164385,
+        "word": "内娱有自己的纯元皇后",
+        "onboard_time": 1708348005,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159600,
+        "num": 159600,
+        "word": "适合隐晦公布恋情的文案",
+        "onboard_time": 1708393111,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158299,
+        "num": 158299,
+        "word": "棉条之火",
+        "onboard_time": 1708398517,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141029,
+        "num": 141029,
+        "word": "派出所回应父亲把3岁孩子扔下楼",
+        "onboard_time": 1708399957,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137408,
+        "num": 137408,
+        "word": "小学老师群发寒假作业烂尾预警",
+        "onboard_time": 1708354839,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133241,
+        "num": 133241,
+        "word": "梅西回应",
+        "onboard_time": 1708348178,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129516,
+        "num": 129516,
+        "word": "虞书欣林一新剧路透",
+        "onboard_time": 1708386267,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128521,
+        "num": 128521,
+        "word": "女儿出嫁父亲边帮亲戚打包边哭",
+        "onboard_time": 1708400017,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#百年大党不懈奋斗淬炼的鲜明品格是什么#"
+    }
+  }
+}

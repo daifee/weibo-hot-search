@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708399094916,
+  "endTime": 1708400095886,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -521,6 +521,14 @@
       "onboard_time": 1705137287,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5315521,
+      "num": 5315521,
+      "word": "柳鑫宇ins",
+      "onboard_time": 1708397317,
+      "rank": 1,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 5230662,
@@ -1817,14 +1825,6 @@
       "onboard_time": 1708242575,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2385094,
-      "num": 2385094,
-      "word": "柳鑫宇ins",
-      "onboard_time": 1708397317,
-      "rank": 1,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 2385006,
