@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708402901106,
+  "endTime": 1708403804046,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -307,8 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1742737,
-      "num": 1742737,
+      "raw_hot": 1766765,
+      "num": 1766765,
       "word": "刘雯寸头",
       "onboard_time": 1708399236,
       "rank": 7,
@@ -451,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1413178,
+      "num": 1413178,
+      "word": "原来去年楼下跑步的女生是贾玲",
+      "onboard_time": 1708399657,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1412970,
       "num": 1425173,
       "word": "律师谈女教师出轨16岁高中生",
@@ -531,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1292120,
-      "num": 1292120,
-      "word": "原来去年楼下跑步的女生是贾玲",
-      "onboard_time": 1708399657,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 1309478,
+      "num": 1309478,
+      "word": "梅西本人已在中国注册姓名商标",
+      "onboard_time": 1708401640,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1292108,
@@ -995,6 +1003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 818464,
+      "num": 818464,
+      "word": "女子花1万6买好全年假期旅行机票",
+      "onboard_time": 1708401159,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 817398,
       "num": 817398,
       "word": "山姆回应三文鱼不再标注开袋即食",
@@ -1016,14 +1032,6 @@
       "word": "梅西澄清视频剪辑痕迹明显",
       "onboard_time": 1708352563,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 798118,
-      "num": 722763,
-      "word": "梅西本人已在中国注册姓名商标",
-      "onboard_time": 1708401640,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 738875,
+      "num": 738875,
+      "word": "韩国大批医生集体辞职",
+      "onboard_time": 1708402718,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735262,
       "num": 735262,
       "word": "林孝埈摔出赛道没有回放",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1708392575,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 726729,
+      "num": 726729,
+      "word": "柳鑫宇十四冬赛程",
+      "onboard_time": 1708402300,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 724091,
@@ -1539,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596724,
+      "num": 438977,
+      "word": "全世界都知道妹妹在赶作业了",
+      "onboard_time": 1708400438,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 595646,
       "num": 595646,
       "word": "原子弹爆炸后她架机2次冲向蘑菇云",
@@ -1835,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506636,
-      "num": 506636,
-      "word": "女子花1万6买好全年假期旅行机票",
-      "onboard_time": 1708401159,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 506121,
       "num": 421860,
       "word": "鲍师傅门店回应把龙拼成dargon",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1708177778,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501529,
+      "num": 501529,
+      "word": "花滑",
+      "onboard_time": 1708402718,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 499770,
@@ -1889,14 +1921,6 @@
       "onboard_time": 1708341398,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 490055,
-      "num": 420985,
-      "word": "全世界都知道妹妹在赶作业了",
-      "onboard_time": 1708400438,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 489710,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1708314034,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 460044,
-      "num": 460044,
-      "word": "柳鑫宇十四冬赛程",
-      "onboard_time": 1708402300,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 451672,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1708214968,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382903,
+      "num": 382903,
+      "word": "范丞丞代言华莱士",
+      "onboard_time": 1708402062,
+      "rank": 27,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 382499,
@@ -3011,14 +3035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295719,
-      "num": 295719,
-      "word": "范丞丞代言华莱士",
-      "onboard_time": 1708402062,
-      "rank": 27,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 295584,
       "num": 295584,
       "word": "贾玲捧脸公式照",
@@ -3283,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271125,
+      "num": 271125,
+      "word": "陈乔恩艾伦重返定情地",
+      "onboard_time": 1708403501,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269364,
       "num": 247627,
       "word": "复工后和男朋友说不想上班",
@@ -3451,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254487,
+      "num": 254487,
+      "word": "赵露思薛佳凝聚餐吃铁锅炖",
+      "onboard_time": 1708403384,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253743,
       "num": 249928,
       "word": "要带女朋友回家 家人的极限操作",
@@ -3528,6 +3560,14 @@
       "word": "工作量多可能是工位的问题",
       "onboard_time": 1708252832,
       "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248606,
+      "num": 248606,
+      "word": "二姨家低于50度的都算饮料呗",
+      "onboard_time": 1708402661,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -3649,6 +3689,14 @@
       "onboard_time": 1708386448,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241875,
+      "num": 241875,
+      "word": "幽灵堵车",
+      "onboard_time": 1708401640,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 241550,
@@ -3851,6 +3899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226871,
+      "num": 226871,
+      "word": "二月天杨柳醉春烟",
+      "onboard_time": 1708402477,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225299,
       "num": 225299,
       "word": "养成易瘦体质的5个习惯",
@@ -3905,14 +3961,6 @@
       "onboard_time": 1708220974,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222510,
-      "num": 222510,
-      "word": "花滑",
-      "onboard_time": 1708402718,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 221963,
@@ -4041,6 +4089,14 @@
       "onboard_time": 1708384281,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216349,
+      "num": 216349,
+      "word": "光遇复刻",
+      "onboard_time": 1708402901,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 215353,
@@ -4299,14 +4355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201556,
-      "num": 201556,
-      "word": "韩国大批医生集体辞职",
-      "onboard_time": 1708402718,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201419,
       "num": 201419,
       "word": "张小彦 你以后好自为之",
@@ -4425,14 +4473,6 @@
       "onboard_time": 1708335158,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196905,
-      "num": 196905,
-      "word": "幽灵堵车",
-      "onboard_time": 1708401640,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 196626,
@@ -4739,14 +4779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186062,
-      "num": 186062,
-      "word": "二月天杨柳醉春烟",
-      "onboard_time": 1708402477,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -4987,14 +5019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176804,
-      "num": 176804,
-      "word": "二姨家低于50度的都算饮料呗",
-      "onboard_time": 1708402661,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176763,
       "num": 176763,
       "word": "不到一天四家车企宣布降价",
@@ -5169,6 +5193,14 @@
       "onboard_time": 1708333300,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170051,
+      "num": 170051,
+      "word": "2万多游客滞留5万人小县倾城接待",
+      "onboard_time": 1708403681,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 169925,
