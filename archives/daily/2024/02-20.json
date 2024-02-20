@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708417260874,
+  "endTime": 1708418077481,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -11,8 +11,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 6084466,
-      "num": 6084466,
+      "raw_hot": 8192850,
+      "num": 8192850,
       "word": "柳鑫宇发声",
       "onboard_time": 1708414596,
       "rank": 0,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2110449,
-      "num": 2110449,
+      "raw_hot": 2140459,
+      "num": 2140459,
       "word": "王一博",
       "onboard_time": 1708416218,
       "rank": 1,
@@ -147,19 +147,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1690670,
+      "num": 960496,
+      "word": "上海女教师丈夫准备离婚",
+      "onboard_time": 1708415260,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1687965,
       "num": 1687965,
       "word": "年终奖7200元不够春节给压岁钱",
       "onboard_time": 1708393595,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1661463,
-      "num": 960496,
-      "word": "上海女教师丈夫准备离婚",
-      "onboard_time": 1708415260,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -523,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 576013,
+      "num": 576013,
+      "word": "专家称现在不买房五年又白忙",
+      "onboard_time": 1708414835,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575998,
       "num": 575998,
       "word": "杨迪爆改",
@@ -539,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 557507,
-      "num": 408724,
-      "word": "专家称现在不买房五年又白忙",
-      "onboard_time": 1708414835,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 553521,
       "num": 553521,
       "word": "东方甄选报警",
       "onboard_time": 1708350882,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 548170,
+      "num": 448468,
+      "word": "教育局再回应女教师被曝出轨学生",
+      "onboard_time": 1708416518,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 538969,
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479790,
+      "num": 479790,
+      "word": "贾玲首次谈崩溃",
+      "onboard_time": 1708417181,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444004,
       "num": 444004,
       "word": "刘翔账号营业了",
@@ -651,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419642,
+      "num": 419642,
+      "word": "乐莹跳楼戏拍了72遍用了第72条",
+      "onboard_time": 1708417840,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415951,
       "num": 415951,
       "word": "尹子维徐冬冬婚礼真人秀",
@@ -675,12 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 410565,
-      "num": 410565,
-      "word": "教育局再回应女教师被曝出轨学生",
-      "onboard_time": 1708416518,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 404628,
+      "num": 404628,
+      "word": "柳鑫宇亮相十四冬花滑训练",
+      "onboard_time": 1708417181,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 404117,
@@ -763,20 +787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370111,
+      "num": 370111,
+      "word": "因为不想回国被妈妈拉黑了",
+      "onboard_time": 1708413995,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367857,
       "num": 367857,
       "word": "陈都灵首部古偶女主",
       "onboard_time": 1708357479,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 361890,
-      "num": 361890,
-      "word": "因为不想回国被妈妈拉黑了",
-      "onboard_time": 1708413995,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 359201,
@@ -1227,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205500,
-      "num": 205500,
-      "word": "柳鑫宇亮相十四冬花滑训练",
-      "onboard_time": 1708417181,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205108,
       "num": 205108,
       "word": "韩维辰cha科目三",
@@ -1291,20 +1307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198351,
+      "num": 198351,
+      "word": "伯远这C位烫脚",
+      "onboard_time": 1708417540,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197528,
       "num": 197528,
       "word": "光遇",
       "onboard_time": 1708402062,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195599,
-      "num": 195599,
-      "word": "贾玲首次谈崩溃",
-      "onboard_time": 1708417181,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 191326,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1708340920,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115477,
+      "num": 252370,
+      "word": "当打铁花遇上火凤凰氛围感拉满",
+      "onboard_time": 1708417660,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110548,
