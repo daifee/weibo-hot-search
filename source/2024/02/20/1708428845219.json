@@ -1,0 +1,410 @@
+{
+  "runTime": 1708428845219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2844677,
+        "num": 2844677,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1654663,
+        "num": 1654663,
+        "word": "文旅局称没有邀请男网红扮游神",
+        "onboard_time": 1708420479,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47706,
+        "num": 1501065,
+        "word": "长三角的新春第一会都在拼什么",
+        "onboard_time": 1708423355,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1397625,
+        "num": 1397625,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262673,
+        "num": 1262673,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 973206,
+        "num": 973206,
+        "word": "新疆地震",
+        "onboard_time": 1708427379,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876022,
+        "num": 876022,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 836078,
+        "num": 836078,
+        "word": "泰山太牛了",
+        "onboard_time": 1708424141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239024,
+        "num": 783402,
+        "word": "原来真的会有大侠从天而降来救你",
+        "onboard_time": 1708424076,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260808,
+        "num": 764915,
+        "word": "2万多游客滞留5万人小县倾城接待",
+        "onboard_time": 1708403681,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 747031,
+        "num": 747031,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 741709,
+        "num": 741709,
+        "word": "百元之恋导演编剧祝贺贾玲",
+        "onboard_time": 1708420898,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 701197,
+        "num": 701197,
+        "word": "李湘王岳伦成立新公司",
+        "onboard_time": 1708420780,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631669,
+        "num": 631669,
+        "word": "清华大学教授称我们的教育没有教孩子如何开心",
+        "onboard_time": 1708422095,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 528213,
+        "num": 528213,
+        "word": "考研成绩",
+        "onboard_time": 1708419582,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526377,
+        "num": 526377,
+        "word": "努力凑够400万可怜可怜他",
+        "onboard_time": 1708425218,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512574,
+        "num": 512574,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 490079,
+        "num": 490079,
+        "word": "杨紫 竹书谣",
+        "onboard_time": 1708423720,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473616,
+        "num": 473616,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402570,
+        "num": 402570,
+        "word": "李铁去世系谣言",
+        "onboard_time": 1708427137,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390338,
+        "num": 390338,
+        "word": "卡琳娜和揉西 汉服合照",
+        "onboard_time": 1708421738,
+        "rank": 20,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 386806,
+        "num": 386806,
+        "word": "热辣滚烫票房破30亿",
+        "onboard_time": 1708427795,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371213,
+        "num": 371213,
+        "word": "乐莹跳楼戏拍了72遍用了第72条",
+        "onboard_time": 1708417840,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360582,
+        "num": 360582,
+        "word": "丞磊下水捞周也",
+        "onboard_time": 1708425579,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341028,
+        "num": 341028,
+        "word": "乐华公布王一博维权案进展",
+        "onboard_time": 1708410760,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335129,
+        "num": 335129,
+        "word": "罗云熙银发出妆",
+        "onboard_time": 1708428338,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325200,
+        "num": 325200,
+        "word": "北京下雪",
+        "onboard_time": 1708423481,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321423,
+        "num": 321423,
+        "word": "王诗玥声明柳鑫宇被盗号",
+        "onboard_time": 1708406319,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 312372,
+        "num": 312372,
+        "word": "老爸吐槽00后女儿像头猪",
+        "onboard_time": 1708425518,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277780,
+        "num": 303222,
+        "word": "这单外卖我能吹一辈子",
+        "onboard_time": 1708426059,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298261,
+        "num": 298261,
+        "word": "淘宝逐步开放微信支付",
+        "onboard_time": 1708415319,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251876,
+        "num": 251876,
+        "word": "杜华为王一博发声",
+        "onboard_time": 1708427974,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250749,
+        "num": 250749,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248320,
+        "num": 248320,
+        "word": "原神",
+        "onboard_time": 1708426776,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237466,
+        "num": 237466,
+        "word": "爸妈要给弟弟买房写我的名字",
+        "onboard_time": 1708424917,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233227,
+        "num": 233227,
+        "word": "每天敷面膜不如改善体质",
+        "onboard_time": 1708428215,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 211839,
+        "num": 211839,
+        "word": "小学生幼稚大学生刚刚好的文具",
+        "onboard_time": 1708426422,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207551,
+        "num": 207551,
+        "word": "董路 梅西的事没那么复杂",
+        "onboard_time": 1708421139,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205068,
+        "num": 205068,
+        "word": "你们以为的甜 都是我们的剧本",
+        "onboard_time": 1708415260,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 204224,
+        "num": 204224,
+        "word": "贾玲穿搭",
+        "onboard_time": 1708418740,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185548,
+        "num": 185548,
+        "word": "大理寺少卿游",
+        "onboard_time": 1708426177,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182783,
+        "num": 182783,
+        "word": "陈靖可面试过封神",
+        "onboard_time": 1708425761,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180067,
+        "num": 180067,
+        "word": "男子偷16000元柯尔鸭后自己报警",
+        "onboard_time": 1708421977,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172962,
+        "num": 172962,
+        "word": "上班选哪个工位最好",
+        "onboard_time": 1708425635,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171771,
+        "num": 171771,
+        "word": "IU新专空降成绩",
+        "onboard_time": 1708424617,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170415,
+        "num": 170415,
+        "word": "柳鑫宇亮相十四冬花滑训练",
+        "onboard_time": 1708417181,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160897,
+        "num": 160897,
+        "word": "短道速滑",
+        "onboard_time": 1708424439,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151157,
+        "num": 151157,
+        "word": "Uzi加盟LZG",
+        "onboard_time": 1708413160,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 143810,
+        "word": "世界是个巨大的封神",
+        "onboard_time": 1708428634,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133752,
+        "num": 133752,
+        "word": "山东泰山晋级亚冠八强",
+        "onboard_time": 1708423597,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#粤港澳大湾区如何把握大机遇#"
+    }
+  }
+}
