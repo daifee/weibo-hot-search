@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708463726282,
+  "endTime": 1708464862558,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -193,6 +193,14 @@
       "onboard_time": 1708444596,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192113,
+      "num": 192113,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179463,
@@ -523,14 +531,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 27950,
-      "num": 27950,
-      "word": "上海暴雨",
-      "onboard_time": 1708463356,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22984,
       "num": 277852,
       "word": "航天员拍摄的蔚蓝地球",
@@ -539,8 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21480,
-      "num": 17683,
+      "raw_hot": 21943,
+      "num": 21943,
       "word": "以为大家开玩笑的你家是真有",
       "onboard_time": 1708459396,
       "rank": 36,
@@ -563,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13858,
+      "num": 13858,
+      "word": "生死面前什么是更好的抉择",
+      "onboard_time": 1708463297,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12989,
       "num": 14904,
       "word": "周洁琼谈吴镇宇的教导",
       "onboard_time": 1708460776,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12004,
-      "num": 12635,
-      "word": "生死面前什么是更好的抉择",
-      "onboard_time": 1708463297,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11212,
