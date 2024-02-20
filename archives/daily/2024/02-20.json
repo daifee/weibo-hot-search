@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708424283951,
+  "endTime": 1708425234913,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1973383,
+      "num": 1973383,
+      "word": "文旅局称没有邀请男网红扮游神",
+      "onboard_time": 1708420479,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1897040,
       "num": 1897040,
       "word": "韩国大批医生集体辞职",
@@ -184,14 +192,6 @@
       "word": "考公正在成为印度年轻人的执念",
       "onboard_time": 1708398336,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541131,
-      "num": 1541131,
-      "word": "文旅局称没有邀请男网红扮游神",
-      "onboard_time": 1708420479,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1027046,
+      "num": 1027046,
+      "word": "百元之恋导演编剧祝贺贾玲",
+      "onboard_time": 1708420898,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 945816,
       "num": 945816,
       "word": "周杰伦霉霉演唱会风波",
@@ -355,12 +363,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 893016,
+      "num": 893016,
+      "word": "考研成绩",
+      "onboard_time": 1708419582,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 891335,
       "num": 891335,
       "word": "热辣滚烫与贾玲消失这一年",
       "onboard_time": 1708398094,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 889270,
+      "num": 889270,
+      "word": "泰山太牛了",
+      "onboard_time": 1708424141,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 880493,
@@ -387,16 +411,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 839495,
-      "num": 839495,
-      "word": "考研成绩",
-      "onboard_time": 1708419582,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 801952,
-      "num": 801952,
+      "num": 889475,
       "word": "2万多游客滞留5万人小县倾城接待",
       "onboard_time": 1708403681,
       "rank": 48,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756241,
+      "num": 756241,
+      "word": "高校回应导师被曝与女学生有不当关系",
+      "onboard_time": 1708421139,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754551,
       "num": 754551,
       "word": "董宇辉回应出门阵仗大",
@@ -441,6 +465,14 @@
       "onboard_time": 1708392575,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 730554,
+      "num": 730554,
+      "word": "杨紫 竹书谣",
+      "onboard_time": 1708423720,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 726729,
@@ -459,20 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 704987,
-      "num": 704987,
+      "raw_hot": 713480,
+      "num": 713480,
       "word": "卡琳娜和揉西 汉服合照",
       "onboard_time": 1708421738,
       "rank": 12,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 676713,
-      "num": 676713,
-      "word": "高校回应导师被曝与女学生有不当关系",
-      "onboard_time": 1708421139,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675997,
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 636234,
+      "num": 636234,
+      "word": "清华大学教授称我们的教育没有教孩子如何开心",
+      "onboard_time": 1708422095,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 626109,
       "num": 626109,
       "word": "吕克贝松 广末凉子",
@@ -545,14 +577,6 @@
       "onboard_time": 1708396956,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 616828,
-      "num": 616828,
-      "word": "清华大学教授称我们的教育没有教孩子如何开心",
-      "onboard_time": 1708422095,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 608782,
@@ -619,28 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 581676,
-      "num": 581676,
-      "word": "百元之恋导演编剧祝贺贾玲",
-      "onboard_time": 1708420898,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 579187,
       "num": 579187,
       "word": "肯德基回应全面开收打包费",
       "onboard_time": 1708407883,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 577490,
-      "num": 577490,
-      "word": "杨紫 竹书谣",
-      "onboard_time": 1708423720,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 575998,
@@ -755,6 +763,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 479679,
+      "num": 479679,
+      "word": "cos赵世子男网红道歉",
+      "onboard_time": 1708424558,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478748,
+      "num": 478748,
+      "word": "柳鑫宇自曝事件",
+      "onboard_time": 1708422637,
+      "rank": 21,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 449670,
+      "num": 449670,
+      "word": "北京下雪",
+      "onboard_time": 1708423481,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444004,
       "num": 444004,
       "word": "刘翔账号营业了",
@@ -772,19 +804,11 @@
     },
     {
       "raw_hot": 427380,
-      "num": 366121,
+      "num": 372519,
       "word": "董路 梅西的事没那么复杂",
       "onboard_time": 1708421139,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427187,
-      "num": 427187,
-      "word": "柳鑫宇自曝事件",
-      "onboard_time": 1708422637,
-      "rank": 21,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 426540,
@@ -923,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 371842,
+      "num": 371842,
+      "word": "男子偷16000元柯尔鸭后自己报警",
+      "onboard_time": 1708421977,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370111,
       "num": 370111,
       "word": "因为不想回国被妈妈拉黑了",
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348282,
+      "num": 348282,
+      "word": "IU新专空降成绩",
+      "onboard_time": 1708424617,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 344156,
       "num": 344156,
       "word": "山东泰山首发",
@@ -1003,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329321,
-      "num": 329321,
-      "word": "男子偷16000元柯尔鸭后自己报警",
-      "onboard_time": 1708421977,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323965,
       "num": 318498,
       "word": "星巴克红烧肉拿铁一杯68元",
@@ -1032,14 +1064,6 @@
       "word": "70岁大爷坚持健身45年头发乌黑浓密",
       "onboard_time": 1708398879,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320305,
-      "num": 320305,
-      "word": "北京下雪",
-      "onboard_time": 1708423481,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1219,20 +1243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266214,
-      "num": 266214,
-      "word": "泰山太牛了",
-      "onboard_time": 1708424141,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265362,
       "num": 265362,
       "word": "Kpop可汗大点兵",
       "onboard_time": 1708418140,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262793,
+      "num": 262793,
+      "word": "爸妈要给弟弟买房写我的名字",
+      "onboard_time": 1708424917,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 260532,
@@ -1579,12 +1603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193505,
+      "num": 193505,
+      "word": "高准翼神兵天降",
+      "onboard_time": 1708424678,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191326,
       "num": 191326,
       "word": "贾玲采访",
       "onboard_time": 1708393535,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190787,
+      "num": 190787,
+      "word": "贾德松读秒绝杀",
+      "onboard_time": 1708424198,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 189629,
@@ -1608,6 +1648,14 @@
       "word": "中国男篮14人名单",
       "onboard_time": 1708397854,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188734,
+      "num": 188734,
+      "word": "短道速滑",
+      "onboard_time": 1708424439,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1657,6 +1705,14 @@
       "onboard_time": 1708400197,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 184145,
+      "num": 890848,
+      "word": "原来真的会有大侠从天而降来救你",
+      "onboard_time": 1708424076,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182842,
@@ -1739,20 +1795,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174159,
+      "num": 174159,
+      "word": "富士X100VI",
+      "onboard_time": 1708424858,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173910,
       "num": 173910,
       "word": "女儿出嫁父亲边帮亲戚打包边哭",
       "onboard_time": 1708400017,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173853,
-      "num": 173853,
-      "word": "贾德松读秒绝杀",
-      "onboard_time": 1708424198,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 172234,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1708402062,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171139,
+      "num": 171139,
+      "word": "克雷桑头球破门",
+      "onboard_time": 1708425040,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 170842,
@@ -1819,12 +1883,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "努力凑够400万可怜可怜他",
+      "onboard_time": 1708425218,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160460,
       "num": 160460,
       "word": "一年期LPR维持不变",
       "onboard_time": 1708394312,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159984,
+      "num": 296986,
+      "word": "山西朔州3.2级地震",
+      "onboard_time": 1708424739,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159138,
@@ -2251,14 +2331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70945,
-      "num": 477098,
-      "word": "原来真的会有大侠从天而降来救你",
-      "onboard_time": 1708424076,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59751,
       "num": 59751,
       "word": "张婧仪手机壁纸是爱财爱己",
@@ -2275,20 +2347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56316,
+      "num": 2122258,
+      "word": "长三角的新春第一会都在拼什么",
+      "onboard_time": 1708423355,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55998,
       "num": 55998,
       "word": "梅西",
       "onboard_time": 1708341035,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50682,
-      "num": 2086103,
-      "word": "长三角的新春第一会都在拼什么",
-      "onboard_time": 1708423355,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50034,
