@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708471012834,
+  "endTime": 1708472046918,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1891,6 +1891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 611223,
+      "num": 611223,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611169,
       "num": 611169,
       "word": "A股",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1708415260,
       "rank": 15,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 500817,
-      "num": 500817,
-      "word": "上海暴雨",
-      "onboard_time": 1708463356,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499770,
@@ -4771,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239846,
+      "num": 237970,
+      "word": "中国女游客泰国搭摩托车险遭司机强暴",
+      "onboard_time": 1708448065,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238838,
       "num": 238838,
       "word": "小iG不斩无名",
@@ -4787,12 +4795,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238133,
+      "num": 238133,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "光与夜之恋主线",
       "onboard_time": 1708230757,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237876,
+      "num": 237876,
+      "word": "后车想破头也不知道堵车原因是800只鹅",
+      "onboard_time": 1708442259,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 237765,
@@ -4913,6 +4937,14 @@
       "onboard_time": 1708431161,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231103,
+      "num": 231103,
+      "word": "当哈尔滨收起来玩具后的本地人",
+      "onboard_time": 1708447351,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 230913,
@@ -5281,14 +5313,6 @@
       "onboard_time": 1708437939,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216218,
-      "num": 207269,
-      "word": "中国女游客泰国搭摩托车险遭司机强暴",
-      "onboard_time": 1708448065,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215353,
@@ -6067,14 +6091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188452,
-      "num": 164638,
-      "word": "当哈尔滨收起来玩具后的本地人",
-      "onboard_time": 1708447351,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188348,
       "num": 188348,
       "word": "东方甄选试水小时达",
@@ -6177,14 +6193,6 @@
       "onboard_time": 1708256734,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185727,
-      "num": 185727,
-      "word": "后车想破头也不知道堵车原因是800只鹅",
-      "onboard_time": 1708442259,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 185310,
@@ -6843,6 +6851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166334,
+      "num": 87232,
+      "word": "节后浙江疾控艾滋病咨询电话增两三倍",
+      "onboard_time": 1708471527,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166084,
       "num": 147090,
       "word": "李兰迪开工素颜照",
@@ -6993,14 +7009,6 @@
       "onboard_time": 1708339059,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160681,
-      "num": 160681,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 160508,
@@ -7619,6 +7627,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141317,
+      "num": 141317,
+      "word": "姆巴佩签字费达1.5亿欧",
+      "onboard_time": 1708467677,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140830,
+      "num": 140830,
+      "word": "明星后援会是怎么运作的",
+      "onboard_time": 1708466057,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140220,
       "num": 140220,
       "word": "穿光腿神器要确保给脚趾留足空间",
@@ -7795,20 +7819,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 134381,
+      "num": 134381,
+      "word": "山东下的是霰不是雪",
+      "onboard_time": 1708470982,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134338,
       "num": 134338,
       "word": "每年都要做一做肠镜",
       "onboard_time": 1708265735,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 134223,
-      "num": 134223,
-      "word": "明星后援会是怎么运作的",
-      "onboard_time": 1708466057,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 133302,
@@ -7947,6 +7971,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 123647,
+      "num": 123647,
+      "word": "朋友圈下了好大的雪",
+      "onboard_time": 1708470142,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122542,
       "num": 122542,
       "word": "江疏影开工晒吃粥底火锅",
@@ -8009,6 +8041,14 @@
       "onboard_time": 1708170271,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117504,
+      "num": 117504,
+      "word": "原神超话",
+      "onboard_time": 1708471345,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 117356,
@@ -8235,14 +8275,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 94264,
-      "num": 94264,
-      "word": "姆巴佩签字费达1.5亿欧",
-      "onboard_time": 1708467677,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93486,
       "num": 93486,
       "word": "NBA官方发了王鹤棣",
@@ -8347,11 +8379,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77702,
-      "num": 77702,
-      "word": "朋友圈下了好大的雪",
-      "onboard_time": 1708470142,
-      "rank": 25,
+      "raw_hot": 80961,
+      "num": 524750,
+      "word": "航天员拍摄的蔚蓝地球",
+      "onboard_time": 1708437273,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80350,
+      "num": 80350,
+      "word": "预判失误工厂集中报废3000箱春联",
+      "onboard_time": 1708471705,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78427,
+      "num": 78427,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -8379,12 +8427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64810,
-      "num": 64810,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 64481,
+      "num": 64481,
+      "word": "十年前抽过的烟至今还在伤害免疫系统",
+      "onboard_time": 1708458557,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64071,
@@ -8411,14 +8459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61188,
-      "num": 424447,
-      "word": "航天员拍摄的蔚蓝地球",
-      "onboard_time": 1708437273,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60791,
       "num": 60791,
       "word": "热辣滚烫取景地",
@@ -8433,14 +8473,6 @@
       "onboard_time": 1708371497,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58698,
-      "num": 58698,
-      "word": "十年前抽过的烟至今还在伤害免疫系统",
-      "onboard_time": 1708458557,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58212,
@@ -8483,11 +8515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54783,
-      "num": 54783,
-      "word": "山东下的是霰不是雪",
-      "onboard_time": 1708470982,
-      "rank": 34,
+      "raw_hot": 54737,
+      "num": 54737,
+      "word": "男子游神现场cos赵世子被马夫鞭打",
+      "onboard_time": 1708457237,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -8547,14 +8579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46357,
-      "num": 46357,
-      "word": "男子游神现场cos赵世子被马夫鞭打",
-      "onboard_time": 1708457237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44716,
       "num": 44716,
       "word": "伯恩利0比5阿森纳",
@@ -8609,6 +8633,14 @@
       "onboard_time": 1708338282,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38157,
+      "num": 38157,
+      "word": "早八伪素颜口红",
+      "onboard_time": 1708472009,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 36965,

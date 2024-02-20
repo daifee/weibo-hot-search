@@ -1,0 +1,410 @@
+{
+  "runTime": 1708472046918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1061441,
+        "num": 1061441,
+        "word": "央视网评秦朗丢寒假作业事件",
+        "onboard_time": 1708440879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611223,
+        "num": 611223,
+        "word": "上海暴雨",
+        "onboard_time": 1708463356,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80961,
+        "num": 524750,
+        "word": "航天员拍摄的蔚蓝地球",
+        "onboard_time": 1708437273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492731,
+        "num": 492731,
+        "word": "肖战 请不要再蹲守了",
+        "onboard_time": 1708441478,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437200,
+        "num": 437200,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388249,
+        "num": 388249,
+        "word": "目前票房前6都是跨界导演",
+        "onboard_time": 1708445254,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378309,
+        "num": 378309,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358948,
+        "num": 358948,
+        "word": "许凯报警",
+        "onboard_time": 1708437219,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266199,
+        "num": 266199,
+        "word": "赵世子",
+        "onboard_time": 1708471103,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238133,
+        "num": 238133,
+        "word": "贾玲第一次正视自己的才华",
+        "onboard_time": 1708453758,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315828,
+        "num": 238033,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 239846,
+        "num": 237970,
+        "word": "中国女游客泰国搭摩托车险遭司机强暴",
+        "onboard_time": 1708448065,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237876,
+        "num": 237876,
+        "word": "后车想破头也不知道堵车原因是800只鹅",
+        "onboard_time": 1708442259,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231103,
+        "num": 231103,
+        "word": "当哈尔滨收起来玩具后的本地人",
+        "onboard_time": 1708447351,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204561,
+        "num": 204561,
+        "word": "刘涛演妈祖 掷圣杯",
+        "onboard_time": 1708438002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183913,
+        "num": 183913,
+        "word": "冻雨",
+        "onboard_time": 1708439621,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145268,
+        "num": 145268,
+        "word": "钱学森写在香烟纸上的求救信",
+        "onboard_time": 1708441360,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141317,
+        "num": 141317,
+        "word": "姆巴佩签字费达1.5亿欧",
+        "onboard_time": 1708467677,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140830,
+        "num": 140830,
+        "word": "明星后援会是怎么运作的",
+        "onboard_time": 1708466057,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137694,
+        "num": 137694,
+        "word": "Sora",
+        "onboard_time": 1708471224,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243377,
+        "num": 136374,
+        "word": "毕业工作四年只存了4w块钱",
+        "onboard_time": 1708433980,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134381,
+        "num": 134381,
+        "word": "山东下的是霰不是雪",
+        "onboard_time": 1708470982,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126034,
+        "num": 126034,
+        "word": "贾玲有七部待播作品",
+        "onboard_time": 1708432780,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123733,
+        "num": 123733,
+        "word": "妈妈让我工作后每月给家里转三千",
+        "onboard_time": 1708430433,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123647,
+        "num": 123647,
+        "word": "朋友圈下了好大的雪",
+        "onboard_time": 1708470142,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120748,
+        "num": 120748,
+        "word": "工位越乱的员工稳定性越好",
+        "onboard_time": 1708431579,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119538,
+        "num": 119538,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117504,
+        "num": 117504,
+        "word": "原神超话",
+        "onboard_time": 1708471345,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110420,
+        "num": 110420,
+        "word": "背薄真的显年轻",
+        "onboard_time": 1708440638,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 91709,
+        "num": 91709,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166334,
+        "num": 87232,
+        "word": "节后浙江疾控艾滋病咨询电话增两三倍",
+        "onboard_time": 1708471527,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81833,
+        "num": 81833,
+        "word": "原来孙艺洲这么会开车",
+        "onboard_time": 1708440221,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80350,
+        "num": 80350,
+        "word": "预判失误工厂集中报废3000箱春联",
+        "onboard_time": 1708471705,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79920,
+        "num": 79920,
+        "word": "曼谷偶遇刘恋庄达菲",
+        "onboard_time": 1708449323,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79199,
+        "num": 79199,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 34,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 78427,
+        "num": 78427,
+        "word": "以为大家开玩笑的你家是真有",
+        "onboard_time": 1708459396,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69165,
+        "num": 69165,
+        "word": "我好像连一万块都很难存下来",
+        "onboard_time": 1708430433,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64481,
+        "num": 64481,
+        "word": "十年前抽过的烟至今还在伤害免疫系统",
+        "onboard_time": 1708458557,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62379,
+        "num": 62379,
+        "word": "中国海警在厦金海域开展执法巡查行动",
+        "onboard_time": 1708471404,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 61019,
+        "num": 61019,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 58390,
+        "num": 58390,
+        "word": "四六级成绩倒计时",
+        "onboard_time": 1708439741,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57283,
+        "num": 57283,
+        "word": "不化妆素颜出门怎么变好看",
+        "onboard_time": 1708439981,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57024,
+        "num": 57024,
+        "word": "济南的雪盐里盐气的",
+        "onboard_time": 1708468158,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54737,
+        "num": 54737,
+        "word": "男子游神现场cos赵世子被马夫鞭打",
+        "onboard_time": 1708457237,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53233,
+        "num": 53233,
+        "word": "韩素希腰部纹身含义",
+        "onboard_time": 1708453640,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48779,
+        "num": 48779,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43372,
+        "num": 43372,
+        "word": "江西菜是预制菜鄙视链的顶端",
+        "onboard_time": 1708435416,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41061,
+        "num": 41061,
+        "word": "胖东来回应看完电影不满意可退半价",
+        "onboard_time": 1708450462,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38884,
+        "num": 38884,
+        "word": "肖战工作室倡议书",
+        "onboard_time": 1708441057,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38157,
+        "num": 38157,
+        "word": "早八伪素颜口红",
+        "onboard_time": 1708472009,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}
