@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708442170268,
+  "endTime": 1708443276988,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1843,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1925556,
+      "num": 1583685,
+      "word": "肖战 请不要再蹲守了",
+      "onboard_time": 1708441478,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1922130,
       "num": 1922130,
       "word": "霸王茶姬 失眠",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1708399236,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1763739,
+      "num": 1763739,
+      "word": "央视网评秦朗丢寒假作业事件",
+      "onboard_time": 1708440879,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1763413,
@@ -5963,14 +5979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 959695,
-      "num": 744893,
-      "word": "肖战 请不要再蹲守了",
-      "onboard_time": 1708441478,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 959536,
       "num": 959536,
       "word": "杨波",
@@ -7673,14 +7681,6 @@
       "onboard_time": 1707498820,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 808921,
-      "num": 808921,
-      "word": "央视网评秦朗丢寒假作业事件",
-      "onboard_time": 1708440879,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 808318,
@@ -11273,6 +11273,14 @@
       "onboard_time": 1707052230,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610857,
+      "num": 610857,
+      "word": "背薄真的显年轻",
+      "onboard_time": 1708440638,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 609298,
@@ -16961,14 +16969,6 @@
       "onboard_time": 1707928830,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411410,
-      "num": 411410,
-      "word": "背薄真的显年轻",
-      "onboard_time": 1708440638,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 411283,
@@ -24923,6 +24923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263434,
+      "num": 263434,
+      "word": "钱学森写在香烟纸上的求救信",
+      "onboard_time": 1708441360,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263360,
       "num": 263360,
       "word": "WE战胜EDG",
@@ -31667,14 +31675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205317,
-      "num": 205317,
-      "word": "钱学森写在香烟纸上的求救信",
-      "onboard_time": 1708441360,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205306,
       "num": 205306,
       "word": "NBA全明星",
@@ -32465,6 +32465,14 @@
       "onboard_time": 1707349585,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 201364,
+      "num": 201364,
+      "word": "Ricky最新Challenge",
+      "onboard_time": 1708441901,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 201337,
@@ -33265,14 +33273,6 @@
       "onboard_time": 1707991354,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197428,
-      "num": 197428,
-      "word": "Ricky最新Challenge",
-      "onboard_time": 1708441901,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 197351,
@@ -35681,6 +35681,14 @@
       "onboard_time": 1707828398,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185727,
+      "num": 185727,
+      "word": "后车想破头也不知道堵车原因是800只鹅",
+      "onboard_time": 1708442259,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 185614,
@@ -38371,6 +38379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170685,
+      "num": 170685,
+      "word": "久酷首播",
+      "onboard_time": 1708441478,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170671,
       "num": 170671,
       "word": "内娱九龙",
@@ -39947,14 +39963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163465,
-      "num": 163465,
-      "word": "久酷首播",
-      "onboard_time": 1708441478,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 163454,
       "num": 163454,
       "word": "张雨绮用蚌壳当手包",
@@ -41009,6 +41017,14 @@
       "onboard_time": 1706855491,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157959,
+      "num": 157959,
+      "word": "南京打雷",
+      "onboard_time": 1708442854,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157934,

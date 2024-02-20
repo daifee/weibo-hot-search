@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708442170268,
+  "endTime": 1708443276988,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1925556,
+      "num": 1583685,
+      "word": "肖战 请不要再蹲守了",
+      "onboard_time": 1708441478,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1897040,
       "num": 1897040,
       "word": "韩国大批医生集体辞职",
@@ -417,6 +425,14 @@
       "onboard_time": 1708399236,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1763739,
+      "num": 1763739,
+      "word": "央视网评秦朗丢寒假作业事件",
+      "onboard_time": 1708440879,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1716207,
@@ -1019,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 959695,
-      "num": 744893,
-      "word": "肖战 请不要再蹲守了",
-      "onboard_time": 1708441478,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 955583,
       "num": 955583,
       "word": "张佳宁点不掉的痣",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1708229496,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 808921,
-      "num": 808921,
-      "word": "央视网评秦朗丢寒假作业事件",
-      "onboard_time": 1708440879,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806861,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1708221212,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 610857,
+      "num": 610857,
+      "word": "背薄真的显年轻",
+      "onboard_time": 1708440638,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 608782,
@@ -2825,14 +2833,6 @@
       "onboard_time": 1708407218,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411410,
-      "num": 411410,
-      "word": "背薄真的显年轻",
-      "onboard_time": 1708440638,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 411283,
@@ -4339,6 +4339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263434,
+      "num": 263434,
+      "word": "钱学森写在香烟纸上的求救信",
+      "onboard_time": 1708441360,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263360,
       "num": 263360,
       "word": "WE战胜EDG",
@@ -5467,14 +5475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205317,
-      "num": 205317,
-      "word": "钱学森写在香烟纸上的求救信",
-      "onboard_time": 1708441360,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205306,
       "num": 205306,
       "word": "NBA全明星",
@@ -5577,6 +5577,14 @@
       "onboard_time": 1708232856,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201364,
+      "num": 201364,
+      "word": "Ricky最新Challenge",
+      "onboard_time": 1708441901,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 201337,
@@ -5705,14 +5713,6 @@
       "onboard_time": 1708402062,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197428,
-      "num": 197428,
-      "word": "Ricky最新Challenge",
-      "onboard_time": 1708441901,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 197173,
@@ -6121,6 +6121,14 @@
       "onboard_time": 1708256734,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185727,
+      "num": 185727,
+      "word": "后车想破头也不知道堵车原因是800只鹅",
+      "onboard_time": 1708442259,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 185310,
@@ -6611,6 +6619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170685,
+      "num": 170685,
+      "word": "久酷首播",
+      "onboard_time": 1708441478,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170587,
       "num": 170587,
       "word": "魏晨你咋在这",
@@ -6835,14 +6851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 163465,
-      "num": 163465,
-      "word": "久酷首播",
-      "onboard_time": 1708441478,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 163381,
       "num": 163381,
       "word": "和我的笨蛋小狗分开的时候",
@@ -7001,6 +7009,14 @@
       "onboard_time": 1708398517,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157959,
+      "num": 157959,
+      "word": "南京打雷",
+      "onboard_time": 1708442854,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157600,
