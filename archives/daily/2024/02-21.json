@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708460322120,
+  "endTime": 1708461281190,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -515,8 +515,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 30522,
-      "num": 30522,
+      "raw_hot": 32522,
+      "num": 32522,
       "word": "十年前抽过的烟至今还在伤害免疫系统",
       "onboard_time": 1708458557,
       "rank": 19,
@@ -531,16 +531,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20044,
-      "num": 20044,
+      "raw_hot": 21213,
+      "num": 21213,
       "word": "男子游神现场cos赵世子被马夫鞭打",
       "onboard_time": 1708457237,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15513,
-      "num": 15513,
+      "raw_hot": 20109,
+      "num": 17683,
       "word": "以为大家开玩笑的你家是真有",
       "onboard_time": 1708459396,
       "rank": 36,
@@ -548,11 +548,27 @@
     },
     {
       "raw_hot": 14045,
-      "num": 14573,
+      "num": 14882,
       "word": "知道许昕家缺什么了缺观众席",
       "onboard_time": 1708458018,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12989,
+      "num": 14904,
+      "word": "周洁琼谈吴镇宇的教导",
+      "onboard_time": 1708460776,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11212,
+      "num": 14827,
+      "word": "陕西迎大风雨雪冻雨三连击",
+      "onboard_time": 1708461196,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
