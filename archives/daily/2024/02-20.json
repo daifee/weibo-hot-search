@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708432237692,
+  "endTime": 1708433063947,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 571046,
-      "num": 280756,
+      "num": 362798,
       "word": "我好像连一万块都很难存下来",
       "onboard_time": 1708430433,
       "rank": 20,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 487590,
-      "num": 278243,
+      "num": 361373,
       "word": "妈妈让我工作后每月给家里转三千",
       "onboard_time": 1708430433,
       "rank": 21,
@@ -827,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466522,
+      "num": 466522,
+      "word": "贾玲有七部待播作品",
+      "onboard_time": 1708432780,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 449670,
       "num": 449670,
       "word": "北京下雪",
@@ -841,6 +849,14 @@
       "onboard_time": 1708403922,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438141,
+      "num": 438141,
+      "word": "热辣滚烫票房破30亿",
+      "onboard_time": 1708427795,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 431371,
@@ -889,6 +905,14 @@
       "onboard_time": 1708402062,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415479,
+      "num": 360071,
+      "word": "工位越乱的员工稳定性越好",
+      "onboard_time": 1708431579,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 415386,
@@ -947,19 +971,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 392676,
+      "num": 392676,
+      "word": "时代少年团开通B站账号",
+      "onboard_time": 1708431697,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388541,
       "num": 388541,
       "word": "贾玲怕拍戏打扰群众上门发礼物",
       "onboard_time": 1708351065,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 386806,
-      "num": 386806,
-      "word": "热辣滚烫票房破30亿",
-      "onboard_time": 1708427795,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -1035,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368946,
+      "num": 368946,
+      "word": "iG对战BLG",
+      "onboard_time": 1708430620,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 367857,
       "num": 367857,
       "word": "陈都灵首部古偶女主",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1708340137,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355479,
+      "num": 355479,
+      "word": "杨紫热辣红唇妆",
+      "onboard_time": 1708431878,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 349916,
@@ -1091,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341985,
-      "num": 277134,
-      "word": "工位越乱的员工稳定性越好",
-      "onboard_time": 1708431579,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 340732,
       "num": 340732,
       "word": "毛不易 有时间生孩子都不错了",
@@ -1131,8 +1163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333678,
-      "num": 272940,
+      "raw_hot": 334573,
+      "num": 334573,
       "word": "每天敷面膜不如改善体质",
       "onboard_time": 1708428215,
       "rank": 35,
@@ -1371,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270038,
+      "num": 270038,
+      "word": "授她以柄",
+      "onboard_time": 1708429892,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268034,
       "num": 900054,
       "word": "原来真的会有大侠从天而降来救你",
@@ -1387,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262929,
+      "num": 262929,
+      "word": "双子座其实还蛮单纯的",
+      "onboard_time": 1708429055,
+      "rank": 25,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 260532,
       "num": 260532,
       "word": "柳鑫宇王诗玥 CP",
@@ -1395,28 +1443,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 260439,
-      "num": 260439,
-      "word": "双子座其实还蛮单纯的",
-      "onboard_time": 1708429055,
-      "rank": 25,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 258731,
       "num": 258731,
       "word": "胡夏 爱你的事当做秘密",
       "onboard_time": 1708336358,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256578,
-      "num": 256578,
-      "word": "授她以柄",
-      "onboard_time": 1708429892,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 254386,
@@ -1515,14 +1547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242126,
-      "num": 242126,
-      "word": "时代少年团开通B站账号",
-      "onboard_time": 1708431697,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241102,
       "num": 241102,
       "word": "许昕替老婆追星毛不易",
@@ -1579,8 +1603,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 231014,
-      "num": 231014,
+      "raw_hot": 231423,
+      "num": 231423,
       "word": "世乒赛抽签",
       "onboard_time": 1708431161,
       "rank": 30,
@@ -1611,12 +1635,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222604,
-      "num": 221590,
+      "raw_hot": 225821,
+      "num": 225821,
       "word": "日本手游TOP10中国游戏占四成",
       "onboard_time": 1708431277,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224095,
+      "num": 224095,
+      "word": "李宇春抢票",
+      "onboard_time": 1708432357,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 220480,
@@ -1689,14 +1721,6 @@
       "onboard_time": 1708384763,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 213985,
-      "num": 213985,
-      "word": "杨紫热辣红唇妆",
-      "onboard_time": 1708431878,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210370,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1708423115,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194652,
+      "num": 194652,
+      "word": "吕修诚带伤出场",
+      "onboard_time": 1708432475,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 193505,
@@ -2209,6 +2241,14 @@
       "onboard_time": 1708395335,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156738,
+      "num": 156738,
+      "word": "狗自己都觉得好笑",
+      "onboard_time": 1708432898,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 154234,

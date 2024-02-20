@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708432237692,
+  "endTime": 1708433063947,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1972,7 +1972,7 @@
     },
     {
       "raw_hot": 571046,
-      "num": 280756,
+      "num": 362798,
       "word": "我好像连一万块都很难存下来",
       "onboard_time": 1708430433,
       "rank": 20,
@@ -2316,7 +2316,7 @@
     },
     {
       "raw_hot": 487590,
-      "num": 278243,
+      "num": 361373,
       "word": "妈妈让我工作后每月给家里转三千",
       "onboard_time": 1708430433,
       "rank": 21,
@@ -2427,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466522,
+      "num": 466522,
+      "word": "贾玲有七部待播作品",
+      "onboard_time": 1708432780,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 463672,
       "num": 463672,
       "word": "王鹤棣见到库里了",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1708252416,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 438141,
+      "num": 438141,
+      "word": "热辣滚烫票房破30亿",
+      "onboard_time": 1708427795,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 436610,
@@ -2659,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415479,
+      "num": 360071,
+      "word": "工位越乱的员工稳定性越好",
+      "onboard_time": 1708431579,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 415402,
       "num": 415402,
       "word": "西安发现1700余座汉长安城平民墓葬",
@@ -2811,6 +2835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392676,
+      "num": 392676,
+      "word": "时代少年团开通B站账号",
+      "onboard_time": 1708431697,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392223,
       "num": 320832,
       "word": "静坐4小时就可能长血栓",
@@ -2840,14 +2872,6 @@
       "word": "贾玲 优秀的项目负责人",
       "onboard_time": 1708314273,
       "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 386806,
-      "num": 386806,
-      "word": "热辣滚烫票房破30亿",
-      "onboard_time": 1708427795,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -3003,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368946,
+      "num": 368946,
+      "word": "iG对战BLG",
+      "onboard_time": 1708430620,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 368373,
       "num": 318751,
       "word": "原谅就是背刺小时候哭泣的自己",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1708351723,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 355479,
+      "num": 355479,
+      "word": "杨紫热辣红唇妆",
+      "onboard_time": 1708431878,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354462,
@@ -3219,14 +3259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341985,
-      "num": 277134,
-      "word": "工位越乱的员工稳定性越好",
-      "onboard_time": 1708431579,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 340433,
       "num": 340433,
       "word": "利拉德卫冕三分大赛冠军",
@@ -3291,8 +3323,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333678,
-      "num": 272940,
+      "raw_hot": 334573,
+      "num": 334573,
       "word": "每天敷面膜不如改善体质",
       "onboard_time": 1708428215,
       "rank": 35,
@@ -4035,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270038,
+      "num": 270038,
+      "word": "授她以柄",
+      "onboard_time": 1708429892,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269364,
       "num": 247627,
       "word": "复工后和男朋友说不想上班",
@@ -4179,20 +4219,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262929,
+      "num": 262929,
+      "word": "双子座其实还蛮单纯的",
+      "onboard_time": 1708429055,
+      "rank": 25,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 260532,
       "num": 260532,
       "word": "柳鑫宇王诗玥 CP",
       "onboard_time": 1708414899,
       "rank": 28,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 260439,
-      "num": 260439,
-      "word": "双子座其实还蛮单纯的",
-      "onboard_time": 1708429055,
-      "rank": 25,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 258541,
@@ -4233,14 +4273,6 @@
       "onboard_time": 1708310552,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256578,
-      "num": 256578,
-      "word": "授她以柄",
-      "onboard_time": 1708429892,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 254386,
@@ -4523,14 +4555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242126,
-      "num": 242126,
-      "word": "时代少年团开通B站账号",
-      "onboard_time": 1708431697,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241550,
       "num": 241550,
       "word": "江苏卫视长风渡定档",
@@ -4683,8 +4707,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 231014,
-      "num": 231014,
+      "raw_hot": 231423,
+      "num": 231423,
       "word": "世乒赛抽签",
       "onboard_time": 1708431161,
       "rank": 30,
@@ -4787,6 +4811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225821,
+      "num": 225821,
+      "word": "日本手游TOP10中国游戏占四成",
+      "onboard_time": 1708431277,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225299,
       "num": 225299,
       "word": "养成易瘦体质的5个习惯",
@@ -4827,6 +4859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 224095,
+      "num": 224095,
+      "word": "李宇春抢票",
+      "onboard_time": 1708432357,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223515,
       "num": 223515,
       "word": "官方回应傅园慧求助2小时解决",
@@ -4841,14 +4881,6 @@
       "onboard_time": 1708220974,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222604,
-      "num": 221590,
-      "word": "日本手游TOP10中国游戏占四成",
-      "onboard_time": 1708431277,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 221963,
@@ -5065,14 +5097,6 @@
       "onboard_time": 1708304133,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213985,
-      "num": 213985,
-      "word": "杨紫热辣红唇妆",
-      "onboard_time": 1708431878,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 213808,
@@ -5529,6 +5553,14 @@
       "onboard_time": 1708179696,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194652,
+      "num": 194652,
+      "word": "吕修诚带伤出场",
+      "onboard_time": 1708432475,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 194437,
@@ -6729,6 +6761,14 @@
       "onboard_time": 1708240294,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156738,
+      "num": 156738,
+      "word": "狗自己都觉得好笑",
+      "onboard_time": 1708432898,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 156563,
