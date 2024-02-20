@@ -1,0 +1,410 @@
+{
+  "runTime": 1708406255685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897040,
+        "num": 1897040,
+        "word": "韩国大批医生集体辞职",
+        "onboard_time": 1708402718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269711,
+        "num": 1269711,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44973,
+        "num": 1261788,
+        "word": "何为中国活力这个春节告诉你",
+        "onboard_time": 1708405718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2449766,
+        "num": 1261381,
+        "word": "出轨女教师若离婚或需承担精神赔偿",
+        "onboard_time": 1708395092,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260121,
+        "num": 1260121,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 999404,
+        "num": 999404,
+        "word": "梅西本人已在中国注册姓名商标",
+        "onboard_time": 1708401640,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 894734,
+        "num": 894734,
+        "word": "女子花1万6买好全年假期旅行机票",
+        "onboard_time": 1708401159,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 833285,
+        "num": 833285,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 801952,
+        "num": 801952,
+        "word": "2万多游客滞留5万人小县倾城接待",
+        "onboard_time": 1708403681,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 776558,
+        "num": 776558,
+        "word": "考公正在成为印度年轻人的执念",
+        "onboard_time": 1708398336,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755765,
+        "num": 755765,
+        "word": "出轨女教师丈夫曝光学生信息或侵权",
+        "onboard_time": 1708405420,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731820,
+        "num": 731820,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 718099,
+        "num": 718099,
+        "word": "柳鑫宇十四冬赛程",
+        "onboard_time": 1708402300,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649493,
+        "num": 649493,
+        "word": "陈乔恩艾伦重返定情地",
+        "onboard_time": 1708403501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550317,
+        "num": 550317,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 516015,
+        "num": 516015,
+        "word": "董宇辉回应出门阵仗大",
+        "onboard_time": 1708400857,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4586267,
+        "num": 515190,
+        "word": "柳鑫宇ins",
+        "onboard_time": 1708397317,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 514037,
+        "num": 514037,
+        "word": "花滑",
+        "onboard_time": 1708402718,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75697,
+        "num": 497848,
+        "word": "在和平精英开宾利是什么体验",
+        "onboard_time": 1708404102,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 484406,
+        "num": 484406,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481866,
+        "num": 481866,
+        "word": "全世界都知道妹妹在赶作业了",
+        "onboard_time": 1708400438,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444004,
+        "num": 444004,
+        "word": "刘翔账号营业了",
+        "onboard_time": 1708403922,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382987,
+        "num": 382987,
+        "word": "生娃后我从母亲的女儿变成儿媳",
+        "onboard_time": 1708405001,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379494,
+        "num": 379494,
+        "word": "范丞丞代言华莱士",
+        "onboard_time": 1708402062,
+        "rank": 23,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 363237,
+        "num": 363237,
+        "word": "飞上海一航班充电宝爆燃紧急备降",
+        "onboard_time": 1708400319,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348878,
+        "num": 348878,
+        "word": "赵露思薛佳凝聚餐吃铁锅炖",
+        "onboard_time": 1708403384,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348749,
+        "num": 348749,
+        "word": "梅西3次表示希望再来中国",
+        "onboard_time": 1708383681,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327372,
+        "num": 327372,
+        "word": "吕克贝松 广末凉子",
+        "onboard_time": 1708397735,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319563,
+        "num": 319563,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292466,
+        "num": 292466,
+        "word": "恋与制作人 寒山独见卿",
+        "onboard_time": 1708404164,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267592,
+        "num": 267592,
+        "word": "尹子维徐冬冬婚礼真人秀",
+        "onboard_time": 1708402062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266628,
+        "num": 266628,
+        "word": "突然告诉家人朋友领证了",
+        "onboard_time": 1708396956,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251114,
+        "num": 251114,
+        "word": "幽灵堵车",
+        "onboard_time": 1708401640,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 245987,
+        "num": 245987,
+        "word": "全智贤汤唯贴贴",
+        "onboard_time": 1708387711,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245869,
+        "num": 245869,
+        "word": "承办昆山反杀案检察官评电影第二十条",
+        "onboard_time": 1708405660,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241938,
+        "num": 241938,
+        "word": "二姨家低于50度的都算饮料呗",
+        "onboard_time": 1708402661,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235187,
+        "num": 235187,
+        "word": "种地吧2宣传片",
+        "onboard_time": 1708404640,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234616,
+        "num": 234616,
+        "word": "陈靖可早期ins",
+        "onboard_time": 1708395216,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220715,
+        "num": 220715,
+        "word": "赵世子",
+        "onboard_time": 1708391135,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217804,
+        "num": 217804,
+        "word": "TREASURE官宣香港演唱会",
+        "onboard_time": 1708405478,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217212,
+        "num": 217212,
+        "word": "白鹿替身发文",
+        "onboard_time": 1708357179,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207594,
+        "num": 207594,
+        "word": "开工3天痔疮膏销量翻3倍",
+        "onboard_time": 1708394916,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "大理寺少卿游今日开播",
+        "onboard_time": 1708404222,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188710,
+        "num": 188710,
+        "word": "热辣滚烫与贾玲消失这一年",
+        "onboard_time": 1708398094,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183433,
+        "num": 183433,
+        "word": "秦朗丢寒假作业事件大结局",
+        "onboard_time": 1708384946,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172879,
+        "num": 172879,
+        "word": "小夫妻抱婴儿乘高铁站8个多小时",
+        "onboard_time": 1708392872,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166959,
+        "num": 166959,
+        "word": "妈妈我能不能拆开这箱奶",
+        "onboard_time": 1708398815,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156470,
+        "num": 156470,
+        "word": "二月天杨柳醉春烟",
+        "onboard_time": 1708402477,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151051,
+        "num": 151051,
+        "word": "ELLE三月刊刘雯开季封面",
+        "onboard_time": 1708406075,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "十四冬",
+        "onboard_time": 1708401278,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}
