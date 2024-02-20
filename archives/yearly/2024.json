@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708406255685,
+  "endTime": 1708407301674,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -433,6 +433,14 @@
       "onboard_time": 1705147906,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6588549,
+      "num": 6588549,
+      "word": "王诗玥声明柳鑫宇被盗号",
+      "onboard_time": 1708406319,
+      "rank": 0,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 6545130,
@@ -2027,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2297966,
+      "num": 2297966,
+      "word": "出轨女教师丈夫曝光学生信息或侵权",
+      "onboard_time": 1708405420,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2288013,
       "num": 2288013,
       "word": "热辣滚烫上映",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1708053451,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2158769,
-      "num": 2158769,
-      "word": "吴宣仪和粉丝哭穷",
-      "onboard_time": 1705724965,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2157942,
-      "num": 1088756,
-      "word": "魏晨魏大勋白敬亭帅了一下又一下",
-      "onboard_time": 1707491780,
-      "rank": 22,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1708407301674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6588549,
+        "num": 6588549,
+        "word": "王诗玥声明柳鑫宇被盗号",
+        "onboard_time": 1708406319,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2297966,
+        "num": 2297966,
+        "word": "出轨女教师丈夫曝光学生信息或侵权",
+        "onboard_time": 1708405420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92335,
+        "num": 1934033,
+        "word": "何为中国活力这个春节告诉你",
+        "onboard_time": 1708405718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1687381,
+        "num": 1687381,
+        "word": "韩国大批医生集体辞职",
+        "onboard_time": 1708402718,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086868,
+        "num": 1086868,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 969376,
+        "num": 969376,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 798921,
+        "num": 798921,
+        "word": "梅西本人已在中国注册姓名商标",
+        "onboard_time": 1708401640,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732423,
+        "num": 732423,
+        "word": "女子花1万6买好全年假期旅行机票",
+        "onboard_time": 1708401159,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 693281,
+        "num": 693281,
+        "word": "2万多游客滞留5万人小县倾城接待",
+        "onboard_time": 1708403681,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 685812,
+        "num": 685812,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 632042,
+        "num": 632042,
+        "word": "柳鑫宇十四冬赛程",
+        "onboard_time": 1708402300,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 585315,
+        "num": 585315,
+        "word": "陈乔恩艾伦重返定情地",
+        "onboard_time": 1708403501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544079,
+        "num": 544079,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 523249,
+        "num": 523249,
+        "word": "考公正在成为印度年轻人的执念",
+        "onboard_time": 1708398336,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480616,
+        "num": 480616,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427764,
+        "num": 427764,
+        "word": "刘翔账号营业了",
+        "onboard_time": 1708403922,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388815,
+        "num": 388815,
+        "word": "花滑",
+        "onboard_time": 1708402718,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370611,
+        "num": 370611,
+        "word": "董宇辉回应出门阵仗大",
+        "onboard_time": 1708400857,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 359644,
+        "num": 359644,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321168,
+        "num": 321168,
+        "word": "范丞丞代言华莱士",
+        "onboard_time": 1708402062,
+        "rank": 19,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 4313925,
+        "num": 315585,
+        "word": "柳鑫宇ins",
+        "onboard_time": 1708397317,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 429361,
+        "num": 312955,
+        "word": "全世界都知道妹妹在赶作业了",
+        "onboard_time": 1708400438,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351773,
+        "num": 305289,
+        "word": "生娃后我从母亲的女儿变成儿媳",
+        "onboard_time": 1708405001,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290991,
+        "num": 290991,
+        "word": "梅西3次表示希望再来中国",
+        "onboard_time": 1708383681,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272224,
+        "num": 272224,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258636,
+        "num": 258636,
+        "word": "吕克贝松 广末凉子",
+        "onboard_time": 1708397735,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251145,
+        "num": 251145,
+        "word": "张若昀时隔9年再演反派",
+        "onboard_time": 1708407218,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248455,
+        "num": 248455,
+        "word": "全智贤汤唯贴贴",
+        "onboard_time": 1708387711,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85403,
+        "num": 240307,
+        "word": "在和平精英开宾利是什么体验",
+        "onboard_time": 1708404102,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2172412,
+        "num": 239791,
+        "word": "出轨女教师若离婚或需承担精神赔偿",
+        "onboard_time": 1708395092,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236787,
+        "num": 236787,
+        "word": "飞上海一航班充电宝爆燃紧急备降",
+        "onboard_time": 1708400319,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220021,
+        "num": 220021,
+        "word": "幽灵堵车",
+        "onboard_time": 1708401640,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 218145,
+        "num": 218145,
+        "word": "尹子维徐冬冬婚礼真人秀",
+        "onboard_time": 1708402062,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215418,
+        "num": 215418,
+        "word": "遇到一只萨摩耶和一只萨摩唉",
+        "onboard_time": 1708406621,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209532,
+        "num": 209532,
+        "word": "开工3天痔疮膏销量翻3倍",
+        "onboard_time": 1708394916,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209232,
+        "num": 209232,
+        "word": "种地吧2宣传片",
+        "onboard_time": 1708404640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207123,
+        "num": 207123,
+        "word": "陈靖可早期ins",
+        "onboard_time": 1708395216,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201501,
+        "num": 206563,
+        "word": "赵露思薛佳凝聚餐吃铁锅炖",
+        "onboard_time": 1708403384,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206185,
+        "num": 206185,
+        "word": "承办昆山反杀案检察官评电影第二十条",
+        "onboard_time": 1708405660,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203711,
+        "num": 203711,
+        "word": "突然告诉家人朋友领证了",
+        "onboard_time": 1708396956,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194784,
+        "num": 194784,
+        "word": "赵世子",
+        "onboard_time": 1708391135,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185631,
+        "num": 185631,
+        "word": "白鹿替身发文",
+        "onboard_time": 1708357179,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172180,
+        "num": 172180,
+        "word": "TREASURE官宣香港演唱会",
+        "onboard_time": 1708405478,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156581,
+        "num": 156581,
+        "word": "大理寺少卿游今日开播",
+        "onboard_time": 1708404222,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149228,
+        "num": 149228,
+        "word": "小夫妻抱婴儿乘高铁站8个多小时",
+        "onboard_time": 1708392872,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147847,
+        "num": 147847,
+        "word": "全员加速中广东路透",
+        "onboard_time": 1708406494,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145020,
+        "num": 145020,
+        "word": "热辣滚烫与贾玲消失这一年",
+        "onboard_time": 1708398094,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 143208,
+        "word": "秦朗丢寒假作业事件大结局",
+        "onboard_time": 1708384946,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142939,
+        "num": 142939,
+        "word": "恋与制作人 寒山独见卿",
+        "onboard_time": 1708404164,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142888,
+        "num": 142888,
+        "word": "一元店商业模式创始人去世",
+        "onboard_time": 1708406976,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}

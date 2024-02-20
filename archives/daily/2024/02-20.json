@@ -1,7 +1,15 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708406255685,
+  "endTime": 1708407301674,
   "band_list": [
+    {
+      "raw_hot": 6588549,
+      "num": 6588549,
+      "word": "王诗玥声明柳鑫宇被盗号",
+      "onboard_time": 1708406319,
+      "rank": 0,
+      "category": "体育,艺人"
+    },
     {
       "raw_hot": 5485734,
       "num": 5315521,
@@ -32,6 +40,14 @@
       "word": "女教师丈夫",
       "onboard_time": 1708354120,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2297966,
+      "num": 2297966,
+      "word": "出轨女教师丈夫曝光学生信息或侵权",
+      "onboard_time": 1708405420,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -264,14 +280,6 @@
       "word": "100万房贷30年少还5.2万",
       "onboard_time": 1708396054,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755765,
-      "num": 755765,
-      "word": "出轨女教师丈夫曝光学生信息或侵权",
-      "onboard_time": 1708405420,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -699,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251145,
+      "num": 251145,
+      "word": "张若昀时隔9年再演反派",
+      "onboard_time": 1708407218,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251114,
       "num": 251114,
       "word": "幽灵堵车",
@@ -817,6 +833,14 @@
       "onboard_time": 1708402901,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215418,
+      "num": 215418,
+      "word": "遇到一只萨摩耶和一只萨摩唉",
+      "onboard_time": 1708406621,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 214916,
@@ -1139,6 +1163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147847,
+      "num": 147847,
+      "word": "全员加速中广东路透",
+      "onboard_time": 1708406494,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145647,
       "num": 145647,
       "word": "想看BTS退伍结果注册成了士兵",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1708353939,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142888,
+      "num": 142888,
+      "word": "一元店商业模式创始人去世",
+      "onboard_time": 1708406976,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 142361,
@@ -1355,12 +1395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92335,
+      "num": 1934033,
+      "word": "何为中国活力这个春节告诉你",
+      "onboard_time": 1708405718,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90797,
       "num": 2287513,
       "word": "长三角晒2023年经济发展成绩单",
       "onboard_time": 1708351841,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85403,
+      "num": 497848,
+      "word": "在和平精英开宾利是什么体验",
+      "onboard_time": 1708404102,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 83587,
@@ -1377,14 +1433,6 @@
       "onboard_time": 1708349265,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75697,
-      "num": 497848,
-      "word": "在和平精英开宾利是什么体验",
-      "onboard_time": 1708404102,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 59751,
@@ -1417,14 +1465,6 @@
       "onboard_time": 1708342954,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44973,
-      "num": 1261788,
-      "word": "何为中国活力这个春节告诉你",
-      "onboard_time": 1708405718,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38077,
