@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708438567925,
+  "endTime": 1708439649507,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3635616,
+      "num": 3635616,
+      "word": "许凯报警",
+      "onboard_time": 1708437219,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3606889,
       "num": 1116124,
       "word": "女教师丈夫或涉嫌侵犯未成年人隐私权",
@@ -945,14 +953,6 @@
       "onboard_time": 1707482890,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2552082,
-      "num": 2552082,
-      "word": "许凯报警",
-      "onboard_time": 1708437219,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2542489,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1707622710,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1006095,
+      "num": 1006095,
+      "word": "刘涛演妈祖 掷圣杯",
+      "onboard_time": 1708438002,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1003912,
@@ -18003,14 +18011,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 384200,
-      "num": 384200,
-      "word": "刘涛演妈祖 掷圣杯",
-      "onboard_time": 1708438002,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 383397,
       "num": 383397,
       "word": "马斯克宣布更改特斯拉注册地",
@@ -21491,6 +21491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311868,
+      "num": 311868,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 311646,
       "num": 311646,
       "word": "王濛 永远不要小看每一分努力",
@@ -24657,14 +24665,6 @@
       "onboard_time": 1707541891,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 266995,
-      "num": 239861,
-      "word": "江西菜是预制菜鄙视链的顶端",
-      "onboard_time": 1708435416,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 266992,
@@ -27963,6 +27963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232083,
+      "num": 232083,
+      "word": "杨紫方否认演竹书谣",
+      "onboard_time": 1708438905,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232021,
       "num": 232021,
       "word": "王家卫查户口式选演员",
@@ -29347,6 +29355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220436,
+      "num": 220436,
+      "word": "当我没工作vs当我有工作",
+      "onboard_time": 1708437581,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220421,
       "num": 220421,
       "word": "马面裙发型",
@@ -29473,14 +29489,6 @@
       "onboard_time": 1707135932,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 219799,
-      "num": 219799,
-      "word": "当我没工作vs当我有工作",
-      "onboard_time": 1708437581,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 219621,
@@ -29961,6 +29969,14 @@
       "onboard_time": 1708070010,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 216307,
+      "num": 203547,
+      "word": "为什么我们这代人存不下钱",
+      "onboard_time": 1708437939,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 216280,
@@ -32867,14 +32883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199176,
-      "num": 199176,
-      "word": "为什么我们这代人存不下钱",
-      "onboard_time": 1708437939,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199154,
       "num": 228751,
       "word": "iPhone相机记得这样设置",
@@ -35779,6 +35787,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184438,
+      "num": 184438,
+      "word": "烟火人家剧情",
+      "onboard_time": 1708439081,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184399,
       "num": 184399,
       "word": "字节跳动辟谣推出中文版Sora",
@@ -38555,6 +38571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169395,
+      "num": 169395,
+      "word": "郑钦文医疗暂停",
+      "onboard_time": 1708439383,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169390,
       "num": 169390,
       "word": "香港消委会收到401宗梅西事件投诉",
@@ -41051,6 +41075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157022,
+      "num": 157022,
+      "word": "周鸿祎称Sora造成的轰动效果远超GPT",
+      "onboard_time": 1708438244,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156995,
       "num": 156995,
       "word": "炸猪排店的临时停业通知",
@@ -42027,6 +42059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151732,
+      "num": 151732,
+      "word": "韩式酱鸡蛋",
+      "onboard_time": 1708439502,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151700,
       "num": 731141,
       "word": "春晚第一波幸运儿已诞生",
@@ -42761,14 +42801,6 @@
       "onboard_time": 1707200192,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147913,
-      "num": 147913,
-      "word": "周鸿祎称Sora造成的轰动效果远超GPT",
-      "onboard_time": 1708438244,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 147847,
@@ -44755,6 +44787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138904,
+      "num": 1821240,
+      "word": "5个寒潮防范要点",
+      "onboard_time": 1708437521,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138881,
       "num": 138881,
       "word": "毛晓彤公主花车巡游",
@@ -44977,6 +45017,14 @@
       "onboard_time": 1707387152,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137726,
+      "num": 137726,
+      "word": "容易被混淆的狗狗",
+      "onboard_time": 1708439322,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 137698,
@@ -49920,14 +49968,6 @@
       "word": "南方暴雪冰冻救援",
       "onboard_time": 1707051033,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111084,
-      "num": 1821240,
-      "word": "5个寒潮防范要点",
-      "onboard_time": 1708437521,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708438567925,
+  "endTime": 1708439649507,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -80,6 +80,14 @@
       "word": "金晨 不存在白敬亭放鸽子",
       "onboard_time": 1708430136,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3635616,
+      "num": 3635616,
+      "word": "许凯报警",
+      "onboard_time": 1708437219,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1708338937,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2552082,
-      "num": 2552082,
-      "word": "许凯报警",
-      "onboard_time": 1708437219,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2415461,
@@ -945,6 +945,14 @@
       "onboard_time": 1708331623,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1006095,
+      "num": 1006095,
+      "word": "刘涛演妈祖 掷圣杯",
+      "onboard_time": 1708438002,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 991147,
@@ -2939,14 +2947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 384200,
-      "num": 384200,
-      "word": "刘涛演妈祖 掷圣杯",
-      "onboard_time": 1708438002,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382987,
       "num": 382987,
       "word": "生娃后我从母亲的女儿变成儿媳",
@@ -3585,6 +3585,14 @@
       "onboard_time": 1708425518,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311868,
+      "num": 311868,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 311083,
@@ -4227,14 +4235,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 266995,
-      "num": 239861,
-      "word": "江西菜是预制菜鄙视链的顶端",
-      "onboard_time": 1708435416,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 266909,
       "num": 266909,
       "word": "乙骨忧太也被腰斩",
@@ -4795,6 +4795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232083,
+      "num": 232083,
+      "word": "杨紫方否认演竹书谣",
+      "onboard_time": 1708438905,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231442,
       "num": 231442,
       "word": "FPX战胜LNG",
@@ -5027,6 +5035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220436,
+      "num": 220436,
+      "word": "当我没工作vs当我有工作",
+      "onboard_time": 1708437581,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220421,
       "num": 220421,
       "word": "马面裙发型",
@@ -5065,14 +5081,6 @@
       "onboard_time": 1708414061,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219799,
-      "num": 219799,
-      "word": "当我没工作vs当我有工作",
-      "onboard_time": 1708437581,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 219176,
@@ -5169,6 +5177,14 @@
       "onboard_time": 1708402901,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216307,
+      "num": 203547,
+      "word": "为什么我们这代人存不下钱",
+      "onboard_time": 1708437939,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 215353,
@@ -5561,14 +5577,6 @@
       "onboard_time": 1708262555,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199176,
-      "num": 199176,
-      "word": "为什么我们这代人存不下钱",
-      "onboard_time": 1708437939,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 198621,
@@ -6059,6 +6067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184438,
+      "num": 184438,
+      "word": "烟火人家剧情",
+      "onboard_time": 1708439081,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184399,
       "num": 184399,
       "word": "字节跳动辟谣推出中文版Sora",
@@ -6531,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169395,
+      "num": 169395,
+      "word": "郑钦文医疗暂停",
+      "onboard_time": 1708439383,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168369,
       "num": 168369,
       "word": "凌晨5点你楼上的邻居",
@@ -6899,6 +6923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157022,
+      "num": 157022,
+      "word": "周鸿祎称Sora造成的轰动效果远超GPT",
+      "onboard_time": 1708438244,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156839,
       "num": 1259273,
       "word": "2024春节档电影票房创纪录",
@@ -7003,6 +7035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153285,
+      "num": 153285,
+      "word": "冻雨",
+      "onboard_time": 1708439621,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152618,
       "num": 152618,
       "word": "仙逆年番海报上线",
@@ -7041,6 +7081,14 @@
       "onboard_time": 1708314153,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151732,
+      "num": 151732,
+      "word": "韩式酱鸡蛋",
+      "onboard_time": 1708439502,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 151630,
@@ -7161,14 +7209,6 @@
       "onboard_time": 1708311573,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147913,
-      "num": 147913,
-      "word": "周鸿祎称Sora造成的轰动效果远超GPT",
-      "onboard_time": 1708438244,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 147847,
@@ -7459,6 +7499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138904,
+      "num": 1821240,
+      "word": "5个寒潮防范要点",
+      "onboard_time": 1708437521,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138749,
       "num": 138749,
       "word": "Switch2跳票致任天堂股价大跌",
@@ -7472,6 +7520,14 @@
       "word": "过年听到的八卦有多炸裂",
       "onboard_time": 1708334439,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137726,
+      "num": 137726,
+      "word": "容易被混淆的狗狗",
+      "onboard_time": 1708439322,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -7833,14 +7889,6 @@
       "onboard_time": 1708327897,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111084,
-      "num": 1821240,
-      "word": "5个寒潮防范要点",
-      "onboard_time": 1708437521,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110548,
