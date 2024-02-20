@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708461281190,
+  "endTime": 1708463726282,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -8603,6 +8603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27950,
+      "num": 27950,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25428,
       "num": 48653,
       "word": "十四冬开幕式今日举行",
@@ -8651,20 +8659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21480,
+      "num": 17683,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21213,
       "num": 21213,
       "word": "男子游神现场cos赵世子被马夫鞭打",
       "onboard_time": 1708457237,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20109,
-      "num": 17683,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 19659,
@@ -8761,6 +8769,14 @@
       "onboard_time": 1708198036,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12004,
+      "num": 12635,
+      "word": "生死面前什么是更好的抉择",
+      "onboard_time": 1708463297,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11845,

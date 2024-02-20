@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708461281190,
+  "endTime": 1708463726282,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -54787,6 +54787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27950,
+      "num": 27950,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27877,
       "num": 239171,
       "word": "京东春晚100辆岚图汽车已发车",
@@ -55131,6 +55139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21480,
+      "num": 17683,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21421,
       "num": 280907,
       "word": "来元梦迎财神",
@@ -55225,14 +55241,6 @@
       "onboard_time": 1707559235,
       "rank": 14,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 20109,
-      "num": 17683,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 19659,
@@ -55745,6 +55753,14 @@
       "onboard_time": 1707168436,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12004,
+      "num": 12635,
+      "word": "生死面前什么是更好的抉择",
+      "onboard_time": 1708463297,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11868,
