@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708428845219,
+  "endTime": 1708432237692,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -73,6 +73,14 @@
       "onboard_time": 1708345178,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3646082,
+      "num": 3646082,
+      "word": "金晨 不存在白敬亭放鸽子",
+      "onboard_time": 1708430136,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3606889,
@@ -1963,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571046,
+      "num": 280756,
+      "word": "我好像连一万块都很难存下来",
+      "onboard_time": 1708430433,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 565743,
       "num": 565743,
       "word": "考研成绩倒计时",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1708215391,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487590,
+      "num": 278243,
+      "word": "妈妈让我工作后每月给家里转三千",
+      "onboard_time": 1708430433,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 487403,
@@ -3195,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341985,
+      "num": 277134,
+      "word": "工位越乱的员工稳定性越好",
+      "onboard_time": 1708431579,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340433,
       "num": 340433,
       "word": "利拉德卫冕三分大赛冠军",
@@ -3257,6 +3289,14 @@
       "onboard_time": 1708428338,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333678,
+      "num": 272940,
+      "word": "每天敷面膜不如改善体质",
+      "onboard_time": 1708428215,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 333632,
@@ -4147,6 +4187,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 260439,
+      "num": 260439,
+      "word": "双子座其实还蛮单纯的",
+      "onboard_time": 1708429055,
+      "rank": 25,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 258541,
       "num": 258541,
       "word": "吴尊 公关票也会放价格",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1708310552,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256578,
+      "num": 256578,
+      "word": "授她以柄",
+      "onboard_time": 1708429892,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 254386,
@@ -4467,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242126,
+      "num": 242126,
+      "word": "时代少年团开通B站账号",
+      "onboard_time": 1708431697,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241550,
       "num": 241550,
       "word": "江苏卫视长风渡定档",
@@ -4587,14 +4651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233227,
-      "num": 233227,
-      "word": "每天敷面膜不如改善体质",
-      "onboard_time": 1708428215,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 233068,
       "num": 233068,
       "word": "客服回应瑞幸9.9元活动被指缩水",
@@ -4617,6 +4673,22 @@
       "onboard_time": 1708426177,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231442,
+      "num": 231442,
+      "word": "FPX战胜LNG",
+      "onboard_time": 1708430378,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 231014,
+      "num": 231014,
+      "word": "世乒赛抽签",
+      "onboard_time": 1708431161,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 230913,
@@ -4769,6 +4841,14 @@
       "onboard_time": 1708220974,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222604,
+      "num": 221590,
+      "word": "日本手游TOP10中国游戏占四成",
+      "onboard_time": 1708431277,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 221963,
@@ -4985,6 +5065,14 @@
       "onboard_time": 1708304133,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213985,
+      "num": 213985,
+      "word": "杨紫热辣红唇妆",
+      "onboard_time": 1708431878,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213808,
@@ -5225,6 +5313,14 @@
       "onboard_time": 1708229615,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201764,
+      "num": 201764,
+      "word": "周深雪天清唱",
+      "onboard_time": 1708431219,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 201419,
@@ -5539,6 +5635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190653,
+      "num": 190653,
+      "word": "热辣滚烫全员都很热辣滚烫",
+      "onboard_time": 1708429180,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190510,
       "num": 190510,
       "word": "灵机一动在公司用养生壶煮火锅",
@@ -5609,6 +5713,14 @@
       "onboard_time": 1708330121,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188862,
+      "num": 188862,
+      "word": "周雨彤家里进猫",
+      "onboard_time": 1708429475,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 188622,
@@ -5913,6 +6025,14 @@
       "onboard_time": 1708263876,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179905,
+      "num": 179905,
+      "word": "NCTdream官博切错号",
+      "onboard_time": 1708429538,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 179831,
@@ -6313,6 +6433,14 @@
       "onboard_time": 1708247734,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166498,
+      "num": 166498,
+      "word": "赵樱子回忆第一次尝试丑角",
+      "onboard_time": 1708428934,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 166462,

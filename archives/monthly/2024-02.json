@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708428845219,
+  "endTime": 1708432237692,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -457,6 +457,14 @@
       "onboard_time": 1707487037,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3646082,
+      "num": 3646082,
+      "word": "金晨 不存在白敬亭放鸽子",
+      "onboard_time": 1708430136,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3641771,
@@ -12019,6 +12027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571046,
+      "num": 280756,
+      "word": "我好像连一万块都很难存下来",
+      "onboard_time": 1708430433,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 569443,
       "num": 569443,
       "word": "王家卫连胡歌宣传期穿什么衣服都管",
@@ -14361,6 +14377,14 @@
       "onboard_time": 1706932830,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487590,
+      "num": 278243,
+      "word": "妈妈让我工作后每月给家里转三千",
+      "onboard_time": 1708430433,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 487403,
@@ -19899,6 +19923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341985,
+      "num": 277134,
+      "word": "工位越乱的员工稳定性越好",
+      "onboard_time": 1708431579,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341888,
       "num": 249666,
       "word": "关之琳61岁状态",
@@ -20129,6 +20161,14 @@
       "onboard_time": 1708178376,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333678,
+      "num": 272940,
+      "word": "每天敷面膜不如改善体质",
+      "onboard_time": 1708428215,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 333659,
@@ -24907,6 +24947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 260439,
+      "num": 260439,
+      "word": "双子座其实还蛮单纯的",
+      "onboard_time": 1708429055,
+      "rank": 25,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 260374,
       "num": 260374,
       "word": "创造营",
@@ -26627,6 +26675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242126,
+      "num": 242126,
+      "word": "时代少年团开通B站账号",
+      "onboard_time": 1708431697,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242056,
       "num": 242056,
       "word": "春天排肝毒",
@@ -27603,14 +27659,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 233227,
-      "num": 233227,
-      "word": "每天敷面膜不如改善体质",
-      "onboard_time": 1708428215,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 233124,
       "num": 236824,
       "word": "十四冬开幕式",
@@ -27851,6 +27899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231442,
+      "num": 231442,
+      "word": "FPX战胜LNG",
+      "onboard_time": 1708430378,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231339,
       "num": 231339,
       "word": "阿娇 庆幸和你组成Twins",
@@ -27881,6 +27937,14 @@
       "onboard_time": 1706937092,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231014,
+      "num": 231014,
+      "word": "世乒赛抽签",
+      "onboard_time": 1708431161,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 230940,
@@ -28785,6 +28849,14 @@
       "onboard_time": 1708220974,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222604,
+      "num": 221590,
+      "word": "日本手游TOP10中国游戏占四成",
+      "onboard_time": 1708431277,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 222566,
@@ -30025,6 +30097,14 @@
       "onboard_time": 1707102513,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213985,
+      "num": 213985,
+      "word": "杨紫热辣红唇妆",
+      "onboard_time": 1708431878,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213901,
@@ -32041,6 +32121,14 @@
       "onboard_time": 1708057171,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201764,
+      "num": 201764,
+      "word": "周深雪天清唱",
+      "onboard_time": 1708431219,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 201721,
@@ -34395,6 +34483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190653,
+      "num": 190653,
+      "word": "热辣滚烫全员都很热辣滚烫",
+      "onboard_time": 1708429180,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190575,
       "num": 190575,
       "word": "一见钟情后的暧昧拉扯好上头",
@@ -34713,6 +34809,14 @@
       "onboard_time": 1706850754,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 188862,
+      "num": 188862,
+      "word": "周雨彤家里进猫",
+      "onboard_time": 1708429475,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 188842,
@@ -36201,6 +36305,14 @@
       "onboard_time": 1708263876,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179905,
+      "num": 179905,
+      "word": "NCTdream官博切错号",
+      "onboard_time": 1708429538,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 179880,
@@ -38921,6 +39033,14 @@
       "onboard_time": 1707233253,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166498,
+      "num": 166498,
+      "word": "赵樱子回忆第一次尝试丑角",
+      "onboard_time": 1708428934,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 166462,

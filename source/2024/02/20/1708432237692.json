@@ -1,0 +1,410 @@
+{
+  "runTime": 1708432237692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3646082,
+        "num": 3646082,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2570805,
+        "num": 2570805,
+        "word": "乐华为王一博报警",
+        "onboard_time": 1708419280,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45341,
+        "num": 1099059,
+        "word": "长三角的新春第一会都在拼什么",
+        "onboard_time": 1708423355,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908167,
+        "num": 908167,
+        "word": "柳鑫宇发声",
+        "onboard_time": 1708414596,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 799136,
+        "num": 799136,
+        "word": "文旅局称没有邀请男网红扮游神",
+        "onboard_time": 1708420479,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707410,
+        "num": 707410,
+        "word": "cos赵世子男网红道歉",
+        "onboard_time": 1708424558,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623831,
+        "num": 623831,
+        "word": "清华大学教授称我们的教育没有教孩子如何开心",
+        "onboard_time": 1708422095,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 611485,
+        "num": 611485,
+        "word": "新疆地震",
+        "onboard_time": 1708427379,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481356,
+        "num": 481356,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 182288,
+        "num": 447687,
+        "word": "原来真的会有大侠从天而降来救你",
+        "onboard_time": 1708424076,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590660,
+        "num": 443945,
+        "word": "柳鑫宇自曝事件",
+        "onboard_time": 1708422637,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 437921,
+        "num": 437921,
+        "word": "乐莹跳楼戏拍了72遍用了第72条",
+        "onboard_time": 1708417840,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414394,
+        "num": 414394,
+        "word": "梅西AI",
+        "onboard_time": 1708425278,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371658,
+        "num": 371658,
+        "word": "热辣滚烫票房破30亿",
+        "onboard_time": 1708427795,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370151,
+        "num": 370151,
+        "word": "努力凑够400万可怜可怜他",
+        "onboard_time": 1708425218,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369526,
+        "num": 369526,
+        "word": "百元之恋导演编剧祝贺贾玲",
+        "onboard_time": 1708420898,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339872,
+        "num": 339872,
+        "word": "专家称现在不买房五年又白忙",
+        "onboard_time": 1708414835,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327080,
+        "num": 327080,
+        "word": "考研成绩",
+        "onboard_time": 1708419582,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 319940,
+        "num": 319940,
+        "word": "李湘王岳伦成立新公司",
+        "onboard_time": 1708420780,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281956,
+        "num": 281956,
+        "word": "泰山太牛了",
+        "onboard_time": 1708424141,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571046,
+        "num": 280756,
+        "word": "我好像连一万块都很难存下来",
+        "onboard_time": 1708430433,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 487590,
+        "num": 278243,
+        "word": "妈妈让我工作后每月给家里转三千",
+        "onboard_time": 1708430433,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341985,
+        "num": 277134,
+        "word": "工位越乱的员工稳定性越好",
+        "onboard_time": 1708431579,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333678,
+        "num": 272940,
+        "word": "每天敷面膜不如改善体质",
+        "onboard_time": 1708428215,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 272732,
+        "num": 272732,
+        "word": "丞磊下水捞周也",
+        "onboard_time": 1708425579,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260439,
+        "num": 260439,
+        "word": "双子座其实还蛮单纯的",
+        "onboard_time": 1708429055,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 256578,
+        "num": 256578,
+        "word": "授她以柄",
+        "onboard_time": 1708429892,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242201,
+        "num": 242201,
+        "word": "杨紫 竹书谣",
+        "onboard_time": 1708423720,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242126,
+        "num": 242126,
+        "word": "时代少年团开通B站账号",
+        "onboard_time": 1708431697,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231442,
+        "num": 231442,
+        "word": "FPX战胜LNG",
+        "onboard_time": 1708430378,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231014,
+        "num": 231014,
+        "word": "世乒赛抽签",
+        "onboard_time": 1708431161,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229681,
+        "num": 229681,
+        "word": "罗云熙银发出妆",
+        "onboard_time": 1708428338,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226134,
+        "num": 226134,
+        "word": "淘宝逐步开放微信支付",
+        "onboard_time": 1708415319,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220775,
+        "num": 222824,
+        "word": "王诗玥声明柳鑫宇被盗号",
+        "onboard_time": 1708406319,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 222620,
+        "num": 222620,
+        "word": "李铁去世系谣言",
+        "onboard_time": 1708427137,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221955,
+        "num": 221955,
+        "word": "老爸吐槽00后女儿像头猪",
+        "onboard_time": 1708425518,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222604,
+        "num": 221590,
+        "word": "日本手游TOP10中国游戏占四成",
+        "onboard_time": 1708431277,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219137,
+        "num": 219137,
+        "word": "卡琳娜和揉西 汉服合照",
+        "onboard_time": 1708421738,
+        "rank": 37,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 213985,
+        "num": 213985,
+        "word": "杨紫热辣红唇妆",
+        "onboard_time": 1708431878,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201764,
+        "num": 201764,
+        "word": "周深雪天清唱",
+        "onboard_time": 1708431219,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196945,
+        "num": 196945,
+        "word": "这单外卖我能吹一辈子",
+        "onboard_time": 1708426059,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190653,
+        "num": 190653,
+        "word": "热辣滚烫全员都很热辣滚烫",
+        "onboard_time": 1708429180,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189815,
+        "num": 189815,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188862,
+        "num": 188862,
+        "word": "周雨彤家里进猫",
+        "onboard_time": 1708429475,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179905,
+        "num": 179905,
+        "word": "NCTdream官博切错号",
+        "onboard_time": 1708429538,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166498,
+        "num": 166498,
+        "word": "赵樱子回忆第一次尝试丑角",
+        "onboard_time": 1708428934,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162644,
+        "num": 162644,
+        "word": "杜华为王一博发声",
+        "onboard_time": 1708427974,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154290,
+        "num": 154290,
+        "word": "柳鑫宇亮相十四冬花滑训练",
+        "onboard_time": 1708417181,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150992,
+        "num": 150992,
+        "word": "北京下雪",
+        "onboard_time": 1708423481,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144061,
+        "num": 144061,
+        "word": "董路 梅西的事没那么复杂",
+        "onboard_time": 1708421139,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}
