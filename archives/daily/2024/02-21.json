@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708449308618,
+  "endTime": 1708450440779,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -171,6 +171,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216218,
+      "num": 207269,
+      "word": "中国女游客泰国搭摩托车险遭司机强暴",
+      "onboard_time": 1708448065,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206837,
+      "num": 206837,
+      "word": "曼谷偶遇刘恋庄达菲",
+      "onboard_time": 1708449323,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198518,
       "num": 198518,
       "word": "喜剧演员是对他最大的误解",
@@ -193,14 +209,6 @@
       "onboard_time": 1708440221,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169717,
-      "num": 169717,
-      "word": "中国女游客泰国搭摩托车险遭司机强暴",
-      "onboard_time": 1708448065,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167895,
@@ -249,6 +257,14 @@
       "onboard_time": 1708431579,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136673,
+      "num": 136673,
+      "word": "当哈尔滨收起来玩具后的本地人",
+      "onboard_time": 1708447351,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 127234,
@@ -313,14 +329,6 @@
       "onboard_time": 1708420898,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109336,
-      "num": 109336,
-      "word": "当哈尔滨收起来玩具后的本地人",
-      "onboard_time": 1708447351,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 105640,
@@ -449,6 +457,14 @@
       "onboard_time": 1708449024,
       "rank": 41,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 34297,
+      "num": 36883,
+      "word": "狗狗的耳朵一只站岗一只稍息",
+      "onboard_time": 1708450283,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
