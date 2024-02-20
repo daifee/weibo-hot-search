@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708468452292,
+  "endTime": 1708471012834,
   "band_list": [
     {
       "raw_hot": 1961681,
@@ -64,6 +64,14 @@
       "word": "冻雨",
       "onboard_time": 1708439621,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500817,
+      "num": 500817,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -131,14 +139,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 353395,
-      "num": 353395,
-      "word": "上海暴雨",
-      "onboard_time": 1708463356,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353261,
       "num": 255239,
       "word": "毕业工作四年只存了4w块钱",
@@ -203,19 +203,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179463,
-      "num": 179463,
-      "word": "后车想破头也不知道堵车原因是800只鹅",
-      "onboard_time": 1708442259,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 176674,
-      "num": 136673,
+      "raw_hot": 188452,
+      "num": 164638,
       "word": "当哈尔滨收起来玩具后的本地人",
       "onboard_time": 1708447351,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182660,
+      "num": 182660,
+      "word": "后车想破头也不知道堵车原因是800只鹅",
+      "onboard_time": 1708442259,
+      "rank": 23,
       "category": "幽默"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1708441057,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160681,
+      "num": 160681,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 154219,
@@ -273,6 +281,14 @@
       "onboard_time": 1708431579,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134223,
+      "num": 134223,
+      "word": "明星后援会是怎么运作的",
+      "onboard_time": 1708466057,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 127234,
@@ -379,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 94264,
+      "num": 94264,
+      "word": "姆巴佩签字费达1.5亿欧",
+      "onboard_time": 1708467677,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92253,
       "num": 96403,
       "word": "郑钦文医疗暂停",
@@ -435,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80588,
-      "num": 73496,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78660,
       "num": 96401,
       "word": "北京下雪",
       "onboard_time": 1708423481,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77702,
+      "num": 77702,
+      "word": "朋友圈下了好大的雪",
+      "onboard_time": 1708470142,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 76521,
@@ -475,6 +499,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64810,
+      "num": 64810,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63992,
+      "num": 63992,
+      "word": "济南的雪盐里盐气的",
+      "onboard_time": 1708468158,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 61188,
+      "num": 424447,
+      "word": "航天员拍摄的蔚蓝地球",
+      "onboard_time": 1708437273,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58698,
+      "num": 58698,
+      "word": "十年前抽过的烟至今还在伤害免疫系统",
+      "onboard_time": 1708458557,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57469,
       "num": 57469,
       "word": "权顺荣机场",
@@ -491,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54783,
+      "num": 54783,
+      "word": "山东下的是霰不是雪",
+      "onboard_time": 1708470982,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52724,
       "num": 52724,
       "word": "我在橙色巴黎走哪算哪",
       "onboard_time": 1708449024,
       "rank": 41,
       "category": "旅游,网红"
-    },
-    {
-      "raw_hot": 52511,
-      "num": 52511,
-      "word": "明星后援会是怎么运作的",
-      "onboard_time": 1708466057,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 46895,
@@ -515,12 +571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46357,
+      "num": 46357,
+      "word": "男子游神现场cos赵世子被马夫鞭打",
+      "onboard_time": 1708457237,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36965,
       "num": 36965,
       "word": "白鹿白月梵星婚服路透",
       "onboard_time": 1708451121,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35674,
+      "num": 35674,
+      "word": "知道许昕家缺什么了缺观众席",
+      "onboard_time": 1708458018,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 34297,
@@ -531,68 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32522,
-      "num": 32522,
-      "word": "十年前抽过的烟至今还在伤害免疫系统",
-      "onboard_time": 1708458557,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27112,
-      "num": 27112,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 22984,
-      "num": 277852,
-      "word": "航天员拍摄的蔚蓝地球",
-      "onboard_time": 1708437273,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21213,
-      "num": 21213,
-      "word": "男子游神现场cos赵世子被马夫鞭打",
-      "onboard_time": 1708457237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20481,
-      "num": 20481,
-      "word": "姆巴佩签字费达1.5亿欧",
-      "onboard_time": 1708467677,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18510,
       "num": 18510,
       "word": "生死面前什么是更好的抉择",
       "onboard_time": 1708463297,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 16940,
-      "num": 16940,
-      "word": "济南的雪盐里盐气的",
-      "onboard_time": 1708468158,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 15738,
-      "num": 16932,
-      "word": "知道许昕家缺什么了缺观众席",
-      "onboard_time": 1708458018,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 12989,

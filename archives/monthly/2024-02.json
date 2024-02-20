@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708468452292,
+  "endTime": 1708471012834,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -14075,6 +14075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 500817,
+      "num": 500817,
+      "word": "上海暴雨",
+      "onboard_time": 1708463356,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500743,
       "num": 453414,
       "word": "春晚导演模仿小尼内心戏",
@@ -19600,14 +19608,6 @@
       "word": "大理通报游客被骂穷光蛋",
       "onboard_time": 1707544414,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353395,
-      "num": 353395,
-      "word": "上海暴雨",
-      "onboard_time": 1708463356,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -35227,6 +35227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188452,
+      "num": 164638,
+      "word": "当哈尔滨收起来玩具后的本地人",
+      "onboard_time": 1708447351,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188438,
       "num": 188438,
       "word": "返程 堵车",
@@ -37337,14 +37345,6 @@
       "onboard_time": 1708342539,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 176674,
-      "num": 136673,
-      "word": "当哈尔滨收起来玩具后的本地人",
-      "onboard_time": 1708447351,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 176663,
@@ -40561,6 +40561,14 @@
       "onboard_time": 1708034597,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160681,
+      "num": 160681,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 160653,
@@ -45945,6 +45953,14 @@
       "onboard_time": 1707224490,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134223,
+      "num": 134223,
+      "word": "明星后援会是怎么运作的",
+      "onboard_time": 1708466057,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 134222,
@@ -51699,6 +51715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94264,
+      "num": 94264,
+      "word": "姆巴佩签字费达1.5亿欧",
+      "onboard_time": 1708467677,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94212,
       "num": 94212,
       "word": "奶牛猫舞团新舞蹈",
@@ -52443,14 +52467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80588,
-      "num": 73496,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80300,
       "num": 80300,
       "word": "间谍过家家 电锯阿尼亚",
@@ -52633,6 +52649,14 @@
       "onboard_time": 1707448588,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77702,
+      "num": 77702,
+      "word": "朋友圈下了好大的雪",
+      "onboard_time": 1708470142,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 77467,
@@ -53067,6 +53091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64810,
+      "num": 64810,
+      "word": "以为大家开玩笑的你家是真有",
+      "onboard_time": 1708459396,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64716,
       "num": 245330,
       "word": "奶奶编发",
@@ -53113,6 +53145,14 @@
       "onboard_time": 1708309951,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 63992,
+      "num": 63992,
+      "word": "济南的雪盐里盐气的",
+      "onboard_time": 1708468158,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 63905,
@@ -53219,6 +53259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61188,
+      "num": 424447,
+      "word": "航天员拍摄的蔚蓝地球",
+      "onboard_time": 1708437273,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60939,
       "num": 161137,
       "word": "拍出大红大紫的新年氛围感",
@@ -53281,6 +53329,14 @@
       "onboard_time": 1707434302,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58698,
+      "num": 58698,
+      "word": "十年前抽过的烟至今还在伤害免疫系统",
+      "onboard_time": 1708458557,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 58659,
@@ -53491,6 +53547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54783,
+      "num": 54783,
+      "word": "山东下的是霰不是雪",
+      "onboard_time": 1708470982,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54638,
       "num": 1095544,
       "word": "解锁龙年各地年味儿",
@@ -53553,14 +53617,6 @@
       "onboard_time": 1708449024,
       "rank": 41,
       "category": "旅游,网红"
-    },
-    {
-      "raw_hot": 52511,
-      "num": 52511,
-      "word": "明星后援会是怎么运作的",
-      "onboard_time": 1708466057,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 52284,
@@ -53897,6 +53953,14 @@
       "onboard_time": 1707859516,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 46357,
+      "num": 46357,
+      "word": "男子游神现场cos赵世子被马夫鞭打",
+      "onboard_time": 1708457237,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46229,
@@ -54403,6 +54467,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 35674,
+      "num": 35674,
+      "word": "知道许昕家缺什么了缺观众席",
+      "onboard_time": 1708458018,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35543,
       "num": 35543,
       "word": "元气森林创始人称要向华为学习",
@@ -54585,14 +54657,6 @@
       "onboard_time": 1708229313,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32522,
-      "num": 32522,
-      "word": "十年前抽过的烟至今还在伤害免疫系统",
-      "onboard_time": 1708458557,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 32336,
@@ -54859,14 +54923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27112,
-      "num": 27112,
-      "word": "以为大家开玩笑的你家是真有",
-      "onboard_time": 1708459396,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 26945,
       "num": 223755,
       "word": "迪迦在元梦之星上班",
@@ -55075,14 +55131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 22984,
-      "num": 277852,
-      "word": "航天员拍摄的蔚蓝地球",
-      "onboard_time": 1708437273,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22422,
       "num": 24659,
       "word": "没想到肌肉男有自己的年检",
@@ -55179,14 +55227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21213,
-      "num": 21213,
-      "word": "男子游神现场cos赵世子被马夫鞭打",
-      "onboard_time": 1708457237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21022,
       "num": 216147,
       "word": "蛋仔喊你回家过年",
@@ -55233,14 +55273,6 @@
       "onboard_time": 1707252616,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20481,
-      "num": 20481,
-      "word": "姆巴佩签字费达1.5亿欧",
-      "onboard_time": 1708467677,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 20426,
@@ -55443,14 +55475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16940,
-      "num": 16940,
-      "word": "济南的雪盐里盐气的",
-      "onboard_time": 1708468158,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 16757,
       "num": 19045,
       "word": "回南天 独属南方人的中式怪谈",
@@ -55537,14 +55561,6 @@
       "onboard_time": 1706731816,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15738,
-      "num": 16932,
-      "word": "知道许昕家缺什么了缺观众席",
-      "onboard_time": 1708458018,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 15732,
