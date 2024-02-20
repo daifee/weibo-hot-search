@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708425234913,
+  "endTime": 1708427721662,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2135014,
+      "num": 2135014,
+      "word": "文旅局称没有邀请男网红扮游神",
+      "onboard_time": 1708420479,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2121910,
       "num": 2121910,
       "word": "网红张美丽被逮捕",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1707378809,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1973383,
-      "num": 1973383,
-      "word": "文旅局称没有邀请男网红扮游神",
-      "onboard_time": 1708420479,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1973345,
@@ -3707,6 +3707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285327,
+      "num": 1285327,
+      "word": "cos赵世子男网红道歉",
+      "onboard_time": 1708424558,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283349,
       "num": 1283349,
       "word": "浦东机场",
@@ -5323,6 +5331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1045645,
+      "num": 1045645,
+      "word": "百元之恋导演编剧祝贺贾玲",
+      "onboard_time": 1708420898,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1043743,
       "num": 1043743,
       "word": "胖东来未按标准试吃员工被开除",
@@ -5417,14 +5433,6 @@
       "onboard_time": 1707665493,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1027046,
-      "num": 1027046,
-      "word": "百元之恋导演编剧祝贺贾玲",
-      "onboard_time": 1708420898,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 1024253,
@@ -6083,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942705,
+      "num": 942705,
+      "word": "高校回应导师被曝与女学生有不当关系",
+      "onboard_time": 1708421139,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942565,
       "num": 425172,
       "word": "老百姓为什么不愿意贷款买房了",
@@ -6419,12 +6435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 901929,
+      "num": 901929,
+      "word": "柳鑫宇自曝事件",
+      "onboard_time": 1708422637,
+      "rank": 21,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 901558,
       "num": 901558,
       "word": "四美",
       "onboard_time": 1707441988,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 899582,
+      "num": 899582,
+      "word": "泰山太牛了",
+      "onboard_time": 1708424141,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 897328,
@@ -6521,14 +6553,6 @@
       "onboard_time": 1708398094,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 889270,
-      "num": 889270,
-      "word": "泰山太牛了",
-      "onboard_time": 1708424141,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 889156,
@@ -7692,7 +7716,7 @@
     },
     {
       "raw_hot": 801952,
-      "num": 889475,
+      "num": 899628,
       "word": "2万多游客滞留5万人小县倾城接待",
       "onboard_time": 1708403681,
       "rank": 48,
@@ -7713,6 +7737,14 @@
       "onboard_time": 1707462629,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 800324,
+      "num": 800324,
+      "word": "清华大学教授称我们的教育没有教孩子如何开心",
+      "onboard_time": 1708422095,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 800301,
@@ -7881,6 +7913,14 @@
       "onboard_time": 1707696566,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 791453,
+      "num": 791453,
+      "word": "梅西AI",
+      "onboard_time": 1708425278,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 791392,
@@ -8393,14 +8433,6 @@
       "onboard_time": 1707260662,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 756241,
-      "num": 756241,
-      "word": "高校回应导师被曝与女学生有不当关系",
-      "onboard_time": 1708421139,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 756045,
@@ -10585,14 +10617,6 @@
       "onboard_time": 1707522389,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 636234,
-      "num": 636234,
-      "word": "清华大学教授称我们的教育没有教孩子如何开心",
-      "onboard_time": 1708422095,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 635810,
@@ -14563,14 +14587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 479679,
-      "num": 479679,
-      "word": "cos赵世子男网红道歉",
-      "onboard_time": 1708424558,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479349,
       "num": 393170,
       "word": "票房",
@@ -14617,14 +14633,6 @@
       "onboard_time": 1707117935,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 478748,
-      "num": 478748,
-      "word": "柳鑫宇自曝事件",
-      "onboard_time": 1708422637,
-      "rank": 21,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 478307,
@@ -18315,6 +18323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 374452,
+      "num": 374452,
+      "word": "丞磊下水捞周也",
+      "onboard_time": 1708425579,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374438,
       "num": 374438,
       "word": "近1700股跌超9%",
@@ -21579,6 +21595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307409,
+      "num": 307409,
+      "word": "爸妈要给弟弟买房写我的名字",
+      "onboard_time": 1708424917,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307392,
       "num": 307392,
       "word": "湖北高速",
@@ -21633,6 +21657,14 @@
       "onboard_time": 1706864614,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306201,
+      "num": 306201,
+      "word": "这单外卖我能吹一辈子",
+      "onboard_time": 1708426059,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306033,
@@ -21921,6 +21953,14 @@
       "onboard_time": 1706745928,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302771,
+      "num": 396765,
+      "word": "原神",
+      "onboard_time": 1706833711,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 302741,
@@ -22425,14 +22465,6 @@
       "onboard_time": 1708215628,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293065,
-      "num": 396765,
-      "word": "原神",
-      "onboard_time": 1706833711,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 293006,
@@ -23819,6 +23851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274492,
+      "num": 274492,
+      "word": "李铁去世系谣言",
+      "onboard_time": 1708427137,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274327,
       "num": 274327,
       "word": "辽视春晚收视率",
@@ -24347,6 +24387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 268034,
+      "num": 900054,
+      "word": "原来真的会有大侠从天而降来救你",
+      "onboard_time": 1708424076,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268010,
       "num": 268010,
       "word": "舅舅买试卷送丢寒假作业的秦朗",
@@ -24689,14 +24737,6 @@
       "onboard_time": 1707389674,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262793,
-      "num": 262793,
-      "word": "爸妈要给弟弟买房写我的名字",
-      "onboard_time": 1708424917,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 262707,
@@ -25257,6 +25297,14 @@
       "onboard_time": 1707476130,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256084,
+      "num": 256084,
+      "word": "老爸吐槽00后女儿像头猪",
+      "onboard_time": 1708425518,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 255924,
@@ -26779,6 +26827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 240345,
+      "num": 240345,
+      "word": "努力凑够400万可怜可怜他",
+      "onboard_time": 1708425218,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240291,
       "num": 319638,
       "word": "日本男团3比1中国台北",
@@ -27657,6 +27713,14 @@
       "onboard_time": 1707216871,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232513,
+      "num": 232513,
+      "word": "大理寺少卿游",
+      "onboard_time": 1708426177,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 232509,
@@ -29105,6 +29169,14 @@
       "onboard_time": 1707486741,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 220076,
+      "num": 220076,
+      "word": "小学生幼稚大学生刚刚好的文具",
+      "onboard_time": 1708426422,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 220060,
@@ -34331,6 +34403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190366,
+      "num": 190366,
+      "word": "山东泰山绝杀",
+      "onboard_time": 1708426655,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190364,
       "num": 190364,
       "word": "妈妈洗猫和洗衣服一样的手法",
@@ -35427,14 +35507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184145,
-      "num": 890848,
-      "word": "原来真的会有大侠从天而降来救你",
-      "onboard_time": 1708424076,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184139,
       "num": 184139,
       "word": "意大利的猫和人一样抗造",
@@ -35609,6 +35681,14 @@
       "onboard_time": 1706948191,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183385,
+      "num": 183385,
+      "word": "上班选哪个工位最好",
+      "onboard_time": 1708425635,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 183321,
@@ -38995,12 +39075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165510,
+      "num": 165510,
+      "word": "陈靖可面试过封神",
+      "onboard_time": 1708425761,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165508,
       "num": 165508,
       "word": "景区钢索桥侧翻多名游客倒挂空中",
       "onboard_time": 1707890674,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165506,
+      "num": 165506,
+      "word": "王大雷红牌取消",
+      "onboard_time": 1708425761,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 165373,
@@ -39833,14 +39929,6 @@
       "onboard_time": 1707558635,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "努力凑够400万可怜可怜他",
-      "onboard_time": 1708425218,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 161015,

@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708425234913,
+  "endTime": 1708427721662,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -115,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2135014,
+      "num": 2135014,
+      "word": "文旅局称没有邀请男网红扮游神",
+      "onboard_time": 1708420479,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2089851,
       "num": 2089851,
       "word": "梅西回应",
       "onboard_time": 1708348178,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1973383,
-      "num": 1973383,
-      "word": "文旅局称没有邀请男网红扮游神",
-      "onboard_time": 1708420479,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1897040,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285327,
+      "num": 1285327,
+      "word": "cos赵世子男网红道歉",
+      "onboard_time": 1708424558,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1268746,
       "num": 1268746,
       "word": "白鹿替身发文",
@@ -299,8 +307,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1027046,
-      "num": 1027046,
+      "raw_hot": 1045645,
+      "num": 1045645,
       "word": "百元之恋导演编剧祝贺贾玲",
       "onboard_time": 1708420898,
       "rank": 28,
@@ -313,6 +321,14 @@
       "onboard_time": 1708395575,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 942705,
+      "num": 942705,
+      "word": "高校回应导师被曝与女学生有不当关系",
+      "onboard_time": 1708421139,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929907,
@@ -337,6 +353,22 @@
       "onboard_time": 1708384343,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 901929,
+      "num": 901929,
+      "word": "柳鑫宇自曝事件",
+      "onboard_time": 1708422637,
+      "rank": 21,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 899582,
+      "num": 899582,
+      "word": "泰山太牛了",
+      "onboard_time": 1708424141,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 896612,
@@ -379,14 +411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 889270,
-      "num": 889270,
-      "word": "泰山太牛了",
-      "onboard_time": 1708424141,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 880493,
       "num": 740036,
       "word": "柳鑫宇本人账号发声",
@@ -412,11 +436,19 @@
     },
     {
       "raw_hot": 801952,
-      "num": 889475,
+      "num": 899628,
       "word": "2万多游客滞留5万人小县倾城接待",
       "onboard_time": 1708403681,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 800324,
+      "num": 800324,
+      "word": "清华大学教授称我们的教育没有教孩子如何开心",
+      "onboard_time": 1708422095,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 796756,
@@ -425,6 +457,14 @@
       "onboard_time": 1708392872,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791453,
+      "num": 791453,
+      "word": "梅西AI",
+      "onboard_time": 1708425278,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 767563,
@@ -440,14 +480,6 @@
       "word": "100万房贷30年少还5.2万",
       "onboard_time": 1708396054,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756241,
-      "num": 756241,
-      "word": "高校回应导师被曝与女学生有不当关系",
-      "onboard_time": 1708421139,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1708403501,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 636234,
-      "num": 636234,
-      "word": "清华大学教授称我们的教育没有教孩子如何开心",
-      "onboard_time": 1708422095,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 626109,
@@ -763,22 +787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 479679,
-      "num": 479679,
-      "word": "cos赵世子男网红道歉",
-      "onboard_time": 1708424558,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478748,
-      "num": 478748,
-      "word": "柳鑫宇自曝事件",
-      "onboard_time": 1708422637,
-      "rank": 21,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 449670,
       "num": 449670,
       "word": "北京下雪",
@@ -947,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374452,
+      "num": 374452,
+      "word": "丞磊下水捞周也",
+      "onboard_time": 1708425579,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371842,
       "num": 371842,
       "word": "男子偷16000元柯尔鸭后自己报警",
@@ -977,6 +993,14 @@
       "onboard_time": 1708418678,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360000,
+      "num": 360000,
+      "word": "新疆地震",
+      "onboard_time": 1708427379,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359201,
@@ -1099,12 +1123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307409,
+      "num": 307409,
+      "word": "爸妈要给弟弟买房写我的名字",
+      "onboard_time": 1708424917,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 306201,
+      "num": 306201,
+      "word": "这单外卖我能吹一辈子",
+      "onboard_time": 1708426059,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304093,
       "num": 304093,
       "word": "爸爸吃薯片吃出金手串高兴坏了",
       "onboard_time": 1708393293,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302771,
+      "num": 302771,
+      "word": "原神",
+      "onboard_time": 1708426776,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 300518,
@@ -1227,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274492,
+      "num": 274492,
+      "word": "李铁去世系谣言",
+      "onboard_time": 1708427137,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274230,
       "num": 274230,
       "word": "苹果2026年或将销售可折叠iPhone",
@@ -1243,20 +1299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268034,
+      "num": 900054,
+      "word": "原来真的会有大侠从天而降来救你",
+      "onboard_time": 1708424076,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265362,
       "num": 265362,
       "word": "Kpop可汗大点兵",
       "onboard_time": 1708418140,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262793,
-      "num": 262793,
-      "word": "爸妈要给弟弟买房写我的名字",
-      "onboard_time": 1708424917,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 260532,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1708336358,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256084,
+      "num": 256084,
+      "word": "老爸吐槽00后女儿像头猪",
+      "onboard_time": 1708425518,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 254386,
@@ -1371,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240345,
+      "num": 240345,
+      "word": "努力凑够400万可怜可怜他",
+      "onboard_time": 1708425218,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239533,
       "num": 239533,
       "word": "公司缴社保与个人缴社保的退休金差距",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1708395575,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 232513,
+      "num": 232513,
+      "word": "大理寺少卿游",
+      "onboard_time": 1708426177,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 227619,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1708407639,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 220076,
+      "num": 220076,
+      "word": "小学生幼稚大学生刚刚好的文具",
+      "onboard_time": 1708426422,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 220049,
@@ -1627,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190366,
+      "num": 190366,
+      "word": "山东泰山绝杀",
+      "onboard_time": 1708426655,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189629,
       "num": 189629,
       "word": "德国传奇球星布雷默去世",
@@ -1651,8 +1747,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188734,
-      "num": 188734,
+      "raw_hot": 189276,
+      "num": 189276,
       "word": "短道速滑",
       "onboard_time": 1708424439,
       "rank": 43,
@@ -1707,12 +1803,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 184145,
-      "num": 890848,
-      "word": "原来真的会有大侠从天而降来救你",
-      "onboard_time": 1708424076,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 183385,
+      "num": 183385,
+      "word": "上班选哪个工位最好",
+      "onboard_time": 1708425635,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 182842,
@@ -1883,12 +1979,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "努力凑够400万可怜可怜他",
-      "onboard_time": 1708425218,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 165510,
+      "num": 165510,
+      "word": "陈靖可面试过封神",
+      "onboard_time": 1708425761,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 165506,
+      "num": 165506,
+      "word": "王大雷红牌取消",
+      "onboard_time": 1708425761,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 160460,
