@@ -1,0 +1,410 @@
+{
+  "runTime": 1708413408703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5995211,
+        "num": 5995211,
+        "word": "王诗玥声明柳鑫宇被盗号",
+        "onboard_time": 1708406319,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 3040755,
+        "num": 3040755,
+        "word": "警方回应上海出轨女教师丈夫笔录流出",
+        "onboard_time": 1708409201,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81875,
+        "num": 2818423,
+        "word": "新春第一会省委书记们最关心什么事",
+        "onboard_time": 1708405361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2651765,
+        "num": 2651765,
+        "word": "多部门已介入核查柳鑫宇自曝事件",
+        "onboard_time": 1708408239,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1332521,
+        "num": 1332521,
+        "word": "乐华公布王一博维权案进展",
+        "onboard_time": 1708410760,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977608,
+        "num": 977608,
+        "word": "女教师出轨事件不能有强弱逻辑",
+        "onboard_time": 1708410819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692040,
+        "num": 692040,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 579187,
+        "num": 579187,
+        "word": "肯德基回应全面开收打包费",
+        "onboard_time": 1708407883,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 468859,
+        "num": 468859,
+        "word": "韩国大批医生集体辞职",
+        "onboard_time": 1708402718,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426540,
+        "num": 426540,
+        "word": "种地吧2定档",
+        "onboard_time": 1708411359,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415146,
+        "num": 415146,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399354,
+        "num": 399354,
+        "word": "MCN公司回应男网红cos游神赵世子",
+        "onboard_time": 1708409741,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395886,
+        "num": 395886,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 310879,
+        "num": 310879,
+        "word": "农村老人看电视越来越难",
+        "onboard_time": 1708409138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306146,
+        "num": 306146,
+        "word": "下月要还的房贷会立刻减少吗",
+        "onboard_time": 1708412561,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302994,
+        "num": 302994,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293876,
+        "num": 293876,
+        "word": "吴磊一杆长台镜头打了38次",
+        "onboard_time": 1708412740,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292716,
+        "num": 292716,
+        "word": "2万多游客滞留5万人小县倾城接待",
+        "onboard_time": 1708403681,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 273107,
+        "num": 273107,
+        "word": "白鹿凤冠",
+        "onboard_time": 1708407580,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272121,
+        "num": 272121,
+        "word": "张天爱回应太子妃标签",
+        "onboard_time": 1708408960,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392042,
+        "num": 271889,
+        "word": "每天吃一瓣大蒜身体会有什么变化",
+        "onboard_time": 1708410400,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270831,
+        "num": 270831,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252998,
+        "num": 252998,
+        "word": "陈卓璇报平安",
+        "onboard_time": 1708408058,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252033,
+        "num": 252033,
+        "word": "恋爱元年",
+        "onboard_time": 1708410340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244223,
+        "num": 244223,
+        "word": "当代年轻人的玄学",
+        "onboard_time": 1708411119,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242058,
+        "num": 242058,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 236850,
+        "num": 236850,
+        "word": "生娃后我从母亲的女儿变成儿媳",
+        "onboard_time": 1708405001,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230735,
+        "num": 230735,
+        "word": "刘恋做甲方乙得很明显",
+        "onboard_time": 1708412860,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227339,
+        "num": 227339,
+        "word": "Uzi加盟LZG",
+        "onboard_time": 1708413160,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157520,
+        "num": 227141,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279514,
+        "num": 227141,
+        "word": "疑似出轨学生女教师丈夫问话笔录流出",
+        "onboard_time": 1708413095,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227034,
+        "num": 227034,
+        "word": "女子花1万6买好全年假期旅行机票",
+        "onboard_time": 1708401159,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 223187,
+        "num": 223187,
+        "word": "梅西本人已在中国注册姓名商标",
+        "onboard_time": 1708401640,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221610,
+        "num": 221610,
+        "word": "五条悟 富家公子哥",
+        "onboard_time": 1708412618,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 212644,
+        "num": 212644,
+        "word": "letme爆料朱开到处求职",
+        "onboard_time": 1708407940,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212631,
+        "num": 212631,
+        "word": "狠下心来学习",
+        "onboard_time": 1708407639,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210370,
+        "num": 210370,
+        "word": "游神",
+        "onboard_time": 1708412979,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209993,
+        "num": 209993,
+        "word": "榆林通报高中班主任被指对学生做出不轨行为",
+        "onboard_time": 1708407765,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207870,
+        "num": 207870,
+        "word": "汤唯的自拍技术",
+        "onboard_time": 1708412495,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203736,
+        "num": 203736,
+        "word": "张若昀时隔9年再演反派",
+        "onboard_time": 1708407218,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180901,
+        "num": 180901,
+        "word": "遇到一只萨摩耶和一只萨摩唉",
+        "onboard_time": 1708406621,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177555,
+        "num": 177555,
+        "word": "广东最低温将破0",
+        "onboard_time": 1708411835,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174169,
+        "num": 174169,
+        "word": "火灾丧命的人不是先被烧死的",
+        "onboard_time": 1708412197,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168394,
+        "num": 168394,
+        "word": "范丞丞代言华莱士",
+        "onboard_time": 1708402062,
+        "rank": 43,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 159720,
+        "num": 159720,
+        "word": "柳鑫宇十四冬赛程",
+        "onboard_time": 1708402300,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153043,
+        "num": 153043,
+        "word": "同学聚会少谈感情只求人脉",
+        "onboard_time": 1708409259,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150457,
+        "num": 150457,
+        "word": "媒体评女教师出轨事件陷侵权争议",
+        "onboard_time": 1708407580,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143684,
+        "num": 143684,
+        "word": "吕克贝松 广末凉子",
+        "onboard_time": 1708397735,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137183,
+        "num": 137183,
+        "word": "考公正在成为印度年轻人的执念",
+        "onboard_time": 1708398336,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133246,
+        "num": 133246,
+        "word": "李想反讽复盘2023",
+        "onboard_time": 1708411656,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}

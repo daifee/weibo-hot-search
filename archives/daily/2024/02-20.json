@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708410856083,
+  "endTime": 1708413408703,
   "band_list": [
     {
       "raw_hot": 9137872,
@@ -40,6 +40,14 @@
       "word": "女教师聊天记录",
       "onboard_time": 1708357117,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3040755,
+      "num": 3040755,
+      "word": "警方回应上海出轨女教师丈夫笔录流出",
+      "onboard_time": 1708409201,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -88,14 +96,6 @@
       "word": "韩国大批医生集体辞职",
       "onboard_time": 1708402718,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1895822,
-      "num": 1895822,
-      "word": "警方回应上海出轨女教师丈夫笔录流出",
-      "onboard_time": 1708409201,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1332521,
+      "num": 1332521,
+      "word": "乐华公布王一博维权案进展",
+      "onboard_time": 1708410760,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1309478,
       "num": 1309478,
       "word": "梅西本人已在中国注册姓名商标",
@@ -216,6 +224,14 @@
       "word": "女教师",
       "onboard_time": 1708356936,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977608,
+      "num": 977608,
+      "word": "女教师出轨事件不能有强弱逻辑",
+      "onboard_time": 1708410819,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -419,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 586662,
-      "num": 225354,
-      "word": "乐华公布王一博维权案进展",
-      "onboard_time": 1708410760,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 584980,
       "num": 584980,
       "word": "打一肚子腹稿结果亲戚降级了",
@@ -443,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579187,
+      "num": 579187,
+      "word": "肯德基回应全面开收打包费",
+      "onboard_time": 1708407883,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 575998,
       "num": 575998,
       "word": "杨迪爆改",
       "onboard_time": 1708344698,
       "rank": 5,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 554335,
-      "num": 554335,
-      "word": "肯德基回应全面开收打包费",
-      "onboard_time": 1708407883,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 553521,
@@ -523,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426540,
+      "num": 426540,
+      "word": "种地吧2定档",
+      "onboard_time": 1708411359,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415951,
       "num": 415951,
       "word": "尹子维徐冬冬婚礼真人秀",
@@ -561,6 +577,22 @@
       "onboard_time": 1708354839,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 399354,
+      "num": 399354,
+      "word": "MCN公司回应男网红cos游神赵世子",
+      "onboard_time": 1708409741,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392042,
+      "num": 271889,
+      "word": "每天吃一瓣大蒜身体会有什么变化",
+      "onboard_time": 1708410400,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 388541,
@@ -683,12 +715,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310879,
+      "num": 310879,
+      "word": "农村老人看电视越来越难",
+      "onboard_time": 1708409138,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308967,
       "num": 308967,
       "word": "陈靖可早期ins",
       "onboard_time": 1708395216,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306146,
+      "num": 306146,
+      "word": "下月要还的房贷会立刻减少吗",
+      "onboard_time": 1708412561,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 304093,
@@ -731,6 +779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 293876,
+      "num": 293876,
+      "word": "吴磊一杆长台镜头打了38次",
+      "onboard_time": 1708412740,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292466,
       "num": 292466,
       "word": "恋与制作人 寒山独见卿",
@@ -763,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279514,
+      "num": 227141,
+      "word": "疑似出轨学生女教师丈夫问话笔录流出",
+      "onboard_time": 1708413095,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278269,
       "num": 278269,
       "word": "妈妈我能不能拆开这箱奶",
@@ -787,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263642,
-      "num": 263642,
-      "word": "MCN公司回应男网红cos游神赵世子",
-      "onboard_time": 1708409741,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258731,
       "num": 258731,
       "word": "胡夏 爱你的事当做秘密",
@@ -803,12 +859,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252467,
-      "num": 252467,
-      "word": "农村老人看电视越来越难",
-      "onboard_time": 1708409138,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 252033,
+      "num": 252033,
+      "word": "恋爱元年",
+      "onboard_time": 1708410340,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 251114,
@@ -843,20 +899,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244223,
+      "num": 244223,
+      "word": "当代年轻人的玄学",
+      "onboard_time": 1708411119,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243025,
       "num": 243025,
       "word": "当小狗突然意识到自己长了尾巴",
       "onboard_time": 1708386448,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241245,
-      "num": 241245,
-      "word": "恋爱元年",
-      "onboard_time": 1708410340,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 241102,
@@ -899,6 +955,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230735,
+      "num": 230735,
+      "word": "刘恋做甲方乙得很明显",
+      "onboard_time": 1708412860,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227619,
       "num": 227619,
       "word": "南来北往剧情坐高铁了",
@@ -915,12 +979,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227339,
+      "num": 227339,
+      "word": "Uzi加盟LZG",
+      "onboard_time": 1708413160,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226871,
       "num": 226871,
       "word": "二月天杨柳醉春烟",
       "onboard_time": 1708402477,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221610,
+      "num": 221610,
+      "word": "五条悟 富家公子哥",
+      "onboard_time": 1708412618,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 220480,
@@ -979,12 +1059,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 210370,
+      "num": 210370,
+      "word": "游神",
+      "onboard_time": 1708412979,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210178,
       "num": 210178,
       "word": "LPR",
       "onboard_time": 1708395873,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207870,
+      "num": 207870,
+      "word": "汤唯的自拍技术",
+      "onboard_time": 1708412495,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 205108,
@@ -1115,14 +1211,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 183128,
-      "num": 183128,
-      "word": "每天吃一瓣大蒜身体会有什么变化",
-      "onboard_time": 1708410400,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 178929,
       "num": 178929,
       "word": "武汉打雷",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1708356702,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177555,
+      "num": 177555,
+      "word": "广东最低温将破0",
+      "onboard_time": 1708411835,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176535,
@@ -1169,6 +1265,14 @@
       "onboard_time": 1708394552,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174169,
+      "num": 174169,
+      "word": "火灾丧命的人不是先被烧死的",
+      "onboard_time": 1708412197,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173910,
@@ -1427,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133246,
+      "num": 133246,
+      "word": "李想反讽复盘2023",
+      "onboard_time": 1708411656,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132091,
       "num": 132091,
       "word": "胡锡进称接受梅西这番解释",
@@ -1440,14 +1552,6 @@
       "word": "曝光别人聊天记录违法吗",
       "onboard_time": 1708339661,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130353,
-      "num": 130353,
-      "word": "女教师出轨事件不能有强弱逻辑",
-      "onboard_time": 1708410819,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1619,20 +1723,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81875,
+      "num": 2818423,
+      "word": "新春第一会省委书记们最关心什么事",
+      "onboard_time": 1708405361,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76232,
       "num": 76232,
       "word": "孙艺洲 演傻子怎么还有统治区",
       "onboard_time": 1708349265,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 61621,
-      "num": 2781833,
-      "word": "新春第一会省委书记们最关心什么事",
-      "onboard_time": 1708405361,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59751,

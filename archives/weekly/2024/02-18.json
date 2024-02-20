@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708410856083,
+  "endTime": 1708413408703,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -105,6 +105,14 @@
       "onboard_time": 1708325438,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3040755,
+      "num": 3040755,
+      "word": "警方回应上海出轨女教师丈夫笔录流出",
+      "onboard_time": 1708409201,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2989681,
@@ -280,14 +288,6 @@
       "word": "韩国大批医生集体辞职",
       "onboard_time": 1708402718,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1895822,
-      "num": 1895822,
-      "word": "警方回应上海出轨女教师丈夫笔录流出",
-      "onboard_time": 1708409201,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -563,6 +563,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 1332521,
+      "num": 1332521,
+      "word": "乐华公布王一博维权案进展",
+      "onboard_time": 1708410760,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1319821,
       "num": 1319821,
       "word": "比亚迪降价",
@@ -833,6 +841,14 @@
       "onboard_time": 1708242394,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 977608,
+      "num": 977608,
+      "word": "女教师出轨事件不能有强弱逻辑",
+      "onboard_time": 1708410819,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977207,
@@ -1651,14 +1667,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 586662,
-      "num": 225354,
-      "word": "乐华公布王一博维权案进展",
-      "onboard_time": 1708410760,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 584980,
       "num": 584980,
       "word": "打一肚子腹稿结果亲戚降级了",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1708249895,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579187,
+      "num": 579187,
+      "word": "肯德基回应全面开收打包费",
+      "onboard_time": 1708407883,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 575530,
@@ -1753,14 +1769,6 @@
       "onboard_time": 1708272029,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 554335,
-      "num": 554335,
-      "word": "肯德基回应全面开收打包费",
-      "onboard_time": 1708407883,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 552478,
@@ -2243,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426540,
+      "num": 426540,
+      "word": "种地吧2定档",
+      "onboard_time": 1708411359,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426520,
       "num": 426520,
       "word": "北京一老破小2%份额变卖2.62万元",
@@ -2411,6 +2427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 399354,
+      "num": 399354,
+      "word": "MCN公司回应男网红cos游神赵世子",
+      "onboard_time": 1708409741,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396756,
       "num": 396756,
       "word": "我爸的狗和他长得越来越像了",
@@ -2432,6 +2456,14 @@
       "word": "静坐4小时就可能长血栓",
       "onboard_time": 1708319254,
       "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 392042,
+      "num": 271889,
+      "word": "每天吃一瓣大蒜身体会有什么变化",
+      "onboard_time": 1708410400,
+      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -3003,6 +3035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310879,
+      "num": 310879,
+      "word": "农村老人看电视越来越难",
+      "onboard_time": 1708409138,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310531,
       "num": 360166,
       "word": "库里三分的神",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1708305455,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 306146,
+      "num": 306146,
+      "word": "下月要还的房贷会立刻减少吗",
+      "onboard_time": 1708412561,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 305568,
@@ -3185,6 +3233,14 @@
       "onboard_time": 1708229554,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293876,
+      "num": 293876,
+      "word": "吴磊一杆长台镜头打了38次",
+      "onboard_time": 1708412740,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 293312,
@@ -3353,6 +3409,14 @@
       "onboard_time": 1708332824,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279514,
+      "num": 227141,
+      "word": "疑似出轨学生女教师丈夫问话笔录流出",
+      "onboard_time": 1708413095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278897,
@@ -3563,14 +3627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263642,
-      "num": 263642,
-      "word": "MCN公司回应男网红cos游神赵世子",
-      "onboard_time": 1708409741,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263616,
       "num": 263616,
       "word": "这个班真就非上不可吗",
@@ -3651,20 +3707,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252467,
-      "num": 252467,
-      "word": "农村老人看电视越来越难",
-      "onboard_time": 1708409138,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252289,
       "num": 252289,
       "word": "上班前3天不宜安排高强度工作",
       "onboard_time": 1708247016,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252033,
+      "num": 252033,
+      "word": "恋爱元年",
+      "onboard_time": 1708410340,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 251114,
@@ -3835,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244223,
+      "num": 244223,
+      "word": "当代年轻人的玄学",
+      "onboard_time": 1708411119,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243948,
       "num": 243948,
       "word": "投资者50万买基金亏30%起诉代销行",
@@ -3865,14 +3929,6 @@
       "onboard_time": 1708225711,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241245,
-      "num": 241245,
-      "word": "恋爱元年",
-      "onboard_time": 1708410340,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 241102,
@@ -4011,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230735,
+      "num": 230735,
+      "word": "刘恋做甲方乙得很明显",
+      "onboard_time": 1708412860,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229888,
       "num": 229888,
       "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
@@ -4049,6 +4113,14 @@
       "onboard_time": 1708406621,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227339,
+      "num": 227339,
+      "word": "Uzi加盟LZG",
+      "onboard_time": 1708413160,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 227222,
@@ -4177,6 +4249,14 @@
       "onboard_time": 1708232376,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221610,
+      "num": 221610,
+      "word": "五条悟 富家公子哥",
+      "onboard_time": 1708412618,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 221391,
@@ -4427,6 +4507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210370,
+      "num": 210370,
+      "word": "游神",
+      "onboard_time": 1708412979,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210276,
       "num": 210276,
       "word": "汪苏泷给马丽贾玲刘德华送手链",
@@ -4457,6 +4545,14 @@
       "onboard_time": 1708318122,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207870,
+      "num": 207870,
+      "word": "汤唯的自拍技术",
+      "onboard_time": 1708412495,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 207344,
@@ -5091,14 +5187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183128,
-      "num": 183128,
-      "word": "每天吃一瓣大蒜身体会有什么变化",
-      "onboard_time": 1708410400,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182847,
       "num": 182847,
       "word": "马思纯两年前vs现在",
@@ -5251,6 +5339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177555,
+      "num": 177555,
+      "word": "广东最低温将破0",
+      "onboard_time": 1708411835,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176998,
       "num": 176998,
       "word": "我超爱躺在床上",
@@ -5321,6 +5417,14 @@
       "onboard_time": 1708242153,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174169,
+      "num": 174169,
+      "word": "火灾丧命的人不是先被烧死的",
+      "onboard_time": 1708412197,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 173978,
@@ -6395,6 +6499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133246,
+      "num": 133246,
+      "word": "李想反讽复盘2023",
+      "onboard_time": 1708411656,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133133,
       "num": 133133,
       "word": "这样的猫猫民宿我能天天去",
@@ -6449,14 +6561,6 @@
       "onboard_time": 1708180535,
       "rank": 38,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 130353,
-      "num": 130353,
-      "word": "女教师出轨事件不能有强弱逻辑",
-      "onboard_time": 1708410819,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130218,
@@ -6883,6 +6987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81875,
+      "num": 2818423,
+      "word": "新春第一会省委书记们最关心什么事",
+      "onboard_time": 1708405361,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81219,
       "num": 81219,
       "word": "中国队4x100自由泳混合接力夺金",
@@ -6921,14 +7033,6 @@
       "onboard_time": 1708276405,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61621,
-      "num": 2781833,
-      "word": "新春第一会省委书记们最关心什么事",
-      "onboard_time": 1708405361,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60791,

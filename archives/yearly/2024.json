@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708410856083,
+  "endTime": 1708413408703,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1707296251,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3040755,
+      "num": 3040755,
+      "word": "警方回应上海出轨女教师丈夫笔录流出",
+      "onboard_time": 1708409201,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3035751,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707956607,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2168732,
-      "num": 2168732,
-      "word": "香港客机与韩国客机在日本机场相撞",
-      "onboard_time": 1705399833,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
