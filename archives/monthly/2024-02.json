@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708439649507,
+  "endTime": 1708442170268,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3771,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280655,
+      "num": 1280655,
+      "word": "肖战工作室倡议书",
+      "onboard_time": 1708441057,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1280117,
       "num": 1280117,
       "word": "用氮气执行死刑",
@@ -4105,6 +4113,14 @@
       "onboard_time": 1707543395,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1228974,
+      "num": 1228974,
+      "word": "冻雨",
+      "onboard_time": 1707107853,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1228487,
@@ -5947,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959695,
+      "num": 744893,
+      "word": "肖战 请不要再蹲守了",
+      "onboard_time": 1708441478,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959536,
       "num": 959536,
       "word": "杨波",
@@ -7649,6 +7673,14 @@
       "onboard_time": 1707498820,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 808921,
+      "num": 808921,
+      "word": "央视网评秦朗丢寒假作业事件",
+      "onboard_time": 1708440879,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808318,
@@ -11435,6 +11467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600352,
+      "num": 578712,
+      "word": "原来孙艺洲这么会开车",
+      "onboard_time": 1708440221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600161,
       "num": 445648,
       "word": "全员加速中",
@@ -14435,6 +14475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488261,
+      "num": 488261,
+      "word": "不化妆素颜出门怎么变好看",
+      "onboard_time": 1708439981,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 487590,
       "num": 361373,
       "word": "妈妈让我工作后每月给家里转三千",
@@ -16115,6 +16163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 430315,
+      "num": 430315,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 430181,
       "num": 346482,
       "word": "女婿陪媳妇回娘家的统一状态",
@@ -16907,6 +16963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411410,
+      "num": 411410,
+      "word": "背薄真的显年轻",
+      "onboard_time": 1708440638,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 411283,
       "num": 411283,
       "word": "年轻人为什么开始爱买黄金",
@@ -17225,6 +17289,14 @@
       "onboard_time": 1707042391,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 402745,
+      "num": 402745,
+      "word": "四六级成绩倒计时",
+      "onboard_time": 1708439741,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 402570,
@@ -21491,14 +21563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311868,
-      "num": 311868,
-      "word": "江西菜是预制菜鄙视链的顶端",
-      "onboard_time": 1708435416,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 311646,
       "num": 311646,
       "word": "王濛 永远不要小看每一分努力",
@@ -23585,14 +23649,6 @@
       "onboard_time": 1707034591,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279758,
-      "num": 279758,
-      "word": "冻雨",
-      "onboard_time": 1707107853,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279757,
@@ -31427,6 +31483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205920,
+      "num": 205920,
+      "word": "姆巴佩同意加盟皇马",
+      "onboard_time": 1708441057,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205877,
       "num": 205877,
       "word": "上海去杭州可以坐飞机了",
@@ -31600,6 +31664,14 @@
       "word": "财神红包秒空月老红包无人领",
       "onboard_time": 1707876032,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205317,
+      "num": 205317,
+      "word": "钱学森写在香烟纸上的求救信",
+      "onboard_time": 1708441360,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -32491,6 +32563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200857,
+      "num": 200857,
+      "word": "郑钦文医疗暂停",
+      "onboard_time": 1708439383,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200847,
       "num": 200847,
       "word": "2025春节倒计时346天",
@@ -32521,6 +32601,14 @@
       "onboard_time": 1707297030,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200767,
+      "num": 200767,
+      "word": "从没想过雪地靴还有这种烂法",
+      "onboard_time": 1708440458,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200736,
@@ -33177,6 +33265,14 @@
       "onboard_time": 1707991354,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197428,
+      "num": 197428,
+      "word": "Ricky最新Challenge",
+      "onboard_time": 1708441901,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 197351,
@@ -38571,14 +38667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169395,
-      "num": 169395,
-      "word": "郑钦文医疗暂停",
-      "onboard_time": 1708439383,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169390,
       "num": 169390,
       "word": "香港消委会收到401宗梅西事件投诉",
@@ -38945,6 +39033,14 @@
       "onboard_time": 1708419160,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167681,
+      "num": 167681,
+      "word": "如果种地吧一期只有一句话",
+      "onboard_time": 1708441296,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 167670,
@@ -39723,6 +39819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164374,
+      "num": 164374,
+      "word": "韩式酱鸡蛋",
+      "onboard_time": 1708439502,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164373,
       "num": 164373,
       "word": "邓佳鑫 新贵妃醉酒",
@@ -39841,6 +39945,14 @@
       "onboard_time": 1708150591,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163465,
+      "num": 163465,
+      "word": "久酷首播",
+      "onboard_time": 1708441478,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 163454,
@@ -42057,14 +42169,6 @@
       "onboard_time": 1707033630,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 151732,
-      "num": 151732,
-      "word": "韩式酱鸡蛋",
-      "onboard_time": 1708439502,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 151700,

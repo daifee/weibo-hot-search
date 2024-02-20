@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708439649507,
+  "endTime": 1708442170268,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280655,
+      "num": 1280655,
+      "word": "肖战工作室倡议书",
+      "onboard_time": 1708441057,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1268746,
       "num": 1268746,
       "word": "白鹿替身发文",
@@ -784,6 +792,14 @@
       "word": "甘肃超2万名旅客滞留",
       "onboard_time": 1708221212,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1228974,
+      "num": 1228974,
+      "word": "冻雨",
+      "onboard_time": 1708439621,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1001,6 +1017,14 @@
       "onboard_time": 1708259552,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959695,
+      "num": 744893,
+      "word": "肖战 请不要再蹲守了",
+      "onboard_time": 1708441478,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 955583,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1708229496,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 808921,
+      "num": 808921,
+      "word": "央视网评秦朗丢寒假作业事件",
+      "onboard_time": 1708440879,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806861,
@@ -1899,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600352,
+      "num": 578712,
+      "word": "原来孙艺洲这么会开车",
+      "onboard_time": 1708440221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597595,
       "num": 597595,
       "word": "成都一家三口共花不到两千离开海南",
@@ -2371,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488261,
+      "num": 488261,
+      "word": "不化妆素颜出门怎么变好看",
+      "onboard_time": 1708439981,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 487590,
       "num": 361373,
       "word": "妈妈让我工作后每月给家里转三千",
@@ -2619,6 +2667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430315,
+      "num": 430315,
+      "word": "江西菜是预制菜鄙视链的顶端",
+      "onboard_time": 1708435416,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 429375,
       "num": 429375,
       "word": "黄景瑜你拿喉结干什么",
@@ -2771,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411410,
+      "num": 411410,
+      "word": "背薄真的显年轻",
+      "onboard_time": 1708440638,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 411283,
       "num": 411283,
       "word": "年轻人为什么开始爱买黄金",
@@ -2817,6 +2881,14 @@
       "onboard_time": 1708342954,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402745,
+      "num": 402745,
+      "word": "四六级成绩倒计时",
+      "onboard_time": 1708439741,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 402570,
@@ -3585,14 +3657,6 @@
       "onboard_time": 1708425518,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311868,
-      "num": 311868,
-      "word": "江西菜是预制菜鄙视链的顶端",
-      "onboard_time": 1708435416,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 311083,
@@ -5387,12 +5451,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205920,
+      "num": 205920,
+      "word": "姆巴佩同意加盟皇马",
+      "onboard_time": 1708441057,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205759,
       "num": 205759,
       "word": "热辣滚烫到底提前策划了多少物料",
       "onboard_time": 1708257453,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205317,
+      "num": 205317,
+      "word": "钱学森写在香烟纸上的求救信",
+      "onboard_time": 1708441360,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205306,
@@ -5531,12 +5611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200857,
+      "num": 200857,
+      "word": "郑钦文医疗暂停",
+      "onboard_time": 1708439383,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200847,
       "num": 200847,
       "word": "2025春节倒计时346天",
       "onboard_time": 1708213105,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200767,
+      "num": 200767,
+      "word": "从没想过雪地靴还有这种烂法",
+      "onboard_time": 1708440458,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200193,
@@ -5609,6 +5705,14 @@
       "onboard_time": 1708402062,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197428,
+      "num": 197428,
+      "word": "Ricky最新Challenge",
+      "onboard_time": 1708441901,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 197173,
@@ -6547,14 +6651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169395,
-      "num": 169395,
-      "word": "郑钦文医疗暂停",
-      "onboard_time": 1708439383,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168369,
       "num": 168369,
       "word": "凌晨5点你楼上的邻居",
@@ -6585,6 +6681,14 @@
       "onboard_time": 1708419160,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167681,
+      "num": 167681,
+      "word": "如果种地吧一期只有一句话",
+      "onboard_time": 1708441296,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 167622,
@@ -6715,12 +6819,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164374,
+      "num": 164374,
+      "word": "韩式酱鸡蛋",
+      "onboard_time": 1708439502,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163792,
       "num": 163792,
       "word": "烫面半烫面死面发面的区别和用途",
       "onboard_time": 1708340859,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163465,
+      "num": 163465,
+      "word": "久酷首播",
+      "onboard_time": 1708441478,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 163381,
@@ -7035,14 +7155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153285,
-      "num": 153285,
-      "word": "冻雨",
-      "onboard_time": 1708439621,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152618,
       "num": 152618,
       "word": "仙逆年番海报上线",
@@ -7081,14 +7193,6 @@
       "onboard_time": 1708314153,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 151732,
-      "num": 151732,
-      "word": "韩式酱鸡蛋",
-      "onboard_time": 1708439502,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 151630,
