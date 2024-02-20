@@ -1,0 +1,410 @@
+{
+  "runTime": 1708402901106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1742737,
+        "num": 1742737,
+        "word": "刘雯寸头",
+        "onboard_time": 1708399236,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1583595,
+        "num": 1583595,
+        "word": "考公正在成为印度年轻人的执念",
+        "onboard_time": 1708398336,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27459,
+        "num": 1384405,
+        "word": "长三角晒2023年经济发展成绩单",
+        "onboard_time": 1708351841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3099982,
+        "num": 1378429,
+        "word": "出轨女教师若离婚或需承担精神赔偿",
+        "onboard_time": 1708395092,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292120,
+        "num": 1292120,
+        "word": "原来去年楼下跑步的女生是贾玲",
+        "onboard_time": 1708399657,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1265268,
+        "num": 1265268,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1127688,
+        "num": 1127688,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 949995,
+        "num": 949995,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754551,
+        "num": 754551,
+        "word": "董宇辉回应出门阵仗大",
+        "onboard_time": 1708400857,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 745481,
+        "num": 745481,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5485734,
+        "num": 743918,
+        "word": "柳鑫宇ins",
+        "onboard_time": 1708397317,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 798118,
+        "num": 722763,
+        "word": "梅西本人已在中国注册姓名商标",
+        "onboard_time": 1708401640,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667538,
+        "num": 667538,
+        "word": "飞上海一航班充电宝爆燃紧急备降",
+        "onboard_time": 1708400319,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620575,
+        "num": 620575,
+        "word": "突然告诉家人朋友领证了",
+        "onboard_time": 1708396956,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582427,
+        "num": 582427,
+        "word": "十四冬",
+        "onboard_time": 1708401278,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510720,
+        "num": 510720,
+        "word": "吕克贝松 广末凉子",
+        "onboard_time": 1708397735,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506636,
+        "num": 506636,
+        "word": "女子花1万6买好全年假期旅行机票",
+        "onboard_time": 1708401159,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 460044,
+        "num": 460044,
+        "word": "柳鑫宇十四冬赛程",
+        "onboard_time": 1708402300,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456130,
+        "num": 456130,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 422543,
+        "num": 422543,
+        "word": "梅西3次表示希望再来中国",
+        "onboard_time": 1708383681,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490055,
+        "num": 420985,
+        "word": "全世界都知道妹妹在赶作业了",
+        "onboard_time": 1708400438,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415951,
+        "num": 415951,
+        "word": "尹子维徐冬冬婚礼真人秀",
+        "onboard_time": 1708402062,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402917,
+        "num": 402917,
+        "word": "100万房贷30年少还5.2万",
+        "onboard_time": 1708396054,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345699,
+        "num": 345699,
+        "word": "海南为何迟迟不建跨海大桥",
+        "onboard_time": 1708394974,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316667,
+        "num": 316667,
+        "word": "白鹿替身发文",
+        "onboard_time": 1708357179,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305878,
+        "num": 305878,
+        "word": "热辣滚烫与贾玲消失这一年",
+        "onboard_time": 1708398094,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299324,
+        "num": 299324,
+        "word": "秦朗丢寒假作业事件大结局",
+        "onboard_time": 1708384946,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295719,
+        "num": 295719,
+        "word": "范丞丞代言华莱士",
+        "onboard_time": 1708402062,
+        "rank": 27,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 288478,
+        "num": 288478,
+        "word": "全智贤汤唯贴贴",
+        "onboard_time": 1708387711,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272778,
+        "num": 272778,
+        "word": "派出所回应父亲把3岁孩子扔下楼",
+        "onboard_time": 1708399957,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261525,
+        "num": 261525,
+        "word": "开工3天痔疮膏销量翻3倍",
+        "onboard_time": 1708394916,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251011,
+        "num": 251011,
+        "word": "陈靖可早期ins",
+        "onboard_time": 1708395216,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247457,
+        "num": 247457,
+        "word": "房贷利率降8次贷款百万少还19万",
+        "onboard_time": 1708398879,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246849,
+        "num": 246849,
+        "word": "70岁大爷坚持健身45年头发乌黑浓密",
+        "onboard_time": 1708398879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242647,
+        "num": 242647,
+        "word": "妈妈我能不能拆开这箱奶",
+        "onboard_time": 1708398815,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233354,
+        "num": 233354,
+        "word": "赵世子",
+        "onboard_time": 1708391135,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222510,
+        "num": 222510,
+        "word": "花滑",
+        "onboard_time": 1708402718,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219291,
+        "num": 219291,
+        "word": "小夫妻抱婴儿乘高铁站8个多小时",
+        "onboard_time": 1708392872,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201556,
+        "num": 201556,
+        "word": "韩国大批医生集体辞职",
+        "onboard_time": 1708402718,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197592,
+        "num": 197592,
+        "word": "四六级成绩什么时候出",
+        "onboard_time": 1708396596,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197528,
+        "num": 197528,
+        "word": "光遇",
+        "onboard_time": 1708402062,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196905,
+        "num": 196905,
+        "word": "幽灵堵车",
+        "onboard_time": 1708401640,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187063,
+        "num": 187063,
+        "word": "种地吧监工直播",
+        "onboard_time": 1708393351,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186062,
+        "num": 186062,
+        "word": "二月天杨柳醉春烟",
+        "onboard_time": 1708402477,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184399,
+        "num": 184399,
+        "word": "字节跳动辟谣推出中文版Sora",
+        "onboard_time": 1708400197,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179167,
+        "num": 179167,
+        "word": "怎么轮到结婚就开始让我凑合了",
+        "onboard_time": 1708384281,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176804,
+        "num": 176804,
+        "word": "二姨家低于50度的都算饮料呗",
+        "onboard_time": 1708402661,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173910,
+        "num": 173910,
+        "word": "女儿出嫁父亲边帮亲戚打包边哭",
+        "onboard_time": 1708400017,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172039,
+        "num": 172039,
+        "word": "曾黎机场被粉丝催婚",
+        "onboard_time": 1708402062,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170743,
+        "num": 170743,
+        "word": "内娱有自己的纯元皇后",
+        "onboard_time": 1708348005,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#百年大党不懈奋斗淬炼的鲜明品格是什么#"
+    }
+  }
+}

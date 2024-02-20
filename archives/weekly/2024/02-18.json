@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708400095886,
+  "endTime": 1708402901106,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5315521,
+      "raw_hot": 5485734,
       "num": 5315521,
       "word": "柳鑫宇ins",
       "onboard_time": 1708397317,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1742737,
+      "num": 1742737,
+      "word": "刘雯寸头",
+      "onboard_time": 1708399236,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1716207,
       "num": 1716207,
       "word": "太古里牵手门女当事人直播间被封",
@@ -361,6 +369,14 @@
       "onboard_time": 1708301971,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1583595,
+      "num": 1583595,
+      "word": "考公正在成为印度年轻人的执念",
+      "onboard_time": 1708398336,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1577161,
@@ -513,6 +529,14 @@
       "onboard_time": 1708324598,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1292120,
+      "num": 1292120,
+      "word": "原来去年楼下跑步的女生是贾玲",
+      "onboard_time": 1708399657,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 1292108,
@@ -835,14 +859,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 904837,
-      "num": 904837,
-      "word": "刘雯寸头",
-      "onboard_time": 1708399236,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 891335,
       "num": 891335,
       "word": "热辣滚烫与贾玲消失这一年",
@@ -995,19 +1011,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 808278,
-      "num": 808278,
-      "word": "考公正在成为印度年轻人的执念",
-      "onboard_time": 1708398336,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806861,
       "num": 806861,
       "word": "梅西澄清视频剪辑痕迹明显",
       "onboard_time": 1708352563,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 798118,
+      "num": 722763,
+      "word": "梅西本人已在中国注册姓名商标",
+      "onboard_time": 1708401640,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -1113,6 +1129,14 @@
       "onboard_time": 1708306232,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 754551,
+      "num": 754551,
+      "word": "董宇辉回应出门阵仗大",
+      "onboard_time": 1708400857,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 749824,
@@ -1267,6 +1291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 667538,
+      "num": 667538,
+      "word": "飞上海一航班充电宝爆燃紧急备降",
+      "onboard_time": 1708400319,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667439,
       "num": 667439,
       "word": "邓为杀青哭了",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1708348005,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 620575,
+      "num": 620575,
+      "word": "突然告诉家人朋友领证了",
+      "onboard_time": 1708396956,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 620067,
@@ -1531,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 582427,
+      "num": 582427,
+      "word": "十四冬",
+      "onboard_time": 1708401278,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580944,
       "num": 580944,
       "word": "尹正 五年前钢管舞五年后原地杵",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1708339363,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570009,
-      "num": 570009,
-      "word": "突然告诉家人朋友领证了",
-      "onboard_time": 1708396956,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 565743,
@@ -1795,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506636,
+      "num": 506636,
+      "word": "女子花1万6买好全年假期旅行机票",
+      "onboard_time": 1708401159,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 506121,
       "num": 421860,
       "word": "鲍师傅门店回应把龙拼成dargon",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1708341398,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 490055,
+      "num": 420985,
+      "word": "全世界都知道妹妹在赶作业了",
+      "onboard_time": 1708400438,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 489710,
@@ -1969,6 +2025,14 @@
       "onboard_time": 1708314034,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 460044,
+      "num": 460044,
+      "word": "柳鑫宇十四冬赛程",
+      "onboard_time": 1708402300,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 451672,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1708268857,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415951,
+      "num": 415951,
+      "word": "尹子维徐冬冬婚礼真人秀",
+      "onboard_time": 1708402062,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 415402,
@@ -2883,14 +2955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302544,
-      "num": 302544,
-      "word": "原来去年楼下跑步的女生是贾玲",
-      "onboard_time": 1708399657,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 302149,
       "num": 302149,
       "word": "大侦探",
@@ -2945,6 +3009,14 @@
       "onboard_time": 1708310370,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295719,
+      "num": 295719,
+      "word": "范丞丞代言华莱士",
+      "onboard_time": 1708402062,
+      "rank": 27,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 295584,
@@ -3177,6 +3249,14 @@
       "onboard_time": 1708303833,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272778,
+      "num": 272778,
+      "word": "派出所回应父亲把3岁孩子扔下楼",
+      "onboard_time": 1708399957,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272174,
@@ -3827,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222510,
+      "num": 222510,
+      "word": "花滑",
+      "onboard_time": 1708402718,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221963,
       "num": 221963,
       "word": "男子堵在高速满山坡抓鸡",
@@ -4211,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201556,
+      "num": 201556,
+      "word": "韩国大批医生集体辞职",
+      "onboard_time": 1708402718,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201419,
       "num": 201419,
       "word": "张小彦 你以后好自为之",
@@ -4307,6 +4403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197528,
+      "num": 197528,
+      "word": "光遇",
+      "onboard_time": 1708402062,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197173,
       "num": 197173,
       "word": "陈靖可孙千大手包小手",
@@ -4321,6 +4425,14 @@
       "onboard_time": 1708335158,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196905,
+      "num": 196905,
+      "word": "幽灵堵车",
+      "onboard_time": 1708401640,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 196626,
@@ -4627,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186062,
+      "num": 186062,
+      "word": "二月天杨柳醉春烟",
+      "onboard_time": 1708402477,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -4673,6 +4793,14 @@
       "onboard_time": 1708347038,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 184399,
+      "num": 184399,
+      "word": "字节跳动辟谣推出中文版Sora",
+      "onboard_time": 1708400197,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 183843,
@@ -4859,6 +4987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176804,
+      "num": 176804,
+      "word": "二姨家低于50度的都算饮料呗",
+      "onboard_time": 1708402661,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176763,
       "num": 176763,
       "word": "不到一天四家车企宣布降价",
@@ -4915,6 +5051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173910,
+      "num": 173910,
+      "word": "女儿出嫁父亲边帮亲戚打包边哭",
+      "onboard_time": 1708400017,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173725,
       "num": 173725,
       "word": "郝秀萍一家欠的钱需要还吗",
@@ -4953,6 +5097,14 @@
       "onboard_time": 1708386871,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 172039,
+      "num": 172039,
+      "word": "曾黎机场被粉丝催婚",
+      "onboard_time": 1708402062,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 171999,
@@ -5755,14 +5907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141029,
-      "num": 141029,
-      "word": "派出所回应父亲把3岁孩子扔下楼",
-      "onboard_time": 1708399957,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140220,
       "num": 140220,
       "word": "穿光腿神器要确保给脚趾留足空间",
@@ -6001,14 +6145,6 @@
       "onboard_time": 1708172493,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128521,
-      "num": 128521,
-      "word": "女儿出嫁父亲边帮亲戚打包边哭",
-      "onboard_time": 1708400017,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127758,
