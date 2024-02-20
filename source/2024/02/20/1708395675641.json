@@ -1,0 +1,410 @@
+{
+  "runTime": 1708395675641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508236,
+        "num": 1508236,
+        "word": "年终奖7200元不够春节给压岁钱",
+        "onboard_time": 1708393595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429790,
+        "num": 1429790,
+        "word": "秦朗丢寒假作业事件大结局",
+        "onboard_time": 1708384946,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58326,
+        "num": 1418041,
+        "word": "长三角晒2023年经济发展成绩单",
+        "onboard_time": 1708351841,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413463,
+        "num": 1413463,
+        "word": "降息",
+        "onboard_time": 1708393535,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1324055,
+        "num": 1324055,
+        "word": "梅西3次表示希望再来中国",
+        "onboard_time": 1708383681,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1126515,
+        "num": 1126515,
+        "word": "吵了一整年要离职的你",
+        "onboard_time": 1708388855,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 764490,
+        "num": 764490,
+        "word": "小夫妻抱婴儿乘高铁站8个多小时",
+        "onboard_time": 1708392872,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736416,
+        "num": 736416,
+        "word": "怎么轮到结婚就开始让我凑合了",
+        "onboard_time": 1708384281,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 682366,
+        "num": 682366,
+        "word": "iPhone16Pro新配色",
+        "onboard_time": 1708384343,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 678420,
+        "num": 678420,
+        "word": "全智贤汤唯贴贴",
+        "onboard_time": 1708387711,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668478,
+        "num": 668478,
+        "word": "白鹿替身发文",
+        "onboard_time": 1708357179,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653702,
+        "num": 653702,
+        "word": "房贷又要降了",
+        "onboard_time": 1708394735,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 547483,
+        "num": 547483,
+        "word": "梅西代言的赤水河酒已下架",
+        "onboard_time": 1708391198,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521984,
+        "num": 521984,
+        "word": "赵世子",
+        "onboard_time": 1708391135,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460304,
+        "num": 460304,
+        "word": "这个杀手不太冷 抄袭",
+        "onboard_time": 1708395270,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420967,
+        "num": 420967,
+        "word": "种地吧监工直播",
+        "onboard_time": 1708393351,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412767,
+        "num": 412767,
+        "word": "五年期LPR报价下调",
+        "onboard_time": 1708392575,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 388541,
+        "num": 388541,
+        "word": "贾玲怕拍戏打扰群众上门发礼物",
+        "onboard_time": 1708351065,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362193,
+        "num": 362193,
+        "word": "出轨女教师若离婚或需承担精神赔偿",
+        "onboard_time": 1708395092,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328380,
+        "num": 328380,
+        "word": "为啥现在男生不追女生了",
+        "onboard_time": 1708383681,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348101,
+        "num": 322146,
+        "word": "身体有这8个特征更容易长寿",
+        "onboard_time": 1708391198,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296089,
+        "num": 296089,
+        "word": "开工3天痔疮膏销量翻3倍",
+        "onboard_time": 1708394916,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287289,
+        "num": 287289,
+        "word": "爸爸吃薯片吃出金手串高兴坏了",
+        "onboard_time": 1708393293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275592,
+        "num": 275592,
+        "word": "上海飞大阪机票仅8元",
+        "onboard_time": 1708352442,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 270476,
+        "num": 270476,
+        "word": "八段锦12分钟完整口令版",
+        "onboard_time": 1708394735,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 255364,
+        "num": 255364,
+        "word": "小学老师群发寒假作业烂尾预警",
+        "onboard_time": 1708354839,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241941,
+        "num": 241941,
+        "word": "适合隐晦公布恋情的文案",
+        "onboard_time": 1708393111,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235657,
+        "num": 235657,
+        "word": "梅西回应",
+        "onboard_time": 1708348178,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235099,
+        "num": 235099,
+        "word": "常州案例 女班主任获刑3年",
+        "onboard_time": 1708350280,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200581,
+        "num": 200581,
+        "word": "女子吐槽高铁上不售卖卫生巾",
+        "onboard_time": 1708374017,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189135,
+        "num": 189135,
+        "word": "陈都灵首部古偶女主",
+        "onboard_time": 1708357479,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187752,
+        "num": 187752,
+        "word": "内娱有自己的纯元皇后",
+        "onboard_time": 1708348005,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186100,
+        "num": 186100,
+        "word": "陈靖可早期ins",
+        "onboard_time": 1708395216,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185589,
+        "num": 185589,
+        "word": "毛不易 有时间生孩子都不错了",
+        "onboard_time": 1708345899,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179923,
+        "num": 179923,
+        "word": "虞书欣林一新剧路透",
+        "onboard_time": 1708386267,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176286,
+        "num": 176286,
+        "word": "打一肚子腹稿结果亲戚降级了",
+        "onboard_time": 1708382659,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174685,
+        "num": 174685,
+        "word": "A股",
+        "onboard_time": 1708394552,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169580,
+        "num": 169580,
+        "word": "贾玲采访",
+        "onboard_time": 1708393535,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167078,
+        "num": 167078,
+        "word": "周杰伦霉霉演唱会风波",
+        "onboard_time": 1708395575,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164984,
+        "num": 164984,
+        "word": "突然就学会化妆了",
+        "onboard_time": 1708384763,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161334,
+        "num": 161334,
+        "word": "拳击成年轻人开工运动新宠",
+        "onboard_time": 1708395575,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157687,
+        "num": 157687,
+        "word": "海南为何迟迟不建跨海大桥",
+        "onboard_time": 1708394974,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153752,
+        "num": 153752,
+        "word": "带薪健身",
+        "onboard_time": 1708391914,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147739,
+        "num": 147739,
+        "word": "老板路过看到我的工位沉默了",
+        "onboard_time": 1708387654,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143946,
+        "num": 143946,
+        "word": "Burberry秋冬大秀",
+        "onboard_time": 1708395155,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139820,
+        "num": 139820,
+        "word": "信用卡发卡量连续4季度下降",
+        "onboard_time": 1708395335,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135332,
+        "num": 135332,
+        "word": "赵露思新中式妆造",
+        "onboard_time": 1708388796,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131110,
+        "num": 131110,
+        "word": "李月汝加盟洛杉矶火花",
+        "onboard_time": 1708393053,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130334,
+        "num": 130334,
+        "word": "乘风2024全民举荐",
+        "onboard_time": 1708389273,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125199,
+        "num": 125199,
+        "word": "刚知道妈妈是大小姐",
+        "onboard_time": 1708385668,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#百年大党不懈奋斗淬炼的鲜明品格是什么#"
+    }
+  }
+}

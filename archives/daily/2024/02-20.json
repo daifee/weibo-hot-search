@@ -1,6 +1,6 @@
 {
   "startTime": 1708359797302,
-  "endTime": 1708394508257,
+  "endTime": 1708395675641,
   "band_list": [
     {
       "raw_hot": 3474203,
@@ -51,12 +51,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1508236,
+      "num": 1508236,
+      "word": "年终奖7200元不够春节给压岁钱",
+      "onboard_time": 1708393595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1485625,
       "num": 1485625,
       "word": "梅西3次表示希望再来中国",
       "onboard_time": 1708383681,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1413463,
+      "num": 1413463,
+      "word": "降息",
+      "onboard_time": 1708393535,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 1387858,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 796756,
-      "num": 660046,
+      "num": 764490,
       "word": "小夫妻抱婴儿乘高铁站8个多小时",
       "onboard_time": 1708392872,
       "rank": 10,
@@ -155,20 +171,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 660590,
-      "num": 660590,
-      "word": "降息",
-      "onboard_time": 1708393535,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 659092,
       "num": 659092,
       "word": "梅西代言的赤水河酒已下架",
       "onboard_time": 1708391198,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 653702,
+      "num": 653702,
+      "word": "房贷又要降了",
+      "onboard_time": 1708394735,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 625939,
@@ -219,14 +235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 535976,
-      "num": 535976,
-      "word": "年终奖7200元不够春节给压岁钱",
-      "onboard_time": 1708393595,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497504,
       "num": 497504,
       "word": "内娱有自己的纯元皇后",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460304,
+      "num": 460304,
+      "word": "这个杀手不太冷 抄袭",
+      "onboard_time": 1708395270,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415386,
       "num": 415386,
       "word": "周杰伦 有狗还在吠代表你还是行的",
@@ -267,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 388541,
+      "num": 388541,
+      "word": "贾玲怕拍戏打扰群众上门发礼物",
+      "onboard_time": 1708351065,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 386762,
       "num": 386762,
       "word": "梅西澄清视频剪辑痕迹明显",
@@ -275,16 +299,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385953,
-      "num": 385953,
-      "word": "贾玲怕拍戏打扰群众上门发礼物",
-      "onboard_time": 1708351065,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 382016,
-      "num": 312711,
+      "num": 322146,
       "word": "身体有这8个特征更容易长寿",
       "onboard_time": 1708391198,
       "rank": 38,
@@ -297,6 +313,14 @@
       "onboard_time": 1708357479,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362193,
+      "num": 362193,
+      "word": "出轨女教师若离婚或需承担精神赔偿",
+      "onboard_time": 1708395092,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359201,
@@ -339,12 +363,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296089,
+      "num": 296089,
+      "word": "开工3天痔疮膏销量翻3倍",
+      "onboard_time": 1708394916,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287289,
+      "num": 287289,
+      "word": "爸爸吃薯片吃出金手串高兴坏了",
+      "onboard_time": 1708393293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283057,
       "num": 283057,
       "word": "梅西 双手插兜",
       "onboard_time": 1708350280,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270476,
+      "num": 270476,
+      "word": "八段锦12分钟完整口令版",
+      "onboard_time": 1708394735,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 258731,
@@ -369,6 +417,14 @@
       "onboard_time": 1708386448,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241941,
+      "num": 241941,
+      "word": "适合隐晦公布恋情的文案",
+      "onboard_time": 1708393111,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 241102,
@@ -409,14 +465,6 @@
       "onboard_time": 1708384281,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215782,
-      "num": 215782,
-      "word": "爸爸吃薯片吃出金手串高兴坏了",
-      "onboard_time": 1708393293,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214916,
@@ -491,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186100,
+      "num": 186100,
+      "word": "陈靖可早期ins",
+      "onboard_time": 1708395216,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -529,6 +585,14 @@
       "onboard_time": 1708386507,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174685,
+      "num": 174685,
+      "word": "A股",
+      "onboard_time": 1708394552,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 172234,
@@ -571,6 +635,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167078,
+      "num": 167078,
+      "word": "周杰伦霉霉演唱会风波",
+      "onboard_time": 1708395575,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 161334,
+      "num": 161334,
+      "word": "拳击成年轻人开工运动新宠",
+      "onboard_time": 1708395575,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 160460,
       "num": 160460,
       "word": "一年期LPR维持不变",
@@ -584,6 +664,14 @@
       "word": "女子离婚冷静期第13天倒在丈夫刀下",
       "onboard_time": 1708337378,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157687,
+      "num": 157687,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -635,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143946,
+      "num": 143946,
+      "word": "Burberry秋冬大秀",
+      "onboard_time": 1708395155,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 143306,
       "num": 143306,
       "word": "梅西ins",
@@ -649,6 +745,14 @@
       "onboard_time": 1708349265,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139820,
+      "num": 139820,
+      "word": "信用卡发卡量连续4季度下降",
+      "onboard_time": 1708395335,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 139414,
@@ -745,14 +849,6 @@
       "onboard_time": 1708340920,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113665,
-      "num": 113665,
-      "word": "适合隐晦公布恋情的文案",
-      "onboard_time": 1708393111,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 110548,

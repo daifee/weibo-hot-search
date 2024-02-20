@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708394508257,
+  "endTime": 1708395675641,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1508236,
+      "num": 1508236,
+      "word": "年终奖7200元不够春节给压岁钱",
+      "onboard_time": 1708393595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1500864,
       "num": 1348556,
       "word": "为什么卫生巾广告用蓝色液体",
@@ -393,6 +401,14 @@
       "onboard_time": 1708298605,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1413463,
+      "num": 1413463,
+      "word": "降息",
+      "onboard_time": 1708393535,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 1412970,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 796756,
-      "num": 660046,
+      "num": 764490,
       "word": "小夫妻抱婴儿乘高铁站8个多小时",
       "onboard_time": 1708392872,
       "rank": 10,
@@ -1203,14 +1219,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 660590,
-      "num": 660590,
-      "word": "降息",
-      "onboard_time": 1708393535,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 659092,
       "num": 659092,
       "word": "梅西代言的赤水河酒已下架",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1708350699,
       "rank": 14,
       "category": "体育,健康医疗"
+    },
+    {
+      "raw_hot": 653702,
+      "num": 653702,
+      "word": "房贷又要降了",
+      "onboard_time": 1708394735,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 642349,
@@ -1587,14 +1603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 535976,
-      "num": 535976,
-      "word": "年终奖7200元不够春节给压岁钱",
-      "onboard_time": 1708393595,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535685,
       "num": 535685,
       "word": "高合停工6个月",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1708314034,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 460304,
+      "num": 460304,
+      "word": "这个杀手不太冷 抄袭",
+      "onboard_time": 1708395270,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 451672,
@@ -2180,7 +2196,7 @@
     },
     {
       "raw_hot": 382016,
-      "num": 312711,
+      "num": 322146,
       "word": "身体有这8个特征更容易长寿",
       "onboard_time": 1708391198,
       "rank": 38,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1708231295,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362193,
+      "num": 362193,
+      "word": "出轨女教师若离婚或需承担精神赔偿",
+      "onboard_time": 1708395092,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360716,
@@ -2779,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296089,
+      "num": 296089,
+      "word": "开工3天痔疮膏销量翻3倍",
+      "onboard_time": 1708394916,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295584,
       "num": 295584,
       "word": "贾玲捧脸公式照",
@@ -2880,6 +2912,14 @@
       "word": "小镇超市为何能开20年",
       "onboard_time": 1708219652,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287289,
+      "num": 287289,
+      "word": "爸爸吃薯片吃出金手串高兴坏了",
+      "onboard_time": 1708393293,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3009,6 +3049,14 @@
       "onboard_time": 1708319317,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270476,
+      "num": 270476,
+      "word": "八段锦12分钟完整口令版",
+      "onboard_time": 1708394735,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 269364,
@@ -3377,6 +3425,14 @@
       "onboard_time": 1708386448,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241941,
+      "num": 241941,
+      "word": "适合隐晦公布恋情的文案",
+      "onboard_time": 1708393111,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 241550,
@@ -3753,14 +3809,6 @@
       "onboard_time": 1708384281,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215782,
-      "num": 215782,
-      "word": "爸爸吃薯片吃出金手串高兴坏了",
-      "onboard_time": 1708393293,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215353,
@@ -4411,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186100,
+      "num": 186100,
+      "word": "陈靖可早期ins",
+      "onboard_time": 1708395216,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -4859,6 +4915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167078,
+      "num": 167078,
+      "word": "周杰伦霉霉演唱会风波",
+      "onboard_time": 1708395575,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166967,
       "num": 166967,
       "word": "梅西沙特第一场",
@@ -5019,6 +5083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161334,
+      "num": 161334,
+      "word": "拳击成年轻人开工运动新宠",
+      "onboard_time": 1708395575,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 161103,
       "num": 161102,
       "word": "孙千陈靖可新中式情侣装",
@@ -5097,6 +5169,14 @@
       "onboard_time": 1708227574,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157687,
+      "num": 157687,
+      "word": "海南为何迟迟不建跨海大桥",
+      "onboard_time": 1708394974,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157600,
@@ -5483,6 +5563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143946,
+      "num": 143946,
+      "word": "Burberry秋冬大秀",
+      "onboard_time": 1708395155,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 142689,
       "num": 142689,
       "word": "俄乌局势新进展",
@@ -5521,6 +5609,14 @@
       "onboard_time": 1708330839,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139820,
+      "num": 139820,
+      "word": "信用卡发卡量连续4季度下降",
+      "onboard_time": 1708395335,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 139556,
@@ -5889,14 +5985,6 @@
       "onboard_time": 1708308029,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113665,
-      "num": 113665,
-      "word": "适合隐晦公布恋情的文案",
-      "onboard_time": 1708393111,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 112757,
