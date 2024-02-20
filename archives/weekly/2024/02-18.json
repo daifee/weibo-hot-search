@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708456436432,
+  "endTime": 1708457634591,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -8315,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80588,
+      "num": 73496,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76751,
       "num": 76751,
       "word": "大学生为祖父母劈柴700多斤",
@@ -8329,14 +8337,6 @@
       "onboard_time": 1708292535,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73496,
-      "num": 73496,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 68339,
@@ -8705,6 +8705,14 @@
       "onboard_time": 1708204754,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13992,
+      "num": 17333,
+      "word": "男子游神现场cos赵世子被马夫鞭打",
+      "onboard_time": 1708457237,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13204,

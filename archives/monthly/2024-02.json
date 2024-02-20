@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708456436432,
+  "endTime": 1708457634591,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -52435,6 +52435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80588,
+      "num": 73496,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80300,
       "num": 80300,
       "word": "间谍过家家 电锯阿尼亚",
@@ -52785,14 +52793,6 @@
       "onboard_time": 1707088463,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73496,
-      "num": 73496,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 73315,
@@ -55561,6 +55561,14 @@
       "onboard_time": 1706911096,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13992,
+      "num": 17333,
+      "word": "男子游神现场cos赵世子被马夫鞭打",
+      "onboard_time": 1708457237,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13876,
