@@ -1,0 +1,410 @@
+{
+  "runTime": 1708542824542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398234,
+        "num": 398234,
+        "word": "要睡多久觉才能把黑眼圈睡没",
+        "onboard_time": 1708529614,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182769,
+        "num": 182769,
+        "word": "台湾方面须给一个明确交代",
+        "onboard_time": 1708524458,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9010,
+        "num": 143438,
+        "word": "冰雪消费迸活力新场景激发新需求",
+        "onboard_time": 1708518334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137443,
+        "num": 137443,
+        "word": "航班延误",
+        "onboard_time": 1708539559,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132762,
+        "num": 132762,
+        "word": "丽丽婚礼",
+        "onboard_time": 1708538901,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111774,
+        "num": 111774,
+        "word": "贵阳8场山火10人被处理",
+        "onboard_time": 1708527759,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108467,
+        "num": 108467,
+        "word": "王诗龄家豪宅内景",
+        "onboard_time": 1708525360,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102356,
+        "num": 102356,
+        "word": "狂飙麻子爆改",
+        "onboard_time": 1708521275,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88518,
+        "num": 88518,
+        "word": "贾玲公开瘦身食谱",
+        "onboard_time": 1708517135,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76795,
+        "num": 76795,
+        "word": "近期高发的嗓子疼可能是这种急症",
+        "onboard_time": 1708526437,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75282,
+        "num": 75282,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 70117,
+        "num": 70117,
+        "word": "高铁晚点",
+        "onboard_time": 1708540159,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62129,
+        "num": 62129,
+        "word": "新加坡每场补贴300万美元请霉霉演出",
+        "onboard_time": 1708537161,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60582,
+        "num": 60582,
+        "word": "魏晨这么多年了翻译还是这么好",
+        "onboard_time": 1708525596,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59007,
+        "num": 59007,
+        "word": "姚安娜演技",
+        "onboard_time": 1708520973,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52654,
+        "num": 52654,
+        "word": "大侦探9号小孩是何老师",
+        "onboard_time": 1708539739,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52143,
+        "num": 52143,
+        "word": "杜江晒嗯哼侧颜",
+        "onboard_time": 1708524817,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49483,
+        "num": 49483,
+        "word": "阿媒称梅西为国家队带来经济损失",
+        "onboard_time": 1708526977,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37404,
+        "num": 37404,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33141,
+        "num": 33141,
+        "word": "这个月 头等舱空姐污名化",
+        "onboard_time": 1708515815,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54658,
+        "num": 33123,
+        "word": "男孩吞下整根牙刷隐瞒了2天",
+        "onboard_time": 1708526137,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33106,
+        "num": 33106,
+        "word": "当博士小情侣陷入热恋",
+        "onboard_time": 1708527634,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31529,
+        "num": 31529,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31471,
+        "num": 31471,
+        "word": "贵阳贵安发布森林禁火令",
+        "onboard_time": 1708539678,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30514,
+        "num": 30514,
+        "word": "16加8减肥",
+        "onboard_time": 1708520193,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30275,
+        "num": 30275,
+        "word": "每顿就炒一个菜的家庭",
+        "onboard_time": 1708510594,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29835,
+        "num": 29835,
+        "word": "天秤座2024会发生的三件好事",
+        "onboard_time": 1708526498,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26891,
+        "num": 26891,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26022,
+        "num": 26022,
+        "word": "手机电量需要低于20%再充吗",
+        "onboard_time": 1708510536,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25398,
+        "num": 25398,
+        "word": "不敢让自己太爽",
+        "onboard_time": 1708529497,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41389,
+        "num": 25395,
+        "word": "毛宁说台有关方面粗暴对待大陆渔船事件不是外交问题",
+        "onboard_time": 1708538298,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33380,
+        "num": 25332,
+        "word": "夏克立 我从来没有家暴",
+        "onboard_time": 1708542617,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25220,
+        "num": 25220,
+        "word": "张萌说赵丽颖是最大惊喜",
+        "onboard_time": 1708528416,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24650,
+        "num": 24650,
+        "word": "马云妻子在新加坡购房",
+        "onboard_time": 1708509272,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23557,
+        "num": 23557,
+        "word": "韩网锐评朴振英泡泡",
+        "onboard_time": 1708532369,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23059,
+        "num": 23059,
+        "word": "贵州2名扑火牺牲人员仅20来岁",
+        "onboard_time": 1708523073,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22762,
+        "num": 22762,
+        "word": "王晶评春节档电影",
+        "onboard_time": 1708533868,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 21665,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21415,
+        "num": 21415,
+        "word": "新疆阿图什3.6级地震",
+        "onboard_time": 1708540937,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20982,
+        "num": 20982,
+        "word": "15元一斤的番茄让全村人住上别墅",
+        "onboard_time": 1708514972,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20748,
+        "num": 20748,
+        "word": "女儿晚上睡觉都能笑醒",
+        "onboard_time": 1708524637,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20039,
+        "num": 20039,
+        "word": "才知道这种手提袋是可以锁起来的",
+        "onboard_time": 1708539379,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19971,
+        "num": 19971,
+        "word": "看得出来她是真的很爱吃饭",
+        "onboard_time": 1708536980,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18891,
+        "num": 18891,
+        "word": "宋雨琦丸子头",
+        "onboard_time": 1708521875,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18569,
+        "num": 18569,
+        "word": "宁艺卓全开麦版melody",
+        "onboard_time": 1708520551,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18487,
+        "num": 18487,
+        "word": "贵州山火",
+        "onboard_time": 1708503634,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18481,
+        "num": 18481,
+        "word": "2024江苏卫视元宵晚会首波阵容",
+        "onboard_time": 1708542376,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 18311,
+        "word": "存款多少才合适裸辞",
+        "onboard_time": 1708517374,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17947,
+        "num": 17947,
+        "word": "霉霉登顶2023IFPI全球畅销艺人榜",
+        "onboard_time": 1708529554,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17841,
+        "num": 17841,
+        "word": "徐明浩 可隆",
+        "onboard_time": 1708527276,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}

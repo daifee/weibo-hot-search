@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708540464031,
+  "endTime": 1708542824542,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -10195,6 +10195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137443,
+      "num": 137443,
+      "word": "航班延误",
+      "onboard_time": 1708539559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137439,
       "num": 1456232,
       "word": "春节假期国内游4.74亿人次",
@@ -10329,6 +10337,14 @@
       "onboard_time": 1708485755,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132762,
+      "num": 132762,
+      "word": "丽丽婚礼",
+      "onboard_time": 1708538901,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 132739,
@@ -10731,14 +10747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105874,
-      "num": 89478,
-      "word": "丽丽婚礼",
-      "onboard_time": 1708538901,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105713,
       "num": 105713,
       "word": "刘聪2024全球巡演",
@@ -10979,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70117,
+      "num": 70117,
+      "word": "高铁晚点",
+      "onboard_time": 1708540159,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68339,
       "num": 68339,
       "word": "韩素希腰部纹身含义",
@@ -11009,14 +11025,6 @@
       "onboard_time": 1708468158,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 63277,
-      "num": 63277,
-      "word": "航班延误",
-      "onboard_time": 1708539559,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63036,
@@ -11123,8 +11131,8 @@
       "category": "旅游,网红"
     },
     {
-      "raw_hot": 51737,
-      "num": 51737,
+      "raw_hot": 52654,
+      "num": 52654,
       "word": "大侦探9号小孩是何老师",
       "onboard_time": 1708539739,
       "rank": 22,
@@ -11283,6 +11291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33380,
+      "num": 25332,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32772,
       "num": 32772,
       "word": "马思纯孙千你俩有点暧昧了",
@@ -11339,14 +11355,6 @@
       "category": "数码,科学科普"
     },
     {
-      "raw_hot": 24500,
-      "num": 24500,
-      "word": "高铁晚点",
-      "onboard_time": 1708540159,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24472,
       "num": 24472,
       "word": "才知道这种手提袋是可以锁起来的",
@@ -11369,6 +11377,14 @@
       "onboard_time": 1708192041,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 21415,
+      "num": 21415,
+      "word": "新疆阿图什3.6级地震",
+      "onboard_time": 1708540937,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19659,
@@ -11401,6 +11417,14 @@
       "onboard_time": 1708463297,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18481,
+      "num": 18481,
+      "word": "2024江苏卫视元宵晚会首波阵容",
+      "onboard_time": 1708542376,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 16572,

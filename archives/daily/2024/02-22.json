@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708540464031,
+  "endTime": 1708542824542,
   "band_list": [
     {
       "raw_hot": 1160009,
@@ -235,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137443,
+      "num": 137443,
+      "word": "航班延误",
+      "onboard_time": 1708539559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133913,
       "num": 133913,
       "word": "宋雨琦丸子头",
       "onboard_time": 1708521875,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132762,
+      "num": 132762,
+      "word": "丽丽婚礼",
+      "onboard_time": 1708538901,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 126359,
@@ -313,14 +329,6 @@
       "onboard_time": 1708524637,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105874,
-      "num": 89478,
-      "word": "丽丽婚礼",
-      "onboard_time": 1708538901,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 105713,
@@ -435,11 +443,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63277,
-      "num": 63277,
-      "word": "航班延误",
-      "onboard_time": 1708539559,
-      "rank": 42,
+      "raw_hot": 70117,
+      "num": 70117,
+      "word": "高铁晚点",
+      "onboard_time": 1708540159,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -451,8 +459,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 51737,
-      "num": 51737,
+      "raw_hot": 52654,
+      "num": 52654,
       "word": "大侦探9号小孩是何老师",
       "onboard_time": 1708539739,
       "rank": 22,
@@ -491,12 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 24500,
-      "num": 24500,
-      "word": "高铁晚点",
-      "onboard_time": 1708540159,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 33380,
+      "num": 25332,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 24472,
@@ -507,12 +515,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21415,
+      "num": 21415,
+      "word": "新疆阿图什3.6级地震",
+      "onboard_time": 1708540937,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19074,
       "num": 913134,
       "word": "冰雪消费迸活力新场景激发新需求",
       "onboard_time": 1708518334,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18481,
+      "num": 18481,
+      "word": "2024江苏卫视元宵晚会首波阵容",
+      "onboard_time": 1708542376,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
