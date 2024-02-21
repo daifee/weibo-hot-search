@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708522450037,
+  "endTime": 1708524950256,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -25,6 +25,14 @@
       "onboard_time": 1708482036,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2492281,
+      "num": 2492281,
+      "word": "狂飙麻子爆改",
+      "onboard_time": 1708521275,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2423090,
@@ -201,14 +209,6 @@
       "onboard_time": 1708491457,
       "rank": 21,
       "category": "社会新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 1443167,
-      "num": 1443167,
-      "word": "狂飙麻子爆改",
-      "onboard_time": 1708521275,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1391956,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707263,
+      "num": 409746,
+      "word": "国台办严正要求台湾有关方面尽快公布事实真相",
+      "onboard_time": 1708521576,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 684378,
       "num": 684378,
       "word": "陈梦11比0",
@@ -577,6 +585,14 @@
       "onboard_time": 1708516892,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 617486,
+      "num": 617486,
+      "word": "宋雨琦丸子头",
+      "onboard_time": 1708521875,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 615860,
@@ -795,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 462452,
+      "num": 462452,
+      "word": "经纪人回应黄嘉千被夏克立家暴",
+      "onboard_time": 1708521636,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460677,
       "num": 415053,
       "word": "柳鑫宇自曝事件",
@@ -825,6 +849,14 @@
       "onboard_time": 1708517374,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 439676,
+      "num": 439676,
+      "word": "台湾方面须给一个明确交代",
+      "onboard_time": 1708524458,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 436155,
@@ -987,6 +1019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 369812,
+      "num": 369812,
+      "word": "郑恺牛仔裙",
+      "onboard_time": 1708522653,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 367698,
       "num": 367698,
       "word": "T1 科研",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1708494513,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 366252,
+      "num": 366252,
+      "word": "贵州2名扑火牺牲人员仅20来岁",
+      "onboard_time": 1708523073,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364875,
@@ -1123,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322159,
+      "num": 322159,
+      "word": "陈靖可 土木人",
+      "onboard_time": 1708523557,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321667,
       "num": 321667,
       "word": "西安的雪往下砸",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1708505854,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 313388,
-      "num": 313388,
-      "word": "宋雨琦丸子头",
-      "onboard_time": 1708521875,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 312819,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1708505676,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293615,
+      "num": 293615,
+      "word": "杜江晒嗯哼侧颜",
+      "onboard_time": 1708524817,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 292691,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1708509514,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 256526,
-      "num": 186143,
-      "word": "国台办严正要求台湾有关方面尽快公布事实真相",
-      "onboard_time": 1708521576,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 256394,
@@ -1675,14 +1723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225365,
-      "num": 225365,
-      "word": "经纪人回应黄嘉千被夏克立家暴",
-      "onboard_time": 1708521636,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224916,
       "num": 224916,
       "word": "马立奥第一次吃糖葫芦",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1708514073,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223038,
+      "num": 223038,
+      "word": "浙江多地新学期上课不到90天",
+      "onboard_time": 1708523795,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 220792,
@@ -1777,6 +1825,14 @@
       "onboard_time": 1708492237,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207344,
+      "num": 207344,
+      "word": "妈祖出游前梳妆打扮过程",
+      "onboard_time": 1708523975,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 206837,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1708507779,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193632,
+      "num": 193632,
+      "word": "丁程鑫栗子发色",
+      "onboard_time": 1708524575,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193326,
@@ -2035,6 +2099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177409,
+      "num": 177409,
+      "word": "王楚钦说落后时从没想过放弃",
+      "onboard_time": 1708524156,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177184,
       "num": 177184,
       "word": "萌兰偶遇不明飞行物",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1708484974,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174520,
+      "num": 174520,
+      "word": "女儿晚上睡觉都能笑醒",
+      "onboard_time": 1708524637,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 173503,
@@ -2195,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164710,
+      "num": 164710,
+      "word": "张小彦 打开恋爱任督二脉",
+      "onboard_time": 1708522535,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163735,
       "num": 163735,
       "word": "胡先煦一人分饰两角",
@@ -2249,6 +2337,14 @@
       "onboard_time": 1708483471,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 157914,
+      "num": 157914,
+      "word": "不要和别人比命好",
+      "onboard_time": 1708524516,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 156275,
@@ -2529,6 +2625,14 @@
       "onboard_time": 1708516716,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130741,
+      "num": 130741,
+      "word": "李明德希望被更多人记住名字",
+      "onboard_time": 1708524817,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 127234,
