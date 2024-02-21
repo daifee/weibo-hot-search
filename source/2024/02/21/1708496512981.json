@@ -1,0 +1,410 @@
+{
+  "runTime": 1708496512981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1735579,
+        "num": 1735579,
+        "word": "派出所回应网传父亲出轨儿子女友",
+        "onboard_time": 1708492176,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679449,
+        "num": 1679449,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 1,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 44932,
+        "num": 1465646,
+        "word": "雪天出行安全指南",
+        "onboard_time": 1708484077,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446420,
+        "num": 1446420,
+        "word": "养娃到本科毕业平均花费68万元",
+        "onboard_time": 1708491457,
+        "rank": 3,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 1007140,
+        "num": 1007140,
+        "word": "齐齐哈尔体育馆坍塌事故51人被追责",
+        "onboard_time": 1708495295,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889260,
+        "num": 889260,
+        "word": "节后办公室7个人里5个咳",
+        "onboard_time": 1708493553,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 792579,
+        "num": 792579,
+        "word": "马思纯后悔该骂回去时选择了逃走",
+        "onboard_time": 1708489959,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 738938,
+        "num": 738938,
+        "word": "迪丽热巴 大冰梗",
+        "onboard_time": 1708490495,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701800,
+        "num": 701800,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533950,
+        "num": 533950,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670121,
+        "num": 528530,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 518266,
+        "num": 518266,
+        "word": "王涛否认梅西道歉视频为AI合成",
+        "onboard_time": 1708490916,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511606,
+        "num": 511606,
+        "word": "女大学生3个月暴减60斤",
+        "onboard_time": 1708487437,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479318,
+        "num": 479318,
+        "word": "迪丽热巴时装三月封面",
+        "onboard_time": 1708495295,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 438911,
+        "num": 438911,
+        "word": "马思纯终于把爱情排最后了",
+        "onboard_time": 1708495355,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428740,
+        "num": 428740,
+        "word": "春晚60万大奖得主现身",
+        "onboard_time": 1708496129,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418335,
+        "num": 418335,
+        "word": "四六级成绩 小牌大耍",
+        "onboard_time": 1708481196,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 396786,
+        "num": 396786,
+        "word": "镜玄",
+        "onboard_time": 1708494933,
+        "rank": 17,
+        "category": "旅游,动漫"
+      },
+      {
+        "raw_hot": 372059,
+        "num": 372059,
+        "word": "赵世子 宅男",
+        "onboard_time": 1708486654,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368429,
+        "num": 368429,
+        "word": "高圆圆台北公园带女儿玩耍",
+        "onboard_time": 1708491099,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476059,
+        "num": 368396,
+        "word": "情侣捡14万定制项链又丢弃赔4.5万",
+        "onboard_time": 1708493074,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367249,
+        "num": 367249,
+        "word": "易烊千玺谈小小的我",
+        "onboard_time": 1708494513,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440704,
+        "num": 363006,
+        "word": "月经提前和推迟都是正常现象",
+        "onboard_time": 1708490017,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355219,
+        "num": 355219,
+        "word": "李翊云小儿子去世",
+        "onboard_time": 1708480117,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 350798,
+        "num": 350798,
+        "word": "范伟赵丽颖17年后再合作",
+        "onboard_time": 1708495954,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325803,
+        "num": 325803,
+        "word": "上海飞青岛票价只要14元",
+        "onboard_time": 1708485334,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315395,
+        "num": 315395,
+        "word": "肖战 羽绒服",
+        "onboard_time": 1708487195,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273204,
+        "num": 273204,
+        "word": "台媒曝夏克立家暴黄嘉千细节",
+        "onboard_time": 1708478736,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253313,
+        "num": 253313,
+        "word": "周杰伦霉霉演唱会座位",
+        "onboard_time": 1708473151,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247755,
+        "num": 247755,
+        "word": "金门地检承认无大陆渔船翻覆事件录像被批",
+        "onboard_time": 1708494813,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240100,
+        "num": 240100,
+        "word": "能不能延迟开学",
+        "onboard_time": 1708495534,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232010,
+        "num": 232010,
+        "word": "福建游神 终于能认全各位了",
+        "onboard_time": 1708493255,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 228624,
+        "num": 228624,
+        "word": "感冒了",
+        "onboard_time": 1708488457,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228408,
+        "num": 228408,
+        "word": "A股超5000只个股上涨",
+        "onboard_time": 1708490437,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224916,
+        "num": 224916,
+        "word": "马立奥第一次吃糖葫芦",
+        "onboard_time": 1708495174,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223055,
+        "num": 223055,
+        "word": "谈恋爱最不受欢迎的星座",
+        "onboard_time": 1708472969,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 207265,
+        "num": 207265,
+        "word": "何运晨第二十条观后感",
+        "onboard_time": 1708490495,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199979,
+        "num": 199979,
+        "word": "第一次听英语母语者说话",
+        "onboard_time": 1708490201,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194909,
+        "num": 194909,
+        "word": "中国生育成本报告2024版",
+        "onboard_time": 1708489779,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189814,
+        "num": 189814,
+        "word": "制片人评价白敬亭",
+        "onboard_time": 1708475671,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189245,
+        "num": 189245,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188763,
+        "num": 188763,
+        "word": "赵雷南京抢票",
+        "onboard_time": 1708496313,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177184,
+        "num": 177184,
+        "word": "萌兰偶遇不明飞行物",
+        "onboard_time": 1708494094,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174671,
+        "num": 174671,
+        "word": "夫妻离婚要求分割2孩子26万压岁钱",
+        "onboard_time": 1708474834,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170551,
+        "num": 170551,
+        "word": "抑郁症的4种真实表现",
+        "onboard_time": 1708496071,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164519,
+        "num": 164519,
+        "word": "布林肯声称各国不上餐桌就上菜单",
+        "onboard_time": 1708495835,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 163366,
+        "num": 163366,
+        "word": "IU玄学",
+        "onboard_time": 1708483834,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152658,
+        "num": 152658,
+        "word": "以后我的C盘永远不会满了",
+        "onboard_time": 1708484435,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150404,
+        "num": 150404,
+        "word": "莫文蔚新歌唱哭了",
+        "onboard_time": 1708495414,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148388,
+        "num": 148388,
+        "word": "iOS17.4更新电池健康菜单",
+        "onboard_time": 1708485093,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#粤港澳大湾区如何把握大机遇#"
+    }
+  }
+}
