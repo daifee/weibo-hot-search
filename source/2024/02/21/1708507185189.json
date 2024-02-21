@@ -1,0 +1,410 @@
+{
+  "runTime": 1708507185189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1852385,
+        "num": 1852385,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1373273,
+        "num": 1373273,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143167,
+        "num": 1277830,
+        "word": "拼出热辣滚烫赢得飞驰人生",
+        "onboard_time": 1708502856,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1245711,
+        "num": 1245711,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 855516,
+        "num": 855516,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717838,
+        "num": 717838,
+        "word": "长沙火车站当事女子发文回应",
+        "onboard_time": 1708505257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670071,
+        "num": 670071,
+        "word": "陈梦11比0",
+        "onboard_time": 1708505075,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649201,
+        "num": 649201,
+        "word": "魏大勋明侦拿了孟宴臣剧本",
+        "onboard_time": 1708502616,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632881,
+        "num": 632881,
+        "word": "医生称贾玲式减肥要有诊疗团队",
+        "onboard_time": 1708498715,
+        "rank": 8,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 583229,
+        "num": 583229,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 708247,
+        "num": 576820,
+        "word": "派出所回应网传父亲出轨儿子女友",
+        "onboard_time": 1708492176,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557359,
+        "num": 557359,
+        "word": "易烊千玺谈主动选择权",
+        "onboard_time": 1708502913,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503161,
+        "num": 503161,
+        "word": "节后办公室7个人里5个咳",
+        "onboard_time": 1708493553,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 485306,
+        "num": 485306,
+        "word": "王诗玥柳鑫宇第一",
+        "onboard_time": 1708501176,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440083,
+        "num": 440083,
+        "word": "贵州山火",
+        "onboard_time": 1708503634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427094,
+        "num": 427094,
+        "word": "徐冬冬当自己婚礼真人秀总导演",
+        "onboard_time": 1708504112,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400175,
+        "num": 400175,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394990,
+        "num": 394990,
+        "word": "小米汽车价格",
+        "onboard_time": 1708499434,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 388374,
+        "num": 388374,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361771,
+        "num": 361771,
+        "word": "梧桐妹戴了9个环",
+        "onboard_time": 1708496671,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475839,
+        "num": 352926,
+        "word": "哪些人是艾滋病高风险人群",
+        "onboard_time": 1708502375,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335584,
+        "num": 335584,
+        "word": "原来看嘴巴也能发现痔疮",
+        "onboard_time": 1708499673,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323327,
+        "num": 323327,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 22,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 317085,
+        "num": 317085,
+        "word": "当爷爷知道我的猫4000一只时",
+        "onboard_time": 1708501714,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316242,
+        "num": 316242,
+        "word": "王者沈梦溪新皮肤",
+        "onboard_time": 1708505012,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314697,
+        "num": 314697,
+        "word": "生还渔民揭露台粗暴对待大陆渔船真相",
+        "onboard_time": 1708505854,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295614,
+        "num": 295614,
+        "word": "金博洋短节目89.20分",
+        "onboard_time": 1708505676,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290042,
+        "num": 290042,
+        "word": "结婚是找能玩一辈子的朋友",
+        "onboard_time": 1708503154,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284258,
+        "num": 284258,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277472,
+        "num": 277472,
+        "word": "张凌赫健身奶茶两不误",
+        "onboard_time": 1708506873,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270753,
+        "num": 270753,
+        "word": "易烊千玺准备进组狂野时代",
+        "onboard_time": 1708506633,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269255,
+        "num": 269255,
+        "word": "张婧仪哭戏",
+        "onboard_time": 1708505915,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267908,
+        "num": 267908,
+        "word": "花滑协会回应柳鑫宇事件",
+        "onboard_time": 1708497394,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264914,
+        "num": 264914,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 231377,
+        "num": 231377,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 34,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 223889,
+        "num": 223889,
+        "word": "情侣捡14万定制项链又丢弃赔4.5万",
+        "onboard_time": 1708493074,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218756,
+        "num": 218756,
+        "word": "有关部门介入调查秦朗丢寒假作业事件",
+        "onboard_time": 1708496612,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210843,
+        "num": 210843,
+        "word": "SMTOWN",
+        "onboard_time": 1708503339,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210577,
+        "num": 210577,
+        "word": "王诗玥柳鑫宇登场",
+        "onboard_time": 1708497874,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196658,
+        "num": 196658,
+        "word": "孙颖莎3比0基尼帕",
+        "onboard_time": 1708506993,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185261,
+        "num": 185261,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184569,
+        "num": 184569,
+        "word": "狗狗认出好朋友后立刻起身抱住",
+        "onboard_time": 1708506575,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183937,
+        "num": 183937,
+        "word": "中国女团vs泰国",
+        "onboard_time": 1708503215,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172571,
+        "num": 172571,
+        "word": "孙悟空帽子",
+        "onboard_time": 1708505493,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163962,
+        "num": 163962,
+        "word": "女大学生3个月暴减60斤",
+        "onboard_time": 1708487437,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163932,
+        "num": 163932,
+        "word": "爸妈一直管我的微信头像",
+        "onboard_time": 1708507113,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162417,
+        "num": 162417,
+        "word": "SMTOWN艺人出发",
+        "onboard_time": 1708501836,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160839,
+        "num": 160839,
+        "word": "养娃到本科毕业平均花费68万元",
+        "onboard_time": 1708491457,
+        "rank": 47,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 159102,
+        "num": 159102,
+        "word": "四六级成绩 小牌大耍",
+        "onboard_time": 1708481196,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151213,
+        "num": 151213,
+        "word": "马思纯后悔该骂回去时选择了逃走",
+        "onboard_time": 1708489959,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
+    }
+  }
+}
