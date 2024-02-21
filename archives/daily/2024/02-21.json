@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708477896825,
+  "endTime": 1708479079705,
   "band_list": [
     {
       "raw_hot": 2075853,
@@ -16,6 +16,14 @@
       "word": "央视网评秦朗丢寒假作业事件",
       "onboard_time": 1708440879,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1828727,
+      "num": 1828727,
+      "word": "夫妻离婚要求分割2孩子26万压岁钱",
+      "onboard_time": 1708474834,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -35,14 +43,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 1625857,
-      "num": 1625857,
-      "word": "夫妻离婚要求分割2孩子26万压岁钱",
-      "onboard_time": 1708474834,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1622760,
       "num": 1622760,
       "word": "许凯报警",
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1194631,
-      "num": 1194631,
+      "raw_hot": 1221479,
+      "num": 1221479,
       "word": "制片人评价白敬亭",
       "onboard_time": 1708475671,
       "rank": 5,
@@ -91,19 +91,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839627,
+      "num": 839627,
+      "word": "第二十条票房反超熊出没",
+      "onboard_time": 1708475738,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 780059,
       "num": 780059,
       "word": "目前票房前6都是跨界导演",
       "onboard_time": 1708445254,
       "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 773995,
-      "num": 773995,
-      "word": "第二十条票房反超熊出没",
-      "onboard_time": 1708475738,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542078,
+      "num": 542078,
+      "word": "中方对美否决加沙停火决议强烈不满和失望",
+      "onboard_time": 1708477594,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516169,
       "num": 516169,
       "word": "冻雨",
@@ -155,12 +163,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 500615,
+      "num": 500615,
+      "word": "台媒曝夏克立家暴黄嘉千细节",
+      "onboard_time": 1708478736,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494264,
       "num": 422678,
       "word": "钱学森写在香烟纸上的求救信",
       "onboard_time": 1708441360,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473370,
+      "num": 473370,
+      "word": "蕉太狼",
+      "onboard_time": 1708474654,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 472730,
@@ -259,20 +283,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 352186,
-      "num": 352186,
-      "word": "蕉太狼",
-      "onboard_time": 1708474654,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 312819,
       "num": 312819,
       "word": "多部门已介入核查柳鑫宇自曝事件",
       "onboard_time": 1708408239,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 310232,
+      "num": 310232,
+      "word": "原来神仙都有自己的小癖好",
+      "onboard_time": 1708475132,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307541,
@@ -291,6 +315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 296982,
+      "num": 296982,
+      "word": "四六级成绩倒计时",
+      "onboard_time": 1708439741,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287358,
       "num": 287358,
       "word": "联合国安理会加沙决议再遭美国一票否决",
@@ -299,12 +331,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 285468,
+      "num": 285468,
+      "word": "昌平线",
+      "onboard_time": 1708477775,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282823,
       "num": 282823,
       "word": "厚福游神",
       "onboard_time": 1708475671,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 279541,
+      "num": 279541,
+      "word": "i人凌迟椅",
+      "onboard_time": 1708474471,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 279341,
@@ -323,27 +371,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 257292,
-      "num": 257292,
-      "word": "四六级成绩倒计时",
-      "onboard_time": 1708439741,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 256394,
       "num": 256394,
       "word": "后车想破头也不知道堵车原因是800只鹅",
       "onboard_time": 1708442259,
       "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 249026,
-      "num": 249026,
-      "word": "i人凌迟椅",
-      "onboard_time": 1708474471,
-      "rank": 29,
       "category": "幽默"
     },
     {
@@ -363,12 +395,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 240597,
-      "num": 240597,
-      "word": "原来神仙都有自己的小癖好",
-      "onboard_time": 1708475132,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 244399,
+      "num": 244399,
+      "word": "加沙停火协议遭美一票否决",
+      "onboard_time": 1708477955,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 239846,
@@ -377,6 +409,14 @@
       "onboard_time": 1708448065,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238694,
+      "num": 238694,
+      "word": "苹果升级iPhone16麦克风",
+      "onboard_time": 1708478434,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 237267,
@@ -395,12 +435,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227914,
+      "num": 227914,
+      "word": "柳智敏 清水洁子实存",
+      "onboard_time": 1708478553,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220792,
+      "num": 220792,
+      "word": "任敏男装",
+      "onboard_time": 1708477894,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218938,
       "num": 218938,
       "word": "艾尔登法环DLC预告",
       "onboard_time": 1708477118,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215846,
+      "num": 215846,
+      "word": "倒查IPO企业十年财务数据",
+      "onboard_time": 1708478136,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 206837,
@@ -411,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202694,
-      "num": 202694,
-      "word": "中方对美否决加沙停火决议强烈不满和失望",
-      "onboard_time": 1708477594,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 198518,
       "num": 198518,
       "word": "喜剧演员是对他最大的误解",
       "onboard_time": 1708444596,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197180,
+      "num": 197180,
+      "word": "西安下雪",
+      "onboard_time": 1708478316,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191205,
@@ -529,14 +593,6 @@
       "onboard_time": 1708431878,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141687,
-      "num": 141687,
-      "word": "昌平线",
-      "onboard_time": 1708477775,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141317,
