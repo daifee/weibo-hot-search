@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708489220450,
+  "endTime": 1708490041933,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1474973,
-      "num": 1474973,
+      "raw_hot": 1576946,
+      "num": 1576946,
       "word": "上海飞青岛票价只要14元",
       "onboard_time": 1708485334,
       "rank": 42,
@@ -131,8 +131,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1098163,
-      "num": 779161,
+      "raw_hot": 1163774,
+      "num": 793323,
       "word": "柳鑫宇收入",
       "onboard_time": 1708485816,
       "rank": 16,
@@ -145,6 +145,14 @@
       "onboard_time": 1708483053,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088010,
+      "num": 1088010,
+      "word": "赵世子 宅男",
+      "onboard_time": 1708486654,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1052871,
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 997525,
-      "num": 997525,
-      "word": "赵世子 宅男",
-      "onboard_time": 1708486654,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 974417,
       "num": 974417,
       "word": "肖战 羽绒服",
       "onboard_time": 1708487195,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 942249,
+      "num": 942249,
+      "word": "县城经济",
+      "onboard_time": 1708486414,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 927249,
@@ -211,12 +219,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 743587,
-      "num": 743587,
-      "word": "县城经济",
-      "onboard_time": 1708486414,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 768761,
+      "num": 768761,
+      "word": "感冒了",
+      "onboard_time": 1708488457,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 740917,
@@ -235,7 +243,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 662280,
+      "raw_hot": 708251,
       "num": 395640,
       "word": "女大学生3个月暴减60斤",
       "onboard_time": 1708487437,
@@ -475,12 +483,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 328308,
-      "num": 328308,
-      "word": "感冒了",
-      "onboard_time": 1708488457,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 331623,
+      "num": 331623,
+      "word": "马思纯后悔该骂回去时选择了逃走",
+      "onboard_time": 1708489959,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323678,
+      "num": 323678,
+      "word": "福建神明系统",
+      "onboard_time": 1708487915,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 322572,
@@ -528,6 +544,14 @@
       "word": "余文乐42岁近照",
       "onboard_time": 1708475852,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 302660,
+      "num": 302660,
+      "word": "张颂文 我的互联网大朋友",
+      "onboard_time": 1708488638,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -596,19 +620,11 @@
     },
     {
       "raw_hot": 274589,
-      "num": 295779,
+      "num": 320507,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
       "onboard_time": 1708480533,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 268370,
-      "num": 268370,
-      "word": "福建神明系统",
-      "onboard_time": 1708487915,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 264124,
@@ -641,6 +657,14 @@
       "onboard_time": 1708442259,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251367,
+      "num": 251367,
+      "word": "今年的待播古装剧",
+      "onboard_time": 1708488755,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 248522,
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233076,
-      "num": 233076,
-      "word": "张颂文 我的互联网大朋友",
-      "onboard_time": 1708488638,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232728,
       "num": 232728,
       "word": "票房",
@@ -713,6 +729,14 @@
       "onboard_time": 1708447351,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228135,
+      "num": 615533,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227914,
@@ -779,12 +803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206675,
-      "num": 206675,
-      "word": "今年的待播古装剧",
-      "onboard_time": 1708488755,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 206837,
+      "num": 206837,
+      "word": "嗓子疼",
+      "onboard_time": 1708489655,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204105,
+      "num": 204105,
+      "word": "贵州普安山火2名救火人员牺牲",
+      "onboard_time": 1708489538,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202354,
@@ -795,20 +827,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199240,
+      "num": 199240,
+      "word": "动物园里演动物",
+      "onboard_time": 1708488394,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198518,
       "num": 198518,
       "word": "喜剧演员是对他最大的误解",
       "onboard_time": 1708444596,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197551,
-      "num": 615533,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197235,
@@ -833,6 +865,14 @@
       "onboard_time": 1708488338,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192975,
+      "num": 192975,
+      "word": "中国生育成本报告2024版",
+      "onboard_time": 1708489779,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192607,
@@ -873,14 +913,6 @@
       "onboard_time": 1708488578,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 177487,
-      "num": 177487,
-      "word": "动物园里演动物",
-      "onboard_time": 1708488394,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 177044,
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152236,
+      "num": 152236,
+      "word": "月经提前和推迟都是正常现象",
+      "onboard_time": 1708490017,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149346,
       "num": 149346,
       "word": "贵州普安山火已致2人遇难",
@@ -1076,7 +1116,7 @@
     },
     {
       "raw_hot": 137137,
-      "num": 171077,
+      "num": 388201,
       "word": "什么是酸酶焕肤",
       "onboard_time": 1708489056,
       "rank": 43,
