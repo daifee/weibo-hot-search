@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708499758379,
+  "endTime": 1708500850425,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -139,6 +139,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 1391956,
+      "num": 1391956,
+      "word": "花滑协会回应柳鑫宇事件",
+      "onboard_time": 1708497394,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1346584,
       "num": 1346584,
       "word": "月经提前和推迟都是正常现象",
@@ -155,12 +163,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 1263027,
-      "num": 1263027,
-      "word": "花滑协会回应柳鑫宇事件",
-      "onboard_time": 1708497394,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 1231108,
+      "num": 603151,
+      "word": "长沙火车站",
+      "onboard_time": 1708498175,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1221479,
@@ -177,6 +185,14 @@
       "onboard_time": 1708473571,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1184803,
+      "num": 1184803,
+      "word": "梧桐妹戴了9个环",
+      "onboard_time": 1708496671,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1163774,
@@ -203,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1125745,
-      "num": 1125745,
-      "word": "梧桐妹戴了9个环",
-      "onboard_time": 1708496671,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 1116657,
+      "num": 1116657,
+      "word": "王诗玥柳鑫宇75.43分",
+      "onboard_time": 1708499736,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1096930,
@@ -315,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 783424,
+      "num": 783424,
+      "word": "迪丽热巴 折翼天使",
+      "onboard_time": 1708496375,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 780059,
       "num": 780059,
       "word": "目前票房前6都是跨界导演",
       "onboard_time": 1708445254,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 772443,
+      "num": 772443,
+      "word": "医生称贾玲式减肥要有诊疗团队",
+      "onboard_time": 1708498715,
+      "rank": 19,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 740917,
@@ -347,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705228,
-      "num": 705228,
-      "word": "迪丽热巴 折翼天使",
-      "onboard_time": 1708496375,
-      "rank": 40,
-      "category": "作品衍生,时尚"
+      "raw_hot": 697950,
+      "num": 588004,
+      "word": "小米汽车价格",
+      "onboard_time": 1708499434,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 674192,
@@ -400,14 +432,6 @@
       "word": "未买手镯被赶下车游客对通报不认可",
       "onboard_time": 1708472727,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 603151,
-      "num": 603151,
-      "word": "长沙火车站",
-      "onboard_time": 1708498175,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -571,14 +595,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 413410,
-      "num": 413410,
-      "word": "医生称贾玲式减肥要有诊疗团队",
-      "onboard_time": 1708498715,
-      "rank": 19,
-      "category": "健康医疗,艺人"
-    },
-    {
       "raw_hot": 407899,
       "num": 366626,
       "word": "毕业工作四年只存了4w块钱",
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381478,
+      "num": 381478,
+      "word": "真假柳鑫宇",
+      "onboard_time": 1708499314,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374437,
       "num": 374437,
       "word": "赵雷南京抢票",
@@ -667,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 364875,
+      "num": 364875,
+      "word": "易烊千玺晒图",
+      "onboard_time": 1708499434,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 363344,
       "num": 363344,
       "word": "柳鑫宇发声",
@@ -691,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345812,
+      "num": 345812,
+      "word": "原来看嘴巴也能发现痔疮",
+      "onboard_time": 1708499673,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 343810,
       "num": 343810,
       "word": "痔疮膏购买力广东全国第1",
@@ -713,6 +753,14 @@
       "onboard_time": 1708489655,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 323919,
+      "num": 323919,
+      "word": "10岁男孩患罕见病手脚爬满茧状物",
+      "onboard_time": 1708497333,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323692,
@@ -747,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321353,
-      "num": 321353,
-      "word": "10岁男孩患罕见病手脚爬满茧状物",
-      "onboard_time": 1708497333,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317463,
       "num": 317463,
       "word": "看似胡闹 实则大孝",
@@ -784,6 +824,14 @@
       "word": "余文乐42岁近照",
       "onboard_time": 1708475852,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306371,
+      "num": 306371,
+      "word": "黄明昊把自己当外卖送到朋友家",
+      "onboard_time": 1708499014,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -867,14 +915,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 280446,
-      "num": 280446,
-      "word": "真假柳鑫宇",
-      "onboard_time": 1708499314,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279541,
       "num": 279541,
       "word": "i人凌迟椅",
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 271718,
-      "num": 284877,
+      "num": 296300,
       "word": "金门地检承认无大陆渔船翻覆事件录像被批",
       "onboard_time": 1708494813,
       "rank": 29,
@@ -931,14 +971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 259071,
-      "num": 259071,
-      "word": "小米汽车价格",
-      "onboard_time": 1708499434,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 258847,
       "num": 258847,
       "word": "故宫雪景",
@@ -953,6 +985,22 @@
       "onboard_time": 1708442259,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254909,
+      "num": 254909,
+      "word": "张栋梁介绍新人张栋梁",
+      "onboard_time": 1708500274,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252438,
+      "num": 252438,
+      "word": "周杰伦霉霉演唱会待遇",
+      "onboard_time": 1708500454,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 251367,
@@ -1003,28 +1051,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 241621,
-      "num": 241621,
-      "word": "易烊千玺晒图",
-      "onboard_time": 1708499434,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 239846,
       "num": 237970,
       "word": "中国女游客泰国搭摩托车险遭司机强暴",
       "onboard_time": 1708448065,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237489,
-      "num": 237489,
-      "word": "黄明昊把自己当外卖送到朋友家",
-      "onboard_time": 1708499014,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 237267,
@@ -1131,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216401,
-      "num": 216401,
-      "word": "王诗玥柳鑫宇75.43分",
-      "onboard_time": 1708499736,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215846,
       "num": 215846,
       "word": "倒查IPO企业十年财务数据",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1708485035,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210127,
+      "num": 210127,
+      "word": "Sora又把中美AI的差距拉大了吗",
+      "onboard_time": 1708499134,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 208394,
@@ -1171,6 +1203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206750,
+      "num": 206750,
+      "word": "柳鑫宇心理素质",
+      "onboard_time": 1708500636,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204519,
+      "num": 204519,
+      "word": "无限超越班2阵容官宣",
+      "onboard_time": 1708499856,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202354,
       "num": 202354,
       "word": "电影打不过就跑算不算耍赖皮",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1708488394,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198713,
-      "num": 198713,
-      "word": "Sora又把中美AI的差距拉大了吗",
-      "onboard_time": 1708499134,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 198518,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1708478316,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195964,
+      "num": 195964,
+      "word": "专家分析梅西道歉视频是否为AI生成",
+      "onboard_time": 1708500214,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 195782,
@@ -1371,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165319,
-      "num": 165319,
-      "word": "原来看嘴巴也能发现痔疮",
-      "onboard_time": 1708499673,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 165281,
       "num": 165281,
       "word": "肖战工作室倡议书",
@@ -1459,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147408,
+      "num": 147408,
+      "word": "刚满月的宝宝发量惊人像真人版蒙奇奇",
+      "onboard_time": 1708500754,
+      "rank": 47,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 146172,
       "num": 146172,
       "word": "恋与深空开门了",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1708471224,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137219,
+      "num": 137219,
+      "word": "这么通猫性的人可不多见",
+      "onboard_time": 1708500816,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 137137,
@@ -1763,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72104,
+      "num": 1260830,
+      "word": "成渝地区双城经济圈GDP破8万亿",
+      "onboard_time": 1708483895,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68563,
       "num": 68563,
       "word": "时代少年团开通B站账号",
@@ -1841,14 +1905,6 @@
       "onboard_time": 1708450462,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 46708,
-      "num": 1152874,
-      "word": "成渝地区双城经济圈GDP破8万亿",
-      "onboard_time": 1708483895,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38157,
