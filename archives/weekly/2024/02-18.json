@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708482116473,
+  "endTime": 1708482833903,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1893124,
+      "num": 1893124,
+      "word": "朴敏英患抑郁症",
+      "onboard_time": 1708481258,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1891402,
       "num": 1891402,
       "word": "吴尊评论",
@@ -667,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1376316,
-      "num": 1376316,
-      "word": "朴敏英患抑郁症",
-      "onboard_time": 1708481258,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1373650,
       "num": 1373650,
       "word": "西虹市首富或将按原剧本重拍",
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 1276607,
-      "num": 661527,
+      "num": 1264022,
       "word": "李翊云小儿子去世",
       "onboard_time": 1708480117,
       "rank": 12,
@@ -921,6 +921,14 @@
       "onboard_time": 1708473571,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1187669,
+      "num": 1187669,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1173753,
@@ -3043,6 +3051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407577,
+      "num": 407577,
+      "word": "四川省考成绩",
+      "onboard_time": 1708482515,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 405210,
       "num": 405210,
       "word": "亲爱的 还有另一半呢",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1708314273,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 386815,
+      "num": 386815,
+      "word": "原来神仙都有自己的小癖好",
+      "onboard_time": 1708475132,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384402,
@@ -3353,14 +3377,6 @@
       "onboard_time": 1708413995,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 369362,
-      "num": 369362,
-      "word": "原来神仙都有自己的小癖好",
-      "onboard_time": 1708475132,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368946,
@@ -3569,6 +3585,14 @@
       "onboard_time": 1708418919,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343810,
+      "num": 343810,
+      "word": "痔疮膏购买力广东全国第1",
+      "onboard_time": 1708481133,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 342790,
@@ -3787,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321667,
+      "num": 321667,
+      "word": "西安的雪往下砸",
+      "onboard_time": 1708480837,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321261,
       "num": 321261,
       "word": "沙尘暴",
@@ -3929,14 +3961,6 @@
       "onboard_time": 1708426059,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305598,
-      "num": 305598,
-      "word": "痔疮膏购买力广东全国第1",
-      "onboard_time": 1708481133,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 305568,
@@ -4403,8 +4427,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 274534,
-      "num": 274534,
+      "raw_hot": 274589,
+      "num": 274589,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
       "onboard_time": 1708480533,
       "rank": 40,
@@ -4456,14 +4480,6 @@
       "word": "派出所回应父亲把3岁孩子扔下楼",
       "onboard_time": 1708399957,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272287,
-      "num": 272287,
-      "word": "西安的雪往下砸",
-      "onboard_time": 1708480837,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4603,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265814,
+      "num": 265814,
+      "word": "易烊千玺ELLE3月刊封面",
+      "onboard_time": 1708482195,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 265362,
       "num": 265362,
       "word": "Kpop可汗大点兵",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1708414899,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 259908,
+      "num": 259908,
+      "word": "出现这7种表现可能是蛋白质没吃够",
+      "onboard_time": 1708479274,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258847,
@@ -5035,6 +5067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242497,
+      "num": 242497,
+      "word": "看似胡闹 实则大孝",
+      "onboard_time": 1708482515,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241550,
       "num": 241550,
       "word": "江苏卫视长风渡定档",
@@ -5297,14 +5337,6 @@
       "onboard_time": 1708478553,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 227897,
-      "num": 227897,
-      "word": "出现这7种表现可能是蛋白质没吃够",
-      "onboard_time": 1708479274,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 227619,
@@ -6587,14 +6619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186284,
-      "num": 186284,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -7097,6 +7121,14 @@
       "onboard_time": 1708378755,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170716,
+      "num": 170716,
+      "word": "各位不要在我身体里谈恋爱",
+      "onboard_time": 1708482195,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 170685,
@@ -7675,6 +7707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152900,
+      "num": 152900,
+      "word": "成都地铁站首位龙宝宝诞生",
+      "onboard_time": 1708482456,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152618,
       "num": 152618,
       "word": "仙逆年番海报上线",
@@ -7892,7 +7932,7 @@
     },
     {
       "raw_hot": 145916,
-      "num": 1685435,
+      "num": 1733494,
       "word": "航天员拍摄的蔚蓝地球",
       "onboard_time": 1708437273,
       "rank": 2,
@@ -8905,6 +8945,14 @@
       "onboard_time": 1708286896,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58071,
+      "num": 144340,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57857,

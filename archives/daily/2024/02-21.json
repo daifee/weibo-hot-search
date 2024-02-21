@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708482116473,
+  "endTime": 1708482833903,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -32,6 +32,14 @@
       "word": "台媒曝夏克立家暴黄嘉千细节",
       "onboard_time": 1708478736,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1893124,
+      "num": 1893124,
+      "word": "朴敏英患抑郁症",
+      "onboard_time": 1708481258,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -75,16 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1376316,
-      "num": 1376316,
-      "word": "朴敏英患抑郁症",
-      "onboard_time": 1708481258,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1276607,
-      "num": 661527,
+      "num": 1264022,
       "word": "李翊云小儿子去世",
       "onboard_time": 1708480117,
       "rank": 12,
@@ -105,6 +105,14 @@
       "onboard_time": 1708473571,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1187669,
+      "num": 1187669,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1052871,
@@ -283,12 +291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407577,
+      "num": 407577,
+      "word": "四川省考成绩",
+      "onboard_time": 1708482515,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 404183,
       "num": 404183,
       "word": "米家崩了",
       "onboard_time": 1708473209,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 386815,
+      "num": 386815,
+      "word": "原来神仙都有自己的小癖好",
+      "onboard_time": 1708475132,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382271,
@@ -315,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369362,
-      "num": 369362,
-      "word": "原来神仙都有自己的小癖好",
-      "onboard_time": 1708475132,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367457,
       "num": 367457,
       "word": "cos赵世子男网红道歉",
@@ -339,6 +355,22 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 343810,
+      "num": 343810,
+      "word": "痔疮膏购买力广东全国第1",
+      "onboard_time": 1708481133,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 321667,
+      "num": 321667,
+      "word": "西安的雪往下砸",
+      "onboard_time": 1708480837,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312819,
       "num": 312819,
       "word": "多部门已介入核查柳鑫宇自曝事件",
@@ -353,14 +385,6 @@
       "onboard_time": 1708475852,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305598,
-      "num": 305598,
-      "word": "痔疮膏购买力广东全国第1",
-      "onboard_time": 1708481133,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 302265,
@@ -419,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274534,
-      "num": 274534,
+      "raw_hot": 274589,
+      "num": 274589,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
       "onboard_time": 1708480533,
       "rank": 40,
       "category": "美食"
     },
     {
-      "raw_hot": 272287,
-      "num": 272287,
-      "word": "西安的雪往下砸",
-      "onboard_time": 1708480837,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 265814,
+      "num": 265814,
+      "word": "易烊千玺ELLE3月刊封面",
+      "onboard_time": 1708482195,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264124,
@@ -441,6 +465,14 @@
       "onboard_time": 1708473813,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 259908,
+      "num": 259908,
+      "word": "出现这7种表现可能是蛋白质没吃够",
+      "onboard_time": 1708479274,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258847,
@@ -481,6 +513,14 @@
       "onboard_time": 1708477955,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 242497,
+      "num": 242497,
+      "word": "看似胡闹 实则大孝",
+      "onboard_time": 1708482515,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 239846,
@@ -529,14 +569,6 @@
       "onboard_time": 1708478553,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 227897,
-      "num": 227897,
-      "word": "出现这7种表现可能是蛋白质没吃够",
-      "onboard_time": 1708479274,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 220792,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186284,
-      "num": 186284,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177044,
       "num": 177044,
       "word": "曹璐直播",
@@ -648,6 +672,14 @@
       "word": "郑州打工人在等公司的一个通知",
       "onboard_time": 1708477415,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170716,
+      "num": 170716,
+      "word": "各位不要在我身体里谈恋爱",
+      "onboard_time": 1708482195,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152900,
+      "num": 152900,
+      "word": "成都地铁站首位龙宝宝诞生",
+      "onboard_time": 1708482456,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149346,
       "num": 149346,
       "word": "贵州普安山火已致2人遇难",
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 145916,
-      "num": 1685435,
+      "num": 1733494,
       "word": "航天员拍摄的蔚蓝地球",
       "onboard_time": 1708437273,
       "rank": 2,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1708471404,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 58071,
+      "num": 144340,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57469,
