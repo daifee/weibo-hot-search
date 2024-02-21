@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/01 00:20:11 ~ 2024/02/22 00:22:06
+本榜单时间：2024/02/01 00:20:11 ~ 2024/02/22 00:36:41
 </p>
 </blockquote>
 <p>
@@ -5199,6 +5199,12 @@ LV中国涨价（热度：948017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%AB%98%E5%8F%91%E7%9A%84%E5%97%93%E5%AD%90%E7%96%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E6%80%A5%E7%97%87%23" target="weibo">
+近期高发的嗓子疼可能是这种急症（热度：906576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%96%B0%E9%85%8D%E8%89%B2%23" target="weibo">
 iPhone16Pro新配色（热度：905117）
 </a>
@@ -5879,12 +5885,6 @@ A股创业板指跌至3%（热度：876304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IU%E7%8E%84%E5%AD%A6%23" target="weibo">
 IU玄学（热度：835431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%AB%98%E5%8F%91%E7%9A%84%E5%97%93%E5%AD%90%E7%96%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E6%80%A5%E7%97%87%23" target="weibo">
-近期高发的嗓子疼可能是这种急症（热度：835123）
 </a>
 </li>
 

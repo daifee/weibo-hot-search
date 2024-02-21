@@ -1,0 +1,410 @@
+{
+  "runTime": 1708533401772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048951,
+        "num": 1048951,
+        "word": "半亩花田 迪丽热巴",
+        "onboard_time": 1708528237,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1000135,
+        "num": 1000135,
+        "word": "台湾方面须给一个明确交代",
+        "onboard_time": 1708524458,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15500,
+        "num": 913134,
+        "word": "冰雪消费迸活力新场景激发新需求",
+        "onboard_time": 1708518334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906576,
+        "num": 906576,
+        "word": "近期高发的嗓子疼可能是这种急症",
+        "onboard_time": 1708526437,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 727199,
+        "num": 727199,
+        "word": "王诗龄家豪宅内景",
+        "onboard_time": 1708525360,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709949,
+        "num": 709949,
+        "word": "贵阳8场山火10人被处理",
+        "onboard_time": 1708527759,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657426,
+        "num": 657426,
+        "word": "狂飙麻子爆改",
+        "onboard_time": 1708521275,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 626988,
+        "num": 626988,
+        "word": "贾玲公开瘦身食谱",
+        "onboard_time": 1708517135,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463570,
+        "num": 463570,
+        "word": "魏晨这么多年了翻译还是这么好",
+        "onboard_time": 1708525596,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424028,
+        "num": 424028,
+        "word": "阿媒称梅西为国家队带来经济损失",
+        "onboard_time": 1708526977,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370395,
+        "num": 370395,
+        "word": "当博士小情侣陷入热恋",
+        "onboard_time": 1708527634,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353300,
+        "num": 353300,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269204,
+        "num": 269204,
+        "word": "姚安娜演技",
+        "onboard_time": 1708520973,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238875,
+        "num": 238875,
+        "word": "杜江晒嗯哼侧颜",
+        "onboard_time": 1708524817,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231054,
+        "num": 231054,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223187,
+        "num": 223187,
+        "word": "张萌说赵丽颖是最大惊喜",
+        "onboard_time": 1708528416,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203743,
+        "num": 203743,
+        "word": "徐明浩 可隆",
+        "onboard_time": 1708527276,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176368,
+        "num": 176368,
+        "word": "贵州2名扑火牺牲人员仅20来岁",
+        "onboard_time": 1708523073,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153817,
+        "num": 153817,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134207,
+        "num": 134207,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535759,
+        "num": 134093,
+        "word": "要睡多久觉才能把黑眼圈睡没",
+        "onboard_time": 1708529614,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 350440,
+        "num": 133981,
+        "word": "男孩吞下整根牙刷隐瞒了2天",
+        "onboard_time": 1708526137,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223587,
+        "num": 133851,
+        "word": "天秤座2024会发生的三件好事",
+        "onboard_time": 1708526498,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203512,
+        "num": 133757,
+        "word": "不敢让自己太爽",
+        "onboard_time": 1708529497,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201666,
+        "num": 133629,
+        "word": "韩网锐评朴振英泡泡",
+        "onboard_time": 1708532369,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141212,
+        "num": 133458,
+        "word": "每顿就炒一个菜的家庭",
+        "onboard_time": 1708510594,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133369,
+        "num": 133369,
+        "word": "苏醒应酬的标准",
+        "onboard_time": 1708530574,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125412,
+        "num": 125412,
+        "word": "霉霉登顶2023IFPI全球畅销艺人榜",
+        "onboard_time": 1708529554,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123328,
+        "num": 123328,
+        "word": "嗓子疼可能是一种凶险的急症",
+        "onboard_time": 1708526798,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115142,
+        "num": 115142,
+        "word": "16加8减肥",
+        "onboard_time": 1708520193,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126592,
+        "num": 113961,
+        "word": "马云妻子在新加坡购房",
+        "onboard_time": 1708509272,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 110831,
+        "word": "宋雨琦丸子头",
+        "onboard_time": 1708521875,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 105299,
+        "word": "我的阿勒泰过审",
+        "onboard_time": 1708515576,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104201,
+        "num": 104201,
+        "word": "15元一斤的番茄让全村人住上别墅",
+        "onboard_time": 1708514972,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95678,
+        "num": 95678,
+        "word": "王家卫在繁花中自己致敬自己",
+        "onboard_time": 1708528599,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95254,
+        "num": 95254,
+        "word": "丁禹兮猫病偷偷藏不住",
+        "onboard_time": 1708527156,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94853,
+        "num": 94853,
+        "word": "刘聪2024全球巡演",
+        "onboard_time": 1708531413,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 94078,
+        "word": "女儿晚上睡觉都能笑醒",
+        "onboard_time": 1708524637,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91212,
+        "num": 91212,
+        "word": "存款多少才合适裸辞",
+        "onboard_time": 1708517374,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89369,
+        "num": 89369,
+        "word": "祝绪丹雪景照",
+        "onboard_time": 1708531649,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88368,
+        "num": 88368,
+        "word": "手机电量需要低于20%再充吗",
+        "onboard_time": 1708510536,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81581,
+        "num": 81581,
+        "word": "不要和别人比命好",
+        "onboard_time": 1708524516,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81214,
+        "num": 81214,
+        "word": "孩子校服里掏出来的照片",
+        "onboard_time": 1708511318,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77215,
+        "num": 77215,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76498,
+        "num": 76498,
+        "word": "易烊千玺学着和身体和平相处",
+        "onboard_time": 1708525296,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76484,
+        "num": 76484,
+        "word": "日媒曝上百海上自卫队员集体拜鬼",
+        "onboard_time": 1708513774,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 74323,
+        "num": 74323,
+        "word": "宁艺卓全开麦版melody",
+        "onboard_time": 1708520551,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73299,
+        "num": 73299,
+        "word": "陈靖可 土木人",
+        "onboard_time": 1708523557,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67697,
+        "num": 67697,
+        "word": "这个月 头等舱空姐污名化",
+        "onboard_time": 1708515815,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59630,
+        "num": 65378,
+        "word": "国台办严正要求台湾有关方面尽快公布事实真相",
+        "onboard_time": 1708521576,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
+    }
+  }
+}
