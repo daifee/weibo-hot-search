@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708485467836,
+  "endTime": 1708486498766,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -963,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2575656,
+      "num": 2575656,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2542489,
       "num": 2542489,
       "word": "舅舅的舅舅的舅舅叫什么",
@@ -1000,14 +1008,6 @@
       "word": "医学奇迹",
       "onboard_time": 1707306875,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2513962,
-      "num": 2513962,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1561,6 +1561,14 @@
       "onboard_time": 1706761173,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2086430,
+      "num": 2086430,
+      "word": "鹿晗关晓彤聚餐会友",
+      "onboard_time": 1708484914,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 2085286,
@@ -6387,6 +6395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927249,
+      "num": 927249,
+      "word": "橙皮手镯",
+      "onboard_time": 1708482876,
+      "rank": 6,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 927236,
       "num": 927236,
       "word": "陈楚生现挂 岳云鹏笑场",
@@ -6833,14 +6849,6 @@
       "onboard_time": 1707283712,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 882058,
-      "num": 882058,
-      "word": "橙皮手镯",
-      "onboard_time": 1708482876,
-      "rank": 6,
-      "category": "时尚,美妆"
     },
     {
       "raw_hot": 881672,
@@ -8003,6 +8011,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 797930,
+      "num": 797930,
+      "word": "员工因bug事故被强制要求归还年终奖",
+      "onboard_time": 1708483053,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797652,
       "num": 797652,
       "word": "奚梦瑶说22岁的金莎很漂亮",
@@ -8377,14 +8393,6 @@
       "onboard_time": 1708146752,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 775810,
-      "num": 775810,
-      "word": "鹿晗关晓彤聚餐会友",
-      "onboard_time": 1708484914,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 775634,
@@ -11305,14 +11313,6 @@
       "onboard_time": 1708227274,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 616490,
-      "num": 616490,
-      "word": "员工因bug事故被强制要求归还年终奖",
-      "onboard_time": 1708483053,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 616277,
@@ -15627,6 +15627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453371,
+      "num": 453371,
+      "word": "金智秀个人工作室成立",
+      "onboard_time": 1708485933,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452237,
       "num": 425210,
       "word": "11万股民跌停板上凌乱了",
@@ -16707,6 +16715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423907,
+      "num": 368688,
+      "word": "以后我的C盘永远不会满了",
+      "onboard_time": 1708484435,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 423511,
       "num": 423511,
       "word": "杨紫说豆豆有点小绿茶",
@@ -17177,6 +17193,14 @@
       "onboard_time": 1708407218,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412111,
+      "num": 412111,
+      "word": "柳鑫宇收入",
+      "onboard_time": 1708485816,
+      "rank": 16,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 412091,
@@ -19091,14 +19115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368688,
-      "num": 368688,
-      "word": "以后我的C盘永远不会满了",
-      "onboard_time": 1708484435,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 368373,
       "num": 318751,
       "word": "原谅就是背刺小时候哭泣的自己",
@@ -19427,6 +19443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361966,
+      "num": 361966,
+      "word": "上海飞青岛票价只要14元",
+      "onboard_time": 1708485334,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361936,
       "num": 361936,
       "word": "卜冠今回应造型争议",
@@ -19745,6 +19769,14 @@
       "onboard_time": 1707724291,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354915,
+      "num": 354915,
+      "word": "iOS17.4更新电池健康菜单",
+      "onboard_time": 1708485093,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 354884,
@@ -21491,6 +21523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317463,
+      "num": 317463,
+      "word": "看似胡闹 实则大孝",
+      "onboard_time": 1708482515,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317327,
       "num": 317327,
       "word": "王凯谈春晚和朱一龙陈伟霆合作",
@@ -22385,14 +22425,6 @@
       "onboard_time": 1708243235,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303580,
-      "num": 303580,
-      "word": "看似胡闹 实则大孝",
-      "onboard_time": 1708482515,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 303487,
@@ -24436,7 +24468,7 @@
     },
     {
       "raw_hot": 274589,
-      "num": 274589,
+      "num": 289577,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
       "onboard_time": 1708480533,
       "rank": 40,
@@ -28299,14 +28331,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 233030,
-      "num": 233030,
-      "word": "iOS17.4更新电池健康菜单",
-      "onboard_time": 1708485093,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 232967,
       "num": 232967,
       "word": "贾玲张小斐CP名",
@@ -30833,6 +30857,14 @@
       "onboard_time": 1708324236,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213593,
+      "num": 213593,
+      "word": "你给了小时候的自己一耳光",
+      "onboard_time": 1708485035,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 213529,
@@ -34137,14 +34169,6 @@
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195772,
-      "num": 195772,
-      "word": "你给了小时候的自己一耳光",
-      "onboard_time": 1708485035,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 195743,
@@ -38147,6 +38171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174748,
+      "num": 358394,
+      "word": "小米龙铠架构",
+      "onboard_time": 1708484974,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174717,
       "num": 174717,
       "word": "狗子看到电动车充电起火1秒出击",
@@ -38441,6 +38473,14 @@
       "onboard_time": 1708130428,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173671,
+      "num": 387752,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173551,
@@ -42209,14 +42249,6 @@
       "onboard_time": 1708094674,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154992,
-      "num": 154992,
-      "word": "上海飞青岛票价只要14元",
-      "onboard_time": 1708485334,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154956,
@@ -46027,6 +46059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136923,
+      "num": 136923,
+      "word": "专家激辩A股T加0",
+      "onboard_time": 1708485697,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136918,
       "num": 136918,
       "word": "复原煮熟的拉面",
@@ -46427,14 +46467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134811,
-      "num": 211171,
-      "word": "小米龙铠架构",
-      "onboard_time": 1708484974,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 134792,
       "num": 134792,
       "word": "乳糖不耐受人群如何科学喝奶",
@@ -46457,6 +46489,14 @@
       "onboard_time": 1708129227,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134730,
+      "num": 134730,
+      "word": "柳鑫宇商务合同",
+      "onboard_time": 1708486414,
+      "rank": 45,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 134727,
@@ -46505,6 +46545,14 @@
       "onboard_time": 1707880773,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134404,
+      "num": 134404,
+      "word": "县城经济",
+      "onboard_time": 1708486414,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 134363,
@@ -46609,14 +46657,6 @@
       "onboard_time": 1707632550,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133775,
-      "num": 387752,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133704,
@@ -46793,6 +46833,14 @@
       "onboard_time": 1707704191,
       "rank": 44,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 132898,
+      "num": 132898,
+      "word": "吴秀波公司被限消",
+      "onboard_time": 1708485755,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 132810,
@@ -48305,6 +48353,14 @@
       "onboard_time": 1706755769,
       "rank": 46,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 125465,
+      "num": 125465,
+      "word": "警方通报贵阳山火原因",
+      "onboard_time": 1708486477,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125428,
@@ -50132,7 +50188,7 @@
     },
     {
       "raw_hot": 115068,
-      "num": 1555036,
+      "num": 1745674,
       "word": "雪天出行安全指南",
       "onboard_time": 1708484077,
       "rank": 2,
