@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/18 00:20:33 ~ 2024/02/22 03:13:44
+本榜单时间：2024/02/18 00:20:33 ~ 2024/02/22 03:34:03
 </p>
 </blockquote>
 <p>
@@ -8379,6 +8379,12 @@ NBA官方发了王鹤棣（热度：93486）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%85%8B%E7%AB%8B%20%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%AE%B6%E6%9A%B4%23" target="weibo">
+夏克立 我从来没有家暴（热度：48604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E7%9C%8B%E5%AE%8C%E7%94%B5%E5%BD%B1%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%AF%E9%80%80%E5%8D%8A%E4%BB%B7%23" target="weibo">
 胖东来回应看完电影不满意可退半价（热度：46895）
 </a>
@@ -8477,12 +8483,6 @@ NBA官方发了王鹤棣（热度：93486）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9A%84%E8%80%B3%E6%9C%B5%E4%B8%80%E5%8F%AA%E7%AB%99%E5%B2%97%E4%B8%80%E5%8F%AA%E7%A8%8D%E6%81%AF%23" target="weibo">
 狗狗的耳朵一只站岗一只稍息（热度：34297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%85%8B%E7%AB%8B%20%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E5%AE%B6%E6%9A%B4%23" target="weibo">
-夏克立 我从来没有家暴（热度：33380）
 </a>
 </li>
 
@@ -8615,6 +8615,12 @@ NBA官方发了王鹤棣（热度：93486）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89%E5%9E%8B%E5%B0%8F%E7%8B%97%23" target="weibo">
 卡皮巴拉型小狗（热度：14378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8C%BB%E7%94%9F%E6%88%90%E5%8A%9F%E5%88%86%E7%A6%BB%E7%BD%95%E8%A7%81%E8%83%8E%E4%B8%AD%E8%83%8E%23" target="weibo">
+河南医生成功分离罕见胎中胎（热度：14111）
 </a>
 </li>
 

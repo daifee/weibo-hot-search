@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708542824542,
+  "endTime": 1708544043117,
   "band_list": [
     {
       "raw_hot": 1160009,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48604,
+      "num": 25332,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46250,
       "num": 46250,
       "word": "贵阳贵安发布森林禁火令",
@@ -497,14 +505,6 @@
       "onboard_time": 1708536980,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33380,
-      "num": 25332,
-      "word": "夏克立 我从来没有家暴",
-      "onboard_time": 1708542617,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 24472,
@@ -537,6 +537,22 @@
       "onboard_time": 1708542376,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14513,
+      "num": 17913,
+      "word": "贾玲消失一年唯一的活动",
+      "onboard_time": 1708503634,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14111,
+      "num": 17882,
+      "word": "河南医生成功分离罕见胎中胎",
+      "onboard_time": 1708543997,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708542824542,
+  "endTime": 1708544043117,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -11155,6 +11155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48604,
+      "num": 25332,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46895,
       "num": 46895,
       "word": "胖东来回应看完电影不满意可退半价",
@@ -11289,14 +11297,6 @@
       "onboard_time": 1708450283,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33380,
-      "num": 25332,
-      "word": "夏克立 我从来没有家暴",
-      "onboard_time": 1708542617,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 32772,
@@ -11473,6 +11473,14 @@
       "onboard_time": 1708204754,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14111,
+      "num": 17882,
+      "word": "河南医生成功分离罕见胎中胎",
+      "onboard_time": 1708543997,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13204,
