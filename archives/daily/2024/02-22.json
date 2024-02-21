@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708533401772,
+  "endTime": 1708535761883,
   "band_list": [
     {
       "raw_hot": 1160009,
@@ -155,20 +155,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221765,
+      "num": 221765,
+      "word": "韩网锐评朴振英泡泡",
+      "onboard_time": 1708532369,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203512,
       "num": 165324,
       "word": "不敢让自己太爽",
       "onboard_time": 1708529497,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201666,
-      "num": 156551,
-      "word": "韩网锐评朴振英泡泡",
-      "onboard_time": 1708532369,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 186787,
@@ -267,11 +267,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107449,
+      "num": 107449,
+      "word": "王晶评春节档电影",
+      "onboard_time": 1708533868,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106638,
       "num": 106638,
       "word": "丁禹兮猫病偷偷藏不住",
       "onboard_time": 1708527156,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106355,
+      "num": 106355,
+      "word": "王鹤润新剧大婚红衣造型",
+      "onboard_time": 1708535004,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -403,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49853,
+      "num": 49853,
+      "word": "贵州山火",
+      "onboard_time": 1708503634,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44973,
       "num": 929823,
       "word": "新质生产力成多地新春第一会热词",
@@ -411,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15500,
+      "raw_hot": 19074,
       "num": 913134,
       "word": "冰雪消费迸活力新场景激发新需求",
       "onboard_time": 1708518334,
@@ -422,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#绘就一幅美丽中国的厦门画卷#"
+    },
+    {
+      "word": "#擘画鹭岛新画卷#"
     }
   ]
 }
