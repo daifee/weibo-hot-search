@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708472046918,
+  "endTime": 1708477896825,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2075853,
+      "num": 2075853,
+      "word": "节后浙江疾控艾滋病咨询电话增两三倍",
+      "onboard_time": 1708471527,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2031252,
       "num": 2031252,
       "word": "周杰伦 有狗还在吠代表你还是行的",
@@ -419,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1806154,
+      "num": 1806154,
+      "word": "北京暴雪",
+      "onboard_time": 1708473750,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1785996,
       "num": 1785996,
       "word": "内娱大冰",
@@ -475,11 +491,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1630633,
+      "num": 1630633,
+      "word": "谈恋爱最不受欢迎的星座",
+      "onboard_time": 1708472969,
+      "rank": 3,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 1626080,
       "num": 1626080,
       "word": "硅谷再现杀妻案",
       "onboard_time": 1708224994,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1625857,
+      "num": 1625857,
+      "word": "夫妻离婚要求分割2孩子26万压岁钱",
+      "onboard_time": 1708474834,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -843,6 +875,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1194631,
+      "num": 1194631,
+      "word": "制片人评价白敬亭",
+      "onboard_time": 1708475671,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1192424,
+      "num": 1192424,
+      "word": "柯基跑丢后被人关鸡棚看了一年鸡",
+      "onboard_time": 1708473571,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1173753,
       "num": 1173753,
       "word": "专家说上班第一天少干活儿",
@@ -984,6 +1032,14 @@
       "word": "刘涛演妈祖 掷圣杯",
       "onboard_time": 1708438002,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1002018,
+      "num": 1002018,
+      "word": "赵世子",
+      "onboard_time": 1708391135,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1419,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773995,
+      "num": 773995,
+      "word": "第二十条票房反超熊出没",
+      "onboard_time": 1708475738,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 767563,
       "num": 513155,
       "word": "女教师出轨事件",
@@ -1468,7 +1532,7 @@
     },
     {
       "raw_hot": 752673,
-      "num": 302058,
+      "num": 366626,
       "word": "毕业工作四年只存了4w块钱",
       "onboard_time": 1708433980,
       "rank": 20,
@@ -1907,14 +1971,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 608782,
-      "num": 608782,
-      "word": "赵世子",
-      "onboard_time": 1708391135,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 607271,
       "num": 607271,
       "word": "谷爱凌夺冠后要去做作业",
@@ -1936,6 +1992,14 @@
       "word": "胖东来13页报告调查员工试吃事件",
       "onboard_time": 1708307672,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603781,
+      "num": 603781,
+      "word": "未买手镯被赶下车游客对通报不认可",
+      "onboard_time": 1708472727,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2387,6 +2451,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 502648,
+      "num": 502648,
+      "word": "周杰伦霉霉演唱会座位",
+      "onboard_time": 1708473151,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 499770,
       "num": 499770,
       "word": "江西男子举报妻子与副镇长非法同居",
@@ -2545,6 +2617,14 @@
       "onboard_time": 1708261113,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 472730,
+      "num": 472730,
+      "word": "武汉冻雨",
+      "onboard_time": 1708472908,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471410,
@@ -2771,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425150,
+      "num": 425150,
+      "word": "豆瓣国产剧组 水龙吟",
+      "onboard_time": 1708474595,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -2889,6 +2977,14 @@
       "onboard_time": 1708243053,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404183,
+      "num": 404183,
+      "word": "米家崩了",
+      "onboard_time": 1708473209,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 404117,
@@ -3155,6 +3251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374165,
+      "num": 374165,
+      "word": "贾玲第一次正视自己的才华",
+      "onboard_time": 1708453758,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372004,
       "num": 372004,
       "word": "去新加坡旅游到底有多贵",
@@ -3313,6 +3417,14 @@
       "onboard_time": 1708303414,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352186,
+      "num": 352186,
+      "word": "蕉太狼",
+      "onboard_time": 1708474654,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 351214,
@@ -3731,6 +3843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307541,
+      "num": 307541,
+      "word": "余文乐42岁近照",
+      "onboard_time": 1708475852,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307409,
       "num": 307409,
       "word": "爸妈要给弟弟买房写我的名字",
@@ -3833,6 +3953,14 @@
       "onboard_time": 1708429892,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302265,
+      "num": 248920,
+      "word": "俄罗斯网红发型师把头发盘出花",
+      "onboard_time": 1708475915,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 302149,
@@ -4027,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287358,
+      "num": 287358,
+      "word": "联合国安理会加沙决议再遭美国一票否决",
+      "onboard_time": 1708475433,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 286625,
       "num": 286625,
       "word": "NBA全明星得分首次破200",
@@ -4065,6 +4201,14 @@
       "onboard_time": 1708333063,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282823,
+      "num": 282823,
+      "word": "厚福游神",
+      "onboard_time": 1708475671,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 281225,
@@ -4363,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264124,
+      "num": 264124,
+      "word": "2023个税汇算今起可预约",
+      "onboard_time": 1708473813,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 263616,
       "num": 263616,
       "word": "这个班真就非上不可吗",
@@ -4449,6 +4601,14 @@
       "onboard_time": 1708310552,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256394,
+      "num": 256394,
+      "word": "后车想破头也不知道堵车原因是800只鹅",
+      "onboard_time": 1708442259,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 254386,
@@ -4563,6 +4723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249026,
+      "num": 249026,
+      "word": "i人凌迟椅",
+      "onboard_time": 1708474471,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248752,
       "num": 248752,
       "word": "工作量多可能是工位的问题",
@@ -4593,6 +4761,22 @@
       "onboard_time": 1708219351,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248522,
+      "num": 248522,
+      "word": "LV签约文班亚马",
+      "onboard_time": 1708476995,
+      "rank": 31,
+      "category": "时尚,体育"
+    },
+    {
+      "raw_hot": 247852,
+      "num": 247852,
+      "word": "哈尔滨文旅称白狐合影不合规",
+      "onboard_time": 1708476093,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 247742,
@@ -4755,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240597,
+      "num": 240597,
+      "word": "原来神仙都有自己的小癖好",
+      "onboard_time": 1708475132,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240291,
       "num": 319638,
       "word": "日本男团3比1中国台北",
@@ -4795,28 +4987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238133,
-      "num": 238133,
-      "word": "贾玲第一次正视自己的才华",
-      "onboard_time": 1708453758,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "光与夜之恋主线",
       "onboard_time": 1708230757,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237876,
-      "num": 237876,
-      "word": "后车想破头也不知道堵车原因是800只鹅",
-      "onboard_time": 1708442259,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 237765,
@@ -5227,6 +5403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218938,
+      "num": 218938,
+      "word": "艾尔登法环DLC预告",
+      "onboard_time": 1708477118,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218908,
       "num": 218908,
       "word": "杭州再建新大学",
@@ -5603,6 +5787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202694,
+      "num": 202694,
+      "word": "中方对美否决加沙停火决议强烈不满和失望",
+      "onboard_time": 1708477594,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 202392,
       "num": 202392,
       "word": "惠英红刘浩存新片预告",
@@ -5977,6 +6169,14 @@
       "onboard_time": 1708320455,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191205,
+      "num": 191205,
+      "word": "从保安考上央美之后",
+      "onboard_time": 1708476695,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 190787,
@@ -6483,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177044,
+      "num": 177044,
+      "word": "曹璐直播",
+      "onboard_time": 1708475433,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176998,
       "num": 176998,
       "word": "我超爱躺在床上",
@@ -6659,6 +6867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171457,
+      "num": 171457,
+      "word": "郑州打工人在等公司的一个通知",
+      "onboard_time": 1708477415,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171139,
       "num": 171139,
       "word": "克雷桑头球破门",
@@ -6715,12 +6931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169939,
+      "num": 169939,
+      "word": "山东下的是霰不是雪",
+      "onboard_time": 1708470982,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169925,
       "num": 697710,
       "word": "男子驾车昏迷民警手撕车窗救人",
       "onboard_time": 1708249895,
       "rank": 8,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 169709,
+      "num": 169709,
+      "word": "预判失误工厂集中报废3000箱春联",
+      "onboard_time": 1708471705,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169438,
@@ -6849,14 +7081,6 @@
       "onboard_time": 1708255953,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166334,
-      "num": 87232,
-      "word": "节后浙江疾控艾滋病咨询电话增两三倍",
-      "onboard_time": 1708471527,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166084,
@@ -7451,6 +7675,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146172,
+      "num": 146172,
+      "word": "恋与深空开门了",
+      "onboard_time": 1708474232,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 145916,
+      "num": 1685435,
+      "word": "航天员拍摄的蔚蓝地球",
+      "onboard_time": 1708437273,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145696,
       "num": 145696,
       "word": "东部明星队半场104分",
@@ -7609,6 +7849,14 @@
       "onboard_time": 1708419340,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141687,
+      "num": 141687,
+      "word": "昌平线",
+      "onboard_time": 1708477775,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141595,
@@ -7817,14 +8065,6 @@
       "onboard_time": 1708272750,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 134381,
-      "num": 134381,
-      "word": "山东下的是霰不是雪",
-      "onboard_time": 1708470982,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134338,
@@ -8377,22 +8617,6 @@
       "onboard_time": 1708212505,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80961,
-      "num": 524750,
-      "word": "航天员拍摄的蔚蓝地球",
-      "onboard_time": 1708437273,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80350,
-      "num": 80350,
-      "word": "预判失误工厂集中报废3000箱春联",
-      "onboard_time": 1708471705,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78427,
