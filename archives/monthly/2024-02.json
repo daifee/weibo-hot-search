@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708519543418,
+  "endTime": 1708521538249,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1387,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2230480,
+      "num": 2230480,
+      "word": "贾玲公开瘦身食谱",
+      "onboard_time": 1708517135,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2226568,
       "num": 2226568,
       "word": "杨波回应",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1708059211,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2220205,
-      "num": 2220205,
-      "word": "贾玲公开瘦身食谱",
-      "onboard_time": 1708517135,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2215936,
@@ -9379,6 +9379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 729385,
+      "num": 729385,
+      "word": "16加8减肥",
+      "onboard_time": 1708520193,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 728800,
       "num": 728800,
       "word": "飞驰人生2 好看",
@@ -13299,6 +13307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 547743,
+      "num": 547743,
+      "word": "小米官宣新发布会主讲人",
+      "onboard_time": 1708519114,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 547639,
       "num": 547639,
       "word": "刘诗诗也穿了唐装",
@@ -15187,6 +15203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485799,
+      "num": 475576,
+      "word": "姚安娜演技",
+      "onboard_time": 1708520973,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485515,
       "num": 485515,
       "word": "香港特区政府回应梅西缺战",
@@ -16257,6 +16281,14 @@
       "onboard_time": 1707957330,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 446912,
+      "num": 446912,
+      "word": "存款多少才合适裸辞",
+      "onboard_time": 1708517374,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 446729,
@@ -17681,14 +17713,6 @@
       "onboard_time": 1708336478,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 412624,
-      "num": 412624,
-      "word": "存款多少才合适裸辞",
-      "onboard_time": 1708517374,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 412503,
@@ -21139,6 +21163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 337301,
+      "num": 337301,
+      "word": "宁艺卓全开麦版melody",
+      "onboard_time": 1708520551,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 337198,
       "num": 515566,
       "word": "中国香港足总会长再批评梅西不出场行为",
@@ -22515,6 +22547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311636,
+      "num": 311636,
+      "word": "LWX没上",
+      "onboard_time": 1708520614,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 311414,
       "num": 311414,
       "word": "和对象出cos见父母了",
@@ -22561,6 +22601,14 @@
       "onboard_time": 1707608361,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311046,
+      "num": 311046,
+      "word": "林一将头发扒拉成大人模样",
+      "onboard_time": 1708515693,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 310881,
@@ -23737,6 +23785,14 @@
       "onboard_time": 1707368310,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 293537,
+      "num": 293537,
+      "word": "狂飙麻子爆改",
+      "onboard_time": 1708521275,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293331,
@@ -26625,14 +26681,6 @@
       "onboard_time": 1708166133,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 257233,
-      "num": 257233,
-      "word": "林一将头发扒拉成大人模样",
-      "onboard_time": 1708515693,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 257208,
@@ -31659,14 +31707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214924,
-      "num": 192827,
-      "word": "小米官宣新发布会主讲人",
-      "onboard_time": 1708519114,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 214916,
       "num": 214916,
       "word": "突然就学会化妆了",
@@ -33385,6 +33425,14 @@
       "onboard_time": 1707880172,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204423,
+      "num": 204423,
+      "word": "妈妈才是我的知世",
+      "onboard_time": 1708516594,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 204374,
@@ -36019,14 +36067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192318,
-      "num": 192318,
-      "word": "妈妈才是我的知世",
-      "onboard_time": 1708516594,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 192309,
       "num": 192309,
       "word": "成毅杂志",
@@ -36345,6 +36385,14 @@
       "onboard_time": 1707308313,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190950,
+      "num": 190950,
+      "word": "RNG对战TES",
+      "onboard_time": 1708518633,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 190926,
@@ -37361,6 +37409,14 @@
       "onboard_time": 1707828398,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185742,
+      "num": 185742,
+      "word": "大牌化妆品集体涨价",
+      "onboard_time": 1708521090,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 185614,
@@ -39147,6 +39203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176100,
+      "num": 176100,
+      "word": "当小狗滑倒被主人嘲笑时",
+      "onboard_time": 1708519053,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176081,
       "num": 176081,
       "word": "春节档电影票价有多离谱",
@@ -40411,14 +40475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169790,
-      "num": 169790,
-      "word": "RNG对战TES",
-      "onboard_time": 1708518633,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169738,
       "num": 169738,
       "word": "AG对战VG",
@@ -41497,6 +41553,14 @@
       "onboard_time": 1707907294,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165176,
+      "num": 165176,
+      "word": "阿麦从军",
+      "onboard_time": 1708520492,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 165175,
@@ -44483,14 +44547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150150,
-      "num": 150150,
-      "word": "当小狗滑倒被主人嘲笑时",
-      "onboard_time": 1708519053,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150149,
       "num": 152616,
       "word": "球迷起哄喊梅西C罗示意大声点",
@@ -44921,6 +44977,14 @@
       "onboard_time": 1707644311,
       "rank": 42,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 148008,
+      "num": 148008,
+      "word": "球状畸胎",
+      "onboard_time": 1708521395,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 147953,
@@ -45753,6 +45817,14 @@
       "onboard_time": 1707230251,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144576,
+      "num": 144576,
+      "word": "泰妍在玹合唱Starlight",
+      "onboard_time": 1708521275,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 144569,
@@ -49449,6 +49521,14 @@
       "onboard_time": 1707894211,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126932,
+      "num": 126932,
+      "word": "eStar对战DYG",
+      "onboard_time": 1708519833,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 126888,
@@ -55179,6 +55259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64844,
+      "num": 1315183,
+      "word": "新质生产力成多地新春第一会热词",
+      "onboard_time": 1708518633,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64716,
       "num": 245330,
       "word": "奶奶编发",
@@ -55897,14 +55985,6 @@
       "onboard_time": 1707769936,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48674,
-      "num": 1315183,
-      "word": "新质生产力成多地新春第一会热词",
-      "onboard_time": 1708518633,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48627,
