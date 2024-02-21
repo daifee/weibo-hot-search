@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708528651328,
+  "endTime": 1708529703183,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -283,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1187366,
+      "num": 1187366,
+      "word": "半亩花田 迪丽热巴",
+      "onboard_time": 1708528237,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1184803,
       "num": 1184803,
       "word": "梧桐妹戴了9个环",
@@ -441,6 +449,14 @@
       "onboard_time": 1708501176,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 902973,
+      "num": 902973,
+      "word": "贵阳8场山火10人被处理",
+      "onboard_time": 1708527759,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875486,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644566,
+      "num": 561568,
+      "word": "当博士小情侣陷入热恋",
+      "onboard_time": 1708527634,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629811,
       "num": 629811,
       "word": "镜玄",
@@ -667,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609507,
-      "num": 609507,
-      "word": "贵阳8场山火10人被处理",
-      "onboard_time": 1708527759,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609137,
       "num": 609137,
       "word": "钟楚曦泰国plog",
@@ -713,14 +729,6 @@
       "onboard_time": 1708495355,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 561568,
-      "num": 561568,
-      "word": "当博士小情侣陷入热恋",
-      "onboard_time": 1708527634,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 557359,
@@ -897,6 +905,14 @@
       "onboard_time": 1708521636,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460723,
+      "num": 400530,
+      "word": "张萌说赵丽颖是最大惊喜",
+      "onboard_time": 1708528416,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 460677,
@@ -1443,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291712,
-      "num": 291712,
-      "word": "半亩花田 迪丽热巴",
-      "onboard_time": 1708528237,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289017,
       "num": 289017,
       "word": "第一次听英语母语者说话",
@@ -1515,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276821,
+      "num": 254801,
+      "word": "嗓子疼可能是一种凶险的急症",
+      "onboard_time": 1708526798,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 274589,
       "num": 320507,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1708482634,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273109,
-      "num": 273109,
-      "word": "张萌说赵丽颖是最大惊喜",
-      "onboard_time": 1708528416,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 271718,
@@ -1641,14 +1649,6 @@
       "onboard_time": 1708503215,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254801,
-      "num": 254801,
-      "word": "嗓子疼可能是一种凶险的急症",
-      "onboard_time": 1708526798,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 251367,
@@ -1825,6 +1825,14 @@
       "onboard_time": 1708478553,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225964,
+      "num": 225964,
+      "word": "霉霉登顶2023IFPI全球畅销艺人榜",
+      "onboard_time": 1708529554,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 224916,
@@ -2291,6 +2299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175046,
+      "num": 175046,
+      "word": "要睡多久觉才能把黑眼圈睡没",
+      "onboard_time": 1708529614,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174928,
       "num": 174928,
       "word": "猎冰 绝命毒师",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1708442854,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166939,
+      "num": 166939,
+      "word": "王家卫在繁花中自己致敬自己",
+      "onboard_time": 1708528599,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 166276,
@@ -2707,6 +2731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141916,
+      "num": 141916,
+      "word": "龚琳娜黄子弘凡唱忐忑",
+      "onboard_time": 1708529195,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141317,
       "num": 141317,
       "word": "姆巴佩签字费达1.5亿欧",
@@ -2744,6 +2776,14 @@
       "word": "这么通猫性的人可不多见",
       "onboard_time": 1708500816,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137153,
+      "num": 137153,
+      "word": "不敢让自己太爽",
+      "onboard_time": 1708529497,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -2801,14 +2841,6 @@
       "onboard_time": 1708526256,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129282,
-      "num": 129282,
-      "word": "王家卫在繁花中自己致敬自己",
-      "onboard_time": 1708528599,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 127234,
