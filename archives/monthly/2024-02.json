@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708514083067,
+  "endTime": 1708515246540,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1107,6 +1107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 2423090,
+      "num": 2423090,
+      "word": "长沙火车站",
+      "onboard_time": 1708498175,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2415461,
       "num": 2415461,
       "word": "高三班主任被曝办公室强吻女学生",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1708175555,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2388321,
-      "num": 2388321,
-      "word": "长沙火车站",
-      "onboard_time": 1708498175,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2387453,
@@ -6075,6 +6075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 981734,
+      "num": 981734,
+      "word": "孩子校服里掏出来的照片",
+      "onboard_time": 1708511318,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 977671,
       "num": 977671,
       "word": "李家超回应梅西缺赛",
@@ -7201,6 +7209,14 @@
       "onboard_time": 1707124951,
       "rank": 15,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 868511,
+      "num": 868511,
+      "word": "日媒曝上百海上自卫队员集体拜鬼",
+      "onboard_time": 1708513774,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 868487,
@@ -11755,6 +11771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609137,
+      "num": 609137,
+      "word": "钟楚曦泰国plog",
+      "onboard_time": 1708511972,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
@@ -12017,14 +12041,6 @@
       "onboard_time": 1707453389,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597206,
-      "num": 597206,
-      "word": "钟楚曦泰国plog",
-      "onboard_time": 1708511972,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 596724,
@@ -12337,14 +12353,6 @@
       "onboard_time": 1706783191,
       "rank": 23,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 581317,
-      "num": 522072,
-      "word": "孩子校服里掏出来的照片",
-      "onboard_time": 1708511318,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 581063,
@@ -22995,6 +23003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303521,
+      "num": 291879,
+      "word": "手机电量需要低于20%再充吗",
+      "onboard_time": 1708510536,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 303487,
       "num": 259130,
       "word": "没见过全省一起被骗的",
@@ -23819,14 +23835,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 291879,
-      "num": 291879,
-      "word": "手机电量需要低于20%再充吗",
-      "onboard_time": 1708510536,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 291779,
       "num": 291779,
       "word": "教育局回应陕西一班主任猥亵女生",
@@ -24521,6 +24529,14 @@
       "onboard_time": 1707048571,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281133,
+      "num": 281133,
+      "word": "强哥是忘了老高家的规矩了吗",
+      "onboard_time": 1708512455,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 281071,
@@ -26731,6 +26747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255056,
+      "num": 255056,
+      "word": "道枝骏佑发博",
+      "onboard_time": 1708514554,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255025,
       "num": 255025,
       "word": "腐乳在海外爆火",
@@ -27507,6 +27531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247089,
+      "num": 247089,
+      "word": "易烊千玺的老派爱情观",
+      "onboard_time": 1708514434,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247037,
       "num": 289732,
       "word": "集卡",
@@ -27609,14 +27641,6 @@
       "onboard_time": 1706768669,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245958,
-      "num": 245958,
-      "word": "强哥是忘了老高家的规矩了吗",
-      "onboard_time": 1708512455,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 245869,
@@ -30105,6 +30129,14 @@
       "onboard_time": 1707199169,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224437,
+      "num": 224437,
+      "word": "广东男篮声明",
+      "onboard_time": 1708514073,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 224421,
@@ -33843,14 +33875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201414,
-      "num": 201414,
-      "word": "日媒曝上百海上自卫队员集体拜鬼",
-      "onboard_time": 1708513774,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 201403,
       "num": 201403,
       "word": "景区回应女子带家人祭祖被索要门票",
@@ -34257,6 +34281,14 @@
       "onboard_time": 1707459334,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199806,
+      "num": 199806,
+      "word": "苹果黄芪水",
+      "onboard_time": 1708511553,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 199714,
@@ -37227,14 +37259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185477,
-      "num": 185477,
-      "word": "苹果黄芪水",
-      "onboard_time": 1708511553,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 185470,
       "num": 185470,
       "word": "明明有精神病但能表现得像正常人",
@@ -39243,6 +39267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174403,
+      "num": 174403,
+      "word": "这波病毒为什么难缠",
+      "onboard_time": 1708514250,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174331,
       "num": 174331,
       "word": "usher中场秀",
@@ -39777,6 +39809,14 @@
       "onboard_time": 1706947467,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171651,
+      "num": 214295,
+      "word": "15元一斤的番茄让全村人住上别墅",
+      "onboard_time": 1708514972,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171640,
@@ -41795,6 +41835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162232,
+      "num": 162232,
+      "word": "夏之光义乌一日游",
+      "onboard_time": 1708514015,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162195,
       "num": 162195,
       "word": "春节吃多消化不良怎么办",
@@ -42249,6 +42297,14 @@
       "onboard_time": 1707290132,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160188,
+      "num": 160188,
+      "word": "女生无法拒绝的小动作",
+      "onboard_time": 1708514613,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 160159,
@@ -44691,6 +44747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147941,
+      "num": 147941,
+      "word": "翻到了父亲高考时的试卷",
+      "onboard_time": 1708515215,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147847,
       "num": 147847,
       "word": "全员加速中广东路透",
@@ -45729,14 +45793,6 @@
       "onboard_time": 1707976650,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 143654,
-      "num": 143654,
-      "word": "广东男篮声明",
-      "onboard_time": 1708514073,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 143562,

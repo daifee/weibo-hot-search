@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708514083067,
+  "endTime": 1708515246540,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2388321,
-      "num": 2388321,
+      "raw_hot": 2423090,
+      "num": 2423090,
       "word": "长沙火车站",
       "onboard_time": 1708498175,
       "rank": 12,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981734,
+      "num": 981734,
+      "word": "孩子校服里掏出来的照片",
+      "onboard_time": 1708511318,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 974417,
       "num": 974417,
       "word": "肖战 羽绒服",
@@ -369,6 +377,14 @@
       "onboard_time": 1708488457,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 868511,
+      "num": 868511,
+      "word": "日媒曝上百海上自卫队员集体拜鬼",
+      "onboard_time": 1708513774,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 839627,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609137,
+      "num": 609137,
+      "word": "钟楚曦泰国plog",
+      "onboard_time": 1708511972,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605968,
       "num": 605968,
       "word": "张凌赫健身奶茶两不误",
@@ -545,22 +569,6 @@
       "onboard_time": 1708495355,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 597206,
-      "num": 597206,
-      "word": "钟楚曦泰国plog",
-      "onboard_time": 1708511972,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 581317,
-      "num": 522072,
-      "word": "孩子校服里掏出来的照片",
-      "onboard_time": 1708511318,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 557359,
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303521,
+      "num": 291879,
+      "word": "手机电量需要低于20%再充吗",
+      "onboard_time": 1708510536,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 303399,
       "num": 303399,
       "word": "能不能延迟开学",
@@ -1139,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291879,
-      "num": 291879,
-      "word": "手机电量需要低于20%再充吗",
-      "onboard_time": 1708510536,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 289017,
       "num": 289017,
       "word": "第一次听英语母语者说话",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1708475671,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 281133,
+      "num": 281133,
+      "word": "强哥是忘了老高家的规矩了吗",
+      "onboard_time": 1708512455,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 279541,
@@ -1291,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255056,
+      "num": 255056,
+      "word": "道枝骏佑发博",
+      "onboard_time": 1708514554,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254909,
       "num": 254909,
       "word": "张栋梁介绍新人张栋梁",
@@ -1347,12 +1371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245958,
-      "num": 245958,
-      "word": "强哥是忘了老高家的规矩了吗",
-      "onboard_time": 1708512455,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 247089,
+      "num": 247089,
+      "word": "易烊千玺的老派爱情观",
+      "onboard_time": 1708514434,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 244612,
@@ -1483,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224437,
+      "num": 224437,
+      "word": "广东男篮声明",
+      "onboard_time": 1708514073,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220792,
       "num": 220792,
       "word": "任敏男装",
@@ -1595,20 +1627,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201414,
-      "num": 201414,
-      "word": "日媒曝上百海上自卫队员集体拜鬼",
-      "onboard_time": 1708513774,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 200122,
       "num": 200122,
       "word": "狗狗认出好朋友后立刻起身抱住",
       "onboard_time": 1708506575,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199806,
+      "num": 199806,
+      "word": "苹果黄芪水",
+      "onboard_time": 1708511553,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 199240,
@@ -1731,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185477,
-      "num": 185477,
-      "word": "苹果黄芪水",
-      "onboard_time": 1708511553,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 185205,
       "num": 185205,
       "word": "经济学家建言2024中国经济",
@@ -1803,6 +1827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 174403,
+      "num": 174403,
+      "word": "这波病毒为什么难缠",
+      "onboard_time": 1708514250,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173503,
       "num": 173503,
       "word": "逆战手游实机上线",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1708505493,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171651,
+      "num": 214295,
+      "word": "15元一斤的番茄让全村人住上别墅",
+      "onboard_time": 1708514972,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171457,
@@ -1899,11 +1939,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162232,
+      "num": 162232,
+      "word": "夏之光义乌一日游",
+      "onboard_time": 1708514015,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161926,
       "num": 161926,
       "word": "玩石头治好了我的精神内耗",
       "onboard_time": 1708507894,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160188,
+      "num": 160188,
+      "word": "女生无法拒绝的小动作",
+      "onboard_time": 1708514613,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -2019,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147941,
+      "num": 147941,
+      "word": "翻到了父亲高考时的试卷",
+      "onboard_time": 1708515215,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146994,
       "num": 375775,
       "word": "油皮护肤新方式",
@@ -2065,14 +2129,6 @@
       "onboard_time": 1708513954,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143654,
-      "num": 143654,
-      "word": "广东男篮声明",
-      "onboard_time": 1708514073,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 141317,

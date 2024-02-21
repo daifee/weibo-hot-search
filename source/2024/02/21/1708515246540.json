@@ -1,0 +1,410 @@
+{
+  "runTime": 1708515246540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2423090,
+        "num": 2423090,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357136,
+        "num": 1357136,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93440,
+        "num": 1088133,
+        "word": "拼出热辣滚烫赢得飞驰人生",
+        "onboard_time": 1708502856,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 981734,
+        "num": 981734,
+        "word": "孩子校服里掏出来的照片",
+        "onboard_time": 1708511318,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 868511,
+        "num": 868511,
+        "word": "日媒曝上百海上自卫队员集体拜鬼",
+        "onboard_time": 1708513774,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 613240,
+        "num": 613240,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609137,
+        "num": 609137,
+        "word": "钟楚曦泰国plog",
+        "onboard_time": 1708511972,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604335,
+        "num": 604335,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 568679,
+        "num": 568679,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166733,
+        "num": 517208,
+        "word": "女孩寒假作业丢失哭着报警求助",
+        "onboard_time": 1708509034,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507395,
+        "num": 507395,
+        "word": "杨迪晒爆改照",
+        "onboard_time": 1708509576,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448148,
+        "num": 448148,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443853,
+        "num": 443853,
+        "word": "九尾婉儿四杀",
+        "onboard_time": 1708512818,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161046,
+        "num": 428326,
+        "word": "被两只一脸懵懂的小奶狗治愈了",
+        "onboard_time": 1708509034,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413556,
+        "num": 413556,
+        "word": "长沙火车站当事女子发文回应",
+        "onboard_time": 1708505257,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361149,
+        "num": 361149,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348933,
+        "num": 348933,
+        "word": "长期不吃或少吃主食减肥有啥危害",
+        "onboard_time": 1708508432,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295393,
+        "num": 295393,
+        "word": "T1 科研",
+        "onboard_time": 1708511794,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287636,
+        "num": 287636,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283663,
+        "num": 283663,
+        "word": "古天乐用梅西调侃郑中基",
+        "onboard_time": 1708508734,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1581512,
+        "num": 282551,
+        "word": "马云妻子在新加坡购房",
+        "onboard_time": 1708509272,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 517464,
+        "num": 282165,
+        "word": "每顿就炒一个菜的家庭",
+        "onboard_time": 1708510594,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303521,
+        "num": 282098,
+        "word": "手机电量需要低于20%再充吗",
+        "onboard_time": 1708510536,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281133,
+        "num": 281133,
+        "word": "强哥是忘了老高家的规矩了吗",
+        "onboard_time": 1708512455,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279919,
+        "num": 279919,
+        "word": "广东一公司3员工疑因讲粤语被罚5000元",
+        "onboard_time": 1708510957,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255056,
+        "num": 255056,
+        "word": "道枝骏佑发博",
+        "onboard_time": 1708514554,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247089,
+        "num": 247089,
+        "word": "易烊千玺的老派爱情观",
+        "onboard_time": 1708514434,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224437,
+        "num": 224437,
+        "word": "广东男篮声明",
+        "onboard_time": 1708514073,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215872,
+        "num": 215872,
+        "word": "猎冰",
+        "onboard_time": 1708510594,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 214295,
+        "word": "15元一斤的番茄让全村人住上别墅",
+        "onboard_time": 1708514972,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214058,
+        "num": 214058,
+        "word": "恋与深空 官谷",
+        "onboard_time": 1708512575,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208414,
+        "num": 208414,
+        "word": "生还渔民说对台方太失望了",
+        "onboard_time": 1708508374,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203339,
+        "num": 203339,
+        "word": "张凌赫健身奶茶两不误",
+        "onboard_time": 1708506873,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199806,
+        "num": 199806,
+        "word": "苹果黄芪水",
+        "onboard_time": 1708511553,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189010,
+        "num": 189010,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 34,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 183207,
+        "num": 183207,
+        "word": "贾玲 拍两部电影我都用尽了全力",
+        "onboard_time": 1708508911,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181382,
+        "num": 181382,
+        "word": "年轻人痔疮高发多与久坐有关",
+        "onboard_time": 1708509514,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180435,
+        "num": 180435,
+        "word": "胡萝卜中间的棍子是什么",
+        "onboard_time": 1708510536,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174403,
+        "num": 174403,
+        "word": "这波病毒为什么难缠",
+        "onboard_time": 1708514250,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170443,
+        "num": 170443,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166376,
+        "num": 166376,
+        "word": "原来看嘴巴也能发现痔疮",
+        "onboard_time": 1708499673,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166116,
+        "num": 166116,
+        "word": "胡强被查",
+        "onboard_time": 1708508193,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 164663,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162232,
+        "num": 162232,
+        "word": "夏之光义乌一日游",
+        "onboard_time": 1708514015,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 161880,
+        "word": "王诗玥柳鑫宇第一",
+        "onboard_time": 1708501176,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160188,
+        "num": 160188,
+        "word": "女生无法拒绝的小动作",
+        "onboard_time": 1708514613,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151554,
+        "num": 151554,
+        "word": "魏大勋明侦拿了孟宴臣剧本",
+        "onboard_time": 1708502616,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147941,
+        "num": 147941,
+        "word": "翻到了父亲高考时的试卷",
+        "onboard_time": 1708515215,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146368,
+        "num": 146368,
+        "word": "易烊千玺准备进组狂野时代",
+        "onboard_time": 1708506633,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146147,
+        "num": 146147,
+        "word": "当爷爷知道我的猫4000一只时",
+        "onboard_time": 1708501714,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
+    }
+  }
+}
