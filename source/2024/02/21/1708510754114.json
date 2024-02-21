@@ -1,0 +1,410 @@
+{
+  "runTime": 1708510754114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2885711,
+        "num": 2885711,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1127800,
+        "num": 1127800,
+        "word": "长沙火车站当事女子发文回应",
+        "onboard_time": 1708505257,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102691,
+        "num": 1010538,
+        "word": "拼出热辣滚烫赢得飞驰人生",
+        "onboard_time": 1708502856,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 944974,
+        "num": 944974,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 826457,
+        "num": 826457,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745001,
+        "num": 745001,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625853,
+        "num": 625853,
+        "word": "胡强被查",
+        "onboard_time": 1708508193,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605968,
+        "num": 605968,
+        "word": "张凌赫健身奶茶两不误",
+        "onboard_time": 1708506873,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191045,
+        "num": 605906,
+        "word": "被两只一脸懵懂的小奶狗治愈了",
+        "onboard_time": 1708509034,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201020,
+        "num": 605115,
+        "word": "女孩寒假作业丢失哭着报警求助",
+        "onboard_time": 1708509034,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1728530,
+        "num": 604822,
+        "word": "马云妻子在新加坡购房",
+        "onboard_time": 1708509272,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1008127,
+        "num": 604104,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 603807,
+        "num": 603807,
+        "word": "长期不吃或少吃主食减肥有啥危害",
+        "onboard_time": 1708508432,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 521520,
+        "num": 521520,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 515025,
+        "num": 515025,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502426,
+        "num": 502426,
+        "word": "派出所回应网传父亲出轨儿子女友",
+        "onboard_time": 1708492176,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444414,
+        "num": 444414,
+        "word": "杨迪晒爆改照",
+        "onboard_time": 1708509576,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399011,
+        "num": 399011,
+        "word": "陈梦11比0",
+        "onboard_time": 1708505075,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367243,
+        "num": 367243,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365732,
+        "num": 365732,
+        "word": "魏大勋明侦拿了孟宴臣剧本",
+        "onboard_time": 1708502616,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301560,
+        "num": 301560,
+        "word": "节后办公室7个人里5个咳",
+        "onboard_time": 1708493553,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289633,
+        "num": 289633,
+        "word": "爸妈一直管我的微信头像",
+        "onboard_time": 1708507113,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266648,
+        "num": 266648,
+        "word": "生还渔民说对台方太失望了",
+        "onboard_time": 1708508374,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262425,
+        "num": 262425,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260225,
+        "num": 260225,
+        "word": "古天乐用梅西调侃郑中基",
+        "onboard_time": 1708508734,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 257691,
+        "num": 257691,
+        "word": "年轻人痔疮高发多与久坐有关",
+        "onboard_time": 1708509514,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254884,
+        "num": 254884,
+        "word": "医生称贾玲式减肥要有诊疗团队",
+        "onboard_time": 1708498715,
+        "rank": 26,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 251400,
+        "num": 251400,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 27,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 250000,
+        "num": 250000,
+        "word": "易烊千玺准备进组狂野时代",
+        "onboard_time": 1708506633,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237148,
+        "num": 237148,
+        "word": "贾玲 拍两部电影我都用尽了全力",
+        "onboard_time": 1708508911,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236530,
+        "num": 236530,
+        "word": "小米汽车价格",
+        "onboard_time": 1708499434,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233366,
+        "num": 233366,
+        "word": "徐冬冬当自己婚礼真人秀总导演",
+        "onboard_time": 1708504112,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214760,
+        "num": 214760,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210941,
+        "num": 210941,
+        "word": "王者沈梦溪新皮肤",
+        "onboard_time": 1708505012,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210301,
+        "num": 210301,
+        "word": "当爷爷知道我的猫4000一只时",
+        "onboard_time": 1708501714,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201648,
+        "num": 201648,
+        "word": "王诗玥柳鑫宇第一",
+        "onboard_time": 1708501176,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198982,
+        "num": 198982,
+        "word": "每顿就炒一个菜的家庭",
+        "onboard_time": 1708510594,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195922,
+        "num": 195922,
+        "word": "易烊千玺谈主动选择权",
+        "onboard_time": 1708502913,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192883,
+        "num": 192883,
+        "word": "原来看嘴巴也能发现痔疮",
+        "onboard_time": 1708499673,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175925,
+        "num": 175925,
+        "word": "经济学家建言2024中国经济",
+        "onboard_time": 1708510416,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175467,
+        "num": 175467,
+        "word": "贵州山火",
+        "onboard_time": 1708503634,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174663,
+        "num": 174663,
+        "word": "哪些人是艾滋病高风险人群",
+        "onboard_time": 1708502375,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171923,
+        "num": 171923,
+        "word": "手机电量需要低于20%再充吗",
+        "onboard_time": 1708510536,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165369,
+        "num": 165369,
+        "word": "猎冰",
+        "onboard_time": 1708510594,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "花滑协会回应柳鑫宇事件",
+        "onboard_time": 1708497394,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160424,
+        "num": 160424,
+        "word": "胡萝卜中间的棍子是什么",
+        "onboard_time": 1708510536,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 155865,
+        "num": 155865,
+        "word": "王诗玥柳鑫宇登场",
+        "onboard_time": 1708497874,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155225,
+        "num": 155225,
+        "word": "我和你天下第一好",
+        "onboard_time": 1708507535,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150648,
+        "num": 150648,
+        "word": "张婧仪哭戏",
+        "onboard_time": 1708505915,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146543,
+        "num": 146543,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
+    }
+  }
+}

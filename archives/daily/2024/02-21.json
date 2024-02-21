@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708508119736,
+  "endTime": 1708510754114,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -11,20 +11,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2885711,
+      "num": 2885711,
+      "word": "专家建议取消中考给孩子减压",
+      "onboard_time": 1708505257,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2575656,
       "num": 2575656,
       "word": "又一自称柳鑫宇账号爆料",
       "onboard_time": 1708482036,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2390125,
-      "num": 2390125,
-      "word": "专家建议取消中考给孩子减压",
-      "onboard_time": 1708505257,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2086430,
@@ -97,6 +97,14 @@
       "onboard_time": 1708473750,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1728530,
+      "num": 604822,
+      "word": "马云妻子在新加坡购房",
+      "onboard_time": 1708509272,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1679449,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1127800,
+      "num": 1127800,
+      "word": "长沙火车站当事女子发文回应",
+      "onboard_time": 1708505257,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096930,
       "num": 1096930,
       "word": "员工因bug事故被强制要求归还年终奖",
@@ -289,6 +305,14 @@
       "onboard_time": 1708430136,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1008127,
+      "num": 604104,
+      "word": "为啥就中国人看片要字幕",
+      "onboard_time": 1708506455,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1002018,
@@ -337,14 +361,6 @@
       "onboard_time": 1708501176,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 911621,
-      "num": 911621,
-      "word": "长沙火车站当事女子发文回应",
-      "onboard_time": 1708505257,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 875486,
@@ -467,6 +483,14 @@
       "category": "旅游,动漫"
     },
     {
+      "raw_hot": 625853,
+      "num": 625853,
+      "word": "胡强被查",
+      "onboard_time": 1708508193,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615860,
       "num": 615860,
       "word": "背薄真的显年轻",
@@ -481,6 +505,22 @@
       "onboard_time": 1708463356,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605968,
+      "num": 605968,
+      "word": "张凌赫健身奶茶两不误",
+      "onboard_time": 1708506873,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 603807,
+      "num": 603807,
+      "word": "长期不吃或少吃主食减肥有啥危害",
+      "onboard_time": 1708508432,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 603781,
@@ -539,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515025,
+      "num": 515025,
+      "word": "贵州山火 火点",
+      "onboard_time": 1708507298,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514055,
       "num": 514055,
       "word": "有关部门介入调查秦朗丢寒假作业事件",
@@ -561,14 +609,6 @@
       "onboard_time": 1708499673,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 494961,
-      "num": 494961,
-      "word": "张凌赫健身奶茶两不误",
-      "onboard_time": 1708506873,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 494264,
@@ -659,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442759,
-      "num": 264914,
-      "word": "为啥就中国人看片要字幕",
-      "onboard_time": 1708506455,
-      "rank": 33,
-      "category": "科学科普"
+      "raw_hot": 444414,
+      "num": 444414,
+      "word": "杨迪晒爆改照",
+      "onboard_time": 1708509576,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 430745,
@@ -1131,12 +1171,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266648,
+      "num": 266648,
+      "word": "生还渔民说对台方太失望了",
+      "onboard_time": 1708508374,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264124,
       "num": 264124,
       "word": "2023个税汇算今起可预约",
       "onboard_time": 1708473813,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 260225,
+      "num": 260225,
+      "word": "古天乐用梅西调侃郑中基",
+      "onboard_time": 1708508734,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 259908,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1708480233,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 257691,
+      "num": 257691,
+      "word": "年轻人痔疮高发多与久坐有关",
+      "onboard_time": 1708509514,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 256394,
@@ -1248,6 +1312,14 @@
       "word": "贾玲有七部待播作品",
       "onboard_time": 1708432780,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 237148,
+      "num": 237148,
+      "word": "贾玲 拍两部电影我都用尽了全力",
+      "onboard_time": 1708508911,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1363,14 +1435,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 215594,
-      "num": 215594,
-      "word": "贵州山火 火点",
-      "onboard_time": 1708507298,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213593,
       "num": 213593,
       "word": "你给了小时候的自己一耳光",
@@ -1427,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201020,
+      "num": 605115,
+      "word": "女孩寒假作业丢失哭着报警求助",
+      "onboard_time": 1708509034,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200122,
       "num": 200122,
       "word": "狗狗认出好朋友后立刻起身抱住",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1708488394,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198982,
+      "num": 198982,
+      "word": "每顿就炒一个菜的家庭",
+      "onboard_time": 1708510594,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 198518,
@@ -1523,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191045,
+      "num": 605906,
+      "word": "被两只一脸懵懂的小奶狗治愈了",
+      "onboard_time": 1708509034,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190767,
       "num": 190767,
       "word": "时代少年团新歌",
@@ -1595,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175925,
+      "num": 175925,
+      "word": "经济学家建言2024中国经济",
+      "onboard_time": 1708510416,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174748,
       "num": 358394,
       "word": "小米龙铠架构",
@@ -1617,6 +1713,14 @@
       "onboard_time": 1708505493,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171923,
+      "num": 171923,
+      "word": "手机电量需要低于20%再充吗",
+      "onboard_time": 1708510536,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 171457,
@@ -1683,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165369,
+      "num": 165369,
+      "word": "猎冰",
+      "onboard_time": 1708510594,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165281,
       "num": 165281,
       "word": "肖战工作室倡议书",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1708507894,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160424,
+      "num": 160424,
+      "word": "胡萝卜中间的棍子是什么",
+      "onboard_time": 1708510536,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160159,
