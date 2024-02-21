@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708524950256,
+  "endTime": 1708526068267,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -891,6 +891,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 1321803,
+      "num": 1321803,
+      "word": "台湾方面须给一个明确交代",
+      "onboard_time": 1708524458,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1319821,
       "num": 1319821,
       "word": "比亚迪降价",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1708495295,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1071943,
+      "num": 423881,
+      "word": "王诗龄家豪宅内景",
+      "onboard_time": 1708525360,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1067964,
@@ -1995,6 +2011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 714532,
+      "num": 421436,
+      "word": "杜江晒嗯哼侧颜",
+      "onboard_time": 1708524817,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713480,
       "num": 713480,
       "word": "卡琳娜和揉西 汉服合照",
@@ -2028,7 +2052,7 @@
     },
     {
       "raw_hot": 707263,
-      "num": 409746,
+      "num": 417413,
       "word": "国台办严正要求台湾有关方面尽快公布事实真相",
       "onboard_time": 1708521576,
       "rank": 32,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1708403501,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 648186,
+      "num": 648186,
+      "word": "贵州2名扑火牺牲人员仅20来岁",
+      "onboard_time": 1708523073,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642349,
@@ -3387,14 +3419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 439676,
-      "num": 439676,
-      "word": "台湾方面须给一个明确交代",
-      "onboard_time": 1708524458,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 438141,
       "num": 438141,
       "word": "热辣滚烫票房破30亿",
@@ -3523,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425968,
+      "num": 425968,
+      "word": "郑恺牛仔裙",
+      "onboard_time": 1708522653,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 425739,
       "num": 425739,
       "word": "齐司礼 丑卡",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1708418560,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416131,
+      "num": 416131,
+      "word": "魏晨这么多年了翻译还是这么好",
+      "onboard_time": 1708525596,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 415951,
@@ -4051,14 +4091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369812,
-      "num": 369812,
-      "word": "郑恺牛仔裙",
-      "onboard_time": 1708522653,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 368946,
       "num": 368946,
       "word": "iG对战BLG",
@@ -4105,14 +4137,6 @@
       "onboard_time": 1708494513,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 366252,
-      "num": 366252,
-      "word": "贵州2名扑火牺牲人员仅20来岁",
-      "onboard_time": 1708523073,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365694,
@@ -4305,6 +4329,14 @@
       "onboard_time": 1708344637,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 346677,
+      "num": 346677,
+      "word": "女儿晚上睡觉都能笑醒",
+      "onboard_time": 1708524637,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 346472,
@@ -5089,14 +5121,6 @@
       "onboard_time": 1708229554,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 293615,
-      "num": 293615,
-      "word": "杜江晒嗯哼侧颜",
-      "onboard_time": 1708524817,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 293312,
@@ -6595,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223282,
+      "num": 223282,
+      "word": "不要和别人比命好",
+      "onboard_time": 1708524516,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223038,
       "num": 223038,
       "word": "浙江多地新学期上课不到90天",
@@ -7233,6 +7265,14 @@
       "onboard_time": 1708388796,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202142,
+      "num": 202142,
+      "word": "LESSERAFIM EASY舞蹈版",
+      "onboard_time": 1708525234,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 202131,
@@ -7939,6 +7979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187031,
+      "num": 187031,
+      "word": "易烊千玺学着和身体和平相处",
+      "onboard_time": 1708525296,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186860,
       "num": 186860,
       "word": "本人今后的人生态度",
@@ -8339,6 +8387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177105,
+      "num": 177105,
+      "word": "林昀儒独得两分",
+      "onboard_time": 1708525058,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177044,
       "num": 177044,
       "word": "曹璐直播",
@@ -8441,14 +8497,6 @@
       "onboard_time": 1708237472,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174520,
-      "num": 174520,
-      "word": "女儿晚上睡觉都能笑醒",
-      "onboard_time": 1708524637,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 174194,
@@ -9129,14 +9177,6 @@
       "onboard_time": 1708483471,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 157914,
-      "num": 157914,
-      "word": "不要和别人比命好",
-      "onboard_time": 1708524516,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 157600,
@@ -10025,6 +10065,14 @@
       "onboard_time": 1708215270,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136822,
+      "num": 136822,
+      "word": "手机每天开关机到底好不好",
+      "onboard_time": 1708525896,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 136439,
