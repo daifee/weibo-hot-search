@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708521538249,
+  "endTime": 1708522450037,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -203,6 +203,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 1443167,
+      "num": 1443167,
+      "word": "狂飙麻子爆改",
+      "onboard_time": 1708521275,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1391956,
       "num": 1391956,
       "word": "花滑协会回应柳鑫宇事件",
@@ -217,6 +225,14 @@
       "onboard_time": 1708503634,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1347862,
+      "num": 1347862,
+      "word": "姚安娜演技",
+      "onboard_time": 1708520973,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1346584,
@@ -731,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 485799,
-      "num": 475576,
-      "word": "姚安娜演技",
-      "onboard_time": 1708520973,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 479318,
       "num": 479318,
       "word": "迪丽热巴时装三月封面",
@@ -867,6 +875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 410917,
+      "num": 410917,
+      "word": "宁艺卓全开麦版melody",
+      "onboard_time": 1708520551,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 407899,
       "num": 366626,
       "word": "毕业工作四年只存了4w块钱",
@@ -939,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378414,
+      "num": 378414,
+      "word": "LWX没上",
+      "onboard_time": 1708520614,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 374437,
       "num": 374437,
       "word": "赵雷南京抢票",
@@ -953,6 +977,14 @@
       "onboard_time": 1708453758,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371809,
+      "num": 186856,
+      "word": "球状畸胎",
+      "onboard_time": 1708521395,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 367698,
@@ -1051,14 +1083,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 337301,
-      "num": 337301,
-      "word": "宁艺卓全开麦版melody",
-      "onboard_time": 1708520551,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 333369,
       "num": 333369,
       "word": "嗓子疼",
@@ -1147,20 +1171,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 313388,
+      "num": 313388,
+      "word": "宋雨琦丸子头",
+      "onboard_time": 1708521875,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312819,
       "num": 312819,
       "word": "多部门已介入核查柳鑫宇自曝事件",
       "onboard_time": 1708408239,
       "rank": 17,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 311636,
-      "num": 311636,
-      "word": "LWX没上",
-      "onboard_time": 1708520614,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 311046,
@@ -1273,14 +1297,6 @@
       "onboard_time": 1708505676,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293537,
-      "num": 293537,
-      "word": "狂飙麻子爆改",
-      "onboard_time": 1708521275,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 292691,
@@ -1411,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265567,
+      "num": 265567,
+      "word": "大牌化妆品集体涨价",
+      "onboard_time": 1708521090,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 264124,
       "num": 264124,
       "word": "2023个税汇算今起可预约",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1708509514,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 256526,
+      "num": 186143,
+      "word": "国台办严正要求台湾有关方面尽快公布事实真相",
+      "onboard_time": 1708521576,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 256394,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1708478553,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225365,
+      "num": 225365,
+      "word": "经纪人回应黄嘉千被夏克立家暴",
+      "onboard_time": 1708521636,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 224916,
@@ -1939,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185742,
-      "num": 185742,
-      "word": "大牌化妆品集体涨价",
-      "onboard_time": 1708521090,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 185205,
       "num": 185205,
       "word": "经济学家建言2024中国经济",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1708500754,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 168603,
+      "num": 168603,
+      "word": "TES战胜RNG",
+      "onboard_time": 1708522296,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 167895,
@@ -2299,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151434,
+      "num": 151434,
+      "word": "薛之谦洛阳站",
+      "onboard_time": 1708522296,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150404,
       "num": 150404,
       "word": "莫文蔚新歌唱哭了",
@@ -2315,12 +2363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148008,
-      "num": 148008,
-      "word": "球状畸胎",
-      "onboard_time": 1708521395,
-      "rank": 43,
-      "category": "科学科普"
+      "raw_hot": 148890,
+      "num": 148890,
+      "word": "泰妍在玹合唱Starlight",
+      "onboard_time": 1708521275,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 147941,
@@ -2363,12 +2411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144576,
-      "num": 144576,
-      "word": "泰妍在玹合唱Starlight",
-      "onboard_time": 1708521275,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 144489,
+      "num": 144489,
+      "word": "贺峻霖多巴胺毛衣",
+      "onboard_time": 1708522416,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144105,
@@ -2715,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70819,
+      "num": 1382038,
+      "word": "新质生产力成多地新春第一会热词",
+      "onboard_time": 1708518633,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68563,
       "num": 68563,
       "word": "时代少年团开通B站账号",
@@ -2729,14 +2785,6 @@
       "onboard_time": 1708453640,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64844,
-      "num": 1315183,
-      "word": "新质生产力成多地新春第一会热词",
-      "onboard_time": 1708518633,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64481,

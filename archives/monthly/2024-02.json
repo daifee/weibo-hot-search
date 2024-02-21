@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708521538249,
+  "endTime": 1708522450037,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3307,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1443167,
+      "num": 1443167,
+      "word": "狂飙麻子爆改",
+      "onboard_time": 1708521275,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1442443,
       "num": 957929,
       "word": "王者荣耀梅西皮肤",
@@ -3697,6 +3705,14 @@
       "onboard_time": 1707492857,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1347862,
+      "num": 1347862,
+      "word": "姚安娜演技",
+      "onboard_time": 1708520973,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1346584,
@@ -15203,14 +15219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485799,
-      "num": 475576,
-      "word": "姚安娜演技",
-      "onboard_time": 1708520973,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 485515,
       "num": 485515,
       "word": "香港特区政府回应梅西缺战",
@@ -17771,6 +17779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 410917,
+      "num": 410917,
+      "word": "宁艺卓全开麦版melody",
+      "onboard_time": 1708520551,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 410872,
       "num": 410872,
       "word": "郭德纲否认父子不和",
@@ -19155,6 +19171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378414,
+      "num": 378414,
+      "word": "LWX没上",
+      "onboard_time": 1708520614,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 378247,
       "num": 378247,
       "word": "屏摄",
@@ -19489,6 +19513,14 @@
       "onboard_time": 1708421977,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371809,
+      "num": 186856,
+      "word": "球状畸胎",
+      "onboard_time": 1708521395,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 371554,
@@ -21163,14 +21195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 337301,
-      "num": 337301,
-      "word": "宁艺卓全开麦版melody",
-      "onboard_time": 1708520551,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 337198,
       "num": 515566,
       "word": "中国香港足总会长再批评梅西不出场行为",
@@ -22443,6 +22467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313388,
+      "num": 313388,
+      "word": "宋雨琦丸子头",
+      "onboard_time": 1708521875,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313328,
       "num": 252072,
       "word": "全网首例哭着吃饭的吃播",
@@ -22545,14 +22577,6 @@
       "onboard_time": 1707956728,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 311636,
-      "num": 311636,
-      "word": "LWX没上",
-      "onboard_time": 1708520614,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 311414,
@@ -23785,14 +23809,6 @@
       "onboard_time": 1707368310,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 293537,
-      "num": 293537,
-      "word": "狂飙麻子爆改",
-      "onboard_time": 1708521275,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293331,
@@ -26035,6 +26051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265567,
+      "num": 265567,
+      "word": "大牌化妆品集体涨价",
+      "onboard_time": 1708521090,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 265362,
       "num": 265362,
       "word": "Kpop可汗大点兵",
@@ -26761,6 +26785,14 @@
       "onboard_time": 1708310552,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256526,
+      "num": 186143,
+      "word": "国台办严正要求台湾有关方面尽快公布事实真相",
+      "onboard_time": 1708521576,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 256429,
@@ -30145,6 +30177,14 @@
       "onboard_time": 1708137629,
       "rank": 27,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 225365,
+      "num": 225365,
+      "word": "经纪人回应黄嘉千被夏克立家暴",
+      "onboard_time": 1708521636,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225319,
@@ -37411,14 +37451,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 185742,
-      "num": 185742,
-      "word": "大牌化妆品集体涨价",
-      "onboard_time": 1708521090,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 185614,
       "num": 185614,
       "word": "WBG春季赛首败",
@@ -40777,6 +40809,14 @@
       "onboard_time": 1708057294,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168603,
+      "num": 168603,
+      "word": "TES战胜RNG",
+      "onboard_time": 1708522296,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 168468,
@@ -44331,6 +44371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151434,
+      "num": 151434,
+      "word": "薛之谦洛阳站",
+      "onboard_time": 1708522296,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151392,
       "num": 151392,
       "word": "吃土笋冻最重要的是不能多想",
@@ -44803,6 +44851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148890,
+      "num": 148890,
+      "word": "泰妍在玹合唱Starlight",
+      "onboard_time": 1708521275,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148838,
       "num": 148838,
       "word": "张颂文粤语台词",
@@ -44977,14 +45033,6 @@
       "onboard_time": 1707644311,
       "rank": 42,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 148008,
-      "num": 148008,
-      "word": "球状畸胎",
-      "onboard_time": 1708521395,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 147953,
@@ -45819,14 +45867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144576,
-      "num": 144576,
-      "word": "泰妍在玹合唱Starlight",
-      "onboard_time": 1708521275,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144569,
       "num": 144569,
       "word": "开工红包该不该给",
@@ -45873,6 +45913,14 @@
       "onboard_time": 1707801037,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144489,
+      "num": 144489,
+      "word": "贺峻霖多巴胺毛衣",
+      "onboard_time": 1708522416,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144355,
@@ -55099,6 +55147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70819,
+      "num": 1382038,
+      "word": "新质生产力成多地新春第一会热词",
+      "onboard_time": 1708518633,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70594,
       "num": 171189,
       "word": "淘宝今日起发10亿春节红包",
@@ -55257,14 +55313,6 @@
       "onboard_time": 1708124780,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64844,
-      "num": 1315183,
-      "word": "新质生产力成多地新春第一会热词",
-      "onboard_time": 1708518633,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64716,
