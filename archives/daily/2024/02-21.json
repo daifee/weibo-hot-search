@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708511708491,
+  "endTime": 1708514083067,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -25,6 +25,14 @@
       "onboard_time": 1708482036,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2388321,
+      "num": 2388321,
+      "word": "长沙火车站",
+      "onboard_time": 1708498175,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2086430,
@@ -195,14 +203,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1327300,
-      "num": 1205663,
-      "word": "长沙火车站",
-      "onboard_time": 1708498175,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1276607,
       "num": 1264022,
       "word": "李翊云小儿子去世",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1103705,
-      "num": 604104,
+      "num": 721951,
       "word": "为啥就中国人看片要字幕",
       "onboard_time": 1708506455,
       "rank": 33,
@@ -547,6 +547,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 597206,
+      "num": 597206,
+      "word": "钟楚曦泰国plog",
+      "onboard_time": 1708511972,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 581317,
+      "num": 522072,
+      "word": "孩子校服里掏出来的照片",
+      "onboard_time": 1708511318,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 557359,
       "num": 557359,
       "word": "易烊千玺谈主动选择权",
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 539657,
-      "num": 305483,
+      "num": 313597,
       "word": "每顿就炒一个菜的家庭",
       "onboard_time": 1708510594,
       "rank": 36,
@@ -577,6 +593,14 @@
       "onboard_time": 1708491099,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519903,
+      "num": 519903,
+      "word": "杨迪晒爆改照",
+      "onboard_time": 1708509576,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518266,
@@ -619,20 +643,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 498355,
+      "num": 498355,
+      "word": "九尾婉儿四杀",
+      "onboard_time": 1708512818,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 494264,
       "num": 422678,
       "word": "钱学森写在香烟纸上的求救信",
       "onboard_time": 1708441360,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494253,
-      "num": 494253,
-      "word": "杨迪晒爆改照",
-      "onboard_time": 1708509576,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 491638,
@@ -843,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367698,
+      "num": 367698,
+      "word": "T1 科研",
+      "onboard_time": 1708511794,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 367457,
       "num": 367457,
       "word": "cos赵世子男网红道歉",
@@ -923,8 +955,8 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 338355,
-      "num": 338355,
+      "raw_hot": 340596,
+      "num": 340596,
       "word": "古天乐用梅西调侃郑中基",
       "onboard_time": 1708508734,
       "rank": 24,
@@ -1083,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296104,
+      "num": 296104,
+      "word": "恋与深空 官谷",
+      "onboard_time": 1708512575,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295614,
       "num": 295614,
       "word": "金博洋短节目89.20分",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1708477775,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291879,
+      "num": 291879,
+      "word": "手机电量需要低于20%再充吗",
+      "onboard_time": 1708510536,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 289017,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1708475433,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 286821,
+      "num": 286821,
+      "word": "广东一公司3员工疑因讲粤语被罚5000元",
+      "onboard_time": 1708510957,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282823,
@@ -1267,6 +1323,14 @@
       "category": "时尚,体育"
     },
     {
+      "raw_hot": 248148,
+      "num": 248148,
+      "word": "王鹤棣NBA全明星幕后记录",
+      "onboard_time": 1708512213,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 247852,
       "num": 247852,
       "word": "哈尔滨文旅称白狐合影不合规",
@@ -1283,12 +1347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244767,
-      "num": 244767,
-      "word": "手机电量需要低于20%再充吗",
-      "onboard_time": 1708510536,
-      "rank": 42,
-      "category": "数码"
+      "raw_hot": 245958,
+      "num": 245958,
+      "word": "强哥是忘了老高家的规矩了吗",
+      "onboard_time": 1708512455,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 244612,
@@ -1467,14 +1531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212874,
-      "num": 212874,
-      "word": "广东一公司3员工疑因讲粤语被罚5000元",
-      "onboard_time": 1708510957,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210127,
       "num": 210127,
       "word": "Sora又把中美AI的差距拉大了吗",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1708480657,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201414,
+      "num": 201414,
+      "word": "日媒曝上百海上自卫队员集体拜鬼",
+      "onboard_time": 1708513774,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 200122,
@@ -1603,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195081,
-      "num": 195081,
-      "word": "孩子校服里掏出来的照片",
-      "onboard_time": 1708511318,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194110,
       "num": 194110,
       "word": "贾玲新片转念花开已拍完一部分",
@@ -1673,6 +1729,14 @@
       "onboard_time": 1708480355,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185477,
+      "num": 185477,
+      "word": "苹果黄芪水",
+      "onboard_time": 1708511553,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185205,
@@ -1915,6 +1979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 152380,
+      "num": 152380,
+      "word": "李一桐白鹅包",
+      "onboard_time": 1708513055,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152257,
       "num": 152257,
       "word": "国乒女团3比0战胜泰国",
@@ -1987,12 +2059,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142050,
-      "num": 142050,
-      "word": "苹果黄芪水",
-      "onboard_time": 1708511553,
-      "rank": 49,
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "你吃的碳水超标了吗",
+      "onboard_time": 1708513954,
+      "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143654,
+      "num": 143654,
+      "word": "广东男篮声明",
+      "onboard_time": 1708514073,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 141317,

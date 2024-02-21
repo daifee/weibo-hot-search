@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708511708491,
+  "endTime": 1708514083067,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -216,6 +216,14 @@
       "word": "曝光别人聊天记录违法吗",
       "onboard_time": 1708339661,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2388321,
+      "num": 2388321,
+      "word": "长沙火车站",
+      "onboard_time": 1708498175,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -843,14 +851,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 1327300,
-      "num": 1205663,
-      "word": "长沙火车站",
-      "onboard_time": 1708498175,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1319821,
       "num": 1319821,
       "word": "比亚迪降价",
@@ -1156,7 +1156,7 @@
     },
     {
       "raw_hot": 1103705,
-      "num": 604104,
+      "num": 721951,
       "word": "为啥就中国人看片要字幕",
       "onboard_time": 1708506455,
       "rank": 33,
@@ -2443,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597206,
+      "num": 597206,
+      "word": "钟楚曦泰国plog",
+      "onboard_time": 1708511972,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596724,
       "num": 481866,
       "word": "全世界都知道妹妹在赶作业了",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1708401278,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 581317,
+      "num": 522072,
+      "word": "孩子校服里掏出来的照片",
+      "onboard_time": 1708511318,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 580944,
@@ -2716,7 +2732,7 @@
     },
     {
       "raw_hot": 539657,
-      "num": 305483,
+      "num": 313597,
       "word": "每顿就炒一个菜的家庭",
       "onboard_time": 1708510594,
       "rank": 36,
@@ -2777,6 +2793,14 @@
       "onboard_time": 1708425218,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519903,
+      "num": 519903,
+      "word": "杨迪晒爆改照",
+      "onboard_time": 1708509576,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519723,
@@ -2931,6 +2955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 498355,
+      "num": 498355,
+      "word": "九尾婉儿四杀",
+      "onboard_time": 1708512818,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 498003,
       "num": 498003,
       "word": "粉丝给迪丽热巴P的簪花照",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1708441360,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494253,
-      "num": 494253,
-      "word": "杨迪晒爆改照",
-      "onboard_time": 1708509576,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 491638,
@@ -3907,6 +3931,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 367698,
+      "num": 367698,
+      "word": "T1 科研",
+      "onboard_time": 1708511794,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 367249,
       "num": 367249,
       "word": "易烊千玺谈小小的我",
@@ -4163,6 +4195,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 340596,
+      "num": 340596,
+      "word": "古天乐用梅西调侃郑中基",
+      "onboard_time": 1708508734,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 340433,
       "num": 340433,
       "word": "利拉德卫冕三分大赛冠军",
@@ -4217,14 +4257,6 @@
       "onboard_time": 1708301012,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338355,
-      "num": 338355,
-      "word": "古天乐用梅西调侃郑中基",
-      "onboard_time": 1708508734,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 335129,
@@ -4811,6 +4843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 296104,
+      "num": 296104,
+      "word": "恋与深空 官谷",
+      "onboard_time": 1708512575,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295614,
       "num": 295614,
       "word": "金博洋短节目89.20分",
@@ -4865,6 +4905,14 @@
       "onboard_time": 1708404164,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291879,
+      "num": 291879,
+      "word": "手机电量需要低于20%再充吗",
+      "onboard_time": 1708510536,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 291779,
@@ -4953,6 +5001,14 @@
       "onboard_time": 1708475433,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 286821,
+      "num": 286821,
+      "word": "广东一公司3员工疑因讲粤语被罚5000元",
+      "onboard_time": 1708510957,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286625,
@@ -5659,6 +5715,14 @@
       "category": "时尚,体育"
     },
     {
+      "raw_hot": 248148,
+      "num": 248148,
+      "word": "王鹤棣NBA全明星幕后记录",
+      "onboard_time": 1708512213,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 247852,
       "num": 247852,
       "word": "哈尔滨文旅称白狐合影不合规",
@@ -5699,6 +5763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245958,
+      "num": 245958,
+      "word": "强哥是忘了老高家的规矩了吗",
+      "onboard_time": 1708512455,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245869,
       "num": 245869,
       "word": "承办昆山反杀案检察官评电影第二十条",
@@ -5737,14 +5809,6 @@
       "onboard_time": 1708353640,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244767,
-      "num": 244767,
-      "word": "手机电量需要低于20%再充吗",
-      "onboard_time": 1708510536,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 244612,
@@ -6603,14 +6667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212874,
-      "num": 212874,
-      "word": "广东一公司3员工疑因讲粤语被罚5000元",
-      "onboard_time": 1708510957,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212736,
       "num": 209749,
       "word": "被别人的订婚氛围幸福到了",
@@ -6923,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201414,
+      "num": 201414,
+      "word": "日媒曝上百海上自卫队员集体拜鬼",
+      "onboard_time": 1708513774,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 201364,
       "num": 201364,
       "word": "Ricky最新Challenge",
@@ -7185,14 +7249,6 @@
       "onboard_time": 1708222774,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 195081,
-      "num": 195081,
-      "word": "孩子校服里掏出来的照片",
-      "onboard_time": 1708511318,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 194984,
@@ -7601,6 +7657,14 @@
       "onboard_time": 1708256734,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185477,
+      "num": 185477,
+      "word": "苹果黄芪水",
+      "onboard_time": 1708511553,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185310,
@@ -8859,6 +8923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 152380,
+      "num": 152380,
+      "word": "李一桐白鹅包",
+      "onboard_time": 1708513055,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152257,
       "num": 152257,
       "word": "国乒女团3比0战胜泰国",
@@ -9227,12 +9299,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "你吃的碳水超标了吗",
+      "onboard_time": 1708513954,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143810,
       "num": 143810,
       "word": "世界是个巨大的封神",
       "onboard_time": 1708428634,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143654,
+      "num": 143654,
+      "word": "广东男篮声明",
+      "onboard_time": 1708514073,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 143548,
@@ -9265,14 +9353,6 @@
       "onboard_time": 1708313310,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 142050,
-      "num": 142050,
-      "word": "苹果黄芪水",
-      "onboard_time": 1708511553,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141843,
