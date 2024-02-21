@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708544043117,
+  "endTime": 1708546674533,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -54835,6 +54835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84940,
+      "num": 49515,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84698,
       "num": 357641,
       "word": "羡慕长沙打工人的精神状态",
@@ -56443,14 +56451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48604,
-      "num": 25332,
-      "word": "夏克立 我从来没有家暴",
-      "onboard_time": 1708542617,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48366,
       "num": 48366,
       "word": "金晨70年代柜姐妆造",
@@ -57707,6 +57707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 24185,
+      "num": 21228,
+      "word": "经常运动和不运动的人有啥区别",
+      "onboard_time": 1708545019,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 24021,
       "num": 24021,
       "word": "金道英生日卡",
@@ -58267,6 +58275,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 15182,
+      "num": 15182,
+      "word": "雨花少娘",
+      "onboard_time": 1708545197,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14832,
       "num": 19456,
       "word": "约旦晋级亚洲杯四强",
@@ -58321,6 +58337,14 @@
       "onboard_time": 1706911096,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14008,
+      "num": 14008,
+      "word": "贵州烙锅",
+      "onboard_time": 1708544537,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 13876,
@@ -58425,6 +58449,14 @@
       "onboard_time": 1708460776,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12756,
+      "num": 13977,
+      "word": "一些可可爱爱的陪嫁",
+      "onboard_time": 1708544418,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 12654,
