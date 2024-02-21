@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708500850425,
+  "endTime": 1708503763765,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -33,6 +33,14 @@
       "onboard_time": 1708471527,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2060590,
+      "num": 2060590,
+      "word": "王诗玥柳鑫宇75.43分",
+      "onboard_time": 1708499736,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1961681,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1581503,
+      "num": 1581503,
+      "word": "医生称贾玲式减肥要有诊疗团队",
+      "onboard_time": 1708498715,
+      "rank": 19,
+      "category": "健康医疗,艺人"
+    },
+    {
       "raw_hot": 1576946,
       "num": 1576946,
       "word": "上海飞青岛票价只要14元",
@@ -155,20 +171,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1327300,
+      "num": 648929,
+      "word": "长沙火车站",
+      "onboard_time": 1708498175,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1276607,
       "num": 1264022,
       "word": "李翊云小儿子去世",
       "onboard_time": 1708480117,
       "rank": 12,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 1231108,
-      "num": 603151,
-      "word": "长沙火车站",
-      "onboard_time": 1708498175,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1221479,
@@ -217,14 +233,6 @@
       "onboard_time": 1708490495,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1116657,
-      "num": 1116657,
-      "word": "王诗玥柳鑫宇75.43分",
-      "onboard_time": 1708499736,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 1096930,
@@ -307,6 +315,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 922634,
+      "num": 922634,
+      "word": "王诗玥柳鑫宇第一",
+      "onboard_time": 1708501176,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 875486,
       "num": 875486,
       "word": "感冒了",
@@ -347,12 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 772443,
-      "num": 772443,
-      "word": "医生称贾玲式减肥要有诊疗团队",
-      "onboard_time": 1708498715,
-      "rank": 19,
-      "category": "健康医疗,艺人"
+      "raw_hot": 755348,
+      "num": 755348,
+      "word": "小米汽车价格",
+      "onboard_time": 1708499434,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 740917,
@@ -379,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 697950,
-      "num": 588004,
-      "word": "小米汽车价格",
-      "onboard_time": 1708499434,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 674192,
       "num": 674192,
       "word": "中国生育成本报告2024版",
       "onboard_time": 1708489779,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663708,
+      "num": 663708,
+      "word": "魏大勋明侦拿了孟宴臣剧本",
+      "onboard_time": 1708502616,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 660541,
@@ -409,6 +425,14 @@
       "onboard_time": 1708494933,
       "rank": 17,
       "category": "旅游,动漫"
+    },
+    {
+      "raw_hot": 618048,
+      "num": 618048,
+      "word": "周杰伦霉霉演唱会待遇",
+      "onboard_time": 1708500454,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 615860,
@@ -491,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 498853,
+      "num": 352237,
+      "word": "原来看嘴巴也能发现痔疮",
+      "onboard_time": 1708499673,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 494264,
       "num": 422678,
       "word": "钱学森写在香烟纸上的求救信",
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462630,
+      "num": 345669,
+      "word": "当爷爷知道我的猫4000一只时",
+      "onboard_time": 1708501714,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460677,
       "num": 415053,
       "word": "柳鑫宇自曝事件",
@@ -553,6 +593,14 @@
       "onboard_time": 1708485933,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438731,
+      "num": 334182,
+      "word": "哪些人是艾滋病高风险人群",
+      "onboard_time": 1708502375,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 436452,
@@ -675,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370400,
+      "num": 370400,
+      "word": "易烊千玺谈主动选择权",
+      "onboard_time": 1708502913,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367457,
       "num": 367457,
       "word": "cos赵世子男网红道歉",
@@ -707,6 +763,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 357348,
+      "num": 357348,
+      "word": "柳鑫宇心理素质",
+      "onboard_time": 1708500636,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354915,
       "num": 354915,
       "word": "iOS17.4更新电池健康菜单",
@@ -721,14 +785,6 @@
       "onboard_time": 1708495954,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345812,
-      "num": 345812,
-      "word": "原来看嘴巴也能发现痔疮",
-      "onboard_time": 1708499673,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 343810,
@@ -963,6 +1019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 260067,
+      "num": 260067,
+      "word": "结婚是找能玩一辈子的朋友",
+      "onboard_time": 1708503154,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259908,
       "num": 259908,
       "word": "出现这7种表现可能是蛋白质没吃够",
@@ -993,14 +1057,6 @@
       "onboard_time": 1708500274,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252438,
-      "num": 252438,
-      "word": "周杰伦霉霉演唱会待遇",
-      "onboard_time": 1708500454,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 251367,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1708432780,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236968,
+      "num": 236968,
+      "word": "OpenAI员工自曝996作息表",
+      "onboard_time": 1708501054,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 236812,
@@ -1171,6 +1235,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 214859,
+      "num": 214859,
+      "word": "SMTOWN",
+      "onboard_time": 1708503339,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213593,
       "num": 213593,
       "word": "你给了小时候的自己一耳光",
@@ -1179,12 +1251,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210784,
+      "num": 210784,
+      "word": "贾玲消失一年唯一的活动",
+      "onboard_time": 1708503634,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210127,
       "num": 210127,
       "word": "Sora又把中美AI的差距拉大了吗",
       "onboard_time": 1708499134,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 209084,
+      "num": 200391,
+      "word": "SMTOWN艺人出发",
+      "onboard_time": 1708501836,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 208394,
@@ -1203,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206750,
-      "num": 206750,
-      "word": "柳鑫宇心理素质",
-      "onboard_time": 1708500636,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204519,
       "num": 204519,
       "word": "无限超越班2阵容官宣",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1708480657,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200447,
+      "num": 200447,
+      "word": "中国女团vs泰国",
+      "onboard_time": 1708503215,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 199240,
@@ -1403,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168999,
+      "num": 168999,
+      "word": "刚满月的宝宝发量惊人像真人版蒙奇奇",
+      "onboard_time": 1708500754,
+      "rank": 47,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 167895,
       "num": 167895,
       "word": "南京打雷",
@@ -1499,12 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147408,
-      "num": 147408,
-      "word": "刚满月的宝宝发量惊人像真人版蒙奇奇",
-      "onboard_time": 1708500754,
-      "rank": 47,
-      "category": "母婴育儿"
+      "raw_hot": 146994,
+      "num": 375775,
+      "word": "油皮护肤新方式",
+      "onboard_time": 1708501355,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 146172,
@@ -1673,6 +1769,14 @@
       "onboard_time": 1708440458,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118275,
+      "num": 1126547,
+      "word": "拼出热辣滚烫赢得飞驰人生",
+      "onboard_time": 1708502856,
+      "rank": 2,
+      "category": "电影"
     },
     {
       "raw_hot": 117504,

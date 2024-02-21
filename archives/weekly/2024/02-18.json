@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708500850425,
+  "endTime": 1708503763765,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2060590,
+      "num": 2060590,
+      "word": "王诗玥柳鑫宇75.43分",
+      "onboard_time": 1708499736,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2031252,
       "num": 2031252,
       "word": "周杰伦 有狗还在吠代表你还是行的",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1581503,
+      "num": 1581503,
+      "word": "医生称贾玲式减肥要有诊疗团队",
+      "onboard_time": 1708498715,
+      "rank": 19,
+      "category": "健康医疗,艺人"
+    },
+    {
       "raw_hot": 1577161,
       "num": 886610,
       "word": "白敬亭泪痣",
@@ -803,6 +819,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 1327300,
+      "num": 648929,
+      "word": "长沙火车站",
+      "onboard_time": 1708498175,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319821,
       "num": 1319821,
       "word": "比亚迪降价",
@@ -947,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1231108,
-      "num": 603151,
-      "word": "长沙火车站",
-      "onboard_time": 1708498175,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1228974,
       "num": 1228974,
       "word": "冻雨",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1708243895,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1116657,
-      "num": 1116657,
-      "word": "王诗玥柳鑫宇75.43分",
-      "onboard_time": 1708499736,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 1111928,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1708482876,
       "rank": 6,
       "category": "时尚,美妆"
+    },
+    {
+      "raw_hot": 922634,
+      "num": 922634,
+      "word": "王诗玥柳鑫宇第一",
+      "onboard_time": 1708501176,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 920880,
@@ -1723,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 772443,
-      "num": 772443,
-      "word": "医生称贾玲式减肥要有诊疗团队",
-      "onboard_time": 1708498715,
-      "rank": 19,
-      "category": "健康医疗,艺人"
-    },
-    {
       "raw_hot": 767563,
       "num": 513155,
       "word": "女教师出轨事件",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1708306232,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 755348,
+      "num": 755348,
+      "word": "小米汽车价格",
+      "onboard_time": 1708499434,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 754551,
@@ -1907,14 +1923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 697950,
-      "num": 588004,
-      "word": "小米汽车价格",
-      "onboard_time": 1708499434,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 697088,
       "num": 697088,
       "word": "游客与傅园慧经历相似却维权失败",
@@ -2041,6 +2049,14 @@
       "onboard_time": 1708309052,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663708,
+      "num": 663708,
+      "word": "魏大勋明侦拿了孟宴臣剧本",
+      "onboard_time": 1708502616,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 663146,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1708338101,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618048,
+      "num": 618048,
+      "word": "周杰伦霉霉演唱会待遇",
+      "onboard_time": 1708500454,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 617469,
@@ -2803,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498853,
+      "num": 352237,
+      "word": "原来看嘴巴也能发现痔疮",
+      "onboard_time": 1708499673,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 498003,
       "num": 498003,
       "word": "粉丝给迪丽热巴P的簪花照",
@@ -3019,6 +3051,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 462630,
+      "num": 345669,
+      "word": "当爷爷知道我的猫4000一只时",
+      "onboard_time": 1708501714,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 460556,
       "num": 370019,
       "word": "感觉这个弟弟快要碎了",
@@ -3097,6 +3137,14 @@
       "onboard_time": 1708252416,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 438731,
+      "num": 334182,
+      "word": "哪些人是艾滋病高风险人群",
+      "onboard_time": 1708502375,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 438141,
@@ -3699,6 +3747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370400,
+      "num": 370400,
+      "word": "易烊千玺谈主动选择权",
+      "onboard_time": 1708502913,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370111,
       "num": 370111,
       "word": "因为不想回国被妈妈拉黑了",
@@ -3819,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357348,
+      "num": 357348,
+      "word": "柳鑫宇心理素质",
+      "onboard_time": 1708500636,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355972,
       "num": 355972,
       "word": "不要有休息羞耻",
@@ -3929,14 +3993,6 @@
       "onboard_time": 1708344637,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 345812,
-      "num": 345812,
-      "word": "原来看嘴巴也能发现痔疮",
-      "onboard_time": 1708499673,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 345419,
@@ -4716,7 +4772,7 @@
     },
     {
       "raw_hot": 287690,
-      "num": 220291,
+      "num": 260067,
       "word": "结婚是找能玩一辈子的朋友",
       "onboard_time": 1708182935,
       "rank": 21,
@@ -5283,14 +5339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252438,
-      "num": 252438,
-      "word": "周杰伦霉霉演唱会待遇",
-      "onboard_time": 1708500454,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 252289,
       "num": 252289,
       "word": "上班前3天不宜安排高强度工作",
@@ -5657,6 +5705,14 @@
       "onboard_time": 1708307971,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236968,
+      "num": 236968,
+      "word": "OpenAI员工自曝996作息表",
+      "onboard_time": 1708501054,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 236812,
@@ -6267,6 +6323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 214859,
+      "num": 214859,
+      "word": "SMTOWN",
+      "onboard_time": 1708503339,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214357,
       "num": 214357,
       "word": "詹姆斯不确定是否举办退役巡演",
@@ -6355,6 +6419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210784,
+      "num": 210784,
+      "word": "贾玲消失一年唯一的活动",
+      "onboard_time": 1708503634,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210502,
       "num": 210502,
       "word": "东方甄选回应被指超量使用虾药",
@@ -6411,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209084,
+      "num": 200391,
+      "word": "SMTOWN艺人出发",
+      "onboard_time": 1708501836,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208808,
       "num": 208808,
       "word": "贾玲热辣滚烫的幕后记录",
@@ -6457,14 +6537,6 @@
       "onboard_time": 1708449323,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206750,
-      "num": 206750,
-      "word": "柳鑫宇心理素质",
-      "onboard_time": 1708500636,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 206340,
@@ -6681,6 +6753,14 @@
       "onboard_time": 1708440458,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200447,
+      "num": 200447,
+      "word": "中国女团vs泰国",
+      "onboard_time": 1708503215,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 200193,
@@ -7867,6 +7947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168999,
+      "num": 168999,
+      "word": "刚满月的宝宝发量惊人像真人版蒙奇奇",
+      "onboard_time": 1708500754,
+      "rank": 47,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 168369,
       "num": 168369,
       "word": "凌晨5点你楼上的邻居",
@@ -8619,12 +8707,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147408,
-      "num": 147408,
-      "word": "刚满月的宝宝发量惊人像真人版蒙奇奇",
-      "onboard_time": 1708500754,
-      "rank": 47,
-      "category": "母婴育儿"
+      "raw_hot": 146994,
+      "num": 375775,
+      "word": "油皮护肤新方式",
+      "onboard_time": 1708501355,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 146612,
@@ -9289,6 +9377,14 @@
       "onboard_time": 1708170271,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118275,
+      "num": 1126547,
+      "word": "拼出热辣滚烫赢得飞驰人生",
+      "onboard_time": 1708502856,
+      "rank": 2,
+      "category": "电影"
     },
     {
       "raw_hot": 117504,
