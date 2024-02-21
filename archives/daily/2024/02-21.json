@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708479079705,
+  "endTime": 1708481073951,
   "band_list": [
     {
       "raw_hot": 2075853,
@@ -17,6 +17,14 @@
       "onboard_time": 1708440879,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1947495,
+      "num": 1947495,
+      "word": "台媒曝夏克立家暴黄嘉千细节",
+      "onboard_time": 1708478736,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1828727,
@@ -107,6 +115,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 740917,
+      "num": 740917,
+      "word": "网剧飞驰人生定档",
+      "onboard_time": 1708479695,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 715374,
+      "num": 715374,
+      "word": "四六级成绩倒计时",
+      "onboard_time": 1708439741,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 661527,
+      "num": 661527,
+      "word": "李翊云小儿子去世",
+      "onboard_time": 1708480117,
+      "rank": 12,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 660541,
       "num": 660541,
       "word": "乐华为王一博报警",
@@ -139,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 542078,
-      "num": 542078,
+      "raw_hot": 544438,
+      "num": 544438,
       "word": "中方对美否决加沙停火决议强烈不满和失望",
       "onboard_time": 1708477594,
       "rank": 36,
@@ -163,14 +195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 500615,
-      "num": 500615,
-      "word": "台媒曝夏克立家暴黄嘉千细节",
-      "onboard_time": 1708478736,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494264,
       "num": 422678,
       "word": "钱学森写在香烟纸上的求救信",
@@ -179,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473370,
-      "num": 473370,
+      "raw_hot": 491638,
+      "num": 491638,
       "word": "蕉太狼",
       "onboard_time": 1708474654,
       "rank": 21,
@@ -201,6 +225,14 @@
       "onboard_time": 1708422637,
       "rank": 11,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 445420,
+      "num": 445420,
+      "word": "贾玲健身细节首次曝光",
+      "onboard_time": 1708479695,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 436452,
@@ -275,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367357,
+      "num": 367357,
+      "word": "原来神仙都有自己的小癖好",
+      "onboard_time": 1708475132,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363344,
       "num": 363344,
       "word": "柳鑫宇发声",
@@ -289,14 +329,6 @@
       "onboard_time": 1708408239,
       "rank": 17,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 310232,
-      "num": 310232,
-      "word": "原来神仙都有自己的小癖好",
-      "onboard_time": 1708475132,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307541,
@@ -315,12 +347,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 296982,
-      "num": 296982,
-      "word": "四六级成绩倒计时",
-      "onboard_time": 1708439741,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 292691,
+      "num": 292691,
+      "word": "昌平线",
+      "onboard_time": 1708477775,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287584,
+      "num": 287584,
+      "word": "苹果升级iPhone16麦克风",
+      "onboard_time": 1708478434,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 287358,
@@ -329,14 +369,6 @@
       "onboard_time": 1708475433,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 285468,
-      "num": 285468,
-      "word": "昌平线",
-      "onboard_time": 1708477775,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282823,
@@ -411,19 +443,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238694,
-      "num": 238694,
-      "word": "苹果升级iPhone16麦克风",
-      "onboard_time": 1708478434,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 237267,
       "num": 237267,
       "word": "贾玲有七部待播作品",
       "onboard_time": 1708432780,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 234077,
+      "num": 234077,
+      "word": "春节寄养一只猫要上万元",
+      "onboard_time": 1708479512,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232728,
+      "num": 232728,
+      "word": "票房",
+      "onboard_time": 1708480117,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -443,6 +483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227897,
+      "num": 227897,
+      "word": "出现这7种表现可能是蛋白质没吃够",
+      "onboard_time": 1708479274,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221605,
+      "num": 221605,
+      "word": "故宫雪景",
+      "onboard_time": 1708480233,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 220792,
       "num": 220792,
       "word": "任敏男装",
@@ -459,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218404,
+      "num": 218404,
+      "word": "一张工位照片看精神状态",
+      "onboard_time": 1708479996,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215846,
       "num": 215846,
       "word": "倒查IPO企业十年财务数据",
@@ -473,6 +537,22 @@
       "onboard_time": 1708449323,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202354,
+      "num": 202354,
+      "word": "电影打不过就跑算不算耍赖皮",
+      "onboard_time": 1708480657,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 201817,
+      "num": 201817,
+      "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
+      "onboard_time": 1708480533,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 198518,
@@ -497,6 +577,22 @@
       "onboard_time": 1708476695,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188297,
+      "num": 188297,
+      "word": "男子办村晚村民硬核打赏120斤大蒜",
+      "onboard_time": 1708480355,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178630,
+      "num": 178630,
+      "word": "西安的雪往下砸",
+      "onboard_time": 1708480837,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177044,
@@ -553,6 +649,14 @@
       "onboard_time": 1708441057,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158450,
+      "num": 158450,
+      "word": "雪天出行的8个提醒",
+      "onboard_time": 1708480893,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154219,
